@@ -9,9 +9,9 @@ paragraph: "None"
 
 Worked example: Distribution in a liquidation Issue Vanquish Pty Ltd is a resident private company that goes into liquidation in the 2024–25 income year. In the course of the winding up, the liquidator sells 2 assets held as long-term investments. Relevant details about those assets are: Asset                Acquired                                             Cost base                                Proceeds from sale $                                         $ 1                                 1.11.84                                      60,000                                        65,000 2                              1.11.2003                                     115,000                                        133,000 Explain how the proceeds from the sale of the 2 assets will be taxed when they are distributed to the 4 shareholders of the company.
 
-Solution Amounts distributed to shareholders by a liquidator in the course of winding up a company are assessable as deemed dividends to the extent that they represent “income” in the hands of the company being liquidated (ITAA36 s 47(1)). The exception is income that has been properly applied to replace a loss of paid-up share capital.
+Solution Amounts distributed to shareholders by a liquidator in the course of winding up a company are assessable as deemed dividends to the extent that they represent "income" in the hands of the company being liquidated (ITAA36 s 47(1)). The exception is income that has been properly applied to replace a loss of paid-up share capital.
 
-The meaning of “income” for the purposes of s 47(1) is extended by s 47(1A) which provides that, as well as amounts of an income nature, income includes:
+The meaning of "income" for the purposes of s 47(1) is extended by s 47(1A) which provides that, as well as amounts of an income nature, income includes:
 
 - any amount that has been included in assessable income of the company, other than capital gains,
 

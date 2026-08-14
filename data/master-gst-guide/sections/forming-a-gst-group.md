@@ -9,13 +9,13 @@ paragraph: "¶17-010"
 
 GST groups may consist of companies, trusts, individuals, non-profit bodies, partnerships or government bodies.
 
-Membership requirements To be eligible to join a group, an entity must satisfy the “membership requirements” (s 48-10). These require that:
+Membership requirements To be eligible to join a group, an entity must satisfy the "membership requirements" (s 48-10). These require that:
 
 - the entity is registered for GST purposes
 
 - it has the same tax periods as the other members (eg bodies with quarterly and monthly tax periods
 
-  cannot be grouped). This is not necessary if the entity’s tax period is a transitional period (¶7-105)
+  cannot be grouped). This is not necessary if the entity's tax period is a transitional period (¶7-105)
 
   that ends at the same time as a tax period of each of the other members, and is not longer than those
 
@@ -31,9 +31,9 @@ Membership requirements To be eligible to join a group, an entity must satisfy t
 
   partnership, individual or trust, is explained below.
 
-Formation procedure Entities are able to “self-assess” their eligibility to form the group, and to implement this at any time during a tax period, normally without the need to obtain the Commissioner’s approval, as was required under the former rules (see below). This is designed to:
+Formation procedure Entities are able to "self-assess" their eligibility to form the group, and to implement this at any time during a tax period, normally without the need to obtain the Commissioner's approval, as was required under the former rules (see below). This is designed to:
 
-- reduce uncertainty that otherwise may arise from the time taken to obtain the Commissioner’s
+- reduce uncertainty that otherwise may arise from the time taken to obtain the Commissioner's
 
   approval
 
@@ -55,15 +55,15 @@ Formation procedure Entities are able to “self-assess” their eligibility to 
 
   the group (s 48-5).
 
-The formation of the group takes effect from the start of the day specified in the notification. This may be on, before or after the date on which the entities decided to form the group. There is a proviso to this rule if the notification is made after the required date for lodgment of the BAS for the tax period in which the nominated day occurs. In such a case, the date of formation must be approved by the Commissioner, who has the power to specify some other date if appropriate (s 48-71). The Commissioner’s decision on this is reviewable (¶18-600).
+The formation of the group takes effect from the start of the day specified in the notification. This may be on, before or after the date on which the entities decided to form the group. There is a proviso to this rule if the notification is made after the required date for lodgment of the BAS for the tax period in which the nominated day occurs. In such a case, the date of formation must be approved by the Commissioner, who has the power to specify some other date if appropriate (s 48-71). The Commissioner's decision on this is reviewable (¶18-600).
 
 Example A, B and C, which all account monthly, agree to form a GST group with effect from 20 April, with C as the representative member. C notifies the Commissioner on 10 May. This is before the date on which the BAS is due for the tax period in which 20 April occurs (ie 21 May). The date of formation is therefore the nominated date, 20 April.
 
-Assume instead that C makes the notification on 30 May. This is after the date on which the BAS is due for the tax period in which 20 April occurs (ie 21 May). The Commissioner’s approval to the 20 April formation date is therefore required.
+Assume instead that C makes the notification on 30 May. This is after the date on which the BAS is due for the tax period in which 20 April occurs (ie 21 May). The Commissioner's approval to the 20 April formation date is therefore required.
 
 An entity ceases to be a member of the group if it leaves or is removed from the group (¶17-030), or if it ceases to satisfy the membership requirements (s 48-7). The representative member must notify the Commissioner within 21 days after any member ceases to satisfy the membership requirements.
 
-Consequences of changes during tax period Where an entity is part of a group for only part of a tax period, its activities in the part of the tax period prior to membership must be accounted for separately (s 48-51; 48-52). This means, for example, that where a group is formed during a tax period, the representative member must lodge a BAS for the group’s activities for the part of that tax period after formation, and each joining entity must lodge a BAS for its own activities prior to joining.
+Consequences of changes during tax period Where an entity is part of a group for only part of a tax period, its activities in the part of the tax period prior to membership must be accounted for separately (s 48-51; 48-52). This means, for example, that where a group is formed during a tax period, the representative member must lodge a BAS for the group's activities for the part of that tax period after formation, and each joining entity must lodge a BAS for its own activities prior to joining.
 
 *Refs: s 48-5), s 48-71), s 48-7), s 48-51*
 
@@ -87,21 +87,21 @@ Example Entities A, B and C form a GST group on 15 April, with B appointed as th
 
 A March BAS must be lodged, in the normal way, by each of the entities for their own activities up to 31 March.
 
-- B — for its own activities from 1 April to 14 April, and for the ABC group’s activities from 15 April to 30 April
+- B — for its own activities from 1 April to 14 April, and for the ABC group's activities from 15 April to 30 April
 
 - A — for its own activities from 1 April to 14 April, and
 
 - C — for its own activities from 1 April to 14 April.
 
-  The May BAS is lodged by B for the group’s activities from 1 May to 31 May.
+  The May BAS is lodged by B for the group's activities from 1 May to 31 May.
 
 Assume now that A leaves the group on 20 June, with B remaining as the representative member.
 
-- B — for the group activities from 1 June to 30 June, including A’s activities up to 20 June, and
+- B — for the group activities from 1 June to 30 June, including A's activities up to 20 June, and
 
 - A — for its own activities from 20 June to 30 June.
 
-- B — for the BC group’s activities from 1 July to 31 July, and
+- B — for the BC group's activities from 1 July to 31 July, and
 
 - A — for its own activities from 1 July to 31 July.
 
@@ -115,7 +115,7 @@ For the modified rules relating to religious groups, see ¶15-052.
 
 Ownership requirements for companies and associations A company is not restricted to the normal concept of a company. It means a body corporate, and also any other unincorporated association or body of persons, other than a partnership (s 195-1).
 
-If the group consists entirely of companies, the ownership requirement is that each company in the group must be a member of the same “90% owned group” as any other companies in the group (s 48-10(1)(b)).
+If the group consists entirely of companies, the ownership requirement is that each company in the group must be a member of the same "90% owned group" as any other companies in the group (s 48-10(1)(b)).
 
 Two companies are members of the same 90% owned group if one of them has at least a 90% stake in the other, or if a third company has at least a 90% stake in the other two (s 190-1). To have at least a 90% stake in a company:
 
@@ -151,7 +151,7 @@ However, Company D is not a member of that 90% group, because Company A only has
 
 Companies would not satisfy the ownership requirements simply because an individual has 100% direct ownership of each of the companies (Interpretative Decision ID 2002/492).
 
-Groups of companies and other entities If the group consists of companies and other entities, the ownership requirements for the companies are: (1) each of the companies must satisfy the “90% owned group” requirement, and (2) at least one of the companies must have the required relationship with the non-company members.
+Groups of companies and other entities If the group consists of companies and other entities, the ownership requirements for the companies are: (1) each of the companies must satisfy the "90% owned group" requirement, and (2) at least one of the companies must have the required relationship with the non-company members.
 
 - a partnership, trust or individual member has at least a 90% stake in the company
 
@@ -175,9 +175,9 @@ Groups of companies and other entities If the group consists of companies and ot
 
 Example Three individuals each have a one-third interest in a partnership and in each of two companies. The partnership and the two companies intend to form a GST group.
 
-The partnership satisfies the membership requirements for grouping with each company (¶17-014), and each company satisfies the membership requirements for grouping with the partnership (see (2) above). However, the companies do not satisfy the membership requirements of grouping with each other because they do not satisfy the “90% owned group” test (see (1) above). The entities therefore cannot form a GST group (based on Interpretative Decision ID 2002/524).
+The partnership satisfies the membership requirements for grouping with each company (¶17-014), and each company satisfies the membership requirements for grouping with the partnership (see (2) above). However, the companies do not satisfy the membership requirements of grouping with each other because they do not satisfy the "90% owned group" test (see (1) above). The entities therefore cannot form a GST group (based on Interpretative Decision ID 2002/524).
 
-A “family member” means the same as under the partnership and trust rules (¶17-014).
+A "family member" means the same as under the partnership and trust rules (¶17-014).
 
 Non-profit bodies The 90% requirement does not apply if all the members are non-profit bodies which form part of a non-profit association (s 48-10(2)). However, all the other requirements (registration, etc) continue to apply. For the special grouping rules that apply to sub-entities which operate as independent branches of non-profit bodies, see ¶15-080. trusts
 

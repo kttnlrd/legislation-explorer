@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "5"
 division_title: "Court appeals against objection decisions"
 subdivision: ""

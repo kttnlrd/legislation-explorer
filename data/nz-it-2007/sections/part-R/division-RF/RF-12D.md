@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(5)**  The calculation of total interest and total expenditure must be made in the currency of the financial arrangement.
 
-**When lender’s income zero**
+**When lender's income zero**
 
 **(6)**  In the calculation of non-resident financial arrangement income, if the borrower has income on the related-party debt, the amount derived by the lender is treated as zero.
 

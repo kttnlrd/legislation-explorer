@@ -4,17 +4,15 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 100
-  • Div 195
-  • Div 358
-  • Division 100
-  • Division 195
-  • Division 21
-  • Division 358
+ • Div 100
+ • Div 195
+ • Div 358
+ • Division 100
+ • Division 195
+ • Division 21
+ • Division 358
 
 Topics: GST, Companies, International
-
-
 
 ================================================================================
 
@@ -29,7 +27,7 @@ Back to browse
 37 related documents
 Goods and Services Tax Ruling
 GSTR 2003/14
-Goods and services tax:  the GST implications of transactions between members of a barter scheme conducted by a trade exchange
+Goods and services tax: the GST implications of transactions between members of a barter scheme conducted by a trade exchange
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -70,7 +68,7 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling deals with the application of
 A New Tax System (Goods and Services Tax) Act 1999
@@ -89,12 +87,12 @@ Date of effect
 [1A]
 Context
 12. Barter schemes are conducted by entities variously referred to as an 'exchange', 'barter exchange' or 'trade exchange' providing services in their own right or through a manager for which the entity is compensated by the members of the scheme by way of fees.
-13. The terms 'exchange', 'barter exchange' and 'trade exchange' may be used interchangeably to describe the entity that owns the barter scheme.  In this Ruling, the term 'trade exchange' is used to refer to all these entities.
-14. Various terms are used to refer to the medium of exchange, such as units, credits, trade dollars or barter dollars.  In this Ruling, the term 'credits' is used to refer to all of these.
+13. The terms 'exchange', 'barter exchange' and 'trade exchange' may be used interchangeably to describe the entity that owns the barter scheme. In this Ruling, the term 'trade exchange' is used to refer to all these entities.
+14. Various terms are used to refer to the medium of exchange, such as units, credits, trade dollars or barter dollars. In this Ruling, the term 'credits' is used to refer to all of these.
 15. Barter schemes typically involve a number of entities that have agreed in writing to accept credits to their membership accounts in exchange for goods, services or anything else they may supply.
-16. Barter schemes vary in their degree of sophistication, from those which are community-based to larger business-oriented ones.  The business-oriented barter schemes are run for profit and their membership is made up principally of businesses.
-17. The community-based schemes are usually run on a non-profit basis and their membership may consist of individuals, businesses or other organisations.  Members of community-based schemes are often not registered or required to be registered for GST or do not make supplies in the course or furtherance of their enterprise.  However, where members of community-based schemes are registered or required to be registered for GST and make supplies in the course or furtherance of their enterprise, this Ruling applies to them.
-18. The price of the supplies that are exchanged between members of a barter scheme is normally expressed in credits.  Credits are used as the medium of exchange which normally has, under the rules of the barter scheme, an equivalent value in Australian dollars.
+16. Barter schemes vary in their degree of sophistication, from those which are community-based to larger business-oriented ones. The business-oriented barter schemes are run for profit and their membership is made up principally of businesses.
+17. The community-based schemes are usually run on a non-profit basis and their membership may consist of individuals, businesses or other organisations. Members of community-based schemes are often not registered or required to be registered for GST or do not make supplies in the course or furtherance of their enterprise. However, where members of community-based schemes are registered or required to be registered for GST and make supplies in the course or furtherance of their enterprise, this Ruling applies to them.
+18. The price of the supplies that are exchanged between members of a barter scheme is normally expressed in credits. Credits are used as the medium of exchange which normally has, under the rules of the barter scheme, an equivalent value in Australian dollars.
 19. The services provided by or on behalf of the trade exchange typically include:
 •
 providing and organising a marketplace;
@@ -102,33 +100,33 @@ providing and organising a marketplace;
 matching buyers and sellers; and
 •
 accounting for transactions between members.
-20. Trade exchanges provide members of the barter scheme with a trading account for the purpose of recording members' transactions.  The trade exchange credits or debits this account each time a member makes a sale or purchase respectively.  The account is also debited for fees charged by the trade exchange to members of the barter scheme.
+20. Trade exchanges provide members of the barter scheme with a trading account for the purpose of recording members' transactions. The trade exchange credits or debits this account each time a member makes a sale or purchase respectively. The account is also debited for fees charged by the trade exchange to members of the barter scheme.
 21. Some trade exchanges use electronic systems that include plastic cards held by members and paper dockets that are completed in triplicate to effect the crediting and debiting of accounts and record-keeping generally.
-22. These electronic systems are similar to those used in credit card systems.  Some systems may also be on-line.  Where authorisation for the proposed sale is required, it has to be obtained by the member making the sale.  The authorisation is given by the trade exchange after checking the purchaser's available credit.
-23. The rules of some barter schemes permit members to issue and redeem 'script' or 'scrip'.  This usually has the form of a voucher denominated in the medium of exchange of the barter scheme that entitles the holder to supplies up to that value.
+22. These electronic systems are similar to those used in credit card systems. Some systems may also be on-line. Where authorisation for the proposed sale is required, it has to be obtained by the member making the sale. The authorisation is given by the trade exchange after checking the purchaser's available credit.
+23. The rules of some barter schemes permit members to issue and redeem 'script' or 'scrip'. This usually has the form of a voucher denominated in the medium of exchange of the barter scheme that entitles the holder to supplies up to that value.
 24. The trade exchange may also buy and sell in its own right acting as a member utilising its own 'trading account'.
 Ruling with explanation
 25. When an entity, which is a member of a barter scheme, makes a supply which satisfies the requirements of section 9-5 to another member, it makes a taxable supply and GST is payable on that supply.
 [1]
-26. One of the requirements of section 9-5 is that there is a supply for consideration.  That consideration may be in money or in kind or in some instances a combination of these.
+26. One of the requirements of section 9-5 is that there is a supply for consideration. That consideration may be in money or in kind or in some instances a combination of these.
 [2]
 27. In transactions between barter scheme members, consideration for a supply is provided through a third party (the trade exchange) on behalf of the recipient and is by way of crediting the membership account of the supplier.
 28. The consideration paid for supplies made between members of a barter scheme is the debiting of the recipient's account and the consideration received is the crediting of the supplier's account.
-29. The following diagram illustrates a taxable supply made for consideration between members of a barter scheme.  Entity B, on signing a docket, provides consideration by authorising the trade exchange to debit its (B's) account and to credit Entity A's account on its behalf.
+29. The following diagram illustrates a taxable supply made for consideration between members of a barter scheme. Entity B, on signing a docket, provides consideration by authorising the trade exchange to debit its (B's) account and to credit Entity A's account on its behalf.
 30. Further requirements of section 9-5 are that the supply is made in the course or furtherance of an enterprise carried on by an entity that is registered or required to be registered.
 31. Where a member of a barter scheme makes a supply as part of the member's private recreational pursuits, or is not registered or required to be registered, then the supply is not a taxable supply.
-32. A member of a barter scheme is not necessarily carrying on an enterprise or required to be registered for GST.  However, if the member makes supplies in the course of carrying on an enterprise and is registered or required to be registered, those supplies are taxable supplies to the extent they are not GST-free or input taxed.
+32. A member of a barter scheme is not necessarily carrying on an enterprise or required to be registered for GST. However, if the member makes supplies in the course of carrying on an enterprise and is registered or required to be registered, those supplies are taxable supplies to the extent they are not GST-free or input taxed.
 [3]
 33. To the extent that a member of a barter scheme makes a creditable acquisition it is entitled to an input tax credit.
 [4]
-The consideration for the creditable acquisition is the credit to the supplier member's account by the trade exchange.  An acquisition that is made by an unregistered party, or relates solely to input taxed supplies, or is solely of a private or domestic nature, has not been made for a creditable purpose.
+The consideration for the creditable acquisition is the credit to the supplier member's account by the trade exchange. An acquisition that is made by an unregistered party, or relates solely to input taxed supplies, or is solely of a private or domestic nature, has not been made for a creditable purpose.
 [5]
-34. Where the credit to a supplier's account is net of a fee charged by the trade exchange, the consideration for the acquisition is the gross credit before the fee is netted out.  Similarly, where the debit to the recipient's account includes a fee to the trade exchange, the debit is consideration for both the supply from the other member, and a supply by the trade exchange.  In the case of those barter schemes that permit supplies to be made for a combination of credit to the supplier's account and cash, the price of the supply is the sum of these two amounts of consideration.
+34. Where the credit to a supplier's account is net of a fee charged by the trade exchange, the consideration for the acquisition is the gross credit before the fee is netted out. Similarly, where the debit to the recipient's account includes a fee to the trade exchange, the debit is consideration for both the supply from the other member, and a supply by the trade exchange. In the case of those barter schemes that permit supplies to be made for a combination of credit to the supplier's account and cash, the price of the supply is the sum of these two amounts of consideration.
 Example 1 - fees included in the transaction
 35.
-Sherry's Scents and Karma Candles are both members of the Better Barter Exchange.  Sherry's Scents supplies perfumes to Karma Candles for use in their scented candles.  The consideration for the supply is 77 Better Barter credits (BBs).  Better Barter Exchange imposes administration fees on both the supplier and the acquirer of 7 BBs and credits Sherry's Scents' account with 70 BBs while debiting Karmas Candles' account for 84 BBs.
+Sherry's Scents and Karma Candles are both members of the Better Barter Exchange. Sherry's Scents supplies perfumes to Karma Candles for use in their scented candles. The consideration for the supply is 77 Better Barter credits (BBs). Better Barter Exchange imposes administration fees on both the supplier and the acquirer of 7 BBs and credits Sherry's Scents' account with 70 BBs while debiting Karmas Candles' account for 84 BBs.
 36.
-Karma Candles has provided consideration of 77 BBs to Sherry's Scents and 7 BBs to Better Barter Exchange.  Sherry's Scents has received consideration of 77 BBs from Karma Candles and provided consideration of 7 BBs to Better Barter Exchange.  Better Barter Exchange has received 7 BBs from Sherry's Scents and 7 BBs from Karma Candles for its supply of administration services.
+Karma Candles has provided consideration of 77 BBs to Sherry's Scents and 7 BBs to Better Barter Exchange. Sherry's Scents has received consideration of 77 BBs from Karma Candles and provided consideration of 7 BBs to Better Barter Exchange. Better Barter Exchange has received 7 BBs from Sherry's Scents and 7 BBs from Karma Candles for its supply of administration services.
 37. When a trade exchange supplies things to, or acquires things from, members of a barter scheme in its own right through its trading account, those supplies and acquisitions are treated the same as if the supply or acquisition were made between two members.
 How to calculate GST payable and input tax credits
 38. Price
@@ -138,40 +136,40 @@ is the sum of the amount of any consideration for a supply expressed as an amoun
 [7]
 Payment by way of crediting a member's account is consideration expressed as an amount of money for the purposes of the GST Act.
 40. The price of a supply made by one member to another is the gross credit to the member's account before fees (as discussed in paragraph 34), or if cash is also provided, the sum of the gross credit to the account and the cash.
-41. Section 9-70 provides that the GST payable on a taxable supply is 10 per cent of the value of the taxable supply.  The value of a taxable supply is 10/11 of the price.
+41. Section 9-70 provides that the GST payable on a taxable supply is 10 per cent of the value of the taxable supply. The value of a taxable supply is 10/11 of the price.
 42. For the purposes of the GST Act the value of a taxable supply must be expressed in Australian currency,
 [8]
 therefore the price must be converted to Australian currency before applying the formula to calculate the value of the supply.
 Example 2 - GST payable on a taxable supply between members of a barter scheme
-43. Harvey is a bookkeeper who is a member of the Better Barter Exchange.  He provides bookkeeping services to Tracey who is also a member of the Better Barter Exchange.  Harvey's trading account is credited with 440 Better Barter credits (BBs) for the supply of services to Tracey.
-44. Under the rules of the barter scheme, one BB equals $1.  The price of the supply is 440 BBs.  Before calculating the value of the supply the 440 BBs are converted to their Australian dollar equivalent - $440.  The value of the taxable supply that Harvey makes is $440 x 10/11, which is $400.  The GST on the supply is therefore $40 (that is, 10% of $400).
+43. Harvey is a bookkeeper who is a member of the Better Barter Exchange. He provides bookkeeping services to Tracey who is also a member of the Better Barter Exchange. Harvey's trading account is credited with 440 Better Barter credits (BBs) for the supply of services to Tracey.
+44. Under the rules of the barter scheme, one BB equals $1. The price of the supply is 440 BBs. Before calculating the value of the supply the 440 BBs are converted to their Australian dollar equivalent - $440. The value of the taxable supply that Harvey makes is $440 x 10/11, which is $400. The GST on the supply is therefore $40 (that is, 10% of $400).
 45. Where the rules of the barter scheme or the member's agreement specify the rate for converting credits into their Australian dollar equivalent and the value of the goods or services is actually calculated in credits on this basis, members may use this specified rate.
 46. However, where the rules of the barter scheme or the member's agreement do not specify the rate of conversion, or if the consideration attributed to the supply in credits does not reflect the value of the supply using the rate provided, then the conversion rate is such that the credits attributed to the supply convert to the GST-inclusive market value of that supply.
-47. Goods and Services Tax Ruling GSTR 2001/6 provides reasonable methods for determining the GST-inclusive market value of non-monetary consideration.  Although the Ruling deals with non-monetary consideration, the guidelines given can be used when converting credits into their Australian dollar equivalent.
+47. Goods and Services Tax Ruling GSTR 2001/6 provides reasonable methods for determining the GST-inclusive market value of non-monetary consideration. Although the Ruling deals with non-monetary consideration, the guidelines given can be used when converting credits into their Australian dollar equivalent.
 Example 3 - consideration attributed to supply is not realistic
 48.
-Lewis is a commercial artist who is a member of the B-trade Barter Exchange.  He provides artistic services to Chris who is also a member of the B-trade Barter Exchange.  Lewis's trading account is credited with 550,000 B-trade Barter credits for the supply of services to Chris. However, the GST-inclusive market value of the services is $550.
+Lewis is a commercial artist who is a member of the B-trade Barter Exchange. He provides artistic services to Chris who is also a member of the B-trade Barter Exchange. Lewis's trading account is credited with 550,000 B-trade Barter credits for the supply of services to Chris. However, the GST-inclusive market value of the services is $550.
 49.
-The consideration in credits attributed to the supply of services is not a realistic representation of the value of the service. The conversion rate to be applied to the 550,000 B-trade Barter credits is such that they convert to the GST-inclusive market value of the supply, that is, $550.  The value of the taxable supply that Lewis makes is $550 x 10/11, which is $500.  The GST payable on the supply is therefore $50 (that is, 10% of $500).
+The consideration in credits attributed to the supply of services is not a realistic representation of the value of the service. The conversion rate to be applied to the 550,000 B-trade Barter credits is such that they convert to the GST-inclusive market value of the supply, that is, $550. The value of the taxable supply that Lewis makes is $550 x 10/11, which is $500. The GST payable on the supply is therefore $50 (that is, 10% of $500).
 50.
-Chris is entitled to an input tax credit for his acquisition of services provided the requirements of section 11-5 are satisfied.  The amount of the input tax credit to which he is entitled is an amount equal to the GST payable on the supply of the services acquired, which is $50.
-51. It should be noted that parties to transactions which involve inflated values may have consequences other than an adjustment to the amount of GST payable or the amount of input tax credit entitlement.  Transactions where the values are set at artificially high levels for the purpose (or a purpose) of establishing an inflated input tax credit entitlement may indicate fraudulent activity.
+Chris is entitled to an input tax credit for his acquisition of services provided the requirements of section 11-5 are satisfied. The amount of the input tax credit to which he is entitled is an amount equal to the GST payable on the supply of the services acquired, which is $50.
+51. It should be noted that parties to transactions which involve inflated values may have consequences other than an adjustment to the amount of GST payable or the amount of input tax credit entitlement. Transactions where the values are set at artificially high levels for the purpose (or a purpose) of establishing an inflated input tax credit entitlement may indicate fraudulent activity.
 52. The amount of the input tax credit for a creditable acquisition is an amount equal to the GST payable on the supply of the thing supplied.
 [9]
 The amount of the input tax credit is reduced if the acquisition is only partly creditable.
 [10]
 Example 4 - acquisition that is partly creditable
 53.
-Harvey uses his Better Barter card to make an acquisition of two bunches of flowers, one for his wife Linda's birthday and one for his office.  Harvey's entitlement to an input tax credit will be reduced because his acquisition is only partly for a creditable purpose.
+Harvey uses his Better Barter card to make an acquisition of two bunches of flowers, one for his wife Linda's birthday and one for his office. Harvey's entitlement to an input tax credit will be reduced because his acquisition is only partly for a creditable purpose.
 Tax invoice requirements
 54. The recipient of a supply between members of a barter scheme is not able to claim an input tax credit in respect of the supply unless it holds a tax invoice.
 [11]
 A supplier must, if requested by the recipient, issue a tax invoice for taxable supplies with a GST-exclusive value of more than $75, within 28 days of the recipient requesting it.
 [12]
-55.  A tax invoice must satisfy the requirements of subsection 29-70(1).
+55. A tax invoice must satisfy the requirements of subsection 29-70(1).
 [13]
 Paragraph 29-70(1)(b) provides that a tax invoice for a taxable supply must be in the approved form.
-56. There are specific tax invoice requirements where a member of a barter scheme (including the exchange in its capacity as a member) makes a taxable supply and the consideration is expressed in credits.  A tax invoice must comply with the tax invoice requirements, and include:
+56. There are specific tax invoice requirements where a member of a barter scheme (including the exchange in its capacity as a member) makes a taxable supply and the consideration is expressed in credits. A tax invoice must comply with the tax invoice requirements, and include:
 •
 the GST-inclusive price expressed in Australian currency; or
 •
@@ -179,7 +177,7 @@ the GST payable in Australian currency.
 57. The conversion rate to be used by the supplier is specified in paragraphs 45 and 46 of this Ruling.
 Example 5 - tax invoice
 58.
-Harvey uses his Better Barter card to make an acquisition of a new computer from Bob for use in his bookkeeping business.  The rules of the barter scheme specify that one Better Barter credit (BB) equals $1, and the market value of the computer is actually calculated in credits on this basis.
+Harvey uses his Better Barter card to make an acquisition of a new computer from Bob for use in his bookkeeping business. The rules of the barter scheme specify that one Better Barter credit (BB) equals $1, and the market value of the computer is actually calculated in credits on this basis.
 59.
 Bob issues Harvey with a tax invoice showing the price of the computer in Better Barter credits and the GST payable in Australian currency converted at the rate of one BB equalling one Australian dollar.
 How to attribute GST payable and input tax credits
@@ -196,13 +194,13 @@ When is the consideration for a supply or acquisition received and provided?
 66. Where the supplier's account is not credited in relation to a particular supply (for example, where the recipient has insufficient credit in its account), payment will be taken not to have been made in relation to that supply.
 67. In
 Aronis & Aronis Nominees Pty Ltd (trading as Welland Tyre Power) v. Hallett Brick Industries, South Australia,
-unreported; Supreme Court of South Australia, 11 March 1999; [1999] SASC 92, Debelle J compared payment by way of credit under a barter scheme with payment by way of bill of exchange or cheque.  He said:
-If a bill of exchange or a cheque given in payment for the sale of goods is dishonoured, the seller may sue to recover payment unless the parties have agreed that the receipt of the negotiable instrument is in full satisfaction of the debt ... When Bartercard Limited ... informed the plaintiff that payment could not be made in Bartercard trade dollars, the position was analogous to that of a bank dishonouring a cheque.  As the defendants could not pay in trade dollars and were in breach of the implied terms, the plaintiff was entitled to sue the defendant to recover the balance of the purchase price.
+unreported; Supreme Court of South Australia, 11 March 1999; [1999] SASC 92, Debelle J compared payment by way of credit under a barter scheme with payment by way of bill of exchange or cheque. He said:
+If a bill of exchange or a cheque given in payment for the sale of goods is dishonoured, the seller may sue to recover payment unless the parties have agreed that the receipt of the negotiable instrument is in full satisfaction of the debt ... When Bartercard Limited ... informed the plaintiff that payment could not be made in Bartercard trade dollars, the position was analogous to that of a bank dishonouring a cheque. As the defendants could not pay in trade dollars and were in breach of the implied terms, the plaintiff was entitled to sue the defendant to recover the balance of the purchase price.
 Example 6 - consideration both received and provided when transaction slip is signed
 68.
-Harvey accounts on the cash basis and supplies his services in preparing a profit and loss statement to Wannee who is also a member of the Better Barter Exchange.  Wannee pays for Harvey's services in Better Barter credits.  For attribution purposes, the consideration for the supply is both received and provided when Wannee signs the docket authorising the trade exchange to credit Harvey's account and debit her account.
-69. A supplier, whether accounting on a cash or non-cash basis receives consideration when the recipient signs the docket authorising the trade exchange to debit its account and credit the supplier's account.  GST is payable by the supplier in the tax period in which consideration is received.  GST may be payable in an earlier tax period by a supplier that accounts on a non-cash basis if an invoice is issued before the consideration is received.
-70. Similarly the recipient, whether accounting on a cash or non-cash basis has provided the consideration for the supply when it signs the docket authorising the trade exchange to debit its account and credit the account of the supplier.  The recipient is entitled to an input tax credit for creditable acquisitions it makes in the tax period in which the consideration is provided.  A recipient that accounts on a non-cash basis may be entitled to an input tax credit in an earlier tax period if the supplier issues an invoice before the consideration is provided.
+Harvey accounts on the cash basis and supplies his services in preparing a profit and loss statement to Wannee who is also a member of the Better Barter Exchange. Wannee pays for Harvey's services in Better Barter credits. For attribution purposes, the consideration for the supply is both received and provided when Wannee signs the docket authorising the trade exchange to credit Harvey's account and debit her account.
+69. A supplier, whether accounting on a cash or non-cash basis receives consideration when the recipient signs the docket authorising the trade exchange to debit its account and credit the supplier's account. GST is payable by the supplier in the tax period in which consideration is received. GST may be payable in an earlier tax period by a supplier that accounts on a non-cash basis if an invoice is issued before the consideration is received.
+70. Similarly the recipient, whether accounting on a cash or non-cash basis has provided the consideration for the supply when it signs the docket authorising the trade exchange to debit its account and credit the account of the supplier. The recipient is entitled to an input tax credit for creditable acquisitions it makes in the tax period in which the consideration is provided. A recipient that accounts on a non-cash basis may be entitled to an input tax credit in an earlier tax period if the supplier issues an invoice before the consideration is provided.
 [17]
 The account is not credited by the trade exchange
 71. Where an entity that has made a supply in relation to which the trade exchange did not credit its trading account (in full or in part), accounts for GST on the cash basis, the entity has two options:
@@ -221,27 +219,27 @@ revise the previous BAS; or
 •
 make a decreasing adjustment in accordance with Division 21 and Goods and Services Taxation Ruling GSTR 2000/19.
 Script transactions
-73. The supply of 'script' or 'scrip' by a member is the supply of a voucher within the meaning given in section 100-25.  Where an amount expressed in terms of credits (however the particular barter scheme describes them) is stated on the voucher, it may fall for treatment under section 100-5 of the Act.  This Ruling does not deal with the circumstances in which Division 100 applies to a voucher or explain how to treat transactions in which supplies are made for consideration in the form of a voucher.
+73. The supply of 'script' or 'scrip' by a member is the supply of a voucher within the meaning given in section 100-25. Where an amount expressed in terms of credits (however the particular barter scheme describes them) is stated on the voucher, it may fall for treatment under section 100-5 of the Act. This Ruling does not deal with the circumstances in which Division 100 applies to a voucher or explain how to treat transactions in which supplies are made for consideration in the form of a voucher.
 [20]
 Sale of credit in a barter scheme
-74. If permitted by the rules of the barter scheme, members may sell their credit or part of their credit to another entity for cash.  The supply of the credit in the member's account is not, in these circumstances, a supply of money, as the credit is not supplied
+74. If permitted by the rules of the barter scheme, members may sell their credit or part of their credit to another entity for cash. The supply of the credit in the member's account is not, in these circumstances, a supply of money, as the credit is not supplied
 as payment
-by way of crediting or debiting an account.  Even if the credit is transferred from the supplier entity's account to the recipient entity's account this is a supply (transfer) of the credit and not a payment for the cash received.
-75. The supply by a member of its credit is not the supply of an interest in or under a barter scheme, but of a credit that records the extent to which the member is entitled to trade with other members of the scheme.  The supply is also not a supply of an interest mentioned in any other item in subregulation 40-5.09(3).  Therefore, the supply of the credit is a taxable supply.
-76. Alternatively, if the supply of the credit in the member's account were a supply of money, the supply of the credit for cash would be a supply (of money) the consideration for which would be a supply of money.  Under subsection 9-10(4) a supply of money is not a supply unless the money is provided as consideration for a supply that is a supply of money.  In this case both of the supplies of money are supplies.
-77. Each side of the transaction would need to be examined to determine the character of the supply for GST purposes.  A supply of cash is a supply of an interest in or under Australian currency and a financial supply under item 9 of subregulation 40-5.09(3).
-78. However, the supply of the credit would be a taxable supply because it does not fit within any of the items listed in subregulation 40-5.09(3).  The crediting or debiting of the member's account is not an interest in or under item 1 of subregulation 40-5.09(3).  The definition of 'account' for the purposes of the GST regulations is restricted to an account made available by an Australian ADI (authorised deposit-taking institution) in the course of its banking business within the meaning of the
+by way of crediting or debiting an account. Even if the credit is transferred from the supplier entity's account to the recipient entity's account this is a supply (transfer) of the credit and not a payment for the cash received.
+75. The supply by a member of its credit is not the supply of an interest in or under a barter scheme, but of a credit that records the extent to which the member is entitled to trade with other members of the scheme. The supply is also not a supply of an interest mentioned in any other item in subregulation 40-5.09(3). Therefore, the supply of the credit is a taxable supply.
+76. Alternatively, if the supply of the credit in the member's account were a supply of money, the supply of the credit for cash would be a supply (of money) the consideration for which would be a supply of money. Under subsection 9-10(4) a supply of money is not a supply unless the money is provided as consideration for a supply that is a supply of money. In this case both of the supplies of money are supplies.
+77. Each side of the transaction would need to be examined to determine the character of the supply for GST purposes. A supply of cash is a supply of an interest in or under Australian currency and a financial supply under item 9 of subregulation 40-5.09(3).
+78. However, the supply of the credit would be a taxable supply because it does not fit within any of the items listed in subregulation 40-5.09(3). The crediting or debiting of the member's account is not an interest in or under item 1 of subregulation 40-5.09(3). The definition of 'account' for the purposes of the GST regulations is restricted to an account made available by an Australian ADI (authorised deposit-taking institution) in the course of its banking business within the meaning of the
 Banking Act 1959
-or its State banking business.  The definition does not include a member's account in a barter scheme.
-79. Using this approach, the supply of the credits is a taxable supply.  Although this is the same outcome as produced by our preferred analysis, we do not accept that the alternative is the correct approach.
+or its State banking business. The definition does not include a member's account in a barter scheme.
+79. Using this approach, the supply of the credits is a taxable supply. Although this is the same outcome as produced by our preferred analysis, we do not accept that the alternative is the correct approach.
 Example 7 - sale of barter credits
 80.
-Tex is a member of Better Barter Exchange.  He has accumulated 1,100 Better Barter credits but is about to move to a location where he will not be able to utilise his credits.  The rules of Better Barter Exchange permit Tex to sell his credit to another member of the barter scheme.  Tex sells his 1,100 Better Barter credits to Ernie for $550 cash.  The supply of Tex's credits is a taxable supply, the consideration for which is $550.
+Tex is a member of Better Barter Exchange. He has accumulated 1,100 Better Barter credits but is about to move to a location where he will not be able to utilise his credits. The rules of Better Barter Exchange permit Tex to sell his credit to another member of the barter scheme. Tex sells his 1,100 Better Barter credits to Ernie for $550 cash. The supply of Tex's credits is a taxable supply, the consideration for which is $550.
 What are the GST return requirements?
 81. There is no requirement in the GST legislation for the supplier to collect the GST in cash where consideration for a taxable supply is provided by way of a trade exchange crediting the supplier's account on behalf of the recipient.
-82. The credit to the supplier's account as consideration for a taxable supply will be GST-inclusive.  The supplier treats the supply in the same way as any other taxable supply by recording its value in the supplier's GST return (Business Activity Statement).
+82. The credit to the supplier's account as consideration for a taxable supply will be GST-inclusive. The supplier treats the supply in the same way as any other taxable supply by recording its value in the supplier's GST return (Business Activity Statement).
 83. All taxable supplies and creditable acquisitions made by members of a barter scheme must be included in their GST return.
-84. One of the GST return requirements is that all the amounts on the form are to be shown in Australian currency.  The Commissioner considers that the phrase 'shown in Australian currency' is akin to the phrase 'expressed in terms of Australian currency'.
+84. One of the GST return requirements is that all the amounts on the form are to be shown in Australian currency. The Commissioner considers that the phrase 'shown in Australian currency' is akin to the phrase 'expressed in terms of Australian currency'.
 [21]
 The 'net amount',
 [21A]
@@ -351,8 +349,8 @@ Taxation Administration Act 1953.
 Previously released in draft form as GSTR 2002/D3.
 References
 ATO references:
-NO  T2000/19540
-ISSN:  1443-5160
+NO T2000/19540
+ISSN: 1443-5160
 Related Rulings/Determinations:
 GSTR 2000/19
 GSTR 2001/2
@@ -377,36 +375,36 @@ Business Line:
 ISP - GST
 Legislative References:
 A New Tax System (GST) Act 1999
-ANTS(GST)A99  9-5
-ANTS(GST)A99  9-5(a)
-ANTS(GST)A99  9-10(4)
-ANTS(GST)A99  9-15
-ANTS(GST)A99  9-40
-ANTS(GST)A99  9-70
-ANTS(GST)A99  9-75
-ANTS(GST)A99  9-75(1)
-ANTS(GST)A99  9-85(1)
-ANTS(GST)A99  11-5
-ANTS(GST)A99  11-25
-ANTS(GST)A99  11-30
-ANTS(GST)A99  29-5(1)(a)
-ANTS(GST)A99  29-5(1)(b)
-ANTS(GST)A99  29-5(2)
-ANTS(GST)A99  29-10(1)(a)
-ANTS(GST)A99  29-10(1)(b)
-ANTS(GST)A99  29-10(2)
-ANTS(GST)A99  29-10(3)
-ANTS(GST)A99  29-70(1)
-ANTS(GST)A99  29-70(1)(b)
-ANTS(GST)A99  29-70(2)
-ANTS(GST)A99  29-80(1)
-ANTS(GST)A99  Div 100
-ANTS(GST)A99  100-5
-ANTS(GST)A99  100-25
-ANTS(GST)A99  Div 195
-ANTS(GST)A99  195-1
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-5(a)
+ANTS(GST)A99 9-10(4)
+ANTS(GST)A99 9-15
+ANTS(GST)A99 9-40
+ANTS(GST)A99 9-70
+ANTS(GST)A99 9-75
+ANTS(GST)A99 9-75(1)
+ANTS(GST)A99 9-85(1)
+ANTS(GST)A99 11-5
+ANTS(GST)A99 11-25
+ANTS(GST)A99 11-30
+ANTS(GST)A99 29-5(1)(a)
+ANTS(GST)A99 29-5(1)(b)
+ANTS(GST)A99 29-5(2)
+ANTS(GST)A99 29-10(1)(a)
+ANTS(GST)A99 29-10(1)(b)
+ANTS(GST)A99 29-10(2)
+ANTS(GST)A99 29-10(3)
+ANTS(GST)A99 29-70(1)
+ANTS(GST)A99 29-70(1)(b)
+ANTS(GST)A99 29-70(2)
+ANTS(GST)A99 29-80(1)
+ANTS(GST)A99 Div 100
+ANTS(GST)A99 100-5
+ANTS(GST)A99 100-25
+ANTS(GST)A99 Div 195
+ANTS(GST)A99 195-1
 TAA 1953 Sch 1 382-5
-TAA 1953  Sch1 Div 358
+TAA 1953 Sch1 Div 358
 Banking Act 1959
 Regulations:
 ANTS(GST)R99 40-5.09

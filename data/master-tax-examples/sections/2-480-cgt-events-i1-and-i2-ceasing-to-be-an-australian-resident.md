@@ -37,7 +37,7 @@ The concept of taxable Australian property (TAP) is further discussed at ¶2-500
 
 The reason for excluding TAP assets (except an indirect Australian real property interest and an option or right to acquire such an interest) is because these assets are always subject to Australian CGT, regardless of the residency status of the owner of the asset.
 
-Under s 104-160(4), the taxpayer makes a capital gain if the market value of the asset (at the time of the event) is more than its cost base. The taxpayer makes a capital loss if that market value is less than the asset’s reduced cost base.
+Under s 104-160(4), the taxpayer makes a capital gain if the market value of the asset (at the time of the event) is more than its cost base. The taxpayer makes a capital loss if that market value is less than the asset's reduced cost base.
 
 An individual can also choose to disregard the capital gains and losses from all CGT assets caught by CGT events I1 and I2 (s 104-165(2)). If this choice is made, each of those assets is taken to be taxable Australian property until the earlier of:
 
@@ -55,7 +55,7 @@ If an election is made under s 104-165(2) and a CGT event does not happen in rel
 
 For the following reasons, many taxpayers will make a choice to disregard a capital gain:
 
-- When CGT event I1 is triggered, the taxpayer is “deemed” to have made a disposal. As a result, there
+- When CGT event I1 is triggered, the taxpayer is "deemed" to have made a disposal. As a result, there
 
   are no capital proceeds from which the taxpayer can pay their tax liability.
 
@@ -63,7 +63,7 @@ For the following reasons, many taxpayers will make a choice to disregard a capi
 
   of residency (ie until the asset is ultimately disposed of).
 
-However, it must be remembered that sometimes triggering CGT event I1 can be used to a taxpayer’s advantage, especially where a capital loss can be crystallised and utilised, or when the taxpayer is not entitled to the general CGT discount after becoming a non-resident.
+However, it must be remembered that sometimes triggering CGT event I1 can be used to a taxpayer's advantage, especially where a capital loss can be crystallised and utilised, or when the taxpayer is not entitled to the general CGT discount after becoming a non-resident.
 
 In determining whether to make this election or not, the taxpayer needs to consider any expected increases in the value of the asset and the potential reduction of the general discount for the period of non-residency, which may increase the assessable gain, against paying tax prior to actual disposal. The impact of any double tax agreement should also be considered.
 
@@ -75,11 +75,11 @@ If an election is not made, upon ceasing residency, normally CGT event I1 will b
 
   therefore no capital gain (or loss) will arise when Melanie ceases to be an Australian resident.
 
-However, as they are TAP assets, their eventual disposal will continue to be subject to Australian CGT, irrespective of Melanie’s residency status at the time of sale.
+However, as they are TAP assets, their eventual disposal will continue to be subject to Australian CGT, irrespective of Melanie's residency status at the time of sale.
 
 - Australian listed company shares — as the shares are not TAP assets (as defined in s 855-15),
 
-CGT event I1 is triggered. Therefore, a capital gain (of $120,000, before the 50% discount) may arise as a result of Melanie’s change in residency.
+CGT event I1 is triggered. Therefore, a capital gain (of $120,000, before the 50% discount) may arise as a result of Melanie's change in residency.
 
 In relation to the shares, Melanie will have crystallised a taxable capital gain of $60,000 in the 2025 income year (ie after applying the 50% general discount). Therefore, she will have a tax liability of up to $27,000 (ie $60,000 x 45%), even though she has received no proceeds from the deemed disposal.
 

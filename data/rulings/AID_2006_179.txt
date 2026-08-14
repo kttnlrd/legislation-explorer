@@ -3,18 +3,14 @@ ATO ID 2006/179
 ==================================================
 
 Income Tax
-        Capital Gains Tax: cost base - remuneration paid to a legal adviser
-        FOI status: may be released
-
-
+ Capital Gains Tax: cost base - remuneration paid to a legal adviser
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the seller of a capital gains tax (CGT) asset include, in the second element of the asset's cost base (subsection 110-25(3) of the Income Tax Assessment Act 1997 (ITAA 1997) and reduced cost base (subsection 110-55(2) of the ITAA 1997), remuneration paid by the seller to a legal adviser as a result of an action for damages brought by the purchaser in connection with the consideration paid for the sale?
@@ -23,8 +19,6 @@ Yes. Remuneration paid to a legal adviser by the seller of a CGT asset as a resu
 Facts
 The taxpayer sold a business for $25,000.
 Under the contract of sale, the taxpayer received:
-
-
 
 •$5,000 for plant and equipment, and
 •$20,000 for the goodwill of the business.
@@ -43,10 +37,10 @@ Subsection 116-50(1) of the ITAA 1997 provides that the capital proceeds from a 
 In the present case, the purchaser sought and received from the taxpayer a payment of a type that caused a reduction, under section 116-50 of the ITAA 1997, in the taxpayer's capital proceeds from the CGT event.
 It follows that remuneration paid to a legal adviser in connection with this action had a direct relationship with the ascertainment of the amount of capital proceeds from the CGT event and is therefore an incidental cost that relates to the CGT event, which is included in the second element of the asset's cost base and reduced cost base.
 Date of decision:
-         23 May 2006
+  23 May 2006
 
 Year of income:
-           Year ended 30 June 2001
+  Year ended 30 June 2001
 
 Legislative References:
 
@@ -55,29 +49,28 @@ Income Tax Assessment Act 1997   section 104-10   subsection 110-25(1)  
 Keywords
 
 Asset valuation
-          CGT assets
-          CGT capital proceeds
-          CGT capital proceeds modification repaid rule
-          CGT cost base
-          CGT reduced cost base
-          Goodwill
-          Legal expenses
-          Second element of cost
-          Solicitor
-          Tax related expenses
-
+ CGT assets
+ CGT capital proceeds
+ CGT capital proceeds modification repaid rule
+ CGT cost base
+ CGT reduced cost base
+ Goodwill
+ Legal expenses
+ Second element of cost
+ Solicitor
+ Tax related expenses
 
 Siebel/TDMS Reference Number:
-         4876730; 1-5JJ9SN1; 1-B0RF9E6
+  4876730; 1-5JJ9SN1; 1-B0RF9E6
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         21 July 2006
+  21 July 2006
 
 Date reviewed:
-         8 March 2017
+  8 March 2017
 
 ISSN:
-          1445-2782
+ 1445-2782

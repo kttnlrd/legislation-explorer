@@ -11,11 +11,11 @@ In order to avoid double taxation of income which would otherwise arise where in
 
 Attribution accounts enable a taxpayer to do this by providing a mechanism for tracing dividends through interposed companies, partnerships and/or trusts in order to determine whether the distributable proﬁts from which they have been paid have been previously attributed. Therefore, while there is no requirement that attributable taxpayers establish attribution accounts, there is a strong incentive to do so.
 
-An attributable taxpayer can establish an attribution account in relation to a CFC when an amount of the CFC’s attributable income is included in the taxpayer’s assessable income. The taxpayer then makes an attribution credit entry representing the attributable income less the tax paid by the CFC on the income.
+An attributable taxpayer can establish an attribution account in relation to a CFC when an amount of the CFC's attributable income is included in the taxpayer's assessable income. The taxpayer then makes an attribution credit entry representing the attributable income less the tax paid by the CFC on the income.
 
 When the CFC makes an attribution account payment (ie distributes the income), the taxpayer makes an attribution debit entry in the account.
 
-The attribution debit cannot exceed the amount standing to the credit of the account at that time (the “attribution surplus”). This means that the attribution surplus is the maximum amount of previously attributed income against which the resident taxpayer can oﬀset distributed CFC income for exemption purposes.
+The attribution debit cannot exceed the amount standing to the credit of the account at that time (the "attribution surplus"). This means that the attribution surplus is the maximum amount of previously attributed income against which the resident taxpayer can oﬀset distributed CFC income for exemption purposes.
 
 Special rules apply for the operation of the successive levels of attribution accounts required in more complex situations where an Australian resident company has interests in a chain of CFCs (ITAA36 ss 363 to 373). Attribution account payments are exempt to the extent of the debit which arises when they are paid (¶21-097).
 

@@ -3,18 +3,14 @@ ATO ID 2010/111
 ==================================================
 
 Income Tax
-        The basis for including an employment termination payment in the assessable income of a foreign resident
-        FOI status: may be released
-
-
+ The basis for including an employment termination payment in the assessable income of a foreign resident
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Division 82 of the Income Tax Assessment Act 1997 (ITAA 1997) include an employment termination payment (ETP) in the assessable income of a foreign resident on a basis other than having an Australian source for the purposes of paragraph 6-10(5)(b) of the ITAA 1997?
@@ -33,13 +29,10 @@ Subsection 6-10(5) of the ITAA 1997 provides:
 
 If you are a foreign resident, your assessable income includes:
 
-
 (a)your statutory income from all Australian sources; and
 (b)other statutory income that a provision includes in your assessable income on some basis other than having an Australian source.
 
 Accordingly, the taxable component of the foreign resident's life benefit ETP will only be included in the taxpayer's assessable income if:
-
-
 
 •it has an Australian source; or
 •Division 82 of the ITAA 1997 includes it in their assessable income on some other basis than it having an Australian source.
@@ -48,14 +41,12 @@ It is therefore necessary to determine whether Division 82 of the ITAA 1997 is a
 The following extract from the Explanatory Memorandum (EM) to the ITAA 1997 that introduced paragraph 6-10(5)(b) makes it clear that the alternative rule in paragraph 6-10(5)(b) was only intended to apply in limited circumstances:
 
 Most ordinary and statutory income from foreign sources is not assessable to foreign residents.
-              However, there are limited cases
-               where an amount is assessed on a specifically expressed basis ... (emphasis added)
+ However, there are limited cases
+ where an amount is assessed on a specifically expressed basis ... (emphasis added)
 
 The EM to the ITAA 1997 goes on to cite the capital gains tax (CGT) provisions as an example of a provision that operates in this way. Rather than taxing foreign residents on Australian sourced capital gains, Division 855 of the ITAA 1997 only taxes foreign residents on capital gains from CGT assets that are 'taxable Australian property'.
 A payment made in consequence of the termination of a person's employment will not be an ETP as defined in subsection 82-130(1) of the ITAA 1997 if it is a foreign termination payment to which Subdivision 83-D of the ITAA 1997 applies.
 Section 83-235 of the ITAA 1997 excludes termination payments from assessable income if:
-
-
 
 •the payment relates only to a period of employment when the taxpayer was not an Australian resident;
 •the payment was received in consequence of the termination of the taxpayer's employment in a foreign country; and
@@ -66,8 +57,6 @@ However, if Division 82 and section 83-235 of the ITAA 1997 were to be considere
 By contrast, the alternative source rule in the CGT provisions only includes capital gains from CGT assets in a foreign resident's assessable income where they are gains from 'taxable Australian property'. It therefore has a clearly defined scope which focuses on the connection the gain has with Australia. Such a clear focus on the connection an ETP has with Australia is lacking in section 83-235 of the ITAA 1997.
 Consequently, because of the:
 
-
-
 •lack of focus in the words of section 83-235 of the ITAA 1997 for the provision to form an alternative basis to determining whether an amount has a sufficient connection to Australia in order to be included in assessable income;
 •very broad effect of Division 82 and section 83-235 of the ITAA 1997 if they were to be considered an alternative basis to determining source; and
 •statement in the EM that paragraph 6-10(5)(b) of the ITAA 1997 was only intended to apply in limited circumstances,
@@ -75,10 +64,10 @@ Consequently, because of the:
 it is considered that Division 82 and section 83-235 of the ITAA 1997 are not provisions that include amounts in assessable income on a basis other than having an Australian source.
 Accordingly, where a foreign resident receives an ETP, paragraph 6-10(5)(a) of the ITAA 1997 will apply and the payment will only be assessable in Australia if it is from an Australian source.
 Date of decision:
-         13 April 2010
+  13 April 2010
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -91,19 +80,18 @@ Other References:
 Keywords
 
 Employment termination
-          Foreign termination payments
-          Income
-          Salary & wages income
-
+ Foreign termination payments
+ Income
+ Salary & wages income
 
 Siebel/TDMS Reference Number:
-         1-12I9H7L
+  1-12I9H7L
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         7 May 2010
+  7 May 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

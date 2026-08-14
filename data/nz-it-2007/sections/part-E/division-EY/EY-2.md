@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Schedular policyholder base income**
 
-**(3)**  A life insurer’s schedular policyholder base income is the amount calculated by subtracting, from the assessable income in the policyholder base income for the income year, the amounts of policyholder base allowable deductions incurred in the income year, or available in the income year under subsection (5) or (5B), in the order in which the amounts are incurred.
+**(3)**  A life insurer's schedular policyholder base income is the amount calculated by subtracting, from the assessable income in the policyholder base income for the income year, the amounts of policyholder base allowable deductions incurred in the income year, or available in the income year under subsection (5) or (5B), in the order in which the amounts are incurred.
 
 **Cap on subtracting: ring-fencing policyholder base allowable deductions**
 
-**(4)**  Despite subsection (3), the total amount that is subtracted under subsection (3), including an amount available in the income year under subsection (5) or (5B), is no more than the amount of the assessable income in the life insurer’s policyholder base income for the income year.
+**(4)**  Despite subsection (3), the total amount that is subtracted under subsection (3), including an amount available in the income year under subsection (5) or (5B), is no more than the amount of the assessable income in the life insurer's policyholder base income for the income year.
 
 **Excess allocations: carrying forward and re-instating next year**
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Exception**
 
-**(6)**  Despite subsections (3) to (5) a life insurer’s schedular income derived by their life fund PIE that is a multi-rate PIE is excluded from their schedular policyholder base income, along with deductions for that income.
+**(6)**  Despite subsections (3) to (5) a life insurer's schedular income derived by their life fund PIE that is a multi-rate PIE is excluded from their schedular policyholder base income, along with deductions for that income.
 
 *Defined in this Act: amount, assessable income, income year, life fund PIE, life insurance, life insurer, multi-rate PIE, policyholder base allowable deduction, policyholder base income, profit participation policy, savings product policy, schedular income, schedular policyholder base income*
 

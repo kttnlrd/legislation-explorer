@@ -13,7 +13,7 @@ Under this provision, an amount received by a taxpayer is not assessable income 
 
 This provision may apply, for example, where a Defence Force member who has received a lump sum retention bonus is later required to make a pro rata repayment on early resignation. However, it does not apply where a taxpayer who has received instalments of workers compensation or sickness allowance has to repay them after receiving a lump sum payment of compensation or damages for a wrong or injury suﬀered in their occupation (ITAA97 s 59-30(3)).
 
-An amount received by a taxpayer that is subject to a repayment arrangement but has not yet been repaid is not treated as “not assessable income” under s 59-30 (ID 2004/274).
+An amount received by a taxpayer that is subject to a repayment arrangement but has not yet been repaid is not treated as "not assessable income" under s 59-30 (ID 2004/274).
 
 The requirement that the repayment not be deductible means that the provision would not apply if a repayment is made as part of carrying on a business (¶16-010).
 

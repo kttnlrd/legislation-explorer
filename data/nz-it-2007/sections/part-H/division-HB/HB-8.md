@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner’s interests for a look-through company, to the extent to which those interests include a financial arrangement or an excepted financial arrangement described in section EW 5(10) (What is an excepted financial arrangement?) and, ignoring section HB 1,—
+**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner's interests for a look-through company, to the extent to which those interests include a financial arrangement or an excepted financial arrangement described in section EW 5(10) (What is an excepted financial arrangement?) and, ignoring section HB 1,—
 
 - (a) the purpose for which the financial arrangement or excepted financial arrangement was entered into was necessary and incidental to the business of the look-through company; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(6)**  Section HB 4 overrides this section.
 
-*Defined in this Act: business, deduction, dispose, entering owner, excepted financial arrangement, excluded income, financial arrangement, income tax liability, income year, look-through company, owner’s interests, pay*
+*Defined in this Act: business, deduction, dispose, entering owner, excepted financial arrangement, excluded income, financial arrangement, income tax liability, income year, look-through company, owner's interests, pay*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

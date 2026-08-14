@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Amount subtracted: losses not from elective attributing CFCs or elective attributing FIFs**
 
-**(1)**  The total amount of attributed CFC net loss and FIF net loss, relating to a CFC or FIF (the loss entity) resident in the jurisdiction when the loss arises and not an elective attributing CFC or elective attributing FIF, that is subtracted from the person’s net income for the tax year is the lesser of—
+**(1)**  The total amount of attributed CFC net loss and FIF net loss, relating to a CFC or FIF (the loss entity) resident in the jurisdiction when the loss arises and not an elective attributing CFC or elective attributing FIF, that is subtracted from the person's net income for the tax year is the lesser of—
 
 - (a) the total amount of attributed CFC income, and FIF income calculated under the attributable FIF income method or branch equivalent method, that the person derives in the tax year in relation to a CFC or FIF that is resident in the jurisdiction for the accounting period corresponding to the tax year:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Amount subtracted: losses from elective attributing CFCs or elective attributing FIFs**
 
-**(1BA)**  The total amount of attributed CFC net loss and FIF net loss, relating to an elective attributing CFC or elective attributing FIF (the loss entity) resident in the jurisdiction when the loss arises, that is subtracted from the person’s net income for the tax year is the lesser of—
+**(1BA)**  The total amount of attributed CFC net loss and FIF net loss, relating to an elective attributing CFC or elective attributing FIF (the loss entity) resident in the jurisdiction when the loss arises, that is subtracted from the person's net income for the tax year is the lesser of—
 
 - (a) the total amount of attributed CFC income, and FIF income calculated under the attributable FIF income method or branch equivalent method, that the person derives in the tax year in relation to an elective attributing CFC or elective attributing FIF—
 
@@ -56,13 +56,13 @@ compilation_date: 2026-06-06
 
 **Losses from year after transition**
 
-**(1B)**  If an amount of attributed CFC net loss or FIF net loss arises for a person in an income year for which section IQ 2B applies to the person, or is made available to the person by a company for which the loss arises in an income year for which section IQ 2B applies to the company, all of the attributed CFC net loss or FIF net loss is available for subtracting from the person’s net income for the tax year.
+**(1B)**  If an amount of attributed CFC net loss or FIF net loss arises for a person in an income year for which section IQ 2B applies to the person, or is made available to the person by a company for which the loss arises in an income year for which section IQ 2B applies to the company, all of the attributed CFC net loss or FIF net loss is available for subtracting from the person's net income for the tax year.
 
 **Attributed CFC net losses from income year before transition**
 
 **(1C)**  If an amount of attributed CFC net loss of a person, or made available to the person, relates to an income year before section IQ 2B applies to the person and is carried forward to a tax year in which section IQ 2B applies to the person,—
 
-- (a) the amount of the attributed CFC net loss available in the tax year for subtracting from the person’s net income is equal to the equivalent CFC loss under section IQ 2B:
+- (a) the amount of the attributed CFC net loss available in the tax year for subtracting from the person's net income is equal to the equivalent CFC loss under section IQ 2B:
 
 - (b) the amount of the attributed CFC net loss is reduced by the converted BE loss under section IQ 2B.
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 - (a) calculating a deduction under sections DN 4 or DN 8 (which relate to ring-fencing caps); or
 
-- (b) establishing their entitlement to make available, under section IC 5 (Company B using company A’s tax loss) or IQ 4, an amount of attributed CFC net loss or FIF net loss carried forward; or
+- (b) establishing their entitlement to make available, under section IC 5 (Company B using company A's tax loss) or IQ 4, an amount of attributed CFC net loss or FIF net loss carried forward; or
 
 - (c) applying subsection (1) in relation to another attributed CFC net loss or FIF net loss.
 

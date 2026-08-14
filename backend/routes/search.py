@@ -14,6 +14,7 @@ logger = logging.getLogger(__name__)
 router = APIRouter()
 
 RRF_K = 60
+MAX_SUGGEST = 12
 
 SECTION_NUMBER_RE = re.compile(r'^[0-9]+(-[0-9]+)?$')
 
@@ -174,6 +175,64 @@ def search_flat(q: str, limit: int = 50):
         return {"query": q, "results": [], "error": str(e)}
 
 
+@router.get("/api/search/suggest")
+def search_suggest(q: str, limit: int = 12):
+    """Quick prefix-based suggestions for autocomplete. Lightweight — titles + section numbers only."""
+    q = q.strip()
+    if not q or len(q) < 2:
+        return {"query": q, "suggestions": []}
+    if not SEARCH_DB.exists():
+        build_search_index()
+
+    results = []
+    with search_conn() as conn:
+        # FTS5 prefix match — append * to query for prefix mode
+        prefix_q = q.replace('"', '""')
+        prefix_q = f'"{prefix_q}"*'
+
+        # Sections
+        try:
+            rows = conn.execute(
+                "SELECT act, section, title, rank FROM sections_fts WHERE sections_fts MATCH ? ORDER BY rank LIMIT ?",
+                (prefix_q, limit)
+            ).fetchall()
+            for r in rows:
+                results.append({
+                    "act": r["act"],
+                    "section": r["section"],
+                    "title": r["title"],
+                    "type": "section",
+                })
+        except Exception:
+            pass
+
+        # Rulings
+        try:
+            rows = conn.execute(
+                "SELECT citation, title, rank FROM rulings_fts WHERE rulings_fts MATCH ? ORDER BY rank LIMIT ?",
+                (prefix_q, limit)
+            ).fetchall()
+            for r in rows:
+                results.append({
+                    "act": "rulings",
+                    "section": r["citation"],
+                    "title": r["title"],
+                    "type": "ruling",
+                })
+        except Exception:
+            pass
+
+    # Deduplicate while preserving FTS5 rank order
+    seen: set[tuple[str, str]] = set()
+    deduped = []
+    for r in results[:limit * 2]:
+        key = (r["act"], r["section"])
+        if key not in seen:
+            seen.add(key)
+            deduped.append(r)
+    return {"query": q, "suggestions": deduped[:limit]}
+
+
 @router.get("/api/search/hybrid")
 def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | None = None, offset: int = 0):
     if limit > 50:
@@ -246,8 +305,25 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
                     })
     except Exception:
         logger.exception("PostgreSQL case search failed (non-fatal)")
+
+    # Also search via FTS5 case index for better text matching on case names/summaries
+    fts_case_results: list[dict] = []
+    try:
+        from backend.services.search_service import search_cases_fts
+        for cr in search_cases_fts(q, limit=20):
+            fts_case_results.append({
+                "act": "tax-cases",
+                "section": cr["citation"],
+                "title": cr["case_name"],
+                "court": cr.get("court", ""),
+                "snippet": cr.get("case_name", ""),
+            })
+    except Exception:
+        logger.exception("FTS5 case search failed (non-fatal)")
+
     if type_filter and 'case' not in type_filter:
         pg_case_results = []
+        fts_case_results = []
 
     scores: dict[tuple[str, str], float] = {}
     merged: dict[tuple[str, str], dict] = {}
@@ -268,6 +344,11 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         existing.setdefault("embedding_id", vr["embedding_id"])
         existing.setdefault("snippet", vr["snippet"])
         existing["source_type"] = vr.get("source_type", "section")
+
+    for rank, r in enumerate(fts_case_results):
+        key = (r["act"], r["section"])
+        scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
+        merged.setdefault(key, {**r, "source_type": "case", "type": "case"})
 
     for rank, r in enumerate(pg_case_results):
         key = (r["act"], r["section"])

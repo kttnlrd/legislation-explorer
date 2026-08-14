@@ -3,18 +3,14 @@ ATO ID 2002/1085
 ==================================================
 
 Income Tax
-        Foreign Dividend Account Declaration Percentage
-        FOI status: may be released
-
-
+ Foreign Dividend Account Declaration Percentage
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Whether preference shares that carry no fixed entitlement to dividends are to be regarded as ordinary shares for the purposes of sub-section 128TC(3) of the Income Tax Assessment Act 1936?
@@ -24,8 +20,6 @@ Facts
 1. The company is an Australian resident taxpayer.
 2. The company has two classes of shares; ordinary shares and preference shares.
 3. The preference shares have the following characteristics:
-
-
 
 (i)any dividend distribution is dependant upon the directors determining to make a distribution;
 (ii)the dividend entitlements are non-cumulative;
@@ -50,32 +44,30 @@ The Explanatory Memorandum to Taxation Laws Amendment Act (No 3) 1994 states the
 
 There is no requirement that the rate of return of the dividends or the "calculation value for dividend purposes" be a fixed amount. Sub-section 128TC(3) merely requires the "calculation value for dividend purposes" to be the amount that is ordinarily used to calculate the rate of return on the shares. The use of the words "ordinarily be compared to calculate the rate of return" envisages that the "calculation value for dividend purposes" and rate of return may vary from time to time.
 Date of decision:
-         24 July 2002
+  24 July 2002
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
 Income Tax Assessment Act 1936   subsection 128TC(3)
 
-
 Keywords
 
 Withholding tax exemptions
-          Preference shares
-          Precedent
-          Foreign dividend withholding tax
-
+ Preference shares
+ Precedent
+ Foreign dividend withholding tax
 
 Siebel/TDMS Reference Number:
-         CW3081831
+  CW3081831
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 November 2002
+  30 November 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

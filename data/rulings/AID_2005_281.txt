@@ -3,28 +3,22 @@ ATO ID 2005/281
 ==================================================
 
 Income tax
-        Consolidation: disposal of intra-group asset - traditional security that is a debt
-        FOI status: may be released
-
-
+ Consolidation: disposal of intra-group asset - traditional security that is a debt
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a traditional security:
 
-
-
 •that is in substance a debt
 •is issued by a subsidiary member of a consolidated group to a non-group entity
 
-is acquired back by the head company of  that group and later sold to a non-group entity, does section 26BB or section 70B of the Income Tax Assessment Act 1936 (ITAA 1936) apply to the head company of that group in relation to the sale of that intra-group asset?
+is acquired back by the head company of that group and later sold to a non-group entity, does section 26BB or section 70B of the Income Tax Assessment Act 1936 (ITAA 1936) apply to the head company of that group in relation to the sale of that intra-group asset?
 Decision
 No. Neither a gain nor a loss will arise under sections 26BB or 70B of the ITAA 1936 respectively to the head company of a consolidated group from the sale of this intra-group asset. The relevant transaction is in substance equivalent to the head company's borrowing of money or the obtaining of credit from another entity, and therefore, has the equivalent effect of issuing a security that is a debt.
 Facts
@@ -38,10 +32,10 @@ When the head company acquires the traditional securities that were issued to th
 When the head company sells the traditional securities back to the offshore entity, as the traditional securities are in substance debt instruments, the principle provided in Taxation Determination TD 2004/33 will apply. From the head company's perspective, it has entered into an arrangement where there is a creation of a liability to pay an amount to a third party. In other words, the relevant transaction is, in substance, equivalent to the head company's borrowing of money or the obtaining of credit from another entity, and therefore has the equivalent effect of issuing a security that is a debt.
 This is also consistent with the principles provided in Taxation Determination TD 2004/84 which deals with the application of Division 16E of the ITAA 1936 to the assignment of the principal of an intra-group debt. The disposal concept in sections 26BB and 70B of the ITAA 1936 is equivalent to the transfer concept in Division 16E of the ITAA 1936 and the issue concept and the transfer concept are mutually exclusive in Division 16E. As the ATO view expressed in the above taxation determination is that the assignment of an intra-group debt that effectively amounts to the borrowing by the head company is the issue of a security, it cannot amount to the transfer of a security for Divisions 16E purposes. Therefore, it cannot amount to the disposal of a security for the purpose of sections 26BB or 70B of the ITAA 1936.
 Date of decision:
-         27 July 2005
+  27 July 2005
 
 Year of income:
-           30 June 2005
+  30 June 2005
 
 Legislative References:
 
@@ -57,18 +51,17 @@ Taxation Determination TD 2004/84
 Keywords
 
 Consolidated group
-          Single entity rule
-          Traditional securities
-
+ Single entity rule
+ Traditional securities
 
 Siebel/TDMS Reference Number:
-         4573723
+  4573723
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         14 October 2005
+  14 October 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

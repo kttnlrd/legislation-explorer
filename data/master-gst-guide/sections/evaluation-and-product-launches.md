@@ -17,6 +17,6 @@ If a vehicle is supplied to another person for evaluation, GST would not apply t
 
 - a potential customer for evaluation.
 
-However, GST can apply if the supply is for money, or is conditional on the recipient providing services back to the supplier, eg if the motoring writer’s report is to be made to the supplier for the supplier’s benefit. In that case, the consideration would be the market value of those services.
+However, GST can apply if the supply is for money, or is conditional on the recipient providing services back to the supplier, eg if the motoring writer's report is to be made to the supplier for the supplier's benefit. In that case, the consideration would be the market value of those services.
 
 Normally, GST would not apply where a manufacturer provides a vehicle for a product launch, as there would be no supply of the vehicle to the launch organiser (ATO GST Industry Issues — Motor Vehicles: Issue 11).

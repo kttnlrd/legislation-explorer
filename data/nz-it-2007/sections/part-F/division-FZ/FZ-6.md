@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to property transferred under section FC 1(1)﻿(a) (Disposals to which this subpart applies) either on a person’s death or on a distribution by an executor, administrator, or trustee of an estate, if—
+**(1)**  This section applies to property transferred under section FC 1(1)﻿(a) (Disposals to which this subpart applies) either on a person's death or on a distribution by an executor, administrator, or trustee of an estate, if—
 
 - (a) the death or distribution occurred before 1 October 2005; and
 

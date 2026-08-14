@@ -7,7 +7,7 @@ paragraph: "¶11-675"
 ---
 # Look-through earnout arrangements ¶11-675
 
-Look through CGT treatment applies to a “look-through earnout right” entered into on or after 24 April 2015 by:
+Look through CGT treatment applies to a "look-through earnout right" entered into on or after 24 April 2015 by:
 
 - disregarding any capital gain or loss relating to the creation of the right
 
@@ -19,7 +19,7 @@ Look through CGT treatment applies to a “look-through earnout right” entered
 
   decreasing) the capital proceeds of the business asset sold (¶11-510).
 
-For these purposes, a “ﬁnancial beneﬁt” means anything of economic value and includes property and services (s 974-160).
+For these purposes, a "ﬁnancial beneﬁt" means anything of economic value and includes property and services (s 974-160).
 
 A taxpayer disregards the capital gain or loss relating to the creation of the right arising from:
 
@@ -27,11 +27,11 @@ A taxpayer disregards the capital gain or loss relating to the creation of the r
 
 - CGT event D1 (¶11-280) for a right created in another entity (s 118-575).
 
-A right will be a “look-through earnout right” where the following conditions are satisﬁed: (a) the right is a right to future ﬁnancial beneﬁts that are not reasonably ascertainable at the time the right is created (b) the right is created under an arrangement that involves the disposal of a CGT asset (c) the disposal causes CGT event A1 to happen (d) just before the CGT event, the CGT asset was an “active asset” of the seller (e) all of the ﬁnancial beneﬁts that can be provided under the right must be provided no later than 5 years after the end of the income year of the CGT event (f) the ﬁnancial beneﬁts are contingent on the performance of the CGT asset or a business that the
+A right will be a "look-through earnout right" where the following conditions are satisﬁed: (a) the right is a right to future ﬁnancial beneﬁts that are not reasonably ascertainable at the time the right is created (b) the right is created under an arrangement that involves the disposal of a CGT asset (c) the disposal causes CGT event A1 to happen (d) just before the CGT event, the CGT asset was an "active asset" of the seller (e) all of the ﬁnancial beneﬁts that can be provided under the right must be provided no later than 5 years after the end of the income year of the CGT event (f) the ﬁnancial beneﬁts are contingent on the performance of the CGT asset or a business that the
 
 *Refs: s 974-160), s 118-575)*
 
-(g) the value of the ﬁnancial beneﬁts reasonably relate to the economic performance, and (h) the parties to the arrangement are dealing at arm’s length (s 118-565(1)).
+(g) the value of the ﬁnancial beneﬁts reasonably relate to the economic performance, and (h) the parties to the arrangement are dealing at arm's length (s 118-565(1)).
 
 The 5-year requirement in (e) is treated as having never been satisﬁed where the arrangement includes an option to extend or renew that arrangement, the parties vary the arrangement or the parties enter into another arrangement over the CGT asset so that a party could receive ﬁnancial beneﬁts over a period ending later than 5 years after the end of the income year in which the CGT event happens (s 118-565(2)).
 

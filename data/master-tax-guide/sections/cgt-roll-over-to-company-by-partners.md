@@ -17,7 +17,7 @@ A partnership for these purposes includes a tax law partnership (¶5-000), ie th
 
 Consideration for trigger event For the roll-over to be available, the only consideration the partners can receive as a result of the trigger event is non-redeemable shares in the transferee company (s 122-130). However, if there is a disposal of their interests in an asset or in all the assets of a business, the consideration may be non-redeemable shares in the company and the company assuming one or more liabilities in respect of their interests.
 
-The market value of the shares each partner receives as a result of the disposal must be substantially the same as the market value of the interests in the asset or assets the partner disposed of, reduced by any liabilities assumed by the company in respect of the interests in the asset or assets. Where an asset is created in the company, the market value of the shares each partner receives must be substantially the same as the market value of what would have been the partner’s interest in the newly-created asset if it were an asset of the partnership.
+The market value of the shares each partner receives as a result of the disposal must be substantially the same as the market value of the interests in the asset or assets the partner disposed of, reduced by any liabilities assumed by the company in respect of the interests in the asset or assets. Where an asset is created in the company, the market value of the shares each partner receives must be substantially the same as the market value of what would have been the partner's interest in the newly-created asset if it were an asset of the partnership.
 
 In working out the market value of shares in the case of a disposal, if the market value of the shares is diﬀerent to what it would otherwise be only because of the possibility of liabilities attaching to the asset or assets, that diﬀerence is ignored. For example, the company may have to pay tax if an amount is assessable to it because of a CGT event happening to an asset the taxpayer disposed of, or it may have a liability because of accrued leave entitlements of employees. In such situations, the market value of the shares should reﬂect those contingent liabilities.
 
@@ -35,4 +35,4 @@ The consequences for the company acquiring the disposed of assets from the partn
 
 ## Disposal or creation of assets in a wholly-owned
 
-## Partners must own all the company’s shares after
+## Partners must own all the company's shares after

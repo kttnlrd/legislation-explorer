@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an employer pays an amount to, or on behalf of, an employee that is related to the employee’s health or safety and is aimed at managing the risks to health and safety in the workplace as provided for under the Health and Safety at Work Act 2015.
+**(1)**  This section applies when an employer pays an amount to, or on behalf of, an employee that is related to the employee's health or safety and is aimed at managing the risks to health and safety in the workplace as provided for under the Health and Safety at Work Act 2015.
 
 **Exempt income**
 

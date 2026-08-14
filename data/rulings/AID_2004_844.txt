@@ -3,23 +3,18 @@ ATO ID 2004/844
 ==================================================
 
 Goods and Services Tax
-        GST and the supply of consultancy services by an occupational therapist
-        FOI status: may be released
+ GST and the supply of consultancy services by an occupational therapist
+ FOI status: may be released
 
-
-This ATO ID is withdrawn. The issue is covered in  GSTR 2005/D8 making supplies and analysing multi-party arrangements.
+This ATO ID is withdrawn. The issue is covered in GSTR 2005/D8 making supplies and analysing multi-party arrangements.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an occupational therapist, making a GST-free supply under subsection 38-10(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when, pursuant to an agreement it has with a company, it supplies consultancy services to assess the needs of the company's employee?
@@ -34,8 +29,6 @@ Both the entity and the company are registered for goods and services tax (GST).
 Reasons for Decision
 Under subsection 38-10(1) of the GST Act, a supply is GST-free if:
 
-
-
 (a)it is a service of a kind specified in the table in subsection 38-10(1) of the GST Act, or of a kind specified in the A New Tax System (Goods and Services Tax) Regulations 1999
 (b)the supplier is a recognised professional in relation to the supply of services of that kind, and
 (c)the supply would generally be accepted, in the profession associated with supplying services of that kind, as being necessary for the appropriate treatment of the recipient of the supply.
@@ -45,8 +38,6 @@ The services provided by the entity are generally accepted by the occupational t
 Section 195-1 of the GST Act defines 'recipient' in relation to a supply to mean 'the entity to which the supply was made'. Where there are only two parties to the supply of health services (the entity that supplies the health service and the patient), generally there is a single supply to which the GST Act applies and the recipient of that supply is the patient.
 However, where there is a third party payer involved in a transaction, there may be one or more supplies to which the GST Act applies and it is necessary to determine what is being supplied and to whom. For example, tripartite arrangements may result in a supply of professional services to a third party payer by an entity that supplies health services, with a further supply of treatment services to a patient.
 A third party will be the recipient of a supply where:
-
-
 
 •that third party engages the entity to provide something to them or to someone else
 •that third party, by agreement with the entity, determines what is required to be provided to them or to someone else, and
@@ -58,13 +49,12 @@ The company engages the entity to provide its services. There is an agreement be
 As the recipient of the supply is the company, the services are not provided for the appropriate treatment of the recipient. Rather, the services are provided for the appropriate treatment of the employee. The requirement that there be appropriate treatment of the recipient of the supply is not satisfied. Accordingly, as the third requirement in subsection 38-10(1) of the GST Act is not satisfied, the entity is not making a GST-free supply to the company under subsection 38-10(1) of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free nor input taxed under any other provisions of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when, pursuant to an agreement with the company, it supplies consultancy services.
 
-
 Note 1. As the entity is registered for GST, it is liable to remit to the Tax Office 1/11th of the payment made by the company. The company is also registered for GST and is entitled to claim an input tax credit equal to the GST payable on the supply.
 
 Note 2. In circumstances where an employee engages the entity to provide its services and the company merely makes payment on behalf of the employee, the recipient of the entity's services is the employee. This supply will be GST-free under subsection 38-10(1) of the GST Act.
 
 Date of decision:
-         22 September 2004
+  22 September 2004
 
 Legislative References:
 
@@ -74,32 +64,28 @@ A New Tax System (Goods and Services Tax) Regulations 1999   The Regulations
 Keywords
 
 Goods and services tax
-          GST free
-          GST health
-          GST supplies & acquisitions
-          Section 38-10 - other health services
-          Taxable supply
-
+ GST free
+ GST health
+ GST supplies & acquisitions
+ Section 38-10 - other health services
+ Taxable supply
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         25 October 2004
+  25 October 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 September 2004

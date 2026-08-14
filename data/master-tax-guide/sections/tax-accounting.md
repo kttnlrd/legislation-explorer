@@ -11,13 +11,13 @@ Tax accounting refers to the accounting methodology and practices required for t
 
 Rules dealing with the translation of foreign currency amounts into Australian currency are discussed at ¶23-070.
 
-Accounting profits vs taxable income The net proﬁt (or loss) shown in a taxpayer’s ﬁnancial accounts is generally not the same as taxable income.
+Accounting profits vs taxable income The net proﬁt (or loss) shown in a taxpayer's ﬁnancial accounts is generally not the same as taxable income.
 
 This is because the basis for recognising income and expenditure, assets and liabilities is determined by accounting standards (the requirements of which are incorporated into the Corporations legislation by reference) applicable to ﬁnancial reporting which diﬀer from the requirements of the taxation legislation.
 
 Treatment of these diﬀerences is referred to as tax-eﬀect accounting. Notwithstanding, an entity reporting signiﬁcant accounting proﬁt in comparison to taxable income is likely to attract ATO attention. Speciﬁc issues arise for trusts (¶6-085).
 
-Tax-effect accounting For tax-eﬀect accounting purposes, the diﬀerences that give rise to a diﬀerence between net proﬁt and taxable income can be broadly categorised as temporary (or timing) diﬀerences — those where the diﬀerence between the tax and accounting treatment is one of timing, such that when multiple periods are aggregated there is no net diﬀerence in the treatment; and permanent diﬀerences — where this “reversal” does not occur. Examples include:
+Tax-effect accounting For tax-eﬀect accounting purposes, the diﬀerences that give rise to a diﬀerence between net proﬁt and taxable income can be broadly categorised as temporary (or timing) diﬀerences — those where the diﬀerence between the tax and accounting treatment is one of timing, such that when multiple periods are aggregated there is no net diﬀerence in the treatment; and permanent diﬀerences — where this "reversal" does not occur. Examples include:
 
 - certain capital expenditure for which an immediate deduction or deduction over a certain period,
 
@@ -31,9 +31,9 @@ Tax-effect accounting For tax-eﬀect accounting purposes, the diﬀerences that
 
 - provisions such as those for doubtful debts, annual and long service leave, are generally
 
-  expensed for accounting purposes based on a “matching principle” which does not equate to being
+  expensed for accounting purposes based on a "matching principle" which does not equate to being
 
-“incurred” for tax purposes (¶9-120)
+"incurred" for tax purposes (¶9-120)
 
 - diﬀerent depreciation rates used for tax and accounting purposes should generate a timing
 

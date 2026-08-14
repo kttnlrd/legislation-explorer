@@ -4,29 +4,27 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 111
-  • Div 156
-  • Div 2
-  • Div 58
-  • Div 60
-  • Div 66
-  • Div 83
-  • Div 84
-  • Division 111
-  • Division 156
-  • Division 2
-  • Division 58
-  • Division 60
-  • Division 66
-  • Division 83
-  • Subdivision 153-A
-  • div 153
-  • div 155
-  • division 153
+ • Div 111
+ • Div 156
+ • Div 2
+ • Div 58
+ • Div 60
+ • Div 66
+ • Div 83
+ • Div 84
+ • Division 111
+ • Division 156
+ • Division 2
+ • Division 58
+ • Division 60
+ • Division 66
+ • Division 83
+ • Subdivision 153-A
+ • div 153
+ • div 155
+ • division 153
 
 Topics: GST, Trusts, Partnerships, Companies, International
-
-
 
 ================================================================================
 
@@ -50,7 +48,7 @@ GSTR 2013/1EC
 .
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -78,7 +76,7 @@ This publication (excluding appendixes) is a public ruling for the purposes of t
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database
+[Note: This is a consolidated version of this document. Refer to the Legal Database
 (https://www.ato.gov.au/law)
 to check its currency and to view the details of all changes.]
 What this Ruling is about
@@ -671,22 +669,22 @@ In certain circumstances, you are not required to hold a tax invoice to claim an
 A New Tax System (Goods and Services Tax) Act 1999 Waiver of Tax Invoice Requirement Determination (No.30) 2015
 Direct entry services
 In certain circumstances an entity is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition of Direct Entry Service.
-Goods and Services Tax:  Waiver of Tax Invoice Requirement Determination (No.33) 2016- Choice Hotels Corporate Charge Card
+Goods and Services Tax: Waiver of Tax Invoice Requirement Determination (No.33) 2016- Choice Hotels Corporate Charge Card
 Choice hotels customer
 In certain circumstances a customer of Choice Hotels Asia-Pac Pty Ltd (Choice Hotels) is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition purchased with a Choice Hotels corporate charge card.
-Goods and Services Tax:  Waiver of Tax Invoice Requirement Determination (No. 40) 2016 - Government Undercover Agents
+Goods and Services Tax: Waiver of Tax Invoice Requirement Determination (No. 40) 2016 - Government Undercover Agents
 Government undercover agents
 In certain circumstances a government law enforcement agency is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition if it relates to a reimbursement of an expense to an employee who was working undercover.
-Goods and Services Tax:  Waiver of Tax Invoice Requirement Determination 2017 for intangible supplies from offshore.
+Goods and Services Tax: Waiver of Tax Invoice Requirement Determination 2017 for intangible supplies from offshore.
 Acquisition of an intangible supply from offshore
 In certain circumstances, you are not required to hold a tax invoice to claim an input tax credit for a creditable acquisition of an offshore intangible supply.
-Goods and Services Tax:  Waiver of Adjustment Note Requirement Determination 2017 - Members of MasterCard International and Visa International - Bank Interchange Services
+Goods and Services Tax: Waiver of Adjustment Note Requirement Determination 2017 - Members of MasterCard International and Visa International - Bank Interchange Services
 Member of Mastercard International or VISA International
 In certain circumstances a member of Mastercard International or VISA International is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition of bank interchange services.
-Goods and Services Tax:  Waiver of Tax Invoice Requirement (Corporate Card Statements) Legislative Instrument 2017
+Goods and Services Tax: Waiver of Tax Invoice Requirement (Corporate Card Statements) Legislative Instrument 2017
 Corporate card holder of a listed corporate card provider
 In certain circumstances a corporate card holder of a listed corporate card provider that has a corporate card statement is not required to hold a tax invoice to claim an input tax credit.
-Goods and Services Tax:  Waiver of Tax Invoice Requirement (Visa Purchasing Card) Determination 2018
+Goods and Services Tax: Waiver of Tax Invoice Requirement (Visa Purchasing Card) Determination 2018
 Cardholder of a VISA purchasing card
 In certain circumstances a cardholder is not required to hold a tax invoice for a creditable acquisition for an input tax credit to be attributable to a tax period.
 Appendix 3 - Detailed contents list
@@ -931,7 +929,7 @@ Subparagraph 29-70(1)(c)(iii).
 [57]
 See paragraph 3.19 of the Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 2) Bill 2010.
 [58]
-Goods and Services Tax:  (Particular Attribution Rules for Retention Payments) Determination 2017.
+Goods and Services Tax: (Particular Attribution Rules for Retention Payments) Determination 2017.
 [59]
 Subparagraph 29-70(1)(c)(iii).
 [60]
@@ -1006,7 +1004,7 @@ GSTR 2011/D1
 GSTR 2012/D3
 References
 ATO references:
-NO  1-48DT56R
+NO 1-48DT56R
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

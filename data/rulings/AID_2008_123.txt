@@ -3,22 +3,18 @@ ATO ID 2008/123
 ==================================================
 
 Goods and Services Tax
-        GST: interaction of the financial acquisitions threshold and Division 72
-        FOI status: may be released
-
+ GST: interaction of the financial acquisitions threshold and Division 72
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a financial acquisition by the entity, when acquired from an associate for no consideration, give rise to input tax credits to which the entity would be entitled for purposes of determining the financial acquisitions threshold (FAT) under Division 189 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -43,8 +39,8 @@ Thus, even though acquisitions relating to the entity's financial supplies consi
 Division 189 of the GST Act contains tests to determine whether an entity exceeds the FAT. Goods and Services Tax Ruling GSTR 2003/9 'Goods and Services Tax Ruling: financial acquisitions threshold', explains in detail the operation of these tests. Central to the operation of the FAT is the concept of a 'financial acquisition', which is defined at section 189-15 of the GST Act as 'an acquisition that relates to the making of a financial supply (other than a financial supply consisting of a borrowing)'. Thus, the entity's acquisitions relating to the issue of the debt instruments are not financial acquisitions.
 In line with section 11-15 of the GST Act, a financial acquisition is not for a creditable purpose if the entity exceeds the FAT (unless the acquisition relates to a GST-free financial supply). The entity's acquisitions are financial acquisitions to the extent that they relate to the on-lending financial supply.
 An integral step in determining the FAT is the quantification of 'the amount of all the input tax credits to which you would be entitled for [financial] acquisitions'
-          assuming
-           the financial acquisitions were made solely for a creditable purpose (see for example paragraph 189-5(1)(a) of the GST Act).
+ assuming
+ the financial acquisitions were made solely for a creditable purpose (see for example paragraph 189-5(1)(a) of the GST Act).
 Unless the supply of the thing acquired is a taxable supply, the 'input tax credits to which you would be entitled' in respect of the supply is nil (paragraph 91 of GSTR 2003/9). In this case, the supply to the entity by the associate is not a taxable supply in terms of section 9-5 of the GST Act, as it is not made for consideration.
 However, section 72-5 of the GST Act provides that the absence of consideration does not stop a supply from an associate being a taxable supply where the conditions of that section are met. In the facts of this case, section 72-5 of the GST Act will apply to the supply by the associate to the entity if paragraph 72-5(1)(b) of the GST Act is satisfied.
 Paragraph 72-5(1)(b) of the GST Act requires the acquisition of the thing supplied to be 'otherwise than solely for a creditable purpose'. The acquisition in this case is, in the first instance, denied creditable purpose under paragraph 11-15(2)(a) of the GST Act, as it relates to making the input taxed financial supply of the loan from the entity to another entity. It will nevertheless be for a creditable purpose, in line with subsection 11-15(4) of the GST Act, if the entity does not exceed the FAT.
@@ -54,11 +50,10 @@ To enable Divisions 72 and 189 of the GST Act to operate together, allowing this
 Interpreting the provisions in this way requires as a first step a 'notional' consideration of Division 72 of the GST Act conducted purely for the purposes of determining whether the entity exceeds the FAT. For these purposes alone we consider it necessary to interpret 'otherwise than solely for a creditable purpose' in section 72-5 of the GST Act, without reference to subsection 11-15(4) of the GST Act. Once the entity has determined if it exceeds the FAT, section 72-5 of the GST Act can be actually applied based on the words of the provision (including the reference to subsection 11-15(4) of the GST Act), as the result of the FAT test is now known and the circularity issue is overcome.
 Accordingly, the financial acquisition by the entity gives rise to input tax credits to which the entity would be entitled for purposes of determining the financial acquisitions threshold under Division 189 of the GST Act, where the acquisition is from an associate entity for no consideration.
 
-
 Note - the amount of the input tax credit to which the entity would be entitled will be calculated by reference to the GST exclusive market value of the supply in accordance with subsection 72-10(1) of the GST Act.
 
 Date of decision:
-         8 September 2008
+  8 September 2008
 
 Legislative References:
 
@@ -76,20 +71,19 @@ GSTR 2008/1
 Keywords
 
 Goods and services tax
-          GST associates
-          GST financial acquisitions threshold
-          Accounting expenses
-          Management fees expenses
-
+ GST associates
+ GST financial acquisitions threshold
+ Accounting expenses
+ Management fees expenses
 
 Siebel/TDMS Reference Number:
-         5882926
+  5882926
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         26 September 2008
+  26 September 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

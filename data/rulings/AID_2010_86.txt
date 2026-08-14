@@ -3,18 +3,14 @@ ATO ID 2010/86
 ==================================================
 
 Income Tax
-        Thin capitalisation rules: risk-weighted assets - non-banking members
-        FOI status: may be released
-
-
+ Thin capitalisation rules: risk-weighted assets - non-banking members
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the head company of a consolidated group classified as an 'outward investing entity (ADI)' have to include the assets and other risk exposures of the non-banking members of the group in determining the amount of its 'risk-weighted assets' for Step 1 of section 820-310 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -25,8 +21,8 @@ A company is the head company of an income tax consolidated group.
 The consolidated group includes an Australian Authorised Deposit-Taking Institution (ADI) for the purposes of the Banking Act 1959.
 The head company is classified under subsection 820-583(7) of the ITAA 1997 as an 'outward investing entity (ADI)' for the purposes of applying Division 820 of the ITAA 1997.
 The head company's consolidated group includes non-banking members that are excluded from the 'Level 2' group of the ADI that are subject to Tier 1 capital requirements under the prudential standards determined by the Australian Prudential Regulation Authority (
-          APRA
-          ) under section 11AF of the Banking Act 1959.
+ APRA
+ ) under section 11AF of the Banking Act 1959.
 Reasons for Decision
 The head company of a consolidated group or MEC group is subject to the thin capitalisation rules in Subdivision 820-D of the ITAA 1997 if it is classified as an 'outward investing entity (ADI)' under subdivisions 820-EA, 820-FA or 820-FB of the ITAA 1997 (as applicable).
 The application of relevant provisions in Division 820 of the ITAA 1997 is for a 'head company core purpose', within the meaning of section 701-1 of the ITAA 1997, since it is necessary to determine a taxpayer's allowable deductions in order to determine its liability for income tax (see sections 4-10 and 4-15 of the ITAA 1997).
@@ -44,30 +40,26 @@ the prudential standards determined by *APRA and in force under section 11AF of 
 Australian Prudential Standard (APS) 110 is a prudential standard determined by APRA and in force under section 11AF of the Banking Act 1959. Paragraph 14 of APS 110 states:
 
 An ADI [as defined in paragraph 4 to be the Level 2 ADI group] is subject to a prudential capital ratio (
-              PCR
-              ) as determined by APRA. Subject to paragraphs 15 and 16, an ADI's PCR is eight percent of its total risk-weighted assets, half of which must be held in the form of Tier 1 capital. An ADI must, at all times, maintain a risk-based capital ratio, in excess of its PCR. For the definition of total risk-weighted assets and risk-based capital ratio, refer to Attachment D. [bolding not added]
+ PCR
+ ) as determined by APRA. Subject to paragraphs 15 and 16, an ADI's PCR is eight percent of its total risk-weighted assets, half of which must be held in the form of Tier 1 capital. An ADI must, at all times, maintain a risk-based capital ratio, in excess of its PCR. For the definition of total risk-weighted assets and risk-based capital ratio, refer to Attachment D. [bolding not added]
 
 Paragraph 3 of Attachment D to APS 110 states:
 
 Under the risk-based capital adequacy framework, an ADI's capital adequacy is measured by means of a risk-based capital ratio calculated by dividing its capital base by its total risk-weighted assets. That is:
 
-
 Risk-based capital ratio
-                   =
-                  capital base
-                   /
-                  total risk-weighted assets
-
+ =
+ capital base
+ /
+ total risk-weighted assets
 
 [bolding not added].
-
 
 Paragraph 6 of Attachment D to APS 110 states:
 
 An ADI's
-              total risk-weighted assets
-               is calculated as the sum of:
-
+ total risk-weighted assets
+ is calculated as the sum of:
 
 (a)risk-weighted on-balance sheet and off-balance sheet assets determined in accordance with Prudential Standard APS 112 Capital Adequacy: Standardised Approach to Credit Risk;
 (b)risk-weighted assets determined under APS 113 Capital Adequacy: Internal Ratings-based Approach to Credit Risk;
@@ -75,8 +67,6 @@ An ADI's
 (d)risk-weighted assets determined under APS 120. [bolding not added]
 
 Accordingly, the risk-weighted assets amount for assets held by a head company and its subsidiary members are determined in accordance with the method in APS 112, except only for the following assets:
-
-
 
 -'trading book' and 'securitisation' assets covered by APS 116 or APS 120 - the applicable method under APS 116 or APS 120, respectively, instead applies;
 -assets of the members of the consolidated group that are subject to Tier 1 capital requirements for which APRA has granted its approval to use APS 113 - the method(s) as approved by APRA under APS 113 for those assets.
@@ -89,13 +79,10 @@ Paragraphs 11 and 12 of APS 112 state:
 
 Items 18 to 23 of Attachment A to APS 112 state that the risk weighting to be assigned to the classes of assets (that are not monetary claims covered by the previous items) are:
 
-
-
 Claim
 
-
 Risk-weight
-                  (%)
+ (%)
 
 18. Investments in premises, plant and equipment and all other fixed assets.
 100
@@ -117,12 +104,8 @@ Risk-weight
 
 The relevant legislative context to section 820-310 of the ITAA 1997 discloses that it is expressly contemplated, and intended, that the amount of 'risk-weighted assets' can be determined for any, and all, of the assets of a taxpayer which is treated as an 'outward investing entity (ADI)', irrespective of whether the taxpayer is subject to Tier 1 capital adequacy regulation by APRA under APS 110 and the Banking Act 1959. That relevant legislative context includes:
 
-
-
 •the application of the ADI rules in Subdivisions 820-D and 820-E of the ITAA 1997 (as the case may be) to a taxpayer that has made an election under section 820-430 of the ITAA 1997 to be treated as an ADI under Division 820. The election in Subdivision 820-EA of the ITAA 1997 is expressly premised on a taxpayer which is not a regulated bank (including a consolidated or MEC group that does not include a regulated bank) being able to determine the amount of its 'risk-weighted assets' in determining its 'safe harbour capital amount' under section 820-310 of the ITAA 1997.
 •the classification of a taxpayer as an 'outward investing entity (ADI)', even if the taxpayer is otherwise not an ADI under the Banking Act 1959, if the taxpayer includes:
-
-
 
 •a single subsidiary member which is an ADI - refer to subsection 820-583(7) of the ITAA 1997; or
 •qualifying Australian branch operations (of its foreign owners) pursuant to an election under section 820-597 or 820-599 of the ITAA 1997 - refer to subsection 820-609(1) of the ITAA 1997.
@@ -141,10 +124,10 @@ This interpretation is also consistent with the relevant statements in the Expla
 
 It is noted that, if the amount of 'risk-weighted assets' in Step 1 of the Method statement in section 820-310 of the ITAA 1997 only included the amount determined under paragraph 6 of Attachment D to APS 110 in the course of meeting the taxpayer's (or the taxpayer's subsidiary members') Tier 1 capital requirements under the Banking Act 1959, this would result in the unintended consequence that the operations of the non-banking members of the consolidated group are effectively exempted from any thin capitalisation limit under Division 820 of the ITAA 1997.
 Date of decision:
-         30 March 2010
+  30 March 2010
 
 Year of income:
-           Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
+  Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
 
 Legislative References:
 
@@ -158,32 +141,30 @@ Related ATO Interpretative Decisions
 Other References:
 
 Australian Prudential Standards APS 110
-          Australian Prudential Standards APS 112
-          Australian Prudential Standards APS 113
-          Australian Prudential Standards APS 116
-          Australian Prudential Standards APS 120
-           Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Bill 2001
-
+ Australian Prudential Standards APS 112
+ Australian Prudential Standards APS 113
+ Australian Prudential Standards APS 116
+ Australian Prudential Standards APS 120
+ Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Bill 2001
 
 Keywords
 
 Banking & finance segment
-          Consolidation
-          Financial services industry regulation & supervision
-          International tax
-          Outward investing entity
-          Single entity rule
-          Thin capitalisation
-
+ Consolidation
+ Financial services industry regulation & supervision
+ International tax
+ Outward investing entity
+ Single entity rule
+ Thin capitalisation
 
 Siebel/TDMS Reference Number:
-         6166837
+  6166837
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         16 April 2010
+  16 April 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

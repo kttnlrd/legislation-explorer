@@ -10,7 +10,7 @@ from contextlib import contextmanager
 from pathlib import Path
 from typing import Any
 
-from backend.config import DATA_DIR, RULING_DIR, SEARCH_DB, INSOLVENCY_DIR
+from backend.config import DATA_DIR, RULING_DIR, SEARCH_DB, INSOLVENCY_DIR, TREATIES_DIR
 from backend.services.data_loader import load_tree, get_act_section_content
 
 logger = logging.getLogger(__name__)
@@ -176,6 +176,11 @@ def init_search_index() -> None:
                         if not ch_file.exists():
                             continue
                         content_raw = ch_file.read_text(encoding="utf-8", errors="replace")
+                        # Strip YAML frontmatter
+                        if content_raw.startswith("---"):
+                            parts = content_raw.split("---", 2)
+                            if len(parts) >= 3:
+                                content_raw = parts[2].lstrip("\n")
                         content = re.sub(r'[#*`_\[\]\(\)]', ' ', content_raw)
                         content = re.sub(r'\s+', ' ', content).strip()[:50000]
                         conn.execute(
@@ -191,6 +196,66 @@ def init_search_index() -> None:
                 logger.info(f"Insolvency FTS indexed: {indexed_count} chapters")
         except Exception:
             logger.exception("Insolvency FTS index failed (non-fatal)")
+
+    # --- Tax Treaties FTS ---
+    if TREATIES_DIR.exists():
+        try:
+            with search_conn() as conn:
+                conn.execute("DROP TABLE IF EXISTS treaties_fts")
+                conn.execute("""
+                    CREATE VIRTUAL TABLE treaties_fts USING fts5(
+                        country, article, title, content,
+                        tokenize='porter'
+                    )
+                """)
+                conn.execute("DROP TABLE IF EXISTS treaties_meta")
+                conn.execute("""
+                    CREATE TABLE treaties_meta (
+                        country TEXT, article INTEGER,
+                        country_slug TEXT, title TEXT, slug TEXT,
+                        UNIQUE (country_slug, article)
+                    )
+                """)
+                conn.execute("BEGIN")
+                indexed_count = 0
+                for country_dir in sorted(TREATIES_DIR.iterdir()):
+                    if not country_dir.is_dir():
+                        continue
+                    tree_path = country_dir / "tree.json"
+                    if not tree_path.exists():
+                        continue
+                    try:
+                        tree = json.loads(tree_path.read_text(encoding="utf-8"))
+                    except Exception:
+                        continue
+                    country_slug = country_dir.name
+                    country_name = tree.get("treaty", country_slug)
+                    for art in tree.get("articles", []):
+                        art_file = country_dir / art["file"]
+                        if not art_file.exists():
+                            continue
+                        raw = art_file.read_text(encoding="utf-8", errors="replace")
+                        # Strip YAML frontmatter
+                        if raw.startswith("---"):
+                            parts = raw.split("---", 2)
+                            if len(parts) >= 3:
+                                raw = parts[2].lstrip("\n")
+                        content = re.sub(r'[#*`_\[\]\(\)]', ' ', raw)
+                        content = re.sub(r'\s+', ' ', content).strip()[:50000]
+                        unique_art_id = hash(f"{country_slug}/{art['article']}")
+                        conn.execute(
+                            "INSERT INTO treaties_fts (country, article, title, content) VALUES (?, ?, ?, ?)",
+                            (country_name, str(art["article"]), art["title"], content)
+                        )
+                        conn.execute(
+                            "INSERT INTO treaties_meta (country, article, country_slug, title, slug) VALUES (?, ?, ?, ?, ?)",
+                            (country_name, art["article"], country_slug, art["title"], art["slug"])
+                        )
+                        indexed_count += 1
+                conn.commit()
+                logger.info(f"Treaties FTS indexed: {indexed_count} articles across {len([d for d in TREATIES_DIR.iterdir() if d.is_dir()])} countries")
+        except Exception:
+            logger.exception("Treaties FTS index failed (non-fatal)")
 
     # --- Case summaries FTS ---
     SUMMARIES_DIR = DATA_DIR / ".." / "scripts" / "cleaned" / "summaries"
@@ -681,6 +746,51 @@ def search_insolvency(q: str, limit: int = 20) -> dict:
     return {"results": results, "total": total}
 
 
+def search_treaties(q: str, limit: int = 20) -> dict:
+    """Search treaty articles using FTS5 BM25 ranking."""
+    tokens = q.split()
+    if not tokens:
+        return {"results": [], "total": 0}
+    quoted = []
+    for tok in tokens:
+        if tok.endswith('*') and len(tok) > 1:
+            inner = tok[:-1].replace('"', '""')
+            quoted.append(f'"{inner}"*')
+        else:
+            quoted.append('"' + tok.replace('"', '""') + '"')
+    q_clean = ' '.join(quoted)
+
+    with search_conn() as conn:
+        count_row = conn.execute(
+            "SELECT COUNT(*) FROM treaties_fts WHERE treaties_fts MATCH ?",
+            (q_clean,)
+        ).fetchone()
+        total = count_row[0] if count_row else 0
+        sql = """
+            SELECT treaties_fts.country, treaties_fts.article, treaties_fts.title,
+                   m.country_slug, m.slug,
+                   rank, snippet(treaties_fts, 3, '<mark>', '</mark>', '...', 32) as snippet
+            FROM treaties_fts
+            JOIN treaties_meta m ON treaties_fts.article = m.article AND treaties_fts.country = m.country
+            WHERE treaties_fts MATCH ?
+            ORDER BY rank
+            LIMIT ?
+        """
+        rows = conn.execute(sql, (q_clean, limit)).fetchall()
+
+    results = []
+    for row in rows:
+        results.append({
+            "country": row["country"],
+            "country_slug": row["country_slug"],
+            "article": int(row["article"]) if row["article"] else 0,
+            "title": row["title"],
+            "slug": row["slug"],
+            "snippet": row["snippet"] or "",
+        })
+    return {"results": results, "total": total}
+
+
 def get_insolvency_chapter(chapter: int) -> dict | None:
     """Get full chapter text by chapter number."""
     import json
@@ -699,6 +809,11 @@ def get_insolvency_chapter(chapter: int) -> dict | None:
     if not ch_file.exists():
         return None
     content = ch_file.read_text(encoding="utf-8", errors="replace")
+    # Strip YAML frontmatter if present
+    if content.startswith("---"):
+        parts = content.split("---", 2)
+        if len(parts) >= 3:
+            content = parts[2].lstrip("\n")
     return {
         "chapter": ch_info["chapter"],
         "title": ch_info["title"],
@@ -735,6 +850,19 @@ def search_cases_fts(q: str, limit: int = 20) -> list[dict]:
             ).fetchall()
         except Exception:
             rows = []
+
+        # If strict quoted-AND query returns nothing, fall back to unquoted OR
+        if not rows and len(tokens) > 1:
+            try:
+                loose = ' OR '.join(t.replace('-', ' ').replace('"', '""') for t in tokens)
+                rows = conn.execute(
+                    "SELECT citation, case_name, court, rank "
+                    "FROM case_summaries_fts WHERE case_summaries_fts MATCH ? "
+                    "ORDER BY rank LIMIT ?",
+                    (loose, limit)
+                ).fetchall()
+            except Exception:
+                rows = []
 
     results = []
     for row in rows:

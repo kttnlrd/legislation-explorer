@@ -16,7 +16,7 @@ The amalgamation rules means the following:
 
 - (b) sections CD 35, CD 43(24) and (25), and CD 44(8) and (8BA) (which relate to the treatment of dividends):
 
-- (c) sections DB 8(3) to (5), DV 14 and DV 15 (which relate to the treatment of deductions when an amalgamating company ends its existence on a resident’s restricted amalgamation):
+- (c) sections DB 8(3) to (5), DV 14 and DV 15 (which relate to the treatment of deductions when an amalgamating company ends its existence on a resident's restricted amalgamation):
 
 - (d) sections IA 9, IE 2 to IE 5, and IQ 1 (which relate to tax losses):
 

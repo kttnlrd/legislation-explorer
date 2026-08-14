@@ -3,18 +3,14 @@ ATO ID 2006/130
 ==================================================
 
 Income Tax
-        Consolidation:  the exit history rule and time of acquisition of an asset
-        FOI status: may be released
-
-
+ Consolidation: the exit history rule and time of acquisition of an asset
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 A unit trust ceases to be a subsidiary member of a consolidated group taking with it capital gains tax (CGT) assets previously held by the head company for income tax purposes under the single entity rule (SER) in section 701-1 of the Income Tax Assessment Act 1997 (ITAA 1997). For the purpose of applying section 115-25 of the ITAA 1997 to gains made on the disposal of the assets by the unit trust after leaving the consolidated group will the exit history rule in section 701-40 of the ITAA 1997 deem the trustee of the unit trust to have acquired the assets at the time they were acquired by the head company.
@@ -32,10 +28,10 @@ Under subsection 701-40(1) of the ITAA 1997 the exit history rule applies to ass
 In relation to any eligible asset that becomes that of the trust on leaving the consolidated group, the exit history rule in section 701-40 of the ITAA 1997 will deem the trustee to have acquired the asset at the time the head company was recognised as having acquired the asset for the purpose of Division 109 of the ITAA 1997.
 Where the trustee disposes of a CGT asset after leaving the consolidated group and the asset was recognised as having been acquired by the head company under Division 109 of the ITAA 1997 at least 12 months before the time of the CGT event that arises as a result of the disposal of the asset by the trustee, then for the purpose of section 115-25 of the ITAA 1997 the trustee will be deemed to have acquired the asset at least 12 months before the time of the CGT event.
 Date of decision:
-         3 May 2006
+  3 May 2006
 
 Year of income:
-           Year ended 30 June 2006 Year ended 30 June 2007
+  Year ended 30 June 2006 Year ended 30 June 2007
 
 Legislative References:
 
@@ -44,23 +40,22 @@ Income Tax Assessment Act 1997   section 115-25   section 701-1   secti
 Keywords
 
 Acquisition of CGT Assets
-          CGT assets
-          CGT discount
-          Consolidation
-          Consolidation - exiting
-          Leaving entity
-          Leaving time
-          Trusts
-
+ CGT assets
+ CGT discount
+ Consolidation
+ Consolidation - exiting
+ Leaving entity
+ Leaving time
+ Trusts
 
 Siebel/TDMS Reference Number:
-         5016319
+  5016319
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         19 May 2006
+  19 May 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

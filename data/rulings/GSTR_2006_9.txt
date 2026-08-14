@@ -4,55 +4,53 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 11
-  • Div 110
-  • Div 113
-  • Div 134
-  • Div 156
-  • Div 19
-  • Div 54
-  • Div 71
-  • Div 81
-  • Div 90
-  • Div 96
-  • Division 11
-  • Division 110
-  • Division 113
-  • Division 134
-  • Division 19
-  • Division 358
-  • Division 54
-  • Division 71
-  • Division 81
+ • Div 11
+ • Div 110
+ • Div 113
+ • Div 134
+ • Div 156
+ • Div 19
+ • Div 54
+ • Div 71
+ • Div 81
+ • Div 90
+ • Div 96
+ • Division 11
+ • Division 110
+ • Division 113
+ • Division 134
+ • Division 19
+ • Division 358
+ • Division 54
+ • Division 71
+ • Division 81
 
 Cases Referenced:
-  • Anor v. Customs 
-  • Carlton Lodge Club v. Customs 
-  • Commrs v. Wellington Private Hospital Ltd
+ • Anor v. Customs 
+ • Carlton Lodge Club v. Customs 
+ • Commrs v. Wellington Private Hospital Ltd
 
-  • County Factors Ltd v. Customs 
-  • Customs v. Debenhams Retail 
-  • Databank Systems Ltd v. Commissioner 
-  • Davis Ltd v. Galbraith
+ • County Factors Ltd v. Customs 
+ • Customs v. Debenhams Retail 
+ • Databank Systems Ltd v. Commissioner 
+ • Davis Ltd v. Galbraith
 
-  • Davis v. Galbraith
+ • Davis v. Galbraith
 
-  • Eastbourne Town Radio Cars Association v. Commissioners 
-  • Excise Commissioners v. Oliver
+ • Eastbourne Town Radio Cars Association v. Commissioners 
+ • Excise Commissioners v. Oliver
 
-  • Excise Commissioners v. Plantiflor Ltd
+ • Excise Commissioners v. Plantiflor Ltd
 
-  • Excise Commissioners v. Redrow Group 
-  • Excise Commissioners v. Reed Personnel Services Ltd
+ • Excise Commissioners v. Redrow Group 
+ • Excise Commissioners v. Reed Personnel Services Ltd
 
-  • Facchini v. Bryson
+ • Facchini v. Bryson
 (1952)
-  • Facchini v. Bryson
+ • Facchini v. Bryson
 (1952) 1 TLR 1386
 
 Topics: GST, FBT, Trusts, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -76,7 +74,7 @@ GSTR 2006/9EC
 .
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -193,7 +191,7 @@ Sterling Guardian
 14. Supply is important in relation to input tax credits because if a supply is not made an entity cannot acquire anything for a creditable purpose, as required by paragraph 11-5(a). Making an acquisition of something is the first element to be considered in determining whether you make a creditable acquisition under section 11-5. The meaning of acquisition is given in section 11-10. The second element is the requirement in paragraph 11-5(b) that the supply of the thing to you is a taxable supply.
 15. You make an acquisition if you are the recipient of a supply. That is, the supply is made to you. In most transactions concerning GST the recipient of a supply is the entity that is also provided with that supply. In contrast, some supplies are made to the recipient, but provided to another entity. Arguably, such provisions are also supplies. However, these are not relevant because there is no contractual or reciprocal relationship between the supplier and the entity being provided with the supply. An entity must have made an acquisition of a thing to satisfy the requirements of section 11-10. It is not sufficient that an entity has merely been provided with the supply. Also, an entity does not make an acquisition merely by paying for a supply.
 16. Chapter 3 of the GST Act covers the exemptions from GST, being those supplies that are GST-free or input taxed. Chapter 4 has special rules that can apply in particular cases to modify the basic rules. Both Chapters 3 and 4 provide exceptions to the basic rules.
-17. Because GST is intended to be broad based, a supply may manifest itself in various ways.  For example, a supply may be mixed, composite or neither and an analysis of a transaction may indicate one or more supplies. However, the scheme of the GST Act is not so broad as to include: an entity making a supply to itself; a supply being made by more than one entity; a supply arising out of the creation of expectations alone without more; or a supply without the supplier providing something.
+17. Because GST is intended to be broad based, a supply may manifest itself in various ways. For example, a supply may be mixed, composite or neither and an analysis of a transaction may indicate one or more supplies. However, the scheme of the GST Act is not so broad as to include: an entity making a supply to itself; a supply being made by more than one entity; a supply arising out of the creation of expectations alone without more; or a supply without the supplier providing something.
 Judicial approach to context
 18. The High Court has considered the relevance of context both in a broad sense and in relation to the text of specific provisions within an Act. The judgment of Brennan CJ, Dawson, Toohey and Gummow JJ in
 CIC Insurance Ltd v. Bankstown Football Club Ltd
@@ -2017,7 +2015,7 @@ New Zealand Refining
 Previously issued in draft form as GSTR 2005/D8
 References
 ATO references:
-NO  2006/13027
+NO 2006/13027
 ISSN: 1443-5160
 Related Rulings/Determinations:
 GSTD 2002/3

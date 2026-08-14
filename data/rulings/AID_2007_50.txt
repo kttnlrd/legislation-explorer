@@ -3,27 +3,21 @@ ATO ID 2007/50
 ==================================================
 
 Income Tax
-        Consolidation - retained cost base assets - identification of
-        FOI status: may be released
-
-
+ Consolidation - retained cost base assets - identification of
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a right to have something done under a contract qualifies as a retained cost base asset of the joining entity at the joining time under paragraph 705-25(5)(c) of the Income Tax Assessment Act 1997 (ITAA 1997), should the entirety of the contract be treated as a single retained cost base asset under that provision?
 Decision
-No.  Where a right to have something done under a contract qualifies as a retained cost base asset of the joining entity at the joining time under paragraph 705-25(5)(c) of the ITAA 1997, the entirety of the contract should not be treated as a single retained cost base asset under that provision.
+No. Where a right to have something done under a contract qualifies as a retained cost base asset of the joining entity at the joining time under paragraph 705-25(5)(c) of the ITAA 1997, the entirety of the contract should not be treated as a single retained cost base asset under that provision.
 Facts
 SubCo (the joining entity) entered into a contract with XCo (an unrelated party), the term of the contract being 20 years. Under the contract:
-
-
 
 •SubCo's rights included a right to enter into hedge agreements with XCo, at SubCo's election
 •SubCo was required to pay hedge premiums monthly in arrears, calculated in accordance with a formula set out in the contract
@@ -51,22 +45,14 @@ Taxation Determination TD 93/86 states that for CGT purposes, the totality of ri
 Paragraph 705-25(5)(c) of the ITAA 1997 implicitly identifies 'a right to have something done under an arrangement' as a separately identifiable asset in certain circumstances.
 In the present case, the contract consists of a set of rights and obligations. All rights to the provision of entitlements which arise under the contract by reason of the prepayment qualify as a retained cost base asset under paragraph 705-25(5)(c) of the ITAA 1997. Paragraph 705-25(5)(c) provides that a retained cost base asset includes:
 
-
-
 (c)a right to have something done under an arrangement under which:
-
-
 
 (i)expenditure has been incurred in return for the doing of a thing; and
 (ii)the thing is required or permitted to be done, or cease being done, after the expenditure is incurred....
 
 The requirements in paragraph 705-25(5)(c) of the ITAA 1997 are satisfied in the present case because:
 
-
-
 •SubCo has rights to the provision of entitlements that arise by reason of the prepayment (the prepaid entitlements). These rights arise under an agreement (that is, the contract with XCo) under which:
-
-
 
 -An amount has been incurred in return for the provision of the prepaid entitlements, and
 - The provision of the prepaid entitlements is permitted to be done, at SubCo's election, at a time after the amount was incurred.
@@ -75,10 +61,10 @@ SubCo's rights that qualify as a retained cost base asset under paragraph 705-25
 Subsection 705-35 of the ITAA 1997 explains that a reset cost base asset is an asset that is neither a retained cost base asset nor an excluded asset (defined under subsection 705-35(2) of the ITAA 1997 to mean an asset in respect of which the joined group's allocable cost amount (ACA) for the joining entity is required to be reduced).
 The remaining bundle of rights under the contract do not qualify as a retained cost base asset under paragraphs 705-25(5)(a) to 705-25(5)(c) of the ITAA 1997; nor is it an excluded asset under subsection 705-35(2) of the ITAA 1997 (since the joined group's ACA for SubCo is not required to be reduced in respect of the remaining bundle of rights). Accordingly, the remaining bundle of rights under the contract qualify as a reset cost base asset.
 Date of decision:
-         8 March 2007
+  8 March 2007
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -92,26 +78,25 @@ Taxation Ruling TR 2005/10
 
 Other References:
 
-Explanatory Memorandum to  New Business Tax System (Consolidation) Bill (No.1) 2002
+Explanatory Memorandum to New Business Tax System (Consolidation) Bill (No.1) 2002
 
 Keywords
 
 Consolidation - assets
-          Cost setting rules
-          Joining entity
-          Joining time
-          Retained cost base asset
-          Tax cost setting rules
-
+ Cost setting rules
+ Joining entity
+ Joining time
+ Retained cost base asset
+ Tax cost setting rules
 
 Siebel/TDMS Reference Number:
-         5512573
+  5512573
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         16 March 2007
+  16 March 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

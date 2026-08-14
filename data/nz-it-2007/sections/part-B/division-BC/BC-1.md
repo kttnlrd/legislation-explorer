@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Non-filing taxpayer**
 
-**(1)**  The income tax liability of a non-filing taxpayer for a tax year is the total tax withheld from amounts of income included in the taxpayer’s annual gross income for the year.
+**(1)**  The income tax liability of a non-filing taxpayer for a tax year is the total tax withheld from amounts of income included in the taxpayer's annual gross income for the year.
 
 **Filing taxpayer**
 

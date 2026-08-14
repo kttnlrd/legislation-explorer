@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Consolidated imputation groups**
 
-**(2)**  Under section OP 2 (When credits and debits arise only in group accounts), certain credits and debits do not arise in an ICA company’s memorandum account if the company is part of a consolidated imputation group.
+**(2)**  Under section OP 2 (When credits and debits arise only in group accounts), certain credits and debits do not arise in an ICA company's memorandum account if the company is part of a consolidated imputation group.
 
 *Defined in this Act: consolidated imputation group, ICA company, imputation credit account, memorandum account*
 

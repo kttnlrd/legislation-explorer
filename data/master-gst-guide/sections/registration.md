@@ -11,4 +11,4 @@ To attract GST or claim input tax credits, you must normally be registered (¶3-
 
 To be registered, you have to show that you are carrying on an enterprise — this is similar to showing that you are in business, but it is not limited to that (¶3-020).
 
-To be registered you must be an “entity”, for example an individual, company, trust, partnership or unincorporated association (¶3-015).
+To be registered you must be an "entity", for example an individual, company, trust, partnership or unincorporated association (¶3-015).

@@ -11,7 +11,7 @@ paragraph: "¶20-010"
 
   out or commenced on or after that date)
 
-- an entity (the “avoider”) must get a GST benefit
+- an entity (the "avoider") must get a GST benefit
 
 - this benefit must be from the scheme and must not be attributable to a choice expressly allowed by
 

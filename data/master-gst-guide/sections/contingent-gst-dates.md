@@ -39,6 +39,6 @@ July, 28 October, 28 February and 28 April (¶8-005). For quarterly GST taxpayer
 
 If the normal due date for paying tax or lodging a form falls on a weekend or public holiday, the due date will be extended to the next business day (Administration Act, s 8AAZMB; Sch 1, s 388-52). For example, if the due date for lodging a quarterly return for the period would normally fall on a Sunday, the due date is instead the following Monday.
 
-A “public holiday” means a day that is a public holiday for the whole of any state or territory in Australia. If that applies, taxpayers in all states and territories can lodge or pay on the next business day, even if they don’t celebrate the public holiday.
+A "public holiday" means a day that is a public holiday for the whole of any state or territory in Australia. If that applies, taxpayers in all states and territories can lodge or pay on the next business day, even if they don't celebrate the public holiday.
 
 *Refs: s 388-52)*

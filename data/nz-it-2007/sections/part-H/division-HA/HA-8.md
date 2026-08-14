@@ -4,17 +4,17 @@ part_title: Part H Taxation of certain entities
 division: HA
 division_title: Subpart HA—Qualifying companies (QC)
 section: HA-8
-section_title: Shareholders’ personal liability
+section_title: Shareholders' personal liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# HA 8  Shareholders’ personal liability
+# HA 8  Shareholders' personal liability
 
 **Agreement required for election**
 
 **(1)**  A person making an election as shareholder as described in section HA 5 must agree for each income year in which the election is in effect, to take personal liability on the basis of their effective interest in the company—
 
-- (a) for their share of the company’s income tax liability for the income year; and
+- (a) for their share of the company's income tax liability for the income year; and
 
 - (b) if the company has made an election as shareholder in another company, for any income tax payable in relation to that other company for the income year.
 

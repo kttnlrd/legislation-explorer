@@ -7,11 +7,11 @@ paragraph: "¶26-267"
 ---
 # PAYG: distributions of withholding MIT income ¶26-267
 
-Withholding also applies to certain distributions (“fund payments”) from “withholding MITs” (Subdiv 12-H).
+Withholding also applies to certain distributions ("fund payments") from "withholding MITs" (Subdiv 12-H).
 
 Liability to this withholding tax is imposed under ITAA97 Div 840 (¶22-045). If there is no underlying liability to managed investment trust withholding tax, then there is no obligation to withhold.
 
-Withholding MIT A trust is a “withholding MIT” (s 12-383) if it is a managed investment trust (within the meaning in ITAA97 s 275-10(1)(a) or (2): see ¶12-660; from 1 July 2022 this can include a Corporate Collective Investment Vehicle (CCIV) sub-fund trust per ITAA97 s 195-130: see ¶6-410) and a substantial proportion of the investment management activities carried out by the trust in relation to certain assets are carried out in Australia throughout the income year. The relevant assets are all of the trust’s assets that are, at any time in the income year:
+Withholding MIT A trust is a "withholding MIT" (s 12-383) if it is a managed investment trust (within the meaning in ITAA97 s 275-10(1)(a) or (2): see ¶12-660; from 1 July 2022 this can include a Corporate Collective Investment Vehicle (CCIV) sub-fund trust per ITAA97 s 195-130: see ¶6-410) and a substantial proportion of the investment management activities carried out by the trust in relation to certain assets are carried out in Australia throughout the income year. The relevant assets are all of the trust's assets that are, at any time in the income year:
 
 - situated in Australia
 
@@ -33,9 +33,9 @@ Fund payment A fund payment is deﬁned in TAA sch 1 s 12-405 and is basically a
 
 A fund payment must be made during the income year, within 3 months after the income year or within a longer period if agreed to by the Commissioner (but not exceeding 6 months from the end of the income year).
 
-Section 12-405 generally applies to a trust that is not an AMIT; the meaning of “fund payment” for AMITs is contained in TAA sch 1 s 12A-110 (¶26-268).
+Section 12-405 generally applies to a trust that is not an AMIT; the meaning of "fund payment" for AMITs is contained in TAA sch 1 s 12A-110 (¶26-268).
 
-When withholding is required For withholding to apply, the recipient of the fund payment must have a relevant connection outside Australia. This will occur if either: (i) according to any record in the payer’s possession, the recipient has an address outside Australia; or (ii) the payer is authorised to make payment at a place outside Australia. This connection does not exist in relation to payments made to a recipient that carried on business in Australia at or through an Australian permanent establishment and the payment is associated with that establishment.
+When withholding is required For withholding to apply, the recipient of the fund payment must have a relevant connection outside Australia. This will occur if either: (i) according to any record in the payer's possession, the recipient has an address outside Australia; or (ii) the payer is authorised to make payment at a place outside Australia. This connection does not exist in relation to payments made to a recipient that carried on business in Australia at or through an Australian permanent establishment and the payment is associated with that establishment.
 
 If the payer does not have an obligation to withhold at that time, it may have an obligation to give a notice to the recipient or make certain information available on a website in respect of the payment. The obligation to give a notice or make information available on a website will continue through a chain of entities until the obligation to withhold is triggered.
 
@@ -66,9 +66,9 @@ If the place, address or country of residence of the recipient is not in a juris
 
 Information exchange countries are speciﬁed in TAR s 34.
 
-Where a non-custodian is a trust that is required to withhold an amount and that trust has a diﬀerent year end to the withholding MIT to which the payment relates, then the amount that is required to be withheld is calculated by reference to the withholding rate that corresponds to the income year of the withholding MIT to which the fund payment relates, not the resident trust’s income year in which the beneﬁciary’s entitlement arises (ID 2013/63).
+Where a non-custodian is a trust that is required to withhold an amount and that trust has a diﬀerent year end to the withholding MIT to which the payment relates, then the amount that is required to be withheld is calculated by reference to the withholding rate that corresponds to the income year of the withholding MIT to which the fund payment relates, not the resident trust's income year in which the beneﬁciary's entitlement arises (ID 2013/63).
 
-Withholding from clean building MITs A ﬁnal withholding tax at the rate of 10% applies to fund payments from eligible clean building MITs that are made to foreign residents in information exchange countries. An eligible clean building MIT is a withholding MIT that holds one or more clean buildings (TAA sch 1 ss 12-425; 12-430). These are new energy eﬃcient buildings for which construction began on or after 1 July 2012 and must be oﬃce buildings, hotels or shopping centres, or a building consisting of a combination of these. The building must meet and maintain at least a 5-star Green Star rating as certiﬁed by the Green Building Council of Australia or a 5.5-star energy rating as accredited by the National Australian Built Environment Rating System. Land on which the clean building is a ﬁxture is also included as a clean building. A clean building MIT cannot derive assessable income from any taxable Australian property other than its clean buildings and assets “reasonably incidental to” those clean buildings.
+Withholding from clean building MITs A ﬁnal withholding tax at the rate of 10% applies to fund payments from eligible clean building MITs that are made to foreign residents in information exchange countries. An eligible clean building MIT is a withholding MIT that holds one or more clean buildings (TAA sch 1 ss 12-425; 12-430). These are new energy eﬃcient buildings for which construction began on or after 1 July 2012 and must be oﬃce buildings, hotels or shopping centres, or a building consisting of a combination of these. The building must meet and maintain at least a 5-star Green Star rating as certiﬁed by the Green Building Council of Australia or a 5.5-star energy rating as accredited by the National Australian Built Environment Rating System. Land on which the clean building is a ﬁxture is also included as a clean building. A clean building MIT cannot derive assessable income from any taxable Australian property other than its clean buildings and assets "reasonably incidental to" those clean buildings.
 
 It was announced in the 2023–24 Budget that the clean building MIT withholding tax concession will be extended from 1 July 2025 to eligible data centres and warehouses that meet energy eﬃciency standards, where construction commences after 7:30 pm (AEST) on 9 May 2023 (2023–24 Budget Paper No 2, p 18).
 
@@ -106,25 +106,25 @@ Residential build-to-rent developments The Treasury Laws Amendment (Responsible 
 
   tenant can request a shorter period), and
 
-- at least 10% of the dwellings are available as aﬀordable tenancies (the deﬁnition of “aﬀordable
+- at least 10% of the dwellings are available as aﬀordable tenancies (the deﬁnition of "aﬀordable
 
-  dwelling” is determined by the Income Tax Assessment (Build to Rent Developments)
+  dwelling" is determined by the Income Tax Assessment (Build to Rent Developments)
 
 Determination 2024 (F2024L01729)).
 
 The reduced withholding tax rate was initially limited to developments whose construction commenced after 7.30 pm (AEST) on 9 May 2023, however this requirement has been removed, and it now applies to all developments that satisfy the eligibility requirements, even if the development existed, or construction of the development commenced before this date.
 
-If a development ceases to be an active BTR development within 15 years then an integrity measure neutralises the beneﬁt obtained by imposing a “build to rent development misuse tax”. The amount of this tax is set out in the Capital Works (Build to Rent Misuse Tax) Act 2024.
+If a development ceases to be an active BTR development within 15 years then an integrity measure neutralises the beneﬁt obtained by imposing a "build to rent development misuse tax". The amount of this tax is set out in the Capital Works (Build to Rent Misuse Tax) Act 2024.
 
 PAYG: distributions to foreign residents from attribution MITs Certain managed investment trusts (MITs) are governed by a special tax system (¶6-405). From 1 July 2022, this can include CCIV sub-fund trusts (ITAA97 s 195-135: see ¶6-410). As it applies to PAYG withholding, the system basically draws a distinction between those MITs that are covered by the system (attribution MITs or AMITs) and those that are not.
 
 For those MITs that are not AMITs, the existing rules continue to apply. In addition, the current dividend, interest and royalty withholding provisions (¶27-250), and the MIT withholding provisions (¶26-267), continue to apply to relevant cash payments made by an AMIT to a foreign resident prior to the time that a deemed payment is made.
 
-Members of AMITs are taxed on amounts attributed to them. Under the attribution model, the amount included in the assessable income of a member is based on the amount of the “determined trust component” that has been attributed to the member by an AMIT. This amount is the “taxable member component” and is disclosed in the AMMA statement that is given to the member by the AMIT. The AMMA statement categorises each type of income into separate “AMIT characters”. These concepts are discussed further at ¶6-400.
+Members of AMITs are taxed on amounts attributed to them. Under the attribution model, the amount included in the assessable income of a member is based on the amount of the "determined trust component" that has been attributed to the member by an AMIT. This amount is the "taxable member component" and is disclosed in the AMMA statement that is given to the member by the AMIT. The AMMA statement categorises each type of income into separate "AMIT characters". These concepts are discussed further at ¶6-400.
 
 To impose PAYG withholding on these deemed payments, Div 12A modiﬁes the operation of Subdiv 12-F (in relation to dividends, interest and royalty payments to overseas persons) and Subdiv 12-H (in relation to fund payments to overseas persons). For AMITs, the operation of the dividend, interest and royalty withholding provisions is modiﬁed so that they apply to a taxable member component of a dividend, interest or royalty income AMIT character that is attributed to a member by an AMIT as shown on an AMMA statement. The operation of the MIT withholding provisions is also modiﬁed so that a fund payment includes a relevant taxable member component that is attributed to a member by an AMIT as shown on an AMMA statement.
 
-The AMIT must pay to the Commissioner an amount that is equal to the amount that the trustee would have had to withhold if the deemed payment was an actual payment. In addition, if an AMIT attributes a taxable member component to a member that is a custodian and does not pay the custodian an amount of cash that is suﬃcient to cover the custodian’s PAYG withholding obligation in relation to the deemed payment, the custodian can transfer the remaining part of the obligation back to the AMIT.
+The AMIT must pay to the Commissioner an amount that is equal to the amount that the trustee would have had to withhold if the deemed payment was an actual payment. In addition, if an AMIT attributes a taxable member component to a member that is a custodian and does not pay the custodian an amount of cash that is suﬃcient to cover the custodian's PAYG withholding obligation in relation to the deemed payment, the custodian can transfer the remaining part of the obligation back to the AMIT.
 
 A member of an AMIT is liable to withholding tax on a relevant taxable member component that is attributed to the member by an AMIT. However, the member can reduce his/her/its liability to withholding tax by the amount that is withheld or paid by an AMIT under the PAYG withholding regime in respect of the attributed amount.
 

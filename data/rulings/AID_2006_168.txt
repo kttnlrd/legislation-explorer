@@ -3,18 +3,14 @@ ATO ID 2006/168
 ==================================================
 
 Income Tax
-        Capital Allowances: balancing adjustment event occurring on the granting of a licence to exploit a patented invention
-        FOI status: may be released
-
-
+ Capital Allowances: balancing adjustment event occurring on the granting of a licence to exploit a patented invention
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a balancing adjustment event occur for a depreciating asset under section 40-295 of the Income Tax Assessment Act 1997 (ITAA 1997) when an entity is granted a licence to exploit another entity's patent?
@@ -28,18 +24,16 @@ A balancing adjustment is required if a balancing adjustment event occurs for a 
 Paragraph 40-295(1)(a) of the ITAA 1997 provides that a balancing adjustment event occurs when an asset stops being held by an entity. For depreciating assets satisfying the definition of the term 'intellectual property' in subsection 995-1(1) of the ITAA 1997, the granting or assigning of an interest in the asset is treated as if the asset is split into two assets with the holder ceasing to hold the part of the original asset that represents the interest granted or assigned to the other entity (subsection 40-115(3) of the ITAA 1997).
 Therefore in the present case, company B's patent is split into:
 
-
-
 •the rights company B has retained as owner of a patent, and
 •the rights to be possessed by company A under the licence in the foreign jurisdiction.
 
 The rights that company A enjoys are recognised as an item of intellectual property (subsection 995-1(1) of the ITAA 1997) and company B has stopped holding that depreciating asset.
 Therefore, a balancing adjustment event occurs when the licence in the patent is granted to company A by company B.
 Date of decision:
-         30 May 2006
+  30 May 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -54,20 +48,19 @@ Related ATO Interpretative Decisions
 Keywords
 
 Balancing adjustment event
-          Balancing adjustments
-          Intellectual property rights
-          Patents
-          Uniform capital allowances system
-
+ Balancing adjustments
+ Intellectual property rights
+ Patents
+ Uniform capital allowances system
 
 Siebel/TDMS Reference Number:
-         5122547
+  5122547
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         7 July 2006
+  7 July 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

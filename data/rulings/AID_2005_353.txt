@@ -3,18 +3,14 @@ ATO ID 2005/353
 ==================================================
 
 Goods and Services Tax
-        GST and adjustment of input tax credit after legislative change for supply of retirement village accommodation
-        FOI status: may be released
-
-
+ GST and adjustment of input tax credit after legislative change for supply of retirement village accommodation
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a supplier of retirement village accommodation, entitled to make an adjustment under Division 19 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) or revise its previous business activity statements (BASs) to claim input tax credits for the construction costs of the retirement village incurred in prior tax periods as a result of the introduction of section 38-260 of the GST Act?
@@ -30,14 +26,10 @@ At the time the entity made the acquisitions (prior to 14 December 2004), the ac
 Similarly, an entity can only revise a previous BAS where it has made an error or omission, for example, it did not claim input tax credits on creditable acquisitions. In this instance, the entity has not made an error in a previous BAS as it was not entitled to claim an input tax credit at the time of acquisition. As section 38-260 of the GST Act only applies prospectively, it does not result in the acquisition becoming creditable at the time of acquisition.
 An adjustment under Division 129 of the GST Act arises for an acquisition in an adjustment period where:
 
-
-
 •there is a difference between the actual use and the planned (or intended) use of the thing for a creditable purpose, or
 •there is a difference between the actual use of the thing up to the end of one adjustment period and the actual use of the thing up to the end of the previous adjustment period.
 
 The actual application of the thing acquired is the extent to which it is applied for a creditable purpose during the period:
-
-
 
 •starting at the time when it was acquired, and
 •ending at the end of the relevant adjustment period.
@@ -45,11 +37,10 @@ The actual application of the thing acquired is the extent to which it is applie
 At the time that the entity made the progressive payments under the construction contract, input tax credits were not claimed as it had determined that the supplies of accommodation would be input taxed. It is the subsequent introduction of section 38-260 of the GST Act, which only applies to supplies made on or after 14 December 2004, that has caused the entity to review the extent of creditable purpose of these acquisitions.
 Therefore, as section 38-260 of the GST Act only applies to supplies made on or after 14 December 2004, the appropriate method of determining the entitlement to input tax credits on the construction costs of the retirement village is to make an adjustment under Division 129 of the GST Act.
 
-
 Note: Goods and Services Tax Ruling GSTR 2000/24 provides details on making adjustments for changes in extent of creditable purpose under Division 129 of the GST Act.
 
 Date of decision:
-         9 August 2005
+  9 August 2005
 
 Legislative References:
 
@@ -62,27 +53,26 @@ GSTR 2000/24
 Keywords
 
 GST free
-          GST non-profit
-          GST charities
-          GST input tax credits and creditable acquisitions
-          GST net amounts and adjustments
-          Adjustments
-          GST property and construction
-          GST retirement villages
-          GST supplies and acquisitions
-          Creditable acquisition
-          Creditable purpose
-          Input taxed supplies
-
+ GST non-profit
+ GST charities
+ GST input tax credits and creditable acquisitions
+ GST net amounts and adjustments
+ Adjustments
+ GST property and construction
+ GST retirement villages
+ GST supplies and acquisitions
+ Creditable acquisition
+ Creditable purpose
+ Input taxed supplies
 
 Siebel/TDMS Reference Number:
-         4736586
+  4736586
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         16 December 2005
+  16 December 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

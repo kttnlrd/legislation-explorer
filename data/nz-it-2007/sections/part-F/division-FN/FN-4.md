@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Anti-avoidance measure**
 
-**(5)**  A company is not eligible to be part of an imputation group if, for a purpose of enabling a company to be part of an imputation group so as to defeat the intent and application of the imputation rules, the company’s shares—
+**(5)**  A company is not eligible to be part of an imputation group if, for a purpose of enabling a company to be part of an imputation group so as to defeat the intent and application of the imputation rules, the company's shares—
 
 - (a) are subject to an arrangement or to a series of related or connected arrangements; or
 

@@ -4,17 +4,15 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Div 290
-  • Div 7A
-  • Division 290
-  • Division 7A
-  • Subdivision 122-A
-  • div 122
-  • division 122
+ • Div 290
+ • Div 7A
+ • Division 290
+ • Division 7A
+ • Subdivision 122-A
+ • div 122
+ • division 122
 
 Topics: CGT, Div 7A, Trusts, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -192,7 +190,7 @@ As at 30 June 2020, the accounting records of HoldCo provide that the $1,000,001
 Ordinarily, in the absence of anything more, we expect the distribution of accumulated profits from a company would be made as a dividend.
 [8]
 Amounts the company is taken by section 109C to have paid as dividends are added back into the distributable surplus calculation at 'Division 7A amounts', resulting in the distributable surplus increasing. See subsection 109Y(2).
-File  1-UMB2L06
+File 1-UMB2L06
 Legislative References:
 ITAA 1936 Div 7A
 ITAA 1936 109N

@@ -7,7 +7,7 @@ paragraph: "¶3-030"
 ---
 # The GST turnover test ¶3-030
 
-An entity is normally required to register for GST if its “GST turnover” is $75,000 or more (s 23-15; reg 23-15). This means that it must register if either of the following applies:
+An entity is normally required to register for GST if its "GST turnover" is $75,000 or more (s 23-15; reg 23-15). This means that it must register if either of the following applies:
 
 - its current GST turnover is at least $75,000, except if the ATO is satisfied that the projected GST
 
@@ -17,9 +17,9 @@ An entity is normally required to register for GST if its “GST turnover” is 
 
   Special threshold for non-profit bodies
 
-The registration threshold for non-profit bodies, is $150,000. “Non-profit” is not defined in the GST legislation.
+The registration threshold for non-profit bodies, is $150,000. "Non-profit" is not defined in the GST legislation.
 
-The ATO considers that a body will qualify if it is prevented by law or its constituent documents from distributing its profits or assets among its members, either while it is operating, or on winding up, and acts consistently with those restrictions (GST Ruling GSTR 2012/2, Taxation Ruling TR 97/22). The ATO also says it will accept that the non-profit test is satisfied if it is clear from the body’s objects, policies, history, activities and proposed future directions that there will be no distributions to members.
+The ATO considers that a body will qualify if it is prevented by law or its constituent documents from distributing its profits or assets among its members, either while it is operating, or on winding up, and acts consistently with those restrictions (GST Ruling GSTR 2012/2, Taxation Ruling TR 97/22). The ATO also says it will accept that the non-profit test is satisfied if it is clear from the body's objects, policies, history, activities and proposed future directions that there will be no distributions to members.
 
 For strata title bodies corporate, see ¶11-200; other rules relating to not-for-profits, see ¶15-000.
 
@@ -53,9 +53,9 @@ As the turnover from taxable supplies exceeds $75,000, Lloyd is required to regi
 
 - supplies that are not connected with Australia. An offshore supply of rights or options that is
 
-  deemed to be connected with Australia may be disregarded, unless it is made to an “Australian
+  deemed to be connected with Australia may be disregarded, unless it is made to an "Australian
 
-  consumer” (¶9-120), the underlying supply is not a supply of goods or real property and the supply is
+  consumer" (¶9-120), the underlying supply is not a supply of goods or real property and the supply is
 
   not GST-free.
 
@@ -77,9 +77,9 @@ Whether the item being transferred is a capital asset is determined at the time 
 
   permanently reducing its size or scale (s 188-25). The Commissioner accepts that a 10% reduction in
 
-  size or scale is “substantial” for most enterprises, though a smaller reduction may also qualify. Changes
+  size or scale is "substantial" for most enterprises, though a smaller reduction may also qualify. Changes
 
-  that could foreseeably affect only one or 2 years would not be regarded as “permanent” (GST Ruling
+  that could foreseeably affect only one or 2 years would not be regarded as "permanent" (GST Ruling
 
 GSTR 2001/7). Supplies of subdivided land made in the course of a land development enterprise, are not as a consequence of closing down that enterprise (Collins).
 
@@ -87,9 +87,9 @@ Supplies made through an entity acting as an agent are not included when calcula
 
 What is measured is the turnover of the entity, rather than the turnover of each enterprise or business. If the one entity operates 2 businesses, the turnover of the entity will include that of both businesses.
 
-Illustration: Aggregation of multiple businesses' turnovers Mrs Woolly provides farmstay holidays at her operating farm. The turnovers from the holiday business and the farm business are both taken into account in calculating Mrs Woolly’s turnover. However, if the farm and farmstay businesses are operated by separate entities, the turnover would be calculated independently for each.
+Illustration: Aggregation of multiple businesses' turnovers Mrs Woolly provides farmstay holidays at her operating farm. The turnovers from the holiday business and the farm business are both taken into account in calculating Mrs Woolly's turnover. However, if the farm and farmstay businesses are operated by separate entities, the turnover would be calculated independently for each.
 
-Employee services supplied by an overseas body in Australia to its 100% subsidiary, are disregarded when calculating the non-resident’s turnover for GST registration purposes (s 188-40), subject to the condition that the payments the non-resident makes to the employees would have been subject to Pay As You Go (PAYG) withholding if they had been paid by the Australian subsidiary.
+Employee services supplied by an overseas body in Australia to its 100% subsidiary, are disregarded when calculating the non-resident's turnover for GST registration purposes (s 188-40), subject to the condition that the payments the non-resident makes to the employees would have been subject to Pay As You Go (PAYG) withholding if they had been paid by the Australian subsidiary.
 
 Offshore supplies of hotel accommodation in Australia are included in turnover: see ¶11-320.
 
@@ -108,7 +108,7 @@ GST turnover relevant for other purposes
 
   Special rules
 
-- supplies covered by specified “reverse charge” agreements (¶9-095, ¶16-210)
+- supplies covered by specified "reverse charge" agreements (¶9-095, ¶16-210)
 
 - agents who agree to act as principals (¶17-420)
 

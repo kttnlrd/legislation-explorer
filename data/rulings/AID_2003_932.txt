@@ -3,21 +3,17 @@ ATO ID 2003/932
 ==================================================
 
 Income Tax
-        Withholding Tax: entitlement to reduced treaty rate for unfranked dividends passing through an entity that is a resident of a non treaty country
-        FOI status: may be released
-
+ Withholding Tax: entitlement to reduced treaty rate for unfranked dividends passing through an entity that is a resident of a non treaty country
+ FOI status: may be released
 
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the taxpayer, an entity which is resident in a treaty country and which is beneficially entitled to unfranked dividends from Australian companies, be subject to withholding tax under subsection 128B(4) of the Income Tax Assessment Act 1936 (ITAA 1936) on those dividends at the rate stipulated in the double tax agreement (DTA) that Australia has with that treaty country, when those dividends pass through an arm's length interposed entity that is not a resident of a treaty country?
@@ -41,10 +37,10 @@ As the taxpayer beneficially owns the dividends, the Article in the DTA will app
 Subsection 17A(1) of the Agreements Act further provides that the amount of withholding tax imposed shall not exceed the tax limit specified in the DTA, if a limit is so specified. Therefore, section 4 of the Agreements Act will operate to override the general rate of withholding tax that would apply under subsection 128B(4) of the ITAA 1936.
 Accordingly, the unfranked dividends derived by the taxpayer are subject to withholding tax under subsection 128B(4) of the ITAA 1936. The rate of withholding tax that will apply to the dividends will be limited to 15% even though the dividends pass through an interposed arm's length entity that is not a resident of a treaty country because only the taxpayer beneficially owns the dividends.
 Date of decision:
-         10 September 2003
+  10 September 2003
 
 Year of income:
-           Period 1 July 1995 to 31 March 2001
+  Period 1 July 1995 to 31 March 2001
 
 Legislative References:
 
@@ -55,19 +51,18 @@ International Tax Agreements Act 1953   section 4   section 17A
 Keywords
 
 Double tax agreements
-          Non resident dividend withholding tax
-          Passive investment income
-          Conduit income or flow through income
-
+ Non resident dividend withholding tax
+ Passive investment income
+ Conduit income or flow through income
 
 Siebel/TDMS Reference Number:
-         338812
+  338812
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         17 October 2003
+  17 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

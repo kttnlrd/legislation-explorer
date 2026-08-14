@@ -4,15 +4,13 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 2
-  • Div 358
-  • Division 153
-  • Division 2
-  • Division 358
+ • Div 2
+ • Div 358
+ • Division 153
+ • Division 2
+ • Division 358
 
 Topics: GST, Trusts, Partnerships, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -27,7 +25,7 @@ Back to browse
 31 related documents
 Goods and Services Tax Ruling
 GSTR 2000/3
-Goods and Services Tax:  transitional documents - entitlement to an input tax credit without a tax invoice
+Goods and Services Tax: transitional documents - entitlement to an input tax credit without a tax invoice
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -64,7 +62,7 @@ A public ruling is an expression of the Commissioner's opinion about the way in 
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
 [
 Note:
-This is a consolidated version of this document.  Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. Under the
 A New Tax System (Goods and Services Tax) Act 1999
@@ -142,11 +140,11 @@ The supplier must issue a tax invoice within 28 days of a request by the recipie
 10. GSTR 2000/1 explains the requirements for an adjustment note.
 Previous Rulings
 11. This Ruling replaces GST Bulletin, GSTB 1999/1-
-Guidelines for 'tax invoices' issued by suppliers before 1 July 2000.  Accordingly, that Bulletin is withdrawn from the issue date of this Ruling
+Guidelines for 'tax invoices' issued by suppliers before 1 July 2000. Accordingly, that Bulletin is withdrawn from the issue date of this Ruling
 .
 Ruling
 When a tax invoice is not required
-12. The Commissioner has determined under subsection 29-10(3) that you are entitled to an input tax credit for a creditable acquisition without holding a tax invoice in certain circumstances.  A copy of the determination is attached as a Schedule to this Ruling.  The entitlement arises when:
+12. The Commissioner has determined under subsection 29-10(3) that you are entitled to an input tax credit for a creditable acquisition without holding a tax invoice in certain circumstances. A copy of the determination is attached as a Schedule to this Ruling. The entitlement arises when:
 (a)
 you or your agent holds a document (a transitional document) issued before 1 July 2000 for a taxable supply made on or after that date; and
 (b)
@@ -166,14 +164,14 @@ and a statement indicating that the price includes GST; or
 •
 the amount of the GST payable.
 Example
-13. Your industry association sends you a notice to renew your annual membership.  The notice is for membership during the period 1 January 2000 to 31 December 2000.C4
+13. Your industry association sends you a notice to renew your annual membership. The notice is for membership during the period 1 January 2000 to 31 December 2000.C4
 [F14]
 The notice shows the date of issue, the association's name and address, and the total membership fee payable of $384.40.
 14. GST is payable by the industry association for the supply of the membership for the period 1 July 2000 to 31 December 2000.C4
 [F15]
 The price of $384.40 is made up as follows:
--  price of the supply before 1 July 2000    = $182.00, and
--  price of the supply after 1 July 2000     = $202.40 ($184.00 plus GST of $18.40)
+- price of the supply before 1 July 2000 = $182.00, and
+- price of the supply after 1 July 2000 = $202.40 ($184.00 plus GST of $18.40)
 15. To claim an input tax credit, you will not need a tax invoice if the notice that you received shows either or both:
 •
 the price of $202.40 for that part of the supply that is made from 1 July 2000 to 31 December 2000, and indicates that the price includes GST; or
@@ -181,9 +179,9 @@ the price of $202.40 for that part of the supply that is made from 1 July 2000 t
 the amount of $18.40 GST that is payable.
 You need to hold this transitional document when you lodge your first BAS.
 Formula for the price of the taxable supply or the GST payable
-16. Some suppliers have previously issued documents that contain a formula to work out the price of the taxable supply or the GST payable.  For example, the GST payable may be expressed as a percentage of the price. You can claim an input tax credit on the basis of such a document, providing it issued before 1 January 2000.C4
+16. Some suppliers have previously issued documents that contain a formula to work out the price of the taxable supply or the GST payable. For example, the GST payable may be expressed as a percentage of the price. You can claim an input tax credit on the basis of such a document, providing it issued before 1 January 2000.C4
 [F16]
-17. This saves suppliers from having to reissue documents for this period only.  However, the Commissioner does not accept that a formula satisfies the requirement to state the price or the GST amount for documents issued on or after 1 January 2000.
+17. This saves suppliers from having to reissue documents for this period only. However, the Commissioner does not accept that a formula satisfies the requirement to state the price or the GST amount for documents issued on or after 1 January 2000.
 Supplies for which the GST payable is less than 1/11th of the price
 18. Where you acquire a taxable supply for which the GST payable is less than 1/11th of the price, you must hold a transitional document that satisfies paragraphs 12(a) and (b) of this Ruling and shows the amount of GST payable, if you wish to claim an input tax credit without a tax invoice.
 19. GST is less than 1/11th of the price in limited circumstances, for example with an insurance premiumC4
@@ -191,37 +189,37 @@ Supplies for which the GST payable is less than 1/11th of the price
 or a supply of long-term accommodation in commercial residential premises.C4
 [F18]
 Insurance supplies
-20. A document will also satisfy the requirements of paragraph 12 if it is issued by your insurance broker and shows the insurance broker's details instead of those of the insurance provider.  This is consistent with section 153-25, which has the effect of deeming the insurance broker to be the agent of the insurer for the purposes of Division 153.
+20. A document will also satisfy the requirements of paragraph 12 if it is issued by your insurance broker and shows the insurance broker's details instead of those of the insurance provider. This is consistent with section 153-25, which has the effect of deeming the insurance broker to be the agent of the insurer for the purposes of Division 153.
 Multiple documents
 21. You are also entitled to an input tax credit without a tax invoice if you have a document that issued before 1 July 2000 together with another document(s), that contain the information referred to in paragraph 12 above.
 Example
 22. You lease business premises under an agreement made before 8 July 1999 (the date the
 A New Tax System (Goods and Services Tax Transition) Act 1999
-received Royal Assent) that contains a review opportunity on 1 July 2001.  On or after 1 July 2001, the lessor issues a document that confirms the revised rent and states that it includes GST.  You can claim an input tax credit (without having a tax invoice) if this document and the original lease agreement together contain the information specified in paragraph 12.
+received Royal Assent) that contains a review opportunity on 1 July 2001. On or after 1 July 2001, the lessor issues a document that confirms the revised rent and states that it includes GST. You can claim an input tax credit (without having a tax invoice) if this document and the original lease agreement together contain the information specified in paragraph 12.
 Recipient created documents
-23. This Ruling also applies to documents you issue as the recipient of the taxable supply, providing you document falls into a class of tax invoices issued by a recipient that the Commissioner determines.  Where you issue such a document for the supply that has the necessary information specified in paragraph 12, you may claim an input tax credit if you also hold a copy of the document.C4
+23. This Ruling also applies to documents you issue as the recipient of the taxable supply, providing you document falls into a class of tax invoices issued by a recipient that the Commissioner determines. Where you issue such a document for the supply that has the necessary information specified in paragraph 12, you may claim an input tax credit if you also hold a copy of the document.C4
 [F19]
 The requirements for an adjustment note
-24. Adjustment events may occur that affect a taxable supply for which a transitional document was issued.  The documents that are required in relation to these events are described in paragraphs 25 to 28.
+24. Adjustment events may occur that affect a taxable supply for which a transitional document was issued. The documents that are required in relation to these events are described in paragraphs 25 to 28.
 Adjustment events for which there is no adjustment
 25. An adjustment event relating to a taxable supply will only result in an adjustment if the GST or input tax credit has been attributed in your BAS.C4
 [F20]
 If there is no adjustment, there is also no requirement to issue an adjustment note.
-26. However, the original transitional document issued by the supplier may not satisfy paragraph 12 because it does not show the new price and/or GST amount for the taxable supply.  Therefore, the Commissioner has determined under subsection 29-10(3), that you may claim an input tax credit if you hold documents that together satisfy the requirements of paragraph 12.  You may hold the original document issued by the supplier, together with a document (such as a credit note) that gives details of the adjustment event.
+26. However, the original transitional document issued by the supplier may not satisfy paragraph 12 because it does not show the new price and/or GST amount for the taxable supply. Therefore, the Commissioner has determined under subsection 29-10(3), that you may claim an input tax credit if you hold documents that together satisfy the requirements of paragraph 12. You may hold the original document issued by the supplier, together with a document (such as a credit note) that gives details of the adjustment event.
 Adjustment events which result in an adjustment
-27. If, as a supplier, you issue transitional documents before 1 July 2000 that meet the requirements of this Ruling, your recipients can claim an input tax credit without holding a tax invoice.  Therefore, you may not have issued or have been requested to issue a tax invoice for these supplies.
+27. If, as a supplier, you issue transitional documents before 1 July 2000 that meet the requirements of this Ruling, your recipients can claim an input tax credit without holding a tax invoice. Therefore, you may not have issued or have been requested to issue a tax invoice for these supplies.
 28. In this case, you will have to issue any adjustment notes that relate to these supplies only when requested by the recipient.C4
 [F21]
 Where the recipient does not request an adjustment note, you are not required to issue one if you did not issue or were requested to issue a tax invoice.C4
 [F22]
 Explanations (this forms part of the ruling)
 29. The Commissioner recognises that because subsection 29-10(3) requires you to have a tax invoice before you can claim your input tax credit, this requirement may cause compliance difficulties for suppliers during the transitional period.
-30. In particular, many suppliers have previously issued documents for supplies that span 1 July 2000 (including lease agreements and insurance and subscription renewal notices).  Most of these documents will not be tax invoices because the information required by the GST Act is missing.  For example, until suppliers have an ABN, they will not be able to issue a tax invoice.
-31. Because of these special circumstances, the Commissioner will not require you to hold a tax invoice for these acquisitions.  Instead, you only need a transitional document that has the basic information referred to in paragraph 12.  This determination saves suppliers from the extra cost of producing another document that has
+30. In particular, many suppliers have previously issued documents for supplies that span 1 July 2000 (including lease agreements and insurance and subscription renewal notices). Most of these documents will not be tax invoices because the information required by the GST Act is missing. For example, until suppliers have an ABN, they will not be able to issue a tax invoice.
+31. Because of these special circumstances, the Commissioner will not require you to hold a tax invoice for these acquisitions. Instead, you only need a transitional document that has the basic information referred to in paragraph 12. This determination saves suppliers from the extra cost of producing another document that has
 all
 the information required for a tax invoice (see paragraphs 8 and 9).
 Definitions
-32. The following terms are defined for the purposes of this ruling.  Terms with asterisks are defined in section 195-1 of the GST Act:
+32. The following terms are defined for the purposes of this ruling. Terms with asterisks are defined in section 195-1 of the GST Act:
 Creditable acquisition
 33. You make a creditable acquisition if:
 (a)
@@ -245,13 +243,13 @@ the importation is a *taxable importation; and
 you are *registered, or *required to be registered.C4
 [F24]
 Creditable purpose
-35. You acquire a thing for a creditable purpose to the extent that you acquire it in *carrying on your *enterprise.  However, you do not acquire the thing for a creditable purpose to the extent that:
+35. You acquire a thing for a creditable purpose to the extent that you acquire it in *carrying on your *enterprise. However, you do not acquire the thing for a creditable purpose to the extent that:
 (a)
 the acquisition relates to making supplies that would be *input taxed; or
 (b)
 the acquisition is of a private or domestic nature.C4
 [F25]
-36. You import goods for a creditable purpose to the extent that you import the goods in *carrying on your *enterprise.  However, you do not import the goods for a creditable purpose to the extent that:
+36. You import goods for a creditable purpose to the extent that you import the goods in *carrying on your *enterprise. However, you do not import the goods for a creditable purpose to the extent that:
 (a)
 the importation relates to making supplies that would be *input taxed; or
 (b)
@@ -284,7 +282,7 @@ Input tax credit
 Net amount
 39. Your net amount is the difference between your total GST payable and your total input tax credits for a tax period.C4
 [F29]
-It can be increased or decreased by adjustments arising in the same tax period.  You include your net amount for a tax period in your BAS.
+It can be increased or decreased by adjustments arising in the same tax period. You include your net amount for a tax period in your BAS.
 Partly creditable
 40. In relation to an *acquisition, partly creditable has the meaning given by 11-30 (section 70-20 also applies to a reduced credit acquisition). Under subsection 11-30(1):
 An acquisition that you make is partly creditable if it is a *creditable acquisition to which one or both of the following apply:
@@ -361,11 +359,11 @@ Citation
 1. This determination is the
 A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement Determination (No. 1) 2000.
 Commencement
-2.   This determination commences on the date the
+2. This determination commences on the date the
 A New Tax System (Goods and Services Tax) Act 1999
 commences.
 Circumstance where the requirement for a tax invoice does not apply
-3.   The following circumstance is a circumstance of a kind in which the requirement for a tax invoice under subsection 29-10(3) of the Act does not apply:
+3. The following circumstance is a circumstance of a kind in which the requirement for a tax invoice under subsection 29-10(3) of the Act does not apply:
 (a)
 a transitional document, and any other document issued by the relevant supplier that relates to the transitional document, is held by a relevant recipient; and
 (b)
@@ -373,7 +371,7 @@ the transitional document contains the following information, or, where the rele
 (i)
 the name or business name of the relevant supplier;
 (ii)
-the  address or ACN of the relevant supplier;
+the address or ACN of the relevant supplier;
 (iii)
 the date on which the document was issued by the relevant supplier;
 (iv)
@@ -385,7 +383,7 @@ the amount of GST payable;
 (v)
 if the GST payable on the taxable supply is less than 1/11th of the price - the amount of the GST payable.
 Definitions
-4.  (1)  The following expressions are defined for the purposes of this determination:
+4. (1) The following expressions are defined for the purposes of this determination:
 ACN
 (short for "Australian Company Number") is the number given by the Australian Securities and Investments Commission to a company on registration under the
 Corporations Law;
@@ -410,9 +408,9 @@ means the
 A New Tax System (Goods and Services Tax) Act 1999;
 transitional document
 means a document issued by a relevant supplier before 1 July 2000 in relation to a creditable acquisition made by a relevant recipient on or after 1 July 2000.
-(2)  Other the expressions in this determination have the same meaning as in the
+(2) Other the expressions in this determination have the same meaning as in the
 A New Tax System (Goods and Services Tax) Act 1999.
-Dated this 14th day of  June 2000.
+Dated this 14th day of June 2000.
 Peter Chochula
 Senior Tax Counsel
 Goods and Services Tax Program
@@ -453,7 +451,7 @@ C4 - This period is 366 days.
 [F15]
 C4 - This period is 184 days.
 [F16]
-C4 - GST Bulletin GSTB 1999/1 that issued on 2 September 1999 stated that the price must be shown on transitional documents.  The four month period from 1 September 1999 to 1 January 2000 has allowed suppliers to incorporate that requirement into their systems. However (as stated in paragraph 12 of this Ruling), the price that relates to the taxable part of the supply does not have to be shown if the GST amount is shown.
+C4 - GST Bulletin GSTB 1999/1 that issued on 2 September 1999 stated that the price must be shown on transitional documents. The four month period from 1 September 1999 to 1 January 2000 has allowed suppliers to incorporate that requirement into their systems. However (as stated in paragraph 12 of this Ruling), the price that relates to the taxable part of the supply does not have to be shown if the GST amount is shown.
 [F17]
 C4 - Section 78-5
 [F18]
@@ -483,7 +481,7 @@ C4 - Section 17-5
 Previously issued as GSTR 1999/D2
 References
 ATO references:
-NO  99/16917-6
+NO 99/16917-6
 ISSN 1034-9758
 Related Rulings/Determinations:
 TR 92/18
@@ -496,35 +494,35 @@ tax invoices
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A  11-5
-ANTS(GST)A  11-15(1)
-ANTS(GST)A  11-15(2)
+ANTS(GST)A 11-5
+ANTS(GST)A 11-15(1)
+ANTS(GST)A 11-15(2)
 ANTS(GST)A 11-20
 ANTS(GST)A 11-25
 ANTS(GST)A 11-30
 ANTS(GST)A 11-30(1)
-ANTS(GST)A  15-5
-ANTS(GST)A  15-10(1)
-ANTS(GST)A  15-10(2)
-ANTS(GST)A  15-15
-ANTS(GST)A  17-5(1)
-ANTS(GST)A  17-5(2)
-ANTS(GST)A  19-40
-ANTS(GST)A  19-70
+ANTS(GST)A 15-5
+ANTS(GST)A 15-10(1)
+ANTS(GST)A 15-10(2)
+ANTS(GST)A 15-15
+ANTS(GST)A 17-5(1)
+ANTS(GST)A 17-5(2)
+ANTS(GST)A 19-40
+ANTS(GST)A 19-70
 ANTS(GST)A 29-10(3)
 ANTS(GST)A 29-70(1)
 ANTS(GST)A 29-70(2)
 ANTS(GST)A 29-70(3)
 ANTS(GST)A 29-75(1)(a)
 ANTS(GST)A 29-75(1)(b)
-ANTS(GST)A  29-15
+ANTS(GST)A 29-15
 ANTS(GST)A 29-80(1)
 ANTS(GST)A 54-50(1)(a)
-ANTS(GST)A  70-20
-ANTS(GST)A  78-5
-ANTS(GST)A  87-5
-ANTS(GST)A  153-25
-ANTS(GST)A  184-1(1)
+ANTS(GST)A 70-20
+ANTS(GST)A 78-5
+ANTS(GST)A 87-5
+ANTS(GST)A 153-25
+ANTS(GST)A 184-1(1)
 ANTS(GSTT)A 1999 Pt 3 Div 2
 ANTS(GSTT)A 1999 15C
 ANTS(GSTT)A 1999 15H(3)

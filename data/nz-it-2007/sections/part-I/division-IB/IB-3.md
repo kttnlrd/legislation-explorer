@@ -2,7 +2,7 @@
 part: I
 part_title: Part I Treatment of tax losses
 division: IB
-division_title: Subpart IB—Carrying forward companies’ loss balances: continuity of business activities
+division_title: Subpart IB—Carrying forward companies' loss balances: continuity of business activities
 section: IB-3
 section_title: When tax loss components of companies carried forward despite ownership continuity breach
 compilation_no: 935
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Major change: factor that must be taken into account**
 
-**(4)**  For the purposes of subsection (2), without limiting the factors that may be taken into account in determining whether a major change in the nature of the business activities carried on by the company has occurred during the business continuity period, the extent to which the assets used in deriving the company’s assessable income have remained the same or similar over the business continuity period must be taken into account.
+**(4)**  For the purposes of subsection (2), without limiting the factors that may be taken into account in determining whether a major change in the nature of the business activities carried on by the company has occurred during the business continuity period, the extent to which the assets used in deriving the company's assessable income have remained the same or similar over the business continuity period must be taken into account.
 
 **Permitted major changes**
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Avoidance arrangements**
 
-**(6)**  Section GB 3BA (Arrangements for carrying forward loss balances: companies’ business activities) may apply to treat a company as not meeting the requirements of subsection (2).
+**(6)**  Section GB 3BA (Arrangements for carrying forward loss balances: companies' business activities) may apply to treat a company as not meeting the requirements of subsection (2).
 
 **A definition**
 

@@ -24,9 +24,9 @@ compilation_date: 2026-06-06
 
 - (c) sections FN 6(3) (Nominated companies):
 
-- (d) section HA 8 (Shareholders’ personal liability):
+- (d) section HA 8 (Shareholders' personal liability):
 
-- (e) section HC 29(3) (Settlors’ liability to income tax):
+- (e) section HC 29(3) (Settlors' liability to income tax):
 
 - (f) section HC 32 (Liability of trustee as agent):
 

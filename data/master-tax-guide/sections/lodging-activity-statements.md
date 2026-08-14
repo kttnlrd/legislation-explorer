@@ -7,13 +7,13 @@ paragraph: "¶24-240"
 ---
 # Lodging activity statements ¶24-240
 
-A penalty applies for failure to lodge an activity statement in the approved form (¶29-100). A document is in the “approved form” if it meets the requirements set out in TAA sch 1 s 388-50. An activity statement that is incomplete will be in the approved form if it contains the information required by the Commissioner (s 388-50(1A)).
+A penalty applies for failure to lodge an activity statement in the approved form (¶29-100). A document is in the "approved form" if it meets the requirements set out in TAA sch 1 s 388-50. An activity statement that is incomplete will be in the approved form if it contains the information required by the Commissioner (s 388-50(1A)).
 
 If the due date for lodgment falls on a Saturday or a Sunday, or on a public holiday for the whole of any state or territory, the activity statement may be lodged on the next business day without incurring a penalty (TAA sch 1 s 388-52).
 
 Both the BAS and IAS can be lodged via an automated phone service if taxpayers have zero amounts to report against all aspects of their monthly or quarterly activity statement.
 
-Obligations reported on an activity statement originally had to be notiﬁed and paid to the ATO by the 21st day of the month after the end of the reporting period. However, extended due dates for meeting quarterly obligations apply to a taxpayer classiﬁed as a “deferred BAS payer” (ITAA97 s 995-1(1)). Taxpayers are not eligible for the extended due dates if they have monthly GST obligations or if their reporting obligation relates only to:
+Obligations reported on an activity statement originally had to be notiﬁed and paid to the ATO by the 21st day of the month after the end of the reporting period. However, extended due dates for meeting quarterly obligations apply to a taxpayer classiﬁed as a "deferred BAS payer" (ITAA97 s 995-1(1)). Taxpayers are not eligible for the extended due dates if they have monthly GST obligations or if their reporting obligation relates only to:
 
 - PAYG amounts withheld by a medium withholder or a large withholder (¶26-500), or
 
@@ -34,7 +34,7 @@ Liability                                                               BAS/IAS 
 
 4                                                                                                          Monthly
 
-5                                                                                                                  Quarterly (1) If an entity’s annual turnover is $20m or more, it must normally lodge electronically. Quarterly GST reporters whose annual turnovers do not exceed $2m may instead elect to lodge on an annual basis (¶34-120). (2) Large withholders (amounts withheld of more than $1m a year) must lodge electronically approximately one week after the amount is withheld (¶26-550). (3) Taxpayers can choose to make annual payments if they meet certain criteria (¶27-170). (4) Corporate entities with a base assessment instalment income above the relevant threshold are required to lodge monthly, subject to transitional arrangements (¶27-170). (5) Employers whose FBT liability in the previous year was less than $3,000 are only required to pay on an annual basis (¶35-050).
+5                                                                                                                  Quarterly (1) If an entity's annual turnover is $20m or more, it must normally lodge electronically. Quarterly GST reporters whose annual turnovers do not exceed $2m may instead elect to lodge on an annual basis (¶34-120). (2) Large withholders (amounts withheld of more than $1m a year) must lodge electronically approximately one week after the amount is withheld (¶26-550). (3) Taxpayers can choose to make annual payments if they meet certain criteria (¶27-170). (4) Corporate entities with a base assessment instalment income above the relevant threshold are required to lodge monthly, subject to transitional arrangements (¶27-170). (5) Employers whose FBT liability in the previous year was less than $3,000 are only required to pay on an annual basis (¶35-050).
 
 ## Taxpayers generally
 

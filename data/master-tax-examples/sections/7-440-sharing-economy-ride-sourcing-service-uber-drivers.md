@@ -17,7 +17,7 @@ Solution Taxable income and deductions Elon must declare all the income he recei
 
 Any associated expenses directly associated with gaining this income will be allowable deductions for tax purposes (ITAA97 s 8-1).
 
-Elon can also claim deductions for expenses related to his Uber income. Given that Elon’s car is also used for private purposes, he can only claim expenses based on the proportion that the car is used for Uber purposes.
+Elon can also claim deductions for expenses related to his Uber income. Given that Elon's car is also used for private purposes, he can only claim expenses based on the proportion that the car is used for Uber purposes.
 
 The deductions available to Elon that relate to his Uber driving may include:
 
@@ -39,7 +39,7 @@ The deductions available to Elon that relate to his Uber driving may include:
 
   Deductions that are considered private and not deductible include:
 
-- driver’s licence (Taxation Determination TD 93/108)
+- driver's licence (Taxation Determination TD 93/108)
 
 - any fines such as parking or speeding (ITAA97 s 26-5)
 
@@ -47,15 +47,15 @@ The deductions available to Elon that relate to his Uber driving may include:
 
 - personal meals.
 
-The largest of Elon’s expenses that can be claimed as deductions will relate to the car usage costs. The ATO permits 2 methods to calculate car expenses based on the substantiation required to support these claims, that is, the cents per kilometre method and the log book method.
+The largest of Elon's expenses that can be claimed as deductions will relate to the car usage costs. The ATO permits 2 methods to calculate car expenses based on the substantiation required to support these claims, that is, the cents per kilometre method and the log book method.
 
 Under the cents per kilometre method, Elon can claim a deduction for travel at the rate of 88c per kilometre for distances up to 5,000 km. This method incorporates all car expenses including petrol, servicing and depreciation.
 
 Under the log book method, Elon must maintain a log book for a minimum period of 12 weeks to determine the business use percentage for the car expenses. This log book must be updated every 5 years. Elon can then claim all expenses that relate to the operation of the car at his percentage of business use (which is based on an estimate of business kilometres travelled using the log book and other factors — see ITAA97 s 28-90(5)).
 
-GST obligations As an Uber driver Elon will have GST obligations. Although enterprises with a turnover of less than $75,000 are not normally required to register for GST, taxi and limousine operators are required to be registered regardless of turnover (GST Act s 144-5). A person who is carrying on an enterprise is required to be registered for GST purposes if, in carrying on the enterprise, that person supplies taxi travel (s 144-5(1)). “Taxi travel” is defined as meaning “travel that involves transporting passengers, by taxi or limousine, for fares” (GST Act s 195-1).
+GST obligations As an Uber driver Elon will have GST obligations. Although enterprises with a turnover of less than $75,000 are not normally required to register for GST, taxi and limousine operators are required to be registered regardless of turnover (GST Act s 144-5). A person who is carrying on an enterprise is required to be registered for GST purposes if, in carrying on the enterprise, that person supplies taxi travel (s 144-5(1)). "Taxi travel" is defined as meaning "travel that involves transporting passengers, by taxi or limousine, for fares" (GST Act s 195-1).
 
-In Uber BV v FC of T 2017 ATC ¶20-608, the courts confirmed, that, by providing UberX services to passengers (UberX Riders), UberX drivers (UberX Partners) are making a supply of “taxi travel”. Accordingly, Elon must be registered for GST. Elon must charge GST on all fares and also can claim the GST back on any related expenses that he has incurred.
+In Uber BV v FC of T 2017 ATC ¶20-608, the courts confirmed, that, by providing UberX services to passengers (UberX Riders), UberX drivers (UberX Partners) are making a supply of "taxi travel". Accordingly, Elon must be registered for GST. Elon must charge GST on all fares and also can claim the GST back on any related expenses that he has incurred.
 
 Elon must apply for an ABN and register for GST. There are no application fees for this process. These registrations must be in place within 28 days from the end of the first quarter that Elon starts receiving income from his Uber activities. Elon must also lodge a Business Activity Statement (BAS) as supplied by the ATO. If Elon started receiving Uber income on 23 July 2024, for example, he would likely be required to lodge his first BAS by 28 October 2024. This BAS includes the net GST up until 30 September 2024.
 

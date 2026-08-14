@@ -61,7 +61,7 @@ A taxpayer liable to pay a PAYG instalment for a period (even if that amount is 
 
 - an annual instalment, unless it is worked out using the instalment rate given to the taxpayer by the
 
-  Commissioner, multiplied by the taxpayer’s instalment income for the year.
+  Commissioner, multiplied by the taxpayer's instalment income for the year.
 
 A taxpayer that fails to notify the Commissioner of the instalment income by the due date is liable to an administrative penalty (TAA s 286-75) (¶29-300). Monthly payers are required to notify the Commissioner electronically.
 

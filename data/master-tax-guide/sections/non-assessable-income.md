@@ -7,17 +7,17 @@ paragraph: "¶10-890"
 ---
 # Non-assessable income ¶10-890
 
-- assessable income (which is taken into account in working out a taxpayer’s taxable income)
+- assessable income (which is taken into account in working out a taxpayer's taxable income)
 
 - exempt income (which is excluded from taxable income but is taken into account in working out a
 
-  taxpayer’s loss for an income year or how much of a prior year tax loss is deductible in an income
+  taxpayer's loss for an income year or how much of a prior year tax loss is deductible in an income
 
   year: ¶16-880)
 
 - non-assessable non-exempt (NANE) income (which is both excluded from taxable income and
 
-  ignored when working out a taxpayer’s available losses: ¶10-895).
+  ignored when working out a taxpayer's available losses: ¶10-895).
 
 General rules for income categories To ensure that there is no overlap or confusion between the above income categories, the following general rules apply (ITAA97 s 6-1 and following).
 
@@ -121,7 +121,7 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
 - ITAA36 s 128B(3)(jb): dividend and interest income of a foreign superannuation fund, if that
 
-  income is exempt in the fund’s country of residence
+  income is exempt in the fund's country of residence
 
 - ITAA36 s 128D: dividend, interest and royalty income payable to foreign residents that is subject
 
@@ -205,7 +205,7 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
 *Refs: ITAA97 s 240-40, ITAA97 s 242-40, ITAA97 s 250-160*
 
-- ITAA97 s 26-35(4): amounts received from related entities, to the extent that the entity’s deduction
+- ITAA97 s 26-35(4): amounts received from related entities, to the extent that the entity's deduction
 
   is reduced (¶16-530)
 

@@ -27,7 +27,7 @@ If these circumstances change — say, your GST turnover falls below $20m — yo
 
 Unlike the position with optional monthly tax periods — see below — the ATO does not have a discretion to reduce this 12-month period.
 
-If you are a resident agent for a non-resident, monthly tax periods will apply if the non-resident’s GST turnover is $20m or more (s 57-35).
+If you are a resident agent for a non-resident, monthly tax periods will apply if the non-resident's GST turnover is $20m or more (s 57-35).
 
 Optional monthly tax periods Even if monthly tax periods are not compulsory, you may elect to use them (s 27-10). This election can take effect from 1 January, 1 April, 1 July or 1 October.
 
@@ -45,7 +45,7 @@ Having monthly returns will increase your paperwork because you will have to lod
 
 However, in some cases there can be cashflow benefits. Some of the cashflow implications of monthly and quarterly returns are discussed at ¶21-050 and following.
 
-Liquidators, receivers and trustees Liquidators, receivers, interim managers, controllers and trustees in bankruptcy have the same tax period as the entity they represent (s 58-35). The entity’s tax period at the time that it becomes incapacitated is taken to have ended on the day prior to that time. The next tax period starts on the day after the tax period ends, and ends when the first tax period would have ended (s 27-39). For the effect on entities that are group members, see ¶17-030.
+Liquidators, receivers and trustees Liquidators, receivers, interim managers, controllers and trustees in bankruptcy have the same tax period as the entity they represent (s 58-35). The entity's tax period at the time that it becomes incapacitated is taken to have ended on the day prior to that time. The next tax period starts on the day after the tax period ends, and ends when the first tax period would have ended (s 27-39). For the effect on entities that are group members, see ¶17-030.
 
 *Refs: s 27-15), s 27-25), s 57-35), s 27-10), s 27-20), s
 27-22), s 58-35), s 27-39)*

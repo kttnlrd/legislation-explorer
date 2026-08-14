@@ -3,22 +3,17 @@ ATO ID 2013/26
 ==================================================
 
 Goods and Services Tax
-        GST and supply of a call option over GST-free eligible emissions units
-
+ GST and supply of a call option over GST-free eligible emissions units
 
 This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is an entity making an input taxed financial supply under section 40-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it grants a call option that entitles the grantee to acquire eligible emissions units, the supply of which would be a GST-free supply?
@@ -36,8 +31,6 @@ The supply of the call option is made for consideration, in the course or furthe
 The supply of eligible emissions units is GST-free under section 38-590 of the GST Act.
 Subsection 9-30(1) of the GST Act states that a supply is GST-free if:
 
-
-
 (a)it is GST-free under Division 38 of the GST Act or under a provision of another Act, or
 (b)it is a supply of a right to receive a supply that would be GST-free under paragraph (a).
 
@@ -45,7 +38,6 @@ The granting of the call option is the supply of a right to receive a supply of 
 The entity's supply of the call option is both an input taxed financial supply under subsection 40-5(1) of the GST Act, and a GST-free supply under subsection 9-30(1) of the GST Act.
 Subsection 9-30(3) of the GST Act provides that where a supply is both GST-free and input taxed, the supply will be GST-free and not input taxed, unless the provision under which it is input taxed requires the supplier to have chosen for its supplies of that kind to be input taxed. Subsection 40-5(1) of the GST Act does not require the entity to choose for the supply to be input taxed.
 Consequently, the entity's supply of the call option will be GST-free.
-
 
 Note: The supply of other types of derivatives that amount to the supply of a right to receive a GST-free supply under paragraph 9-30(1)(a) of the GST Act will also be GST-free under paragraph 9-30(1)(b).
 
@@ -60,7 +52,7 @@ Facts and Legislative References
 Deleted references to the Clean Energy Act 2011, which was repealed with a date of effect of 1 July 2014.
 
 Date of decision:
-         1 May 2013
+  1 May 2013
 
 Legislative References:
 
@@ -74,35 +66,31 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST options & warrants
-          GST derivatives
-          GST financial supplies
-          GST free
-          Input taxed supplies
-
+ GST options & warrants
+ GST derivatives
+ GST financial supplies
+ GST free
+ Input taxed supplies
 
 Siebel/TDMS Reference Number:
-         1-44BRUON;1-5MWKJQG
+  1-44BRUON;1-5MWKJQG
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         10 May 2013
+  10 May 2013
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  1 May 2013

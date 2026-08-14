@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) the imputation credit that the company has for the current year under section OB 4:
 
-- (b) the total amount of the company’s R&D loss tax credits, for the period that begins with the earliest tax year to which the tax credits relate and ends with the current year, minus the total amount of imputation debits under this section for tax years that are in that period and end before the current year.
+- (b) the total amount of the company's R&D loss tax credits, for the period that begins with the earliest tax year to which the tax credits relate and ends with the current year, minus the total amount of imputation debits under this section for tax years that are in that period and end before the current year.
 
 **Table reference**
 

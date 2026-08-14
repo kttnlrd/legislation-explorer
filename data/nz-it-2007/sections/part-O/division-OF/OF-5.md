@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(1)**  An ASC account company may choose that some or all of the credit balance in the company’s ASC account is transferred to the company’s imputation credit account.
+**(1)**  An ASC account company may choose that some or all of the credit balance in the company's ASC account is transferred to the company's imputation credit account.
 
 **Debit and credit**
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(5)**  In the formula,—
 
-- (a) credit balance is some or all of the credit balance in the company’s ASC account that the ASC account company chooses to use:
+- (a) credit balance is some or all of the credit balance in the company's ASC account that the ASC account company chooses to use:
 
 - (b) maximum imputation ratio is the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
 
@@ -46,9 +46,9 @@ compilation_date: 2026-06-06
 
 **(7)**  A company makes an election under subsection (1) by recording the credit balance transferred as—
 
-- (a) a debit in the company’s ASC account; and
+- (a) a debit in the company's ASC account; and
 
-- (b) a credit in the company’s imputation credit account.
+- (b) a credit in the company's imputation credit account.
 
 **Debit date**
 

@@ -3,21 +3,16 @@ ATO ID 2011/25
 ==================================================
 
 Income Tax
-        Capital allowances: immediately deductible expenditure - contractor providing geophysical surveying services to entities in the mining and mineral exploration industries
-        FOI status: may be released
-
+ Capital allowances: immediately deductible expenditure - contractor providing geophysical surveying services to entities in the mining and mineral exploration industries
+ FOI status: may be released
 
 Status of this decision:This interpretative decision is currently being reviewed as a result of a recent court/tribunal decision. Refer to Decision Impact Statement : Mitsui Co (Australia) Ltd v Commissioner of Taxation (Published 21 October 2014).However, the decision continues to represent the Tax Office view on this issue unless or until it is withdrawn.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a taxpayer contracted to provide geophysical surveying services to entities in the mining and mineral exploration industries carrying on a business of, or a business that included, exploration or prospecting for minerals for the purposes of subparagraph 40-80(1)(c)(iii) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -34,8 +29,6 @@ Reasons for Decision
 Subsection 40-80(1) provides that the decline in value of a depreciating asset you hold is the asset's cost if the conditions in paragraphs (a), (b) and (c) of that subsection are met.
 Paragraph 40-80(1)(c) requires that you satisfy one or more of the following subparagraphs at the asset's start time, namely:
 
-
-
 (i)you carry on mining operations;
 (ii)it would be reasonable to conclude you proposed to carry on such operations;
 (iii)you carry on a business of, or a business that included, exploration or prospecting for minerals or quarry materials obtainable by such operations, and expenditure on the asset was necessarily incurred in carrying on that business.
@@ -44,8 +37,6 @@ For the purpose of considering whether the taxpayer has satisfied subparagraph 4
 Subsection 995-1(1) provides that a 'business' includes any profession, trade, employment, vocation or calling, but does not include occupation as an employee. The Commissioner does not dispute that the taxpayer is carrying on a business within the meaning of that term in subsection 995-1(1). The taxpayer's business activities consist of contracting with mining and mineral exploration entities to conduct geophysical surveying services for remuneration.
 Subsection 995-1(1) also provides that 'exploration or prospecting' has the meaning given by section 40-730. Subsection 40-730(4) provides an inclusive definition of the activities that constitute 'exploration or prospecting'. For mining in general, geophysical surveys are specifically included in exploration or prospecting by subparagraph 40-730(4)(a)(i). Therefore, geophysical surveys such as those conducted by the taxpayer will fall within the definition of 'exploration or prospecting' for the purposes of Division 40.
 Apart from the terms 'business' and 'exploration or prospecting', none of the other expressions contained in subparagraph 40-80(1)(c)(iii) are defined for the purposes of the ITAA 1997. For instance, the meaning of the expressions:
-
-
 
 •'such operations'; and
 •'carry on a business of, or a business that included, exploration or prospecting for minerals or quarry materials obtainable by such operations';
@@ -56,8 +47,8 @@ In discussing the wording contained in subparagraph 40-80(1)(c), clause 7.14 of 
 Subsection 995-1(1) provides that 'mining operations' has the meaning given by section 40-730. Paragraph 40-730(7)(a) relevantly provides that mining operations means - 'mining operations on a mining property for extracting minerals (except petroleum) from their natural site ... for the purpose of producing assessable income'.
 In this case, the taxpayer does not conduct mining operations and therefore does not satisfy subparagraph 40-80(1)(c)(i), nor does the taxpayer propose to carry on mining operations for the purposes of subparagraph 40-80(1)(c)(ii).
 Subparagraph 40-80(1)(c)(iii) will therefore be satisfied if the taxpayer is carrying on a business of, or a business that included, exploration or prospecting for minerals or quarry materials obtainable by
-          mining operations
-          , and expenditure on the asset was necessarily incurred in carrying on that business. (emphasis added)
+ mining operations
+ , and expenditure on the asset was necessarily incurred in carrying on that business. (emphasis added)
 In discussing the wording contained in paragraph 40-80(1)(c), clause 7.14 of the EM provides no assistance in establishing the meaning of the expression 'carry on a business of, or a business that included, exploration or prospecting for minerals or quarry materials obtainable by [mining] operations' for the purposes of subparagraph 40-80(1)(c)(iii). All clause 7.14 of the EM does is paraphrase the expression, which does not assist in understanding its meaning.
 Nor does the expression gain meaning by a consideration of the definitions of the terms 'business'; 'exploration or prospecting'; or 'mining operations'.
 As noted above, the definition of 'exploration or prospecting' in subsection 40-730(4) is an inclusive definition which identifies a list of activities that are included in the definition of 'exploration or prospecting'. One such activity is geophysical surveys.
@@ -75,7 +66,6 @@ The purposive approach is founded on the notion that the intent of the Legislatu
 Further, as McHugh, Gummow, Kirby and Hayne JJ noted in Project Blue Sky Inc v. Australian Broadcasting Authority (1998) 194 CLR 355 at 381; [1998] HCA 28 at [69] (footnotes omitted):
 
 The primary object of statutory construction is to construe the relevant provision so that it is consistent with the language and purpose of all the provisions of the statute. The meaning of the provision must be determined 'by reference to the language of the instrument viewed as a whole'. In Commissioner for Railways (NSW) v. Agalianos, Dixon CJ pointed out that 'the context, the general purpose and policy of a provision and its consistency and fairness are surer guides to its meaning than the logic with which it is constructed'. Thus, the process of construction must always begin by examining the context of the provision that is being construed.
-
 
 Support from sections 15AA and 15AB of the Acts Interpretation Act 1901
 
@@ -107,10 +97,10 @@ This construction would make the interpretation of the meaning of subparagraph 4
 In this case, the taxpayer as a contractor is rewarded regardless of the results of their exploration or prospecting activities. This form of reward for services is not consistent with the nature of the engagement with risk and the uncertainty of reward that is evident when considering all of the subparagraphs of paragraph 40-80(1)(c) as a whole, nor with the underlying policy intent of subsection 40-80(1), which as noted above is to acknowledge the high-risk nature of exploration or prospecting and economic benefits that result from it.
 Accordingly, a taxpayer contracted to provide geophysical surveying services to entities in the mining and mineral exploration industries is not considered to be carrying on a business of, or a business that included, exploration or prospecting for minerals for the purposes of subparagraph 40-80(1)(c)(iii).
 Date of decision:
-         11 March 2011
+  11 March 2011
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -118,7 +108,6 @@ Income Tax Assessment Act 1997   Division 40   subsection 40-30(2)   su
 Acts Interpretation Act 1901   section 15AA   section 15AB
 
 Case References:
-
 
 Cooper Brookes (Wollongong) Pty Ltd v Federal Commissioner of Taxation   (1981) 147 CLR 297   81 ATC 4292   (1981) 11 ATR 949
 
@@ -129,25 +118,23 @@ Project Blue Sky Inc v Australian Broadcasting Authority   (1998) 194 CLR 355
 Other References:
 
  Revised Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001
-          Review of Business Taxation: A Tax System Redesigned, Report July 1999
-          Policy Transition Group Report to the Australian Government: Mining and Petroleum Exploration
-
+ Review of Business Taxation: A Tax System Redesigned, Report July 1999
+ Policy Transition Group Report to the Australian Government: Mining and Petroleum Exploration
 
 Keywords
 
 Contractors
-          Exploration or prospecting
-          Surveyors
-
+ Exploration or prospecting
+ Surveyors
 
 Siebel/TDMS Reference Number:
-         1-2AWKYCC
+  1-2AWKYCC
 
 Business Line:
-         Administration, Business and Personal Taxes Centre of Expertise
+  Administration, Business and Personal Taxes Centre of Expertise
 
 Date of publication:
-         25 March 2011
+  25 March 2011
 
 ISSN:
-          1445-2782
+ 1445-2782

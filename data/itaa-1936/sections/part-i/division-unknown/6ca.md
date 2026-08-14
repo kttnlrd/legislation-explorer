@@ -36,7 +36,7 @@ source_pdf: "vol01.pdf"
 > > **(ii)** the income was derived by the non-resident pursuant to that continuing entitlement;
 
 > > <a id="s6CA-1-d-iii"></a>
-> > **(iii)** the non-resident was, at 5 o’clock in the afternoon, by standard time in the Australian Capital Territory on 7 April 1986, a resident, within the meaning of a double tax agreement, of a foreign country in respect of which the double tax agreement was in force;
+> > **(iii)** the non-resident was, at 5 o'clock in the afternoon, by standard time in the Australian Capital Territory on 7 April 1986, a resident, within the meaning of a double tax agreement, of a foreign country in respect of which the double tax agreement was in force;
 
 > > <a id="s6CA-1-d-iv"></a>
 > > **(iv)** before 8 April 1986, the Commissioner had given a statement in writing to the effect that income tax would be levied on 50% of income included in a specified class of income; and

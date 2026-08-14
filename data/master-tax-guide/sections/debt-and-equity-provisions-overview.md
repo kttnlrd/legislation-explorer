@@ -13,6 +13,6 @@ ITAA97 Div 974 provides a test for determining whether an interest is to be trea
 
 TD 2019/10 states that the debt and equity rules cannot limit the operation of the transfer pricing rules.
 
-Where the transfer pricing rules apply, a ﬁnancing arrangement is classiﬁed as debt or as equity on the basis of the arm’s length conditions that are taken to operate, rather than the actual conditions of the arrangement (¶22-580).
+Where the transfer pricing rules apply, a ﬁnancing arrangement is classiﬁed as debt or as equity on the basis of the arm's length conditions that are taken to operate, rather than the actual conditions of the arrangement (¶22-580).
 
 *Refs: ITAA97 s 974-110*

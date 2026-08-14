@@ -3,18 +3,14 @@ ATO ID 2004/871
 ==================================================
 
 Income Tax
-        Research and Development: clawback (section 73C) for grants and recouped expenditure and the Pharmaceutical Industry Investment Program
-        FOI status: may be released
-
-
+ Research and Development: clawback (section 73C) for grants and recouped expenditure and the Pharmaceutical Industry Investment Program
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Must a company apply the 'clawback' provisions of section 73C of the Income Tax Assessment Act 1936 (ITAA 1936) to all or part of the payments received under the Pharmaceutical Industry Investment Program (PIIP)?
@@ -24,13 +20,10 @@ Facts
 The taxpayer is an 'eligible company', as defined in subsection 73B(1) of the ITAA 1936, and was selected to participate in the PIIP.
 The PIIP was introduced by the Commonwealth to encourage a sustainable pharmaceutical industry in Australia, increase research and development and production value added activity in relation to the Australian pharmaceutical industry and compensate, in part, the pharmaceutical industry for the impact on the activities of the industry by the Commonwealth exercising its monopsony purchasing power under the Pharmaceutical Benefits Scheme (PBS). The Commonwealth did so by paying higher prices on nominated products supplied by the participating companies in return for those companies agreeing to:
 
-
-
 •undertake 'eligible production value added (PVA) and/or eligible R&D activity', and
 •meet 'broad activity commitments' (including those activities which contribute to eligible PVA and/or eligible R&D activity and targets).
 
 A company's 'annual entitlement' in relation to the PIIP, is the maximum amount that the Commonwealth will pay the company in a financial year. In the relevant income year, the R&D component of the taxpayer's 'annual entitlement' was calculated as follows:
-
 
 20% * (Eligible R&D Activity Target - Base for R&D)
 
@@ -61,10 +54,10 @@ In the context of the present issue, the incurrence of the relevant expenditure 
 The Commonwealth was aware that the taxpayer intended to incur expenditure on 'eligible R&D activity' relating to identified projects (which formed R&D activity targets), as specified in the taxpayer's application for entry into the PIIP and agreed to make payments to the taxpayer which were dependent on the level of its intended and actual expenditure. Further, the actual payment had an identifiable, separate component, calculated by reference to the actual expenditure on 'eligible R&D activity'. To the extent that this 'eligible R&D activity' expenditure was also relevant expenditure, a material link between the PIIP payments for R&D and the relevant expenditure existed in the income year in question. That portion of the PIIP payments relating to this relevant expenditure was 'in respect of' that relevant expenditure for the purposes of subsection 73C(2) of the ITAA 1936.
 Therefore, subsection 73C(2) of the ITAA 1936 is satisfied, and the clawback provisions of section 73C of the ITAA 1936, apply to the R&D PIIP payments received by the taxpayer.
 Date of decision:
-         30 September 2004
+  30 September 2004
 
 Year of income:
-           Year ended 30 June 2000
+  Year ended 30 June 2000
 
 Legislative References:
 
@@ -72,13 +65,11 @@ Income Tax Assessment Act 1936   section 73C   subsection 73C(2)   para
 
 Case References:
 
-
 Dampier Mining Co Ltd v. FC of T   78 ATC 4237   8 ATR 835
 
 FC of T v. Scully   2000 ATC 4111   43 ATR 718
 
 J & G Knowles & Associates Pty Ltd v. Federal Commissioner of Taxation   (2000) 96 FCR 402   2000 ATC 4151   (2000) 44 ATR 22
-
 
 Related ATO Interpretative Decisions
 
@@ -88,24 +79,22 @@ Other References:
 
 Osborne's Concise Law Dictionary (8th edition)
 
-
 Keywords
 
 Australian Taxation Office
-          Innovation segment
-          LB&I segments
-          Research & development expenditure recoupment
-          Research & development expenses
-
+ Innovation segment
+ LB&I segments
+ Research & development expenditure recoupment
+ Research & development expenses
 
 Siebel/TDMS Reference Number:
-         3907655
+  3907655
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         5 November 2004
+  5 November 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

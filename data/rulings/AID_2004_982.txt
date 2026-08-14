@@ -3,18 +3,14 @@ ATO ID 2004/982
 ==================================================
 
 Income Tax
-        Capital allowances: depreciating asset - copyright in computer program
-        FOI status: may be released
-
-
+ Capital allowances: depreciating asset - copyright in computer program
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of working out a balancing adjustment amount under section 40-285 of the Income Tax Assessment Act 1997 (ITAA 1997), if a taxpayer develops a computer program by integrating purchased software and an algorithm that they have created and then sells the computer program, including all intellectual property rights subsisting in that program, is the depreciating asset for which the balancing adjustment event occurred the copyright in the last version of the program before it was sold?
@@ -32,8 +28,6 @@ If an item is made up of different components, it is necessary to determine whet
 The 'function' test can be used to identify any relevant depreciating asset. The relevant function can include actual, intended and possible uses of the items.
 Taxation Ruling TR 94/11 provides some guidelines to assist in making the determination. Some of the factors to be considered in applying the 'function' test include whether the item:
 
-
-
 •is separately identifiable
 •is capable of performing its own separate function
 •varies the performance of another item.
@@ -45,10 +39,10 @@ If a depreciating asset has been sold, a balancing adjustment event has occurred
 The relevant function in this situation was the use to which the computer program was designed to be put. As the computer program was solely created so as to be exploited to derive licence fees, a depreciating asset, copyright, was sold.
 For the purposes of working out the balancing adjustment amount under section 40-285 of the ITAA 1997, the depreciating asset for which the balancing adjustment event occurred is the copyright in the latest version of the computer program before it was sold.
 Date of decision:
-         19 August 2004
+  19 August 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -61,18 +55,17 @@ Taxation Ruling TR 94/11
 Keywords
 
 Depreciating assets
-          Uniform capital allowances system
-          Capital allowances CoE
-
+ Uniform capital allowances system
+ Capital allowances CoE
 
 Siebel/TDMS Reference Number:
-         4082695
+  4082695
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         24 December 2004
+  24 December 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

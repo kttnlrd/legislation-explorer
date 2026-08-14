@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(3)**  If consideration for the property is derived in an income year, the person’s deductions in earlier income years for the expenditure described in subsection (1)﻿(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula— previous expenditure − consideration.
+**(3)**  If consideration for the property is derived in an income year, the person's deductions in earlier income years for the expenditure described in subsection (1)﻿(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula— previous expenditure − consideration.
 
 **Definition of items in formulas**
 

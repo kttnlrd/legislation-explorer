@@ -7,7 +7,7 @@ paragraph: "¶9-030"
 ---
 # Cash versus accruals basis ¶9-030
 
-Taxable income must be calculated not only on the basis of a ﬁxed accounting period, but also in accordance with the method of accounting that correctly reﬂects the true income (CT v Executor & Trustee Agency Co of South Australia (1938) 5 ATD 98; (1938) 63 CLR 108 (Carden’s case)). There are currently 2 methods of determining income for tax purposes: Cash or receipts basis.
+Taxable income must be calculated not only on the basis of a ﬁxed accounting period, but also in accordance with the method of accounting that correctly reﬂects the true income (CT v Executor & Trustee Agency Co of South Australia (1938) 5 ATD 98; (1938) 63 CLR 108 (Carden's case)). There are currently 2 methods of determining income for tax purposes: Cash or receipts basis.
 
 This method is used by most individuals. Income is returned in the year when it is actually or constructively received, either in the form of cash or its equivalent, or other property.
 
@@ -27,9 +27,9 @@ The cash basis may also be appropriate for business income derived from providin
 
 However, the presence of the following factors, to a signiﬁcant extent, may result in the accruals basis being more appropriate:
 
-- the taxpayer’s activities involve the sale of trading stock
+- the taxpayer's activities involve the sale of trading stock
 
-- the taxpayer’s outgoings in the day-to-day conduct of the business relate directly to income
+- the taxpayer's outgoings in the day-to-day conduct of the business relate directly to income
 
   derived
 

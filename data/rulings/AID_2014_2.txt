@@ -3,22 +3,17 @@ ATO ID 2014/2
 ==================================================
 
 Income Tax/Superannuation
-        Income tax treatment of an income stream, arising from a family law payment split, paid to a deceased estate from an exempt public sector superannuation scheme.
-
+ Income tax treatment of an income stream, arising from a family law payment split, paid to a deceased estate from an exempt public sector superannuation scheme.
 
 This ATO ID is withdrawn because it no longer accords with the current ATO View and it has limited application as the situation in which it applies is uncommon.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is each payment of an income stream to a deceased estate, from an exempt public sector superannuation scheme, treated as a superannuation lump sum death benefit for the purposes of Subdivision 302-C of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -38,15 +33,15 @@ By virtue of subsections 307-5(5) and (6) of the ITAA 1997, the deceased was tre
 
 Not a superannuation income stream
 
-Since 1 July 2007 a superannuation death benefit in the form of a 'superannuation income stream', from a regulated superannuation fund, cannot be paid to a non-dependant of the deceased:  sub-regulations 6.21(2A) and 6.21(2B) of the SISR. The deceased's adult children, who are the beneficiaries of the deceased estate, were non-dependants of the deceased.
+Since 1 July 2007 a superannuation death benefit in the form of a 'superannuation income stream', from a regulated superannuation fund, cannot be paid to a non-dependant of the deceased: sub-regulations 6.21(2A) and 6.21(2B) of the SISR. The deceased's adult children, who are the beneficiaries of the deceased estate, were non-dependants of the deceased.
 However the scheme is not a regulated superannuation fund. Therefore the prohibition in the SISR on the payment of a superannuation death benefit in the form of a superannuation income stream to a non-dependant of the deceased does not apply.
 The scheme is listed as an 'exempt public sector superannuation scheme' under Schedule 1AA to the SISR. Such schemes are subject to supervision under the relevant Commonwealth, state or territory enabling acts and not the SISA or the SISR.
 In this case the scheme's operating rules allow for the payment of an income stream to a non-dependant of the deceased. Therefore the payments will continue to be made to the deceased estate until such time as the deceased's former spouse dies.
-Despite the payments being treated as an income stream under the rules of the fund, the definition of a 'superannuation income stream' in the ITAA 1997 requires that the payments be made in compliance with the SISA and SISR:  subsection 307-70(2) of the ITAA 1997 and regulation 995-1.01 of the Income Tax Assessment Regulations 1997. The payments are not made in compliance with the SISA and SISR because that legislation does not govern an exempt public sector superannuation scheme. Therefore they are not a 'superannuation income stream' under the ITAA 1997.
+Despite the payments being treated as an income stream under the rules of the fund, the definition of a 'superannuation income stream' in the ITAA 1997 requires that the payments be made in compliance with the SISA and SISR: subsection 307-70(2) of the ITAA 1997 and regulation 995-1.01 of the Income Tax Assessment Regulations 1997. The payments are not made in compliance with the SISA and SISR because that legislation does not govern an exempt public sector superannuation scheme. Therefore they are not a 'superannuation income stream' under the ITAA 1997.
 
 Tax treatment of superannuation death benefits
 
-An exempt public superannuation scheme is nevertheless a complying superannuation plan for income tax purposes:  see the definition of 'complying superannuation plan' in subsection 995-1(1) of the ITAA 1997. It follows that Division 302 of the ITAA 1997 applies to each payment from the fund:  see paragraph 302-5(a)
+An exempt public superannuation scheme is nevertheless a complying superannuation plan for income tax purposes: see the definition of 'complying superannuation plan' in subsection 995-1(1) of the ITAA 1997. It follows that Division 302 of the ITAA 1997 applies to each payment from the fund: see paragraph 302-5(a)
 Division 302 of the ITAA 1997 sets out the tax treatment of superannuation death benefits. The tax treatment depends on whether the person receiving the benefit is a dependant of the deceased and whether the amount is paid as a lump sum benefit or an income stream death benefit.
 The beneficiaries of the estate are not death benefit dependents of the deceased per section 302-195 of the ITAA 1997.
 Section 307-65 of the ITAA 1997 states that a 'superannuation lump sum' is a 'superannuation benefit' that is not a 'superannuation income stream benefit'. Subsection 307-70(1) of the ITAA 1997 states that a 'superannuation income stream benefit' is a 'superannuation benefit' specified in the regulations that is paid from a 'superannuation income stream'.
@@ -54,10 +49,10 @@ As each payment is a superannuation benefit that is not a superannuation income 
 Section 302-10 of the ITAA 1997 applies to superannuation death benefits paid to a trustee of a deceased estate. Under subsection 302-10(3), if beneficiaries of the estate are not death benefits dependants of the deceased, the superannuation death benefit is income of the trustee. It is taken to be income to which no beneficiary is presently entitled so that the trustee, rather than the beneficiary, is liable to pay tax on the benefit.
 Each payment to the trustee of the deceased estate is taxed as a 'superannuation lump sum' under Subdivision 302-C of the ITAA 1997.
 Date of decision:
-         7 February 2014
+  7 February 2014
 
 Year of income:
-           Year ending 30 June 2009
+  Year ending 30 June 2009
 
 Legislative References:
 
@@ -68,42 +63,38 @@ Superannuation Industry (Supervision) Regulations 1994   Sub-regulation 6.21(
 Keywords
 
 Death benefits - superannuation benefits
-          Deceased estate
-          Family Law
-          Income stream - superannuation benefits
-          Lump sum - superannuation benefits
-          Public sector superannuation funds
-          Superannuation
-          Superannuation benefits
-          Superannuation benefits from public sector schemes
-          Superannuation income stream
-
+ Deceased estate
+ Family Law
+ Income stream - superannuation benefits
+ Lump sum - superannuation benefits
+ Public sector superannuation funds
+ Superannuation
+ Superannuation benefits
+ Superannuation benefits from public sector schemes
+ Superannuation income stream
 
 Siebel/TDMS Reference Number:
-         1-52N8PKG; 1-762UHG7
+  1-52N8PKG; 1-762UHG7
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         14 February 2014
+  14 February 2014
 
 Date reviewed:
-         3 September 2015
+  3 September 2015
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  7 February 2014

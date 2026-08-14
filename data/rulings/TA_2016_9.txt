@@ -4,13 +4,11 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 290
-  • Division 820
-  • Division 974
+ • Division 290
+ • Division 820
+ • Division 974
 
 Topics: Companies, International
-
-
 
 ================================================================================
 
@@ -56,7 +54,7 @@ issued to date.
 Description
 We are reviewing arrangements where taxpayers have taken the view that their 'debt capital' for the purposes of the thin capitalisation rules (under Division 820 of the
 Income Tax Assessment Act
-1997 (ITAA 1997)) does not include the value of a 'debt interest' that has been treated wholly or partly as equity for accounting purposes.  This has the effect of reducing what would otherwise have been the taxpayer's 'adjusted average debt' and may consequently reduce the amount of debt deductions disallowed under the thin capitalisation regime.
+1997 (ITAA 1997)) does not include the value of a 'debt interest' that has been treated wholly or partly as equity for accounting purposes. This has the effect of reducing what would otherwise have been the taxpayer's 'adjusted average debt' and may consequently reduce the amount of debt deductions disallowed under the thin capitalisation regime.
 The arrangements we are reviewing typically have the following features:
 •
 A taxpayer enters into a financial arrangement that is a 'debt interest' under Division 974 of the ITAA 1997.
@@ -67,27 +65,27 @@ AASB 132 Financial Instruments: Presentation.
 On that basis, the taxpayer does not include the value of the accounting equity component of the financial arrangement in its 'debt capital' for thin capitalisation purposes.
 •
 The taxpayer claims all debt deductions associated with the financial arrangement.
-Example 1:  Debt interest that is wholly equity for accounting purposes
-ABC Ltd (ABC) issues a loan note to raise $75 million. The loan note offers a coupon at the rate of 4.5%.  Based on the particular terms of issue of the loan note, it is treated as a debt interest under Division 974 of the ITAA 1997 and is classified as an equity instrument for accounting purposes under
+Example 1: Debt interest that is wholly equity for accounting purposes
+ABC Ltd (ABC) issues a loan note to raise $75 million. The loan note offers a coupon at the rate of 4.5%. Based on the particular terms of issue of the loan note, it is treated as a debt interest under Division 974 of the ITAA 1997 and is classified as an equity instrument for accounting purposes under
 AASB 132 Financial Instruments: Presentation.
 ABC does not include the value of the note in determining its adjusted average debt for thin capitalisation purposes because it is equity for accounting purposes. ABC nevertheless claims debt deductions for the annual payments in respect of the note.
-Example 2:  Debt interest that is partly equity for accounting purposes
+Example 2: Debt interest that is partly equity for accounting purposes
 XYZ Ltd (XYZ) issues 30,000 Mandatorily Redeemable Preference Shares (MRPS) at $1,000 each to raise $30 million. Under the terms of the MRPS, a cumulative dividend of 4.5% is paid per annum. The MRPS must be redeemed by XYZ within nine years of issue.
-XYZ records the present value of the redemption amount in its financial statements as a liability.  The residual value of the MRPS is allocated to equity in XYZ's financial statements, as required under
+XYZ records the present value of the redemption amount in its financial statements as a liability. The residual value of the MRPS is allocated to equity in XYZ's financial statements, as required under
 AASB 132 Financial Instruments: Presentation.
-In this case, the MRPS is treated as a debt interest for tax purposes. However, XYZ does not include the component of the MRPS that is treated as equity for accounting purposes in the "value" of its debt capital.  XYZ nevertheless claims a debt deduction for all dividend payments made in respect of the MRPS.
+In this case, the MRPS is treated as a debt interest for tax purposes. However, XYZ does not include the component of the MRPS that is treated as equity for accounting purposes in the "value" of its debt capital. XYZ nevertheless claims a debt deduction for all dividend payments made in respect of the MRPS.
 What are our concerns?
 In arrangements similar to that described in this Taxpayer Alert, taxpayers are incorrectly adopting a treatment under the thin capitalisation provisions that may result in claims for higher debt deductions.
-This is a consequence of some taxpayers incorrectly calculating the value of their debt capital because they are excluding the component of a debt interest that is separately disclosed as an equity component in the statement of financial position for accounting purposes.  Whereas, our position is that taxpayers should calculate the value of that debt interest under the accounting standards as the sum of the value attributed to the accounting equity component and the value attributed to any accounting liability component.
+This is a consequence of some taxpayers incorrectly calculating the value of their debt capital because they are excluding the component of a debt interest that is separately disclosed as an equity component in the statement of financial position for accounting purposes. Whereas, our position is that taxpayers should calculate the value of that debt interest under the accounting standards as the sum of the value attributed to the accounting equity component and the value attributed to any accounting liability component.
 Further, taxpayers involved in these types of arrangements may not have taken into account the operation of the Commissioner's discretion under section 820-690 of the ITAA 1997 to substitute a more appropriate value of debt capital, or the application of Part IVA of the
 Income Tax Assessment Act 1936
 (ITAA 1936) to the arrangement.
 What are we doing?
 We are currently reviewing debt capital values utilised in thin capitalisation calculations to identify taxpayers who have implemented these types of arrangements and have commenced compliance activities in relation to a number of cases.
-We will take the approach that the sum of the accounting value of the equity component and the accounting value of the liability component of the debt interest on issue must be used in the calculation of the average value of debt capital.  We will also generally take into account all relevant accounting entries, such as distributions to holders, such that the full face value of the debt interest will be used in the calculation of adjusted average debt.
+We will take the approach that the sum of the accounting value of the equity component and the accounting value of the liability component of the debt interest on issue must be used in the calculation of the average value of debt capital. We will also generally take into account all relevant accounting entries, such as distributions to holders, such that the full face value of the debt interest will be used in the calculation of adjusted average debt.
 In addition, if the Commissioner determines that a taxpayer has undervalued its debt capital, the Commissioner may apply section 820-690 of the ITAA 1997 to substitute an appropriate value, having regard to the accounting standards and the thin capitalisation regime.
 Alternatively, the Commissioner may apply Part IVA of the ITAA 1936 to disallow a deduction if a taxpayer has entered into the form of arrangement described in this Taxpayer Alert for the sole or dominant purpose of obtaining a tax benefit.
-If a taxpayer participates in an arrangement similar to that described in this Taxpayer Alert, and the taxpayer does not have a private ruling or class ruling in respect of the arrangement, the taxpayer may be liable to penalties (in addition to being required to pay any tax that is avoided).  More information on penalties is available on the
+If a taxpayer participates in an arrangement similar to that described in this Taxpayer Alert, and the taxpayer does not have a private ruling or class ruling in respect of the arrangement, the taxpayer may be liable to penalties (in addition to being required to pay any tax that is avoided). More information on penalties is available on the
 interest and penalties page
 on our website. (hyperlink is
 https://www.ato.gov.au/General/Interest-and-penalties/

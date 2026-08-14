@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **(3B)**  Subsection (2) does not apply to a qualifying company. But, if section HA 11(1) (When requirements no longer met) applies to the company,—
 
-- (a) an adjustment must be made under section HA 18 (Treatment of dividends when qualifying company status ends) to the company’s imputation credit account; and
+- (a) an adjustment must be made under section HA 18 (Treatment of dividends when qualifying company status ends) to the company's imputation credit account; and
 
 - (b) the shareholder continuity requirements apply to the company from the day on which the status as a qualifying company ends.
 

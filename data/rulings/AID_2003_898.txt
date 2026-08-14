@@ -3,26 +3,21 @@ ATO ID 2003/898
 ==================================================
 
 Income Tax
-        Debt/Equity: whether redeemable preference shares are an equity interest or a debt interest
-        FOI status: may be released
-
+ Debt/Equity: whether redeemable preference shares are an equity interest or a debt interest
+ FOI status: may be released
 
 This ATO ID has been amended to improve clarity and to replace the reference to subsection 975-15(1) with the correct reference to subsection 974-15(1) of the ITAA 1997.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are the redeemable preference shares issued by an entity a debt interest pursuant to Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes.  The redeemable preference shares issued by Issuer to Holder are debt interests since they satisfy the debt test in section 974-20 of Subdivision 974-B of Division 974 of the ITAA 1997.
+Yes. The redeemable preference shares issued by Issuer to Holder are debt interests since they satisfy the debt test in section 974-20 of Subdivision 974-B of Division 974 of the ITAA 1997.
 Although the redeemable preference shares also satisfy the equity test in section 974-75 of the ITAA 1997, the debt test prevails over the equity test by virtue of the tie-breaker rule in paragraph 974-70(1)(b) and the objective provision of subsection 974-5(4) of the ITAA 1997.
 Facts
 A company (Issuer) issues redeemable preference shares on 15 August 2001.
@@ -32,11 +27,9 @@ Dividends are to be paid annually at 7.25% of the issue price when dividends on 
 Issuer is not permitted to pay a dividend on its ordinary shares unless and until all arrears of dividends on the redeemable preference shares have been paid.
 Reasons for Decision
 For instruments issued on or after 1 July 2001, Division 974 of the ITAA 1997 provides rules that govern the classification of debt and equity interests for tax purposes.
-Since the redeemable preference shares are shares in legal form they give rise to a membership interest. Item 1 of the table contained in subsection 974-75(1) of Subdivision 974-C of the ITAA 1997 is satisfied.  However, the shares do not give rise to an equity interest in the company as they do not satisfy the requirements of paragraph 974-70(1)(b) of the ITAA 1997.  That is, the shares are also characterised as a debt interest in the company (see reasoning below) and the debt test prevails over the equity test (refer to: the objective provision in sub-section 974-5(4) of the ITAA 1997, subsection 974-15(1) and paragraph 974-70(1)(b) of the ITAA 1997).
+Since the redeemable preference shares are shares in legal form they give rise to a membership interest. Item 1 of the table contained in subsection 974-75(1) of Subdivision 974-C of the ITAA 1997 is satisfied. However, the shares do not give rise to an equity interest in the company as they do not satisfy the requirements of paragraph 974-70(1)(b) of the ITAA 1997. That is, the shares are also characterised as a debt interest in the company (see reasoning below) and the debt test prevails over the equity test (refer to: the objective provision in sub-section 974-5(4) of the ITAA 1997, subsection 974-15(1) and paragraph 974-70(1)(b) of the ITAA 1997).
 However, should the interest also satisfy the debt test it will be a debt interest, rather than an equity interest, by virtue of the application of the tie-breaker rule in sub-section 974-5(4) of the ITAA 1997.
 The debt test is contained in subsection 974-20(1) of Subdivision 974-B of the ITAA 1997. For the redeemable preference shares, the debt test will be satisfied if there is a 'scheme' under which:
-
-
 
 (i)Issuer receives a 'financial benefit'
 (ii)Issuer has an 'effectively non-contingent obligation' to provide a financial benefit to Holder, and
@@ -47,10 +40,10 @@ Since the payment of an annual dividend on the redeemable preference shares is c
 The value of the benefit received by Issuer at issue date is the price of the security, i.e. $2.00 per share. In return, Issuer provides Holder with a financial benefit that amounts to, at the least, a return of Holder's capital of $2.00 per share. Since the shares are due for redemption after eight years the benefits received and provided under the scheme are valued in nominal terms pursuant to paragraph 974-35(1)(a)(i) of the ITAA 1997. Therefore it can be said that it is substantially more likely than not that the value provided by Issuer will be at least equal to the value received by Issuer.
 Therefore the redeemable preference shares satisfy the debt test and are a scheme which gives rise to a debt interest in the entity pursuant to subsection 974-15(1) of the ITAA 1997.
 Date of decision:
-         26 September 2003
+  26 September 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -59,18 +52,17 @@ Income Tax Assessment Act 1997   subsection 974-5(4)   section 974-15  �
 Keywords
 
 Redeemable preference shares
-          Financial instruments
-          Debt equity borderline
-
+ Financial instruments
+ Debt equity borderline
 
 Siebel/TDMS Reference Number:
-         3761619
+  3761619
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         3 October 2003
+  3 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

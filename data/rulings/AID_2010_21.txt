@@ -3,21 +3,16 @@ ATO ID 2010/21
 ==================================================
 
 Income Tax
-        Frankable distributions and non-share dividends
-        FOI status: may be released
-
+ Frankable distributions and non-share dividends
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a non-share dividend be a frankable distribution when a company has no accounting profits or retained earnings?
@@ -42,9 +37,7 @@ A company's available frankable profits at a particular time is worked out using
 
 Maximum frankable amount - [Committed share dividends + Undebited non-share dividends]
 
-
 where:
-
 
 maximum frankable amount
  means the maximum amount of *frankable *distributions (other than *non-share dividends) that the *corporate tax entity could pay at that time having regard to its available profits at that time.
@@ -75,17 +68,15 @@ Adding the word 'to' in the second sentence in the third last paragraph
 [1]
 Section 254T of the Corporations Act 2001 previously provided that a dividend may only be paid out of profits. Applicable from 28 June 2010 section 254T provides that a company must not pay a dividend unless:
 
-
-
 (a) The company's assets exceed its liabilities immediately before the dividend declaration and the excess is sufficient for the dividend payment;
 (b) The dividend is fair and reasonable to the members as a whole; and
 (c) Creditors are not materially prejudiced.
 
 Date of decision:
-         10 December 2009
+  10 December 2009
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -100,32 +91,28 @@ Keywords
 
 Frankable dividends
 
-
 Siebel/TDMS Reference Number:
-         5234274/1-5T1Y6EY;1-D5ZPF0R
+  5234274/1-5T1Y6EY;1-D5ZPF0R
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         5 February 2010
+  5 February 2010
 
 Date reviewed:
-         16 November 2017
+  16 November 2017
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 10 December 2009

@@ -3,18 +3,14 @@ ATO ID 2008/5
 ==================================================
 
 Income Tax
-        Controlled Foreign Companies: attribution of foreign income to Australian entity with de facto control of foreign entity - no direct or indirect attribution interest in that entity
-        FOI status: may be released
-
-
+ Controlled Foreign Companies: attribution of foreign income to Australian entity with de facto control of foreign entity - no direct or indirect attribution interest in that entity
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is income attributable under section 456 of the Income Tax Assessment Act 1936 (ITAA 1936) to a resident company that exercises de facto control over a foreign company where the resident company does not have either a direct attribution interest in the foreign company under section 356 of the ITAA 1936 or an indirect attribution interest in the foreign company under section 357 of the ITAA 1936?
@@ -30,12 +26,8 @@ Section 456 of the ITAA 1936 will attribute income where a Controlled Foreign Co
 As the taxpayer is an Australian entity that exercises de facto control over the foreign company, the foreign company is a CFC within the meaning of paragraph 340(c) of the ITAA 1936.
 Subsection 361(1) of the ITAA 1936 states that an entity will be an attributable taxpayer in relation to a CFC where the entity:
 
-
-
 (a)is an Australian entity whose associate-inclusive control interest in the CFC is at least 10%; or
 (b)all of the following apply:
-
-
 
 (i)the CFC is a CFC only because of paragraph 340(c) of the ITAA 1936;
 (ii)the CFC is controlled by any group of 5 or fewer Australian entities; and
@@ -48,10 +40,10 @@ The attribution percentage of an attributable taxpayer is the sum of the direct 
 As noted above, in order to attribute income under section 456 of the ITAA 1936 it is necessary for a CFC to have attributable income in respect of an attributable taxpayer based on the attributable taxpayer's attribution percentage of the attributable income.
 The foreign company is a CFC and the taxpayer is an attributable taxpayer. However, as the taxpayer's attribution percentage is nil, it will not have any income attributed to it under section 456 of the ITAA 1936.
 Date of decision:
-         28 August 2006
+  28 August 2006
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -60,18 +52,17 @@ Income Tax Assessment Act 1936   paragraph 336(c)   paragraph 340(c)   
 Keywords
 
 Foreign attributable income
-          Controlled foreign companies
-          Foreign hybrid company
-
+ Controlled foreign companies
+ Foreign hybrid company
 
 Siebel/TDMS Reference Number:
-         5396932
+  5396932
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         11 January 2008
+  11 January 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

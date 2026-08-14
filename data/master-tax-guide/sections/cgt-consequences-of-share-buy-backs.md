@@ -27,7 +27,7 @@ CGT implications for demutualisation of mutual entities Special provisions speci
 
 For details regarding the general taxation consequences from demutualisation, see ¶3-432. For the speciﬁc roll-over allowed for replacement shares in a scrip for scrip transaction, see ¶12-325.
 
-Life or general insurance organisations The special provisions apply to the demutualisation of life or general insurance companies and mutual aﬃliate companies that existed at 7.30 pm EST on 9 May 1995, where the demutualisation is carried out in accordance with one of 7 speciﬁed methods in ss 121AF to 121AL. A basic requirement for the provisions is that the members agree to surrender their rights in the mutual company in exchange for shares in the demutualised entity. The shares must generally be listed by ASX Limited within 2 years from the demutualisation resolution day (ie the day that the resolution to proceed with the demutualisation is passed or, where a life assurance company’s life insurance business is transferred to another company under a Federal Court-approved scheme, the day on which the transfer of the whole of that business takes place).
+Life or general insurance organisations The special provisions apply to the demutualisation of life or general insurance companies and mutual aﬃliate companies that existed at 7.30 pm EST on 9 May 1995, where the demutualisation is carried out in accordance with one of 7 speciﬁed methods in ss 121AF to 121AL. A basic requirement for the provisions is that the members agree to surrender their rights in the mutual company in exchange for shares in the demutualised entity. The shares must generally be listed by ASX Limited within 2 years from the demutualisation resolution day (ie the day that the resolution to proceed with the demutualisation is passed or, where a life assurance company's life insurance business is transferred to another company under a Federal Court-approved scheme, the day on which the transfer of the whole of that business takes place).
 
 The modiﬁcations of the CGT rules that apply in connection with a demutualisation are detailed in Table 1 of s 121AS. Broadly, the main CGT consequences are:
 
@@ -41,7 +41,7 @@ The modiﬁcations of the CGT rules that apply in connection with a demutualisat
 
 - the shares in the new entity are treated as post-CGT shares
 
-- before listing, the CGT cost base of the former members’ shares is set by reference to the
+- before listing, the CGT cost base of the former members' shares is set by reference to the
 
   actuarially determined embedded value of a life oﬃce, or the net tangible assets of a general
 
@@ -79,11 +79,11 @@ Broadly, the CGT consequences that apply in connection with the demutualisation 
 
   member is determined according to when the original membership interest was acquired. For
 
-  a pre-CGT member, the amount paid is determined by reference to the member’s share of the
+  a pre-CGT member, the amount paid is determined by reference to the member's share of the
 
   market value of the demutualising entity determined immediately before demutualisation (reduced
 
-  by the member’s share of any franking surplus). For a post-CGT member, the amount paid is
+  by the member's share of any franking surplus). For a post-CGT member, the amount paid is
 
   determined by reference to the costs incurred by the member in acquiring and maintaining their
 
@@ -95,7 +95,7 @@ Private health insurance entities CGT relief is available to private health insu
 
 - any capital gain arising in relation to the shares, rights or cash payments received by
 
-  policyholders on the private health insurer’s demutualisation are disregarded (s 315-5).
+  policyholders on the private health insurer's demutualisation are disregarded (s 315-5).
 
 Corresponding exemptions apply to legal personal representatives of policy holders (ss 315-10; 315-310)
 
@@ -105,13 +105,13 @@ Corresponding exemptions apply to legal personal representatives of policy holde
 
 - for CGT purposes, any shares or rights received from the demutualisation are treated as if they
 
-  had been acquired for market value on the date of issue (s 315-80). These “demutualisation
+  had been acquired for market value on the date of issue (s 315-80). These "demutualisation
 
-  assets”, which must all be distributed at the same time, must consist of shares in the demutualising
+  assets", which must all be distributed at the same time, must consist of shares in the demutualising
 
   insurer, or its holding company, or rights to acquire such shares (s 315-85). They must be issued
 
-  to “participating policy holders”, ie policy holders, former policy holders, or other persons who are
+  to "participating policy holders", ie policy holders, former policy holders, or other persons who are
 
   or were insured (s 315-90), in connection with the variation or cancellation of their pre-existing
 
@@ -123,7 +123,7 @@ Corresponding exemptions apply to legal personal representatives of policy holde
 
   demutualising insurer (s 315-210).
 
-Special rules apply to cover the tax position of “lost policy holders” trusts (which do not need to exist under a court approved scheme) that are set up for the purpose of holding share or trust entitlements on behalf of policy holders whose entitlements have not been veriﬁed, or who are living overseas (s 315-140). The trustee is treated as having acquired the demutualisation assets at market value at the time they are issued (s 315-145). Assets held by these trusts are given roll-over relief when they are transferred to the lost policy holder, or that holder becomes absolutely entitled (s 315-150). Otherwise, the trustee will be taxable on the beneﬁciary’s share of the net capital gain (s 315-155).
+Special rules apply to cover the tax position of "lost policy holders" trusts (which do not need to exist under a court approved scheme) that are set up for the purpose of holding share or trust entitlements on behalf of policy holders whose entitlements have not been veriﬁed, or who are living overseas (s 315-140). The trustee is treated as having acquired the demutualisation assets at market value at the time they are issued (s 315-145). Assets held by these trusts are given roll-over relief when they are transferred to the lost policy holder, or that holder becomes absolutely entitled (s 315-150). Otherwise, the trustee will be taxable on the beneﬁciary's share of the net capital gain (s 315-155).
 
 Friendly societies CGT relief is available to policyholders of friendly societies, including joint health and life insurers, which demutualise to for proﬁt entities (Div 316).
 
@@ -150,7 +150,7 @@ The special provisions apply in connection with the demutualisation of a friendl
 
 - the cost base for shares issued to members and insured entities is based on (a) the market value
 
-  of the friendly society’s health insurance business; and (b) the embedded value of the life insurance
+  of the friendly society's health insurance business; and (b) the embedded value of the life insurance
 
   business and any other business of the friendly society (Subdiv 316-C)
 
@@ -164,17 +164,17 @@ The special provisions apply in connection with the demutualisation of a friendl
 
   316-75)
 
-- where an entity is established solely for the purpose of participating in the friendly society’s
+- where an entity is established solely for the purpose of participating in the friendly society's
 
   demutualisation which is not a lost policy holders trust and the entity makes capital gains or losses
 
-  connected to the allocation or distribution of the friendly society’s accumulated mutual surplus
+  connected to the allocation or distribution of the friendly society's accumulated mutual surplus
 
   which arise prior to, or at the time, the surplus is allocated or distributed, those capital gains or
 
   losses are disregarded (s 316-80).
 
-Special rules apply to cover the tax position of “lost policy holders” trusts that are set up for the purpose of holding share or trust entitlements on behalf of members and insured entities whose entitlements have not been veriﬁed, or who are living overseas (Subdiv 316-D). Such shares or rights may be held on trust and transferred to the policyholder without CGT consequences to the trustee. The policyholder receives the shares or rights with the same CGT attributes as if they had received them directly.
+Special rules apply to cover the tax position of "lost policy holders" trusts that are set up for the purpose of holding share or trust entitlements on behalf of members and insured entities whose entitlements have not been veriﬁed, or who are living overseas (Subdiv 316-D). Such shares or rights may be held on trust and transferred to the policyholder without CGT consequences to the trustee. The policyholder receives the shares or rights with the same CGT attributes as if they had received them directly.
 
 *Refs: s 316-55), s 316-60, s 316-200), s
 316-75), s 316-80)*

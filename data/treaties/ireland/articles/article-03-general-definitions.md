@@ -1,0 +1,119 @@
+---
+country: "Ireland"
+country_slug: "ireland"
+treaty_schedule: 20
+article: 3
+title: "Article 3 — General Definitions"
+---
+# Article 3 — General Definitions
+Irish Agreement
+AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF IRELAND FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND CAPITAL GAINS
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+General Definitions
+(1)
+In this Agreement, unless the context otherwise requires
+-
+(a)
+the term 
+"
+Australia
+"
+ means the Commonwealth of Australia and, when used in a geographical sense, includes
+-
+(i)
+the Territory of Norfolk Island;
+(ii)
+the Territory of Christmas Island;
+(iii)
+the Territory of Cocos (Keeling) Islands;
+(iv)
+the Territory of Ashmore and Cartier Islands;
+(v)
+the Coral Sea Islands Territory; and
+(vi)
+any area adjacent to the territorial limits of Australia or of the said Territories in respect of which there is for the time being in force, consistently with international law, a law of Australia or of a State or part of Australia or of a Territory aforesaid dealing with the exploitation of any of the natural resources of the sea-bed and subsoil of the continental shelf;
+(b)
+the term 
+"
+Ireland
+"
+ includes any area outside the territorial waters of Ireland which in accordance with international law has been or may hereafter be designated, under the laws of Ireland concerning the Continental Shelf, as an area within which the rights of Ireland with respect to the sea-bed and subsoil and their natural resources may be exercised;
+(c)
+the terms 
+"
+Contracting State
+"
+, 
+"
+one of the Contracting States
+"
+ and 
+"
+the other Contracting State
+"
+ mean Australia or Ireland, as the context requires;
+(d)
+the term 
+"
+person
+"
+ includes an individual, a company and any other body of persons;
+(e)
+the term 
+"
+company
+"
+ means any body corporate or any entity which is assimilated to a body corporate for tax purposes;
+(f)
+the terms 
+"
+enterprise of one of the Contracting States
+"
+ and 
+"
+enterprise of the other Contracting State
+"
+ mean an enterprise carried on by a resident of Australia or an enterprise carried on by a resident of Ireland, as the context requires;
+(g)
+the term 
+"
+tax
+"
+ means Australian tax or Irish tax, as the context requires;
+(h)
+the term 
+"
+Australian tax
+"
+ means tax imposed by Australia, being tax to which this Agreement applies by virtue of Article 2;
+(i)
+the term 
+"
+Irish tax
+"
+ means tax imposed by Ireland, being tax to which this Agreement applies by virtue of Article 2;
+(j)
+the term 
+"
+competent authority
+"
+ means:
+(i)
+in the case of Australia, the Commissioner of Taxation or his authorised representative;
+(ii)
+in the case of Ireland, the Revenue Commissioners or their authorised representative.
+(2)
+In this Agreement, the terms 
+"
+Australian tax
+"
+ and 
+"
+Irish tax
+"
+ do not include any penalty or interest imposed under the law of either Contracting State relating to the taxes to which this Agreement applies by virtue of Article 2.
+(3)
+In the application of this Agreement by a Contracting State, any term not defined in this Agreement shall, unless the context otherwise requires, have the meaning which it has under the laws of that State relating to the taxes to which this Agreement applies.

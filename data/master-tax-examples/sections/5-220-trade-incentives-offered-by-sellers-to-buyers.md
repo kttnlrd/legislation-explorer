@@ -29,7 +29,7 @@ An incentive that is subject to a condition that has not been satisfied at the t
 
 The exception is where there is virtual certainty at the time of sale that the condition will be satisfied, for example, a settlement discount that is always taken by the buyer will reduce the sale price for the seller.
 
-Similarly, a volume rebate subject to a rebate threshold that has not been met but is certain to be met will reduce the sale price for the seller. In both cases, the seller’s assessable income from the sale is the reduced amount.
+Similarly, a volume rebate subject to a rebate threshold that has not been met but is certain to be met will reduce the sale price for the seller. In both cases, the seller's assessable income from the sale is the reduced amount.
 
 Whether a trade incentive relates directly to trading stock Factors relevant to whether a trade incentive reduces the cost of acquiring trading stock for a buyer and the proceeds of disposal for the seller include:
 
@@ -53,7 +53,7 @@ The rebates applicable to the next 20,000 items do not reduce the cost of acquir
 
 The rebates applicable to all items purchased and sold after the 100,000 items threshold is achieved reduce the cost of acquiring trading stock for Connor and the proceeds of sale for Barney Co because the rebates are no longer subject to a condition that has not been satisfied at the time of sale.
 
-The rebate of $32,000 applicable to the first 80,000 items is derived as ordinary income (s 6-5) by Connor and incurred as an expense (s 8-1) by Barney Co when Barney Co credits Connor’s account with the $32,000, that is when Connor has purchased 100,000 items.
+The rebate of $32,000 applicable to the first 80,000 items is derived as ordinary income (s 6-5) by Connor and incurred as an expense (s 8-1) by Barney Co when Barney Co credits Connor's account with the $32,000, that is when Connor has purchased 100,000 items.
 
 *Refs: ITAA97 s
 8-1, ITAA97 s 6-5, s 6-5), s 8-1)*

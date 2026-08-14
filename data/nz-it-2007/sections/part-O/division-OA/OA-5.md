@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (a) set out in section OA 7 or OE 19:
 
-- (b) described in a row of table O9: person’s branch equivalent tax credits.
+- (b) described in a row of table O9: person's branch equivalent tax credits.
 
 **ASC credits**
 

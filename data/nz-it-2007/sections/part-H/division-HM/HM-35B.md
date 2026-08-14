@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (b) the amount—
 
-  - (i) is reflected in the PIE’s valuation of investor interests; or
+  - (i) is reflected in the PIE's valuation of investor interests; or
 
   - (ii) if subparagraph (i) does not apply, is shown in its financial statements.
 

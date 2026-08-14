@@ -4,11 +4,9 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Division 358
+ • Division 358
 
 Topics: GST, Companies, International
-
-
 
 ================================================================================
 
@@ -23,7 +21,7 @@ Back to browse
 12 related documents
 Goods and Services Tax Ruling
 GSTR 2002/4
-Goods and services tax:  recipient created tax invoices and foreign currency conversions
+Goods and services tax: recipient created tax invoices and foreign currency conversions
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -53,11 +51,11 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling explains a Determination that the Commissioner has made under subsection 29-70(3) of the
 A New Tax System (Goods and Services Tax) Act 1999
-('GST Act').  The Determination is about how recipient created tax invoices ('RCTIs') are issued when the consideration for a taxable supply is expressed in foreign currency and needs to be converted to Australian currency for GST purposes.  A copy of the Determination is attached at Schedule 1.
+('GST Act'). The Determination is about how recipient created tax invoices ('RCTIs') are issued when the consideration for a taxable supply is expressed in foreign currency and needs to be converted to Australian currency for GST purposes. A copy of the Determination is attached at Schedule 1.
 2. The Ruling also:
 •
 explains a requirement that a recipient needs to satisfy when issuing RCTIs where the consideration for a supply is expressed in foreign currency;
@@ -66,19 +64,19 @@ explains how the Determination affects suppliers and recipients of taxable suppl
 •
 explains an exception for holding an advice where the recipient's computer system is set up in a way that does not enable the recipient to use the supplier's conversion information.
 3. This Ruling does not apply to taxable importations.
-4. Goods and Services Tax Rulings GSTR 2000/10:  recipient created tax invoices, and GSTR 2001/2:  foreign exchange conversions, are extensively referred to in this Ruling.  Certain terms defined or explained in those Rulings appear in
+4. Goods and Services Tax Rulings GSTR 2000/10: recipient created tax invoices, and GSTR 2001/2: foreign exchange conversions, are extensively referred to in this Ruling. Certain terms defined or explained in those Rulings appear in
 bold
 when first mentioned in this Ruling.
 5. All legislative references in this Ruling are to the GST Act, unless otherwise stated.
 Date of effect
 6. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10)
 Background
-7. The Commissioner released Goods and Services Tax Ruling GSTR 2000/10 on 10 May 2000.  A copy of the Determination of three broad classes of RCTIs is attached at Schedule 1 to that Ruling.  The Commissioner has subsequently determined a number of additional classes of RCTIs.
+7. The Commissioner released Goods and Services Tax Ruling GSTR 2000/10 on 10 May 2000. A copy of the Determination of three broad classes of RCTIs is attached at Schedule 1 to that Ruling. The Commissioner has subsequently determined a number of additional classes of RCTIs.
 [F1]
-8. Goods and Services Tax Ruling GSTR 2001/2 was released on 2 February 2001.  A copy of the Commissioner's foreign exchange conversion Determination is attached at Schedule 1 to that Ruling.
-9. GSTR 2001/2 discusses how the Commissioner has determined that amounts of consideration expressed in foreign currency are to be converted into Australian currency so that the supplier may calculate the GST payable on the supply.  The recipient is entitled to an input tax credit equal to the GST payable in Australian currency where the acquisition is a creditable acquisition (the credit is reduced where the acquisition is only partly creditable).
+8. Goods and Services Tax Ruling GSTR 2001/2 was released on 2 February 2001. A copy of the Commissioner's foreign exchange conversion Determination is attached at Schedule 1 to that Ruling.
+9. GSTR 2001/2 discusses how the Commissioner has determined that amounts of consideration expressed in foreign currency are to be converted into Australian currency so that the supplier may calculate the GST payable on the supply. The recipient is entitled to an input tax credit equal to the GST payable in Australian currency where the acquisition is a creditable acquisition (the credit is reduced where the acquisition is only partly creditable).
 [F2]
-10. To prepare the RCTI, the recipient has to be provided with the information that the supplier would use to convert the foreign currency into Australian currency and to calculate the GST payable.  Specifically, the recipient needs to know
+10. To prepare the RCTI, the recipient has to be provided with the information that the supplier would use to convert the foreign currency into Australian currency and to calculate the GST payable. Specifically, the recipient needs to know
 your particular exchange rate
 [F3]
 and the
@@ -87,8 +85,8 @@ conversion day
 that are to be used.
 Ruling with explanation
 The requirement in the RCTI Determination
-11. The Commissioner has made a Determination under subsection 29-70(3) varying all previous RCTI Determinations.  A copy of the Determination is attached at Schedule 1 of this Ruling.  The Determination requires the recipient to hold information to be used for converting foreign currency to Australian currency.
-12. The requirements for issuing RCTIs are varied by the Determination.  The additional requirement to be satisfied by recipients is to be inserted into all previous RCTI Determinations at paragraph 4(c)
+11. The Commissioner has made a Determination under subsection 29-70(3) varying all previous RCTI Determinations. A copy of the Determination is attached at Schedule 1 of this Ruling. The Determination requires the recipient to hold information to be used for converting foreign currency to Australian currency.
+12. The requirements for issuing RCTIs are varied by the Determination. The additional requirement to be satisfied by recipients is to be inserted into all previous RCTI Determinations at paragraph 4(c)
 [F5]
 or 5(c)
 [F6]
@@ -107,39 +105,39 @@ Written advice
 your particular exchange rate; and
 •
 the conversion day.
-15. You need to give the advice to the recipient after you make your first taxable supply after the date of the Determination where the consideration for the supply is expressed in foreign currency.  You may provide the advice by means of a document, including one in an electronic form such as an e-mail or fax.
+15. You need to give the advice to the recipient after you make your first taxable supply after the date of the Determination where the consideration for the supply is expressed in foreign currency. You may provide the advice by means of a document, including one in an electronic form such as an e-mail or fax.
 [F7]
 It needs to be given within enough time to enable the recipient to issue the RCTI within 28 days of the taxable supply being made, or within 28 days from determining the value of the supply.
 [F8]
 Example 1 - written advice
 16.
-Smith makes taxable supplies to Jones.  They have an RCTI agreement under which Jones issues RCTIs for the supplies.  The contract for the supplies expresses the consideration in foreign currency.
+Smith makes taxable supplies to Jones. They have an RCTI agreement under which Jones issues RCTIs for the supplies. The contract for the supplies expresses the consideration in foreign currency.
 17.
-Smith needs to give written advice to Jones after making the first taxable supply (after the date of the Determination).  It needs to be given within enough time to enable Jones to issue the RCTI within 28 days of the supply being made.
+Smith needs to give written advice to Jones after making the first taxable supply (after the date of the Determination). It needs to be given within enough time to enable Jones to issue the RCTI within 28 days of the supply being made.
 Agreed rate
 18. If your particular exchange rate is an
 agreed rate
 [F9]
-and you have also agreed on the conversion day in writing, then you do not have to give a new written advice to the recipient.  If the recipient holds the original or a copy of the agreement it will satisfy the requirement in the Determination to hold an advice.  However, if there is an implied agreement about using an agreed rate you need to send a written advice to the recipient.  Alternatively, you and the recipient may decide that the recipient can give you a written advice confirming the agreed rate and conversion day.
+and you have also agreed on the conversion day in writing, then you do not have to give a new written advice to the recipient. If the recipient holds the original or a copy of the agreement it will satisfy the requirement in the Determination to hold an advice. However, if there is an implied agreement about using an agreed rate you need to send a written advice to the recipient. Alternatively, you and the recipient may decide that the recipient can give you a written advice confirming the agreed rate and conversion day.
 19. The original or a copy of the advice needs to be held by the recipient before the RCTI for the taxable supply is issued.
 20. If the agreed rate and conversion day are contained in a written agreement (and a new written advice has not issued), the recipient needs to hold the original agreement, or a copy, before the RCTI for the taxable supply is issued.
 Example 2 - agreed rate in a written agreement
 21.
-In Example 1, if Smith and Jones had agreed in writing on a method of foreign currency conversion there would be no need to give a written advice.  Jones needs to hold a copy of the written agreement which contains details of the agreed rate and conversion day before issuing RCTIs for the supplies.
+In Example 1, if Smith and Jones had agreed in writing on a method of foreign currency conversion there would be no need to give a written advice. Jones needs to hold a copy of the written agreement which contains details of the agreed rate and conversion day before issuing RCTIs for the supplies.
 What happens if you do not meet the requirement?
-22. If you (as the recipient) fail to satisfy the requirement to hold a written advice to be used for converting foreign currency when issuing a document intended as an RCTI, the document you issue will not (other than in the exception explained in paragraph 24) be an RCTI.  This is because it will not be within a class of tax invoices determined as being RCTIs.
+22. If you (as the recipient) fail to satisfy the requirement to hold a written advice to be used for converting foreign currency when issuing a document intended as an RCTI, the document you issue will not (other than in the exception explained in paragraph 24) be an RCTI. This is because it will not be within a class of tax invoices determined as being RCTIs.
 23. If this happens, even if you have made a creditable acquisition, you cannot attribute an input tax credit for the acquisition to a tax period until you hold a tax invoice issued by your supplier.
 [F10]
 To obtain the input tax credit, you can request a tax invoice for the taxable supply from your supplier who must give it to you within 28 days after your request.
 [F11]
-24. An exception to the requirement to hold a written advice to be used for converting foreign currency is where a recipient's computer system is set up in a way that does not enable the recipient to use the supplier's conversion information.  Instead, the system calculates the amount of GST shown on the RCTI using the recipient's own conversion information.  In such a limited circumstance, a recipient can make a reasonable estimation of the GST payable (and input tax credit) in Australian currency and show the amount on the RCTI.  The method the recipient uses to make the estimation needs to reflect a relevant exchange rate on a relevant conversion day.
+24. An exception to the requirement to hold a written advice to be used for converting foreign currency is where a recipient's computer system is set up in a way that does not enable the recipient to use the supplier's conversion information. Instead, the system calculates the amount of GST shown on the RCTI using the recipient's own conversion information. In such a limited circumstance, a recipient can make a reasonable estimation of the GST payable (and input tax credit) in Australian currency and show the amount on the RCTI. The method the recipient uses to make the estimation needs to reflect a relevant exchange rate on a relevant conversion day.
 [F12]
 The supplier may use the amount of GST shown on the RCTI as a reasonable estimation of the GST payable for the supply, or the supplier may calculate the GST payable using its own conversion information.
 [F13]
 Record keeping
 25. In addition to the record keeping requirements for suppliers and recipients discussed in paragraph 42 of Goods and Services Tax Ruling GSTR 2000/10, the recipient is required to keep written advices and foreign currency conversion agreements for five years.
 [F14]
-26. If you are the supplier, keeping originals or copies of the advices and agreements for five years is one way of retaining records of your transactions.  These records will help to show that you have followed the Commissioner's foreign exchange conversion Determination and that you have used your particular exchange rate consistently.
+26. If you are the supplier, keeping originals or copies of the advices and agreements for five years is one way of retaining records of your transactions. These records will help to show that you have followed the Commissioner's foreign exchange conversion Determination and that you have used your particular exchange rate consistently.
 Detailed contents list
 27. Below is the detailed contents list for this Ruling:
 Paragraph
@@ -182,7 +180,7 @@ Citation
 1. This Determination is the
 A New Tax System (Goods and Services Tax) Act 1999 Classes of Recipient Created Tax Invoice (Variation) Determination 2002.
 Commencement
-2.(a)  This Determination commences on 9 October 2002.
+2.(a) This Determination commences on 9 October 2002.
 (b) This Determination does not revoke any previous Determination made by the Commissioner.
 (c) This Determination varies all previous Determinations made by the Commissioner under subsection 29-70(3).
 Application of Determination
@@ -238,27 +236,27 @@ Senior Tax Counsel
 Delegate of the Commissioner
 Footnotes
 [F1]
-1  The Commissioner's Determinations of classes of RCTIs can be found at http://law.ato.gov.au/atolaw/index.htm.
+1 The Commissioner's Determinations of classes of RCTIs can be found at http://law.ato.gov.au/atolaw/index.htm.
 [F2]
-2  Section 11-25.
+2 Section 11-25.
 [F3]
-3  'Your particular exchange rate' is explained in paragraphs 20 to 26 of GSTR 2001/2.
+3 'Your particular exchange rate' is explained in paragraphs 20 to 26 of GSTR 2001/2.
 [F4]
-4  'Conversion day' is explained in paragraphs 27 to 36 of GSTR 2001/2.
+4 'Conversion day' is explained in paragraphs 27 to 36 of GSTR 2001/2.
 [F5]
 5
 A New Tax System (Goods and Services Tax) Act 1999 Classes of Recipient Created Tax Invoice Determination (No. 1) 2000
 and the Determination
 A New Tax System (Goods and Services Tax) Act Class of Recipient Created Tax Invoice (RCTI) for supplies of reinsurance or supplies of retrocession.
 [F6]
-6  All other Determinations of classes of RCTIs made before the date of the Determination.
+6 All other Determinations of classes of RCTIs made before the date of the Determination.
 [F7]
-7  See section 25 of the
+7 See section 25 of the
 Acts Interpretation Act 1901.
 [F8]
-8  Suppliers and recipients should not forward originals or copies of advices to the ATO.
+8 Suppliers and recipients should not forward originals or copies of advices to the ATO.
 [F9]
-9  'Agreed rate' is explained in paragraphs 24 to 26 of GSTR 2001/2.
+9 'Agreed rate' is explained in paragraphs 24 to 26 of GSTR 2001/2.
 [F10]
 10 Subsection 29-10(3).
 [F11]
@@ -276,14 +274,14 @@ Taxation Administration Act 1953.
 Previously issued in draft form as GSTR 2001/D8.
 References
 ATO references:
-NO  T2001/019185
-ISSN:  1443-5160
+NO T2001/019185
+ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
 GSTR 2000/10
 GSTR 2001/2
 Legislative Determination RCTI 2000/1
-Legislative  Determination RCTI 2000/30
+Legislative Determination RCTI 2000/30
 Legislative Determination FOREX 2001/1
 Subject References:
 Australian currency
@@ -303,7 +301,7 @@ value
 Business Line:
 ISP - GST
 Legislative References:
-AIA 1901  25
+AIA 1901 25
 ANTS(GST) A99 11-25
 ANTS(GST) A99 29-10(3)
 ANTS(GST) A99 29-70(2)

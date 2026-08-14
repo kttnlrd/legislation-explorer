@@ -15,7 +15,7 @@ Exported financial services are generally GST-free, not input taxed, under the g
 
   with goods or real property in Australia (s 38-190, item 2)
 
-- a financial supply is made to an overseas recipient, the “effective use or enjoyment” takes place
+- a financial supply is made to an overseas recipient, the "effective use or enjoyment" takes place
 
   outside Australia, and the service is not directly connected with goods or real property in Australia (s
 
@@ -27,7 +27,7 @@ Exported financial services are generally GST-free, not input taxed, under the g
 
 2015/1 at ¶9-240).
 
-Where the residence status of the counterparty in an on-market securities transaction cannot be determined, it may be assumed to be the location of the relevant securities exchange. If this is not known, it can be assumed to be where the security is listed or, failing that, where the counterparty’s broker is ordinarily resident (GST Ruling GSTR 2002/2).
+Where the residence status of the counterparty in an on-market securities transaction cannot be determined, it may be assumed to be the location of the relevant securities exchange. If this is not known, it can be assumed to be where the security is listed or, failing that, where the counterparty's broker is ordinarily resident (GST Ruling GSTR 2002/2).
 
 To the extent that the financial service is GST-free, input tax credits can be claimed, so there is an incentive to clearly identify these transactions.
 

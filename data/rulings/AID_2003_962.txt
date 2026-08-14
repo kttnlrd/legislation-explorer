@@ -3,26 +3,21 @@ ATO ID 2003/962
 ==================================================
 
 Income Tax
-        Life insurance company: reinsurance recoveries
-        FOI status: may be released
-
+ Life insurance company: reinsurance recoveries
+ FOI status: may be released
 
 This ATO Interpretative Decision has been amended to update legislative references.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is an amount assessable under paragraph 320-15(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) if the amount is received by a life insurance company on or after 1 July 2000 under a contract of reinsurance and the amount relates to the risk component of a claim that was paid by the company prior to 1 July 2000?
 Decision
-Yes.  An amount received by a life insurance company under a contract of reinsurance is assessable under paragraph 320-15(1)(b) of the ITAA 1997 if the amount is received on or after 1 July 2000 under a contract of reinsurance and the amount relates to the risk component of a claim that was paid by the company prior to 1 July 2000.
+Yes. An amount received by a life insurance company under a contract of reinsurance is assessable under paragraph 320-15(1)(b) of the ITAA 1997 if the amount is received on or after 1 July 2000 under a contract of reinsurance and the amount relates to the risk component of a claim that was paid by the company prior to 1 July 2000.
 Facts
 A life insurance company pays a claim of $100,000 under a life insurance policy on 20 June 2000.
 The policy is a pure death policy that does not provide participating benefits or discretionary benefits and is not an exempt life insurance policy.
@@ -34,8 +29,6 @@ An amount received by a life insurance company under a contract of reinsurance i
 The risk component of claims paid under a life insurance policy is determined under subsection 320-80(2) of the ITAA 1997. Accordingly, where a claim is paid before 1 July 2000, and a reinsurance recovery is received in relation to the claim after that date, subsection 320-80(2) of the ITAA 1997 applies to determine whether there is a risk component of the claim for the purposes of paragraph 320-15(1)(b) of the ITAA 1997. The fact that the claim was paid before 1 July 2000 does not prevent subsection 320-80(2) of the ITAA 1997 applying to determine the risk component of claim for the purposes of applying paragraph 320-15(1)(b) of the ITAA 1997.
 The risk component of claims paid under a life insurance policy is specified in paragraph 320-80(2)(a)to the ITAA 1997 to be the amount of the claim paid if:
 
-
-
 (i)the policy does not provide for participating benefits or discretionary benefits; and
 (ii)the policy is neither an exempt life insurance policy nor a funeral policy; and
 (iii)an amount is payable under the policy only on the death or disability of the insured person.
@@ -44,10 +37,10 @@ For the purposes of paragraph 320-15(1)(b) of the ITAA 1997, the risk component 
 The reinsurance recovery of $70,000 is paid to the life insurance company under the reinsurance contract as a consequence of the life insurance company paying the policyholder claim of $100,000. The full amount of the reinsurance recovery is therefore considered to relate to the claim paid of $100,000.
 Accordingly, as the $70,000 reinsurance recovery relates to the risk component of the claim paid, $70,000 is included in the assessable income of the life insurance company for the year ended 30 June 2001 under paragraph 320-15(1)(b) of the ITAA 1997.
 Date of decision:
-         20 October 2003
+  20 October 2003
 
 Year of income:
-           Year ended 30 June 2001
+  Year ended 30 June 2001
 
 Legislative References:
 
@@ -57,18 +50,17 @@ Income Tax Assessment Act 1936   section 112BA
 Keywords
 
 Reinsurance & reinsurers
-          Life insurance company
-          Life assurance income
-
+ Life insurance company
+ Life assurance income
 
 Siebel/TDMS Reference Number:
-         3791123
+  3791123
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         31 October 2003
+  31 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

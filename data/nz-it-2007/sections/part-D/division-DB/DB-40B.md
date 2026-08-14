@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person incurs expenditure in the development of software for use in the person’s business if—
+**(1)**  This section applies when a person incurs expenditure in the development of software for use in the person's business if—
 
 - (a) the development of the software is abandoned when the copyright in the software is not depreciable property of the person; and
 

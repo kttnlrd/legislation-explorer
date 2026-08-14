@@ -3,18 +3,14 @@ ATO ID 2010/43
 ==================================================
 
 Income Tax
-        Functional currency choice: initial exchange of currency under a cross-currency interest rate swap
-        FOI status: may be released
-
-
+ Functional currency choice: initial exchange of currency under a cross-currency interest rate swap
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the initial exchange of payments made in a cross currency interest rate (CCIR) swap subject to the two step translation under section 960-85 of the Income Tax Assessment Act 1997 (ITAA 1997), where the CCIR swap is entered into before the effective time of a functional currency choice under item 1 of subsection 960-60(1) of the ITAA 1997?
@@ -31,37 +27,31 @@ Reasons for Decision
 Section 960-85 of the ITAA 1997 states:
 
 Special rule about translation
-               -
-              events that happened before the current choice took effect
-
+ -
+ events that happened before the current choice took effect
 
 Australian resident required to prepare financial reports under section 292 of the Corporations Act 2001
 
-
 960-85(1) If:
 
-
 (a)as the result of a choice (the
-                    current choice
+ current choice
 ) made by you under item 1 of the table in subsection 960-60(1), subsection 960-80(1) requires that an amount be translated to the *applicable functional currency; and
 (b)the amount is attributable to an event that happened, or a state of affairs that came into existence, at a time (the
-                    event time
+ event time
 ) before the current choice took effect;
 
 the table has effect:
 
-
 Special rule about translation
-
 
 Item
 
-
 In this case
-                      ...
+ ...
 
 this is the result
-                      ...
+ ...
 
 1
 at the event time, no previous choice made by you under item 1 of the table in subsection 960-60(1) was in effect
@@ -80,19 +70,17 @@ Taxation Ruling TR 2007/5 'Income tax: functional currency - when is an amount n
 112. Where an amount to which section 960-85 potentially applies involves mainly a statutory concept, it is necessary to examine the income tax provision(s) giving rise to the existence of this amount, in order to determine whether there is a relevant 'event time', for the purposes of section 960-85.
 
 TR 2007/5 emphasises that section 960-85 of the ITAA 1997 applies only to
-          relevant
-           'pre-choice' amounts (being amounts attributable to events that happened or states of affairs that came into existence before the effective time of a functional currency choice).
+ relevant
+ 'pre-choice' amounts (being amounts attributable to events that happened or states of affairs that came into existence before the effective time of a functional currency choice).
 Section 960-85 of the ITAA 1997 is essentially targeting
-          amounts in existence
-           at the effective time of the functional currency choice, which are
-          elements
-           in, or are amounts
-          included
-           in, the calculation of assessable income and allowable deductions for post functional currency choice income years.
+ amounts in existence
+ at the effective time of the functional currency choice, which are
+ elements
+ in, or are amounts
+ included
+ in, the calculation of assessable income and allowable deductions for post functional currency choice income years.
 Where amounts of income and deductions have been included in the calculation of taxable income or a tax loss in an income year prior to the effective time of choice - and have no effect on the calculation of taxable income or tax loss in a 'post-choice' year - they are not (in this sense) 'in existence' at the time of choice and are not, in any case, relevant amounts.
 To put it another way, generally (exceptions would be trading stock on hand or a Division 36 of the ITAA 1997 loss) section 960-85 of the ITAA 1997 does not apply to amounts that have been included in the calculation of taxable income in a 'pre-choice' year of income because:
-
-
 
 •such an amount has no future ongoing tax significance and so is not a 'relevant' amount; and
 •there is effectively no amount 'in existence' at the effective time of the functional currency choice that can be translated - given that the amount has already been included in the calculation of taxable income in a prior year.
@@ -101,10 +89,10 @@ With regard to the initial exchange of payments, there was a potential impact on
 The relevant point is that the legal rights and obligations under the initial exchange of payments were not created in exchange for the legal rights and obligations under the final exchange of payments. Rather, the initial exchange of payments on 20 June 2003 created legal rights and obligations only in respect of that initial exchange. Likewise, the final exchange of payments will create legal rights and obligations on 31 December 2012 only in respect of that final exchange. The amount of any gain or loss on the final exchange on 31 December 2012 will be worked out simply by comparing the actual AUD and USD amounts exchanged on that date.
 Accordingly, the initial exchange of payments had no future ongoing tax significance. Further, there was an amount (even though it was a nil amount) relevant to the calculation of taxable income in the year ended 30 June 2003. Therefore, there is no amount in relation to the initial exchange of payments that will be 'in existence' at the effective time of the functional currency choice and which can potentially be subject to translation under section 960-85.
 Date of decision:
-         20 January 2010
+  20 January 2010
 
 Year of income:
-           Year ending 30 June 2010 Year ending 30 June 2011 Year ending 30 June 2012 Year ending 30 June 2013
+  Year ending 30 June 2010 Year ending 30 June 2011 Year ending 30 June 2012 Year ending 30 June 2013
 
 Legislative References:
 
@@ -123,19 +111,18 @@ Related ATO Interpretative Decisions
 Keywords
 
 Applicable functional currency
-          Interest rate swaps
-          Currency swaps
-          Functional currency choice
-
+ Interest rate swaps
+ Currency swaps
+ Functional currency choice
 
 Siebel/TDMS Reference Number:
-         1-1V1XR4W
+  1-1V1XR4W
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         19 February 2010
+  19 February 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

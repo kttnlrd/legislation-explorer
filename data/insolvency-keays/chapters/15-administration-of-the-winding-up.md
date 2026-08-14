@@ -1,3 +1,11 @@
+---
+act: "Keay's Insolvency"
+source: "Keays Insolvency Textbook by Phillip Keays, LexisNexis"
+chapter: 15
+title: "Administration of the Winding Up"
+slug: "15-administration-of-the-winding-up"
+---
+
 # Chapter 15: Administration of the Winding Up
 
 Administration of the Winding
@@ -34,7 +42,7 @@ Administration of the Winding
 [15.145] Rationale for examinations ............................................................................ 581
 [15.150] Beneﬁts .............................................................................................................. 582
 [15.155] Nature of the power ....................................................................................... 582
-564         Keay’s Insolvency: Personal and Corporate Law and Practice
+564         Keay's Insolvency: Personal and Corporate Law and Practice
 
 [15.160] Function of examinations .............................................................................. 583
 [15.165] Abuse of process ............................................................................................. 584
@@ -61,7 +69,7 @@ Administration of the Winding
     [15.275] Penalties and ﬁnes ..................................................................................................... 598
     [15.280] Estimate of claims of uncertain value – s 554A ................................................... 599
     [15.285] Set-off ............................................................................................................................ 599
-    [15.290] Contributories’ claims: s 553A ................................................................................. 600
+    [15.290] Contributories' claims: s 553A ................................................................................. 600
     [15.295] Role of the liquidator in deciding upon proofs of debt ..................................... 601
 [15.305] Secured creditors ............................................................................................. 603
 [15.310] Pooling .............................................................................................................. 605
@@ -117,21 +125,21 @@ the power to assign personal rights of action (Div 100). As we discussed in Chap
 to the implementation of the ILRA. We, instead, assume that readers are operating
 with the new law. Our aim is to explain the law as we see it, not to compare and
 contrast what the law is, with what it used to be.
-One essential aspect of the liquidator’s administration of a winding up is the
+One essential aspect of the liquidator's administration of a winding up is the
 location and recovery of property that is available to the creditors, discussed in
 Chapter 14. In Chapter 16 we will examine a particular aspect of recovery of
 property, that is, from directors and others.
-566      Keay’s Insolvency: Personal and Corporate Law and Practice                             [15.10]
+566      Keay's Insolvency: Personal and Corporate Law and Practice                             [15.10]
 
 In administering a company which is in the process of being wound up, a
 liquidator must bear in mind two of the purposes of liquidations which were
 identiﬁed earlier: ﬁrst, liquidation provides a procedure which allows for an
 equitable and fair distribution of the assets of the company among its creditors
 after the orderly collection and realisation of the assets, and secondly, liquidation is
-designed to allow for an investigation of the company’s affairs.
+designed to allow for an investigation of the company's affairs.
 In essence, the administration of a winding up involves taking possession of assets
 of the company, realising those assets, determining who are creditors of the
-company, applying the proceeds of the company’s assets towards payment of the
+company, applying the proceeds of the company's assets towards payment of the
 creditors, and having the company deregistered. Deregistration is discussed in
 Chapter 17.
 
@@ -151,7 +159,7 @@ explained at [13.40], if officers hold the books they are subject to a duty unde
 s 530A of the Corporations Act to deliver them to the liquidator as soon as
 practicable after the winding up, or to inform the liquidator where they are. In any
 event and in relation to books and records held by anyone the liquidator may
-demand them by giving at least three days’ written notice: s 530B, with penalties
+demand them by giving at least three days' written notice: s 530B, with penalties
 for refusal of a ﬁne of up to $10,500 or a one-year jail term or both: Sch 3.
 Section 530C allows a liquidator to apply to the court for a warrant to search for
 and seize property or books of a company. This can include electronic information
@@ -176,21 +184,21 @@ be a prima facie entitlement: Re Mischel & Co Pty Ltd (in liq) [2014] VSC 140.
 Assistance from officers and employees
 [15.20]   In the initial stages of the winding up, the liquidator will usually want to
 interview the officers or the former officers of the company (such as directors and
-the company secretary) and those employees involved in the company’s
+the company secretary) and those employees involved in the company's
 management. This is done for a variety of reasons, including:
-• ascertaining the extent of the company’s property and debts;
+• ascertaining the extent of the company's property and debts;
 • discovering the reason for the failure of the company;
 • ascertaining whether there has been any wrongdoing; and
-• generally obtaining a grasp of the company’s affairs.
+• generally obtaining a grasp of the company's affairs.
 Speciﬁc duties, which are akin to those that are placed on bankrupts, are imposed
 on the officers or former officers of companies in liquidation to assist the liquidator.
-If the directors don’t assist the liquidator, or where they don’t complete the Report
+If the directors don't assist the liquidator, or where they don't complete the Report
 As To Affairs of the company (the RATA), then they will lose the beneﬁt of any safe
 harbour period that may apply in respect of debts incurred prior to the
 commencement of the liquidation: s 588GA(5).
 Section 530A also requires officers attend on the liquidator and give information
-about the company’s affairs and business and attend at any members’ and
-creditors’ meetings as the liquidator reasonably requires (s 530A(2)), and assist
+about the company's affairs and business and attend at any members' and
+creditors' meetings as the liquidator reasonably requires (s 530A(2)), and assist
 generally in the winding up: s 530A(3). They must provide the liquidator, on
 request, with their residential and business addresses: s 530A(5).
 As an officer of the company, a receiver is subject to s 530A and must generally
@@ -201,18 +209,18 @@ company on oath before a court (under ss 596A or 596B) at a later stage. Public
 examinations are discussed at [15.125] – [15.200].
 
 Taking possession of property
-[15.25] The liquidator’s principal duty is to take possession of the company
+[15.25] The liquidator's principal duty is to take possession of the company
 property. Section 478(1) of the Corporations Act requires the liquidator to do
 everything to collect the property of the company and s 474(1) provides the
 liquidator with authority to take into custody all of the property to which the
 company is, or appears to be, entitled.2 A liquidator will do this as soon as possible
 so that assets cannot be disposed of or concealed. In some cases it may be necessary
-for a liquidator to arrive on the doorstep of a company’s office or factory soon after
+for a liquidator to arrive on the doorstep of a company's office or factory soon after
 the making of a winding up order where there is concern about the security of the
 assets or books of the company.
 
 2 This includes PPSA retention of title property: Corporations Act, s 465.
-568    Keay’s Insolvency: Personal and Corporate Law and Practice                    [15.30]
+568    Keay's Insolvency: Personal and Corporate Law and Practice                    [15.30]
 
 If property is in the hands of a third party who refuses to hand it over, the
 liquidator may seek an order from the court requiring that person to deliver it up:
@@ -236,13 +244,13 @@ include:
 • initial remuneration notice (IPRC, s 70-35); and
 • report to assist with remuneration determinations (IPRC, s 70-45).
 
-The liquidator’s various statutory reports to creditors
+The liquidator's various statutory reports to creditors
 Report or notice               IPRC     Timing
                               section
 Initial information report,   s 70-30   Court winding up – within 20 business days after
 which includes the fact of              appointment;
 the appointment and                     Voluntary winding up – within 10 business days
-outlines creditors’ rights              after the company resolves to wind up
+outlines creditors' rights              after the company resolves to wind up
 to information etc
 Initial remuneration          s 70-35  Court winding up – within 20 business days after
 notice                                 appointment;
@@ -264,7 +272,7 @@ Commissioners for Pay-Roll Tax.
 
 A liquidator must also notify the Commonwealth Department of Human Services
 of their appointment, if the company was a paid parental leave employer:
-Corporations Act, s 600AA. This would be the case if any of the company’s
+Corporations Act, s 600AA. This would be the case if any of the company's
 employees were on paid parental leave under the Paid Parental Leave Act 2010 (Cth).
 
 RELATIONS WITH CREDITORS
@@ -273,20 +281,20 @@ necessary that the liquidator maintain open and informed relations with them.
 Apart from being under a duty to realise and recover company assets in order to
 maximise the ultimate dividends, if any, paid to creditors, the liquidator will need
 to explain to the creditors the reasons why the company failed and generally to
-report on the company’s affairs. The liquidator needs to be sensitive to the losses
+report on the company's affairs. The liquidator needs to be sensitive to the losses
 that creditors have suffered. In City & Suburban v Smith (1998) 28 ACSR 328, 338, the
 court found that the liquidator had:
-   “carried out his tasks in respect of the liquidation with some insensitivity to the angst of
+   "carried out his tasks in respect of the liquidation with some insensitivity to the angst of
    the members of the Committee of Inspection who represent trade creditors that suffered
-   signiﬁcant losses as a result of Conpac’s liquidation.”
+   signiﬁcant losses as a result of Conpac's liquidation."
 His conduct gave some justiﬁcation for the apprehension of members of the
 Committee in light of his approval, as administrator, of payment of entertainment
-expenses for a “director’s wake following the appointment of a voluntary
-administrator”.
+expenses for a "director's wake following the appointment of a voluntary
+administrator".
 Apart from that aspect of dealing with creditors, and as we explained in the context
 of bankruptcy in Chapter 6, creditors may know much about the assets and the
 dealings of the company and its directors in the period leading up to the
-company’s liquidation which will be of assistance to the liquidator.
+company's liquidation which will be of assistance to the liquidator.
 The ILRA has made a large number of changes to the Corporations Act which
 provide further rights and powers to creditors, including:
 • the power to remove a liquidator (IPSC, s 90-35);
@@ -297,17 +305,17 @@ These will be discussed further below. We ﬁrst explain the increased authority
 given to committees of inspection by the ILRA.
 
 Committees of inspection
-[15.40] Sometimes there are so many creditors in a liquidation that any creditors’
+[15.40] Sometimes there are so many creditors in a liquidation that any creditors'
 meeting is too large and cumbersome to be able to assist in and supervise the
 administration of a liquidation. A smaller group – a committee of inspection – may
 be constituted by all the creditors to supervise and assist the liquidator.3
 Additionally, members of the committee may be appointed to safeguard the
 interests of particular groups or people.
 
-3 Harris, “Committees of inspection under the Insolvency Law Reform Act 2016” (2017) 18 Insolv LB
-  179; Harris, “Enhancing the Role of Creditors’ Committees in Corporate Rescue Laws” in Sarra (ed),
+3 Harris, "Committees of inspection under the Insolvency Law Reform Act 2016" (2017) 18 Insolv LB
+  179; Harris, "Enhancing the Role of Creditors' Committees in Corporate Rescue Laws" in Sarra (ed),
   Annual Review of Insolvency Law 2011 (Carswell Thomson Reuters, 2011) pp 675-701.
-570     Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.40]
+570     Keay's Insolvency: Personal and Corporate Law and Practice                            [15.40]
 
 The liquidator will usually raise with a meeting of creditors whether it wishes to
 have a committee. In complex liquidations in which there is likely to be
@@ -333,8 +341,8 @@ The membership of the committee can be constituted by any of the creditors: IPSC
 s 80-15. It acts by majority decision of members present, but must not act unless a
 majority are present: IPRC, s 80-5(6).
 ASIC may attend any committee of inspection meeting (IPSC, s 80-65) and the court
-may inquire into a committee’s conduct and make any orders to “ensure the proper
-conduct of the committee”: IPSC, s 80-70.
+may inquire into a committee's conduct and make any orders to "ensure the proper
+conduct of the committee": IPSC, s 80-70.
 Committee members are regarded as occupying ﬁduciary positions and they must
 accordingly rather than in their own interest alone. It follows that they must ensure
 that they do not place themselves in a situation where their personal interests
@@ -343,11 +351,11 @@ committee are not permitted to derive any advantage from a transaction for or on
 account of the company, subject to court leave: IPSC, ss 80-55, 80-60. Under the
 former law, the court has at times permitted committee members to be
 remunerated, in one case, allowing payment of $5000 each to six committee
-members who had “labour[ed] long and beyond the call of duty” over a period of
+members who had "labour[ed] long and beyond the call of duty" over a period of
 six years.4
 Any member of the committee, or the liquidator, may call a meeting of the
 committee (IPRC, s 80-5).
-A member’s position on the committee becomes vacant on resignation, or if he or
+A member's position on the committee becomes vacant on resignation, or if he or
 she becomes a bankrupt, is absent from ﬁve consecutive meetings without leave or
 
 4 Re Security Directors Pty Ltd (1997] VicSC 263; (1997) 24 ACSR 558; see also Re Genoa Resources and
@@ -361,7 +369,7 @@ ultimate decision-making power in the liquidator. The liquidator must have regar
 to the directions of the creditors or the committee but he or she need not follow
 them. In that case, the external administrator must record their decision, and their
 reasons IPSC, s 80-35(3). In any conﬂict between the creditors and the committee,
-the creditors may override the committee’s directions: IPSCs 80-35(4).5
+the creditors may override the committee's directions: IPSCs 80-35(4).5
 If a particular issue is contentious, it may be prudent for the liquidator to seek
 directions from the court, under IPSC, s 90-15.
 Creditors and committees have an important role in insolvency administrations
@@ -369,7 +377,7 @@ which is respected by the courts and regulators. In removing the liquidator in C
 & Suburban v Smith [1998] FCA 822; (1998) 28 ACSR 328 for reasons that included
 the inadequacy of his investigations, the court said that the:
    inadequacy is exacerbated by the fact that the Committee of Inspection had called upon
-   the liquidator ’time and again’ to investigate those transactions and complained on many
+   the liquidator 'time and again' to investigate those transactions and complained on many
    occasions that he had not done so.6
 
 Informing creditors
@@ -377,14 +385,14 @@ Informing creditors
 in particular on such matters as the reasons for the liquidation, the likely dividend
 to be payable, the results of investigations and the realisation of assets. This is
 required in the statutory report that must be sent to creditors under IPRC, s 70-40
-within three months after the liquidator’s appointment, but the liquidator will
+within three months after the liquidator's appointment, but the liquidator will
 usually provide supplementary written reports and/or or verbal reports to
 creditors through meetings and paper and online correspondence during the course
 of the liquidation. This will however, depend on the costs of communications
 relative to the assets available and the importance of the issues being communicated.
 None of this need be seen as onerous, and the liquidator need only report to the
 appropriate level dependent on the size of the estate and the available information.
-From a creditor’s viewpoint, it is basic information that they should expect to
+From a creditor's viewpoint, it is basic information that they should expect to
 receive early on in a liquidation.
 It is now common for liquidators to limit the costs of communications by
 establishing websites where creditors in a particular liquidation can access
@@ -398,15 +406,15 @@ with ASIC under IPSC, s 70-5) must also be given by the liquidator to creditors:
   ACSR 716; Onefone Australia Pty Ltd v One.Tel Ltd [2008] NSWSC 1335; (2008) 69 ACSR 290; Re
   Imobridge Pty Ltd [2000] 2 Qd R 280.
 6 Applied in SingTel Optus Pty Ltd v Weston [2012] NSWSC 674; (2012) 90 ACSR 225.
-572    Keay’s Insolvency: Personal and Corporate Law and Practice                  [15.50]
+572    Keay's Insolvency: Personal and Corporate Law and Practice                  [15.50]
 
 Throughout the liquidation, creditors may want further information, and are
 entitled to expect a reasonable response to any queries they have. There is now an
 expanded regime with which the liquidator must comply unless speciﬁed
-circumstances exist, including that the request is “unreasonable”” as deﬁned in the
+circumstances exist, including that the request is "unreasonable"" as deﬁned in the
 Rules. The same regime applies in personal insolvency.
 IPSC, s 70-40 permits creditors, by resolution, to request the liquidator to give them
-information, or provide a report or produce a document (“information etc”). There
+information, or provide a report or produce a document ("information etc"). There
 is also a similar right given to individual creditors under IPSC, s 70-45. The
 liquidator must comply with the request unless (IPSC, ss 70-40(2), 70-45(2)):
 (a) the information etc is not relevant to the external administration of the
@@ -418,9 +426,9 @@ liquidator must comply with the request unless (IPSC, ss 70-40(2), 70-45(2)):
 Relevance and breach of duty
 [15.50] As to (a) and (b), it is a matter for the liquidator, acting bona ﬁde, to
 determine whether the request should be complied with.
-As we explain in relation to bankruptcy trustees, as a matter of practice, creditors’
+As we explain in relation to bankruptcy trustees, as a matter of practice, creditors'
 requests should properly be met, unless there is a valid reason not to. Although
-creditors are central to any liquidation, it is ultimately a matter for the liquidator’s
+creditors are central to any liquidation, it is ultimately a matter for the liquidator's
 judgment, on which legal advice or court directions may be required. Relevance
 can usually be ascertained by the liquidator bearing in mind the wider range of
 interests in a company external administration. Whether a breach of duties may be
@@ -429,7 +437,7 @@ Simply because the Corporations Act does not prevent disclosure is not enough, b
 some reason should exist not to disclose.
 If acting bona ﬁde, and reasonably, a liquidator should properly not be held to
 account by a court if, on challenge by the creditors, the court reverses the
-liquidator’s decision.
+liquidator's decision.
 
 Reasonable or unreasonable
 [15.55] The parameters for a request being considered reasonableare the same in
@@ -453,7 +461,7 @@ acting in good faith, is of the opinion that:
     conﬁdence.
     The tort of breach of conﬁdence is explained in Chapter 6; or
 (d) there is not sufficient available property to comply with the request.
-     More precisely, the company’s assets are not enough to cover the liquidator’s
+     More precisely, the company's assets are not enough to cover the liquidator's
      remuneration and expenses in responding to the request. In that respect
      Corporations Act, s 545 may be relied upon; or
 (e) the information etc has already been provided.
@@ -475,7 +483,7 @@ should be assessed as vexatious.7
 The decision of the liquidator
 [15.60] For the sake of clarity, the section provides that it is reasonable for the
 liquidator to comply with a request if none of these items apply.
-On the other hand, it might be assumed that even if the request is “unreasonable”
+On the other hand, it might be assumed that even if the request is "unreasonable"
 the liquidator may properly choose to respond to the request; for example, to
 provide information in an assetless liquidation, or where an otherwise vexatious
 request for information may readily be met.
@@ -483,14 +491,14 @@ It is anticipated that the courts will interpret these provisions the same way i
 personal and corporate insolvency.
 
 Other rights of creditors
-[15.65] From the creditors’ perspective, although their rights are signiﬁcantly
+[15.65] From the creditors' perspective, although their rights are signiﬁcantly
 restricted by liquidation, they nevertheless can, and should, continue to be
 involved in the liquidation process. The law provides creditors with opportunities
 for involvement and certain rights and controls over the process. The most
 important of these opportunities and rights are that creditors may:
 
 7 See Federal Court of Australia Act 1976 (Cth), s 37M.
-574    Keay’s Insolvency: Personal and Corporate Law and Practice                [15.70]
+574    Keay's Insolvency: Personal and Corporate Law and Practice                [15.70]
 
 • require the liquidator to convene a meeting of creditors IPSC, s 75-15). This is
   only available for the committee of inspection (if one is appointed), and for
@@ -503,7 +511,7 @@ important of these opportunities and rights are that creditors may:
   court permission, inspect books of the company (s 486);
 • permit the liquidator both to compromise debts owed to the company which are
   greater than $100,000 (s 477(2A); reg 5.4.02) and to enter into agreements on the
-  company’s behalf extending more than three months after the agreement is
+  company's behalf extending more than three months after the agreement is
   entered into (s 477(2B), subject to s 477(2C));
 • resolve at a meeting to give the liquidator lawful (though non-binding)
   directions (IPSC, s 85-5);
@@ -511,10 +519,10 @@ important of these opportunities and rights are that creditors may:
   deﬁnition of a person with a ﬁnancial interest in the external administration in
   IPSC, s 5-30), including a determination of any question arising in relation to the
   liquidation, to appeal against a decision of the liquidator or (under IPSC, s 90-10)
-  to seek a court review of the liquidator’s conduct;
+  to seek a court review of the liquidator's conduct;
 • appoint a reviewing liquidator to review either or both of the remuneration of
   the liquidator or a cost or expense incurred by the liquidator (IPSC, s 90-24);
-• indemnify the liquidator’s remuneration and expenses in relation to litigation
+• indemnify the liquidator's remuneration and expenses in relation to litigation
   pursued or other actions taken by the liquidator, and thereby open up the
   potential to receive a priority dividend payment over other creditors under s 564;
 • determine or ﬁx the remuneration of the liquidator (IPSC, s 60-10) and apply to
@@ -523,15 +531,15 @@ Many of these rights of creditors are discussed in more detail throughout this a
 other chapters.
 
 Meetings of creditors
-[15.70] The law of creditors’ meetings has changed signiﬁcantly under the ILRA,
+[15.70] The law of creditors' meetings has changed signiﬁcantly under the ILRA,
 with most meeting rules moved from the substantive provisions of the Act and the
 Regulations and consolidated into IPSC, Div 75 and IPRC, Div 75. The new
-provisions remove the need for mandatory meetings in creditors’ voluntary
+provisions remove the need for mandatory meetings in creditors' voluntary
 liquidation (including the annual meeting and the ﬁnal meeting), as well as
 removing the need for a meeting when the members pass a special resolution
 appointing a liquidator, but the directors refuse to pass a declaration of solvency. In
-a creditors’ voluntary liquidation, the liquidator can choose to convene a creditors’
-meeting (IPSC, s 75-10) or may be required to convene a creditors’ meeting by
+a creditors' voluntary liquidation, the liquidator can choose to convene a creditors'
+meeting (IPSC, s 75-10) or may be required to convene a creditors' meeting by
 creditors holding at least 10% of the debts owed by the company (IPSC, s 75-15), or
 where ASIC requires that a meeting be held (IPSC, s 75-20).
 One of the signiﬁcant changes made by the ILRA is the ability for creditors to pass
@@ -562,28 +570,28 @@ potential issues that could impact on their independence or that otherwise
 represents a conﬂict of interest or duty. At the meeting, both the outgoing and
 incoming liquidators have a right to speak to the creditors. This assumes that there
 is an incoming liquidator. If creditors resolve simply to remove a liquidator, the
-removal doesn’t take effect until a new liquidator is appointed. The former
+removal doesn't take effect until a new liquidator is appointed. The former
 liquidator may apply to the court to be reinstated, although the court may only
-reinstate them where it is satisﬁed “that the removal of the former administrator
-was an improper use of the powers of one or more creditors”: IPSC, s 90-35(6).
+reinstate them where it is satisﬁed "that the removal of the former administrator
+was an improper use of the powers of one or more creditors": IPSC, s 90-35(6).
 It may be prudent and proper for a liquidator to report to a meeting concerning
 aspects of the investigations; the realisation of substantial assets and how the
 realisation should occur; obtaining of approval for initiating litigation or initiating
 extensive investigation procedures; and the seeking both of ﬁnancial indemniﬁcation
-and information concerning the company’s business dealings etc which may
-facilitate the liquidator’s investigations. Liquidators must also seek approval from
+and information concerning the company's business dealings etc which may
+facilitate the liquidator's investigations. Liquidators must also seek approval from
 the creditors or the committee of inspection for their remuneration determination
 under IPSC, s 60-10.
 Meetings must be convened at a date, time and place that the liquidator believes is
 most convenient for the majority of creditors: IPRC, s 75-30. A failure to comply
-with the requirements for holding creditors’ meetings will not necessarily
-invalidate a creditors’ meeting where either the court makes an order under s 1322
+with the requirements for holding creditors' meetings will not necessarily
+invalidate a creditors' meeting where either the court makes an order under s 1322
 (for curing procedural irregularities) or where there has at least been substantial
 compliance (IPRC, s 75-270).8
 
 8 See the ARITA Code at Chapter 21 for guidance on the conduct of meetings during external
   administration.
-576      Keay’s Insolvency: Personal and Corporate Law and Practice            [15.75]
+576      Keay's Insolvency: Personal and Corporate Law and Practice            [15.75]
 
 Notice
 [15.75] The liquidator is required to give not less than 10 business days notice of
@@ -605,8 +613,8 @@ number of persons sufficient to make a quorum. If there is no quorum within
 30 minutes of the appointed time, the meeting will be adjourned: IPRC, s 75-105(4).
 
 Chair
-[15.85]    At any meeting, the liquidator must be the chair (“must preside at the
-meeting”), or their nominee: IPRC, s 75-50(2). The chair has a casting vote where a
+[15.85]    At any meeting, the liquidator must be the chair ("must preside at the
+meeting"), or their nominee: IPRC, s 75-50(2). The chair has a casting vote where a
 resolution has not achieved the required majority in number and value, although
 the casting vote cannot be used for remuneration determinations or to oppose a
 resolution to remove the liquidator: IPRC s 75-115(3). Where the chair has a
@@ -619,7 +627,7 @@ independent chair was nominated.
 Minutes
 [15.90] Within one month of a meeting, the chair must prepare signed minutes
 and lodge them with ASIC. The minutes must be available for inspection at the
-liquidator’s office. A record of the persons present at the meeting, in person or by
+liquidator's office. A record of the persons present at the meeting, in person or by
 proxy, must also be prepared and kept: IPRC, s 75-145: ASIC Form 5011.
 
 Adjournment
@@ -641,14 +649,14 @@ Right to vote
 [15.100] A creditor has the right to vote at a meeting if its debt9 has been
 admitted wholly or in part, or if it has lodged with the chair the particulars of the
 debt or, if required, a formal proof of debt: IPRC, s 75-85(3). In the case of an
-unliquidated or contingent debt, an estimate of the debt’s value must be made by
+unliquidated or contingent debt, an estimate of the debt's value must be made by
 the creditor: IPRC, s 75-85(4). This process was explained (applying the former
 regulations) in Selim v McGrath [2003] NSWSC 927; (2003) 47 ACSR 537 at [103],
 that:
-   “reg 5.6.23, in requiring a just estimate of value to be made, does not contemplate that the
+   "reg 5.6.23, in requiring a just estimate of value to be made, does not contemplate that the
    chairperson or administrator will undertake any detailed inquiry. He or she will do the
    best that can be done by reference to the factual material the claimant furnishes, view in
-   the total context with which the decision-maker is dealing.”
+   the total context with which the decision-maker is dealing."
 Unless a secured creditor surrenders its security, it can only vote in respect of the
 difference between the estimated value of the security and the amount of its claim:
 IPRC, s 75-87. If a secured creditor votes on a poll and does not include a valuation
@@ -658,7 +666,7 @@ result that the secured creditor is waiving its security: Young v ACN 081 162 51
 Ltd [2005] NSWSC 139; (2005) 52 ACSR 629.
 The chair can admit or reject a proof of debt for the purposes of voting: IPRC, ss
 75-90, 75-100.10 A dissatisﬁed creditor may appeal to the court within 14 days of the
-chair’s decision: IPRC, s 75-100(4). It is also possible for the chair to admit the proof
+chair's decision: IPRC, s 75-100(4). It is also possible for the chair to admit the proof
 for a nominal amount (for example $1) to allow the purported creditor to attend
 and participate in the meeting. This may be done where insufficient evidence to
 prove the debt has been provided by the creditor: Selim v McGrath [2003] NSWSC
@@ -672,17 +680,17 @@ only one vote no matter on how many occasions it has advanced money: IPRC, ss
 75-86.
 
 Resolutions
-[15.105] Resolutions of creditors are to be decided “on the voices” unless a
-“poll” is demanded by the chair: IPRC, s 75-110(1). A vote will typically be taken on
+[15.105] Resolutions of creditors are to be decided "on the voices" unless a
+"poll" is demanded by the chair: IPRC, s 75-110(1). A vote will typically be taken on
 
 9 See the discussion in Phoenix Lacquers & Paints Pty Ltd v Free Wesleyan Church of Tonga in Australia Inc
   [2012] NSWSC 214; (2012) 87 ACSR 658 of what is a debt for this purpose.
 10 See further Selim v McGrath [2003] NSWSC 927; (2003) 47 ACSR 537.
-578      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.110]
+578      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.110]
 
 a show of hands. In Kantﬁeld Pty Ltd v Plastamatic (Aust) Pty Ltd (1994) 14 ACSR 687
 the Victorian Supreme Court was required to decide whether a vote by a show of
-hands had fulﬁlled the requirement that the vote be “on the voices”. The court was
+hands had fulﬁlled the requirement that the vote be "on the voices". The court was
 of the view that the intention behind the statement in the regulation was to allow
 for a less formal vote compared with the situation where there is a poll. It accepted
 the submission that the requirement of a vote on the voices as opposed to the
@@ -703,18 +711,18 @@ liquidator will involve investigative work. Although the liquidator must locate 
 recover assets, and ascertain the circumstances which precipitated the liquidation,
 the duty had traditionally been said to extend beyond this. In Re Allebart Pty Ltd
 [1971] 1 NSWLR 24 Street J said (at 26):
-   “… A court winding up involves more than a mere realization of the assets and
+   "… A court winding up involves more than a mere realization of the assets and
    distribution of proceeds. The ... liquidator is an officer of the Court, and as such he has
    public responsibilities to investigate past activities connected with the company, and, in
    appropriate cases, to initiate such further proceedings, civil or criminal, connected
    therewith as the circumstances may dictate. It is his duty to discover not only breaches of
    the Companies Act, but also conduct falling short of the requisite standards of commercial
-   morality. …”.
+   morality. …".
 
-To this end the liquidator will examine the company’s books, records, cash receipts,
+To this end the liquidator will examine the company's books, records, cash receipts,
 bank accounts, dealings with others and disposal of assets, as well as interviewing
-the officers and employees of the company. The extent of the liquidator’s
-investigations will depend on the size of the company, the nature of the company’s
+the officers and employees of the company. The extent of the liquidator's
+investigations will depend on the size of the company, the nature of the company's
 affairs and assets, the attitude of the officers and the circumstances surrounding the
 liquidation.
 
@@ -722,8 +730,8 @@ liquidation.
    (1995) 17 ACSR 139; Re HIH Casualty and General Insurance Ltd [2006] NSWSC 485; (2006) 57 ACSR
    791.
 12 See DCT v Wellnora Pty Ltd [2007] FCA 1234; (2007) 163 FCR 232 at [219]; Promnitz v Indochine Mining
-   Ltd [2015] FCA 857. See also Khong, “The Casting Vote: An Evaluation of the Current Law and
-   Alternatives to the Casting Vote” (2010) 18 Insolv LJ 16.
+   Ltd [2015] FCA 857. See also Khong, "The Casting Vote: An Evaluation of the Current Law and
+   Alternatives to the Casting Vote" (2010) 18 Insolv LJ 16.
 [15.120]                                                    15 Administration of the Winding Up      579
 
 Such investigations, and their time and cost, have to be measured against the
@@ -733,7 +741,7 @@ protection of legal professional privilege, the liquidator takes over the privil
 the company and can assert it or waive it: Re Doran Constructions Pty Ltd [2002]
 NSWSC 215; (2002) 20 ACLC 909. One issue that can arise is whether the privilege
 of the company held jointly or in common with the directors of the company passes
-to the liquidator and is lost if the liquidator waives the privilege to the directors’
+to the liquidator and is lost if the liquidator waives the privilege to the directors'
 prejudice. The directors may be able to nevertheless assert their privilege in such
 cases: Farrow Mortgage Services Pty Ltd v Webb (1996) 39 NSWLR 601.14 This
 privilege is examined in more detail in the context of examinations: see [15.195].
@@ -751,7 +759,7 @@ after their appointment under IPRC, s 70-40, which covers:
 (e) the likelihood of creditors receiving a dividend before the affairs of the
     company are fully wound up;
 (f) possible recovery actions.
-The report replaces the former ‘preliminary report’ which was required 2 months
+The report replaces the former 'preliminary report' which was required 2 months
 after the RATA under the former s 476 (now repealed).
 The statutory report must be provided to creditors and lodged with ASIC: ASIC
 Form 5601.
@@ -768,7 +776,7 @@ s 533(1) of the Corporations Act must be lodged with ASIC if:
    discussed in Chapter 10.
 14 See also Great Southern Managers Australia Ltd v Clarke [2012] VSCA 207; (2012) 36 VR 308.
 15 Broadly deﬁned in s 9 to be offences against Commonwealth, State or Territory laws.
-580     Keay’s Insolvency: Personal and Corporate Law and Practice                           [15.125]
+580     Keay's Insolvency: Personal and Corporate Law and Practice                           [15.125]
 
 • the company is unable to pay unsecured creditors more than 50 cents in the
   dollar.16
@@ -777,13 +785,13 @@ liquidator must also indicate whether there will be public examinations held.
 A further supplementary report may also be lodged (s 533(2)) – Schedule C to
 Regulatory Guide 16.
 The preparation of these reports necessarily requires the liquidator to have
-conducted investigations into the company’s affairs. Section 545 seems to assume
+conducted investigations into the company's affairs. Section 545 seems to assume
 that these investigations must be conducted even though there are no funds for the
-liquidator’s remuneration in doing so. While ASIC acknowledges that in many
+liquidator's remuneration in doing so. While ASIC acknowledges that in many
 cases the liquidator may not have sufficient funds available to prepare a detailed
 report, or to pursue inquiries based on incomplete information, the expectation is
 that proper investigations should be made. Funds for investigations are available
-under ASIC’s Assetless Administration Fund in certain cases.
+under ASIC's Assetless Administration Fund in certain cases.
 
 EXAMINATIONS
 [15.125] Examinations in corporate insolvency are permitted under either
@@ -797,7 +805,7 @@ an eligible applicant (deﬁned in s 9 to include a liquidator, administrator, A
 person authorised by ASIC – see further [15.140]) applies for the summons and the
 prospective examinee was an officer or provisional liquidator of the company, for
 the most part, during the two years prior to the commencement of the winding up
-or after the winding up began. “Examinable affairs” is deﬁned in s 9 and is
+or after the winding up began. "Examinable affairs" is deﬁned in s 9 and is
 discussed at [15.170]. The examination is held in open court usually before a
 registrar.
 
@@ -807,12 +815,12 @@ order that certain persons may be summonsed to an examination. These are
 persons who:
 • have taken part in or been concerned in the examinable affairs of the company;
 • may have been guilty of misconduct in relation to the company; and
-• may be able to give information about the company’s examinable affairs.
+• may be able to give information about the company's examinable affairs.
 
 16 See ASIC Form EX01, Schedule B to ASIC Regulatory Guide 16 (RG 16).
-17 For more detailed discussion, see Paltridge, “The Scope and Effectiveness of Examinations Pursuant
-   to Division 1 of Part 5.9 of the Corporations Law” (1997) 6 CBLJ 59; and Maiden, “Tensions Between
-   the Public and Private Purposes of Examinations under Pt 5.9 of the Corporations Act 2001 (Cth)”
+17 For more detailed discussion, see Paltridge, "The Scope and Effectiveness of Examinations Pursuant
+   to Division 1 of Part 5.9 of the Corporations Law" (1997) 6 CBLJ 59; and Maiden, "Tensions Between
+   the Public and Private Purposes of Examinations under Pt 5.9 of the Corporations Act 2001 (Cth)"
    (2004) 12 Insolv LJ 28.
 [15.145]                                               15 Administration of the Winding Up    581
 
@@ -825,7 +833,7 @@ will, as it is with a bankrupt, be a formality18 provided that the court is sati
 that the prospective examinee comes within the necessary deﬁnition.
 
 Eligible applicant may apply
-[15.140] Anyone who is an “eligible applicant” may seek an examination. The
+[15.140] Anyone who is an "eligible applicant" may seek an examination. The
 expression is deﬁned in s 9 of the Corporations Act and, in addition to the liquidator,
 includes ASIC, a provisional liquidator, a voluntary administrator or administrator
 of a deed of company arrangement, or a person authorised in writing by ASIC.19
@@ -857,11 +865,11 @@ the liquidator to overcome the disability of not knowing as much about the
 company and its affairs as the directors and others: Adler v Qintex Group
 Management Services Pty Ltd [1996] QCA 464; (1996) 22 ACSR 446.
 
-18 “Explanatory Memorandum to the Corporate Law Reform Bill 1992 (Cth)”, [1155].
+18 "Explanatory Memorandum to the Corporate Law Reform Bill 1992 (Cth)", [1155].
 19 The principles concerning the person who might be authorised by ASIC were discussed in Worthley
    v England (1994) 52 FCR 69; Evans v Wainter Pty Ltd [2005] FCAFC 114; (2005) 145 FCR 176 and
    Saraceni v ASIC [2013] FCAFC 42; (2013) 211 FCR 298.
-582      Keay’s Insolvency: Personal and Corporate Law and Practice                           [15.150]
+582      Keay's Insolvency: Personal and Corporate Law and Practice                           [15.150]
 
 There are other reasons why a liquidator may seek to examine someone. It may be
 necessary to obtain answers to questions on oath and also recorded in court
@@ -893,7 +901,7 @@ examine is very broad and is inquisitorial in nature: Rees v Kratzmann (1965) 11
 CLR 63.20 The examinee is not called by a party to litigious proceedings, as is the
 usual situation with a witness; rather the examinee is the witness of the court. A
 court registrar usually presides at the examination to see that it is conducted fairly.
-The power extends beyond Australia’s borders: Waller v Freehills [2009] FCAFC 89;
+The power extends beyond Australia's borders: Waller v Freehills [2009] FCAFC 89;
 (2009) 177 FCR 507.
 The examination section is a far-reaching provision and confers extraordinary
 powers on the court, and its registrar, and the powers of the liquidator to ask for
@@ -919,7 +927,7 @@ Derrington J held:
    the further removed from the operation of the company a person has been, the less likely
    it is that they might be able to provide information about the examinable affairs. Where,
    as in this case, the proposed examinee had no direct contact or dealings with the
-   company, the scope of the requirement that the proposed examinee “may” be able to give
+   company, the scope of the requirement that the proposed examinee "may" be able to give
    information requires careful consideration.
 
 In that case the court stated that it was important to determine whether the
@@ -930,18 +938,18 @@ examinee does in fact possess the information.
 
 Function of examinations
 [15.160] The broad function of both ss 596A and 596B of the Corporations Act is
-to enable the liquidator to be better informed about the company’s examinable
+to enable the liquidator to be better informed about the company's examinable
 affairs so that the winding up of the company can be more effectively administered:
 Re South Paciﬁc Energy Trading Pty Ltd (1996) 21 ACSR 435. The same general
 rationale applies in bankruptcy.
 Mason CJ of the High Court in Hamilton v Oades (1989) 166 CLR 486, 496, said:
-   “There are the two important public purposes that the examination is designed to serve.
+   "There are the two important public purposes that the examination is designed to serve.
    One is to enable the liquidator to gather information which will assist him in the winding
    up; that involves protecting the interests of creditors. The other is to enable evidence and
    information to be obtained to support the bringing of criminal charges in connexion with
-   the company’s affairs.”
+   the company's affairs."
 
-It is the ﬁrst purpose, what has been called the “information examination”,24 that is
+It is the ﬁrst purpose, what has been called the "information examination",24 that is
 most often pursued, and that is the subject of most litigation.
 Within the broad function of the sections one can identify three speciﬁc functions of
 examinations:
@@ -951,10 +959,10 @@ examinations:
 22 Spedley Securities Ltd v Bond Corporation Holdings Ltd (1990) 19 NSWLR 729.
 23 Grosvenor Hill (Qld) Pty Ltd v Barber [1994] FCA 921; (1994) 48 FCR 301. For a concise summary of the
    law see Trevor, in the matter of Bell Group NV (in liq) (No 2) [2017] FCA 927.
-24 Parker, “Liquidators Examinations” (1993) 10 Aust Bar Rev 25, quoted in Worthley v England (1994)
+24 Parker, "Liquidators Examinations" (1993) 10 Aust Bar Rev 25, quoted in Worthley v England (1994)
    52 FCR 69, 86.
 25 Hamilton v Oades (1989) 166 CLR 486; Douglas-Brown v Furzer (1994) 11 WAR 400.
-584      Keay’s Insolvency: Personal and Corporate Law and Practice                               [15.165]
+584      Keay's Insolvency: Personal and Corporate Law and Practice                               [15.165]
 
 (ii) to enable the liquidator to ascertain whether there is a substantive claim or
      whether there is a defence available against proceedings brought against the
@@ -965,10 +973,10 @@ examinations:
       it may deter fraud because of the possible publicity which results.
 Similarly, the Full Federal Court in Evans v Wainter Pty Ltd [2005] FCAFC 114;
 (2005) 145 FCR 176 at [252] listed similar purposes of examinations including28 to
-identify the company’s assets, both tangible and intangible, and its liabilities, to
+identify the company's assets, both tangible and intangible, and its liabilities, to
 gather evidence and information to support the bringing of proceedings to recover
 assets or funds, and to assist in the regulation of companies by providing a public
-forum for the examination of the company’s officers. The summons may be issued
+forum for the examination of the company's officers. The summons may be issued
 in respect of assets of the company that are located overseas: Re Blue Ridge WA Pty
 Ltd (in liq) [2015] FCA 567.
 In assessing an application for a summons under s 596B, a court will only order an
@@ -996,7 +1004,7 @@ exercise of judicial power: Palmer v Ayres [2017] HCA 5; 118 ACSR 380.32 At the
 28 See also Meteyard v Love [2005] NSWCA 444; (2005) 65 NSWLR 36.
 29 Ex parte Merrett (1997) 140 FLR 412; Re Bill Express Ltd; Di Donato v Crosbie [2010] VSC 101; (2010) 77
    ACSR 556.
-30 “Explanatory Memorandum to the Corporate Law Reform Bill 1992 (Cth)”, [1173].
+30 "Explanatory Memorandum to the Corporate Law Reform Bill 1992 (Cth)", [1173].
 31 Spedley Securities v Bank of New Zealand (1990) 3 ACSR 366, 374; Grosvenor Hill (Qld) Pty Ltd v Barber
    (1994) 48 FCR 301; Meteyard v Love [2005] NSWCA 444; (2005) 65 NSWLR 36.
 32 The particular constitutional issue was that s 596A was not invalid as contrary to Chapter III of the
@@ -1024,7 +1032,7 @@ Whether there is an abuse of process depends on the purpose of the applicant
 seeking the order and the factual circumstances of the case. Just because a forensic
 advantage is obtained that alone is not decisive in determining whether an abuse of
 process has occurred: Simionato v Macks (1996) 19 ACSR 34. For an abuse it will be
-necessary that the applicant’s “offensive” purpose is at least the predominant
+necessary that the applicant's "offensive" purpose is at least the predominant
 purpose.39 One example is if an examination is being used to obtain evidence for
 libel proceedings,40 or to assist a third party in other proceedings: Commonwealth v
 Sheahan [2004] FCA 1301.
@@ -1049,7 +1057,7 @@ against the person to be examined, or alternatively, where the prospective exami
 40 Flanders v Beatty (1995) 16 ACSR 324, 335.
 41 See Re Rothwells Ltd (No 2) (1989) 15 ACLR 168, 180; Spedley Securities Ltd v Bond Corporation Holdings
    Ltd (1990) 19 NSWLR 729; Re Southern Equities Corporation Ltd (1997) 15 ACLC 1582.
-586      Keay’s Insolvency: Personal and Corporate Law and Practice                             [15.170]
+586      Keay's Insolvency: Personal and Corporate Law and Practice                             [15.170]
 
 is contemplating issuing or has issued legal proceedings against the liquidator. This
 is despite the fact that the examination would place the liquidator in a better
@@ -1067,8 +1075,8 @@ A liquidator cannot use the examination process:
 The use of an examination for the beneﬁt of a particular creditor with a claim
 against the company is not necessarily an abuse of process.48
 Where a summons is set aside as an abuse of process, the liquidator may be
-ordered to pay costs. But where the liquidator’s default was “innocent and
-inadvertent rather than deliberate”, costs can be ordered to be paid only to the
+ordered to pay costs. But where the liquidator's default was "innocent and
+inadvertent rather than deliberate", costs can be ordered to be paid only to the
 extent that there are assets available in the company to meet them, so that the
 liquidator will not be personally out of pocket: Re Mendarma Pty Ltd (No 2) [2007]
 NSWSC 99; (2007) 61 ACSR 601.
@@ -1107,24 +1115,24 @@ includes claims against and by the company: Grosvenor Hill (Qld) Pty Ltd v Barbe
 [1994] FCA 921; (1994) 48 FCR 301, 305. In particular an examination may be held of
 creditors or others who may have beneﬁted from a voidable transaction with the
 company so as to assess whether such a claim may be brought. Information about
-whether a judgment resulting from a liquidator’s action has any worth, that is
-whether damages awarded under the judgment will be met, is about the company’s
+whether a judgment resulting from a liquidator's action has any worth, that is
+whether damages awarded under the judgment will be met, is about the company's
 property and can be the subject of an examination. This is because whether a
 judgment could be satisﬁed is a practical and realistic question given the fact that
 the liquidator would have to expend substantial costs to obtain a judgment.49 Thus
 in Gerah Imports Pty Ltd v Duke Group Ltd (1994) 12 ACSR 513, examinations were
 permitted of partners of a national accounting ﬁrm that was being sued by the
-liquidator for negligence, in order to ascertain the extent of the ﬁrm’s professional
+liquidator for negligence, in order to ascertain the extent of the ﬁrm's professional
 indemnity insurance. The court held that the cost of the litigation commenced
 would be substantial and that, in establishing whether ultimate recovery of
 damages was likely, the summonses should stand as being concerned with the
-“examinable affairs” of the company.50 On the other hand, an insurer’s dealings
+"examinable affairs" of the company.50 On the other hand, an insurer's dealings
 with third parties, which had no connection with [the company] have been found
-not to be part of a company’s examinable affairs.51
+not to be part of a company's examinable affairs.51
 
 Connected entity
-[15.175] The deﬁnition of “examinable affairs” raises the question – what is a
-“connected entity” in relation to a corporation? The term is deﬁned in Corporations
+[15.175] The deﬁnition of "examinable affairs" raises the question – what is a
+"connected entity" in relation to a corporation? The term is deﬁned in Corporations
 Act, s 9 as:
    (a) a body corporate that is, or has been, related to the corporation; or
    (b) an entity that is, or has been, connected (as deﬁned by s 64B) with the corporation.
@@ -1140,7 +1148,7 @@ obviously modelled on ss 5B – 5E of the Bankruptcy Act.
    ACLC 220.
 51 Meteyard v Love [2005] NSWCA 444; (2005) 65 NSWLR 36 at [42].
 52 Meteyard v Love [2005] NSWCA 444; (2005) 65 NSWLR 36.
-588      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.180]
+588      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.180]
 
 Application for summonses
 [15.180] An application for an examination under either s 596A or s 596B must
@@ -1155,11 +1163,11 @@ certain persons should be examined, is therefore kept conﬁdential by the court
 is not available to those persons except by court order: s 596C.55
 In deciding whether to grant access to the affidavit, the court must be satisﬁed that
 the claimant has an arguable case that the examination summons had been issued
-for an improper purpose or involved an abuse of the court’s processes. Once an
+for an improper purpose or involved an abuse of the court's processes. Once an
 arguable case has been raised, there are persuasive grounds for allowing access to
 the affidavit.56 The court can itself read the affidavit to determine whether it should
 be made available for inspection. An order for inspection can be limited to the
-claimants’ legal representatives: Ariff v Fong [2007] NSWCA 183; (2007) 25 ACLC
+claimants' legal representatives: Ariff v Fong [2007] NSWCA 183; (2007) 25 ACLC
 1079.
 Given that the liquidator seeks an order for an examination by way of an ex parte
 application, the liquidator has a duty to disclose all the facts that would have been
@@ -1169,7 +1177,7 @@ issue the summons: Linker v Nilant [2003] FCA 1576; (2004) 48 ACSR 178.
 In determining that an examination summons is too wide, the court may set aside
 the summons. Alternatively, it may order deletion of categories of documents
 sought in the summons that are so broad in time or description as to be
-“oppressive”, and to “go far beyond the legitimate interests of [the liquidator]”: Re
+"oppressive", and to "go far beyond the legitimate interests of [the liquidator]": Re
 Bernsteen Pty Ltd (No 2) [2007] FCA 48; (2007) 25 ACLC 129. The remainder of the
 summons may then stand.
 The liquidator, or the person who applied for the examination, must give written
@@ -1182,7 +1190,7 @@ the court on a particular date and time.
    Re Bill Express Ltd; Di Donato v Crosbie [2010] VSC 101; (2010) 77 ACSR 556.
 54 See the summary of the law in Re Forge Group Construction Pty Ltd; Ex Parte Jones and Johnson [2015]
    WASC 184 at [5].
-55 Courts’ Corporations Rules, r 11.3.
+55 Courts' Corporations Rules, r 11.3.
 56 Williams v Spautz (1992) 174 CLR 509; Excel Finance Corporation Ltd; Worthley v England (1994) 52 FCR
    69; Meteyard v Love [2005] NSWCA 444; (2005) 65 NSWLR 36.
 [15.190]                                                   15 Administration of the Winding Up      589
@@ -1203,7 +1211,7 @@ production of documents may be made during an examination: Re Sheahan [2015]
 FCA 567.
 The examinee is entitled to be legally represented at their own expense (s 597(16))
 and any other party may be represented by a lawyer or agent: s 597(5A). Questions
-will be asked by the liquidator’s legal representative and, from time to time, by the
+will be asked by the liquidator's legal representative and, from time to time, by the
 presiding registrar. The role of the presiding registrar is to ensure that there is fair
 play between the person being examined and those interrogating, and unfair or
 irrelevant questions may be disallowed. There is a broad discretion vested in the
@@ -1220,7 +1228,7 @@ required by the summons to produce: s 597(7)
 Incrimination
 [15.190] An examinee is not excused from answering a question on the ground
 that the answer might tend to incriminate: s 597(12). This provision expressly
-abrogates the examinee’s common law right to refuse to answer a question on that
+abrogates the examinee's common law right to refuse to answer a question on that
 basis. However, an examinee may, before answering a question, claim that the
 answer might tend to incriminate and, accordingly, neither the answer nor the
 information obtained, as a direct or indirect consequence of the answer, is
@@ -1232,20 +1240,20 @@ s 597(12A).59
 58 Re BPTC Ltd (No 2) (1992) 10 ACLC 1431; Re South Paciﬁc Energy Trading Pty Ltd (1996) 14 ACLC
    1594, 1597.
 59 See Gemmell v Le Roi Homestyle Cookies Pty Ltd [2014] VSCA 182; (2014) 102 ACSR 367.
-590      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.195]
+590      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.195]
 
 Legal professional privilege
 [15.195] Legal professional privilege will often arise when third parties assert
-their privilege against the liquidator’s pursuit of inquiries as to the reasons for the
-company’s failure. The most common situation arises in examinations. The
+their privilege against the liquidator's pursuit of inquiries as to the reasons for the
+company's failure. The most common situation arises in examinations. The
 Corporations Act does not abrogate this privilege. In Re Compass Airlines Pty Ltd
 (1992) 109 ALR 119 the Full Federal Court held that legal professional privilege
 could be claimed by a person called to give evidence in an examination under
 s 597.60 The power of a liquidator to gain information regarding the affairs of the
-company “would not be stultiﬁed if legal professional privilege could be claimed”.
-Nor in a “practical sense” is the availability of the privilege in an examination
-likely to “impair to any serious degree the efficacy of such examination or
-fulﬁllment of its legitimate purpose”. Also, the privilege does not protect
+company "would not be stultiﬁed if legal professional privilege could be claimed".
+Nor in a "practical sense" is the availability of the privilege in an examination
+likely to "impair to any serious degree the efficacy of such examination or
+fulﬁllment of its legitimate purpose". Also, the privilege does not protect
 communications in furtherance of any criminal or fraudulent purpose. Although
 the privilege against self-incrimination had been expressly abrogated in s 597(12),
 this did not suggest an implied abrogation of legal professional privilege. Indeed, it
@@ -1262,7 +1270,7 @@ open for inspection: s 597(14A). The right to inspection is not unfettered and c
 limited by a court in appropriate circumstances: Re Emanuel Investments Pty Ltd
 (1996) 14 ACLC 315.
 If a court is satisﬁed that a summons under ss 596A or 596B was obtained without
-reasonable cause the court may order that some or all of the examinee’s costs be
+reasonable cause the court may order that some or all of the examinee's costs be
 paid by the person who applied for the summons or any other person who took
 part in the examination: s 597B.61
 If the examinee is not directly concerned in the management of the company, he or
@@ -1284,8 +1292,8 @@ liquidator may not need an examination and that information could as usefully be
 obtained by affidavit evidence. Hence, s 597A allows a liquidator to apply to the
 court for it to require examinable officers to supply evidence by affidavit instead of
 or in addition to attending an examination.
-The aim of this procedure is to try and reduce costs where possible: “Explanatory
-Memorandum to the Corporate Law Reform Bill 1992 (Cth)”, [1188]. An order
+The aim of this procedure is to try and reduce costs where possible: "Explanatory
+Memorandum to the Corporate Law Reform Bill 1992 (Cth)", [1188]. An order
 under s 597A cannot be set aside on the basis of oppressiveness: Re Modern
 Woodcraft Pty Ltd [1997] FCA 712; (1997) 75 FCR 454.
 There is no equivalent to this procedure in bankruptcy although, conversely, there
@@ -1322,31 +1330,31 @@ property. The property may have been used to accommodate some aspect of the
    (property of the company in bilateral contracts are included within s 568).
 64 See Global Television Pty Ltd v Sportsvision Australia Pty Ltd [2000] NSWSC 960; (2000) 35 ACSR 484,
    498.
-592      Keay’s Insolvency: Personal and Corporate Law and Practice                             [15.205]
+592      Keay's Insolvency: Personal and Corporate Law and Practice                             [15.205]
 
-company’s former business – for example, an office or factory. For the liquidator to
+company's former business – for example, an office or factory. For the liquidator to
 retain the lease would lead the company to incur more debts. The lessor can claim
 for the loss of the tenancy being disclaimed, but it must mitigate its loss, that is, by
 trying to ﬁnd another tenant. In Willmott Growers Group Inc v Willmott Forests Ltd
 [2013] HCA 51; (2013) 251 CLR 592, the High Court held that a company in
 liquidation may disclaim a lease that it has entered into as lessor, which will
-terminate the tenant’s rights in the land, namely the right to quiet and exclusive
+terminate the tenant's rights in the land, namely the right to quiet and exclusive
 possession. The High Court (by a four to one majority) held that a lease is a
 contract and hence comes within s 568(1)(f). French CJ, Hayne and Kiefel JJ said at
 [40]:
-   “The rights and duties which a landlord and tenant have under a lease are bundles of
+   "The rights and duties which a landlord and tenant have under a lease are bundles of
    rights and duties which together can be identiﬁed as species of property. The origins of
    those rights and duties lie in the contract which the landlord and tenant or their
    predecessors in title made. In every case, the rights and duties of the landlord and tenant,
    whether as an original party to the lease or as a successor in title, stem from the contract
    of lease and any later contract made in relation to that lease. When a company is the
    landlord, the rights and duties which that company has in respect of the lease are
-   properly described as ‘property of the company that consists of … a contract’. The
-   landlord’s rights and duties are a form of property; those rights and duties ‘consist of’, in
-   the sense of derive from, the contract of lease.”
+   properly described as 'property of the company that consists of … a contract'. The
+   landlord's rights and duties are a form of property; those rights and duties 'consist of', in
+   the sense of derive from, the contract of lease."
 Another example, which is becoming more common, is where the company owns
 land that has been contaminated and cannot be sold without a major clean-up. In
-Re Linc Energy [2017] QSC 53; (2017) 120 ACSR 86, it was held that the liquidator’s
+Re Linc Energy [2017] QSC 53; (2017) 120 ACSR 86, it was held that the liquidator's
 power of disclaimer could not be used to overcome liability to comply with a state
 environmental protection order. The court held that s 5G of the Corporations Act for
 the State legislation to prevail over the Corporations Act provision. However, this
@@ -1368,7 +1376,7 @@ unproﬁtable one or relating to a lease of land: s 568(1A).66 Whilst the court 
 
 65 At the time of writing (May 2018) this decision was subject to an application for special leave to the
    High Court of Australia.
-66 For consideration of “unproﬁtable contracts”, see Transmetro Corporation Ltd v Real Investments Pty
+66 For consideration of "unproﬁtable contracts", see Transmetro Corporation Ltd v Real Investments Pty
    Ltd (1999) 17 ACLC 1,314; Global Television Pty Ltd v Sportsvision Australia Pty Ltd [2000] NSWSC 960;
    (2000) 35 ACSR 484.
 [15.220]                                           15 Administration of the Winding Up   593
@@ -1406,18 +1414,18 @@ disclaimer before it takes effect.
 Effect of disclaimer
 [15.220] A disclaimer takes effect only if there is no application to set aside the
 disclaimer or, if there is, the application is unsuccessful: s 568C(1).
-If a disclaimer takes effect, the company’s rights, interests, liabilities and property
+If a disclaimer takes effect, the company's rights, interests, liabilities and property
 in or in respect of the property disclaimed is taken to have terminated. No other
-person’s rights are affected except so far as is necessary in order to release the
+person's rights are affected except so far as is necessary in order to release the
 company and its property from liability: s 568D(1). A disclaimer of a lease will
-terminate the tenant’s rights under the lease, as well as the landlord’s duties and
+terminate the tenant's rights under the lease, as well as the landlord's duties and
 liabilities (such as the duty to give quiet and exclusive possession): Willmott Growers
 Group Inc v Willmott Forests Ltd [2013] HCA 51; (2013) 251 CLR 592. In that case,
 Gageler J explained (at [76]):
-   “The property of the company that consists of a contract able to be disclaimed therefore
+   "The property of the company that consists of a contract able to be disclaimed therefore
    encompasses the totality of the executory rights and obligations the company has under
-   that contract.”
-594      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.225]
+   that contract."
+594      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.225]
 
 A disclaimer operates prospectively, it has no effect on the rights or obligations of
 any other person except so far as is necessary prospectively to release the company
@@ -1432,7 +1440,7 @@ the court to have the disclaimer set aside after it has taken effect: s 568E(1).
 court must be satisﬁed that it is unreasonable to expect the applicant to have
 applied for an order before the disclaimer took effect: s 568E(2). The court should
 consider the fact that the disclaimer is likely to have prejudiced the interests of the
-counterparty and of the creditors respectively, and the court’s task is to weigh those
+counterparty and of the creditors respectively, and the court's task is to weigh those
 prejudices to decide whether there is a case for intervention.67
 The court has the power to order that disclaimed property vest in or be delivered to
 a person entitled to the property or to a person to whom the court believes it is
@@ -1440,7 +1448,7 @@ appropriate to have the property transferred: s 568F(1). In Re Condobolin Bila C
 Ltd [2006] FCA 1330; (2006) 59 ACSR 682, the liquidator had disclaimed rural
 property, and the Commonwealth, which had funded the purchase of the property
 by the company, successfully claimed the return of the property. Disclaimed real
-property ultimately “escheats” to, or vests in, the State: Re Tulloch Ltd (No 2) (1978)
+property ultimately "escheats" to, or vests in, the State: Re Tulloch Ltd (No 2) (1978)
 3 ACLR 808.68
 
 Not all liabilities are ended
@@ -1449,13 +1457,13 @@ when a liquidator disclaims, under s 568(3), an interest in the lease does not
 determine the covenants in the lease for all purposes; a guarantor of the obligations
 of the company in liquidation remains liable to the lessee under the lease both in
 respect of unpaid rent that accrues before re-entry and in damages for loss of future
-rent. Further, the guarantor’s right to indemnity from the company is terminated by
+rent. Further, the guarantor's right to indemnity from the company is terminated by
 the disclaimer, although the guarantor could prove in the winding up under
 s 568D(2): Sandtara Pty Ltd v Abigroup Ltd (1996) 42 NSWLR 491.
 
 CARRYING ON BUSINESS
 [15.235]    Often, when a company commences liquidation its business has ceased
-or is close to shutting down. If the company’s business is still operating, the
+or is close to shutting down. If the company's business is still operating, the
 liquidator may decide to carry on that business. Frequently, however, the business
 will be so disorganised or run-down that it is not practicable to continue it.
 However, the liquidator may carry on the business in certain circumstances in the
@@ -1468,14 +1476,14 @@ However, the liquidator may carry on the business in certain circumstances in th
 [15.240]                                                15 Administration of the Winding Up    595
 
 short term to assess whether it is proﬁtable for a limited purpose, for example to
-complete a contract which will beneﬁt the company’s creditors, while a buyer of the
+complete a contract which will beneﬁt the company's creditors, while a buyer of the
 business is located, or for a longer term, if the business is proﬁtable. This is subject
 to the restriction in s 477(1)(a) of the Corporations Act that the liquidator is only able
 to carry on business so far as is, in the opinion of the liquidator, necessary for its
 beneﬁcial disposal or winding up, with a similar restriction in respect of voluntary
 liquidation: s 493(1). These provisions focus on the business of the company at the
 time of its winding up. They do not permit the liquidator to take on a new aspect of
-the company’s business in which the liquidator might have gained some
+the company's business in which the liquidator might have gained some
 expertise.69 It is wise for the liquidator to seek the approval of creditors or the
 committee of creditors to continue trading.
 The continuation of the business can entail obligations being assumed by the
@@ -1512,17 +1520,17 @@ commercial circumstances. As the court said in Perpetual Nominees Ltd v McGoldri
 70 In Benbow v Scales [2002] NSWCIMC 184, a receiver and manager was liable under s 15(1) of the
    Occupational Health and Safety Act 1983 (NSW) because he had failed to apply due diligence to the
    performance of his duties in relation to occupational health and safety.
-596      Keay’s Insolvency: Personal and Corporate Law and Practice                              [15.245]
+596      Keay's Insolvency: Personal and Corporate Law and Practice                              [15.245]
 
    The duty was to sell or otherwise dispose of the property of the company … acting in
    good faith and with due care and skill to an extent that was reasonable in all the
    circumstances. This involved taking reasonable care to secure the best price possible in
    the commercial context which existed at the time.71
 Options for sale will include private contract, public auction, tender and clearance
-or “liquidation” sale. The means of sale is at the liquidator’s discretion. The court
+or "liquidation" sale. The means of sale is at the liquidator's discretion. The court
 will only interfere with sales if the liquidator fails to act as a reasonable liquidator
 would act.72 It should be noted that liquidators are officers of the company under
-s 9 of the Act and therefore are bound by the directors’ and officers’ duties such as
+s 9 of the Act and therefore are bound by the directors' and officers' duties such as
 the duty to exercise their powers and discharge their duties with due care and
 diligence (s 180) and to only exercise their powers for a proper purpose: s 181.
 There is no express equivalent provision for liquidators similar to the duty imposed
@@ -1531,14 +1539,14 @@ care imposes a similar requirement to act reasonably – although without the
 statutory instruction to seek market price under s 420A(1)(a).
 This passage of the text in the 9th edition was cited with approval in Perpetual
 Nominees Ltd v McGoldrick (No 3), which held that liquidators owed a duty of care
-when exercising the power of sale over the company’s assets to the guarantors of
-the company’s debt, although the court held that the duty was complied with by
-the liquidators. The court stated (at [112]) that “A liquidator has a duty to exercise
+when exercising the power of sale over the company's assets to the guarantors of
+the company's debt, although the court held that the duty was complied with by
+the liquidators. The court stated (at [112]) that "A liquidator has a duty to exercise
 reasonable care and diligence in the discharge of his or her functions. It is a duty
-owed to the creditors and shareholders of the entity the subject of the winding up”.
-If an asset is the subject of a creditor’s secured interest, the liquidator will have to
+owed to the creditors and shareholders of the entity the subject of the winding up".
+If an asset is the subject of a creditor's secured interest, the liquidator will have to
 pay out the creditor from the proceeds of sale. Often a secured creditor will already
-have exercised their power of sale because of the debtor’s default. In such a case,
+have exercised their power of sale because of the debtor's default. In such a case,
 the secured creditor must pay to the liquidator any money received on the sale
 which is over and above their debt. That money will then be included in the money
 available to be distributed to the unsecured creditors.
@@ -1552,7 +1560,7 @@ indicate what claims can be taken into account by the liquidator when determinin
 payment to creditors from company property.
 Until 1993, the then Corporations Law simply incorporated by reference the
 provisions of the Bankruptcy Act 1966 (Cth) that dealt with issues such as proofs of
-debt and claims of creditors in general. Now, creditors’ claims are dealt with in
+debt and claims of creditors in general. Now, creditors' claims are dealt with in
 
 71 See further, Mills v Sheahan [2007] SASC 365; (2007) 99 SASR 357 where the scope of the duty of care
    owed by liquidators is discussed in detail (albeit on a strike out application) and Macks v Viscariello
@@ -1573,7 +1581,7 @@ ACLC 1652.
 For the general effect of many of the provisions contained in the Corporations Act,
 reference can be made Chapter 6, which deals with bankruptcy. It should be noted,
 however, that bankruptcy law is fundamentally different in one sense, that if claims
-are not provable debts in a person’s bankruptcy, the consequence is that the
+are not provable debts in a person's bankruptcy, the consequence is that the
 bankrupt may remain personally liable for them. In contrast, a company ceases to
 exist at the ﬁnalisation of a winding up, and consequently the law provides far
 fewer categories of claim that are not provable. For example, unlike in bankruptcy,
@@ -1583,7 +1591,7 @@ Proof of debts and claims
 [15.250] Section 553 of the Corporations Act states what debts and claims are
 provable in a winding up. They are all debts payable by, and claims against, the
 company that are present or future, certain or contingent,73 ascertained or sounding
-only in damages and which occurred before the relevant date. The “relevant date”
+only in damages and which occurred before the relevant date. The "relevant date"
 is the day on which the winding up is taken to have begun: s 9. If, by legislation or
 otherwise, a debt that exists at the date of the winding up is discharged by the time
 of distribution of dividends, the creditor cannot prove.74
@@ -1591,9 +1599,9 @@ of distribution of dividends, the creditor cannot prove.74
 Calculation of proofs of future debts
 [15.255] Debts need not be presently due and payable for them to be provable.
 As explained above, claims of unliquidated damages in tort are provable debts. If
-debts are “future” debts within s 553, in the sense that they are not payable at the
+debts are "future" debts within s 553, in the sense that they are not payable at the
 relevant date, they are still provable subject to a statutory discount for accelerated
-“payment” under s 554B of the Act. That section provides that the amount of the
+"payment" under s 554B of the Act. That section provides that the amount of the
 proof of debt is the amount payable on the future date, reduced by the amount of
 an 8% discount: Corporations Regulations, reg 5.6.44.
 
@@ -1609,7 +1617,7 @@ debt, is relevant in the liquidation context.75
    High Court, AssetInsure Pty Ltd v New Cap Reinsurance Corp Ltd [2006] HCA 13; (2006) 225 CLR 331);
    Wight v Eckhardt Marine GmbH [2004] 1 AC 147.
 75 See, for example, Gore v Australian Goldﬁelds NL [2001] WASC 242.
-598      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.265]
+598      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.265]
 
 Superannuation guarantee charge (SGC)
 [15.265] The question of double proofs of debt can arise in relation to unpaid
@@ -1637,25 +1645,25 @@ Penalties and ﬁnes
 Corporations Act provides that penalties and ﬁnes imposed by a court in respect of
 an offence against a law are not provable in the winding up although an amount
 payable under a pecuniary penalty order is admissible: s 553B(2). The word
-“offence” is not limited to criminal offences and includes, for example, pecuniary
+"offence" is not limited to criminal offences and includes, for example, pecuniary
 penalty orders imposed for contraventions of the Competition and Consumer Act 2010
 (Cth).76 The policy behind this is that creditors should not have to suffer, in
 lessening of their dividend, by the illegal actions of the company.77 That does not
 mean that the court should refrain from imposing a pecuniary penalty on a
 company that contravenes the law. As Davies J said in Re ASIC; Sino Australia Oil
 and Gas Limited (in liq) v Sino Australia Oil and Gas Limited (in liq) [2016] FCA 1488 at
-[8]: “It is still appropriate for a court to impose a penalty on an insolvent company
-to serve as a warning and measure of the court’s disapproval of the contravening
-conduct”.78
+[8]: "It is still appropriate for a court to impose a penalty on an insolvent company
+to serve as a warning and measure of the court's disapproval of the contravening
+conduct".78
 
 76 Mathers v Commonwealth [2004] FCA 217; (2004) 134 FCR 135; cf McLellan v Australian Stock Exchange
    Ltd [2005] FCA 585; (2005) 144 FCR 327.
 77 Australian Law Reform Commission, Principled Regulation: Civil and Administrative Penalties in
    Australian Federal Regulation, ALRC 95, Ch 32. The history and scope of the provision is discussed in
    Commonwealth v Leahy Petroleum-Retail Pty Ltd [2005] FCA 1422; (2005) 55 ACSR 353. See also Murray,
-   “Kicking a Company when it’s Down – A Regulatory Approach to Penalising a Company in
-   Liquidation” (2008) 8 Insolv LB 69; Sise, “An Alternative Approach to the Treatment of Penalties and
-   Fines in Bankruptcy” (2016) 16(2) QUT Law Rev 82.
+   "Kicking a Company when it's Down – A Regulatory Approach to Penalising a Company in
+   Liquidation" (2008) 8 Insolv LB 69; Sise, "An Alternative Approach to the Treatment of Penalties and
+   Fines in Bankruptcy" (2016) 16(2) QUT Law Rev 82.
 78 At the same time, the court may need to set a penalty and payment regime that does not cause the
    company, or individual, to become insolvent: ACCC v Morild Pty Ltd [2017] FCA 1308.
 [15.285]                                                   15 Administration of the Winding Up      599
@@ -1691,7 +1699,7 @@ Pty Ltd (in liquidation) (receivers and managers appointed) [2017] WASC 152; (20
 FLR 259.83
 There must also be a debt owed by the company to that person. A contingent
 liability can be a relevant debt.84 Post-liquidation receipts can form the basis of
-set-off “provided they existed as contingent claims at the commencement of the
+set-off "provided they existed as contingent claims at the commencement of the
 
 79 The English courts appear to have adopted the principles of set-off from as early as 1612, and
    equivalent provisions have appeared in English bankruptcy law at least since 1705: In the matter of
@@ -1707,16 +1715,16 @@ set-off “provided they existed as contingent claims at the commencement of the
    [2016] VSCA 247; (2016) 116 ACSR 493.
 84 See the detailed discussion of contingent liabilities in Grapecorp Management Pty Ltd v Grape Exchange
    Management Euston Pty Ltd [2012] VSC 112; (2012) 93 ACSR 1.
-600       Keay’s Insolvency: Personal and Corporate Law and Practice                               [15.290]
+600       Keay's Insolvency: Personal and Corporate Law and Practice                               [15.290]
 
 winding-up and are of a kind that ultimately mature into pecuniary demands
-capable of set-off”: Grapecorp Management Pty Ltd v Grape Exchange Management
+capable of set-off": Grapecorp Management Pty Ltd v Grape Exchange Management
 Euston Pty Ltd [2012] VSC 112; (2012) 93 ACSR 1 at [52]; United Petroleum Pty Ltd v
 Bonnie View Petroleum Pty Ltd (in liq) [2017] VSC 185 at [384].
 The requirement of mutuality was explained by Palmer J in Hall v Poolman [2007]
-NSWSC 1330; (2007) 65 ACSR 123 at [422] as requiring “that the claims to be set off
+NSWSC 1330; (2007) 65 ACSR 123 at [422] as requiring "that the claims to be set off
 are between the same parties, that the parties be indebted in the same interests or
-capacities, and that both claims ultimately sound in money”. Granting a PPSA
+capacities, and that both claims ultimately sound in money". Granting a PPSA
 security interest in collateral covered by mutual dealings can terminate mutuality:
 Hamersley Iron Pty Ltd v Forge Group Power Pty Ltd (in liquidation) (receivers and
 managers appointed) [2017] WASC 152; (2017) 320 FLR 259.
@@ -1724,7 +1732,7 @@ A person is only able to claim set-off where they had no notice at the time of t
 giving of credit to the company or at the time of the receiving of credit from the
 company that the company was insolvent: s 553C(2). See further Facade Treatment
 Engineering Pty Ltd (in liq) v Brookﬁeld Multiplex Constructions Pty Ltd [2016] VSCA
-247; (2016) 116 ACSR 493. A person has “notice of the fact” that a company is
+247; (2016) 116 ACSR 493. A person has "notice of the fact" that a company is
 insolvent if the person had actual notice of facts which disclosed that the company
 lacked the ability to pay its debts when they fell due: Jetaway Logistics Pty Ltd v DCT
 [2009] VSCA 319; (2009) 26 VR 657. In that case, the company had authorised the
@@ -1733,28 +1741,28 @@ an amount of its PAYG and GST liabilities then outstanding. Several payments wer
 subsequently credited against those tax liabilities. When the company went into
 liquidation the liquidator claimed that these payments were unfair preferences and
 could not be subject to the right of set-off as the Commissioner had notice of
-Jetaway’s insolvency when it received the payments. The Victorian Court of Appeal
+Jetaway's insolvency when it received the payments. The Victorian Court of Appeal
 found that the Commissioner knew that Jetaway could not pay its debts as and
 when they became due and payable, which was why it needed to enter into the
 payment arrangement with the Commissioner in the ﬁrst place, and therefore the
 Commissioner could not claim set-off in the payments.
 The timing of the notice of insolvency can be important. In the case of a contingent
 debt, the relevant credit may be given and received at the time of entry into a
-contract, not at the time the contract is terminated: JLF Bakeries Pty Ltd v Baker’s
+contract, not at the time the contract is terminated: JLF Bakeries Pty Ltd v Baker's
 Delight Holdings Ltd [2007] NSWSC 894; (2007) 25 ACLC 1164. There remains some
 controversy whether s 553C may be used to set off amounts owed by a creditor or
 director against whom a voidable transaction or insolvent trading claim is made,
 assuming that other necessary elements of the section are satisﬁed.85
 
-Contributories’ claims: s 553A
+Contributories' claims: s 553A
 [15.290] Section 553A of the Corporations Act provides that a member cannot
-lodge a proof for a debt owed “in the person’s capacity as a member of the
-company” for “dividends, proﬁts or otherwise” unless his or her contributions as a
+lodge a proof for a debt owed "in the person's capacity as a member of the
+company" for "dividends, proﬁts or otherwise" unless his or her contributions as a
 member are paid. Section 563A requires that payment of any such debt owed to a
 
 85    See the discussion (in obiter) in Hussain v CSR Building Products Ltd [2016] FCA 392; (2016) 246 FCR
-     62; Derham, “Set-off Against Statutory Avoidance and Insolvent Trading Claims in Company
-     Liquidation” (2015) 89 ALJ 489; Rexel Electrical Supplies Pty Ltd v Morton (as liquidator of South East
+     62; Derham, "Set-off Against Statutory Avoidance and Insolvent Trading Claims in Company
+     Liquidation" (2015) 89 ALJ 489; Rexel Electrical Supplies Pty Ltd v Morton (as liquidator of South East
      Queensland Machinery Manufacturing and Distribution (Mining No 1) (in liq)) [2015] QCA 235..
 [15.295]                                                15 Administration of the Winding Up    601
 
@@ -1762,12 +1770,12 @@ member in the capacity as a member be postponed until all other debts are paid.
 Hence, shareholders of a company in liquidation rank below creditors provided
 that their claim arises in their capacity as a member and not in some other capacity
 such as a creditor who has loaned funds to the company or as a tort creditor who
-has suffered an injury caused by the company’s negligence.86
+has suffered an injury caused by the company's negligence.86
 The High Court in Sons of Gwalia v Margaretic [2007] HCA 1; (2007) 231 CLR 160
 decided that members with a claim for damages based on alleged statutory
 misrepresentation did not have claims in their capacity as members and hence did
 not come within s 563A. In 2008, the Corporations and Markets Advisory
-Committee (CAMAC) reviewed the High Court’s decision and did not recommend
+Committee (CAMAC) reviewed the High Court's decision and did not recommend
 statutory amendment to overturn the ruling. However, calls for overturning the
 ruling grew louder during the Global Financial Crisis when Australian companies
 found it more difficult to raise debt ﬁnance in the North American capital markets
@@ -1776,11 +1784,11 @@ government amended the Corporations Act to rewrite s 563A. Following calls from
 business to change the law to make it easier for companies to raise capital in the
 United States (where shareholder claims are strictly subordinated in insolvency),
 s 563A and related provisions were amended in 2010 to reverse the practical effect
-of the High Court’s decision.
+of the High Court's decision.
 The amendment added the new concept of a subordinate claim to s 563A.
 Subordinate claims include debts owed to members in that capacity and also
-include “any other claim that arises from buying, holding, selling or otherwise
-dealing in shares in the company” which catches the Sons of Gwalia type of claims.
+include "any other claim that arises from buying, holding, selling or otherwise
+dealing in shares in the company" which catches the Sons of Gwalia type of claims.
 Payment to persons holding subordinate claims is postponed until all other debts
 and claims against the company are paid: s 563A(1). The 2010 amendments did not,
 however, overturn the main point in the Sons of Gwalia litigation, which is that
@@ -1792,19 +1800,19 @@ their rights to vote as creditors in creditor meetings: s 600H.87
 Role of the liquidator in deciding upon proofs of debt
 [15.295] In making a decision whether to admit or reject a proof of debt, a
 liquidator is acting:
-   “… in a quasi-judicial capacity … according to standards no less than the standards of a
-   court or judge … This description of the liquidator’s function reﬂects his duty to
-   distribute the assets in his hands or under his control among the persons truly entitled.”88
+   "… in a quasi-judicial capacity … according to standards no less than the standards of a
+   court or judge … This description of the liquidator's function reﬂects his duty to
+   distribute the assets in his hands or under his control among the persons truly entitled."88
 Generally, the principles which determine enforceability of the liability to which a
 proof of debt relates are the same as the principles which would be applied in an
 action brought directly against the company to enforce that liability; for example, in
 
-86 See Harris and Hargovan, “Sons of Gwalia: Navigating the Line between Membership and Creditor
-   Rights in Corporate Insolvencies” (2007) 25 C&SLJ 7.
+86 See Harris and Hargovan, "Sons of Gwalia: Navigating the Line between Membership and Creditor
+   Rights in Corporate Insolvencies" (2007) 25 C&SLJ 7.
 87 See also Re TEN Network Holdings Ltd (Admins Apptd) (Recs and Mgrs Apptd) [2017] NSWSC 1247.
-88 Tanning Research Laboratories Inc v O’Brien (1990) 169 CLR 332, 338-340. See also Westpac Banking
+88 Tanning Research Laboratories Inc v O'Brien (1990) 169 CLR 332, 338-340. See also Westpac Banking
    Corporation v Totterdell (1997) 142 FLR 137.
-602      Keay’s Insolvency: Personal and Corporate Law and Practice                [15.300]
+602      Keay's Insolvency: Personal and Corporate Law and Practice                [15.300]
 
 respect of time limitations on actions: Motor Terms Co Pty Ltd v Liberty Insurance Ltd
 (1967) 116 CLR 177. This is qualiﬁed by the fact that there are some liabilities which
@@ -1814,9 +1822,9 @@ founded merely on some act or omission on the part of the company which
 unjustly prejudices the interests of the creditors or contributories or is based on
 fraud or miscarriage of justice: Wren v Mahony (1972) 126 CLR 212, 223. The same
 applies in bankruptcy: Ayerst v C & K (Constructions) Ltd [1976] AC 167.
-In dealing with proofs of debt, the duty of a liquidator is “not merely to advertise
+In dealing with proofs of debt, the duty of a liquidator is "not merely to advertise
 for creditors, but to write to the creditors of whose existence he knows, and who do
-not send in claims, and ask them if they have any claim”: Re Jay-O-Bees; Rosseau Pty
+not send in claims, and ask them if they have any claim": Re Jay-O-Bees; Rosseau Pty
 Ltd v Jay-O-Bees [2004] NSWSC 818; (2004) 50 ACSR 565 at [86].
 If the liquidator becomes aware that a creditor may have understated its proof of
 debt there is a duty to inform the creditor that is implied from the general duty of
@@ -1835,14 +1843,14 @@ determination is made by the liquidator within the requisite time frame, the
 creditor is entitled to apply to the court for it to deal with the proof (reg 5.6.53(2)):
 Simto Pty Ltd v Court (1997) 15 ACLC 839.
 
-Appeal against liquidator’s decision
+Appeal against liquidator's decision
 [15.300] A liquidator who rejects a proof must, within seven days of the
 rejection, notify the creditor of the ground(s) for the rejection, in accordance with
 Form 537, and inform the creditor that an appeal may be made to the courts within
 14 days of the notice setting out the ground(s) of rejection: reg 5.6.54. A proof of
 debt may be withdrawn, varied or reduced with the consent of the liquidator:
 reg 5.6.56.
-If a creditor’s proof of debt is rejected by the liquidator the creditor may appeal by
+If a creditor's proof of debt is rejected by the liquidator the creditor may appeal by
 seeking court orders under IPSC s 90-15 and, other than in exceptional
 
 89 Ex parte James; In re Condon (1874) LR 9 Ch App 609 – see [10.205].
@@ -1860,12 +1868,12 @@ proceeding, a liquidator who defends their decision to reject a proof of debt is
 longer acting in a quasi-judicial capacity, rather the liquidator takes the role of an
 adversary in the litigation. In respect of a discretionary decision by a liquidator, or
 a decision involving matters of business judgment, the court will reverse the
-liquidator’s decision only when it is satisﬁed that he or she was acting
+liquidator's decision only when it is satisﬁed that he or she was acting
 unreasonably or in bad faith: Re Jay-O-Bees; Rosseau Pty Ltd v Jay-O-Bees [2004]
 NSWSC 818; (2004) 50 ACSR 565 and cases there cited.
 A creditor, X, cannot oppose an appeal brought by another creditor, Y, against a
-rejection by the liquidator of Y’s proof of debt, even though if Y’s appeal were
-successful X’s dividend out of the company’s property would thereby be reduced:
+rejection by the liquidator of Y's proof of debt, even though if Y's appeal were
+successful X's dividend out of the company's property would thereby be reduced:
 Australian Consolidated Investments Ltd v Woodings (1996) 16 WAR 388.
 
 Secured creditors
@@ -1876,26 +1884,26 @@ Australian Gypsum Industries Pty Ltd v Dalesun Holdings Pty Ltd [2015] WASCA 95;
 Like bankruptcy, liquidation does not interfere with the rights of a secured creditor:
 Corporations Act, s 471C. If it did then it would, in many cases, make the taking of
 security valueless. One of the main purposes of security is to protect the creditor in
-the event of the company’s insolvency. “Secured creditor” is deﬁned in s 51E to
-mean “a creditor of the corporation, if the debt owing to the creditor is secured by
-a security interest.” A security interest is deﬁned as either a PPSA security interest
+the event of the company's insolvency. "Secured creditor" is deﬁned in s 51E to
+mean "a creditor of the corporation, if the debt owing to the creditor is secured by
+a security interest." A security interest is deﬁned as either a PPSA security interest
 or a charge, lien or pledge: s 51A, referring to a security interest under the Personal
 Property Securities Act 2009 (Cth). Security is granted by contract, statute or the
 general law. Most security interests granted by corporations will be covered by the
 PPSA, but some arrangements will involve property excluded from that law and
 hence will continue to use traditional documentation involving charges, liens and
 pledges. As discussed in Chapter 14, one important consequence of the PPSA has
-been the introduction of “vesting rules” which provide for an unperfected security
+been the introduction of "vesting rules" which provide for an unperfected security
 interest to vest in the debtor company as grantor in certain circumstances such as
 the appointment of a liquidator: PPSA, s 267.92 The result of this is that the secured
 
-91 Tanning Research Laboratories Inc v O’Brien (1990) 169 CLR 332. See in relation to the prior provision
+91 Tanning Research Laboratories Inc v O'Brien (1990) 169 CLR 332. See in relation to the prior provision
    (former s 1321) In the matter of DH International Pty Ltd (in liq) [2017] NSWSC 870; Weriton Finance Pty
    Ltd v PNR Pty Ltd [2012] NSWSC 1402; (2012) 92 ACSR 88 (discussing the role of appeals to the court
    from decisions of administrators and liquidators).
 92 The security interest may also vest if the secured creditor does not register its interest within a
    certain time prior to the liquidation: Corporations Act, s 588FL.
-604      Keay’s Insolvency: Personal and Corporate Law and Practice                                 [15.305]
+604      Keay's Insolvency: Personal and Corporate Law and Practice                                 [15.305]
 
 creditor would lose its secured status because its security interest in the property
 (as collateral for the secured transaction) would have vested in the company in
@@ -1923,9 +1931,9 @@ prove for the balance of the debt owed after deducting what was received from th
 realisation of the security: s 554E(4). If neither of the above is applicable, the
 secured creditor may estimate the value of the security and prove for the balance
 after deducting the estimated value of the security: s 554E(5). If this latter
-procedure is used, the liquidator may redeem the security if the creditor’s estimate
+procedure is used, the liquidator may redeem the security if the creditor's estimate
 of the security is paid: s 554F(2). Alternatively, if the liquidator is dissatisﬁed with
-the estimate given by the creditor, he or she could require the creditor’s security to
+the estimate given by the creditor, he or she could require the creditor's security to
 be offered for sale: s 554F(3). These provisions are designed to prevent the creditor
 from placing an artiﬁcially low value on the security in order to be able to claim for
 a greater sum in the winding up. There are similar provisions in ss 90 – 94 of the
@@ -1953,7 +1961,7 @@ value the security occurred through inadvertence.
 Pooling
 [15.310] At this point it is relevant to note that a company is a separate legal
 entity and if it is in liquidation must be treated as such. In some cases, however, the
-company’s affairs may be inextricably bound up with other companies in
+company's affairs may be inextricably bound up with other companies in
 liquidation in a group. In such cases, since the Corporations Amendment (Insolvency)
 Act 2007 (Cth), a statutory pooling regime is available to facilitate the winding up
 of companies in corporate groups – see Pt 5.6, Div 8 of the Corporations Act.99 There
@@ -1966,9 +1974,9 @@ make a determination that the winding up be conducted on a pooled basis. The
 companies must be related companies, or be jointly liable for one or more debts, or
 own or operate property that was used in connection with an enterprise carried on
 jointly by the companies: s 571(1)(b). The liquidator must then submit that
-determination to separate meetings of the “eligible unsecured creditors” of the
+determination to separate meetings of the "eligible unsecured creditors" of the
 group companies: s 571.
-The concept of an “eligible unsecured creditor”101 is central to the pooling regime.
+The concept of an "eligible unsecured creditor"101 is central to the pooling regime.
 In general terms, it includes all the unsecured creditors of the group but excludes
 other companies in the pooled group; that is, it excludes intra-group companies
 from voting on or objecting to the pooling determination.102
@@ -1979,18 +1987,18 @@ determination: IPRC, s 75-180.
 The liquidator must give written notice of the proposed determination to each
 eligible unsecured creditor, together with a statement identifying each of the
 companies in the group and setting out:
-• the liquidator’s opinion about particular matters (whether it would be in the
+• the liquidator's opinion about particular matters (whether it would be in the
    interest of creditors for the determination to take effect, the extent to which
 
 98 Health & Life Care Ltd v SA Asset Management Corporation (1995) 65 SASR 48; Provident Capital Ltd v
    Kelso Builders Supplies Pty Ltd [2008] FCA 868; (2008) 66 ACSR 643.
-99 See Harris, “The Revised Statutory Pooling Provisions” (2007) 19(3) A Insol J 28.
+99 See Harris, "The Revised Statutory Pooling Provisions" (2007) 19(3) A Insol J 28.
 100 For a discussion of pooling in voluntary administration and using schemes of arrangement, see
-    Harris, “Corporate Group Insolvencies: Charting the Past, Present and Future of Pooling
-    Arrangements” (2007) 15 Insol LJ 78.
+    Harris, "Corporate Group Insolvencies: Charting the Past, Present and Future of Pooling
+    Arrangements" (2007) 15 Insol LJ 78.
 101 Deﬁned in Corporations Act, s 579Q and Corporations Regulations, reg 5.6.73.
-102 “Pooled group” and “member of a pooled group” are deﬁned in IPSC, s 5-27.
-606    Keay’s Insolvency: Personal and Corporate Law and Practice             [15.315]
+102 "Pooled group" and "member of a pooled group" are deﬁned in IPSC, s 5-27.
+606    Keay's Insolvency: Personal and Corporate Law and Practice             [15.315]
 
   particular creditors and particular companies are likely to be disadvantaged by
   the determination, and the likely return to creditors if the determination takes
@@ -2010,7 +2018,7 @@ determination would materially prejudice that creditor, or that the information
 provided to creditors is false or misleading, material information was omitted or
 the pooling determination would be oppressive or unfairly prejudicial to, or
 unfairly discriminate against, creditors: s 579A.
-The term “pooling” itself is not deﬁned but s 571(2) outlines the consequences of a
+The term "pooling" itself is not deﬁned but s 571(2) outlines the consequences of a
 pooling determination; that is, that each company in the group is taken to be jointly
 and severally liable for each debt payable by and each claim against each other
 company in the group, and each debt payable by a company in the group to any
@@ -2031,7 +2039,7 @@ A pooling determination comes into force immediately after the resolutions
 approving the making of the determination are passed: s 578. A copy of the
 determination must be lodged with ASIC within seven days of its taking effect:
 s 573.
-The determination does not limit a liquidator’s power under s 477, for example to
+The determination does not limit a liquidator's power under s 477, for example to
 make any compromise or arrangement with creditors or compromise any debts or
 claims: s 571(11).
 A pooling determination in force in relation to a group may also be varied, subject
@@ -2082,12 +2090,12 @@ company was in voluntary winding up, after having been through the Corporations
 103 See Allen v Feather Products Pty Ltd [2008] NSWSC 259; (2008) 72 NSWLR 597; .
 104 Re Lombe [2011] NSWSC 1536; (2011) 87 ACSR 84; Lofthouse v Environmental Consultants International
     Pty Ltd [2012] VSC 416.
-608      Keay’s Insolvency: Personal and Corporate Law and Practice             [15.330]
+608      Keay's Insolvency: Personal and Corporate Law and Practice             [15.330]
 
 Act, Pt 5.3A process, on application by the liquidation under s 447A of the Act. In
-one case, the court envisaged situations where pooling was “both just and equitable
+one case, the court envisaged situations where pooling was "both just and equitable
 if not essential … for example the case of a group of companies where the assets
-have been so intermingled that their separation is practically impossible”.105
+have been so intermingled that their separation is practically impossible".105
 While pooling is a useful tool, it should be recognised that from a strict insolvency
 viewpoint it is a compromise of the pari passu principle, in that creditors are often
 not necessarily sharing equally in the assets of the company. It is for that reason
@@ -2095,7 +2103,7 @@ that the regime is set down, and its protections, to allow creditors and the cou
 necessary to ensure that rights are not unfairly affected.
 
 DISTRIBUTION OF THE COMPANY ASSETS
-[15.330] Naturally, the distribution of the company’s realised and recovered
+[15.330] Naturally, the distribution of the company's realised and recovered
 assets is of crucial concern to the creditors and it also constitutes one of the major
 tasks of the liquidator. The liquidator will distribute a ﬁnal dividend to creditors
 from the realisation of these assets. However, during the course of the administration
@@ -2107,7 +2115,7 @@ liquidator must distribute as a dividend all money in hand except what is needed
 for administration or to give effect to the legislation.
 
 Payment of dividends
-[15.335]    A dividend is a creditor’s share of the company’s assets, and a ﬁnal one
+[15.335]    A dividend is a creditor's share of the company's assets, and a ﬁnal one
 will be paid once all assets have been realised. Before declaring a dividend, the
 liquidator must consider the position of the priority creditors. As in bankruptcy
 these are creditors who are given, by statute (for example Corporations Act, s 556) or
@@ -2117,13 +2125,13 @@ balance of the estate is distributed to the unsecured creditors.
 Creditors will only receive dividends if they have had their debts admitted by the
 liquidator: reg 5.6.63.
 Before declaring a dividend, a liquidator is required to give notice of this not more
-than two months before the intended date by publishing a notice on ASIC’s Public
+than two months before the intended date by publishing a notice on ASIC's Public
 Notices website, and in respect of a ﬁnal dividend, give a written notice (ASIC
 Form 548) to any person whose debt has not been admitted and:
 • who is shown as a creditor in the report as to affairs given under s 475 in a
   compulsory liquidation;
 • who is shown as a creditor in the list of creditors sent to creditors pursuant to
-  s 497(1)(a)(ii) in a creditors’ voluntary liquidation; or
+  s 497(1)(a)(ii) in a creditors' voluntary liquidation; or
 • the liquidator knows that the person claims to be a creditor: reg 5.6.65(1).106
 
 105 Mentha v GE Capital Ltd [1997] FCA 1579; (1998) 16 ACLC 1,032, 1,037.
@@ -2167,16 +2175,16 @@ those priority creditors.
 
 107 See Unclaimed money – how to lodge money unclaimed under the Corporations Act at http://
     www.asic.gov.au. In bankruptcy, see Chapter 6.
-108 For a criticism of the erosion of the pari passu principle, see Finch, “Is Pari Passu Passé?” (2000) 5
+108 For a criticism of the erosion of the pari passu principle, see Finch, "Is Pari Passu Passé?" (2000) 5
     Insolvency Lawyer 194.
-109 Re National Employers’ Mutual General Insurance Association Ltd (1995) 15 ACSR 624.
-110 See Bourke, “The Effectiveness in Australia of Contractual Debt Subordination Where the Debtor
-    Becomes Insolvent” (1996) 7 Journal of Banking and Finance Law & Practice 107.
+109 Re National Employers' Mutual General Insurance Association Ltd (1995) 15 ACSR 624.
+110 See Bourke, "The Effectiveness in Australia of Contractual Debt Subordination Where the Debtor
+    Becomes Insolvent" (1996) 7 Journal of Banking and Finance Law & Practice 107.
 111 Fowler v Lindholm [2009] FCAFC 125; (2009) 178 FCR 563 at [78] (where a scheme provided an extra
     payment to litigation creditors compared with those not involved in litigation against the
     company).
 112 Morepine Pty Ltd v Crush Paciﬁc Industries Pty Ltd (1996) 131 FLR 436.
-610      Keay’s Insolvency: Personal and Corporate Law and Practice                         [15.350]
+610      Keay's Insolvency: Personal and Corporate Law and Practice                         [15.350]
 
 It should be noted that neither the Commissioner of Taxation nor any Government
 instrumentality is entitled to a special priority in a liquidation.113
@@ -2192,19 +2200,19 @@ among the unsecured creditors.
 One highly contentious issue that has generated a large number of divergent
 authorities in recent years is whether s 556 priorities must be complied with when
 the company in liquidation is acting as trustee in the conduct of a business,
-commonly as a “trading trust”: see [14.15]. Such a company may have creditors in
+commonly as a "trading trust": see [14.15]. Such a company may have creditors in
 its trustee role, but may have separate creditors as the company itself (ie acting not
 as a trustee).
-In Chapter 14 we discussed the issue of the trustee’s right of indemnity and the
-delineation of the “property of the company”. The issue that has troubled the
-courts (and liquidators) is whether exercise of the company in liquidation’s right of
+In Chapter 14 we discussed the issue of the trustee's right of indemnity and the
+delineation of the "property of the company". The issue that has troubled the
+courts (and liquidators) is whether exercise of the company in liquidation's right of
 indemnity against trust assets must result in distribution according to s 556. This
 has involved a number of conﬂicting decisions, and unfortunately the law is still
 unsettled.
 The Full Court of the Supreme Court of Victoria decision in Re Enhill Pty Ltd [1983]
-1 VR 561 held that the trustee company’s right of indemnity was property of the
+1 VR 561 held that the trustee company's right of indemnity was property of the
 company and, importantly, that the proceeds of sale from the trust assets that were
-subject to the right of indemnity could be distributed to all of the company’s
+subject to the right of indemnity could be distributed to all of the company's
 creditors according to the s 556 priorities, and not only those creditors who dealt
 with the company acting as trustee. This has proven highly controversial in
 subsequent decisions,115 although the Victorian Court of Appeal in Commonwealth v
@@ -2219,11 +2227,11 @@ pay non-trust liabilities (eg where the company acted in both trustee and
 113 Any special priorities for the government (including the Commissioner of Taxation in relation to
     ordinary tax claims) were abolished by the Crown Debts (Priority) Act 1980 (Cth) and by the
     Corporate Law Reform Act 1992 (Cth). But note that child support moneys withheld from an
-    employee’s wage by a company that goes into liquidation is a priority debt, prevailing even over
+    employee's wage by a company that goes into liquidation is a priority debt, prevailing even over
     secured claims. Those moneys are payable to the Child Support Registrar: Child Support
     (Registration and Collection) Act 1988 (Cth), s 50.
 114 See further Symes, Statutory Priorities in Corporate Insolvency Law (Ashgate, 2008).
-115 See further D’Angelo, Commercial Trusts (LexisNexis Butterworths, 2014).
+115 See further D'Angelo, Commercial Trusts (LexisNexis Butterworths, 2014).
 [15.350]                                           15 Administration of the Winding Up   611
 
 non-trustee capacities). More recently, Brereton J in Re Independent Contractor
@@ -2236,7 +2244,7 @@ subsequent cases including the trial decision in Re Amerind Pty Ltd (recs and mg
 apptd) (in liq) [2017] VSC 127; (2017) 121 ACSR 206.
 That was overturned in the Amerind appeal (Commonwealth v Byrnes [2018] VSCA
 41), which held that the right of indemnity (speciﬁcally the right to use trust
-property to satisfy trust debts, known as the “right of exoneration”) was property
+property to satisfy trust debts, known as the "right of exoneration") was property
 of the trustee company and must therefore be subject to the statutory priorities. The
 Amerind appeal court did not decide whether trust property could be used to pay
 non-trust creditors if the trustee acted in both trustee and non-trustee capacities.
@@ -2246,33 +2254,33 @@ described the right of indemnity as being a proprietary interest of the company
 trustee, but also described the right as being a ﬁrst charge on the trust property. A
 ﬁrst principle of security law is that a person cannot take a charge on their property
 (although a company can grant a charge or other security in its property). If the
-trustee’s right of indemnity is a proprietary interest how can it also be subject to a
+trustee's right of indemnity is a proprietary interest how can it also be subject to a
 charge held by the trustee? The answer is that the charge is an equitable charge in
 the nature of a lien on the trust property which does not of itself allow for sale of
-the assets without court approval. The proprietary interest of the trustee company’s
+the assets without court approval. The proprietary interest of the trustee company's
 right of indemnity is not the same as full beneﬁcial ownership, but when enforcing
 the right of exoneration is limited to satisfy only trust debts: Jones (Liquidator) v
 Matrix Partners Pty Ltd; Re Killarnee Civil & Concrete Contractors Pty Ltd (in liq) [2018]
 FCAFC 40; Suco Gold.
-It is important to distinguish between the different elements of the trustee’s right of
+It is important to distinguish between the different elements of the trustee's right of
 indemnity, namely the right of exoneration and the right of reimbursement: as to
 which see the detailed review in Re Lane (Trustee); Lee (Bankrupt) v Deputy
 Commissioner of Taxation [2017] FCA 953. For the latter, the trustee has paid out trust
 debts from personal (ie, non-trust property) and the claim for reimbursement under
 the right of indemnity makes the funds in the hands of the trustee company the
-company’s personal property (which, in that state, should be subject to s 556). On
+company's personal property (which, in that state, should be subject to s 556). On
 the other hand, the right of exoneration is only available where a properly incurred
 trust debt remains unsatisﬁed and hence usage of the trust property to pay that
-debt does not change the character of the property into the company’s full
+debt does not change the character of the property into the company's full
 beneﬁcial property free from a prior equitable limitation to use for trust purposes:
 Killarnee.
 In that case, the Full Court of the Federal Court sitting as a court of ﬁrst instance
-agreed with the Amerind appeal decision that the trustee company’s right of
-exoneration is “property of the company” for the purposes of the Corporations Act
-(with both cases applying the High Court’s decision in Octavo Investments), but that
+agreed with the Amerind appeal decision that the trustee company's right of
+exoneration is "property of the company" for the purposes of the Corporations Act
+(with both cases applying the High Court's decision in Octavo Investments), but that
 this proprietary interest was not part of the trust assets themselves, but rather the
 trustees right to deal with those assets (usually by seeking a court order to appoint
-612      Keay’s Insolvency: Personal and Corporate Law and Practice               [15.350]
+612      Keay's Insolvency: Personal and Corporate Law and Practice               [15.350]
 
 a receiver for sale). It is important to note that the right of indemnity (including
 exoneration) is not absolute and can be lost by the conduct of the trustee (such as
@@ -2300,7 +2308,7 @@ property, so that the beneﬁciaries had no remaining interest, then the court w
 not need to appoint a receiver for sale.
 It should be noted that even where s 556 priority is not available for distributing
 trust property, the court retains jurisdiction to give a measure of priority to the
-liquidator’s costs and remuneration using equitable principles of priorities and/or
+liquidator's costs and remuneration using equitable principles of priorities and/or
 the principles in Re Universal Distributing Co (in liq) (1933) 48 CLR 171; Re Berkeley
 Applegate (Investment Consultants) Ltd (in liq) [1989] Ch 32; Kite v Mooney (No 2)
 [2017] FCA 653; Re Sutherland [2004] NSWSC 798; (2004) 50 ACSR 297. See further
@@ -2316,7 +2324,7 @@ fact that the trustee was acting as a bare trustee due to an ejection clause. Bo
 involved companies acting solely as trustee. At the time of writing (May 2018) the
 Amerind appeal was subject to a special leave application to the High Court.
 
-116 This is known as the “clear accounts rule”.
+116 This is known as the "clear accounts rule".
 117 See generally Re MF Global Australia Ltd (in liq) (No 2) [2012] NSWSC 1426.
 [15.360]                                           15 Administration of the Winding Up   613
 
@@ -2325,9 +2333,9 @@ have plagued the administration of insolvent trustees for the past 40 years.
 
 Costs and expenses relating to company property: s 556(1)(a)
 [15.355] This category covers the expenses incurred properly by a liquidator
-(referred to, with other insolvency administrators as “the relevant authority”) in
+(referred to, with other insolvency administrators as "the relevant authority") in
 preserving, realising and getting in company property or carrying on the
-company’s business. This would, for instance, cover auctioneer’s fees in auctioning
+company's business. This would, for instance, cover auctioneer's fees in auctioning
 company property. Pre-liquidation contracts may give rise to expenses under
 s 556(1)(a) where the conduct undertaken pursuant to the contract during the
 liquidation is for the beneﬁt of the liquidation: Grapecorp Management Pty Ltd v
@@ -2337,7 +2345,7 @@ held that settlement of a lawsuit brought by creditors in respect of conduct by 
 liquidator in refusing to transfer goods back to suppliers (following a court ruling
 on the application of the PPSA vesting rules) were amounts properly incurred
 under s 556(1)(a).
-The category does not encompass certain expenses, known as “deferred expenses”.
+The category does not encompass certain expenses, known as "deferred expenses".
 This term is deﬁned in s 556(2) as including the remuneration of the liquidator and
 expenses incurred in respect of services supplied by partners and employees of the
 liquidator. Costs, charges and expenses of a winding up cannot be set-off against
@@ -2347,27 +2355,27 @@ Within this class of expenses are the costs ordered by the company to be paid in
 unsuccessful litigation. In Lofthouse, in the matter of Riverside Nursing Care Pty Ltd
 [2004] FCA 93; (2004) 22 ACLC 215 Finkelstein J explained the law this way (at
 [26]):
-   “The cases established the following rules. If the liquidator commenced an unsuccessful
+   "The cases established the following rules. If the liquidator commenced an unsuccessful
    action in the name of the company any costs ordered against the company were not to be
    proved as a debt in the winding up. This was because the costs were incurred in the
-   winding up and were payable in full out of the company’s assets. The same position held
+   winding up and were payable in full out of the company's assets. The same position held
    if the liquidator unsuccessfully defended an action brought against the company. It did
    not matter whether the action was begun before liquidation and its defence or
    prosecution (as the case may be) was taken over by the liquidator. Nor did it make any
    difference whether the liquidation was compulsory or voluntary. Moreover, if the
    company was insolvent the costs were to be paid in priority to the general costs of the
-   liquidation and in priority to the liquidator’s remuneration.”
+   liquidation and in priority to the liquidator's remuneration."
 
 Taxed costs of applicant for winding up order: s 556(1)(b), (ba)
 [15.360] Usually where an application has been made for the compulsory
 winding up of a company the court orders that the legal costs of the applicant be
-“taxed” and paid by the liquidator from the property of the company. Such an
+"taxed" and paid by the liquidator from the property of the company. Such an
 amount is a second priority for payment under s 556(1)(b). The costs payable in
 terms of s 466(2), are that the liquidator must, unless the court orders otherwise,
 reimburse the applicant out of the property of the company their taxed costs. The
 courts have rules for such amounts. For example, the Federal Court allows on
 taxation in corporations matters $3,776 as the amount that may be claimed by a
-614      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.365]
+614      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.365]
 
 plaintiff on the making of a winding up order or on the dismissal of such an
 application; with additional costs allowed for any disbursements and any
@@ -2385,7 +2393,7 @@ The legal costs incurred by the liquidator in administering the liquidation will
 covered by either s 556(1)(a) or (dd).
 If during the period of 12 months ending when the winding up commenced, an
 application to wind up the company was being made under s 459P, and the
-company then went into administration, the creditor’s costs of that thwarted
+company then went into administration, the creditor's costs of that thwarted
 application are next payable: s 556(1)(ba).
 
 Certain debts of an administrator: s 556(1)(c)
@@ -2401,7 +2409,7 @@ Company resolves to wind up voluntarily – s 556(1)(daa)
 [15.370] If a company in voluntary administration or under a deed of company
 arrangement resolves by special resolution that it be wound up voluntarily, the
 liquidator may require an officer of the company to give a report as to the
-company’s affairs (RATA). Costs and expenses of the person preparing that report
+company's affairs (RATA). Costs and expenses of the person preparing that report
 are payable under s 446C(8). These are given a priority under s 556(1)(daa).
 
 Other liquidation expenses: s 556(1)(dd)
@@ -2410,12 +2418,12 @@ in the winding up and not covered by s 556(1)(a).
 
 118 See Morepine Pty Ltd v Crush Paciﬁc Industries Pty Ltd (1996) 131 FLR 436. See also Re Bcode Pty Ltd
     [2012] NSWSC 1530.
-119   See ASIC’s RG 93 Reimbursing Liquidation Costs.
+119   See ASIC's RG 93 Reimbursing Liquidation Costs.
 [15.390]                                                    15 Administration of the Winding Up       615
 
 Deferred expenses: s 556(1)(de)
 [15.380] This category covers the remuneration of the liquidator in relation to
-work performed in the liquidation.120 Liquidators’ remuneration is approved under
+work performed in the liquidation.120 Liquidators' remuneration is approved under
 IPSC, Div 60.
 
 Expenses of members of committee of inspection: s 556(1)(df)
@@ -2429,14 +2437,14 @@ contributions and the superannuation guarantee charge (SGC) in respect of servic
 rendered to the company before the date when liquidation is taken to have begun.
 In Re Independent Contractor Services (Aust) Pty Ltd (in liq) (No 2) [2016] NSWSC 106;
 (2016) 305 FLR 222 at [22], Brereton J stated:
-   “Section 556 does not capture all superannuation guarantee charge payable by a company
+   "Section 556 does not capture all superannuation guarantee charge payable by a company
    in liquidation, but only such as is in respect of employees as deﬁned in s 556: priority is
    afforded to superannuation guarantee charge only to the extent that it is payable in
-   respect of services rendered to the company by employees as deﬁned in s 556.”
+   respect of services rendered to the company by employees as deﬁned in s 556."
 Those employees who are within the classiﬁcation of excluded employees in
 s 556(2) of the Corporations Act are limited to claiming the sum of $2,000 each in
-respect of days which are classiﬁed as non-priority days: s 556(1A). An “excluded
-employee” includes:
+respect of days which are classiﬁed as non-priority days: s 556(1A). An "excluded
+employee" includes:
 • an employee who has been a director at any time during the 12 months
   preceding the relevant date (see s 9, usually the date of the winding up in a
   compulsory liquidation or the date of the resolution to wind up in a voluntary
@@ -2456,14 +2464,14 @@ limitation as to what that employee can claim in relation to that period.
 121 See [15.40].
 122 Contractors are not employees for this provision: Re Independent Contractor Services (Aust) Pty Ltd (in
     liq) (No 2) [2016] NSWSC 106; (2016) 305 FLR 222.
-616     Keay’s Insolvency: Personal and Corporate Law and Practice                          [15.395]
+616     Keay's Insolvency: Personal and Corporate Law and Practice                          [15.395]
 
 The limitation placed on excluded employees is intended to act as a disincentive to
 directors to continue trading when a company is insolvent. Furthermore, directors
 are typically able to determine their own remuneration.
 Where SGC amounts are attributable to periods wholly before or wholly after the
 relevant date or the relevant date divides a quarter, special provisions apply. The
-term “attributable” relates to the period in which the employment services were
+term "attributable" relates to the period in which the employment services were
 provided to the company by the employee. The amount of SGC attributable to the
 period occurring before the relevant date will be taken for the purposes of s 556 to
 be an amount referred to in s 556(1)(e). The amount of SGC attributable to the
@@ -2472,11 +2480,11 @@ under s 556(1)(a). See s 556(1AB) – (1AG).123
 
 Leave entitlements of employees: s 556(1)(g)
 [15.395] Employees are to receive all amounts due in respect of leave of absence
-up to the relevant date. Those who are “excluded employees” are limited to $1,500
+up to the relevant date. Those who are "excluded employees" are limited to $1,500
 in relation to non-priority days (see the discussion at [15.375] in relation to wages):
-s 556(1B). “Leave of absence” is deﬁned in s 9 to include “long service leave,
+s 556(1B). "Leave of absence" is deﬁned in s 9 to include "long service leave,
 extended leave, recreation leave, annual leave, sick leave or any other form of leave
-of absence from employment”. The leave of absence must be a right pursuant to an
+of absence from employment". The leave of absence must be a right pursuant to an
 industrial instrument such as a contract of employment or award: s 556(1)(g)(ii); s 9.
 
 Retrenchment payments to employees: s 556(1)(h)
@@ -2486,17 +2494,17 @@ agreement).124 In contrast to wage and leave entitlements, the deﬁnition of
 retrenchment payment in s 556(2) draws no distinction as to whether the payments
 become payable before, on or after the relevant date: Ansett Australia Ground Staff
 Superannuation Plan Pty Ltd v Ansett Australia Ltd [2002] VSCA 117; (2002) 176 FLR
-576 at [276]. “Excluded employees” are not entitled to any amount in relation to
+576 at [276]. "Excluded employees" are not entitled to any amount in relation to
 non-priority days: s 556(1C).125
 Where a contract of employment existed immediately before the relevant date, the
 employees are entitled to payment as if their services had been terminated by the
 company on the relevant date: s 558(1). The purpose of this section is:
-   “to ensure that employees would not in a winding up lose priority for annual and long
+   "to ensure that employees would not in a winding up lose priority for annual and long
    service leave which was still accruing but had not yet fallen due at the commencement of
    the winding up … (otherwise) the employees whose employment was about to come to
    an end as a result of the winding up would be disadvantaged when compared with
    employees whose rights had accrued as they would miss out on the beneﬁts which they
-   were intended to be given.”126
+   were intended to be given."126
 
 123 McGrath v Sturesteps [2011] NSWCA 315; (2011) 81 NSWLR 690.
 124 A claim for lost wages due to early termination of an employment contract is not a retrenchment
@@ -2515,13 +2523,13 @@ assets to pay all or a proportion of the taxation liability. Once the clearance 
 issued, the trustee is able to make a distribution to unsecured creditors. The
 Commissioner can require a liquidator to prepare and lodge any overdue
 documents for a company in liquidation, including documents for periods prior to
-the liquidator’s date of appointment.
+the liquidator's date of appointment.
 Liquidators have PAYG obligations in respect of retained employees of the
 company. Liquidators must also make tax instalment deductions payable to the Tax
 Commissioner when paying any dividend to employees: DCT v Applied Design
 Development Pty Ltd [2002] FCA 205; (2002) 117 FCR 336. These dividends relate to
 moneys owed to employees by their employer company at the date of the
-company’s demise and are in the nature of wages.
+company's demise and are in the nature of wages.
 Liquidators have obligations to register and account for GST127 and may be
 required to lodge company tax returns.
 
@@ -2532,7 +2540,7 @@ are to have priority in respect of the amounts advanced, to the extent to which 
 employees would have had priority if the payments had not been made. Such a
 creditor can be paid in priority to priority creditors: Australia and New Zealand
 Banking Group Ltd v TJF/EBC Pty Ltd [2006] NSWSC 25; (2006) 24 ACLC 327. This
-may typically be a bank which is thereby entitled to “stand in the shoes” of the
+may typically be a bank which is thereby entitled to "stand in the shoes" of the
 employees and assume their priority status. However, the funds must be provided
 to the company to enable the company paying the employees. The section does not
 apply where a third party pays the employees directly: Re Dalma No 1 Pty Ltd [2013]
@@ -2551,7 +2559,7 @@ pays to those employees certain levels of unpaid wage, leave and other
 
 127 A New Tax System (Goods and Services Tax) Act 1999 (Cth), Div 58, Representatives of incapacitated
     entities.
-618      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.420]
+618      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.420]
 
 entitlements. Having paid those entitlements to the employees, the Commonwealth
 then becomes a priority creditor to receive dividend payments for those amounts in
@@ -2575,15 +2583,15 @@ are seen to have taken a ﬁnancial risk with a view to enhancing the fund avail
 for application by the liquidator for the beneﬁt of all creditors. As the court said in
 State Bank of New South Wales v Brown [2001] NSWCA 223; (2001) 38 ACSR 715, 720
 at [35]:
-   “The prospect of reward is, of course, the incentive to give the indemnity which,
-   potentially, will result in beneﬁts to all creditors.”
+   "The prospect of reward is, of course, the incentive to give the indemnity which,
+   potentially, will result in beneﬁts to all creditors."
 
-“Property” in s 564 refers to all property that the liquidator has, or can obtain, for
-the purposes of the winding up, and includes “both a right of action maintainable
+"Property" in s 564 refers to all property that the liquidator has, or can obtain, for
+the purposes of the winding up, and includes "both a right of action maintainable
 by the liquidator under s 588FF or s 588M and money received or receivable by the
 company by virtue of an order made under either section at the suit of the
-liquidator”: Tolcher v National Australia Bank [2004] NSWSC 6; (2004) 182 FLR 419.131
-For example, a court may order that an indemnifying creditor’s debt be wholly or
+liquidator": Tolcher v National Australia Bank [2004] NSWSC 6; (2004) 182 FLR 419.131
+For example, a court may order that an indemnifying creditor's debt be wholly or
 partly paid out of property recovered by the liquidator, after the creditor has been
 reimbursed for any funds paid out in respect of legal costs incurred by the
 liquidator.
@@ -2591,7 +2599,7 @@ The court has the power to confer, in its discretion, a priority as to the whole
 only of the property protected, preserved or recovered, and the order must be such
 
 128 See https://extranet.employment.gov.au/feg.
-129 See Kee, “Section 564: Creditor Funding and Preferential Distributions” (2006) 14 Insolv LJ 150;
+129 See Kee, "Section 564: Creditor Funding and Preferential Distributions" (2006) 14 Insolv LJ 150;
     Lombe, Re Babcock and Brown Ltd [2012] FCA 107 at [39].
 130 Re Ken Godfrey Pty Ltd (1994) 14 ACSR 610, 612; Power Demolitions Pty Ltd v Tosich Constructions Pty
     Ltd (1998) 16 ACLC 410, 413; Tolcher v National Australia Bank [2004] NSWSC 6; (2004) 182 FLR 419.
@@ -2613,7 +2621,7 @@ Financial Services Pty Ltd v Chase Medical Centre Pty Ltd (1995) 18 ACSR 294,
 
 In that case, the court awarded all of the money available to unsecured creditors
 (after successful litigation) to the indemnifying creditor who was the only creditor
-to respond to the liquidator’s call for assistance.134
+to respond to the liquidator's call for assistance.134
 A court will consider the risks assumed by the creditor in funding proceedings and
 in doing this, actual outcomes, assessed with the beneﬁt of hindsight, are relevant
 to assessing what risk would reasonably have been perceived at the earlier times
@@ -2625,12 +2633,12 @@ Certain issues that have arisen with s 564 in the case law include that:
   s 564 even if the company then goes into liquidation: Fuji Xerox v Tolcher [2004]
   NSWCA 284; (2004) 60 NSWLR 696;
 • the court may make an order under s 564 conferring priority on the
-  indemnifying creditor even over the liquidator’s costs and expenses: DCT v
+  indemnifying creditor even over the liquidator's costs and expenses: DCT v
   Vintage Gold Investments Pty Ltd [2009] FCA 967; and
 • while the courts generally take a liberal approach in favouring indemnifying
   creditors, they will only hear s 564 applications after the successful outcome of
   the funded proceedings.135
-A creditor may purchase a company’s right of action through an assignment and
+A creditor may purchase a company's right of action through an assignment and
 through that action may recover more than they are owed as creditors: Re DH
 International Pty Ltd (in liq) (No 2) [2017] NSWSC 871 at [69].
 
@@ -2641,7 +2649,7 @@ International Pty Ltd (in liq) (No 2) [2017] NSWSC 871 at [69].
     Parte Carson [2009] FCA 118.
 135 The Bell Group Ltd v Westpac Banking Corporation (1997) 18 WAR 21; DCT v Currockbilly [2002]
     NSWSC 1061; cf Re Gleadell Pty Ltd (1991) 9 ACLC 1014.
-620      Keay’s Insolvency: Personal and Corporate Law and Practice                           [15.425]
+620      Keay's Insolvency: Personal and Corporate Law and Practice                           [15.425]
 
 Assets overseas and cross-border issues
 [15.425] As in bankruptcy, the property of a company in liquidation in Australia
@@ -2652,7 +2660,7 @@ Both the Corporations Act and the Cross-Border Insolvency Act 2008 (Cth), and it
 adoption of the Model Law on cross-border insolvency, can apply in relation to
 cross-border issues, for example, where assets of an Australian company in
 liquidation have been transferred overseas; or where assets of a foreign company in
-liquidation are located in Australia. Section 581 applies to “external administration”
+liquidation are located in Australia. Section 581 applies to "external administration"
 matters, deﬁned in s 580 of the Corporations Act to include winding up of a
 company or a Pt 5.7 body,136 including those outside Australia.
 The avenues in the Corporations Act have therefore remained as alternative courses
@@ -2683,10 +2691,10 @@ country from which assistance is requested will often itself have reciprocal law
     example a foreign company registered overseas but also registered in Australia under Pt 5B.2 Div 2
     of the Corporations Act: see for example, Titchﬁeld Management Ltd v Vaccinoma Inc [2008] NSWSC
     1196; (2008) 68 ACSR 448.
-137 For criticism of the regime, see McCormack and Hargovan, “Australia and the International
-    Insolvency Paradigm” (2015) 37 Syd LR 389, who say that the various “procedures overlap in a
+137 For criticism of the regime, see McCormack and Hargovan, "Australia and the International
+    Insolvency Paradigm" (2015) 37 Syd LR 389, who say that the various "procedures overlap in a
     complex and confusing way, with cases potentially falling through gaps in the law and important
-    provisions being overlooked”.
+    provisions being overlooked".
 138 Subject to the Cross-Border Insolvency Act.
 139 The authorities are reviewed in Donnelly, Re Advance Finances Pty Ltd [2013] FCA 514.
 [15.430]                                                   15 Administration of the Winding Up    621
@@ -2701,7 +2709,7 @@ In considering whether to authorise a letter of request on behalf of an Australi
 liquidator, the Australian court must establish that there is utility in the request,
 that is, that the foreign court is likely to exercise its power to act upon the request:
 see Re HIH Insurance Ltd [2004] NSWSC 454; New Cap Reinsurance Corporation Ltd v
-A E Grant, Lloyd’s Syndicate No 991 [2009] NSWSC 662; (2009) 72 ACSR 638. In the
+A E Grant, Lloyd's Syndicate No 991 [2009] NSWSC 662; (2009) 72 ACSR 638. In the
 latter case, in authorising a request, the court took into account the fact that s 426 of
 the Insolvency Act 1986 (UK) operates in a similar way to s 581 of the Corporations
 Act to require the United Kingdom court to assist the foreign court to act on the
@@ -2728,16 +2736,16 @@ McGrath [2008] NSWSC 881; (2008) 26 ACLC 921.
 It should be noted that if a creditor levies execution or otherwise seizes assets
 located overseas of that Australian company in liquidation, that creditor cannot
 prove and receive a dividend in the winding up without ﬁrst bringing into
-“hotchpot” what has been recovered overseas.142 This long-established rule of
+"hotchpot" what has been recovered overseas.142 This long-established rule of
 hotchpot is found in Art 32 of the Model Law.143
 
 140 For example, Insolvency (Cross-border) Act 2006 (NZ), s 8.
-141 See further Wellard and Mason, “Global Rules on Conﬂict-of-Laws Matters in International
-    Insolvency Cases: An Australian Perspective” (2015) 23 Insolv LJ 5.
+141 See further Wellard and Mason, "Global Rules on Conﬂict-of-Laws Matters in International
+    Insolvency Cases: An Australian Perspective" (2015) 23 Insolv LJ 5.
 142 Re Oriental Inland Steam Co (1874) 30 LT 317; and on appeal Re Oriental Inland Steam Co (1874) LR 9
     Ch App 557.
 143 Cross-Border Insolvency Act 2008 (Cth), Sch 1.
-622      Keay’s Insolvency: Personal and Corporate Law and Practice                            [15.435]
+622      Keay's Insolvency: Personal and Corporate Law and Practice                            [15.435]
 
 In any such matters, Art 25 of the Model Law provides for the various courts to
 cooperate and communicate with each other and s 581(2) of the Corporations Act
@@ -2762,7 +2770,7 @@ it, the Australian court can exercise such powers it has as if the matter had ar
 Australia: Corporations Act, s 581(3). In Re Chow Cho Poon (Private) Ltd [2011]
 NSWSC 300, the NSW Supreme Court acted under s 581(2)(a) to assist the High
 Court of the Republic of Singapore in relation to the liquidation of a Singaporean
-company wound up by order of that court. There is no restriction on the court’s
+company wound up by order of that court. There is no restriction on the court's
 power to wind up a company simply because a request for assistance has been
 made by a foreign liquidator (or equivalent, such as a debtor in possession under
 the US Chapter 11 procedure): Legend International Holdings Inc (in liq) v Indian
@@ -2773,7 +2781,7 @@ Act – see [6.182].145
 Alternatively, under the Cross-Border Insolvency Act 2008 (Cth), a foreign liquidator
 may apply to an Australian court for recognition of its insolvency proceedings as a
 
-144 According to the “Explanatory Memorandum to the Cross-Border (Insolvency) Bill 2008 (Cth)”,
+144 According to the "Explanatory Memorandum to the Cross-Border (Insolvency) Bill 2008 (Cth)",
     there is the potential for inconsistency between the Model Law and s 581 of the Corporations Act
     because the Model Law imposes a mandatory obligation on the Australian court to co-operate with
     courts or representatives of foreign jurisdictions. In so far as s 581(2)(b) imposes only a
@@ -2781,13 +2789,13 @@ may apply to an Australian court for recognition of its insolvency proceedings a
     Model Law. Section 21 of the Cross-Border Insolvency Act provides that, in relation to s 581 of the
     Corporations Act, the Model Law and the Cross-Border Insolvency Act prevail. Such inconsistency was
     assessed but not found in Re Chow Cho Poon (Private) Ltd [2011] NSWSC 300.
-145 As we explained, s 581 applies to “external administration” matters, as deﬁned in s 580 of the
+145 As we explained, s 581 applies to "external administration" matters, as deﬁned in s 580 of the
     Corporations Act.
 [15.440]                                                  15 Administration of the Winding Up     623
 
 foreign main proceeding or as a foreign non-main proceeding.146 This will depend
-on the location of the “centre of main interests” (COMI) of the company, or on the
-location of its “establishment”.
+on the location of the "centre of main interests" (COMI) of the company, or on the
+location of its "establishment".
 If some recognition is granted, the foreign liquidator will have rights to investigate
 and recover assets in Australia under the Model Law on Cross-Border Insolvency:
 see for example, Wild (Foreign Representative) v Coin Co International PLC
@@ -2798,20 +2806,20 @@ be that a local liquidator is appointed to assist in the investigations and reco
 Surplus assets
 [15.440] Given that the test of insolvency is based on cash ﬂow rather than
 assets compared to liabilities, it is conceivable that the ultimate outcome of an
-insolvent liquidation will be that, after all the creditors’ claims and other expenses
+insolvent liquidation will be that, after all the creditors' claims and other expenses
 are paid, there will be surplus funds available. Debts due to members of the
 company are payable before any surplus is calculated and payment made to those
 members.
 In a voluntary winding up, this task of determining the rights of members and
 paying the surplus is performed by the liquidator, under authority of s 501 of the
-Corporations Act. In compulsory winding up, the court’s “special leave” is required
+Corporations Act. In compulsory winding up, the court's "special leave" is required
 under s 488(2) of the Act to pay out any surplus funds.147 The requirement for
-“special leave” means no more than that the court’s permission be sought by an
+"special leave" means no more than that the court's permission be sought by an
 application specially made by the liquidators: Re D S Millard & Son Pty Ltd [1997]
-NSWSC 201; (1997) 24 ACSR 71. The application must be advertised (Courts’
+NSWSC 201; (1997) 24 ACSR 71. The application must be advertised (Courts'
 Corporations Rules, r 7.9(2), Form 15), and served on the contributories and the
 creditors. The court then authorises the liquidator to make the payment to the
-contributories, subject to payment of the liquidator’s remuneration and expenses:
+contributories, subject to payment of the liquidator's remuneration and expenses:
 DCT, in the matter of Opalarch Pty Ltd [2010] FCA 607.
 
                    Chapter 15 – Administration of the Winding Up
@@ -2823,16 +2831,16 @@ Corporations Regulations                  Part 5.5 – Winding up generally –
                                           regs 5.6.11 – 5.6.75
 Cross-Border Insolvency Act and the                              –
 Model Law on Cross-Border Insolvency
-Courts’ Corporations Rules and Practice   Divs 7, 10, 11, 11A, 15A
+Courts' Corporations Rules and Practice   Divs 7, 10, 11, 11A, 15A
 Notes
 
-146 See the Courts’ Corporations Rules, Div 15A. See also, Federal Court of Australia Cross-Border
+146 See the Courts' Corporations Rules, Div 15A. See also, Federal Court of Australia Cross-Border
     Practice Note, GPN-XBDR – Cooperation with foreign courts or foreign representatives, October 2016;
     and similar practice notes in the Supreme Courts.
 147 See, for example, Otis Elevator Company Pty Ltd v Guide Rails Pty Ltd [2004] NSWSC 383; (2004) 49
     ACSR 531; Re FAI Car Owners Mutual Insurance Co Pty Ltd [2009] NSWSC 1350; (2009) 76 ACSR 164;
     Re Glengrant Civil Pty Ltd (in liq) [2017] NSWSC 843.
-624    Keay’s Insolvency: Personal and Corporate Law and Practice                     [15.445]
+624    Keay's Insolvency: Personal and Corporate Law and Practice                     [15.445]
 
                     Chapter 15 – Administration of the Winding Up
                                            As to Practice Notes, see, eg, Federal Court
@@ -2853,7 +2861,7 @@ CONCLUSION
 [15.445] Before dealing with the formal ending or termination of the liquidation,
 we now examine issues involving the liability of the company and its officers for
 criminal offences, and the personal liability of company officers for their part in the
-company’s insolvency, one common example being that of insolvent trading, and
+company's insolvency, one common example being that of insolvent trading, and
 also tax liabilities.
           Criminal Offences and Civil
           Actions Against Company
@@ -2884,15 +2892,15 @@ also tax liabilities.
 [16.105] Defences ............................................................................................................ 641
 [16.110] Consequences of liability ............................................................................... 643
     [16.115] Assignment of insolvent trading claims ................................................................ 644
-    [16.120] Individual creditor’s claim ....................................................................................... 645
+    [16.120] Individual creditor's claim ....................................................................................... 645
     [16.125] Group companies ....................................................................................................... 645
 [16.130] Holding company liability for subsidiary .................................................. 646
 [16.135] Order of application of compensation moneys ......................................... 646
 [16.140] Conclusion ........................................................................................................ 647
-626         Keay’s Insolvency: Personal and Corporate Law and Practice                                                                 [16.05]
+626         Keay's Insolvency: Personal and Corporate Law and Practice                                                                 [16.05]
 
-[16.145] DIRECTORS’ LIABILITIES TO THE COMMISSIONER OF TAXATION ............. 648
-[16.150] Directors’ indemniﬁcation of the Commissioner in relation to voidable
+[16.145] DIRECTORS' LIABILITIES TO THE COMMISSIONER OF TAXATION ............. 648
+[16.150] Directors' indemniﬁcation of the Commissioner in relation to voidable
          transactions ...................................................................................................... 648
     [16.150] Income Tax Assessment Act 1936 (Cth) (ITAA 1936) .......................................... 648
     [16.155] Defences ....................................................................................................................... 649

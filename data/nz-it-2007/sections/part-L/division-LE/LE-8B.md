@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Tax credit limited**
 
-**(2)**  The person’s tax credit for the imputation credit is limited to the lesser of the imputation credit and the following amount: imputation ratio × FIF income.
+**(2)**  The person's tax credit for the imputation credit is limited to the lesser of the imputation credit and the following amount: imputation ratio × FIF income.
 
 **Definition of items in formula**
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) imputation ratio is the imputation ratio referred to in section OB 60 (Imputation credits attached to dividends) if the relevant amount of LE 1(4B) income is treated as a dividend, and the imputation credit is attached to it.
 
-- (b) FIF income is the person’s FIF income for the income year in which the imputation credit is received, to the extent to which the FIF income is for the attributing interest for which the imputation credit is received.
+- (b) FIF income is the person's FIF income for the income year in which the imputation credit is received, to the extent to which the FIF income is for the attributing interest for which the imputation credit is received.
 
 *Defined in this Act: assessable income, attributing interest, dividend, FIF income, imputation credit, imputation ratio, income year, tax credit*
 

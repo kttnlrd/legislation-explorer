@@ -221,7 +221,7 @@ Global group
 58
 Consistent with the global consolidated group
 59
-Priced relative to traceable third-party debt, relevant third-party debt of the group,  or global group cost of funds
+Priced relative to traceable third-party debt, relevant third-party debt of the group, or global group cost of funds
 60
 Appropriate collateral
 69
@@ -1334,11 +1334,11 @@ Scope of this Schedule
 195. This Schedule should be read in conjunction with:
 •
 Taxation Ruling TR 2014/6
-Income tax:  transfer pricing - the application of section 815-130 of the Income Tax Assessment Act 1997
+Income tax: transfer pricing - the application of section 815-130 of the Income Tax Assessment Act 1997
 for advice on the application of section 815-130 of the ITAA 1997, and
 •
 Taxation Determination TD 2019/10
-Income tax:  can the debt and equity rules in Division 974 of the Income Tax Assessment Act 1997 limit the operation of the transfer pricing rules in Subdivision 815-B of the Income Tax Assessment Act 1997?
+Income tax: can the debt and equity rules in Division 974 of the Income Tax Assessment Act 1997 limit the operation of the transfer pricing rules in Subdivision 815-B of the Income Tax Assessment Act 1997?
 for advice on the interaction of Division 974 and Subdivision 815-B of the ITAA 1997.
 196. In general, the ATO considers that there is a high transfer pricing risk with an outbound interest-free loan between related parties. This is because generally, loans are not provided by independent parties on an interest-free basis. Subject to this Schedule, an outbound interest-free loan would have an amber or red rating under this Guideline.
 197. There may be circumstances where it would be appropriate to apply Subdivision 815-B on the basis that the interest-free loan transaction ought to be compared to a subscription of shares or other investments of equity, rather than a loan. In these circumstances, there should be no transfer pricing benefit from an interest-free loan.
@@ -1821,7 +1821,7 @@ Assume a score of nil for the motivational risk matrix in Schedule 1 of this Gui
 [12]
 Assume a score of nil for the motivational risk matrix in Schedule 1 of this Guideline.
 ATO references:
-File  1-BAPMBWJ; 1-DD5AP2E
+File 1-BAPMBWJ; 1-DD5AP2E
 ISSN: 2209-1297
 Business Line:
 PGI
@@ -1829,20 +1829,20 @@ Related Rulings/Determinations:
 TD 2019/10
 TR 2014/6
 Legislative References:
-ITAA 1936  Pt IVA
-ITAA 1936  318
-ITAA 1997  230-15(2)
-ITAA 1997  Div 815
-ITAA 1997  Subdiv 815-B
-ITAA 1997  815-115
-ITAA 1997  815-130
-ITAA 1997  Div 820
-ITAA 1997  820-39
-ITAA 1997  Div 832
-ITAA 1997  Div 974
-ITAA 1997  960-555
-ITAA 1997  960-555(2)(a)
-ITAA 1997  995-1
+ITAA 1936 Pt IVA
+ITAA 1936 318
+ITAA 1997 230-15(2)
+ITAA 1997 Div 815
+ITAA 1997 Subdiv 815-B
+ITAA 1997 815-115
+ITAA 1997 815-130
+ITAA 1997 Div 820
+ITAA 1997 820-39
+ITAA 1997 Div 832
+ITAA 1997 Div 974
+ITAA 1997 960-555
+ITAA 1997 960-555(2)(a)
+ITAA 1997 995-1
 TAA 1953 Sch 1 Div 280
 TAA 1953 Sch 1 Div 284
 Other References:

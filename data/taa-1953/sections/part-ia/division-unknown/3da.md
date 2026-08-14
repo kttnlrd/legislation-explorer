@@ -26,7 +26,7 @@ source_pdf: "vol01.pdf"
 > **(b)**  the names of each other entity that, at that time, was a member of the country by country reporting group;
 
 > <a id="s3DA-1-c"></a>
-> **(c)**  a description of the country by country reporting group’s approach to tax;
+> **(c)**  a description of the country by country reporting group's approach to tax;
 
 > <a id="s3DA-1-d"></a>
 > **(d)**  the matters listed in subsection (3) of this section for the reporting period in respect of each of the following jurisdictions:
@@ -41,10 +41,10 @@ source_pdf: "vol01.pdf"
 > **(e)**  in respect of the jurisdictions in which the country by country reporting group operates that are not mentioned in paragraph (d) of this subsection:
 
 > > <a id="s3DA-1-e-i"></a>
-> > **(i)**  a description of the country by country reporting group’s main business activities for the reporting period in the area consisting of those jurisdictions;
+> > **(i)**  a description of the country by country reporting group's main business activities for the reporting period in the area consisting of those jurisdictions;
 
 > > <a id="s3DA-1-e-ii"></a>
-> > **(ii)**  for each matter listed in subsection (5), the amounts for the reporting period for that matter in respect of each Authorised Version C2026C00170 registered 28/04/2026 jurisdiction in the area, published as a sum of those amounts for that matter;
+> > **(ii)**  for each matter listed in subsection (5), the amounts for the reporting period for that matter in respect of each jurisdiction in the area, published as a sum of those amounts for that matter;
 
 > > <a id="s3DA-1-e-iii"></a>
 > > **(iii)**  the currency used in calculating and presenting the information mentioned in subparagraph (ii);
@@ -92,7 +92,7 @@ source_pdf: "vol01.pdf"
 > > **(i)**  the amount mentioned in paragraph (i) of this subsection; and
 
 > > <a id="s3DA-3-j-ii"></a>
-> > **(ii)**  the amount of income tax due if the income tax rate applicable in the jurisdiction were applied to the amount mentioned in paragraph (f) of this subsection; Authorised Version C2026C00170 registered 28/04/2026
+> > **(ii)**  the amount of income tax due if the income tax rate applicable in the jurisdiction were applied to the amount mentioned in paragraph (f) of this subsection;
 
 > <a id="s3DA-3-k"></a>
 > **(k)**  the currency used in calculating and presenting the information mentioned in paragraphs (d) to (j) of this subsection.
@@ -134,10 +134,10 @@ source_pdf: "vol01.pdf"
 > **(b)**  if audited consolidated financial statements for the entity for the reporting period have not been prepared—amounts that would be, on the assumptions that the entity were a listed company (within the meaning of section 26BC of the Income Tax Assessment Act 1936) and such statements were prepared, shown in those statements. Interpretation
 
 <a id="s3DA-7"></a>
-**(7)**  For the purposes of determining the effect that paragraph (1)(c), subsections (3) and (5) and any regulations made for the purposes Authorised Version C2026C00170 registered 28/04/2026 of paragraph (1)(f) have in relation to an entity, identify information mentioned in those provisions:
+**(7)**  For the purposes of determining the effect that paragraph (1)(c), subsections (3) and (5) and any regulations made for the purposes of paragraph (1)(f) have in relation to an entity, identify information mentioned in those provisions:
 
 > <a id="s3DA-7-a"></a>
-> **(a)**  so as best to achieve consistency with Disclosures 207-1 and 207-4 of GRI 207:Tax 2019 of the Global Reporting Initiative’s Sustainability Reporting Standards; and
+> **(a)**  so as best to achieve consistency with Disclosures 207-1 and 207-4 of GRI 207:Tax 2019 of the Global Reporting Initiative's Sustainability Reporting Standards; and
 
 > <a id="s3DA-7-b"></a>
 > **(b)**  having regard to the following documents, to the extent they are relevant:
@@ -151,9 +151,9 @@ source_pdf: "vol01.pdf"
 > > <a id="s3DA-7-b-iii"></a>
 > > **(iii)**  a document, or part of a document, prescribed by the regulations for the purposes of this subparagraph.
 
-> **Note:** The document in paragraph (a) could in 2024 be viewed on the Global Reporting Initiative’s website (https://www.globalreporting.org).
+> **Note:** The document in paragraph (a) could in 2024 be viewed on the Global Reporting Initiative's website (https://www.globalreporting.org).
 
-> **Note:** The documents in subparagraphs (b)(i) and (ii) could in 2024 be viewed on the Organisation for Economic Cooperation and Development’s website (https://www.oecd.org).
+> **Note:** The documents in subparagraphs (b)(i) and (ii) could in 2024 be viewed on the Organisation for Economic Cooperation and Development's website (https://www.oecd.org).
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

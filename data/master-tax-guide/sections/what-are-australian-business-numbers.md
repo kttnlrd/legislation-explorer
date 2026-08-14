@@ -13,7 +13,7 @@ An entity required to register for GST purposes (¶34-110) must have an ABN; oth
 
 The Registrar of the ABR also acts as the Multi-agency Registration Authority and can register and maintain details about representatives of businesses to enable electronic communication with government agencies.
 
-“myID” (formerly known as “myGovID”) is a single online security credential to access government online services. Most Australians can apply for a myID and be authorised to act on behalf of enterprises. For more information, see myid.gov.au.
+"myID" (formerly known as "myGovID") is a single online security credential to access government online services. Most Australians can apply for a myID and be authorised to act on behalf of enterprises. For more information, see myid.gov.au.
 
 Numbers > Registering for an ABN
 

@@ -7,7 +7,7 @@ paragraph: "¶25-440"
 ---
 # Interest on early payments ¶25-440
 
-The Commissioner is required to pay interest where income tax or certain other amounts are paid by the taxpayer more than 14 days before the day on which the relevant amount becomes due and payable (the “appropriate due day”) (Taxation (Interest on Overpayments and Early Payments) Act 1983, ss 8A to 8D).
+The Commissioner is required to pay interest where income tax or certain other amounts are paid by the taxpayer more than 14 days before the day on which the relevant amount becomes due and payable (the "appropriate due day") (Taxation (Interest on Overpayments and Early Payments) Act 1983, ss 8A to 8D).
 
 The amounts in respect of which early payment interest may be payable include payments of, or on account of, income tax, a HELP or FS assessment debt (¶2-380, ¶2-385), administrative penalties under TAA sch 1 Pt 4-25 (¶29-000), interest on accumulated non-resident trust income (¶21-350), shortfall interest charge and GIC for liabilities arising from amended assessments (¶29-550) and GIC for late lodgment of returns by non- instalment taxpayers (¶29-510).
 
@@ -15,7 +15,7 @@ The amounts in respect of which early payment interest may be payable include pa
 
 - amounts deducted from payments under arrangements for the advance collection of tax (eg
 
-  amounts withheld from an employee’s salary under the PAYG system), and
+  amounts withheld from an employee's salary under the PAYG system), and
 
 - amounts credited in payment of a tax liability but which are not directly paid by the taxpayer (eg
 

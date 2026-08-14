@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Apportionment**
 
-**(1)**  For the purposes of this subpart, a life insurer’s total tax credit is apportioned between their policyholder base and shareholder base, to the extent to which section EY 4 (Apportionment of income of particular source or nature, and of tax credits) applies and apportions the credit.
+**(1)**  For the purposes of this subpart, a life insurer's total tax credit is apportioned between their policyholder base and shareholder base, to the extent to which section EY 4 (Apportionment of income of particular source or nature, and of tax credits) applies and apportions the credit.
 
 **Unsatisfied income tax liability**
 

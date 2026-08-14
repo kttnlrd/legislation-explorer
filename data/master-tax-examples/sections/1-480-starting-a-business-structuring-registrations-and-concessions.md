@@ -9,7 +9,7 @@ paragraph: "None"
 
 Worked example: Starting a business; structuring, registrations and concessions Issue Ezra Manning is an amateur baker who has won a number of competitions for her cakes, bread and pastries.
 
-She is planning to give up her “day job” as a graphic designer in Melbourne and commence a bakery business. As part of that, she expects to rent a small industrial unit in the north of the city, she will acquire baking equipment and over time will recruit a small number of staff. She had a feasibility study prepared for her and some initial costings were prepared by a team of consultants who charged her $3,350 for both assignments. Based on the outcome of that work, the proposal looks feasible, and she intends to proceed.
+She is planning to give up her "day job" as a graphic designer in Melbourne and commence a bakery business. As part of that, she expects to rent a small industrial unit in the north of the city, she will acquire baking equipment and over time will recruit a small number of staff. She had a feasibility study prepared for her and some initial costings were prepared by a team of consultants who charged her $3,350 for both assignments. Based on the outcome of that work, the proposal looks feasible, and she intends to proceed.
 
 Ezra is married with 2 adult children. Neither her spouse nor her children will be involved in running or working in the business.
 
@@ -39,7 +39,7 @@ The following factors may also have a bearing on the choice of a structure:
 
 As the purpose of this business is to manufacture goods for resale, the latter point is not relevant to Ezra.
 
-Sole trader The main advantage of this structure is its simplicity, in that there is less red tape to start the business, and the associated legal and professional costs are minimal. When a business is run as a sole trader, the business’s income and expenses are simply recorded at the business schedules in the personal tax return.
+Sole trader The main advantage of this structure is its simplicity, in that there is less red tape to start the business, and the associated legal and professional costs are minimal. When a business is run as a sole trader, the business's income and expenses are simply recorded at the business schedules in the personal tax return.
 
 From a tax point of view, the main advantage is that, if it takes time to build the business up, any tax losses can usually be applied at the individual level against all other forms of assessable income, including salary and wages and income from other business activities.
 
@@ -65,7 +65,7 @@ Shareholders own the company while directors run it. With many small businesses,
 
 - be registered with the Australian Securities and Investment Commission (ASIC).
 
-The company is a separate legal entity to the people who run it. That means that the company lodges its own tax return and pays tax on its profits at the company tax rate — currently 25% (provided the company’s annual aggregate turnover is less than $50 million and the company is a base rate entity, otherwise 30%).
+The company is a separate legal entity to the people who run it. That means that the company lodges its own tax return and pays tax on its profits at the company tax rate — currently 25% (provided the company's annual aggregate turnover is less than $50 million and the company is a base rate entity, otherwise 30%).
 
 The company can then distribute profits to shareholders in the form of franked dividends. These dividends are taxable to the shareholders less a credit for the tax already paid by the company.
 
@@ -83,7 +83,7 @@ The more complex the structure, the higher the fees for setting it up and mainta
 
 Deductibility of costs incurred before the business starts It is quite common to incur costs relating to a proposed business even before trading has started. Certain costs incurred can be claimed even before the business starts.
 
-Under ITAA97 s 40-880, taxpayers are entitled to deduct certain business-related capital expenditure (known as “blackhole expenditure”) that is neither deductible under a provision of ITAA36 or ITAA97, nor otherwise taken into account for income tax purposes, for example, by being included in the cost base of a CGT asset or included in the cost of a depreciating asset.
+Under ITAA97 s 40-880, taxpayers are entitled to deduct certain business-related capital expenditure (known as "blackhole expenditure") that is neither deductible under a provision of ITAA36 or ITAA97, nor otherwise taken into account for income tax purposes, for example, by being included in the cost base of a CGT asset or included in the cost of a depreciating asset.
 
 The general rule is that the deduction is claimed over 5 years, or an immediate deduction may be available for certain start-up expenses incurred by taxpayers who are not in business or who are small business entities.
 
@@ -131,7 +131,7 @@ What registrations does she need?
 
 Tax file number If the business is being operated as a sole trader, there is no requirement to obtain a tax file number (TFN).
 
-The business will simply use the individual’s own TFN.
+The business will simply use the individual's own TFN.
 
 If instead the business is run through another entity, such as a trust, partnership or company, that entity will need its own TFN. The procedure for applying for a business TFN is different to applying for an individual one. A TFN can be obtained via the Australian Business Register (ABR) website (Apply for a TFN for business | ABR).
 

@@ -1,0 +1,48 @@
+---
+country: "Israel"
+country_slug: "israel"
+treaty_schedule: 62
+article: 14
+title: "Article 14 — Independent Personal Services"
+---
+# Article 14 — Independent Personal Services
+Israeli Convention
+CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE STATE OF ISRAEL FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
+CHAPTER III 
+-
+ TAXATION OF INCOME
+Income from Employment
+1.
+Subject to the provisions of Articles 
+15
+ (Directors
+'
+ Fees), 
+17
+ (Pensions), 
+18
+ (Government Service) and 
+19
+ (Professors, Teachers and Researchers), salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+2.
+Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
+a)
+the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned; and
+b)
+the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State; and
+c)
+the remuneration is not borne by a permanent establishment which the employer has in the other State.
+3.
+Notwithstanding the preceding provisions of this Article and Article 
+1
+ (Persons Covered), remuneration derived by an individual, whether a resident of a Contracting State or not, in respect of an employment, as a member of the regular complement of a ship or aircraft, that is exercised aboard a ship or aircraft operated in international traffic may be taxed in the Contracting State of which the enterprise operating the ship or aircraft is a resident.
+4.
+A severance payment derived by a resident of a Contracting State in consideration of past employment shall be taxable only in that State unless all or part of the employment is exercised in the other Contracting State. If the employment is so exercised, the part of the severance payment that accords to the period of employment exercised in that other State may be taxed in that other State.
+5.
+Where, except for the application of this paragraph, a fringe benefit is taxable in a Contracting State in the hands of an individual in respect of employment exercised by that individual and is also taxable in the other Contracting State in the hands of that individual
+'
+s employer, the fringe benefit will be taxable only in the Contracting State that has the sole or primary taxing right in accordance with the Convention in respect of salary, wages or other similar remuneration from the employment to which the fringe benefit relates. A Contracting State has a 
+"
+primary taxing right
+"
+ to the extent that a taxing right in respect of salary, wages or other similar remuneration from the relevant employment is allocated to that State in accordance with this Convention and the other Contracting State is required to provide relief for the tax imposed in respect of such remuneration by the first-mentioned State.

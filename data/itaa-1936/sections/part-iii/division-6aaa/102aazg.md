@@ -51,7 +51,7 @@ source_pdf: "vol02.pdf"
 > **(a)** keep the records in writing in the English language or so as to enable the records to be readily accessible and convertible into writing in the English language; and
 
 > <a id="s102AAZG-3-b"></a>
-> **(b)** keep the records so as to enable the person’s liability under this Act to be readily ascertained.
+> **(b)** keep the records so as to enable the person's liability under this Act to be readily ascertained.
 
 <a id="s102AAZG-4"></a>
 **(4)** This section does not require a person to keep a record of information if:

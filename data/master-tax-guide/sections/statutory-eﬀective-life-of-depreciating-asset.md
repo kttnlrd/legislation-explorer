@@ -13,13 +13,13 @@ Asset acquired from associate If the taxpayer acquired the depreciating asset fr
 
 If the associate used the prime cost method, the taxpayer must use the remaining eﬀective life of the asset.
 
-The taxpayer may request the associate to give it the information about the method and eﬀective life it used for the asset, within 60 days (ITAA97 s 40-140). There are special rules if the “statutory cap” (see below) applies.
+The taxpayer may request the associate to give it the information about the method and eﬀective life it used for the asset, within 60 days (ITAA97 s 40-140). There are special rules if the "statutory cap" (see below) applies.
 
 If either in the year of the acquisition or in a later year the cost of the asset increases by at least 10%, the eﬀective life must be recalculated (ITAA97 s 40-110(2), (3)).
 
 *Refs: ITAA97 s 40-95(4)), ITAA97 s 40-140), ITAA97 s 40-110(2)*
 
-of former user This rule deals with the case where the taxpayer acquires the asset from the former holder but the user of the asset (while the taxpayer is the holder of the asset) is the same as, or is an associate of, the user of the asset while the asset was held by the former holder (s 40-95(5)). In this case, if the former holder used the diminishing value method, the taxpayer must use the same eﬀective life that was used by the former holder (eg not an accelerated depreciation rate under the former law: ID 2003/754). If the former holder was using the prime cost method, the taxpayer must use the remaining eﬀective life. If either the former holder did not use an eﬀective life or the taxpayer does not know and cannot readily ﬁnd out the eﬀective life used by the former holder, the taxpayer must use the eﬀective life determined by the Commissioner. There are special rules if the “statutory cap” (see below) applies.
+of former user This rule deals with the case where the taxpayer acquires the asset from the former holder but the user of the asset (while the taxpayer is the holder of the asset) is the same as, or is an associate of, the user of the asset while the asset was held by the former holder (s 40-95(5)). In this case, if the former holder used the diminishing value method, the taxpayer must use the same eﬀective life that was used by the former holder (eg not an accelerated depreciation rate under the former law: ID 2003/754). If the former holder was using the prime cost method, the taxpayer must use the remaining eﬀective life. If either the former holder did not use an eﬀective life or the taxpayer does not know and cannot readily ﬁnd out the eﬀective life used by the former holder, the taxpayer must use the eﬀective life determined by the Commissioner. There are special rules if the "statutory cap" (see below) applies.
 
 If either in the year of the acquisition or in a later year the cost of the asset increases by at least 10%, the eﬀective life must be recalculated (s 40-110(2), (3)).
 
@@ -31,7 +31,7 @@ The eﬀective life of an indefeasible right to use a telecommunications cable s
 
 The eﬀective life of any other intangible depreciating asset (other than mining, petroleum or quarrying rights: ¶17-270) cannot be longer than the term of the asset as extended by any reasonably assured extension or renewal of that term.
 
-Statutory caps on effective life of specified assets A statutory “capped” life applies for speciﬁed assets if the taxpayer has chosen the eﬀective life determined by the Commissioner (¶43-000) and the capped life is shorter than the life determined by the Commissioner (ITAA97 s 40-102). Taxpayers will continue to be able to self-assess the eﬀective life of the asset based on their own circumstances (if they do not wish to adopt the capped life or the life determined by the Commissioner). For details of the statutory caps, see ¶43-105.
+Statutory caps on effective life of specified assets A statutory "capped" life applies for speciﬁed assets if the taxpayer has chosen the eﬀective life determined by the Commissioner (¶43-000) and the capped life is shorter than the life determined by the Commissioner (ITAA97 s 40-102). Taxpayers will continue to be able to self-assess the eﬀective life of the asset based on their own circumstances (if they do not wish to adopt the capped life or the life determined by the Commissioner). For details of the statutory caps, see ¶43-105.
 
 *Refs: s 40-95(5)), s 40-110(2), s 40-95(7)), ITAA97 s 40-102)*
 

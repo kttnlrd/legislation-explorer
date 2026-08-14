@@ -3,18 +3,14 @@ ATO ID 2002/741
 ==================================================
 
 Income Tax
-        Amalgamated Loans and executors of deceased estates
-        FOI status: may be released
-
-
+ Amalgamated Loans and executors of deceased estates
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a private company taken, under section 109E of the Income Tax Assessment Act 1936 (ITAA 1936), to have paid a dividend to the taxpayer, the executor of the deceased estate of a shareholder in the company, in respect of a loan the company made to the shareholder before he died?
@@ -31,18 +27,16 @@ Subsection 109E (1) of the ITAA 1936 states:
 
 'A private company is taken to pay a dividend to an entity at the end of one of the private company's year of income (the "current year") if:
 
-
-
 (i)the private company made an amalgamated loan to the entity in an earlier year of income...' [emphasis added]
 
 The entity to whom the private company is taken to have paid the dividend must be the same entity to whom the private company made the amalgamated loan.
 For subsection 109E(1) of the ITAA 1936 to apply, the private company must have made the loan to the executor of the deceased estate.
 Accordingly, as the private company made the loan to the shareholder, the executor of the shareholder's deceased estate is not treated as having received a deemed dividend in respect of the amalgamated loan.
 Date of decision:
-         26 June 2002
+  26 June 2002
 
 Year of income:
-           30 June 1999, 30 June 2000, 30 June 2001
+  30 June 1999, 30 June 2000, 30 June 2001
 
 Legislative References:
 
@@ -51,21 +45,20 @@ Income Tax Assessment Act 1936   section 109E   section 109N
 Keywords
 
 Private company distributions
-          Deemed dividends
-          Shareholder loans
-
+ Deemed dividends
+ Shareholder loans
 
 Siebel/TDMS Reference Number:
-         DW309695; 1-5BYL0YW; 1-AX9H6ED
+  DW309695; 1-5BYL0YW; 1-AX9H6ED
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         31 July 2002
+  31 July 2002
 
 Date reviewed:
-         22 February 2017
+  22 February 2017
 
 ISSN:
-          1445-2782
+ 1445-2782

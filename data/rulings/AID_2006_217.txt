@@ -3,32 +3,26 @@ ATO ID 2006/217
 ==================================================
 
 Income Tax
-        Securitisation Vehicle:  financial institution - treatment of interest income and expenses
-        FOI status: may be released
-
+ Securitisation Vehicle: financial institution - treatment of interest income and expenses
+ FOI status: may be released
 
 This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For income tax purposes, can a securitisation vehicle which is not a financial institution account for interest income derived under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997) and interest expenditure incurred under section 8-1 of the ITAA 1997 using a straight line daily accruals method?
 Decision
-Yes.  For income tax purposes, a securitisation vehicle which is not a financial institution can account for interest income derived under section 6-5 of the ITAA 1997 and interest expenditure incurred under section 8-1 of the ITAA 1997 using a straight line daily accruals method.
+Yes. For income tax purposes, a securitisation vehicle which is not a financial institution can account for interest income derived under section 6-5 of the ITAA 1997 and interest expenditure incurred under section 8-1 of the ITAA 1997 using a straight line daily accruals method.
 Facts
 A company is established as a securitisation vehicle solely for the purpose of securitising assets and providing finance for a public-private partnership project (the project).
 The securitisation vehicle will undertake the following primary financing activities:
-
-
 
 •raise finance by issuing bonds and debentures backed by the cash flows of the securitised assets (the right to future receivables as they come into existence)
 •use the majority of the funds raised to purchase the securitised assets through entering into an equitable assignment, and
@@ -73,10 +67,10 @@ The securitisation vehicle has a presently existing liability to pay interest on
 Accordingly, as the securitisation vehicle has an interest expense accruing de die in diem (day by day) and an interest income stream that accrues daily, it is appropriate for it to tax account for its interest income and expense on a straight line daily accruals basis.
 This decision, so far as it relates to the question of whether a securitisation vehicle is a financial institution, can be contrasted and distinguished with that in ATO ID 2005/260. There, the factual situation differed and consideration was primarily being given to the meaning of the term 'providing finance' pursuant to Article 11(3)(b) of Schedule 2 of the International Tax Agreements Act 1953 as amended by Schedule 2A of the US Protocol.
 Date of decision:
-         28 July 2006
+  28 July 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -84,7 +78,6 @@ Income Tax Assessment Act 1997   section 6-5   section 8-1
 International Tax Agreements Act 1953   Schedule 2, Article 11(3)(b)
 
 Case References:
-
 
 Alliance Holdings Ltd v. FC of T   81 ATC 4637   (1981) 12 ATR 509
 
@@ -105,21 +98,20 @@ Taxation Ruling TR 93/27
 Keywords
 
 Accrual basis accounting
-          Accrued interest
-          Financial institutions
-          Interest expenses
-          Interest income
-          Securitisation
-
+ Accrued interest
+ Financial institutions
+ Interest expenses
+ Interest income
+ Securitisation
 
 Siebel/TDMS Reference Number:
-         5033221
+  5033221
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         11 August 2006
+  11 August 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

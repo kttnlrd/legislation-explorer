@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of calculating the income tax liability under section BC 7 (Income tax liability of person with schedular income) of a natural person who is resident in New Zealand and is an investor in a multi-rate PIE to determine whether an adjustment must be made to the person’s income tax liability for a tax year for an amount of PIE schedular income.
+**(1)**  This section applies for the purposes of calculating the income tax liability under section BC 7 (Income tax liability of person with schedular income) of a natural person who is resident in New Zealand and is an investor in a multi-rate PIE to determine whether an adjustment must be made to the person's income tax liability for a tax year for an amount of PIE schedular income.
 
 **When this section does not apply**
 
@@ -20,9 +20,9 @@ compilation_date: 2026-06-06
 
 **Making PIE schedular tax adjustments**
 
-**(2)**  An adjustment must be made to the person’s income tax liability for the tax year for a tax credit or tax liability of the person that arises under section HM 47 when—
+**(2)**  An adjustment must be made to the person's income tax liability for the tax year for a tax credit or tax liability of the person that arises under section HM 47 when—
 
-- (a) the person’s prescribed investor rate for the tax year has not been applied to some or all of the person’s PIE schedular income for the tax year; and
+- (a) the person's prescribed investor rate for the tax year has not been applied to some or all of the person's PIE schedular income for the tax year; and
 
 - (b) the Commissioner has information described in subsection (3) that relates to the person and is available for the tax year.
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **(3)**  The PIE schedular tax adjustment must take into account—
 
-- (a) an amount of a tax credit used by the PIE to satisfy the person’s income tax liability for the tax year:
+- (a) an amount of a tax credit used by the PIE to satisfy the person's income tax liability for the tax year:
 
 - (b) another attributed tax credit that the person has for the tax year, including an unused tax credit under section HM 52 or HM 54, or a tax credit under section LS 4 (Tax credits for certain exiting investors):
 
@@ -38,9 +38,9 @@ compilation_date: 2026-06-06
 
 - (d) whether—
 
-  - (i) the person has an attributed PIE loss in relation to which the person’s prescribed investor rate for the tax year has not been applied:
+  - (i) the person has an attributed PIE loss in relation to which the person's prescribed investor rate for the tax year has not been applied:
 
-  - (ii) an adjustment has been made for the tax year under section HM 48 to the person’s investor interest, or a distribution paid to them, or a payment required from them:
+  - (ii) an adjustment has been made for the tax year under section HM 48 to the person's investor interest, or a distribution paid to them, or a payment required from them:
 
   - (iii) the PIE has a tax credit for the tax year under section LS 1 (Tax credits for multi-rate PIEs) in relation to the amount of loss attributed to the investor:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
   - (v) the person holds their investment in the PIE jointly with another person:
 
-- (e) any other circumstance of which the Commissioner is aware that affects the application of the person’s prescribed investor rate to their attributed PIE income for the tax year.
+- (e) any other circumstance of which the Commissioner is aware that affects the application of the person's prescribed investor rate to their attributed PIE income for the tax year.
 
 **Adjustment items counted only once**
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Positive adjustment**
 
-**(4)**  If the adjustment is positive, the amount of the adjustment is included in the investor’s schedular income tax liability for the tax year under section BC 7(5).
+**(4)**  If the adjustment is positive, the amount of the adjustment is included in the investor's schedular income tax liability for the tax year under section BC 7(5).
 
 **Negative adjustment**
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 - (b) any amount of adjustment remaining is refundable under sections RB 4, RM 2 to RM 8, and RM 10 (which relate to refunds and their use), as applicable:
 
-- (c) the investor’s schedular income tax liability for the tax year under section BC 7(5) is zero.
+- (c) the investor's schedular income tax liability for the tax year under section BC 7(5) is zero.
 
 **Meaning of PIE schedular income**
 

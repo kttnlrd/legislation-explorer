@@ -1,0 +1,37 @@
+---
+country: "Malaysia"
+country_slug: "malaysia"
+treaty_schedule: 16
+article: 11
+title: "Article 11 — Interest"
+---
+# Article 11 — Interest
+Malaysian Agreement
+AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+As amended by the Malaysian Protocol (No 1), the Malaysian Exchange of Letters,
+the Malaysian Protocol (No 2) and the Malaysian Protocol (No 3)
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+Interest
+1.
+Interest arising in one of the Contracting States, being interest to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
+2.
+Such interest may be taxed in the Contracting State in which it arises, and according to the law of that State, but the tax so charged shall not exceed 15 per cent of the gross amount of the interest.
+3.
+Notwithstanding the provisions of paragraph 2, interest to which a resident of Australia is beneficially entitled shall be exempt from Malaysian tax if the loan or other indebtedness in respect of which the interest is paid is an approved loan as defined in section 2(1) of the Income Tax Act, 1967 of Malaysia (as amended).
+4.
+The provisions of paragraphs 1, 2 and 3 shall not apply if the person beneficially entitled to the interest, being a resident of one of the Contracting States, has in the other Contracting State in which the interest arises a permanent establishment with which the debt-claim in respect of which the interest is paid is effectively connected. In such a case the provisions of Article 7 shall apply.
+5.
+Interest shall be deemed to arise in a Contracting State when the payer is that Contracting State itself or a political sub-division, a local authority or statutory body thereof or a resident of that State for the purposes of its tax. Where, however, the person paying the interest, whether he is a resident of one of the Contracting States or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
+6.
+Where the payer is related to the person beneficially entitled to the interest and the amount of the interest paid, having regard to the debt-claim for which it is paid, exceeds the amount which might be expected to have been agreed upon by the payer and the person so entitled if they had not been related, the provisions of this Article shall apply only to the last-mentioned amount. In that case, the excess part of the payments shall remain taxable according to the law of each Contracting State, due regard being had to the other provisions of this Agreement. For the purposes of this paragraph, a person is related to another person if either person participates directly or indirectly in the management, control or capital of the other, or if any third person or persons participate directly or indirectly in the management, control or capital of both.
+7.
+The term 
+"
+interest
+"
+ in this Article means interest from Government securities, or from bonds or debentures, whether or not secured by mortgage and whether or not carrying a right to participate in profits, and from debt-claims of every kind as well as other income assimilated to interest from money lent by the taxation law of the Contracting State in which the income arises.
+8.
+Notwithstanding the provisions of paragraph 2, interest derived from the investment of official reserve assets by the Government of a Contracting State or by a bank performing central banking functions in a Contracting State shall be exempt from tax in the other Contracting State.

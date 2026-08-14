@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 This Part provides the rules to require a person to pay to the Commissioner interim and terminal payments of tax and other amounts payable under the Inland Revenue Acts. The Part provides for—
 
-- (a) a person’s general withholding and payment obligations; and
+- (a) a person's general withholding and payment obligations; and
 
 - (b) the payment of terminal tax, see subpart RB; and
 
@@ -24,7 +24,7 @@ This Part provides the rules to require a person to pay to the Commissioner inte
 
   - (ii) fringe benefit tax (FBT):
 
-  - (iii) employer’s superannuation contribution tax (ESCT); and
+  - (iii) employer's superannuation contribution tax (ESCT); and
 
 - (e) the payment of resident withholding tax (RWT), see subpart RE; and
 
@@ -38,7 +38,7 @@ This Part provides the rules to require a person to pay to the Commissioner inte
 
 - (i) the use of intermediaries in the tax system, see subpart RP.
 
-*Defined in this Act: amount, Commissioner, employer’s superannuation contribution, ESCT, FBT, fringe benefit tax, Inland Revenue Acts, intermediary, NRWT, pay, PAYE, provisional tax, retirement scheme contribution, RSCT, RWT, tax, terminal tax*
+*Defined in this Act: amount, Commissioner, employer's superannuation contribution, ESCT, FBT, fringe benefit tax, Inland Revenue Acts, intermediary, NRWT, pay, PAYE, provisional tax, retirement scheme contribution, RSCT, RWT, tax, terminal tax*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

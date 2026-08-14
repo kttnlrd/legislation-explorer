@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (b) the mineral miner has a net mining loss for the mining permit area for the income year that is greater than the net income of the mineral miner for the income year from all other sources (the difference being the excess amount), calculated as follows:
 
-  - (i) the mineral miner’s net mining loss is treated as if their only income were income derived from the mining permit area:
+  - (i) the mineral miner's net mining loss is treated as if their only income were income derived from the mining permit area:
 
   - (ii) the net income of the mineral miner from other sources is treated as if there were no income from the mining permit area.
 

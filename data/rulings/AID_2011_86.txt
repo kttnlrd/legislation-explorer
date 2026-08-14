@@ -3,18 +3,14 @@ ATO ID 2011/86
 ==================================================
 
 Income Tax
-        PAYG Withholding: penalty for failure to withhold - liability to general interest charge
-        FOI status: may be released
-
-
+ PAYG Withholding: penalty for failure to withhold - liability to general interest charge
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the date for calculating an entity's liability for general interest charge (GIC) in relation to a failure to withhold penalty imposed prior to 22 June 2006 commence from the time set under former subsection 16-30(2) of Schedule 1 to the Taxation Administration Act 1953 (TAA)?
@@ -29,12 +25,8 @@ Reasons for Decision
 Under former subsection 16-30(1) of Schedule 1 to the TAA, an entity that failed to withhold an amount as required by Division 12 of Schedule 1 to the TAA is liable to pay to the Commissioner a penalty equal to that amount. Under former subsection 16-30(2) of Schedule 1 to the TAA the penalty amount was due at the time when the entity would have had to pay to the Commissioner the amount it should have withheld.
 Under former section 16-50 of Schedule 1 to the TAA, if the penalty under former subsection 16-30(1) of Schedule 1 to the TAA remains unpaid after it is due, the entity is liable to pay the GIC on the unpaid amount for each day in the period that:
 
-
-
 i.started at the beginning of the day by which the penalty amount was due to be paid; and
 ii.finishes at the end of the last day, at the end of which, any of the following remains unpaid:
-
-
 
 (a)the penalty amount;
 (b)GIC on any of the penalty amount.
@@ -56,15 +48,15 @@ Related ATO Interpretative Decisions
 ATO ID 2009/133 has been removed as it has been withdrawn
 
 Date of decision:
-         4 August 2011
+  4 August 2011
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
 Tax Laws Amendment (2006 Measures No.2) Act 2006   The Act
-          Taxation Administration Act 1953   Schedule 1   Division 12   section 12-280   Division 16   section 16-30   former subsection 16-30(1)   former subsection 16-30(2)   former section 16-50   Subdivision 298-A   section 298-10   section 298-15   section 298-25
+ Taxation Administration Act 1953   Schedule 1   Division 12   section 12-280   Division 16   section 16-30   former subsection 16-30(1)   former subsection 16-30(2)   former section 16-50   Subdivision 298-A   section 298-10   section 298-15   section 298-25
 
 Related ATO Interpretative Decisions
 
@@ -73,23 +65,22 @@ Related ATO Interpretative Decisions
 Keywords
 
 Failure to withhold
-          General interest charge
-          PAYG system
-          PAYG withholding
-          Tax administration
-
+ General interest charge
+ PAYG system
+ PAYG withholding
+ Tax administration
 
 Siebel/TDMS Reference Number:
-         1-3444RW8; 1-5UHK0CK
+  1-3444RW8; 1-5UHK0CK
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         28 October 2011
+  28 October 2011
 
 Date reviewed:
-         2 February 2018
+  2 February 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Amount limited**
 
-**(3)**  The amount of the credit must not be more than the amount that would be company C’s income tax liability if that company’s only assessable income were the attributed CFC income derived in the corresponding income year from a CFC resident in the same country in which company B was resident in the accounting period in which the income tax giving rise to the credit was paid or payable.
+**(3)**  The amount of the credit must not be more than the amount that would be company C's income tax liability if that company's only assessable income were the attributed CFC income derived in the corresponding income year from a CFC resident in the same country in which company B was resident in the accounting period in which the income tax giving rise to the credit was paid or payable.
 
 **Use limited**
 

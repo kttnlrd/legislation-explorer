@@ -3,23 +3,18 @@ ATO ID 2004/855
 ==================================================
 
 Income Tax
-        Foreign exchange (forex) gains and losses: bank account opened between 19 February 1986 and 1 July 2003
-        FOI status: may be released
-
+ Foreign exchange (forex) gains and losses: bank account opened between 19 February 1986 and 1 July 2003
+ FOI status: may be released
 
 This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are forex realisation gains and losses made in respect of a foreign currency denominated bank account opened between 19 February 1986 and the applicable commencement date of Division 775 of the Income Tax Assessment Act 1997 (ITAA 1997) disregarded for the purposes of Division 775?
@@ -37,8 +32,6 @@ A forex realisation gain or loss may be made as a result of a forex realisation 
 Subparagraph 775-165(2)(a)(ii) of the ITAA 1997 operates to disregard forex gains or losses made as a result of forex realisation event 1, 2 or 5 happening to a right or part of a right that 'arose under an eligible contract (within the meaning of the former Division 3B of Part III of the ITAA 1936) that was entered into before the applicable commencement date', provided the taxpayer has not made a transitional election under section 775-150 of the ITAA 1997.
 Under Division 3B of Part III of the ITAA 1936, an 'eligible contract' is defined by subsection 82V(1) of the ITAA 1936 as:
 
-
-
 (a)A contract entered into by the taxpayer on or after the commencing day, other than a hedging contract; or
 (b)A hedging contract entered into by the taxpayer, on or after the commencing day, in relation to a contract to which paragraph (a) applies.
 
@@ -53,7 +46,6 @@ In the ERA Case Hill J noted at 4956 that in Elmslie & Ors v. FC of T 93 ATC 496
 In N. Joachimson v. Swiss Bank Corporation [1921] All ER 92; [1921] 3 KB 110 Atkin LJ (at All ER 100; KB 127) noted that there is only one contract between the bank and its customer. While the making of deposits with a bank may create a credit balance, the banking contract confers on the customer the right to be repaid that balance. Accordingly, rights conferred by the terms of the taxpayer's eligible contract (their foreign account) properly arise 'under' that contract.
 The rights arising upon the making of a deposit into the foreign account will have arisen under the foreign account contract, which is an eligible contract. As the foreign account is an eligible contract entered into before 1 July 2003 and the taxpayer has not made a transitional election, any forex realisation gains or losses made by the taxpayer as a result of forex realisation event 2 happening upon a withdrawal, transfer or payment out of the foreign account will be disregarded (see subsection 775-165(2) of the ITAA 1997).
 Note however that gains or losses may still be taken into account under other provisions of the ITAA 1936 or the ITAA 1997 as a result of a withdrawal from such a foreign account.
-
 
 [HISTORY: This ATO ID was amended on 1 March 2006. Additional wording has been added to improve clarity.]
 
@@ -81,18 +73,17 @@ Disclaimer
 In line with decision to include a generic exclusion at the start of the ATOIDs that are impacted on by TOFA.
 
 Date of decision:
-         22 October 2004
+  22 October 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
 Income Tax Assessment Act 1936   Division 3B of Part III (Repealed by Act No. 133 of 2003)   subsection 82V(1) (Repealed by Act No. 133 of 2003)
-          Income Tax Assessment Act 1997   Subdivision 775-D   subsection 775-45(1)   subsection 775-45(3)   subsection 775-45(5)   subparagraph 775-45(1)(b)(iii)   section 775-150   section 775-155   section 775-165   subsection 775-165(2)   subparagraph 775-165(2)(a)(ii)   section 775-230
+ Income Tax Assessment Act 1997   Subdivision 775-D   subsection 775-45(1)   subsection 775-45(3)   subsection 775-45(5)   subparagraph 775-45(1)(b)(iii)   section 775-150   section 775-155   section 775-165   subsection 775-165(2)   subparagraph 775-165(2)(a)(ii)   section 775-230
 
 Case References:
-
 
 Alcom v. Republic of Colombia    [1984] AC 580
 
@@ -106,7 +97,6 @@ Hart (Inspector of Taxes) v. Sangster    [1957] 2 All ER 208    [1957] Ch 
 
 N. Joachimson v. Swiss Bank Corporation    [1921] 3 KB 110    [1921] All ER Rep 92
 
-
 Related ATO Interpretative Decisions
 
  ATO ID 2003/551
@@ -114,32 +104,28 @@ Related ATO Interpretative Decisions
 Keywords
 
 Banking, finance & securities
-          Foreign exchange gains and losses
-          Forex realisation event
-
+ Foreign exchange gains and losses
+ Forex realisation event
 
 Siebel/TDMS Reference Number:
-         4160927
+  4160927
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         29 October 2004
+  29 October 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 October 2004

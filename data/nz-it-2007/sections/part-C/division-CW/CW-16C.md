@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (c) the date on which the employee receives a relocation payment under section CW 17B in relation to the costs associated with settling the purchase of a new home:
 
-- (d) the date on which the employer’s expectation regarding the length of the period changes, and the total period is expected to be more than 2 years.
+- (d) the date on which the employer's expectation regarding the length of the period changes, and the total period is expected to be more than 2 years.
 
 **Time limits: projects of limited duration**
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 - (a) the date that is 3 years from the date on which the employee began work on the project at the distant workplace:
 
-- (b) the date on which the employee’s participation in the project at the distant workplace ends:
+- (b) the date on which the employee's participation in the project at the distant workplace ends:
 
 - (c) the date on which the employee receives a relocation payment under section CW 17B in relation to the costs associated with settling the purchase of a new home:
 
-- (d) the date on which the employer’s expectation regarding the employee’s involvement in the project changes, and the total period of their involvement in the project is expected to be more than 3 years.
+- (d) the date on which the employer's expectation regarding the employee's involvement in the project changes, and the total period of their involvement in the project is expected to be more than 3 years.
 
 **When subsection (4) applies: time limits when expectations change**
 

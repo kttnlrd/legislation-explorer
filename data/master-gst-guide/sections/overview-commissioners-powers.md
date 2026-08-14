@@ -2,10 +2,10 @@
 act: "Australian Master GST Guide"
 part: "18"
 section: "overview-commissioners-powers"
-title: "Overview: Commissioner’s powers"
+title: "Overview: Commissioner's powers"
 paragraph: "¶18-100"
 ---
-# Overview: Commissioner’s powers ¶18-100
+# Overview: Commissioner's powers ¶18-100
 
 The Commissioner has wide-ranging information-gathering and access powers. In the exercise of these powers, the Commissioner may require you to:
 
@@ -21,4 +21,4 @@ The Commissioner has wide-ranging information-gathering and access powers. In th
 
   of the GST law (¶18-120).
 
-Two restrictions on the Commissioner’s information-gathering powers are the doctrine of professional privilege (¶18-140) and the obligation on government employees and others not to disclose confidential information (¶18-130).
+Two restrictions on the Commissioner's information-gathering powers are the doctrine of professional privilege (¶18-140) and the obligation on government employees and others not to disclose confidential information (¶18-130).

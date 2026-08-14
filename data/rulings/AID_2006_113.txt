@@ -3,18 +3,14 @@ ATO ID 2006/113
 ==================================================
 
 Goods and Services Tax
-        GST and whether a lease with an option to renew is a long-term lease
-        FOI status: may be released
-
-
+ GST and whether a lease with an option to renew is a long-term lease
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the supply of real property by the entity, an Australian Government agency, by way of lease for less than 50 years with an option to renew, a 'long-term lease' as defined in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -27,14 +23,11 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 A 'long-term lease' is defined in section 195-1 of the GST Act as a supply by way of lease, hire or licence, including a renewal or extension of a lease, hire or licence for at least 50 years if:
 
-
-
 •at the time of the lease, or the renewal or extension of the lease, it was reasonable to expect that it would continue for at least 50 years; and
 •unless the supplier is an Australian government agency - the terms of the lease, or the renewal or extension of the lease, as they apply to the recipient are substantially the same as those under which the supplier held the premises.
 
 The entity is an Australian government agency. As such the entity must satisfy only the first requirement above (the term 'unless' means 'except when').
 Pursuant to the definition of 'long term lease' it is apparent that the 'lease, hire or licence' and the renewal or extension of a 'lease, hire or licence' are to be considered as separate supplies. The lease is a supply for a particular period and the renewal or extension of that lease is a supply for a separate period. This can be illustrated as follows:
-
 
 As seen above if the entity and the lessee agree to renew or extend the lease, the entity and the lessee enter into a further supply of the real property by way of lease for a further period. The renewal or extension of the lease therefore is not considered in making a determination as to whether the lease is a long-term lease.
 The definition of a long-term lease provides that it must be reasonable to expect that the lease would continue for at least 50 years at the time the lease was entered. The phrase 'reasonable to expect' has not been defined in the GST Act. To find the meaning, one must consider the ordinary meaning of the words in the phrase, the legislative context in which the phrase appears, and any comments made by judges interpreting statutes that have provisions which incorporate the concept of 'reasonable expectation'.
@@ -42,13 +35,12 @@ The above has been considered in paragraphs 37 to 46 of Goods and Services Tax R
 Consistent with the above meaning of 'reasonable expectation', if there was about an even chance that the lease would continue for at least 50 years, the lease would be a long-term lease.
 In this case the lease was for less than 50 years and was not reasonably expected to continue for 50 years when the lease was entered between the entity and lessee. The lease therefore is not a long-term lease as defined in section 195-1 of the GST Act.
 
-
 Note 1: A lease created by exercising an option to renew or an extension of, the lease will be a long- term lease where it is reasonably expected to be for at least 50 years at the time that the option is exercised, or the extension agreed to, being the point at which the lease is entered.
 
 Note 2: The current practice within an industry will give an indication of the reasonableness of the period of the lease as stipulated by the parties in the lease agreement.
 
 Date of decision:
-         16 March 2006
+  16 March 2006
 
 Legislative References:
 
@@ -66,18 +58,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST lease and real property
-          GST long term lease
-
+ GST lease and real property
+ GST long term lease
 
 Siebel/TDMS Reference Number:
-         5024059
+  5024059
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         28 April 2006
+  28 April 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

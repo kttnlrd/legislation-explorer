@@ -3,21 +3,16 @@ ATO ID 2010/82
 ==================================================
 
 Income Tax
-        Division 7A: the first minimum yearly repayment - loan repayments made before the company's lodgment day for the previous year of income
-        FOI status: may be released
-
+ Division 7A: the first minimum yearly repayment - loan repayments made before the company's lodgment day for the previous year of income
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a private company is taken to have made an amalgamated loan to an entity in a year of income, are loan repayments made to the company after the end of the year of income but before its lodgment day for that year of income included in 'the amount (if any) paid to the private company during the current year in relation to the amalgamated loan' for the purposes of paragraph 109E(1)(c) of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -34,11 +29,10 @@ Reasons for Decision
 An amalgamated loan is defined in subsection 109E(3) of the ITAA 1936. That subsection also sets out how the amount of the amalgamated loan is determined and provides:
 
 For the purposes of this Division, a private company is taken to make a loan (the
-              amalgamated loan
+ amalgamated loan
 ) to a single entity during a year of income if the private company makes one or more loans (
-              constituent loans
+ constituent loans
 ) to the entity during the year, each of which:
-
 
 (a)is not fully repaid before the lodgment day for the year; and
 (b)would cause the company to be taken under section 109D to pay a dividend to the entity at the end of the year, apart from section 109N; and
@@ -50,17 +44,14 @@ The amount of the amalgamated loan is the sum of the amounts of the constituent 
 In the present case there are two constituent loans which form the amalgamated loan. As only so much of these loans as have not been repaid before the lodgment day forms part of the amalgamated loan (that is, repayments made before lodgment day are taken into account in determining the amount of the amalgamated loan), the amount of the amalgamated loan is $55,000 ($50,000 + $25,000 - $20,000).
 Subsection 109E(5) of the ITAA 1936 provides that the minimum yearly repayment for an amalgamated loan for a year of income is the amount worked out using the formula in subsection 109E(6) of the ITAA 1936 unless it is worked out under the regulations (if they provide for working it out). The formula in subsection 109E(6) of the ITAA 1936 is:
 
-
 In the context of section 109E of the ITAA 1936, the reference to 'loan' in the subsection 109E(6) of the ITAA 1936 formula must be a reference to the 'amalgamated loan'. As already noted, the quantum is determined at the private company's lodgment day for the year in which the constituent loans were made. In the present case, the quantum is determined at 15 May 2010.
 The apparent tension in terms of whether an amalgamated loan can have an 'amount of loan not repaid by the end of the previous year of income' when calculating the initial minimum yearly repayment, is resolved by subsection 109E(3) of the ITAA 1936. That subsection amongst other things treats the amalgamated loan as having been made during the income year in which the constituent loans were made. It must follow that the quantum at the end of that income year is the amount subsection 109E(3) tells us it is, which is determined at the private company's lodgment day. In the present case, this means the amount of the amalgamated loan not repaid by the end of the 2008-09 income year is $55,000.
 The benchmark interest rate for the 2009-10 income year is 5.75%. This means the minimum yearly repayment for the 2009-10 income year calculated in accordance with the subsection 109E(6) of the ITAA 1936 formula is $9,765.05.
 Before a private company can be taken to pay a dividend under section 109E of the ITAA 1936 in respect of an amalgamated loan, the four conditions in subsection 109E(1) of the ITAA 1936 must be satisfied. The third condition in paragraph 109E(1)(c) of the ITAA 1936 is as follows:
 
-
-
 (c)the amount (if any) paid to the private company during the current year
-                in relation to
-                 the amalgamated loan falls short of the minimum yearly repayment of the amalgamated loan worked out under subsection (5) for the current year;
+ in relation to
+ the amalgamated loan falls short of the minimum yearly repayment of the amalgamated loan worked out under subsection (5) for the current year;
 (emphasis added)
 
 The phrase 'in relation to' has been considered by the High Court on a number of occasions, Kiefel J recently observing in Kennon v. Spry [2008] HCA 56 at 315:
@@ -78,7 +69,6 @@ Subsection 109E(2) of the ITAA 1936 then provides as follows:
 
 The amount of the dividend is taken to be the amount of the shortfall mentioned in paragraph (1)(c), subject to section 109Y.
 
-
 Note: Section 109Y limits the total amount of dividends taken to have been paid by a private company under this Division to the company's distributable surplus.
 
 Therefore in the circumstances here, given $28,000 exceeds $9,765.05, there is no relevant shortfall and therefore no deemed dividend arises for the 2009-10 income year under subsection 109E(1) of the ITAA 1936.
@@ -93,10 +83,10 @@ All
 Updated.
 
 Date of decision:
-         8 April 2010
+  8 April 2010
 
 Year of income:
-           Year ended 30 June 2009 Year ended 30 June 2010
+  Year ended 30 June 2009 Year ended 30 June 2010
 
 Legislative References:
 
@@ -104,43 +94,37 @@ Income Tax Assessment Act 1936   paragraph 26(g)   section 109D   subse
 
 Case References:
 
-
 First Provincial Building Society Ltd v Federal Commissioner of Taxation   (1995) 56 FCR 320   (1995) 30 ATR 207   95 ATC 4145
 
 Kennon v Spry   [2008] HCA 56   238 CLR 366
 
-
 Keywords
 
 Deemed dividends
-          Shareholder loans
-
+ Shareholder loans
 
 Siebel/TDMS Reference Number:
-         6176950; 1-5CGS3U1; 1-AXVVG5Q
+  6176950; 1-5CGS3U1; 1-AXVVG5Q
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         16 April 2010
+  16 April 2010
 
 Date reviewed:
-         20 July 2017
+  20 July 2017
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  8 April 2010

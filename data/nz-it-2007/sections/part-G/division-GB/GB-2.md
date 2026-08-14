@@ -18,9 +18,9 @@ compilation_date: 2026-06-06
 
 - (b) section GC 8 (Insufficient amount receivable by person):
 
-- (c) section GC 9 (Compensating arrangement: person paying less than arm’s length amount):
+- (c) section GC 9 (Compensating arrangement: person paying less than arm's length amount):
 
-- (d) section GC 10 (Compensating arrangement: person receiving more than arm’s length amount).
+- (d) section GC 10 (Compensating arrangement: person receiving more than arm's length amount).
 
 **Possible examples**
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Application of sections GC 7 to GC 10**
 
-**(3)**  Section GC 7, GC 8, GC 9, or GC 10, as applicable, applies to require the substitution of an arm’s length amount of consideration, despite section GC 6(2) and (3) (Purpose and application of rules and nature of arrangements).
+**(3)**  Section GC 7, GC 8, GC 9, or GC 10, as applicable, applies to require the substitution of an arm's length amount of consideration, despite section GC 6(2) and (3) (Purpose and application of rules and nature of arrangements).
 
 *Defined in this Act: arrangement, associated person, non-resident*
 

@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (b) the directors for the time being of the special corporate entity, if no members exist:
 
-- (c) in the case of a public authority or state enterprise that has neither members nor directors, the Minister of the Crown for the time being who performs a director’s functions.
+- (c) in the case of a public authority or state enterprise that has neither members nor directors, the Minister of the Crown for the time being who performs a director's functions.
 
 **Persons also treated as holding related rights**
 

@@ -3,18 +3,14 @@ ATO ID 2002/418
 ==================================================
 
 Superannuation
-        Superannuation Contributions Tax: relief from assessed surcharge liability and interest imposed on a member's surcharge debt account
-        FOI status: may be released
-
-
+ Superannuation Contributions Tax: relief from assessed surcharge liability and interest imposed on a member's surcharge debt account
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the Commissioner of Taxation (Commissioner) have any discretion under the provisions of the Superannuation Contributions Tax (Assessment and Collection) Act 1997 (SCTA), to change or provide relief from the surcharge liability calculated in the member's assessment or any applicable interest on the member's surcharge debt account?
@@ -27,20 +23,20 @@ The Commissioner issued a superannuation contributions surcharge assessment in r
 The member sought relief from the surcharge liability raised and any accrued interest on their surcharge debt account on the basis that they believed the surcharge was levied retrospectively on their preserved benefit.
 Reasons for Decision
 The Commissioner is required to administer the superannuation contributions surcharge legislation in accordance with the provisions of the SCTA. The surcharge is payable on surchargeable contributions where a member's ATI exceeds the surcharge threshold for the financial year. ATI is generally defined as the member's taxable income
-          plus
-           the total amount of the member's surchargeable contributions for the financial year,
-          less
-           certain employer lump sum termination payments.
+ plus
+ the total amount of the member's surchargeable contributions for the financial year,
+ less
+ certain employer lump sum termination payments.
 The surcharge liability in respect of the member has been correctly calculated based on the information reported by the superannuation provider. The surcharge has not been levied retrospectively, as the member's employer did make superannuation contributions into their fund for the relevant financial year.
 Subsection 16(1) of the SCTA 'makes provision for the deferment of the liability of a superannuation (unfunded defined benefits) provider to pay surcharge on the surchargeable contributions of a member of the relevant unfunded defined benefits superannuation scheme, and for interest to accrue on the deferred amount.'
 Subsection 16(2) of the SCTA requires the provider to keep a surcharge debt account for each member to record any surcharge that is assessed for each financial year. The provider is also required to debit the account for interest on any debit balance in the account as at 30 June each year under subsection 16(4) of the SCTA.
 A member may voluntarily make payments, at any time, to reduce their surcharge debt account. It is the superannuation provider that administers the debt account and debits any interest accrued as required under the SCTA.
 The Commissioner has no discretion to waive any interest that may be debited by the provider on a surcharge debt account under the provisions of the surcharge legislation.
 Date of decision:
-         09 August 2001
+  09 August 2001
 
 Year of income:
-           Year ended 30 June 1997
+  Year ended 30 June 1997
 
 Legislative References:
 
@@ -49,22 +45,21 @@ Superannuation Contributions Tax (Assessment and Collection) Act 1997   secti
 Keywords
 
 Superannuation contributions tax
-          Superannuation provider - defined benefits
-          Surchargeable contributions
-          Defined benefits superannuation funds
-
+ Superannuation provider - defined benefits
+ Surchargeable contributions
+ Defined benefits superannuation funds
 
 Siebel/TDMS Reference Number:
-         CRS65727; 1-6N7GX2C; 1-FZRSRJG
+  CRS65727; 1-6N7GX2C; 1-FZRSRJG
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         12 April 2002
+  12 April 2002
 
 Date reviewed:
-         7 August 2018
+  7 August 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

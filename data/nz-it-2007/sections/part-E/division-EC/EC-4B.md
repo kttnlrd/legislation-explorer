@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) the transferor and the transferee would not be associated if the transferee or an associate were not the descendants in relation to the transferor or an associate of the transferor; and
 
-- (b) the transfer is at market value and the transfer’s consideration is wholly on arm’s length commercial terms and conditions, ignoring terms and conditions relating to financing; and
+- (b) the transfer is at market value and the transfer's consideration is wholly on arm's length commercial terms and conditions, ignoring terms and conditions relating to financing; and
 
 - (c) for the transferor and associates of the transferor, but excluding their descended associates,—
 

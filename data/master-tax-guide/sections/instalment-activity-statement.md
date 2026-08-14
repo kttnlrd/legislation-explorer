@@ -19,4 +19,4 @@ The IAS is mainly for individual taxpayers (including trustees) with investment 
 
 - deferred company instalments.
 
-Instructions for completing an IAS are available on the ATO’s website (www.ato.gov.au).
+Instructions for completing an IAS are available on the ATO's website (www.ato.gov.au).

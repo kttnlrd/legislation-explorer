@@ -3,18 +3,14 @@ ATO ID 2005/23
 ==================================================
 
 Income Tax
-        Research and Development Tax Offset: legal ownership of interests in a company by an exempt entity
-        FOI status: may be released
-
-
+ Research and Development Tax Offset: legal ownership of interests in a company by an exempt entity
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does an exempt entity legally own interests in a company within the meaning of subsection 73J(2) of the Income Tax Assessment Act 1936 (ITAA 1936), where the Corporations Act 2001 requirements for membership of a company have not been met?
@@ -32,16 +28,14 @@ Reasons for Decision
 Section 73J of the ITAA 1936 provides that an eligible company will be eligible to choose a tax offset instead of a deduction for research and development expenditure if it satisfies the requirements of subsection 73J(1) of the ITAA 1936.
 However, even though the requirements of subsection 73J(1) of the ITAA 1936 may be satisfied, subsection 73J(2) of the ITAA 1936 prevents an eligible company from choosing the tax offset for the relevant year, if an exempt entity, the affiliates of an exempt entity, an exempt entity together with its affiliates, or two or more exempt entities, at any time during the tax offset year, legally or beneficially own, or have the right to acquire, the legal or beneficial ownership of:
 
-
-
 (a)interests in the company that carry between them the right to exercise or control the exercise of, at least 25% of the voting power in the company; or
 (b)interests in the company that carry between them the right to receive at least 25% of any distribution of income or capital by the company.
 
 For the purpose of subsection 73J(2) of the ITAA 1936, 'interest' is used in the ordinary sense to denote 'a legal concern, title or right (in property)'. To fall within the exception, the relevant entity or entities must 'legally or beneficially own . . .' the prescribed interests. In this case those interests are the shares in the eligible company.
 Legal owners of shares in a company are referred to as 'members' under the Corporations Act. Under section 231 of the Corporations Act, a person is member of a company if they are a member of the company on its registration.
 Section 120 of the Corporations Act provides that a person becomes a member of a company on registration if the person is specified in the application
-          with their consent
-           as a proposed member of the company. (emphasis added)
+ with their consent
+ as a proposed member of the company. (emphasis added)
 Under section 176 of the Corporations Act, in the absence of evidence to the contrary, a register kept under section 168 of the Corporations Act, is proof of the matters shown in the register.
 The exempt entity was specified in the company's Application for registration as a member holding more than the 25% stipulated by subsection 73J(2) of the ITAA 1936. The contemporaneous register of members also shows the exempt entity as the legal owner of more than 25% of shares in the company.
 However, the exempt entity had not consented to become a member of the company. Therefore, sections 231 and 120 of the Corporations Act did not operate to make the exempt entity a member of the company upon registration.
@@ -49,10 +43,10 @@ Therefore, at the relevant times, the exempt entity did not legally own a releva
 On the facts there is also no basis on which to conclude that any exempt entity beneficially owned any such relevant interests.
 Subsection 73J(2) of the ITAA 1936 therefore, does not preclude the eligible company from claiming the research and development tax offset.
 Date of decision:
-         17 December 2004
+  17 December 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -62,18 +56,17 @@ Corporations Act 2001   section 231   section 168   section 169   se
 Keywords
 
 Deductions & expenses
-          Research & development expenses
-          R&D tax offset
-
+ Research & development expenses
+ R&D tax offset
 
 Siebel/TDMS Reference Number:
-         4260022
+  4260022
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         21 January 2005
+  21 January 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

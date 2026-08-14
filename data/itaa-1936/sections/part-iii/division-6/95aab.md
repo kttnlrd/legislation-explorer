@@ -18,7 +18,7 @@ source_pdf: "vol02.pdf"
 **(1)** Subsection (2) applies if an amount is included in the assessable income of a beneficiary of a trust estate because of Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997.
 
 <a id="s95AAB-2"></a>
-**(2)** For the purposes of a provision of this Act (other than a provision mentioned in subsection (3)), treat the amount as being included in the beneficiary’s assessable income in relation to the net income of the trust estate under section 97, 98A or 100 (as the case requires).
+**(2)** For the purposes of a provision of this Act (other than a provision mentioned in subsection (3)), treat the amount as being included in the beneficiary's assessable income in relation to the net income of the trust estate under section 97, 98A or 100 (as the case requires).
 
 <a id="s95AAB-3"></a>
 **(3)** The provisions are as follows:

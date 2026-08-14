@@ -3,18 +3,14 @@ ATO ID 2003/1065
 ==================================================
 
 Income Tax
-        Structured Settlement: annuity purchased from a foreign life insurance company
-        FOI status: may be released
-
-
+ Structured Settlement: annuity purchased from a foreign life insurance company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the income received under a structured settlement exempt income under Division 54 of the Income Tax Assessment Act 1997 (ITAA 1997) where the structured settlement annuity is purchased from a foreign Life Insurance Company?
@@ -27,8 +23,6 @@ The parents decided to emigrate to Australia. The overseas court order was made 
 Under the structured settlement, the defendant proposes to purchase an annuity from a life Insurance company operating only in the country of the court award.
 Reasons for Decision
 Under paragraph 54-10(1)(e) of the ITAA1997, the terms of the settlement must provide for some or all of a lump sum award of compensation or damages to be used by the defendant or the defendants insurer to be paid to, or for the benefit of, the injured person (or to a trustee) in the form of:
-
-
 
 •an annuity or group of annuities purchased from a life insurance company or State insurers; or
 •an annuity or group of annuities combined with one or more deferred lump sums purchased from a life insurance company or State insurers.
@@ -45,35 +39,33 @@ A State insurer is defined in subsection 54-10(2) of the ITAA 1997 as a body tha
 The effect of these provisions is that life insurance business is governed by the LIA except where State insurance is carried on within the territorial boundaries of the State concerned. Such insurance is governed by the provisions of the relevant State act or regulations.
 As a foreign life insurance company conducting business outside Australia is neither registered under the LIA nor a State insurer, an annuity taken out with a foreign life insurance company does not qualify for exemption under Division 54 of the ITAA1997.
 Date of decision:
-         18 October 2003
+  18 October 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
 Income Tax Assessment Act 1997   subsection 54-10(1)   subsection 995-1(1)
 Life Insurance Act 1995   section 5
-          Commonwealth of Australia Constitution Act   paragraph 51(xiv)
-
+ Commonwealth of Australia Constitution Act   paragraph 51(xiv)
 
 Keywords
 
 Annuities
-          Exempt Income
-          Foreign Life Insurance Companies
-          Life Insurance Policies
-          Structured Settlements
-
+ Exempt Income
+ Foreign Life Insurance Companies
+ Life Insurance Policies
+ Structured Settlements
 
 Siebel/TDMS Reference Number:
-         3685334
+  3685334
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 November 2003
+  28 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

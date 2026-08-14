@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(4)**  The person must provide the PIE with the information set out in section 28D(1) of the Tax Administration Act 1994.
 
-**Non-residents’ rates**
+**Non-residents' rates**
 
 **(5)**  If the person does not meet the requirements of subsections (3) and (4), the PIE must treat them as a non-resident person to whom schedule 6, table 1, row 2 (Prescribed rates: PIE investments and retirement scheme contributions) applies.
 

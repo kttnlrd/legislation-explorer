@@ -32,9 +32,9 @@ compilation_date: 2026-06-06
 
 - (a) an amount chosen by the company; and
 
-- (b) the amount of the shareholder’s residual income tax for the relevant tax year less the amount of any tax credit that the shareholder has under section LB 2 (Tax credits for provisional tax payments) for the tax year, treating a negative amount as zero; and
+- (b) the amount of the shareholder's residual income tax for the relevant tax year less the amount of any tax credit that the shareholder has under section LB 2 (Tax credits for provisional tax payments) for the tax year, treating a negative amount as zero; and
 
-- (c) the amount of the company’s tax credit under section LB 2 for the relevant tax year less the amount of the company’s residual income tax for the tax year, treating a negative amount as zero.
+- (c) the amount of the company's tax credit under section LB 2 for the relevant tax year less the amount of the company's residual income tax for the tax year, treating a negative amount as zero.
 
 *Defined in this Act: amount, Commissioner, company, income tax, pay, provisional tax, residual income tax, shareholder, shareholder-employee, tax credit*
 

@@ -92,7 +92,7 @@ compilation_date: 2026-06-06
 
 **Reference to profits**
 
-**(6)**  A reference in a double tax agreement to the profits of an activity or business is to be read, if possible, as a reference to the amount that would be a person’s net income if that activity or business were their only activity or business.
+**(6)**  A reference in a double tax agreement to the profits of an activity or business is to be read, if possible, as a reference to the amount that would be a person's net income if that activity or business were their only activity or business.
 
 **Reference to unrelated persons**
 

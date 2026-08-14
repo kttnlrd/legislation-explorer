@@ -3,17 +3,13 @@ ATO ID 2013/11
 ==================================================
 
 Income Tax
-        Research and Development - tax incentive - combination of exempt entities
-
-
+ Research and Development - tax incentive - combination of exempt entities
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will Item 2 of the table in subsection 355-100(1) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to a company when two or more exempt entities who are not affiliates, together beneficially own interests in the company carrying more than 50% of the voting rights or rights to a distribution of income or capital?
@@ -30,8 +26,6 @@ Generally, where an R&D entity has engaged in registered R&D activities, subsect
 
 an *exempt entity, or combination of exempt entities, would control the *R&D entity in a way described in section 328-125 (connected entities) if:
 
-
-
 (a)references in section 328-125 to 40% were references to 50%; and
 (b)subsection 328-125(6) were ignored.
 
@@ -39,20 +33,16 @@ Note that subsection 328-125(1) provides that an entity is 'connected with' anot
 Subsection 328-125(2) then sets out how an entity controls another entity 'in a way described in section 328-125', in providing that:
 
 An entity (the
-              first entity
+ first entity
 ) controls another entity if the first entity, its *affiliates, or the first entity together with its affiliates:
 
 ...
 
-
-
 (b)if the other entity is a company - beneficially own, or have the right to acquire the beneficial ownership of, *equity interests in the company that carry between them the right to exercise, or control the exercise of, a percentage (the
-                    control percentage
+ control percentage
 ) that is at least 40% of the voting power in the company.
 
 Broadly, a company will be controlled by another entity within the meaning of section 328-125, if that other entity, its affiliates, or that other entity together with its affiliates, beneficially own, or have the right to beneficially own shares in the company which carry the right to at least 40% of:
-
-
 
 •any distribution of income by the company; or
 •any distribution of capital by the company; or
@@ -89,17 +79,16 @@ In adopting the control test 'in a way described in section 328-125 (connected e
 The combined shareholdings of the company by the exempt entities exceed 50%. These shareholdings carry the right to more than 50% of the voting power in the company and also the right to receive a percentage of at least 50% of any distribution of income or capital.
 Accordingly, Item 2 of the table in subsection 355-100(1) of the ITAA 1997 will apply to the company.
 Date of decision:
-         31 October 2012
+  31 October 2012
 
 Year of income:
-           Year ended 30 June 2012
+  Year ended 30 June 2012
 
 Legislative References:
 
 Income Tax Assessment Act 1997   section 328-125   section 328-130   subsection 355-100(1)
 
 Case References:
-
 
 Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue (NT)   [2009] HCA 41   (2009) 239 CLR 27   2009 ATC 20-134   73 ATR 256
 
@@ -133,7 +122,6 @@ State v Fairbanks-Morse & Co\   246 SW2d 647, 658-59 (TexCivApp - Dallas 1952
 
 State of California ex rel Van de Kamp v Texaco, Inc   (1988) 46 Cal 3d 1147 [252 Cal Rptr 221, 762 P2d 385]
 
-
 Related Public Rulings (including Determinations)
 
 TD 2006/68
@@ -145,29 +133,27 @@ Related ATO Interpretative Decisions
 Other References:
 
 The Concise Oxford Dictionary, 1987, rev. 7th edn, Oxford University Press, Melbourne
-          The Macquarie Dictionary (1997)
-          Webster's Third New International Dictionary
-
+ The Macquarie Dictionary (1997)
+ Webster's Third New International Dictionary
 
 Keywords
 
 Deductions & expenses
-          Grouped entities for research and development
-          Grouped taxpayers for R&D - affiliates
-          Grouped taxpayers for R&D - control
-          Rebates and offsets
-          Research & development expenses
-          Research & development incremental tax
-
+ Grouped entities for research and development
+ Grouped taxpayers for R&D - affiliates
+ Grouped taxpayers for R&D - control
+ Rebates and offsets
+ Research & development expenses
+ Research & development incremental tax
 
 Siebel/TDMS Reference Number:
-         1-49GWNGR
+  1-49GWNGR
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         22 February 2013
+  22 February 2013
 
 ISSN:
-          1445-2782
+ 1445-2782

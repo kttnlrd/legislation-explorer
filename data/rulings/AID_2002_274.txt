@@ -3,18 +3,14 @@ ATO ID 2002/274
 ==================================================
 
 Income Tax
-        CGT: scrip for scrip roll-over - single arrangement.
-        FOI status: may be released
-
-
+ CGT: scrip for scrip roll-over - single arrangement.
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the requirement in paragraph 124-780(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) that shares be exchanged in consequence of a single arrangement satisfied when, as a result of one contract, shares are exchanged in two or more stages?
@@ -36,10 +32,10 @@ In this case the offer made by the acquiring entity is the same for all shares. 
 However, scrip for scrip roll-over for shares exchanged in step 1 will only become available when step 2 is completed because it is not until that time that the 80% test in paragraph 124-780(2)(a) of the ITAA 1997 is satisfied.
 The taxpayer will have to include the amount of any capital gain from the shares disposed of under step 1 in the calculation of their net capital gain for the income year in which those shares are disposed of. When the ownership of the remaining 50% of the shares in the original entity changes, the taxpayer will be entitled to seek an amendment of their earlier income tax return.
 Date of decision:
-         19 February 2002
+  19 February 2002
 
 Year of income:
-           Year ending 30 June 2002 Year ending 30 June 2003 Year ending 30 June 2004 Year ending 30 June 2005
+  Year ending 30 June 2002 Year ending 30 June 2003 Year ending 30 June 2004 Year ending 30 June 2005
 
 Legislative References:
 
@@ -64,22 +60,21 @@ Other References:
 Keywords
 
 Capital gains tax
-          Capital gains
-          Capital Gains Tax CoE
-          CGT Replacement asset rollover
-          Scrip for scrip rollover
-          80% control test
-          Arrangement
-
+ Capital gains
+ Capital Gains Tax CoE
+ CGT Replacement asset rollover
+ Scrip for scrip rollover
+ 80% control test
+ Arrangement
 
 Siebel/TDMS Reference Number:
-         DW219704
+  DW219704
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         22 March 2002
+  22 March 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

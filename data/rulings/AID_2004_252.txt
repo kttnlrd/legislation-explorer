@@ -3,18 +3,14 @@ ATO ID 2004/252
 ==================================================
 
 Income Tax
-        Capital Allowances: hold - application of item 6 of the hold table
-        FOI status: may be released
-
-
+ Capital Allowances: hold - application of item 6 of the hold table
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the taxpayer, who possesses and uses a depreciating asset under a genuine lease agreement immediately before entering into a hire purchase arrangement for the asset, hold the asset under item 6 of the table in section 40-40 of the Income Tax Assessment Act (ITAA 1997) during the term of the lease?
@@ -26,8 +22,6 @@ Reason for Decision
 Broadly speaking, Division 40 of the ITAA 1997 provides a deduction for the decline in value of a depreciating asset a taxpayer holds to the extent the asset is used for a taxable purpose (section 40-25 of the ITAA 1997). The table in section 40-40 of the ITAA 1997 identifies a holder of a depreciating asset in any particular circumstance. The default rule is that a taxpayer holds an asset if they are the owner of it (item 10 of the table in section 40-40 of the ITAA 1997). However, there are items in the table that identify a taxpayer as a holder in various other circumstances even though they are not the asset's owner.
 One of these other circumstances is contained in item 6 of the table in section 40-40 of the ITAA 1997 and applies where:
 
-
-
 • a taxpayer has possession, or an immediate right to possession, of the asset combined with a right, the exercise of which would make it a holder (for example, an option to acquire), and
 • it is 'reasonable to expect' that the taxpayer will become a holder by exercising that right or that the asset will be disposed of at their direction and for their benefit.
 
@@ -35,10 +29,10 @@ It is accepted that the taxpayer possesses the asset under the lease agreement. 
 The lease agreement is a genuine one under which the payments reflect the use only of the asset by the taxpayer and in no any way relate to the purchase price of the asset. In addition, the need to enter into the lease agreement arose out of a genuine timing difficulty in financing the asset and was not designed to transfer tax benefits as between the parties.
 Item 6 of the table in section 40-40 of the ITAA 1997 also requires the reasonable expectation test to be satisfied. For similar reasons to those outlined above in respect of the existence of a right to become a holder, this test can only be satisfied on its second application. That is, the test in relation to the lease agreement could only be met if it was reasonable to expect that the taxpayer would become a holder of the asset under the hire purchase arrangement. It is not possible to come to a reasonable expectation about what will happen under an arrangement that has not been finalised.
 Date of decision:
-         16 March 2004
+  16 March 2004
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -51,19 +45,18 @@ Taxation Ruling IT 28
 Keywords
 
 Capital Allowances CoE
-          Hire purchase
-          Hold a depreciating asset
-          Uniform capital allowance system
-
+ Hire purchase
+ Hold a depreciating asset
+ Uniform capital allowance system
 
 Siebel/TDMS Reference Number:
-         394879
+  394879
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         26 March 2004
+  26 March 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

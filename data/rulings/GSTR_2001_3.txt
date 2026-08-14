@@ -4,30 +4,28 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 111
-  • Div 129
-  • Div 131
-  • Div 13A
-  • Div 156
-  • Div 189
-  • Div 29
-  • Div 32
-  • Div 358
-  • Div 69
-  • Div 71
-  • Div 7A
-  • Div 8
-  • Div 87
-  • Div 9A
-  • Division 111
-  • Division 129
-  • Division 131
-  • Division 13A
-  • Division 156
+ • Div 111
+ • Div 129
+ • Div 131
+ • Div 13A
+ • Div 156
+ • Div 189
+ • Div 29
+ • Div 32
+ • Div 358
+ • Div 69
+ • Div 71
+ • Div 7A
+ • Div 8
+ • Div 87
+ • Div 9A
+ • Division 111
+ • Division 129
+ • Division 131
+ • Division 13A
+ • Division 156
 
 Topics: GST, FBT, Div 7A, Trusts, Companies
-
-
 
 ================================================================================
 
@@ -42,7 +40,7 @@ Back to browse
 109 related documents
 Goods and Services Tax Ruling
 GSTR 2001/3
-Goods and Services Tax:  GST and how it applies to supplies of fringe benefits
+Goods and Services Tax: GST and how it applies to supplies of fringe benefits
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -85,46 +83,46 @@ This is a consolidated version of this document. Refer to the Legal Database (ht
 What this Ruling is about
 1. This Ruling explains the circumstances under which supplies of fringe benefits are subject to Goods and Services Tax (GST) under
 A New Tax System (Goods and Service Tax) Act 1999
-('GST Act').  This Ruling explains the entitlement to input tax credits for acquisitions and importations related to providing those benefits.  It also explains the operation of the special rules in Divisions 69, 71 and 111 and the interaction of Division 131 with these rules. This Ruling addresses some issues about attribution of GST payable and input tax credits in the context of provision of fringe benefits.
+('GST Act'). This Ruling explains the entitlement to input tax credits for acquisitions and importations related to providing those benefits. It also explains the operation of the special rules in Divisions 69, 71 and 111 and the interaction of Division 131 with these rules. This Ruling addresses some issues about attribution of GST payable and input tax credits in the context of provision of fringe benefits.
 2. The Ruling should be read together with Taxation Ruling TR 2001/2 which discusses the Fringe Benefits Tax (FBT) consequences of making supplies by way of fringe benefits.
-3. The Ruling adopts interpretations of the GST Act expressed in public rulings issued by the ATO.  This Ruling does not alter the views expressed in those rulings, but explains and applies those views in the context of the particular subject matter of this Ruling.
+3. The Ruling adopts interpretations of the GST Act expressed in public rulings issued by the ATO. This Ruling does not alter the views expressed in those rulings, but explains and applies those views in the context of the particular subject matter of this Ruling.
 4. Certain terms used in this Ruling are defined or explained in the
 Definitions
-section of the Ruling.  These terms, when first mentioned in the body of the Ruling, appear in
+section of the Ruling. These terms, when first mentioned in the body of the Ruling, appear in
 bold
 type.
-5. Unless otherwise stated, all legislative references in this Ruling are to the GST Act.  References to 'FBTAA' are references to the
+5. Unless otherwise stated, all legislative references in this Ruling are to the GST Act. References to 'FBTAA' are references to the
 Fringe Benefits Tax Assessment Act 1986
-.  References to 'GST Transition Act' are references to the
+. References to 'GST Transition Act' are references to the
 A New Tax System (Goods and Services Tax Transition) Act 1999
-.  A reference to the ITAA 1997 is a reference to the
+. A reference to the ITAA 1997 is a reference to the
 Income Tax Assessment Act
-1997.  A reference to the ITAA 1936 is a reference to the
+1997. A reference to the ITAA 1936 is a reference to the
 Income Tax Assessment Act 1936
 .
 Background
 Fringe benefits tax and the rules in the FBTAA
-6. Fringe benefits tax is a tax payable by employers on the value of certain benefits that have been provided to their employees in respect of the employees' employment.  The FBTAA sets out the rules for the taxation of these benefits.  A benefit that is not provided in respect of employment is not a fringe benefit.
+6. Fringe benefits tax is a tax payable by employers on the value of certain benefits that have been provided to their employees in respect of the employees' employment. The FBTAA sets out the rules for the taxation of these benefits. A benefit that is not provided in respect of employment is not a fringe benefit.
 7. A 'benefit' is widely defined to include any right (including any property right), privilege, service or facility.
 [1]
 The benefit can be provided to the employee or employee's associate, by the employee's employer, an associate of the employer or a third party under an arrangement with the employer (or associate) .
 [2]
-In the context of providing an amount of remuneration to an employee, the provision of a fringe benefit can give an amount of  benefit to an employee which might otherwise have been derived as an amount of salary or wages.  Salary or wages is subject to income tax in the hands of the employee.
-8. There is a large range of benefits that are provided in respect of employment on which the employer does not pay fringe benefits tax.  Under the FBTAA, some benefits are statutorily excluded and some have a specified value which can result in less fringe benefits tax being paid than the amount of income tax that would have been paid if the employee had received the equivalent value of the benefit in the form of salary and wages.
+In the context of providing an amount of remuneration to an employee, the provision of a fringe benefit can give an amount of benefit to an employee which might otherwise have been derived as an amount of salary or wages. Salary or wages is subject to income tax in the hands of the employee.
+8. There is a large range of benefits that are provided in respect of employment on which the employer does not pay fringe benefits tax. Under the FBTAA, some benefits are statutorily excluded and some have a specified value which can result in less fringe benefits tax being paid than the amount of income tax that would have been paid if the employee had received the equivalent value of the benefit in the form of salary and wages.
 Statutory exclusions
-9. The FBTAA excludes payments of salary or wages from being fringe benefits, along with a range of other benefits, such as superannuation and employee share schemes.  One specific exclusion from being a fringe benefit is an exempt benefit.  Many of these FBTAA exempting provisions concern benefits that are integrally connected with work activities.  For example, an exempt benefit includes one where plant or equipment that is located on the business premises of the employer  is used wholly or principally by the employee in connection with the operation of that business.
+9. The FBTAA excludes payments of salary or wages from being fringe benefits, along with a range of other benefits, such as superannuation and employee share schemes. One specific exclusion from being a fringe benefit is an exempt benefit. Many of these FBTAA exempting provisions concern benefits that are integrally connected with work activities. For example, an exempt benefit includes one where plant or equipment that is located on the business premises of the employer is used wholly or principally by the employee in connection with the operation of that business.
 Determination of value of fringe benefits
-10. The taxable value of a fringe benefit is calculated in accordance with the valuation rules for the particular benefit involved. For benefits intended for purely private consumption by the employee as  remuneration, with no direct link to business activities, there results in many cases an amount of fringe benefits tax equivalent to the amount of income tax that would otherwise have been payable by the employee if received as salary and wages.
-11. Nevertheless, there are a number  of benefits that attract relatively concessional valuation treatment in this regard, often to take account of the fact that the benefits are connected with work activities, rather than being remuneration for the employee.  This achieves an effect equivalent to exemption or partial exemption.
-12. The taxable value of certain fringe benefits may be reduced under the 'otherwise deductible rule'.  The 'otherwise deductible rule' means that the taxable value of certain fringe benefits may be reduced to the extent that the employee would have been able to claim an income tax deduction had the employee incurred the expense.  In many cases this arises from a connection with work activities by the employee.  (However, the reduction can also apply where the employee would have been entitled to a deduction if he or she had incurred the expenditure.)
-13. For most types of fringe benefits, if the employee makes a payment to the employer as a contribution towards the cost of providing the fringe benefit, the taxable value of that fringe benefit is reduced by that payment.  To the extent that the employee has paid for the benefit, it may be taxed as income in the hands of the employer, rather than through fringe benefits tax.  A contribution by an employee towards the cost of a car fringe benefit is known as a '
+10. The taxable value of a fringe benefit is calculated in accordance with the valuation rules for the particular benefit involved. For benefits intended for purely private consumption by the employee as remuneration, with no direct link to business activities, there results in many cases an amount of fringe benefits tax equivalent to the amount of income tax that would otherwise have been payable by the employee if received as salary and wages.
+11. Nevertheless, there are a number of benefits that attract relatively concessional valuation treatment in this regard, often to take account of the fact that the benefits are connected with work activities, rather than being remuneration for the employee. This achieves an effect equivalent to exemption or partial exemption.
+12. The taxable value of certain fringe benefits may be reduced under the 'otherwise deductible rule'. The 'otherwise deductible rule' means that the taxable value of certain fringe benefits may be reduced to the extent that the employee would have been able to claim an income tax deduction had the employee incurred the expense. In many cases this arises from a connection with work activities by the employee. (However, the reduction can also apply where the employee would have been entitled to a deduction if he or she had incurred the expenditure.)
+13. For most types of fringe benefits, if the employee makes a payment to the employer as a contribution towards the cost of providing the fringe benefit, the taxable value of that fringe benefit is reduced by that payment. To the extent that the employee has paid for the benefit, it may be taxed as income in the hands of the employer, rather than through fringe benefits tax. A contribution by an employee towards the cost of a car fringe benefit is known as a '
 recipients payment'
 [3]
-.  A contribution by an employee towards the cost of most other fringe benefits is known as a '
+. A contribution by an employee towards the cost of most other fringe benefits is known as a '
 recipients
 contribution'
 [4]
-.  An employee contribution towards a housing fringe benefit is known as '
+. An employee contribution towards a housing fringe benefit is known as '
 recipients rent'
 [5]
 .
@@ -134,45 +132,45 @@ Ruling and explanation
 GST and fringe benefits
 15. For GST purposes, fringe benefit 'has the meaning given by section 995-1 of the ITAA 1997 but includes a benefit within the meaning of subsection 136(1) of the
 Fringe Benefits Tax Assessment Act 1986
-that is  an exempt benefit for the purposes of that Act.'
+that is an exempt benefit for the purposes of that Act.'
 [6]
-The FBTAA specifically excludes exempt benefits from the definition of 'fringe benefit' in that Act.  In this Ruling, unless otherwise indicated, 'fringe benefit' means a
+The FBTAA specifically excludes exempt benefits from the definition of 'fringe benefit' in that Act. In this Ruling, unless otherwise indicated, 'fringe benefit' means a
 fringe benefit
 as defined in the GST Act.
-16. GST is payable on the value of  taxable supplies.  The way the value of a supply of a fringe benefit is worked out is different than for other supplies.
+16. GST is payable on the value of taxable supplies. The way the value of a supply of a fringe benefit is worked out is different than for other supplies.
 [7]
 GST payable on supplies of fringe benefits
-17. The provision of a fringe benefit can be a supply.  The supply of a fringe benefit may be made by you as an employer, your associate or another party (subject to an arrangement with you).  The recipient of the supply may be either an employee or an associate of the employee.
+17. The provision of a fringe benefit can be a supply. The supply of a fringe benefit may be made by you as an employer, your associate or another party (subject to an arrangement with you). The recipient of the supply may be either an employee or an associate of the employee.
 [8]
 Consideration
 18. One of the requirements for a supply to be a taxable supply is that 'you make the supply for *consideration'.
 [9]
 19. The services of an employee can be consideration for the supply of a fringe benefit to that employee.
-20. Consideration for the supply of a fringe benefit may also take the form of a payment or contribution made by the recipient of the benefit.  It is only this consideration that is taken into account in working out the amount of GST on the supply of a fringe benefit.
+20. Consideration for the supply of a fringe benefit may also take the form of a payment or contribution made by the recipient of the benefit. It is only this consideration that is taken into account in working out the amount of GST on the supply of a fringe benefit.
 [10]
 Value of a fringe benefit supply
 21. GST is 10% of the value of a taxable supply
 [11]
 where value is 10/11 of the price (being the amount of consideration for a supply).
 [12]
-However, subsection 9-75(3) states that the price of a supply of a fringe benefit is the amount of consideration in the form of the recipients payment or the recipients contribution.  'Recipients payment' and 'recipients contribution' are defined in the GST Act.
+However, subsection 9-75(3) states that the price of a supply of a fringe benefit is the amount of consideration in the form of the recipients payment or the recipients contribution. 'Recipients payment' and 'recipients contribution' are defined in the GST Act.
 [13]
 22. This means that, where you make a taxable supply of a fringe benefit, you are only liable for GST to the extent of the consideration payable on the supply in the form of a recipients payment
 [14]
 or recipients contribution.
-23. A recipients payment or recipients contribution that reduces the FBT taxable value of a fringe benefit is consideration for the supply of that benefit.  Similarly, employee payments made for benefits with no FBT value, or that are FBT exempt benefits, are also employee consideration for the supply of those benefits.  The GST Act includes in the definition of recipients contribution, amounts that are paid for exempt benefits.
+23. A recipients payment or recipients contribution that reduces the FBT taxable value of a fringe benefit is consideration for the supply of that benefit. Similarly, employee payments made for benefits with no FBT value, or that are FBT exempt benefits, are also employee consideration for the supply of those benefits. The GST Act includes in the definition of recipients contribution, amounts that are paid for exempt benefits.
 [15]
 24. A payment of
 recipients rent
 by an employee for the provision of a housing fringe benefit is not taken into account in working out the amount of GST payable on the supply and therefore does not create a GST liability for the provider.
 Example 1
 25.
-Kylie has $100 deducted weekly out of her bank account as a recipients payment towards a car that is made available to her for her private use as a fringe benefit.  This amount is transferred to her employer's account. It is a recipients payment amount and reduces the FBT taxable value of the car benefit for her employer.
+Kylie has $100 deducted weekly out of her bank account as a recipients payment towards a car that is made available to her for her private use as a fringe benefit. This amount is transferred to her employer's account. It is a recipients payment amount and reduces the FBT taxable value of the car benefit for her employer.
 26.
-Together with her services, the weekly payments constitute Kylie's consideration for the taxable supply by the employer to Kylie for the use of the vehicle.  However, only the payments Kylie makes for the car are taken into account in working out the amount of GST payable by her employer on the supply of the fringe benefit.
+Together with her services, the weekly payments constitute Kylie's consideration for the taxable supply by the employer to Kylie for the use of the vehicle. However, only the payments Kylie makes for the car are taken into account in working out the amount of GST payable by her employer on the supply of the fringe benefit.
 27. Recipient payments or contributions made for the supply of a fringe benefit that is GST-free or input taxed do not create a GST liability as there is no GST payable on these supplies.
 Salary sacrifice arrangements
-28. The entry into a salary sacrifice agreement is not consideration for the supply of a benefit.  In the United Kingdom VAT Tribunal case
+28. The entry into a salary sacrifice agreement is not consideration for the supply of a benefit. In the United Kingdom VAT Tribunal case
 Co-operative Insurance Society Ltd
 .
 [16]
@@ -181,22 +179,22 @@ Example 2
 29.
 Kylie's employer has a policy in place which permits employees to enter into a salary sacrifice agreement in relation to the provision of a car to employees for wholly private use. The particular agreement between Kylie and her employer involves a reduction of her current gross salary by $15,000. Kylie makes no payments to her employer.
 30.
-The $15,000 that has been 'sacrificed' is not consideration for the supply of the vehicle. Kylie has provided her services as consideration for the supply of the car.  Although her employer has made a taxable supply of the car to Kylie, there has been no amount of recipients payment made to the employer. Her employer is not liable to pay any GST on the supply of the car.
+The $15,000 that has been 'sacrificed' is not consideration for the supply of the vehicle. Kylie has provided her services as consideration for the supply of the car. Although her employer has made a taxable supply of the car to Kylie, there has been no amount of recipients payment made to the employer. Her employer is not liable to pay any GST on the supply of the car.
 Recipients payments for car fringe benefits
-31. The whole amount of the recipients payment that is used in calculating the FBT value reduction for a car fringe benefit is not always taken into account in working out the amount of GST payable by the employer.  This is because, under the FBTAA, the employee's recipients payment amount during an FBT year can be paid to third parties as consideration for supplies by third parties to the employee, but nevertheless reduce the FBT value of the car benefit for the employer.
+31. The whole amount of the recipients payment that is used in calculating the FBT value reduction for a car fringe benefit is not always taken into account in working out the amount of GST payable by the employer. This is because, under the FBTAA, the employee's recipients payment amount during an FBT year can be paid to third parties as consideration for supplies by third parties to the employee, but nevertheless reduce the FBT value of the car benefit for the employer.
 [17]
 Example 3
 32.
-Kylie is an employee of Archimedes Ltd who provides a car benefit (FBT value of $3,300).  Kylie pays $1,100 to Archimedes Ltd and $400 directly to her local service station for fuel, oil and servicing. The total recipients payment amount is $1,500 ($1,100 + $400).  The FBT taxable value of the benefit is $1,800 ($3,300 - $1,500).
+Kylie is an employee of Archimedes Ltd who provides a car benefit (FBT value of $3,300). Kylie pays $1,100 to Archimedes Ltd and $400 directly to her local service station for fuel, oil and servicing. The total recipients payment amount is $1,500 ($1,100 + $400). The FBT taxable value of the benefit is $1,800 ($3,300 - $1,500).
 33.
 Archimedes is liable for GST of $100 (1/11 of $1,100) on Kylie's $1,100 contribution. This $1,100 amount of recipients payment is the amount of consideration that is used to work out the GST on the supply of the fringe benefit. Kylie's payment of $400 is not consideration for the taxable supply of a fringe benefit, but is consideration for supplies to Kylie from other suppliers.
 Contributions to accommodation type benefits
-34. For housing fringe benefits, as defined in the FBTAA, a contribution towards such a benefit is termed 'recipients rent'.  Where your employee makes a payment of recipient's rent for the supply of a housing fringe benefit, the payment is not taken into account in working out the amount of GST payable on the supply.  This is because 'recipients rent' is not one of the forms of consideration referred to in subsection 9-75(3).  This applies irrespective of whether or not the supply of the housing fringe benefit would be input taxed.
-35. However, not all accommodation benefits are provided as housing fringe benefits. In many cases, accommodation provided to employees that is not a housing fringe benefit is a 'residual benefit'.  In some cases the supply of accommodation to an employee is an input taxed supply under section 40-35 and therefore subsection 9-75(3) is inapplicable.
+34. For housing fringe benefits, as defined in the FBTAA, a contribution towards such a benefit is termed 'recipients rent'. Where your employee makes a payment of recipient's rent for the supply of a housing fringe benefit, the payment is not taken into account in working out the amount of GST payable on the supply. This is because 'recipients rent' is not one of the forms of consideration referred to in subsection 9-75(3). This applies irrespective of whether or not the supply of the housing fringe benefit would be input taxed.
+35. However, not all accommodation benefits are provided as housing fringe benefits. In many cases, accommodation provided to employees that is not a housing fringe benefit is a 'residual benefit'. In some cases the supply of accommodation to an employee is an input taxed supply under section 40-35 and therefore subsection 9-75(3) is inapplicable.
 [17A]
 Employee contributions to taxable supplies of accommodation can be for taxable supplies if they are not made for housing fringe benefits.
 Contributions to expense payment benefits
-36. The provision of an expense payment benefit to an employee is not a supply for the purposes of the GST Act.  This is because it is a supply of money and is not a supply unless it is provided as consideration for a supply that is a supply of money.
+36. The provision of an expense payment benefit to an employee is not a supply for the purposes of the GST Act. This is because it is a supply of money and is not a supply unless it is provided as consideration for a supply that is a supply of money.
 [18]
 As the expense payment benefit is not a supply for the purposes of the GST Act, GST is not payable.
 37. Under Division 111, an expense payment benefit you make to an employee is treated as consideration for an acquisition from the employee and you may be entitled to an input tax credit.
@@ -205,12 +203,12 @@ If the employee makes a contribution to the expense payment benefit, this has th
 38. If you have claimed the input tax credit in a previous tax period, you will need to make an adjustment to reduce your input tax credit claim.
 Example 4
 39.
-Karen works for the City South Hospital which is operated by a non-profit society. Karen has entered into the lease of a motorcycle with ABC bikes for $990 each month. Karen uses the motorcycle to a small extent for work related activities. City South pays $990 monthly to Karen and is entitled to an input tax credit of $90 under Division 111. At the end of the FBT year, Karen contributes $1,100 to City South. This is treated as a reduction in the amount of reimbursement (consideration for the acquisition) by South City to Karen and gives rise to an adjustment event.  City South will need to make an adjustment to reduce the input tax credits claimed in previous tax periods.
+Karen works for the City South Hospital which is operated by a non-profit society. Karen has entered into the lease of a motorcycle with ABC bikes for $990 each month. Karen uses the motorcycle to a small extent for work related activities. City South pays $990 monthly to Karen and is entitled to an input tax credit of $90 under Division 111. At the end of the FBT year, Karen contributes $1,100 to City South. This is treated as a reduction in the amount of reimbursement (consideration for the acquisition) by South City to Karen and gives rise to an adjustment event. City South will need to make an adjustment to reduce the input tax credits claimed in previous tax periods.
 Input taxed and GST-free supplies
 40. It is important to note that, as with other supplies, supplies of fringe benefits are not taxable supplies if they are input taxed or GST-free, whether or not any amount of recipients payment or contribution is provided.
 Example 5
 41.
-Einstein High, a private school, provides discounted education to children of teachers.  The supply of an education course to the employee's child is a fringe benefit. However, the supply is GST-free and no GST is payable on the supply of the benefit.
+Einstein High, a private school, provides discounted education to children of teachers. The supply of an education course to the employee's child is a fringe benefit. However, the supply is GST-free and no GST is payable on the supply of the benefit.
 Example 6
 42.
 Best Ltd is a public company that supplies houses (residential premises) for senior executives to live in on an ongoing basis. The supplied premises remain the property of Best Because the supply of such a fringe benefit is input taxed
@@ -221,10 +219,10 @@ Supplies of fringe benefits spanning 1 July 2000
 44. Where a supply of a fringe benefit is made for a period or progressively over a period that spans 1 July 2000, section 12 of the GST Transition Act applies.
 Example 7
 45.
-Izzy is provided with a car by his employer for the whole of the FBT year to 31 March 2001 (wholly as remuneration for his services).  He makes a recipients payment of $4,000 to his employer on 15 March 2001 as payment for supply of the car during the FBT year.  The supply during the period 1 April 2000 to 30 June 2000 is not subject to GST. The supply of the car during the period 1 July 2000 to 31 March 2001 is a taxable supply and a part of the payment is consideration for a taxable supply on which GST is payable.
+Izzy is provided with a car by his employer for the whole of the FBT year to 31 March 2001 (wholly as remuneration for his services). He makes a recipients payment of $4,000 to his employer on 15 March 2001 as payment for supply of the car during the FBT year. The supply during the period 1 April 2000 to 30 June 2000 is not subject to GST. The supply of the car during the period 1 July 2000 to 31 March 2001 is a taxable supply and a part of the payment is consideration for a taxable supply on which GST is payable.
 [21]
 46.
-Section 11 of the GST Transition Act applies to rights supplied before 1 July 2000 to the extent that a right could reasonably be expected to be exercised on or after that date.  GST is payable on the taxable supply of those rights where a recipients contribution is made
+Section 11 of the GST Transition Act applies to rights supplied before 1 July 2000 to the extent that a right could reasonably be expected to be exercised on or after that date. GST is payable on the taxable supply of those rights where a recipients contribution is made
 .
 Example 8
 47.
@@ -235,7 +233,7 @@ Input tax credits for acquisitions and importations made to provide fringe benef
 [23]
 or creditable importation
 [24]
-that you make.  This includes creditable acquisitions and creditable importations made to supply fringe benefits.
+that you make. This includes creditable acquisitions and creditable importations made to supply fringe benefits.
 49. One of the requirements for an acquisition or importation to be creditable is that it is acquired or imported for a creditable purpose.
 [25]
 Creditable purpose
@@ -250,13 +248,13 @@ the acquisition or importation relates to making supplies that would be input ta
 •
 the acquisition or importation is of a private or domestic nature.
 [28]
-52. An acquisition or importation you make to provide a fringe benefit in respect of employment in your enterprise is made in carrying on the enterprise and is not of a private or domestic nature for the purposes of section 11-15 and section 15-10.  It is your purpose at the time of making the acquisition or importation that is relevant to whether the acquisition or importation is for a creditable purpose.  For example, an acquisition made to provide a car for the private use of your employee is made for a creditable purpose.
+52. An acquisition or importation you make to provide a fringe benefit in respect of employment in your enterprise is made in carrying on the enterprise and is not of a private or domestic nature for the purposes of section 11-15 and section 15-10. It is your purpose at the time of making the acquisition or importation that is relevant to whether the acquisition or importation is for a creditable purpose. For example, an acquisition made to provide a car for the private use of your employee is made for a creditable purpose.
 Claiming input tax credits if you have made an annual apportionment election under Division 131
-52A.  You may make an annual apportionment election (election) under Division 131 if you satisfy the eligibility requirements, which are set out in section 131-5 and are explained in the Fact Sheet
+52A. You may make an annual apportionment election (election) under Division 131 if you satisfy the eligibility requirements, which are set out in section 131-5 and are explained in the Fact Sheet
 GST and annual private apportionment
 (which can be accessed at www.ato.gov.au).
-52B.  If you make the election, you may claim a full input tax credit for a creditable acquisition or importation which is partly for a creditable purpose and partly for private purposes. The election does not, however, allow you to claim an input tax credit for an acquisition or importation to the extent that it relates to making input taxed supplies, or for an acquisition that is to any extent a reduced credit acquisition.
-52C.  You will have an increasing adjustment in a later tax period to account for the private use of the acquisition or importation. The increasing adjustment is made in the business activity statement (BAS) that covers the last day on which your income tax return is due, or you may choose to make that adjustment in an earlier BAS.
+52B. If you make the election, you may claim a full input tax credit for a creditable acquisition or importation which is partly for a creditable purpose and partly for private purposes. The election does not, however, allow you to claim an input tax credit for an acquisition or importation to the extent that it relates to making input taxed supplies, or for an acquisition that is to any extent a reduced credit acquisition.
+52C. You will have an increasing adjustment in a later tax period to account for the private use of the acquisition or importation. The increasing adjustment is made in the business activity statement (BAS) that covers the last day on which your income tax return is due, or you may choose to make that adjustment in an earlier BAS.
 Acquisitions and importations related to making input taxed supplies
 53. You are not entitled to an input tax credit for an acquisition or importation that relates to making input taxed supplies.
 [29]
@@ -264,9 +262,9 @@ However, this reduction of your entitlement to an input tax credit does not appl
 financial supplies
 and you do not exceed the financial acquisitions threshold.
 [30]
-54. In ascertaining the GST implications of the provision of a fringe benefit, a distinction can be drawn between two concepts, namely 'work benefit' and 'remuneration benefit'.  This distinction does not apply for the purposes of the FBTAA.  Although these terms are not defined in the GST Act, they are important concepts in determining input tax credit entitlement for entities that make both input taxed supplies and provide fringe benefits.
+54. In ascertaining the GST implications of the provision of a fringe benefit, a distinction can be drawn between two concepts, namely 'work benefit' and 'remuneration benefit'. This distinction does not apply for the purposes of the FBTAA. Although these terms are not defined in the GST Act, they are important concepts in determining input tax credit entitlement for entities that make both input taxed supplies and provide fringe benefits.
 Remuneration benefits
-55. 'Remuneration benefits' are benefits provided to employees which, together with salary and wages, are provided by employers in return for employee services.  Acquisitions that relate to providing these remuneration benefits will not relate to other supplies that an entity makes, such as input taxed supplies that an entity makes to clients or customers.
+55. 'Remuneration benefits' are benefits provided to employees which, together with salary and wages, are provided by employers in return for employee services. Acquisitions that relate to providing these remuneration benefits will not relate to other supplies that an entity makes, such as input taxed supplies that an entity makes to clients or customers.
 56. Examples of Remuneration Benefits would include:
 •
 Use of a car to be used for employee's private travel;
@@ -276,15 +274,15 @@ Entertainment provided to employees;
 Employee holiday travel and accommodation.
 Example 9
 57.
-International Bank acquires a car by way of lease, undertaking to make lease payments to a lessor so as to provide employee Eva with a motor vehicle for her private use, entirely as a remuneration benefit.  The bank does not require the car to be used for work activities.  The supply of the car to International is a taxable supply. International is entitled to input tax credits for the lease payments on the car and for car running costs such as petrol and repairs that it incurs to the extent that it meets the other requirements of section 11-5.
+International Bank acquires a car by way of lease, undertaking to make lease payments to a lessor so as to provide employee Eva with a motor vehicle for her private use, entirely as a remuneration benefit. The bank does not require the car to be used for work activities. The supply of the car to International is a taxable supply. International is entitled to input tax credits for the lease payments on the car and for car running costs such as petrol and repairs that it incurs to the extent that it meets the other requirements of section 11-5.
 58. However if the supply of a remuneration benefit is one that relates to making an input taxed supply such as the provision of a loan or residential housing, you are not entitled to an input tax credit under paragraph 11-15(2)(a).
 Example 10
 59.
-Archimedes Ltd rents houses from various landlords to provide the use of the houses to its employees on an indefinite basis as remuneration benefits.  Archimedes Ltd also pays another entity, Adminco, to administer the supply of houses to employees.  The acquisition by Archimedes Ltd is not a creditable acquisition.  The acquisition relates to the supply of benefits to employees that are input taxed supplies.  Paragraph 11-15(2)(a) denies input tax credit entitlements on such payments.  This result does not change whether or not the benefits are exempt or reduced in value for FBT purposes. Nor is the result affected by whether or not an amount of rent is received from an employee
+Archimedes Ltd rents houses from various landlords to provide the use of the houses to its employees on an indefinite basis as remuneration benefits. Archimedes Ltd also pays another entity, Adminco, to administer the supply of houses to employees. The acquisition by Archimedes Ltd is not a creditable acquisition. The acquisition relates to the supply of benefits to employees that are input taxed supplies. Paragraph 11-15(2)(a) denies input tax credit entitlements on such payments. This result does not change whether or not the benefits are exempt or reduced in value for FBT purposes. Nor is the result affected by whether or not an amount of rent is received from an employee
 .
 Work benefits
 60. In contrast, a 'work benefit' is not provided for consideration (in the form of the employee's services) because the purpose of the benefit is to serve genuine and legitimate ends of the employer's enterprise, and any incidental advantage to the employee is disregarded as a minor outcome.
-61. With a work benefit, the provision by an employer of pleasant working premises for employees clearly benefits an employee (when compared to unpleasant working conditions) but primarily serves the employer's purpose of creating an efficient working environment.  An employee does not provide his or her services as consideration for the use of a desk or an office or other similar conditions of employment.  Employee services are provided for the employer's provision of salary and wages, plus remuneration benefits.
+61. With a work benefit, the provision by an employer of pleasant working premises for employees clearly benefits an employee (when compared to unpleasant working conditions) but primarily serves the employer's purpose of creating an efficient working environment. An employee does not provide his or her services as consideration for the use of a desk or an office or other similar conditions of employment. Employee services are provided for the employer's provision of salary and wages, plus remuneration benefits.
 62. Examples of work benefits would include:
 •
 Provision of a car to an employee to use for work activities;
@@ -294,24 +292,24 @@ Business travel and accommodation;
 Uniforms;
 •
 Use/benefit of work property on work premises for work activities - desks, computer, chairs, tables, air conditioning.
-63. The issue of whether or not employment related benefits are provided for consideration has been discussed in overseas VAT jurisdictions.  Decision of  overseas cases support the view that there is no consideration furnished by employees for the provision to them of work benefits.
+63. The issue of whether or not employment related benefits are provided for consideration has been discussed in overseas VAT jurisdictions. Decision of overseas cases support the view that there is no consideration furnished by employees for the provision to them of work benefits.
 64. Thus in the European Court of Justice case,
 Julius Fillibeck Sohne
 [31]
 , the application of article 2(1) of the Sixth Council directive
 [32]
-was considered in respect of certain benefits provided to employees.  The issue concerned whether transport provided by an employer for employees free of charge constituted a supply of services effected for consideration.
-65. The court found that on the facts of that particular case there was not a supply of services for consideration by the employer.  It held that there was no link between the supply of the employee services and the benefit received.
+was considered in respect of certain benefits provided to employees. The issue concerned whether transport provided by an employer for employees free of charge constituted a supply of services effected for consideration.
+65. The court found that on the facts of that particular case there was not a supply of services for consideration by the employer. It held that there was no link between the supply of the employee services and the benefit received.
 66. Given the particular facts of that case, the Court, in its judgment, made the following observation:
 '...The personal benefit derived by employees from such transport appears to be of only secondary importance compared to the needs of the business...'.
 [33]
 Acquisitions resulting in work benefits
-67. Acquisitions that result in work benefits relate to supplies that the entity makes.  Where an entity makes input taxed supplies and the acquisitions relate to those input taxed supplies, paragraph 11-15(2)(a) applies to reduce entitlements to input tax credits.
+67. Acquisitions that result in work benefits relate to supplies that the entity makes. Where an entity makes input taxed supplies and the acquisitions relate to those input taxed supplies, paragraph 11-15(2)(a) applies to reduce entitlements to input tax credits.
 Example 11
 68.
 The lending segment of ABC Bank has calculated that acquisitions that the bank makes in its lending segment relate 80% to making input taxed supplies.
 [34]
-This includes costs such as overheads, including air-conditioning and office furniture.  These acquisitions result in benefits to employees, but they are work benefits.  Because the acquisitions relate to making input taxed supplies to the extent of 80%, paragraph 11-15(2)(a) applies to these acquisitions.  Any input tax credit entitlements on these acquisitions are reduced by 80%.
+This includes costs such as overheads, including air-conditioning and office furniture. These acquisitions result in benefits to employees, but they are work benefits. Because the acquisitions relate to making input taxed supplies to the extent of 80%, paragraph 11-15(2)(a) applies to these acquisitions. Any input tax credit entitlements on these acquisitions are reduced by 80%.
 Division 71
 69. Division 71 will deny an input tax credit for acquisitions or importations for the purpose of providing a fringe benefit to employees of an input taxed supplier provided:
 •
@@ -325,10 +323,10 @@ the only reason it relates to making input taxed supplies is it relates to makin
 •
 you do not exceed the financial acquisitions threshold.
 [35]
-71. The most common application of Division 71 is where an acquisition is made to provide a fringe benefit that is in part a remuneration benefit and in part a work benefit that has a connection with making input taxed supplies.  Division 71 can apply where an item is acquired by an employer for the purpose of both making input taxed supplies, and also providing a fringe benefit to an employee on which fringe benefits tax is payable.
+71. The most common application of Division 71 is where an acquisition is made to provide a fringe benefit that is in part a remuneration benefit and in part a work benefit that has a connection with making input taxed supplies. Division 71 can apply where an item is acquired by an employer for the purpose of both making input taxed supplies, and also providing a fringe benefit to an employee on which fringe benefits tax is payable.
 Example 12
 72.
-Eastbank Ltd exceeds the financial acquisitions threshold.  It acquires a fleet of cars by way of lease, to use primarily in the Loans Division.  Certain employees are each allocated a particular vehicle which is required to be garaged at the employee's home at night.  FBT is payable on the vehicles because of the home garaging arrangement.  The vehicles have been acquired partly to be used for enterprise activities, and partly for private use by employees.
+Eastbank Ltd exceeds the financial acquisitions threshold. It acquires a fleet of cars by way of lease, to use primarily in the Loans Division. Certain employees are each allocated a particular vehicle which is required to be garaged at the employee's home at night. FBT is payable on the vehicles because of the home garaging arrangement. The vehicles have been acquired partly to be used for enterprise activities, and partly for private use by employees.
 [36]
 These vehicles are valued for FBT purposes using the statutory formula method.
 73.
@@ -336,21 +334,21 @@ In this example, Division 71 applies to deny any input tax credit entitlement on
 .
 Example 13
 74.
-Assuming the same facts in Example 12 except Eastbank Ltd leases a fleet of cars, for use in the Sales Division to make taxable supplies.  Division 71 would not deny the input tax credit entitlement for the lease of the cars to Eastbank Ltd as the vehicles were used wholly in making taxable supplies.  Division 71 applies only where an acquisition relates, at least in part, to making input taxed supplies
+Assuming the same facts in Example 12 except Eastbank Ltd leases a fleet of cars, for use in the Sales Division to make taxable supplies. Division 71 would not deny the input tax credit entitlement for the lease of the cars to Eastbank Ltd as the vehicles were used wholly in making taxable supplies. Division 71 applies only where an acquisition relates, at least in part, to making input taxed supplies
 .
 Interaction between Division 131 (annual apportionment election) and Division 71
-74A.  If you have made an annual apportionment election under Division 131, that election is only applicable to acquisitions or importations that are creditable acquisitions or importations. If Division 71 applies to an acquisition or importation, that acquisition or importation is not a creditable acquisition or importation (see sections 71-5 and 71-10, respectively) and therefore Division 131 does not apply.
-74B.  However, subsections 71-5(2) and 71-10(2) provide exceptions to the special rule in Division 71. As explained at paragraph 70 of this Ruling, Division 71 does not apply to an acquisition or importation that you make if it relates to making input taxed financial supplies and you do not exceed the financial acquisition threshold. In these circumstances, such acquisitions or importations are creditable acquisitions or creditable importations and Division 131 may apply.
-74C.  You will have an increasing adjustment in a later tax period to account for the private use.
+74A. If you have made an annual apportionment election under Division 131, that election is only applicable to acquisitions or importations that are creditable acquisitions or importations. If Division 71 applies to an acquisition or importation, that acquisition or importation is not a creditable acquisition or importation (see sections 71-5 and 71-10, respectively) and therefore Division 131 does not apply.
+74B. However, subsections 71-5(2) and 71-10(2) provide exceptions to the special rule in Division 71. As explained at paragraph 70 of this Ruling, Division 71 does not apply to an acquisition or importation that you make if it relates to making input taxed financial supplies and you do not exceed the financial acquisition threshold. In these circumstances, such acquisitions or importations are creditable acquisitions or creditable importations and Division 131 may apply.
+74C. You will have an increasing adjustment in a later tax period to account for the private use.
 Car expenses and Division 71
 75. Acquisitions made to provide fringe benefits with no FBT value are not subject to Division 71.
 [37]
-This includes acquisitions relating to exempt benefits and benefits to which the 'otherwise deductible rule' has reduced the value to nil.  Exempt benefits include car running costs incurred by an employer in providing car benefits (section 53 of the FBTAA).  This includes petrol, oil and repairs incurred by an employer in providing a car as a taxable supply to an employee.
-76. Although the employer's entitlement to input tax credits on the acquisition costs of the car are denied by Division 71, (for example, the input tax credits for the lease payments), Division 71 would not apply to deny the input tax credit entitlement for the car running costs.  Where the entity is making input taxed supplies, input tax credit entitlements for car running costs would be reduced only to the extent that the acquisitions related to making input taxed supplies, and not the whole amount of the entitlements.
+This includes acquisitions relating to exempt benefits and benefits to which the 'otherwise deductible rule' has reduced the value to nil. Exempt benefits include car running costs incurred by an employer in providing car benefits (section 53 of the FBTAA). This includes petrol, oil and repairs incurred by an employer in providing a car as a taxable supply to an employee.
+76. Although the employer's entitlement to input tax credits on the acquisition costs of the car are denied by Division 71, (for example, the input tax credits for the lease payments), Division 71 would not apply to deny the input tax credit entitlement for the car running costs. Where the entity is making input taxed supplies, input tax credit entitlements for car running costs would be reduced only to the extent that the acquisitions related to making input taxed supplies, and not the whole amount of the entitlements.
 [38]
 Example 14
 77.
-Assuming the same facts in Example 12 except that the motor vehicles are in a general pool and the employees of Eastbank Ltd keep a car log book for each vehicle.  The extent of business use that Eastbank Ltd is makes for car running costs such as fuel, oil, tyres and maintenance  is derived from the car log book.  Division 71 does not deny Eastbank Ltd entitlement to input tax credits for car running costs.  However the extent of entitlement to input tax credits would need to be determined under the basic rules.  If Eastbank could not determine the extent of making input taxed supplies from the log book then other methods suggested in Goods and Services Tax Rulings GSTR 2006/4 and GSTR 2006/3 could be used to determine the extent to which the acquisition related to making input taxed supplies.  A business segment of Eastbank uses a car which has '80% business use' as determined by a log book. The business segment has also determined that similar acquisitions (such as general overheads) relate 70% to making input taxed supplies. Eastbank would have potential input tax credits for its car running costs reduced to 24% as follows:
+Assuming the same facts in Example 12 except that the motor vehicles are in a general pool and the employees of Eastbank Ltd keep a car log book for each vehicle. The extent of business use that Eastbank Ltd is makes for car running costs such as fuel, oil, tyres and maintenance is derived from the car log book. Division 71 does not deny Eastbank Ltd entitlement to input tax credits for car running costs. However the extent of entitlement to input tax credits would need to be determined under the basic rules. If Eastbank could not determine the extent of making input taxed supplies from the log book then other methods suggested in Goods and Services Tax Rulings GSTR 2006/4 and GSTR 2006/3 could be used to determine the extent to which the acquisition related to making input taxed supplies. A business segment of Eastbank uses a car which has '80% business use' as determined by a log book. The business segment has also determined that similar acquisitions (such as general overheads) relate 70% to making input taxed supplies. Eastbank would have potential input tax credits for its car running costs reduced to 24% as follows:
 A business segment of Eastbank uses a car which has '80% business use' as determined by a log book. The business segment has also determined that similar acquisitions (such as general overheads) relate 70% to making input taxed supplies. Eastbank would have potential input tax credits for its car running costs reduced to 24% as follows:
 •
 non-business use of 20%, and
@@ -359,7 +357,7 @@ input taxed use of 56%, (70% of the remaining 80%)
 This means that the extent of creditable purpose is:
 100% - 20% - 56% = 24%
 Therefore, if Eastbank Ltd had potential input tax credits of $100 for car running cost acquisitions, Eastbank Ltd would be entitled to an input tax credit of:
-$100  *  24% = $24
+$100 * 24% = $24
 78.
 Where car use is measured more precisely for each vehicle (and input taxed apportionment is able to be made from use measurement), these proportions can be used to determine extent of creditable purpose for each vehicle, where this process gives a more accurate reflection of entitlements for all vehicles
 .
@@ -368,28 +366,28 @@ Example 14A
 Assume the same facts in Example 14 and that Eastbank Ltd has made an annual apportionment election. The extent of input tax credits able to be claimed for the car running cost acquisitions is worked out according to the following formula under subsection 13-40(2):
 Full input tax credit x Extent of non-input taxed purpose x Extent of consideration
 The extent of the input taxed purpose, as worked out in Example 14, is 56%. Therefore the extent of the non-input taxed purposes is 44% (including the 20% non-business use). Thus applying this formula Eastbank Ltd is entitled to claim an input tax credit of $44 under the Division 131 election. That is:
-$100  *  44%  x  100% = $44
+$100 * 44% x 100% = $44
 78B.
 Eastbank Ltd will have to make an increasing adjustment of $20 in a later tax period to account for the 20% non-business use.
 Effect of differences between intended and actual use on Division 71
-79. Division 71 applies to entitlements to input tax credits.  It is determined on the intended use of the thing providing the fringe benefit.  Where the actual use of the thing is different to intended use, Division 71 does not retrospectively operate to deny or permit an entitlement to input tax credits at the time of acquisition.  Where there is a later change of use, adjustments may be required under Division 129.
-80. However, it is important to consider the likely use of the benefit as a guide to purpose.  Where an employee has restrictions or potential obligations on the use of an item acquired by an employer, such as a car, it would be reasonable to assume that, at the time of employer acquisition of the car, it was intended to be used to some extent for enterprise activities.  Where part of those activities involves making input taxed supplies, the purpose would relate to making input taxed supplies and Division 71 could apply.
+79. Division 71 applies to entitlements to input tax credits. It is determined on the intended use of the thing providing the fringe benefit. Where the actual use of the thing is different to intended use, Division 71 does not retrospectively operate to deny or permit an entitlement to input tax credits at the time of acquisition. Where there is a later change of use, adjustments may be required under Division 129.
+80. However, it is important to consider the likely use of the benefit as a guide to purpose. Where an employee has restrictions or potential obligations on the use of an item acquired by an employer, such as a car, it would be reasonable to assume that, at the time of employer acquisition of the car, it was intended to be used to some extent for enterprise activities. Where part of those activities involves making input taxed supplies, the purpose would relate to making input taxed supplies and Division 71 could apply.
 Example 15
 81.
-A bank manager is provided with a motor vehicle that can also be used privately.  As part of the bank manager's duties the motor vehicle is also used to attend work appointments or work travel. Division 71 would apply to deny credits where the car acquisition related to making input taxed supplies, such as the bank manager performing work that involved approving loans to customers
+A bank manager is provided with a motor vehicle that can also be used privately. As part of the bank manager's duties the motor vehicle is also used to attend work appointments or work travel. Division 71 would apply to deny credits where the car acquisition related to making input taxed supplies, such as the bank manager performing work that involved approving loans to customers
 .
 Division 71 and expense payment benefits
-82. Division 71 can apply to expense payment benefits provided the acquisition or importation that is subject to FBT is used in making input taxed supplies.  It does not matter whether the employee acquired the expense payment benefit by way of reimbursement under Division 111 or some other arrangement.
+82. Division 71 can apply to expense payment benefits provided the acquisition or importation that is subject to FBT is used in making input taxed supplies. It does not matter whether the employee acquired the expense payment benefit by way of reimbursement under Division 111 or some other arrangement.
 [39]
 Example 16
 83.
-Francesca purchases a desk top computer for home use.  She is reimbursed in full by Topdeck Ltd, her employer.  Topdeck knows that Francesca will use the computer privately, but she is also required to use it for her work activities in the finance division.  FBT will be payable on this expense payment benefit
+Francesca purchases a desk top computer for home use. She is reimbursed in full by Topdeck Ltd, her employer. Topdeck knows that Francesca will use the computer privately, but she is also required to use it for her work activities in the finance division. FBT will be payable on this expense payment benefit
 .
 84.
 But for Division 71 there would be a partial entitlement to input tax credits reduced by the intended use of the computer for enterprise activities concerning input taxed supplies
 .
 85.
-In this example, Division 71 operates to deny input tax credits in full for the reimbursement.  This is because the computer's intended use means that the acquisition made by the employer relates, in part, to its finance division's input taxed supplies.  Therefore, if Topdeck had given the computer to Francesca as part of a remuneration benefit, under the same usage requirements, the same result would have been obtained, that is, a denial of input tax credits for the acquisition to Topdeck because of Division 71
+In this example, Division 71 operates to deny input tax credits in full for the reimbursement. This is because the computer's intended use means that the acquisition made by the employer relates, in part, to its finance division's input taxed supplies. Therefore, if Topdeck had given the computer to Francesca as part of a remuneration benefit, under the same usage requirements, the same result would have been obtained, that is, a denial of input tax credits for the acquisition to Topdeck because of Division 71
 .
 Special Rules for input tax credits
 Division 111 - expense payment benefits
@@ -409,15 +407,15 @@ Finally, the special rules set out in Division 69
 [42]
 and 71
 [43]
-may also prevent the acquisition from being a creditable acquisition.  The GST consequences of these provisions are discussed further at paragraphs 96 to 109 and 69 to 85 respectively of this Ruling.
-88A.  Although an employee may have made an annual apportionment election under Division 131, this does not affect the extent to which an acquisition is not a creditable acquisition for the employer. In particular, subsection 111-5(3AA) requires that sections 131-40 and 131-50 are disregarded when working out the extent to which an employee is entitled to an input tax credit for the purposes of paragraph 111-5(3)(a).
-89. Division 111 also requires that the reimbursement be made for a particular expense.  Employers need to have some understanding or agreement with their employees about the types of expenses they will reimburse so that a particular acquisition is involved.  Types of requirements that indicate such agreements include:
+may also prevent the acquisition from being a creditable acquisition. The GST consequences of these provisions are discussed further at paragraphs 96 to 109 and 69 to 85 respectively of this Ruling.
+88A. Although an employee may have made an annual apportionment election under Division 131, this does not affect the extent to which an acquisition is not a creditable acquisition for the employer. In particular, subsection 111-5(3AA) requires that sections 131-40 and 131-50 are disregarded when working out the extent to which an employee is entitled to an input tax credit for the purposes of paragraph 111-5(3)(a).
+89. Division 111 also requires that the reimbursement be made for a particular expense. Employers need to have some understanding or agreement with their employees about the types of expenses they will reimburse so that a particular acquisition is involved. Types of requirements that indicate such agreements include:
 •
 the employer requiring the employee's invoices to demonstrate that relevant purchases have been made; or
 •
 the employer requiring the employee's credit card statement to evidence particular purchases (or all of the particular purchases) that are itemised on the statement.
-For Division 111 to apply, the arrangement between the employer and the employee needs to be for the reimbursement of a particular purchase or purchases incurred on the credit card.  An arrangement that involves no more than reimbursing the balance owing on the employee's credit card statement, an input taxed financial supply, does not meet the requirements of Division 111.
-90. Where a creditable acquisition arises under Division 111, the employer is entitled to claim an input tax credit of 1/11 of the reimbursement.  The requirement to hold a tax invoice,
+For Division 111 to apply, the arrangement between the employer and the employee needs to be for the reimbursement of a particular purchase or purchases incurred on the credit card. An arrangement that involves no more than reimbursing the balance owing on the employee's credit card statement, an input taxed financial supply, does not meet the requirements of Division 111.
+90. Where a creditable acquisition arises under Division 111, the employer is entitled to claim an input tax credit of 1/11 of the reimbursement. The requirement to hold a tax invoice,
 [44]
 in order to claim the input tax credit, is satisfied if the employer holds the employee's tax invoice for the particular expense.
 [45]
@@ -425,40 +423,40 @@ Alternatively, where the employer holds the employee's credit card statement lis
 [46]
 Example 17 - Division 111 reimbursement
 91.
-Employerco reimburses employee expenses for which the employee has given proof of an expense being incurred.  This can include an invoice or an expense listed on an employee credit card statement
+Employerco reimburses employee expenses for which the employee has given proof of an expense being incurred. This can include an invoice or an expense listed on an employee credit card statement
 .
 [47]
 92.
-The employee purchases a watch for $299 from a registered supplier.  Although the employer does not hold the employee's invoice, the expense is listed on a credit card statement, as a taxable supply to the employee from the retailer.  The reimbursement of the employee's expense in acquiring the watch meets the requirements of Division 111 as being the reimbursement of an expense that was an acquisition to the employee.  The employer is entitled to an input tax credit.  The input tax credit will be attributable to the tax period in which a tax invoice is held by the employer
+The employee purchases a watch for $299 from a registered supplier. Although the employer does not hold the employee's invoice, the expense is listed on a credit card statement, as a taxable supply to the employee from the retailer. The reimbursement of the employee's expense in acquiring the watch meets the requirements of Division 111 as being the reimbursement of an expense that was an acquisition to the employee. The employer is entitled to an input tax credit. The input tax credit will be attributable to the tax period in which a tax invoice is held by the employer
 .
 [48]
 Example 18 - reimbursement to which Division 111 does not apply
 93.
-Employee Frank's credit card balance at the end of a month is listed as $1,100.  The employer, an FBT exempt employer
+Employee Frank's credit card balance at the end of a month is listed as $1,100. The employer, an FBT exempt employer
 [49]
-, reimburses Frank $1,100.  The employer checks the transactions on the credit card statement only to make sure that there are no cash withdrawals on the card, as it is a requirement by the employer that no cash withdrawals are to be made on this card
+, reimburses Frank $1,100. The employer checks the transactions on the credit card statement only to make sure that there are no cash withdrawals on the card, as it is a requirement by the employer that no cash withdrawals are to be made on this card
 .
 94.
-Where the arrangement between the employer and the employee is that the employer will pay the outstanding balance of the employee's credit card at the end of each month, irrespective of what form of acquisitions were made to increase the balance, the employer payment will not be a creditable acquisition and will not be entitled to an input tax credit for the reimbursement.  The same result would apply to a charge card
+Where the arrangement between the employer and the employee is that the employer will pay the outstanding balance of the employee's credit card at the end of each month, irrespective of what form of acquisitions were made to increase the balance, the employer payment will not be a creditable acquisition and will not be entitled to an input tax credit for the reimbursement. The same result would apply to a charge card
 .
 95. The payment of an allowance is not a reimbursement.
 [50]
-Input tax credits can not be claimed on payment of an allowance to an employee.  There can be no input tax credit entitlement under Division 111.
+Input tax credits can not be claimed on payment of an allowance to an employee. There can be no input tax credit entitlement under Division 111.
 Entertainment
 96. Division 69 limits input tax credits for certain acquisitions and importations, including entertainment, to the extent that they would not be deductible expenditure under certain provisions of the ITAA 1997.
-97. Whilst section 32-5 of the ITAA 1997 denies a deduction for entertainment under section 8-1 of that Act, section 32-20 of the ITAA 1997 allows an exception where entertainment is provided by way of a fringe benefit.  Consequently, Division 69 does not apply to disallow input tax credits for entertainment expenses made in providing fringe benefits (as defined in the FBTAA).  This rule also applies to fringe benefit acquisitions and importations for recreational club expenses and expenses for a leisure facility or boat.
+97. Whilst section 32-5 of the ITAA 1997 denies a deduction for entertainment under section 8-1 of that Act, section 32-20 of the ITAA 1997 allows an exception where entertainment is provided by way of a fringe benefit. Consequently, Division 69 does not apply to disallow input tax credits for entertainment expenses made in providing fringe benefits (as defined in the FBTAA). This rule also applies to fringe benefit acquisitions and importations for recreational club expenses and expenses for a leisure facility or boat.
 98. Although acquisitions and importations made to provide fringe benefits are an exception to the Division 69 denial of deductions for entertainment expenses, exempt benefits are not fringe benefits for these purposes.
 [51]
-For example, in income tax, expenses for entertainment that are exempt under section 41 of the FBTAA, being provided and consumed on a working day, are not deductible expenses because of section 32-5 of the ITAA 1997.  See Taxation Ruling TR 97/17 for an explanation of the interaction between entertainment as a fringe benefit and as a deductible expense in the context of meal entertainment.  Under Division 69 of the GST Act these FBT exempt entertainment benefit expenses are not creditable acquisitions.
-99. Paragraph 69-5(3)(f) disallows any entitlement to input tax credits for acquisitions and importations for providing entertainment to clients rather than employees.  However, to the extent that the acquisitions and importations are made in providing entertainment to employees and are otherwise creditable, Division 69 will not deny those entitlements.
-100. Where an entity, such as a public benevolent institution, provides any benefits to employees which are in respect of employment, section 57A of the FBTAA provides that these are exempt benefits.  As the fringe benefit exception rule in section 32-20 of the ITAA 1997 does not apply where entertainment benefits are exempt from FBT, paragraph 69-5(3)(f) can apply to deny any input credits for entertainment acquisitions and importations
+For example, in income tax, expenses for entertainment that are exempt under section 41 of the FBTAA, being provided and consumed on a working day, are not deductible expenses because of section 32-5 of the ITAA 1997. See Taxation Ruling TR 97/17 for an explanation of the interaction between entertainment as a fringe benefit and as a deductible expense in the context of meal entertainment. Under Division 69 of the GST Act these FBT exempt entertainment benefit expenses are not creditable acquisitions.
+99. Paragraph 69-5(3)(f) disallows any entitlement to input tax credits for acquisitions and importations for providing entertainment to clients rather than employees. However, to the extent that the acquisitions and importations are made in providing entertainment to employees and are otherwise creditable, Division 69 will not deny those entitlements.
+100. Where an entity, such as a public benevolent institution, provides any benefits to employees which are in respect of employment, section 57A of the FBTAA provides that these are exempt benefits. As the fringe benefit exception rule in section 32-20 of the ITAA 1997 does not apply where entertainment benefits are exempt from FBT, paragraph 69-5(3)(f) can apply to deny any input credits for entertainment acquisitions and importations
 [52]
-for public benevolent institutions.  As subsection 69-5(4) applies the rules in subsection 69-5(3) to entities that are exempt from income tax as if they were subject to that tax, the fact that the benefit is exempt from FBT means that subsection 69-5(3) can apply to these entities in addition to entities that are subject to income tax.
+for public benevolent institutions. As subsection 69-5(4) applies the rules in subsection 69-5(3) to entities that are exempt from income tax as if they were subject to that tax, the fact that the benefit is exempt from FBT means that subsection 69-5(3) can apply to these entities in addition to entities that are subject to income tax.
 Example 19
 101.
-During March 2002, Archimedes Ltd incurs meal entertainment expenditure of $5,500 for employees and $4,400 for  client entertainment and for exempt benefits.  This includes providing social functions where employee meals are provided on a working day on the work premises (section 41 of the FBTAA).  $5,500 is a deductible income tax expense for the year to 30 June 2002 and Archimedes is entitled to an input tax credit of $500  (1/11 of $5,500).  $4,400 is not deductible (due to the operation of section 32-5 of the ITAA 1997) and Archimedes is not entitled to an input tax credit for the $400 (1/11 of $4400 because the provision of client entertainment is not a fringe benefit and is not excluded from the operation of paragraph 69-5(3)(f).
+During March 2002, Archimedes Ltd incurs meal entertainment expenditure of $5,500 for employees and $4,400 for client entertainment and for exempt benefits. This includes providing social functions where employee meals are provided on a working day on the work premises (section 41 of the FBTAA). $5,500 is a deductible income tax expense for the year to 30 June 2002 and Archimedes is entitled to an input tax credit of $500 (1/11 of $5,500). $4,400 is not deductible (due to the operation of section 32-5 of the ITAA 1997) and Archimedes is not entitled to an input tax credit for the $400 (1/11 of $4400 because the provision of client entertainment is not a fringe benefit and is not excluded from the operation of paragraph 69-5(3)(f).
 Special rules apply for meal entertainment and entertainment facility leasing
-102. Where you have incurred meal entertainment expenses or entertainment facility leasing expenses, you may elect to apply Division 9A of Part III or section 152B of the FBTAA in working out your fringe benefits tax liability for the FBT year.  Where you make this election, the taxable value of a meal entertainment benefit can be calculated by using either a 50/50 split or by a 12 week register method.
+102. Where you have incurred meal entertainment expenses or entertainment facility leasing expenses, you may elect to apply Division 9A of Part III or section 152B of the FBTAA in working out your fringe benefits tax liability for the FBT year. Where you make this election, the taxable value of a meal entertainment benefit can be calculated by using either a 50/50 split or by a 12 week register method.
 [53]
 You can also elect to use the 50/50 split method to calculate the taxable value of your entertainment facility leasing expenses.
 103. Where the FBT election is made, the employer will be entitled to a part deduction for the expenses under section 51AEA, 51AEB or 51AEC of the ITAA 1936.
@@ -467,23 +465,23 @@ You can also elect to use the 50/50 split method to calculate the taxable value 
 105. Where you incur meal entertainment or entertainment facility leasing expenditure, you may elect for GST purposes to have the input tax credits disallowed in a tax period to the same extent as the income tax deductions would have been disallowed for such expenses if you had made an FBT election.
 [55]
 This election is allowed in conjunction with the fact that input tax credits for tax periods during an FBT year are only claimable to the extent that FBT is paid on such benefits at the same rate (for example 50%, 12 week register percentage, actual employee benefit income tax deductible percentage).
-106. However, it is not necessary for you to intend to make a particular FBT election when you make a GST election as provided for in Division 69.  After the conclusion of the FBT year you may choose which FBT valuation method you use for meal entertainment or entertainment facility leasing.
+106. However, it is not necessary for you to intend to make a particular FBT election when you make a GST election as provided for in Division 69. After the conclusion of the FBT year you may choose which FBT valuation method you use for meal entertainment or entertainment facility leasing.
 Example 20
 107.
-Xenia Ltd incurs substantial meal entertainment expenses and usually calculates its FBT taxable value by using the 50/50 split method.  It accounts for GST on a quarterly basis.  It makes a GST election from 1 October 2000.  In that tax period Xenia incurred $5,500 meal entertainment expenses as taxable supplies to it.  The amount of potential input tax credits that could be claimed is 1/11 of $5,500, or $500.  As it has made the 50/50 split election under the GST Act, it is able to claim $250 input tax credits in respect of the acquisitions relating to meal entertainment ($500 ( 50%).
+Xenia Ltd incurs substantial meal entertainment expenses and usually calculates its FBT taxable value by using the 50/50 split method. It accounts for GST on a quarterly basis. It makes a GST election from 1 October 2000. In that tax period Xenia incurred $5,500 meal entertainment expenses as taxable supplies to it. The amount of potential input tax credits that could be claimed is 1/11 of $5,500, or $500. As it has made the 50/50 split election under the GST Act, it is able to claim $250 input tax credits in respect of the acquisitions relating to meal entertainment ($500 ( 50%).
 108. If you do not make a GST election you can only claim input tax credits for meal entertainment and entertainment leasing expenses to the extent it relates to benefits provided to an employee (that is, to the extent deductible under Division 32 of the ITAA).
-109. Whichever GST method is adopted for claiming input tax credits on entertainment expenses for particular tax periods, if the amount of input tax credits for such acquisitions in tax periods during an FBT year is not of the same proportion of total meal entertainment or entertainment facility leasing amounts as made in your FBT return, an adjustment event will arise.  You will need to make an increasing or decreasing adjustment, for GST purposes in the tax period in which you have to lodge your FBT return or would have lodged your FBT return if so required.
+109. Whichever GST method is adopted for claiming input tax credits on entertainment expenses for particular tax periods, if the amount of input tax credits for such acquisitions in tax periods during an FBT year is not of the same proportion of total meal entertainment or entertainment facility leasing amounts as made in your FBT return, an adjustment event will arise. You will need to make an increasing or decreasing adjustment, for GST purposes in the tax period in which you have to lodge your FBT return or would have lodged your FBT return if so required.
 109A. Although you may have made an annual apportionment election under Division 131, that election has no application to a meal entertainment or entertainment facility leasing expense that is partly a creditable acquisition or importation and partly a non-creditable acquisition or importation under Division 69. Division 131 is only applicable to a creditable acquisition or importation which is partly for private purposes. Although the meal entertainment or entertainment facility leasing expense may be a partly creditable acquisition or importation it is not partly for private purposes as it relates to a supply of a fringe benefit by you to your employee. As explained at paragraph 52 of this Ruling an acquisition or importation that an employer makes to provide a fringe benefit to an employee is not of a private or domestic nature.
 Phasing in of input tax credits for motor vehicles
-110. Section 20 of the GST Transition Act applies to deny input tax credits for acquisitions or importations of certain motor vehicles.  An entity is not entitled to an input tax credit for the purchase, hire purchase, or importation of certain motor vehicles prior to 23 May 2001.
+110. Section 20 of the GST Transition Act applies to deny input tax credits for acquisitions or importations of certain motor vehicles. An entity is not entitled to an input tax credit for the purchase, hire purchase, or importation of certain motor vehicles prior to 23 May 2001.
 [56]
 Example 21
 111.
-Archimedes Ltd makes a creditable acquisition of a vehicle by way of hire purchase on 1 May 2001 for a four year term for a retail price of $44,000.  Archimedes accounts on a cash basis for GST purposes.  It intends to supply the vehicle as a remuneration benefit.  Archimedes is required to make 48 monthly payments.  Under the basic GST rules, Archimedes would be entitled to an input tax credit of 1/11 of each repayment of principal because the employer's supply of the car to the employee is a taxable supply.  However, section 20 of the GST Transition Act reduces Archimedes' credit entitlement to nil for each payment over the four year term.  For example, if a particular repayment in the third year was $990 (exclusive of term charges), the potential input tax credit of $90 would be reduced to nil.
+Archimedes Ltd makes a creditable acquisition of a vehicle by way of hire purchase on 1 May 2001 for a four year term for a retail price of $44,000. Archimedes accounts on a cash basis for GST purposes. It intends to supply the vehicle as a remuneration benefit. Archimedes is required to make 48 monthly payments. Under the basic GST rules, Archimedes would be entitled to an input tax credit of 1/11 of each repayment of principal because the employer's supply of the car to the employee is a taxable supply. However, section 20 of the GST Transition Act reduces Archimedes' credit entitlement to nil for each payment over the four year term. For example, if a particular repayment in the third year was $990 (exclusive of term charges), the potential input tax credit of $90 would be reduced to nil.
 Acquisitions spanning 1 July 2000
 112. An acquisition that spans 1 July 2000 made to supply a fringe benefit, is subject to the GST Transition Act in the same way as other acquisitions.
-Attribution:  GST payable and input tax credits for the provision of fringe benefits
-113. The basic rules for attributing GST payable on taxable supplies, input tax credits for creditable acquisitions and creditable importations and adjustments are set out in Division 29.  These rules apply to taxable supplies of fringe benefits and creditable acquisitions relating to making those supplies in the same way as they apply to other taxable supplies and creditable acquisitions.
+Attribution: GST payable and input tax credits for the provision of fringe benefits
+113. The basic rules for attributing GST payable on taxable supplies, input tax credits for creditable acquisitions and creditable importations and adjustments are set out in Division 29. These rules apply to taxable supplies of fringe benefits and creditable acquisitions relating to making those supplies in the same way as they apply to other taxable supplies and creditable acquisitions.
 114. Subsection 9-75(3) does not operate as an attribution rule for supplies of fringe benefits.
 115. If you account for GST on a cash basis, the GST payable on the supply of a fringe benefit is attributable to the tax period or periods in which consideration in the form of a recipient contribution or recipient payment is received.
 [57]
@@ -493,15 +491,15 @@ Recipients contributions and recipients payments made by journal entry
 117. Where your employee makes a recipients contribution or recipients payment reducing FBT taxable value by journal entry in the circumstances described in Taxation Ruling MT 2050, and the requirements set out in that Ruling are satisfied, it will be accepted that consideration for the supply of the fringe benefit is received at the time of making of the journal entries, to the amount of the offset that those journal entries reflect.
 Example 22
 118.
-Jess has a car provided to him as a fringe benefit by his family company.  The FBT taxable value in respect of the benefit is $5,500.  The family accountant prepares the company's income tax return for the year to 30 June and makes journal entries in September to reduce the FBT taxable value to nil in accordance with Taxation Ruling MT 2050.  The reduction of $5,500 is a recipient payment and the GST payable by the company ($500) is attributable to the September quarter (the company is a quarterly GST lodger).
+Jess has a car provided to him as a fringe benefit by his family company. The FBT taxable value in respect of the benefit is $5,500. The family accountant prepares the company's income tax return for the year to 30 June and makes journal entries in September to reduce the FBT taxable value to nil in accordance with Taxation Ruling MT 2050. The reduction of $5,500 is a recipient payment and the GST payable by the company ($500) is attributable to the September quarter (the company is a quarterly GST lodger).
 Application of Division 156
-119. Division 156 can apply to the supply of a fringe benefit made for a period or on a progressive basis where the consideration is to be provided on a progressive or periodic basis.  The GST payable on a supply to which Division 156 applies is attributable in accordance with the basic attribution rule in section 29-5 as if each periodic or progressive component of the supply were a separate supply.
+119. Division 156 can apply to the supply of a fringe benefit made for a period or on a progressive basis where the consideration is to be provided on a progressive or periodic basis. The GST payable on a supply to which Division 156 applies is attributable in accordance with the basic attribution rule in section 29-5 as if each periodic or progressive component of the supply were a separate supply.
 [59]
 120. If consideration for the supply of a fringe benefit is to be provided on a progressive or periodic basis, for example by way of regular payments for a car fringe benefit, the fact that a further payment is made after the end of the relevant period does not prevent Division 156 applying.
 Definitions
-121. The following terms are defined for the purposes of this Ruling.  Terms with asterisks are defined in section 195-1.
+121. The following terms are defined for the purposes of this Ruling. Terms with asterisks are defined in section 195-1.
 Exempt benefit
-The FBTAA sets out what is an exempt benefit.  For example, section 58H sets out that newspapers and periodicals used for business purposes are exempt.
+The FBTAA sets out what is an exempt benefit. For example, section 58H sets out that newspapers and periodicals used for business purposes are exempt.
 Expense payment benefit
 means a fringe benefit that is a benefit of a kind referred to in section 20 of the
 Fringe Benefits Tax Assessment Act 1986
@@ -646,11 +644,11 @@ Paragraph 9(2)(e) of the FBTAA states:
 (e)
 the amount of the recipients payment is the sum of:
 (i)
-in a case where expenses were incurred to the provider or employer during the holding period by recipients of the car  fringe benefits by way of consideration for the provision of the car fringe benefits - the amount of those expenses paid by the recipients less any amount paid or payable to the recipients by way of reimbursement of those expenses;
+in a case where expenses were incurred to the provider or employer during the holding period by recipients of the car fringe benefits by way of consideration for the provision of the car fringe benefits - the amount of those expenses paid by the recipients less any amount paid or payable to the recipients by way of reimbursement of those expenses;
 (ia)
 in a case where car expenses in respect of fuel or oil for the car were incurred during the holding period by recipients of the car fringe benefits and -
 (A)
-the persons incurring those expenses give to the employer, before the declaration date, declarations, in a form approved by the Commissioner, in respect of, those expenses;  or
+the persons incurring those expenses give to the employer, before the declaration date, declarations, in a form approved by the Commissioner, in respect of, those expenses; or
 (B)
 documentary expenses is obtained by the persons incurring the expenses and given to the employer before the declaration date;
 the amount of those expenses paid by the recipients less any amount paid or payable to the recipients by way of reimbursement of those expenses; and
@@ -776,7 +774,7 @@ Example 21
 111
 Acquisitions spanning 1 July 2000
 112
-Attribution:  GST payable and input tax credits for the provision of fringe benefits
+Attribution: GST payable and input tax credits for the provision of fringe benefits
 113
 Recipients contributions and recipients payments made by journal entry
 117
@@ -843,11 +841,11 @@ Footnotes
 17 Paragraph 9(2)(e) of the FBTAA.
 [17A]
 See Goods and Services Tax Ruling GSTR 2012/5
-Goods and services tax:  residential premises
+Goods and services tax: residential premises
 , Goods and Services Tax Ruling GSTR 2012/6
-Goods and services tax:  commercial residential premises
+Goods and services tax: commercial residential premises
 , and Goods and Services Tax Ruling GSTR 2012/7
-Goods and services tax:  long-term accommodation in commercial residential premises
+Goods and services tax: long-term accommodation in commercial residential premises
 .
 [18]
 18 Subsection 9-10(4).
@@ -918,7 +916,7 @@ Goods and services tax:  long-term accommodation in commercial residential premi
 [51]
 51 See the definition of fringe benefit in ITAA 1997 section 995-1 which applies to the exception for fringe benefits in section 32-20.
 [52]
-52 Although subsection 69-5(4) applies to entities who are exempt from income tax, the fact the benefit is exempt from fringe benefits tax means that if the entity had been subject to income tax it would still be providing exempt benefits.  Section 32-20 accordingly does not prevent section 32-5 from applying with the result that paragraph 69-5(3)(f) applies.
+52 Although subsection 69-5(4) applies to entities who are exempt from income tax, the fact the benefit is exempt from fringe benefits tax means that if the entity had been subject to income tax it would still be providing exempt benefits. Section 32-20 accordingly does not prevent section 32-5 from applying with the result that paragraph 69-5(3)(f) applies.
 [53]
 53 Sections 37BA and section 37CB of the FBTAA.
 [54]
@@ -926,7 +924,7 @@ Goods and services tax:  long-term accommodation in commercial residential premi
 [55]
 55 Sections 69-25, 69-30, 69-35.
 [56]
-56 The transitional provisions only apply to the acquisition of vehicles by way of purchase, hire purchase, or importation.  Specific exceptions are listed in subsection 20(4) of the GST Transition Act.
+56 The transitional provisions only apply to the acquisition of vehicles by way of purchase, hire purchase, or importation. Specific exceptions are listed in subsection 20(4) of the GST Transition Act.
 [57]
 57 Subsection 29-5(2).
 [58]
@@ -946,7 +944,7 @@ Goods and services tax:  long-term accommodation in commercial residential premi
 Previously released as GSTR 2000/D17.
 References
 ATO references:
-NO  99/18059-5
+NO 99/18059-5
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 92/15
@@ -986,101 +984,101 @@ taxable supply
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A 99  9-5(a)
-ANTS(GST)A 99  9-10(4)
-ANTS(GST)A 99  9-70
-ANTS(GST)A 99  9-75
-ANTS(GST)A 99  9-75(1)
-ANTS(GST)A 99  9-75(3)
-ANTS(GST)A 99  11-5
-ANTS(GST)A 99  11-5(a)
-ANTS(GST)A 99  11-15
-ANTS(GST)A 99  11-15(1)
-ANTS(GST)A 99  11-15(2)
-ANTS(GST)A 99  11-15(2)(a)
-ANTS(GST)A 99  11-15(4)
-ANTS(GST)A 99  11-20
-ANTS(GST)A 99  15-5(a)
-ANTS(GST)A 99  15-10
-ANTS(GST)A 99  15-10(1)
-ANTS(GST)A 99  15-10(2)
-ANTS(GST)A 99  15-10(2)(a)
-ANTS(GST)A 99  15-10(4)
-ANTS(GST)A 99  15-15
-ANTS(GST)A 99  19-10
-ANTS(GST)A 99  Div 29
-ANTS(GST)A 99  29-5
-ANTS(GST)A 99  29-5(1)
-ANTS(GST)A 99  29-5(2)
-ANTS(GST)A 99  29-10(3)
-ANTS(GST)A 99  40-5(2)
-ANTS(GST)A 99  40-35(1)(a)
-ANTS(GST)A 99  Div 69
-ANTS(GST)A 99  69-5(3)
-ANTS(GST)A 99  69-5(3)(f)
-ANTS(GST)A 99  69-5(3A)
-ANTS(GST)A 99  69-5(4)
-ANTS(GST)A 99  69-25
-ANTS(GST)A 99  69-30
-ANTS(GST)A 99  69-35
-ANTS(GST)A 99  Div 71
-ANTS(GST)A 99  71-5(1)(b)
-ANTS(GST)A 99  Div 87
-ANTS(GST)A 99  Div 111
-ANTS(GST)A 99  111-5
-ANTS(GST)A 99  111-5(3)(a)(i)
-ANTS(GST)A 99  111-5(3)(a)(ii)
-ANTS(GST)A 99  111-5(3)(b)
-ANTS(GST)A 99  111-5(3)(c)
-ANTS(GST)A 99  111-15
-ANTS(GST)A 99  111-20
-ANTS(GST)A 99  111-30
-ANTS(GST)A 99  Div 129
-ANTS(GST)A 99  Div 131
-ANTS(GST)A 99  Div 156
-ANTS(GST)A 99  156-5
-ANTS(GST)A 99  Div 189
-ANTS(GST)A 99  195-1
-ANTS(GSTT)A 1999  11
-ANTS(GSTT)A 1999  12
-ANTS(GSTT)A 1999  20
-FBTAA 1986  7(2)
-FBTAA 1986  9(3)(e)
-FBTAA 1986  10(3)(c)
-FBTAA 1986  20
-FBTAA 1986  37AD
-FBTAA 1986  37BA
-FBTAA 1986  37CB
-FBTAA 1986  41
-FBTAA 1986  57A
-FBTAA 1986  58H
-FBTAA 1986  136
-FBTAA 1986  136(1)
+ANTS(GST)A 99 9-5(a)
+ANTS(GST)A 99 9-10(4)
+ANTS(GST)A 99 9-70
+ANTS(GST)A 99 9-75
+ANTS(GST)A 99 9-75(1)
+ANTS(GST)A 99 9-75(3)
+ANTS(GST)A 99 11-5
+ANTS(GST)A 99 11-5(a)
+ANTS(GST)A 99 11-15
+ANTS(GST)A 99 11-15(1)
+ANTS(GST)A 99 11-15(2)
+ANTS(GST)A 99 11-15(2)(a)
+ANTS(GST)A 99 11-15(4)
+ANTS(GST)A 99 11-20
+ANTS(GST)A 99 15-5(a)
+ANTS(GST)A 99 15-10
+ANTS(GST)A 99 15-10(1)
+ANTS(GST)A 99 15-10(2)
+ANTS(GST)A 99 15-10(2)(a)
+ANTS(GST)A 99 15-10(4)
+ANTS(GST)A 99 15-15
+ANTS(GST)A 99 19-10
+ANTS(GST)A 99 Div 29
+ANTS(GST)A 99 29-5
+ANTS(GST)A 99 29-5(1)
+ANTS(GST)A 99 29-5(2)
+ANTS(GST)A 99 29-10(3)
+ANTS(GST)A 99 40-5(2)
+ANTS(GST)A 99 40-35(1)(a)
+ANTS(GST)A 99 Div 69
+ANTS(GST)A 99 69-5(3)
+ANTS(GST)A 99 69-5(3)(f)
+ANTS(GST)A 99 69-5(3A)
+ANTS(GST)A 99 69-5(4)
+ANTS(GST)A 99 69-25
+ANTS(GST)A 99 69-30
+ANTS(GST)A 99 69-35
+ANTS(GST)A 99 Div 71
+ANTS(GST)A 99 71-5(1)(b)
+ANTS(GST)A 99 Div 87
+ANTS(GST)A 99 Div 111
+ANTS(GST)A 99 111-5
+ANTS(GST)A 99 111-5(3)(a)(i)
+ANTS(GST)A 99 111-5(3)(a)(ii)
+ANTS(GST)A 99 111-5(3)(b)
+ANTS(GST)A 99 111-5(3)(c)
+ANTS(GST)A 99 111-15
+ANTS(GST)A 99 111-20
+ANTS(GST)A 99 111-30
+ANTS(GST)A 99 Div 129
+ANTS(GST)A 99 Div 131
+ANTS(GST)A 99 Div 156
+ANTS(GST)A 99 156-5
+ANTS(GST)A 99 Div 189
+ANTS(GST)A 99 195-1
+ANTS(GSTT)A 1999 11
+ANTS(GSTT)A 1999 12
+ANTS(GSTT)A 1999 20
+FBTAA 1986 7(2)
+FBTAA 1986 9(3)(e)
+FBTAA 1986 10(3)(c)
+FBTAA 1986 20
+FBTAA 1986 37AD
+FBTAA 1986 37BA
+FBTAA 1986 37CB
+FBTAA 1986 41
+FBTAA 1986 57A
+FBTAA 1986 58H
+FBTAA 1986 136
+FBTAA 1986 136(1)
 FBTAA 1986 149A
-FBTAA 1986  152B
-FBTAA 1986  Div 9A Pt III
-ITAA 1936  6
-ITAA 1936  6(1)
-ITAA 1936  6E
-ITAA 1936  26AAC
-ITAA 1936  27A(1)
-ITAA 1936  27CAA
-ITAA 1936  27CE
-ITAA 1936  65(1A)
-ITAA 1936  Div 7A Pt III
-ITAA 1936  Div 13A Pt III
+FBTAA 1986 152B
+FBTAA 1986 Div 9A Pt III
+ITAA 1936 6
+ITAA 1936 6(1)
+ITAA 1936 6E
+ITAA 1936 26AAC
+ITAA 1936 27A(1)
+ITAA 1936 27CAA
+ITAA 1936 27CE
+ITAA 1936 65(1A)
+ITAA 1936 Div 7A Pt III
+ITAA 1936 Div 13A Pt III
 ITAA 1936
-ITAA 1936  271-105(1) Schedule 2F
-ITAA 1936  51AEA
-ITAA 1936  51AEB
-ITAA 1936  51AEC
-ITAA 1936  517
-ITAA 1997  Div 8
-ITAA 1997  8-1
-ITAA 1997  Div 32
-ITAA 1997  32-5
-ITAA 1997  32-20
-ITAA 1997  995-1
+ITAA 1936 271-105(1) Schedule 2F
+ITAA 1936 51AEA
+ITAA 1936 51AEB
+ITAA 1936 51AEC
+ITAA 1936 517
+ITAA 1997 Div 8
+ITAA 1997 8-1
+ITAA 1997 Div 32
+ITAA 1997 32-5
+ITAA 1997 32-20
+ITAA 1997 995-1
 TAA 1953 Sch 1 Div 358
 Case References:
 Co-operative Insurance Society Ltd

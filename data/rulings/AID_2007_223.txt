@@ -3,21 +3,17 @@ ATO ID 2007/223
 ==================================================
 
 Income Tax
-        Exemption from withholding tax under Article 10 of the 2003 UK Convention
-        FOI status: may be released
-
+ Exemption from withholding tax under Article 10 of the 2003 UK Convention
+ FOI status: may be released
 
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is Article 10(3)(b) of the tax treaty between Australia and the United Kingdom (the UK Convention) contained in Schedule 1 to the International Tax Agreement Act 1953 (Agreements Act) satisfied where the United Kingdom (UK) company, which is the beneficial owner of the unfranked dividend paid by an Australian company, is indirectly less than 100% owned by one or more companies whose principal class of shares are listed and regularly traded on a recognised stock exchange?
@@ -32,8 +28,6 @@ UK Partner Co 2, a UK resident company that owns 30% of the UK Limited Partnersh
 Reasons for Decision
 Article 10 of the UK Convention provides that certain cross-border inter-corporate dividends flowing between Australia and the UK are either:
 
-
-
 •subject to a maximum of 5% rate of source country tax where the beneficial owner directly holds at least 10% of the voting power in the company paying the dividend; or
 •exempt from tax because of the application of Article 10(3) of the UK Convention.
 
@@ -41,14 +35,10 @@ UK Co would normally be subject to 5% tax in Australia as its voting power in Au
 However, Article 10(3) of the UK Convention states that:
 Notwithstanding the provisions of paragraph 2 of this Article, dividends shall not be taxed in the Contracting State of which the company paying the dividends is a resident if the beneficial owner of the dividends is a company that is a resident of the other Contracting State that has owned shares representing 80 per cent or more of the voting power of the company paying the dividends for a 12 month period ending on the date the dividend is declared and the company that is the beneficial owner of the dividends:
 
-
-
 (a)...
 (b)is owned directly or indirectly by one or more companies whose principal class of shares is listed on a recognised stock exchange specified in subparagraph (i) or (ii) of subparagraph (o) of paragraph 1 of Article 3 and regularly traded on one or more recognised stock exchanges
 
 Article 3(1)(o) of the UK Convention defines 'recognised stock exchange' to mean:
-
-
 
 (i)the Australian Stock Exchange and any other Australian stock exchange recognised as such under Australian law
 (ii)the London Stock Exchange and any other United Kingdom investment exchange recognised under United Kingdom law; or
@@ -65,10 +55,10 @@ The Full Federal Court relied on Union Trustee Co of Australia Ltd v. Federal Co
 In considering the context in which the term 'owned' is used in the UK Convention, it is noted that elsewhere in Article 10 of the UK Convention where a percentage of less than 100 is permitted, the exact percentage is specified (for example, 80% in relation to voting power in Article 10(3) of the UK Convention). The fact that no such specific percentage is stated in relation to Article 10(3)(b) of the UK Convention further supports the view that 100% ownership is required.
 As UK Limited Partnership is only 70% owned by a company whose principal class of shares is listed and regularly traded on a recognised stock exchange, UK Co does not satisfy Article 10(3)(b) of the UK Convention.
 Date of decision:
-         30 November 2007
+  30 November 2007
 
 Year of income:
-           Year ending 30 June 2008
+  Year ending 30 June 2008
 
 Legislative References:
 
@@ -76,9 +66,7 @@ Income Tax Assessment Act 1936   The Act
 Income Tax Assessment Act 1997   The Act
 International Tax Agreements Act 1953   Schedule 1   Schedule 1, Article 3   Schedule 1, Article 3(1)(o)   Schedule 1, Article 3(1)(o)(i)   Schedule 1, Article 3(1)(o)(ii)   Schedule 1, Article 3(1)(o)(iii)   Schedule 1, Article 3(3)   Schedule 1, Article 10   Schedule 1, Article 10(3)   Schedule 1, Article 10(3)(b)
 
-
 Case References:
-
 
 Bellinz Pty Ltd & Others v. Federal Commissioner of Taxation    (1998) 84 FCR 154   98 ATC 4634
 
@@ -94,23 +82,21 @@ Other References:
 
 Halsbury's laws of England, 4th edition Vol 35
 
-
 Keywords
 
 Double tax agreements
-          Franked dividends
-          United Kingdom
-          Wholly owned
-
+ Franked dividends
+ United Kingdom
+ Wholly owned
 
 Siebel/TDMS Reference Number:
-         5789996
+  5789996
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         14 December 2007
+  14 December 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

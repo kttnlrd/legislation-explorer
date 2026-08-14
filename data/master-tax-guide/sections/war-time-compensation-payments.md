@@ -21,6 +21,6 @@ A payment to an Australian resident person from a source in a foreign country is
 
 National Socialist regime of Germany or against forces of any other enemy of the Commonwealth (ITAA97 s 768-105).
 
-The exemption extends to the legal personal representative of an individual, and to the trustee of a trust established by the will of a deceased individual, in the same way as it would apply to the individual. It also extends to compensation received in relation to an injury or wrong suﬀered by another person. However, for the exemption to apply, the payment must not be received from an “associate” (¶4-200) of the recipient. A similar exemption is provided by s 118-37 for a capital gain or loss made by an Australian resident individual as a result of receiving such compensation (¶11-650).
+The exemption extends to the legal personal representative of an individual, and to the trustee of a trust established by the will of a deceased individual, in the same way as it would apply to the individual. It also extends to compensation received in relation to an injury or wrong suﬀered by another person. However, for the exemption to apply, the payment must not be received from an "associate" (¶4-200) of the recipient. A similar exemption is provided by s 118-37 for a capital gain or loss made by an Australian resident individual as a result of receiving such compensation (¶11-650).
 
 *Refs: ITAA97 s 768-105), s 118-37*

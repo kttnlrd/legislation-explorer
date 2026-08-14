@@ -3,23 +3,18 @@ ATO ID 2003/1044
 ==================================================
 
 Excise
-        Excise credits set off against Excise liabilities during current weekly settlement period
-        FOI status: may be released
-
+ Excise credits set off against Excise liabilities during current weekly settlement period
+ FOI status: may be released
 
 This ATO ID has been withdrawn as it does not accurately reflect the ATO view.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an entity that has a weekly settlement permission set off refunds and remissions allowed under section 78 of the Excise Act 1901 and arising within the current weekly settlement period, against the entity's excise liability for the current weekly settlement period?
@@ -29,8 +24,6 @@ Facts
 The entity records movements of excisable product in its accounts and recordkeeping system. The system has a set of business rules that classifies movements as having no excise liability, excise liability or a negative liability (excise credit). Excise payments for a particular accounting week are the sum of excise liabilities minus excise credits for each material article group (excise classification on the excise return).
 The excise liability calculated by the entity equates to 'goods delivered into home consumption' as specified in the entity's weekly settlement permission.
 Excise credits arise in several ways:
-
-
 
 • The entity 'cancelled' transactions by inputting 'contra' movements which have negative values equivalent to the original transactions.
 • Stock delivered into home consumption which is returned to the entity's underbond stock and a credit generated.
@@ -54,7 +47,7 @@ The fact that PS 2003/1 explains the administrative arrangements in relation to 
 As explained above, subregulation 58(2) of the Excise Regulations allows the Collector to make arrangements with the client whereby the amount of the rebate or refund may be set off against the client's excise liability. However, notwithstanding the set off, the client is still required (pursuant to regulations 51 and 52 of the Excise Regulations) to apply in writing for any remission, rebate or refund.
 If the client wishes to set off their entitlements to rebates, refunds or remissions against their excise liabilities arising in the same settlement period, they should contact the Collector. The Collector will then be able to make appropriate arrangements with the client pursuant to subregulation 58(2) of the Excise Regulations.
 Date of decision:
-         3 November 2003
+  3 November 2003
 
 Legislative References:
 
@@ -68,30 +61,26 @@ Other References:
 Keywords
 
 Excisable goods
-          Excisable goods manufacturer
-          Licensing
-          Weekly settlement permission
-
+ Excisable goods manufacturer
+ Licensing
+ Weekly settlement permission
 
 Business Line:
-         Excise
+  Excise
 
 Date of publication:
-         21 November 2003
+  21 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  3 November 2003

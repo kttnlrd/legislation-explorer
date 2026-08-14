@@ -3,18 +3,14 @@ ATO ID 2003/892
 ==================================================
 
 Income Tax
-        Direct value shifting: options issued at a discount to market value
-        FOI status: may be released
-
-
+ Direct value shifting: options issued at a discount to market value
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 When options to acquire additional shares were issued to the shareholder at less than their market value, was the direct value shift (DVS) from the shareholder's existing shares a neutral value shift for the shareholder under section 725-220 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -28,8 +24,6 @@ Reasons for Decision
 Where a direct value shift (DVS) occurs that has consequences under Division 725 of the ITAA 1997, the rules in the Division apply to modify the adjustable values of affected interests to take account of material changes in market value that are attributable to the DVS. The rules in Division 725 may also generate a capital gain on those interests that have decreased in market value as a result of the DVS.
 Pursuant to section 725-220 of the ITAA 1997 there will be a neutral DVS if the total decrease in market value of an entity's interests that have decreased in value as a result of the DVS (down interests) is equal to the sum of:
 
-
-
 •the total increase in market value of that entity's interests that have increased in value as a result of the DVS (up interests); and
 •the total discounts given on the issue of interests (up interests) to that entity as a result of the DVS.
 
@@ -38,10 +32,10 @@ If section 725-220 of the ITAA 1997 applies to a shareholder under the arrangeme
 The DVS from the issue of the options has resulted in the $100,000 fall in market value of each shareholder's shares and a discount of $100,000 was given on the issue of options to each shareholder. The total decrease in market value of each shareholder's down interests was equal to the total discounts given on the issue of their up interests.
 The issue of the options was a neutral shift under section 725-220 for each shareholder in the company because the total decrease in market value of their shares was equal to the total discounts given on the issue of their options. There is no requirement for the interests to be of the same kind.
 Date of decision:
-         29 August 2003
+  29 August 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -50,18 +44,17 @@ Income Tax Assessment Act 1997   Division 725   Subdivision 725-D   Sub
 Keywords
 
 Capital gains tax
-          CGT assets
-          CGT share value shifting arrangements
-
+ CGT assets
+ CGT share value shifting arrangements
 
 Siebel/TDMS Reference Number:
-         3663803
+  3663803
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         3 October 2003
+  3 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

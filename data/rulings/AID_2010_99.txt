@@ -3,25 +3,19 @@ ATO ID 2010/99
 ==================================================
 
 Income Tax
-        Capital gains tax: majority underlying interests - transfer of pre-CGT asset
-        FOI status: may be released
-
-
+ Capital gains tax: majority underlying interests - transfer of pre-CGT asset
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of applying section 149-30 of the Income Tax Assessment Act 1997 (ITAA 1997), can a change in the direct ownership of a CGT asset on or after 20 September 1985 result in a change to the ultimate owners who had majority underlying interests in the asset immediately before that date?
 Decision
 No. The ultimate owners of an asset immediately before 20 September 1985 are those who at that time held beneficial interests (directly or indirectly):
-
-
 
 (i)in the asset; and
 (ii)in any ordinary income that may be derived from the asset.
@@ -37,18 +31,14 @@ Division 149 of the ITAA 1997 determines when a pre-CGT asset will be taken to b
 In accordance with section 149-30 of the ITAA 1997, an asset will stop being a pre-CGT asset at the earliest time when majority underlying interests in the asset are not held by ultimate owners who held such interests just before 20 September 1985.
 The terms 'ultimate owner' and 'majority underlying interest' are central to the operation of Division 149 of the ITAA 1997.
 
-
-
 •
 Ultimate owner
-                 is defined in subsection 149-15(3) of the ITAA 1997 to include individuals and companies whose constitutions prevent them from making distributions of any kind to their members.
+ is defined in subsection 149-15(3) of the ITAA 1997 to include individuals and companies whose constitutions prevent them from making distributions of any kind to their members.
 •
 Majority underlying interests
-                 is defined in subsection 149-15(1) of the ITAA 1997 to mean more than 50% of the beneficial interests that ultimate owners have, whether directly or indirectly, in the asset and in any ordinary income that may be derived from the asset.
+ is defined in subsection 149-15(1) of the ITAA 1997 to mean more than 50% of the beneficial interests that ultimate owners have, whether directly or indirectly, in the asset and in any ordinary income that may be derived from the asset.
 
 Subsections 149-15(4) and 149-15(5) of the ITAA 1997 establish when an ultimate owner indirectly has a beneficial interest in the pre-CGT asset of another entity or ordinary income that may be derived from that asset. To have a beneficial interest, the ultimate owner must be entitled to receive for their own benefit any distribution of capital or income if:
-
-
 
 (a)the other entity were to distribute any of its capital or income; and
 (b)the capital and income were then successively paid or distributed by each entity interposed between the other entity and the ultimate owner.
@@ -59,14 +49,13 @@ We do not agree with this approach.
 In the absence of express statutory modification (see for example subsection 149-30(3) of the ITAA 1997), the identification of the ultimate owners who held beneficial interests in the asset, and in any income derived from its use, just before 20 September 1985 is not affected by any changes which happen following that time. Subsection 149-30(1) of the ITAA 1997 refers to the majority underlying interests in the asset immediately before 20 September 1985. These are worked out by applying the definitions in section 149-15 of the ITAA 1997 to the facts in existence at that time.
 On the facts of this case, majority underlying interests in the asset continue to be maintained. This is because the ultimate owners (X and Y) who held more than 50% of the beneficial interests in the asset, and in any income derived from it, just before 20 September 1985 continue to hold more than 50% of such interests just after the transfer time. As noted above, changes in ownership in B Co that happened before it became the owner of asset P are not relevant.
 
-
 Note: we would adopt the same view in applying Subdivision 149-C of the ITAA 1997.
 
 Date of decision:
-         25 November 2009
+  25 November 2009
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -75,19 +64,18 @@ Income Tax Assessment Act 1997   Subdivision 149-C   subsection 149-15(1)�
 Keywords
 
 Capital gains tax
-          CGT assets
-          Majority underlying interests
-          Pre-CGT assets
-
+ CGT assets
+ Majority underlying interests
+ Pre-CGT assets
 
 Siebel/TDMS Reference Number:
-         5989816
+  5989816
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 April 2010
+  30 April 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

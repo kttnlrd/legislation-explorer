@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) the payment of the dividend realises or recovers the price the person paid for the shares; and
 
-- (b) the payment is made at the person’s control or direction, or is part of a scheme that includes the acquisition of the shares and the payment of the dividend.
+- (b) the payment is made at the person's control or direction, or is part of a scheme that includes the acquisition of the shares and the payment of the dividend.
 
 **Treatment of amount derived**
 

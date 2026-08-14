@@ -11,7 +11,7 @@ A wide range of costs associated with gearing up for the GST are tax deductible 
 
 *Refs: s 8-1)*
 
-- costs of printing new stationery to show the business’ Australian Business Number (ABN), and
+- costs of printing new stationery to show the business' Australian Business Number (ABN), and
 
   redesigning invoices and other documents to provide for GST
 

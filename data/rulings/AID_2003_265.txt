@@ -3,23 +3,18 @@ ATO ID 2003/265
 ==================================================
 
 Income Tax
-        Deferred capital loss or deduction - asset transferred between non-residents
-        FOI status: may be released
+ Deferred capital loss or deduction - asset transferred between non-residents
+ FOI status: may be released
 
-
-This ATO ID is withdrawn from the database as former sections  136-10 and  136-25 of the Income Tax Assessment Act 1997 (ITAA 1997) have been repealed. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of capital gains tax (CGT) events that happened prior to 12 December 2006. See  ATO ID 2008/120 which reflects the same view in respect of the replacement legislation ( section 855-15 of the ITAA 1997) for CGT events that happen on or after 12 December 2006.
+This ATO ID is withdrawn from the database as former sections 136-10 and 136-25 of the Income Tax Assessment Act 1997 (ITAA 1997) have been repealed. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of capital gains tax (CGT) events that happened prior to 12 December 2006. See ATO ID 2008/120 which reflects the same view in respect of the replacement legislation ( section 855-15 of the ITAA 1997) for CGT events that happen on or after 12 December 2006.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will a capital loss made on the disposal of a CGT asset by a non-resident company to another non-resident company that is a member of the same 'linked group' be disregarded by the operation of Subdivision 170-D of the Income Tax Assessment Act 1997 (ITAA 1997) if the asset has 'the necessary connection with Australia'?
@@ -34,16 +29,12 @@ The capital proceeds were less than the land's reduced cost base at the time of 
 Reasons for Decision
 Subsection 170-255(1) of the ITAA 1997 provides that Subdivision 170-D of the ITAA 1997 will apply if:
 
-
-
 (a)an event (the
-                deferral event
+ deferral event
 ) happens involving a company (the
-                originating company
+ originating company
 ) and another entity; and
 (b)one or more of the following apply:
-
-
 
 (i)the deferral event is a *CGT event that would have resulted in the originating company making a *capital loss (except a capital loss that would be disregarded under a provision of this Act other than this Subdivision);
 (ii)...;
@@ -51,18 +42,14 @@ Subsection 170-255(1) of the ITAA 1997 provides that Subdivision 170-D of the IT
 
 (c)if subparagraph (b)(i) applies -- the CGT event is one of the following:
 
-
-
 (i)CGT events A1 and B1 (a
-                      disposal case
+ disposal case
 );
 (ii)CGT events D1, D2, D3 and F1 (a
-                      creation case
+ creation case
 ); and
 
 (d)one of the following applies:
-
-
 
 (i)...;
 (ii)...;
@@ -71,8 +58,6 @@ Subsection 170-255(1) of the ITAA 1997 provides that Subdivision 170-D of the IT
 (v)...; and
 
 (e)at the time of the deferral event, the originating company is a member of a *linked group and one of the following applies:
-
-
 
 (i)the other entity is a company that is not a connected entity of the originating company and is a member of that linked group;
 (ii)...;
@@ -88,10 +73,10 @@ Company A and Company S were linked at the time of the CGT event for the purpose
 At the time of the deferral event, Company A was a member of a linked group and Company S was not a connected entity of Company A, but was a member of that linked group for the purpose of subparagraph 170-255(1)(e)(i) of the ITAA 1997.
 As each of paragraphs 170-255(1)(a) to (e) of the ITAA 1997 are satisfied then section 170-270 of Subdivision 170-D of the ITAA 1997 applies to disregard the relevant capital loss.
 Date of decision:
-         22 November 2002
+  22 November 2002
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -106,31 +91,27 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital gains tax
-          Capital losses
-          CGT asset with the necessary connection with Australia
-          Non resident companies
-          Losses and Capital Gains Tax CoE
-
+ Capital losses
+ CGT asset with the necessary connection with Australia
+ Non resident companies
+ Losses and Capital Gains Tax CoE
 
 Business Line:
-         Losses and CGT Centre of Expertise
+  Losses and CGT Centre of Expertise
 
 Date of publication:
-         29 April 2003
+  29 April 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 November 2002

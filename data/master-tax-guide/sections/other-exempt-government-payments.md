@@ -43,7 +43,7 @@ In addition to the social security and veterans aﬀairs payments listed at ¶10
 
   52-170)
 
-- Support for Australia’s Thalidomide Survivors program or the Thalidomide Australian Fixed Trust
+- Support for Australia's Thalidomide Survivors program or the Thalidomide Australian Fixed Trust
 
   payments (ITAA97 s 51-30)
 

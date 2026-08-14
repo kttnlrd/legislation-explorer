@@ -3,23 +3,18 @@ ATO ID 2006/177
 ==================================================
 
 Income Tax
-        Restructure/resettlement of superannuation fund
-        FOI status: may be released
-
+ Restructure/resettlement of superannuation fund
+ FOI status: may be released
 
 This ATO ID is a simple restatement of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Do the changes to the operation of the taxpayer superannuation fund result in the creation of a new eligible entity, for the purposes of Part IX of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -28,8 +23,6 @@ No. The execution of the specified changes to the operation of the taxpayer supe
 Facts
 The taxpayer superannuation fund (fund 1) is a complying superannuation fund established by an Act of Parliament (Fund 1 Act). Fund 2 is another complying superannuation fund established by another Act of the same Parliament (Fund 2 Act). The rules of both funds are contained in the respective Acts.
 Amending legislation has been passed with the effect that:
-
-
 
 •all members and property comprising fund 1 are transferred to the trustee of fund 2, to be administered as a sub-fund within fund 2
 •the rules of fund 1, originally found in the Fund 1 Act, are inserted into the Fund 2 Act, unaltered, and
@@ -43,15 +36,11 @@ The Tax Office publication 'Creation of a new trust - Statement of Principles Au
 In Commercial Nominees, the trustee of a superannuation fund sought to claim tax losses from previous years as allowable deductions. The Commissioner argued that, because of amendments made to the trust deed, there was a fundamental alteration in the trust relationship established by the original deed, such that it destroyed the necessary continuity of the taxpayer for the purposes of the carry forward loss provisions in the income tax law. The original trust deed contained wide powers of amendment. The amendments made to the trust deed allowed the fund to accept new members from outside the companies for which the fund was originally established. A new trustee was appointed and a professional management company was appointed administrator. There was also a change in the nature of the benefits, from defined benefits to accumulations.
 In Commercial Nominees, the court recognised that a superannuation fund must maintain its continuity in order to be able to claim its tax losses, and referred to three main indicia of continuity for the purposes of Part IX of the ITAA 1936. These indicia are:
 
-
-
 •the constitution of the trust under which the fund operates
 •the trust property, and
 •membership.
 
 The court held that no new Part IX eligible entity was created, because:
-
-
 
 •the trusts under which the fund operated (after the amendments in question) were constituted by the original trust deed as varied by the exercise of a power of amendment available under that deed
 •the members before the amendments remained members after the amendments, and
@@ -59,8 +48,6 @@ The court held that no new Part IX eligible entity was created, because:
 
 In Commercial Nominees the amendments to the deed were made in accordance with a power in the original trust deed. In the present case the fund, and the rights arising to the beneficiaries in respect of that fund, were established by an Act of Parliament. The Parliament can amend legislation at any time, that is, in the present context, it has a power of amendment to affect the rights of beneficiaries that is analogous to the power of amendment that the trustee had in Commercial Nominees. The present changes are effected by amending legislation and are thus made within the power of amendment inherently available under the Act that established the fund.
 As part of the amendments in the present case, the assets and liabilities of fund 1 have been transferred, in their entirety, to the trustee of fund 2 as the new trustee. The manner in which the transfer has been carried out has the result that, in respect of the sub-fund:
-
-
 
 •there are separately identifiable assets and beneficiaries, and
 •each beneficiary of the sub-fund has an interest only in the assets of that sub-fund and not in the assets of fund 2, and
@@ -72,10 +59,10 @@ With regard to membership, the transfer has been carried out by means of establi
 Finally, it is clear that the amendments in question result in a change of trustee. Replacement of the trustee was also a feature of the arrangements considered by the High Court in Commercial Nominees. In Commercial Nominees the court concluded that a change of trustee (amongst other changes) will not bring an eligible entity to an end where the three indicia of fund continuity are satisfied. It is therefore concluded that the change of trustee in the present case will likewise be immaterial to the question of whether a new eligible entity has been created, where the three indicia of fund continuity are satisfied.
 On examination of the circumstances of the present case it appears that the three main indicia of continuity for the purposes Part IX of the ITAA 1936, as identified by the High court, are satisfied. It is therefore concluded that the relevant eligible entity does not come to an end as a result of the proposed changes. fund 1 continues with no new fund or eligible entity having been created; albeit subsumed into a sub-fund within fund 2.
 Date of decision:
-         22 December 2003
+  22 December 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -83,41 +70,34 @@ Income Tax Assessment Act 1936   section 267
 
 Case References:
 
-
 FC of T v. Commercial Nominees of Australia Ltd   2001 ATC 4336   (2001) 47 ATR 220
-
 
 Other References:
 
 ATO Statement of Principles: Creation of a new trust - Statement of principles August 2001
 
-
 Keywords
 
 Part IX taxation of superannuation entities
-          Public sector superannuation funds
-          Trust resettlements
-
+ Public sector superannuation funds
+ Trust resettlements
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         21 July 2006
+  21 July 2006
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 December 2003

@@ -2,12 +2,12 @@
 act: "Australian Master GST Guide"
 part: "16"
 section: "global-accounting-for-second-hand-dealers"
-title: "“Global” accounting for second-hand dealers"
+title: ""Global" accounting for second-hand dealers"
 paragraph: "¶16-120"
 ---
-# “Global” accounting for second-hand dealers ¶16-120
+# "Global" accounting for second-hand dealers ¶16-120
 
-Dealers in second-hand goods may be entitled to use a “global” accounting method to claim input tax credits (ITCs). This method is intended to reduce the need to track individual goods for GST purposes.
+Dealers in second-hand goods may be entitled to use a "global" accounting method to claim input tax credits (ITCs). This method is intended to reduce the need to track individual goods for GST purposes.
 
 - second-hand goods are acquired from an unregistered supplier and are divided up for re-supply by
 
@@ -25,13 +25,13 @@ Goods divided for separate supplies Some dealers in second-hand goods buy goods 
 
 In such cases, it is not practical to match the credit on the purchase to the GST on the subsequent sales.
 
-Rather, GST can be calculated on a “global” accounting basis. The ITCs for all purchases in this category are calculated and offset against the total GST on sales from that pool of purchases (s 66-65). No GST actually becomes payable until the relevant credits are exhausted (ss 66-45, 66-50). The use of this global accounting method, does not affect the entitlement of a registered purchaser to an ITC in respect of the purchase (s 66-60).
+Rather, GST can be calculated on a "global" accounting basis. The ITCs for all purchases in this category are calculated and offset against the total GST on sales from that pool of purchases (s 66-65). No GST actually becomes payable until the relevant credits are exhausted (ss 66-45, 66-50). The use of this global accounting method, does not affect the entitlement of a registered purchaser to an ITC in respect of the purchase (s 66-60).
 
 Illustration: Second hand goods During a tax period, Trusty Car Wreckers buys 5 damaged cars from unregistered private individuals for a total cost of $5,500 th and sells parts from its pool of damaged vehicles for $3,300. Trusty has a net credit of $200 for that period, calculated as 1/11 of ($5,500 less $3,300). This credit is not claimed for that period but instead is carried over to the next tax period. In that later period Trusty buys another four damaged cars for $4,400 and sells parts from its pool of damaged vehicles for $9,900. The GST of $500 (ie th 1/11 of ($9,900 less $4,400)) exceeds the prior credit of $200, so a net $300 GST will be payable for that period.
 
-Note: This notional calculation is only for the purpose of calculating Trusty’s GST situation. It does not affect any credits that Trusty’s purchasers may claim for the parts they purchase — these will continue to be calculated in the normal way.
+Note: This notional calculation is only for the purpose of calculating Trusty's GST situation. It does not affect any credits that Trusty's purchasers may claim for the parts they purchase — these will continue to be calculated in the normal way.
 
-For this “separate supply” rule to apply, the following conditions must be satisfied:
+For this "separate supply" rule to apply, the following conditions must be satisfied:
 
 - the second-hand goods must be acquired for the purpose of sale or exchange — but not manufacture
 
@@ -73,7 +73,7 @@ A dealer buys an individual antique from a private individual for $2,000 — the
 
 A dealer buys a single lot of various items for $290 from a deceased estate and later puts them up for sale as separate items — the dealer can choose whether to claim special credits at the time of purchase or to apply the global method.
 
-Optional global accounting for eligible goods Where global accounting is not available under the “separate supplies” rule, a registered dealer may elect to use the global accounting method for a wide range of second hand goods, acquired for the purposes of sale or exchange (but not manufacture) in the ordinary course of business, listed in A New Tax System (Goods and Services Tax) (Acquisitions of Second-hand Goods) Determination 2025 (F2025L01096), made under s 66-70. The dealer may elect not to use global accounting for eligible goods, or to use it for only some of the eligible goods.
+Optional global accounting for eligible goods Where global accounting is not available under the "separate supplies" rule, a registered dealer may elect to use the global accounting method for a wide range of second hand goods, acquired for the purposes of sale or exchange (but not manufacture) in the ordinary course of business, listed in A New Tax System (Goods and Services Tax) (Acquisitions of Second-hand Goods) Determination 2025 (F2025L01096), made under s 66-70. The dealer may elect not to use global accounting for eligible goods, or to use it for only some of the eligible goods.
 
 *Refs: s 66-40(2)), s
 66-70*

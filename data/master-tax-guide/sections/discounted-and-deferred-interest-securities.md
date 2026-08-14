@@ -7,23 +7,23 @@ paragraph: "¶23-320"
 ---
 # Discounted and deferred interest securities ¶23-320
 
-Discounted and deferred securities which are “qualifying securities” are now subject to taxation under the TOFA regime in Div 230 (¶23-020). A qualifying security is a security whose term at the time of issue will, or is reasonably likely to, exceed one year and is reasonably likely to result in the sum of the payments (excluding periodic interest) exceeding the issue price. For a ﬁxed return security, this excess is greater than 1.5% of the sum of the payments multiplied by the number of years in the term of the security.
+Discounted and deferred securities which are "qualifying securities" are now subject to taxation under the TOFA regime in Div 230 (¶23-020). A qualifying security is a security whose term at the time of issue will, or is reasonably likely to, exceed one year and is reasonably likely to result in the sum of the payments (excluding periodic interest) exceeding the issue price. For a ﬁxed return security, this excess is greater than 1.5% of the sum of the payments multiplied by the number of years in the term of the security.
 
 The commentary below relates to the taxation of qualifying securities to which Div 230 (¶23-020) does not apply.
 
-does not apply ITAA36 Div 16E imposes a statutory accruals regime on certain payments in relation to a “security” that is a “qualifying security”. Division 16E only applies where the TOFA rules in Div 230 do not apply.
+does not apply ITAA36 Div 16E imposes a statutory accruals regime on certain payments in relation to a "security" that is a "qualifying security". Division 16E only applies where the TOFA rules in Div 230 do not apply.
 
 In the absence of Div 16E (and the rules in Div 230), holders of such securities would generally only be taxed at maturity or on earlier realisation. This, coupled with the fact that the borrower under such arrangements could be entitled to deductions on an accruals basis (Australian Guarantee Corporation 84 ATC 4642; [1984] FCA 240), led to tax deferral and non-matching of income and deductions which Div 16E is designed to negate.
 
-A security that falls within Div 16E is called a “qualifying security”. To be a qualifying security, the security must be issued after 16 December 1984, its expected term must exceed or be likely to exceed 12 months (thus, 90 or 180 day bills of exchange do not qualify) and the sum of all payments under the security (other than payments of “periodic interest”: TR 96/3; ID 2005/20) must exceed its issue price (s 159GP(1)). This excess is called the “eligible return” of the security (for an example, see ID 2003/261).
+A security that falls within Div 16E is called a "qualifying security". To be a qualifying security, the security must be issued after 16 December 1984, its expected term must exceed or be likely to exceed 12 months (thus, 90 or 180 day bills of exchange do not qualify) and the sum of all payments under the security (other than payments of "periodic interest": TR 96/3; ID 2005/20) must exceed its issue price (s 159GP(1)). This excess is called the "eligible return" of the security (for an example, see ID 2003/261).
 
 Where the amount of the eligible return can be established at the time a security is issued (eg a zero-coupon discounted security), Div 16E does not apply unless the excess is greater than 1.5% of the sum of the payments under the security, multiplied by the number of years and part years in the term of the security.
 
-Division 16E applies to “stripped securities”, but does not apply to non-residents who hold qualifying securities nor to qualifying securities held as trading stock. The declaration of a trust by which a named beneﬁciary obtains an equitable interest in the future coupon payments on a bond results in a transfer of payment rights for the purposes of s 159GZ (ID 2007/183).
+Division 16E applies to "stripped securities", but does not apply to non-residents who hold qualifying securities nor to qualifying securities held as trading stock. The declaration of a trust by which a named beneﬁciary obtains an equitable interest in the future coupon payments on a bond results in a transfer of payment rights for the purposes of s 159GZ (ID 2007/183).
 
-The Full Federal Court rejected the Commissioner’s argument that certain agreements described as “annuity agreements” were qualifying securities and not agreements to purchase annuities (ANZ Savings Bank 92 ATC 4630, 93 ATC 4370; [1993] FCA 282; 94 ATC 4844; [1994] HCA 58).
+The Full Federal Court rejected the Commissioner's argument that certain agreements described as "annuity agreements" were qualifying securities and not agreements to purchase annuities (ANZ Savings Bank 92 ATC 4630, 93 ATC 4370; [1993] FCA 282; 94 ATC 4844; [1994] HCA 58).
 
-For a commercial bill facility that was not subject to the provisions, see ID 2003/849. For the meaning of “security”, see TR 96/14.
+For a commercial bill facility that was not subject to the provisions, see ID 2003/849. For the meaning of "security", see TR 96/14.
 
 TD 2004/84 (intra-group loans) and TD 2004/85 (intra-group income streams) deal with the application of the provisions to the head of a consolidated group where the principal of an intra-group loan or income stream are assigned by a member of the group to a non-member.
 

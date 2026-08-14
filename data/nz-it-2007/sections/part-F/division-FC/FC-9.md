@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when residential land is transferred on a person’s death and section FC 5 does not apply.
+**(1)**  This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when residential land is transferred on a person's death and section FC 5 does not apply.
 
 **Residential land**
 

@@ -11,13 +11,13 @@ Consequences for originating company In all cases, if there is an inter-company 
 
 *Refs: s 126-60)*
 
-situation If a post-CGT asset of the originating company is disposed of and an inter-company roll-over takes place, the ﬁrst element of the asset’s cost base (and reduced cost base) in the hands of the recipient company is the asset’s cost base (or reduced cost base) in the hands of the originating company at the time of the trigger event.
+situation If a post-CGT asset of the originating company is disposed of and an inter-company roll-over takes place, the ﬁrst element of the asset's cost base (and reduced cost base) in the hands of the recipient company is the asset's cost base (or reduced cost base) in the hands of the originating company at the time of the trigger event.
 
 If a pre-CGT asset of the originating company is disposed of and an inter-company roll-over takes place, the asset is also taken to be a pre-CGT asset in the hands of the recipient company.
 
 If a personal use asset of the originating company is disposed of and an inter-company roll-over takes place, the asset is also taken to be a personal use asset in the hands of the recipient company.
 
-situation If an asset is created in the recipient company by the originating company and an inter-company roll-over takes place, the ﬁrst element of the asset’s cost base (and reduced cost base) in the hands of the recipient company is:
+situation If an asset is created in the recipient company by the originating company and an inter-company roll-over takes place, the ﬁrst element of the asset's cost base (and reduced cost base) in the hands of the recipient company is:
 
 - if the asset is created as a result of CGT event D1, the incidental costs incurred by the originating
 

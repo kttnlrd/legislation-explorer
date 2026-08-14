@@ -3,18 +3,14 @@ ATO ID 2010/27
 ==================================================
 
 Income Tax
-        Classification of a Korean Hapja Hoesa for Australian income tax purposes
-        FOI status: may be released
-
-
+ Classification of a Korean Hapja Hoesa for Australian income tax purposes
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the Korean Hapja Hoesa a company pursuant to the definition within section 995-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -24,8 +20,6 @@ Facts
 The Hapja Hoesa is a legal form of corporation, which may be established under the Korean Commercial Act (Commercial Act). The Hapja Hoesa is also a private equity fund which is regulated by the Korean Indirect Investment Asset Management Business Act (IIAMBA).
 In essence, the Hapja Hoesa is an unlimited investment specialty vehicle that is established for the purpose of investing the assets of the entity into the shares or equity of other entities - with the purpose of increasing the value of such entities through participation in the management of the entities or improving the business structure or control structure of the entities. The Hapja Hoesa may be used only for private equity investment purposes.
 Currently under Korean legislation, a Hapja Hoesa has the following features:
-
-
 
 •a Hapja Hoesa is incorporated, and is formed by registering its incorporation (Article 144-5(2) of the IIAMBA; Article 172 of the Commercial Act);
 •a Hapja Hoesa has a legal personality that is separate from the members (Article 171(1) of the Commercial Act);
@@ -41,8 +35,6 @@ Currently under Korean legislation, a Hapja Hoesa has the following features:
 
 The articles of incorporation of this particular Hapja Hoesa include the following terms:
 
-
-
 •a Limited Liability Member may not transfer any part of their interest in the Hapja Hoesa without the consent of all Unlimited Liability Members;
 •an Unlimited Liability Member may not transfer any part of their interest without the consent of all members;
 •a Limited Liability member may not withdraw from the Hapja Hoesa without transferring their interest, and the transfer of an interest requires the consent of all Unlimited Liability Members;
@@ -56,8 +48,6 @@ The articles of incorporation of this particular Hapja Hoesa include the followi
 Reasons for Decision
 'Company' is defined in section 995-1 of the ITAA 1997 as:
 
-
-
 (a)a body corporate; or
 (b)any other unincorporated association or body of persons;
 
@@ -66,15 +56,11 @@ As the term 'body corporate' is not defined in Australia's income tax legislatio
 Being an entity that was created by registration, and that has separate legal personality, the Hapja Hoesa is a 'body corporate'. Consequently, it will be a company under paragraph (a) of the definition of 'company' in section 995-1 of the ITAA 1997, providing that it is not also a partnership.
 Section 995-1 of the ITAA 1997 defines 'partnership' as:
 
-
-
 (a)a body of persons (other than a company or limited partnership) carrying on business as partners or in receipt of ordinary income or statutory income jointly; or
 (b)a limited partnership.
 
 The Hapja Hoesa has some features commonly associated with a partnership, and some features associated with a company.
 The following features favour characterisation of this particular Hapja Hoesa as a company.
-
-
 
 •a resolution of members is required before profits can be distributed. This indicates that profits belong to the Hapja Hoesa, and that the members are not in receipt of income jointly;
 •distributions are referred to in the Commercial Act as 'dividends' rather than as a share of profits;
@@ -85,18 +71,16 @@ The following features favour characterisation of this particular Hapja Hoesa as
 
 The features which favour characterisation of this Hapja Hoesa as a partnership include:
 
-
-
 •to withdraw from the Hapja Hoesa a Limited Liability Member in effect needs the consent of all Unlimited Liability Members;
 •members' interests are not freely transferable; in order to transfer their share in the Hapja Hoesa, a member needs the consent of other members.
 
 The predominance of characteristics favours classification as a company rather than a partnership. Further, as the Hapja Hoesa does not have partners who carry on its business or who receive income jointly, it is not a partnership for the purpose of the definition of 'partnership' or 'company' in section 995-1 of the ITAA 1997.
 As the Hapja Hoesa is a body corporate and not a partnership, it follows that it is a company within the meaning of section 995-1 of the ITAA 1997.
 Date of decision:
-         28 January 2010
+  28 January 2010
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -105,30 +89,28 @@ Income Tax Assessment Act 1997   section 995-1
 Other References:
 
 Butterworths Concise Australian Legal Dictionary Second edition
-          Commercial Act (Korea)
-          Indirect Investment Asset Management Business Act (Korea)
-
+ Commercial Act (Korea)
+ Indirect Investment Asset Management Business Act (Korea)
 
 Keywords
 
 Bodies corporate
-          Companies
-          International tax
-          Korea
-          Partnerships
-          Foreign hybrids
-          Foreign hybrid limited partnership
-          Foreign hybrid company
-
+ Companies
+ International tax
+ Korea
+ Partnerships
+ Foreign hybrids
+ Foreign hybrid limited partnership
+ Foreign hybrid company
 
 Siebel/TDMS Reference Number:
-         5936876
+  5936876
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         5 February 2010
+  5 February 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

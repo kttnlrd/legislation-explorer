@@ -20,7 +20,7 @@ Despite section CW 16B(2)﻿(b), section CW 16B applies to a new employee in the
 
   - (ii) for a period that is expected to be no more than 2 years; and
 
-  - (iii) at a distant workplace that is the person’s workplace.
+  - (iii) at a distant workplace that is the person's workplace.
 
 *Defined in this Act: distant workplace, employee, employer, out-of-town secondment, workplace*
 

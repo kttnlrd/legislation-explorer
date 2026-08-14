@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 - (b) a former employee of the company is or has been a shareholder in it or has a relative who is or has been a shareholder in it; and
 
-- (c) the former employee’s employment in the company was genuine; and
+- (c) the former employee's employment in the company was genuine; and
 
 - (d) they have retired from the employment or their employment has ended through redundancy or similar circumstances; and
 

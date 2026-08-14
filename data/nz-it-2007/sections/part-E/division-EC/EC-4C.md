@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Same tax year**
 
-**(2)**  If the transfer occurs in the same tax year for both the transferor and transferee, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the end of the transferor’s corresponding income year.
+**(2)**  If the transfer occurs in the same tax year for both the transferor and transferee, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the end of the transferor's corresponding income year.
 
 **Different tax year**
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Different tax year: transferee earlier**
 
-**(4)**  If the transferee acquires the relevant livestock in a tax year earlier than the tax year in which the transferor disposes of it, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the beginning of the transferor’s corresponding income year.
+**(4)**  If the transferee acquires the relevant livestock in a tax year earlier than the tax year in which the transferor disposes of it, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the beginning of the transferor's corresponding income year.
 
 **Different tax year: transferee later**
 
 **(5)**  If the transferee acquires the relevant livestock in a tax year (the later tax year) later than the tax year in which the transferor disposes of it, then—
 
-- (a) the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the end of the transferor’s corresponding income year:
+- (a) the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the end of the transferor's corresponding income year:
 
-- (b) for the purposes of the transferee’s opening value under section EC 16, the transferee is treated as owning and valuing the relevant livestock under the herd scheme on the last day of the transferee’s income year corresponding to the tax year before the later tax year.
+- (b) for the purposes of the transferee's opening value under section EC 16, the transferee is treated as owning and valuing the relevant livestock under the herd scheme on the last day of the transferee's income year corresponding to the tax year before the later tax year.
 
 *Defined in this Act: herd scheme, income year, specified livestock, tax year*
 

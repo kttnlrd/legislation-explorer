@@ -3,18 +3,14 @@ ATO ID 2005/299
 ==================================================
 
 Income Tax
-        Division 7A: multiple trustee loans and subsection 109XA(4)
-        FOI status: may be released
-
-
+ Division 7A: multiple trustee loans and subsection 109XA(4)
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where in an income year, a trustee makes loans to different shareholders (or associates) of a private company beneficiary with unpaid present entitlement, do any of the loans give rise to 'previous transactions' for the purposes of applying subsection 109XA(4) of Subdivision EA of Division 7A of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) in that same income year?
@@ -24,8 +20,6 @@ Facts
 For the income year, a private company is a beneficiary of a trust which has unpaid present entitlement to net income of $100,000 as at the earlier of the due date for lodgement and date of lodgement of the trust's income tax return for that income year.
 During the income year, the trustee made five $100,000 loans to different shareholders of the private company. None of the five loans were repaid or put on a commercial footing by the 'lodgement day' or otherwise constituted an excluded loan because of Subdivision D of Division 7A of Part III of the ITAA 1936.
 No amount has been:
-
-
 
 •taken to be a loan because of the previous applications of section 109UB of the ITAA 1936 in relation to the unpaid present entitlement; or
 •included in an entity's assessable income because of the application of Subdivision EA of Division 7A of Part III of the ITAA 1936 in an earlier income year, in relation to the unpaid present entitlement.
@@ -38,14 +32,10 @@ Subsection 109XA(2) of the ITAA 1936 is the provision that applies to trustee lo
 
 a trustee makes a loan (the 'actual transaction') to a shareholder or an associate of a shareholder of a private company (except a shareholder or associate that is a company); and
 
-
-
 (i)the company is presently entitled to an amount from the net income of the trust estate at the time the loan takes place and that amount has not been paid to the company before the 'lodgement day'; or
 (ii)the company becomes presently entitled to an amount from the net income of the trust estate after the loan takes place but before the 'lodgement day' and the whole of the amount has not been paid to the company before the 'lodgement day'.
 
 The amount of the 'actual transaction' to which section 109XB of the ITAA 1936 applies may be reduced by subsection 109XA(4) of the ITAA 1936 which limits the amount of the 'actual transaction' to the unpaid present entitlement, and as applicable, reduces it further by the sum of:
-
-
 
 •amounts taken to be loans in relation to the unpaid present entitlement by previous applications of section 109UB of the ITAA 1936; and
 •amounts included in an entity's assessable income because of previous applications of Subdivision EA of the ITAA 1936 in relation to the unpaid present entitlement.
@@ -53,10 +43,10 @@ The amount of the 'actual transaction' to which section 109XB of the ITAA 1936 a
 Where a trustee makes one or more loans in an income year, the point in time when subsection 109XA(2) of the ITAA 1936 is triggered, and therefore when it may be said there is an application of Subdivision EA of the ITAA 1936, is when it may be ascertained the unpaid present entitlement has not been fully paid out. That point in time will be the same for each loan as it will be at the conclusion of 'lodgement day' that the matter may be decided. This means that it cannot be said in respect of any of the loans that one has triggered Subdivision EA before another and therefore subsection 109XA(4) of the ITAA 1936 cannot operate to reduce any particular loan by reason of Subdivision EA having already applied to another loan in the same income year.
 Therefore, in the circumstances here, none of the trustee loans made in the income year cause a reduction in the amount of the 'actual transaction' in respect of any of the other loans for the purposes of applying section 109XB of the ITAA 1936. Further, the absence in an earlier income year of an application from either Subdivision EA or section 109UB of the ITAA 1936, in relation to the unpaid present entitlement, means there is no operation from subsection 109XA(4) of the ITAA 1936 to reduce the amounts of the respective 'actual transactions'. This means in each case that section 109XB of the ITAA 1936 may cause an amount to be included in assessable income of the applicable shareholder subject to the private company's distributable surplus.
 Date of decision:
-         7 October 2005
+  7 October 2005
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -70,22 +60,21 @@ Related ATO Interpretative Decisions
 Keywords
 
 Borrowings & loans
-          Deemed dividends
-          Trusts
-          Private companies
-
+ Deemed dividends
+ Trusts
+ Private companies
 
 Siebel/TDMS Reference Number:
-         4765443; 1-5CU8O2W;1-D0T1KT8
+  4765443; 1-5CU8O2W;1-D0T1KT8
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         28 October 2005
+  28 October 2005
 
 Date reviewed:
-         8 November 2017
+  8 November 2017
 
 ISSN:
-          1445-2782
+ 1445-2782

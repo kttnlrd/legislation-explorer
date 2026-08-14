@@ -11,17 +11,17 @@ The export of an aircraft or ship by the supplier may be GST-free in accordance 
 
 - the supplier receives any of the final instalment or gives an invoice for it
 
-- the supplier delivers the aircraft or ship to the recipient, or to someone else at the recipient’s request
+- the supplier delivers the aircraft or ship to the recipient, or to someone else at the recipient's request
 
   (s 38-185, item 4).
 
 The recipient would normally be the new owner or its agent. A ship means any vessel used in navigation, other than air navigation (s 195-1).
 
-New recreational boats As a separate measure, the supply of a “new recreational boat” is GST-free where:
+New recreational boats As a separate measure, the supply of a "new recreational boat" is GST-free where:
 
 - the boat is exported by the supplier or the recipient within a 12-month period (in contrast to the
 
-  usual 60-day period). The export does not have to be under the boat’s own power, though this would
+  usual 60-day period). The export does not have to be under the boat's own power, though this would
 
   commonly be the case
 
@@ -37,7 +37,7 @@ There are some minor exceptions, eg competing in a race or other sporting event 
 
   or option granted before that date (s 38-185, item (4A)).
 
-To qualify as a “new recreational boat”, the boat must satisfy all of the following conditions:
+To qualify as a "new recreational boat", the boat must satisfy all of the following conditions:
 
 - it must be designed and fitted out principally for private recreational pursuits or hobbies
 

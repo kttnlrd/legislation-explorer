@@ -20,7 +20,7 @@ source_pdf: "vol01.pdf"
 **(1)**  A court may make an order under section 14ZZZA in relation to a person (the first person) if:
 
 > <a id="s14ZZZ-1-a"></a>
-> **(a)**  the first person engages in conduct (detrimental conduct) that: Authorised Version C2026C00170 registered 28/04/2026
+> **(a)**  the first person engages in conduct (detrimental conduct) that:
 
 > > <a id="s14ZZZ-1-a-i"></a>
 > > **(i)**  causes any detriment to another person (the second person); or
@@ -65,7 +65,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  another person (the third person) engages in conduct (detrimental conduct) that:
 
 > > <a id="s14ZZZ-2A-a-i"></a>
-> > **(i)**  causes any detriment to a person (the second person) other than the first person or the third person; or Authorised Version C2026C00170 registered 28/04/2026
+> > **(i)**  causes any detriment to a person (the second person) other than the first person or the third person; or
 
 > > <a id="s14ZZZ-2A-a-ii"></a>
 > > **(ii)**  constitutes the making of a threat to cause any such detriment to a person (the second person) other than the first person or the third person; and
@@ -107,7 +107,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  express or implied; or
 
 > <a id="s14ZZZ-3-b"></a>
-> **(b)**  conditional or unconditional. Authorised Version C2026C00170 registered 28/04/2026
+> **(b)**  conditional or unconditional.
 
 <a id="s14ZZZ-4"></a>
 **(4)**  In proceedings for the purposes of section 14ZZZA, it is not necessary to prove that the person threatened actually feared that the threat would be carried out.

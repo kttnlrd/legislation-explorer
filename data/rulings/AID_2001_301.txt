@@ -3,18 +3,14 @@ ATO ID 2001/301
 ==================================================
 
 Income Tax
-        Deductions and expenses: Bad Debt (Loan by beneficiary to trust)
-        FOI status: may be released
-
-
+ Deductions and expenses: Bad Debt (Loan by beneficiary to trust)
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxpayer, a beneficiary of a trust, entitled to a deduction under section 25-35 or section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for a loan made to the trust that will not be repaid.
@@ -28,8 +24,6 @@ Reasons for Decision
 A deduction for a bad debt may be claimed under section 25-35 or section 8-1 of the ITAA 1997.
 To qualify for a bad debt deduction under section 25-35 of the ITAA 1997, the debt, in addition to being bad, must satisfy two criteria:
 
-
-
 1.There must be a physical writing off of the debt.
 2.The debt must have been brought into account by the taxpayer as assessable income. This condition does not apply to taxpayers in the business of lending money.
 
@@ -39,11 +33,10 @@ If the loss is an ordinary incident of the taxpayer's income earning activities 
 If the loan has been made in a private capacity (i.e., not business), the bad debt will not be deductible under section 8-1 of the ITAA 1997. The loan will not be regarded as an ordinary incident of the taxpayer's income earning activities, and will also be excluded from deductibility under the capital exclusion under paragraph 8-1(2)(a) of the ITAA 1997.
 Whilst not deductible as a bad debt, a capital loss may arise under subsection 104-25(3) of the ITAA 1997 if the taxpayer releases the trust from the debt owed (CGT event C2).
 
-
 The above paragraph has been amended to remove ambiguity.
 
 Date of decision:
-         1 August 2001
+  1 August 2001
 
 Legislative References:
 
@@ -56,25 +49,24 @@ TR 92/18
 Keywords
 
 Capital losses
-          Trusts
-          Trust beneficiaries
-          Discretionary trusts
-          Borrowing's & loans
-          Deductions & expenses
-          Bad debts
-
+ Trusts
+ Trust beneficiaries
+ Discretionary trusts
+ Borrowing's & loans
+ Deductions & expenses
+ Bad debts
 
 Siebel/TDMS Reference Number:
-         DW244394; 1-A4EJFB7
+  DW244394; 1-A4EJFB7
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         8 September 2001
+  8 September 2001
 
 Date reviewed:
-         4 November 2016
+  4 November 2016
 
 ISSN:
-          1445-2782
+ 1445-2782

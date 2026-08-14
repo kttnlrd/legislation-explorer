@@ -4,51 +4,49 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 100
-  • Div 19
-  • Div 29
-  • Div 358
-  • Div 38
-  • Div 40
-  • Div 81
-  • Div 99
-  • Division 29
-  • Division 358
-  • Division 38
-  • Division 40
-  • Division 81
-  • Division 99
-  • Division 100
-  • Division 19
-  • Division 29
-  • Division 38
-  • Division 40
+ • Div 100
+ • Div 19
+ • Div 29
+ • Div 358
+ • Div 38
+ • Div 40
+ • Div 81
+ • Div 99
+ • Division 29
+ • Division 358
+ • Division 38
+ • Division 40
+ • Division 81
+ • Division 99
+ • Division 100
+ • Division 19
+ • Division 29
+ • Division 38
+ • Division 40
 
 Cases Referenced:
-  • Bains v. Minist
-  • Bridge v. Campbell Discount Co Ltd
+ • Bains v. Minist
+ • Bridge v. Campbell Discount Co Ltd
 
-  • County Factors Ltd v. Customs 
-  • Excise Commissioners v. Bass 
-  • Finance Ltd v. Austin
+ • County Factors Ltd v. Customs 
+ • Excise Commissioners v. Bass 
+ • Finance Ltd v. Austin
 (1986) 162 CLR 170
-  • In
+ • In
 Saga Holidays Ltd v. Commissioner 
-  • Taxation v. Qantas Airways Ltd
+ • Taxation v. Qantas Airways Ltd
 
-  • Taxation v. Qantas Airways Ltd 
-  • Taxation v. Reliance Carpet Co Pty Ltd
-  • Taxation v. Reliance Carpet Co Pty Ltd
+ • Taxation v. Qantas Airways Ltd 
+ • Taxation v. Reliance Carpet Co Pty Ltd
+ • Taxation v. Reliance Carpet Co Pty Ltd
 
-  • Taxation v. Reliance Carpet Co Pty Ltd 
-  • Westley Nominees Pty Ltd v. Coles Supermarkets Australia Pty Ltd
+ • Taxation v. Reliance Carpet Co Pty Ltd 
+ • Westley Nominees Pty Ltd v. Coles Supermarkets Australia Pty Ltd
 
-  • Westley Nominees Pty Ltd v. Coles Supermarkets Australia Pty Ltd
+ • Westley Nominees Pty Ltd v. Coles Supermarkets Australia Pty Ltd
 (2006) 152 FCR 461
 
 Topics: GST, Trusts, Companies, International, Employment
-
-
 
 ================================================================================
 
@@ -74,7 +72,7 @@ GSTR 2009/3-2EC
 .
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 A
 draft addendum
 for this ruling issued on 1 May 2013.
@@ -269,7 +267,7 @@ section 38-360, which provides that a supply is GST-free if the supplier makes t
 29. Similarly, a right to receive an input taxed supply is itself an input taxed supply under paragraph 9-30(2)(b).
 30. The Commissioner considers that paragraphs 9-30(1)(b) and 9-30(2)(b) would apply to make a facilitation supply GST-free or input taxed if the facilitation supply includes a right for the customer to receive the intended supply, and the intended supply would have been GST-free or input taxed, respectively. The Commissioner does not consider that this view is affected by the mere fact the relevant rights might be conditional. Further, the Commissioner considers that the right is the dominant part of the facilitation supply. For example, a supply of residential premises is an input taxed supply under Division 40. Therefore, a facilitation supply which includes a right to receive a supply of residential premises would also be input taxed.
 31. In other cases, the absence of a specific provision in the GST Act that provides GST-free or input taxed treatment for a facilitation supply made in relation to an intended supply that would be GST-free or input taxed may mean that the facilitation supply is a taxable supply if the intended supply does not proceed.
-Example 1:  supply of facilitation services - GST-free supply
+Example 1: supply of facilitation services - GST-free supply
 32.
 Abra Cadabra Training School (Abra Cadabra) provides a GST-free English language course for overseas students. The course runs for six months. Che Zhuan applies for enrolment in the course, which is accepted by Abra Cadabra.
 33.
@@ -280,7 +278,7 @@ Under the terms of the enrolment, Abra Cadabra advises Che Zhuan that the course
 Instead of starting the course, Che Zhuan decides to go to the US to learn English. He advises Abra Cadabra that he will not be attending the course. Abra Cadabra retains $250 as a cancellation fee and refunds $1,750 to Che Zhuan.
 36.
 The $250 retained by Abra Cadabra is consideration for the supply of facilitation services directly related to the supply of the GST-free education course by Abra Cadabra. This supply is GST-free under paragraph 38-85(b).
-Example 2:  supply of education course - GST-free supply
+Example 2: supply of education course - GST-free supply
 37.
 Following on from Example 1, Che Zhuan attends the first three months of the course but due to an illness in the family returns home. Che Zhuan does not attend the remainder of the course.
 38.
@@ -288,7 +286,7 @@ Although Che Zhuan does not attend part of the course, a supply of the course is
 Different goods, services or other things related to the intended supply
 39. A customer may cancel an intended supply after the supplier has purchased materials or performed work to enable that supply to be made. The terms of the arrangement may, in these circumstances, provide for the charging of a cancellation fee to pay the supplier for the supplies made or work done.
 40. If the intended supply is cancelled, the supplier cannot make that supply as originally contemplated but may nevertheless make a different supply, for example, where a supplier provides the customer with work in progress if the intended supply is cancelled. This is a different supply to the intended supply. A cancellation fee may be consideration for that different supply.
-Example 3:  cancellation fee for a different supply - different goods or services
+Example 3: cancellation fee for a different supply - different goods or services
 41.
 In July, Ken, an unregistered customer, orders a custom built shed from Wallaby Worksheds for a GST inclusive price of $1,100. Wallaby Worksheds, which has monthly tax periods and accounts on an accruals basis, invoices Ken but does not require any payment until the shed is erected. The agreement provides for the payment of a cancellation fee of 50% of the price if Ken cancels the order. Wallaby Worksheds designs the shed to Ken's specifications and acquires materials for constructing the shed.
 42.
@@ -306,7 +304,7 @@ Cancellation supply
 [11]
 A cancellation supply may include administrative services provided in unwinding an arrangement or making refunds. The fee for these services is commonly a flat fee which may be referred to as a cancellation fee, administration fee, change fee or service fee. This fee is consideration for the supply of these services.
 45. It does not matter whether the fee is charged separately or taken out of deposits or other monies already paid. The GST treatment is not affected by how the cancellation fee is paid.
-Example 4:  cancellation fee as consideration for a cancellation supply
+Example 4: cancellation fee as consideration for a cancellation supply
 46.
 White Hills Enterprises Ltd (White Hills) operates a ski lodge in Australia and takes bookings for ski holiday packages. The terms and conditions as set out on its website and in its brochures state that a booking fee of $55 is charged when a booking is made and if a booking is cancelled, a cancellation fee of $33 applies for services provided in giving effect to the cancellation. Services provided to give effect to a cancellation include arranging for the reimbursement of the balance of amounts paid, informing ski instructors of the cancellation and altering various other arrangements.
 47.
@@ -334,9 +332,9 @@ that occurs when an arrangement is cancelled, and/or a combination of these supp
 58. If the termination payment or cancellation fee has a sufficient nexus with an earlier supply, the fee may change the consideration for the earlier supply but is not consideration for a release supply. The change in consideration gives rise to an adjustment event in relation to the earlier supply.
 [15]
 For example, this may occur where an agreement for progressive and periodic supplies has been terminated because the making of the supply has already commenced or the supply has been made. This is different from the scenarios addressed in this Ruling where the intended supply has not been made at the time of release.
-Example 5:  release supply
+Example 5: release supply
 59.
-Trust Mee Enterprises Ltd (Trust Mee), a property management company, enters into a management agreement with Children's Reward Investment Bank (CRIB).  Under the management agreement, Trust Mee will manage a commercial property owned by CRIB for 10 years. The agreement allows either party to negotiate with the other party to release them from their obligation under the agreement.
+Trust Mee Enterprises Ltd (Trust Mee), a property management company, enters into a management agreement with Children's Reward Investment Bank (CRIB). Under the management agreement, Trust Mee will manage a commercial property owned by CRIB for 10 years. The agreement allows either party to negotiate with the other party to release them from their obligation under the agreement.
 60.
 Three years into the contract, CRIB wishes to terminate the management agreement. After a long negotiation, the parties enter into a separate agreement, under which Trust Mee and CRIB agree to terminate the original management agreement upon payment of $1 million by CRIB to Trust Mee.
 61.
@@ -345,17 +343,17 @@ Cancellation fees as damages, penalties or compensation
 62. It has been suggested by a number of commentators that when an intended supply is cancelled, no supply is made on cancellation. It is stated that, a cancellation fee cannot be consideration for the intended supply, nor consideration for a different supply, but is an amount of damages (in the form of liquidated damages), a penalty or compensation.
 63. It has also been suggested that any activities or things that the Commissioner considers to be a facilitation supply as discussed in paragraphs 23 to 38 of this Ruling are merely business inputs or in-house activities of the supplier and are not supplies made to a customer. It is said that this is the case as the inputs or activities are not provided to the customer nor do they confer an advantage or benefit on the customer. Therefore, any cancellation fee is in the nature of damages, a penalty or compensation. These inputs and activities are, therefore, said not to fall within the meaning of 'supply' for GST purposes.
 64. The Commissioner does not accept the views outlined at paragraphs 62 and 63 of this Ruling. The fact that an amount paid in relation to a cancelled arrangement might be described as 'damages', a 'penalty' or 'compensation' does not mean that the amount is not thereby consideration for a supply. An amount can have both the character of damages, a penalty or compensation and also be consideration in connection with a supply.
-65. Regardless of whether an amount paid or payable is damages as properly understood (whether it is paid or payable under a liquidated or agreed damages clause or otherwise), the fundamental question to be answered in an Australian GST context is whether the amount is consideration for a supply. The classification of an amount as consideration for a supply or as damages is to be made in accordance with Goods and Services Tax Ruling GSTR 2001/4 Goods and services tax:  GST consequences of court orders and out-of-court settlements.
+65. Regardless of whether an amount paid or payable is damages as properly understood (whether it is paid or payable under a liquidated or agreed damages clause or otherwise), the fundamental question to be answered in an Australian GST context is whether the amount is consideration for a supply. The classification of an amount as consideration for a supply or as damages is to be made in accordance with Goods and Services Tax Ruling GSTR 2001/4 Goods and services tax: GST consequences of court orders and out-of-court settlements.
 [16]
 66. GSTR 2001/4 sets out the Commissioner's views on when damages are, and are not, consideration for a supply. The Commissioner takes the view that payments that are called 'damages' resulting from court orders and out-of-court settlements need to be examined to establish whether the payment relates to a supply.
 [17]
 67. Whether an amount described as damages would be regarded as consideration for a supply is determined having regard to all relevant factors. For example, the cancellation fee would be consideration if, having regard to industry practices and conventions, it is accepted as a normal incidence of business that the amount represents consideration for a supply associated with the cancellation.
-Example 6:  consideration for a supply
+Example 6: consideration for a supply
 68.
 Joe purchases a television set from Clearvision Electronics by instalments. Joe is not satisfied with the quality of the television set and refuses to pay the balance outstanding. Clearvision sues Joe and is successful. The court orders Joe to make full payment of the balance outstanding.
 69.
 The amount paid by Joe in accordance with the court order is consideration for the supply of the television set.
-Example 7:  damages for injury
+Example 7: damages for injury
 70.
 Charmaine is contracted by Shifty and Co to carry out maintenance work on a newly constructed commercial building. In carrying out this work, Charmaine is injured by falling masonry. She sues Shifty and Co. and is awarded damages of $100,000.
 71.
@@ -389,7 +387,7 @@ Sue Sand orders and pays for a new laptop from Dan Office Supplies Pty Ltd for $
 The laptop arrives but Dan Office Supplies is unable to contact Sue for collection. After several attempts over a three month period, Dan Office Supplies cancels the supply and includes the laptop as part of its sales stock in June. Dan Office Supplies has a decreasing adjustment of $100 for the tax period ending 30 June, but the amount is reduced to nil as Dan Office Supplies does not reimburse Sue for any of the GST she had previously paid.
 76D.	When an intended supply is cancelled and the supplier makes a facilitation or cancellation supply that forms part of the cancelled supply, an adjustment only arises if there is a change in consideration. That is, the supplier has accounted for too much GST or the recipient has overclaimed input tax credits in a previous tax period.
 76E.	If the facilitation or cancellation supply forms a separate supply, the supplier must make a decreasing adjustment to account for the cancelled supply and account for the GST on the separate taxable facilitation or cancellation supply in the appropriate tax period. If applicable, the recipient must also account for the corresponding increasing adjustment and claim the input tax credit for the separate taxable acquisition in the appropriate tax period.
-Example 7B:  cancellation supply as a separate supply
+Example 7B: cancellation supply as a separate supply
 76F.
 Using the facts of the last example, Dan Office Supplies manages to contact Sue in June. Sue changed her mind and requests a refund. Dan Office Supplies agrees to the refund less a cancellation fee of $55. Under its returns and cancellation policy, a cancellation fee of $55 applies to cancellation of merchandise specifically ordered by a customer.
 76G.
@@ -423,7 +421,7 @@ agrees to release the customer from the performance of their obligations under t
 83. Upon the cancellation of the intended supply, the forfeited security deposit can be consideration for one or more of these supplies or another supply. The supply may be taxable, GST-free or input-taxed.
 84. If the security deposit is forfeited under the terms of a cancellation fee clause, that deposit is treated as consideration for a supply under subsection 99-5(1), when it is forfeited.
 [29]
-Example 8:  security deposit as cancellation fee - overseas package tour
+Example 8: security deposit as cancellation fee - overseas package tour
 85.
 On 20 February 2009, Cyrus Travel and Tours (Cyrus) arranges a package tour for David for travel to the USA in July 2009. The arrangements include air travel to and from the USA, accommodation and car hire in a number of cities. Cyrus checks the availability of airline seats, accommodation and car hire, the cost of each and makes all the necessary bookings. Upon confirmation of all the bookings at the time they are made, and in accordance with the requirements of Cyrus, David pays a security deposit of 10
 %.
@@ -447,7 +445,7 @@ Within 7 days of the date of travel: 100% of the total cost.
 88.
 Due to a serious illness in his family, David cancels his travel 35 days before the date of travel and incurs a cancellation fee equal to the amount of his security deposit.
 89.
-The security deposit was held by Cyrus as security for the performance by David of his obligations (principally to pay the purchase price).  Division 99 applies to the security deposit. When the deposit is forfeited, it is treated as consideration for a supply. The supply (which is a facilitation supply) consists of arranging for the making of supplies, the effective use or enjoyment of which is to take place outside Australia. This supply is made regardless of whether or not the travel takes place. This supply is GST-free under subsection 38-355(1) (item 7) and section 38-360.
+The security deposit was held by Cyrus as security for the performance by David of his obligations (principally to pay the purchase price). Division 99 applies to the security deposit. When the deposit is forfeited, it is treated as consideration for a supply. The supply (which is a facilitation supply) consists of arranging for the making of supplies, the effective use or enjoyment of which is to take place outside Australia. This supply is made regardless of whether or not the travel takes place. This supply is GST-free under subsection 38-355(1) (item 7) and section 38-360.
 Explanation
 Is there a supply for consideration?
 90. The starting point for determining the GST consequences of a cancellation fee is to see whether a supply is made, and if one is, whether the cancellation fee is connected with the making of that supply such that it is consideration for that supply.
@@ -550,12 +548,12 @@ As no separate consideration is paid for the facilitation supply, this supply is
 Although the intended supply is not made, a facilitation supply is still made by the supplier. The Commissioner considers that any cancellation fee charged is consideration for the facilitation supply. The GST status of this supply is to be determined independently of the GST status of the intended supply.
 112. However, where the facilitation supply includes a right to receive a GST-free supply under Division 38 or another provision of another Act and the appointment is subsequently cancelled, the cancellation fee will be consideration for the right to receive a GST-free supply, which itself is a GST-free supply under paragraph 9-30(1)(b). An example is where at the time of making an appointment a patient and a medical practitioner make a contract giving the patient a right to medical services that would be GST-free under section 38-7.
 113. If a medical practitioner is able to recover a cancellation fee, there must be consideration provided by the practitioner for the patient's promise to pay the fee if cancellation occurs. The consideration is an undertaking to set aside time to see the patient, whether for a consultation or in respect of a specific procedure or other service. This involves the medical practitioner undertaking to provide a consultation or other medical service. The undertaking may be contingent upon certain factors, such as the practitioner not being required to attend to an emergency and the precise time of the consultation may depend upon factors such as other demands of the practice. The Commissioner accepts that in these circumstances a medical practitioner makes a GST-free supply of a right (albeit contingent) to a medical service under a contract made with the patient.
-Example 9:  cancellation fee for a cancelled appointment
+Example 9: cancellation fee for a cancelled appointment
 114.
-Tracey makes an appointment for a beauty treatment service with Pampered Chique Boutique (PCB).  The fee for the beauty treatment service is $145. PCB arranges for specific beauty products and equipment to be made available or set aside and for one of its beauticians to be available at the pre-arranged time to provide the required service to Tracey, and refrains from booking another customer for that beautician at that time. Tracey is aware that PCB imposes a flat fee of $40 if a cancellation is made less than two hours before an appointment.
+Tracey makes an appointment for a beauty treatment service with Pampered Chique Boutique (PCB). The fee for the beauty treatment service is $145. PCB arranges for specific beauty products and equipment to be made available or set aside and for one of its beauticians to be available at the pre-arranged time to provide the required service to Tracey, and refrains from booking another customer for that beautician at that time. Tracey is aware that PCB imposes a flat fee of $40 if a cancellation is made less than two hours before an appointment.
 115.
 Tracey cancels one hour before her appointment. PCB is unable to make the intended supply and charges the fee of $40. PCB makes a facilitation supply for which the cancellation fee is consideration. The facilitation supply is a taxable supply.
-Example 10:  cancellation fee for a restaurant booking
+Example 10: cancellation fee for a restaurant booking
 116.
 Heckle books a table at the Restaurant on the Hill for Saturday night to celebrate his wedding anniversary with Jyde. Heckle provides his credit card details when he makes the booking and is advised that if he cancels the booking after 5pm on Saturday or doesn't show up, a fee of $50 will be charged to his credit card.
 117.
@@ -568,7 +566,7 @@ Cancellation fees under a contract to provide services
 If the specialist is paid on the basis of the number of appointments made, and an employee fails to attend, the Commissioner's view is that the specialist is still making a supply of services to the company.
 [49]
 120. Any fee charged upon the failure to attend has sufficient nexus with the supply of services and is consideration for the supply. The supply is a taxable supply.
-Example 11:  supply of services when there is a no show
+Example 11: supply of services when there is a no show
 121.
 Dr. Whoose, a medical specialist in occupation overuse syndrome (OOS), enters into an agreement with the Injuries Cover Board (the Board) to examine those employees of a government department who have lodged compensation claims for OOS. As part of the agreement, the Board provides Dr. Whoose with case histories beforehand so that he can familiarise himself with each employee's issues. Dr. Whoose sees these employees and provides the Board with reports recommending rehabilitation programs for the employees. Doctor Whoose charges the department $200 for each person referred to him, regardless of whether or not that person shows up for their appointment.
 122.
@@ -610,9 +608,9 @@ In that case, the Court was considering the operation of the VAT system on depos
 Reliance Carpet
 [59]
 the Commissioner considers the decision to have no relevance in the Australian GST system, which does not require a direct connection between a supply and consideration for the purposes of determining whether the supply is a taxable supply.
-Example 12:  cancellation fee for a no show at a hotel
+Example 12: cancellation fee for a no show at a hotel
 133.
-Anne books a hotel room for three nights with Whitewater Thrills Hotels Enterprises Ltd (Whitewater).  She is advised by Whitewater of the following conditions at the time of booking:
+Anne books a hotel room for three nights with Whitewater Thrills Hotels Enterprises Ltd (Whitewater). She is advised by Whitewater of the following conditions at the time of booking:
 •
 we will hold the booking for you until 6.00 pm on the day of your intended arrival;
 •
@@ -623,7 +621,7 @@ if you cancel after 6.00 pm on the day of your intended arrival or do not show u
 Whitewater takes details of Anne's credit card to guarantee her booking.
 135.
 Anne fails to show up without cancelling her booking. However, Whitewater has still made a supply of real property. Anne is charged a cancellation fee equal to one night's accommodation. The cancellation fee is consideration for the supply. The supply is a taxable supply.
-Example 13:  cancellation fee for a cancellation at short notice
+Example 13: cancellation fee for a cancellation at short notice
 136.
 Following on from Example 12, Anne cancels her booking at 3.00 pm on the day of her intended arrival. In line with the hotel policy she is charged the cancellation fee of $33.
 137.
@@ -664,9 +662,9 @@ The ticket holder is entitled to attend a re-scheduled event. If an event is can
 151. In this case, the supplier does not make a supply when the event is cancelled or deferred by the supplier. The customer may be issued with a new ticket, be able to use the same ticket for the re-scheduled event or be entitled to a full refund.
 152. If the event is cancelled and the customer chooses to obtain a full refund, the supplier has an adjustment under section 19-40. The decreasing adjustment is attributable to the tax period in which the supplier becomes aware of the adjustment. The customer may have an increasing adjustment, which is attributable to the tax period in which the customer becomes aware of the adjustment.
 [65]
-Example 14:  no show for a concert
+Example 14: no show for a concert
 153.
-Kalliani purchases a ticket for a concert from Screeching Galah Promotions Ltd (Screeching Galah) as agent for the presenter, Cheep Trills Entertainment Ltd (Cheep Trills).  She is allocated seat number D20, which is printed on her ticket. The conditions of sale of the ticket include:
+Kalliani purchases a ticket for a concert from Screeching Galah Promotions Ltd (Screeching Galah) as agent for the presenter, Cheep Trills Entertainment Ltd (Cheep Trills). She is allocated seat number D20, which is printed on her ticket. The conditions of sale of the ticket include:
 •
 the ticket cannot be exchanged, returned or refunded after purchase;
 •
@@ -677,17 +675,17 @@ if the concert is cancelled or abandoned, you may either receive a refund of the
 On the day of the concert Kalliani travels interstate for work and is unable to attend.
 155.
 Even though Kalliani does not attend the concert, Cheep Trills makes a supply. The amount paid by Kalliani is consideration for this supply. The supply is a taxable supply.
-Example 15:  supplier cancels the concert
+Example 15: supplier cancels the concert
 156.
 Following on from Example 14 above, Kalliani is able to attend the concert but due to the illness of the cast, the concert is cancelled and not rescheduled. The adjustment event occurs in a subsequent tax period.
 157.
 In this case, Cheep Trills refunds the amount paid by Kalliani. Cheep Trills has a decreasing adjustment attributable to the tax period in which it becomes aware of the adjustment.
-Example 16:  supplier re-schedules the concert - offer declined
+Example 16: supplier re-schedules the concert - offer declined
 158.
 Following on from Example 14, due to a fire at the venue, the concert is postponed for two weeks. Kalliani is advised that her ticket can be used to watch the rescheduled concert on the same terms and conditions.
 159.
 Kalliani declines the offer to attend the rescheduled concert and obtains a full refund. The adjustment event occurs in a subsequent tax period. In this case, Cheep Trills has a decreasing adjustment attributable to the tax period in which it becomes aware of the adjustment.
-Example 17:  supplier re-schedules the concert - offer accepted
+Example 17: supplier re-schedules the concert - offer accepted
 160.
 Following on from Example 16, Kalliani instead accepts the offer, but still misses the concert.
 161.
@@ -730,9 +728,9 @@ See Tables A and B in Attachment 1 of this Ruling for a summary of the GST conse
 [68]
 171. If the facilitation supply is of arranging transport of the kind covered by items 1 to 4 of the table in subsection 38-355(1), that facilitation supply is GST-free under item 7 of the table in subsection 38-355(1).
 [69]
-Example 18:  facilitation supply in relation to overseas package tour
+Example 18: facilitation supply in relation to overseas package tour
 172.
-Sally purchases an African safari tour from Serengetty Tours Ltd (Serengetty).  The safari consists of flights to and from Australia and Africa, accommodation, ground transportation, food and drinks and various tours in Africa.
+Sally purchases an African safari tour from Serengetty Tours Ltd (Serengetty). The safari consists of flights to and from Australia and Africa, accommodation, ground transportation, food and drinks and various tours in Africa.
 173.
 The tour agreement has a cancellation clause in the following terms:
 Cancellations
@@ -756,7 +754,7 @@ Airline and other travel tickets
 176B. Accordingly, where a fare is paid to secure an airline ticket governed by contractually binding conditions of carriage in which the airline promises (subject to exceptions) to transport the passenger, it is considered that the airline makes a supply for consideration even if the passenger is subsequently a no-show.
 176C. This is consistent with
 Qantas
-, where the majority of the High Court described clause 9.2 of the Qantas Conditions of Carriage as 'critical'. That clause commenced with the words:  'We will take all reasonable measures necessary to carry you and your baggage and to avoid delay in doing so.'
+, where the majority of the High Court described clause 9.2 of the Qantas Conditions of Carriage as 'critical'. That clause commenced with the words: 'We will take all reasonable measures necessary to carry you and your baggage and to avoid delay in doing so.'
 [69A]
 The majority went on to say:
 The Qantas conditions and the Jetstar conditions did not provide an unconditional promise to carry the passenger and baggage on a particular flight. They supplied something less than that. This was at least a promise to use best endeavours to carry the passenger and baggage, having regard to the circumstances of the business operations of the airline.
@@ -811,7 +809,7 @@ If the rebooked travel is cancelled or there is a no show, in the Commissioner's
 199. Conversely, if the initial booking was for international travel and the rebooking was for domestic travel, a cancellation of the rebooked domestic travel will mean that any expired credit is consideration for a facilitation supply for domestic travel, which is a taxable supply.
 200. In each of the circumstances outlined in paragraphs 191 and 192 of this Ruling, an adjustment event will arise at the time of rebooking in respect of the application of the credit against the fare for the rebooking.
 201. If, following a cancellation or no show, a credit that is held by an airline is applied in part towards the cost of another fare, the airline has an adjustment event in relation to the rebooking if it involves a change in the GST status of the supply. For example, if a credit is held as a consequence of the cancellation of a GST-free supply of international transport and a portion of that credit is applied towards the fare for a taxable supply of domestic travel, the airline has an increasing adjustment in respect of the GST payable on the cost of the domestic travel. No adjustment event arises at that time in respect of the balance of the credit.
-Example 19:  cancellation fee charged for a partly refundable ticket
+Example 19: cancellation fee charged for a partly refundable ticket
 202.
 Linda buys a ticket from Fallskye Airways for $2,000. The ticket is a domestic return ticket from Dullsville to Funsville. Business commitments mean that Linda has to cancel the return leg of her journey. She surrenders the ticket to Fallskye Airways for a refund.
 203.
@@ -827,7 +825,7 @@ the $2,000 paid by Linda is consideration for a supply. This is a taxable supply
 the cancellation fee of $500 for cancelling the return leg of Linda's journey remains consideration for a supply that is a taxable supply. As such, there is no adjustment in relation to the cancellation fee; and
 •
 the $500 refund means that Fallskye Airways has a decreasing adjustment in respect of the $500 attributable to the tax period in which Fallskye Airways becomes aware of the adjustment, in this case being the tax period in which the refund is made.
-Example 20:  no show at an airport - non-refundable ticket
+Example 20: no show at an airport - non-refundable ticket
 206.
 Adam purchases a discount airfare ticket from Sydair Airlines (Sydair) for $330 to travel from Sydney to Cairns subject to a number of terms and conditions including:
 •
@@ -840,21 +838,21 @@ if the flight is missed the fare is forfeited; and
 if bookings are changed or cancelled 24 hours or more before the scheduled flight, Sydair charges a $50 administration fee for administrative services in making the cancellation and holds the balance as a credit for Adam to make another booking at the same or higher fare. The credit must be used within 12 months of the date of purchase of the initial ticket and may be used against any other flight.
 207.
 Adam is delayed on the way to the airport and misses the flight. His fare is forfeited. Even though Adam did not catch his flight, Sydair makes a facilitation supply. The amount that Adam paid is consideration for this supply. The supply is a taxable supply.
-Example 21:  credit given against cancellation
+Example 21: credit given against cancellation
 208.
 Following on from Example 20, Adam instead cancels his booking 48 hours before the scheduled departure time. The airline charges Adam the $50 fee and gives Adam a credit of $280. Two months later Adam books another flight to Cairns. The fare for this flight is $450. Adam uses the credit of $280 and pays an additional amount of $170 for this flight.
 209.
 The fee of $50 charged by Sydair is consideration for a cancellation supply. This supply is a taxable supply.
 210.
 The rebooking is not a new supply by Sydair but gives rise to an adjustment event for Sydair. As the consideration for the supply has increased, Sydair has an increasing adjustment of $170 x 1/11th.
-Example 22:  credit applied towards higher international fare
+Example 22: credit applied towards higher international fare
 211.
 Following on from Example 21 two months after cancelling his flight to Cairns, Adam instead rebooks and takes a flight from Sydney to New Zealand for $550. He applies the credit of $280 from the cancelled domestic travel booking towards the fare for the rebooking and pays the additional amount of $270 to Sydair. This time Adam makes the flight.
 212.
 At the time of booking the original ticket, the supply that would have been made by Sydair would have been a taxable supply. However, when the rebooking is made, this supply stops being a taxable supply and becomes a GST-free supply under subsection 38-355(1).
 213.
 As the supply stops being a taxable supply and becomes a GST-free supply, Sydair has a decreasing adjustment in respect of the credit of $280.
-Example 23:  no show - non-refundable international ticket
+Example 23: no show - non-refundable international ticket
 214.
 Marilyn purchases a discount air ticket of $2,850 from Hot Air to travel from Canberra to Nairobi subject to a number of terms and conditions including:
 •
@@ -873,7 +871,7 @@ The supply which relates to the cancellation fee of $220 is GST-free under item 
 Six months later, instead of travelling overseas, Marilyn decides to travel to all the major cities in Australia. She uses the credit of $2,630 towards the cost of the domestic travel, which is the same amount as the credit.
 218.
 When Marilyn rebooks for domestic travel, the supply by Hot Air to Marilyn stops being a GST-free supply and becomes a taxable supply. Hot Air has an increasing adjustment for this taxable supply.
-Example 24:  expiry of credit
+Example 24: expiry of credit
 219.
 Following on from Example 23, instead of using the credit towards the cost of the domestic travel, Marilyn does not rebook within the 12 month timeframe allowed for the use of the credit.
 220.
@@ -925,9 +923,9 @@ Cancellation fees that are neither consideration for a supply nor damages, penal
 72
 Adjustment events upon cancellations
 74
-Example 7A:  decreasing adjustment reduced for amount not reimbursed
+Example 7A: decreasing adjustment reduced for amount not reimbursed
 76B
-Example 7B:  cancellation supply as a separate supply
+Example 7B: cancellation supply as a separate supply
 76F
 Security deposits as cancellation fees
 77
@@ -1012,8 +1010,8 @@ Attachment 1
 Commissioner of Taxation
 29 April 2009
 Attachment 1
-222. The following tables are a summary of the GST treatment of cancellation fees for:  package tour operators (travel agents) arranging international and domestic tours; and airlines and travel agents of international and domestic transport of passengers.
-Table A:  Summary of the GST treatment of cancellation fees for package tour operators (travel agent) arranging international tours
+222. The following tables are a summary of the GST treatment of cancellation fees for: package tour operators (travel agents) arranging international and domestic tours; and airlines and travel agents of international and domestic transport of passengers.
+Table A: Summary of the GST treatment of cancellation fees for package tour operators (travel agent) arranging international tours
 Booking cancelled
 ?
 Consideration, for example deposit paid, part or full payment made
@@ -1036,7 +1034,7 @@ Yes but international tour of passenger rebooked
 Pre-specified rebooking or administration fee under the terms and conditions
 No
 GST-free supply
-Table B:  Summary of the GST treatment of cancellation fees for package tour operators (travel agent) arranging domestic tours
+Table B: Summary of the GST treatment of cancellation fees for package tour operators (travel agent) arranging domestic tours
 Booking cancelled
 ?
 Consideration, for example security deposit paid, part payment made or full payment made
@@ -1059,7 +1057,7 @@ Yes but domestic tour of passenger rebooked
 Pre-specified rebooking or administration fee under the terms and conditions
 No
 Taxable supply
-Table C:  Summary of the GST treatment of cancellation fees for airlines and travel agents - international transport of passengers
+Table C: Summary of the GST treatment of cancellation fees for airlines and travel agents - international transport of passengers
 [75]
 Booking cancelled
 ?
@@ -1083,7 +1081,7 @@ Yes but international transport of passenger rebooked
 Pre-specified rebooking or administration fee under the terms and conditions
 No
 GST-free supply
-Table D:  Summary of the GST treatment of cancellation fees for airlines and travel agents - domestic transport of passengers
+Table D: Summary of the GST treatment of cancellation fees for airlines and travel agents - domestic transport of passengers
 [76]
 Booking cancelled
 ?
@@ -1111,17 +1109,17 @@ Footnotes
 [1]
 See paragraphs 138 to 161 of this Ruling for this discussion.
 [2]
-See also Goods and Services Tax Ruling GSTR 2006/2 Goods and services tax:  deposits held as security for the performance of an obligation.
+See also Goods and Services Tax Ruling GSTR 2006/2 Goods and services tax: deposits held as security for the performance of an obligation.
 [3]
-See Goods and Services Tax Determination GSTD 2005/6 Goods and services tax:  does a club, association, trade union, society or co-operative ('association') make a supply when it imposes a non-statutory fine or penalty ('fine or penalty') on a member for a breach of the association's membership rules?
+See Goods and Services Tax Determination GSTD 2005/6 Goods and services tax: does a club, association, trade union, society or co-operative ('association') make a supply when it imposes a non-statutory fine or penalty ('fine or penalty') on a member for a breach of the association's membership rules?
 [4]
-See Goods and Services Tax Ruling GSTR 2003/11 Goods and services tax:  payment on early termination of a lease of goods.
+See Goods and Services Tax Ruling GSTR 2003/11 Goods and services tax: payment on early termination of a lease of goods.
 [4A]
 Refer to each Addendum to see how that Addendum amends this Ruling.
 [5]
-See the definition of 'consideration' in sections 9-15, 9-17 and 195-1 and Goods and Services Tax Ruling GSTR 2001/6 Goods and services tax:  non-monetary consideration.
+See the definition of 'consideration' in sections 9-15, 9-17 and 195-1 and Goods and Services Tax Ruling GSTR 2001/6 Goods and services tax: non-monetary consideration.
 [6]
-See Goods and Services Tax Ruling GSTR 2001/4 Goods and services tax:  GST consequences of court orders and out-of-court settlements and paragraphs 50 to 55 in which release supplies are discussed in the context of discontinuance supplies in disputes that are the subject of settlement after commencement of litigation.
+See Goods and Services Tax Ruling GSTR 2001/4 Goods and services tax: GST consequences of court orders and out-of-court settlements and paragraphs 50 to 55 in which release supplies are discussed in the context of discontinuance supplies in disputes that are the subject of settlement after commencement of litigation.
 [7]
 This view is consistent with the approach taken in the UK case of
 British Telecommunications plc
@@ -1159,9 +1157,9 @@ See paragraphs 100 to 105 of GSTR 2001/4.
 [17]
 See in particular paragraphs 19, 42 to 44 and 68 of GSTR 2001/4.
 [18]
-See paragraphs 102 to 111 of Goods and Services Tax Ruling GSTR 2006/9 Goods and services tax:  supplies for a discussion on whether or not creation of expectations alone establishes a supply.
+See paragraphs 102 to 111 of Goods and Services Tax Ruling GSTR 2006/9 Goods and services tax: supplies for a discussion on whether or not creation of expectations alone establishes a supply.
 [19]
-See Goods and Services Tax Ruling GSTR 2000/19 Goods and services tax:  making adjustments under Division 19 for adjustment events, and Goods and Services Tax Ruling GSTR 2000/29 Goods and services tax:  attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25.
+See Goods and Services Tax Ruling GSTR 2000/19 Goods and services tax: making adjustments under Division 19 for adjustment events, and Goods and Services Tax Ruling GSTR 2000/29 Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25.
 [20]
 For rules relating to the attribution of adjustments, see subsection 29-20(1) and GSTR 2000/29.
 [21]
@@ -1218,7 +1216,7 @@ Commissioner of Taxation v. Qantas Airways Ltd
 [41]
 (2006) 152 FCR 461 at 472; [2006] FCAFC 115 at paragraph 35.
 [42]
-See also Goods and Service Tax Ruling GSTR 2001/8 Goods and services tax:  apportioning the consideration for a supply that includes taxable and non-taxable parts, (in particular paragraphs 19 to 20 and 40 to 42 of GSTR 2001/8).
+See also Goods and Service Tax Ruling GSTR 2001/8 Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts, (in particular paragraphs 19 to 20 and 40 to 42 of GSTR 2001/8).
 [43]
 [2008] HCA 22 at paragraph 42.
 [44]
@@ -1272,7 +1270,7 @@ See paragraphs 21 and 22 of this Ruling for a discussion on cancellation fees 
 [60]
 The Commissioner considers that tickets under ticketed arrangements discussed in this Ruling are not vouchers for the purposes of Division 100.
 [61]
-See paragraph 103 of Goods and Services Tax Ruling GSTR 2003/7 Goods and Services Tax:  what do the expressions 'directly connected with goods or real property' and 'a supply of work physically performed on goods' mean for the purposes of subsection 38-190(1) of the
+See paragraph 103 of Goods and Services Tax Ruling GSTR 2003/7 Goods and Services Tax: what do the expressions 'directly connected with goods or real property' and 'a supply of work physically performed on goods' mean for the purposes of subsection 38-190(1) of the
 A New Tax System (Goods and Services Tax) Act 1999
 ?
 [62]
@@ -1314,7 +1312,7 @@ Does not include domestic air travel of non-residents provided the supply was pu
 GSTR 2008/D4
 References
 ATO references:
-NO  2005/4962
+NO 2005/4962
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

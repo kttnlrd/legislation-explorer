@@ -3,18 +3,14 @@ ATO ID 2011/84
 ==================================================
 
 Superannuation
-        Self managed superannuation funds: scheme to avoid the prohibition on acquiring assets from related parties
-        FOI status: may be released
-
-
+ Self managed superannuation funds: scheme to avoid the prohibition on acquiring assets from related parties
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the anti-avoidance provision in subsection 66(3) of the Superannuation Industry (Supervision) Act 1993 (SISA), apply to the participants of an arrangement that is structured so that it avoids the prohibition on the acquisition assets from a related party of the self managed superannuation fund (SMSF) under subsection 66(1) of the SISA?
@@ -39,8 +35,6 @@ Step 4: the unit trust redeems the units owned by the company for the same amoun
 
 The net result of the arrangement is that:
 
-
-
 •the SMSF owns units in the unit trust,
 •the unit trust has accepted X dollars Australian currency and Y trade dollars in consideration for the issuing of the units, and
 •the company has converted X dollars and Y trade dollars into (X + Y) dollars Australian currency.
@@ -53,14 +47,10 @@ Subject to subsection (2), a trustee or an investment manager of a regulated sup
 
 Subsection 66(2) of the SISA provides for a number of exceptions to the general rule as follows:
 
-
-
 (a)the asset is a listed security acquired at market value; or
 (b)if the fund is a superannuation fund with fewer than 5 members - the asset is business real property of the related party acquired at market value; or
 (c)the trustee of a regulated superannuation fund acquired the asset under a merger between regulated superannuation funds; or
 (d)the asset is an asset of a kind which the Regulator, by legislative instrument, determines may be acquired by:
-
-
 
 (i)any fund; or
 (ii)a class of funds in which the fund is included
@@ -83,19 +73,13 @@ Subsection 66(3) of the SISA is an anti-avoidance provision that applies to ensu
 
 A person must not enter into, commence to carry out, or carry out a scheme if the person entered into, commenced to carry out, or carried out the scheme or any part of the scheme with the intention that:
 
-
-
 (a)the scheme would result, or be likely to result, in the acquisition of an asset by a trustee or an investment manager of a regulated superannuation fund, where the asset is acquired from a person who has a connection (either direct or indirect through one or more interposed companies, partnerships or trusts) with a related party of the fund; and
 (b)that acquisition would avoid the application of subsection (1) to the fund.
 
 'Scheme' is defined to have a wide meaning in subsection 66(5) of the SISA:
 scheme means:
 
-
-
 (a)any agreement, arrangement, understanding, promise or undertaking:
-
-
 
 (i)whether express or implied; or
 (ii)whether or not enforceable, or intended to be enforceable, by legal proceedings; and
@@ -114,10 +98,10 @@ The acquisition by the SMSF of the units from the trustee of the unit trust unde
 The participants in the scheme may be liable to prosecution for an offence under subsection 66(4) of the SISA and if found guilty, the contravention is punishable on conviction by imprisonment for a term not exceeding one year The Crimes Act 1914 set out some general rules applying to penalties, including a mechanism for converting a term of imprisonment into a pecuniary penalty in the case of both natural persons and corporations..
 A trustee of an SMSF who commits an offence under the SISA also puts at risk the complying status of the SMSF for tax purposes. In addition to the adverse tax consequences for the SMSF, a contribution to a non-complying superannuation fund is not tax deductible (section 290-75 of the Income Tax Assessment Act 1997).
 Date of decision:
-         18 August 2011
+  18 August 2011
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -126,7 +110,6 @@ Income Tax Assessment Act 1997   section 290-75
 Crimes Act 1914   The Act
 
 Case References:
-
 
 Lock v. FCT    [2003] FCA 309   (2003) 52 ATR 575
 
@@ -137,20 +120,19 @@ Self managed Superannuation Funds Ruling SMSFR 2010/1
 Keywords
 
 Self managed superannuation funds
-          SMSF acquisition of assets
-
+ SMSF acquisition of assets
 
 Siebel/TDMS Reference Number:
-         1-3DYXIBM; 1-6DOVXC1; 1-FZRSRJG
+  1-3DYXIBM; 1-6DOVXC1; 1-FZRSRJG
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         28 October 2011
+  28 October 2011
 
 Date reviewed:
-         7 August 2018
+  7 August 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

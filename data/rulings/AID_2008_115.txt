@@ -3,18 +3,14 @@ ATO ID 2008/115
 ==================================================
 
 Income Tax
-        Eligibility for Tax Offset: R&D tax offset and exempt entity ownership exception
-        FOI status: may be released
-
-
+ Eligibility for Tax Offset: R&D tax offset and exempt entity ownership exception
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the exception in subsection 73J(2) of the Income Tax Assessment Act 1936 (ITAA 1936) apply, to prevent an eligible company choosing the tax offset under section 73I of the ITAA 1936, where the less than 25% exempt entity ownership requirement may not be breached if actual and potential future interests are taken into account?
@@ -27,8 +23,6 @@ Company A has issued to Company B and other entities, a number of convertible no
 If a certain number of the convertible notes held by entities other than Company B are converted into shares, the voting power and the right to distributions of income or capital owned by Company B will fall below the 25% condition in subsection 73J(2) of the ITAA 1936.
 Reasons for Decision
 Subsection 73J(2) of the ITAA 1936 prevents an eligible company from choosing the tax offset, instead of a deduction, under section 73I of the ITAA 1936, if an exempt entity, the affiliates of an exempt entity, an exempt entity together with its affiliates, or two or more exempt entities, at any time during the tax offset year, legally or beneficially own, or have the right to acquire, the legal or beneficial ownership of:
-
-
 
 interests in the company that carry between them the right to exercise or control the exercise of, at least 25% of the voting power in the company; or
 interests in the company that carry between them the right to receive at least 25% of any distribution of income or capital by the company.
@@ -43,18 +37,16 @@ An alternative view of subsection 73J(2) of the ITAA 1936 is that when deciding 
 This view is not accepted. The preferred construction of subsection 73J(2) of the ITAA 1936 is one that supports the purpose of the exception and does not allow that purpose to be defeated by granting rights to non exempt persons which might never be exercised.
 In this case there is an affiliate of an exempt entity which actually owns interests in the eligible company which come within the first limb of the exception. It is not necessary to consider the operation of the second limb. As the first limb is satisfied, subsection 73J(2) of the ITAA 1936 applies to prevent Company A from choosing the tax offset under section 73I of the ITAA 1936.
 Date of decision:
-         5 August 2008
+  5 August 2008
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 73I   subsection 73J(2)
 
-
 Case References:
-
 
 Minister for Immigration and Ethnic Affairs v. Baker   (1997) 73 FCR 187    153 ALR 463
 
@@ -68,22 +60,20 @@ Other References:
 
  Explanatory Memorandum to the Taxation Laws Amendment (Research and Development) Bill 2001
 
-
 Keywords
 
 Research & development tax offset
-          Grouped entities for research and development
-          Grouped taxpayers for R&D - control
-
+ Grouped entities for research and development
+ Grouped taxpayers for R&D - control
 
 Siebel/TDMS Reference Number:
-         5930624
+  5930624
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         29 August 2008
+  29 August 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

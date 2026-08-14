@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
   - (i) not depreciable intangible property; and
 
-  - (ii) included in one of the categories (an affected class) of the person’s depreciable property referred to in subsection (12)﻿(b); and
+  - (ii) included in one of the categories (an affected class) of the person's depreciable property referred to in subsection (12)﻿(b); and
 
 - (b) is entitled to the flood compensation because each item of the affected property, as a result of a North Island flooding event, is affected by—
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **(4)**  If the person acquires an item of replacement property (the replacement item) and links the replacement item with an affected class of affected property for which the person does not use the pool method, the amount given by subsection (5)—
 
-- (a) is treated as not being included in the amount of the person’s expenditure on the replacement item for the purposes of determining,—
+- (a) is treated as not being included in the amount of the person's expenditure on the replacement item for the purposes of determining,—
 
   - (i) under section EE 16(4) (Amount resulting from standard calculation), the item value or cost for the replacement item, if the person uses the diminishing value method or straight-line method for the replacement item; or
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **(5)**  The amount of the reduction under subsection (4)﻿(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
 
-- (a) zero, if the cost of the affected class equals or is less than the person’s total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class; or
+- (a) zero, if the cost of the affected class equals or is less than the person's total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class; or
 
 - (b) the amount calculated using the formula— limited replacement cost × excess ÷ affected cost.
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **(7)**  If the person acquires a replacement item and links the replacement item with an affected class of affected property for which the person uses the pool method,—
 
-- (a) the amount of the person’s expenditure on the replacement item is treated as being reduced by the amount equal to the lesser of the amount of expenditure on the replacement item and the amount of suspended recovery income for the affected property after the acquisition of other replacement property before the replacement item for the purposes of determining—
+- (a) the amount of the person's expenditure on the replacement item is treated as being reduced by the amount equal to the lesser of the amount of expenditure on the replacement item and the amount of suspended recovery income for the affected property after the acquisition of other replacement property before the replacement item for the purposes of determining—
 
   - (i) the adjusted tax value of the replacement item, if subparagraph (ii) or (iii) does not apply; or
 
@@ -160,7 +160,7 @@ compilation_date: 2026-06-06
 
 **Disposal of replacement property: reduction in cost treated as depreciation loss**
 
-**(13)**  For the purposes of section EE 48, the amount by which a person’s expenditure on a replacement item is treated as being reduced under subsection (4) or (7) is an amount of depreciation loss for the item for which the person has been allowed a deduction.
+**(13)**  For the purposes of section EE 48, the amount by which a person's expenditure on a replacement item is treated as being reduced under subsection (4) or (7) is an amount of depreciation loss for the item for which the person has been allowed a deduction.
 
 **Order of acquisition for items acquired at same time**
 

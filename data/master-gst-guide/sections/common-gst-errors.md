@@ -139,6 +139,6 @@ Example Industry feedback and ATO analysis has identified the following specific
 
 - non-monetary consideration, for example, scrap provided in exchange for bins, cleaning, beer
 
-- dealers “outsourcing” non-compliance to “agents” or “contractors” who purchase on their behalf (see further ATO GST and
+- dealers "outsourcing" non-compliance to "agents" or "contractors" who purchase on their behalf (see further ATO GST and
 
   scrap metal: code of compliance webpage).

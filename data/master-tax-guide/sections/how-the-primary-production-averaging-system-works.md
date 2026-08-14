@@ -7,7 +7,7 @@ paragraph: "¶18-200"
 ---
 # How the primary production averaging system works ¶18-200
 
-The income averaging system (ITAA97 ss 392-1 to 392-95) is designed to ensure that primary producers with ﬂuctuating incomes pay no more tax over a number of years than those on comparable but steady incomes. This is achieved by making an “averaging adjustment” in each year in which averaging applies. In high income years (when average income is less than taxable income) the adjustment takes the form of a tax oﬀset that reduces tax. In low income years (when average income is greater than taxable income) the adjustment is made by increasing the tax that is payable.
+The income averaging system (ITAA97 ss 392-1 to 392-95) is designed to ensure that primary producers with ﬂuctuating incomes pay no more tax over a number of years than those on comparable but steady incomes. This is achieved by making an "averaging adjustment" in each year in which averaging applies. In high income years (when average income is less than taxable income) the adjustment takes the form of a tax oﬀset that reduces tax. In low income years (when average income is greater than taxable income) the adjustment is made by increasing the tax that is payable.
 
 For averaging purposes, a primary producer means an individual who carries on a primary production business in Australia (either alone or in partnership: ID 2003/359). As to when an individual is carrying on a primary production business, see ¶18-020.
 
@@ -23,13 +23,13 @@ If an individual is the beneﬁciary of a trust that has no trust income to whic
 
   the beneﬁt of income averaging (ITAA97 s 392-20). The choice must be made before lodgment of
 
-  the trust’s income tax return for the year for which the choice applies.
+  the trust's income tax return for the year for which the choice applies.
 
 The averaging provisions do not apply to the beneﬁciary of a corporate unit trust or a public trading trust.
 
 A beneﬁciary of a discretionary trust will not generally be deemed to be carrying on a primary production business in any year in which the trustee does not exercise the discretion in favour of the beneﬁciary.
 
-Where an individual dies and the trustee of the deceased’s estate continues the primary production business, there is a new taxpayer and a new averaging calculation is made for the trustee.
+Where an individual dies and the trustee of the deceased's estate continues the primary production business, there is a new taxpayer and a new averaging calculation is made for the trustee.
 
 Where averaging has applied to a taxpayer, it will continue to apply after the taxpayer ceases carrying on the primary production business provided, in each year after the year of the cessation of the business, the taxpayer either: (a) derives income from having carried on that business; or (b) carries on another primary production business.
 

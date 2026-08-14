@@ -3,23 +3,18 @@ ATO ID 2001/574
 ==================================================
 
 Goods and Services Tax
-        GST and the acquisition of an IT industry domain name from a non-resident overseas supplier by a resident GST registered Australian entity
-        FOI status: may be released
-
+ GST and the acquisition of an IT industry domain name from a non-resident overseas supplier by a resident GST registered Australian entity
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator in the Information Technology (IT) industry, liable for any GST amount under subsection 84-10(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it acquires an IT industry domain name from a non-resident overseas supplier solely for a creditable purpose?
@@ -34,13 +29,9 @@ Reasons for Decision
 Division 84 of the GST Act applies to supplies not connected with Australia.
 Subsection 9-25(5) of the GST Act provides that a supply of anything other than goods or real property is connected with Australia if either:
 
-
-
 (a) the thing is done in Australia; or
 (b) the supplier makes the supply through an enterprise that the supplier carries on in Australia; or
 (c) all of the following apply:
-
-
 
 (i) neither paragraph (a) nor (b) applies in respect of the thing;
 (ii) the thing is a right or option to acquire another thing;
@@ -49,8 +40,6 @@ Subsection 9-25(5) of the GST Act provides that a supply of anything other than 
 In this case, the reservation of domain name is an intangible supply and not a supply of goods or real property. Furthermore, the supply is not connected with Australia as the non-resident overseas supplier's reservation of the domain name is not done in Australia nor is it supplied through an enterprise that the non-resident overseas supplier is carrying on in Australia nor is it a right or option to acquire another thing. Therefore, the supply is appropriately considered under Division 84 of the GST Act.
 Under section 84-5 of the GST Act, a supply of anything other than goods or real property that is a supply not connected with Australia, is a taxable supply if:
 
-
-
 •the recipient of the supply acquires the thing supplied solely or partly for the purpose of an enterprise that the recipient carries on in Australia, but not solely for a creditable purpose; and
 •the supply is for consideration; and
 •the recipient is registered, or required to be registered.
@@ -58,12 +47,10 @@ Under section 84-5 of the GST Act, a supply of anything other than goods or real
 Where a supply is a taxable supply under section 84-5 of the GST Act, the GST amount payable on that supply is payable by the recipient of the supply (subsection 84-10(1) of the GST Act).
 In this case, the acquisition of the domain name by the entity is solely for a creditable purpose. As such, section 84-5 of the GST Act does not apply and the entity is not liable to pay any GST amount under subsection 84-10(1) of the GST Act when it acquires an IT industry domain name from a non-resident overseas supplier solely for a creditable purpose.
 
-
-
 [HISTORY: This ATO ID was amended on 25 June 2007 to reflect changes in legislation]
 
 Date of decision:
-         12 October 2000
+  12 October 2000
 
 Legislative References:
 
@@ -83,36 +70,31 @@ Other References:
 
 Electronic Commerce Issues Register - Chapter 4
 
-
 Keywords
 
 Goods and services tax
-          GST international services
-          GST offshore supplies
-          Connected with Australia
-          Reverse charge on offshore intangible supplies
-          Taxable supply
-
+ GST international services
+ GST offshore supplies
+ Connected with Australia
+ Reverse charge on offshore intangible supplies
+ Taxable supply
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         15 November 2001
+  15 November 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 12 October 2000

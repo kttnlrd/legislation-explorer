@@ -7,11 +7,11 @@ paragraph: "None"
 ---
 # 1-520 - Non-commercial losses Commissioners discretion regarding flood bushfire or other natural disasters
 
-other natural disasters Worked example: Non-commercial losses — Commissioner’s discretion regarding flood, bushfire or other natural disasters Issue Jacob Marley has operated an established bee-keeping business for many years. At the commencement of the 2024–25 income year, the business maintained a large number of beehives which provided honey for a variety of outlets including supermarkets and local speciality shops. The honey market has been depressed for a couple of years, caused by oversupply of inferior imports, and the business has made a loss in the 2 previous income years.
+other natural disasters Worked example: Non-commercial losses — Commissioner's discretion regarding flood, bushfire or other natural disasters Issue Jacob Marley has operated an established bee-keeping business for many years. At the commencement of the 2024–25 income year, the business maintained a large number of beehives which provided honey for a variety of outlets including supermarkets and local speciality shops. The honey market has been depressed for a couple of years, caused by oversupply of inferior imports, and the business has made a loss in the 2 previous income years.
 
 In December 2024, the business activity was impacted by bushfire resulting in a loss of approximately 60% of the beehives. In previous years, the average loss of hives was closer to 5% per year. As a result, the business has made a loss in the 2024–25 year, even though honey prices have recovered due to bad publicity surrounding imports of inferior honey and, in the absence of the bushfire, it would have made a sizeable taxable profit.
 
-Jacob’s other income, from running a bed and breakfast outlet in a corner of the farm that was not impacted by the fire and from the rental of a number of properties in the nearby town, remained stable at $120,000.
+Jacob's other income, from running a bed and breakfast outlet in a corner of the farm that was not impacted by the fire and from the rental of a number of properties in the nearby town, remained stable at $120,000.
 
 The market value of real property held by the business was less than $500,000 and the total value its other assets were less than $100,000.
 
@@ -19,9 +19,9 @@ Is Jacob able to disregard the non-commercial loss rules, and so offset his loss
 
 Solution The non-commercial loss rules are contained in ITAA97 Div 35.
 
-Where a taxpayer’s activity amounts to the carrying on of a business, but generates a loss, these rules will generally operate to prevent the loss being offset against the individual’s other income, such as salary, rental income, bank interest or dividends. Instead, the loss must be carried forward to be offset against future assessable income generated from the same activity unless:
+Where a taxpayer's activity amounts to the carrying on of a business, but generates a loss, these rules will generally operate to prevent the loss being offset against the individual's other income, such as salary, rental income, bank interest or dividends. Instead, the loss must be carried forward to be offset against future assessable income generated from the same activity unless:
 
-- the total of the individual’s taxable income, reportable fringe benefits, reportable superannuation
+- the total of the individual's taxable income, reportable fringe benefits, reportable superannuation
 
   contributions and total net investment loss is less than $250,000 (the income requirement), and
 
@@ -57,13 +57,13 @@ Where a taxpayer’s activity amounts to the carrying on of a business, but gene
 
   other natural disasters
 
-Business activities of a similar kind may be grouped together but the rules do not apply to primary production or professional arts businesses where the individual’s assessable income (excluding net capital gains) from other sources is less than $40,000.
+Business activities of a similar kind may be grouped together but the rules do not apply to primary production or professional arts businesses where the individual's assessable income (excluding net capital gains) from other sources is less than $40,000.
 
-An individual who satisfies the income requirement, but does not meet any of the 4 tests listed above, can apply for the exercise of the Commissioner’s discretion. This discretion is limited in scope and available only if either:
+An individual who satisfies the income requirement, but does not meet any of the 4 tests listed above, can apply for the exercise of the Commissioner's discretion. This discretion is limited in scope and available only if either:
 
 - the business activity would have satisfied one of the 4 tests, or made a profit, but was, or will be,
 
-  affected by “special circumstances” outside the individual’s control (eg flood, bushfires or other natural
+  affected by "special circumstances" outside the individual's control (eg flood, bushfires or other natural
 
   disasters), or
 
@@ -71,8 +71,8 @@ An individual who satisfies the income requirement, but does not meet any of the
 
   time before the business returns profits.
 
-In recent years, special circumstances such as flood, bushfire and COVID-19 impacts may have caused the non-commercial loss rules to apply to a taxpayer’s business. If this happens, and a taxpayer does not meet one of the 4 tests for the loss to be offset against their other income, the taxpayer will need to seek the Commissioner’s discretion to allow them to offset the loss against their other income.
+In recent years, special circumstances such as flood, bushfire and COVID-19 impacts may have caused the non-commercial loss rules to apply to a taxpayer's business. If this happens, and a taxpayer does not meet one of the 4 tests for the loss to be offset against their other income, the taxpayer will need to seek the Commissioner's discretion to allow them to offset the loss against their other income.
 
-Although Jacob satisfied the income requirement, he did not meet any of the 4 tests in 2024–25. In particular, he did not meet the profits test because the business has not made a profit in 3 of the last 5 income years (although he would have done so if it was not for the bushfire). Therefore, he must seek the Commissioner’s discretion to apply the loss against his other income.
+Although Jacob satisfied the income requirement, he did not meet any of the 4 tests in 2024–25. In particular, he did not meet the profits test because the business has not made a profit in 3 of the last 5 income years (although he would have done so if it was not for the bushfire). Therefore, he must seek the Commissioner's discretion to apply the loss against his other income.
 
-This can be obtained using the Private ruling form (non-commercial losses) (at ato.gov.au/forms-and- instructions/private-ruling-non-commercial-losses-application), enclosing relevant information, including evidence from independent sources (where available) that objectively establishes that he meets the conditions for the Commissioner’s discretion. Jacob will also need to complete the Non-commercial losses – supporting information (at ato.gov.au/forms-and-instructions/private-ruling-non-commercial-losses- supporting-information) as part of his application.
+This can be obtained using the Private ruling form (non-commercial losses) (at ato.gov.au/forms-and- instructions/private-ruling-non-commercial-losses-application), enclosing relevant information, including evidence from independent sources (where available) that objectively establishes that he meets the conditions for the Commissioner's discretion. Jacob will also need to complete the Non-commercial losses – supporting information (at ato.gov.au/forms-and-instructions/private-ruling-non-commercial-losses- supporting-information) as part of his application.

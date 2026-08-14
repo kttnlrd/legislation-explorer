@@ -7,7 +7,7 @@ paragraph: "¶26-250"
 ---
 # PAYG: dividend, interest and royalty payments ¶26-250
 
-A payer who makes a dividend, interest or royalty payment to an “overseas person” or an entity that receives such a payment on behalf of a non-resident must withhold an amount.
+A payer who makes a dividend, interest or royalty payment to an "overseas person" or an entity that receives such a payment on behalf of a non-resident must withhold an amount.
 
 - part of a dividend in the same way they apply to a whole dividend
 
@@ -15,7 +15,7 @@ A payer who makes a dividend, interest or royalty payment to an “overseas pers
 
   treated as if it were the company.
 
-“Interest” refers to an amount:
+"Interest" refers to an amount:
 
 - in the nature of interest (eg a discount on a security), and
 
@@ -23,13 +23,13 @@ A payer who makes a dividend, interest or royalty payment to an “overseas pers
 
   sum instead of interest payments).
 
-The meaning of “royalty” is discussed at ¶10-640.
+The meaning of "royalty" is discussed at ¶10-640.
 
 No deduction will be allowed for an amount of interest or royalty unless the withholding obligations have been fulﬁlled (ITAA97 s 26-25).
 
-Payment to an overseas person A resident company that pays a dividend to a shareholder who has an address outside Australia must withhold an amount (TAA sch 1 s 12-210). The address of the shareholder is determined according to the register of the company’s members. If shares are held by more than one entity and one of the entities has an address outside Australia, the paying company must also withhold an amount.
+Payment to an overseas person A resident company that pays a dividend to a shareholder who has an address outside Australia must withhold an amount (TAA sch 1 s 12-210). The address of the shareholder is determined according to the register of the company's members. If shares are held by more than one entity and one of the entities has an address outside Australia, the paying company must also withhold an amount.
 
-An entity that pays interest or a royalty to an entity must withhold an amount if the recipient has an address outside Australia (TAA sch 1 ss 12-245; 12-280). The recipient’s address is to be determined according to any record in the payer’s possession, or that which is kept or maintained on the payer’s behalf, about the transaction to which the interest or royalty relates. Where s 12-280 requires an entity to withhold an amount from a payment that it makes to a non-resident in relation to royalties, the withholding is based on the GST inclusive amount of the payment (ID 2010/89).
+An entity that pays interest or a royalty to an entity must withhold an amount if the recipient has an address outside Australia (TAA sch 1 ss 12-245; 12-280). The recipient's address is to be determined according to any record in the payer's possession, or that which is kept or maintained on the payer's behalf, about the transaction to which the interest or royalty relates. Where s 12-280 requires an entity to withhold an amount from a payment that it makes to a non-resident in relation to royalties, the withholding is based on the GST inclusive amount of the payment (ID 2010/89).
 
 The payer must also withhold an amount from a dividend, interest or royalty if it is authorised to pay it at a place outside Australia.
 

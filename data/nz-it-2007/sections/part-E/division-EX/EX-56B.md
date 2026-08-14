@@ -106,7 +106,7 @@ compilation_date: 2026-06-06
 
 **Extension of time bar**
 
-**(15)**  If subsection (14) applies and the disposal referred to in that subsection takes place in an income year (the disposal year) that is later than the departure year, despite the time bar, the Commissioner may amend the person’s assessment for the departure year to the extent to which it relates to the person’s liability for tax on the FIF income or loss arising under subsection (3) at any time in the period that ends 4 years after the end of the disposal year.
+**(15)**  If subsection (14) applies and the disposal referred to in that subsection takes place in an income year (the disposal year) that is later than the departure year, despite the time bar, the Commissioner may amend the person's assessment for the departure year to the extent to which it relates to the person's liability for tax on the FIF income or loss arising under subsection (3) at any time in the period that ends 4 years after the end of the disposal year.
 
 **No treatment as disposal if no actual disposal**
 

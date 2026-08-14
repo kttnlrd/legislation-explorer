@@ -3,18 +3,14 @@ ATO ID 2005/345
 ==================================================
 
 Income Tax
-        Income tax: Consolidation: Single entity rule and assessable recoupment
-        FOI status: may be released
-
-
+ Income tax: Consolidation: Single entity rule and assessable recoupment
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Do the assessable recoupment rules in Subdivision 20-A of the Income Tax Assessment Act 1997 (ITAA 1997) apply to a debt between members of the same consolidated group?
@@ -31,8 +27,6 @@ Taxation Ruling TR 2004/11 at paragraph 8 states:
 
 Consequently, the single entity rule has the effect that:
 
-
-
 (a)the actions and transactions of a subsidiary member are treated as having been undertaken by the head company;
 (b)the assets a subsidiary member of the group owns are taken to be owned by the head company (with the exception of intra-group assets) while the subsidiary remains a member of the consolidated group;
 (c)assets where the rights and obligations are between members of a consolidated group (intra-group assets) are not recognised for income tax purposes during the period they are held within the group whether or not the asset, as a matter of law, was created before or during the period of consolidation; and
@@ -40,10 +34,10 @@ Consequently, the single entity rule has the effect that:
 
 Accordingly, the recoupment of the debt is not recognised for the purposes of provisions of the income tax law, including Subdivision 20-A of the ITAA 1997. This intent is clearly articulated in TR 2004/11 at paragraphs 26, 27, 32 and 33.
 Date of decision:
-         21 October 2005
+  21 October 2005
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -69,25 +63,24 @@ Related ATO Interpretative Decisions
 
 Other References:
 
-Consolidation Reference Manual  C2-4-245;  C9-1-220;  C9-1-110
+Consolidation Reference Manual C2-4-245; C9-1-220; C9-1-110
 
 Keywords
 
 Assessable recoupments
-          Consolidation
-          Consolidated group
-          Debt forgiveness
-          Single entity rule
-
+ Consolidation
+ Consolidated group
+ Debt forgiveness
+ Single entity rule
 
 Siebel/TDMS Reference Number:
-         4848785
+  4848785
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         2 December 2005
+  2 December 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

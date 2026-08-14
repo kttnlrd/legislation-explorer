@@ -7,9 +7,9 @@ paragraph: "¶31-220"
 ---
 # Taking advantage of tax oﬀsets and other beneﬁts ¶31-220
 
-Tax oﬀsets, unlike deductions, do not enter the calculation of taxable income. Rather, once taxable income has been determined, a tax oﬀset is subtracted from the tax payable in respect of that taxable income. If the sum of any tax oﬀsets exceeds the tax payable, the excess is “wasted” as it cannot be carried forward to a subsequent income year. For some exceptions, see ¶15-010.
+Tax oﬀsets, unlike deductions, do not enter the calculation of taxable income. Rather, once taxable income has been determined, a tax oﬀset is subtracted from the tax payable in respect of that taxable income. If the sum of any tax oﬀsets exceeds the tax payable, the excess is "wasted" as it cannot be carried forward to a subsequent income year. For some exceptions, see ¶15-010.
 
-Franking credits Receipt of franked dividends by a company will generate franking credits regardless of whether the company has any taxable income and, subject to various anti-avoidance provisions, will not aﬀect that company’s tax liability in respect of those dividends (¶4-110).
+Franking credits Receipt of franked dividends by a company will generate franking credits regardless of whether the company has any taxable income and, subject to various anti-avoidance provisions, will not aﬀect that company's tax liability in respect of those dividends (¶4-110).
 
 However, franking credits aﬀect the tax liability of individuals, whether franked dividends are received directly or ﬂow through trusts or partnerships. The following points should be noted by taxpayers wishing to maximise the beneﬁts of franking credits:
 

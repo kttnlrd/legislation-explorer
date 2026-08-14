@@ -3,25 +3,20 @@ ATO ID 2001/115
 ==================================================
 
 Goods and Services Tax
-        GST and Temporary exchange of a fishing quota
-        FOI status: may be released
-
+ GST and Temporary exchange of a fishing quota
+ FOI status: may be released
 
 This ATO ID has been amended to improve clarity and update legislative references.
 
-              With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+ With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is entity A, the holder of an 'individual transferable quota' in a fishery, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it temporarily exchanges its quota with the quota of entity B?
@@ -39,7 +34,6 @@ Consideration is defined in section 195-1 of the GST Act to mean 'any considerat
 Subsection 9-15(1) of the GST Act provides that a payment, or any act or forbearance is consideration for a supply if it is 'in connection with', 'in response to or for the inducement of' a supply. Paragraph 12 of Goods and Services Tax Ruling GSTR 2001/6 also provides that consideration includes a payment in a non-monetary or in an 'in kind' form. This includes acts, forbearances, and goods or property.
 The consideration, in this instance, is non-monetary in that the consideration for the supply made by entity A of its quota to entity B is the supply of entity's B quota to entity A.
 Accordingly, entity A makes a supply for consideration when it exchanges its quota with the quota of entity B. The supply of the ITQ by entity A is a taxable supply in this case as the supply satisfies the other requirements of a taxable supply under section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act.
-
 
 [Note: Where the requirements of section 9-5 of the GST Act have been satisfied, entity B will also be making a taxable supply to entity A.
 
@@ -61,7 +55,7 @@ Legislative References
 Section 9-15 and section 9-17 added
 
 Date of decision:
-         24 March 2000
+  24 March 2000
 
 Legislative References:
 
@@ -75,35 +69,31 @@ ATO ID 2001/114
 Keywords
 
 Goods and Services Tax
-          GST primary production
-          GST fishing
-          GST supplies acquisitions
-          GST supply
-          Taxable supply
-
+ GST primary production
+ GST fishing
+ GST supplies acquisitions
+ GST supply
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CRS 38602
+  CRS 38602
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         12 July 2001
+  12 July 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 24 March 2000

@@ -3,18 +3,14 @@ ATO ID 2003/874
 ==================================================
 
 Income Tax
-        Capital gains tax: Demerger - definition of demerger
-        FOI status: may be released
-
-
+ Capital gains tax: Demerger - definition of demerger
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In relation to a demerger, is the requirement in subparagraph 125-70(1)(e)(i) of the Income Tax Assessment Act 1997 (ITAA 1997) satisfied if the original interests in the head entity, a company, consist of both shares and options, when the new interests in the demerged entity, also a company, consist only of shares?
@@ -29,10 +25,10 @@ The definition of a demerger is contained in subsection 125-70(1) of the ITAA 19
 Subparagraph 125-70(1)(e)(i) of the ITAA 1997 specifically requires that all the new interests must be ownership interests in a company, if the head entity of a demerger group is a company. An 'ownership interest in a company' is defined in paragraph 125-60(1)(a) of the ITAA 1997 as a share in the company or an option, right or similar interest issued by the company that gives the owner an entitlement to acquire a share in the company.
 Therefore, if all the new interests qualify as ownership interests in a company as defined under paragraph 125-60(1)(a), the requirement under subparagraph 125-70(1)(e)(i) is met. There is no requirement for some of the new interests to be options if some of the original interests are options. If the original interests consist of shares and options, the new interests may be only shares.
 Date of decision:
-         22 September 2003
+  22 September 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -41,21 +37,20 @@ Income Tax Assessment Act 1997   paragraph 125-60(1)(a)   subsection 125-7
 Keywords
 
 Capital gains tax
-          Change in ownership interests
-          Demerger
-          Demerger group
-          Demerger subsidiary
-          Head entity
-
+ Change in ownership interests
+ Demerger
+ Demerger group
+ Demerger subsidiary
+ Head entity
 
 Siebel/TDMS Reference Number:
-         
+  
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         3 October 2003
+  3 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

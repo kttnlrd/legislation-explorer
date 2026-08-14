@@ -3,23 +3,19 @@ ATO ID 2002/995
 ==================================================
 
 Goods and Services Tax
-        GST and grouping of two trusts
-        FOI status: may be released
-
+ GST and grouping of two trusts
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 The A New Tax System (Goods and Services Tax) Regulations 1999 (amended by the A New Tax System (Goods and Services Tax) Amendment Regulations 2003 (No.1) (2003 No. 37) affects certain group membership requirements from 1 April 2003.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Do the entities, unit trust A and unit trust B, satisfy the membership requirements of a GST group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when they apply to form a GST group?
@@ -36,15 +32,11 @@ The general membership requirements of a GST group are set out in section 48-10 
 For a trust to meet the membership requirements of a GST group, subparagraph 48-10(1)(a)(ii) of the GST Act provides that the trust must also satisfy the conditions listed in regulation 48-10.03 of the GST Regulations.
 Subregulation 48-10.03(2) of the GST Regulations provides that for a trust to be a member of a GST group, the trustee:
 
-
-
 •must have at least a 90% stake in a company that is a member of the GST group; or
 •must not distribute any income or capital of the trust to a beneficiary that is not a permitted beneficiary (whether or not a distribution of that kind could be lawfully made).
 
 There are no companies in the proposed GST group, only unit trusts A and B. Therefore, the first limb of subregulation 48-10.03(2) of the GST Regulations does not apply. Accordingly, it is necessary to consider whether unit trust A and unit trust B satisfy the membership requirement under the second limb of subregulation 48-10.03(2) of the GST Regulations.
 For the purposes of the second limb of subregulation 48-10.03(2) of the GST Regulations, subregulation 48-10.03(3) of the GST Regulations provides that each of the following is a permitted beneficiary:
-
-
 
 •a company that is a member of the GST group;
 •a charitable institution, a trustee of a charitable fund, a gift-deductible entity;
@@ -55,7 +47,7 @@ Both unit trust A and unit trust B have the same beneficiaries, a company and an
 Therefore, unit trust A and unit trust B do not satisfy the membership requirement under the second limb of subregulation 48-10.03(2) of the GST Regulations because the respective trustees of both unit trusts will be making distributions to beneficiaries that are not permitted beneficiaries.
 As neither unit trust A nor unit trust B satisfy the conditions listed in regulation 48-10.03 of the GST Regulations, they do not satisfy the membership requirements of a GST group under section 48-10 of the GST Act when they apply to form a GST group.
 Date of decision:
-         5 March 2002
+  5 March 2002
 
 Legislative References:
 
@@ -65,18 +57,17 @@ A New Tax System (Goods and Services Tax) Regulations 1999   regulation 48-10
 Keywords
 
 Goods & services tax
-          GST special rules
-          GST groups
-
+ GST special rules
+ GST groups
 
 Siebel/TDMS Reference Number:
-         CW265717
+  CW265717
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         30 October 2002
+  30 October 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

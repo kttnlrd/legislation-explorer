@@ -3,18 +3,14 @@ ATO ID 2007/97
 ==================================================
 
 Petroleum Resource Rent Tax
-        Transferability of exploration expenditure: project interest transferred from common owner to group member
-        FOI status: may be released
-
-
+ Transferability of exploration expenditure: project interest transferred from common owner to group member
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can group company A that is able to transfer exploration petroleum resource rent tax (PRRT) credits from an exploration permit to a production licence under section 45A of the Petroleum Resource Rent Tax Assessment Act 1987 (PRRTAA) transfer its interests in the production licence to group company B and still preserve the transferability of exploration PRRT credits?
@@ -28,8 +24,6 @@ Sections 45A and 45B of the PRRTAA allow the transfer of exploration PRRT credit
 The test prescribed in clause 22 of the Schedule requires a person to hold an interest in the transferring entity (exploration permit) and the receiving project (production licence) from the start of the financial year in which the expenditure was incurred to the end of the transfer year. Prior to group company A transferring its interest in the production licence to group company B, it is able to transfer exploration PRRT credits because it meets the continuity of ownership test. However, after the proposed transfer of its interest, clause 22 would not apply because group company A would not hold an interest in the receiving project.
 The test prescribed in clause 31 of the Schedule requires a group company (loss company) to hold an interest in the transferring entity (exploration permits) and another group company (profit company) to hold an interest in the receiving project (production licence) at the transfer time. The test conditions are fulfilled if:
 
-
-
 (a)At all times from the beginning of the financial year in which the expenditure was incurred to the end of the transfer year (test period) two different companies that are group companies in relation to each other at that time, held an interest in the transferring entity and the receiving project.
 (b)For part of the test period (including at the end of the transfer year) the condition in paragraph a) above is met. For the remaining part of the test period interests in the transferring entity and the receiving project were held by the same company.
 
@@ -37,22 +31,20 @@ Group company A will be able to transfer exploration PRRT credits from the explo
 The transferability of pre 1 July 2006 expenditure under clause 31 is also subject to additional conditions prescribed in the Petroleum Resource Rent Tax Assessment Amendment Act 2006 (PRRT Amendment Act) which amended clause 31 of the Schedule for the financial years that start on or after 1 July 2006.
 The following conditions apply to the transfer of pre 1 July 2006 expenditure to receiving projects whose start date was prior to 1 July 2006:
 
-
-
 (a)the amended clause 31 of the Schedule must not prevent the transfer, and
 (b)if the transfer were to take place in the transfer year starting on 1 July 2005, the old clause 31 of the Schedule would not have prevented a transfer from the exploration permit to the receiving interest as it was held at the end of that year.
 
 As discussed above, the conditions in the amended clause 31 of the Schedule would be met. If the transfer were to take place at the end of the transfer year starting on 1 July 2005, the transfer would have taken place under clause 22 of the Schedule. The old clause 31 would not have applied. Therefore, it could not have prevented the transfer.
 Date of decision:
-         28 February 2007
+  28 February 2007
 
 Year of income:
-           Year ending 30 June 2006
+  Year ending 30 June 2006
 
 Legislative References:
 
 Petroleum Resource Rent Tax Assessment Act 1987   section 2B   section 41   section 45A   section 45B   section 48   section 48A   Schedule, Part 1, Clause 1   Schedule, Part 1, Clause 2   Schedule, Part 1, Clause 3   Schedule, Part 2   Schedule, Part 3   Schedule, Part 4   Schedule, Part 5, Clause 19   Schedule, Part 5, Clause 20   Schedule, Part 5, Clause 21   Schedule, Part 5, Clause 22   Schedule, Part 5, Clause 23   Schedule, Part 5, Clause 24   Schedule, Part 5, Clause 25   Schedule, Part 5, Clause 26   Schedule, Part 6, Clause 27   Schedule, Part 6, Clause 28   Schedule, Part 6, Clause 29   Schedule, Part 6, Clause 30   Schedule, Part 6, Clause 31   Schedule, Part 6, Clause 32   Schedule, Part 6, Clause 33   Schedule, Part 6, Clause 34   Schedule, Part 6, Clause 35
-          Petroleum Resource Rent Tax Assessment Amendment Act 2006   the Act
+ Petroleum Resource Rent Tax Assessment Amendment Act 2006   the Act
 
 Related ATO Interpretative Decisions
 
@@ -61,20 +53,19 @@ Related ATO Interpretative Decisions
 Keywords
 
 Continuity of ownership
-          Group companies
-          Petroleum resource rent tax
-          PRRT exploration expenditure
-          PRRT transferable exploration expenditure
-
+ Group companies
+ Petroleum resource rent tax
+ PRRT exploration expenditure
+ PRRT transferable exploration expenditure
 
 Siebel/TDMS Reference Number:
-         5486642
+  5486642
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         11 May 2007
+  11 May 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Elections**
 
-**(1)**  This subpart applies to a person’s eligible hedges, to the extent to which the hedges have fair dividend rate hedge portions as a result of an election under this section. The portion of a person’s eligible hedge that is not a fair dividend rate hedge portion does not give rise to income or expenditure under this subpart, despite any election under this section for the eligible hedge. To the extent to which this subpart does apply to calculate income and expenditure (see: section EM 6), the fair dividend rate hedge portion does not give rise to income or expenditure under any other subpart of this Act.
+**(1)**  This subpart applies to a person's eligible hedges, to the extent to which the hedges have fair dividend rate hedge portions as a result of an election under this section. The portion of a person's eligible hedge that is not a fair dividend rate hedge portion does not give rise to income or expenditure under this subpart, despite any election under this section for the eligible hedge. To the extent to which this subpart does apply to calculate income and expenditure (see: section EM 6), the fair dividend rate hedge portion does not give rise to income or expenditure under any other subpart of this Act.
 
 **Hedge-by-hedge: specific**
 

@@ -67,11 +67,11 @@ Employment Projects (¶15-315).
 
   scheme are normally assessable (¶10-510).
 
-- Assistance in preparation of tax returns may be available under the ATO’s Tax Help program or
+- Assistance in preparation of tax returns may be available under the ATO's Tax Help program or
 
   from the ATO Indigenous Helpline (phone: 13 10 30).
 
-- Tax oﬀsets (“zone rebates”) are available for individuals who are residents of speciﬁed isolated
+- Tax oﬀsets ("zone rebates") are available for individuals who are residents of speciﬁed isolated
 
   areas (¶15-160).
 

@@ -9,7 +9,7 @@ paragraph: "¶7-000"
 
 Your GST liabilities are worked out at the end of each tax period. As explained at ¶7-100, this period may be either monthly, quarterly or annual.
 
-For each tax period, you work out the amount of input tax credits you can claim and offset it against the amount of GST that applies to supplies you have made. The balance, after allowing for any adjustments, is called the “net amount” (s 7-5). If the GST exceeds the input tax credits, you must pay the balance to the ATO with your GST return for the period. If the credits exceed the GST, you are entitled to a refund (s 7-15).
+For each tax period, you work out the amount of input tax credits you can claim and offset it against the amount of GST that applies to supplies you have made. The balance, after allowing for any adjustments, is called the "net amount" (s 7-5). If the GST exceeds the input tax credits, you must pay the balance to the ATO with your GST return for the period. If the credits exceed the GST, you are entitled to a refund (s 7-15).
 
 The ATO may, however, offset that refund against any other tax debts you might have (¶8-110).
 
@@ -31,9 +31,9 @@ If instead the total taxable supplies were $110,000 (ie the same as the creditab
 
 Simplified accounting methods may apply to retailers who sell food (¶13-215) or who are charities (¶15-060).
 
-The Commissioner also has the power to specify simplified accounting methods for small enterprise entities that make both taxable and GST-free supplies, or that make acquisitions from such supplies. A “small enterprise entity” is:
+The Commissioner also has the power to specify simplified accounting methods for small enterprise entities that make both taxable and GST-free supplies, or that make acquisitions from such supplies. A "small enterprise entity" is:
 
-- a “small business entity” (¶1-250), or
+- a "small business entity" (¶1-250), or
 
 - an entity that does not carry on a business but has a GST turnover (¶3-030) that does not exceed $2
 

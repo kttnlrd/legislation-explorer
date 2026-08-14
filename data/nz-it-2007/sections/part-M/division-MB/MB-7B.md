@@ -14,19 +14,19 @@ compilation_date: 2026-06-06
 
 **(1)**  This section applies for the purpose of determining the amount that represents the family scheme income of a person to whom section MB 8 does not apply for an income year when the person has an employer who makes available—
 
-- (a) a motor vehicle for the person’s private use when, under the terms of the person’s employment, the person would be entitled to a greater amount of employment income should the person choose, or have chosen, not to receive the benefit of the motor vehicle:
+- (a) a motor vehicle for the person's private use when, under the terms of the person's employment, the person would be entitled to a greater amount of employment income should the person choose, or have chosen, not to receive the benefit of the motor vehicle:
 
 - (b) a short-term charge facility as defined in section CX 25(3) (Benefits provided by charitable organisations).
 
 **What is included in family scheme income**
 
-**(2)**  The person’s family scheme income for the income year includes an amount equal to the total for the person and the income year of amounts, each of which is—
+**(2)**  The person's family scheme income for the income year includes an amount equal to the total for the person and the income year of amounts, each of which is—
 
 - (a) the amount by which the employment income of the person would be greater in the absence of a benefit referred to in subsection (1)﻿(a):
 
 - (b) the value, including fringe benefit tax, of a benefit provided to the person under a short-term charge facility referred to in subsection (1)﻿(b), if the total value of such benefits, not including fringe benefit tax, provided in the income year is more than the lesser for the income year of—
 
-  - (i) 5% of the employee’s salary or wages:
+  - (i) 5% of the employee's salary or wages:
 
   - (ii) $1,200.
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(3)**  In calculating under subsection (2)﻿(b) the amount of fringe benefit tax on a benefit, the person may use—
 
-- (a) the rate of fringe benefit tax used by the person’s employer in calculating the fringe benefit tax payable on the benefit:
+- (a) the rate of fringe benefit tax used by the person's employer in calculating the fringe benefit tax payable on the benefit:
 
 - (b) the maximum basic rate of fringe benefit tax specified in schedule 1, part C, table 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 

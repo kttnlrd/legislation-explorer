@@ -3,23 +3,18 @@ ATO ID 2001/664
 ==================================================
 
 Goods and Services Tax
-        GST and meals supplied to residents of independent living units
-        FOI status: may be released
-
+ GST and meals supplied to residents of independent living units
+ FOI status: may be released
 
 ATO ID 2001/664 has been withdrawn. The issues discussed in ATO ID 2001/664 are now covered in Goods and Services Tax Ruling GSTR 2012/0003, 'Goods and services tax: GST treatment of care services and accommodation in retirement villages and privately funded nursing homes and hostels'. GSTR 2012/3 was released on 11 July 2012.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a loan/licence retirement village, making a GST-free supply under section 38-25 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies meals to residents in independent living units?
@@ -34,8 +29,6 @@ Reasons for Decision
 Section 38-25 of the GST Act provides that a supply of certain residential care services, which includes the supply of meals, to the person receiving the care, is GST-free if it is provided by a residential care facility that qualifies for funding under the Aged Care Act 1997, or provided by a facility that receives Commonwealth, State or Territory funding, and the residential care services are provided in accordance with a determination by the Minister responsible for Aged Care. However, as the entity is not an approved provider of residential care under the Aged Care Act 1997 and does not receive Commonwealth, State or Territory funding, subsections 38-25(1) and 38-25(2) of the GST Act do not apply.
 For subsection 38-25(3) of the GST Act to apply, the supply of residential care services through private residential care facilities must satisfy the following criteria:
 
-
-
 •The care recipient is aged or disabled and receiving the care services in a residential setting.
 •The services are provided to the care recipient in accordance with a determination by the Minister responsible for Aged Care.
 •The services include, and are only provided to people who require the services set out in either item 2.1 or item 3.8 of Schedule 1 to the Quality of Care Principles.
@@ -44,18 +37,14 @@ The term 'residential setting' is not defined in the GST Act. However, Acts in p
 Section 38-25 of the GST Act refers to principles made under the Aged Care Act 1997. Therefore, it is permissible to consult the Aged Care Act 1997, as an Act in pari materia, to determine the meaning of the term 'residential setting'. In the context of residential care, 'residential setting' has a similar meaning to 'residential facility' in the Aged Care Act 1997.
 A 'residential facility' in the Aged Care Act 1997 is a facility that provides accommodation that includes:
 
-
-
 •appropriate staffing to meet the nursing and personal care needs of the person
 •meals and cleaning services
 •furnishing, furniture and equipment for the provision of that care and accommodation.
 
-The Aged Care Act 1997 at paragraph 41-3(2)(a) provides that residential care does not include care provided to a person in their  private home. It follows that the terms 'residential facility', and therefore 'residential setting', do not include a private residence.
+The Aged Care Act 1997 at paragraph 41-3(2)(a) provides that residential care does not include care provided to a person in their private home. It follows that the terms 'residential facility', and therefore 'residential setting', do not include a private residence.
 This means that where a person lives in an independent living unit that can be regarded as their own home, it will not come within the ambit of these terms. This applies whether the unit is owned or leased, and whether or not the unit is in a specific complex or in the community at large.
 In this context, 'residential setting' equates with the type of facility provided in the publicly funded residential care sector, for example nursing homes.
 Services provided to a resident of a retirement village, however, may be taken to be provided in a 'residential setting' under subsection 38-25(3A) of the GST Act where the following conditions are satisfied.
-
-
 
 •The person is a resident of a 'serviced apartment' in a retirement village.
 •There is a written agreement under which the entity provides daily meals and heavy laundry services to all the residents of the serviced apartment.
@@ -65,24 +54,21 @@ The term 'serviced apartment' is defined in section 195-1 of the GST Act and fur
 As an independent living unit is not a serviced apartment, the meals are not taken to be provided by the entity in a 'residential setting' under subsection 38-25(3A) of the GST Act.
 The meals supplied by the entity therefore are not GST-free under subsection 38-25(3) of the GST Act as the entity does not supply meals to residents in a 'residential setting' in conjunction with other 'care services'. The supply of meals by the entity to a resident of an independent living unit in the retirement village is a taxable supply under section 9-5 of the GST Act. This is because the supply satisfies the requirements of a taxable supply, including that the entity is registered for GST, and the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act.
 
-Note 1:  As the entity provides meals to residents of independent living units in a dining area, the supply of meals is not GST-free as a supply of 'food' by virtue of paragraph 38-3(1)(a) of the GST Act.
+Note 1: As the entity provides meals to residents of independent living units in a dining area, the supply of meals is not GST-free as a supply of 'food' by virtue of paragraph 38-3(1)(a) of the GST Act.
 
-Note 2:  As the entity is not an endorsed charitable institution or an endorsed trustee of a charitable fund the supply of the meals to a resident of an individual living unit in the retirement village is not GST-free under section 38-260 of the GST Act.
+Note 2: As the entity is not an endorsed charitable institution or an endorsed trustee of a charitable fund the supply of the meals to a resident of an individual living unit in the retirement village is not GST-free under section 38-260 of the GST Act.
 
 Date of decision:
-         31 August 2001
+  31 August 2001
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   section 9-5   paragraph 38-3(1)(a)   section 38-25   subsection 38-25(1)   subsection 38-25(2)   subsection 38-25(3)   subsection 38-25(3A)   section 38-260   section 195-1   Division 38   Division 40
 Aged Care Act 1997   paragraph 41-3(2)(a)   Item 2.1 of Schedule 1 to the Quality of Care Principles   Item 3.8 of Schedule 1 to the Quality of Care Principles
 
-
 Case References:
 
-
 Danziger v. The Hydro-Electric Commission   [1961] Tas SR 20
-
 
 Other References:
 
@@ -91,30 +77,26 @@ Other References:
 Keywords
 
 Goods & services tax
-          GST health
-          Section 38-25 - residential care
-          Taxable supply
-
+ GST health
+ Section 38-25 - residential care
+ Taxable supply
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         30 November 2001
+  30 November 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 31 August 2001

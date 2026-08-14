@@ -3,23 +3,18 @@ ATO ID 2002/979
 ==================================================
 
 GST
-        GST and purchase of trailer using funds from an insurance settlement
-        FOI status: may be released
-
+ GST and purchase of trailer using funds from an insurance settlement
+ FOI status: may be released
 
 This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it purchases a replacement trailer, before 23 May 2001, using funds from an insurance payout?
@@ -37,8 +32,6 @@ Under subsection 20(2) of the GST Act, an entity is not entitled to an input tax
 The entity has acquired a detachable trailer that is designed to be towed using a prime mover, not a car, before 23 May 2001.
 However, under subsection 20(4) of the Transition Act, the phasing in of input tax credits does not apply if the detachable trailer:
 
-
-
 •is acquired to hold as trading stock (unless it is held for hire);
 •is second-hand;
 •would have been sales tax exempt, if sales tax had still applied; or
@@ -49,48 +42,44 @@ The final exclusion in subsection 20(4) of the Transition Act is where an insure
 Accordingly, the acquisition by the entity is not excluded from section 20 of the Transition Act and the phasing in provisions apply to the acquisition of the trailer.
 Therefore, the entity is not entitled to an input tax credit under section 11-20 of the GST Act when it purchases a replacement trailer, before 23 May 2001, using funds from an insurance payout.
 Date of decision:
-         20 March 2002
+  20 March 2002
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   section 11-20
 A New Tax System (Goods and Services Tax Transition) Act 1999   section 20   subsection 20(1)   paragraph 20(1)(b)   subsection 20(2)   subsection 20(4)
-          A New Tax System (End of Sales Tax) Act 1999   1
+ A New Tax System (End of Sales Tax) Act 1999   1
 A New Tax System (Goods and Services Tax Transition) Regulations 2000   regulation 6
 
 Keywords
 
 Goods & services tax
-          GST supplies & acquisitions
-          Creditable acquisition
-          Insurance settlement under an insurance policy
-          GST transitional issues
-          Special transitional rules
-          Motor vehicles
-
+ GST supplies & acquisitions
+ Creditable acquisition
+ Insurance settlement under an insurance policy
+ GST transitional issues
+ Special transitional rules
+ Motor vehicles
 
 Siebel/TDMS Reference Number:
-         CRS79304; 1-KP3KG4G
+  CRS79304; 1-KP3KG4G
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         23 October 2002
+  23 October 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 20 March 2002

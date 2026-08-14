@@ -18,7 +18,7 @@ The terminating modifications that apply under section OA 8(8) (Shareholder cont
 
   - (i) the shareholder continuity requirement applying to the credit is the earlier version of the requirement incorporated in section 394E(2)﻿(g) of the Income Tax Act 1976 (despite its repeal and replacement by section 51 of the Income Tax Act Amendment Act (No 2) 1992); and
 
-  - (ii) the earlier version of the requirement of section 394E(2)﻿(g) applies by reading the figure “66” instead of the figure “75”.
+  - (ii) the earlier version of the requirement of section 394E(2)﻿(g) applies by reading the figure "66" instead of the figure "75".
 
 *Defined in this Act: shareholder*
 

@@ -3,18 +3,14 @@ ATO ID 2004/873
 ==================================================
 
 Income Tax
-        Benchmark Rule: exemption for listed public company
-        FOI status: may be released
-
-
+ Benchmark Rule: exemption for listed public company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the benchmark rule in section 203-25 of Income Tax Assessment Act 1997 (ITAA 1997) apply to a provisional head company of a Multiple Entry Consolidated Group (MEC group) whose parent is a listed public company on a foreign stock exchange?
@@ -30,8 +26,6 @@ A corporate tax entity is required by section 203-25 of the ITAA 1997 to frank a
 The objective of the benchmark rule is to ensure that a corporate tax entity does not, in the act of franking distributions made by it, demonstrate a preference for some members at the expense of others.
 However, the benchmark rule does not apply to a company where each of the criteria in paragraph 203-20(1)(a) of the ITAA 1997 are satisfied. These criteria are as follows:
 
-
-
 (i)at all times during the franking period, the company is a listed public company;
 (ii)the company cannot make a distribution on one membership interest during the franking period without making a distribution under the same resolution on all other membership interests;
 (iii)the company cannot frank a distribution made on one membership interest during the franking period without franking distributions made on all other membership interests under the same resolution with a franking credit worked out using the same franking percentage.
@@ -45,10 +39,10 @@ Y Company, because of residency requirements, will not meet the requirements of 
 Accordingly, Y Company is not subject to the benchmark rule. This conclusion is supported by paragraph 203-20(2)(a) of the ITAA 1997 which sets out an example of a case in which a company will not be subject to the benchmark rule. As set out above, Y Company is a listed public company with a single class of membership interest at all times during the relevant franking period.
 As a 100% subsidiary of Y Company, the benchmark rule will not apply to X Company under paragraph 203-20(1)(b) of the ITAA 1997.
 Date of decision:
-         1 October 2004
+  1 October 2004
 
 Year of income:
-           Year ended 31 March 2004 Year ended 31 March 2005
+  Year ended 31 March 2004 Year ended 31 March 2005
 
 Legislative References:
 
@@ -59,17 +53,16 @@ Income Tax Regulations 1936   Schedule 12
 Keywords
 
 Company tax
-          Imputation system
-
+ Imputation system
 
 Siebel/TDMS Reference Number:
-         4247090
+  4247090
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         5 November 2004
+  5 November 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Meaning of GST ratio**
 
-**(2)**  The person’s GST ratio is the percentage figure that is obtained by dividing their residual income tax for the preceding tax year by their total taxable supplies for the corresponding income year. The amount of residual income tax and the amount of total taxable supplies are called base amounts for the purposes of this section.
+**(2)**  The person's GST ratio is the percentage figure that is obtained by dividing their residual income tax for the preceding tax year by their total taxable supplies for the corresponding income year. The amount of residual income tax and the amount of total taxable supplies are called base amounts for the purposes of this section.
 
 **When amounts based on tax year before preceding tax year**
 
@@ -40,19 +40,19 @@ compilation_date: 2026-06-06
 
   - (ii) the circumstances in paragraph (a)﻿(ii) and (iii) do not exist.
 
-**Commissioner’s calculation**
+**Commissioner's calculation**
 
-**(4)**  The Commissioner must calculate a person’s GST ratio, informing them by—
+**(4)**  The Commissioner must calculate a person's GST ratio, informing them by—
 
-- (a) including the percentage figure on the person’s preprinted GST return form; or
+- (a) including the percentage figure on the person's preprinted GST return form; or
 
 - (c) some other means.
 
 **Adjustment to GST ratio**
 
-**(5)**  The Commissioner must adjust a person’s GST ratio if a base amount is revised through, among other reasons,—
+**(5)**  The Commissioner must adjust a person's GST ratio if a base amount is revised through, among other reasons,—
 
-- (a) an assessment or an amended assessment of the person’s income tax return for the preceding tax year; or
+- (a) an assessment or an amended assessment of the person's income tax return for the preceding tax year; or
 
 - (b) a change in the value of the total taxable supplies for the corresponding income year; or
 

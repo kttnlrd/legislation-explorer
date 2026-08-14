@@ -9,15 +9,15 @@ paragraph: "¶31-500"
 
 The choice of an appropriate recipient (or recipients) for income diverted from a high rate taxpayer by one of the means already discussed will depend on the circumstances of each case, and opportunities available to some taxpayers will be denied to others. That choice may well call for as much skill and judgment on the part of the tax planner as the method of achieving the income diversion itself. Matters to be considered include comparative costs, the possibility of legislative changes, estate planning implications, the degree of sophistication of the taxpayer and their appreciation of legal principles and general understanding of the nature of the vehicle(s) that might be used.
 
-- members of the taxpayer’s family (¶31-510)
+- members of the taxpayer's family (¶31-510)
 
-- a partnership of members of the taxpayer’s family (¶31-520)
+- a partnership of members of the taxpayer's family (¶31-520)
 
 - a family company (¶31-530)
 
 - a discretionary family trust (¶31-540)
 
-- a “loss” company (¶31-550)
+- a "loss" company (¶31-550)
 
 - a unit trust (¶31-560), and/or
 

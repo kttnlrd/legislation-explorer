@@ -7,25 +7,25 @@ paragraph: "¶26-220"
 ---
 # PAYG: payments for a supply ¶26-220
 
-A payer who makes a payment to an entity for a supply that the entity has made, or proposes to make, to the payer in the course of an enterprise carried on in Australia must withhold an amount if none of the following exceptions applies (TAA sch 1 s 12-190(1)). “Supply” has the same meaning as for GST purposes (¶34-100).
+A payer who makes a payment to an entity for a supply that the entity has made, or proposes to make, to the payer in the course of an enterprise carried on in Australia must withhold an amount if none of the following exceptions applies (TAA sch 1 s 12-190(1)). "Supply" has the same meaning as for GST purposes (¶34-100).
 
 The meaning of an entity carrying on an enterprise is discussed in MT 2006/1.
 
-First exception: ABN correctly quoted The payer does not have to withhold an amount if, when the payment is made, the entity has given the payer an invoice that relates to the supply and that quotes the entity’s ABN. Further, no withholding is required if, when the payment is made, the payer has some other document relating to the supply on which the entity’s ABN is quoted (s 12-190(2)). “Some other document” includes a letterhead, order form, business card provided in relation to a supply, a record of an over-the-telephone quotation, email or internet record (TR 2002/9). However, it is not suﬃcient to receive another document after the payment has been made that quotes, or purports to quote, the supplier’s ABN (Queensland Harvesters Pty Ltd 2009 ATC ¶10-088; [2009] AATA 351).
+First exception: ABN correctly quoted The payer does not have to withhold an amount if, when the payment is made, the entity has given the payer an invoice that relates to the supply and that quotes the entity's ABN. Further, no withholding is required if, when the payment is made, the payer has some other document relating to the supply on which the entity's ABN is quoted (s 12-190(2)). "Some other document" includes a letterhead, order form, business card provided in relation to a supply, a record of an over-the-telephone quotation, email or internet record (TR 2002/9). However, it is not suﬃcient to receive another document after the payment has been made that quotes, or purports to quote, the supplier's ABN (Queensland Harvesters Pty Ltd 2009 ATC ¶10-088; [2009] AATA 351).
 
-An ABN may be quoted in writing, in an electronic document, over the telephone or on an internet site (TR 2002/9). An oral quotation needs to be recorded on a document (paper or electronic) held by the payer. In all cases, the ABN must be quoted before or at the time payment is made. A list of “approved suppliers” that contains the suppliers’ ABNs is suﬃciently connected with a later supply where it is reasonably calculated to cover future supplies of that nature. For periodic supplies, the payer should check the list with suppliers at least once a year.
+An ABN may be quoted in writing, in an electronic document, over the telephone or on an internet site (TR 2002/9). An oral quotation needs to be recorded on a document (paper or electronic) held by the payer. In all cases, the ABN must be quoted before or at the time payment is made. A list of "approved suppliers" that contains the suppliers' ABNs is suﬃciently connected with a later supply where it is reasonably calculated to cover future supplies of that nature. For periodic supplies, the payer should check the list with suppliers at least once a year.
 
-Where a supply is made through an agent, the payer need not withhold from the payment if the agent has given the payer an invoice that relates to the supply and gives the agent’s ABN, or the payer has some other document relating to the supply on which the agent’s ABN is quoted (s 12-190(2A)).
+Where a supply is made through an agent, the payer need not withhold from the payment if the agent has given the payer an invoice that relates to the supply and gives the agent's ABN, or the payer has some other document relating to the supply on which the agent's ABN is quoted (s 12-190(2A)).
 
-Second exception: payer has no reason to believe the ABN is incorrectly quoted The payer may have an invoice or document that purports to quote an entity’s ABN but the entity does not have an ABN or the invoice or document does not, in fact, quote the entity’s ABN. In this case, the payer need not withhold an amount if there are no reasonable grounds to believe that the entity does not have an ABN, or that the invoice or document does not quote the entity’s ABN (s 12-190(3)). A payer is not required to check the validity of an ABN on the Australian Business Register (TR 2002/9). An example of “reasonable grounds” would be where a supplier uses diﬀerent names on diﬀerent occasions.
+Second exception: payer has no reason to believe the ABN is incorrectly quoted The payer may have an invoice or document that purports to quote an entity's ABN but the entity does not have an ABN or the invoice or document does not, in fact, quote the entity's ABN. In this case, the payer need not withhold an amount if there are no reasonable grounds to believe that the entity does not have an ABN, or that the invoice or document does not quote the entity's ABN (s 12-190(3)). A payer is not required to check the validity of an ABN on the Australian Business Register (TR 2002/9). An example of "reasonable grounds" would be where a supplier uses diﬀerent names on diﬀerent occasions.
 
 Similarly, a payer is not required to withhold where an ABN is quoted by an agent that does not in fact have an ABN but the payer has no grounds to believe that the ABN quoted is invalid (s 12-190(3A)).
 
 Third exception: no need to quote ABN A payer does not have to withhold an amount if any of the following apply (s 12-190(4)).
 
-- The payer makes the payment for a supply that is not “in the course or furtherance of an
+- The payer makes the payment for a supply that is not "in the course or furtherance of an
 
-  enterprise” carried on in Australia by the payer — this means withholding is not required from
+  enterprise" carried on in Australia by the payer — this means withholding is not required from
 
   payments that are wholly of a private or domestic nature for the payer, and payments by an
 

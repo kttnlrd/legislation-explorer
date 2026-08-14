@@ -3,25 +3,19 @@ ATO ID 2006/196
 ==================================================
 
 Fringe Benefits Tax
-        Fringe Benefits Tax: in house residual expense payment fringe benefit - meaning of 'associate'
-        FOI status: may be released
-
+ Fringe Benefits Tax: in house residual expense payment fringe benefit - meaning of 'associate'
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In terms of the definition of 'associate' as provided for at subsection 136(1) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA) and as expressed in the accompanying diagram, is company W an associate of the employer company E?
-
 
 Decision
 Yes. Company W is an 'associate' of employer company E as provided for in subsection 136(1) of the FBTAA.
@@ -36,26 +30,20 @@ In order to calculate the taxable value of an expense payment fringe benefit, it
 The definition of 'associate' within subsection 136(1) of the FBTAA refers to the definition of 'associate' as provided for in section 318 (formerly section 26AAB) of the Income Tax Assessment Act 1936 (ITAA 1936).
 Subsection 318(2) helps determine who are associates of a company. In this case, the employer, Company E, is under the control of Company D, who is under the control of Company A, who is also a parent company of Company W.
 For the purposes of this Part, the following are associates of a company (in this subsection called the
-          primary entity
+ primary entity
  (in this case, company E));
 Paragraph 318(2)(d) will apply to deem company A, a parent company of company E.
 
 (d) another entity (in this paragraph called the
-                    controlling entity
+ controlling entity
 ) where:
 
-
-
 (i) the primary entity is sufficiently influenced by:
-
-
 
 (A) the controlling entity; or
 (B) the controlling entity and another entity or entities; or
 
 (ii) a majority voting interest in the primary entity is held by:
-
-
 
 (A) the controlling entity; or
 (B) the controlling entity and the entities that, if the controlling entity were the primary entity, would be associates of the controlling entity because of subsection (1), because of subparagraph (i) of this paragraph, because of another paragraph of this subsection or because of subsection (3);
@@ -65,14 +53,10 @@ The next step is determining if Company W is an associate of Company E.
 Paragraph 318(2)(e) states:
 
 (e) another company (in this paragraph [is] called the
-                    controlled company
+ controlled company
 ) where:
 
-
-
 (i) the controlled company is sufficiently influenced by:
-
-
 
 (A) the primary entity; or
 (B) another entity that is an associate of the primary entity because of another paragraph of this subsection; or
@@ -80,8 +64,6 @@ Paragraph 318(2)(e) states:
 (D) 2 or more entities covered by the preceding sub-subparagraphs; or
 
 (ii) a majority voting interest in the controlled company is held by:
-
-
 
 (A) the primary entity; or
 (B) the entities that are associates of the primary entity because of subparagraph (i) of this paragraph and the other paragraphs of this subsection; or
@@ -126,10 +108,10 @@ Removed referencs to subparagraph 136(1)(c)(i) of FBTAA.
 Removed references to section 26AAB, and to subsections, paragrapahs and subparagraphs under section 26AAB.
 
 Date of decision:
-         25th July 2006
+  25th July 2006
 
 Year of income:
-           Year ended 31 March 2007
+  Year ended 31 March 2007
 
 Legislative References:
 
@@ -139,37 +121,33 @@ Income Tax Assessment Act 1936   section 318   paragraph 318(2)(e)
 Keywords
 
 Associate
-          FBT associates
-          Fringe benefits tax
-          In-house residual expense payment fringe benefit
-          FBT documentary evidence
-
+ FBT associates
+ Fringe benefits tax
+ In-house residual expense payment fringe benefit
+ FBT documentary evidence
 
 Siebel/TDMS Reference Number:
-         5224273;
+  5224273;
 
 Business Line:
-         Superannuation and Employer Obligations
+  Superannuation and Employer Obligations
 
 Date of publication:
-         4 August 2006
+  4 August 2006
 
 Date reviewed:
-         5 March 2026
+  5 March 2026
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 25 July 2006

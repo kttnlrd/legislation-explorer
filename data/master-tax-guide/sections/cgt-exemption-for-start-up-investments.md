@@ -7,11 +7,11 @@ paragraph: "¶11-910"
 ---
 # CGT: exemption for start-up investments ¶11-910
 
-A CGT exemption applies for investments made, whether directly or indirectly, in a start-up known as an Early Stage Innovation Company (“ESIC”).
+A CGT exemption applies for investments made, whether directly or indirectly, in a start-up known as an Early Stage Innovation Company ("ESIC").
 
 ESIC Generally, a company qualiﬁes as an ESIC if it is at an early stage of its development and it is developing new or signiﬁcantly improved innovations with the purpose of commercialisation to generate an economic return.
 
-1. At the time of the investment the company was: a. incorporated in Australia within the last 3 income years b. incorporated in Australia within the last 6 income years and across the last 3 of those income years it and its 100% subsidiaries (if any) incurred total expenses of $1 million or less, or c. registered with the Australian Business Register within the last 3 income years 2. the company and its subsidiaries (if any) incurred expenses of $1 million or less in the immediately preceding income year 3. the company and its subsidiaries (if any) derived no more than $200,000 assessable income in the immediately preceding income year 4. none of the company’s equity interests are listed on any stock exchange, and 5. the company is undertaking an “eligible business” (s 360-40(1)).
+1. At the time of the investment the company was: a. incorporated in Australia within the last 3 income years b. incorporated in Australia within the last 6 income years and across the last 3 of those income years it and its 100% subsidiaries (if any) incurred total expenses of $1 million or less, or c. registered with the Australian Business Register within the last 3 income years 2. the company and its subsidiaries (if any) incurred expenses of $1 million or less in the immediately preceding income year 3. the company and its subsidiaries (if any) derived no more than $200,000 assessable income in the immediately preceding income year 4. none of the company's equity interests are listed on any stock exchange, and 5. the company is undertaking an "eligible business" (s 360-40(1)).
 
 An eligible business will be a business that has at least 100 points under the test in s 360-45, or is a company genuinely focused on developing its new or signiﬁcantly improved innovation (in the form of products, processes, services or marketing or organisational methods) for the purpose of commercialisation and shows that the business relating to that innovation:
 

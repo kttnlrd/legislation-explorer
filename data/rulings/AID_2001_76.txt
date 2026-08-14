@@ -3,23 +3,18 @@ ATO ID 2001/76
 ==================================================
 
 Income Tax
-        Depreciation: Plant (Telephone cables and fittings for Computer System)
-        FOI status: may be released
-
+ Depreciation: Plant (Telephone cables and fittings for Computer System)
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database because it contains a view in respect of provisions of the Income Tax Assessment Act 1997 that were repealed with effect from 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions relating to the former provisions.'
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Whether telephone cables and fittings installed in a building on a permanent basis for the purpose of linking computers and servers to an Internet server company, are plant for the purposes of Division 42 (Income Tax Assessment Act 1997 (ITAA 1997))? If depreciable, whether the cables and fittings are separate units of plant or whether they form part of the computer system as an entirety.
@@ -35,7 +30,7 @@ In the depreciation provisions of the Income Tax Assessment Act 1936 (ITAA 1936)
 There is no statutory definition of the expression 'unit of property'. However, there is considerable case law and Taxation Ruling TR 94/11 (Income tax: general investment allowance - what is a unit of property?) considers the expression as used in the former investment allowance provisions. The case law and the Taxation Ruling indicate that whether a particular item is a unit of property is a question of fact and degree. However, the primary test of a 'unit of property' is one of functionality. If the item of plant has a separate discrete function and can be identified separately, it can be considered a unit of plant in its own right. (Tully Co-operative Sugar Milling Association Ltd v FC of T 83 ATC 4495; 14 ATR 495, Monier Colourtile Pty Ltd v FC of T 83 ATC 4399; 14 ATR 379)
 The cables and fittings perform a discrete function: they link the computer system to the Internet server company. The items also vary the performance of the computer system by providing access to a product to which the system did not previously have access. The cables and fittings are separate units of property from the computer system and have a function distinct from the rest of the computer system even though the results of that function cannot be seen without the attachment of the computers.
 Date of decision:
-         30 October 1998
+  30 October 1998
 
 Legislative References:
 
@@ -44,18 +39,16 @@ Income Tax Assessment Act 1997   section 42-15
 
 Case References:
 
-
 Yarmouth v France   (1887) 19 QBD 647
 
 Ready Mixed Concrete (Vic) Pty Ltd v FC of T   69 ATC 4038   1 ATR 123
 
 FC of T v Tully Co-operative Sugar Milling Assoc Ltd   83 ATC 4495   14 ATR 495
-          Case M98   80 ATC 689
+ Case M98   80 ATC 689
 
 Monier Colourtile Pty Ltd v FC of T   83 ATC 4399   14 ATR 379
 
 Wangaratta Woollen Mills Ltd v FC of T   69 ATC 4095   1 ATR 329
-
 
 Related Public Rulings (including Determinations)
 
@@ -64,30 +57,26 @@ TR 94/11 - Income tax: general investment allowance - what is a unit of property
 Keywords
 
 Depreciable plant and articles
-          Depreciation
-          Depreciation rates
-          Unit of property
-
+ Depreciation
+ Depreciation rates
+ Unit of property
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         15 June 2001
+  15 June 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 30 October 1998

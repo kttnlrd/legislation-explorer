@@ -3,18 +3,14 @@ ATO ID 2008/80
 ==================================================
 
 Income Tax
-        Foreign Hybrid Limited Partnership: Delaware Limited Partnership
-        FOI status: may be released
-
-
+ Foreign Hybrid Limited Partnership: Delaware Limited Partnership
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a limited partnership, formed in the United States, under the Delaware Revised Uniform Limited Partnership Act (Del.) (DRULPA) be a foreign hybrid limited partnership within the meaning of subsection 830-10(1) of Division 830 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -23,8 +19,6 @@ Yes. A limited partnership formed under the DRULPA can be a foreign hybrid limit
 Facts
 Limited partnerships (LP) in Delaware are governed by the DRULPA which forms Chapter 17 of Title 6 to the Delaware Code. Section 17-1105 of the DRULPA provides that 'in any case not provided for' reference may also be made to the Delaware Revised Uniform Partnership Act (DRUPA) which forms Chapter 15 of Title 6 to the Delaware Code.
 An LP is formed under the DRULPA by executing a certificate of limited partnership. Under the Delaware legislation, an LP has the following features:
-
-
 
 •the LP and the limited partners are bound by the partnership agreement (subsection 17-101(10) of the DRULPA)
 •the partnership agreement may provide for classes or group of limited partners with voting rights as specified in the partnership agreement (section 17-302 of the DRULPA)
@@ -36,8 +30,6 @@ An LP is formed under the DRULPA by executing a certificate of limited partnersh
 •a partnership interest can be assigned and an assignment does not dissolve the LP (section 17-702 of the DRULPA).
 
 The partners to the LP have executed a partnership agreement (LP Agreement) which includes the following terms:
-
-
 
 •each limited partner's liability is limited
 •death or incapacity of a partner does not dissolve the partnership, however, the partnership is formed for a fixed period of time, and may be terminated upon bankruptcy of the general partner
@@ -51,16 +43,12 @@ Reasons for Decision
 For a limited partnership to be a foreign hybrid limited partnership, it must satisfy all of the requirements in section 830-10 of the ITAA 1997, including meeting the definition of 'limited partnership'.
 'Limited partnership' is defined, as relevant, in section 995-1 of the ITAA 1997 to mean:
 
-
-
 (a)an association of persons (other than a company) carrying on business as partners or in receipt of *ordinary income or *statutory income jointly, where the liability of at least one of those persons is limited; or
 (b)...
 
 As each limited partner's liability is limited under the LP agreement, the LP will be a limited partnership if it is 'an association of persons (other than a company) carrying on business as partners or in receipt of ordinary income or statutory income jointly'.
 An LP formed under the DRULPA has features both commonly associated with a business carried on by partners as partners and with a company. In particular, while separate legal entity status is more commonly associated with companies, (for example see Rose v. Federal Commissioner of Taxation (1951) 84 CLR 118, (1951) 9 ATD 334, (1951) 5 AITR 197) this feature of itself does not necessarily lead to characterisation as a company. Rather, the question remains as to whether the business is being carried on by the relevant persons as partners (as opposed to by the separate legal entity on its own behalf) (see for example Major (Inspector of Taxes) v. Brodie & Another [1998] STC 491, at 498.)
 In this particular case there are a number of features which favour characterisation of the LP as a partnership. These include:
-
-
 
 •the relationship is formalised through, and governed by, a partnership agreement (as opposed to a memorandum of association)
 •the LP does not have perpetual succession in the same manner as a company, insofar as the partnership is formed for a fixed period of time and will be terminated upon bankruptcy and so on of the general partner
@@ -72,10 +60,10 @@ In this particular case there are a number of features which favour characterisa
 The business is organised and conducted more in line with how a partnership operates than a company and the profits, as they arise, belong to the partners indicating that it is the partners carrying on the business and not the separate legal entity. Therefore, despite the fact that the partnership has separate legal status, the predominance of characteristics favours classification as a partnership.
 As such the LP is a 'limited partnership' within the meaning of section 995-1 of the ITAA 1997. Providing the remaining conditions in section 830-10 of the ITAA 1997 are met, the LP may therefore be a 'foreign hybrid limited partnership'.
 Date of decision:
-         16 April 2004
+  16 April 2004
 
 Year of income:
-           Year ended 30 June 2007 Year ended 30 June 2008
+  Year ended 30 June 2007 Year ended 30 June 2008
 
 Legislative References:
 
@@ -83,33 +71,29 @@ Income Tax Assessment Act 1997   Division 830   section 830-10   subsec
 
 Case References:
 
-
 Rose v. Federal Commissioner of Taxation   (1951) 84 CLR 118   (1951) 9 ATD 334   (1951) 5 AITR 197
 
 Major (Inspector of Taxes) v. Brodie & Another   [1998] STC 491
 
-
 Other References:
 
 Delaware Revised Uniform Limited Partnership Act (Del.)
-          Delaware Revised Uniform Partnership Act (Del.)
-
+ Delaware Revised Uniform Partnership Act (Del.)
 
 Keywords
 
 Companies
-          Foreign hybrid limited partnership
-          Limited partnerships
-
+ Foreign hybrid limited partnership
+ Limited partnerships
 
 Siebel/TDMS Reference Number:
-         5773085
+  5773085
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 May 2008
+  30 May 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -7,9 +7,9 @@ paragraph: "None"
 ---
 # 9-100 - Trust losses income injection test
 
-Worked example: Trust losses; income injection test Issue The Grapevine Family Trust carries on a profitable winery business in the Hunter Valley region in New South Wales. The trustee is Travis Mason and the beneficiaries include himself, his wife Anna and son Lucas and the Speciality Wines Trust. The Speciality Wines Trust is Lucas’s family trust which commenced its wine wholesaling business in the 2022–23 tax year and of which Lucas is the trustee. The beneficiaries of the Speciality Wines Trust are Travis Mason, Anna and Lucas himself. No interposed election has been made to include the Speciality Wines Trust in the Grapevine Family Trust’s family group.
+Worked example: Trust losses; income injection test Issue The Grapevine Family Trust carries on a profitable winery business in the Hunter Valley region in New South Wales. The trustee is Travis Mason and the beneficiaries include himself, his wife Anna and son Lucas and the Speciality Wines Trust. The Speciality Wines Trust is Lucas's family trust which commenced its wine wholesaling business in the 2022–23 tax year and of which Lucas is the trustee. The beneficiaries of the Speciality Wines Trust are Travis Mason, Anna and Lucas himself. No interposed election has been made to include the Speciality Wines Trust in the Grapevine Family Trust's family group.
 
-The trust deed of the Speciality Wines Trust defines trust income to be the trust’s taxable income derived during the year. During the 2023–24 tax year, the Speciality Wines Trust incurred a loss of $800,000 under ITAA97 s 36-10 which had been carried forward. The Grapevine Family trust is currently profitable, and this is expected to continue in future years.
+The trust deed of the Speciality Wines Trust defines trust income to be the trust's taxable income derived during the year. During the 2023–24 tax year, the Speciality Wines Trust incurred a loss of $800,000 under ITAA97 s 36-10 which had been carried forward. The Grapevine Family trust is currently profitable, and this is expected to continue in future years.
 
 Travis Mason as trustee of the Grapevine Family Trust allocated $800,000 of the trust income to the Speciality Wines Trust during the 2024–25 income year. However, the trustees had an informal agreement (not evidenced in writing) that the amount was a loan and that this amount was lent in good faith. The terms of the repayment of the loan were negotiable between the trustees.
 
@@ -37,7 +37,7 @@ These requirements include that a trust has a tax loss/allowable deduction (but 
 
   allowable
 
-- the trust is not an “excepted trust” (s 272-100)
+- the trust is not an "excepted trust" (s 272-100)
 
 Where these tests are satisfied, the assessable income will be included in the net income of the trust.
 
@@ -59,9 +59,9 @@ Grapevine Family Trust is an outsider of the Specialty Wines Trust
 
 As a result, the Grapevine Family trust has effectively alienated $800,000 of income which would have been subject to tax in the 2024–25 income year and thereby satisfied the requirements of s 270-10(1)(c). Despite, the promise of the Grapevine Family Trust being repaid, the terms of the borrowing indicate that it is not commercial. Consequently, the benefits provided by the 2 trusts to each other, appear to have been solely created as a result of the existence of previous year loss deductions in the Speciality Wines Trust and the desire to generate a tax benefit.
 
-In these circumstances, the income injection test negates the tax benefit by increasing the net income of the Speciality Wines Trust to match the $800,000 allocation from the Grapevine Family Trust. As a result, the loss deduction is disallowed against the “scheme assessable income” for the 2024–25 income year (s 270-15). This treatment does not prevent the deductibility of other deductions of the Speciality Wines Trust while losses may continue to be carried forward to future years.
+In these circumstances, the income injection test negates the tax benefit by increasing the net income of the Speciality Wines Trust to match the $800,000 allocation from the Grapevine Family Trust. As a result, the loss deduction is disallowed against the "scheme assessable income" for the 2024–25 income year (s 270-15). This treatment does not prevent the deductibility of other deductions of the Speciality Wines Trust while losses may continue to be carried forward to future years.
 
-Also, the income injection test may still operate in this scenario regardless of whether the terms of the arrangement between the trusts were commercial. Where there is an intention to create a tax benefit (ie a reduction in income and tax payable of the Grapevine Family Trust in this case) this anti-avoidance rule will apply. For instance, the income injection test applied in Corporate Initiatives Pty Ltd & Ors v FC of T 2005 ATC 4392 where losses were provided to a trust estate under a “scheme” (defined broadly), the income injection test applied to deny the tax benefit.
+Also, the income injection test may still operate in this scenario regardless of whether the terms of the arrangement between the trusts were commercial. Where there is an intention to create a tax benefit (ie a reduction in income and tax payable of the Grapevine Family Trust in this case) this anti-avoidance rule will apply. For instance, the income injection test applied in Corporate Initiatives Pty Ltd & Ors v FC of T 2005 ATC 4392 where losses were provided to a trust estate under a "scheme" (defined broadly), the income injection test applied to deny the tax benefit.
 
 *Refs: ITAA97 s 36-10, s 270-10(1), s 270-25), s
 270-20), s 272-100), s 270-10(1)(, s

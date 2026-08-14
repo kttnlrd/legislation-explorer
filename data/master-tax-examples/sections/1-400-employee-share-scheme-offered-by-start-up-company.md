@@ -15,7 +15,7 @@ The market value of each Solo share acquired by Vlad is $1.00 and he pays $0.85 
 
 Explain the tax consequences for Vlad and Solo Pty Ltd.
 
-Solution Typically, when a company establishes an ESS for employees, an “ESS interest” in the company may be offered at a discount to market value. An ESS interest is a beneficial interest in a share in the company or a right to acquire a beneficial interest in a share in the company (ITAA97 s 83A-10).
+Solution Typically, when a company establishes an ESS for employees, an "ESS interest" in the company may be offered at a discount to market value. An ESS interest is a beneficial interest in a share in the company or a right to acquire a beneficial interest in a share in the company (ITAA97 s 83A-10).
 
 As a general rule, the discount amount is assessable income for the employee and:
 
@@ -27,7 +27,7 @@ As a general rule, the discount amount is assessable income for the employee and
 
   was at real risk of forfeiture and the risk has been lifted (s 83A-35).
 
-From 1 July 2015, special concessions are available for “eligible start-up companies” that reward their employees by offering an ESS interest at a discount to market value. Instead of the discount being included in assessable income, any future increase in the value of the share is taxed as a capital gain when the share is disposed of, with 50% CGT relief being available if the employee has held the share for at least 12 months (s 83A-33).
+From 1 July 2015, special concessions are available for "eligible start-up companies" that reward their employees by offering an ESS interest at a discount to market value. Instead of the discount being included in assessable income, any future increase in the value of the share is taxed as a capital gain when the share is disposed of, with 50% CGT relief being available if the employee has held the share for at least 12 months (s 83A-33).
 
 A company is an eligible start-up company if it satisfies various conditions including:
 
@@ -43,8 +43,8 @@ A company is an eligible start-up company if it satisfies various conditions inc
 
 As Solo Pty Ltd is not listed on any stock exchange, was incorporated less than 10 years ago and has an aggregated turnover of less than $50 million, it is an eligible start-up company.
 
-The market value of each of the 2,500 Solo shares acquired by Vlad is $1.00 and he pays $0.85 per share, which means he has acquired them at a 15% discount. Vlad’s ESS interests will qualify for the start-up concession if he meets any conditions relevant to his own circumstances, for example, holding the shares for at least 3 years or until his employment ends.
+The market value of each of the 2,500 Solo shares acquired by Vlad is $1.00 and he pays $0.85 per share, which means he has acquired them at a 15% discount. Vlad's ESS interests will qualify for the start-up concession if he meets any conditions relevant to his own circumstances, for example, holding the shares for at least 3 years or until his employment ends.
 
-If Vlad chooses the start-up concession, he does not need to report an ESS discount amount in 2024–25, the year he acquired the shares, but he needs to report the capital gain or capital loss he makes in the later year when he sells the shares. In calculating the capital gain or capital loss, the cost base of Vlad’s shares is set at market value ($1.00 per share), and a 50% CGT discount is available if he holds the shares for at least 12 months.
+If Vlad chooses the start-up concession, he does not need to report an ESS discount amount in 2024–25, the year he acquired the shares, but he needs to report the capital gain or capital loss he makes in the later year when he sells the shares. In calculating the capital gain or capital loss, the cost base of Vlad's shares is set at market value ($1.00 per share), and a 50% CGT discount is available if he holds the shares for at least 12 months.
 
 *Refs: ITAA97 s 83A-10), s 83A-25), s 83A-35), s 83A-33)*

@@ -13,9 +13,9 @@ At 30 June 2024, her total superannuation balance was $1.5 million and, at 30 Ju
 
 Advise Jane on the feasibility of her plan.
 
-Solution The concept of a “total superannuation balance” applies from 1 July 2017 as a method for valuing an individual’s total superannuation interests at a particular time and for limiting the amount of superannuation contributions that can be made. The concept was introduced by the Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016 (Act No 81 of 2016).
+Solution The concept of a "total superannuation balance" applies from 1 July 2017 as a method for valuing an individual's total superannuation interests at a particular time and for limiting the amount of superannuation contributions that can be made. The concept was introduced by the Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016 (Act No 81 of 2016).
 
-An individual’s total superannuation balance (ITAA97 s 307-230) at a particular time is calculated as the sum of:
+An individual's total superannuation balance (ITAA97 s 307-230) at a particular time is calculated as the sum of:
 
 - the accumulation phase value of their superannuation interests that are not in the retirement phase
 
@@ -39,7 +39,7 @@ The bring forward to a year (the first year) of the non-concessional contributio
 
 - They are under 75 years (67 years until 30 June 2022) at any time in the first year.
 
-Eligible individuals may be able to bring forward 2 years’ worth of entitlements to make non-concessional contributions, and so can make 3 years’ non-concessional contributions in one year without exceeding their non-concessional contributions cap.
+Eligible individuals may be able to bring forward 2 years' worth of entitlements to make non-concessional contributions, and so can make 3 years' non-concessional contributions in one year without exceeding their non-concessional contributions cap.
 
 For 2024–25, an individual who is eligible to bring forward 2 years of entitlements would normally have a non-concessional contributions cap of $360,000, subject to their total superannuation balance not being too high. For those whose total superannuation balance is approaching the $1.9 million cap, special rules apply whereby the amount of the cap an individual may bring forward is:
 
@@ -61,9 +61,9 @@ In this case, as Jane has not previously determined her non-concessional contrib
 
 - her total superannuation balance, which is $1.5 million as at 30 June 2024, is not too high.
 
-Jane can therefore do what she wants, that is, to bring forward $240,000 (being 2 years’ worth of entitlements to make non-concessional contributions) for the year ended 30 June 2025.
+Jane can therefore do what she wants, that is, to bring forward $240,000 (being 2 years' worth of entitlements to make non-concessional contributions) for the year ended 30 June 2025.
 
-The question states that, immediately before the start of the 2025–26 income year (as at 30 June 2025), Jane’s total superannuation balance was $1.9 million. In that case, her cap for 2025–26 would be reduced to nil and she could not make any non-concessional contributions for the year. If the value of her total superannuation balance were to fall during 2025–26, she may be able to make non-concessional contributions in 2026–27 depending on her balance at 30 June 2026.
+The question states that, immediately before the start of the 2025–26 income year (as at 30 June 2025), Jane's total superannuation balance was $1.9 million. In that case, her cap for 2025–26 would be reduced to nil and she could not make any non-concessional contributions for the year. If the value of her total superannuation balance were to fall during 2025–26, she may be able to make non-concessional contributions in 2026–27 depending on her balance at 30 June 2026.
 
 *Refs: ITAA97 s 307-230), ITAA97 s
 292-85(3)), ITAA97 s 292-85(5))*

@@ -15,7 +15,7 @@ source_pdf: "vol01.pdf"
 
 # 8ZN  Costs
 
-In a prosecution for a prescribed taxation offence, the court may award costs against any party. Authorised Version C2026C00170 registered 28/04/2026
+In a prosecution for a prescribed taxation offence, the court may award costs against any party.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

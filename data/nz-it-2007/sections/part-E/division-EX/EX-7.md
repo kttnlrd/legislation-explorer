@@ -14,9 +14,9 @@ compilation_date: 2026-06-06
 
 **(1)**  A person has an indirect control interest in a foreign company to the extent to which the rules in this section attribute to them some or all of the direct control interests held by a CFC in the foreign company.
 
-**Attribution of CFC’s direct interests**
+**Attribution of CFC's direct interests**
 
-**(2)**  A CFC’s direct control interest in another foreign company is attributed under subsections (3) to (11).
+**(2)**  A CFC's direct control interest in another foreign company is attributed under subsections (3) to (11).
 
 **Associates**
 
@@ -24,19 +24,19 @@ compilation_date: 2026-06-06
 
 **Attribution to smallest controlling group**
 
-**(4)**  Subsections (6) to (11) apply to attribute the CFC’s direct control interests to the smallest controlling group, to ensure that the attribution exercise does not dilute recognition of a factual chain of control.
+**(4)**  Subsections (6) to (11) apply to attribute the CFC's direct control interests to the smallest controlling group, to ensure that the attribution exercise does not dilute recognition of a factual chain of control.
 
 **Attribution on basis of respective income interests**
 
-**(5)**  If the CFC’s direct control interests are attributed to more than 1 person, the direct control interests are divided in proportion to each group member’s respective income interest in the CFC.
+**(5)**  If the CFC's direct control interests are attributed to more than 1 person, the direct control interests are divided in proportion to each group member's respective income interest in the CFC.
 
 **One controlling group**
 
-**(6)**  If there is only 1 group of New Zealand residents whose control interests have caused the CFC to be a CFC under section EX 1, the CFC’s direct control interests are treated as being held by that group.
+**(6)**  If there is only 1 group of New Zealand residents whose control interests have caused the CFC to be a CFC under section EX 1, the CFC's direct control interests are treated as being held by that group.
 
 **More than 1 group**
 
-**(7)**  If there is more than 1 group whose control interests have caused the CFC to be a CFC under section EX 1, the CFC’s direct control interests are attributed to the smallest group.
+**(7)**  If there is more than 1 group whose control interests have caused the CFC to be a CFC under section EX 1, the CFC's direct control interests are attributed to the smallest group.
 
 **Equal smallest groups**
 

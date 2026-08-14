@@ -9,7 +9,7 @@ paragraph: "¶10-091"
 
 Division 83A contains a number of integrity rules, including employer reporting requirements and tax ﬁle number (TFN) withholding tax provisions, as discussed below.
 
-Employer reporting A company that provides an ESS interest (¶10-085) to an employee under an employee share scheme (“provider”) during an income year must, at the end of the income year (and in certain cases, at the end of a later year) give a statement to the Commissioner and to the employee if:
+Employer reporting A company that provides an ESS interest (¶10-085) to an employee under an employee share scheme ("provider") during an income year must, at the end of the income year (and in certain cases, at the end of a later year) give a statement to the Commissioner and to the employee if:
 
 - the provider provided interests to the employee during the year that were taxed under Subdiv
 
@@ -21,7 +21,7 @@ Employer reporting A company that provides an ESS interest (¶10-085) to an empl
 
   sch 1 s 392-5(1)).
 
-The statement must be in the approved form and may require certain information, eg the provider's ABN, the employee's details, information about the ESS interests provided, the provider's estimate of the market value of the interests at the time of acquisition, the amount paid towards the acquisition and the amount of “TFN withholding tax (ESS)” (see below) paid or payable by the provider in respect of the interests.
+The statement must be in the approved form and may require certain information, eg the provider's ABN, the employee's details, information about the ESS interests provided, the provider's estimate of the market value of the interests at the time of acquisition, the amount paid towards the acquisition and the amount of "TFN withholding tax (ESS)" (see below) paid or payable by the provider in respect of the interests.
 
 Further, the statements must be given by the provider to the employee no later than 14 July after the end of the year, and to the Commissioner no later than 14 August after the end of the year (TAA sch 1 s 392-5(5), (7)), although the Commissioner may defer the deadlines. For these purposes, the year is the ﬁnancial year in which the ESS deferred taxing point occurs.
 
@@ -59,11 +59,11 @@ Other integrity rules
 
   company or a subsidiary of the holding company of that company (ss 83A-45(3); 83A-105(1)(b)).
 
-Refund for forfeited shares in employee share schemes A refund is available for tax paid on an “ESS interest” (¶10-085) where the employee had no choice but to forfeit the interest (other than a choice to cease employment or a choice not to exercise a right or to let a right be cancelled), and where the conditions of the scheme were not constructed to protect the employee from market risk (s 83A-310).
+Refund for forfeited shares in employee share schemes A refund is available for tax paid on an "ESS interest" (¶10-085) where the employee had no choice but to forfeit the interest (other than a choice to cease employment or a choice not to exercise a right or to let a right be cancelled), and where the conditions of the scheme were not constructed to protect the employee from market risk (s 83A-310).
 
 In particular, Div 83A is taken never to have applied in relation to an ESS interest (thereby resulting in a refund of income tax paid) where:
 
-- an amount is included in the employee’s assessable income under Div 83A in relation to an ESS
+- an amount is included in the employee's assessable income under Div 83A in relation to an ESS
 
   interest
 

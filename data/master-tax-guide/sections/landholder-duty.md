@@ -29,7 +29,7 @@ Details of the landholder provisions in each state and territory are as follows:
 
   an interest of 20% or more. The former 50% acquisition threshold remains for a new category of
 
-“wholesale unit trust”.
+"wholesale unit trust".
 
 - Victoria: landholder duty is payable where there is an acquisition of a signiﬁcant interest, or an
 
@@ -37,7 +37,7 @@ Details of the landholder provisions in each state and territory are as follows:
 
   trust scheme (whether private or public) that has land holdings in Victoria with an unencumbered
 
-  value of $1 million or more. The thresholds for a “signiﬁcant interest” are: 20% for a private unit
+  value of $1 million or more. The thresholds for a "signiﬁcant interest" are: 20% for a private unit
 
   trust scheme; 50% for a private company or wholesale unit trust scheme; and 90% for a listed
 
@@ -53,7 +53,7 @@ Details of the landholder provisions in each state and territory are as follows:
 
   private landholder, or a 90% or greater interest in a public landholder. Where the trust is not a listed
 
-  unit trust, duty may apply under the rules for “trust acquisitions”.
+  unit trust, duty may apply under the rules for "trust acquisitions".
 
 - South Australia: landholder duty applies when a person or group of associates acquires 50% or
 
@@ -61,7 +61,7 @@ Details of the landholder provisions in each state and territory are as follows:
 
   owns land. Landholder duty also applies where there is an acquisition of 90% or more of the shares
 
-  or units of a listed “landholder” company or trust. Landholder duty replaced land rich duty in South
+  or units of a listed "landholder" company or trust. Landholder duty replaced land rich duty in South
 
 Australia from 1 July 2011.
 
@@ -85,7 +85,7 @@ Australia from 1 July 2011.
 
   or unit trust scheme (whether private or public) that has land holdings in Tasmania with an
 
-  unencumbered value of $500,000 or more. The thresholds for a “signiﬁcant interest” are: 50% for
+  unencumbered value of $500,000 or more. The thresholds for a "signiﬁcant interest" are: 50% for
 
   a private company or unit trust scheme and 90% for a listed company or public unit trust scheme.
 

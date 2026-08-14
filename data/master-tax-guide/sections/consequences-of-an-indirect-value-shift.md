@@ -9,7 +9,7 @@ paragraph: "¶12-850"
 
 The indirect value shifting rules in Div 727 do not give rise to assessable gains or losses. Instead, adjustments are made for the consequential or indirect eﬀects of the value shift. The consequences are limited to either reducing losses or gains that would otherwise arise when the interests are realised or, where a choice is made, varying the adjustable values of interests held by aﬀected owners. Special rules apply for interests held as trading stock or revenue assets.
 
-To work out the consequences of an indirect value shift, the “realisation time method” applies unless a choice is made to use the “adjustable value method” (s 727-455).
+To work out the consequences of an indirect value shift, the "realisation time method" applies unless a choice is made to use the "adjustable value method" (s 727-455).
 
 An indirect value shift only has consequences if the losing entity and gaining entity satisfy an ultimate controller test or, if both entities are closely held, a common ownership test. There are only consequences for an aﬀected owner of certain equity or loan interests in the losing entity or gaining entity.
 

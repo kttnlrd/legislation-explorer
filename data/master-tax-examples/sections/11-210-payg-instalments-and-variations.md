@@ -23,7 +23,7 @@ Solution Under the Pay As You Go (PAYG) instalment regime (Div 45, Sch 1 TAA 195
 
 When the taxpayer lodges their tax return, these instalments are credited against their income tax liability and any excess amounts paid are refunded.
 
-The calculation of these PAYG instalments, and the number of instalments required in a year, is dependent upon a taxpayer’s circumstances. Taxpayers can vary the amount of a PAYG instalment if the total does not reflect their expected income tax liability for the year.
+The calculation of these PAYG instalments, and the number of instalments required in a year, is dependent upon a taxpayer's circumstances. Taxpayers can vary the amount of a PAYG instalment if the total does not reflect their expected income tax liability for the year.
 
 A taxpayer only needs to pay PAYG instalments if they have been notified by the ATO, based on information reported in the latest tax return. The ATO then works out the level of instalment income based on gross business and investment income, excluding GST and capital gains.
 
@@ -83,29 +83,29 @@ Benchmark tax is not the same as the total tax payable as capital gains are not 
 
 Depending on the circumstances there may also be penalties, although these are rare. They require a scheme that is inconsistent with the purposes and objects of the PAYG instalments regime (Subdiv 45-P).
 
-A straightforward use of structural features of the PAYG instalments system (such as varying an instalment) does not give rise to such a penalty (s 45-595(2)). Even if a tax benefit is found to exist, the “penalty” is generally just GIC.
+A straightforward use of structural features of the PAYG instalments system (such as varying an instalment) does not give rise to such a penalty (s 45-595(2)). Even if a tax benefit is found to exist, the "penalty" is generally just GIC.
 
 To manually calculate the amounts of the quarterly instalment amount, the following method is followed.
 
 - For the first quarter
 
-– 25% of the taxpayer’s estimated tax for the income year (the ATO advised GDP-adjusted notional tax will be used if the taxpayer has not varied the instalment and the estimated benchmark tax will be used where there has been a variation in this or a previous quarter)
+– 25% of the taxpayer's estimated tax for the income year (the ATO advised GDP-adjusted notional tax will be used if the taxpayer has not varied the instalment and the estimated benchmark tax will be used where there has been a variation in this or a previous quarter)
 
 - For the second quarter
 
-  – 50% of the taxpayer’s estimated tax for the income year
+  – 50% of the taxpayer's estimated tax for the income year
 
 – minus the amount of the first quarter instalment
 
 - third quarter
 
-  – 75% of the taxpayer’s estimated tax for the income year
+  – 75% of the taxpayer's estimated tax for the income year
 
 – minus the amount of the first and second quarter instalments – plus any PAYG instalment credits claimed for the second quarter
 
 - fourth quarter
 
-  – 100% of the taxpayer’s estimated tax for the income year
+  – 100% of the taxpayer's estimated tax for the income year
 
 – minus the amount of the first, second and third quarter instalments – plus any PAYG instalment credits you claimed for the second and third quarters.
 
@@ -123,7 +123,7 @@ In the fourth quarter Andrew will pay his total estimated tax minus the amounts 
 
 - his varied instalment amount at 5A – if he is filling in a paper form, enter the amount from T9.
 
-Upon lodging his tax return for the year, his final tax liability for the year is $14,000, not $12,000 as he had estimated. As Andrew has paid $12,000 in PAYG instalments, he will be liable to pay the outstanding amount of $2,000 (income tax of $14,000 − $12,000 instalments already paid) As Andrew’s varied instalments were more than 85% of his actual tax liability, the ATO will not charge any interest (or penalties) on the shortfall.
+Upon lodging his tax return for the year, his final tax liability for the year is $14,000, not $12,000 as he had estimated. As Andrew has paid $12,000 in PAYG instalments, he will be liable to pay the outstanding amount of $2,000 (income tax of $14,000 − $12,000 instalments already paid) As Andrew's varied instalments were more than 85% of his actual tax liability, the ATO will not charge any interest (or penalties) on the shortfall.
 
 Footnotes 1      Capital gains (and other statutory income) are included for certain taxpayers, notably superannuation funds.
 

@@ -4,20 +4,18 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 102
-  • Div 19
-  • Div 29
-  • Div 358
-  • Div 93
-  • Division 102
-  • Division 19
-  • Division 29
-  • Division 358
-  • Division 93
+ • Div 102
+ • Div 19
+ • Div 29
+ • Div 358
+ • Div 93
+ • Division 102
+ • Division 19
+ • Division 29
+ • Division 358
+ • Division 93
 
 Topics: GST, Companies
-
-
 
 ================================================================================
 
@@ -32,7 +30,7 @@ Back to browse
 31 related documents
 Goods and Services Tax Ruling
 GSTR 2000/12
-Goods and services tax:  attributing GST payable and input tax credits for supplies and acquisitions under lay-by sale agreements
+Goods and services tax: attributing GST payable and input tax credits for supplies and acquisitions under lay-by sale agreements
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -95,22 +93,22 @@ This is a consolidated version of this document. Refer to the Legal Database (ht
 What this Ruling is about
 6. This Ruling applies to entities that make taxable supplies or creditable acquisitions under lay-by sale agreements.
 7. In this Ruling, the term 'lay-by sale agreement' refers to an agreement under which goods are agreed to be sold on terms that the purchase price of the goods is to be paid by instalments and the goods will not be delivered to, or available for collection by, the purchaser until the purchase price is paid in full.
-8. The Ruling is about attribution of GST payable and input tax credits under the GST Act for supplies and acquisitions made under lay-by sale agreements.  All legislative references are to the GST Act unless otherwise stated.
-9. This Ruling explains the effect of, and reasons for, the Commissioner making a determination under section 29-25 to alter the attribution rules in relation to the GST payable on taxable supplies and input tax credits for creditable acquisitions made under lay-by sale agreements.  A copy of the determination is attached to this Ruling.
-10. This Ruling does not address any issues about whether there is a taxable supply or creditable acquisition.  The Ruling is only about when to account for GST payable and input tax credits.
+8. The Ruling is about attribution of GST payable and input tax credits under the GST Act for supplies and acquisitions made under lay-by sale agreements. All legislative references are to the GST Act unless otherwise stated.
+9. This Ruling explains the effect of, and reasons for, the Commissioner making a determination under section 29-25 to alter the attribution rules in relation to the GST payable on taxable supplies and input tax credits for creditable acquisitions made under lay-by sale agreements. A copy of the determination is attached to this Ruling.
+10. This Ruling does not address any issues about whether there is a taxable supply or creditable acquisition. The Ruling is only about when to account for GST payable and input tax credits.
 11. This Ruling also gives a brief outline of the application of the
 A New Tax System (Goods and Services Tax Transition) Act 1999
-('GST Transition Act') to supplies and acquisitions made under lay-by sale agreements.  The determination made under section 29-25 does not affect the operation of the GST Transition Act.
+('GST Transition Act') to supplies and acquisitions made under lay-by sale agreements. The determination made under section 29-25 does not affect the operation of the GST Transition Act.
 Date of effect
 12. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 12A. Changes made to this Ruling by Addenda that issued on 11 July 2007, 31 October 2012 and 20 November 2013 have been incorporated into this version of the Ruling.
 [1A]
 Context of attribution
 The basic attribution rules
-13. 'Attribution' is the term used in the GST law to describe when you account for GST payable, input tax credits and adjustments in order to work out your net amount of GST for the tax period.  GST payable, input tax credits and adjustments are attributed to tax periods rather than being remitted or refunded, as the case may be, each time a taxable supply, creditable acquisition or adjustment is made.
+13. 'Attribution' is the term used in the GST law to describe when you account for GST payable, input tax credits and adjustments in order to work out your net amount of GST for the tax period. GST payable, input tax credits and adjustments are attributed to tax periods rather than being remitted or refunded, as the case may be, each time a taxable supply, creditable acquisition or adjustment is made.
 14. The basic attribution rules are set out in Division 29
 [2]
-of Part 2-6 of the GST Act.  These rules are about when to account for GST payable on taxable supplies, input tax credits for creditable acquisitions and creditable importations, and adjustments.  The basic attribution rules differ depending on whether or not you account for GST on a cash basis.
+of Part 2-6 of the GST Act. These rules are about when to account for GST payable on taxable supplies, input tax credits for creditable acquisitions and creditable importations, and adjustments. The basic attribution rules differ depending on whether or not you account for GST on a cash basis.
 Accounting for GST on a cash basis
 Taxable supplies
 15. If you account for GST on a cash basis, you attribute GST payable on a taxable supply to the tax period in which the consideration for the supply is received, but only to the extent that the consideration is received in the tax period.
@@ -168,8 +166,8 @@ The required information may not necessarily be included on an invoice, in which
 [14C]
 Adjustments
 25. Adjustments are necessary where subsequent events mean that the GST payable or input tax credit attributed in a previous tax period is incorrect.
-26. Adjustments are either increasing or decreasing.  An increasing adjustment increases your net amount for the tax period, while a decreasing adjustment decreases your net amount for the tax period.  The net amount is the difference between the GST payable by you and your input tax credits.
-27. One way in which an adjustment can arise is if an adjustment event occurs.  Under the GST Act, an adjustment event occurs when:
+26. Adjustments are either increasing or decreasing. An increasing adjustment increases your net amount for the tax period, while a decreasing adjustment decreases your net amount for the tax period. The net amount is the difference between the GST payable by you and your input tax credits.
+27. One way in which an adjustment can arise is if an adjustment event occurs. Under the GST Act, an adjustment event occurs when:
 •
 a supply or acquisition is cancelled;
 •
@@ -181,7 +179,7 @@ an acquisition becomes creditable or stops being creditable.
 [15]
 28. Adjustments for adjustment events are attributed to the tax period in which you become aware of the adjustment.
 [16]
-However, if you account for GST on a cash basis and the adjustment event requires you to provide consideration, the adjustment is attributable to the tax period in which you provide the consideration.  If you provide only part of the consideration in a tax period, you attribute that part of the adjustment to that tax period.
+However, if you account for GST on a cash basis and the adjustment event requires you to provide consideration, the adjustment is attributable to the tax period in which you provide the consideration. If you provide only part of the consideration in a tax period, you attribute that part of the adjustment to that tax period.
 [17]
 29. When you have a decreasing adjustment arising from an adjustment event, you cannot account for the adjustment in your BAS until you hold an adjustment note.
 [18]
@@ -194,10 +192,10 @@ Determination of attribution rules under section 29-25
 32. The Commissioner can make these determinations only where there are circumstances as described in paragraphs (a) to (h) of subsection 29-25(2).
 33. Determinations made under section 29-25 override the basic attribution rules and the special rules in Chapter 4 of the GST Act but only to the extent of any inconsistency
 [21]
-and only to the extent provided for in the determination.  However, determinations made under section 29-25 do not affect the operation of the GST Transition Act because they only apply to override the application of Division 29 and Chapter 4 of the GST Act.
+and only to the extent provided for in the determination. However, determinations made under section 29-25 do not affect the operation of the GST Transition Act because they only apply to override the application of Division 29 and Chapter 4 of the GST Act.
 34. Where the Commissioner makes a determination, attribution must be in accordance with that determination.
 Ruling
-35. The Commissioner is satisfied that where you do not account for GST on a cash basis, the basic attribution rules produce an inappropriate result if applied to  supplies and acquisitions made under lay-by sale agreements.
+35. The Commissioner is satisfied that where you do not account for GST on a cash basis, the basic attribution rules produce an inappropriate result if applied to supplies and acquisitions made under lay-by sale agreements.
 36. The Commissioner has, therefore, made a determination under section 29-25, of the tax period to which GST payable and input tax credits for these supplies and acquisitions are attributable.
 [21A]
 37. The determination provides that if you do not account for GST on a cash basis then:
@@ -206,76 +204,76 @@ where you make a taxable supply under a lay-by sale agreement, the GST payable o
 (ii)
 where you make a creditable acquisition under a lay-by sale agreement, the input tax credit to which you are entitled for the acquisition is attributable to the tax period in which you provide the final instalment of the consideration.
 38. The determination does not apply if you account for GST on a cash basis.
-39. A copy of the determination is attached to this Ruling.  The effect of the determination and the reasons for making it are explained in paragraphs 42 to 68 of this Ruling.
+39. A copy of the determination is attached to this Ruling. The effect of the determination and the reasons for making it are explained in paragraphs 42 to 68 of this Ruling.
 40. The determination applies to all supplies and acquisitions of the kind specified in the determination.
-41. The determination does not apply where a lay-by sale is cancelled.  In this case, Division 102 has application.  The determination does not affect the operation of Division 102.
+41. The determination does not apply where a lay-by sale is cancelled. In this case, Division 102 has application. The determination does not affect the operation of Division 102.
 Explanation
 42. Paragraph 29-25(2)(b) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any special rules in circumstances involving 'a supply or acquisition for which payment is made or an invoice is issued, but use, enjoyment or passing of title will, or may, occur at some time in the future'.
-43. Supplies and acquisitions under lay-by sale agreements as described in paragraphs 44 and 45 of this Ruling fit the description in paragraph 29-25(2)(b).  The Commissioner may make a determination about attributing GST payable and input tax credits for supplies and acquisitions made under these agreements if necessary to prevent inappropriate application of the basic attribution rules and any relevant special attribution rule.
+43. Supplies and acquisitions under lay-by sale agreements as described in paragraphs 44 and 45 of this Ruling fit the description in paragraph 29-25(2)(b). The Commissioner may make a determination about attributing GST payable and input tax credits for supplies and acquisitions made under these agreements if necessary to prevent inappropriate application of the basic attribution rules and any relevant special attribution rule.
 The nature of the relevant transactions
 44. In this Ruling, the term 'lay-by sale agreement' refers to an agreement under which goods are agreed to be sold on terms that the purchase price of the goods is to be paid by instalments and the goods will not be delivered to, or available for collection by, the purchaser until the purchase price is paid in full.
 45. Typically, goods are identified as subject to a particular lay-by sale agreement, are physically separated from the seller's other trading stock, and are stored by the seller pending delivery to the buyer on payment in full of the sale price.
-46. The purchase price is commonly payable by way of an initial payment and the balance by instalments.  The number and amount of any of the instalments may be fixed by agreement or may be left to the option of the purchaser.  Alternatively, the balance of the purchase price may be payable at the expiration of a fixed or ascertainable period with an option for the buyer to make payments in respect of the purchase price during that period.  The purchaser is under no obligation to complete the purchase.  However, service or handling fees that may or may not be refundable in the event of cancellation may be imposed.
+46. The purchase price is commonly payable by way of an initial payment and the balance by instalments. The number and amount of any of the instalments may be fixed by agreement or may be left to the option of the purchaser. Alternatively, the balance of the purchase price may be payable at the expiration of a fixed or ascertainable period with an option for the buyer to make payments in respect of the purchase price during that period. The purchaser is under no obligation to complete the purchase. However, service or handling fees that may or may not be refundable in the event of cancellation may be imposed.
 Application of the basic attribution rules
-47. Under the basic attribution rules, if you do not account for GST on a cash basis, all the GST payable on a lay-by sale is attributable to the tax period in which you, the supplier, receive the first instalment of the purchase price.  This is usually at the beginning of the agreement.  Because the supplier has no rights under a lay-by sale agreement to require payment of the purchase price, it is unlikely that an invoice would have been issued.
+47. Under the basic attribution rules, if you do not account for GST on a cash basis, all the GST payable on a lay-by sale is attributable to the tax period in which you, the supplier, receive the first instalment of the purchase price. This is usually at the beginning of the agreement. Because the supplier has no rights under a lay-by sale agreement to require payment of the purchase price, it is unlikely that an invoice would have been issued.
 48. Likewise, input tax credits that arise on a creditable acquisition under a lay-by sale agreement are attributable to the tax period in which you, the recipient of a supply, provide the first instalment of the purchase price.
 49. If you account for GST on a cash basis, the GST payable or input tax credits are attributable to tax periods in which you receive or provide instalments of the purchase price, but only to the extent that the consideration is received or provided in that tax period.
 50. You have to make adjustments if the lay-by sale is cancelled and you had accounted for some or all of the GST payable or input tax credits on the supply or acquisition.
 [22]
 Is the application of the basic rules inappropriate?
-51. Under the basic attribution rules, the attribution of all the GST payable on a supply under a lay-by sale agreement is triggered by the first instalment of the purchase price if you do not account for GST on a cash basis.  This is not consistent with the way lay-by sales are treated for accounting and income tax purposes.
-52. For Australian income tax purposes, income (other than non-refundable deposits) from lay-by sales which is assessable on an accruals basis is not  derived until the buyer pays the final instalment of the purchase price and the goods are delivered to the buyer.
+51. Under the basic attribution rules, the attribution of all the GST payable on a supply under a lay-by sale agreement is triggered by the first instalment of the purchase price if you do not account for GST on a cash basis. This is not consistent with the way lay-by sales are treated for accounting and income tax purposes.
+52. For Australian income tax purposes, income (other than non-refundable deposits) from lay-by sales which is assessable on an accruals basis is not derived until the buyer pays the final instalment of the purchase price and the goods are delivered to the buyer.
 [23]
-53. Before the final payment is made under a lay-by sale agreement, the customer has no obligation to complete the sale.  The retailer has no rights to recover the purchase price.  Revenue is not recognised for accounting purposes until the goods are paid for in full.
+53. Before the final payment is made under a lay-by sale agreement, the customer has no obligation to complete the sale. The retailer has no rights to recover the purchase price. Revenue is not recognised for accounting purposes until the goods are paid for in full.
 54. Taxation regimes in other countries typically defer accounting for the GST or Value Added Tax ('VAT') on lay-by sales until the final payment is made and the goods are delivered, or made available, to the buyer.
-55. Notwithstanding the above, comments initially received from industry representatives indicated that in their view the application of the basic attribution rules is not inappropriate.  However, subsequent comments from industry representatives received in response to GSTR 1999/D7,
+55. Notwithstanding the above, comments initially received from industry representatives indicated that in their view the application of the basic attribution rules is not inappropriate. However, subsequent comments from industry representatives received in response to GSTR 1999/D7,
 [24]
 have confirmed the need for a determination to prevent an inappropriate application of the basic attribution rules.
 56. The Commissioner is satisfied that if you account for GST on a basis other than cash, the application of the basic attribution rules to supplies and acquisitions made under lay-by sale agreements produces an inappropriate result.
 Determination under section 29-25
-57. The Commissioner has made a determination under section 29-25(1) to vary the attribution rules for supplies and acquisitions made under lay-by sale agreements where you account for GST on a basis other than cash.  A copy of the determination is attached to this Ruling.
+57. The Commissioner has made a determination under section 29-25(1) to vary the attribution rules for supplies and acquisitions made under lay-by sale agreements where you account for GST on a basis other than cash. A copy of the determination is attached to this Ruling.
 58. The effect of the determination is to:
 •
 defer attribution of the GST payable on a taxable supply made under a lay-by sale agreement, and
 •
 defer attribution of the input tax credit on a creditable acquisition made under a lay-by sale agreement
-until the tax period in which the final payment under the lay-by sale agreement is made.  This payment usually coincides with the delivery to, or collection by, the purchaser of the goods.
+until the tax period in which the final payment under the lay-by sale agreement is made. This payment usually coincides with the delivery to, or collection by, the purchaser of the goods.
 59. The following examples illustrate the application of the attribution rules that have been determined under section 29-25 to apply to supplies and acquisitions under lay-by sale agreements.
 Example 1 - GST payable on supplies under lay-by sale agreements
-60. Jamiesons' Fine Furnishings is a furniture retailer.  It is registered for GST and has three month tax periods.  Jamiesons' accounts for GST on a basis other than cash.
-61.  On 18 September 2000, the retailer makes a lay-by sale to Indira.  It agrees to sell Indira dining chairs for a total price of $2,200 payable by instalments over a period of four months.  The agreement does not specify the minimum number or amount of the instalments except that the first instalment to be paid on entry into the agreement is to be a minimum of ten per cent of the price.  The agreement also specifies that, in the event of cancellation of the sale by the purchaser, a service fee of $22 is payable.  This amount will be retained out of instalments paid with the balance to be refunded.
+60. Jamiesons' Fine Furnishings is a furniture retailer. It is registered for GST and has three month tax periods. Jamiesons' accounts for GST on a basis other than cash.
+61. On 18 September 2000, the retailer makes a lay-by sale to Indira. It agrees to sell Indira dining chairs for a total price of $2,200 payable by instalments over a period of four months. The agreement does not specify the minimum number or amount of the instalments except that the first instalment to be paid on entry into the agreement is to be a minimum of ten per cent of the price. The agreement also specifies that, in the event of cancellation of the sale by the purchaser, a service fee of $22 is payable. This amount will be retained out of instalments paid with the balance to be refunded.
 62. Indira made a first payment of $550 on 18 September 2000 and further payments on 29 September 2000 ($660), 28 October 2000 ($220), 22 November ($220), 13 December ($220) and 18 January 2001 ($330).
 63. The retailer should account for GST payable of $200 (1/11 x $2200) in the tax period ending 31 March 2001.
-64.  If, on the other hand, the retailer accounts for GST on a cash basis, the basic attribution rules apply.  This means that the retailer accounts for the GST payable on the lay-by sale in a tax period in which a payment is received but only to the extent that the payment is received in that tax period.
+64. If, on the other hand, the retailer accounts for GST on a cash basis, the basic attribution rules apply. This means that the retailer accounts for the GST payable on the lay-by sale in a tax period in which a payment is received but only to the extent that the payment is received in that tax period.
 Example 2 - input tax credits for acquisitions under lay-by sale agreements
 65. Following on from Example 1 above.
-66. Indira is registered for GST and has three month tax periods.  She accounts for GST on a basis other than cash.  The acquisition of the chairs is for a creditable purpose.  She is entitled to claim input tax credits for the acquisition.
-67. Indira should account for input tax credits of $200 for the acquisition in the tax period ending on 31 March 2001.  This is subject to the requirement for Indira to hold a tax invoice at the time she lodges her BAS for the tax period ending on 31 March 2001.  A lay-by sale agreement may satisfy the information requirements to be a tax invoice even if it does not notify an obligation to make a payment and therefore is not an invoice for attribution purposes.
-68.  If, on the other had, Indira accounts for GST on a cash basis, the basic attribution rules apply.  This means that she accounts for the input tax credits in a tax period in which she makes a payment but only to the extent that she provided the consideration in that tax period.  This is subject to the requirement for her to hold a tax invoice at the time she lodges her BAS for the relevant tax period.
+66. Indira is registered for GST and has three month tax periods. She accounts for GST on a basis other than cash. The acquisition of the chairs is for a creditable purpose. She is entitled to claim input tax credits for the acquisition.
+67. Indira should account for input tax credits of $200 for the acquisition in the tax period ending on 31 March 2001. This is subject to the requirement for Indira to hold a tax invoice at the time she lodges her BAS for the tax period ending on 31 March 2001. A lay-by sale agreement may satisfy the information requirements to be a tax invoice even if it does not notify an obligation to make a payment and therefore is not an invoice for attribution purposes.
+68. If, on the other had, Indira accounts for GST on a cash basis, the basic attribution rules apply. This means that she accounts for the input tax credits in a tax period in which she makes a payment but only to the extent that she provided the consideration in that tax period. This is subject to the requirement for her to hold a tax invoice at the time she lodges her BAS for the relevant tax period.
 Cancellation of a lay-by sale
 69. If you, a supplier, retain any of the payments or obtain any further payment on cancellation of the lay-by sale, that amount is treated as consideration for a supply.
 [25]
 You attribute the GST payable on the supply to the tax period in which the amount is retained or recovered.
 [26]
 This is the way you account for any amount retained or received on cancellation of a lay-by sale whether you account for GST on a cash basis or not.
-70. If you account for GST on a cash basis, you may have attributed some GST payable on the supply made under the lay-by sale agreement to an earlier tax period.  If this is the case, you will also need to make an adjustment to reduce your GST payable in the tax period in which the cancellation occurs.
+70. If you account for GST on a cash basis, you may have attributed some GST payable on the supply made under the lay-by sale agreement to an earlier tax period. If this is the case, you will also need to make an adjustment to reduce your GST payable in the tax period in which the cancellation occurs.
 71. If a lay-by sale agreement is cancelled and you, a recipient, are required to make a further payment or part or all of any payment already made is retained, that amount is treated as consideration for an acquisition.
 [27]
-You attribute the input tax credit for this acquisition  to the tax period in which the amount was retained or recovered.
+You attribute the input tax credit for this acquisition to the tax period in which the amount was retained or recovered.
 [28]
 (This is subject to the requirement to hold a tax invoice at the time you lodge your BAS for the relevant tax period.) This is the way you account for any amount retained or recovered on the cancellation of a lay-by sale whether you account for GST on a cash basis or not.
-72. If you account for GST on a cash basis, you may have attributed some input tax credits on the acquisition under the lay-by sale agreement to an earlier tax period.  If this is the case, you will also need to make an adjustment to reduce your input tax credits in the tax period in which the cancellation occurs.
+72. If you account for GST on a cash basis, you may have attributed some input tax credits on the acquisition under the lay-by sale agreement to an earlier tax period. If this is the case, you will also need to make an adjustment to reduce your input tax credits in the tax period in which the cancellation occurs.
 Example 3
-73. Jamiesons' Fine Furnishings entered a lay-by sale agreement as described in Example 1.  Indira tells the retailer on 28 October 2000 that she wants to cancel the sale.  The retailer refunds the payments made but retains $22 as a service charge.
+73. Jamiesons' Fine Furnishings entered a lay-by sale agreement as described in Example 1. Indira tells the retailer on 28 October 2000 that she wants to cancel the sale. The retailer refunds the payments made but retains $22 as a service charge.
 74. The cancellation of the lay-by sale should be accounted for as follows:
 •
 The retailer accounts for GST payable of $2 (1/11 x $22) on the supply of the lay-by service in the tax period in which the amount of $22 was retained, that is, the tax period ending on 31 December 2000.
 •
-If the retailer accounts for GST on cash basis, it also has a decreasing adjustment of $110 in the tax period ending on 31 December 2000.  The retailer would have accounted for this amount of GST payable in an earlier tax period for the supply that has now been cancelled.
+If the retailer accounts for GST on cash basis, it also has a decreasing adjustment of $110 in the tax period ending on 31 December 2000. The retailer would have accounted for this amount of GST payable in an earlier tax period for the supply that has now been cancelled.
 •
-Indira accounts for an input tax credit of $2 in the tax period in which the amount of $22 was retained, that is, the tax period ending on 31 December 2000.  (This is subject to the requirement for Indira to hold a tax invoice at the time she lodges her BAS for the tax period.)
+Indira accounts for an input tax credit of $2 in the tax period in which the amount of $22 was retained, that is, the tax period ending on 31 December 2000. (This is subject to the requirement for Indira to hold a tax invoice at the time she lodges her BAS for the tax period.)
 •
-If Indira accounts for GST on cash basis, she also has an increasing adjustment of $110 in the tax period ending on 31 December 2000.  She would have accounted for this amount of input tax credit in an earlier tax period for the acquisition that has now been cancelled.
+If Indira accounts for GST on cash basis, she also has an increasing adjustment of $110 in the tax period ending on 31 December 2000. She would have accounted for this amount of input tax credit in an earlier tax period for the acquisition that has now been cancelled.
 Lay-by sale agreements entered into before 1 July 2000
 75. GST is payable on a supply only to the extent that it is made on or after 1 July 2000.
 [29]
@@ -283,9 +281,9 @@ Input tax credits arise on an acquisition only to the extent that it is made on 
 [30]
 76. The GST Transition Act sets out time of supply rules so that you can determine whether a supply or acquisition is made on or after 1 July 2000.
 [31]
-77. Under the GST Transition Act if a lay-by sale agreement is entered into before 1 July 2000, a supply or acquisition of goods is made on or after 1 July 2000 if the goods are removed or made available to the purchaser  on or after 1 July 2000
+77. Under the GST Transition Act if a lay-by sale agreement is entered into before 1 July 2000, a supply or acquisition of goods is made on or after 1 July 2000 if the goods are removed or made available to the purchaser on or after 1 July 2000
 [32]
-and therefore may be subject to GST.  This is the case under the GST Transition Act even if some instalments of the purchase price were paid before 1 July 2000.
+and therefore may be subject to GST. This is the case under the GST Transition Act even if some instalments of the purchase price were paid before 1 July 2000.
 78. For a supply or acquisition of goods made under a lay-by sale agreement, the goods are considered to be removed or made available to the purchaser when the final payment is made by the purchaser under the lay-by sale agreement and the goods cease to be trading stock of the supplier.
 79. Any payment that is received or provided before 1 July 2000 for a supply or acquisition made after 1 July 2000 is taken to have been received or provided in the first tax period after 1 July 2000.
 [33]
@@ -313,11 +311,11 @@ $1,100
 1 November 2000
 $880
 Henry collects the curtains on 1 November 2000.
-83. Creative Curtains is registered for GST and has three month tax periods.  It accounts for GST on a basis other than cash.  GST is payable by Creative Curtains on the supply of the curtains as the final payment is made by Henry  and the goods cease to be trading stock of Creative Curtains after 1 July 2000.  This is not altered by the fact that the agreement was entered and a payment was made before 1 July 2000.  The payment received before 1 July 2000 for the supply made after 1 July 2000 is taken to have been received in the first tax period after 1 July 2000.
+83. Creative Curtains is registered for GST and has three month tax periods. It accounts for GST on a basis other than cash. GST is payable by Creative Curtains on the supply of the curtains as the final payment is made by Henry and the goods cease to be trading stock of Creative Curtains after 1 July 2000. This is not altered by the fact that the agreement was entered and a payment was made before 1 July 2000. The payment received before 1 July 2000 for the supply made after 1 July 2000 is taken to have been received in the first tax period after 1 July 2000.
 84. Creative Curtains accounts for GST payable of $500 (1/11 x $5500) in the tax period ending 31 December 2000.
-85. Henry is registered for GST and has three month tax periods.  He accounts for GST on a basis other than cash.
-86. Henry is entitled to input tax credits for the purchase of the curtains even though he entered into the agreement and made a payment before 1 July 2000.  The payment made before 1 July 2000 is taken to have been made in the first tax period after 1 July 2000.
-87. Henry accounts for input tax credits of $500 in the tax period ending on 31 December 2000.  This is subject to the requirement for Henry to hold a tax invoice (refer to Example 2 above).
+85. Henry is registered for GST and has three month tax periods. He accounts for GST on a basis other than cash.
+86. Henry is entitled to input tax credits for the purchase of the curtains even though he entered into the agreement and made a payment before 1 July 2000. The payment made before 1 July 2000 is taken to have been made in the first tax period after 1 July 2000.
+87. Henry accounts for input tax credits of $500 in the tax period ending on 31 December 2000. This is subject to the requirement for Henry to hold a tax invoice (refer to Example 2 above).
 Detailed contents list
 88. Below is a detailed contents list for this Ruling:
 Paragraph
@@ -390,11 +388,11 @@ and subsection 4(1) of the
 Acts Interpretation Act 1901
 I make the following determination, being satisfied under paragraph 29-25(2)(b) of the Act that it is necessary to prevent the provisions of Division 29 and Chapter 4 applying in a way that is inappropriate in circumstances involving a supply or acquisition for which payment is made or an invoice is issued, but use, enjoyment or passing of title will, or may, occur at some time in the future:
 Citation
-1.  This Determination may be cited as the
+1. This Determination may be cited as the
 A New Tax System (Goods and Services Tax) Act 1999 (Particular Attribution Rules for Lay-By Sales) Determination (No. 1) 2000
 .
 Commencement
-2.  This Determination commences on the date the A New Tax System (Goods and Services Tax) Act 1999 commences.
+2. This Determination commences on the date the A New Tax System (Goods and Services Tax) Act 1999 commences.
 Particular Attribution Rules for GST payable on a taxable supply made under a lay-by sale agreement
 3.
 (1)
@@ -495,7 +493,7 @@ Division 19.
 Taxation Ruling TR 95/7.
 [24]
 See Goods and Services Tax Ruling GSTR 2000/29
-Goods and services tax:  attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
+Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
 . This ruling was previously issued in draft form as GSTR 1999/D7.
 [25]
 Section 102-5.
@@ -518,8 +516,8 @@ The GST Transition Act section 10.
 Previously released as GSTR 1999/D7
 References
 ATO references:
-NO  T2000/8654
-ISSN  1034-9758
+NO T2000/8654
+ISSN 1034-9758
 Related Rulings/Determinations:
 TR 95/7
 TR 2006/10
@@ -547,51 +545,51 @@ tax invoice
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A99  Div 19
-ANTS(GST)A99  19-10
-ANTS(GST)A99  Div 29
-ANTS(GST)A99  29-5
-ANTS(GST)A99  29-5(1)
-ANTS(GST)A99  29-5(2)
-ANTS(GST)A99  29-10
-ANTS(GST)A99  29-10(1)
-ANTS(GST)A99  29-10(2)
-ANTS(GST)A99  29-10(3)
-ANTS(GST)A99  29-10(4)
-ANTS(GST)A99  29-15
-ANTS(GST)A99  29-20
-ANTS(GST)A99  29-20(1)
-ANTS(GST)A99  29-20(2)
-ANTS(GST)A99  29-20(3)
-ANTS(GST)A99  29-25
-ANTS(GST)A99  29-25(1)
-ANTS(GST)A99  29-25(2)
-ANTS(GST)A99  29-25(2)(a)
-ANTS(GST)A99  29-25(2)(b)
-ANTS(GST)A99  29-25(2)(h)
-ANTS(GST)A99  29-25(3)
-ANTS(GST)A99  29-70
-ANTS(GST)A99  29-70(1)
-ANTS(GST)A99  29-70(1A)
-ANTS(GST)A99  29-70(1B)
-ANTS(GST)A99  29-70(2)
-ANTS(GST)A99  29-80(1)
-ANTS(GST)A99  29-80(2)
-ANTS(GST)A99  Div 93
-ANTS(GST)A99  93-5(1)
-ANTS(GST)A99  93-10
-ANTS(GST)A99  93-15
-ANTS(GST)A99  Div 102
-ANTS(GST)A99  102-5
-ANTS(GST)A99  102-10
-ANTS(GST)A99  129-20
-ANTS(GST)A99  129-90
-ANTS(GST)A99  195-1
-ANTS(GST)R99  29-80.02
-ANTS(GSTT)A99  6
-ANTS(GSTT)A99  7
-ANTS(GSTT)A99  6(2)
-ANTS(GSTT)A99  10
+ANTS(GST)A99 Div 19
+ANTS(GST)A99 19-10
+ANTS(GST)A99 Div 29
+ANTS(GST)A99 29-5
+ANTS(GST)A99 29-5(1)
+ANTS(GST)A99 29-5(2)
+ANTS(GST)A99 29-10
+ANTS(GST)A99 29-10(1)
+ANTS(GST)A99 29-10(2)
+ANTS(GST)A99 29-10(3)
+ANTS(GST)A99 29-10(4)
+ANTS(GST)A99 29-15
+ANTS(GST)A99 29-20
+ANTS(GST)A99 29-20(1)
+ANTS(GST)A99 29-20(2)
+ANTS(GST)A99 29-20(3)
+ANTS(GST)A99 29-25
+ANTS(GST)A99 29-25(1)
+ANTS(GST)A99 29-25(2)
+ANTS(GST)A99 29-25(2)(a)
+ANTS(GST)A99 29-25(2)(b)
+ANTS(GST)A99 29-25(2)(h)
+ANTS(GST)A99 29-25(3)
+ANTS(GST)A99 29-70
+ANTS(GST)A99 29-70(1)
+ANTS(GST)A99 29-70(1A)
+ANTS(GST)A99 29-70(1B)
+ANTS(GST)A99 29-70(2)
+ANTS(GST)A99 29-80(1)
+ANTS(GST)A99 29-80(2)
+ANTS(GST)A99 Div 93
+ANTS(GST)A99 93-5(1)
+ANTS(GST)A99 93-10
+ANTS(GST)A99 93-15
+ANTS(GST)A99 Div 102
+ANTS(GST)A99 102-5
+ANTS(GST)A99 102-10
+ANTS(GST)A99 129-20
+ANTS(GST)A99 129-90
+ANTS(GST)A99 195-1
+ANTS(GST)R99 29-80.02
+ANTS(GSTT)A99 6
+ANTS(GSTT)A99 7
+ANTS(GSTT)A99 6(2)
+ANTS(GSTT)A99 10
 TAA 1953 Sch 1 Div 358
 Other References:
 A New Tax System (Goods and Services Tax) Extension of Time to Issue An Adjustment Note Determination (No. 1) 2002 - Supplies made by electricity distributors to electricity retailers

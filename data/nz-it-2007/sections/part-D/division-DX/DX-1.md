@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction**
 
-**(4)**  The deduction is limited in an income year to the amount that would be the net income of the owner for the corresponding tax year if the owner’s only income in the income year were from the property, or the substituted property.
+**(4)**  The deduction is limited in an income year to the amount that would be the net income of the owner for the corresponding tax year if the owner's only income in the income year were from the property, or the substituted property.
 
 **Meaning of beneficiary**
 

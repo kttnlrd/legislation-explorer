@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
   - (i) the other person is allowed a deduction for that expenditure; and
 
-  - (ii) the expenditure relates to a matter affecting the determination of the first person’s liability for income tax or GST; and
+  - (ii) the expenditure relates to a matter affecting the determination of the first person's liability for income tax or GST; and
 
   - (iii) the first person has objected to, challenged, or appealed against an assessment or determination made in relation to the matter under this Act or an earlier Act, the Tax Administration Act 1994, or the Goods and Services Tax Act 1985.
 

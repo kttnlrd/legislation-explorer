@@ -16,9 +16,9 @@ compilation_date: 2026-06-06
 
 **Basic rates**
 
-**(2)**  When the person making the schedular payment has been notified under section 24I of the Tax Administration Act 1994 of the payee’s name and tax file number, the person must withhold an amount of tax for the payment at—
+**(2)**  When the person making the schedular payment has been notified under section 24I of the Tax Administration Act 1994 of the payee's name and tax file number, the person must withhold an amount of tax for the payment at—
 
-- (a) the payee’s elected rate, for a payee, other than a payee referred to in paragraph (b), who chooses a tax rate under section 24F(3) of that Act:
+- (a) the payee's elected rate, for a payee, other than a payee referred to in paragraph (b), who chooses a tax rate under section 24F(3) of that Act:
 
 - (b) the special tax rate set by the Commissioner, for a payee who has been provided with a special tax rate under section 24G of that Act:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Default rates**
 
-**(4)**  When the person making the schedular payment has not been notified of the payee’s name and tax file number under section 24I, the person must withhold an amount of tax for the payment that is—
+**(4)**  When the person making the schedular payment has not been notified of the payee's name and tax file number under section 24I, the person must withhold an amount of tax for the payment that is—
 
 - (a) for a payee that is a company that is non-resident, 20% of the amount of the payment:
 

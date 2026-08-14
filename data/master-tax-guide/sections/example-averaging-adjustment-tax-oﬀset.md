@@ -25,12 +25,12 @@ As the tax payable at the comparison rate is less than the tax payable at basic 
 
 averaging component gross averaging amount                                            × basic taxable income The gross averaging amount is the diﬀerence between the tax payable at the comparison rate ($3,694) and the tax payable at basic rates ($5,908), ie $2,214. $41,200 averaging adjustment                                     =    $2,214       ×                              =$1,810 $50,400 Step 6: Calculate tax payable after allowing for the tax oﬀset derived at Step 5.
 
-Tax payable (excluding the Medicare levy) on Barnaby’s taxable income of $50,400 is $5,908. The tax oﬀset of $1,810 will reduce Barnaby’s tax liability to $4,098.
+Tax payable (excluding the Medicare levy) on Barnaby's taxable income of $50,400 is $5,908. The tax oﬀset of $1,810 will reduce Barnaby's tax liability to $4,098.
 
 ## The comparison rate of tax is calculated as follows:
 
-## Step 3: Barnaby’s averaging component is calculated as follows:
+## Step 3: Barnaby's averaging component is calculated as follows:
 
 ## The tax payable on the basic taxable income at the comparison rate is:
 
-## Step 5: Barnaby’s averaging adjustment (tax oﬀset) is calculated as follows:
+## Step 5: Barnaby's averaging adjustment (tax oﬀset) is calculated as follows:

@@ -3,18 +3,14 @@ ATO ID 2006/167
 ==================================================
 
 Income Tax
-        Capital Allowances: termination value on the granting of a licence to exploit a patented invention
-        FOI status: may be released
-
-
+ Capital Allowances: termination value on the granting of a licence to exploit a patented invention
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is company A's undertaking to pay 50% of the revenue it earns from the exploitation of the patented invention owned by company B included in the termination value (section 40-300 of the Income Tax Assessment Act 1997 (ITAA 1997)) of part of company B's patent?
@@ -31,10 +27,10 @@ Company B does not receive, nor is it entitled to receive, any money as a result
 In order for an amount to be included in termination value, section 40-300 of the ITAA 1997 requires a necessary connection between the relevant amount in the table in paragraph 40-305(1)(b) of the ITAA 1997 and the depreciating asset. It is reasonable to conclude that company A's undertaking to pay royalties relates to the exploitation of the patent and thus is a promise to pay for the exploitation of the invention during the period the agreement remains in force. The agreement can be terminated upon certain acts occurring including a failure by company A to pay royalties.
 Company A does not pay an amount for entering into the licence agreement, and the royalties do not contain any embedded capital amount. Therefore, whilst the right to the royalty is 'property' for the purposes of the definition of a 'non-cash benefit' as it relates to item 4 in the table in paragraph 40-305(1)(b) of the ITAA 1997, it is not property the taxpayer is taken to have received under section 40-305 of the ITAA 1997 for the asset.
 Date of decision:
-         30 May 2006
+  30 May 2006
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -48,23 +44,22 @@ Related ATO Interpretative Decisions
 Keywords
 
 Balancing adjustment event
-          Balancing adjustments
-          Capital Allowances CoE
-          Depreciating assets
-          Intellectual property rights
-          Patents
-          Termination value
-          Uniform capital allowances system
-
+ Balancing adjustments
+ Capital Allowances CoE
+ Depreciating assets
+ Intellectual property rights
+ Patents
+ Termination value
+ Uniform capital allowances system
 
 Siebel/TDMS Reference Number:
-         5122547
+  5122547
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         7 July 2006
+  7 July 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

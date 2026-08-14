@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 Unless the context otherwise requires, sections OZ 8 to OZ 15 apply for a period (the transitional period)—
 
-- (a) beginning the first day of a person’s 2011–12 income year; and
+- (a) beginning the first day of a person's 2011–12 income year; and
 
 - (b) ending on 31 March 2013.
 

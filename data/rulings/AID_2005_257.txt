@@ -3,23 +3,19 @@ ATO ID 2005/257
 ==================================================
 
 Income Tax
-        Income tax:  who is responsible for lodgement of a company return when a liquidator has been appointed?
-        FOI status: may be released
-
-
+ Income tax: who is responsible for lodgement of a company return when a liquidator has been appointed?
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the liquidator appointed to wind up a company responsible for lodgement of the company's income tax return when they have control of the financial records of the company?
 Decision
-Yes.  Where the liquidator has control of the financial records relating to the income tax affairs of the company, the liquidator is required to lodge the return for the full income year.
+Yes. Where the liquidator has control of the financial records relating to the income tax affairs of the company, the liquidator is required to lodge the return for the full income year.
 Facts
 A liquidator is appointed to wind up Insolvent Company on 1 December in a particular income year.
 The financial records of Insolvent Company are handed to the liquidator as required under the Corporations Act 2001, on 1 February of the same income year. As part of the winding up process, several transactions occurring in the beginning of the income year are reversed by the liquidator.
@@ -30,7 +26,7 @@ Taxation Determination TD 94/68 Income Tax: who is responsible for lodgement of 
 In the above situation, both the public officer and liquidator have legal obligations to lodge a return. However, in TD 94/68, the Commissioner accepts that in some cases not all persons who are obligated to lodge returns have control of the financial records necessary to do so. Accordingly, the Commissioner will look to the person or persons who have control of the financial records to lodge a return for the whole of the income year.
 In this case, the public officer of Insolvent Company has no control over the records they need to compile and lodge an accurate income tax return for Insolvent Company. The liquidator has the records and also has information relating to transactions that occurred prior to their appointment. Accordingly, the Commissioner will look to the liquidator of Insolvent Company for lodgement of the return for the full year.
 Date of decision:
-         6 September 2005
+  6 September 2005
 
 Legislative References:
 
@@ -47,23 +43,22 @@ ATO ID 2003/507
 Keywords
 
 Insolvency
-          Lodgment compliance
-          Lodgment exemptions
-          Lodgment of tax returns
-          Lodgment requirements
-          Ownership, interests, control & rights
-          Tax administration
-          Tax returns
-
+ Lodgment compliance
+ Lodgment exemptions
+ Lodgment of tax returns
+ Lodgment requirements
+ Ownership, interests, control & rights
+ Tax administration
+ Tax returns
 
 Siebel/TDMS Reference Number:
-         4381750
+  4381750
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         9 September 2005
+  9 September 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

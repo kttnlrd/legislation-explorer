@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of calculating a filing taxpayer’s terminal tax under section BC 8 (Satisfaction of income tax liability).
+**(1)**  This section applies for the purposes of calculating a filing taxpayer's terminal tax under section BC 8 (Satisfaction of income tax liability).
 
 **Calculating amount of liability**
 

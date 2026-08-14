@@ -3,23 +3,18 @@ ATO ID 2012/31
 ==================================================
 
 Income Tax
-        Thin Capitalisation: exemption - certain special purpose entities
-        FOI status: may be released
-
+ Thin Capitalisation: exemption - certain special purpose entities
+ FOI status: may be released
 
 ATOID 2012/31 is being withdrawn because the views expressed in the ATOID in relation to the scope of section 820-39 cannot be maintained.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will an entity be exempt from the thin capitalisation rules in Division 820 of the Income Tax Assessment Act 1997 (ITAA 1997) by virtue of the operation of section 820-39 of the ITAA 1997 where the entity simply on-lends funds to another entity on back-to-back terms?
@@ -34,8 +29,6 @@ Entity A does not carry on any type of securitisation activity.
 Reasons
 (All legislative references in this Interpretative Decision are to the ITAA 1997 unless otherwise stated.)
 Section 820-39 of the ITAA 1997 exempts certain special purpose entities from the application of the thin capitalisation rules in Division 820 of the ITAA 1997. Specifically, subsection 820-39(1) of the ITAA 1997 provides that the thin capitalisation rules do not apply to disallow any debt deductions (as defined in section 820-40 of the ITAA 1997) of an entity for an income year if the entity meets the conditions in subsection 820-39(3) of the ITAA 1997 throughout the income year. The conditions in subsection 820-39(3) of the ITAA 1997 are that:
-
-
 
 (a)the entity is one established for the purposes of managing some or all of the economic risk associated with assets, liabilities or investments (whether the entity assumes the risk from another entity or creates the risk itself); and
 (b)the total value of debt interests in the entity is at least 50% of the total value of the entity's assets; and
@@ -63,14 +56,12 @@ Purpose
 Section 820-39 was inserted into the ITAA 1997 by the Taxation Laws Amendment Act (No 5) 2003. The purpose for its introduction was to address the somewhat restrictive scope and operation of the definitions of 'securitised asset' and 'securitisation vehicle' in section 820-942 of the ITAA 1997. According to the Explanatory Memorandum (the EM) to the Taxation Laws Amendment Bill (No 5) 2003 which introduced section 820-39 of the ITAA 1997, the definitions of 'securitisation vehicle' and 'securitised asset' meant that a variety of bona fide securitisation vehicles and structures would not be able to take advantage of the benefits of the zero capital treatment provided under section 820-942 of the ITAA 1997. Paragraphs 1.6 and 1.7 of the EM state the following:
 
 1.6 The securitisation industry is complex and dynamic. Many securitisation programs are not available to avail themselves of the benefits of the zero capital treatment provided under the thin capitalisation legislation. In particular,
-              the current definitions do not contemplate origination, warehousing, two-tiered securitisation or synthetic securitisation
-              . Nor do the current rules allow any residual equity holding in a securitisation vehicle. As a consequence, many
-              bona fide securitisation vehicles
-               will inappropriately have a proportion of their interest deductions denied under the thin capitalisation rules (emphasis added).
+ the current definitions do not contemplate origination, warehousing, two-tiered securitisation or synthetic securitisation
+ . Nor do the current rules allow any residual equity holding in a securitisation vehicle. As a consequence, many
+ bona fide securitisation vehicles
+ will inappropriately have a proportion of their interest deductions denied under the thin capitalisation rules (emphasis added).
 
 1.7 To address this, amendments will exclude special purpose entities from the thin capitalisation rules for all or part of the income year provided that the following conditions are met:
-
-
 
 •the entity is established for the purposes of managing some or all of the economic risk associated with assets, liabilities or investments (whether the entity assumes the risk from another entity or creates the risk itself);
 •at least 50% of the entity's assets are funded by debt interests; and
@@ -79,8 +70,8 @@ Section 820-39 was inserted into the ITAA 1997 by the Taxation Laws Amendment Ac
 Relevantly, as to the scope and operation of subsection 820-39(3) of the ITAA 1997, paragraph 1.14 of the EM states that:
 
 1.14 The three conditions in subsection 820-39(3) of the ITAA 1997 seek to cover a broad and ever expanding range of
-              securitisation activity and structures
-              . For example, the conditions seek to include a warehousing type entity where securitised assets are temporarily placed pending their transfer to another entity. The conditions also seek to cover a two tiered securitisation structure where one entity holds the securitised assets and the other entity issues the debt interests (emphasis added).
+ securitisation activity and structures
+ . For example, the conditions seek to include a warehousing type entity where securitised assets are temporarily placed pending their transfer to another entity. The conditions also seek to cover a two tiered securitisation structure where one entity holds the securitised assets and the other entity issues the debt interests (emphasis added).
 
 As the EM makes clear, the legislative amendments to the thin capitalisation regime introducing section 820-39 of the ITAA 1997 provide an expansion to the treatment of bona fide securitisation vehicles. The inclusion of the conditions in subsection 820-39(3) of the ITAA 1997 were thus intended to cover all securitisation entities that would otherwise not have been caught by section 820-942 of the ITAA 1997 including those securitisation entities that create the risk themselves.
 The Senate Economics Legislation Committee report into the Provisions of the Taxation Laws Amendment Bill (No. 5) 2003 (the SELC report) echoes the statements made in the EM regarding the scope and purpose of section 820-39 of the ITAA 1997. For example, paragraphs 2.16 and 2.21 of the SELC report relevantly states:
@@ -88,8 +79,8 @@ The Senate Economics Legislation Committee report into the Provisions of the Tax
 2.16 This Bill, will, if passed, exempt certain special purpose entities, in particular, 'securitisation vehicles' from the operation of the thin capitalisation regime.
 
 2.21 As explained in the explanatory memorandum, this condition [paragraph 820-39(3)(c) of the ITAA 1997] seeks to ensure that the entity (that is
-              the securitisation vehicle
-              ) meets or would meet an internationally recognised rating agency's requirements for an insolvency remote special purpose entity (that is the possibility of the entity becoming insolvent is remote). (emphasis added)
+ the securitisation vehicle
+ ) meets or would meet an internationally recognised rating agency's requirements for an insolvency remote special purpose entity (that is the possibility of the entity becoming insolvent is remote). (emphasis added)
 
 In relation to paragraph 820-39(3)(a) of the ITAA 1997 specifically, the EM states the following at paragraph 1.8:
 
@@ -111,10 +102,10 @@ Does the taxpayer entity satisfy paragraph 820-39(3)(a) of the ITAA 1997?
 In the present case, the taxpayer (entity A) was established for the purpose of financing the construction and ongoing operation of the project. Entity A has borrowed funds from a syndicate of lenders under a financing arrangement and on-lent those funds to another entity (entity B) on exactly the same terms and conditions as the financing arrangement with the syndicate of lenders. Entity A has not entered into a securitisation arrangement as commonly understood, irrespective of any risk it may have assumed or created under the financing structure. It is not a securitisation entity. Rather, entity A is a mere conduit, simply borrowing funds and on-lending those funds to another entity.
 Accordingly, entity A does not satisfy paragraph 820-39(3)(a) of the ITAA 1997 and it will therefore not obtain the benefit of the exclusion from the thin capitalisation rules provided by section 820-39 of the ITAA 1997.
 Date of decision:
-         18 April 2012
+  18 April 2012
 
 Year of income:
-           Year ending 30 June 2012 to the year ending 30 June 2019
+  Year ending 30 June 2012 to the year ending 30 June 2019
 
 Legislative References:
 
@@ -123,7 +114,6 @@ Acts Interpretation Act 1901   section 15AA
 Taxation Laws Amendment Act (No 5) 2003   The Act
 
 Case References:
-
 
 K & S Lake City Freighters Pty Ltd v Gordon & Gotch Ltd   (1985) 157 CLR 309
 
@@ -140,36 +130,31 @@ Related ATO Interpretative Decisions
 Other References:
 
  Explanatory Memorandum to the Taxation Laws Amendment Bill (No 5) 2003
-          Senate Economics Legislation Committee report into the Provisions of the Taxation Laws Amendment Bill (No. 5) 2003
-          'Structured Finance - Guide to Legal Issues in Rating Australian Securitization', Standard and Poor's Rating Services, 2005
-          Bailey, K, Davies, M, Dixon Smith, L 'Asset Securitisation in Australia', Financial Stability Review, September 2004, pp. 48-56, at p. 48
-
+ Senate Economics Legislation Committee report into the Provisions of the Taxation Laws Amendment Bill (No. 5) 2003
+ 'Structured Finance - Guide to Legal Issues in Rating Australian Securitization', Standard and Poor's Rating Services, 2005
+ Bailey, K, Davies, M, Dixon Smith, L 'Asset Securitisation in Australia', Financial Stability Review, September 2004, pp. 48-56, at p. 48
 
 Keywords
 
 Inward investing entity
-          Thin capitalisation
-
+ Thin capitalisation
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         27 April 2012
+  27 April 2012
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 18 April 2012

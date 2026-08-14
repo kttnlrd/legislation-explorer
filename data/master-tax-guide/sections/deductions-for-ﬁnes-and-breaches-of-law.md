@@ -11,6 +11,6 @@ Penalties or ﬁnes imposed, eg tax shortfall penalties, as a result of breaches
 
 ATO guidance indicates professional footballers may deduct ﬁnes or penalties for on-ﬁeld conduct and related legal expenses that result from their performance as a player and part of a football game. However, ﬁnes for oﬀ-ﬁeld breaches of conduct are not deductible.
 
-Fees for the late lodgment of documents by corporations under the corporations regulations and penalties for prescribed oﬀences imposed under the Corporations law are “penalties” and therefore not deductible (TD 94/84). As to late payment of rates and land tax, see ¶16-870.
+Fees for the late lodgment of documents by corporations under the corporations regulations and penalties for prescribed oﬀences imposed under the Corporations law are "penalties" and therefore not deductible (TD 94/84). As to late payment of rates and land tax, see ¶16-870.
 
 *Refs: ITAA97 s 26-5)*

@@ -15,13 +15,13 @@ Depending on the type of ETP, access to the tax oﬀset for ETPs is limited to t
 
 The table below sets out the types of ETPs and the applicable cap for each type of payment.
 
-Column 1                                                 Column 2 Smaller of the ETP cap and whole-of-income cap ETP cap only applies to:                                       applies to: An early retirement scheme payment that exceeds the tax- A “golden handshake” whether paid: free limit* (only the amount in excess of the limit is an ETP) • under a contract or an industrial award obligation
+Column 1                                                 Column 2 Smaller of the ETP cap and whole-of-income cap ETP cap only applies to:                                       applies to: An early retirement scheme payment that exceeds the tax- A "golden handshake" whether paid: free limit* (only the amount in excess of the limit is an ETP) • under a contract or an industrial award obligation
 
 - in recognition of prior service
 
-limit* (only the amount in excess of the limit is an ETP) A payment made because of the employee’s permanent             A payment in lieu of notice disability Compensation payment for personal injury                       A payment for unused sick leave Compensation for unfair dismissal                              A payment for unused rostered days oﬀ Compensation for harassment                                    A payment not covered in column 1 Compensation for discrimination
+limit* (only the amount in excess of the limit is an ETP) A payment made because of the employee's permanent             A payment in lieu of notice disability Compensation payment for personal injury                       A payment for unused sick leave Compensation for unfair dismissal                              A payment for unused rostered days oﬀ Compensation for harassment                                    A payment not covered in column 1 Compensation for discrimination
 
-* For the tax-free limit, see “Redundancy and early retirement scheme payments” below.
+* For the tax-free limit, see "Redundancy and early retirement scheme payments" below.
 
 Taxation of employment termination payments Employment termination payments Component                                Tax treatment Tax free component                       Not assessable income and not exempt income
 

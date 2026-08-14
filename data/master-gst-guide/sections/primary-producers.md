@@ -13,7 +13,7 @@ paragraph: "¶25-140"
 
 - Exports are GST-free (¶9-200).
 
-- Livestock sales are taxable, but slaughtered stock for human consumption are GST-free as “food”.
+- Livestock sales are taxable, but slaughtered stock for human consumption are GST-free as "food".
 
   Delivery of livestock to a processor is a taxable supply (¶13-110).
 
@@ -23,15 +23,15 @@ paragraph: "¶25-140"
 
 - At auctions, the GST-inclusive or GST-exclusive nature of the sale will need to be disclosed (¶4-210).
 
-- Unprocessed grains, cereal and sugar are not GST-free as “food”. Nor are edible plants still under
+- Unprocessed grains, cereal and sugar are not GST-free as "food". Nor are edible plants still under
 
   cultivation (¶13-110).
 
-- Food fit for human consumption sold at the farm gate is GST-free, except for unprocessed cow’s milk
+- Food fit for human consumption sold at the farm gate is GST-free, except for unprocessed cow's milk
 
   which is subject to GST (¶13-110).
 
-- “No strings attached” subsidies are not subject to GST. If conditional, this may be a taxable supply by
+- "No strings attached" subsidies are not subject to GST. If conditional, this may be a taxable supply by
 
   the recipient (¶4-040).
 

@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
   - (ii) valued under the national standard cost scheme or the cost price method in the previous income year; and
 
-- (b) in the cull year, some or all of the person’s cattle (the destroyed cattle) are destroyed, because of Mycoplasma bovis, pursuant to—
+- (b) in the cull year, some or all of the person's cattle (the destroyed cattle) are destroyed, because of Mycoplasma bovis, pursuant to—
 
   - (i) a power exercised under section 121 of the Biosecurity Act 1993:
 

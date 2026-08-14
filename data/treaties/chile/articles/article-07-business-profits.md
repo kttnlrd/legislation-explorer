@@ -1,0 +1,45 @@
+---
+country: "Chile"
+country_slug: "chile"
+treaty_schedule: 53
+article: 7
+title: "Article 7 — Business Profits"
+---
+# Article 7 — Business Profits
+Chilean Convention
+CONVENTION BETWEEN AUSTRALIA AND THE REPUBLIC OF CHILE FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND FRINGE BENEFITS AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+CHAPTER III 
+-
+ TAXATION OF INCOME
+Business Profits
+1.
+The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on or has carried on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
+2.
+Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other enterprises with which it deals.
+3.
+In determining the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise, being expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred whether incurred in the State in which the permanent establishment is situated or elsewhere.
+4.
+No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
+5.
+Where profits include items of income or gains which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
+6.
+Notwithstanding the preceding provisions of this Article, premiums in respect of insurance policies issued by an enterprise of a Contracting State may be taxed in the other State in accordance with its domestic law. However, except where the premium is attributable to a permanent establishment of the enterprise situated in that other State, the tax so charged shall not exceed:
+a)
+5 per cent of the gross amount of the premiums in the case of policies of reinsurance; and
+b)
+10 per cent of the gross amount of the premiums in the case of all other policies of insurance.
+7.
+Where:
+a)
+a resident of a Contracting State is beneficially entitled, whether directly or through one or more interposed trust estates, to a share of the business profits of an enterprise carried on in the other Contracting State by the trustee of a trust estate other than a trust estate which is treated as a company for tax purposes; and
+b)
+in relation to that enterprise, that trustee would, in accordance with the principles of Article 5, have a permanent establishment in that other State,
+the enterprise carried on by the trustee shall be deemed to be a business carried on in the other State by that resident through a permanent establishment situated therein and that share of business profits shall be attributed to that permanent establishment.
+8.
+No adjustments to the profits attributable to a permanent establishment of an enterprise for a year of income shall be made by a Contracting State after the expiration of seven years from the date on which the enterprise has completed the tax filing requirements of that State for that year of income. The provisions of this paragraph shall not apply in the case of fraud, gross negligence or wilful default or where, within that period of seven years, an audit into the profits of the enterprise has been initiated by either State.
+9.
+Nothing in this Convention shall affect the taxation in Chile of a resident of Australia in respect of profits attributable to a permanent establishment, or a fixed base, situated in Chile, under both the First Category Tax and the Additional Tax provided that the First Category Tax is fully creditable in computing the amount of the Additional Tax.

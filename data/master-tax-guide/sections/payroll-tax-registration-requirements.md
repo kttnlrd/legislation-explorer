@@ -7,7 +7,7 @@ paragraph: "¶36-020"
 ---
 # Payroll tax registration requirements ¶36-020
 
-In Queensland and Western Australia, an employer who is a member of a group must register for payroll tax within 7 days after the month in which that employer pays or is liable to pay taxable wages. In the other states, an employer who is a member of a group must register within 7 days (21 days in the Northern Territory) after the month in which it pays or is liable to pay wages where the group’s weekly wages for that month exceeds the prescribed threshold.
+In Queensland and Western Australia, an employer who is a member of a group must register for payroll tax within 7 days after the month in which that employer pays or is liable to pay taxable wages. In the other states, an employer who is a member of a group must register within 7 days (21 days in the Northern Territory) after the month in which it pays or is liable to pay wages where the group's weekly wages for that month exceeds the prescribed threshold.
 
 Employers who are not members of a group must register within 7 days (21 days in the Northern Territory) after the end of a month in which they commence to pay wages in that state, where wages exceed the threshold indicated below.
 

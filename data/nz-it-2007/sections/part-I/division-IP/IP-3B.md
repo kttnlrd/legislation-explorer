@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (b) the company has net income for part of the corresponding income year; and
 
-- (c) the company provides the Commissioner with adequate financial statements under section IP 6 calculating the amount of the company’s net income for the relevant part of the corresponding income year.
+- (c) the company provides the Commissioner with adequate financial statements under section IP 6 calculating the amount of the company's net income for the relevant part of the corresponding income year.
 
 **Limit on tax loss components carried forward**
 

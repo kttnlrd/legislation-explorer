@@ -11,17 +11,17 @@ Worked example: Wash sales Issue Dorothy McShane maintains a large share portfol
 
 On 20 June 2025, Dorothy reviews her share portfolio and notes that her 50,000 shares in Ghostlight Technologies Ltd are currently trading at only $2.40 per share, having originally been acquired by Dorothy for $4.60 per share. Through research, Dorothy deduces that there are not expected to be any significant events which will have an impact on the share price in the next few days and accordingly she sells the shares with the aim of rebuying an equivalent tranche of shares within the next week.
 
-Dorothy’s capital proceeds from the sale transaction are $120,000, and her cost base is $230,000, producing a capital loss of $110,000.
+Dorothy's capital proceeds from the sale transaction are $120,000, and her cost base is $230,000, producing a capital loss of $110,000.
 
 Four days later (on 26 June 2025), Dorothy enters the market to repurchase Ghostlight shares. She buys 50,000 shares for their current selling price of $2.45 per share.
 
 Dorothy wishes to offset the $110,000 capital loss against the $110,000 capital gain when preparing her income tax return for the year ended 30 June 2025. Advise Dorothy whether this will be possible and outline the risks with this strategy.
 
-Solution So-called “wash sales” occur where an asset is sold and a substantially identical asset is then repurchased after a short period of time. The motive behind the transaction is usually to obtain a tax benefit, namely a capital loss (in the case of an investor) or an allowable deduction (in the case of a trader) on the sale of the original asset, which usually consists of shares, cryptocurrency or a similar financial investment.
+Solution So-called "wash sales" occur where an asset is sold and a substantially identical asset is then repurchased after a short period of time. The motive behind the transaction is usually to obtain a tax benefit, namely a capital loss (in the case of an investor) or an allowable deduction (in the case of a trader) on the sale of the original asset, which usually consists of shares, cryptocurrency or a similar financial investment.
 
-The ATO’s sophisticated data analytics are able to identify wash sales through access to data from third parties, such as share registries and crypto asset exchanges.
+The ATO's sophisticated data analytics are able to identify wash sales through access to data from third parties, such as share registries and crypto asset exchanges.
 
-In 2008, the ATO issued Taxation Ruling TR 2008/1, which aims to specifically prevent arrangements where: “… in substance there is no significant change in the taxpayer’s economic exposure to, or interest in, the asset, or where that exposure or interest may be reinstated by the taxpayer” but where the taxpayer has incurred a loss arising from the arrangement.
+In 2008, the ATO issued Taxation Ruling TR 2008/1, which aims to specifically prevent arrangements where: "… in substance there is no significant change in the taxpayer's economic exposure to, or interest in, the asset, or where that exposure or interest may be reinstated by the taxpayer" but where the taxpayer has incurred a loss arising from the arrangement.
 
 In other words, the ATO regards the purchase and the sale as effectively the same asset and they can apply the anti-avoidance provisions in ITAA36 Pt IVA to cancel any tax benefits (the resulting capital or revenue loss) and apply penalties.
 

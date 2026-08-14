@@ -11,6 +11,6 @@ It is a basic premise that tax can only be levied on the proper taxpayer. ITAA36
 
 Unless the legislation provides otherwise — and it would have to do so in speciﬁc terms — one entity is not to be taxed by reference to the income of another. An important exception to this rule is provided by the Fringe Beneﬁts Tax Assessment Act 1986 where fringe beneﬁts provided to an employee in respect of their employment are taxed in the hands of the employer as provider of the beneﬁt rather than in the hands of the employee as recipient of the beneﬁt (¶35-090).
 
-Another exception is the foreign accruals tax system. This system, aimed at combating the sheltering of proﬁts in low-tax countries, attributes income derived by foreign companies and trusts to controlling Australian residents and taxes the income on an accruals basis (¶21-105). See also the personal services income regime, which was introduced to counter the channelling of an individual’s personal services income into a company or other business structure (¶30-600).
+Another exception is the foreign accruals tax system. This system, aimed at combating the sheltering of proﬁts in low-tax countries, attributes income derived by foreign companies and trusts to controlling Australian residents and taxes the income on an accruals basis (¶21-105). See also the personal services income regime, which was introduced to counter the channelling of an individual's personal services income into a company or other business structure (¶30-600).
 
 *Refs: ITAA97 s 4-10)*

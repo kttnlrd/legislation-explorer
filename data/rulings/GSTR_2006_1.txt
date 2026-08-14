@@ -4,44 +4,42 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 358
-  • Division 358
-  • Subdivision 40-A
-  • div 40
-  • division 40
+ • Div 358
+ • Division 358
+ • Subdivision 40-A
+ • div 40
+ • division 40
 
 Cases Referenced:
-  • Chan v. Cresdon Pty Ltd
+ • Chan v. Cresdon Pty Ltd
 (1989) 168 CLR 242
-  • Chapman v. Sutton
+ • Chapman v. Sutton
 (1846) 2 CB 634
-  • Credits Pty Ltd v. Miles
+ • Credits Pty Ltd v. Miles
 
-  • Inland Revenue v. Motorcorp Holdings Ltd 
-  • Mockett v. Ames
+ • Inland Revenue v. Motorcorp Holdings Ltd 
+ • Mockett v. Ames
 (1871) 23 LT 729
-  • Montreal v. Germain
+ • Montreal v. Germain
 
-  • Montreal v. Sperling Hotel Co Ltd
+ • Montreal v. Sperling Hotel Co Ltd
 (1973)
-  • Morrell v. Cowan
+ • Morrell v. Cowan
 (1877)
-  • National Australia Bank Ltd v. Mc
-  • Raikes v. Todd
+ • National Australia Bank Ltd v. Mc
+ • Raikes v. Todd
 (1838)
-  • Refrigeration Co Pty Ltd v. Nuco Pty Ltd
+ • Refrigeration Co Pty Ltd v. Nuco Pty Ltd
 (1992) 110 FLR 25
-  • Robertson v. Healy
+ • Robertson v. Healy
 (1866)
-  • Shaw v. Director 
-  • Smith v. Passmore
+ • Shaw v. Director 
+ • Smith v. Passmore
 (1883)
-  • Sunbird Plaza Pty Ltd v. Maloney
+ • Sunbird Plaza Pty Ltd v. Maloney
 (1988) 166 CLR 245
 
 Topics: CGT, GST, Trusts, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -56,7 +54,7 @@ Back to browse
 34 related documents
 Goods and Services Tax Ruling
 GSTR 2006/1
-Goods and services tax:  guarantees and indemnities
+Goods and services tax: guarantees and indemnities
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -106,14 +104,14 @@ What this Ruling is about
 A New Tax System (Goods and Services Tax) Regulations 1999
 (the GST regulations).
 2. In particular, this Ruling describes the different kinds of guarantees and indemnities, and distinguishes between contracts and rights commonly known as guarantees or indemnities that do not fall within items 7 or 7A, and those contracts and rights that do.
-3. The Ruling also identifies the supplies that take place under typical guarantees and indemnities, and classifies them into those arrangements  that may be taxable supplies and those arrangements that may be financial supplies, and therefore potentially input taxed supplies.
+3. The Ruling also identifies the supplies that take place under typical guarantees and indemnities, and classifies them into those arrangements that may be taxable supplies and those arrangements that may be financial supplies, and therefore potentially input taxed supplies.
 Date of effect
 4. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 5. [Omitted.]
 Frequently used terms
 'Guarantee' and 'indemnity'
 6. This Ruling deals with guarantees and indemnities. It uses common legal concepts of both these terms to explain how GST applies to them. Both terms, however, can have a number of meanings in commercial and legal contexts, and must, therefore, be defined with care. This section explains these terms, and some related terms, and how they are used in this Ruling.
-7. The guarantee and indemnity arrangements covered by items 7 and 7A in the table in subregulation 40-5.09(3) of the GST Regulations have characteristics in common:  they all involve three parties, and underlying indemnities flow from the relationships between the parties. The nature of the risk undertaken by the surety in these arrangements is a form of credit risk. In this Ruling 'credit risk' means the risk that the principal will be unable to reimburse the surety if the surety is required to make a payment.
+7. The guarantee and indemnity arrangements covered by items 7 and 7A in the table in subregulation 40-5.09(3) of the GST Regulations have characteristics in common: they all involve three parties, and underlying indemnities flow from the relationships between the parties. The nature of the risk undertaken by the surety in these arrangements is a form of credit risk. In this Ruling 'credit risk' means the risk that the principal will be unable to reimburse the surety if the surety is required to make a payment.
 8. [Omitted.]
 Terms for the parties to a guarantee or indemnity arrangement
 9. The three parties involved in guarantees and indemnities covered by items 7 or 7A are known by a number of different names in commercial practice.
@@ -143,8 +141,8 @@ indemnifier.
 15. In this Ruling, this party is called the 'surety'. To assist readers to understand the analysis, the term 'surety' has been used consistently throughout the Ruling, even though an indemnifier is not technically a surety. 'Surety under a guarantee', or 'surety under an indemnity' is specified where necessary.
 16. For example, therefore, in a simple guarantee for a bank loan, the borrower is referred to as the principal, the bank is referred to as the creditor, and the person who stands as guarantor is referred to as the surety.
 Terms used for parties to a guarantee of performance under a contract of service
-17. Different terms are used for the parties to contracts that guarantee the performance of services. If a guarantee is given that certain work will be done, or services performed, the following terms are used:  the 'service provider' is the party whose services are guaranteed; the 'recipient' is the party who receives the services and the benefit of the guarantee; and the 'surety' is the party giving the guarantee.
-18. Thus, in a simple guarantee of the performance of building work where a bank guarantees the work of a contractor for a land owner:  the contractor is the service provider; the land owner is the recipient; and the bank is the surety.
+17. Different terms are used for the parties to contracts that guarantee the performance of services. If a guarantee is given that certain work will be done, or services performed, the following terms are used: the 'service provider' is the party whose services are guaranteed; the 'recipient' is the party who receives the services and the benefit of the guarantee; and the 'surety' is the party giving the guarantee.
+18. Thus, in a simple guarantee of the performance of building work where a bank guarantees the work of a contractor for a land owner: the contractor is the service provider; the land owner is the recipient; and the bank is the surety.
 Deeds of guarantee
 19. For simplicity, this Ruling refers to guarantees as
 contracts of guarantee
@@ -171,7 +169,7 @@ an indemnity that is not a contract of insurance (item 7A).
 Guarantees and indemnities in general law
 24. A guarantee is an agreement under which one entity (the surety) agrees to be liable for the obligations of another (the principal) if the principal defaults. An indemnity is an obligation to an entity (the creditor) assumed by another (the surety), under which the surety agrees to keep the creditor harmless from risks arising from dealings with a third party.
 [1]
-25. Under a guarantee, there are two obligations:  the primary and secondary obligation. The principal has the primary obligation to the creditor, the surety the secondary. In other words, the surety has no liability under the guarantee unless the principal defaults on the primary obligation.
+25. Under a guarantee, there are two obligations: the primary and secondary obligation. The principal has the primary obligation to the creditor, the surety the secondary. In other words, the surety has no liability under the guarantee unless the principal defaults on the primary obligation.
 26. A surety under a guarantee can not have a primary liability, nor can the surety's liability be greater than the principal's liability. If the primary obligation is extinguished, so is the guarantee. An event that alters the surety's liability may also extinguish the guarantee.
 27. The nature of the obligation assumed by the surety is the main distinction between a guarantee and an indemnity. In a contract of guarantee, the surety assumes a secondary obligation in case of the principal's default. In an indemnity, the surety assumes a primary obligation from the time the contract is made, whether or not the principal defaults. That is, the creditor can recover directly from the surety under an indemnity, without waiting for default by the principal. The principal, of course, also has a primary liability to the creditor. Unlike the obligation of the surety under a guarantee, the obligation under an indemnity may differ from what would have been the obligation of the principal.
 28. The surety under either a guarantee or an indemnity has a right of recovery for losses against the principal. That is, the surety has a right to be indemnified or reimbursed by the principal. This right may be contractual or arise only in equity. This Ruling refers to this as the 'underlying indemnity'.
@@ -251,10 +249,10 @@ Meaning of the terms 'guarantee' and 'indemnity' in items 7 and 7A
 51. Common characteristics of guarantees and indemnities, in the context of items 7 and 7A of the table in subregulation 40-5.09(3) of the GST Regulations, are that the arrangements involve three parties, and in each arrangement there is an underlying indemnity which flows from the relationships between the parties.
 52. Because of the existence of this underlying indemnity, the nature of the risk undertaken by the surety in these arrangements is the risk that the principal will be unable to reimburse the surety if it is required to make a payment. This risk is a form of credit risk.
 Guarantees
-53. There are three parties to a guarantee:  the principal, the creditor and the surety. Guarantees are contractual arrangements under which the surety agrees to make good the obligation of the principal if the principal defaults.
+53. There are three parties to a guarantee: the principal, the creditor and the surety. Guarantees are contractual arrangements under which the surety agrees to make good the obligation of the principal if the principal defaults.
 54. Guarantees (and indemnities) may be recompensed or non-recompensed. In a recompensed guarantee, the surety is paid a fee, usually by the principal. Most guarantees provided in a commercial environment are recompensed guarantees. But the form of guarantee under which the directors of a family company guarantee the company's obligations is usually a non-recompensed guarantee.
 55. The diagram below sets out the flow of obligations and consideration under a typical recompensed guarantee for lease payments. The creditor supplies a commercial lease to the principal. The principal pays the surety to provide rights under a guarantee to the creditor (a financial supply). The surety, in this case, receives consideration from two sources, the creditor and the principal.
-Figure 1:  Flow of supplies and consideration under a guarantee
+Figure 1: Flow of supplies and consideration under a guarantee
 Supply of an interest in a guarantee
 56. Paragraph 12 of Taxation Ruling TR 96/23,
 [15]
@@ -263,7 +261,7 @@ On entering into a guarantee contract, a creditor acquires a further asset (in a
 57. The supply of an interest in a guarantee must be for consideration unless the guarantee is under seal:
 The consideration for the guarantee must move from the person to whom the guarantee is given; although indeed the whole consideration need not move from that person. In the context of a guarantee, the consideration will be in the form of a creditor incurring some detriment in reliance on the promise to guarantee rather than conferring some benefit upon the guarantor.
 [16]
-58. The consideration that the creditor provides is their entry into the arrangement with the principal:  for example, the entry into a lease. This view follows that given in Taxation Ruling TR 96/23 at paragraph 59 to 60, which itself cites the second edition of
+58. The consideration that the creditor provides is their entry into the arrangement with the principal: for example, the entry into a lease. This view follows that given in Taxation Ruling TR 96/23 at paragraph 59 to 60, which itself cites the second edition of
 The Modern Contract of Guarantee
 and cases to support its view. The third edition of
 The Modern Contract of Guarantee
@@ -389,8 +387,8 @@ What is a performance bond?
 115. A performance bond is an undertaking by a person to make good a contractual obligation of another to a third party, usually on proof of the failure of that other person to perform the relevant obligation.
 116. When an entity agrees to guarantee the work or performance of another under a performance bond, the entity makes a financial supply in the same manner as discussed at paragraphs 53 to 64. The supply of rights under a performance bond is a financial supply, and the consideration consists of the recipient's engagement of the service provider, together with any fees the service provider pays for the guarantee.
 117. The entry into the contract with the service provider is not a supply by the recipient to the surety for the purposes of the GST law.
-118. The diagram below sets out the flow of obligations and consideration under a typical performance bond for building work. The recipient enters into a building contract with the principal. The service provider pays the surety to provide rights under a performance bond to the recipient (a financial supply). The surety receives consideration from two sources:  the recipient and the service provider.
-Figure 2:  Flow of supplies and consideration under a performance bond
+118. The diagram below sets out the flow of obligations and consideration under a typical performance bond for building work. The recipient enters into a building contract with the principal. The service provider pays the surety to provide rights under a performance bond to the recipient (a financial supply). The surety receives consideration from two sources: the recipient and the service provider.
+Figure 2: Flow of supplies and consideration under a performance bond
 119. Performance bonds are used in large-scale project financing transactions. An example arising in the construction industry is an unconditional undertaking from a financial institution or insurance company addressed to a proprietor of land, in which the institution or company promises to pay the proprietor the amount set out in the undertaking on demand from the proprietor.
 [32]
 120. Some performance bonds contain an option for the surety to perform the contract rather than pay the relevant amount, while, rarely, others will require performance only.
@@ -518,7 +516,7 @@ The Commissioner of Inland Revenue v. Motorcorp Holdings Ltd and Ors
 [2005] NZCA 33, CA17/04, paragraphs [60] and [61].
 [5]
 Halsbury's Laws of England
-(4th ed) 9:  543; 18:  1299n.
+(4th ed) 9: 543; 18: 1299n.
 [6]
 Sutton, K 1999,
 Insurance Law in Australia
@@ -540,7 +538,7 @@ See paragraphs 17 and 18 for an explanation of 'service provider' and 'recipient
 [14]
 [Omitted.]
 [15]
-TR 96/23 Income tax:  capital gains:  implications of a guarantee to pay a debt.
+TR 96/23 Income tax: capital gains: implications of a guarantee to pay a debt.
 [16]
 O'Donovan, J & Phillips, J 1996,
 The Modern Contract of Guarantee
@@ -594,7 +592,7 @@ TR 96/23 paragraph 14.
 [23]
 Provided the other conditions of subregulation 40-5.09(1) of the GST regulations are met. Given that under subregulation 40-5.06(2) of the GST regulations, the acquirer of a financial interest is also the financial supply
 provider
-of the interest, it is usual for the acquirer of an interest under subregulation 40-5.09(1) to also be making a financial supply. This is known as the 'acquisition-supply'. For more detail on the acquisition-supply, see GSTR 2002/2 Goods and services tax:  GST treatment of financial supplies and related supplies and acquisitions.
+of the interest, it is usual for the acquirer of an interest under subregulation 40-5.09(1) to also be making a financial supply. This is known as the 'acquisition-supply'. For more detail on the acquisition-supply, see GSTR 2002/2 Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions.
 [23A]
 J Phillips and J Donovan,
 The modern contract of guarantee,
@@ -638,8 +636,8 @@ Paragraph 9-17(1)(b) of the GST Act.
 Previously issued in draft form as GSTR 2005/D2
 References
 ATO references:
-NO  2005/2263
-ISSN:  1443-5160
+NO 2005/2263
+ISSN: 1443-5160
 Related Rulings/Determinations:
 GSTR 2002/2
 GSTR 2003/16
@@ -674,23 +672,23 @@ warranty
 Business Line:
 ISP - GST
 Legislative References:
-AIA 1901  15AD
-ANTS(GST)A 1999  9-10(2)(e)
-ANTS(GST)A 1999  9-10(2)(g)
-ANTS(GST)A 1999  9-10(4)
+AIA 1901 15AD
+ANTS(GST)A 1999 9-10(2)(e)
+ANTS(GST)A 1999 9-10(2)(g)
+ANTS(GST)A 1999 9-10(4)
 ANTS(GST)A 1999 9-17(1)(b)
-ANTS(GST)A 1999  40-5
-ANTS(GST)A 1999  195-1
-ANTS(GST)R 1999  Subdiv 40-A
-ANTS(GST)R 1999  40-5.06(2)
-ANTS(GST)R 1999  40-5.09(1)
-ANTS(GST)R 1999  40-5.09(3)
-ANTS(GST)R 1999  40-5.11
+ANTS(GST)A 1999 40-5
+ANTS(GST)A 1999 195-1
+ANTS(GST)R 1999 Subdiv 40-A
+ANTS(GST)R 1999 40-5.06(2)
+ANTS(GST)R 1999 40-5.09(1)
+ANTS(GST)R 1999 40-5.09(3)
+ANTS(GST)R 1999 40-5.11
 ANTS(GST)R 1999 40-5.12
-ANTS(GST)R 1999  Sch 7 Pt 5
-ITAA 1997  104-25
+ANTS(GST)R 1999 Sch 7 Pt 5
+ITAA 1997 104-25
 Statute of Frauds 1677 (UK)
-TAA 1953  37
+TAA 1953 37
 TAA 1953 Sch 1 Div 358
 A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No. 1)
 A New Tax System (Goods and Services Tax) Amendment Regulation 2013 (No. 2)
@@ -746,7 +744,7 @@ Other References:
 Butterworths Australian Legal Dictionary, 1997, Butterworths, Sydney
 Halsbury's Laws of England (4th ed)
 O'Donovan, J & Phillips, J 1996, The Modern Contract of Guarantee (3rd ed), Law Book Company, Sydney
-O'Donovan, J & Phillips, J 2004, The Modern Contract of Guarantee (4th ed), Lawbook Online, accessed on-line via:  http://thompson.com.au
+O'Donovan, J & Phillips, J 2004, The Modern Contract of Guarantee (4th ed), Lawbook Online, accessed on-line via: http://thompson.com.au
 Sutton, K 1999, Insurance Law in Australia (3rd ed), Law Book Company, Sydney
 Explanatory Statement
 to the A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No. 1)

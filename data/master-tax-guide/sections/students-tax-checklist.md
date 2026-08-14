@@ -2,10 +2,10 @@
 act: "Australian Master Tax Guide"
 part: "44"
 section: "students-tax-checklist"
-title: "Students’ tax checklist"
+title: "Students' tax checklist"
 paragraph: "¶44-140"
 ---
-# Students’ tax checklist ¶44-140
+# Students' tax checklist ¶44-140
 
 - Commonwealth government education or training payments made for students aged 16 or over,
 
@@ -89,13 +89,13 @@ Supplement (FS) scheme. Variation of PAYG instalments may be appropriate once th
 
 6 months may be treated as residents for tax purposes. In years in which they are residents for only part of the income year, the tax-free threshold will be apportioned. A short term vocational experience student would not normally be a resident (¶2-130, ¶21-010).
 
-- Students under 18 years may be subject to the special tax rates applying under the minors’
+- Students under 18 years may be subject to the special tax rates applying under the minors'
 
   income rules (¶2-170).
 
 - A person who is in full-time education at a school, college or university and is under 25 years can
 
-  qualify as a dependant for the purpose of calculating a taxpayer’s liability or exemption from the
+  qualify as a dependant for the purpose of calculating a taxpayer's liability or exemption from the
 
 Medicare levy or the Medicare levy surcharge (¶2-310).
 
@@ -105,7 +105,7 @@ Medicare levy or the Medicare levy surcharge (¶2-310).
 
 - Secondary school students may use a simpliﬁed method of obtaining a TFN by applying under the
 
-ATO’s Secondary Schools TFN program (¶33-000). Overseas students whose course of study is 6 months or longer can apply online.
+ATO's Secondary Schools TFN program (¶33-000). Overseas students whose course of study is 6 months or longer can apply online.
 
 - Most educational services are GST-free (¶34-165).
 

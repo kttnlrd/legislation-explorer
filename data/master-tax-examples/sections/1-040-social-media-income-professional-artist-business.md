@@ -9,7 +9,7 @@ paragraph: "None"
 
 Worked example: Social media income; professional artist business Issue Catherine Wise works full-time in sales. For the past 3 years she has pursued her hobby on weekends as a make-up artist for weddings and other special occasions. Generally, she receives tips and gifts of champagne and flowers for her services but does not include any income or deductions relating to her make- up activities in her tax return.
 
-Catherine has gathered a following of over 200,000 people on YouTube where she posts videos on her channel showing her make-up skills. She has decided to “monetize” her channel by enabling AdSense and now earns about $2,000 each month from this endeavour. She is ready to give up her day job and work full- time in the business.
+Catherine has gathered a following of over 200,000 people on YouTube where she posts videos on her channel showing her make-up skills. She has decided to "monetize" her channel by enabling AdSense and now earns about $2,000 each month from this endeavour. She is ready to give up her day job and work full- time in the business.
 
 Advise Catherine on the tax treatment of the income she has received from her social media endeavours.
 
@@ -17,7 +17,7 @@ Solution Assessable income includes income according to ordinary concepts, that 
 
 Whether the revenue (moneys, cash) received by Catherine from her social media endeavours is income received from carrying on a business or income from a hobby is a question of fact and degree. This distinction is important because income received from pursuing a hobby is not considered assessable income.
 
-There are no statutory rules or case law for determining whether Catherine’s social media activities amount to the carrying on of a business. This new economy is yet to be tested by the courts and authorities. With the low barrier to entry for operating a business and 24/7 communications in the virtual world compared with the “old bricks and mortar” economy, a perceived hobby can factually convert into a business instantaneously.
+There are no statutory rules or case law for determining whether Catherine's social media activities amount to the carrying on of a business. This new economy is yet to be tested by the courts and authorities. With the low barrier to entry for operating a business and 24/7 communications in the virtual world compared with the "old bricks and mortar" economy, a perceived hobby can factually convert into a business instantaneously.
 
 This makes it difficult to determine when the timing of the crossover from hobby to business actually occurred.
 
@@ -43,9 +43,9 @@ The courts, however, have developed a series of indicators that can be applied t
 
 No one indicator is decisive in determining whether a business exists (Evans v FC of T 89 ATC 4540). The indicators must be considered in combination and as a whole.
 
-Although the fundamentals for determining when business activities are being carried on are the same for traditional businesses and online businesses, there are further characteristics to consider in Catherine’s case.
+Although the fundamentals for determining when business activities are being carried on are the same for traditional businesses and online businesses, there are further characteristics to consider in Catherine's case.
 
-Based on the nature of Catherine’s work, she could be considered carrying on a business as a professional artist (Taxation Ruling TR 2005/1). A professional artist is a person who carries on the activities of a “professional arts business” (ITAA97 s 35-10(5)) as either: (a) an author of a literary, dramatic, musical or artistic work (b) a performing artist, or (c) a production associate.
+Based on the nature of Catherine's work, she could be considered carrying on a business as a professional artist (Taxation Ruling TR 2005/1). A professional artist is a person who carries on the activities of a "professional arts business" (ITAA97 s 35-10(5)) as either: (a) an author of a literary, dramatic, musical or artistic work (b) a performing artist, or (c) a production associate.
 
 TR 2005/1 states that the nature of art activity means that arts businesses typically have different characteristics to those found in other businesses. For example, people who engage in professional arts businesses are often motivated by creative purposes and the desire to influence public opinion. Art is not always produced with a pre-existing market in mind; rather, an innovative artist may have to create a new market for their work. For this reason, a large part of being in business as a professional artist may involve activities directed towards reputation building and audience/market creation. This would appear to be relevant when considering many online social media type revenue streams.
 

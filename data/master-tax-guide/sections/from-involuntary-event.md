@@ -15,11 +15,11 @@ On the other hand, if the money received from a CGT event is not more than the e
 
 Example Last year, Inga bought a small factory. This year, a ﬁre destroyed part of it and she received $80,000 under an insurance policy.
 
-The factory’s cost base at the time of the ﬁre is $50,000 and the market value of the part that is not destroyed is $120,000. The cost base of the part that is destroyed is: $80,000 $50,000        × $80,000 + $120,000 =     $20,000 Accordingly, the capital gain is $60,000 (ie $80,000 − $20,000).
+The factory's cost base at the time of the ﬁre is $50,000 and the market value of the part that is not destroyed is $120,000. The cost base of the part that is destroyed is: $80,000 $50,000        × $80,000 + $120,000 =     $20,000 Accordingly, the capital gain is $60,000 (ie $80,000 − $20,000).
 
 If Inga spends $65,000 on repairing the factory, the money she received under the insurance policy is more than the repair cost by $15,000. The capital gain exceeds that by $45,000. As a result, the capital gain is reduced to $15,000 and the $65,000 she spends on repairs is reduced to $20,000.
 
-If Inga instead spends $10,000 on repairs, the money she received under the insurance policy is more than the repair cost by $70,000. This is greater than the capital gain she made. As a result, the capital gain is unaﬀected by the roll-over and the $10,000 she spends on repairs becomes part of the factory’s cost base.
+If Inga instead spends $10,000 on repairs, the money she received under the insurance policy is more than the repair cost by $70,000. This is greater than the capital gain she made. As a result, the capital gain is unaﬀected by the roll-over and the $10,000 she spends on repairs becomes part of the factory's cost base.
 
 If Inga spends $100,000 on repairs, the capital gain is disregarded and the $100,000 is reduced to $40,000.
 

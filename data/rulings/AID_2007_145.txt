@@ -3,23 +3,18 @@ ATO ID 2007/145
 ==================================================
 
 Superannuation
-        Deductibility of superannuation contributions made for directors of a corporate trustee
-        FOI status: may be released
+ Deductibility of superannuation contributions made for directors of a corporate trustee
+ FOI status: may be released
 
-
-This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of section 82AAC of the Income Tax Assessment Act 1936. That section does not apply for the 2007-08 income year and later income years. This ATO Interpretative Decision continues to be a precedential view in respect of decisions for income years up to, and including the 2006-07 income year. For the 2007-08 income year and later income years the Tax Office position is contained in  ATO ID 2008/15.
+This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of section 82AAC of the Income Tax Assessment Act 1936. That section does not apply for the 2007-08 income year and later income years. This ATO Interpretative Decision continues to be a precedential view in respect of decisions for income years up to, and including the 2006-07 income year. For the 2007-08 income year and later income years the Tax Office position is contained in ATO ID 2008/15.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the corporate trustee of a family trust entitled to a deduction under section 82AAC of the Income Tax Assessment Act 1936 (ITAA 1936), in respect of contributions made out of the assets of the trust estate to a complying superannuation fund for the two directors of the corporate trustee during the 2006-07 year of income when calculating the net income of the trust estate under subsection 95(1) of the ITAA 1936 for the year of income?
@@ -38,13 +33,9 @@ Both directors satisfy the age based requirements in section 26-80 of the Income
 Reasons for Decision
 For a contribution made by the trustee of a trust estate to be an allowable deduction to the trustee when calculating the 'net income' of the trust estate under subsection 95(1) of the ITAA 1936 the trustee must satisfy the requirements of section 82AAC of the ITAA 1936. Under subsection 82AAC(1) of the ITAA 1936, the amount of a contribution made by a taxpayer will be allowable as a deduction to the taxpayer for the year of income in which the contribution was made if the following conditions have been satisfied:
 
-
-
 •the contribution was made to a fund for the purpose of making provision for superannuation benefits payable for another person (whether or not the benefits are payable to a dependant of the other person in the event of the person's death) (paragraph 82AAC(1)(a) of the ITAA 1936)
 •the fund is a complying superannuation fund in the year of income in which the contribution is made (paragraph 82AAC(1)(b) of the ITAA 1936), and
 •one or more of these applies:
-
-
 
 i. the other person was an eligible employee (subparagraph 82AAC(1)(c)(i) of the ITAA 1936)
 ii. the contribution reduces the taxpayer's charge percentage in respect of the other person under section 22 or 23 of the Superannuation Guarantee (Administration) Act 1992 (SGAA) (subparagraph 82AAC(1)(c)(ii) of the ITAA 1936)
@@ -53,8 +44,6 @@ iii. the other person was an employee for the purposes of that Act (subparagraph
 A trust is not considered to be a 'taxpayer' for the purposes of section 82AAC of the ITAA 1936. This is because unlike a person or a company, a trust has no separate legal identity. The legal identity of the trust lies with the trustee. It is for this reason that the trustee of a trust is considered to be 'the taxpayer' and not the trust. For the same reason, a person will not be an employee of the trust but rather they will be an employee of the trustee.
 In the circumstances of this case, the corporate trustee (the taxpayer) proposes to make contributions for the benefit of the two directors of the corporate trustee in the 2006-07 year of income out of the assets of the trust. The proposed contributions are to be made:
 
-
-
 1) to a complying superannuation fund, and
 2) for the purpose of providing superannuation benefits for another person (that is, the two directors).
 
@@ -62,15 +51,11 @@ Therefore, the first two limbs of subsection 82AAC(1) of the ITAA 1936 have been
 However, for the contributions to be an allowable deduction when calculating the net income of the trust under subsection 95(1) of the ITAA 1936 one or more of the three conditions in paragraph 82AAC(1)(c) of the ITAA 1936 must also be satisfied. Relevantly, subparagraph 82AAC(1)(c)(i) of the ITAA 1936 will be satisfied if the other person was an 'eligible employee' of the taxpayer in the year of income in which the contribution was made. Importantly, a person will only qualify as an 'eligible employee' under subsection 82AAA(1) of the ITAA 1936 if they are a person other than the taxpayer who is also an 'employee' of the taxpayer as defined in subsection 82AAA(1) of the ITAA 1936.
 An 'employee' is defined in subsection 82AAA(1) of the ITAA 1936 to mean a person who is 'employed' by a taxpayer and who is either:
 
-
-
 (a)engaged in producing assessable income of the taxpayer, or
 (b)a resident of Australia engaged in the business of the taxpayer.
 
 In this case, the directors of the corporate trustee are deemed to be 'employed' by the corporate trustee under subsection 82AAA(2) of the ITAA 1936.
 However, for each director to be considered an 'employee' as defined in subsection 82AAA(1) of the ITAA 1936, they must also either be:
-
-
 
 (a)engaged in producing assessable income of the trust, or
 (b)a resident of Australia engaged in the business of the trust.
@@ -86,10 +71,10 @@ As the corporate trustee has satisfied one of the three conditions in paragraph 
 Since the corporate trustee has satisfied all three limbs of subsection 82AAC(1) of the ITAA 1936, the corporate trustee is entitled to claim a deduction for contributions made for the benefit of the directors in the 2006-07 year of income when calculating the 'net income' of the trust estate under subsection 95(1) of the ITAA 1936.
 The corporate trustee can claim a deduction for the amount of the contribution up to the age based deduction limit that applies to each director under subsection 82AAC(2) of the ITAA 1936 for the 2006-07 year of income.
 Date of decision:
-         29 June 2007
+  29 June 2007
 
 Year of income:
-           30 June 2007
+  30 June 2007
 
 Legislative References:
 
@@ -99,36 +84,30 @@ Superannuation Guarantee (Administration) Act 1992   section 22   section 
 
 Case References:
 
-
 Re James; Bagot's Executor and Trustee Co Ltd v. McGregor   [1949] SASR 143
-
 
 Keywords
 
 Contributions for employees - allowable deductions
-          Superannuation contributions for employees
-          Superannuation contributions - deductions & rebates
-
+ Superannuation contributions for employees
+ Superannuation contributions - deductions & rebates
 
 Business Line:
-         Superannuation Centre of Expertise
+  Superannuation Centre of Expertise
 
 Date of publication:
-         13 July 2007
+  13 July 2007
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 29 June 2007

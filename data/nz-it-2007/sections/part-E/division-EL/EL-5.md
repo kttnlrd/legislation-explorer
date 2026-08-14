@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(5)**  Subsection (6) applies in relation to a disposal described in subsection (2) when—
 
-- (a) an unused excess amount was transferred to the portfolio from another of the person’s properties that was not included in the portfolio; and
+- (a) an unused excess amount was transferred to the portfolio from another of the person's properties that was not included in the portfolio; and
 
 - (b) the person did not derive income from the disposal of the other property.
 

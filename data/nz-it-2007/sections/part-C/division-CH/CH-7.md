@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 An amount treated as income of a person under any of the following sections is income of the person:
 
-- (a) section GA 1 (Commissioner’s power to adjust):
+- (a) section GA 1 (Commissioner's power to adjust):
 
 - (b) section GB 23 (Excessive remuneration to relatives):
 

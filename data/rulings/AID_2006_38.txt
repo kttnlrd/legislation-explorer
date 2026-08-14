@@ -3,18 +3,14 @@ ATO ID 2006/38
 ==================================================
 
 Income tax
-        Consolidation:  CGT event L5 where ACA is not negative after step 4
-        FOI status: may be released
-
-
+ Consolidation: CGT event L5 where ACA is not negative after step 4
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does CGT event L5 in section 104-520 of the Income Tax Assessment Act 1997 (ITAA 1997) happen to the head company of a consolidated group when an entity ceases to be a subsidiary member of the group and the group's allocable cost amount (ACA) for the leaving entity is not negative?
@@ -24,23 +20,17 @@ Facts
 On 1 July 2005 Head Co sells all of A Co ordinary shares to a third party. A Co ceases to be a subsidiary member of Head Co's consolidated group from that time.
 A Co's assets at the leaving time are:
 
-
-
 •cash $200, and
 •land $1,000.
 
 A Co's liabilities are:
-
-
 
 •bank loan of $1,000, and
 •an intra-group loan from HC of $100 (the market value of the corresponding asset of HC is $100).
 
 At the leaving time the bank loan and intra-group loan remain outstanding.
 
-
-
-Table 1:  A Co - Statement of Financial Position of A Co at 1 July 2005 ($)
+Table 1: A Co - Statement of Financial Position of A Co at 1 July 2005 ($)
 
 Cash
 200
@@ -57,17 +47,12 @@ Bank Loan
 
 1,000
 
-
 1,200
 
-
 1,200
-
 
 Reasons for Decision
 Subsection 104-520(1) of the ITAA 1997 provides that CGT event L5 happens if:
-
-
 
 (a)an entity ceases to be a *subsidiary member of a *consolidated group or a *MEC group; and
 (b)in working out the group's *allocable cost amount for the entity, the amount remaining after applying step 4 of the table in section 711-20 is negative.* denotes a term defined in subsection 995-1(1) of the ITAA 1997
@@ -76,18 +61,13 @@ If the ACA is negative after applying step 4 of the table in section 711-20 of t
 When A Co leaves, Head Co's consolidated group, the cost of membership interests that the head company holds in A Co is set just before A Co ceases to be a subsidiary member of the group. The tax cost of the membership interests is set at the interests' tax cost setting amount. The tax cost setting amount of the membership interests is worked out by determining the old group's ACA for A Co in accordance with section 711-20 of the ITAA 1997, then allocating the result to each of the membership interests in A Co.
 Table 2 (below) sets out the exit ACA calculation for Head Co's membership interests in A Co.
 
-
-
 Table 2: Exit ACA calculation for A Co ($)
 
 Step 1
 
-
 Add terminating value of assets:
 
-
 1,200
-
 
 Cash
 200
@@ -97,12 +77,9 @@ Land
 
 Step 4
 
-
 Less liabilities:
 
-
 (1,100)
-
 
 Bank Loan
 1,000
@@ -113,17 +90,15 @@ _____
 
 Exit ACA
 
-
   100
-
 
 The ACA of $100 is allocated to the membership interests. The tax cost setting amount of the membership interests in A Co is $100.
 Therefore, CGT event L5 does not happen to Head Co, because the ACA, after applying step 4 of the table in section 711-20 of the ITAA 1997, is not negative.
 Date of decision:
-         25 January 2006
+  25 January 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -132,25 +107,24 @@ Income Tax Assessment Act 1997   section 711-20   section 104-520   sub
 Keywords
 
 Allocable cost amount
-          Consolidation
-          Consolidation - assets
-          Consolidation - exiting
-          Cost setting rules
-          Joining entity
-          Leaving entity
-          Retained cost base asset
-          Tax cost setting amount
-          Tax cost setting rules
-
+ Consolidation
+ Consolidation - assets
+ Consolidation - exiting
+ Cost setting rules
+ Joining entity
+ Leaving entity
+ Retained cost base asset
+ Tax cost setting amount
+ Tax cost setting rules
 
 Siebel/TDMS Reference Number:
-         4324340
+  4324340
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         17 January 2006
+  17 January 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

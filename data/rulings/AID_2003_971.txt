@@ -3,18 +3,14 @@ ATO ID 2003/971
 ==================================================
 
 Income Tax
-        Consolidation: losses - transferee's adjusted market value
-        FOI status: may be released
-
-
+ Consolidation: losses - transferee's adjusted market value
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the market value attributable to losses transferred to the transferee at the initial transfer time, ignored in determining the transferee's adjusted market value at that time for the purposes of subsection 707-320(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -33,7 +29,7 @@ Subsection 707-140(1) of the ITAA 1997 applies for the purposes of income years 
 This interpretation is consistent with the explanation contained in paragraph 8.81 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002, which states:
 
 The
-              adjusted market value
+ adjusted market value
  of the head company to which the losses are initially transferred (i.e. the transferee) is the head company's market value at the transfer time, ignoring any losses it has and assuming that its franking account balance is nil. The value of these attributes is ignored because they did not contribute to the group's earning capacity.
 
 Accordingly, under the formula, Company A's adjusted market value at the initial transfer time must be worked out as if Company A did not have any losses for prior income years, even though Company B has transferred such losses to it.
@@ -41,10 +37,10 @@ Note 1: Subject to the transfer tests contained in Subdivision 707-A of the ITAA
 Note 2: Under the single entity principle the value of the head company includes the value of subsidiaries including the loss entity.
 Note 3: Under subsection 701-30(8) of the ITAA 1997, a non-membership period loss is treated as a loss for an income year ending at the end of the non-membership period.
 Date of decision:
-         1 October 2003
+  1 October 2003
 
 Year of income:
-           30 June 2004
+  30 June 2004
 
 Legislative References:
 
@@ -57,23 +53,22 @@ Other References:
 Keywords
 
 Adjusted market value of the consolidated group
-          Available fraction
-          Bundle of losses
-          Consolidation
-          Consolidation - joining
-          Consolidation - losses
-          Transferred losses
-          Utilise a loss
-
+ Available fraction
+ Bundle of losses
+ Consolidation
+ Consolidation - joining
+ Consolidation - losses
+ Transferred losses
+ Utilise a loss
 
 Siebel/TDMS Reference Number:
-         3773607
+  3773607
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         31 October 2003
+  31 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

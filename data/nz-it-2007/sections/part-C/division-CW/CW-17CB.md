@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  When the employment duties of an employee require them to work away from their employer’s workplace, expenditure that the employer incurs for or on behalf of the employee for a meal for the employee is exempt income of the employee. For these purposes, expenditure includes a reimbursement payment or a meal allowance.
+**(1)**  When the employment duties of an employee require them to work away from their employer's workplace, expenditure that the employer incurs for or on behalf of the employee for a meal for the employee is exempt income of the employee. For these purposes, expenditure includes a reimbursement payment or a meal allowance.
 
 **Inclusions: work-related events**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 - (a) commencing—
 
-  - (i) on the date on which the employee starts to work away from their employer’s workplace; or
+  - (i) on the date on which the employee starts to work away from their employer's workplace; or
 
   - (ii) for an employee who does not have a fixed workplace, on the date on which they arrive at their accommodation base:
 
@@ -52,25 +52,25 @@ compilation_date: 2026-06-06
 
   - (i) the date on which the 3-month period expires; or
 
-  - (ii) the date on which the employee returns to their employer’s workplace to undertake their employment duties for their employer, or the date on which the employee moves to a new accommodation base, as applicable.
+  - (ii) the date on which the employee returns to their employer's workplace to undertake their employment duties for their employer, or the date on which the employee moves to a new accommodation base, as applicable.
 
 **Measuring period**
 
-**(6)**  In the measurement of the maximum period in subsection (5), the period includes the employee’s time away on leave or other breaks for personal reasons, weekend breaks, required rest periods, and other similar periods.
+**(6)**  In the measurement of the maximum period in subsection (5), the period includes the employee's time away on leave or other breaks for personal reasons, weekend breaks, required rest periods, and other similar periods.
 
 **Time limits in exceptional circumstances**
 
-**(7)**  The time limit referred to in subsection (5) does not apply if exceptional circumstances arise beyond the control of the employer and employee that require the employee to continue to work away from their employer’s workplace after the period expires. However, an extension of time must be limited to the period for which the employee is unable, because of the exceptional circumstances, to return to their employer’s workplace.
+**(7)**  The time limit referred to in subsection (5) does not apply if exceptional circumstances arise beyond the control of the employer and employee that require the employee to continue to work away from their employer's workplace after the period expires. However, an extension of time must be limited to the period for which the employee is unable, because of the exceptional circumstances, to return to their employer's workplace.
 
-**Meaning of employer’s workplace**
+**Meaning of employer's workplace**
 
-**(7B)**  In this section, employer’s workplace means the workplace of the employer at which the employee normally works.
+**(7B)**  In this section, employer's workplace means the workplace of the employer at which the employee normally works.
 
 **Relationship with FBT rules**
 
 **(8)**  To the extent to which the expenditure of an employer described in subsection (1) gives rise to a fringe benefit, the fringe benefit tax rules override this section.
 
-*Defined in this Act: accommodation, amount, business, employee, employer, employer’s workplace, employment, employment income, exempt income, fringe benefit, fringe benefit tax rules, pay, workplace*
+*Defined in this Act: accommodation, amount, business, employee, employer, employer's workplace, employment, employment income, exempt income, fringe benefit, fringe benefit tax rules, pay, workplace*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -4,11 +4,11 @@ part_title: Part I Treatment of tax losses
 division: IZ
 division_title: Subpart IZ—Terminating provisions
 section: IZ-6
-section_title: Companies’ tax losses for 1990–91 and 1991–92 tax years
+section_title: Companies' tax losses for 1990–91 and 1991–92 tax years
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# IZ 6  Companies’ tax losses for 1990–91 and 1991–92 tax years
+# IZ 6  Companies' tax losses for 1990–91 and 1991–92 tax years
 
 **When this section applies**
 

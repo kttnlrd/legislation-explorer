@@ -30,15 +30,15 @@ compilation_date: 2026-06-06
 
 **(5)**  A person is denied a deduction for an amount of expenditure or loss to the extent to which it is incurred in deriving non-resident passive income of the kind referred to in section RF 2(3) (Non-resident passive income). This rule is called the withholding tax limitation.
 
-**Non-residents’ foreign-sourced income limitation**
+**Non-residents' foreign-sourced income limitation**
 
-**(6)**  A person is denied a deduction for an amount of expenditure or loss to the extent to which it is incurred in deriving non-residents’ foreign-sourced income. This rule is called the non-residents’ foreign-sourced income limitation.
+**(6)**  A person is denied a deduction for an amount of expenditure or loss to the extent to which it is incurred in deriving non-residents' foreign-sourced income. This rule is called the non-residents' foreign-sourced income limitation.
 
 **Relationship of general limitations to general permission**
 
 **(7)**  Each of the general limitations in this section overrides the general permission.
 
-*Defined in this Act: amount, capital limitation, deduction, employment limitation, exempt income, exempt income limitation, general limitation, general permission, income from employment, loss, non-residents’ foreign-sourced income, non-residents’ foreign-sourced income limitation, private limitation, withholding tax limitation*
+*Defined in this Act: amount, capital limitation, deduction, employment limitation, exempt income, exempt income limitation, general limitation, general permission, income from employment, loss, non-residents' foreign-sourced income, non-residents' foreign-sourced income limitation, private limitation, withholding tax limitation*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

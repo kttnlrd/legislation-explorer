@@ -3,18 +3,14 @@ ATO ID 2010/228
 ==================================================
 
 Income Tax
-        Capital gains tax: majority underlying interests - partnership to company roll-over
-        FOI status: may be released
-
-
+ Capital gains tax: majority underlying interests - partnership to company roll-over
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In applying subsection 149-30(1) of the Income Tax Assessment Act 1997 (ITAA 1997), who are the ultimate owners who had an underlying interest, as at 19 September 1985, in the separate asset that the company is taken to have acquired before 20 September 1985 under Subdivision 122-B of the ITAA 1997?
@@ -25,24 +21,22 @@ As at 19 September 1985 the partners of a partnership were natural persons X (75
 In November 1998 the 3 partners (G, Y and Z) dispose of their interests in the CGT assets of the business carried on by the partnership to a company B Co in exchange for shares. The requirements for Subdivision 122-B roll-over are met and all of the partners choose to obtain roll-over under section 122-125 of the ITAA 1997.
 Reasons for Decision
 Division 149 of the ITAA 1997 is about when an asset stops being a pre-CGT asset. Subsection 149-30(1) of the ITAA 1997 provides that an asset of an entity that is not a public entity stops being a pre-CGT asset at the earliest time when majority underlying interests in the asset were not held by ultimate owners who had majority underlying interests in the asset immediately before 20 September 1985 (hereafter '
-          the base
-           time'). The entity is taken, for the purposes of the capital gains tax rules in Part 3-1 of the ITAA 1997, to have acquired the asset for a market value consideration at the time when it stops being a pre-CGT asset.
+ the base
+ time'). The entity is taken, for the purposes of the capital gains tax rules in Part 3-1 of the ITAA 1997, to have acquired the asset for a market value consideration at the time when it stops being a pre-CGT asset.
 One case where an asset of a non-public entity is a pre-CGT asset, to which the tests in subsection 149-30(1) of the ITAA 1997 will need to be applied, is where the asset is taken to have been acquired before 20 September 1985 by that entity under the terms of a CGT roll-over.
 The facts of this case involve the operation of the Subdivision 122-B partnership to company roll-over where only some of the partners had acquired their interests in a partnership asset pre-CGT (called 'the original asset') that is transferred to the company. The consequences for the company are described in subsection 122-200(4) of the ITAA 1997. As relevant to the application of Division 149 of the ITAA 1997, the company is taken to have acquired before 20 September 1985 a separate asset 'representing the extent to which the partners' interests in the original asset were acquired by the partners before that day': paragraph 122-200(4)(b) of the ITAA 1997.
 In order to apply the tests in subsection 149-30(1) of the ITAA 1997 to this asset, it is necessary to identify the ultimate owners who held underlying interests in this 'separate asset' (see immediately preceding paragraph) at the base time, and the proportions in which they were held. But as the 'separate asset' didn't exist until the roll-over time, it is necessary to apply the ownership tests to this asset's precursor (and its proxy for these purposes), being the aggregation of partners' pre-CGT interests in the original asset. This is consistent with the scheme of the Subdivision 122-B roll-over. Therefore the ultimate owners who hold underlying interests in the paragraph 122-200(4)(b) of the ITAA 1997 asset at the base time are those which can be traced through the pre-CGT interests that it represents.
 On the facts of this case, at the base time the ultimate owners of the asset described in paragraph 122-200(4)(b) of the ITAA 1997 are Y (who has an 80% underlying interest) and Z (who holds 20%).
 The asset stops being a pre-CGT asset, and it is taken to be acquired by the company for a consideration equal to market value, immediately after it is transferred to B Co, as at that time Y and Z no longer hold majority underlying interests.
 
-
-
 Note
-                : we would adopt the same view in applying sections 160ZZS and 160ZZNA of the Income Tax Assessment Act 1936.
+ : we would adopt the same view in applying sections 160ZZS and 160ZZNA of the Income Tax Assessment Act 1936.
 
 Date of decision:
-         10 December 2010
+  10 December 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -52,19 +46,18 @@ Income Tax Assessment Act 1936   section 160ZZNA   section 160ZZS
 Keywords
 
 CGT events
-          Majority underlying interests
-          Pre-CGT assets
-          CGT same asset roll-over
-
+ Majority underlying interests
+ Pre-CGT assets
+ CGT same asset roll-over
 
 Siebel/TDMS Reference Number:
-         1-2EV6XMT
+  1-2EV6XMT
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         17 December 2010
+  17 December 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

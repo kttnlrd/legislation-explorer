@@ -24,10 +24,10 @@ source_pdf: "vol03.pdf"
 > **(b)** the part (if any) of the purchase price in respect of the buy-back of the share or non-share equity interest which is debited against amounts standing to the credit of:
 
 > > <a id="s159GZZZP-1-b-i"></a>
-> > **(i)** the company’s share capital account if it is a share that is bought back; or 
+> > **(i)** the company's share capital account if it is a share that is bought back; or 
 
 > > <a id="s159GZZZP-1-b-ii"></a>
-> > **(ii)** the company’s share capital account or non-share capital account if it is a non-share equity interest that is bought back; is taken to be a dividend paid by the company:
+> > **(ii)** the company's share capital account or non-share capital account if it is a non-share equity interest that is bought back; is taken to be a dividend paid by the company:
 
 > <a id="s159GZZZP-1-c"></a>
 > **(c)** to the seller as a shareholder in the company; and
@@ -39,7 +39,7 @@ source_pdf: "vol03.pdf"
 > **(e)** on the day the buy-back occurs.
 
 <a id="s159GZZZP-1A"></a>
-**(1A)** If the dividend is included to any extent in the seller’s assessable income of any year of income, it is not taken into account to that extent under section 118-20 of the Income Tax Assessment Act 1997.
+**(1A)** If the dividend is included to any extent in the seller's assessable income of any year of income, it is not taken into account to that extent under section 118-20 of the Income Tax Assessment Act 1997.
 
 <a id="s159GZZZP-2"></a>
 **(2)** The remainder of the purchase price is taken not to be a dividend for the purposes of this Act.

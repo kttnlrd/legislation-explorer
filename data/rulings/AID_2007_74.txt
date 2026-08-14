@@ -3,18 +3,14 @@ ATO ID 2007/74
 ==================================================
 
 Income Tax
-        Consolidation: tax cost setting amount - exemption from the application of a reduction in the tax cost setting amount of a privatised asset
-        FOI status: may be released
-
-
+ Consolidation: tax cost setting amount - exemption from the application of a reduction in the tax cost setting amount of a privatised asset
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does A, the head company of a consolidated group, which has, over a period of time, acquired 100% of the membership interests in B, the head company of another group, meet the conditions for exemption from the application of subsection 705-47(2) of the Income Tax Assessment Act 1997 (ITAA 1997) provided by paragraph 705-47(5)(b) of the ITAA 1997 in that A and B were not associates just before the joining time?
@@ -25,7 +21,7 @@ B is the head company of the B consolidated group which was formed on 1 July 200
 Prior to the formation of the B consolidated group, B, an Australian resident, held a number of privatised assets that were subject to the operation of Division 58 of the ITAA 1997.
 A, an Australian resident, is the head company of the A consolidated group.
 At 1 August 2004 A held approximately 5% of the interests in B, acquired on-market, and announced its intention to acquire 100% of the interests in B through an off-market takeover bid.
-As at 1 October 2004, A held an ownership interest of 75% in B and on 31 October 2004, A announced that its off-market take-over bid had closed and that compulsory acquisition of the outstanding interests in B would proceed.  At that time it held approximately 95% of the interests in B.
+As at 1 October 2004, A held an ownership interest of 75% in B and on 31 October 2004, A announced that its off-market take-over bid had closed and that compulsory acquisition of the outstanding interests in B would proceed. At that time it held approximately 95% of the interests in B.
 It was decided that B would join the A consolidated group upon A acquiring 100% of the interests in B on 1 December 2004.
 Reasons for Decision
 Division 58 of the ITAA 1997 sets out the rules for calculating deductions for the decline in value of, and balancing adjustments for, depreciating assets previously owned by, or purchased from, a tax-exempt entity. Broadly, Division 58 applies where a tax-exempt entity becomes taxable to any extent (an 'entity sale') or, as in this case, where a taxable entity acquires depreciating assets from an exempt entity in connection with the acquisition of a business from the exempt entity (an 'asset sale').
@@ -35,18 +31,12 @@ However, exemption from the application of subsection 705-47(2) of the ITAA 1997
 Under subsection 705-47(5) of the ITAA 1997, the head company of the earlier group needs to have held the asset for more than 24 months and the purchasing entity, the head company of the joined group, just before the joining time, must not be an associate of the head company of the earlier (joining) group.
 Paragraph 318(2)(d) of the Income Tax Assessment Act 1936 defines associates of a company ('primary entity') to include another entity ('controlling entity') where:
 
-
-
 (i)the primary entity is sufficiently influenced by;
-
-
 
 (A)the controlling entity; or
 (B)the controlling entity and another entity or entities; or
 
 (ii)a majority voting interest in the primary entity is held by;
-
-
 
 (A)the controlling entity...
 
@@ -54,10 +44,10 @@ A was, therefore, an associate of B at the time A held a majority voting interes
 One of the defining terms used in the conditions of paragraph 705-47(5)(b) of the ITAA 1997 is 'just before the joining time'. The announcement of the cash take-over offer on 1 August 2004, while it is a point at which the parties were not associates, cannot be considered to be just before the joining time.
 It must therefore be concluded that A, as head company of the joined consolidated group, and B, as head company of the joining group, do not meet the conditions for exemption from the application of subsection 705-47(2) of the ITAA 1997 provided by paragraph 705-47(5)(b) of the ITAA 1997, in that A and B were associates just before the joining time.
 Date of decision:
-         7 March 2007
+  7 March 2007
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -67,23 +57,21 @@ Income Tax Assessment Act 1936   paragraph 318(2)(d)
 Other References:
 
 Treasury Paper No. 20 of 4 December 2003
-           Tax Laws Amendment (2004 Measures No. 2) Act 2004 Explanatory Memorandum
-
+ Tax Laws Amendment (2004 Measures No. 2) Act 2004 Explanatory Memorandum
 
 Keywords
 
 Exempt entities
-          Consolidation
-
+ Consolidation
 
 Siebel/TDMS Reference Number:
-         5577872
+  5577872
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         27 April 2007
+  27 April 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

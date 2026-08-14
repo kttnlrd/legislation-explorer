@@ -3,18 +3,14 @@ ATO ID 2002/1010
 ==================================================
 
 Income Tax
-        Division 40: preservation of accelerated depreciation
-        FOI status: may be released
-
-
+ Division 40: preservation of accelerated depreciation
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If a taxpayer can work out the decline in value of a depreciating asset using the prime cost formula in subsection 40-75(1) of the Income Tax Assessment Act 1997 (ITAA 1997) as modified by paragraph 40-10(3)(b) of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997), does the formula have to be adjusted if any of the events in subsection 40-75(2) of the ITAA 1997 occur?
@@ -24,13 +20,10 @@ Reasons for Decision
 In certain circumstances, transitional rules apply to preserve in Division 40 of the ITAA 1997 the use of accelerated rates of depreciation that applied to certain plant acquired before 1 July 2001.
 One of these transitional provisions is paragraph 40-10(3)(b) of the IT(TP)A 1997. It modifies the prime cost formula in subsection 40-75(1) of the ITAA 1997 by:
 
-
-
 •replacing the component in the formula that includes the plant's effective life with the rate that was being used; and
 •increasing the plant's cost under the repealed Division 42 of the ITAA 1997 by any amounts included in the second element of the plant's cost after 30 June 2001.
 
 Accordingly, the modified prime cost formula becomes:
-
 
 (Cost of the plant under Division 42 plus any second element of cost after 30 June 2001) * [days held/365] * accelerated rate that was being used under Division 42
 
@@ -38,14 +31,12 @@ This modification has the effect of preserving accelerated rates of depreciation
 Another transitional provision that makes the same modification to the prime cost formula is section 40-340 of the IT(TP)A 1997. It preserves accelerated rates of depreciation in the hands of a subsequent holder if the asset was rolled-over from a former holder who was using accelerated rates.
 If an event under subsection 40-75(2) of the ITAA 1997 occurs, the prime cost formula must be adjusted as set out in subsection 40-75(3) of the ITAA 1997. These adjustments are:
 
-
-
 •replacing the asset's cost with its opening adjustable value for the change year plus the amounts (if any) included in the second element of its cost for that year; and
 •replacing the asset's effective life with its remaining effective life.
 
 However, because these components in the formula have already been replaced under paragraph 40-10(3)(b) of the IT(TP)A 1997, the adjustments required by subsection 40-75(3) of the ITAA 1997 will have no effect on the modified prime cost formula.
 Date of decision:
-         7 September 2002
+  7 September 2002
 
 Legislative References:
 
@@ -55,21 +46,20 @@ Income Tax (Transitional Provisions) Act 1997   paragraph 40-10(3)(b)   se
 Keywords
 
 Prime cost method
-          Accelerated depreciation
-          Effective life
-          Cost of plant
-          Second element of cost
-          Decline in value
-
+ Accelerated depreciation
+ Effective life
+ Cost of plant
+ Second element of cost
+ Decline in value
 
 Siebel/TDMS Reference Number:
-         CW3164886
+  CW3164886
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 October 2002
+  30 October 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -15,6 +15,6 @@ However, if one of the supplies is incidental to the other, and its value does n
 
 Example Assume in the previous example that the value of the services was $25,000 and that they were incidental to the provision of the goods. The supply of the services will be treated as part of the supply of the goods. The whole supply may therefore be a taxable supply.
 
-In this context, hotel accommodation provided as part of a tour package would not normally be regarded as “incidental” to the transportation and sightseeing components of the package (Saga Holidays Limited v FC of T [2006] FCAFC 191).
+In this context, hotel accommodation provided as part of a tour package would not normally be regarded as "incidental" to the transportation and sightseeing components of the package (Saga Holidays Limited v FC of T [2006] FCAFC 191).
 
 *Refs: s 96-5), s 96-10), s 96-5(4))*

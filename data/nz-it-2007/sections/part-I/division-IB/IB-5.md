@@ -2,7 +2,7 @@
 part: I
 part_title: Part I Treatment of tax losses
 division: IB
-division_title: Subpart IB—Carrying forward companies’ loss balances: continuity of business activities
+division_title: Subpart IB—Carrying forward companies' loss balances: continuity of business activities
 section: IB-5
 section_title: When group companies treated as single company
 compilation_no: 935

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an exiting partner disposes of some or all of their partner’s interests in a partnership to an entering partner, to the extent to which those interests include trading stock that is not livestock, and, for the income year of disposal, the total turnover of the partnership, ignoring section HG 2, is $3,000,000 or less.
+**(1)**  This section applies when an exiting partner disposes of some or all of their partner's interests in a partnership to an entering partner, to the extent to which those interests include trading stock that is not livestock, and, for the income year of disposal, the total turnover of the partnership, ignoring section HG 2, is $3,000,000 or less.
 
 **Exiting partner: excluded payment**
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(7)**  This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
-*Defined in this Act: amount, deduction, dispose, entering partner, excluded income, exiting partner, income year, income tax liability, partner, partner’s interests, partnership, pay, small partnership, trading stock, turnover*
+*Defined in this Act: amount, deduction, dispose, entering partner, excluded income, exiting partner, income year, income tax liability, partner, partner's interests, partnership, pay, small partnership, trading stock, turnover*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

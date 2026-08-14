@@ -9,7 +9,7 @@ paragraph: "¶8-640"
 
 Creating a consolidated group from a MEC group A consolidated group is created from a MEC group if the cessation of the MEC group happens because the entity that is the sole eligible tier-1 company in the MEC group fails the conditions for being an eligible tier-1 company and, immediately after that time, it meets the conditions for being a head company of a consolidated group (ITAA97 ss 703-5(1)(b); 703-55(1)).
 
-Conversion of consolidated group to MEC group A consolidated group converts to a MEC group (referred to as a “special conversion event”) if:
+Conversion of consolidated group to MEC group A consolidated group converts to a MEC group (referred to as a "special conversion event") if:
 
 - an eligible tier-1 company of a top company is the head company of a consolidated group
 
@@ -43,7 +43,7 @@ When a special conversion event happens in relation to a consolidated group, the
 
 Impact on ongoing members Whether a consolidated group is created from a MEC group or vice versa, ITAA97 Subdiv 719-BA ensures that the tax consequences to any ongoing members (ie members of the old group and the new group) are minimal. Speciﬁcally:
 
-- the new group’s head company retains the history of the old group’s head company, including
+- the new group's head company retains the history of the old group's head company, including
 
   everything that happened to the old group because of applying the single entity rule (¶8-010) and
 
@@ -57,7 +57,7 @@ Impact on ongoing members Whether a consolidated group is created from a MEC gro
 
 - losses transferred from an entity of the old group to its head company are taken to be transferred
 
-  to the new group’s head company.
+  to the new group's head company.
 
 The ATO is scrutinising restructures that involve the creation of a MEC group, where ownership of underlying CGT assets is transferred to a newly incorporated eligible tier-1 company before it is sold by the top company. The concern is that these groups may be avoiding CGT, otherwise payable by a head company or other resident company of the group, via complex restructures that have unnecessary additional steps (TA 2020/4). See also TA 2019/1.
 

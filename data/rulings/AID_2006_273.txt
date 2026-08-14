@@ -3,21 +3,16 @@ ATO ID 2006/273
 ==================================================
 
 Income tax
-        Division 974:  application of the debt test to Certificates of Deposit
-        FOI status: may be released
-
+ Division 974: application of the debt test to Certificates of Deposit
+ FOI status: may be released
 
 This ATO ID has been amended to improve clarity.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the Certificate of Deposit issued by the taxpayer be characterised as a debt interest for the purposes of Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -25,8 +20,6 @@ Decision
 Yes. The Certificate of Deposit issued by the taxpayer will be characterised as a debt interest for the purposes of Division 974 of the ITAA 1997.
 Facts
 A company raises finance by way of Certificates of Deposit. The Certificates of Deposit have the following terms:
-
-
 
 1. the investment amount and term may vary from customer to customer but the initial term cannot exceed 10 years
 2. the interest rate is fixed and depends upon the term of the respective Certificate of Deposit
@@ -38,17 +31,13 @@ Subsection 974-15(1) of the ITAA 1997 provides that:
 
 A scheme gives rise to a debt interest in an entity if the scheme, when it comes into existence, satisfies the debt test in subsection 974-20(1) in relation to the entity.
 
-The tests for a debt interest are contained in subsection 974-20(1) of the ITAA 1997.  That subsection states:
+The tests for a debt interest are contained in subsection 974-20(1) of the ITAA 1997. That subsection states:
 
 A scheme satisfies the debt test in this subsection in relation to an entity if:
-
-
 
 (a)the scheme is a financing arrangement for the entity; and
 (b)the entity, or a connected entity of the entity, receives, or will receive, a financial benefit or benefits under the scheme; and
 (c)the entity has, or the entity and a connected entity of the entity each has, an effectively non-contingent obligation under the scheme to provide a financial benefit or benefits to one or more entities after the time when:
-
-
 
 (i)the financial benefit referred to in paragraph (b) is received if there is only one; or
 (ii)the first of the financial benefit referred to in paragraph (b) is received if there are more than one; and
@@ -68,14 +57,9 @@ Section 995-1 of the ITAA 1997 defines 'scheme' to mean any arrangement or any s
 
 Subsection 974-160(1) of the ITAA 1997 provides in part that:
 
-
-
 "(1)in this Act:
 
-
 financial benefit:
-
-
 
 (a)means anything of economic value...;"
 
@@ -108,10 +92,10 @@ Conclusion
 
 As all the requirements of the debt test are satisfied, the Certificates of Deposit will give rise to a debt interest pursuant to section 974-20 of the ITAA 1997.
 Date of decision:
-         31 August 2006
+  31 August 2006
 
 Year of income:
-           30 June 2007
+  30 June 2007
 
 Legislative References:
 
@@ -125,18 +109,17 @@ ATO ID 2006/274
 Keywords
 
 Debt equity borderline
-          Debt interest
-          Debt test
-
+ Debt interest
+ Debt test
 
 Siebel/TDMS Reference Number:
-         5112495
+  5112495
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         29 September 2006
+  29 September 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

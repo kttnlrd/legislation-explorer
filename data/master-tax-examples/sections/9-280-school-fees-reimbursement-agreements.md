@@ -31,7 +31,7 @@ A reimbursement agreement generally involves making someone presently entitled t
 
 - at least one party enters into the agreement for purposes that include receiving a tax benefit.
 
-“Benefit” includes the payment or loan of money, the transfer of property, the provision of services or other benefits; or the release, abandonment, failure to demand payment, or postponed payment, of a debt. “Agreement” is defined widely to include arrangements and understandings that can be informal, express or implied. An agreement can comprise a series of steps or transactions (s 100A(13)). In this case, Goldstein has become presently entitled to trust income, permissible by the trust deed, as payment of school fees for another beneficiary of the IET. As Goldstein is an income tax exempt entity, the reimbursement agreement results in the elimination of the tax liability on the distribution as the school would not pay tax on this amount.
+"Benefit" includes the payment or loan of money, the transfer of property, the provision of services or other benefits; or the release, abandonment, failure to demand payment, or postponed payment, of a debt. "Agreement" is defined widely to include arrangements and understandings that can be informal, express or implied. An agreement can comprise a series of steps or transactions (s 100A(13)). In this case, Goldstein has become presently entitled to trust income, permissible by the trust deed, as payment of school fees for another beneficiary of the IET. As Goldstein is an income tax exempt entity, the reimbursement agreement results in the elimination of the tax liability on the distribution as the school would not pay tax on this amount.
 
 Whereas, if the amount was distributed to the beneficiary so that they could pay the school fees, a tax liability would arise in the hands of the beneficiary.
 
@@ -39,6 +39,6 @@ Given that the distribution by the trustee of trust income to Goldstein would be
 
 Since the purpose of s 100A is to prevent tax avoidance, the Commissioner has an unlimited period within which to make an assessment (ITAA36 s 170(10)).
 
-Note that ATO Interpretative Decision ID 2005/145 (Income Tax: Assessable income: tax exempt beneficiary and reimbursement agreement) sets out the ATO’s position on this type of arrangement.
+Note that ATO Interpretative Decision ID 2005/145 (Income Tax: Assessable income: tax exempt beneficiary and reimbursement agreement) sets out the ATO's position on this type of arrangement.
 
 *Refs: ITAA97 s 50-5*

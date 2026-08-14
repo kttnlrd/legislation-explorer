@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **How and when this section applies**
 
-**(1)**  This section does not alter or affect a person’s tax position in relation to Determination G22 or the person’s litigation of their tax position in relation to Determination G22. It does not alter or affect the Commissioner’s assessment of, or litigation of, that tax position. It applies after Determination G22 has applied for a person’s financial arrangement, and only if, for the financial arrangement,—
+**(1)**  This section does not alter or affect a person's tax position in relation to Determination G22 or the person's litigation of their tax position in relation to Determination G22. It does not alter or affect the Commissioner's assessment of, or litigation of, that tax position. It applies after Determination G22 has applied for a person's financial arrangement, and only if, for the financial arrangement,—
 
 - (a) section EZ 52C applied; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Holder**
 
-**(4)**  If the person is a holder of the financial arrangement, an amount, referrable to the person’s holding, calculated under subsections (5) and (6) is added to all consideration that has been paid, and all consideration that is or will be payable, to the holder for or under the financial arrangement.
+**(4)**  If the person is a holder of the financial arrangement, an amount, referrable to the person's holding, calculated under subsections (5) and (6) is added to all consideration that has been paid, and all consideration that is or will be payable, to the holder for or under the financial arrangement.
 
 **Calculation**
 

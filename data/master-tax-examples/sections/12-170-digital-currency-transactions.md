@@ -9,19 +9,19 @@ paragraph: "None"
 
 Worked example: Digital currency transactions Issue Robert owns a digital marketing agency and is registered for GST. He has just signed a contract to provide marketing services to Galaxy4 (a social media start-up) for a GST-inclusive price of $77,000. Galaxy4 is registered for GST.
 
-Galaxy4 wishes to pay for Robert’s services using digital currency.
+Galaxy4 wishes to pay for Robert's services using digital currency.
 
 Robert has an agreement with BoosterPay, an intermediary, for BoosterPay to purchase digital currency from him, which Robert receives from Galaxy4 as payment for the sale of his marketing services. Under the agreement, BoosterPay acquires the digital currency from Robert and then provides payment to Robert in Australian currency.
 
 Under the arrangement, Robert pays commission to BoosterPay equal to 1% of the amount paid by Galaxy4.
 
-BoosterPay agrees to deposit Australian currency (immediately or within one day) into Robert’s nominated bank account. There is no agreement between Galaxy4 and BoosterPay.
+BoosterPay agrees to deposit Australian currency (immediately or within one day) into Robert's nominated bank account. There is no agreement between Galaxy4 and BoosterPay.
 
 What are the GST implications for Robert and Galaxy4 in relation to these transactions?
 
-Solution For supplies or payments made on or after 1 July 2017, the GST treatment of digital currency such as bitcoin is aligned with that of money. In GST Act s 195-1 “digital currency” refers to digital units of value that:
+Solution For supplies or payments made on or after 1 July 2017, the GST treatment of digital currency such as bitcoin is aligned with that of money. In GST Act s 195-1 "digital currency" refers to digital units of value that:
 
-- are designed to be “fungible”, or fully interchangeable for the purpose of their use as consideration for
+- are designed to be "fungible", or fully interchangeable for the purpose of their use as consideration for
 
   a supply
 
@@ -29,7 +29,7 @@ Solution For supplies or payments made on or after 1 July 2017, the GST treatmen
 
   consideration
 
-- are not denominated in any country’s currency or are denominated in a currency that is not issued by,
+- are not denominated in any country's currency or are denominated in a currency that is not issued by,
 
   or under the authority of, an Australian government agency or a foreign government agency
 
@@ -69,10 +69,10 @@ However, normal GST consequences arise in relation to the provision of services 
 
 When Robert lodges his activity statement, he includes $7,000 GST for the taxable sale of marketing services to Galaxy4.
 
-When Galaxy4 lodges its activity statement, it claims a GST credit of $7,000 for the acquisition of Robert’s marketing services. The fact that the payment was in digital currency does not impact the GST outcome of the transaction.
+When Galaxy4 lodges its activity statement, it claims a GST credit of $7,000 for the acquisition of Robert's marketing services. The fact that the payment was in digital currency does not impact the GST outcome of the transaction.
 
 The sale of digital currency by Robert to the intermediary (through the transfer of digital currency received from Galaxy4) is an input taxed sale on which no GST is payable. BoosterPay would not generally be entitled to GST credits for its purchase of digital currency from Robert.
 
-As the commission charged by BoosterPay is in relation to an input taxed financial supply, ordinarily no GST credit would be available to Robert. However, depending on Robert’s circumstances, he may be entitled to a full GST credit if he does not exceed the financial acquisitions threshold, or a reduced GST credit.
+As the commission charged by BoosterPay is in relation to an input taxed financial supply, ordinarily no GST credit would be available to Robert. However, depending on Robert's circumstances, he may be entitled to a full GST credit if he does not exceed the financial acquisitions threshold, or a reduced GST credit.
 
 *Refs: GST Act s 195-1, s 189-5*

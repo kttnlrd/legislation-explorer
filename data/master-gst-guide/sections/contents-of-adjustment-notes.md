@@ -7,15 +7,15 @@ paragraph: "¶6-115"
 ---
 # Contents of adjustment notes ¶6-115
 
-The required contents for an adjustment note which is issued by a supplier are as follows: (1) it must be in the approved form. No particular format has been prescribed, as long as it complies with (2) and (3) (2) it must set out the ABN of the supplier (3) it must contain enough information to enable the following to be “clearly ascertained”:
+The required contents for an adjustment note which is issued by a supplier are as follows: (1) it must be in the approved form. No particular format has been prescribed, as long as it complies with (2) and (3) (2) it must set out the ABN of the supplier (3) it must contain enough information to enable the following to be "clearly ascertained":
 
 - that it is intended as an adjustment note, and the effect of the adjustment, eg whether it is for an
 
   increasing or decreasing adjustment
 
-- the identity and ABN of the supplier or supplier’s agent
+- the identity and ABN of the supplier or supplier's agent
 
-- the identity or ABN of the recipient or the recipient’s agent. This, however, is only essential where the
+- the identity or ABN of the recipient or the recipient's agent. This, however, is only essential where the
 
   note relates to a tax invoice showing the total price for the supply was at least $1,000; or relates to a
 
@@ -37,9 +37,9 @@ The required contents for an adjustment note which is issued by a supplier are a
 
 (s 29-75; A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2022; GST Ruling GSTR 2013/2).
 
-Guidelines on corresponding requirements for tax invoices, including the meaning of “clearly ascertained”, are set out at ¶5-110.
+Guidelines on corresponding requirements for tax invoices, including the meaning of "clearly ascertained", are set out at ¶5-110.
 
-Recipient created adjustment notes Recipient created adjustment notes — ie those issued by the recipient of the supply (¶5-140) — must contain the same information as those issued by suppliers, except that they must make it clear that they are intended to be recipient created adjustment notes, and must in all cases show the recipient’s identity and ABN.
+Recipient created adjustment notes Recipient created adjustment notes — ie those issued by the recipient of the supply (¶5-140) — must contain the same information as those issued by suppliers, except that they must make it clear that they are intended to be recipient created adjustment notes, and must in all cases show the recipient's identity and ABN.
 
 ATO guidelines for special situations The following additional guidelines were given in GST Ruling GSTR 2013/2: Combined adjustment note and tax invoice.
 

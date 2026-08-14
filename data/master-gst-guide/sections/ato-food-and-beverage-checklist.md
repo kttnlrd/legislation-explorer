@@ -7,7 +7,7 @@ paragraph: "¶13-230"
 ---
 # ATO food and beverage checklist ¶13-230
 
-The ATO has released a comprehensive “Detailed food list” of food and drink items together with their GST status and relevant notes available from the “Detailed Food List” webpage.
+The ATO has released a comprehensive "Detailed food list" of food and drink items together with their GST status and relevant notes available from the "Detailed Food List" webpage.
 
 The ATO has also issued a Self-review checklist for small to medium businesses to review the GST classification of food and health products. A corresponding guide for medium to large businesses is available from the GST classification of food and health products webpage.
 

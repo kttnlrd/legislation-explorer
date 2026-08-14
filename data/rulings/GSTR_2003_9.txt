@@ -4,45 +4,43 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 11
-  • Div 129
-  • Div 15
-  • Div 156
-  • Div 189
-  • Div 358
-  • Div 48
-  • Div 54
-  • Div 63
-  • Div 70
-  • Div 72
-  • Div 84
-  • Division 11
-  • Division 129
-  • Division 156
-  • Division 189
-  • Division 358
-  • Division 54
-  • Division 63
-  • Division 70
+ • Div 11
+ • Div 129
+ • Div 15
+ • Div 156
+ • Div 189
+ • Div 358
+ • Div 48
+ • Div 54
+ • Div 63
+ • Div 70
+ • Div 72
+ • Div 84
+ • Division 11
+ • Division 129
+ • Division 156
+ • Division 189
+ • Division 358
+ • Division 54
+ • Division 63
+ • Division 70
 
 Cases Referenced:
-  • Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
+ • Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
 (1976) 14 SASR 303
-  • Hatfield v. Health Insurance Commission
+ • Hatfield v. Health Insurance Commission
 (1987) 15 FCR 487
-  • In
+ • In
 Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
 (1976) 14 SASR 303
-  • In
+ • In
 Hatfield v. Health Insurance Commission
 (1987) 15 FCR 487
-  • Sun Insurance Office v. Clarke
-  • Sun Insurance Office v. Clarke
+ • Sun Insurance Office v. Clarke
+ • Sun Insurance Office v. Clarke
 (1912)
 
 Topics: GST, Companies, Superannuation, International, Employment
-
-
 
 ================================================================================
 
@@ -57,13 +55,13 @@ Back to browse
 78 related documents
 Goods and Services Tax Ruling
 GSTR 2003/9
-Goods and Services Tax:  financial acquisitions threshold
+Goods and Services Tax: financial acquisitions threshold
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This Ruling contains references to provisions of the
 A New Tax System (Goods and Services Tax) Regulations 1999,
 which have been replaced by the
@@ -104,7 +102,7 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling explains:
 •
@@ -136,25 +134,25 @@ how often the financial acquisitions threshold should be tested.
 2. This Ruling applies to all entities that are registered, or required to be registered for the goods and services tax ('GST') that make financial supplies in the course of conducting their enterprise.
 3. All legislative references are to the GST Act or
 A New Tax System (Goods and Services Tax) Regulations 1999
-('the GST regulations'), unless otherwise stated.  Unless otherwise stated, the examples given in this Ruling assume that the consideration for all acquisitions is GST inclusive and that the conditions in section 11-5 are satisfied.
+('the GST regulations'), unless otherwise stated. Unless otherwise stated, the examples given in this Ruling assume that the consideration for all acquisitions is GST inclusive and that the conditions in section 11-5 are satisfied.
 Date of effect
 4. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 5. Changes made to this Ruling by Addenda that issued on 2 July 2008, 30 July 2008, October 2012 and 11 December 2013 have been incorporated into this version of the Ruling.
 [1A]
 5A. [Omitted.]
 Background
-6. Under sections 11-15 and 15-10 of the GST Act, an entity acquires a thing or imports goods for a creditable purpose to the extent it is acquired in carrying on an enterprise of that entity.  However, an entity does not acquire a thing or import goods for a creditable purpose to the extent that the acquisition or importation relates to making input taxed supplies (such as financial supplies) or is of a private or domestic nature.  This means that an entity is not entitled to input tax credits for an acquisition or importation in those circumstances.
+6. Under sections 11-15 and 15-10 of the GST Act, an entity acquires a thing or imports goods for a creditable purpose to the extent it is acquired in carrying on an enterprise of that entity. However, an entity does not acquire a thing or import goods for a creditable purpose to the extent that the acquisition or importation relates to making input taxed supplies (such as financial supplies) or is of a private or domestic nature. This means that an entity is not entitled to input tax credits for an acquisition or importation in those circumstances.
 7. Subsections 11-15(4) and 15-10(4) provide that an acquisition or importation is not treated as relating to supplies that would be input taxed if:
 •
 the only reason it would be treated as relating to input taxed supplies is because it relates to making financial supplies; and
 •
 the entity does not exceed the financial acquisitions threshold.
-8. Division 189 deals with the financial acquisitions threshold.  The purpose of the Division is to provide a threshold test for the application of subsections 11-15(4) and 15-10(4).  These provisions have the effect of allowing a creditable purpose for acquisitions and importations which would not normally have a creditable purpose because they relate to making financial supplies.
-9. The GST Act provides that 'financial supply' has the meaning given by the GST regulations.  Something is a financial supply only if it is mentioned as a financial supply in regulation 40-5.09 or is an incidental financial supply under regulation 40-5.10.  Regulation 40-5.12 has the effect of excluding things that might otherwise have been included as a financial supply by regulation 40-5.09.  Regulation 40-5.12 does not exclude from being a financial supply something that is also an incidental financial supply.
+8. Division 189 deals with the financial acquisitions threshold. The purpose of the Division is to provide a threshold test for the application of subsections 11-15(4) and 15-10(4). These provisions have the effect of allowing a creditable purpose for acquisitions and importations which would not normally have a creditable purpose because they relate to making financial supplies.
+9. The GST Act provides that 'financial supply' has the meaning given by the GST regulations. Something is a financial supply only if it is mentioned as a financial supply in regulation 40-5.09 or is an incidental financial supply under regulation 40-5.10. Regulation 40-5.12 has the effect of excluding things that might otherwise have been included as a financial supply by regulation 40-5.09. Regulation 40-5.12 does not exclude from being a financial supply something that is also an incidental financial supply.
 [1]
-10. Subregulation 40-5.09(1) of the GST regulations describes the circumstances under which the provision, acquisition or disposal of an interest mentioned in subregulations 40-5.09(3) or (4) is a financial supply.  The circumstances are that the provision, acquisition or disposal is for consideration, in the course or furtherance of an enterprise and connected with Australia.  Furthermore, the supplier must be registered or required to be registered and a financial supply provider in relation to the supply of the interest.
+10. Subregulation 40-5.09(1) of the GST regulations describes the circumstances under which the provision, acquisition or disposal of an interest mentioned in subregulations 40-5.09(3) or (4) is a financial supply. The circumstances are that the provision, acquisition or disposal is for consideration, in the course or furtherance of an enterprise and connected with Australia. Furthermore, the supplier must be registered or required to be registered and a financial supply provider in relation to the supply of the interest.
 [2]
-11. The interest supplied must be an interest in, or under, one of the categories set out in the table in subregulation 40-5.09(3) of the GST regulations.  These categories are:
+11. The interest supplied must be an interest in, or under, one of the categories set out in the table in subregulation 40-5.09(3) of the GST regulations. These categories are:
 •
 an account made available by an Australian ADI (authorised deposit-taking institution) in the course of its banking business or its State banking business (subregulation 40-5.09(3), item 1);
 •
@@ -184,12 +182,12 @@ a derivative (subregulation 40-5.09(3), item 11).
 Ruling and Explanation
 Financial acquisitions threshold
 12. Entities that make financial supplies in the course of conducting their enterprise without exceeding the financial acquisitions threshold are entitled to input tax credits for acquisitions and importations that relate to making those financial supplies.
-13.  Division 189 provides for a test based on current acquisitions and a separate test based on future acquisitions to determine whether an entity exceeds the financial acquisitions threshold at a particular time.  If the threshold is exceeded under either the current or future acquisitions test, the entity will not be entitled to input tax credits on acquisitions to the extent that they relate to the making of input taxed financial supplies.
+13. Division 189 provides for a test based on current acquisitions and a separate test based on future acquisitions to determine whether an entity exceeds the financial acquisitions threshold at a particular time. If the threshold is exceeded under either the current or future acquisitions test, the entity will not be entitled to input tax credits on acquisitions to the extent that they relate to the making of input taxed financial supplies.
 [3]
 Current acquisitions threshold
 14. To test whether an entity exceeds the financial acquisitions threshold at a time during a particular month, the entity is required to assume that all the financial acquisitions
 [4]
-it has made, or is likely to make, during the 12 months ending at the end of that month were made solely for a creditable purpose.  The entity will exceed the financial acquisitions threshold if either or both of the following would apply:
+it has made, or is likely to make, during the 12 months ending at the end of that month were made solely for a creditable purpose. The entity will exceed the financial acquisitions threshold if either or both of the following would apply:
 •
 the amount of all the input tax credits to which the entity would be entitled for its financial acquisitions would exceed:
 -
@@ -203,9 +201,9 @@ the amount of the input tax credits to which the entity would be entitled for it
 [5]
 Example 1 - threshold not exceeded (current acquisitions) - before July 2012
 15.
-In August 2002, Beech & Co Pty Ltd (Beech) calculates that its total acquisitions and importations (including financial acquisitions) during the months from 1 September 2001 to 31 August 2002 are $374,000.  Of that amount, Beech calculates that $33,000 was for financial acquisitions.
+In August 2002, Beech & Co Pty Ltd (Beech) calculates that its total acquisitions and importations (including financial acquisitions) during the months from 1 September 2001 to 31 August 2002 are $374,000. Of that amount, Beech calculates that $33,000 was for financial acquisitions.
 16.
-Assuming these financial acquisitions were made solely for a creditable purpose, Beech's input tax credits for its total acquisitions and importations would be $34,000 (1/11th of $374,000) and its input tax credits for financial acquisitions would be $3,000 (1/11th of $33,000).  This $3,000 does not exceed the $50,000 threshold and also does not exceed 10% of $34,000 ($3,400).  Beech therefore does not exceed the current acquisitions threshold.
+Assuming these financial acquisitions were made solely for a creditable purpose, Beech's input tax credits for its total acquisitions and importations would be $34,000 (1/11th of $374,000) and its input tax credits for financial acquisitions would be $3,000 (1/11th of $33,000). This $3,000 does not exceed the $50,000 threshold and also does not exceed 10% of $34,000 ($3,400). Beech therefore does not exceed the current acquisitions threshold.
 Example 1A - threshold not exceeded (current acquisitions) - after June 2012
 16A.
 In August 2012, Cedar Pty Ltd calculates that its total acquisitions and importations (including financial acquisitions) during the months from 1 September 2011 to 31 August 2012 are $12,100,000. Of that amount, Cedar calculates that $1,150,050 was for financial acquisitions.
@@ -225,9 +223,9 @@ the amount of the input tax credits to which the entity would be entitled for it
 Therefore an entity calculates whether it exceeds the financial acquisitions threshold by reference to its potential entitlement to input tax credits for its financial acquisitions and for its total acquisitions and importations.
 Example 2 - threshold exceeded (future acquisitions) - before July 2012
 18.
-Following on from example 1, although Beech does not exceed the current acquisitions threshold, it must also determine whether it exceeds the future acquisitions threshold.  Beech calculates that the total acquisitions and importations for the 12 month period from 1 August 2002 to 31 July 2003 are likely to be $308,000 and that its financial acquisitions are likely to be $38,500.
+Following on from example 1, although Beech does not exceed the current acquisitions threshold, it must also determine whether it exceeds the future acquisitions threshold. Beech calculates that the total acquisitions and importations for the 12 month period from 1 August 2002 to 31 July 2003 are likely to be $308,000 and that its financial acquisitions are likely to be $38,500.
 19.
-Assuming these financial acquisitions were made solely for a creditable purpose, the total input tax credits for that year would therefore be $28,000 (1/11th of $308,000) and input tax credits for financial acquisitions would be $3,500 (1/11th of $38,500).  Although the $3,500 does not exceed $50,000, it exceeds 10% of the total input tax credits ($2,800).  Beech exceeds the financial acquisitions threshold and is therefore not entitled to input tax credits for its acquisitions relating to its financial supplies.
+Assuming these financial acquisitions were made solely for a creditable purpose, the total input tax credits for that year would therefore be $28,000 (1/11th of $308,000) and input tax credits for financial acquisitions would be $3,500 (1/11th of $38,500). Although the $3,500 does not exceed $50,000, it exceeds 10% of the total input tax credits ($2,800). Beech exceeds the financial acquisitions threshold and is therefore not entitled to input tax credits for its acquisitions relating to its financial supplies.
 [7]
 20.
 If Beech had exceeded the current acquisitions threshold, it would not be necessary to determine whether it exceeds the future financial acquisitions threshold.
@@ -239,7 +237,7 @@ Assuming these financial acquisitions are made solely for a creditable purpose, 
 [7A]
 20C.
 If Cedar had exceeded the current acquisitions threshold, it would not be necessary to determine whether it exceeds the future financial acquisitions threshold.
-21. Although the financial acquisitions threshold, calculated at a time in a particular month, is based on acquisitions made in the twelve months ending with that month and acquisitions likely to be made in that month plus the next eleven months, the entitlement to input tax credits for acquisitions that relate to the making of financial supplies is denied only from the time that the entity first exceeds the threshold.  It does not affect the input tax credits for acquisitions made prior to the time the threshold is exceeded.
+21. Although the financial acquisitions threshold, calculated at a time in a particular month, is based on acquisitions made in the twelve months ending with that month and acquisitions likely to be made in that month plus the next eleven months, the entitlement to input tax credits for acquisitions that relate to the making of financial supplies is denied only from the time that the entity first exceeds the threshold. It does not affect the input tax credits for acquisitions made prior to the time the threshold is exceeded.
 22. Once an entity exceeds the financial acquisitions threshold, it will not be entitled to claim input tax credits for its financial acquisitions until such time as it no longer exceeds the threshold.
 [8]
 22A. For references in the remainder of this Ruling to testing whether an entity exceeds the financial acquisitions threshold assume that the testing is conducted at a time during July 2012 or a later month.
@@ -247,139 +245,139 @@ Defining a financial acquisition
 23. A financial acquisition is an acquisition that relates to the making of a financial supply (other than a financial supply consisting of a borrowing).
 [9]
 What is an acquisition?
-24. An acquisition is defined in section 11-10 of the GST Act as 'any form of acquisition whatsoever'.  The definition is very broad and is intended to encompass acquisitions as widely as possible.
+24. An acquisition is defined in section 11-10 of the GST Act as 'any form of acquisition whatsoever'. The definition is very broad and is intended to encompass acquisitions as widely as possible.
 [10]
-For the purposes of the definition of 'financial acquisition' an acquisition may be of a taxable supply, or may be of a supply that is input taxed, GST-free or outside the GST system.  However, there can be no entitlement to input tax credits for acquisitions where there is no GST on the supply of the thing acquired.  Acquisitions, the supply of which was not a taxable supply will have no effect on whether the financial acquisitions threshold is exceeded (see paragraph 91 of this Ruling).
+For the purposes of the definition of 'financial acquisition' an acquisition may be of a taxable supply, or may be of a supply that is input taxed, GST-free or outside the GST system. However, there can be no entitlement to input tax credits for acquisitions where there is no GST on the supply of the thing acquired. Acquisitions, the supply of which was not a taxable supply will have no effect on whether the financial acquisitions threshold is exceeded (see paragraph 91 of this Ruling).
 25. The definition of a financial acquisition refers to an acquisition that relates to the making of a financial supply, but does not specifically refer to
 importations.
-Importations include goods acquired by way of importing them into Australia.  Although the term 'acquisition' is broad enough to include importations, the GST Act distinguishes importations from other acquisitions for the purpose of determining input tax credit entitlements.
+Importations include goods acquired by way of importing them into Australia. Although the term 'acquisition' is broad enough to include importations, the GST Act distinguishes importations from other acquisitions for the purpose of determining input tax credit entitlements.
 [11]
-This distinction is also made in the second limb test in Division 189 where importations (as well as acquisitions) are specifically taken into account in calculating total input tax credits.  In this context, we consider that the definition of financial acquisition (in referring to acquisitions only) does not include any importation that relates to the making of a financial supply.
+This distinction is also made in the second limb test in Division 189 where importations (as well as acquisitions) are specifically taken into account in calculating total input tax credits. In this context, we consider that the definition of financial acquisition (in referring to acquisitions only) does not include any importation that relates to the making of a financial supply.
 What is the meaning of 'relates to the making of a financial supply'?
-26. The meaning of the term 'relates to' as used in section 189-15  must be addressed on a number of different levels:
+26. The meaning of the term 'relates to' as used in section 189-15 must be addressed on a number of different levels:
 •
-First, there is the question of how closely an acquisition must relate to the making of a financial supply.  That is, is there sufficient nexus?
+First, there is the question of how closely an acquisition must relate to the making of a financial supply. That is, is there sufficient nexus?
 •
 Second, the issue of the timing of the acquisition in relation to the making of a financial supply is also relevant; and
 •
 Third, the extent to which an acquisition relates to the making of a financial supply must be determined.
 Nexus
 27. The term 'relates to' as used in section 189-15, requires a nexus, link or connection between an acquisition and the making of a financial supply.
-28. There is a sufficient connection where the acquisition is used or intended to be used solely or to some extent for the making of a financial supply.  Where the acquisition is to be used for the making of a financial supply, it is a financial acquisition regardless of the ultimate purpose of the financial supply.  For example, the cost of professional services acquired in connection with the supply of shares would relate to that financial supply even if the ultimate purpose of the supply was to raise funds for making taxable supplies.
+28. There is a sufficient connection where the acquisition is used or intended to be used solely or to some extent for the making of a financial supply. Where the acquisition is to be used for the making of a financial supply, it is a financial acquisition regardless of the ultimate purpose of the financial supply. For example, the cost of professional services acquired in connection with the supply of shares would relate to that financial supply even if the ultimate purpose of the supply was to raise funds for making taxable supplies.
 [11A]
-29. In addition, an acquisition relates to the making of a financial supply where it is to be used for making both a financial supply and another supply that is not a financial supply.  However, such an acquisition is a financial acquisition only to the extent that it relates to the making of a financial supply (see paragraphs 50 to 56 of this Ruling).
-30. Acquisitions which relate to the making of financial supplies may be described as either direct or indirect.  Direct acquisitions relate to the making of a particular supply or supplies.  For example, a computer used by a bank to monitor loans will be a direct acquisition which relates to the making of financial supplies.  Indirect acquisitions may also be described as overheads.  They are acquisitions that provide an environment in which the entity makes supplies.  Examples include rent, gas, electricity and fittings.  These overheads may not be capable of a direct connection with the individual supplies made by the entity, however they relate to the making of those supplies.  For the purposes of applying section 11-15 and Division 189 it is necessary to allocate those overheads according to the character of the supplies made and in accordance with the entity's apportionment methodology.
+29. In addition, an acquisition relates to the making of a financial supply where it is to be used for making both a financial supply and another supply that is not a financial supply. However, such an acquisition is a financial acquisition only to the extent that it relates to the making of a financial supply (see paragraphs 50 to 56 of this Ruling).
+30. Acquisitions which relate to the making of financial supplies may be described as either direct or indirect. Direct acquisitions relate to the making of a particular supply or supplies. For example, a computer used by a bank to monitor loans will be a direct acquisition which relates to the making of financial supplies. Indirect acquisitions may also be described as overheads. They are acquisitions that provide an environment in which the entity makes supplies. Examples include rent, gas, electricity and fittings. These overheads may not be capable of a direct connection with the individual supplies made by the entity, however they relate to the making of those supplies. For the purposes of applying section 11-15 and Division 189 it is necessary to allocate those overheads according to the character of the supplies made and in accordance with the entity's apportionment methodology.
 Example 3 - overheads that relate to the making of financial supplies
 31.
-A truck retailer, Smack Trucks, sells trucks to retail customers and also offers finance to customers by way of loans.  It has a staff of ten salespersons and two loans officers.  The facilities used by the sales staff and the loans officers are comparable.  There are specified direct acquisitions that can be identified as relating to the loans activity e.g. specialist software.  The acquisition of that software therefore relates to the making of financial supplies.  Other acquisitions relate to the making of both the supply of trucks and the supply of loans.  Those acquisitions may include the purchase of carpet for the offices of all twelve staff.  Therefore for Division 189 purposes, Smack Trucks decides that its most appropriate apportionment method (following GSTR 2006/3) is to allocate 2/12ths of all its overheads, including the acquisition of the carpet, to the financial supplies made by its loans staff.
+A truck retailer, Smack Trucks, sells trucks to retail customers and also offers finance to customers by way of loans. It has a staff of ten salespersons and two loans officers. The facilities used by the sales staff and the loans officers are comparable. There are specified direct acquisitions that can be identified as relating to the loans activity e.g. specialist software. The acquisition of that software therefore relates to the making of financial supplies. Other acquisitions relate to the making of both the supply of trucks and the supply of loans. Those acquisitions may include the purchase of carpet for the offices of all twelve staff. Therefore for Division 189 purposes, Smack Trucks decides that its most appropriate apportionment method (following GSTR 2006/3) is to allocate 2/12ths of all its overheads, including the acquisition of the carpet, to the financial supplies made by its loans staff.
 32. Where the acquisition relates to the making of a financial supply consisting of a borrowing, it is not necessary to consider whether the borrowing itself relates to the making of a financial supply for the purpose of Division 189.
-33. All acquisitions to the extent they relate to making financial supplies consisting of a borrowing are excluded from the definition of financial acquisitions in section 189-15.  For the purposes of section 11-15(5) however, the use to which the borrowing is put determines whether an acquisition is for a creditable purpose.
+33. All acquisitions to the extent they relate to making financial supplies consisting of a borrowing are excluded from the definition of financial acquisitions in section 189-15. For the purposes of section 11-15(5) however, the use to which the borrowing is put determines whether an acquisition is for a creditable purpose.
 Timing
-34. For the purposes of calculating whether the financial acquisitions threshold is exceeded, an entity takes into account acquisitions that relate to the making of financial supplies.  An acquisition relates to the making of a financial supply if it relates either to the making of an actual financial supply or to a financial supply that the entity intends to make or is considering making.
+34. For the purposes of calculating whether the financial acquisitions threshold is exceeded, an entity takes into account acquisitions that relate to the making of financial supplies. An acquisition relates to the making of a financial supply if it relates either to the making of an actual financial supply or to a financial supply that the entity intends to make or is considering making.
 [12]
 35. [Omitted]
-36. For the purposes of Division 189, a relationship between an acquisition and the making of a financial supply may be evidenced through such things as a business plan, accounting budget, previous experience concerning usage of similar acquisitions, correspondence with third parties relating to a proposed financial supply or a resolution passed by the board of directors.  However, where the acquisition is clearly directed towards the making of a financial supply, the absence of any or all of the preceding indicators will not alter the character of the acquisition as a financial acquisition.
+36. For the purposes of Division 189, a relationship between an acquisition and the making of a financial supply may be evidenced through such things as a business plan, accounting budget, previous experience concerning usage of similar acquisitions, correspondence with third parties relating to a proposed financial supply or a resolution passed by the board of directors. However, where the acquisition is clearly directed towards the making of a financial supply, the absence of any or all of the preceding indicators will not alter the character of the acquisition as a financial acquisition.
 Example 4 - evidence that a financial supply is being considered
 37.
-Tulip Pty Ltd acquires share registry services directed towards issuing shares to its employees under an employee share scheme.  The decision to issue the shares has not yet been formalised by a resolution of the board of directors.
+Tulip Pty Ltd acquires share registry services directed towards issuing shares to its employees under an employee share scheme. The decision to issue the shares has not yet been formalised by a resolution of the board of directors.
 38.
-The acquisition of the share registry services is a financial acquisition for Division 189 purposes and must be included in the calculation to determine whether Tulip Pty Ltd exceeds the financial acquisitions threshold prior to the board making the resolution.  This is so, even though the company cannot issue the shares until the board resolution is made.
+The acquisition of the share registry services is a financial acquisition for Division 189 purposes and must be included in the calculation to determine whether Tulip Pty Ltd exceeds the financial acquisitions threshold prior to the board making the resolution. This is so, even though the company cannot issue the shares until the board resolution is made.
 39.
 If the board resolves not to proceed with the issue of the shares, the acquisition will no longer be a financial acquisition for the purpose of the calculation of the financial acquisitions threshold. Services acquired from the share registry after Tulip decides not to proceed with the issue of the shares are not financial acquisitions.
-40. For the purposes of Division 189, an entity determines whether a particular acquisition relates to the making of a financial supply when it is calculating whether the financial acquisitions threshold is exceeded.  An entity may subsequently change the intended or actual use of a financial acquisition, for example, where the entity decides not to proceed with the financial supply.  In this case, the acquisition is no longer a financial acquisition for Division 189 purposes from the time, and to the extent to which, the intended or actual use of the acquisition is changed.
+40. For the purposes of Division 189, an entity determines whether a particular acquisition relates to the making of a financial supply when it is calculating whether the financial acquisitions threshold is exceeded. An entity may subsequently change the intended or actual use of a financial acquisition, for example, where the entity decides not to proceed with the financial supply. In this case, the acquisition is no longer a financial acquisition for Division 189 purposes from the time, and to the extent to which, the intended or actual use of the acquisition is changed.
 [13]
 41. Conversely, if an acquisition was intended to be used for the making of supplies other than financial supplies, and subsequently the acquisition was to be used for the making of financial supplies, the acquisition becomes a financial acquisition from the time of the change in intended use.
-42. These later events do not alter the outcome of the Division 189 threshold test retrospectively.  The entity need not go back and recalculate whether it exceeded the threshold at a time prior to the change in the intended use of the acquisition.  Whether or not the threshold is exceeded is a matter determined at the time of the test, and subsequent events do not alter the outcome of the test at that point in time.  They can only alter the outcome of subsequent tests.
+42. These later events do not alter the outcome of the Division 189 threshold test retrospectively. The entity need not go back and recalculate whether it exceeded the threshold at a time prior to the change in the intended use of the acquisition. Whether or not the threshold is exceeded is a matter determined at the time of the test, and subsequent events do not alter the outcome of the test at that point in time. They can only alter the outcome of subsequent tests.
 43. A change in intention needs to be taken into account when the entity is calculating whether it exceeds the threshold from that point in time onwards.
-44. Once a decision is made not to proceed with a proposed financial supply, an acquisition that related to that financial supply is no longer a financial acquisition for Division 189 purposes.  For this reason, each time the calculation is made to determine whether the entity exceeds the financial acquisitions threshold at a particular time, an entity needs to revisit whether a proposed financial supply is still intended or under consideration.
+44. Once a decision is made not to proceed with a proposed financial supply, an acquisition that related to that financial supply is no longer a financial acquisition for Division 189 purposes. For this reason, each time the calculation is made to determine whether the entity exceeds the financial acquisitions threshold at a particular time, an entity needs to revisit whether a proposed financial supply is still intended or under consideration.
 45. Should an entity's actual use of an acquisition change from its planned use,
 [14]
 an adjustment may be necessary under Division 129 to reflect any change in the extent of creditable purpose.
 Example 5 - financial supply being considered but the supply does not eventuate
 46.
-Thunderbolt Enterprises is considering making a rights issue to its shareholders.  Thunderbolt makes an acquisition of professional advice in January in relation to the rights issue.  Three months later, based on the advice it receives, Thunderbolt decides not to go ahead with the rights issue.
+Thunderbolt Enterprises is considering making a rights issue to its shareholders. Thunderbolt makes an acquisition of professional advice in January in relation to the rights issue. Three months later, based on the advice it receives, Thunderbolt decides not to go ahead with the rights issue.
 47.
-At the time the professional advice was acquired there was a relationship between the acquisition and the making of the proposed financial supply.  The acquisition is therefore a financial acquisition for Division 189 purposes.  Any further advice acquired after Thunderbolt decides not to proceed with the issue is not a financial acquisition.
+At the time the professional advice was acquired there was a relationship between the acquisition and the making of the proposed financial supply. The acquisition is therefore a financial acquisition for Division 189 purposes. Any further advice acquired after Thunderbolt decides not to proceed with the issue is not a financial acquisition.
 48.
-When calculating whether it exceeds the threshold at a time after the decision not to go ahead with the rights issue, Thunderbolt does not include the professional advice as a financial acquisition.  However, it does not recalculate whether it exceeded the threshold at a time prior to the decision not to proceed with the rights issue.
-49. Where a financial acquisition is made for a period, or on a progressive basis and Division 156 applies, the acquisition is treated for the purposes of attribution as if each progressive or periodic component were a separate acquisition.  In circumstances where Division 156 applies, the input tax credits for the financial acquisition are only included in the Division 189 threshold calculation to the extent the input tax credit entitlement would arise during the period in relation to each component.
+When calculating whether it exceeds the threshold at a time after the decision not to go ahead with the rights issue, Thunderbolt does not include the professional advice as a financial acquisition. However, it does not recalculate whether it exceeded the threshold at a time prior to the decision not to proceed with the rights issue.
+49. Where a financial acquisition is made for a period, or on a progressive basis and Division 156 applies, the acquisition is treated for the purposes of attribution as if each progressive or periodic component were a separate acquisition. In circumstances where Division 156 applies, the input tax credits for the financial acquisition are only included in the Division 189 threshold calculation to the extent the input tax credit entitlement would arise during the period in relation to each component.
 [15]
 Extent
 50. In circumstances where an acquisition relates to the making of both financial supplies and other supplies such as taxable supplies and/or GST-free supplies, we consider that for Division 189 purposes, the acquisition is a financial acquisition
 to the extent
 that it relates to the making of financial supplies.
 51. Division 189 can be interpreted in this way despite the absence of the words 'to the extent' in the definition of 'financial acquisition' in section 189-15 as the general scheme of the GST Act is to identify that part of the acquisition that relates to financial supplies.
-52. The words 'relates to', as used in section 189-15, are not defined in the GST Act.  Such terms must be read in the context in which they appear and courts have ruled that the terms be interpreted in accordance with the intent of the relevant statute.  In
+52. The words 'relates to', as used in section 189-15, are not defined in the GST Act. Such terms must be read in the context in which they appear and courts have ruled that the terms be interpreted in accordance with the intent of the relevant statute. In
 Hatfield v. Health Insurance Commission
 (1987) 15 FCR 487 at page 491 Davies J stated:
-Expressions such as 'relating to', 'in relation to', 'in connection with' and 'in respect of' are commonly found in legislation but invariably raise problems of statutory interpretation.  They are terms which fluctuate in operation from statute to statute...  The terms may have a very wide operation but they do not usually carry the widest possible ambit, for they are subject to the context in which they are used, to the words with which they are associated and to the object or purpose of the statutory provision in which they appear.
+Expressions such as 'relating to', 'in relation to', 'in connection with' and 'in respect of' are commonly found in legislation but invariably raise problems of statutory interpretation. They are terms which fluctuate in operation from statute to statute... The terms may have a very wide operation but they do not usually carry the widest possible ambit, for they are subject to the context in which they are used, to the words with which they are associated and to the object or purpose of the statutory provision in which they appear.
 53. The purpose of Division 189 is to ensure that most entities are not denied input tax credits for making financial supplies that are not part of their principal commercial activities.
 [16]
-The object of the Division as set out in section 189-1 is to provide a threshold test for the application of subsections 11-15(4) and 15-10(4).  These provisions have the effect of allowing a creditable purpose for acquisitions and importations which would not normally have a creditable purpose because they relate to making financial supplies.  To determine the meaning of the term 'relates to' from its legislative context it is necessary to consider the interaction of the words of Division 189 with those of Division 11 which deals with creditable acquisitions.
+The object of the Division as set out in section 189-1 is to provide a threshold test for the application of subsections 11-15(4) and 15-10(4). These provisions have the effect of allowing a creditable purpose for acquisitions and importations which would not normally have a creditable purpose because they relate to making financial supplies. To determine the meaning of the term 'relates to' from its legislative context it is necessary to consider the interaction of the words of Division 189 with those of Division 11 which deals with creditable acquisitions.
 54. Paragraph 11-15(2)(a) provides that an entity does not acquire a thing for a creditable purpose
 to the extent
-that it relates to making supplies that would be input taxed (such as financial supplies).  Subsection 11-15(4) states that for the purposes of paragraph (2)(a), an acquisition that relates to making a financial supply is not treated as one that would be input taxed if the entity does not exceed the financial acquisitions threshold.
-55. The effect of these provisions is that, if an entity does not exceed the financial acquisitions threshold, it may be entitled to input tax credits to the extent to which the acquisition relates to the making of a financial supply.  This gives effect to the financial acquisitions threshold test in Division 189 which determines whether an entity would exceed the threshold if these potential input tax credits were allowed.
+that it relates to making supplies that would be input taxed (such as financial supplies). Subsection 11-15(4) states that for the purposes of paragraph (2)(a), an acquisition that relates to making a financial supply is not treated as one that would be input taxed if the entity does not exceed the financial acquisitions threshold.
+55. The effect of these provisions is that, if an entity does not exceed the financial acquisitions threshold, it may be entitled to input tax credits to the extent to which the acquisition relates to the making of a financial supply. This gives effect to the financial acquisitions threshold test in Division 189 which determines whether an entity would exceed the threshold if these potential input tax credits were allowed.
 Example 6 - acquisition for use in the making of both financial supplies and taxable supplies
 56.
-Flutterby Enterprises (Flutterby) purchases new computer equipment for $770,000.  The computer equipment is used 95% for making taxable supplies and 5% for making financial supplies other than borrowings.  In calculating whether it exceeds the financial acquisitions threshold, Flutterby does not treat the full purchase price of $770,000 as a financial acquisition.  It treats only $38,500 (5% of $770,000) as a financial acquisition as this is the extent to which the computer equipment is used to make financial supplies.
+Flutterby Enterprises (Flutterby) purchases new computer equipment for $770,000. The computer equipment is used 95% for making taxable supplies and 5% for making financial supplies other than borrowings. In calculating whether it exceeds the financial acquisitions threshold, Flutterby does not treat the full purchase price of $770,000 as a financial acquisition. It treats only $38,500 (5% of $770,000) as a financial acquisition as this is the extent to which the computer equipment is used to make financial supplies.
 What is the meaning of 'making of a financial supply'?
 57. The term 'making of a financial supply' means the provision, acquisition or disposal of an interest mentioned as a financial supply in regulation 40-5.09 or an incidental financial supply in regulation 40-5.10 (see paragraphs 9 to 11 of this Ruling).
 [17]
 58. A financial supply includes an acquisition-supply.
 [18]
-An acquisition-supply is a supply which is the acquisition of a financial interest.  Acquisitions that relate to the making of acquisition-supplies are also financial acquisitions.
+An acquisition-supply is a supply which is the acquisition of a financial interest. Acquisitions that relate to the making of acquisition-supplies are also financial acquisitions.
 Example 7 - financial acquisition
 59.
-Company A sells shares to Company B through Company C who acts as a broker.  Company A is making a financial supply of an interest in or under a security (the shares) to Company B.  Company C is making a taxable supply to Company A in the form of brokerage services.  Brokerage services provided by Company C are financial acquisitions made by Company A.
+Company A sells shares to Company B through Company C who acts as a broker. Company A is making a financial supply of an interest in or under a security (the shares) to Company B. Company C is making a taxable supply to Company A in the form of brokerage services. Brokerage services provided by Company C are financial acquisitions made by Company A.
 60.
-Company B makes an acquisition-supply of the shares.  Company D, an investment adviser, supplies services to Company B in relation to the acquisition of the shares.  The services acquired by Company B from Company D are financial acquisitions because they relate to making the acquisition-supply.
+Company B makes an acquisition-supply of the shares. Company D, an investment adviser, supplies services to Company B in relation to the acquisition of the shares. The services acquired by Company B from Company D are financial acquisitions because they relate to making the acquisition-supply.
 What is the meaning of 'borrowing'?
-61. An acquisition that relates to the making of a financial supply consisting of a borrowing is not a financial acquisition for the purpose of section 189-15.  For the borrowing entity, this means that its financial acquisitions do not include acquisitions to the extent they relate to its borrowings.  For the entity that lends the money, acquisitions that relate to loans it makes are not excluded from its financial acquisitions.
+61. An acquisition that relates to the making of a financial supply consisting of a borrowing is not a financial acquisition for the purpose of section 189-15. For the borrowing entity, this means that its financial acquisitions do not include acquisitions to the extent they relate to its borrowings. For the entity that lends the money, acquisitions that relate to loans it makes are not excluded from its financial acquisitions.
 62. 'Borrowing' is defined in section 195-1 of the GST Act as having the meaning given by section 995-1 of the
 Income Tax Assessment Act 1997.
-That section defines 'borrowing' as any form of borrowing, whether secured or unsecured, and includes the raising of funds by the issue of a bond, debenture, discounted security or other document evidencing indebtedness.  The requirement for a document evidencing indebtedness leads to the conclusion that for the purposes of the GST Act, a borrowing must involve a debtor/creditor relationship.  This would not include equity issues such as the issue of redeemable preference shares.
-63. The definition of borrowing refers to 'the raising of funds' and the 'issue' of a bond, these being activities undertaken by the borrower.  The definition clearly refers to a borrowing in terms of the borrower.  Consequently, acquisitions that relate to the making of financial supplies consisting of borrowings are only those acquisitions made by the borrowing entity and not those made by the entity that lends the money.
-64. A borrowing in the form of a loan is the acquisition of an interest in a credit arrangement by the borrower.  For the purposes of the GST regulations the provision, acquisition or disposal of an interest mentioned in the table in regulation 40-5.09 is the supply of a financial interest.  The acquisition of an interest in a credit arrangement is mentioned in item 2 of subregulation 40-5.09(3) and is an acquisition-supply which is the supply of a financial interest.
+That section defines 'borrowing' as any form of borrowing, whether secured or unsecured, and includes the raising of funds by the issue of a bond, debenture, discounted security or other document evidencing indebtedness. The requirement for a document evidencing indebtedness leads to the conclusion that for the purposes of the GST Act, a borrowing must involve a debtor/creditor relationship. This would not include equity issues such as the issue of redeemable preference shares.
+63. The definition of borrowing refers to 'the raising of funds' and the 'issue' of a bond, these being activities undertaken by the borrower. The definition clearly refers to a borrowing in terms of the borrower. Consequently, acquisitions that relate to the making of financial supplies consisting of borrowings are only those acquisitions made by the borrowing entity and not those made by the entity that lends the money.
+64. A borrowing in the form of a loan is the acquisition of an interest in a credit arrangement by the borrower. For the purposes of the GST regulations the provision, acquisition or disposal of an interest mentioned in the table in regulation 40-5.09 is the supply of a financial interest. The acquisition of an interest in a credit arrangement is mentioned in item 2 of subregulation 40-5.09(3) and is an acquisition-supply which is the supply of a financial interest.
 [19]
 Provided the other elements of regulation 40-5.09 are met, a borrowing in the form of a loan is a financial supply.
-65. Acquisitions that relate to the making of the financial supply consisting of the borrowing are not financial acquisitions and are not taken into account under the first limb test.  However, it is still necessary to determine the extent to which they are creditable acquisitions to calculate the total input tax credit entitlements under the second limb test.
+65. Acquisitions that relate to the making of the financial supply consisting of the borrowing are not financial acquisitions and are not taken into account under the first limb test. However, it is still necessary to determine the extent to which they are creditable acquisitions to calculate the total input tax credit entitlements under the second limb test.
 [20]
 Example 8 - borrowing related expenses
 66.
-Anyhow Enterprise borrows $250,000 from R.E.N.E. Co for the purchase of a warehouse.  Anyhow pays a valuation fee of $1,100 to an independent valuer and also pays $5,500 in legal fees for negotiating the loan contract.  Anyhow is entitled to an input tax credit of $600 (1/11 of $6,600) as these expenses relate to borrowing and the money borrowed does not relate to making input taxed supplies.
+Anyhow Enterprise borrows $250,000 from R.E.N.E. Co for the purchase of a warehouse. Anyhow pays a valuation fee of $1,100 to an independent valuer and also pays $5,500 in legal fees for negotiating the loan contract. Anyhow is entitled to an input tax credit of $600 (1/11 of $6,600) as these expenses relate to borrowing and the money borrowed does not relate to making input taxed supplies.
 [21]
 67.
-Because the valuation and legal fees relate to the making of a financial supply which consists of a borrowing, they are not financial acquisitions for Division 189 purposes.  Anyhow is entitled to an input tax credit for these acquisitions under Division 11.  Therefore, Anyhow includes the input tax credit in the total amount of input tax credits in calculating whether it exceeds the second limb tests in paragraphs 189-5(1)(b) and 189-10(1)(b).
+Because the valuation and legal fees relate to the making of a financial supply which consists of a borrowing, they are not financial acquisitions for Division 189 purposes. Anyhow is entitled to an input tax credit for these acquisitions under Division 11. Therefore, Anyhow includes the input tax credit in the total amount of input tax credits in calculating whether it exceeds the second limb tests in paragraphs 189-5(1)(b) and 189-10(1)(b).
 Reduced credit acquisitions
 68. Financial acquisitions for Division 189 purposes include those acquisitions that are listed in the table in regulation 70 as reduced credit acquisitions
 [22]
-if they are acquisitions that relate to the making of financial supplies.  A reduced credit acquisition may give rise to an entitlement to a reduced input tax credit under Division 70 of the GST Act.
+if they are acquisitions that relate to the making of financial supplies. A reduced credit acquisition may give rise to an entitlement to a reduced input tax credit under Division 70 of the GST Act.
 69. However, a reduced input tax credit is not available to the extent the entity is otherwise entitled to input tax credits for the acquisition, for example, as a result of the application of subsection 11-15(4).
 [23]
 The effect of subsection 11-15(4) is that an entity can be entitled to input tax credits for its acquisitions relating to financial supplies, if it does not exceed the financial acquisitions threshold.
-70. The entity needs to establish whether it exceeds the financial acquisitions threshold under Division 189 to determine whether it is entitled to input tax credits.  If it exceeds the financial acquisitions threshold, and is therefore not otherwise entitled to input tax credits, it may be entitled to a reduced input tax credit.
-71. When determining whether it exceeds the financial acquisitions threshold, the entity treats potential reduced credit acquisitions in the same way as other financial acquisitions, and assumes they are solely for a creditable purpose.  Therefore, the entity includes the whole of the input tax credits to which it would be entitled being an amount equal to the GST payable on the supply of the thing acquired.
+70. The entity needs to establish whether it exceeds the financial acquisitions threshold under Division 189 to determine whether it is entitled to input tax credits. If it exceeds the financial acquisitions threshold, and is therefore not otherwise entitled to input tax credits, it may be entitled to a reduced input tax credit.
+71. When determining whether it exceeds the financial acquisitions threshold, the entity treats potential reduced credit acquisitions in the same way as other financial acquisitions, and assumes they are solely for a creditable purpose. Therefore, the entity includes the whole of the input tax credits to which it would be entitled being an amount equal to the GST payable on the supply of the thing acquired.
 Example 9 - reduced credit acquisitions
 72.
-Big Pty Ltd (Big) supplies mortgage-backed home loans to its clients.  Big acquires debt collection services from Carrie Incorporated in relation to its outstanding home loan debts.  The acquisition is of a type listed in the table in regulation 70 as a reduced credit acquisition.  The cost of the services is $11,000.  Big includes the figure of $1,000 (1/11th of $11,000) in the input tax credits for its financial acquisitions when calculating whether it exceeds the financial acquisitions threshold.
+Big Pty Ltd (Big) supplies mortgage-backed home loans to its clients. Big acquires debt collection services from Carrie Incorporated in relation to its outstanding home loan debts. The acquisition is of a type listed in the table in regulation 70 as a reduced credit acquisition. The cost of the services is $11,000. Big includes the figure of $1,000 (1/11th of $11,000) in the input tax credits for its financial acquisitions when calculating whether it exceeds the financial acquisitions threshold.
 Acquisitions that are used to make financial supplies that are also GST-free supplies
-73. To the extent acquisitions are used for the making of financial supplies that are also GST-free supplies (e.g. exported financial supplies) they are financial acquisitions for Division 189 purposes.  They are taken into account in determining whether an entity exceeds the financial acquisitions threshold.
-74. Section 189-15 provides that a financial acquisition is an acquisition that relates to the making of a financial supply.  Financial supply is defined in section 195-1 as having the meaning given by the GST regulations.  Subsection 9-30(3) deals with supplies that are both GST-free and input taxed, and applies to make such supplies GST-free and not input taxed.
+73. To the extent acquisitions are used for the making of financial supplies that are also GST-free supplies (e.g. exported financial supplies) they are financial acquisitions for Division 189 purposes. They are taken into account in determining whether an entity exceeds the financial acquisitions threshold.
+74. Section 189-15 provides that a financial acquisition is an acquisition that relates to the making of a financial supply. Financial supply is defined in section 195-1 as having the meaning given by the GST regulations. Subsection 9-30(3) deals with supplies that are both GST-free and input taxed, and applies to make such supplies GST-free and not input taxed.
 [24]
 The GST regulations do not exclude from financial supplies those supplies which are also GST-free by operation of subsection 9-30(3).
-75. An acquisition does not need to relate to the making of an 'input taxed' financial supply to be a financial acquisition.  Division 189 applies to an acquisition that relates to the making of a supply that is a financial supply under the GST regulations, notwithstanding that the GST-free treatment of the supply (for example, an exported supply) may override its input taxed status.
+75. An acquisition does not need to relate to the making of an 'input taxed' financial supply to be a financial acquisition. Division 189 applies to an acquisition that relates to the making of a supply that is a financial supply under the GST regulations, notwithstanding that the GST-free treatment of the supply (for example, an exported supply) may override its input taxed status.
 [25]
 Example 10 - financial supply that is also GST-free
 76.
-Scorpion Pty Ltd, an entity that carries on an enterprise in Australia and is registered for GST, wants to raise funds through the issue of shares to UK residents.  It acquires legal and professional services at a cost of $275,000 (including GST of $25,000) from an adviser in relation to the issue of the shares.
+Scorpion Pty Ltd, an entity that carries on an enterprise in Australia and is registered for GST, wants to raise funds through the issue of shares to UK residents. It acquires legal and professional services at a cost of $275,000 (including GST of $25,000) from an adviser in relation to the issue of the shares.
 77.
-As the shares are to be issued to UK residents, they may be GST-free under section 38-190.  However, the issue of the shares is also a financial supply under regulation 40-5.09, and would be input taxed but for the operation of subsection 9-30(3).  The issue of shares is a financial supply but is GST-free.
+As the shares are to be issued to UK residents, they may be GST-free under section 38-190. However, the issue of the shares is also a financial supply under regulation 40-5.09, and would be input taxed but for the operation of subsection 9-30(3). The issue of shares is a financial supply but is GST-free.
 [26]
 78.
-The acquisition of the legal and professional services is a financial acquisition for the purposes of Division 189 because it relates to the making of a financial supply.  The input tax credit entitlement of $25,000 is for a financial acquisition and will therefore be taken into account when determining whether Scorpion exceeds the financial acquisitions threshold.
+The acquisition of the legal and professional services is a financial acquisition for the purposes of Division 189 because it relates to the making of a financial supply. The input tax credit entitlement of $25,000 is for a financial acquisition and will therefore be taken into account when determining whether Scorpion exceeds the financial acquisitions threshold.
 Isolated transactions
-79. Acquisitions to the extent they relate to the making of a financial supply are included as financial acquisitions and contribute towards the calculation of the financial acquisitions threshold even where the financial supply is made as part of an isolated transaction.  Where an entity makes a financial supply on a one-off basis, for example in a capital raising exercise or a restructure, this transaction is part of carrying on the enterprise of the entity.  Any acquisitions, to the extent they relate to the making of that financial supply, are included as financial acquisitions.
+79. Acquisitions to the extent they relate to the making of a financial supply are included as financial acquisitions and contribute towards the calculation of the financial acquisitions threshold even where the financial supply is made as part of an isolated transaction. Where an entity makes a financial supply on a one-off basis, for example in a capital raising exercise or a restructure, this transaction is part of carrying on the enterprise of the entity. Any acquisitions, to the extent they relate to the making of that financial supply, are included as financial acquisitions.
 Calculating the financial acquisitions threshold
 80. For the purposes of the financial acquisitions threshold test in sections 189-5 and 189-10, an entity needs to work out all the financial acquisitions it has made or is likely to make in:
 •
@@ -387,11 +385,11 @@ the current month and the previous eleven months; and
 •
 the current month and the next eleven months.
 What is the meaning of 'likely to make'?
-81. The phrase 'likely to make', which appears in sections 189-5 and 189-10, is not defined in the GST Act and therefore takes on its ordinary meaning.  Acquisitions an entity is likely to make are those which are probable.  This requires a reasonable estimation of future acquisitions undertaken in good faith.
+81. The phrase 'likely to make', which appears in sections 189-5 and 189-10, is not defined in the GST Act and therefore takes on its ordinary meaning. Acquisitions an entity is likely to make are those which are probable. This requires a reasonable estimation of future acquisitions undertaken in good faith.
 82. In
 Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
-(1976) 14 SASR 303, Bray CJ considered the meaning of 'likely' in the phrase 'likely to interfere with or damage property'.  His Honour said at pages 312-313:
-Here we are concerned with the word 'likely' in a statute.  As I have said, the ordinary and natural meaning of the word is synonymous with the ordinary and natural meaning of the word 'probable' and both words mean,... that there is an odds-on chance of the thing happening.  That is the way in which statutes containing the words have usually been construed. ...I think that 'likely' in the sub-section means 'probable' and I think that that means that there is a more than fifty per cent chance of the thing happening.
+(1976) 14 SASR 303, Bray CJ considered the meaning of 'likely' in the phrase 'likely to interfere with or damage property'. His Honour said at pages 312-313:
+Here we are concerned with the word 'likely' in a statute. As I have said, the ordinary and natural meaning of the word is synonymous with the ordinary and natural meaning of the word 'probable' and both words mean,... that there is an odds-on chance of the thing happening. That is the way in which statutes containing the words have usually been construed. ...I think that 'likely' in the sub-section means 'probable' and I think that that means that there is a more than fifty per cent chance of the thing happening.
 83. In
 Mercantile Mutual (Workers Compensation) Ltd v. FC of T,
 [27]
@@ -405,8 +403,8 @@ There is no rule of law as to the proper way of making an estimate. There is no 
 [30]
 84. In
 Australia and New Zealand Banking Group Ltd v. FC of T
-(1994) 48 FCR 268; 94 ATC 4026; (1994) 27 ATR 559, the Full Federal Court in a similar context considered an argument from the Commissioner that the estimates in question there related to claims for which no reasonable estimate was possible or, if an estimate was possible, it was unreasonable.  Hill J said (Northrop and Lockhardt JJ agreeing) at FCR 280; ATC 4035; ATR 571:
-The concept of 'estimate' does not involve arbitrarily seizing upon any figure.  What is involved is the formation of a judgment or opinion based upon reason.  That judgment or opinion must necessarily be made bona fide but it need not be exact for the process of estimation involves a process of approximation.
+(1994) 48 FCR 268; 94 ATC 4026; (1994) 27 ATR 559, the Full Federal Court in a similar context considered an argument from the Commissioner that the estimates in question there related to claims for which no reasonable estimate was possible or, if an estimate was possible, it was unreasonable. Hill J said (Northrop and Lockhardt JJ agreeing) at FCR 280; ATC 4035; ATR 571:
+The concept of 'estimate' does not involve arbitrarily seizing upon any figure. What is involved is the formation of a judgment or opinion based upon reason. That judgment or opinion must necessarily be made bona fide but it need not be exact for the process of estimation involves a process of approximation.
 [31]
 85. It is clear from these remarks that while a reasonable estimate need only be an approximation, it must be based on a sound and reasoned process of estimation that has been undertaken in good faith.
 86. Whether or not an estimate will be regarded as reasonable will also depend on the circumstances of the entity at the time it makes its estimate of future financial acquisitions.
@@ -438,21 +436,21 @@ direct acquisitions to the extent they relate to the making of financial supplie
 indirect acquisitions to the extent they are allocated to the making of supplies other than financial supplies; and
 •
 indirect acquisitions to the extent they are allocated to the making of financial supplies consisting of a borrowing.
-91. In calculating the input tax credits to which you would be entitled for your financial acquisitions, you are required to assume the acquisitions are solely for a creditable purpose.  If the acquisitions were taxable supplies when made to you, you would be entitled to input tax credits equal to the GST payable on the supplies.  No GST is included in respect of acquisitions that are GST-free, input taxed or out of scope.  The assumption that these acquisitions are solely for a creditable purpose does not entitle you to an input tax credit to which you would not be otherwise entitled.  Where there is no input tax credit entitlement (because there is no amount of GST payable on the supply of the thing acquired),
+91. In calculating the input tax credits to which you would be entitled for your financial acquisitions, you are required to assume the acquisitions are solely for a creditable purpose. If the acquisitions were taxable supplies when made to you, you would be entitled to input tax credits equal to the GST payable on the supplies. No GST is included in respect of acquisitions that are GST-free, input taxed or out of scope. The assumption that these acquisitions are solely for a creditable purpose does not entitle you to an input tax credit to which you would not be otherwise entitled. Where there is no input tax credit entitlement (because there is no amount of GST payable on the supply of the thing acquired),
 [32]
 there is no amount to include in the calculation of input tax credits to which you would be entitled.
 Example 11 - acquisition outside the GST system
-92. Vertigo Pty Ltd (Vertigo) as part of its enterprise maintains a share portfolio.  It engages an ex-director to advise it on its trading activities. The scale of the ex-director's enterprise is too small to require him to be registered for GST and he chooses not to register.  The consideration for the supply of the advice he provides to Vertigo for a year is $15,000.  As the supplier is not registered, no GST is included in the price of the supply, and the supplier is not liable for GST.
-93. When calculating whether it exceeds the financial acquisitions threshold, Vertigo must include all its financial acquisitions.  Although the advice acquired relates to the making of financial supplies, Vertigo has no entitlement to an input tax credit in relation to the acquisition of the advice, as no amount of GST is included in the price of the acquisition received.  The acquisition therefore is not included in calculating whether Vertigo exceeds the financial acquisitions threshold.
+92. Vertigo Pty Ltd (Vertigo) as part of its enterprise maintains a share portfolio. It engages an ex-director to advise it on its trading activities. The scale of the ex-director's enterprise is too small to require him to be registered for GST and he chooses not to register. The consideration for the supply of the advice he provides to Vertigo for a year is $15,000. As the supplier is not registered, no GST is included in the price of the supply, and the supplier is not liable for GST.
+93. When calculating whether it exceeds the financial acquisitions threshold, Vertigo must include all its financial acquisitions. Although the advice acquired relates to the making of financial supplies, Vertigo has no entitlement to an input tax credit in relation to the acquisition of the advice, as no amount of GST is included in the price of the acquisition received. The acquisition therefore is not included in calculating whether Vertigo exceeds the financial acquisitions threshold.
 The second limb test - exceeding 10%
 94. You exceed the financial acquisitions threshold under either paragraph 189-5(1)(b) (current acquisitions) or paragraph 189-10(1)(b) (future acquisitions) where the amount calculated under the first limb test exceeds 10% of 'the total amount of input tax credits to which you would be entitled' for all of your acquisitions and importations (including financial acquisitions), assuming that all your financial acquisitions were solely for a creditable purpose (the second limb test).
 Total amount of input tax credits
-95. The total amount of the input tax credits to which you would be entitled includes input tax credits for all creditable acquisitions and creditable importations.  Under Division 189, it specifically includes financial acquisitions.  You do not include acquisitions or importations to the extent that they relate to making input taxed supplies (other than financial supplies that are not a borrowing), or to the extent that they are acquisitions or importations of a private or domestic nature.
-96. Division 189 requires you to assume that financial acquisitions are solely for a creditable purpose when calculating whether the financial acquisitions threshold has been exceeded.  The amount of input tax credits in relation to financial acquisitions that are required by paragraph 189-5(1) (b) and paragraph 189-10(1)(b) to be included in the total amount of input tax credits is the amount calculated under the first limb test.
+95. The total amount of the input tax credits to which you would be entitled includes input tax credits for all creditable acquisitions and creditable importations. Under Division 189, it specifically includes financial acquisitions. You do not include acquisitions or importations to the extent that they relate to making input taxed supplies (other than financial supplies that are not a borrowing), or to the extent that they are acquisitions or importations of a private or domestic nature.
+96. Division 189 requires you to assume that financial acquisitions are solely for a creditable purpose when calculating whether the financial acquisitions threshold has been exceeded. The amount of input tax credits in relation to financial acquisitions that are required by paragraph 189-5(1) (b) and paragraph 189-10(1)(b) to be included in the total amount of input tax credits is the amount calculated under the first limb test.
 97. An acquisition that is used for the making of a financial supply that is also GST-free is a financial acquisition for Division 189 purposes (see paragraphs 73 to 78 of this Ruling) and also a creditable acquisition under Division 11.
 [33]
 You include the amount of input tax credits to which you would be entitled for this acquisition in the total amount of input tax credits only once.
-98. To the extent an acquisition relates to the making of a financial supply consisting of a borrowing it is not a financial acquisition, and is not included in the calculation of input tax credit entitlements for financial acquisitions under the first limb test.  Input tax credits for borrowing related acquisitions and importations may be included in the calculation of total input tax credits under the second limb test only where the acquisition or importation has a creditable purpose under Divisions 11 or 15.  These acquisitions and importations are not assumed to be solely for a creditable purpose under Division 189.
+98. To the extent an acquisition relates to the making of a financial supply consisting of a borrowing it is not a financial acquisition, and is not included in the calculation of input tax credit entitlements for financial acquisitions under the first limb test. Input tax credits for borrowing related acquisitions and importations may be included in the calculation of total input tax credits under the second limb test only where the acquisition or importation has a creditable purpose under Divisions 11 or 15. These acquisitions and importations are not assumed to be solely for a creditable purpose under Division 189.
 99. Pursuant to subsection 11-15(5), an acquisition is not treated as being related to making an input taxed supply to the extent that the acquisition relates to making a financial supply consisting of a borrowing (other than through a deposit account you make available) and the borrowing relates to you making supplies that are not input taxed.
 [34]
 An account is a 'deposit account' under section 195-1 if:
@@ -469,7 +467,7 @@ Corporations Act 2001
 99A. Pursuant to subsection 15-10(5), an importation is not treated as being related to making an input taxed supply, and therefore subject to an input tax credit, to the extent that the importation relates to making a financial supply consisting of a borrowing and the borrowing relates to you making supplies that are not input taxed.
 100. 100. An entity is therefore entitled to an input tax credit for these acquisitions and importations where the requirements of section 11-5 and 15-5 are satisfied. These input tax credits are included in the calculation of total credits to which the entity would be entitled under the second limb test.
 [35]
-101. Acquisitions or importations to the extent they relate to a borrowing that itself relates to making input taxed supplies, are not for a creditable purpose and the entity is not entitled to input tax credits.  There are no input tax credit entitlements for these acquisitions or importations to include in the total amount.
+101. Acquisitions or importations to the extent they relate to a borrowing that itself relates to making input taxed supplies, are not for a creditable purpose and the entity is not entitled to input tax credits. There are no input tax credit entitlements for these acquisitions or importations to include in the total amount.
 102. For the purposes of Division 189, the input tax credit entitlement for an acquisition to the extent it relates to the making of a financial supply consisting of a borrowing:
 •
 is not included under the first limb test because the acquisition is not a financial acquisition; and
@@ -497,13 +495,13 @@ acquisitions in relation to overhead costs used for making taxable supplies - GS
 104.
 Assuming all the financial acquisitions were solely for a creditable purpose, the total amount of input tax credits to which H.O.N.Z.A would be entitled is $131,000 ($15,000(a) + $6,000(b) + $100,000(f) + $10,000(g)).
 105.
-H.O.N.Z.A.'s input tax credits for financial acquisitions are $15,000.  This $15,000 does not exceed the $150,000 threshold.  However, it does exceed 10% of $131,000 ($13,100).  H.O.N.Z.A. therefore exceeds the current acquisitions threshold and would not be entitled to input tax credits in relation to its financial acquisitions.
+H.O.N.Z.A.'s input tax credits for financial acquisitions are $15,000. This $15,000 does not exceed the $150,000 threshold. However, it does exceed 10% of $131,000 ($13,100). H.O.N.Z.A. therefore exceeds the current acquisitions threshold and would not be entitled to input tax credits in relation to its financial acquisitions.
 [36]
 106. Where the financial acquisitions threshold is not exceeded, an entity is entitled to input tax credits for acquisitions and importations in relation to borrowings that are used to make financial supplies.
 [37]
 GST groups
-107. For members of GST groups (other than GST religious groups), the financial acquisitions threshold is a combined threshold.  That is, the threshold for the whole group is the same as if it were a single entity.  If the group makes financial acquisitions exceeding the threshold, each group member exceeds the threshold.  If one member of the group contributes a substantial proportion of those acquisitions, it is possible that its contribution alone may cause the group to exceed the threshold.
-108. The legislation, in explaining the financial acquisitions threshold for group members, refers to all the financial acquisitions 'you or any other member of the group' have made or are likely to make.  We interpret this to mean the financial acquisitions made or likely to be made whilst the relevant entity is a member of the group.  Similarly, the phrase 'input tax credits to which you or any other member of the group would be entitled' refers to those entitlements for acquisitions made whilst the relevant entity is a member of the group. The representative member of the group is entitled to any input tax credits for acquisitions made by an entity that is a member of the group that are attributable to a tax period during which the entity is a member of the group.
+107. For members of GST groups (other than GST religious groups), the financial acquisitions threshold is a combined threshold. That is, the threshold for the whole group is the same as if it were a single entity. If the group makes financial acquisitions exceeding the threshold, each group member exceeds the threshold. If one member of the group contributes a substantial proportion of those acquisitions, it is possible that its contribution alone may cause the group to exceed the threshold.
+108. The legislation, in explaining the financial acquisitions threshold for group members, refers to all the financial acquisitions 'you or any other member of the group' have made or are likely to make. We interpret this to mean the financial acquisitions made or likely to be made whilst the relevant entity is a member of the group. Similarly, the phrase 'input tax credits to which you or any other member of the group would be entitled' refers to those entitlements for acquisitions made whilst the relevant entity is a member of the group. The representative member of the group is entitled to any input tax credits for acquisitions made by an entity that is a member of the group that are attributable to a tax period during which the entity is a member of the group.
 [38]
 Current acquisitions threshold
 109. A member of a GST group exceeds the financial acquisitions threshold at a time during a particular month if, assuming that all the financial acquisitions the members of the group have made, or are likely to make, during the 12 months ending at the end of that month were made solely for a creditable purpose, either or both of the following would apply:
@@ -547,17 +545,17 @@ Input tax credits for the total acquisitions and importations of the ABC group w
 118.
 If the ABC group had exceeded the current acquisitions threshold, it would not be necessary for it to determine whether it exceeds the future financial acquisitions threshold.
 Input tax credits relating to financial acquisitions
-119. In determining whether a member of a GST group has exceeded the financial acquisitions threshold under paragraphs (a) and (b) of subsection 189-5(2) or 189-10(2), all of the group's input tax credits relating to financial acquisitions are included.  Financial acquisitions are those acquisitions 'that relate to the making of a financial supply (other than a financial supply consisting of a borrowing)'.
+119. In determining whether a member of a GST group has exceeded the financial acquisitions threshold under paragraphs (a) and (b) of subsection 189-5(2) or 189-10(2), all of the group's input tax credits relating to financial acquisitions are included. Financial acquisitions are those acquisitions 'that relate to the making of a financial supply (other than a financial supply consisting of a borrowing)'.
 [41]
 120. Under subsections 189-5(2) and 189-10(2) these financial acquisitions are assumed to be solely for a creditable purpose when calculating whether the financial acquisitions threshold is exceeded.
-121. An acquisition by a member of a GST group from a non-group entity is a financial acquisition for Division 189 purposes, if the purpose of the group as a whole is to use the acquisition for the making of a financial supply to an entity outside the GST group.  When determining whether such an acquisition by a group member is a financial acquisition, the GST group is treated as a single entity and not as a number of separate entities.
+121. An acquisition by a member of a GST group from a non-group entity is a financial acquisition for Division 189 purposes, if the purpose of the group as a whole is to use the acquisition for the making of a financial supply to an entity outside the GST group. When determining whether such an acquisition by a group member is a financial acquisition, the GST group is treated as a single entity and not as a number of separate entities.
 [42]
-122. The effect of the interaction between the grouping provisions in Divisions 48 and 189 is that an acquisition made by one group member from a non-group entity can 'relate to' a financial supply by another group member to a different non-group entity for Division 189 purposes.  Although the nexus between the acquisition and the ultimate supply is less direct in the context of a group than in a non-group situation, the interaction between Divisions 48 and 189 operates to establish a sufficient nexus.
+122. The effect of the interaction between the grouping provisions in Divisions 48 and 189 is that an acquisition made by one group member from a non-group entity can 'relate to' a financial supply by another group member to a different non-group entity for Division 189 purposes. Although the nexus between the acquisition and the ultimate supply is less direct in the context of a group than in a non-group situation, the interaction between Divisions 48 and 189 operates to establish a sufficient nexus.
 Total amount of input tax credits
-123. In deciding whether it has exceeded the financial acquisitions threshold under paragraph (b) of subsections 189-5(2) and 189-10(2), a GST group has to determine its entitlement to input tax credits for its total acquisitions and importations.  This entitlement includes the input tax credits to which it would be entitled for its financial acquisitions, assuming they were solely for a creditable purpose, and the input tax credits to which it is entitled for all other acquisitions and importations it makes for a creditable purpose.
-124. In deciding whether acquisitions other than financial acquisitions are for a creditable purpose, the purpose of the group as a whole is considered.  This is the effect of section 48-45 which provides that a GST group is treated as a single entity for the purposes of deciding whether acquisitions by a member are for a creditable purpose. Acquisitions made wholly within the group are ignored, and it is the purpose of the group as a whole which determines whether or not an acquisition is made for a creditable purpose.
+123. In deciding whether it has exceeded the financial acquisitions threshold under paragraph (b) of subsections 189-5(2) and 189-10(2), a GST group has to determine its entitlement to input tax credits for its total acquisitions and importations. This entitlement includes the input tax credits to which it would be entitled for its financial acquisitions, assuming they were solely for a creditable purpose, and the input tax credits to which it is entitled for all other acquisitions and importations it makes for a creditable purpose.
+124. In deciding whether acquisitions other than financial acquisitions are for a creditable purpose, the purpose of the group as a whole is considered. This is the effect of section 48-45 which provides that a GST group is treated as a single entity for the purposes of deciding whether acquisitions by a member are for a creditable purpose. Acquisitions made wholly within the group are ignored, and it is the purpose of the group as a whole which determines whether or not an acquisition is made for a creditable purpose.
 125. Section 48-55 has the effect that, when working out the amount of any input tax credits to which the representative member of the GST group is entitled, a GST group is treated as a single entity and not as a number of entities.
-126. For the second limb test, acquisitions between members of the GST group are not included with acquisitions from external entities that are for a creditable purpose.  This is because subsection 48-45(3) provides that such acquisitions are not creditable acquisitions and consequently there is no entitlement to input tax credits in relation to these acquisitions.
+126. For the second limb test, acquisitions between members of the GST group are not included with acquisitions from external entities that are for a creditable purpose. This is because subsection 48-45(3) provides that such acquisitions are not creditable acquisitions and consequently there is no entitlement to input tax credits in relation to these acquisitions.
 [43]
 Example 15 - GST group is treated as a single entity
 127.
@@ -607,43 +605,43 @@ Assuming all the financial acquisitions of the ABC Group were solely for a credi
 132.
 Input tax credits for the total acquisitions and importations of the ABC Group are $48,000. The amount of $3,600 does not exceed 10% of $48,000 ($4,800) under the second limb test. ABC Group therefore does not exceed the future acquisitions threshold even though Entity A as an individual entity would have exceeded the threshold had it not been a member of a GST group.
 Acquisitions relating to making supplies to another group member
-133. Within a GST group, members may make supplies to other members.  Financial acquisitions of a member do not include acquisitions used to make supplies that would be financial supplies to another member of the group.  Acquisitions between members of the GST group are not included in the calculation of the financial acquisitions threshold (see paragraph 91 of this Ruling).
+133. Within a GST group, members may make supplies to other members. Financial acquisitions of a member do not include acquisitions used to make supplies that would be financial supplies to another member of the group. Acquisitions between members of the GST group are not included in the calculation of the financial acquisitions threshold (see paragraph 91 of this Ruling).
 134. Where a group member makes an acquisition from a non-member to make a supply to another member of the group, and the other member uses that supply to make a financial supply (other than a borrowing) to a non-group entity, the acquisition by the first member is a financial acquisition by the GST group.
-135. In deciding whether something acquired by a group member from a non-group entity is a financial acquisition for Division 189 purposes, the group is treated as if it were a single entity and not a number of entities corresponding to the members of a GST group.  If the purpose of the GST group as a whole is to use the acquisition for making a taxable supply to a non-group entity, the acquisition is not a financial acquisition for Division 189 purposes.  If the acquisition is used by the GST group for the making of a financial supply to the non-group entity, the acquisition is a financial acquisition for Division 189 purposes.
+135. In deciding whether something acquired by a group member from a non-group entity is a financial acquisition for Division 189 purposes, the group is treated as if it were a single entity and not a number of entities corresponding to the members of a GST group. If the purpose of the GST group as a whole is to use the acquisition for making a taxable supply to a non-group entity, the acquisition is not a financial acquisition for Division 189 purposes. If the acquisition is used by the GST group for the making of a financial supply to the non-group entity, the acquisition is a financial acquisition for Division 189 purposes.
 Example 16 - a financial acquisition
 136.
-Entities A, B and C are members of a GST group.  Entity A acquires a computer from YTK (an entity outside the group).  Entity A leases the computer to Entity B who uses the computer to provide credit to customers that are not group members.  The acquisition of the computer does not relate to the supply of the lease to Entity B.  It relates to the financial supplies made by Entity B to the external entities.  It is a financial acquisition for Division 189 purposes.
+Entities A, B and C are members of a GST group. Entity A acquires a computer from YTK (an entity outside the group). Entity A leases the computer to Entity B who uses the computer to provide credit to customers that are not group members. The acquisition of the computer does not relate to the supply of the lease to Entity B. It relates to the financial supplies made by Entity B to the external entities. It is a financial acquisition for Division 189 purposes.
 137.
-The acquisition by Entity A is not a creditable acquisition for the GST group, because the purpose of the group as a whole is to use the computer for making input taxed supplies.  The acquisition will be included as a financial acquisition for the purposes of determining whether the group exceeds the financial acquisitions threshold under both the first and the second limb tests.
+The acquisition by Entity A is not a creditable acquisition for the GST group, because the purpose of the group as a whole is to use the computer for making input taxed supplies. The acquisition will be included as a financial acquisition for the purposes of determining whether the group exceeds the financial acquisitions threshold under both the first and the second limb tests.
 Acquisitions relating to borrowings between group members
 138. In deciding whether an acquisition from a non-group entity that relates to a borrowing between group members is a financial acquisition for Division 189 purposes, you look at the purpose of the GST group as a whole.
-139. Where a member of a GST group borrows money from a non-group entity, it is acquiring an interest in or under a credit arrangement which is an acquisition-supply, and provided the other requirements of subregulation 40-5.09(1) are satisfied, it is a financial supply.  Any acquisitions made in relation to this acquisition-supply are not financial acquisitions because they relate to a financial supply consisting of a borrowing.
-140. However, if a group member borrows from another member of the group and makes an acquisition from a non-group entity in relation to the borrowing, that acquisition is not an acquisition that relates to a borrowing.  It is necessary to look at the purpose of the group as a whole in making the acquisition.  Therefore, the acquisition is a financial acquisition for Division 189 purposes if the group as a whole uses the borrowing to make a financial supply to a non-group entity.
+139. Where a member of a GST group borrows money from a non-group entity, it is acquiring an interest in or under a credit arrangement which is an acquisition-supply, and provided the other requirements of subregulation 40-5.09(1) are satisfied, it is a financial supply. Any acquisitions made in relation to this acquisition-supply are not financial acquisitions because they relate to a financial supply consisting of a borrowing.
+140. However, if a group member borrows from another member of the group and makes an acquisition from a non-group entity in relation to the borrowing, that acquisition is not an acquisition that relates to a borrowing. It is necessary to look at the purpose of the group as a whole in making the acquisition. Therefore, the acquisition is a financial acquisition for Division 189 purposes if the group as a whole uses the borrowing to make a financial supply to a non-group entity.
 Effect of joining or leaving a GST group
 141. When a new member joins a GST group, the acquisitions of the new member prior to joining the group are not taken into account for the purposes of calculating whether the group exceeds the financial acquisitions threshold.
-142. For the purposes of subsection 189-5(2), only those acquisitions made, or likely to be made, by an entity after it becomes a member of the group are taken into account in determining whether the GST group exceeds the current or future financial acquisitions thresholds.  When a new member joins a GST group, it is only the history of its acquisitions as a member of the group that is relevant for Division 189 purposes.
+142. For the purposes of subsection 189-5(2), only those acquisitions made, or likely to be made, by an entity after it becomes a member of the group are taken into account in determining whether the GST group exceeds the current or future financial acquisitions thresholds. When a new member joins a GST group, it is only the history of its acquisitions as a member of the group that is relevant for Division 189 purposes.
 Example 17 - acquisitions made by new member prior to joining the group are not taken into account
 143.
-Entities A, B and C are members of a GST group.  Newboy Ltd joins Group ABC on 1 August 2001.  In determining whether the group exceeds the current financial acquisitions threshold, Newboy Ltd's acquisitions for the 11 months prior to joining the group (i.e. September 2000 to July 2001) are not taken into consideration.  Only its acquisitions after 1 August 2001 are taken into account.
-144. When an entity which is a member of a GST group leaves the GST group, the acquisitions it is likely to make after it leaves the group are not taken into account for the purposes of determining whether the group exceeds the financial acquisitions threshold for future acquisitions.  However, the acquisitions the departing member makes as a member of the group are included in the calculation of the group's current financial acquisitions threshold.
-145. For the purposes of subsection 189-10(2), only those acquisitions made, or likely to be made, by the entity while it is a member of the group are taken into account in determining whether the GST group exceeds the future financial acquisitions threshold.  It is only the entity's acquisitions as a member of the group that are relevant for Division 189 purposes.
+Entities A, B and C are members of a GST group. Newboy Ltd joins Group ABC on 1 August 2001. In determining whether the group exceeds the current financial acquisitions threshold, Newboy Ltd's acquisitions for the 11 months prior to joining the group (i.e. September 2000 to July 2001) are not taken into consideration. Only its acquisitions after 1 August 2001 are taken into account.
+144. When an entity which is a member of a GST group leaves the GST group, the acquisitions it is likely to make after it leaves the group are not taken into account for the purposes of determining whether the group exceeds the financial acquisitions threshold for future acquisitions. However, the acquisitions the departing member makes as a member of the group are included in the calculation of the group's current financial acquisitions threshold.
+145. For the purposes of subsection 189-10(2), only those acquisitions made, or likely to be made, by the entity while it is a member of the group are taken into account in determining whether the GST group exceeds the future financial acquisitions threshold. It is only the entity's acquisitions as a member of the group that are relevant for Division 189 purposes.
 Example 18 - member leaves GST group
 146.
-Daffy Limited (Daffy) is the subject of a sale by its parent company.  Daffy is part of a GST group which consists of its parent and other subsidiaries.  Daffy is the group member that acquires office equipment for the group.  The group does not make financial supplies.  The sale of Daffy will be finalised six months after the contract date, and after that time Daffy will be part of a GST group that makes only financial supplies.  It will acquire office equipment for the new group and the input tax credits relating to the new group's acquisitions will exceed $150,000.  For the 6 months between the contract date and the time Daffy leaves the first group, the group will not exceed the financial acquisitions threshold as the acquisitions that Daffy is likely to make after it leaves the group are not included in its calculation of the threshold.
+Daffy Limited (Daffy) is the subject of a sale by its parent company. Daffy is part of a GST group which consists of its parent and other subsidiaries. Daffy is the group member that acquires office equipment for the group. The group does not make financial supplies. The sale of Daffy will be finalised six months after the contract date, and after that time Daffy will be part of a GST group that makes only financial supplies. It will acquire office equipment for the new group and the input tax credits relating to the new group's acquisitions will exceed $150,000. For the 6 months between the contract date and the time Daffy leaves the first group, the group will not exceed the financial acquisitions threshold as the acquisitions that Daffy is likely to make after it leaves the group are not included in its calculation of the threshold.
 GST religious groups
 147. Subsections 189-5(1) and 189-10(1) are the provisions relevant to GST religious groups.
-148. GST religious groups do not meet the requirements of a GST group under section 48-10, and are therefore not GST groups under that provision.  Consequently, subsections 189-5(2) and 189-10(2) do not apply to GST religious groups.
-149. GST religious groups are not the same as GST groups.  They do not have representative members that are liable for any GST payable and entitled to the input tax credits of the group as a whole.
-150. Instead, each individual member of a GST religious group is entitled to the input tax credits that arise in relation to its own acquisitions from entities outside the group.  Therefore, each individual member needs to work out whether it exceeds the financial acquisitions threshold.
+148. GST religious groups do not meet the requirements of a GST group under section 48-10, and are therefore not GST groups under that provision. Consequently, subsections 189-5(2) and 189-10(2) do not apply to GST religious groups.
+149. GST religious groups are not the same as GST groups. They do not have representative members that are liable for any GST payable and entitled to the input tax credits of the group as a whole.
+150. Instead, each individual member of a GST religious group is entitled to the input tax credits that arise in relation to its own acquisitions from entities outside the group. Therefore, each individual member needs to work out whether it exceeds the financial acquisitions threshold.
 151. In determining whether a member's acquisitions and importations are for a creditable purpose, the GST religious group is treated as a single entity.
 [44]
 The effect of this is that each member looks at the purpose of the group as a whole in making the acquisition to determine the extent to which that member's acquisitions and importations are for a creditable purpose.
 Input tax credits relating to financial acquisitions
-152. To determine whether it has exceeded the financial acquisitions threshold under paragraphs (a) and (b) of subsections 189-5(1) and 189-10(1), each member of the GST religious group includes all of the input tax credits to which it would be entitled for its financial acquisitions.  Financial acquisitions for GST religious group members are those acquisitions that relate to the making of financial supplies (other than a financial supply consisting of a borrowing) looking at the purpose of the GST religious group as a whole in making the acquisition.
+152. To determine whether it has exceeded the financial acquisitions threshold under paragraphs (a) and (b) of subsections 189-5(1) and 189-10(1), each member of the GST religious group includes all of the input tax credits to which it would be entitled for its financial acquisitions. Financial acquisitions for GST religious group members are those acquisitions that relate to the making of financial supplies (other than a financial supply consisting of a borrowing) looking at the purpose of the GST religious group as a whole in making the acquisition.
 153. Under subsections 189-5(1) and 189-10(1) these financial acquisitions are assumed to be solely for a creditable purpose when calculating whether the financial acquisitions threshold is exceeded.
 Total amount of input tax credits
-154. In deciding whether it exceeds the financial acquisitions threshold under paragraph (b) of subsections 189-5(1) and 189-10(1), a member of a GST religious group has to determine its own entitlement to input tax credits for its total acquisitions and importations.  This means the total of the input tax credits to which it would be entitled for its financial acquisitions (assuming they were solely for a creditable purpose) and other creditable acquisitions and importations.
-155. In deciding whether the acquisitions that are not financial acquisitions are for a creditable purpose, the member looks at the purpose of the group as a whole.  This is the effect of section 49-50 under which a GST religious group is treated as a single entity for the purposes of working out whether acquisitions by a member are for a creditable purpose and the amount of any input tax credits to which the member is entitled.
+154. In deciding whether it exceeds the financial acquisitions threshold under paragraph (b) of subsections 189-5(1) and 189-10(1), a member of a GST religious group has to determine its own entitlement to input tax credits for its total acquisitions and importations. This means the total of the input tax credits to which it would be entitled for its financial acquisitions (assuming they were solely for a creditable purpose) and other creditable acquisitions and importations.
+155. In deciding whether the acquisitions that are not financial acquisitions are for a creditable purpose, the member looks at the purpose of the group as a whole. This is the effect of section 49-50 under which a GST religious group is treated as a single entity for the purposes of working out whether acquisitions by a member are for a creditable purpose and the amount of any input tax credits to which the member is entitled.
 156. Acquisitions from other members of the GST religious group that, but for section 49-35, would be creditable acquisitions, are not included with other acquisitions that were made for a creditable purpose. This is because section 49-35 provides that acquisitions between members of the same GST religious group are treated as if they are not creditable acquisitions. Such acquisitions therefore, do not give rise to input tax credits.
 Example 19 - acquisitions not for a creditable purpose
 157.
@@ -656,41 +654,41 @@ Example 20 - acquisitions for a creditable purpose
 160.
 Religious group LMN has three members: L, M and N. For the period 1 August 2012 to 31 July 2013, Entity L makes acquisitions of $825,000 that relate to it making financial supplies to non-group entities. Its total acquisitions and importations (including the $825,000 financial acquisitions) amount to $9,900,000 for the 12 month period.
 161.
-All of Entity L's acquisitions and importations (apart from the financial acquisitions) are used for making supplies to Entity M which then uses the acquisitions for making taxable supplies to an external entity.  In determining whether Entity L's acquisitions and importations are for a creditable purpose, section 49-50 requires that Religious group LMN be treated as a single entity.
+All of Entity L's acquisitions and importations (apart from the financial acquisitions) are used for making supplies to Entity M which then uses the acquisitions for making taxable supplies to an external entity. In determining whether Entity L's acquisitions and importations are for a creditable purpose, section 49-50 requires that Religious group LMN be treated as a single entity.
 162.
 Because the group (when treated as a single entity) has a creditable purpose in relation to these acquisitions and importations for making taxable supplies, these acquisitions and importations (except the financial acquisitions) are made for a creditable purpose and must be included in the calculation of total input tax credits when working out whether the financial acquisitions threshold has been exceeded under the second limb test.
 163.
 Assuming the financial acquisitions were made solely for a creditable purpose, Entity L's input tax credits for financial acquisitions would be $75,000 (1/11th of $825,000). Therefore Entity L does not exceed the $150,000 threshold under the first limb test. Its input tax credits for total acquisitions and importations would be $900,000 (1/11th of $9,900,000). The $75,000 does not exceed 10% of $900,000 ($90,000) under the second limb test. Entity L therefore does not exceed the current financial acquisitions threshold. However, Entity L also needs to calculate whether it exceeds the future acquisitions threshold for acquisitions likely to be made for the period 1 July 2012 to 30 June 2013.
 GST branches
-164. An entity with GST branches comes under subsections 189-5(1) and 189-10(1).  Subsections 189-5(2) and 189-10(2) which relate to members of GST groups do not apply to an entity with GST branches.
-165. GST branches are not the same as GST groups.  They do not have representative members who are liable for the GST and entitled to the input tax credits of the group as a whole.  One of the requirements for the registration of GST branches is that the entity is not a member of a GST group.
+164. An entity with GST branches comes under subsections 189-5(1) and 189-10(1). Subsections 189-5(2) and 189-10(2) which relate to members of GST groups do not apply to an entity with GST branches.
+165. GST branches are not the same as GST groups. They do not have representative members who are liable for the GST and entitled to the input tax credits of the group as a whole. One of the requirements for the registration of GST branches is that the entity is not a member of a GST group.
 [45]
-166. Division 54 provides that a registered entity ('parent entity') can have a branch that is separately registered as a GST branch where all the requirements in section 54-5 are satisfied.  A branch that is separately registered will operate as if it is a distinct entity for GST purposes from the parent entity.  However, the parent entity still bears legal responsibility for lodging the branch's Business Activity Statement and making the net GST payment.
+166. Division 54 provides that a registered entity ('parent entity') can have a branch that is separately registered as a GST branch where all the requirements in section 54-5 are satisfied. A branch that is separately registered will operate as if it is a distinct entity for GST purposes from the parent entity. However, the parent entity still bears legal responsibility for lodging the branch's Business Activity Statement and making the net GST payment.
 [46]
 Input tax credits relating to financial acquisitions
-167. The financial acquisitions threshold provisions apply to the parent entity and each GST branch as if the GST branches were separate entities from the parent entity.  They do not apply to the entity as a whole.
+167. The financial acquisitions threshold provisions apply to the parent entity and each GST branch as if the GST branches were separate entities from the parent entity. They do not apply to the entity as a whole.
 168. Where an entity has separately registered GST branches, sections 54-40 and 54-45 require that the net amount (GST less input tax credit entitlements, plus or minus any adjustments) for the parent entity is to be worked out as if each of its GST branches were separate entities from the parent entity.
-169. The effect of these provisions is that creditable purpose and input tax credits for acquisitions made through a GST branch are worked out as if the branch were a separate entity and as if all its supplies, acquisitions and importations were made by that separate entity and not by the parent entity.  Transfers between the GST branch and the parent entity (including any of its other GST branches) are also treated as if they were supplies or acquisitions made by the separate entity.
+169. The effect of these provisions is that creditable purpose and input tax credits for acquisitions made through a GST branch are worked out as if the branch were a separate entity and as if all its supplies, acquisitions and importations were made by that separate entity and not by the parent entity. Transfers between the GST branch and the parent entity (including any of its other GST branches) are also treated as if they were supplies or acquisitions made by the separate entity.
 170. Therefore, where an entity has separately registered GST branches, the financial acquisitions and input tax credit entitlements in the Division 189 threshold tests should be worked out on the same basis.
-171. An acquisition made through a GST branch is a financial acquisition to the extent it relates to the making of a financial supply through that branch.  This is worked out as if the branch were a separate entity from the parent entity and takes into account transfers between the branch and the parent entity (including any other branch of the parent entity).  Under subsections 189-5(1) and 189-10(1) these financial acquisitions are assumed to be solely for a creditable purpose when calculating whether the financial acquisitions threshold is exceeded.
+171. An acquisition made through a GST branch is a financial acquisition to the extent it relates to the making of a financial supply through that branch. This is worked out as if the branch were a separate entity from the parent entity and takes into account transfers between the branch and the parent entity (including any other branch of the parent entity). Under subsections 189-5(1) and 189-10(1) these financial acquisitions are assumed to be solely for a creditable purpose when calculating whether the financial acquisitions threshold is exceeded.
 172. In determining whether a GST branch has exceeded the financial acquisitions threshold under paragraphs (a) and (b) of subsections 189-5(1) and 189-10(1), it includes all of the input tax credits to which it would be entitled for all these financial acquisitions.
 173. An acquisition made by the parent entity is a financial acquisition to the extent it relates to the making of a financial supply, taking into account transfers between it and any of its GST branches.
 174. When determining whether the parent entity has exceeded the financial acquisitions threshold under paragraph (a) of subsections 189-5(1) and 189-10(1), it does not include any input tax credits for financial acquisitions made through any of its GST branches.
 Total amount of input tax credits
-175. In deciding whether a GST branch exceeds the financial acquisitions threshold under paragraph (b) of subsections 189-5(1) and 189-10(1), it has to determine entitlement to input tax credits for its total acquisitions and importations (including the financial acquisitions assuming they were made solely for a creditable purpose).  This is worked out as if the branch were a separate entity from the parent entity and takes into account transfers between the branch and the parent entity (including any other branch of the parent entity).
+175. In deciding whether a GST branch exceeds the financial acquisitions threshold under paragraph (b) of subsections 189-5(1) and 189-10(1), it has to determine entitlement to input tax credits for its total acquisitions and importations (including the financial acquisitions assuming they were made solely for a creditable purpose). This is worked out as if the branch were a separate entity from the parent entity and takes into account transfers between the branch and the parent entity (including any other branch of the parent entity).
 176. When determining whether the parent entity has exceeded the financial acquisitions threshold under paragraph (b) of subsections 189-5(1) and 189-10(1), it does not include any input tax credits for acquisitions and importations (including the financial acquisitions) made through any of its GST branches.
 Non-profit sub-entities
 177. A non-profit sub-entity which is not a member of a GST group comes under subsections 189-5(1) and 189-10(1).
 [47]
-The financial acquisitions threshold provisions apply to each non-profit sub-entity.  That is, each non-profit sub-entity is required to ascertain whether it individually exceeds the financial acquisitions threshold.
-178. Division 63 provides that some kinds of non-profit entities may choose to have some (or all) of their separately identifiable branches treated as separate entities for GST purposes.  The non-profit entity then ceases to be responsible, for GST purposes, for these branches which are referred to in the legislation as 'non-profit sub-entities'.
+The financial acquisitions threshold provisions apply to each non-profit sub-entity. That is, each non-profit sub-entity is required to ascertain whether it individually exceeds the financial acquisitions threshold.
+178. Division 63 provides that some kinds of non-profit entities may choose to have some (or all) of their separately identifiable branches treated as separate entities for GST purposes. The non-profit entity then ceases to be responsible, for GST purposes, for these branches which are referred to in the legislation as 'non-profit sub-entities'.
 [48]
 Input tax credits relating to financial acquisitions
 179. To determine whether it has exceeded the financial acquisitions threshold under the first limb test or the second limb test, a non-profit sub-entity calculates input tax credits to which it would be entitled for its financial acquisitions assuming they were solely for a creditable purpose.
-180. For the purposes of the second limb test the non-profit sub-entity also has to determine its own entitlement to input tax credits for its total acquisitions and importations.  This is the total of the input tax credits to which it would be entitled for its financial acquisitions (assuming they were solely for a creditable purpose) and other creditable acquisitions and importations.
+180. For the purposes of the second limb test the non-profit sub-entity also has to determine its own entitlement to input tax credits for its total acquisitions and importations. This is the total of the input tax credits to which it would be entitled for its financial acquisitions (assuming they were solely for a creditable purpose) and other creditable acquisitions and importations.
 How does Division 72 interact with the financial acquisitions threshold?
 181. Under the special rules in Division 72 supplies and acquisitions between associates for no consideration or for inadequate consideration, are brought into the GST system where the associated recipient does not make the acquisition solely for a creditable purpose.
-182. The assumption in Division 189 that a financial acquisition is solely for a creditable purpose is only for the purpose of determining whether the financial acquisitions threshold is exceeded.  It cannot be applied for the purpose of determining whether or not the special rules in Division 72 apply.
+182. The assumption in Division 189 that a financial acquisition is solely for a creditable purpose is only for the purpose of determining whether the financial acquisitions threshold is exceeded. It cannot be applied for the purpose of determining whether or not the special rules in Division 72 apply.
 How does Division 84 interact with the financial acquisitions threshold?
 183. Where an entity acquires a service or other thing from offshore that is a taxable supply by virtue of Division 84, the acquisition is a financial acquisition for Division 189 purposes to the extent it relates to making financial supplies.
 [49]
@@ -706,22 +704,22 @@ the recipient acquires the thing supplied solely or partly for the purposes of a
 the recipient does not acquire the thing solely for a creditable purpose, for example it uses it to make input taxed supplies.
 However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 [50]
-186. Where Division 84 applies, services or other things (excluding goods and real property) acquired from offshore for use in making financial supplies are subject to a 'reverse charge' except to the extent the supply is GST-free or input taxed.  A reverse charge is where GST on the supply is payable by the recipient (not the supplier) of those services.
+186. Where Division 84 applies, services or other things (excluding goods and real property) acquired from offshore for use in making financial supplies are subject to a 'reverse charge' except to the extent the supply is GST-free or input taxed. A reverse charge is where GST on the supply is payable by the recipient (not the supplier) of those services.
 [51]
 This means that where an entity acquires a supply other than goods or real property from offshore and it is a taxable supply under section 84-5, the entity is required to remit GST equal to 10% of the price of the supply.
 [52]
-187. Where an entity acquires a supply of anything other than goods or real property from offshore for use in making a financial supply, the supply of the thing will be a taxable supply under Division 84 provided it meets the other conditions for the provision to apply.  This acquisition is a financial acquisition for the purposes of Division 189 and will therefore be taken into account in determining whether the entity exceeds the financial acquisitions threshold.
+187. Where an entity acquires a supply of anything other than goods or real property from offshore for use in making a financial supply, the supply of the thing will be a taxable supply under Division 84 provided it meets the other conditions for the provision to apply. This acquisition is a financial acquisition for the purposes of Division 189 and will therefore be taken into account in determining whether the entity exceeds the financial acquisitions threshold.
 188. Subregulation 40-5.09(2) provides that if Division 84 applies to the provision, acquisition or disposal of an interest mentioned in subregulation 40-5.09(3), the provision, acquisition or disposal is a financial supply to the extent that it would be a financial supply, apart from the requirements that the supply be connected with Australia and the supplier be registered or required to be registered.
-189. An entity may acquire from offshore a financial interest that is a financial supply by virtue of subregulation 40-5.09(2).  Any acquisition, to the extent it relates to the making of this financial supply, is a financial acquisition and will be taken into account in determining whether the entity exceeds the financial acquisitions threshold.
+189. An entity may acquire from offshore a financial interest that is a financial supply by virtue of subregulation 40-5.09(2). Any acquisition, to the extent it relates to the making of this financial supply, is a financial acquisition and will be taken into account in determining whether the entity exceeds the financial acquisitions threshold.
 Example 21 - acquisition to which Division 84 applies is a financial acquisition
 190.
-Scorpion Pty Ltd is an entity that carries on an enterprise in Australia and is registered for GST.  Scorpion Pty Ltd is preparing to list its shares and acquires services from an overseas merchant bank in arranging the float.  Scorpion expects that most of the shares will be acquired by Australian residents.  It pays arrangement fees of $100,000 to the bank.
+Scorpion Pty Ltd is an entity that carries on an enterprise in Australia and is registered for GST. Scorpion Pty Ltd is preparing to list its shares and acquires services from an overseas merchant bank in arranging the float. Scorpion expects that most of the shares will be acquired by Australian residents. It pays arrangement fees of $100,000 to the bank.
 191.
-The acquisition of the arrangement services by Scorpion is not solely for a creditable purpose because it relates to making an input taxed supply and therefore Division 84 applies.  Scorpion will be liable for GST of $10,000 (10% of $100,000) on the arrangement services from the merchant bank.  The acquisition of the arrangement services is a financial acquisition.  Assuming that the financial acquisition was solely for a creditable purpose, Scorpion would be entitled to an input tax credit of $10,000 which it includes in calculating whether it exceeds the financial acquisitions threshold.
+The acquisition of the arrangement services by Scorpion is not solely for a creditable purpose because it relates to making an input taxed supply and therefore Division 84 applies. Scorpion will be liable for GST of $10,000 (10% of $100,000) on the arrangement services from the merchant bank. The acquisition of the arrangement services is a financial acquisition. Assuming that the financial acquisition was solely for a creditable purpose, Scorpion would be entitled to an input tax credit of $10,000 which it includes in calculating whether it exceeds the financial acquisitions threshold.
 How often does an entity test whether it exceeds the financial acquisitions threshold?
-192. Division 189 sets out the way to calculate whether an entity exceeds the financial acquisitions threshold at a time during a particular month.  An entity's acquisitions and importations relating to financial supplies can be for a creditable purpose if the entity does not exceed the threshold at the time the acquisition or importation is made.
-193. To correctly complete its Business Activity Statement (BAS), an entity that has acquisitions or importations relating to a financial supply needs to know whether it has exceeded the threshold at any time during the BAS period.  This indicates a need to test whether it exceeds the financial acquisitions threshold at least each time the BAS is completed.
-194. In particular, an entity should be aware of circumstances that are likely to affect whether it will exceed the threshold.  For example when:
+192. Division 189 sets out the way to calculate whether an entity exceeds the financial acquisitions threshold at a time during a particular month. An entity's acquisitions and importations relating to financial supplies can be for a creditable purpose if the entity does not exceed the threshold at the time the acquisition or importation is made.
+193. To correctly complete its Business Activity Statement (BAS), an entity that has acquisitions or importations relating to a financial supply needs to know whether it has exceeded the threshold at any time during the BAS period. This indicates a need to test whether it exceeds the financial acquisitions threshold at least each time the BAS is completed.
+194. In particular, an entity should be aware of circumstances that are likely to affect whether it will exceed the threshold. For example when:
 •
 an entity joins a GST group;
 •
@@ -736,10 +734,10 @@ Example 22 - financial acquisitions threshold exceeded
 197.
 Humphrey Pty Ltd (Humphrey) lodges its BAS on a quarterly basis and conducts its financial acquisitions threshold test every quarter. While Humphrey typically does not exceed the financial acquisitions threshold, it makes a substantial acquisition of $1,628,000 in the month of May 2013 when it acquires professional advice in relation to acquiring shares in a competitor. The input tax credit to which it would be entitled for its financial acquisition is $148,000 (1/11th of $1,628,000). Humphrey should therefore conduct the test in May 2013 to determine whether its acquisition causes it to exceed the financial acquisitions threshold and it should continue to closely monitor its acquisitions for the next 11 months until April 2014.
 What is the effect of exceeding the financial acquisitions threshold?
-198. Where an entity exceeds the financial acquisitions threshold, its acquisitions and importations are not for a creditable purpose to the extent that they relate to making financial supplies.  Therefore, there is no entitlement to input tax credits under Divisions 11 and 15 for those acquisitions and importations.
+198. Where an entity exceeds the financial acquisitions threshold, its acquisitions and importations are not for a creditable purpose to the extent that they relate to making financial supplies. Therefore, there is no entitlement to input tax credits under Divisions 11 and 15 for those acquisitions and importations.
 199. However specific acquisitions that relate to the making of financial supplies can give rise to an entitlement to a reduced input tax
 [53]
-credit of 75% or 55% of any GST paid.  These specific acquisitions are called 'reduced credit acquisitions'.  Even if the financial acquisitions threshold is exceeded, a reduced input tax credit is still available to the extent that the acquisition is a reduced credit acquisition.  The GST regulations contain the complete list of reduced credit acquisitions.
+credit of 75% or 55% of any GST paid. These specific acquisitions are called 'reduced credit acquisitions'. Even if the financial acquisitions threshold is exceeded, a reduced input tax credit is still available to the extent that the acquisition is a reduced credit acquisition. The GST regulations contain the complete list of reduced credit acquisitions.
 [54]
 Detailed contents list
 200. Below is a detailed content list for this Good and Services Tax Ruling:
@@ -922,7 +920,7 @@ See paragraphs 266 to 274 of Goods and Services Tax Ruling GSTR 2002/2 and Part 
 [13]
 See paragraph 45 of this Ruling.
 [14]
-See Goods and Services Tax Ruling GSTR 2000/24 and paragraph 267 of Goods and Services Tax Ruling GSTR 2002/2.  See also paragraphs 57 to 67 of Goods and Services Tax Ruling GSTR 2006/3 for a discussion on Division 129.
+See Goods and Services Tax Ruling GSTR 2000/24 and paragraph 267 of Goods and Services Tax Ruling GSTR 2002/2. See also paragraphs 57 to 67 of Goods and Services Tax Ruling GSTR 2006/3 for a discussion on Division 129.
 [15]
 For a detailed explanation of the GST treatment of progressive or periodic acquisitions see Goods and Services Tax Ruling GSTR 2000/35.
 [16]
@@ -1022,7 +1020,7 @@ See Regulations 70-5.02, 70-5.02A, 70-5.02B and 70-5.03.
 Previously released as draft GSTR 2002/D6.
 References
 ATO references:
-NO  2002/016641
+NO 2002/016641
 ISSN: 1443-5160
 Related Rulings/Determinations:
 GSTR 2000/24
@@ -1053,71 +1051,71 @@ timing
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A99  9-5
-ANTS(GST)A99  9-25(5)(c)
-ANTS(GST)A99  9-30(3)
-ANTS(GST)A99  Div 11
-ANTS(GST)A99  11-5
-ANTS(GST)A99  11-10
-ANTS(GST)A99  11-15
-ANTS(GST)A99  11-15(2)(a)
-ANTS(GST)A99  11-15(4)
-ANTS(GST)A99  11-15(5)
-ANTS(GST)A99  11-25
-ANTS(GST)A99  Div 15
-ANTS(GST)A99  15-10
-ANTS(GST)A99  15-10(4)
-ANTS(GST)A99  15-10(5)
-ANTS(GST)A99  38-190
-ANTS(GST)A99  Div 48
-ANTS(GST)A99  48-10
-ANTS(GST)A99  48-45
-ANTS(GST)A99  48-45(1)
-ANTS(GST)A99  48-45(2)
-ANTS(GST)A99  48-45(3)
-ANTS(GST)A99  48-55
-ANTS(GST)A99  49-35
-ANTS(GST)A99  49-50
-ANTS(GST)A99  Div 54
-ANTS(GST)A99  54-5
-ANTS(GST)A99  54-5(3)
-ANTS(GST)A99  54-40
-ANTS(GST)A99  54-45
-ANTS(GST)A99  54-55
-ANTS(GST)A99  54-60
-ANTS(GST)A99  Div 63
-ANTS(GST)A99  63-15(3)
-ANTS(GST)A99  Div 70
-ANTS(GST)A99  70-5
-ANTS(GST)A99  70-5(1)
-ANTS(GST)A99  70-5(1A)
-ANTS(GST)A99  Div 72
-ANTS(GST)A99  Div 84
-ANTS(GST)A99  84-5
-ANTS(GST)A99  84-10
-ANTS(GST)A99  84-12
-ANTS(GST)A99  Div 129
-ANTS(GST)A99  Div 156
-ANTS(GST)A99  Div 189
-ANTS(GST)A99  189-1
-ANTS(GST)A99  189-5
-ANTS(GST)A99  189-5(1)
-ANTS(GST)A99  189-5(1)(a)
-ANTS(GST)A99  189-5(1)(b)
-ANTS(GST)A99  189-5(2)
-ANTS(GST)A99  189-5(2)(a)
-ANTS(GST)A99  189-5(2)(b)
-ANTS(GST)A99  189-10
-ANTS(GST)A99  189-10(1)
-ANTS(GST)A99  189-10(1)(a)
-ANTS(GST)A99  189-10(1)(b)
-ANTS(GST)A99  189-10(2)
-ANTS(GST)A99  189-10(2)(a)
-ANTS(GST)A99  189-10(2)(b)
-ANTS(GST)A99  189-15
-ANTS(GST)A99  195-1
-ITAA 1997  995-1
-TAA 1953  Sch1 Div 358
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-25(5)(c)
+ANTS(GST)A99 9-30(3)
+ANTS(GST)A99 Div 11
+ANTS(GST)A99 11-5
+ANTS(GST)A99 11-10
+ANTS(GST)A99 11-15
+ANTS(GST)A99 11-15(2)(a)
+ANTS(GST)A99 11-15(4)
+ANTS(GST)A99 11-15(5)
+ANTS(GST)A99 11-25
+ANTS(GST)A99 Div 15
+ANTS(GST)A99 15-10
+ANTS(GST)A99 15-10(4)
+ANTS(GST)A99 15-10(5)
+ANTS(GST)A99 38-190
+ANTS(GST)A99 Div 48
+ANTS(GST)A99 48-10
+ANTS(GST)A99 48-45
+ANTS(GST)A99 48-45(1)
+ANTS(GST)A99 48-45(2)
+ANTS(GST)A99 48-45(3)
+ANTS(GST)A99 48-55
+ANTS(GST)A99 49-35
+ANTS(GST)A99 49-50
+ANTS(GST)A99 Div 54
+ANTS(GST)A99 54-5
+ANTS(GST)A99 54-5(3)
+ANTS(GST)A99 54-40
+ANTS(GST)A99 54-45
+ANTS(GST)A99 54-55
+ANTS(GST)A99 54-60
+ANTS(GST)A99 Div 63
+ANTS(GST)A99 63-15(3)
+ANTS(GST)A99 Div 70
+ANTS(GST)A99 70-5
+ANTS(GST)A99 70-5(1)
+ANTS(GST)A99 70-5(1A)
+ANTS(GST)A99 Div 72
+ANTS(GST)A99 Div 84
+ANTS(GST)A99 84-5
+ANTS(GST)A99 84-10
+ANTS(GST)A99 84-12
+ANTS(GST)A99 Div 129
+ANTS(GST)A99 Div 156
+ANTS(GST)A99 Div 189
+ANTS(GST)A99 189-1
+ANTS(GST)A99 189-5
+ANTS(GST)A99 189-5(1)
+ANTS(GST)A99 189-5(1)(a)
+ANTS(GST)A99 189-5(1)(b)
+ANTS(GST)A99 189-5(2)
+ANTS(GST)A99 189-5(2)(a)
+ANTS(GST)A99 189-5(2)(b)
+ANTS(GST)A99 189-10
+ANTS(GST)A99 189-10(1)
+ANTS(GST)A99 189-10(1)(a)
+ANTS(GST)A99 189-10(1)(b)
+ANTS(GST)A99 189-10(2)
+ANTS(GST)A99 189-10(2)(a)
+ANTS(GST)A99 189-10(2)(b)
+ANTS(GST)A99 189-15
+ANTS(GST)A99 195-1
+ITAA 1997 995-1
+TAA 1953 Sch1 Div 358
 Banking Act 1959
 Corporations Act 2001
 Tax Laws Amendment (2011 Measures No. 9) Act 2012

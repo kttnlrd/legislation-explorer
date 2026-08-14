@@ -4,11 +4,11 @@ part_title: Part I Treatment of tax losses
 division: IC
 division_title: Subpart IC—Grouping tax losses
 section: IC-5
-section_title: Company B using company A’s tax loss
+section_title: Company B using company A's tax loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# IC 5  Company B using company A’s tax loss
+# IC 5  Company B using company A's tax loss
 
 **Requirements**
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (a) choose to make a tax loss that it has in a tax year available to company B to use in the tax year, notifying the Commissioner as described in section IC 9; or
 
-- (b) agree with company B that company B should bear the amount of company A’s tax loss, or take a share in it, in return for a payment by company B to company A by the date set out in section IC 9; or
+- (b) agree with company B that company B should bear the amount of company A's tax loss, or take a share in it, in return for a payment by company B to company A by the date set out in section IC 9; or
 
 - (c) apply both paragraphs (a) and (b) in relation to the tax loss.
 

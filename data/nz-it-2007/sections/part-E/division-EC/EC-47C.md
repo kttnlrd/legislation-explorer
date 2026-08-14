@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Other bloodstock not part of breeding business**
 
-**(2)**  Despite subsection (1), if the prospective bloodstock breeder owns bloodstock that are not stud-founding bloodstock during the period of time described in that subsection, those bloodstock are not treated as part of the prospective bloodstock breeder’s bloodstock breeding business.
+**(2)**  Despite subsection (1), if the prospective bloodstock breeder owns bloodstock that are not stud-founding bloodstock during the period of time described in that subsection, those bloodstock are not treated as part of the prospective bloodstock breeder's bloodstock breeding business.
 
 *Defined in this Act: bloodstock, business, Commissioner, prospective bloodstock breeder, stud-founding bloodstock*
 

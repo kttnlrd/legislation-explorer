@@ -3,18 +3,14 @@ ATO ID 2003/583
 ==================================================
 
 Income Tax
-        Withholding Tax Exemption: Interest on notes - public offer test
-        FOI status: may be released
-
-
+ Withholding Tax Exemption: Interest on notes - public offer test
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the company entitled to an exemption from withholding tax under section 128F of the Income Tax Assessment Act 1936 (ITAA 1936) for interest on notes issued by the company?
@@ -27,8 +23,6 @@ A subscription and issue agreement governs the note issue. The notes are debentu
 Notes were issued to several financiers.
 Reasons for Decision
 Section 128F of the ITAA 1936 exempts from withholding tax, interest on certain publicly offered debentures. Subsection 128F(1) of the ITAA 1936 states that withholding tax is not payable on interest paid by a company in respect of a debenture if:
-
-
 
 •the company was a resident of Australia when it issued the debenture
 •the company is a resident of Australia when the interest is paid; and
@@ -46,8 +40,6 @@ The company has effectively 'issued' the debentures (notes). The company is an A
 Subsection 128F(3) of the ITAA 1936 contains five public offer tests. One of these tests or a further test contained in subsection 128F(4) of the ITAA 1936 must be satisfied in order for the company to obtain the withholding tax exemption.
 The first public offer test is contained in paragraph 128F(3)(a) of the ITAA 1936 which provides that the test will be satisfied if the issue resulting from the debenture being offered for issue is to at least 10 persons, each of whom:
 
-
-
 •was carrying on a business of providing finance, or investing or dealing in securities in the course of operating in financial markets; and
 •was not known, or suspected, by the company to be an associate of any of those other persons.
 
@@ -55,10 +47,10 @@ The EM states that if the Australian company offers its debentures to 10 banks o
 The company offered the notes to at least 10 financial institutions that were in the business of providing finance. Further, the financial institutions are not associates of the company and the source of the loan monies was from overseas. The first public offer test is therefore satisfied.
 Accordingly, as the residency requirements and public offer test are satisfied for the interest on the notes paid by the company, the withholding tax exemption under section 128F of the ITAA 1936 will apply to that interest.
 Date of decision:
-         25 March 2003
+  25 March 2003
 
 Year of income:
-           Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008
+  Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008
 
 Legislative References:
 
@@ -66,9 +58,7 @@ Income Tax Assessment Act 1936   subsection 6(1)   section 128F   subse
 
 Case References:
 
-
 Levy v. Abercorris Slate and Slab Company   (1887) 37 Ch D 260
-
 
 Other References:
 
@@ -77,17 +67,16 @@ Other References:
 Keywords
 
 Non resident interest withholding tax
-          Withholding tax exemptions
-
+ Withholding tax exemptions
 
 Siebel/TDMS Reference Number:
-         3490747
+  3490747
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         18 July 2003
+  18 July 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -55,7 +55,7 @@ Where a taxpayer was previously an Australian resident and made the election und
 
 Section 855-45 does not apply to people who come to Australia and become resident but are deemed to be temporary residents, as temporary residents are treated as non-residents for CGT purposes.
 
-There are 5 categories of CGT assets that are TAP (s 855-15). These are: 1. “Taxable Australian real property” (TARP) (s 855-20) which includes:
+There are 5 categories of CGT assets that are TAP (s 855-15). These are: 1. "Taxable Australian real property" (TARP) (s 855-20) which includes:
 
 - real property situated in Australia (including a lease of land situated in Australia), or
 
@@ -63,23 +63,23 @@ There are 5 categories of CGT assets that are TAP (s 855-15). These are: 1. “T
 
   Australia.
 
-2. An “indirect Australian real property interest”, which is basically an interest in Australian real property that is held indirectly through one or more interposed entities (s 855-25). More specifically, an indirect Australian real property interest exists where a foreign resident has an interest in an entity that satisfies both of the following 2 tests:
+2. An "indirect Australian real property interest", which is basically an interest in Australian real property that is held indirectly through one or more interposed entities (s 855-25). More specifically, an indirect Australian real property interest exists where a foreign resident has an interest in an entity that satisfies both of the following 2 tests:
 
 - the non-portfolio interest test — this test is satisfied where the direct interests held by the foreign
 
   resident (and their associates) in the entity are 10% or more (s 960-195)
 
-- the principal asset test — this test is satisfied if the market value of the entity’s TARP assets exceeds
+- the principal asset test — this test is satisfied if the market value of the entity's TARP assets exceeds
 
-  the entity’s non-TARP assets. If the foreign resident’s “total participation interest” in the entity is less
+  the entity's non-TARP assets. If the foreign resident's "total participation interest" in the entity is less
 
   than 10%, then the market value of the deemed TARP asset is taken to be nil for these purposes and
 
-  the principal asset test would not be satisfied. As a result, the foreign resident’s interest in the entity
+  the principal asset test would not be satisfied. As a result, the foreign resident's interest in the entity
 
   would not be TAP, which means it is not subject to CGT in Australia.
 
-The concept of an “indirect” interest in Australian real property ensures that the disposal of an interest in Australian real property is subject to Australian CGT regardless of whether the interest is held directly or indirectly by the foreign resident. A typical example would be a company or unit trust in which a foreign resident and their associates own more than 10% of the shares or units and whose assets consist of at least 50% Australian land and buildings. 3. A CGT asset that a taxpayer has used at any time in carrying on a business through a permanent establishment in Australia (not already covered by Items 1, 2 or 5). 4. An option or right to acquire an asset that is covered by Items 1, 2 or 3. 5. A CGT asset that is covered by s 104-165(3), which is about choosing to disregard a capital gain or loss made on ceasing to be an Australian resident (see ¶2-480).
+The concept of an "indirect" interest in Australian real property ensures that the disposal of an interest in Australian real property is subject to Australian CGT regardless of whether the interest is held directly or indirectly by the foreign resident. A typical example would be a company or unit trust in which a foreign resident and their associates own more than 10% of the shares or units and whose assets consist of at least 50% Australian land and buildings. 3. A CGT asset that a taxpayer has used at any time in carrying on a business through a permanent establishment in Australia (not already covered by Items 1, 2 or 5). 4. An option or right to acquire an asset that is covered by Items 1, 2 or 3. 5. A CGT asset that is covered by s 104-165(3), which is about choosing to disregard a capital gain or loss made on ceasing to be an Australian resident (see ¶2-480).
 
 Applying the above to Dougal, the following can be concluded:
 
@@ -123,7 +123,7 @@ CGT 50% general discount. Both the absence rule and the main residence exemption
 
   principal assets test as the market value of its TARP assets ($3.75 million) exceeds the value of its
 
-  non-TARP assets ($250,000). As both tests are satisfied, the value of Dougal’s shares are TAP, with a
+  non-TARP assets ($250,000). As both tests are satisfied, the value of Dougal's shares are TAP, with a
 
   cost base (at the date of original acquisition in 2017) of $800.
 

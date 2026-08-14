@@ -1,0 +1,40 @@
+---
+country: "New Zealand"
+country_slug: "new-zealand"
+treaty_schedule: 4
+article: 14
+title: "Article 14 — Independent Personal Services"
+---
+# Article 14 — Independent Personal Services
+New Zealand Convention
+CONVENTION BETWEEN AUSTRALIA AND NEW ZEALAND FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND FRINGE BENEFITS AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+CHAPTER III 
+-
+ TAXATION OF INCOME AND FRINGE BENEFITS
+Income from Employment
+1.
+Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+2.
+Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
+a)
+the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve month period commencing or ending in the year of income of that other State, and
+b)
+the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, or is borne by or deductible in determining the profits attributable to a permanent establishment which the employer has in the first-mentioned State, and
+c)
+the remuneration is neither borne by nor deductible in determining the profits attributable to a permanent establishment which the employer has in the other State.
+3.
+Notwithstanding the preceding provisions of this Article, remuneration derived by a resident of a Contracting State in respect of an employment exercised aboard a ship or aircraft operated in international traffic shall be taxable only in that State.
+4.
+Notwithstanding the preceding provisions of this Article, remuneration derived by an individual who is a resident of a Contracting State in respect of a secondment to the other Contracting State shall be taxable only in the first-mentioned State where the individual is present in the other State for a period or periods not exceeding in the aggregate 90 days in any twelve month period.
+5.
+For the purposes of paragraph 4, 
+"
+secondment to the other Contracting State
+"
+ means an arrangement pursuant to which an employee of an enterprise of a Contracting State, being the enterprise with which the employee has a formal contract of employment, temporarily performs employment services in the other State for a permanent establishment of the enterprise situated in that other State, or for an associated enterprise (as referred to in subparagraph
+c)
+of paragraph 6 of Article 5), where such employment services are of a similar nature to those ordinarily performed by that employee for the first-mentioned enterprise. However, it does not include an arrangement that has as one of its main purposes the obtaining of benefits under paragraph 4.

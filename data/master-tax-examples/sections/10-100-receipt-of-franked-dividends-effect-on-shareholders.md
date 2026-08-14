@@ -35,7 +35,7 @@ Paul Aly is taxed on his taxable income at 2024–25 individual resident tax rat
 
 Also, because the distribution is fully franked, there is no withholding tax payable by Midas (ITAA36 s 128B(3)(ga)). If the distribution had not been fully franked, withholding tax would have been payable to the extent that it was unfranked (ITAA36 s 128B(1)).
 
-Although the distribution is not subject to withholding tax, it is excluded from Justin Aly’s assessable income in the same way as it would have been if it had been subject to withholding tax (ITAA36 s 128D). $15,000 to Opal, an Australian resident public company Because Opal satisfies the residency requirements in ITAA97 s 207-75, its assessable income includes both the $15,000 distribution (ITAA36 s 44(1)) and the franking credit on the distribution (ITAA97 s 207-20(1)).
+Although the distribution is not subject to withholding tax, it is excluded from Justin Aly's assessable income in the same way as it would have been if it had been subject to withholding tax (ITAA36 s 128D). $15,000 to Opal, an Australian resident public company Because Opal satisfies the residency requirements in ITAA97 s 207-75, its assessable income includes both the $15,000 distribution (ITAA36 s 44(1)) and the franking credit on the distribution (ITAA97 s 207-20(1)).
 
 The amount of the franking credit is $6,429 (ie $15,000 × 30 / 70).
 
@@ -43,11 +43,11 @@ Opal will be taxed on its taxable income at its 30% company income tax rate (Inc
 
 The general rule that taxpayers are entitled to a refund if their tax offsets for franked distributions exceed their tax liability (ITAA97 s 67-25) does not apply to corporate shareholders. Instead, excess franking tax offsets are converted to a deemed tax loss for the year (ITAA97 s 36-55). That would be the case for Opal if it has excess franking credits for 2024–25.
 
-The franking credit of $6,429 on the distribution gives rise to a $6,429 franking credit in Opal’s franking account for 2024–25 (ITAA97 s 205-15(1), item 3), and these franking credits may be passed on to Opal’s shareholders when it makes a franked distribution. $85,000 to the Aly Superannuation Fund, a complying superannuation fund A superannuation fund cannot be a complying superannuation fund unless it is a resident fund (Superannuation Industry (Supervision) Act 1993 s 42). The fact that the Aly Superannuation Fund is a complying superannuation fund shows that it satisfies the residency requirements in ITAA97 s 207-75, and its assessable income includes both the $85,000 distribution (ITAA36 s 44(1)) and the franking credit on the distribution (ITAA97 s 207-20(1)).
+The franking credit of $6,429 on the distribution gives rise to a $6,429 franking credit in Opal's franking account for 2024–25 (ITAA97 s 205-15(1), item 3), and these franking credits may be passed on to Opal's shareholders when it makes a franked distribution. $85,000 to the Aly Superannuation Fund, a complying superannuation fund A superannuation fund cannot be a complying superannuation fund unless it is a resident fund (Superannuation Industry (Supervision) Act 1993 s 42). The fact that the Aly Superannuation Fund is a complying superannuation fund shows that it satisfies the residency requirements in ITAA97 s 207-75, and its assessable income includes both the $85,000 distribution (ITAA36 s 44(1)) and the franking credit on the distribution (ITAA97 s 207-20(1)).
 
 The amount of the franking credit is $36,429 (ie $85,000 × 30 / 70).
 
-Being a complying superannuation fund, the Aly Superannuation Fund is taxed at 15% on its taxable income (from arm’s length sources). The fund is entitled to a tax offset for the $36,429 franking credit (s 207-20(2)) and to a refund of any excess franking tax offset (ITAA97 s 67-25).
+Being a complying superannuation fund, the Aly Superannuation Fund is taxed at 15% on its taxable income (from arm's length sources). The fund is entitled to a tax offset for the $36,429 franking credit (s 207-20(2)) and to a refund of any excess franking tax offset (ITAA97 s 67-25).
 
 *Refs: ITAA97 s 207-20(1)), ITAA97 s 207-20(2)), ITAA97 s 67-25(1)), ITAA97 s
 207-75, ITAA97 s 207-65(1)), ITAA97 s 207-75, s 207-20(2)), ITAA97 s 67-25), ITAA97 s 36-55), ITAA97 s 205-15(1)*

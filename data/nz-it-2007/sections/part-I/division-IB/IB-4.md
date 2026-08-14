@@ -2,7 +2,7 @@
 part: I
 part_title: Part I Treatment of tax losses
 division: IB
-division_title: Subpart IB—Carrying forward companies’ loss balances: continuity of business activities
+division_title: Subpart IB—Carrying forward companies' loss balances: continuity of business activities
 section: IB-4
 section_title: Business continuity period
 compilation_no: 935
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **(3)**  In the formula,—
 
-- (a) bad debt deductions is the total amount of deductions that the company has been allowed under section DB 31(3) (Bad debts) for income years between the 2013–14 income year and the income year corresponding to the tax year immediately preceding the ownership continuity breach, both income years inclusive, in which a tax loss component included in the company’s tax loss for that tax year arose:
+- (a) bad debt deductions is the total amount of deductions that the company has been allowed under section DB 31(3) (Bad debts) for income years between the 2013–14 income year and the income year corresponding to the tax year immediately preceding the ownership continuity breach, both income years inclusive, in which a tax loss component included in the company's tax loss for that tax year arose:
 
 - (b) bad debt repayment income is the total amount of income that the company has under section CG 3 (Bad debt repayment)—
 

@@ -3,23 +3,19 @@ ATO ID 2010/166
 ==================================================
 
 Income Tax
-        Taxation of Financial Arrangements:  applicable functional currency election, application of the special rule about translation and particular gains and losses under Subdivision 230-B of the Income Tax Assessment Act 1997
+ Taxation of Financial Arrangements: applicable functional currency election, application of the special rule about translation and particular gains and losses under Subdivision 230-B of the Income Tax Assessment Act 1997
 FOI status: may be released
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 At the time the applicable functional currency election takes effect, does the taxpayer have a particular gain or loss that it will make from the financial arrangement under the accruals method in Subdivision 230-B of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-No.  At the time the applicable functional currency election takes effect, the taxpayer does not have a particular gain or loss that it will make from the financial arrangement under the accruals method in Subdivision 230-B of the ITAA 1997.
+No. At the time the applicable functional currency election takes effect, the taxpayer does not have a particular gain or loss that it will make from the financial arrangement under the accruals method in Subdivision 230-B of the ITAA 1997.
 Facts
 The taxpayer is the head company of a consolidated group with effect from 1 July 2002.
 The taxpayer is an Australian resident for tax purposes
@@ -32,19 +28,15 @@ Reasons for Decision
 All legislative references are to the ITAA 1997 unless otherwise indicated.
 The accruals method will apply to a particular gain or loss that:
 
-
-
 •is sufficiently certain at the time when you start to have the arrangement and before you are to receive or provide the benefit (subparagraph 230-100(3)(b)(i)); or
 •becomes sufficiently certain after the time when you start to have the arrangement and before you are to receive or provide the benefit; (subparagraph 230-100(3)(b)(ii)).
 
 Subsections 960-80(1) and 960-85(1) provide that all amounts that are not in the taxpayer's applicable functional currency and are attributable to an event that took place before the applicable functional currency election took effect will be translated to the taxpayer's applicable functional currency for the purpose of determining its taxable income or loss.
 For the purposes of applying the translation rules in subsection 960-80(1), elements in the calculation of another amount, are first translated to the applicable functional currency before the other amount is calculated (unless the amount is a special accrual amount) (subsection 960-80(4)).
-Generally, a gain or loss from a financial arrangement is calculated by comparing the financial benefits received to the financial benefits provided.  Therefore, financial benefits will generally be elements in the calculation of another amount (that is, a gain or loss) for the purposes of subsection 960-80(1).
+Generally, a gain or loss from a financial arrangement is calculated by comparing the financial benefits received to the financial benefits provided. Therefore, financial benefits will generally be elements in the calculation of another amount (that is, a gain or loss) for the purposes of subsection 960-80(1).
 Accordingly, the financial benefits that are used to calculate any gains or losses under the financial arrangement will be translated to the taxpayer's applicable functional currency before the gain or loss is calculated
 The right to receive the funds and the obligation to provide the funds are financial benefits that arose when the taxpayer entered into the financial arrangement. As these financial benefits will be taken into account to calculate the gain or loss from the financial arrangement, the two-step translation rule in subsection 960-85(1) may apply to these financial benefits.
 The translation rule in subsection 960-85(1) applies where:
-
-
 
 •an 'amount' is required to be translated to the applicable functional currency under subsection 960-80(1), and
 •the amount is attributable to an event that happened, or a state of affairs that arose at a time before an applicable functional currency choice took effect (a prior year event), that is, there is a 'pre-choice' amount.
@@ -52,8 +44,6 @@ The translation rule in subsection 960-85(1) applies where:
 As the right to receive the funds is a financial benefit that is attributable to an event that happened in a prior year, the special translation rule in subsection 960-85(1) will apply if this amount is required to be translated to the applicable functional currency under subsection 960-80(1). Similarly as the obligation to provide the funds is a financial benefit that is attributable to a prior year event, the special translation rule will also apply to this amount if it is required to be translated to the applicable functional currency.
 The financial benefits under the financial arrangement meet the definition of an 'amount' for the purposes of subsection 960-80(1). Furthermore, the receipt of the funds and the obligation to repay the funds in the future are pre-choice amounts that are already in existence at the time the applicable functional currency choice is made and are directly relevant to determining the taxpayer's assessable income or allowable deductions in later income year(s).
 Accordingly, the right to receive the borrowed funds and the obligation to provide the borrowed funds are financial benefits that will be subject to the special translation rule in subsection 960-85(1) as they are:
-
-
 
 •required to be translated to the applicable functional currency under subsection 960-80(1), and
 •attributable to a prior year event.
@@ -63,10 +53,10 @@ When the applicable functional currency election starts to apply on 1 July 2010,
 For the purposes of determining whether there is a particular gain or loss under subsection 230-110(1), the apportionment rule in section 230-75 needs to be considered. As the financial benefit received by the taxpayer under the financial arrangement is reasonably attributable to the obligation to provide funds, the amount of the gain or loss under section 230-75 is nil. This is because, at 1 July 2010, the value of the amount received and the value of the obligation to provide an amount are equal due to the resetting of the values under the two-step translation process in subsection 960-85(1).
 Accordingly, there is no particular gain or loss (at that time) that the taxpayer will make from the financial arrangement to which the accruals method in Subdivision 230-B can apply (refer to subparagraph 230-100(3)(b)(ii)).
 Date of decision:
-         10 September 2010
+  10 September 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -85,18 +75,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 Taxation of Financial Arrangements CoE
-          Applicable functional currency
-          Losses
-
+ Applicable functional currency
+ Losses
 
 Siebel/TDMS Reference Number:
-         1-249LP8S
+  1-249LP8S
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         24 September 2010
+  24 September 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

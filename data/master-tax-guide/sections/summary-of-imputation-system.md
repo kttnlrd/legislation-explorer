@@ -19,7 +19,7 @@ The basis of the imputation system of company taxation is that shareholders who 
 
 - a corporate tax entity can choose, for a particular franking period, the franking percentage for
 
-  frankable distributions. There is a “benchmark rule” under which the franking percentage for the ﬁrst
+  frankable distributions. There is a "benchmark rule" under which the franking percentage for the ﬁrst
 
   frankable distribution made in the franking period (¶4-660) is the benchmark franking percentage
 
@@ -31,9 +31,9 @@ The basis of the imputation system of company taxation is that shareholders who 
 
   the amount included in their income (¶4-800)
 
-- tax paid and tax imputed to members is recorded in a corporate tax entity’s franking account.
+- tax paid and tax imputed to members is recorded in a corporate tax entity's franking account.
 
-Broadly, a credit to the entity’s franking account (franking credit) arises when the entity pays income tax or receives a franked dividend (¶4-710), and a debit arises when the entity franks a dividend or receives a tax refund (¶4-720)
+Broadly, a credit to the entity's franking account (franking credit) arises when the entity pays income tax or receives a franked dividend (¶4-710), and a debit arises when the entity franks a dividend or receives a tax refund (¶4-720)
 
 - where a corporate tax entity has a franking account deﬁcit at the end of a year, it is required to
 

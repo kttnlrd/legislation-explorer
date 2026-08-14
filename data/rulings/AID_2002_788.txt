@@ -3,39 +3,32 @@ ATO ID 2002/788
 ==================================================
 
 Income Tax
-        Cash payment to shareholder:  Application of section 45B
-        FOI status: may be released
-
+ Cash payment to shareholder: Application of section 45B
+ FOI status: may be released
 
 This ATO ID has been amended to update legislative references and revise expression in its reasons for decision.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Would section 45B of the Income Tax Assessment Act 1936 (ITAA 1936) apply to the payment by a company (S) to its non-resident 100% parent company (P)?
 Decision
-Section 45B of the ITAA 1936 would apply to the payment.  The Commissioner would make a determination under subsection 45B(3) that section 45C applies.
+Section 45B of the ITAA 1936 would apply to the payment. The Commissioner would make a determination under subsection 45B(3) that section 45C applies.
 Facts
-1. S was incorporated in Australia several years ago.  It is a 100% subsidiary of a non-resident company, P.
-2. S was originally established to acquire an interest in a mining tenement (the Project).  Substantially all funds raised by S in its year first year of operation were expended in carrying out exploration and development activities.
-3. As the Project generated cash flow from production, S wished to reduce its debt and equity, to reduce its interest cost in Australia and manage its debt and equity ratio appropriately.  S decided to make a return of capital payment of part of its paid up capital to P, and to repay part of its debt obligations.  The equity payment would be funded from excess cash funds on hand which originated from normal sales.
-4. S had accounting profits for its first two years, and it expects a profit also for the current year.  However, for income tax purposes no taxable income has been derived for the first two years, so no income tax has been paid to date.
+1. S was incorporated in Australia several years ago. It is a 100% subsidiary of a non-resident company, P.
+2. S was originally established to acquire an interest in a mining tenement (the Project). Substantially all funds raised by S in its year first year of operation were expended in carrying out exploration and development activities.
+3. As the Project generated cash flow from production, S wished to reduce its debt and equity, to reduce its interest cost in Australia and manage its debt and equity ratio appropriately. S decided to make a return of capital payment of part of its paid up capital to P, and to repay part of its debt obligations. The equity payment would be funded from excess cash funds on hand which originated from normal sales.
+4. S had accounting profits for its first two years, and it expects a profit also for the current year. However, for income tax purposes no taxable income has been derived for the first two years, so no income tax has been paid to date.
 5. There were no material sales of assets by S in the relevant periods.
 Reasons for Decision
 All legislative references are to the ITAA 1936 unless otherwise indicated.
 Paragraph 45B(1)(b) states the purpose of Section 45B is that relevant amounts are treated as dividends for taxation purposes if certain payments, allocations and distributions are made in substitution for dividends.
 Subsection 45B(3) allows the Commissioner to make a determination that section 45C applies. Section 45C treats such payments as unfrankable dividends in the hands of the shareholder.
 Under subsection 45B(2), for section 45B to apply, the following circumstances must be present:
-
-
 
 (a)a scheme under which a "capital benefit" is provided to a person by a company;
 (b)under the scheme, a taxpayer "obtains a tax benefit"; and
@@ -64,10 +57,10 @@ Paragraph (i) does not apply as the distribution will be in cash rather than in 
 Paragraph (j) concerns an increase in the value of a share and its later disposal. This paragraph is not relevant as there is no indication of any change in the rights of S's shares, or that these shares will increase in value.
 Taking into account all the "relevant circumstances" it is concluded that section 45B would apply to the arrangement. Accordingly the factors in subparagraphs 177D(b)(i) to (viii) have not been separately considered.
 Date of decision:
-         27 March 2002
+  27 March 2002
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -76,19 +69,18 @@ Income Tax Assessment Act 1936   subsection 6(1)   section 45B   subsec
 Keywords
 
 Return of capital on shares
-          Capital reductions
-          Deemed dividends
-          Dividend income
-
+ Capital reductions
+ Deemed dividends
+ Dividend income
 
 Siebel/TDMS Reference Number:
-         DW223296
+  DW223296
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         2 August 2002
+  2 August 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

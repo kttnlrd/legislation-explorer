@@ -7,11 +7,11 @@ paragraph: "¶35-050"
 ---
 # Payment of FBT ¶35-050
 
-An employer’s FBT liability is due and payable on 21 May following the FBT year ended on 31 March if the employer is not on a tax agent’s lodgment program (s 90) or the return is lodged on paper. If the employer is on a tax agent’s lodgment program and the return is lodged electronically, the due date is 25 June.
+An employer's FBT liability is due and payable on 21 May following the FBT year ended on 31 March if the employer is not on a tax agent's lodgment program (s 90) or the return is lodged on paper. If the employer is on a tax agent's lodgment program and the return is lodged electronically, the due date is 25 June.
 
-If the previous year’s FBT liability was $3,000 or more, the employer is required to pay the tax in quarterly instalments (ss 101 to 113). The instalments are notiﬁed in each quarter’s BAS or IAS with a ﬁnal payment being due, if necessary, with the lodgment of the annual FBT return.
+If the previous year's FBT liability was $3,000 or more, the employer is required to pay the tax in quarterly instalments (ss 101 to 113). The instalments are notiﬁed in each quarter's BAS or IAS with a ﬁnal payment being due, if necessary, with the lodgment of the annual FBT return.
 
-Instalments are based on either: (a) the employer’s “notional tax amount” — generally, the amount of the employer’s tax for the most recent year of tax for which the Commissioner has made an assessment (s 110) (this amount is modiﬁed where the FBT rate has changed); or (b) if the employer chooses, the employer’s estimate of its current year’s FBT liability (s 112).
+Instalments are based on either: (a) the employer's "notional tax amount" — generally, the amount of the employer's tax for the most recent year of tax for which the Commissioner has made an assessment (s 110) (this amount is modiﬁed where the FBT rate has changed); or (b) if the employer chooses, the employer's estimate of its current year's FBT liability (s 112).
 
 GIC is payable if the estimate and consequent instalments are too low (¶29-510).
 

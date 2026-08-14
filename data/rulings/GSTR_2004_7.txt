@@ -4,57 +4,54 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 156
-  • Div 19
-  • Div 358
-  • Div 38
-  • Div 57
-  • Div 69
-  • Div 83
-  • Div 84
-  • Division 156
-  • Division 19
-  • Division 38
-  • Division 57
-  • Division 83
-  • Division 84
-  • Subdivision 38-E
-  • Subdivision 40-B
-  • Subdivision 40-C
-  • div 38
-  • div 40
-  • division 38
+ • Div 156
+ • Div 19
+ • Div 358
+ • Div 38
+ • Div 57
+ • Div 69
+ • Div 83
+ • Div 84
+ • Division 156
+ • Division 19
+ • Division 38
+ • Division 57
+ • Division 83
+ • Division 84
+ • Subdivision 38-E
+ • Subdivision 40-B
+ • Subdivision 40-C
+ • div 38
+ • div 40
+ • division 38
 
 Cases Referenced:
-  • Anglo Australian Foods Ltd v. Credit Suisse
+ • Anglo Australian Foods Ltd v. Credit Suisse
 (1988) 1 ACSR 69
-  • Co Ltd v. Forsbacka Jernverks Aktiebolag
+ • Co Ltd v. Forsbacka Jernverks Aktiebolag
 
-  • Commonwealth Bank v. White
-  • In
+ • Commonwealth Bank v. White
+ • In
 Anglo Australian Foods Ltd v. Credit Suisse
 (1988) 1 ACSR 69
-  • In
+ • In
 National Commercial Bank v. Wimborne
 (1979) 11 NSWLR 156
-  • In
+ • In
 South India Shipping Corporation v. Bank 
-  • Koitaki Para Rubber Estates Ltd v. Federal Commissioner 
-  • Limited v. Actien
-  • Limited v. Chemische Fabrik Von Heyden Aktiengesellschaft
+ • Koitaki Para Rubber Estates Ltd v. Federal Commissioner 
+ • Limited v. Actien
+ • Limited v. Chemische Fabrik Von Heyden Aktiengesellschaft
 
-  • Mersey Marine Insurance Company v. Societa Di Navigazone 
-  • National Commercial Bank v. Wimborne
+ • Mersey Marine Insurance Company v. Societa Di Navigazone 
+ • National Commercial Bank v. Wimborne
 (1979) 11 NSWLR 156
-  • North Australian Pastoral Co Ltd v. Federal Commissioner 
-  • Ors v. Morningstar Research Pty Ltd 
-  • Others v. Morningstar Research Pty Ltd 
-  • Padmore v. Inland Revenue Commissioners
-
+ • North Australian Pastoral Co Ltd v. Federal Commissioner 
+ • Ors v. Morningstar Research Pty Ltd 
+ • Others v. Morningstar Research Pty Ltd 
+ • Padmore v. Inland Revenue Commissioners
 
 Topics: GST, Trusts, Partnerships, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -69,7 +66,7 @@ Back to browse
 133 related documents
 Goods and Services Tax Ruling
 GSTR 2004/7
-Goods and services tax:  in the application of items 2 and 3 and paragraph (b) of item 4 in the table in subsection 38-190(1) of the
+Goods and services tax: in the application of items 2 and 3 and paragraph (b) of item 4 in the table in subsection 38-190(1) of the
 A New Tax System (Goods and Services Tax) Act 1999:
 •
 when is a 'non-resident' or other 'recipient' of a supply 'not in Australia when the thing supplied is done'?
@@ -1638,9 +1635,9 @@ To work out the GST payable that is attributable to the tax period ending 30 Apr
 As Sylvia was involved with the supply - that is receiving training and discussing the system - for the two weeks that she was in Australia it is considered that Sylvia is in Australia in relation to the supply for two weeks. The supply is taxable to the extent that the consideration relates to the part of the supply performed during this time. The circumstances surrounding this supply are such that a time basis would be a reasonable basis on which to apportion the consideration, that is, using the hours billed while Sylvia was in Australia in relation to the supply (60 hours) as a proportion of the total hours billed (100 hours) to work out the value of the taxable part of the supply.
 463.
 The GST attributable to the tax period ending 30 April 2003 is calculated as follows:
-Value of the taxable part:  (60* ÷ 100**) × $10,000***  =  $6,000
-GST payable:  $6,000 × 10%  =  $600
-Consideration payable:  $10,000  +  $600  =  $10,600
+Value of the taxable part: (60* ÷ 100**) × $10,000*** = $6,000
+GST payable: $6,000 × 10% = $600
+Consideration payable: $10,000 + $600 = $10,600
 * Number of hours billed during the period Sylvia was in Australia in relation to the supply
 ** Total number of hours billed in the relevant tax period to which the amount invoiced relates
 *** Total amount invoiced (excluding GST) in the relevant tax period
@@ -1687,9 +1684,9 @@ There is GST payable on the supply for the quarterly tax period ending 30 Septem
 As William was in Australia and involved with the supply for a period of five days it is considered that William is in Australia in relation to the supply for five days. The part of the supply performed during this time is therefore the taxable part of the supply. The circumstances surrounding this supply are such that a time basis would be a reasonable basis on which to apportion the consideration, that is, using the hours billed while William was in Australia in relation to the supply (5 hours) as a proportion of the total hours billed (10 hours) to work out the value of the taxable part of the supply.
 474.
 The GST attributable to the tax period ended 30 September 2003 is calculated as follows:
-Value of the taxable part:  (5*  ÷  10**)  ×  $2,000*** = $1,000
-GST payable:  $1,000  ×  10% = $100
-Consideration payable:  $2,000 + $100 = $2,100
+Value of the taxable part: (5* ÷ 10**) × $2,000*** = $1,000
+GST payable: $1,000 × 10% = $100
+Consideration payable: $2,000 + $100 = $2,100
 * Number of hours billed during the period William was in Australia in relation to the supply and to which the consideration received relates
 ** Total number of hours billed in the period to which the consideration relates
 *** Consideration (excluding GST) received in the tax period
@@ -1704,8 +1701,8 @@ Alex does not account for GST on a cash basis and has one month tax periods. Ale
 It would be reasonable for Alex to apportion the consideration for the supply according to the period of time Jane was in Australia in relation to the supply (in the relevant tax period) as a proportion of the total period of time to which the consideration relates.
 479.
 On this basis the GST attributable to the tax period ended 30 June is calculated as follows:
-Value of the taxable part:  (1 wk* ÷ 4 wks**)  ×  $100*** =$25
-GST payable:  $25 × 10% = $2.50
+Value of the taxable part: (1 wk* ÷ 4 wks**) × $100*** =$25
+GST payable: $25 × 10% = $2.50
 Total amount deducted prior to remitting rental to Jane:
 $25 + $2.50 = $27.50
 * Period of time Jane was in Australia in relation to the supply in the tax period
@@ -2564,7 +2561,7 @@ previously issued in draft form as GSTR 2002/D8
 previously issued in draft form as GSTR 2003/D9
 References
 ATO references:
-NO  2002/16691
+NO 2002/16691
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

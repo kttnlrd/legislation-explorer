@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)**  Expenditure under a financial arrangement to which the financial arrangements rules apply is not included in—
 
-- (a) the cost of trading stock for low-turnover traders under subpart EB (Valuation of trading stock (including dealer’s livestock)):
+- (a) the cost of trading stock for low-turnover traders under subpart EB (Valuation of trading stock (including dealer's livestock)):
 
 - (b) the cost of livestock under subpart EC (Valuation of livestock):
 

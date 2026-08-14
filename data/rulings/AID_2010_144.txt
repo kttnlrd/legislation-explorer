@@ -3,23 +3,18 @@ ATO ID 2010/144
 ==================================================
 
 Goods and Services Tax
-        GST and tax invoice for multiple recipients
-        FOI status: may be released
+ GST and tax invoice for multiple recipients
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. The ATO view contained in this ATO ID can be found in paragraphs 259 to 262 of Goods and Services Tax Ruling  GSTR 2004/6 Goods and services tax: tax law partnerships and co-owners of property.
+This ATO ID is withdrawn as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. The ATO view contained in this ATO ID can be found in paragraphs 259 to 262 of Goods and Services Tax Ruling GSTR 2004/6 Goods and services tax: tax law partnerships and co-owners of property.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a supplier of farm machinery, issuing a tax invoice that meets the requirements under subsection 29-70(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it issues an invoice for a taxable supply made to more than one recipient?
@@ -33,13 +28,11 @@ Subsection 29-70(1) of the GST Act specifies the requirements for a document to 
 In this case, although there is more than one recipient, the entity is making a single taxable supply. The entity may issue a single tax invoice. As the total price for the supply is at least $1000, one of the requirements for a document to be a tax invoice is that the identity or ABN of the recipient must appear on the tax invoice (subparagraph 29-70(1)(c)(ii) of the GST Act). Therefore, if there is more than one recipient of the taxable supply, both recipients' identities or ABNs must appear.
 In this case, the identities of both recipients appear on the invoice. Therefore, the rest of the requirements of a tax invoice are satisfied, and the entity is issuing a tax invoice that meets the requirements under subsection 29-70(1) of the GST Act.
 
-
-
 Note
-                : it is the responsibility of each recipient to determine, based on their own individual usage of the item, whether the supply constitutes a creditable acquisition under section 11-5 of the GST Act. If the supply does constitute a creditable acquisition under section 11-5 of the GST Act, each recipient also has the responsibility for calculating the amount of any input tax credit that they may be entitled to (Division 11 of the GST Act).
+ : it is the responsibility of each recipient to determine, based on their own individual usage of the item, whether the supply constitutes a creditable acquisition under section 11-5 of the GST Act. If the supply does constitute a creditable acquisition under section 11-5 of the GST Act, each recipient also has the responsibility for calculating the amount of any input tax credit that they may be entitled to (Division 11 of the GST Act).
 
 Date of decision:
-         1 July 2010
+  1 July 2010
 
 Legislative References:
 
@@ -52,34 +45,30 @@ ATO ID 2001/245
 Keywords
 
 Goods and services tax
-          GST invoices
-          Tax invoices
-          GST supply
-          Taxable supply
-
+ GST invoices
+ Tax invoices
+ GST supply
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         1-26OBAMM
+  1-26OBAMM
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         13 August 2010
+  13 August 2010
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  1 July 2010

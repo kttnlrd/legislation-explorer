@@ -19,7 +19,7 @@ Generally, it is only possible to claim the main residence exemption in relation
 
 However, there is an exception to this rule where a taxpayer moves from one main residence to another and there is a period of overlapping ownership. In this situation, the taxpayer can claim the exemption for both properties for a limited time.
 
-Specifically, under ITAA97 s 118-140, if a taxpayer has an ownership interest in their existing main residence and they acquire an ownership interest in a dwelling that is to become their main residence, both dwellings are treated as the taxpayer’s main residence (and hence are eligible for the exemption) for the shorter of:
+Specifically, under ITAA97 s 118-140, if a taxpayer has an ownership interest in their existing main residence and they acquire an ownership interest in a dwelling that is to become their main residence, both dwellings are treated as the taxpayer's main residence (and hence are eligible for the exemption) for the shorter of:
 
 - 6 months (ending when the ownership interest in the existing main residence ends), or
 
@@ -27,11 +27,11 @@ Specifically, under ITAA97 s 118-140, if a taxpayer has an ownership interest in
 
   interest in the existing main residence ends.
 
-This “6 month” rule only applies where the taxpayer’s existing main residence was the main residence for a continuous period of at least 3 months in the 12 months ending when the ownership interest is disposed of.
+This "6 month" rule only applies where the taxpayer's existing main residence was the main residence for a continuous period of at least 3 months in the 12 months ending when the ownership interest is disposed of.
 
-In addition, the taxpayer’s main residence cannot have been used for the purpose of producing assessable income in any part of that 12-month period when it was not the taxpayer’s main residence.
+In addition, the taxpayer's main residence cannot have been used for the purpose of producing assessable income in any part of that 12-month period when it was not the taxpayer's main residence.
 
-The new dwelling must actually become the taxpayer’s main residence in order for this provision to apply.
+The new dwelling must actually become the taxpayer's main residence in order for this provision to apply.
 
 Therefore, if the existing dwelling is sold:
 
@@ -47,6 +47,6 @@ Therefore, if the existing dwelling is sold:
 
 Although the contract date is relevant for establishing the date of the CGT event (1 February 2025), for main residence exemption purposes, it is necessary to look at the date on which the ownership interest ends, which is the latest date that the taxpayer has legal ownership of the property (in this case, the settlement date, being 1 May 2025). Therefore, the main residence exemption is available for both dwellings for the final 6 months ending on 1 May 2025.
 
-This leaves a “gap” of one month covering the period from 1 October 2024 to 1 November 2024. They can apply the main residence exemption in full to the Wheelers Hill house (assuming that it continues to be their main residence until it is subsequently disposed of), but this will mean that the main residence exemption cannot be claimed in respect of the Kew house for the 31-day period of October 2024. This means that a calculation needs to be done to apportion the capital gain arising on the Kew property, reflecting the partial main residence exemption, on the following basis: Amount of the capital gain or loss x non-main residence days/total days in ownership period: $500,000 x 31/4,749 = $3,264 Alternatively, they can apply the full main residence exemption to the Kew house (using the “absence” rule in ITAA97 s 118-145 to extend the 6-month period to cover the month of October 2024), in which case the Wheelers Hill house will receive only a partial exemption when it is sold.
+This leaves a "gap" of one month covering the period from 1 October 2024 to 1 November 2024. They can apply the main residence exemption in full to the Wheelers Hill house (assuming that it continues to be their main residence until it is subsequently disposed of), but this will mean that the main residence exemption cannot be claimed in respect of the Kew house for the 31-day period of October 2024. This means that a calculation needs to be done to apportion the capital gain arising on the Kew property, reflecting the partial main residence exemption, on the following basis: Amount of the capital gain or loss x non-main residence days/total days in ownership period: $500,000 x 31/4,749 = $3,264 Alternatively, they can apply the full main residence exemption to the Kew house (using the "absence" rule in ITAA97 s 118-145 to extend the 6-month period to cover the month of October 2024), in which case the Wheelers Hill house will receive only a partial exemption when it is sold.
 
 *Refs: ITAA97 s 118-140, ITAA97 s 118-145*

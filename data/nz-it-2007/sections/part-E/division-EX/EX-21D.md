@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 - (a) each item in the formula is determined—
 
-  - (i) for the CFC’s consolidated test group, if the interest holder chooses to apply the formula to the test group; or
+  - (i) for the CFC's consolidated test group, if the interest holder chooses to apply the formula to the test group; or
 
   - (ii) for the CFC, if subparagraph (i) does not apply; and
 
@@ -72,13 +72,13 @@ compilation_date: 2026-06-06
 
 - (c) a reference to a company that is associated is treated as being a reference to a company that is—
 
-  - (i) associated with a member of the CFC’s test group, although not a member of the CFC’s test group, if the interest holder chooses to apply the formula to the test group; or
+  - (i) associated with a member of the CFC's test group, although not a member of the CFC's test group, if the interest holder chooses to apply the formula to the test group; or
 
   - (ii) associated with the CFC, if subparagraph (i) does not apply; and
 
 - (d) a reference to a company that is in the same group of companies is treated as being a reference to a company that is—
 
-  - (i) in the same group of companies as a member of the CFC’s test group, although not a member of the CFC’s test group, if the interest holder chooses to apply the formula to the test group; or
+  - (i) in the same group of companies as a member of the CFC's test group, although not a member of the CFC's test group, if the interest holder chooses to apply the formula to the test group; or
 
   - (ii) in the same group of companies as the CFC, if subparagraph (i) does not apply; and
 
@@ -122,7 +122,7 @@ compilation_date: 2026-06-06
 
 **(9)**  Gross adjustments is the total of the following amounts for the accounting period:
 
-- (a) the amount of the item “attributable adjustments” in subsection (7):
+- (a) the amount of the item "attributable adjustments" in subsection (7):
 
 - (b) expenditure or loss that is included in the calculation of the attributable CFC amount under section EX 20B:
 

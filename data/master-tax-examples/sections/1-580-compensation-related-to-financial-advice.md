@@ -9,7 +9,7 @@ paragraph: "None"
 
 Worked example: Compensation related to financial advice Issue In August 2010, George Dawes paid $4,000 to a financial adviser, Nathan Large, for investment advice.
 
-Nathan was employed by the Great Northern Bank and received a relatively low base salary, topped up with commissions for his sales of investment products. Nathan was aware that the highest rate of commissions was paid on 2 investments, namely into the bank’s Emerging Markets Share Fund and their Mixed Venture Capital Fund and therefore Nathan proceeded to recommend these 2 funds, which were both high risk funds, to all his clients, regardless of whether they were suitable and ignoring the client’s own risk appetite.
+Nathan was employed by the Great Northern Bank and received a relatively low base salary, topped up with commissions for his sales of investment products. Nathan was aware that the highest rate of commissions was paid on 2 investments, namely into the bank's Emerging Markets Share Fund and their Mixed Venture Capital Fund and therefore Nathan proceeded to recommend these 2 funds, which were both high risk funds, to all his clients, regardless of whether they were suitable and ignoring the client's own risk appetite.
 
 Encouraged by Nathan, George invested $100,0000 into the Emerging Markets Fund and $30,000 into the Mixed Venture Capital Fund. Both investment funds performed poorly, and George disposed of the Emerging Market investment for $50,000 in July 2018. He still holds the investment in the Mixed Venture Capital Fund but its current market value is just $15,000.
 
@@ -17,7 +17,7 @@ George claimed a deduction for the advice in his 2010–11 tax return.
 
 George later sued the Great Northern Bank and as a result the bank agreed to review the advice given to him. Upon review, it determined that the advice was inappropriate for his circumstances as he should have been advised to invest in a more conservative portfolio.
 
-On 30 March 2025, the bank offered George compensation amounting to $85,000 in respect of the advice. George received a statement from the bank breaking down the $85,000 payment into its individual constituents, namely compensation for the Emerging Markets investment of $50,000, compensation for the Venture Capital fund of $15,000, plus a full refund of Nathan’s adviser fees of $4,000 and interest of $16,000.
+On 30 March 2025, the bank offered George compensation amounting to $85,000 in respect of the advice. George received a statement from the bank breaking down the $85,000 payment into its individual constituents, namely compensation for the Emerging Markets investment of $50,000, compensation for the Venture Capital fund of $15,000, plus a full refund of Nathan's adviser fees of $4,000 and interest of $16,000.
 
 George accepted the offer of compensation in June 2025 and wishes to understand the tax implications before he completes his tax return for the year ended 30 June 2025.
 
@@ -33,7 +33,7 @@ The tax treatment depends on the nature of the compensation, including what it i
 
 The compensation may relate to multiple investments, with different amounts of compensation granted against each one. Each compensation amount is treated separately, and the various different components of the compensation need to be split up into their component parts.
 
-Compensation that relates to the loss on an investment Compensation is typically received because the value of the individual’s investments is lower than it would have been if they had received appropriate advice. The tax treatment depends on whether the investment has been disposed of or is still held:
+Compensation that relates to the loss on an investment Compensation is typically received because the value of the individual's investments is lower than it would have been if they had received appropriate advice. The tax treatment depends on whether the investment has been disposed of or is still held:
 
 - Compensation for an investment that has been disposed of: When the relevant investment
 
@@ -43,7 +43,7 @@ Compensation that relates to the loss on an investment Compensation is typically
 
   it is necessary to apportion the additional capital proceeds to each disposal. Where the capital gain or
 
-  loss on the investment arose in a previous tax year, it will be necessary to amend the earlier year’s tax
+  loss on the investment arose in a previous tax year, it will be necessary to amend the earlier year's tax
 
   return to reflect the additional capital proceeds arising from the compensation.
 
@@ -75,6 +75,6 @@ Interest component This element of compensation (if any) will be treated as ordi
 
 Compensation that cannot be attributed to a particular investment In this case, the bank has provided Nathan with a statement breaking down the various elements of the compensation into their constituent elements. However, where compensation cannot be attributed to a particular investment, it will be treated as a CGT event C2 arising on the ending of the right to seek compensation (para 11 of TR 95/35). The capital gain/loss arises on the difference between the amount of compensation received (the capital proceeds) and the cost base or reduced cost base, which will typically be just the legal costs incurred to get the compensation.
 
-Similarly, where the amounts of compensation cannot be split into their constituent parts (any of the categories above), it will be “undissected” and treated wholly as capital proceeds in relation to the ending of the right to seek compensation, as above (para 18 of TR 95/35).
+Similarly, where the amounts of compensation cannot be split into their constituent parts (any of the categories above), it will be "undissected" and treated wholly as capital proceeds in relation to the ending of the right to seek compensation, as above (para 18 of TR 95/35).
 
 *Refs: s 20-20)*

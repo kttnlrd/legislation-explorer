@@ -13,7 +13,7 @@ There are also administrative rules covering adjustments (LCT Act Div 15), GST g
 
 The full amount of LCT payable on a supply by way of lease or hire is attributable to the first tax period to which the supply of the car is attributable (LCT Act s 13-15(1A)).
 
-Input tax credits No input tax credit (ITCs) can be claimed for LCT by purchasers. Furthermore, the ITC allowable on a car is normally limited if the GST-inclusive market value of the car exceeds the “car limit” (¶12-110).
+Input tax credits No input tax credit (ITCs) can be claimed for LCT by purchasers. Furthermore, the ITC allowable on a car is normally limited if the GST-inclusive market value of the car exceeds the "car limit" (¶12-110).
 
 *Refs: s 13-15(1*
 

@@ -34,7 +34,7 @@ The following property is not depreciable property:
 
 - (h) property that its owner chooses, under section EE 38, to deal with under that section:
 
-- (i) property for whose cost a person other than the property’s owner is allowed a deduction:
+- (i) property for whose cost a person other than the property's owner is allowed a deduction:
 
 - (j) property for whose cost a person is allowed a deduction under a provision of this Act outside this subpart or under a provision of an earlier Act.
 

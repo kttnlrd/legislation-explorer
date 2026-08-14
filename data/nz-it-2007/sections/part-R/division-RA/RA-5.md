@@ -18,13 +18,13 @@ compilation_date: 2026-06-06
 
 - (b) a fringe benefit:
 
-- (c) an employer’s superannuation cash contribution.
+- (c) an employer's superannuation cash contribution.
 
 **Timing for PAYE income payments**
 
 **(2)**  An amount of tax withheld from a PAYE income payment must be withheld at the time the person makes the payment.
 
-*Defined in this Act: amount of tax, Commissioner, employer’s superannuation cash contribution, fringe benefit, pay, PAYE income payment*
+*Defined in this Act: amount of tax, Commissioner, employer's superannuation cash contribution, fringe benefit, pay, PAYE income payment*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -55,7 +55,7 @@ In setting a penalty of $180,000 in a case where over $5m was received by the pr
 
 A penalty of $1m was imposed on a scheme promoter, together with penalties totalling $500,000 on 2 associated companies, where the nature and extent of the contraventions were substantial and extensive, the conduct was deliberate, there was a failure to cooperate with the Commissioner at any point, and there was no remorse or contrition shown (FC of T v Arnold & Ors 2015 ATC ¶20-486; [2015] FCA 34).
 
-Substantial penalties were imposed on 3 professional advisers who, it was held, derived large fees from the aggressive promotion of a scheme involving exploitation of emissions credits, generating deductions totalling $58 million for 200 investors over 4 years. For the central figure in the scheme’s operation, the penalty was $7.75 million, with penalties of $1.45 million and $210,000 for the other promoters, reflecting their lesser participation and culpability. The court said that in setting the penalties, the need for deterrence should be taken into account, but undue regard should not be paid to the capacity or otherwise of the promoters to pay the amount; nor was the lack of contrition relevant (FC of T v Rowntree & Ors 2021 ATC ¶20-786; [2021] FCA 306 (on appeal)).
+Substantial penalties were imposed on 3 professional advisers who, it was held, derived large fees from the aggressive promotion of a scheme involving exploitation of emissions credits, generating deductions totalling $58 million for 200 investors over 4 years. For the central figure in the scheme's operation, the penalty was $7.75 million, with penalties of $1.45 million and $210,000 for the other promoters, reflecting their lesser participation and culpability. The court said that in setting the penalties, the need for deterrence should be taken into account, but undue regard should not be paid to the capacity or otherwise of the promoters to pay the amount; nor was the lack of contrition relevant (FC of T v Rowntree & Ors 2021 ATC ¶20-786; [2021] FCA 306 (on appeal)).
 
 A civil penalty cannot be imposed if the entity has already been convicted of a criminal offence arising out of the relevant conduct. Once criminal proceedings have been started, any civil penalty proceedings pending in relation to the same conduct should be stayed. However, criminal proceedings may be instituted even though a civil penalty has already been imposed.
 
@@ -65,7 +65,7 @@ Reasonable mistake, precautions or reliance
 
 - the conduct was due to the act or default of another, or due to an accident or some other cause
 
-  beyond the entity’s control, and the entity took reasonable precautions and exercised due diligence to
+  beyond the entity's control, and the entity took reasonable precautions and exercised due diligence to
 
   avoid the conduct.
 
@@ -73,7 +73,7 @@ However, the exemption does not apply where the act or default was by an employe
 
 The Commissioner cannot apply for a penalty against a promoter if the scheme is based on an application of the tax law that agrees with a statement in an approved ATO publication, or with advice given to the promoter by the ATO. Advice given in a private ruling to a scheme participant would not qualify, as it is not advice to the promoter (Administration Act Sch 1 s 290-55).
 
-Ignorance If the entity’s conduct is prohibited on the ground that it results in another being a promoter, the entity is not liable for penalty if it satisfies the court that it did not know that its conduct would have that result, and could not reasonably be expected to have known. A corresponding defence applies where the conduct consists of a non-conforming implementation of a scheme. From 1 July 2024, exceptions apply in the case of employees, agents, directors, partners and co-trustees.
+Ignorance If the entity's conduct is prohibited on the ground that it results in another being a promoter, the entity is not liable for penalty if it satisfies the court that it did not know that its conduct would have that result, and could not reasonably be expected to have known. A corresponding defence applies where the conduct consists of a non-conforming implementation of a scheme. From 1 July 2024, exceptions apply in the case of employees, agents, directors, partners and co-trustees.
 
 Employees An employee is not liable for penalty if their employer has already been penalised in relation to the same scheme.
 
@@ -89,7 +89,7 @@ Civil penalty vs injunction or undertaking Factors in favour of a civil penalty 
 
 - has a large degree of control or influence over whether the prohibited conduct occurs
 
-- deliberately frustrates the progression of the ATO’s investigation
+- deliberately frustrates the progression of the ATO's investigation
 
 - has engaged in prohibited conduct on a significant scale in terms of the number of entities or amounts
 

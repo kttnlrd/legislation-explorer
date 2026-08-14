@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Amount of reduction**
 
-**(2)**  The person’s credit is limited to the amount shown in the credit transfer notice.
+**(2)**  The person's credit is limited to the amount shown in the credit transfer notice.
 
 *Defined in this Act: amount, credit transfer notice, share-lending arrangement, share supplier, share user, tax credit*
 

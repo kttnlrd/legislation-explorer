@@ -1,0 +1,33 @@
+---
+country: "Spain"
+country_slug: "spain"
+treaty_schedule: 39
+article: 11
+title: "Article 11 — Interest"
+---
+# Article 11 — Interest
+Spanish Agreement
+AGREEMENT BETWEEN AUSTRALIA AND THE KINGDOM OF SPAIN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+Interest
+(1)
+Interest arising in one of the Contracting States, being interest to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
+(2)
+Such interest may be taxed in the Contracting State in which it arises, and according to the law of that State, but the tax so charged shall not exceed 10 per cent of the gross amount of the interest.
+(3)
+The term 
+"
+interest
+"
+ in this Article includes interest from Government securities or from bonds or debentures, whether or not secured by mortgage and whether or not carrying a right to participate in profits, and interest from any other form of indebtedness as well as all other income assimilated to income from money lent by the law, relating to tax, of the Contracting State in which the income arises.
+(4)
+The provisions of paragraph (2) shall not apply if the person beneficially entitled to the interest, being a resident of one of the Contracting States, carries on business in the other Contracting State, in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and indebtedness in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+(5)
+Interest shall be deemed to arise in a Contracting State when the payer is that State itself or a political subdivision or local authority of that State or a person who is a resident of that State. Where, however, the person paying the interest, whether the person is a resident of one of the Contracting States or not, has in one of the Contracting States or outside both Contracting States a permanent establishment or fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+(6)
+A person is a resident of one of the Contracting States for the purpose of paragraph (5) if the person is a resident of that State within the operation of the law of that State relating to its tax, irrespective of the manner in which paragraph (3) or paragraph (4), as the case may be, of Article 4 operates in relation to that person.
+(7)
+Where, owing to a special relationship between the payer and the person beneficially entitled to the interest, or between both of them and some other person, the amount of the interest paid, having regard to the indebtedness for which it is paid, exceeds the amount which might have been expected to have been agreed upon by the payer and the person so entitled in the absence of such relationship, the provisions of this Article shall apply only to the lastmentioned amount. In that case, the excess part of the amount of the interest paid shall remain taxable according to the law, relating to tax, of each Contracting State, but subject to the other provisions of this Agreement.

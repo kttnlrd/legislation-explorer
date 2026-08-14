@@ -3,18 +3,14 @@ ATO ID 2005/297
 ==================================================
 
 Income Tax
-        Division 7A: multiple Subdivision EA loans and section 109Y
-        FOI status: may be released
-
-
+ Division 7A: multiple Subdivision EA loans and section 109Y
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where in an income year, a trustee makes loans to different shareholders (or associates) of a private company beneficiary with unpaid present entitlement, and section 109XB of Subdivision EA of Division 7A of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) operates on more than one loan, can there be a proportionate reduction of the section 109XB assessable amounts because of the operation of subsection 109XB(2) of the ITAA 1936?
@@ -33,8 +29,6 @@ Subsection 109XA(2) of the ITAA 1936 is the relevant provision that applies to t
 
 a trustee makes a loan (the 'actual transaction') to a shareholder or an associate of a shareholder of a private company (except a shareholder or associate that is a company); and
 
-
-
 (i)the company is presently entitled to an amount from the net income of the trust estate at the time the loan takes place and that amount has not been paid to the company before the 'lodgement day'; or
 (ii)the company becomes presently entitled to an amount from the net income of the trust estate after the loan takes place but before the 'lodgement day' and the whole of the amount has not been paid to the company before the 'lodgement day'.
 
@@ -44,10 +38,7 @@ Section 109XB of the ITAA 1936 provides as follows:
 
 109XB Amounts included in assessable income
 
-
 (1) An amount is included as if it were a dividend, in the assessable income of the shareholder or associate referred to in subsection 109XA(1), (2) or (3) if:
-
-
 
 (a)had the actual transaction been done by a private company (the notional company); and
 (b)had the shareholder or associate been a shareholder of the notional company at the time the actual transaction took place;
@@ -61,9 +52,7 @@ Subsection 109Y(3) of the ITAA 1936 provides:
 
 The amount of a dividend that a private company is taken under this Division to pay is worked out using the formula:
 
-
 Provisional dividend x (distributable surplus for the year of income / Total of provisional dividends)
-
 
 where:
 
@@ -76,13 +65,12 @@ In the circumstances here, the provisional dividend in respect of each loan is $
 
 100,000 x (100,000 / 500,000) = $20,000.
 
-
 The assessable amount under section 109XB of the ITAA 1936 for each shareholder is therefore proportionately reduced so the total does not exceed the distributable surplus of the private company with the unpaid present entitlement.
 Date of decision:
-         7 October 2005
+  7 October 2005
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -96,22 +84,21 @@ Related ATO Interpretative Decisions
 Keywords
 
 Borrowings & loans
-          Deemed dividends
-          Trusts
-          Private companies
-
+ Deemed dividends
+ Trusts
+ Private companies
 
 Siebel/TDMS Reference Number:
-         4765443;1-5CU0PYA;1-D0QVEUA
+  4765443;1-5CU0PYA;1-D0QVEUA
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         28 October 2005
+  28 October 2005
 
 Date reviewed:
-         7 November 2017
+  7 November 2017
 
 ISSN:
-          1445-2782
+ 1445-2782

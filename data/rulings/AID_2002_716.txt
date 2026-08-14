@@ -3,18 +3,14 @@ ATO ID 2002/716
 ==================================================
 
 Income Tax
-        Depreciation - whether depreciation rates increased by 20% loading for purposes of undeducted PABV calculations
-        FOI status: may be released
-
-
+ Depreciation - whether depreciation rates increased by 20% loading for purposes of undeducted PABV calculations
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If a purchaser acquires a pre-20 August 1980 unit of plant to which former Subdivision 58-C of the Income Tax Assessment Act 1997 (ITAA 1997) applies, is the depreciation rate used to calculate the undeducted pre-existing audited book value ("PABV") of the unit increased by a 20% loading?
@@ -22,8 +18,6 @@ Decision
 Yes, the depreciation rate used to calculate the undeducted PABV of the unit is increased by the 20% loading that would have applied under the subsection 55(6) of the Income Tax Assessment Act 1936 (ITAA 1936) as in force immediately before the commencement of section 7 of the Taxation Laws Amendment Act (No 2) 1992 (former subsection 55(6) of the ITAA 1936).
 Facts
 The arrangement may be summarised as follows:
-
-
 
 1. During an income year after 4 August 1997 and prior to 1 July 2001, the purchaser acquired the assets used in the carrying on of a business by a tax exempt vendor ("TEV") within the meaning of former paragraph 58-150(1)(c) of the ITAA 1997. The purchaser used the assets to carry on the same business.
 2. The purchased assets included a number of units of plant which the TEV had originally acquired before 20 August 1980 ("old plant").
@@ -33,7 +27,6 @@ The arrangement may be summarised as follows:
 Reasons for Decision
 
 Tax Law
-
 
 Choice under Division 58 to calculate depreciation deductions for transitional plant by reference to undeducted PABV
 
@@ -63,8 +56,6 @@ For PABV notional depreciation purposes, the purchaser selects (under former sec
 This results in a prime cost depreciation rate of 3% for PABV notional depreciation purposes, calculated as follows: basic depreciation rate of 2.5% (1/40 x 100%) increased by 20% loading (2.5% x 1.2 = 3%).
 The undeducted PABV of the unit in relation to the TEV is calculated as follows:
 
-
-
 PABV at the test time
 90,000.00
 
@@ -90,7 +81,7 @@ Undeducted PABV (Cost to the Purchaser)
 $81,219.45
 
 Date of decision:
-         22 May 2002
+  22 May 2002
 
 Legislative References:
 
@@ -104,18 +95,17 @@ Taxation Ruling IT 2685
 Keywords
 
 Depreciation rates
-          Depreciation loadings
-          Notional depreciation
-
+ Depreciation loadings
+ Notional depreciation
 
 Siebel/TDMS Reference Number:
-         CAS104672
+  CAS104672
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         31 July 2002
+  31 July 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

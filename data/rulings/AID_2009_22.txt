@@ -3,18 +3,14 @@ ATO ID 2009/22
 ==================================================
 
 Income Tax
-        Voting interest in a company in relation to foreign non-portfolio dividends
-        FOI status: may be released
-
-
+ Voting interest in a company in relation to foreign non-portfolio dividends
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a contract of sale to sell shares in a company an arrangement under which, the purchaser, from the time of entering into that contract, may become in a position to affect the voting rights attached to those shares for the purposes of paragraph 334A(1)(b) of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -28,8 +24,6 @@ The taxpayer entered into a contract of sale to sell these shares to a third par
 Reasons for Decision
 Subsection 334A(1) of the ITAA 1936 provides that for the purposes of section 334A of the ITAA 1936, a company is taken to have a 'voting interest' in another company if:
 
-
-
 (a)the first-mentioned company is the beneficial owner of shares (other than eligible finance shares or widely distributed finance shares) in the other company that carry the right to exercise any of the voting power in the other company; and
 (b)there is no arrangement in force at the relevant time by virtue of which any person is in a position, or may become in a position, to affect that right;
 
@@ -40,8 +34,6 @@ Subsection 334A(2) of the ITAA 1936 provides that for the purposes of paragraph 
 a person is taken to be in a position to affect a right of a company if that person has a right, power or option (whether by virtue of any provision in the constituent document of any company or by virtue of any agreement or instrument or otherwise) to acquire that right or do an act or thing that would prevent the first-mentioned company from exercising that right or receiving any benefits accruing by reason of that right.
 
 Subsection 334A(5) of the ITAA 1936 provides that 'arrangement' in section 334A of the ITAA 1936 includes:
-
-
 
 (a)any agreement, arrangement, understanding, promise or undertaking, whether expressed or implied, and whether or not enforceable, or intended to be enforceable, by legal proceedings; and
 (b)any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
@@ -57,14 +49,13 @@ As a consequence, the purchaser may become, from the time of entering into the c
 Accordingly, the contract of sale to sell shares in the non-resident company is an arrangement by virtue of which from the time of entering into that contract, the purchaser may become in a position, to affect the voting rights attached to those shares for the purposes of paragraph 334A(1)(b) of the ITAA 1936.
 In the context of a foreign non-portfolio dividend, section 23AJ of the ITAA 1936 would not apply to a dividend paid by the non-resident company to the taxpayer from the time of entering into the contract of sale considering the taxpayer would not have the required 'voting interest' within the meaning of section 334A of the ITAA 1936 from that date.
 
-
 Note: the above analysis also applies to former subsection 160AFB of the ITAA 1936 as the definition of 'voting interest' in former section 160AFB has been moved to section 334A of the ITAA 1936 by Tax Laws Amendment (2007 Measures No. 4) Act 2007, applicable in relation to income years, statutory accounting periods and notional accounting periods starting on or after the 1 July 2008.
 
 Date of decision:
-         20 April 2009
+  20 April 2009
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -78,22 +69,21 @@ Taxation Ruling IT 2555
 Keywords
 
 Disposal of shares
-          Dividend income
-          Foreign income
-          International tax
-          Non portfolio foreign income
-          Non-assessable non-exempt income
-          Ownership, interests, control & rights
-
+ Dividend income
+ Foreign income
+ International tax
+ Non portfolio foreign income
+ Non-assessable non-exempt income
+ Ownership, interests, control & rights
 
 Siebel/TDMS Reference Number:
-         6103542
+  6103542
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         24 April 2009
+  24 April 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

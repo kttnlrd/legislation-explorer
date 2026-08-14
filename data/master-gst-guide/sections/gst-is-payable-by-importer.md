@@ -11,7 +11,7 @@ The importer of goods is liable for GST on their import (s 13-15). This is irres
 
 *Refs: s 13-15)*
 
-(1) the “customs value” of the goods. This is normally the value of the goods at the time they were exported, as determined by Australian Customs. It excludes GST and transport and insurance costs from the place of export (2) the amount paid or payable for the international transport of the goods (¶12-010) to their “place of consignment” in Australia (see further below) (3) the amount paid or payable to insure the goods for that international transport (4) the amount paid or payable for loading or handling the goods, or for facilitation services (such as fumigation), during the course of GST-free international transport. This does not include taxes, fees and charges exempted under s 81-5 (¶4-080) (5) any “customs duty” payable in respect of the importation of the goods, and (6) any wine equalisation tax (WET) payable in respect of the local entry of the goods (s 13-20(2)).
+(1) the "customs value" of the goods. This is normally the value of the goods at the time they were exported, as determined by Australian Customs. It excludes GST and transport and insurance costs from the place of export (2) the amount paid or payable for the international transport of the goods (¶12-010) to their "place of consignment" in Australia (see further below) (3) the amount paid or payable to insure the goods for that international transport (4) the amount paid or payable for loading or handling the goods, or for facilitation services (such as fumigation), during the course of GST-free international transport. This does not include taxes, fees and charges exempted under s 81-5 (¶4-080) (5) any "customs duty" payable in respect of the importation of the goods, and (6) any wine equalisation tax (WET) payable in respect of the local entry of the goods (s 13-20(2)).
 
 The value of the taxable importation does not include the value of any assembly or installation services (¶9-020).
 
@@ -33,13 +33,13 @@ Place of consignment in Australia
 
 *Refs: s 81-5, s 13-20(2))*
 
-(1) for postal goods — the place in Australia to which the goods are addressed. Goods weighing less than 31.5 kg that are transported to Australia and delivered “door to door” by an international express courier service are treated as goods posted to Australia (GST Ruling GSTR 2003/15) (2) if the supplier of the goods is to deliver them in Australia — the place in Australia for delivery under the contract for the supply of the goods. This will typically be the case, for example, where the supply is on trading terms such as “delivered duty paid” (DDP), “delivered duty unpaid” (DDU) or “cost, insurance and freight” (CIF) Illustration: Value of import — CIF An overseas supplier agrees to sell and deliver goods to a purchaser in Windsor, NSW. The supplier subcontracts with Global to transport the goods. Global itself undertakes the transport to Sydney and subcontracts with Minnow for the transport from there to Windsor.
+(1) for postal goods — the place in Australia to which the goods are addressed. Goods weighing less than 31.5 kg that are transported to Australia and delivered "door to door" by an international express courier service are treated as goods posted to Australia (GST Ruling GSTR 2003/15) (2) if the supplier of the goods is to deliver them in Australia — the place in Australia for delivery under the contract for the supply of the goods. This will typically be the case, for example, where the supply is on trading terms such as "delivered duty paid" (DDP), "delivered duty unpaid" (DDU) or "cost, insurance and freight" (CIF) Illustration: Value of import — CIF An overseas supplier agrees to sell and deliver goods to a purchaser in Windsor, NSW. The supplier subcontracts with Global to transport the goods. Global itself undertakes the transport to Sydney and subcontracts with Minnow for the transport from there to Windsor.
 
-The place of consignment is Windsor. The value of the importation will include the total cost of transport to there, not just to Sydney. (3) if the goods are not posted, the supplier is not to deliver the goods in Australia, and they are to be transported to Australia by a transport contractor for the importer — the place in Australia to which the goods are to be delivered under that transport contract. This will typically be the case, for example, where the supply is on “free on board” (FOB) trading terms Illustration: Value of import — FOB Continuing the above illustration, assume instead that the contract between the supplier and the purchaser did not include delivery. Instead, the goods are supplied on an FOB basis, and the supplier’s obligations cease once the goods are delivered on board a ship at the overseas port. The purchaser contracts separately for shipment of the goods to Sydney, and also engages a freight forwarder to transport the goods to Windsor.
+The place of consignment is Windsor. The value of the importation will include the total cost of transport to there, not just to Sydney. (3) if the goods are not posted, the supplier is not to deliver the goods in Australia, and they are to be transported to Australia by a transport contractor for the importer — the place in Australia to which the goods are to be delivered under that transport contract. This will typically be the case, for example, where the supply is on "free on board" (FOB) trading terms Illustration: Value of import — FOB Continuing the above illustration, assume instead that the contract between the supplier and the purchaser did not include delivery. Instead, the goods are supplied on an FOB basis, and the supplier's obligations cease once the goods are delivered on board a ship at the overseas port. The purchaser contracts separately for shipment of the goods to Sydney, and also engages a freight forwarder to transport the goods to Windsor.
 
 The place of consignment is Sydney, not Windsor. The value of the importation will include the total cost of transport to Sydney, but not from there to Windsor. (4) in any other case — the port or airport of final destination of the goods in Australia as indicated in the relevant transportation document, eg consignment note, house bill of lading or master air waybill.
 
-The “port or airport of final destination” is the port or airport where the goods can be removed from Customs control after being dealt with in accordance with the Customs Act. If the goods are removed from Customs control at a place other than a port or airport, the last port or airport that the goods were located prior to being taken to that other place is the “port or airport of final destination” (GST Ruling GSTR 2003/15).
+The "port or airport of final destination" is the port or airport where the goods can be removed from Customs control after being dealt with in accordance with the Customs Act. If the goods are removed from Customs control at a place other than a port or airport, the last port or airport that the goods were located prior to being taken to that other place is the "port or airport of final destination" (GST Ruling GSTR 2003/15).
 
 Time and manner of payment The rules for attributing GST to tax periods do not apply to importations, rather:
 
@@ -75,7 +75,7 @@ Customs will release the goods after payment of customs duty, but record the def
 
 Example: Deferred GST scheme An importing company successfully applies for approval under the deferral scheme. On 15 August, it imports goods from overseas and enters them for home consumption. The value of taxable importation (VoTI) is $100,000, with a GST liability of $10,000. The company can defer payment of this $10,000 until 21 September, when its BAS for the month of August is due. In that BAS, it can also claim a corresponding ITC.
 
-The deferral scheme is intended to overcome the cashflow disadvantage for importers of having to pay GST “up front”. The government estimates that it covers more than 95% in value of total business importations.
+The deferral scheme is intended to overcome the cashflow disadvantage for importers of having to pay GST "up front". The government estimates that it covers more than 95% in value of total business importations.
 
 - importers failing to account for GST on their on-sale of the imported goods
 
@@ -95,7 +95,7 @@ Similar rules apply in situations such as where the goods are accidentally destr
 
 If goods are imported under bond directly into a licensed customs warehouse, duty and taxes only become payable when they are removed from the warehouse.
 
-Customs broker’s fees GST would apply to the fees charged by a customs broker for processing and clearing importations. The business can claim this GST as an ITC in accordance with the rules set out at ¶9-010.
+Customs broker's fees GST would apply to the fees charged by a customs broker for processing and clearing importations. The business can claim this GST as an ITC in accordance with the rules set out at ¶9-010.
 
 *Refs: s 114-15), s
 114-20), s
@@ -103,7 +103,7 @@ Customs broker’s fees GST would apply to the fees charged by a customs broker 
 
 ## The GST is 10% of the value of the taxable importation calculated by adding:
 
-## The “place of consignment” in Australia is defined in s 195-1 as:
+## The "place of consignment" in Australia is defined in s 195-1 as:
 
 ## To be eligible for the deferral, an importer must:
 

@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3"
-division_title: "Treatment of payments, credits and RBA"
+division_title: "Treatment of payments, credits and RBA surpluses"
 subdivision: ""
 subdivision_title: ""
 section: "8AAZLB"
@@ -32,7 +32,7 @@ source_pdf: "vol01.pdf"
 **(3)**  To the extent that the amount is not applied under subsection (1), it gives rise to an excess non-RBA credit in favour of the entity that is equal to the part of the amount that is not applied.
 
 <a id="s8AAZLB-4"></a>
-**(4)**  The excess non-RBA credit relates to the RBA (if any) that the Commissioner determines and the balance of that RBA is adjusted in the entity’s favour by the amount of that credit. Authorised Version C2026C00170 registered 28/04/2026 matters
+**(4)**  The excess non-RBA credit relates to the RBA (if any) that the Commissioner determines and the balance of that RBA is adjusted in the entity's favour by the amount of that credit. matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

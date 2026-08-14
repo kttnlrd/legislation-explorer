@@ -9,11 +9,11 @@ paragraph: "None"
 
 Worked example: Primary production concessions Issue Tony Chesterton is a farmer based in western Victoria. He owned a herd of cattle on a farming property.
 
-In February 2025, because of a cattle disease control program, a large portion of Tony’s cattle were compulsorily destroyed. He received government compensation for the deaths amounting to $30,000.
+In February 2025, because of a cattle disease control program, a large portion of Tony's cattle were compulsorily destroyed. He received government compensation for the deaths amounting to $30,000.
 
-The purchase price of Tony’s compulsorily destroyed cattle that were purchased during the year ended 30 June 2025 was $5,000. The value of the remaining destroyed cattle for trading stock purposes at the start of the year was $15,000.
+The purchase price of Tony's compulsorily destroyed cattle that were purchased during the year ended 30 June 2025 was $5,000. The value of the remaining destroyed cattle for trading stock purposes at the start of the year was $15,000.
 
-Separately, Tony’s friend, Roger Wright, who has a farm in northern Victoria, experienced severe flooding in December 2024. As a result of the flood, a large number of Roger’s cattle were lost. Roger recovered an amount of $35,000 from his insurance company in respect of the lost cattle.
+Separately, Tony's friend, Roger Wright, who has a farm in northern Victoria, experienced severe flooding in December 2024. As a result of the flood, a large number of Roger's cattle were lost. Roger recovered an amount of $35,000 from his insurance company in respect of the lost cattle.
 
 Tony does not want to include all the profits arising to him in relation to the forced disposal of his animals in his tax return for the year ended 30 June 2025. Advise him of his options for deferral and calculate the amount that will be deferred. Also, advise Roger on how he will be assessed for his cattle losses. Set out the time limits within which each of them can make the necessary election.
 
@@ -43,23 +43,23 @@ As an alternative, Tony can elect to defer the tax profit by using it to reduce 
 
 - including in assessable income on the last day of the fifth income year after the disposal year any
 
-  unused tax profit on the disposal or death of the livestock. The “unused tax profit” is the tax profit
+  unused tax profit on the disposal or death of the livestock. The "unused tax profit" is the tax profit
 
   reduced by the sum of:
 
 (a) any amounts that the taxpayer chooses to include in assessable income for replacement animals bred by the taxpayer (s 385-115), and (b) the extent to which the amount paid or payable for the purchase of replacement animals is reduced according to the rules in s 385-120.
 
-Section 385-100(1) explains when a taxpayer engaged in a “primary production business” (s 995-1(1)) can make an election under Subdiv 385-E. Such an election can be made if the taxpayer disposes of “livestock” (s 995-1(1)) or they die because: (1) land is compulsorily acquired or resumed under an Act (2) a state or territory leases land for a cattle tick eradication campaign (3) pasture or fodder is destroyed by fire, drought or flood and the taxpayer intends to use the “proceeds of the disposal or death” (s 385-100(2)) mainly to buy replacement stock or to maintain breeding stock to replace the livestock (4) the livestock is compulsorily destroyed under an “Australian law” (s 995-1(1)) for the control of a “disease” (s 34-20(3)) or they die of such a disease, or (5) the taxpayer receives an official notification under an Australian law dealing with contamination of property. The contamination may be from a chemical, a metal or any other substance.
+Section 385-100(1) explains when a taxpayer engaged in a "primary production business" (s 995-1(1)) can make an election under Subdiv 385-E. Such an election can be made if the taxpayer disposes of "livestock" (s 995-1(1)) or they die because: (1) land is compulsorily acquired or resumed under an Act (2) a state or territory leases land for a cattle tick eradication campaign (3) pasture or fodder is destroyed by fire, drought or flood and the taxpayer intends to use the "proceeds of the disposal or death" (s 385-100(2)) mainly to buy replacement stock or to maintain breeding stock to replace the livestock (4) the livestock is compulsorily destroyed under an "Australian law" (s 995-1(1)) for the control of a "disease" (s 34-20(3)) or they die of such a disease, or (5) the taxpayer receives an official notification under an Australian law dealing with contamination of property. The contamination may be from a chemical, a metal or any other substance.
 
-Depending on the circumstances of the disposal or death of the livestock, the “proceeds on the disposal or death” may be one of 3 amounts (s 385-100(2)): a) Disposal of livestock in the ordinary course of business. If a taxpayer disposes of the livestock in the ordinary course of business, the proceeds of the disposal or death are the sum of: i. the amount received by the taxpayer as payment for the livestock or carcasses (including hides), and ii. any compensation received for the death or destruction from an “Australian government agency” (s 995-1(1)). b) Disposal of livestock outside the ordinary course of business. If a taxpayer disposes of the livestock outside the ordinary course of business, the proceeds of the disposal or death are the sum of: i. the market value of the livestock or carcasses at the time of disposal, and ii. any compensation received for their death or destruction from an Australian government agency.
+Depending on the circumstances of the disposal or death of the livestock, the "proceeds on the disposal or death" may be one of 3 amounts (s 385-100(2)): a) Disposal of livestock in the ordinary course of business. If a taxpayer disposes of the livestock in the ordinary course of business, the proceeds of the disposal or death are the sum of: i. the amount received by the taxpayer as payment for the livestock or carcasses (including hides), and ii. any compensation received for the death or destruction from an "Australian government agency" (s 995-1(1)). b) Disposal of livestock outside the ordinary course of business. If a taxpayer disposes of the livestock outside the ordinary course of business, the proceeds of the disposal or death are the sum of: i. the market value of the livestock or carcasses at the time of disposal, and ii. any compensation received for their death or destruction from an Australian government agency.
 
 If a taxpayer disposes of livestock outside the ordinary course of business for more than its market value, the proceeds of disposal for the purposes of s 385-100(2) do not include the difference between the actual disposal proceeds and the market value. c) Death of livestock. If the livestock dies and there is no disposal, the proceeds of the disposal or death are the compensation received for their death or destruction from an Australian government agency.
 
 In this case, as the livestock was compulsorily destroyed, the proceeds are the compensation received from the government ($30,000).
 
-Tony’s tax profit on the disposal or death of the cattle is $10,000. This amount is arrived at by subtracting from the proceeds of $30,000 the cost of the destroyed cattle purchased during the disposal year ($5,000) and the value for trading stock purposes at the start of the disposal year of the remaining destroyed cattle ($15,000).
+Tony's tax profit on the disposal or death of the cattle is $10,000. This amount is arrived at by subtracting from the proceeds of $30,000 the cost of the destroyed cattle purchased during the disposal year ($5,000) and the value for trading stock purposes at the start of the disposal year of the remaining destroyed cattle ($15,000).
 
-Tony elects to spread the tax profit over 5 years. Tony’s assessable income in the disposal year therefore includes an amount of $22,000 in respect of the death of the cattle. This amount is arrived at by reducing the proceeds of $30,000 by the tax profit of $10,000 and adding an amount of $2,000 (ie 20% of the tax profit of $10,000).
+Tony elects to spread the tax profit over 5 years. Tony's assessable income in the disposal year therefore includes an amount of $22,000 in respect of the death of the cattle. This amount is arrived at by reducing the proceeds of $30,000 by the tax profit of $10,000 and adding an amount of $2,000 (ie 20% of the tax profit of $10,000).
 
 Tony is entitled to a deduction of $20,000 being the cost of cattle acquired and the value of opening stock ($5,000 + $15,000).
 
@@ -67,9 +67,9 @@ For each of the 4 income years following the disposal year, Tony must include a 
 
 Subdivision 385-F Roger can look, instead, to Subdiv 385-F (s 385-130) which allows him to elect to spread his insurance recovery for loss of livestock over 5 years.
 
-Roger can elect to include only 20% of the insurance recovery in his assessable income for the income year of loss or destruction and to include 20% of the insurance recovery for each of the next 4 years. As a result, the full amount of the insurance recovery is included in Roger’s assessable income, but 80% of that amount is spread over the 4 years following the income year of disposal.
+Roger can elect to include only 20% of the insurance recovery in his assessable income for the income year of loss or destruction and to include 20% of the insurance recovery for each of the next 4 years. As a result, the full amount of the insurance recovery is included in Roger's assessable income, but 80% of that amount is spread over the 4 years following the income year of disposal.
 
-Therefore, Roger’s assessable income in the year of disposal and each of the following 4 income years will include an amount of $7,000 (ie 20% of the insurance recovery of $35,000).
+Therefore, Roger's assessable income in the year of disposal and each of the following 4 income years will include an amount of $7,000 (ie 20% of the insurance recovery of $35,000).
 
 While s 385-130 is designed primarily to provide relief in the case of livestock lost as the result of bush fires, its application is not limited to such cases. The section also applies to insurance moneys recovered in respect of any loss of livestock whether the result of flood, drought, fire, disease or any other disaster (and also applies to the loss of trees due to fire).
 

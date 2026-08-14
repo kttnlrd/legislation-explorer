@@ -3,18 +3,14 @@ ATO ID 2004/155
 ==================================================
 
 Goods and Services Tax
-        GST and supply of a package consisting of an education course and other supplies
-        FOI status: may be released
-
-
+ GST and supply of a package consisting of an education course and other supplies
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a government school, making a mixed supply that must be valued under section 9-80 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies overseas students with a package consisting of an English language course, airport pick up and delivery, accommodation, food and social activities?
@@ -31,8 +27,6 @@ The entity is registered for goods and services tax (GST) and the supply satisfi
 Reasons for Decision
 Subsection 9-80(1) of the GST Act provides that if a supply is:
 
-
-
 • partly a taxable supply, and
 • partly a supply that is GST-free or input taxed,
 
@@ -45,8 +39,6 @@ The entity is registered for GST and its supply of the package satisfies the oth
 English language course:
 Paragraph 38-85(a) of the GST Act provides that a supply is GST-free if the supply is an education course. Section 195-1 of the GST Act defines 'education course' to include, amongst other things, an English language course for overseas students.
 An 'English language course for overseas students' is defined in section 195-1 of the GST Act to mean a course of study or education supplied to overseas students that:
-
-
 
 • includes study or education in the English language, and
 • is supplied by an entity that is accredited to provide such courses by a State or Territory authority responsible for their accreditation.
@@ -66,8 +58,6 @@ The food is supplied and consumed on the motel's premises. Therefore, the supply
 Social activities:
 Section 38-90 of the GST Act provides that a supply is GST-free if it is a supply of an excursion or field trip, but only if the excursion or field trip:
 
-
-
 • is directly related to the curriculum of an education course, and
 • is not predominantly recreational.
 
@@ -76,13 +66,12 @@ In summary:
 The supply of the English language course included in the entity's package is GST-free, while the supplies of the airport pick up and delivery, accommodation, food and social activities are taxable supplies under section 9-5 of the GST Act. Therefore, the entity is making a mixed supply of a GST-free supply and taxable supplies that must be valued under section 9-80 of the GST Act when it supplies overseas students with the package.
 Note: Subsection 9-80(2) of the GST Act provides that the value of the mixed supply that represents the taxable supply is calculated in accordance with the following formula:
 
-
 (Price of the supply * 10) / (10 + Taxable proportion)
 
 where: 'Taxable proportion' is the proportion of the value of the supply that represents the value of the taxable supply, as expressed as a number between '0' and '1'.
 GSTR 2001/8 provides guidance on the apportionment of consideration for a supply that includes taxable and non-taxable parts.
 Date of decision:
-         6 March 2003
+  6 March 2003
 
 Legislative References:
 
@@ -95,29 +84,28 @@ Goods and Services Tax Ruling GSTR 2001/8
 Keywords
 
 Goods and services tax
-          GST free
-          GST education
-          Education course administrative services
-          Education courses
-          English language course for overseas students
-          Education excursions
-          GST Food
-          Prepared foods
-          GST property & construction
-          GST commercial residential premises
-          GST supplies & acquisitions
-          GST supply
-          Taxable supply
-
+ GST free
+ GST education
+ Education course administrative services
+ Education courses
+ English language course for overseas students
+ Education excursions
+ GST Food
+ Prepared foods
+ GST property & construction
+ GST commercial residential premises
+ GST supplies & acquisitions
+ GST supply
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         3485643
+  3485643
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         20 February 2004
+  20 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

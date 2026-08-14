@@ -11,4 +11,4 @@ The period during which the Commissioner may amend an assessment for most indivi
 
 Taxpayers with more complex tax aﬀairs are subject to a 4-year amendment period. These include businesses that are not small business entities or medium business entities (¶7-050). The period for review and amendment of assessments involving arrangements with a dominant tax avoidance purpose is also 4 years. For details of the exclusions from the standard 2-year period, see ¶25-320.
 
-Eligibility for the standard 2-year amendment period depends on the actual tax aﬀairs of the taxpayer for that year, and not the taxpayer’s or the Commissioner’s understanding of the status of the aﬀairs at the time of the assessment.
+Eligibility for the standard 2-year amendment period depends on the actual tax aﬀairs of the taxpayer for that year, and not the taxpayer's or the Commissioner's understanding of the status of the aﬀairs at the time of the assessment.

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income tax liability**
 
-**(1)**  A person’s income tax liability for a tax year must be calculated, and satisfied by the person, under subpart BC (Calculating and satisfying income tax liabilities).
+**(1)**  A person's income tax liability for a tax year must be calculated, and satisfied by the person, under subpart BC (Calculating and satisfying income tax liabilities).
 
 **Non-filing taxpayer**
 

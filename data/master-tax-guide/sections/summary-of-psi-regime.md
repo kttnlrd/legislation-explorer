@@ -7,7 +7,7 @@ paragraph: "¶30-600"
 ---
 # Summary of PSI regime ¶30-600
 
-A special tax regime for personal services income (PSI) applies to prevent individuals from reducing their tax by alienating their PSI to an associated company, partnership, trust or individual, or by claiming inappropriate “business” deductions.
+A special tax regime for personal services income (PSI) applies to prevent individuals from reducing their tax by alienating their PSI to an associated company, partnership, trust or individual, or by claiming inappropriate "business" deductions.
 
 - PSI is included in the assessable income of the individual whose personal eﬀorts or skills
 
@@ -19,7 +19,7 @@ A special tax regime for personal services income (PSI) applies to prevent indiv
 
   so that they broadly correspond to the deductions available to employees, eg expenses relating to
 
-  the individual’s private residence, certain travel expenses and payments made to spouses or other
+  the individual's private residence, certain travel expenses and payments made to spouses or other
 
   associates (¶30-620, ¶30-630)
 
@@ -43,7 +43,7 @@ Relationship to general anti-avoidance rules The PSI regime does not overrule th
 
 The ATO has issued draft guidance (Draft PCG 2024/D2) on its compliance approach to the potential application of ITAA36 Pt IVA to an alienation arrangement where PSI of an individual is derived through a personal services entity that is conducting a PSB.
 
-Draft PCG 2024/D2 provides practical guidance on the types of alienation arrangements that the ATO considers to be of “low” or “higher” risk of Pt IVA applying and the likelihood of the ATO reviewing those arrangements. Guidance covering the administration and application of Pt IVA more broadly is available in PS LA 2005/24.
+Draft PCG 2024/D2 provides practical guidance on the types of alienation arrangements that the ATO considers to be of "low" or "higher" risk of Pt IVA applying and the likelihood of the ATO reviewing those arrangements. Guidance covering the administration and application of Pt IVA more broadly is available in PS LA 2005/24.
 
 *Refs: ITAA97 s 84-10)*
 

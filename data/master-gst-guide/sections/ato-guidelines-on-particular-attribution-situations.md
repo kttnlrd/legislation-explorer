@@ -41,7 +41,7 @@ Coin- or note-operated machines Where transactions are carried out through a coi
 
 This will typically apply to machines used for food and drink vending, games and amusements, access to parking or toll-ways, photocopying, internet kiosks, car washes, laundry services and automatic photo booths.
 
-Where GST applies, the purchaser’s entitlement to input tax credits will be determined in the usual way.
+Where GST applies, the purchaser's entitlement to input tax credits will be determined in the usual way.
 
 Typically, the entitlement, if any, will arise when payment is made.
 
@@ -85,7 +85,7 @@ Lay-bys For the special attribution rules that apply to accruals basis retailers
 
 Transactions falling under more than one rule It may happen that a single transaction is covered by more than one of these special attribution rules. In this case, the Commissioner considers that the rule which results in later attribution should apply (GST Ruling GSTR 2000/29; Goods and Services Tax: Application of Particular Attribution Rules Determinations (Determination) 2017).
 
-Situations where normal rules will apply The Commissioner does not intend to vary the normal attribution rules in the case of goods sold “on approval” or on a “sale or return” basis, or floor plan arrangements (GST Ruling GSTR 2000/29). The effect is as follows: Goods sold on “approval” or on a “sale or return” basis: the seller is not normally charged or required to make payment until the ownership of the goods changes. If this is the case, GST or input tax credits will, under the normal rules, not be attributed before title to the goods passes (¶17-422). The Commissioner regards this as appropriate.
+Situations where normal rules will apply The Commissioner does not intend to vary the normal attribution rules in the case of goods sold "on approval" or on a "sale or return" basis, or floor plan arrangements (GST Ruling GSTR 2000/29). The effect is as follows: Goods sold on "approval" or on a "sale or return" basis: the seller is not normally charged or required to make payment until the ownership of the goods changes. If this is the case, GST or input tax credits will, under the normal rules, not be attributed before title to the goods passes (¶17-422). The Commissioner regards this as appropriate.
 
 Floor plan arrangements: these typically apply to motor vehicles, caravans, power boats, pianos and jewellery. Under the normal attribution rules, the manufacturer, distributor or financier attributes GST to the tax period in which it issues an invoice or receives any part of the consideration from the dealer. This will usually be when the dealer has secured a customer and acquired title to the goods (¶17-422). Similarly, the dealer attributes its input tax credit to the same tax period. (This assumes neither party is on the cash basis.) The Commissioner regards this as appropriate.
 

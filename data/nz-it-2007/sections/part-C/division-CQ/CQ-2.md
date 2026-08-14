@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 - (bb) the person is not a portfolio investment entity; and
 
-- (c) the person has an income interest in the foreign company for the accounting period, under sections EX 8 to EX 13 (which relate to calculating a person’s income interest); and
+- (c) the person has an income interest in the foreign company for the accounting period, under sections EX 8 to EX 13 (which relate to calculating a person's income interest); and
 
 - (d) at any time in the accounting period, the person is a New Zealand resident who is not a transitional resident; and
 
-- (e) the person’s income interest is 10% or more for the part of the accounting period during which the person is a New Zealand resident who is not a transitional resident, under sections EX 14 to EX 17 (which relate to the 10% threshold); and
+- (e) the person's income interest is 10% or more for the part of the accounting period during which the person is a New Zealand resident who is not a transitional resident, under sections EX 14 to EX 17 (which relate to the 10% threshold); and
 
 - (f) either—
 
@@ -50,9 +50,9 @@ compilation_date: 2026-06-06
 
 **(2B)**  If a person and a non-attributing active CFC or non-attributing Australian CFC meet the requirements of subsection (1)﻿(a) to (e) and the CFC derives income from personal services that is an attributable CFC amount under section EX 20B(3)﻿(h) (Attributable CFC amount), the person has attributed CFC income from the CFC equal to the product of—
 
-- (a) the person’s income interest in the CFC:
+- (a) the person's income interest in the CFC:
 
-- (b) the amount by which the CFC’s income from personal services exceeds the expenditure incurred by the CFC in deriving the income from personal services.
+- (b) the amount by which the CFC's income from personal services exceeds the expenditure incurred by the CFC in deriving the income from personal services.
 
 **Treated as derived while person New Zealand resident**
 

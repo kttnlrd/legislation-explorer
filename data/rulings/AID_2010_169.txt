@@ -3,25 +3,19 @@ ATO ID 2010/169
 ==================================================
 
 Superannuation
-        Self managed superannuation fund: limited recourse borrowing arrangement - refinancing
-        FOI status: may be released
-
-
+ Self managed superannuation fund: limited recourse borrowing arrangement - refinancing
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a self managed superannuation fund (SMSF) trustee that entered into a limited recourse borrowing arrangement before 7 July 2010, refinance the arrangement on or after that date without contravening the general borrowing prohibition in subsection 67(1) of the Superannuation Industry (Supervision) Act 1993 (SISA)?
 Decision
 Yes, provided
-
-
 
 •the money borrowed under the refinance arrangement is applied solely for the purpose of replacing the financing arrangement for the earlier arrangement, and
 •the refinanced limited recourse borrowing arrangement meets the requirements of section 67A of the SISA (if the refinancing occurred on or after 7 July 2010), and
@@ -38,15 +32,11 @@ One such exception is provided for by subsection 67(4A) of the SISA (applying to
 Another exception is provided for by section 67A if the SISA (applying to limited recourse borrowing arrangements entered into on or after 7 July 2010)
 For the purposes of section 67 of the SISA, a refinanced limited recourse borrowing arrangement is regarded as a new arrangement entered into at the time of refinancing. In this case
 
-
-
 •the refinancing occurred on 15 July 2010, (and therefore section 67A of the SISA applies), and
 •the refinanced limited recourse borrowing arrangement otherwise meets the requirements of section 67A of the SISA.
 
 The question to be considered is whether using the money borrowed from the new lender to extinguish the previous arrangement and substitute the refinanced arrangement over the underlying asset means that the borrowed money 'is or has been applied for the acquisition of a single acquirable asset' as required in paragraph 67A(1)(a) of the SISA. Subparagraph 67A(1)(a)(ii) specifically includes money applied to refinance a borrowing over a previous limited recourse borrowing arrangement that met the requirements of the SISA and in relation to a single acquirable asset (and no other acquirable asset).
 'Apply' is relevantly defined in the Macquarie Dictionary (Macquarie Dictionary on CD-ROM Version 5.0.0 01/10/01) as follows:
-
-
 
 4.to devote to some specific purpose: to apply a sum of money to pay a debt.
 
@@ -55,10 +45,10 @@ In this case the previous limited recourse borrowing arrangement for the acquisi
 The requirements of section 67A of the SISA in respect of the refinanced limited recourse borrowing arrangement are satisfied.
 Placing an existing fund asset into a limited recourse borrowing arrangement where the asset is subject to a charge would contravene the operating standards, specifically the requirement in regulation 13.14 of the Superannuation Industry (Supervision) Regulations 1994 that an SMSF trustee cannot give a charge over or in relation to an asset of the fund. In this case the underlying asset was transferred directly to the new holding trust, and not temporarily acquired by the SMSF trustee, so the refinanced arrangement is not over an asset that the SMSF trustee had already acquired.
 Date of decision:
-         20 July 2010
+  20 July 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -68,21 +58,20 @@ Superannuation Industry (Supervision) Regulations 1994   regulation 13.14
 Keywords
 
 Self managed superannuation funds
-          SMSF borrowings
-          SMSF charge over assets
-
+ SMSF borrowings
+ SMSF charge over assets
 
 Siebel/TDMS Reference Number:
-         1-1WISSDB; 1-5PIZ31F
+  1-1WISSDB; 1-5PIZ31F
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         24 September 2010
+  24 September 2010
 
 Date reviewed:
-         28 July 2014
+  28 July 2014
 
 ISSN:
-          1445-2782
+ 1445-2782

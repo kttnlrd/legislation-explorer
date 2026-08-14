@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Exemption**
 
-**(2)**  The share user’s rights in the original share and the identical share are not attributing interests in a FIF in an income year.
+**(2)**  The share user's rights in the original share and the identical share are not attributing interests in a FIF in an income year.
 
 **Exclusion**
 

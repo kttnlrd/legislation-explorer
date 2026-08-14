@@ -18,13 +18,13 @@ compilation_date: 2026-06-06
 
 - (b) a single New Zealand resident holds a control interest of 40% or more unless at the same time—
 
-  - (i) the person’s control interest is less than or equal to a control interest in the same category held by another person; and
+  - (i) the person's control interest is less than or equal to a control interest in the same category held by another person; and
 
   - (ii) the other person is not a New Zealand resident; and
 
   - (iii) the other person is not associated with the New Zealand resident:
 
-- (c) there is a group of 5 or fewer New Zealand residents who can control the exercise of the shareholder decision-making rights for the company and, as a result, control the company’s affairs.
+- (c) there is a group of 5 or fewer New Zealand residents who can control the exercise of the shareholder decision-making rights for the company and, as a result, control the company's affairs.
 
 **Exception**
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Status applies for whole accounting period**
 
-**(3)**  If any of the tests in subsection (1) is met at any time in a foreign company’s accounting period and the exception in subsection (2) does not apply at the time, the company is treated as a CFC for the whole of the accounting period.
+**(3)**  If any of the tests in subsection (1) is met at any time in a foreign company's accounting period and the exception in subsection (2) does not apply at the time, the company is treated as a CFC for the whole of the accounting period.
 
 *Defined in this Act: accounting period, associated person, CFC, company, control interest, control interest category, foreign company, foreign investment vehicle, life insurance, New Zealand resident, portfolio investment entity, shareholder decision-making right*
 

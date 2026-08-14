@@ -3,21 +3,16 @@ ATO ID 2008/77
 ==================================================
 
 Superannuation
-        Excess Contributions Tax: notional taxed contributions - meaning of defined benefit member - person receiving a defined benefit pension
-        FOI status: may be released
-
+ Excess Contributions Tax: notional taxed contributions - meaning of defined benefit member - person receiving a defined benefit pension
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a person who is receiving a defined benefit pension from a defined benefit superannuation fund a 'defined benefit member' of the fund for the purposes of regulation 292-170.02 of the Income Tax Assessment Regulations 1997 (ITAR 1997)?
@@ -35,7 +30,6 @@ There is no definition of 'defined benefit member' in regulation 292-170.02 of t
 It is noted that there is a definition of 'defined benefit member' in subsection 3.6(2B) of the 'New entrant age' section of Part 3 of Schedule 1A, and that definition excludes members that are receiving only pension benefits from the fund, and those that have deferred their benefit entitlement in the fund. That definition applies only for the purposes of section 3.6 of Part 3 of Schedule 1A of the ITAR 1997. The specific exclusion of these members indicates that members in receipt of a defined benefit pension from the fund are meant to be included as defined benefit members for other purposes.
 The XYZ defined benefit fund which has 52 members, 4 of whom are accruing benefits and 48 of whom are receiving pensions has more than 5 defined benefit members. Accordingly, the XYZ defined benefit fund must use Schedule 1A of the ITAR 1997 to determine the notional taxed contributions for the members of the fund.
 
-
 Note1: that it is possible that some or all of the 48 members receiving pension benefits may satisfy the circumstances set out in regulation 292-170.04 of the ITAR 1997 which states when the notional taxed contributions in respect of the members' defined benefit interest will be considered to be nil.
 
 Note 2: From 1 July 2013, the rules for determining concessional contributions for defined benefit interests in section 292-170 have been repealed as part of the repeal of the excess contributions tax. These rules are now contained in section 291-170 of the ITAA 1997. However, the regulations made for the purposes of former section 292-170 of the ITAA 1997 continue to apply to determine notional taxed contributions for the purposes of section 291-170. Saving provisions in Subdivision 291-C of the ITAA 1997 ensure the continuing application of the excess concessional contributions tax system for the 2012-13 and prior financial years, despite the repeal of former section 292-170 of the ITAA 1997.
@@ -51,15 +45,15 @@ Reason for Decision
 Section 292-170 of the ITAA 1997 has been repealed with effect from 1 July 2013 as part of the repeal of the excess contributions tax. Saving provisions contained in Subdivision 291-C of the ITAA 1997 ensure the continuing application of the excess concessional contributions tax system for the 2012-13 and prior financial years, despite the repeal of former section 292-170 of the ITAA 1997.
 
 Date of decision:
-         1 May 2008
+  1 May 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
 Income Tax Assessment Act 1997   subsection 291-170(1)   subsection 292-170(1)
-          Income Tax Regulations 1997   regulation 292-170.02   subregulation 292-170.02(2)   regulation 292-170.04   regulation 995-1.01   Schedule 1A   subsection 3.6(2B) of Part 3 of Schedule 1A
+ Income Tax Regulations 1997   regulation 292-170.02   subregulation 292-170.02(2)   regulation 292-170.04   regulation 995-1.01   Schedule 1A   subsection 3.6(2B) of Part 3 of Schedule 1A
 
 Related ATO Interpretative Decisions
 
@@ -69,33 +63,29 @@ Related ATO Interpretative Decisions
 Keywords
 
 Concessional contributions
-          Defined benefit superannuation funds
-          Excess concessional contributions
-          Superannuation excess contributions tax
-
+ Defined benefit superannuation funds
+ Excess concessional contributions
+ Superannuation excess contributions tax
 
 Siebel/TDMS Reference Number:
-         1-55Z2C7R
+  1-55Z2C7R
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         30 May 2008
+  30 May 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  1 May 2008

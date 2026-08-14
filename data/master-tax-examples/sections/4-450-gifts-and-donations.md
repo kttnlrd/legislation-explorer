@@ -19,13 +19,13 @@ Worked example: Gifts and donations Issue Albert Dondas made the following chari
 
 - purchase of a ticket to attend the charitable dinner above, which was $125
 
-- several un-receipted donations to “bucket appeals” of less than $10, and
+- several un-receipted donations to "bucket appeals" of less than $10, and
 
 - a donation of a painting that Albert had acquired several years earlier to the National Gallery of
 
   Victoria, which was valued at the date of donation at $10,000.
 
-Albert is completing his tax return for the year ended 30 June 2025 and seeks your advice on the tax deductibility of the above amounts. Albert’s assessable income for the year ended 30 June 2025 (ignoring any deduction for the above amounts) was $75,000.
+Albert is completing his tax return for the year ended 30 June 2025 and seeks your advice on the tax deductibility of the above amounts. Albert's assessable income for the year ended 30 June 2025 (ignoring any deduction for the above amounts) was $75,000.
 
 Advise Albert.
 
@@ -35,7 +35,7 @@ A deduction for charitable gifts or donations can only be claimed if the recipie
 
 Most major charities are DGRs, including the Australian Diabetes Society.
 
-When a “gift” is made, the taxpayer does not receive a material benefit in return. This is contrasted with a contribution (eg purchasing a ticket to attend a fundraising dinner) where a benefit is received in return.
+When a "gift" is made, the taxpayer does not receive a material benefit in return. This is contrasted with a contribution (eg purchasing a ticket to attend a fundraising dinner) where a benefit is received in return.
 
 To claim a tax deduction for a gift, it must meet these conditions (ITAA97 ss 30-1 to 30-320):
 
@@ -53,9 +53,9 @@ The receipt that the charitable organisation provides, which will be needed to s
 
 Accordingly, Albert can claim a deduction for the donation to the Australian Diabetes Society.
 
-For donations over $2 made through the internet or by phone, web receipts or credit card statements can be used to substantiate the deduction. If the donation was made through third parties, such as banks and retail outlets, the receipt that the third party provided is also sufficient. If the gift was made through “workplace- giving”, the payment summary should show the amount donated (Law Administration Practice Statement PS LA 2002/15).
+For donations over $2 made through the internet or by phone, web receipts or credit card statements can be used to substantiate the deduction. If the donation was made through third parties, such as banks and retail outlets, the receipt that the third party provided is also sufficient. If the gift was made through "workplace- giving", the payment summary should show the amount donated (Law Administration Practice Statement PS LA 2002/15).
 
-For “bucket collections” (eg for bushfire or flood victims) of $2 or more, a donation can be claimed as a tax deduction if the contribution was made without a receipt, provided the contribution does not exceed $10. As such, Albert will be able to claim a deduction for his donations to the “bucket appeals” as the amount of each donation was less than $10.
+For "bucket collections" (eg for bushfire or flood victims) of $2 or more, a donation can be claimed as a tax deduction if the contribution was made without a receipt, provided the contribution does not exceed $10. As such, Albert will be able to claim a deduction for his donations to the "bucket appeals" as the amount of each donation was less than $10.
 
 It is not possible to claim as a gift or donation anything that carries with it a personal benefit, such as:
 
@@ -105,6 +105,6 @@ In relation to the gift of a painting to the National Gallery of Victoria, ITAA9
 
 Therefore, Albert can claim a deduction for the painting provided he obtains 2 written valuations from approved valuers as outlined above.
 
-While not relevant in this case, it is worth noting that a deduction for a gift or donation cannot add to or create a tax loss. However, a donor taxpayer can choose to spread the tax deduction for a donation over a period of up 5 financial years, by using the “Election to spread gift deduction” form (NAT 73763).
+While not relevant in this case, it is worth noting that a deduction for a gift or donation cannot add to or create a tax loss. However, a donor taxpayer can choose to spread the tax deduction for a donation over a period of up 5 financial years, by using the "Election to spread gift deduction" form (NAT 73763).
 
 *Refs: s 30-1, ITAA97 s 30-228), ITAA97 s 30-242), ITAA97 s 30-15(1), ITAA97 s 30-200*

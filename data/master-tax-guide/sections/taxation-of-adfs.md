@@ -11,7 +11,7 @@ The taxation of ADFs is governed by Div 295 of ITAA97 and other ITAA36 and ITAA9
 
 An entity is eligible for concessional tax treatment as a complying ADF under Div 295 if:
 
-- it is an “approved deposit fund” (ie an indeﬁnitely continuing fund that is maintained by a body
+- it is an "approved deposit fund" (ie an indeﬁnitely continuing fund that is maintained by a body
 
   corporate registrable superannuation entity (RSE) licensee solely for approved purposes (¶13-400))
 
@@ -27,11 +27,11 @@ An ADF that does not satisfy the conditions to be a complying ADF is taxed as a 
 
 The taxable income of an ADF is worked out using the method statement in s 295-10 (¶13-120) as if the trustee were a taxpayer and a resident.
 
-The taxable income of a complying ADF is split into a non-arm’s length component and a low tax component.
+The taxable income of a complying ADF is split into a non-arm's length component and a low tax component.
 
-The non-arm’s length component for an income year is the fund’s “non-arm’s length income” (NALI: ¶13-170) for that year less any deductions to the extent that they are attributable to that income. The low tax component is any remaining part of its taxable income for the income year (ITAA97 ss 295-545; 295-550).
+The non-arm's length component for an income year is the fund's "non-arm's length income" (NALI: ¶13-170) for that year less any deductions to the extent that they are attributable to that income. The low tax component is any remaining part of its taxable income for the income year (ITAA97 ss 295-545; 295-550).
 
-For a complying ADF, the low tax component is taxed at 15% and the non-arm’s length component is taxed at 45%. By contrast, the whole of the taxable income of a non-complying ADF is taxed at 45% (ITRA s 27(1) (b), (2)).
+For a complying ADF, the low tax component is taxed at 15% and the non-arm's length component is taxed at 45%. By contrast, the whole of the taxable income of a non-complying ADF is taxed at 45% (ITRA s 27(1) (b), (2)).
 
 The ITAA97 provisions governing deductions for superannuation funds similarly apply to ADFs (¶13-150).
 
@@ -59,11 +59,11 @@ Other tax rules for ADFs A complying ADF is subject to the following taxation tr
 
   payment of levies (¶13-150)
 
-- complying ADFs are exempted from the trust loss and debt reduction provisions, being “excepted
+- complying ADFs are exempted from the trust loss and debt reduction provisions, being "excepted
 
-  trusts” (¶6-262).
+  trusts" (¶6-262).
 
-A continuously complying ﬁxed interest ADF’s income that is attributable to deposits of certain eligible depositors held in the fund at 25 May 1988 may be exempt from tax (ITTPA s 295-390). Stringent conditions and restrictions apply, such as the nature of the fund’s investments, the age of depositors (who must be at least 50 years at 25 May 1988) and the source of the deposits.
+A continuously complying ﬁxed interest ADF's income that is attributable to deposits of certain eligible depositors held in the fund at 25 May 1988 may be exempt from tax (ITTPA s 295-390). Stringent conditions and restrictions apply, such as the nature of the fund's investments, the age of depositors (who must be at least 50 years at 25 May 1988) and the source of the deposits.
 
 A non-complying ADF is not entitled to the tax concessions available to complying ADFs as noted above.
 

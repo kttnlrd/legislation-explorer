@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Valuation method for right to acquire share under share-lending arrangement**
 
-**(2)**  Despite subsection (1), a share supplier’s share-lending right has the value at the end of each income year that is equal to the amount described in subsection (4).
+**(2)**  Despite subsection (1), a share supplier's share-lending right has the value at the end of each income year that is equal to the amount described in subsection (4).
 
 **Valuation method for share acquired by share supplier under share-lending arrangement**
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Amount**
 
-**(4)**  For subsections (2) and (3), the amount is the value of the original share at cost, determined by applying this section to the share immediately before the share supplier’s disposal of the share under the relevant share-lending arrangement.
+**(4)**  For subsections (2) and (3), the amount is the value of the original share at cost, determined by applying this section to the share immediately before the share supplier's disposal of the share under the relevant share-lending arrangement.
 
 **Valuation when disposal of shares acquired under taxable bonus issue**
 

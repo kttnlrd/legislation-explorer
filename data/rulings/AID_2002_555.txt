@@ -3,23 +3,18 @@ ATO ID 2002/555
 ==================================================
 
 Income Tax
-        Balancing Adjustment Roll-Over Relief for pre-CGT 'loss' assets
-        FOI status: may be released
-
+ Balancing Adjustment Roll-Over Relief for pre-CGT 'loss' assets
+ FOI status: may be released
 
 This ATO ID is withdrawn as it does not reflect the ATO view due to legislative changes contained in the New Business Tax System (Consolidation) Act (No. 1) 2002.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is rollover relief available under Subdivision 41-A of the Income Tax Assessment Act 1997 ('ITAA 1997') where Company A disposes of a unit of plant, acquired before 20 September 1985, to Company B, which is part of the same wholly owned group and the disposal gives rise to a balancing adjustment deduction under section 42-195 of the ITAA 1997?
@@ -30,18 +25,14 @@ Company A is a member of a wholly-owned group of Australian resident companies t
 Reasons for Decision
 Subdivision 41-A of the ITAA 1997 provides roll-over relief for a disposal of plant between Australian resident companies within the same wholly-owned group where :
 
-
-
 •same asset roll-over is available under Subdivision 126-B of the ITAA 1997
-                and
+ and
 
 •both companies choose to obtain it.
 
 For plant acquired before 20 September 1985 same asset roll-over is available under subparagraph 126-55(1)(a)(ii) of the ITAA 1997
 However, section 41-14 of the ITAA 1997 provides that roll-over relief under Subdivision 41-A of the ITAA 1997 does not apply in respect of a disposal where Subdivision 170-D of the ITAA 1997 applies.
 Section 170-255 of the ITAA 1997 contains the conditions for the application of that Subdivision. The conditions relevant to the facts provided are:
-
-
 
 •There is an event (the deferral event) involving a company (the originating company), and another entity (ie. Company B) as per paragraph 170-255(1)(a) of the ITAA 1997.
 •The deferral event would have resulted in the originating company (Company A) becoming entitled to a deduction in respect of the disposal of a CGT asset as per subparagraph 170-255(1)(b)(ii) of the ITAA 1997.
@@ -50,8 +41,6 @@ Section 170-255 of the ITAA 1997 contains the conditions for the application of 
 
 Applying these conditions to the facts:-
 
-
-
 (a)the disposal of the item of plant is a deferral event involving Company A (the originating company) and Company B (another entity) ;
 (b)this deferral event has resulted in the Company A becoming entitled to a deduction (a balancing adjustment deduction of $20,000) in respect of the disposal of a CGT asset (the item of plant);
 (c)Company A is a resident at the time of the deferral event; and
@@ -59,10 +48,10 @@ Applying these conditions to the facts:-
 
 Accordingly, the conditions for application of Subdivision 170-D of the ITAA 1997 have been met in these circumstances. Therefore roll-over relief for a disposal of plant under Subdivision 41-A of the ITAA 1997 is not available, notwithstanding that same asset rollover is available under Subdivision 126-B of the ITAA 1997.
 Date of decision:
-         11 March 2002
+  11 March 2002
 
 Year of income:
-           Year ended 30 June 2001
+  Year ended 30 June 2001
 
 Legislative References:
 
@@ -71,34 +60,30 @@ Income Tax Assessment Act 1997   Subdivision 41-A   section 41-14   sec
 Keywords
 
 Group company transfers
-          Group company loss transfers
-          Balancing adjustment rollover relief
-          Capital Allowances CoE
-          Additional balancing adjustment amount
-          Balancing adjustment event
-          Balancing adjustment offset
-          Disposal of plant
-
+ Group company loss transfers
+ Balancing adjustment rollover relief
+ Capital Allowances CoE
+ Additional balancing adjustment amount
+ Balancing adjustment event
+ Balancing adjustment offset
+ Disposal of plant
 
 Business Line:
-         Centres of Expertise Capital Allowances
+  Centres of Expertise Capital Allowances
 
 Date of publication:
-         31 May 2002
+  31 May 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 11 March 2002

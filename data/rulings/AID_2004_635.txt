@@ -3,18 +3,14 @@ ATO ID 2004/635
 ==================================================
 
 Income Tax
-        Demerger: direct value shift - consequences for demerging entity under Division 725
-        FOI status: may be released
-
-
+ Demerger: direct value shift - consequences for demerging entity under Division 725
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are there capital gains consequences for a demerging entity under Division 725 of the Income Tax Assessment Act 1997 (ITAA 1997) if, under a demerger as defined in section 125-70 of the ITAA 1997, a direct value shift happens as a result of new interests in the demerged entity being issued at a discount?
@@ -29,8 +25,8 @@ Reasons for Decision
 Sections 125-165 and 125-170 of the ITAA 1997 are specific provisions which determine the consequences for the demerging entity as a result of any value shift, whether indirect or direct (as in this case), which happens under a demerger. This is confirmed by the note to subsection 125-170(2) of the ITAA 1997 which states:
 
 The rules in section 125-165 and this section deal with
-              any value shift that might occur under the demerger
-               (emphasis added) and avoid the need for the general value shifting regime to apply.
+ any value shift that might occur under the demerger
+ (emphasis added) and avoid the need for the general value shifting regime to apply.
 
 The interpretation is also supported by the explanatory material for New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Bill 2002 where it is stated at paragraph 15.67 of the revised Explanatory Memorandum:
 
@@ -38,10 +34,10 @@ Other cost base adjustment rules do not apply if a CGT asset's reduced cost base
 
 Accordingly, the demerging entity Company A will not be required to make cost base and reduced cost base adjustments under Division 725 of the ITAA 1997 and will not make a capital gain under capital gains tax (CGT) event K8 in section 104-250 of the ITAA 1997 as a result of the direct value shift. However, a capital loss that is later realised on the interest that Company A holds in the demerged entity Company B will be reduced to the extent to which it is reasonably attributable to a reduction in value that happens under the demerger (section 125-165 of the ITAA 1997).
 Date of decision:
-         16 July 2004
+  16 July 2004
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -56,24 +52,22 @@ Other References:
 
  Revised Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Bill 2002
 
-
 Keywords
 
 Capital loss reduction for value shift
-          CGT demerger exemption
-          CGT exemptions
-          Cost base adjustments for value shift
-          Demerger subsidiary
-
+ CGT demerger exemption
+ CGT exemptions
+ Cost base adjustments for value shift
+ Demerger subsidiary
 
 Siebel/TDMS Reference Number:
-         3631053
+  3631053
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 July 2004
+  30 July 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -3,18 +3,14 @@ ATO ID 2004/296
 ==================================================
 
 Income Tax
-        Consolidation - GST payable and assessable income
-        FOI status: may be released
-
-
+ Consolidation - GST payable and assessable income
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where GST is payable by a subsidiary member of a consolidated group, is section 17-5 of the Income Tax Assessment Act 1997 (ITAA 1997) taken into consideration by the head company in working out the amount of the income tax liability or loss of the head company?
@@ -30,10 +26,10 @@ Subsidiary members of the group are consequently treated as parts of the head co
 Section 17-5 of the ITAA 1997 specifically excludes the GST payable on a taxable supply from being included in the assessable income or exempt income of a taxpayer.
 Accordingly, the GST payable by the subsidiary company is excluded from the assessable income of the head company of the group for the core purposes of working out the amount of the head company's income tax liability or loss. Thus, the GST payable by Company B is excluded from Company A's assessable or exempt income.
 Date of decision:
-         25 March 2004
+  25 March 2004
 
 Year of income:
-           30 June 2003
+  30 June 2003
 
 Legislative References:
 
@@ -42,21 +38,20 @@ Income Tax Assessment Act 1997   Section 17-5   Section 701-1   Subsect
 Keywords
 
 Consolidation
-          Consolidation - tax liabilities
-          Goods and services tax
-          Head company
-          Single entity rule
-          Assessable income
-
+ Consolidation - tax liabilities
+ Goods and services tax
+ Head company
+ Single entity rule
+ Assessable income
 
 Siebel/TDMS Reference Number:
-         3620405
+  3620405
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         2 April 2004
+  2 April 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

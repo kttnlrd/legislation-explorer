@@ -260,7 +260,7 @@ of the entity. This provision requires that the rate is worked out on the basis 
 66. Section 815-130 is concerned with the relevance of the actual commercial or financial relations to the identification of the arm's length conditions. This purpose is not affected by the operation of section 815-140, which operates only after any arm's length conditions relevant to determining and applying a rate to a debt interest are identified.
 67. This means that, whatever effect the operation of section 815-130 has upon the identification of arm's length conditions, including where it affects costs which are worked out by applying a rate to a debt interest (such as applying a rate of interest to a loan amount, or applying a rate to the amount of debt covered by a finance guarantee), those arm's length conditions prevail for the purposes of determining the arm's length rate under Subdivision 815-B. Section 815-140 merely operates to modify the way in which an entity to which section 815-115 applies works out its taxable income or tax loss, by requiring that the arm's length rate is applied to the debt interest actually issued, rather than to the amount of debt that the tested entity would have had if the arm's length conditions operated.
 68. The following example is intended purely to illustrate the interaction of section 815-130 with the operation of section 815-140. It is not intended to suggest that a particular method for pricing of debt must be applied to the circumstances of a particular case.
-Example 1:  transfer pricing adjustment and thin capitalisation
+Example 1: transfer pricing adjustment and thin capitalisation
 69.
 Aus Co is an Australian resident subsidiary company of For Co, the parent company. Being an industrial company and not an Authorised Deposit-taking Institution (ADI), Aus Co is an 'inward investment vehicle (general)' for the purposes of Subdivision 820-C.
 70.
@@ -461,7 +461,7 @@ In such a case, it may be that the tripartite relations are the relevant commerc
 2.33 In a case where there is a chain of distribution of goods through an intermediate company, it may be relevant for tax administrations to look not only at the resale price of goods that have been purchased from the intermediate company but also at the price that such company pays to its own supplier and the functions that the intermediate company undertakes. ... If it cannot be demonstrated that the intermediate company either bears a real risk or performs an economic function in the chain that has increased the value of the goods, then any element in the price that is claimed to be attributable to the activities of the intermediate company would reasonably be attributed elsewhere in the MNE group ...
 3.9 Ideally, in order to arrive at the most precise approximation of arm's length conditions, the arm's length principle should be applied on a transaction-by-transaction basis. However, there are often situations where separate transactions are so closely linked or continuous that they cannot be evaluated adequately on a separate basis. ... A further example would be the routing of a transaction through another associated enterprise; it may be more appropriate to consider the transaction of which the routing is a part in its entirety, rather than consider the individual transactions on a separate basis.
 [64]
-Example 2:  Basic rule - have regard to both the form and substance
+Example 2: Basic rule - have regard to both the form and substance
 113.
 Watch Co, a foreign manufacturer of wristwatches, is the registered holder of the XY trademark in Australia and in other countries worldwide. In year 1, Watch Co enters the Australian market by entering into an arrangement to sell XY wristwatches to its newly organised Australian subsidiary, Aus Sub, for distribution in the Australian market. Under the terms of the distribution agreement, Watch Co is obliged to spend a specified amount on a worldwide marketing campaign to promote the XY brand and Aus Sub must incur a specified amount of expenditure on marketing in Australia. Aus Sub agrees to pay Watch Co a fixed price per wristwatch.
 114.
@@ -471,7 +471,7 @@ Having regard to both the form and substance of the commercial relations between
 116.
 Assume that, after making any adjustments for differences necessary to reflect the characteristics of XY wristwatches and improve the reliability of the comparison, it is accepted that the price paid per wristwatch by the independent, authorised distributors of wristwatches in comparable circumstances would provide the most reliable measure of the arm's length price per XY wristwatch. Providing that the fixed price paid by Aus Sub is consistent with that arm's length price, a transfer pricing benefit would not arise as the requirement in paragraph 815-120(1)(a) is not satisfied.
 117.
-Slightly adjusting the assumed facts, assume instead that Aus Sub negotiated the terms of the arrangement to require Watch Co to incur the specified amount of expenditure on marketing in Australia, (notwithstanding that authorised Australian distributors of foreign trademarked wristwatches would usually undertake their own marketing activities in the Australian market). Separately, the price per XY wristwatch is higher than the comparable price paid by other authorised Australian distributers of comparable watches (to reflect the reduced expenditure to be incurred by Aus Sub). Providing:  the conduct of the parties is consistent with this arrangement; the difference is taken into account to identify the arm's length conditions; and the higher price paid per XY wristwatch is an arm's length amount, a transfer pricing benefit would not arise.
+Slightly adjusting the assumed facts, assume instead that Aus Sub negotiated the terms of the arrangement to require Watch Co to incur the specified amount of expenditure on marketing in Australia, (notwithstanding that authorised Australian distributors of foreign trademarked wristwatches would usually undertake their own marketing activities in the Australian market). Separately, the price per XY wristwatch is higher than the comparable price paid by other authorised Australian distributers of comparable watches (to reflect the reduced expenditure to be incurred by Aus Sub). Providing: the conduct of the parties is consistent with this arrangement; the difference is taken into account to identify the arm's length conditions; and the higher price paid per XY wristwatch is an arm's length amount, a transfer pricing benefit would not arise.
 118.
 These outcomes are consistent with the statutory purpose set out in section 815-105 that the amount brought to tax in Australia from cross-border conditions between entities should reflect the arm's length contribution made by Australian operations based on the functions performed, assets used, risks assumed and the conditions that might be expected to operate between entities dealing at arm's length.
 The exceptions to the basic rule
@@ -506,7 +506,7 @@ in identifying the arm's length conditions.
 128. Paragraph 3.97 of the EM is consistent with paragraphs 1.65, 9.169 and 9.183 of the 2010 OECD TP Guidelines, stating that:
 3.97 In cases where the form and substance of the actual commercial or financial relations of the entities differ, the form is disregarded to the extent of the inconsistency with the substance.
 129. So as to identify the arm's length conditions to best achieve the consistency with the 2010 OECD TP Guidelines, the Commissioner considers that in interpreting the term 'inconsistent' in subsection 815-130(2), it is sufficient that the form of the commercial or financial relations differs from the substance of those relations to the extent the differences would or do yield a different economic result.
-Example 3:  first exception to the basic rule - form and substance not consistent
+Example 3: first exception to the basic rule - form and substance not consistent
 130.
 Assume the facts in Example 2 except that, in years 1 through 6, Aus Sub undertakes incremental marketing and promotional activities in addition to the activities similar to those observed in independent distribution transactions in the Australian market. The terms of the arrangement entered into between Watch Co and Aus Sub do not require Aus Sub to undertake these additional activities, which materially exceed its commitment to spend a specified amount on marketing in Australia. Furthermore, Watch Co does not directly or indirectly compensate Aus Sub for performing the incremental activities during years 1 through 6.
 131.
@@ -525,7 +525,7 @@ Aus Sub may present additional facts that could indicate there is an alternative
 It could be the case that, after determining the arm's length price, Aus Sub gets a transfer pricing benefit because the amount of the entity's taxable income for an income year would be greater, or the amount of the entity's loss of a particular sort for an income year would be less (refer to section 815-120).
 138.
 These outcomes are consistent with the statutory purpose set out in section 815-105 that the amount brought to tax in Australia from cross-border conditions between entities should reflect the arm's length contribution made by Australian operations based on the functions performed, assets used, risks assumed and the conditions that might be expected to operate between entities dealing at arm's length.
-Example 4:  first exception to the basic rule not applicable - form and substance consistent
+Example 4: first exception to the basic rule not applicable - form and substance consistent
 139.
 An Australian coal producer restructures its selling and marketing activities by entering into an arrangement with a wholly owned non-resident company, For Co, for the sale and marketing of coal in existing and new markets. Under the arrangement, For Co will acquire existing sales contracts executed by its Australian parent entity, perform a number of sales and marketing functions and assume the accounts receivable late payment risk for all existing and new coal sale contracts. Payment terms with third party customers are for payment in full within 30 days. For Co is contractually required to transfer payments to Aus Co on immediate receipt from third party customers. For Co is sufficiently capitalised to accommodate late payment of accounts receivable and it has the ability to manage and control any exposure to the risk.
 140.
@@ -581,7 +581,7 @@ prima facie
 , it may be commercially irrational such that it would not be entered into by independent entities.
 158. Further, if the taxpayer purchased property or services without a reasonable expectation of being able to exploit the purchased property or services either directly or indirectly (for example, through resale, licence, or leasing it out) in the taxpayer's business, then its realistically available option of not acquiring the property or services would be clearly more attractive than the actual acquisition, with the consequence that the acquisition would be commercially irrational.
 159. This will always be the case where the taxpayer had options realistically available other than to enter into the actual transaction or arrangement and one or more of these options were more economically attractive (that is, by its ability to contribute to the taxpayer's profits, by increasing its gross income and/or reducing its costs) than the arrangement actually adopted.
-Example 5:  identifying the arm's length conditions based on commercial or financial relations other than the actual commercial or financial relations
+Example 5: identifying the arm's length conditions based on commercial or financial relations other than the actual commercial or financial relations
 160.
 Suppose on 1 July 2013, in return for a lump sum payment, a taxpayer enters into a long-term contract to sell unlimited entitlement to all intellectual property rights arising as a result of future research conducted for the term of the contract.
 161.
@@ -595,14 +595,14 @@ it does not make commercial sense for the taxpayer to sell the entitlement to in
 (d)
 the actual structure of the transaction adopted by the taxpayer impedes the identification of an appropriate transfer price.
 162.
-In order to identify what a real or hypothetical independent entity would do in comparable circumstances, taking into account its own economic interests and the options realistically available to it; the accountants determine that an independent entity would not have entered into the long term contract to sell future intellectual property rights for an advance payment of a fixed lump sum, but instead would have entered into a continuing research agreement or other similar commercial relations which differ in substance to the actual commercial relations. (As an alternative, the accountants may instead have determined that some form of royalty arrangement was appropriate:  in which case, the reasoning below would follow, except in determining the appropriate terms and conditions of a royalty agreement.)
+In order to identify what a real or hypothetical independent entity would do in comparable circumstances, taking into account its own economic interests and the options realistically available to it; the accountants determine that an independent entity would not have entered into the long term contract to sell future intellectual property rights for an advance payment of a fixed lump sum, but instead would have entered into a continuing research agreement or other similar commercial relations which differ in substance to the actual commercial relations. (As an alternative, the accountants may instead have determined that some form of royalty arrangement was appropriate: in which case, the reasoning below would follow, except in determining the appropriate terms and conditions of a royalty agreement.)
 163.
 In this case, in order to work out an appropriate transfer price, it would be appropriate to conform the terms of the transfer of intellectual property in their entirety (and not simply by reference to pricing) to the commercial or financial relations that would have been entered into had the transfer of property been the subject of a transaction involving independent entities dealing wholly independently with one another. Thus, it would be appropriate to adjust the terms of the agreement in a commercially rational manner as a continuing research agreement, and identify the arm's length conditions on that basis.
 164.
 It could be the case, after determining the appropriate transfer price, that the taxpayer gets a transfer pricing benefit because the amount of the entity's taxable income for an income year would be greater, or the amount of the entity's loss of a particular sort for an income year would be less (refer to section 815-120). If this result applies, the arm's length conditions are taken to operate for the purposes of subsection 815-115(2).
 165.
 Depending on how the taxpayer treated the lump sum payment, the Commissioner could make a determination under section 815-145 to provide a consequential adjustment in respect of that amount in the relevant income year.
-Example 6:  identify the arm's length conditions based on other commercial or financial relations
+Example 6: identify the arm's length conditions based on other commercial or financial relations
 166.
 An Australian manufacturer (the taxpayer) sells goods to a controlled distributor located in another country. Under the terms of the arrangement, the distributor agrees to accept all of the manufacturing warranty risk associated with the goods in return for a fee equal to 1% of its gross sales, to be paid by the manufacturer on a quarterly basis. The result is that the distributor is liable to meet the cost of any warranty claims made by purchasers of the goods, including the cost of replacing or repairing faulty or defective units.
 167.
@@ -619,7 +619,7 @@ entities dealing wholly independently with one another in comparable circumstanc
 In these circumstances, the taxpayer must identify the arm's length conditions based on the other commercial or financial relations. This would result in elimination of the actual conditions concerning the assignment of the manufacturing warranty risk and determination of the arm's length condition(s) on that basis.
 170.
 In these circumstances, the Australian manufacturer, assuming it is otherwise entitled to claim deductions for the 1% warranty fee paid to the distributor, obtains a transfer pricing benefit. This is because, had the arm's length conditions operated instead of the actual conditions, the amount of the entity's taxable income for an income year would be greater, or the amount of the entity's loss of a particular sort for an income year would be less (refer to section 815 120). It follows that, for the purposes of working out the amount (if any) of the entity's taxable income for the income year, or the amount of the entity's loss of a particular sort for the income year, the actual conditions concerning the assignment of the manufacturing risk are taken not to operate and, instead, the arm's length conditions are taken to operate (refer to section 815-115).
-Example 7:  identify the arm's length conditions based on other commercial or financial relations
+Example 7: identify the arm's length conditions based on other commercial or financial relations
 171.
 An Australian importer/distributor, the taxpayer, is a subsidiary member of a global group. The Australian subsidiary buys certain products from group companies overseas and sells them to unrelated end-users in Australia. Over the years, in agreement with other group companies, the taxpayer has undertaken market development activities at its own expense and risk, and enhanced the value of the global group's brand name, with the strategy of building the group's market share in Australia (including increased sales by third party distributors). These marketing activities have significantly eroded the profitability of the taxpayer such that, from its incorporation, the entity consistently returns tax losses.
 [84]
@@ -655,7 +655,7 @@ including the option not to enter into any commercial or financial relations.
 [94]
 As such, application of this exclusion is limited to disregarding positive actions of an entity that give rise to a transfer pricing benefit. One example of this would be where the actual commercial or financial relations result in an expense being borne by an entity that would simply not have been borne by an independent entity in comparable circumstances. In such instances, the non-recognition of the expense would result in the entity not being able to claim a deduction.
 [95]
-Example 8:  identify the arm's length conditions based on an absence of commercial or financial relations
+Example 8: identify the arm's length conditions based on an absence of commercial or financial relations
 182.
 Assume the scenario set out in Example 4. In addition, For Co is required by the legal agreement with Aus Co to assume accounts receivable default risk on sales to existing and new customers. In legal form, this arrangement is presented as a debt-factoring arrangement. For assuming the accounts receivable risk, Aus Co will pay For Co a fee equal to 3% of gross sales.
 183.
@@ -707,7 +707,7 @@ Interaction of sections 815-130 and 815-120
 62
 Interaction of sections 815-130 and 815-140
 65
-Example 1:  transfer pricing adjustment and thin capitalisation
+Example 1: transfer pricing adjustment and thin capitalisation
 69
 Date of effect
 77
@@ -739,29 +739,29 @@ Summary of 'substance' for the purposes of section 815-130
 105
 How to determine the 'substance' of the commercial or financial relations for the purposes of section 815-130
 109
-Example 2:  Basic rule - have regard to both the form and substance
+Example 2: Basic rule - have regard to both the form and substance
 113
 The exceptions to the basic rule
 119
 Subsection 815-130(2) - first exception to the basic rule
 124
-Example 3:  first exception to the basic rule - form and substance not consistent
+Example 3: first exception to the basic rule - form and substance not consistent
 130
-Example 4:  first exception to the basic rule not applicable - form and substance consistent
+Example 4: first exception to the basic rule not applicable - form and substance consistent
 139
 Subsection 815-130(3) - second exception to the basic rule
 142
 Determining whether subsection 815-130(3) applies
 149
-Example 5:  identifying the arm's length conditions based on commercial or financial relations other than actual commercial or financial relations
+Example 5: identifying the arm's length conditions based on commercial or financial relations other than actual commercial or financial relations
 160
-Example 6:  identify the arm's length conditions based on other commercial or financial relations
+Example 6: identify the arm's length conditions based on other commercial or financial relations
 166
-Example 7:  identify the arm's length conditions based on other commercial or financial relations
+Example 7: identify the arm's length conditions based on other commercial or financial relations
 171
 Subsection 815-130(4) - third exception to the basic rule - Identification of the arm's length conditions based on the absence of commercial or financial relations
 177
-Example 8:  identify the arm's length conditions based on an absence of commercial or financial relations
+Example 8: identify the arm's length conditions based on an absence of commercial or financial relations
 182
 Appendix 2 - Detailed contents list
 189
@@ -935,7 +935,7 @@ See also paragraph 3.99 of the EM.
 [73]
 See paragraph 3.96 of the EM. Also, the subsection is consistent with some of the discussion in paragraphs 9.169, 9.171, 9.175-9.176, 9.184 and 9.185 of the 2010 OECD TP Guidelines.
 [74]
-[2002] EU:  Case C-324/00.
+[2002] EU: Case C-324/00.
 [75]
 See subsection 815-125(4).
 [76]
@@ -982,7 +982,7 @@ The Commissioner has taken a similar approach previously. See, for example, para
 Previously released in draft form as TR 2014/D3
 References
 ATO references:
-NO  1-549WCNK
+NO 1-549WCNK
 ISSN: 1039-0731
 Related Rulings/Determinations:
 TR 96/2

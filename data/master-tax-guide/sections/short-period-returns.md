@@ -15,7 +15,7 @@ Ordinarily, no return is allowed for a period of more than 12 months, except in 
 
 - the estate (of a deceased person) lodges a separate return in respect of the income from the date
 
-  of death to the close of the estate’s income year
+  of death to the close of the estate's income year
 
 - new taxpayers lodge a return for the period from the date on which income commenced to be
 
@@ -35,6 +35,6 @@ Ordinarily, no return is allowed for a period of more than 12 months, except in 
 
 - where a trust is created or terminated, a return must be lodged for the period from its creation to
 
-  the end of the income year, or from the ﬁrst day of the income year to the trust’s dissolution.
+  the end of the income year, or from the ﬁrst day of the income year to the trust's dissolution.
 
-A subsidiary that joins or leaves a consolidated group during the subsidiary’s income year does not lodge a part-year return, but rather lodges a return for the whole income year, at the normal lodgment time, including only income and deductions properly attributable to the non-membership period(s) (¶8-000).
+A subsidiary that joins or leaves a consolidated group during the subsidiary's income year does not lodge a part-year return, but rather lodges a return for the whole income year, at the normal lodgment time, including only income and deductions properly attributable to the non-membership period(s) (¶8-000).

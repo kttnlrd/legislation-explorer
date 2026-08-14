@@ -9,7 +9,7 @@ paragraph: "¶30-000"
 
 What tax avoidance means is not completely clear and the boundaries of what is acceptable or unacceptable tax behaviour shift over time. There is a long history of legislative action against artiﬁcial, contrived or deceptive schemes employed by taxpayers to avoid paying tax.
 
-Australia and many other nations are grappling with the challenges of globalisation and digital disruption which present new opportunities for tax avoidance, fraud and money laundering (¶30-005). For example, the ATO has used intelligence derived from major data leaks such as the “Paradise Papers” (2017) and “Pandora Papers” (2021) to identify those involved in oﬀshore tax avoidance and evasion arrangements.
+Australia and many other nations are grappling with the challenges of globalisation and digital disruption which present new opportunities for tax avoidance, fraud and money laundering (¶30-005). For example, the ATO has used intelligence derived from major data leaks such as the "Paradise Papers" (2017) and "Pandora Papers" (2021) to identify those involved in oﬀshore tax avoidance and evasion arrangements.
 
 Further funding to extend ATO compliance programs was announced in the 2024–25 Budget (Budget Paper No 2, pp 15–17).
 

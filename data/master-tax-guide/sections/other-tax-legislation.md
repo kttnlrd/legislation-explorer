@@ -7,7 +7,7 @@ paragraph: "¶1-180"
 ---
 # Other tax legislation ¶1-180
 
-International tax agreements Australia has entered into special tax treaties with over 50 countries to prevent double taxation and allow co-operation between Australia and overseas tax authorities in enforcing their respective tax laws. These treaties are generally referred to as “double taxation agreements” (DTAs). However, see Oracle Corporation Australia Pty Ltd & Ors 2024 ATC ¶20-936; [2024] FCA 1262 (¶22-150), where the taxpayers were eﬀectively denied the mutual agreement procedures available under the relevant DTA in order to obtain a deﬁnitive appellate judicial determination via domestic proceedings.
+International tax agreements Australia has entered into special tax treaties with over 50 countries to prevent double taxation and allow co-operation between Australia and overseas tax authorities in enforcing their respective tax laws. These treaties are generally referred to as "double taxation agreements" (DTAs). However, see Oracle Corporation Australia Pty Ltd & Ors 2024 ATC ¶20-936; [2024] FCA 1262 (¶22-150), where the taxpayers were eﬀectively denied the mutual agreement procedures available under the relevant DTA in order to obtain a deﬁnitive appellate judicial determination via domestic proceedings.
 
 Under the Constitution, international treaties are not self-executing and must be given the force of law by an Act of parliament. This procedure is achieved under the International Tax Agreements Act 1953 (¶22-140).
 

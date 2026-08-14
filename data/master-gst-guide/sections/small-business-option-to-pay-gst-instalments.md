@@ -7,31 +7,31 @@ paragraph: "¶8-037"
 ---
 # Small business option to pay GST instalments ¶8-037
 
-Certain small businesses may be eligible to elect to pay quarterly GST instalments and lodge an annual GST return (reconciliation). The quarterly instalments are notified by the Commissioner (ss 162–135), either electronically or prefilled on hard copy instalment notices. The instalment amount is typically 25% of the previous year’s GST, adjusted by a factor that reflects changes in GDP (Gross Domestic Product) (Administration Act Sch 1 Subdiv 45-L) — 4% for the 2025–26 income year. The taxpayer may vary the notified instalment amount, however penalties may apply for underestimates in excess of the statutory tolerances.
+Certain small businesses may be eligible to elect to pay quarterly GST instalments and lodge an annual GST return (reconciliation). The quarterly instalments are notified by the Commissioner (ss 162–135), either electronically or prefilled on hard copy instalment notices. The instalment amount is typically 25% of the previous year's GST, adjusted by a factor that reflects changes in GDP (Gross Domestic Product) (Administration Act Sch 1 Subdiv 45-L) — 4% for the 2025–26 income year. The taxpayer may vary the notified instalment amount, however penalties may apply for underestimates in excess of the statutory tolerances.
 
 There is no effect on the due date for payment of quarterly instalments which remain 28 July, 28 October, 28 February and 28 April (s 162-70; ¶8-005) and general interest charge (GIC) may be imposed for late payment (s 162-100).
 
 Eligibility to pay quarterly GST instalments A taxpayer that satisfies all of the following requirements may apply to pay quarterly GST instalments:
 
-- is a “small business entity” (¶1-250), or a non-business taxpayer with a “GST turnover” (¶3-030) that
+- is a "small business entity" (¶1-250), or a non-business taxpayer with a "GST turnover" (¶3-030) that
 
   does not exceed $2 million in the income year and wishes to make the election
 
-A non-business taxpayer’s “GST turnover” is measured in the same way as for registration purposes (¶3-030). This means that it will satisfy the turnover requirement if: – its current GST turnover does not exceed $2 million, and the Commissioner is not satisfied that its projected GST turnover will exceed $2 million, or – its projected GST turnover does not exceed $2 million (s 188-10)
+A non-business taxpayer's "GST turnover" is measured in the same way as for registration purposes (¶3-030). This means that it will satisfy the turnover requirement if: – its current GST turnover does not exceed $2 million, and the Commissioner is not satisfied that its projected GST turnover will exceed $2 million, or – its projected GST turnover does not exceed $2 million (s 188-10)
 
 - does not have monthly GST periods (either having elected, or required, to do so) (¶7-100)
 
-- has a “current lodgment record” of at least 4 months
+- has a "current lodgment record" of at least 4 months
 
 The taxpayer must have lodged GST returns covering at least a 4-month period before the current tax period (s 162-10). For taxpayers that do not have monthly tax periods (¶7-100), this would typically be satisfied by 2 quarterly returns. This requirement ensures the ATO has sufficient GST payment information on which to base the instalment calculations. For a member of a GST group, the period starts again whenever there is a change in membership. Similarly, returns lodged during which the taxpayer was the representative member of a GST group are not taken into account in the lodgment record
 
 - has lodged all previous GST returns as required
 
-- not in a “net refund position” (s 162-5).
+- not in a "net refund position" (s 162-5).
 
 This is measured over a period that varies according to how long the taxpayer has been lodging returns (s 162-5). If the taxpayer has lodged returns for less than 7 months, the net refund position is calculated with reference to the 3 months preceding the current tax period; for 8 or 9 months, with reference to the 6 months preceding the current tax period; for 10 to 12 months, with reference to the 9 months preceding the current tax period. If the taxpayer has lodged returns for at least 13 months, with reference to the 12 months preceding the current tax period.
 
-Example: “Net refund position” for quarterly instalment taxpayers A newly established quarterly payer has net GST of $16,000 for its first GST return (ending 30 September) and a refund of $12,000 for its second GST return (ending 31 December). It wishes to elect to pay quarterly GST instalments
+Example: "Net refund position" for quarterly instalment taxpayers A newly established quarterly payer has net GST of $16,000 for its first GST return (ending 30 September) and a refund of $12,000 for its second GST return (ending 31 December). It wishes to elect to pay quarterly GST instalments
 
 *Refs: s 162-70, s 162-100), s 188-10), s 162-10), s 162-5)*
 
@@ -39,7 +39,7 @@ from its third quarter. As it has lodged returns for tax periods totalling 6 mon
 
 Assume that the payer subsequently has net GST of $15,000 for its third GST return (ending 31 March). It wishes to elect to adopt the instalment system with effect from its fourth quarter. As it has now lodged returns for tax periods totalling 9 months, it must take into account the 6 months preceding the fourth quarter (ie the second and third tax periods). The total tax amount over this period is $3,000 ($15,000 − $12,000). It is no longer in a net refund position, and can elect to adopt the instalment system provided that all other requirements are satisfied.
 
-Even if these criteria are satisfied, the Commissioner may disallow the taxpayer’s request if the taxpayer has a history of failing to comply with their taxation obligations (s 162-15). Limited registration entities (¶9-120) are not eligible for the instalments system.
+Even if these criteria are satisfied, the Commissioner may disallow the taxpayer's request if the taxpayer has a history of failing to comply with their taxation obligations (s 162-15). Limited registration entities (¶9-120) are not eligible for the instalments system.
 
 Making the election to pay instalments To make the election, the taxpayer must notify the Commissioner in the approved form (s 162-15). According to the ATO GST instalments webpage a taxpayer wishing to elect to use quarterly instalments must contact the ATO to confirm its eligibility.
 
@@ -47,7 +47,7 @@ The election must normally be made by 28 October of the relevant financial year 
 
 An election continues in force indefinitely, unless it is revoked by the taxpayer or the Commissioner (s 162-30), or the taxpayer ceases to be eligible. An entity that is already paying GST by instalments that moves into a net refund position can remain in the instalment system; however, the instalment amount will be zero. The loss of eligibility rules are similar to those applying to annual input tax credit (ITC) apportionments (¶5-020).
 
-The Commissioner also has power to extend the time for making an election in individual cases. Applications for the extension must be made on the approved form. The Commissioner will take into account the taxpayer’s previous compliance history, whether the taxpayer has a valid reason for the late election, whether the failure to elect was isolated and any exceptional circumstances such as serious illness (Interpretative Decisions ID 2004/447, ID 2004/448, ID 2004/449).
+The Commissioner also has power to extend the time for making an election in individual cases. Applications for the extension must be made on the approved form. The Commissioner will take into account the taxpayer's previous compliance history, whether the taxpayer has a valid reason for the late election, whether the failure to elect was isolated and any exceptional circumstances such as serious illness (Interpretative Decisions ID 2004/447, ID 2004/448, ID 2004/449).
 
 The representative member of a GST group cannot make an election unless each member of the group is eligible (s 162-20).
 
@@ -56,9 +56,9 @@ Effect of making GST instalments election
 *Refs: s 162-15), s 162-25), s
 162-30), s 162-20)*
 
-- is called a “GST instalment payer” (s 162-50)
+- is called a "GST instalment payer" (s 162-50)
 
-- has an “instalment tax period” that corresponds to the period for which the election applies (s 162-55).
+- has an "instalment tax period" that corresponds to the period for which the election applies (s 162-55).
 
 For example, if the election applies to the whole financial year, that financial year will be the instalment tax period
 
@@ -72,7 +72,7 @@ For example, if the election applies to the whole financial year, that financial
 
   webpage.
 
-GST instalments Annual return and reconciliation A GST instalment payer has an instalment tax period of a financial year, and is required to lodge an annual GST return by the due date for lodgment of the taxpayer’s income tax return (s 162-60). If the taxpayer is not required to lodge an income tax return, the GST return must be lodged by 28 February following the end of the financial year.
+GST instalments Annual return and reconciliation A GST instalment payer has an instalment tax period of a financial year, and is required to lodge an annual GST return by the due date for lodgment of the taxpayer's income tax return (s 162-60). If the taxpayer is not required to lodge an income tax return, the GST return must be lodged by 28 February following the end of the financial year.
 
 The Commissioner can extend the time for lodging GST returns (Administration Act Sch 1 s 388-55).
 
@@ -92,7 +92,7 @@ Illustration: GST instalment payer leaves GST group A, B and C are members of a 
 
 Variation of instalments GST instalment taxpayers may vary the GDP-adjusted GST instalments calculated by the Commissioner (s 162-140). The variation is made by notifying the Commissioner on or before the due date for the instalment; this can generally be done on the BAS.
 
-Variation may be appropriate in a variety of circumstances. When varying the GST instalment amount a numerical “reason code” for the variation is required. These codes can be found on the ATO Varying your instalment amount webpage.
+Variation may be appropriate in a variety of circumstances. When varying the GST instalment amount a numerical "reason code" for the variation is required. These codes can be found on the ATO Varying your instalment amount webpage.
 
 Illustration: Variation of GST instalment GST instalments Enterprises is paying its GST by instalments. For the September quarter, the GST instalment of $50,000 is prefilled on the BAS. Due to a major downturn in business, Enterprises estimates that its annual GST will only be $160,000 and decides to vary its instalment to $40,000 (1/4 × $160,000).
 
@@ -102,9 +102,9 @@ For the March quarter, Enterprises does not change its estimate. The third insta
 
 For the (final) June quarter, Enterprises again revises its estimate to $168,000. The revised fourth instalment is $45,000 ($168,000 − $123,000).
 
-Enterprises’ actual GST liability for the year turns out to be $170,000. Enterprises will be required to pay the balance of $2,000 ($170,000 − $168,000) by the due date for lodgment of its income tax return for the year.
+Enterprises' actual GST liability for the year turns out to be $170,000. Enterprises will be required to pay the balance of $2,000 ($170,000 − $168,000) by the due date for lodgment of its income tax return for the year.
 
-Penalties are triggered, where the taxpayer’s estimate of GST for the year (on which reduced GST instalments for the year are paid) is too far below the actual GST reported in the annual return, by the first applicable of the following:
+Penalties are triggered, where the taxpayer's estimate of GST for the year (on which reduced GST instalments for the year are paid) is too far below the actual GST reported in the annual return, by the first applicable of the following:
 
 - the sum of instalments is less than 85% of the actual annual GST liability (s 162-175)
 
@@ -118,7 +118,7 @@ This discourages, for example, an entity that correctly estimates its annual GST
 
 For whichever shortfall first applies, the amount of penalty is imposed at the rate of the GIC (¶18-300), calculated up to the date when the net amount is due. If the taxpayer makes up for an earlier underestimate by a top-up payment in a later quarter, the penalty is only calculated up to the date of the top-up (ss 162-190, 162-200). General interest charge is no longer tax deductible for income year starting 1 July 2025 (ITAA 1997 s 25-5).
 
-No penalties apply where an underestimate results simply from the adoption of the Commissioner’s notified instalments. This applies even if the taxpayer is aware that the notified instalments are not representative of its current position. GST instalment payers would be prudent to manage cash flow if they believe this may be the case (¶21-070).
+No penalties apply where an underestimate results simply from the adoption of the Commissioner's notified instalments. This applies even if the taxpayer is aware that the notified instalments are not representative of its current position. GST instalment payers would be prudent to manage cash flow if they believe this may be the case (¶21-070).
 
 Primary producers and averaging professionals A special concession applies to primary producers and others who are entitled to average their income for tax purposes. The concession recognises that these entities are susceptible to wide fluctuations in income.
 
@@ -131,7 +131,7 @@ The concession allows such taxpayer to only pay 2 GST instalments, due on 28 Apr
 
   and had at least $1 of net primary production income in their last tax assessment
 
-- is a “special professional” entitled to average their income (eg an author, inventor, performing artist or
+- is a "special professional" entitled to average their income (eg an author, inventor, performing artist or
 
   sportsperson), and they had at least $1 of net professional income in their last tax assessment.
 

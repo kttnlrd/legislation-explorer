@@ -3,21 +3,16 @@ ATO ID 2009/111
 ==================================================
 
 Income Tax
-        Self Managed Superannuation Funds: exchange traded options - tax treatment of premiums payable
-        FOI status: may be released
-
+ Self Managed Superannuation Funds: exchange traded options - tax treatment of premiums payable
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a self-managed superannuation fund (SMSF) trades exchange traded options (ETOs), are the premiums payable from that activity deductible under either section 8-1 or section 25-40 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -33,8 +28,6 @@ A loss made on a transaction would ordinarily be an allowable deduction under se
 Alternatively, a loss made on a transaction would ordinarily be an allowable deduction under section 25-40 of the ITAA 1997 where the loss arises from the carrying on or carrying out of a profit-making undertaking or plan, and any profit from the transaction would have been included in assessable income under section 15-15 of the ITAA 1997.
 However, paragraph 295-85(2)(a) of the ITAA 1997 provides that where a CGT event happens to a CGT asset of a complying superannuation fund, sections 8-1 and 25-40 of the ITAA 1997 will not apply, and instead the CGT provisions will apply.
 An exception to this is contained in paragraph 295-85(3)(b) of the ITAA 1997 for CGT assets of the Fund that are
-
-
 
 (i)debenture stock, a bond, debenture, certificate of entitlement, bill of exchange, promissory note or other security;
 (ii)a deposit with a bank, building society or other financial institution;
@@ -55,8 +48,8 @@ Paragraph 3.1 of the Explanatory Memorandum to Tax Laws Amendment (Simplified Su
 The Explanatory Memorandum accompanying Tax Laws Amendment Bill (No.2) 1986 which introduced Division 16E of the ITAA 1936 provided:
 
 "security" has been defined very widely...so as to encompass as many financial transactions as possible
-              where there may be a deferral in the payment of income
-              ."
+ where there may be a deferral in the payment of income
+ ."
 
 The Commissioner has previously stated in Taxation Ruling TR 96/14, that the Division 16E of the ITAA 1936 definition of 'security' contained in subsection 159GP(1) of the ITAA 1936 applies only to debt securities or contracts that create debt-like obligations.
 Likewise, paragraph 295-85(3)(b) of the ITAA 1997 only encompasses debt securities or contracts that create debt-like obligations and therefore the phrase 'or other security' in subparagraph 295-85(3)(b)(i) of the ITAA 1997, covers only debt arrangements.
@@ -69,7 +62,6 @@ Further, an ETO is not trading stock (ATO ID 2004/526). Therefore, the exception
 As no exceptions in either subsection 295-85(3) or 295-85(4) of the ITAA 1997 apply to the Fund, a deduction for the premiums paid is not an allowable deduction under either section 8-1 or 25-40 of the ITAA 1997. This is the case regardless of the profit-making intention of the Fund in buying ETOs. Instead the premiums payable will form part of the cost base of the ETO.
 When the Fund buys an ETO, they acquire an asset (the ETO) for the amount paid for it (that is, the premium) plus any additional costs such as brokerage fees and the Australian Clearing House (ACH) fee These costs together form the cost base of the ETO (section 109-5 of the ITAA 1997).
 On the close out of the position, the Fund makes a capital gain or loss equal to the difference between the cost base of the ETO and the amount received on its expiry or termination (subsection 104-25(3) of the ITAA 1997).
-
 
 Note 1: Initial and variation margins are not deductible (Taxation Determination TD 2006/25)
 
@@ -86,10 +78,10 @@ Reasons for Decision
 Updated for clarity
 
 Date of decision:
-         28 September 2009
+  28 September 2009
 
 Year of income:
-           Income years ending 30 June 2010
+  Income years ending 30 June 2010
 
 Legislative References:
 
@@ -110,38 +102,33 @@ Related ATO Interpretative Decisions
 Other References:
 
  Explanatory Memorandum to Tax Laws Amendment Bill (No. 2) 1986
-           Explanatory Memorandum to Tax Laws Amendment (Simplified Superannuation) Bill 2006
-
+ Explanatory Memorandum to Tax Laws Amendment (Simplified Superannuation) Bill 2006
 
 Keywords
 
 Self managed superannuation funds
-          Financial derivatives
-          Capital Gains Tax
-
+ Financial derivatives
+ Capital Gains Tax
 
 Siebel/TDMS Reference Number:
-         1-1PTK0H4; 1-5YV8J1C
+  1-1PTK0H4; 1-5YV8J1C
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         23 October 2009
+  23 October 2009
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 28 September 2009

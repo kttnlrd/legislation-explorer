@@ -9,13 +9,13 @@ paragraph: "¶18-310"
 
 Where an FMD is withdrawn in a year of income, the owner is required to include, as assessable income, an amount that equals the deductible amount previously allowed in respect of the deposit. A withdrawn FMD that is included in assessable income is treated as assessable primary production income for the purpose of working out the deductibility of any new FMD made in that income year.
 
-The assessable amount is limited to the “unrecouped FMD deduction”, which will generally be that part of a deposit for which a deduction has been claimed but which has yet to be included in assessable income on repayment. If the FMD contains both deductible and non-deductible deposits, withdrawals are considered to have been made from the non-deductible amounts ﬁrst.
+The assessable amount is limited to the "unrecouped FMD deduction", which will generally be that part of a deposit for which a deduction has been claimed but which has yet to be included in assessable income on repayment. If the FMD contains both deductible and non-deductible deposits, withdrawals are considered to have been made from the non-deductible amounts ﬁrst.
 
 If, in an income year commencing on or after 1 July 2014, the taxpayer withdraws and immediately redeposits amounts for the purpose of consolidating FMDs, there are no income tax consequences. The deposits in those circumstances are not subject to the normal restrictions on making FMDs, provided all of the amounts are from FMDs more than 12 months old and gave rise to deductions when they were initially deposited.
 
 Deposits repayable on death, bankruptcy or when primary production ceases, will be assessable in the income year in which the relevant event occurs (rather than in any later repayment year). Interest on an FMD is assessable in the year it is derived.
 
-If a taxpayer withdraws funds from an FMD during a period, the amount repaid is included in the taxpayer’s PAYG instalment income for that period (TAA s 45-120; ¶27-260). However, the instalment income only includes the amount repaid to the extent that it is assessable income for the income year in which the withdrawal is made. If neither the owner’s TFN nor ABN have been quoted to the ﬁnancial institution that holds the deposit, the amount withdrawn will also be subject to PAYG withholding (Income Tax Assessment (1997 Act) Regulations 2021; ¶26-200).
+If a taxpayer withdraws funds from an FMD during a period, the amount repaid is included in the taxpayer's PAYG instalment income for that period (TAA s 45-120; ¶27-260). However, the instalment income only includes the amount repaid to the extent that it is assessable income for the income year in which the withdrawal is made. If neither the owner's TFN nor ABN have been quoted to the ﬁnancial institution that holds the deposit, the amount withdrawn will also be subject to PAYG withholding (Income Tax Assessment (1997 Act) Regulations 2021; ¶26-200).
 
 Early withdrawal of FMDs While deposits can be held in accounts of any term (including at call accounts), the general rule is that the deposit must not be repaid within 12 months. However, there are exceptions. Eligible primary producers may withdraw from their FMD earlier (ie within ﬁrst 12 months of the deposit) if:
 
@@ -23,7 +23,7 @@ Early withdrawal of FMDs While deposits can be held in accounts of any term (inc
 
   to another FMD provider
 
-- part of the land used in carrying on the FMD owner’s primary production business meets the
+- part of the land used in carrying on the FMD owner's primary production business meets the
 
   prescribed rainfall conditions for the prescribed period (s 393-40(3)), or
 

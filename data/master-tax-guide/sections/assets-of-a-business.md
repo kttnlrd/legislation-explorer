@@ -9,7 +9,7 @@ paragraph: "¶12-060"
 
 If a taxpayer chooses to take advantage of roll-over relief in relation to the disposal of all the assets of a business to a wholly-owned company, a capital gain or loss the taxpayer makes from the disposal of each of the assets is disregarded (s 122-45). The roll-over is a replacement-asset roll-over because the taxpayer replaces the assets disposed of with shares in the company.
 
-Cost base and reduced cost base if all assets post-CGT If all the assets of the business that are being rolled over are post-CGT assets, the ﬁrst element of each share’s cost base is the sum of the market values of the precluded assets at the time of the disposal and the cost bases of the other assets (less any liabilities the company assumes in respect of all those assets) at that time, divided by the number of shares (s 122-50). The ﬁrst element of each share’s reduced cost base is worked out in a similar way.
+Cost base and reduced cost base if all assets post-CGT If all the assets of the business that are being rolled over are post-CGT assets, the ﬁrst element of each share's cost base is the sum of the market values of the precluded assets at the time of the disposal and the cost bases of the other assets (less any liabilities the company assumes in respect of all those assets) at that time, divided by the number of shares (s 122-50). The ﬁrst element of each share's reduced cost base is worked out in a similar way.
 
 Example 1 Lucie is a small trader. She wants to incorporate her business. She disposes of all its assets to a company and receives 10,000 shares in return. All the assets of the business are post-CGT.
 

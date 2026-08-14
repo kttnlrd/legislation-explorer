@@ -4,30 +4,28 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 126
-  • Div 129
-  • Div 131
-  • Div 136
-  • Div 19
-  • Div 21
-  • Div 358
-  • Div 38
-  • Div 40
-  • Div 70
-  • Division 126
-  • Division 129
-  • Division 131
-  • Division 136
-  • Division 21
-  • Division 358
-  • Division 38
-  • Division 40
-  • Division 70
-  • Division 75
+ • Div 126
+ • Div 129
+ • Div 131
+ • Div 136
+ • Div 19
+ • Div 21
+ • Div 358
+ • Div 38
+ • Div 40
+ • Div 70
+ • Division 126
+ • Division 129
+ • Division 131
+ • Division 136
+ • Division 21
+ • Division 358
+ • Division 38
+ • Division 40
+ • Division 70
+ • Division 75
 
 Topics: GST, Companies, Employment
-
-
 
 ================================================================================
 
@@ -42,13 +40,13 @@ Back to browse
 63 related documents
 Goods and Services Tax Ruling
 GSTR 2000/2
-Goods and Services Tax:  adjustments for bad debts
+Goods and Services Tax: adjustments for bad debts
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This Ruling contains references to provisions of the
 A New Tax System (Goods and Services Tax) Regulations 1999,
 which have been replaced by the
@@ -93,9 +91,9 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note: This is a consolidated version of this document.  Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
-1. This Ruling describes the circumstances in which adjustments arise for taxable supplies or creditable acquisitions where a debt is written off as bad or is overdue for 12 months or more.  In particular, the Ruling explains the requirements for making adjustments to net amounts.
+1. This Ruling describes the circumstances in which adjustments arise for taxable supplies or creditable acquisitions where a debt is written off as bad or is overdue for 12 months or more. In particular, the Ruling explains the requirements for making adjustments to net amounts.
 2. These requirements are set out in Division 21 and Division 136 of
 A New Tax System (Goods and Services Tax) Act 1999
 ('GST Act').
@@ -125,8 +123,8 @@ the supplier of the acquisition has written off as bad the whole or part of the 
 However, there are special provisions that apply to adjustments for bad debts when you start to account on a cash basis or cease to account on a cash basis.
 [F3]
 This Ruling does not consider these provisions.
-7. The provisions of Division 21 do not apply if you have a bad debt arising from a gambling supply.  Bad debts arising from a gambling supply are dealt with in Division 126.  This Ruling does not consider this Division.
-8. If you have a bad debt relating to a taxable supply of real property under the margin scheme, Division 21 will apply.  However, the calculation of the adjustment is subject to a special rule in section 75-25, discussed in paragraphs 30 and 81 to 85 of this Ruling.
+7. The provisions of Division 21 do not apply if you have a bad debt arising from a gambling supply. Bad debts arising from a gambling supply are dealt with in Division 126. This Ruling does not consider this Division.
+8. If you have a bad debt relating to a taxable supply of real property under the margin scheme, Division 21 will apply. However, the calculation of the adjustment is subject to a special rule in section 75-25, discussed in paragraphs 30 and 81 to 85 of this Ruling.
 8A. An adjustment for a bad debt can arise under section 15G of the A New Tax System (Goods and Services Tax Transition) Act 1999 (the Transition Act). If you have a decreasing adjustment under this section, then section 21-5 of the GST Act does not apply to the taxable supply. This Ruling does not deal with adjustments for bad debts arising under section 15G.
 Date of effect
 9. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
@@ -134,28 +132,28 @@ Note: The Addendum to this Ruling that issued on 27 April 2005 applies from 8 Ju
 Taxation Administration Act 1953
 , from the date of issue of the Addendum.
 Background
-10. If you account for GST other than on a cash basis, you may attribute the GST on the taxable supply before you receive any or all of the consideration for the supply.  If  subsequently:
+10. If you account for GST other than on a cash basis, you may attribute the GST on the taxable supply before you receive any or all of the consideration for the supply. If subsequently:
 •
 you write off as bad some or all of the consideration you were due to receive for the supply; or
 •
 the whole or part of the debt has been overdue for 12 months or more,
 you will have attributed the GST but will not have received an amount for that GST from the recipient of the supply.
-11. Conversely, if you make a creditable acquisition, you may attribute the input tax credit before you pay any or all of the consideration for the acquisition.  If the whole or part of the debt is subsequently written off as bad by the supplier, or has been overdue for 12 months or more, you will have attributed the input tax credit but have not paid an amount equivalent to that input tax credit to the supplier.
-12. If the circumstances outlined in paragraph 10  apply, you will have  attributed too much GST.  If the circumstances described at paragraph 11  apply, you will have claimed too much input tax credit.  Consequently, in either of these circumstances  you need to make an adjustment to your net amount to reflect the correct amount.
+11. Conversely, if you make a creditable acquisition, you may attribute the input tax credit before you pay any or all of the consideration for the acquisition. If the whole or part of the debt is subsequently written off as bad by the supplier, or has been overdue for 12 months or more, you will have attributed the input tax credit but have not paid an amount equivalent to that input tax credit to the supplier.
+12. If the circumstances outlined in paragraph 10 apply, you will have attributed too much GST. If the circumstances described at paragraph 11 apply, you will have claimed too much input tax credit. Consequently, in either of these circumstances you need to make an adjustment to your net amount to reflect the correct amount.
 13. If you make a taxable supply and the related debt is subsequently written off as bad, or the debt has been overdue for 12 months or more, you have a
 decreasing
-adjustment to your net amount.  However, if you subsequently recover the whole or part of the debt for which you previously had a decreasing adjustment, you will have an
+adjustment to your net amount. However, if you subsequently recover the whole or part of the debt for which you previously had a decreasing adjustment, you will have an
 increasing
 adjustment to your net amount.
 14. If you make a creditable acquisition and the related debt is subsequently written off as bad, or the debt has been overdue for 12 months or more, you have an
 increasing
-adjustment to your net amount.  However, if you subsequently repay some or all of the debt for which you previously had an increasing adjustment, you have a
+adjustment to your net amount. However, if you subsequently repay some or all of the debt for which you previously had an increasing adjustment, you have a
 decreasing
 adjustment to your net amount.
 Ruling
 Entities making taxable supplies
 GST must have been attributed
-15. A decreasing adjustment for a bad debt can arise in respect of a supply if  either :
+15. A decreasing adjustment for a bad debt can arise in respect of a supply if either :
 •
 you attributed the GST on the supply on your BAS in a previous tax period, or
 •
@@ -165,29 +163,29 @@ Attribution of adjustment
 [F4]
 17. If a debt, or part of a debt, is recovered for which you previously had a decreasing adjustment, you attribute the corresponding increasing adjustment to the tax period in which the debt is recovered.
 Adjustment notes
-18. The adjustment note provisions of the GST Act do not apply to bad debts.  The writing off of a bad debt, or a debt becoming overdue for 12 months or more, is not an adjustment event.
+18. The adjustment note provisions of the GST Act do not apply to bad debts. The writing off of a bad debt, or a debt becoming overdue for 12 months or more, is not an adjustment event.
 Partly taxable supplies
 19. If the supply you make is only partly taxable, the amount of the decreasing adjustment is reduced to the proportion of the supply that is taxable.
-20. If you recover an amount that relates to a supply that was only partly taxable, and for which you previously had a decreasing adjustment as described in paragraph 19, you have an increasing adjustment.  The increasing adjustment is calculated on the amount that relates to the part of the supply that was a taxable supply.
+20. If you recover an amount that relates to a supply that was only partly taxable, and for which you previously had a decreasing adjustment as described in paragraph 19, you have an increasing adjustment. The increasing adjustment is calculated on the amount that relates to the part of the supply that was a taxable supply.
 Entities making creditable acquisitions
 Input tax credit must have been attributed
-21. An increasing adjustment for a bad debt can arise in respect of a creditable acquisition if  either :
+21. An increasing adjustment for a bad debt can arise in respect of a creditable acquisition if either :
 •
 you attributed the input tax credit on the acquisition on your BAS in a previous tax period, or
 •
 you are attributing the input tax credit on the acquisition in the same period as you are aware that the related debt is written off (this means that you account for the input tax credit and the bad debt adjustment separately on your BAS).
 Attribution of adjustment
 22. You attribute an adjustment to the tax period in which you become aware of it. Accordingly, you have an increasing adjustment in the tax period in which you become aware that the debt is written off, or if the debt has not been written off at the time when the debt has been overdue for 12 months or more, in the tax period in which you become aware that the debt has been overdue for 12 months or more.
-23. If you pay a debt or part of a debt for which you previously had an increasing adjustment, you attribute the corresponding decreasing adjustment to the tax period in which the debt or  that part of the debt is paid.
+23. If you pay a debt or part of a debt for which you previously had an increasing adjustment, you attribute the corresponding decreasing adjustment to the tax period in which the debt or that part of the debt is paid.
 Partly creditable acquisitions
 24. If you make an acquisition that is only partly for a creditable purpose, or for which you provide only part of the consideration, the amount of the increasing adjustment is reduced to take into account the extent of creditable purpose or consideration.
-25. If you subsequently pay an amount that relates to an acquisition that was only partly for a creditable purpose, and for which you previously had an increasing adjustment as described in paragraph 24, you have a decreasing adjustment.  The decreasing adjustment is calculated by taking into account the extent of creditable purpose or consideration.
+25. If you subsequently pay an amount that relates to an acquisition that was only partly for a creditable purpose, and for which you previously had an increasing adjustment as described in paragraph 24, you have a decreasing adjustment. The decreasing adjustment is calculated by taking into account the extent of creditable purpose or consideration.
 26. If you have a bad debt relating to an acquisition of a motor vehicle for which a reduced input tax credit applied, the amount of the increasing adjustment is also reduced.
 [F5]
 Any subsequent decreasing adjustment in relation to the vehicle is also reduced.
 When is a debt a "bad debt"
-27. Whether a debt is bad is ultimately a question of fact to be determined from all of the relevant circumstances.  If you make a bona fide commercial decision that the debt is unlikely to be recovered, we will accept that the debt is bad for the purposes of Division 21.
-28. A debt will be written off if there is some form of written record which evidences the decision by you to write off the debt from your accounts.  The mere fact of making a decreasing adjustment on your BAS does not mean the debt has been written off.
+27. Whether a debt is bad is ultimately a question of fact to be determined from all of the relevant circumstances. If you make a bona fide commercial decision that the debt is unlikely to be recovered, we will accept that the debt is bad for the purposes of Division 21.
+28. A debt will be written off if there is some form of written record which evidences the decision by you to write off the debt from your accounts. The mere fact of making a decreasing adjustment on your BAS does not mean the debt has been written off.
 29. A debt must still be owing to the entity which made the taxable supply for that entity to be able to write off the debt and have a decreasing adjustment.
 Margin scheme
 30. If you have a bad debt relating to a supply that you made under the margin scheme, the bad debt adjustment cannot exceed 1/11 of the margin for the supply.
@@ -207,20 +205,20 @@ you have not received all or part of the consideration; and
 •
 you have written off the debt or the debt has been overdue for 12 months or more.
 You have made a taxable supply
-33. If you make taxable supplies, you include GST in the price of those supplies and attribute that GST to the relevant tax period.  However, no GST is payable on supplies that are wholly GST-free or wholly input taxed and consequently you cannot make adjustments under Division 21 for those supplies.
+33. If you make taxable supplies, you include GST in the price of those supplies and attribute that GST to the relevant tax period. However, no GST is payable on supplies that are wholly GST-free or wholly input taxed and consequently you cannot make adjustments under Division 21 for those supplies.
 Attribution
-34. The GST relating to the supply must be attributed to a tax period.  There may be cases where the GST is attributable to the same tax period as the period in which the debt is written off as bad.  In these situations, you account for the amount of GST payable on the supply and the amount of the adjustment separately on your BAS.  The amounts are not to be offset against each other.
+34. The GST relating to the supply must be attributed to a tax period. There may be cases where the GST is attributable to the same tax period as the period in which the debt is written off as bad. In these situations, you account for the amount of GST payable on the supply and the amount of the adjustment separately on your BAS. The amounts are not to be offset against each other.
 Consideration not received
-35. For you to have a decreasing adjustment, it is necessary that you have not received whole or part of the consideration for the taxable supply.  The decreasing adjustment is calculated on the consideration that has not been received.
+35. For you to have a decreasing adjustment, it is necessary that you have not received whole or part of the consideration for the taxable supply. The decreasing adjustment is calculated on the consideration that has not been received.
 Writing off the debt as bad or debt overdue for 12 months or more
-36. You must have written off whole or part of the debt as bad.  Alternatively, the whole or part of the debt has been overdue for 12 months or more.
+36. You must have written off whole or part of the debt as bad. Alternatively, the whole or part of the debt has been overdue for 12 months or more.
 When a debt is bad
-37. In order to make a decreasing adjustment where the debt has been overdue for less than 12 months, the debt must be bad.  This requires you to make a bona fide assessment, based on sound commercial considerations, that the debt is bad.
+37. In order to make a decreasing adjustment where the debt has been overdue for less than 12 months, the debt must be bad. This requires you to make a bona fide assessment, based on sound commercial considerations, that the debt is bad.
 38. Sound commercial judgement cannot be exercised in relation to determining that a debt is bad if there is still a real and continuing dispute in relation to the sum.
 [F6]
-39. The Commissioner's views on when a debt may be considered to have become bad for income tax purposes  are set out in Taxation Ruling TR 92/18.
+39. The Commissioner's views on when a debt may be considered to have become bad for income tax purposes are set out in Taxation Ruling TR 92/18.
 [F7]
-These  views also apply to when a debt may be considered to be bad for the purposes of Division 21.  Whether a debt is bad depends upon an objective consideration of all the relevant circumstances of each case.
+These views also apply to when a debt may be considered to be bad for the purposes of Division 21. Whether a debt is bad depends upon an objective consideration of all the relevant circumstances of each case.
 40. The main circumstances are set out in paragraphs 26 to 33 in TR 92/18. Some of the relevant factors include:
 •
 the debtor, if incorporated, is in liquidation with insufficient funds to pay the debt;
@@ -228,7 +226,7 @@ the debtor, if incorporated, is in liquidation with insufficient funds to pay th
 the supplier is unable to trace the debtor; and
 •
 an objective examination of all the facts indicates that there is little or no likelihood of recovering the debt.
-41. To establish that there is little or no likelihood of recovering the debt, a supplier should take appropriate steps to recover the debt instead of simply writing it off as bad.  The appropriate steps undertaken will vary according to the size of the debt and the resources available to the creditor to pursue the debt.  The steps would generally be expected to include one or more of the following, depending upon the circumstances:
+41. To establish that there is little or no likelihood of recovering the debt, a supplier should take appropriate steps to recover the debt instead of simply writing it off as bad. The appropriate steps undertaken will vary according to the size of the debt and the resources available to the creditor to pursue the debt. The steps would generally be expected to include one or more of the following, depending upon the circumstances:
 •
 issuing reminder notices and attempting telephone/mail or e-mail contact;
 •
@@ -239,18 +237,18 @@ issuing a summons;
 ceasing the calculation and charging of interest and closing the account;
 •
 allowing a reasonable period to elapse since the original due date for payment of the debt.
-42. The debt must be more than merely doubtful.  If, for example, you have a 90-day credit period and the debt is still outstanding at the end of that period, the debt will not (in the absence of other factors) be accepted as bad.
+42. The debt must be more than merely doubtful. If, for example, you have a 90-day credit period and the debt is still outstanding at the end of that period, the debt will not (in the absence of other factors) be accepted as bad.
 Writing off a bad debt
 43. Before you are entitled to make a decreasing adjustment under Division 21 for a debt that has not been overdue for 12 months or more, the debt must be written off.
-44. Writing off will generally be evidenced if there is some form of written record  to that effect.  The debt may, for example, be written off by journal entries in the books of account.
+44. Writing off will generally be evidenced if there is some form of written record to that effect. The debt may, for example, be written off by journal entries in the books of account.
 45. Under the bad debt provisions of the income tax legislation, a debt cannot be written off after it has been settled, compromised or otherwise extinguished.
 [F8]
 In these situations, there is no longer a debt in existence that may be written off.
 [F9]
-46. These same principles apply to Division 21.  For example, if you settle a debt before writing it off, or before the 12 months have elapsed, there will be no debt in existence for the application of Division 21. The settling or compromising of a debt may be treated as an adjustment event for the purposes of paragraph 19-10(1)(b) which deals with adjustments for changes in consideration.
+46. These same principles apply to Division 21. For example, if you settle a debt before writing it off, or before the 12 months have elapsed, there will be no debt in existence for the application of Division 21. The settling or compromising of a debt may be treated as an adjustment event for the purposes of paragraph 19-10(1)(b) which deals with adjustments for changes in consideration.
 47. If you assign the debt to another party, the provisions of Division 21 cannot operate.
 [F10]
-Under Division 21 only the entity that makes the supply can make the adjustment for any bad debt relating to that supply.  For example, if a debt is assigned, the assignee has no entitlement to a bad debt adjustment under Division 21.
+Under Division 21 only the entity that makes the supply can make the adjustment for any bad debt relating to that supply. For example, if a debt is assigned, the assignee has no entitlement to a bad debt adjustment under Division 21.
 When do you attribute your adjustments?
 48. You attribute an adjustment to the tax period in which you become aware of it. Therefore, you attribute the decreasing adjustment to the tax period in which you write off the debt. If the debt has been overdue for 12 months or more, you attribute the decreasing adjustment to the tax period in which you become aware that the debt had become overdue for 12 months or more.
 Example (a)
@@ -277,7 +275,7 @@ Greg has a decreasing adjustment in relation to this outstanding debt. The adjus
 Adjustment notes
 50. Adjustment notes are required for adjustments arising from adjustment events.
 [F11]
-The writing off of a bad debt, or a debt becoming overdue for 12 months or more, is  not an adjustment event.  Therefore adjustment notes are not required when making adjustments for bad debts.
+The writing off of a bad debt, or a debt becoming overdue for 12 months or more, is not an adjustment event. Therefore adjustment notes are not required when making adjustments for bad debts.
 51. Furthermore, there is no requirement for suppliers to notify the recipient of a supply that a debt has been written off.
 The amount of the decreasing adjustment
 52. For a wholly taxable supply, the amount of the decreasing adjustment is 1/11 of the amount that has been written off as bad, or is overdue for 12 months or more.
@@ -292,15 +290,15 @@ Where:
 •
 'taxable proportion' is the proportion of the value of the supply (worked out as if it were solely a taxable supply) that the taxable supply represents.
 Example
-55. ABC Pty Ltd supplies breakfast cereals in plastic containers intended for re-use.  These supplies are partly taxable and partly GST-free.
+55. ABC Pty Ltd supplies breakfast cereals in plastic containers intended for re-use. These supplies are partly taxable and partly GST-free.
 [F13]
-ABC Pty Ltd determines that the proportion of the value of the supply that the taxable supply represents is 40%.  ABC Pty Ltd makes a supply to a retailer for $660.  The related debt is subsequently treated as bad.  ABC Pty Ltd makes a decreasing adjustment based on the formula:
+ABC Pty Ltd determines that the proportion of the value of the supply that the taxable supply represents is 40%. ABC Pty Ltd makes a supply to a retailer for $660. The related debt is subsequently treated as bad. ABC Pty Ltd makes a decreasing adjustment based on the formula:
 full adjustment * taxable proportion
-($660 x 1/11)   *   40%   =   $24.00
-Adjustment not to exceed  1/11 of consideration
+($660 x 1/11) * 40% = $24.00
+Adjustment not to exceed 1/11 of consideration
 56. Under Division 21, the adjustment is based on 1/11 of the consideration for a supply which is subsequently written off as bad or overdue for 12 months or more and excludes interest.
 Increasing adjustment
-57. Where you have previously made a decreasing adjustment for a bad debt and subsequently recover the whole or a part of the debt, you account for the amount recovered.  You make an increasing adjustment to your net amount equivalent to 1/11 of the amount recovered.  The increasing adjustment is made in the tax period in which the debt is recovered.
+57. Where you have previously made a decreasing adjustment for a bad debt and subsequently recover the whole or a part of the debt, you account for the amount recovered. You make an increasing adjustment to your net amount equivalent to 1/11 of the amount recovered. The increasing adjustment is made in the tax period in which the debt is recovered.
 58. If the amount that is recovered relates to a supply that was partly taxable, the increasing adjustment is calculated according to the formula outlined at paragraph 54.
 Entities making acquisitions
 59. An adjustment arises if you make a creditable acquisition and the debt relating to the acquisition is subsequently written off as bad or has been overdue for 12 months or more.
@@ -317,13 +315,13 @@ the whole or part of the consideration for the acquisition has not been paid; an
 •
 you are aware that the debt has been written off as bad or it has been overdue for 12 months or more.
 Creditable acquisition
-61. A creditable acquisition is an acquisition you use in your enterprise to make taxable supplies or GST-free supplies.  Acquisitions that relate solely to making input taxed supplies, or that are solely of a private or domestic nature, cannot be subject to increasing adjustments under Division 21.  Acquisitions of this nature are not creditable acquisitions as they were not made for a creditable purpose.
+61. A creditable acquisition is an acquisition you use in your enterprise to make taxable supplies or GST-free supplies. Acquisitions that relate solely to making input taxed supplies, or that are solely of a private or domestic nature, cannot be subject to increasing adjustments under Division 21. Acquisitions of this nature are not creditable acquisitions as they were not made for a creditable purpose.
 Attribution
-62. The input tax credit relating to the acquisition must  be attributed to a tax period.  There may be cases where the input tax credit is attributable to the
+62. The input tax credit relating to the acquisition must be attributed to a tax period. There may be cases where the input tax credit is attributable to the
 same
-tax period in which the debt is written off as bad.  In these situations, if you are aware that the debt has been written off as bad, you account for the amount of input tax credit on the acquisition and the amount of the adjustment separately on  your BAS.  The amounts are not to be offset against each other.
+tax period in which the debt is written off as bad. In these situations, if you are aware that the debt has been written off as bad, you account for the amount of input tax credit on the acquisition and the amount of the adjustment separately on your BAS. The amounts are not to be offset against each other.
 Consideration not paid
-63. For you to have an increasing adjustment, some or all of the consideration payable on the acquisition must not have been provided.  The increasing adjustment is calculated on the consideration that has not been provided.
+63. For you to have an increasing adjustment, some or all of the consideration payable on the acquisition must not have been provided. The increasing adjustment is calculated on the consideration that has not been provided.
 When do you attribute your adjustment?
 64. You attribute an adjustment to the tax period in which you become aware of it. Therefore, if you become aware that a debt has been written off, you attribute the increasing adjustment to the tax period in which you become aware that it has been written off. If the debt has been overdue for 12 months or more, you attribute the increasing adjustment to the tax period in which you become aware that the debt had become overdue for 12 months or more.
 Example
@@ -334,7 +332,7 @@ Russell receives Marcus' letter threatening legal action on 20 April 2002. Russe
 The amount of the increasing adjustment
 67. If the creditable acquisition is wholly for a creditable purpose, the increasing adjustment is 1/11 of the amount written off or 1/11 of the amount that remains overdue after 12 months.
 68. However, if you make an acquisition that is partly creditable, your increasing adjustment is calculated according to the following formula:
-full adjustment   *   extent of creditable purpose  *  extent of consideration
+full adjustment * extent of creditable purpose * extent of consideration
 [F14]
 Where:
 •
@@ -347,22 +345,22 @@ Where:
 68A. If you make an 'annual apportionment election' under Division 131, section 136-10 will not apply to the adjustment under Division 21 if the requirements of subsection 136-10(3) are met.
 [F15A]
 Example
-69. Isabella operates a gardening business and is registered for GST.  She does not account for GST using the cash basis.  She acquires a computer for $3,300.  The computer is used 60% for business purposes and 40% for private purposes.  Isabella's extent of creditable purpose is 60%.  Therefore, she claims an input tax credit of $180 ($3,300 x 1/11 x 60%).  She pays $2200 of the debt and subsequently experiences financial difficulties.
-70. The supplier writes off $1100 of the debt and makes a decreasing adjustment of $100 ($1100 x 1/11).  When Isabella makes her increasing adjustment she uses the following formula :
-full adjustment  *  extent of creditable purpose  *  extent of consideration
-$1100 * 1/11   *  60% * 100%  =  $60
+69. Isabella operates a gardening business and is registered for GST. She does not account for GST using the cash basis. She acquires a computer for $3,300. The computer is used 60% for business purposes and 40% for private purposes. Isabella's extent of creditable purpose is 60%. Therefore, she claims an input tax credit of $180 ($3,300 x 1/11 x 60%). She pays $2200 of the debt and subsequently experiences financial difficulties.
+70. The supplier writes off $1100 of the debt and makes a decreasing adjustment of $100 ($1100 x 1/11). When Isabella makes her increasing adjustment she uses the following formula :
+full adjustment * extent of creditable purpose * extent of consideration
+$1100 * 1/11 * 60% * 100% = $60
 71. If you make an acquisition that is partly creditable because you are not liable to provide the total consideration for the acquisition and you have only paid part of your liability, your increasing adjustment is calculated having regard to the extent to which you are liable to provide the outstanding consideration.
 Example
-72. X makes a taxable supply for $11,000 to Y and Z.  Y is liable for 20% of the consideration, Z is liable for 80% of the consideration. Y pays $1,100 and Z pays $5,500 towards the debt for the supply. X subsequently writes off the balance of $4,400 as a bad debt. X makes a decreasing adjustment for the supply and Y and Z make increasing adjustments. The increasing adjustments for Y and Z are calculated having regard to the extent to which each is liable to provide the outstanding consideration, rather than to the extent to which each was originally liable for the total consideration. Y still owes $1,100 and Z owes $3,300. Y calculates its increasing adjustment according to the following formula:
-full adjustment *  extent of creditable purpose  *  extent of consideration
-$4400  *  1/11  *  100%  *  1,100/4,400
-=  $400  *  25%
-=  $100
+72. X makes a taxable supply for $11,000 to Y and Z. Y is liable for 20% of the consideration, Z is liable for 80% of the consideration. Y pays $1,100 and Z pays $5,500 towards the debt for the supply. X subsequently writes off the balance of $4,400 as a bad debt. X makes a decreasing adjustment for the supply and Y and Z make increasing adjustments. The increasing adjustments for Y and Z are calculated having regard to the extent to which each is liable to provide the outstanding consideration, rather than to the extent to which each was originally liable for the total consideration. Y still owes $1,100 and Z owes $3,300. Y calculates its increasing adjustment according to the following formula:
+full adjustment * extent of creditable purpose * extent of consideration
+$4400 * 1/11 * 100% * 1,100/4,400
+= $400 * 25%
+= $100
 73.
 If you have an adjustment for a bad debt under section 21-15, 21-20, 136-40 or 136-45 in relation to a reduced credit acquisition
 [F16]
 and it was not partly creditable (that is, it is wholly for a creditable purpose because of Division 70), the amount of that adjustment is reduced to the following amount:
-full adjustment  *  percentage credit reduction  *  extent of consideration
+full adjustment * percentage credit reduction * extent of consideration
 [F17]
 Where:
 •
@@ -379,27 +377,27 @@ A New Tax System (Goods and Services Tax Transition Act) 1999
 75. If you acquire a motor vehicle for which you are not entitled to an input tax credit under section 20 of the Transition Act, you cannot have a bad debt adjustment.
 76. [Deleted]
 Decreasing adjustment
-77. Where you have previously made an increasing adjustment for a bad debt and subsequently pay to the supplier the whole or part of the amount written off or overdue for 12 months or more, you account for the amount paid.  You make a decreasing adjustment to your net amount equivalent to 1/11 of the amount paid.  The decreasing adjustment is made in the tax period in which the amount is paid.
+77. Where you have previously made an increasing adjustment for a bad debt and subsequently pay to the supplier the whole or part of the amount written off or overdue for 12 months or more, you account for the amount paid. You make a decreasing adjustment to your net amount equivalent to 1/11 of the amount paid. The decreasing adjustment is made in the tax period in which the amount is paid.
 78. If the payment relates to an acquisition which was partly creditable, the decreasing adjustment is calculated according to the formula outlined at paragraph 68.
-79. However, if your extent of consideration has altered between the time you made the acquisition and the time of the payment, the formula outlined at paragraph 68 should reflect the extent to which you provided the further consideration. The calculation should not be based on the original extent of   consideration.
+79. However, if your extent of consideration has altered between the time you made the acquisition and the time of the payment, the formula outlined at paragraph 68 should reflect the extent to which you provided the further consideration. The calculation should not be based on the original extent of consideration.
 Example
-80. X makes a taxable supply for $11,000 to Y and Z . Y is liable for 20% of the consideration, Z is liable for 80% of the consideration. Each entity  only pays a portion of its  respective liability and X subsequently writes off the balance as a bad debt. X makes a decreasing adjustment for the supply and Y and Z make increasing adjustments. Y and Z subsequently agree to alter their extent of consideration  so that each entity  is liable for 50% of the outstanding amount. After paying the outstanding amounts  Y and Z should use 50% as the extent of consideration for the acquisition when making their decreasing adjustments
+80. X makes a taxable supply for $11,000 to Y and Z . Y is liable for 20% of the consideration, Z is liable for 80% of the consideration. Each entity only pays a portion of its respective liability and X subsequently writes off the balance as a bad debt. X makes a decreasing adjustment for the supply and Y and Z make increasing adjustments. Y and Z subsequently agree to alter their extent of consideration so that each entity is liable for 50% of the outstanding amount. After paying the outstanding amounts Y and Z should use 50% as the extent of consideration for the acquisition when making their decreasing adjustments
 Application of Division 21 to supplies of freehold interests under Division 75 (the "margin scheme")
 81. For supplies of freehold interests in land, stratum units and long-term leases, you may choose, under Division 75, to apply the margin scheme for working out the amount of GST on the supply.
-82. Under the margin scheme, you calculate GST on the supply as 1/11 of your margin on the sale of the property.  The margin is calculated as your tax inclusive sale price less your original purchase price.  However, if you held the property at 1 July 2000, your margin is the sale price less the value of the real property at the specified date.
+82. Under the margin scheme, you calculate GST on the supply as 1/11 of your margin on the sale of the property. The margin is calculated as your tax inclusive sale price less your original purchase price. However, if you held the property at 1 July 2000, your margin is the sale price less the value of the real property at the specified date.
 [F19]
-83. If you have a bad debt relating to a taxable supply of real property to which you apply the margin scheme, you have an adjustment under Division 21.  However if the amount of the adjustment would otherwise exceed 1/11 of the margin for the supply, the amount of the adjustment is limited to 1/11 of the margin for the supply.
+83. If you have a bad debt relating to a taxable supply of real property to which you apply the margin scheme, you have an adjustment under Division 21. However if the amount of the adjustment would otherwise exceed 1/11 of the margin for the supply, the amount of the adjustment is limited to 1/11 of the margin for the supply.
 [F20]
 Example
-84. ABC Pty Ltd, a registered land developer, makes a taxable supply of real property under an instalment contract for $150,000.  It held the land at 1 July 2000, when it was valued at $95,000.  It chooses to apply the margin scheme and the margin for the supply is $55,000.  ABC Pty Ltd subsequently writes off as a bad debt $66,000 associated with the supply.  In this case, the amount of the adjustment, calculated under Division 21, is $6,000 (1/11 of $66,000).  This amount exceeds 1/11 of the margin for the supply ($5,000).  The amount of the adjustment is, therefore, limited to 1/11 of the margin.  The decreasing adjustment is $5,000.
-85. If you acquire property where GST on the supply was calculated on the margin, the acquisition is not a creditable acquisition.  This means you cannot have an increasing adjustment if the debt relating to the supply is subsequently written off as bad or overdue for 12 months or more.
+84. ABC Pty Ltd, a registered land developer, makes a taxable supply of real property under an instalment contract for $150,000. It held the land at 1 July 2000, when it was valued at $95,000. It chooses to apply the margin scheme and the margin for the supply is $55,000. ABC Pty Ltd subsequently writes off as a bad debt $66,000 associated with the supply. In this case, the amount of the adjustment, calculated under Division 21, is $6,000 (1/11 of $66,000). This amount exceeds 1/11 of the margin for the supply ($5,000). The amount of the adjustment is, therefore, limited to 1/11 of the margin. The decreasing adjustment is $5,000.
+85. If you acquire property where GST on the supply was calculated on the margin, the acquisition is not a creditable acquisition. This means you cannot have an increasing adjustment if the debt relating to the supply is subsequently written off as bad or overdue for 12 months or more.
 [F21]
 Definitions
 86. Terms used in this Ruling have the following meanings:
 Attribution
-This is the term used in the GST law to describe the way you account for GST payable, input tax credits and adjustments in order to work out your net amount of GST for the tax period.  GST payable, input tax credits and adjustments are attributed to tax periods rather than being remitted or refunded, as the case may be, each time a taxable supply, creditable acquisition or adjustment is made.
+This is the term used in the GST law to describe the way you account for GST payable, input tax credits and adjustments in order to work out your net amount of GST for the tax period. GST payable, input tax credits and adjustments are attributed to tax periods rather than being remitted or refunded, as the case may be, each time a taxable supply, creditable acquisition or adjustment is made.
 Creditable acquisition
-A creditable acquisition is an acquisition you use in your enterprise. You are entitled to an input tax credit for these acquisitions.  You make a creditable acquisition if:
+A creditable acquisition is an acquisition you use in your enterprise. You are entitled to an input tax credit for these acquisitions. You make a creditable acquisition if:
 •
 you acquire anything solely or partly for a creditable purpose; and
 •
@@ -410,22 +408,22 @@ you provide, or are liable to provide, consideration for the supply; and
 you are registered or required to be registered.
 [F22]
 Creditable purpose
-Creditable purpose is defined in section 11-15 and section 15-10.  You acquire a thing for a creditable purpose to the extent it is acquired in carrying on your enterprise.  You do not acquire a thing for a creditable purpose to the extent that the acquisition relates to making input taxed supplies or is of a private or domestic nature.
+Creditable purpose is defined in section 11-15 and section 15-10. You acquire a thing for a creditable purpose to the extent it is acquired in carrying on your enterprise. You do not acquire a thing for a creditable purpose to the extent that the acquisition relates to making input taxed supplies or is of a private or domestic nature.
 GST-free supplies
-GST-free supply means a supply that is GST-free under Division 38.  That Division provides that exports and supplies of certain things such as food, health, education, child care, religious services and farm land are GST-free.  If a supply is GST-free you do not charge GST on the supply, but you are entitled to input tax credits in respect of things acquired or imported to make the supply.
+GST-free supply means a supply that is GST-free under Division 38. That Division provides that exports and supplies of certain things such as food, health, education, child care, religious services and farm land are GST-free. If a supply is GST-free you do not charge GST on the supply, but you are entitled to input tax credits in respect of things acquired or imported to make the supply.
 Input tax credit
-This is the credit you are entitled to for the GST included in the price you pay for an acquisition or the GST paid on an importation if it is for use in your enterprise to make taxable or GST-free supplies.  The entitlement arises under section 11-20 (about creditable acquisitions) or section 15-15 (about creditable importations).
+This is the credit you are entitled to for the GST included in the price you pay for an acquisition or the GST paid on an importation if it is for use in your enterprise to make taxable or GST-free supplies. The entitlement arises under section 11-20 (about creditable acquisitions) or section 15-15 (about creditable importations).
 Input taxed supplies
-Input taxed supply means a supply that is input taxed under Division 40.  That Division sets out the supplies that are input taxed.  They are financial supplies (40-5), residential rent (40-35), residential premises (40-65), certain supplies of precious metals (40-100) and school tuckshops and canteens (40-130).  If a supply is input taxed you do not charge GST on the supply, but neither are you entitled to input tax credits for anything acquired or imported to make the supply.
+Input taxed supply means a supply that is input taxed under Division 40. That Division sets out the supplies that are input taxed. They are financial supplies (40-5), residential rent (40-35), residential premises (40-65), certain supplies of precious metals (40-100) and school tuckshops and canteens (40-130). If a supply is input taxed you do not charge GST on the supply, but neither are you entitled to input tax credits for anything acquired or imported to make the supply.
 Net amount
 Your net amount is the difference between your total GST payable and your total input tax credits for a tax period.
 [F23]
-It can be increased or decreased by adjustments arising in the same tax period.  You include your net amount for a tax period on your BAS.
+It can be increased or decreased by adjustments arising in the same tax period. You include your net amount for a tax period on your BAS.
 Overdue
 A debt is overdue if there has been a failure to discharge the debt, and that failure is a breach of the debtor's obligations in relation to the debt.
 [F24]
 Reduced credit acquisition
-Reduced credit acquisitions are acquisitions by financial suppliers that give rise to a partial input tax credit.  The particular acquisitions that are entitled to a reduced input tax credit are prescribed by regulation.
+Reduced credit acquisitions are acquisitions by financial suppliers that give rise to a partial input tax credit. The particular acquisitions that are entitled to a reduced input tax credit are prescribed by regulation.
 [F25]
 Taxable supply
 Taxable supply has the meaning given by sections 9-5 (the basic definition), 78-50 (about taxable supplies relating to insurance claims when entitlement to input tax credits is not disclosed), 84-5 (about intangible supplies from offshore) and 105-5 (about supplies by creditors in satisfaction of debts). Section 9-5 provides that:
@@ -567,7 +565,7 @@ TR 92/18 Income tax : bad debts (17 December 1992)
 [F8]
 See for example
 Point v FC of T
-(1970) 119 CLR 453;70 ATC 4021 (1970) 1 ATR 577.  In that case the taxpayer made a writing off entry for a debt after a deed of release of the debt had been executed. It was held that, upon execution of the deed of release, the debt ceased to exist and therefore could not subsequently be written off . See also
+(1970) 119 CLR 453;70 ATC 4021 (1970) 1 ATR 577. In that case the taxpayer made a writing off entry for a debt after a deed of release of the debt had been executed. It was held that, upon execution of the deed of release, the debt ceased to exist and therefore could not subsequently be written off . See also
 G.E. Crane Sales Pty Ltd v FC of T
 (1971)126 CLR 177; 71 ATC 4268; (1971) 2 ATR 692 where it was held that the writing off provisions of the income tax legislation could not apply to a debt that was no longer payable to the taxpayer in law or in equity.
 [F9]
@@ -583,7 +581,7 @@ Section 136-5
 [F13]
 Subsection 38-6(2) provides that packaging of food is only GST-free to the extent that the packaging is necessary for the supply of food
 and
-is packaging of a kind in which food of that kind is normally supplied. Packaging that is more than is usual and necessary is taxable. In this example the assumption  has been made that the packaging is not of a kind in which food of that kind is normally supplied.
+is packaging of a kind in which food of that kind is normally supplied. Packaging that is more than is usual and necessary is taxable. In this example the assumption has been made that the packaging is not of a kind in which food of that kind is normally supplied.
 [F14]
 Section 136-10
 [F15]
@@ -616,7 +614,7 @@ A New Tax System (Goods and Services Tax) Regulations 1999
 Previously issued as GSTR 1999/D4
 References
 ATO references:
-NO  99/16028-4
+NO 99/16028-4
 ISSN 1034-9758
 Related Rulings/Determinations:
 TR 92/18
@@ -670,7 +668,7 @@ ANTS(GST)A99 21-20
 ANTS(GST)A99 29-20(1)
 ANTS(GST)A99 Div 38
 ANTS(GST)A99 38-6(2)
-ANTS(GST)A99  Div 40
+ANTS(GST)A99 Div 40
 ANTS(GST)A99 Div 70
 ANTS(GST)A99 70-5(2)
 ANTS(GST)A99 75-10(3)
@@ -698,7 +696,7 @@ ANTS(GSTT)A99 15G
 ANTS(GSTT)A99 20
 ANTS(GST)R99 Pt.4-2
 ANTS(GST)R99 70-5.02(2)
-TAA 1953  Sch 1 Div 358
+TAA 1953 Sch 1 Div 358
 Case References:
 Case 45/93
 93 ATC 486

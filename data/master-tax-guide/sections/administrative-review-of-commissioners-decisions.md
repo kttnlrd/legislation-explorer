@@ -2,12 +2,12 @@
 act: "Australian Master Tax Guide"
 part: "28"
 section: "administrative-review-of-commissioners-decisions"
-title: "Administrative review of Commissioner’s decisions"
+title: "Administrative review of Commissioner's decisions"
 paragraph: "¶28-180"
 ---
-# Administrative review of Commissioner’s decisions ¶28-180
+# Administrative review of Commissioner's decisions ¶28-180
 
-Certain decisions of the Commissioner may be reviewed by the Federal Court under the Administrative Decisions (Judicial Review) Act 1977 (ADJR Act), the Judiciary Act 1903, s 39B or, it appears, under general administrative law principles. For example, generally, the exercise of Commissioner’s discretion is not subject to review under Pt IVC (AAT 2011 ATC ¶20-248; [2011] FCAFC 37). Nevertheless, the Commissioner has a legal duty to act fairly when exercising an administrative discretion (Pickering 97 ATC 4893; [1997] FCA 890). It may therefore be arguable that, where the Commissioner exercises his discretion favourably in respect of one taxpayer, the Commissioner must exercise his discretion in the same way in respect of another taxpayer who is in a like situation. In practice, a taxpayer’s ability to rely on this principle will, outside of family situations, depend largely on the extent to which the taxpayer can obtain information from the Commissioner (eg under the Freedom of Information Act 1982: ¶28-060) regarding the manner in which he has exercised his discretion in relation to other taxpayers. However, the Commissioner is not required to exercise diﬀerent discretions to bring about the same result for taxpayers in similar positions (Pickering 98 ATC 4977; [1998] FCA 1246).
+Certain decisions of the Commissioner may be reviewed by the Federal Court under the Administrative Decisions (Judicial Review) Act 1977 (ADJR Act), the Judiciary Act 1903, s 39B or, it appears, under general administrative law principles. For example, generally, the exercise of Commissioner's discretion is not subject to review under Pt IVC (AAT 2011 ATC ¶20-248; [2011] FCAFC 37). Nevertheless, the Commissioner has a legal duty to act fairly when exercising an administrative discretion (Pickering 97 ATC 4893; [1997] FCA 890). It may therefore be arguable that, where the Commissioner exercises his discretion favourably in respect of one taxpayer, the Commissioner must exercise his discretion in the same way in respect of another taxpayer who is in a like situation. In practice, a taxpayer's ability to rely on this principle will, outside of family situations, depend largely on the extent to which the taxpayer can obtain information from the Commissioner (eg under the Freedom of Information Act 1982: ¶28-060) regarding the manner in which he has exercised his discretion in relation to other taxpayers. However, the Commissioner is not required to exercise diﬀerent discretions to bring about the same result for taxpayers in similar positions (Pickering 98 ATC 4977; [1998] FCA 1246).
 
 Some decisions may be either challenged under TAA Pt IVC or reviewed under the ADJR Act (eg the refusal to issue a certiﬁcate that a ﬁlm is a qualifying Australian ﬁlm for tax purposes). If a decision is reviewable by another tribunal, the court may refuse to exercise its review powers under the ADJR Act (eg Szajntop 93 ATC 4307; [1993] FCA 231).
 
@@ -29,7 +29,7 @@ Reviewable decisions Decisions of the Commissioner which have been subject to ju
 
   distributions are made in an informal liquidation (Constable Holdings 86 ATC 4329)
 
-- decisions relating to the exercise of the Commissioner’s investigatory powers to gain access
+- decisions relating to the exercise of the Commissioner's investigatory powers to gain access
 
 (¶25-220) (Southern Farmers Group 90 ATC 4056, Robinswood 98 ATC 4442; [1998] FCA 404) or information (¶25-240) (Clarke & Kann 84 ATC 4273; [1984] FCA 94)
 
@@ -37,7 +37,7 @@ Reviewable decisions Decisions of the Commissioner which have been subject to ju
 
   204, Heath 95 ATC 4430)
 
-- refusal to grant a tax agent further extensions of time for lodging clients’ returns under the tax
+- refusal to grant a tax agent further extensions of time for lodging clients' returns under the tax
 
   agent lodgment program (Balnaves 85 ATC 4592; [1985] FCA 362)
 
@@ -91,7 +91,7 @@ FCA 317, Golden City Car & Truck Centre 99 ATC 4131; [1999] FCA 29; but compare 
 
 - a decision by the Commissioner to vote against a motion put (under the Bankruptcy Act) at a
 
-  meeting of a taxpayer’s creditors (Hutchins 96 ATC 4372; [1996] FCA 201)
+  meeting of a taxpayer's creditors (Hutchins 96 ATC 4372; [1996] FCA 201)
 
 - the decision by the Commissioner to establish the Work Related Expenses Audit Program, and
 
@@ -105,7 +105,7 @@ FCA 317, Golden City Car & Truck Centre 99 ATC 4131; [1999] FCA 29; but compare 
 
   [2002] FCAFC 271)
 
-- alleged failure by the ATO to comply with the ATO’s Guidelines for the Conduct of Auditors and
+- alleged failure by the ATO to comply with the ATO's Guidelines for the Conduct of Auditors and
 
 Taxpayers in Complex and Large Case Audits (Robinswood 98 ATC 4442; [1998] FCA 404)
 
@@ -113,11 +113,11 @@ Taxpayers in Complex and Large Case Audits (Robinswood 98 ATC 4442; [1998] FCA 4
 
   [1993] FCA 231).
 
-Non-binding oral advice, eg as to the deductibility of certain payments or the assessability of certain receipts, is unlikely to be a “decision” for the purposes of the ADJR Act and thus will not be reviewable (Pegasus Leasing 91 ATC 4972; [1991] FCA 515). A demand for withholding tax alleged to be payable is also not a “decision” (Century Yuasa Batteries 97 ATC 4299; [1997] FCA 193).
+Non-binding oral advice, eg as to the deductibility of certain payments or the assessability of certain receipts, is unlikely to be a "decision" for the purposes of the ADJR Act and thus will not be reviewable (Pegasus Leasing 91 ATC 4972; [1991] FCA 515). A demand for withholding tax alleged to be payable is also not a "decision" (Century Yuasa Batteries 97 ATC 4299; [1997] FCA 193).
 
 Decisions that are not reviewable can only be challenged (if at all) under the objection, review and appeal provisions of Pt IVC or, in exceptional circumstances, under s 39B (¶28-000).
 
-Unless there are exceptional circumstances, the Federal Court will decline to review an alleged abuse of process in instituting a prosecution in a Local Court, because the Local Court has its own power to grant a permanent stay if an abuse of process is established (Smiles 92 ATC 4475; [1992] FCA 441, Bryant’s case (No 2) 93 ATC 4833).
+Unless there are exceptional circumstances, the Federal Court will decline to review an alleged abuse of process in instituting a prosecution in a Local Court, because the Local Court has its own power to grant a permanent stay if an abuse of process is established (Smiles 92 ATC 4475; [1992] FCA 441, Bryant's case (No 2) 93 ATC 4833).
 
 ## The following are speciﬁcally not reviewable under the ADJR Act:
 

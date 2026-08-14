@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Amount adjusted**
 
-**(2)**  The amount of the person’s credit in subsection (1) may be reduced or increased if section LK 7 applies.
+**(2)**  The amount of the person's credit in subsection (1) may be reduced or increased if section LK 7 applies.
 
 **Limitation to quarantined amount**
 
-**(3)**  The person’s use under section LA 2 (Satisfaction of income tax liability) of a credit referred to in subsection (1) is limited to the amount (the quarantined amount) that would be their income tax liability for the tax year if their only assessable income were attributed CFC income derived from a CFC resident in the foreign country or territory referred to in subsection (1) in the accounting period in which the amount of tax giving rise to the credit was paid or payable.
+**(3)**  The person's use under section LA 2 (Satisfaction of income tax liability) of a credit referred to in subsection (1) is limited to the amount (the quarantined amount) that would be their income tax liability for the tax year if their only assessable income were attributed CFC income derived from a CFC resident in the foreign country or territory referred to in subsection (1) in the accounting period in which the amount of tax giving rise to the credit was paid or payable.
 
 **Tax withheld**
 

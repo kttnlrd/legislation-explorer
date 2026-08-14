@@ -21,7 +21,7 @@ If a trust is involved in an income injection scheme to take advantage of losses
 
   been provided, wholly or partly (but not merely incidentally) because the deduction is allowable.
 
-“Scheme” has the same meaning as in Pt IVA (¶30-140) and “beneﬁt” is broadly deﬁned to include money or other property, services, the release or waiver of a debt and any beneﬁt or advantage within the ordinary meaning of those words.
+"Scheme" has the same meaning as in Pt IVA (¶30-140) and "beneﬁt" is broadly deﬁned to include money or other property, services, the release or waiver of a debt and any beneﬁt or advantage within the ordinary meaning of those words.
 
 The income injection test also applies where a person who was an outsider before the scheme was entered into ceases, pursuant to the scheme, to be an outsider (by becoming the trustee of the trust or by receiving a ﬁxed entitlement to a share of the income or capital of the trust) (s 270-10(2)).
 

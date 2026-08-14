@@ -44,11 +44,11 @@ LCT value for importations
 
 LCT threshold The LCT threshold applying to a car is the threshold for the year in which the supply of the car occurred (in the case of purchases) or in which the car was entered for home consumption (in the case of importations).
 
-The thresholds are indexed each financial year. A different threshold applies to cars classed as “fuel- efficient”. The thresholds for the current and previous 4 financial years are: Financial year of supply/entry                                                              Luxury car threshold
+The thresholds are indexed each financial year. A different threshold applies to cars classed as "fuel- efficient". The thresholds for the current and previous 4 financial years are: Financial year of supply/entry                                                              Luxury car threshold
 
 *Refs: s 7-15)*
 
-2025–26                                                                           $80,567                            $91,387 2024–25                                                                           $80,567                            $91,387 2023–24                                                                           $76,950                            $89,332 2022–23                                                                           $71,849                            $84,916 2021–22                                                                           $69,152                            $79,659 Note: the luxury car threshold is not the same as the “car limit” (¶12-110) that applies for income tax depreciation purposes (LCT Act s 25-1, ITAA 1997 s 40-230).
+2025–26                                                                           $80,567                            $91,387 2024–25                                                                           $80,567                            $91,387 2023–24                                                                           $76,950                            $89,332 2022–23                                                                           $71,849                            $84,916 2021–22                                                                           $69,152                            $79,659 Note: the luxury car threshold is not the same as the "car limit" (¶12-110) that applies for income tax depreciation purposes (LCT Act s 25-1, ITAA 1997 s 40-230).
 
 Example: Calculating LCT A business buys a car (not a fuel-efficient car) for the GST-inclusive price of $95,000. Assume the LCT threshold is $85,030. The LCT is calculated as 33% × 10/11 × ($95,000 – $85,030) = $2,991. The total payable is therefore $95,000 + $2,991 = $97,991.
 

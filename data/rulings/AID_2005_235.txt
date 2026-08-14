@@ -3,28 +3,21 @@ ATO ID 2005/235
 ==================================================
 
 Goods and Services Tax
-        GST and payment made in settlement of a general insurance claim when the insured informs the insurer of its input tax credit entitlement on the premiums
-        FOI status: may be released
-
+ GST and payment made in settlement of a general insurance claim when the insured informs the insurer of its input tax credit entitlement on the premiums
+ FOI status: may be released
 
 This ATO ID is withdrawn as it is a simple restatement of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an insured business operator, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it:
-
-
 
 •receives a payment from the insurer in settlement of a claim under a general insurance policy, and
 •informed the insurer, at the time of making the claim, of its entitlement to an input tax credit equal to the goods and services tax (GST) payable on the insurance premiums?
@@ -39,8 +32,6 @@ Reasons for Decision
 One of the requirements of a taxable supply is that an entity makes a supply for consideration (paragraph 9-5(a) of the GST Act).
 Subsection 78-45(1) of the GST Act provides that if, in settlement of a claim under an insurance policy, an insurer:
 
-
-
 •makes a payment of money
 •makes a supply, or
 •makes both a payment of money and a supply
@@ -49,13 +40,9 @@ the payment or supply is not treated as consideration for a supply made by the e
 The entity is entitled to input tax credits for the general insurance premiums it has paid. Therefore, under subsection 78-45(1) of the GST Act, the payment to the entity by the insurer is not consideration for a supply by the entity.
 However, subsection 78-50(1) of the GST Act provides that the payment or supply is treated as consideration for a supply made by an entity if:
 
-
-
 (a)the entity paid all or a part of the premium, for the insurance policy, relating to the period during which the event giving rise to the claim happened
 (b)the entity, or the representative member of the GST group of which the entity is a member, was entitled to an input tax credit for the premium it paid
 (c)the entity:
-
-
 
 •did not, at or before the time a claim was first made under the insurance policy since the last payment of a premium, inform the insurer of the entitlement to an input tax credit for the premium it paid, or
 •in informing the insurer of the entitlement at or before that time, understated its extent, and
@@ -64,15 +51,14 @@ However, subsection 78-50(1) of the GST Act provides that the payment or supply 
 
 It does not matter whether that entity is the entity insured, or whether the payment or supply is made to that entity or any other entity.
 The entity is entitled to claim an input tax credit equal to the GST payable on the general insurance premiums and it
-          informed
-           the insurer of this entitlement at the time of making the claim. Therefore, subsection 78-50(1) of the GST Act does not apply to the insurance payment.
+ informed
+ the insurer of this entitlement at the time of making the claim. Therefore, subsection 78-50(1) of the GST Act does not apply to the insurance payment.
 The operation of subsection 78-45(1) of the GST Act is such that the payment the insurer makes to the entity is not consideration for a supply and consequently paragraph 9-5(a) of the GST Act is not satisfied. Accordingly, the entity is not making a taxable supply under section 9-5 of the GST Act when it receives the payment from the insurer in settlement of the claim under the general insurance policy.
-
 
 Note: Consideration is defined in section 9-15 of the GST Act. Despite this, section 78-45 overrides the definition to treat the payment as not being consideration for a supply.
 
 Date of decision:
-         3 June 2002
+  3 June 2002
 
 Legislative References:
 
@@ -86,31 +72,27 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST insurance
-          Insured
-          GST insurance policy
-          Insurance settlement under an insurance policy
-
+ GST insurance
+ Insured
+ GST insurance policy
+ Insurance settlement under an insurance policy
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         12 August 2005
+  12 August 2005
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  3 June 2002

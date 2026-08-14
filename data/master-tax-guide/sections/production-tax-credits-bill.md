@@ -15,7 +15,7 @@ Hydrogen Production Tax Incentive Amendments contained in sch 1 to the Bill will
 
 These amendments will commence on the later of the ﬁrst day of the ﬁrst quarter following assent and the day the Future Made in Australia (Guarantee of Origin) Act 2024 commences. However, these amendments will not commence if the Future Made in Australia (Guarantee of Origin) Act 2024 does not commence.
 
-These amendments partially implement the “Future Made in Australia – Making Australia a Renewable Energy Superpower” measure in the 2024–25 Budget.
+These amendments partially implement the "Future Made in Australia – Making Australia a Renewable Energy Superpower" measure in the 2024–25 Budget.
 
 See ¶19-135.
 
@@ -23,6 +23,6 @@ Critical Minerals Production Tax Incentive Schedule 2 to the Bill will establish
 
 Schedule 2 to the Bill will commence on the ﬁrst day of the ﬁrst quarter following assent. The CMPTI will apply to expenditure incurred in income years starting on or after 1 July 2027 and before 1 July 2040.
 
-Schedule 2 partially implements the “Future Made in Australia – Making Australia a Renewable Energy Superpower” measure in the 2024–25 Budget.
+Schedule 2 partially implements the "Future Made in Australia – Making Australia a Renewable Energy Superpower" measure in the 2024–25 Budget.
 
 See ¶19-135.

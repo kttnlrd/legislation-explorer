@@ -3,18 +3,14 @@ ATO ID 2002/20
 ==================================================
 
 Goods and Services Tax
-        GST and supply of an intraocular lens
-        FOI status: may be released
-
-
+ GST and supply of an intraocular lens
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a supplier of medical goods, making a GST-free supply under section 38-45 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies an intraocular lens to a hospital/medical practitioner?
@@ -28,8 +24,6 @@ Reasons for Decision
 Subsection 38-45(1)
 Under subsection 38-45(1) of the GST Act, the supply of a medical aid and appliance is GST-free where the medical aid or appliance:
 
-
-
 •is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations);
 •is specifically designed for people with an illness or disability; and
 •is not widely used by people without an illness or disability.
@@ -40,8 +34,6 @@ The Stedman's Medical Dictionary (2000) defines 'artificial eye' as:
 'a curved disk of opaque glass or plastic, containing an imitation iris and pupil in the centre, inserted beneath the eyelids and supported by the orbital contents after evisceration or enucleation; it may be ready-made (stock) or custom-made.'
 It is considered that an 'artificial eye' essentially replaces a natural eyeball which has been surgically removed due to severe damage, disease or tumour. Artificial eyes do not restore sight, but are prostheses designed to aid in:
 
-
-
 •preventing the remaining soft tissue from collapsing;
 •preventing eyelids and lashes from turning in; and
 •facilitating the proper circulation of tears so they can continue cleaning and lubricating the socket and lids.
@@ -51,14 +43,11 @@ Intraocular lenses are not covered by any other items in Schedule 3 or the GST r
 Subsection 38-45(2)
 Subsection 38-45(2) of the GST Act provides that a supply of a spare part is a GST-free supply if the spare part is:
 
-
-
 •supplied as a spare part for a medical aid or appliance that is GST-free under subsection 38-45(1) of the GST Act; and
 •specifically designed as a spare part for a medical aid or appliance that is GST-free under subsection 38-45(1) of the GST Act.
 
 In this case, the intraocular lens is designed to be implanted in the patient, to replace a part of a natural eye during an operation to correct eyesight problems. The lens is not implanted as part of, or a spare part to, a non-seeing prosthetic eyeball (an artificial eye). Therefore, the supply is not GST-free under subsection 38-45(2) of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies an intraocular lens to a hospital/medical practitioner.
-
 
 [Note 1: Prior to 31 October 2005 the supply of the intraocular lens from a hospital/medical practitioner to a patient may be GST-free under subsections 38-7(3) or 38-20(3) of the GST Act where the requirements of those subsections are satisfied.
 
@@ -69,7 +58,7 @@ History:
 ATO ID amended on xx November 2005 to add 'Prior to 31 October' into Note 1 and to add Note 2 as a result of an amendment to the definition of 'hospital treatment' in subsection 67(4) of the National Health Act 1953, which applies to section 38-20 of the GST Act. The amendment came into effect on 31 October 2005.
 
 Date of decision:
-         27 June 2001
+  27 June 2001
 
 Legislative References:
 
@@ -79,24 +68,22 @@ Other References:
 
 Stedman's Medical Dictionary, 2000, 27th edn, Lippincott Williams & Williams, Baltimore
 
-
 Keywords
 
 Goods & services tax
-          GST free
-          GST health
-          Section 38-45 - Medical aids & appliances
-          Taxable supply
-
+ GST free
+ GST health
+ Section 38-45 - Medical aids & appliances
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CW145393
+  CW145393
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         17 January 2002
+  17 January 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

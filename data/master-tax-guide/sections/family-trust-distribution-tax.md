@@ -19,7 +19,7 @@ Family trust distribution tax is payable (under sch 2F Div 271: ss 271-5 to 271-
 
   income or capital to a person other than the primary individual or a member of their family group
 
-(¶6-266). “Distribution” is deﬁned in sch 2F ss 272-45 to 272-63.
+(¶6-266). "Distribution" is deﬁned in sch 2F ss 272-45 to 272-63.
 
 Family trust distribution tax is imposed by the Family Trust Distribution Tax (Primary Liability) Act 1998 (s 4).
 

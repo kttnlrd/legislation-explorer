@@ -23,7 +23,7 @@ Increase in base penalty amount The base penalty amount is increased by 20% (eg 
 
   reasonable excuse, destruction of relevant records or collusion with others to conceal a shortfall.
 
-A tax agent’s failure to respond to a notice to produce documents, however, does not justify an increase in penalty (Bosanac 2018 ATC ¶10-474; [2018] AATA 472)
+A tax agent's failure to respond to a notice to produce documents, however, does not justify an increase in penalty (Bosanac 2018 ATC ¶10-474; [2018] AATA 472)
 
 - the taxpayer was liable to pay a penalty for a scheme shortfall amount (¶29-180) in an earlier
 
@@ -35,7 +35,7 @@ A tax agent’s failure to respond to a notice to produce documents, however, do
 
   about it within a reasonable time. For example where the taxpayer relies upon factual information
 
-  from a third party in preparing the taxpayer’s return and subsequently ﬁnds out that the information
+  from a third party in preparing the taxpayer's return and subsequently ﬁnds out that the information
 
   supplied is incorrect
 
@@ -53,7 +53,7 @@ A tax agent’s failure to respond to a notice to produce documents, however, do
 
   same failure previously.
 
-The uplift in s 284-220 applies automatically and is not a matter for the exercise of the Commissioner’s discretion (Ross [2021] FCA 766).
+The uplift in s 284-220 applies automatically and is not a matter for the exercise of the Commissioner's discretion (Ross [2021] FCA 766).
 
 Reduction of base penalty amount A base penalty amount is reduced to the extent that the false or misleading nature of a statement, a shortfall or a scheme shortfall is attributable to advice received from the Commissioner, a statement in an ATO publication or the general administrative practice of the Commissioner (s 284-224(1)). A general administrative practice is a practice which the Commissioner applies generally as a matter of administration, and consists of the habitual, customary or repeated adoption of a view in multiple cases (TD 2011/19).
 
@@ -63,7 +63,7 @@ The base penalty amount may also be reduced for voluntary disclosure by taxpayer
 
   misleading statement, a shortfall amount or scheme shortfall amount before being informed that an
 
-  examination of the taxpayer’s aﬀairs relating to taxation laws (“examination”) is to be conducted.
+  examination of the taxpayer's aﬀairs relating to taxation laws ("examination") is to be conducted.
 
 The penalty is also reduced where the taxpayer responds to a public request by the Commissioner for voluntary disclosures about participation in tax avoidance schemes or other arrangements by a particular date. Where the false or misleading statement does not result in the taxpayer having a shortfall amount, the base penalty amount is reduced to nil. Where there is a shortfall amount, the base penalty amount is reduced by 80% where the shortfall amount is $1,000 or more, or to nil where the shortfall amount is less than $1,000. For a scheme shortfall amount, the penalty is reduced by 80% and the $1,000 threshold does not apply, and
 
@@ -75,7 +75,7 @@ The penalty is also reduced where the taxpayer responds to a public request by t
 
 Commissioner may, if appropriate, deem the notiﬁcation to have taken place before the taxpayer was informed of an examination (s 284-225(5)). The notiﬁcation to the Commissioner must also arguably save the ATO signiﬁcant time or resources in the examination.
 
-The Commissioner’s views on voluntary disclosure are set out in MT 2012/3. If the Commissioner makes a public statement requesting voluntary disclosures by a particular day, the disclosure must be made before the earlier of:
+The Commissioner's views on voluntary disclosure are set out in MT 2012/3. If the Commissioner makes a public statement requesting voluntary disclosures by a particular day, the disclosure must be made before the earlier of:
 
 - the day the taxpayer is told by the Commissioner that an examination is to be conducted, or
 

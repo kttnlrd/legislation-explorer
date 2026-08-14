@@ -7,9 +7,9 @@ paragraph: "¶34-190"
 ---
 # Financial supplies ¶34-190
 
-Supplies that are classed as “ﬁnancial supplies” — including loans, share trades and life insurance — are input taxed (s 40-5). In general, this means that the ﬁnancial supplier cannot claim input tax credits on the things it acquires for the purpose of making that supply.
+Supplies that are classed as "ﬁnancial supplies" — including loans, share trades and life insurance — are input taxed (s 40-5). In general, this means that the ﬁnancial supplier cannot claim input tax credits on the things it acquires for the purpose of making that supply.
 
-As an exception to this general rule, certain acquisitions will entitle a ﬁnancial supplier to claim input tax credits, but only at a reduced rate of 75% (see below). Further exceptions apply where an entity does not exceed the ﬁnancial acquisitions threshold (sometimes called the “de minimis” test), where credits are being claimed for borrowing expenses or where supplies are made through overseas branches (s 11-15). The ﬁrst limb of the ﬁnancial acquisitions threshold is $150,000 (ss 189-5; 189-10).
+As an exception to this general rule, certain acquisitions will entitle a ﬁnancial supplier to claim input tax credits, but only at a reduced rate of 75% (see below). Further exceptions apply where an entity does not exceed the ﬁnancial acquisitions threshold (sometimes called the "de minimis" test), where credits are being claimed for borrowing expenses or where supplies are made through overseas branches (s 11-15). The ﬁrst limb of the ﬁnancial acquisitions threshold is $150,000 (ss 189-5; 189-10).
 
 What constitutes a ﬁnancial supply is speciﬁed in the A New Tax System (Goods and Services Tax) Regulations 2019 (GST Regulations) Div 40. Comprehensive guidelines are also contained in GSTR 2002/2.
 
@@ -19,13 +19,13 @@ What constitutes a ﬁnancial supply is speciﬁed in the A New Tax System (Good
 
 - bank, building society and credit union accounts
 
-- lending and borrowing, or providing credit. A purchase made under a “buy-now, pay-
+- lending and borrowing, or providing credit. A purchase made under a "buy-now, pay-
 
-  later” arrangement (such as Afterpay) would normally involve a provision of credit to the
+  later" arrangement (such as Afterpay) would normally involve a provision of credit to the
 
   purchaser, irrespective of whether interest or fees are charged. For ATO guidelines, see
 
-“GST considerations for buy-now, pay-later providers”
+"GST considerations for buy-now, pay-later providers"
 
 - mortgages or charges over real or personal property
 
@@ -51,7 +51,7 @@ What constitutes a ﬁnancial supply is speciﬁed in the A New Tax System (Good
 
 - services incidental to any of these
 
-(2) the transaction must be in the course of an enterprise and must be connected with Australia (¶34-105) (3) the entity that provides, acquires or disposes of the interests must be a “ﬁnancial supply provider”. This covers the owner of the interest immediately before its supply, the creator of the interest or the acquirer of the interest. For example, if an entity sells shares through an agent, the entity will be a ﬁnancial supply provider, but the agent is only a ﬁnancial supply facilitator. This means that if all the other relevant conditions are fulﬁlled, the entity’s sale of the shares will be input taxed, but the provision of the agent’s services to the entity would be taxable, and (4) the ﬁnancial supply provider must be registered or required to be registered.
+(2) the transaction must be in the course of an enterprise and must be connected with Australia (¶34-105) (3) the entity that provides, acquires or disposes of the interests must be a "ﬁnancial supply provider". This covers the owner of the interest immediately before its supply, the creator of the interest or the acquirer of the interest. For example, if an entity sells shares through an agent, the entity will be a ﬁnancial supply provider, but the agent is only a ﬁnancial supply facilitator. This means that if all the other relevant conditions are fulﬁlled, the entity's sale of the shares will be input taxed, but the provision of the agent's services to the entity would be taxable, and (4) the ﬁnancial supply provider must be registered or required to be registered.
 
 What are not financial supplies The supply of any of the following items, or interests in them, is not a ﬁnancial supply:
 
@@ -133,9 +133,9 @@ As mentioned above, the acquisition of certain services may entitle a ﬁnancial
 
 - trustee and custodial services (but not safe custody of money, documents or other things).
 
-Comprehensive guidelines on what acquisitions are “reduced credit acquisitions” are contained in GSTR 2004/1.
+Comprehensive guidelines on what acquisitions are "reduced credit acquisitions" are contained in GSTR 2004/1.
 
-Certain acquisitions made by “recognised trust schemes”, including managed investment schemes and regulated superannuation funds, are subject to 55% input tax credits (GST Regulations s 70-5.03).
+Certain acquisitions made by "recognised trust schemes", including managed investment schemes and regulated superannuation funds, are subject to 55% input tax credits (GST Regulations s 70-5.03).
 
 *Refs: s 70-5), s 70-5*
 

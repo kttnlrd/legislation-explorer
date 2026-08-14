@@ -3,23 +3,18 @@ ATO ID 2003/999
 ==================================================
 
 Income Tax
-        Capital gains tax: rollover relief - transfer of assets to company in same wholly-owned group prior to 1 July 2003
-        FOI status: may be released
-
+ Capital gains tax: rollover relief - transfer of assets to company in same wholly-owned group prior to 1 July 2003
+ FOI status: may be released
 
 This ATO ID is withdrawn as it is a simple restatement of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can rollover relief under Subdivision 126-B of the Income Tax Assessment Act 1997 (ITAA 1997) be chosen if, after 30 June 2002 but before 1 July 2003, an Australian resident company (the originating company) transfers a CGT asset to another Australian resident company (the recipient company) who is a member of the same wholly-owned group of companies and the originating company had not been a member of a consolidated group or MEC group at any time before the transfer?
@@ -40,8 +35,6 @@ The rollover requirements are set out in section 126-50 of the ITAA 1997. Those 
 Also, rollover may not be available for CGT events that happen before 1 July 2003 if, before that date, the originating company became a member of a consolidated group or MEC group when the group formed (subitem 23(2) of Schedule 3 to the NBTS Act). In that case, rollover is not available from the day on which the group was formed (subitem 23(3) of Schedule 3 to the NBTS Act).
 In this case, neither the originating company nor the recipient company were members of a consolidated group or MEC group prior to 1 July 2003. Therefore, as the CGT event happened in May 2003 when the shares were transferred, it is the requirements which existed in section 126-50 of the ITAA 1997 prior to the amendments which must be met. Where a CGT asset is transferred from an Australian resident company to another Australian resident company, those requirements are:
 
-
-
 • both companies must be members of the same wholly-owned group at the time that the CGT event happens to the originating company (subsection 126-50(1))
 • the CGT assets involved in the rollover must not be trading stock of the recipient company just after the CGT event (subsection 126-50(2)), and
 • the ordinary income and the statutory income of the recipient company must not be exempt from income tax because it is an exempt entity (subsection 126-50(4)).
@@ -50,10 +43,10 @@ In this case, the CGT event happened in May 2003 when the shares were transferre
 Therefore, as the originating company has made a capital gain under CGT event A1 as a result of the transfer of the shares, both the originating company and the recipient company may choose to obtain rollover relief in relation to the transfer (section 126-55 of the ITAA 1997). If the choice is made, the originating company can disregard under subsection 126-60(1) of the ITAA 1997 any capital gain that arises from the transfer of the shares to the recipient company.
 Note: Rollover relief may also have been chosen if the recipient company had been a member of a consolidated group or MEC group prior to the transfer. This is because rollover is only denied for CGT events that happen prior to 30 June 2003 if the originating company has been a member of a consolidated group or MEC group prior to the transfer.
 Date of decision:
-         26 September 2003
+  26 September 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -63,34 +56,30 @@ Income Tax Assessment Act 1997   Subdivision 126-B   subsection 126-45(1)�
 Keywords
 
 Capital gains
-          CGT assets
-          CGT companies in the same wholly owned group
-          CGT event A1-disposal of a CGT asset
-          CGT roll-over relief
-          Consolidated group
-          Consolidation - capital gains tax
-          Consolidation - multiple entry consolidated group
-
+ CGT assets
+ CGT companies in the same wholly owned group
+ CGT event A1-disposal of a CGT asset
+ CGT roll-over relief
+ Consolidated group
+ Consolidation - capital gains tax
+ Consolidation - multiple entry consolidated group
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         14 November 2003
+  14 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 26 September 2003

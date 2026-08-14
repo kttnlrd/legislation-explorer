@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Taxable income**
 
-**(3)**  Taxable income is the amount that would be the master superannuation fund’s taxable income in the tax year in which the expenditure is incurred in the absence of sections DV 2 to DV 4.
+**(3)**  Taxable income is the amount that would be the master superannuation fund's taxable income in the tax year in which the expenditure is incurred in the absence of sections DV 2 to DV 4.
 
 **Non-resident passive income**
 

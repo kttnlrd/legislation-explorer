@@ -9,23 +9,23 @@ paragraph: "¶13-830"
 
 If an individual has excess concessional contributions in a ﬁnancial year, the Commissioner must make a written determination stating the amount of the excess contributions and give the excess concessional contributions determination to the individual (TAA sch 1 s 97-5).
 
-An individual’s assessable income in a year of income includes the individual’s excess concessional contributions for the corresponding ﬁnancial year (ITAA97 s 291-15). Excess concessional contributions included in assessable income are taxed at marginal tax rates, with a tax oﬀset equal to 15% of the excess contributions (see below).
+An individual's assessable income in a year of income includes the individual's excess concessional contributions for the corresponding ﬁnancial year (ITAA97 s 291-15). Excess concessional contributions included in assessable income are taxed at marginal tax rates, with a tax oﬀset equal to 15% of the excess contributions (see below).
 
 An individual can apply to the Commissioner for a release authority to release up to 85% of their excess concessional contributions from their superannuation fund in accordance with TAA sch 1 Div 131 (see below).
 
-In special circumstances, an individual can apply for an exercise of the Commissioner’s discretion to disregard or reallocate excess concessional contributions made in a ﬁnancial year, and can appeal against the Commissioner’s decision on the exercise of the discretion in accordance with TAA Pt IVC (¶13-875) (ITAA97 ss 291-465; 292-465).
+In special circumstances, an individual can apply for an exercise of the Commissioner's discretion to disregard or reallocate excess concessional contributions made in a ﬁnancial year, and can appeal against the Commissioner's decision on the exercise of the discretion in accordance with TAA Pt IVC (¶13-875) (ITAA97 ss 291-465; 292-465).
 
-Excess concessional contributions tax offset An individual is entitled to a tax oﬀset for 15% of excess concessional contributions that has been included in assessable income (see above) for the ﬁnancial year corresponding to the income year. The oﬀset reduces the individual’s tax liability for the contributions tax that has been paid by the superannuation fund (¶13-125) in respect of the excess concessional contributions (¶13-820). The tax oﬀset cannot be refunded, carried forward or transferred (ITAA97 ss 63-10(1), table item 20; 291-15).
+Excess concessional contributions tax offset An individual is entitled to a tax oﬀset for 15% of excess concessional contributions that has been included in assessable income (see above) for the ﬁnancial year corresponding to the income year. The oﬀset reduces the individual's tax liability for the contributions tax that has been paid by the superannuation fund (¶13-125) in respect of the excess concessional contributions (¶13-820). The tax oﬀset cannot be refunded, carried forward or transferred (ITAA97 ss 63-10(1), table item 20; 291-15).
 
 *Refs: s 97-5), ITAA97 s 291-15), s 291-465, s 63-10(1)*
 
 and review rights An individual who receives an excess concessional contributions determination made by the Commissioner under TAA sch 1 s 97-5 may object to the determination in accordance with TAA Pt IVC (TAA sch 1 s 97-10).
 
-The grounds for objection may overlap with the grounds for objecting to a tax assessment relating to the Commissioner’s decision about exercising his discretion to disregard or reallocate excess concessional contributions (¶13-875). An objection to one of these decisions is considered to be an objection to all of these decisions to the extent that there are grounds for objection to the other decisions. There is therefore no ambiguity about the authority of the courts and tribunals to provide appropriate remedies where the grounds for an objection raise issues that overlap the related decisions. This also ensures that individuals cannot seek to make separate objections to each decision raising the same ground or grounds (TAA ss 14ZVB; 14ZW(1)(aac)).
+The grounds for objection may overlap with the grounds for objecting to a tax assessment relating to the Commissioner's decision about exercising his discretion to disregard or reallocate excess concessional contributions (¶13-875). An objection to one of these decisions is considered to be an objection to all of these decisions to the extent that there are grounds for objection to the other decisions. There is therefore no ambiguity about the authority of the courts and tribunals to provide appropriate remedies where the grounds for an objection raise issues that overlap the related decisions. This also ensures that individuals cannot seek to make separate objections to each decision raising the same ground or grounds (TAA ss 14ZVB; 14ZW(1)(aac)).
 
 Request to release excess concessional contributions TAA sch 1 Div 131 applies from 1 July 2018 for the release of superannuation money when an individual receives an excess concessional determination (or an excess non-concessional contributions determination, or an assessment of Division 293 tax or FHSS determination) from the Commissioner (¶13-880).
 
-An individual who receives an excess concessional contributions determination may request the Commissioner to issue a release authority to release up to 85% of the amount of the excess concessional contributions for that ﬁnancial year from the individual’s nominated superannuation fund (TAA sch 1 s 131-5).
+An individual who receives an excess concessional contributions determination may request the Commissioner to issue a release authority to release up to 85% of the amount of the excess concessional contributions for that ﬁnancial year from the individual's nominated superannuation fund (TAA sch 1 s 131-5).
 
 The amount that can be released is capped at 85% as the remaining 15% represents the contributions tax liability of the superannuation provider when it received the contribution (s 131-10(1)).
 
@@ -39,27 +39,27 @@ A superannuation provider must, within 10 business days of receiving the release
 
 - the total of the amounts that can be released from the speciﬁed superannuation interests (the
 
-  “maximum available release amount”) (TAA sch 1 ss 131-35; 131-45).
+  "maximum available release amount") (TAA sch 1 ss 131-35; 131-45).
 
 Example Amy received an excess concessional contributions determination (including details of her excess concessional contribution of $5,000) under TAA sch 1 s 97-5 from the ATO.
 
 She has 60 days to apply to the ATO to withdraw some of the excess concessional contributions from one of her superannuation funds by making a request in the approved form to the ATO under s 131-5(3). She decides to request a release of $4,250 (being the maximum amount of 85% of the excess contributions of $5,000).
 
-On receipt of the request, the ATO will issue a release authority to Amy’s nominated superannuation fund to release $4,250 to the ATO to meet Amy’s tax debt (if any) before refunding any balance to her.
+On receipt of the request, the ATO will issue a release authority to Amy's nominated superannuation fund to release $4,250 to the ATO to meet Amy's tax debt (if any) before refunding any balance to her.
 
 Any released amount can only be put back into superannuation, for example, by Amy making concessional contributions or non- concessional contributions to a superannuation fund subsequently.
 
 *Refs: s 97-5, s 97-10), s 131-5), s 131-10(1)), s 131-15, ITAA97 s 303-15), s 131-5, s 131-5(3), s 131-15), s 131-35*
 
-concessional contributions An individual’s excess concessional contributions in a ﬁnancial year are included as non-concessional contributions of the individual for the year (ITAA97 s 292-90(1)(b): ¶13-860).
+concessional contributions An individual's excess concessional contributions in a ﬁnancial year are included as non-concessional contributions of the individual for the year (ITAA97 s 292-90(1)(b): ¶13-860).
 
-However, if an amount of excess concessional contributions has been released by a superannuation fund under s 131-15 (see above), the amount of the individual’s excess concessional contributions is reduced for the purpose of determining the amount that is included as the individual’s non-concessional contributions (ITAA97 s 292-90(1A)). The reduction amount is a gross-up amount equal to 100/85 of the excess concessional contributions amount released (ie the amount released divided by 85%).
+However, if an amount of excess concessional contributions has been released by a superannuation fund under s 131-15 (see above), the amount of the individual's excess concessional contributions is reduced for the purpose of determining the amount that is included as the individual's non-concessional contributions (ITAA97 s 292-90(1A)). The reduction amount is a gross-up amount equal to 100/85 of the excess concessional contributions amount released (ie the amount released divided by 85%).
 
-This means that an individual can choose to release a certain amount of excess concessional contributions (up to the maximum allowed to be released) so that the excess concessional contributions will not aﬀect the individual’s non-concessional contributions position.
+This means that an individual can choose to release a certain amount of excess concessional contributions (up to the maximum allowed to be released) so that the excess concessional contributions will not aﬀect the individual's non-concessional contributions position.
 
-Example (adapted from the EM) Assume that Lucy has excess concessional contributions of $10,000 in 2024–25 and that when the excess concessional contributions amount is included as Lucy’s non-concessional contributions, Lucy’s total non-concessional contributions for the year will amount to $125,000. This will result in Lucy having excess non-concessional contributions of $5,000 in 2024–25 as the non-concessional contributions cap for the year is $120,000.
+Example (adapted from the EM) Assume that Lucy has excess concessional contributions of $10,000 in 2024–25 and that when the excess concessional contributions amount is included as Lucy's non-concessional contributions, Lucy's total non-concessional contributions for the year will amount to $125,000. This will result in Lucy having excess non-concessional contributions of $5,000 in 2024–25 as the non-concessional contributions cap for the year is $120,000.
 
-If Lucy chooses to release $7,000 of her excess concessional contributions from her superannuation fund, this will reduce her non-concessional contributions by a gross-up amount of $8,235, as calculated below: $7,000 ÷ 85% = 100/85 × $7,000 = $8,235 The above choice will mean that Lucy’s non-concessional contributions amount for 2024–25 is reduced to $116,765 ($125,000 – $8,235), which is within the $120,000 cap in 2024–25, and she will not have excess non-concessional contributions for the year.
+If Lucy chooses to release $7,000 of her excess concessional contributions from her superannuation fund, this will reduce her non-concessional contributions by a gross-up amount of $8,235, as calculated below: $7,000 ÷ 85% = 100/85 × $7,000 = $8,235 The above choice will mean that Lucy's non-concessional contributions amount for 2024–25 is reduced to $116,765 ($125,000 – $8,235), which is within the $120,000 cap in 2024–25, and she will not have excess non-concessional contributions for the year.
 
 The remaining $3,000 excess concessional contributions in 2024–25 which is not released continues to be assessable excess concessional contributions. contributions Non-concessional contributions and excess contributions The rules governing non-concessional contributions and excess non-concessional contributions tax are set out in ITAA97 Div 292 and TAA sch 1 Div 97.
 
@@ -67,13 +67,13 @@ If an individual has excess non-concessional contributions in a ﬁnancial year 
 
 Excess non-concessional contributions tax is imposed on the excess contributions at 47% (Superannuation (Excess Non-concessional Contributions Tax) Act 2007, ss 5; 6).
 
-An individual with excess non-concessional contributions may apply to the Commissioner for a release authority to withdraw the excess contributions plus 85% of the associated earnings on those contributions from the individual’s nominated superannuation fund (¶13-870, ¶13-880).
+An individual with excess non-concessional contributions may apply to the Commissioner for a release authority to withdraw the excess contributions plus 85% of the associated earnings on those contributions from the individual's nominated superannuation fund (¶13-870, ¶13-880).
 
-An individual’s general non-concessional cap is $120,000 in 2024–25 but is nil if, before the start of the year, the individual’s total superannuation balance is equal to or more than the general transfer balance cap for the year (see “Non-concessional contributions cap” and “Non-concessional contributions cap under a bring forward rule” below).
+An individual's general non-concessional cap is $120,000 in 2024–25 but is nil if, before the start of the year, the individual's total superannuation balance is equal to or more than the general transfer balance cap for the year (see "Non-concessional contributions cap" and "Non-concessional contributions cap under a bring forward rule" below).
 
 What are non-concessional contributions?
 
-An individual’s non-concessional contributions in a ﬁnancial year is the sum of:
+An individual's non-concessional contributions in a ﬁnancial year is the sum of:
 
 - contributions made for or by the individual that are not included in the assessable income of a
 
@@ -81,7 +81,7 @@ An individual’s non-concessional contributions in a ﬁnancial year is the sum
 
 - certain allocations for the individual from reserves, and
 
-- the individual’s excess concessional contributions (if any) for the year (s 292-90(1)).
+- the individual's excess concessional contributions (if any) for the year (s 292-90(1)).
 
 The following contributions and amounts in a ﬁnancial year are covered by s 292-90(1):
 
@@ -89,11 +89,11 @@ The following contributions and amounts in a ﬁnancial year are covered by s 29
 
   made to a constitutionally protected fund)
 
-- contributions made for the person by the person’s spouse
+- contributions made for the person by the person's spouse
 
-- contributions in excess of the person’s capital gains tax (CGT) cap amount (see below)
+- contributions in excess of the person's capital gains tax (CGT) cap amount (see below)
 
-- amounts transferred from foreign superannuation funds (excluding amounts included in the fund’s
+- amounts transferred from foreign superannuation funds (excluding amounts included in the fund's
 
   assessable income)
 
@@ -105,21 +105,21 @@ The following contributions and amounts in a ﬁnancial year are covered by s 29
 
   for a member in accordance with the conditions in ITR2021 s 292-90.01 and SISR Div 7.2 (see
 
-“Allocations treated as non-concessional contributions and exceptions” below)
+"Allocations treated as non-concessional contributions and exceptions" below)
 
 - the amount of a contribution that is covered by a valid and acknowledged notice under s 290-170
 
   (¶13-730) to the extent that the contributor is not entitled to a deduction
 
-- the person’s excess concessional contributions (if any) for the ﬁnancial year (see “Excess
+- the person's excess concessional contributions (if any) for the ﬁnancial year (see "Excess
 
-  concessional contributions are included as non-concessional contributions” in ¶13-830) (ITAA97 s
+  concessional contributions are included as non-concessional contributions" in ¶13-830) (ITAA97 s
 
 292-90).
 
-A person’s excess concessional contributions that have been released in accordance with a release authority under TAA sch 1 Div 131 (¶13-880) are excluded when determining the person’s excess non-concessional contributions (ITAA97 s 292-90(1A)). contributions An amount transferred from a KiwiSaver scheme to a complying superannuation fund is treated as a non- concessional contribution on initial entry into the Australian superannuation system, with some exceptions (¶13-380).
+A person's excess concessional contributions that have been released in accordance with a release authority under TAA sch 1 Div 131 (¶13-880) are excluded when determining the person's excess non-concessional contributions (ITAA97 s 292-90(1A)). contributions An amount transferred from a KiwiSaver scheme to a complying superannuation fund is treated as a non- concessional contribution on initial entry into the Australian superannuation system, with some exceptions (¶13-380).
 
-Where a person’s intention to make a contribution is clear, the ATO will include the full amount of the person’s contribution as non-concessional contributions even though part of it has been returned by the recipient fund purportedly under the law of restitution (ID 2010/104).
+Where a person's intention to make a contribution is clear, the ATO will include the full amount of the person's contribution as non-concessional contributions even though part of it has been returned by the recipient fund purportedly under the law of restitution (ID 2010/104).
 
 *Refs: ITAA97 s 292-90(1)(, s 131-15, ITAA97 s 292-90(1, ITAA97 s 292-230), s 292-90(1)), s 292-90(1), s 292-90, s 290-170, ITAA97 s
 292-90)*
@@ -132,9 +132,9 @@ contributions The following contributions (which are not included in the assessa
 
   personal injuries) and contributions covered by s 292-100 (ie payments arising from the small
 
-  business CGT concessions which are within the person’s CGT cap amount (see “Contributions —
+  business CGT concessions which are within the person's CGT cap amount (see "Contributions —
 
-  personal injury payments and CGT exempt amounts” below)
+  personal injury payments and CGT exempt amounts" below)
 
 - contributions covered by s 292-102 (downsizer contributions: ¶13-795)
 
@@ -144,7 +144,7 @@ contributions The following contributions (which are not included in the assessa
 
   has a deﬁned beneﬁt interest, or to a constitutionally protected fund that are not included in the
 
-  contributions segment of the person’s superannuation interest in the fund (ITAA97 s 290-155(1)(a))
+  contributions segment of the person's superannuation interest in the fund (ITAA97 s 290-155(1)(a))
 
 - contributions not included in the assessable income of a public sector superannuation scheme
 
@@ -156,7 +156,7 @@ contributions The following contributions (which are not included in the assessa
 
   superannuation funds: ¶14-450) (s 292-90(2)(c)).
 
-A taxpayer’s contribution to a superannuation fund, which arose from an eligible termination payment made to the taxpayer from a superannuation fund, was held to be a non-concessional contribution, not a roll-over superannuation beneﬁt (¶14-450) (Player 2011 ATC ¶20-271; [2011] FCA 869).
+A taxpayer's contribution to a superannuation fund, which arose from an eligible termination payment made to the taxpayer from a superannuation fund, was held to be a non-concessional contribution, not a roll-over superannuation beneﬁt (¶14-450) (Player 2011 ATC ¶20-271; [2011] FCA 869).
 
 *Refs: s 292-95, s 292-100, s 292-102, s 292-103, ITAA97 s 290-155(1)(, ITAA97 s 295-180, s 292-90(2)(*
 
@@ -164,7 +164,7 @@ exempt amounts Superannuation contributions made in the circumstances below are 
 
 - contributions relating to personal injury payments. The contribution must arise from a personal
 
-  injury structured settlement, court-ordered payment or lump sum workers’ compensation payment,
+  injury structured settlement, court-ordered payment or lump sum workers' compensation payment,
 
   and must be made to a superannuation fund within 90 days of receiving payment or structured
 
@@ -174,28 +174,28 @@ exempt amounts Superannuation contributions made in the circumstances below are 
 
 - contributions arising from the disposal of assets that qualify for the small business 15-year asset
 
-  exemption or retirement exemption up to a person’s lifetime “CGT cap amount” (see below).
+  exemption or retirement exemption up to a person's lifetime "CGT cap amount" (see below).
 
 *Refs: s
 292-90(2)(, ITAA97 s 292-95)*
 
-and exceptions ITR2021 s 292-90.01 sets out the conditions for the allocation of an amount in a complying superannuation plan for an individual for a ﬁnancial year for the purposes of ITAA97 s 292-90(4)(a). The conditions for allocations from reserves which are counted towards an individual’s non-concessional contributions cap contributions are set out in ss 292-90.01(2) to 292-90.02. These conditions capture amounts previously included in an individual’s concessional contributions before 7 December 2024.
+and exceptions ITR2021 s 292-90.01 sets out the conditions for the allocation of an amount in a complying superannuation plan for an individual for a ﬁnancial year for the purposes of ITAA97 s 292-90(4)(a). The conditions for allocations from reserves which are counted towards an individual's non-concessional contributions cap contributions are set out in ss 292-90.01(2) to 292-90.02. These conditions capture amounts previously included in an individual's concessional contributions before 7 December 2024.
 
-Section 292-90.02(2) to (6) set out various conditions in which reserve allocations are not included in an individual’s non-concessional contributions. The amount must be an allocation from a reserve used solely for the purpose of enabling the superannuation fund to discharge liabilities in respect of superannuation income stream beneﬁts and the allocation is made to the recipient of a superannuation income stream to which the reserve relates. The note under s 292-90.02(1) clariﬁes that if this section applies due to any of the following subsections applying, the reserve allocation will not satisfy the condition in s 292-90.01(2A) for inclusion in an individual’s non-concessional contributions for a ﬁnancial year. Section 292-90.02(2) to (6) essentially maintain the existing rules about when reserves can be allocated and the allocations that do not count towards an individual’s non-concessional contributions cap, as summarised below:
+Section 292-90.02(2) to (6) set out various conditions in which reserve allocations are not included in an individual's non-concessional contributions. The amount must be an allocation from a reserve used solely for the purpose of enabling the superannuation fund to discharge liabilities in respect of superannuation income stream beneﬁts and the allocation is made to the recipient of a superannuation income stream to which the reserve relates. The note under s 292-90.02(1) clariﬁes that if this section applies due to any of the following subsections applying, the reserve allocation will not satisfy the condition in s 292-90.01(2A) for inclusion in an individual's non-concessional contributions for a ﬁnancial year. Section 292-90.02(2) to (6) essentially maintain the existing rules about when reserves can be allocated and the allocations that do not count towards an individual's non-concessional contributions cap, as summarised below:
 
-- the “fair and reasonable” allocation rule permits allocations for all members of the fund, or class
+- the "fair and reasonable" allocation rule permits allocations for all members of the fund, or class
 
   of members to which the reserve relates, on a fair and reasonable basis. If the allocations for the
 
-  ﬁnancial year are less than 5% of the value of the member’s interest in the superannuation plan at
+  ﬁnancial year are less than 5% of the value of the member's interest in the superannuation plan at
 
   the time the allocation is made, they are not counted towards the non-concessional contributions
 
   cap (s 292-90.02(2); this section replaced former s 291-25.01(4))
 
-- amounts allocated from a “pension reserve” (as deﬁned in s 292-90.02(7)) of a complying
+- amounts allocated from a "pension reserve" (as deﬁned in s 292-90.02(7)) of a complying
 
-  superannuation plan for the reason of satisfying a “pension liability” (see s 292-90.02(8)) during the
+  superannuation plan for the reason of satisfying a "pension liability" (see s 292-90.02(8)) during the
 
   ﬁnancial year in which the liability is paid do not count towards the non-concessional contributions
 
@@ -240,7 +240,7 @@ These individuals can receive an allocation of the entire pension reserve. This 
 
   allocated to the recipient and paid as a superannuation death beneﬁt and a lump sum as soon
 
-  as practicable, the amount is also not to be counted towards the recipient’s contributions caps (s
+  as practicable, the amount is also not to be counted towards the recipient's contributions caps (s
 
 292-90.02(6); this section replaced former s 291-25.01(5)(c)(ii)).
 
@@ -264,9 +264,9 @@ The CGT cap amount is indexed annually to AWOTE, in increments of $5,000 rounded
 
 For the above purposes, a pre-CGT asset is treated as a post-CGT asset (s 292-100(5)).
 
-For contributions in a ﬁnancial year to be counted in the CGT cap, they must be paid to the superannuation fund in the manner and by the time set out in s 292-100 (based on the CGT concessions involved). The election to use the CGT cap must be made in the approved form (“Capital gains tax cap election” form) and be given to the superannuation fund on or before the time the contribution is made (s 292-100(9)). This gives an individual the choice as to whether all or part of a contribution is counted against the non-concessional contributions cap or CGT cap.
+For contributions in a ﬁnancial year to be counted in the CGT cap, they must be paid to the superannuation fund in the manner and by the time set out in s 292-100 (based on the CGT concessions involved). The election to use the CGT cap must be made in the approved form ("Capital gains tax cap election" form) and be given to the superannuation fund on or before the time the contribution is made (s 292-100(9)). This gives an individual the choice as to whether all or part of a contribution is counted against the non-concessional contributions cap or CGT cap.
 
-A “CGT concession stakeholder” (¶7-155) of a small business entity (eg a company or a trust) that has a capital gain which is disregarded under the 15-year asset exemption or retirement exemption can also use the CGT cap provided the entity makes a payment to or on behalf of the stakeholder as required by s 292-100(4) and (8).
+A "CGT concession stakeholder" (¶7-155) of a small business entity (eg a company or a trust) that has a capital gain which is disregarded under the 15-year asset exemption or retirement exemption can also use the CGT cap provided the entity makes a payment to or on behalf of the stakeholder as required by s 292-100(4) and (8).
 
 An individual claiming the Div 152-D retirement exemption who is under 55 years of age must contribute an amount equal to the CGT exempt amount to a complying superannuation fund or RSA (ITAA97 s 152-305(1) (b)). Likewise, where a company or trust chooses the retirement exemption and a CGT concession stakeholder is under 55 just before a payment is made in relation to them, the company or trust must contribute the CGT exempt amount to a complying superannuation fund or an RSA (ITAA97 ss 152-325(7) (a); ¶7-185). Contributions for this purpose may be made in specie, provided the relevant SISA provisions governing such transfers are met (ID 2010/217).
 
@@ -283,7 +283,7 @@ Non-concessional contributions cap
 
   contributions
 
-- nil — if the individual’s total superannuation balance (¶13-640) equals or exceeds the general
+- nil — if the individual's total superannuation balance (¶13-640) equals or exceeds the general
 
   transfer balance cap for the year ($1.9 million in 2024–25: ¶14-320) (ITAA97 s 292-85(2)).
 
@@ -293,13 +293,13 @@ Eligible individuals may be eligible to a forward non-concessional contributions
 
 *Refs: ITAA97 s 292-85(2))*
 
-forward rule An individual who is under 75 years of age in an income year (the ﬁrst year) can “bring forward” the cap amount of 2 later years as the individual’s non-concessional contributions cap over a 3-year period, including that income year (s 292-85(3)). The eligibility criteria are as follows:
+forward rule An individual who is under 75 years of age in an income year (the ﬁrst year) can "bring forward" the cap amount of 2 later years as the individual's non-concessional contributions cap over a 3-year period, including that income year (s 292-85(3)). The eligibility criteria are as follows:
 
-- the individual’s non-concessional contributions for the ﬁrst year exceed the general non-
+- the individual's non-concessional contributions for the ﬁrst year exceed the general non-
 
   concessional contributions cap for that year
 
-- the individual’s total superannuation balance (¶13-640) as at 30 June of the previous year is less
+- the individual's total superannuation balance (¶13-640) as at 30 June of the previous year is less
 
   than the general transfer balance cap for the year (¶14-320)
 
@@ -309,17 +309,17 @@ forward rule An individual who is under 75 years of age in an income year (the �
 
   application of the bring forward rule, and
 
-- the diﬀerence between the general transfer balance cap for the ﬁrst year and the individual’s total
+- the diﬀerence between the general transfer balance cap for the ﬁrst year and the individual's total
 
-  superannuation balance before the start of the ﬁrst year (the “ﬁrst year cap space”) is greater than
+  superannuation balance before the start of the ﬁrst year (the "ﬁrst year cap space") is greater than
 
   the general non-concessional contributions cap for the ﬁrst year (s 292-85(3)).
 
-If an individual satisﬁes the eligibility criteria, and triggers the bring forward rule (eﬀectively by making contributions that exceed the general non-concessional contributions cap in the ﬁrst year: see the ﬁrst dot point above), the cap amounts for ﬁrst, second and third year in the “bring forward period” are calculated in accordance with ss 292-85(4)–(7). assessment and tax Excess non-concessional contributions — assessment and tax An individual who receives an excess non-concessional contributions determination (see below) from the ATO may request the Commissioner to issue a release authority to release an amount of up to the excess contributions plus 85% of an associated earnings amount from the individual’s nominated superannuation fund in accordance with TAA sch 1 Div 131 (¶13-880).
+If an individual satisﬁes the eligibility criteria, and triggers the bring forward rule (eﬀectively by making contributions that exceed the general non-concessional contributions cap in the ﬁrst year: see the ﬁrst dot point above), the cap amounts for ﬁrst, second and third year in the "bring forward period" are calculated in accordance with ss 292-85(4)–(7). assessment and tax Excess non-concessional contributions — assessment and tax An individual who receives an excess non-concessional contributions determination (see below) from the ATO may request the Commissioner to issue a release authority to release an amount of up to the excess contributions plus 85% of an associated earnings amount from the individual's nominated superannuation fund in accordance with TAA sch 1 Div 131 (¶13-880).
 
-The amount of excess contributions released is non-assessable non-exempt income, but the amount corresponding to the associated earnings on the excess contributions is included in the individual’s assessable income and is taxed at marginal tax rates. The individual is entitled to a non-refundable tax oﬀset equal to 15% of the associated earnings amount included in assessable income (see below).
+The amount of excess contributions released is non-assessable non-exempt income, but the amount corresponding to the associated earnings on the excess contributions is included in the individual's assessable income and is taxed at marginal tax rates. The individual is entitled to a non-refundable tax oﬀset equal to 15% of the associated earnings amount included in assessable income (see below).
 
-Excess non-concessional contributions tax is imposed on excess non-concessional contributions that are not released from a superannuation interest where the remaining value of all the individual’s superannuation interests is not nil.
+Excess non-concessional contributions tax is imposed on excess non-concessional contributions that are not released from a superannuation interest where the remaining value of all the individual's superannuation interests is not nil.
 
 Excess non-concessional contributions determination If an individual has non-concessional contributions which exceed the non-concessional contributions cap for a ﬁnancial year, the Commissioner must make a written determination stating:
 
@@ -337,9 +337,9 @@ The associated earnings amount is worked out using an average of the GIC rate fo
 
 Release of associated earnings amount and tax offset Only 85% of the associated earnings amount can be released as the superannuation fund may have already included the earnings on investments made with the excess contributions in its assessable income and would have been taxed on those earnings at a rate of up to 15%.
 
-When an excess contributions amount is released or where the Commissioner determines that the value of an individual’s superannuation interests is nil, the associated earnings amount is included in the individual’s assessable income. This removes a taxation beneﬁt that would otherwise be obtained by making excessive non-concessional contributions despite their release. However, if no amount is released and the individual has a superannuation interest or interests with a value greater than nil, no associated earnings amount is included in individual’s assessable income and excess non-concessional contributions tax will apply (ss 292-20; 292-25; 292-30; 292-85).
+When an excess contributions amount is released or where the Commissioner determines that the value of an individual's superannuation interests is nil, the associated earnings amount is included in the individual's assessable income. This removes a taxation beneﬁt that would otherwise be obtained by making excessive non-concessional contributions despite their release. However, if no amount is released and the individual has a superannuation interest or interests with a value greater than nil, no associated earnings amount is included in individual's assessable income and excess non-concessional contributions tax will apply (ss 292-20; 292-25; 292-30; 292-85).
 
-The Commissioner will include the whole of the associated earnings amount in the individual’s assessable income in the year corresponding to the ﬁnancial year the individual had excess non-concessional contributions. This amount is taxed at the individual’s marginal tax rate and the individual is entitled to a assessment and tax non-refundable tax oﬀset equal to 15% of the associated earnings amount included in assessable income, reﬂecting the tax liability of the superannuation fund on the earnings (¶14-300).
+The Commissioner will include the whole of the associated earnings amount in the individual's assessable income in the year corresponding to the ﬁnancial year the individual had excess non-concessional contributions. This amount is taxed at the individual's marginal tax rate and the individual is entitled to a assessment and tax non-refundable tax oﬀset equal to 15% of the associated earnings amount included in assessable income, reﬂecting the tax liability of the superannuation fund on the earnings (¶14-300).
 
 Related tax matters An amount paid on behalf of an individual by a superannuation provider in accordance with an ATO release authority is a superannuation lump sum beneﬁt of the individual, but the payment does not have income tax consequences for the individual as it is non-assessable non-exempt income (ITAA97 s 303-15).
 
@@ -358,15 +358,15 @@ An individual who is dissatisﬁed with a decision of the Commissioner in relati
 
 - an excess non-concessional contributions determination
 
-- an assessment to include an oﬀset or to include associated earnings in the individual’s
+- an assessment to include an oﬀset or to include associated earnings in the individual's
 
   assessable income (or both)
 
-- a decision not to make a direction under s 292-467 that an individual’s superannuation interest is
+- a decision not to make a direction under s 292-467 that an individual's superannuation interest is
 
   nil, and
 
-- a decision to exercise a discretion to disregard an individual’s non-concessional contributions or
+- a decision to exercise a discretion to disregard an individual's non-concessional contributions or
 
   reallocate the contributions to another year, or a decision not to exercise the discretion (¶13-875)
 
@@ -404,7 +404,7 @@ contributions tax
 
 ## In practice this provision will apply to:
 
-## An individual’s non-concessional contributions cap is:
+## An individual's non-concessional contributions cap is:
 
 ## Non-concessional contributions cap under a bring
 
@@ -414,4 +414,4 @@ contributions tax
 
 ## The Commissioner has warned about:
 
-## Commissioner’s discretion to disregard or reallocate excess
+## Commissioner's discretion to disregard or reallocate excess

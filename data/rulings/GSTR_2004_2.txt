@@ -4,39 +4,37 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 358
-  • Div 51
-  • Division 358
-  • Division 51
-  • Subdivision 48-B
-  • Subdivision 51-A
-  • Subdivision 51-B
-  • Subdivision 51-C
-  • Subdivision 51-D
-  • div 48
-  • div 51
-  • division 48
-  • division 51
+ • Div 358
+ • Div 51
+ • Division 358
+ • Division 51
+ • Subdivision 48-B
+ • Subdivision 51-A
+ • Subdivision 51-B
+ • Subdivision 51-C
+ • Subdivision 51-D
+ • div 48
+ • div 51
+ • division 48
+ • division 51
 
 Cases Referenced:
-  • Canny Gabriel Castle Jackson Advertising Pty Ltd v. Volume Sales 
-  • Newman v Commissioner 
-  • Newman v. Commissioner 
-  • Others v. Federal Commissioner 
-  • Pursell v. Newberry
+ • Canny Gabriel Castle Jackson Advertising Pty Ltd v. Volume Sales 
+ • Newman v Commissioner 
+ • Newman v. Commissioner 
+ • Others v. Federal Commissioner 
+ • Pursell v. Newberry
 (1968) 118 CLR 381
-  • Transurban City Link Limited v. Federal Commissioner 
-  • United Dominions Corp Limited v. Brian Pty Ltd
+ • Transurban City Link Limited v. Federal Commissioner 
+ • United Dominions Corp Limited v. Brian Pty Ltd
 (1985) 157 CLR 1
-  • United Dominions Corporation Ltd v. Brian Pty Ltd
+ • United Dominions Corporation Ltd v. Brian Pty Ltd
 
-  • United Dominions Corporation Ltd v. Brian Pty Ltd
+ • United Dominions Corporation Ltd v. Brian Pty Ltd
 (1985) 60 ALR 741
-  • Webster v. Mc
+ • Webster v. Mc
 
 Topics: GST, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -51,7 +49,7 @@ Back to browse
 48 related documents
 Goods and Services Tax Ruling
 GSTR 2004/2
-Goods and services tax:  What is a joint venture for GST purposes?
+Goods and services tax: What is a joint venture for GST purposes?
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -94,11 +92,11 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling explains what is a joint venture for the purposes of the
 A New Tax System (Goods and Services Tax) Act 1999
-(GST Act).  The Ruling sets out the features that the Commissioner considers characterise an arrangement as a joint venture in the context in which that term is used in the GST Act.
+(GST Act). The Ruling sets out the features that the Commissioner considers characterise an arrangement as a joint venture in the context in which that term is used in the GST Act.
 2. The Ruling distinguishes between a partnership and a joint venture setting out the main features of both arrangements.
 3. This Ruling does not deal with the consequences of the formation of GST joint ventures under Subdivision 51-B, Subdivision 51-C or Subdivision 51-D of the GST Act.
 4. Unless otherwise stated, all legislative references in this Ruling are to the GST Act and references to 'joint ventures' do not include incorporated joint ventures.
@@ -106,10 +104,10 @@ Date of effect
 5. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 6. [Omitted.]
 Legislative context
-7. A joint venture is an arrangement commonly adopted by businesses in the mining, primary production and other industries.  A joint venture is not an entity
+7. A joint venture is an arrangement commonly adopted by businesses in the mining, primary production and other industries. A joint venture is not an entity
 [F1]
-and cannot itself make supplies or acquisitions.  Therefore each participant must individually account for GST and input tax credits on their taxable supplies and creditable acquisitions.  Entities engaged in a joint venture may become participants in a GST joint venture under Division 51 of the GST Act if the participation requirements are satisfied.  The nominated joint venture operator then deals with the GST liabilities and entitlements arising from its dealings, in the course of activities for which the joint venture was entered into, on behalf of the participants in the joint venture.
-8. Two or more entities may become the participants in a GST joint venture if they meet the requirements of Subdivision 51-A.  A joint venture that meets the requirements under section 51-5 is a GST joint venture.  The requirements set out in section 51-5 are:
+and cannot itself make supplies or acquisitions. Therefore each participant must individually account for GST and input tax credits on their taxable supplies and creditable acquisitions. Entities engaged in a joint venture may become participants in a GST joint venture under Division 51 of the GST Act if the participation requirements are satisfied. The nominated joint venture operator then deals with the GST liabilities and entitlements arising from its dealings, in the course of activities for which the joint venture was entered into, on behalf of the participants in the joint venture.
+8. Two or more entities may become the participants in a GST joint venture if they meet the requirements of Subdivision 51-A. A joint venture that meets the requirements under section 51-5 is a GST joint venture. The requirements set out in section 51-5 are:
 •
 the joint venture is for the exploration or exploitation of mineral deposits as defined, or for a purpose specified in the regulations;
 [F2]
@@ -135,7 +133,7 @@ is a party to a joint venture agreement with all the other entities participatin
 is registered for GST purposes; and
 •
 accounts for GST on the same basis as all the other participants.
-10. The benefits of becoming a GST joint venture are mainly administrative.  Individual participants' GST obligations, in respect of supplies, importations or acquisitions made on their behalf by the joint venture operator in the course of the activities for which the joint venture was entered into, are satisfied by the joint venture operator, rather than by individual participants who may have little involvement in the day to day affairs of the venture.  However, transactions between joint venture participants where the supplier does not make the supply in its capacity as the joint venture operator are subject to the usual GST rules.  This is in contrast to a GST group
+10. The benefits of becoming a GST joint venture are mainly administrative. Individual participants' GST obligations, in respect of supplies, importations or acquisitions made on their behalf by the joint venture operator in the course of the activities for which the joint venture was entered into, are satisfied by the joint venture operator, rather than by individual participants who may have little involvement in the day to day affairs of the venture. However, transactions between joint venture participants where the supplier does not make the supply in its capacity as the joint venture operator are subject to the usual GST rules. This is in contrast to a GST group
 [F4]
 where most intra-group transactions are treated as if they are not taxable supplies.
 Ruling with explanation
@@ -150,46 +148,46 @@ joint control;
 a specific economic project; and
 •
 cost sharing.
-For a joint venture to exist for GST purposes, the first feature, sharing of product or output, must be present.  The other features are indicative of the existence of a joint venture.  While it is expected that the other features will also be present, there may be circumstances where not all are present, for example in a joint venture established by statute there may not be a separate joint venture agreement.  The reasons for this view are based on a consideration of the meaning of the term joint venture in the context of the GST Act, drawing on dictionary definitions, judicial comments and the definition of 'non-entity joint venture' in the GST Act, as discussed below.  Paragraphs 30 to 41 elaborate on each of these features.
-12. The term joint venture is not defined in the GST Act.  Accordingly, it takes its ordinary meaning having regard to the context in which it appears in the GST Act.  The term is defined in the Butterworths Concise Australian Legal Dictionary (Second Edition) as:
-An association of persons for particular trading, commercial, mining, or other financial undertakings or endeavours with a view to mutual profit.  It is not a technical legal term with a settled common law meaning:
+For a joint venture to exist for GST purposes, the first feature, sharing of product or output, must be present. The other features are indicative of the existence of a joint venture. While it is expected that the other features will also be present, there may be circumstances where not all are present, for example in a joint venture established by statute there may not be a separate joint venture agreement. The reasons for this view are based on a consideration of the meaning of the term joint venture in the context of the GST Act, drawing on dictionary definitions, judicial comments and the definition of 'non-entity joint venture' in the GST Act, as discussed below. Paragraphs 30 to 41 elaborate on each of these features.
+12. The term joint venture is not defined in the GST Act. Accordingly, it takes its ordinary meaning having regard to the context in which it appears in the GST Act. The term is defined in the Butterworths Concise Australian Legal Dictionary (Second Edition) as:
+An association of persons for particular trading, commercial, mining, or other financial undertakings or endeavours with a view to mutual profit. It is not a technical legal term with a settled common law meaning:
 United Dominions Corp Limited v. Brian Pty Ltd
-(1985) 157 CLR 1; 60 ALR 741.  The association is usually for the participation in a single project rather than a continuing business.  A joint venture may be carried out by way of a partnership, company, trust, agency, joint ownership, or other arrangement.  It may include an activity carried on by a body corporate which was formed to carry on the activity by means of joint control or ownership or shares in the body corporate: (Cth)
+(1985) 157 CLR 1; 60 ALR 741. The association is usually for the participation in a single project rather than a continuing business. A joint venture may be carried out by way of a partnership, company, trust, agency, joint ownership, or other arrangement. It may include an activity carried on by a body corporate which was formed to carry on the activity by means of joint control or ownership or shares in the body corporate: (Cth)
 Trade Practices Act 1974
 s4J(a).
-13. This definition indicates that a joint venture may be carried out in the form of a partnership, company, trust or other arrangement.  However, since partnerships, companies, trusts and 'any other unincorporated association or body of persons'
+13. This definition indicates that a joint venture may be carried out in the form of a partnership, company, trust or other arrangement. However, since partnerships, companies, trusts and 'any other unincorporated association or body of persons'
 [F5]
 are treated as separate entities by the GST Act,
 [F6]
 for GST purposes, the term joint venture does not include incorporated joint ventures, partnerships or trusts.
-14. This interpretation of joint venture for GST purposes is also consistent with paragraph 51-5(1)(b), which precludes a partnership from being a GST joint venture.  Therefore, for the purposes of the GST Act there is a distinction between a joint venture and a partnership.
-15. We also think that unincorporated associations or bodies of persons, other than those covered by the definition of 'non-entity joint venture', are not intended to be covered by Division 51.  These arrangements are treated as entities for GST purposes.  Therefore for GST purposes we think that the term joint venture applies to arrangements other than those defined as entities in the GST Act.
+14. This interpretation of joint venture for GST purposes is also consistent with paragraph 51-5(1)(b), which precludes a partnership from being a GST joint venture. Therefore, for the purposes of the GST Act there is a distinction between a joint venture and a partnership.
+15. We also think that unincorporated associations or bodies of persons, other than those covered by the definition of 'non-entity joint venture', are not intended to be covered by Division 51. These arrangements are treated as entities for GST purposes. Therefore for GST purposes we think that the term joint venture applies to arrangements other than those defined as entities in the GST Act.
 16. While the GST Act does not define the term 'joint venture', it does provide a definition of 'non-entity joint venture'
 [F7]
 for the purpose of excluding unincorporated joint ventures from the definition of 'entity' in section 184-1.
 [F8]
 We think it is likely that a Court would look to the definition for some guidance as to the meaning of joint venture in its context in the GST Act.
-17.  'Non-entity joint venture' is defined as an arrangement that the Commissioner is satisfied is a contractual arrangement:
+17. 'Non-entity joint venture' is defined as an arrangement that the Commissioner is satisfied is a contractual arrangement:
 (a)
 under which 2 or more parties undertake an economic activity that is subject to the joint control of the parties; and
 (b)
 that is entered into to obtain individual benefits for the parties, in the form of a share of the output of the arrangement rather than joint or collective profits for all the parties.
-18. This definition indicates that the elements of a joint venture include a contract between 2 or more parties and joint control by the parties.  The Explanatory Memorandum also states that a characteristic of a non-entity joint venture is that each participant '...incurs its own expenses and liabilities and raises its own finance which represents its own obligations.'
+18. This definition indicates that the elements of a joint venture include a contract between 2 or more parties and joint control by the parties. The Explanatory Memorandum also states that a characteristic of a non-entity joint venture is that each participant '...incurs its own expenses and liabilities and raises its own finance which represents its own obligations.'
 [F9]
-19. Additionally, the definition indicates that sharing of the product or output of the venture, rather than sharing of profits, is a key feature of a joint venture in the context of the GST Act.  This element was also referred to in the High Court of Australia case
+19. Additionally, the definition indicates that sharing of the product or output of the venture, rather than sharing of profits, is a key feature of a joint venture in the context of the GST Act. This element was also referred to in the High Court of Australia case
 United Dominions Corporation Ltd v. Brian Pty Ltd
 [F10]
 (United Dominions
 case), where Dawson J stated:
 [F11]
-Perhaps, in this country, the important distinction between a partnership and a joint venture is, for practical purposes, the distinction between an association of persons who engage in a common undertaking for profit and an association of those who do so in order to generate a product to be shared among the participants.  Enterprises of the latter kind are common enough in the exploration for and exploitation of mineral resources and the feature which is most likely to distinguish them from partnerships is the sharing of product rather than profit.
+Perhaps, in this country, the important distinction between a partnership and a joint venture is, for practical purposes, the distinction between an association of persons who engage in a common undertaking for profit and an association of those who do so in order to generate a product to be shared among the participants. Enterprises of the latter kind are common enough in the exploration for and exploitation of mineral resources and the feature which is most likely to distinguish them from partnerships is the sharing of product rather than profit.
 The distinction between a joint venture and partnership is discussed further in paragraphs 44 to 51.
 20. In the same case, Mason, Brennan and Deane JJ
 [F12]
 said:
-The term 'joint venture' is not a technical one with a settled common law meaning.  As a matter of ordinary language, it connotes an association of persons for the purposes of a particular trading, commercial, mining or other financial undertaking or endeavour with a view to mutual profit, with each participant usually (but not necessarily) contributing money, property or skill.  ...The borderline between what can be described as a 'joint venture' and what should more properly be seen as no more than a simple contractual relationship may on occasion be blurred.  Thus, where one party contributes only money or other property, it may sometimes be difficult to determine whether a relationship is a joint venture in which both parties are entitled to a share of profits or a simple contract of loan or a lease under which the interest or rent payable to the party providing the money or property is determined by reference to the profits made by the other.
-This passage indicates that the term joint venture does not have a settled meaning.  It does not expressly exclude arrangements for mutual profit that do not necessarily involve the sharing of product or output.  However, as indicated above, and especially since the expression does not have a settled meaning, its meaning must be derived from its context in the GST Act.
-21. In particular, in its context in the GST Act, we do not think the term joint venture is intended to cover arrangements, including partnerships, under which parties carry on a venture together with a view to sharing profits.  These arrangements are dealt with under the ordinary provisions of the GST Act.
+The term 'joint venture' is not a technical one with a settled common law meaning. As a matter of ordinary language, it connotes an association of persons for the purposes of a particular trading, commercial, mining or other financial undertaking or endeavour with a view to mutual profit, with each participant usually (but not necessarily) contributing money, property or skill. ...The borderline between what can be described as a 'joint venture' and what should more properly be seen as no more than a simple contractual relationship may on occasion be blurred. Thus, where one party contributes only money or other property, it may sometimes be difficult to determine whether a relationship is a joint venture in which both parties are entitled to a share of profits or a simple contract of loan or a lease under which the interest or rent payable to the party providing the money or property is determined by reference to the profits made by the other.
+This passage indicates that the term joint venture does not have a settled meaning. It does not expressly exclude arrangements for mutual profit that do not necessarily involve the sharing of product or output. However, as indicated above, and especially since the expression does not have a settled meaning, its meaning must be derived from its context in the GST Act.
+21. In particular, in its context in the GST Act, we do not think the term joint venture is intended to cover arrangements, including partnerships, under which parties carry on a venture together with a view to sharing profits. These arrangements are dealt with under the ordinary provisions of the GST Act.
 22. Accordingly, we think that the term joint venture in the context of the GST Act is intended to have the meaning suggested by Dawson J in the
 United Dominions
 case
@@ -209,65 +207,65 @@ United Dominions,
 above, referred
 [F16]
 to the arrangements in respect of the concession fees in issue in the case as akin to profit sharing arrangements and referred to the State and Transurban being parties to a 'joint venture' or a 'joint adventure'.
-25. Reference has also been made to the specific exclusion in paragraph 51-5(1)(b), that is, that 'the joint venture is not a partnership', which is said to be consistent with a broad view of joint venture.  It is suggested that, but for paragraph 51-5(1)(b), the expression joint venture would include a partnership and, so the argument goes, other associations or bodies of persons with a view to mutual profit or other endeavour.  It has also been suggested that the view that sharing of product or output is an essential feature of a joint venture would mean that participants in some arrangements involving activities referred to in paragraph 51-5.01(1) of the
+25. Reference has also been made to the specific exclusion in paragraph 51-5(1)(b), that is, that 'the joint venture is not a partnership', which is said to be consistent with a broad view of joint venture. It is suggested that, but for paragraph 51-5(1)(b), the expression joint venture would include a partnership and, so the argument goes, other associations or bodies of persons with a view to mutual profit or other endeavour. It has also been suggested that the view that sharing of product or output is an essential feature of a joint venture would mean that participants in some arrangements involving activities referred to in paragraph 51-5.01(1) of the
 A New Tax System (Goods and Services Tax) Regulations 1999
-(the GST Regulations) would not be able to access the administrative benefits of Division 51.  This is because the requirement for sharing of product or output is said to be not compatible with the activities described in the Regulations.
+(the GST Regulations) would not be able to access the administrative benefits of Division 51. This is because the requirement for sharing of product or output is said to be not compatible with the activities described in the Regulations.
 26. For the reasons set out at paragraphs 20 to 22 above, we think the better view is that the term joint venture in Division 51 does not refer to the broad category of arrangements with a view to mutual profit, referred to in the joint judgement in
 United Dominions.
 We consider that
 Transurban
 is not authority for the alternative view as the meaning of joint venture generally was not in issue in the case, and certainly not its meaning in the context of the GST Act.
 [F17]
-27. Further, we consider that the requirement that the 'joint venture is not a partnership' is merely intended, out of abundance of caution, to ensure that arrangements that would be partnerships as defined are not able to become GST joint ventures.  As noted above, this is consistent with the view that the term joint venture for GST purposes does not include partnerships.  It also reflects the fact that many arrangements, that might be covered by the broad description of joint ventures given in the joint judgement in
+27. Further, we consider that the requirement that the 'joint venture is not a partnership' is merely intended, out of abundance of caution, to ensure that arrangements that would be partnerships as defined are not able to become GST joint ventures. As noted above, this is consistent with the view that the term joint venture for GST purposes does not include partnerships. It also reflects the fact that many arrangements, that might be covered by the broad description of joint ventures given in the joint judgement in
 United Dominions,
 will be partnerships in any case.
-28. The view that sharing of product or output is required for a joint venture for GST purposes is consistent with our understanding of the common form of joint venture found in the mining industry.  In this regard, we note that, at the time the legislation was passed by Parliament, the only explicit permissible purpose referred to in the legislation related to joint ventures 'for the exploration or exploitation of mineral deposits'.  Other purposes were able to be, and subsequently have been, prescribed by regulation.
-29. It therefore seems that, consistent with the consultation undertaken in the development of the legislation, the types of joint venture in contemplation were those of the type found in the mining industry.  Sharing of product or output, rather than profits, is an essential feature of joint ventures in this industry.  While the power to make regulations prescribing other purposes for GST joint ventures is a relevant factor for consideration, the actual categories subsequently prescribed in delegated legislation in our view are not relevant to determining the proper interpretation of the primary legislation.
+28. The view that sharing of product or output is required for a joint venture for GST purposes is consistent with our understanding of the common form of joint venture found in the mining industry. In this regard, we note that, at the time the legislation was passed by Parliament, the only explicit permissible purpose referred to in the legislation related to joint ventures 'for the exploration or exploitation of mineral deposits'. Other purposes were able to be, and subsequently have been, prescribed by regulation.
+29. It therefore seems that, consistent with the consultation undertaken in the development of the legislation, the types of joint venture in contemplation were those of the type found in the mining industry. Sharing of product or output, rather than profits, is an essential feature of joint ventures in this industry. While the power to make regulations prescribing other purposes for GST joint ventures is a relevant factor for consideration, the actual categories subsequently prescribed in delegated legislation in our view are not relevant to determining the proper interpretation of the primary legislation.
 [F18]
 Put another way, the categories subsequently prescribed by regulation cannot be used to determine the meaning of terms used in the primary legislation.
 [F19]
 Features of a joint venture
-30. The question whether an arrangement is a joint venture is to be determined on the basis of a consideration of all the facts and circumstances in each case.  The features of an arrangement that the Commissioner considers will characterise it as a joint venture for GST purposes are outlined in paragraph 11.  In particular, the fact that an arrangement is referred to as a joint venture does not, by itself, make it a joint venture. The following paragraphs elaborate upon the features referred to at paragraph 11.
+30. The question whether an arrangement is a joint venture is to be determined on the basis of a consideration of all the facts and circumstances in each case. The features of an arrangement that the Commissioner considers will characterise it as a joint venture for GST purposes are outlined in paragraph 11. In particular, the fact that an arrangement is referred to as a joint venture does not, by itself, make it a joint venture. The following paragraphs elaborate upon the features referred to at paragraph 11.
 Sharing of product or output not profit
-31. A key characteristic of a joint venture for GST purposes, as outlined above, and reflected in the definition of 'non-entity joint venture', is that each participant receives an agreed share of the product or output to its own account, rather than a share of jointly earned profit.  An example of sharing of product or output is where a land owner and builder enter into a joint venture to build a block of 12 strata title units and on completion the landowner is to retain units 1 to 8 and the builder is to take units 9 to 12.
-32. Each participant can deal with their share of the product or output in their own right.  For example, in a mining joint venture, each participant takes a share of the extracted minerals or ore to deal with in its own right.  In this case, the individual participants' shares are not readily identifiable from, for example, a stockpile of coal.  Nevertheless, each participant is entitled to a specified share of the product.
-33. If the participants share profits or the proceeds of sale of the product, rather than sharing the product, the arrangement is not a joint venture.  However, the participants may agree that the product is to be sold collectively by another entity, or by one of the participants, on behalf of each of the participants.  This does not mean that the participants are sharing in the proceeds of the sale or that there is a joint profit to share.  Rather, the entity that sells each participant's share of the product sells on behalf of that participant.  Each participant records the GST on the sale of their share in their individual business activity statement.
-34. While the sharing of the product or output rather than a sharing of profit or income is a critical feature of a joint venture for GST purposes, the product or output need not be of a tangible nature.  The output may include intangible items, such as copyrights and patents.  For example, a joint venture may be formed to construct and maintain a road on State-owned land, with the product being interests in relation to the operation of a toll upon the use of the road.
+31. A key characteristic of a joint venture for GST purposes, as outlined above, and reflected in the definition of 'non-entity joint venture', is that each participant receives an agreed share of the product or output to its own account, rather than a share of jointly earned profit. An example of sharing of product or output is where a land owner and builder enter into a joint venture to build a block of 12 strata title units and on completion the landowner is to retain units 1 to 8 and the builder is to take units 9 to 12.
+32. Each participant can deal with their share of the product or output in their own right. For example, in a mining joint venture, each participant takes a share of the extracted minerals or ore to deal with in its own right. In this case, the individual participants' shares are not readily identifiable from, for example, a stockpile of coal. Nevertheless, each participant is entitled to a specified share of the product.
+33. If the participants share profits or the proceeds of sale of the product, rather than sharing the product, the arrangement is not a joint venture. However, the participants may agree that the product is to be sold collectively by another entity, or by one of the participants, on behalf of each of the participants. This does not mean that the participants are sharing in the proceeds of the sale or that there is a joint profit to share. Rather, the entity that sells each participant's share of the product sells on behalf of that participant. Each participant records the GST on the sale of their share in their individual business activity statement.
+34. While the sharing of the product or output rather than a sharing of profit or income is a critical feature of a joint venture for GST purposes, the product or output need not be of a tangible nature. The output may include intangible items, such as copyrights and patents. For example, a joint venture may be formed to construct and maintain a road on State-owned land, with the product being interests in relation to the operation of a toll upon the use of the road.
 Contractual agreement
-35. Joint venture participants enter into an agreement, which establishes the operation, management and joint control of the joint venture.  Usually the terms of the arrangement are governed by a written agreement entered into by the participants.  However, a joint venture may also be governed by statute.  Joint venture agreements usually declare that the participants associate themselves in a business undertaking for a stated purpose, for example to mine a mineral deposit.  The agreements also usually disclaim other legal relationships between the participants, for example, a partnership relationship.  However, a statement that an arrangement is not a partnership, by itself, does not determine the nature of the arrangement.  See Example 2 in paragraphs 56 to 59.
+35. Joint venture participants enter into an agreement, which establishes the operation, management and joint control of the joint venture. Usually the terms of the arrangement are governed by a written agreement entered into by the participants. However, a joint venture may also be governed by statute. Joint venture agreements usually declare that the participants associate themselves in a business undertaking for a stated purpose, for example to mine a mineral deposit. The agreements also usually disclaim other legal relationships between the participants, for example, a partnership relationship. However, a statement that an arrangement is not a partnership, by itself, does not determine the nature of the arrangement. See Example 2 in paragraphs 56 to 59.
 Is a written agreement required?
-36. The question arises whether the joint venture agreement must be in writing.  Paragraph 51-10(b) does not specifically refer to a 'written agreement'.  An entity satisfies the participation requirements for a GST joint venture if it is a 'party to a joint venture agreement' with all of the other entities participating in, or intending to participate in, the joint venture. Although the entities are not expressly required to enter into a written joint venture agreement, it is expected that they will be able to provide some sort of written evidence that the features of the joint venture exist.
+36. The question arises whether the joint venture agreement must be in writing. Paragraph 51-10(b) does not specifically refer to a 'written agreement'. An entity satisfies the participation requirements for a GST joint venture if it is a 'party to a joint venture agreement' with all of the other entities participating in, or intending to participate in, the joint venture. Although the entities are not expressly required to enter into a written joint venture agreement, it is expected that they will be able to provide some sort of written evidence that the features of the joint venture exist.
 [F19A]
 37. Most joint ventures have some form of documentation to establish the existence of the arrangement and to govern the relationship between the participants, particularly the manner in which the participants' contributions and the product or output of the venture are to be dealt with between them.
 Joint control
-38. Joint control by the participants is a feature of joint ventures.  However, the extent to which each participant can influence the strategy and operations of the venture can vary.  The joint venture agreement will specify the nature and extent of the joint control e.g. unanimous consent of the participants.  Responsibility for the day to day management of the venture may rest with a manager/operator appointed by the participants.  The manager/operator may be one of the participants, or a management company formed by the participants, or a third party.
-39. However, although a party may be involved in decision making, it may not necessarily be a joint venture participant.  For example, a potential buyer of a building being developed by a joint venture may want to be part of the decision making, for example for quality control purposes and selection of fittings.
+38. Joint control by the participants is a feature of joint ventures. However, the extent to which each participant can influence the strategy and operations of the venture can vary. The joint venture agreement will specify the nature and extent of the joint control e.g. unanimous consent of the participants. Responsibility for the day to day management of the venture may rest with a manager/operator appointed by the participants. The manager/operator may be one of the participants, or a management company formed by the participants, or a third party.
+39. However, although a party may be involved in decision making, it may not necessarily be a joint venture participant. For example, a potential buyer of a building being developed by a joint venture may want to be part of the decision making, for example for quality control purposes and selection of fittings.
 Specific economic project
 40. As noted in the
 United Dominions
-case, joint ventures are undertaken for the purposes of a particular trading, commercial, mining or other financial undertaking or endeavour.  Commonly, a joint venture is for a specific project such as building a dam or exploring for and extracting hydrocarbons.  These projects ordinarily have a finite life (such as the life of a mine) and when the project is completed the joint venture ends.  It is not essential that the end date of the undertaking be specified, or able to be determined when entering into the joint venture agreement.
+case, joint ventures are undertaken for the purposes of a particular trading, commercial, mining or other financial undertaking or endeavour. Commonly, a joint venture is for a specific project such as building a dam or exploring for and extracting hydrocarbons. These projects ordinarily have a finite life (such as the life of a mine) and when the project is completed the joint venture ends. It is not essential that the end date of the undertaking be specified, or able to be determined when entering into the joint venture agreement.
 Cost sharing
-41. Costs associated with the undertaking of a joint venture are met by the participants individually, commonly in accordance with the joint venture interests stipulated in the joint venture agreement.  Each participant incurs its own expenses and liabilities and raises its own finance.  Each participant is liable only for its own debts.  Not being a separate entity, joint ventures have no separate liability for debts.  Also, unlike partners in a partnership, there is no statutory or other basis for participants to be jointly and severally liable for debts incurred by the other participants merely on account of holding themselves out as a 'joint venture'.
+41. Costs associated with the undertaking of a joint venture are met by the participants individually, commonly in accordance with the joint venture interests stipulated in the joint venture agreement. Each participant incurs its own expenses and liabilities and raises its own finance. Each participant is liable only for its own debts. Not being a separate entity, joint ventures have no separate liability for debts. Also, unlike partners in a partnership, there is no statutory or other basis for participants to be jointly and severally liable for debts incurred by the other participants merely on account of holding themselves out as a 'joint venture'.
 [F20]
 Arrangements separate to the joint venture
-42. An agreement governing a joint venture may also extend to arrangements which are not part of the joint venture.  If all of the above features are present, so that there is a joint venture, the other arrangements do not detract from the status of the joint venture.  Nor do the arrangements form part of the joint venture.
-43. For example, participants in a joint venture for the construction of commercial or residential premises may engage a construction company to carry out the construction.  Even if the engagement of the construction company is covered by the agreement and the consideration for the company's services includes, say, a strata title unit in the premises, the construction company might not be a participant in the joint venture in these circumstances.  The contractual arrangements with the construction company might be limited to the construction of the building.  If the construction company is not otherwise a party to the agreement governing the terms of the joint venture, it is not a participant in the joint venture.  Rather, the arrangement involves the supply of a service for consideration.
+42. An agreement governing a joint venture may also extend to arrangements which are not part of the joint venture. If all of the above features are present, so that there is a joint venture, the other arrangements do not detract from the status of the joint venture. Nor do the arrangements form part of the joint venture.
+43. For example, participants in a joint venture for the construction of commercial or residential premises may engage a construction company to carry out the construction. Even if the engagement of the construction company is covered by the agreement and the consideration for the company's services includes, say, a strata title unit in the premises, the construction company might not be a participant in the joint venture in these circumstances. The contractual arrangements with the construction company might be limited to the construction of the building. If the construction company is not otherwise a party to the agreement governing the terms of the joint venture, it is not a participant in the joint venture. Rather, the arrangement involves the supply of a service for consideration.
 Joint venture or partnership
 44. To determine whether a particular arrangement is a joint venture or partnership, consideration must be given, case by case, to the true character of the relationship between the parties to the arrangement by reference to all the facts and circumstances of each case.
-45. The features of a joint venture are stated above.  We restate here briefly the features of a partnership.  A partnership is defined in section 195-1 of the GST Act by reference to the definition of a partnership in section 995-1 of the ITAA 1997.  That definition states that a partnership is 'an association of persons carrying on business as partners or in receipt of ordinary income or statutory income jointly, but does not include a company.'
-46. The first limb of the definition refers to 'an association of persons carrying on business as partners'.  This reflects the general law definition of a partnership in the various State and Territory partnership Acts.
+45. The features of a joint venture are stated above. We restate here briefly the features of a partnership. A partnership is defined in section 195-1 of the GST Act by reference to the definition of a partnership in section 995-1 of the ITAA 1997. That definition states that a partnership is 'an association of persons carrying on business as partners or in receipt of ordinary income or statutory income jointly, but does not include a company.'
+46. The first limb of the definition refers to 'an association of persons carrying on business as partners'. This reflects the general law definition of a partnership in the various State and Territory partnership Acts.
 [F21]
 This type of partnership is referred to as a general law partnership.
 [F22]
-47. Whether a partnership exists is a question of fact determined having regard to the agreement between the parties and the circumstances surrounding the formation of the agreement.  There will usually be an entitlement to a share of net profits.  Evidence of the parties' intention to act as partners will be relevant.  Consequences of a partnership relationship will usually include mutual trust and confidence so that the partners must act in the interests of the partners as a whole.  There will also be joint and several liability of partners.  Where there is evidence of these circumstances a Court may find that arrangements described as joint ventures are actually partnerships.
+47. Whether a partnership exists is a question of fact determined having regard to the agreement between the parties and the circumstances surrounding the formation of the agreement. There will usually be an entitlement to a share of net profits. Evidence of the parties' intention to act as partners will be relevant. Consequences of a partnership relationship will usually include mutual trust and confidence so that the partners must act in the interests of the partners as a whole. There will also be joint and several liability of partners. Where there is evidence of these circumstances a Court may find that arrangements described as joint ventures are actually partnerships.
 [F23]
-48. The second limb of the definition refers to an association of persons, not necessarily in business, but in receipt of income jointly, for example co-owners of rental property.  This type of partnership is commonly referred to as a tax law partnership.
+48. The second limb of the definition refers to an association of persons, not necessarily in business, but in receipt of income jointly, for example co-owners of rental property. This type of partnership is commonly referred to as a tax law partnership.
 49. Receipt of income jointly connotes a joint entitlement to income rather than a mere sharing of gross income. For example, a joint venture agreement may provide for one of the participants to receive the proceeds from the sale of the participants' shares of the product of the joint venture, on behalf of the other participants. Even though the participants, under the terms of the agreement, may share in the amount received, they are entitled to their respective contractual shares of the product severally rather than jointly.
 50. The distinction between a partnership and a joint venture was observed in the decision of the Supreme Court of NSW in
 A.R.M. Constructions Pty Ltd and Others v. Federal Commissioner of Taxation.
 [F24]
 In that case, Yeldham J stated:
-...I am clearly of the opinion that...there was merely a joint venture between the appellants to construct buildings, in contrast to an agreement to make profits for sharing, and it was the intention of the parties at all material times to retain the units and town houses so erected, except to the extent that sales might be necessary to repay moneys borrowed from lending institutions...In my view the parties associated together to produce a product, a building of units capable of partition between them, so that each could thereafter go their own respective ways.  Their expressed intention so to do was duly manifested in what they thereafter did and achieved, and their agreement constituted in law something in the nature of a joint venture to construct the building, in contrast to an agreement to make profits for sharing, inter se.  The only partnership for tax purposes related to such rental income as was received jointly before the date of the deed of partition...
+...I am clearly of the opinion that...there was merely a joint venture between the appellants to construct buildings, in contrast to an agreement to make profits for sharing, and it was the intention of the parties at all material times to retain the units and town houses so erected, except to the extent that sales might be necessary to repay moneys borrowed from lending institutions...In my view the parties associated together to produce a product, a building of units capable of partition between them, so that each could thereafter go their own respective ways. Their expressed intention so to do was duly manifested in what they thereafter did and achieved, and their agreement constituted in law something in the nature of a joint venture to construct the building, in contrast to an agreement to make profits for sharing, inter se. The only partnership for tax purposes related to such rental income as was received jointly before the date of the deed of partition...
 [F25]
 51. The following table summarises the common features of a partnership and joint venture to assist in distinguishing between them for the purposes of paragraph (b) of subsection 51-5(1).
 Partnership
@@ -282,33 +280,33 @@ Partners have indirect undivided interests in the partnership assets (a partner 
 Well-defined separation of interests, rather than a joint undivided interest, in assets contributed to the venture
 Partners in a partnership are agents of the other partners and are ordinarily jointly and severally liable for the expenses of the partnership
 Joint venture participants are usually liable for their own debts which they incur individually as principals
-52. An arrangement described by the parties as a joint venture may be neither a joint venture nor a partnership.  It may involve merely a fee for service agreement, as in the example in paragraph 43,
+52. An arrangement described by the parties as a joint venture may be neither a joint venture nor a partnership. It may involve merely a fee for service agreement, as in the example in paragraph 43,
 [F26]
 or an investment arrangement, as in Example 3 in paragraphs 60 to 62.
 Examples
 Example 1 - A joint venture not a partnership
 53.
-MineCo Pty Ltd, ExploreCo Pty Ltd and ExportCo Pty Ltd enter into a joint venture to extract a mineral from a mining tenement which they own in equal shares.  The joint venture agreement sets out that the purpose of the joint venture is to extract the mineral from the deposit.  The joint venture agreement is a written contract between the participants that evidences that there is equal control and cost sharing of the specific project.  Each of the participants is to receive a one third share of any extracted mineral deposit.  ManageCo, a company formed by the other participants, is given responsibility for the day to day operations of the venture.
+MineCo Pty Ltd, ExploreCo Pty Ltd and ExportCo Pty Ltd enter into a joint venture to extract a mineral from a mining tenement which they own in equal shares. The joint venture agreement sets out that the purpose of the joint venture is to extract the mineral from the deposit. The joint venture agreement is a written contract between the participants that evidences that there is equal control and cost sharing of the specific project. Each of the participants is to receive a one third share of any extracted mineral deposit. ManageCo, a company formed by the other participants, is given responsibility for the day to day operations of the venture.
 54.
-Each participant is responsible for their own share of the finance necessary to complete the project.  The participants' shares of the mineral are to be pooled together for sale.
+Each participant is responsible for their own share of the finance necessary to complete the project. The participants' shares of the mineral are to be pooled together for sale.
 55.
-While all the facts and documentation would need to be considered, this arrangement between the three participants exhibits features of a joint venture, not a partnership.  The intention of the participants, in entering into the arrangement, is to produce and share in a product, the mineral, rather than to share in profits from the sale of the mineral.  In addition, the arrangement has the other features set out in paragraph 11.
+While all the facts and documentation would need to be considered, this arrangement between the three participants exhibits features of a joint venture, not a partnership. The intention of the participants, in entering into the arrangement, is to produce and share in a product, the mineral, rather than to share in profits from the sale of the mineral. In addition, the arrangement has the other features set out in paragraph 11.
 Example 2 - A partnership not a joint venture
 56.
-LandCo, the owner of a block of land, enters into an agreement, which is described as a 'joint venture agreement', with DevCo, a construction company.  LandCo makes the land available to DevCo for the purpose of a housing development.  The agreement expressly refers to LandCo and DevCo as joint venturers and states that 'nothing in this agreement shall be construed so as to deem the joint venturers to be partners'.  This is the third tract of land that the two parties have jointly developed in a continuing relationship for the development and sale of housing.
+LandCo, the owner of a block of land, enters into an agreement, which is described as a 'joint venture agreement', with DevCo, a construction company. LandCo makes the land available to DevCo for the purpose of a housing development. The agreement expressly refers to LandCo and DevCo as joint venturers and states that 'nothing in this agreement shall be construed so as to deem the joint venturers to be partners'. This is the third tract of land that the two parties have jointly developed in a continuing relationship for the development and sale of housing.
 57.
-DevCo is appointed to be the project manager to undertake the development works.  On behalf of the two parties LandCo, as the legal owner, will sell the developed lots to third parties.  The agreement provides that the two parties are jointly entitled to any profits and jointly liable for any losses arising from the project.  DevCo is authorised to make all of the decisions in relation to the building and LandCo is authorised to make decisions in relation to the marketing.
+DevCo is appointed to be the project manager to undertake the development works. On behalf of the two parties LandCo, as the legal owner, will sell the developed lots to third parties. The agreement provides that the two parties are jointly entitled to any profits and jointly liable for any losses arising from the project. DevCo is authorised to make all of the decisions in relation to the building and LandCo is authorised to make decisions in relation to the marketing.
 58.
-While all of the facts and the documentation would need to be considered, this arrangement between LandCo and DevCo has the features of a partnership because it provides for a sharing of any profits or losses arising from the project.  The facts indicate that LandCo and DevCo are carrying on a business in common with a view of profit, and therefore the first limb of the definition of 'partnership' may be satisfied.  Even though the agreement provides that nothing in it shall be construed to deem the parties to be partners, and describes the relationship as a joint venture, the true character of the relationship of the parties may be a partnership.  The arrangement also satisfies the second limb of the definition of 'partnership' in that LandCo and DevCo, under the agreement, have a joint entitlement to income.  Although LandCo makes the sale on their behalf, the two parties are jointly in receipt of income.
+While all of the facts and the documentation would need to be considered, this arrangement between LandCo and DevCo has the features of a partnership because it provides for a sharing of any profits or losses arising from the project. The facts indicate that LandCo and DevCo are carrying on a business in common with a view of profit, and therefore the first limb of the definition of 'partnership' may be satisfied. Even though the agreement provides that nothing in it shall be construed to deem the parties to be partners, and describes the relationship as a joint venture, the true character of the relationship of the parties may be a partnership. The arrangement also satisfies the second limb of the definition of 'partnership' in that LandCo and DevCo, under the agreement, have a joint entitlement to income. Although LandCo makes the sale on their behalf, the two parties are jointly in receipt of income.
 59.
-The arrangement does not have the features of a joint venture for GST purposes.  In particular, there is no sharing of product or output.  The specified purpose of the development is to generate mutual profits.
+The arrangement does not have the features of a joint venture for GST purposes. In particular, there is no sharing of product or output. The specified purpose of the development is to generate mutual profits.
 Example 3 - Neither a partnership nor a joint venture
 60.
-Philippa and Antonio have entered into a farming agreement whereby, for a period of 8 years, Antonio will farm 5 hectares of peanuts on his peanut farm.  Antonio will sell the harvested crop.  As part of the agreement, Philippa will pay Antonio $1,000 for each hectare of peanuts farmed.  In addition, Antonio is to retain 50% of the net receipts from sales of the harvested crop.  The balance of the net proceeds goes to Philippa.
+Philippa and Antonio have entered into a farming agreement whereby, for a period of 8 years, Antonio will farm 5 hectares of peanuts on his peanut farm. Antonio will sell the harvested crop. As part of the agreement, Philippa will pay Antonio $1,000 for each hectare of peanuts farmed. In addition, Antonio is to retain 50% of the net receipts from sales of the harvested crop. The balance of the net proceeds goes to Philippa.
 61.
-Under the agreement, no interest in the land is created for Philippa.  Nor is Philippa entitled to any part of the crop harvested.  If Antonio terminates the agreement, he has to repay Philippa the initial $1,000 per hectare contribution.  If Philippa terminates the agreement, she is entitled to a partial repayment of her contribution, the amount repayable depending on when the agreement is terminated.
+Under the agreement, no interest in the land is created for Philippa. Nor is Philippa entitled to any part of the crop harvested. If Antonio terminates the agreement, he has to repay Philippa the initial $1,000 per hectare contribution. If Philippa terminates the agreement, she is entitled to a partial repayment of her contribution, the amount repayable depending on when the agreement is terminated.
 62.
-While all the facts and documentation would need to be considered, the arrangement between Antonio and Philippa does not exhibit the features of a partnership because they are not carrying on a business in common nor in receipt of income jointly.   Antonio is running the business of farming himself without any involvement from Philippa.  She has no say in the running of his business.  Antonio receives the income from the sale of the crop, calculates his expenses and disburses part of the net proceeds to Philippa.  The arrangement also does not have the features of a joint venture because there is no sharing of a product or output.  Under the agreement, Philippa is merely investing funds for an 8 year period at a rate of return varying with the size and sale price of the crop produced.  The arrangement is an investment by Philippa in Antonio's business.
+While all the facts and documentation would need to be considered, the arrangement between Antonio and Philippa does not exhibit the features of a partnership because they are not carrying on a business in common nor in receipt of income jointly. Antonio is running the business of farming himself without any involvement from Philippa. She has no say in the running of his business. Antonio receives the income from the sale of the crop, calculates his expenses and disburses part of the net proceeds to Philippa. The arrangement also does not have the features of a joint venture because there is no sharing of a product or output. Under the agreement, Philippa is merely investing funds for an 8 year period at a rate of return varying with the size and sale price of the crop produced. The arrangement is an investment by Philippa in Antonio's business.
 Detailed contents list
 63. Below is a detailed contents list for this Goods and Services Tax Ruling:
 Paragraph
@@ -354,7 +352,7 @@ Commissioner of Taxation
 7 April 2004
 Footnotes
 [F1]
-1 Section 184-1 sets out the meaning of an entity for GST purposes.  See also paragraphs 15 to 17 of this Ruling.
+1 Section 184-1 sets out the meaning of an entity for GST purposes. See also paragraphs 15 to 17 of this Ruling.
 [F2]
 2 Subregulation 51-5.01(1) of the A New Tax System (Goods and Services Tax) Regulations 1999 sets out specified purposes for paragraph 51-5(1)(a) of the GST Act.
 [F3]
@@ -406,7 +404,7 @@ Webster v. McIntosh
 Statutory Interpretation in Australia,
 5th Edn, Butterworths, Chatswood, NSW, at [3.37].
 [F19]
-19 We are not aware of any arrangements that are considered to be within the spirit of the provisions, but would be denied access to the administrative benefits of Division 51 due to not satisfying the requirement for sharing of product or output.  We will be pleased to consider any such arrangements brought to our attention on a case by case basis.
+19 We are not aware of any arrangements that are considered to be within the spirit of the provisions, but would be denied access to the administrative benefits of Division 51 due to not satisfying the requirement for sharing of product or output. We will be pleased to consider any such arrangements brought to our attention on a case by case basis.
 [F19A]
 19A Although it is not necessary for the joint venture agreement itself to be in writing, for tax periods starting on or after 1 July 2010 paragraph 51-5(1)(e) requires that the entities must agree in writing to the formation of the joint venture as a GST joint venture. Similarly, under paragraph 51-70(1)(a) the joint venture operator may add an entity to the joint venture with the entity's written agreement if it satisfies the participation requirements of a GST joint venture.
 [F20]
@@ -430,7 +428,7 @@ Partnership Act 1891
 Partnership Act 1997
 (NT). The various State statutes define 'partnership' as 'the relation which subsists between persons carrying on a business in common with a view of profit.' This definition is adopted from the common law.
 [F22]
-22 Our view on general law partnerships can be found in Goods and Services Tax Ruling GSTR 2003/13.  Taxation Ruling TR 94/8 sets out the Commissioner's view on when a business is carried on in partnership.
+22 Our view on general law partnerships can be found in Goods and Services Tax Ruling GSTR 2003/13. Taxation Ruling TR 94/8 sets out the Commissioner's view on when a business is carried on in partnership.
 [F23]
 23 See, for example,
 United Dominions Corporation Ltd v. Brian Pty Ltd
@@ -448,8 +446,8 @@ Pursell v. Newberry
 Previously released in draft form as GSTR 2003/D8.
 References
 ATO references:
-NO  2003/12600
-ISSN:  1443-5160
+NO 2003/12600
+ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
 GSTR 2003/13
@@ -463,38 +461,38 @@ partnership
 Business Line:
 ISP - GST
 Legislative References:
-TAA 1953  388-50
+TAA 1953 388-50
 TAA 1953 Sch1 Div 358
-ITAA 1997  195-1
-ITAA 1997  995-1
-ITAA 1997  995-1(1)
-ANTS (GST)A99  9-5
-ANTS (GST)A99  Subdiv 48-B
-ANTS (GST)A99  Div 51
-ANTS (GST)A99  Subdiv 51-A
-ANTS (GST)A99  Subdiv 51-B
-ANTS (GST)A99  Subdiv 51-C
-ANTS (GST)A99  Subdiv 51-D
-ANTS (GST)A99  51-5
-ANTS (GST)A99  51-5(1)(a)
-ANTS (GST)A99  51-5(1)(b)
-ANTS (GST)A99  51-5(1)(e)
-ANTS (GST)A99  51-10
-ANTS (GST)A99  51-10(b)
-ANTS (GST)A99  51-70(1)(a)
-ANTS (GST)A99  184-1
-ANTS (GST)A99  184-1(1A)
-ANTS (GST)A99  195-1
-ANTS(GST)R99  51-5.01(1)
-Partnership Act 1891 (TAS)  6(1)
-Partnership Act 1891 (QLD)  5(1)
-Partnership Act 1891 (SA)  1(1)
-Partnership Act 1892 (NSW)  1(1)
-Partnership Act 1895 (WA)  7(1)
-Partnership Act 1958 (VIC)  5(1)
-Partnership Act 1963 (ACT)  6(1)
-Partnership Act 1997 (NT)  5(1)
-Trades Practices Act 1974  4J(a)
+ITAA 1997 195-1
+ITAA 1997 995-1
+ITAA 1997 995-1(1)
+ANTS (GST)A99 9-5
+ANTS (GST)A99 Subdiv 48-B
+ANTS (GST)A99 Div 51
+ANTS (GST)A99 Subdiv 51-A
+ANTS (GST)A99 Subdiv 51-B
+ANTS (GST)A99 Subdiv 51-C
+ANTS (GST)A99 Subdiv 51-D
+ANTS (GST)A99 51-5
+ANTS (GST)A99 51-5(1)(a)
+ANTS (GST)A99 51-5(1)(b)
+ANTS (GST)A99 51-5(1)(e)
+ANTS (GST)A99 51-10
+ANTS (GST)A99 51-10(b)
+ANTS (GST)A99 51-70(1)(a)
+ANTS (GST)A99 184-1
+ANTS (GST)A99 184-1(1A)
+ANTS (GST)A99 195-1
+ANTS(GST)R99 51-5.01(1)
+Partnership Act 1891 (TAS) 6(1)
+Partnership Act 1891 (QLD) 5(1)
+Partnership Act 1891 (SA) 1(1)
+Partnership Act 1892 (NSW) 1(1)
+Partnership Act 1895 (WA) 7(1)
+Partnership Act 1958 (VIC) 5(1)
+Partnership Act 1963 (ACT) 6(1)
+Partnership Act 1997 (NT) 5(1)
+Trades Practices Act 1974 4J(a)
 Case References:
 A.R.M. Constructions Pty Ltd and Others v. F.C. of T
 (1987) 87 ATC 4790

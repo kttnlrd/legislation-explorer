@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Schedular policyholder base income and PIE schedular income**
 
-**(2)**  Section EY 2 uses the assessable income in a life insurer’s policyholder base income, and the life insurer’s policyholder base allowable deductions, to calculate their schedular policyholder base income. A life insurer’s schedular income derived by their life fund PIE that is a multi-rate PIE is excluded from their schedular policyholder base income, along with deductions for that income.
+**(2)**  Section EY 2 uses the assessable income in a life insurer's policyholder base income, and the life insurer's policyholder base allowable deductions, to calculate their schedular policyholder base income. A life insurer's schedular income derived by their life fund PIE that is a multi-rate PIE is excluded from their schedular policyholder base income, along with deductions for that income.
 
 **Counting once**
 

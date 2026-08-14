@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Low-turnover traders**
 
-**(6)**  A special rule applies for the purposes of subpart EB (Valuation of trading stock (including dealer’s livestock)) to determine when a low-turnover trader is associated with a company, see section EB 13(2) (Low-turnover valuation).
+**(6)**  A special rule applies for the purposes of subpart EB (Valuation of trading stock (including dealer's livestock)) to determine when a low-turnover trader is associated with a company, see section EB 13(2) (Low-turnover valuation).
 
 **Control interests in foreign companies**
 

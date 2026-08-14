@@ -40,15 +40,15 @@ Capital gain or loss of transferor spouse disregarded If a marriage or relations
 *Refs: s
 112-150, s 126-5), s 126-25)*
 
-situation If a post-CGT asset of the transferor spouse is disposed of to the transferee spouse and there is a marriage or relationship breakdown roll-over, the ﬁrst element of the asset’s cost base (or reduced cost base) in the breakdown hands of the transferee is the asset’s cost base (or reduced cost base) in the hands of the transferor at the time the transferee acquires it.
+situation If a post-CGT asset of the transferor spouse is disposed of to the transferee spouse and there is a marriage or relationship breakdown roll-over, the ﬁrst element of the asset's cost base (or reduced cost base) in the breakdown hands of the transferee is the asset's cost base (or reduced cost base) in the hands of the transferor at the time the transferee acquires it.
 
-Example Jen transfers land to her former spouse, Alf, because of a court order under the Family Law Act 1975. Any capital gain or loss Jen makes from the disposal is disregarded. If the cost base of the land to Jen at the time Alf acquired it is $100,000, the ﬁrst element of the land’s cost base in Alf’s hands is $100,000.
+Example Jen transfers land to her former spouse, Alf, because of a court order under the Family Law Act 1975. Any capital gain or loss Jen makes from the disposal is disregarded. If the cost base of the land to Jen at the time Alf acquired it is $100,000, the ﬁrst element of the land's cost base in Alf's hands is $100,000.
 
 If a pre-CGT asset of the transferor is disposed of to the transferee, it is also taken to be a pre-CGT asset in the hands of the transferee.
 
 If a collectable or a personal use asset is disposed of by the transferor, it retains the same character in the hands of the transferee.
 
-situation If the transferor spouse creates an asset in the transferee spouse and there is a marriage or relationship breakdown roll-over, the ﬁrst element of the asset’s cost base (or reduced cost base) in the hands of the transferee is:
+situation If the transferor spouse creates an asset in the transferee spouse and there is a marriage or relationship breakdown roll-over, the ﬁrst element of the asset's cost base (or reduced cost base) in the hands of the transferee is:
 
 - if the asset is created as a result of CGT event D1, the incidental costs incurred by the transferor
 

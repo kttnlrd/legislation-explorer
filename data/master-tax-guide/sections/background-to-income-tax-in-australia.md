@@ -7,7 +7,7 @@ paragraph: "¶1-010"
 ---
 # Background to income tax in Australia ¶1-010
 
-Income tax was ﬁrst imposed in Australia by the states, commencing with South Australia in 1884, New South Wales and Victoria in 1895, Queensland and Tasmania in 1902 and Western Australia in 1907. The ﬁrst federal income tax was levied by the Commonwealth in 1916 to ﬁnance Australia’s role in World War I.
+Income tax was ﬁrst imposed in Australia by the states, commencing with South Australia in 1884, New South Wales and Victoria in 1895, Queensland and Tasmania in 1902 and Western Australia in 1907. The ﬁrst federal income tax was levied by the Commonwealth in 1916 to ﬁnance Australia's role in World War I.
 
 The introduction of the federal tax resulted in diﬀerent tax levies by at least 2 authorities (state and federal) and, as between the states, at diﬀerent rates. Accordingly, after 1916, the states and the Commonwealth endeavoured to provide a uniform tax system. In 1923, to minimise the duplication of administrative facilities, the Commonwealth and all the states except Western Australia agreed that federal income tax was to be collected by state oﬃcials. Simultaneously, certain Commonwealth oﬃcials were transferred from the federal government to the respective state departments and a joint form for state and federal income tax returns was adopted.
 
@@ -19,4 +19,4 @@ A variation of this arrangement applies to GST collected by the Commonwealth. Re
 
 Since 1997 substantial parts of ITAA36 have been written into the Income Tax Assessment Act 1997 (ITAA97), and the 2 Acts must now be read together to get a full understanding of the income tax system (¶1-700).
 
-For a comprehensive analysis of the roles played by diﬀerent taxes and how they have changed over time, see “Australia’s Tax Mix” (released by the Parliamentary Budget Oﬃce on 14 November 2024).
+For a comprehensive analysis of the roles played by diﬀerent taxes and how they have changed over time, see "Australia's Tax Mix" (released by the Parliamentary Budget Oﬃce on 14 November 2024).

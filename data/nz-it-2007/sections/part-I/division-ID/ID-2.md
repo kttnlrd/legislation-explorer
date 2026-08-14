@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (b) make the remaining amount available to another consolidated group to subtract from its net income for the tax year:
 
-- (c) make the remaining amount available under section IC 5 (Company B using company A’s tax loss).
+- (c) make the remaining amount available under section IC 5 (Company B using company A's tax loss).
 
 **Third use**
 

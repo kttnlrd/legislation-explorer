@@ -46,9 +46,9 @@ compilation_date: 2026-06-06
 
   - (iii) meet the audit requirements of section EX 21C(8).
 
-**Former generally accepted accounting practice without IFRS for CFC’s test group**
+**Former generally accepted accounting practice without IFRS for CFC's test group**
 
-**(3)**  The interest holder may use former generally accepted accounting practice without IFRS for the CFC’s test group under section EX 21D(1) (Non-attributing active CFC: default test) if the interest holder or another person is a company resident in New Zealand that—
+**(3)**  The interest holder may use former generally accepted accounting practice without IFRS for the CFC's test group under section EX 21D(1) (Non-attributing active CFC: default test) if the interest holder or another person is a company resident in New Zealand that—
 
 - (a) has no revenue under former Financial Reporting Standard 34 and former Financial Reporting Standard 35; and
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 - (g) has accounts that—
 
-  - (i) include the accounts of the members of the CFC’s test group; and
+  - (i) include the accounts of the members of the CFC's test group; and
 
   - (ii) comply with former generally accepted accounting practice without IFRS; and
 

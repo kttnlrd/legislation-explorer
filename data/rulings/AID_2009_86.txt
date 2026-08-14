@@ -3,23 +3,18 @@ ATO ID 2009/86
 ==================================================
 
 Income Tax
-        Capital Gains Tax: trust split - appointing a new trustee - CGT event E1
-        FOI status: may be released
+ Capital Gains Tax: trust split - appointing a new trustee - CGT event E1
+ FOI status: may be released
 
-
-This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in  TD 2012/21.
+This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in TD 2012/21.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does capital gains tax (CGT) event E1 in section 104-55 of the Income Tax Assessment Act 1997 (ITAA 1997) happen if, in the circumstances outlined in the facts below, a new trustee is appointed to CGT assets forming part of the property of a trust and those assets are transferred to the new trustee?
@@ -34,8 +29,6 @@ The new trustee was a company controlled by the Y family. The objective was that
 The remainder of the trust's property continued to be held by the original trustee.
 The new trustee was appointed by a deed entered into by the appointor, the original trustee and the new trustee. The deed provided that:
 
-
-
 •Upon appointment of the new trustee in respect of some of the trust's assets, the original trustee undertook to transfer those assets to the new trustee.
 •The original trustee released the new trustee from any rights the original trustee may have to be indemnified (in respect of expenses incurred by the original trustee in the proper administration of the trust) out of assets now held by the new trustee.
 •The new trustee released the original trustee from any rights the new trustee may have to be indemnified (in respect of expenses incurred by the new trustee in the proper administration of the trust) out of assets that continue to be held by the original trustee.
@@ -45,7 +38,6 @@ The new trustee was appointed by a deed entered into by the appointor, the origi
 On the same day as the appointment of the new trustee, the original trustee transferred the 100 units to the new trustee by executing a 'Unit Transfer Form'.
 Immediately following the appointment of the new trustee and the transfer of relevant assets to it, the trust deed of the X Family Trust was amended to change its name (to the Units Family Trust) insofar as it related to the assets held by the new trustee.
 The appointment of the new trustee was part of a broader family restructure designed to split certain assets between the X and Y families. The broader arrangement was supported by a family agreement. Under that agreement the X family undertook to hold on a bare trust for the Y family any distributions received by the X family in respect of the assets to which the new trustee was appointed (as such assets were intended to benefit the Y family).
-
 
 Note: Because the new trustee holds its assets on the terms set out in the deed for the X Family Trust, it is conceivable that the X family could continue to benefit in respect of those assets (even though the Y family are intended to have the exclusive benefit of them); for example, in default of the new trustee making a determination to distribute them on the vesting of the trust. Thus the presumed need for the family agreement.
 
@@ -62,14 +54,13 @@ Further, the conditions for the same trust exception in paragraph 104-55(5)(b) o
 In this case, differences which prevent the application of the exception include the prospect that the two trusts may have different appointors, and the fact that the two trusts have widely-drawn beneficiary clauses (such that the trustee of the (new) Units Family Trust is a beneficiary of the (original) X Family Trust and vice versa, but neither is a beneficiary of itself).
 Therefore, CGT event E1 happens in respect of each CGT asset of the X Family Trust when it is transferred to the new trustee. The original trustee will make a capital gain in respect of a transferred asset if its capital proceeds from the creation of the new trust over the asset are more than the asset's cost base. It will make a capital loss if its capital proceeds are less than the asset's reduced cost base (see subsection 104-55(2) and subsection 104-55(3) of the ITAA 1997).
 
-
 Note: The 'same trust' exception in paragraph 104-55(5)(b) of the ITAA 1997 has been repealed by Tax Laws Amendment (2009 Measures No. 6) Act 2010 and does not apply to CGT events happening on or after 1 November 2008.
 
 Date of decision:
-         23 July 2009
+  23 July 2009
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -83,35 +74,30 @@ Other References:
 
 Creation of a new trust - Statement of Principles, August 2001 (withdrawn on 20 April 2012)
 
-
 Keywords
 
 Capital gains tax
-          CGT events
-          CGT events E1-E9-trusts
-          Discretionary trusts
-          Trusts
-
+ CGT events
+ CGT events E1-E9-trusts
+ Discretionary trusts
+ Trusts
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         31 July 2009
+  31 July 2009
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 23 July 2009

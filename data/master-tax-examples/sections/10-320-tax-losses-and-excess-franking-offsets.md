@@ -7,11 +7,11 @@ paragraph: "None"
 ---
 # 10-320 - Tax losses and excess franking offsets
 
-Worked example: Tax losses and excess franking offsets Issue Q Co is an investment, manufacturing and trading company that has operated for the past 50 years. The company’s philosophy is to “follow the profits” and its business decisions are based on the likelihood of generating profit, no matter the specifics of the industry. The company has an annual aggregated turnover in excess of $50 million.
+Worked example: Tax losses and excess franking offsets Issue Q Co is an investment, manufacturing and trading company that has operated for the past 50 years. The company's philosophy is to "follow the profits" and its business decisions are based on the likelihood of generating profit, no matter the specifics of the industry. The company has an annual aggregated turnover in excess of $50 million.
 
-In the 2023–24 income year, Q Co incurred tax losses of $280,000 (revenue). In the 2024–25 income year, the company’s taxable income (before application of tax losses) was $350,000. Therefore, in preparing Q Co’s 2024–25 income tax return, the company’s accountant is seeking to deduct the $280,000 of carry- forward losses against all of the taxable income for that year.
+In the 2023–24 income year, Q Co incurred tax losses of $280,000 (revenue). In the 2024–25 income year, the company's taxable income (before application of tax losses) was $350,000. Therefore, in preparing Q Co's 2024–25 income tax return, the company's accountant is seeking to deduct the $280,000 of carry- forward losses against all of the taxable income for that year.
 
-In the 2024–25 income year, Q Co received franked dividends with $135,000 franking credits attached (both the dividends and franking credits are included in the company’s taxable income before losses of $350,000).
+In the 2024–25 income year, Q Co received franked dividends with $135,000 franking credits attached (both the dividends and franking credits are included in the company's taxable income before losses of $350,000).
 
 The share capital of Q Co comprised 100 ordinary shares on issue. Each share carried equal rights to vote, dividends and capital distributions. The shareholdings as at 30 June 2024 were:
 
@@ -55,7 +55,7 @@ The sale of the shares on 9 February 2025 resulted in Bill maintaining a 30% sha
 
 The trustee of the trust is deemed to be a beneficial owner of the shares to which it has legal title because the trust has made a family trust election and is thereby a family trust (ITAA97 s 165-207).
 
-BCT and test time For the tax losses to be utilised, the BCT must be satisfied. Q Co’s business during the 2024–25 income year is to be compared to its business immediately before the relevant “test time”. The test time in this case is 9 February 2025, that is the date of the COT breach (ITAA97 s 165-13(2)).
+BCT and test time For the tax losses to be utilised, the BCT must be satisfied. Q Co's business during the 2024–25 income year is to be compared to its business immediately before the relevant "test time". The test time in this case is 9 February 2025, that is the date of the COT breach (ITAA97 s 165-13(2)).
 
 The business continuity test has 2 elements; the test may be satisfied by a company either:
 
@@ -73,9 +73,9 @@ The 3 tests comprising the same business test are: 1. The same business test —
 
 The 3 tests are not alternative tests. They must all be passed in order for the same business test to be satisfied (ITAA97 s 165-210(1), (2) and (3)).
 
-To satisfy the similar business test, a company must throughout the relevant continuity test period carry on a business that is “similar to” the business carried on immediately before the relevant test time (ITAA97 s 165-211).
+To satisfy the similar business test, a company must throughout the relevant continuity test period carry on a business that is "similar to" the business carried on immediately before the relevant test time (ITAA97 s 165-211).
 
-The legislation provides for 4 matters that must be taken into account (along with any other considerations that are relevant in the particular situation) in ascertaining whether a company’s current business is similar to its former business. In broad terms, these 4 matters are:
+The legislation provides for 4 matters that must be taken into account (along with any other considerations that are relevant in the particular situation) in ascertaining whether a company's current business is similar to its former business. In broad terms, these 4 matters are:
 
 - the extent to which the same assets are used to generate income
 
@@ -87,7 +87,7 @@ The legislation provides for 4 matters that must be taken into account (along wi
 
   assets, products, etc (ITAA97 s 165-211(2)).
 
-To work out if Q Co passes the BCT, it is necessary to analyse its activities before and after the test time — 9 February 2025. Q Co is involved in diverse activities and its business philosophy is to “follow the profits”, no matter the specifics of the industry. If that means, for example, that Q Co stopped carrying on a business after the test time, or after the test time it started a new business of a kind it did not carry on before the test time or it derived income from a kind of transaction that it had not entered into in the course of its business operations before the test time, it may fail the same business test. It may however satisfy the similar business test, based on an analysis of all of the commercial operations and activities of the former business compared with all commercial operations and activities of the current business. If both tests are failed, the carried forward tax losses would not be available for use in the 2024–25 income year or beyond.
+To work out if Q Co passes the BCT, it is necessary to analyse its activities before and after the test time — 9 February 2025. Q Co is involved in diverse activities and its business philosophy is to "follow the profits", no matter the specifics of the industry. If that means, for example, that Q Co stopped carrying on a business after the test time, or after the test time it started a new business of a kind it did not carry on before the test time or it derived income from a kind of transaction that it had not entered into in the course of its business operations before the test time, it may fail the same business test. It may however satisfy the similar business test, based on an analysis of all of the commercial operations and activities of the former business compared with all commercial operations and activities of the current business. If both tests are failed, the carried forward tax losses would not be available for use in the 2024–25 income year or beyond.
 
 If the same business test was failed but the similar business test was passed, the carried-forward tax losses would be available for use in the 2024–25 income year or beyond.
 

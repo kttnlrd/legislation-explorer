@@ -3,21 +3,16 @@ ATO ID 2007/221
 ==================================================
 
 Excise
-        Wine Equalisation Tax: imported wine and gift containers - taxable value
-        FOI status: may be released
-
+ Wine Equalisation Tax: imported wine and gift containers - taxable value
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where bottles of wine and presentation tubes and boxes (gift containers) are imported in the same consignment (but packed separately) and classified as wine in accordance with the classification rules in Schedule 2 to the Customs Tariff Act 1995, does the value of the gift containers form part of the taxable value of the wine for the purposes of Division 9 of the A New Tax System (Wine Equalisation Tax) Act 1999 (WET Act)?
@@ -35,8 +30,6 @@ The Table is in section 5-5 of the WET Act and lists all the assessable dealings
 Where an entity makes a local entry of wine, the relevant assessable dealing is AD10 in the Assessable Dealings Table. The normal taxable value specified in the table for AD10 is 'the *GST importation value'.
 Section 33-1 of the WET Act provides that the 'GST importation value' of a local entry is an amount equal to the value of a taxable importation for GST purposes, disregarding any wine tax payable included in that value.
 The basic rules for determining the value of a taxable importation for GST purposes are in section 13-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act). Subsection 13-20(2) provides that the value of a taxable importation is the sum of:
-
-
 
 •the customs value of the imported goods
 •the cost of the international transport of the goods
@@ -60,8 +53,6 @@ Subsection 23-5(1) of the WET Act, which sets out how wine tax on customs dealin
 Therefore, in the context of wine tax, the focus is on the goods being the wine. The mere fact that Customs has classified both the wine and the gift containers to the tariff classification applicable to wine does not mean that the gift containers are themselves wine. It follows that the wine has a certain customs value, and the gift containers have their own separate customs value.
 Therefore, in calculating the normal taxable value of the wine, the following amounts are not included:
 
-
-
 •the customs value of the gift containers
 •the portion of international transport costs attributable to the gift containers
 •the portion of transport insurance costs attributable to the gift containers
@@ -71,17 +62,14 @@ Therefore, in calculating the normal taxable value of the wine, the following am
 
 Although the normal taxable value of the wine does not include the above amounts, it must be ascertained whether there are any specific provisions within the WET Act that serve to include the value of the gift containers in the taxable value of the wine. Subdivision 9-C of the WET Act provides for amounts to be added to the taxable value of wine in certain circumstances. One circumstance, set out in section 9-65 of the WET Act, is where a container is associated with wine that is the subject of a taxable dealing. The term 'container' is defined in section 33-1 of the WET Act as:
 
-
-
 (a)packaging
-                in which, or with which
-                , any property (the contents) is
-                packed or secured
-                , in the ordinary course of a business, for the purpose of marketing or delivery of the contents; and ... [emphasis added]
+ in which, or with which
+ , any property (the contents) is
+ packed or secured
+ , in the ordinary course of a business, for the purpose of marketing or delivery of the contents; and ... [emphasis added]
 
 The emphasised words play a critical role, leading to the construction that the wine (the contents) must be either in the packaging or secured by the packaging in order for the packaging to constitute a container for the purposes of section 9-65 of the WET Act. Neither applies in this case, as at the time of importation, the bottles of wine are neither packed in, nor secured by the gift containers. Thus the gift containers do not satisfy the definition of container provided by section 33-1 of the WET Act and therefore section 9-65 of the WET Act does not apply.
 Accordingly, the value of the gift containers does not form part of the normal taxable value of the wine, and nor is there any legislative mechanism via which the value of the gift containers is included in the taxable value of the wine. It follows that the taxable value of wine does not include the customs value of gift containers that are packed separately from the wine.
-
 
 Note 1: Subsection 13-20(2) of the GST Act was amended with affect from 1 July 2010 to include into the calculation of the 'value of taxable importation', subject to satisfying a number of criteria, an amount paid or payable for loading or handling of the goods and for the supply of a service that facilitates the international transport of the goods. In addition, the definitions of 'international transport' and 'place of consignment' in section 195-1 of the GST Act were amended.
 
@@ -98,7 +86,7 @@ Reason for Decision, Related Public Rulings
 Updated references and added note.
 
 Date of decision:
-         30 November 2007
+  30 November 2007
 
 Legislative References:
 
@@ -115,32 +103,28 @@ GSTR 2003/15
 Keywords
 
 WET taxable value
-          Wine
-          Wine equalisation tax
-
+ Wine
+ Wine equalisation tax
 
 Siebel/TDMS Reference Number:
-         5817990
+  5817990
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         14 December 2007
+  14 December 2007
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 30 November 2007

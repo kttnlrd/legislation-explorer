@@ -3,18 +3,14 @@ ATO ID 2003/60
 ==================================================
 
 Superannuation
-        Undeducted Purchase Price - Relevant Number
-        FOI status: may be released
-
-
+ Undeducted Purchase Price - Relevant Number
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Should the annual deductible amount of the undeducted purchase price (UPP) of a superannuation pension be recalculated using the taxpayer's life expectancy upon the taxpayer's divorce?
@@ -32,16 +28,12 @@ Subsection 27H(2) of the Income Tax Assessment Act 1936 (ITAA 1936) provides the
 
 Where:
 
-
-
 •A = the relevant share of the pension payable to the taxpayer in relation to the year of income (in this case all of the pension is payable to the taxpayer, so A = 1)
 •B = the amount of the UPP of the pension
 •C = the residual capital value
 •D = the relevant number in relation to the pension.
 
 Subsection 27H(4) of the ITAA 1936 defines 'relevant number', as meaning:
-
-
 
 a) 'where the annuity is payable for a term of years certain - the number of years in the term,
 b) where the annuity is payable during the lifetime of a person and not thereafter - the life expectation factor of the person, and
@@ -59,21 +51,19 @@ In Case U89 87 ATC 513; AAT Case 67 (1987) 18 ATR 3484, Senior Member P M Roach 
 
 As there is no longer the prospect of any other person becoming entitled to the taxpayer's superannuation pension following the taxpayer's death, it is considered appropriate to recalculate the deductible amount of the pension using the taxpayer's life expectancy as the relevant number.
 
-
 Note: Due to amendments made to the definition of 'annuity' in subsection 27H(4) of the ITAA 1936 for the 2007-08 and later income years, the above analysis will only apply to a pension paid from a foreign superannuation fund or scheme or an annuity. The views in this ATO ID are relevant to decisions involving superannuation income streams that commenced being paid before 1 July 2007 and to which section 307-125 of the Income Tax (Transitional Provisions) Act 1997 applies.
 
 Date of decision:
-         25 February 2003
+  25 February 2003
 
 Year of income:
-           Year ended 30 June 1996 Year ended 30 June 1997 Year ended 30 June 1998 Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001
+  Year ended 30 June 1996 Year ended 30 June 1997 Year ended 30 June 1998 Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001
 
 Legislative References:
 
 Income Tax Assessment Act 1936   subsection 27H(2)   subsection 27H(4)
 
 Case References:
-
 
 AAT Case U89   87 ATC 513.
 
@@ -82,22 +72,21 @@ AAT Case Z19   92 ATC 204.
 Keywords
 
 Marriage breakdown
-          Life expectancy
-          Undeducted purchase price
-          Undeducted purchase price commissioner's discretion
-
+ Life expectancy
+ Undeducted purchase price
+ Undeducted purchase price commissioner's discretion
 
 Siebel/TDMS Reference Number:
-         DW444411; 1-5MVNCX9; 1-JT71BGC
+  DW444411; 1-5MVNCX9; 1-JT71BGC
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 Date reviewed:
-         6 November 2019
+  6 November 2019
 
 ISSN:
-          1445-2782
+ 1445-2782

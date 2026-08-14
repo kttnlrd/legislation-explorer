@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Taxable income**
 
-**(1)**  For the purposes of section MK 2(1)﻿(cc), a person’s taxable income for the tax credit year is their taxable income for the corresponding tax year.
+**(1)**  For the purposes of section MK 2(1)﻿(cc), a person's taxable income for the tax credit year is their taxable income for the corresponding tax year.
 
 **Meaning of corresponding tax year**
 

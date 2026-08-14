@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # RM 1  What this subpart does
 
-This subpart establishes and measures a person’s entitlement to a refund for an overpayment under this Part or another Part of this Act, how the amount of the refund may be used, and the limits placed on the amount and use of a refund for—
+This subpart establishes and measures a person's entitlement to a refund for an overpayment under this Part or another Part of this Act, how the amount of the refund may be used, and the limits placed on the amount and use of a refund for—
 
 - (a) an imputation credit account (ICA) company:
 

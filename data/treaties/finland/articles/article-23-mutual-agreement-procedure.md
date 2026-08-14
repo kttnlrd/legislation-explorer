@@ -1,0 +1,51 @@
+---
+country: "Finland"
+country_slug: "finland"
+treaty_schedule: 25
+article: 23
+title: "Article 23 — Mutual Agreement Procedure"
+---
+# Article 23 — Mutual Agreement Procedure
+Finnish Agreement
+AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF FINLAND FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+CHAPTER V 
+-
+ SPECIAL PROVISIONS
+Article 23
+Non-Discrimination
+(1)
+Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
+(2)
+The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities in similar circumstances. This provision shall not be construed as obliging a Contracting State to grant to individuals who are residents of the other Contracting State any of the personal allowances, reliefs and reductions for tax purposes which are granted to its own residents.
+(3)
+Except where the provisions of paragraph 1 of Article 9, paragraph 8 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
+(4)
+Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State in similar circumstances are or may be subjected.
+(5)
+This Article shall not apply to any provision of the laws of a Contracting State which:
+(a)
+is designed to prevent the avoidance or evasion of taxes;
+(b)
+does not permit the deferral of tax arising on the transfer of an asset where the subsequent transfer of the asset by the transferee would be beyond the taxing jurisdiction of the Contracting State under its laws;
+(c)
+provides for consolidation of group entities for treatment as a single entity for tax purposes provided that a company, being a resident of that State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, may access such consolidation treatment on the same terms and conditions as other companies that are residents of the first-mentioned State;
+(d)
+does not allow tax rebates or credits in relation to dividends paid by a company that is a resident of that State for purposes of its tax;
+(e)
+provides deductions to eligible taxpayers for expenditure on research and development; or
+(f)
+is otherwise agreed to be unaffected by this Article in an Exchange of Notes between the Contracting States.
+(6)
+In this Article, provisions of the laws of a Contracting State which are designed to prevent avoidance or evasion of taxes include:
+(a)
+measures designed to address thin capitalisation, dividend stripping and transfer pricing;
+(b)
+controlled foreign company, transferor trusts and foreign investment fund rules; and
+(c)
+measures designed to ensure that taxes can be effectively collected and recovered, including conservancy measures.
+(7)
+The provisions of this Article shall apply to the taxes which are referred to in paragraph 3 of Article 2 of this Agreement.

@@ -3,23 +3,18 @@ ATO ID 2001/63
 ==================================================
 
 Income Tax
-        'Tainted' Share Capital
-        FOI status: may be released
+ 'Tainted' Share Capital
+ FOI status: may be released
 
-
-This ATO ID has been withdrawn as it has been replaced by  TD 2008/D17
+This ATO ID has been withdrawn as it has been replaced by TD 2008/D17
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Whether a company's dividend reinvestment plan results in a 'tainted' share capital account in accordance with section 160ARDM (Income Tax Assessment Act 1936 (ITAA 1936).
@@ -29,8 +24,6 @@ Facts
 An Australian resident public company maintains a dividend reinvestment plan whereby shareholders may elect to apply the amount of a dividend entitlement to subscribe for new shares in the company.
 Under the dividend reinvestment plan the amount of dividend payable from retained earnings is credited to share capital account, as a result of a short cut for two entries. The resulting entry is:
 
-
-
 DRRetained Earnings
 CRShare Capital Account
 
@@ -38,7 +31,7 @@ Reasons For Decision
 'Tainted' share capital is defined in subsection 160ARDM(1) (ITAA 1936). Under this provision a company's share capital account is 'tainted' if the company transfers an amount to its share capital account from any of its other accounts.
 Although on face value the condensed accounting entry appears to result in amounts being transferred from 'other accounts' (retained earnings) to the share capital account, this does not result in 'tainted' share capital account. Dividend reinvestment plans involve a constructive payment of dividends by the company to the shareholder to acquire new shares in the company. In this case, however, there is no direct transfer of amounts from retained earnings to share capital account. There is, in fact, a subscription of new capital in the company by shareholders who participate in the dividend reinvestment plan (see CGT Determination No.55). Therefore, the share capital account will not be 'tainted 'as a result of the company's dividend reinvestment plan.
 Date of decision:
-         9 September 1998
+  9 September 1998
 
 Legislative References:
 
@@ -51,29 +44,25 @@ CGT Determination Number 55
 Keywords
 
 Dividend reinvestment
-          Share capital
-          Accounting & record keeping
-
+ Share capital
+ Accounting & record keeping
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         4 June 2001
+  4 June 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  9 September 1998

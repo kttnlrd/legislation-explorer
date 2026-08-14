@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Different balance dates**
 
-**(2)**  For the purposes of subsection (1), if the members of the entity’s New Zealand group do not have the same balance date, the alternatives in subsection (1) apply as if the entity has the same balance date as that of the New Zealand parent.
+**(2)**  For the purposes of subsection (1), if the members of the entity's New Zealand group do not have the same balance date, the alternatives in subsection (1) apply as if the entity has the same balance date as that of the New Zealand parent.
 
 **Daily, monthly, or quarterly for reporting bank**
 

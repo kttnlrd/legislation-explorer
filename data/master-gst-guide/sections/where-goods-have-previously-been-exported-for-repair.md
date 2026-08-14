@@ -25,7 +25,7 @@ Company X sends an item of equipment worth $100,000 overseas for repairs. The co
 
 If the costs of transport, insurance and other relevant costs are expressed in foreign currency, they should be converted at the ruling rate of exchange on the day the goods were exported.
 
-These rules also apply to goods that are part of a “batch repair” process. This covers goods that are imported as part of a process to replace similar-standard goods that have been exported from Australia for repair or renovation.
+These rules also apply to goods that are part of a "batch repair" process. This covers goods that are imported as part of a process to replace similar-standard goods that have been exported from Australia for repair or renovation.
 
 However, it naturally does not apply if the imported goods are of a kind that does not attract GST, as no GST would be payable on those imports in any event. For details of non-taxable imports, see ¶9-030.
 

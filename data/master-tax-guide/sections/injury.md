@@ -13,7 +13,7 @@ Compensation or damages for personal injuries For CGT purposes, any gains or los
 
 Damages for personal injuries (including psychological damage or mental injury) or for libel, slander or defamation and insurance moneys received under personal accident policies fall into this category. Damages for the death of a spouse or for the negligence of a solicitor failing to institute a personal injuries action also fall within the exemption, as do amounts received under a trauma insurance policy by the person insured under the policy or the spouse of that person.
 
-The exemption extends to property other than money received as compensation, although the disposal by the taxpayer of property received as compensation or damages may give rise to a capital gain. The exemption is not available for lump sum damages for such a personal wrong or injury where it is not possible to dissect the portion of the payment attributable to that part of the taxpayer’s claim (Kort 2019 ATC ¶10-491; [2019] AATA 336). For there to be an injury or wrong in a settlement there must be an admission of liability or an acknowledgement or ﬁnding of injury, a mere allegation is not suﬃcient. Further, the exemption does not extend to mere ﬁnancial injury such as lost earning capacity (Stark 2023 ATC ¶20-889; [2023] FCA 1523).
+The exemption extends to property other than money received as compensation, although the disposal by the taxpayer of property received as compensation or damages may give rise to a capital gain. The exemption is not available for lump sum damages for such a personal wrong or injury where it is not possible to dissect the portion of the payment attributable to that part of the taxpayer's claim (Kort 2019 ATC ¶10-491; [2019] AATA 336). For there to be an injury or wrong in a settlement there must be an admission of liability or an acknowledgement or ﬁnding of injury, a mere allegation is not suﬃcient. Further, the exemption does not extend to mere ﬁnancial injury such as lost earning capacity (Stark 2023 ATC ¶20-889; [2023] FCA 1523).
 
 Compensation for non-personal wrong or injury The CGT consequences of compensation payments for wrongs or injuries which are not of a personal nature are generally as follows (TR 95/35):
 
@@ -55,7 +55,7 @@ CGT event which happens in relation to an asset, being the right to seek compens
 
   reasonable basis between those heads of claim, the whole amount is taken to relate to the disposal
 
-  of the taxpayer’s right to seek compensation. If one of the undissected components relates to, say,
+  of the taxpayer's right to seek compensation. If one of the undissected components relates to, say,
 
   a personal injury of the taxpayer, the exemption which may otherwise be available (see above)
 
@@ -65,7 +65,7 @@ This compensation issue has also been considered by the courts on a number of oc
 
 In Tuite v Exelby 93 ATC 4293, the court awarded damages for a reduction in the value of certain shares against defendants who had violated a restrictive covenant. The court concluded that the award was likely to be assessable under the former provisions corresponding to CGT event H2 (¶11-320) and increased the award to cover the likely tax liability.
 
-In Carborundum Realty v RAIA Archicentre 93 ATC 4418, the plaintiﬀ had earlier been awarded damages of $75,000 for the defendant’s negligence in failing to detect and report certain defects in connection with the inspection of a residential property. The plaintiﬀ sought leave to amend its statement of claim to cover anticipated CGT liability on that amount, based upon a private ruling from the ATO. Leave was refused for a variety of reasons. Harper J said that damages extracted by a court did not give rise to a real gain in the hands of the plaintiﬀ and parliament did not intend to impose CGT on transactions in such cases, ie where the compensation merely put the plaintiﬀ back in the position he was in before the defendant intervened.
+In Carborundum Realty v RAIA Archicentre 93 ATC 4418, the plaintiﬀ had earlier been awarded damages of $75,000 for the defendant's negligence in failing to detect and report certain defects in connection with the inspection of a residential property. The plaintiﬀ sought leave to amend its statement of claim to cover anticipated CGT liability on that amount, based upon a private ruling from the ATO. Leave was refused for a variety of reasons. Harper J said that damages extracted by a court did not give rise to a real gain in the hands of the plaintiﬀ and parliament did not intend to impose CGT on transactions in such cases, ie where the compensation merely put the plaintiﬀ back in the position he was in before the defendant intervened.
 
 The Federal Court also declined to adjust (for potential CGT liability) a damages award relating to breach of copyright (Namol 93 ATC 5101; [1993] FCA 606).
 

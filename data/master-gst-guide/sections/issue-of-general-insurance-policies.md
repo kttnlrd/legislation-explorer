@@ -17,7 +17,7 @@ In GST Ruling GSTR 2006/1, the ATO summarises the distinguishing features of ins
 
 - the insurer bears the risk of loss. It has no right to be indemnified by the insured under the contract
 
-- the contract is made in utmost good faith. The insured must disclose anything relevant to the insurer’s
+- the contract is made in utmost good faith. The insured must disclose anything relevant to the insurer's
 
   risk
 

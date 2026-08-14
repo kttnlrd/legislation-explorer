@@ -37,7 +37,7 @@ Cost base modifications In addition, the general rules for working out the cost 
 
   pre-CGT rights because they were issued in respect of pre-CGT shares.
 
-In each of these situations, the ﬁrst element of the taxpayer’s cost base and reduced cost base for the shares, units or options is the sum of:
+In each of these situations, the ﬁrst element of the taxpayer's cost base and reduced cost base for the shares, units or options is the sum of:
 
 - the cost base of the rights at the time of exercise
 

@@ -29,3 +29,6 @@ data/rulings/
 scripts/cleaned/
 prompts/
 standards/
+backups/
+*.bak
+test_nb2_bg.png

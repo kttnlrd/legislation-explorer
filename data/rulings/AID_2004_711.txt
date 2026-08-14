@@ -3,23 +3,18 @@ ATO ID 2004/711
 ==================================================
 
 Goods and Services Tax
-        GST and entitlement to input tax credit for acquisition under a vendor finance agreement
-        FOI status: may be released
+ GST and entitlement to input tax credit for acquisition under a vendor finance agreement
+ FOI status: may be released
 
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in  GSTD 2004/4 Goods and services tax: can consideration for a supply be provided or received without transferring money (such as where the parties only make book entries recording their agreement that the supply is paid for)?
+This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTD 2004/4 Goods and services tax: can consideration for a supply be provided or received without transferring money (such as where the parties only make book entries recording their agreement that the supply is paid for)?
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, entitled to an input tax credit on the full purchase price under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it acquires a chattel that is partly paid for under a vendor finance agreement?
@@ -33,8 +28,6 @@ On the entity taking possession and full title of the chattel, a mortgage is reg
 Reasons for Decision
 Under section 11-20 of the GST Act, an entity is entitled to an input tax credit for any creditable acquisition that it makes. Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if:
 
-
-
 •the entity acquires anything solely or partly for a creditable purpose
 •the supply of the thing to the entity is a taxable supply
 •the entity provides, or is liable to provide consideration for the supply, and
@@ -47,10 +40,8 @@ By entering into this agreement, the entity and the supplier of the chattel are 
 As such, the entity provides consideration for the supply of the chattel and as all of the requirements of section 11-5 of the GST Act are satisfied, the entity is making a creditable acquisition.
 Therefore, the entity is entitled to an input tax credit on the full purchase price under section 11-20 of the GST Act when it acquires a chattel that is partly paid for under vendor finance agreement.
 
-
-
 Note 1:
-                 The provision of the loan involves a separate supply by the supplier/lender-being a supply of an interest in a credit arrangement, which is an input taxed financial supply. The consideration for the supply of the credit arrangement is the amount of interest payable and the obligation to repay the loan. Please refer to Goods and Services Tax Ruling 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
+ The provision of the loan involves a separate supply by the supplier/lender-being a supply of an interest in a credit arrangement, which is an input taxed financial supply. The consideration for the supply of the credit arrangement is the amount of interest payable and the obligation to repay the loan. Please refer to Goods and Services Tax Ruling 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
 
 Amendment History
 
@@ -66,7 +57,7 @@ Legislative References
 Section 9-17 added.
 
 Date of decision:
-         24 June 2004
+  24 June 2004
 
 Legislative References:
 
@@ -83,37 +74,33 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST input tax credits & creditable acquisitions
-          GST supplies & acquisitions
-          Creditable acquisition
-          Creditable purpose
-          GST consideration
-          GST supply
-          Taxable supply
-
+ GST input tax credits & creditable acquisitions
+ GST supplies & acquisitions
+ Creditable acquisition
+ Creditable purpose
+ GST consideration
+ GST supply
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         4070967
+  4070967
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         27 August 2004
+  27 August 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 24 June 2004

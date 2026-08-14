@@ -7,11 +7,11 @@ paragraph: "¶31-280"
 ---
 # Overview: diverting income ¶31-280
 
-A common method of tax planning has been to “divert” income from a taxpayer who bears tax at high rates (the high rate taxpayer) to one who is taxed at low rates or not at all (the low rate taxpayer). Some methods by which income might be diverted are:
+A common method of tax planning has been to "divert" income from a taxpayer who bears tax at high rates (the high rate taxpayer) to one who is taxed at low rates or not at all (the low rate taxpayer). Some methods by which income might be diverted are:
 
 - the alienation of income or the transfer of the right to receive it (¶30-900)
 
-- channelling of an individual’s income from personal services into a “business” structure such as a
+- channelling of an individual's income from personal services into a "business" structure such as a
 
   company, partnership, trust or contractual arrangement, to facilitate income splitting and access to
 

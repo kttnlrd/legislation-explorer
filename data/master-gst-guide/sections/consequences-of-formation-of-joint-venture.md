@@ -23,9 +23,9 @@ This is narrower than the intra-group exemption that applies to GST groups (GST 
 
 - the joint venture operator makes GST returns on behalf of the venture participants (s 51-50) and
 
-  makes GST payments or receives refunds of the GST joint venture’s net GST amount for each period
+  makes GST payments or receives refunds of the GST joint venture's net GST amount for each period
 
-(s 51-55; 51-60). If the representative member does not pay the tax, the ATO may be able to claim it from any of the participants (Administration Act, Sch 1, s 444-80). The factors taken into account by the ATO in these situations are similar to those applying to GST groups (¶17-020). Participants may limit their liability by entering into an “indirect tax sharing agreement” on terms similar to those applicable to GST groups (¶17-025).
+(s 51-55; 51-60). If the representative member does not pay the tax, the ATO may be able to claim it from any of the participants (Administration Act, Sch 1, s 444-80). The factors taken into account by the ATO in these situations are similar to those applying to GST groups (¶17-020). Participants may limit their liability by entering into an "indirect tax sharing agreement" on terms similar to those applicable to GST groups (¶17-025).
 
 Example Companies are participants in a GST joint venture. The joint venture operator will pay the GST on all sales made as part of the joint venture and claim input tax credits for purchases made as part of the joint venture. Internal sales between the participant companies in connection with the joint venture will not give rise to GST or input tax credits.
 

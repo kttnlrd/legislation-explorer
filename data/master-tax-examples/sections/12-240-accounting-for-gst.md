@@ -7,7 +7,7 @@ paragraph: "None"
 ---
 # 12-240 - Accounting for GST
 
-Worked example: Accounting for GST Issue ABC Ltd makes clothing fasteners such as zippers and buttons for clothing manufacturers. ABC is registered, uses the cash basis of accounting for GST, and has a turnover of $1 million. “Pre-loved Clothing” company makes mass produced clothes for several retailers. Pre-loved Clothing is registered, uses the cash basis of accounting for GST and has a turnover of $1.8 million.
+Worked example: Accounting for GST Issue ABC Ltd makes clothing fasteners such as zippers and buttons for clothing manufacturers. ABC is registered, uses the cash basis of accounting for GST, and has a turnover of $1 million. "Pre-loved Clothing" company makes mass produced clothes for several retailers. Pre-loved Clothing is registered, uses the cash basis of accounting for GST and has a turnover of $1.8 million.
 
 During the 2023–24 tax year, the following transactions took place:
 

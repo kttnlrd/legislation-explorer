@@ -49,11 +49,11 @@ Imports of other concessional goods An importation of goods is not subject to GS
 
 - trophies, medallions and prizes (item 25)
 
-- “low-value” goods (item 26). This exemption is to be replaced: see below
+- "low-value" goods (item 26). This exemption is to be replaced: see below
 
 - samples of negligible value (item 27).
 
-Official guidelines on the application of these concessions are given in the government’s Schedule 4 Guidelines, November 2015, available from the Australian Boarder Force website.
+Official guidelines on the application of these concessions are given in the government's Schedule 4 Guidelines, November 2015, available from the Australian Boarder Force website.
 
 If and when appropriate regulations are made, exemptions may also apply to goods of a scientific, educational or cultural kind (item 1), books, visual and auditory goods (item 3), works of art (item 7), Trade Commissioner goods (item 12), goods subject to the Torres Strait Treaty (item 13) and goods for persons with disabilities (item 29).
 

@@ -16,13 +16,13 @@ compilation_date: 2026-06-06
 
 - (a) section 53 of the Companies Act 1993; or
 
-- (b) the company’s constitution, unless the provision expressly refers to this subsection; or
+- (b) the company's constitution, unless the provision expressly refers to this subsection; or
 
 - (c) any other provision.
 
 **Trusts**
 
-**(2)**  If a trustee derives a dividend and is required under the terms of a trust to distribute it as beneficiary income to a beneficiary, the trustee’s distribution of a supplementary dividend does not breach the terms of the trust.
+**(2)**  If a trustee derives a dividend and is required under the terms of a trust to distribute it as beneficiary income to a beneficiary, the trustee's distribution of a supplementary dividend does not breach the terms of the trust.
 
 *Defined in this Act: beneficiary income, company, distribution, dividend, pay, share, supplementary dividend, trustee*
 

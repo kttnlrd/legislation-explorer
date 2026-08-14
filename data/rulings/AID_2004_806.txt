@@ -3,28 +3,21 @@ ATO ID 2004/806
 ==================================================
 
 Goods and Services Tax
-        GST and attribution of GST payable upon cancellation of registration when GST was accounted on a cash basis
-        FOI status: may be released
-
+ GST and attribution of GST payable upon cancellation of registration when GST was accounted on a cash basis
+ FOI status: may be released
 
 This ATO ID is withdrawn as it is a simple restatement of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Under subsection 138-15(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), does the entity, a business operator who accounted for goods and services tax (GST) on a cash basis, attribute GST payable to the tax period in which it cancelled its GST registration, when:
-
-
 
 •it made a taxable supply under section 9-5 of the GST Act before the cancellation of its GST registration, and
 •it has not yet attributed the GST payable relating to this taxable supply to a previous tax period?
@@ -37,8 +30,6 @@ In a previous tax period, the entity made a taxable supply under section 9-5 of 
 Reasons for Decision
 Subsection 138-15(1) of the GST Act provides that GST payable by an entity on its taxable supplies is attributable to a particular tax period, and no other, if:
 
-
-
 •during the tax period, the entity's GST registration is cancelled
 •immediately before the cancellation, the entity accounted for GST on a cash basis
 •the GST on the supply was not attributable, to any extent, to a previous tax period during which the entity accounted on a cash basis, and
@@ -48,19 +39,16 @@ The entity accounted for GST on a cash basis and cancelled its GST registration 
 Under subsection 29-5(2) of the GST Act, an entity that accounts for GST on a cash basis can attribute the GST on a taxable supply to a particular tax period only to the extent that consideration for the supply is received in that tax period. The entity has not received any consideration for the taxable supply. Accordingly, the GST payable on the entity's supply was not attributable to any previous tax period and the third requirement in subsection 138-15(1) of the GST Act is satisfied.
 Subsection 29-5(1) of the GST Act provides that the GST payable on the taxable supply of an entity who does not account on a cash basis is attributable to:
 
-
-
 •the tax period in which any consideration is received for the supply, or
 •if, before any of the consideration is received, an invoice is issued relating to the supply - the tax period in which the invoice was issued.
 
 Although the entity has not received any consideration for the taxable supply, it issued an invoice to the recipient of the supply in a previous tax period. Accordingly, the entity would have attributed the GST payable in the previous tax period had it not accounted on a cash basis. Therefore, the fourth requirement in subsection 138-15(1) of the GST Act is satisfied.
 As all the requirements under subsection 138-15(1) of the GST Act are satisfied, the entity does attribute the GST payable on the taxable supply to the tax period in which it cancelled its GST registration.
 
-
 Note. Subsection 27-40(2) of the GST Act provides that if an entity's registration is cancelled, the entity's concluding tax period is at the end of its cancellation day. As the entity's GST registration cancellation is effective from the end of its current tax period, its concluding tax period is at the end of the last day of its current tax period.
 
 Date of decision:
-         23 January 2002
+  23 January 2002
 
 Legislative References:
 
@@ -73,36 +61,32 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST registration
-          Registration cancellation
-          GST supplies & acquisitions
-          GST supply
-          Taxable supply
-          GST tax periods
-          Cash basis
-          Concluding tax period
-          GST private rulings specific advice
-
+ GST registration
+ Registration cancellation
+ GST supplies & acquisitions
+ GST supply
+ Taxable supply
+ GST tax periods
+ Cash basis
+ Concluding tax period
+ GST private rulings specific advice
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         8 October 2004
+  8 October 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 23 January 2002

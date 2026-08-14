@@ -9,11 +9,11 @@ paragraph: "¶44-170"
 
 - The trustee of the deceased estate, administrator or legal personal representative (together
 
-“LPR”) of a deceased is generally required to lodge a ﬁnal, “date of death” individual tax return of the deceased’s income covering the period from the beginning of the ﬁnancial year up to the date of death, and any other outstanding returns (¶2-080, ¶25-530).
+"LPR") of a deceased is generally required to lodge a ﬁnal, "date of death" individual tax return of the deceased's income covering the period from the beginning of the ﬁnancial year up to the date of death, and any other outstanding returns (¶2-080, ¶25-530).
 
 - If an assessment had been served on the taxpayer but remained unpaid at the time of death, the
 
-  amount payable is a liability of the deceased’s estate. The same applies where the LPR receives
+  amount payable is a liability of the deceased's estate. The same applies where the LPR receives
 
   an assessment in respect of a return lodged by the deceased before the date of death (¶25-530).
 
@@ -23,13 +23,13 @@ paragraph: "¶44-170"
 
 - In the date of death return, expenditure incurred by the LPR in relation to the income tax aﬀairs of
 
-  the deceased is deductible against the deceased’s income (¶6-030, ¶16-850).
+  the deceased is deductible against the deceased's income (¶6-030, ¶16-850).
 
-- A taxpayer’s accrued losses can be oﬀset against their income in the date of death tax return.
+- A taxpayer's accrued losses can be oﬀset against their income in the date of death tax return.
 
-Similarly, the taxpayer’s capital losses can be oﬀset against their capital gains in order to determine the taxpayer’s net capital gain or loss for that return. However, in either case, unrecouped losses cannot generally be carried forward to the estate or the beneﬁciaries (¶12-570).
+Similarly, the taxpayer's capital losses can be oﬀset against their capital gains in order to determine the taxpayer's net capital gain or loss for that return. However, in either case, unrecouped losses cannot generally be carried forward to the estate or the beneﬁciaries (¶12-570).
 
-- Tax payable on the basis of the deceased’s date of death return, or in relation to any earlier year
+- Tax payable on the basis of the deceased's date of death return, or in relation to any earlier year
 
   for which the LPR lodges a return, is a liability of the estate once a notice of assessment is served
 
@@ -53,7 +53,7 @@ Similarly, the taxpayer’s capital losses can be oﬀset against their capital 
 
 - Income derived by the estate during the period of administration is normally assessable to the
 
-  estate, not to the beneﬁciaries, as they are not “presently entitled” (¶6-190).
+  estate, not to the beneﬁciaries, as they are not "presently entitled" (¶6-190).
 
 - Generally, an estate in course of administration is subject to normal marginal rates for the period
 
@@ -75,7 +75,7 @@ Similarly, the taxpayer’s capital losses can be oﬀset against their capital 
 
   assessable to the estate (¶6-190).
 
-- The Commissioner’s right to recover unpaid taxes of the deceased from the beneﬁciaries is
+- The Commissioner's right to recover unpaid taxes of the deceased from the beneﬁciaries is
 
   limited (¶25-510).
 
@@ -99,13 +99,13 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   amount that would have been their cost base to the deceased at the date of death (¶12-580).
 
-- As an exception, the deceased’s main residence is generally deemed to have been acquired for a
+- As an exception, the deceased's main residence is generally deemed to have been acquired for a
 
   consideration equal to its market value at the date of death (¶12-580).
 
 - As a further exception, trading stock is brought to account at its market value or, at the
 
-  representative’s election, at certain other values (¶9-300).
+  representative's election, at certain other values (¶9-300).
 
 - Eligible costs incurred in relation to an asset after the date of death may also enter into the
 
@@ -141,21 +141,21 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   assets on disposal. A corresponding rule applies to collectables (¶12-580).
 
-- CGT generally does not apply on the subsequent sale of the deceased’s main residence where
+- CGT generally does not apply on the subsequent sale of the deceased's main residence where
 
   it is sold within 2 years of the date of death or in certain other circumstances (¶11-770). However,
 
-  where the deceased was an “excluded foreign resident” at the time of death, the main residence
+  where the deceased was an "excluded foreign resident" at the time of death, the main residence
 
   exemption does not apply (¶11-730, ¶11-750).
 
 - Where a taxpayer makes a post-CGT improvement to a pre-CGT asset and the improved asset is
 
-  inherited by a beneﬁciary on the taxpayer’s subsequent death, the improvement and the asset are
+  inherited by a beneﬁciary on the taxpayer's subsequent death, the improvement and the asset are
 
   treated as one asset when acquired by the beneﬁciary (¶11-410).
 
-- A deceased’s capital losses can be oﬀset against their capital gains in order to determine their net
+- A deceased's capital losses can be oﬀset against their capital gains in order to determine their net
 
   capital gain or loss for the period up to the date of death. However, any unrecouped loss cannot be
 
@@ -165,7 +165,7 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   non-resident (¶12-720) or the trustee of a complying superannuation fund (¶12-580).
 
-- Special tax treatment applies to payments received after death in consequence of the deceased’s
+- Special tax treatment applies to payments received after death in consequence of the deceased's
 
   termination of employment, with special concessions applying where the beneﬁciary was an eligible
 
@@ -173,7 +173,7 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
 - Payments for unused annual leave and long service leave made to the LPR or beneﬁciary on an
 
-  employee’s death are tax-free (¶14-720, ¶14-730).
+  employee's death are tax-free (¶14-720, ¶14-730).
 
 - The taxation of superannuation death beneﬁts varies depending on whether the payment is in
 
@@ -193,13 +193,13 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
 - Funeral policy proceeds paid directly to a funeral director are fully assessable (¶3-470).
 
-- Where funeral policy proceeds are paid to the trustee of the policyholder’s estate, the trustee is
+- Where funeral policy proceeds are paid to the trustee of the policyholder's estate, the trustee is
 
   liable on the investment return at the time of receipt. However, the proceeds may be exempt if the
 
   policy was issued before 1 January 2003 (¶3-470).
 
-- Income of a deceased estate is exempt from the special rules applying to minors’ unearned
+- Income of a deceased estate is exempt from the special rules applying to minors' unearned
 
   income only where the income of the estate is derived from assets originally transferred to
 
@@ -241,7 +241,7 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
 - Maintenance payments made to a surviving child or spouse of the deceased would not normally
 
-  be tax exempt when paid from the deceased’s estate (¶10-855).
+  be tax exempt when paid from the deceased's estate (¶10-855).
 
 - There are no state death duties imposed on the value of the deceased estate.
 
@@ -249,11 +249,11 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   this will typically be at a nominal rate. Other transfers may be subject to duty at full rates (¶37-020).
 
-- Land tax exemptions for a deceased’s principal place of residence may continue for a period after
+- Land tax exemptions for a deceased's principal place of residence may continue for a period after
 
-  the deceased’s death (eg ¶38-010).
+  the deceased's death (eg ¶38-010).
 
-- The possible impact on the deceased beneﬁciaries’ social security entitlements may need to be
+- The possible impact on the deceased beneﬁciaries' social security entitlements may need to be
 
   taken into account.
 

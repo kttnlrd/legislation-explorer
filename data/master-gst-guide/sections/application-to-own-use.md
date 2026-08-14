@@ -7,11 +7,11 @@ paragraph: "¶22-170"
 ---
 # Application to own use ¶22-170
 
-“Applications to own use” (AOUs) are the third category of assessable dealings that may attract WET. There are four types of AOU that are assessable dealings:
+"Applications to own use" (AOUs) are the third category of assessable dealings that may attract WET. There are four types of AOU that are assessable dealings:
 
 - AD3b — AOU of Australian wine by a wine manufacturer
 
-- AD3c and AD13c — AOU by entity that purchased the wine “under quote” (¶22-420)
+- AD3c and AD13c — AOU by entity that purchased the wine "under quote" (¶22-420)
 
 - AD3d and AD13d — royalty-inclusive AOU
 
@@ -19,7 +19,7 @@ paragraph: "¶22-170"
 
 In each case, the entity liable for WET on an AOU is the applier, and the liability arises at the time of the application.
 
-An AOU means using or dealing with the wine for one’s own purposes. It includes:
+An AOU means using or dealing with the wine for one's own purposes. It includes:
 
 - consuming wine
 
@@ -41,6 +41,6 @@ An AOU does not include selling the wine or consigning it for sale by consignmen
 
 Example A winery uses some of the grapes it grows to manufacture gourmet wine vinegar which it sells to visitors to the winery. The use of the wine in the manufacturing process is not an AOU.
 
-The Commissioner considers that wine included as bonus wine with the sale of other wine is not being applied to the seller’s own use (WET Ruling WETR 2009/1). For example, if a bottle of wine is provided “free” with every dozen sold, that is simply treated as the sale of 13 bottles for the normal price of 12.
+The Commissioner considers that wine included as bonus wine with the sale of other wine is not being applied to the seller's own use (WET Ruling WETR 2009/1). For example, if a bottle of wine is provided "free" with every dozen sold, that is simply treated as the sale of 13 bottles for the normal price of 12.
 
 *Refs: s 5-5), s 33-1*

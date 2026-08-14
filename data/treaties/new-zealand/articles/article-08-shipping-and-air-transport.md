@@ -1,0 +1,26 @@
+---
+country: "New Zealand"
+country_slug: "new-zealand"
+treaty_schedule: 4
+article: 8
+title: "Article 8 — Shipping and Air Transport"
+---
+# Article 8 — Shipping and Air Transport
+New Zealand Convention
+CONVENTION BETWEEN AUSTRALIA AND NEW ZEALAND FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND FRINGE BENEFITS AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+CHAPTER III 
+-
+ TAXATION OF INCOME AND FRINGE BENEFITS
+Shipping and Air Transport
+1.
+Profits of an enterprise of a Contracting State derived from the operation of ships or aircraft in international traffic shall be taxable only in that State.
+2.
+Notwithstanding the provisions of paragraph 1, amounts paid or payable to an enterprise of a Contracting State for carriage by ship or aircraft of passengers, livestock, mail, goods or merchandise which are shipped in the other Contracting State and are discharged at a place in that other State, or for leasing on a full basis of a ship or aircraft for purposes of such carriage, may be taxed in that other State.
+3.
+The profits to which the provisions of paragraphs 1 and 2 apply include profits from the operation of ships or aircraft derived through participation in a pooling arrangement or other profit sharing arrangement.
+4.
+For the purposes of this Article, profits from the operation of ships or aircraft in international traffic include profits from the use, maintenance or rental of containers (including trailers and related equipment for the transport of containers) used in the transport of goods or merchandise, provided that such use, maintenance or rental is directly connected or ancillary to the operation of ships or aircraft in international traffic.

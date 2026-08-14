@@ -11,7 +11,7 @@ Tax relief is available for demergers, ie the restructuring of corporate or trus
 
 Actual examples of the application of demerger relief are discussed in a number of class rulings.
 
-Central to the demerger dividend relief provisions are the concepts of “demerger dividend” and “demerger allocation”. A demerger dividend is that part of a demerger allocation that is assessable as a dividend under ITAA36 s 44(1), or would be so assessable but for s 44(3) and (4). A demerger dividend is unfrankable (¶4-620). A demerger allocation is the total market value of the new interests in the demerged entity that each new owner of the head entity acquires under the demerger. Depending on how the demerger is eﬀected, the demerger allocation may consist of an otherwise assessable dividend component, a return of capital or a combination of capital and proﬁt.
+Central to the demerger dividend relief provisions are the concepts of "demerger dividend" and "demerger allocation". A demerger dividend is that part of a demerger allocation that is assessable as a dividend under ITAA36 s 44(1), or would be so assessable but for s 44(3) and (4). A demerger dividend is unfrankable (¶4-620). A demerger allocation is the total market value of the new interests in the demerged entity that each new owner of the head entity acquires under the demerger. Depending on how the demerger is eﬀected, the demerger allocation may consist of an otherwise assessable dividend component, a return of capital or a combination of capital and proﬁt.
 
 - just after the demerger at least 50% (by market value) of CGT assets owned by the demerged
 

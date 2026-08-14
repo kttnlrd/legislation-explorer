@@ -7,7 +7,7 @@ paragraph: "¶35-070"
 ---
 # Beneﬁt must be provided ¶35-070
 
-A “beneﬁt” includes any right, privilege, service or facility. Some beneﬁts are expressly excluded as fringe beneﬁts and do not give rise to any FBT liability. The main exclusions are:
+A "beneﬁt" includes any right, privilege, service or facility. Some beneﬁts are expressly excluded as fringe beneﬁts and do not give rise to any FBT liability. The main exclusions are:
 
 - exempt beneﬁts (¶35-645)
 
@@ -53,9 +53,9 @@ A “beneﬁt” includes any right, privilege, service or facility. Some bene�
 
   months and paid in addition to normal periodic salary (Dean 97 ATC 4762).
 
-Beneﬁts provided under an “eﬀective” salary sacriﬁce arrangement are not salary and wages and, conversely, beneﬁts provided under “ineﬀective” arrangements are salary and wages and not subject to FBT (TR 2001/10: ¶31-120). Costs incurred by an employer in administering such arrangements do not give rise to a fringe beneﬁt (ID 2001/333). Where a person is being paid parental leave pay by an employer in accordance with the Paid Parental Leave Act 2010, the employee can salary sacriﬁce his/her parental leave pay for non-cash remuneration as parental leave pay is salary and wages as deﬁned for FBT purposes when paid by the person’s employer.
+Beneﬁts provided under an "eﬀective" salary sacriﬁce arrangement are not salary and wages and, conversely, beneﬁts provided under "ineﬀective" arrangements are salary and wages and not subject to FBT (TR 2001/10: ¶31-120). Costs incurred by an employer in administering such arrangements do not give rise to a fringe beneﬁt (ID 2001/333). Where a person is being paid parental leave pay by an employer in accordance with the Paid Parental Leave Act 2010, the employee can salary sacriﬁce his/her parental leave pay for non-cash remuneration as parental leave pay is salary and wages as deﬁned for FBT purposes when paid by the person's employer.
 
-A beneﬁt is not “provided” if it is obtained through the employee’s fraudulent activity that is not condoned by the employer (ID 2003/458).
+A beneﬁt is not "provided" if it is obtained through the employee's fraudulent activity that is not condoned by the employer (ID 2003/458).
 
 Superannuation contributions Employer superannuation contributions are not fringe beneﬁts if they are contributions for an employee to:
 
@@ -69,8 +69,8 @@ Superannuation contributions Employer superannuation contributions are not fring
 
 - an RSA under the Retirement Savings Accounts Act 1997 (¶13-470).
 
-Employer superannuation contributions not falling under any of those exclusions may constitute a fringe beneﬁt. In particular, superannuation contributions on behalf of associates of employees (eg a spouse) are subject to FBT (s 136(1), deﬁnition of “fringe beneﬁt”).
+Employer superannuation contributions not falling under any of those exclusions may constitute a fringe beneﬁt. In particular, superannuation contributions on behalf of associates of employees (eg a spouse) are subject to FBT (s 136(1), deﬁnition of "fringe beneﬁt").
 
-Payments by an employer of a superannuation fund’s expenses (that are treated as a superannuation contribution) are not a fringe beneﬁt (MT 2005/1).
+Payments by an employer of a superannuation fund's expenses (that are treated as a superannuation contribution) are not a fringe beneﬁt (MT 2005/1).
 
 ## The following are salary and wages (rather than fringe beneﬁts):

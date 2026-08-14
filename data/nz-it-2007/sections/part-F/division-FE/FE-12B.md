@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Application of rules**
 
-**(1)**  The rules in this section apply to the calculation, for an entity’s New Zealand group or worldwide group, of the following amounts:
+**(1)**  The rules in this section apply to the calculation, for an entity's New Zealand group or worldwide group, of the following amounts:
 
 - (a) deductions for interest allowed to the group under sections DB 6 to DB 9 (which relate to deductions for interest), for the purposes of section FE 5(1BB):
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Generally accepted accounting practice for consolidation**
 
-**(2)**  An amount calculated under these rules for an entity’s group must be calculated under generally accepted accounting practice for the consolidation of companies for the purposes of eliminating intra-group income, expenses, transactions, and balances.
+**(2)**  An amount calculated under these rules for an entity's group must be calculated under generally accepted accounting practice for the consolidation of companies for the purposes of eliminating intra-group income, expenses, transactions, and balances.
 
 **Non-resident member of New Zealand group**
 

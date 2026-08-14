@@ -36,7 +36,7 @@ source_pdf: "vol02.pdf"
 > **(d)** a CGT event happens in relation to the interest, other than a CGT event that happens in respect of thinning.
 
 <a id="s82KZMGB-2"></a>
-**(2)** The taxpayer’s assessable income for the year of income in which the CGT event happens includes:
+**(2)** The taxpayer's assessable income for the year of income in which the CGT event happens includes:
 
 > <a id="s82KZMGB-2-a"></a>
 > **(a)** if, as a result of the CGT event, the taxpayer no longer holds the interest—the market value of the interest (worked out as at the time of the event); or 
@@ -45,7 +45,7 @@ source_pdf: "vol02.pdf"
 > **(b)** otherwise—the decrease (if any) in the market value of the interest as a result of the CGT event.
 
 <a id="s82KZMGB-3"></a>
-**(3)** Any amount that the taxpayer actually receives because of the CGT event is not included in the taxpayer’s assessable income (nor is it exempt income).
+**(3)** Any amount that the taxpayer actually receives because of the CGT event is not included in the taxpayer's assessable income (nor is it exempt income).
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

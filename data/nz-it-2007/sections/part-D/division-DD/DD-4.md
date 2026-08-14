@@ -24,13 +24,13 @@ compilation_date: 2026-06-06
 
 **(2)**  The limitation rule does not apply to a deduction for expenditure on light refreshments at a conference or educational course or similar event, nor to food or drink consumed at such an event lasting for at least 4 consecutive hours, excluding meal times. However, the limitation rule applies if the event is mainly for the purpose of entertainment.
 
-**Relocation expenses, employees’ meals, and sustenance allowances**
+**Relocation expenses, employees' meals, and sustenance allowances**
 
 **(3)**  The limitation rule does not apply to a deduction for expenditure on—
 
 - (a) an amount that is exempt income of an employee under sections CW 17B, CW 17C, and CW 17CB (which relate to relocation expenses and expenditure on meals):
 
-- (b) a light meal consumed as part of the employee’s employment duties in an area of the person’s business premises that at the time is reserved for senior employees and their guests to use and is not open to all the person’s employees working in the premises.
+- (b) a light meal consumed as part of the employee's employment duties in an area of the person's business premises that at the time is reserved for senior employees and their guests to use and is not open to all the person's employees working in the premises.
 
 *Defined in this Act: amount, business, business contacts, business premises, deduction, employee, exempt income, limitation rule*
 

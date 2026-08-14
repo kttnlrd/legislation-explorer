@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)**  A company that has a tax loss for a tax year may—
 
-- (a) make the amount available to another company under section IC 5 (Company B using company A’s tax loss) to subtract from the other company’s net income for the tax year.
+- (a) make the amount available to another company under section IC 5 (Company B using company A's tax loss) to subtract from the other company's net income for the tax year.
 
 **Taxable distributions**
 

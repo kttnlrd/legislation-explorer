@@ -3,18 +3,14 @@ ATO ID 2010/63
 ==================================================
 
 Income Tax
-        Deducting tax loss: saving rule - limit on extent that the tax loss can be reflected
-        FOI status: may be released
-
-
+ Deducting tax loss: saving rule - limit on extent that the tax loss can be reflected
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In applying subsection 165-12(7) of the Income Tax Assessment 1997 (ITAA 1997), does the amount of a capital loss made in respect of a CGT event, in relation to an equity interest in the Loss Company, constitute an upper limit on the extent that the particular CGT event may have 'reflected' the tax loss?
@@ -31,8 +27,6 @@ Company K made a $700 capital loss under subsection 104-10(4) of the ITAA 1997 o
 Reasons for Decision
 Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997, that the condition can be taken as being satisfied where:
 
-
-
 (b)the company has information from which it would be reasonable to conclude that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period.
 
 * denotes a term defined in subsection 995-1(1) of the ITAA 1997.
@@ -41,10 +35,10 @@ As provided by ATO ID 2003/535, for subsection 165-12(7) of the ITAA 1997 the ex
 Accordingly, the disposal of Company K's interest in Loss Company fully reflects the tax loss of $900. This is through the $700 capital loss that occurs in the income year of the CGT event, and the $200 reduced assessable income that results, or could result in the future, from the exclusion of the $200 capital gain in working out a net capital gain or net capital loss for the income year under the method statements in sections 102-5 and 102-10 of the ITAA 1997.
 This is the case even if a single CGT event in relation to an equity interest causes both a capital loss and reduced assessable income
 Date of decision:
-         1 March 2010
+  1 March 2010
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -58,19 +52,18 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital losses
-          Ownership test period
-          Saving rule
-          Tax loss
-
+ Ownership test period
+ Saving rule
+ Tax loss
 
 Siebel/TDMS Reference Number:
-         6340425
+  6340425
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         19 March 2010
+  19 March 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

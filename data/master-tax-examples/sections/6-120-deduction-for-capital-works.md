@@ -49,7 +49,7 @@ Capital works deduction for hotel for 2024–25 Construction of the hotel commen
 
 Calculation of the hotel capital works deduction $1,500,000 × 365 / 365× 4% = $60,000 Capital works deduction for apartment block for 2024–25 Construction of the apartment block commenced on 1 April 2001. Construction was completed and all of the apartments were occupied on 1 January 2002. The deduction rate is 2.5%. However, the apartment block was disposed of on 15 April 2025.
 
-The capital works deductions claimed by Clive Randle up to the date of disposal are calculated as follows: Deduction for the period 1 January 2002–30 June 2002 $2,000,000 × 181 / 365 × 2.5% = $24,795 Deduction for the 6 leap years (2004, 2008, 2012, 2016, 2020, 2024) $2,000,000 × 366 / 365 × 2.5% × 6 = $300,822 Deduction for 16 non-leap years $2,000,000 × 365 / 365 × 2.5% × 16 = $800,000 Deduction for the period 1 July 2024–15 April 2025 $2,000,000 × 288 / 365 × 2.5% = $39,452 Total capital works deduction for Clive’s apartment block over the period of ownership = $1,165,069.
+The capital works deductions claimed by Clive Randle up to the date of disposal are calculated as follows: Deduction for the period 1 January 2002–30 June 2002 $2,000,000 × 181 / 365 × 2.5% = $24,795 Deduction for the 6 leap years (2004, 2008, 2012, 2016, 2020, 2024) $2,000,000 × 366 / 365 × 2.5% × 6 = $300,822 Deduction for 16 non-leap years $2,000,000 × 365 / 365 × 2.5% × 16 = $800,000 Deduction for the period 1 July 2024–15 April 2025 $2,000,000 × 288 / 365 × 2.5% = $39,452 Total capital works deduction for Clive's apartment block over the period of ownership = $1,165,069.
 
 Undeducted construction expenditure that may be claimed by the investor purchasing the apartment block: $2,000,000 − $1,165,069 = $834,931.
 
@@ -57,7 +57,7 @@ Given that Clive received $3.5 million for the sale of the apartment block, CGT 
 
 Capital works deduction for factory units for 2024–25 Construction of the factory units commenced on 1 July 2001. Construction was completed and all units were leased for industrial activities and in operation on 1 January 2002. The deduction rate is 4% (ITAA97 s 43-145) and is available for the entire 2024–25 year.
 
-Calculation of the factory units’ capital works deduction $1,000,000 × 365 / 365 × 4% = $40,000
+Calculation of the factory units' capital works deduction $1,000,000 × 365 / 365 × 4% = $40,000
 
 *Refs: ITAA97 s 40-25, ITAA97 s 43-10), ITAA97 s 43-25), ITAA97 s 43-30), ITAA97 s 43-25, ITAA97 s 43-140, ITAA97 s 43-145, ITAA97 s 43-210, ITAA97 s 43-215, ITAA97 s 40-285), ITAA97 s 43-235, ITAA97 s 43-15), ITAA97 s
 43-145)*

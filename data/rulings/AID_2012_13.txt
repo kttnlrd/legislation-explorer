@@ -3,18 +3,14 @@ ATO ID 2012/13
 ==================================================
 
 Income Tax
-        Mining information and taxable Australian real property
-        FOI status: may be released
-
-
+ Mining information and taxable Australian real property
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Whether 'taxable Australian real property' in section 855-20 of the Income Tax Assessment Act 1997 (ITAA 1997) includes mining information obtained through exploration expenditure?
@@ -30,22 +26,16 @@ Reasons for Decision
 A capital gain or capital loss made by a foreign resident from a CGT event is disregarded under subsection 855-10(1) if the CGT event happens in relation to a CGT asset that is not 'taxable Australian property'.
 What constitutes 'taxable Australian property' is set out in section 855-15. A CGT asset that is:
 
-
-
 (a)an 'indirect Australian real property interest'; and
 (b)is not covered by item 5 of the table in section 855-15, is 'taxable Australian property' under item 2 of that table.
 
 Subsection 855-25(1) provides that a membership interest is an 'indirect Australian real property interest' when a CGT event happens in relation to the membership interest if the interest passes:
-
-
 
 •the non-portfolio interest test at that time or throughout a 12 month period beginning no earlier than 24 months before the CGT event happened and ending no later than that time; and
 •the principal asset test in section 855-30 at that time.
 
 The foreign resident's membership interests in Australian resident company A pass the principal asset test in section 855-30 at the time of the 2008 disposal if the sum of the market values at that time of Australian resident company A's 'taxable Australian real property' exceeds the sum of the market values at that time of its assets that are not 'taxable Australian real property'.
 Pursuant to section 855-20, a CGT asset is 'taxable Australian real property' if it is:
-
-
 
 (a)real property situated in Australia; or
 (b)a mining, quarrying or prospecting right (to the extent that the right is not real property), if the minerals, petroleum or quarry materials are situated in Australia.
@@ -56,10 +46,10 @@ Mining, quarrying or prospecting information is not a CGT asset and so cannot be
 Further, mining, quarrying or prospecting information is something separate from any mining, quarrying or prospecting right to which paragraph 855-20(b) might apply. Mining, quarrying or prospecting information does not attach to, or form part of, the mining, quarrying or prospecting right (see TR 98/3, particularly paragraphs 27, 28 and 83). Indeed, the separateness of mining, quarrying or prospecting information from a mining, quarrying or prospecting right to which the information relates is reinforced by the recognition under Division 40 of them as separate depreciating assets (see, for example, subsection 40-30(2)).
 Consequently, when determining in the present case if the foreign resident's membership interests in Australian resident company A pass the principal asset test in section 855-30 at the time of the 2008 disposal, the market value of the mining information is not included in the sum of the market values at that time of Australian resident company A's assets that are taxable Australian real property.
 Date of decision:
-         27 February 2012
+  27 February 2012
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -73,18 +63,17 @@ Taxation Ruling TR 1998/3
 Keywords
 
 Capital gains
-          Non-resident
-          Mining information
-
+ Non-resident
+ Mining information
 
 Siebel/TDMS Reference Number:
-         1-36QUV56
+  1-36QUV56
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         2 March 2012
+  2 March 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

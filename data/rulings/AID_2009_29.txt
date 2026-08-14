@@ -3,23 +3,18 @@ ATO ID 2009/29
 ==================================================
 
 Superannuation
-        Superannuation Contributions: return of contribution by self managed superannuation fund - after 30 day time limit
-        FOI status: may be released
-
+ Superannuation Contributions: return of contribution by self managed superannuation fund - after 30 day time limit
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database as subregulation 7.04(3) of the Superannuation Industry (Supervision) Regulations 1994 (SISR) has been repealed with effect from 1 July 2017. Guidance on the remaining issues contained in this ATO ID can be found at Returning contributions (QC 21807). Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2016-17 income year.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does subregulation 7.04(4) of the Superannuation Industry (Supervision) Regulations 1994 (SISR) impose a requirement for a trustee of a self-managed superannuation fund to return a contribution or part of a contribution if the amount was not returned within 30 days of the trustee becoming aware that the contribution standards in subregulations 7.04(1), 7.04(2) or 7.04(3) of the SISR were not met?
@@ -40,7 +35,6 @@ Subregulation 7.04(4) of the SISR provides that:
 
 If a regulated superannuation fund receives an amount that is inconsistent with subregulation (1), (2) or (3):
 
-
 (a)the fund must return the amount to the entity or the person that paid the amount within 30 days of becoming aware that the amount was received in a manner that is inconsistent with subregulation (1), (2) or (3), unless...
 
 The provision is constructed so that both the return of the amount and the time requirement must be satisfied.
@@ -54,7 +48,6 @@ The Explanatory Statement to the Superannuation Industry (Supervision) Amendment
 
 The purpose of the Regulations is to amend the Superannuation Industry (Supervision) Regulations 1994 to:
 
-
 •prohibit a superannuation fund from accepting member contributions where a tax file number is not quoted or the amount of the contribution exceeds the non-concessional contributions cap.
 
 And at item 80 of the Explanatory Statement:
@@ -67,10 +60,10 @@ The SISR impose strict conditions on the acceptance of certain contributions, an
 Accordingly, our view is that the 30 day requirement imposes an obligation for the timely return of a contribution, but that the trustee remains obliged under subregulation 7.04(4) of the SISR to return the inconsistent amount even if more than 30 days have elapsed since the trustee became aware of the inconsistency with the contribution standards.
 In this case the trustee is required to return the amount that is inconsistent with one of the contribution standards in subregulation 7.04(1), 7.04(2) and 7.04(3) of the SISR.
 Date of decision:
-         20 February 2009
+  20 February 2009
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -78,7 +71,6 @@ Superannuation Industry (Supervision) Act 1993   section 31   subsection 3
 Superannuation Industry (Supervision) Regulations 1994   subregulation 7.04(1)   subregulation 7.04(2)   subregulation 7.04(3)   subregulation 7.04(4)
 
 Case References:
-
 
 Tasker v. Fullwood   [1978] 1 NSWLR 20
 
@@ -91,41 +83,36 @@ Other References:
 
  Explanatory Statement to the Superannuation Industry (Supervision) Amendment Regulations 2007 (No. 1)
 
-
 Keywords
 
 Complying superannuation funds
-          Contributions returned
-          Contributions standards
-          Self managed superannuation funds
-          SMSF trustee
-
+ Contributions returned
+ Contributions standards
+ Self managed superannuation funds
+ SMSF trustee
 
 Siebel/TDMS Reference Number:
-         6164921; 1-6029P25; 1-FWHX3YN
+  6164921; 1-6029P25; 1-FWHX3YN
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         1 May 2009
+  1 May 2009
 
 Date reviewed:
-         24 October 2014
+  24 October 2014
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 20 February 2009

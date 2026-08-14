@@ -4,55 +4,53 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 105
-  • Div 108
-  • Div 11
-  • Div 189
-  • Div 38
-  • Div 40
-  • Div 70
-  • Div 81
-  • Div 84
-  • Division 108
-  • Division 11
-  • Division 129
-  • Division 40
-  • Division 70
-  • Division 78
-  • Division 81
-  • Division 84
-  • Subdivision 195-C
-  • Subdivision 40-A
-  • Subdivision 84-A
+ • Div 105
+ • Div 108
+ • Div 11
+ • Div 189
+ • Div 38
+ • Div 40
+ • Div 70
+ • Div 81
+ • Div 84
+ • Division 108
+ • Division 11
+ • Division 129
+ • Division 40
+ • Division 70
+ • Division 78
+ • Division 81
+ • Division 84
+ • Subdivision 195-C
+ • Subdivision 40-A
+ • Subdivision 84-A
 
 Cases Referenced:
-  • Cohns Industries Pty Ltd v. Deputy Commissioner 
-  • Cuisenaire v. Reed
+ • Cohns Industries Pty Ltd v. Deputy Commissioner 
+ • Cuisenaire v. Reed
 
-  • Cuisenaire v. Reed
+ • Cuisenaire v. Reed
 (1962) 5 FLR 180
-  • Fairway Estates Pty Ltd v. Federal Commissioner 
-  • Fitzgibbon v. Inspector General 
-  • Hance v Commissioner 
-  • Lippett v. Robertson
+ • Fairway Estates Pty Ltd v. Federal Commissioner 
+ • Fitzgibbon v. Inspector General 
+ • Hance v Commissioner 
+ • Lippett v. Robertson
 
-  • Marsal Pty Ltd v. Comptroller 
-  • Pty Ltd v. Associated Blue Star Stores Pty Ltd
+ • Marsal Pty Ltd v. Comptroller 
+ • Pty Ltd v. Associated Blue Star Stores Pty Ltd
 
-  • Pty Ltd v. Associated Blue Star Stores Pty Ltd
+ • Pty Ltd v. Associated Blue Star Stores Pty Ltd
 (1948) 76 CLR 463
-  • Pty Ltd v. Cummings
+ • Pty Ltd v. Cummings
 
-  • Pty Ltd v. Cummings
+ • Pty Ltd v. Cummings
 (1964) 109 CLR 395
-  • Pty Ltd v. Federal Commissioner 
-  • Taxation v Orica Ltd
+ • Pty Ltd v. Federal Commissioner 
+ • Taxation v Orica Ltd
 
-  • Taxation v. American Express Wholesale Currency Services Pty Limited 
+ • Taxation v. American Express Wholesale Currency Services Pty Limited 
 
 Topics: CGT, GST, FBT, Trusts, Partnerships
-
-
 
 ================================================================================
 
@@ -674,10 +672,10 @@ when is a 'non-resident' or other 'recipient' of a supply 'not in Australia when
 when is 'an entity that is not an Australian resident' 'outside Australia when the thing supplied is done'?;
 •
 Goods and Services Tax Ruling GSTR 2025/1
-Goods and services tax:  supplies of things (other than goods or real property) made to non-residents but provided to another entity in Australia;
+Goods and services tax: supplies of things (other than goods or real property) made to non-residents but provided to another entity in Australia;
 •
 Goods and Services Tax Ruling GSTR 2025/2
-Goods and services tax:  supplies of things (other than goods or real property) where effective use or enjoyment of the supply takes place outside Australia.
+Goods and services tax: supplies of things (other than goods or real property) where effective use or enjoyment of the supply takes place outside Australia.
 Supplies that are both GST-free and input taxed
 145. Subsection 9-30(3) provides that if a supply is both GST-free and input taxed, the supply is GST-free (unless the supply is of the type where the supplier can choose to treat it as input taxed under a specific provision). This means that if something is both GST-free by virtue of subsection 38-190(1) and input taxed because of the GST Act and regulations, it is GST-free. Acquisitions relating to the making of that GST-free supply are creditable.
 Subsection 38-190(1) – GST-free supplies
@@ -2842,24 +2840,24 @@ The tables below use the following style of abbreviations
 – means Item 6(c) of subsection 70-5.02(1)
 Notes
 1.
-Fees, charges and payments received or charged for a supply are generally regarded as consideration (or part of the consideration) for a financial supply rather than a financial supply themselves.  For example, interest payable on money loaned or deposited is generally regarded as part of the consideration for the use of money (a debt).
-In this table the listed fees, charges and payments are given a GST status which technically corresponds to the supply for which they are given as consideration. For example, fees paid as part of the consideration for a loan are categorised as 'input taxed'.  Where consideration is listed in the second column, the item (or legislative provision) that relates to it is listed in the third column.
+Fees, charges and payments received or charged for a supply are generally regarded as consideration (or part of the consideration) for a financial supply rather than a financial supply themselves. For example, interest payable on money loaned or deposited is generally regarded as part of the consideration for the use of money (a debt).
+In this table the listed fees, charges and payments are given a GST status which technically corresponds to the supply for which they are given as consideration. For example, fees paid as part of the consideration for a loan are categorised as 'input taxed'. Where consideration is listed in the second column, the item (or legislative provision) that relates to it is listed in the third column.
 2.
-Some supplies (fees, charges, etcetera) may be covered by more than one item.  The fact a supply appears under a particular heading in this Schedule does not mean that it cannot also be covered by another item, however that does not make it more than one supply.  The fact something is not mentioned as being covered by an item does not mean that it is not or cannot be covered by that item.
+Some supplies (fees, charges, etcetera) may be covered by more than one item. The fact a supply appears under a particular heading in this Schedule does not mean that it cannot also be covered by another item, however that does not make it more than one supply. The fact something is not mentioned as being covered by an item does not mean that it is not or cannot be covered by that item.
 3.
-The supply of something is not a financial supply if it does not satisfy the requirements of section 40-5.09 or if it is mentioned within an item in section 40-5.12.  Where this is the case, the table contains a reference to the relevant item in the GST regulations as well as the provision in the GST Act (if any) that determines its GST status.  Items of this kind in the table are identified by the symbol "†".
+The supply of something is not a financial supply if it does not satisfy the requirements of section 40-5.09 or if it is mentioned within an item in section 40-5.12. Where this is the case, the table contains a reference to the relevant item in the GST regulations as well as the provision in the GST Act (if any) that determines its GST status. Items of this kind in the table are identified by the symbol "†".
 4.
-If something is said to be taxable, GST-free or input taxed, within column 4 of the table, it is assumed that the other conditions for a supply of that type are also met (for example, for a taxable supply, that the requirements of section 9-5 are able to be satisfied.)  These items in the table are identified by the symbol "‡".  The actual status will depend on all the facts and circumstances of the supply.  Each transaction will need to be judged and its GST status determined by having regard to all the facts and circumstances particular to that case.
+If something is said to be taxable, GST-free or input taxed, within column 4 of the table, it is assumed that the other conditions for a supply of that type are also met (for example, for a taxable supply, that the requirements of section 9-5 are able to be satisfied.) These items in the table are identified by the symbol "‡". The actual status will depend on all the facts and circumstances of the supply. Each transaction will need to be judged and its GST status determined by having regard to all the facts and circumstances particular to that case.
 4A.
 The fact that something is not specifically mentioned in Schedule 2 as being GST-free wholly or in part under subsection 38-190(1) does not mean it is not, or cannot be covered by that provision. Reference should be made to paragraph 288A of this Ruling.
 5.
 Any references to table item 1 of subsection 40-5.09(3) in column 3 of the table are only relevant to ADIs however most things covered by item 1 should apply (where relevant) to non-ADIs.
 6.
-Line numbers in column 1 are used for ease of reference to a particular item and have no legislative basis.  The symbol "§" indicates that the term is defined in Schedule 1, which does not form part of the binding section of this Ruling.
+Line numbers in column 1 are used for ease of reference to a particular item and have no legislative basis. The symbol "§" indicates that the term is defined in Schedule 1, which does not form part of the binding section of this Ruling.
 Summary of fees and services – Transaction banking and cash management
 ACCOUNTS
 §
-The following fees and charges listed in Table A.1:  ACCOUNTS, by Australian ADIs
+The following fees and charges listed in Table A.1: ACCOUNTS, by Australian ADIs
 §
 as account provider to account holders, or by an ADI to a non-account holder for a fee of $1,000 or less.
 Note: Where supplied to a non-account holder, the following conditions must also be met:
@@ -8151,7 +8149,7 @@ Previously released as draft consolidation GSTR 2002/2DC1
 Previously released as draft consolidation GSTR 2002/2DC2
 References
 ATO references:
-NO  T2001/11413
+NO T2001/11413
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

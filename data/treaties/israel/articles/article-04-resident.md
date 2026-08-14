@@ -1,0 +1,36 @@
+---
+country: "Israel"
+country_slug: "israel"
+treaty_schedule: 62
+article: 4
+title: "Article 4 — Resident"
+---
+# Article 4 — Resident
+Israeli Convention
+CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE STATE OF ISRAEL FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
+CHAPTER II 
+-
+ DEFINITIONS
+Resident
+1.
+For the purposes of this Convention, the term 
+"
+resident of a Contracting State
+"
+ means any person who, under the laws of that State, is liable to tax as a resident of that State or is liable to tax by reason of domicile, place of management, place of incorporation or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof as well as a recognised pension fund of that State. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+2.
+Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then the individual
+'
+s status shall be determined as follows:
+a)
+the individual shall be deemed to be a resident only of the State in which a permanent home is available to that individual; if a permanent home is available in both States, that individual shall be deemed to be a resident only of the State with which the individual
+'
+s personal and economic relations are closer (centre of vital interests);
+b)
+if the State in which the centre of vital interests is situated cannot be determined, or if a permanent home is not available to the individual in either State, the individual shall be deemed to be a resident only of the State in which that individual has an habitual abode;
+c)
+if the individual has an habitual abode in both States or in neither of them, the individual shall be deemed to be a resident only of the State of which the individual is a national;
+d)
+if the individual is a national of both States or of neither of them, the competent authorities of the Contracting States shall endeavour to resolve the question by mutual agreement.
+3.
+Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, the competent authorities of the Contracting States shall endeavour to determine by mutual agreement the Contracting State of which the person shall be deemed to be a resident for the purposes of the Convention, having regard to its place of effective management, the place where it is incorporated or otherwise constituted and any other relevant factors. In the absence of such agreement, such person shall not be considered to be a resident of either Contracting State for the purposes of enjoying benefits under this Convention.

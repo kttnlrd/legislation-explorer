@@ -29,7 +29,7 @@ If or when the traveller re-enters Australia, the traveller will be required to 
 
 Wine A similar refund scheme applies to WET paid on wine. In this case, the refund is calculated as 14.5% (WET Act, s 25-5; WET Regulations, Div 25). The refund scheme does not apply to beer or spirits.
 
-Application to external territories The TRS extends to genuine residents of Australia’s external territories (Norfolk, Cocos & Keeling and Christmas Islands), provided that they can show proof of shipping of exported goods to their external territory. The intention is to provide a direct mechanism for those residents to obtain refunds of GST and WET on goods that are unable to be exported as accompanied baggage.
+Application to external territories The TRS extends to genuine residents of Australia's external territories (Norfolk, Cocos & Keeling and Christmas Islands), provided that they can show proof of shipping of exported goods to their external territory. The intention is to provide a direct mechanism for those residents to obtain refunds of GST and WET on goods that are unable to be exported as accompanied baggage.
 
 Sealed bag system The Sealed Bag System (SBS) allows international travellers to purchase goods GST-free from duty free stores and certain retail stores. Goods purchased through the SBS are placed in a sealed bag which remains sealed to ensure that the traveller takes the goods out of the country, so that the goods cannot be consumed in Australia (s 38-185, item 7; GST Regulations s 38-185.01; Sch 1). The period within which the SBS applies is limited to acquisitions made within 60 days prior to departure.
 

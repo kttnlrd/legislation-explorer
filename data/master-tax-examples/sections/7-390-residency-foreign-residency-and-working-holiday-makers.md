@@ -13,19 +13,19 @@ In January 2022, she met James McGrath, an Australian national, when James was o
 
 In August 2023, she completed her 2022–23 tax return via myTax on the basis that she was an Australian resident. However, while the ATO were prepared to accept that Amanda was resident for tax purposes during the year ended 30 June 2023, it nevertheless imposed the working holiday maker tax on her for the first 6 months of her stay. This was done on the basis that the working holiday maker tax overrides the statutory tests of residence or non-residence, and is payable by anyone on a working holiday maker visa type (typically visas 417 and 462, but amended to include bridging visas granted in relation to an application for 417 or 462 visas) irrespective of whether they are deemed resident or non-resident.
 
-Amanda has heard briefly about the taxpayer’s success in the Addy case and comes to you to investigate whether it could be relevant to her circumstances and what it means.
+Amanda has heard briefly about the taxpayer's success in the Addy case and comes to you to investigate whether it could be relevant to her circumstances and what it means.
 
 Solution Working holiday makers are subject to income tax at a rate of 15% on all income earned up to $45,000. The tax free threshold does not apply to working holiday makers, whose status as such generally overrides the statutory tests of residence or non-residence.
 
 However, the High Court unanimously held in Addy v FC of T 2021 ATC ¶20-803; [2021] HCA 34 that a UK working holiday maker visa holder who was a tax resident of Australia was entitled to be taxed at the more favourable rates that applied to Australian resident nationals. The taxpayer had successfully argued that she was a resident and that the non-discrimination article in the UK/Australia double tax agreement meant that her working holiday maker taxable income had to be assessed at rates applying to residents who were not working holiday makers.
 
-The High Court found that the ordinary taxation laws as they applied to Ms Addy and to an Australian national in the same circumstances were the same except for the rate. An Australian national “doing the same work, earning the same income, under the same ordinary laws” would pay less tax than the taxpayer.
+The High Court found that the ordinary taxation laws as they applied to Ms Addy and to an Australian national in the same circumstances were the same except for the rate. An Australian national "doing the same work, earning the same income, under the same ordinary laws" would pay less tax than the taxpayer.
 
-Therefore, the effect of the non-discrimination article for this taxpayer was that the taxpayer should pay tax at the rates applying to resident nationals. Article 25(1) of the double tax agreement demands that Australia “accord the same treatment to a national of the United Kingdom” as applies to an Australian national in the same circumstances.
+Therefore, the effect of the non-discrimination article for this taxpayer was that the taxpayer should pay tax at the rates applying to resident nationals. Article 25(1) of the double tax agreement demands that Australia "accord the same treatment to a national of the United Kingdom" as applies to an Australian national in the same circumstances.
 
 Accordingly, the tax rates that normally apply to working holiday makers were discriminatory where there was a non-discrimination clause in the double tax agreement between Australia and the relevant country.
 
-The ATO’s Decision Impact Statement (Addy v Commissioner of Taxation (S25/2021 B49/2020 QUD 724 of 2019 QUD 108 of 2018) | Legal database (ato.gov.au)) considers the decision to be relevant only to a working holiday visa holder that is both an Australian tax resident and a national of one of the following countries with a double taxation agreement that contains a non-discrimination clause:
+The ATO's Decision Impact Statement (Addy v Commissioner of Taxation (S25/2021 B49/2020 QUD 724 of 2019 QUD 108 of 2018) | Legal database (ato.gov.au)) considers the decision to be relevant only to a working holiday visa holder that is both an Australian tax resident and a national of one of the following countries with a double taxation agreement that contains a non-discrimination clause:
 
 - Chile
 
@@ -63,7 +63,7 @@ Where a resident working holiday maker is only a resident for part of an income 
 
 Amanda needs to lodge an objection with the ATO against her 2022–23 assessment. As part of her objection, she should include:
 
-- the word “Addy” (to assist in identifying the amendment request)
+- the word "Addy" (to assist in identifying the amendment request)
 
 - her nationality, and
 

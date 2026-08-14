@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (d) increase the abatement amount under section MH 5(3):
 
-- (e) increase the threshold for a person’s tax credit income in a tax credit quarter in section MH 5(3):
+- (e) increase the threshold for a person's tax credit income in a tax credit quarter in section MH 5(3):
 
 - (f) increase the tax credit income threshold at which the abatement begins under sections MH 3(3) and MH 5(2).
 

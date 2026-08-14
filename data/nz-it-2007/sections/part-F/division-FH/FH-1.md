@@ -66,13 +66,13 @@ compilation_date: 2026-06-06
 
 **(6)**  Section FH 15 contains definitions for the purpose of the Act of some terms used in the reports and of terms used in the Act that differ from terms used in the reports, including—
 
-- (a) “deducting branch”, which refers to the activities to which the recommendations of the branch mismatch report are intended to apply:
+- (a) "deducting branch", which refers to the activities to which the recommendations of the branch mismatch report are intended to apply:
 
-- (b) “mismatch amount”, which is the amount of a hybrid mismatch or branch mismatch:
+- (b) "mismatch amount", which is the amount of a hybrid mismatch or branch mismatch:
 
-- (c) “mismatch situation”, which is the situation giving rise to a hybrid mismatch or branch mismatch:
+- (c) "mismatch situation", which is the situation giving rise to a hybrid mismatch or branch mismatch:
 
-- (d) “surplus assessable income”, which performs the same function as “dual inclusion income” but is defined in a different way.
+- (d) "surplus assessable income", which performs the same function as "dual inclusion income" but is defined in a different way.
 
 **Variations of recommendations**
 

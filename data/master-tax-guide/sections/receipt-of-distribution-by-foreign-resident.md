@@ -21,9 +21,9 @@ If a member is a foreign resident, the tax eﬀects of receiving a distribution 
 
 resident Where a franked distribution ﬂows indirectly to a foreign resident entity, the franked portion of the distribution is non-assessable non-exempt income (ITAA36 s 128D). Assuming that the unfranked portion is subject to withholding tax, it will also be non-assessable non-exempt.
 
-Subdivision 207-D provides for adjustments to ensure that an entity’s share of the franking credit on the distribution is also excluded from its assessable income. The amount of the adjustment is worked out under ITAA97 s 207-95.
+Subdivision 207-D provides for adjustments to ensure that an entity's share of the franking credit on the distribution is also excluded from its assessable income. The amount of the adjustment is worked out under ITAA97 s 207-95.
 
-Exception for foreign-owned branches The following treatment applies to distributions by an Australian resident company that are “attributable to” (eg paid to) an Australian permanent establishment (eg branch) of a foreign resident company or foreign resident individual (ITAA36 ss 44(1)(c); 128B(3E); ITAA97 ss 67-25(1DA); 115-280(1)(b), (ba)).
+Exception for foreign-owned branches The following treatment applies to distributions by an Australian resident company that are "attributable to" (eg paid to) an Australian permanent establishment (eg branch) of a foreign resident company or foreign resident individual (ITAA36 ss 44(1)(c); 128B(3E); ITAA97 ss 67-25(1DA); 115-280(1)(b), (ba)).
 
 - The distribution is assessable. Relevant expenses are allowed as deductions against that
 
@@ -49,7 +49,7 @@ Application to partnerships Where dividends are paid by an Australian company to
 
 Distribution received through interposed trust or partnership The general tax consequences of a franked distribution ﬂowing indirectly through an interposed trust or partnership to members of the trust or partnership are set out in ITAA97 Subdiv 207-B, comprising ss 207-25 to 207-59. Broadly, the consequences are as follows:
 
-- each member’s share of the franking credit on the distribution is included in that member’s
+- each member's share of the franking credit on the distribution is included in that member's
 
   assessable income (s 207-35)
 
@@ -65,9 +65,9 @@ Distribution received through interposed trust or partnership The general tax co
 
 98, 99 or 99A or where the trustee is the trustee of a complying or non-complying superannuation fund, a complying or non-complying ADF or a PST.
 
-Working out the entity’s share of the franking credit An entity’s share of a franking credit on a franked distribution is an amount notionally allocated to the entity as its share of that credit, whether or not the entity actually receives any of that credit or distribution (s 207-57). The amount of the credit is worked out using the following formula: entity’s share of the amount of the franking franked distribution credit on the franked                           × amount of the franked distribution distribution The entity’s share of the franked distribution is determined by reference to the table in s 207-55.
+Working out the entity's share of the franking credit An entity's share of a franking credit on a franked distribution is an amount notionally allocated to the entity as its share of that credit, whether or not the entity actually receives any of that credit or distribution (s 207-57). The amount of the credit is worked out using the following formula: entity's share of the amount of the franking franked distribution credit on the franked                           × amount of the franked distribution distribution The entity's share of the franked distribution is determined by reference to the table in s 207-55.
 
-Distribution flowing indirectly to an entity The only circumstances in which a franked distribution is taken to “ﬂow indirectly to” an entity (see below) or “ﬂow indirectly through” an entity (¶4-800) are described in s 207-50.
+Distribution flowing indirectly to an entity The only circumstances in which a franked distribution is taken to "ﬂow indirectly to" an entity (see below) or "ﬂow indirectly through" an entity (¶4-800) are described in s 207-50.
 
 Partner A franked distribution ﬂows indirectly to a partner in a partnership in the income year if (s 207-50(2)):
 
@@ -75,13 +75,13 @@ Partner A franked distribution ﬂows indirectly to a partner in a partnership i
 
   partnership as a beneﬁciary of a trust
 
-- the partner has an individual interest in the partnership’s net income or partnership loss for
+- the partner has an individual interest in the partnership's net income or partnership loss for
 
   that year (whether or not the individual interest becomes assessable income in the hands of the
 
   partner), and
 
-- the partner’s share of the distribution under s 207-55 is a positive amount (whether or not the
+- the partner's share of the distribution under s 207-55 is a positive amount (whether or not the
 
   partner actually receives any of that share).
 
@@ -95,9 +95,9 @@ Beneficiary of a trust A franked distribution ﬂows indirectly to a beneﬁciar
 
   whether or not the share amount becomes assessable income in the hands of the beneﬁciary:
 
-– a share of the trust’s net income for that income year under ITAA36 s 97(1)(a), or – an individual interest in the trust’s net income for that income year under ITAA36 s 98A or s 100, and
+– a share of the trust's net income for that income year under ITAA36 s 97(1)(a), or – an individual interest in the trust's net income for that income year under ITAA36 s 98A or s 100, and
 
-- the beneﬁciary’s share of the distribution under s 207-55 is a positive amount (whether or not the
+- the beneﬁciary's share of the distribution under s 207-55 is a positive amount (whether or not the
 
   beneﬁciary actually receives any of that share).
 
@@ -115,15 +115,15 @@ Trustee of a trust
 
   amount (the share amount) that is:
 
-– a share of the trust’s net income for that income year under s 98, or – all or a part of the trust’s net income for that income year under s 99 or s 99A (whether or not the share amount becomes assessable income in the hands of the trustee), and
+– a share of the trust's net income for that income year under s 98, or – all or a part of the trust's net income for that income year under s 99 or s 99A (whether or not the share amount becomes assessable income in the hands of the trustee), and
 
-- the trustee’s share of the distribution under s 207-55 is a positive amount (whether or not the
+- the trustee's share of the distribution under s 207-55 is a positive amount (whether or not the
 
   trustee actually receives any of that share).
 
 Streaming dividend income There are special provisions which govern the streaming of franked distributions by the trustee of a trust, providing the trust instrument confers on the trustee the necessary power.
 
-Under these provisions, for a franked distribution to be streamed involves the trustee taking the necessary steps to make a beneﬁciary or beneﬁciaries speciﬁcally entitled to an amount of the distribution. The amount to which a beneﬁciary is speciﬁcally entitled is measured by reference to the beneﬁciary’s net ﬁnancial beneﬁt that is referrable to the distribution (by taking into account for this purpose expenses that are directly relevant to the distribution) (ITAA97 s 207-58). The steps that the trustee must take include the recording of the amount, in its character as referable to the franked distribution, in the accounts or records of the trust not later than the end of the income year (ITAA97 s 207-58).
+Under these provisions, for a franked distribution to be streamed involves the trustee taking the necessary steps to make a beneﬁciary or beneﬁciaries speciﬁcally entitled to an amount of the distribution. The amount to which a beneﬁciary is speciﬁcally entitled is measured by reference to the beneﬁciary's net ﬁnancial beneﬁt that is referrable to the distribution (by taking into account for this purpose expenses that are directly relevant to the distribution) (ITAA97 s 207-58). The steps that the trustee must take include the recording of the amount, in its character as referable to the franked distribution, in the accounts or records of the trust not later than the end of the income year (ITAA97 s 207-58).
 
 To the extent that a franked distribution is not streamed, the franked distribution ﬂows to the beneﬁciaries who are presently entitled to income of the trust for the income year in the same proportions of their present entitlements to the income of the trust (adjusted to take into account the speciﬁc entitlements of other beneﬁciaries to franked distributions or to capital gains that are treated as income).
 

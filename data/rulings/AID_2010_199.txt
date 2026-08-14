@@ -3,23 +3,18 @@ ATO ID 2010/199
 ==================================================
 
 Goods and Services Tax
-        GST and agricultural managed investment scheme - the capacity in which post-establishment acquisitions are made
-        FOI status: may be released
-
+ GST and agricultural managed investment scheme - the capacity in which post-establishment acquisitions are made
+ FOI status: may be released
 
 This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For working out whether a trust or the trustee of the trust makes an acquisition for paragraph 11-5(a) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), how is the capacity in which a trustee acts determined?
@@ -28,15 +23,11 @@ The capacity in which the trustee acts is determined by having regard to the int
 Facts
 The scheme:
 
-
-
 •is a 'forestry managed investment scheme' as defined in subsection 394-15(1) of the Income Tax Assessment Act 1997 (ITAA 1997);
 •is a registered managed investment scheme under the Corporations Act 2001 (Corporations Act); and
 •involves the establishment and tending of trees for felling in Australia.
 
 The scheme constitution establishes the scheme and in relation to the participants provides:
-
-
 
 •the consideration payable by the participants of the scheme is to acquire an interest in a managed investment scheme (being an interest in security for the purposes of item 10 of subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999);
 •the consideration payable by the participants for the interest includes an initial contribution (which can be paid as a single payment or as regular contributions), and additional contributions to meet the costs of harvest and after-harvest activities;
@@ -48,15 +39,11 @@ The contributions of money by the participant to the scheme, and the property ac
 A trust (and therefore a trust entity) logically comes into existence when subsection 601FC(2) of the Corporations Act operates to create a trust over the scheme property. The scheme's documentation does not provide for a trust coming into existence at an earlier point in time, and therefore there is a trust entity established at the time there is scheme property (as defined in the Corporations Act).
 The constitution provides:
 
-
-
 •for the appointment of the entity as the RE to carry out the activities for the scheme, including establishing the plantation, and the harvest and after-harvest activities. The RE also has sole authority to market and sell the product;
 •the RE is entitled to be paid out of scheme property for activities carried out for the scheme; and
 •the RE may engage the services of suitably qualified, experienced and reputable consultants in the field of silviculture, to provide the RE with all such advice and assistance that the RE requires to carry out management, harvest and after harvest activities.
 
 Prior to there being scheme property (as defined in the Corporations Act), the entity makes acquisitions to set up and promote the scheme, including acquisitions of:
-
-
 
 •accounting services;
 •advice in respect of income tax Product Ruling preparation;
@@ -66,8 +53,6 @@ Prior to there being scheme property (as defined in the Corporations Act), the e
 After there is scheme property (as defined in the Corporations Act), the entity makes acquisitions that relate solely to the management of the participants' interests in the scheme, including the necessary accounting and legal services.
 The entity also makes acquisitions (after the scheme is established) that relate solely to carrying on the agricultural enterprise, including:
 
-
-
 •plantation management services (for example, planting, thinning and harvesting services); and
 •product distribution services (for example, transport, sale and marketing services).
 
@@ -75,8 +60,6 @@ The recording of the acquisitions for accounting and income tax purposes indicat
 Reasons for Decision
 Section 11-20 of the GST Act provides that an entity is entitled to an input tax credit for any creditable acquisitions that it makes. Under paragraph 11-5(a) of the GST Act, an entity makes a creditable acquisition if (amongst other things) the entity acquires anything solely or partly for a creditable purpose.
 Paragraphs 184-1(1)(g) and 184-1(1)(h) of the GST Act state that an entity includes:
-
-
 
 •A trust;
 •A superannuation fund.
@@ -93,14 +76,10 @@ Subsections 184-1(2), 184-1(3) and 184-1(4) of the GST Act state:
 
 Thus, the entity acts in two different capacities for GST purposes:
 
-
-
 •in its capacity as trustee of the trust established under subsection 601FC(2) of the Corporations Act (being a separate entity for GST purposes); and
 •in its own corporate capacity, making supplies of RE or trustee services to the trust.
 
 Therefore, for the purposes of paragraph 11-5(a) of the GST Act, the entity must determine whether the acquisitions it makes are:
-
-
 
 •acquisitions of the trust entity for which it is trustee; or
 •acquisitions made in its own corporate capacity.
@@ -109,7 +88,7 @@ We are of the view that the intention of the parties in question, being the enti
 For instance, in meeting its requirements to account for financial, taxation and regulatory purposes, the entity may account for third party acquisitions as acquisitions made by it in its capacity as trustee of the trust. (Such accounting should necessarily reflect the terms of the trust deed and the legal relationships between the entity and other suppliers of services in relation to the operation of the scheme.) Where this is the case, we would regard this as evidence of an intention that the acquisitions are made by the entity in its capacity as trustee of the trust, for the purposes of the GST.
 Evidence that the entity makes the acquisitions in its capacity as trustee of the trust and not in its own corporate capacity, is the fact the acquisitions are recorded for accounting and income tax purposes as being affairs of the trust (and not as affairs of the entity in its personal capacity).
 Date of decision:
-         26 October 2010
+  26 October 2010
 
 Legislative References:
 
@@ -128,33 +107,29 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          Input taxed supplies
-          GST financial supplies
-          GST input tax credits & creditable acquisitions
-
+ Input taxed supplies
+ GST financial supplies
+ GST input tax credits & creditable acquisitions
 
 Siebel/TDMS Reference Number:
-         1-28EU54F
+  1-28EU54F
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         5 November 2010
+  5 November 2010
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 26 October 2010

@@ -15,7 +15,7 @@ The Pay As You Go Withholding Non-Compliance Tax Act 2012 imposes the PAYG withh
 
   and
 
-- the company’s PAYG withholding liability for payments made during the income year.
+- the company's PAYG withholding liability for payments made during the income year.
 
 Where the Commissioner is satisﬁed that the director had grounds for allowing the company to fail to meet its withholding obligations, the amount of the tax may be reduced (TAA sch 1 s 18-130). These grounds are: (a) the director was not involved in the management of the company and it was reasonable for the director not to be involved because of illness or some other good reason (b) the director took all reasonable steps to ensure that the directors caused: (i) the company to pay the withholding liability; (ii) an administrator to be appointed; or (iii) the company to begin to be wound up, or (c) there were no reasonable steps that could have been taken to ensure one of those 3 things occurred.
 
@@ -23,7 +23,7 @@ The amount of the reduction is determined by the Commissioner.
 
 An individual who is an associate of the director (within the meaning of ITAA36 s 318: ¶4-200) can be liable for the non-compliance tax where the associate is entitled to a credit which can be attributed to some extent to amounts withheld from payments made to the associate by the company (TAA sch 1 s 18-135). The individual must be an associate of a director, either when the company was due to pay the amounts withheld to the Commissioner or after the amount became due and 30 days later the director was still a director. In addition, the Commissioner must be satisﬁed that:
 
-- due to the associate’s relationship with the director or the company, the associate knew or could
+- due to the associate's relationship with the director or the company, the associate knew or could
 
   reasonably be expected to have known, that the company had failed to pay amounts withheld
 
@@ -39,7 +39,7 @@ Commissioner or other authority that the company has not paid the amounts withhe
 
   than other employees.
 
-The Commissioner may commence proceedings to recover the tax after a notice has been issued to the individual (TAA sch 1 s 18-140). GIC is payable on any unpaid non-compliance tax. For examples where company directors were liable to penalties for a company’s failure to make payment of PAYG withholding amounts, despite the company entering liquidation, see Lee; Silverbrook 2020 ATC ¶20-747; [2020] NSWCA 95 and Snell 2020 ATC ¶20-734; [2020] NSWCA 29.
+The Commissioner may commence proceedings to recover the tax after a notice has been issued to the individual (TAA sch 1 s 18-140). GIC is payable on any unpaid non-compliance tax. For examples where company directors were liable to penalties for a company's failure to make payment of PAYG withholding amounts, despite the company entering liquidation, see Lee; Silverbrook 2020 ATC ¶20-747; [2020] NSWCA 95 and Snell 2020 ATC ¶20-734; [2020] NSWCA 29.
 
 *Refs: s
 18-15, s 18-125), s 18-130), s 18-135), s 18-140)*

@@ -3,18 +3,14 @@ ATO ID 2002/111
 ==================================================
 
 Goods and Services Tax
-        GST and cash basis attribution rules for a legal firm when client deposits money in trust account
-        FOI status: may be released
-
-
+ GST and cash basis attribution rules for a legal firm when client deposits money in trust account
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, a legal firm that accounts for goods and services tax (GST) on a cash basis, attribute the GST payable on the taxable supply of its services, under subsection 29-5(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), to the tax period in which the client deposits money into the entity's trust account?
@@ -28,8 +24,6 @@ In the next tax period, the client authorises the payment for these services fro
 Reasons for Decision
 Subsection 29-5(2) of the GST Act sets out the attribution requirements for an entity that accounts on a cash basis. This provision states that:
 
-
-
 •if, in a tax period, all of the consideration is received for a taxable supply - GST on the supply is attributable to that tax period; or
 •if, in a tax period, part of the consideration is received - GST on the supply is attributable to that tax period, but only to the extent that the consideration is received in that tax period; or
 •if, in a tax period, none of the consideration is received - none of the GST on the supply is attributable to that tax period.
@@ -39,7 +33,7 @@ When a client deposits money into a legal firm's trust account it is providing m
 At the time the client deposits money into the trust account, the entity does not have access to the money. Therefore, the client is not providing consideration for services at the time it makes the deposit. The client provides consideration to the entity in the next tax period when the client authorises the payment of these services from the trust account.
 Therefore, the entity does not attribute the GST payable on a taxable supply under subsection 29-5(2) of the GST Act to the tax period in which the client deposits money into the entity's trust account. The entity attributes the GST payable to the tax period in which it is entitled to withdraw, in full or part, the payment for its services from the trust account.
 Date of decision:
-         22 November 2001
+  22 November 2001
 
 Legislative References:
 
@@ -48,19 +42,18 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsect
 Keywords
 
 Goods & services tax
-          GST tax periods
-          Attribution rules
-          Cash basis
-
+ GST tax periods
+ Attribution rules
+ Cash basis
 
 Siebel/TDMS Reference Number:
-         CRS67521
+  CRS67521
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         31 January 2002
+  31 January 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

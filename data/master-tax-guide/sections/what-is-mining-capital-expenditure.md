@@ -7,7 +7,7 @@ paragraph: "¶19-070"
 ---
 # What is mining capital expenditure? ¶19-070
 
-Expenditure incurred in establishing, developing, extending or rejuvenating a mine is generally capital in nature (Ampol Exploration Ltd 86 ATC 4859; [1986] FCA 414). A deduction may be available over the life of a project for a project amount consisting of mining capital expenditure that is directly connected with carrying on mining operations in relation to the expenditure (¶19-050). See TR 95/36 for what constitutes “capital” expenditure in the mining and quarrying industries. “Mining capital expenditure” of a mining or quarrying operator means capital expenditure incurred on the following:
+Expenditure incurred in establishing, developing, extending or rejuvenating a mine is generally capital in nature (Ampol Exploration Ltd 86 ATC 4859; [1986] FCA 414). A deduction may be available over the life of a project for a project amount consisting of mining capital expenditure that is directly connected with carrying on mining operations in relation to the expenditure (¶19-050). See TR 95/36 for what constitutes "capital" expenditure in the mining and quarrying industries. "Mining capital expenditure" of a mining or quarrying operator means capital expenditure incurred on the following:
 
 - carrying on mining operations (¶19-050), including the cost of establishing access to an
 
@@ -29,7 +29,7 @@ ATC 4904; [1999] FCA 1267. The treatment of haulage roads in open pit mining dep
 
   light or power) and access to, or communication with, the site of the mining operations
 
-- buildings used in operating or maintaining treatment plant. “Treatment” broadly includes all
+- buildings used in operating or maintaining treatment plant. "Treatment" broadly includes all
 
   processes applied to extracted ore up to and including the concentration stage, excluding sintering
 
@@ -43,11 +43,11 @@ ATC 4904; [1999] FCA 1267. The treatment of haulage roads in open pit mining dep
 
   not quarrying) operations. This refers to expenditure on health, education, recreation or similar
 
-  facilities or facilities for meals, where the facilities are for the use of the taxpayer’s or a contractor’s
+  facilities or facilities for meals, where the facilities are for the use of the taxpayer's or a contractor's
 
   employees and their dependants. It also includes expenditure on residential accommodation
 
-  provided by the taxpayer at or adjacent to the mine site. Employees’ housing located 50 km from
+  provided by the taxpayer at or adjacent to the mine site. Employees' housing located 50 km from
 
   a mine site was considered adjacent to the site in BHP Minerals 83 ATC 4407; [1983] FCA 142.
 

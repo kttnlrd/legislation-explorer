@@ -11,13 +11,13 @@ Special rules apply to goods or services provided to employees if they are subje
 
 *Refs: s 9-75(3))*
 
-(1) An employer supplies (taxable) food and drink to an employee for no charge, in connection with the employee’s services. No GST is payable. (2) An employee pays the employer $1,100 in return for receiving a fringe benefit. The employer will be liable for GST of 1/11 × $1,100 = $100.
+(1) An employer supplies (taxable) food and drink to an employee for no charge, in connection with the employee's services. No GST is payable. (2) An employee pays the employer $1,100 in return for receiving a fringe benefit. The employer will be liable for GST of 1/11 × $1,100 = $100.
 
 Of course, GST will not apply in any event if the fringe benefit is GST-free or input taxed. For example, if a school provides discounted education to the children of its teachers, that would normally be GST-free, whether or not any payment or contribution is made by the teacher. For special considerations applying to fringe benefits supplied by charities, see ¶15-010.
 
 Payment or contributions The payment or contribution may be in any form. However, the mere fact that the employee has provided services to the employer is not treated as a payment or contribution (GST Ruling GSTR 2001/3).
 
-In the case of benefits classed as “housing” fringe benefits under FBT legislation, payments or contributions by the employee are not taken into account, so GST liability will not arise. In any event, these benefits would typically be input taxed as supplies of residential premises (¶11-310), for example, where a company provides a director with ongoing residential accommodation in a private house. Other types of accommodation benefits may not qualify as supplies of residential premises, for example, fly-in fly-out accommodation on an oil rig (¶11-010). In such cases, employee payments or contributions can attract GST.
+In the case of benefits classed as "housing" fringe benefits under FBT legislation, payments or contributions by the employee are not taken into account, so GST liability will not arise. In any event, these benefits would typically be input taxed as supplies of residential premises (¶11-310), for example, where a company provides a director with ongoing residential accommodation in a private house. Other types of accommodation benefits may not qualify as supplies of residential premises, for example, fly-in fly-out accommodation on an oil rig (¶11-010). In such cases, employee payments or contributions can attract GST.
 
 If an employee sacrifices salary in return for obtaining a fringe benefit, that is not treated as a payment or contribution, so it does not give rise to GST (GST Ruling GSTR 2001/3).
 

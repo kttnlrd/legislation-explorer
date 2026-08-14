@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **How and when this section applies**
 
-**(1)**  This section does not alter or affect a person’s tax position in relation to Determination G22: Optional convertible notes denominated in New Zealand dollars convertible at the option of the holder or the person’s litigation of their tax position in relation to Determination G22. It does not alter or affect the Commissioner’s assessment of, or litigation of, that tax position. It applies after Determination G22 has applied for a person’s financial arrangement, and only if, for the financial arrangement,—
+**(1)**  This section does not alter or affect a person's tax position in relation to Determination G22: Optional convertible notes denominated in New Zealand dollars convertible at the option of the holder or the person's litigation of their tax position in relation to Determination G22. It does not alter or affect the Commissioner's assessment of, or litigation of, that tax position. It applies after Determination G22 has applied for a person's financial arrangement, and only if, for the financial arrangement,—
 
 - (a) Determination G22A: Optional convertible notes denominated in New Zealand dollars did not apply while Determination G22 applied, because of the application of section 90AE of the Tax Administration Act 1994, or the application of Determination G22A, clause 3(1)﻿(b); and
 

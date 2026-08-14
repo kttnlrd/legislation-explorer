@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "2"
 division_title: "Running Balance Accounts (or RBAs)"
 subdivision: ""
@@ -20,7 +20,7 @@ source_pdf: "vol01.pdf"
 **(1)**  If there is an RBA deficit debt at the end of a day, then general interest charge is payable by the tax debtor on that RBA deficit debt for that day.
 
 <a id="s8AAZF-2"></a>
-**(2)**  The balance of the RBA is altered in the Commissioner’s favour by the amount of the general interest charge payable.
+**(2)**  The balance of the RBA is altered in the Commissioner's favour by the amount of the general interest charge payable.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

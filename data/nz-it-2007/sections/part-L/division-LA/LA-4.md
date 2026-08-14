@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Satisfied income tax liability**
 
-**(1)**  If a person’s total tax credit for a tax year is greater than their income tax liability for the tax year, the person must use their total tax credit, including the credits listed in paragraphs (a) to (d), to satisfy their income tax liability by using—
+**(1)**  If a person's total tax credit for a tax year is greater than their income tax liability for the tax year, the person must use their total tax credit, including the credits listed in paragraphs (a) to (d), to satisfy their income tax liability by using—
 
 - (a) first, a non-refundable tax credit:
 

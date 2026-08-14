@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (c) the person is not allowed a deduction for the fees; and
 
-- (d) the person’s FIF income or loss from the interest is not calculated using the comparative value method.
+- (d) the person's FIF income or loss from the interest is not calculated using the comparative value method.
 
 **Exempt income**
 

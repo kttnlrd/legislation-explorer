@@ -9,7 +9,7 @@ paragraph: "¶1-100"
 
 GST applies where you supply goods or services — including real property and rights — in the course of carrying on an enterprise such as a business. These are called taxable supplies. For there to be a taxable supply, you must normally be registered, the supply must be made for consideration and it must be connected to Australia (¶4-000).
 
-The typical example of a “supply” is a sale, but anything else that could be described as supply in the normal sense of the word is also covered. A supply includes creating or surrendering a right (¶4-010).
+The typical example of a "supply" is a sale, but anything else that could be described as supply in the normal sense of the word is also covered. A supply includes creating or surrendering a right (¶4-010).
 
 The rate of GST is 10%. This is typically included in the price paid to you by your customer. You must account for the amount of GST to the ATO.
 

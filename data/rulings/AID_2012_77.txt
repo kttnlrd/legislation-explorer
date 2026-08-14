@@ -3,18 +3,14 @@ ATO ID 2012/77
 ==================================================
 
 Income Tax
-        Income tax Division 7A: operation of section 109F of the Income Tax Assessment Act 1936 to forgiveness of amalgamated loan debt by a private company to a shareholders estate while it is in administration
-        FOI status: may be released
-
-
+ Income tax Division 7A: operation of section 109F of the Income Tax Assessment Act 1936 to forgiveness of amalgamated loan debt by a private company to a shareholders estate while it is in administration
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 109F of the Income Tax Assessment Act 1936 (ITAA 1936) operate to deem a private company to have paid a dividend to a deceased's legal personal representative in circumstances where a private company is taken to have made an amalgamated loan to a shareholder who dies before the amalgamated loan is repaid, and the private company forgives the loan while the shareholder's estate is in administration?
@@ -34,8 +30,6 @@ Reasons for Decision
 All references are to the ITAA 1936 unless otherwise indicated.
 For the purposes of Division 7A of Part III, an amalgamated loan is taken to have been made during an income year if a private company makes a constituent loan, or loans, to an entity during the income year which:
 
-
-
 (a)are not fully repaid before the company's lodgment day for the year,
 (b)would cause the company to be taken under section 109D to pay a dividend to the entity at the end of the year, apart from section 109N, and
 (c)have the same maximum term for the purposes of section 109N (subsection 109E(3)).
@@ -43,8 +37,6 @@ For the purposes of Division 7A of Part III, an amalgamated loan is taken to hav
 Because the loan made by the private company to the shareholder satisfied the conditions in subsection 109E(3), it is taken to be an amalgamated loan for the purposes of Division 7A of Part III.
 Repayments made in respect of the loan are taken to be repayments made in relation to the amalgamated loan (subsection 109E(4)).
 Under subsection 109F(1) a private company is taken to pay a dividend to an entity at the end of the private company's year of income if all or part of a debt the entity owed the private company is forgiven in that year and either:
-
-
 
 (a)the amount is forgiven when the entity is a shareholder in the private company, or an associate of such a shareholder; or
 (b)a reasonable person would conclude (having regard to all the circumstances) that the amount is forgiven because the entity has been such a shareholder or associate at some time.
@@ -57,16 +49,14 @@ Following the Grant of Probate, the legal personal representative immediately as
 As the title to the shares in the private company passed to the deceased's legal personal representative upon the death, the legal personal representative is the relevant shareholder for the purposes of paragraph 109F(1)(a).
 By forgiving the debt owed by the legal personal representative shareholder, the private company is taken to have paid a dividend to the legal personal representative shareholder in the 2012-13 income year.
 
-
-
 Note
-                : As the private company has not been taken in any income year to have paid a dividend to the shareholder because all minimum yearly repayments have been made, subsections 109G(3A) and 109G(3B) would have no application. If applicable, these subsections would result in the amount of the dividend taken to have been paid under section 109F being reduced by the amount of dividends the private company is taken to have paid under section 109E at the end of earlier years of income in relation to the loan.
+ : As the private company has not been taken in any income year to have paid a dividend to the shareholder because all minimum yearly repayments have been made, subsections 109G(3A) and 109G(3B) would have no application. If applicable, these subsections would result in the amount of the dividend taken to have been paid under section 109F being reduced by the amount of dividends the private company is taken to have paid under section 109E at the end of earlier years of income in relation to the loan.
 
 Date of decision:
-         11 September 2012
+  11 September 2012
 
 Year of income:
-           Year ending 30 June 2013
+  Year ending 30 June 2013
 
 Legislative References:
 
@@ -75,33 +65,29 @@ Probate and Administration Act 1898 (NSW)   Section 44
 
 Case References:
 
-
 Official Receiver In Bankruptcy v Schultz   [1990] HCA 45   (1990) 170 CLR 306
-
 
 Other References:
 
 Certoma, GL 2010, The Law of Succession in New South Wales, 4th edn Thomson Reuters, Sydney, p. 304
 
-
 Keywords
 
 Companies
-          Debt forgiveness
-          Deceased estates
-          Deemed dividends
-          Private companies
-          Shareholder loans
-
+ Debt forgiveness
+ Deceased estates
+ Deemed dividends
+ Private companies
+ Shareholder loans
 
 Siebel/TDMS Reference Number:
-         1-46F7WK8
+  1-46F7WK8
 
 Business Line:
-         
+  
 
 Date of publication:
-         17 September 2012
+  17 September 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

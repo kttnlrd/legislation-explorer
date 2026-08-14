@@ -7,7 +7,7 @@ paragraph: "¶34-360"
 ---
 # Other GST-related measures ¶34-360
 
-“Locking in” the GST rate Measures intended to lock in the GST rate at 10% are contained in the A New Tax System (Commonwealth- State Financial Arrangements) Act 1999. This Act provides that no alteration can be made to the rate unless each state and territory agrees, as well as both Houses of Federal Parliament.
+"Locking in" the GST rate Measures intended to lock in the GST rate at 10% are contained in the A New Tax System (Commonwealth- State Financial Arrangements) Act 1999. This Act provides that no alteration can be made to the rate unless each state and territory agrees, as well as both Houses of Federal Parliament.
 
 Relationship with other taxes In general, the GST component of the price of goods or services is not assessable to the supplier (ITAA97 s 17-5: ¶10-000). Similarly, the GST component is not deductible to the purchaser/recipient except to the extent that an input tax credit cannot be claimed (ITAA97 s 27-5: ¶16-860). The cost of assets that you can depreciate is reduced by the amount of any input tax credit entitlement (¶17-080). Periodical payments of net GST made to the ATO by suppliers are not deductible (ITAA97 s 27-15).
 
@@ -21,7 +21,7 @@ GST-related offences Penalties for failing to comply with various GST obligation
 
 GST Regulations Some important GST rules are contained in the A New Tax System (Goods and Services Tax) Regulations 2019 — eg the detailed requirements for tax invoices (¶34-140) and the deﬁnition of input taxed ﬁnancial supplies (¶34-190). The GST Regulations originally issued in 1999 were reissued with minor procedural and numbering changes (A New Tax System (Goods and Services Tax) Regulations 2019).
 
-Australian Business Numbers In general, an entity’s GST registration number is its Australian Business Number (ABN). Rules governing the use of ABNs are contained in the A New Tax System (Australian Business Number) Act 1999.
+Australian Business Numbers In general, an entity's GST registration number is its Australian Business Number (ABN). Rules governing the use of ABNs are contained in the A New Tax System (Australian Business Number) Act 1999.
 
 *Refs: ITAA97
 s 17-5, ITAA97 s 27-5, ITAA97 s 27-15), s 9-75*

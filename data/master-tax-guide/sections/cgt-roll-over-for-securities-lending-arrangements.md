@@ -7,7 +7,7 @@ paragraph: "¶12-430"
 ---
 # CGT roll-over for securities lending arrangements ¶12-430
 
-Automatic roll-over relief is available to taxpayers engaging in eligible securities lending arrangements (ITAA36 s 26BC). Securities lending arrangements are typically entered into where a seller of securities does not have enough securities available to complete the sale to the buyer. To cover the sale, the seller obtains from a third person (the “lender”) the securities needed to complete the sale. After completion of the sale, the seller returns replacement securities to the lender, who is also paid a fee for the use of the securities. Both before and after the transaction, the lender holds the same number and type of securities. The arrangements have the essential characteristics of loan transactions because the lender receives back the equivalent of what was lent.
+Automatic roll-over relief is available to taxpayers engaging in eligible securities lending arrangements (ITAA36 s 26BC). Securities lending arrangements are typically entered into where a seller of securities does not have enough securities available to complete the sale to the buyer. To cover the sale, the seller obtains from a third person (the "lender") the securities needed to complete the sale. After completion of the sale, the seller returns replacement securities to the lender, who is also paid a fee for the use of the securities. Both before and after the transaction, the lender holds the same number and type of securities. The arrangements have the essential characteristics of loan transactions because the lender receives back the equivalent of what was lent.
 
 The broad eﬀect of extending roll-over relief to securities lending arrangements is as follows:
 
@@ -41,7 +41,7 @@ The conditions that must be met for roll-over relief to apply to a securities le
 
   months of the original disposal
 
-- the borrower and the lender must have been dealing with each other at arm’s length in relation to
+- the borrower and the lender must have been dealing with each other at arm's length in relation to
 
   the transaction.
 

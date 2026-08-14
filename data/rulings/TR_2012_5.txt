@@ -74,7 +74,7 @@ means a distribution under section 202-40 of the ITAA 1997 that is not an unfran
 assets' means the amount by which a company's assets exceed its liabilities, calculated in accordance with accounting standards in force at the relevant time (even if the standard does not otherwise apply to the financial year or company concerned).
 [3]
 'Profits'
-means profits recognised in a company's accounts which are available for distribution by way of dividend. Profits include:  (i) revenue profits
+means profits recognised in a company's accounts which are available for distribution by way of dividend. Profits include: (i) revenue profits
 [4]
 from ordinary business and trading activities, dividends received from other companies, and realised capital profits recognised in the statement of financial performance in a company's accounts; and (ii) unrealised capital profits of a permanent character
 [5]
@@ -85,7 +85,7 @@ irrespective of the fact that those amounts contribute to the retained earnings/
 'Share capital account'
 means share capital account as defined in section 975-300 of the ITAA 1997 which is an account the company keeps of its share capital,
 [8]
-or any other account (whether or not called a share capital account) that satisfies the following conditions:  (i) the account was created on or after 1 July 1998, and (ii) the first amount credited to the account was an amount of share capital. Two or more accounts together may constitute the share capital account.
+or any other account (whether or not called a share capital account) that satisfies the following conditions: (i) the account was created on or after 1 July 1998, and (ii) the first amount credited to the account was an amount of share capital. Two or more accounts together may constitute the share capital account.
 [9]
 Ruling
 3. Paragraph 202-45(e) of the ITAA 1997 does not prevent a company from franking a dividend paid to its shareholders that is paid out of profits recognised in the company's accounts and available for distribution, and is paid in accordance with the company's constitution and without breaching section 254T or Part 2J.1 of the Corporations Act, merely because the company has unrecouped accounting losses accumulated in prior years or has lost part of its share capital.
@@ -108,7 +108,7 @@ Examples of dividends paid out of profits
 8. The following examples (and those set out in the Further Examples at paragraphs 73 to 86 of this Ruling) are intended to illustrate the taxation principles set out in the Ruling section at paragraphs 3 to 6 of this Ruling and the issues discussed in the Explanation at paragraphs 8 to 72 of this Ruling. They do not appear in the Ruling section because they reflect the operation of the Corporations Act. For the purposes of the examples it is assumed that the requirements of the Corporations Act,
 [14]
 the Australian Accounting Standards and the company's constitution have been complied with. It is also assumed that the company is a going concern and the company's accounts have entries preceding those represented here.
-Example 1:  interim dividend
+Example 1: interim dividend
 [15]
 determined and final year dividend declared,
 [16]
@@ -296,7 +296,7 @@ Final dividend proposed for the year ended 30/06/12 (the financial effect of thi
 40
 14.
 As the $20 interim dividend determined to be paid and the final declared dividend of $20 are sourced from available profits (as evidenced by the accounts and the contemporaneous legally effective directors' resolutions approving the accounts and the dividend payments), they will be frankable, and will be assessable income of Youyang Ltd's resident shareholders. The offsetting or netting of profits against accumulated losses in the interim and final accounts indicates an appropriation of those profits against losses. However, the conclusion that profits have been appropriated against losses arising from the accounts is displaced by the legally effective resolution of the directors to pay a dividend at the same directors' meeting in which the accounts were approved. The $10 of 2012 profit carried to the accumulated loss account and undistributed by way of dividend is appropriated against prior year losses and ceases to be available for appropriation for distribution as a dividend.
-Example 2:  final dividend declared and paid out of profits carried to a profits reserve, and there are accumulated losses
+Example 2: final dividend declared and paid out of profits carried to a profits reserve, and there are accumulated losses
 15.
 The accounts of Listerfield Pty Ltd as at 30 June 2011 disclose an accumulated loss position of ($70) as a result of prior year activities. However, during the second half of the year ended 30 June 2012, Listerfield Pty Ltd performs more successfully, making profits. After the end of the 2012 financial year, a meeting of the directors of Listerfield Pty Ltd approves audited accounts in which the 2012 profits are booked.
 [25]
@@ -347,8 +347,8 @@ But the reference to 'profits' is not a reference to profits for company law pur
 and subsection 44(1A)
 [34]
 extends the operation of the section to dividends that are not paid from profits.
-23. Importantly, however, 'dividend' is a defined term:  see subsection 6(1) of the ITAA 1936. The definition in subsection 6(1) extends the meaning of the term beyond its ordinary meaning to include any distribution by a company to its shareholders in money or property, but subject to an exclusion in all cases for an amount debited to amounts standing to the credit of the company's share capital account. 'Share capital account' is defined by section 975-300 of the ITAA 1997. The references in section 975-300 to 'share capital' are references to a company's share capital for company law purposes. This is the first point at which the income tax law adopts company law as one of its criteria for taxation. An application of the definition of dividend to a company distribution requires consideration of whether it has been debited to amounts standing to the credit of a company's share capital account, which in turn requires consideration of what the company has done with its share capital as a matter of accounting and for company law purposes. The effect, broadly speaking, is to exclude from taxation as a dividend for income tax purposes a return of capital for company law purposes that is debited to an amounts standing to the credit of a share capital account as defined by section 975-300. A return of capital which is not a dividend under the ITAA 1936 or the ITAA 1997 is also not a 'distribution' in relation to the company for the purposes of those Acts:  see section 960-120 of the ITAA 1997. Because it is not a 'distribution' it is also not a frankable distribution for the purposes of section 202-40 of the ITAA 1997.
-24. A distribution may be a return of share capital for company law purposes yet not be debited to amounts standing to the credit of a share capital account, or may be debited in part only to that account. Such distributions may be dividends as defined and may be included in the assessable income of a shareholder under section 44 of the ITAA 1936 if the other requirements of that section are met. They may also be 'distributions' for the purposes of section 960-120 and section 202-40 of the ITAA 1997. However, a dividend or distribution is not a frankable distribution if it is sourced, directly or indirectly, from a company's share capital account:  paragraph 202-45(e) of the ITAA 1997. This, for the reason explained above, is the second point at which income tax law adopts company law as one of its criteria for taxation. Unlike the definition of dividend in subsection 6(1) of the ITAA 1936, paragraph 202-45(e) of the ITAA 1997 does not require the amount of a distribution to be debited against amounts standing to the credit of the company's share capital account. Rather, it requires the distribution to be 'sourced', directly or indirectly, from it.
+23. Importantly, however, 'dividend' is a defined term: see subsection 6(1) of the ITAA 1936. The definition in subsection 6(1) extends the meaning of the term beyond its ordinary meaning to include any distribution by a company to its shareholders in money or property, but subject to an exclusion in all cases for an amount debited to amounts standing to the credit of the company's share capital account. 'Share capital account' is defined by section 975-300 of the ITAA 1997. The references in section 975-300 to 'share capital' are references to a company's share capital for company law purposes. This is the first point at which the income tax law adopts company law as one of its criteria for taxation. An application of the definition of dividend to a company distribution requires consideration of whether it has been debited to amounts standing to the credit of a company's share capital account, which in turn requires consideration of what the company has done with its share capital as a matter of accounting and for company law purposes. The effect, broadly speaking, is to exclude from taxation as a dividend for income tax purposes a return of capital for company law purposes that is debited to an amounts standing to the credit of a share capital account as defined by section 975-300. A return of capital which is not a dividend under the ITAA 1936 or the ITAA 1997 is also not a 'distribution' in relation to the company for the purposes of those Acts: see section 960-120 of the ITAA 1997. Because it is not a 'distribution' it is also not a frankable distribution for the purposes of section 202-40 of the ITAA 1997.
+24. A distribution may be a return of share capital for company law purposes yet not be debited to amounts standing to the credit of a share capital account, or may be debited in part only to that account. Such distributions may be dividends as defined and may be included in the assessable income of a shareholder under section 44 of the ITAA 1936 if the other requirements of that section are met. They may also be 'distributions' for the purposes of section 960-120 and section 202-40 of the ITAA 1997. However, a dividend or distribution is not a frankable distribution if it is sourced, directly or indirectly, from a company's share capital account: paragraph 202-45(e) of the ITAA 1997. This, for the reason explained above, is the second point at which income tax law adopts company law as one of its criteria for taxation. Unlike the definition of dividend in subsection 6(1) of the ITAA 1936, paragraph 202-45(e) of the ITAA 1997 does not require the amount of a distribution to be debited against amounts standing to the credit of the company's share capital account. Rather, it requires the distribution to be 'sourced', directly or indirectly, from it.
 25. This ruling, for the reasons to be explained, broadly advances two propositions. First, a dividend paid by a company, or a distribution distributed by a company, as defined for taxation purposes, will not be directly or indirectly sourced in a company's share capital account when it is a lawful division of profit for company law purposes, and hence not a return of capital for company law purposes (whether authorised or unauthorised), because the two categories are, as
 Commissioner of Taxation (NSW) v. Stevenson
 (1937) 59 CLR 80 at 97
@@ -377,7 +377,7 @@ Assets and liabilities are calculated in accordance with accounting standards in
 [39]
 31. The Corporations Act previously provided that 'a dividend may only be paid out of profits of the company' ('the profits test'). The phrase 'out of profits' in the previous section 254T of the Corporations Act was generally accepted as a reference to retained or ascertained accounting profits of a permanent character.
 [40]
-32. As a result of the substitution of the new section 254T of the Corporations Act, subsection 44(1A) was inserted into the ITAA 1936. Subsection 44(1A) of the ITAA 1936 provides that:  'For the purposes of this Act,
+32. As a result of the substitution of the new section 254T of the Corporations Act, subsection 44(1A) was inserted into the ITAA 1936. Subsection 44(1A) of the ITAA 1936 provides that: 'For the purposes of this Act,
 [41]
 a dividend paid out of an amount other than profits is taken to be a dividend paid out of profits'.
 Effect of the new section 254T of the Corporations Act
@@ -389,7 +389,7 @@ Henry v. Great Northern Ry Co
 [42]
 According to Lindley LJ in
 Verner v. General & Commercial Investment Trust
-[1894] 2 Ch 239 at 266:  'dividends presuppose profits of some sort'. In an Australian context it has been stated:  'A dividend is a share of profits, whether at a fixed rate or otherwise, allocated to the holders of shares in a company', per Beach J in
+[1894] 2 Ch 239 at 266: 'dividends presuppose profits of some sort'. In an Australian context it has been stated: 'A dividend is a share of profits, whether at a fixed rate or otherwise, allocated to the holders of shares in a company', per Beach J in
 Churchill International Inc v. BTR Nylex Ltd
 (1991) 4 ACSR 693 at 696.
 [43]
@@ -410,7 +410,7 @@ Section 202-45 of the ITAA 1997 identifies those distributions which are not fra
 42. Paragraph 202-45(e) of the ITAA 1997 is considered to be a structural integrity rule as that term was used in paragraph 3.18 of the Explanatory Memorandum to the CACRRA.
 [46]
 Subsection 44(1A) of the ITAA 1936 does not have the effect that all dividends that are paid out of profits or amounts other than profits are frankable distributions for the purposes of Part 3-6 of the ITAA 1997. Such an interpretation would render the structural integrity rules in Part 3-6 of the ITAA 1997 redundant and the Explanatory Memorandum to the CACRRA indicates that was not intended. The structural integrity rules were not repealed and both the ITAA 1936 and the ITAA 1997 should be interpreted to retain practical scope for their application.
-43. The guide to the imputation system in section 202-25 of the ITAA 1997 states:  'Generally, distributions that are made out of realised profits can be franked'. However, the payment of a dividend out of profits is not a requirement for a distribution to be frankable under section 202-40 of the ITAA 1997. Although the deeming in subsection 44(1A) of the ITAA 1936 applies for the purposes of 'this Act' (which includes the ITAA 1997), that does not assist in the satisfaction of section 202-40 of the ITAA 1997. Whether a dividend is sourced directly or indirectly from a company's share capital account within paragraph 202-45(e) of the ITAA 1997 does not turn on whether the distribution is deemed to be paid out of profits.
+43. The guide to the imputation system in section 202-25 of the ITAA 1997 states: 'Generally, distributions that are made out of realised profits can be franked'. However, the payment of a dividend out of profits is not a requirement for a distribution to be frankable under section 202-40 of the ITAA 1997. Although the deeming in subsection 44(1A) of the ITAA 1936 applies for the purposes of 'this Act' (which includes the ITAA 1997), that does not assist in the satisfaction of section 202-40 of the ITAA 1997. Whether a dividend is sourced directly or indirectly from a company's share capital account within paragraph 202-45(e) of the ITAA 1997 does not turn on whether the distribution is deemed to be paid out of profits.
 Profits
 44. Profits must be recognised in a company's accounts and be available for distribution by way of dividend. Profits can be recognised in the company's annual financial statements for the preceding year, or in properly prepared half yearly or interim financial statements for the current financial year. The source of the profits from which a dividend will be paid would usually be expected to be recorded in the directors' minutes of the resolution determining to pay or declaring a dividend, or in the documentation that accompanies or supports the resolution, or in notes to the accounts.
 45. If profits are applied against prior year losses or losses of share capital or otherwise applied or appropriated they will cease to be available for distribution by way of a dividend.
@@ -444,11 +444,11 @@ However, the availability of profits in the head company for the purposes of sec
 54. In relation to the profits from which a dividend can be paid, in
 QBE Insurance Group Ltd & Ors v. ASC & Anor, NRMA Insurance Ltd v. ASC
 (1992) 38 FCR 270 at 286-287, Lockhart J stated:
-Plainly profits of a company available for dividend may be trading profits derived during the relevant financial year. Also, it is well established that capital profits, in the sense of profits earned on the realisation of capital assets, may be available for dividend provided there has been an accretion to the paid up capital:  see
+Plainly profits of a company available for dividend may be trading profits derived during the relevant financial year. Also, it is well established that capital profits, in the sense of profits earned on the realisation of capital assets, may be available for dividend provided there has been an accretion to the paid up capital: see
 Australasian Oil Exploration Ltd v. Lachberg & Ors
 (1958) 101 CLR 119 at 133 and the cases there cited and
 Marra Developments
-per Mahoney JA at 629. The position with respect to unrealised accretions to the value of assets has been considered, though to a limited extent, in certain of the authorities. It has been held that unrealised accretions to the value of a company's capital assets may be available for dividend where it is clear (and, by inference, only where it is clear) that the accretion in value is of a permanent character:  see
+per Mahoney JA at 629. The position with respect to unrealised accretions to the value of assets has been considered, though to a limited extent, in certain of the authorities. It has been held that unrealised accretions to the value of a company's capital assets may be available for dividend where it is clear (and, by inference, only where it is clear) that the accretion in value is of a permanent character: see
 Dimbula Valley (Ceylon) Tea Co Ltd v. Laurie
 (supra) at 371-372;
 Marra Developments
@@ -517,10 +517,10 @@ Capital that has been lost or sunk is no longer capable of any application, incl
 71. Under section 258F of the Corporations Act, in certain circumstances a company may reduce its share capital by cancelling any paid-up share capital that is lost or is not represented by available assets; that power does not apply if the company also cancels shares, or if the cancellation of paid-up share capital is inconsistent with the requirements of any accounting standard.
 72. This ruling does not address any specific integrity measures (for example section 177EA of the ITAA 1936, section 45B of the ITAA 1936 or other like provisions) in the income tax laws dealing with the payment of dividends.
 Further Examples
-Example 3:  dividend paid out of current year profits identified but not yet booked in the accounts
+Example 3: dividend paid out of current year profits identified but not yet booked in the accounts
 73.
 Assume the same facts for Listerfield Ltd as stated in Example 2 at paragraphs 15 and 16 of this Ruling, except that the profits for 2012 have not yet been booked in the final accounts. In May 2012, the directors of Listerfield Ltd identify that the company will have $30 of current year profits from ledgers and management accounts. The company determines to pays $30 to its shareholders in June 2012 as a purported dividend prior to the amount being recognised or booked in its final audited accounts. As the $30 purported distribution was paid out of expected profits as yet unbooked in audited accounts, the payment will either not be a dividend for taxation purposes and/or the Corporations Act, or if it was a dividend for taxation purposes and/or the Corporations Act, it would not be a frankable distribution under paragraph 202-45(e) of the ITAA 1997. The same conclusions would apply in respect of amounts that are not able to be booked or recognised in a company's accounts.
-Example 4:  Debit to reserve
+Example 4: Debit to reserve
 74.
 Upwey Ltd has the following balance sheet:
 Assets and Liabilities
@@ -557,7 +557,7 @@ when the 'net asset' test in section 254T of the Corporations Act is satisfied, 
 ;
 or if a dividend, it would be assessable under paragraph 44(1)
 (a) of the ITAA 1936 as a result of the deeming in subsection 44(1A) of the ITAA 1936 and considered an unfrankable distribution sourced indirectly from a company's share capital account.
-Example 5:  dividend paid partly out of profits and partly out of share capital
+Example 5: dividend paid partly out of profits and partly out of share capital
 78.
 Sherbrooke Ltd has the following balance sheet:
 Assets and Liabilities
@@ -583,7 +583,7 @@ CR Cash
 50
 80.
 For taxation law purposes, the $40 portion of the distribution debited to the retained earnings balance would be a dividend pursuant to subsection 6(1) of the ITAA 1936. It would be able to be franked in accordance with the principles stated in this Ruling. However, the amount debited against the share capital account would not be a dividend for taxation purposes pursuant to the exception contained in paragraph (d) of subsection 6(1) of the ITAA 1936. As the $10 would not fall within the definition of a dividend for taxation law purposes, it would not be assessable pursuant to subsection 44(1A) of the ITAA 1936. For tax law purposes, the $10 distribution would be treated as a return of share capital that would give rise to a CGT event under the capital gains tax provisions in Part 3-1 of the ITAA 1997.
-Example 6:  dividend paid out of an amount other than retained earnings (such as a reserve account) and net assets are less than share capital
+Example 6: dividend paid out of an amount other than retained earnings (such as a reserve account) and net assets are less than share capital
 81.
 Pilbara Ltd has the following balance sheet:
 Assets and Liabilities
@@ -976,7 +976,7 @@ Consolidated Media Holdings Limited v. FCT
 Previously released in draft form as TR 2011/D8
 References
 ATO references:
-NO  1-3O2H8Q2
+NO 1-3O2H8Q2
 ISSN: 1039-0731
 Related Rulings/Determinations:
 TR 2003/8

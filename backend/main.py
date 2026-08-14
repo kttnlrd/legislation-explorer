@@ -11,7 +11,9 @@ from __future__ import annotations
 import asyncio
 import logging
 import os
+import sqlite3
 from contextlib import asynccontextmanager
+from datetime import datetime
 from pathlib import Path
 
 from fastapi import FastAPI, Request
@@ -129,6 +131,75 @@ if not os.environ.get("AZURE_CLIENT_ID"):
 @app.get("/health")
 def health():
     return {"status": "ok"}
+
+
+# ---------------------------------------------------------------------------
+# Detailed health check for monitoring
+# ---------------------------------------------------------------------------
+
+@app.get("/health/check")
+def health_check():
+    """Detailed health check: DB, FTS5 search, memory, PG connectivity.
+
+    Returns structured pass/fail with diagnostics. Unauthenticated so the
+    monitor cron can hit it without a token.
+    """
+    import psutil
+
+    checks = {}
+
+    # 1. Search DB exists and FTS5 queryable
+    try:
+        conn = sqlite3.connect(str(SEARCH_DB))
+        conn.execute("SELECT 1 FROM sections_fts LIMIT 1")
+        conn.close()
+        checks["search_db"] = {"status": "pass"}
+    except Exception as e:
+        checks["search_db"] = {"status": "fail", "detail": str(e)}
+
+    # 2. PostgreSQL connectivity (via PGHOST from env)
+    pg_host = os.environ.get("PGHOST", "")
+    if pg_host:
+        import subprocess
+        try:
+            r = subprocess.run(
+                ["psql", "-h", pg_host, "-U", os.environ.get("PGUSER", "postgres"),
+                 "-d", os.environ.get("PGDATABASE", "cadena_knowledge"),
+                 "-c", "SELECT 1", "-t", "-q"],
+                capture_output=True, timeout=5,
+                env={**os.environ, "PGPASSWORD": os.environ.get("PGPASSWORD", "")}
+            )
+            if r.returncode == 0:
+                checks["postgres"] = {"status": "pass"}
+            else:
+                checks["postgres"] = {"status": "fail", "detail": r.stderr.decode()[:200]}
+        except Exception as e:
+            checks["postgres"] = {"status": "fail", "detail": str(e)}
+
+    # 3. Memory usage
+    mem = psutil.virtual_memory()
+    checks["memory"] = {
+        "status": "pass" if mem.percent < 90 else "warn",
+        "percent": mem.percent,
+        "available_mb": mem.available // (1024 * 1024),
+    }
+
+    # 4. Process uptime
+    try:
+        p = psutil.Process(os.getpid())
+        created = datetime.fromtimestamp(p.create_time())
+        checks["uptime"] = {
+            "status": "pass",
+            "seconds": int((datetime.now() - created).total_seconds()),
+        }
+    except Exception as e:
+        checks["uptime"] = {"status": "error", "detail": str(e)}
+
+    overall = all(c.get("status") == "pass" for c in checks.values())
+    return {
+        "status": "ok" if overall else "degraded",
+        "checks": checks,
+    }
 
 
 # API routes

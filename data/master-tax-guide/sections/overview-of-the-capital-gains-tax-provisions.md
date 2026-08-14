@@ -17,7 +17,7 @@ The CGT provisions are catch-all provisions. They apply to all gains that arise 
 
 The characterisation of a gain or loss on capital or revenue account is determined based on all surrounding circumstances. A gain or loss made on an investment by a trustee of a trust does not necessarily result in only CGT treatment (TD 2011/21).
 
-Assessable income includes net capital gain The CGT rules aﬀect a taxpayer’s income tax liability because assessable income includes a net capital gain for the income year. A net capital gain is the total of a taxpayer’s capital gains for an income year, reduced by certain capital losses made by the taxpayer. A capital loss cannot be deducted from a taxpayer’s assessable income, but it can reduce a capital gain in the current income year or a later income year.
+Assessable income includes net capital gain The CGT rules aﬀect a taxpayer's income tax liability because assessable income includes a net capital gain for the income year. A net capital gain is the total of a taxpayer's capital gains for an income year, reduced by certain capital losses made by the taxpayer. A capital loss cannot be deducted from a taxpayer's assessable income, but it can reduce a capital gain in the current income year or a later income year.
 
 The amount of a capital gain is generally discounted by 50% for a resident individual or trust, or 33⅓% for certain superannuation funds and for life insurance companies from CGT assets that are complying superannuation assets. The general 50% discount percentage available for an individual taxpayer is reduced for any periods in which the taxpayer is either a foreign resident or a temporary resident during the period of ownership from 9 May 2012 (¶11-060). No discount is allowed if the capital gain is made by a company generally or by a life insurance company from its non-complying superannuation assets.
 
@@ -25,7 +25,7 @@ A company can only oﬀset a net capital loss against a capital gain if it passe
 
 A net capital loss of any taxpayer may be reduced if it has a commercial debt forgiven.
 
-Capital gain or loss only if CGT event happens A taxpayer can only make a capital gain or loss if a CGT event happens. The speciﬁc time when a CGT event happens is important for various reasons. In particular, the timing is relevant for working out whether a capital gain or loss from the event aﬀects the taxpayer’s income tax for the current income year or the CGT discount applies. If a CGT event involves a contract, the time of the event is usually when the contract is executed.
+Capital gain or loss only if CGT event happens A taxpayer can only make a capital gain or loss if a CGT event happens. The speciﬁc time when a CGT event happens is important for various reasons. In particular, the timing is relevant for working out whether a capital gain or loss from the event aﬀects the taxpayer's income tax for the current income year or the CGT discount applies. If a CGT event involves a contract, the time of the event is usually when the contract is executed.
 
 Most CGT events involve a CGT asset. However, some CGT events are concerned directly with capital receipts and do not involve a CGT asset. Many CGT assets are easily recognisable, eg land and buildings, shares, units in a unit trust, collectables and personal use assets. Other CGT assets are not so well recognised, eg the family home (which is usually exempt from CGT), contractual rights and goodwill.
 
@@ -33,7 +33,7 @@ Planning point Unforeseen tax problems can easily arise in the CGT context. Some
 
 - ascertaining which, if any, CGT event has occurred (as this aﬀects the calculation and timing of any assessable gain)
 
-- the loss of an asset’s pre-CGT status where the underlying beneﬁcial interests change
+- the loss of an asset's pre-CGT status where the underlying beneﬁcial interests change
 
 - the diminution of the value of pre-CGT assets
 
@@ -51,19 +51,19 @@ Planning point Unforeseen tax problems can easily arise in the CGT context. Some
 
 - a taxable CGT event (¶11-240) arising in relation to a pre-CGT asset.
 
-Great care should be taken to ensure that an asset-rich individual preparing a will is aware of the likely CGT consequences of creating interests such as life estates where the ﬁnal distribution of the assets is eﬀectively postponed (¶12-580). In the Commissioner’s view, the transfer of an asset from the trustee of a testamentary trust, established by will after administration, to a remainderman following the death of a life tenant is not eligible for roll-over. Nor is the passing of an asset from a trustee of a testamentary trust to a beneﬁciary, where the asset is a substitute for an asset held by the deceased at the date of death.
+Great care should be taken to ensure that an asset-rich individual preparing a will is aware of the likely CGT consequences of creating interests such as life estates where the ﬁnal distribution of the assets is eﬀectively postponed (¶12-580). In the Commissioner's view, the transfer of an asset from the trustee of a testamentary trust, established by will after administration, to a remainderman following the death of a life tenant is not eligible for roll-over. Nor is the passing of an asset from a trustee of a testamentary trust to a beneﬁciary, where the asset is a substitute for an asset held by the deceased at the date of death.
 
-Working out capital gains and losses For most CGT events, a capital gain arises if a taxpayer receives amounts from the CGT event which exceed the taxpayer’s costs associated with that event. Conversely, a capital loss arises if the taxpayer’s costs associated with the CGT event exceed the amounts received from it.
+Working out capital gains and losses For most CGT events, a capital gain arises if a taxpayer receives amounts from the CGT event which exceed the taxpayer's costs associated with that event. Conversely, a capital loss arises if the taxpayer's costs associated with the CGT event exceed the amounts received from it.
 
-The amounts received from a CGT event are generally called the capital proceeds. The taxpayer’s total costs associated with a CGT event are usually worked out in 2 diﬀerent ways. For the purpose of working out a capital gain, those costs are called the cost base of the CGT asset. For the purpose of working out a capital loss, those costs are called the reduced cost base of the asset.
+The amounts received from a CGT event are generally called the capital proceeds. The taxpayer's total costs associated with a CGT event are usually worked out in 2 diﬀerent ways. For the purpose of working out a capital gain, those costs are called the cost base of the CGT asset. For the purpose of working out a capital loss, those costs are called the reduced cost base of the asset.
 
 Where the taxpayer is an individual, a superannuation fund, a trust or a life insurance company (in respect of its complying superannuation assets), the capital gain may be discounted if the asset has been owned for at least 12 months.
 
 To work out a capital gain, the cost base for the CGT asset is subtracted from the capital proceeds. If the capital proceeds exceed the cost base, the diﬀerence is a capital gain. If there is no capital gain, the capital proceeds are subtracted from the reduced cost base of the asset. If the reduced cost base exceeds the capital proceeds, the diﬀerence is a capital loss. If the capital proceeds are less than the cost base but more than the reduced cost base, there is neither a capital gain nor a capital loss.
 
-If a taxpayer’s total capital gains for an income year are more than the sum of the taxpayer’s total capital losses for the income year and unapplied net capital losses from previous years, the taxpayer has a net capital gain for the income year equal to the diﬀerence.
+If a taxpayer's total capital gains for an income year are more than the sum of the taxpayer's total capital losses for the income year and unapplied net capital losses from previous years, the taxpayer has a net capital gain for the income year equal to the diﬀerence.
 
-Alternatively, if the taxpayer’s total capital losses for the income year are more than the taxpayer’s total capital gains for the income year, the taxpayer has a net capital loss for the income year equal to the diﬀerence.
+Alternatively, if the taxpayer's total capital losses for the income year are more than the taxpayer's total capital gains for the income year, the taxpayer has a net capital loss for the income year equal to the diﬀerence.
 
 Exceptions, exemptions and roll-overs Where a capital gain or loss arises from a CGT event, an exception or exemption could apply to reduce or eliminate that gain or loss. Most of the exceptions are in Div 104 while the exemptions are in Div 118. The small business concessions are in Div 152.
 

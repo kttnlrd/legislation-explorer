@@ -4,27 +4,24 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 358
-  • Div 72
-  • Div 75
-  • Division 358
-  • Division 75
+ • Div 358
+ • Div 72
+ • Div 75
+ • Division 358
+ • Division 75
 
 Cases Referenced:
-  • Anor v. Volume Sales 
-  • Archibald Howie Pty Ltd v. Commissioner 
-  • Bains v. Minist
-  • In
+ • Anor v. Volume Sales 
+ • Archibald Howie Pty Ltd v. Commissioner 
+ • Bains v. Minist
+ • In
 Re Navakumar v. Commissioner 
-  • Re Navakumar v. Commissioner 
-  • See
+ • Re Navakumar v. Commissioner 
+ • See
 Archibald Howie Pty Ltd v. Commissioner 
-  • Taxation v. Reliance Carpet Co Pty Ltd
-
+ • Taxation v. Reliance Carpet Co Pty Ltd
 
 Topics: GST, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -95,13 +92,13 @@ How is the margin calculated if a former partner in a general law partnership su
 5. This Ruling does not apply to limited partnerships nor does it apply to tax law partnerships as defined in paragraph 14 of this Ruling.
 6. This Ruling should be read, where applicable, together with the following Goods and Services Tax Rulings:
 •
-GSTR 2003/13 Goods and services tax:  general law partnerships (as amended with effect from 11 June 2008);
+GSTR 2003/13 Goods and services tax: general law partnerships (as amended with effect from 11 June 2008);
 •
-GSTR 2000/21 Goods and services tax:  the margin scheme for supplies of real property held prior to 1 July 2000;
+GSTR 2000/21 Goods and services tax: the margin scheme for supplies of real property held prior to 1 July 2000;
 •
-GSTR 2006/7 Goods and services tax:  how the margin scheme applies to a supply of real property made on or after 1 December 2005 that was acquired or held before 1 July 2000; and
+GSTR 2006/7 Goods and services tax: how the margin scheme applies to a supply of real property made on or after 1 December 2005 that was acquired or held before 1 July 2000; and
 •
-GSTR 2006/8 Goods and services tax:  the margin scheme for supplies of real property acquired on or after 1 July 2000.
+GSTR 2006/8 Goods and services tax: the margin scheme for supplies of real property acquired on or after 1 July 2000.
 Date of effect
 7. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 8. [Omitted.]
@@ -250,7 +247,7 @@ in the real property that is partnership property does not mean that the real pr
 46. Where a partner contributes an interest in real property to a partnership, resulting in the partner's capital account in the partnership's accounts being credited with its agreed value, the Commissioner considers that the partner has supplied its interest in the real property to the partnership and that interest in the real property has become partnership property. As stated in Lindley and Banks:
 [29]
 Once a partner has brought in the asset and been credited with its agreed 'capital' value in the firm's books, the asset as such will cease to be his property and will thereafter belong to the firm.
-Example 1:  real property becomes partnership property where legal title remains with the contributing partner
+Example 1: real property becomes partnership property where legal title remains with the contributing partner
 47.
 Steve, Tony and Garry form a general law partnership to carry on a property development business. Steve and Garry each make a cash contribution of $500,000. It is agreed that Tony will contribute real property that he currently owns to the partnership. The agreed value of the land contributed by Tony is $500,000 and Tony's capital account in the partnership accounts is credited with the agreed value of $500,000
 .
@@ -260,14 +257,14 @@ With the agreement of the other partners, Tony as a partner in the partnership r
 49. In contrast, where a partner merely permits the partnership to have use of the real property, for example by way of a lease or licence, the land does not become partnership property and the partner will not have supplied its interest in the land by way of sale. Lord Lindley observed that:
 ....it by no means follows that property used by all the partners for partnership purposes is partnership property. For example, the house and land in and upon which partnership business is carried on often belongs to one of the partners only, either subject to a lease to the firm, or without any lease at all.
 [30]
-Example 2:  real property is used by the partnership but is not partnership property
+Example 2: real property is used by the partnership but is not partnership property
 50.
 Tania and Alex form a general law partnership to undertake a residential property development business. Tania owns a commercial office block and agrees to allow a suite in the office block to be used by the partnership in its residential property development business
 .
 51.
 The office suite does not become partnership property and Tania's supply, to the partnership, of the right to use the suite in its business is not a supply by way of sale for the purposes of subsection 75-5(1
 ).
-Example 3:  capital contribution of a tenant in common interest in real property to a partnership
+Example 3: capital contribution of a tenant in common interest in real property to a partnership
 52.
 Steven and Ron had co-owned land, in which they each held a 50% interest, as tenants in common. Steven and Ron decided to develop the land for sale. They formed a general law partnership that they registered for GST
 .
@@ -285,7 +282,7 @@ Both Steven's and Ron's contributions of their respective 50% interests in the l
 [32]
 of the interest, unit or lease at the valuation date prescribed in that subsection.
 58. In applying subsection 75-10(2), the consideration for the acquisition of the real property by the partnership from the partner is an interest in the partnership (that is, non-monetary consideration). It is the value of that interest in the partnership that will be relevant for determining the consideration for the partnership's acquisition of the real property. The value of this interest in the partnership may be reflected by the value of the real property at the time of its acquisition by the partnership.
-Example 4:  partnership supplies before 17 March 2005 real property that was acquired from a partner on or after 1 July 2000
+Example 4: partnership supplies before 17 March 2005 real property that was acquired from a partner on or after 1 July 2000
 59.
 On 1 December 1998, Steve inherited a block of land. At the time, the land was valued at $400,000. In August 2001, Steve and his spouse, Karen, decided to develop the land into residential units to sell. They formed a general law partnership that they registered for GST. Steve contributed the land and Karen contributed cash and other assets amounting to $600,000 into the partnership, in exchange for an interest in the partnership. At the time, the land was valued at $600,000 and this was reflected in the capital accounts of the partnership. The contribution of the land Steve made to the partnership is not a taxable supply, as it is not a supply made in the course or furtherance of an enterprise carried on by Steve
 .
@@ -301,7 +298,7 @@ The margin for the supply is $1,221,000, being the difference between the consid
 63.
 The GST payable by the partnership on this supply is $111,000, being 1/11th of the margin of $1,221,000
 .
-Example 5:  partnership supplies before 17 March 2005 real property that was acquired from a partner before 1 July 2000
+Example 5: partnership supplies before 17 March 2005 real property that was acquired from a partner before 1 July 2000
 64.
 On 30 December 1999, Jim and John formed a general law partnership to carry out a land development business. Jim contributed land valued at $300,000 to the partnership while John contributed cash. The contribution of the land is not a taxable supply as it was made available
 [33]
@@ -327,7 +324,7 @@ unless the other provisions in section 75-11 apply. Subsection 75-11(7) applies 
 an approved valuation of the real property as at 1 July 2000 - if the acquisition was made before 1 July 2000; or
 •
 the GST inclusive market value of the real property at the time of its acquisition - if the acquisition was made on or after 1 July 2000.
-Example 6:  partnership supplies on or after 17 March 2005 real property that was acquired from a partner as a capital contribution
+Example 6: partnership supplies on or after 17 March 2005 real property that was acquired from a partner as a capital contribution
 71.
 On 1 December 2002, Graham and Lynette, who were not carrying on an enterprise, purchased a block of land as tenants in common for $400,000, with each having a 50% interest in the property. On 1 August 2004, they formed a general law partnership and contributed the land to the partnership for the purpose of carrying on a business of land development. The contribution of the land to the partnership was not a taxable supply. The partnership was registered for GST. When the land was contributed to the partnership, its GST inclusive market value was $600,000
 .
@@ -347,7 +344,7 @@ The GST payable by the partnership on this supply is $10,000, being 1/11th of th
 [36]
 of the partnership give rise to a supply or acquisition of the property?
 76. No. A reconstitution of the partnership does not give rise to a supply or acquisition of the real property from one partnership to another partnership because any property held by the partnership prior to its reconstitution is retained by the reconstituted partnership. Therefore, there is no supply to which the margin scheme can apply.
-Example 7:  reconstitution of a general law partnership
+Example 7: reconstitution of a general law partnership
 77.
 Jessica, Lauren, and Sarah formed a general law partnership to carry on a business of land development. In August 2003, it acquired a large piece of land from an unregistered unrelated party for $600,000
 .
@@ -395,7 +392,7 @@ Before 1 July 2000
 Under subsection 75-11(7)
 [41]
 as a partnership and its partners are associates. Margin = supply consideration less an approved valuation of the real property as at 1 July 2000 (refer to paragraph 32 of this Ruling).
-Example 8:  property acquired by partner upon dissolution on or after 1 July 2000 and subsequently supplied before 17 March 2005
+Example 8: property acquired by partner upon dissolution on or after 1 July 2000 and subsequently supplied before 17 March 2005
 85.
 In July 2000, Artie and Bertie who were not registered nor required to be registered for GST, contributed $350,000 each to form a general law partnership to carry on a business of land development. The partnership acquired land for $700,000 in August 2000
 .
@@ -411,7 +408,7 @@ In March 2002, Bertie sold the land to Robert for $1,420,000 and applied the mar
 89.
 The GST payable is $20,000, being 1/11th of the margin of $220,000
 .
-Example 9:  property acquired upon dissolution before 1 July 2000 and subsequently supplied before 17 March 2005
+Example 9: property acquired upon dissolution before 1 July 2000 and subsequently supplied before 17 March 2005
 90.
 Jo and Wendy were in a partnership. The partnership property consisted of land for development. On 14 October 1999, Wendy sold her interest in the partnership to Jo resulting in the partnership being dissolved. The land was distributed to Jo
 .
@@ -421,7 +418,7 @@ Jo registered for GST as from 1 July 2000. She obtained a valuation of the land 
 92.
 Jo calculated the margin for the supply under subsection 75-10(3). The margin is $220,000, being the difference between the consideration for the supply and the valuation (that is, $590,000 less $370,000). The GST payable is $20,000, being 1/11th of the margin of $220,000
 .
-Example 10:  property acquired upon dissolution and subsequently supplied after 17 March 2005
+Example 10: property acquired upon dissolution and subsequently supplied after 17 March 2005
 93.
 George and Jerry contributed $350,000 each on the formation of a general law partnership. The partnership acquired land in July 2000 for $700,000. In December 2004, the land was valued at $1,200,000. In December 2004, George retired from the partnership and sold his interest in the partnership to Jerry for $600,000
 .
@@ -516,7 +513,7 @@ See paragraphs 128 to 147 of Goods and Services Tax Ruling GSTR 2003/13 Goods 
 The date of Royal Assent of the
 Tax Laws Amendment (2005 Measures No. 2) Act 2005.
 [3]
-The general law definition is set out in the Partnership Act of each State and Territory as follows:  subsection 7(1) WA; subsection 5(1) Qld; subsection 5(1) Vic; subsection 1(1) SA; subsection 1(1) NSW; subsection 6(1) ACT; subsection 6(1) Tas; subsection 5(1) NT. This definition is adopted from the common law.
+The general law definition is set out in the Partnership Act of each State and Territory as follows: subsection 7(1) WA; subsection 5(1) Qld; subsection 5(1) Vic; subsection 1(1) SA; subsection 1(1) NSW; subsection 6(1) ACT; subsection 6(1) Tas; subsection 5(1) NT. This definition is adopted from the common law.
 [4]
 Section 184-1.
 [5]
@@ -550,7 +547,7 @@ Income Tax Assessment Act 1936
 [17]
 See paragraph 9 of this Ruling for a more detailed explanation of the application rules relating to subsection 75-11(6).
 [18]
-For a discussion of the Commissioner's view on the meaning of 'selling' in the context of section 75-5, see Goods and Services Tax Ruling GSTR 2009/2 Goods and services tax:  partitioning of land at paragraphs 102 to 110.
+For a discussion of the Commissioner's view on the meaning of 'selling' in the context of section 75-5, see Goods and Services Tax Ruling GSTR 2009/2 Goods and services tax: partitioning of land at paragraphs 102 to 110.
 [19]
 See GSTR 2003/13 at paragraph 59.
 [20]
@@ -608,7 +605,7 @@ Subsection 75-11(7) will apply to calculate the margin for the supply of the re
 Previously issued as GSTR 2008/D2
 References
 ATO references:
-NO  2006/10067
+NO 2006/10067
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

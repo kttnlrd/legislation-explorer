@@ -25,7 +25,7 @@ To partly cover that situation, GST automatically applies to a supply that is no
 
   provide input taxed financial services (s 84-5).
 
-In this situation, the services or rights provided to the recipient will be subject to GST and the GST will be payable by the recipient, not the provider (s 84-10). This “reverse charge” is intended to overcome the fact that the provider will often not be subject to the Australian GST system. For the situation where the recipient is a non-business consumer, see ¶9-120.
+In this situation, the services or rights provided to the recipient will be subject to GST and the GST will be payable by the recipient, not the provider (s 84-10). This "reverse charge" is intended to overcome the fact that the provider will often not be subject to the Australian GST system. For the situation where the recipient is a non-business consumer, see ¶9-120.
 
 *Refs: s 84-5), s 84-10)*
 
@@ -41,11 +41,11 @@ Example A company acquires the right to use a copyright in Australia. The acquis
 
 Supplies of employee services The reverse charge does not apply to amounts paid to an overseas enterprise by its Australian branch for the services of an expatriate employee (s 84-15). This is subject to the proviso that the payment would have been subject to PAYG withholding if it had been paid to the employee by an Australian employer.
 
-Example An employee of an overseas bank is transferred to Australia to work for a local branch. The overseas bank continues to pay the employee’s salary directly, but recoups that salary from the local branch and also charges an administrative fee.
+Example An employee of an overseas bank is transferred to Australia to work for a local branch. The overseas bank continues to pay the employee's salary directly, but recoups that salary from the local branch and also charges an administrative fee.
 
 If the employee had been paid directly by the local branch, the salary would have been subject to PAYG withholding (and not subject to GST). The payment to the overseas bank to reimburse the salary is therefore not subject to the reverse charge rules. However, the reverse charge will apply to the administrative fee.
 
-If a non-resident entity supplies employee services in Australia to its 100% subsidiary, that supply can be disregarded in working out the non-resident’s GST turnover, for the purpose of determining whether it is required to be registered: see ¶3-030.
+If a non-resident entity supplies employee services in Australia to its 100% subsidiary, that supply can be disregarded in working out the non-resident's GST turnover, for the purpose of determining whether it is required to be registered: see ¶3-030.
 
 Financial management and support services Where the reverse charge rule applies to certain management and support services supplied to an Australian financial enterprise by a closely-related overseas entity, a reduced input tax credit may be available (¶10-042).
 

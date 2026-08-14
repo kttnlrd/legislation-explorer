@@ -3,21 +3,16 @@ ATO ID 2003/76
 ==================================================
 
 Income Tax
-        Offshore Banking Unit: Apportioning trust management fees from portfolio investment activity
-        FOI status: may be released
-
+ Offshore Banking Unit: Apportioning trust management fees from portfolio investment activity
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an offshore banking unit (OBU) apportion the fees received from managing a portfolio investment between offshore banking income and non-offshore banking income for the purposes of subsection 121D(6A) of the Income Tax Assessment Act 1936 (ITAA 1936) where there are Australian resident and non-resident investors in an Australian resident unit trust holding foreign assets bought from non-residents with non-Australian currency?
@@ -40,12 +35,8 @@ Subsection 121D(6A) of the ITAA 1936 defines the conditions necessary for portfo
 To be an OB activity, the activity of an Australian resident OBU must be carried on in Australia (paragraph 121EA(a) of the ITAA 1936).
 The key tests for the first condition are contained in paragraph 121D(6A)(a) of the ITAA 1936:
 
-
-
 1. the investment must be a 'portfolio investment' (as defined by subsection 121DA(1) of the ITAA 1936); and
 2. the 'portfolio investment':
-
-
 
 (a)must be managed by the fund manager in its capacity as either a broker, agent, or custodian for a non-resident; or
 (b)must be managed by the fund manager in its capacity as trustee for the benefit of a non-resident.
@@ -61,10 +52,9 @@ Where an agent is appointed to act on the taxpayer's behalf as fund manager, sub
 Taxation Determination TD 93/133, at paragraph 3, makes it clear that:
 
 To be an 'OB activity' the transaction must be made by an OBU. Section 128AE states that trading and savings banks, State banks, other financial institutions and wholly owned subsidiaries of banks which are OBUs may be registered as OBUs. Therefore, where the transaction is entered into before registration as an OBU, the activity is
-              not
-               an OB activity and income from that activity does not get the concessional rate of tax. It also follows that
-              transactions entered into before registration cannot subsequently become OB activities when the entity is registered as an OBU.
-
+ not
+ an OB activity and income from that activity does not get the concessional rate of tax. It also follows that
+ transactions entered into before registration cannot subsequently become OB activities when the entity is registered as an OBU.
 
 Thus only transactions entered into after the taxpayer had been declared an OBU would satisfy the requirements of paragraph 121D(6A)(b) of the ITAA 1936.
 The taxpayer keeps a registry of unit holders which identifies their residency status. The taxpayer can differentiate between fees earned in relation to non-residents and fees earned in relation to residents. Furthermore, the taxpayer can differentiate between fees earned relating to investments before OBU status was granted and fees earned relating to investments after OBU status was granted.
@@ -80,16 +70,16 @@ Comment
 Reasons for Decision
 Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
 
-                  Date of effect 13 September 2021
+ Date of effect 13 September 2021
 
 [1]
 The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
 
 Date of decision:
-         26 November 2002
+  26 November 2002
 
 Year of income:
-           Other/Substituted Accounting Period 2002
+  Other/Substituted Accounting Period 2002
 
 Legislative References:
 
@@ -103,37 +93,33 @@ Taxation Determination TD 93/207
 Keywords
 
 Offshore banking
-          Offshore banking units
-          Offshore banking activities
-          Unit trusts
-          Investment trusts
-
+ Offshore banking units
+ Offshore banking activities
+ Unit trusts
+ Investment trusts
 
 Siebel/TDMS Reference Number:
-         CW3141124
+  CW3141124
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 Date reviewed:
-         12 October 2021
+  12 October 2021
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 26 November 2002

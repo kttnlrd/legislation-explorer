@@ -3,18 +3,14 @@ ATO ID 2009/110
 ==================================================
 
 Income Tax
-        Self Managed Superannuation Funds: exchange traded options - tax treatment of premiums receivable
-        FOI status: may be released
-
-
+ Self Managed Superannuation Funds: exchange traded options - tax treatment of premiums receivable
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a self managed superannuation fund (SMSF) writes an exchange traded option (ETO) as part of a hedging strategy, are the premiums receivable from that activity included as assessable income under either section 6-5 or 15-15 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -26,8 +22,6 @@ The taxpayer holds an investment portfolio composed of ASX listed Australian equ
 The taxpayer writes an ETO over certain of these listed shares on the ASX Options Market as part of a hedging strategy.
 Reasons for Decision
 Paragraph 295-85(2)(a) of the ITAA 1997 provides that where a CGT event happens to a CGT asset of a complying superannuation fund, sections 6-5 and 15-15 of the ITAA 1997 will not apply and instead the CGT provisions will apply. An exception to this is contained in paragraph 295-85(3)(b) of the ITAA 1997 for CGT assets of the Fund that are
-
-
 
 (i)debenture stock, a bond, debenture, certificate of entitlement, bill of exchange, promissory note or other security;
 (ii)a deposit with a bank, building society or other financial institution;
@@ -46,8 +40,8 @@ Paragraph 3.1 of the Explanatory Memorandum to Tax Laws Amendment (Simplified Su
 The Explanatory Memorandum accompanying Tax Laws Amendment Bill (No.2) 1986 which introduced Division 16E of the ITAA 1936 provided:
 
 "security" has been defined very widely...so as to encompass as many financial transactions as possible
-              where there may be a deferral in the payment of income
-              ."
+ where there may be a deferral in the payment of income
+ ."
 
 The Commissioner has previously stated in Taxation Ruling TR 96/14, that the Division 16E of the ITAA 1936 definition of 'security' contained in subsection 159GP(1) of the ITAA 1936 applies only to debt securities or contracts that create debt-like obligations.
 Likewise, paragraph 295-85(3)(b) of the ITAA 1997 only encompasses debt securities or contracts that create debt-like obligations and therefore the phrase 'or other security' in subparagraph 295-85(3)(b)(i) of the ITAA 1997 covers only debt arrangements.
@@ -61,7 +55,6 @@ As no exceptions in either subsection 295-85(3) or 295-85(4) of the ITAA 1997 ap
 CGT Event D2 will apply on the writing of an ETO by the Fund. The Fund as grantor of the option will make a capital gain (or loss) of the difference between the capital proceeds (that is, the premium receivable) and the cost of granting the option (for example, brokerage fees) at the time the option is granted (subsection 104-40(3) of the ITAA 1997).
 Any capital gain arising under CGT event D2 is not eligible for the CGT discount (subsection 115-25(3) of the ITAA 1997).
 
-
 Note 1: Where the fund has an open position at the end of the income year, the market value of that position is not deductible (ATO ID 2006/313)
 
 Note 2: Any Initial or variation margin payments are not deductible (Taxation Determination TD 2006/25)
@@ -69,10 +62,10 @@ Note 2: Any Initial or variation margin payments are not deductible (Taxation De
 Note 3: Section 134-1 of the ITAA 1997 sets out the consequences if the option is exercised.
 
 Date of decision:
-         28 September 2009
+  28 September 2009
 
 Year of income:
-           Income year ending 30 June 2010
+  Income year ending 30 June 2010
 
 Legislative References:
 
@@ -92,27 +85,25 @@ Related ATO Interpretative Decisions
 Other References:
 
  Explanatory Memorandum to Tax Laws Amendment Bill (No. 2) 1986
-           Explanatory Memorandum to Tax Laws Amendment (Simplified Superannuation) Bill 2006
-
+ Explanatory Memorandum to Tax Laws Amendment (Simplified Superannuation) Bill 2006
 
 Keywords
 
 Self managed superannuation funds
-          Derivatives
-          Capital gains tax
-
+ Derivatives
+ Capital gains tax
 
 Siebel/TDMS Reference Number:
-         1-1R4674D; 1-602HYCB
+  1-1R4674D; 1-602HYCB
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         23 October 2009
+  23 October 2009
 
 Date reviewed:
-         12 November 2014
+  12 November 2014
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **(3)**  Subsection (2) applies in relation to a non-cash dividend described in section RF 10 as if the amount equal to the amount of tax for the dividend were the amount payable.
 
-**Commissioner’s powers to recover**
+**Commissioner's powers to recover**
 
 **(4)**  In recovering the amount, the Commissioner may take the steps the Commissioner thinks fit in relation to person A or person B, whether or not they are the same person.
 

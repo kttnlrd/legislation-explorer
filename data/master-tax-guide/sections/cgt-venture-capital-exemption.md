@@ -51,17 +51,17 @@ Exemption for profits on venture capital investments The exemption is available 
 
   dividends, royalties or lease payments (ss 118-425; 118-427).
 
-In addition, the total amount invested by the partnership in all the debt and equity interests held in the company or unit trust, and any of its connected entities must not exceed 30% of the partnership’s committed capital.
+In addition, the total amount invested by the partnership in all the debt and equity interests held in the company or unit trust, and any of its connected entities must not exceed 30% of the partnership's committed capital.
 
 Eligibility for the exemption also applies to investments in the holding company of a corporate group that satisfy certain requirements. The requirements vary according to whether the investment is being made into a new company or an existing holding company.
 
 An eligible venture capital investment cannot be made into an entity whose asset value, together with that of any connected entity, exceeds $50 million (in the case of an ESVCLP) or $250 million (in any other case) immediately before the investment is made. However, an investment in an entity that is acquired from a group whose asset value is greater than the relevant amount will qualify for the concession if, after the investment is made, the entity will not be connected to the group (s 118-440).
 
-ESVCLPs are not required to divest a company when its value exceeds $250 million (¶20-700). However, if an ESVCLP does not dispose of an investment in an entity within 6 months after the end of an income year in which the investee’s market value exceeds $250 million, then the ESVCLP will only be entitled to a partial CGT exemption equal to the amount of the exempt capital gain that would have arisen had the investment been sold at the end of 6 months after the income year in which the $250 million threshold was ﬁrst exceeded (s 118-408).
+ESVCLPs are not required to divest a company when its value exceeds $250 million (¶20-700). However, if an ESVCLP does not dispose of an investment in an entity within 6 months after the end of an income year in which the investee's market value exceeds $250 million, then the ESVCLP will only be entitled to a partial CGT exemption equal to the amount of the exempt capital gain that would have arisen had the investment been sold at the end of 6 months after the income year in which the $250 million threshold was ﬁrst exceeded (s 118-408).
 
 Exemption for foreign resident pension funds A foreign resident tax-exempt pension fund that invests in venture capital in an Australian company or ﬁxed trust (a resident investment vehicle) can disregard a capital gain or capital loss it makes from a CGT event that happens to the shares or trust interests if: (i) the entity is registered under the Pooled Development Funds Act 1992; and (ii) the entity owned the shares or interests for at least 12 months (Subdiv 118-G: ss 118-500 to 118-525).
 
-A capital gain or loss is disregarded if it is made from a CGT event happening to “venture capital equity” that was acquired by a “venture capital entity” and that, at the time of the CGT event, was owned by that entity and had been owned by that entity for at least 12 months (s 118-505).
+A capital gain or loss is disregarded if it is made from a CGT event happening to "venture capital equity" that was acquired by a "venture capital entity" and that, at the time of the CGT event, was owned by that entity and had been owned by that entity for at least 12 months (s 118-505).
 
 *Refs: s 118-425, s 118-440), s 118-408), s
 118-500, s 118-505)*
@@ -80,11 +80,11 @@ A capital gain or loss is disregarded if it is made from a CGT event happening t
 
   118-515(1)).
 
-A partner in a partnership of venture capital entities is eligible for the exemption if the venture capital equity in a resident investment vehicle is provided through the partnership. In the case of a limited partnership, the concession is available to the partners if: (i) all the partners, other than the general partner or managing partner, are venture capital entities; and (ii) the general or managing partner’s interest in the partnership is less than 10% of the value of the total assets of the partnership (s 118-515(2)).
+A partner in a partnership of venture capital entities is eligible for the exemption if the venture capital equity in a resident investment vehicle is provided through the partnership. In the case of a limited partnership, the concession is available to the partners if: (i) all the partners, other than the general partner or managing partner, are venture capital entities; and (ii) the general or managing partner's interest in the partnership is less than 10% of the value of the total assets of the partnership (s 118-515(2)).
 
-A CGT asset is “venture capital equity” if it is a share in a company or an interest in a trust where:
+A CGT asset is "venture capital equity" if it is a share in a company or an interest in a trust where:
 
-- the company or trust is a “resident investment vehicle”, ie an Australian resident which does
+- the company or trust is a "resident investment vehicle", ie an Australian resident which does
 
   not have total assets exceeding $50 million at the time of the new investment (including the new
 
@@ -114,4 +114,4 @@ However, a share or interest is not venture capital equity if it is connected to
 
 ## To qualify as an eligible venture capital investment, the investment must:
 
-## An entity is a “venture capital entity” if:
+## An entity is a "venture capital entity" if:

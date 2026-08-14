@@ -26,9 +26,9 @@ compilation_date: 2026-06-06
 
 **(3)**  In the formula,—
 
-- (a) tax credits is the greater of zero and the amount calculated from the total amount of the company’s R&D loss tax credits, for tax years before and including the credit year, minus the total amount of—
+- (a) tax credits is the greater of zero and the amount calculated from the total amount of the company's R&D loss tax credits, for tax years before and including the credit year, minus the total amount of—
 
-  - (i) the company’s terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the period beginning with the earliest credit year and ending with the tax year before the current year:
+  - (i) the company's terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the period beginning with the earliest credit year and ending with the tax year before the current year:
 
   - (ii) earlier payments of R&D repayment tax relating to the R&D loss tax credits for credit years before the current year:
 

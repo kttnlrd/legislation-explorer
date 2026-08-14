@@ -3,18 +3,14 @@ ATO ID 2010/12
 ==================================================
 
 Excise
-        Excise: home consumption - delivered - periodic settlement permission
-        FOI status: may be released
-
-
+ Excise: home consumption - delivered - periodic settlement permission
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are excisable goods still subject to the Commissioner's control at the time of their destruction, if they are destroyed after they have been sold, and after preparation of documents required by their periodic settlement permission, but before they were physically removed from the licensed premises?
@@ -28,11 +24,7 @@ The excisable goods were loaded onto a truck.
 The excisable goods were accidentally destroyed on the truck prior to the goods being physically removed from the licensed place.
 The entity's periodic settlement permission was issued subject to the following condition (which is commonly included in periodic settlement permissions):
 
-
-
 (a)Before each delivery of the goods the Permission Holder shall raise a document, being one of a consecutively numbered system of documents, related to the delivery time and containing the following particulars:
-
-
 
 (i)the quantity and description of the goods to be delivered; and
 (ii)the name of the person to whom the goods will be delivered.
@@ -63,7 +55,7 @@ Whilst the Caltex Case discusses the concept of 'deliver for home consumption' i
 Based on the reasoning in the Caltex Case, excisable goods are generally delivered into home consumption when they are physically delivered from the licensed premises (although excisable goods that are consumed on the licensed premises are also considered to have been delivered for home consumption).
 It follows that where an entity has sold goods and prepared the appropriate documentation under their periodic settlement permission, but the goods have not yet left the licensed premises, they remain under the CEO's control.
 Date of decision:
-         22 December 2009
+  22 December 2009
 
 Legislative References:
 
@@ -71,30 +63,27 @@ Excise Act 1901   section 4   subsection 61(1)   section 61C
 
 Case References:
 
-
 Caltex Australia Petroleum Pty Ltd v Commissioner of Taxation   [2008] FCA 1951
 
 Moama Refinery Pty Ltd v Chief Executive Officer of Customs   [2001] FCA 1287   49 ATR 114   48 ATR 145
 
-
 Keywords
 
 Delivered for home consumption
-          Excisable goods
-          Excise
-          Excise collections
-          Licensing
-          Weekly settlement permission
-
+ Excisable goods
+ Excise
+ Excise collections
+ Licensing
+ Weekly settlement permission
 
 Siebel/TDMS Reference Number:
-         6310565
+  6310565
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         15 January 2010
+  15 January 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

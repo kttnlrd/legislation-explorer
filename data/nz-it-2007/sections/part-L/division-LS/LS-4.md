@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)**  The investor has a tax credit that may be used to satisfy their income tax liability for the tax year equal to any amount paid by the PIE under section HM 43(4) (Quarterly calculation option) to the Commissioner after the investor exits from the PIE for the residual value of the investor interest of the investor.
 
-**Credit for PIE’s other tax credits**
+**Credit for PIE's other tax credits**
 
 **(4)**  An exiting investor also has a tax credit for the tax year for the amount determined under section HM 54 (Use of tax credits other than foreign tax credits by investors) for tax paid or withheld.
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Timing**
 
-**(5)**  The investor has the tax credit for the tax year corresponding to the income year in which the PIE’s tax year ends.
+**(5)**  The investor has the tax credit for the tax year corresponding to the income year in which the PIE's tax year ends.
 
 *Defined in this Act: attributed PIE income, exit period, income tax liability, income year, investor, investor interest, multi-rate PIE, natural person, pay, PIE, resident in New Zealand, tax credit, tax year*
 

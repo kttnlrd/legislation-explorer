@@ -13,7 +13,7 @@ paragraph: "¶31-620"
 
 - the potential for maintaining the status of pre-CGT assets
 
-- the possible loss of an asset’s pre-CGT status where the underlying beneﬁcial interests change
+- the possible loss of an asset's pre-CGT status where the underlying beneﬁcial interests change
 
 - the diminution of the value of pre-CGT assets
 

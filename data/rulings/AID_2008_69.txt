@@ -3,22 +3,18 @@ ATO ID 2008/69
 ==================================================
 
 Goods and Services Tax
-        GST and whether a resident company incorporated overseas is in Australia in relation to a supply of services
-        FOI status: may be released
-
+ GST and whether a resident company incorporated overseas is in Australia in relation to a supply of services
+ FOI status: may be released
 
 This ATO ID was amended to clarrify the ATO position and/or update legislative references.
 
-              With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in  subsection 195-1 of the GST Act.
-
+ With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is Entity X, a resident company, making a GST-free supply under item 3 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it supplies services to Entity Y, a company incorporated outside Australia that has its central management and control in Australia and carries on its entire core business in Australia through Entity X?
@@ -37,14 +33,10 @@ The term 'recipient', in relation to a supply, is defined in section 195-1 of th
 The 'not in Australia' requirement present in Item 3 is in effect a proxy test for determining place of consumption. The term 'not in Australia' should be interpreted in the context of the supply in question. The requirement that a recipient not be in Australia is, in the Tax Office's view, a requirement that a recipient not be in Australia 'in relation to the supply'.
 The Tax Office considers that a company not incorporated in Australia is 'in Australia' if it carries on business in Australia:
 
-
-
 •at or through a fixed and definite place of its own for a sufficiently substantial period of time; or
 •through an agent at a fixed and definite place for a sufficiently substantial period of time.
 
 If it is established that such a company is in Australia, the Tax Office considers that the company will be in Australia 'in relation to the supply' if:
-
-
 
 •the supply is for the purposes of the Australian presence of the company; or
 •the presence of the company in Australia is involved in the supply, unless the involvement is minor.
@@ -54,13 +46,12 @@ Entity X's supply, which essentially amounts to the carrying on of Entity Y's co
 The mere fact that Entity Y is incorporated overseas is not, of itself, sufficient reason to conclude that Entity Y is not in Australia in relation to Entity X's supply. In keeping with Item 3 being a proxy place of consumption test, such a conclusion could only be reached if a sufficient connection existed between Entity X's supply and Entity Y's overseas presence. In this case no such connection exists. At most, Entity Y's overseas presence may undertake some incidental activities, such as the provision of minor administrative and support services. The relationship between Entity X's supply of services and Entity Y's overseas presence is not such that the services could reasonably be thought of as being for consumption by the overseas presence.
 As Entity Y is in Australia in relation to Entity X's supply, the supply is not GST-free under Item 3 in the table in subsection 38-190(1) of the GST Act. The supply will be a taxable supply if the requirements of section 9-5 of the GST Act are met.
 
-
 Note (1) - this scenario can be contrasted with the scenario discussed in paragraphs 374 to 379 of Goods and Services Tax Ruling GSTR 2004/7 which involves the provision of agency services by a resident to a non-resident company.
 
 Note (2) - in this case, subsection 38-190(4) of the GST Act has no application, as Entity X's services are not provided, nor does the agreement between Entity X and Entity Y require that they be provided, to another entity outside Australia.
 
 Date of decision:
-         30 April 2008
+  30 April 2008
 
 Legislative References:
 
@@ -73,20 +64,19 @@ Goods and Services Tax Ruling GSTR 2004/7
 Keywords
 
 Goods and services tax
-          GST international services
-          Consumption outside Australia
-          GST offshore supplies
-          GST resident agents
-
+ GST international services
+ Consumption outside Australia
+ GST offshore supplies
+ GST resident agents
 
 Siebel/TDMS Reference Number:
-         5837326
+  5837326
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         9 May 2008
+  9 May 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

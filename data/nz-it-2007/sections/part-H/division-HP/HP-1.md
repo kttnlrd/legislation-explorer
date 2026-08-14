@@ -22,9 +22,9 @@ compilation_date: 2026-06-06
 
 **(3)**  If a constituent entity (entity B) that is a member of the same MNE group as entity A leaves the MNE group, entity B is relieved from liability under subsection (2) for a fiscal year if—
 
-- (a) the assessment of entity A’s multinational top-up tax liability for the fiscal year is made after entity B leaves the MNE group; and
+- (a) the assessment of entity A's multinational top-up tax liability for the fiscal year is made after entity B leaves the MNE group; and
 
-- (b) the amount assessed is more than an earlier assessment of entity A’s multinational top-up tax liability for the fiscal year; and
+- (b) the amount assessed is more than an earlier assessment of entity A's multinational top-up tax liability for the fiscal year; and
 
 - (c) the Commissioner considers that the removal of the liability will not significantly prejudice the recovery, or likely recovery, of the amount of multinational top-up tax assessed for the fiscal year; and
 

@@ -3,18 +3,14 @@ ATO ID 2002/237
 ==================================================
 
 Goods and Services Tax
-        GST and the sale of a going concern where the trading name is not sold but is licensed to the purchaser
-        FOI status: may be released
-
-
+ GST and the sale of a going concern where the trading name is not sold but is licensed to the purchaser
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, making a GST-free supply of a going concern under section 38-325 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells all things necessary for the continued operation of its business except for the trading name, which it licenses to the purchaser?
@@ -28,8 +24,6 @@ The purchaser is registered for goods and services tax (GST).
 Reasons for Decision
 The 'supply of a going concern' is GST-free where the requirements of section 38-325 of the GST Act are met.
 Subsection 38-325(2) of the GST Act provides that a 'supply of a going concern' is a supply under an arrangement under which:
-
-
 
 •the supplier supplies to the recipient all of the things that are necessary for the continued operation of an enterprise; and
 •the supplier carries on, or will carry on, the enterprise until the day of the supply (whether or not as part of a larger enterprise carried on by the supplier).
@@ -56,8 +50,6 @@ Paragraph 100 of GSTR 2002/5 means that the entity can grant the licence over th
 Accordingly, the entity supplies to the purchaser all of the things necessary for the continued operation of the enterprise. Therefore, the entity makes a supply of a going concern under subsection 38-325(2) of the GST Act.
 Subsection 38-325(1) of the GST Act provides that a 'supply of a going concern' is GST-free if:
 
-
-
 •the supply is for consideration; and
 •the recipient is registered or required to be registered for GST; and
 •the supplier and the recipient have agreed in writing that the supply is of a going concern.
@@ -65,13 +57,11 @@ Subsection 38-325(1) of the GST Act provides that a 'supply of a going concern' 
 The supply of the business and the trading name is for consideration, the purchaser is registered for GST and the entity and the purchaser have agreed in writing that the supply is of a going concern. As such, the requirements in subsection 38-325(1) of the GST Act are satisfied.
 Therefore, the entity makes a GST-free supply of a going concern under section 38-325 of the GST Act.
 
-
-
 Note:
-                 The licence can, but does not need to be granted before the day of the supply. The licence cannot be granted after the day of the supply.
+ The licence can, but does not need to be granted before the day of the supply. The licence cannot be granted after the day of the supply.
 
 Date of decision:
-         28 November 2001
+  28 November 2001
 
 Legislative References:
 
@@ -84,18 +74,17 @@ GSTR 2002/5
 Keywords
 
 Goods & services tax
-          GST free
-          GST supply of a going concern
-
+ GST free
+ GST supply of a going concern
 
 Siebel/TDMS Reference Number:
-         CW241724
+  CW241724
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         14 March 2002
+  14 March 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

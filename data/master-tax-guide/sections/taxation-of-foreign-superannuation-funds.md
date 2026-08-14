@@ -19,11 +19,11 @@ Foreign superannuation fund
 
   (ITAA97 s 995-1(1)).
 
-An Individual Retirement Account in the USA is not a “foreign superannuation fund” (or a scheme payment “in the nature of superannuation”) for the purposes of concessional tax treatment under ITAA97 s 305-80 (see Baker’s case: ¶14-420).
+An Individual Retirement Account in the USA is not a "foreign superannuation fund" (or a scheme payment "in the nature of superannuation") for the purposes of concessional tax treatment under ITAA97 s 305-80 (see Baker's case: ¶14-420).
 
 A foreign superannuation fund is exempt from ordinary income tax in respect of all interest derived from Australia and dividends from Australian resident companies. Provided the fund is exempt from tax in its own country, it is also exempt from withholding tax on such income.
 
-A non-resident that derives dividends and interest paid by Australian residents is generally subject to withholding tax on the payments (see ¶22-010 and ¶22-020). A withholding exemption applies to interest and dividend (including non-share dividend) income derived by a non-resident that is a “superannuation fund for foreign residents” as deﬁned in ITAA97 s 118-520 (ID 2009/67: foreign retirement plan) (ITAA36 ss 128B(1); 128B(3)(jb)).
+A non-resident that derives dividends and interest paid by Australian residents is generally subject to withholding tax on the payments (see ¶22-010 and ¶22-020). A withholding exemption applies to interest and dividend (including non-share dividend) income derived by a non-resident that is a "superannuation fund for foreign residents" as deﬁned in ITAA97 s 118-520 (ID 2009/67: foreign retirement plan) (ITAA36 ss 128B(1); 128B(3)(jb)).
 
 From 1 July 2019, the withholding tax exemption for superannuation funds for foreign residents under s 128B(3)(jb) is restricted to income derived from portfolio-like investments, subject to a 7-year transitional rule for assets acquired by funds on or before 27 March 2018 (s 128B(3CA) to (3CE)) (LCR 2020/3).
 
@@ -33,4 +33,4 @@ The venture capital CGT exemption for superannuation funds for foreign residents
 
 *Refs: ITAA97 s 995-1(1)), ITAA97 s 305-80, ITAA97 s 118-520*
 
-## A superannuation fund is a “foreign superannuation fund”:
+## A superannuation fund is a "foreign superannuation fund":

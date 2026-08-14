@@ -3,20 +3,16 @@ ATO ID 2003/423
 ==================================================
 
 Goods and Services Tax
-        GST and non-cash basis attribution rules for the operator of a Queensland retirement village when residents deposit money into the maintenance reserve fund
-        FOI status: may be released
+ GST and non-cash basis attribution rules for the operator of a Queensland retirement village when residents deposit money into the maintenance reserve fund
+ FOI status: may be released
 
-
-This ATO ID has been amended to improve clarity and remove reference to related  ATO ID 2003/424
-
+This ATO ID has been amended to improve clarity and remove reference to related ATO ID 2003/424
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, an operator of a Queensland retirement village that accounts for goods and services tax (GST) on a non-cash basis, attribute the GST payable on a taxable supply of maintenance services under subsection 29-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) to the tax period in which a resident's contribution is deposited into the entity's maintenance reserve fund (MRF), where the entity does not issue an invoice for the supply?
@@ -34,8 +30,6 @@ Reasons for Decision
 Subsection 29-5(1) of the GST Act sets out the attribution requirements for an entity that accounts on a non-cash basis. This provision states that:
 The GST payable by an entity on a taxable supply is attributable to:
 
-
-
 a) the tax period in which any of the consideration is received for the supply; or
 b) if, before any of the consideration is received, an invoice is issued relating to the supply - the tax period in which the invoice is issued.
 
@@ -44,7 +38,7 @@ When a resident's contribution is deposited into the MRF, the entity holds the a
 The Retirement Villages Act determines when the entity is entitled to withdraw funds from the MRF for maintaining the village. When the entity maintains the capital items of the village, in accordance with the purposes set out in subsection 97(3) of the Retirement Villages Act, it is entitled to withdraw funds from the MRF to pay for the provision of those services. It is at this point that the entity is receiving consideration for its supply.
 Therefore, the entity does not attribute the GST payable on a taxable supply under subsection 29-5(1) of the GST Act to the tax period in which the resident's contribution is deposited into the MRF. As the entity does not issue an invoice for the supply, the entity attributes the GST payable for the taxable supply of maintenance services to the tax period when it withdraws any amount from the MRF as consideration for the supply of maintenance services. For instance, if the entity made a supply to residents of maintenance services at a price of $1,100, but only withdrew $900 from an MRF as part payment, the GST payable on the services which is attributable to that tax period is $100 (one-eleventh of $1,100).
 Date of decision:
-         31 October 2002
+  31 October 2002
 
 Legislative References:
 
@@ -58,21 +52,20 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST tax periods
-          Attribution rules
-          Non cash basis
-          GST property and construction
-          GST retirement villages
-
+ GST tax periods
+ Attribution rules
+ Non cash basis
+ GST property and construction
+ GST retirement villages
 
 Siebel/TDMS Reference Number:
-         3353336
+  3353336
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         30 May 2003
+  30 May 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -2,14 +2,14 @@
 act: "Australian Master Tax Guide"
 part: "25"
 section: "guidelines-on-access-to-accountants-papers"
-title: "Guidelines on access to accountants’ papers"
+title: "Guidelines on access to accountants' papers"
 paragraph: "¶25-230"
 ---
-# Guidelines on access to accountants’ papers ¶25-230
+# Guidelines on access to accountants' papers ¶25-230
 
-While the Commissioner considers that he has the power to request access to most documents (¶25-220), he also recognises that there are certain classes of documents that should generally remain within the conﬁdence of taxpayers and their professional accounting advisers. This concession by the ATO is known as the accountants’ concession, as set out in its webpage, “Guidelines to accessing professional accounting advisers’ papers”. The guidelines apply not only to documents sought under the access power (¶25-220), but also to requests to external accountants to furnish information and produce papers (¶25-240). The main features of the guidelines are as follows.
+While the Commissioner considers that he has the power to request access to most documents (¶25-220), he also recognises that there are certain classes of documents that should generally remain within the conﬁdence of taxpayers and their professional accounting advisers. This concession by the ATO is known as the accountants' concession, as set out in its webpage, "Guidelines to accessing professional accounting advisers' papers". The guidelines apply not only to documents sought under the access power (¶25-220), but also to requests to external accountants to furnish information and produce papers (¶25-240). The main features of the guidelines are as follows.
 
-- The Commissioner will exercise his right of access without restriction to “source” documents, ie
+- The Commissioner will exercise his right of access without restriction to "source" documents, ie
 
   those documents that are prepared in connection with the conception, implementation and formal
 
@@ -23,7 +23,7 @@ While the Commissioner considers that he has the power to request access to most
 
 Commissioner regards documents prepared before the completion of a tax return, and showing an analysis of shareholdings to establish continuity of ownership, as source documents (TD 93/222).
 
-- The Commissioner will generally not seek access to “non-source” documents, except in
+- The Commissioner will generally not seek access to "non-source" documents, except in
 
   exceptional cases such as cases of fraud, evasion or other illegality (Stewart [2011] FCA 336)
 
@@ -37,7 +37,7 @@ Commissioner regards documents prepared before the completion of a tax return, a
 
   account or tax return.
 
-- Access to certain source documents called “restricted source” documents will be sought only
+- Access to certain source documents called "restricted source" documents will be sought only
 
   in the exceptional circumstances applicable to non-source documents. These documents are
 

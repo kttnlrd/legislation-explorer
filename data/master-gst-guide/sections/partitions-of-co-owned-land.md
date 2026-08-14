@@ -15,7 +15,7 @@ There is a partition of land where it is divided up and redistributed among the 
 
 - this also applies even if the partition is made by the parties pursuant to a court direction. Although
 
-  there cannot be a supply unless the supplier “does something” (¶4-010), that does not mean that the
+  there cannot be a supply unless the supplier "does something" (¶4-010), that does not mean that the
 
   act must be voluntary
 

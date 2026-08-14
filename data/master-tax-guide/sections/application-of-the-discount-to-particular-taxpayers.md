@@ -45,9 +45,9 @@ It was proposed that managed investment trusts (MITs) and attribution MITs (AMIT
 
 Listed investment companies Normally, a shareholder receiving a distribution of a capital gain as a dividend does not beneﬁt from any CGT discount that may have been available if the shareholder had made the capital gain directly. However, there is an exception to this rule in the case of dividends from listed investment companies (LICs). This exception enables resident shareholders in LICs to beneﬁt from the CGT discount on assets realised by the LIC, provided that the assets have been held for more than 12 months. In eﬀect, those LIC shareholders who receive a dividend that is attributable to a capital gain will be allowed a deduction that reﬂects the CGT discount the shareholder could have claimed if they had made the capital gain directly. For example, in the case of a resident individual shareholder, the deduction will be equal to 50% of the attributable part, but if the shareholder is a complying superannuation entity, an FHSA trust or a life insurance company, the deduction will be 33⅓%. An LIC will be required to maintain records so that it can advise shareholders of the attributable part included in each dividend it pays.
 
-The eﬀect of this measure (Subdiv 115-D) is that LIC dividends have a broadly similar tax outcome to distributions made to members of managed funds. The Commissioner’s views on the operation of this measure are set out in TR 2005/23.
+The eﬀect of this measure (Subdiv 115-D) is that LIC dividends have a broadly similar tax outcome to distributions made to members of managed funds. The Commissioner's views on the operation of this measure are set out in TR 2005/23.
 
-A foreign resident individual may access the deduction where a dividend is received through the individual’s permanent establishment in Australia.
+A foreign resident individual may access the deduction where a dividend is received through the individual's permanent establishment in Australia.
 
 *Refs: s
 102-5), s 110-36(2)*

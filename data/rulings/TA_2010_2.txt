@@ -4,11 +4,9 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 290
+ • Division 290
 
 Topics: Trusts, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -26,8 +24,8 @@ TA 2010/2 (Withdrawn)
 Circumvention of Excess Contributions Tax
 The Alert is withdrawn. Following a review of these arrangements, the ATO has concluded that some trust deed clauses may prevent a payment to a trustee of a superannuation fund from forming part of the fund and therefore from being a contribution for excess contributions tax and other purposes.
 Whether a particular clause has that effect, and whether it applies to all or only some categories of payments, depends on the proper construction of the clause considered in the context of the surrounding provisions of the trust deed and the deed as a whole.
-If a clause has the effect of preventing payments from being contributions, the payer is not entitled to the income tax deductions available for superannuation contributions.  Such payments are likely to be subject to a separate trust. The beneficiary of the separate trust must account for income tax on the earnings of the trust in accordance with the income tax law. Failure to account for income tax in accordance with the clause and keep proper records may give rise to penalties and interest liabilities.
-If the trustee does not take proper care to determine whether payments form part of the superannuation fund and wrongly intermingles payments that do not form part of the fund with assets of the fund, the trustee will breach its duties as trustee.  This may be relevant to whether the trustee is a fit and proper person to act as trustee of a self managed superannuation fund.
+If a clause has the effect of preventing payments from being contributions, the payer is not entitled to the income tax deductions available for superannuation contributions. Such payments are likely to be subject to a separate trust. The beneficiary of the separate trust must account for income tax on the earnings of the trust in accordance with the income tax law. Failure to account for income tax in accordance with the clause and keep proper records may give rise to penalties and interest liabilities.
+If the trustee does not take proper care to determine whether payments form part of the superannuation fund and wrongly intermingles payments that do not form part of the fund with assets of the fund, the trustee will breach its duties as trustee. This may be relevant to whether the trustee is a fit and proper person to act as trustee of a self managed superannuation fund.
 Further information is available in the fact sheet '
 Fund Rules Intended to Prevent Excess Contributions Tax
 '.
@@ -54,7 +52,7 @@ This alert applies to arrangements with features that are substantially equivale
 The trust deed of an SMSF is amended to insert specific clauses, or a new SMSF is established with such clauses included in its deed, in the belief that the presence of such clauses prevents a member from ever being subject to the excess contributions tax.
 2.
 A member makes contributions to the SMSF which in total exceed the member's contributions caps. The superannuation law does not generally allow the trustee to return all or part of any one of the contributions made for the member.
-An exception allows the trustee of an SMSF to return all or part of a single contribution in very limited circumstances.  For example, if a single non-concessional contribution exceeds $150,000 for a member aged 65 or more on 1 July of the financial year the trustee must return the excess amount. The trustee must also return the part of a single non-concessional contribution that exceeds $450,000 for a member aged 64 or less on 1 July of the financial year. (ATO ID 2007/225 explains how the SIS Regulations apply to a single contribution).
+An exception allows the trustee of an SMSF to return all or part of a single contribution in very limited circumstances. For example, if a single non-concessional contribution exceeds $150,000 for a member aged 65 or more on 1 July of the financial year the trustee must return the excess amount. The trustee must also return the part of a single non-concessional contribution that exceeds $450,000 for a member aged 64 or less on 1 July of the financial year. (ATO ID 2007/225 explains how the SIS Regulations apply to a single contribution).
 3.
 The contributions are intermingled with the assets of the SMSF.
 4.

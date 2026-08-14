@@ -3,18 +3,14 @@ ATO ID 2005/306
 ==================================================
 
 Goods and Services Tax
-        GST and unclaimed money from the cancellation of lay-by sales
-        FOI status: may be released
-
-
+ GST and unclaimed money from the cancellation of lay-by sales
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is unclaimed money held by the entity, a retailer in Victoria, for a customer in relation to a cancelled lay-by sale and to be paid to the Registrar, as required by the Unclaimed Moneys Act 1962 (Vic) if it remains unclaimed, treated as consideration for a supply made by the entity under section 102-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -23,8 +19,6 @@ No, the unclaimed money is not treated as consideration for a supply made by the
 Facts
 The entity is a retailer located in Victoria and is registered for goods and services tax (GST). The entity enters into a lay-by agreement with a customer to sell goods. The customer makes an initial payment then fails to make any other payments on the lay-by. The entity cancels the agreement and holds the initial payment for the customer to collect.
 For purposes of the Unclaimed Moneys Act:
-
-
 
 •the amount held by the entity will be 'unclaimed moneys' if it remains unclaimed by the customer for 12 months or more
 •businesses are required to pay 'unclaimed moneys' to the Registrar, for payment into the consolidated fund, on or before 31 March each year (or a later date approved in writing by the Registrar in any particular case), and
@@ -35,17 +29,15 @@ Reasons for Decision
 Section 102-5 of the GST Act provides, amongst other things, that if a supply by way of lay-by sale is cancelled, any amount retained or recovered by the supplier because of the cancellation is treated as consideration for a supply made by the supplier.
 Although the entity has the customer's initial payment, the entity is holding this money for the customer to collect. If it remains unclaimed for 12 months or more it becomes 'unclaimed moneys' under the Unclaimed Moneys Act and the entity will be required to forward the money to the Registrar. The entity does not have any right to take the money into its revenue and use it for its own purposes. The entity is merely holding the money on trust for the customer. The entity does not retain the money for the purposes of section 102-5 of the GST Act. This means the money is not treated as consideration for a supply.
 
-
 Note: if the lay-by agreement provides that the entity may take money into its revenue from payments made by the customer, say 10% of the price of the sale, this amount would be an amount retained by the entity and treated under section 102-5 of the GST Act as consideration for a supply made by the entity.
 
 Date of decision:
-         7 December 2004
+  7 December 2004
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   section 102-5
 Unclaimed Moneys Act 1962 (Vic)   
-
 
 Related Public Rulings (including Determinations)
 
@@ -54,20 +46,19 @@ GSTR 2000/12
 Keywords
 
 Goods and services tax
-          GST special rules
-          GST lay by sales
-          GST supplies & acquisitions
-          GST consideration
-
+ GST special rules
+ GST lay by sales
+ GST supplies & acquisitions
+ GST consideration
 
 Siebel/TDMS Reference Number:
-         4095286
+  4095286
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         11 November 2005
+  11 November 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

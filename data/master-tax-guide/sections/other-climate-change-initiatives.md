@@ -11,7 +11,7 @@ Withholding tax incentive for green buildings A ﬁnal withholding tax rate of 1
 
 Emissions Reduction Fund The Emissions Reduction Fund (ERF) enacted by the Carbon Credits (Carbon Farming Initiative) Act 2011 is a voluntary scheme administered by the Clean Energy Regulator to encourage organisations and individuals to adopt practices and technologies to reduce their emissions.
 
-A number of activities are eligible under the scheme and participants can earn Australian carbon credit units or ACCUs (¶19-130) for emissions reductions. The ERF also has a safeguard mechanism to reduce emissions at Australia’s largest industrial facilities. Reforms to the safeguard mechanism include, from 1 July 2023, the creation of a tradable credit known as the Safeguard Mechanism Credit (SMC) if facilities covered by the mechanism stay below their commitments for emission reductions (Safeguard Mechanism (Crediting) Amendment Act 2023). For the proposed tax treatment of SMCs see ¶19-130.
+A number of activities are eligible under the scheme and participants can earn Australian carbon credit units or ACCUs (¶19-130) for emissions reductions. The ERF also has a safeguard mechanism to reduce emissions at Australia's largest industrial facilities. Reforms to the safeguard mechanism include, from 1 July 2023, the creation of a tradable credit known as the Safeguard Mechanism Credit (SMC) if facilities covered by the mechanism stay below their commitments for emission reductions (Safeguard Mechanism (Crediting) Amendment Act 2023). For the proposed tax treatment of SMCs see ¶19-130.
 
 FBT exemptions for low emissions technologies Exemptions from FBT are available for certain low emissions vehicles beginning from the 2022–23 FBT year (¶35-150).
 
@@ -21,8 +21,8 @@ Proposed production tax incentives The following production tax incentives are p
 
 - the Critical Minerals Production Tax Incentive (CMPTI) will support downstream reﬁning and
 
-  processing of Australia’s 31 critical minerals to improve supply chain resilience
+  processing of Australia's 31 critical minerals to improve supply chain resilience
 
 - the Hydrogen Production Tax Incentive (HPTI) will be available to producers of renewable
 
-  hydrogen to support the growth of a competitive hydrogen industry and Australia’s decarbonisation.
+  hydrogen to support the growth of a competitive hydrogen industry and Australia's decarbonisation.

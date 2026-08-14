@@ -16,11 +16,11 @@ compilation_date: 2026-06-06
 
 **Loss carried forward**
 
-**(2)**  The amount of RAM net loss is carried forward to the next tax year as the person’s RAM loss balance.
+**(2)**  The amount of RAM net loss is carried forward to the next tax year as the person's RAM loss balance.
 
 **Use of RAM loss balance**
 
-**(3)**  A person’s RAM loss balance for a tax year must—
+**(3)**  A person's RAM loss balance for a tax year must—
 
 - (a) first be subtracted from their FIF income under section EX 56B, to the extent of that FIF income, for the tax year; and
 

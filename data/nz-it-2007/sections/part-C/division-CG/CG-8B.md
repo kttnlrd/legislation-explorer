@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The person has an amount of income to the extent to which the greater of the high-priced bloodstock’s market value on the day on which it is removed from New Zealand and the total amount of deductions the person has been allowed in relation to the high-priced bloodstock exceeds the total of any amounts of income the person has derived in relation to the high-priced bloodstock.
+**(2)**  The person has an amount of income to the extent to which the greater of the high-priced bloodstock's market value on the day on which it is removed from New Zealand and the total amount of deductions the person has been allowed in relation to the high-priced bloodstock exceeds the total of any amounts of income the person has derived in relation to the high-priced bloodstock.
 
 **Timing of income**
 

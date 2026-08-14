@@ -3,21 +3,16 @@ ATO ID 2004/302
 ==================================================
 
 Goods and Services Tax
-        GST and construction of a car park on leased residential premises used for carrying on an enterprise
-        FOI status: may be released
-
+ GST and construction of a car park on leased residential premises used for carrying on an enterprise
+ FOI status: may be released
 
 This ATO ID was amended to clarrify the ATO position.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), for the acquisitions it makes to construct a car park on residential premises that it leases solely for the purpose of operating its business?
@@ -34,8 +29,6 @@ Reasons for Decision
 Under section 11-20 of the GST Act, an entity is entitled to an input tax credit for any creditable acquisition that it makes.
 Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if:
 
-
-
 • it acquires anything solely or partly for a creditable purpose
 • the supply of the thing to it is a taxable supply
 • it provides, or is liable to provide, consideration for the supply, and
@@ -46,8 +39,6 @@ Under subsection 11-15(1) of the GST Act, an entity acquires a thing for a credi
 The entity is constructing a car park to provide car parking facilities to be used solely by its staff and customers. The entity is constructing the car park on the leased residential premises, from which the entity operates its business. Therefore, the entity acquires the goods and services in the course of conducting its enterprise.
 However, subsection 11-15(2) of the GST Act provides that an entity does not acquire the thing for a creditable purpose to the extent that:
 
-
-
 • the acquisition relates to making supplies that would be input taxed, or
 • the acquisition is of a private or domestic nature.
 
@@ -55,7 +46,7 @@ The entity acquires goods and services in the course of conducting its enterpris
 The goods and services that the entity acquires in the construction of the car park were taxable supplies made to the entity under section 9-5 of the GST Act. The entity has paid for all of the acquisitions and has not been reimbursed by the landlord in any way. In addition, the entity is registered for GST. As such, the requirements of section 11-5 of the GST Act are satisfied and the entity is making a creditable acquisition when it acquires goods and services associated with constructing the car park.
 Therefore, the entity is entitled to an input tax credit under section 11-20 of the GST Act when it acquires goods and services to construct a car park on residential premises that it leases for the purpose of operating its business.
 Date of decision:
-         26 April 2002
+  26 April 2002
 
 Legislative References:
 
@@ -64,20 +55,19 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section
 Keywords
 
 Goods and services tax
-          Taxable supply
-          Creditable acquisition
-          GST input tax credits & creditable acquisitions
-          Creditable purpose
-
+ Taxable supply
+ Creditable acquisition
+ GST input tax credits & creditable acquisitions
+ Creditable purpose
 
 Siebel/TDMS Reference Number:
-         1268367
+  1268367
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         2 April 2004
+  2 April 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

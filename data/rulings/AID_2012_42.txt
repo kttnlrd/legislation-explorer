@@ -3,23 +3,17 @@ ATO ID 2012/42
 ==================================================
 
 Income Tax
-        Consolidation: inherited TOFA transitional balancing adjustment and cessation of financial arrangement
-        FOI status: may be released
-
-
+ Consolidation: inherited TOFA transitional balancing adjustment and cessation of financial arrangement
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where:
-
-
 
 •an entity joins a consolidated group with a financial arrangement (an asset),
 •under the entry history rule in section 701-5 of the Income Tax Assessment Act 1997 (ITAA 1997), the head company of the consolidated group inherits amounts (inherited TBA amounts) to be included in assessable income (or allowed as a deduction) in respect of the transitional balancing adjustment (TBA) made under sub-item 104(13) of Schedule 1 to the Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 (TOFA Act), and
@@ -38,8 +32,6 @@ On 1 July 2011 A Co joined a consolidated group whose head company is H Co. The 
 H Co inherited the final three portions of the TBA under the entry history rule in section 701-5 of the ITAA 1997.
 H Co included the following amounts in its assessable income for income year ended 30 June 2012 in respect of the financial arrangement:
 
-
-
 (a)$20,000 gain under the fair value method in Division 230 of the ITAA 1997; and
 (b)$5,000 being the second portion of the TBA.
 
@@ -48,8 +40,6 @@ The financial arrangement ceases on 30 June 2013. The financial benefits receive
 Reasons for Decision
 All legislative references are to the ITAA 1997.
 Division 230 is about the tax treatment of gains and losses from financial arrangements. Where an entity joins a consolidated group with an asset to which Division 230 will apply, subsection 701-55(5A) has application. Under subsection 701-55(5A), Division 230 applies to the financial arrangement asset as if the asset were acquired at the joining time for a payment equal to either:
-
-
 
 (a)the asset's tax cost setting amount, or
 (b)the asset's 'Division 230 starting value' at the joining time (where certain elective tax-timing methods will apply to the asset).
@@ -74,11 +64,9 @@ $480,000 financial benefits received (Step 1(a))
 
 less
 
-
 $440,000 financial benefits provided (Step 2(a))
 
 less
-
 
 $20,000 gain included in assessable income under the fair value method (step 2(b))
 
@@ -86,10 +74,10 @@ Although the deemed acquisition in subsection 701-55(5A) severs the connection b
 Under Division 230, H Co includes $40,000 in its assessable income comprising the $20,000 gain made in income year ending 30 June 2012 and the $20,000 Subdivision 230-G balancing adjustment.
 The inherited TBA amounts of $15,000, that are to be included in H Co's assessable income, relate to gains made on the financial arrangement by A Co prior to the joining time. It is the 4 year spreading rule that causes H Co to be assessable on those TBA amounts.
 Date of decision:
-         8 May 2012
+  8 May 2012
 
 Year of income:
-           Year ending 30 June 2012
+  Year ending 30 June 2012
 
 Legislative References:
 
@@ -103,34 +91,33 @@ Related ATO Interpretative Decisions
 Keywords
 
 Acquisition of assets
-          Balancing adjustment
-          Cessation
-          Consolidation
-          Consolidated group
-          Consolidation - assets
-          Consolidation - joining
-          Division 230 taxation of financial arrangements
-          Financial arrangement
-          Head company
-          Inherited history rules
-          Joining entity
-          Joining time
-          Method statement
-          Single entity rule
-          Subsidiary member of a consolidated group
-          Tax cost is set
-          Tax cost setting amount
-          Transitional election
-
+ Balancing adjustment
+ Cessation
+ Consolidation
+ Consolidated group
+ Consolidation - assets
+ Consolidation - joining
+ Division 230 taxation of financial arrangements
+ Financial arrangement
+ Head company
+ Inherited history rules
+ Joining entity
+ Joining time
+ Method statement
+ Single entity rule
+ Subsidiary member of a consolidated group
+ Tax cost is set
+ Tax cost setting amount
+ Transitional election
 
 Siebel/TDMS Reference Number:
-         1-3SAV4N9
+  1-3SAV4N9
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         11 May 2012
+  11 May 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

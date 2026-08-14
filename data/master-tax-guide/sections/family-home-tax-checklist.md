@@ -45,29 +45,29 @@ See also the checklists for Rental Properties (¶44-107) and Death of a Taxpayer
 
   interest (¶16-480).
 
-- Where the home is also a place of business, travel between it and other places of the taxpayer’s
+- Where the home is also a place of business, travel between it and other places of the taxpayer's
 
   business may be deductible. Otherwise, travel between home and work is normally not deductible,
 
   though there are some exceptions (¶16-220, ¶16-230).
 
-- Where the home is simply used as a “home oﬃce” to do some work, as distinct from being a place
+- Where the home is simply used as a "home oﬃce" to do some work, as distinct from being a place
 
   of business, appropriate deductions may be claimed for expenses such as running costs (¶16-480).
 
-- Land tax generally does not apply to land used as the owner’s principal residence, though a
+- Land tax generally does not apply to land used as the owner's principal residence, though a
 
   proportional liability may apply where the home is used partly for carrying on a business (eg
 
 ¶38-010).
 
-- A person’s interest in their principal home is exempt from the social security assets test
+- A person's interest in their principal home is exempt from the social security assets test
 
   that is used for determining eligibility for certain government pensions and entitlements
 
 (www.humanservices.gov.au/individuals/centrelink).
 
-- The sale of a home is exempt from CGT where it qualiﬁes as the taxpayer’s main residence, or
+- The sale of a home is exempt from CGT where it qualiﬁes as the taxpayer's main residence, or
 
   where the taxpayer acquired it before 20 September 1985 (¶11-000, ¶11-730).
 
@@ -99,7 +99,7 @@ See also the checklists for Rental Properties (¶44-107) and Death of a Taxpayer
 
   (¶11-760).
 
-- Where a deceased taxpayer’s main residence is inherited, the exemption may apply to a
+- Where a deceased taxpayer's main residence is inherited, the exemption may apply to a
 
   subsequent sale where it takes place within 2 years of the date of death or in certain other
 

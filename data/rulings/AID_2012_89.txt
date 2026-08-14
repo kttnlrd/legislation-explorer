@@ -3,18 +3,14 @@ ATO ID 2012/89
 ==================================================
 
 Income Tax
-        Research and Development: feedstock adjustments - creation of a prototype
-        FOI status: may be released
-
-
+ Research and Development: feedstock adjustments - creation of a prototype
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a 'feedstock adjustment' arise under section 355-465 of the Income Tax Assessment Act 1997 (ITAA 1997) in relation to expenditure incurred by an 'Research and Development (R&D) entity' in creating a prototype which is a depreciating asset, but not one used in acquiring or producing any 'feedstock inputs'?
@@ -36,19 +32,14 @@ The expenditure incurred on constructing the prototype is expenditure that falls
 In certain circumstances, the R&D entity may be liable to a 'feedstock adjustment' under Subdivision 355-H where the prototype is then held and used by the R&D entity in conducting one or more further registered R&D activities. Where a 'feedstock adjustment' occurs, an amount is included in the R&D entitys' assessable income as calculated under subsection 355-465(2).
 Subsection 355-465(1) specifies three conditions that must be met before an R&D entity is liable to a 'feedstock adjustment':
 
-
-
 (1)the R&D entity incurs expenditure in the income year on acquiring or producing goods or materials (referred to as 'feedstock inputs'), transformed or processed during R&D activities in producing one or more tangible products (referred to as 'feedstock outputs');
 (2)the R&D entity obtains a tax offset under section 355-100 for one or more income years for its notional deductions:
-
-
 
 (a)for the expenditure
 (b)for expenditure the R&D entity incurs on any energy input directly into the transformation or processing, or
 (c)for the decline in value of assets used in acquiring or producing the feedstock inputs;
 
 and
-
 
 (3)during the income year, the R&D entity supplies a feedstock output or a transformed feedstock output, to another entity, or applies it to the R&D entity's own use.
 
@@ -58,10 +49,10 @@ Paragraph (b) of the second condition does not apply as the construction expendi
 Paragraph (c) of the second condition is also not met. Although the R&D entity in this case does notionally deduct an amount for the decline in value of the prototype, the prototype is not used in acquiring or producing any 'feedstock inputs'.
 Therefore, as the R&D entity has not met all three conditions of subsection 355-465(1), its expenditure on the prototype will not of itself trigger any feedstock adjustment under section 355-465.
 Date of decision:
-         23 October 2012
+  23 October 2012
 
 Year of income:
-           year ended 30 June 2012
+  year ended 30 June 2012
 
 Legislative References:
 
@@ -70,18 +61,17 @@ Income Tax Assessment Act 1997   Division 40   Division 355   section 3
 Keywords
 
 Research & development feedstock expenditure
-          Research & development tax offset
-          Depreciating assets
-
+ Research & development tax offset
+ Depreciating assets
 
 Siebel/TDMS Reference Number:
-         1-3YX5D18
+  1-3YX5D18
 
 Business Line:
-         Innovation Group - Large Business & International
+  Innovation Group - Large Business & International
 
 Date of publication:
-         26 October 2012
+  26 October 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

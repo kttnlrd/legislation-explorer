@@ -3,23 +3,18 @@ ATO ID 2011/76
 ==================================================
 
 Goods and Services Tax
-        Goods and Services tax: Alternative attribution rule of subsection 29-10(4) of the GST Act
-        FOI status: may be released
+ Goods and Services tax: Alternative attribution rule of subsection 29-10(4) of the GST Act
+ FOI status: may be released
 
-
-This ATO ID is withdrawn following the decision of the Full Federal Court in  FC of T v Travelex Ltd 2020 FCAFC 10 (Travelex). In Travelex, the court determined that there is no power, express or implied, to revise a GST return. This decision is contrary to the reasoning outlined in the ATO ID and it is therefore withdrawn.
+This ATO ID is withdrawn following the decision of the Full Federal Court in FC of T v Travelex Ltd 2020 FCAFC 10 (Travelex). In Travelex, the court determined that there is no power, express or implied, to revise a GST return. This decision is contrary to the reasoning outlined in the ATO ID and it is therefore withdrawn.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does subsection 29-10(4) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) prevent an entity revising a GST return for an earlier tax period as determined under subsection 29-10(1) or subsection 29-10(2) or subsection 29-10(3) of the GST Act so as to take into account an input tax credit in the net amount for that earlier tax period?
@@ -35,8 +30,6 @@ Subsection 29-10(4) of the GST Act states:
 
 If the *GST return for a tax period states a *net amount that does not take into account an input tax credit attributable to that tax period:
 
-
-
 (a)the input tax credit is not attributable to that tax period; and
 (b)the input tax credit is attributable to the first tax period for which you give the Commissioner a GST return that does take it into account.
 
@@ -50,8 +43,6 @@ Subsection 29-10(4) of the GST Act was further amended under the Tax Laws Amendm
 At paragraph 3.8 of the Explanation Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 1) Bill 2010 it is explained that subsection 29-10(4) of the GST Act was introduced to 'permit taxpayers to claim input tax credits in the current business activity statement'. The amendment to subsection 29-10(4) did not change the underlying premise that an entity could revise the earlier GST return.
 Therefore, even though the entity has not taken the input tax credit into account in the March 2011 tax period to which it is attributable under subsection 29-10(2) of the GST Act, it can revise its GST return for that period to take account of the relevant input tax credit.
 However, the input tax credit can only be taken into account in the one tax period. If the entity takes the input tax credit into account in a later period in accordance with subsection 29-10(4), then it can no longer amend the earlier GST return to take the input tax credit into account in that earlier tax period.
-
-
 
 Note 1: For tax periods starting on or after 1 July 2012, if an entity's input tax credit is not included in an assessment of a net amount within four years after the due date for lodgement of the activity statement to which the input tax credit is attributable under subsection 29-10(1) or (2) of the GST Act, entitlement to the credit ceases. (See section 93-5 of the GST Act.)
 
@@ -70,7 +61,7 @@ Notes
 Note updated to specify the date from which the 4-year period starts; Notes 2 and 3 added.
 
 Date of decision:
-         6 September 2010
+  6 September 2010
 
 Legislative References:
 
@@ -81,40 +72,35 @@ Tax Laws Amendment (2010 GST Administration Measures No. 1) Act 2010   The Ac
 Other References:
 
  Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 2000
-           Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 1) Bill 2010
-
+ Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 1) Bill 2010
 
 Keywords
 
 Goods and services tax
-          Attribution
-
+ Attribution
 
 Siebel/TDMS Reference Number:
-         1-3FU27J7;GQDJHJ6
+  1-3FU27J7;GQDJHJ6
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         7 October 2011
+  7 October 2011
 
 Date reviewed:
-         3 December 2018
+  3 December 2018
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  6 September 2010

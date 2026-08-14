@@ -4,11 +4,11 @@ part_title: Part H Taxation of certain entities
 division: HR
 division_title: Subpart HR—Other entities
 section: HR-6
-section_title: Airport operator’s assets
+section_title: Airport operator's assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# HR 6  Airport operator’s assets
+# HR 6  Airport operator's assets
 
 **Ownership of airport assets**
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **(7)**  In this section, for an airport operator, airport asset means—
 
-- (a) an asset that, under the joint venture agreement and for the purposes of the airport operator’s activities, the airport authority—
+- (a) an asset that, under the joint venture agreement and for the purposes of the airport operator's activities, the airport authority—
 
   - (i) acquires:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 - (c) an asset owned by a person for the purposes of a loan redemption sinking fund for a loan on which the interest payments are a charge against the joint venture income of the airport operator:
 
-- (d) an asset acquired by the airport operator using funds that are, or by exchanging property that is, acquired in carrying on the airport operator’s activities and not allocated or distributed to the joint venturers.
+- (d) an asset acquired by the airport operator using funds that are, or by exchanging property that is, acquired in carrying on the airport operator's activities and not allocated or distributed to the joint venturers.
 
 **Exclusion**
 
@@ -78,7 +78,7 @@ compilation_date: 2026-06-06
 
 - (b) the airport operator has acquired, agreed to use or acquired the power to use under a lease, unless the lease is a specified lease or a finance lease.
 
-*Defined in this Act: acquire, airport asset, airport authority, airport operator, airport operator’s activities, Commissioner, finance lease, interest, loan, specified lease*
+*Defined in this Act: acquire, airport asset, airport authority, airport operator, airport operator's activities, Commissioner, finance lease, interest, loan, specified lease*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

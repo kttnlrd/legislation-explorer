@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
   - (i) planting or maintaining trees on the land; or
 
-  - (ii) preparing or otherwise developing the land for the person’s forestry operations:
+  - (ii) preparing or otherwise developing the land for the person's forestry operations:
 
 - (g) repair or maintenance of land improvements, other than trees, effected on the land and used by the person mainly in the business:
 

@@ -9,9 +9,9 @@ paragraph: "None"
 
 Worked example: R&D tax offset; impact on franking account Issue Jojo Pty Ltd (Jojo) lodges its 2023–24 income tax return in February 2025. It is entitled to a refundable R&D tax offset of $50,000. Its final income tax liability (not taking into account the R&D tax offset) is $30,000.
 
-Jojo receives an income tax refund of $20,000 in March 2025. This $20,000 represents the amount by which the R&D tax offset exceeds the final tax liability. Before receiving the refund, Jojo’s franking account balance has a $30,000 surplus, and it has accumulated after-tax profits of $70,000 that Jojo wants to pay as dividends before year end.
+Jojo receives an income tax refund of $20,000 in March 2025. This $20,000 represents the amount by which the R&D tax offset exceeds the final tax liability. Before receiving the refund, Jojo's franking account balance has a $30,000 surplus, and it has accumulated after-tax profits of $70,000 that Jojo wants to pay as dividends before year end.
 
-Jojo’s corporate tax rate for the 2023–24 year, and its corporate tax rate for imputation purposes for the 2024–25 year, is 30%. (1) Should Jojo debit its franking account by $20,000 in March 2025 to reflect the tax refund? (2) What is the effect of the R&D tax offset on the company’s plans to pay dividends? (3) What are the franking account implications if Jojo’s tax refund was $23,000, of which $20,000 was attributable to an R&D tax offset, and $3,000 was attributable to other refundable tax offset amounts?
+Jojo's corporate tax rate for the 2023–24 year, and its corporate tax rate for imputation purposes for the 2024–25 year, is 30%. (1) Should Jojo debit its franking account by $20,000 in March 2025 to reflect the tax refund? (2) What is the effect of the R&D tax offset on the company's plans to pay dividends? (3) What are the franking account implications if Jojo's tax refund was $23,000, of which $20,000 was attributable to an R&D tax offset, and $3,000 was attributable to other refundable tax offset amounts?
 
 Solution (1) Jojo should not debit its franking account by the $20,000 refund when received in March 2025.
 

@@ -7,7 +7,7 @@ paragraph: "¶6-240"
 ---
 # Revocable trusts and trusts for minors ¶6-240
 
-Where a person (the settlor) has created a revocable trust (ie one that can be revoked or altered so that the settlor acquires a beneﬁcial interest in trust corpus or income), or a trust under which income is payable to, or accumulated or applicable for the beneﬁt of, the settlor’s children under the age of 18 years, the Commissioner has the discretion to tax the trustee under s 102.
+Where a person (the settlor) has created a revocable trust (ie one that can be revoked or altered so that the settlor acquires a beneﬁcial interest in trust corpus or income), or a trust under which income is payable to, or accumulated or applicable for the beneﬁt of, the settlor's children under the age of 18 years, the Commissioner has the discretion to tax the trustee under s 102.
 
 This punitive tax is an amount equal to the diﬀerence between the tax actually payable by the settlor and the tax the settlor would have had to pay but for the trust. In calculating the tax, the net income of the trust is calculated without regard to so much, if any, of the net income as: (a) is derived from foreign sources and is attributable to a period when the settlor was a non-resident; or (b) is not covered by (a) and is attributable to a taxpayer under Pt III Div 6AAA (¶6-075).
 

@@ -27,6 +27,6 @@ Under s 63-10(1), the order in which personal tax oﬀsets are applied is as fol
 
 - refundable tax oﬀsets, eg the private health insurance oﬀset (¶15-330).
 
-Section 63-10(1) also speciﬁes what happens to any excess or unused amount of any tax oﬀset. The unused portion of only a limited number of tax oﬀsets may be transferred to one’s spouse, refunded or carried forward to future income years.
+Section 63-10(1) also speciﬁes what happens to any excess or unused amount of any tax oﬀset. The unused portion of only a limited number of tax oﬀsets may be transferred to one's spouse, refunded or carried forward to future income years.
 
 *Refs: s 63-10(1)*

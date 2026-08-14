@@ -9,9 +9,9 @@ paragraph: "None"
 
 Worked example: Sale of property; settlement in following income year Issue Sam Williams entered into a contract for the disposal of land on 25 June 2025. It was agreed with the purchaser that settlement be delayed by 180 days, with settlement to take place on 22 December 2025. The sale of the land gave rise to a capital gain of $400,000.
 
-Sam’s tax return for 2024–25 is due on 31 October 2025. He intends to lodge his tax return before the due date.
+Sam's tax return for 2024–25 is due on 31 October 2025. He intends to lodge his tax return before the due date.
 
-Is Sam required to include the capital gain in his 2024–25 income tax return notwithstanding that settlement is delayed until after the tax return is due? As an alternative, can Sam’s capital gain be included in the tax return in respect of the year of settlement instead, that is, the 2025–26 income year?
+Is Sam required to include the capital gain in his 2024–25 income tax return notwithstanding that settlement is delayed until after the tax return is due? As an alternative, can Sam's capital gain be included in the tax return in respect of the year of settlement instead, that is, the 2025–26 income year?
 
 Solution Sam is required to include the capital gain in his 2024–25 income tax return (ie the year that the contract of sale was entered into). He can, however, lodge his tax return by 31 October 2025 without including the capital gain and later amend his tax return once settlement occurs, that is, once there is a change in ownership (Taxation Determination TD 94/89).
 

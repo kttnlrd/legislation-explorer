@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(3)**  If the debt percentage of the excess debt entity’s New Zealand group exceeds the threshold debt percentage given by section FE 5(1), the excess debt entity is treated as deriving an amount of income under section CH 10B (Interest apportionment: public project debt) that is calculated, treating the value of a fraction with a zero denominator as being zero, using the formula— (unrestricted interest × unrestricted excess ÷ unrestricted debt) + (member interest × member excess ÷ member debt).
+**(3)**  If the debt percentage of the excess debt entity's New Zealand group exceeds the threshold debt percentage given by section FE 5(1), the excess debt entity is treated as deriving an amount of income under section CH 10B (Interest apportionment: public project debt) that is calculated, treating the value of a fraction with a zero denominator as being zero, using the formula— (unrestricted interest × unrestricted excess ÷ unrestricted debt) + (member interest × member excess ÷ member debt).
 
 **Definition of items in formula**
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 - (b) unrestricted excess is—
 
-  - (i) zero, if the amount of public project debt that is not public project participant debt does not exceed the amount (the threshold debt amount) obtained by multiplying the value of the public project assets and assets used in performing the project by the threshold debt percentage given by section FE 5(1) for the excess debt entity’s New Zealand group:
+  - (i) zero, if the amount of public project debt that is not public project participant debt does not exceed the amount (the threshold debt amount) obtained by multiplying the value of the public project assets and assets used in performing the project by the threshold debt percentage given by section FE 5(1) for the excess debt entity's New Zealand group:
 
   - (ii) the amount of the item unrestricted debt, if the amount of public project debt that is not public project participant debt and not included in the item unrestricted debt equals or exceeds the threshold debt amount:
 

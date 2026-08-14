@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Amount of reduction**
 
-**(3)**  The person’s credit is reduced by an amount equal to the amount carried forward and extinguished by the Commissioner under section 177C of the Tax Administration Act 1994.
+**(3)**  The person's credit is reduced by an amount equal to the amount carried forward and extinguished by the Commissioner under section 177C of the Tax Administration Act 1994.
 
 *Defined in this Act: amount, Commissioner, life insurer, tax credit, tax year*
 

@@ -17,7 +17,7 @@ The fourth requirement for the operation of Div 165 is that on the basis of all 
 
   indirectly (s 165-5).
 
-Dominant purpose test The first of these — the “dominant purpose” test — is similar to the test in the income tax legislation (ITAA 1936 s 177D). In its ordinary meaning, “dominant” indicates the ruling, prevailing or most influential purpose (FC of T v Spotless Services Ltd & Anor 96 ATC 5201). This indicates that the purpose may be dominant even though it does not outweigh all the other purposes put together.
+Dominant purpose test The first of these — the "dominant purpose" test — is similar to the test in the income tax legislation (ITAA 1936 s 177D). In its ordinary meaning, "dominant" indicates the ruling, prevailing or most influential purpose (FC of T v Spotless Services Ltd & Anor 96 ATC 5201). This indicates that the purpose may be dominant even though it does not outweigh all the other purposes put together.
 
 It appears that this is an objective test, to be determined by reference to the relevant statutory factors, as set out in ¶20-060. The subjective motives of the taxpayer, or any other participants to the scheme, are not relevant. Furthermore, the fact that a taxpayer may have chosen between 2 forms of transaction based on tax considerations does not mean that the taxpayer entered into the scheme with the requisite dominant purpose (Minerva Financial Group Pty Ltd v FC of T 2024 ATC ¶20-896; [2024] FCAFC 28). It does not matter that an avoider was unaware of a scheme or part of a scheme in which it was a participant. The "principal effect" in s 165-5(1)(c) is concerned with the actual consequences of activities not the intended consequences (FC of T v ACN 154 520 199 Pty Limited (in liq) [2025] FCAFC 146).
 
@@ -27,7 +27,7 @@ The fact that a transaction represents a rational commercial decision does not m
 
 It appears that the dominant purpose or effect should be determined at the time when the scheme was entered into or carried out, and by reference to the law as it then stood (Consolidated Press Holdings).
 
-Principal effect test The second test — the “principal effect” test — considerably broadens the scope of the GST anti-avoidance rules by enabling them to apply even though none of the parties, or the avoider, had any intention or purpose of getting a GST benefit.
+Principal effect test The second test — the "principal effect" test — considerably broadens the scope of the GST anti-avoidance rules by enabling them to apply even though none of the parties, or the avoider, had any intention or purpose of getting a GST benefit.
 
 It is important to note that the legislation talks of the principal effect, not a principal effect. This evidently means that it may not apply where the effect of getting a GST benefit was only one of a number of equally or more important effects of the scheme.
 

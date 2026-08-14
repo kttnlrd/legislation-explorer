@@ -7,7 +7,7 @@ paragraph: "¶16-450"
 ---
 # Deductions for self-education expenses ¶16-450
 
-In general terms, self-education expenses are deductible under ITAA97 s 8-1 where the expenses have the necessary connection with the production of the taxpayer’s assessable income. According to TR 2024/3 (which replaced TR 98/9 with eﬀect from 27 September 2023), self-education expenses are considered to be incurred in gaining or producing assessable income where: (1) the taxpayer’s income-earning activities are based on the exercise of a skill or some speciﬁc knowledge and the self-education enables the taxpayer to maintain or improve that skill or knowledge (Principle 1), or (2) the self-education objectively leads to, or is likely to lead to, an increase in the taxpayer’s income from their current income-earning activities in the future (Principle 2).
+In general terms, self-education expenses are deductible under ITAA97 s 8-1 where the expenses have the necessary connection with the production of the taxpayer's assessable income. According to TR 2024/3 (which replaced TR 98/9 with eﬀect from 27 September 2023), self-education expenses are considered to be incurred in gaining or producing assessable income where: (1) the taxpayer's income-earning activities are based on the exercise of a skill or some speciﬁc knowledge and the self-education enables the taxpayer to maintain or improve that skill or knowledge (Principle 1), or (2) the self-education objectively leads to, or is likely to lead to, an increase in the taxpayer's income from their current income-earning activities in the future (Principle 2).
 
 However, self-education expenses are not incurred in gaining or producing assessable income if either of the following applies: (1) the self-education will enable the taxpayer to get employment, obtain new employment or open up a new income-earning activity (whether in business or in their current employment). This includes studies relating to a particular profession, occupation or ﬁeld of employment in which the taxpayer is not yet engaged. These expenses are incurred at a point too soon to be regarded as incurred in gaining or producing assessable income (Exclusion 1), or (2) the taxpayer is not undertaking income-earning activities to derive assessable income at the time they incurred the expenses. These expenses are not connected to any income-earning activity at the time they are incurred (Exclusion 2).
 
@@ -29,7 +29,7 @@ The Commissioner takes the view in TR 2024/3 that, where the requirements for de
 
   home overnight, but not where the taxpayer establishes a new home base. In Mandikos 2001 ATC
 
-2276; [2001] AATA 716, the AAT rejected this “home base” test, preferring to disallow a claim for living expenses on the separate ground that their essential character was private. For deductibility of fares incurred on overseas study tours or in attending work-related conferences or seminars or an educational institution, see ¶16-270
+2276; [2001] AATA 716, the AAT rejected this "home base" test, preferring to disallow a claim for living expenses on the separate ground that their essential character was private. For deductibility of fares incurred on overseas study tours or in attending work-related conferences or seminars or an educational institution, see ¶16-270
 
 - transport costs (motor vehicles and fares) incurred in travelling between: (a) home and an
 
@@ -47,7 +47,7 @@ The Commissioner takes the view in TR 2024/3 that, where the requirements for de
 
   and the income-producing activity in each year in which the interest is claimed. A change in the
 
-  taxpayer’s circumstances may mean that there is no longer a connection between the interest
+  taxpayer's circumstances may mean that there is no longer a connection between the interest
 
   expense and the earning of assessable income.
 
@@ -55,7 +55,7 @@ Depreciation may be claimed on professional libraries and other items used in co
 
 According to the Commissioner, the intention or purpose of a taxpayer in incurring the self-education expenses can be an element in determining deductibility. This could be relevant where, for example, a study tour had both a private purpose and a purpose of gaining or producing assessable income. See ¶16-290 for a discussion of an equivalent situation in the context of travel expenses.
 
-The Commissioner is reviewing the deductibility of expenses incurred under arrangements involving the purchase of self-study training programs which may be undertaken at a holiday destination of the taxpayer’s choice, self-study training programs, seminars on board a cruise ship, and wealth creation seminars undertaken while travelling (TA 2011/3).
+The Commissioner is reviewing the deductibility of expenses incurred under arrangements involving the purchase of self-study training programs which may be undertaken at a holiday destination of the taxpayer's choice, self-study training programs, seminars on board a cruise ship, and wealth creation seminars undertaken while travelling (TA 2011/3).
 
 Deductibility does not extend to the cost of meals purchased by a taxpayer while attending a course at an educational institution unless the taxpayer is required to sleep away from home (eg no deduction would be allowable for meals purchased by a taxpayer living in Sydney and attending an institution within the metropolitan area). No deduction is allowable for expenditure on accommodation and meals where a taxpayer has travelled to another location for self-education purposes but is considered to have established a new home there (eg to do a 2-year course) (TR 2024/3; Case 5/2009 2009 ATC ¶1-009; [2009] AATA 478). The costs of attending a graduation ceremony (including the cost of hiring an academic gown) are not deductible (Berrett 99 ATC 2127; [1999] AATA 172).
 

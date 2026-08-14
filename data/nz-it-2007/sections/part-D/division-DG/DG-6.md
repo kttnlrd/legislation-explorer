@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 Despite section YB 3(1) (Company and person other than company), for the purposes of this subpart, a company and a person other than a company are associated persons if—
 
-- (b) the person’s share in the company gives them a right to use the asset.
+- (b) the person's share in the company gives them a right to use the asset.
 
 *Defined in this Act: asset, associated person, company, share*
 

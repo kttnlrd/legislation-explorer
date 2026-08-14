@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person’s right to take timber (the old right) has been extinguished, and new rights (the new rights) to take timber are granted to the person in place of the old right, if section CW 1B (Treaty of Waitangi claim settlements: rights to take timber) applied to exempt income for the extinguishing of the old right.
+**(1)**  This section applies when a person's right to take timber (the old right) has been extinguished, and new rights (the new rights) to take timber are granted to the person in place of the old right, if section CW 1B (Treaty of Waitangi claim settlements: rights to take timber) applied to exempt income for the extinguishing of the old right.
 
 **Cost of acquiring new rights**
 

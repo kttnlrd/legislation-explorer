@@ -7,7 +7,7 @@ paragraph: "¶33-115"
 ---
 # Obligations and rights once registered on the ABR ¶33-115
 
-A registered entity must inform the Registrar of any change in circumstances that makes information contained in the Australian Business Register incorrect. This must be done within 28 days after becoming aware of the change (ABNA s 14). To this end, entities can now access and change their details via the Internet. Tax agents are also able to access the ABN register online in order to update their clients’ information.
+A registered entity must inform the Registrar of any change in circumstances that makes information contained in the Australian Business Register incorrect. This must be done within 28 days after becoming aware of the change (ABNA s 14). To this end, entities can now access and change their details via the Internet. Tax agents are also able to access the ABN register online in order to update their clients' information.
 
 A registered entity must also comply with any request from the Registrar for information relevant to: its entitlement to be registered; conﬁrming its identity; or the details entered in the register (ABNA s 15). Failure to comply with these requirements is an oﬀence under TAA s 8C (¶29-700).
 

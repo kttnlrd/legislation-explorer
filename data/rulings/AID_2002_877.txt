@@ -3,18 +3,14 @@ ATO ID 2002/877
 ==================================================
 
 Goods and Services Tax
-        GST and amount for a vehicle modification permit included in price charged to customer for vehicle modifications
-        FOI status: may be released
-
-
+ GST and amount for a vehicle modification permit included in price charged to customer for vehicle modifications
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entire fee charged by the entity, a supplier of motor vehicle modifications, consideration for its supply, under section 9-15 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), where the fee includes an amount for a vehicle modification permit that the customer is legally required to obtain and that is listed in the Treasurer's Determination made for the purposes of Division 81 of the GST Act?
@@ -37,7 +33,6 @@ Paragraph 49 of Goods and Services Tax Ruling GSTR 2000/37 outlines the GST cons
 This example is similar to the entity's arrangement. The entity, in its capacity as paying agent for its customer, pays the relevant authority for the permit. The permit to which the payment relates is supplied by the relevant authority to the customer, not to the entity. Therefore, the amount paid by the customer to the entity for the permit is a reimbursement which forms no part of the consideration payable to the entity for the supply of the vehicle modifications.
 As such, the entire fee charged by the entity is not consideration for its supply under section 9-15 of the GST Act, where the fee includes an amount for a vehicle modification permit that the customer is legally required to obtain and that is listed in the Treasurer's Determination. The amount for the vehicle modification permit is not consideration for the entity's supply of the motor vehicle modification to the customer.
 
-
 [Note 1: As the portion of the fee that is for the vehicle modification permit is not consideration for the entity's supply to the customer, the entity does not include this amount when calculating the GST payable on the supply under section 9-70 of the GST Act.
 
 Note 2: Where an entity personally incurs the Australian tax, fee or charge that is listed in the Treasurer's Determination and then on-charges it to its customer, the amount on-charged for the tax, fee or charge is part of the consideration for the entity's supply. In this situation the tax, fee or charge loses its character as a tax, fee or charge for the purposes of the Treasurer's Determination and becomes a business cost of the entity's enterprise. Refer to ATO ID 2001/133.]
@@ -45,7 +40,7 @@ Note 2: Where an entity personally incurs the Australian tax, fee or charge that
 Related Rulings (including Determinations)
 GSTR 2000/37
 Date of decision:
-         3 December 2001
+  3 December 2001
 
 Legislative References:
 
@@ -58,18 +53,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST payment of taxes
-          State & local government taxes
-
+ GST payment of taxes
+ State & local government taxes
 
 Siebel/TDMS Reference Number:
-         CW250223
+  CW250223
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         28 August 2002
+  28 August 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

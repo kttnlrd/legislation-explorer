@@ -4,36 +4,33 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 11
-  • Div 165
-  • Div 29
-  • Div 72
-  • Division
+ • Div 11
+ • Div 165
+ • Div 29
+ • Div 72
+ • Division
 44
-  • Division 11
-  • Division 165
-  • Division 29
-  • Division 72
-  • Division 165
-  • Subdivision 40-B
-  • div 40
-  • division 40
+ • Division 11
+ • Division 165
+ • Division 29
+ • Division 72
+ • Division 165
+ • Subdivision 40-B
+ • div 40
+ • division 40
 
 Cases Referenced:
-  • Taxation v. Consolidated Press Holdings Ltd 
-  • Taxation v. Hart
+ • Taxation v. Consolidated Press Holdings Ltd 
+ • Taxation v. Hart
 
-  • Taxation v. Hart
+ • Taxation v. Hart
 (2004) 217 CLR 216
-  • Taxation v. Hart 
-  • Taxation v. Peabody
+ • Taxation v. Hart 
+ • Taxation v. Peabody
 
-  • Taxation v. Spotless Services Ltd
-
+ • Taxation v. Spotless Services Ltd
 
 Topics: GST
-
-
 
 ================================================================================
 
@@ -80,13 +77,13 @@ What this Ruling is about
 A New Tax System (Goods and Services Tax) Act 1999
 (GST Act)
 [1]
-may apply to an associate in relation to arrangements of the type referred to in Taxpayer Alert TA 2009/5 (TA 2009/5):  Use of an associate to obtain Goods and Services Tax (GST) benefits on construction of residential premises for lease.
+may apply to an associate in relation to arrangements of the type referred to in Taxpayer Alert TA 2009/5 (TA 2009/5): Use of an associate to obtain Goods and Services Tax (GST) benefits on construction of residential premises for lease.
 2. This Ruling does not consider whether an associate is carrying on an enterprise under section 9-20 or would otherwise be entitled to input tax credits under Division 11 for the acquisitions it makes in constructing or arranging the construction of the residential premises for a land owner.
 [2]
 3. This Ruling does not consider whether any payment or act by a land owner that involves an associate prior to the sale of the residential premises may be taken to be 'consideration' within the meaning of section 9-15. This Ruling does not consider whether Division 72 may apply to these arrangements.
 4. Whether the provisions in paragraphs 2 and 3 of this Ruling apply will depend on the circumstances of the particular case under consideration.
 5. The application of Division 165 will be considered in this Ruling on the basis that the core provisions would operate to provide a GST benefit in the particular case.
-6. This Ruling was previously issued as draft Good and Services Tax Determination GSTD 2009/D2 Goods and services tax:  are there GST consequences where a land owner engages the services of an associate to arrange construction of residential premises for lease under an arrangement described in Taxpayer Alert TA 2009/5?.
+6. This Ruling was previously issued as draft Good and Services Tax Determination GSTD 2009/D2 Goods and services tax: are there GST consequences where a land owner engages the services of an associate to arrange construction of residential premises for lease under an arrangement described in Taxpayer Alert TA 2009/5?.
 Background
 7. TA 2009/5 issued on 17 February 2009, and describes arrangements where a land owner (B) engages an associate (A) to construct residential premises which are to be used for making input taxed supplies by way of lease.
 8. TA 2009/5 describes arrangements which have the following features:
@@ -136,8 +133,8 @@ A 'GST benefit', as defined in subsection 165-10(1), arises under the scheme;
 An entity gets a GST benefit from the scheme; and
 (4)
 It is reasonable to conclude, taking account of the matters in section 165-15, that the dominant purpose or principal effect of entering into or carrying out the scheme was to get a GST benefit.
-Element 1:  Scheme
-18. It is considered that all or only some of the elements comprising the arrangement described in paragraphs 7 and 8 of this Ruling would constitute a scheme under the broad definition in subsection 165-10(2):  see the observations of the High Court in
+Element 1: Scheme
+18. It is considered that all or only some of the elements comprising the arrangement described in paragraphs 7 and 8 of this Ruling would constitute a scheme under the broad definition in subsection 165-10(2): see the observations of the High Court in
 Federal Commissioner of Taxation v. Hart
 (2004) 217 CLR 216 at 234 to 238 and 260 to 261 in relation to the virtually identical definition of 'scheme' for the purposes of Part IVA of the
 Income Tax Assessment Act 1936
@@ -154,10 +151,10 @@ an agreement or understanding resulting in neither payment nor invoicing for an 
 •
 a land owner leasing the premises for an indefinite period of time.
 [6]
-Element 2:  GST benefit
+Element 2: GST benefit
 20. Further, it is considered that the arrangement constitutes a scheme which gives rise to a GST benefit under paragraphs 165-10(1)(b) or 165-10(1)(c).
 GST benefit paragraph 165-10(1)(b) - engaging a third party builder
-21. An entity obtains a tax benefit in connection with a scheme for the purposes of paragraph 165-10(1)(b) if an amount that is payable to that entity is or could reasonably be expected to be larger than it would have been had the scheme not been entered into or carried out. The application of the test involves a prediction as to events that would have taken place if the relevant scheme had not been entered into or carried out and the prediction must be sufficiently reliable for it to be regarded as reasonable. Thus the enquiry directed by Division 165 requires comparison between the scheme in question and an alternative postulate (the 'counterfactual'):  see the comments of the High Court in
+21. An entity obtains a tax benefit in connection with a scheme for the purposes of paragraph 165-10(1)(b) if an amount that is payable to that entity is or could reasonably be expected to be larger than it would have been had the scheme not been entered into or carried out. The application of the test involves a prediction as to events that would have taken place if the relevant scheme had not been entered into or carried out and the prediction must be sufficiently reliable for it to be regarded as reasonable. Thus the enquiry directed by Division 165 requires comparison between the scheme in question and an alternative postulate (the 'counterfactual'): see the comments of the High Court in
 Federal Commissioner of Taxation v. Peabody
 [7]
 on the reasonable expectation test in the context of the definition of 'tax benefit' for the purposes of Part IVA of the ITAA 1936.
@@ -165,9 +162,9 @@ on the reasonable expectation test in the context of the definition of 'tax bene
 GST benefit paragraph 165-10(1)(c) - associate undertakes construction
 23. An entity obtains a tax benefit in connection with a scheme for the purposes of paragraph 165-10(1)(c) if an amount that is payable by that entity is or could reasonably be expected to be payable later than it would have been had the scheme not been entered into or carried out.
 24. It is reasonable to expect that in those cases where the scheme involves an associate undertaking the construction of the premises itself, a land owner would otherwise have engaged that associate on normal commercial terms. Accordingly, under the counterfactual that associate would have an input tax credit entitlement and a corresponding GST liability. Under the scheme that associate claims input tax credits on its acquisitions in providing its construction services, and defers remitting GST. The scheme therefore gives rise to a GST benefit to that associate under paragraph 165-10(1)(c) as it could reasonably be expected that an amount payable by that associate is payable later under the provisions of the GST Act (apart from Division 165) than it would have been but for the scheme.
-Element 3:  entity gets GST benefit
+Element 3: entity gets GST benefit
 25. An associate gets the GST benefit described at paragraphs 23 to 24 of this Ruling.
-Element 4:  Tax avoidance conclusion
+Element 4: Tax avoidance conclusion
 26. Division 165 must be considered on a case by case basis to determine whether it would be concluded that the dominant purpose or principal effect of the scheme would be to get a GST benefit. This requires an objective assessment of the scheme against the twelve matters set out in subsection 165-15(1). The references to the particular matters in this Ruling should not be regarded as exhaustive or limiting the Commissioner in the application of Division 165 in other cases.
 27. Consideration of some of the matters in subsection 165-15(1) may point in the direction of a tax avoidance purpose or effect, others may point in the opposite direction, and some may be neutral. It is the evaluation of these matters, alone or in combination, some for, some against, that section 165-15 requires in order to reach the conclusion to which section 165-5 refers.
 [8]
@@ -191,8 +188,8 @@ the absence of a clause requiring a land owner to pay interest to compensate an 
 •
 the absence of a default clause in the event of non-payment by a landowner for an associate's services.
 Paragraph 165-15(1)(b) - the form and substance of the scheme, including:
-(i)  the legal rights and obligations involved in the scheme; and
-(ii)  the economic and commercial substance of the scheme
+(i) the legal rights and obligations involved in the scheme; and
+(ii) the economic and commercial substance of the scheme
 32. This factor is directed to examining the scheme for discrepancies between the form of the scheme and its substance, particularly commercial or economic substance.
 33. The form of the scheme involves the supply of building services by an associate to a land owner for the construction of residential premises, enabling that associate to claim input tax credits on its acquisitions.
 34. In substance a land owner controls all aspects of the construction. That land owner executes and funds the scheme as the finance is received by it and it either provides those funds to an associate, or allows that associate to draw down on that land owner's loan, to enable that associate to pay for construction. That land owner also controls if and when the premises are sold and consequently if and when payment is made to that associate. The uncommercial terms stipulated by that land owner ensure that associate would not be in a position to enforce payment.
@@ -299,7 +296,7 @@ Footnotes
 [1]
 All legislative references in this Ruling are to the GST Act unless otherwise stated.
 [2]
-In determining whether an associate is carrying on an enterprise, the Commissioner will have regard to MT 2006/1 The New Tax System:  the meaning of entity carrying on an enterprise for the purpose of entitlement to an Australian Business Number.
+In determining whether an associate is carrying on an enterprise, the Commissioner will have regard to MT 2006/1 The New Tax System: the meaning of entity carrying on an enterprise for the purpose of entitlement to an Australian Business Number.
 [3]
 Under these circumstances A would normally remit GST upon the sale of the residential premises by B.
 [4]
@@ -308,7 +305,7 @@ Re VCE and Federal Commissioner of Taxation
 Case 3/2010
 [2010] AATA 497; 2010 ATC 1-022.
 [5]
-PS LA 2005/24 Application of General Anti-Avoidance Rules; GSTR 2004/3 Goods and services tax:  arrangements of the kind described in Taxpayer Alert TA 2004/2: Avoidance of GST on the sale of new residential premises; GSTR 2005/3 Goods and services tax:  arrangements of the kind described in Taxpayer Alert TA 2004/9 - exploitation of the second-hand goods provisions to obtain input tax credits; GSTR 2005/4 Goods and services tax:  arrangements of the kind described in Taxpayer Alerts TA 2004/6 and TA 2004/7 - use of the Grouping or Margin Scheme provisions of the GST Act to avoid or reduce the Goods and Services Tax on the sale of new residential premises; GSTR 2005/5 Goods and services tax:  arrangements of the kind described in Taxpayer Alert TA 2004/8: use of the Going Concern provisions and the Margin Scheme to avoid or reduce the Goods and Services Tax on the sale of new residential premises; GSTD 2006/5 Goods and services tax:  what are the results for GST purposes of barter exchanges engaging in the arrangement described in Taxpayer Alert TA 2005/4?; and GSTD 2007/2 Goods and services tax:  what are the results for GST purposes of a charitable institution engaging with an associated endorsed charitable institution in an arrangement described in Taxpayer Alert TA 2007/1?
+PS LA 2005/24 Application of General Anti-Avoidance Rules; GSTR 2004/3 Goods and services tax: arrangements of the kind described in Taxpayer Alert TA 2004/2: Avoidance of GST on the sale of new residential premises; GSTR 2005/3 Goods and services tax: arrangements of the kind described in Taxpayer Alert TA 2004/9 - exploitation of the second-hand goods provisions to obtain input tax credits; GSTR 2005/4 Goods and services tax: arrangements of the kind described in Taxpayer Alerts TA 2004/6 and TA 2004/7 - use of the Grouping or Margin Scheme provisions of the GST Act to avoid or reduce the Goods and Services Tax on the sale of new residential premises; GSTR 2005/5 Goods and services tax: arrangements of the kind described in Taxpayer Alert TA 2004/8: use of the Going Concern provisions and the Margin Scheme to avoid or reduce the Goods and Services Tax on the sale of new residential premises; GSTD 2006/5 Goods and services tax: what are the results for GST purposes of barter exchanges engaging in the arrangement described in Taxpayer Alert TA 2005/4?; and GSTD 2007/2 Goods and services tax: what are the results for GST purposes of a charitable institution engaging with an associated endorsed charitable institution in an arrangement described in Taxpayer Alert TA 2007/1?
 [6]
 The Commissioner considers that there would also be a 'scheme' where the residential premises are used for private purposes rather than leased.
 [7]
@@ -324,7 +321,7 @@ Federal Commissioner of Taxation v. Spotless Services Ltd
 [9]
 See paragraph 93 of PS LA 2005/24 Application of General Anti-Avoidance Rules.
 [10]
-GSTR 2009/4 Goods and services tax:  new residential premises and adjustments for changes in extent of creditable purpose at paragraph 46 details some factors which objectively determine a land owners purpose during the construction phase.
+GSTR 2009/4 Goods and services tax: new residential premises and adjustments for changes in extent of creditable purpose at paragraph 46 details some factors which objectively determine a land owners purpose during the construction phase.
 [11]
 In some cases, the agreement between the parties is not in writing, which is not reflective of an arm's length dealing.
 [12]
@@ -340,7 +337,7 @@ See subsection 29-5(1).
 GSTD 2009/D2
 References
 ATO references:
-NO  1-1UD8Q8X
+NO 1-1UD8Q8X
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

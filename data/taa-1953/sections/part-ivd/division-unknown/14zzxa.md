@@ -29,7 +29,7 @@ source_pdf: "vol01.pdf"
 > **(c)**  the court must deal with the claim in separate proceedings; and
 
 > <a id="s14ZZXA-1-d"></a>
-> **(d)**  the court must adjourn the primary proceedings until the claim has been dealt with; and Authorised Version C2026C00170 registered 28/04/2026
+> **(d)**  the court must adjourn the primary proceedings until the claim has been dealt with; and
 
 > <a id="s14ZZXA-1-e"></a>
 > **(e)**  none of the following:

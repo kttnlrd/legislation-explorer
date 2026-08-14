@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3A"
 division_title: "Refunds of RBA surpluses and credits"
 subdivision: ""
@@ -24,7 +24,7 @@ Commissioner may retain an amount
 > **(a)**  it would be reasonable to require verification of information (the notified information) that:
 
 > > <a id="s8AAZLGA-1-a-i"></a>
-> > **(i)**  is contained in the notification; and Authorised Version C2026C00170 registered 28/04/2026 matters
+> > **(i)**  is contained in the notification; and matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

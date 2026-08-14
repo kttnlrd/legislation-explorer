@@ -7,7 +7,7 @@ paragraph: "¶27-220"
 ---
 # Amount of quarterly PAYG instalments ¶27-220
 
-instalments Where a quarterly payer is not eligible to pay quarterly instalments on the basis of GDP-adjusted notional tax (¶27-470) or, if eligible, has elected to become a quarterly payer who pays on the basis of instalment income, the amount of a PAYG instalment for a particular quarter is calculated as follows (TAA s 45-110): applicable instalment rate × instalment income for the quarter The “applicable instalment rate” means whichever of the following is applicable:
+instalments Where a quarterly payer is not eligible to pay quarterly instalments on the basis of GDP-adjusted notional tax (¶27-470) or, if eligible, has elected to become a quarterly payer who pays on the basis of instalment income, the amount of a PAYG instalment for a particular quarter is calculated as follows (TAA s 45-110): applicable instalment rate × instalment income for the quarter The "applicable instalment rate" means whichever of the following is applicable:
 
 - the latest instalment rate notiﬁed to the taxpayer by the Commissioner before the end of the
 
@@ -27,7 +27,7 @@ instalments Where a quarterly payer is not eligible to pay quarterly instalments
 
 The procedure for varying the instalment rate is discussed at ¶27-280.
 
-The “instalment income for the quarter” is the taxpayer’s instalment income for the particular PAYG instalment quarter worked out under the rules in ¶27-260.
+The "instalment income for the quarter" is the taxpayer's instalment income for the particular PAYG instalment quarter worked out under the rules in ¶27-260.
 
 Example 1 Mighty Big Tractors Pty Ltd is required to pay quarterly PAYG instalments based on its instalment rate and instalment income for each quarter. The Commissioner has advised Mighty Big Tractors Pty Ltd of an instalment rate of 22.57% prior to the end of the current instalment quarter. The company has decided not to vary its instalment rate. During this instalment quarter, Mighty Big Tractors Pty Ltd derived instalment income of $1,025,891. Therefore, the PAYG instalment for Mighty Big Tractors Pty Ltd for the current quarter is: 22.57% × $1,025,891 = $231,543.60
 
@@ -45,7 +45,7 @@ Other taxpayers eligible Other quarterly payers are eligible to have their quart
 
   annual PAYG instalments but have chosen not to do so (s 45-130).
 
-“Small business entities” (¶7-050), and entities that would be a small business entity if the turnover threshold was $50 million instead of $10 million, are also able to have their liability for PAYG instalments calculated under the GDP-adjusted notional tax method.
+"Small business entities" (¶7-050), and entities that would be a small business entity if the turnover threshold was $50 million instead of $10 million, are also able to have their liability for PAYG instalments calculated under the GDP-adjusted notional tax method.
 
 *Refs: s 45-130)*
 
@@ -73,7 +73,7 @@ The amount of a PAYG instalment for a taxpayer for a particular quarter where th
 
 - where the taxpayer has chosen to work out the amount of the instalment on the basis of the
 
-  taxpayer’s estimate of benchmark tax for that income year and the taxpayer has notiﬁed the
+  taxpayer's estimate of benchmark tax for that income year and the taxpayer has notiﬁed the
 
 *Refs: s 45-112)*
 
@@ -91,23 +91,23 @@ If the instalment quarter is:                             The amount of the inst
 
 Marlene has not chosen to work out her instalments based on her estimate of her benchmark tax.
 
-At the time Marlene’s ﬁrst instalment was payable, her GDP-adjusted notional tax was $76,000. Accordingly, the Commissioner notiﬁed Marlene of an instalment of $19,000.
+At the time Marlene's ﬁrst instalment was payable, her GDP-adjusted notional tax was $76,000. Accordingly, the Commissioner notiﬁed Marlene of an instalment of $19,000.
 
-During the second quarter of the income year, Marlene’s assessment for the prior income year issued. Her GDP-adjusted notional tax became $102,000. Accordingly, the second quarterly PAYG instalment notiﬁed to Marlene by the Commissioner was: (50% × $102,000) − $19,000 = $32,000 Assuming no other changes to her GDP-adjusted tax, Marlene’s third and fourth instalments will be $25,500 each.
+During the second quarter of the income year, Marlene's assessment for the prior income year issued. Her GDP-adjusted notional tax became $102,000. Accordingly, the second quarterly PAYG instalment notiﬁed to Marlene by the Commissioner was: (50% × $102,000) − $19,000 = $32,000 Assuming no other changes to her GDP-adjusted tax, Marlene's third and fourth instalments will be $25,500 each.
 
 Two instalments payers Individuals who are quarterly payers who pay 2 instalments annually pay on the basis of GDP-adjusted notional tax (¶27-200). The amount of the quarterly instalment will be worked out in the same way as for those who are already entitled to pay on the basis of GDP-adjusted notional tax.
 
-Generally, the instalment payable for the third quarter is 75% of the taxpayer’s GDP-adjusted notional tax.
+Generally, the instalment payable for the third quarter is 75% of the taxpayer's GDP-adjusted notional tax.
 
-The instalment payable for the fourth quarter is 100% of the taxpayer’s GDP-adjusted notional tax less the previous instalment unless the amount is negative, in which case the amount of instalment is nil. This method is used if the individual becomes a 2 instalment payer before the end of the ﬁrst instalment quarter in an income year. The amount is reduced if the individual becomes a 2 instalment payer at the end of the second, third or fourth instalment quarter of the income year. The reduction ensures that the individual does not pay more than would have been required had he/she been a quarterly payer who pays 4 instalments annually on the basis of GDP-adjusted notional tax, or if he/she had chosen to pay quarterly instalments on the basis of instalment income.
+The instalment payable for the fourth quarter is 100% of the taxpayer's GDP-adjusted notional tax less the previous instalment unless the amount is negative, in which case the amount of instalment is nil. This method is used if the individual becomes a 2 instalment payer before the end of the ﬁrst instalment quarter in an income year. The amount is reduced if the individual becomes a 2 instalment payer at the end of the second, third or fourth instalment quarter of the income year. The reduction ensures that the individual does not pay more than would have been required had he/she been a quarterly payer who pays 4 instalments annually on the basis of GDP-adjusted notional tax, or if he/she had chosen to pay quarterly instalments on the basis of instalment income.
 
 Instalment quarter in which                                    Instalment quarter for which
 
-instalment rate is ﬁrst notiﬁed                                  the instalment is payable Before the end of the ﬁrst                                                 Third                                 75% of the taxpayer’s GDP-adjusted notional tax
+instalment rate is ﬁrst notiﬁed                                  the instalment is payable Before the end of the ﬁrst                                                 Third                                 75% of the taxpayer's GDP-adjusted notional tax
 
-notional tax, less the third instalment During the second                                                                Third                           50% of the taxpayer’s GDP-adjusted notional tax
+notional tax, less the third instalment During the second                                                                Third                           50% of the taxpayer's GDP-adjusted notional tax
 
-notional tax, less the third instalment During the third                                                                 Third                           25% of the taxpayer’s GDP-adjusted notional tax
+notional tax, less the third instalment During the third                                                                 Third                           25% of the taxpayer's GDP-adjusted notional tax
 
 notional tax, less the third instalment During the fourth                                                                Third                           Not applicable
 
@@ -129,7 +129,7 @@ notional tax Impact of IFRS Guidelines have been issued by the ATO for Australia
 
 Taxpayers who make a genuine attempt to comply with IFRS and revise their obligation as soon as practical or lodge under previous reporting standards, or use a best estimate approach, will have GIC attributable to the revision remitted to the base rate. Penalties on shortfall or variation amounts would also be remitted, provided a genuine attempt to comply with IFRS has been made.
 
-Where a PAYG instalment issue has not been resolved by the time the annual income tax return is lodged, any adjustments need only be made to the income tax return when the issue is resolved. Revisions that reduce a taxpayer’s tax liability may give rise to an entitlement to interest.
+Where a PAYG instalment issue has not been resolved by the time the annual income tax return is lodged, any adjustments need only be made to the income tax return when the issue is resolved. Revisions that reduce a taxpayer's tax liability may give rise to an entitlement to interest.
 
 ## Instalment income as a basis for calculating quarterly
 
@@ -141,10 +141,10 @@ Where a PAYG instalment issue has not been resolved by the time the annual incom
 
 ## Amount of instalment
 
-## Fourth                           100% of the taxpayer’s GDP-adjusted
+## Fourth                           100% of the taxpayer's GDP-adjusted
 
-## Fourth                           75% of the taxpayer’s GDP-adjusted
+## Fourth                           75% of the taxpayer's GDP-adjusted
 
-## Fourth                           50% of the taxpayer’s GDP-adjusted
+## Fourth                           50% of the taxpayer's GDP-adjusted
 
-## Fourth                           25% of the taxpayer’s GDP-adjusted
+## Fourth                           25% of the taxpayer's GDP-adjusted

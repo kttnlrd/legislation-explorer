@@ -3,23 +3,18 @@ ATO ID 2003/118
 ==================================================
 
 Capital Gains Tax
-        Deferred capital loss or deduction: greater than 50% interest - realisation event
-        FOI status: may be released
+ Deferred capital loss or deduction: greater than 50% interest - realisation event
+ FOI status: may be released
 
-
-This ATO Interpretative Decision is withdrawn from the database as there is no material difference to the facts in  ATO ID 2003/116. As such, this ATO ID does not add value to the precedential ATO view database.
+This ATO Interpretative Decision is withdrawn from the database as there is no material difference to the facts in ATO ID 2003/116. As such, this ATO ID does not add value to the precedential ATO view database.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a realisation event happen for the purposes of subsection 170-280(3) of the Income Tax Assessment Act 1997 (ITAA 1997) where the relevant CGT asset is acquired by more than one entity none of which, considered in isolation, acquires a greater than 50% interest in it?
@@ -31,10 +26,10 @@ The disposal of the CGT asset resulted in CGT event A1 happening for the purpose
 The capital proceeds were less than the asset's reduced cost base and the taxpayer made a capital loss in accordance with subsection 104-10(4) of the ITAA 1997.
 Company P and Company S were linked at the time of the CGT event for the purposes of subsection 170-260(2) of the ITAA 1997 so that the capital loss was disregarded pursuant to section 170-270 of the ITAA 1997.
 Later, a
-          new event
+ new event
  happened and pursuant to section 170-275 of the ITAA 1997, Company P was taken to have made a capital loss equivalent to the capital loss that was previously disregarded pursuant to section 170-270 of the ITAA 1997.
 Company P reacquired the CGT asset and a
-          further event
+ further event
  occurred pursuant to section 170-280 of the ITAA 1997. Therefore, subsection 170-280(2) provided that Company P was taken not to have made the capital loss previously authorised by section 170-275 of the ITAA 1997.
 Company P has now disposed of the relevant CGT asset to two other companies, who have each acquired a 50% interest in it.
 For the purposes of paragraph 170-280(3)(b) of the ITAA 1997 neither of the other companies were, at the time of acquiring their interests in the CGT asset part of the same linked group as the originating entity Company P, nor a connected entity or an associate of a connected entity.
@@ -42,12 +37,10 @@ Reasons for Decision
 Paragraph 170-280(3)(b) of the ITAA 1997 refers to a realisation event where:
 
 '...the relevant CGT asset, or a
-              greater than 50% interest
-               in it, is acquired by
-              an entity
-               that is none of the following:
-
-
+ greater than 50% interest
+ in it, is acquired by
+ an entity
+ that is none of the following:
 
 i)a member of the linked group of which the originating company is a member,
 ii)a connected entity of the originating company,
@@ -57,17 +50,15 @@ In applying the singular word 'entity' in paragraph 170-280(3)(b) of the ITAA 19
 
 'In any Act, unless the contrary intention appears:
 
-
-
 (a)...
 (b)words in the singular number include the plural...'
 
 As paragraph 170-280(3)(b) of the ITAA 1997 applies then, pursuant to subsection 170-280(3) of the ITAA 1997, Company P is taken to have made a capital loss at the time of the realisation event equal to the amount of capital loss that was previously taken not to have been made because of subsection 170-280(2) of the ITAA 1997.
 Date of decision:
-         14 January 2003
+  14 January 2003
 
 Year of income:
-           Year ending 30 June 2003
+  Year ending 30 June 2003
 
 Legislative References:
 
@@ -83,40 +74,36 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital losses
-          Net capital losses
-          Capital gains tax
-          CGT roll-over relief
-          Company losses
-          Deferred capital losses
-          Deferred capital losses and deductions
-          Connected entity
-          Deferral event
-          Disregarded capital loss
-          Realisation event
-          Linked group
-          Originating company
-          Relevant CGT asset
-
+ Net capital losses
+ Capital gains tax
+ CGT roll-over relief
+ Company losses
+ Deferred capital losses
+ Deferred capital losses and deductions
+ Connected entity
+ Deferral event
+ Disregarded capital loss
+ Realisation event
+ Linked group
+ Originating company
+ Relevant CGT asset
 
 Business Line:
-         Losses and CGT Centre of Expertise
+  Losses and CGT Centre of Expertise
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 14 January 2003

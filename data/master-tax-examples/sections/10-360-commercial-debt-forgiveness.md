@@ -21,7 +21,7 @@ Solution The lender (Patrice) Where a taxpayer has lent money and the debt is la
 
 Firstly, if a taxpayer lent the money in the ordinary course of a money-lending business, the loss incurred can be claimed as an income tax deduction in the year in which the debt is written-off as bad. The taxpayer should ensure the debt is written-off as bad before it is released. At the time of the write-off, there must be an existing debt that has become essentially worthless. There is no evidence that Patrice is running a money- lending business, and therefore he would be unlikely to be able to claim a tax deduction in relation to the write-off of the bad debt.
 
-Secondly, if the lender is not a “money lender”, but merely advanced the funds outside the ordinary course of its core business, the loss incurred may give rise to a capital loss rather than an outright deduction. An example might include a cash rich property investor who chooses to lend money to a speculative venture, as here.
+Secondly, if the lender is not a "money lender", but merely advanced the funds outside the ordinary course of its core business, the loss incurred may give rise to a capital loss rather than an outright deduction. An example might include a cash rich property investor who chooses to lend money to a speculative venture, as here.
 
 Thirdly, the loss may arise from the disposal of a traditional security and therefore may be deductible under ITAA36 s 70B (this is not the case here, so this possibility is not explored further).
 
@@ -37,7 +37,7 @@ This is a commercial debt as Alpha Pty Ltd would be able to claim (and possibly 
 
 These rules apply to remedy the effective duplication of tax deductions that could otherwise arise from the forgiveness of commercial debt. Duplication could occur because, while a creditor may be entitled to a tax deduction or a capital loss when a debt is forgiven, the debtor is not assessed on any gain and could continue to claim deductions for accumulated revenue and capital losses, even though the debtor is relieved of the liability to repay the debt.
 
-Division 245 of ITAA97 treats the “net forgiven amount” of a commercial debt as having been used to generate the deductions that would otherwise be available to the debtor.
+Division 245 of ITAA97 treats the "net forgiven amount" of a commercial debt as having been used to generate the deductions that would otherwise be available to the debtor.
 
 To determine this amount, a debtor must:
 
@@ -53,17 +53,17 @@ To determine this amount, a debtor must:
 
 - finally, reduce the gross forgiven amount by certain amounts that, as a result of the forgiveness, will
 
-  be taken into account in arriving at the debtor’s taxable income. For example, a forgiveness could
+  be taken into account in arriving at the debtor's taxable income. For example, a forgiveness could
 
   result in the cost base of an asset being reduced (ITAA97 s 245-85). However, if a creditor forgives a
 
   commercial debt under a settlement agreement, and also pays the debtor an additional amount under
 
-  that agreement which is included in the debtor’s assessable income, the additional amount does not
+  that agreement which is included in the debtor's assessable income, the additional amount does not
 
   reduce the gross forgiven amount (Interpretative Decision ID 2014/33).
 
-The net amount(s) of commercial debts forgiven in a year of income will be applied in a particular order, until no net forgiven amount remains, against the tax “attributes” of the borrower. In particular, the net forgiven amount is applied in the following order to:
+The net amount(s) of commercial debts forgiven in a year of income will be applied in a particular order, until no net forgiven amount remains, against the tax "attributes" of the borrower. In particular, the net forgiven amount is applied in the following order to:
 
 - firstly, reduce deductible revenue losses of the debtor that otherwise could be claimed as a deduction
 
@@ -85,6 +85,6 @@ Any part of the net forgiven amount which remains after being applied against al
 
 Accordingly, Alpha will be required to apply the net forgiven amount ($1.7 million) against its tax attributes, namely the $3 million in tax losses at 1 July 2024, which will therefore be reduced to $1.3 million, with only this lesser amount available to use in the current income year or a future income year.
 
-A forgiveness effected under a bankruptcy law, by will, or for reasons of natural love and affection (if the creditor is a natural person: Taxation Determination TD 2022/1), is excluded (ITAA97 s 245-40) from the commercial debt forgiveness rules. In this case, despite the close personal and familial bond between Patrice and Francois, the debt was actually incurred by a corporation (Alpha Pty Ltd), which is not a natural person, and therefore the exclusion that arises from the debt forgiveness rules due to “natural love and affection” does not apply.
+A forgiveness effected under a bankruptcy law, by will, or for reasons of natural love and affection (if the creditor is a natural person: Taxation Determination TD 2022/1), is excluded (ITAA97 s 245-40) from the commercial debt forgiveness rules. In this case, despite the close personal and familial bond between Patrice and Francois, the debt was actually incurred by a corporation (Alpha Pty Ltd), which is not a natural person, and therefore the exclusion that arises from the debt forgiveness rules due to "natural love and affection" does not apply.
 
 *Refs: s 245-1, ITAA97 s 245-55), ITAA97 s 245-65), ITAA97 s 245-75), ITAA97 s 245-85), s 245-195, ITAA97 s 245-40)*

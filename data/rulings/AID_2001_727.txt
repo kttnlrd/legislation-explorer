@@ -3,23 +3,18 @@ ATO ID 2001/727
 ==================================================
 
 Goods and Services Tax
-        GST and entitlement to an input tax credit for an acquisition under an asset loan agreement
-        FOI status: may be released
+ GST and entitlement to an input tax credit for an acquisition under an asset loan agreement
+ FOI status: may be released
 
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in  GSTD 2004/4 Goods and services tax: can consideration for a supply be provided or received without transferring money (such as where the parties only make book entries recording their agreement that the supply is paid for)?
+This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTD 2004/4 Goods and services tax: can consideration for a supply be provided or received without transferring money (such as where the parties only make book entries recording their agreement that the supply is paid for)?
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it acquires an asset under an asset loan agreement?
@@ -32,8 +27,6 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Under section 11-20 of the GST Act an entity is entitled to an input tax credit for any creditable acquisition that it makes.
 Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if:
-
-
 
 •the entity acquires anything solely or partly for a creditable purpose;
 •the supply of the thing to the entity is a taxable supply;
@@ -48,7 +41,7 @@ In this case, there are two separate supplies for GST purposes. The supply of th
 The entity obtains the funds from the finance company under the asset loan agreement. The entity then uses these funds to purchase the asset from the supplier. As such, it is the entity that is providing the consideration for the supply of the asset (not the finance company).
 Therefore, as all of the requirements for a creditable acquisition have been satisfied the entity is entitled to claim an input tax credit under section 11-20 of the GST Act when it acquires an asset under an asset loan agreement.
 Date of decision:
-         10 October 2001
+  10 October 2001
 
 Legislative References:
 
@@ -57,34 +50,30 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section
 Keywords
 
 Goods & services tax
-          GST supplies and acquisitions
-          Creditable acquisition
-          GST consideration
-          Input taxed supplies
-
+ GST supplies and acquisitions
+ Creditable acquisition
+ GST consideration
+ Input taxed supplies
 
 Siebel/TDMS Reference Number:
-         CW231347
+  CW231347
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         30 November 2001
+  30 November 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 10 October 2001

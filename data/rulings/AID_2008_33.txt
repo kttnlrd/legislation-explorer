@@ -3,21 +3,16 @@ ATO ID 2008/33
 ==================================================
 
 Income Tax
-        Consolidation:  membership - transitional foreign-held subsidiary acquires a wholly-owned subsidiary after formation
-        FOI status: may be released
-
+ Consolidation: membership - transitional foreign-held subsidiary acquires a wholly-owned subsidiary after formation
+ FOI status: may be released
 
 This ATO ID has been amended to improve clarity.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does subsection 701C-10(8) of the Income Tax Transitional Provisions Act 1997 (IT(TP)A 1997) prevent a company from becoming a subsidiary member of a consolidated or multiple entry consolidated (MEC) group when it is directly acquired by members of the group including one or more transitional foreign-held subsidiary (TFHS) members?
@@ -36,10 +31,10 @@ Subsection 701C-10(8) of the IT(TP)A 1997 is a timing requirement for existing c
 As subsection 701C-10(8) of the IT(TP)A 1997 can only apply to a company in which a foreign resident entity of the type described in paragraph 701C-10(8)(c) of the IT(TP)A 1997 (or a nominee of such an entity) holds an interest, it cannot apply to a company in which all of the membership interests become directly held by members of the consolidated or MEC group, including TFHS members of the group, because the members of the group are all Australian residents.
 Because no foreign resident entity holds a membership interest in N Co, subsection 701C-10(8) of the IT(TP)A 1997 does not apply to prevent N Co becoming a subsidiary member. N Co is a wholly-owned subsidiary of the head company, satisfies all of the income tax treatment and Australian residence requirements, and meets all of the other requirements of section 701C-10 of the IT(TP)A 1997. N Co therefore becomes a subsidiary member of the consolidated group, as a transitional foreign-held indirect subsidiary, when X Co acquires it.
 Date of decision:
-         11 February 2008
+  11 February 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -54,25 +49,24 @@ Taxation Determination TD 2005/44
 Keywords
 
 Consolidated group
-          Consolidation
-          Consolidation - membership
-          Consolidation - multiple entry consolidated group
-          Member of a group
-          Subsidiary member of a consolidated group
-          Subsidiary member of a MEC group
-          Transitional foreign-held indirect subsidiaries
-          Transitional foreign-held subsidiaries
-          Wholly owned subsidiary
-
+ Consolidation
+ Consolidation - membership
+ Consolidation - multiple entry consolidated group
+ Member of a group
+ Subsidiary member of a consolidated group
+ Subsidiary member of a MEC group
+ Transitional foreign-held indirect subsidiaries
+ Transitional foreign-held subsidiaries
+ Wholly owned subsidiary
 
 Siebel/TDMS Reference Number:
-         5896892
+  5896892
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         22 February 2008
+  22 February 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -7,9 +7,9 @@ paragraph: "¶12-395"
 ---
 # CGT roll-over for trust restructures ¶12-395
 
-An optional roll-over is available where a trust disposes of all of its assets to a company and the beneﬁciaries’ interests in the trust are exchanged for shares in the company (Subdiv 124-N: ss 124-850 to 124-875). Both the trust and its beneﬁciaries can access the roll-over.
+An optional roll-over is available where a trust disposes of all of its assets to a company and the beneﬁciaries' interests in the trust are exchanged for shares in the company (Subdiv 124-N: ss 124-850 to 124-875). Both the trust and its beneﬁciaries can access the roll-over.
 
-The beneﬁts of the roll-over will be reversed by CGT event J4 (¶11-340) if the trust does not cease to exist within 6 months from the disposal of the ﬁrst asset to the company (or longer if the reasons for the delay are beyond the trustee’s control). However, CGT event J4 cannot happen to a roll-over asset that is sold by the company during the trust restructuring period.
+The beneﬁts of the roll-over will be reversed by CGT event J4 (¶11-340) if the trust does not cease to exist within 6 months from the disposal of the ﬁrst asset to the company (or longer if the reasons for the delay are beyond the trustee's control). However, CGT event J4 cannot happen to a roll-over asset that is sold by the company during the trust restructuring period.
 
 Requirements for roll-over The roll-over is generally available where a trust, or 2 or more trusts, restructure into a single company. CGT event E4 (¶11-290) must be capable of applying to all of the interests in the trust. Accordingly, the roll-over is not available for a restructure undertaken by a discretionary trust (ID 2002/955). In addition, the following requirements must be met:
 
@@ -66,7 +66,7 @@ Example A solicitor owns 2 shares in a shelf company before the trust restructur
 
 Choosing the roll-over The roll-over is only available for the trust and company under the trust restructure if they both choose to obtain it (s 124-865). However, the beneﬁciaries of the trust may choose the roll-over irrespective of whether the trust and company choose to obtain it. The choice must be made on an asset-by-asset basis (s 124-870).
 
-A foreign resident beneﬁciary cannot choose the roll-over unless the replacement shares received in exchange for the beneﬁciary’s interests in the trust are taxable Australian property (¶12-725).
+A foreign resident beneﬁciary cannot choose the roll-over unless the replacement shares received in exchange for the beneﬁciary's interests in the trust are taxable Australian property (¶12-725).
 
 Consequences of roll-over Where the requirements for the roll-over are met, the trust can disregard the capital gain or loss where CGT event A1 (¶11-250) happens on the disposal of an asset to the company. The cost base and reduced cost base of the CGT asset for the trust becomes the ﬁrst element of the cost base or reduced cost base of the asset for the company. If the original asset acquired by the trust is a pre-CGT asset, the asset acquired by the company will be treated as a pre-CGT asset.
 

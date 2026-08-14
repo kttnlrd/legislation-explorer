@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to the calculation of a person’s provisional tax liability, when section RC 10 (Calculating amount of instalment under standard and estimation methods) applies,—
+**(1)**  This section applies to the calculation of a person's provisional tax liability, when section RC 10 (Calculating amount of instalment under standard and estimation methods) applies,—
 
 - (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year and for instalments for the 2011–12 and 2012–13 income years, if the person is a new personal tax rate person:
 

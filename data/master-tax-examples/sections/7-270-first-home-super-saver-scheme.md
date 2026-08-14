@@ -29,15 +29,15 @@ The key features of the FHSS Scheme are as follows.
 
   total. Voluntary contributions can be non-concessional or concessional contributions.
 
-- An individual may apply to the ATO to withdraw up to their “FHSS maximum release amount”, which
+- An individual may apply to the ATO to withdraw up to their "FHSS maximum release amount", which
 
   is the sum of eligible contributions of up to $50,000 and associated deemed earnings, to use as a
 
   deposit on a first home.
 
-- To initiate the withdrawal, the individual must request a “first home super saver determination” (FHSS
+- To initiate the withdrawal, the individual must request a "first home super saver determination" (FHSS
 
-Determination) from the Commissioner. In making an FHSS Determination, the Commissioner must identify a “maximum release amount” based on the individual’s contributions and associated earnings.
+Determination) from the Commissioner. In making an FHSS Determination, the Commissioner must identify a "maximum release amount" based on the individual's contributions and associated earnings.
 
 - Once an FHSS determination has been received, the individual can request the Commissioner to
 
@@ -51,7 +51,7 @@ Determination) from the Commissioner. In making an FHSS Determination, the Commi
 
   rate from the 1st day of the month the contribution is made to the date of the determination.
 
-- The individual’s superannuation fund must pay the amount to be released to the Commissioner, who
+- The individual's superannuation fund must pay the amount to be released to the Commissioner, who
 
   will withhold an amount for the tax payable and pay the balance to the individual. The amount withheld
 
@@ -61,7 +61,7 @@ Determination) from the Commissioner. In making an FHSS Determination, the Commi
 
 - An FHSS released amount is subject to concessional tax treatment. Concessional contributions
 
-  and earnings that are withdrawn are included in the individual’s assessable income and benefit from
+  and earnings that are withdrawn are included in the individual's assessable income and benefit from
 
   a non-refundable 30% tax offset. For released amounts of non-concessional contributions, only the
 
@@ -81,7 +81,7 @@ Determination) from the Commissioner. In making an FHSS Determination, the Commi
 
   the First Home Super Saver Tax Act 2017.
 
-In Paul’s case, having applied for a FHSS Determination, the Commissioner will advise Paul of his maximum release amount. This is calculated to be $28,500, comprising:
+In Paul's case, having applied for a FHSS Determination, the Commissioner will advise Paul of his maximum release amount. This is calculated to be $28,500, comprising:
 
 - $20,000 (the eligible non-concessional contributions)
 
@@ -89,9 +89,9 @@ In Paul’s case, having applied for a FHSS Determination, the Commissioner will
 
 - $1,700 (associated earnings as calculated by the Commissioner).
 
-The Commissioner will use Paul’s previous tax return to estimate his marginal tax rate for 2024–25. His taxable income from the last year plus his assessable FHSS released amount provides an estimated income, which suggests that he will remain in the same marginal tax bracket of 37% for 2024–25.
+The Commissioner will use Paul's previous tax return to estimate his marginal tax rate for 2024–25. His taxable income from the last year plus his assessable FHSS released amount provides an estimated income, which suggests that he will remain in the same marginal tax bracket of 37% for 2024–25.
 
-Paul’s estimated withholding rate is determined to be 9%, being:
+Paul's estimated withholding rate is determined to be 9%, being:
 
 - the estimated marginal tax rate of 37%, plus
 
@@ -105,6 +105,6 @@ Alternatively, if Paul is not yet ready to sign the contract, he has up to 12 mo
 
 Paul can then request a release of the maximum amount in 2024–25. A release authority will be issued to his fund, and his fund will release the full amount to the ATO.
 
-The ATO will withhold $765 (9% of $8,500, which is the assessable FHSS released amount) from the released amount and release the remaining $27,735 to Paul. It will typically take between 15 and 25 business days for the fund to release Paul’s money and for the ATO to pay it to Paul.
+The ATO will withhold $765 (9% of $8,500, which is the assessable FHSS released amount) from the released amount and release the remaining $27,735 to Paul. It will typically take between 15 and 25 business days for the fund to release Paul's money and for the ATO to pay it to Paul.
 
 Paul will then need to include $8,500 in his assessable income in his 2024–25 tax return. He will also receive a tax offset of $2,550, being 30% of the assessable FHSS released amount and a credit for the tax withheld of $765.

@@ -47,7 +47,7 @@ Clearance certiﬁcates should be provided by the vendor to the purchaser before
 
 For an indirect Australian real property interest (other than a company title interest) and for an option or right to acquire TARP or an indirect Australian real property interest (other than a company title interest), the obligation to withhold arises if the purchaser knows or reasonably believes the vendor to be a foreign resident. For these interests, the vendor may make a declaration to the eﬀect that he/she/it is a resident and this should be provided to the purchaser before settlement. There are, however, penalties for making false or misleading declarations.
 
-For all relevant Australian property interests and related interests, the vendor or the purchaser may apply for a variation of the amount of the withholding obligation. Where the vendor applies for a variation, the Commissioner’s notice of variation should be provided to the purchaser before settlement to ensure the reduced withholding rate applies. Reasons for seeking a variation include: the asset is a pre-CGT asset; a CGT roll-over or exemption is claimed; and the liability is less than 15% of the proceeds and any non- monetary consideration. The Commissioner’s variation power is further explained in LCR 2016/5.
+For all relevant Australian property interests and related interests, the vendor or the purchaser may apply for a variation of the amount of the withholding obligation. Where the vendor applies for a variation, the Commissioner's notice of variation should be provided to the purchaser before settlement to ensure the reduced withholding rate applies. Reasons for seeking a variation include: the asset is a pre-CGT asset; a CGT roll-over or exemption is claimed; and the liability is less than 15% of the proceeds and any non- monetary consideration. The Commissioner's variation power is further explained in LCR 2016/5.
 
 Where there is a sale of Australian property by multiple vendors and one of them is an Australian resident and at least one is a foreign resident, Legislative Instrument F2016L01123 ensures that the PAYG amount is based on the proportion of the acquisition cost and the market value of the ﬁnancial beneﬁt attributable to foreign resident entities.
 
@@ -67,11 +67,11 @@ If an amount is withheld from the sale price, the seller will only receive any r
 
 Withholding variations to nil The amount that would otherwise have had to be withheld and paid under s 14-200 is reduced to nil where:
 
-- a deceased’s legal personal representative
+- a deceased's legal personal representative
 
 - beneﬁciaries of a deceased estate, or
 
-- surviving joint tenants that acquire a deceased joint tenant’s interest in a relevant asset
+- surviving joint tenants that acquire a deceased joint tenant's interest in a relevant asset
 
   would otherwise have to pay the amount (Legislative Instrument F2016L01396).
 

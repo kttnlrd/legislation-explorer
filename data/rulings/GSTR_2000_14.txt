@@ -4,16 +4,14 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 165
-  • Div 358
-  • Div 75
-  • Division 165
-  • Division 358
-  • Division 75
+ • Div 165
+ • Div 358
+ • Div 75
+ • Division 165
+ • Division 358
+ • Division 75
 
 Topics: GST, Companies, Employment
-
-
 
 ================================================================================
 
@@ -28,7 +26,7 @@ Back to browse
 13 related documents
 Goods and Services Tax Ruling
 GSTR 2000/14
-Goods and services tax:  transitional valuation of work-in-progress for head contractors in the building or civil engineering industries
+Goods and services tax: transitional valuation of work-in-progress for head contractors in the building or civil engineering industries
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -77,7 +75,7 @@ A New Tax System (Goods and Services Tax Transition) Act 1999
 (the 'Transition Act').
 3. The methods of valuation specified by the Commissioner are set out in the attached Commissioner's Specification -
 A New Tax System (Goods and Services Tax Transition) Act 1999 Specified Manner of Determining Value of Construction Work-in-Progress Specification (No.1) 2000
-.  This Ruling further explains the valuation options set out in that Specification.
+. This Ruling further explains the valuation options set out in that Specification.
 4. This Ruling applies to a supply of goods or real property to the extent that the supply is the construction, major reconstruction, manufacture or extension of a building or civil engineering work.
 5. This Ruling does not apply to:
 (i)
@@ -89,7 +87,7 @@ a construction you undertake on your own land.
 Date of effect
 7. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 Background
-8. The 'time of supply' rules contained in section 6 of the Transition Act determine when a supply is made under an agreement which spans 1 July 2000.  Under subsection 6(3), a supply or acquisition of real property is made when the property is made available to the recipient.  With a construction project,
+8. The 'time of supply' rules contained in section 6 of the Transition Act determine when a supply is made under an agreement which spans 1 July 2000. Under subsection 6(3), a supply or acquisition of real property is made when the property is made available to the recipient. With a construction project,
 [F2]
 this would normally occur when the building or civil engineering work is completed.
 9. Because of this, where completion occurs on or after 1 July 2000, the entire supply would (without a special transitional rule) be subject to GST, even if most of the work and materials were provided before 1 July 2000.
@@ -113,15 +111,15 @@ Head contractor
 Distinction between section 19 and the margin scheme
 15. Section 19 of the Transition Act and Division 75 (the margin scheme) of the
 A New Tax System (Goods and Services Tax) Act 1999
-both require valuation of real property as at 1 July 2000.  However, they are not alternatives from which a supplier may choose in a particular situation.
-16. Section 19 applies only to a construction project, not to the land on which the construction project is taking place.  Because of this, the valuation required does not include the land, and the supplier will be subject to GST only on the work and materials permanently incorporated in or affixed on the construction site on and after 1 July 2000.
-17. Under Division 75, the need for a valuation as at 1 July 2000 or a later date only arises where a freehold interest in land, a stratum unit, or a long term lease, which is acquired or held before 1 July 2000, is granted or sold on or after that date.  The valuation includes the land.
+both require valuation of real property as at 1 July 2000. However, they are not alternatives from which a supplier may choose in a particular situation.
+16. Section 19 applies only to a construction project, not to the land on which the construction project is taking place. Because of this, the valuation required does not include the land, and the supplier will be subject to GST only on the work and materials permanently incorporated in or affixed on the construction site on and after 1 July 2000.
+17. Under Division 75, the need for a valuation as at 1 July 2000 or a later date only arises where a freehold interest in land, a stratum unit, or a long term lease, which is acquired or held before 1 July 2000, is granted or sold on or after that date. The valuation includes the land.
 Previous Rulings
 18. This Ruling replaces GST Bulletin, GSTB 1999/2 -
 How to determine the value of construction work-in-progress
-.  Accordingly, that Bulletin is withdrawn from the issue date of this Ruling.
+. Accordingly, that Bulletin is withdrawn from the issue date of this Ruling.
 Ruling
-19. A head contractor may value the work and materials permanently incorporated in or affixed on the site of a building or civil engineering work under one of three methodologies (Options A-C) as specified in the attached Commissioner's Specification.  These are:
+19. A head contractor may value the work and materials permanently incorporated in or affixed on the site of a building or civil engineering work under one of three methodologies (Options A-C) as specified in the attached Commissioner's Specification. These are:
 (a)
 total of approved progress claims to 1 July 2000 (see paragraph 38 for further explanation);
 (b)
@@ -130,9 +128,9 @@ uniform increase between approved progress claims (see paragraph 47 for further 
 independent valuation by a recognised person or by an in-house employee with the same qualifications or experience as a recognised person (see paragraph 50 for further explanation).
 Explanations (this forms part of the ruling)
 Subcontractors and section 19
-20. The supply referred to in section 19 is the supply of an entire construction project.  This intention is made clear in the Explanatory Memorandum to the Transition Act, at paragraph 2.76:
+20. The supply referred to in section 19 is the supply of an entire construction project. This intention is made clear in the Explanatory Memorandum to the Transition Act, at paragraph 2.76:
 'The supply is the supply of the total construction project itself as provided for in the agreement, not the components in its creation;'
-21. Section 19 generally does not apply to an agreement involving a subcontractor, as a supply under such an agreement is typically not a supply of a complete construction project.  A subcontractor is typically engaged by a head contractor to supply components of the complete construction project.
+21. Section 19 generally does not apply to an agreement involving a subcontractor, as a supply under such an agreement is typically not a supply of a complete construction project. A subcontractor is typically engaged by a head contractor to supply components of the complete construction project.
 22. However, section 19 will apply to an agreement between a subcontractor and a head contractor if the agreement is for the supply of a complete construction project.
 23. For example, section 19 will apply to a subcontract agreement for the construction of a complete bridge, where that bridge forms part of the supply by a head contractor of several kilometres of roadway.
 Supplies that do not come within section 19
@@ -157,31 +155,31 @@ Sales tax and GST
 33. The symmetry between GST and sales tax is also maintained where section 19 applies in that if a head contractor holds materials at the start of 1 July 2000 and these materials are not permanently incorporated or affixed to a site, GST will be payable on those materials and a sales tax credit will arise to the head contractor under section 16.
 [F4]
 What is the 'operative date'
-34. Under subsection 19(2), the value of work and materials must be determined 'as at the start of 1 July 2000'.  This is in line with the general premise of the Transition Act that GST is only payable on a supply to the extent it is made on or after that date.
+34. Under subsection 19(2), the value of work and materials must be determined 'as at the start of 1 July 2000'. This is in line with the general premise of the Transition Act that GST is only payable on a supply to the extent it is made on or after that date.
 [F5]
-35. However, under section 13, a supply under a written agreement made before 8 July 1999 may remain GST-free beyond 1 July 2000, depending on the date and terms of the agreement.  If section 13 applies to an agreement under this Ruling, the date for valuation becomes the earlier of 1 July 2005 and the date the first review opportunity under the agreement arises.
+35. However, under section 13, a supply under a written agreement made before 8 July 1999 may remain GST-free beyond 1 July 2000, depending on the date and terms of the agreement. If section 13 applies to an agreement under this Ruling, the date for valuation becomes the earlier of 1 July 2005 and the date the first review opportunity under the agreement arises.
 [F6]
-36. The date valuation is required under a particular agreement is referred to in this Ruling as its 'operative date'.  The operative date cannot occur before 1 July 2000.  For the purposes of this Ruling, we will assume the operative date is 1 July 2000, although readers should be aware that it may be a later date.
+36. The date valuation is required under a particular agreement is referred to in this Ruling as its 'operative date'. The operative date cannot occur before 1 July 2000. For the purposes of this Ruling, we will assume the operative date is 1 July 2000, although readers should be aware that it may be a later date.
 37. We explain section 13 in greater detail in Goods and Services Tax Ruling GSTR 2000/16, titled 'transitional arrangements - GST-free supplies under existing agreements'.
 The valuation methodologies
 Option A - Total of approved progress claims to 1 July 2000
-38. Under this option, the 1 July 2000 valuation of work and materials will be the sum total of all approved progress claims made for the construction project prior to 1 July 2000.  This total will include claims approved on or after 1 July 2000 in respect of progress achieved before that date.
-39. For Option A to apply, payments under the construction agreement must be approved by a person designated under the agreement.  Typically this would be a quantity surveyor, engineer or architect.
+38. Under this option, the 1 July 2000 valuation of work and materials will be the sum total of all approved progress claims made for the construction project prior to 1 July 2000. This total will include claims approved on or after 1 July 2000 in respect of progress achieved before that date.
+39. For Option A to apply, payments under the construction agreement must be approved by a person designated under the agreement. Typically this would be a quantity surveyor, engineer or architect.
 40. The designated person should certify either the progress made during a period (for example, a monthly progress claim for work done in that period) or that a particular stage of construction, as specified in the construction agreement, has been completed.
 Residential houses
-41. An agreement for the construction of a residential house may not have a person designated to certify progress claims.  In cases where a financial institution is funding the construction of a residential house, the financial institution may approve the progress claim itself.
+41. An agreement for the construction of a residential house may not have a person designated to certify progress claims. In cases where a financial institution is funding the construction of a residential house, the financial institution may approve the progress claim itself.
 42. The release of loan funds by a financial institution for and during the construction of a residential house will be taken to be approval of the progress claim for the purposes of Option A, provided:
 (i)
 funding of the construction of the residential house has been made available by the financial institution on a draw-down basis as specified stages of completion are reached; and
 (ii)
 the financial institution satisfies itself that the claimed stage of completion has been reached prior to releasing the funds.
 Retentions
-43. Construction agreements generally provide for a percentage (e.g., 5%) to be retained from each progress payment to the head contractor.  These funds may not be released until some time after the project has been completed to ensure work of a satisfactory standard.
+43. Construction agreements generally provide for a percentage (e.g., 5%) to be retained from each progress payment to the head contractor. These funds may not be released until some time after the project has been completed to ensure work of a satisfactory standard.
 44. For the purposes of determining the valuation under Option A, the total of approved pre-1 July 2000 progress claims should include all deductions made under retention arrangements.
 Materials must be permanently incorporated or affixed
-45. For the Option A valuation, where approved progress claims have included an amount for materials not permanently incorporated in or affixed to the construction project, the claim total must be reduced to reflect the extent to which those materials have not been incorporated or affixed as at the start of 1 July 2000.  The supply of unaffixed materials to which paragraphs 24 to 27 apply will not be subject to GST if supplied before 1 July 2000 as they will not form part of the value of the supply referred to in subsection 19(3).
+45. For the Option A valuation, where approved progress claims have included an amount for materials not permanently incorporated in or affixed to the construction project, the claim total must be reduced to reflect the extent to which those materials have not been incorporated or affixed as at the start of 1 July 2000. The supply of unaffixed materials to which paragraphs 24 to 27 apply will not be subject to GST if supplied before 1 July 2000 as they will not form part of the value of the supply referred to in subsection 19(3).
 Example 3
-46. Buildsmall Pty Ltd ('Buildsmall') has been contracted by Joe Big Bucks to build a warehouse on industrial land.  The building work is commenced on 1 March 2000 and it is estimated that the job will take 12 months to complete.  Under the agreement, Buildsmall lodges monthly progress claims, which are reviewed by an architect, as the designated person under the agreement.
+46. Buildsmall Pty Ltd ('Buildsmall') has been contracted by Joe Big Bucks to build a warehouse on industrial land. The building work is commenced on 1 March 2000 and it is estimated that the job will take 12 months to complete. Under the agreement, Buildsmall lodges monthly progress claims, which are reviewed by an architect, as the designated person under the agreement.
 The following table sets out Buildsmall's payment details for progress claims lodged before 1 July 2000.
 Date progress claim is lodged
 Date approved
@@ -209,16 +207,16 @@ $285,000
 If Buildsmall adopts Option A, the value of work and materials at the start of 1 July 2000 will be $300,000.
 Note that in this example, Option A would not reflect the value of the work and materials affixed on site on or after 23 June.
 Option B - Uniform increase between approved progress claims
-47. Option B, like Option A, is based on the total of approved progress claims.  The same requirements regarding approval of progress claims apply, as do the treatment of retention amounts and unaffixed materials.
-48. However, Option B differs in that it will reflect work done on site up to the start of 1 July 2000.  The value under Option B will be the same as determined under Option A, plus a proportion of the first approved progress claim made after 1 July 2000.  The proportion is calculated in accordance with the following formula:
+47. Option B, like Option A, is based on the total of approved progress claims. The same requirements regarding approval of progress claims apply, as do the treatment of retention amounts and unaffixed materials.
+48. However, Option B differs in that it will reflect work done on site up to the start of 1 July 2000. The value under Option B will be the same as determined under Option A, plus a proportion of the first approved progress claim made after 1 July 2000. The proportion is calculated in accordance with the following formula:
 Amount of the first approved progress claim made after 1 July 2000 * (Number of pre-1 July days in the claim period covered by the first approved progress claim made after 1 July 2000/Total number of days in the claim period covered by the first approved progress claim made after 1 July 2000)
 Example 4
-49. Mario is a builder who is constructing a house for Gustav on Gustav's land, under a written agreement made in March 2000. In accordance with the agreement, Mario can make progress claims only as the house reaches certain stages of completion specified in the agreement.  Gustav's bank has approved a loan for the construction of the house and will release funds on a draw-down basis as the stages of completion are reached.
-The construction reaches a specified stage on 10 June and Mario duly makes a claim.  The claim is later approved by the bank, making the total of claims approved to that date $90,000.
-Further significant progress is made before 30 June, but the next specified stage is not reached until 10 July.  Mario's claim on reaching that stage is $30,000, which is duly approved by the bank.  There are 30 days from 11 June to 10 July inclusive.  Option B treats the $30,000 as having occurred evenly on a daily basis, that is $1,000 a day.
-Mario chooses Option B for his valuation.  The valuation is $110,000 ($90,000 plus $20,000 for progress from 10 June to 30 June).
+49. Mario is a builder who is constructing a house for Gustav on Gustav's land, under a written agreement made in March 2000. In accordance with the agreement, Mario can make progress claims only as the house reaches certain stages of completion specified in the agreement. Gustav's bank has approved a loan for the construction of the house and will release funds on a draw-down basis as the stages of completion are reached.
+The construction reaches a specified stage on 10 June and Mario duly makes a claim. The claim is later approved by the bank, making the total of claims approved to that date $90,000.
+Further significant progress is made before 30 June, but the next specified stage is not reached until 10 July. Mario's claim on reaching that stage is $30,000, which is duly approved by the bank. There are 30 days from 11 June to 10 July inclusive. Option B treats the $30,000 as having occurred evenly on a daily basis, that is $1,000 a day.
+Mario chooses Option B for his valuation. The valuation is $110,000 ($90,000 plus $20,000 for progress from 10 June to 30 June).
 Option C - Independent valuation by a recognised person
-50. Under this option, you engage the services of an 'recognised person' to determine the 1 July 2000 valuation.  This may be the appropriate option for you if:
+50. Under this option, you engage the services of an 'recognised person' to determine the 1 July 2000 valuation. This may be the appropriate option for you if:
 (a)
 you are not satisfied that Options A or B will give an accurate valuation of work and materials at 1 July 2000; or
 (b)
@@ -245,11 +243,11 @@ the Institution of Surveyors Australia; or
 •
 the Australian Institute of Building.
 53. In addition, the Commissioner will accept valuations from registered persons in these professions who have full professional qualifications from New Zealand or the United Kingdom.
-54. A recognised person may adopt different approaches to determining the valuation under this option.  Two approaches are outlined below in paragraphs 57 and 58.  It is essential that the approach to valuation used is soundly based and reasonable, taking into account the characteristics of the job being valued.
+54. A recognised person may adopt different approaches to determining the valuation under this option. Two approaches are outlined below in paragraphs 57 and 58. It is essential that the approach to valuation used is soundly based and reasonable, taking into account the characteristics of the job being valued.
 55. In Example 5, the valuation is determined by taking the cost of materials used and work undertaken until 1 July 2000 and adding a profit margin based on the profit margin estimated for the job.
-56. In Example 6, the total of approved progress claims made before 1 July 2000 is taken as a base.  The value of work and materials incorporated into the job between the last progress claim and the start of 1 July 2000 is then added to this.
+56. In Example 6, the total of approved progress claims made before 1 July 2000 is taken as a base. The value of work and materials incorporated into the job between the last progress claim and the start of 1 July 2000 is then added to this.
 Example 5
-57. In May 2000, Complete Constructions Pty Ltd enters a contract to construct an inground swimming pool for Springbuck City Council.  The project commences on 1 June 2000 and no progress claims are made until 15 July 2000.  As a substantial amount of work has been completed on the swimming pool, Complete Constructions engages a quantity surveyor to value the work and materials permanently incorporated or affixed to the site as at the start of 1 July 2000.  The value of work and materials is determined as follows:
+57. In May 2000, Complete Constructions Pty Ltd enters a contract to construct an inground swimming pool for Springbuck City Council. The project commences on 1 June 2000 and no progress claims are made until 15 July 2000. As a substantial amount of work has been completed on the swimming pool, Complete Constructions engages a quantity surveyor to value the work and materials permanently incorporated or affixed to the site as at the start of 1 July 2000. The value of work and materials is determined as follows:
 Valuation component at the start of 1 July 2000
 Amount
 Cost of materials affixed to the swimming pool site
@@ -262,22 +260,22 @@ Total
 $88,000
 Complete Constructions may use $88,000 under Option C as the value of work and materials incorporated in or affixed to the swimming pool site at the start of 1 July 2000.
 Example 6
-58. In January 2000, DEF Ltd entered into an agreement to build a shopping complex for XYZ.  The project commenced in February 2000.  Trevor is an architect.  As the person designated under the agreement, Trevor has previously approved progress claims totalling $750,000.  The last claim date was 20 May 2000.
-Trevor values the work and materials permanently incorporated or affixed to the site as at the start of 1 July 2000 at $1,000,000.  Trevor's valuation is based on the total of his previous approvals plus his valuation of the further work and materials affixed, from 20 May to the start of 1 July 2000.
+58. In January 2000, DEF Ltd entered into an agreement to build a shopping complex for XYZ. The project commenced in February 2000. Trevor is an architect. As the person designated under the agreement, Trevor has previously approved progress claims totalling $750,000. The last claim date was 20 May 2000.
+Trevor values the work and materials permanently incorporated or affixed to the site as at the start of 1 July 2000 at $1,000,000. Trevor's valuation is based on the total of his previous approvals plus his valuation of the further work and materials affixed, from 20 May to the start of 1 July 2000.
 In-house employees
-59. If you have an in-house employee with the same qualifications or experience as a recognised person, that employee may conduct the valuation, provided you have maintained adequate records.  For the purposes of valuing the construction of residential houses that you are supplying, your in-house employee need not be professionally qualified, provided you maintain comprehensive records of each house construction, and the employee:
+59. If you have an in-house employee with the same qualifications or experience as a recognised person, that employee may conduct the valuation, provided you have maintained adequate records. For the purposes of valuing the construction of residential houses that you are supplying, your in-house employee need not be professionally qualified, provided you maintain comprehensive records of each house construction, and the employee:
 (i)
 is employed in monitoring construction progress on the individual houses, and managing the trades and materials on site; and
 (ii)
 has several years experience in this role.
 Example 7
-60. Rippa Homes is a substantial builder of residential housing which expects to have a hundred houses at various stages of completion at 1 July 2000, under written agreement with clients.  Rippa operates on a sound business structure, maintaining comprehensive records of each house construction.
-Bob is one of a number of staff Rippa employs to monitor the progress of each construction and manage the trades and materials required on site.  Bob is not professionally qualified, but has several years experience in his current position with Rippa.
+60. Rippa Homes is a substantial builder of residential housing which expects to have a hundred houses at various stages of completion at 1 July 2000, under written agreement with clients. Rippa operates on a sound business structure, maintaining comprehensive records of each house construction.
+Bob is one of a number of staff Rippa employs to monitor the progress of each construction and manage the trades and materials required on site. Bob is not professionally qualified, but has several years experience in his current position with Rippa.
 By relying on his experience in his position and the comprehensive records available to him through the company's systems, Bob is able to assess the value of the work and materials permanently affixed on each building site as at the start of 1 July 2000.
 Bob (and those of his colleagues at Rippa whose experience and skills are at least the equal of Bob's) may value the constructions for the purposes of this Ruling as an in-house employee.
 When is the valuation to be ascertained?
-61. The valuation at the start of 1 July 2000 should be determined on or before the end of your first tax period after that date.  This will generally be 31 July 2000 if you have elected a one month tax period, or 30 September 2000 for a three monthly tax period.  These dates will be later if your operative date is after 1 July 2000.
-62. However, subsection 19(5) gives the Commissioner a discretion to allow a later date for the valuation to be determined.  A later date may be needed by suppliers using a monthly tax period where Option B is chosen, and the first specified stage of completion after 1 July 2000 is not reached by month end.
+61. The valuation at the start of 1 July 2000 should be determined on or before the end of your first tax period after that date. This will generally be 31 July 2000 if you have elected a one month tax period, or 30 September 2000 for a three monthly tax period. These dates will be later if your operative date is after 1 July 2000.
+62. However, subsection 19(5) gives the Commissioner a discretion to allow a later date for the valuation to be determined. A later date may be needed by suppliers using a monthly tax period where Option B is chosen, and the first specified stage of completion after 1 July 2000 is not reached by month end.
 63. The Commissioner will allow you a later date for the determination of the operative date valuation provided:
 (a)
 the agreement for the construction project allows you to make progress claims only on reaching specified stages of completion, regardless of the time between stages; and
@@ -377,9 +375,9 @@ COMMONWEALTH OF AUSTRALIA
 A NEW TAX SYSTEM (GOODS AND SERVICES TAX TRANSITION) ACT 1999
 A NEW TAX SYSTEM (GOODS AND SERVICES TAX TRANSITION) VALUE OF CONTRUCTION WORK-IN-PROGRESS SPECIFICATION (NO. 1) 2000
 Citation
-1.  This specification is the A New Tax System (Goods and Services Tax Transition) Value of Construction Work-in-Progress Specification (No.1) 2000.
+1. This specification is the A New Tax System (Goods and Services Tax Transition) Value of Construction Work-in-Progress Specification (No.1) 2000.
 Specified manner of determining the value
-2.  For subsection 19(4) of the A New Tax System (Goods and Services Tax Transition) Act 1999, the value mentioned in subsection 19(2) of the Act may be determined in a manner specified in one of the following paragraphs:
+2. For subsection 19(4) of the A New Tax System (Goods and Services Tax Transition) Act 1999, the value mentioned in subsection 19(2) of the Act may be determined in a manner specified in one of the following paragraphs:
 (a)
 the total of approved progress claims method (Option A);
 (b)
@@ -393,18 +391,18 @@ An entity may use any of these methods to determine the value mentioned in subse
 Note 3:
 These methods are explained in Clauses 3, 4 and 5.
 Option A - Total of approved progress claims method
-3.  This clause sets out the total of approved progress claims method for determining the value mentioned in subsection 19(2) of the Act.  Under this method the value is the sum of the adjusted amounts of any approved progress claims made before 1 July 2000, and approved before the method is to be applied, in respect of the construction project.
+3. This clause sets out the total of approved progress claims method for determining the value mentioned in subsection 19(2) of the Act. Under this method the value is the sum of the adjusted amounts of any approved progress claims made before 1 July 2000, and approved before the method is to be applied, in respect of the construction project.
 Option B - Uniform increase between approved progress claims method
-4.  This clause sets out the uniform increase between approved progress claims method for determining the value mentioned in subsection 19(2) of the Act.  Under this method the value is the sum of the following amounts:
+4. This clause sets out the uniform increase between approved progress claims method for determining the value mentioned in subsection 19(2) of the Act. Under this method the value is the sum of the following amounts:
 (a)
 the sum of the adjusted amounts of any approved progress claims made before 1 July 2000, and approved before the method is to be applied, in respect of the construction project; and
 (b)
 the amount calculated in accordance with the following formula:
 Amount of the first approved progress claim made after 1 July 2000 * (Number of pre-1 July days in the claim period covered by the first approved progress claim made after 1 July 2000/Total number of days in the claim period covered by the first approved progress claim made after 1 July 2000)
 Option C - Independent valuation method
-5.  This clause sets out the independent valuation method for determining the value mentioned in subsection 19(2) of the Act.  Under this method the value is the value as determined by a recognised person or an eligible employee.
+5. This clause sets out the independent valuation method for determining the value mentioned in subsection 19(2) of the Act. Under this method the value is the value as determined by a recognised person or an eligible employee.
 Definitions
-6.  (1)   The following expressions are defined for the purposes of this specification:
+6. (1) The following expressions are defined for the purposes of this specification:
 adjusted amount
 , in relation to an approved progress claim, means the amount of that progress claim (including any retention amounts) that does not relate to unaffixed materials;
 approved progress claim
@@ -426,7 +424,7 @@ is employed by the supplier of that project to monitor progress on construction 
 (ii)
 has been performing the duties referred to in subparagraph (a)(i) for several years either for the supplier or for other suppliers of construction projects; or
 (b)
-in any other case - an employee of the supplier of the construction project having the same qualifications or experience as a  recognised person;
+in any other case - an employee of the supplier of the construction project having the same qualifications or experience as a recognised person;
 funding agreement
 means an agreement between a financial institution and a recipient in relation to a construction project where an agreed amount is provided by the institution when it is satisfied that a particular stage of the project has been completed in accordance with the section 19 agreement;
 progress claim
@@ -436,7 +434,7 @@ recipient
 recognised person
 means a person who is either:
 (a)
-registered as a quantity surveyor, architect, valuer, civil engineer, or surveyor under a State or Territory law;  or
+registered as a quantity surveyor, architect, valuer, civil engineer, or surveyor under a State or Territory law; or
 (b)
 a member of:
 (i)
@@ -490,7 +488,7 @@ Footnotes
 Previously released as GSTR 2000/D3
 References
 ATO references:
-NO  99/18164-8
+NO 99/18164-8
 ISSN 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Financial statements**
 
-**(3)**  The company may establish the amount to be made available by providing the Commissioner, at the time of providing the consolidated group’s return of income, with adequate financial statements that—
+**(3)**  The company may establish the amount to be made available by providing the Commissioner, at the time of providing the consolidated group's return of income, with adequate financial statements that—
 
 - (a) relate to the part of the tax year when the company was part of the consolidated group; and
 
@@ -34,9 +34,9 @@ compilation_date: 2026-06-06
 
 **(5)**  In the formula,—
 
-- (a) unused amount is the loss balance carried forward from an earlier tax year or years that would be subtracted from the consolidated group’s net income for the tax year in the absence of section ID 3 or this section:
+- (a) unused amount is the loss balance carried forward from an earlier tax year or years that would be subtracted from the consolidated group's net income for the tax year in the absence of section ID 3 or this section:
 
-- (b) part-year net income is the company’s net income for the part of the tax year before the company joins the consolidated group:
+- (b) part-year net income is the company's net income for the part of the tax year before the company joins the consolidated group:
 
 - (c) part-year net loss is the amount of a pre-consolidation tax loss that must be subtracted under section ID 2 from the net income of another consolidated group of which the company was part in the tax year before joining the consolidated group referred to in subsection (1).
 

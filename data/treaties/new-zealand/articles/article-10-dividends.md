@@ -1,0 +1,75 @@
+---
+country: "New Zealand"
+country_slug: "new-zealand"
+treaty_schedule: 4
+article: 10
+title: "Article 10 — Dividends"
+---
+# Article 10 — Dividends
+New Zealand Convention
+CONVENTION BETWEEN AUSTRALIA AND NEW ZEALAND FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND FRINGE BENEFITS AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+CHAPTER III 
+-
+ TAXATION OF INCOME AND FRINGE BENEFITS
+Dividends
+1.
+Dividends paid by a company which is a resident of a Contracting State, being dividends beneficially owned by a resident of the other Contracting State, may be taxed in that other State.
+2.
+However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident, and according to the laws of that State, but the tax so charged shall not exceed:
+a)
+5 per cent of the gross amount of the dividends if the beneficial owner of those dividends is a company which holds directly at least 10 per cent of the voting power in the company paying the dividends; and
+b)
+15 per cent of the gross amount of the dividends in all other cases.
+This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
+3.
+Notwithstanding the provisions of paragraph 2 of this Article, dividends shall not be taxed in the Contracting State of which the company paying the dividends is a resident if the beneficial owner of the dividends is a company that is a resident of the other Contracting State that has owned, directly or indirectly through one or more residents of either Contracting State, shares representing 80 per cent or more of the voting power of the company paying the dividends for a 12 month period ending on the date the dividend is declared and the company that is the beneficial owner of the dividends:
+a)
+has its principal class of shares listed on a recognised stock exchange specified in subsubparagraph 1
+l)(i)
+or
+(ii)
+of Article 3 and is regularly traded on one or more recognised stock exchanges;
+b)
+is owned directly or indirectly by one or more companies:
+(i)
+whose principal class of shares is listed on a recognised stock exchange specified in subsubparagraph 1
+l)(i)
+or
+(ii)
+of Article 3 and is regularly traded on one or more recognised stock exchanges; or
+(ii)
+which, if that company or each of those companies owned directly the holding in respect of which the dividends are paid, would be entitled to equivalent benefits in respect of such dividends under a tax treaty between the State of which that company is a resident and the Contracting State of which the company paying the dividends is a resident; or
+c)
+does not meet the requirements of subparagraphs
+a)
+or
+b)
+of this paragraph but the competent authority of the first-mentioned Contracting State determines that the first sentence of paragraph 9 of this Article does not apply. The competent authority of the first-mentioned Contracting State shall consult the competent authority of the other Contracting State before refusing to grant benefits of this Convention under this subparagraph.
+4.
+Notwithstanding the provisions of paragraph 2, dividends shall not be taxed in the Contracting State of which the company paying the dividends is a resident if the beneficial owner of the dividends holds directly no more than 10 per cent of the voting power of the company paying the dividends, and the beneficial owner is a Contracting State, or political subdivision or a local authority thereof (including a government investment fund).
+5.
+The term 
+"
+dividends
+"
+ as used in this Article means income from shares or other rights participating in profits, as well as other amounts which are subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident for the purposes of its tax.
+6.
+The provisions of paragraphs 1, 2, 3 and 4 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
+7.
+Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company 
+-
+ being dividends beneficially owned by a person who is not a resident of the other Contracting State 
+-
+ except insofar as the holding in respect of which such dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company
+'
+s undistributed profits to a tax on the company
+'
+s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+8.
+Notwithstanding paragraph 7, dividends paid by a company which is a resident of Australia for the purposes of Australian tax and which is also a resident of New Zealand for the purposes of New Zealand tax may be taxed in a Contracting State to the extent that the dividends are paid out of profits or income arising in that State. Where such dividends are beneficially owned by a resident of the other Contracting State, paragraphs 2 and 3 of this Article shall apply as if the company paying the dividends were a resident only of the first-mentioned State.
+9.
+No relief shall be available under this Article if it is the main purpose or one of the main purposes of any person concerned with an assignment of the dividends, or with the creation or assignment of the shares or other rights in respect of which the dividend is paid, or the establishment, acquisition or maintenance of the company that is the beneficial owner of the dividends and the conduct of its operations, to take advantage of this Article. In any case where a Contracting State intends to apply this paragraph, the competent authority of that State shall consult with the competent authority of the other Contracting State.

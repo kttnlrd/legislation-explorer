@@ -7,7 +7,7 @@ paragraph: "¶20-140"
 ---
 # Injunctions and voluntary undertakings ¶20-140
 
-The Commissioner can apply to the Federal Court to grant an injunction where an entity is engaging in prohibited types of conduct, or is proposing to do so (Administration Act, Sch 1, s 290-120). The injunction may restrain the entity from doing something (eg from promoting a scheme), or may require it to do something (eg to remedy a contravention). This procedure may be used as an alternative to imposing a penalty, or in addition to it. Interim injunctions can be granted pending a full hearing. However, no injunction can be granted against an entity while the entity’s application for a product ruling in relation to the scheme is still unresolved by the ATO.
+The Commissioner can apply to the Federal Court to grant an injunction where an entity is engaging in prohibited types of conduct, or is proposing to do so (Administration Act, Sch 1, s 290-120). The injunction may restrain the entity from doing something (eg from promoting a scheme), or may require it to do something (eg to remedy a contravention). This procedure may be used as an alternative to imposing a penalty, or in addition to it. Interim injunctions can be granted pending a full hearing. However, no injunction can be granted against an entity while the entity's application for a product ruling in relation to the scheme is still unresolved by the ATO.
 
 Factors in favour of an injunction application as the appropriate strategy may include:
 

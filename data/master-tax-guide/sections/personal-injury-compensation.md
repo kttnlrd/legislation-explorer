@@ -21,7 +21,7 @@ A lump sum settlement commuted from a weekly compensation payment (Brackenreg 20
 
 orders ITAA97 Div 54 provides an exemption for certain annuities and lump sums provided to personal injury victims under structured settlements or structured orders.
 
-(1) The claim must be for compensation or damages for personal injury suﬀered by a person and the claim must be made by the injured person or by their legal personal representative. (2) The claim must be based on the commission of a wrong or on a right created by statute. (3) The claim cannot be an action against a defendant in their capacity as an employer, or an associate of an employer, or a claim made under workers compensation law, or a claim that could instead be made under workers compensation law. (4) The settlement must be in a written agreement between the parties to the claim. This applies whether or not the agreement is approved by an order of a court or is in a consent order made by a court. (5) The terms of the settlement must provide for some or all of a lump sum award of compensation or damages to be used by the defendant or the defendant’s insurer to purchase from one or more life insurance companies or state insurers: – an annuity or group of annuities to be paid to the injured person (or their trustee), or – an annuity or group of annuities combined with one or more deferred lump sums to be paid to the injured person (or their trustee).
+(1) The claim must be for compensation or damages for personal injury suﬀered by a person and the claim must be made by the injured person or by their legal personal representative. (2) The claim must be based on the commission of a wrong or on a right created by statute. (3) The claim cannot be an action against a defendant in their capacity as an employer, or an associate of an employer, or a claim made under workers compensation law, or a claim that could instead be made under workers compensation law. (4) The settlement must be in a written agreement between the parties to the claim. This applies whether or not the agreement is approved by an order of a court or is in a consent order made by a court. (5) The terms of the settlement must provide for some or all of a lump sum award of compensation or damages to be used by the defendant or the defendant's insurer to purchase from one or more life insurance companies or state insurers: – an annuity or group of annuities to be paid to the injured person (or their trustee), or – an annuity or group of annuities combined with one or more deferred lump sums to be paid to the injured person (or their trustee).
 
 A structured order is essentially an order of a court that satisﬁes conditions (1), (2), (3) and (5) above but is not an order approving or endorsing an agreement as mentioned in (4) above.
 
@@ -35,7 +35,7 @@ Exempt personal injury annuities A personal injury annuity is an annuity purchas
 
 - The annuity instrument only allows for payments of the annuity to be made to the injured person,
 
-  their trustee, a reversionary beneﬁciary or the injured person’s estate and contains a statement to
+  their trustee, a reversionary beneﬁciary or the injured person's estate and contains a statement to
 
   the eﬀect that the annuity cannot be assigned and cannot be commuted except by a reversionary
 
@@ -49,9 +49,9 @@ Exempt personal injury annuities A personal injury annuity is an annuity purchas
 
   event the injured person dies during the guarantee period, the remaining payments may be made
 
-  to either the injured person’s estate or a reversionary beneﬁciary (ITAA97 ss 54-30; 54-35).
+  to either the injured person's estate or a reversionary beneﬁciary (ITAA97 ss 54-30; 54-35).
 
-- The annuity or annuities in total provide a minimum monthly level of support over the annuitant’s
+- The annuity or annuities in total provide a minimum monthly level of support over the annuitant's
 
   life (ITAA97 s 54-40).
 
@@ -81,7 +81,7 @@ Payments to reversionary beneficiaries A reversionary beneﬁciary will be exemp
 
 Payments to/from trustee Broadly, structured payments that would have been exempt if paid directly to the injured person or reversionary beneﬁciary will be exempt when received by a trustee for the injured person or reversionary beneﬁciary, and when paid out by the trust (ITAA97 s 54-70). The exemption does not extend to investment earnings of the trust.
 
-A payment of a lump sum to an injured person’s estate or testamentary trust will also be exempt (s 54-70(3)).
+A payment of a lump sum to an injured person's estate or testamentary trust will also be exempt (s 54-70(3)).
 
 *Refs: ITAA97 s 54-15), ITAA97 s 54-20), ITAA97 s 54-25), s 54-30, ITAA97 s 54-40), s 54-45, ITAA97 s 54-65), ITAA97 s 54-70), s 54-70(3))*
 

@@ -21,7 +21,7 @@ Alpha Pty Ltd does not sell goods to its New Zealand parent.
 
 Advise Alpha Pty Ltd whether it is a small business entity (SBE) for the year ended 30 June 2025 and what tax concessions it will be entitled to.
 
-Solution Alpha Pty Ltd will be a SBE if it satisfies the $10 million aggregated turnover test, which will be the case where it carries on a business and meets one of the following: (a) Aggregated turnover for the previous income year was less than $10 million. So, if the company has aggregated turnover of less than $10 million (and carries on a business) in the 2023–24 year, it will be a SBE in the 2024–25 year. (b) Aggregated turnover for the current income year is “likely” to be less than $10 million. (c) Aggregated turnover for the current income year is “actually” less than $10 million.
+Solution Alpha Pty Ltd will be a SBE if it satisfies the $10 million aggregated turnover test, which will be the case where it carries on a business and meets one of the following: (a) Aggregated turnover for the previous income year was less than $10 million. So, if the company has aggregated turnover of less than $10 million (and carries on a business) in the 2023–24 year, it will be a SBE in the 2024–25 year. (b) Aggregated turnover for the current income year is "likely" to be less than $10 million. (c) Aggregated turnover for the current income year is "actually" less than $10 million.
 
 Aggregated turnover is the sum of the following:
 
@@ -61,7 +61,7 @@ Therefore, the aggregated turnover of Alpha Pty Ltd for the year ended 30 June 2
 
 For the year ended 30 June 2025, expected aggregate turnover is $10,152,000 (being the total of turnover for the Australian business and the parent company, less $48,000 proceeds from the sale of machinery).
 
-The company is unable to state what its actual 2024–25 turnover will be and its “expected” turnover for the year is too large to satisfy the test. However, the 2023–24 turnover is less than $10 million and therefore it passes the SBE turnover test for the 2024–25 year.
+The company is unable to state what its actual 2024–25 turnover will be and its "expected" turnover for the year is too large to satisfy the test. However, the 2023–24 turnover is less than $10 million and therefore it passes the SBE turnover test for the 2024–25 year.
 
 The company will not be able to access the CGT small business concessions contained in Div 152, as the aggregated turnover threshold for those concessions is $2 million (unless the company can satisfy the alternative maximum net asset value test of $6 million).
 
@@ -77,9 +77,9 @@ A range of income tax concessions are available to Alpha Pty Ltd in 2024–25, a
 
 In addition, a number of concessions will be available to Alpha Pty Ltd that are available to companies with aggregated turnover of less than $50 million:
 
-- Access to the 25% corporate tax rate where it is a “base rate entity” (which means a company with
+- Access to the 25% corporate tax rate where it is a "base rate entity" (which means a company with
 
-  aggregated turnover of less than $50 million with no more than 80% “base rate entity passive income”).
+  aggregated turnover of less than $50 million with no more than 80% "base rate entity passive income").
 
 - Deductions for certain prepaid business expenditure (ITAA36 ss 82KZM and 82KZL).
 

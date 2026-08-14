@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **What election applies to**
 
-**(4)**  The election applies to all the person’s foreign source income and foreign expenditure to which subsection (1) applies, except for—
+**(4)**  The election applies to all the person's foreign source income and foreign expenditure to which subsection (1) applies, except for—
 
 - (a) income or expenditure under the financial arrangements rules, unless the Commissioner notifies the person that the election can apply; or
 
@@ -56,9 +56,9 @@ compilation_date: 2026-06-06
 
 **(6)**  An election made by a person under subsection (2) applies for the income year referred to in subsection (1)﻿(c) and all later income years, unless—
 
-- (a) the person seeks the Commissioner’s agreement to revoke the election, and the Commissioner notifies them that they may revoke the election; or
+- (a) the person seeks the Commissioner's agreement to revoke the election, and the Commissioner notifies them that they may revoke the election; or
 
-- (b) the person’s net income for the relevant income year would be more than $100,000 if their only income in the income year were foreign source income.
+- (b) the person's net income for the relevant income year would be more than $100,000 if their only income in the income year were foreign source income.
 
 **Net income of more than $100,000**
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 - (b) foreign source income and foreign expenditure to which the election would have applied if subsection (6)﻿(b) had not existed is allocated to the previous income year; and
 
-- (c) if necessary, the previous tax year’s return is amended.
+- (c) if necessary, the previous tax year's return is amended.
 
 **Factors considered**
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 - (b) if it allocates foreign source income derived or foreign expenditure incurred while the person is resident in New Zealand to a period after the person has ceased to be resident in New Zealand,—
 
-  - (i) the foreign source income is assessable income in the income year in which the foreign source income is allocated under this section, despite section BD 1(5)﻿(c) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income); and
+  - (i) the foreign source income is assessable income in the income year in which the foreign source income is allocated under this section, despite section BD 1(5)﻿(c) (Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income); and
 
   - (ii) the foreign expenditure is allowed as a deduction in the income year to which the foreign expenditure is allocated under this section.
 

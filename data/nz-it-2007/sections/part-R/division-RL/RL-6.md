@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Repaying RLWT**
 
-**(1)**  An amount of RLWT paid in relation to a person’s disposal of residential land may be repaid by the Commissioner to the person if and to the extent to which—
+**(1)**  An amount of RLWT paid in relation to a person's disposal of residential land may be repaid by the Commissioner to the person if and to the extent to which—
 
 - (a) a tax credit for the RLWT is likely to be a surplus credit under section BC 8(4) for the relevant tax year, treating the person as only having income and deductions for land for the tax year and the relevant tax rate provided in section RL 4(3); and
 

@@ -21,7 +21,7 @@ source_pdf: "vol03.pdf"
 > **(a)**  an amount of a deduction was not allowable for the branch in an earlier year of income under subsection 160ZZZL(2); and
 
 > <a id="s160ZZZN-1-b"></a>
-> **(b)**  this Part applies in the calculation of the foreign bank’s taxable income in the adjustment year; and
+> **(b)**  this Part applies in the calculation of the foreign bank's taxable income in the adjustment year; and
 
 > <a id="s160ZZZN-1-c"></a>
 > **(c)**  an amount of income or profits of the Australian branch is:

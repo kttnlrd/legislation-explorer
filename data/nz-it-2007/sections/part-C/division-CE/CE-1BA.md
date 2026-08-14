@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Employer election**
 
-**(2)**  The amount paid by the employer is, at the employer’s election, either—
+**(2)**  The amount paid by the employer is, at the employer's election, either—
 
 - (a) employment income of the employee under section CE 1; or
 

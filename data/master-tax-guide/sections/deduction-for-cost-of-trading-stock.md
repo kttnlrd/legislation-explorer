@@ -9,7 +9,7 @@ paragraph: "¶9-160"
 
 Established commercial and accounting principles calculate the gross proﬁt from business operations by deducting the cost of goods sold from receipts. There are a number of acceptable methods of calculating the cost of goods sold to clearly reﬂect the income of a single accounting period.
 
-For tax purposes gross trading receipts are brought to account as assessable income (rather than gross proﬁt or gain), and a taxpayer carrying on a business may claim a deduction for the cost of acquiring trading stock under the general deduction provision (ITAA97 s 8-1). In addition, an adjustment is required for the diﬀerence between all trading stock on hand (¶9-170) at the start of the income year and all trading stock on hand at the end of that year to arrive at the taxpayer’s taxable income (ITAA97 s 70-35).
+For tax purposes gross trading receipts are brought to account as assessable income (rather than gross proﬁt or gain), and a taxpayer carrying on a business may claim a deduction for the cost of acquiring trading stock under the general deduction provision (ITAA97 s 8-1). In addition, an adjustment is required for the diﬀerence between all trading stock on hand (¶9-170) at the start of the income year and all trading stock on hand at the end of that year to arrive at the taxpayer's taxable income (ITAA97 s 70-35).
 
 Where the value of closing stock exceeds the value of opening stock, the amount of the excess is assessable (s 70-35(2)). Where the value of opening stock exceeds the value of closing stock, the amount of the excess is deductible (s 70-35(3)). Where a business is commenced after the beginning of an income year, the value of stock on hand at the end of the ﬁrst year is assessable despite there being no opening value.
 

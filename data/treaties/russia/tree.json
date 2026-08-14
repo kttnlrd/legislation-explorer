@@ -1,0 +1,170 @@
+{
+  "treaty": "Russia",
+  "country_slug": "russia",
+  "schedule": 46,
+  "articles": [
+    {
+      "article": 1,
+      "title": "Article 1 \u2014 Personal Scope",
+      "slug": "article-01-personal-scope",
+      "file": "articles/article-01-personal-scope.md"
+    },
+    {
+      "article": 2,
+      "title": "Article 2 \u2014 Taxes Covered",
+      "slug": "article-02-taxes-covered",
+      "file": "articles/article-02-taxes-covered.md"
+    },
+    {
+      "article": 3,
+      "title": "Article 3 \u2014 General Definitions",
+      "slug": "article-03-general-definitions",
+      "file": "articles/article-03-general-definitions.md"
+    },
+    {
+      "article": 4,
+      "title": "Article 4 \u2014 Resident",
+      "slug": "article-04-resident",
+      "file": "articles/article-04-resident.md"
+    },
+    {
+      "article": 5,
+      "title": "Article 5 \u2014 Permanent Establishment",
+      "slug": "article-05-permanent-establishment",
+      "file": "articles/article-05-permanent-establishment.md"
+    },
+    {
+      "article": 6,
+      "title": "Article 6 \u2014 Income from Real Property",
+      "slug": "article-06-income-from-real-property",
+      "file": "articles/article-06-income-from-real-property.md"
+    },
+    {
+      "article": 7,
+      "title": "Article 7 \u2014 Business Profits",
+      "slug": "article-07-business-profits",
+      "file": "articles/article-07-business-profits.md"
+    },
+    {
+      "article": 8,
+      "title": "Article 8 \u2014 Shipping and Air Transport",
+      "slug": "article-08-shipping-and-air-transport",
+      "file": "articles/article-08-shipping-and-air-transport.md"
+    },
+    {
+      "article": 9,
+      "title": "Article 9 \u2014 Associated Enterprises",
+      "slug": "article-09-associated-enterprises",
+      "file": "articles/article-09-associated-enterprises.md"
+    },
+    {
+      "article": 10,
+      "title": "Article 10 \u2014 Dividends",
+      "slug": "article-10-dividends",
+      "file": "articles/article-10-dividends.md"
+    },
+    {
+      "article": 11,
+      "title": "Article 11 \u2014 Interest",
+      "slug": "article-11-interest",
+      "file": "articles/article-11-interest.md"
+    },
+    {
+      "article": 12,
+      "title": "Article 12 \u2014 Royalties",
+      "slug": "article-12-royalties",
+      "file": "articles/article-12-royalties.md"
+    },
+    {
+      "article": 13,
+      "title": "Article 13 \u2014 Capital Gains",
+      "slug": "article-13-capital-gains",
+      "file": "articles/article-13-capital-gains.md"
+    },
+    {
+      "article": 14,
+      "title": "Article 14 \u2014 Independent Personal Services",
+      "slug": "article-14-independent-personal-services",
+      "file": "articles/article-14-independent-personal-services.md"
+    },
+    {
+      "article": 15,
+      "title": "Article 15 \u2014 Income from Employment",
+      "slug": "article-15-income-from-employment",
+      "file": "articles/article-15-income-from-employment.md"
+    },
+    {
+      "article": 16,
+      "title": "Article 16 \u2014 Directors' Fees",
+      "slug": "article-16-directors-fees",
+      "file": "articles/article-16-directors-fees.md"
+    },
+    {
+      "article": 17,
+      "title": "Article 17 \u2014 Entertainers and Sportspersons",
+      "slug": "article-17-entertainers-and-sportspersons",
+      "file": "articles/article-17-entertainers-and-sportspersons.md"
+    },
+    {
+      "article": 18,
+      "title": "Article 18 \u2014 Pensions",
+      "slug": "article-18-pensions",
+      "file": "articles/article-18-pensions.md"
+    },
+    {
+      "article": 19,
+      "title": "Article 19 \u2014 Government Service",
+      "slug": "article-19-government-service",
+      "file": "articles/article-19-government-service.md"
+    },
+    {
+      "article": 20,
+      "title": "Article 20 \u2014 Students",
+      "slug": "article-20-students",
+      "file": "articles/article-20-students.md"
+    },
+    {
+      "article": 21,
+      "title": "Article 21 \u2014 Other Income",
+      "slug": "article-21-other-income",
+      "file": "articles/article-21-other-income.md"
+    },
+    {
+      "article": 22,
+      "title": "Article 22 \u2014 Elimination of Double Taxation",
+      "slug": "article-22-elimination-of-double-taxation",
+      "file": "articles/article-22-elimination-of-double-taxation.md"
+    },
+    {
+      "article": 23,
+      "title": "Article 23 \u2014 Mutual Agreement Procedure",
+      "slug": "article-23-mutual-agreement-procedure",
+      "file": "articles/article-23-mutual-agreement-procedure.md"
+    },
+    {
+      "article": 24,
+      "title": "Article 24 \u2014 Exchange of Information",
+      "slug": "article-24-exchange-of-information",
+      "file": "articles/article-24-exchange-of-information.md"
+    },
+    {
+      "article": 25,
+      "title": "Article 25 \u2014 Assistance in Collection",
+      "slug": "article-25-assistance-in-collection",
+      "file": "articles/article-25-assistance-in-collection.md"
+    },
+    {
+      "article": 26,
+      "title": "Article 26 \u2014 Members of Diplomatic Missions",
+      "slug": "article-26-members-of-diplomatic-missions",
+      "file": "articles/article-26-members-of-diplomatic-missions.md"
+    },
+    {
+      "article": 27,
+      "title": "Article 27 \u2014 Territorial Extension",
+      "slug": "article-27-territorial-extension",
+      "file": "articles/article-27-territorial-extension.md"
+    }
+  ],
+  "total": 27
+}

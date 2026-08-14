@@ -27,9 +27,9 @@ MFT can claim the cost of their irrigation works of $100,000 as an immediate ded
 
 Cost of silo for organic grain feed Primary producers may claim a deduction for expenditure on fodder storage assets in the year in which the expenditure is incurred for fodder storage assets first used or installed ready for use on or after 19 August 2018 (ITAA97 ss 40-515 to 40-575).
 
-The term “fodder” takes its ordinary meaning and refers to food for livestock, usually dried, such as grain, hay or silage including silos, liquid feed supplement storage tanks, bins for storing dried grain, hay sheds, grain storage sheds and above-ground bunkers for silage.
+The term "fodder" takes its ordinary meaning and refers to food for livestock, usually dried, such as grain, hay or silage including silos, liquid feed supplement storage tanks, bins for storing dried grain, hay sheds, grain storage sheds and above-ground bunkers for silage.
 
-MFT’s grain silo meets the definition of a fodder storage asset, and MFT is permitted to immediately deduct the cost. However, the silo is not installed until the 2025–26 income year.
+MFT's grain silo meets the definition of a fodder storage asset, and MFT is permitted to immediately deduct the cost. However, the silo is not installed until the 2025–26 income year.
 
 The general depreciation rules under ITAA97 s 40-25 state that to claim a deduction the asset must be installed and ready for use. However, in this case where special provisions apply to water facilities, fodder storage assets and fencing assets, the general depreciation rules do not apply. The immediate deduction is available when the amount is incurred, and pro-rating is not required.
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 This Part—
 
-- (a) identifies when a person’s tax credit arises; and
+- (a) identifies when a person's tax credit arises; and
 
 - (b) provides the rules that govern the use of a tax credit in satisfying an obligation under section BB 2 (Main obligations).
 

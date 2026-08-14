@@ -3,23 +3,18 @@ ATO ID 2002/8
 ==================================================
 
 Goods and Services Tax
-        GST and amount of input tax credits for creditable acquisitions of second-hand goods
-        FOI status: may be released
-
+ GST and amount of input tax credits for creditable acquisitions of second-hand goods
+ FOI status: may be released
 
 This ATO ID is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the entity, a second-hand goods dealer, use the acquisition cost of second-hand goods to determine the amount of its input tax credit under section 66-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it subsequently sells the second-hand goods for an amount less than the amount it paid to acquire them?
@@ -32,13 +27,10 @@ Reasons for Decision
 Section 66-10 of the GST Act sets out the amount of the input tax credit allowed for a creditable acquisition of second-hand goods that are not divided for resupply.
 Where the consideration for the acquisition of second-hand goods is more than $300, subsection 66-10(1) of the GST Act applies and the amount of the input tax credit is the lesser of:
 
-
-
 •an amount equal to 1/11th of the consideration that the entity provides, or is liable to provide, for the acquisition; or
 •the amount of the GST payable on the subsequent taxable supply of the second-hand goods.
 
 In this case, the consideration provided by the entity for the acquisition of second-hand goods was more than $300. One eleventh of the consideration provided by the entity to acquire the goods is $80 ($880 x 1/11). The amount of the GST payable on the subsequent taxable supply of the second-hand goods is 10% of the value of the supply where the value of the supply is calculated, in accordance with Subdivision 9-C of the GST Act, as:
-
 
 Price x 10/11
 
@@ -46,11 +38,10 @@ The amount of the GST payable on the subsequent taxable supply is $60 (($660 x 1
 Therefore, the amount of the GST payable on the taxable supply of the goods ($60) is less than 1/11th of the consideration provided to acquire the goods ($80). As such, the amount of the entity's input tax credit is $60.
 Accordingly, the entity cannot use the acquisition amount of second-hand goods to determine the amount of its input tax credit under section 66-10 of the GST Act when it sells second-hand goods for an amount less than the amount it paid to acquire them.
 
-
 [Note: Where the consideration for an acquisition of a second-hand good is $300 or less, subsection 66-10(2) of the GST Act applies and the amount of the input tax credit is an amount equal to 1/11th of the consideration the entity provides, or is liable to provide, for the acquisition.]
 
 Date of decision:
-         10 September 2001
+  10 September 2001
 
 Legislative References:
 
@@ -59,32 +50,28 @@ A New Tax System (Goods and Services Tax) Act 1999   section 66-10   subse
 Keywords
 
 Goods & services tax
-          GST second hand goods
-          GST supplies & acquisitions
-          GST consideration
-          Creditable acquisition
-          Taxable supply
-
+ GST second hand goods
+ GST supplies & acquisitions
+ GST consideration
+ Creditable acquisition
+ Taxable supply
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         9 January 2002
+  9 January 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 10 September 2001

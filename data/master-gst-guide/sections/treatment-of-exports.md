@@ -13,6 +13,6 @@ As GST is primarily a tax on consumption in Australia, it is not intended to app
 
 - exports of services and things other than goods or real property (¶9-240).
 
-  For the meaning of “Australia”, see ¶4-100.
+  For the meaning of "Australia", see ¶4-100.
 
 ## The export exemptions are divided into:

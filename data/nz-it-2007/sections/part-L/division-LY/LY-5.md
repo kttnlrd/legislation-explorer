@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
   - (i) the research and development activity is performed in the course of commercial production; and
 
-  - (ii) the expenditure or loss is not in relation to an employee’s contribution to a research and development activity.
+  - (ii) the expenditure or loss is not in relation to an employee's contribution to a research and development activity.
 
 **Modification of eligible research and development expenditure**
 

@@ -12,6 +12,7 @@ from backend.processors.markdown import (
     link_definitions, format_definition_terms,
     link_section_references, link_cross_act_references, auto_link_definitions,
 )
+from backend.services.text_cleaner import strip_scraped_markup
 
 from .rulings import list_rulings, get_ruling
 from .tax_cases import list_tax_cases_tree, get_tax_case_by_citation
@@ -37,6 +38,7 @@ def list_acts():
     acts.append({"id": "tax-cases", "name": "Tax Cases", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "regulatory-guides", "name": "ASIC Regulatory Guides", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "insolvency-keays", "name": "Keays Insolvency", "compilation_no": None, "compilation_date": None})
+    acts.append({"id": "treaties", "name": "Tax Treaties", "compilation_no": None, "compilation_date": None})
     return acts
 
 
@@ -93,6 +95,11 @@ def get_section(act: str, section: str):
         return _get_insolvency_chapter_section(section)
 
     fm, body = get_act_section_content(act, section)
+
+    # Strip scraped markup FIRST (CDN-0094) — clean artifacts before processors inject anchors
+    body = strip_scraped_markup(body)
+
+    # Then run definition/formatters — these inject <a id> anchors that survive cleanup
     body = format_definition_terms(body, section, act)
     body = link_definitions(body, act)
     body = link_section_references(body, act)
@@ -129,5 +136,5 @@ def _get_insolvency_chapter_section(section: str):
     body = result.get("content", "")
     return {
         "frontmatter": {"title": title},
-        "body": body,
+        "body": strip_scraped_markup(body),
     }

@@ -7,7 +7,7 @@ paragraph: "¶19-060"
 ---
 # Project infrastructure expenditure ¶19-060
 
-As well as “mining capital expenditure” (¶19-070) and “transport capital expenditure” (¶19-090), a “project amount” (¶19-050) includes project infrastructure expenditure that is not otherwise deductible and that does not form part of the cost of a depreciating asset held by the taxpayer. The infrastructure expenditure must be directly connected with a project (not necessarily a mining project) carried on or proposed to be carried on for a “taxable purpose” (¶19-050; eg ID 2003/206 to ID 2003/208) and must be expenditure of an amount (s 40-840(2)):
+As well as "mining capital expenditure" (¶19-070) and "transport capital expenditure" (¶19-090), a "project amount" (¶19-050) includes project infrastructure expenditure that is not otherwise deductible and that does not form part of the cost of a depreciating asset held by the taxpayer. The infrastructure expenditure must be directly connected with a project (not necessarily a mining project) carried on or proposed to be carried on for a "taxable purpose" (¶19-050; eg ID 2003/206 to ID 2003/208) and must be expenditure of an amount (s 40-840(2)):
 
 - to create or upgrade community facilities associated with the project (eg a public road: ID
 

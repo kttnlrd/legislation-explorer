@@ -2,10 +2,10 @@
 act: "Australian Master Tax Guide"
 part: "44"
 section: "employers-tax-checklist"
-title: "Employers’ tax checklist"
+title: "Employers' tax checklist"
 paragraph: "¶44-103"
 ---
-# Employers’ tax checklist ¶44-103
+# Employers' tax checklist ¶44-103
 
 This checklist sets out the main tax-related obligations of employers in relation to their employees.
 
@@ -55,13 +55,13 @@ Pay As You Go (PAYG)
 
   certiﬁcate is received for an applicable quarter (¶39-030). This applies in limited circumstances.
 
-Ensure superannuation guarantee is not reduced because of an employee’s salary sacriﬁce (¶39-240).
+Ensure superannuation guarantee is not reduced because of an employee's salary sacriﬁce (¶39-240).
 
 - Pay appropriate superannuation contributions for employee within 28 days of end of quarter
 
   (¶39-240).
 
-- Pass on employee’s tax ﬁle number to fund (¶33-025).
+- Pass on employee's tax ﬁle number to fund (¶33-025).
 
 - Where there is a shortfall in the contributions made, lodge a superannuation guarantee statement
 
@@ -77,7 +77,7 @@ Ensure superannuation guarantee is not reduced because of an employee’s salary
 
 - Keep the necessary records (¶39-510).
 
-- Determine if there is a beneﬁt to be provided to an employee or employee’s associate (¶35-060).
+- Determine if there is a beneﬁt to be provided to an employee or employee's associate (¶35-060).
 
 - Determine if the beneﬁt is a taxable fringe beneﬁt (¶35-060 – ¶35-120).
 
@@ -93,7 +93,7 @@ Ensure superannuation guarantee is not reduced because of an employee’s salary
 
   ¶35-050).
 
-- Include reportable fringe beneﬁts in employee’s annual payment summary (¶35-055).
+- Include reportable fringe beneﬁts in employee's annual payment summary (¶35-055).
 
 - Keep the necessary records (¶35-690).
 
@@ -103,7 +103,7 @@ Ensure superannuation guarantee is not reduced because of an employee’s salary
 
 - Register within appropriate time (¶36-020).
 
-- Comply with “group” requirements where relevant (¶36-110).
+- Comply with "group" requirements where relevant (¶36-110).
 
 - Determine what payments constitute wages (¶36-050).
 
@@ -123,7 +123,7 @@ Ensure superannuation guarantee is not reduced because of an employee’s salary
 
   withheld (¶14-610, ¶26-130, ¶26-180).
 
-- Provide a “PAYG payment summary — employment termination payment” to the employee within
+- Provide a "PAYG payment summary — employment termination payment" to the employee within
 
 14 days of the ETP being paid to the employee (¶26-640). This requirement is not necessary if you are using Single Touch Payroll software as an employment income statement is provided directly to an employee.
 

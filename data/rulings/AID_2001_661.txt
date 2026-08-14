@@ -3,18 +3,14 @@ ATO ID 2001/661
 ==================================================
 
 Goods and Services Tax
-        GST and goods supplied during an herbal medicine service
-        FOI status: may be released
-
-
+ GST and goods supplied during an herbal medicine service
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a qualified herbalist, making a GST-free supply under subsection 38-10(4) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a herbal mixture to a patient during a GST-free herbal medicine service, where the mixture is for use after the consultation?
@@ -27,15 +23,11 @@ The entity is registered for goods and services tax (GST) and the supply satisfi
 Reasons for Decision
 Subsection 38-10(4) of the GST Act provides that the supply of goods is GST-free if:
 
-
-
 •the supply is made to a person in the course of supplying to the person a service referred to in item 8 or 9 in the table in subsection 38-10(1) of the GST Act; and
 •it is supplied, and used or consumed, at the premises at which the service is supplied.
 
 Item 8 in the table in subsection 38-10(1) of the GST Act lists 'Herbal medicine (including traditional Chinese herbal medicine)'. The entity is supplying a GST-free herbal medicine service to the patient. Therefore, it is necessary to determine whether the supply of the goods is 'in the course of supplying' the GST-free herbal medicine service.
 It is considered that the phrase 'in the course of supplying' in the context of subsection 38-10(4) requires that the goods must be supplied at the same point in time as the GST-free health service and must have been either:
-
-
 
 •customised or manipulated for the exclusive treatment of the illness or disability of the particular patient who is the recipient of the GST-free service; or
 •necessarily utilised as an integral part of the patient's treatment required immediately during that specific consultation.
@@ -45,11 +37,10 @@ The second requirement of subsection 38-10(4) of the GST Act is that the goods m
 The entity supplies the herbal mixture during the consultation and it is therefore supplied at the premises where the service is supplied. However, the herbal mixture is to be used by the patient after the consultation. Therefore, the herbal mixture is not used or consumed at the premises where the service is supplied and the second requirement of subsection 38-10(4) of the GST Act is not met. Consequently, the supply is not GST-free under subsection 38-10(4) of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is not GST-free under Division 38 of the GST Act or input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies a herbal mixture to a patient during a GST-free health service, where the mixture is to be used after the consultation.
 
-
 [Note: It is considered that for the purposes of subsection 38-10(4) the goods supplied must be completely used or consumed at the premises at which the GST-free service is supplied. If the goods are only partially consumed, the goods have not been 'used or consumed at the premises' and only the portion consumed at the premises will be GST-free under subsection 38-10(4) of the GST Act.]
 
 Date of decision:
-         6 September 2001
+  6 September 2001
 
 Legislative References:
 
@@ -59,23 +50,21 @@ Other References:
 
 Health Issues Register - Issue 2.b, 2.c
 
-
 Keywords
 
 Goods & services tax
-          GST-free
-          GST health
-          Section 38-10 - other health services
-
+ GST-free
+ GST health
+ Section 38-10 - other health services
 
 Siebel/TDMS Reference Number:
-         CW234562
+  CW234562
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         30 November 2001
+  30 November 2001
 
 ISSN:
-          1445-2782
+ 1445-2782

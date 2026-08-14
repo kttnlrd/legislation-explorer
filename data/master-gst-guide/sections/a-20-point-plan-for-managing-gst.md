@@ -59,7 +59,7 @@ Most businesses use the accruals (or invoice) method, but there are some advanta
 
 This is necessary for pricing and processing. # 10 Examine implications for pricing and marketing For a full discussion of pricing and marketing issues, see ¶21-010 and following. # 11 Examine implications for cashflow GST typically has a significant effect — positive or negative — on cashflow. This is affected by factors such as:
 
-- whether the business’ supplies are taxable, GST-free or input taxed
+- whether the business' supplies are taxable, GST-free or input taxed
 
 - the timing of purchases and sales
 
@@ -73,9 +73,9 @@ This is necessary for pricing and processing. # 10 Examine implications for pric
 
 - whether a business that is input taxed uses outsourced services
 
-- possible changes in customers’ purchasing patterns
+- possible changes in customers' purchasing patterns
 
-- the business’ credit control, bad debt procedures and time-to-pay rules
+- the business' credit control, bad debt procedures and time-to-pay rules
 
 - whether there are long-term instalment contracts
 

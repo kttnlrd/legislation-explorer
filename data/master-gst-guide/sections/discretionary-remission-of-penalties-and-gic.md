@@ -11,7 +11,7 @@ The Commissioner has the power to remit (reduce) administrative penalties, wholl
 
 It is not necessary to show that there have been special circumstances before any part of the penalty can be remitted. The real question is whether there should be a remission on the basis that the outcome is harsh, having regard to the particular circumstances of the taxpayer and the purpose of the legislation. The mere fact that there has been no loss to the revenue is not relevant. For example, where a false claim has been made for a refund, the fact that no refund was actually paid by the ATO could not be taken into account in determining whether the statutory penalty should be remitted (Dixon (Trustee for Dixon Holdsworth Superannuation Fund) v FC of T 2008 ATC ¶20-015; [2008] FCAFC 54; Craddon v FC of T [2011] AATA 790).
 
-Some doubt has arisen about whether the Commissioner’s discretion extends to making remission decisions in relation to classes of entities, or well as in circumstances where a charge or penalty has not yet become due. This doubt has now been removed, ensuring that the Commissioner continues the long-standing practice of providing:
+Some doubt has arisen about whether the Commissioner's discretion extends to making remission decisions in relation to classes of entities, or well as in circumstances where a charge or penalty has not yet become due. This doubt has now been removed, ensuring that the Commissioner continues the long-standing practice of providing:
 
 - remissions as an administrative response to a natural disaster or other serious and external adverse
 
@@ -25,7 +25,7 @@ Some doubt has arisen about whether the Commissioner’s discretion extends to m
 
 False statements In the particular case of penalties for false statements (¶18-300), the ATO says that remission may be appropriate in certain cases where it would be unjust to impose the full amount of multiple penalties for a false statement that has been repeated a number of times. The same applies where the taxpayer has made a genuine attempt to comply, but because of the actions of their registered agent they are liable to a penalty and safe harbour does not apply. (Practice Statements PS LA 2012/4 (where there is no shortfall); PS LA 2012/5 (where there is a shortfall). As to the effect of voluntary disclosures, see Miscellaneous Taxation Ruling MT 2012/3.
 
-There would normally not be any remission where the taxpayer had acted recklessly or with intentional disregard for the law. Remission of a 25% penalty was not appropriate where a taxpayer had falsely claimed that it had a tax invoice to support a claim for an input tax credit (ITC), even though the vendor’s failure to provide the invoice had allegedly been in breach of its contract with the purchaser (Chalmers & Anor v FC of T 2008 ATC ¶10-021; [2008] AATA 308). The ATO also considers that an administrative penalty should not be remitted solely on the basis that an error was caused by a tax agent completing an activity statement on a taxpayer’s behalf (Decision Impact Statement on Keitac Pty Ltd ATF McNamara Property Development Trust v FC of T [2007] AATA 1206).
+There would normally not be any remission where the taxpayer had acted recklessly or with intentional disregard for the law. Remission of a 25% penalty was not appropriate where a taxpayer had falsely claimed that it had a tax invoice to support a claim for an input tax credit (ITC), even though the vendor's failure to provide the invoice had allegedly been in breach of its contract with the purchaser (Chalmers & Anor v FC of T 2008 ATC ¶10-021; [2008] AATA 308). The ATO also considers that an administrative penalty should not be remitted solely on the basis that an error was caused by a tax agent completing an activity statement on a taxpayer's behalf (Decision Impact Statement on Keitac Pty Ltd ATF McNamara Property Development Trust v FC of T [2007] AATA 1206).
 
 The ATO has cautioned taxpayers against lodging BASs on a speculative basis with the idea of discussing potentially contentious matters with the ATO at a later time (Decision Impact Statement on Nitram Consulting Pty Ltd v FC of T 2008 ATC ¶10-063; [2008] AATA 1119).
 
@@ -69,7 +69,7 @@ Failing to register ATO guidelines on remission of penalties arising from failur
 
   where partial remission of the penalty is warranted. Factors that are relevant to determining if a partial
 
-  remission of the penalty is warranted include: the taxpayer’s overall compliance attitude; advantage
+  remission of the penalty is warranted include: the taxpayer's overall compliance attitude; advantage
 
   gained by not complying; period of non-compliance; and disruption to other participants in the tax
 
@@ -101,11 +101,11 @@ Failing to register ATO guidelines on remission of penalties arising from failur
 
   would be unjust.
 
-Failure to lodge documents Where the Commissioner has been required to work out a taxpayer’s liability in the absence of documents which the taxpayer has failed to provide (Administration Act Sch 1 s 284-75(3)), the ATO says that the normal 75% penalty will generally be remitted in whole or in part where:
+Failure to lodge documents Where the Commissioner has been required to work out a taxpayer's liability in the absence of documents which the taxpayer has failed to provide (Administration Act Sch 1 s 284-75(3)), the ATO says that the normal 75% penalty will generally be remitted in whole or in part where:
 
 - the taxpayer had a genuine yet mistaken belief that lodgment was not required
 
-- circumstances beyond the taxpayer’s control affected their ability to lodge
+- circumstances beyond the taxpayer's control affected their ability to lodge
 
 - the amount of penalty would cause an unjust result
 
@@ -113,7 +113,7 @@ Failure to lodge documents Where the Commissioner has been required to work out 
 
 - there was extraordinary cooperation during an examination (Practice Statement PS LA 2014/4).
 
-  “Wash” sales and revenue neutral transactions
+  "Wash" sales and revenue neutral transactions
 
 *Refs: s 298-20), s 284-75(3))*
 
@@ -123,7 +123,7 @@ Failure to lodge documents Where the Commissioner has been required to work out 
 
 - the wrong entity accounts for the GST or claims an ITC. This may occur with associated entities,
 
-  under a joint venture or similar type of “partnership” arrangement, or an agency arrangement
+  under a joint venture or similar type of "partnership" arrangement, or an agency arrangement
 
 - entities transact with each other as if they were members of a GST group when they are not members
 
@@ -141,7 +141,7 @@ It appears that, in certain circumstances, the Commissioner may take the revenue
 
 Where there are changes to the law Any changes to the GST legislation cannot impose penalties for any acts or omissions that happen earlier than 28 days after those changes receive Royal Assent (Administration Act Sch 1 s 105-85). The ATO has issued general guidelines as to how GIC and penalties will be imposed where there are retrospective or anticipated amendments.
 
-AAT review of Commissioner’s remission decisions The Administrative Appeals Tribunal can generally review decisions by the Commissioner on remission of penalties (¶18-600).
+AAT review of Commissioner's remission decisions The Administrative Appeals Tribunal can generally review decisions by the Commissioner on remission of penalties (¶18-600).
 
 - Factors taken into account in reducing penalties may include ignorance, ill health, family tragedies,
 
@@ -151,7 +151,7 @@ AAT review of Commissioner’s remission decisions The Administrative Appeals Tr
 
 - Penalties of $10,540 imposed for prolonged failure to lodge returns were held to be justified, and the
 
-  taxpayer’s claim for remission based on factors such as overwork and claimed ill health was rejected
+  taxpayer's claim for remission based on factors such as overwork and claimed ill health was rejected
 
 (Sharkey v FC of T [2007] AATA 1435).
 
@@ -187,7 +187,7 @@ ATC ¶10-289; [2012] AATA 899).
 
 - A 75% shortfall penalty imposed for failure to lodge returns for six years was confirmed
 
-  notwithstanding the taxpayer’s claim that he was suffering from depression during that period (Pinot
+  notwithstanding the taxpayer's claim that he was suffering from depression during that period (Pinot
 
 Nominees Pty Ltd & Anor v FC of T 2009 ATC ¶10-096; [2009] AATA 466).
 
@@ -197,7 +197,7 @@ Nominees Pty Ltd & Anor v FC of T 2009 ATC ¶10-096; [2009] AATA 466).
 
   well familiar with GST obligations. This was so even though the particular transactions were out of the
 
-  taxpayers’ normal business experience (Subloo Investments Pty Ltd v FC of T [2012] AATA 703).
+  taxpayers' normal business experience (Subloo Investments Pty Ltd v FC of T [2012] AATA 703).
 
 - A 75% penalty for failure to lodge multiple GST returns was confirmed where the failure was
 
@@ -239,7 +239,7 @@ Where a tax debtor faces genuine difficulty in meeting payment dates but has an 
 
 In certain limited cases, the ATO also has power to defer the due date for payment, with the result that the debt does not become due and payable until that deferred date (Administration Act Sch 1 s 255-10). In such a case, the liability for GIC only begins to accrue from that deferred date. This power will generally be exercised only where:
 
-- the late payment arose from factors beyond the taxpayer’s control, and
+- the late payment arose from factors beyond the taxpayer's control, and
 
 - the taxpayer has taken reasonable steps to mitigate the effects of those factors.
 
@@ -247,7 +247,7 @@ This could apply, for example, in cases of natural disasters (¶8-005), serious 
 
 Where there has been an understatement of GST, the Commissioner may take the following factors into account in deciding whether to remit GIC imposed for the period from the date on which the proper amount would have become due, up to the time the understatement is corrected:
 
-- delays due to the ATO, or to factors outside the taxpayer’s control, such as natural disasters or
+- delays due to the ATO, or to factors outside the taxpayer's control, such as natural disasters or
 
   serious illness
 
@@ -263,7 +263,7 @@ Where there has been an understatement of GST, the Commissioner may take the fol
 
   For ATO concessions in relation to GIC-free payment arrangements, see ¶8-100.
 
-The Commissioner’s decisions on GIC are subject to judicial review under the Administrative Decisions (Judicial Review) Act 1977 (Sharp v FC of T [2010] AATA 1023). A letter from the ATO stating that it would be prepared to accept a payment of a lump sum in full discharge of the taxpayer’s outstanding tax, inclusive of an estimated GST charge, did not amount to a decision to remit GIC (Pintarich v DFC of T 2018 ATC ¶20-657; [2018] FCAFC 79).
+The Commissioner's decisions on GIC are subject to judicial review under the Administrative Decisions (Judicial Review) Act 1977 (Sharp v FC of T [2010] AATA 1023). A letter from the ATO stating that it would be prepared to accept a payment of a lump sum in full discharge of the taxpayer's outstanding tax, inclusive of an estimated GST charge, did not amount to a decision to remit GIC (Pintarich v DFC of T 2018 ATC ¶20-657; [2018] FCAFC 79).
 
 Penalty relief for small businesses The ATO provides certain penalty relief for inadvertent errors in Activity Statements by entities with a turnover of less than $10m. The relief applies where those errors are due to failing to take reasonable care, or taking a position that is not reasonably arguable (¶20-110). It is not available if relief has already been granted at any time during the past three years, or if the taxpayer has been involved in specified tax offences during that time (ATO Penalty relief webpage).
 
@@ -271,12 +271,12 @@ Penalty relief for small businesses The ATO provides certain penalty relief for 
 
 - For remission of penalties for failure to keep adequate records, see ¶18-040.
 
-- GST “corrections” may be made without penalty in certain situations, see ¶8-045.
+- GST "corrections" may be made without penalty in certain situations, see ¶8-045.
 
 - For credit claims made on the basis of invalid tax invoices, see ¶5-130.
 
 - For Annual Compliance Agreements, see ¶18-180.
 
-## A revenue neutral or “wash” transaction can occur in situations where:
+## A revenue neutral or "wash" transaction can occur in situations where:
 
 ## Other special situations

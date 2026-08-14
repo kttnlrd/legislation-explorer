@@ -11,7 +11,7 @@ Where the CGT event involves the creation, transfer, variation or cessation of a
 
 - an amount of the income or capital of a partnership, or
 
-- an amount calculated by reference to the partner’s entitlement to an amount of income or capital
+- an amount calculated by reference to the partner's entitlement to an amount of income or capital
 
   of a partnership;
 
@@ -21,7 +21,7 @@ Where the CGT event involves the creation, transfer, variation or cessation of a
 
   involving a right or interest in a partnership if the right or interest would be suﬃcient to make the entity
 
-  holding the right or interest a partner (eg the transfer of all or part of a partner’s share in a partnership to
+  holding the right or interest a partner (eg the transfer of all or part of a partner's share in a partnership to
 
   another entity, making that other entity a partner or increasing their existing share in the partnership). This
 

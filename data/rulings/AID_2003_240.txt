@@ -3,18 +3,14 @@ ATO ID 2003/240
 ==================================================
 
 Income Tax
-        Deferred capital loss or deduction: option granted by a company to acquire shares in it ends
-        FOI status: may be released
-
-
+ Deferred capital loss or deduction: option granted by a company to acquire shares in it ends
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Subdivision 170-D of the Income Tax Assessment Act 1997 (ITAA 1997) apply to disregard a capital loss a company made because CGT event C3 (section 104-30) of ITAA 1997 happened in respect of an option granted by the company?
@@ -26,16 +22,12 @@ Upon the ending of the option, section 104-30 of the ITAA 1997 provided that CGT
 Reasons for Decision
 Subsection 170-255(1) of the ITAA 1997 provides that Subdivision 170-D of the ITAA 1997 will apply if, among other things:
 
-
-
 (a) an event (the
-                deferral event
+ deferral event
 ) happens involving a company (the
-                originating company
+ originating company
 ) and another entity; and
 (b) one or more of the following apply:
-
-
 
 (i) the deferral event is a *CGT event that would have resulted in the originating company making a *capital loss (except a capital loss that would be disregarded under a provision of this Act other than this Subdivision);
 (ii) ...;
@@ -43,13 +35,11 @@ Subsection 170-255(1) of the ITAA 1997 provides that Subdivision 170-D of the IT
 
 (c) if subparagraph (b)(i) applies -- the CGT event is one of the following:
 
-
-
 (i) CGT events A1 and B1 (a
-                      disposal case
+ disposal case
 );
 (ii) CGT events D1, D2, D3 and F1 (a
-                      creation case
+ creation case
 ).
 * denotes a term defined in section 995-1 of the ITAA 1997
 
@@ -59,10 +49,10 @@ The deferral event was a CGT event that would have resulted in the originating c
 As the deferral event only involved CGT event C3, the condition in paragraph 170-255(1)(c) of the ITAA 1997 is not satisfied.
 As not all of paragraphs 170-255(1)(a) to (e) of the ITAA 1997 apply, then section 170-270 of Subdivision 170-D of the ITAA 1997 does not apply to disregard the capital loss made by the originating company.
 Date of decision:
-         24 February 2003
+  24 February 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -71,24 +61,23 @@ Income Tax Assessment Act 1997   section 104-30   Subdivision 170-D   s
 Keywords
 
 Capital losses
-          Deferral event
-          Deferred capital losses
-          Deferred capital losses and deductions
-          Disregarded capital loss
-          Net capital losses
-          New event
-          Originating company
-          Relevant CGT asset
-
+ Deferral event
+ Deferred capital losses
+ Deferred capital losses and deductions
+ Disregarded capital loss
+ Net capital losses
+ New event
+ Originating company
+ Relevant CGT asset
 
 Siebel/TDMS Reference Number:
-         3491739
+  3491739
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         11 April 2003
+  11 April 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

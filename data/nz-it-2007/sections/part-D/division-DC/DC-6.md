@@ -4,11 +4,11 @@ part_title: Part D Deductions
 division: DC
 division_title: Subpart DC—Employee or contractor expenditure
 section: DC-6
-section_title: Contributions to employees’ benefit funds
+section_title: Contributions to employees' benefit funds
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# DC 6  Contributions to employees’ benefit funds
+# DC 6  Contributions to employees' benefit funds
 
 **Deduction**
 
@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) the fund is not a superannuation scheme; and
 
-- (b) the employees’ rights to receive benefits from the fund are fully secured.
+- (b) the employees' rights to receive benefits from the fund are fully secured.
 
 **Link with subpart DA**
 

@@ -175,10 +175,10 @@ COMMISSIONER OF TAXATION
 22 MARCH 1983
 APPENDIX
 READY RECKONER
-The attached ready reckoner has been prepared to assist in the calculation of contributions to lump sum superannuation funds which may be allowed as income tax deductions.  A ready reckoner for smaller pension funds is in course of preparation.
-The ready reckoner is based on the projection of salaries at 8% per annum compound and on interest rates varying from 9% to 15%.  Rates of contribution are specified until ten years from retirement.  As a general rule, where an employee is admitted to a fund within 10 years of normal retiring age, the allowable contribution will be determined in the circumstances of each case.
-In a simple case, assuming an employee is admitted to a fund at age 30 on a salary of $25,000 and all the assets of the fund are invested in appropriate arm's length securities, the amount of the contribution allowable as an income tax deduction would be 15.61985% of $25,000, i.e. $3905.  If 55% of the moneys in the fund were lent back to the employer, the allowable contribution would be 6.05382% of $25,000, i.e. $1513.
-For existing members of funds it will be necessary to take into account in the calculation of the contribution a member's present balance in the fund.  Similarly, it will be necessary to have regard to a member's balance in the fund when reviewing the contribution in the light of the actual earning of a fund.  The final column in the ready reckoner indicates the dollar reduction to be made for each $100 in a fund. Assuming, in the case of the $3905 contribution referred to in the preceding paragraph, that there was $3250 held in a fund on a member's behalf, the allowable contribution would be -
+The attached ready reckoner has been prepared to assist in the calculation of contributions to lump sum superannuation funds which may be allowed as income tax deductions. A ready reckoner for smaller pension funds is in course of preparation.
+The ready reckoner is based on the projection of salaries at 8% per annum compound and on interest rates varying from 9% to 15%. Rates of contribution are specified until ten years from retirement. As a general rule, where an employee is admitted to a fund within 10 years of normal retiring age, the allowable contribution will be determined in the circumstances of each case.
+In a simple case, assuming an employee is admitted to a fund at age 30 on a salary of $25,000 and all the assets of the fund are invested in appropriate arm's length securities, the amount of the contribution allowable as an income tax deduction would be 15.61985% of $25,000, i.e. $3905. If 55% of the moneys in the fund were lent back to the employer, the allowable contribution would be 6.05382% of $25,000, i.e. $1513.
+For existing members of funds it will be necessary to take into account in the calculation of the contribution a member's present balance in the fund. Similarly, it will be necessary to have regard to a member's balance in the fund when reviewing the contribution in the light of the actual earning of a fund. The final column in the ready reckoner indicates the dollar reduction to be made for each $100 in a fund. Assuming, in the case of the $3905 contribution referred to in the preceding paragraph, that there was $3250 held in a fund on a member's behalf, the allowable contribution would be -
 Contribution as per ready reckoner
 $3905
 Reduction factor per ready reckoner
@@ -3842,7 +3842,7 @@ $REDN PER $100 ASSETS
 12.08557
 References
 ATO references:
-NO  4 J172/21/1 P15
+NO 4 J172/21/1 P15
 Date of effect:
 01.07.82
 Date original memo issued:

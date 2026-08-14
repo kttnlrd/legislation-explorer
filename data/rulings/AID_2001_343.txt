@@ -3,23 +3,18 @@ ATO ID 2001/343
 ==================================================
 
 Income Tax
-        Car Expenses - '12 per cent of original value' method - part year ownership
-        FOI status: may be released
-
+ Car Expenses - '12 per cent of original value' method - part year ownership
+ FOI status: may be released
 
 This ATO ID is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the taxpayer calculate their car expense deduction using the '12% of original value' method under Subdivision 28-D of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -36,8 +31,6 @@ Section 28-12 of the ITAA 1997 states:
 (2) You must use one of the 4 methods unless an exception applies. If you can't use any of the methods, you can't deduct anything for the car expenses.'
 The four statutory methods of calculating deductions are:
 
-
-
 • 'cents per kilometre' method (Subdivision 28-C of the ITAA 1997)
 • '12% of original value' method (Subdivision 28-D of the ITAA 1997)
 • 'one-third of actual expenses' method (Subdivision 28-E of the ITAA 1997)
@@ -51,10 +44,10 @@ Whether a taxpayer would have travelled more than 5000 business kilometres, had 
 If a taxpayer did not own or lease the car for the whole year, subsection 28-45 (3) of the ITAA 1997 provides that the taxpayer's deduction under the '12% of original value' method is calculated using the following formula:
 Full Year Car Deduction * ([365 - the number of car - less days] / 365])
 The
-          full year car deduction
-           is the amount the taxpayer would deduct if they had owned or leased the car for the whole income year. A
-          car-less day
-           is a day when a taxpayer did not own or lease the car.
+ full year car deduction
+ is the amount the taxpayer would deduct if they had owned or leased the car for the whole income year. A
+ car-less day
+ is a day when a taxpayer did not own or lease the car.
 Under the '12% of original value' method, the taxpayer does not need to substantiate the car expenses for their car (section 28-60 of the ITAA 1997).
 The taxpayer travelled 3000 business kilometres from 31 December until the end of the income year. Therefore the number of business kilometres the taxpayer would have travelled during the income year is:
 (3000 * 365) / 182
@@ -64,12 +57,10 @@ Hence, the taxpayer is eligible to calculate their car expenses using the '12% o
 = $6,616 * (182 / 365)
 = $3,299
 
-
-
 •since the taxpayer's car cost $60,000 which is greater than the maximum car depreciation limit, the taxpayer is only entitled to a deduction of 12% of the car depreciation limit.
 
 Date of decision:
-         21/8/01
+  21/8/01
 
 Legislative References:
 
@@ -79,26 +70,22 @@ Keywords
 
 Motor vehicle expenses
 
-
 Business Line:
-         Small Business/Individual Taxpayers
+  Small Business/Individual Taxpayers
 
 Date of publication:
-         15 September 2001
+  15 September 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 21 August 2001

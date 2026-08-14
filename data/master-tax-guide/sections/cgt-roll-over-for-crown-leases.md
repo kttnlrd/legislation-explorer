@@ -39,7 +39,7 @@ Further conditions for roll-over In addition, for the roll-over to happen, the e
 
   Renewal may occur even if lessor changes
 
-A lease of land (whether or not it is a Crown lease) granted to a taxpayer is treated as being a renewal of the taxpayer’s original lease if (s 124-605):
+A lease of land (whether or not it is a Crown lease) granted to a taxpayer is treated as being a renewal of the taxpayer's original lease if (s 124-605):
 
 - after the grant of the original lease, the land to which it related became vested in an Australian
 
@@ -61,7 +61,7 @@ There is no roll-over for the excised part. Because the excision of part of the 
 
 *Refs: s 124-575(2)), s 124-605), s 124-585), s 124-590)*
 
-separate assets Each part of a taxpayer’s estate in fee simple or new Crown lease after the roll-over has been made is divided into separate assets for CGT purposes by reference to the extent to which the original Crown lease relates to pre-CGT Crown leased land, to post-CGT Crown leased land and to other land (s 124-595). For this purpose, where a separate asset relates to pre-CGT Crown leased land, the separate asset is also treated as a pre-CGT asset.
+separate assets Each part of a taxpayer's estate in fee simple or new Crown lease after the roll-over has been made is divided into separate assets for CGT purposes by reference to the extent to which the original Crown lease relates to pre-CGT Crown leased land, to post-CGT Crown leased land and to other land (s 124-595). For this purpose, where a separate asset relates to pre-CGT Crown leased land, the separate asset is also treated as a pre-CGT asset.
 
 Consequences of roll-over The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (s 124-600) (¶12-160). The ﬁrst element of the cost base and reduced cost base of the new Crown lease or estate in fee simple is worked out under those general rules.
 
@@ -91,7 +91,7 @@ Consequences of roll-over The consequences of the roll-over are those that gener
 
 The ﬁrst element of the cost base and reduced cost base of the new asset is worked out under those general rules.
 
-Right granted to associate If the quasi-ownership right or estate in fee simple is instead granted to the taxpayer’s associate or an associated government entity, there is no roll-over. In addition, the reduced cost base of the depreciating asset in the taxpayer’s hands is decreased by the adjustable value of the asset (¶17-640) just before the original quasi-ownership right expired or was surrendered or terminated (s 124-660). The adjustable value was formerly described as the “undeducted cost”.
+Right granted to associate If the quasi-ownership right or estate in fee simple is instead granted to the taxpayer's associate or an associated government entity, there is no roll-over. In addition, the reduced cost base of the depreciating asset in the taxpayer's hands is decreased by the adjustable value of the asset (¶17-640) just before the original quasi-ownership right expired or was surrendered or terminated (s 124-660). The adjustable value was formerly described as the "undeducted cost".
 
 CGT roll-over for prospecting and mining entitlements Compulsory roll-over
 

@@ -3,29 +3,23 @@ ATO ID 2006/338
 ==================================================
 
 Income Tax
-        Acquisition of the beneficial ownership of all of the shares in a subsidiary member of a consolidated group by another consolidated group
-        FOI status: may be released
-
-
+ Acquisition of the beneficial ownership of all of the shares in a subsidiary member of a consolidated group by another consolidated group
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 45-15 of the Income Tax Assessment 1997 (ITAA 1997) apply to deem a disposal and acquisition of certain depreciating assets (the affected assets) for their market value where:
-
-
 
 •all of the membership interests in a subsidiary member of a consolidated group are acquired by another consolidated group, and
 •the time that the beneficial ownership of the membership interests in the subsidiary is acquired is the same as the transfer time that applies in subparagraph 703-33(1)(a)(i) of the ITAA 1997.
 
 Decision
-No.  Section 45-15 of the ITAA 1997 does not apply to deem a disposal and acquisition of the affected assets for their market value where the time that the beneficial ownership of all of the shares in the subsidiary is acquired is identical to the time it becomes a member of the purchasing consolidated group.
+No. Section 45-15 of the ITAA 1997 does not apply to deem a disposal and acquisition of the affected assets for their market value where the time that the beneficial ownership of all of the shares in the subsidiary is acquired is identical to the time it becomes a member of the purchasing consolidated group.
 Facts
 ACo is the head company of a consolidated group (ACo group). BCo is a subsidiary member of the ACo group. DCo is the head company of another consolidated group (DCo group).
 BCo legally owns depreciating assets that are used in a leasing business. These assets are leased to entities that are not members of the ACo group. ACo, as the head company of the ACo group, has been claiming deductions (under Division 40 of the ITAA 1997) for the decline in value of the assets.
@@ -50,10 +44,10 @@ The provisions of the two enactments cannot in such case stand together and oper
 
 Where a subsidiary exits one consolidated group and immediately joins another, at the instant in time that section 45-15 of the ITAA 1997 is meant to apply, it is considered that the rules in section 45-15 and the tax cost setting provisions in Divisions 701, 705 and 711 of the ITAA 1997 cannot all 'operate at the same time and for the same purpose, but with varying effect, upon the same set of circumstances.' It is considered that the tax cost setting rules have specific application to situations involving a subsidiary member joining or leaving a consolidated group and that section 45-15 of the ITAA 1997 does not apply where the time that the beneficial ownership of all of the membership interests in the subsidiary is acquired is identical to the time that the subsidiary becomes a member of the purchasing group. Part 3-90 of the ITAA 1997 provides a complete legislative framework that specifically addresses the situation where an entity exits one consolidated group and immediately joins another.
 Date of decision:
-         14 December 2006
+  14 December 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -61,35 +55,33 @@ Income Tax Assessment Act 1997   section 40-85   section 40-285   secti
 
 Case References:
 
-
 Goodwin v. Phillips   (1908) 7 CLR 1
 
 Keywords
 
 Adjustable value of a depreciating asset
-          Allocable cost amount
-          Consolidated group
-          Consolidation
-          Consolidation - exiting
-          Cost setting rules
-          Division 45
-          Joining entity
-          Joining time
-          Leaving entity
-          Leaving time
-          Over-depreciation of an asset
-          Tax cost setting amount
-          Terminating value for a head company
-
+ Allocable cost amount
+ Consolidated group
+ Consolidation
+ Consolidation - exiting
+ Cost setting rules
+ Division 45
+ Joining entity
+ Joining time
+ Leaving entity
+ Leaving time
+ Over-depreciation of an asset
+ Tax cost setting amount
+ Terminating value for a head company
 
 Siebel/TDMS Reference Number:
-         5479904
+  5479904
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         22 December 2006
+  22 December 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

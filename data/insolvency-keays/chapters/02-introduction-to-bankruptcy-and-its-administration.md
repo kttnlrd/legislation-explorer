@@ -1,3 +1,11 @@
+---
+act: "Keay's Insolvency"
+source: "Keays Insolvency Textbook by Phillip Keays, LexisNexis"
+chapter: 2
+title: "Introduction to Bankruptcy and its Administration"
+slug: "02-introduction-to-bankruptcy-and-its-administration"
+---
+
 # Chapter 2: Introduction to Bankruptcy and its Administration
 
 Introduction to Bankruptcy and
@@ -24,8 +32,8 @@ Introduction to Bankruptcy and
 [2.70] Discharge and annulment ................................................................................... 59
 [2.75] TIMING AND DATES .......................................................................................................... 59
 [2.80] Commencement of the bankruptcy ................................................................... 59
-    [2.85] Date of commencement when bankruptcy is based on a creditor’s petition ....... 59
-    [2.90] Date of commencement when bankruptcy is based on a debtor’s petition .......... 60
+    [2.85] Date of commencement when bankruptcy is based on a creditor's petition ....... 59
+    [2.90] Date of commencement when bankruptcy is based on a debtor's petition .......... 60
 [2.95] The doctrine of relation back and the identiﬁcation of the property of the
        bankrupt ................................................................................................................. 60
 [2.97] Defences against relation back ........................................................................... 62
@@ -34,7 +42,7 @@ Introduction to Bankruptcy and
 [2.110] ADMINISTRATION OF BANKRUPTCY ........................................................................ 64
 [2.110] Inspector-General in Bankruptcy ..................................................................... 64
     [2.112] Conﬁdential information ............................................................................................... 65
-48         Keay’s Insolvency: Personal and Corporate Law and Practice
+48         Keay's Insolvency: Personal and Corporate Law and Practice
 
 [2.115] National Personal Insolvency Index (NPII) ................................................... 66
 [2.120] Trustees in bankruptcy ....................................................................................... 66
@@ -62,12 +70,12 @@ Introduction to Bankruptcy and
      [2.305] The discipline committee .............................................................................................. 86
      [2.310] Industry body notices ................................................................................................... 86
      [2.315] Register of Trustees ........................................................................................................ 87
-     [2.320] The trustees’ resignation, release etc .......................................................................... 87
+     [2.320] The trustees' resignation, release etc .......................................................................... 87
      [2.325] Replacing a trustee ......................................................................................................... 87
      [2.330] Streamlined replacement – s 181A .............................................................................. 88
 [2.335] Court oversight of trustees ............................................................................... 88
-     [2.340] Court review of a trustee’s conduct ........................................................................... 88
-     [2.345] Court’s review of the administration of an estate ................................................... 89
+     [2.340] Court review of a trustee's conduct ........................................................................... 88
+     [2.345] Court's review of the administration of an estate ................................................... 89
      [2.350] Section 90-15 ................................................................................................................... 89
      [2.355] Penalty privilege ............................................................................................................ 90
 [2.360] Creditor oversight ............................................................................................... 90
@@ -83,7 +91,7 @@ the bankruptcy system operates, and its history. The regulator, the trustee and 
 creditors are explained, as well as the detail of how trustees are registered and
 regulated, and their signiﬁcant powers and duties. This overview is necessary in
 order to then understand the following chapters, which progress through the
-proceedings leading to a debtor’s bankruptcy, and the law and procedure in
+proceedings leading to a debtor's bankruptcy, and the law and procedure in
 administering a bankruptcy through to its conclusion.
 The 9th edition of this book included as much as was feasible in relation to what
 was then the Insolvency Law Reform Bill 2015. There were no Insolvency Practice
@@ -109,7 +117,7 @@ BRIEF HISTORY OF BANKRUPTCY
 society. The law concerning what we now call bankruptcy can be traced to Greek
 and Roman times, where, as now, the issue was often a source of political and social
 conﬂict. The fundamentals of insolvency were applied – the ordered forfeiture and
-sale of a debtor’s property and the process of paying out each creditor in
+sale of a debtor's property and the process of paying out each creditor in
 proportion – so as to provide some means of resolving the unfairness of debts being
 unpaid, and to impose some law and order upon an otherwise socially disruptive
 situation.1 But the law was also often harsh with servitude and death being
@@ -117,14 +125,14 @@ outcomes for those not paying moneys owing.
 The principles remained and took hold in England in the 16th century with the
 Bankruptcy Act of 1542 being seen as the foundation of bankruptcy law as we now
 
-1 See Quilter, “The XII Tables as Part of Bankruptcy’s Narrative: Identifying Creditors’ Collective
-  Rights” (2011) 19 Insolv LJ 91. See also Graeber, Debt: The First 5,000 Years (Melville House, 2011).
-50      Keay’s Insolvency: Personal and Corporate Law and Practice                                     [2.05]
+1 See Quilter, "The XII Tables as Part of Bankruptcy's Narrative: Identifying Creditors' Collective
+  Rights" (2011) 19 Insolv LJ 91. See also Graeber, Debt: The First 5,000 Years (Melville House, 2011).
+50      Keay's Insolvency: Personal and Corporate Law and Practice                                     [2.05]
 
-know it.2 Its preamble recited it as “an Act against such persons as to make
-bankrupts”. This law was designed to deal with debtors who absconded leaving
+know it.2 Its preamble recited it as "an Act against such persons as to make
+bankrupts". This law was designed to deal with debtors who absconded leaving
 their creditors unpaid. It allowed creditors to obtain the seizure and sale of the
-debtor’s assets, with the proceeds of sale then being paid equally among them all.
+debtor's assets, with the proceeds of sale then being paid equally among them all.
 That requirement of equal payment, in proportion to the debts owing to each
 creditor, remains a fundamental aspect of insolvency law.
 Bankruptcy law in England was initially focused on trading debtors and it
@@ -133,9 +141,9 @@ unprotected, and debtors could be imprisoned for unpaid debts. History records
 that some recalcitrant debtors were nailed by their ears to a pillory as an
 inducement to pay up and as a warning to others.3 However, that did not deter
 some debtors from trying to hide or transfer their assets to protect them from being
-taken and sold by their creditors. Complaints that such devices were “more
+taken and sold by their creditors. Complaints that such devices were "more
 commonly used and practised in these days than have been seen or heard of
-heretofore” prompted Queen Elizabeth I, in 1570, to make laws allowing assets to
+heretofore" prompted Queen Elizabeth I, in 1570, to make laws allowing assets to
 be recovered.4 As we will see, that 16th century law of Elizabeth I remains in force
 in each of the Australian States and is commonly applied. It was also a precursor to
 a similar provision in current bankruptcy law.
@@ -152,21 +160,21 @@ It was not until 1924 that there was Commonwealth legislation, the Bankruptcy Ac
 of that year. It was based largely on the 1883 English Bankruptcy Act, although the
 negotiations between the States leading up to its enactment were protracted.8 The
 Commonwealth Parliament had the power under the then new Australian
-Constitution to make laws “with respect to bankruptcy and insolvency”, in
-s 51(xvii); the word “insolvency” referring to corporate insolvency, a meaning not
+Constitution to make laws "with respect to bankruptcy and insolvency", in
+s 51(xvii); the word "insolvency" referring to corporate insolvency, a meaning not
 
-2 (ENG) (34 and 35 Hen 8 c 4). See Quilter, “Development of Bankruptcy Process in the Late Republic
-  and its Relationship to Modern Bankruptcy” (2013) 21 Insolv LJ 125.
+2 (ENG) (34 and 35 Hen 8 c 4). See Quilter, "Development of Bankruptcy Process in the Late Republic
+  and its Relationship to Modern Bankruptcy" (2013) 21 Insolv LJ 125.
 3 F Whitmarsh, A Treatise on the Bankrupt Laws (2nd ed, J Butterworth & Son, 1817) p 418.
 4 The Statute of 13 Elizabeth, being the Fraudulent Conveyances Act 1571 (Eng) (13 Eliz 1, c 5). The
   successor to it is found in various State laws – for example Conveyancing Act 1919 (NSW), s 37A;
   Property Law Act 1958 (Vic), s 172.
-5 Debtors Act 1869 (Eng) (32 & 33 Vict, c 52); see H Rajak, “The Culture of Bankruptcy”, in P Omar (ed),
+5 Debtors Act 1869 (Eng) (32 & 33 Vict, c 52); see H Rajak, "The Culture of Bankruptcy", in P Omar (ed),
   International Insolvency Law – Themes and Perspectives (Ashgate, 2008), Ch 1.
 6 Bankruptcy Act 1883 (UK) (46 & 47 Vict, c 52).
 7 Bankruptcy Act 1898 (NSW); Insolvency Act 1874 (Qld); Insolvent Act 1886 (SA); Bankruptcy Act 1870
   (Tas); Insolvency Act 1915 (Vic); Bankruptcy Act 1892 (WA).
-8 See Officially Receiving: A History of Australia’s Bankruptcy Law and Administration (ITSA, 2010).
+8 See Officially Receiving: A History of Australia's Bankruptcy Law and Administration (ITSA, 2010).
 [2.08]                               2 Introduction to Bankruptcy and its Administration   51
 
 necessarily consistent with modern usage. The Parliament used this power when it
@@ -180,7 +188,7 @@ court – the Federal Court of Bankruptcy – was created.
 The Bankruptcy Act 1924 (Cth) was amended a number of times before a major
 review of bankruptcy was conducted in the early 1960s, by what is known as the
 Clyne Committee, headed by an eminent bankruptcy judge of the time. The
-Committee’s report is the ﬁrst major review of bankruptcy laws as a whole in more
+Committee's report is the ﬁrst major review of bankruptcy laws as a whole in more
 modern times and its recommendations led to the enactment of the Bankruptcy Act
 1966 (Cth). That Act commenced operation on 4 March 1968 and remains our
 current law, although it has been amended signiﬁcantly and at regular intervals
@@ -199,7 +207,7 @@ The Federal Court of Bankruptcy was replaced by the Federal Court of Australia i
 continues to deal with bankruptcy, although most bankruptcy matters are now
 heard by the Federal Circuit Court of Australia, established as the Federal
 Magistrates Court in 1999. The Family Court of Australia also has jurisdiction in
-relation to “matrimonial” bankruptcies.
+relation to "matrimonial" bankruptcies.
 
 NUMBERS AND TRENDS
 [2.08]   Numbers of personal insolvencies in Australia over the years have
@@ -214,7 +222,7 @@ Business-related factors are responsible for over 24% of all bankruptcies, and 1
 of all cases of personal insolvency. The percentage is generally over 30% in the case
 of Pt X agreements. These are often sole traders, partners and directors who each
 can be personally liable for debts incurred by a business. The occurrence of
-52     Keay’s Insolvency: Personal and Corporate Law and Practice                                  [2.10]
+52     Keay's Insolvency: Personal and Corporate Law and Practice                                  [2.10]
 
 business related personal insolvencies varies within different sectors of the
 economy, with construction workers representing the highest number of debtors
@@ -225,7 +233,7 @@ Putting this in perspective, Australia has a low number of personal insolvencies
 States (0.5%).9
 We therefore have a relatively modern approach to bankruptcy but vestiges of its
 severe past remain. The frequent references to absconding debtors and avoidance of
-creditors in sixteenth century English law carries through to today’s laws, with the
+creditors in sixteenth century English law carries through to today's laws, with the
 link between bankruptcy and wrongdoing still often drawn. Section 44 of the
 Australian Constitution groups bankruptcy with treason as a reason for a person
 not becoming, or remaining, a member of Parliament; many other laws link
@@ -237,15 +245,15 @@ greater access to credit, it still retains some moral and social stigma.12
 
 BANKRUPTCY LEGISLATION
 Bankruptcy and related legislation
-[2.10] The Bankruptcy Act 1966 (Cth) (now referred to as “the Act” or the
+[2.10] The Bankruptcy Act 1966 (Cth) (now referred to as "the Act" or the
 Bankruptcy Act) contains the rules and procedures governing bankruptcy
 proceedings from pre-bankruptcy matters through to the discharge of the bankrupt
 and the release of the trustee in bankruptcy. The trustee is the person charged with
 the administration of the bankruptcy. The Act also regulates deceased estates in
 bankruptcy (Pt XI), and non-bankruptcy agreements made with creditors under
-Pt IX and Pt X of the Act: see Chapters 8 and 9. We use the generic term “regulated
-debtor”, or debtor or bankrupt: IPRB, s 5-15.
-“Regulated debtor’s estate” and “trustee of a regulated debtor’s estate” have
+Pt IX and Pt X of the Act: see Chapters 8 and 9. We use the generic term "regulated
+debtor", or debtor or bankrupt: IPRB, s 5-15.
+"Regulated debtor's estate" and "trustee of a regulated debtor's estate" have
 consequential meanings: IPRB, ss 5-16, 5-20.
 Other signiﬁcant Commonwealth legislation relevant to the administration of
 personal insolvencies include the Bankruptcy (Estate Charges) Act 1997 (Cth)
@@ -254,12 +262,12 @@ personal insolvencies include the Bankruptcy (Estate Charges) Act 1997 (Cth)
 10 See M Murray, Bankruptcy, Treason and Other Crimes [2001] 1 INSLB 138.
 11 Ahern v DCT (1987) 76 ALR 137, 148; Kyriackou v Shield Mercantile Pty Ltd [2004] FCA 490 at [36];
    Mehajer v Weston (Trustee), in the matter of Mehajer [2018] FCA 608 at [8].
-12 Usefully discussed in Officially Receiving: A History of Australia’s Bankruptcy Law and Administration
+12 Usefully discussed in Officially Receiving: A History of Australia's Bankruptcy Law and Administration
    (ITSA, 2010). The stigma of bankruptcy is discussed in The World Bank, Report on the Treatment of the
-   Insolvency of Natural Persons (The World Bank, 2013) at p 43. See also “Short a Few Quid’: Bankruptcy
-   Stigma in Contemporary Australia” (2015) 38(4) UNSW Law Journal 1575, Ali P; O’Brien L; Ramsay
-   I; Howell N; Mason R, “Reinforcing Stigma or Delivering a Fresh Start: Bankruptcy and Future
-   Engagement in the Workforce” (2015) 38(4) UNSW Law Journal 1529.
+   Insolvency of Natural Persons (The World Bank, 2013) at p 43. See also "Short a Few Quid': Bankruptcy
+   Stigma in Contemporary Australia" (2015) 38(4) UNSW Law Journal 1575, Ali P; O'Brien L; Ramsay
+   I; Howell N; Mason R, "Reinforcing Stigma or Delivering a Fresh Start: Bankruptcy and Future
+   Engagement in the Workforce" (2015) 38(4) UNSW Law Journal 1529.
 [2.20]                                       2 Introduction to Bankruptcy and its Administration    53
 
 (Bankruptcy (Estate Charges) Act, the Personal Property Securities Act 2009 (Cth)
@@ -268,14 +276,14 @@ personal insolvencies include the Bankruptcy (Estate Charges) Act 1997 (Cth)
 
 Bankruptcy regulations and related legislative instruments
 [2.15]   Section 315 of the Act permits the making of regulations. The Bankruptcy
-Regulations 1996 (Cth) (“the regulations”) prescribe the more detailed procedures to
+Regulations 1996 (Cth) ("the regulations") prescribe the more detailed procedures to
 be followed in the administration of bankruptcies. These supplement IPSB and the
 IPRB.
-“Approved forms” are issued by the Inspector-General in Bankruptcy: s 6D.13
+"Approved forms" are issued by the Inspector-General in Bankruptcy: s 6D.13
 These are published on the AFSA website: http://www.afsa.gov.au. These are forms
 to be used by bankrupts, trustees, creditors and others and include forms of
 statements of affairs, proofs of debt and proxies. Throughout this text they are
-referred to as “AFSA Form [number]”. Categories of AFSA Forms are at
+referred to as "AFSA Form [number]". Categories of AFSA Forms are at
 Appendix A to this chapter.
 The regulations are now less relevant in that much of their content has been
 transferred to the Schedule or the Rules. They continue to prescribe certain
@@ -294,7 +302,7 @@ relevant rules are the uniform Federal Court (Bankruptcy) Rules 2016 (Cth) and t
 Federal Circuit Court (Bankruptcy) Rules 2016 (Cth). Both sets of rules deal with
 matters of court practice and procedure, and set out in schedules the form and
 content which court bankruptcy documents are to take. We refer to these
-collectively as the Courts’ Bankruptcy Rules.
+collectively as the Courts' Bankruptcy Rules.
 The Family Court of Australia also has a role in bankruptcy under the Family Law
 Act 1975 (Cth), as does the Administrative Appeals Tribunal. The Family Law Rules
 2004 (Cth) contain provisions concerning bankruptcy proceedings, in Pt 6 and Pt 26.
@@ -305,7 +313,7 @@ The courts exercising bankruptcy or related jurisdiction are explained at [2.200
 13 The terms of that section allow the Inspector-General to require information beyond the
    requirements of the particular section; see for example, IPSB, s 30-1 and the Annual Trustee Return.
    ASIC has similar authority under Corporations Schedule, s 100-6.
-54      Keay’s Insolvency: Personal and Corporate Law and Practice                                [2.22]
+54      Keay's Insolvency: Personal and Corporate Law and Practice                                [2.22]
 
 Insolvency Law Reform Act 2016
 [2.22] The Insolvency Law Reform Act 2016 (Cth) made a substantial change to the
@@ -353,18 +361,18 @@ where the court in The Case of The Bankrupts (1592) 2 Co Rep 25; 76 ER 441 said 
    at https://www.afsa.gov.au.
 [2.40]                                   2 Introduction to Bankruptcy and its Administration   55
 
-   “But if after the debtor becomes a bankrupt, he may prefer one … and defeat and defraud
+   "But if after the debtor becomes a bankrupt, he may prefer one … and defeat and defraud
    many other poor men of their due debts it would be unequal, and unconscionable and a
-   great defect in the law.”
+   great defect in the law."
 
 Protection and rehabilitation
 [2.30] A second purpose of bankruptcy law is to protect debtors in difficult
 ﬁnancial positions to obtain relief from the pressure of their creditors and to be
 given an opportunity to make a fresh ﬁnancial start. In contrast to the severity of
 the earlier law, bankruptcy now has a focus on the protection of bankrupts and
-their ﬁnancial rehabilitation. The term “fresh start” is often referred to,
+their ﬁnancial rehabilitation. The term "fresh start" is often referred to,
 encompassing both ﬁnancial and psycho-social release of past liabilities and events.
-The government’s announced intention of allowing a one year period of
+The government's announced intention of allowing a one year period of
 bankruptcy is an aspect of this rehabilitation focus.16
 This is the fact that bankruptcy, when applied to an individual person, gives a more
 focused purpose than the protection of an inanimate company and its assets.
@@ -394,9 +402,9 @@ beyond which credit agencies cannot retain personal insolvency information. For
 bankruptcy, it is the later of ﬁve years after the date of the bankruptcy or two years
 after the date the bankruptcy ends: Privacy Act 1988 (Cth), s 20X.
 
-16 See Ali, O’Brien and Ramsay, “Bankruptcy and Debtor Rehabilitation: An Australian Empirical
-   Study” [2017] MULR 688.
-56     Keay’s Insolvency: Personal and Corporate Law and Practice                                  [2.42]
+16 See Ali, O'Brien and Ramsay, "Bankruptcy and Debtor Rehabilitation: An Australian Empirical
+   Study" [2017] MULR 688.
+56     Keay's Insolvency: Personal and Corporate Law and Practice                                  [2.42]
 
 Irrespective, the names of bankrupts always remain on the National Personal
 Insolvency Index (NPII), although, of course, it will also show when the person has
@@ -411,10 +419,10 @@ less of a stigma and imposes no subsequent business or personal restrictions.
 Beneﬁts to society
 [2.42] More broadly and particularly, and as well explained in a 2013 World Bank
 report,17 bankruptcy also serves to reduce or limit wasteful collection costs and
-diminished value in sales of debtors’ assets; to encourage responsible lending to
+diminished value in sales of debtors' assets; to encourage responsible lending to
 debtors; to concentrate losses on more efficient and effective loss distributors; to
 reduce welfare-related costs through illness, crime and unemployment; to increase
-the debtor’s capacity to again earn taxable income; to encourage entrepreneurship;
+the debtor's capacity to again earn taxable income; to encourage entrepreneurship;
 and to enhance stability and predictability in the broader economy and ﬁnancial
 system.
 Its overall importance as a matter of the rule of law, in the provision of a regime
@@ -432,7 +440,7 @@ discharged without the formal processes and restrictions of bankruptcy applying.
 debtor may also use a variety of informal solutions such as the rescheduling of debt
 payments with the agreement of the relevant creditors and thus avoid the processes
 of the Act altogether. We discuss the various options in more detail at [2.105].
-If the debtor’s position cannot be retrieved, practically speaking, or if the creditors
+If the debtor's position cannot be retrieved, practically speaking, or if the creditors
 are not willing to consider these formal or informal arrangements, the debtor may
 have no option but bankruptcy.
 At the same time, the option of bankruptcy lies only with the creditors, or the
@@ -442,7 +450,7 @@ debtor. If neither chooses that option – the creditors because they do not wan
    purposes of corporate insolvency. The World Bank, Report on the Treatment of the Insolvency of Natural
    Persons (The World Bank, 2013), at http://www.worldbank.org.
 18 For a discussion of bankruptcy as an important aspect of public law, see Chief Justice James Allsop,
-   “Values in Public Law” [2015] FedJSchol 17.
+   "Values in Public Law" [2015] FedJSchol 17.
 [2.55]                               2 Introduction to Bankruptcy and its Administration   57
 
 incur the cost and time, with little likelihood of any recovery, the debtor, because
@@ -456,58 +464,58 @@ First, a sequestration order may be made by the court on the application of a
 creditor, resulting in the debtor becoming a bankrupt. This process is often referred
 to as involuntary bankruptcy which recognises the right of a creditor to force
 bankruptcy on a debtor if a debt remains unpaid.
-Secondly, the debtor can voluntarily go bankrupt by presenting a debtor’s petition
+Secondly, the debtor can voluntarily go bankrupt by presenting a debtor's petition
 to the Official Receiver. Unless there is a pending application by a creditor to
 bankrupt the debtor, the petition is accepted and the person becomes bankrupt.
 This is called voluntary bankruptcy. The ability of a debtor to choose to go bankrupt
 accords with the long-established policy that insolvent debtors may seek the
 protection offered by bankruptcy, without reference to their creditors or the court.
-A deceased person’s estate may also become bankrupt, both voluntarily on the
+A deceased person's estate may also become bankrupt, both voluntarily on the
 petition of the administrator, and compulsorily on the petition of a creditor. These
 processes are dealt with in Pt XI of the Act.
 Bankruptcy applies only to an individual person, including a minor under the age
 of 18: s 7(1A); but not to a corporation or other entity registered under a law which
 provides for its winding up: s 7(2).
 If a creditor wants to commence compulsory bankruptcy proceedings in court, the
-creditor must ﬁrst be able to establish that an “act of bankruptcy” has been
+creditor must ﬁrst be able to establish that an "act of bankruptcy" has been
 committed by the debtor, usually through non-compliance with a demand for
-payment – a “bankruptcy notice” – served on the debtor. The creditor must then
-present a “creditor’s petition” to the court within six months of the date of the
+payment – a "bankruptcy notice" – served on the debtor. The creditor must then
+present a "creditor's petition" to the court within six months of the date of the
 commission of that act of bankruptcy. The debt, or debts, owed to the creditor must
 be at least $5,000. The court (either the Federal Court or the Federal Circuit Court)
-must then decide whether a “sequestration” order should be made, that is, that the
+must then decide whether a "sequestration" order should be made, that is, that the
 debtor be made bankrupt.
 The debtor must be or appear to be insolvent, that is, they have debts they cannot
 pay, whether the process be voluntary or involuntary, although it may become
 apparent later that they were not in fact insolvent, on an assets basis, at the time.
 
-“Vesting” of property
+"Vesting" of property
 [2.55]   In the case of a company in liquidation, the company continues to exist
 and retains ownership of its assets, but instead of the company being under the
 control of the directors and members, the liquidator controls the company, and
 hence the assets.
 There is, however, no separation of ownership and control with the assets of an
 individual. In the event of insolvency, bankruptcy has created a mechanism to deal
-58    Keay’s Insolvency: Personal and Corporate Law and Practice                       [2.60]
+58    Keay's Insolvency: Personal and Corporate Law and Practice                       [2.60]
 
-with this difference. This is achieved by creating a separate trust estate, “the
-bankrupt estate”, and the person appointed to administer it is described as a trustee
-in bankruptcy. The former property of the bankrupt “vests” in, or passes to, the
-trustee. The trustee is either a private “registered trustee” in bankruptcy or the
+with this difference. This is achieved by creating a separate trust estate, "the
+bankrupt estate", and the person appointed to administer it is described as a trustee
+in bankruptcy. The former property of the bankrupt "vests" in, or passes to, the
+trustee. The trustee is either a private "registered trustee" in bankruptcy or the
 government Official Trustee in Bankruptcy.
 More accurately, the trustee is but one of several persons deﬁned in the IPBR as
-“persons with a ﬁnancial interest in the administration of a regulated debtor’s
-estate”: s 5-30. Apart from the trustee, there is the regulated debtor, and creditors
+"persons with a ﬁnancial interest in the administration of a regulated debtor's
+estate": s 5-30. Apart from the trustee, there is the regulated debtor, and creditors
 and any other prescribed person, though none has been prescribed.
 Describing the trustee as a person with a ﬁnancial interest in the administration of
 the estate is quite odd, with its implication that the trustee has a comparable
 interest to that of a creditor, or has a ﬁnancial interest at all. It is merely a collective
 term that assists in drafting.
-The term “trustee” is used in this book unless the text necessitates otherwise.
-All “property of the bankrupt” vests in the trustee as “divisible property” except
+The term "trustee" is used in this book unless the text necessitates otherwise.
+All "property of the bankrupt" vests in the trustee as "divisible property" except
 for those items speciﬁcally exempted by s 116, such as personal and household
 property, a car under a certain value, superannuation funds and property held by
-the bankrupt in trust. The bankrupt’s home vests in the trustee and may need to be
+the bankrupt in trust. The bankrupt's home vests in the trustee and may need to be
 sold.
 The trustee has the task of ascertaining the property of the bankrupt and in some
 cases recovering property which may have been unfairly disposed of by the
@@ -516,19 +524,19 @@ property for limited or no payment to a family member with the purpose of
 keeping that asset out of the reach of their creditors. This may require the trustee to
 take litigation proceedings against those persons to whom the property has been
 transferred. The trustee has wide powers to investigate the affairs of the bankrupt
-and recover the bankrupt’s property.
+and recover the bankrupt's property.
 
 Realisation of property
-[2.60] Once the trustee has located and, if necessary, recovered the bankrupt’s
-property, the trustee is required to “realise” or sell the divisible property and divide
+[2.60] Once the trustee has located and, if necessary, recovered the bankrupt's
+property, the trustee is required to "realise" or sell the divisible property and divide
 the proceeds of sale among the creditors in accordance with the law under the Act.
 
 Dividends to creditors
 [2.65]   The proceeds of the realised estate are then distributed rateably – pari
 passu – among all the creditors who are owed debts by the bankrupt that were
 legally recoverable from the debtor before bankruptcy. Such debts are known as
-“provable debts” and the procedure involved in establishing the debt is called
-“proving the debt”. Creditors who have proved their debt are paid “dividends” by
+"provable debts" and the procedure involved in establishing the debt is called
+"proving the debt". Creditors who have proved their debt are paid "dividends" by
 the trustee from any assets realised. Certain debts are not provable or, even if
 provable, are not discharged by bankruptcy and remain personally payable by the
 bankrupt.
@@ -538,7 +546,7 @@ out ﬁrst, before the dividend amount to be paid to creditors is calculated.
 
 Discharge and annulment
 [2.70] A bankrupt is able to gain an automatic discharge from bankruptcy three
-years from the date upon which they became bankrupt on a debtor’s petition, or, in
+years from the date upon which they became bankrupt on a debtor's petition, or, in
 the case of a bankruptcy based on a sequestration order, from the date that the
 bankrupt ﬁled their statement of affairs. If an objection is made to the discharge by
 the trustee, the bankruptcy can be extended up to eight years.
@@ -546,7 +554,7 @@ The effect of discharge is to release the debtor from all provable debts. The cr
 may or may not have been paid a dividend in respect of those debts but in any
 event they have no further claim on the bankrupt.
 Alternatively, there can be an annulment of the bankruptcy if the trustee is able to
-have enough assets to pay out all the bankrupt’s debts. This may be because, when
+have enough assets to pay out all the bankrupt's debts. This may be because, when
 the debtor went bankrupt, they in fact had enough assets to pay out their liabilities
 but did not have the time to sell their assets to do so. An annulment may also be
 ordered by the court if, for example, a sequestration order should not have been
@@ -556,10 +564,10 @@ Chapter 7.
 TIMING AND DATES
 [2.75]  It is necessary at this point to introduce an explanation of important issues
 in bankruptcy concerning the time it is deemed to commence.
-Bankruptcy law makes a distinction between the date of the “commencement of the
-bankruptcy” and the later “date of the bankruptcy”. These two dates are important
+Bankruptcy law makes a distinction between the date of the "commencement of the
+bankruptcy" and the later "date of the bankruptcy". These two dates are important
 throughout the legislation in determining what property vests in the trustee – this
-is the fundamental principle in bankruptcy law of the “doctrine of relation back”.
+is the fundamental principle in bankruptcy law of the "doctrine of relation back".
 Under s 116 of the Act, the trustee can claim all property belonging to the bankrupt
 at the date of commencement of the bankruptcy and all property acquired by the
 bankrupt between that commencement date and the actual date of the bankruptcy.
@@ -570,41 +578,41 @@ Commencement of the bankruptcy
 [2.80]     The date of commencement of a bankruptcy is determined by s 115(1) of
 the Act.
 
-Date of commencement when bankruptcy is based on a creditor’s petition
+Date of commencement when bankruptcy is based on a creditor's petition
 [2.85] Section 115(1) provides that the commencement of bankruptcy, for
-someone made bankrupt pursuant to a creditor’s petition, is at the time of the
+someone made bankrupt pursuant to a creditor's petition, is at the time of the
 commission of the earliest act of bankruptcy occurring within six months
-immediately preceding the presentation of the creditor’s petition. Hence, in the
+immediately preceding the presentation of the creditor's petition. Hence, in the
 following example the commencement of the bankruptcy is 23 March 2015,
 illustrated by Timeline A.
-60    Keay’s Insolvency: Personal and Corporate Law and Practice               [2.90]
+60    Keay's Insolvency: Personal and Corporate Law and Practice               [2.90]
 
-Timeline A: Time period within which a creditor’s petition must be presented
+Timeline A: Time period within which a creditor's petition must be presented
 
     The act of bankruptcy on 16 February 2015 is outside the six months preceding
-the presentation of the creditor’s petition, and the act of bankruptcy committed on
+the presentation of the creditor's petition, and the act of bankruptcy committed on
 23 March 2015 is the relevant act of bankruptcy which was committed within the
 six-month period. This date marks the commencement of the bankruptcy.
 
-Date of commencement when bankruptcy is based on a debtor’s petition
+Date of commencement when bankruptcy is based on a debtor's petition
 [2.90] Section 115(2) provides when the commencement of bankruptcy occurs if a
-person is made bankrupt pursuant to a debtor’s petition. Typically, that date is
+person is made bankrupt pursuant to a debtor's petition. Typically, that date is
 simply the date the debtor presents their petition to go bankrupt. Three other
 situations are set out in s 115(2) and the respective dates of commencement are
 shown:
-• where the debtor’s petition is accepted under court direction – the date of
+• where the debtor's petition is accepted under court direction – the date of
   commencement is the time speciﬁed by the court;
-• where the petition is presented when at least one creditor’s petition is pending
-  against the debtor and the debtor’s petition is accepted without court direction –
+• where the petition is presented when at least one creditor's petition is pending
+  against the debtor and the debtor's petition is accepted without court direction –
   the date of commencement is the time of the commission of the earliest act of
-  bankruptcy on which any of the creditor’s petitions was founded;
+  bankruptcy on which any of the creditor's petitions was founded;
 • where the petition is presented when the debtor has committed at least one act of
   bankruptcy in the past six months – the date of commencement is the time of the
   commission of the earliest act of bankruptcy in the six months prior to
   presentation of the petition.
 These commencement dates will be explained further when we examine debtors
 petitions in Chapter 3. In most cases however, the debtor has committed no act of
-bankruptcy before presenting a petition and the date of “commencement” and the
+bankruptcy before presenting a petition and the date of "commencement" and the
 date of the bankruptcy will coincide.
 
 The doctrine of relation back and the identiﬁcation of the property of
@@ -616,8 +624,8 @@ the bankrupt between the commencement of bankruptcy and the date of
 bankruptcy. Thus, in the example given earlier, under the doctrine of relation back,
 the trustee could claim property owned by the then debtor as at 23 March 2015,
 even though the debtor did not go bankrupt on a sequestration order until
-6 November 2015. The period can be extensive given that a creditor’s petition can
-have an extended “life” of two years. In the example given, the sequestration order
+6 November 2015. The period can be extensive given that a creditor's petition can
+have an extended "life" of two years. In the example given, the sequestration order
 could be made on 21 September 2017, with the bankruptcy having a deemed
 commencement date of 23 March 2010. This is illustrated by Timeline B.
 [2.95]                                        2 Introduction to Bankruptcy and its Administration   61
@@ -625,8 +633,8 @@ commencement date of 23 March 2010. This is illustrated by Timeline B.
 Timeline B: Showing the date of commencement of the bankruptcy
 
    The doctrine of relation back was explained in Ponsford Baker & Co v Union of
-London and Smith’s Bank Ltd (1906) 2 Ch 444, 452:
-   “Until commission of the act of bankruptcy [the bankrupt] was, of course, the beneﬁcial
+London and Smith's Bank Ltd (1906) 2 Ch 444, 452:
+   "Until commission of the act of bankruptcy [the bankrupt] was, of course, the beneﬁcial
    owner of whatever assets he possessed, but by the act of bankruptcy his title to be
    regarded as such beneﬁcial owner is no longer absolute, but is contingent on no
    bankruptcy petition being presented within three months [now six months] of the date of
@@ -639,32 +647,32 @@ London and Smith’s Bank Ltd (1906) 2 Ch 444, 452:
    his hands, and can give no title in them to any transferee with notice. Similarly, with
    regard to the debts and other choses in action which form part of his estate, he cannot
    collect them or give a valid discharge for them, and anyone making a payment to him
-   with notice of the act of bankruptcy does so at his peril.”
-The result of the doctrine “is that all subsequent dealings with the debtor’s
+   with notice of the act of bankruptcy does so at his peril."
+The result of the doctrine "is that all subsequent dealings with the debtor's
 property must be treated as if the bankruptcy had taken place at the moment when
-the act of bankruptcy was committed”.19
+the act of bankruptcy was committed".19
 The signiﬁcance of the earlier date of the act of bankruptcy being the date of
 commencement of the bankruptcy, in relation to the nature and timing of the
 vesting of property, was explained by Lindgren J in Anscor Pty Ltd v Clout (2004)
 135 FCR 469; 1 ABC (NS) 558:
-   “The vesting in the trustee in bankruptcy does not take place upon the commencement of
-   the bankruptcy; it takes place forthwith upon the debtor’s becoming a bankrupt … The
-   ‘commencement of the bankruptcy’, however, marks the time as at which the items of
-   property constituting the ‘property of the bankrupt’ are to be identiﬁed. Those items of
+   "The vesting in the trustee in bankruptcy does not take place upon the commencement of
+   the bankruptcy; it takes place forthwith upon the debtor's becoming a bankrupt … The
+   'commencement of the bankruptcy', however, marks the time as at which the items of
+   property constituting the 'property of the bankrupt' are to be identiﬁed. Those items of
    property constitute the property which vests in the trustee in bankruptcy forthwith upon
-   the debtor’s becoming a bankrupt. Such an item of property will not vest in the trustee in
+   the debtor's becoming a bankrupt. Such an item of property will not vest in the trustee in
    bankruptcy if it no longer exists when the debtor becomes a bankrupt, or if it still exists
    then but has been transferred in the meanwhile for full value under a transaction
    protected by s 123 … (but) if the property still exists at the commencement of the
    bankruptcy, it will form part of the property of the bankrupt which will vest in the trustee
-   forthwith upon the debtor’s becoming a bankrupt, if the property also still exists then.”
-While relation back may serve that purpose for creditor’s petitions, there will be no
-relation-back period where a debtor’s petition has been presented and the debtor
+   forthwith upon the debtor's becoming a bankrupt, if the property also still exists then."
+While relation back may serve that purpose for creditor's petitions, there will be no
+relation-back period where a debtor's petition has been presented and the debtor
 did not commit an act of bankruptcy in the six months preceding the presentation
 of the petition. In most cases there is no such act of bankruptcy available.
 
 19 In Re Pollitt; Ex parte Minor (1893) 1 QB 455, 457-458 cited in Re Edelsten [1988] FCA 395.
-62     Keay’s Insolvency: Personal and Corporate Law and Practice                                  [2.97]
+62     Keay's Insolvency: Personal and Corporate Law and Practice                                  [2.97]
 
 It should be noted that the relation-back concept also exists under the Corporations
 Act 2001 (Cth), but it serves only to establish the time period during which
@@ -674,8 +682,8 @@ Chapter 14.
 Defences against relation back
 [2.97] By allowing a deemed date of commencement of a bankruptcy, the
 doctrine could operate harshly unless there were defences to its operation.
-Section 123, titled “Protection of certain transfers of property against relation back
-etc”, provides these; in fact it goes so far as to render the doctrine rather ineffective.
+Section 123, titled "Protection of certain transfers of property against relation back
+etc", provides these; in fact it goes so far as to render the doctrine rather ineffective.
 Subject to certain sections, the doctrine does not impact upon various transactions
 of the debtor with other parties before bankruptcy20 as long as that other person
 did not at that time have notice of the presentation of a petition against the debtor
@@ -696,16 +704,16 @@ who is in effect a prospective bankrupt. It was retained in the 1924 Act despite
 opposition to it.22 It was recommended for retention by the Clyne Report, with
 protections that now appear in the Act.23 The 1988 Harmer Report recommended
 the concept of the act of bankruptcy be abolished, including the doctrine of
-“relation back”, as being a “ﬁctitious, artiﬁcial and abstract concept … rarely
-understood”.24
+"relation back", as being a "ﬁctitious, artiﬁcial and abstract concept … rarely
+understood".24
 
 20 Including a payment by the debtor to a creditor, or a transfer or contract for market value: see:
    s 123(1)(a) – (g).
 21 That burden was not discharged by the respondent in Khatri and Lane v McDonald, in the matter of
-   Wilkie [2018] FCA 543, in relation to an equitable charge given over the bankrupt’s property created
+   Wilkie [2018] FCA 543, in relation to an equitable charge given over the bankrupt's property created
    by an acknowledgment of debt.
-22 The drafter described it as “a useless doctrine, approaching almost ﬁnal extinction in the latest
-   English legislation”: Officially Receiving: A History of Australia’s Bankruptcy Law and Administration
+22 The drafter described it as "a useless doctrine, approaching almost ﬁnal extinction in the latest
+   English legislation": Officially Receiving: A History of Australia's Bankruptcy Law and Administration
    (ITSA, 2010) p 24.
 23 Clyne Report at [148] – [151].
 24 Harmer Report at [697].
@@ -718,19 +726,19 @@ the bankruptcy, it is timely to explain that the date of commencement of the
 bankruptcy is the date back from which bankruptcy law determines whether a
 transaction can be challenged by a trustee. For example:
 • an undervalued transaction may be set aside by the court under s 120 of the Act
-  if it occurred “in the period beginning 5 years before the commencement of the
-  bankruptcy and ending on the date of the bankruptcy”;
-• preferences may be recovered if they occurred, in the case of a creditor’s petition,
-  in the “period beginning 6 months before the presentation of the petition (that is,
+  if it occurred "in the period beginning 5 years before the commencement of the
+  bankruptcy and ending on the date of the bankruptcy";
+• preferences may be recovered if they occurred, in the case of a creditor's petition,
+  in the "period beginning 6 months before the presentation of the petition (that is,
   the date of commencement of the bankruptcy) and ending immediately before
-  the date of the bankruptcy of the debtor”.
+  the date of the bankruptcy of the debtor".
 Other issues concerning these dates will be explained in later chapters.
 
 ALTERNATIVES FOR AN INSOLVENT INDIVIDUAL
 [2.105] We have explained that bankruptcy is not inevitable for an insolvent
 debtor. There are a number of options:
 • to simply stall or evade creditors. Besides being questionable on moral grounds,
-  this course means the debtor remains continually subject to creditors’ pursuit of
+  this course means the debtor remains continually subject to creditors' pursuit of
   their claims;
 • to come to a private informal arrangement with individual creditors by, for
   example, restructuring loans or obtaining a debt moratorium;
@@ -741,22 +749,22 @@ too costly and unlikely to produce payment, if the debtor is without money or
 assets. Many debtors may rely on that but one fact to consider is that once the
 creditor obtains judgment, interest on the judgment sum starts to accrue, and the
 creditor generally has 12 years to enforce recovery under its judgment.
-In assessing a debtor’s position an adviser should consider a number of other
+In assessing a debtor's position an adviser should consider a number of other
 matters. These are brieﬂy listed here although they will be explained in detail in the
 following chapters:
 • the real and personal property owned by the debtor. Unless protected, all
    property will vest in the trustee;
-• the extent of the debtor’s liabilities, including contingent and prospective debts.
+• the extent of the debtor's liabilities, including contingent and prospective debts.
    Most liabilities will be discharged by bankruptcy although if there are debts
    incurred by fraud, or certain ﬁnes or penalties, these may not be discharged, nor
    will unliquidated claims in tort (for example personal injury claims against a
    debtor), or potential costs orders;
-• assets which may become the debtor’s in the future, for example, a bequest from
+• assets which may become the debtor's in the future, for example, a bequest from
    an elderly relative. If that estate becomes available during bankruptcy it will vest
    in the trustee as after-acquired property;
 • rights held in a trust or superannuation fund which may be protected, although
    this will depend on the nature of transfers into the fund before bankruptcy;
-64     Keay’s Insolvency: Personal and Corporate Law and Practice                           [2.110]
+64     Keay's Insolvency: Personal and Corporate Law and Practice                           [2.110]
 
 • the income that is expected to be earned by the bankrupt in the three years (or
   one year) of bankruptcy (and beyond). The bankrupt may be required to make
@@ -782,7 +790,7 @@ ADMINISTRATION OF BANKRUPTCY
 Inspector-General in Bankruptcy
 [2.110] The bankruptcy regime is generally administered by the office of the
 Inspector-General in Bankruptcy, established under s 11 of the Act, who heads the
-Australian Financial Security Authority (AFSA), a “listed entity” under the Public
+Australian Financial Security Authority (AFSA), a "listed entity" under the Public
 Governance, Performance and Accountability Act 2013 (Cth) (PGPA Act).26 That Act
 imposes high standards of conduct in public administration, including co-operation
 and communication with other agencies. As a Commonwealth agency, the
@@ -795,14 +803,14 @@ been committed. The Inspector-General obtains statutory information from Officia
 Receivers, registered trustees and others, and reports on the ongoing operation of
 the Act.
 In the role of regulation of trustees, and the Official Trustee, the Inspector-General
-may require the production of trustees’ books and records and require the trustee to
+may require the production of trustees' books and records and require the trustee to
 
 25 Under Corporations Act, s 206G; see, for example, In the matter of Endeavour Energy Network
    Management Pty Limited [2017] NSWSC 1825.
 26 AFSA is a party to a Memorandum of Understanding (MOU) with ARITA, dated 20 February 2017,
    which sets out a framework for co-operation between them to facilitate liaison, co-operation,
-   assistance and the exchange of information “for the effective and efficient performance of their
-   functions”.
+   assistance and the exchange of information "for the effective and efficient performance of their
+   functions".
 [2.112]                                       2 Introduction to Bankruptcy and its Administration   65
 
 answer questions concerning their bankruptcy or Pt X administrations, or matters
@@ -825,7 +833,7 @@ administration of the personal insolvency system. The percentage is 7% from 1 Ju
 2015.28 Fees for the ﬁling of documents and for other AFSA services, and the
 remuneration of the Official Trustee, are set under powers given in s 316 of the
 Bankruptcy Act.29 This stands in contrast to the industry funding model used to
-fund ASIC’s regulation of liquidators: see [10.120].
+fund ASIC's regulation of liquidators: see [10.120].
 
 Conﬁdential information
 [2.112] Information obtained by the Inspector-General may be conﬁdential. In so
@@ -840,7 +848,7 @@ means of a range of other professional bodies whose members – lawyers, barrist
 accountants – may be impacted by the decisions of a trustee in administering a
 bankruptcy.
 
-27 See IGPS 12 – Statutory reviews of trustees’ decisions under the Bankruptcy Act 1966 by the
+27 See IGPS 12 – Statutory reviews of trustees' decisions under the Bankruptcy Act 1966 by the
    Inspector-General in Bankruptcy.
 28 Bankruptcy (Estate Charges) (Amount of Charge Payable) Determination 2015 (Cth).
 29 See the Bankruptcy (Fees and Remuneration) Determination 2015 (Cth), a legislative instrument made
@@ -851,7 +859,7 @@ bankruptcy.
    the Bar Association of Queensland; (j) the Queensland Law Society; (k) the Legal Practice Board of
    WA; (l) the Law Society of SA; (m) the Legal Profession Conduct Commissioner of SA; (n) the Law
    Society of Tasmania; (o) the Law Society of the ACT; (p) the Law Society NT.
-66      Keay’s Insolvency: Personal and Corporate Law and Practice                                  [2.115]
+66      Keay's Insolvency: Personal and Corporate Law and Practice                                  [2.115]
 
 An equivalent arrangement applies in corporate insolvency: see [10.380].
 
@@ -863,10 +871,10 @@ Index (NPII), established under Pt 13 of the regulations and maintained by the
 Inspector-General. It is a database that stores the bankruptcy records, and
 speciﬁcally the matters referred to in Sch 8 of the regulations. It records the formal
 arrangements entered under the Act, including Pt IX debt agreements, Pt X
-agreements and debtors’ petitions and sequestration orders, and includes the
-person’s name, address and date of birth. Except for debt agreements, these details
+agreements and debtors' petitions and sequestration orders, and includes the
+person's name, address and date of birth. Except for debt agreements, these details
 remain permanently on the NPII as a public record. It also records the fact of a
-creditor’s petition having been presented to the court against the debtor, although
+creditor's petition having been presented to the court against the debtor, although
 not the issue of a bankruptcy notice. Details of registered trustees in bankruptcy are
 also listed. Documents ﬁled at the offices of the Official Receivers, in particular
 statements of affairs, are also open to public search.
@@ -875,7 +883,7 @@ about it is removed from the NPII at the later of ﬁve years from the date the 
 agreement is made or the date the obligations under the agreement are discharged.
 An outline of the ﬁling requirements under the Act is at Appendix A at the end of
 this chapter.
-AFSA also provides space on its website for the advertisement of certain creditors’
+AFSA also provides space on its website for the advertisement of certain creditors'
 meetings under both ss 73 and Pt X of the Act.31 Other than those, bankruptcy law
 requires very little publication of its processes, in particular in comparison with
 corporate insolvency. For example, there is no requirement to advertise the making
@@ -884,8 +892,8 @@ of a sequestration order; it is enough that it is recorded on the NPII.
 Trustees in bankruptcy
 [2.120] The person who administers the estate of a bankrupt is known as the
 trustee in bankruptcy. This title can be attributed either to a private individual, who
-is often referred to as a “registered trustee” , or to the Official Trustee in Bankruptcy.
-In this book the term “trustee” is used to refer to both registered trustees and the
+is often referred to as a "registered trustee" , or to the Official Trustee in Bankruptcy.
+In this book the term "trustee" is used to refer to both registered trustees and the
 Official Trustee, unless otherwise speciﬁed.32
 Although the role of the Official Trustee and registered trustees in any given estate
 is essentially the same, it is necessary to explain more about each position.
@@ -911,7 +919,7 @@ There is an Official Receiver who is, with their staff, the individual officer w
 exercise the powers and perform the functions of the Official Trustee: s 18(8). In
 effect, when the Official Trustee is appointed in respect of an estate it is the Official
 Receiver and staff who conduct the administration.
-The Official Trustee is remunerated according to the Inspector-General’s
+The Official Trustee is remunerated according to the Inspector-General's
 determinations, on a commission basis.34
 Besides administering some estates, the Official Receiver has a supervisory and
 oversight role under the Act, including over estates administered by private
@@ -920,7 +928,7 @@ bankrupt, a trustee or other person enforced (s 30(5)) and they have the power t
 issue and serve notices under the Act on behalf of private trustees, such as those
 requiring production of documents under s 77C, or to recover property under
 s 139ZQ. The Official Receiver is required to maintain the NPII: reg 13.02(3).
-The Official Receiver’s non-bankruptcy functions also include acting on a court
+The Official Receiver's non-bankruptcy functions also include acting on a court
 order for the payment of a debt due to the Commonwealth or a Commonwealth
 authority: s 18(3). This may include selling property and applying the proceeds
 towards the debt owed.
@@ -945,7 +953,7 @@ inspecting documents ﬁled on the NPII (ORPS 9). Separately, the Inspector-Gene
 34 In the order of $4,000 plus 20% of realisations. Fees are set under the Bankruptcy (Fees and
    Remuneration) Determination 2015 (Cth), a legislative instrument made under s 316 of the Bankruptcy
    Act.
-68     Keay’s Insolvency: Personal and Corporate Law and Practice                         [2.135]
+68     Keay's Insolvency: Personal and Corporate Law and Practice                         [2.135]
 
 issues Inspector-General Practice Directions (IGPD) and Inspector-General Practice
 Statements (IGPS), referred to throughout.
@@ -978,12 +986,12 @@ abilities that a person must have to be a trustee. Practically, applicants are
 accountants of considerable experience in bankruptcy and insolvency practice.
 Applicants must be able to demonstrate the completion of certain academic
 requirements in accounting and commercial law, for example a business degree; at
-least “4000 hours of relevant employment” in the administration of bankrupt
+least "4000 hours of relevant employment" in the administration of bankrupt
 estates and exposure to the external administration and receivership of companies;
 and a demonstrated ability to perform the duties of a trustee: IPRB, s 20-1.
 The reason interviews are maintained, and introduced into the liquidator
-registration process, is that they allow a better assessment of an applicant’s
-“ability” to perform as a trustee, which is generally seen as the attribute that is the
+registration process, is that they allow a better assessment of an applicant's
+"ability" to perform as a trustee, which is generally seen as the attribute that is the
 real task of the committee to assess. Experience can be conﬁrmed, knowledge can
 be tested, but, as the AAT said in Crowe,35 ability refers to broader issues of
 professional behaviour, integrity and the capacity to act authoritatively and
@@ -1004,7 +1012,7 @@ an applicant in Moore v Inspector-General in Bankruptcy [1997] FCA 638, such a
 person may now qualify.
 Certain criteria, including convictions of an offence for fraud or dishonesty, or
 having been a bankrupt, disqualify a person from being a trustee: IPSB, s 20-20(4).
-The committee may decide that a trustee’s registration should be made subject to
+The committee may decide that a trustee's registration should be made subject to
 certain conditions, for example that the trustee only take appointments jointly for
 the ﬁrst year: s 20-20(6). The trustee can then or later request a variation or removal
 of any conditions: ss 20-40 – 20-65.
@@ -1015,8 +1023,8 @@ Inspector-General, including details of any conditions imposed: s 20-25. These
 decisions are not published.
 The Inspector-General must then register the applicant as a trustee, subject to being
 satisﬁed that prior insurance is in place, and the application fee has been paid. That
-is, there is no separate discretion of the Inspector-General to reject a committee’s
-decision. The trustee’s name is entered on the Register of Trustees. The registration
+is, there is no separate discretion of the Inspector-General to reject a committee's
+decision. The trustee's name is entered on the Register of Trustees. The registration
 lasts for three years and must then be renewed.
 
 The committee
@@ -1027,8 +1035,8 @@ persons on the committee must not have any conﬂict of interest or material
 personal interest in the applicant or their ﬁrm.
 
 On-going obligations
-[2.150] Once registered and in practice, trustees must lodge an “annual trustee
-return” (Form 32) by the end of each “trustee return year”, being the 12 month
+[2.150] Once registered and in practice, trustees must lodge an "annual trustee
+return" (Form 32) by the end of each "trustee return year", being the 12 month
 anniversary of the date of their initial registration: s 30-1. There are particular
 professional indemnity and ﬁdelity insurance requirements imposed on trustees:
 Div 25, s 25-1. The form requires the trustee not only to give an assurance about
@@ -1037,9 +1045,9 @@ information about any disciplinary actions, cancellations of memberships or
 convictions of serious offences.
 
 36 IPRB, s 50-55.
-70      Keay’s Insolvency: Personal and Corporate Law and Practice                            [2.155]
+70      Keay's Insolvency: Personal and Corporate Law and Practice                            [2.155]
 
-This is quite different from the “annual administration return”, under s 70-5, which
+This is quite different from the "annual administration return", under s 70-5, which
 reports on the various estates which the trustee is administering: see [2.265].
 A trustee must notify the Inspector-General if certain events occur, such as their
 bankruptcy or their conviction of a serious offence: IPRB, s 35-1. Other events must
@@ -1052,7 +1060,7 @@ the Inspector-General to suspend their registration for a period, or cancel it, 
 lift or shorten a suspension.38
 
 Renewal of registration
-[2.160] The three yearly renewal process is done “on the papers”: ss 20-70, 20-75.
+[2.160] The three yearly renewal process is done "on the papers": ss 20-70, 20-75.
 At that point, a check is made by AFSA of the maintenance of insurance by the
 trustee, compliance with CPE requirements, and whether more than $500 in estate
 charges is owing: IPRB, s 20-10
@@ -1085,11 +1093,11 @@ issues involving employment, property, contract and litigation, as well as foren
 [2.190]                                        2 Introduction to Bankruptcy and its Administration     71
 
 valuation and investigations. The personal circumstances and well-being of the
-bankrupt can also require the trustee’s attention.
+bankrupt can also require the trustee's attention.
 Generally, trustees will require no separate registration in applying their knowledge
 of such disciplines. They would know that as trustee they cannot give a formal
 valuation or give legal advice. The same applies in relation to tax issues where a
-trustee may represent the bankrupt’s interests in dealings with the Commissioner
+trustee may represent the bankrupt's interests in dealings with the Commissioner
 of Taxation as a creditor, and otherwise attend to tax reporting and other issues.
 However, if an accountant trustee were to provide advice about tax issues to a
 debtor outside any formal appointment, in performing a role seeking to assist the
@@ -1102,42 +1110,42 @@ under Chapter 7.41
 Conduct standards for trustees
 [2.180] One ground for the Inspector-General to issue a show cause notice under
 IPSB, s 40-40 that may lead to the suspension or termination of registration, is the
-trustee’s failure to comply with a prescribed standard, being the standards under
+trustee's failure to comply with a prescribed standard, being the standards under
 Div 42 of the IPSB: see [2.300]. These set out the minimum level of acceptable
-conduct and performance of trustees’ duties. We refer to these throughout this book
-as the “Standards”. The Inspector-General is able to consider these Standards in
-making decisions about a trustee’s suitability for continued registration.
+conduct and performance of trustees' duties. We refer to these throughout this book
+as the "Standards". The Inspector-General is able to consider these Standards in
+making decisions about a trustee's suitability for continued registration.
 The purpose of these Standards is stated to be to ensure that trustees act in
-accordance with their powers and duties under the legislation “and in relation to
+accordance with their powers and duties under the legislation "and in relation to
 the practice of bankruptcy law generally … and that an administration to which
-these standards apply is carried out consistently at a high level”: IPRB, s 42-4.
+these standards apply is carried out consistently at a high level": IPRB, s 42-4.
 
 Joint trustees
 [2.185] The creditors are entitled to appoint two or more trustees to administer
-an estate, jointly or jointly and severally: s 158. In either case, the bankrupt’s
-property vests in the trustees as “joint tenants” and they can act severally
+an estate, jointly or jointly and severally: s 158. In either case, the bankrupt's
+property vests in the trustees as "joint tenants" and they can act severally
 notwithstanding that they are joint trustees: Condon v Watson (2009) 174 FCR 314;
 Nixon, in the matter of Nixon [2015] FCA 976.
-Any reference to “trustee” in the law includes a reference to joint trustees: IPSB, s
+Any reference to "trustee" in the law includes a reference to joint trustees: IPSB, s
 5-25.
 
 Consent to act
 [2.190] In any of these circumstances, a registered trustee cannot be appointed as
-trustee to a particular estate unless they sign a “consent to act” which is ﬁled with
+trustee to a particular estate unless they sign a "consent to act" which is ﬁled with
 
 40 See Tax Practitioners Board Information Sheet TPB(I) 12/2012 – Insolvency practitioners: Do you need to
    register as a tax or BAS agent? (27 September 2016).
 41 Corporations Regulations 2001 (Cth), regs 6.2.02 and 9.12.01.
-72     Keay’s Insolvency: Personal and Corporate Law and Practice                               [2.195]
+72     Keay's Insolvency: Personal and Corporate Law and Practice                               [2.195]
 
 the Official Receiver: s 156A, see AFSA Form 12. This compares with corporate
-insolvency except that the consent, in different form, is a form in the Courts’
+insolvency except that the consent, in different form, is a form in the Courts'
 Corporations Rules: Form 8.42
 
 Remuneration
 [2.195] A trustee is entitled to receive remuneration for necessary work properly
 performed done in administering the bankrupt estate, and in accord with
-“remuneration determinations”. Those determinations are made by either the
+"remuneration determinations". Those determinations are made by either the
 creditors or the committee of inspection (IPSB, s 60-10), or by the Inspector-General
 (IPSB, s 60-11). Determinations may be of a particular amount, or a method for
 calculating the remuneration, for example by time-costing or by commission: IPSB,
@@ -1149,15 +1157,15 @@ the trustee to allow them to make an informed decision based on the general
 guidance in the law.
 In estates with minimal funds, the trustee is entitled to receive remuneration up to
 a maximum default amount of $5,000, on the basis that work at least to that value
-was done. No creditors’ meeting, nor approval from creditors is required.43
+was done. No creditors' meeting, nor approval from creditors is required.43
 The principles in relation to remuneration are largely the same between personal
 and corporate insolvency. They differ in their application because of the different
 roles given to each of ASIC and AFSA in relation to assessing and reviewing
 remuneration, and resolving disputes. In particular, the Inspector-General has the
-power to determine and review a trustee’s remuneration;44 ASIC relies upon an
+power to determine and review a trustee's remuneration;44 ASIC relies upon an
 external reviewing liquidator for this purpose: see [10.440]. In corporate insolvency,
 the courts also assume those roles.
-The Inspector-General’s role includes being a default determiner of a trustee’s
+The Inspector-General's role includes being a default determiner of a trustee's
 remuneration, a resolver of remuneration disputes, and a reviewer of
 remuneration.45
 The structure is this:
@@ -1169,25 +1177,25 @@ The structure is this:
 
 42 The forms of practitioner independence declaration in these, and in the DIRRI under the ARITA
    Code, are unfortunately all different.
-43 “... [T]his provision seeks to facilitate a trustee being able to draw a base amount of remuneration
+43 "... [T]his provision seeks to facilitate a trustee being able to draw a base amount of remuneration
    without incurring the expense of convening a meeting to obtain creditor approval. This provision is
-   expected to be particularly valuable for a no (or low) asset administration”: Explanatory
+   expected to be particularly valuable for a no (or low) asset administration": Explanatory
    Memorandum to the Insolvency Law Reform Bill 2015, at [3.19].
-44 See M Murray, “Insolvency Practitioner Remuneration under the New Law and Post-Sakr Nominees”
+44 See M Murray, "Insolvency Practitioner Remuneration under the New Law and Post-Sakr Nominees"
    (2017) 18(3&4) INSLB 62.
-45 See M Findlay, “Spotlight on Remuneration Reviews” (2018) 16(1) Personal Insolvency Regulator 5.
+45 See M Findlay, "Spotlight on Remuneration Reviews" (2018) 16(1) Personal Insolvency Regulator 5.
 [2.195]                                      2 Introduction to Bankruptcy and its Administration    73
 
 • If creditors do determine the remuneration, the Inspector-General may review
   the amount of that determination, on application of the trustee: IPSB, s 60-10;
   IPSB, s 60-11. This might be the case where the creditors considered that the
-  trustee’s fees were too high and approved them at a lower amount be reduced.46
+  trustee's fees were too high and approved them at a lower amount be reduced.46
 • As an alternative process, often as a result of a complaint, the Inspector-General
-  may review a trustee’s remuneration, under Div 90, either on his or her own
+  may review a trustee's remuneration, under Div 90, either on his or her own
   initiative, or on application by the bankrupt or a creditor: IPSB, s 90-21(2)
 That determination is ultimately reviewable by the court: IPSB, s 90-21(3).47
 In a review by the court under IPSB, s 90-21, the question for its determination is
-whether the trustee’s remuneration is reasonable, taking into account any or all of
+whether the trustee's remuneration is reasonable, taking into account any or all of
 these remuneration factors, summarised as follows:
 • the extent to which the work was necessary and properly performed;
 • the period of time during which the work was performed;
@@ -1219,11 +1227,11 @@ criteria for determinations or reviews by the court, under IPSB, s 90-21, or whe
 the Inspector-General assumes what is a quasi-judicial role under IPSB, s 60-11,
 according to the criteria in IPRB, s 60-11.
 
-46 There is no direct right of appeal from the Inspector-General’s determination although a right of
+46 There is no direct right of appeal from the Inspector-General's determination although a right of
    judicial review may be available: see Inspector-General Practice Statement (IGPS) 15 – Assessment by
-   the Inspector-General of a trustee’s remuneration approval request.
+   the Inspector-General of a trustee's remuneration approval request.
 47 Andersen v Lennon [2017] FCCA 2452.
-74    Keay’s Insolvency: Personal and Corporate Law and Practice                  [2.200]
+74    Keay's Insolvency: Personal and Corporate Law and Practice                  [2.200]
 
 In other cases, the bases for determining remuneration are left open – for the
 creditors or the committee, or the Inspector-General in her or his reviewing role.
@@ -1263,27 +1271,27 @@ remuneration and while the trustee does not need approval from creditors to incu
 and pay them, the law requires the trustee to incur them with the care and attention
 as if they were his or her own expenses. These may be reviewed by the
 Inspector-General under IPSB, s 90-21, IPRB, Div 90. The trustee may also dispute
-the third party’s bill – for example, legal costs – under IPRB, s 65-20, with a right of
+the third party's bill – for example, legal costs – under IPRB, s 65-20, with a right of
 review to the AAT then available.
-As in corporate insolvency, the assessment of a trustee’s remuneration can raise
+As in corporate insolvency, the assessment of a trustee's remuneration can raise
 contentious issues, including in relation to the amount of remuneration and
 [2.210]                                     2 Introduction to Bankruptcy and its Administration   75
 
 disbursements compared with the amounts realised and paid to creditors as a
 dividend, if any dividend is paid at all: see Boensch v Pascoe [2007] FCA 1977, at
 [6.450].
-Courts have pointed out that “a trustee has no choice but to carry out certain
-statutory duties and that, in a small bankruptcy, the trustee’s costs might appear
-disproportionately large”;48 and that while “(t)he number and size of claims and
+Courts have pointed out that "a trustee has no choice but to carry out certain
+statutory duties and that, in a small bankruptcy, the trustee's costs might appear
+disproportionately large";48 and that while "(t)he number and size of claims and
 the number and value of assets is an important, but not the only, element … there
 are many ways in which costs may be incurred which are not related, principally or
-even at all, to the assets and liabilities of the estate”.49
+even at all, to the assets and liabilities of the estate".49
 
-Reviews of trustees’ remuneration by the Inspector-General
+Reviews of trustees' remuneration by the Inspector-General
 [2.210] The Inspector-General has authority under IPSB, s 90-21 to review a
-trustee’s remuneration on application by a creditor or the debtor or on his or her
+trustee's remuneration on application by a creditor or the debtor or on his or her
 own initiative: IPSB, ss 90-21, 90-22; IPRB, ss 90-1 to 90-65. This contrasts with
-corporate insolvency where a “reviewing liquidator” is appointed for such a task:
+corporate insolvency where a "reviewing liquidator" is appointed for such a task:
 see [10.440].
 The application for review must be in writing and made within certain time limits:
 IPRB, s 90-5. The Inspector-General may extend the time limit, if appropriate, and
@@ -1309,19 +1317,19 @@ experts and to inspect documents. Ordinary requirements of procedural fairness
 apply to the conduct of reviews.
 There is power to direct the trustee to refund remuneration: IPRB, s 90-55(3)(l). If
 directions of the Inspector-General under IPRB, s 90-55(3) are not complied with,
-the trustee may not be entitled to the remuneration under review, and third party’s
+the trustee may not be entitled to the remuneration under review, and third party's
 costs may be denied, for example a lawyer whose bill of costs is under review.
 
 48 Simion v Brown [2007] EWHC 511 (Ch).
 49 Brook v Reed [2011] EWCA Civ 331; [2011] 3 All ER 743.
-76      Keay’s Insolvency: Personal and Corporate Law and Practice                            [2.220]
+76      Keay's Insolvency: Personal and Corporate Law and Practice                            [2.220]
 
 The Inspector-General must make a decision on the review within 60 days of
 accepting or initiating the review (IPRB, s 90-65) and prepare a written statement
 which includes the decision, reasons for the decision, any ﬁndings of fact and the
 material on which those ﬁndings are based.
 The statement must also refer to IPSB, s 90-21(3) which allows for an application to
-the court to review the Inspector-General’s decision, by any of the trustee, the
+the court to review the Inspector-General's decision, by any of the trustee, the
 bankrupt, or a creditor.
 The statement must be given to each party to the review within 10 business days of
 making the decision: IPRB, s 90-65(5).
@@ -1347,13 +1355,13 @@ balance of competing interests. Hence, the position of a bankruptcy trustee is m
 complex than the one in which most trustees ﬁnd themselves in a conventional
 trustee situation.51
 See Samootin v Official Trustee in Bankruptcy (No 2) [2012] FCA 316 at [26]:
-     “Unlike the trustee/beneﬁciary relationship there is no identity of interest between the
+     "Unlike the trustee/beneﬁciary relationship there is no identity of interest between the
      bankruptcy trustee and the bankrupt in all aspects of the administration of the bankrupt
      estate. In the trustee/beneﬁciary relationship, every step the trustee takes must be in
-     furtherance of the beneﬁciary’s interest … In contrast, (a bankruptcy trustee) acts in
+     furtherance of the beneﬁciary's interest … In contrast, (a bankruptcy trustee) acts in
      furtherance of its statutory duties, which may not always coincide with the interests of
-     the bankrupt.”
-A feature of the trustee’s role is that there is no client for whom the trustee acts, as
+     the bankrupt."
+A feature of the trustee's role is that there is no client for whom the trustee acts, as
 in a typical professional relationship. Instead there are the range of stakeholders,
 mainly the creditors, for whom, largely, the trustee is responsible and to whom
 
@@ -1362,11 +1370,11 @@ mainly the creditors, for whom, largely, the trustee is responsible and to whom
 51 Adsett v Berlouis [1992] FCA 368; (1992) 37 FCR 201, 208; Fuller v Wily [1996] FCA 1593.
 [2.230]                                       2 Introduction to Bankruptcy and its Administration     77
 
-duties are owed. But while they must act in the creditors’ interests, and must take
+duties are owed. But while they must act in the creditors' interests, and must take
 into account any lawful directions given by the creditors at a meeting (IPRB, s 85-5),
 the trustee is not bound to comply with those directions.52 Ultimately, it is the
-trustee’s own decision as to how the estate is administered.
-In one case, the court rejected a sole creditor’s challenge to the decisions of the
+trustee's own decision as to how the estate is administered.
+In one case, the court rejected a sole creditor's challenge to the decisions of the
 trustees. The court said the applicant creditor:
    took the view that the trustees were working for her and her alone and that she simply
    had to beneﬁt ﬁnancially from the administration. The applicant ignored the fact that the
@@ -1379,7 +1387,7 @@ This unique position is coupled with strong powers of the trustee over the credi
 and other stakeholders involved in the bankruptcy. The trustee holds money on
 account of the creditors to be distributed according to the legal requirements and
 according to ﬁduciary responsibilities. These powers entail a corresponding
-“vulnerability in the creditors, members and the public”54 that requires high
+"vulnerability in the creditors, members and the public"54 that requires high
 standards of honesty, impartiality and probity in the trustee.
 As trustees are usually professional accountants, they are bound by the Code of
 Ethics for Professional Accountants,55 and, depending on their professional body
@@ -1388,7 +1396,7 @@ membership, by the ARITA Code or APES 330 – Insolvency Services.
 Section 19
 [2.230] The general duties of a bankruptcy trustee are also expressed in s 19 of
 the Act. These are listed as:
-(a) notifying the bankrupt’s creditors of the bankruptcy;
+(a) notifying the bankrupt's creditors of the bankruptcy;
 (b) determining whether the estate includes property that can be realised to pay a
     dividend to creditors;
 (c) reporting to creditors within three months of the date of the bankruptcy on the
@@ -1398,14 +1406,14 @@ the Act. These are listed as:
     against the trustee;
 (f) taking appropriate steps to recover property for the beneﬁt of the estate;
 (g) taking whatever action is practicable to try to ensure that the bankrupt
-     discharges all of the bankrupt’s duties under this Act;
+     discharges all of the bankrupt's duties under this Act;
 (h) considering whether the bankrupt has committed an offence against this Act;
 
 52 Re Weiss [1986] FCA 287.
 53 Winn v Yeo & Rambaldi as former trustees of the estate of Goodwin (a bankrupt) [2017] FCCA 2528.
 54 ASIC v Edge [2007] VSC 170; (2007) 211 FLR 137.
-55 APES 110; Accounting Professional & Ethical Standards Board Limited (“APESB”).
-78      Keay’s Insolvency: Personal and Corporate Law and Practice                                [2.235]
+55 APES 110; Accounting Professional & Ethical Standards Board Limited ("APESB").
+78      Keay's Insolvency: Personal and Corporate Law and Practice                                [2.235]
 
 (i) referring to relevant law enforcement authorities any evidence of an offence by
     the bankrupt against this Act;56
@@ -1414,12 +1422,12 @@ the Act. These are listed as:
 (k) exercising powers and performing functions in a commercially sound way;
 (l) attending to the duties imposed on the trustee under Schedule 2, that is, the
     IPSB.
-These are supplemented by the “Standards” in IPRB, Div 42 (see [2.180]), including
+These are supplemented by the "Standards" in IPRB, Div 42 (see [2.180]), including
 as to realising assets, conducting investigations and dealing with creditors. The
 court may order that a trustee make good the loss that their conduct has caused to
 the bankrupt estate under IPSB, s 90-15.57
 The duties in s 19 are not exhaustive; no other duties can conﬂict with them. The
-standard to which the trustee must attend to these duties is that of “reasonable skill”.
+standard to which the trustee must attend to these duties is that of "reasonable skill".
 Hence, any application for removal of the trustee and to make good losses
 allegedly suffered by the estate, is to be determined by that standard.58
 Trustees have been regarded as officers of the court, whether they are acting under
@@ -1432,7 +1440,7 @@ challenged. They should act with reasonable diligence and, it has been said, as 
 ordinary prudent person in business.60
 They are required to properly disclose to the court all relevant matters when they
 are a party to any proceedings and to conduct litigation at a high standard: In the
-matter of St Gregory’s Armenian School (in liq) [2012] NSWSC 1215.
+matter of St Gregory's Armenian School (in liq) [2012] NSWSC 1215.
 
 Independence
 [2.235] A fundamental requirement, not directly stated in the Act, is that trustees
@@ -1455,36 +1463,36 @@ liquidators.
 
 The perception of their independence from parties connected with the bankrupt is
 as important as the reality of their acting independently. For example, in Boral
-Montoro Pty Ltd v McLachlan [2007] FMCA 533, the fact that a proposed trustee’s
+Montoro Pty Ltd v McLachlan [2007] FMCA 533, the fact that a proposed trustee's
 ﬁrm was a creditor of the bankrupt, even though only for a small amount, meant
 that there was a perceived lack of independence and the trustee could not take the
-appointment. It was not enough that the trustee’s ﬁrm offered to not lodge a proof
+appointment. It was not enough that the trustee's ﬁrm offered to not lodge a proof
 of debt for that claim in the bankruptcy; the court was concerned with the
-appearance of the trustee’s ﬁrm being a creditor.
+appearance of the trustee's ﬁrm being a creditor.
 But in some cases, the courts are ready to address conﬂicts without requiring the
 trustee be removed, in particular if the issue arises in the midst of the
 administration of the estate. So, in Griffin v Triscott (2004) 183 FLR 1, the trustees
-and the liquidators of the bankrupt’s company were partners in the one ﬁrm. The
+and the liquidators of the bankrupt's company were partners in the one ﬁrm. The
 trustees envisaged potential claims being made by the liquidators against the
 bankrupt estate. The trustees acknowledged the conﬂict but successfully sought the
-appointment by the court of a separate “special purpose” trustee to deal with the
-liquidators’ claim. In making this appointment, the court accepted that it would
+appointment by the court of a separate "special purpose" trustee to deal with the
+liquidators' claim. In making this appointment, the court accepted that it would
 cause unnecessary expense to the bankrupt estate if the trustees were removed.
-Courts will allow a company director’s trustee in bankruptcy to also be the
-liquidator of the director’s company in circumstances where the creditors, assets
+Courts will allow a company director's trustee in bankruptcy to also be the
+liquidator of the director's company in circumstances where the creditors, assets
 and factual and legal issues are intertwined, usually with a direction made that the
 trustee come back before the court in the event that a conﬂict arises: Application by
 Solomons [2013] FCA 1273. Courts may also allow a joint appointment where, for
 example, the bankrupt director is the sole shareholder: Pascoe v Ambernap [2008]
 FCA 1975. In another case, the court permitted the ﬁrm partners of the trustee to
-become the liquidators of the bankrupt’s company: Scott (Trustee) v Icicek Holdings
+become the liquidators of the bankrupt's company: Scott (Trustee) v Icicek Holdings
 Pty Ltd [2015] FCA 1387; see also Weston (Trustee) v ASIC, in the matter of Empire
 Property and Investment Group Pty Ltd (Deregistered) [2017] FCA 176.
 
 Dealing with the person who is bankrupt
 [2.240] Bankruptcy can raise tensions and emotions in the bankrupt and those
 affected by the bankruptcy. These must be managed but there have been cases
-where there has been a breakdown in the trustee’s relationship with the bankrupt,
+where there has been a breakdown in the trustee's relationship with the bankrupt,
 in which the trustee should consider resigning (Doolan v Dare [2004] FCA 682;
 (2004) 2 ABC (NS) 16; Trkulja v Morton [2005] FCA 659; (2005) 4 ABC (NS) 110).
 Relationships with creditors can also become fraught, although creditors have the
@@ -1497,11 +1505,11 @@ trustee, to allow the administration of the estate to so degenerate: Boensch v P
 These may be issues that more frequently arise given the extended authority of
 creditors in the reforms introduced by the ILRA, for example to request information
 and documents.
-80     Keay’s Insolvency: Personal and Corporate Law and Practice                 [2.245]
+80     Keay's Insolvency: Personal and Corporate Law and Practice                 [2.245]
 
 Although the trustee is not to be regarded as the agent of the bankrupt, and does
-not act according to their’ requests,63 the trustee must not ignore the interests of the
-bankrupt. Indeed, protection of the bankrupt from creditors’ claims is an important
+not act according to their' requests,63 the trustee must not ignore the interests of the
+bankrupt. Indeed, protection of the bankrupt from creditors' claims is an important
 purpose of bankruptcy which the trustee must try and ensure.
 
 Duties of trustees relating to undue beneﬁts etc
@@ -1515,7 +1523,7 @@ prevented from recovering remuneration for necessary work properly performed,
 permitted under other provisions of the Act.
 The prohibition does not apply if the trustee engages a related entity without
 reasonably knowing of the beneﬁt gained, or the creditors agree to the
-arrangement, or it is not reasonably practicable to gain the creditors’ agreement,
+arrangement, or it is not reasonably practicable to gain the creditors' agreement,
 and the cost involved is reasonable. Nor does the prohibition apply to any payment
 from the Commonwealth.
 A transaction or any other arrangement entered into in contravention of s 60-20
@@ -1531,8 +1539,8 @@ units, and 3 months imprisonment for a breach of s 60-21.
 The rule in Ex parte James
 [2.250] The rule in Ex parte James; In re Condon (1874) LR 9 Ch App 609 is a rule
 of fair dealing expected of a trustee in bankruptcy (and of a liquidator), that can be
-used to resist a trustee’s claim on a person, even if that means overriding the
-trustee’s strict legal rights. It typically applies where there has been a mistake of
+used to resist a trustee's claim on a person, even if that means overriding the
+trustee's strict legal rights. It typically applies where there has been a mistake of
 law or fact made by that person. In the case itself, a creditor had obtained execution
 against a debtor before his bankruptcy but the creditor paid the amount in question
 to the trustee in the mistaken belief that the trustee was legally entitled to the
@@ -1547,16 +1555,16 @@ bankruptcy; and an honest person would acknowledge that it was not fair that the
 
 enrichment should not be the subject of redress and the money repaid. That redress
 is given only to the extent necessary to require, usually, a repayment of the money
-by the trustee, even though this might not necessarily restore the person’s ﬁnancial
+by the trustee, even though this might not necessarily restore the person's ﬁnancial
 status quo.64 The position of the general creditors is not relevant; the concern is
-solely whether it is clearly unfair for the trustee to retain the money at the person’s
+solely whether it is clearly unfair for the trustee to retain the money at the person's
 expense.65
 Each case is to be assessed on its own facts and circumstances – the court is free to
 act according to what would be just and fair in the mind of a reasonable person –
-“the person on the Bondi bus” as one judge referred to it – and whether that person
-“would consider that it would be unfair or even shabby conduct” for the trustee or
+"the person on the Bondi bus" as one judge referred to it – and whether that person
+"would consider that it would be unfair or even shabby conduct" for the trustee or
 liquidator to insist on their legal rights and deny the claim.66 It is referred to in
-AFSA’s guidance, IGPD 14 – Proper performance of duties of a bankruptcy trustee.
+AFSA's guidance, IGPD 14 – Proper performance of duties of a bankruptcy trustee.
 While the rule is often raised against trustees, it is not often accepted by the courts.
 In Re Ayoub; ex parte Silvia [1983] FCA 112; (1983) 67 FLR 144 a bankrupt continued
 to operate a business after bankruptcy and obtained goods from suppliers on credit
@@ -1575,7 +1583,7 @@ from acting if there are no funds in the estate,69 a trustee is not obliged to t
 which would be unrealistic or expensive; a commercial approach must be taken.
 The fact that a trustee has no funds which would permit a particular course to be
 taken – for example to recover assets – is a relevant consideration for a trustee to
-weigh up and for a court to assess in reviewing the trustee’s conduct in not
+weigh up and for a court to assess in reviewing the trustee's conduct in not
 pursuing those assets: Freeman v Joiner [2005] FCAFC 149; (2005) 3 ABC (NS) 332;
 Boensch v Pascoe [2007] FCA 1977; (2007) 5 ABC (NS) 480.
 One exception is that the law excuses a trustee from responding to creditor requests
@@ -1592,10 +1600,10 @@ for information, or to hold a meeting, if there are no funds: IPRB, s 80-15(2).
    1519.
 68 Burns v Commissioner of Inland Revenue [2011] NZHC 1363.
 69 See Corporations Act, s 545.
-82    Keay’s Insolvency: Personal and Corporate Law and Practice                 [2.260]
+82    Keay's Insolvency: Personal and Corporate Law and Practice                 [2.260]
 
 Nevertheless, there are particular statutory responsibilities required of a trustee.
-These include to notify the bankrupt’s debtors, banks, the Commissioner of
+These include to notify the bankrupt's debtors, banks, the Commissioner of
 Taxation and others of the bankruptcy; to take possession of property of the
 bankrupt (s 129(1)); to obtain a statement of affairs from the bankrupt; and to keep
 accounts and records which demonstrate a full and correct account of the
@@ -1634,7 +1642,7 @@ must be lodged within 25 business days after 30 June. However, this requirement
 does not commence until the 2018-19 ﬁnancial year; the existing requirements
 under former s 170A continue until then.
 These returns provide the Inspector-General with necessary information about the
-operation of the Act as well as about the trustee’s compliance with the Act in
+operation of the Act as well as about the trustee's compliance with the Act in
 relation to speciﬁc estates, including payment of interest and realisation charges
 under the Bankruptcy (Estate Charges) Act 1997 (Cth). See IGPS 7 – Annual estate
 returns. Trustees can now lodge these returns through an online process.
@@ -1642,25 +1650,25 @@ returns. Trustees can now lodge these returns through an online process.
 
 Powers of the trustee
 [2.270] A trustee has a variety of powers to do many things in administering the
-estate. Important powers exercisable at the trustee’s discretion are contained in
+estate. Important powers exercisable at the trustee's discretion are contained in
 s 134 and they include:
-• selling property. This includes selling a bankrupt’s right of action. The right of a
+• selling property. This includes selling a bankrupt's right of action. The right of a
   trustee to sell their own rights of action, as trustee, under IPSB, s 100-5, does not
   come within s 134 because those rights of action are not property of the estate,
   they are rights of the trustee personally;
-• carrying on the bankrupt’s business (but only so far as is necessary to sell it, for
+• carrying on the bankrupt's business (but only so far as is necessary to sell it, for
   example as a going concern);
 • compromising any debt due to or by the bankrupt. Unlike in corporate
   insolvency, there is no limit on the amount which the trustee may decide to settle
   a debt owed: see [10.220];
 • obtaining advice and assistance, such as legal or valuation advice;
 • taking or defending legal proceedings. This power is connected with the right to
-  continue a bankrupt’s litigation claim, under s 60(3), or to defend a creditor’s
+  continue a bankrupt's litigation claim, under s 60(3), or to defend a creditor's
   claim if the creditor has leave to continue with it, under s 58; and
-• leasing the bankrupt’s property. This may be necessary to continue a lease or to
+• leasing the bankrupt's property. This may be necessary to continue a lease or to
   lease a property pending its sale.
 The powers also include generally superintending the management of the estate
-and administering its property “in any other way”.
+and administering its property "in any other way".
 Other powers exist allowing the trustee to demand books and to access property,
 apply to the court for the bankrupt to be arrested, make requests of the bankrupt
 for assistance, and to have the bankrupt and others publicly examined in court.
@@ -1670,7 +1678,7 @@ Liability of the trustee
 [2.275] Under the general law trustees are personally liable for costs incurred
 and other liabilities imposed in the course of the administration. For example, a
 trustee is personally liable for costs awarded against the trustee arising from the
-unsuccessful pursuit of litigation. Litigation is brought or defended in the trustee’s
+unsuccessful pursuit of litigation. Litigation is brought or defended in the trustee's
 own name, as trustee for the estate: see s 161.
 It follows that the trustee in bankruptcy, as at general law, is entitled to a full
 indemnity out of the bankrupt estate against all costs, charges and expenses that
@@ -1683,7 +1691,7 @@ indemniﬁed by the Commonwealth: s 18A. The Commonwealth also provides an
 indemnity for liability of the Inspector-General, and of the Official Receivers: s 19A.
 Trustees are generally not required to give security for costs in their pursuit of
 litigation: Macks v Valamios Produce (No 2) [2003] NSWSC 1044.
-84     Keay’s Insolvency: Personal and Corporate Law and Practice                                [2.280]
+84     Keay's Insolvency: Personal and Corporate Law and Practice                                [2.280]
 
 However, if a trustee has been found to have acted unsatisfactorily or unreasonably,
 for example in the conduct of litigation, a court may order that the trustee on behalf
@@ -1699,7 +1707,7 @@ The right of a trustee to assign a voidable transaction claim under IPSB, s 100-
 another means of a trustee protecting themselves, and the estate, by way of
 avoiding the risks of adverse costs orders inherent in litigation.
 A trustee (and others) have some protection where there is found to be a defect or
-irregularity in the trustee’s appointment. If the trustee has administered the
+irregularity in the trustee's appointment. If the trustee has administered the
 bankruptcy in the meantime, that defect or irregularity does not invalidate any act
 done by the trustee in good faith: s 306(2). See Wily v Official Receiver [2015] FCCA
 425.70
@@ -1715,18 +1723,18 @@ General to regulate the conduct of trustees and if necessary to suspend or termi
 their registration. This extends to the Inspector-General directing that a trustee
 accept no further appointments; or referring the trustee to a discipline committee,
 or the court.
-A trustee’s registration is automatically cancelled in some cases, for example, if they
+A trustee's registration is automatically cancelled in some cases, for example, if they
 go bankrupt.
 
 Termination of registration
 [2.290] IPSB, Div 40 sets out the process by which the Inspector-General may
 take disciplinary and other action against a trustee, including by way of
-terminating a trustee’s registration for grounds such as misconduct, or commission
+terminating a trustee's registration for grounds such as misconduct, or commission
 of some serious offence.
 The Inspector-General may direct a registered trustee to comply with a requirement
 to lodge a document or to provide information: IPSB, s 40-5. If the trustee fails to
 
-70 Self-represented litigants have no right to recover “professional costs”, unless they are lawyers:
+70 Self-represented litigants have no right to recover "professional costs", unless they are lawyers:
    London Scottish Beneﬁt Society v Chorley (1884) 13 QBD 87; Coshott v Spencer [2017] NSWCA 118; [2018]
    HCA Trans 81.
 [2.300]                                     2 Introduction to Bankruptcy and its Administration   85
@@ -1745,7 +1753,7 @@ direction to convene a meeting.
 Suspending or cancelling registration
 [2.295]  The registration of a trustee is automatically cancelled if the trustee
 becomes an insolvent under administration71 or dies: IPSB, s 40-20.
-In some circumstances, the Inspector-General can suspend or cancel the trustee’s
+In some circumstances, the Inspector-General can suspend or cancel the trustee's
 registration: IPSB, ss 40-25, 40-30.
 A decision about the suspension or cancellation of the registration of a trustee is
 reviewable by the Administrative Appeals Tribunal (see IPSB, Div 96): see IPSB,
@@ -1757,23 +1765,23 @@ explanation from a trustee as to why they should continue to be registered if th
 Inspector-General believes that the trustee no longer has the relevant ability to act
 as a trustee; has been convicted of an offence of fraud or dishonesty; or has failed to
 discharge their duties as trustee properly.72 That process is usually activated
-following some complaint about the trustee’s conduct or competence, or following
-a review of the trustee’s ﬁles by the Inspector-General. These are commonly known
-as “show cause” notices.
+following some complaint about the trustee's conduct or competence, or following
+a review of the trustee's ﬁles by the Inspector-General. These are commonly known
+as "show cause" notices.
 If there is no satisfactory explanation from the trustee, a discipline committee may
 be convened under IPSB, s 40-45 to which the Inspector-General can refer the
-trustee’s conduct for a decision whether the trustee should continue to be
+trustee's conduct for a decision whether the trustee should continue to be
 registered. There is no requirement for the Inspector-General to give reasons for the
 referral.73 The committee must make its best endeavours to make its decision
 within 60 days: IPRB, s 50-90.
 
 71 Deﬁned in Corporations Act, s 9
-72 This extends to the trustee’s conduct “in a foreign country”, for example, when acting under the
-   authority of Bankruptcy Act, s 29 in pursuing assets overseas: see M Murray, “Cross-border
-   Regulation of Insolvency Practitioners” [2018] 19(3) INSLB 55.
-73 Decision of the Committee in the matter of Louise Thomson, 6 April 2018, recorded on AFSA’s
+72 This extends to the trustee's conduct "in a foreign country", for example, when acting under the
+   authority of Bankruptcy Act, s 29 in pursuing assets overseas: see M Murray, "Cross-border
+   Regulation of Insolvency Practitioners" [2018] 19(3) INSLB 55.
+73 Decision of the Committee in the matter of Louise Thomson, 6 April 2018, recorded on AFSA's
    Register of Trustees.
-86      Keay’s Insolvency: Personal and Corporate Law and Practice                              [2.305]
+86      Keay's Insolvency: Personal and Corporate Law and Practice                              [2.305]
 
 The discipline committee74
 [2.305] The committee sits informally but must abide by principles of natural
@@ -1781,7 +1789,7 @@ justice and although it is not bound by the rules of evidence it must have regar
 them75 and be cautious, for example, about relying upon hearsay evidence. The
 members of the committee must be independent of the trustee and must be seen to
 be so. It is important that the person on the committee from AFSA should not have
-been involved in investigating the trustee’s conduct.76 The trustee chosen by ARITA
+been involved in investigating the trustee's conduct.76 The trustee chosen by ARITA
 must also meet independence standards and be a person with the knowledge and
 experience necessary to carry out their functions on the committee. This person
 should have, apart from knowledge of bankruptcy, knowledge also of the
@@ -1802,21 +1810,21 @@ speciﬁed conditions: IPSB, s 40-55. Any such decision is reviewable to the AAT
 IPSB, s 96-1.78
 
 Industry body notices
-[2.310]   An “industry body” can lodge with the Inspector-General notice of
+[2.310]   An "industry body" can lodge with the Inspector-General notice of
 possible grounds for disciplinary action against a trustee: IPSB, s 40-100.79 This
 involves any of a large number of professional bodies – ARITA, CAANZ, CPA80 –
 determining on reasonable suspicion that there are grounds for the Inspector-
 General to take some action against a trustee. The Inspector-General must consider
 the information referred and let the industry body know.
 
-74 The processes are set out in IPRB, Div 50. See generally “Disciplinary Tribunals and Rules of
-   Procedural Fairness” at [1.1320] in Walmsley, Abadee, Zipser and Sirtes, Professional Liability in
+74 The processes are set out in IPRB, Div 50. See generally "Disciplinary Tribunals and Rules of
+   Procedural Fairness" at [1.1320] in Walmsley, Abadee, Zipser and Sirtes, Professional Liability in
    Australia (3rd ed, Lawbook Co, 2016).
 75 IPRB, s 50-55.
 76 The principle is discussed in Isbester v Knox City Council [2015] HCA 20.
 77 IPSB, s 50-5.
-78 As to the impact of cancellation of registration, see Castle, “Insolvency Law Reform — Resignation
-   Versus Cancellation” (2016) 17(5) INSLB 73; Castle, “Insolvency Law Reform – The 10-year Ban”
+78 As to the impact of cancellation of registration, see Castle, "Insolvency Law Reform — Resignation
+   Versus Cancellation" (2016) 17(5) INSLB 73; Castle, "Insolvency Law Reform – The 10-year Ban"
    (2016) 17(7) INSLB 127.
 79 See AFSA Form 35 – Notice by an industry body of possible grounds for disciplinary action.
 80 These professional bodies are listed at footnote 30.
@@ -1832,32 +1840,32 @@ Register of Trustees: IPSB, s 15-15(a). These include particulars of any discipl
 action (deﬁned in s 5-5) but exclude the giving of a direction by the Inspector-
 General under IPSB, s 40-5: IPRB, s 15-1(2)(f).
 
-The trustees’ resignation, release etc
+The trustees' resignation, release etc
 [2.320] A trustee may wish to resign from an estate, under s 180, or be removed
 as trustee from a particular estate without any issue being raised about their
 continued registration as a trustee.
 A resignation as trustee of an estate is subject to the court accepting that
 resignation. The court did so in Malanos v Trovas [2012] FMCA 897 in light of the
-trustee’s perceived conﬂict of interest arising from a connection with certain
+trustee's perceived conﬂict of interest arising from a connection with certain
 creditors. Attending to conﬂicts of interest is a requirement of trustees under the
 Standards.
-A trustee may also be “released” from a trusteeship of a particular estate by order
+A trustee may also be "released" from a trusteeship of a particular estate by order
 of the court under s 183. Such an application may be made where there is some
 possible liability of the trustee from which the trustee seeks protection: Hacker v
 Weston (No 2) [2015] FCA 521.
-The relevant court bankruptcy rules provide that a trustee’s application for
+The relevant court bankruptcy rules provide that a trustee's application for
 acceptance of their resignation, or release, must be accompanied by evidence of the
 grounds in support, and in the case of a release, by details of the realisation of the
-bankrupt’s property and distribution of the estate and a copy of the ﬁle records
-(books) of the trustee’s administration of the estate kept under IPSB, s 70-10;
-Courts’ Bankruptcy Rules, r 8.02.
+bankrupt's property and distribution of the estate and a copy of the ﬁle records
+(books) of the trustee's administration of the estate kept under IPSB, s 70-10;
+Courts' Bankruptcy Rules, r 8.02.
 If not otherwise released, the trustee is released automatically at the expiration of
 seven years from the date on which the Official Receiver entered on the NPII the
-fact that the administration of the estate was “ﬁnalized”: s 184. That term is not
+fact that the administration of the estate was "ﬁnalized": s 184. That term is not
 deﬁned but it seems it should not precede the end of the three-year period of
 bankruptcy. IPRB, s 42-140 simply says that a trustee, when distributing dividends,
-must also advise creditors if “the administration is ﬁnalized”. Note that the “end of
-an administration” is the day the bankruptcy is annulled or the bankrupt is
+must also advise creditors if "the administration is ﬁnalized". Note that the "end of
+an administration" is the day the bankruptcy is annulled or the bankrupt is
 discharged, whichever happens ﬁrst: IPSB, s 5-5.
 
 Replacing a trustee
@@ -1866,11 +1874,11 @@ IPSB, s 90-35. This may be for reasons of creditor dissatisfaction with the trus
 for reasons of convenience (the trustee may wish to retire) or a conﬂict of interest
 may have arisen. The trustee cannot refuse to convene such a meeting if validly
 requested according to the requirements under IPSB, s 75-15: Liprini v Pascoe [2012]
-88     Keay’s Insolvency: Personal and Corporate Law and Practice                       [2.330]
+88     Keay's Insolvency: Personal and Corporate Law and Practice                       [2.330]
 
 FCA 886, a decision under the former law. A similar provision to remove a
 liquidator applies in corporate insolvency: Subdiv D.
-At least ﬁve business days’ notice of the meeting must be given to the creditors.
+At least ﬁve business days' notice of the meeting must be given to the creditors.
 This also applies to the Official Trustee: IPSB, s 90-30.
 The law allows the trustee who has been removed to apply to the court to be
 reappointed. If they do so, they must record all their costs incurred in relation to
@@ -1887,7 +1895,7 @@ removal in such a case, the proper course for the former trustee may be to refer
 matter to the Inspector-General.
 The incoming trustee must give a declaration of independence: IPRB, s 75-265.
 Streamlined replacement – s 181A
-[2.330] A “streamlined method” of replacing a trustee is also available, under
+[2.330] A "streamlined method" of replacing a trustee is also available, under
 s 181A. Another trustee can be nominated to the creditors in writing, who then
 have 10 days to object. Where no objection is made by any creditor, the new trustee
 replaces the former trustee as trustee of the estate.
@@ -1895,18 +1903,18 @@ This process is often used by the Official Trustee in transferring to registered
 trustees bankrupt estates that it does not have the resources to handle.81
 
 Court oversight of trustees
-[2.335] Necessarily the court has a signiﬁcant role in the oversight of trustees’
+[2.335] Necessarily the court has a signiﬁcant role in the oversight of trustees'
 conduct; at the same time, a court can act to protect or assist a trustee, for example,
 by giving directions. The new powers introduced by the ILRA are broadly
 equivalent to former ss 176, 178 and 179 of the Act. A signiﬁcant addition under the
-new law is that the court can act “on its own initiative, during proceedings before
-the Court”, comparable with former Corporations Act, s 536: see IPSB, ss 45-1(2)(a),
+new law is that the court can act "on its own initiative, during proceedings before
+the Court", comparable with former Corporations Act, s 536: see IPSB, ss 45-1(2)(a),
 90-5(1); 90-15(2)(a).
-Court review of a trustee’s conduct
+Court review of a trustee's conduct
 [2.340] Under IPSB, Div 45, the court has various powers to deal with the
 conduct of a particular trustee.
-Under IPSB, s 45-1, the court “may make such orders as it thinks ﬁt in relation to a
-registered trustee”. It may do this on its own initiative or on application by the
+Under IPSB, s 45-1, the court "may make such orders as it thinks ﬁt in relation to a
+registered trustee". It may do this on its own initiative or on application by the
 trustee or the Inspector General.
 
 81 See also s 157. See the National Panel of Registered Trustees on the AFSA website.
@@ -1920,20 +1928,20 @@ their action or failure to act was in compliance with the law, or an order of th
 court, and whether any person has suffered, or is likely to suffer, loss or damage
 because of this.
 The court may take into account the seriousness of the consequences of any
-conduct of the trustee conduct and the effect it has “on public conﬁdence in
-registered trustees as a group”: IPSB, s 45-1(4)(e).
+conduct of the trustee conduct and the effect it has "on public conﬁdence in
+registered trustees as a group": IPSB, s 45-1(4)(e).
 The court may make an order about costs: IPSB, s 45-5.
 
-Court’s review of the administration of an estate
+Court's review of the administration of an estate
 [2.345] In contrast, IPSB, Div 90 contains powers of the court in relation to the
 administration of a particular bankrupt estate or estates. This Division concerns the
-courts’ powers in respect of the estate itself, rather than, under IPSB, Div 45, the
+courts' powers in respect of the estate itself, rather than, under IPSB, Div 45, the
 trustee.
-IPSB, s 90-15 contains a general power for the Court to ’make orders as it thinks ﬁt’
+IPSB, s 90-15 contains a general power for the Court to 'make orders as it thinks ﬁt'
 in relation to the administration of an estate, and IPSB, s 90-20 allows a creditor to
 apply for an order under s 90-15. Other than the Inspector-General, an application
 must be made within 60 days from when the person making the application
-became aware of the trustee’s act, omission or decision: IPRB, r 90-80.
+became aware of the trustee's act, omission or decision: IPRB, r 90-80.
 This is broadly equivalent to former ss 176 and 178. Many of the cases under those
 sections will remain relevant and they are referred to in the 9th edition of this book.
 
@@ -1948,15 +1956,15 @@ Under the former law, and now under IPSB, s 90-15, the court may remove the
 trustee and order that another trustee be appointed: s 90-15(3)(b)(c).82 This
 provision has often been used by bankrupts alleging some misconduct and seeking
 to remove their trustee from the bankruptcy.83
-Although the court’s powers under s 90-15 are broad – “to make such orders as it
-thinks ﬁt” – they can be limited by the operation of other provisions that bear more
+Although the court's powers under s 90-15 are broad – "to make such orders as it
+thinks ﬁt" – they can be limited by the operation of other provisions that bear more
 directly upon a particular issue; for example, as to the process of review of the
 remuneration and disbursements incurred by a trustee: Andersen v Lennon [2017]
 FCCA 2452.
 
 82 A former bankrupt could apply under former s 179: Ferella v Official Trustee [2010] FCA 766.
 83 Maxwell-Smith v Donnelly [2006] FCAFC 150; (2006) 4 ABC (NS) 621 and cases there cited.
-90      Keay’s Insolvency: Personal and Corporate Law and Practice                             [2.355]
+90      Keay's Insolvency: Personal and Corporate Law and Practice                             [2.355]
 
 An application for a court inquiry under the former s 179 involved a two-step
 process. First, to determine whether there were sufficient grounds in support of an
@@ -1965,7 +1973,7 @@ undertaken and on what grounds.84
 The court is generally reluctant to undertake an inquiry, unless there are substantial
 grounds for believing that the trustee erred in the administration. Indeed, if an
 inquiry is unlikely to reveal misconduct, it should not be undertaken. Courts take
-the view that they should not unduly interfere with the trustee’s day-to-day
+the view that they should not unduly interfere with the trustee's day-to-day
 administration of the estate: Trkulja v Morton [2005] FCAFC 259; (2005) 4 ABC (NS)
 110. The practical utility of an inquiry is a further consideration. Hence, many s 179
 applications were determined at the ﬁrst step, by deciding that an inquiry was not
@@ -1973,7 +1981,7 @@ warranted.
 If an inquiry does proceed, the court may nevertheless have found that there was
 no misconduct involved. If the court does ﬁnd misconduct, the court still has a
 discretion. It may, but need not, order that the trustee be removed; it may instead
-set conditions on the continuation of the trustee’s appointment,85 or order that a
+set conditions on the continuation of the trustee's appointment,85 or order that a
 particular creditor be appointed to a committee of inspection to allow more
 oversight of the trustee.86 As with former s 178, it is not available to simply pursue
 a claim for damages.
@@ -2006,7 +2014,7 @@ seeking orders from the court. Creditors may also vote to remove the trustee.
 
 A committee of inspection is a means of more direct oversight, usually in large or
 complex bankruptcies, convened on the creditors so resolving: IPSB, s 80-10. It
-generally consists of between three and ﬁve persons elected at a creditors’ meeting.
+generally consists of between three and ﬁve persons elected at a creditors' meeting.
 Its function is to advise and assist and if necessary direct the trustee and to monitor
 the conduct of the administration: IPSB, s 80-35. A committee can take its own
 advice, the cost of which can be payable by the estate: IPSB, s 80-50. While the
@@ -2026,7 +2034,7 @@ Section 277B provides for an infringement notice regime for these offences, wher
 payment of the penalty may be made by the trustee in order to avoid prosecution.89
 Necessarily, the penalty is to be paid personally and not out of the bankrupt estate.
 Most are summary offences under s 4H of the Crimes Act 1914 (Cth).
-AFSA’s website contains a list of offences introduced or restated by the ILRA.
+AFSA's website contains a list of offences introduced or restated by the ILRA.
 
 THE BANKRUPTCY COURTS AND TRIBUNALS
 [2.370] This chapter has referred throughout to the courts in various contexts,
@@ -2047,13 +2055,13 @@ court.
    further, Harding v Deputy Commissioner of Taxation [2008] FCA 1403; Culleton v Balwyn Nominees Pty
    Ltd [2017] FCAFC 8.
 91 For example, the Industrial Court of NSW was found to have jurisdiction to determine whether a
-   trustee had abandoned a bankrupt’s cause of action in that court under s 60(3) of the Act: Meriton
+   trustee had abandoned a bankrupt's cause of action in that court under s 60(3) of the Act: Meriton
    Apartments Pty Ltd v Industrial Court of New South Wales (2008) 171 FCR 380.
-92     Keay’s Insolvency: Personal and Corporate Law and Practice                                [2.370]
+92     Keay's Insolvency: Personal and Corporate Law and Practice                                [2.370]
 
 Proceedings which are before the Federal Court or the Federal Circuit Court may be
 transferred to the Family Court pursuant to s 35A of the Bankruptcy Act.92 A transfer
-may be ordered on the application of a party or on the court’s own motion; no
+may be ordered on the application of a party or on the court's own motion; no
 appeal lies from such a decision: s 35A(5). This may be done if there are bankruptcy
 and family law issues intertwined. If a bankruptcy matter is referred, the Family
 Court exercises full jurisdiction in bankruptcy but any appeal lies to the Federal
@@ -2064,22 +2072,22 @@ Rayhill (Bankrupt) [2015] FCAFC 70.
 Section 35 of the Bankruptcy Act gives the Family Court direct jurisdiction in
 relation to certain bankruptcy matters involving family law property settlement
 proceedings, the variation or setting aside of property orders, and spousal
-maintenance where the trustee of the bankrupt’s estate is a party or applicant. This
-does not limit the Family Court’s bankruptcy jurisdiction given under s 35A:
+maintenance where the trustee of the bankrupt's estate is a party or applicant. This
+does not limit the Family Court's bankruptcy jurisdiction given under s 35A:
 s 35(2).93
 The Federal Circuit Court is the only court with original jurisdiction in both
 bankruptcy and family law.
 Most bankruptcy matters are now ﬁled in the Federal Circuit Court with appeals
 being taken to the Federal Court; it also takes most family law matters, with
 appeals on family law going to the Family Court.
-The Federal Court’s Commercial and Corporations Practice Note (C&C-1) sets out the
+The Federal Court's Commercial and Corporations Practice Note (C&C-1) sets out the
 arrangements for the management of commercial and corporations cases within the
 National Court Framework. The Practice Note covers insolvency matters, both
 corporate and personal.
 The registrars of the Federal Court, the Federal Circuit Court and the Family Court
 carry out various legal and administrative tasks in bankruptcy proceedings,
 including on delegation from the court in respect of speciﬁed judicial tasks. An
-appeal from a registrar’s decision is in effect a review de novo, that is, a complete
+appeal from a registrar's decision is in effect a review de novo, that is, a complete
 re-hearing.94
 The AAT hears applications to review certain decisions of the Inspector-General, for
 example under s 139ZF in relation to reviews on income contributions. The role of
@@ -2098,12 +2106,12 @@ to trustee registration and discipline.
 [2.370]                                     2 Introduction to Bankruptcy and its Administration   93
 
 A court exercising jurisdiction in bankruptcy has full power under s 30(1) of the Act
-to “decide all questions, whether of law or of fact, in any case of bankruptcy … and
+to "decide all questions, whether of law or of fact, in any case of bankruptcy … and
 may make such orders … as the Court considers necessary for the purposes of
-carrying out or giving effect to” the Act. This is “a facultative provision giving the
+carrying out or giving effect to" the Act. This is "a facultative provision giving the
 Court full power, within the limits of its jurisdiction to be found elsewhere, to make
 such orders as it considers should be made in order to carry out and give effect to
-the Act. The words used are not words of limitation but of extension”: Talacko v
+the Act. The words used are not words of limitation but of extension": Talacko v
 Talacko [2010] FCAFC 54; (2010) 183 FCR 311.
 This extends to allowing the court to make orders granting injunctions or other
 equitable remedies. In Talacko, the court relied on s 30(1) to prevent a debtor leaving
@@ -2142,7 +2150,7 @@ This table sets out the general position.
 
 95 Except under s 29 of the Bankruptcy Act.
 96 Supreme Courts have jurisdiction in corporate cross-border insolvency only.
-94     Keay’s Insolvency: Personal and Corporate Law and Practice                             [2.375]
+94     Keay's Insolvency: Personal and Corporate Law and Practice                             [2.375]
 
            COURTS AND TRIBUNALS EXERCISING BANKRUPTCY JURISDICTION
                         Bankruptcy Family Law Appeals in   Appeals in Cross-border
@@ -2155,7 +2163,7 @@ LEGAL PRACTITIONERS
 [2.375]   Lawyers have no formal role under the Bankruptcy Act in that legal
 capacity although trustees themselves may well be legally qualiﬁed.
 Most lawyers are licensed and regulated as Australian legal practitioners
-(“lawyers”) under the Legal Profession Uniform Law (NSW) and the Legal
+("lawyers") under the Legal Profession Uniform Law (NSW) and the Legal
 Profession Uniform Law (Victoria), operative in those States. They act for trustees,
 creditors and others in court proceedings and in giving advice.
 Lawyers may be controlling trustees under s 188 of the Bankruptcy Act if they are
@@ -2173,12 +2181,12 @@ lawyers acting for the Official Trustee or government creditors have model litig
 obligations.99
 They may act for a trustee even if they also act or have acted for a creditor, subject
 to the particular circumstances.
-Trustees are not “commercial or government clients” under s 170 of the Uniform
+Trustees are not "commercial or government clients" under s 170 of the Uniform
 Laws; full costs disclosure is therefore required from their lawyers under Part 4.3 of
 the Uniform Laws. The Uniform Laws prescribe the bases for charging fees.
-Lawyers’ fees are payable by the trustee as a disbursement, not remuneration, and
-are not subject to creditor approval. But they are a “bill of costs for services
-provided by a person” in relation to the administration of the estate and IPSB,
+Lawyers' fees are payable by the trustee as a disbursement, not remuneration, and
+are not subject to creditor approval. But they are a "bill of costs for services
+provided by a person" in relation to the administration of the estate and IPSB,
 s 65-46 provides for the Inspector-General to review their bill, including other
 service providers to the trustee. The trustee must apply for a review within 20
 business days of the receipt of the bill but before it is paid. This time may be
@@ -2223,7 +2231,7 @@ also explained under these various headings.
                                    agreement administrators
                                    IGPS 11 – Monitoring and inspection of bankruptcy
                                    trustees and debt agreement administrators
-                                   IGPS 12 – Statutory reviews of trustees’ decisions
+                                   IGPS 12 – Statutory reviews of trustees' decisions
                                    under the Bankruptcy Act 1966 by the Inspector-
                                    General in Bankruptcy
                                    IGPS 13 – Trustee registration application process
@@ -2232,13 +2240,13 @@ also explained under these various headings.
                                    ruptcy Act 1966 to the Inspector-General in
                                    Bankruptcy
                                    IGPS 15 – Determination by the Inspector-General
-                                   in Bankruptcy of a trustee’s remuneration
+                                   in Bankruptcy of a trustee's remuneration
                                    IGPS 16 – Reviewing remuneration of trustees and
                                    costs of third party service providers
                                    IGPS 18 – Issuing of infringement notices by the
                                    Inspector-General in Bankruptcy
                                    Inspector-General Practice Directions
-96   Keay’s Insolvency: Personal and Corporate Law and Practice                         [2.385]
+96   Keay's Insolvency: Personal and Corporate Law and Practice                         [2.385]
 
             Chapter 2 – Introduction to Bankruptcy and its Administration
                                   IGPD 1 – Independence of personal insolvency
@@ -2260,13 +2268,13 @@ also explained under these various headings.
                                   IGPD 22 – Effective practitioner communication
                                   Official Receiver Practice Statements
                                   ORPS 1 – Declaration of intention to present a
-                                  debtor’s petition
-                                  ORPS 2 – Bankruptcy by debtor’s petition
+                                  debtor's petition
+                                  ORPS 2 – Bankruptcy by debtor's petition
                                   ORPS 3 – Bankruptcy by sequestration order
                                   ORPS 5 – Administration of Estates of Deceased
                                   Persons
                                   ORPS 6 – Applying for a bankruptcy notice
-                                  ORPS 7 – Exercise of the Official Receiver’s powers
+                                  ORPS 7 – Exercise of the Official Receiver's powers
                                   to assist trustees
                                   ORPS 8 – The National Personal Insolvency Index
                                   ORPS 9 – Inspecting documents ﬁled with the
@@ -2291,7 +2299,7 @@ also explained under these various headings.
                                   • Forms for declaring bankruptcy
                                   • Forms for bankruptcy by sequestration order
                                   • Forms for declaring an intention to present a
-                                    debtor’s petition
+                                    debtor's petition
                                   • Forms for proposing a personal insolvency
                                     agreement
 
@@ -2320,4 +2328,4 @@ also explained under these various headings.
                                   • whether any fees apply, and
                                   • any penalties for late or non-compliance.
 
- Courts’ Bankruptcy Rules         Generally
+ Courts' Bankruptcy Rules         Generally

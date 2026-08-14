@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an employer has authorised the PAYE intermediary to direct the transfer of an amount from the employer’s bank account to meet an obligation that the PAYE intermediary has on the employer’s behalf in relation to an employee and a pay period.
+**(1)**  This section applies when an employer has authorised the PAYE intermediary to direct the transfer of an amount from the employer's bank account to meet an obligation that the PAYE intermediary has on the employer's behalf in relation to an employee and a pay period.
 
 **Sufficient funds**
 

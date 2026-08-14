@@ -2,16 +2,16 @@
 act: "Australian Master Tax Guide"
 part: "39"
 section: "employers-charge-percentage"
-title: "Employer’s charge percentage"
+title: "Employer's charge percentage"
 paragraph: "¶39-100"
 ---
-# Employer’s charge percentage ¶39-100
+# Employer's charge percentage ¶39-100
 
-The minimum level of superannuation support that an employer must provide for each employee so as to avoid incurring liability for the SG charge is calculated by reference to a “charge percentage” (commonly called the SG rate) of the employee’s ordinary time earnings. All employers are subject to the same charge percentage, regardless of the size of their annual national payroll.
+The minimum level of superannuation support that an employer must provide for each employee so as to avoid incurring liability for the SG charge is calculated by reference to a "charge percentage" (commonly called the SG rate) of the employee's ordinary time earnings. All employers are subject to the same charge percentage, regardless of the size of their annual national payroll.
 
-The meaning of “ordinary time earnings” is discussed at ¶39-200. For the calculation of an employer’s superannuation support for an employee for SG purposes, see ¶39-230.
+The meaning of "ordinary time earnings" is discussed at ¶39-200. For the calculation of an employer's superannuation support for an employee for SG purposes, see ¶39-230.
 
-The process for reducing the employer’s charge percentage in respect of each employee based on the employer support provided is discussed at ¶39-300 and the calculation of the SG charge payable by an employer is discussed at ¶39-400.
+The process for reducing the employer's charge percentage in respect of each employee based on the employer support provided is discussed at ¶39-300 and the calculation of the SG charge payable by an employer is discussed at ¶39-400.
 
 General SG rate The general SG rate is 11.5% in 2024–25. The rate is legislated to increase by 0.5% to 12% for years starting on or after 1 July 2025 (see the table in ¶42-340) (SGAA s 19(2)).
 

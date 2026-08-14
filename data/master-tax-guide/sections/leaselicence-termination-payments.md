@@ -13,6 +13,6 @@ Capital expenditure incurred to terminate a lease or licence (including an autho
 
 Such deduction is not available in respect of a ﬁnance lease (ie a lease that transfers substantially all the risks and rewards incidental to ownership of an asset) or if, after the termination, the taxpayer or an associate enters into another lease or licence of the same kind with the same party or an associate of that party. In addition, no deduction is available to the extent that the expenditure is for the granting or receipt of another lease or licence in relation to the asset that was the subject of the original lease or licence.
 
-If the parties did not deal at arm’s length, the deduction is limited to the market value of what the expenditure was for (assuming the termination did not occur and was never proposed to occur).
+If the parties did not deal at arm's length, the deduction is limited to the market value of what the expenditure was for (assuming the termination did not occur and was never proposed to occur).
 
 *Refs: s 8-1, s 25-110)*

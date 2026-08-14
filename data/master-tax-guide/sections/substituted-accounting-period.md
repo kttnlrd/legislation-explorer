@@ -9,11 +9,11 @@ paragraph: "¶9-010"
 
 Generally, tax returns must be prepared on the basis of an income year ending on 30 June (¶9-005).
 
-However, with the Commissioner’s permission, a taxpayer may adopt an alternate accounting period, often referred to as a substituted accounting period (SAP), ending on a date other than 30 June (ITAA36 s 18).
+However, with the Commissioner's permission, a taxpayer may adopt an alternate accounting period, often referred to as a substituted accounting period (SAP), ending on a date other than 30 June (ITAA36 s 18).
 
-The Commissioner’s guidelines for approval of SAPs, set out in PS LA 2007/21, reﬂect the decision in MLC Investments Ltd 2003 ATC 5133; [2003] FCA 1487. Further, the ATO website contains information on how to apply for an SAP and the implications of having an SAP.
+The Commissioner's guidelines for approval of SAPs, set out in PS LA 2007/21, reﬂect the decision in MLC Investments Ltd 2003 ATC 5133; [2003] FCA 1487. Further, the ATO website contains information on how to apply for an SAP and the implications of having an SAP.
 
-When deciding whether to grant leave to adopt an SAP each case is considered on its merits taking into account all relevant facts. The Commissioner seeks to balance convenience to the taxpayer with the eﬃcient administration of the taxation law; consideration of the business needs relevant to the eﬃcient administration of the taxpayer’s business in their market, other taxpayers in similar situations, and the aggregate eﬀect of grants of SAPs. Leave will generally be granted to adopt an SAP where it can be demonstrated that the circumstances of the case are out of the ordinary. Applications for SAPs must be in writing and lodged in a timely fashion with regard to when the circumstances which form the basis of the SAP application ﬁrst arise.
+When deciding whether to grant leave to adopt an SAP each case is considered on its merits taking into account all relevant facts. The Commissioner seeks to balance convenience to the taxpayer with the eﬃcient administration of the taxation law; consideration of the business needs relevant to the eﬃcient administration of the taxpayer's business in their market, other taxpayers in similar situations, and the aggregate eﬀect of grants of SAPs. Leave will generally be granted to adopt an SAP where it can be demonstrated that the circumstances of the case are out of the ordinary. Applications for SAPs must be in writing and lodged in a timely fashion with regard to when the circumstances which form the basis of the SAP application ﬁrst arise.
 
 An application form (NAT 5087) is available from the ATO website.
 

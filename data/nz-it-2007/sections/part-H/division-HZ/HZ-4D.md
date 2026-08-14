@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (c) the sole tradership is treated as stepping into the place of the qualifying company, and as having, on and after the first day of the transitional income year,—
 
-  - (i) the qualifying company’s historical tax situation; and
+  - (i) the qualifying company's historical tax situation; and
 
   - (ii) the tax situation in relation to the assets and liabilities, and associated rights and obligations, that it would have if it had always had the historical tax situation:
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **(4)**  QCST transitional process means a process, for which all outcomes are achieved in an income year (the transitional income year), by which a company that is a qualifying company at the end of the income year before the transitional income year is transformed into a sole tradership. The process must have the following outcomes:
 
-- (a) the Commissioner receives a notice from the qualifying company before the day that is 6 months after the start of the transitional income year, stating an intention to revoke the company’s qualifying company status and to complete the QCST transitional process relating to the sole tradership for the transitional income year; and
+- (a) the Commissioner receives a notice from the qualifying company before the day that is 6 months after the start of the transitional income year, stating an intention to revoke the company's qualifying company status and to complete the QCST transitional process relating to the sole tradership for the transitional income year; and
 
 - (b) the sole tradership is the same natural person who, at the end of the income year before the transitional income year, is the sole shareholder of the qualifying company; and
 

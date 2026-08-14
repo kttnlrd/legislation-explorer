@@ -51,7 +51,7 @@ relationship breakdown
 
   event such as a sale by the trustee who acquired it
 
-- the ﬁrst element of the asset’s cost base (or reduced cost base) for the trustee who acquired the
+- the ﬁrst element of the asset's cost base (or reduced cost base) for the trustee who acquired the
 
   asset on transfer is the same as it was for the trustee who transferred the asset
 

@@ -3,23 +3,18 @@ ATO ID 2006/156
 ==================================================
 
 Income Tax
-        Company tax loss: whether the Commissioner can be prevented from disallowing all of a tax loss following an income injection
-        FOI status: may be released
+ Company tax loss: whether the Commissioner can be prevented from disallowing all of a tax loss following an income injection
+ FOI status: may be released
 
-
-This ATO ID is withdrawn because the current ATO position on this issue is contained in  ATO ID 2010/49.
+This ATO ID is withdrawn because the current ATO position on this issue is contained in ATO ID 2010/49.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where assessable income or a capital gain has been injected into a company because of an available tax loss, can the Commissioner be prevented from disallowing all of the tax loss pursuant to subsection 175-10(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -35,16 +30,14 @@ Reasons for Decision
 Subsections 175-10(1) and 175-10(2) of the ITAA 1997 provide:
 
 175-10(1)
-               The Commissioner may disallow the *excluded loss if, during the income year, the company *derived assessable income, or a *capital gain accrued to the company, some or all of which (the injected amount) would not have been derived, or would not have accrued, if the excluded loss had not been available to be taken into account for the purposes of:
-
-
+ The Commissioner may disallow the *excluded loss if, during the income year, the company *derived assessable income, or a *capital gain accrued to the company, some or all of which (the injected amount) would not have been derived, or would not have accrued, if the excluded loss had not been available to be taken into account for the purposes of:
 
 • Division 36 (which is about tax losses of earlier years)
 • Division 165 (which is about the income tax consequences of changing ownership or control of a company)
 • Subdivision 375-G (which is about film losses).
 
 175-10(2)
-               However, the Commissioner cannot disallow the *excluded loss if the *continuing shareholders will benefit from the derivation or accrual of the *injected amount to an extent that the Commissioner thinks fair and reasonable having regard to their respective rights and interests in the company.
+ However, the Commissioner cannot disallow the *excluded loss if the *continuing shareholders will benefit from the derivation or accrual of the *injected amount to an extent that the Commissioner thinks fair and reasonable having regard to their respective rights and interests in the company.
 
 * denotes a term defined in section 995-1 of the ITAA 1997
 
@@ -56,15 +49,15 @@ In Case L59 79 ATC 471; (1979) CTBR (NS) Case 66, the Board of Review considered
 The Board of Review decided that this meant that the relevant continuing shareholders would have to 'benefit in proportion to their shareholding'.
 In ATO Interpretative Decision ATO ID 2002/845, the continuing shareholders had a 100% continuous holding of shares in the company during the income years in which the tax losses were incurred, and during the income year in which the deductions for the tax losses would be claimed. As a result, the Commissioner determined that it was fair and reasonable to allow the deductions for the whole of the tax losses.
 The final paragraph of ATO ID 2002/845 states that 'the Commissioner has determined that it is fair and reasonable to accept that the continuing shareholders will benefit from the injection of funds
-          in proportion
-           to their respective rights and interests in the company.' [Emphasis added]
+ in proportion
+ to their respective rights and interests in the company.' [Emphasis added]
 Accordingly, subsection 175-10(2) of the ITAA 1997 prevents the Commissioner from disallowing the deduction for all of the tax loss available to company A. Instead, the Commissioner will allow a deduction for some of the tax loss in proportion to the shares in company A that the continuing shareholders own during the relevant periods.
 Since the continuing shareholders own at least 60% of the shares in company A during the whole (or the relevant part) of the loss year and during the whole of the income year, 60% of the available tax loss will be an allowable deduction in the income year. The Commissioner may disallow the deduction for the remaining 40% of the tax loss.
 Date of decision:
-         19 June 2006
+  19 June 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -79,7 +72,6 @@ Fletcher v. Federal Commissioner of Taxation    (1991) 173 CLR 1   91 ATC 
 
 Ronpibon Tin NL and Tongkah Compound NL v. Federal Commissioner of Taxation    (1949) 78 CLR 47   (1949) 8 ATD 431   (1949) 4 AITR 236
 
-
 Related ATO Interpretative Decisions
 
  ATO ID 2002/845
@@ -87,29 +79,25 @@ Related ATO Interpretative Decisions
 Keywords
 
 Tax loss
-          Losses
-          Company losses
-
+ Losses
+ Company losses
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         23 June 2006
+  23 June 2006
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 19 June 2006

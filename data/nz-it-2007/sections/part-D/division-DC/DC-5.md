@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No deduction without approval**
 
-**(1)**  A person is denied a deduction for a payment to their spouse, civil union partner, or de facto partner for services without the Commissioner’s approval.
+**(1)**  A person is denied a deduction for a payment to their spouse, civil union partner, or de facto partner for services without the Commissioner's approval.
 
 **When Commissioner can give consent**
 

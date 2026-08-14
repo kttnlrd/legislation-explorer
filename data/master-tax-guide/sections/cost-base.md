@@ -17,7 +17,7 @@ If it is necessary to calculate the cost base of a CGT asset where there is no C
 
 Elements of cost base The cost base of a CGT asset has 5 elements (s 110-25). Payments not falling within those elements, such as an agreement for payment of proﬁts, will not form part of the cost base (ZBFF 2021 ATC ¶10-562; [2021] AATA 275). The cost base is reduced by net input tax credits (see below).
 
-The cost base of a CGT asset acquired before 11.45 am EST on 21 September 1999 also includes indexation of the elements of the cost base (except the third element) if the requirements of Div 114 (¶11-610) are met, unless the taxpayer qualiﬁes for, and chooses to apply, the CGT discount rules (s 110-36). Deductible amounts and non-assessable recoupments are excluded from an asset’s cost base (see below).
+The cost base of a CGT asset acquired before 11.45 am EST on 21 September 1999 also includes indexation of the elements of the cost base (except the third element) if the requirements of Div 114 (¶11-610) are met, unless the taxpayer qualiﬁes for, and chooses to apply, the CGT discount rules (s 110-36). Deductible amounts and non-assessable recoupments are excluded from an asset's cost base (see below).
 
 First element: acquisition cost
 
@@ -30,9 +30,9 @@ First element: acquisition cost
 
   CGT asset (s 110-25(2)).
 
-The money paid or property given “in respect of acquiring” the asset does not necessarily have to be paid or given to the taxpayer that disposed of the CGT asset. It may be paid or given to an entity nominated by the taxpayer and still be included in the ﬁrst element of the asset’s cost base (TD 2003/1). Money paid may also include the amount of a liability extinguished under the doctrine of set-oﬀ (TD 2005/52). The cost base of an asset for CGT purposes includes the cost of liabilities assumed in acquiring the asset, but only to the extent that a deduction for an amount of that liability is not otherwise claimed when it is later discharged (TD 2022/14).
+The money paid or property given "in respect of acquiring" the asset does not necessarily have to be paid or given to the taxpayer that disposed of the CGT asset. It may be paid or given to an entity nominated by the taxpayer and still be included in the ﬁrst element of the asset's cost base (TD 2003/1). Money paid may also include the amount of a liability extinguished under the doctrine of set-oﬀ (TD 2005/52). The cost base of an asset for CGT purposes includes the cost of liabilities assumed in acquiring the asset, but only to the extent that a deduction for an amount of that liability is not otherwise claimed when it is later discharged (TD 2022/14).
 
-The value of a taxpayer’s own labour cannot be included in the cost base of an asset (TD 60). For money to be required to be paid, there must be a requirement for either an actual payment or, at least, a present obligation to pay a speciﬁc amount at some future date. It is not enough that an amount might become payable in the future upon the happening of some contingency (Dingwall 95 ATC 4345; [1995] FCA 1294).
+The value of a taxpayer's own labour cannot be included in the cost base of an asset (TD 60). For money to be required to be paid, there must be a requirement for either an actual payment or, at least, a present obligation to pay a speciﬁc amount at some future date. It is not enough that an amount might become payable in the future upon the happening of some contingency (Dingwall 95 ATC 4345; [1995] FCA 1294).
 
 The costs incurred by an initial shareholder in the formation of the company are not incurred in respect of the acquisition of the initial shares in that company and therefore are not included in the cost base of the shares held by the initial shareholder (ID 2009/1).
 
@@ -52,9 +52,9 @@ There are a number of incidental costs that may be incurred (s 110-35). These ar
 
 - remuneration for the services of a surveyor, valuer, auctioneer, accountant, broker, agent,
 
-  consultant or legal adviser, including costs incurred after the time of a CGT event, eg solicitor’s fees
+  consultant or legal adviser, including costs incurred after the time of a CGT event, eg solicitor's fees
 
-  and agent’s commission in relation to the sale of real estate that are incurred after the exchange of
+  and agent's commission in relation to the sale of real estate that are incurred after the exchange of
 
   contracts (TD 2017/10). Remuneration paid to a legal adviser as a result of an action for damages
 
@@ -92,7 +92,7 @@ There are a number of incidental costs that may be incurred (s 110-35). These ar
 
 The third element is the costs of owning an asset (but only if the asset was acquired after 20 August 1991) (s 110-25(4)). However, there is no third element for collectables or personal use assets.
 
-Costs of owning an asset consist of any expenditure incurred by a taxpayer to the extent to which it is incurred in connection with the continuing ownership of the asset. These costs include interest on money borrowed to acquire an asset, costs of maintaining, repairing and insuring an asset, rates and land tax, interest on money borrowed to reﬁnance the money borrowed to acquire an asset, and interest on any money borrowed to ﬁnance capital expenditure incurred to increase an asset’s value.
+Costs of owning an asset consist of any expenditure incurred by a taxpayer to the extent to which it is incurred in connection with the continuing ownership of the asset. These costs include interest on money borrowed to acquire an asset, costs of maintaining, repairing and insuring an asset, rates and land tax, interest on money borrowed to reﬁnance the money borrowed to acquire an asset, and interest on any money borrowed to ﬁnance capital expenditure incurred to increase an asset's value.
 
 The cost of obtaining a loan is not part of the cost base of the asset acquired, ie it is a cost which relates to the borrowing, not the asset ﬁnanced by the borrowing (TD 93/1).
 
@@ -104,11 +104,11 @@ However, it does not apply to capital expenditure incurred in relation to goodwi
 
 TD 98/23 details the inclusion of expenditure incurred by a lessee on capital improvements to a leased property. The cost of non-deductible initial repairs (¶16-700) incurred after the acquisition of an asset may be included in the fourth element of the cost base of an asset (TD 98/19).
 
-Fifth element: title costs The ﬁfth element is capital expenditure incurred to establish, preserve or defend the taxpayer’s title to the asset (s 110-25(6)). An amount of damages paid by a taxpayer to a potential purchaser upon the acceptance of the termination of contract to sell the asset following repudiation of the contract by the taxpayer may be included in the ﬁfth element of the cost base of that asset (ID 2008/147).
+Fifth element: title costs The ﬁfth element is capital expenditure incurred to establish, preserve or defend the taxpayer's title to the asset (s 110-25(6)). An amount of damages paid by a taxpayer to a potential purchaser upon the acceptance of the termination of contract to sell the asset following repudiation of the contract by the taxpayer may be included in the ﬁfth element of the cost base of that asset (ID 2008/147).
 
 Amounts not included in cost base Assets acquired after 7.30 pm on 13 May 1997 Expenditure does not form part of the cost base of an asset to the extent that the taxpayer can deduct it, eg interest, or to the extent that a non-assessable recoupment is received in respect of it (s 110-45). A non- contingent liability to pay an amount is excluded from the cost base where it has been deducted or can be deducted (TD 2022/14). Where a taxpayer has omitted to claim a deduction and the amendment period for claiming the deduction has expired, the cost base of the asset will not be reduced by the deduction that was previously available (TD 2005/47).
 
-An amount received pursuant to the First Home Owners Grant for building a home is excluded from the cost base of the property. Capital expenditure incurred by another entity, such as a previous owner, in respect of the asset which the taxpayer can deduct, eg under the capital works provisions of Div 43 (¶20-470), reduces the cost base of that asset. In certain circumstances the Commissioner will accept that the taxpayer cannot deduct an amount under Div 43 and is therefore not required to reduce the asset’s cost base (PS LA 2006/1 (GA)).
+An amount received pursuant to the First Home Owners Grant for building a home is excluded from the cost base of the property. Capital expenditure incurred by another entity, such as a previous owner, in respect of the asset which the taxpayer can deduct, eg under the capital works provisions of Div 43 (¶20-470), reduces the cost base of that asset. In certain circumstances the Commissioner will accept that the taxpayer cannot deduct an amount under Div 43 and is therefore not required to reduce the asset's cost base (PS LA 2006/1 (GA)).
 
 Expenditure does not form part of the cost base to the extent that heritage conservation expenditure or landcare and water facilities expenditure incurred after 12 November 1998 gives rise to a tax oﬀset. Where the beneﬁt of a deduction is eﬀectively reversed by a balancing adjustment, the relevant expenditure is increased. Similar rules apply to a partnership in which the taxpayer is a partner where expenditure is deductible or a recoupment is not assessable (s 110-50).
 

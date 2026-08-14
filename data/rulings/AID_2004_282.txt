@@ -3,21 +3,16 @@ ATO ID 2004/282
 ==================================================
 
 Income Tax
-        Exemption with progression: work related expenses relating to exempt foreign employment income
-        FOI status: may be released
-
+ Exemption with progression: work related expenses relating to exempt foreign employment income
+ FOI status: may be released
 
 This ATO ID has been amended to clarify its scope by the inclusion of the last sentence and Note.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are work related expenses incurred by a resident taxpayer that relate wholly to salary and wage income which is exempt under section 23AG of the Income Tax Assessment Act 1936 (ITAA 1936) taken into account in working out 'notional gross tax' and 'notional gross taxable income' under subsection 23AG(3) of the ITAA 1936?
@@ -34,12 +29,9 @@ The expenses would have been deductible under section 8-1 and section 40-25 of t
 Reasons for Decision
 Subsection 23AG(3) of the ITAA 1936 provides that where the income of a taxpayer of a year of income consists of an amount that is exempt from tax under section 23AG (the 'exempt amount') and other income, the amount of tax (if any) payable in respect of the other income is calculated using the formula:
 
-
 (Notional gross tax / Notional gross taxable income) * Other taxable income
 
 "Notional gross tax" means the number of whole dollars in the amount of income tax that would be assessed under this Act in respect of the taxpayer's taxable income of the year of income if:
-
-
 
 (a) the exempt amount were not exempt income; and
 (aa) if the exempt amount is an exempt resident foreign termination payment (within the meaning of Subdivision AA of Division 2) - the exempt amount (excluding any part of that amount that represented contributions made by the taxpayer) were assessable income of the taxpayer; and
@@ -52,8 +44,6 @@ Section 4-15 of the ITAA 1997 states that taxable income is assessable income le
 Subsection 995-1(1) of the ITAA 1997 defines a deduction as an amount that you can deduct. The term 'deduct' is further defined by subsection 995-1(1) of the ITAA 1997 as having the meaning given by sections 8-1 and 8-5 of the ITAA 1997.
 Section 8-1 of the ITAA 1997 states that you can deduct from your assessable income any loss or outgoing to the extent that:
 
-
-
 (a) it is incurred in gaining or producing your assessable income, or
 (b) it is necessarily incurred in carrying on a business for the purpose of gaining or producing your assessable income.
 
@@ -65,14 +55,13 @@ Section 6-15(2) of the ITAA 1997 states that if an amount is exempt income, it i
 The taxpayer has incurred expenses that cannot be deducted under section 8-1 and section 40-25 of the ITAA 1997 as the expenses wholly relate to the production of income that is exempt under section 23AG of the ITAA 1936. However, those expenses would have been deductible had the taxpayer's salary and wages been assessable income under subsection 6-5(2) of the ITAA 1997.
 Accordingly, the expenses may be deducted from the taxpayer's exempt salary and wages to determine the taxpayer's 'notional gross taxable income' and 'notional gross tax' for the purposes of working out the tax payable on the taxpayer's other assessable income under subsection 23AG(3) of the ITAA 1997.
 
-
 Note: New subsection 23AG(1AA) of the ITAA 1936, which applies to foreign earnings derived on or after 1 July 2009 from foreign service performed on or after 1 July 2009, now restricts the exemption to certain aid workers, charitable workers and government employees engaged in specific employment activities. The ATO ID should be followed having regard to that additional constraint.
 
 Date of decision:
-         19 January 2004
+  19 January 2004
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -82,22 +71,21 @@ Income Tax Assessment Act 1997   section 4-15   subsection 6-5(2)   sub
 Keywords
 
 Exempt income
-          Foreign income
-          Foreign income deductions
-          Foreign salary & wages
-          International tax
-          Salary & wages expenses
-          Salary & wages income
-
+ Foreign income
+ Foreign income deductions
+ Foreign salary & wages
+ International tax
+ Salary & wages expenses
+ Salary & wages income
 
 Siebel/TDMS Reference Number:
-         3816244
+  3816244
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         26 March 2004
+  26 March 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

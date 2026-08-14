@@ -3,23 +3,19 @@ ATO ID 2007/47
 ==================================================
 
 Income Tax
-        Classification of a German Kommanditgesellschaft for Australian income tax purposes
-        FOI status: may be released
-
-
+ Classification of a German Kommanditgesellschaft for Australian income tax purposes
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the German Kommanditgesellschaft (KG) a foreign hybrid limited partnership for the purposes of subsection 830-10(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes.  A German KG is a foreign hybrid limited partnership for the purposes of subsection 830-10(1) of the ITAA 1997.
+Yes. A German KG is a foreign hybrid limited partnership for the purposes of subsection 830-10(1) of the ITAA 1997.
 Facts
 German investors hold their interests in an Australian fund (the fund) through a German KG. The German investors own their interests in the German KG through a nominee company which holds the interests on behalf of the investors.
 The constitution of the German KG is executed in Germany in accordance with the German Commercial Code and will be governed by German commercial and tax law.
@@ -31,15 +27,11 @@ The trustee of the fund, an Australian taxpayer, holds a call option over the Ge
 Reasons for Decision
 Subsection 830-10(1) of the ITAA 1997 provides that a limited partnership is a foreign hybrid limited partnership in relation to an income year if:
 
-
-
 (a)it was formed in a foreign country; and
 (b)foreign tax is imposed under the law of the foreign country on the partners, not the limited partnership, in respect of the income or profits of the partnership for the income year; and
 (c)at no time during the income year is the limited partnership, for the purposes of a law of any foreign country that imposes foreign tax on entities because they are residents of the foreign country, a resident of that country; and
 (d)disregarding subsection 94D(5) of the Income Tax Assessment Act 1936, at no time during the income year is it an Australian resident; and
 (e)disregarding that subsection, in relation to the same income year of another taxpayer:
-
-
 
 (i)the limited partnership is a controlled foreign company (CFC) at the end of a statutory accounting period that ends in the income year; and
 (ii)at the end of the statutory accounting period, the taxpayer is an attributable taxpayer in relation to the CFC with an attribution percentage greater than nil.
@@ -64,10 +56,10 @@ Section 362 of the ITAA 1936 defines attribution percentage to be the aggregate 
 Therefore, paragraph 830-10(1)(e) of the ITAA 1997 is satisfied because, disregarding subsection 94D(5) of the ITAA 1936, the limited partnership is a CFC in relation to an Australian taxpayer and the Australian taxpayer is an attributable taxpayer with an attribution percentage of greater than nil in relation to the CFC.
 Accordingly, as all the requirements of subsection 830-10(1) of the ITAA 1997 are satisfied, the German KG is a foreign hybrid limited partnership for the purposes of subsection 830-10(1) of the ITAA 1997.
 Date of decision:
-         2 March 2007
+  2 March 2007
 
 Year of income:
-           Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009
+  Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009
 
 Legislative References:
 
@@ -89,20 +81,19 @@ Other References:
 Keywords
 
 Controlled foreign companies
-          Foreign hybrid limited partnership
-          Foreign hybrids
-          International tax
-          Limited partnerships
-
+ Foreign hybrid limited partnership
+ Foreign hybrids
+ International tax
+ Limited partnerships
 
 Siebel/TDMS Reference Number:
-         5519375
+  5519375
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         9 March 2007
+  9 March 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

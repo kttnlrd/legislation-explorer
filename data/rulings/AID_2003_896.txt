@@ -3,18 +3,14 @@ ATO ID 2003/896
 ==================================================
 
 Income Tax
-        Bank branching legislation: the application of section 160ZZZI
-        FOI status: may be released
-
-
+ Bank branching legislation: the application of section 160ZZZI
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxpayer, a foreign bank (Foreign Parent) entitled to a deduction under section 160ZZZI of Part IIIB of the Income Tax Assessment Act 1936 (ITAA 1936) for a payment made by an Australian branch of the foreign bank (Bank Branch) if the derivative contract or agreement under which the payment is made was first entered into by the bank through its head office or a branch outside Australia?
@@ -24,8 +20,6 @@ Facts
 Foreign Parent proposes to move its derivatives book from off-shore to Bank Branch in Australia.
 The reasons for such a transfer must be accepted as commercially sound by the Tax Office.
 Whilst Foreign Parent and Bank Branch are both part of the same legal entity, it would be expected that:
-
-
 
 (a)The 'transfer' of the derivative portfolio would be evidenced by a written agreement between the management of Foreign Parent and Bank Branch.
 (b)Each external counterparty would be notified that Bank Branch is now the counterparty to their relevant derivative contract.
@@ -53,10 +47,10 @@ It follows that section 160ZZZI of the ITAA 1936 should be not be interpreted in
 Consistent with this the expression 'transaction entered into ... that is a derivative transaction' in section 160ZZZI of the ITAA 1936 is to be interpreted as referring to each and every payment or receipt made under a derivative contract. On this interpretation, each and every payment made by an Australian branch will be excluded from the operation of section 160ZZZI of the ITAA 1936 on the basis that it is a '[derivative] transaction entered into by [the] foreign bank ... through its Australian branch'.
 This interpretation of the provision accords with the purposes underlying Part IIIB of the ITAA 1936.
 Date of decision:
-         24 September 2003
+  24 September 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -66,17 +60,16 @@ Acts Interpretation Act 1901   section 15AA
 Keywords
 
 Foreign banks
-          Financial derivatives
-
+ Financial derivatives
 
 Siebel/TDMS Reference Number:
-         3016137
+  3016137
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         3 October 2003
+  3 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

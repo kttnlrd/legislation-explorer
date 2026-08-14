@@ -20,19 +20,19 @@ compilation_date: 2026-06-06
 
 **Amount of tax on distribution**
 
-**(3)**  The amount of tax that gives rise to the credit must not be more than an amount calculated using the formula— (person’s taxable distribution ÷ total distribution) × foreign tax paid.
+**(3)**  The amount of tax that gives rise to the credit must not be more than an amount calculated using the formula— (person's taxable distribution ÷ total distribution) × foreign tax paid.
 
 **Definition of items in formula**
 
 **(4)**  In the formula in subsection (3),—
 
-- (a) person’s taxable distribution is the amount of the taxable distribution derived by the CFC, including a payment of tax that meets the requirements of subsection (2):
+- (a) person's taxable distribution is the amount of the taxable distribution derived by the CFC, including a payment of tax that meets the requirements of subsection (2):
 
 - (b) total distribution is the total amount of the distribution derived by the CFC, including a payment of tax that meets the requirements of subsection (2):
 
 - (c) foreign tax paid is the payment of tax that meets the requirements of subsection (2).
 
-**Amount of person’s credit**
+**Amount of person's credit**
 
 **(5)**  The amount of a credit of a person under this section is equal to an amount calculated using the formula— section EX 18 income interest × amount of tax.
 

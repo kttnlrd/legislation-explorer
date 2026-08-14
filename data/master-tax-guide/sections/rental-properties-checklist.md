@@ -7,7 +7,7 @@ paragraph: "¶44-107"
 ---
 # Rental properties checklist ¶44-107
 
-- Travel and other expenses (such as agents’ fees or the cost of newspapers) incurred during the
+- Travel and other expenses (such as agents' fees or the cost of newspapers) incurred during the
 
   process of searching for a suitable rental property to purchase are normally not deductible, and do
 
@@ -27,7 +27,7 @@ paragraph: "¶44-107"
 
   any loss deductible (¶10-340). Although the CGT provisions will also apply, any assessable capital
 
-  gain would be reduced by the income amount otherwise included in the taxpayer’s assessable
+  gain would be reduced by the income amount otherwise included in the taxpayer's assessable
 
   income (¶11-690).
 
@@ -43,13 +43,13 @@ paragraph: "¶44-107"
 
   improvement to a pre-CGT building, the building and the improvement may be treated as separate
 
-  assets if the improvement is “substantial” (¶11-410).
+  assets if the improvement is "substantial" (¶11-410).
 
 - If the taxpayer constructs a new rental property, certain costs will qualify for capital allowance at
 
   an annual rate of 2.5% (¶20-470).
 
-- Stamp duty on the transfer of a property forms part of the property’s CGT cost base (¶11-550).
+- Stamp duty on the transfer of a property forms part of the property's CGT cost base (¶11-550).
 
 - Certain expenditure incurred in connection with the continuing ownership of the property may be
 
@@ -67,7 +67,7 @@ paragraph: "¶44-107"
 
 - If a rental property is owned by an individual taxpayer and has at some stage also been used
 
-  as the taxpayer’s “main residence”, the taxpayer may be entitled to a partial CGT exemption
+  as the taxpayer's "main residence", the taxpayer may be entitled to a partial CGT exemption
 
 (¶11-760). However, this exemption is not available if the individual is a non-resident at the time of sale (¶11-750).
 
@@ -93,7 +93,7 @@ paragraph: "¶44-107"
 
   taxpayer will only be assessable on rent that is actually received in the year of income (¶9-050).
 
-- If a taxpayer’s entitlement to retain prepaid rental amounts is irrevocable, the prepayment is
+- If a taxpayer's entitlement to retain prepaid rental amounts is irrevocable, the prepayment is
 
   assessable in the year of receipt. If the entitlement to retain the prepayment is conditional, it may
 
@@ -123,7 +123,7 @@ paragraph: "¶44-107"
 
 - Expenses incurred by a taxpayer for the purpose of deriving assessable rental income are
 
-  normally deductible. These include documentation and legal expenses, advertising, agents’
+  normally deductible. These include documentation and legal expenses, advertising, agents'
 
   fees and administrative expenses, insurance, council and water rates, land tax and strata body
 
@@ -157,7 +157,7 @@ paragraph: "¶44-107"
 
   were purchased and installed by a previous owner (¶17-040, ¶16-650).
 
-- A “balancing adjustment” may be required when the taxpayer stops holding a depreciating asset.
+- A "balancing adjustment" may be required when the taxpayer stops holding a depreciating asset.
 
 The adjustment is generally based on the diﬀerence between the value of the asset when the taxpayer stops holding it and its adjustable value (¶17-630).
 

@@ -7,9 +7,9 @@ paragraph: "None"
 ---
 # 1-280 - Alienation of personal services income
 
-Worked example: Alienation of personal services income Issue Robert Richmond was employed by Roads North Ltd (RN) as an engineer to assist in the development of a major road infrastructure project. In July 2024, Robert’s employment was terminated, and he was subsequently re-engaged as an independent contractor.
+Worked example: Alienation of personal services income Issue Robert Richmond was employed by Roads North Ltd (RN) as an engineer to assist in the development of a major road infrastructure project. In July 2024, Robert's employment was terminated, and he was subsequently re-engaged as an independent contractor.
 
-In September 2024, Robert incorporated a company named Richmond Engineering Pty Ltd (REPL). Robert and his wife Vivien are the company’s directors and shareholders. REPL purchased a car and contracted with RN to provide the services previously supplied by Robert as an employee. During the 2024–25 income year, RN was the only client of REPL.
+In September 2024, Robert incorporated a company named Richmond Engineering Pty Ltd (REPL). Robert and his wife Vivien are the company's directors and shareholders. REPL purchased a car and contracted with RN to provide the services previously supplied by Robert as an employee. During the 2024–25 income year, RN was the only client of REPL.
 
 The income and expenditure of REPL for 2024–25 were as follows:
 
@@ -31,13 +31,13 @@ Advise Robert as to his income tax position for 2024–25 and how he should mana
 
 Solution The PSI regime contained in ITAA97 Divs 84 to 87 was enacted to prevent individuals reducing their assessable income and tax payable by alienating their PSI to an associated entity (company, partnership or trust) or another individual and/or claiming deductions for certain losses and outgoings not available to employees.
 
-For tax purposes, “personal services income” is mainly a reward for an individual’s personal skill and effort, regardless of whether it is income of a personal services entity (PSE) (s 84-5), for example wages and salaries paid under a contract principally for the labour or services of an individual. Whether income is PSI is a question of fact depending on the circumstances (Taxation Ruling TR 2022/3). An individual’s PSI derived through a PSE is included in the assessable income of the individual, that is, it is “attributed to” the individual (s 86-15(1)). A PSE is a company, partnership or trust whose ordinary or statutory income includes the PSI of one or more individuals (s 86-15(2)).
+For tax purposes, "personal services income" is mainly a reward for an individual's personal skill and effort, regardless of whether it is income of a personal services entity (PSE) (s 84-5), for example wages and salaries paid under a contract principally for the labour or services of an individual. Whether income is PSI is a question of fact depending on the circumstances (Taxation Ruling TR 2022/3). An individual's PSI derived through a PSE is included in the assessable income of the individual, that is, it is "attributed to" the individual (s 86-15(1)). A PSE is a company, partnership or trust whose ordinary or statutory income includes the PSI of one or more individuals (s 86-15(2)).
 
-The PSI attribution provisions do not apply if the income of the PSE is derived from conducting a “personal services business” (PSB) (s 86-15(3)).
+The PSI attribution provisions do not apply if the income of the PSE is derived from conducting a "personal services business" (PSB) (s 86-15(3)).
 
-Since Robert is providing professional services through a PSE, that is REPL, he is subject to the PSI tax regime. Although, on face value, he received during 2024–25 the salary of $50,000 paid by REPL and draftsman’s wages of $25,000, the PSI provisions would apply. As a result, the income of $180,000 derived by REPL would be attributed to Robert and constitute his assessable income, subject to any deductions that he would be entitled to.
+Since Robert is providing professional services through a PSE, that is REPL, he is subject to the PSI tax regime. Although, on face value, he received during 2024–25 the salary of $50,000 paid by REPL and draftsman's wages of $25,000, the PSI provisions would apply. As a result, the income of $180,000 derived by REPL would be attributed to Robert and constitute his assessable income, subject to any deductions that he would be entitled to.
 
-Robert’s PSI will be reduced by losses or outgoings to which REPL would be entitled had Robert been entitled to the deductions as an employee (Div 85). On the facts stated, the allowable deductions are:
+Robert's PSI will be reduced by losses or outgoings to which REPL would be entitled had Robert been entitled to the deductions as an employee (Div 85). On the facts stated, the allowable deductions are:
 
 - $6,000 — car expenses, and
 
@@ -45,15 +45,15 @@ Robert’s PSI will be reduced by losses or outgoings to which REPL would be ent
 
 Section 86-60 places Robert in the shoes of the PSE (REPL) and disallows a deduction to Robert unless he can claim a deduction in circumstances that are identical to those of REPL.
 
-A payment or an amount incurred, arising from an obligation to an associate, is not deductible to the extent the payment or amount relates to gaining or producing the individual’s personal services income, unless the payment made or the amount incurred is in relation to the performance of principal work (s 85-20). In this instance, “principal work” would be the provision of engineering services. Payments for accounting and secretarial work are not principal work and therefore the $30,000 paid to Vivien is not an allowable deduction (but nor is it taxable income to Vivian).
+A payment or an amount incurred, arising from an obligation to an associate, is not deductible to the extent the payment or amount relates to gaining or producing the individual's personal services income, unless the payment made or the amount incurred is in relation to the performance of principal work (s 85-20). In this instance, "principal work" would be the provision of engineering services. Payments for accounting and secretarial work are not principal work and therefore the $30,000 paid to Vivien is not an allowable deduction (but nor is it taxable income to Vivian).
 
-Similarly, where an associate is engaged in producing assessable income that is personal services income, and the work performed is solely non-principal work, and a superannuation contribution is made wholly in respect of that work, no deduction is allowable for the contribution (s 85-25). In this case, the provision of accounting and secretarial services is non-principal work so a deduction for the $15,000 superannuation contributions made by REPL on Vivien’s behalf is not allowed.
+Similarly, where an associate is engaged in producing assessable income that is personal services income, and the work performed is solely non-principal work, and a superannuation contribution is made wholly in respect of that work, no deduction is allowable for the contribution (s 85-25). In this case, the provision of accounting and secretarial services is non-principal work so a deduction for the $15,000 superannuation contributions made by REPL on Vivien's behalf is not allowed.
 
-Therefore, Robert’s taxable income would include the $180,000 PSI of REPL less the allowable deductions of $21,000 = $159,000.
+Therefore, Robert's taxable income would include the $180,000 PSI of REPL less the allowable deductions of $21,000 = $159,000.
 
 To avoid the operation of the PSI regime in 2025–26, Robert would need to carry on a PSB. A PSB exists if:
 
-- the “results test” is satisfied (s 87-18)
+- the "results test" is satisfied (s 87-18)
 
 - the 80% rule and any of the PSB tests (unrelated clients, employment or business premises test) are
 

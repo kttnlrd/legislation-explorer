@@ -3,23 +3,18 @@ ATO ID 2004/663
 ==================================================
 
 Income tax
-        CGT small business concessions: discretionary trust - control test - deductible gift recipients - exempt entities
-        FOI status: may be released
+ CGT small business concessions: discretionary trust - control test - deductible gift recipients - exempt entities
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as the ATO view on this matter is now reflected in the publication  Advanced guide to capital gains tax concessions for small business.
+This ATO ID is withdrawn as the ATO view on this matter is now reflected in the publication Advanced guide to capital gains tax concessions for small business.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a 'deductible gift recipient' control a discretionary trust under subsection 152-30(5) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -28,8 +23,6 @@ No. Even if the 'deductible gift recipient' did receive a distribution of income
 Facts
 In July 2004, a family discretionary trust sold the business it had conducted for a number of years and realised a capital gain on the sale of the business premises. The deed of the trust specifies a number of beneficiaries, all of which are eligible to receive the income or capital of the trust.
 The discretionary trust made the following net income from its business operations in each of the years ended:
-
-
 
 30 June 2004
 $20,000
@@ -44,8 +37,6 @@ $10,000
 $5,000
 
 The trust made distributions of its net income to a 'deductible gift recipient' in terms of section 30-227 of the ITAA 1997, as follows:
-
-
 
 30 June 2004
 $3,000
@@ -64,11 +55,7 @@ Reasons for Decision
 Subsection 152-30(5) in Division 152 of the ITAA 1997 states that:
 An entity (the first entity) controls a discretionary trust if, for any of the 4 income years before the income year for which relief is sought for a *CGT event under this Division:
 
-
-
 (a)the trustee paid to, or applied for the benefit of:
-
-
 
 (i)the first entity; or
 (ii)one or more of the first entity's *small business CGT affiliates; or
@@ -81,8 +68,6 @@ However subsection 152-30(6) of the ITAA 1997 states:
 
 An entity does not control a discretionary trust because of subsection (5) if the entity is:
 
-
-
 (a)an *exempt entity; or
 (b)a *deductible gift recipient.
 
@@ -90,10 +75,10 @@ Although the deductible gift recipient did receive a distribution in excess of 4
 Note 1: The above control test applies to CGT events happening after 11.45am, by legal time in the Australian Capital Territory, on 21 September 1999. However, transitional rules apply for CGT events that happened before the end of the 2004 income year, where a taxpayer can choose to apply the previous control test for discretionary trusts (with the modification that assets of the potential beneficiaries that are exempt entities or deductible gift recipients do not need to be taken into account).
 Note 2: The control test is further modified for the 2000, 2001 and 2002 income years so that the test is based on actual distributions made in the income year for which access to the small business CGT concession is sought and not the actual distributions made in any of the four income years before the income year for which access to small business CGT concession is sought.
 Date of decision:
-         20 July 2004
+  20 July 2004
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -107,38 +92,34 @@ Related ATO Interpretative Decisions
 Keywords
 
 Basic conditions for relief
-          Beneficiaries
-          Capital gains
-          Capital gains tax
-          CGT small business relief
-          Control test
-          Deductible gift recipients
-          Discretionary trusts
-          Distributions
-          Exempt entities
-          Pattern of distribution test
-          Trust distributions
-
+ Beneficiaries
+ Capital gains
+ Capital gains tax
+ CGT small business relief
+ Control test
+ Deductible gift recipients
+ Discretionary trusts
+ Distributions
+ Exempt entities
+ Pattern of distribution test
+ Trust distributions
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         13 August 2004
+  13 August 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 20 July 2004

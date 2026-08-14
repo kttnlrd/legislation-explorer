@@ -3,23 +3,18 @@ ATO ID 2002/87
 ==================================================
 
 Goods and Services Tax
-        GST and adjustment events where representative makes a refund for defective goods supplied by an incapacitated entity
-        FOI status: may be released
-
+ GST and adjustment events where representative makes a refund for defective goods supplied by an incapacitated entity
+ FOI status: may be released
 
 This ATO ID is a straight application of the legislation and is not an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, a representative of an incapacitated entity, have an adjustment under section 19-40 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it makes a refund for defective goods supplied by the incapacitated entity?
@@ -33,15 +28,11 @@ Both entities are registered for GST.
 Reasons for Decision
 Under section 19-40 of the GST Act, an entity has an adjustment for a supply for which it is liable to pay GST if:
 
-
-
 •in relation to the supply, one or more adjustment events occur during a tax period;
 •GST on the supply was attributable to an earlier tax period; and
 •as a result of those adjustment events, the previously attributed GST amount for the supply no longer correctly reflects the amount of GST on the supply, taking into account any change of circumstances that has given rise to an adjustment for the supply.
 
 According to section 19-10 of the GST Act, an adjustment event is any event which has the effect of:
-
-
 
 •cancelling a supply or acquisition;
 •changing the consideration for a supply or acquisition; or
@@ -53,8 +44,6 @@ The correct amount of GST for the supply is less than the previously attributed 
 However, it is necessary to determine which entity, the representative entity or the incapacitated entity, has the adjustment.
 Subsection 147-20(1) of the GST Act provides that if a decreasing adjustment:
 
-
-
 •relates to a supply, acquisition or importation made before a representative of an incapacitated entity was appointed; and
 •arises after that appointment;
 •the decreasing adjustment is to be treated as if:
@@ -64,7 +53,7 @@ Subsection 147-20(1) of the GST Act provides that if a decreasing adjustment:
 Although the adjustment arises after the entity's appointment as the representative of the incapacitated entity, the adjustment relates to a supply of the defective goods that was made prior to the entity being appointed representative of the incapacitated entity.
 According to subsection 147-20(1) of the GST Act, the incapacitated entity has the adjustment. Therefore, the representative entity does not have an adjustment under section 19-40 of the GST Act when it makes a refund for defective goods supplied by the incapacitated entity.
 Date of decision:
-         27 November 2001
+  27 November 2001
 
 Legislative References:
 
@@ -73,29 +62,25 @@ A New Tax System (Goods and Services Tax) Act 1999   section 19-10   secti
 Keywords
 
 Goods & services tax
-          GST special rules
-          Representative of incapacitated entities
-
+ GST special rules
+ Representative of incapacitated entities
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         30 January 2002
+  30 January 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 27 November 2001

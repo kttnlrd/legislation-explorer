@@ -27,13 +27,13 @@ Under a conditional contract, income is assessable to the seller on accepting th
 
 Insurance premium income.
 
-See IT 2663 for the Commissioner’s views on treatment of premiums arising from general insurance contracts that straddle income years.
+See IT 2663 for the Commissioner's views on treatment of premiums arising from general insurance contracts that straddle income years.
 
 Lay-by.
 
-See TR 95/7. Although less common than in the past, in the absence of speciﬁc ATO guidance, the ruling may oﬀer some guidance regarding treatment of more contemporary “post-pay” arrangements.
+See TR 95/7. Although less common than in the past, in the absence of speciﬁc ATO guidance, the ruling may oﬀer some guidance regarding treatment of more contemporary "post-pay" arrangements.
 
-Manufacturers’ credits on aircraft purchases.
+Manufacturers' credits on aircraft purchases.
 
 See TR 96/6.
 
@@ -47,11 +47,11 @@ Where a pharmacist returns income on an accruals basis, income from the supply o
 
 Primary production income.
 
-Where a primary producer delivers produce for disposal under a marketing scheme such as a co-operative pool, income is derived when a debt for an ascertainable sum arises (¶18-030). For the Commissioner’s views on when the proceeds of wheat and grain sales are assessable, see TR 2001/1 and TR 2001/5 (¶18-030).
+Where a primary producer delivers produce for disposal under a marketing scheme such as a co-operative pool, income is derived when a debt for an ascertainable sum arises (¶18-030). For the Commissioner's views on when the proceeds of wheat and grain sales are assessable, see TR 2001/1 and TR 2001/5 (¶18-030).
 
 Trading stock discounts.
 
-Where trading stock is sold under an arrangement that provides for a prompt payment discount (eg 5% discount on invoice price if paid within 30 days), income is assessable to the seller at the time of sale for the full invoice price. If the discount is subsequently accepted, then the diﬀerence between the invoice price and the discounted price is deductible at the time payment is received. Where the discount is taken up at the time of sale, such as cash discounts, trade discounts and quantity or bulk discounts, only the discounted price is assessable at that time (TR 96/20). This treatment of trading stock discount still applies where the discount is dealt with at the buyer’s instruction (TD 96/45). The High Court decision in Ballarat Brewing (1951) 9 ATD 254; (1951) 82 CLR 364 suggests that only the discounted price should be recognised at the time of sale where receipt of the discount is virtually certain.
+Where trading stock is sold under an arrangement that provides for a prompt payment discount (eg 5% discount on invoice price if paid within 30 days), income is assessable to the seller at the time of sale for the full invoice price. If the discount is subsequently accepted, then the diﬀerence between the invoice price and the discounted price is deductible at the time payment is received. Where the discount is taken up at the time of sale, such as cash discounts, trade discounts and quantity or bulk discounts, only the discounted price is assessable at that time (TR 96/20). This treatment of trading stock discount still applies where the discount is dealt with at the buyer's instruction (TD 96/45). The High Court decision in Ballarat Brewing (1951) 9 ATD 254; (1951) 82 CLR 364 suggests that only the discounted price should be recognised at the time of sale where receipt of the discount is virtually certain.
 
 Salary and wages Salary and wages are generally derived when received, whether the amount is payment for current or past services. Back pay, arrears of pay that accrue during a period of suspension, retrospective award increases, lump sum workers compensation arrears and special bonuses are all assessable in the year of receipt (but a special rebate operates to limit the tax payable on such payments: ¶15-350).
 
@@ -63,11 +63,11 @@ Professional fees A professional person returning income on the accruals basis (
 
 This means, a professional person using the accruals basis need not bring anything into account as assessable income in respect of incomplete work or work in progress unless the contract provides for periodical accounts to be rendered for partially completed work. For the tax treatment of payments for work in progress where a professional partnership is reconstituted, see ¶5-070.
 
-Doctors’ fees collected from patients by a hospital as agent for the doctor are derived in the year they are paid by the patient, notwithstanding that they are not actually received by the doctor until a later year (Case T44 86 ATC 366).
+Doctors' fees collected from patients by a hospital as agent for the doctor are derived in the year they are paid by the patient, notwithstanding that they are not actually received by the doctor until a later year (Case T44 86 ATC 366).
 
 Management/service fees Management/service fees are derived when a recoverable debt is created, which can be several years after the relevant costs have been incurred (Lee McKeand 2005 ATC 2222; [2005] AATA 650).
 
-In Business Research Management 2008 ATC ¶20-065; [2008] FCA 1652, management fees were “paid” to the taxpayer in a “round robin” series of paper transactions. The transactions involved limited recourse loans from a related party of the taxpayer to investors. Corresponding amounts were on-paid to the taxpayer as management fees and paid back to the related party by the taxpayer as deposits. To the extent that the related party did not recover the limited recourse portions of the loans, the taxpayer would not recover its deposits, as the related party had no other funds. The taxpayer was held to have derived the entire amount of the management fees referable to the year in question at the time of the round robin transactions, notwithstanding failure of the project and the investors never repaying the limited recourse portions of the loans.
+In Business Research Management 2008 ATC ¶20-065; [2008] FCA 1652, management fees were "paid" to the taxpayer in a "round robin" series of paper transactions. The transactions involved limited recourse loans from a related party of the taxpayer to investors. Corresponding amounts were on-paid to the taxpayer as management fees and paid back to the related party by the taxpayer as deposits. To the extent that the related party did not recover the limited recourse portions of the loans, the taxpayer would not recover its deposits, as the related party had no other funds. The taxpayer was held to have derived the entire amount of the management fees referable to the year in question at the time of the round robin transactions, notwithstanding failure of the project and the investors never repaying the limited recourse portions of the loans.
 
 Interest Interest is generally not derived until it has been received or the debt for interest has in some way been discharged. Subject to the following exceptions, TR 98/1 espouses the cash basis as appropriate for determining income derived from investments: Money lending business.
 
@@ -101,7 +101,7 @@ Where an amount under a contract is retained under a retention clause such that 
 
 Neither the completed contracts basis (under which the bringing of proﬁts or losses into account is deferred until completion of the contract) nor the emerging proﬁts basis are acceptable methods of tax accounting for long-term construction contracts (Grollo Nominees 97 ATC 4585; [1997] FCA 659; TR 2018/3).
 
-Rent Rent is generally derived for tax purposes when it is received. Where “rent” for a whole term is payable in advance, reference is required to be made to the lease agreement (and any other relevant factors) to determine whether it is derived when received, or week-by-week over the term of the lease.
+Rent Rent is generally derived for tax purposes when it is received. Where "rent" for a whole term is payable in advance, reference is required to be made to the lease agreement (and any other relevant factors) to determine whether it is derived when received, or week-by-week over the term of the lease.
 
 Taxable income from chattel leases.
 

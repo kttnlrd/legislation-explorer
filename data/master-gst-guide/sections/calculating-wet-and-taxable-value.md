@@ -7,7 +7,7 @@ paragraph: "¶22-280"
 ---
 # Calculating WET and taxable value ¶22-280
 
-Wine equalisation tax applies where there is a “taxable dealing” in wine. A taxable dealing is an “assessable dealing” which does not qualify for an exemption (WET Act, s 5-5).
+Wine equalisation tax applies where there is a "taxable dealing" in wine. A taxable dealing is an "assessable dealing" which does not qualify for an exemption (WET Act, s 5-5).
 
 The tax is calculated as 29% of the taxable value of the dealing.
 
@@ -41,7 +41,7 @@ Assessable dealing                                           Taxable value Whole
 
 importation value (¶9-005) Royalty-inclusive AOU (AD3d and AD13d)                       The amount that would be the notional wholesale purchase price if the manufacturer/importer had incurred the eligible royalty costs Removal of airport shop wine (AD4b and                       The price for which the wine was purchased by the relevant traveller AD14b) Local entry of imported wine (AD10)                          The GST importation value (¶9-005), excluding WET Example Swillo Winery sells five cases of its wine to a bottle shop. The GST-exclusive price is $120 a case. This is a wholesale sale and WET therefore applies.
 
-Price of wine:                                            5 × $120                                     600.00 WET:                                                      29% × $600                                   174.00 774.00 Plus GST:                                                 10% × $774                                   77.40 Total wholesale price                                                                                  $851.40 Calculating “price” The price means any payment (or act or forbearance) for the wine, whether expressed in monetary or non- monetary terms. To the extent that the consideration is expressed in non-monetary terms, it means the market value (GST Act, s 9-15; 9-75).
+Price of wine:                                            5 × $120                                     600.00 WET:                                                      29% × $600                                   174.00 774.00 Plus GST:                                                 10% × $774                                   77.40 Total wholesale price                                                                                  $851.40 Calculating "price" The price means any payment (or act or forbearance) for the wine, whether expressed in monetary or non- monetary terms. To the extent that the consideration is expressed in non-monetary terms, it means the market value (GST Act, s 9-15; 9-75).
 
 *Refs: s 9-15*
 
@@ -55,7 +55,7 @@ Price of wine:                                            5 × $120             
 
 - the price is net of trade discounts, volume rebates and settlement discounts
 
-- in the case of a purchase at an auction, the price does not include any buyer’s premium
+- in the case of a purchase at an auction, the price does not include any buyer's premium
 
 - the price includes an amount representing a container deposit (WET Ruling WETR 2009/1).
 
@@ -69,7 +69,7 @@ Example A gourmet food hamper containing wine is sold by wholesale for the GST-e
 
 The Commissioner considers that if the total price for the package of goods represents a discount on the prices of the goods considered separately, the discount should be apportioned pro rata between the goods (WET Ruling WETR 2009/1).
 
-Arm’s length transaction assumed If the price paid for wine is below the price that one would expect to pay under a commercial transaction conducted at arm’s length, the price of that sale will be recalculated so that the sale is treated as if it was conducted at arm’s length (WET Act, s 27-10). This could apply, for example, to sales to staff, shareholders, related entities or growers at discounted prices.
+Arm's length transaction assumed If the price paid for wine is below the price that one would expect to pay under a commercial transaction conducted at arm's length, the price of that sale will be recalculated so that the sale is treated as if it was conducted at arm's length (WET Act, s 27-10). This could apply, for example, to sales to staff, shareholders, related entities or growers at discounted prices.
 
 *Refs: s 9-65), s 27-15), s 27-10)*
 

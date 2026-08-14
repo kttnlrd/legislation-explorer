@@ -1,0 +1,52 @@
+---
+country: "Chile"
+country_slug: "chile"
+treaty_schedule: 53
+article: 15
+title: "Article 15 — Income from Employment"
+---
+# Article 15 — Income from Employment
+Chilean Convention
+CONVENTION BETWEEN AUSTRALIA AND THE REPUBLIC OF CHILE FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND FRINGE BENEFITS AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+CHAPTER III 
+-
+ TAXATION OF INCOME
+Income from Employment
+1.
+Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+2.
+Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
+a)
+the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve month period commencing or ending in the income year of that other State, and
+b)
+the remuneration is paid by, or on behalf of, a person being an employer who is not a resident of the other State, and
+c)
+the remuneration is not borne by a permanent establishment or a fixed base which that employer has in the other State.
+3.
+Notwithstanding the preceding provisions of this Article, remuneration derived by a resident of a Contracting State in respect of an employment exercised aboard a ship or aircraft operated in international traffic shall be taxable only in that State.
+4.
+Where, except for the application of this paragraph, a fringe benefit is taxable in both Contracting States the benefit will be taxable only in the Contracting State that has the sole or primary taxing right in accordance with paragraphs 1, 2 or 3 of this Article in respect of salary or wages from the employment to which the benefit relates.
+5.
+For the purposes of this Article:
+a)
+"
+fringe benefit
+"
+ includes a benefit provided to an employee or to an associate of an employee by:
+(i)
+an employer;
+(ii)
+an associate of an employer; or
+(iii)
+a person under an arrangement between that person and the employer, associate of an employer or another person in respect of the employment of that employee,
+and includes an accommodation allowance or housing benefit so provided but does not include a benefit arising from the acquisition of an option over shares under an employee share scheme;
+b)
+a Contracting State has a 
+"
+primary taxing right
+"
+ to the extent that a taxing right in respect of salary or wages from the relevant employment is allocated to that State in accordance with paragraphs 1, 2 or 3 of this Article and the other Contracting State is required to provide relief for the tax imposed in respect of such remuneration by the first-mentioned State.

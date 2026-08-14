@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 - (d) an investment in securities issued under any general or special statutory authority by a local authority, public utility, harbour board, drainage board, or transport board:
 
-- (e) an investment in a deposit with, or securities issued by, a trustee bank’s successor company:
+- (e) an investment in a deposit with, or securities issued by, a trustee bank's successor company:
 
 - (f) an investment in securities issued by Kāinga Ora–Homes and Communities:
 

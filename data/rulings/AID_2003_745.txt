@@ -3,21 +3,16 @@ ATO ID 2003/745
 ==================================================
 
 Income Tax
-        CGT small business relief: maximum net asset value test - 'just before' the CGT event - immediately before
-        FOI status: may be released
-
+ CGT small business relief: maximum net asset value test - 'just before' the CGT event - immediately before
+ FOI status: may be released
 
 This ATO ID was amended by adding the note to the Reasons for decision so as to clarify legislative changes made by the Tax Laws Amendment (Small Business) Act 2007 which applies to CGT events happening in the 2007-08 income year and later income years.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If the net value of the CGT assets of the taxpayer (and other relevant entities) increased from less than $5 million to more than $5 million on the same day as, but prior to, a CGT event happening, does the taxpayer satisfy the maximum net asset value test in section 152-15 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -34,14 +29,13 @@ Under subsection 152-20(1) of the ITAA 1997 the net value of the CGT assets of a
 In this case, there was an increase in the market value of some of the taxpayer's CGT assets on the same day as, but prior to, the CGT event. The net value of the taxpayer's CGT assets increased and as a result exceeded the $5 million threshold immediately before the CGT event.
 The taxpayer therefore does not satisfy the maximum net asset value test 'just before' the CGT event.
 
-
 Note : For CGT events happening in the 2007/08 income year and later income years, section 152-15 of the ITAA 1997 has been amended by the Tax Laws Amendment (Small Business) Act 2007 to increase the amount of the maximum net asset value test to $6 million. For those income years a taxpayer would fail the maximum net asset value test in section 152-15 of the ITAA 1997 where the net value of the CGT assets of the taxpayer (and other relevant entities) was $6,000,000 or below on the morning of the day in which the contract for sale of an active asset was entered into but had increased to over $6,000,000 just before the taxpayer entered into the contract.
 
 Date of decision:
-         26 June 2003
+  26 June 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -51,20 +45,19 @@ Income Tax Assessment Act 1997   section 152-15   subsection 152-20(1)
 Keywords
 
 Basic conditions for relief
-          Capital gains tax
-          CGT events
-          CGT small business relief
-          Maximum net asset value test
-
+ Capital gains tax
+ CGT events
+ CGT small business relief
+ Maximum net asset value test
 
 Siebel/TDMS Reference Number:
-         3567705
+  3567705
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         22 August 2003
+  22 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -11,4 +11,4 @@ Most businesses are entitled to fuel tax credits in accordance with the Fuel Tax
 
 Fuel tax credits are administered by the ATO, and aspects such as registration and accounting periods are similar to those applying for GST (¶34-000). The credits are claimed on the Business Activity Statement (BAS) in a similar way to input tax credits.
 
-Fuel tax credits are assessable income, and should be disclosed in the tax return as “Assessable government industry payments”. They are also treated as instalment income for the purpose of calculating PAYG instalments. Fuel tax credits are not subject to GST.
+Fuel tax credits are assessable income, and should be disclosed in the tax return as "Assessable government industry payments". They are also treated as instalment income for the purpose of calculating PAYG instalments. Fuel tax credits are not subject to GST.

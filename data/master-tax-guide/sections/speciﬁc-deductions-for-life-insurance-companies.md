@@ -19,7 +19,7 @@ paragraph: "¶3-510"
 
   that provide participating beneﬁts or discretionary beneﬁts, exempt life insurance policies, FHSAs
 
-  and funeral policies (ITAA97 s 320-85). The net risk component is so much of the policy’s risk
+  and funeral policies (ITAA97 s 320-85). The net risk component is so much of the policy's risk
 
   component as is not reinsured
 

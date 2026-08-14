@@ -25,7 +25,7 @@ Farm-out arrangements Where CGT event A1 arises as a result of disposal of part 
 
 Where CGT event C2 arises as a result of an exploration beneﬁt being provided to a taxpayer under a farm-in, farm-out arrangement, for calculating the capital proceeds for the event the market value of the exploration beneﬁt is treated as zero (s 116-115(2)).
 
-Look-though earnout rights Where a sale of business assets involves a “look-through earnout right” (¶11-675) the capital proceeds that the seller receives for those assets:
+Look-though earnout rights Where a sale of business assets involves a "look-through earnout right" (¶11-675) the capital proceeds that the seller receives for those assets:
 
 - excludes the value of the right
 

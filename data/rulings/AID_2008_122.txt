@@ -3,18 +3,14 @@ ATO ID 2008/122
 ==================================================
 
 Income Tax
-        Consolidations:  a company interposed between the shareholders and the head companies of two separate consolidated groups
-        FOI status: may be released
-
-
+ Consolidations: a company interposed between the shareholders and the head companies of two separate consolidated groups
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a new shelf company, interposed above two companies each of which is the head company of a separate consolidated group, make a choice under subsection 124-380(5) if the Income Tax Assessment Act 1997 (ITAA 1997) to continue the existence of two consolidated groups as a single consolidated group, after the interposition?
@@ -33,8 +29,6 @@ Subsection 124-380(5) of the ITAA 1997 requires:
 
 If:
 
-
-
 (a)immediately before the completion time, the original company is the *head company of a *consolidated group; and
 (b)immediately after the completion time, the interposed company is the head company of a *consolidatable group consisting only of itself and the *members of the group immediately before the completion time
 
@@ -51,10 +45,10 @@ The interposition above two consolidated groups is a substantial change and woul
 In a circumstance where there is a reorganisation of the affairs of two companies, each being the head company of a consolidated group, a choice cannot be made to continue the existence of both consolidated groups as a new single consolidated group. Each of the consolidated groups will cease to exist when the respective head companies cease to be head companies (paragraph 703-5(2)(a) of the ITAA 1997).
 X Co cannot make a choice under subsection 124-380(5) of the ITAA 1997 because the conditions in subsection 124-380(5) for making the choice are not met. The members of the consolidatable group of which X Co is the head company after the interposition do not consist of either only X Co and the members of the consolidated group CG1, or only X Co and the members of consolidated group CG2. Both consolidated groups CG1 and CG2 will cease to exist when their respective head companies, A Co and B Co, cease to be head companies.
 Date of decision:
-         30 July 2008
+  30 July 2008
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -62,7 +56,6 @@ Act Interpretation Act 1901   section 23
 Income Tax Assessment Act 1997   Subdivision 124-G   section 124-360   subsection 124-380(5)   subsection 124-380(6)   Part 3-90   paragraph 703-5(2)(a)   section 703-65   section 703-70   section 703-75   section 703-80
 
 Case References:
-
 
 Blue Metal Industries Limited v. Dilley and Anor   (1969) 117 CLR 651
 
@@ -77,25 +70,23 @@ Related ATO Interpretative Decisions
 
 Other References:
 
-Chapter 2 -  Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.1) 2002
-
+Chapter 2 - Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.1) 2002
 
 Keywords
 
 Consolidation
-          Consolidated group
-          CGT roll-over relief
-          CGT exchange of shares in one company for shares in another company (124-G)
-
+ Consolidated group
+ CGT roll-over relief
+ CGT exchange of shares in one company for shares in another company (124-G)
 
 Siebel/TDMS Reference Number:
-         6067364
+  6067364
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         26 September 2008
+  26 September 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

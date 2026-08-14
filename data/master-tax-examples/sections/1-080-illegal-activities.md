@@ -23,6 +23,6 @@ On this basis, Natasha is not permitted to deduct the restitution amount of $300
 
 Further, fines and penalties payable are specifically not allowable deductions (ITAA97 s 26-5). Accordingly, Natasha is not permitted to deduct the $120,000 fine in the 2024–25 income year.
 
-Natasha would also be required to include the $50,000 from the television interview in her assessable income for the 2024–25 income year as the appearance was part of her “business activities” and there was a view to a profit from the interview.
+Natasha would also be required to include the $50,000 from the television interview in her assessable income for the 2024–25 income year as the appearance was part of her "business activities" and there was a view to a profit from the interview.
 
 *Refs: ITAA97 s 8-1, ITAA97 s 26-5)*

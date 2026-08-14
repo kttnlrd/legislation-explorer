@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (c) the CFC meets the requirements of section EX 21E, having regard to the accounts for the part-period; and
 
-- (d) the person, or a company that is part of the person’s group of companies, holds an income interest in the CFC for the part-period.
+- (d) the person, or a company that is part of the person's group of companies, holds an income interest in the CFC for the part-period.
 
 **Determination for interest holders**
 

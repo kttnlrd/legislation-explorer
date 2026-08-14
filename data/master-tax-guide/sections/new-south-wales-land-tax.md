@@ -7,23 +7,23 @@ paragraph: "¶38-010"
 ---
 # New South Wales land tax ¶38-010
 
-Provisions governing the imposition and calculation of liability to land tax in NSW, including exemptions and the determination of applicable thresholds, are contained in the Land Tax Management Act 1956 (“the principal Act”). The levying of land tax, including applicable rates and surcharges, is done by the Land Tax Act 1956. Administrative and procedural matters, including powers of the Chief Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1996.
+Provisions governing the imposition and calculation of liability to land tax in NSW, including exemptions and the determination of applicable thresholds, are contained in the Land Tax Management Act 1956 ("the principal Act"). The levying of land tax, including applicable rates and surcharges, is done by the Land Tax Act 1956. Administrative and procedural matters, including powers of the Chief Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1996.
 
-Assessment Land tax is charged on the taxable value of non-exempt land located in NSW and held by an owner at midnight on the taxing date. For the 2025 land tax year the taxing date is 31 December 2024. An “owner” includes the holder of a freehold estate, a person with a right to rents and proﬁts from the land, a trustee or beneﬁciary where land is held in trust, a life tenant, and a lessee of Crown land.
+Assessment Land tax is charged on the taxable value of non-exempt land located in NSW and held by an owner at midnight on the taxing date. For the 2025 land tax year the taxing date is 31 December 2024. An "owner" includes the holder of a freehold estate, a person with a right to rents and proﬁts from the land, a trustee or beneﬁciary where land is held in trust, a life tenant, and a lessee of Crown land.
 
 For individuals and most other taxpayers, a general rate is applied to the taxable value of land held on the taxing date in excess of a tax-free threshold, and a premium rate applies to any component of taxable value above a premium tax threshold.
 
 Freezing of tax thresholds Up until 2024, land tax thresholds were indexed annually so as to increase in line with average property values in NSW. For 2025 and later years, amendments to the principal Act lock the land tax threshold and the premium rate threshold at 2024 levels. As a result, as the taxable value of land increases over time relative to the static thresholds, land tax and premium rate liabilities will increase at a faster rate than if the thresholds were indexed. The amendments require a review by 1 June 2027 to determine whether the freeze continues to be appropriate in the circumstances. See below for a table of the applicable rates and thresholds.
 
-Primary and secondary assessments Where there is more than one owner of the same land, each of those owners may be subject to 2 assessments in order to ensure that the tax-free and premium thresholds apply fully and only once across their total taxable landholdings. For example, joint owners are collectively assessed for the taxable value of jointly owned land in a primary assessment, while each singular owner is separately assessed in a secondary assessment. That assessment includes the taxable value of any separately owned landholdings along with the owner’s proportionate share of the taxable value of the jointly owned land. Secondary taxpayer/s are entitled to a deduction to prevent double taxation on the land interest included in both assessments.
+Primary and secondary assessments Where there is more than one owner of the same land, each of those owners may be subject to 2 assessments in order to ensure that the tax-free and premium thresholds apply fully and only once across their total taxable landholdings. For example, joint owners are collectively assessed for the taxable value of jointly owned land in a primary assessment, while each singular owner is separately assessed in a secondary assessment. That assessment includes the taxable value of any separately owned landholdings along with the owner's proportionate share of the taxable value of the jointly owned land. Secondary taxpayer/s are entitled to a deduction to prevent double taxation on the land interest included in both assessments.
 
 Companies and company groups Sole companies are taxed in the same way as individuals, at general and premium rates subject to the applicable thresholds.
 
-Companies which are “related” under s 29 of the principal Act are assessed as a company group.
+Companies which are "related" under s 29 of the principal Act are assessed as a company group.
 
-Companies are related where one company holds a controlling interest in another, or where a person or persons hold a controlling interest in both. A “controlling interest” in a company may arise from power to determine the composition of the board of directors, holding more than 50% in share capital, or having more than 50% of the voting power at a general meeting.
+Companies are related where one company holds a controlling interest in another, or where a person or persons hold a controlling interest in both. A "controlling interest" in a company may arise from power to determine the composition of the board of directors, holding more than 50% in share capital, or having more than 50% of the voting power at a general meeting.
 
-The grouping mechanism is designed to prevent avoidance of land tax by using company structures to disperse ownership of interests in land. It ensures that the total taxable value of group land holdings is assessed with the beneﬁt of only one tax-free threshold and one premium rate threshold. The Chief Commissioner can designate one or more companies in the group as a single “concessional” company and assess that company with the beneﬁt of the tax-free and premium thresholds. Other related companies are designated “non-concessional”. If the aggregate taxable value of all land within the company group exceeds the tax-free or premium thresholds, land owned by non-concessional companies is taxed at the applicable rate on the full taxable value of land they own.
+The grouping mechanism is designed to prevent avoidance of land tax by using company structures to disperse ownership of interests in land. It ensures that the total taxable value of group land holdings is assessed with the beneﬁt of only one tax-free threshold and one premium rate threshold. The Chief Commissioner can designate one or more companies in the group as a single "concessional" company and assess that company with the beneﬁt of the tax-free and premium thresholds. Other related companies are designated "non-concessional". If the aggregate taxable value of all land within the company group exceeds the tax-free or premium thresholds, land owned by non-concessional companies is taxed at the applicable rate on the full taxable value of land they own.
 
 Trusts Trusts are either ﬁxed trusts or special trusts. Trustees of ﬁxed trusts, as the legal owners of land in the trust, are assessed in a primary assessment at general rates with the land tax and premium rate thresholds.
 
@@ -31,15 +31,15 @@ Similar to the case of joint owners, beneﬁciaries of ﬁxed trusts are subject
 
 Charitable trusts, superannuation trusts (including SMSFs), and trusts established for the beneﬁt of minors, persons under guardianship or with a disability, are taxed as ﬁxed trusts.
 
-Testamentary discretionary trusts can be treated as ﬁxed trusts for 2 years following the testator’s death, or longer if approved by the Chief Commissioner.
+Testamentary discretionary trusts can be treated as ﬁxed trusts for 2 years following the testator's death, or longer if approved by the Chief Commissioner.
 
-Special trusts Discretionary trusts are taxed as “special trusts” because beneﬁciaries do not usually have equitable ownership in the trust unless a discretion is exercised by the trustee. The trustee of a special trust is assessed for the full taxable value of land held in the trust; no tax-free threshold is available. Tax is charged at the general rate on the full taxable value up to the premium rate threshold and at the premium rate on any excess over that threshold. As there is no equitable ownership, no interest in the land held in the trust is included in any secondary assessments.
+Special trusts Discretionary trusts are taxed as "special trusts" because beneﬁciaries do not usually have equitable ownership in the trust unless a discretion is exercised by the trustee. The trustee of a special trust is assessed for the full taxable value of land held in the trust; no tax-free threshold is available. Tax is charged at the general rate on the full taxable value up to the premium rate threshold and at the premium rate on any excess over that threshold. As there is no equitable ownership, no interest in the land held in the trust is included in any secondary assessments.
 
-Unit trusts, which are normally assessed as special trusts, are taxed as ﬁxed trusts if the terms of the trust meet the “relevant criteria” set in s 3A(3B) of the principal Act. These eﬀectively ﬁx the entitlements of unit holders and the income and capital distributions available in respect of those entitlements. Family unit trusts which, as at midnight on 31 December 2005 held non-exempt land with a taxable value of no more than $1 million, can also be taxed as ﬁxed trusts if at least 95% of the units are held by family members with ﬁxed entitlements under the trust (sch 1AA of the principal Act).
+Unit trusts, which are normally assessed as special trusts, are taxed as ﬁxed trusts if the terms of the trust meet the "relevant criteria" set in s 3A(3B) of the principal Act. These eﬀectively ﬁx the entitlements of unit holders and the income and capital distributions available in respect of those entitlements. Family unit trusts which, as at midnight on 31 December 2005 held non-exempt land with a taxable value of no more than $1 million, can also be taxed as ﬁxed trusts if at least 95% of the units are held by family members with ﬁxed entitlements under the trust (sch 1AA of the principal Act).
 
 Foreign beneficiary A trust in which a foreign person is, or could be, a beneﬁciary or a member of a class of beneﬁciaries in the trust may incur the surcharge on foreign ownership (see below). Trust deeds need to be carefully drafted to clearly exclude the prospect of ownership interests arising in favour of foreign persons.
 
-Exemptions Residential land in NSW used and occupied as an owner’s “principal place of residence” (PPR) is exempt under sch 1A to the principal Act. The land must be the owner’s PPR out of all residences owned anywhere in the world. The exemption is available for only one property per family, and cannot be claimed if the land is owned by, or jointly with, a company or a special trust. The exemption applies to land on which a dwelling is erected and to strata lots. Residential land which is owned jointly by owners who each have exclusive use entitlements to separate parts of the land (eg ﬂats) are taxed in the same way as strata lots.
+Exemptions Residential land in NSW used and occupied as an owner's "principal place of residence" (PPR) is exempt under sch 1A to the principal Act. The land must be the owner's PPR out of all residences owned anywhere in the world. The exemption is available for only one property per family, and cannot be claimed if the land is owned by, or jointly with, a company or a special trust. The exemption applies to land on which a dwelling is erected and to strata lots. Residential land which is owned jointly by owners who each have exclusive use entitlements to separate parts of the land (eg ﬂats) are taxed in the same way as strata lots.
 
 As a practical matter, a PPR is that place used and occupied by an owner as his or her home. Use for any other purpose, such as a business, an investment or as a holiday home, will disqualify the land for full exemption. Exceptions to this general rule apply where:
 
@@ -53,19 +53,19 @@ Both can be treated as exempt where the purchase of the new home and the sale of
 
 - the owner has acquired unoccupied land and intends to build or renovate and has no other
 
-PPR. The vacant land can be treated as the owner’s PPR for 2 years. From 1 July 2023 this can be extended for a further 2 years where a delay in construction is caused due to exceptional circumstances, including unforeseen labour and materials shortages associated with the COVID-19 pandemic. The extension can be applied to any concessional period that ended on or after 31
+PPR. The vacant land can be treated as the owner's PPR for 2 years. From 1 July 2023 this can be extended for a further 2 years where a delay in construction is caused due to exceptional circumstances, including unforeseen labour and materials shortages associated with the COVID-19 pandemic. The extension can be applied to any concessional period that ended on or after 31
 
 - the owner moves away for a period of up to 6 years and owns no other PPR during that time
 
-- the owner dies. The property will be exempt for 2 years after the date of the person’s death or
+- the owner dies. The property will be exempt for 2 years after the date of the person's death or
 
-  until the land is transferred to any person other than the deceased’s personal representative or a
+  until the land is transferred to any person other than the deceased's personal representative or a
 
-  beneﬁciary of the deceased’s estate. Land may also be exempt where a person occupies the land
+  beneﬁciary of the deceased's estate. Land may also be exempt where a person occupies the land
 
   as a residence under rights conferred by the will
 
-- land used partly as an owner’s PPR and partly for other non-exempt purposes, such as a
+- land used partly as an owner's PPR and partly for other non-exempt purposes, such as a
 
   complex comprised of residential apartments and commercial shops or oﬃces. A partial exemption
 
@@ -83,7 +83,7 @@ Other exemptions Land owned by religious societies, non-proﬁt associations, ch
 
 Surcharge on foreign ownership Residential land in NSW owned by foreign persons is subject to a surcharge. For 2025 the surcharge rate is 5% of the taxable value of the land.
 
-An individual is a “foreign person” if they are not an Australian citizen or a permanent resident who has been in Australia for 200 or more days in the 12 months preceding the taxing date. Companies and individuals acting in their capacity as trustees or general partners in a limited partnership may themselves be foreign persons where another foreign person or persons hold a suﬃcient interest or aggregate interest in the company, trust or partnership. A foreign government or government entity is always a foreign owner.
+An individual is a "foreign person" if they are not an Australian citizen or a permanent resident who has been in Australia for 200 or more days in the 12 months preceding the taxing date. Companies and individuals acting in their capacity as trustees or general partners in a limited partnership may themselves be foreign persons where another foreign person or persons hold a suﬃcient interest or aggregate interest in the company, trust or partnership. A foreign government or government entity is always a foreign owner.
 
 Land interests are not aggregated for assessment, no tax-free threshold applies, and there are no joint assessments. The surcharge is separately levied on the proportionate interest held by the foreign person in each parcel of land owned on the taxing date. Note that the trustee of an Australian trust may incur the surcharge where the trust has no current foreign person beneﬁciaries but is, on its terms, open to a foreign person having or coming into an interest in trust land in the future. Trust deeds should be carefully drafted to mitigate this risk.
 

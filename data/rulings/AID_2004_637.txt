@@ -3,18 +3,14 @@ ATO ID 2004/637
 ==================================================
 
 Income Tax
-        Demerger: original pre-CGT interests - consequences for shareholders under Division 725 if new interests in demerged entity are issued at a discount
-        FOI status: may be released
-
-
+ Demerger: original pre-CGT interests - consequences for shareholders under Division 725 if new interests in demerged entity are issued at a discount
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If a direct value shift happens under a demerger because new interests in a demerged entity are issued at a discount, can the cost bases and reduced cost bases of those interests be increased under section 725-250 of the Income Tax Assessment Act 1997 (ITAA 1997) if they were issued in respect of pre-CGT original interests?
@@ -29,14 +25,13 @@ Reasons for Decision
 Division 725 of the ITAA 1997 does not apply to an original interest holder where the specific terms of section 125-95 of the ITAA 1997 apply. That section provides that where cost base and reduced cost base adjustments are required under sections 125-80, 125-85 or 125-90 of the ITAA 1997, no further cost base and reduced cost base adjustments are required to be made under the Act as a result of something that happens under the demerger. Cost base and reduced cost base adjustments are required under sections 125-80, 125-85 or 125-90 of the ITAA 1997 where the original interests were acquired on or after 20 September 1985. No adjustments are required under those sections where the original interests were acquired before 20 September 1985.
 Accordingly, as the new interests are issued in respect of the three shareholders' original interests that were acquired before 20 September 1985, and the conditions in section 725-50 of the ITAA 1997 are satisfied, increases may be made to the cost bases and reduced cost bases of those new interests under section 725-250 of the ITAA 1997 as a result of the direct value shift.
 
-
 Note: If the new interests are taken to be acquired before 20 September 1985, then the increase adjustments under section 725-250 of the ITAA 1997 will only have practical consequences for shareholders that are companies (for example, a company required to calculate an unrealised net loss under Subdivision 165-CC of the ITAA 1997).
 
 Date of decision:
-         16 July 2004
+  16 July 2004
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -51,18 +46,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 CGT demerger exemption
-          CGT share value shifting arrangements
-          Cost base adjustments for value shift
-
+ CGT share value shifting arrangements
+ Cost base adjustments for value shift
 
 Siebel/TDMS Reference Number:
-         3631053
+  3631053
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 July 2004
+  30 July 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

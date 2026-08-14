@@ -3,18 +3,14 @@ ATO ID 2006/31
 ==================================================
 
 Income Tax
-        Franking Credits: CGT roll-over relief and its interaction with the date of acquisition for imputation purposes - qualified person - family trust election
-        FOI status: may be released
-
-
+ Franking Credits: CGT roll-over relief and its interaction with the date of acquisition for imputation purposes - qualified person - family trust election
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If a trustee of a discretionary trust elects to apply the capital gains tax (CGT) roll-over provisions of Subdivision 122-A of the Income Tax Assessment Act 1997 (ITAA 1997) to deem the acquisition date of newly issued shares to be pre-20 September 1985, will the new shares be deemed to have been acquired before 20 September 1985 for the purposes of the imputation rules, in particular, the 'holding period' and 'related payment' rules contained in Division 1A of Part IIIAA of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -32,10 +28,8 @@ The CGT roll-over is found in Subdivision 122-A of the ITAA 1997. If an individu
 Section 995-1 of the ITAA 1997 provides a definition of the term 'acquire' in the context of a CGT asset:
 Acquire:
 
-
-
 (a)a *CGT asset: you
-                acquire
+ acquire
  a CGT asset ("in its capacity as a CGT asset") in theCircumstances and at the time worked out under Division 109 (including under a provision listed in Subdivision 109-B)
 
 The effect of the words 'in the capacity as a CGT asset', is to restrict the relevance of the acquisition date of a CGT asset, including deemed acquisitions dates as determined under Division 109 of the ITAA 1997 and provisions listed in Subdivision 109B of the ITAA 1997 to circumstances in which the taxpayer deals with an asset in its capacity as a CGT asset. The present circumstance is listed at item 6 of the table contained in section 109-55 of the ITAA 1997. Consequently, the acquisition date deemed in respect of the newly issued shares to trust A is relevant purely in the context of CGT consequences. It is not intended to extend to the share's treatment for imputation purposes or any other purpose outside the CGT provisions.
@@ -43,10 +37,10 @@ Division 1A of Part IIIAA of the ITAA 1936 generally applies to shares and inter
 An underlying principle of the imputation system is to ensure that the benefits of imputation are only available to the true economic owners of shares and only to the extent that those taxpayers are able to utilise those benefits. Section 160APHH of the ITAA 1936 provides some special rules relating to the date of acquisition or disposal for imputation purposes, outlining several circumstances where a taxpayer may be taken to acquire or dispose of shares at a time other than the actual time of acquisition or disposal. However, neither this section nor any other provision within Division 1A of Part IIIAA of the ITAA 1936 deems the acquisition date of shares issued post 1 July 1997 as consideration in respect of the disposal of pre-CGT shares to have a pre-CGT acquisition date.
 Therefore, in the absence of a specific provision that deems shares issued post 1 July 1997 as consideration in respect of the disposal of pre-CGT shares to have a pre-CGT acquisition date, the shares issued to trust A as consideration for the transfer to it of pre-CGT shares will be taken to have been issued at that time.
 Date of decision:
-         29 November 2005
+  29 November 2005
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -56,17 +50,16 @@ Income Tax Assessment Act 1936   section 160APHH
 Keywords
 
 CGT roll-over relief
-          Family trust election
-
+ Family trust election
 
 Siebel/TDMS Reference Number:
-         4953492
+  4953492
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         10 February 2006
+  10 February 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

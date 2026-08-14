@@ -4,11 +4,9 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 290
+ • Division 290
 
 Topics: Trusts, Partnerships, Companies, Superannuation, Employment
-
-
 
 ================================================================================
 
@@ -39,7 +37,7 @@ This arrangement attempts to circumvent the personal services income (PSI) regim
 Income Tax Assessment Act 1997
 (ITAA 1997), as well as other income tax and superannuation obligations such as the Pay As You Go (Withholding) (PAYG(W)) system and the Superannuation Guarantee, but may be ineffective under these provisions or the general anti-avoidance rules.
 Context for the arrangement
-The income in question is that which results from the provision of services (or would if it was the income of the individual who provided the services rather than that of a Personal Services Entity).  If the PSI regime applies to the income of a Personal Services Entity, then that income is included in the assessable income of the individual whose personal efforts or skills generated it. The measures may also result in certain deductions not being allowed and a personal service entity having additional withholding obligations.  If though, the PSI is earned in the course of conducting a
+The income in question is that which results from the provision of services (or would if it was the income of the individual who provided the services rather than that of a Personal Services Entity). If the PSI regime applies to the income of a Personal Services Entity, then that income is included in the assessable income of the individual whose personal efforts or skills generated it. The measures may also result in certain deductions not being allowed and a personal service entity having additional withholding obligations. If though, the PSI is earned in the course of conducting a
 personal services business,
 then the PSI regime may not apply in this way.
 The term 'alienation of income' refers to a situation where income that would otherwise be assessable to an individual taxpayer becomes the income of a different entity.
@@ -48,7 +46,7 @@ The alert applies to arrangements with features substantially equivalent to the 
 1.
 A firm (the labour hire firm) offers remuneration structures for individuals who perform work or provide services (the service provider).
 2.
-The service provider enters into an agreement to become a beneficiary of a discretionary trust (discretionary trust) which is associated with the labour hire firm. This agreement also identifies additional beneficiaries (e.g. the service provider's spouse) and the basis on which the trustee will allocate discretionary distributions.  No assets are transferred to or held by the trust.
+The service provider enters into an agreement to become a beneficiary of a discretionary trust (discretionary trust) which is associated with the labour hire firm. This agreement also identifies additional beneficiaries (e.g. the service provider's spouse) and the basis on which the trustee will allocate discretionary distributions. No assets are transferred to or held by the trust.
 3.
 The service provider or the labour hire firm enters into a contract to provide services for a client of the labour hire firm (the end user).
 4.
@@ -105,7 +103,7 @@ The ATO is currently reviewing these arrangements.
 Our view on what is the meaning of personal services income is contained in
 Taxation Ruling TR 2001/7: Income tax: the meaning of personal services income
 and the meaning of personal services business is contained in
-Taxation Ruling TR 2001/8: Income tax: what is a personal services business.  Taxation Ruling TR 2001/8
+Taxation Ruling TR 2001/8: Income tax: what is a personal services business. Taxation Ruling TR 2001/8
 also considers the application of Part IVA, as do Taxation Rulings IT 2121, IT 2330 and IT 2639 in the case of situations that fall outside the PSI regime.
 Note 1:
 You may have already sought advice from the ATO in respect of your arrangement by way of a private ruling. If you have received a private ruling in respect of your arrangement, you can rely on that private ruling. A private ruling is legally binding on the Commissioner who will be bound to act in the way set out in the ruling, even if the private ruling is later found to be incorrect. However, a private ruling only applies to the particular entity identified and the particular scheme described in the ruling. If there is a material difference between the scheme described in the ruling, and the scheme that was actually implemented, the private ruling will not be legally binding on the Commissioner. Also, other entities cannot rely on a private ruling issued in respect of a different entity.

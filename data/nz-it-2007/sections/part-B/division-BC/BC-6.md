@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **When liability zero or negative**
 
-**(2)**  If the income tax liability calculated under subsection (1) is zero or negative, the filing taxpayer’s income tax liability for the tax year is zero.
+**(2)**  If the income tax liability calculated under subsection (1) is zero or negative, the filing taxpayer's income tax liability for the tax year is zero.
 
 *Defined in this Act: amount, basic tax rate, filing taxpayer, income tax liability, schedular income, tax year, taxable income*
 

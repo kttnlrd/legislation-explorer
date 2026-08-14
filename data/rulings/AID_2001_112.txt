@@ -3,18 +3,14 @@ ATO ID 2001/112
 ==================================================
 
 Goods and Services Tax
-        GST and mortgagee in possession
-        FOI status: may be released
-
-
+ GST and mortgagee in possession
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the entity, a mortgagee in possession (a creditor), choose to apply the margin scheme under section 75-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it exercises power of sale in relation to real property?
@@ -31,7 +27,7 @@ Division 105 of the GST Act deals with supplies made by creditors of property be
 Having regard for the provisions of Division 105 of the GST Act, the creditor is taken to be standing in the shoes of the debtor when the creditor makes the supply. Therefore, for the purpose of the creditor applying the margin scheme to the sale, the word 'you' as used in section 75-5 is taken to mean the debtor.
 As the debtor was able to apply the margin scheme in line with section 75-5 of the GST Act, the entity may also choose to apply the margin scheme in respect of the sale.
 Date of decision:
-         19 April 2001
+  19 April 2001
 
 Legislative References:
 
@@ -40,18 +36,17 @@ A New Tax System (Goods and Services Tax) Act 1999   section 75-5   Divisi
 Keywords
 
 Goods and services tax
-          GST supplies in satisfaction of a debt
-          Taxable supply
-
+ GST supplies in satisfaction of a debt
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CRS60077
+  CRS60077
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         12 July 2001
+  12 July 2001
 
 ISSN:
-          1445-2782
+ 1445-2782

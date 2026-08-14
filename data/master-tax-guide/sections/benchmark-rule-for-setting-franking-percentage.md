@@ -7,7 +7,7 @@ paragraph: "¶4-660"
 ---
 # Benchmark rule for setting franking percentage ¶4-660
 
-The benchmark rule ensures that one member of a corporate tax entity is not preferred over another when the entity franks distributions. The benchmark rule requires that a corporate tax entity (except a listed public company when exempted by ITAA97 s 203-20) must frank all frankable distributions made during a “franking period” (generally either 6 months or 12 months: ¶4-670) at the “benchmark franking percentage” (ITAA97 s 203-25). The benchmark franking percentage is the same as the franking percentage for the ﬁrst frankable distribution made by the entity within the franking period (ITAA97 s 203-30).
+The benchmark rule ensures that one member of a corporate tax entity is not preferred over another when the entity franks distributions. The benchmark rule requires that a corporate tax entity (except a listed public company when exempted by ITAA97 s 203-20) must frank all frankable distributions made during a "franking period" (generally either 6 months or 12 months: ¶4-670) at the "benchmark franking percentage" (ITAA97 s 203-25). The benchmark franking percentage is the same as the franking percentage for the ﬁrst frankable distribution made by the entity within the franking period (ITAA97 s 203-30).
 
 The benchmark rule allows an entity to decide what the level of franking will be for a particular franking period.
 
@@ -44,9 +44,9 @@ Membership interests that do not carry a right to receive distributions (other t
 
 rule An entity can apply in writing to the Commissioner for a determination permitting it to frank a distribution at a franking percentage that diﬀers from its benchmark franking percentage for the relevant period (ITAA97 s 203-55).
 
-The Commissioner may only exercise this power in extraordinary circumstances, having regard to matters speciﬁed in s 203-55 (ID 2005/67). However, the entity, or a member of the entity, can appeal the Commissioner’s determination.
+The Commissioner may only exercise this power in extraordinary circumstances, having regard to matters speciﬁed in s 203-55 (ID 2005/67). However, the entity, or a member of the entity, can appeal the Commissioner's determination.
 
-The explanatory memorandum to the legislation suggests, for example, that a farming company that franked distributions in anticipation of a franking credit from a subsequent tax payment could successfully apply for permission to depart from its benchmark franking percentage if the franking credit did not eventuate due to devastation of the company’s crops by ﬂood.
+The explanatory memorandum to the legislation suggests, for example, that a farming company that franked distributions in anticipation of a franking credit from a subsequent tax payment could successfully apply for permission to depart from its benchmark franking percentage if the franking credit did not eventuate due to devastation of the company's crops by ﬂood.
 
 *Refs: ITAA97 s
 203-55), s 203-55*

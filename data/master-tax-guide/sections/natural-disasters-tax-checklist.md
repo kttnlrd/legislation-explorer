@@ -35,7 +35,7 @@ paragraph: "¶44-130"
 
 - Capital losses on cars or motor cycles are disregarded (¶11-640).
 
-- The loss or destruction of an individual’s main residence does not give rise to a capital loss.
+- The loss or destruction of an individual's main residence does not give rise to a capital loss.
 
   Special rules apply where there is a subsequent sale of the property (¶11-730).
 
@@ -79,9 +79,9 @@ paragraph: "¶44-130"
 
   deductible outright (¶18-070).
 
-- A deduction is allowed for capital business expenditure on the establishment of trees in “carbon
+- A deduction is allowed for capital business expenditure on the establishment of trees in "carbon
 
-  sink” forests established for the purpose of sequestering carbon from the atmosphere (¶19-120).
+  sink" forests established for the purpose of sequestering carbon from the atmosphere (¶19-120).
 
 - Expenses of closing down a business would normally not be deductible, but may qualify for a
 
@@ -91,7 +91,7 @@ paragraph: "¶44-130"
 
   by a primary producer carrying on a sheep grazing business (¶18-140).
 
-- If the taxpayer’s assessable income would otherwise include a disaster-related insurance
+- If the taxpayer's assessable income would otherwise include a disaster-related insurance
 
   recovery for the loss of livestock, the taxpayer can elect to spread the amount of the recovery in
 
@@ -135,7 +135,7 @@ paragraph: "¶44-130"
 
 - Concessional rules apply where substantiation records of work and travel claims have been lost
 
-  as a result of circumstances outside the taxpayer’s control (¶16-340).
+  as a result of circumstances outside the taxpayer's control (¶16-340).
 
 - The ATO may be able to assist in reconstructing destroyed tax records (¶9-045).
 
@@ -155,9 +155,9 @@ paragraph: "¶44-130"
 
 - The ﬁnancial eﬀects of a natural disaster may be taken into account in determining whether an
 
-  entity satisﬁes the “small business entity” income tests for obtaining tax concessions (¶7-050).
+  entity satisﬁes the "small business entity" income tests for obtaining tax concessions (¶7-050).
 
-- A natural disaster may mean that a business is no longer a “going concern” that is eligible for
+- A natural disaster may mean that a business is no longer a "going concern" that is eligible for
 
   GST-free status on sale (¶34-240).
 
@@ -165,7 +165,7 @@ paragraph: "¶44-130"
 
 - The prospect of factors such as drought or ﬁre may be taken into account in determining whether
 
-  a business satisﬁes the income test for the “small business entity” GST concessions (¶34-270).
+  a business satisﬁes the income test for the "small business entity" GST concessions (¶34-270).
 
 - An input tax credit on business items that you have acquired is not aﬀected if the items are
 

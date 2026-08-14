@@ -3,23 +3,18 @@ ATO ID 2004/698
 ==================================================
 
 Income tax
-        Capital gains tax: small business CGT concessions - net asset test - control of discretionary trust - power to remove and appoint trustee
-        FOI status: may be released
+ Capital gains tax: small business CGT concessions - net asset test - control of discretionary trust - power to remove and appoint trustee
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as the ATO view on this matter is now reflected in  Draft Taxation Determination 2006/D28.
+This ATO ID is withdrawn as the ATO view on this matter is now reflected in Draft Taxation Determination 2006/D28.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a person who has the power to remove the trustee of a discretionary trust and appoint a new trustee, control the trust under subparagraph 152-30(2)(c)(ii) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -33,16 +28,12 @@ Reasons for Decision
 To qualify for the small business CGT concessions a taxpayer must, among other things, satisfy the $5 million net asset test in section 152-15 of the ITAA 1997. As part of this, the taxpayer must include in their net asset calculation the net value of the CGT assets of any entities connected with them. Under paragraph 152-30(1)(a) of the ITAA 1997, an entity is connected with another entity if either entity controls the other entity.
 Under paragraph 152-30(2)(c) of the ITAA 1997 an entity may control a discretionary trust if the entity, its small business CGT affiliates, or all of them together:
 
-
-
 •is/are the trustee or trustees of the discretionary trust (other than the Public Trustee of a state or territory), or
 •has/have the power to determine how the trustee or trustees exercise the power to make any payment of income or capital to or for the benefit of beneficiaries of the trust.
 
 However, this will be the case only if certain beneficiaries are not taken to control the trust.
 If a beneficiary of a discretionary trust controls the trust under subsection 152-30(5) of the ITAA 1997 and the beneficiary is not a small business CGT affiliate of the trustee, or of a person who has the power to determine how the trustee exercises the power to make payments of income or capital, then the trustee or that other person will not also be taken to control the discretionary trust (subsection 152-30(4) of the ITAA 1997).
 The level of actual distributions made by a discretionary trust is used to determine which beneficiaries control the trust (subsection 152-30(5) of the ITAA 1997). Subject to certain transitional arrangements, a beneficiary is taken to control a discretionary trust if, for any of the four income years before the year for which relief is sought for a CGT event:
-
-
 
 •the trustee paid to, or applied for the benefit of, the beneficiary and/or their small business CGT affiliates any of the income or capital of the trust, and
 •the amounts paid or applied were at least 40% (the control percentage) of the total amount of income or capital paid or applied for that income year (subject to the Commissioner's discretion where the control percentage is between 40% and 50%).
@@ -52,10 +43,10 @@ Further, there is no beneficiary of the trust who controls the trust under subse
 Accordingly, subsection 152-30(4) of the ITAA 1997 does not apply and therefore the appointor, being a person who has the power to determine the manner in which the trustee exercises their power to make distributions, controls the trust under subparagraph 152-30(2)(c)(ii) of the ITAA 1997.
 As such, the appointor and the discretionary trust are connected with each other under paragraph 152-30(1)(a) of the ITAA 1997 and therefore the assets of the discretionary trust are included in the appointor's $5 million net asset calculation under subparagraph 152-15(a)(ii) of the ITAA 1997.
 Date of decision:
-         4 August 2004
+  4 August 2004
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -64,35 +55,31 @@ Income Tax Assessment Act 1997   Division 152   section 152-15   subpar
 Keywords
 
 Basic conditions for relief
-          Capital gains tax
-          CGT assets
-          CGT events
-          CGT small business relief
-          Connected entity
-          Discretionary trusts
-          Maximum net asset value test
-          Trustees
-
+ Capital gains tax
+ CGT assets
+ CGT events
+ CGT small business relief
+ Connected entity
+ Discretionary trusts
+ Maximum net asset value test
+ Trustees
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         27 August 2004
+  27 August 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  4 August 2004

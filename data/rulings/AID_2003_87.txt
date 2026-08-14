@@ -3,23 +3,18 @@ ATO ID 2003/87
 ==================================================
 
 Capital Gains Tax
-        Capital gains tax: indexed cost base-Telstra Corporation Limited (Telstra) shares
-        FOI status: may be released
+ Capital gains tax: indexed cost base-Telstra Corporation Limited (Telstra) shares
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as the ATO view on this matter is now dealt with in the  Guide to capital gains tax 2005.
+This ATO ID is withdrawn as the ATO view on this matter is now dealt with in the Guide to capital gains tax 2005.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 When did a taxpayer who acquired shares by subscription in Telstra's first public share offer incur expenditure in relation to the second instalment of the purchase price for the purposes of section 114-1 and subsection 960-275(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -41,7 +36,6 @@ For indexation of the cost base of a CGT asset (except the first element of the 
 
 Index number for the quarter ending on 30 September 1999 (123.4) / Index number for the quarter in which the expenditure was incurred
 
-
 The expenditure can include giving property: see section 103-5. ...
 
 The time when the taxpayer incurred the second instalment of the purchase price of their Telstra shares will therefore determine the index number to be used in the denominator of this fraction.
@@ -53,23 +47,21 @@ Spender J held:
 Accordingly, the taxpayer is considered to have incurred the expenditure in relation to the second instalment of the purchase price of their Telstra shares in November 1997. The index number for the December 1997 quarter (120.0) should therefore be used rather than the index number for the December 1998 quarter (121.9) to calculate the taxpayer's indexation factor for the second instalment of the purchase price.
 The taxpayer is therefore entitled to amend their income tax assessment for the year ended 30 June 2001. In this case the effect of the amendment will be to increase the cost base of each of the taxpayer's Telstra shares by two cents as indicated below:
 
-Second instalment of purchase price indexed as per Taxation  Determination TD 98/11
+Second instalment of purchase price indexed as per Taxation Determination TD 98/11
 
 $1.30 x 1.012 (123.4*/121.9) = $1.32
 
-
-Second  instalment of purchase price indexed as per Dolby decision
+Second instalment of purchase price indexed as per Dolby decision
 
 $1.30 x 1.028 (123.4*/120.0) = $1.34
-
 
 *Note: If the shares were sold in the December 1998, March 1999 or June 1999 quarters the relevant index number for the appropriate quarter should be used as the numerator.
 
 Date of decision:
-         16 January 2003
+  16 January 2003
 
 Year of income:
-           Year ended 30 June 2001
+  Year ended 30 June 2001
 
 Legislative References:
 
@@ -77,9 +69,7 @@ Income Tax Assessment Act 1997   section 114-1   subsection 960-275(2)
 
 Case References:
 
-
 Dolby v Federal Commissioner of Taxation   2002 ATC 4976   51 ATR 272   2002 FCA 1065
-
 
 Related Public Rulings (including Determinations)
 
@@ -89,33 +79,29 @@ Taxation Determination TD 98/11
 Keywords
 
 Capital gains
-          Capital gains tax
-          CGT cost base
-          CGT indexation
-          CGT indexed cost base
-          Incurred
-          Self amendment of assessments
-
+ Capital gains tax
+ CGT cost base
+ CGT indexation
+ CGT indexed cost base
+ Incurred
+ Self amendment of assessments
 
 Business Line:
-         Losses & CGT Centre of Expertise
+  Losses & CGT Centre of Expertise
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 16 January 2003

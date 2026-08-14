@@ -3,30 +3,23 @@ ATO ID 2011/58
 ==================================================
 
 Income Tax
-        Income Tax: whether trust distributions can be assessed under section 6-5 of the ITAA 1997
-        FOI status: may be released
+ Income Tax: whether trust distributions can be assessed under section 6-5 of the ITAA 1997
+ FOI status: may be released
 
-
-ATO ID 2011/58 is withdrawn with effect from 30 June 2015. We have published guidance on the Commissioner's compliance approach to the tax treatment of tax deferred distributions by managed investment trusts on the ATO website at  New taxation system for managed investment trusts - The Commissioner's compliance approach.
+ATO ID 2011/58 is withdrawn with effect from 30 June 2015. We have published guidance on the Commissioner's compliance approach to the tax treatment of tax deferred distributions by managed investment trusts on the ATO website at New taxation system for managed investment trusts - The Commissioner's compliance approach.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can amounts distributed by a managed investment trust to a unit holder of the trust (in its capacity as a unit holder) be included in the unit holder's assessable income under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997) if the amounts have the quality of income in the hands of the unit holder?
 Decision
 Yes, such amounts paid to a unit holder are included in the unit holder's assessable income under section 6-5 of the ITAA 1997 to the extent to which they are not amounts of:
-
-
 
 •the trust's net income as calculated under section 95 of Division 6 of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) (its section 95 net income); or
 •the trust's exempt income or non-assessable non-exempt income.
@@ -36,8 +29,6 @@ A resident general insurance company invests premiums received and other funds i
 These investments include units in various resident managed investment trusts from which the insurance company receives periodic distributions.
 These periodic distributions may result in a share of the section 95 net income of the managed investment trusts being included in the insurance company's assessable income under section 97 of the ITAA 1936.
 Notwithstanding this, some of the periodic distributions to which the insurance company is entitled, or parts of those distributions, will not have been ultimately dealt with under Division 6 of the ITAA 1936 (either to the trustee of the relevant managed investment trust, to the insurance company or to any other beneficiary) because they do not form part of the section 95 net income, exempt income or non-assessable non-exempt income of the relevant managed investment trust - instead representing:
-
-
 
 •income of the managed investment trust to the extent to which it is offset by deductible building allowances in calculating the trust's section 95 net income;
 •unrealised gains on assets held by the trustee which the trustee recognises for accounting purposes in an asset revaluation reserve but which are not included as assessable income in calculating the trust's section 95 net income;
@@ -60,19 +51,17 @@ A legislative instrument must be construed on the prima facie basis that its pro
 Having regard to the general structure, language and purpose of the income tax law, including provisions dealing with the interactions between the CGT provisions and other regimes within the income tax system, there is a clear intent that an amount should not be included in assessable income under both section 6-5 and section 102-5 of the ITAA 1997 and, in circumstances where this would otherwise be the case, the CGT provisions should give way to section 6-5.
 Accordingly, in the event of a conflict where components of the distributions are assessable to the insurance company under section 6-5 of the ITAA 1997 and are also taken into account in calculating a net capital gain under section 102-5 of the ITAA 1997, the conflict is to be resolved by reducing the relevant capital gain the insurance company is taken to have made under subsection 115-215 of the ITAA 1997 to the extent to which it has been assessed under section 6-5.
 
-
-
 Note 1
-                : As set out in the facts, amounts which do not form part of a managed investment trust's section 95 net income include amounts sheltered by deductible expenses (which may nonetheless be available for distribution by the trustee of the trust).
+ : As set out in the facts, amounts which do not form part of a managed investment trust's section 95 net income include amounts sheltered by deductible expenses (which may nonetheless be available for distribution by the trustee of the trust).
 
 Note 2
-                : To the extent to which the distributions comprise amounts representing the section 95 net income of the trusts, those amounts will have been dealt with under the provisions of Division 6, which prevail over the rules in section 6-5 of the ITAA 1997: refer subsection 6-25(2) of the ITAA 1997.
+ : To the extent to which the distributions comprise amounts representing the section 95 net income of the trusts, those amounts will have been dealt with under the provisions of Division 6, which prevail over the rules in section 6-5 of the ITAA 1997: refer subsection 6-25(2) of the ITAA 1997.
 
 Date of decision:
-         7 July 2011
+  7 July 2011
 
 Year of income:
-           Year ended 30 June 2012
+  Year ended 30 June 2012
 
 Legislative References:
 
@@ -80,7 +69,6 @@ Income Tax Assessment Act 1936   Division 6 of Part III   section 95   
 Income Tax Assessment Act 1997   section 6-5   Part 3-1   section 115-215   subsection 115-215(5)   section 118-20
 
 Case References:
-
 
 Scott v Federal Commissioner of Taxation   (1966) 117 CLR 514   (1966) 14 ATD 286   (1966) 10 ATR 367
 
@@ -107,36 +95,32 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital gains
-          CGT discount
-          Income
-          Insurance income
-          Investment income
-          Net capital gains
-          Net income of a trust
-          Trusts
-          Trust distributions
-          Unit trust distributions
-
+ CGT discount
+ Income
+ Insurance income
+ Investment income
+ Net capital gains
+ Net income of a trust
+ Trusts
+ Trust distributions
+ Unit trust distributions
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         22 July 2011
+  22 July 2011
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  7 July 2011

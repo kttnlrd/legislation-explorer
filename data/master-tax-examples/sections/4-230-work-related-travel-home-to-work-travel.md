@@ -11,11 +11,11 @@ Worked example: Work-related travel; home to work travel Gillian works for a lar
 
 Gillian travels to and from work by train. She will often deal with work-related emails before she leaves home, over breakfast or in the evening, after returning from work, after dinner. She also typically deals with further emails, sends work-related texts and makes work-related calls on the train to and from Melbourne.
 
-In October 2024, Gillian is given the opportunity to provide 8 weeks holiday cover for a senior manager at the firm’s Geelong office. Gillian opts to drive to and from Geelong, approximately a 2-hour drive from her home. Under the terms of the holiday cover engagement, Gillian is required to make her own way to and from the Geelong office in her own time to attend the office during standard working hours (9 am to 5:30 pm).
+In October 2024, Gillian is given the opportunity to provide 8 weeks holiday cover for a senior manager at the firm's Geelong office. Gillian opts to drive to and from Geelong, approximately a 2-hour drive from her home. Under the terms of the holiday cover engagement, Gillian is required to make her own way to and from the Geelong office in her own time to attend the office during standard working hours (9 am to 5:30 pm).
 
 In recognition of the additional travel commitment, she is paid an allowance of $250 per week to cover the extra costs and inconvenience.
 
-In February 2025, Gillian is offered the role of temporary practice manager covering the firm’s 5 offices in northern Victoria for 3 months while the full-time occupant of the role recovers from a serious operation.
+In February 2025, Gillian is offered the role of temporary practice manager covering the firm's 5 offices in northern Victoria for 3 months while the full-time occupant of the role recovers from a serious operation.
 
 She is required to spend one day a week at each of the 5 offices in Wodonga, Echuca, Bendigo, Swan Hill and Mildura. She leaves Melbourne early on Monday morning, driving between the 5 offices on consecutive days, spending each night in a hotel before returning to Melbourne on Friday evening. In recognition of the amount of travelling involved, her working day includes travelling time and she is paid overtime for travel hours undertaken outside normal business hours. She is expected, where possible, to deal with work-related matters such as emails and calls whilst travelling.
 
@@ -31,9 +31,9 @@ Advise whether Gillian is able to claim deductions for any of the following trav
 
   part of her second temporary assignment.
 
-Solution Taxation Ruling TR 2021/1 sets out the ATO’s view as to when deductions are allowed for an employee’s travel expenses.
+Solution Taxation Ruling TR 2021/1 sets out the ATO's view as to when deductions are allowed for an employee's travel expenses.
 
-Generally speaking, a transport expense is not deductible where the travel is to start work or after work is completed. Travel to start work is not part of the work activity but is preliminary to the work. In contrast, a transport expense is deductible where the travel is undertaken in performing the employee’s work activities.
+Generally speaking, a transport expense is not deductible where the travel is to start work or after work is completed. Travel to start work is not part of the work activity but is preliminary to the work. In contrast, a transport expense is deductible where the travel is undertaken in performing the employee's work activities.
 
 These principles apply to travel between:
 
@@ -43,7 +43,7 @@ These principles apply to travel between:
 
 - another place (ie neither home nor a work location) and a work location.
 
-To determine whether travel is undertaken in performing an employee’s work activities, it is necessary to consider whether:
+To determine whether travel is undertaken in performing an employee's work activities, it is necessary to consider whether:
 
 - the travel occurs on work time
 
@@ -59,7 +59,7 @@ Considering these factors, Gillian cannot claim a tax deduction for the train fa
 
 Gillian can claim a tax deduction for the motor vehicle expenses incurred driving to and from Geelong.
 
-According to TR 2021/1, private travel to a regular place of work is not deductible but travel to a location other than a regular place of work (for instance, an alternative work location such as another office of their employer) is deductible. It is essential to deductibility in such cases that the travel fits within the duties of employment and is relevant to the practical demands of carrying out the work duties. In this case, Gillian is required by her employer to travel to Geelong and can only undertake her duties by being present in the Geelong office. The travel to Geelong is a necessary consequence of Gillian’s employment duties needing to be performed in more than one location. In other words, the distance or remoteness of the assignment causes the travel to be part of that for which Gillian is employed. Note that, according to the ATO’s previous ruling on this subject (TR 2017/D6, now superseded by TR 2021/1), a deduction would not be available for this travel; see example 2 of that ruling. The allowance will be taxable as assessable income.
+According to TR 2021/1, private travel to a regular place of work is not deductible but travel to a location other than a regular place of work (for instance, an alternative work location such as another office of their employer) is deductible. It is essential to deductibility in such cases that the travel fits within the duties of employment and is relevant to the practical demands of carrying out the work duties. In this case, Gillian is required by her employer to travel to Geelong and can only undertake her duties by being present in the Geelong office. The travel to Geelong is a necessary consequence of Gillian's employment duties needing to be performed in more than one location. In other words, the distance or remoteness of the assignment causes the travel to be part of that for which Gillian is employed. Note that, according to the ATO's previous ruling on this subject (TR 2017/D6, now superseded by TR 2021/1), a deduction would not be available for this travel; see example 2 of that ruling. The allowance will be taxable as assessable income.
 
 Gillian can claim a tax deduction for the motor vehicle costs incurred in her second temporary assignment working from the 5 northern Victorian offices. Although the journeys at the start of the week from Frankston to Wodonga and at the end of the week from Swan Hill to Frankston are notionally at least home to work journeys, they are also journeys undertaken because of the special demands of her role. The journeys are included in the activities for which she is paid under the terms of her employment in the role and the travel is reasonable because of the practical demands of the role, including the remoteness of the work locations.
 

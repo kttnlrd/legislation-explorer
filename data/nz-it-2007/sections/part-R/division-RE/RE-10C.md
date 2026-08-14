@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Agreements to transfer withholding obligations: passing obligation to other custodial institutions**
 
-**(5)**  When a payment of investment income is paid on or transferred through interposed custodial institutions before being paid to an end investor, the custodial institution that is last in the chain may enter into an agreement with another custodial institution that precedes them in the chain, for the latter institution to withhold the amount of tax for the payment and pay it to the Commissioner. In this case, the withholding obligation passes to the latter institution, and the final custodial institution’s obligation is discharged.
+**(5)**  When a payment of investment income is paid on or transferred through interposed custodial institutions before being paid to an end investor, the custodial institution that is last in the chain may enter into an agreement with another custodial institution that precedes them in the chain, for the latter institution to withhold the amount of tax for the payment and pay it to the Commissioner. In this case, the withholding obligation passes to the latter institution, and the final custodial institution's obligation is discharged.
 
 **Meaning of custodial institution**
 

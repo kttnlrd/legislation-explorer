@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
   - (i) the day the entity is removed from the register of charitable entities under the Charities Act 2005:
 
-  - (ii) the day on which all reasonably contemplated administrative appeals and Court proceedings, including appeal rights, are finalised or exhausted in relation to the person’s charitable status.
+  - (ii) the day on which all reasonably contemplated administrative appeals and Court proceedings, including appeal rights, are finalised or exhausted in relation to the person's charitable status.
 
 - (ac) a community housing entity, if the gift is made at a time the entity is eligible to derive exempt income under section CW 42B (Community housing trusts and companies):
 

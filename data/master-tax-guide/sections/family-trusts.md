@@ -19,9 +19,9 @@ A trustee can make a family trust election at any time in relation to an earlier
 
   made by the trustee during that period have been made to the individual speciﬁed in the election or
 
-  to members of that individual’s family group.
+  to members of that individual's family group.
 
-The election must specify an individual as the individual whose “family group” (see below) is the subject of the election. It should also include other information required by the Commissioner, such as the name and address of the trust and the beneﬁciaries (s 272-80(3)). The Commissioner’s view is that the individual who is speciﬁed must be alive at the time the election is made (ID 2014/3). The speciﬁed individual does not, however, need to be alive when an interposed entity election (see below) is made.
+The election must specify an individual as the individual whose "family group" (see below) is the subject of the election. It should also include other information required by the Commissioner, such as the name and address of the trust and the beneﬁciaries (s 272-80(3)). The Commissioner's view is that the individual who is speciﬁed must be alive at the time the election is made (ID 2014/3). The speciﬁed individual does not, however, need to be alive when an interposed entity election (see below) is made.
 
 A family trust election generally cannot be revoked or varied, except in limited circumstances (s 272-80(5)).
 
@@ -41,7 +41,7 @@ However, where an election was revoked under this provision, the Commissioner de
 
 Variation of test individual The test individual speciﬁed in the family trust election may be varied, once only, where:
 
-- the new test individual was a member of the original test individual’s family at the election
+- the new test individual was a member of the original test individual's family at the election
 
   commencement time, and
 
@@ -49,31 +49,31 @@ Variation of test individual The test individual speciﬁed in the family trust 
 
   entity for which an interposed entity election has been made) have been made outside the new test
 
-  individual’s group during the period in which the election has been in force (s 272-80(5A)).
+  individual's group during the period in which the election has been in force (s 272-80(5A)).
 
-In addition, the test individual may be varied if, as a result of an obligation arising from a marriage breakdown, control of the trust passes to the new test individual or a group comprising the new individual and the members of that individual’s family (s 272-80(5C)).
+In addition, the test individual may be varied if, as a result of an obligation arising from a marriage breakdown, control of the trust passes to the new test individual or a group comprising the new individual and the members of that individual's family (s 272-80(5C)).
 
 Family group The family group of the individual speciﬁed in a family trust election consists of (s 272-90):
 
-- members of the individual’s family, ie the individual’s spouse (¶15-120), a child, grandchild,
+- members of the individual's family, ie the individual's spouse (¶15-120), a child, grandchild,
 
-  parent, grandparent, brother, sister, nephew or niece of the individual or of the individual’s spouse,
+  parent, grandparent, brother, sister, nephew or niece of the individual or of the individual's spouse,
 
   and the spouse of such a child, grandchild, parent, grandparent, brother, sister, nephew or niece.
 
-In 2007, the deﬁnition of “family” was broadened to include lineal descendants of a nephew, niece or child of the individual or the individual’s spouse. A person does not cease to be a family member merely because of the death of another family member (s 272-95)
+In 2007, the deﬁnition of "family" was broadened to include lineal descendants of a nephew, niece or child of the individual or the individual's spouse. A person does not cease to be a family member merely because of the death of another family member (s 272-95)
 
 - a person who was a spouse of the individual or of a member of his or her family (see above)
 
   before a breakdown in the marriage or relationship (including where the person is now the spouse
 
-  of a person who is not within the individual’s family)
+  of a person who is not within the individual's family)
 
 - a person who was the spouse of the individual or a member of his or her family immediately
 
   before the death of the individual or the family member and who is now the spouse of a person who
 
-  is not a member of the individual’s family
+  is not a member of the individual's family
 
 - a person who was a child of a spouse of the individual or a member of his or her family before a
 
@@ -99,7 +99,7 @@ In 2007, the deﬁnition of “family” was broadened to include lineal descend
 
   individual and the estates of family members.
 
-Family control test A trust cannot make a family trust election unless it satisﬁes the family control test. A trust will satisfy the test if it is controlled by a controlling group consisting of some or all of the following (s 272-87): (1) the individual speciﬁed in the family trust election (the “primary individual”) and/or one or more members of the individual’s family (see above) (2) any of the persons listed in (1) above and a professional or legal adviser to the family, or (3) the trustees of one or more family trusts, or such trustees and any of the persons within (1) (provided the primary individual is speciﬁed in the family trust election of each of those trusts and the group has more than a 50% stake in the income or capital of the trust).
+Family control test A trust cannot make a family trust election unless it satisﬁes the family control test. A trust will satisfy the test if it is controlled by a controlling group consisting of some or all of the following (s 272-87): (1) the individual speciﬁed in the family trust election (the "primary individual") and/or one or more members of the individual's family (see above) (2) any of the persons listed in (1) above and a professional or legal adviser to the family, or (3) the trustees of one or more family trusts, or such trustees and any of the persons within (1) (provided the primary individual is speciﬁed in the family trust election of each of those trusts and the group has more than a 50% stake in the income or capital of the trust).
 
 *Refs: s 272-80(6, s 272-80(5, s 272-90), s 272-95), s 272-87)*
 
@@ -129,7 +129,7 @@ Family control test A trust cannot make a family trust election unless it satis�
 
 A company or partnership that proposes to make an interposed entity election (see below) satisﬁes the family control test at a particular time when some or all of the persons listed in (1) and (3) above (ie excluding professional or legal advisers) beneﬁcially hold between them, directly or indirectly, ﬁxed entitlements to more than 50% of the income or capital of the company or partnership.
 
-Interposed entity election A company, trust or partnership that makes an interposed entity election will be included as part of a family group (see above). An interposed entity election will be relevant where members of the primary individual’s family do not have ﬁxed entitlements to all of the income and capital of the interposed entity. If the family members do have ﬁxed entitlements, the interposed entity is automatically part of the family group and the election is not required. An interposed entity election can be made for an income year later than the year in which the family trust election is made. The election must specify a date in the income year from which it takes eﬀect (s 272-85).
+Interposed entity election A company, trust or partnership that makes an interposed entity election will be included as part of a family group (see above). An interposed entity election will be relevant where members of the primary individual's family do not have ﬁxed entitlements to all of the income and capital of the interposed entity. If the family members do have ﬁxed entitlements, the interposed entity is automatically part of the family group and the election is not required. An interposed entity election can be made for an income year later than the year in which the family trust election is made. The election must specify a date in the income year from which it takes eﬀect (s 272-85).
 
 An interposed entity election can be made at any time in relation to an earlier income year, rather than having to be included in the tax return. This option is only available if the speciﬁed income year is the 2004– 05 or a later income year and if the relevant interposed entity has acted as if it were a family entity, ie where the relevant entity satisﬁes similar requirements to those that apply for family trust elections (see above). An interposed entity election cannot be made if the entity does not pass the family control test at the end of the income year that is speciﬁed in the election.
 

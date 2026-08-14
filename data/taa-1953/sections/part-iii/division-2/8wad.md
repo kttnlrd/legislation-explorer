@@ -5,7 +5,7 @@ part_title: "Prosecutions and offences"
 division: "2"
 division_title: "Offences"
 subdivision: "BAA"
-subdivision_title: "Offences relating to electronic sales"
+subdivision_title: "Offences relating to electronic sales suppression tools"
 section: "8WAD"
 section_title: "Possessing electronic sales suppression tools"
 compilation_no: 222

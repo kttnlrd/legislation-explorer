@@ -11,7 +11,7 @@ CGT event H1 — Forfeiture of a deposit CGT event H1 happens if a deposit paid 
 
 The most common example of CGT event H1 is where a deposit is forfeited under a contract for the sale of land (Brooks 2000 ATC 4362; [2000] FCA 721).
 
-CGT event H1 applies where a forfeited deposit arises in relation to the sale of land in circumstances where there is no “continuum of events” constituting a later sale of the land. If there is a continuum of events, the forfeited deposit will be treated as part of the capital proceeds from disposal of the land (TR 1999/19).
+CGT event H1 applies where a forfeited deposit arises in relation to the sale of land in circumstances where there is no "continuum of events" constituting a later sale of the land. If there is a continuum of events, the forfeited deposit will be treated as part of the capital proceeds from disposal of the land (TR 1999/19).
 
 Where instalment moneys (other than deposits) are lawfully applied in satisfaction of damages for breach of contract, a capital gain normally arises either because of a disposal of the right created by CGT event D1 (¶11-280) or CGT event H2 (see below) happens (TR 94/29).
 
@@ -33,7 +33,7 @@ Where instalment moneys (other than deposits) are lawfully applied in satisfacti
 
 CGT event H2 may happen if there is a variation in share rights, eg an alteration in voting rights, a change in dividend entitlements or conversion of a share from one class to another. However, in such a situation, CGT event H2 does not apply if CGT event G2 also happens. In the usual case, a share remains in existence following a variation in share rights. A variation in share rights does not result in the part disposal of a share under CGT event A1 or the creation of new rights under CGT event D1 (TR 94/30). However, if the variation results in a cancellation or redemption of the original share, CGT event C2 happens. A conversion of a co- operative into an unlisted public company and the issue of new share certiﬁcates do not give rise to CGT event A1 for its members (CR 2008/68).
 
-A resolution by an insurer to allow a premium rebate under a policy of insurance gave rise to CGT event H2 in respect of the policy holder’s bundle of rights under the policy (ID 2006/222).
+A resolution by an insurer to allow a premium rebate under a policy of insurance gave rise to CGT event H2 in respect of the policy holder's bundle of rights under the policy (ID 2006/222).
 
 The time of CGT event H2 is when the act, transaction or event occurs.
 

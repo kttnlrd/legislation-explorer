@@ -19,6 +19,6 @@ Diﬀerent considerations arise depending on whether a transaction involves a no
 
   anti-avoidance rules (¶30-110).
 
-Taxpayers should create and keep contemporaneous documentation to show that they were dealing with associated enterprises at arm’s length. It may be advisable to obtain an Advance Pricing Arrangement regarding the tax treatment of international transactions, agreements or arrangements between related parties (¶22-650).
+Taxpayers should create and keep contemporaneous documentation to show that they were dealing with associated enterprises at arm's length. It may be advisable to obtain an Advance Pricing Arrangement regarding the tax treatment of international transactions, agreements or arrangements between related parties (¶22-650).
 
 Where the arrangement involves an element of prepayment, the high rate taxpayer will not be permitted a deduction until, in eﬀect, the associated low rate taxpayer is assessable on the receipt (ITAA36 s 82KK: ¶16-110). Further, losses or outgoings of an excessive amount incurred in respect of payments to a third party are not deductible if associated with an acquisition of property by the taxpayer or an associate at an undervalue. If the parties are not associated, the prepayment may only be deductible to the extent that the prepayment rules permit (¶16-045).

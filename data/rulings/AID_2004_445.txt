@@ -3,27 +3,21 @@ ATO ID 2004/445
 ==================================================
 
 Goods and Services Tax
-        GST and grouping of a company and a non-fixed trust from 1 April 2003
-        FOI status: may be released
-
+ GST and grouping of a company and a non-fixed trust from 1 April 2003
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Do entity A and entity B satisfy the membership requirements of a GST group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), from 1 April 2003 when:
-
-
 
 •entity A is a company in which Individual X is the sole shareholder and director, and
 •entity B is a non-fixed trust of which the beneficiaries are Individual X, Individual Y and Individual Z, with both Individual Y and Individual Z being a family member of Individual X?
@@ -34,17 +28,13 @@ Facts
 Entity A, a company, and entity B, a non-fixed trust, are both registered for goods and services tax (GST).
 Entity A is a company in which Individual X is the sole shareholder and director.
 
-
 Entity B is a non-fixed trust of which the beneficiaries are Individual X, Individual Y and Individual Z. Individual Y and Individual Z are family members of Individual X.
-
 
 Entity B makes distributions of income and capital only to Individual X, Individual Y and Individual Z. The trustee of entity B is an unrelated company.
 Entity B does not have any ownership interest in entity A. Individual X, Individual Y and Individual Z are not registered for GST.
 Entity A and entity B have the same tax periods, account for GST on the same basis, are not members of any other GST group and do not have any branches which are registered under Division 54 of the GST Act.
 Reasons for Decision
 The membership requirements for entities to form a GST group are set out in section 48-10 of the GST Act. Some of the requirements apply to all entities. All entities must:
-
-
 
 •be registered for GST
 •have the same tax periods applying to it as the tax periods applying to all the other members of the GST group
@@ -59,8 +49,6 @@ Additional membership requirements for a company
 
 The additional membership requirements for companies are set out in section 48-10 of the GST Act. Subsection 48-10(3) of the GST Act requires a company in a GST group to satisfy the relationship requirements set out in section 48-15 of the GST Act, where one of the members of the proposed GST group is a non-company entity. Therefore, entity A, the company, must meet the relationship requirements with entity B, the non-fixed trust, set out in subsection 48-15(1) of the GST Act.
 The relevant relationship requirements of subsection 48-15(1) of the GST Act are set out in paragraph 48-15(1)(e) of the GST Act which provides that a company that is a member of a GST group or a proposed GST group satisfies the relationship requirements if a trust is a member of the GST group or proposed GST group, and distributions of income or capital of the trust are not made except to an entity that is:
-
-
 
 (i)the company
 (ii)any other company that is a member of the GST group or proposed GST group
@@ -84,7 +72,7 @@ Accordingly, as Individual X, Individual Y and Individual Z are all beneficiarie
 As entity B is distributing income or capital only to beneficiaries that are permitted beneficiaries, subregulation 48-10.03(2) of the GST Regulations is satisfied. Therefore, entity B meets the additional membership requirements to be a member of a GST group under regulation 48-10.03 of the GST Regulations.
 Entity A and the entity B both satisfy the membership requirements to form a GST group under section 48-10 of the GST Act.
 Date of decision:
-         23 December 2003
+  23 December 2003
 
 Legislative References:
 
@@ -94,20 +82,19 @@ A New Tax System (Goods and Services Tax) Regulations 1999   regulation 48-10
 Keywords
 
 Goods and services tax
-          GST special rules
-          GST groups
-          GST regulations
-          GST tax periods
-
+ GST special rules
+ GST groups
+ GST regulations
+ GST tax periods
 
 Siebel/TDMS Reference Number:
-         3863787
+  3863787
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         4 June 2004
+  4 June 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

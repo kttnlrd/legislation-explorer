@@ -31,11 +31,11 @@ Provided that the veteran has the relevant intention at the time of acquiring th
 
 – had a leg or both arms made permanently and completely useless, or – receives a total disability pension under the Veterans Entitlements Act 1986, or – is a severely injured individual who receives the Special Rate Disability Pension under the Military Rehabilitation and Compensation Act 2004.
 
-The car must be designed to carry a load of less than one tonne and fewer than 9 passengers. Motor cycles are not eligible; however, a special rebate may be claimed from the Repatriation Commission by totally and permanently incapacitated (TP&I) war veterans to cover the cost of GST paid on motor cycles designated as their personal vehicle (Veterans’ Entitlements (Special Assistance—Motorcycle Purchase) Instrument 2025 (F2025L00444)). The rebate also applies to the cost of replacement parts. However, it apparently does not apply to quad bikes (George v Repatriation Commission [2003] AATA 538).
+The car must be designed to carry a load of less than one tonne and fewer than 9 passengers. Motor cycles are not eligible; however, a special rebate may be claimed from the Repatriation Commission by totally and permanently incapacitated (TP&I) war veterans to cover the cost of GST paid on motor cycles designated as their personal vehicle (Veterans' Entitlements (Special Assistance—Motorcycle Purchase) Instrument 2025 (F2025L00444)). The rebate also applies to the cost of replacement parts. However, it apparently does not apply to quad bikes (George v Repatriation Commission [2003] AATA 538).
 
 It appears that the exemption would cover dealer delivery charges, as these would be treated as incidental to the supply of the car (Customs & Excise Commissioners v British Telecommunications plc [1999] 3 All ER 961): see ¶4-200. It would also presumably apply to accessories fitted at the time of delivery.
 
-If the market value of the car (including GST) is higher than the “car limit” (¶12-110), the supply of the car is only GST-free up to that limit. Above that limit, GST will apply. For the LCT threshold above which luxury car tax may apply, see ¶23-150.
+If the market value of the car (including GST) is higher than the "car limit" (¶12-110), the supply of the car is only GST-free up to that limit. Above that limit, GST will apply. For the LCT threshold above which luxury car tax may apply, see ¶23-150.
 
 However, even though the supply of the car may therefore be partly taxable, no input tax credit can be claimed (¶12-110). In working out the market value, the value of modifications made solely to adapt it for disabled use (eg hand controls) is disregarded. For a limited luxury car tax exemption for cars modified for wheelchairs, see ¶23-100.
 
@@ -53,7 +53,7 @@ In this case, however, the person must intend to use the car for personal transp
 
 *Refs: s 38-510)*
 
-- “gainful employment” means an occupation, profession or work that is productive of some advantage
+- "gainful employment" means an occupation, profession or work that is productive of some advantage
 
   or pecuniary gain
 

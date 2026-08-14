@@ -21,6 +21,7 @@ from .graph import router as graph_router
 from .issues import router as issues_router
 from .insolvency import router as insolvency_router
 from .regulatory_guides import router as regulatory_guides_router
+from .treaties import router as treaties_router
 
 router = APIRouter()
 router.include_router(acts_router)
@@ -38,11 +39,47 @@ router.include_router(graph_router)
 router.include_router(issues_router)
 router.include_router(insolvency_router)
 router.include_router(regulatory_guides_router)
+router.include_router(treaties_router)
 
 
-VERSION = "2.7.5"
+VERSION = "2.8.0"
 
 CHANGELOG = [
+    {
+        "version": "2.8.0",
+        "date": "2026-08-14",
+        "title": "Tax Treaties, Regulatory Guides, Social Composer, Knowledge Graph",
+        "changes": [
+            "New features:",
+            "|– 42 treaty countries ingested with per-article markdown files + FTS5 search",
+            "|– REST API: /api/treaties, /api/treaties/{country}, /api/treaties/{country}/article/{article}, /api/treaties/search",
+            "|– MCP tools: list_treaty_articles(country) and get_treaty_article(country, article)",
+            "|– Tax Treaties moved to single entry under new International Tax heading in act picker",
+            "|– Regulatory Guides: full integration with backend API, MCP tools (get_regulatory_guide, get_rg_sections), frontend component with structured summary panel and PDF download, Corps Act section cross-referencing",
+            "|– Social Post Composer: backend for generating drafts via OpenRouter and posting to Buffer",
+            "|– Knowledge Graph: case edges from section_case_index, permanent labels on all nodes, tree layout as default",
+            "|– FTS5 case search over summaries (BM25-ranked, Porter tokenizer)",
+            "|– Ruling search: exact-match pinning, LIKE fallback for FTS5 misses, citation display formatting (TR_2012_1 → TR 2012/1)",
+            "|– PostgreSQL connection pooling with auto-reconnect fallback",
+            "|– Expanded ruling type coverage (ATOID, CR, PR, GSTR, MT, TA, SGR, AID) with URL generation",
+            "|– Cross-act definition fallback: big-def sections (s 995-1, s 318, s 6, s 195-1) truncated with get_definition redirect",
+            "|– Rate limit relaxation: MCP SSE 10→60, messages 30→120, auth 20→60, global RPM 1000→3000",
+            "|– Act picker domain-grouped with settings panel optgroups",
+            "",
+            "Bugs fixed:",
+            "|– CDN-0094: scraped markup stripped before processor injects anchors — prevents HTML artifact bleed",
+            "|– CDN-0095: centralised scraped-markup stripper (text_cleaner.py) applied to section, ruling, and case endpoints",
+            "|– CDN-0097: insolvency-keays frontmatter fixed, YAML frontmatter stripped from API responses",
+            "|– resolve_alias false positives: section existence validated against tree before returning results",
+            "|– Bracketless case citations normalized (2024 HCA 18 → [2024] HCA 18)",
+            "|– Stale tree state race condition fixed with generation ref counter",
+            "|– Hall of Fame UI removed (dead code, deprecated API)",
+            "|– Search result snippets truncated to 150 chars instead of unbounded",
+            "|– Case search now included in search_sections path",
+            "|– Ruling FTS index falls back to summaries for real titles",
+            "|– Unicode definition term keys normalised (curly quotes → ASCII apostrophes)",
+        ],
+    },
     {
         "version": "2.7.5",
         "date": "2026-08-02",

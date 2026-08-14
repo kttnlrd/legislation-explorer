@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Generally accepted accounting practice with IFRS for test group**
 
-**(3)**  The interest holder may use generally accepted accounting practice with IFRS for the CFC’s test group under section EX 21E(2), if the interest holder or another person has accounts that—
+**(3)**  The interest holder may use generally accepted accounting practice with IFRS for the CFC's test group under section EX 21E(2), if the interest holder or another person has accounts that—
 
 - (a) include the accounts of the members of the test group; and
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **IFRSEs for test group**
 
-**(5)**  The interest holder may use IFRSEs for the CFC’s test group under section EX 21E(2), if the interest holder or another person has accounts that—
+**(5)**  The interest holder may use IFRSEs for the CFC's test group under section EX 21E(2), if the interest holder or another person has accounts that—
 
 - (a) include the accounts of the members of the test group; and
 
@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 - (c) the Commissioner does not have reasonable grounds to suspect—
 
-  - (i) fraudulent activity by the interest holder, the CFC, a company in the CFC’s test group, or the auditor:
+  - (i) fraudulent activity by the interest holder, the CFC, a company in the CFC's test group, or the auditor:
 
   - (ii) preparation of the accounts with an intent to mislead:
 

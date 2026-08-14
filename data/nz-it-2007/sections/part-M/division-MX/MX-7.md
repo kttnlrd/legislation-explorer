@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **R&D repayment tax: transfer of intellectual property**
 
-**(2)**  If subsection (1)﻿(a)﻿(i) applies, and subsection (1)﻿(a)﻿(ii) and (iii) does not apply, for the reinstatement year, the company is liable for an amount of R&D repayment tax equal to the lesser of— intangibles’ market value × basic tax rate for a company.
+**(2)**  If subsection (1)﻿(a)﻿(i) applies, and subsection (1)﻿(a)﻿(ii) and (iii) does not apply, for the reinstatement year, the company is liable for an amount of R&D repayment tax equal to the lesser of— intangibles' market value × basic tax rate for a company.
 
-- (a) the total of the company’s R&D loss tax credits, for the tax years in the period that begins with the earliest credit year and ends with the tax year corresponding to the reinstatement year, minus the total amount of—
+- (a) the total of the company's R&D loss tax credits, for the tax years in the period that begins with the earliest credit year and ends with the tax year corresponding to the reinstatement year, minus the total amount of—
 
-  - (i) the company’s terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the tax years in the period:
+  - (i) the company's terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the tax years in the period:
 
   - (ii) earlier payments of R&D repayment tax relating to R&D loss tax credits for the tax years in the period:
 
@@ -42,29 +42,29 @@ compilation_date: 2026-06-06
 
 **Definition of item in formula**
 
-**(3)**  In the formula, intangibles’ market value is the market value of the company’s intangible property, core technology, intellectual property, or know-how disposed of or transferred in the income year other than for consideration that is assessable income of the company and that has a value no less than the market value of the property transferred for that consideration.
+**(3)**  In the formula, intangibles' market value is the market value of the company's intangible property, core technology, intellectual property, or know-how disposed of or transferred in the income year other than for consideration that is assessable income of the company and that has a value no less than the market value of the property transferred for that consideration.
 
 **R&D repayment tax: loss of continuity**
 
 **(4)**  If subsection (1)﻿(b) applies, and subsection (1)﻿(a)﻿(ii) and (iii) does not apply, for the reinstatement year, the company is liable for an amount of R&D repayment tax, calculated for the tax years in the period that begins with the earliest credit year and ends with the tax year corresponding to the reinstatement year, equal to the lesser of—
 
-- (a) the total of the company’s R&D loss tax credits for the tax years in the period minus the total amount of—
+- (a) the total of the company's R&D loss tax credits for the tax years in the period minus the total amount of—
 
-  - (i) the company’s terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the tax years in the period:
+  - (i) the company's terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the tax years in the period:
 
   - (ii) earlier payments of R&D repayment tax relating to R&D loss tax credits for the tax years in the period:
 
-- (b) the total of the amounts calculated for each tax year in the period using the formula— shares’ market value × basic tax rate for a company.
+- (b) the total of the amounts calculated for each tax year in the period using the formula— shares' market value × basic tax rate for a company.
 
 **Definition of item in formula**
 
-**(5)**  In the formula, shares’ market value is the market value of the company’s voting interests or market value interests disposed of or transferred in the income year.
+**(5)**  In the formula, shares' market value is the market value of the company's voting interests or market value interests disposed of or transferred in the income year.
 
 **R&D repayment tax: eligibility loss or liquidation**
 
-**(6)**  If subsection (1)﻿(a)﻿(ii) or (iii) applies, the company is liable for an amount of R&D repayment tax equal to the total of the company’s R&D loss tax credits, for the tax years in the period that begins with the earliest credit year and ends with the tax year corresponding to the reinstatement year, minus the total amount of—
+**(6)**  If subsection (1)﻿(a)﻿(ii) or (iii) applies, the company is liable for an amount of R&D repayment tax equal to the total of the company's R&D loss tax credits, for the tax years in the period that begins with the earliest credit year and ends with the tax year corresponding to the reinstatement year, minus the total amount of—
 
-- (a) the company’s terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the tax years in the period:
+- (a) the company's terminal tax, plus tax credits giving rise to imputation credits, minus refundable tax credits giving rise to imputation debits, for the tax years in the period:
 
 - (b) earlier payments of R&D repayment tax relating to R&D loss tax credits for the tax years in the period.
 

@@ -18,12 +18,27 @@ import SettingsPanel from './components/SettingsPanel'
 import GraphModal from './components/GraphModal'
 import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
+import TreatyContent from './components/TreatyContent'
 import { ThemeProvider } from './ThemeContext'
 import { shortActName } from './utils/display'
 
 // Domain groupings for the act picker
+// All individual treaty country slugs — kept for isTreaty() / routing
+const TREATY_SLUGS = [
+  'argentina', 'austria', 'belgium', 'canada', 'chile', 'china', 'czech-republic',
+  'denmark', 'fiji', 'finland', 'france', 'hungary', 'iceland', 'india', 'indonesia',
+  'ireland', 'israel', 'italy', 'kiribati', 'korea', 'malaysia', 'malta', 'mexico',
+  'netherlands', 'new-zealand', 'norway', 'papua-new-guinea', 'philippines', 'poland',
+  'romania', 'russia', 'singapore', 'slovakia', 'south-africa', 'spain', 'sri-lanka',
+  'sweden', 'taipei', 'thailand', 'turkey', 'usa', 'vietnam',
+  'treaties',  // meta-act: shows country list in the tree
+]
+const TREATY_SET = new Set(TREATY_SLUGS)
+const isTreaty = (id: string) => TREATY_SET.has(id) && id !== 'treaties'
+
 const DOMAINS: { label: string; ids: string[] }[] = [
   { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases'] },
+  { label: 'International Tax', ids: ['treaties'] },
   { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
   { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
   { label: 'Corporate Insolvency', ids: ['insolvency-keays'] },
@@ -180,20 +195,6 @@ export default function App() {
     setActiveRuling(null)
     // setActiveTaxCase(citation)
   }
-  const goBack = () => {
-    setActiveSection('')
-    setActiveRuling(null)
-    setSectionData(null)
-    setBrowsingAct(true)
-    window.history.pushState(null, '', `/${act}`)
-  }
-  const goHome = () => {
-    setActiveSection('')
-    setActiveRuling(null)
-    setSectionData(null)
-    setBrowsingAct(false)
-    window.history.pushState(null, '', '/')
-  }
 
   // Close picker on click outside
   useEffect(() => {
@@ -235,9 +236,48 @@ export default function App() {
   useEffect(() => {
     const gen = ++treeGenRef.current
     setTree(null)
-    api.tree(act).then(data => {
+
+    // Treaties hub: show country list in the tree
+    if (act === 'treaties') {
+      api.treaties().then(data => {
+        if (gen !== treeGenRef.current) return
+        setTree({
+          act: 'treaties',
+          parts: [{
+            id: 'treaties',
+            title: 'Double Tax Agreements',
+            divisions: [],
+            sections: (data.countries || []).map((c: any) => ({
+              id: c.slug,
+              title: c.treaty,
+              path: c.slug,
+            })),
+          }],
+        } as Tree)
+        setError('')
+      }).catch(e => {
+        if (gen === treeGenRef.current) setError(e.message)
+      })
+      setDrawerOpen(false)
+      return
+    }
+
+    const load = isTreaty(act) ? api.treatyTree(act) : api.tree(act)
+    load.then(data => {
       if (gen !== treeGenRef.current) return
-      setTree(data)
+      if (isTreaty(act)) {
+        setTree({
+          act,
+          parts: [{
+            id: act,
+            title: data.treaty,
+            divisions: [],
+            sections: (data.articles || []).map((a: any) => ({ id: String(a.article), title: a.title, path: a.slug })),
+          }],
+        } as Tree)
+      } else {
+        setTree(data)
+      }
       setError('')
     }).catch(e => {
       if (gen === treeGenRef.current) setError(e.message)
@@ -261,6 +301,18 @@ export default function App() {
         .then(data => { setRulingData(data); setError('') })
         .catch(e => { setRulingData(null); setError(e.message) })
       window.history.pushState(null, '', `/rulings/${activeRuling}`)
+    } else if (activeSection && isTreaty(act)) {
+      api.treatyArticle(act, activeSection)
+        .then(data => { setSectionData(data); setError('') })
+        .catch(e => {
+          if (e.message?.includes('404')) {
+            setActiveSection('')
+            setSectionData(null)
+          } else {
+            setError(e.message)
+          }
+        })
+      window.history.pushState(null, '', `/${act}/${activeSection}`)
     } else if (activeSection) {
       api.section(act, activeSection)
         .then(data => { setSectionData(data); setError('') })
@@ -399,8 +451,9 @@ export default function App() {
                       boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
                     }}>
                       {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]).length > 0 ? (() => {
-                      const actList = acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]
-                      const actById = Object.fromEntries(actList.map(a => [a.id, a]))
+                      const actList = (acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }])
+                      const allActs = actList
+                      const actById = Object.fromEntries(allActs.map(a => [a.id, a]))
                       return DOMAINS.map(domain => {
                         const domainActs = domain.ids.filter(id => actById[id]).map(id => actById[id])
                         if (domainActs.length === 0) return null
@@ -449,7 +502,7 @@ export default function App() {
         {/* Tree */}
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { setAct(e); setActiveSection(''); } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
           ))}
         </div>
 
@@ -635,24 +688,6 @@ export default function App() {
         {hasContent && (
           <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
             <button
-              onClick={goBack}
-              title="Back to tree"
-              style={{
-                padding: '6px 8px', borderRadius: 6,
-                background: COLORS.surface, color: COLORS.textMuted,
-                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                display: 'flex', alignItems: 'center', gap: 4,
-                fontSize: 11, fontFamily: "'Montserrat', sans-serif",
-                fontWeight: 500,
-              }}
-            >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
-                <polyline points="9 22 9 12 15 12 15 22"/>
-              </svg>
-              <span style={{ fontSize: 10, opacity: 0.6 }}>{'<<'}</span>
-            </button>
-            <button
               onClick={() => {
                 navigator.clipboard.writeText(window.location.href).catch(() => {})
               }}
@@ -723,6 +758,14 @@ export default function App() {
             onNavigate={onNavigate}
             onNavigateRuling={onNavigateRuling}
           />
+        ) : isTreaty(act) && sectionData ? (
+          <TreatyContent
+            country={sectionData.country || shortActName(act)}
+            articleData={sectionData}
+            isMobile={isMobile}
+            onNavigate={onNavigate}
+            onNavigateRuling={onNavigateRuling}
+          />
         ) : sectionData ? (
           <SectionContent
             act={act}
@@ -741,24 +784,6 @@ export default function App() {
         ) : browsingAct && tree && act !== 'rulings' && act !== 'tax-cases' ? (
           <div style={{ fontFamily: "'Montserrat', sans-serif" }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
-              <button
-                onClick={goHome}
-                title="Back to home"
-                style={{
-                  padding: '6px 8px', borderRadius: 6,
-                  background: COLORS.surface, color: COLORS.textMuted,
-                  border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', gap: 4,
-                  fontSize: 11, fontFamily: "'Montserrat', sans-serif",
-                  fontWeight: 500,
-                }}
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
-                  <polyline points="9 22 9 12 15 12 15 22"/>
-                </svg>
-                <span style={{ fontSize: 10, opacity: 0.6 }}>{'<<'}</span>
-              </button>
               <span style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading }}>
                 {shortActName(act)}
               </span>
@@ -784,7 +809,7 @@ export default function App() {
                 }
                 collectIds(tree.parts || [])
                 return (tree.parts || []).map(p => (
-                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
+                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { setAct(e); setActiveSection(''); } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
                 ))
               })()}
             </div>

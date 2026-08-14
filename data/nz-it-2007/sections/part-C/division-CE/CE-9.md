@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
   - (ii) directly or indirectly wholly owns another company that carries on a business; and
 
-- (b) in that case, the words “person B” in subsection (3)﻿(c) and (d) mean the company that carries on the business, whether the company referred to in paragraph (a)﻿(i) or the company referred to in paragraph (a)﻿(ii).
+- (b) in that case, the words "person B" in subsection (3)﻿(c) and (d) mean the company that carries on the business, whether the company referred to in paragraph (a)﻿(i) or the company referred to in paragraph (a)﻿(ii).
 
 **Sale of part of business**
 

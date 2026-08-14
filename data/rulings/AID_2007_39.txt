@@ -3,23 +3,19 @@ ATO ID 2007/39
 ==================================================
 
 Income Tax
-        Continuing Majority-Owned Entity Test
-        FOI status: may be released
-
-
+ Continuing Majority-Owned Entity Test
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the trading stock assets of an entity that becomes a subsidiary member of a consolidated group be retained cost base assets for the purposes of Division 705 of Income Tax Assessment Act 1997 (ITAA 1997) where the subsidiary member fails to meet the requirements of section 701A-1 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997)?
 Decision
-No.  The trading stock assets of a subsidiary member are not eligible to be treated as retained cost base assets where the subsidiary member fails to meet the requirement of section 701A-1 of the IT(TP)A 1997.
+No. The trading stock assets of a subsidiary member are not eligible to be treated as retained cost base assets where the subsidiary member fails to meet the requirement of section 701A-1 of the IT(TP)A 1997.
 Facts
 From 1 July 2001, YCo (a listed Australian public company) owned 90% of the shares in ACo which held all of the shares in BCo. There has been no change to the underlying majority ownership of YCo from 27 June 2002.
 On 1 July 2003 ACo and BCo form a tax consolidated group with ACo as the head company. On the same day YCo and its subsidiary members also formed a consolidated group.
@@ -41,10 +37,10 @@ There has been no change in the ultimate beneficial ownership of ACo and BCo thr
 In respect of DCo and ECo, the acquisition by ACo of the shares in DCo in 2004 means a person or persons did not continue to be the majority owners of those entities in the test period of 27 June 2002 until the entities became a subsidiary member of YCo's consolidated group. Therefore, DCo and ECo are not continuing majority-owned entities under section 701A-1 of the IT(TP)A 1997.
 Even though ACo is a continuing majority-owned entity, it does not hold trading stock as an individual entity on a 'look through' basis in order for section 701A-5 of the IT(TP)A 1997 to apply. BCo on the other hand is a continuing majority-owned entity and holds trading stock as an individual entity. Thus, the trading stock assets held by BCo are eligible to be treated as retained cost base assets. The trading stock assets held by DCo and ECo are not eligible to be treated as retained cost base assets because those entities are not continuing majority-owned entities under section 701A-1 of the IT(TP)A 1997.
 Date of decision:
-         14 December 2006
+  14 December 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -62,20 +58,19 @@ Related ATO Interpretative Decisions
 Keywords
 
 Consolidated group
-          Reset cost base asset
-          Retained cost base asset
-          Subsidiary member of a consolidated group
-          Trading stock
-
+ Reset cost base asset
+ Retained cost base asset
+ Subsidiary member of a consolidated group
+ Trading stock
 
 Siebel/TDMS Reference Number:
-         5537979
+  5537979
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         23 February 2007
+  23 February 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

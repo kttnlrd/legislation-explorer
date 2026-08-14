@@ -2,16 +2,16 @@
 act: "Australian Master GST Guide"
 part: "10"
 section: "75-reduced-input-tax-credit-for-certain-services"
-title: "75% “reduced” input tax credit for certain services"
+title: "75% "reduced" input tax credit for certain services"
 paragraph: "¶10-040"
 ---
-# 75% “reduced” input tax credit for certain services ¶10-040
+# 75% "reduced" input tax credit for certain services ¶10-040
 
-As financial supplies are input taxed, the supplier cannot normally claim input tax credits (ITCs) for acquisitions it makes in making those supplies. However, a 75% reduced ITC (RITC) is allowed for certain types of services, known as “reduced credit acquisitions” (s 70-5), acquired by financial supply providers.
+As financial supplies are input taxed, the supplier cannot normally claim input tax credits (ITCs) for acquisitions it makes in making those supplies. However, a 75% reduced ITC (RITC) is allowed for certain types of services, known as "reduced credit acquisitions" (s 70-5), acquired by financial supply providers.
 
 The purpose of allowing an RITC is to reduce the effect of GST on the decision whether to insource or outsource the provision of a service. The cost of outsourcing is effectively increased where ITCs cannot be claimed. The availability of the RITC reduces the advantage of larger service providers that can afford to maintain a large in-house staff to provide services that smaller finance organisations, such as credit unions, would outsource. The effect of GST on decision making does not attract the anti-avoidance rules if there are other commercial reasons: ¶20-000.
 
-The 75% credit does not apply to the extent that the supplier would be entitled to an ITC in any event, for example, under the “de minimis” rule (¶10-032) or for borrowing expenses (¶10-035).
+The 75% credit does not apply to the extent that the supplier would be entitled to an ITC in any event, for example, under the "de minimis" rule (¶10-032) or for borrowing expenses (¶10-035).
 
 GST Regulation s 70-5.02 includes a range of categories of reduced credit acquisitions, generally corresponding with outsourced services of financial institutions, including:
 
@@ -121,7 +121,7 @@ Reduced credit for offshore management and support services Under the reverse ch
 
 Example Mega, an overseas-based international bank, has a branch in Sydney. It charges the Sydney branch for training assistance and legal advice provided by divisions of Mega. The Sydney branch can claim a reduced input tax credit on the acquisition of these services. It can also claim a reduced input tax credit for its share of the cost of payroll services provided by a 100% subsidiary of Mega.
 
-Services supplied by third parties The reduced credit is not available where the services are supplied by a third party that is not closely related to the supplier, and the cost is passed on to the recipient. This is called an “unabsorbed contribution” (GST Regulations s 70-5.02A).
+Services supplied by third parties The reduced credit is not available where the services are supplied by a third party that is not closely related to the supplier, and the cost is passed on to the recipient. This is called an "unabsorbed contribution" (GST Regulations s 70-5.02A).
 
 Example Mega charges its Sydney branch for a share of the cost of acquiring telecommunications services from an overseas Telecom which are used by the branch. No reduced credit will be available.
 
@@ -131,4 +131,4 @@ Example Mega charges its Sydney branch for a share of the cost of acquiring tele
 
 ## To offset this disadvantage, a reduced input tax credit is available where:
 
-## Enterprises are “closely related” if:
+## Enterprises are "closely related" if:

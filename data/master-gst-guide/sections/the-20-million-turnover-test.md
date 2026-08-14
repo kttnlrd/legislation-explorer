@@ -17,10 +17,10 @@ paragraph: "¶7-110"
 
   in the same way as aggregate turnover (¶3-030).
 
-Illustration: GST turnover for monthly tax periods As at March of the current income year, Big Business’s current GST turnover (ie turnover for the period from 1 April of the previous income year to 31 March) is $18.6 million. BB’s projected GST turnover (ie turnover for the period from 1 March to 28 February in the following income year) is $21.3 million. BB is required to adopt monthly tax periods.
+Illustration: GST turnover for monthly tax periods As at March of the current income year, Big Business's current GST turnover (ie turnover for the period from 1 April of the previous income year to 31 March) is $18.6 million. BB's projected GST turnover (ie turnover for the period from 1 March to 28 February in the following income year) is $21.3 million. BB is required to adopt monthly tax periods.
 
 Clubs and hotels are subject to special rules (¶16-030).
 
 *Refs: s 188-10), s 27-15*
 
-## Taxpayers with a GST turnover of at least $20 million, namely the taxpayer’s:
+## Taxpayers with a GST turnover of at least $20 million, namely the taxpayer's:

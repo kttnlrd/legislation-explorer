@@ -7,9 +7,9 @@ paragraph: "¶23-070"
 ---
 # General translation rules ¶23-070
 
-Subdivisions 960-C and 960-D provide general translation rules for converting foreign currency amounts into Australian dollars for income tax purposes. Division 775 contains the “forex rules” which determine the tax treatment of foreign exchange gains and losses (¶23-075).
+Subdivisions 960-C and 960-D provide general translation rules for converting foreign currency amounts into Australian dollars for income tax purposes. Division 775 contains the "forex rules" which determine the tax treatment of foreign exchange gains and losses (¶23-075).
 
-Cryptocurrencies Cryptocurrencies such as Bitcoin are neither “currency” nor “foreign currency” for the purposes of Australian tax law, including Div 775 (ITAA97 s 995-1(1); TD 2014/25; Seribu Pty Ltd 2020 ATC ¶10-538; [2020] AATA 1840). Where cryptocurrency is held or used as part of a business any proﬁts may be assessable as income.
+Cryptocurrencies Cryptocurrencies such as Bitcoin are neither "currency" nor "foreign currency" for the purposes of Australian tax law, including Div 775 (ITAA97 s 995-1(1); TD 2014/25; Seribu Pty Ltd 2020 ATC ¶10-538; [2020] AATA 1840). Where cryptocurrency is held or used as part of a business any proﬁts may be assessable as income.
 
 Disposals of cryptocurrency outside of a business are treated as the disposal of a CGT asset (TD 2014/26).
 
@@ -21,7 +21,7 @@ The following special translation rules specify the exchange rate to be used for
 
   currency (¶23-075). The amount of the obligation is converted at the exchange rate prevailing at
 
-  the “tax recognition time”, as determined under ITAA97 s 775-55(7)
+  the "tax recognition time", as determined under ITAA97 s 775-55(7)
 
 - the cost of depreciating assets is converted at the exchange rate which applied when the taxpayer
 
@@ -69,7 +69,7 @@ The following special translation rules specify the exchange rate to be used for
 
 Amounts that are elements in the calculation of other amounts are translated into Australian currency before the other amount is calculated (s 960-50(4), (5)). For example, this would apply to the calculation of a gain or loss on the disposal of a traditional security (TD 2006/30: ¶23-340). Similarly where a superannuation pension or annuity is payable in a foreign currency, the foreign pension or annuity payments and the deductible amount each have to be translated before working out the assessable amount (TD 2006/54).
 
-However, this does not apply to special accrual amounts as such amounts are calculated without translation and are then translated. “Special accrual amounts” are amounts subject to the luxury car leasing provisions (ITAA97 Div 242), the sale and loan provisions (ITAA97 Div 240), the tax-preferred leasing provisions (Subdiv 250-E), the provisions dealing with certain arrangements for the use of property (ITAA36 Pt III Div 16D), the deferred income securities provisions (ITAA36 Pt III Div 16E), the taxation of ﬁnancial arrangements rules in Div 230 (unless Subdiv 230-B applies) and gains and losses that are subject to the accruals method under Subdiv 230-B where all ﬁnancial beneﬁts that are provided and received under the ﬁnancial arrangement are denominated in a particular foreign currency (¶23-020).
+However, this does not apply to special accrual amounts as such amounts are calculated without translation and are then translated. "Special accrual amounts" are amounts subject to the luxury car leasing provisions (ITAA97 Div 242), the sale and loan provisions (ITAA97 Div 240), the tax-preferred leasing provisions (Subdiv 250-E), the provisions dealing with certain arrangements for the use of property (ITAA36 Pt III Div 16D), the deferred income securities provisions (ITAA36 Pt III Div 16E), the taxation of ﬁnancial arrangements rules in Div 230 (unless Subdiv 230-B applies) and gains and losses that are subject to the accruals method under Subdiv 230-B where all ﬁnancial beneﬁts that are provided and received under the ﬁnancial arrangement are denominated in a particular foreign currency (¶23-020).
 
 The cost of obtaining an exchange rate for the above purposes is deductible (ID 2004/856).
 
@@ -81,7 +81,7 @@ Exceptions The core translation rules contained in Subdiv 960-C do not aﬀect t
 
 ITAA36 former ss 20, 102AAX, 391 and ITAA97 former s 103-20 continue to apply to transactions or events which are not subject to the translation rules under Subdiv 960-C.
 
-Functional currency rules (Subdiv 960-D) Under the “functional currency” rules, the net income of an entity (or speciﬁed part of an entity) that functions predominantly in a particular foreign currency can be determined in that currency, with the net amount being translated into Australian currency. In other words, taxpayers can choose not to translate each transaction into Australian currency. In essence, each transaction may be translated from the other currency (say US$ or even A$) into a functional currency (eg Euro) (s 960-60), producing a net income amount in the functional currency, which is subsequently translated into the Australian currency (s 960-80).
+Functional currency rules (Subdiv 960-D) Under the "functional currency" rules, the net income of an entity (or speciﬁed part of an entity) that functions predominantly in a particular foreign currency can be determined in that currency, with the net amount being translated into Australian currency. In other words, taxpayers can choose not to translate each transaction into Australian currency. In essence, each transaction may be translated from the other currency (say US$ or even A$) into a functional currency (eg Euro) (s 960-60), producing a net income amount in the functional currency, which is subsequently translated into the Australian currency (s 960-80).
 
 *Refs: ITAA97 s 995-1(1), s 960-50), s
 960-50(6)), ITAA97 s 775-55(7), s 960-50(4), ITAA97 s 775-210), ITAA97 s 974-35(6)), s 103-20, s 960-60), s 960-80)*
@@ -120,7 +120,7 @@ The functional currency rules apply to amounts of a capital or revenue nature ge
 
 Special rules apply where an entity makes a choice to convert an amount to the applicable functional currency and the amount is attributable to an event that happened or a state of aﬀairs that arose before the current choice took eﬀect, for instance the sale of a car acquired prior to the choice and the cost of which was originally accounted for in A$ (s 960-85).
 
-As a general rule, an amount to which s 960-80(1) applies will not be in the “applicable functional currency” where its source is a legal right or obligation denominated in any currency (including Australian currency), other than the non-Australian currency that is the entity’s “applicable functional currency” (TR 2007/5). In rare cases the income tax law itself may be the source of a relevant amount, ie the amount may stem from a statutory concept which is separate and distinct from the underlying transactions and components which go to its makeup, or from a statutory Australian dollar amount.
+As a general rule, an amount to which s 960-80(1) applies will not be in the "applicable functional currency" where its source is a legal right or obligation denominated in any currency (including Australian currency), other than the non-Australian currency that is the entity's "applicable functional currency" (TR 2007/5). In rare cases the income tax law itself may be the source of a relevant amount, ie the amount may stem from a statutory concept which is separate and distinct from the underlying transactions and components which go to its makeup, or from a statutory Australian dollar amount.
 
 Generally, a choice made in one year applies to the following income year but if the choice is made within 90 days of the start of the income year (or within 90 days of the taxpayer coming into existence), it can apply to the whole income year in which the choice is made (ss 960-60; 960-65). The choice can be withdrawn and substituted.
 
@@ -132,7 +132,7 @@ An Australian resident entity, which is required to prepare ﬁnancial statement
 
 The applicable functional currency is not relevant for the purpose of applying FBT, GST, SGC and PAYG withholding provisions (TD 2006/5). However, this does not mean that none of the amounts calculated under these provisions will be aﬀected by a choice to use a particular foreign currency as the applicable functional currency (eg the amount of the deduction for FBT will need to be translated into the applicable functional currency).
 
-If an “attributable taxpayer” makes a choice to use the applicable functional currency, the choice will not apply to its calculation of “attribution surplus” under the CFC provisions (TD 2006/6). The attribution surplus and all amounts included in the attribution account of the attributable taxpayer should be in Australian currency.
+If an "attributable taxpayer" makes a choice to use the applicable functional currency, the choice will not apply to its calculation of "attribution surplus" under the CFC provisions (TD 2006/6). The attribution surplus and all amounts included in the attribution account of the attributable taxpayer should be in Australian currency.
 
 The head company of a consolidated group can make a choice to use the applicable functional currency.
 
@@ -142,7 +142,7 @@ The applicable functional currency for the head company of a consolidated group 
 
 A head company of a consolidated group that prepares a ﬁnancial report for the group (a special purpose ﬁnancial report) which accounts for the transactions of its subsidiaries must adopt the same translation methodologies for the same kinds of transactions. If it adopts diﬀerent translation methodologies, it cannot be said to comply with the accounting standards and does not comply with the core foreign currency translation rule in s 960-50 (TD 2013/21).
 
-A “small proprietary company”, which is not required to prepare reports under s 292, can make a choice to use the applicable functional currency in limited circumstances (TD 2006/8).
+A "small proprietary company", which is not required to prepare reports under s 292, can make a choice to use the applicable functional currency in limited circumstances (TD 2006/8).
 
 *Refs: s 960-85), s 960-70), s 960-80), s 960-80(1), s 960-60, s 960-61), s 960-50*
 

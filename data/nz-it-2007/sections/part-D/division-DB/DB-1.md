@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 - (b) fringe benefit tax (FBT):
 
-- (c) employer’s superannuation contribution tax (ESCT):
+- (c) employer's superannuation contribution tax (ESCT):
 
 - (d) resident withholding tax (RWT):
 

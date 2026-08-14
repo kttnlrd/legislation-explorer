@@ -9,15 +9,15 @@ paragraph: "None"
 
 businesses Worked example: Extension of time for self-amendments for small and medium businesses Issue Bare Bones Pty Ltd lodges its income tax return for the year ended 30 June 2025 on 14 May 2026 and subsequently receives a notice of assessment on 28 June 2026.
 
-Upon further review in late 2027, Richard Evans, the company’s financial director, finds an issue with its declared turnover, which included a number of sales that should have been included in the results for the year ended 30 June 2026.
+Upon further review in late 2027, Richard Evans, the company's financial director, finds an issue with its declared turnover, which included a number of sales that should have been included in the results for the year ended 30 June 2026.
 
-As a result, the company’s tax liability for the year ended 30 June 2025 was overstated by $51,423.
+As a result, the company's tax liability for the year ended 30 June 2025 was overstated by $51,423.
 
 Richard approaches you because he has heard that companies only have 2 years in which to lodge an amendment against a notice of assessment and he is concerned that the company will end up having to pay the overstated tax.
 
 Advise Richard.
 
-Solution Richard should be advised that the period of amendment has recently been increased to 4 years, meaning that an application for amendment of the company’s tax return can still be made.
+Solution Richard should be advised that the period of amendment has recently been increased to 4 years, meaning that an application for amendment of the company's tax return can still be made.
 
 Previously, the period during which the ATO could amend an assessment for small and medium business entities was 2 years, starting from the day after the notice of assessment was sent to the taxpayer.
 

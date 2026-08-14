@@ -3,23 +3,18 @@ ATO ID 2010/39
 ==================================================
 
 Income Tax
-        Dividends paid on redeemable preference shares treated as a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the Income Tax Assessment Act 1997
-        FOI status: may be released
-
+ Dividends paid on redeemable preference shares treated as a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the Income Tax Assessment Act 1997
+ FOI status: may be released
 
 While the ATO view expressed within the ATOID is technically correct, the way the position has been explained within the ATOID is not accurate and could lead to some unintended interpretations and outcomes. If it is determined that an ATOview is still required then a replacement ATO ID will be drafted.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are the dividends paid on redeemable preference shares (RPS) to a taxpayer, being the holder of the RPS, a 'cost' for the purposes of 'controlled foreign entity equity' in subparagraph 820-890(1)(b)(ii) of the Income Tax Assessment Act 1997 ( ITAA 1997)?
@@ -33,8 +28,6 @@ X Co uses the funds to invest in a portfolio of Loans. The Loans would pay a fix
 X Co pays RPS dividends to the taxpayer in relation to its RPS holding in X Co.
 As part of the RPS issued to the taxpayer by X Co:
 
-
-
 •X Co shall redeem all of the RPS on the Mandatory Redemption Date, to occur within 10 years of the date of issue;
 •X Co may redeem the RPS prior to the Mandatory Redemption Date at the taxpayer's option;
 •the taxpayer and other RPS holders have the right to require X Co to redeem the RPS; and
@@ -45,12 +38,8 @@ Reasons for Decision
 Section 820-890 of the ITAA 1997 sets out the definition of 'controlled foreign entity equity' (CFE equity) for thin capitalisation purposes under Division 820 of the ITAA 1997.
 Subsection 820-890(1) of the ITAA 1997 provides that the relevant entity's CFE equity at a particular time during the relevant period is the total value of:
 
-
-
 (a)all the *equity interests that the entity holds, at that time, in entities that are controlled entities of the relevant entity at that time; and
 (b)all the *debt interests *on issue and held by the entity at that time that satisfy both of the following:
-
-
 
 (i)the interests were *issued by entities that are controlled entities of the relevant entity at that time;
 (ii)none of the interests gives rise to any cost, at any time, that is covered by paragraph 820-40(1)(a).
@@ -62,8 +51,6 @@ Accordingly, the definition of a 'debt deduction' in section 820-40 of the ITAA 
 Subsection 820-40(1) of the ITAA 1997 specifically includes in the meaning of 'debt deduction' of an entity a 'cost' incurred by the entity in relation to a 'debt interest' issued by the entity - to the extent to which the 'cost' is covered by any of the amounts listed in paragraph 820-40(1)(a) of the ITAA 1997 and which would, apart from the operation of Division 820 of the ITAA 1997, be deductible for the year of income.
 As previously noted, X Co issued the RPS which were 'on issue' and held by the taxpayer. The RPS are a 'debt interest' as defined in subsection 974-20(1) of the ITAA 1997.
 Therefore, any cost incurred by X Co in relation to the RPS will be a cost covered by paragraph 820-40(1)(a) of the ITAA 1997, if the cost is one of the amounts listed in the paragraph. Of particular relevance to the facts in the present case is subparagraph 820-40(1)(a)(iii) of the ITAA 1997, which includes a 'cost' incurred by X Co (the issuer of the 'debt interest') to the extent to which the 'cost' is:
-
-
 
 (iii)any amount directly incurred in obtaining or maintaining the financial benefits received, or to be received, by the entity under the scheme giving rise to the debt interest.
 
@@ -81,8 +68,6 @@ Paragraph 18 of AASB 132 relevantly states that:
 a preference share that provides for mandatory redemption by the issuer for a fixed or determinable amount at a fixed or determinable future date, or gives the holder the right to require the issuer to redeem the instrument at or after a particular date for a fixed or determinable amount, is a financial liability....
 The following features of the RPS issued to the taxpayer by X Co indicate that the RPS is a 'liability' for accounting purposes:
 
-
-
 •X Co shall redeem all of the RPS on the Mandatory Redemption Date;
 •X Co may redeem the RPS prior to the Mandatory Redemption Date at the taxpayer's option;
 •the taxpayer and other RPS holders have the right to require X Co to redeem the RPS; and
@@ -92,10 +77,10 @@ Therefore, the dividend paid from the RPS is recognised under AASB 132 as a 'cos
 This is consistent with the intended operation of section 820-40 of the ITAA 1997, which was to include dividends (that are classified as costs) in relation to debt interests, within the ambit of debt deductions potentially subject to disallowance under Division 820 of the ITAA 1997.
 As the dividend paid from the RPS 'debt interest' is a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the ITAA 1997, the RPS will not be included in the taxpayer's CFE equity calculation.
 Date of decision:
-         16 December 2009
+  16 December 2009
 
 Year of income:
-           Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
+  Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
 
 Legislative References:
 
@@ -105,36 +90,31 @@ Income Tax Assessment Act 1997   Division 820   section 820-40   paragr
 Other References:
 
 Treasury discussion paper, Thin Capitalisation: Application of Accounting Standards (November 2006)
-          Australian Accounting Standards Board (AASB), AASB 132: Financial Instruments Presentation
-
+ Australian Accounting Standards Board (AASB), AASB 132: Financial Instruments Presentation
 
 Keywords
 
 Accounting standards
-          Dividend income
-          International tax
-          Thin capitalisation
-
+ Dividend income
+ International tax
+ Thin capitalisation
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         12 February 2010
+  12 February 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 16 December 2009

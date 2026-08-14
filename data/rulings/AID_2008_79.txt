@@ -3,21 +3,16 @@ ATO ID 2008/79
 ==================================================
 
 Superannuation
-        Excess Contributions Tax: notional taxed contributions - meaning of defined benefit member - person not accruing benefits
-        FOI status: may be released
-
+ Excess Contributions Tax: notional taxed contributions - meaning of defined benefit member - person not accruing benefits
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a person who is entitled to a defined benefit from a defined benefit superannuation fund but is currently not accruing further defined benefits, a 'defined benefit member' of the fund for the purposes of regulation 292-170.02 of the Income Tax Assessment Regulations 1997 (ITAR 1997)?
@@ -33,7 +28,6 @@ Notional taxed contributions are the contributions which are used to determine t
 Regulation 292-170.02 of the ITAR 1997 sets out when Schedule 1A of the ITAR 1997 is to be used to determine the amount of notional taxed contributions for the purposes of subsection 291-170(1) of the Income Tax Assessment Act 1997 (ITAA 1997). One of the requirements is that the superannuation fund has 5 or more defined benefit members.
 There is no definition of 'defined benefit member' in regulation 292-170.02 of the ITAR 1997. However the term is defined in regulation 995-1.01 of the ITAR 1997. The definition does not include anything to suggest that a member who is entitled to a defined benefit from the fund even where they are not currently accruing further defined benefits should be excluded.
 The WXY defined benefit fund which has 52 members, 4 of whom are accruing benefits and 48 of whom are not accruing further defined benefits in the fund has more than 5 defined benefit members. Accordingly, the WXY defined benefit fund must use Schedule 1A of the ITAR 1997 to determine the notional taxed contributions for the members of the fund.
-
 
 Note 1: that it is possible that some or all of the 48 members who are not accruing further defined benefits in the fund may satisfy the circumstances set out in regulation 292-170.04 of the ITAR 1997, which states when the notional taxed contributions in respect of the members' defined benefit interest will be considered to be nil.
 
@@ -56,10 +50,10 @@ Siebel Reference Number
 Added.
 
 Date of decision:
-         1 May 2008
+  1 May 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -74,33 +68,29 @@ Related ATO Interpretative Decisions
 Keywords
 
 Concessional contributions
-          Defined benefit superannuation funds
-          Excess concessional contributions
-          Superannuation excess contributions tax
-
+ Defined benefit superannuation funds
+ Excess concessional contributions
+ Superannuation excess contributions tax
 
 Siebel/TDMS Reference Number:
-         5960477; 1-56TBQK2
+  5960477; 1-56TBQK2
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         30 May 2008
+  30 May 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  1 May 2008

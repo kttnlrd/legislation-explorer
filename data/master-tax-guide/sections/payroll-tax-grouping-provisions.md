@@ -7,11 +7,11 @@ paragraph: "¶36-110"
 ---
 # Payroll tax grouping provisions ¶36-110
 
-The legislation in all states provides for the “grouping” of related or associated businesses so that, where 2 or more businesses are grouped, their wages are aggregated in order to determine whether a liability exists.
+The legislation in all states provides for the "grouping" of related or associated businesses so that, where 2 or more businesses are grouped, their wages are aggregated in order to determine whether a liability exists.
 
 However, each employer in the group remains primarily responsible for the payment of payroll tax on its own wages. The principal circumstances in which businesses will be grouped by the various state tax authorities are as follows:
 
-- where companies are “related” under Corporations Act 2001 (ie in a holding/subsidiary
+- where companies are "related" under Corporations Act 2001 (ie in a holding/subsidiary
 
   relationship)
 

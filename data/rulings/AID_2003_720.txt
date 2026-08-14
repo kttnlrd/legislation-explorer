@@ -3,18 +3,14 @@ ATO ID 2003/720
 ==================================================
 
 Income Tax
-        Deducting tax loss of earlier income year: disqualifying change of company ownership in loss year - when company can deduct part of a tax loss
-        FOI status: may be released
-
-
+ Deducting tax loss of earlier income year: disqualifying change of company ownership in loss year - when company can deduct part of a tax loss
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a company claim a deduction for any part of a tax loss if there was a change in majority ownership of the company during the loss year and the company did not satisfy the same business test for the income year?
@@ -28,10 +24,10 @@ Section 165-20 of the ITAA 1997 is directed at situations where section 165-10 o
 The share capital raising initiative resulted in the company being unable to satisfy the conditions in section 165-12 of the ITAA 1997 (which is about the company maintaining the same owners). Further, as the company commenced a new business in the income year, it was unable to meet the conditions in section 165-13 of the ITAA 1997 (which is about the company carrying on the same business). Therefore, section 165-10 of the ITAA 1997 prevented the company from deducting the tax loss in the income year.
 However, if the part of the loss year after the share capital raising were treated as the whole of the loss year for the purposes of section 165-10 of the ITAA 1997 (in accordance with the assumption in section 165-20 of the ITAA 1997), the company would be taken to have maintained the same owners on a continuous basis from the deemed start of the loss year (the time of the new share issue) to the end of the year of income. On the basis of this assumption, the company would be entitled to deduct the tax loss. Accordingly, subsection 165-20 enables the company to deduct in the income year the part of the tax loss incurred during the part of the loss year after the new share issue.
 Date of decision:
-         27 June 2003
+  27 June 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -40,17 +36,16 @@ Income Tax Assessment Act 1997   section 165-10   section 165-12   sect
 Keywords
 
 Part year issues
-          Prior year losses
-
+ Prior year losses
 
 Siebel/TDMS Reference Number:
-         3661180
+  3661180
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         15 August 2003
+  15 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

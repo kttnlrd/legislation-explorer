@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Adjustments for credits used**
 
-**(2)**  The person’s tax credit is adjusted if an instalment of the credit under subpart MF (Payment of credits) is used to satisfy an amount of tax for an earlier income year. The adjustment to the tax credit is equal to the total amount of instalments payable under section MF 1 (Application for payment of tax credit by instalment) that are recovered by the Commissioner under section MF 6 (Overpayment or underpayment of tax credit) as tax payable by the person.
+**(2)**  The person's tax credit is adjusted if an instalment of the credit under subpart MF (Payment of credits) is used to satisfy an amount of tax for an earlier income year. The adjustment to the tax credit is equal to the total amount of instalments payable under section MF 1 (Application for payment of tax credit by instalment) that are recovered by the Commissioner under section MF 6 (Overpayment or underpayment of tax credit) as tax payable by the person.
 
 *Defined in this Act: amount, amount of tax, corresponding income year, family scheme income, minimum family tax credit, pay, tax credit, tax year*
 

@@ -14,13 +14,13 @@ compilation_date: 2026-06-06
 
 **(1)**  Mineral miner means a person to which 1 of the following applies:
 
-- (a) the person’s only source of income is the business described in subsection (2); or
+- (a) the person's only source of income is the business described in subsection (2); or
 
-- (b) the person’s main source of income is the business described in subsection (2); or
+- (b) the person's main source of income is the business described in subsection (2); or
 
-- (c) the person’s only activity is 1 of the activities described in subsection (3); or
+- (c) the person's only activity is 1 of the activities described in subsection (3); or
 
-- (d) the person’s main activity is 1 of the activities described in subsection (3); or
+- (d) the person's main activity is 1 of the activities described in subsection (3); or
 
 - (e) the person proposes that their only activity or their main activity be 1 of the activities described in subsection (3).
 

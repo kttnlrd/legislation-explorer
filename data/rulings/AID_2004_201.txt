@@ -3,26 +3,19 @@ ATO ID 2004/201
 ==================================================
 
 Goods and Services Tax
-        GST and grouping of two companies
-        FOI status: may be released
-
+ GST and grouping of two companies
+ FOI status: may be released
 
 This ATO ID has been amended due to changes to Division 48 of the A New Tax System (Goods and Services Tax) Act 1999 which apply to tax periods starting on or after 1 July 2010
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Do the entities, company A and company B, satisfy the membership requirements of a GST group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) where:
-
-
 
 • company A owns 50% of the total shares in company B, and
 • an individual owns the other 50% of the shares in company B, as a nominee shareholder of company A?
@@ -37,8 +30,6 @@ Company A notified the Commissioner, in the approved form, of the formation of a
 Reasons for Decision
 Section 48-10 of the GST Act sets out the membership requirements of a GST group that an entity must satisfy in order to form a GST group. If the entity is a company, it must:
 
-
-
 • be a company of the same 90% owned group as all the other members of the GST group that are also companies
 • be registered for GST
 • have the same tax periods applying to it as the tax periods applying to all the other members of the GST group
@@ -50,8 +41,6 @@ Company A and company B are registered for goods and services tax (GST), have th
 Paragraph 190-1(a) the GST Act provides that two companies are members of the same 90% owned group if one of the companies has at least a 90% stake in the other company.
 Section 190-5 of the GST Act provides that a company (the holding company) has at least a 90% stake in another company (the subsidiary company) if the holding company:
 
-
-
 • controls, or is able to control, at least 90% of the voting power in the subsidiary company (whether directly, or indirectly through one or more interposed companies)
 • has the right to receive at least 90% of any dividends that the subsidiary company may pay (whether directly, or indirectly through one or more interposed companies), and
 • has the right to receive at least 90% of any distribution of capital of the subsidiary company (whether directly, or indirectly through one or more interposed companies).
@@ -61,11 +50,10 @@ Company A holds 50% of the shares in company B and controls the rights attached 
 Company A controls 50% of the rights directly, and 50% indirectly through the interposed entity that is the individual shareholder. As such, company A controls 100% of the voting rights in company B and has the right to receive 100% of the dividends and the distribution of the capital of company B.
 Therefore, company A and company B are members of the same 90% owned group and satisfy the membership requirements of a GST group under section 48-10 of the GST Act.
 
-
 [Note: Division 48 of the GST Act was amended with effect from tax periods starting on or after 1 July 2010. Prior to the amendments, entities were required to apply to the Commissioner for approval to form a GST group. As a result of these amendments, references to the Commissioner approving the formation of a GST group have been removed from this ATO ID.]
 
 Date of decision:
-         29 April 2003
+  29 April 2003
 
 Legislative References:
 
@@ -74,19 +62,18 @@ A New Tax System (Goods and Services Tax) Act 1999   section 48-5   paragr
 Keywords
 
 Goods and services tax
-          GST special rules
-          GST groups
-          GST tax periods
-
+ GST special rules
+ GST groups
+ GST tax periods
 
 Siebel/TDMS Reference Number:
-         3539720
+  3539720
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         5 March 2004
+  5 March 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

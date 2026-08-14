@@ -3,18 +3,14 @@ ATO ID 2007/122
 ==================================================
 
 Income Tax
-        Research and development: feedstock expenditure
-        FOI status: may be released
-
-
+ Research and development: feedstock expenditure
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is expenditure incurred by an eligible company on the manufacture of a product 'feedstock expenditure', as defined by subsection 73B(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -33,14 +29,12 @@ The definition of 'research and development expenditure' in subsection 73B(1) of
 Subsection 73B(1) of the ITAA 1936 defines 'feedstock expenditure as follows:
 
 "feedstock expenditure"
-              , in relation to an eligible company, means expenditure incurred by the company in acquiring or producing materials or goods to be the subject of processing or transformation by the company in research and development activities, and includes expenditure incurred by the company on any energy input directly into the processing or transformation.
+ , in relation to an eligible company, means expenditure incurred by the company in acquiring or producing materials or goods to be the subject of processing or transformation by the company in research and development activities, and includes expenditure incurred by the company on any energy input directly into the processing or transformation.
 
 Under subsection 73B(1A) of the ITAA 1936, 'eligible feedstock expenditure' is the amount by which the company's 'feedstock input' exceeds its 'feedstock output' in respect of the year of income in relation to related research and development activities.
 'Residual feedstock expenditure' is deductible under subsection 73B(14B) of the ITAA 1936, but only at the rate of 100 per cent. 'Residual feedstock expenditure' is defined in subsection 73B(1) of the ITAA 1936, to mean the lesser of the company's feedstock input or feedstock output in respect of the year of income in relation to related research and development activities.
 Also relevant are the definitions of 'feedstock input' and 'feedstock output' in subsection 73B(1) of the ITAA 1936. The former is the actual feedstock expenditure in respect of goods or materials that were processed or transformed by the company in the relevant research and development activities, and the latter is the proceeds from the sale of, or the sale value of product(s) obtained in relation to that feedstock input expenditure.
 The provisions described above (the feedstock provisions) operate in the following manner:
-
-
 
 •whilst 'feedstock expenditure' is precluded from being 'research and development expenditure', 'eligible feedstock expenditure' (being the excess of feedstock input over any feedstock output) is specifically included, and therefore deductible at the concessional rate of 125 per cent under subsection 73B(14) of the ITAA 1936
 •if feedstock output is greater than, or equal to feedstock input, the whole of the feedstock input becomes 'residual feedstock expenditure' and deductible at the rate of 100 per cent under subsection 73B(14B) of the ITAA 1936
@@ -68,21 +62,19 @@ The Macquarie Dictionary definition of transformation includes:
 
 noun
 1.
-               the act of transforming.
-              2.
-               the state of being transformed.
-              3.
-               change in form, appearance, nature, or character...
-
+ the act of transforming.
+ 2.
+ the state of being transformed.
+ 3.
+ change in form, appearance, nature, or character...
 
 transform
 
-
 verb (t)
 1.
-               to change in form; change to something of a different form; metamorphose.
-              2.
-               to change in appearance, condition, nature, or character, especially completely or extensively.
+ to change in form; change to something of a different form; metamorphose.
+ 2.
+ to change in appearance, condition, nature, or character, especially completely or extensively.
 
 Thus, transformation normally involves a change in form, appearance, condition, nature or character, and arguably has a narrower meaning than 'processing'.
 The purpose of the feedstock provisions also needs to be considered in interpreting the terms in question. The introduction of the feedstock provisions addressed previous concerns surrounding the availability of a deduction at the full concessional rate for the cost of goods or materials processed or transformed in research and development activities, even though the proceeds from the sale of the resulting product were only taxed at 100 per cent.
@@ -91,14 +83,13 @@ The purpose and scheme of the feedstock provisions therefore does not support a 
 The manufacture of the product in question involves both processing and transformation of the constituent ingredients, as they are changed from their form pre-manufacture into the form of the product. As this processing or transformation of the ingredients occurs in the course of one aspect of the research and development activities carried out by the company (the manufacture of the product to be used in the trial), the expenditure incurred in acquiring these ingredients is 'feedstock expenditure'.
 The chemical reaction occurring during storage of the product also points to there being 'processing or transformation' of the product at this stage, even though there has been no visible change in the product's appearance. As this processing or transformation of the product involves goods or materials and also occurs in the course of the research and development activities carried out by the company (the development and trial of the relevant materials), the expenditure incurred on the manufacture or production of the product is also 'feedstock expenditure'.
 
-
 Note: Under section 39L of the Industry Research and Development Act the Industry Research and Development Board (the Board) has the power to issue a certificate stating whether particular activities were 'research and development activities'. Such a certificate is binding on the Commissioner of Taxation under subsection 73B(34) of the ITAA 1936. The description of certain activities as research and development activities is not to be taken as any indication that the Board has or would issue such a certificate to this effect.
 
 Date of decision:
-         7 June 2007
+  7 June 2007
 
 Year of income:
-           1 October 2004 to 30 September 2005
+  1 October 2004 to 30 September 2005
 
 Legislative References:
 
@@ -106,7 +97,6 @@ Income Tax Assessment Act 1936   subsection 73B(1)   subsection 73B(1A) �
 Industry Research and Development Act 1986   section 39L
 
 Case References:
-
 
 Amalgamated Zinc (De Bavay's) Ltd v. Federal Commissioner of Taxation   (1935) 54 CLR 295   (1935) 3 ATD 288
 
@@ -130,15 +120,14 @@ Keywords
 
 Research & development feedstock expenditure
 
-
 Siebel/TDMS Reference Number:
-         5269720
+  5269720
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         15 June 2007
+  15 June 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

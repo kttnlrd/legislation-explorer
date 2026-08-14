@@ -14,9 +14,9 @@ compilation_date: 2026-06-06
 
 **(1)**  This subpart applies if 1 or more of the following breaches occur:
 
-- (a) when commonality of ownership required by section IC 5(1)﻿(a) (Company B using company A’s tax loss) is not met during a tax year (a commonality breach):
+- (a) when commonality of ownership required by section IC 5(1)﻿(a) (Company B using company A's tax loss) is not met during a tax year (a commonality breach):
 
-- (b) when continuity of ownership required by section IA 5(1) (Restrictions on companies’ loss balances carried forward: continuity of ownership) is broken during a tax year, or when a new or existing company joins a group of companies during a tax year (an ownership continuity breach):
+- (b) when continuity of ownership required by section IA 5(1) (Restrictions on companies' loss balances carried forward: continuity of ownership) is broken during a tax year, or when a new or existing company joins a group of companies during a tax year (an ownership continuity breach):
 
 - (c) when a company to which section IB 3 (When tax loss components of companies carried forward despite ownership continuity breach) applies breaches, during an income year, the requirement of section IB 3(2)﻿(b) or (c) for the carrying forward of a tax loss component to the tax year that corresponds to the income year (a business continuity breach).
 

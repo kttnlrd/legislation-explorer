@@ -3,18 +3,14 @@ ATO ID 2008/13
 ==================================================
 
 Income Tax
-        Company Tax Losses: loss company during the test period was initially a 100% subsidiary of a listed public company, and then a listed public company itself - whether the former concessional tracing rules apply
-        FOI status: may be released
-
-
+ Company Tax Losses: loss company during the test period was initially a 100% subsidiary of a listed public company, and then a listed public company itself - whether the former concessional tracing rules apply
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the former Division 166 of the Income Tax Assessment Act 1997 (ITAA 1997) apply where, during the test period, the loss company was initially a 100% subsidiary of a listed public company, and then became a listed public company itself?
@@ -29,7 +25,7 @@ Reasons for Decision
 The former subsection 166-5(1) of the ITAA 1997 provided:
 
 166-5(1) This Subdivision [Subdivision 166-A] modifies the way Subdivision 165-A applies to a company that is a * listed public company at all times during a period (the
-              test period)
+ test period)
  consisting of the *loss year, the income year and any intervening period.
 
 The former section 166-10 of the ITAA 1997 provided:
@@ -39,12 +35,10 @@ The former section 166-10 of the ITAA 1997 provided:
 Note: Subdivision 165-A is about the conditions a company must satisfy before it can deduct a tax loss for an earlier income year.
 
 166-10(2) The company (the
-              subsidiary)
+ subsidiary)
  must be a *100% subsidiary of another company (the
-              holding company)
+ holding company)
  at all times during a period consisting of:
-
-
 
 (a)the *loss year of the subsidiary; and
 (b)the income year of the subsidiary; and
@@ -53,8 +47,6 @@ Note: Subdivision 165-A is about the conditions a company must satisfy before it
 166-10(3) Also, the holding company must be a *listed public company at all times during that period.
 
 166-10(4) If the conditions are met then, for the purposes of applying Subdivision 165-A to the subsidiary, this Subdivision applies to the subsidiary as if:
-
-
 
 (a)the subsidiary were itself a *listed public company at all times during that period; and
 (b)an *abnormal trading in *shares in the holding company during that period were an abnormal trading in shares in the subsidiary.
@@ -67,10 +59,10 @@ The former subsection 166-10(2) of the ITAA 1997 provided that Subdivision 166-A
 Company A was not a listed public company, or a 100% subsidiary of the same listed public company, at all times during the test period.
 Therefore, the former Division 166 of the ITAA 1997 does not apply to company A.
 Date of decision:
-         20 December 2007
+  20 December 2007
 
 Year of income:
-           Year ended 31 December 2002
+  Year ended 31 December 2002
 
 Legislative References:
 
@@ -80,19 +72,18 @@ Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Act 2005   Item
 Keywords
 
 Wholly owned subsidiary
-          Holding companies
-          Public company
-          Tax loss
-
+ Holding companies
+ Public company
+ Tax loss
 
 Siebel/TDMS Reference Number:
-         5364489
+  5364489
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         11 January 2008
+  11 January 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

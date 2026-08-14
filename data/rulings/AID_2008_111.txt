@@ -3,23 +3,18 @@ ATO ID 2008/111
 ==================================================
 
 Income Tax
-        Complying superannuation fund:  deduction for increased amount of superannuation lump sum death benefit - earnings foregone
-        FOI status: may be released
-
+ Complying superannuation fund: deduction for increased amount of superannuation lump sum death benefit - earnings foregone
+ FOI status: may be released
 
 This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that does not apply to lump sum death benefits paid because of the death of a person on or after 1 July 2017 or to such benefits paid on or after 1 July 2019. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of such benefits paid because of the death of a person before 1 July 2017 or to such benefits paid before 1 July 2019.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In calculating the 'tax saving amount' for the purposes of paragraph 295-485(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997), can a fund trustee take into account the earnings that would have accrued if no tax had been imposed on contributions included in assessable income under Subdivision 295-C of the ITAA 1997 or under former section 274 of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -27,19 +22,17 @@ Decision
 Yes. In calculating the 'tax saving amount' for the purposes of paragraph 295-485(1)(b) of the ITAA 1997 a fund trustee can take into account the earnings that would have accrued if no tax had been imposed on contributions included in assessable income under Subdivision 295-C of the ITAA 1997 or under former section 274 of the ITAA 1936.
 Facts
 The taxpayer is a complying superannuation fund.
-The fund only provides accumulation benefits.  Accordingly, member benefits are determined by reference to the sum of contributions and investment income credited over the period of membership, less expenses such as fees, taxes and insurance premiums.
+The fund only provides accumulation benefits. Accordingly, member benefits are determined by reference to the sum of contributions and investment income credited over the period of membership, less expenses such as fees, taxes and insurance premiums.
 In calculating the tax saving amount for the purposes of section 295-485 of the ITAA 1997, the fund takes into account the tax paid on contributions plus a further amount representing the earnings that would have accrued on the amount of tax paid on contributions if those contributions had not been subject to tax.
 The accounting records of the fund allow it to determine the contributions that have been subject to tax in respect of each member.
 The fund also has the historical records that allow it to calculate the earnings that would have accrued on the amount of tax paid on contributions.
 Reasons for Decision
 Section 295-485 of the ITAA 1997 allows a deduction to a complying superannuation fund or a complying approved deposit fund when:
 
-
-
 •it pays a superannuation lump sum because of the death of a person to the trustee of the deceased's estate or an individual who was a spouse, former spouse or child of the deceased at the time of death or payment; and
 •it increases the lump sum by an amount, or does not reduce the lump sum by an amount (the
-                tax saving amount
-                ), so that the amount of the lump sum is the amount that the fund could have paid if no tax were payable on amounts included in assessable income under Subdivision 295-C of the ITAA 1997 and former section 274 of the ITAA 1936.
+ tax saving amount
+ ), so that the amount of the lump sum is the amount that the fund could have paid if no tax were payable on amounts included in assessable income under Subdivision 295-C of the ITAA 1997 and former section 274 of the ITAA 1936.
 
 The provision requires the fund to determine the amount that would have been paid as a superannuation lump sum if contributions were not included in the assessable income of the fund.
 Section 295-160 of the ITAA 1997 includes contributions and certain payments in an entity's assessable income. If contributions are included in the assessable income of the fund, the amount available for payment as a superannuation lump sump will be lower. This is due to the tax paid not being available for crediting to the member's account, and subsequently not being available to be invested to earn further income.
@@ -55,16 +48,15 @@ These statements make it clear that the purpose of the deduction in the former s
 This is only achieved if the earnings foregone are taken into account in determining the tax savings amount for the purposes of section 295-485 of the ITAA 1997. To exclude these earnings from the determination of the amount under section 295-485 would mean that the superannuation lump sum recipient was worse off because of the tax on superannuation contributions.
 Accordingly, in calculating the tax saving amount for the purposes of paragraph 295-485(1)(b) of the ITAA 1997, a fund trustee can take into account the earnings that would have accrued if no tax had been imposed on contributions included in assessable income under Subdivision 295-C of the ITAA 1997 or under former section 274 of the ITAA 1936.
 Date of decision:
-         3 July 2008
+  3 July 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 274   section 279D
 Income Tax Assessment Act 1997   Subdivision 295-C   section 295-160   section 295-485   Paragraph 295-485(1)(b)
-
 
 Related ATO Interpretative Decisions
 
@@ -80,31 +72,27 @@ Other References:
 Keywords
 
 Superannuation fund expenses
-          Superannuation fund potential detriment payments
-
+ Superannuation fund potential detriment payments
 
 Siebel/TDMS Reference Number:
-         5734683;1-I5SSJV7
+  5734683;1-I5SSJV7
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         8 August 2008
+  8 August 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  3 July 2008

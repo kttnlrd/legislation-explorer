@@ -3,28 +3,23 @@ ATO ID 2006/105
 ==================================================
 
 Income Tax
-        Foreign exchange (forex) gains and losses on payment of foreign currency on the re-exchange of currencies under a foreign exchange swap contract
-        FOI status: may be released
-
+ Foreign exchange (forex) gains and losses on payment of foreign currency on the re-exchange of currencies under a foreign exchange swap contract
+ FOI status: may be released
 
 This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial (TOFA 3 and 4).
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will forex realisation event 4 (FRE 4) happen under subsection 775-55(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where a payment of foreign currency is made on the re-exchange of currencies under a foreign exchange swap contract (FX swap)?
 Decision
-Yes.  FRE 4 will happen under subsection 775-55(1) of the ITAA 1997 where a payment of foreign currency is made on the re-exchange of currencies under a FX swap.
+Yes. FRE 4 will happen under subsection 775-55(1) of the ITAA 1997 where a payment of foreign currency is made on the re-exchange of currencies under a FX swap.
 Facts
 The taxpayer entered into a business transaction where it will receive an amount of United States dollars (USD) on a future date.
 The taxpayer enters into a FX swap on 31 March 2006 to hedge the business transaction against adverse movements in the Australian dollar (AUD)/USD exchange rates.
@@ -48,10 +43,10 @@ Disclaimer
 In line with decision to include a generic exclusion at the start of the ATOIDs that are impacted on by TOFA.
 
 Date of decision:
-         29 March 2006
+  29 March 2006
 
 Year of income:
-           Year ended 30 June 2006 Year ending 30 June 2007
+  Year ended 30 June 2006 Year ending 30 June 2007
 
 Legislative References:
 
@@ -65,41 +60,37 @@ Related ATO Interpretative Decisions
 Keywords
 
 Assuming an obligation
-          Currency exchange rate
-          Currency swaps
-          Financial derivatives
-          Foreign currency
-          Foreign exchange gains and losses
-          Forex realisation event
-          Forex realisation gain
-          Forex realisation loss
-          Hedging
-          Swaps
-          Tax recognition time
-
+ Currency exchange rate
+ Currency swaps
+ Financial derivatives
+ Foreign currency
+ Foreign exchange gains and losses
+ Forex realisation event
+ Forex realisation gain
+ Forex realisation loss
+ Hedging
+ Swaps
+ Tax recognition time
 
 Siebel/TDMS Reference Number:
-         4927877
+  4927877
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         13 April 2006
+  13 April 2006
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 29 March 2006

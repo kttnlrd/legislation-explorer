@@ -38,55 +38,55 @@ compilation_date: 2026-06-06
 
 **Person not resident group member: more jurisdictional BE income**
 
-**(4)**  For a person who is not a resident group member and has jurisdictional BE income for the conversion year that is greater than zero and greater than the person’s jurisdictional attributed income for the conversion year,—
+**(4)**  For a person who is not a resident group member and has jurisdictional BE income for the conversion year that is greater than zero and greater than the person's jurisdictional attributed income for the conversion year,—
 
-- (a) the person’s converted BE loss in the conversion year is the lesser of—
+- (a) the person's converted BE loss in the conversion year is the lesser of—
 
-  - (i) the person’s jurisdictional BE income for the conversion year:
+  - (i) the person's jurisdictional BE income for the conversion year:
 
-  - (ii) the person’s available BE loss for the conversion year:
+  - (ii) the person's available BE loss for the conversion year:
 
-- (b) the person’s equivalent CFC loss is the lesser of—
+- (b) the person's equivalent CFC loss is the lesser of—
 
-  - (i) the person’s jurisdictional attributed income for the conversion year:
+  - (i) the person's jurisdictional attributed income for the conversion year:
 
-  - (ii) the amount calculated by dividing the person’s available BE loss for the conversion year by the person’s jurisdictional income ratio for the conversion year.
+  - (ii) the amount calculated by dividing the person's available BE loss for the conversion year by the person's jurisdictional income ratio for the conversion year.
 
 **Person not resident group member: more jurisdictional attributed income**
 
-**(5)**  For a person who is not a resident group member and has jurisdictional attributed income for the conversion year that is greater than or equal to zero and greater than or equal to the person’s jurisdictional BE income for the conversion year,—
+**(5)**  For a person who is not a resident group member and has jurisdictional attributed income for the conversion year that is greater than or equal to zero and greater than or equal to the person's jurisdictional BE income for the conversion year,—
 
-- (a) the person’s converted BE loss for the conversion year is the lesser of—
+- (a) the person's converted BE loss for the conversion year is the lesser of—
 
-  - (i) the person’s available BE loss for the conversion year:
+  - (i) the person's available BE loss for the conversion year:
 
-  - (ii) the person’s jurisdictional attributed income for the conversion year:
+  - (ii) the person's jurisdictional attributed income for the conversion year:
 
-- (b) the person’s equivalent CFC loss is equal to the person’s converted BE loss for the conversion year.
+- (b) the person's equivalent CFC loss is equal to the person's converted BE loss for the conversion year.
 
 **Resident group member: more jurisdictional BE income**
 
-**(6)**  For a person who is a resident group member for a wholly-owned group of companies and has jurisdictional BE income for the conversion year that is greater than zero and greater than the person’s jurisdictional attributed income for the conversion year,—
+**(6)**  For a person who is a resident group member for a wholly-owned group of companies and has jurisdictional BE income for the conversion year that is greater than zero and greater than the person's jurisdictional attributed income for the conversion year,—
 
-- (a) the person’s converted BE loss for the conversion year is the lesser of—
+- (a) the person's converted BE loss for the conversion year is the lesser of—
 
-  - (i) the person’s available BE loss for the conversion year:
+  - (i) the person's available BE loss for the conversion year:
 
-  - (ii) the greater of the person’s jurisdictional BE income for the conversion year and the amount calculated by multiplying the group’s jurisdictional income ratio for the conversion year by the person’s jurisdictional attributed income for the conversion year:
+  - (ii) the greater of the person's jurisdictional BE income for the conversion year and the amount calculated by multiplying the group's jurisdictional income ratio for the conversion year by the person's jurisdictional attributed income for the conversion year:
 
-- (b) the person’s equivalent CFC loss is the amount calculated by dividing the person’s converted BE loss for the conversion year by the group’s jurisdictional income ratio for the conversion year.
+- (b) the person's equivalent CFC loss is the amount calculated by dividing the person's converted BE loss for the conversion year by the group's jurisdictional income ratio for the conversion year.
 
 **Resident group member: more jurisdictional attributed income**
 
-**(7)**  For a person who is a resident group member and has jurisdictional attributed income for the conversion year that is greater than or equal to zero and greater than or equal to the person’s jurisdictional BE income for the conversion year,—
+**(7)**  For a person who is a resident group member and has jurisdictional attributed income for the conversion year that is greater than or equal to zero and greater than or equal to the person's jurisdictional BE income for the conversion year,—
 
-- (a) the person’s converted BE loss for the conversion year is the lesser of—
+- (a) the person's converted BE loss for the conversion year is the lesser of—
 
-  - (i) the person’s available BE loss for the conversion year:
+  - (i) the person's available BE loss for the conversion year:
 
-  - (ii) the person’s jurisdictional attributed income for the conversion year multiplied by the group’s jurisdictional income ratio for the conversion year:
+  - (ii) the person's jurisdictional attributed income for the conversion year multiplied by the group's jurisdictional income ratio for the conversion year:
 
-- (b) the person’s equivalent CFC loss is equal to the amount calculated by dividing the person’s converted BE loss for the conversion year by the group’s jurisdictional income ratio for the conversion year.
+- (b) the person's equivalent CFC loss is equal to the amount calculated by dividing the person's converted BE loss for the conversion year by the group's jurisdictional income ratio for the conversion year.
 
 **Election by person or group to fix jurisdictional income ratio**
 
@@ -102,7 +102,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(9)**  For a person or wholly-owned group and a tax year for which the person or members of the wholly-owned group have an income interest in a CFC that is resident in a country or territory (the jurisdiction),— jurisdictional attributed income means,— (a) for a person and the tax year, the amount that is the greater of zero and the amount calculated by— (i) finding, for each CFC resident in the jurisdiction, the attributed CFC income or loss of the person from the CFC for the tax year: (ii) finding, for each FIF resident in the jurisdiction for which the person uses the attributable FIF income method, the FIF income or loss of the person from the FIF for the tax year: (iii) subtracting the total of loss amounts under subparagraphs (i) and (ii) from the total of income amounts under subparagraphs (i) and (ii): (b) for a wholly-owned group and the tax year, the amount that is the greater of zero and the attributed CFC income or loss and FIF income or loss, treating losses as negative, of members of the group who are New Zealand residents from CFCs and FIFs that are resident in the jurisdiction for the tax year, consolidated for the purposes of the financial statements of the group jurisdictional BE income means,— (a) for a person and the tax year, the amount that is the greater of zero and the amount calculated by— (i) multiplying, for each CFC resident in the jurisdiction, the person’s income interest in the CFC for the tax year by the branch equivalent income or loss of the CFC for the tax year or, if the person chooses, by the amount given by subsection (10) for the CFC for the tax year: (ii) finding, for each FIF resident in the jurisdiction for which the person uses the attributable FIF income method, the FIF income or loss calculated under the branch equivalent method of the person from the FIF for the tax year: (iii) subtracting the total of loss amounts under subparagraphs (i) and (ii) from the total of income amounts under subparagraphs (i) and (ii): (b) for a wholly-owned group and the tax year, the amount that is the greater of zero and the amount calculated, treating losses as negative, by— (i) multiplying, for each CFC resident in the jurisdiction, the income interest in the CFC of members of the group who are New Zealand residents for the tax year by the branch equivalent income or loss of the CFC for the tax year or, if the group chooses, by the amount given by subsection (10) for the CFC for the tax year: (ii) consolidating the results for the purposes of the financial statements of the group jurisdictional income ratio,— (a) for a person that has not made an election under subsection (8), means the greater of 1 and the amount calculated by dividing the person’s jurisdictional BE income for the tax year by the person’s jurisdictional attributed income for the tax year: (b) for a wholly-owned group that has not made an election under subsection (8) for the tax year, means the greater of 1 and the amount calculated by dividing the group’s jurisdictional BE income for the tax year by the group’s jurisdictional attributed income for the tax year: (c) for a person or wholly-owned group that has made an election under subsection (8) for the tax year, means the amount given by subsection (8) for the person or group and the tax year resident group member means a person who is a member of a wholly-owned group that has other New Zealand residents as members.
+**(9)**  For a person or wholly-owned group and a tax year for which the person or members of the wholly-owned group have an income interest in a CFC that is resident in a country or territory (the jurisdiction),— jurisdictional attributed income means,— (a) for a person and the tax year, the amount that is the greater of zero and the amount calculated by— (i) finding, for each CFC resident in the jurisdiction, the attributed CFC income or loss of the person from the CFC for the tax year: (ii) finding, for each FIF resident in the jurisdiction for which the person uses the attributable FIF income method, the FIF income or loss of the person from the FIF for the tax year: (iii) subtracting the total of loss amounts under subparagraphs (i) and (ii) from the total of income amounts under subparagraphs (i) and (ii): (b) for a wholly-owned group and the tax year, the amount that is the greater of zero and the attributed CFC income or loss and FIF income or loss, treating losses as negative, of members of the group who are New Zealand residents from CFCs and FIFs that are resident in the jurisdiction for the tax year, consolidated for the purposes of the financial statements of the group jurisdictional BE income means,— (a) for a person and the tax year, the amount that is the greater of zero and the amount calculated by— (i) multiplying, for each CFC resident in the jurisdiction, the person's income interest in the CFC for the tax year by the branch equivalent income or loss of the CFC for the tax year or, if the person chooses, by the amount given by subsection (10) for the CFC for the tax year: (ii) finding, for each FIF resident in the jurisdiction for which the person uses the attributable FIF income method, the FIF income or loss calculated under the branch equivalent method of the person from the FIF for the tax year: (iii) subtracting the total of loss amounts under subparagraphs (i) and (ii) from the total of income amounts under subparagraphs (i) and (ii): (b) for a wholly-owned group and the tax year, the amount that is the greater of zero and the amount calculated, treating losses as negative, by— (i) multiplying, for each CFC resident in the jurisdiction, the income interest in the CFC of members of the group who are New Zealand residents for the tax year by the branch equivalent income or loss of the CFC for the tax year or, if the group chooses, by the amount given by subsection (10) for the CFC for the tax year: (ii) consolidating the results for the purposes of the financial statements of the group jurisdictional income ratio,— (a) for a person that has not made an election under subsection (8), means the greater of 1 and the amount calculated by dividing the person's jurisdictional BE income for the tax year by the person's jurisdictional attributed income for the tax year: (b) for a wholly-owned group that has not made an election under subsection (8) for the tax year, means the greater of 1 and the amount calculated by dividing the group's jurisdictional BE income for the tax year by the group's jurisdictional attributed income for the tax year: (c) for a person or wholly-owned group that has made an election under subsection (8) for the tax year, means the amount given by subsection (8) for the person or group and the tax year resident group member means a person who is a member of a wholly-owned group that has other New Zealand residents as members.
 
 **Option to determine jurisdictional BE income from accounts**
 

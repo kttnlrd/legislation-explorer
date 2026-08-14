@@ -2,18 +2,18 @@
 act: "Australian Master Tax Guide"
 part: "44"
 section: "company-directors-checklist"
-title: "Company directors’ checklist"
+title: "Company directors' checklist"
 paragraph: "¶44-120"
 ---
-# Company directors’ checklist ¶44-120
+# Company directors' checklist ¶44-120
 
-- Directors’ fees, bonuses and similar payments are deductible to the company and assessable to
+- Directors' fees, bonuses and similar payments are deductible to the company and assessable to
 
   the director (¶10-050, ¶16-040, ¶16-520).
 
-- Deferred directors’ fees may qualify for the arrears-of-income rebate (¶15-340).
+- Deferred directors' fees may qualify for the arrears-of-income rebate (¶15-340).
 
-- Directors’ remuneration is subject to PAYG instalments, but special rules may apply if the
+- Directors' remuneration is subject to PAYG instalments, but special rules may apply if the
 
   remuneration is passed on to a professional partnership (¶5-090, ¶26-150).
 
@@ -33,7 +33,7 @@ paragraph: "¶44-120"
 
   will not normally be assessable as ordinary income, but may be assessable as a capital gain. If the
 
-  amount is received for a covenant which operates during the course of the director’s employment,
+  amount is received for a covenant which operates during the course of the director's employment,
 
   the ATO will generally seek to assess it as income (¶10-050, ¶11-280).
 
@@ -47,7 +47,7 @@ paragraph: "¶44-120"
 
   that the transaction is on commercial terms or satisﬁes various other conditions (¶4-260).
 
-- An “at call” loan made by a director to the company is treated as equity rather than debt
+- An "at call" loan made by a director to the company is treated as equity rather than debt
 
   (¶23-115).
 
@@ -61,7 +61,7 @@ paragraph: "¶44-120"
 
   also be available under Double Tax Agreements (¶10-860).
 
-- The source of a director’s income will be important where the director is a non-resident (¶21-070).
+- The source of a director's income will be important where the director is a non-resident (¶21-070).
 
 - A director is generally classed as an employee for the purposes of the superannuation guarantee
 
@@ -85,7 +85,7 @@ paragraph: "¶44-120"
 
 - Remuneration of non-working directors may be exempt from payroll tax (¶36-140).
 
-- Directors’ beneﬁts are generally subject to FBT. However, FBT will not apply where the beneﬁts
+- Directors' beneﬁts are generally subject to FBT. However, FBT will not apply where the beneﬁts
 
   are provided to a director in the capacity of shareholder or beneﬁciary of a trust. Miscellaneous
 
@@ -103,7 +103,7 @@ paragraph: "¶44-120"
 
   be assessable to the director and deductible to the company. Special rules apply in determining the
 
-  tax consequences where insurance policies are taken out to cover the director’s potential liability.
+  tax consequences where insurance policies are taken out to cover the director's potential liability.
 
 There may also be CGT consequences where the debt is repaid or the director is called on to make a payment under the guarantee (¶10-110, ¶11-270, ¶11-400, ¶16-060, ¶16-152).
 
@@ -125,15 +125,15 @@ There may also be CGT consequences where the debt is repaid or the director is c
 
   the proceeds will be assessable (and the premiums deductible) if the purpose of the insurance was
 
-  to replace proﬁts lost through the loss of the key person’s services (¶10-220, ¶16-570).
+  to replace proﬁts lost through the loss of the key person's services (¶10-220, ¶16-570).
 
-- A company is entitled to a deduction for directors’ fees for the income year in which it has
+- A company is entitled to a deduction for directors' fees for the income year in which it has
 
   deﬁnitively committed itself to the payment (¶16-040, ¶16-520).
 
 - A company may claim a deduction for losses of money arising from theft or misappropriation by
 
-  a director, but not if the “loss” is caused by a board of directors acting as the mind and will of the
+  a director, but not if the "loss" is caused by a board of directors acting as the mind and will of the
 
   company itself. Alternatively, a deduction may be available where the loss is a natural incident of
 
@@ -147,7 +147,7 @@ There may also be CGT consequences where the debt is repaid or the director is c
 
   or expenses of protecting a capital asset (¶16-830 – ¶16-845).
 
-- The cost of providing morning tea to directors in an “in-house dining facility” is deductible
+- The cost of providing morning tea to directors in an "in-house dining facility" is deductible
 
   (¶16-390).
 
@@ -177,7 +177,7 @@ There may also be CGT consequences where the debt is repaid or the director is c
 
 ¶31-000).
 
-- Directors must ensure that, where the company has made PAYG deductions (eg from employees’
+- Directors must ensure that, where the company has made PAYG deductions (eg from employees'
 
   wages), become liable for superannuation guarantee charge (SGC) or has a liability for GST for a
 
@@ -193,7 +193,7 @@ There may also be CGT consequences where the debt is repaid or the director is c
 
   are available for the company's salary and wages (¶26-620).
 
-- A director may be personally liable for a special “PAYG withholding non-compliance tax” where
+- A director may be personally liable for a special "PAYG withholding non-compliance tax" where
 
   the company has withheld PAYG amounts from payments made to the director, but failed to pay its
 
@@ -207,7 +207,7 @@ There may also be CGT consequences where the debt is repaid or the director is c
 
   or conspiracy to defraud (¶29-700).
 
-- Where a “taxation oﬀence” is committed by the company, directors will also be treated as having
+- Where a "taxation oﬀence" is committed by the company, directors will also be treated as having
 
   committed the oﬀence unless they can show that they were not involved with it. The court may also
 
@@ -229,7 +229,7 @@ There may also be CGT consequences where the debt is repaid or the director is c
 
   companies in the group (¶8-000).
 
-- Directors may be liable under the “bottom of the harbour” legislation, and for a range of other
+- Directors may be liable under the "bottom of the harbour" legislation, and for a range of other
 
   oﬀences such as making false and misleading statements, or hindering taxation oﬃcers (¶29-700).
 

@@ -20,13 +20,13 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(3)**  The person’s tax credit is equal to an amount calculated using the formula— (person’s taxable distribution ÷ total distribution) × foreign tax paid.
+**(3)**  The person's tax credit is equal to an amount calculated using the formula— (person's taxable distribution ÷ total distribution) × foreign tax paid.
 
 **Definition of items in formula**
 
 **(4)**  In the formula,—
 
-- (a) person’s taxable distribution is the amount of the taxable distribution derived by the person in their capacity as beneficiary of the trust, including a payment of tax that meets the requirements of subsection (2):
+- (a) person's taxable distribution is the amount of the taxable distribution derived by the person in their capacity as beneficiary of the trust, including a payment of tax that meets the requirements of subsection (2):
 
 - (b) total distribution is the total amount of the distribution derived by the person in their capacity as beneficiary of the trust, including a payment of tax that meets the requirements of subsection (2):
 

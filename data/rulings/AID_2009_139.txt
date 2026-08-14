@@ -3,21 +3,17 @@ ATO ID 2009/139
 ==================================================
 
 Income Tax
-        Custodians' managed investment trust withholding rate under Subdivision 12-H of Schedule 1 to the Taxation Administration Act 1953
-        FOI status: may be released
-
+ Custodians' managed investment trust withholding rate under Subdivision 12-H of Schedule 1 to the Taxation Administration Act 1953
+ FOI status: may be released
 
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a custodian that makes a payment (a part of which is reasonably attributable to a fund payment under Subdivision 12-H of Schedule 1 to the Taxation Administration Act 1953 (TAA)) to a resident of Japan, reduce the withholding rate from 22.5% (prescribed by that Subdivision) to 15% because of Article 10 of Schedule 6 to the International Tax Agreements Act 1953 (Japanese Convention)?
@@ -34,8 +30,6 @@ The Japanese client beneficially owns the distribution.
 Reasons for Decision
 Subdivision 12-H of Schedule 1 to the TAA governs the withholding obligations of custodians making payments to outside of Australia where all or part of a payment is attributable to a fund payment made by a trustee of a managed investment trust.
 Subsection 12-390(1) of Schedule 1 to the TAA provides that a custodian that makes a payment to an entity covered by section 12-410 of Schedule 1 to the TAA, must withhold an amount from the payment if:
-
-
 
 •all or part of the payment is reasonably attributable to a fund payment made by a managed investment trust; and
 •the fund payment was covered by a notice or information as required by subsection 12-395(2) of Schedule 1 to the TAA.
@@ -58,31 +52,29 @@ The obligation on the custodian to withhold at 22.5% pursuant to Subdivision 12-
 The ultimate foreign beneficiary of a fund payment is entitled to a refund of any amount withheld that is in excess of their liability calculated in accordance with Article 10(7) of the Japanese Convention.
 It is therefore possible for a custodian to withhold at a rate of 22.5% without Australia breaching its obligation under the Japanese Convention to impose tax at a rate not exceeding 15%. Therefore, the requirement under Subdivision 12-H of Schedule 1 to the TAA does not conflict with the 15% tax rate limit on gross distributions by REITs.
 Further, this interpretation aligns with the purposes of Subdivision 12-H of Schedule 1 to the TAA as it ensures withholding at a rate that covers the foreign residents' tax liability. Withholding at a lower rate may result in the foreign resident having a liability in excess of the amount withheld. This is because the 15% rate in the Japanese Convention applies to the
-          gross
-           distribution of income, profits or gains, some of which may be taxed at a lower rate (for example, interest income of foreign residents is taxed at 10%) or not taxed (for example, foreign source income), and therefore taxing the fund payment at 22.5% may still result in the effective rate of tax on the
-          gross
-           distribution being equal to or less than 15%.
+ gross
+ distribution of income, profits or gains, some of which may be taxed at a lower rate (for example, interest income of foreign residents is taxed at 10%) or not taxed (for example, foreign source income), and therefore taxing the fund payment at 22.5% may still result in the effective rate of tax on the
+ gross
+ distribution being equal to or less than 15%.
 Accordingly, Custodial Services Co cannot reduce the withholding rate from 22.5% (prescribed by Subdivision 12-H of Schedule 1 to the TAA) to 15% because of Article 10 of the Japanese Convention.
 
-
-
 Note:
-                 Managed investment trust withholding tax applies at a rate of 22.5% for the first income year of a managed investment trust starting on or after the first 1 July following Royal Assent (1 July 2008). The phrase 'the first income year starting on or after 1 July 2008' is used to refer to any income year in which the 22.5% rate applies. The first income year starting on or after 1 July 2008 may either be the financial year starting on 1 July 2008 or a substituted accounting period (SAP).
+ Managed investment trust withholding tax applies at a rate of 22.5% for the first income year of a managed investment trust starting on or after the first 1 July following Royal Assent (1 July 2008). The phrase 'the first income year starting on or after 1 July 2008' is used to refer to any income year in which the 22.5% rate applies. The first income year starting on or after 1 July 2008 may either be the financial year starting on 1 July 2008 or a substituted accounting period (SAP).
 
 Where a managed investment trust has an early balancing SAP, for example, ending 31 December 2008 for the following 30 June 2009, the rules as considered above would not apply until the year beginning 1 January 2009. Fund Payments made from such trusts relevant to the trust's income year ending 31 December 2008, including payments relevant to that period but made after 31 December 2008 are potentially subject to the rules and tax rates applying for the managed investment trust withholding regime as introduced by Tax Laws Amendment (2007 Measures No.3) Act 2007, which received Royal Assent on 21 June 2007 and the former Agreement between The Commonwealth of Australia and Japan for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income, signed on 20 March 1969.
 
 Date of decision:
-         11 November 2009
+  11 November 2009
 
 Year of income:
-           First income year starting on or after 1 July 2008
+  First income year starting on or after 1 July 2008
 
 Legislative References:
 
 Income Tax Assessment Act 1936   Part IVA
 Income Tax Assessment Act 1997   the Act
 International Tax Agreements Act 1953      subsection 4(1)   subsection 4(2)   Schedule 6, Article 10(7)
-          Taxation Administration Act 1953   Schedule 1 Subdivision 12-H   Schedule 1 subsection 12-390(1)   Schedule 1 subsection 12-390(2)   Schedule 1 subsection 12-390(3)   Schedule 1 subsection 12-390(9)   Schedule 1 section 12-395   Schedule 1 subsection 12-395(2)   Schedule 1 section 12-400   Schedule 1 subsection 12-405(1)   Schedule 1 section 12-410   Schedule 1 subsection 12-410(1)
+ Taxation Administration Act 1953   Schedule 1 Subdivision 12-H   Schedule 1 subsection 12-390(1)   Schedule 1 subsection 12-390(2)   Schedule 1 subsection 12-390(3)   Schedule 1 subsection 12-390(9)   Schedule 1 section 12-395   Schedule 1 subsection 12-395(2)   Schedule 1 section 12-400   Schedule 1 subsection 12-405(1)   Schedule 1 section 12-410   Schedule 1 subsection 12-410(1)
 Income Tax (Managed Investment Trust Transitional) Act 2008   the Act
 Income Tax (Transitional Provisions) Act 1997   Subdivision 840-M
 Tax Laws Amendment (2007 Measures No.3) Act 2007   the Act
@@ -91,20 +83,19 @@ Taxation Administration Regulations 1976   regulation 44E
 Keywords
 
 Distributions to non residents
-          Japan
-          Investment trusts
-          Trustees
-          Withholding taxes
-
+ Japan
+ Investment trusts
+ Trustees
+ Withholding taxes
 
 Siebel/TDMS Reference Number:
-         1-1SGXPFX
+  1-1SGXPFX
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         20 November 2009
+  20 November 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

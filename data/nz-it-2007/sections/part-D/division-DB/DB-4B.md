@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(2)**  The deduction is allocated to the income year in which the amount is transferred into the person’s tax account by the Commissioner to satisfy the person’s obligation to pay the tax.
+**(2)**  The deduction is allocated to the income year in which the amount is transferred into the person's tax account by the Commissioner to satisfy the person's obligation to pay the tax.
 
 **Link with subpart DA**
 

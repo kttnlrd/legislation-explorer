@@ -11,7 +11,7 @@ Single Touch Payroll (STP) is a reporting framework for employers to provide pay
 
 It was announced in the March 2022–23 Budget that IT infrastructure will be developed to allow the ATO to share STP data with state and territory revenue oﬃces on an ongoing basis, which could allow for the pre- ﬁlling of payroll tax returns with STP data to reduce compliance costs for businesses.
 
-Exemptions The Commissioner can exempt entities of a particular class or individual entities from STP reporting by written notice, as a result of an application by the entity or on the Commissioner’s own volition (TAA sch 1 s 389-10). Where the entity has applied for an exemption, the Commissioner must notify the entity if the application is refused and there is a deemed refusal if the Commissioner does not notify the entity within 60 days of the application being made. The entity can object in the usual way against a refused application or the Commissioner’s decision to limit the exemption. The following exemptions currently apply:
+Exemptions The Commissioner can exempt entities of a particular class or individual entities from STP reporting by written notice, as a result of an application by the entity or on the Commissioner's own volition (TAA sch 1 s 389-10). Where the entity has applied for an exemption, the Commissioner must notify the entity if the application is refused and there is a deemed refusal if the Commissioner does not notify the entity within 60 days of the application being made. The entity can object in the usual way against a refused application or the Commissioner's decision to limit the exemption. The following exemptions currently apply:
 
 - Legislative Instrument F2023L00778 exempts employers for 2023–24 to 2032–33 who do not
 
@@ -25,7 +25,7 @@ Withholding payments covered
 
 *Refs: s 389-10)*
 
-- a payment that constitutes an employee’s ordinary time earnings or salary or wages (within the
+- a payment that constitutes an employee's ordinary time earnings or salary or wages (within the
 
   meaning of the Superannuation Guarantee (Administration) Act 1992 (SGAA)) — this excludes
 
@@ -47,7 +47,7 @@ Extension of information to be reported The following kinds of amounts must be i
 
 - an amount that is not an SGAA sacriﬁced ordinary time earnings amount (having the same
 
-  meaning as the term “sacriﬁced ordinary time earnings amount’’ deﬁned in the SGAA) but which,
+  meaning as the term "sacriﬁced ordinary time earnings amount'' deﬁned in the SGAA) but which,
 
   as the result of an eﬀective salary sacriﬁce arrangement, reduces the ordinary time earnings of an
 
@@ -83,7 +83,7 @@ Extension of information to be reported The following kinds of amounts must be i
 
   the Australian apprenticeships system.
 
-[FTR ¶978-870] Timing and method of reporting Payments that constitute an employee’s ordinary time earnings or salary or wages must be notiﬁed to the Commissioner on or before the day on which the amount is paid. All other amounts must be notiﬁed to the Commissioner on or before the day by which the PAYG withholding amount is required to be withheld from the payment (regardless of whether the withholding has been made by that time).
+[FTR ¶978-870] Timing and method of reporting Payments that constitute an employee's ordinary time earnings or salary or wages must be notiﬁed to the Commissioner on or before the day on which the amount is paid. All other amounts must be notiﬁed to the Commissioner on or before the day by which the PAYG withholding amount is required to be withheld from the payment (regardless of whether the withholding has been made by that time).
 
 Under STP reporting, employers must report information to the Commissioner in the approved form (s 389-5(2)). Reporting can be performed by the employer directly or by a registered agent on the behalf of the employer. The approved form can only cover the withholding payments covered by STP reporting. The Commissioner has prescribed STP as the approved form and failure to use the approved form would render the employer liable to a failure to lodge penalty under TAA Div 286.
 
@@ -91,14 +91,14 @@ The Treasury Laws Amendment (2024 Tax and Other Measures No 1) Act 2024 allows a
 
 Closely held payees and micro employers For closely held payees, employers must report through STP and can choose to report these payees each pay day or quarterly. In addition, micro employers (those with 1 to 4 employees) are eligible to lodge quarterly if they report through a registered agent, meet certain eligibility requirements and have exceptional circumstances (ATO website).
 
-Obligation to provide information to a payment recipient Standard annual payment summary rules Under PAYG withholding (s 16-155), a payer must give a payment summary to an entity (the recipient) if: (1) during the year, the payer made a withholding payment to the payee (other than a withholding payment in relation to a superannuation lump sum or an ETP, a payment for a supply where the recipient does not quote an ABN, a dividend, interest or royalty or other speciﬁed payment received for a foreign resident (see ¶26-265 for the types of payments that are speciﬁed), a closely held trust payment or a managed investment trust fund payment) (2) during the year, the payer received a withholding payment in relation to a dividend, interest or royalty payment received for a foreign resident and the payee is the foreign resident (3) during the year, the payer received a withholding payment of a speciﬁed type (see ¶26-265 for the types of payments that are speciﬁed) for a likely foreign resident and the payee is the likely foreign resident (4) during the year, the payer received a withholding payment which is alienated personal services income, or is taken to have paid alienated personal services income as salary on the last day of the year (5) the payee is an individual and has a reportable fringe beneﬁts amount for the income year ending at the end of that ﬁnancial year, in respect of his/her employment by the payer, or (6) the recipient is an individual and reportable employer superannuation contributions have been made by the payer, in respect of the individual’s employment, during the year.
+Obligation to provide information to a payment recipient Standard annual payment summary rules Under PAYG withholding (s 16-155), a payer must give a payment summary to an entity (the recipient) if: (1) during the year, the payer made a withholding payment to the payee (other than a withholding payment in relation to a superannuation lump sum or an ETP, a payment for a supply where the recipient does not quote an ABN, a dividend, interest or royalty or other speciﬁed payment received for a foreign resident (see ¶26-265 for the types of payments that are speciﬁed), a closely held trust payment or a managed investment trust fund payment) (2) during the year, the payer received a withholding payment in relation to a dividend, interest or royalty payment received for a foreign resident and the payee is the foreign resident (3) during the year, the payer received a withholding payment of a speciﬁed type (see ¶26-265 for the types of payments that are speciﬁed) for a likely foreign resident and the payee is the likely foreign resident (4) during the year, the payer received a withholding payment which is alienated personal services income, or is taken to have paid alienated personal services income as salary on the last day of the year (5) the payee is an individual and has a reportable fringe beneﬁts amount for the income year ending at the end of that ﬁnancial year, in respect of his/her employment by the payer, or (6) the recipient is an individual and reportable employer superannuation contributions have been made by the payer, in respect of the individual's employment, during the year.
 
 *Refs: s
 389-5(2)), s 16-155)*
 
 - names the payer and recipient
 
-- states the recipient’s TFN or ABN (if these have been given to the payer)
+- states the recipient's TFN or ABN (if these have been given to the payer)
 
 - states the total of the withholding payments (if any) that it covers and the total of the amounts
 
@@ -120,7 +120,7 @@ However, Single Touch Payroll (STP) (¶26-630) automatically reports payroll inf
 
 Where a payer makes a withholding payment for a supply to a recipient who does not quote an ABN, the payer must give the recipient a payment summary when making the payment, or as soon as practicable afterwards (TAA sch 1 s 16-167). The payment summary must cover only that payment.
 
-Other payment summary rules Standard payment summary rules do not apply to the managed investment trust withholding. Entities required to withhold must provide a statement each year to the payees that details the amounts of the payments from which withholding has occurred and the amounts withheld from those payments. The statement must be provided within 14 days after the end of 6 months after the end of the managed investment trust’s income year. The statement may be provided in electronic form and a copy is not required to be given to the payee.
+Other payment summary rules Standard payment summary rules do not apply to the managed investment trust withholding. Entities required to withhold must provide a statement each year to the payees that details the amounts of the payments from which withholding has occurred and the amounts withheld from those payments. The statement must be provided within 14 days after the end of 6 months after the end of the managed investment trust's income year. The statement may be provided in electronic form and a copy is not required to be given to the payee.
 
 Generally, where a payer pays a superannuation lump sum, ETP or a departing Australia superannuation payment, the payer must give a payment summary covering the payment to the recipient within 14 days of the payment being made (TAA sch 1 ss 16-165; 16-166). A copy must also be given to the Commissioner.
 
@@ -134,7 +134,7 @@ A payment summary must not cover a withholding payment that is a payment of an a
 
 Part-year payment summary The payer must give a part-year payment summary to the payee if the payee asks in writing for a payment summary covering one or more withholding payments (TAA sch 1 s 16-160):
 
-- made during the year, other than one in relation to an ETP, a supply where the payee hasn’t
+- made during the year, other than one in relation to an ETP, a supply where the payee hasn't
 
   quoted an ABN, or a dividend, interest, royalty or other speciﬁed amounts received for a foreign
 
@@ -154,7 +154,7 @@ Part-year payment summary The payer must give a part-year payment summary to the
 
   likely foreign resident (see ¶26-265 for the types of payments that are speciﬁed), or
 
-- that are taken to be alienated personal services income and included in the payee’s assessable
+- that are taken to be alienated personal services income and included in the payee's assessable
 
   income for the income year.
 
@@ -168,11 +168,11 @@ Where an employee ceases employment between 1 April and 30 June in a particular 
 
 Example David ceased employment on 12 April 2025 and there was a reportable fringe beneﬁts amount in respect of his employment.
 
-David’s employer, George, is required to issue a separate payment summary for the reportable fringe beneﬁts amount paid from 1 April 2025 to 12 April 2025 no later than 14 July 2026.
+David's employer, George, is required to issue a separate payment summary for the reportable fringe beneﬁts amount paid from 1 April 2025 to 12 April 2025 no later than 14 July 2026.
 
 Amounts withheld from payments made to David up to 12 April 2025 and the reportable fringe beneﬁts amounts calculated to 31 March 2025 must be included on a payment summary provided by George to David by 14 July 2025.
 
-Payers are not required to provide a part-year payment summary where the payer has made a reportable employer superannuation contribution in respect of the recipient’s employment during the ﬁnancial year (TAA sch 1 s 16-160(2)).
+Payers are not required to provide a part-year payment summary where the payer has made a reportable employer superannuation contribution in respect of the recipient's employment during the ﬁnancial year (TAA sch 1 s 16-160(2)).
 
 Exemption from giving payment summaries The Commissioner may exempt an entity from the payment summary obligations (TAA sch 1 s 16-180). The following exemptions apply:
 
@@ -226,4 +226,4 @@ Employers are not required to comply with their obligation under s 16-160 to pro
 
 ## Instrument F2023C00028):
 
-## A “payment summary” is a written statement that:
+## A "payment summary" is a written statement that:

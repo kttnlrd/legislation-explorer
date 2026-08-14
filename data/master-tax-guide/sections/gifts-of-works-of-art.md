@@ -17,7 +17,7 @@ Within certain limits, the program allows a deduction for a qualifying gift to b
 
 The deduction for qualifying gifts is generally based on the GST inclusive market value of the gift at the time it was made, determined by reference to the average of 2 or more valuations obtained from approved valuers. Valuations must be in writing and must state the estimated GST inclusive market value of the property at the time the gift was made or, provided the valuation is made within 90 days before or after the time the gift is made, the GST inclusive value of the property at the time of valuation (s 30-200). The general rule is that the average of the GST inclusive market values speciﬁed in the valuations will be treated as the value of the property. However, in some cases an adjustment may be necessary for any input tax credit entitlement (ss 30-15(3); 30-215(4)).
 
-The valuation method should determine what price a willing, but not anxious, vendor and a willing, but not anxious, purchaser could reasonably be expected to agree on for the transfer of the property (TR 96/1). The ATO does not accept the decision in Case X12 90 ATC 162, that the value of opals donated to a museum was the average of 2 retail valuations supplied by the taxpayer’s valuers, as authority for a contrary view.
+The valuation method should determine what price a willing, but not anxious, vendor and a willing, but not anxious, purchaser could reasonably be expected to agree on for the transfer of the property (TR 96/1). The ATO does not accept the decision in Case X12 90 ATC 162, that the value of opals donated to a museum was the average of 2 retail valuations supplied by the taxpayer's valuers, as authority for a contrary view.
 
 The cost of such valuations is deductible as a tax-related expense (TD 93/92).
 
@@ -25,7 +25,7 @@ A person making a gift should send the written valuations to the recipient insti
 
 There are important exceptions to the rule that the deduction for eligible art gifts is based on market value for recent or prearranged acquisitions (s 30-215(3); (4)) and artists, art dealers, etc. (ss 30-205; 30-215(3)). In any other case, if the average of the valuations does not fairly represent market value, the deductible amount is the market value of the property on the day the gift was made.
 
-Deduction may be reduced The deduction may be reduced by a “reasonable” amount where the recipient does not obtain the right to immediate custody and control of the property or full legal and equitable title to the property (s 30-220).
+Deduction may be reduced The deduction may be reduced by a "reasonable" amount where the recipient does not obtain the right to immediate custody and control of the property or full legal and equitable title to the property (s 30-220).
 
 This is also the case where the custody, control or use of the property by the recipient is aﬀected by any agreement entered into in connection with the gift.
 

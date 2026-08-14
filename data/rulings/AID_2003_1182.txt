@@ -3,18 +3,14 @@ ATO ID 2003/1182
 ==================================================
 
 Goods and Services Tax
-        GST and transfer of long service leave entitlements
-        FOI status: may be released
-
-
+ GST and transfer of long service leave entitlements
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a local Government employer make a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it receives a payment in respect of a new employee's long service leave entitlements which accrued with the employee's former Local Government employer?
@@ -24,8 +20,6 @@ Facts
 The entity is a Local Government employer. The entity employs a person who was previously employed by another Local Government entity. The entity receives a payment from the other Local Government entity that represents the employee's accrued long service leave entitlement.
 Long service leave provisions within the relevant State legislation or awards (statute) explain the obligations of Local Government entities in connection with the transfer of an employee from one Local Government entity to another Local Government entity.
 When an employee transfers to another Local Government entity, the relevant statute imposes:
-
-
 
 (a) an obligation on the new employer to recognise the employee's prior service with the former employer for long service leave purposes; and
 (b) an obligation on the current employer to pay the long service leave entitlement when the leave is taken.
@@ -37,10 +31,7 @@ Reasons for Decision
 One of the requirements of a taxable supply is that an entity makes a supply (paragraph 9-5(a) of the GST Act). The term 'supply' is a broad concept for GST purposes and is defined in subsection 9-10(1) of the GST Act as 'any form of supply whatsoever'. 'Supply' refers to 'something which passes from one entity to another'. Other jurisdictions have held that the term 'supply' takes its ordinary and natural meaning, being 'to furnish with or provide'.
 Subsection 9-10(2) of the GST Act provides a list of examples of supplies. In particular, subparagraph 9-10(2)(g) of the GST Act provides:
 
-
 an entry into, or release from, an obligation:
-
-
 
 (i)to do anything; or
 (ii)to refrain from an act; or
@@ -54,7 +45,7 @@ This means that for the purposes of paragraph 9-5(a) of the GST Act, the new loc
 As a supply has not been made by the new employer, it is not necessary to proceed with the balance of paragraph 9-5(a) of the GST Act to ascertain if there is any consideration for a supply.
 Therefore, there has not been a taxable supply under section 9-5 of the GST Act.
 Date of decision:
-         17 December 2003
+  17 December 2003
 
 Legislative References:
 
@@ -71,18 +62,17 @@ ATO ID 2003/730
 Keywords
 
 Goods and services tax
-          GST supplies & acquisitions
-          GST supply
-
+ GST supplies & acquisitions
+ GST supply
 
 Siebel/TDMS Reference Number:
-         3882985
+  3882985
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         24 December 2003
+  24 December 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

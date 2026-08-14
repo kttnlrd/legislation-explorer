@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Company leaving consolidated group**
 
-**(1)**  If a company leaves a consolidated group, the company’s liability under section FM 3(5) is removed if all the following paragraphs apply:
+**(1)**  If a company leaves a consolidated group, the company's liability under section FM 3(5) is removed if all the following paragraphs apply:
 
 - (a) if the assessment is made after the later of—
 

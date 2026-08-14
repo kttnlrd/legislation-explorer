@@ -11,7 +11,7 @@ paragraph: "¶35-720"
 
   make a reasonable assessment (s 124).
 
-- Where it is reasonable to assume that an employee’s eligible foreign remuneration or foreign
+- Where it is reasonable to assume that an employee's eligible foreign remuneration or foreign
 
   earnings during a year of tax will be exempt but the anticipated circumstances do not eventuate
 
@@ -23,7 +23,7 @@ paragraph: "¶35-720"
 
 - The Commissioner can require any person to attend before the Commissioner or an authorised
 
-  oﬃcer, to answer questions and to produce documents in the person’s custody or control (TAA sch
+  oﬃcer, to answer questions and to produce documents in the person's custody or control (TAA sch
 
 1 s 353-10).
 

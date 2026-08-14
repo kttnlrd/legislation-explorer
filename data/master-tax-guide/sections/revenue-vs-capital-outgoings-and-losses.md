@@ -11,13 +11,13 @@ Often there is no problem in distinguishing between non-deductible capital expen
 
 In some cases involving low-cost tangible assets, the Commissioner accepts the use of statistical sampling (¶16-153).
 
-Certain business capital expenditure (“blackhole expenditure”) is deductible immediately or over 5 years under s 40-880 (¶16-156).
+Certain business capital expenditure ("blackhole expenditure") is deductible immediately or over 5 years under s 40-880 (¶16-156).
 
 There is no presumption that mining or petroleum exploration expenditure has a capital nature and characterisation depends on the facts and circumstances (see TR 2017/1 for examples). However, certain expenditure incurred by seismic surveyors to collect and process seismic data is capital nature and may be depreciated over 15 years (TR 2019/4; ¶17-350).
 
 Tests of capital losses or outgoings The guidelines for distinguishing between capital and revenue outgoings were laid down in the Sun Newspapers case (1938) 5 ATD 87; [1938] HCA 73; (1938) 61 CLR 337. There it was pointed out that expenditure in establishing, replacing and enlarging the proﬁt-yielding (ie business) structure itself is capital and is to be contrasted with working or operating expenses. The test laid down in the Sun Newspapers (1938) 61 CLR 337 case; (1938) 5 ATD 87; [1938] HCA 73 involved 3 elements, although none is in itself decisive: (1) the nature of the advantage sought by making the payment(s) (2) the way it is to be used or enjoyed (3) the means adopted to get it.
 
-As regards the ﬁrst 2 elements, the lasting or recurrent character of the advantage and the expenditure is important. Thus the courts have held that, in the absence of special circumstances, expenditure is capital in nature where it is made with a view to bringing into existence an asset or an advantage (tangible or intangible) for the enduring beneﬁt of the business (British Insulated & Helsby Cables v Atherton (1926) AC 205). In addition, it is the nature of the advantage sought by the taxpayer that is relevant. Thus payments for “rent” on business premises were fully deductible, even though part of the payments were liable to be credited against the purchase price for the premises under an option held by an associated company (South Australian Battery Makers 78 ATC 4412; [1978] HCA 32; ITAA36 s 82KL: ¶16-110).
+As regards the ﬁrst 2 elements, the lasting or recurrent character of the advantage and the expenditure is important. Thus the courts have held that, in the absence of special circumstances, expenditure is capital in nature where it is made with a view to bringing into existence an asset or an advantage (tangible or intangible) for the enduring beneﬁt of the business (British Insulated & Helsby Cables v Atherton (1926) AC 205). In addition, it is the nature of the advantage sought by the taxpayer that is relevant. Thus payments for "rent" on business premises were fully deductible, even though part of the payments were liable to be credited against the purchase price for the premises under an option held by an associated company (South Australian Battery Makers 78 ATC 4412; [1978] HCA 32; ITAA36 s 82KL: ¶16-110).
 
 The third element involves a consideration of whether the outlay is a periodic one covering the use of the asset or advantage during each period, or whether the outlay is calculated as a single ﬁnal provision for the future use or enjoyment of the asset or advantage.
 
@@ -33,9 +33,9 @@ The question of what the payment is for must be determined by reference to the l
 
 However, the characterisation of an expense does not depend on its eﬀectiveness, either economically (in the sense that it earned a proﬁt) or legally. Thus, rent payments may be deductible even though the lease under which they are made is invalid (Emmakell 90 ATC 4319; [1989] FCA 34).
 
-Cost of trading stock is not capital The cost of trading stock is speciﬁcally treated as non-capital expenditure (ITAA97 s 70-25). The fact that the cost of acquiring trading stock is treated as revenue led to a land developer obtaining a deduction for the payment of the tax debts of its land-owning subsidiaries. The land developer had undertaken to meet the debts in order to get the Commissioner’s approval to the subsidiaries being wound up and their assets (ie the land) distributed to the developer. The payments were held to be deductible outgoings because they were eﬀectively part of the cost to the developer of acquiring its trading stock (Hooker Rex 88 ATC 4392).
+Cost of trading stock is not capital The cost of trading stock is speciﬁcally treated as non-capital expenditure (ITAA97 s 70-25). The fact that the cost of acquiring trading stock is treated as revenue led to a land developer obtaining a deduction for the payment of the tax debts of its land-owning subsidiaries. The land developer had undertaken to meet the debts in order to get the Commissioner's approval to the subsidiaries being wound up and their assets (ie the land) distributed to the developer. The payments were held to be deductible outgoings because they were eﬀectively part of the cost to the developer of acquiring its trading stock (Hooker Rex 88 ATC 4392).
 
-Demolition costs Costs incurred by a mining company in demolishing 2 obsolete and dangerous structures on one of its mining sites were held to be capital costs (Mount Isa Mines 91 ATC 4154; [1991] FCA 53; 92 ATC 4755; [1992] HCA 62). The High Court remarked that, in some situations, the demolition of structures and plant which have a very short life may be capable of being treated as a matter of maintenance or upkeep or as an incident in the day-to-day conduct of a business (and therefore the expenditure may be stamped with a revenue character). Here, however, the purpose of the demolition was to confer a positive and enduring advantage on the taxpayer’s business premises by removing a disadvantageous asset. Costs incurred in demolishing plant and in clearing a site to make way for new plant are of a capital nature (IT 2197). Once new plant is installed and in an operational state, the cost of bringing that plant into full operation, but not the cost of additions or modiﬁcations, is of a revenue nature (TD 93/126). See also ¶17-105.
+Demolition costs Costs incurred by a mining company in demolishing 2 obsolete and dangerous structures on one of its mining sites were held to be capital costs (Mount Isa Mines 91 ATC 4154; [1991] FCA 53; 92 ATC 4755; [1992] HCA 62). The High Court remarked that, in some situations, the demolition of structures and plant which have a very short life may be capable of being treated as a matter of maintenance or upkeep or as an incident in the day-to-day conduct of a business (and therefore the expenditure may be stamped with a revenue character). Here, however, the purpose of the demolition was to confer a positive and enduring advantage on the taxpayer's business premises by removing a disadvantageous asset. Costs incurred in demolishing plant and in clearing a site to make way for new plant are of a capital nature (IT 2197). Once new plant is installed and in an operational state, the cost of bringing that plant into full operation, but not the cost of additions or modiﬁcations, is of a revenue nature (TD 93/126). See also ¶17-105.
 
 Costs incurred by a mining company in dismantling, removing and storing a combined dredge and concentrator were held to be deductible because the nature of sand mining (which required moving to successive sites as deposits were exhausted) meant that expenses of relocation and temporary storage were an inevitable part of the regular cost of the conduct of the business (Associated Minerals 94 ATC 4499; [1994] FCA 1282).
 
@@ -51,7 +51,7 @@ fluctuations The TOFA provisions treat losses from speciﬁed ﬁnancial arrange
 
 Examples: capital expenditure The losses or outgoings identiﬁed below have been held to be capital and thus non-deductible under the general deduction provision (although they may be deductible under a speciﬁc deduction provision):
 
-- newspaper’s payment to prevent threatened competition (Sun Newspapers Ltd & Associated
+- newspaper's payment to prevent threatened competition (Sun Newspapers Ltd & Associated
 
   Newspapers Ltd (1938) 61 CLR 337)
 
@@ -59,7 +59,7 @@ Examples: capital expenditure The losses or outgoings identiﬁed below have bee
 
   (1959) 101 CLR 30)
 
-- damages for breach of contract, the result of the breach being the taxpayer’s freedom to
+- damages for breach of contract, the result of the breach being the taxpayer's freedom to
 
   reorganise its trading structure (Foley Bros (1965) 13 ATD 562)
 
@@ -85,7 +85,7 @@ Examples: capital expenditure The losses or outgoings identiﬁed below have bee
 
   business of granting occupancy rights to residents (TR 2002/14; see also Case 12/2009 2009 ATC
 
-¶1-016; [2009] AATA 805). However, payments made by the proprietor of a retirement village to its residents for a share of the capital appreciation in a resident’s unit transferred to a new resident were deductible (Case 4/2011 2011 ATC ¶1-031; [2011] AATA 298, Case 12/2013 2013 ATC ¶1-061; [2013] AATA 887; associated Decision Impact Statements; PCG 2016/15; and below)
+¶1-016; [2009] AATA 805). However, payments made by the proprietor of a retirement village to its residents for a share of the capital appreciation in a resident's unit transferred to a new resident were deductible (Case 4/2011 2011 ATC ¶1-031; [2011] AATA 298, Case 12/2013 2013 ATC ¶1-061; [2013] AATA 887; associated Decision Impact Statements; PCG 2016/15; and below)
 
 - amount paid out of surplus proﬁts to an employee beneﬁt trust (Essenbourne 2002 ATC 5201;
 
@@ -125,11 +125,11 @@ Examples: capital expenditure The losses or outgoings identiﬁed below have bee
 
 - compensation paid by a business tenant to the landlord for failing to carry out covenanted repairs,
 
-  where the payment was a precondition to the landlord’s consent to an assignment of the lease
+  where the payment was a precondition to the landlord's consent to an assignment of the lease
 
 (Peyton (1963) 13 ATD 133; [1963] HCA 33; (1963) 109 CLR 315)
 
-- accountant’s guarantee of the performance of a transaction by a ﬁnance company client of his
+- accountant's guarantee of the performance of a transaction by a ﬁnance company client of his
 
   ﬁrm (Case B3 70 ATC 10). See also TR 96/23 at ¶16-152
 
@@ -137,13 +137,13 @@ Examples: capital expenditure The losses or outgoings identiﬁed below have bee
 
   repayment of the loan principal (Case 50/96 96 ATC 482; [1996] AATA 297)
 
-- payment to prevent a possible investigation into a taxpayer’s business practices (Case V64 88
+- payment to prevent a possible investigation into a taxpayer's business practices (Case V64 88
 
   ATC 492; [1988] AATA 464)
 
 - compulsory contribution to a local town planning development scheme that involved improvement
 
-  of sewerage, drainage and roads in the area where the taxpayer’s business premises were situated
+  of sewerage, drainage and roads in the area where the taxpayer's business premises were situated
 
 (Case V37 88 ATC 319; [1988] AATA 52)
 
@@ -161,11 +161,11 @@ Examples: capital expenditure The losses or outgoings identiﬁed below have bee
 
 [1997] FCA 405)
 
-- service station operator’s one-oﬀ payment to a petroleum company to participate in the company’s
+- service station operator's one-oﬀ payment to a petroleum company to participate in the company's
 
   marketing program (Labrilda 96 ATC 4303; [1996] FCA 1350)
 
-- statutory charge payable by the owner of an uninsured building for the ﬁre brigade’s attendance
+- statutory charge payable by the owner of an uninsured building for the ﬁre brigade's attendance
 
   (Case X5 90 ATC 121)
 
@@ -203,7 +203,7 @@ Examples: capital expenditure The losses or outgoings identiﬁed below have bee
 
 (Healius Ltd 2020 ATC ¶20-766; [2020] FCAFC 173)
 
-- franchise fees paid by an electricity supplier to the state government as “monopoly rent” (United
+- franchise fees paid by an electricity supplier to the state government as "monopoly rent" (United
 
   Energy 97 ATC 4796; [1997] FCA 836)
 
@@ -217,7 +217,7 @@ Group Pty Ltd 2015 ATC ¶20-521; [2015] HCA 25)
 
   model (Inglewood and Districts Community Enterprises 2011 ATC ¶10-202; [2011] AATA 607)
 
-- “capacity charges” paid to a state-owned corporation by a private energy provider because they
+- "capacity charges" paid to a state-owned corporation by a private energy provider because they
 
   were part of the acquisition of rights to trade in the electricity output of public generators, rather
 
@@ -225,7 +225,7 @@ Group Pty Ltd 2015 ATC ¶20-521; [2015] HCA 25)
 
 FCA 409)
 
-- “special rental” payments made by a casino operator to a government for the exclusive right to
+- "special rental" payments made by a casino operator to a government for the exclusive right to
 
   operate a casino (Jupiters Ltd 2002 ATC 4566; [2002] FCAFC 206, Star City Pty Ltd 2009 ATC
 
@@ -237,7 +237,7 @@ FCA 409)
 
 - the cost of leasing taxi licences for a 50-year period (ID 2005/147)
 
-- an amount described as “interest” and paid as part of the purchase price of shares (BHP Co Ltd
+- an amount described as "interest" and paid as part of the purchase price of shares (BHP Co Ltd
 
   99 ATC 5193; [1999] FCA 1628; 2000 ATC 4659; [2000] FCA 1431)
 
@@ -253,11 +253,11 @@ FCA 409)
 
 Examples: non-capital expenditure On the other hand, the following losses or outgoings have been held not to be capital and to be deductible under the general deduction provision:
 
-- payments to secure a competitor’s agreement not to use trade marks or names similar to those
+- payments to secure a competitor's agreement not to use trade marks or names similar to those
 
   used by the taxpayer (Duro Travel Goods (1953) 10 ATD 176; [1953] HCA 32)
 
-- oil company’s payments to retailers to secure exclusive trade ties (but not where by lease/re-lease
+- oil company's payments to retailers to secure exclusive trade ties (but not where by lease/re-lease
 
   arrangement) (BP Aust (1965) 112 CLR 386) and payments made to independent contractors for
 
@@ -265,11 +265,11 @@ Examples: non-capital expenditure On the other hand, the following losses or out
 
 FCA 1055)
 
-- bank’s payment to the Commonwealth Government for the exclusive right to make subsidised
+- bank's payment to the Commonwealth Government for the exclusive right to make subsidised
 
   loans to Defence Force staﬀ (National Australia Bank 97 ATC 5153; [1997] FCA 514)
 
-- brewery’s contribution to a trade association for a Sunday opening campaign (Cooper v Rhymney
+- brewery's contribution to a trade association for a Sunday opening campaign (Cooper v Rhymney
 
   Breweries Ltd (1965) 1 WLR 1378)
 
@@ -335,7 +335,7 @@ Flattery Silica Mines 97 ATC 4552)
 
 - additional interest paid by a building society to its depositors during the 3 years following the
 
-  society’s conversion into a bank (NMRSB Ltd 98 ATC 4188; [1998] FCA 146)
+  society's conversion into a bank (NMRSB Ltd 98 ATC 4188; [1998] FCA 146)
 
 - payments made by a retirement village operator to outgoing residents (or their representatives),
 

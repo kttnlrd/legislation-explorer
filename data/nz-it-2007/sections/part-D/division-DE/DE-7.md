@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) the start and end of the 90 day test period; and
 
-- (b) the vehicle’s odometer readings at the start and end of the test period; and
+- (b) the vehicle's odometer readings at the start and end of the test period; and
 
 - (c) the distance of each business journey; and
 

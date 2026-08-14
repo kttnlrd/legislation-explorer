@@ -3,18 +3,14 @@ ATO ID 2009/136
 ==================================================
 
 Income Tax
-        Convertible Debentures and Tainted Share Capital Accounts
-        FOI status: may be released
-
-
+ Convertible Debentures and Tainted Share Capital Accounts
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the conversion of convertible debentures held by a Head company of a tax consolidated group in its subsidiary members into ordinary shares constitute a transfer to the share capital accounts of those subsidiary members for the purposes of section 197-5 of the Income Tax Assessment Act 1997 (ITAA 1997)
@@ -25,8 +21,6 @@ Company A is the Head company of a tax consolidated group with wholly owned subs
 Company A (the debenture holder) holds convertible debentures which were issued by Company B and Company C (the issuers) before the formation of the tax consolidated group.
 For accounting purposes, the convertible debentures are classified as equity.
 The terms and conditions require the issuer to first redeem the debentures. The redemption proceeds are then applied as the consideration for the issue price of the ordinary shares to be held by the former debenture holder. The following journal entries will record the redemption of the debentures and conversion by the issue of ordinary shares in the financial accounts of each of the issuers:
-
-
 
 Dr Convertible Debentures (equity)
 150
@@ -61,22 +55,16 @@ What constitutes a transfer of an amount to the share capital account?
 
 Section 197-5 of the ITAA 1997 provides as follows:
 
-
-
 (1) Subject to subsection (2), this Division applies to an amount (the
-                transferred amount
+ transferred amount
 ) that is transferred to a company's *share capital account from another of the company's accounts, if the company was an Australian resident immediately before the time of the transfer.Note: If a company has 2 or more share capital accounts, those accounts are taken to be a single account (see subsection 975-300(2)).
 
 The expression 'transferred amount' is not defined within Division 197 or section 995-1 of the ITAA 1997 and reference must therefore be made to its ordinary meaning in the first instance.
 The Macquarie Dictionary does not define the meaning of the compound expression 'transferred amount'. However, the Macquarie Dictionary does define 'transfer' as:
 
-
-
 1to convey or remove from one place, person etc to another
 
 and 'amount' as:
-
-
 
 1quantity or extent
 
@@ -86,18 +74,15 @@ The 2006 EM states the following and provides an example at paragraph 4 12 to 4 
 
 When is an amount transferred from one account to another account?
 
-
 4.12 An amount is transferred from one account to another where that amount is moved from one account to another. This, in turn, requires the balance of the first account to be reduced, while the balance of the second account is increased by the same amount.
 
 4.13 An amount is not transferred from one account to another where the particular accounting entries result in the balances of both accounts increasing in size. Accordingly, an accounting entry of the form 'debit asset, credit share capital account' does not represent a transfer
-              in the relevant sense
-              . Furthermore, a transfer to the share capital account will not arise if an expense account is debited at the same time that the share capital account is credited (
-              emphasis added
-              ).
-
+ in the relevant sense
+ . Furthermore, a transfer to the share capital account will not arise if an expense account is debited at the same time that the share capital account is credited (
+ emphasis added
+ ).
 
 Example 4.1
-
 
 A company has a retained profits reserve balance of $1,000 at the beginning of the 2006-07 income year. The company issues $100 in shares on 1 September 2006 to an individual as consideration for services rendered. The share issue is accounted for by debiting the expense account by $100 and crediting the share capital account by $100.
 
@@ -107,10 +92,10 @@ The accounting journal entry that will credit the increase of the share capital 
 Within the context of paragraphs 4 11 to 4 13 of the 2006 EM, this accounting journal entry by the subsidiary members will not be a transfer in the relevant sense as it will result in both accounts increasing in size.
 Accordingly, the redemption and conversion of the convertible debentures to ordinary shares will not constitute a transfer of an amount in the relevant sense to the share capital account for the purposes of section 197-5 of the ITAA 1997. As such, the redemption and conversion of the convertible debentures will not cause the share capital accounts of the subsidiary members to become tainted for the purposes of Division 197 of the ITAA 1997.
 Date of decision:
-         6 November 2009
+  6 November 2009
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -120,21 +105,19 @@ Other References:
 
  Explanatory Memorandum to Tax Laws Amendment (2006 Measures No.3) Bill 2006; New Business Tax System (Untainting Tax) Bill 2006
 
-
 Keywords
 
 Debentures
-          Tainted share capital account
-
+ Tainted share capital account
 
 Siebel/TDMS Reference Number:
-         5954622
+  5954622
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         13 November 2009
+  13 November 2009
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

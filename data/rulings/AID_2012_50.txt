@@ -3,18 +3,14 @@ ATO ID 2012/50
 ==================================================
 
 Income Tax
-        Part IVA: multiple entry consolidated group - cancel tax benefit
-        FOI status: may be released
-
-
+ Part IVA: multiple entry consolidated group - cancel tax benefit
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Part IVA of the Income Tax Assessment Act 1936 (ITAA 1936) apply to cancel the tax benefit obtained by an Australian resident company in respect of the financing cost of an off-shore investment made by an Australian MEC group?
@@ -23,8 +19,6 @@ Yes. Part IVA of the ITAA 1936 applies to cancel the tax benefit, being interest
 Facts
 Prior to the relevant transactions, an international group of companies was controlled by a US resident company, US Head Co which owned US Sub Co amongst other entities. Aust Co was the head entity of a tax consolidated group consisting of four Australian resident entities that operated the US Head Co business in Australia, and wholly owned by US Sub Co through a US resident intermediate holding company.
 Then, the following transactions and events took place:
-
-
 
 1.US Head Co acquired an unrelated US business company by acquiring US New Co via its wholly owned subsidiary US Sub Co.
 2.The purchase of this acquisition was funded by US Head Co.
@@ -45,8 +39,6 @@ The stated purpose for the transfer of US LLC to New Aust Co was to provide comm
 Reasons for Decision
 For the purposes of considering Part IVA of the ITAA 1936, the following conclusions were made:
 
-
-
 •The scheme under subsection 177A(1) of the ITAA 1936 consists of the steps set out at points 1 to 8 above.
 •The tax benefit under subparagraph 177C(1)(b) of the ITAA 1936 was the amount of the interest incurred on the Promissory Note claimed and claimed as allowable deductions pursuant to sections 25-85 and 25-90 of the ITAA 1997.
 
@@ -58,10 +50,10 @@ The main purpose of the scheme was to take advantage of the tax capacity of the 
 There was a lack of evidence and credibility concerning the commercial benefits said to arise from the scheme as compared to the tax benefits.
 Accordingly, Part IVA of the ITAA 1936 applies to cancel the tax benefit obtained by an Australian resident company in respect of the financing cost of an off-shore investment.
 Date of decision:
-         1 June 2012
+  1 June 2012
 
 Year of income:
-           Year ended 31 December 2005 Year ended 31 December 2006 Year ended 31 December 2007 Year ended 31 December 2008 Year ended 31 December 2009
+  Year ended 31 December 2005 Year ended 31 December 2006 Year ended 31 December 2007 Year ended 31 December 2008 Year ended 31 December 2009
 
 Legislative References:
 
@@ -71,20 +63,19 @@ Income Tax Assessment Act 1997   section 25-85   section 25-90
 Keywords
 
 Interest expense
-          Part IVA
-          Tax benefits under tax avoidance schemes
-          Redeemable preference shares
-          Consolidation - multiple entry consolidated group
-
+ Part IVA
+ Tax benefits under tax avoidance schemes
+ Redeemable preference shares
+ Consolidation - multiple entry consolidated group
 
 Siebel/TDMS Reference Number:
-         1-1Q3F0ES
+  1-1Q3F0ES
 
 Business Line:
-         Tax Counsel Network
+  Tax Counsel Network
 
 Date of publication:
-         8 June 2012
+  8 June 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -50,7 +50,7 @@ source_pdf: "vol01.pdf"
 > **(b)**  the Commissioner has given notice to the entity for the income year under subsection (1B).
 
 <a id="s3CA-1B"></a>
-**(1B)**  For the purposes of paragraph (1A)(b), the Commissioner may give notice in writing to a government related entity (within the meaning of the A New Tax System (Goods and Services Tax) Act 1999) for one or more specified income years if the Commissioner considers that it is appropriate to do so. Authorised Version C2026C00170 registered 28/04/2026
+**(1B)**  For the purposes of paragraph (1A)(b), the Commissioner may give notice in writing to a government related entity (within the meaning of the A New Tax System (Goods and Services Tax) Act 1999) for one or more specified income years if the Commissioner considers that it is appropriate to do so.
 
 <a id="s3CA-2"></a>
 **(2)**  A corporate tax entity to which this section applies for an income year must, on or before the day by which the entity is required to lodge its income tax return for the income year with the Commissioner, give to the Commissioner in the approved form a general purpose financial statement for the financial year most closely corresponding to the income year.
@@ -87,7 +87,7 @@ source_pdf: "vol01.pdf"
 > > **(ii)**  the entity and some or all of the other members of the group.
 
 <a id="s3CA-6"></a>
-**(6)**  An expression used in this section that is also used in the Income Tax Assessment Act 1997 has the same meaning as in that Act. Authorised Version C2026C00170 registered 28/04/2026
+**(6)**  An expression used in this section that is also used in the Income Tax Assessment Act 1997 has the same meaning as in that Act.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

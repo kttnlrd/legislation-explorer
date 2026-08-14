@@ -3,18 +3,14 @@ ATO ID 2001/316
 ==================================================
 
 Income Tax
-        Application of Division 58 of the Income Tax Assessment Act 1997 - tracing back to a PABV in the accounts of a predecessor exempt entity
-        FOI status: may be released
-
-
+ Application of Division 58 of the Income Tax Assessment Act 1997 - tracing back to a PABV in the accounts of a predecessor exempt entity
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If a transition entity ("TE") chooses under paragraph 58-20(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) to calculate depreciation deductions and balancing adjustments under the pre-existing audited book value ("PABV") method, can the TE use the plant values specified in the balance sheet as at 30 June 1996 of a predecessor exempt entity ("HoldCL") as the latest PABVs of that transitional plant?
@@ -22,8 +18,6 @@ Decision
 Yes. If TE makes this choice, the latest PABV of a transitional unit of plant under section 58-10 of the ITAA 1997 will be an amount equal to the specified value of the unit in HoldCL's balance sheet as at 30 June 1996.
 Facts
 The arrangement may be summarised as follows:
-
-
 
 1. TE commenced trading in the year ended 30 June 1997 as a wholly owned subsidiary of HoldCL. At this time TE and HoldCL were both State/Territory bodies exempt from income tax under Division 1AB of the Income Tax Assessment Act 1936.
 2. The commencing assets of TE, including its plant ("the transitional units"), were acquired by TE from HoldCL immediately before the time when TE commenced trading.
@@ -38,8 +32,6 @@ The tax law:
 Under subsection 58-20(1) of the ITAA 1997 a transition entity must, in relation to every unit of transitional plant, choose whether depreciation deductions for periods after the transition time are to be calculated by reference to either (a) the notional written down value of the unit; or (b) the undeducted PABV of the unit. If the transition entity chooses (b), the provisions in sections 58-90 to 58-145 have effect in relation to the unit. The calculation rules in those provisions are based on the PABV of the unit at the test time: see paragraph 58-105(a). The meaning of the PABV of a unit is set out in section 58-10.
 Under subsection 58-10(1) of the ITAA 1997 a unit of plant is taken to have a PABV equal to its value specified in the balance sheet of an exempt entity as at the balance date where:
 
-
-
 • A qualified independent auditor prepared and signed a final audit report required by law on the exempt entity's final accounts before 4 August 1997; and
 • The report did not state that the auditor was not satisfied that the specified value fairly represented the value of the unit.
 
@@ -51,12 +43,11 @@ A State Government Department owns a number of power stations. The annual accoun
 
 In this way the provisions of subsection 58-10(1) of the ITAA 1997 give effect to one of the further details announced in Treasurer's Press Release No. 2 of 1998 dated 14 January 1998. In announcing that "a PABV contained in a predecessor exempt entity's accounts may be 'traced through' to successor exempt entities" the Treasurer said:
    
-            Predecessor entities
+ Predecessor entities
 
 Privatisations often involve the break-up of an exempt entity ("predecessor exempt entity") through the allocation of its assets to smaller exempt entities ("successor exempt entity"). The ATO has advised that a strict reading of the 4 August announcement would suggest that the vast majority of successor exempt entities would not have a PABV if they were allocated assets from a predecessor exempt entity at any time after 30 June 1996. The Government does not consider that such an outcome would be appropriate.
 
 I therefore announce that where there is no PABV of an asset in a successor entity, the purchaser will be entitled to trace back the ownership of the asset through any relevant predecessor exempt entities in order to identify the relevant PABV.
-
 
 Applying the tax law to this arrangement:
 
@@ -64,7 +55,7 @@ TE is a transition entity and must make the choice under subsection 58-20(1) of 
 If TE makes a choice under paragraph 58-20(1)(b) of the ITAA 1997 in relation to a particular transitional unit, the value specified for that unit in TE's first annual accounts (i.e., balance sheet as at 30 June 1997) will not satisfy the requirements of subsection 58-10(1) because the final audit report on those accounts was not signed by the auditor before 4 August 1997.
 HoldCL is a predecessor exempt entity of TE in relation to the transitional units. The value specified for a transitional unit in HoldCL's balance sheet as at 30 June 1996 satisfies the requirements of subsection 58-10(1) of the ITAA 1997. Therefore, if TE makes a choice under paragraph 58-20(1)(b) in relation to a transitional unit, the latest PABV of that transitional unit will be an amount equal to the specified value of the unit in HoldCL's balance sheet as at 30 June 1996.
 Date of decision:
-         22 May 2001
+  22 May 2001
 
 Legislative References:
 
@@ -75,20 +66,18 @@ Other References:
  Explanatory Memorandum relating to Division 58 of ITAA 1997
 Treasurer's Press Release No.2 of 1998, dated 14 January 1988.
 
-
 Keywords
 
 Exempt use of plant
 
-
 Siebel/TDMS Reference Number:
-         DW209479
+  DW209479
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         12 September 2001
+  12 September 2001
 
 ISSN:
-          1445-2782
+ 1445-2782

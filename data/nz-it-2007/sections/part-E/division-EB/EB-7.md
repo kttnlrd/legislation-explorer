@@ -2,7 +2,7 @@
 part: E
 part_title: Part E Timing and quantifying rules
 division: EB
-division_title: Subpart EB—Valuation of trading stock (including dealer’s livestock)
+division_title: Subpart EB—Valuation of trading stock (including dealer's livestock)
 section: EB-7
 section_title: Cost allocation: cost-flow method
 compilation_no: 935

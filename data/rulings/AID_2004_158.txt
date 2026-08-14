@@ -3,18 +3,14 @@ ATO ID 2004/158
 ==================================================
 
 Income Tax
-        Roll-over relief: multi currency facility agreements
-        FOI status: may be released
-
-
+ Roll-over relief: multi currency facility agreements
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an agreement to obtain finance in more than one foreign currency be a 'facility agreement' for the purposes of section 775-185 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -27,14 +23,10 @@ Section 775-185 of the ITAA 1997 provides that:
 
 A facility agreement is an agreement between an entity (the 'first entity') and another entity or entities under which:
 
-
-
 (a) the first entity has a right to issue eligible securities; and
 (b) an entity or entities must acquire the securities;
 
 where the economic effect of the agreement is to enable the first entity to obtain finance in a particular foreign currency:
-
-
 
 (c) up to the foreign currency amount specified in the agreement; and
 (d) during the term of the agreement.
@@ -42,10 +34,10 @@ where the economic effect of the agreement is to enable the first entity to obta
 From the facts provided, the agreement between the entity and XYZ Bank allows the entity to issue discounted bills of exchange denominated in more than one foreign currency (namely US dollars and UK pounds). For there to be a 'facility agreement', section 775-185 of the ITAA 1997 requires that the economic effect of the agreement enables the relevant entity to obtain finance in 'a particular foreign currency'. In other words, for an agreement to be characterised as a facility agreement, all eligible securities issued under the agreement must have the economic effect of raising funds in the same foreign currency.
 Therefore, as the agreement enables finance to be obtained in more than one foreign currency, it cannot be a 'facility agreement' within section 775-185 of the ITAA 1997.
 Date of decision:
-         9 February 2004
+  9 February 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -54,17 +46,16 @@ Income Tax Assessment Act 1997   section 775-185
 Keywords
 
 Facility agreements
-          Foreign exchange gains and losses
-
+ Foreign exchange gains and losses
 
 Siebel/TDMS Reference Number:
-         3897400
+  3897400
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         20 February 2004
+  20 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

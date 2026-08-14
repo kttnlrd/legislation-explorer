@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 - (b) each item in the formula is determined—
 
-  - (i) from amounts consolidated for the CFC’s test group under the applicable accounting standard, if the interest holder chooses to apply the formula to the test group; or
+  - (i) from amounts consolidated for the CFC's test group under the applicable accounting standard, if the interest holder chooses to apply the formula to the test group; or
 
   - (ii) from amounts for the CFC, if subparagraph (i) does not apply; and
 
@@ -84,13 +84,13 @@ compilation_date: 2026-06-06
 
 - (d) a reference to a company that is associated is treated as being a reference to a company that is—
 
-  - (i) associated with a member of the CFC’s test group, although not a member of the CFC’s test group, if the interest holder chooses to apply the formula to the test group; or
+  - (i) associated with a member of the CFC's test group, although not a member of the CFC's test group, if the interest holder chooses to apply the formula to the test group; or
 
   - (ii) associated with the CFC, if subparagraph (i) does not apply; and
 
 - (e) a reference to a company that is in the same group of companies is treated as being a reference to a company that is—
 
-  - (i) in the same group of companies as a member of the CFC’s test group, although not a member of the CFC’s test group, if the person chooses to apply the formula to the test group; or
+  - (i) in the same group of companies as a member of the CFC's test group, although not a member of the CFC's test group, if the person chooses to apply the formula to the test group; or
 
   - (ii) in the same group of companies as the CFC, if subparagraph (i) does not apply; and
 
@@ -142,7 +142,7 @@ compilation_date: 2026-06-06
 
   - (ii) a financial asset or financial liability other than a derivative as defined in IFRS 9 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
 
-- (g) income or loss from a derivative instrument, as defined in IFRS 9, and included in the CFC’s statement of income—
+- (g) income or loss from a derivative instrument, as defined in IFRS 9, and included in the CFC's statement of income—
 
   - (i) if the instrument is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
 
@@ -214,7 +214,7 @@ compilation_date: 2026-06-06
 
   - (ii) a financial asset or financial liability other than a derivative as defined in IFRS 9 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
 
-- (d) a gain or loss from a derivative instrument, as defined in IFRS 9, and included in the CFC’s statement of income—
+- (d) a gain or loss from a derivative instrument, as defined in IFRS 9, and included in the CFC's statement of income—
 
   - (i) if the derivative instrument is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
 
@@ -258,7 +258,7 @@ compilation_date: 2026-06-06
 
 - (e) income derived from another CFC that—
 
-  - (i) is subject to the laws of the country or territory under which the CFC is liable to income tax on the CFC’s income because of the CFC’s domicile, residence, place of incorporation, or centre of management; and
+  - (i) is subject to the laws of the country or territory under which the CFC is liable to income tax on the CFC's income because of the CFC's domicile, residence, place of incorporation, or centre of management; and
 
   - (ii) is liable to tax on its income in that country or territory because of its domicile, residence, place of incorporation, or centre of management; and
 
@@ -288,7 +288,7 @@ compilation_date: 2026-06-06
 
 - (b) amounts drawn from the accounts, or from information that is used to prepare the accounts and is consistent with them, are treated as complying with the relevant accounting standard for the purposes of subsection (4) if the Commissioner does not have reasonable grounds to suspect—
 
-  - (i) fraudulent activity by the interest holder, the CFC, a CFC in the CFC’s test group, or the auditor:
+  - (i) fraudulent activity by the interest holder, the CFC, a CFC in the CFC's test group, or the auditor:
 
   - (ii) preparation of the accounts with an intent to mislead:
 

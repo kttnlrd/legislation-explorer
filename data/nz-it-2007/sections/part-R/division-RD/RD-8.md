@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Protected payments**
 
-**(2)**  The fact that a schedular payment may be protected against assignment or charge does not override a person’s obligation to withhold the amount of tax for the payment.
+**(2)**  The fact that a schedular payment may be protected against assignment or charge does not override a person's obligation to withhold the amount of tax for the payment.
 
 **Determination of expenditure incurred**
 

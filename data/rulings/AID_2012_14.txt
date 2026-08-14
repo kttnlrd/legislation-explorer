@@ -3,18 +3,14 @@ ATO ID 2012/14
 ==================================================
 
 Income Tax
-        Capital Gains Tax: non-TARP assets and the principal asset test in Division 855
-        FOI status: may be released
-
-
+ Capital Gains Tax: non-TARP assets and the principal asset test in Division 855
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 What is an 'asset' of an entity for the purposes of the principal asset test in section 855-30 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -35,8 +31,6 @@ The purpose of the principal asset test in section 855-30 is to define when an e
 Subsection 855-30(2) provides that a membership interest held by the holding entity in the test entity passes the principal asset test if the sum of the market values of the test entity's 'assets' that are taxable Australian real property exceeds the sum of the market values of its 'assets' that are not taxable Australian real property.
 Subsection 855-30(3) provides that for the purposes of subsection (2), treat an asset of an entity (the 'first entity') that is a membership interest in another entity (the 'other entity') as if it were instead the following two assets:
 
-
-
 (a)an asset that is taxable Australian real property (the 'TARP asset');
 (b)an asset that is not taxable Australian real property (the 'non-TARP asset').
 
@@ -44,14 +38,10 @@ The market value of the TARP asset and the non-TARP asset are worked out accordi
 The term 'assets' used in the principal asset test in section 855-30 is not defined. Accordingly, the term takes its ordinary meaning relevant to the context.
 The Macquarie Dictionary (4th edition) gives several alternative meanings of the term 'assets':
 
-
-
 1.Commerce resources of a person or business consisting of such items as real property, machinery, inventories, notes, securities, cash etc;
 2.Property or effects (opposed to liabilities);
 3.Accounting, the detailed listing of property owned by a firm and money owing to it; or
 4.Law:
-
-
 
 a)property in the hands of an executor or administrator sufficient to pay the debts or legacies of the testator or intestate;
 b)any property available for paying debts, etc.
@@ -61,8 +51,6 @@ Accordingly, in the context of the principal asset test in section 855-30, an as
 An entity's business or commercial assets are those which a prudent vendor and purchaser would identify as having value when setting the price for sale of a membership interest in the entity. These assets would also come within the scope of a due diligence examination undertaken on behalf of a prudent purchaser of such an entity. The purchaser of the membership interests would usually require warranties from the vendor to be included in the sale agreement in respect of the state and existence of the entity's commercial and business assets that comprise the underlying value of the membership interests being acquired.
 Accordingly, in the context of the principal asset test in section 855-30, 'assets' of an entity include such things as assets not recognised under accounting standards, items of trading stock, traditional and qualifying securities, depreciating assets and the entity's information assets, provided the thing is identified as a business or commercial asset that has economic value to the entity at the time of the relevant CGT event for which a purchaser of the entity's membership interests would be willing to pay.
 This broad meaning of 'assets' in the context of section 855-30 is supported by:
-
-
 
 •the purpose of section 855-30 - which, as stated by subsection 855-30(1), is to define when an entity's underlying value is principally derived from Australian real property; and
 •the terms of section 855-30 - which achieve that purpose by essentially comparing the sum of the 'market values' of the entity's assets that are taxable Australian real property with the sum of the 'market values' of its assets that are not taxable Australian real property.
@@ -75,10 +63,10 @@ In the present case, Australian resident company A acquired an enforceable right
 Further, the cash received under the inter-corporate loan from Australian resident company A is considered to be something recognised in commerce and business as having economic value to Australian resident company B at the time of the CGT event relating to the foreign resident's disposal of shares in Australian resident company A, for which a purchaser of Australian resident company B's membership interests would be willing to pay.
 Accordingly, the cash is considered to be an asset of Australian resident company B for the purposes of the principal asset test in section 855-30. However, its market value would be disregarded for the purposes of the principal asset test if subsection 855-30(5) applies.
 Date of decision:
-         27 February 2012
+  27 February 2012
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -96,15 +84,14 @@ Keywords
 
 Capital gains
 
-
 Siebel/TDMS Reference Number:
-         1-36R2QP1
+  1-36R2QP1
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         2 March 2012
+  2 March 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

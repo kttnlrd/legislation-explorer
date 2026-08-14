@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)**  A person is entitled to acquire or extinguish something if the entitlement is absolute or contingent and whether the entitlement—
 
-- (a) arises under a company’s constitution; or
+- (a) arises under a company's constitution; or
 
 - (b) arises under the terms of an option; or
 
@@ -34,9 +34,9 @@ compilation_date: 2026-06-06
 
 - (a) the entitlement arises under a security arrangement; and
 
-- (b) the person acquired the security arrangement in a transaction entered into on an arm’s length basis; and
+- (b) the person acquired the security arrangement in a transaction entered into on an arm's length basis; and
 
-- (c) the security arrangement’s terms conform to generally accepted commercial practice.
+- (c) the security arrangement's terms conform to generally accepted commercial practice.
 
 **No double counting**
 

@@ -13,7 +13,7 @@ paragraph: "¶4-600"
 
 - the entity allocates a franking credit to the distribution (¶4-640).
 
-  A distribution franked in this way is a “franked distribution”.
+  A distribution franked in this way is a "franked distribution".
 
 The amount of the franking credit on the distribution is generally the amount speciﬁed in the distribution statement for the distribution (¶4-640).
 
@@ -25,7 +25,7 @@ Residency requirement To satisfy the residency requirement when making a distrib
 
 - a public trading trust must be a resident unit trust for the income year in which the distribution is
 
-  made. The term “resident unit trust” takes its meaning from ITAA36 s 102Q for a public trading trust
+  made. The term "resident unit trust" takes its meaning from ITAA36 s 102Q for a public trading trust
 
 (¶6-320).
 

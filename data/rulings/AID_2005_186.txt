@@ -3,23 +3,17 @@ ATO ID 2005/186
 ==================================================
 
 Goods and Services Tax
-        GST and refinancing hire purchase agreements as leases
-        FOI status: may be released
-
-
+ GST and refinancing hire purchase agreements as leases
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, a financier, need to make an adjustment to reduce the input tax credit it claimed for the acquisition of a luxury car to reflect the car input tax credit limit under section 69-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when:
-
-
 
 •it on-supplied the luxury car under a hire purchase agreement, and
 •it terminates that hire purchase agreement and leases the car instead?
@@ -37,16 +31,14 @@ Paragraphs 194 and 198 of Goods and Services Tax Ruling GSTR 2000/29 makes it cl
 In addition, the adjustment rules in Division 19 and Division 129 of the GST Act do not apply as the entity's acquisition of the car has not been cancelled, there has been no change in the consideration the entity provided to the supplier, the acquisition remains a creditable acquisition and the entity is still using the car wholly for a creditable purpose.
 Therefore, the entity does not need to make an adjustment to reduce the input tax credit it claimed for the acquisition of a luxury car under section 69-10 of the GST Act.
 
-
-
 Note 1
-                : Where the financier and recipient account for GST on a non-cash basis, they may be required to make adjustments under Division 19 of the GST Act in relation to the termination of the hire purchase agreement
+ : Where the financier and recipient account for GST on a non-cash basis, they may be required to make adjustments under Division 19 of the GST Act in relation to the termination of the hire purchase agreement
 
 Note 2
-                : If a financier acquired the car with the intention of re-financing it as a lease, they have not acquired it with the sole purpose of holding it as trading stock. As such, they are not entitled to quote under the LCT Act and section 69-10 of the GST Act would apply to limit the amount of input tax credit claimed to 1/11th of the car limit.
+ : If a financier acquired the car with the intention of re-financing it as a lease, they have not acquired it with the sole purpose of holding it as trading stock. As such, they are not entitled to quote under the LCT Act and section 69-10 of the GST Act would apply to limit the amount of input tax credit claimed to 1/11th of the car limit.
 
 Date of decision:
-         20 December 2002
+  20 December 2002
 
 Legislative References:
 
@@ -60,20 +52,19 @@ Goods and Services Tax Ruling GSTR 2000/29
 Keywords
 
 Goods and services tax
-          GST net amounts and adjustments
-          Adjustments
-          GST hire purchase
-          GST Luxury Car Tax Stream
-
+ GST net amounts and adjustments
+ Adjustments
+ GST hire purchase
+ GST Luxury Car Tax Stream
 
 Siebel/TDMS Reference Number:
-         3156968
+  3156968
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         1 July 2005
+  1 July 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

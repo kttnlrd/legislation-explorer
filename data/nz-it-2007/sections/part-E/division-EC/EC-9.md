@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **National standard cost scheme: second restriction on use of scheme**
 
-**(2)**  The national standard cost scheme is not available to a person to value specified livestock if, in the income year before the income year in which their election under section EC 7(2) is to apply, they have valued specified livestock under the cost price method, and have not given at least 2 income years’ notice in the way described in section EC 11 to the Commissioner of their election to value specified livestock under the national standard cost scheme.
+**(2)**  The national standard cost scheme is not available to a person to value specified livestock if, in the income year before the income year in which their election under section EC 7(2) is to apply, they have valued specified livestock under the cost price method, and have not given at least 2 income years' notice in the way described in section EC 11 to the Commissioner of their election to value specified livestock under the national standard cost scheme.
 
 **National standard cost scheme: third restriction on use of scheme**
 

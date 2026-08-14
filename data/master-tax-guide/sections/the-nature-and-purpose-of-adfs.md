@@ -7,7 +7,7 @@ paragraph: "¶13-400"
 ---
 # The nature and purpose of ADFs ¶13-400
 
-Approved deposit funds (ADFs) function as roll-over vehicles so as to enable an individual’s superannuation beneﬁts to be retained in the superannuation system until they are paid from the ADF.
+Approved deposit funds (ADFs) function as roll-over vehicles so as to enable an individual's superannuation beneﬁts to be retained in the superannuation system until they are paid from the ADF.
 
 An ADF can accept superannuation beneﬁts which are rolled over to it for the beneﬁt of an individual and ATO payments of the shortfall component of a superannuation guarantee charge for the beneﬁt of the individual (¶39-600), but cannot accept superannuation contributions directly from employers or individuals.
 

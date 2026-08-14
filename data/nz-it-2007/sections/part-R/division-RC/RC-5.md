@@ -16,11 +16,11 @@ compilation_date: 2026-06-06
 
 **Standard method: 5% uplift**
 
-**(2)**  Under the standard method, the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 105% of the person’s residual income tax for the preceding tax year, determined under section RC 6. Subsection (3) overrides this subsection.
+**(2)**  Under the standard method, the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 105% of the person's residual income tax for the preceding tax year, determined under section RC 6. Subsection (3) overrides this subsection.
 
 **Standard method: 10% uplift**
 
-**(3)**  Despite subsection (2), the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 110% of the person’s residual income tax for the tax year before the preceding tax year if—
+**(3)**  Despite subsection (2), the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 110% of the person's residual income tax for the tax year before the preceding tax year if—
 
 - (a) they are required to provide a return of income for the preceding tax year; and
 
@@ -62,11 +62,11 @@ compilation_date: 2026-06-06
 
   - (i) annual gross income of $5,000,000 or less for the tax year before the current tax year:
 
-  - (ii) annual gross income of $5,000,000 or less for the first tax year for which the person used the AIM method, and the Commissioner has approved under section 15Z of the Tax Administration Act 1994 the person’s continued use of an AIM-capable accounting system for tax years in which the person has annual gross income of more than $5,000,000:
+  - (ii) annual gross income of $5,000,000 or less for the first tax year for which the person used the AIM method, and the Commissioner has approved under section 15Z of the Tax Administration Act 1994 the person's continued use of an AIM-capable accounting system for tax years in which the person has annual gross income of more than $5,000,000:
 
   - (iii) a large business AIM-capable system; and
 
-- (d) has not been liable, in 1 of the last 4 tax years before the current tax year, for a shortfall penalty in relation to their use of the AIM method and an approved AIM provider’s AIM-capable accounting system; and
+- (d) has not been liable, in 1 of the last 4 tax years before the current tax year, for a shortfall penalty in relation to their use of the AIM method and an approved AIM provider's AIM-capable accounting system; and
 
 - (e) has not returned tax liabilities using the AIM method with the sole purpose or effect of consistently, year-on-year, reducing their tax liabilities below the amounts of reasonably accurate assessments; and
 
@@ -82,9 +82,9 @@ compilation_date: 2026-06-06
 
 **(6)**  A person who is eligible under section RC 16 and not excluded by section RC 17 may choose to use a goods and services tax (GST) ratio under section RC 8 to determine their provisional tax liability for the tax year.
 
-**Commissioner’s determination**
+**Commissioner's determination**
 
-**(7)**  If the Commissioner determines a person’s provisional tax liability under section 119 of the Tax Administration Act 1994, the amount or liability is that last determined by the Commissioner and notified to the person at least 30 days before the instalment date. The 30-day requirement does not apply in a case to which section 119(1)﻿(d) of that Act applies (which relates to an estimate of residual income tax that is not fair and reasonable).
+**(7)**  If the Commissioner determines a person's provisional tax liability under section 119 of the Tax Administration Act 1994, the amount or liability is that last determined by the Commissioner and notified to the person at least 30 days before the instalment date. The 30-day requirement does not apply in a case to which section 119(1)﻿(d) of that Act applies (which relates to an estimate of residual income tax that is not fair and reasonable).
 
 **Life insurance business**
 

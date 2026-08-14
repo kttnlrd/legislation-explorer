@@ -7,7 +7,7 @@ paragraph: "¶26-130"
 ---
 # How much to withhold ¶26-130
 
-The amount required to be withheld from a withholding payment is worked out either under the withholding schedules or under the regulations (TAA sch 1 s 15-10). There is an exception in relation to a natural resource payment where the amount to be withheld is calculated under the Commissioner’s notice or certiﬁcate (¶26-270).
+The amount required to be withheld from a withholding payment is worked out either under the withholding schedules or under the regulations (TAA sch 1 s 15-10). There is an exception in relation to a natural resource payment where the amount to be withheld is calculated under the Commissioner's notice or certiﬁcate (¶26-270).
 
 Regulations Regulations may specify the amounts, formulae and procedures to be used for working out the amount required to be withheld by an entity from a withholding payment (TAA sch 1 s 15-35). Regulations apply to withholding payments where a TFN or an ABN is not quoted or where dividends, interest, royalty or mining payments are made.
 
@@ -29,7 +29,7 @@ Accrued gain in relation to a Pt VA investment                  47% of the accru
 
 Payment for a supply where no ABN is quoted                     47% of the payment (TAR s 38).
 
-A distribution to a beneﬁciary of a closely held trust or a     47% of the distribution or beneﬁciary’s share (TAR ss 36; beneﬁciary of a closely held trust is beneﬁcially entitled to a 37). share of the trust income and no TFN is quoted Dividend paid to an overseas person; dividend received for 30% of the dividend or as provided in a double tax a foreign resident                                              agreement (TAR s 40).
+A distribution to a beneﬁciary of a closely held trust or a     47% of the distribution or beneﬁciary's share (TAR ss 36; beneﬁciary of a closely held trust is beneﬁcially entitled to a 37). share of the trust income and no TFN is quoted Dividend paid to an overseas person; dividend received for 30% of the dividend or as provided in a double tax a foreign resident                                              agreement (TAR s 40).
 
 Interest paid to an overseas person; interest received for      10% of the interest (TAR s 41). a foreign resident; interest derived through an overseas permanent establishment Royalty paid to an overseas person; royalty received for a 30% of the royalty or as provided in a double tax agreement foreign resident                                                (TAR s 42).
 
@@ -63,7 +63,7 @@ jurisdiction and the payment relates to payments from a clean building MIT — 1
 
 jurisdiction, the transitional exclusions from NCMI apply and the payment does not relate to a payment from a clean building MIT — 15%.
 
-Voluntary agreement                                             Either the payee’s instalment rate (¶27-450) as notiﬁed by the ATO or a ﬂat rate of 20% (ATO Fact Sheet NAT 2772).
+Voluntary agreement                                             Either the payee's instalment rate (¶27-450) as notiﬁed by the ATO or a ﬂat rate of 20% (ATO Fact Sheet NAT 2772).
 
 withhold at that higher rate. If the instalment rate is less than 20%, the payer must withhold at the rate of 20%, unless the payer and payee agree to use the instalment rate.
 
@@ -75,11 +75,11 @@ Withholding of GST from certain real estate supplies                            
 
 FHSS released amounts                                                              The amount of tax that the Commissioner estimates will be payable by the individual in relation to the assessable FHSS released amount for an income year or
 
-of the individual’s assessable FHSS released amount for an income year.
+of the individual's assessable FHSS released amount for an income year.
 
-Commissioner’s power to vary amounts to be withheld The Commissioner may vary the amount to be withheld (including to nil) for the purposes of meeting the special circumstances of a particular case (TAA sch 1 s 15-15). “Special circumstances” usually only arise where the payee’s ﬁnal liability for all income types for that year does not justify the standard withholding rate. Taxpayers who wish to request a variation can do so using the form available from the ATO website (PAYG withholding variation application). For foreign entities, the Commissioner may use this discretion to reduce the rate of withholding to nil if the relevant income is not assessable in Australia, or to reduce the rate of withholding to a more appropriate level, where the prescribed withholding rates are excessive in comparison to the amount of tax which will ultimately be payable by the foreign entity (PS LA 2006/10).
+Commissioner's power to vary amounts to be withheld The Commissioner may vary the amount to be withheld (including to nil) for the purposes of meeting the special circumstances of a particular case (TAA sch 1 s 15-15). "Special circumstances" usually only arise where the payee's ﬁnal liability for all income types for that year does not justify the standard withholding rate. Taxpayers who wish to request a variation can do so using the form available from the ATO website (PAYG withholding variation application). For foreign entities, the Commissioner may use this discretion to reduce the rate of withholding to nil if the relevant income is not assessable in Australia, or to reduce the rate of withholding to a more appropriate level, where the prescribed withholding rates are excessive in comparison to the amount of tax which will ultimately be payable by the foreign entity (PS LA 2006/10).
 
-However, the Commissioner cannot vary a withholding amount in relation to an investment where the investor does not quote a TFN (or an ABN), employee share schemes where an employee does not quote a TFN, or where an investor becomes presently entitled to income of a unit trust and does not quote a TFN. This is because the rate of withholding for those events is designed as a sanction. Further, the Commissioner’s power to vary the withholding rate will generally not be relevant to a natural resource payment because, in that case, the Commissioner sets the rate of withholding on a case-by-case basis and is able to take into account any special circumstances aﬀecting the recipient as part of that process.
+However, the Commissioner cannot vary a withholding amount in relation to an investment where the investor does not quote a TFN (or an ABN), employee share schemes where an employee does not quote a TFN, or where an investor becomes presently entitled to income of a unit trust and does not quote a TFN. This is because the rate of withholding for those events is designed as a sanction. Further, the Commissioner's power to vary the withholding rate will generally not be relevant to a natural resource payment because, in that case, the Commissioner sets the rate of withholding on a case-by-case basis and is able to take into account any special circumstances aﬀecting the recipient as part of that process.
 
 A variation must be made by a written notice given to each entity aﬀected. In the case of a class of entities, a copy of the notice may be published in the Commonwealth Gazette. Details of current variations are discussed in the relevant withholding payment.
 

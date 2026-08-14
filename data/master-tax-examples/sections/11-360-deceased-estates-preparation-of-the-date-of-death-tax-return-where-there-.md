@@ -11,9 +11,9 @@ where there is no grant of probate Worked example: Deceased estates: preparation
 
 Jean has neither obtained a grant of probate on behalf of Jon, nor has she obtained letters of administration because she does not see the point in spending considerable time and money obtaining them when it is clear, as joint tenant, that everything in his estate comes to her.
 
-Jean approaches William Cash, who was the partner who looked after Jon’s tax affairs in life at Starling Partners, in April 2025 seeking the preparation of a date of death tax return. Can William prepare the return?
+Jean approaches William Cash, who was the partner who looked after Jon's tax affairs in life at Starling Partners, in April 2025 seeking the preparation of a date of death tax return. Can William prepare the return?
 
-Solution The Date of Death (DOD) tax return is the final income tax return prepared and lodged using the deceased’s Tax File Number (TFN) covering the period from the previous 1 July up to the date of death.
+Solution The Date of Death (DOD) tax return is the final income tax return prepared and lodged using the deceased's Tax File Number (TFN) covering the period from the previous 1 July up to the date of death.
 
 Generally, a DOD return is required to be lodged if:
 
@@ -31,11 +31,11 @@ Generally, a DOD return is required to be lodged if:
 
 The DOD return is required to be lodged by the authorised legal personal representative (LPR) of the deceased. This person can engage a tax agent to lodge the return on their behalf.
 
-TAA Div 355 Sch 1 contains provisions that protect the confidentiality of taxpayer information. Division 355 allows the ATO to disclose protected information about a taxpayer to that taxpayer, and to particular “covered entities” representing the taxpayer (including their registered tax agent or BAS agent and legal practitioner).
+TAA Div 355 Sch 1 contains provisions that protect the confidentiality of taxpayer information. Division 355 allows the ATO to disclose protected information about a taxpayer to that taxpayer, and to particular "covered entities" representing the taxpayer (including their registered tax agent or BAS agent and legal practitioner).
 
 Division 355 presents a problem in the case of a deceased taxpayer because obviously the taxpayer no longer exists and therefore information cannot be disclosed, either to that taxpayer or their professional representative (because authority to represent a taxpayer automatically lapses on death).
 
-The Treasury Laws Amendment (2021 Measures No. 5) Act 2021 has since amended TAA s 355-25 to allow disclosures to particular representatives (including tax agents) of the executor or administrator of a deceased taxpayer’s estate. This helps where the person who wishes to lodge the deceased tax return is the executor or administrator, but not otherwise.
+The Treasury Laws Amendment (2021 Measures No. 5) Act 2021 has since amended TAA s 355-25 to allow disclosures to particular representatives (including tax agents) of the executor or administrator of a deceased taxpayer's estate. This helps where the person who wishes to lodge the deceased tax return is the executor or administrator, but not otherwise.
 
 In practical terms, what this means is that where the ATO receives information that a person has died, they remove access to their records by their former representatives, including tax and BAS agents because the person's authorisations ceased when they died.
 
@@ -47,7 +47,7 @@ To gain access to the deceased person's tax records, the agent must: where there
 
 - complete a declaration advising of their appointment.
 
-When this has been done, the deceased client can then be added to the tax agent’s client list through Online services for agents or the agent’s PLS software.
+When this has been done, the deceased client can then be added to the tax agent's client list through Online services for agents or the agent's PLS software.
 
 However, an agent who has not been appointed by an authorised LPR does not have legal authority to access a deceased person's ATO records after the date of death.
 

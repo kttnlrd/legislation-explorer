@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
   - (ii) any activity in New Zealand that is ancillary to or facilitates the activities described in subparagraph (i), if the person carries on any such activity; and
 
-- (b) whose assets, to the extent they are used in, or for the purposes of, the business or project referred to in paragraph (a), comprise at least 95% of the total value of the person’s assets recognised in its balance sheet for the income year and include—
+- (b) whose assets, to the extent they are used in, or for the purposes of, the business or project referred to in paragraph (a), comprise at least 95% of the total value of the person's assets recognised in its balance sheet for the income year and include—
 
   - (i) tangible assets:
 
@@ -128,7 +128,7 @@ compilation_date: 2026-06-06
 
 **(9)**  In this section, qualifying infrastructure debt means, for the eligible infrastructure entity, debt for which, for the income year, all the following are satisfied:
 
-- (a) the debt is applied to the eligible infrastructure entity’s business or project; and
+- (a) the debt is applied to the eligible infrastructure entity's business or project; and
 
 - (b) the debt is third-party debt; and
 
@@ -154,7 +154,7 @@ compilation_date: 2026-06-06
 
 - (d) excludes debt that—
 
-  - (i) is convertible into shares, other equity interests, or partner’s interests of the borrower or an associated person:
+  - (i) is convertible into shares, other equity interests, or partner's interests of the borrower or an associated person:
 
   - (ii) provides for any return calculated by reference to profits, cashflows, or distributions of the borrower or an associated person:
 
@@ -164,7 +164,7 @@ compilation_date: 2026-06-06
 
 **Definition of limited-recourse debt**
 
-**(11)**  In this section, limited-recourse debt means debt that, in the event of default, the lender’s recourse is limited to—
+**(11)**  In this section, limited-recourse debt means debt that, in the event of default, the lender's recourse is limited to—
 
 - (a) the assets and income of the eligible infrastructure entity, including—
 
@@ -184,7 +184,7 @@ compilation_date: 2026-06-06
 
   - (i) the benefit of a guarantee or other assurance from the Crown in connection with the right to impose levies; and
 
-  - (ii) the benefit of a security or a guarantee from a third party over that third party’s assets, to the extent the security or guarantee applies only during the construction period and relates solely to the construction or creation of a qualifying infrastructure asset.
+  - (ii) the benefit of a security or a guarantee from a third party over that third party's assets, to the extent the security or guarantee applies only during the construction period and relates solely to the construction or creation of a qualifying infrastructure asset.
 
 **Definition of non-debt liabilities**
 
@@ -202,7 +202,7 @@ compilation_date: 2026-06-06
 
   - (ii) no member of the subset has an ownership interest in an entity that is not a member of the subset.
 
-*Defined in this Act: amount, associated person, commercial building, Commissioner, company, dividend, eligible infrastructure entity, fixed-rate foreign equity, fixed-rate share, foreign-sourced amount, income, income year, interest, limited-recourse debt, listed company, non-debt liabilities, ownership interest, partner’s interests, qualifying infrastructure asset, qualifying infrastructure debt, qualifying infrastructure group, third-party debt, wholly-owned group of companies*
+*Defined in this Act: amount, associated person, commercial building, Commissioner, company, dividend, eligible infrastructure entity, fixed-rate foreign equity, fixed-rate share, foreign-sourced amount, income, income year, interest, limited-recourse debt, listed company, non-debt liabilities, ownership interest, partner's interests, qualifying infrastructure asset, qualifying infrastructure debt, qualifying infrastructure group, third-party debt, wholly-owned group of companies*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

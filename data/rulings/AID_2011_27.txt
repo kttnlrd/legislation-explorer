@@ -3,21 +3,16 @@ ATO ID 2011/27
 ==================================================
 
 Income Tax
-        Offshore banking units: trading activity
-        FOI status: may be released
-
+ Offshore banking units: trading activity
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the execution of 'Non-Deliverable Forward' contracts (NDFs), which constitute executory contracts satisfied by financial settlement, constitute trading in currency or rights in respect of currency under paragraphs 121D(4)(e) or 121D(4)(ea) of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -32,8 +27,6 @@ Reasons for Decision
 Section 121D of the ITAA 1936 lists the type of activities that qualify as an offshore banking activity (OB activity) for the purpose of determining offshore banking income of an OBU[1] under Division 9A.
 Paragraph 121D(1)(c) of the ITAA 1936 states that a 'trading activity' is an OB activity if it meets the requirements of subsection 121D(4). Paragraphs 121D(4)(e) and (ea) of the ITAA 1936 refer to 'trading in currency' or 'trading in rights in respect of currency' as being a trading activity in certain circumstances.
 'Trading' is not defined in the ITAA 1936 but section 121ED provides that a person (the trader) is said to trade with another person in a thing if:
-
-
 
 a)the trader, for the purpose of trading in the thing, acquires it on issue from the other person; or
 b)the trader, for the purpose of trading in the thing, buys it from the other person; or
@@ -66,23 +59,22 @@ Comment
 Reasons for Decision
 Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
 
-                  Date of effect 13 September 2021.
+ Date of effect 13 September 2021.
 
 [1]
 The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
 
 Date of decision:
-         23 February 2011
+  23 February 2011
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
 Income Tax Assessment Act 1936   subsection 121D(1)   subsection 121D(4)   paragraph 121D(4)(e)   paragraph 121D(4)(ea)   section 121EA   section 121ED
 
 Case References:
-
 
 Californian Copper Syndicate v Harris (Surveyor of Taxes)   (1904) 5 TC 159
 
@@ -102,41 +94,36 @@ Other References:
 
 Macquarie Dictionary [Multimedia], version 5.0.0, 01/10/01
 
-
 Keywords
 
 Forward contracts
-          Offshore banking units
-          Foreign currency
-          Foreign currency rights
-          International transactions
-
+ Offshore banking units
+ Foreign currency
+ Foreign currency rights
+ International transactions
 
 Siebel/TDMS Reference Number:
-         1-2P9HD8I
+  1-2P9HD8I
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         25 March 2011
+  25 March 2011
 
 Date reviewed:
-         12 October 2021
+  12 October 2021
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 23 February 2011

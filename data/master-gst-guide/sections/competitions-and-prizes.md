@@ -23,25 +23,25 @@ In a competition covered by the general rules, there are various types of supply
 
 - the supply by the organiser of (non-monetary) prizes.
 
-  Organiser’s supply of right to participate
+  Organiser's supply of right to participate
 
-If an entry fee or some other consideration is paid by the entrant, and the organiser is registered, the organiser’s supply of the right to participate is subject to GST (GST Ruling GSTR 2002/3). So, for example, if the entry fee is $110, the GST will be $10. The entrant can claim an input tax credit (ITC) for this amount if the entrant is registered and entered the competition as part of an enterprise.
+If an entry fee or some other consideration is paid by the entrant, and the organiser is registered, the organiser's supply of the right to participate is subject to GST (GST Ruling GSTR 2002/3). So, for example, if the entry fee is $110, the GST will be $10. The entrant can claim an input tax credit (ITC) for this amount if the entrant is registered and entered the competition as part of an enterprise.
 
-Entrant’s supply of participation The entrant’s supply of participation will be taxable if the entrant receives consideration (eg a prize), is registered and entered the competition as part of its enterprise (GST Ruling GSTR 2002/3). If there is a non- monetary prize, this may be treated as part of the consideration. For valuation procedures, see ¶4-020.
+Entrant's supply of participation The entrant's supply of participation will be taxable if the entrant receives consideration (eg a prize), is registered and entered the competition as part of its enterprise (GST Ruling GSTR 2002/3). If there is a non- monetary prize, this may be treated as part of the consideration. For valuation procedures, see ¶4-020.
 
-Illustration: Entrant’s supply of participation A registered racehorse owner enters a horse in a race. The horse wins $11,000 and a trophy with a GST-inclusive market value of $5,500. The owner is liable for GST of 1/11 × $16,500 = $1,500. The organiser can claim this amount as an ITC.
+Illustration: Entrant's supply of participation A registered racehorse owner enters a horse in a race. The horse wins $11,000 and a trophy with a GST-inclusive market value of $5,500. The owner is liable for GST of 1/11 × $16,500 = $1,500. The organiser can claim this amount as an ITC.
 
 If the prizewinner is not registered (or required to be), or does not enter the competition as part of its enterprise, the supply of its participation cannot be taxable, so there is no GST on it.
 
 The Commissioner says that if the prize is a symbolic medal, ribbon or trophy awarded as a recognition of achievement, with only personal or sentimental value, it is treated as having a market value of nil (GST Ruling GSTR 2002/3 paras 44-48). It will therefore not attract GST. This would arguably be the case in respect of medals awarded at Olympics or Commonwealth games, world championships or similar. Medals, ribbons or trophies typically awarded to exhibitors at agricultural shows and fetes would similarly not be expected to be subject to GST; nor would perpetual trophies awarded on a custodial basis be subject to GST. However, this does not apply if the medal, etc, has intrinsic value because of its craftsmanship or precious metal content. Nor does it apply if the prize has a practical use, for example, a crystal decanter.
 
-Such prizes have a market value and will be treated as consideration for the winner’s supply of participation (GST Ruling GSTR 2002/3 para 48; ATO Fact Sheet GST for the Racing Industry (no longer available)).
+Such prizes have a market value and will be treated as consideration for the winner's supply of participation (GST Ruling GSTR 2002/3 para 48; ATO Fact Sheet GST for the Racing Industry (no longer available)).
 
-Organiser’s supply of non-monetary prizes The organiser’s supply of a (non-monetary) prize may be a taxable supply for a consideration consisting of the winner’s winning effort (GST Ruling GSTR 2002/3). This does not apply to money prizes, as money cannot normally be treated as a supply (¶4-010).
+Organiser's supply of non-monetary prizes The organiser's supply of a (non-monetary) prize may be a taxable supply for a consideration consisting of the winner's winning effort (GST Ruling GSTR 2002/3). This does not apply to money prizes, as money cannot normally be treated as a supply (¶4-010).
 
-Illustration: Supply of non-monetary prizes The supply of the trophy to the racehorse owner in the previous example is a taxable supply. The consideration is the GST-inclusive market value of the horse’s winning participation attributable to the trophy, which is valued by reference to its market value, ie $5,500 (see further below). The organiser accounts for $500 GST on the supply and the owner claims an ITC of the same amount. If the owner was not registered, it could not claim the ITC.
+Illustration: Supply of non-monetary prizes The supply of the trophy to the racehorse owner in the previous example is a taxable supply. The consideration is the GST-inclusive market value of the horse's winning participation attributable to the trophy, which is valued by reference to its market value, ie $5,500 (see further below). The organiser accounts for $500 GST on the supply and the owner claims an ITC of the same amount. If the owner was not registered, it could not claim the ITC.
 
-This applies even if the winner has not formally entered the competition, for example, a sportsperson’s best player award. However, it does not apply:
+This applies even if the winner has not formally entered the competition, for example, a sportsperson's best player award. However, it does not apply:
 
 - if the winner does not have to provide anything more than participation, for example, lotteries or raffles
 
@@ -55,13 +55,13 @@ This applies even if the winner has not formally entered the competition, for ex
 
   community involvement (GST Ruling GSTR 2002/3).
 
-If the winner is registered, and competed in the course of an enterprise, the winner’s participation is normally valued as the value of the prize (GST Ruling GSTR 2001/6: ¶4-020). However, this may not apply where the winner is not registered, or not competing in the course of an enterprise, and the participation is trivial, for example:
+If the winner is registered, and competed in the course of an enterprise, the winner's participation is normally valued as the value of the prize (GST Ruling GSTR 2001/6: ¶4-020). However, this may not apply where the winner is not registered, or not competing in the course of an enterprise, and the participation is trivial, for example:
 
 - entering a free prize draw
 
 - being a nominated caller to a radio program and answering a trivial question
 
-- participating in “social” competitions, for example, as the person who can hop on the spot the longest,
+- participating in "social" competitions, for example, as the person who can hop on the spot the longest,
 
   or
 
@@ -69,19 +69,19 @@ If the winner is registered, and competed in the course of an enterprise, the wi
 
   GSTR 2002/3).
 
-In these cases, the winner’s participation is treated as having no additional market value, so no GST applies.
+In these cases, the winner's participation is treated as having no additional market value, so no GST applies.
 
-The same would apply, for example, to participation in children’s underage sporting events or school quiz events for students. However, an unregistered winner’s participation may have market value in certain cases, depending on the commerciality of the event and the media profile of the event and the winner. This would apply, for example, where:
+The same would apply, for example, to participation in children's underage sporting events or school quiz events for students. However, an unregistered winner's participation may have market value in certain cases, depending on the commerciality of the event and the media profile of the event and the winner. This would apply, for example, where:
 
 - a contestant wins prizes in a national television quiz show
 
 - an amateur sportsperson wins a prize in a major professional tournament, or
 
-- a winner is required to endorse the organiser’s products (GST Ruling GSTR 2002/3).
+- a winner is required to endorse the organiser's products (GST Ruling GSTR 2002/3).
 
 In these cases, the winner is taken to have provided valuable consideration for the prize, so GST may apply.
 
-Grossing up of prizes It is understood that racing clubs are able to advertise prize money exclusive of GST. If the winning owner is registered, GST will be added. (This is called “grossing up” the prize money.) This will require that the owner’s registration status be notified to the club.
+Grossing up of prizes It is understood that racing clubs are able to advertise prize money exclusive of GST. If the winning owner is registered, GST will be added. (This is called "grossing up" the prize money.) This will require that the owner's registration status be notified to the club.
 
 Illustration: Gross-up of prize money for GST A horse race carries prize money of $10,000 (plus $1,000 allowance for GST) and a trophy worth $1,320. As the winning owner is registered, the supply of the horse by the owner is a taxable supply. The consideration for this supply is $12,320 (ie $10,000 + $1,000 + $1,320). The owner accounts for GST of $1,120 (ie 1/11 × $12,320) and the racing body claims an ITC of $1,120.
 

@@ -19,7 +19,7 @@ paragraph: "¶25-110"
 
 - Membership fees are subject to GST (¶4-020).
 
-- Gifts and donations are not subject to GST, even though donors receive “tokens” (¶4-030).
+- Gifts and donations are not subject to GST, even though donors receive "tokens" (¶4-030).
 
 - Certain fundraising events are input taxed (¶15-055).
 

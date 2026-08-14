@@ -15,13 +15,13 @@ For this purpose, if a person holds an interest in an asset because it was trans
 
 Planning point If additional funds are being injected into a company that has pre-CGT assets, care should be taken to prevent any pre-CGT assets becoming post-CGT assets.
 
-Special rules apply for certain public entities (¶12-880). Further, if a non-public entity is partly owned by a public entity, the non-public entity should take into account all available results of the public entity’s tracing of underlying interests in pre-CGT assets at its most recent test day (TD 2000/8).
+Special rules apply for certain public entities (¶12-880). Further, if a non-public entity is partly owned by a public entity, the non-public entity should take into account all available results of the public entity's tracing of underlying interests in pre-CGT assets at its most recent test day (TD 2000/8).
 
-If the Commissioner is satisﬁed, or thinks it reasonable to assume, that, at all times on and after 20 September 1985 and before a particular time, majority underlying interests in the asset were held by the same ultimate owners who held majority underlying interests in the asset immediately before that day, the asset continues to be a pre-CGT asset. Where partners in a partnership roll-over a pre-CGT asset into a company pursuant to Subdiv 122-B, the ultimate owners are those pre-CGT partners who can trace their interests back to that pre-CGT asset (ID 2010/228). Where a company’s shares carry discretionary rights to dividends the majority underlying ownership will be maintained where there is no change in the ultimate owners since 19 September 1985 (ID 2011/101), but it will not be maintained if any new shareholder is admitted after that date (ID 2011/107).
+If the Commissioner is satisﬁed, or thinks it reasonable to assume, that, at all times on and after 20 September 1985 and before a particular time, majority underlying interests in the asset were held by the same ultimate owners who held majority underlying interests in the asset immediately before that day, the asset continues to be a pre-CGT asset. Where partners in a partnership roll-over a pre-CGT asset into a company pursuant to Subdiv 122-B, the ultimate owners are those pre-CGT partners who can trace their interests back to that pre-CGT asset (ID 2010/228). Where a company's shares carry discretionary rights to dividends the majority underlying ownership will be maintained where there is no change in the ultimate owners since 19 September 1985 (ID 2011/101), but it will not be maintained if any new shareholder is admitted after that date (ID 2011/107).
 
-An ultimate owner includes an individual or a company whose constitution prevents it from making any distribution to its members (s 149-15). Accordingly, where an incorporated association’s constitution prevented it from making a distribution to members, the pre-CGT status of assets was maintained when the association was registered as a company with similar restrictions in its constitution (ID 2004/978). However, a company is not an ultimate owner if at that time its constitution provides that rights to surplus assets on a subsequent winding-up are to be determined under legislation that does not prevent a distribution to members (ID 2010/98).
+An ultimate owner includes an individual or a company whose constitution prevents it from making any distribution to its members (s 149-15). Accordingly, where an incorporated association's constitution prevented it from making a distribution to members, the pre-CGT status of assets was maintained when the association was registered as a company with similar restrictions in its constitution (ID 2004/978). However, a company is not an ultimate owner if at that time its constitution provides that rights to surplus assets on a subsequent winding-up are to be determined under legislation that does not prevent a distribution to members (ID 2010/98).
 
-Cost base of assets that become post-CGT assets If an asset stops being a pre-CGT asset, the ﬁrst element of its cost base and reduced cost base is the asset’s market value at the time it becomes a post-CGT asset (s 149-35). However, for the purpose of determining the CGT exempt amount able to be distributed to CGT concession stakeholders under the 15- year exemption, the original cost base of the asset, not the deemed cost base, is used (s 152-125(1)(a)(iv)).
+Cost base of assets that become post-CGT assets If an asset stops being a pre-CGT asset, the ﬁrst element of its cost base and reduced cost base is the asset's market value at the time it becomes a post-CGT asset (s 149-35). However, for the purpose of determining the CGT exempt amount able to be distributed to CGT concession stakeholders under the 15- year exemption, the original cost base of the asset, not the deemed cost base, is used (s 152-125(1)(a)(iv)).
 
 Where there is a change in the majority underlying interests of a company carrying on a business with pre- CGT goodwill at a time when the contract for the acquisition of the assets of a new business has not been completed, the acquisition date and cost base consequences referred to in ss 149-30(1A) and 149-35(2) are applied to the goodwill of the business then conducted by the company. When the acquired business is later subsumed, the coalesced goodwill assets will have an acquisition date after 20 September 1985 (ID 2010/208).
 
@@ -37,7 +37,7 @@ Test days
 
 - a day that is 5 years (or a multiple of 5 years) after 30 June 1999
 
-- for a company, a day on which there is abnormal trading in the company’s shares
+- for a company, a day on which there is abnormal trading in the company's shares
 
 - for a publicly traded unit trust, a day on which there is abnormal trading in units in the trust
 
@@ -49,17 +49,17 @@ Abnormal trading A trading in shares in a company happens if there is an issue, 
 
 An abnormal trading in shares in a company, or in units in a unit trust, happens if a trading in the shares or units is abnormal having regard to all relevant factors, including:
 
-- the timing of the trading, when compared with the normal timing for trading in the company’s
+- the timing of the trading, when compared with the normal timing for trading in the company's
 
-  shares or in the trust’s units
+  shares or in the trust's units
 
-- the number of shares or units traded, when compared with the normal number of the company’s
+- the number of shares or units traded, when compared with the normal number of the company's
 
-  shares or the trust’s units traded
+  shares or the trust's units traded
 
-- any connection between the trading and any other trading in the company’s shares or in the
+- any connection between the trading and any other trading in the company's shares or in the
 
-  trust’s units
+  trust's units
 
 - any connection between the trading and a tax loss or other deduction of the company or trust
 
@@ -115,7 +115,7 @@ TR 1999/4 also makes some important points about the application of the test in 
 
 The rules for tracing underlying ownership of assets and the information used by the Commissioner to decide whether ownership has changed for CGT purposes are explained in TR 2004/7.
 
-Cost base of assets that become post-CGT assets If an asset stops being a pre-CGT asset, the ﬁrst element of its cost base and reduced cost base is the asset’s market value at the time it becomes a post-CGT asset (s 149-75).
+Cost base of assets that become post-CGT assets If an asset stops being a pre-CGT asset, the ﬁrst element of its cost base and reduced cost base is the asset's market value at the time it becomes a post-CGT asset (s 149-75).
 
 Determinations not required for post-CGT assets Once an asset stops being a pre-CGT asset because the Commissioner is satisﬁed that its majority underlying interests have changed, the entity need not give any more evidence to the Commissioner about its underlying interests (s 149-80). entities Assets ceasing to be pre-CGT assets — demutualised entities When working out the majority underlying interests in publicly listed companies, 100% beneﬁcially owned companies and publicly traded unit trusts, simpliﬁed rules apply if the entity is a mutual insurance company or a mutual aﬃliate company that has demutualised since the starting day (19 September 1985 or a day chosen by the company between 1 July 1985 and 1 July 1986) (s 149-165). However, these rules only apply if, when the company demutualised, it had more than 50 members.
 

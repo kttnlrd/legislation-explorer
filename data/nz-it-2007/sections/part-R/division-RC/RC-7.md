@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Estimation higher than provisional tax payable**
 
-**(5)**  If a person’s estimate is more than the provisional tax that is payable for the tax year, they are treated as having taken reasonable care in making the estimate.
+**(5)**  If a person's estimate is more than the provisional tax that is payable for the tax year, they are treated as having taken reasonable care in making the estimate.
 
 **Changing calculation method from GST ratio**
 

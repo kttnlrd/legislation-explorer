@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 - (a) contract amount means the amount of foreign research and development expenditure, described in subsection (1)﻿(a) and (c), for another person (a foreign contractor) to perform research and development activities on behalf of the person:
 
-- (b) ineligible expenditure means the foreign contractor’s expenditure or loss in relation to performing the research and development activities, to the extent to which the expenditure or loss is not eligible research and development expenditure under section LY 5(1), treating the foreign contractor as the relevant person for the purposes of that section:
+- (b) ineligible expenditure means the foreign contractor's expenditure or loss in relation to performing the research and development activities, to the extent to which the expenditure or loss is not eligible research and development expenditure under section LY 5(1), treating the foreign contractor as the relevant person for the purposes of that section:
 
 - (c) foreign in-house amount means the amount of foreign research and development expenditure, described in subsection (1), under section LY 5(1) but ignoring amounts for a foreign contractor to perform research and development activities for the person.
 

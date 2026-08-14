@@ -17,7 +17,7 @@ Essentially, the ATO will provide legally binding forms of written advice wherev
 
 Both public rulings and private rulings (as well as all written advice given or published on the GST) are legally binding on the Commissioner. Taxpayers are entitled to protection from additional primary tax, penalties and interest when they rely on a ruling. Taxpayers are entitled to protection from penalty and interest charges where they rely on other ATO written advice or administrative practice.
 
-Interpretative Decisions (ATO ID series) indicate the Commissioner’s view on the interpretation of the law on particular issues. They are produced to assist ATO oﬃcers to apply the law consistently and accurately to particular factual situations (PS LA 2001/8; PS LA 2003/3). However, IDs are not published as a form of ATO advice and, therefore, cannot be relied on; taxpayers who apply an ID in good faith but the ID is later found to be incorrect will be liable for underpaid tax, not penalty or interest.
+Interpretative Decisions (ATO ID series) indicate the Commissioner's view on the interpretation of the law on particular issues. They are produced to assist ATO oﬃcers to apply the law consistently and accurately to particular factual situations (PS LA 2001/8; PS LA 2003/3). However, IDs are not published as a form of ATO advice and, therefore, cannot be relied on; taxpayers who apply an ID in good faith but the ID is later found to be incorrect will be liable for underpaid tax, not penalty or interest.
 
 Law Administration Practice Statements (PS LA series) provide direction to ATO staﬀ on the approaches to be taken in performing their duties. They are not used to provide interpretative advice and do not convey extra statutory concessions to taxpayers (PS LA 1998/1).
 

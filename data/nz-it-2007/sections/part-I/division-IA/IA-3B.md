@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) is discharged from bankruptcy:
 
-- (b) is released under Part 5, other than subpart 1, of the Insolvency Act 2006 from liability for each debt that is a provable debt under that Act and is not a debt of a type for which the person’s liability is specifically preserved by that Act.
+- (b) is released under Part 5, other than subpart 1, of the Insolvency Act 2006 from liability for each debt that is a provable debt under that Act and is not a debt of a type for which the person's liability is specifically preserved by that Act.
 
 **When tax loss cannot be used**
 

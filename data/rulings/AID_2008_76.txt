@@ -3,23 +3,18 @@ ATO ID 2008/76
 ==================================================
 
 Goods and Services Tax
-        GST: has an entity 'taken into account' an input tax credit to calculate a net amount
-        FOI status: may be released
-
+ GST: has an entity 'taken into account' an input tax credit to calculate a net amount
+ FOI status: may be released
 
 This ATOID is withdrawn. Guidance on this issue is covered by web content.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Has an entity's net amount 'taken into account' an input tax credit for the purposes of subsection 29-10(4) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it has held and considered a valid tax invoice to make a partial claim for input tax credits?
@@ -35,14 +30,11 @@ Reasons for Decision
 The entity made creditable acquisitions under section 11-5 of the GST Act. Each acquisition, as defined in section 11-10 of the GST Act, was made partly for a creditable purpose under subsections 11-15(1) and 11-15(2) of the GST Act.
 Division 29 of the GST Act provides the attribution rules which explain when and how an entity is entitled to make a claim for an amount of input tax credits. Subsection 29-10(1) of the GST Act provides that an entity that accounts on a non-cash basis attributes input tax credits it is entitled to, to the tax period in which:
 
-
-
 (a)the entity has provided any of the consideration for the acquisition; or
 (b)the invoice has issued if this occurs before any of the consideration is provided.
 
 Subsection 29-10(4) of the GST Act allows taxpayers to attribute to a later tax period input tax credits that have not been taken into account in calculating the net amount in an earlier tax period. However, from 1 July 2010, under Division 93 of the GST Act any entitlement to input tax credits may cease to the extent that the credits have not been taken into account in working out the net amount within four years from the day after the GST return is required to be lodged for the tax period to which the credits would have been attributable under the basic rules (subsections 29-10(1) and (2)).
 In the present case, the input tax credits were taken into account in calculating the original net amount in an earlier tax period when they were considered by the entity in applying the first apportionment method. As such, subsection 29-10(4) does not apply to allow the entity to attribute to a later tax period the additional input tax credits calculated under the second apportionment method.
-
 
 Note - the outcome would be the same in this case if the entity had considered the appropriate tax invoice and claimed an initial zero entitlement.
 
@@ -61,7 +53,7 @@ Reason for Decision and note.
 Updated for self-assessment from 1 July 2012
 
 Date of decision:
-         8 May 2008
+  8 May 2008
 
 Legislative References:
 
@@ -79,39 +71,35 @@ Related ATO Interpretative Decisions
 Keywords
 
 Creditable acquisition
-          Goods and services tax
-          GST input tax credits & creditable acquisitions
-          GST net amounts & adjustments
-          GST returns
-          GST returns, payments & refunds
-          GST supplies & acquisitions
-          GST supply
-          Net amounts
-          Taxable supply
-
+ Goods and services tax
+ GST input tax credits & creditable acquisitions
+ GST net amounts & adjustments
+ GST returns
+ GST returns, payments & refunds
+ GST supplies & acquisitions
+ GST supply
+ Net amounts
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         5996976; 1-D668Q38
+  5996976; 1-D668Q38
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         23 May 2008
+  23 May 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  8 May 2008

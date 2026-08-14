@@ -7,7 +7,7 @@ paragraph: "None"
 ---
 # 2-078 - Main residence exemption compulsory acquisitions
 
-Worked example: Main residence exemption: compulsory acquisitions Issue Roger and Jean Portante live in a home on a one-acre block in Melbourne’s north-eastern suburbs. The main road which runs in front of their home is to be widened into a dual carriageway and will require compulsory acquisitions of part of the land of most of the houses on both sides of the road. As such, in December 2024, Roger and Jean commenced negotiations which would allow the Department of Transport to compulsorily acquire a strip of land at the front of their house, amounting to about ¼ of the block in total.
+Worked example: Main residence exemption: compulsory acquisitions Issue Roger and Jean Portante live in a home on a one-acre block in Melbourne's north-eastern suburbs. The main road which runs in front of their home is to be widened into a dual carriageway and will require compulsory acquisitions of part of the land of most of the houses on both sides of the road. As such, in December 2024, Roger and Jean commenced negotiations which would allow the Department of Transport to compulsorily acquire a strip of land at the front of their house, amounting to about ¼ of the block in total.
 
 As a result of the negotiations, the Department of Transport agreed to pay Roger and Jean the sum of $600,000 for their land. However, the Department of Transport were quite clear during negotiations that they were compulsorily acquiring the land come what may; the only question for Roger and Jean was about the amount of compensation that the Department of Transport would pay.
 
@@ -35,15 +35,15 @@ Compulsory acquisition involves an ownership interest in the land being compulso
 
 The acquirer serves a notice on the landowner inviting them to negotiate for the disposal of the asset or part of the asset. This notice should inform the landowner that, if negotiations are unsuccessful, the acquirer will proceed to acquire the asset or part of the asset in accordance with its legislative powers. Even if the landowner accepts the initial or negotiated offer, this is viewed to be a compulsory acquisition. This type of negotiated disposal is referred to as an acquisition under the shadow of compulsion.
 
-If the asset to be compulsorily acquired is property and it qualifies as the taxpayer’s main residence, any capital gain or loss that results from the compulsory acquisition is ignored.
+If the asset to be compulsorily acquired is property and it qualifies as the taxpayer's main residence, any capital gain or loss that results from the compulsory acquisition is ignored.
 
 This is because the main residence exemption applies to disregard a capital gain or loss if it arises from any of the following circumstances:
 
-- compulsory acquisition of part of a taxpayer’s main residence
+- compulsory acquisition of part of a taxpayer's main residence
 
-- compulsory ending of an ownership right over a taxpayer’s main residence
+- compulsory ending of an ownership right over a taxpayer's main residence
 
-- compulsory creation of a right over a taxpayer’s main residence
+- compulsory creation of a right over a taxpayer's main residence
 
 - relevant negotiated agreements made in connection with such a compulsory transaction (ITAA97 ss
 

@@ -3,21 +3,16 @@ ATO ID 2003/1190
 ==================================================
 
 Income Tax
-        Capital gains tax:  business succession agreement - put and call options - CGT event D2
-        FOI status: may be released
-
+ Capital gains tax: business succession agreement - put and call options - CGT event D2
+ FOI status: may be released
 
 This ATO interpretative Decision has been amended to insert an explanatory note at the conclusion of Reason for decision.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does CGT event D2 (section 104-40 of the Income Tax Assessment Act 1997 (ITAA 1997)) happen when options are granted under a business succession agreement, where the options will only be legally enforceable on the death or disablement of one of the shareholders?
@@ -25,8 +20,8 @@ Decision
 CGT event D2 does not occur at the time the agreement is entered into, but when the condition precedent to the grant (death or disablement of one of the shareholders) occurs.
 Facts
 Shareholders in a private company enter into a buy - sell (business succession) agreement to ensure the continuity of ownership of the business in the remaining shareholders, if one of the major shareholders dies or becomes permanently disabled.
-Under the agreement, put and call options are granted by each shareholder to the other shareholders to be effective in the event of the death or disablement of any of the  shareholders. The options cannot be assigned.
-The agreement provides that upon the death or disability of one of the shareholders, the remaining shareholders acquire a call option to purchase the shares of the shareholder who suffers death or disablement.  Similarly, the executor for the estate of the deceased shareholder or the disabled shareholder acquires a put option, entitling the executor (or shareholder) to require the other shareholders to purchase the disabled or deceased shareholder's shares.
+Under the agreement, put and call options are granted by each shareholder to the other shareholders to be effective in the event of the death or disablement of any of the shareholders. The options cannot be assigned.
+The agreement provides that upon the death or disability of one of the shareholders, the remaining shareholders acquire a call option to purchase the shares of the shareholder who suffers death or disablement. Similarly, the executor for the estate of the deceased shareholder or the disabled shareholder acquires a put option, entitling the executor (or shareholder) to require the other shareholders to purchase the disabled or deceased shareholder's shares.
 Reasons for Decision
 Section 104-40 of the ITAA 1997 states that a CGT event D2 occurs when an option is granted, renewed or extended. The legislation does not give a definition of 'option'. In Federal Commissioner of Taxation v. Guy (1996) 67 FCR 68; 96 ATC 4520; (1996) 32 ATR 601, the Federal Court defined option to mean:
 
@@ -53,17 +48,16 @@ Note
 The decision in Federal Commissioner of Taxation v. Guy (1996) 67 FCR 68, 96 ATC 4520; (1996) 32 ATR 601, was subsequently declared by the Federal Court of Australia to be wrong in Brooks v Federal Commissioner of Taxation [2000] FCA 721, (2000) 2000 ATC 4362; (2000) 44 ATR 352; (2000) 173 ALR 235; (2000) 100 FCR 117; [2001] NSW ConvR 55-955. However the court did not further consider the definition of 'option'.
 
 Date of decision:
-         30 June 2003
+  30 June 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
 Income Tax Assessment Act 1997   section 104-40
 
 Case References:
-
 
 Brooks v Federal Commissioner of Taxation   [2000] FCA 721   (2000) 2000 ATC 4362   (2000) 44 ATR 352   (2000) 173 ALR 235   (2000) 100 FCR 117   [2001] NSW ConvR 55-955
 
@@ -76,22 +70,21 @@ Perri v. Coolangatta Investments Pty Ltd    (1982) 149 CLR 537
 Keywords
 
 Accident & disability insurance
-          Call options
-          CGT events
-          Life insurance policies
-          Private companies
-          Put options
-          Shareholders
-
+ Call options
+ CGT events
+ Life insurance policies
+ Private companies
+ Put options
+ Shareholders
 
 Siebel/TDMS Reference Number:
-         3111039
+  3111039
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         24 December 2003
+  24 December 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

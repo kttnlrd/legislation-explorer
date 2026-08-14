@@ -3,23 +3,18 @@ ATO ID 2011/66
 ==================================================
 
 Income Tax
-        Capital Allowances: business related costs - limitation of deduction - return of an equity interest
-        FOI status: may be released
+ Capital Allowances: business related costs - limitation of deduction - return of an equity interest
+ FOI status: may be released
 
-
-This ATO Interpretative Decision is withdrawn because the Reason for Decision requires clarification and may be misleading. It has been replaced by  ATO ID 2011/78
+This ATO Interpretative Decision is withdrawn because the Reason for Decision requires clarification and may be misleading. It has been replaced by ATO ID 2011/78
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where the taxpayer's subsidiary issues an equity interest to an entity and the taxpayer incurs expenditure to purchase the equity interest, is the expenditure an amount that, for another entity, is a return of an equity interest for the purpose of subparagraph 40-880(9)(b)(i) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -36,19 +31,13 @@ Subparagraph 40-880(9)(b)(i) states that:
 
 You cannot deduct anything under this section for an amount of expenditure you incur:
 
-
-
 (b)to the extent that, for another entity, the amount is a *return on or of:
-
-
 
 (i)an *equity interest
 
 The taxpayer incurred capital expenditure to purchase the equity interest from the third party vendor. The third party vendor is 'another entity' for the purposes of subparagraph 40-880(9)(b)(i). The convertible notes were an equity interest in the member held by that third party. They are therefore an equity interest of another entity. The expenditure incurred by the taxpayer to acquire the equity interest is an amount incurred by the taxpayer to acquire another entity's equity interest.
 The interpretative issue is the meaning of the expression 'return of' in the context of subparagraph 40-880(9)(b)(i). The specific questions associated with this issue are:
 For an amount to be a return of another entity's equity interest:
-
-
 
 •Can the expenditure be incurred by a taxpayer who is not the issuer of the equity interest?
 •Must the expenditure exactly correspond with the amount paid by 'another entity' when it acquired the equity interest?
@@ -60,14 +49,10 @@ Return on a *debt interest or *equity interest does not include a return of an a
 It is clear that this definition does not resolve the meaning of the expression 'return of' for the purposes of subparagraph 40-880(9)(b)(i). Recourse must therefore be had to the ordinary meaning of the expression.
 The Macquarie Dictionary revised 5th Edition relevantly defines the word 'return' as:
 
-
-
 18.the act or fact of returning; a going or coming back; a bringing, sending, or giving back.
 20.reciprocation, repayment, or requital: profits in return for outlay
 
 The word 'of' is relevantly defined as:
-
-
 
 9.objective relation.
 
@@ -76,13 +61,11 @@ The ordinary meaning of the expression 'return of' does not introduce a requirem
 The explanatory memorandum to Tax Laws Amendment (2006 Measures No. 1) Bill 2006 (the EM) provides some guidance as to the meaning of the expression 'return of' for the purpose of subparagraph 40-880(9)(b)(i). Although the EM gives the example of payments made by a company to buy back its own shares as an expenditure which is excluded by subsection 40-880(9) the EM makes it clear that expenditures excluded by the provision are not limited to the examples given.
 The relevant paragraphs of the EM state:
    
-            Returns of capital
+ Returns of capital
 
 2.79 Some capital amounts are not considered legitimate blackhole expenditures as they comprise the transfer or distribution of funds, repayments, or do not give rise to any income tax consequences. As such, the expenditure does not represent an economic loss to the taxpayer and is not deductible. [Schedule 2, item 30, subsection 40-880(9)]
 
 2.80 Expenditures excluded by this provision include, but are not limited to:
-
-
 
 •dividends paid by companies;
 •distributions by trustees;
@@ -93,10 +76,10 @@ The relevant paragraphs of the EM state:
 Similarly, the ordinary meaning of the expression 'return of' does not introduce a requirement that the amount given back to another entity must exactly correspond with the amount paid by that entity when it acquired the equity interest. It is not uncommon, for example, for an entity to incur expenditure to buy back its shares at market value. The market value will usually differ from the issue price. This would not of itself disqualify the expenditure from being an amount that, for another entity, is a return of an equity interest.
 Therefore where the taxpayer's subsidiary issues an equity interest to an entity and the taxpayer incurs capital expenditure to purchase the equity interest from the third party which held the equity interest, the expenditure is an amount that, for another entity, is a return of an equity interest for the purpose of subparagraph 40-880(9)(b)(i).
 Date of decision:
-         2 August 2011
+  2 August 2011
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -109,37 +92,32 @@ Taxation Ruling TR 2010/D7
 Other References:
 
  Explanatory Memorandum to Tax Laws Amendment (2006 Measures No. 1) Bill 2006
-          The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009.
-
+ The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009.
 
 Keywords
 
 Blackhole expenditure
-          Business related costs
-          Capital expenditure
-          Equity
-          Non-share equity interest
-
+ Business related costs
+ Capital expenditure
+ Equity
+ Non-share equity interest
 
 Business Line:
-         Administration, Business and Personal Taxes Centre of Expertise
+  Administration, Business and Personal Taxes Centre of Expertise
 
 Date of publication:
-         19 August 2011
+  19 August 2011
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  2 August 2011

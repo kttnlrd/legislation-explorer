@@ -13,11 +13,11 @@ There are 3 elements of demerger relief: (a) a CGT roll-over for owners of inter
 
 Roll-over for interest owners In broad terms, the owners of interests in a company or trust can choose a roll-over if a CGT event happens to their interests because of the demerger of an entity from the group of which the company or trust is the head entity (Subdiv 125-B). This ensures that the pre-CGT status of interests in the head entity carries over to new interests in the demerged entity.
 
-- there is a restructuring of the demerger group (see TD 2020/6 for what constitutes “restructuring”)
+- there is a restructuring of the demerger group (see TD 2020/6 for what constitutes "restructuring")
 
-- at least 80% of the demerger group’s ownership interests in the demerged entity are acquired by
+- at least 80% of the demerger group's ownership interests in the demerged entity are acquired by
 
-  the owners of the group’s head entity
+  the owners of the group's head entity
 
 - a CGT event happens to the owners of the original interests in the head entity, or the owners
 
@@ -45,7 +45,7 @@ A foreign interest holder is treated as owning an interest in the relevant entit
 
 A restructure where the owners of original interests in the head entity receive new interests in the demerged entity that are not in the same proportion as their original interests is not a demerger.
 
-Dual listed companies Demerger roll-over is only available in relation to a dual listed company voting share in a head entity where there are more than 5 dual listed company voting shares in that company (s 126-60(2)). A “dual listed company voting share” is a company share:
+Dual listed companies Demerger roll-over is only available in relation to a dual listed company voting share in a head entity where there are more than 5 dual listed company voting shares in that company (s 126-60(2)). A "dual listed company voting share" is a company share:
 
 - issued as part of a dual listed company arrangement and mainly for the purpose of ensuring that
 
@@ -57,7 +57,7 @@ Dual listed companies Demerger roll-over is only available in relation to a dual
 
   share and a dividend that is the equivalent of a dividend paid on an ordinary share) (s 125-60(3)).
 
-The deﬁnition of a “dual listed company arrangement” refers to an arrangement under which 2 publicly listed companies, while maintaining their separate legal entity status, shareholdings and listings, align their strategic directions and the economic interests of their respective shareholders by meeting the requirements in s 125-60(4).
+The deﬁnition of a "dual listed company arrangement" refers to an arrangement under which 2 publicly listed companies, while maintaining their separate legal entity status, shareholdings and listings, align their strategic directions and the economic interests of their respective shareholders by meeting the requirements in s 125-60(4).
 
 Demerger group A demerger group comprises the head entity of a group of companies or trusts and at least one demerger subsidiary. A company or trust is the head entity of a demerger group if no other member of the group has ownership interests in the company or trust (s 125-65). Discretionary trusts and superannuation funds cannot be members of a demerger group. However, where such an entity is the owner of ownership interests in the head entity of the group, either one may choose the roll-over.
 
@@ -92,13 +92,13 @@ When roll-over does not apply
 
 Consequences of roll-over The eﬀect of the roll-over is to defer the making of a capital gain or capital loss. If an owner of the interests in the head entity chooses the roll-over, the capital gain or capital loss from a CGT event that happens to an original interest is disregarded (s 125-80).
 
-If the roll-over is chosen, the sum of the cost bases of all the owner’s post-CGT interests in the head entity just before the demerger must be apportioned across their post-CGT new interests in the demerged entity and any remaining original interests. The apportionment must be done on the basis of the market values, or an anticipated reasonable approximation of the market values, of the ownership interests. The Commissioner considers that the apportionment will be reasonable if the owner calculates the new cost base of each post- demerger interest in accordance with the market value of that interest relative to the total market value of all of their post-demerger interests. However, there may be more than one method of allocating the cost bases of ownership interests that results in a reasonable apportionment (TD 2006/73).
+If the roll-over is chosen, the sum of the cost bases of all the owner's post-CGT interests in the head entity just before the demerger must be apportioned across their post-CGT new interests in the demerged entity and any remaining original interests. The apportionment must be done on the basis of the market values, or an anticipated reasonable approximation of the market values, of the ownership interests. The Commissioner considers that the apportionment will be reasonable if the owner calculates the new cost base of each post- demerger interest in accordance with the market value of that interest relative to the total market value of all of their post-demerger interests. However, there may be more than one method of allocating the cost bases of ownership interests that results in a reasonable apportionment (TD 2006/73).
 
-If all the owner’s original interests are pre-CGT interests, all the owner’s new interests in the demerged entity will be treated as pre-CGT interests. If some of the owner’s original interests in the head entity are pre-CGT interests, the number of pre-CGT new interests in the demerged entity is based on the proportion of pre-CGT original interests, having regard to the relative market values of the interests before and after the demerger. If a proportion of the owner’s original interests, some of which were acquired pre-CGT, ends under the demerger, the same proportion of pre-CGT interests also ends.
+If all the owner's original interests are pre-CGT interests, all the owner's new interests in the demerged entity will be treated as pre-CGT interests. If some of the owner's original interests in the head entity are pre-CGT interests, the number of pre-CGT new interests in the demerged entity is based on the proportion of pre-CGT original interests, having regard to the relative market values of the interests before and after the demerger. If a proportion of the owner's original interests, some of which were acquired pre-CGT, ends under the demerger, the same proportion of pre-CGT interests also ends.
 
-Example 1 Bert owned 100 shares in a company of which 50 were acquired pre-CGT. Under a demerger, 20 of Bert’s 100 shares were cancelled in exchange for new interests. As 20% of his shares were cancelled, 10 of his pre-CGT shares are taken to have been cancelled.
+Example 1 Bert owned 100 shares in a company of which 50 were acquired pre-CGT. Under a demerger, 20 of Bert's 100 shares were cancelled in exchange for new interests. As 20% of his shares were cancelled, 10 of his pre-CGT shares are taken to have been cancelled.
 
-If there is a demerger, but no CGT event happens to the owner’s original interests or the roll-over is not chosen, the cost base and reduced cost base of those interests must be adjusted to reﬂect the change in value caused by the demerger. If such adjustments are made, no other adjustment can be made because of the demerger (ss 125-85 to 125-95). Note that the cost base adjustment rules in s 125-90(2) do not apply to a new interest received in respect of an original interest that was acquired pre-CGT if no CGT event happens to that original interest under a demerger. Also, in these circumstances, a new interest acquired in a demerged entity is not treated as a pre-CGT interest.
+If there is a demerger, but no CGT event happens to the owner's original interests or the roll-over is not chosen, the cost base and reduced cost base of those interests must be adjusted to reﬂect the change in value caused by the demerger. If such adjustments are made, no other adjustment can be made because of the demerger (ss 125-85 to 125-95). Note that the cost base adjustment rules in s 125-90(2) do not apply to a new interest received in respect of an original interest that was acquired pre-CGT if no CGT event happens to that original interest under a demerger. Also, in these circumstances, a new interest acquired in a demerged entity is not treated as a pre-CGT interest.
 
 Where the roll-over is not chosen, s 125-85 does not apply to deem any of the new interests acquired to have a pre-CGT status if the original interests were acquired pre-CGT (ID 2003/875). Despite not choosing the roll-over, however, a taxpayer may be able to adopt an earlier date of acquisition in order to claim the CGT discount (ID 2003/1031).
 
@@ -108,9 +108,9 @@ One consequence is that any gain or loss made by a demerging entity from CGT eve
 
 Example 2 The taxpayer is the ultimate holding company of a large group and proposes to restructure its group via a demerger arrangement.
 
-Under the proposed arrangement, the taxpayer will dispose of its shares in a wholly-owned subsidiary (the “demerged company”) to its shareholders. As a preliminary step to the disposal, certain subsidiaries of the taxpayer will be transferred to the demerged company. The taxpayer will then undertake a notional “cash” distribution to the shareholders equal to the purchase price of the demerged company. This distribution will partly be a return of capital and partly a dividend. The shareholders will agree to purchase the shares in the demerged company and will be obliged to apply the notional “cash” amount to acquire those shares.
+Under the proposed arrangement, the taxpayer will dispose of its shares in a wholly-owned subsidiary (the "demerged company") to its shareholders. As a preliminary step to the disposal, certain subsidiaries of the taxpayer will be transferred to the demerged company. The taxpayer will then undertake a notional "cash" distribution to the shareholders equal to the purchase price of the demerged company. This distribution will partly be a return of capital and partly a dividend. The shareholders will agree to purchase the shares in the demerged company and will be obliged to apply the notional "cash" amount to acquire those shares.
 
-When the taxpayer (a demerging entity) disposes of its ownership interests in the demerged company (the demerged entity) to the taxpayer’s shareholders under the proposed demerger arrangement, any capital gain or capital loss that it would make will be disregarded.
+When the taxpayer (a demerging entity) disposes of its ownership interests in the demerged company (the demerged entity) to the taxpayer's shareholders under the proposed demerger arrangement, any capital gain or capital loss that it would make will be disregarded.
 
 Another consequence is that CGT event J1 (¶11-340) does not happen to the demerged entity or any other member of the demerger group (s 125-160).
 

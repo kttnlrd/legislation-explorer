@@ -16,13 +16,13 @@ compilation_date: 2026-06-06
 
 **Inclusions**
 
-**(2)**  A child for whom payments are made under section 363 of the Oranga Tamariki Act 1989, or a child for whom an orphan’s benefit or an unsupported child’s benefit is paid, is treated as financially dependent on the person.
+**(2)**  A child for whom payments are made under section 363 of the Oranga Tamariki Act 1989, or a child for whom an orphan's benefit or an unsupported child's benefit is paid, is treated as financially dependent on the person.
 
 **Relationship with section MC 8**
 
 **(3)**  Subsection (2) overrides section MC 8 (Continuing requirements).
 
-*Defined in this Act: child, in-work tax credit, orphan’s benefit, principal caregiver, unsupported child’s benefit*
+*Defined in this Act: child, in-work tax credit, orphan's benefit, principal caregiver, unsupported child's benefit*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

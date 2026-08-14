@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (b) a non-resident person who derives income under section CV 16 (Non-resident shippers) for cargo, mail, or passengers shipped outside New Zealand.
 
-**Non-resident shipper’s expenditure on depreciation**
+**Non-resident shipper's expenditure on depreciation**
 
 **(3)**  The non-resident person referred to in subsection (2)﻿(b) has no amount of depreciation loss in relation to that income.
 

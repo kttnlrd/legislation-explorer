@@ -25,7 +25,7 @@ Under the nexus provisions common to all states, wages are taxable in a state if
 
 Wages will also be taxable in a state if they relate to services performed wholly outside all Australian jurisdiction and are paid in that state.
 
-An employee is based in a particular state if his or her principal place of residence is in that jurisdiction. In cases where the employee is a company, the test for where the employee is based is the same as it is for an employer. An employer is based in a state if the employer’s registered business address (for ABN purposes) is in that jurisdiction. If the employer does not have a registered business address, or has a registered business address in more than one Australian jurisdiction, the employer is based in a particular state if the employer’s principal place of business is in that jurisdiction.
+An employee is based in a particular state if his or her principal place of residence is in that jurisdiction. In cases where the employee is a company, the test for where the employee is based is the same as it is for an employer. An employer is based in a state if the employer's registered business address (for ABN purposes) is in that jurisdiction. If the employer does not have a registered business address, or has a registered business address in more than one Australian jurisdiction, the employer is based in a particular state if the employer's principal place of business is in that jurisdiction.
 
 The question of where services were provided is determined by reference to services provided by the employee in the month in which the wages are paid or payable or, if no services were provided in that month, in the most recent prior month in which services were provided.
 

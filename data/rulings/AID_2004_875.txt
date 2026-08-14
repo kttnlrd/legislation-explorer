@@ -3,18 +3,14 @@ ATO ID 2004/875
 ==================================================
 
 Income Tax
-        Consolidation - trust - unit trust
-        FOI status: may be released
-
-
+ Consolidation - trust - unit trust
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Division 6B of the Income Tax Assessment Act 1936 (ITAA 1936) apply to treat a public unit trust as a corporate unit trust when the trust leaves a consolidated group with assets the trust acquired during the period of consolidation from third parties outside the consolidated group?
@@ -28,15 +24,11 @@ Reasons for Decision
 Exit History Rule
 The exit history rule is contained in section 701-40 of the ITAA 1997:
 
-
-
 701-40(1) If the entity ceases to be a *subsidiary member of the group, this section has effect for the entity core purposes, so far as they relate to any thing covered by subsection (2) (an eligible asset etc.) after it becomes that of the entity because subsection 701-1(1) (the single entity rule) ceases to apply to the entity.
 
 Assets, liabilities and businesses covered
 
 701-40(2) This subsection covers the following:
-
-
 
 (a) any asset;
 (b) any liability or other thing that, in accordance with accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability;
@@ -57,8 +49,6 @@ Consequently, any asset etc that leaves a consolidated group with an entity beca
 The effect of the exit history rule on the potential application of Division 6B of the ITAA 1936
 In so far as is relevant to this trust, it would be a corporate unit trust in terms of section 102J of the ITAA 1936 if it is:
 
-
-
 •an eligible unit trust in the year of income;
 •a public unit trust; and
 •a resident unit trust in the year of income.
@@ -68,10 +58,10 @@ A trust is an eligible unit trust, as defined in section 102F of the ITAA 1936, 
 Therefore, the trust would be an eligible unit trust if any of the trust's property became so under a prescribed arrangement in relation to a company and the property was previously that of the company or an associate of the company.
 However, because of the exit history rule, the property of the trust will be treated as though it always belonged to the unit trust. Hence, even if there was prescribed arrangement in terms of section 102E of the ITAA 1936, the conditions set down in section 102F of the ITAA 1936 cannot be met (i.e. the property cannot previously have been property of the company or an associate) and Division 6B of the ITAA 1936 cannot apply.
 Date of decision:
-         28 October 2004
+  28 October 2004
 
 Year of income:
-           Year ended 30 June 2005 Year ended 30 June 2006
+  Year ended 30 June 2005 Year ended 30 June 2006
 
 Legislative References:
 
@@ -81,21 +71,20 @@ Income Tax Assessment Act 1997   section 701-1   section 701-5   sectio
 Keywords
 
 Corporate unit trusts
-          Inherited history rules
-          Leaving entity
-          Single entity rule
-          Trusts
-          Unit trusts
-
+ Inherited history rules
+ Leaving entity
+ Single entity rule
+ Trusts
+ Unit trusts
 
 Siebel/TDMS Reference Number:
-         4172669
+  4172669
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         12 November 2004
+  12 November 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

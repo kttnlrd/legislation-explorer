@@ -3,22 +3,17 @@ ATO ID 2013/51
 ==================================================
 
 Goods and Services Tax
-        GST and decreasing adjustments when a hire purchase agreement is terminated due to default
+ GST and decreasing adjustments when a hire purchase agreement is terminated due to default
 
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in  GSTR 2000/29 Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
+This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2000/29 Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, a supplier under a hire purchase agreement, have an adjustment under section 19-40 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it exercises its right to terminate the hire purchase agreement due to default and the outstanding instalments are no longer payable?
@@ -33,11 +28,8 @@ In a later tax period, there is a genuine dispute between the parties, the hirer
 Under the hire purchase agreement, the future outstanding instalments are no longer payable. To compensate the entity for any loss under the hire purchase agreement the entity is entitled to a termination amount. The termination amount is the discounted future outstanding amounts reduced by the net proceeds of resale or rehiring.
 These events are illustrated in the following diagram. This ATO ID addresses event (3):
 
-
 Reasons for Decision
 Section 19-40 of the GST Act provides that an entity has an adjustment for a supply for which it is liable to pay GST if:
-
-
 
 •in relation to the supply, one or more adjustment events occur during a tax period;
 •GST on the supply was attributable to an earlier tax period, and
@@ -53,7 +45,7 @@ As all the requirements in section 19-40 of the GST Act are met, the entity has 
 Note
 : The termination amount is payable in respect of damages and the payment is not a consideration for a supply and hence is not taken into account in determining the corrected GST amount. See ATO ID 2013/52).
 Date of decision:
-         12 September 2013
+  12 September 2013
 
 Legislative References:
 
@@ -71,33 +63,29 @@ Related ATO Interpretative Decisions
 Keywords
 
 goods and services tax
-          GST hire purchase
-          GST net amounts & adjustments
-          decreasing adjustment
-
+ GST hire purchase
+ GST net amounts & adjustments
+ decreasing adjustment
 
 Siebel/TDMS Reference Number:
-         1-4YUQ288
+  1-4YUQ288
 
 Business Line:
-         Interpretative Assistance, Indirect Tax
+  Interpretative Assistance, Indirect Tax
 
 Date of publication:
-         20 September 2013
+  20 September 2013
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 12 September 2013

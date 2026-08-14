@@ -7,7 +7,7 @@ paragraph: "¶10-035"
 ---
 # Input tax credits for expenses of borrowing ¶10-035
 
-Borrowing is a financial supply and would normally be input taxed. However, as noted at ¶10-032, you can claim input tax credits for borrowing expenses if you satisfy the “de minimis” test. Even if you do not satisfy that test, your borrowing-related expenses may be eligible for input tax credits if the borrowing itself does not relate to making input taxed supplies (s 11-15(5)). This means that if you borrow money and use it to make taxable or GST-free supplies, you may claim input tax credits for the borrowing-related expenses.
+Borrowing is a financial supply and would normally be input taxed. However, as noted at ¶10-032, you can claim input tax credits for borrowing expenses if you satisfy the "de minimis" test. Even if you do not satisfy that test, your borrowing-related expenses may be eligible for input tax credits if the borrowing itself does not relate to making input taxed supplies (s 11-15(5)). This means that if you borrow money and use it to make taxable or GST-free supplies, you may claim input tax credits for the borrowing-related expenses.
 
 *Refs: s 11-15(5))*
 

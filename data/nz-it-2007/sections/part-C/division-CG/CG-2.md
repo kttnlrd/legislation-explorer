@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) a person is allowed a deduction in an income year of an amount that the person is liable to pay; and
 
-- (b) the person’s liability for the amount is later remitted or cancelled, wholly or partly; and
+- (b) the person's liability for the amount is later remitted or cancelled, wholly or partly; and
 
 - (c) the remission or cancellation is not a dividend; and
 
@@ -34,17 +34,17 @@ compilation_date: 2026-06-06
 
 **(4)**  Remission or cancellation occurs, for the purposes of this section, in 1 of the following ways:
 
-- (a) a liability is remitted to the extent to which the person is discharged from it without fully adequate consideration in money or money’s worth:
+- (a) a liability is remitted to the extent to which the person is discharged from it without fully adequate consideration in money or money's worth:
 
 - (ab) a liability is cancelled to the extent to which the person is released from it under the Insolvency Act 2006, except by—
 
   - (i) being discharged from bankruptcy:
 
-  - (ii) being released under Part 5, other than subpart 1, of the Insolvency Act 2006 from liability for each debt that is a provable debt under that Act and is not a debt of a type for which the person’s liability is specifically preserved by that Act:
+  - (ii) being released under Part 5, other than subpart 1, of the Insolvency Act 2006 from liability for each debt that is a provable debt under that Act and is not a debt of a type for which the person's liability is specifically preserved by that Act:
 
 - (b) a liability is cancelled to the extent to which the person is released from it under the Companies Act 1993 or the laws of a country or territory other than New Zealand:
 
-- (c) a liability is cancelled to the extent to which the person is released from it by a deed or agreement of composition with the person’s creditors:
+- (c) a liability is cancelled to the extent to which the person is released from it by a deed or agreement of composition with the person's creditors:
 
 - (d) a liability is cancelled to the extent to which it is irrecoverable or unenforceable through lapse of time.
 

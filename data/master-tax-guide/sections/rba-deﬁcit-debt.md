@@ -7,7 +7,7 @@ paragraph: "¶24-340"
 ---
 # RBA deﬁcit debt ¶24-340
 
-An “RBA deﬁcit debt” is a balance in favour of the Commissioner based on primary tax debts that remain unpaid after their due date and payments and credits that have been allocated to the RBA (TAA s 8AAZA).
+An "RBA deﬁcit debt" is a balance in favour of the Commissioner based on primary tax debts that remain unpaid after their due date and payments and credits that have been allocated to the RBA (TAA s 8AAZA).
 
 It is a debt due to the Commonwealth and may be recovered by the Commissioner under the collection and recovery regime (¶25-500). Outstanding liabilities may be recovered either as an RBA deﬁcit debt or as individual debts. If there are several tax debtors (eg each partner in a partnership), each debtor is liable for the RBA deﬁcit debt in the same way they are liable for the individual debts allocated to that RBA (TAA s 8AAZH).
 

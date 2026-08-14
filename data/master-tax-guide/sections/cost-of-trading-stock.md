@@ -7,7 +7,7 @@ paragraph: "¶9-190"
 ---
 # Cost of trading stock ¶9-190
 
-“Cost” refers to the full absorption cost of an item of trading stock (Philip Morris 79 ATC 4352; [1979] VicSC 321). This is not just the invoice or purchase price but also appropriate costs associated with bringing the stock into its existing condition and location. A number of rulings applicable to speciﬁc industries have been issued.
+"Cost" refers to the full absorption cost of an item of trading stock (Philip Morris 79 ATC 4352; [1979] VicSC 321). This is not just the invoice or purchase price but also appropriate costs associated with bringing the stock into its existing condition and location. A number of rulings applicable to speciﬁc industries have been issued.
 
 Retail and wholesale industries.
 
@@ -37,6 +37,6 @@ Mining industry.
 
 See TR 98/2.
 
-Special valuation provisions apply where trading stock is purchased at an excessive price and the parties are not acting at arm’s length (¶9-210).
+Special valuation provisions apply where trading stock is purchased at an excessive price and the parties are not acting at arm's length (¶9-210).
 
 The tax consequences of a company issuing shares to acquire trading stock are discussed in TR 2008/5 (¶3-260).

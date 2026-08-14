@@ -4,34 +4,32 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 11
-  • Div 129
-  • Div 130
-  • Div 131
-  • Div 138
-  • Div 149
-  • Div 15
-  • Div 151
-  • Div 189
-  • Div 28
-  • Div 3
-  • Div 358
-  • Div 38
-  • Div 40
-  • Div 48
-  • Div 69
-  • Division 129
-  • Division 130
-  • Division 131
-  • Division 138
+ • Div 11
+ • Div 129
+ • Div 130
+ • Div 131
+ • Div 138
+ • Div 149
+ • Div 15
+ • Div 151
+ • Div 189
+ • Div 28
+ • Div 3
+ • Div 358
+ • Div 38
+ • Div 40
+ • Div 48
+ • Div 69
+ • Division 129
+ • Division 130
+ • Division 131
+ • Division 138
 
 Cases Referenced:
-  • Mercantile Pty Limited v. Commissioner 
-  • Tooheys Ltd v. Commissioner 
+ • Mercantile Pty Limited v. Commissioner 
+ • Tooheys Ltd v. Commissioner 
 
 Topics: GST, FBT, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -46,7 +44,7 @@ Back to browse
 155 related documents
 Goods and Services Tax Ruling
 GSTR 2006/4
-Goods and services tax:  determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose
+Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -117,7 +115,7 @@ and you also make
 taxable supplies
 or
 GST-free supplies
-. Apportionment of input tax credits relating to financial supplies exceeding the financial acquisitions threshold is dealt with in GSTR 2006/3 Goods and services tax:  determining the extent of creditable purpose for providers of financial supplies.
+. Apportionment of input tax credits relating to financial supplies exceeding the financial acquisitions threshold is dealt with in GSTR 2006/3 Goods and services tax: determining the extent of creditable purpose for providers of financial supplies.
 11. Certain terms used in this Ruling are defined or explained in the Frequently used terms section of the Ruling. These terms, when first mentioned elsewhere in the body of this Ruling, will appear in bold type.
 Date of effect
 12. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
@@ -196,7 +194,7 @@ be appropriately documented in your individual circumstances (see paragraphs 98 
 [19]
 You should keep these records in a manner that would enable your entitlement to an input tax credit under the GST Act to be readily ascertained (see paragraphs 130 and 131 of this Ruling).
 Explanation (this forms part of the Ruling)
-Divisions 11 and 15:  input tax credits for acquisitions and importations
+Divisions 11 and 15: input tax credits for acquisitions and importations
 39. You are entitled to input tax credits in respect of any 'creditable acquisition' or 'creditable importation' that you make.
 [20]
 One of the requirements for an acquisition or importation to be creditable, is that it be made solely or partly for a 'creditable purpose'.
@@ -231,11 +229,11 @@ Calculating input tax credits
 44. Formulae are specified in the GST Act for the calculation of input tax credits for acquisitions and importations that are partly creditable. A different formula is specified for importations, as the extent to which consideration is provided is not relevant for importations. The formulae are:
 For acquisitions:
 [30]
-Full input tax credit  ×  Extent of creditable purpose  ×  Extent of consideration
+Full input tax credit × Extent of creditable purpose × Extent of consideration
 [31]
 For importations:
 [32]
-Full input tax credit  ×  Extent of creditable purpose
+Full input tax credit × Extent of creditable purpose
 45. If Division 131 does not apply to you, then for the purpose of claiming input tax credits, you need to estimate the extent to which the acquisition or importation is for a creditable purpose. You also need to do this if Division 131 does apply to you, in limited circumstances where your acquisition or importation is partly creditable only because it was made partly in relation to making supplies that would be input taxed.
 [33]
 This means that at the time of acquisition or importation, it is your
@@ -455,11 +453,11 @@ However, even where the GST exclusive value of the acquisition or importation is
 [61]
 92. The formula for calculating the adjustment requires you to calculate your actual application for a creditable purpose as a percentage of total application. If this is the first adjustment you are making for the acquisition or importation, you calculate your change in extent of creditable purpose by comparing your actual application since acquisition or importation with your planned use at the time you claimed the input tax credit. However, if you have previously made an adjustment for the changed use of the acquisition or importation, you calculate the current period change by comparing the actual application over the entire period of use with the former application used when making that previous adjustment. You calculate the adjustment as follows:
 [62]
-Full input tax credit  ×  Change in extent of creditable purpose
+Full input tax credit × Change in extent of creditable purpose
 93. If the actual extent to which the acquisition or importation has been applied for a creditable purpose is greater than was planned, you will have a decreasing adjustment. Conversely, if the actual extent is less than was planned, you will have an increasing adjustment.
 Example 8 - change in extent of creditable purpose
 94.
-John acquired video equipment which he planned to use 60% in his enterprise for a creditable purpose. John was entitled to claim 60% of the full input tax credit. He subsequently finds that from the time of acquisition to the end of his first adjustment period, his actual use of the equipment for a creditable purpose is 75%. Hence the change in extent of creditable purpose is 15%. If the full input tax credit was $300, John will have a decreasing adjustment of $300  ×  15% equalling $45. When John makes this adjustment, it will decrease the net amount on his BAS in that adjustment period
+John acquired video equipment which he planned to use 60% in his enterprise for a creditable purpose. John was entitled to claim 60% of the full input tax credit. He subsequently finds that from the time of acquisition to the end of his first adjustment period, his actual use of the equipment for a creditable purpose is 75%. Hence the change in extent of creditable purpose is 15%. If the full input tax credit was $300, John will have a decreasing adjustment of $300 × 15% equalling $45. When John makes this adjustment, it will decrease the net amount on his BAS in that adjustment period
 .
 95. For the purpose of making adjustments under Division 129, the actual application is measured from the time of acquisition until the end of each adjustment period. This means that the calculation of creditable purpose is a cumulative one, starting at the point of acquisition and ending at the end of the relevant adjustment periods.
 [63]
@@ -613,33 +611,33 @@ Insurance (building only) $
 330
 133. Toby must apportion the input tax credits on those expenses that relate to both the business and the flat (as he cannot claim input tax credits for acquisitions of a private or domestic nature).
 134. Electricity - as this is a variable expense, floor area would not be an appropriate means by which to apportion as it bears no relationship to the amount of energy actually used. Over a typical month Toby uses a diary to record the number of hours of electricity usage in the course of operating his business. On the basis of this record, he makes a reasonable estimate that 10% of electricity costs are attributable to his business activities and calculates his input tax credits as follows:
-$450  ×  1/11  ×  10% = $4.09
+$450 × 1/11 × 10% = $4.09
 135. Telephone - Toby uses the same telephone for business and private purposes. As this is also a variable expense, floor area would not be an appropriate basis for apportioning the input tax credit on the telephone expense. For one month Toby keeps a note book by the phone where he records incoming and outgoing calls. This record indicates that 50% of all calls are business related. Toby can therefore apportion the input tax credit on the telephone expense as follows:
-$580  ×  1/11  ×  50% = $26.36
+$580 × 1/11 × 50% = $26.36
 136. Building insurance - this is a fixed occupation expense. A floor area basis would be appropriate to apportion this expense, as it reasonably reflects the portion of the insurance cost relating to the business. The input tax credit claim is calculated as follows:
-$330  ×  1/11  ×  40/100 = $12.00
-Example 10 - computer expenses:  annual apportionment election
+$330 × 1/11 × 40/100 = $12.00
+Example 10 - computer expenses: annual apportionment election
 137. Kent operates a business as a freelance journalist from his home. He lodges his business activity statement on a quarterly basis. Kent is eligible to make an annual apportionment election under Division 131 and does so. In March 2005, Kent purchases a computer system for $2,200 to use in his business. Kent also plans to use his computer partly for private purposes, but will not be using it in relation to making supplies that would be input taxed. As Division 131 applies to him, Kent claims a full input tax credit ($200) for the acquisition in respect of the tax period ending 31 March 2005.
 138. Kent later determines that from acquisition to 30 June 2005, he used his computer system 60% for business purposes. This determination is based on the findings his tax agent has made regarding Kent's private usage of business assets when analysing Kent's records of actual usage for purposes of preparing his 2005 income tax return. Kent believes that, in future, he will continue to use the computer in much the same manner. Accordingly, he concludes that the extent to which he acquired the computer for a creditable purpose was 60%. Kent needs to make an increasing adjustment, in line with section 131-55 of $80 (100% - 60% = 40% of $200) to properly reflect the extent to which the acquisition was for a creditable purpose.
 139. In accordance with his lodgement program, Kent's tax agent lodges Kent's 2005 income tax return by 28 February 2006. As this date falls within the tax period ending 31 March 2006, Kent chooses to attribute the Division 131 increasing adjustment to this tax period. This is the latest tax period available to Kent for this purpose,
 [72]
 though he could have chosen to attribute it to an earlier one.
 140. Kent subsequently determines that his actual use of the computer for a creditable purpose, since the end of his 2005 year of income, has increased. As a result, Kent will need to make a decreasing adjustment under Division 129 in his first adjustment period, which will be the adjustment period ending 30 June 2006. This adjustment will decrease the net amount on Kent's BAS in that adjustment period.
-141. Kent determines that from 1 March 2005 to 30 June 2006, his use of the computer in carrying on his enterprise is 75% of its total use (the 75% is its 'actual application' under section 129-40). This is greater than the 60% (which is its 'intended or former application' under section 129-40). The amount of this decreasing adjustment, calculated in accordance with section 129-75, will be $30 ($200  x  [75% - 60%]).
+141. Kent determines that from 1 March 2005 to 30 June 2006, his use of the computer in carrying on his enterprise is 75% of its total use (the 75% is its 'actual application' under section 129-40). This is greater than the 60% (which is its 'intended or former application' under section 129-40). The amount of this decreasing adjustment, calculated in accordance with section 129-75, will be $30 ($200 x [75% - 60%]).
 Example 11 - input based indirect method
 142. XYZ Pty Ltd (XYZ) owns a number of commercial premises. XYZ leases the buildings to various businesses (taxable supplies). As part of its business, XYZ also owns a number of residential premises which are rented to private individuals (input taxed supplies). Some of the costs of the company's business are overheads which cannot be directly allocated to making either taxable supplies or input taxed supplies. XYZ can directly allocate its other costs to making either taxable supplies or input taxed supplies. XYZ could use an input based method as follows:
 INPUTS
 Acquisitions - making taxable supplies
-A    30,000
+A 30,000
 Acquisitions - making input taxed supplies
-B    20,000
+B 20,000
 Acquisitions - overheads
-C    10,000
+C 10,000
 Extent of creditable purpose
-=  A ÷ (A + B)
-=  30,000 ÷ (30,000 + 20,000)
+= A ÷ (A + B)
+= 30,000 ÷ (30,000 + 20,000)
 Extent of creditable purpose (expressed as a percentage)
-=  60%
+= 60%
 XYZ applies the extent of creditable purpose of 60% to the overheads of $10,000 and claims input tax credits on $6,000 of overheads as well as on the acquisitions for making taxable supplies of $30,000.
 Example 12 - output based indirect method
 143. Roger makes input taxed supplies and taxable supplies from his enterprise. Some of his costs are overheads which he cannot directly allocate to making either taxable supplies or input taxed supplies. Roger could use an output based method as follows:
@@ -648,16 +646,16 @@ Overheads
 1,000
 OUTPUTS
 Taxable supplies
-D    2,000
+D 2,000
 Input taxed supplies
-E    3,000
+E 3,000
 TOTAL
-F    5,000
+F 5,000
 Extent of creditable purpose
-=  D ÷ F
-=  2,000 ÷ 5,000
+= D ÷ F
+= 2,000 ÷ 5,000
 Extent of creditable purpose (expressed as a percentage)
-=  40%
+= 40%
 Roger applies the extent of creditable purpose of 40% to the overheads of $1,000 and claims input tax credits on $400 of overheads as well as on any creditable acquisitions directly used in making taxable supplies.
 Example 13 - comparing input and output based indirect methods
 144. Daniel operates a building business which makes supplies of building services (taxable supplies). The business also owns a number of residential rental properties (input taxed supplies).
@@ -684,20 +682,20 @@ Net Profit
 49,000
 147. Daniel is able to allocate input tax credits on direct costs according to his record of their usage to make taxable or input tax supplies. However, as there is no direct basis of allocating the input tax credits on the overhead expenses, he needs to adopt some indirect basis. The possibilities are:
 (i)
-an input based method:  based on the costs of inputs solely used for making taxable and input taxed supplies (called direct costs); or
+an input based method: based on the costs of inputs solely used for making taxable and input taxed supplies (called direct costs); or
 (ii)
-an output based method:  based on the value of the taxable supplies and input taxed supplies.
-148. Input based method:  this method assumes that the overheads are consumed (for a creditable purpose) in the same proportion as the direct costs of making taxable supplies bears to the total direct costs. Therefore, Daniel should include only direct costs in the calculation. This calculation requires that the extent of creditable purpose and the extent of non-creditable purpose, as percentages, should add up to 100%.
+an output based method: based on the value of the taxable supplies and input taxed supplies.
+148. Input based method: this method assumes that the overheads are consumed (for a creditable purpose) in the same proportion as the direct costs of making taxable supplies bears to the total direct costs. Therefore, Daniel should include only direct costs in the calculation. This calculation requires that the extent of creditable purpose and the extent of non-creditable purpose, as percentages, should add up to 100%.
 149. Before Daniel uses this method, the amount of the direct costs already allocated should be sufficient so as to give some reliability to the calculation.
 150. If Daniel uses all direct costs, he works out the extent of creditable purpose for overhead expenses as follows:
 direct cost of making taxable supplies ÷ total direct costs
-=  35,000 ÷ 50,000
-=  70%
-151. Output based method:  this method gives a reasonably reliable result when overheads are used (for a creditable purpose) in the same proportion that the revenue derived from taxable supplies bears to total revenue. This calculation requires that the extent of creditable purpose and the extent of non-creditable purpose, as percentages, should add up to 100%.
+= 35,000 ÷ 50,000
+= 70%
+151. Output based method: this method gives a reasonably reliable result when overheads are used (for a creditable purpose) in the same proportion that the revenue derived from taxable supplies bears to total revenue. This calculation requires that the extent of creditable purpose and the extent of non-creditable purpose, as percentages, should add up to 100%.
 152. Applying the output based method using revenue gives the following percentage of creditable purpose:
 revenue from taxable supplies ÷ total revenue
-=  70,000 ÷ 110,000
-=  63.64%
+= 70,000 ÷ 110,000
+= 63.64%
 153. As Daniel can directly allocate other costs to making either taxable or input taxed supplies, he can use an input based method to allocate the input tax credits on the overhead expenses. Daniel applies the extent of creditable purpose of 70% to the overheads and claims input tax credits on $7,700 of overheads as well as on the acquisitions for making taxable supplies of $35,000.
 Frequently used terms
 Adjustments
@@ -823,7 +821,7 @@ Ruling
 25
 Explanation (this forms part of the Ruling)
 39
-Divisions 11 and 15:  input tax credits for acquisitions and importations
+Divisions 11 and 15: input tax credits for acquisitions and importations
 39
 Meaning of creditable purpose
 40
@@ -904,7 +902,7 @@ Further Examples
 132
 Example 9 - claiming input tax credits on home office type expenses
 132
-Example 10 - computer expenses:  annual apportionment election
+Example 10 - computer expenses: annual apportionment election
 137
 Example 11 - input based indirect method
 142
@@ -991,7 +989,7 @@ Refer to paragraphs 51 and 52 of this Ruling for further discussion of different
 [18]
 Refer to paragraph 37 of Hill J's judgement in
 HP Mercantile Pty Limited v. Commissioner of Taxation
-[2005] FCAFC 126: It follows, perhaps more clearly, as well from the requirement of apportionment to be found in the words 'to the extent that' which indicate that an acquisition may relate to the making of supplies that are input taxed as well as supplies that are taxable, as would be the case with undifferentiated general overhead outgoings of an entity making both input taxed and taxable supplies:  cf
+[2005] FCAFC 126: It follows, perhaps more clearly, as well from the requirement of apportionment to be found in the words 'to the extent that' which indicate that an acquisition may relate to the making of supplies that are input taxed as well as supplies that are taxable, as would be the case with undifferentiated general overhead outgoings of an entity making both input taxed and taxable supplies: cf
 Ronpibon Tin NL v. FCT
 (1949) 78 CLR 47 at 55-56; 23 ALJ 139 at 141-142; 8 ATD 431 at 435; [1949] ALR 785 at 788-789.
 [19]
@@ -1015,7 +1013,7 @@ Paragraph 11-30(1)(b).
 [28]
 Subsections 11-30(3) and 15-25(3).
 [29]
-Refer to Goods and Services Tax Ruling GSTR 2003/9 Goods and services tax:  financial acquisitions threshold.
+Refer to Goods and Services Tax Ruling GSTR 2003/9 Goods and services tax: financial acquisitions threshold.
 [30]
 Subsection 11-30(3).
 [31]
@@ -1031,11 +1029,11 @@ Subsections 11-30(3) and 15-25(3).
 [36]
 You also need to make an apportionment where the extent of consideration you provide or are liable to provide for an acquisition is less than 100%.
 [37]
-The Commissioner's view on what is an 'enterprise' for purposes of the GST Act is explained in Goods and Services Tax Determination GSTD 2000/8 Goods and services tax:  what is an 'enterprise' for the purposes of
+The Commissioner's view on what is an 'enterprise' for purposes of the GST Act is explained in Goods and Services Tax Determination GSTD 2000/8 Goods and services tax: what is an 'enterprise' for the purposes of
 A New Tax System (Goods and Services Tax) Act 1999
 ? Does MT 2000/1 have equal application to the meaning of 'enterprise' for GST purposes? GSTD 2000/8 states that 'enterprise' is defined in section 9-20 of the GST Act in substantially the same way as in
 A New Tax System (Australian Business Number) Act 1999
-(the ABN Act). The Commissioner's view on the meaning of 'enterprise', for the purposes of the ABN Act is explained in Miscellaneous Taxation Ruling MT 2000/1 The New Tax System:  the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number ('ABN').
+(the ABN Act). The Commissioner's view on the meaning of 'enterprise', for the purposes of the ABN Act is explained in Miscellaneous Taxation Ruling MT 2000/1 The New Tax System: the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number ('ABN').
 [38]
 Subsection 11-15(1).
 [39]
@@ -1063,7 +1061,7 @@ John v. FC of T
 [47]
 As well as acquisitions and importations that relate to making supplies that would be input taxed.
 [48]
-Refer to Goods and Services Tax Ruling GSTR 2001/3 Goods and services tax:  GST and how it applies to supplies of fringe benefits.
+Refer to Goods and Services Tax Ruling GSTR 2001/3 Goods and services tax: GST and how it applies to supplies of fringe benefits.
 [49]
 Under section 69-10 the amount of input tax credit is restricted where the GST inclusive market value of the car exceeds the car limit.
 [50]
@@ -1085,7 +1083,7 @@ If Division 131 applies to you, after making an annual increasing adjustment, yo
 [55]
 The meaning of apply is set out in section 129-55.
 [56]
-Excluding financial supplies made through an enterprise or part of an enterprise carried on outside Australia:  subsection 129-50(3).
+Excluding financial supplies made through an enterprise or part of an enterprise carried on outside Australia: subsection 129-50(3).
 [57]
 Subsections 129-50(1) and (2).
 [58]
@@ -1149,8 +1147,8 @@ Section 17-5.
 Previously issued in draft form as GSTR 2005/D7
 References
 ATO references:
-NO  2004/9408
-ISSN:  1443-5160
+NO 2004/9408
+ISSN: 1443-5160
 Related Rulings/Determinations:
 MT 2006/1
 GSTB 2006/1
@@ -1165,111 +1163,111 @@ Business Line:
 ISP - GST
 Legislative References:
 ANTS(GST)A 1999 7-15
-ANTS(GST)A 1999  9-5
-ANTS(GST)A 1999  9-20
-ANTS(GST)A 1999  9-20(1)(f)
-ANTS(GST)A 1999  9-30(1)
-ANTS(GST)A 1999  9-30(2)
-ANTS(GST)A 1999  Div 11
-ANTS(GST)A 1999  11-5
-ANTS(GST)A 1999  11-5(a)
-ANTS(GST)A 1999  11-15
-ANTS(GST)A 1999  11-15(1)
-ANTS(GST)A 1999  11-15(2)
-ANTS(GST)A 1999  11-15(2)(b)
-ANTS(GST)A 1999  11-15(3)
-ANTS(GST)A 1999  11-15(4)
-ANTS(GST)A 1999  11-15(5)
-ANTS(GST)A 1999  11-20
-ANTS(GST)A 1999  11-25
-ANTS(GST)A 1999  11-30(1)
-ANTS(GST)A 1999  11-30(1)(b)
-ANTS(GST)A 1999  11-30(3)
-ANTS(GST)A 1999  11-30(5)
-ANTS(GST)A 1999  Div 15
-ANTS(GST)A 1999  15-5
-ANTS(GST)A 1999  15-5(a)
-ANTS(GST)A 1999  15-10
-ANTS(GST)A 1999  15-10(2)(b)
-ANTS(GST)A 1999  15-10(3)
-ANTS(GST)A 1999  15-10(4)
-ANTS(GST)A 1999  15-10(5)
-ANTS(GST)A 1999  15-15
-ANTS(GST)A 1999  15-20
-ANTS(GST)A 1999  15-25(1)
-ANTS(GST)A 1999  15-25(3)
-ANTS(GST)A 1999  15-25(4)
-ANTS(GST)A 1999  17-5
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-20
+ANTS(GST)A 1999 9-20(1)(f)
+ANTS(GST)A 1999 9-30(1)
+ANTS(GST)A 1999 9-30(2)
+ANTS(GST)A 1999 Div 11
+ANTS(GST)A 1999 11-5
+ANTS(GST)A 1999 11-5(a)
+ANTS(GST)A 1999 11-15
+ANTS(GST)A 1999 11-15(1)
+ANTS(GST)A 1999 11-15(2)
+ANTS(GST)A 1999 11-15(2)(b)
+ANTS(GST)A 1999 11-15(3)
+ANTS(GST)A 1999 11-15(4)
+ANTS(GST)A 1999 11-15(5)
+ANTS(GST)A 1999 11-20
+ANTS(GST)A 1999 11-25
+ANTS(GST)A 1999 11-30(1)
+ANTS(GST)A 1999 11-30(1)(b)
+ANTS(GST)A 1999 11-30(3)
+ANTS(GST)A 1999 11-30(5)
+ANTS(GST)A 1999 Div 15
+ANTS(GST)A 1999 15-5
+ANTS(GST)A 1999 15-5(a)
+ANTS(GST)A 1999 15-10
+ANTS(GST)A 1999 15-10(2)(b)
+ANTS(GST)A 1999 15-10(3)
+ANTS(GST)A 1999 15-10(4)
+ANTS(GST)A 1999 15-10(5)
+ANTS(GST)A 1999 15-15
+ANTS(GST)A 1999 15-20
+ANTS(GST)A 1999 15-25(1)
+ANTS(GST)A 1999 15-25(3)
+ANTS(GST)A 1999 15-25(4)
+ANTS(GST)A 1999 17-5
 ANTS(GST)A 1999 33-3
 ANTS(GST)A 1999 33-5
 ANTS(GST)A 1999 35-5
-ANTS(GST)A 1999  27-40
-ANTS(GST)A 1999  Div 38
+ANTS(GST)A 1999 27-40
+ANTS(GST)A 1999 Div 38
 ANTS(GST)A 1999 38-250
-ANTS(GST)A 1999  Div 40
-ANTS(GST)A 1999  40-5
-ANTS(GST)A 1999  40-5(2)
-ANTS(GST)A 1999  40-35
-ANTS(GST)A 1999  40-65
+ANTS(GST)A 1999 Div 40
+ANTS(GST)A 1999 40-5
+ANTS(GST)A 1999 40-5(2)
+ANTS(GST)A 1999 40-35
+ANTS(GST)A 1999 40-65
 ANTS(GST)A 1999 40-70
-ANTS(GST)A 1999  40-100
-ANTS(GST)A 1999  40-130
-ANTS(GST)A 1999  Div 48
-ANTS(GST)A 1999  Div 69
-ANTS(GST)A 1999  69-10
-ANTS(GST)A 1999  75-20
-ANTS(GST)A 1999  78-50
-ANTS(GST)A 1999  84-5
-ANTS(GST)A 1999  105-5
-ANTS(GST)A 1999  Div 129
-ANTS(GST)A 1999  129-10(1)
-ANTS(GST)A 1999  129-10(2)
-ANTS(GST)A 1999  129-15
-ANTS(GST)A 1999  129-20
-ANTS(GST)A 1999  129-20(2)
-ANTS(GST)A 1999  129-20(3)
-ANTS(GST)A 1999  129-25
-ANTS(GST)A 1999  129-40
-ANTS(GST)A 1999  129-40(1)
-ANTS(GST)A 1999  129-50
-ANTS(GST)A 1999  129-50(1)
-ANTS(GST)A 1999  129-50(2)
-ANTS(GST)A 1999  129-50(2)(b)
-ANTS(GST)A 1999  129-50(3)
-ANTS(GST)A 1999  129-55
-ANTS(GST)A 1999  129-70
-ANTS(GST)A 1999  129-75
-ANTS(GST)A 1999  129-90
-ANTS(GST)A 1999  Div 130
-ANTS(GST)A 1999  Div 131
-ANTS(GST)A 1999  131-5
-ANTS(GST)A 1999  131-40
-ANTS(GST)A 1999  131-45
-ANTS(GST)A 1999  131-55
-ANTS(GST)A 1999  131-55(2)
-ANTS(GST)A 1999  Div 138
-ANTS(GST)A 1999  138-1
-ANTS(GST)A 1999  Div 149
-ANTS(GST)A 1999  Div 151
-ANTS(GST)A 1999  Div 189
-ANTS(GST)A 1999  189-5(2)
-ANTS(GST)A 1999  189-10(2)
-ANTS(GST)A 1999  189-15
-ANTS(GST)A 1999  195-1
-ANTS(GST)R 2019  40-5.09
-ANTS(GST)R 2019  40-5.09(2)
-ANTS(GST)R 2019  40-5.09(3)
+ANTS(GST)A 1999 40-100
+ANTS(GST)A 1999 40-130
+ANTS(GST)A 1999 Div 48
+ANTS(GST)A 1999 Div 69
+ANTS(GST)A 1999 69-10
+ANTS(GST)A 1999 75-20
+ANTS(GST)A 1999 78-50
+ANTS(GST)A 1999 84-5
+ANTS(GST)A 1999 105-5
+ANTS(GST)A 1999 Div 129
+ANTS(GST)A 1999 129-10(1)
+ANTS(GST)A 1999 129-10(2)
+ANTS(GST)A 1999 129-15
+ANTS(GST)A 1999 129-20
+ANTS(GST)A 1999 129-20(2)
+ANTS(GST)A 1999 129-20(3)
+ANTS(GST)A 1999 129-25
+ANTS(GST)A 1999 129-40
+ANTS(GST)A 1999 129-40(1)
+ANTS(GST)A 1999 129-50
+ANTS(GST)A 1999 129-50(1)
+ANTS(GST)A 1999 129-50(2)
+ANTS(GST)A 1999 129-50(2)(b)
+ANTS(GST)A 1999 129-50(3)
+ANTS(GST)A 1999 129-55
+ANTS(GST)A 1999 129-70
+ANTS(GST)A 1999 129-75
+ANTS(GST)A 1999 129-90
+ANTS(GST)A 1999 Div 130
+ANTS(GST)A 1999 Div 131
+ANTS(GST)A 1999 131-5
+ANTS(GST)A 1999 131-40
+ANTS(GST)A 1999 131-45
+ANTS(GST)A 1999 131-55
+ANTS(GST)A 1999 131-55(2)
+ANTS(GST)A 1999 Div 138
+ANTS(GST)A 1999 138-1
+ANTS(GST)A 1999 Div 149
+ANTS(GST)A 1999 Div 151
+ANTS(GST)A 1999 Div 189
+ANTS(GST)A 1999 189-5(2)
+ANTS(GST)A 1999 189-10(2)
+ANTS(GST)A 1999 189-15
+ANTS(GST)A 1999 195-1
+ANTS(GST)R 2019 40-5.09
+ANTS(GST)R 2019 40-5.09(2)
+ANTS(GST)R 2019 40-5.09(3)
 ITAA 1936 former 51(1)
-ITAA 1997  8-1
-ITAA 1997  25-5
-ITAA 1997  Div 28
-ITAA 1997  328-110
-TAA 1953  Pt IIB Div 3
+ITAA 1997 8-1
+ITAA 1997 25-5
+ITAA 1997 Div 28
+ITAA 1997 328-110
+TAA 1953 Pt IIB Div 3
 TAA 1953 Sch 1 Subdiv 155-B
 TAA 1953 Sch 1 155-15
 TAA 1953 Sch 1 155-35(3)
 TAA 1953 Sch 1 155-35(4)
-TAA 1953  Sch 1 Div 358
+TAA 1953 Sch 1 Div 358
 TAA 1953 Sch 1 Subdiv 382-A
 ANTS(ABN)A 1999
 Tax Laws Amendment (Small Business Measures) Act 2004

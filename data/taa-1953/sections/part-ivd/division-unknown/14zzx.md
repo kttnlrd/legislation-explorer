@@ -20,7 +20,7 @@ source_pdf: "vol01.pdf"
 **(1)**  If a person makes a disclosure that qualifies for protection under this Part:
 
 > <a id="s14ZZX-1-a"></a>
-> **(a)**  the person is not subject to any civil, criminal or administrative liability (including disciplinary action) for making the disclosure; and Authorised Version C2026C00170 registered 28/04/2026
+> **(a)**  the person is not subject to any civil, criminal or administrative liability (including disciplinary action) for making the disclosure; and
 
 > <a id="s14ZZX-1-b"></a>
 > **(b)**  no contractual or other remedy may be enforced, and no contractual or other right may be exercised, against the person on the basis of the disclosure; and

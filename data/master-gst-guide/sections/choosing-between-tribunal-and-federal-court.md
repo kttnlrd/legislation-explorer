@@ -9,7 +9,7 @@ paragraph: "¶18-640"
 
 There are several matters that you should take into consideration when deciding whether to apply to the Tribunal for review or to appeal to the Federal Court against an objection decision.
 
-Type of case If the dispute concerns the manner in which the Commissioner has exercised a discretion, the Tribunal would usually be the appropriate forum. Unlike a court, the Tribunal has the power to review the Commissioner’s decision and substitute its own. If a contentious issue of law is likely to arise, a court hearing may be advisable.
+Type of case If the dispute concerns the manner in which the Commissioner has exercised a discretion, the Tribunal would usually be the appropriate forum. Unlike a court, the Tribunal has the power to review the Commissioner's decision and substitute its own. If a contentious issue of law is likely to arise, a court hearing may be advisable.
 
 Formality The Tribunal is not bound by the rules of evidence and its hearings are more informal than a court hearing.
 

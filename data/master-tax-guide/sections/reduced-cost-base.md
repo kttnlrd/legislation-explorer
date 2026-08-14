@@ -13,7 +13,7 @@ Elements of reduced cost base The reduced cost base of a CGT asset has 5 element
 
 All of the elements of the reduced cost base of a CGT asset are the same as those for the cost base (¶11-550), except the third one. The third element is instead any amount that is assessable because of a balancing adjustment (eg ¶17-630) for the asset, or would be assessable if certain balancing adjustment relief (eg ¶17-710) was not available.
 
-Amounts not included in the reduced cost base Expenditure is not included in any element of the reduced cost base if it is deductible or if a non-assessable recoupment is receivable in respect of the expenditure (s 110-55(4), (6)). A taxpayer who has omitted to claim a deduction because the amendment period for the deduction has expired can, provided the amendment period for the tax consequences of the CGT event has not expired, ensure that this amount does not reduce the reduced cost base of the asset (TD 2005/47). In certain circumstances where an amount cannot be deducted under Div 43 (¶20-470) it is not required to reduce the asset’s reduced cost base (PS LA 2006/1 (GA)).
+Amounts not included in the reduced cost base Expenditure is not included in any element of the reduced cost base if it is deductible or if a non-assessable recoupment is receivable in respect of the expenditure (s 110-55(4), (6)). A taxpayer who has omitted to claim a deduction because the amendment period for the deduction has expired can, provided the amendment period for the tax consequences of the CGT event has not expired, ensure that this amount does not reduce the reduced cost base of the asset (TD 2005/47). In certain circumstances where an amount cannot be deducted under Div 43 (¶20-470) it is not required to reduce the asset's reduced cost base (PS LA 2006/1 (GA)).
 
 Compensation received for permanent damage to an asset is treated as a non-assessable recoupment (TR 95/35). Similar rules apply where expenditure is deductible, or a recoupment is not assessable, to a partnership in which the taxpayer is a partner (s 110-60). Where a taxpayer purchases an asset using a limited recourse loan and the taxpayer defaults on the loan resulting in the asset being transferred to the lender in full satisfaction of the loan at a time when its market value is less than the balance of the outstanding loan, the shortfall is a recoupment and accordingly excluded from the reduced cost base of the asset (ID 2013/64).
 
@@ -44,7 +44,7 @@ Dividend adjustment If the CGT asset is a share in a company, its reduced cost b
 *Refs: s 110-55), s 110-55(4), s 110-60), s 110-55(5)), s 26-54, s 26-5, s
 26-47, s 26-22, s 110-55(10)), s 110-55(7))*
 
-amount of tax oﬀset attributable amount × dividend amount × corporate tax rate The High Court has held that unrealised pre-merger proﬁts of a company’s subsidiary should be taken into account when calculating the reduced cost base of the company’s shares in its subsidiary. This meant that the capital loss attributable to the shares, which was transferred by the company to the subsidiary, had to be reduced (Sun Alliance 2005 ATC 4955; [2005] HCA 70).
+amount of tax oﬀset attributable amount × dividend amount × corporate tax rate The High Court has held that unrealised pre-merger proﬁts of a company's subsidiary should be taken into account when calculating the reduced cost base of the company's shares in its subsidiary. This meant that the capital loss attributable to the shares, which was transferred by the company to the subsidiary, had to be reduced (Sun Alliance 2005 ATC 4955; [2005] HCA 70).
 
 General rules modified for many CGT assets The general reduced cost base rules are modiﬁed for most CGT assets (¶11-570). Other more speciﬁc rules also apply in many cases (¶11-580). Modiﬁcations to the general reduced cost base rules are also required where an asset is aﬀected by a roll-over.
 
@@ -52,17 +52,17 @@ General modiﬁcations to cost base and reduced cost base The general rules for 
 
 If a cost base modiﬁcation replaces an element of the cost base of a CGT asset with a diﬀerent amount, the CGT provisions apply as if that other amount was paid.
 
-Market value substitution rule The ﬁrst element of the cost base and reduced cost base of a CGT asset acquired from another entity is its “market value” (¶17-050) at the time of acquisition if: (i) the taxpayer did not incur expenditure to acquire it (except where the acquisition of the asset resulted from CGT event D1 happening or from another entity doing something that did not constitute a CGT event happening) (ii) some or all of the expenditure incurred to acquire it cannot be valued, or (iii) the taxpayer did not “deal at arm’s length” (¶17-045) with the other entity in connection with the acquisition (s 112-20).
+Market value substitution rule The ﬁrst element of the cost base and reduced cost base of a CGT asset acquired from another entity is its "market value" (¶17-050) at the time of acquisition if: (i) the taxpayer did not incur expenditure to acquire it (except where the acquisition of the asset resulted from CGT event D1 happening or from another entity doing something that did not constitute a CGT event happening) (ii) some or all of the expenditure incurred to acquire it cannot be valued, or (iii) the taxpayer did not "deal at arm's length" (¶17-045) with the other entity in connection with the acquisition (s 112-20).
 
-A taxpayer seeking to rely on the market value substitution rule must provide suﬃcient evidence to prove the transaction was not at arm’s length (Healey 2012 ATC ¶20-365; [2012] FCAFC 194). The cost base of a debt can be reduced below face value to market value in accordance with the market value substitution rule if parties entered into debt on non-arm’s length terms (QFL Photographics Pty Ltd 2010 ATC ¶10-152; [2010] AATA 758).
+A taxpayer seeking to rely on the market value substitution rule must provide suﬃcient evidence to prove the transaction was not at arm's length (Healey 2012 ATC ¶20-365; [2012] FCAFC 194). The cost base of a debt can be reduced below face value to market value in accordance with the market value substitution rule if parties entered into debt on non-arm's length terms (QFL Photographics Pty Ltd 2010 ATC ¶10-152; [2010] AATA 758).
 
-However, if the taxpayer did not deal at arm’s length with the other entity and the taxpayer’s acquisition of the CGT asset resulted from another entity doing something that did not constitute a CGT event happening, eg if the asset is a share in a company that was issued or allotted to the taxpayer by the company, then the market value is substituted only if the amount paid for the CGT asset is more than its market value at the time of acquisition.
+However, if the taxpayer did not deal at arm's length with the other entity and the taxpayer's acquisition of the CGT asset resulted from another entity doing something that did not constitute a CGT event happening, eg if the asset is a share in a company that was issued or allotted to the taxpayer by the company, then the market value is substituted only if the amount paid for the CGT asset is more than its market value at the time of acquisition.
 
 Additionally, the market value substitution rule does not generally apply to a CGT asset that is: (i) a right to income from a trust (other than a unit trust or deceased estate) that is acquired for no consideration (ii) a decoration awarded for valour or brave conduct that is acquired for no consideration (iii) a contractual or other legal or equitable right resulting from CGT event D1 happening that is acquired for no consideration (iv) a right to acquire shares or options in a company or units or options in a unit trust that is acquired for no consideration and is exercised (v) a share in a company (or a right to acquire a share or debenture in a company) issued to the taxpayer by the company for no consideration (vi) a unit in a unit trust (or a right to acquire a unit or debenture in a unit trust) issued to the taxpayer by the unit trust for no consideration, and (vii) a right to dispose of a share in a company if the right was issued by the company and it was exercised either by the shareholder or by another entity who became the owner of the right.
 
-However, if a share in a company or a unit in a unit trust is acquired in a non-arm’s length situation before 16 August 1989 and the taxpayer paid less than the market value for the share or unit, the market value substitution rule still applies.
+However, if a share in a company or a unit in a unit trust is acquired in a non-arm's length situation before 16 August 1989 and the taxpayer paid less than the market value for the share or unit, the market value substitution rule still applies.
 
-A lessee who acquired leased equipment at its residual value under the terms of a standard commercial lease was held to have acquired the equipment at arm’s length. As the market value substitution rule did not apply, the lessee was not able to claim the higher market value of the equipment as its cost base (Granby 95 ATC 4240; [1995] FCA 1217).
+A lessee who acquired leased equipment at its residual value under the terms of a standard commercial lease was held to have acquired the equipment at arm's length. As the market value substitution rule did not apply, the lessee was not able to claim the higher market value of the equipment as its cost base (Granby 95 ATC 4240; [1995] FCA 1217).
 
 The market value substitution rule will not apply to replace the cost base of an asset acquired by exercising an option where the exercise price is diﬀerent to the market value at the time of the exercise where the terms of the option were in accordance with market value conditions as at the time the option was granted (ID 2009/18).
 
@@ -102,13 +102,13 @@ Where joint owners of land subdivide the land into 2 smaller blocks and each own
 
 Where part of an asset is compulsorily resumed, the capital proceeds for that CGT event will include any part of the compensation that reﬂects the reduction in value of the remaining part of the asset caused by the resumption (TD 2001/9).
 
-Compensation can be received by a landowner from a public authority for the acquisition of an easement either: (i) compulsorily, under the authority’s statutory powers, or (ii) by an agreement which avoids the necessity for the authority to exercise its statutory powers.
+Compensation can be received by a landowner from a public authority for the acquisition of an easement either: (i) compulsorily, under the authority's statutory powers, or (ii) by an agreement which avoids the necessity for the authority to exercise its statutory powers.
 
 In either case, TR 97/3 says that the capital proceeds are treated as having been received in respect of the disposal of part of the underlying asset (ie the land) and not in respect of the disposal by the landowner of the right to compensation within the terms of TR 95/35 (¶11-650). The Commissioner regards the easement as having being created by operation of the relevant statute and not by the landowner (as required for CGT event D1: ¶11-280).
 
 Assumption of liability rule If a CGT asset is acquired from another entity and it is subject to a liability, the ﬁrst element of the cost base and reduced cost base of the asset includes the amount of the assumed liability (s 112-35).
 
-Look-through earnout rights Where an acquisition of business assets involves a “look-through earnout right” (¶11-675) entered into on or after 24 April 2015 the buyer’s cost base or reduced cost base of those assets:
+Look-through earnout rights Where an acquisition of business assets involves a "look-through earnout right" (¶11-675) entered into on or after 24 April 2015 the buyer's cost base or reduced cost base of those assets:
 
 - excludes the value of the right
 
@@ -118,11 +118,11 @@ Look-through earnout rights Where an acquisition of business assets involves a �
 
 As ﬁnancial beneﬁts under a look-through earnout right may be provided or received for up to 4 years after the acquisition, the amendment period for an assessment involving such a right is 4 years after the expiry of the right. Further, a taxpayer is allowed to vary a CGT choice aﬀected by ﬁnancial beneﬁt provided or received under the right. The variation must be made by the time the taxpayer is required to lodge the tax return for the income year in which the ﬁnancial beneﬁt is provided or received (s 112-36).
 
-Cost base of put options If a company issues tradable put options to a shareholder, the market value of the options at the time of issue is included in the shareholder’s assessable income (McNeil 2007 ATC 4223; [2007] HCA 5; ¶10-110).
+Cost base of put options If a company issues tradable put options to a shareholder, the market value of the options at the time of issue is included in the shareholder's assessable income (McNeil 2007 ATC 4223; [2007] HCA 5; ¶10-110).
 
 This amount is not taxed again if the shareholder makes a capital gain or loss when a subsequent CGT event happens to the rights or the shares disposed of as a result of the exercise of the rights (applicable to rights issued on or after 1 July 2001). The ﬁrst element of the cost base and reduced cost base of a right to dispose of a share in a company that a taxpayer acquires as a result of CGT event D2 happening is the sum of:
 
-- the amount included in the taxpayer’s assessable income as ordinary income as a result of
+- the amount included in the taxpayer's assessable income as ordinary income as a result of
 
   acquiring the right, and
 

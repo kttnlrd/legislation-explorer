@@ -3,23 +3,17 @@ ATO ID 2005/189
 ==================================================
 
 Goods and Services Tax
-        GST and supply of student accommodation by a hostel whose primary purpose is to accommodate overseas students
-        FOI status: may be released
-
-
+ GST and supply of student accommodation by a hostel whose primary purpose is to accommodate overseas students
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a hostel that provides accommodation to students that undertake a secondary course at a separate institution, making a GST-free supply under subsection 38-105(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when:
-
-
 
 •it provides accommodation to students who are from outside of Australia and to students who are from rural or remote locations in Australia, and
 •its primary purpose is to provide accommodation to students from outside of Australia?
@@ -34,8 +28,6 @@ The entity is registered for goods and services tax and the supply satisfies the
 Reasons for Decision
 A supply is GST-free under subsection 38-105(2) of the GST Act if:
 
-
-
 •it is a supply of student accommodation to students undertaking a primary, secondary or special education course, and
 •the accommodation is provided in a hostel whose primary purpose is to provide accommodation for students from rural or remote locations who are undertaking such courses.
 
@@ -43,8 +35,6 @@ The entity is supplying accommodation in a hostel to students who are undertakin
 The entity's primary purpose is the provision of accommodation to students from outside of Australia. Therefore, it must be determined whether overseas students are from 'rural or remote locations'.
 The GST legislation only applies to Australia and its States and Territories. Therefore, it excludes areas outside Australia unless specified. The term 'rural or remote locations' is not defined in the GST Act and as such is considered to be rural or remote locations in Australia only.
 Rural or remote locations in Australia are listed in the Rural, Remote and Metropolitan Areas Classification (RRMA) (see Note 1), which delineates Australia into a seven-scale classification system. Of the seven classifications, two are metropolitan, three are rural and two are remote. A student will be from a rural or remote location if they are from an area designated as R1, R2, R3, Rem 1 or Rem 2 as described in the following table.
-
-
 
 RRMA Category
 Code
@@ -81,7 +71,6 @@ Remote area with population <5001
 The entity's primary purpose is to provide accommodation to students from outside of Australia, not to provide accommodation to students from 'rural or remote locations'. Therefore, the entity does not satisfy the requirements in subsection 38-150(2) of the GST Act and is not making a GST-free supply even when made to students from rural or remote locations.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. The supply is neither GST-free under any other provision in Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act.
 
-
 Note 1: The Commonwealth Departments of Primary Industries & Energy and Human Services and Health developed a methodology in 1994 to determine rural or remote locations within Australia. The RRMA is a methodology that has been widely applied by governments as an indicator or remoteness for policy, legislation and funding decisions. The RRMA identifies Statistical Local Areas based on 1991 Census data.
 
 Note 2: Where the primary purpose test is met, it does not matter which location an individual student originates from. For example, a supply of accommodation to a student from outside of Australia is GST-free if the primary purpose test is met (see ATO ID 2004/977).
@@ -91,7 +80,7 @@ Note 3: As a hostel is commercial residential premises as defined in section 195
 [HISTORY: This ATO ID was amended on 25 June 2007. Note 3 was added to clarify the ATO ID.]
 
 Date of decision:
-         27 June 2004
+  27 June 2004
 
 Legislative References:
 
@@ -105,23 +94,21 @@ Other References:
 
 Department of Primary Industries and Energy and the Department of Human Services 1994, Rural, Remote and Metropolitan Area Classification
 
-
 Keywords
 
 Goods and services tax
-          GST free
-          GST education
-          Student accommodation
-
+ GST free
+ GST education
+ Student accommodation
 
 Siebel/TDMS Reference Number:
-         4705931
+  4705931
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         1 July 2005
+  1 July 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

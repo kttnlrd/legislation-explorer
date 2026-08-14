@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Carry forward of credits despite continuity breach**
 
-**(2B)**  Despite a breach of continuity under subsection (2), the amount is available for use under section LP 3(4) if the amount could be carried forward to the tax year following the current year under subpart IB (Carrying forward companies’ loss balances: continuity of business activities), treating the amount as a tax loss component arising on the last day of the income year corresponding to the tax year in which the tax credit first arose.
+**(2B)**  Despite a breach of continuity under subsection (2), the amount is available for use under section LP 3(4) if the amount could be carried forward to the tax year following the current year under subpart IB (Carrying forward companies' loss balances: continuity of business activities), treating the amount as a tax loss component arising on the last day of the income year corresponding to the tax year in which the tax credit first arose.
 
 **Some definitions**
 

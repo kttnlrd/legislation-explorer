@@ -57,27 +57,27 @@ There is a direct value shift under a scheme involving equity or loan interests 
 
   is reasonably attributable to one or more things done under the scheme and occurs at or after the
 
-  time when that thing, or the ﬁrst of those things, is done — a “down interest”, and
+  time when that thing, or the ﬁrst of those things, is done — a "down interest", and
 
 - one or more equity or loan interests in the target entity increases in market value or is issued at a
 
   discount, and the increase, or issue, is reasonably attributable to the thing, or one or more of those
 
-  things done, and occurs at or after the time the thing, or the ﬁrst of those things, is done — an “up
+  things done, and occurs at or after the time the thing, or the ﬁrst of those things, is done — an "up
 
-  interest”.
+  interest".
 
-Example Mum and Dad run a family business through a company. They each hold one share that originally issued for $2. The market value of each share is $300,000 (representing the value of the assets of the company less its liabilities). The company issues one more share to Bob (Mum and Dad’s son) for nothing. Caution is needed in such a situation because ⅓ of the company’s value is shifted to Bob, ie Mum and Dad are each taken to make a capital gain of $100,000. No such liability would arise if the share had been issued for the market value of a share in the company at that time, ie $300,000.
+Example Mum and Dad run a family business through a company. They each hold one share that originally issued for $2. The market value of each share is $300,000 (representing the value of the assets of the company less its liabilities). The company issues one more share to Bob (Mum and Dad's son) for nothing. Caution is needed in such a situation because ⅓ of the company's value is shifted to Bob, ie Mum and Dad are each taken to make a capital gain of $100,000. No such liability would arise if the share had been issued for the market value of a share in the company at that time, ie $300,000.
 
 The direct value shifting rules do not apply to shares issued at a premium to market value because no interests in the company decrease in value as a consequence (ID 2003/890).
 
 *Refs: s 725-145)*
 
-“Scheme” is deﬁned very broadly as any arrangement, agreement, understanding, promise or undertaking, whether express or implied, and whether or not enforceable by legal proceedings; or any scheme, plan, proposal, action or course of conduct, whether unilateral or otherwise. A tax avoidance purpose in respect of a scheme is not required.
+"Scheme" is deﬁned very broadly as any arrangement, agreement, understanding, promise or undertaking, whether express or implied, and whether or not enforceable by legal proceedings; or any scheme, plan, proposal, action or course of conduct, whether unilateral or otherwise. A tax avoidance purpose in respect of a scheme is not required.
 
 A series of events or transactions may form part of one scheme. If, for example, a share value shift proceeds over a long period, each decrease in value of a share may be attributed to a single scheme.
 
-Conditions for a direct value shift A direct value shift under a scheme involving equity or loan interests in a “target entity” will only have consequences for a taxpayer with such interests if (s 725-50):
+Conditions for a direct value shift A direct value shift under a scheme involving equity or loan interests in a "target entity" will only have consequences for a taxpayer with such interests if (s 725-50):
 
 - the target entity is a company or trust at some time during the scheme period
 
@@ -117,7 +117,7 @@ An entity is a controller of a ﬁxed trust for value shifting purposes if, in b
 
   trust income or trust capital to beneﬁciaries of the trust, or
 
-- other control tests — where the entity is able to obtain or control the trust’s income or capital, to
+- other control tests — where the entity is able to obtain or control the trust's income or capital, to
 
   remove or appoint the trustee, or to generally cause the trustee to act according to its directions.
 
@@ -129,21 +129,21 @@ Non-fixed trusts An entity is a controller of a non-ﬁxed trust for value shift
 
 - tests based on control of trust income or capital — where the entity is able to obtain or control
 
-  the trust’s income or capital, to beneﬁt under the trust other than because of a ﬁxed entitlement to
+  the trust's income or capital, to beneﬁt under the trust other than because of a ﬁxed entitlement to
 
-  the trust’s income or capital, or to have the right to receive at least 40% of any distribution of the
+  the trust's income or capital, or to have the right to receive at least 40% of any distribution of the
 
-  trust’s income or capital.
+  trust's income or capital.
 
 Cause of value shift For the direct value shifting rules to apply, there must be a nexus between the scheme and the decrease in value of the down interest or the increase in value of the up interest. If the value shift is only partly caused by what is done under the scheme, the rules operate to that extent only (s 725-165).
 
-An equity or loan interest is a “down interest” if there is a decrease in its market value which is reasonably attributable to one or more things done under a value shifting scheme and the decrease occurs at or after the time that the ﬁrst of those things is done. An equity or loan interest is an “up interest” if it is issued at a discount or there is an increase in its market value which is reasonably attributable to the things done under a value shifting scheme. The increase in market value or the issue at a discount must occur at or after the time of the doing of the ﬁrst thing under the scheme (s 725-155).
+An equity or loan interest is a "down interest" if there is a decrease in its market value which is reasonably attributable to one or more things done under a value shifting scheme and the decrease occurs at or after the time that the ﬁrst of those things is done. An equity or loan interest is an "up interest" if it is issued at a discount or there is an increase in its market value which is reasonably attributable to the things done under a value shifting scheme. The increase in market value or the issue at a discount must occur at or after the time of the doing of the ﬁrst thing under the scheme (s 725-155).
 
 The direct value shifting rules only have consequences for aﬀected owners of a down interest or an up interest. The value shift must be caused by something that the target entity, the controller, an associate of the controller or an active participant in the scheme, either alone or together, did under the scheme to decrease the market value of down interests and increase the market value of up interests. To be an active participant in a scheme, the entity must have actively participated in, or directly facilitated, the entering into or carrying out of the scheme (s 725-65).
 
 A director who was issued shares at a discount was considered to be an active participant in a scheme as the director had direct knowledge of the scheme and was involved in the decision to issue additional shares even though they were issued at the instigation of the majority shareholder (ID 2004/210).
 
-Reversal of value shift A special rule applies so that there will be no consequences for a direct value shift if, more likely than not, it will be reversed within 4 years. An example is where voting rights to a class of shares are changed but, under the company’s constitution, the change is to last for only 3 years (s 725-90).
+Reversal of value shift A special rule applies so that there will be no consequences for a direct value shift if, more likely than not, it will be reversed within 4 years. An example is where voting rights to a class of shares are changed but, under the company's constitution, the change is to last for only 3 years (s 725-90).
 
 *Refs: s 725-50), s 725-70), s 725-55), s 727-355), s 727-360), s 727-365), s 725-165), s 725-155), s 725-65), s 725-90)*
 

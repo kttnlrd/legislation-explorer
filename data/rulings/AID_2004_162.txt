@@ -3,21 +3,16 @@ ATO ID 2004/162
 ==================================================
 
 Income Tax
-        Trusts: liability for Family Trust Distribution Tax
-        FOI status: may be released
-
+ Trusts: liability for Family Trust Distribution Tax
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the trustee of a family trust liable for Family Trust Distribution Tax (FTDT) pursuant to section 271-15 of Schedule 2F to the Income Tax Assessment Act 1936 (ITAA 1936) on a payment made in respect of the redemption of units, where the amount paid exceeds the value of any consideration given in return?
@@ -35,8 +30,6 @@ The redemption of units in a unit trust would be a distribution pursuant to subs
 
 A company, partnership or trust (an entity) also distributes income or capital to a person in circumstances not covered by section 272-45, 272-50 or 272-55 if it:
 
-
-
 (a) pays (including by way of a loan) or credits money of the entity to the person, or reinvests such money for the person; or
 (b) transfers property of the entity to, or allows use of property of the entity by, the person; or
 (c) deals with money or property of the entity for or on behalf of the person or as the person directs; or
@@ -49,13 +42,9 @@ Limit on distributions
 
 However, subsection (1) only applies if, and to the extent that:
 
-
-
 (a) the amount paid, credited, reinvested or applied, the value of the property transferred, or the value of the other thing done;
 
 exceeds:
-
-
 
 (b) the amount or value of any consideration given in return.
 
@@ -76,16 +65,16 @@ Legislative references
 Remove reference to Division 271 of the ITAA 1936 and include section 271-15 of the ITAA 1936.
 
 Related ATO Interpretation Decisions
-Remove Related ATO Interpretative Decisions and  reference to ATO ID 2002/746.
+Remove Related ATO Interpretative Decisions and reference to ATO ID 2002/746.
 
 Keywords
 Remove reference to Capital Gains Tax.
 
 Date of decision:
-         30 May 2003
+  30 May 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -94,39 +83,35 @@ Income Tax Assessment Act 1936   Schedule 2F, section 271-15   Schedule 2F
 Keywords
 
 Family trusts
-          Trust losses
-          Unit trusts
-          Superannuation funds
-          Interposed entity election
-          Family trust distribution tax
-          Family trust election
-
+ Trust losses
+ Unit trusts
+ Superannuation funds
+ Interposed entity election
+ Family trust distribution tax
+ Family trust election
 
 Siebel/TDMS Reference Number:
-         3205264; 1-ACOZ81N
+  3205264; 1-ACOZ81N
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         20 February 2004
+  20 February 2004
 
 Date reviewed:
-         6 February 2017
+  6 February 2017
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 30 May 2003

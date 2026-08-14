@@ -12,9 +12,9 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an employer or person makes an employer’s superannuation cash contribution or an employer’s contribution to a foreign superannuation scheme for a cross-border employee that relates to a period during which the employee is providing employment services in New Zealand.
+**(1)**  This section applies when an employer or person makes an employer's superannuation cash contribution or an employer's contribution to a foreign superannuation scheme for a cross-border employee that relates to a period during which the employee is providing employment services in New Zealand.
 
-**Employees’ obligations**
+**Employees' obligations**
 
 **(2)**  If the employer and employee agree and record in a document that the employee is liable for employment-related tax obligations, then the employee must—
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **(3)**  Subsection (2)﻿(b) does not apply if the employee is exempt from paying the amount of tax.
 
-*Defined in this Act: amount of tax, Commissioner, cross-border employee, employer’s superannuation cash contribution, foreign superannuation scheme, New Zealand, pay*
+*Defined in this Act: amount of tax, Commissioner, cross-border employee, employer's superannuation cash contribution, foreign superannuation scheme, New Zealand, pay*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

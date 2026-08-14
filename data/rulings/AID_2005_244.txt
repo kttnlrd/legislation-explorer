@@ -3,18 +3,14 @@ ATO ID 2005/244
 ==================================================
 
 Income tax
-        Consolidation: consolidated group - entity leaving with a liability - application of commercial debt forgiveness rules
-        FOI status: may be released
-
-
+ Consolidation: consolidated group - entity leaving with a liability - application of commercial debt forgiveness rules
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where an entity exits a consolidated group with a liability that is owed to a non-group member, will the commercial debt forgiveness rules in Division 245 in Schedule 2C of the Income Tax Assessment Act 1936 (ITAA 1936) apply to the head company of that consolidated group?
@@ -29,10 +25,10 @@ When the entity that issues the debt instrument leaves the consolidated group, i
 The cessation of the application of the single entity rule to the exiting entity in relation to the consolidated group will not of itself trigger the operation of the debt forgiveness rules in relation to the head company of that consolidated group.
 Only the non-member entity, as holder of the rights to have the issuing entity's obligations under the debt instrument met, is in the position to forgive those obligations. Further, the debt forgiveness rules in Division 245 of Schedule 2C of the ITAA 1936 will only apply if the non-member entity forgives the obligations under those debt instruments in accordance with the definition provided in clause 245-35 of Division 245 of Schedule 2C of the ITAA 1936.
 Date of decision:
-         20 July 2005
+  20 July 2005
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -42,21 +38,20 @@ Income Tax Assessment Act 1936   Schedule 2C   Division 245   clause 24
 Keywords
 
 Commercial debt forgiveness
-          Consolidated group
-          Consolidation - exiting
-          Leaving entity
-          Put options
-          Single entity rule
-
+ Consolidated group
+ Consolidation - exiting
+ Leaving entity
+ Put options
+ Single entity rule
 
 Siebel/TDMS Reference Number:
-         4573726
+  4573726
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         26 August 2005
+  26 August 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

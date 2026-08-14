@@ -150,7 +150,7 @@ compilation_date: 2026-06-06
 
   - (iii) from property that the CFC has created or developed, or to which the CFC has added substantial value; and
 
-  - (iv) an arm’s length amount determined under section GC 13 (Calculation of arm’s length amounts) for the arrangement between the CFC and the associated person:
+  - (iv) an arm's length amount determined under section GC 13 (Calculation of arm's length amounts) for the arrangement between the CFC and the associated person:
 
 - (c) the royalty is—
 
@@ -164,7 +164,7 @@ compilation_date: 2026-06-06
 
   - (ii) from property owned by a New Zealand resident who is resident in no other country under all applicable double tax agreements; and
 
-  - (iii) from property licensed to the CFC, or to a CFC associated with the CFC under section YB 2, (the licensee) by the New Zealand resident for an arm’s length amount determined under section GC 13 for the arrangement between the licensee and the New Zealand resident.
+  - (iii) from property licensed to the CFC, or to a CFC associated with the CFC under section YB 2, (the licensee) by the New Zealand resident for an arm's length amount determined under section GC 13 for the arrangement between the licensee and the New Zealand resident.
 
 **Attributable CFC amount: rent**
 
@@ -204,9 +204,9 @@ compilation_date: 2026-06-06
 
 **(8)**  Income from a life insurance policy is included in an attributable CFC amount under subsection (3)﻿(g) if the income is not included in a calculation of FIF income or loss and is—
 
-- (a) a distribution, if the life insurance policy is not intended to compensate the CFC for financial losses arising from the death or extended incapacity of a specified employee or member involved in the CFC’s business:
+- (a) a distribution, if the life insurance policy is not intended to compensate the CFC for financial losses arising from the death or extended incapacity of a specified employee or member involved in the CFC's business:
 
-- (b) a distribution that is not intended to compensate the CFC for financial losses arising from the death or extended incapacity of a specified employee or member involved in the CFC’s business, if the life insurance policy is intended to compensate the CFC for such losses:
+- (b) a distribution that is not intended to compensate the CFC for financial losses arising from the death or extended incapacity of a specified employee or member involved in the CFC's business, if the life insurance policy is intended to compensate the CFC for such losses:
 
 - (c) income from a disposal of the life insurance policy, if the policy is revenue account property.
 
@@ -220,15 +220,15 @@ compilation_date: 2026-06-06
 
 - (c) the working person is associated with the CFC under section YB 3 (Company and person other than company) at the time the services are performed or is a relative, at the beginning of the accounting period, of a person associated with the CFC under section YB 3; and
 
-- (d) 80% or more of the CFC’s total income in the accounting period from supplying personal services is derived through personal services meeting the requirements of paragraph (a) performed by working persons meeting the requirements of paragraph (b); and
+- (d) 80% or more of the CFC's total income in the accounting period from supplying personal services is derived through personal services meeting the requirements of paragraph (a) performed by working persons meeting the requirements of paragraph (b); and
 
-- (e) to derive the income, the CFC uses a business structure that requires depreciable property having, at the end of the accounting period, a total cost under section GB 28(7) (Interpretation of terms used in section GB 27) less than or equal to the greater of $75,000 and 25% of the CFC’s total income from personal services performed in the accounting period; and
+- (e) to derive the income, the CFC uses a business structure that requires depreciable property having, at the end of the accounting period, a total cost under section GB 28(7) (Interpretation of terms used in section GB 27) less than or equal to the greater of $75,000 and 25% of the CFC's total income from personal services performed in the accounting period; and
 
 - (f) a person who holds an attributing interest in the CFC files, after the date on which the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 receives the Royal assent, a return of income in which the amount attributed to the working person is determined under this section.
 
 **Exclusions from attributable CFC amount: shares**
 
-**(10)**  Income derived by a CFC from the disposal of a share that is revenue account property is not included in an attributable CFC amount under subsection (3)﻿(i) if the CFC’s FIF income or loss from the share in the period ending with the disposal is calculated using—
+**(10)**  Income derived by a CFC from the disposal of a share that is revenue account property is not included in an attributable CFC amount under subsection (3)﻿(i) if the CFC's FIF income or loss from the share in the period ending with the disposal is calculated using—
 
 - (a) the comparative value method:
 
@@ -246,9 +246,9 @@ compilation_date: 2026-06-06
 
 - (b) the CFC is a network operator under the Telecommunications (Interception Capability and Security) Act 2013 (a network operator), or—
 
-  - (i) a group of persons has, for the whole of the CFC’s accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in the CFC; and
+  - (i) a group of persons has, for the whole of the CFC's accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in the CFC; and
 
-  - (ii) the group of persons also has, for the whole of the CFC’s accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in a network operator; and
+  - (ii) the group of persons also has, for the whole of the CFC's accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in a network operator; and
 
 - (c) the service is performed by a person, other than the CFC, who—
 
@@ -258,7 +258,7 @@ compilation_date: 2026-06-06
 
 - (d) the service is performed by the person as part of a business in New Zealand of providing telecommunication services in New Zealand—
 
-  - (i) carried on through the person’s fixed establishment, if the person is not resident in New Zealand; and
+  - (i) carried on through the person's fixed establishment, if the person is not resident in New Zealand; and
 
   - (ii) from which the person derives assessable income of more than $5,000,000 per annum.
 

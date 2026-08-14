@@ -39,7 +39,7 @@ Purpose of sale or exchange It is apparently not necessary that the purpose of s
 
 However, the ATO does not accept that the test is satisfied in every case where there is an intention that the goods will ultimately be sold. For example, it considers that it is not satisfied where a tradesperson simply purchases a second-hand vehicle for use in business but also with a view to selling it at some future time (GST Determination GSTD 2013/2; Decision Impact Statement on LeasePlan).
 
-The intended sale or exchange must also be in the “ordinary course” of the taxpayer’s business. This expression normally means that the transaction must fall into place as part of the common flow of business done, that it should form part of the ordinary course of business as carried on, “calling for no remark and arising out of no special or particular situation” (Downs Distributing Company Pty Ltd v Associated Blue Star Stores Pty Ltd (In Liquidation) (1948) 76 CLR 463).
+The intended sale or exchange must also be in the "ordinary course" of the taxpayer's business. This expression normally means that the transaction must fall into place as part of the common flow of business done, that it should form part of the ordinary course of business as carried on, "calling for no remark and arising out of no special or particular situation" (Downs Distributing Company Pty Ltd v Associated Blue Star Stores Pty Ltd (In Liquidation) (1948) 76 CLR 463).
 
 Exclusions
 
@@ -65,7 +65,7 @@ Exclusions
 
 - the goods were hired to you
 
-- the goods are divided up for resale (in this case, the “global method” applies: ¶16-120), or
+- the goods are divided up for resale (in this case, the "global method" applies: ¶16-120), or
 
 - you dispose of the goods by way of a non-taxable supply, for example, you make a GST-free sale
 
@@ -81,7 +81,7 @@ Tax period for claiming credit If the payment for the goods is $300 or less, the
 
 If the payment is more than $300, a special rule applies (s 66-15). The effect is that if you are on an accruals basis, the input tax credit cannot be claimed until you subsequently make a taxable supply of the goods, for example, you sell them as part of your business. The credit will be attributed to the tax period in which you receive any payment for that sale, or the period when you issue an invoice, whichever is earlier. This will require you to be able to trace the individual items.
 
-Examples These examples illustrate the effect of the rules for calculation of the credit and its attribution to tax periods. (1) A second-hand dealer on the accruals basis has an item of stock on hand which it acquired for $6,600 from a private individual. th The dealer sells the item on 20 December 2025 for $11,000, including $1,000 GST. The dealer can claim an input tax credit of 1/11 of $6,600, ie $600 in the tax period in which December 2025 occurs. (2) Assume the same facts, except that the item was acquired for $13,200. The dealer’s input tax credit will be limited to the $1,000 GST on the subsequent sale.
+Examples These examples illustrate the effect of the rules for calculation of the credit and its attribution to tax periods. (1) A second-hand dealer on the accruals basis has an item of stock on hand which it acquired for $6,600 from a private individual. th The dealer sells the item on 20 December 2025 for $11,000, including $1,000 GST. The dealer can claim an input tax credit of 1/11 of $6,600, ie $600 in the tax period in which December 2025 occurs. (2) Assume the same facts, except that the item was acquired for $13,200. The dealer's input tax credit will be limited to the $1,000 GST on the subsequent sale.
 
 An accruals basis taxpayer can choose to use this attribution method for all second-hand purchases, whether they are for more or less than $300 (s 66-15). Although this may involve claiming some credits later than they otherwise could have been claimed, a consistent method of accounting may be more convenient.
 
@@ -95,7 +95,7 @@ In the case of acquisitions, this detailed requirement does not apply if the val
 
 In the case of adjustments, the detailed requirement does not apply if the amount of the adjustment does not exceed $75 (¶6-135).
 
-Where goods leased before sale As already noted, the credit does not apply if the purpose of the acquisition was to lease the goods in the ordinary course of the taxpayer’s business, and not to sell or exchange them. However, it may happen that the ordinary course of the taxpayer’s business includes both leasing the goods and later selling them, eg at agreed residual values. In this situation, the credit may apply, and both the lease and the sale are taken into account in calculating its amount.
+Where goods leased before sale As already noted, the credit does not apply if the purpose of the acquisition was to lease the goods in the ordinary course of the taxpayer's business, and not to sell or exchange them. However, it may happen that the ordinary course of the taxpayer's business includes both leasing the goods and later selling them, eg at agreed residual values. In this situation, the credit may apply, and both the lease and the sale are taken into account in calculating its amount.
 
 Example A finance company acquires a second-hand vehicle from an unregistered vendor for $5,500. It then leases the vehicle for payments totalling $4,400. After the lease expires, it sells the vehicle for $2,200. As the total GST on the lease and sale is $600 (ie 1/11 × $4,400 + 1/11 × $2,200), the company can claim an input tax credit under s 66-10 of $500, representing the full amount of GST on the original acquisition (ie 1/11 × $5,500).
 

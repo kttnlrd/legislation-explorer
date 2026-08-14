@@ -3,18 +3,14 @@ ATO ID 2008/46
 ==================================================
 
 Income Tax
-        Foreign residents and indirect Australian real property interests
-        FOI status: may be released
-
-
+ Foreign residents and indirect Australian real property interests
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the non-portfolio interest test under subparagraph 855-25(1)(a)(ii) of the Income Tax Assessment Act 1997 (ITAA 1997) satisfied if a foreign resident holding company and its foreign resident associates cumulatively held a direct participation interest in an Australian resident company exceeding 10% for 12 months, without their individual holdings spanning those 12 months?
@@ -33,11 +29,7 @@ Taxable Australian property includes a CGT asset that is an 'indirect Australian
 Subsection 855-25(1) of the ITAA 1997 provides:
 A membership interest held by an entity (the holding entity) in another entity (the test entity) at a time is an indirect Australian real property interest at that time if:
 
-
-
 (a)the interest passes the 'non-portfolio interest test' (see section 960-195):
-
-
 
 (i)at that time; or
 (ii)throughout a 12 month period that began no earlier than 24 months before that time and ended no later than that time; and
@@ -52,10 +44,10 @@ Therefore the taxpayer's interest in the Australian resident company is an indir
 The taxpayer will make a capital gain if the capital proceeds from the disposal are more than the cost base of the CGT asset. Alternatively, the taxpayer will make a capital loss if the capital proceeds are less than the asset's reduced cost base: subsection 104-10(4) of the ITAA 1997.
 Any resulting capital gain or capital loss must be taken into account in working out the taxpayer's net capital gain or net capital loss for the income year in which the disposal happened.
 Date of decision:
-         6 March 2008
+  6 March 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -64,17 +56,16 @@ Income Tax Assessment Act 1997   subsection 104-10(4)   subsection 855-10(
 Keywords
 
 Capital gains
-          CGT taxable Australian assets
-
+ CGT taxable Australian assets
 
 Siebel/TDMS Reference Number:
-         5936253
+  5936253
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 March 2008
+  28 March 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

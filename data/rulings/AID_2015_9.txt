@@ -3,18 +3,13 @@ ATO ID 2015/9
 ==================================================
 
 Superannuation
-        Superannuation Guarantee Scheme:  attributed personal services income
-
-
-
+ Superannuation Guarantee Scheme: attributed personal services income
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does attributed personal services income attract superannuation guarantee (SG) obligations on the part of the relevant personal services entity?
@@ -51,15 +46,9 @@ The 'charge percentage' for the quarter ended 30 June 2014 is 9.25%. From 1 July
 ordinary time earnings,
  in relation to an employee, means:
 
-
-
 (a)the total of:
 
-
-
 (i)earnings in respect of ordinary hours of work other than earnings consisting of a lump sum payment of any of the following kinds made to the employee on the termination of his or her employment:
-
-
 
 (A)a payment in lieu of unused sick leave;
 (B)an unused annual leave payment, or unused long service leave payment, within the meaning of the Income Tax Assessment Act 1997; and
@@ -84,17 +73,14 @@ Conclusion
 Attributed personal services income will not generally give rise to an SG obligation. This is because the amounts of attributed personal services income are generally not paid to the personal services provider and the obligation to provide superannuation support under the SGAA hinges upon the notion of receipt of payment for work.
 However, where the personal services provider is in receipt of salary or wages, and the payment is made after the end of the 14th day after the PAYG payment period, under subsection 86-15(4) of the ITAA 1997, this amount is treated as attributed personal services income. This will still give rise to an SG obligation, as the payment is considered to be 'earnings in respect of ordinary hours of work' in relation to an employee under the definition of ordinary time earnings.
 
-
-
-
 Note:
-                  As the SGAA imposes obligations only in respect of amounts paid in the relevant quarter, any amount of late salary or wages paid in the first quarter of a financial year (that is July to September) but reported as attributable personal services income for the prior year under section 86-40 of the ITAA 1997 will not give rise to an SG obligation in the quarter or financial year in which it is declared. The SG obligation will arise in the quarter of the subsequent year when it is paid to the employee.
+ As the SGAA imposes obligations only in respect of amounts paid in the relevant quarter, any amount of late salary or wages paid in the first quarter of a financial year (that is July to September) but reported as attributable personal services income for the prior year under section 86-40 of the ITAA 1997 will not give rise to an SG obligation in the quarter or financial year in which it is declared. The SG obligation will arise in the quarter of the subsequent year when it is paid to the employee.
 
 Date of decision:
-         15 September 2014
+  15 September 2014
 
 Year of income:
-           1 July 2009 and later
+  1 July 2009 and later
 
 Legislative References:
 
@@ -113,20 +99,19 @@ ATO ID 2002/774
 Keywords
 
 Superannuation guarantee charge
-          Alienated personal services payments
-
+ Alienated personal services payments
 
 Siebel/TDMS Reference Number:
-         1-60JPK2V; 1-JT71BGC; 1-XTDCW58
+  1-60JPK2V; 1-JT71BGC; 1-XTDCW58
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         17 April 2015
+  17 April 2015
 
 Date reviewed:
-         16 June 2023
+  16 June 2023
 
 ISSN:
-          1445-2782
+ 1445-2782

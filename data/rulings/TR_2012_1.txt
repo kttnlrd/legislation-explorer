@@ -78,9 +78,9 @@ that the payment is in relation to new shares issued by the company under the Bo
 •
 Entitlements are assignable by, tradeable by, or given to a nominee entity for disposal on behalf of, the Non Participating Shareholders entitled to them; or
 •
-Entitlement offers are to issue of equity in trusts or to issue of equity in Stapled Groups.  Stapled Groups are separate entities including at least one trust that is taxed under Division 6 of Part III of the
+Entitlement offers are to issue of equity in trusts or to issue of equity in Stapled Groups. Stapled Groups are separate entities including at least one trust that is taxed under Division 6 of Part III of the
 Income Tax Assessment Act 1936
-(ITAA 1936) where there is equity in each entity that can be issued or transferred only with a fixed amount of equity in each other entity.  Equity in such entities is commonly described as stapled.
+(ITAA 1936) where there is equity in each entity that can be issued or transferred only with a fixed amount of equity in each other entity. Equity in such entities is commonly described as stapled.
 Ruling
 Retail Premium paid to Non Participating Shareholders
 Dividends
@@ -209,7 +209,7 @@ share capital'
 Principles of Corporations Law
 [1]
 , share capital is described at page 929:
-A company's share capital is the total amount of money representing what members, or persons proposing to be members of the company, have provided, or contractually bound themselves to provide, to the company, in cash or other value, for the company to use in its undertaking, they having done so in their character of members or intending members and not as creditors:  see [17.020]. Compare
+A company's share capital is the total amount of money representing what members, or persons proposing to be members of the company, have provided, or contractually bound themselves to provide, to the company, in cash or other value, for the company to use in its undertaking, they having done so in their character of members or intending members and not as creditors: see [17.020]. Compare
 Re Swan Brewery Co Ltd
 (1976) 3 ACLR 164.
 Capital subscribed by members as such is called 'share capital' rather than just capital.
@@ -271,7 +271,7 @@ Consolidated Media Holdings Ltd case
 Consolidated Media Holdings Ltd v Commissioner of Taxation
 [2011] FCA 367 (
 Consolidated Media
-).  This case is subject to appeal, and its reasoning is referred to here by way of illustration.
+). This case is subject to appeal, and its reasoning is referred to here by way of illustration.
 60. As reported in
 Consolidated Media
 , the taxpayer (Consolidated Media Holdings Ltd) owned all of the issued shares in Crown Melbourne Ltd (Crown). In June 2002, Crown paid the taxpayer $1 billion as part of an off market share buy-back.
@@ -313,7 +313,7 @@ Franking of dividend
 76. Section 202-40 of the ITAA 1997 provides that a distribution is a frankable distribution unless it is rendered unfrankable pursuant to section 202-45 of the ITAA 1997. As Retail Premium payments are dividends sourced from a company's share capital account, these dividends are unfrankable pursuant to paragraph 202-45(e) of the ITAA 1997. That paragraph applies so that 'a distribution that is sourced, directly or indirectly, from a company's share capital account' is unfrankable. It does not refer to the distribution as being debited against that account, as a distribution sourced indirectly from the account might not itself be so debited.
 Withholding tax on Retail Premiums to non-Resident Non Participating Shareholders
 77. A non-resident Non Participating Shareholder who receives a Retail Premium will be subject to withholding tax under subsections 128B(1) and 128B(4) of the ITAA 1936, unless excluded under another provision of the ITAA 1936, ITAA 1997 or of a Double Taxation Agreement.
-78. Subsection 128B(1) of the ITAA 1936 states that section 128B of the ITAA 1936  applies to income derived by a non-resident that consists of a dividend paid by a company that is a resident. Subsection 128B(4) of the ITAA 1936 then states:
+78. Subsection 128B(1) of the ITAA 1936 states that section 128B of the ITAA 1936 applies to income derived by a non-resident that consists of a dividend paid by a company that is a resident. Subsection 128B(4) of the ITAA 1936 then states:
 A person who derives income to which this section applies that consists of a dividend is liable to pay income tax upon that income at the rate declared by the Parliament in respect of income to which this subsection applies.
 79. To the extent that dividends are franked, including being franked in certain circumstances with an exempting credit, they are not included in the income to which withholding tax applies, by reason of paragraph 128B(3)(ga) of the ITAA 1936. A Retail Premium is unfrankable as discussed above, and so is included in the income to which withholding tax applies. A Retail Premium paid to a non-resident and that is subject to withholding tax will be non-assessable non-exempt income under section 128D of the ITAA 1936. (This makes the withholding tax effectively a final tax for Australian taxation purposes.)
 80. Resident companies that pay a Retail Premium to non-resident Non Participating Shareholders have a withholding obligation under section 12-210 of Schedule 1 to the
@@ -336,11 +336,11 @@ any amounts credited by a company to any of its shareholders as shareholders (su
 85. Distributions paid to shareholders out of share capital, but not from the company's share capital account, could
 not
 fall under the exemption in subparagraph 6(1)(d) of the definition of dividend in the ITAA 1936, as the share capital distributed would not be debited against the credit of the company's share capital account, a precondition of that exception from being a dividend.
-86. Company distributions to shareholders not paid out of share capital or if paid out of share capital which has not been debited against a company's share capital account, are paid from profits derived by the company and therefore are assessable dividends under subsection 44(1) of the ITAA 1936. Taxation Ruling TR 2003/8 Income tax:  distributions of property by companies to shareholders - amount to be included as an assessable dividend (TR 2003/8) and relevant case law explain why such distributions are dividends paid from the profits of the relevant company.
+86. Company distributions to shareholders not paid out of share capital or if paid out of share capital which has not been debited against a company's share capital account, are paid from profits derived by the company and therefore are assessable dividends under subsection 44(1) of the ITAA 1936. Taxation Ruling TR 2003/8 Income tax: distributions of property by companies to shareholders - amount to be included as an assessable dividend (TR 2003/8) and relevant case law explain why such distributions are dividends paid from the profits of the relevant company.
 87. Paragraph 4 of TR 2003/8 states:
 The amount of a dividend in respect of a distribution of property (including shares held by a company in another company) to a shareholder in their capacity as a shareholder will be the money value of the property at the time it is distributed, reduced by the amount debited to a share capital account of the distributing company in respect of the distribution.
 88. Paragraphs 6 to 8 of TR 2003/8 then state:
-6. In the case of a resident shareholder the amount by which the money value of the property exceeds the amount  debited to the share capital account will be included in the shareholder's assessable income to the extent that the dividend is paid (or taken to be paid) out of profits derived by the company.
+6. In the case of a resident shareholder the amount by which the money value of the property exceeds the amount debited to the share capital account will be included in the shareholder's assessable income to the extent that the dividend is paid (or taken to be paid) out of profits derived by the company.
 7. In the case of a non-resident shareholder the amount by which the money value of the property exceeds the amount debited to the share capital account will be included in the shareholder's assessable income to the extent that the dividend is paid (or taken to be paid) out of profits derived by the company from an Australian source, unless a double tax treaty provides for a different result in the circumstances of the taxpayer. (Usually such treaties substitute a different test based on effective connection with a permanent establishment in Australia.)
 8. For the purposes of paragraphs 6 and 7, the dividend is paid out of profits derived by the company if, immediately after the distribution of property,
 the market value of the assets of the company exceeds the total amount (as shown in the company's books of account) of its liabilities and share capital. In addition, if the dividend described in paragraphs 6 and 7 is a repayment by a company of an amount paid-up on the share, the dividend is taken to be paid out of profits derived by the company
@@ -378,9 +378,9 @@ Rather, the majority pointed out, at [36], that:
 by the taxpayer, they were characterised by the High Court as something of value which was the product of, but severed from, the taxpayer's shareholding in SGL and that constituted income from property (that is, her shares in SGL). The High Court therefore held that the sell back rights received were ordinary income at the time the rights were issued and were assessable under section 6-5 of the ITAA 1997.
 98. The Retail Premium is paid to shareholders in their capacity as such and is the product of their shareholding. That shareholding remains unaffected by the payment of the Retail Premium. So far as the shareholding may be affected by the issue of other shares, including those giving rise to the Clearing Price, this is irrelevant to the character of the Retail Premium itself, in the same way that the reduction of capital in
 McNeil's
-case was irrelevant to the character of the sell-back rights in that case.  No Retail Premium was payable under the arrangement in
+case was irrelevant to the character of the sell-back rights in that case. No Retail Premium was payable under the arrangement in
 McNeil's
-case. In that case, where the shareholder did not make use of the sell-back rights by a certain time, the terms of the arrangement provided that the rights were to be sold on behalf of the shareholder, who was entitled to the proceeds.  This Ruling has no application to cases where, because of such arrangements, no Retail Premium entitlement can arise.
+case. In that case, where the shareholder did not make use of the sell-back rights by a certain time, the terms of the arrangement provided that the rights were to be sold on behalf of the shareholder, who was entitled to the proceeds. This Ruling has no application to cases where, because of such arrangements, no Retail Premium entitlement can arise.
 Montgomery's case
 99. The High Court decision in
 Montgomery
@@ -447,7 +447,7 @@ Capital gains tax consequences on receipt of a Retail Premium
 Appendix 2 - Alternative views
 This Appendix sets out alternative views and explains why they are not supported by the Commissioner. It does not form part of the binding public ruling.
 Summary
-113. There are alternative views relevant to several points in the Explanation section at paragraphs 13 to 112 of this Ruling. They are discussed in this Appendix where additional description of the alternative view and of the reasons for which it is not accepted by the Commissioner, beyond the Explanation, is warranted.  In summary, the alternative views are as follows.
+113. There are alternative views relevant to several points in the Explanation section at paragraphs 13 to 112 of this Ruling. They are discussed in this Appendix where additional description of the alternative view and of the reasons for which it is not accepted by the Commissioner, beyond the Explanation, is warranted. In summary, the alternative views are as follows.
 114. If any Retail Premiums paid to Non Participating Shareholders were not a dividend, it is contended that these receipts would not be assessable as ordinary income under section 6-5 of the ITAA 1997.
 115. CGT event C2 under section 104-25 of the ITAA 1997 happens when a Non Participating Shareholder receives a Retail Premium, and it is contended that the CGT discount may apply to the Retail Premium so far as the shareholder's shares have been held for more than 12 months.
 116. A Retail Premium is contended not to be a dividend because it is not paid by the company (Alternative View 1 - see paragraphs 123 to 139 of this Ruling).
@@ -510,7 +510,7 @@ White
 , the taxpayer (who was an employee of a company) arranged and directed that certain amounts arising from his employment be paid only to an associated trust. The taxpayer argued that these amounts were derived by the trust rather than himself. Gordon J rejected the taxpayer's argument, stating that although the amounts were paid to a different entity, the amounts were derived by the taxpayer and merely applied at his direction. This was evident at paragraph [25] in
 White
 , where Gordon J said:
-However, it is not necessary that an item of income be paid over to the taxpayer; it is sufficient, according to ordinary concepts and usages, that the item is applied or dealt with on behalf of or at the direction of the taxpayer:  see s6-5(4) of the 1997 Act and Cooke 29 ALR 202 at 211.
+However, it is not necessary that an item of income be paid over to the taxpayer; it is sufficient, according to ordinary concepts and usages, that the item is applied or dealt with on behalf of or at the direction of the taxpayer: see s6-5(4) of the 1997 Act and Cooke 29 ALR 202 at 211.
 138. Gordon J expanded the above point at paragraphs [28] & [29] in
 White
 where she stated:
@@ -557,8 +557,8 @@ the original interests must not be convertible interests.
 [8]
 referring to section 59-40 which states:
 These amendments restore the original tax treatment of rights issued by issuing entities to existing shareholders or unitholders to acquire additional relevant interests in those entities. As a result, a taxing point will not arise for the shareholders or unitholders in relation to the rights until a subsequent capital gains tax (CGT) event happens to the rights or to relevant interests as a result of exercising the rights.
-Commissioner's View -  A Retail Premium is not paid for, or for the lapsing or ending of, rights to subscribe for shares; and if it were it would still be a dividend and, if not a dividend, ordinary income
-149. A Retail Premium is paid to any Non Participating Shareholder for the same thing:  that is, it is paid on account of amounts subscribed by third party shareholders. That some Non Participating Shareholders had rights to subscribe for shares which they did not exercise and which expired does not give the Retail Premium paid to them the character of consideration for, or for the lapsing or ending of, those rights.
+Commissioner's View - A Retail Premium is not paid for, or for the lapsing or ending of, rights to subscribe for shares; and if it were it would still be a dividend and, if not a dividend, ordinary income
+149. A Retail Premium is paid to any Non Participating Shareholder for the same thing: that is, it is paid on account of amounts subscribed by third party shareholders. That some Non Participating Shareholders had rights to subscribe for shares which they did not exercise and which expired does not give the Retail Premium paid to them the character of consideration for, or for the lapsing or ending of, those rights.
 150. A right to receive a Retail Premium payment is a different and separate right to Entitlements. An Entitled shareholder's Entitlements provide the shareholder with the right to acquire shares from the issuing company. A Retail Premium right, however, is a potential right to cash granted by the issuing company to Non Participating Shareholders and is contingent on the Clearing Price consideration for the issue of shares in the company being higher than the Offer Price (or other applicable measure).
 151. Incapable shareholders are not able to exercise the right to subscribe for shares in the company. The right is neither exercised nor disposed of on behalf of Incapable shareholders, but lapses unexercised. Accordingly the Commissioner considers that either no rights are issued to them or that which is issued to them is not a right to acquire shares in the company. So section 59-40 of the ITAA 1997 is not applicable to Incapable shareholders.
 152. Whilst Retail Premium payments may be connected to Entitlements (so far as they are paid to shareholders who had Entitlements they did not or could not exercise), they are not paid for, or for the lapsing or ending of, those Entitlements. When the Entitlements of Entitled shareholders lapse, they do not receive any consideration for the lapsing of the Entitlements. The character of the Retail Premium is therefore the same, whether received by shareholders who had Entitlements they did not or could not exercise, or to shareholders who never had Entitlements at all. The Commissioner's view does not require intricate analysis of the difference between having and not having Entitlements and of the difference between having Entitlements which are not permitted to be exercised and not having Entitlements. These differences are not relevant to the operation of the dividend provisions.
@@ -577,7 +577,7 @@ Commissioner's View -  A Retail Premium is not paid for, or for the lapsing or e
 , it is said that 'If a company or trustee issues rights to a taxpayer to acquire shares in the company or units in the trust and the conditions in subsection 59-40(2) of the ITAA 1997 are satisfied, then a capital gain or capital loss will arise only when a CGT event happens to the rights or to the shares acquired as a result of the exercise of the rights. For example, if the taxpayer disposes of the rights, the taxpayer may make a capital gain or capital loss because CGT event A1 happens'. This is a statement about when a CGT event happens, and is not asserting that only a CGT event can happen. It is discussing generally what happens when a right is disposed of, or equity acquired by exercising a right is realised, as the most likely practical situations, though 'a CGT event happens in relation to the rights or to the shares' in a much wider range of circumstances. It reflects the catch-all character of the CGT event provisions, that is, they happen for revenue assets too (although the consequences of this may be affected by section 118-20 of the ITAA 1997).
 160. However, the 'generally' is important and reflects the express advice at paragraph 1.12 of the Explanatory Memorandum
 [12]
-:  'The conditions in paragraphs 59-40(2)(c) to (e) of the ITAA 1997 ensure that subsection 59-40(1) only applies to shareholders or unit holders that would ordinarily be taxed on capital account in relation to the original interests and the rights'. (Note, again, 'ordinarily'.)
+: 'The conditions in paragraphs 59-40(2)(c) to (e) of the ITAA 1997 ensure that subsection 59-40(1) only applies to shareholders or unit holders that would ordinarily be taxed on capital account in relation to the original interests and the rights'. (Note, again, 'ordinarily'.)
 161. There will be situations in which rights, or equity acquired by exercising the rights, may be on revenue account. Subsection 118-20(1) of the ITAA 1997 provides that a capital gain you make from a CGT event is reduced if, because of the event, an amount is included in your assessable income under a provision of the income tax law other than Part 3-1 of the ITAA 1997 (the capital gains tax provisions). The capital gain is reduced by that amount, but not below zero (subsection 118-20(2) of the ITAA 1997).
 162. As a Retail Premium is required to be included in the assessable income of a Non Participating Shareholder either as a dividend under subsection 44(1) of the ITAA 1936, or as ordinary income under section 6-5 of the ITAA 1997, or is non-assessable non-exempt income under section 128D of the ITAA 1936, any capital gain a Non Participating Shareholder makes from receipt of a Retail Premium is reduced under section 118-20 of the ITAA 1997.
 163. For these reasons the alternative view is not accepted.
@@ -592,7 +592,7 @@ Taxation Laws Amendment (Company Law Review) Act 1998
 1.105 Subsection 6(4) of the Act, an anti-avoidance rule, provides that the exclusion to the definition of a dividend in subsection 6(1) does not apply where, pursuant to an agreement or an arrangement, a company issues shares at a premium and then distributes those premiums to shareholders in the company. The rule prevents companies substituting profit distributions with preferentially-taxed share premiums.
 1.106 As a result of the Corporations Law changes that abolish the concept of share premiums and associated terms,
 the amendments introduce an equivalent rule
-to subsection 6(4) that applies to the share capital account. The rule will prevent companies entering into arrangements where a company raises share capital from certain shareholders and then makes a tax-preferred capital distribution to other shareholders. [Item 7 of Schedule 3; amends subsection 6(4)]  [emphasis added].
+to subsection 6(4) that applies to the share capital account. The rule will prevent companies entering into arrangements where a company raises share capital from certain shareholders and then makes a tax-preferred capital distribution to other shareholders. [Item 7 of Schedule 3; amends subsection 6(4)] [emphasis added].
 166. Accordingly, the alternative view contends that the history and terminology of subsection 6(4) of the ITAA 1936 as an anti-avoidance provision indicates that it only applies to 'special' arrangements, designed to provide tax benefits in the form of the special treatment of payments out of share capital.
 Commissioner's view - 'purpose requirement' under subsection 6(4)
 167. There is no 'purpose requirement' under subsection 6(4) of the ITAA 1936 beyond the terms of the subsection. What the subsection requires is that in addition to an amount being paid to the company and credited to its share capital account, the amount is later paid or distributed by the company (being a debit to its share capital account) such as to another set of shareholders, with the payment to and by the company being common elements 'under an arrangement'. This is sufficient for subsection 6(4) to apply.
@@ -656,7 +656,7 @@ is that Retail Premiums are a distribution from the company to its Non Participa
 Alternative View 6 - FCT v Montgomery does not support Retail Premiums being ordinary income
 182. This alternative view argues that the Commissioner's reliance on the quote extracted from
 Montgomery
-[at paragraph 117] is misplaced as it precedes the relevant passage.  What made the lease incentive income in
+[at paragraph 117] is misplaced as it precedes the relevant passage. What made the lease incentive income in
 Montgomery
 was that the firm was exploiting its commercial position to advantage.
 Montgomery
@@ -702,7 +702,7 @@ is not limited to business assets as opposed to passive investors is evident in 
 McNeil
 . At paragraph 21 in
 McNeil
-,  the High Court  clearly applied the principles of
+, the High Court clearly applied the principles of
 Montgomery
 and
 Eisner
@@ -761,7 +761,7 @@ or its component parts
 200. Paragraph 15 of AASB 132 makes clear that under the AASB Standards, accounting is for 'component parts' of compound arrangements that themselves answer the different requirements of different parts of the AASB Standards. Funds raised in the consideration making up the Clearing Price are wholly for an equity instrument.
 201. The alternative view asserts that under paragraph 102 of the Framework, the financial concept of the financial capital of a company is synonymous with the net assets or (shareholders') equity of the issuing company. Accordingly, any share capital raised under a Bookbuild process is reduced by the company's obligation to pay the Retail Premium (this being a financial liability under paragraph 16 of AASB 132). The Framework has no such effect.
 202. Consideration raised forming part of the Clearing Price is share capital of the issuing company. The fact that these funds may be used by the issuing company to meet a revenue outlay does not in any way change the nature of the equity instrument involved in the share capital or how it must be accounted for. The full amount received under the Bookbuild process is an accretion, not to the 'financial capital' of the company, but to its share capital. As financial capital is about net assets, it rarely is consistent and is not required to be consistent with share capital. Were it otherwise, every share placement where the proceeds were committed to any particular application, such as paying off particular debt, acquiring a particular asset, or otherwise would raise no assets of the company to that extent - and the company could not be regarded as applying assets to that application either.
-203. The corresponding question of how a company is to account for what it pays for in equity (or in equity-denominated consideration), and for the equity by which (or by reference to which) it pays, is dealt with in two AASB Standards:  AASB 2
+203. The corresponding question of how a company is to account for what it pays for in equity (or in equity-denominated consideration), and for the equity by which (or by reference to which) it pays, is dealt with in two AASB Standards: AASB 2
 Share-based Payment
 (AASB 2) (the more general standard) and AASB 3
 Business Combinations
@@ -929,7 +929,7 @@ Senate version-Explanatory Memorandum to the Taxation Laws Amendment (Company La
 Previously released in draft form as TR 2010/D8
 References
 ATO references:
-NO  1-2N8IME5
+NO 1-2N8IME5
 ISSN: 1039-0731
 Related Rulings/Determinations:
 TR 2003/8

@@ -7,7 +7,7 @@ paragraph: "¶23-200"
 ---
 # Calculating luxury car tax ¶23-200
 
-The luxury car tax (LCT) is calculated by applying the LCT rate to the excess (excluding the GST component) of the car’s value over the LCT threshold (LCT Act ss 5-15, 7-15). Mathematically represented by the formula: LCT rate × 10/11 × (LCT value − LCT threshold) The LCT rate, as prescribed in the relevant Imposition Acts (¶23-000), is 33%. However, primary producers and tourist operators are entitled to refunds for certain cars that may reduce their effective rates to 25% (¶23-210).
+The luxury car tax (LCT) is calculated by applying the LCT rate to the excess (excluding the GST component) of the car's value over the LCT threshold (LCT Act ss 5-15, 7-15). Mathematically represented by the formula: LCT rate × 10/11 × (LCT value − LCT threshold) The LCT rate, as prescribed in the relevant Imposition Acts (¶23-000), is 33%. However, primary producers and tourist operators are entitled to refunds for certain cars that may reduce their effective rates to 25% (¶23-210).
 
 LCT on sales To calculate the amount of LCT payable on a sale of a luxury car: Step 1:         Calculate the amount by which the LCT value of the car exceeds the LCT threshold.
 
@@ -33,7 +33,7 @@ Step 3:         Multiply the amount calculated in Step 2 by 33% to determine the
 
 Step 4:         Add this amount to the GST-inclusive price of the car to determine the total cost (ie $94,000 + $783 = $94,783).
 
-If the car is sold for an “all-up” price including GST and LCT, these amounts can be worked out as follows: Example: Calculating LCT — all-up price Continuing the general threshold calculation above, except that the $90,000 price is an all-up amount including GST and LCT (but not stamp duty, registration, etc (¶23-150)). The GST and LCT components are calculated as follows:
+If the car is sold for an "all-up" price including GST and LCT, these amounts can be worked out as follows: Example: Calculating LCT — all-up price Continuing the general threshold calculation above, except that the $90,000 price is an all-up amount including GST and LCT (but not stamp duty, registration, etc (¶23-150)). The GST and LCT components are calculated as follows:
 
 - Take out the GST and LCT components (10% + 33% = 43%) of the amount of the price above the LCT threshold. The
 

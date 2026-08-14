@@ -36,7 +36,29 @@ def get_definition_text_route(act: str, term: str):
 
 @router.get("/api/section-defined-terms/{act}/{section}")
 def section_defined_terms(act: str, section: str):
-    """Return defined terms that appear in a section's body text."""
+    """Return defined terms that appear in a section's body text.
+
+    For dictionary sections (6, 195-1, 995-1), terms are returned from the
+    definitions index because the raw body uses plain-text definition
+    patterns (not wrapped in *asterisks*), which the formatting pipeline
+    only wraps at serve time.
+    """
+    defs = load_definitions(act)
+    if not defs:
+        return {"act": act, "section": section, "count": 0, "terms": []}
+
+    # Dictionary sections: return all terms from the index for this section
+    DICT_SECTIONS = frozenset({"6", "195-1", "995-1"})
+    if section in DICT_SECTIONS:
+        found = [
+            {"term": term, "section": info.get("section", ""), "anchor": info.get("anchor", "")}
+            for term, info in defs.items()
+            if info.get("section") == section
+        ]
+        found.sort(key=lambda t: len(t["term"]), reverse=True)
+        return {"act": act, "section": section, "count": len(found), "terms": found}
+
+    # Non-dictionary sections: scan body text for *italicized* terms
     try:
         fm, body = get_act_section_content(act, section)
     except HTTPException:
@@ -48,11 +70,6 @@ def section_defined_terms(act: str, section: str):
     if not body:
         return {"act": act, "section": section, "count": 0, "terms": []}
 
-    defs = load_definitions(act)
-    if not defs:
-        return {"act": act, "section": section, "count": 0, "terms": []}
-
-    # Only match italicized/bold terms (not plain-text substring matching)
     found = []
     seen = set()
     for m in re.finditer(r"\*([^*\n]+?)\*", body):

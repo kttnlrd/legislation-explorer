@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **(5)**  For an item of affected property, replacement property must be an improvement to farm land as described in schedule 20, part A (Expenditure on farming, horticultural, aquacultural, and forestry improvements) or a listed horticultural plant—
 
-- (a) acquired in or before the person’s 2027–28 income year; and
+- (a) acquired in or before the person's 2027–28 income year; and
 
 - (b) located in New Zealand.
 

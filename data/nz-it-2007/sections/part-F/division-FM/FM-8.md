@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(3)**  Despite subsection (2), this section does not apply to—
 
-- (a) an amount arising from the disposal of the company’s trading stock; or
+- (a) an amount arising from the disposal of the company's trading stock; or
 
 - (b) an amount arising under section EW 31 (Base price adjustment formula) from—
 

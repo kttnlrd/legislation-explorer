@@ -17,7 +17,7 @@ Upon completion of the conversion course, he found a job as a junior auditor emp
 
 - Textbooks – $430
 
-In addition, during the year, Ron attends, at his own cost, the CPA Public Practice Retreat in Lorne, covering such topics as “understanding the current economic situation”, “ethics and technology”, “how to be a confident leader”, “health and well-being in a digital world” and an “essential tax update”. The fee for attending the 3-day retreat is $789. In addition, he incurs travel and accommodation expenses for a further $549, plus the cost of an optional ticket to a gala dinner held at the end of the conference ($50). Ron chooses to tack on a short holiday after the conference and stays on in the resort for a further 3 nights at a cost (for accommodation and food) of $1,000.
+In addition, during the year, Ron attends, at his own cost, the CPA Public Practice Retreat in Lorne, covering such topics as "understanding the current economic situation", "ethics and technology", "how to be a confident leader", "health and well-being in a digital world" and an "essential tax update". The fee for attending the 3-day retreat is $789. In addition, he incurs travel and accommodation expenses for a further $549, plus the cost of an optional ticket to a gala dinner held at the end of the conference ($50). Ron chooses to tack on a short holiday after the conference and stays on in the resort for a further 3 nights at a cost (for accommodation and food) of $1,000.
 
 Advise Ron on the deductibility of the above expenses.
 
@@ -29,7 +29,7 @@ The Ruling reflects the current rules following the changes in 2022 that removed
 
 The guidance explains that self-education expenses are incurred in gaining or producing your assessable income if either or both of the following apply:
 
-- The individual’s income-earning activities are based on the exercise of a skill or some specific
+- The individual's income-earning activities are based on the exercise of a skill or some specific
 
   knowledge and the self-education enables the individual to maintain or improve that skill or knowledge,
 
@@ -39,7 +39,7 @@ The guidance explains that self-education expenses are incurred in gaining or pr
 
 - The self-education objectively leads to, or is likely to lead to, an increase in income from the
 
-  taxpayer’s current income-earning activities in the future. The following factors are relevant:
+  taxpayer's current income-earning activities in the future. The following factors are relevant:
 
 – the increase in income is clearly linked to the self-education undertaken – there is a real opportunity for promotion resulting from the self-education – the self-education leads to or is likely to lead to a higher pay grade in the current income-earning activities – advancement of employment and salary must be a substantial part of the motive for undertaking the self-education.
 
@@ -87,13 +87,13 @@ Examples of what could be claimable include:
 
 - Student Union and Course-related Fees
 
-- Professional Journals and Magazines, provided they are relevant to the taxpayer’s field of work
+- Professional Journals and Magazines, provided they are relevant to the taxpayer's field of work
 
 - Workshops and Seminars
 
 - Examination Fees.
 
-Applying the above, Ron is not entitled to a deduction for the self-education expenses relating to the conversion course because the study is designed to get future employment in the accounting field. The expenses are incurred at a point too soon to be regarded as incurred in gaining or producing assessable income. Although he was engaged in deriving assessable income as a taxi driver for the duration of the course, this is not relevant to the nature of the course, which was to provide him with the skills necessary to obtain a job in accounting. Accordingly, no deduction is available and he should not amend the prior year returns (see example 9 in TR 2024/3) The expenses related to the Graduate Certificate are also not deductible (including the home office costs and textbooks). The study will lead to an increase in his income arising from the promotion within the firm but the position is materially different (his current role is as an auditor and the suggested promotion is into the specialist tax advisory area). Therefore, the Graduate Certificate will open up a new income-earning activity with Ron’s current employer and there is not a clear relationship between the cost of the course and Ron’s current income-earning activities (see example 8 in TR 2024/3).
+Applying the above, Ron is not entitled to a deduction for the self-education expenses relating to the conversion course because the study is designed to get future employment in the accounting field. The expenses are incurred at a point too soon to be regarded as incurred in gaining or producing assessable income. Although he was engaged in deriving assessable income as a taxi driver for the duration of the course, this is not relevant to the nature of the course, which was to provide him with the skills necessary to obtain a job in accounting. Accordingly, no deduction is available and he should not amend the prior year returns (see example 9 in TR 2024/3) The expenses related to the Graduate Certificate are also not deductible (including the home office costs and textbooks). The study will lead to an increase in his income arising from the promotion within the firm but the position is materially different (his current role is as an auditor and the suggested promotion is into the specialist tax advisory area). Therefore, the Graduate Certificate will open up a new income-earning activity with Ron's current employer and there is not a clear relationship between the cost of the course and Ron's current income-earning activities (see example 8 in TR 2024/3).
 
 Ron can claim a deduction for the expenses to attend the CPA Public Practice Retreat. Although many of the subjects covered during the session are linked to personal development rather than strictly professional development, the course assists him to maintain or improve some of the skills required in his employment and improve the performance of his current duties (examples 1 and 2). The expenditure on travel and accommodation will also be deductible (see example 31 in TR 2024/3).
 

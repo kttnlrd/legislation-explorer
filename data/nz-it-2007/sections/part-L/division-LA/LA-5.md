@@ -28,9 +28,9 @@ compilation_date: 2026-06-06
 
 **Research and development tax credits**
 
-**(4B)**  A person’s research and development tax credit is used by—
+**(4B)**  A person's research and development tax credit is used by—
 
-- (a) first, the Commissioner refunding the tax credit up to the maximum limit of the person’s refundability cap, by treating it as a refundable tax credit and applying section LA 6(2). There is no maximum limit for refunding the tax credit, if and to the extent to which—
+- (a) first, the Commissioner refunding the tax credit up to the maximum limit of the person's refundability cap, by treating it as a refundable tax credit and applying section LA 6(2). There is no maximum limit for refunding the tax credit, if and to the extent to which—
 
   - (i) the person is a levy body researcher:
 
@@ -52,15 +52,15 @@ compilation_date: 2026-06-06
 
 - (a) own tax is the total amount of PAYE, ESCT, and FBT that the person (person A) pays for the tax year to the extent to which the total amount has not been allocated under paragraph (b) or (c) to another person for the purposes of calculating their refundability cap for the tax year:
 
-- (b) other wholly-owned tax is zero or, if person A is a company and is a member of a wholly-owned group of companies, is the amount of PAYE, ESCT, and FBT that the other members pay for the tax year and that is allocated to person A for the purposes of calculating person A’s refundability cap for the tax year:
+- (b) other wholly-owned tax is zero or, if person A is a company and is a member of a wholly-owned group of companies, is the amount of PAYE, ESCT, and FBT that the other members pay for the tax year and that is allocated to person A for the purposes of calculating person A's refundability cap for the tax year:
 
 - (c) other controller tax is zero or, if person A is a company, is the total amount of PAYE, ESCT, and FBT that companies that directly or indirectly control person A pay for the tax year and that is allocated to person A for the purposes of calculating their refundability cap for the tax year:
 
-- (d) double-dip allocation means the total amount allocated to person A under paragraphs (b) and (c) that has been allocated to a person other than person A for the purposes of calculating the other person’s refundability cap for the tax year.
+- (d) double-dip allocation means the total amount allocated to person A under paragraphs (b) and (c) that has been allocated to a person other than person A for the purposes of calculating the other person's refundability cap for the tax year.
 
 **Relationship with material**
 
-**(5D)**  Section LZ 14 (Research and development tax credits’ refundability: option for 2019–20 income year) may modify this section for a person’s research and development tax credits for the 2019–20 income year.
+**(5D)**  Section LZ 14 (Research and development tax credits' refundability: option for 2019–20 income year) may modify this section for a person's research and development tax credits for the 2019–20 income year.
 
 *Defined in this Act: approved research provider, Commissioner, eligible research and development expenditure, ESCT, FBT, foreign attributed income, foreign income tax, imputation credit, income tax, levy body researcher, non-refundable tax credit, PAYE, refundability cap, refundable tax credit, research and development tax credit, supplementary dividend, tax credit*
 

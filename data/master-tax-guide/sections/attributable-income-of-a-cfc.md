@@ -7,7 +7,7 @@ paragraph: "¶21-200"
 ---
 # Attributable income of a CFC ¶21-200
 
-The attributable income of a foreign company must be calculated where, at the end of the company’s statutory accounting period:
+The attributable income of a foreign company must be calculated where, at the end of the company's statutory accounting period:
 
 - the company was a CFC (¶21-150). Where a CFC ceases to exist before the end of its statutory
 
@@ -19,7 +19,7 @@ The attributable income of a foreign company must be calculated where, at the en
 
 Where these conditions are satisﬁed, the attributable income of the CFC for that statutory period must be calculated separately for each attributable taxpayer.
 
-A CFC’s attributable income will be calculated on a notional basis using, in a modiﬁed form, the rules that apply for the calculation of the taxable income of a resident company (ITAA36 ss 381 to 431). The most important modiﬁcations relate to the application of the CGT provisions (see below), the treatment of depreciating assets and trading stock, currency translation and the deductibility of taxes paid. The commercial debt forgiveness provisions (¶16-910) do not apply for the purpose of attributing income derived by a CFC to resident taxpayers and neither do the thin capitalisation or debt creation rules.
+A CFC's attributable income will be calculated on a notional basis using, in a modiﬁed form, the rules that apply for the calculation of the taxable income of a resident company (ITAA36 ss 381 to 431). The most important modiﬁcations relate to the application of the CGT provisions (see below), the treatment of depreciating assets and trading stock, currency translation and the deductibility of taxes paid. The commercial debt forgiveness provisions (¶16-910) do not apply for the purpose of attributing income derived by a CFC to resident taxpayers and neither do the thin capitalisation or debt creation rules.
 
 The types of income that will be included in the attributable income of a CFC depend on whether it is resident in a listed or unlisted country and whether it passes the active income test (¶21-180).
 
@@ -45,7 +45,7 @@ Listed country CFCs The attributable income of a CFC resident in a listed countr
 
 The attributable income of a listed country CFC that passes the active income test will include the same forms of income except for eligible designated concession income (s 385(2)).
 
-Income excluded from attributable income The attributable income of a CFC resident in an unlisted or a listed country does not include the following “notional exempt income” (ss 402 to 404):
+Income excluded from attributable income The attributable income of a CFC resident in an unlisted or a listed country does not include the following "notional exempt income" (ss 402 to 404):
 
 - income of the CFC assessable for Australian tax purposes independently of the operation of the
 
@@ -61,7 +61,7 @@ De minimis exemption for listed country CFCs A de minimis exemption applies so t
 
 For a listed country CFC with a gross turnover of less than $1 million, the exemption applies where the sum of the 3 amounts does not exceed 5% of the gross turnover. Where a listed country CFC has a gross turnover of more than $1 million, it applies where the sum of the 3 amounts does not exceed $50,000.
 
-Prior year losses A CFC’s attributable income may be reduced by prior year losses. A loss from a previous year can only be taken into account as a notional deduction if the CFC was a CFC during the year in which the loss was incurred and in all intervening years. In addition, a notional deduction is not generally available for prior year losses where a CFC changes its country of residence from a listed country to an unlisted country (or vice versa). A CFC’s prior year losses will generally be reduced by the CFC’s “sometimes-exempt income”, ie broadly, an amount which was not included in the CFC’s attributable income because the CFC passed the active income test or it fell within the de minimis exemption (see above) (ss 425 to 431).
+Prior year losses A CFC's attributable income may be reduced by prior year losses. A loss from a previous year can only be taken into account as a notional deduction if the CFC was a CFC during the year in which the loss was incurred and in all intervening years. In addition, a notional deduction is not generally available for prior year losses where a CFC changes its country of residence from a listed country to an unlisted country (or vice versa). A CFC's prior year losses will generally be reduced by the CFC's "sometimes-exempt income", ie broadly, an amount which was not included in the CFC's attributable income because the CFC passed the active income test or it fell within the de minimis exemption (see above) (ss 425 to 431).
 
 Currency translation rules For the rules governing the conversion of amounts expressed in a foreign currency into Australian or functional currency, see ¶23-070 and TD 2006/6.
 
@@ -71,11 +71,11 @@ Modified application of CGT provisions A number of modiﬁcations to the operati
 
   disposal of an asset by a CFC, all assets owned by the CFC immediately before it became a
 
-CFC which are not of a type that would expose a non-resident to CGT (¶12-720) (referred to as “commencing day assets”) are treated as having been acquired by the CFC on its “commencing day”. The cost base of the asset is deemed to be the greater of the asset’s cost base or market value at the end of the commencing day; the ﬁrst element of the reduced cost base of each such asset is the lesser of its market value or its cost base at the end of that day. For a CFC in existence as at 30 June 1990, its commencing day is 30 June 1990; for any other CFC, its commencing day is the ﬁrst day after 30 June 1990 at the end of which it was a CFC. This means that, in relation to a post-30 June 1995 CGT event aﬀecting an asset which is not of a type that would expose a non-resident to CGT (¶12-720), the attributable income of a CFC will include only the gain or loss accruing from the time the asset was acquired or its commencing day, whichever is later (ss 406; 411; 412). Where a company becomes a CFC after 30 June 1995, CGT events or asset disposals made before its commencing day will not be taken into account in the calculation of its attributable income. Note that, with general eﬀect from 1 July 2005, the deﬁnition of “commencing day” is eased so that it will be the later of: (i) the last day of the most recent period during which there was not an attributable taxpayer with a positive attribution percentage in relation to the CFC; and (ii) 30 June 1990.
+CFC which are not of a type that would expose a non-resident to CGT (¶12-720) (referred to as "commencing day assets") are treated as having been acquired by the CFC on its "commencing day". The cost base of the asset is deemed to be the greater of the asset's cost base or market value at the end of the commencing day; the ﬁrst element of the reduced cost base of each such asset is the lesser of its market value or its cost base at the end of that day. For a CFC in existence as at 30 June 1990, its commencing day is 30 June 1990; for any other CFC, its commencing day is the ﬁrst day after 30 June 1990 at the end of which it was a CFC. This means that, in relation to a post-30 June 1995 CGT event aﬀecting an asset which is not of a type that would expose a non-resident to CGT (¶12-720), the attributable income of a CFC will include only the gain or loss accruing from the time the asset was acquired or its commencing day, whichever is later (ss 406; 411; 412). Where a company becomes a CFC after 30 June 1995, CGT events or asset disposals made before its commencing day will not be taken into account in the calculation of its attributable income. Note that, with general eﬀect from 1 July 2005, the deﬁnition of "commencing day" is eased so that it will be the later of: (i) the last day of the most recent period during which there was not an attributable taxpayer with a positive attribution percentage in relation to the CFC; and (ii) 30 June 1990.
 
 - Where the commencing day assets of a CFC include shares or units in a unit trust and, during
 
-  the time from when they were acquired up to the CFC’s commencing day, a payment representing
+  the time from when they were acquired up to the CFC's commencing day, a payment representing
 
   a return of capital is made on those shares or units, their cost base as at the commencing day is
 
@@ -111,7 +111,7 @@ CFC which are not of a type that would expose a non-resident to CGT (¶12-720) (
 
   relief is reversed (when the recipient CFC subsequently leaves the group (CGT event J1)), must be
 
-  included in the CFC’s attributable income if it fails the active income test.
+  included in the CFC's attributable income if it fails the active income test.
 
 - Adjustments are made to the consideration received on the happening of a CGT event in relation
 

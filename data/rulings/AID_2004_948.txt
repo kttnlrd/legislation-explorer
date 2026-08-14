@@ -3,21 +3,16 @@ ATO ID 2004/948
 ==================================================
 
 Goods and services tax
-        GST and supply of goods imported by a recipient where the non-resident supplier subsequently installs the goods in Australia under a separate contract
-        FOI status: may be released
-
+ GST and supply of goods imported by a recipient where the non-resident supplier subsequently installs the goods in Australia under a separate contract
+ FOI status: may be released
 
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a non-resident, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it supplies goods, to an Australian customer, that it subsequently installs in Australia under a separate contract?
@@ -31,8 +26,6 @@ At a later date, both parties entered into a separate contract where the entity 
 Reasons for Decision
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 
-
-
 •it makes the supply for consideration
 •it makes the supply in the course or furtherance of an enterprise that it carries on
 •the supply is connected with Australia, and
@@ -41,8 +34,6 @@ Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 The entity sold goods to a customer, for consideration, in the course of an enterprise that it carries on and it is registered for GST. Furthermore, the supply is neither GST-free nor input taxed. Therefore, if the entity's supply is connected with Australia, it will be a taxable supply.
 Subsection 9-25(3) of the GST Act provides that a supply of goods that involves the goods being brought to Australia is connected with Australia if the supplier either:
-
-
 
 (a)imports the goods into Australia, or
 (b)installs or assembles the goods in Australia.
@@ -55,31 +46,29 @@ At a later date and before the goods were imported into Australia, both parties 
 Notwithstanding that the parties enter into separate contracts, paragraph 9-25(3)(b) of the GST Act applies because the entity agrees to install, in Australia, the goods that it supplied and that were brought to Australia. As such, the supply of the goods is connected with Australia.
 Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies goods, to an Australian customer, that it subsequently installs in Australia under a separate contract.
 Date of decision:
-         8 June 2004
+  8 June 2004
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-25   subsection 9-25(3)   paragraph 9-25(3)(a)   paragraph 9-25(3)(b)
 
-
 Keywords
 
 Goods and services tax
-          GST international services
-          Connected with Australia
-          GST supplies & acquisitions
-          GST supply
-          Taxable supply
-
+ GST international services
+ Connected with Australia
+ GST supplies & acquisitions
+ GST supply
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         3976137
+  3976137
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         26 November 2004
+  26 November 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

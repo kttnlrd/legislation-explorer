@@ -10,17 +10,17 @@ compilation_date: 2026-06-06
 ---
 # EK 4  Environmental restoration account
 
-**Person’s account**
+**Person's account**
 
 **(1)**  The Commissioner must keep an environmental restoration account in the name of every person who makes a payment to the Commissioner under section EK 2.
 
 **Payments in account**
 
-**(2)**  Every payment under section EK 2 that a person makes to the Commissioner must be entered in the person’s environmental restoration account.
+**(2)**  Every payment under section EK 2 that a person makes to the Commissioner must be entered in the person's environmental restoration account.
 
 **Amounts in account**
 
-**(3)**  The only amounts that may be entered in a person’s environmental restoration account are—
+**(3)**  The only amounts that may be entered in a person's environmental restoration account are—
 
 - (a) payments made by the person to the Commissioner under section EK 2:
 
@@ -30,19 +30,19 @@ compilation_date: 2026-06-06
 
 **Amounts not available to others**
 
-**(4)**  An amount entered in a person’s environmental restoration account may not, while in the account,—
+**(4)**  An amount entered in a person's environmental restoration account may not, while in the account,—
 
 - (a) be assigned or charged in any way:
 
 - (b) pass by operation of law to, or into the custody or control of, someone else, except when the person is bankrupt or has been put into liquidation:
 
-- (c) be an asset for the payment of the person’s debts or liabilities, except when the person is bankrupt or has been put into liquidation:
+- (c) be an asset for the payment of the person's debts or liabilities, except when the person is bankrupt or has been put into liquidation:
 
-- (d) be an asset for the payment of the debts or liabilities of a dead person’s estate.
+- (d) be an asset for the payment of the debts or liabilities of a dead person's estate.
 
 **Amounts not available except for refunds or transfers**
 
-**(5)**  An amount entered in a person’s environmental restoration account may not be removed from the environmental restoration account except by a refund under section EK 9 or EK 12 or by a transfer under subsection (6).
+**(5)**  An amount entered in a person's environmental restoration account may not be removed from the environmental restoration account except by a refund under section EK 9 or EK 12 or by a transfer under subsection (6).
 
 **Transfers of amounts**
 

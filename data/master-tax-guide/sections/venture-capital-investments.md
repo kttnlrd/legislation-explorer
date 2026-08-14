@@ -13,7 +13,7 @@ Profits on venture capital investment Income tax exemptions that correspond to t
 
 - an eligible non-resident partner in a venture capital limited partnership (VCLP: ¶5-040) is exempt
 
-  from income tax on the partner’s share of a gain or proﬁt made by the VCLP from the disposal or
+  from income tax on the partner's share of a gain or proﬁt made by the VCLP from the disposal or
 
   other realisation by the VCLP of an eligible venture capital investment (s 51-54(1)). The VCLP
 
@@ -25,7 +25,7 @@ Profits on venture capital investment Income tax exemptions that correspond to t
 
 - an eligible venture capital partner in an Australian venture capital fund of funds (AFOF: ¶5-040)
 
-  is exempt from income tax on the partner’s share of a proﬁt or gain made by either the AFOF
+  is exempt from income tax on the partner's share of a proﬁt or gain made by either the AFOF
 
   itself or a VCLP in which the AFOF is a partner. The AFOF and VCLP must be unconditionally
 
@@ -47,7 +47,7 @@ Profits on venture capital investment Income tax exemptions that correspond to t
 
 (¶11-900) if it were a disposal of a CGT asset. This requires, for example, that the investment was held at risk and owned by the investor for at least 12 months. Any loss on the investment is not deductible (ITAA97 s 26-68(3)).
 
-The venture capital tax concessions are available for investments in ﬁnancial technology businesses (“ﬁntech”) made on or after 1 July 2018 (¶20-700).
+The venture capital tax concessions are available for investments in ﬁnancial technology businesses ("ﬁntech") made on or after 1 July 2018 (¶20-700).
 
 Investment by foreign pension funds Income tax exemptions that correspond to the CGT exemptions in Subdiv 118-G are contained in s 51-55.
 

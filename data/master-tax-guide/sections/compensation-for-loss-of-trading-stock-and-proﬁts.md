@@ -9,7 +9,7 @@ paragraph: "¶10-170"
 
 Insurance payments or other receipts in respect of lost trading stock, eg by ﬁre, compulsory takeover or destruction, etc, and amounts received for loss of proﬁts or income due to an interruption to business, eg caused by ﬁre, rain, etc, are assessable either as ordinary income under ITAA97 s 6-5 or statutory income under ITAA97 s 15-30 or 70-115. So, for example, the following payments have been held to be assessable:
 
-- compensation paid to a poultry farmer for loss of income suﬀered when many of the farmer’s
+- compensation paid to a poultry farmer for loss of income suﬀered when many of the farmer's
 
   hens died or became sick because of excessive amounts of pesticide in their feed (Gill v Australian
 
@@ -19,7 +19,7 @@ Wheat Board 81 ATC 4217)
 
   represented the diﬀerence between the rent paid by the tenant and the rent obtainable on the open
 
-  market (Raja’s Commercial College v Gian Singh & Co (1976) 2 All ER 801)
+  market (Raja's Commercial College v Gian Singh & Co (1976) 2 All ER 801)
 
 - damages for lost proﬁts awarded to a lift installation and maintenance company against a
 

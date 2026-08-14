@@ -11,7 +11,7 @@ Early identification of relevant issues and common errors (¶18-170; ¶18-180) s
 
 The major steps that need to be taken in implementing a GST compliance program include:
 
-- ensure that you “know” your business and how GST applies to it
+- ensure that you "know" your business and how GST applies to it
 
 - ensure that internal accounting and information systems reliably and verifiably capture all the
 

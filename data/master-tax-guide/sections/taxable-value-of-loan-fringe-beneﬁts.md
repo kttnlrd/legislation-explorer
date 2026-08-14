@@ -17,7 +17,7 @@ Pre-1 July 1986 fixed interest loans.
 
 The statutory interest rate for ﬁxed interest loans made before 1 July 1986 is the lesser of the benchmark rate for the year and the rate speciﬁed in the Schedule to the FBTAA for the time when the loan was made.
 
-The speciﬁed rate for ﬁxed interest loans made before 1 January 1946 is 3.875%. For ﬁxed interest loans made from 1 January 1946 to 30 June 1986, the speciﬁed rates are obtained from the Schedule plus the deﬁnition of “benchmark interest rate” in s 136(1).
+The speciﬁed rate for ﬁxed interest loans made before 1 January 1946 is 3.875%. For ﬁxed interest loans made from 1 January 1946 to 30 June 1986, the speciﬁed rates are obtained from the Schedule plus the deﬁnition of "benchmark interest rate" in s 136(1).
 
 Pre-3 April 1986 variable interest housing loans.
 
@@ -25,7 +25,7 @@ For variable interest housing loans made before 3 April 1986, the statutory rate
 
 Remote area housing loans.
 
-Where a loan is a remote area housing loan (s 142(1)), the taxable value of any loan beneﬁt arising from the loan is reduced by 50% (s 60(1)). As to what is a “remote area”, see ¶35-430.
+Where a loan is a remote area housing loan (s 142(1)), the taxable value of any loan beneﬁt arising from the loan is reduced by 50% (s 60(1)). As to what is a "remote area", see ¶35-430.
 
 Employee remuneration trust loans.
 

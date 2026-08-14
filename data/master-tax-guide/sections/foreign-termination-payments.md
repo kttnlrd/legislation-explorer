@@ -17,7 +17,7 @@ ITAA97 Subdiv 83-D provides for the tax treatment of termination payments arisin
 
 A payment received by a taxpayer in respect of a foreign resident period is not assessable income and is not exempt income if:
 
-- it was received in consequence of the termination of the taxpayer’s employment in a foreign
+- it was received in consequence of the termination of the taxpayer's employment in a foreign
 
   country
 
@@ -37,13 +37,13 @@ Such a payment will not be tax-free under s 83-235, either in whole or in part (
 
 Termination payments — Australian resident period A payment received by a taxpayer is not assessable income and is not exempt income if it was received in consequence of:
 
-- the termination of the taxpayer’s employment in a foreign country, or
+- the termination of the taxpayer's employment in a foreign country, or
 
-- the termination of the taxpayer’s engagement on qualifying service on an approved project (within
+- the termination of the taxpayer's engagement on qualifying service on an approved project (within
 
   the meaning of ITAA36 s 23AF) in relation to a foreign country (ITAA97 s 83-240).
 
-“Termination” for the above purposes includes retirement from the engagement and cessation of the engagement because of the death.
+"Termination" for the above purposes includes retirement from the engagement and cessation of the engagement because of the death.
 
 For the payment to be non-assessable non-exempt income, the following conditions must also be met:
 
@@ -59,15 +59,15 @@ For the payment to be non-assessable non-exempt income, the following conditions
 
 - the payment is not exempt from income tax under the law of the foreign country
 
-- for a period of employment — the taxpayer’s foreign earnings from the employment are exempt
+- for a period of employment — the taxpayer's foreign earnings from the employment are exempt
 
   from income tax under ITAA36 s 23AG (¶10-860) (Blank 2016 ATC ¶20-587; [2016] HCA 42:
 
   exempt foreign earnings must be derived exclusively from foreign service; Lochtenberg 2019 ATC
 
-¶20-702; [2019] FCA 1167: not exempt as foreign earnings lacked the requisite connection with the taxpayer’s foreign service), and
+¶20-702; [2019] FCA 1167: not exempt as foreign earnings lacked the requisite connection with the taxpayer's foreign service), and
 
-- for a period of engagement — the taxpayer’s eligible foreign remuneration from the service is
+- for a period of engagement — the taxpayer's eligible foreign remuneration from the service is
 
   exempt from income tax under s 23AF.
 

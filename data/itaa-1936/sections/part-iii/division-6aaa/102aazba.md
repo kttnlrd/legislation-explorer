@@ -38,7 +38,7 @@ For the purposes of applying this Act in calculating the attributable income of 
 > **(g)** any reference in those sections to a commencing day asset were a reference to the asset; and
 
 > <a id="s102AAZBA-h"></a>
-> **(h)** any reference in those sections relating to the eligible CFC’s commencing day or the day following the eligible CFC’s commencing day were a reference relating respectively to the residence-change time or a time immediately after the residence-change time; and
+> **(h)** any reference in those sections relating to the eligible CFC's commencing day or the day following the eligible CFC's commencing day were a reference relating respectively to the residence-change time or a time immediately after the residence-change time; and
 
 > <a id="s102AAZBA-j"></a>
 > **(j)** subsections 412(2) and (3), and paragraphs 414(3)(b) and (4)(b), referred only to the market value of the asset concerned.

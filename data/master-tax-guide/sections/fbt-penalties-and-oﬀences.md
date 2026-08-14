@@ -9,7 +9,7 @@ paragraph: "¶35-750"
 
 The uniform penalty regime contained in TAA sch 1 Pt 4-25 applies for all FBT related matters (¶29-000).
 
-- a tax agent’s failure to provide a taxpayer with the original of, or a copy of, any notice of
+- a tax agent's failure to provide a taxpayer with the original of, or a copy of, any notice of
 
   assessment (s 70D; ¶35-030) (30 penalty units), and
 

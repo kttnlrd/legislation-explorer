@@ -3,23 +3,18 @@ ATO ID 2004/180
 ==================================================
 
 Goods and Services Tax
-        GST and attribution of GST where a 'core deposit' forms part of the consideration
-        FOI status: may be released
+ GST and attribution of GST where a 'core deposit' forms part of the consideration
+ FOI status: may be released
 
-
-The ATO view for this issue is covered in Fact Sheet -  GST and sale of reconditioned parts (NAT 13259).
+The ATO view for this issue is covered in Fact Sheet - GST and sale of reconditioned parts (NAT 13259).
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Under subsection 29-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), does the entity, a supplier of reconditioned motor vehicle parts, attribute 1/11th of the price of its supply of a reconditioned part to the tax period in which it issues an invoice for the supply where the price of the supply includes an amount called a 'core deposit'?
@@ -32,15 +27,11 @@ The entity accounts for goods and services tax (GST) on a non-cash basis. When i
 Reasons for Decision
 Under subsection 29-5(1) of the GST Act, if an entity accounts for GST on a non-cash basis the GST payable on a taxable supply is attributed to the tax period in which one of the following occurs:
 
-
-
 • any of the consideration is received for the supply, or
 • if, before any of the consideration is received, an invoice is issued relating to the supply - the tax period in which the invoice is issued.
 
 The entity has issued an invoice. Therefore, the entity is required to attribute the GST payable in that tax period. However, as the price includes a 'core deposit' it needs to be determined how much GST the entity is required to attribute.
 Subsection 99-5(1) of the GST Act provides that a deposit held as security for the performance of an obligation is not treated as consideration for a supply unless the deposit:
-
-
 
 • is forfeited because of a failure to perform the obligation, or
 • is applied as all or part of the consideration for a supply.
@@ -50,7 +41,7 @@ Subsection 99-5(1) of the GST Act requires that the deposit be 'a deposit held a
 The entity's customer is not obliged to supply the entity with their used motor vehicle part. The 'core deposit' is an inducement for the customer to supply the entity with their used motor vehicle part rather than an amount held as security for the performance of an obligation. Therefore, the 'core deposit' is not a deposit held as security for an obligation and Division 99 of the GST Act does not apply. The 'core deposit' is part of the consideration for the supply of the reconditioned motor vehicle part. Accordingly, the basic attribution rules in Division 29 of the GST Act apply.
 Therefore, under subsection 29-5(1) of the GST Act the entity attributes 1/11th of the price of its supply of a reconditioned motor vehicle part to the tax period in which it issues an invoice for the supply where the price of the supply includes an amount called a 'core deposit'.
 Date of decision:
-         23 December 2002
+  23 December 2002
 
 Legislative References:
 
@@ -63,33 +54,29 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST tax periods
-          Attribution rules
-          Non cash basis
-          GST supplies & acquisitions
-          GST consideration
-          Taxable supply
-
+ GST tax periods
+ Attribution rules
+ Non cash basis
+ GST supplies & acquisitions
+ GST consideration
+ Taxable supply
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         27 February 2004
+  27 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 23 December 2002

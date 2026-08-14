@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Purpose of rules**
 
-**(1)**  The purpose of this section and sections GC 7 to GC 14 is to substitute an arm’s length consideration in the calculation of a person’s net income if the person’s net income is reduced by the conditions of a cross-border arrangement—
+**(1)**  The purpose of this section and sections GC 7 to GC 14 is to substitute an arm's length consideration in the calculation of a person's net income if the person's net income is reduced by the conditions of a cross-border arrangement—
 
 - (a) with an associated person or with a party to a financial arrangement that is a cross-border related borrowing of the person under subsection (3B); and
 

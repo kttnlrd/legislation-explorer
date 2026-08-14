@@ -34,9 +34,9 @@ compilation_date: 2026-06-06
 
 **(3)**  In the formula,—
 
-- (a) Best Start tax credit is the person’s Best Start tax credit for the entitlement period for the dependent child, calculated using the formula in section MG 2:
+- (a) Best Start tax credit is the person's Best Start tax credit for the entitlement period for the dependent child, calculated using the formula in section MG 2:
 
-- (b) credit abatement is the person’s Best Start credit abatement, calculated using the formula in section MG 3.
+- (b) credit abatement is the person's Best Start credit abatement, calculated using the formula in section MG 3.
 
 **Extra instalment**
 

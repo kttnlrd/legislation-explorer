@@ -7,11 +7,11 @@ paragraph: "¶29-100"
 ---
 # Failure to lodge on time ¶29-100
 
-Taxpayers who fail to lodge tax returns and other documents by the due date or, if required, in the “approved form” (see below) are liable to a penalty (TAA sch 1 Div 286). However, the particular reporting obligations of the Superannuation Contributions Tax (Assessment and Collection) Act 1997, the Superannuation Guarantee (Administration) Act 1992 and the Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 do not attract the penalty provisions applicable to tax documents.
+Taxpayers who fail to lodge tax returns and other documents by the due date or, if required, in the "approved form" (see below) are liable to a penalty (TAA sch 1 Div 286). However, the particular reporting obligations of the Superannuation Contributions Tax (Assessment and Collection) Act 1997, the Superannuation Guarantee (Administration) Act 1992 and the Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 do not attract the penalty provisions applicable to tax documents.
 
 Refusal or failure to lodge a return also constitutes an oﬀence that renders the taxpayer liable to prosecution (¶29-700). When a prosecution is initiated the related administrative penalty is withdrawn under TAA s 8ZE (¶29-700).
 
-Working out the base penalty amount All entities, including individuals, are liable for the “base penalty amount” where they fail to lodge relevant documents as required. The base penalty amount is one penalty unit (¶29-000) for each 28-day period (or part thereof) that the tax document remains outstanding, up to a maximum of 500 penalty units. The amount of the penalty payable increases according to the size of the entity as follows: Penalties for failure to lodge by due date or in approved form Penalty (for each 28-day period or part thereof not Type of entity                                                                          lodged, up to a maximum of 5 penalty units)
+Working out the base penalty amount All entities, including individuals, are liable for the "base penalty amount" where they fail to lodge relevant documents as required. The base penalty amount is one penalty unit (¶29-000) for each 28-day period (or part thereof) that the tax document remains outstanding, up to a maximum of 500 penalty units. The amount of the penalty payable increases according to the size of the entity as follows: Penalties for failure to lodge by due date or in approved form Penalty (for each 28-day period or part thereof not Type of entity                                                                          lodged, up to a maximum of 5 penalty units)
 
 1                                                                      Base penalty: 1 penalty unit
 
@@ -47,7 +47,7 @@ Working out the base penalty amount All entities, including individuals, are lia
 
 - that has a global parent entity with an annual global income of $1 billion or more, or
 
-- where any member of such a global parent entity’s group (ITAA97 s 960-550).
+- where any member of such a global parent entity's group (ITAA97 s 960-550).
 
   Example
 
@@ -59,7 +59,7 @@ The BAS is the approved form for a GST return as well as notiﬁcation of PAYG w
 
 *Refs: ITAA97 s 960-550), s 388-50*
 
-agent lodgments A taxpayer who engages a registered tax or BAS agent is exempt from the penalty if a document is lodged late, and the late lodgment did not result from the agent’s intentional disregard, or recklessness as to the operation of, a taxation law (other than excise laws), provided the taxpayer had provided the agent all relevant taxation information to lodge the document in the approved form by the due date (s 286-75(1A)).
+agent lodgments A taxpayer who engages a registered tax or BAS agent is exempt from the penalty if a document is lodged late, and the late lodgment did not result from the agent's intentional disregard, or recklessness as to the operation of, a taxation law (other than excise laws), provided the taxpayer had provided the agent all relevant taxation information to lodge the document in the approved form by the due date (s 286-75(1A)).
 
 *Refs: s 286-75(1*
 

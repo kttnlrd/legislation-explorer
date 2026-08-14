@@ -11,7 +11,7 @@ All superannuation entities are liable to pay a superannuation supervisory levy 
 
 The supervisory levy is determined annually while the ﬁnancial assistance levy is determined from time to time as required (Non-SMSFs: Superannuation Supervisory Levy Imposition Act 1998, Superannuation (Financial Assistance Funding) Levy Act 1993, Financial Institutions Supervisory Levies Collection Act 1998; SMSFs: Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991, Superannuation (Self Managed Superannuation Funds) Taxation Act 1987).
 
-There is also a separate levy which is imposed on ASIC-regulated entities to recover ASIC’s regulatory costs in each ﬁnancial year (ASIC Supervisory Cost Recovery Levy Act 2017 and Regulations, ASIC Supervisory Cost Recovery Levy (Collection) Act 2017). Leviable entities include superannuation trustees and certain Australian ﬁnancial services licensees (www.asic.gov.au).
+There is also a separate levy which is imposed on ASIC-regulated entities to recover ASIC's regulatory costs in each ﬁnancial year (ASIC Supervisory Cost Recovery Levy Act 2017 and Regulations, ASIC Supervisory Cost Recovery Levy (Collection) Act 2017). Leviable entities include superannuation trustees and certain Australian ﬁnancial services licensees (www.asic.gov.au).
 
 Superannuation supervisory levy The supervisory levy amount payable by the diﬀerent superannuation entity types (ie SMSFs, SAFs, single member ADFs, PSTs and other superannuation entities) may be found in ¶18-650 of the Australian Master Superannuation Guide 2024/25.
 

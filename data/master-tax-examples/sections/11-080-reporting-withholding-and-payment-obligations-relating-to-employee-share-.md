@@ -25,7 +25,7 @@ Reporting to the ATO Trollope would be required to provide an ESS annual report 
 
 ESS interests acquired and their market value, the acquisition price of ESS interests that are shares and the exercise price of ESS interests that are rights
 
-- if the discount on ESS interests acquired under Trollope’s scheme were taxed upfront — the number
+- if the discount on ESS interests acquired under Trollope's scheme were taxed upfront — the number
 
   of ESS interests eligible for a $1,000 reduction and the number not eligible, and the discount on the
 
@@ -55,9 +55,9 @@ If Trollope is an eligible start-up company and an employee is eligible for the 
 
 The information that must be given to the ATO, or to an employee, for a financial year is prescribed by TAA Sch 1 ss 392-5 and 392-10.
 
-Withholding and payment obligations If an amount is included in an employee’s assessable income for a financial year as a result of Trollope providing ESS interests to the employee, for example, a discount is taxed upfront in the year the ESS interest is acquired, and the employee has not quoted a tax file number to Trollope, Trollope must pay TFN withholding tax to the ATO (TAA Sch 1 s 14-155).
+Withholding and payment obligations If an amount is included in an employee's assessable income for a financial year as a result of Trollope providing ESS interests to the employee, for example, a discount is taxed upfront in the year the ESS interest is acquired, and the employee has not quoted a tax file number to Trollope, Trollope must pay TFN withholding tax to the ATO (TAA Sch 1 s 14-155).
 
-For 2024–25, the TFN withholding tax rate is 47% of the assessable amount, and is due and payable by 21 days after the end of the financial year in which the relevant amount was included in the employee’s assessable income. If Trollope fails to pay the tax by the due date, general interest charge would be payable on the unpaid amount (TAA Sch 1 s 16-80). TFN withholding tax is imposed by the Income Tax (TFN Withholding Tax (ESS)) Act 2009.
+For 2024–25, the TFN withholding tax rate is 47% of the assessable amount, and is due and payable by 21 days after the end of the financial year in which the relevant amount was included in the employee's assessable income. If Trollope fails to pay the tax by the due date, general interest charge would be payable on the unpaid amount (TAA Sch 1 s 16-80). TFN withholding tax is imposed by the Income Tax (TFN Withholding Tax (ESS)) Act 2009.
 
 The amount of TFN withholding tax paid by Trollope in relation to an employee may be recovered by Trollope from the employee, and the amount may be set off against a debt due by Trollope to the employee (TAA Sch 1 s 14-165).
 

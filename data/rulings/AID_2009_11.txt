@@ -3,23 +3,18 @@ ATO ID 2009/11
 ==================================================
 
 Goods and Services Tax
-        GST and entitlement offer to new shares
-        FOI status: may be released
+ GST and entitlement offer to new shares
+ FOI status: may be released
 
-
-This ATO ID is withdrawn because it no longer reflects the ATO view as a result of  Commissioner of Taxation v. MBI Properties Pty Ltd [2014] HCA 49.
+This ATO ID is withdrawn because it no longer reflects the ATO view as a result of Commissioner of Taxation v. MBI Properties Pty Ltd [2014] HCA 49.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, which does not exercise a right to acquire shares under an entitlement offer, but is subsequently paid a premium amount, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -38,8 +33,6 @@ Reasons for Decision
 Subsection 7-1(1) of the GST Act provides that GST is payable on a taxable supply.
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 
-
-
 (a)it makes the supply for consideration
 (b)it makes the supply in the course or furtherance of an enterprise that it carries on
 (c)the supply is connected with Australia, and
@@ -52,11 +45,9 @@ Proposition 5: to 'make a supply' an entity must do something is explained in pa
 
 71. In overseas jurisdictions the term 'supply' has been held to takes its ordinary and natural meaning, being 'to furnish or to serve' or 'to furnish or provide'. The Commissioner picks up this meaning in considering the meaning of supply in the GST Act at paragraph 41 of GSTR 2004/9, a ruling which is about the assumption of liabilities:
 
-
 In adopting the ordinary and natural meaning of the term, 'to furnish or provide', it follows that an entity
-                  must take some action
-                   to 'make a supply'. This approach is consistent with the use of active phrases throughout the examples of supplies in subsection 9-10(2), such as the normalised verbs: 'a provision'; 'a grant'; 'a creation'; 'a transfer'; 'an entry into'; and 'an assignment'. (Emphasis added.)
-
+ must take some action
+ to 'make a supply'. This approach is consistent with the use of active phrases throughout the examples of supplies in subsection 9-10(2), such as the normalised verbs: 'a provision'; 'a grant'; 'a creation'; 'a transfer'; 'an entry into'; and 'an assignment'. (Emphasis added.)
 
 72. The use of the word 'make' in the context of section 9-5 was considered by Underwood J in Shaw v. Director of Housing and State of Tasmania (No. 2) ('Shaw') in relation to the payment of a judgment debt. His Honour was of the view that GST only applies where the 'supplier' makes a voluntary supply and not where a supply occurs without any action by the entity that would be the 'supplier' had there been a supply. He considered the actions of the judgment creditor with respect to the extinguishment of the debt when the judgment debtor made the payment of the judgment sum to meet the judgment debtor's obligations.
 
@@ -67,11 +58,10 @@ As the entitlement had lapsed the new shares were sold by the company in its own
 Given there is no positive action taken by the entity, we do not consider that the entity has made a supply for which the premium amount may be regarded as consideration.
 Therefore, the entity, which does not exercise a right to acquire shares under an entitlement offer, but is subsequently paid a premium amount, is not making a taxable supply.
 
-
 Note: Because the requirements of regulation 40-5.09 of the A New Tax System (Goods and Services Tax) Regulations 1999 are not satisfied, the entity is also not making an input taxed financial supply under subsection 40-5(1) of the GST Act.
 
 Date of decision:
-         24 December 2008
+  24 December 2008
 
 Legislative References:
 
@@ -85,36 +75,32 @@ Goods and Services Tax Ruling GSTR 2006/9
 Keywords
 
 Goods and services tax
-          Taxable supply
-          GST consideration
-          GST financial supplies
-          GST supply
-          Shares
-          Securities rights & options
-
+ Taxable supply
+ GST consideration
+ GST financial supplies
+ GST supply
+ Shares
+ Securities rights & options
 
 Siebel/TDMS Reference Number:
-         6131509
+  6131509
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         27 February 2009
+  27 February 2009
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 24 December 2008

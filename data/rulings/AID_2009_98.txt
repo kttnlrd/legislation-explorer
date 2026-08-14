@@ -3,18 +3,14 @@ ATO ID 2009/98
 ==================================================
 
 Excise
-        Producer rebate: pooling of grapes from which wine is manufactured
-        FOI status: may be released
-
-
+ Producer rebate: pooling of grapes from which wine is manufactured
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is an investor in a wine statutory Managed Investment Scheme (MIS) the producer, as defined in section 33-1 of the A New Tax System (Wine Equalisation Tax) Act 1999 (WET Act), of the wine, if the investor's grapes are pooled with those of other investors and the pooled grapes are manufactured into grape wine?
@@ -32,11 +28,7 @@ The grape wine is rebatable wine.
 Reasons for Decision
 Subsection 19-5(1) of the WET Act provides:
 
-
-
 1)You are entitled to a *producer rebate for *rebatable wine for a *financial year if you are the *producer of the wine and:
-
-
 
 (a)you are liable to wine tax for a *taxable dealing in the wine during the financial year; or
 (b)you would have been liable to wine tax for a dealing in the wine during the financial year had the purchaser not *quoted for the sale at or before the time of the sale.
@@ -58,7 +50,7 @@ This is further emphasised when paragraphs 19-5(1)(a) and 19-5(1)(b) of the WET 
 In the case of the wine MIS the grapes from an individual investor are not separated from other grapes. All the grapes are pooled together and wine is produced. The actual wine that resulted from a particular investor's grapes is not able to be identified. The investor does not meet the definition of producer because there is no wine that can be identified as the specific wine manufactured from the specific grapes supplied by the investor. Additionally, any wine tax payable by the investor (or any wine tax that would have been payable by the investor had the purchaser not quoted) is based on their allocation of a proportion of the wine made from the collective grapes pooled from all the vinelots. Therefore, it cannot be established that the wine sold by a particular investor was manufactured from grapes supplied by that investor.
 Therefore, an investor in a wine statutory MIS is not the producer of the wine where the investor's grapes are pooled with those of other investors and the pooled grapes are then manufactured into grape wine.
 Date of decision:
-         26 August 2009
+  26 August 2009
 
 Legislative References:
 
@@ -67,17 +59,16 @@ A New Tax System (Wine Equalisation Tax) Act 1999   subsection 19-5(1)   p
 Keywords
 
 Wine equalisation tax
-          WET producer rebate
-
+ WET producer rebate
 
 Siebel/TDMS Reference Number:
-         6151501
+  6151501
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         4 September 2009
+  4 September 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -19,7 +19,7 @@ No deduction if amount not withheld For certain payments and non-cash beneﬁts,
 
 - of salary, wages, commissions, bonuses or allowances to an employee (¶26-150)
 
-- of directors’ fees (¶26-150)
+- of directors' fees (¶26-150)
 
 - to a religious practitioner (¶26-150)
 
@@ -31,7 +31,7 @@ No deduction if amount not withheld For certain payments and non-cash beneﬁts,
 
 Withholding an incorrect amount will not aﬀect the entitlement to a deduction. The payer will be entitled to a deduction if, in the original income year, the payer voluntarily notiﬁes the Commissioner, in the approved form, of the mistake before the Commissioner commences an audit or other compliance activity. An employer will also not be denied a deduction if it honestly, but mistakenly, believes an employee is a contractor and has complied with the no ABN withholding rule.
 
-Obligation to pay: determining PAYG withholder status The rules for when a withheld amount must be paid to the Commissioner depend on whether the “withholder” is a large, medium or small withholder. To determine an entity’s status for a particular month, apply the following tests.
+Obligation to pay: determining PAYG withholder status The rules for when a withheld amount must be paid to the Commissioner depend on whether the "withholder" is a large, medium or small withholder. To determine an entity's status for a particular month, apply the following tests.
 
 Withholder status                                                             Test to be satisﬁed Large                                               • it was a large withholder for June 2001 (TAA sch 1 s 16-95)                                 • the amounts withheld during a ﬁnancial year ending at least 2 months before the current month exceeded $1m
 
@@ -53,9 +53,9 @@ Medium                                              It is not a large withholder
 
 Small                                               It has withheld at least one amount during the month and it is neither a large nor a (TAA sch 1 s 16-105)                                medium withholder for that month.
 
-Commissioner may vary an entity’s status The Commissioner may make a determination varying an entity’s status either upwards or downwards (TAA sch 1 ss 16-110; 16-115). The determination must be in writing and must state that the determination applies for speciﬁed months. The Commissioner may revoke or vary any such determination.
+Commissioner may vary an entity's status The Commissioner may make a determination varying an entity's status either upwards or downwards (TAA sch 1 ss 16-110; 16-115). The determination must be in writing and must state that the determination applies for speciﬁed months. The Commissioner may revoke or vary any such determination.
 
-In making a determination varying an entity’s status upwards, the Commissioner may have regard to:
+In making a determination varying an entity's status upwards, the Commissioner may have regard to:
 
 - the sum of the amounts likely to be withheld by the entity in the following 12 months
 

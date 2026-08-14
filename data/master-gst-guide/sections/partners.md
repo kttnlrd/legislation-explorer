@@ -13,7 +13,7 @@ paragraph: "¶18-210"
 
 - any offence against the GST law committed by the partnership (Administration Act, Sch 1, s 444-30).
 
-Any obligations of the partnership may be discharged by any of the partners. For example, each partner has the obligation to lodge the partnership’s GST return but any partner can discharge that obligation by lodging the return.
+Any obligations of the partnership may be discharged by any of the partners. For example, each partner has the obligation to lodge the partnership's GST return but any partner can discharge that obligation by lodging the return.
 
 Example Rob, Jan and Ken are partners in an accounting partnership, Add Right. Add Right does not lodge a GST return for September.
 

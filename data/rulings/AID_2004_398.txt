@@ -3,23 +3,17 @@ ATO ID 2004/398
 ==================================================
 
 Income Tax
-        'Excluded expenditure' under the prepayment rules and the impact of GST in determining whether an amount of expenditure is less than $1,000
-        FOI status: may be released
-
-
+ 'Excluded expenditure' under the prepayment rules and the impact of GST in determining whether an amount of expenditure is less than $1,000
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a taxpayer, who is registered for goods and services tax (GST), claim an immediate deduction for prepaid expenditure when:
-
-
 
 • the amount of the expenditure inclusive of GST is $1,000 or more
 • the taxpayer is entitled to an input tax credit
@@ -39,8 +33,6 @@ Section 27-5 of the ITAA 1997 provides that a taxpayer cannot deduct, under the 
 In order to determine whether the taxpayer is entitled to an input tax credit for the loss or outgoing, consideration must be given to the GST Act.
 Section 11-20 of the GST Act provides that an entity is entitled to an input tax credit for any creditable acquisition that it makes. Under section 11-5 of the GST Act, an entity makes a creditable acquisition if all of the following requirements are met:
 
-
-
 • it acquires anything solely or partly for a creditable purpose
 • the supply of the thing to it is a taxable supply
 • it provides, or is liable to provide, consideration for the supply, and
@@ -50,14 +42,13 @@ In this instance, the taxpayer has acquired the services solely for a creditable
 As the taxpayer is entitled to an input tax credit section 27-5 of the ITAA 1997 applies so that the taxpayer can only claim the GST exclusive amount as a deduction under section 8-1 of the ITAA 1997.
 Accordingly, the deduction allowable to the taxpayer under section 8-1 of the ITAA 1997 for the prepaid expenditure will be reduced by the input tax credit of $95. As the resulting deduction of $950 is less than $1,000 it is 'excluded expenditure' and the prepayment rules do not apply. The GST exclusive amount of $950 is therefore deductible on 30 June 2003.
 
-
 Note: If the taxpayer was neither registered nor required to be registered for GST it would not be entitled to an input tax credit under section 11-20 of the GST Act. Accordingly, section 27-5 of the ITAA 1997 would not reduce the deduction for the prepaid expenditure to the GST exclusive amount. In these circumstances, where the GST inclusive amount is $1,000 or more, the amount is not 'excluded expenditure' for the purposes of the prepayment rules.
 
 Date of decision:
-         3 May 2004
+  3 May 2004
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -72,23 +63,22 @@ Related ATO Interpretative Decisions
 Keywords
 
 Adjustments
-          Advance expenses & payments
-          Creditable purpose
-          Deductions & expenses
-          Goods and services tax
-          GST net amounts & adjustments
-          GST supplies & acquisitions
-          Income tax
-
+ Advance expenses & payments
+ Creditable purpose
+ Deductions & expenses
+ Goods and services tax
+ GST net amounts & adjustments
+ GST supplies & acquisitions
+ Income tax
 
 Siebel/TDMS Reference Number:
-         4042242
+  4042242
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         7 May 2004
+  7 May 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

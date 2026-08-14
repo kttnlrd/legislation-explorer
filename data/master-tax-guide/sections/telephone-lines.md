@@ -15,6 +15,6 @@ Once the cost of a telephone line has qualiﬁed for deduction, it cannot be, or
 
 The ordinary CGT rules (rather than CGT event K7) apply where the asset is subject to a CGT event such as a disposal (ITAA97 ss 104-235; 118-24).
 
-Special rules apply if the expenditure is incurred by a partnership or in a non-arm’s length dealing or if a commercial debt is forgiven (¶18-050). Recoupments of the telephone line expenditure are assessable (¶10-270).
+Special rules apply if the expenditure is incurred by a partnership or in a non-arm's length dealing or if a commercial debt is forgiven (¶18-050). Recoupments of the telephone line expenditure are assessable (¶10-270).
 
 *Refs: s 40-645, s 104-235*

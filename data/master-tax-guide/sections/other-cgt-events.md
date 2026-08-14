@@ -11,7 +11,7 @@ emissions unit
 
 (i) there is an international transfer of a Kyoto unit or an Australian carbon credit unit (ii) as a result of the transfer the taxpayer holds the unit as a registered emissions unit, and (iii) just before the transfer, the unit was neither trading stock nor a revenue asset of the taxpayer (s 104-205).
 
-A capital gain will arise if the unit’s market value just before it started to be held as a registered emissions unit is more than its cost base. A capital loss would arise if the market value is less than its reduced cost base.
+A capital gain will arise if the unit's market value just before it started to be held as a registered emissions unit is more than its cost base. A capital loss would arise if the market value is less than its reduced cost base.
 
 *Refs: s
 104-205)*
@@ -36,7 +36,7 @@ The time of CGT event K3 is just before the taxpayer dies. If an asset is acquir
 
 A taxpayer makes a capital gain from CGT event K3 if the market value of the asset on the day the taxpayer dies is more than its cost base. If the market value of the asset is less than its reduced cost base, a capital loss is made.
 
-A capital gain or loss from CGT event K3 is disregarded if the asset was acquired before 20 September 1985. Capital gains or losses are also disregarded if they are from a testamentary gift that would have been deductible under the normal rules if made during the taxpayer’s lifetime (s 118-60).
+A capital gain or loss from CGT event K3 is disregarded if the asset was acquired before 20 September 1985. Capital gains or losses are also disregarded if they are from a testamentary gift that would have been deductible under the normal rules if made during the taxpayer's lifetime (s 118-60).
 
 CGT event K4 — CGT asset starts being trading stock CGT event K4 happens if a taxpayer starts holding as trading stock a CGT asset already owned by the taxpayer but not held as trading stock and the taxpayer elects to be treated as having sold the asset for its market value (¶9-245) (s 104-220). If the taxpayer elects the cost of the asset, CGT event K4 does not apply and any capital gain or capital loss is disregarded (¶11-700).
 
@@ -66,13 +66,13 @@ CGT event K6 — Pre-CGT shares or trust interest CGT event K6 is designed to st
 
 However, CGT event K6 only happens if just before the other (non-K6) CGT event happened, the market value of post-CGT property (other than trading stock) of the company or trust or the market value of interests the company or trust owned through interposed companies or trusts in post-CGT property (other than trading stock) is at least 75% of the net value of the company or trust. The 2 amounts cannot be added together to determine if the 75% test is satisﬁed.
 
-For details on the ATO’s view on how to calculate the capital gain when CGT event K6 happens, see TR 2004/18 and its draft update in Draft TR 2004/18DC. It is expressed thereunder that only one capital gain can arise under CGT event K6.
+For details on the ATO's view on how to calculate the capital gain when CGT event K6 happens, see TR 2004/18 and its draft update in Draft TR 2004/18DC. It is expressed thereunder that only one capital gain can arise under CGT event K6.
 
 Property that is taken to be acquired before 20 September 1985, eg under a roll-over provision, is not post- CGT property for these purposes. However, an exception applies where the CGT asset is treated as having been acquired post-CGT because of the operation of Div 149 (¶12-870) (TR 2004/18).
 
 The market value of post-CGT property or of an interest in such property is determined by reference to market value without regard to liabilities. In the case of leased equipment, the market value of the lease (not the equipment) is used (TD 54).
 
-The net value of a company or trust is the amount by which the sum of the market values of the assets of the company or trust exceeds the sum of its liabilities. However, in working out this net value, the discharge or release of any liabilities and the market value of any CGT assets acquired are disregarded if the discharge, release or acquisition was done for a purpose that included ensuring that the “75% of net value” test would not trigger CGT event K6.
+The net value of a company or trust is the amount by which the sum of the market values of the assets of the company or trust exceeds the sum of its liabilities. However, in working out this net value, the discharge or release of any liabilities and the market value of any CGT assets acquired are disregarded if the discharge, release or acquisition was done for a purpose that included ensuring that the "75% of net value" test would not trigger CGT event K6.
 
 For the purposes of working out the net value of a company, assets mean the property and other economic resources owned by the company that can be turned to account. On the other hand, liabilities do not include contingent liabilities (TR 2004/18).
 
@@ -104,9 +104,9 @@ CGT event K7 also happens where a balancing adjustment event occurs for a deprec
 
 - the asset is covered by Subdiv 40-F or Subdiv 40-G (s 104-235(1A)).
 
-To ensure consistency of treatment between the capital allowance rules and the CGT rules, a capital gain or loss under CGT event K7 is calculated on the basis of the asset’s cost and termination value, instead of on the usual CGT basis of cost base and capital proceeds. The gain or loss is also treated as arising at the same time as any balancing adjustment.
+To ensure consistency of treatment between the capital allowance rules and the CGT rules, a capital gain or loss under CGT event K7 is calculated on the basis of the asset's cost and termination value, instead of on the usual CGT basis of cost base and capital proceeds. The gain or loss is also treated as arising at the same time as any balancing adjustment.
 
-If the use was 100% taxable, CGT event K7 does not apply, but there will be a balancing adjustment under the capital allowances system (¶17-670). If the use is 100% non-taxable, there will be a capital gain/loss under CGT event K7 based on the diﬀerence between the asset’s termination value and its cost (s 104-240); in such a case, there will be no balancing adjustment. If there is a mixed use (eg partly taxable and partly non-taxable), there may be both a balancing adjustment and a capital gain/loss. That capital gain/loss will be based on the diﬀerence between the termination value and the cost, apportioned to reﬂect the taxable component of the decline in value (s 104-240). Special rules apply to depreciating assets that have been allocated to a low-value pool (s 104-245).
+If the use was 100% taxable, CGT event K7 does not apply, but there will be a balancing adjustment under the capital allowances system (¶17-670). If the use is 100% non-taxable, there will be a capital gain/loss under CGT event K7 based on the diﬀerence between the asset's termination value and its cost (s 104-240); in such a case, there will be no balancing adjustment. If there is a mixed use (eg partly taxable and partly non-taxable), there may be both a balancing adjustment and a capital gain/loss. That capital gain/loss will be based on the diﬀerence between the termination value and the cost, apportioned to reﬂect the taxable component of the decline in value (s 104-240). Special rules apply to depreciating assets that have been allocated to a low-value pool (s 104-245).
 
 If CGT event K7 happens to a depreciating asset (or a pooled asset), the termination value of the asset is reduced by any amount misappropriated by an employee or agent and increased by any amount received as a recoupment of an amount so misappropriated. An assessment can be amended within 4 years, starting immediately after a taxpayer discovers a misappropriation or receives an amount as recoupment.
 
@@ -114,13 +114,13 @@ CGT event K7 is disregarded if the asset was acquired before 20 September 1985 o
 
 A capital gain made as a result of CGT event K7 can be a discount capital gain but is not eligible for the CGT small business concessions (¶7-120).
 
-CGT event K8 — Direct value shifts CGT event K8 happens where a taxing event generates a gain for a “down interest” under s 725-245 pursuant to the direct value shifting rules in Div 725 (s 104-250).
+CGT event K8 — Direct value shifts CGT event K8 happens where a taxing event generates a gain for a "down interest" under s 725-245 pursuant to the direct value shifting rules in Div 725 (s 104-250).
 
 The time of CGT event K8 is the decrease time for the down interest, ie the time when the decrease in market value happens.
 
 A capital gain is disregarded if the down interest was acquired prior to 20 September 1985.
 
-CGT event K9 — Carried interests CGT event K9 happens where an entitlement to receive a payment of a “carried interest” arises. A carried interest can be held by:
+CGT event K9 — Carried interests CGT event K9 happens where an entitlement to receive a payment of a "carried interest" arises. A carried interest can be held by:
 
 - a general partner in a venture capital limited partnership or an Australian venture capital fund or
 
@@ -128,7 +128,7 @@ CGT event K9 — Carried interests CGT event K9 happens where an entitlement to 
 
 - a limited partner in a venture capital management partnership (s 104-255).
 
-In broad terms, a carried interest is the partner’s entitlement to a distribution from the partnership to the extent that the distribution is contingent upon the attainment of proﬁts for the partners. The amount of any capital gain when CGT event K9 happens is the amount of the capital proceeds (¶11-500). The taxpayer cannot make a capital loss.
+In broad terms, a carried interest is the partner's entitlement to a distribution from the partnership to the extent that the distribution is contingent upon the attainment of proﬁts for the partners. The amount of any capital gain when CGT event K9 happens is the amount of the capital proceeds (¶11-500). The taxpayer cannot make a capital loss.
 
 The time of CGT event K9 is when the entitlement to receive the payment arises. Anti-overlap provisions provide that the payment of a carried interest is not treated as income (¶11-700).
 
@@ -154,7 +154,7 @@ The time of the event is when the forex realisation event happens. Only a capita
 
 *Refs: s 775-75(1), s 104-265)*
 
-adjustment CGT event K12 happens where a limited partner makes a capital loss equal to an outstanding foreign hybrid net capital loss amount (s 830-70). CGT event K12 allows the limited partner to use this capital loss in calculating its net capital gain or loss for the income year. However, loss limitation rules apply to a limited partner’s net capital losses in relation to a foreign hybrid (¶5-050).
+adjustment CGT event K12 happens where a limited partner makes a capital loss equal to an outstanding foreign hybrid net capital loss amount (s 830-70). CGT event K12 allows the limited partner to use this capital loss in calculating its net capital gain or loss for the income year. However, loss limitation rules apply to a limited partner's net capital losses in relation to a foreign hybrid (¶5-050).
 
 The time of the event is just before the end of the income year (s 104-270).
 

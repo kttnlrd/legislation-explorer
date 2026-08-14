@@ -3,18 +3,14 @@ ATO ID 2010/4
 ==================================================
 
 Income Tax
-        Consolidation: multiple entry consolidated group - special conversion event
-        FOI status: may be released
-
-
+ Consolidation: multiple entry consolidated group - special conversion event
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a special conversion event happen under section 719-40 of the Income Tax Assessment Act 1997 (ITAA 1997) to a potential MEC (multiple entry consolidated) group, which is also a consolidated group, when the head company of the consolidated group and another eligible tier-1 company (ET-1 company) of the same top company, which is not a member of any consolidated group or MEC group become ET-1 companies of another top company at the same time?
@@ -37,20 +33,20 @@ The head company (also the company identified in the opening words of section 71
 This interpretation is supported by paragraph 4 18 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002, which states:
 
 4.18 A special conversion event will happen if the head company of a consolidated group is an eligible tier-1 company of a top company and one or more other companies
-               subsequently
-              become eligible tier-1 companies of the
-               same
-              top company
-              . [Schedule 1, item 2, paragraphs 719-40(1)(a) to (c)]
+ subsequently
+ become eligible tier-1 companies of the
+ same
+ top company
+ . [Schedule 1, item 2, paragraphs 719-40(1)(a) to (c)]
 (emphasis added)
 
 The head company of the consolidated group, X Co, is not an ET-1 company of TC2 (the company which is the top company at the time when the SCE would otherwise happen) immediately before the time Y Co becomes an ET-1 company of TC2.
 As the requirement in paragraph 719-40(1)(b) of the ITAA 1997 is not met, a SCE will not happen to the potential MEC group derived from X Co at the time X Co and Y Co become ET-1 companies of TC2 (the acquisition time).
 Date of decision:
-         18 December 2009
+  18 December 2009
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -63,21 +59,20 @@ Other References:
 Keywords
 
 Potential MEC group
-          Consolidated group
-          Consolidation - multiple entry consolidated group
-          Special conversion event
-          Eligible tier-1 company
-          Head company
-
+ Consolidated group
+ Consolidation - multiple entry consolidated group
+ Special conversion event
+ Eligible tier-1 company
+ Head company
 
 Siebel/TDMS Reference Number:
-         6327304
+  6327304
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         8 January 2010
+  8 January 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

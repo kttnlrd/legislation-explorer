@@ -7,17 +7,17 @@ paragraph: "¶6-275"
 ---
 # Trustee beneﬁciary reporting rules ¶6-275
 
-There are reporting requirements that apply to trustees of closely held trusts. The main purpose of these requirements is to ensure that the trustee of a “closely held trust” with a trustee beneﬁciary advises the Commissioner of the trustee beneﬁciaries of the net income and tax-preferred amounts of the trust. This allows the Commissioner to check whether the assessable income of the trustee beneﬁciaries correctly includes any required share of that net income, and whether the net assets of those beneﬁciaries reﬂect the receipt of the tax-preferred amounts.
+There are reporting requirements that apply to trustees of closely held trusts. The main purpose of these requirements is to ensure that the trustee of a "closely held trust" with a trustee beneﬁciary advises the Commissioner of the trustee beneﬁciaries of the net income and tax-preferred amounts of the trust. This allows the Commissioner to check whether the assessable income of the trustee beneﬁciaries correctly includes any required share of that net income, and whether the net assets of those beneﬁciaries reﬂect the receipt of the tax-preferred amounts.
 
 If the trustee fails to satisfy the reporting requirements, trustee beneﬁciary non-disclosure tax is imposed at the highest marginal rate plus Medicare levy in respect of the untaxed part of the share of the net income.
 
 The reporting requirements are contained primarily in Pt III Div 6D (ss 102UA to 102UV).
 
-It is also provided that, where the trustee of the closely held trust becomes presently entitled to an amount that is reasonably attributable to the whole or a part of the share of the net income of the closely held trust, tax is imposed on the amount at the highest marginal rate plus Medicare levy (s 102UM). See further below under “Circular distributions”.
+It is also provided that, where the trustee of the closely held trust becomes presently entitled to an amount that is reasonably attributable to the whole or a part of the share of the net income of the closely held trust, tax is imposed on the amount at the highest marginal rate plus Medicare levy (s 102UM). See further below under "Circular distributions".
 
 What trusts are affected?
 
-The rules only apply to closely held trusts where a trustee beneﬁciary is presently entitled to a share of a tax-preferred amount in the trust, or where a share of the net income of the trust is included in the trustee beneﬁciary’s assessable income under ITAA36 s 97 and the share comprises or includes an untaxed part. A closely held trust is:
+The rules only apply to closely held trusts where a trustee beneﬁciary is presently entitled to a share of a tax-preferred amount in the trust, or where a share of the net income of the trust is included in the trustee beneﬁciary's assessable income under ITAA36 s 97 and the share comprises or includes an untaxed part. A closely held trust is:
 
 - a trust where an individual has, or up to 20 individuals have between them, ﬁxed entitlements to at
 
@@ -29,11 +29,11 @@ An individual and their relatives are treated as being one individual. A trustee
 
 Certain trusts are excluded from the closely held trust measures. These are: (a) complying superannuation funds, complying ADFs and PSTs; (b) deceased estates for 5 years after the death; (c) ﬁxed unit trusts wholly-owned by tax-exempt persons; and (d) listed unit trusts. For income years before the 2019–20 income year the following trusts were also excluded from the closely held trust measures: (i) family trusts; (ii) trusts in relation to which an interposed entity election has been made; and (iii) trusts whose income or capital is fully owned by family members and/or family trusts. The eﬀect of amendments made in 2019 is that, from 1 July 2019, categories (i), (ii) and (iii) ceased to be excluded from the operation of the closely held trust measures.
 
-The eﬀect of these amendments was to extend to family trusts, etc, the trustee beneﬁciary disclosure rules and the anti-avoidance rule that applies to other closely held trusts that undertake circular trust distributions (see under “Circular distributions” below).
+The eﬀect of these amendments was to extend to family trusts, etc, the trustee beneﬁciary disclosure rules and the anti-avoidance rule that applies to other closely held trusts that undertake circular trust distributions (see under "Circular distributions" below).
 
-What is the “untaxed part”?
+What is the "untaxed part"?
 
-Only “untaxed parts” of a share of the net income of a closely held trust are subject to the trustee reporting rules. The “untaxed part” of a share of the net income of a closely held trust is so much of that share as does not fall in one of the following categories (s 102UE(2)):
+Only "untaxed parts" of a share of the net income of a closely held trust are subject to the trustee reporting rules. The "untaxed part" of a share of the net income of a closely held trust is so much of that share as does not fall in one of the following categories (s 102UE(2)):
 
 - the trustee of the closely held trust is assessed and liable to pay tax under s 98(4) in respect of
 
@@ -51,9 +51,9 @@ Only “untaxed parts” of a share of the net income of a closely held trust ar
 
   which the trustee of the other trust estate was liable to pay trustee beneﬁciary non-disclosure tax.
 
-Lodgment of trustee beneficiary statements The trustee of a closely held trust must generally provide a correct trustee beneﬁciary (TB) statement by the due date for lodgment of the trust’s tax return (s 102UH).
+Lodgment of trustee beneficiary statements The trustee of a closely held trust must generally provide a correct trustee beneﬁciary (TB) statement by the due date for lodgment of the trust's tax return (s 102UH).
 
-A “correct TB statement” is a written statement in the approved form by the trustee of the closely held trust which correctly sets out:
+A "correct TB statement" is a written statement in the approved form by the trustee of the closely held trust which correctly sets out:
 
 - the amount of the untaxed part of the share
 
@@ -81,7 +81,7 @@ The trustee of a closely held trust can amend an incorrect TB statement about am
 
   foreseen by the trustee.
 
-Trustee beneficiary non-disclosure tax The trustee is liable to pay “trustee beneﬁciary non-disclosure tax” at the top marginal rate if:
+Trustee beneficiary non-disclosure tax The trustee is liable to pay "trustee beneﬁciary non-disclosure tax" at the top marginal rate if:
 
 - a share of the net income of a closely held trust is included in the assessable income of a trustee
 
@@ -117,7 +117,7 @@ Trustees of closely held trusts can sue trustee beneﬁciaries to recover the tr
 
 If these conditions are satisﬁed, the trustee can sue for the recoverable amount from the source of the incorrect information, ie the trustee beneﬁciary.
 
-Tax-preferred amounts A tax-preferred amount is any income of the trust that is not included in assessable income when calculating the trust’s net income, and any capital of the trust (s 102UI). A failure by a trustee of a closely held trust to provide a TB statement in relation to the share of a tax-preferred amount constitutes an oﬀence unless the trustee: (a) did not have all the information required to be included in the TB statement; (b) took reasonable steps to get the information; and (c) gave whatever information was available to the Commissioner (s 102UT).
+Tax-preferred amounts A tax-preferred amount is any income of the trust that is not included in assessable income when calculating the trust's net income, and any capital of the trust (s 102UI). A failure by a trustee of a closely held trust to provide a TB statement in relation to the share of a tax-preferred amount constitutes an oﬀence unless the trustee: (a) did not have all the information required to be included in the TB statement; (b) took reasonable steps to get the information; and (c) gave whatever information was available to the Commissioner (s 102UT).
 
 ## Australian managed fund or custodian pays amounts to non-resident trustees), or
 

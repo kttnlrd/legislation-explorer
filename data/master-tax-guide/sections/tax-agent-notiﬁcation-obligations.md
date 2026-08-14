@@ -7,7 +7,7 @@ paragraph: "¶32-040"
 ---
 # Tax agent notiﬁcation obligations ¶32-040
 
-- a registered tax agent ceases to meet one of the “tax practitioner registration requirements” (ie
+- a registered tax agent ceases to meet one of the "tax practitioner registration requirements" (ie
 
   one of the matters as to which the TPB must be satisﬁed in order to grant registration)
 

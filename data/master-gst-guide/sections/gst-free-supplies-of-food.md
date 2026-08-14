@@ -25,9 +25,9 @@ However, there are some important exceptions to this. Food is not GST-free where
 
 - certain food additives (s 38-3).
 
-In deciding whether a supply of food is GST-free, you therefore need to ask the following questions: (1) Is it “food” (¶13-110)? (2) If so, does it fall under any of the taxable categories (¶13-120 and following)?
+In deciding whether a supply of food is GST-free, you therefore need to ask the following questions: (1) Is it "food" (¶13-110)? (2) If so, does it fall under any of the taxable categories (¶13-120 and following)?
 
-If the item is food, and none of the taxable categories applies, it is GST-free. If any of the taxable categories apply, it is not GST-free. As some of the taxable categories overlap, you may need to check each one to be sure of the item’s GST-free status.
+If the item is food, and none of the taxable categories applies, it is GST-free. If any of the taxable categories apply, it is not GST-free. As some of the taxable categories overlap, you may need to check each one to be sure of the item's GST-free status.
 
 Food sold through non-profit school tuckshops may be input taxed (¶14-010). Community meals on wheels services are GST-free (¶13-340). Discounted food supplied by charities is GST-free in certain situations (¶15-010). For the GST treatment of food ordered over the internet, see ¶4-200.
 

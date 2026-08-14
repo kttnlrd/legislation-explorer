@@ -3,24 +3,18 @@ ATO ID 2006/254
 ==================================================
 
 Income tax
-        Consolidation: exit history rule and the holding period and related payments rule
-        FOI status: may be released
-
-
+ Consolidation: exit history rule and the holding period and related payments rule
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
-A unit trust ceases to be a subsidiary member of a consolidated group taking with it shares previously held by the head company for income tax purposes under the single entity rule (SER) in section 701-1 of the Income Tax Assessment Act 1997 (ITAA 1997).  After leaving the group the trustee of the unit trust receives a franked dividend on the shares.
+A unit trust ceases to be a subsidiary member of a consolidated group taking with it shares previously held by the head company for income tax purposes under the single entity rule (SER) in section 701-1 of the Income Tax Assessment Act 1997 (ITAA 1997). After leaving the group the trustee of the unit trust receives a franked dividend on the shares.
 For the purpose of determining whether the trustee is a section 160APHO of the Income Tax Assessment Act 1936 (ITAA 1936) qualified person in relation to the dividend, will the exit history rule in section 701-40 of the ITAA 1997 deem the trustee of the unit trust:
-
-
 
 (a)to have acquired the shares at the time acquired by the head company for the purpose of applying the relevant qualification period in subsection 160APHO(2) of the ITAA 1936?
 (b)to inherit the head company's net position, or delta, in relation to the shares, as if the entity had been the holder of the shares on each of the days held by the head company?
@@ -28,33 +22,33 @@ For the purpose of determining whether the trustee is a section 160APHO of the I
 Therefore, any days on which the head company had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3) of the ITAA 1936, will be deemed to be days on which the entity had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3).
 Decision
 
-(a) Yes.  The exit history rule in section 701-40 of the ITAA 1997 will deem the trustee of the unit trust to have acquired the shares at the time acquired by the head company, for the purpose of applying the relevant qualification period in subsection 160APHO(2) of the ITAA 1936.
-(b)Yes.  The exit history rule in section 701-40 of the ITAA 1997 will deem the trustee of the unit trust to have inherited the head company's net position, or delta, in relation to the shares, as if the entity had been the holder of the shares on each of the days held by the head company.
+(a) Yes. The exit history rule in section 701-40 of the ITAA 1997 will deem the trustee of the unit trust to have acquired the shares at the time acquired by the head company, for the purpose of applying the relevant qualification period in subsection 160APHO(2) of the ITAA 1936.
+(b)Yes. The exit history rule in section 701-40 of the ITAA 1997 will deem the trustee of the unit trust to have inherited the head company's net position, or delta, in relation to the shares, as if the entity had been the holder of the shares on each of the days held by the head company.
 
 Therefore, any days on which the head company had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3) of the ITAA 1936,will be days on which the trustee will be deemed to have had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3).
 Facts
 A unit trust ceases to be a subsidiary member of a consolidated group, and leaves the group, taking with it shares previously held by the head company for income tax purposes under the SER in section 701-1 of the ITAA 1997. The trustee of the unit trust receives franked dividends on these shares after leaving the group.
 The trustee must determine whether it is a qualified person under section 160APHO of the ITAA 1936 in relation to the dividends. If the trustee is not a qualified person in relation to the dividends, then paragraph 207-145(1)(e) of the ITAA 1997 will prevent the trustee from grossing up the section 95 of the ITAA 1936 assessable income of the trust for the relevant income year (or section 701-30 of the ITAA 1997 non membership period) to include the franking credits received, and the franking credits will not be distributed to the beneficiary of the trust.
 Reasons for Decision
-The rules to determine whether a taxpayer is a qualified person in relation to a dividend are set out in Division 1A of Part 111AA of the ITAA 1936 and explained in the Explanatory Memorandum to Taxation Laws Amendment Bill (No. 2) 1999 (EM to TLAB (No 2) 1999). Broadly speaking, to be a qualified person in relation to a dividend, a taxpayer must satisfy the holding period rule and the related payments rule (paragraph 4.11 of EM to TLAB (No 2) 1999).  However, the need to apply the rules each time a dividend is paid (and the qualification period required to be met) depends on whether the taxpayer or an associate has made, or will make, a related payment in respect of the dividend.  A related payment is not a defined term, but examples are provided at subsection 160APHN(3) of the ITAA 1936.
-The holding period rule applies where the shares or interests in shares were acquired on or after 1 July 1997 (unless the taxpayer had become contractually obliged to acquire the shares before 7.30pm AEST 13 May 1997) or after 3.00pm AEST 31 December 1997, if acquired by a trust (excluding a widely held public share trading trust, unless established after 3.00pm AEST, 31 December 1997).  The holding period rule applies where no related payment has, or will be made, in respect of the dividend, and requires the shares to have been continuously held at risk throughout the primary qualification period (paragraph160APHO(1)(a)).  The EM to TLAB (No 2) 1999 at paragraph 4.19 states that:
+The rules to determine whether a taxpayer is a qualified person in relation to a dividend are set out in Division 1A of Part 111AA of the ITAA 1936 and explained in the Explanatory Memorandum to Taxation Laws Amendment Bill (No. 2) 1999 (EM to TLAB (No 2) 1999). Broadly speaking, to be a qualified person in relation to a dividend, a taxpayer must satisfy the holding period rule and the related payments rule (paragraph 4.11 of EM to TLAB (No 2) 1999). However, the need to apply the rules each time a dividend is paid (and the qualification period required to be met) depends on whether the taxpayer or an associate has made, or will make, a related payment in respect of the dividend. A related payment is not a defined term, but examples are provided at subsection 160APHN(3) of the ITAA 1936.
+The holding period rule applies where the shares or interests in shares were acquired on or after 1 July 1997 (unless the taxpayer had become contractually obliged to acquire the shares before 7.30pm AEST 13 May 1997) or after 3.00pm AEST 31 December 1997, if acquired by a trust (excluding a widely held public share trading trust, unless established after 3.00pm AEST, 31 December 1997). The holding period rule applies where no related payment has, or will be made, in respect of the dividend, and requires the shares to have been continuously held at risk throughout the primary qualification period (paragraph160APHO(1)(a)). The EM to TLAB (No 2) 1999 at paragraph 4.19 states that:
 
-the holding period rule is a once-and-for-all test.  It sets an initial threshold which only has to be crossed once.  Therefore once a taxpayer is a qualified person in relation to a dividend or distribution by virtue of the fact that the taxpayer has held the relevant shares or interest for more than 45 days, the taxpayer is taken to be a qualified person for the purposes of the rule in relation to future dividends paid on those shares or interest.
+the holding period rule is a once-and-for-all test. It sets an initial threshold which only has to be crossed once. Therefore once a taxpayer is a qualified person in relation to a dividend or distribution by virtue of the fact that the taxpayer has held the relevant shares or interest for more than 45 days, the taxpayer is taken to be a qualified person for the purposes of the rule in relation to future dividends paid on those shares or interest.
 
-The related payments rule applies where the taxpayer or an associate, has made or will make, a related payment in respect of the dividend under an arrangement entered into after 7.30pm AEST13 May 1997 (whether or not the shares or interests in shares were acquired before that time).  Paragraph 4.21 of the EM to TLAB (No 2) 1999 notes that the related payments rule is not a once and for all test.  The rule must be applied each time an obligation to make a related payment arises, in respect of the dividend paid on the share.   Where the related payments rule applies, the taxpayer must have continuously held the shares at risk for the secondary qualification period (as per paragraph160APHO(1)(b) of the ITAA 1936).
-Although a dividend must be paid to trigger section 160APHO of the ITAA 1936, and qualifying person status is expressed as being in relation to the dividend, the dividend does not determine qualifying person status.  As discussed in paragraphs 4.6 to 4.9 of the EM to TLAB (No 2) 1999, to be a section 160APHO of the ITAA 1936 qualified person, the recipient of the franked dividend must be the true economic owner of the shares, as one of the underlying principles of the imputation system is that the benefits of imputation should only be available to the true economic owners.   The rules test for economic ownership excludes any days on which the holder of the shares (on which a dividend has been paid) had a materially diminished risk of loss or opportunity for gain in respect of the shares from the days included in the primary or secondary qualification period calculation.  Under sections 160APHM and 160APHJ of the ITAA 1936, a taxpayer will have a materially diminished risk in respect of the shares where the taxpayer's net equity position on that day in relation to the shares is less than 0.30.  The net equity position is worked out by reference to the concept of delta.
+The related payments rule applies where the taxpayer or an associate, has made or will make, a related payment in respect of the dividend under an arrangement entered into after 7.30pm AEST13 May 1997 (whether or not the shares or interests in shares were acquired before that time). Paragraph 4.21 of the EM to TLAB (No 2) 1999 notes that the related payments rule is not a once and for all test. The rule must be applied each time an obligation to make a related payment arises, in respect of the dividend paid on the share. Where the related payments rule applies, the taxpayer must have continuously held the shares at risk for the secondary qualification period (as per paragraph160APHO(1)(b) of the ITAA 1936).
+Although a dividend must be paid to trigger section 160APHO of the ITAA 1936, and qualifying person status is expressed as being in relation to the dividend, the dividend does not determine qualifying person status. As discussed in paragraphs 4.6 to 4.9 of the EM to TLAB (No 2) 1999, to be a section 160APHO of the ITAA 1936 qualified person, the recipient of the franked dividend must be the true economic owner of the shares, as one of the underlying principles of the imputation system is that the benefits of imputation should only be available to the true economic owners. The rules test for economic ownership excludes any days on which the holder of the shares (on which a dividend has been paid) had a materially diminished risk of loss or opportunity for gain in respect of the shares from the days included in the primary or secondary qualification period calculation. Under sections 160APHM and 160APHJ of the ITAA 1936, a taxpayer will have a materially diminished risk in respect of the shares where the taxpayer's net equity position on that day in relation to the shares is less than 0.30. The net equity position is worked out by reference to the concept of delta.
 Therefore, although section 160APHO of the ITAA 1936 is triggered by the dividend payment, qualifying person status is determined by taxpayer attributes in relation to the shares, these attributes being how long the shares have been held, and whether they have been held 'at risk' for the required period.
-Under the exit history rule in section 701-40 of the ITAA 1997, everything that happened in relation to the shares (including because of any application of the entry history rule in section 701-5) while the shares were held by the head company, is taken to have happened in relation to the leaving entity (being the trustee of the trust) as if the shares had been an asset of the leaving entity.  The only limitation on history which may be inherited by the trustee in relation to the shares, is that the history, or everything that happened in relation to the shares must be relevant to the trust's section 95 of the ITAA 1936 net income calculation, in the income year (or section 701-30 of the ITAA 1997 non membership period) after exit from the group.  [Refer to section 701-65 which links the section 95 of the ITAA 1936 net income definition to the subsection 701-1(3) of the ITAA 1997 entity core purposes definition].
+Under the exit history rule in section 701-40 of the ITAA 1997, everything that happened in relation to the shares (including because of any application of the entry history rule in section 701-5) while the shares were held by the head company, is taken to have happened in relation to the leaving entity (being the trustee of the trust) as if the shares had been an asset of the leaving entity. The only limitation on history which may be inherited by the trustee in relation to the shares, is that the history, or everything that happened in relation to the shares must be relevant to the trust's section 95 of the ITAA 1936 net income calculation, in the income year (or section 701-30 of the ITAA 1997 non membership period) after exit from the group. [Refer to section 701-65 which links the section 95 of the ITAA 1936 net income definition to the subsection 701-1(3) of the ITAA 1997 entity core purposes definition].
 For the purposes of the holding period and related payments rule, a taxpayer is taken to hold the shares from the time the taxpayer acquires the shares, until the time the taxpayer disposes of the shares (refer to paragraph 4.29 of the EM to TLAB (No 2) 1999). For the purpose of calculating the period for which a taxpayer is taken to have held the shares during a qualification period, section 160APHI of the ITAA 1936 ensures the calculation operates on a LIFO (last-in-first-out), basis and also takes into account disposals of related securities by the taxpayer and associates.
 When the leaving entity (the trust) exits the consolidated group taking the shares with it, the exit history rule in section 701-40 of the ITAA 1997 will deem the trustee of the trust to have acquired the shares at the time acquired by the head company, and to have been the holder of the shares for the purpose of section 160APHO of the ITAA 1936 since that time.
 Where the head company has applied and passed the paragraph 160APHO(1)(a) of the ITAA 1936 holding period rule, in respect of a dividend paid on shares, and these same shares leave the consolidated group with the trustee of the trust, the exit history rule in section 701-40 if the ITAA 1997 will deem the trustee to have also applied and passed the paragraph 160APHO(1)(a) holding period rule (at the time applied and passed by the head company).
 Where the head company has not applied and passed the holding period rule in paragraph 160APHO(1)(a) of the ITAA 1936, in respect of a dividend paid on shares, and these same shares leave the consolidated group with the trustee of the trust, then the trustee will be required to apply the paragraph 160APHO(1)(a) holding period rule in relation to a dividend paid on these shares after exit. If a related payment arrangement exists in relation to a dividend paid on shares held by the trustee after exit from the group, the trustee will be required to apply the paragraph 160APHO(1)(b) of the ITAA 1936 related payments rule to this dividend.
-In each of these situations the exit history rule in section 701-40 of the ITAA 1997 will deem the trustee of the trust to have acquired the shares at the time acquired by the head company, and to have entered into the net position in relation to the shares as entered into by the head company.  The trustee will therefore inherit the head company's net position or delta in relation to the shares as if it had been the holder of the shares on the days held by the head company.  Therefore, any days on which the head company had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3) of the ITAA 1936 will be the days on which the trustee will be deemed to have had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3).
+In each of these situations the exit history rule in section 701-40 of the ITAA 1997 will deem the trustee of the trust to have acquired the shares at the time acquired by the head company, and to have entered into the net position in relation to the shares as entered into by the head company. The trustee will therefore inherit the head company's net position or delta in relation to the shares as if it had been the holder of the shares on the days held by the head company. Therefore, any days on which the head company had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3) of the ITAA 1936 will be the days on which the trustee will be deemed to have had a materially diminished risk of loss or opportunities for gain in respect of the shares under subsection 160APHO(3).
 Date of decision:
-         25 August 2006
+  25 August 2006
 
 Year of income:
-           Year ended 30 June 2006 Year ended 30 June 2007
+  Year ended 30 June 2006 Year ended 30 June 2007
 
 Legislative References:
 
@@ -63,26 +57,25 @@ Income Tax Assessment Act 1936   section 160APHO   subsection 160APHO(2) 
 
 Other References:
 
-Explanatory Memorandum to  Taxation Laws Amendment Bill (No. 2) 1999
+Explanatory Memorandum to Taxation Laws Amendment Bill (No. 2) 1999
 
 Keywords
 
 Consolidation
-          Consolidation - exiting
-          Holding period rule
-          Franking credits
-          Franked dividends
-          Related payment rule
-
+ Consolidation - exiting
+ Holding period rule
+ Franking credits
+ Franked dividends
+ Related payment rule
 
 Siebel/TDMS Reference Number:
-         5016319
+  5016319
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         15 September 2006
+  15 September 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

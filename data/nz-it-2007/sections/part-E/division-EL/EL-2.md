@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)**  The rules in sections EL 4 to EL 8 apply—
 
-- (a) to a person’s residential portfolio:
+- (a) to a person's residential portfolio:
 
 - (b) by election, on a property-by-property basis.
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(5)**  The following sections set out the properties to which the deduction allocation rule in section EL 4 does not apply:
 
-- (a) section EL 9: the person’s main home:
+- (a) section EL 9: the person's main home:
 
 - (b) section EL 10: property held by the person on revenue account:
 

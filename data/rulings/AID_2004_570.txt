@@ -3,18 +3,14 @@ ATO ID 2004/570
 ==================================================
 
 Income Tax
-        Commercial debt forgiveness: notional value - debt becomes non-recourse
-        FOI status: may be released
-
-
+ Commercial debt forgiveness: notional value - debt becomes non-recourse
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For a forgiven debt to satisfy the definition of a non-recourse debt under subsection 245-60(1) of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936), must it have been non-recourse at all times since the debt was incurred?
@@ -32,39 +28,35 @@ For subsection 245-60(2) of Schedule 2C to the ITAA 1936 to apply to calculate t
 In the present circumstances the debt could not possibly satisfy that definition until Debtor had made the requisite payments.
 The definition of a non-recourse debt in subsection 245-60(1) of Schedule 2C to the ITAA 1936 is based upon two concepts:
 
-
-
 •firstly, the debt being incurred for certain financing purposes, and
 •secondly, the creditor's rights in the event of the debtor's default being limited in a specified manner.
 
 In the absence of an explicit time in subsection 245-60(1) of Schedule 2C to the ITAA 1936, for determining whether a debt is a non-recourse debt, it is appropriate to make such a determination at the time of forgiveness of the debt, as the term is only of relevance in determining a notional value under subsection 245-60(2) of Schedule 2C upon forgiveness of the debt.
 Date of decision:
-         5 July 2004
+  5 July 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
 Income Tax Assessment Act 1936   Schedule 2C   section 245-10   section 245-25   subsection 245-35(1)   section 245-60   subsection 245-60(1)   paragraph 245-60(1)(a)   paragraph 245-60(1)(b)   paragraph 245-60(1)(c)   subsection 245-60(2)
 
-
 Keywords
 
 CDF notional value
-          Debt forgiveness
-          Debt waivers
-          Non recourse loans
-
+ Debt forgiveness
+ Debt waivers
+ Non recourse loans
 
 Siebel/TDMS Reference Number:
-         4128401
+  4128401
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         9 July 2004
+  9 July 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

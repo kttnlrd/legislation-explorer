@@ -16,15 +16,15 @@ compilation_date: 2026-06-06
 
 **Modified requirements**
 
-**(2)**  The loss balance is included in a tax loss that company A makes available under section IA 3(2) (Using tax losses in tax year) to company B only to the extent to which the following requirements, which modify those set out in section IC 5 (Company B using company A’s tax loss), are met:
+**(2)**  The loss balance is included in a tax loss that company A makes available under section IA 3(2) (Using tax losses in tax year) to company B only to the extent to which the following requirements, which modify those set out in section IC 5 (Company B using company A's tax loss), are met:
 
-- (a) the amount of company A’s loss balance carried forward to the tax year in which the breach occurred is not more than the amount of—
+- (a) the amount of company A's loss balance carried forward to the tax year in which the breach occurred is not more than the amount of—
 
-  - (i) company B’s net income for the common span, if no company in the group other than company B has net income for the common span of more than zero; or
+  - (i) company B's net income for the common span, if no company in the group other than company B has net income for the common span of more than zero; or
 
   - (ii) the total of the amounts of net income for the common span of companies in the group; and
 
-- (b) continuity of ownership in company A, or continuity of company A’s business activities, under section IC 2(1) (Threshold levels for grouping tax losses in tax year) applies in the common span; and
+- (b) continuity of ownership in company A, or continuity of company A's business activities, under section IC 2(1) (Threshold levels for grouping tax losses in tax year) applies in the common span; and
 
 - (c) company B provides the Commissioner with adequate financial statements under section IP 6; and
 

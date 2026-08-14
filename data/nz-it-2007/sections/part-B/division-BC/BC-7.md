@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Special rule for natural person investors in multi-rate PIEs**
 
-**(5)**  The schedular income tax liability of a natural person who is resident in New Zealand and is an investor in a multi-rate PIE, when the rate of tax applied for the year is not equal to the investor’s prescribed investor rate for the year, is calculated under section HM 36B (Calculating PIE schedular income adjustments for natural person investors) to provide an adjustment to the amount of the person’s income tax liability referred to in subsection (1)﻿(b).
+**(5)**  The schedular income tax liability of a natural person who is resident in New Zealand and is an investor in a multi-rate PIE, when the rate of tax applied for the year is not equal to the investor's prescribed investor rate for the year, is calculated under section HM 36B (Calculating PIE schedular income adjustments for natural person investors) to provide an adjustment to the amount of the person's income tax liability referred to in subsection (1)﻿(b).
 
 *Defined in this Act: amount, income, income tax liability, multi-rate PIE, natural person, prescribed investor rate, resident in New Zealand, schedular income, schedular income tax liability, tax year*
 

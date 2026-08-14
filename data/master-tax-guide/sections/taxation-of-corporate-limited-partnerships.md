@@ -77,10 +77,10 @@ The fact that a corporate limited partnership is treated as not being a private 
 
 A Bermudan exempted limited partnership was a corporate limited partnership; it was not a foreign hybrid limited partnership, as Bermuda does not impose tax on income, proﬁts, dividends or wealth (ID 2006/149).
 
-CGT implications The ATO considers that there is no capital gain or loss at the time of conversion of a partnership to a limited partnership (ID 2010/210). The cost base of the assumed shares in the limited partnership would be the sum of the cost bases of each partner’s interests in the individual assets of the partnership and in the partnership itself.
+CGT implications The ATO considers that there is no capital gain or loss at the time of conversion of a partnership to a limited partnership (ID 2010/210). The cost base of the assumed shares in the limited partnership would be the sum of the cost bases of each partner's interests in the individual assets of the partnership and in the partnership itself.
 
 Foreign hybrid business entities Foreign hybrid business entities are entities (such as UK and US limited partnerships) that are treated as partnerships for foreign tax purposes and were formerly treated as companies for Australian tax purposes (ITAA97 Div 830). They are now treated as partnerships for Australian tax purposes. A UK limited partnership (UKLP) was a foreign hybrid limited partnership (ID 2006/334; ITAA97 s 830-10). For further details, see ¶5-050.
 
 *Refs: ITAA97 s 195-72), ITAA97 s 830-10)*
 
-## A “limited partnership” is:
+## A "limited partnership" is:

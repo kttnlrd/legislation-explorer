@@ -3,18 +3,14 @@ ATO ID 2010/121
 ==================================================
 
 Income Tax
-        Capital gains tax: amalgamation of controlled foreign companies - cancellation of shares - capital proceeds for CGT event C2
-        FOI status: may be released
-
-
+ Capital gains tax: amalgamation of controlled foreign companies - cancellation of shares - capital proceeds for CGT event C2
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 What are the capital proceeds under Division 116 of the Income Tax Assessment Act 1997 (ITAA 1997) from the cancellation of shares in a controlled foreign company as a result of the company amalgamating with another controlled foreign company in accordance with specific legislation in their jurisdiction of residence?
@@ -34,16 +30,14 @@ Where a company transfers assets to a shareholder as part of an arrangement invo
 However, in this case, the amalgamation legislation treats the transfer of the assets, liabilities and obligations to Z Co as separate and unrelated to the share cancellation. Because of this, it is considered that in working out the market value of the Y Co shares, subsection 116-30(3A) of the ITAA 1997 does not require Z Co to disregard the transfer to it of all of Y Co's assets, liabilities and obligations in compliance with the relevant amalgamation legislation. This is the case even though the cancellation of the shares and the transfer of the assets, liabilities and obligations are part of the one amalgamation arrangement.
 On this basis, it is accepted that the market value of the shares in Y Co at the time of CGT event C2 will be nil. Thus the market value substitution rule in subsection 116-30(1) of the ITAA 1997 will treat Z Co as having received nil capital proceeds.
 
-
-
 Note:
-                Division 727 of the ITAA 1997 will apply to reduce the amount of any loss made by Z Co from the cancellation of the shares in Y Co.
+ Division 727 of the ITAA 1997 will apply to reduce the amount of any loss made by Z Co from the cancellation of the shares in Y Co.
 
 Date of decision:
-         7 May 2010
+  7 May 2010
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -57,21 +51,20 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital gains
-          Capital gains tax
-          CGT capital proceeds
-          CGT capital proceeds modification market value substitution rule
-          CGT events
-          CGT events C1-C3 - end of a CGT asset
-
+ Capital gains tax
+ CGT capital proceeds
+ CGT capital proceeds modification market value substitution rule
+ CGT events
+ CGT events C1-C3 - end of a CGT asset
 
 Siebel/TDMS Reference Number:
-         1-221T7AB
+  1-221T7AB
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         4 June 2010
+  4 June 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

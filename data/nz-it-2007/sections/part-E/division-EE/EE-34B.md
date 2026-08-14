@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **When section EE 18B or EE 19 applies to design**
 
-**(4)**  If the design is an item to which section EE 18B or EE 19 applies, legal life is the design’s remaining legal life from the start of the income year in which the relevant costs are recognised under the section.
+**(4)**  If the design is an item to which section EE 18B or EE 19 applies, legal life is the design's remaining legal life from the start of the income year in which the relevant costs are recognised under the section.
 
 **When no depreciation loss for design application**
 
-**(5)**  If sections EE 18B and EE 19 do not apply to the design and the person has been denied a deduction for an amount of depreciation loss for the design’s design registration application (the design application), legal life is the design’s remaining legal life from the first time a cost is recognised for the design under this subpart.
+**(5)**  If sections EE 18B and EE 19 do not apply to the design and the person has been denied a deduction for an amount of depreciation loss for the design's design registration application (the design application), legal life is the design's remaining legal life from the first time a cost is recognised for the design under this subpart.
 
 **When depreciation loss for design application**
 

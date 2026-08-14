@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) 1 or more of those workplaces is a distant workplace; and
 
-- (c) in connection with the employee’s employment or service, their employer provides accommodation or pays an amount for the employee’s accommodation at the distant workplace.
+- (c) in connection with the employee's employment or service, their employer provides accommodation or pays an amount for the employee's accommodation at the distant workplace.
 
 **Exclusions**
 

@@ -3,18 +3,14 @@ ATO ID 2003/650
 ==================================================
 
 Income Tax
-        Consolidation: chosen transitional entity - CGT event L1
-        FOI status: may be released
-
-
+ Consolidation: chosen transitional entity - CGT event L1
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a head company make a capital loss under section 104-500 (CGT event L1) of the Income Tax Assessment Act 1997 (ITAA 1997) in respect of an entity that joins a consolidated group and the head company chooses that the entity be a chosen transitional entity?
@@ -32,10 +28,10 @@ A chosen transitional entity's assets maintain their original tax costs and are 
 As Division 705 of the ITAA 1997 can not apply to a chosen transitional entity, it is not possible to have had a reduction under section 705-57 of the ITAA 1997 in respect of the assets of such an entity. Therefore CGT event L1 is not capable of applying to the head company in respect of a chosen transitional entity.
 Division 705 of the ITAA 1997 will not apply to Company B and there will be no reduction in the tax cost setting amount of its assets. As a consequence, CGT event L1 will not apply to A Company in respect of B Company, a chosen transitional entity.
 Date of decision:
-         18 July 2003
+  18 July 2003
 
 Year of income:
-           Year ended 30 June 2003 Year ended 30 June 2004
+  Year ended 30 June 2003 Year ended 30 June 2004
 
 Legislative References:
 
@@ -44,20 +40,19 @@ Income Tax Assessment Act 1997   Division 149   Division 705   Subdivis
 Keywords
 
 Chosen transitional entity
-          Consolidation
-          Consolidation - capital gains tax
-          Head company
-          Tax cost setting amount
-
+ Consolidation
+ Consolidation - capital gains tax
+ Head company
+ Tax cost setting amount
 
 Siebel/TDMS Reference Number:
-         3630823
+  3630823
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         25 July 2003
+  25 July 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

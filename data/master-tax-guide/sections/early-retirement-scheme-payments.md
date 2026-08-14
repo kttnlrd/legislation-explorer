@@ -17,11 +17,11 @@ Conditions to be met
 
 - the employee retires before the earlier of:
 
-– the day the employee reached “pension age” (within the meaning given by s 23(1) of the Social Security Act 1991: ¶10-195), or – if the employee’s employment would have terminated on reaching a particular age or completing a particular period of service — the day the employee would reach the age or complete the period of service (as the case may be)
+– the day the employee reached "pension age" (within the meaning given by s 23(1) of the Social Security Act 1991: ¶10-195), or – if the employee's employment would have terminated on reaching a particular age or completing a particular period of service — the day the employee would reach the age or complete the period of service (as the case may be)
 
-- if the retirement is not at arm’s length — the payment does not exceed the amount that could
+- if the retirement is not at arm's length — the payment does not exceed the amount that could
 
-  reasonably be expected to be made if the retirement were at arm’s length, and
+  reasonably be expected to be made if the retirement were at arm's length, and
 
 - at the time of the retirement, there was no arrangement between the employee and the employer,
 
@@ -29,7 +29,7 @@ Conditions to be met
 
 83-180(2)).
 
-The conditions to be met to qualify as an “early retirement scheme” are set out in s 83-180(3) and (4). Even where the conditions are not satisﬁed, the Commissioner may treat a scheme as an early retirement scheme where special circumstances exist, eg where a scheme is implemented due to a delay in processing an application for its approval or is implemented without approval because the employer had not realised the tax implications (s 83-180(5)). Particular cases of approval of early retirement schemes are set out in ATO class rulings (CR 2023/22: Museums Victoria — early retirement scheme 2023; CR 2024/13: Parks Victoria — Early Retirement Scheme 2024).
+The conditions to be met to qualify as an "early retirement scheme" are set out in s 83-180(3) and (4). Even where the conditions are not satisﬁed, the Commissioner may treat a scheme as an early retirement scheme where special circumstances exist, eg where a scheme is implemented due to a delay in processing an application for its approval or is implemented without approval because the employer had not realised the tax implications (s 83-180(5)). Particular cases of approval of early retirement schemes are set out in ATO class rulings (CR 2023/22: Museums Victoria — early retirement scheme 2023; CR 2024/13: Parks Victoria — Early Retirement Scheme 2024).
 
 Taxation of early retirement scheme payments An early retirement scheme payment comprises a tax-free amount and an assessable amount (s 83-170).
 

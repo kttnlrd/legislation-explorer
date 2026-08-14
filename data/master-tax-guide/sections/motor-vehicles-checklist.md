@@ -35,7 +35,7 @@ paragraph: "¶44-110"
 
 - A vehicle that is not used in business and is not a GST-exempt motor car, motor cycle or similar
 
-  vehicle would generally be treated as a “personal use” asset for CGT purposes (¶11-400).
+  vehicle would generally be treated as a "personal use" asset for CGT purposes (¶11-400).
 
 - A motor vehicle can qualify as an active asset for the purpose determining eligibility for the small
 

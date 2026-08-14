@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Rates provided by Commissioner**
 
-**(1)**  Despite section HM 60, the Commissioner may, in relation to an investor in a multi-rate PIE, provide a tax rate for the PIE to apply to the investor’s attributed PIE income for a calculation period if—
+**(1)**  Despite section HM 60, the Commissioner may, in relation to an investor in a multi-rate PIE, provide a tax rate for the PIE to apply to the investor's attributed PIE income for a calculation period if—
 
 - (a) the Commissioner—
 
-  - (i) considers that the investor’s notified investor rate is inconsistent with the investor’s prescribed investor rate; and
+  - (i) considers that the investor's notified investor rate is inconsistent with the investor's prescribed investor rate; and
 
   - (ii) holds information about the investor that is sufficient to enable the Commissioner to determine the appropriate rate for the investor:
 

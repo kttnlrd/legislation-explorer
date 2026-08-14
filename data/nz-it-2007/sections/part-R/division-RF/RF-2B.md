@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 - (c) interest payments on the arrangement are deferred when compared to interest deductions by the borrower; and
 
-- (d) the borrower’s expenditure on related-party debt is more than a de minimis amount.
+- (d) the borrower's expenditure on related-party debt is more than a de minimis amount.
 
 **How is the income calculated?**
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **How is the income taxed?**
 
-**(7)**  The lender’s income is non-resident passive income from which NRWT must be withheld, see section RF 2.
+**(7)**  The lender's income is non-resident passive income from which NRWT must be withheld, see section RF 2.
 
 *Defined in this Act: amount, associated person, deduction, financial arrangement, financial arrangements rules, interest, non-resident financial arrangement income, non-resident passive income, NRWT, pay, related-party debt, resident in New Zealand*
 

@@ -3,18 +3,14 @@ ATO ID 2010/40
 ==================================================
 
 Income Tax
-        Consolidation: tax cost setting rules - acquisition of a MEC group
-        FOI status: may be released
-
-
+ Consolidation: tax cost setting rules - acquisition of a MEC group
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Subdivision 705-C of the Income Tax Assessment Act 1997 (ITAA 1997) apply where a single entity, that is not a member of a consolidated group or a multiple entry consolidated (MEC) group, acquires all the membership interests in the head company and the other eligible tier-1 companies of a MEC group and immediately makes a choice to form a consolidated group?
@@ -28,15 +24,15 @@ Subdivision 705-C of the ITAA 1997 modifies Division 701 of the ITAA 1997 (the c
 Subsection 705-175(1) of the ITAA 1997 sets out the circumstances in which Subdivision 705-C of the ITAA 1997 applies:
 
 This Subdivision applies if all of the *members of a *consolidated group (the
-              acquired group
+ acquired group
 ) become members of another consolidated group (the
-              acquiring group
+ acquiring group
 ) at a particular time (the
-              acquisition time
+ acquisition time
 ) as a result of the *acquisition of *membership interests in the *head company of the acquired group.
 
 Subsection 705-175(1) of the ITAA 1997 applies only where an existing consolidated group acquires all the membership interests in the acquired group. The words 'become members of
-          another
+ another
  consolidated group' (emphasis added) indicate that there must be an existing consolidated group as the acquiring group. This view is supported by the Guide to Subdivision 705-C in section 705-170 of the ITAA 1997 and the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.1) 2002 (see paragraph 1.16).
 Section 719-170 of the ITAA 1997 modifies subsection 705-175(1) of the ITAA 1997 for MEC groups where all the members of a MEC group become members of a consolidated group or another MEC group as a result of the acquisition of membership interests in the head company and the other eligible tier-1 companies of the acquired MEC group. Under subsection 719-170 of the ITAA 1997, an eligible tier-1 company of an acquired MEC group is treated in a similar manner as head company of an acquired group for the purposes of subsection 705-175(1) of the ITAA 1997.
 Consistent with the operation of Subdivision 705-C of the ITAA 1997, section 719-170 of the ITAA 1997 applies only where the acquiring group is either an existing consolidated group or an existing MEC group. This view is supported by the Notes 1 and 2 to subsection 719-170(2) of the ITAA 1997 and the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.2) 2002 which both explain how the modifications in section 719-170 of the ITAA 1997 operate in situations where a MEC group is acquired by another group (see paragraphs 2.14 to 2.20).
@@ -44,16 +40,15 @@ Subsection 705-175(1) of the ITAA 1997 does not apply where the members of the a
 Z Co is not a member of a consolidated group or a MEC group at the time it acquires the membership interests in A Co and B Co. The consolidated group formed with Z Co as the head company and all the former members of the MEC group, A Co, B Co and S Co, as subsidiary members, only comes into existence when Z Co makes a choice, under section 703-50 of the ITAA 1997, to consolidate the group. This choice may have effect from the date on which the membership interests in A Co and B Co are acquired, but it is not sufficient to satisfy the requirements of subsection 705-175(1) of the ITAA 1997, as modified by section 719-170 of the ITAA 1997.
 Accordingly, Subdivision 705-C of the ITAA 1997 does not apply where a single entity, which is not a member of a consolidated group or a MEC group, acquires all the membership interests in the head company and eligible tier-1 companies of a MEC group and then makes the choice to form a consolidated group
 
-
 [
-                Note
-                : when the MEC group is acquired by Z Co, the MEC group will deconsolidate and the cost setting rules in Division 711 of the ITAA 1997 or Subdivision 719-K of the ITAA 1997(subject to the modifications in Subdivision 719-J of the ITAA 1997) will apply to the members of the MEC group. Subdivision 705-B of the ITAA 1997 will apply on the formation of the Z Co consolidated group.]
+ Note
+ : when the MEC group is acquired by Z Co, the MEC group will deconsolidate and the cost setting rules in Division 711 of the ITAA 1997 or Subdivision 719-K of the ITAA 1997(subject to the modifications in Subdivision 719-J of the ITAA 1997) will apply to the members of the MEC group. Subdivision 705-B of the ITAA 1997 will apply on the formation of the Z Co consolidated group.]
 
 Date of decision:
-         15 January 2010
+  15 January 2010
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -66,25 +61,24 @@ Related ATO Interpretative Decisions
 Keywords
 
 Consolidation
-          Consolidated group
-          Consolidation - formation
-          Consolidation - joining
-          Consolidation - multiple entry consolidated group
-          Eligible tier-1 company
-          Head company
-          Head company of a MEC group
-          Subsidiary member of a consolidated group
-          Subsidiary mem
-
+ Consolidated group
+ Consolidation - formation
+ Consolidation - joining
+ Consolidation - multiple entry consolidated group
+ Eligible tier-1 company
+ Head company
+ Head company of a MEC group
+ Subsidiary member of a consolidated group
+ Subsidiary mem
 
 Siebel/TDMS Reference Number:
-         1-1TF9ZU8
+  1-1TF9ZU8
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         12 February 2010
+  12 February 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

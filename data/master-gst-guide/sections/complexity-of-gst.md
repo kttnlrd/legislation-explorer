@@ -19,7 +19,7 @@ The general rules are relatively simple, once you become familiar with them. And
 
   the legislation in plain English, this has proven hard to achieve. With drafting expressions such as
 
-“Subdivision 38-P period”, “intended or former application of a thing” and “total Subdivision 66-B credit amount”, the legislation does not make light reading.
+"Subdivision 38-P period", "intended or former application of a thing" and "total Subdivision 66-B credit amount", the legislation does not make light reading.
 
 - The legislation is very long — the GST Act itself covers over 800 pages (and is still growing).
 
@@ -29,7 +29,7 @@ The general rules are relatively simple, once you become familiar with them. And
 
   further amendments have been made.
 
-- There are various “grey” areas where the detail has been left to ATO rulings.
+- There are various "grey" areas where the detail has been left to ATO rulings.
 
 - Complex transitional rules covered the transition from sales tax and the impact of GST on contracts
 

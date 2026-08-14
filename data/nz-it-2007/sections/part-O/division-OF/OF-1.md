@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Credits**
 
-**(3)**  Credits to the account include redemption proceeds that are less than the ASC company’s available subscribed capital calculated under the slice rule.
+**(3)**  Credits to the account include redemption proceeds that are less than the ASC company's available subscribed capital calculated under the slice rule.
 
 **Debits**
 
-**(4)**  Debits to the account include a transfer of a credit balance to the company’s imputation credit account.
+**(4)**  Debits to the account include a transfer of a credit balance to the company's imputation credit account.
 
 *Defined in this Act: ASC account, ASC account company, ASC credit, ASC debit, available subscribed capital, category A income, group investment fund, imputation credit account, multi-rate PIE, public unit trust, slice rule, tax year*
 

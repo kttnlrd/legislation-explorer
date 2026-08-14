@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) the circumstances in which a person has a provisional tax obligation:
 
-- (b) a person’s provisional tax liability for a tax year, and the methods for calculating the amount payable for the tax year:
+- (b) a person's provisional tax liability for a tax year, and the methods for calculating the amount payable for the tax year:
 
 - (c) the number of instalments of provisional tax and the instalment dates for a corresponding income year:
 

@@ -45,7 +45,7 @@ Element untaxed in the fund Where the taxable component of a superannuation inco
 
   dependant, as follows:
 
-(i) if either the deceased was aged at least 60 at the time of death or the dependant was aged at least 60 at the time of receiving the beneﬁt, the dependant is entitled to a tax oﬀset of 10% of the element untaxed in the fund, or (ii) if neither was age 60, the element untaxed in the fund is included in the dependant’s assessable income, and the dependant will receive a tax oﬀset of 10% only when they attain age 60 (ss 302-80; 302-85; 302-90).
+(i) if either the deceased was aged at least 60 at the time of death or the dependant was aged at least 60 at the time of receiving the beneﬁt, the dependant is entitled to a tax oﬀset of 10% of the element untaxed in the fund, or (ii) if neither was age 60, the element untaxed in the fund is included in the dependant's assessable income, and the dependant will receive a tax oﬀset of 10% only when they attain age 60 (ss 302-80; 302-85; 302-90).
 
 Payments to a non-dependant — lump sum The tax free component of a superannuation lump sum paid to a non-dependant is not assessable income and not exempt income (s 302-140). The taxable component of the lump sum is included in assessable income and taxed at marginal rates. A tax oﬀset applies to ensure that the tax rate on the element taxed in the fund does not exceed 15% and the tax rate on the element untaxed in the fund does not exceed 30% (s 302-145).
 
@@ -76,6 +76,6 @@ An income stream, arising from a family law payment split, that is paid to a dec
 *Refs: s 302-60), s 303-5, s 302-65), s 302-70), s 302-75), s 302-65, s 302-75, s 302-80, s 302-140), s
 302-145), s 302-10), ITAA97 s 307-65, ITAA97 s 307-5(7)*
 
-for certain income streams The amount of an individual’s total income stream beneﬁts in the retirement phase (¶13-140) is limited by a transfer balance cap (¶14-320) and an individual is liable to pay excess transfer balance tax if the cap is exceeded (¶14-360). Special rules apply to capped deﬁned beneﬁt income stream beneﬁts under the transfer balance tax regime, with additional tax consequences if the beneﬁts exceed a deﬁned beneﬁt income cap in a year (¶14-370).
+for certain income streams The amount of an individual's total income stream beneﬁts in the retirement phase (¶13-140) is limited by a transfer balance cap (¶14-320) and an individual is liable to pay excess transfer balance tax if the cap is exceeded (¶14-360). Special rules apply to capped deﬁned beneﬁt income stream beneﬁts under the transfer balance tax regime, with additional tax consequences if the beneﬁts exceed a deﬁned beneﬁt income cap in a year (¶14-370).
 
 ## Transfer balance tax and additional tax consequences

@@ -21,7 +21,7 @@ Franking returns, assessments, collection and information Franking returns The C
 
 *Refs: ITAA97 s 207-157), ITAA97 s 207-157(1), ITAA97 s 207-157(2)), ITAA97 s 207-157(4)*
 
-- the entity’s franking account balance at the end of the income year, or (where applicable)
+- the entity's franking account balance at the end of the income year, or (where applicable)
 
   immediately before it ceased to be a franking entity. PDFs must also provide venture capital sub-
 
@@ -33,7 +33,7 @@ Franking returns, assessments, collection and information Franking returns The C
 
 - any other relevant information that the Commissioner may require.
 
-Generally, the franking account tax return should be lodged by the end of the month following the end of the corporate tax entity’s income year (eg 31 July for entities that balance on 30 June).
+Generally, the franking account tax return should be lodged by the end of the month following the end of the corporate tax entity's income year (eg 31 July for entities that balance on 30 June).
 
 The franking account tax return is required to be lodged only if the entity has one of the following:
 
@@ -47,7 +47,7 @@ The franking account tax return is required to be lodged only if the entity has 
 
 There are special rules where a corporate tax entity receives a tax refund (including a refund of diverted proﬁts tax) within 3 months after the end of the income year (or the time it ceased to be a franking entity), and the refund creates a liability or increased liability to franking deﬁcit tax (¶4-780). If the entity has no outstanding franking return, it must lodge a further return within 14 days after the refund is received. If the entity has an outstanding return due within 14 days of the refund, it can account for the refund in the outstanding return or in a further return lodged within 14 days after the refund is received (ITAA97 s 214-45).
 
-Franking assessments The provisions for making franking assessments are contained in ITAA97 Subdiv 214-B (ss 214-60 to 214-80). An entity’s ﬁrst franking return for the income year is deemed to be an assessment by the Commissioner, unless the Commissioner has already made a franking assessment for the entity for the year.
+Franking assessments The provisions for making franking assessments are contained in ITAA97 Subdiv 214-B (ss 214-60 to 214-80). An entity's ﬁrst franking return for the income year is deemed to be an assessment by the Commissioner, unless the Commissioner has already made a franking assessment for the entity for the year.
 
 If the entity is not required to lodge a franking return, but has lodged its income tax return, the Commissioner cannot make a franking assessment more than 3 years after the later of the due date or actual date for lodging the income tax return (ITAA97 s 214-60(1A)).
 
@@ -73,7 +73,7 @@ GIC (¶29-510) applies to overdue franking tax (ITAA97 s 214-155).
 
 Refunds of overpaid franking tax are governed by ITAA36 s 172 (¶28-160).
 
-Records, information and tax agents ITAA36 s 262A (record-keeping: ¶9-045) and TAA sch 1 s 353-10 (Commissioner’s access to information: ¶25-240) apply to the imputation system. Section 262A applies with appropriate modiﬁcations (ITAA97 s 214-175).
+Records, information and tax agents ITAA36 s 262A (record-keeping: ¶9-045) and TAA sch 1 s 353-10 (Commissioner's access to information: ¶25-240) apply to the imputation system. Section 262A applies with appropriate modiﬁcations (ITAA97 s 214-175).
 
 Persons giving a franking credit return or making an objection for the purposes of Pt 3-6 are covered by the Tax Agent Services Act 2009 (¶32-010).
 

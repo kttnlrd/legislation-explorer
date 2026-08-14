@@ -7,19 +7,19 @@ paragraph: "¶23-250"
 ---
 # Quoting an ABN ¶23-250
 
-Luxury car tax (LCT) does not apply to a supply or importation where the recipient “quotes” its ABN in the approved format (LCT Act ss 5-10, 7-10; ¶23-050). This prevents LCT becoming payable until the retail sale or import of the car.
+Luxury car tax (LCT) does not apply to a supply or importation where the recipient "quotes" its ABN in the approved format (LCT Act ss 5-10, 7-10; ¶23-050). This prevents LCT becoming payable until the retail sale or import of the car.
 
 To be entitled to quote, the recipient must be registered (for GST) and must intend to use the car for one of the following purposes (and no other):
 
 - holding the car as trading stock, excluding holding it for hire or lease. This is determined by the
 
-  taxpayer’s subjective purpose (Automotive Invest Pty Ltd v FC of T [2024] HCA 36). It covers the
+  taxpayer's subjective purpose (Automotive Invest Pty Ltd v FC of T [2024] HCA 36). It covers the
 
   typical situation where, as part of its ordinary business, a dealer or wholesaler acquires a car for re-
 
   sale (or for sale under a hire-purchase agreement: GST Ruling GSTR 2000/29; Interpretative Decision
 
-ID 2005/186). It would also include a situation where the car is held as a demonstrator vehicle, or where a car restorer acquires a vehicle for restoration and subsequent re-sale. It also includes the situation where classic cars exhibited in a “car museum” are for sale, even though the museum itself also operates as a tourist attraction (Automotive Invest; see further CCH Australian Tax Week ¶433, 24 October 2024). According to the ATO this would not include cars that are intended for personal use, rally or racing driving, staff salary packaging, promotion or sponsorship, executive vehicles or capital assets. Nor would it cover the situation where a dealer acquired vehicles to facilitate the making of an investment by a relative (Melbourne Car Shop Pty Ltd v FC of T [2010] FCA 373); nor where the taxpayer’s activities in selling one car at a loss did not, in the circumstances, amount to carrying on a business (Criterion Prestige Pty Ltd v FC of T [2015] FCA 468)
+ID 2005/186). It would also include a situation where the car is held as a demonstrator vehicle, or where a car restorer acquires a vehicle for restoration and subsequent re-sale. It also includes the situation where classic cars exhibited in a "car museum" are for sale, even though the museum itself also operates as a tourist attraction (Automotive Invest; see further CCH Australian Tax Week ¶433, 24 October 2024). According to the ATO this would not include cars that are intended for personal use, rally or racing driving, staff salary packaging, promotion or sponsorship, executive vehicles or capital assets. Nor would it cover the situation where a dealer acquired vehicles to facilitate the making of an investment by a relative (Melbourne Car Shop Pty Ltd v FC of T [2010] FCA 373); nor where the taxpayer's activities in selling one car at a loss did not, in the circumstances, amount to carrying on a business (Criterion Prestige Pty Ltd v FC of T [2015] FCA 468)
 
 - using the car for research and development for the manufacturer of the car, or
 

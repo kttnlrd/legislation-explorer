@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Debit**
 
-**(1)**  An ICA company that transfers an imputation credit under an election under section OB 83 to a company that uses a tax loss made available under section IC 5 (Company B using company A’s tax loss) has an imputation debit for the amount of the imputation credit transferred.
+**(1)**  An ICA company that transfers an imputation credit under an election under section OB 83 to a company that uses a tax loss made available under section IC 5 (Company B using company A's tax loss) has an imputation debit for the amount of the imputation credit transferred.
 
 **Table reference**
 

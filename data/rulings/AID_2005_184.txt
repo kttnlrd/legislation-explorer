@@ -3,23 +3,19 @@ ATO ID 2005/184
 ==================================================
 
 Goods and Services Tax
-        GST and supply of a call option over GST-free land
-        FOI status: may be released
-
+ GST and supply of a call option over GST-free land
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a supplier of real property, making an input taxed financial supply under section 40-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it grants a call option that entitles the grantee to purchase real property, the supply of which would be a GST-free supply?
@@ -32,19 +28,13 @@ Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. Subsection 40-5(2) of the GST Act defines a financial supply as having the meaning given by the A New Tax System (Goods and Service Tax) Regulations 1999 (GST Regulations).
 Subregulation 40-5.09(1) of the GST Regulations, provides that the provision, acquisition or disposal of an interest mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
 
-
-
 (a)the provision, acquisition or disposal of that interest is:
-
-
 
 •for consideration
 •in the course or furtherance of an enterprise, and
 •connected with Australia, and
 
 (b)the supplier:
-
-
 
 •is registered or required to be registered for GST, and
 •is a financial supply provider in relation to supply of the interest.
@@ -53,8 +43,6 @@ Item 11 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 11
 The supply of the call option was made for consideration, in the course or furtherance of the entity's enterprise and was connected with Australia. The entity is registered for GST and as it granted the option, it is a financial supply provider in relation to the supply of the call option (regulation 40-5.06 of the GST Regulations). Therefore, the requirements in subregulation 40-5.09(1) of the GST Regulations are satisfied and the entity's supply is an input taxed financial supply under subsection 40-5(1) of the GST Act.
 However, under subsection 9-30(1) of the GST Act a supply is GST-free if:
 
-
-
 •it is GST-free under Division 38 of the GST Act or under a provision of another Act, or
 •it is a supply of a right to receive a supply that would be GST-free under paragraph (a).
 
@@ -62,7 +50,7 @@ The supply of the call option is a supply of a right to receive a supply of a pr
 Accordingly, the entity's supply of the call option is both an input taxed financial supply, under subsection 40-5(1) of the GST Act, and a GST-free supply under subsection 9-30(1) of the GST Act.
 Subsection 9-30(3) of the GST Act provides that where a supply is both GST-free and input taxed, the supply will be GST-free and not input taxed, unless the provision under which it is input taxed requires the supplier to have chosen for its supplies of that kind to be input taxed. Subsection 40-5(1) of the GST Act does not require the entity to choose for the supply to be input taxed. As such, the entity's supply will be GST-free and not input taxed.
 Date of decision:
-         26 August 2004
+  26 August 2004
 
 Legislative References:
 
@@ -77,23 +65,22 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST-free supply
-          GST property & construction
-          GST residential premises
-          GST rights and real property
-          Input taxed supplies
-          GST financial supply
-          GST derivatives
-
+ GST-free supply
+ GST property & construction
+ GST residential premises
+ GST rights and real property
+ Input taxed supplies
+ GST financial supply
+ GST derivatives
 
 Siebel/TDMS Reference Number:
-         3986150
+  3986150
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         1 July 2005
+  1 July 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

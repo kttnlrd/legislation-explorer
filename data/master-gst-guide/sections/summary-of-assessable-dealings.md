@@ -9,7 +9,7 @@ paragraph: "¶22-150"
 
 Essentially, WET is a value-based tax directed at the final sale of wine at the wholesale level or an equivalent transaction. Intermediate steps are covered by a system of exemptions (¶22-420).
 
-For WET to apply, there must be a “taxable dealing” in wine that is in Australia. A taxable dealing is an “assessable dealing” which does not qualify for an exemption (WET Act, s 5-5).
+For WET to apply, there must be a "taxable dealing" in wine that is in Australia. A taxable dealing is an "assessable dealing" which does not qualify for an exemption (WET Act, s 5-5).
 
 *Refs: s 5-5)*
 

@@ -3,23 +3,17 @@ ATO ID 2004/959
 ==================================================
 
 Income tax
-        Consolidation: loss transfer testing - pattern of distributions test - a non-fixed trust holds fixed entitlements to 50% or more of the income or capital of a company
-        FOI status: may be released
-
-
+ Consolidation: loss transfer testing - pattern of distributions test - a non-fixed trust holds fixed entitlements to 50% or more of the income or capital of a company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 707-130 of the Income Tax Assessment Act 1997 (ITAA 1997) apply in determining whether a non-fixed trust passes the pattern of distributions test where:
-
-
 
 •a loss that is incurred by a subsidiary member is available for transfer, under Subdivision 707-A of the ITAA 1997, to the head company of a consolidated group; and
 •Subdivision 165-F of the ITAA 1997 is applicable in determining whether the subsidiary member satisfies the continuity of ownership test (COT) in respect of the loss in the trial year?
@@ -32,8 +26,6 @@ Head Co holds fixed entitlements to all of the income and capital of Company A a
 Trust B is a non-fixed trust that holds fixed entitlements to a 50% or greater share of the income of Head Co at all times during the ownership test period.
 Reasons for Decision
 Subsection 707-120(1) of the ITAA 1997 provides that a loss is transferred from a joining entity to the head company of a consolidated group to the extent that the loss could have been utilised by the joining entity for an income year consisting of the trial year, assuming:
-
-
 
 •that the entity had sufficient income or gains to utilise the loss; and
 •that the joining entity had not become a member of the consolidated group.
@@ -52,10 +44,10 @@ Section 707-130 of the ITAA 1997 modifies the pattern of distributions test when
 Given that subsection 165-215(5) of the ITAA 1997 treats the non-fixed trust as having incurred the loss, it is appropriate that the modifications in section 707-130 of the ITAA 1997 will apply in determining if the non-fixed trust passes the pattern of distributions test, despite the fact that the non-fixed trust is not the joining entity.
 If the pattern of distributions test is relevant in determining whether Trust B could have deducted the loss, the modifications in section 707-130 of the ITAA 1997 will apply in determining whether Trust B passes the pattern of distributions test. This will ensure that the pattern of distributions test is appropriately applied to Trust B, despite the fact that Trust B is not a joining entity.
 Date of decision:
-         2 December 2004
+  2 December 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -69,26 +61,25 @@ Related ATO Interpretative Decisions
 Keywords
 
 Consolidation
-          Consolidation - joining
-          Consolidation - losses
-          Consolidation - pattern of distributions test
-          Continuity of ownership test
-          Joining entity
-          Joining time
-          Non fixed trusts
-          Transfer of losses
-          Trial year
-          Utilise a loss
-
+ Consolidation - joining
+ Consolidation - losses
+ Consolidation - pattern of distributions test
+ Continuity of ownership test
+ Joining entity
+ Joining time
+ Non fixed trusts
+ Transfer of losses
+ Trial year
+ Utilise a loss
 
 Siebel/TDMS Reference Number:
-         4249405
+  4249405
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         10 December 2004
+  10 December 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

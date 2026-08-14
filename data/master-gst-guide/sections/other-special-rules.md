@@ -15,7 +15,7 @@ Depreciation (capital allowance).
 
 The cost of depreciating assets is reduced by the amount of any input tax credit that you are entitled to on the acquisition (ITAA 1997, s 27-80).
 
-The depreciable cost is also adjusted to reflect GST adjustments relating to the asset (ITAA 1997, s 27-85; 27-90). However, this normally does not apply to adjustments arising from a change in planned use (Div 129: ¶6-300) or from a sale of an asset acquired without full credits (Div 132: ¶6-310); in such cases, the adjustment is assessable if it is a decreasing adjustment, or deductible if it is an increasing adjustment (ITAA 1997, s 27-87; 27-92). The GST component is also excluded when calculating balancing adjustments on the sale of the asset (ITAA 1997, s 27-95). For the effect on “luxury” cars, see ¶12-110.
+The depreciable cost is also adjusted to reflect GST adjustments relating to the asset (ITAA 1997, s 27-85; 27-90). However, this normally does not apply to adjustments arising from a change in planned use (Div 129: ¶6-300) or from a sale of an asset acquired without full credits (Div 132: ¶6-310); in such cases, the adjustment is assessable if it is a decreasing adjustment, or deductible if it is an increasing adjustment (ITAA 1997, s 27-87; 27-92). The GST component is also excluded when calculating balancing adjustments on the sale of the asset (ITAA 1997, s 27-95). For the effect on "luxury" cars, see ¶12-110.
 
 Withholding tax.
 
@@ -23,7 +23,7 @@ PAYG withholding tax should apparently be calculated on the GST-inclusive value 
 
 Turnover ceiling for small business.
 
-Various income tax (and GST) concessions are available to “small business entities” which, typically, must have turnovers of less than $10m (or $50 million in certain cases) (¶1-250). The GST on supplies made by the taxpayer is excluded from this turnover calculation.
+Various income tax (and GST) concessions are available to "small business entities" which, typically, must have turnovers of less than $10m (or $50 million in certain cases) (¶1-250). The GST on supplies made by the taxpayer is excluded from this turnover calculation.
 
 Wholly-owned and consolidated groups.
 

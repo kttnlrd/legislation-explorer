@@ -14,9 +14,9 @@ compilation_date: 2026-06-06
 
 **(1)**  For a class of policies, income of a particular source or nature, and tax credits received, are apportioned between the policyholder base and shareholder base—
 
-- (a) in the same proportion as the policyholder base income relating to the particular source, nature, or credits bears to the life insurer’s total gross gains relating to the particular source, nature, or credits, in the case of the policyholder base:
+- (a) in the same proportion as the policyholder base income relating to the particular source, nature, or credits bears to the life insurer's total gross gains relating to the particular source, nature, or credits, in the case of the policyholder base:
 
-- (b) in the same proportion as the shareholder base income relating to the particular source, nature, or credits bears to the life insurer’s total gross gains relating to the particular source, nature, or credits, in the case of the shareholder base.
+- (b) in the same proportion as the shareholder base income relating to the particular source, nature, or credits bears to the life insurer's total gross gains relating to the particular source, nature, or credits, in the case of the shareholder base.
 
 **More equitable or reasonable basis**
 

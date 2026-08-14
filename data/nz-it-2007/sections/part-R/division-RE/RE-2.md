@@ -106,7 +106,7 @@ compilation_date: 2026-06-06
 
 **(6)**  If a person derives an amount described in this section in their capacity as trustee and the amount is beneficiary income, the amount is treated as not derived by the trustee.
 
-**Trustees’ RWT substitution payment**
+**Trustees' RWT substitution payment**
 
 **(7)**  A trustee may pay an amount of money (the RWT substitution payment) to the relevant beneficiary that is equal to or less than the amount of RWT withheld for an amount to which subsection (6) applies (the RPI beneficiary income).
 

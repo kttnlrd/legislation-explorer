@@ -29,7 +29,7 @@ A replacement-asset roll-over may be available to a taxpayer if an involuntary d
 
   than a foreign government agency, where a mining lease was compulsorily granted over the land
 
-  and the lease signiﬁcantly aﬀected the taxpayer’s use of the land, or
+  and the lease signiﬁcantly aﬀected the taxpayer's use of the land, or
 
 - the taxpayer disposes of land (and any depreciating asset ﬁxed to the land) to an entity, other
 
@@ -37,9 +37,9 @@ A replacement-asset roll-over may be available to a taxpayer if an involuntary d
 
   if the taxpayer had not disposed of the land and the lease would have signiﬁcantly aﬀected the
 
-  taxpayer’s use of the land.
+  taxpayer's use of the land.
 
-A roll-over was not available where an easement was created over a landowner’s property as the easement was considered to be a new asset (ID 2010/34). The main residence exemption will apply where there is a compulsory acquisition of a part of a taxpayer’s main residence (¶11-740).
+A roll-over was not available where an easement was created over a landowner's property as the easement was considered to be a new asset (ID 2010/34). The main residence exemption will apply where there is a compulsory acquisition of a part of a taxpayer's main residence (¶11-740).
 
 For the roll-over to be available, the entity acquiring the asset must be the Commonwealth, a state, a territory or an authority thereof and not merely an entity which is given authority under a Commonwealth, state or territory Act to acquire the asset. The roll-over does not apply if the entity acquiring the asset is merely authorised to do so by a Commonwealth, state or territory authority (TD 2000/36).
 

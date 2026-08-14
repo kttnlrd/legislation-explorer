@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Amount of reduction**
 
-**(2)**  The Commissioner may reduce the person’s credit by an amount equal to their proportion of the unpaid amount under subsection (1)﻿(c).
+**(2)**  The Commissioner may reduce the person's credit by an amount equal to their proportion of the unpaid amount under subsection (1)﻿(c).
 
 **When failure to pay remedied**
 

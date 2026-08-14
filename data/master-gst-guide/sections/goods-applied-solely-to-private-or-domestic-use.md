@@ -21,7 +21,7 @@ We have already seen that if you acquire something for business purposes and lat
 
   private and domestic use (GST Ruling GSTR 2003/6).
 
-Example In November, a shopowner purchases 20 × $55 items as business stock for a GST-inclusive total of $1,100 and puts them on the th shelf for sale. In his November monthly return, the owner claims an input tax credit of 1/11 of $1,100, ie $100. In the next February, the owner takes one of the items off the shelf to keep solely for personal use at home. In his February return, the owner’s net GST th will be increased by an adjustment of 1/11 of $55, ie $5.
+Example In November, a shopowner purchases 20 × $55 items as business stock for a GST-inclusive total of $1,100 and puts them on the th shelf for sale. In his November monthly return, the owner claims an input tax credit of 1/11 of $1,100, ie $100. In the next February, the owner takes one of the items off the shelf to keep solely for personal use at home. In his February return, the owner's net GST th will be increased by an adjustment of 1/11 of $55, ie $5.
 
 If there is an adjustment under this rule, there cannot later be an adjustment under the planned use rules.
 

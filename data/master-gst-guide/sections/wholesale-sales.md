@@ -25,7 +25,7 @@ A wholesale sale is a sale made to an entity that purchases the wine for the pur
 
 - by a distributor to a retailer.
 
-The Commissioner considers that a “sale” occurs when ownership is transferred from one person to another for a price (WET Ruling WETR 2009/1). This may include a supply by an entity, such as a wine club, to its members (Interpretative Decision ID 2010/152). A sale also specifically includes a barter and exchange transaction (WET Act, s 33-1 definition).
+The Commissioner considers that a "sale" occurs when ownership is transferred from one person to another for a price (WET Ruling WETR 2009/1). This may include a supply by an entity, such as a wine club, to its members (Interpretative Decision ID 2010/152). A sale also specifically includes a barter and exchange transaction (WET Act, s 33-1 definition).
 
 Example Bacchus, a wine manufacturer, trades ten cases of wine in return for previous promotional activities supplied by a local bottle shop.
 

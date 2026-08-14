@@ -26,7 +26,7 @@ source_pdf: "vol01.pdf"
 **(2)**  An expression has the same meaning in Schedule 1 as in the Income Tax Assessment Act 1997.
 
 <a id="s3AA-3"></a>
-**(3)**  Division 950 of the Income Tax Assessment Act 1997 (which contains rules for interpreting that Act) applies to Schedule 1 to this Act as if the provisions in that Schedule were provisions of that Act. Authorised Version C2026C00170 registered 28/04/2026
+**(3)**  Division 950 of the Income Tax Assessment Act 1997 (which contains rules for interpreting that Act) applies to Schedule 1 to this Act as if the provisions in that Schedule were provisions of that Act.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

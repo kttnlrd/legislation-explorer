@@ -23,7 +23,7 @@ A taxation law is (broadly) any Act of which the Commissioner has the general ad
 
 *Refs: s 90-5)*
 
-- preparing or lodging a return, notice, statement, application or other document about a taxpayer’s
+- preparing or lodging a return, notice, statement, application or other document about a taxpayer's
 
   liabilities, obligations or entitlements under a taxation law
 
@@ -43,7 +43,7 @@ A taxation law is (broadly) any Act of which the Commissioner has the general ad
 
 The regulations specify a range of services that are not a tax agent service (Tax Agent Services Regulations 2022, reg 26). These include: a service that is provided by an auditor of a self managed superannuation fund under the Superannuation Industry (Supervision) Act 1993; a service provided between related entities (related entities include associated entities within the meaning of the Corporations Act 2001 (Cth) and entities under common ownership (as deﬁned)); a service provided by the trustee of a trust to the trust or an entity wholly controlled or owned by the trust; a service provided between partners in a partnership in relation to the partnership; and a service provided between the members of a joint venture in relation to the joint venture.
 
-For the TPB’s views on how the registration regime operates in relation to: insolvency practitioners, see TPB(I) 12/2012; valuers, see TPB(I) 16/2012; labour hire/on-hire ﬁrms, see TPB(I) 26/2016; and payroll service providers, see TPB(I) 31/2016.
+For the TPB's views on how the registration regime operates in relation to: insolvency practitioners, see TPB(I) 12/2012; valuers, see TPB(I) 16/2012; labour hire/on-hire ﬁrms, see TPB(I) 26/2016; and payroll service providers, see TPB(I) 31/2016.
 
 The TPB has released information sheets which deal with what constitutes a tax agent service or a BAS service and what constitutes a fee or other reward (TPB(I) 39/2023; TPB(I) 38/2023; TPB(I) 40/2023).
 

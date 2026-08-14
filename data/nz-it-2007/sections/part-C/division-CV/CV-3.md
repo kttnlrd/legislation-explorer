@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section FM 23 (Arrangements for disposal of shares) when shares in company A that is part of a consolidated group are disposed of by another company for consideration that is less than would have been received in an arm’s length transaction because of a reduction in the value of company A’s assets.
+**(1)**  This section applies for the purposes of section FM 23 (Arrangements for disposal of shares) when shares in company A that is part of a consolidated group are disposed of by another company for consideration that is less than would have been received in an arm's length transaction because of a reduction in the value of company A's assets.
 
 **Income**
 
-**(2)**  The amount that would have been received in an arm’s length transaction is treated as income derived by the other company at the time of disposal.
+**(2)**  The amount that would have been received in an arm's length transaction is treated as income derived by the other company at the time of disposal.
 
 *Defined in this Act: amount, company, consolidated group, income*
 

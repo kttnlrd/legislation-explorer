@@ -44,7 +44,7 @@ source_pdf: "vol02.pdf"
 **(3)** There are these requirements for the agreement:
 
 > <a id="s82KZME-3-a"></a>
-> **(a)** the taxpayer’s allowable deductions for the expenditure year that are attributable to the agreement must exceed the taxpayer’s assessable income (if any) for the expenditure year that is attributable to the agreement; and
+> **(a)** the taxpayer's allowable deductions for the expenditure year that are attributable to the agreement must exceed the taxpayer's assessable income (if any) for the expenditure year that is attributable to the agreement; and
 
 > <a id="s82KZME-3-b"></a>
 > **(b)** the taxpayer does not have day to day control over the operation of the agreement (whether or not the taxpayer has the right to be consulted or give directions); and
@@ -86,7 +86,7 @@ source_pdf: "vol02.pdf"
 > **(d)** the taxpayer has not obtained and will not obtain any other kind of assessable income from the agreement (except a capital gain or an insurance receipt); and
 
 > <a id="s82KZME-5-e"></a>
-> **(e)** all aspects of the agreement have been conducted at arm’s length. Exception 3: expenditure is excluded expenditure
+> **(e)** all aspects of the agreement have been conducted at arm's length. Exception 3: expenditure is excluded expenditure
 
 <a id="s82KZME-7"></a>
 **(7)** The expenditure must not be excluded expenditure (see subsection 82KZL(1)). Exception 4: expenditure meets a pre-existing obligation

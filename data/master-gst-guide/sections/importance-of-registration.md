@@ -29,7 +29,7 @@ If you are required to register, but fail to do so, you become liable for penalt
 
 A taxpayer normally cannot be retrospectively required to register beyond a period of four years (¶3-040).
 
-You can only be registered if you are an “entity” (¶3-015).
+You can only be registered if you are an "entity" (¶3-015).
 
 Limited registration entities For simplified rules designed to reduce the impact of the registration rules for certain non-residents, see ¶3-075.
 

@@ -3,29 +3,22 @@ ATO ID 2004/337
 ==================================================
 
 Goods and Services Tax
-        GST and attribution of input tax credits for an acquisition under a hire purchase agreement where the recipient accounts for GST on a cash basis
-        FOI status: may be released
-
+ GST and attribution of input tax credits for an acquisition under a hire purchase agreement where the recipient accounts for GST on a cash basis
+ FOI status: may be released
 
 This ATO ID is withdrawn because it contains a view regarding provisions of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) and the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) that do not apply in respect of acquisitions made under hire purchase agreements entered into on or after 1 July 2012 as a result of changes to the GST Act and the GST Regulations taking effect on and from that date.
 Despite its withdrawal, this ATO ID continues to be a precedential view for cash basis attribution of input tax credits for acquisitions made under hire purchase agreements entered into before 1 July 2012, where such attribution is in respect of a tax period occurring after 1 July 2012.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an entity, that accounts for goods and services tax (GST) on a cash basis, attribute all of the input tax credit to the tax period in which it makes its first instalment payment under subsection 29-10(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when:
-
-
 
 • it purchases equipment under a hire purchase agreement, and
 • the supplier includes an amount for the full GST payable as part of the first instalment?
@@ -37,8 +30,6 @@ Facts
 The entity is a business operator that accounts for GST on a cash basis. The entity purchased equipment for its business under a hire purchase agreement.
 This acquisition was a creditable acquisition under section 11-5 of the GST Act. The entity makes the first instalment payment under the hire purchase agreement in the current tax period.
 The first instalment was calculated by the supplier as the sum of:
-
-
 
 • part of the principal,
 • interest on the principal, and
@@ -57,15 +48,12 @@ If you account for GST on a cash basis and you make a creditable acquisition of 
 
 The entity accounts for GST on a cash basis and makes the first instalment payment under the hire purchase agreement in the current tax period. Therefore, in this current tax period the entity is entitled to attribute input tax credits for the acquisition to the extent that it has provided consideration for that acquisition in this tax period. This is calculated as:
 
-
 1/11 * (instalment for that period - interest component of instalment)
 
 (The interest component of the instalment is input taxed and, therefore, there is no input tax credit entitlement on that part of the payment.)
 From the entity's perspective, it is irrelevant that the supplier included an amount that was equal to its entire GST liability in calculating the amount of the first instalment. The supplier calculated the first instalment to include an amount equal to its GST liability because it accounts for GST on a non-cash basis and is required to attribute the entire GST payable on its supply to the tax period in which it received the first instalment from the entity (paragraph 29-5(1)(a) of the GST Act).
 This ensures that the supplier would receive sufficient money from the instalment to meet its GST obligations. However, from the entity's point of view, each instalment represents part of the price of the equipment financed under the hire purchase agreement.
 This is supported by the Administrative Appeals Tribunal (sitting as the Small Taxation Claims Tribunal) decision in Re Lancut (Aust) Pty Ltd v. FC of T 2003 ATC 2204; (2003) 54 ATR 1027, where the taxpayer entered into a financing arrangement to acquire a motor vehicle. Under the arrangement, which was in substance a sale by instalments, the taxpayer paid a portion of the purchase price for the motor vehicle upfront and:
-
-
 
 • the title in the goods did not pass until the last instalment of the hire purchase agreement was made,
 • the taxpayer accounted on a cash basis, and
@@ -75,7 +63,7 @@ The tribunal held that paragraph 29-10(2)(b) of the GST Act applied to limit the
 Therefore, under subsection 29-10(2) of the GST Act, the entity cannot attribute the entire input tax credit for its acquisition of equipment under a hire purchase agreement to the tax period in which it makes the first instalment.
 The entity attributes the input tax credit for the acquisition to the tax periods in which it provides consideration for the acquisition, but only to the extent that it provides consideration in those tax periods.
 Date of decision:
-         3 December 2002
+  3 December 2002
 
 Legislative References:
 
@@ -83,9 +71,7 @@ A New Tax System (Goods and Services Tax) Act 1999   section 11-5   paragr
 
 Case References:
 
-
 Re Lancut (Aust) Pty Ltd v. FC of T   2003 ATC 2204   (2003) 54 ATR 1027
-
 
 Related Public Rulings (including Determinations)
 
@@ -94,32 +80,28 @@ Goods and Services Tax Ruling GSTR 2000/29
 Keywords
 
 Goods and services tax
-          GST input tax credits and creditable acquisitions
-          GST tax periods
-          Attribution rules
-          Cash basis
-          GST hire purchase
-
+ GST input tax credits and creditable acquisitions
+ GST tax periods
+ Attribution rules
+ Cash basis
+ GST hire purchase
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         16 April 2004
+  16 April 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  3 December 2002

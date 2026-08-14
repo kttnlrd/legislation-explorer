@@ -41,7 +41,7 @@ Interaction with Subdiv 170-D Subdivision 170-D (¶11-120) provides for deferral
 
 - acquired the roll-over asset before 20 September 1985.
 
-Subdivision 126-B thus provides a standard roll-over concession allowing for the retention of the pre-CGT status of assets (including on “loss assets” otherwise subject to deferral) and for the roll-over of gain assets.
+Subdivision 126-B thus provides a standard roll-over concession allowing for the retention of the pre-CGT status of assets (including on "loss assets" otherwise subject to deferral) and for the roll-over of gain assets.
 
 If the asset would have generated a capital loss or deduction, it cannot be rolled over under Subdiv 126-B unless it is a pre-CGT asset, in which case the eﬀect of the roll-over is to preserve that pre-CGT status.
 

@@ -29,7 +29,7 @@ The tax incentives provide eligible investors who subscribe for shares in an ESI
 
   shares held for at least 12 months.
 
-However, note that investors who do not meet the “sophisticated investor” test under the Corporations Act 2001 will not be eligible for any tax incentives if their total investment in qualifying ESICs in an income year is more than $50,000.
+However, note that investors who do not meet the "sophisticated investor" test under the Corporations Act 2001 will not be eligible for any tax incentives if their total investment in qualifying ESICs in an income year is more than $50,000.
 
 An investor will qualify for the ESI tax concessions if (s 360-15):
 
@@ -71,7 +71,7 @@ For an investor to be entitled to the tax incentives, the company must qualify a
 
 – the principles-based innovation test (s 360-40(1)(e)(i) to (v)).
 
-To satisfy the early stage test, the company must meet 5 requirements at the test time (ie at the point in time immediately after the company issues shares to the investor (Taxation Determination TD 2023/6)). The 5 requirements are: 1. at the time of the investment the company was: – incorporated in Australia within the last 3 income years – incorporated in Australia within the last 6 income years and across the last 3 of those income years it and its 100% subsidiaries (if any) incurred total expenses of $1 million or less, or – registered with the Australian Business Register within the last 3 income years 2. the company and its subsidiaries (if any) incurred expenses of $1 million or less in the immediately preceding income year 3. the company and its subsidiaries (if any) derived no more than $200,000 assessable income in the immediately preceding income year 4. none of the company’s equity interests are listed on any stock exchange, and 5. the company is undertaking an “eligible business” (s 360-40(1)).
+To satisfy the early stage test, the company must meet 5 requirements at the test time (ie at the point in time immediately after the company issues shares to the investor (Taxation Determination TD 2023/6)). The 5 requirements are: 1. at the time of the investment the company was: – incorporated in Australia within the last 3 income years – incorporated in Australia within the last 6 income years and across the last 3 of those income years it and its 100% subsidiaries (if any) incurred total expenses of $1 million or less, or – registered with the Australian Business Register within the last 3 income years 2. the company and its subsidiaries (if any) incurred expenses of $1 million or less in the immediately preceding income year 3. the company and its subsidiaries (if any) derived no more than $200,000 assessable income in the immediately preceding income year 4. none of the company's equity interests are listed on any stock exchange, and 5. the company is undertaking an "eligible business" (s 360-40(1)).
 
 To meet the 100-point innovation test, the company must obtain at least 100 points by meeting specific objective innovation criteria at the test time.
 
@@ -81,15 +81,15 @@ To satisfy the principles-based innovation test, the company must meet 5 require
 
 The 5 requirements are as follows (s 360-40(1)(e)(i) to (v)): 1. the company must be genuinely focused on developing one or more new or significantly improved innovations for commercialisation 2. the business relating to that innovation must have a high growth potential 3. the company must demonstrate that it has the potential to be able to successfully scale up that business 4. the company must demonstrate that it has the potential to be able to address a broader than local market, including global markets, through that business 5. the company must demonstrate that it has the potential to be able to have competitive advantages for that business.
 
-Generally speaking, while an investor can self-assess whether the company is an ESIC using existing documentation, such as a business plan, commercialisation strategy or competition analysis, this can often be difficult to obtain and analyse from an investor’s perspective.
+Generally speaking, while an investor can self-assess whether the company is an ESIC using existing documentation, such as a business plan, commercialisation strategy or competition analysis, this can often be difficult to obtain and analyse from an investor's perspective.
 
 Therefore, an investor should generally request that the company obtain advice on its ESIC status. To the extent that there is any doubt, an investor should also request that the company obtain a private ruling from the ATO on whether it qualifies as an ESIC when applying the principles-based innovation test.
 
-The difficulty of an investor self-assessing a company’s ESIC status was demonstrated in the case of ZWBX v FC of T 2024 ATC ¶10-729; [2024] AATA 2065, where a taxpayer was denied a tax offset in respect of their investment in a company that was purporting to be an ESIC based upon its self-assessment under the principles-based test. The Administrative Appeals Tribunal (AAT) finding was that the company did not satisfy the test and was not an ESIC, largely due to it being a holding company.
+The difficulty of an investor self-assessing a company's ESIC status was demonstrated in the case of ZWBX v FC of T 2024 ATC ¶10-729; [2024] AATA 2065, where a taxpayer was denied a tax offset in respect of their investment in a company that was purporting to be an ESIC based upon its self-assessment under the principles-based test. The Administrative Appeals Tribunal (AAT) finding was that the company did not satisfy the test and was not an ESIC, largely due to it being a holding company.
 
 The taxpayer was a beneficiary of a trust which subscribed and paid for approximately $100,000 worth of shares in a newly established company (Holding Co) during the 2017 income year. Holding Co had been established as part of a restructure of a company which developed and commercialised a cloud-based client communications management platform. The software had originally been developed by Trading Co. The restructure during the 2017 income year involved the interposition of Holding Co (as the head company of a consolidated group) as well as the establishment of a subsidiary (IP Co) to hold the intellectual property rights in patents, trademarks, copyrights and domain names.
 
-Following the restructure, Holding Co raised capital from investors, including the taxpayer’s trust, which attempted to claim eligibility for an early stage investor tax offset for 20% of the amount of its investment during the year (approximately $20,000). The trust then allocated 100% of the tax offset to the taxpayer.
+Following the restructure, Holding Co raised capital from investors, including the taxpayer's trust, which attempted to claim eligibility for an early stage investor tax offset for 20% of the amount of its investment during the year (approximately $20,000). The trust then allocated 100% of the tax offset to the taxpayer.
 
 At issue was whether Holding Co qualified as an ESIC under the principles-based test, bearing in mind that the company was not itself directly carrying on any activities in relation to developing and commercialising the software.
 

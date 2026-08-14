@@ -4,15 +4,15 @@ part_title: Part D Deductions
 division: DR
 division_title: Subpart DR—Life insurance business expenditure
 section: DR-4
-section_title: Life insurers’ claims
+section_title: Life insurers' claims
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# DR 4  Life insurers’ claims
+# DR 4  Life insurers' claims
 
 **No deduction on account of claims**
 
-**(1)**  For a life insurer’s life insurance policies, the life insurer is denied a deduction relating to the life insurer’s outstanding claims or for a claim’s expenditure or loss for an income year, except as provided by—
+**(1)**  For a life insurer's life insurance policies, the life insurer is denied a deduction relating to the life insurer's outstanding claims or for a claim's expenditure or loss for an income year, except as provided by—
 
 - (a) section EY 24 (Outstanding claims reserving amount: non-participation policies not annuities):
 

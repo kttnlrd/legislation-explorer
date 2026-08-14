@@ -19,7 +19,7 @@ Associates. Special rules apply if something is supplied to an associate at a pr
 
 Avoidance. The Commissioner has wide powers to cancel GST beneﬁts that arise from contrived schemes and may also impose substantial penalties (Div 165; Unit Trend Services 2013 ATC ¶20-389; [2013] HCA 16, Case 14/2006 2006 ATC 187; [2006] AATA 821). Guidelines on the application of Div 165 are set out in PS LA 2005/24.
 
-Barter transactions. The Commissioner’s guidelines on the GST implications of transactions between members of a barter scheme conducted by a trade exchange are set out in GSTR 2003/14. Simpliﬁed compliance rules for certain countertrade transactions are outlined in PCG 2016/18.
+Barter transactions. The Commissioner's guidelines on the GST implications of transactions between members of a barter scheme conducted by a trade exchange are set out in GSTR 2003/14. Simpliﬁed compliance rules for certain countertrade transactions are outlined in PCG 2016/18.
 
 Branches. Special rules allow business branches to be registered separately. This procedure is intended to avoid the administrative and accounting costs of having to amalgamate branch accounts every tax period (Div 54).
 
@@ -27,9 +27,9 @@ Court orders. The ATO considers that GST normally will not apply to awards of da
 
 Deposits. Special rules apply to deposits made as security for the performance of an obligation (Div 99).
 
-Typical transactions to which these rules will apply are: (1) a contract for the hire of goods, where the supplier holds a security deposit to secure the return of the goods; or (2) a contract for the purchase of real property, goods or services, where the purchaser pays a deposit to secure the obligation to complete the purchase. The Commissioner’s guidelines on security deposits are set out in GSTR 2006/2. In Reliance Carpet 2008 ATC ¶20-028; [2008] HCA 22, the High Court held that a deposit forfeited by a purchaser when a contract for the sale of commercial property was rescinded was subject to GST. In Container Homes Designer Domain Pty Ltd 2023 ATC ¶10-671; [2023] AATA 1815, the AAT held that a payment of 50% of the contract price to a taxpayer for supplying container homes was not a deposit. The AAT said that the amount involved in this case was substantial. As a deposit, it would be extraordinary as a percentage of the selling price. The contract most prominently described the payment not as a deposit but as an advance.
+Typical transactions to which these rules will apply are: (1) a contract for the hire of goods, where the supplier holds a security deposit to secure the return of the goods; or (2) a contract for the purchase of real property, goods or services, where the purchaser pays a deposit to secure the obligation to complete the purchase. The Commissioner's guidelines on security deposits are set out in GSTR 2006/2. In Reliance Carpet 2008 ATC ¶20-028; [2008] HCA 22, the High Court held that a deposit forfeited by a purchaser when a contract for the sale of commercial property was rescinded was subject to GST. In Container Homes Designer Domain Pty Ltd 2023 ATC ¶10-671; [2023] AATA 1815, the AAT held that a payment of 50% of the contract price to a taxpayer for supplying container homes was not a deposit. The AAT said that the amount involved in this case was substantial. As a deposit, it would be extraordinary as a percentage of the selling price. The contract most prominently described the payment not as a deposit but as an advance.
 
-Gambling. Special simpliﬁed rules for calculating GST apply if gambling services are provided. This includes selling tickets in lotteries or raﬄes, or accepting bets on races, games, sporting events or any other events (Div 126). The Commissioner’s guidelines are in GSTR 2002/3. In TSC 2000 2007 ATC 2409; [2007] AATA 1629, it was held that the operator of a lotto syndicate was making gambling supplies to the syndicate members. As a result of the introduction of the oﬀshore intangible consumer supply rules from 1 July 2017 (¶34-105), it is speciﬁcally provided that oﬀshore gambling supplies are connected to Australia if the recipient is an Australian resident (s 126-27). This ensures that consistent GST treatment will continue to apply to all gambling supplies made to Australian residents.
+Gambling. Special simpliﬁed rules for calculating GST apply if gambling services are provided. This includes selling tickets in lotteries or raﬄes, or accepting bets on races, games, sporting events or any other events (Div 126). The Commissioner's guidelines are in GSTR 2002/3. In TSC 2000 2007 ATC 2409; [2007] AATA 1629, it was held that the operator of a lotto syndicate was making gambling supplies to the syndicate members. As a result of the introduction of the oﬀshore intangible consumer supply rules from 1 July 2017 (¶34-105), it is speciﬁcally provided that oﬀshore gambling supplies are connected to Australia if the recipient is an Australian resident (s 126-27). This ensures that consistent GST treatment will continue to apply to all gambling supplies made to Australian residents.
 
 Incapacitated entities. As a consequence of the decision in PM Developments 2008 ATC ¶20-078; [2008] FCA 1886, measures have been enacted to ensure that representatives of incapacitated entities are liable for GST on post-appointment transactions (Div 58). Representatives are only liable for GST on taxable supplies, and entitled to input tax credits on creditable acquisitions, which they actually make, and not on supplies and acquisitions made before their appointment by an entity over which they had no control (Albarran & Ors as administrators of Cooper & Oxley Builders Pty Ltd 2020 ATC ¶10-555; [2020] AATA 4325).
 
@@ -43,11 +43,11 @@ Redeemable vouchers. are subject to GST on redemption rather than on the origina
 
 The liability to GST will therefore depend on the GST status of the goods or services supplied on redemption.
 
-The Commissioner’s guidelines are set out in GSTR 2003/5. Prepaid phone cards or facilities are treated as vouchers for the purposes of Div 100.
+The Commissioner's guidelines are set out in GSTR 2003/5. Prepaid phone cards or facilities are treated as vouchers for the purposes of Div 100.
 
 Reimbursements. In certain circumstances, input tax credits can be claimed where employees, agents, company oﬃcers or partners are reimbursed for expenses they incur in the course of their duties (Div 111).
 
-These rules also apply to charitable volunteers. Direct payments by employers of employees’ work-related expenses also qualify for input tax credits.
+These rules also apply to charitable volunteers. Direct payments by employers of employees' work-related expenses also qualify for input tax credits.
 
 Small business entities. Taxpayers that qualify as small business entities can claim various concessions (¶7-001).
 

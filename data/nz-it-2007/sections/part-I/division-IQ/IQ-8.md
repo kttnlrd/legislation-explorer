@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 - (a) the amount of ring-fenced tax loss referred to in section IQ 7(1) that the company could subtract from—
 
-  - (i) the amount that would be the company’s net income for the part of the tax year in which it was not part of a consolidated group; and
+  - (i) the amount that would be the company's net income for the part of the tax year in which it was not part of a consolidated group; and
 
   - (ii) the net income for the tax year of another consolidated group of which the company was part before joining the present group; and
 
-- (b) the amount that would be the group’s net income for the part of the tax year in which the company was part of the consolidated group, established by giving the Commissioner, at the time of providing the group’s return of income for the tax year, adequate financial statements that—
+- (b) the amount that would be the group's net income for the part of the tax year in which the company was part of the consolidated group, established by giving the Commissioner, at the time of providing the group's return of income for the tax year, adequate financial statements that—
 
   - (i) relate to the part of the tax year when the company was part of the group; and
 
-  - (ii) disclose the amount that would be the company’s net income for the part of the tax year in which the company was part of the consolidated group, determined on a fair and reasonable basis of attribution.
+  - (ii) disclose the amount that would be the company's net income for the part of the tax year in which the company was part of the consolidated group, determined on a fair and reasonable basis of attribution.
 
 *Defined in this Act: amount, attributed CFC net loss, Commissioner, company, consolidated group, FIF net loss, net income, return of income, ring-fenced tax loss, tax year*
 

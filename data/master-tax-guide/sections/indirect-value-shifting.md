@@ -33,7 +33,7 @@ Indirect value shifting rules deal with the consequential eﬀects on the values
 
 - contain an exclusion for distributions
 
-- include an arm’s length exclusion, and
+- include an arm's length exclusion, and
 
 - incorporate extensive safe-harbours, particularly for value shifts involving the provision of
 
@@ -45,7 +45,7 @@ Application of rules
 
   in s 995-1(1))
 
-- the entities are not dealing at arm’s length
+- the entities are not dealing at arm's length
 
 - the market value of the economic beneﬁts provided by the losing entity to the gaining entity
 
@@ -63,13 +63,13 @@ Application of rules
 
 Example Eddie owns all of the shares in Down Co and all the interests in Up Trust. Down Co transfers an asset with a market value of $100,000 to Up Trust in return for a single cash payment of $75,000.
 
-As a consequence, the market value of Eddie’s shares in Down Co has declined by $25,000 and the market value of his interests in Up Trust has increased by $25,000. There has been an indirect value shift of $25,000 from Down Co (the losing entity) to Up Trust (the gaining entity).
+As a consequence, the market value of Eddie's shares in Down Co has declined by $25,000 and the market value of his interests in Up Trust has increased by $25,000. There has been an indirect value shift of $25,000 from Down Co (the losing entity) to Up Trust (the gaining entity).
 
 Exclusions
 
 *Refs: s 995-1(1))*
 
-- arm’s length dealings and economic beneﬁts provided at market value are excluded
+- arm's length dealings and economic beneﬁts provided at market value are excluded
 
 - the interests of small business entities (¶7-050), and entities that meet the maximum net asset
 

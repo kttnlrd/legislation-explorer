@@ -3,23 +3,18 @@ ATO ID 2004/664
 ==================================================
 
 Income tax
-        CGT small business concessions: discretionary trust - connected entity - maximum net asset value
-        FOI status: may be released
+ CGT small business concessions: discretionary trust - connected entity - maximum net asset value
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as the ATO view on this matter is now reflected in the publication  Advanced guide to capital gains tax concessions for small business.
+This ATO ID is withdrawn as the ATO view on this matter is now reflected in the publication Advanced guide to capital gains tax concessions for small business.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are the beneficiaries 'connected entities' of the discretionary trust in terms of section 152-30 of the Income Tax Assessment Act 1997 (ITAA 1997) for the purpose of the maximum net asset value test under subparagraph 152-15(a)(ii) of the ITAA 1997?
@@ -28,8 +23,6 @@ Yes. In this instance, some of the beneficiaries are connected entities of the d
 Facts
 In July 2004, a family discretionary trust sold the business it had conducted for a number of years and realised a capital gain on the sale of the business premises. The deed constituting the trust specifies a number of beneficiaries who are eligible to receive the income or capital of the trust.
 The discretionary trust made the following net income from its business operations in each of the years ended:
-
-
 
 30 June 2004
 $20,000
@@ -45,22 +38,16 @@ $5,000
 
 The trust made distributions of its net income to the beneficiaries as follows:
 
-
-
 Beneficiary
 Year of income ended 30 June
 
 2004
 
-
 2003
-
 
 2002
 
-
 2001
-
 
 B1
 $6,000
@@ -108,10 +95,8 @@ One of the basic eligibility conditions for the small business CGT concessions i
 Subsection 152-30(1) of the ITAA 1997 states:
 
 An entity is
-              connected
+ connected
  with another entity if:
-
-
 
 (a)either entity controls the other entity in the way described in this section; or
 (b)both entities are controlled in that way by the same third entity.
@@ -119,14 +104,10 @@ An entity is
 Subsection 152-30(5) in Division 152 of the ITAA 1997 states that:
 
 An entity (the
-              first entity
+ first entity
 ) controls a discretionary trust if, for any of the 4 income years before the income year for which relief is sought for a *CGT event under this Division:
 
-
-
 (a)the trustee paid to, or applied for the benefit of:
-
-
 
 (i)the first entity; or
 (ii)one or more of the first entity's *small business CGT affiliates; or
@@ -135,8 +116,6 @@ any of the income or capital of the trust; and
 (b)the amount paid or applied is at least 40% (the control percentage) of the total amount of income or capital paid or applied by the trustee for that income year.(* denotes a term defined in subsection 995-1(1) of the ITAA 1997.)
 
 The following are the percentage of distributions made by the trust to the beneficiaries in the respective income years:
-
-
 
 Beneficiary
 Year of income ended 30 June
@@ -189,8 +168,6 @@ Although B5 did receive a distribution in excess of 40% in one of the four incom
 
 An entity does not control a discretionary trust because of subsection (5) if the entity is:
 
-
-
 (a)an *exempt entity; or
 (b)a *deductible gift recipient.
 
@@ -198,10 +175,10 @@ As B1, B2 and B3 control the trust they will be connected entities of the trust 
 Note 1: The above control test applies to CGT events happening after 11.45am, by legal time in the Australian Capital Territory, on 21 September 1999. However transitional rules apply for CGT events that happened before the end of the 2003-04 income year where a taxpayer can choose to apply the previous control test for discretionary trust (with the modification that assets of the potential beneficiaries that are exempt entities or deductible gift recipients do not need to be taken into account).
 Note 2: The control test is further modified for the 2000, 2001 and 2002 income years so that the test is based on actual distributions made in the income year for which access to the small business CGT concession is sought and not the actual distributions made in any of the four income years before the income year for which access to small business CGT concession is sought.
 Date of decision:
-         20 July 2004
+  20 July 2004
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -215,40 +192,36 @@ Related ATO Interpretative Decisions
 Keywords
 
 Basic conditions for relief
-          Beneficiaries
-          Capital gains
-          Capital gains tax
-          CGT small business relief
-          Connected entity
-          Control test
-          Discretionary trusts
-          Distributions
-          Maximum net asset value test
-          Pattern of distribution test
-          Small Business CGT affiliate
-          Trust distributions
-
+ Beneficiaries
+ Capital gains
+ Capital gains tax
+ CGT small business relief
+ Connected entity
+ Control test
+ Discretionary trusts
+ Distributions
+ Maximum net asset value test
+ Pattern of distribution test
+ Small Business CGT affiliate
+ Trust distributions
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         13 August 2004
+  13 August 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 This ATO ID has been amended to better explain the small business net assets test.
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 20 July 2004

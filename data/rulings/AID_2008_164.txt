@@ -3,18 +3,14 @@ ATO ID 2008/164
 ==================================================
 
 Income Tax
-        Step 2 of entry:  allocable cost amount - deferred tax liabilities
-        FOI status: may be released
-
-
+ Step 2 of entry: allocable cost amount - deferred tax liabilities
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a deferred tax liability which is attributable to an exploration permit and which is measured by a head company of a consolidated group having regard to the deduction available following the application of subsection 40-80(1) of the Income Tax Assessment Act 1997 (ITAA 1997), an accounting liability for the purposes of section 705-70 of the ITAA 1997?
@@ -50,10 +46,10 @@ Subsection 701-55(2) of the ITAA 1997 gives meaning to the expression an 'asset'
 As ACo has met the requirements of subsection 40-80(1) of the ITAA 1997, the decline in value of the depreciation asset (being the exploration permit) is equal to its cost. A deduction is available under subsection 40-25(1) of the ITAA 1997 to the head company of the joined group, ACo, as holder of the exploration permit, but that deduction does not occur at the joining time. Rather, a deduction is but a step in the calculation of taxable income for an income year: section 4-15 of the ITAA 1997. Any deduction for decline in value of the exploration permit acquired by ACo at the joining time is not relevant until after the joining time when it is taken into account in calculating the taxable income of ACo as head company for the year ended 30 June 2005.
 Therefore, a deferred tax liability of the joined group measured from a tax value of $nil which arises after the deduction under subsection 40-25(1) of the ITAA 1997 (following the application of subsection 40-80(1) of the ITAA 1997) is taken into account can only arise after joining time. No deferred tax liability of that amount would have been attributable to the exploration permit as an accounting liability of the joining entity, BCo, as at the joining time within the ambit of subsection 705-70(1) of the ITAA 1997. Nor would it have been the amount of the deferred tax liability when it became an accounting liability of the joined group within the ambit of subsection 705-70(1A) of the ITAA 1997.
 Date of decision:
-         25 November 2007
+  25 November 2007
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -66,28 +62,26 @@ Taxation Ruling TR 2004/14
 Other References:
 
 AASB 1020 (1989)
-          UIG Abstract 52 (December 2003)
-
+ UIG Abstract 52 (December 2003)
 
 Keywords
 
 Accounting liabilities
-          Allocable cost amount
-          Consolidation
-          Consolidated group
-          Deferred tax liabilities
-          Joining entity
-          Joining time
-
+ Allocable cost amount
+ Consolidation
+ Consolidated group
+ Deferred tax liabilities
+ Joining entity
+ Joining time
 
 Siebel/TDMS Reference Number:
-         6005701
+  6005701
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         12 December 2008
+  12 December 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

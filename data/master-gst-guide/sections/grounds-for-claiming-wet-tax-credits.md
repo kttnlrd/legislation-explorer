@@ -33,7 +33,7 @@ The situations in which a WET credit can be claimed are set out in a table in WE
 
 Other aspects The Commissioner can enter into an agreement with a taxpayer regarding the manner in which credits are calculated or claimed (WET Act, s 17-40). This may be appropriate, for example, where the taxpayer would have difficulty in determining the amount of the credit. Guidelines on this option are contained in WET Ruling WETR 2009/1.
 
-Special “clawback” rules apply in certain situations, eg to counter arrangements where the credit for exports is exploited by subsequently importing the wine for sale in Australia (WET Act, s 17-30 to 17-35).
+Special "clawback" rules apply in certain situations, eg to counter arrangements where the credit for exports is exploited by subsequently importing the wine for sale in Australia (WET Act, s 17-30 to 17-35).
 
 For time restrictions on claiming refunds, see ¶8-100.
 

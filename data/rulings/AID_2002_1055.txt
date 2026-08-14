@@ -3,22 +3,18 @@ ATO ID 2002/1055
 ==================================================
 
 Goods and Services Tax
-        GST and tenant's surrender of a commercial lease (supply) - lessor's agreement to provide premises for rent-free period (consideration)
-        FOI status: may be released
+ GST and tenant's surrender of a commercial lease (supply) - lessor's agreement to provide premises for rent-free period (consideration)
+ FOI status: may be released
 
+Due to a numbering adjustment the "Convertible Notes" document ATO ID 2002/1055 is now known as ATO ID 2002/1114.
 
-Due to a numbering adjustment the "Convertible Notes" document ATO ID 2002/1055 is now known as  ATO ID 2002/1114.
-
-              With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
+ With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the supply of premises for a rent-free period made by the lessor to the entity, a tenant, form part of the consideration for the entity's taxable supply to the lessor under section 9-5 of the A New Tax System (Goods and Service Tax) Act 1999 (GST Act), the supply being the surrender of a commercial lease?
@@ -32,8 +28,6 @@ Reasons for Decision
 In accordance with subsection 7-1(1) of the GST Act, GST is payable on taxable supplies.
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 
-
-
 •it makes a supply for consideration;
 •the supply is made in the course or furtherance of an enterprise that it carries on;
 •the supply is connected with Australia; and
@@ -43,11 +37,10 @@ The entity is making a taxable supply when it surrenders its rights to lease com
 Consideration is defined in subsection 9-15(1) of the GST Act to include any payment, act or forbearance in connection with, in response to or for the inducement of a supply of anything. The entity is receiving a lump sum payment to vacate the premises. In addition to this, the entity is entitled to remain in the premises for a rent-free period. In this case, the lessor is forgoing its right to be paid rent. This is in connection with and for the inducement of the entity's surrender of the lease.
 Therefore, the supply of premises for a rent-free period made by the lessor to the entity does form part of the consideration for the entity's taxable supply to the lessor under section 9-5 of the GST Act, the supply being the surrender of a commercial lease.
 
-
 [Note 1: As the supply of premises for a rent-free period forms part of the total consideration received for the entity's taxable supply, it must be included in the calculation of the entity's GST liability. In this instance, the relevant part of the consideration would be the GST inclusive market value of the rental otherwise payable by the entity during the rent-free period. If there is any doubt please refer to Goods and Services Tax Ruling GSTR 2001/6 which provides reasonable methods for determining the GST-inclusive market value of non-monetary consideration.]
 
 Date of decision:
-         14 August 2001
+  14 August 2001
 
 Legislative References:
 
@@ -60,19 +53,18 @@ GSTR 2001/6
 Keywords
 
 Goods and Services Tax
-          GST supplies & acquisitions
-          GST consideration
-          Taxable supply
-
+ GST supplies & acquisitions
+ GST consideration
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CW230975
+  CW230975
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         28 November 2002
+  28 November 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -13,9 +13,9 @@ Special rules apply where the supply of goods involves them being brought into A
 
   separate supply. This will potentially be connected with Australia because it is a supply of services that
 
-  is “done” here (¶4-100), but there are important exceptions to this, for example, if the recipient is an
+  is "done" here (¶4-100), but there are important exceptions to this, for example, if the recipient is an
 
-“Australian-based business recipient”: see ¶4-101
+"Australian-based business recipient": see ¶4-101
 
 - the rest of the supply is treated as another separate supply, ie a supply of goods. This will be
 

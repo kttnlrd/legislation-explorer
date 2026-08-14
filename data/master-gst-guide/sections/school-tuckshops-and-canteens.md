@@ -17,7 +17,7 @@ However, it does not apply to food supplied to school boarders as part of their 
 
 If the choice to be input taxed is made, it must apply to all food sold through the tuckshop. Once the choice is made, it cannot be revoked for 12 months. It appears that the ATO considers that the election would have to be made before any supplies are made in connection with the event (Interpretative Decision ID 2005/243).
 
-An advantage of being input taxed is that it simplifies compliance and paperwork by effectively enabling the P&C to stay outside the GST system. As the tuckshop proceeds are not taken into account in determining turnover, the P&C is also unlikely to go over the $150,000 “non-profit” threshold for compulsory GST registration.
+An advantage of being input taxed is that it simplifies compliance and paperwork by effectively enabling the P&C to stay outside the GST system. As the tuckshop proceeds are not taken into account in determining turnover, the P&C is also unlikely to go over the $150,000 "non-profit" threshold for compulsory GST registration.
 
 If the option is not taken, and the tuckshop operator is registered, food supplied through the tuckshop will be subject to GST in accordance with the normal rules (¶13-120).
 

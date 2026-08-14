@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
   - (ii) the amount of salary or wages paid to employees for providing R&D material:
 
-  - (iii) if the person chooses to include the amount referred to in subsection (4), the same proportion of that amount, for each employee who provides R&D material, as the proportion of the employee’s salary or wages that is paid to the employee for providing R&D material:
+  - (iii) if the person chooses to include the amount referred to in subsection (4), the same proportion of that amount, for each employee who provides R&D material, as the proportion of the employee's salary or wages that is paid to the employee for providing R&D material:
 
   - (iv) the amount paid to shareholder-employees, to which section RD 3B(3) or RD 3C(4) (which relate to income derived by shareholders who are employees) apply, for providing R&D material:
 
@@ -50,13 +50,13 @@ compilation_date: 2026-06-06
 
 **(4)**  For the purposes of subsection (3)﻿(a)﻿(iii) and (b)﻿(iii), the expenditure of an employer for an employee that the person may choose to include in the items total R&D labour expenditure and total labour expenditure is the total of all—
 
-- (a) the employer’s superannuation cash contributions for the employee that are not salary or wages:
+- (a) the employer's superannuation cash contributions for the employee that are not salary or wages:
 
-- (b) tax on the employer’s superannuation cash contributions for the employee:
+- (b) tax on the employer's superannuation cash contributions for the employee:
 
 - (c) fringe benefits provided by the employer and attributed to the employee:
 
-- (d) the employer’s FBT liability in relation to the employee and fringe benefits attributed to the employee.
+- (d) the employer's FBT liability in relation to the employee and fringe benefits attributed to the employee.
 
 **Meaning of contractor R&D consideration**
 

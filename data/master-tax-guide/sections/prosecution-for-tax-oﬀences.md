@@ -23,11 +23,11 @@ The following table sets out the speciﬁc taxation oﬀences and the maximum pe
 
 CHART OF OFFENCES AND PENALTIES Maximum penalty if committed by (see Note 1 below) Corporation (s 8ZF;
 
-see Note 8 below) Refusal or failure to comply with a                           First oﬀence: 20 penalty units.   First oﬀence: 20 penalty units. requirement of a tax law to furnish a return or information, produce (or permit access Second oﬀence: 40 penalty units.        Second oﬀence: 40 penalty units. to) documents, answer questions, attend before the Commissioner or give evidence Third and each subsequent oﬀence: Third and each subsequent oﬀence: on oath or aﬃrmation (see Note 2 below) 50 penalty units and/or 12 months’        250 penalty units. (ss 8C; 8D; 8E).                             imprisonment.
+see Note 8 below) Refusal or failure to comply with a                           First oﬀence: 20 penalty units.   First oﬀence: 20 penalty units. requirement of a tax law to furnish a return or information, produce (or permit access Second oﬀence: 40 penalty units.        Second oﬀence: 40 penalty units. to) documents, answer questions, attend before the Commissioner or give evidence Third and each subsequent oﬀence: Third and each subsequent oﬀence: on oath or aﬃrmation (see Note 2 below) 50 penalty units and/or 12 months'        250 penalty units. (ss 8C; 8D; 8E).                             imprisonment.
 
 subsequent oﬀences, treble the amount of tax avoided (see Notes 3 and 4 below) (s 8HA).
 
-Refusal or failure to comply with a court 50 penalty units and/or 12 months’     250 penalty units. order to give evidence or furnish a return imprisonment. or information (ss 8G; 8H).                A convicted person may also be ordered to pay up to double or, for subsequent oﬀences, treble the amount of tax avoided (see Notes 3 and 4 below) (s 8HA).
+Refusal or failure to comply with a court 50 penalty units and/or 12 months'     250 penalty units. order to give evidence or furnish a return imprisonment. or information (ss 8G; 8H).                A convicted person may also be ordered to pay up to double or, for subsequent oﬀences, treble the amount of tax avoided (see Notes 3 and 4 below) (s 8HA).
 
 Making a false or misleading statement     First oﬀence: 20 penalty units.       First oﬀence: 20 penalty units. or an omission that makes the statement misleading, subject to a statutory defence Second and each subsequent oﬀence: Second and each subsequent oﬀence: (see Note 5 below) (ss 8K; 8M).            40 penalty units.                     40 penalty units.
 
@@ -35,21 +35,21 @@ Incorrectly keeping records, subject to a
 
 statutory defence (see Note 6 below) (ss double the amount of tax avoided (s 8W). 8L; 8M).
 
-Recklessly making a false or misleading First oﬀence: 30 penalty units.          First oﬀence: 30 penalty units. statement or recklessly omitting something from a statement which makes Second and each subsequent oﬀence: Second and each subsequent oﬀence: it misleading (ss 8N; 8R).                 50 penalty units and/or 12 months’    250 penalty units. imprisonment.
+Recklessly making a false or misleading First oﬀence: 30 penalty units.          First oﬀence: 30 penalty units. statement or recklessly omitting something from a statement which makes Second and each subsequent oﬀence: Second and each subsequent oﬀence: it misleading (ss 8N; 8R).                 50 penalty units and/or 12 months'    250 penalty units. imprisonment.
 
 Recklessly incorrectly keeping records (ss A convicted person may also be ordered to pay the Commissioner up to 8Q; 8R).                                   double or, for second and subsequent oﬀences, treble the amount of tax avoided (see Notes 3 and 4 below) (s 8W).
 
 First oﬀence: 50 penalty units and/or First oﬀence: 250 penalty units.
 
-Falsifying, concealing, destroying or      12 months’ imprisonment. altering records with intent to deceive or                                       Second and each subsequent oﬀence: obstruct (ss 8T; 8V).                      Second and each subsequent oﬀence: 500 penalty units. 100 penalty units and/or 2 years’ Falsifying or concealing identity or       imprisonment. address with intent to deceive or obstruct A convicted person may also be ordered to pay the Commissioner up to (ss 8U; 8V).                               double or, for second and subsequent oﬀences, treble the amount of tax avoided (see Notes 3 and 4 below) (s 8W).
+Falsifying, concealing, destroying or      12 months' imprisonment. altering records with intent to deceive or                                       Second and each subsequent oﬀence: obstruct (ss 8T; 8V).                      Second and each subsequent oﬀence: 500 penalty units. 100 penalty units and/or 2 years' Falsifying or concealing identity or       imprisonment. address with intent to deceive or obstruct A convicted person may also be ordered to pay the Commissioner up to (ss 8U; 8V).                               double or, for second and subsequent oﬀences, treble the amount of tax avoided (see Notes 3 and 4 below) (s 8W).
 
-Obstructing ATO oﬃcers (see Note 7         2 years’ imprisonment. below) (Criminal Code, s 149.1).
+Obstructing ATO oﬃcers (see Note 7         2 years' imprisonment. below) (Criminal Code, s 149.1).
 
-Unauthorised access to tax records (s      100 penalty units and/or 2 years’     500 penalty units. 8XA).                                      imprisonment.
+Unauthorised access to tax records (s      100 penalty units and/or 2 years'     500 penalty units. 8XA).                                      imprisonment.
 
-Unauthorised disclosure of protected       2 years’ imprisonment. tax information by an entity other than a taxation oﬃcer (sch 1 s 355-155; former s 8XB).
+Unauthorised disclosure of protected       2 years' imprisonment. tax information by an entity other than a taxation oﬃcer (sch 1 s 355-155; former s 8XB).
 
-TFN oﬀences Unauthorised obtaining of a TFN (s 8WA). 100 penalty units and/or 2 years’       500 penalty units. imprisonment.
+TFN oﬀences Unauthorised obtaining of a TFN (s 8WA). 100 penalty units and/or 2 years'       500 penalty units. imprisonment.
 
 *Refs: s 355-155*
 
@@ -93,7 +93,7 @@ Note 8: A person who is concerned in, or takes part in, the management of a corp
 
 General criminal offences In addition to the speciﬁc taxation oﬀences set out in Pt III, prosecutions for a number of general oﬀences may be instituted under various provisions of the Criminal Code (eg ss 134.2 and 135.2) or the Crimes Act 1914. Examples of which are set out below.
 
-- Several company directors who understated a company’s assessable income by almost $242,000
+- Several company directors who understated a company's assessable income by almost $242,000
 
   were convicted of fraud. The court commented that deliberate and systematic tax fraud should
 
@@ -111,7 +111,7 @@ General criminal offences In addition to the speciﬁc taxation oﬀences set ou
 
   reduced because of the fact that over $1 million in penalty taxes had been paid; the relatively
 
-  short duration of the oﬀending conduct; the absence of prior criminal histories; the jury’s inferential
+  short duration of the oﬀending conduct; the absence of prior criminal histories; the jury's inferential
 
   ﬁnding that the accused did not intentionally set up an unlawful scheme; and the fact that the
 
@@ -119,7 +119,7 @@ General criminal offences In addition to the speciﬁc taxation oﬀences set ou
 
 - A taxpayer was convicted of fraud and imposition for making false representations in his notices
 
-  of objection and was sentenced to 2 years’ imprisonment (together with a recognisance release
+  of objection and was sentenced to 2 years' imprisonment (together with a recognisance release
 
   order) (Saxby v R [2011] TASCCA 1).
 
@@ -127,7 +127,7 @@ General criminal offences In addition to the speciﬁc taxation oﬀences set ou
 
   between $1.9 million and $2.4 million) and for omitting income of approximately $1 million in 3
 
-  years’ tax returns. He was given an aggregate sentence of 4.5 years’ imprisonment (together with
+  years' tax returns. He was given an aggregate sentence of 4.5 years' imprisonment (together with
 
   a recognisance release order) (Milne v R [2014] NSWSC 113, Milne v R 2014 ATC ¶20-439; [2014]
 
@@ -143,11 +143,11 @@ HCA 4, R v Milne [2012] NSWSC 1538, Milne v R [2012] NSWCCA 24, R v Milne (No 6)
 
 NSWSC 378).
 
-The High Court has indicated that there is no judicially determined norm or starting point (Hili & Jones [2010] HCA 45) for the period of imprisonment an oﬀender should serve before being released on a recognisance release order. In Hili & Jones, 2 accused were convicted for tax-related oﬀences covering over $750,000 of income tax and each had been sentenced to 18 months’ total imprisonment, with a recognisance release order to take eﬀect after 7 months. The Court of Criminal Appeal increased the sentences to 3 years each, with a recognisance release order to take eﬀect after 18 months. The High Court upheld the revised sentences, though it considered that the Court of Criminal Appeal was incorrect in saying that the norm for a period of mandatory imprisonment was between 60% and 66%.
+The High Court has indicated that there is no judicially determined norm or starting point (Hili & Jones [2010] HCA 45) for the period of imprisonment an oﬀender should serve before being released on a recognisance release order. In Hili & Jones, 2 accused were convicted for tax-related oﬀences covering over $750,000 of income tax and each had been sentenced to 18 months' total imprisonment, with a recognisance release order to take eﬀect after 7 months. The Court of Criminal Appeal increased the sentences to 3 years each, with a recognisance release order to take eﬀect after 18 months. The High Court upheld the revised sentences, though it considered that the Court of Criminal Appeal was incorrect in saying that the norm for a period of mandatory imprisonment was between 60% and 66%.
 
-A person who aids or abets the commission of a taxation oﬀence is also guilty of that oﬀence (Criminal Code s 11.2; Crimes Act 1914, former s 5). The aiding and abetting provisions are particularly relevant to tax agents and other professional advisers. Where tax agents omit income or invent (or inﬂate) claims on their own initiative in a return prepared for a client, it seems that the client will nevertheless be treated as the person who makes the misstatement (Grapsas v Unger 86 ATC 4588; [1986] HCA 52). However, the agent is likely to be guilty as an accomplice (in addition, the agent’s registration may be suspended or cancelled).
+A person who aids or abets the commission of a taxation oﬀence is also guilty of that oﬀence (Criminal Code s 11.2; Crimes Act 1914, former s 5). The aiding and abetting provisions are particularly relevant to tax agents and other professional advisers. Where tax agents omit income or invent (or inﬂate) claims on their own initiative in a return prepared for a client, it seems that the client will nevertheless be treated as the person who makes the misstatement (Grapsas v Unger 86 ATC 4588; [1986] HCA 52). However, the agent is likely to be guilty as an accomplice (in addition, the agent's registration may be suspended or cancelled).
 
-A taxpayer’s recourse in these circumstances is to sue the agent for recovery of any penalty. There are also provisions in the Crimes (Taxation Oﬀences) Act 1980 that make it an oﬀence to participate in, or aid or abet participation in, arrangements that render a company or trustee unable, or likely to be unable, to meet an income tax liability (¶30-110).
+A taxpayer's recourse in these circumstances is to sue the agent for recovery of any penalty. There are also provisions in the Crimes (Taxation Oﬀences) Act 1980 that make it an oﬀence to participate in, or aid or abet participation in, arrangements that render a company or trustee unable, or likely to be unable, to meet an income tax liability (¶30-110).
 
 ## Oﬀence*                                          Natural person
 

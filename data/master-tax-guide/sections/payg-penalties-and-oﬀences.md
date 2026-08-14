@@ -15,13 +15,13 @@ As an alternative to the penalties that may be imposed under s 16-25, an adminis
 
 The Commissioner has a discretion to remit penalties imposed under s 16-30 for failure to withhold (s 298-20). Guidelines on the remission of penalties are set out in PS LA 2007/22.
 
-Under the current guidelines, the level of remission is based on the entity’s conduct, ranging from a voluntary disclosure to a deliberate decision not to comply (ie intentional disregard). Stricter guidelines apply to penalties for failure to withhold from dividend, interest and royalty payments. In general, remission of these penalties would only be granted in exceptional circumstances, at a rate of no more than 10% (PS LA 2007/22).
+Under the current guidelines, the level of remission is based on the entity's conduct, ranging from a voluntary disclosure to a deliberate decision not to comply (ie intentional disregard). Stricter guidelines apply to penalties for failure to withhold from dividend, interest and royalty payments. In general, remission of these penalties would only be granted in exceptional circumstances, at a rate of no more than 10% (PS LA 2007/22).
 
 An entity that has paid an administrative penalty for failure to withhold in relation to a dividend, interest, royalty or mining payment may recover an amount equal to the amount of penalty from the person liable to pay the withholding tax in relation to the withholding payment (s 16-195; ¶29-180).
 
 Failure to pay an amount withheld If an amount required to be paid (either as an amount withheld, an alienated personal services payment or a payment in relation to a non-cash beneﬁt) remains unpaid after its due date, the entity is liable to pay GIC on the unpaid amount (¶29-510). GIC is also payable on any unpaid penalty amounts.
 
-Withholder’s failure to register A withholder that fails to register with the Commissioner is liable to a civil penalty of 5 penalty units (s 16-140).
+Withholder's failure to register A withholder that fails to register with the Commissioner is liable to a civil penalty of 5 penalty units (s 16-140).
 
 Withholding amounts payment information A withholder must notify the Commissioner of withholding amounts that it must pay, on or before the due date (s 16-150). Failure to do so incurs the administrative penalty under TAA sch 1 s 284-75(3).
 
@@ -47,7 +47,7 @@ Instalment payment information An entity required to pay an instalment (even a n
 
 Variation of instalment amounts A range of penalties apply where a taxpayer chooses an instalment rate that is too low. See further ¶27-320 and ¶27-340. Where a variation results in an underestimation by more than 15%, the taxpayer is liable to pay GIC on the underestimated instalment.
 
-PAYG instalment anti-avoidance provisions The speciﬁc anti-avoidance measures targeted at schemes to alter an entity’s PAYG instalments position are explained at ¶27-600.
+PAYG instalment anti-avoidance provisions The speciﬁc anti-avoidance measures targeted at schemes to alter an entity's PAYG instalments position are explained at ¶27-600.
 
 *Refs: s 16-25), s 16-25, s 16-30, s
 298-20), s 16-195, s

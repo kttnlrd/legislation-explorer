@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Taxable income**
 
-**(3)**  Taxable income is the amount that would be the master fund’s taxable income in the tax year in which the expenditure is transferred in the absence of sections DV 5 to DV 7.
+**(3)**  Taxable income is the amount that would be the master fund's taxable income in the tax year in which the expenditure is transferred in the absence of sections DV 5 to DV 7.
 
 **Non-resident passive income**
 

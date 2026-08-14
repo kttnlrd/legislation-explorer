@@ -11,9 +11,9 @@ The following types of drinks or drink ingredients are GST-free, unless they are
 
 - milk products, lactose, soy milk and rice milk. Flavoured drinks are excluded, but dry preparations for
 
-  flavouring milk (eg Milo) are GST-free. Unprocessed cow’s milk is taxable (s 38-4), but unprocessed
+  flavouring milk (eg Milo) are GST-free. Unprocessed cow's milk is taxable (s 38-4), but unprocessed
 
-  goat’s milk is GST-free
+  goat's milk is GST-free
 
 - tea (including herbal tea, fruit tea and ginseng tea), coffee, chicory and malt. This does not include
 
@@ -29,11 +29,11 @@ GST-free (Interpretative Decision ID 2008/144)
 
 - fruit and vegetable juices. These comprise:
 
-– concentrates or cordials for making non-alcoholic beverages, if the concentrates consist of at least 90% by volume of juices of fruits – non-alcoholic carbonated beverages that consist “wholly” of juices of fruits or vegetables. It has been held that this means that the existence of any additives (other than carbonation itself) disqualifies a carbonated drink from exemption. It would appear that this would disqualify most reconstituted carbonated drinks that require preservatives (P&N Beverages Australia v FC of T [2007] NSWSC 338) – non-carbonated non-alcoholic beverages that consist of at least 90% by volume of juices of fruits or vegetables
+– concentrates or cordials for making non-alcoholic beverages, if the concentrates consist of at least 90% by volume of juices of fruits – non-alcoholic carbonated beverages that consist "wholly" of juices of fruits or vegetables. It has been held that this means that the existence of any additives (other than carbonation itself) disqualifies a carbonated drink from exemption. It would appear that this would disqualify most reconstituted carbonated drinks that require preservatives (P&N Beverages Australia v FC of T [2007] NSWSC 338) – non-carbonated non-alcoholic beverages that consist of at least 90% by volume of juices of fruits or vegetables
 
 - beverages, and ingredients for beverages, marketed principally as food for infants or invalids (eg milk
 
-  substitute formulas, post-operative liquid meal formulas). An “infant” means a babe in arms or a child
+  substitute formulas, post-operative liquid meal formulas). An "infant" means a babe in arms or a child
 
   in the first period of its life, and would not include five to six year olds (Cascade Brewery Company Pty
 
@@ -43,7 +43,7 @@ Limited v FC of T [2006] FCA 821). In that case, the Federal Court ruled that a 
 
 Processes such as fermentation may change the nature of a fruit or vegetable juice so that it no longer bears that character. This means, for example, that wine cannot qualify even if it has been de-alcoholised (¶13-190).
 
-To qualify as GST-free, these drinks must be for human consumption (s 38-4). It also appears that the drink must be intended to quench thirst or for nourishment (Bristol-Myers Co Pty Ltd v FC of T 90 ATC 4553; GST Determination GSTD 2002/2). On this basis, for example, aloe vera juice would not qualify as it is taken for medicinal purposes (GSTD 2002/2 para 14). However, herbal or ginseng teas would qualify provided that they are not differentiated as medicinal, for example, by the making of remedial claims or the prescription of a “dosage” (Food Industry Register Issue 25).
+To qualify as GST-free, these drinks must be for human consumption (s 38-4). It also appears that the drink must be intended to quench thirst or for nourishment (Bristol-Myers Co Pty Ltd v FC of T 90 ATC 4553; GST Determination GSTD 2002/2). On this basis, for example, aloe vera juice would not qualify as it is taken for medicinal purposes (GSTD 2002/2 para 14). However, herbal or ginseng teas would qualify provided that they are not differentiated as medicinal, for example, by the making of remedial claims or the prescription of a "dosage" (Food Industry Register Issue 25).
 
 Illustration: Non-food grade foods Milk powder of a standard that is not fit for human consumption is not GST-free, even though it could be used as animal feed.
 

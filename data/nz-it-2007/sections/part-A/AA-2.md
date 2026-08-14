@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Aids to interpretation**
 
-**(1)**  Diagrams, examples, flowcharts, readers’ notes, and the lists of defined terms following sections are included in this Act only as interpretational aids. If there is conflict between an interpretational aid and a provision of this Act, the provision prevails.
+**(1)**  Diagrams, examples, flowcharts, readers' notes, and the lists of defined terms following sections are included in this Act only as interpretational aids. If there is conflict between an interpretational aid and a provision of this Act, the provision prevails.
 
 **Defined terms**
 

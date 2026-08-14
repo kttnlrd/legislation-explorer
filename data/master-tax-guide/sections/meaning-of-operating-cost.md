@@ -7,7 +7,7 @@ paragraph: "¶35-230"
 ---
 # Meaning of operating cost ¶35-230
 
-In general terms, the operating cost of a car consists of “car expenses”, registration and insurance costs (see below), and:
+In general terms, the operating cost of a car consists of "car expenses", registration and insurance costs (see below), and:
 
 - where the car is owned (or deemed to be owned), depreciation and an imputed interest cost on
 
@@ -15,15 +15,15 @@ In general terms, the operating cost of a car consists of “car expenses”, re
 
 - where the car is leased, lease costs (s 10(3)).
 
-Where a recipient of a car fringe beneﬁt incurs a car expense, registration or insurance cost on the car, that amount is included as part of the operating cost. However, if the recipient is not reimbursed for the expense, it will also qualify as a recipient’s payment.
+Where a recipient of a car fringe beneﬁt incurs a car expense, registration or insurance cost on the car, that amount is included as part of the operating cost. However, if the recipient is not reimbursed for the expense, it will also qualify as a recipient's payment.
 
-In determining operating costs, any non-arm’s length transactions are converted to an arm’s length basis and any property acquired without expenditure is deemed to have been acquired at market value (s 13(2), (4)).
+In determining operating costs, any non-arm's length transactions are converted to an arm's length basis and any property acquired without expenditure is deemed to have been acquired at market value (s 13(2), (4)).
 
 Operating costs such as lease payments, repairs, fuel, registration and insurance are to be included at their GST-inclusive value, whether the car is owned, manufactured or leased, and whether non-business accessories are ﬁtted (TR 2001/2).
 
 Most employers were not entitled to GST input tax credits for cars purchased before 23 May 2001, in which case the gross-up rate is the rate for type 2 beneﬁts (¶35-025). If the employer is entitled to an input tax credit for a car bought on or after 23 May 2001, the gross-up rate for type 1 beneﬁts should be used (TR 2001/2).
 
-Car expenses A “car expense” is an expense incurred on repairs, maintenance or fuel for the car, eg a car wash (s 136(1)).
+Car expenses A "car expense" is an expense incurred on repairs, maintenance or fuel for the car, eg a car wash (s 136(1)).
 
 The car expenses to be included in the operating cost are those incurred during the holding period (¶35-210).
 
@@ -35,11 +35,11 @@ If the provider leases the car, expenses incurred by the lessor under the lease 
 
 Membership fees that give rise to a road service entitlement are car expenses (NTLG FBT Sub-committee minutes, 1 December 1994), but road tolls are not (NTLG FBT Sub-committee minutes, 18 March 1999).
 
-Practical Compliance Guideline PCG 2024/2 provides a method to calculate home electricity as “fuel” for electric vehicles. The PCG applies to zero emissions vehicles (other than electric motorcycles or scooters) that use one or more electric motors to drive and are fuelled by either an oﬀ-vehicle electrical power source, a battery, an electric generator or a hydrogen fuel cell — it does not apply to plug-in hybrid electric vehicles (although the ATO consulted on how to value fuel for such vehicles, with a draft document expected early in 2025). The PCG provides a cents per kilometre rate of 4.20 cents which can be used to calculate electricity costs of charging an electric vehicle at a residential premises and that:
+Practical Compliance Guideline PCG 2024/2 provides a method to calculate home electricity as "fuel" for electric vehicles. The PCG applies to zero emissions vehicles (other than electric motorcycles or scooters) that use one or more electric motors to drive and are fuelled by either an oﬀ-vehicle electrical power source, a battery, an electric generator or a hydrogen fuel cell — it does not apply to plug-in hybrid electric vehicles (although the ATO consulted on how to value fuel for such vehicles, with a draft document expected early in 2025). The PCG provides a cents per kilometre rate of 4.20 cents which can be used to calculate electricity costs of charging an electric vehicle at a residential premises and that:
 
 - where the percentage of charging that relates to home charging can be accurately determined
 
-(eg the vehicle has the functionality to accurately report the percentage of a vehicle’s total charge based on the type of charging location), the cost of fuel is: (home charging percentage × total kilometres travelled during the FBT year × 0.042) + the cost of electricity purchased at commercial charging stations
+(eg the vehicle has the functionality to accurately report the percentage of a vehicle's total charge based on the type of charging location), the cost of fuel is: (home charging percentage × total kilometres travelled during the FBT year × 0.042) + the cost of electricity purchased at commercial charging stations
 
 - where the percentage of charging that relates to home charging cannot be accurately determined,
 
@@ -59,7 +59,7 @@ Where a car is owned by a provider and a non-business accessory has been ﬁtted
 
 Depreciation is calculated using the formula (s 11): ABC
 
-where: A is the “depreciated value” of the car if the provider already owned (or was deemed to own) the car at the beginning of the year, or the GST-inclusive “cost price” (¶35-190) of the car in other cases. The deemed depreciation is not limited by reference to the depreciation cost limits that apply for income tax purposes (¶17-200). “Depreciated value” is the cost price of the car to the provider, less depreciation calculated using the above depreciation formula from the time when the provider ﬁrst held the car to the beginning of the year (s 12)
+where: A is the "depreciated value" of the car if the provider already owned (or was deemed to own) the car at the beginning of the year, or the GST-inclusive "cost price" (¶35-190) of the car in other cases. The deemed depreciation is not limited by reference to the depreciation cost limits that apply for income tax purposes (¶17-200). "Depreciated value" is the cost price of the car to the provider, less depreciation calculated using the above depreciation formula from the time when the provider ﬁrst held the car to the beginning of the year (s 12)
 
 - 0.225 for cars acquired before 1 July 2002
 

@@ -27,7 +27,7 @@ Cost base modifications In addition, the general rules for working out the cost 
 
   that was issued by the trustee of the unit trust after 28 January 1988.
 
-In each of these situations, the ﬁrst element of the taxpayer’s cost base and reduced cost base for the shares or units is the sum of:
+In each of these situations, the ﬁrst element of the taxpayer's cost base and reduced cost base for the shares or units is the sum of:
 
 - the cost base of the convertible interest at the time of conversion
 

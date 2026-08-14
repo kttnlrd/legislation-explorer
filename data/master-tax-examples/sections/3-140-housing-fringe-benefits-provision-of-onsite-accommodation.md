@@ -19,25 +19,25 @@ Solution A fringe benefit will arise where:
 
   direction of an employee or an associate of an employee
 
-- the benefit is provided by the employee’s employer, by an associate of the employer, or by a third
+- the benefit is provided by the employee's employer, by an associate of the employer, or by a third
 
   party under an arrangement with the employer or with an associate of the employer, and
 
 - the benefit is provided in respect of employment of the employee (FBTAA ss 136(1), 148(2)).
 
-A “benefit” is broadly defined to include any right, privilege, service or facility. Some benefits are expressly excluded, for example, exempt benefits, salary and wages and termination payments.
+A "benefit" is broadly defined to include any right, privilege, service or facility. Some benefits are expressly excluded, for example, exempt benefits, salary and wages and termination payments.
 
 In considering whether a fringe benefit has been provided, the following applies to HiLo Motels:
 
-- A “benefit” is provided to an employee: The provision of the right to occupy onsite accommodation (ie
+- A "benefit" is provided to an employee: The provision of the right to occupy onsite accommodation (ie
 
-  the residential unit) to Beryl constitutes the provision of a “benefit” for FBT purposes.
+  the residential unit) to Beryl constitutes the provision of a "benefit" for FBT purposes.
 
 - The benefit is provided by an employer, an associate of the employer or a third party: HiLo Motels is
 
-Beryl’s current employer (s 136(1)). The provision of the right to occupy the onsite accommodation (ie the residential unit) is made to Beryl in that capacity.
+Beryl's current employer (s 136(1)). The provision of the right to occupy the onsite accommodation (ie the residential unit) is made to Beryl in that capacity.
 
-- The benefit is provided in respect of the employee’s employment: Beryl has been provided with onsite
+- The benefit is provided in respect of the employee's employment: Beryl has been provided with onsite
 
   accommodation which allows her to discharge her duty manager responsibilities as defined in her
 
@@ -49,7 +49,7 @@ Beryl’s current employer (s 136(1)). The provision of the right to occupy the 
 
   causal. If it were not for the employment arrangement, Beryl would not have received the onsite
 
-  accommodation. Therefore, the accommodation has been received in respect of Beryl’s employment
+  accommodation. Therefore, the accommodation has been received in respect of Beryl's employment
 
   and would be taken to have been received as part of an arrangement relating to the performance of her
 
@@ -57,13 +57,13 @@ Beryl’s current employer (s 136(1)). The provision of the right to occupy the 
 
 Having established that a fringe benefit has been provided, it is then necessary to consider the type of fringe benefit provided. In this case the most likely fringe benefit would be a housing fringe benefit.
 
-A housing fringe benefit arises when an employer grants an employee a “housing right” — a right to occupy or use a unit of accommodation as a usual place of residence — which must be for more than one day (FBTAA ss 25 and 149).
+A housing fringe benefit arises when an employer grants an employee a "housing right" — a right to occupy or use a unit of accommodation as a usual place of residence — which must be for more than one day (FBTAA ss 25 and 149).
 
-Taxation Ruling TR 2021/4 discusses the meaning of “usual place of residence”.
+Taxation Ruling TR 2021/4 discusses the meaning of "usual place of residence".
 
 The main principles include:
 
-- Whether an employee is living away from their “usual place of residence” usually involves a choice
+- Whether an employee is living away from their "usual place of residence" usually involves a choice
 
   between 2 places of residence — where the employee is living at the time and the location of the work.
 
@@ -73,19 +73,19 @@ The main principles include:
 
 - Indicators that an employee has a usual place of residence at a previous location include the
 
-  employee’s ownership or possession of premises at that location and occupation of the premises by
+  employee's ownership or possession of premises at that location and occupation of the premises by
 
-  members of the employee’s family.
+  members of the employee's family.
 
 In the present case, Beryl is required to be close to where she is working (ie to reside onsite and be on-call 24 hours a day, 7 days a week). In that sense, she is living in accommodation which is near her workplace.
 
-This indicates that Beryl’s usual place of residence is the accommodation to which she was given the right to occupy.
+This indicates that Beryl's usual place of residence is the accommodation to which she was given the right to occupy.
 
-Further, Beryl’s employment is permanent — the employment is not temporary or for a finite duration. She would also arguably spend the majority of her time in the unit of accommodation when she is not working.
+Further, Beryl's employment is permanent — the employment is not temporary or for a finite duration. She would also arguably spend the majority of her time in the unit of accommodation when she is not working.
 
-Therefore, it is considered that the onsite accommodation provided by HiLo Motels is Beryl’s usual place of residence and, as such, all the conditions of a “housing benefit” have been satisfied. The onsite accommodation provided to Beryl will be a treated as a “housing benefit” provided by HiLo Motels, unless otherwise exempted.
+Therefore, it is considered that the onsite accommodation provided by HiLo Motels is Beryl's usual place of residence and, as such, all the conditions of a "housing benefit" have been satisfied. The onsite accommodation provided to Beryl will be a treated as a "housing benefit" provided by HiLo Motels, unless otherwise exempted.
 
-An exemption is available under FBTAA s 58ZC in respect of a housing fringe benefit if the accommodation is provided in a remote area. Specifically, in order for the accommodation to be in a remote area, it must not be in, or adjacent to, an “eligible urban area”. An “eligible urban area” is an area that is either:
+An exemption is available under FBTAA s 58ZC in respect of a housing fringe benefit if the accommodation is provided in a remote area. Specifically, in order for the accommodation to be in a remote area, it must not be in, or adjacent to, an "eligible urban area". An "eligible urban area" is an area that is either:
 
 - situated in Zone A or Zone B for income tax purposes and is an urban centre with a 1981 census
 
@@ -95,4 +95,4 @@ An exemption is available under FBTAA s 58ZC in respect of a housing fringe bene
 
   population of not less than 14,000.
 
-The onsite accommodation provided to Beryl is in the Perth central business district and therefore is not provided in a remote area (ie an “eligible urban area”). Therefore, the onsite accommodation benefit provided does not qualify as an exempt remote area housing benefit. There are also no other exemptions for housing benefits under which the benefit could qualify. As a consequence, HiLo Motels would be subject to FBT on the provision of this benefit.
+The onsite accommodation provided to Beryl is in the Perth central business district and therefore is not provided in a remote area (ie an "eligible urban area"). Therefore, the onsite accommodation benefit provided does not qualify as an exempt remote area housing benefit. There are also no other exemptions for housing benefits under which the benefit could qualify. As a consequence, HiLo Motels would be subject to FBT on the provision of this benefit.

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section IA 4 (Using loss balances carried forward to tax year) if a breach occurs in the requirements for continuity of ownership of section IA 5 (Restrictions on companies’ loss balances carried forward: continuity of ownership) that enable a tax loss component included in a company’s loss balance to be carried forward to or from a tax year.
+**(1)**  This section applies for the purposes of section IA 4 (Using loss balances carried forward to tax year) if a breach occurs in the requirements for continuity of ownership of section IA 5 (Restrictions on companies' loss balances carried forward: continuity of ownership) that enable a tax loss component included in a company's loss balance to be carried forward to or from a tax year.
 
 **Tax loss components for earlier income years**
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (b) the company has net income for part of the corresponding income year; and
 
-- (c) the company provides the Commissioner with adequate financial statements under section IP 6 calculating the amount of the company’s net income for the relevant part of the corresponding income year.
+- (c) the company provides the Commissioner with adequate financial statements under section IP 6 calculating the amount of the company's net income for the relevant part of the corresponding income year.
 
 **Limit on tax loss components carried forward to year A**
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 - (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year that corresponds to year A; and
 
-- (b) the company provides the Commissioner with adequate financial statements under section IP 6 calculating the amount of the company’s net loss for the part of year A.
+- (b) the company provides the Commissioner with adequate financial statements under section IP 6 calculating the amount of the company's net loss for the part of year A.
 
 **Limit on tax loss components carried forward to year B**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 - (b) if the company has net income for year A, zero:
 
-- (c) if the company has a net loss for year A, the company’s net loss for year A.
+- (c) if the company has a net loss for year A, the company's net loss for year A.
 
 *Defined in this Act: amount, Commissioner, company, continuity period, corresponding income year, income year, loss balance, net income, net loss, tax loss component, tax year*
 

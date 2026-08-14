@@ -3,18 +3,14 @@ ATO ID 2005/358
 ==================================================
 
 Income tax
-        Research and Development: 'Aggregate research and development amount' where core technology expenditure not deducted
-        FOI status: may be released
-
-
+ Research and Development: 'Aggregate research and development amount' where core technology expenditure not deducted
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where an eligible company chooses not to deduct an amount of core technology expenditure under subsection 73B (12A) of the Income Tax Assessment Act 1936 (ITAA 1936), is the amount included in the company's 'aggregate research and development amount' as defined in subsection 73B(1) of the ITAA 1936?
@@ -32,8 +28,6 @@ The company did not claim any 'core technology' expenditure in the year of incom
 Reasons for Decision
 Subsection 73B(1) of the ITAA 1936 defines the term 'aggregate research and development amount' to include, in addition to other amounts:
 
-
-
 (aa)the deductions allowed for core technology expenditure under subsections (12) and (12A) in the company's assessment in respect of income of the year of income.
 
 Subsection 73B(12A) of the ITAA 1936 allows a deduction for core technology expenditure where an eligible company has incurred core technology expenditure in respect of core technology (the relevant core technology). A deduction is available under this subsection where the expenditure is incurred under a contract entered into at or after 5 pm, by legal time in the Australian Capital Territory, on 23 July 1996, and the company has incurred research and development expenditure that is related to the relevant core technology. The deduction allowable under subsection 73B(12A) of the ITAA 1936 is limited to one third of the related research and development expenditure.
@@ -42,10 +36,10 @@ The purpose of the concept of 'aggregate research and development amount' in sub
 The eligibility for a deduction in relation to the expenditure is being tested prior to any assessment being made. It follows that the elements of the subsection 73B(1) definition of 'aggregate research and development amount', test for the potential for the specified types of expenditure to be deductible (should the other requirements for deductibility be met), rather than testing whether or not they have been deducted.
 Therefore, although the company chose not to claim a deduction for core technology expenditure, the core technology deduction calculated in accordance with subsection 73B(12A) of the ITAA 1936, is included in the company's 'aggregate research and development amount' in the year of income Y3.
 Date of decision:
-         17 November 2005
+  17 November 2005
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -55,19 +49,18 @@ Industry Research and Development Act 1986   section 39J
 Keywords
 
 Aggregate research & development amount
-          Deductions & expenses
-          Research & development core technology expenditure
-          Research & development expenses
-
+ Deductions & expenses
+ Research & development core technology expenditure
+ Research & development expenses
 
 Siebel/TDMS Reference Number:
-         4765866
+  4765866
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         23 December 2005
+  23 December 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

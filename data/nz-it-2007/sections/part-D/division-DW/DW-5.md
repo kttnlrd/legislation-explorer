@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(2)**  For expenditure incurred by the person in carrying out an aircraft engine overhaul of an aircraft engine—
 
-- (a) the person has a deduction to the extent to which the process does not produce a significant increase in the performance of the aircraft engine by comparison with the aircraft engine’s performance specifications before the aircraft engine overhaul:
+- (a) the person has a deduction to the extent to which the process does not produce a significant increase in the performance of the aircraft engine by comparison with the aircraft engine's performance specifications before the aircraft engine overhaul:
 
 - (b) an amount for which the person does not have a deduction under paragraph (a)—
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction under subsection (3)**
 
-**(4)**  The amount of the person’s deduction under subsection (3) is—
+**(4)**  The amount of the person's deduction under subsection (3) is—
 
 - (a) equal to the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition, if—
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction under subsection (5)**
 
-**(6)**  The amount of the person’s deduction under subsection (5) is—
+**(6)**  The amount of the person's deduction under subsection (5) is—
 
 - (a) equal to the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition, based on market prices, if the aircraft engine, when acquired, has not been used significantly since being manufactured or having an aircraft engine overhaul; or
 
@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 - (a) the adjusted tax value of the piece for the person before the piece is fitted, if the piece is an item of depreciable property before being fitted:
 
-- (b) the portion of the person’s expenditure on the piece that is unexpired before the piece is fitted, otherwise.
+- (b) the portion of the person's expenditure on the piece that is unexpired before the piece is fitted, otherwise.
 
 **Link with subpart DA**
 

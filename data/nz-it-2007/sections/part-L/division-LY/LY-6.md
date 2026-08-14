@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) contract amount means the amount of consideration paid or payable by the person to a contractor to perform research and development activities:
 
-- (b) ineligible expenditure means the contractor’s expenditure or loss in relation to performing the research and development activity, to the extent to which the expenditure or loss is not eligible research and development expenditure under section LY 5(1), treating the contractor as the relevant person for the purposes of that section.
+- (b) ineligible expenditure means the contractor's expenditure or loss in relation to performing the research and development activity, to the extent to which the expenditure or loss is not eligible research and development expenditure under section LY 5(1), treating the contractor as the relevant person for the purposes of that section.
 
 **Relationship with subject matter**
 

@@ -3,21 +3,16 @@ ATO ID 2009/130
 ==================================================
 
 Income Tax
-        Capital Allowances: depreciating asset - mining, quarrying or prospecting right
-        FOI status: may be released
-
+ Capital Allowances: depreciating asset - mining, quarrying or prospecting right
+ FOI status: may be released
 
 Status of this decision:This interpretative decision is currently being reviewed as a result of a recent court/tribunal decision. Refer to Decision Impact Statement : Mitsui Co (Australia) Ltd v Commissioner of Taxation (Published 21 October 2014).However, the decision continues to represent the Tax Office view on this issue unless or until it is withdrawn.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are the right to recover petroleum and the right to explore for petroleum under a production licence granted by the relevant State Department to the taxpayer, separate depreciating assets from the production licence within the meaning of that term in section 40-30 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -35,13 +30,13 @@ Whether a composite item is itself a depreciating asset or whether its component
 Paragraph 1.15 of the Revised Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 (the EM) indicates that the functionality test should be applied when identifying particular depreciating assets. Paragraph 1.15 of the EM states:
 
 Taxpayers will be required to exercise judgment in identifying the depreciating asset where the asset itself is made up of different parts and components. In doing this, the '
-              functionality' test
-               that is used as a basis of identifying a 'unit of plant' in the existing plant depreciation rules can be used. (Specific reference to a 'unit' or an 'item' is not necessary to attract the test, as
-              the definition of a depreciating asset is based on a life in effective use and the depreciating asset must be identifiable as having its own life in such use.)
+ functionality' test
+ that is used as a basis of identifying a 'unit of plant' in the existing plant depreciation rules can be used. (Specific reference to a 'unit' or an 'item' is not necessary to attract the test, as
+ the definition of a depreciating asset is based on a life in effective use and the depreciating asset must be identifiable as having its own life in such use.)
 
 [Schedule 1, item 1, subsection 40
 -
-              30(4)]
+ 30(4)]
  (emphasis added)
 
 The Commissioner's views in Taxation Ruling TR 94/11 are a guide to what represents a separate unit or item, and are relevant in determining whether, as a question of fact and degree, a composite item is itself a depreciating asset. An item is generally itself a single item (rather than a number of separate units) if it has one or more of the characteristics listed in paragraph 3 of TR 94/11. The basic test put forward in TR 94/11 is a 'function test'. The ruling contains guidelines about the function test and explains how it must be applied to the particular factual circumstances of each case.
@@ -56,10 +51,10 @@ Based on this functionality, the production licence, rather that its component r
 As the production licence is a mining, quarrying or prospecting right that authorises the taxpayer to recover petroleum in the production licence area, it is an asset described as a mining, quarrying or prospecting right relating to mining operations to obtain petroleum. The effective life of such an asset is described in column 3 of item 2 of the table in subsection 40-95(10) as the taxpayer's estimate of the period until the end of 'the life of the petroleum field or proposed petroleum field to which the right relates'.
 The production licence is therefore an asset that has a limited effective life and can reasonably be expected to decline in value. Accordingly, the production licence is itself the depreciating asset within the meaning of that term in section 40-30.
 Date of decision:
-         16 September 2009
+  16 September 2009
 
 Year of income:
-           Year ended 31 March 2005
+  Year ended 31 March 2005
 
 Legislative References:
 
@@ -73,22 +68,20 @@ Other References:
 
  Revised Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001
 
-
 Keywords
 
 Depreciating assets
-          Mining & petroleum
-          Mining & exploration licences & permits
-
+ Mining & petroleum
+ Mining & exploration licences & permits
 
 Siebel/TDMS Reference Number:
-         1-1Q83TQB
+  1-1Q83TQB
 
 Business Line:
-         Administration, Business and Personal Taxes Centre of Expertise
+  Administration, Business and Personal Taxes Centre of Expertise
 
 Date of publication:
-         6 November 2009
+  6 November 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -12,17 +12,17 @@ compilation_date: 2026-06-06
 
 **Using the formula to calculate income and expenditure**
 
-**(1)**  A person uses the formula in subsection (2) for each valuation period described in subsection (3)﻿(b) that this subpart applies to them. A positive amount from the formula is a person’s income for their fair dividend rate hedge portions. A negative amount from the formula is a person’s expenditure for their fair dividend rate hedge portions.
+**(1)**  A person uses the formula in subsection (2) for each valuation period described in subsection (3)﻿(b) that this subpart applies to them. A positive amount from the formula is a person's income for their fair dividend rate hedge portions. A negative amount from the formula is a person's expenditure for their fair dividend rate hedge portions.
 
 **Formula**
 
-**(2)**  The formula for determining a person’s income and expenditure for their fair dividend rate hedge portions is— (FDR portions’ value + period gain − period loss) × 0.05 × valuation period ÷ days in the year.
+**(2)**  The formula for determining a person's income and expenditure for their fair dividend rate hedge portions is— (FDR portions' value + period gain − period loss) × 0.05 × valuation period ÷ days in the year.
 
 **Definition of items in formula**
 
 **(3)**  In the formula,—
 
-- (a) FDR portions’ value is the market value of a person’s fair dividend rate hedge portions at the start of a relevant valuation period in New Zealand currency:
+- (a) FDR portions' value is the market value of a person's fair dividend rate hedge portions at the start of a relevant valuation period in New Zealand currency:
 
 - (ab) period gain is the net gain multiplied by the FDR hedge portion for relevant eligible hedges that are entered into and settled within the preceding valuation period:
 

@@ -13,7 +13,7 @@ paragraph: "¶25-100"
 
 - The sale of commercial residential premises, such as a hotel or caravan park, is taxable, subject to
 
-  the “going concern” exemption (¶11-030).
+  the "going concern" exemption (¶11-030).
 
 - From 1 July 2018, purchasers of newly constructed residential premises or new subdivisions of
 
@@ -81,7 +81,7 @@ paragraph: "¶25-100"
 
 - Land tax is not subject to GST (¶4-080).
 
-- Estate agents’ and solicitors’ fees and advertising costs on property transfers are subject to GST
+- Estate agents' and solicitors' fees and advertising costs on property transfers are subject to GST
 
   (¶11-070).
 

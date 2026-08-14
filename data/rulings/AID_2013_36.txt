@@ -3,20 +3,15 @@ ATO ID 2013/36
 ==================================================
 
 Income Tax
-        Division 7A:  capital component of shortfall in minimum yearly repayment and the 'Amount of the loan not repaid by the end of the previous year of income' in the formula for the minimum yearly repayment in section 109E of the Income Tax Assessment Act 1936
-
+ Division 7A: capital component of shortfall in minimum yearly repayment and the 'Amount of the loan not repaid by the end of the previous year of income' in the formula for the minimum yearly repayment in section 109E of the Income Tax Assessment Act 1936
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a shortfall in a minimum yearly repayment gives rise to a deemed dividend under section 109E of the Income Tax Assessment Act 1936 (ITAA 1936), does the capital component of the shortfall reduce the 'Amount of the loan not repaid by the end of the previous year of income' in the formula in subsection 109E(6) of the ITAA 1936 when calculating the minimum yearly loan repayment for the subsequent income year?
@@ -30,8 +25,6 @@ No repayment was made on the loan for the income year ended 30 June 2010 and a d
 Reasons for decision
 A private company is taken to pay a dividend under subsection 109E(1) of the ITAA 1936 to an entity at the end of one of the private company's years of income (the current year) if:
 
-
-
 (a)the private company made an amalgamated loan to the entity in an earlier year of income; and
 (b)the amalgamated loan is not repaid at the end of the current year; and
 (c)the amount (if any) paid to the private company during the current year in relation to the amalgamated loan falls short of the minimum yearly repayment of the amalgamated loan worked out under subsection (5) for the current year; and
@@ -40,18 +33,13 @@ A private company is taken to pay a dividend under subsection 109E(1) of the ITA
 The amount of the dividend is taken to be the amount of the shortfall as mentioned in paragraph 109E(1)(c), subject to section 109Y of the ITAA 1936 (subsection 109E(2) of the ITAA 1936). Section 109Y of the ITAA 1936 caps the amount of the dividend to the private company's distributable surplus.
 The minimum yearly repayment is worked out using the formula in subsection 109E(6) of the ITAA 1936 or the amount worked out under the regulations, if they provide for working it out. As the regulations do not provide for working out the minimum yearly repayment the amount is worked out using the formula which is:
 
-
-
 where:
-
 
 current year's benchmark interest rate
  is the benchmark interest rate for the year of income for which the minimum yearly repayment is being worked out.
 
-
 remaining term
  is the difference between:
-
 
 (a)the number of years in the longest term of any of the constituent loans that the amalgamated loan takes account of; and
 (b)the number of years between the end of the private company's year of income in which the loan was made and the end of the private company's year of income before the year of income for which the minimum yearly repayment is being worked out;
@@ -63,10 +51,9 @@ In this case there have been no repayments of any of the constituent loans that 
 The Explanatory Memorandum to Tax Laws Amendment (2007 Measures No. 3) Bill 2007 sets out in paragraphs 1.20 and 1.21 the options available to the private company and shareholder (or their associates). The available options are that the amount of the shortfall should either be repaid or forgiven or the company could use section 109ZC of the ITAA 1936. Paragraphs 1.20 and 1.21 state:
 
 1.20	Where minimum yearly repayments have not been made and a deemed dividend arises, the shareholder or the associate will still have the shortfall amount as an outstanding debt with the private company. The shareholder can either make the shortfall payment or ask the company to forgive that amount of the debt. The debt forgiveness of this amount would not trigger a deemed dividend as a result of the new subsections 109G(3A) and (3B).
-              [Schedule 1, items 4, 5 and 9, paragraph 109E(1)(c) and subsection 109E(2) of the ITAA 1936]
+ [Schedule 1, items 4, 5 and 9, paragraph 109E(1)(c) and subsection 109E(2) of the ITAA 1936]
 
 1.21	Alternatively, the company could use section 109ZC. A later dividend could be declared and used to offset the deemed dividend (with the agreement of the shareholder). The later dividend will not be included in the shareholder's assessable income to the extent it is unfranked.
-
 
 Note (1):
  unpaid interest which forms part of a minimum yearly repayment shortfall in terms of subsection 109E(2) of the ITAA 1936 should not be added to the closing balance of the constituent loan for the applicable income year.
@@ -89,10 +76,10 @@ Remove double reference to subsection 109E(6) of the ITAA 1936 and replace with 
 Include reference to subsection 109RB(3) of the ITAA 1936.
 
 Date of decision:
-         21 June 2013
+  21 June 2013
 
 Year of income:
-           Year ended 30 June 2010 Year ended 30 June 2011
+  Year ended 30 June 2010 Year ended 30 June 2011
 
 Legislative References:
 
@@ -106,37 +93,32 @@ Other References:
 
  Explanatory Memorandum to Tax Laws Amendment (2007 Measures No. 3) Bill 2007
 
-
 Keywords
 
 Companies
-          Deemed dividends
-          Shortfalls
-          Shareholder loans
-
+ Deemed dividends
+ Shortfalls
+ Shareholder loans
 
 Siebel/TDMS Reference Number:
-         1-4OE69X2, 1-78ZWVJF
+  1-4OE69X2, 1-78ZWVJF
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         28 June 2013
+  28 June 2013
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 21 June 2013

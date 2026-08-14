@@ -4,17 +4,15 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Div 6
-  • Div 7A
-  • Division 290
-  • Division 7A
-  • Subdivision 207-F
-  • div 207
-  • division 207
+ • Div 6
+ • Div 7A
+ • Division 290
+ • Division 7A
+ • Subdivision 207-F
+ • div 207
+ • division 207
 
 Topics: CGT, Div 7A, Trusts, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -44,13 +42,13 @@ The ATO view on the application of section 109T of the Income Tax Assessment Act
 Description
 We are currently reviewing a class of arrangements detected by our Trusts Taskforce that appear designed to exploit the proportionate approach to trust taxation. The arrangements are deliberately structured to exclude from the trust income much of the economic benefit that is reflected in the taxable net income of the trust. In doing this, the taxpayers seek to gain substantial tax benefits.
 Under the proportionate approach, the share of trust income to which a beneficiary is presently entitled determines the proportionate share of taxable net income that is included in the beneficiary's assessable income. One implication of this approach is that, if taxable net income exceeds trust income, the share of that net income included in a beneficiary's assessable income will be more than the amount of the beneficiary's income entitlement under the trust.
-The underlying premise of the arrangements described in  this Taxpayer Alert is that the taxable net income of the trust is assessed to the presently entitled beneficiary, while the economic benefits reflected in that net income are retained by the trustee, or passed to a different beneficiary in a purportedly tax free form.
+The underlying premise of the arrangements described in this Taxpayer Alert is that the taxable net income of the trust is assessed to the presently entitled beneficiary, while the economic benefits reflected in that net income are retained by the trustee, or passed to a different beneficiary in a purportedly tax free form.
 Under these arrangements, the rate of tax paid by the presently entitled beneficiary is lower (often significantly lower) than the rate of tax that would otherwise have been paid by the trustee and/or the beneficiary who receives the benefit.
 The arrangements described above typically display all or most of the following features:
 1.
 Steps are taken to create an artificial difference between the trust income and taxable net income of a closely held trust with the primary motivation appearing to be the avoidance of tax. The steps may include:
 a.
-Amending or varying  the trust deed definition of income or the trustee's powers to determine trust income
+Amending or varying the trust deed definition of income or the trustee's powers to determine trust income
 b.
 The trustee taking steps for the principal purpose of reducing trust income
 c.
@@ -72,7 +70,7 @@ taxable net income can include amounts that are not traditionally regarded as tr
 proper accounting (not principally directed towards the obtaining of tax benefits) leads to differences between when and how amounts are recognised for tax and accounting purposes.
 Example 1 - trustee purports to make trust income 30% of taxable net income
 The taxable net income of a discretionary trust for 2015-16 is $1,000,000 which relates wholly to business income. The accounting records of the trust show a profit of a similar amount.
-The trustee determines the trust income for the 2015-16 year to be 30% of the taxable net income of the trust. The trustee cites a power in the deed in support of this determination. The trustee treats the remaining $700,000 as trust capital.  But for this determination, the trust income would have been $1,000,000.
+The trustee determines the trust income for the 2015-16 year to be 30% of the taxable net income of the trust. The trustee cites a power in the deed in support of this determination. The trustee treats the remaining $700,000 as trust capital. But for this determination, the trust income would have been $1,000,000.
 The trustee resolves to make a company presently entitled to all of the trust income ($300,000). The company returns all of the taxable net income of the trust ($1,000,000) as assessable income, and uses the whole of its trust income entitlement of $300,000 to meet its tax liability on this amount.
 The trustee later distributes the capitalised amount of $700,000 to an individual beneficiary. The individual treats the distribution as tax-free in its hands.
 The asserted result is tax of $300,000 is payable on the net income of the trust rather than tax on the net income at the individual's marginal tax rate.

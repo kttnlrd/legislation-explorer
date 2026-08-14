@@ -3,18 +3,14 @@ ATO ID 2003/9
 ==================================================
 
 Goods and Services Tax
-        GST and supply of reconditioned second-hand goods divided before sale
-        FOI status: may be released
-
-
+ GST and supply of reconditioned second-hand goods divided before sale
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a second-hand goods dealer, making a supply that is not a taxable supply in accordance with section 66-45 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells one of the divided parts of second-hand goods that it divided and reconditioned prior to sale?
@@ -28,8 +24,6 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Subdivision 66-B of the GST Act sets out special rules for second-hand goods that are divided prior to re-supply. Under section 66-45 of the GST Act, a supply is not a taxable supply if:
 
-
-
 •it is a supply of goods that were part of an acquisition an entity made that was an acquisition of second-hand goods to which Subdivision 66-B of the GST Act applies
 •the entity's total Subdivision 66-B credit amount is more that the entity's total Subdivision 66-B GST amount; and
 •the amount of GST that would have been payable on the supply, if it were a taxable supply, is less than or equal to the difference between:
@@ -38,8 +32,6 @@ Subdivision 66-B of the GST Act sets out special rules for second-hand goods tha
 
 The first requirement in section 66-45 of the GST Act is that Subdivision 66-B must apply to the entity's acquisition of second-hand goods; that is that the acquisition must meet the requirements of subsection 66-40(1) but is not excluded under subsection 66-40(2).
 Subsection 66-40(1) of the GST Act provides that Subdivision 66-B of the GST Act applies to an acquisition of second-hand goods if:
-
-
 
 •the entity acquired the goods for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
 •either the consideration for the acquisition was more than $300 or the entity chooses to have the section apply; and
@@ -55,8 +47,6 @@ Further, paragraph 81 of GSTR 2000/8 provides that:
 The reconditioning of the divided parts by the entity merely restored the second-hand goods to a good and satisfactory condition; it did not alter the second-hand goods into something different. Therefore, the entity did not acquire the second-hand goods for manufacture. Further, the consideration for the entity's acquisition was greater than $300, the goods are of such a kind that it is reasonable to expect that they would be divided and the entity is selling the divided parts separately. Therefore, the requirements of subsection 66-40(1) of the GST Act are met.
 However, subsection 66-40(2) of the GST Act provides that Subdivision 66-B of the GST Act does not apply to the acquisition if:
 
-
-
 •the consideration for the acquisition separately itemises the consideration for the different goods acquired and the entity's division of the goods before supplying them
 •corresponds to that itemisation; or
 •does not involve dividing the goods any further than the division indicated by the itemisation; or
@@ -70,8 +60,6 @@ The second requirement in section 66-45 of the GST Act provides that the entity'
 The total Subdivision 66-B credit amount is the sum of the amounts of the input tax credits to which an entity would have been entitled, for all its acquisitions of second-hand goods to which this Subdivision applied, if this Subdivision had not applied to them. If the entity had been entitled to an input tax credit for the acquisition of second-hand goods the amount of its input tax credit would be $70 (1/11th of $770 purchase price). As such, the entity's total Subdivision 66-B credit amount is $70.
 The total Subdivision 66-B GST amount is the sum of:
 
-
-
 •all the amounts of GST that, but for the operation of this section 66-45 of the GST Act, would have been payable on supplies that the entity made; and
 •all the amounts by which GST payable on supplies that the entity made has been reduced under section 66-50 of the GST Act.
 
@@ -80,10 +68,7 @@ Therefore, the entity's total Subdivision 66-B credit amount ($70) is more than 
 The last requirement in section 66-45 of the GST Act is that the amount of GST that would have been payable on the entity's supply of the goods (if the supply was a taxable supply) must be less than or equal to the difference between the total Subdivision 66-B credit amount and the total Subdivision 66-B GST amount. The amount of GST that would have been payable on the entity's supply is $40 (sale price of $440 x 1/11). This is less than the difference between the entity's total Subdivision 66-B credit amount and the total Subdivision 66-B GST amount ($70 - $0). Therefore, the third requirement in section 66-45 of the GST Act is satisfied.
 As all the requirements in section 66-45 of the GST Act are met, the entity is making a supply that is not a taxable supply when it sells part of second-hand goods that it divided and reconditioned prior to sale.
 
-
 [Note 1: Section 66-55 of the GST Act provides that section 66-45 of the GST Act only applies to an entity's re-supply of second-hand goods if the entity holds records, relating to the acquisition, that:
-
-
 
 •set out the name and address of the entity that supplied the goods; and
 •describes the goods (including quantity); and
@@ -92,7 +77,7 @@ As all the requirements in section 66-45 of the GST Act are met, the entity is m
 Note 2: Although GSTR 2000/8 is a ruling on the operation of section 16 of the A New Tax System (Goods and Services Tax Transition) Act 1999 (Transition Act), section 16 of the Transition Act and paragraph 66-40(1)(a) of the GST Act use the phrase 'for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business' in the same context. Therefore, it is appropriate to apply the meaning given to 'not for manufacture' under section 16 of the Transition Act to paragraph 66-40(1)(a) of the GST Act.]
 
 Date of decision:
-         13 December 2002
+  13 December 2002
 
 Legislative References:
 
@@ -101,11 +86,9 @@ A New Tax System (Goods and Services Tax Transition) Act 1999   section 16
 
 Case References:
 
-
 FC of T v Jack Zinader Pty Ltd   (1949) 9 ATD 46   (1949) 78 CLR 336
 
 FC of T v Jax Tyres Pty Ltd   85 ATC 4001   (1984) 16 ATR 97   (1984) 5 FCR 257
-
 
 Related Public Rulings (including Determinations)
 
@@ -119,23 +102,21 @@ Other References:
 
 The Macquarie Dictionary 1997, 3rd edn, The Macquarie Library Pty Ltd, New South Wales
 
-
 Keywords
 
 Goods & services tax
-          GST second hand goods
-          GST supplies & acquisitions
-          Taxable supply
-
+ GST second hand goods
+ GST supplies & acquisitions
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         3419373B
+  3419373B
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         24 January 2003
+  24 January 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

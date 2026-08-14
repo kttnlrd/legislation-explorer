@@ -3,21 +3,16 @@ ATO ID 2011/33
 ==================================================
 
 Fringe Benefits Tax
-        Deemed dividend: No FBT on a Division 7A shareholder loan where distributable surplus is nil
-        FOI status: may be released
-
+ Deemed dividend: No FBT on a Division 7A shareholder loan where distributable surplus is nil
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the paragraph (r) exclusion from the definition of 'fringe benefit' in subsection 136(1) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA) preclude a loan from being a loan fringe benefit where the loan is taken to be a dividend, but the amount is reduced to nil in accordance with section 109Y of Division 7A of Part III (Division 7A) of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -41,10 +36,10 @@ Under subsection 109D(1AA) of the ITAA 1936 the amount of the dividend taken to 
 Section 109Y of the ITAA 1936 limits the total amount of dividends taken to have been paid by the private company under Division 7A of the ITAA 1936 to the company's distributable surplus as at the end of its year of income.
 In this case the private company has made a loan to the shareholder which is taken to be a dividend under section 109D of the ITAA 1936, and the amount of the dividend is reduced to nil because the company has a nil distributable surplus for the year ended 30 June 2009.
 However, the private company is
-          still taken
-           to pay a dividend to the shareholder under subsection 109D(1) of the ITAA 1936. It is only the
-          amount
-           of the dividend under subsection 109D(1AA) of the ITAA 1936 which is affected by the private company's distributable surplus.
+ still taken
+ to pay a dividend to the shareholder under subsection 109D(1) of the ITAA 1936. It is only the
+ amount
+ of the dividend under subsection 109D(1AA) of the ITAA 1936 which is affected by the private company's distributable surplus.
 Accordingly, the paragraph (r) exclusion from the definition of 'fringe benefit' in subsection 136(1) of the FBTAA precludes the loan from being a loan fringe benefit for the year ended 31 March 2010.
 
 Amendment History
@@ -58,10 +53,10 @@ Facts
 Updated for clarity.
 
 Date of decision:
-         3 November 2010
+  3 November 2010
 
 Year of income:
-           Year ended 31 March 2010
+  Year ended 31 March 2010
 
 Legislative References:
 
@@ -75,41 +70,37 @@ ATO ID 2003/492
 Keywords
 
 Companies
-          Deemed dividends
-          Dividend income
-          Fringe benefits tax
-          Loan fringe benefits
-          FBT shareholder loans
-          Private companies
-          Private company distributions
-          Shareholder loans
-
+ Deemed dividends
+ Dividend income
+ Fringe benefits tax
+ Loan fringe benefits
+ FBT shareholder loans
+ Private companies
+ Private company distributions
+ Shareholder loans
 
 Siebel/TDMS Reference Number:
-         1-2F0W7W4; 1-5CYAY7U
+  1-2F0W7W4; 1-5CYAY7U
 
 Business Line:
-         Superannuation and Employer Obligations
+  Superannuation and Employer Obligations
 
 Date of publication:
-         20 May 2011
+  20 May 2011
 
 Date reviewed:
-         20 March 2026
+  20 March 2026
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  3 November 2010

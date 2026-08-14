@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(2)**  For the purposes of subsection (1)﻿(a), the person must be a company that has transferred assets to the special purpose vehicle and all the transferred assets are—
 
-- (a) treated for financial reporting purposes as the person’s assets; or
+- (a) treated for financial reporting purposes as the person's assets; or
 
 - (b) are included in consolidated financial statements prepared by the person or by a member of a wholly-owned group of companies that includes the person.
 

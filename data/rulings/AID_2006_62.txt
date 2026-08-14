@@ -3,18 +3,14 @@ ATO ID 2006/62
 ==================================================
 
 Goods and Services Tax
-        GST and thresholds for adjustments for changes in extent of creditable purpose relating to being a former member of a GST group
-        FOI status: may be released
-
-
+ GST and thresholds for adjustments for changes in extent of creditable purpose relating to being a former member of a GST group
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is an acquisition made by the entity, a company that is a member of a GST group making only input taxed supplies, an acquisition that 'relates to business finance' for the purposes of Division 129 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when the entity leaves the GST group and makes taxable supplies?
@@ -31,7 +27,6 @@ Subsection 129-10(3) of the GST Act provides that an acquisition 'relates to bus
 At the time of the acquisition the entity was a member of the GST group and the acquisition related solely to the GST-group making financial supplies (subsection 48-45(2) of the GST Act). The entity's acquisition 'relates to business finance' notwithstanding that the entity is no longer a member of the GST group.
 Therefore, the entity's acquisition is an acquisition that 'relates to business finance' for the purposes of Division 129 of the GST Act.
 
-
 Note:
 
 1. Subdivision 48-D of the GST Act provides rules in relation to adjustments when an entity ceases to be a member of a GST group. However, no provision in Subdivision 48-D of the GST Act alters the definition of 'relates to business finance' in subsection 129-10(3) of the GST Act.
@@ -39,7 +34,7 @@ Note:
 2. For details on calculating an adjustment under Division 129 of the GST Act refer to Goods and Services Tax Ruling GSTR 2000/24.
 
 Date of decision:
-         1 November 2002
+  1 November 2002
 
 Legislative References:
 
@@ -52,20 +47,19 @@ Goods and Services Tax Ruling GSTR 2000/24
 Keywords
 
 Goods and services tax
-          GST net amounts & adjustments
-          Adjustments
-          GST groups
-          GST financial acquisitions threshold
-
+ GST net amounts & adjustments
+ Adjustments
+ GST groups
+ GST financial acquisitions threshold
 
 Siebel/TDMS Reference Number:
-         3163337
+  3163337
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         24 February 2006
+  24 February 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

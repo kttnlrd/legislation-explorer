@@ -3,18 +3,14 @@ ATO ID 2009/64
 ==================================================
 
 Income Tax
-        Consolidation: single entity rule and issue of non-share equity
-        FOI status: may be released
-
-
+ Consolidation: single entity rule and issue of non-share equity
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the issue of non-share equity interests by a subsidiary member of a consolidated group give rise to a credit in the non-share capital account of the subsidiary (and not the head company) pursuant to section 164-15 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -31,36 +27,30 @@ There is a requirement in section 164-15 to credit the non-share capital account
 The consolidation regime in Part 3-90 allows a wholly-owned group of entities to be treated as a single entity for income tax purposes. The SER in section 701-1 is the central principle giving effect to this treatment.
 The SER operates to treat subsidiary members of the consolidated group as parts of the head company of the group, rather than separate entities, while they are members of the group.
 SER treatment only operates for the purposes outlined in subsections 701-1(2) and 701-1(3). These purposes are the
-          head company core purposes
+ head company core purposes
  and
-          entity core purposes
+ entity core purposes
  which are stated to be:
-
-
 
 •working out the amount of the [head company or entity's] liability (if any) for income tax, and
 •working out the amount of the [head company or entity's] loss (if any).
 
 Taxation Ruling TR 2004/11 outlines the Tax Office view that the single entity principle operates in a manner to provide outcomes broadly reflecting a single company operating by divisions. Paragraph 4 of TR 2004/11 provides guidance in relation to the extent of core purposes:
 
-
-
 4.The SER operates for the purposes set out in subsections 701-1(2) and (3) of the ITAA 1997 (the core purposes). These purposes are to work out the amount of the head company and subsidiary member's liability for income tax and the amount of a loss for a relevant period. They include all matters relevant and incidental to those calculations. The intended operation of the SER is to apply the income tax laws to a consolidated group as if it were a single entity.
 
 The requirement to maintain the non-share capital account does not impact on the income tax liability or loss calculated for either Sub Co or Head Co. The account records Third Party Co's contributions and characterises a return on that investment as either a dividend or capital return. This characterisation only affects Third Party Co's income tax position.
 Paragraph 12 of TR 2004/11 outlines that the SER does not affect the income tax position of an entity that is not a member of a consolidated group:
-
-
 
 12.The SER ensures that the members of a consolidated group are treated as a single entity for the purpose of applying income tax laws to that group. The SER does not affect the application of those laws to an entity outside of the consolidated group. The income tax position of entities outside of the group will not be affected by the SER when they deal or transact with a member of a consolidated group.
 
 There is no specific provision extending the SER to the requirement to maintain a non-share capital account. Also, the consolidation regime does not make any express provision for the contributions received by a subsidiary member to be credited to a non-share capital account of the head company of the consolidated group.
 It follows that the 'company' identified in Division 164 as being required to establish the non-share capital account is Sub Co and not Head Co. Therefore the consideration received in respect of the convertible notes will require Sub Co (and not Head Co) to credit its own non-share capital account in accordance with section 164-15.
 Date of decision:
-         3 July 2009
+  3 July 2009
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -77,21 +67,20 @@ Related ATO Interpretative Decisions
 Keywords
 
 Consolidation
-          Consolidated group
-          Head company
-          Non-share equity interest
-          Single entity rule
-          Subsidiary member of a consolidated group
-
+ Consolidated group
+ Head company
+ Non-share equity interest
+ Single entity rule
+ Subsidiary member of a consolidated group
 
 Siebel/TDMS Reference Number:
-         6225699
+  6225699
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         10 July 2009
+  10 July 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

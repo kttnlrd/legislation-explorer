@@ -31,7 +31,7 @@ On 28 June 2028, Marilyn decides to sell the apartment for $800,000, which inclu
 
 - dishwasher — $250.
 
-What depreciation deductions can Marilyn claim in respect of the above assets? What is Marilyn’s capital gain, ignoring capital works deductions, on the disposal of the property in June 2028?
+What depreciation deductions can Marilyn claim in respect of the above assets? What is Marilyn's capital gain, ignoring capital works deductions, on the disposal of the property in June 2028?
 
 Solution ITAA97 s 40-27 prohibits a deduction for the decline in value of a depreciating asset in residential premises used to generate rental income where the asset was previously used, that is, the asset is not newly used for that purpose.
 
@@ -41,7 +41,7 @@ The limitation also does not apply where an entity generates rental income in th
 
 The limitation, therefore, targets those investors in residential investment properties, including situations where owner-occupiers subsequently rent out their home. Where assets in the home were previously used, or installed ready for use, by the landlord in a personal capacity, the deduction for the decline in value is not available to the landlord for such depreciating assets after the change of use.
 
-The restriction applies to income years starting on or after 1 July 2017. It applies to assets acquired at or after 7.30 pm (AEST) on 9 May 2017 unless the asset was acquired under a contract entered into before this time. Depreciating assets acquired before this time which are moved from a taxpayer’s home into a rental property are also subject to this rule.
+The restriction applies to income years starting on or after 1 July 2017. It applies to assets acquired at or after 7.30 pm (AEST) on 9 May 2017 unless the asset was acquired under a contract entered into before this time. Depreciating assets acquired before this time which are moved from a taxpayer's home into a rental property are also subject to this rule.
 
 For s 40-27 to apply, firstly, the depreciating asset must be used or installed ready for use in residential premises to earn rental income (ITAA97 s 40-27(2)(a)).
 
@@ -51,11 +51,11 @@ Assets already used or installed in a residential property when an investor acqu
 
 Accordingly, Marilyn is not able to claim depreciation deductions for any of the items listed. The carpets, window covering and air-conditioning unit that were already in the property at the date it was acquired are pre-existing assets and therefore a deduction for decline in value is not available.
 
-Similarly, the curtains, shelving and racking, washing machine and dishwasher were all acquired second- hand and therefore are “previously used”, meaning that a depreciation deduction is not available.
+Similarly, the curtains, shelving and racking, washing machine and dishwasher were all acquired second- hand and therefore are "previously used", meaning that a depreciation deduction is not available.
 
 The sale of the property in 2028 together with the associated depreciating assets will, assuming the legislation remains the same, trigger a balancing adjustment event in relation to the depreciating assets.
 
-Per ITAA97 s 104-235(1)(b), where depreciation deductions are denied due to the application of s 40-27, CGT event K7 happens. This will typically give rise to a capital loss since the termination value of a second- hand asset will almost always be less than its cost. A capital gain will arise in the unusual situation where the termination value exceeds the cost of the asset. In either case, the excess is multiplied by the percentage of the total decline in value that was denied to determine the capital gain or loss. In Marilyn’s case, the property was used for rental purposes throughout the period of ownership, so apportionment of the capital gain/loss is not required.
+Per ITAA97 s 104-235(1)(b), where depreciation deductions are denied due to the application of s 40-27, CGT event K7 happens. This will typically give rise to a capital loss since the termination value of a second- hand asset will almost always be less than its cost. A capital gain will arise in the unusual situation where the termination value exceeds the cost of the asset. In either case, the excess is multiplied by the percentage of the total decline in value that was denied to determine the capital gain or loss. In Marilyn's case, the property was used for rental purposes throughout the period of ownership, so apportionment of the capital gain/loss is not required.
 
 In relation to the disposal of her depreciating assets, as Marilyn has not been able to claim any depreciation deductions, her balancing adjustment will be nil. As the cost of the assets ($15,000) exceeds their termination value ($9,000), Marilyn made a capital loss of $6,000 arising from CGT event K7.
 

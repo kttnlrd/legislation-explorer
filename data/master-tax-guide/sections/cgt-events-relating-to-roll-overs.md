@@ -9,7 +9,7 @@ paragraph: "¶11-340"
 
 wholly-owned group after roll-over
 
-(i) a CGT asset is rolled over between companies in the same wholly-owned group (ii) the recipient company stops being a wholly-owned subsidiary of the group’s ultimate holding company (¶3-090), and (iii) at the time of the roll-over, the recipient company was a wholly-owned subsidiary of the other company involved in the roll-over event (the originating company) or of another member of the same wholly-owned group (s 104-175).
+(i) a CGT asset is rolled over between companies in the same wholly-owned group (ii) the recipient company stops being a wholly-owned subsidiary of the group's ultimate holding company (¶3-090), and (iii) at the time of the roll-over, the recipient company was a wholly-owned subsidiary of the other company involved in the roll-over event (the originating company) or of another member of the same wholly-owned group (s 104-175).
 
 Following the introduction of the group consolidation regime (¶8-000), CGT event J1 has lost much of its relevance. However, it may still apply where transfers of assets involving foreign resident companies occur (¶12-490).
 
@@ -33,7 +33,7 @@ Once CGT event J1 happens, any roll-overs of the asset before the break-up time 
 
 CGT event J1 then only has to be considered in relation to a subsequent roll-over or series of roll-overs, and in relation to the company which is the ultimate holding company when the ﬁrst such subsequent roll-over occurs.
 
-Timing of CGT event J1 The time of CGT event J1 is the break-up time. This is when the recipient company stops being a wholly- owned subsidiary of the group’s ultimate holding company.
+Timing of CGT event J1 The time of CGT event J1 is the break-up time. This is when the recipient company stops being a wholly- owned subsidiary of the group's ultimate holding company.
 
 Capital gains and losses A company makes a capital gain from CGT event J1 if the market value of the roll-over asset at the break-up time is more than its cost base. If the market value of the roll-over asset is less than its reduced cost base, a capital loss is made.
 
@@ -41,7 +41,7 @@ A capital gain or loss from CGT event J1 is disregarded if the roll-over asset i
 
 CGT event J1 does not happen to a demerged entity or a member of a demerger group if CGT event A1 or C2 happens to a demerging entity under a demerger (¶12-328).
 
-Acquisition rules Once CGT event J1 has happened to an asset, it is taken to have been acquired by the recipient company at the break-up time. In addition, for purposes of later CGT events, the ﬁrst element of the recipient company’s cost base and reduced cost base is its market value at the break-up time.
+Acquisition rules Once CGT event J1 has happened to an asset, it is taken to have been acquired by the recipient company at the break-up time. In addition, for purposes of later CGT events, the ﬁrst element of the recipient company's cost base and reduced cost base is its market value at the break-up time.
 
 Sub-group break-up exception CGT event J1 does not happen if a sub-group break-up occurs so that the asset remains within the same sub-group even if it is no longer a wholly-owned subsidiary of the ultimate holding company (s 104-180).
 
@@ -55,7 +55,7 @@ Note that if these conditions are not satisﬁed, CGT event J5 will occur at the
 
 *Refs: s 104-185)*
 
-(a) the replacement asset: (i) stops being the taxpayer’s active asset (eg a disposal of the asset) (ii) becomes trading stock, or (iii) starts being used solely to produce exempt income or non-assessable non-exempt income, or (b) if the replacement asset is a share in a company or an interest in a trust: (i) CGT event G3 or I1 happens, or (ii) the relevant condition in (3) above ceases to be satisﬁed.
+(a) the replacement asset: (i) stops being the taxpayer's active asset (eg a disposal of the asset) (ii) becomes trading stock, or (iii) starts being used solely to produce exempt income or non-assessable non-exempt income, or (b) if the replacement asset is a share in a company or an interest in a trust: (i) CGT event G3 or I1 happens, or (ii) the relevant condition in (3) above ceases to be satisﬁed.
 
 There can be one or more replacement assets. If there is only one replacement asset, or if a change happens to all of the replacement assets, the capital gain is the amount that was originally rolled over.
 
@@ -94,9 +94,9 @@ over under Subdiv 124-N
 
   The eﬀect of the roll-over will also be reversed for the beneﬁciary.
 
-and to incur fourth element expenditure after a roll-over under Subdiv 152-E CGT event J5 happens where a taxpayer has chosen the small business roll-over (¶7-195) and by the end of the replacement asset period the taxpayer has not acquired a replacement asset and has not incurred expenditure to improve the asset (“replacement asset”), or the replacement asset does not satisfy certain conditions (s 104-197). The conditions are:
+and to incur fourth element expenditure after a roll-over under Subdiv 152-E CGT event J5 happens where a taxpayer has chosen the small business roll-over (¶7-195) and by the end of the replacement asset period the taxpayer has not acquired a replacement asset and has not incurred expenditure to improve the asset ("replacement asset"), or the replacement asset does not satisfy certain conditions (s 104-197). The conditions are:
 
-- the replacement asset must be the taxpayer’s active asset
+- the replacement asset must be the taxpayer's active asset
 
 - if the replacement asset is a share in a company or an interest in a trust
 
@@ -108,15 +108,15 @@ The small business retirement exemption may potentially apply to reduce the capi
 
 *Refs: s 104-197), s 152-10(4)), s 152-305(4)), s 115-25*
 
-asset or amount of fourth element expenditure, or both, not sufficient to cover disregarded capital gain CGT event J6 happens where the taxpayer has chosen the small business roll-over (¶7-195) and by the end of the replacement asset period the taxpayer has incurred expenditure on acquiring a replacement asset and/or improving an asset (“replacement asset”) meeting certain conditions but that expenditure is less than the amount of the capital gain that was disregarded under the small business roll-over (s 104-198). The conditions are the same as detailed above for CGT event J5.
+asset or amount of fourth element expenditure, or both, not sufficient to cover disregarded capital gain CGT event J6 happens where the taxpayer has chosen the small business roll-over (¶7-195) and by the end of the replacement asset period the taxpayer has incurred expenditure on acquiring a replacement asset and/or improving an asset ("replacement asset") meeting certain conditions but that expenditure is less than the amount of the capital gain that was disregarded under the small business roll-over (s 104-198). The conditions are the same as detailed above for CGT event J5.
 
 *Refs: s 104-198)*
 
-- costs that would be included in the ﬁrst element of the asset’s cost base
+- costs that would be included in the ﬁrst element of the asset's cost base
 
 - incidental costs of acquisition of the asset, and
 
-- costs that would be included in the fourth element of the asset’s cost base (¶11-550).
+- costs that would be included in the fourth element of the asset's cost base (¶11-550).
 
 The capital gain is the diﬀerence between the amount of the capital gain that was rolled over and the amount of expenditure incurred.
 

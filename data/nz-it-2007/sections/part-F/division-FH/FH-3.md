@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (a) no country or territory recognises an amount of the payment (the unrecognised amount) as giving rise to ordinary income of the payee under subsection (9); and
 
-- (b) the unrecognised amount would be recognised by the taxation law of the payee jurisdiction as giving rise to ordinary income of the payee under subsection (9) if the classification of the payment or payment instrument were varied and the payee had the usual tax status for a person or entity of the payee’s class.
+- (b) the unrecognised amount would be recognised by the taxation law of the payee jurisdiction as giving rise to ordinary income of the payee under subsection (9) if the classification of the payment or payment instrument were varied and the payee had the usual tax status for a person or entity of the payee's class.
 
 **Delayed recognition of amount**
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **Payer deriving income from financial instrument: excluded income**
 
-**(8)**  If a payer that derives income (the affected income) in an income year from a financial instrument would, as a consequence of unrecognised amounts under subsection (2) of payments, be denied by subsection (4) a deduction for a fraction (the affected fraction) of expenditure incurred by the payer in the income year under the financial instrument, an amount of the payer’s affected income, calculated by multiplying the affected income by the affected fraction, is excluded income of the payer.
+**(8)**  If a payer that derives income (the affected income) in an income year from a financial instrument would, as a consequence of unrecognised amounts under subsection (2) of payments, be denied by subsection (4) a deduction for a fraction (the affected fraction) of expenditure incurred by the payer in the income year under the financial instrument, an amount of the payer's affected income, calculated by multiplying the affected income by the affected fraction, is excluded income of the payer.
 
 **Ordinary income**
 

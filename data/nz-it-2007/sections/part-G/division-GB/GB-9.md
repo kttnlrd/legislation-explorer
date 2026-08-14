@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Treatment of disposal**
 
-**(2)**  The disposal is treated as not having occurred, when the person’s control interest or income interest in the foreign company at the end of the quarter is calculated, to the extent to which the reacquisition reverses the disposal.
+**(2)**  The disposal is treated as not having occurred, when the person's control interest or income interest in the foreign company at the end of the quarter is calculated, to the extent to which the reacquisition reverses the disposal.
 
 *Defined in this Act: arrangement, associated person, attributed CFC income, CFC, control interest, direct control interest, direct income interest, foreign company, income interest, international tax rules, quarter*
 

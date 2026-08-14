@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Best Start tax credit for dependent child**
 
-**(1)**  For the purposes of section MG 1(3)﻿(a), the person’s Best Start tax credit for the entitlement period for the dependent child is calculated using the formula— prescribed amount × days ÷ 365.
+**(1)**  For the purposes of section MG 1(3)﻿(a), the person's Best Start tax credit for the entitlement period for the dependent child is calculated using the formula— prescribed amount × days ÷ 365.
 
 **Definition of items in formula**
 

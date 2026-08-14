@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Priority uses**
 
-**(1)**  A person’s loss balance carried forward under section IA 3(4) to a tax year, must—
+**(1)**  A person's loss balance carried forward under section IA 3(4) to a tax year, must—
 
 - (a) first, be subtracted from their net income, so far as it extends, for the tax year; and
 

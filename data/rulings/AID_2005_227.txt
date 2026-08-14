@@ -3,18 +3,14 @@ ATO ID 2005/227
 ==================================================
 
 Good and Services Tax
-        GST and validity of an arbitrated offer in respect of a long-term non-reviewable contract
-        FOI status: may be released
-
-
+ GST and validity of an arbitrated offer in respect of a long-term non-reviewable contract
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the entity, a supplier under a long-term non-reviewable contract, make an 'arbitrated offer' in accordance with section 15J of the A New Tax System (Goods and Services Tax Transition) Act 1999 (GST Transition Act) if the assessor's determination of an appropriate price change is not made within 28 days of the end of the initial offer period?
@@ -27,8 +23,6 @@ The assessor does not make the price determination within the prescribed 28 day 
 Reasons for decision
 Section 15J of the GST Transition Act provides that a final offer to change the consideration for supplies, that are made on or after 1 July 2005 and that are specifically identified by an agreement of a kind referred to in subsection 13(1) of the GST Transition Act, is an arbitrated offer if:
 
-
-
 •the supplier has, in accordance with section 15K of the GST Transition Act, made an initial offer to the recipient of the supplies to change the consideration
 •change to the consideration has been arbitrated in accordance with section 15L of the GST Transition Act, and
 •the supplier makes the final offer in accordance with section 15M of the GST Transition Act.
@@ -36,13 +30,12 @@ Section 15J of the GST Transition Act provides that a final offer to change the 
 The arbitration process in section 15L of the GST Transition Act is a prescribed arbitration process. Paragraph 15L(1)(d) of the GST Transition Act specifically provides that the assessor's determination of an appropriate change to the consideration 'must be made within 28 days of the end of the offer period ...'
 As the assessor's determination was not made within the prescribed 28 day period, the entity has not met the requirements of section 15L of the GST Transition Act. Therefore the entity cannot make an 'arbitrated offer' in accordance with section 15J of the GST Transition Act.
 
-
 Note 1: There is nothing in Subdivision C of Division 2 of the GST Transition Act that expressly prohibits the restarting of the arbitration process. Accordingly, the entity could make a further initial offer to the recipient and start a new arbitration process under section 15L of GST Transition Act, if the further initial offer period lapses without acceptance, or the recipient rejects the further initial offer made.
 
 Note 2: The 'offer period' specified in paragraph 15L(1)(d) of the GST Transition Act is the initial offer period. Therefore, the assessor's determination must be made within 28 days of the end of the offer period specified in the initial offer made under section 15K of the GST Transition Act. This is so even if the recipient rejects the initial offer at a time other than the end of the offer period specified.
 
 Date of decision:
-         19 July 2005
+  19 July 2005
 
 Legislative References:
 
@@ -59,19 +52,18 @@ Other References:
 Keywords
 
 Goods and services tax
-          GST long term lease
-          GST property & construction
-          GST transitional issues
-
+ GST long term lease
+ GST property & construction
+ GST transitional issues
 
 Siebel/TDMS Reference Number:
-         4708139
+  4708139
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         5 August 2005
+  5 August 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

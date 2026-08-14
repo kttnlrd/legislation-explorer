@@ -1,0 +1,54 @@
+---
+country: "Malaysia"
+country_slug: "malaysia"
+treaty_schedule: 16
+article: 10
+title: "Article 10 — Dividends"
+---
+# Article 10 — Dividends
+Malaysian Agreement
+AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+As amended by the Malaysian Protocol (No 1), the Malaysian Exchange of Letters,
+the Malaysian Protocol (No 2) and the Malaysian Protocol (No 3)
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+Dividends
+1.
+Dividends paid by a company which is a resident of one of the Contracting States for the purposes of its tax, being dividends to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
+2.
+However, those dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident, and according to the law of that State, but:
+(a)
+in Australia:
+(i)
+no tax shall be charged on dividends to the extent to which those dividends have been 
+"
+franked
+"
+ in accordance with Australia
+'
+s law relating to tax, if the person beneficially entitled to those dividends is a company (other than a partnership) which holds directly at least 10 per cent of the voting power in the company paying the dividends; and
+(ii)
+tax charged shall not exceed 15 per cent of the gross amount of the dividends to the extent to which those dividends are not within subparagraph (a)(i); and
+(b)
+in Malaysia:
+no tax shall be charged on dividends paid by a company which is resident in Malaysia for the purposes of Malaysian tax being dividends to which a resident of Australia is beneficially entitled, in addition to the tax chargeable in respect of the income or profits of the company paying the dividends.
+3.
+For the purposes of paragraph 2, if the relevant law in either Contracting State at the date of signature of this Protocol is varied otherwise than in minor respects so as not to affect its general character, the Contracting States shall consult each other with a view to agreeing to any amendment of that paragraph that may be appropriate.
+4.
+The term 
+"
+dividends
+"
+ as used in this Article means income from shares, as well as other amounts which are subjected to the same taxation treatment as income from shares by the law of the State of which the company making the distribution is a resident for the purposes of its tax.
+5.
+The provisions of paragraphs 1 and 2 shall not apply if the person beneficially entitled to the dividends, being a resident of one of the Contracting States, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated in that other State, and the holding in respect of which the dividends are paid is effectively connected with that permanent establishment. In that case the provisions of Article 7 shall apply.
+6.
+Where a company which is a resident of one of the Contracting States derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company 
+-
+ being dividends to which a person who is not a resident of the other Contracting State is beneficially entitled 
+-
+ except insofar as the holding in respect of which, such dividends are paid is effectively connected with a permanent establishment situated in that other State, even if the dividends paid consist wholly or partly of profits or income arising in such other State. This paragraph shall not apply in relation to dividends paid by any company which is a resident of Australia for the purposes of Australian tax and which is also a resident of Malaysia for the purposes of Malaysian tax.
+7.
+Dividends paid by a company which is a resident of Malaysia shall include dividends paid by a company which is a resident of Singapore which for the purpose of those dividends has declared itself to be a resident of Malaysia, but shall not include dividends paid by a company which is a resident of Malaysia which for the purpose of those dividends has declared itself to be a resident of Singapore.

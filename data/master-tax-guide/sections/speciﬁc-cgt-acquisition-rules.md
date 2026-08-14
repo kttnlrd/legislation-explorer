@@ -41,11 +41,11 @@ There are many other CGT acquisition rules which apply in speciﬁc situations a
 
 - the taxpayer obtains a replacement-asset roll-over for replacing a CGT asset (¶12-150)
 
-- a surviving joint tenant acquires a deceased joint tenant’s interest in a CGT asset (¶12-580)
+- a surviving joint tenant acquires a deceased joint tenant's interest in a CGT asset (¶12-580)
 
 - a company or unit trust issues bonus equities to a taxpayer and no amount is included in the
 
-  taxpayer’s assessable income (¶12-600)
+  taxpayer's assessable income (¶12-600)
 
 - a taxpayer owns shares in a company or units in a unit trust and exercises rights to acquire new
 

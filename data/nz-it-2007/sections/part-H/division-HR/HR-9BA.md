@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) after the formation of the debt funding special purpose vehicle and before the return of income referred to in paragraph (b), notifying the Commissioner that the originator chooses to have the liabilities and obligations referred to in section HR 9 that the special purpose vehicle would have in the absence of the election; or
 
-- (b) returning income derived and expenditure incurred by the special purpose vehicle in the originator’s first return of income filed after—
+- (b) returning income derived and expenditure incurred by the special purpose vehicle in the originator's first return of income filed after—
 
   - (i) the first transfer of assets by the originator to the special purpose vehicle:
 

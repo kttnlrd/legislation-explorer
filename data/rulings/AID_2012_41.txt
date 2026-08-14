@@ -3,18 +3,14 @@ ATO ID 2012/41
 ==================================================
 
 Income Tax
-        Consolidation: pre-joining history and TOFA balancing adjustment
-        FOI status: may be released
-
-
+ Consolidation: pre-joining history and TOFA balancing adjustment
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are amounts included in an entity's assessable income, or allowed as a deduction, under Division 230 of the Income Tax Assessment Act 1997 (ITAA 1997) from a financial arrangement asset prior to the entity joining a consolidated group taken into account in working out the balancing adjustment under section 230-445 of the ITAA 1997 on cessation of the financial arrangement?
@@ -29,8 +25,6 @@ The financial arrangement ceases on 30 June 2013. The financial benefits receive
 Reasons for Decision
 All legislative references are to the ITAA 1997.
 Division 230 is about the tax treatment of gains and losses from financial arrangements. Where an entity joins a consolidated group with an asset to which Division 230 will apply, subsection 701-55(5A) has application. Under subsection 701-55(5A), Division 230 applies to the financial arrangement asset as if the asset were acquired at the joining time for a payment equal to either:
-
-
 
 (a)the asset's tax cost setting amount, or
 (b)the asset's 'Division 230 starting value' at the joining time (where certain elective tax-timing methods will apply to the asset).
@@ -54,14 +48,13 @@ $110,000 financial benefits received (Step 1(a))
 
 less
 
-
 $105,000 financial benefits provided (deemed payment under subsection 701-55(5A)) (Step 2(a))
 
 Date of decision:
-         8 May 2012
+  8 May 2012
 
 Year of income:
-           Year ending 30 June 2012
+  Year ending 30 June 2012
 
 Legislative References:
 
@@ -74,31 +67,30 @@ Related ATO Interpretative Decisions
 Keywords
 
 Acquisition of assets
-          Balancing adjustment
-          Cessation
-          Consolidated group
-          Consolidation - assets
-          Consolidation - joining
-          Division 230 taxation of financial arrangements
-          Financial arrangement
-          Inherited history rules
-          Joining entity
-          Joining time
-          Method statement
-          Single entity rule
-          Subsidiary member of a consolidated group
-          Tax cost is set
-          Tax cost setting amount
-
+ Balancing adjustment
+ Cessation
+ Consolidated group
+ Consolidation - assets
+ Consolidation - joining
+ Division 230 taxation of financial arrangements
+ Financial arrangement
+ Inherited history rules
+ Joining entity
+ Joining time
+ Method statement
+ Single entity rule
+ Subsidiary member of a consolidated group
+ Tax cost is set
+ Tax cost setting amount
 
 Siebel/TDMS Reference Number:
-         1-3SAV4CE
+  1-3SAV4CE
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         11 May 2012
+  11 May 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

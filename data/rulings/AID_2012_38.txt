@@ -3,18 +3,14 @@ ATO ID 2012/38
 ==================================================
 
 Income Tax
-        Capital Allowances: depreciating assets - grant of indefeasible right of use
-        FOI status: may be released/not to be released
-
-
+ Capital Allowances: depreciating assets - grant of indefeasible right of use
+ FOI status: may be released/not to be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 When the taxpayer enters into an Indefeasible Right of Use (IRU) agreement giving indefeasible rights to use a telecommunications cable system held by the taxpayer, permitting traffic on that system up to the permitted right to use and so allocating that amount of capacity of the telecommunications cable system, are the depreciating assets that are held by the taxpayer and that form the cable system split into two or more separate assets for the purposes of Division 40 of the Income Tax Assessment Act 1997 (ITAA 1997) by application of section 40-115 of the ITAA 1997?
@@ -33,16 +29,15 @@ For most tangible assets, a physical separation or division of the original asse
 Although the IRU over the cable system granted by the taxpayer amounts in a sense to an economic ownership interest over some of the transmission capacity of the cable system, and the IRU is itself recognised under paragraph 40-30(2)(e) of the ITAA 1997 as a depreciating asset, it does not represent a split or division of the physical depreciating assets the taxpayer holds and whose available transmission capacity has been allocated to some extent by the grant of the IRU. The taxpayer holds each separate segment of the cable system that is operated to carry information from one place to the next in the system. These segments of the cable system have not been physically separated or divided into two or more separate assets. They are depreciating assets that decline in value over the time they are employed in the cable system, and not differently according to the period of any IRU or IRUs. The taxpayer's holding interest in the depreciating assets making up the cable system is its holding of segments of the cable system which are operated to carry information from one place to the next in the system. The taxpayer continues to use these segments of the cable system it holds by obtaining fees from the grantee in respect of use, administration and maintenance of the cable system. The taxpayer is also able to enter into further IRU agreements to provide access to capacity of the cable system.
 Consequently when the taxpayer enters into an IRU agreement for rights of access to some of the capacity of the cable system, the depreciating assets held by the taxpayer and that form the cable system are not split into two or more separate assets and therefore section 40-115 of the ITAA 1997 has no application in this circumstance.
 Date of decision:
-         1 May 2012
+  1 May 2012
 
 Year of income:
-           year ended 30 June 2011
+  year ended 30 June 2011
 
 Legislative References:
 
 Income Tax Assessment Act 1997   Division 40   section 40-30   Paragraph 40-30(2)(e)   section 40-40   section 40-115   subsection 40-115(3)
 Patent Act 1990   subsection 14(2)
-
 
 Related ATO Interpretative Decisions
 
@@ -52,18 +47,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 Depreciating assets
-          Indefeasible right to use
-          Uniform capital allowances system
-
+ Indefeasible right to use
+ Uniform capital allowances system
 
 Siebel/TDMS Reference Number:
-         1-3SZMQNW
+  1-3SZMQNW
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         4 May 2012
+  4 May 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

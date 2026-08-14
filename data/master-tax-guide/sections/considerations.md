@@ -37,7 +37,7 @@ Trading stock discounts.
 
 Where trading stock is purchased under an arrangement that provides for a prompt payment discount (eg 5% discount on invoice price if paid within 30 days), a deduction is allowable to the purchaser at the time of purchase for the full invoice price. If the discount is subsequently accepted, then the diﬀerence between the invoice price and the discounted price is assessable at the time of payment. The High Court decision in Ballarat Brewing (1951) 9 ATD 254; (1951) 82 CLR 364 suggests that only the discounted price should be recognised at the time of purchase where receipt of the discount is virtually certain. For the deductibility of trading stock generally, see ¶16-040. Where the discount is taken up at the time of purchase, such as cash discounts, trade discounts and quantity or bulk discounts only the discounted price is deductible (TR 96/20).
 
-This treatment of trading stock discount still applies where the discount is dealt with at the buyer’s instruction (TD 96/45).
+This treatment of trading stock discount still applies where the discount is dealt with at the buyer's instruction (TD 96/45).
 
 Solicitor disbursements.
 

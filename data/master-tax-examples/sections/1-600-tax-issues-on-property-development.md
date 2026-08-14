@@ -9,7 +9,7 @@ paragraph: "None"
 
 Worked example: Tax issues on property development Issue In July 2019, the Icarus Unit Trust was formed with a view to developing property in Sydney. There were 4 unitholders, Matthew Boynton, Mark Scott, Luke Treadwell and Harry Clarke. These 4 unitholders had a long track record of property development across New South Wales, for which they formed a different entity (usually a unit trust) for each development project.
 
-The Icarus Unit Trust acquired a block of land in a desirable location in Sydney’s inner eastern suburbs, which was previously a disused industrial space. Their plan was to demolish the existing industrial building, clean up the site and then develop and build a new apartment block, which they expected to contain 20 luxury apartments. They would then sell these apartments at a profit.
+The Icarus Unit Trust acquired a block of land in a desirable location in Sydney's inner eastern suburbs, which was previously a disused industrial space. Their plan was to demolish the existing industrial building, clean up the site and then develop and build a new apartment block, which they expected to contain 20 luxury apartments. They would then sell these apartments at a profit.
 
 Unfortunately, they were hit by the COVID-19 economic slowdown and increased interest rates, which caused a pause in their development activity in March 2020. They did not resume development until they could obtain appropriate finance, which was in December 2023. The property was not rented out in the interim but was left vacant. By May 2025, the first apartments were available to be marketed, although it is expected that the whole project might take a further 2 years to complete.
 
@@ -33,7 +33,7 @@ Where the sale is on capital account, there is potential for the 50% general CGT
 
 The 4 unitholders believe that they qualify for capital treatment on the basis that they have held the land for an extended period (6 years, and possibly 8 years before the completion of the project). However, this is not determinative; the fact that the property was acquired for development and resale and that intention has never changed, despite the delays, undermines any argument that the sale will be on capital account.
 
-As noted above, this treatment will not apply where the land is acquired for resale at a profit or for development. The typical scenarios where capital treatment as a “mere realisation” applies include:
+As noted above, this treatment will not apply where the land is acquired for resale at a profit or for development. The typical scenarios where capital treatment as a "mere realisation" applies include:
 
 - a taxpayer selling a main residence or long-term investment property
 
@@ -99,7 +99,7 @@ The upside of using market value is that the various CGT concessions (eg pre-CGT
 
 In this case, the property was acquired with a view to profit and therefore has always been trading stock. No capital gain will arise under CGT event K4. This means that all of the profits from the development will be on revenue account.
 
-Section 70-5 ITAA97 sets out the rules for trading stock and is intended to “… produce an overall result that … properly reflects … activities with … trading stock during the income year …”. It provides that:
+Section 70-5 ITAA97 sets out the rules for trading stock and is intended to "… produce an overall result that … properly reflects … activities with … trading stock during the income year …". It provides that:
 
 - acquisition and ancillary costs (eg development costs) of purchased trading stock are an allowable
 
@@ -139,7 +139,7 @@ Certain development costs are included in the cost of trading stock (meaning tha
 
 - infrastructure costs (eg costs to establish services on the land and build roads).
 
-With an isolated profit-making undertaking, the land is more than “merely” realised, but it is not held as an item of trading stock.
+With an isolated profit-making undertaking, the land is more than "merely" realised, but it is not held as an item of trading stock.
 
 Paragraph 6 of Taxation Ruling TR 92/3 says that the resulting profits would be assessed as ordinary income under s 6-5 if:
 

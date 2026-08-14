@@ -14,13 +14,13 @@ compilation_date: 2026-06-06
 
 **(1)**  This section applies when a person has some or all of the following at the end of an income year:
 
-- (a) trading stock valued under subpart EB (Valuation of trading stock (including dealer’s livestock)):
+- (a) trading stock valued under subpart EB (Valuation of trading stock (including dealer's livestock)):
 
 - (b) livestock valued under subpart EC (Valuation of livestock):
 
 - (c) excepted financial arrangements that are revenue account property valued under subpart ED (Valuation of excepted financial arrangements):
 
-- (d) a share supplier’s share-lending right, if the original shares that relate to the right are excepted financial arrangements described in paragraph (c).
+- (d) a share supplier's share-lending right, if the original shares that relate to the right are excepted financial arrangements described in paragraph (c).
 
 **Income: closing value of trading stock**
 

@@ -9,9 +9,9 @@ paragraph: "¶12-552"
 
 A limited CGT roll-over is available for assets transferred between ﬁxed trusts that have the same beneﬁciaries with the same entitlements and no material discretionary elements (Subdiv 126-G). The roll- over is available where all of the following are satisﬁed:
 
-- the trustee of a ﬁxed trust either creates a trust (“receiving trust”) over a CGT asset or transfers a
+- the trustee of a ﬁxed trust either creates a trust ("receiving trust") over a CGT asset or transfers a
 
-CGT asset to an existing trust (also “receiving trust”) at a particular time (“transfer time”)
+CGT asset to an existing trust (also "receiving trust") at a particular time ("transfer time")
 
 - immediately before the transfer time, the receiving trust has no CGT assets other than (i) small
 
@@ -27,7 +27,7 @@ CGT asset to an existing trust (also “receiving trust”) at a particular time
 
   – both trusts have the same beneﬁciaries with eﬀectively the same interests
 
-– the market value of each beneﬁciary’s interest in both trusts is the same as the beneﬁciary’s interest in the transferor trust before the transfer time – there is no power to materially alter a beneﬁciary’s interest in either trust – there is no power to issue or redeem membership interests in either trust at a discount of more than 10% of their market value
+– the market value of each beneﬁciary's interest in both trusts is the same as the beneﬁciary's interest in the transferor trust before the transfer time – there is no power to materially alter a beneﬁciary's interest in either trust – there is no power to issue or redeem membership interests in either trust at a discount of more than 10% of their market value
 
 - the trustees of both trusts choose to apply roll-over relief (ss 126-225; 126-230).
 

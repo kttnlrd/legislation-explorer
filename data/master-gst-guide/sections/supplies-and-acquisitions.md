@@ -15,7 +15,7 @@ The basic rule is that supplies made by an amalgamating company to the amalgamat
 
 - the amalgamated company is not registered or required to be registered.
 
-In this situation, which would be relatively rare, the GST would be 10% of the GST-exclusive market value of the supply (s 90-10). This would be accounted for in the amalgamating company’s concluding tax period.
+In this situation, which would be relatively rare, the GST would be 10% of the GST-exclusive market value of the supply (s 90-10). This would be accounted for in the amalgamating company's concluding tax period.
 
 Acquisitions Acquisitions made by the amalgamated company in the course of the amalgamation will not be creditable, ie they will not give rise to input tax credits, if the amalgamated company is registered or required to be registered (s 90-15). If the amalgamated company is not registered or required to be registered, the acquisition would not be creditable in any event (s 11-5).
 

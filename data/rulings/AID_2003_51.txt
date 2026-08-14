@@ -3,23 +3,18 @@ ATO ID 2003/51
 ==================================================
 
 Goods and Services Tax
-        GST and provision of a loan by a pawnbroker
-        FOI status: may be released
+ GST and provision of a loan by a pawnbroker
+ FOI status: may be released
 
-
-This ATO ID is withdrawn from the database as it is superseded by Goods and Services Tax Ruling  GSTR 2002/2.
+This ATO ID is withdrawn from the database as it is superseded by Goods and Services Tax Ruling GSTR 2002/2.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a pawnbroker, making an input taxed financial supply under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it provides a loan to a customer that is secured by pawned goods and charges the customer a redemption fee for the recovery of those goods?
@@ -32,19 +27,13 @@ Reasons For Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. Subsection 40-5(2) of the GST Act defines a financial supply as having the meaning given by the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 Subregulation 40-5.09(1) of the GST Regulations, provides that a supply is a financial supply if it is the provision, acquisition or disposal of an interest mentioned in subregulation (3) or (4) and:
 
-
-
 a) the provision, acquisition or disposal is:
-
-
 
 •for consideration,
 •in the course or furtherance of an enterprise,and
 •connected with Australia.
 
 b) the supplier is:
-
-
 
 •registered or required to be registered for GST, and
 •a financial supply provider in relation to the supply of the interest.
@@ -54,8 +43,6 @@ Paragraph 40-5.09(1)(a) of the GST Regulations requires that the supply is for c
 When a customer borrows money from the entity on terms that include payment of interest, it creates an interest in a debt that includes the payment of interest. To reclaim the pawned goods the customer must pay a redemption fee. This fee is made up of the principal and an interest component. The interest in a debt and interest component of the redemption fee are the consideration for the supply of the loan. The entity is a pawnbroker and as such, the provision of a loan that is secured by pawned goods is in the course or furtherance of its enterprise. In addition, the transaction is connected with Australia. Therefore, the requirements of paragraph 40-5.09(1)(a) of the GST Regulations are met.
 Paragraph 40-5.09(1)(b) of the GST Regulations requires that the entity is registered for GST and is a financial supply provider in relation to the supply of the interest. The entity is registered for GST. Subregulation 40-5.06(1) of the GST Regulations provides that an entity, in relation to the supply of an interest that was:
 
-
-
 •immediately before the supply, the property of the entity; or
 •created by the entity in making the supply;
 
@@ -63,7 +50,7 @@ is the financial supply provider of the interest.
 The entity, in providing a loan to its customer, has created the interest in the credit arrangement. Therefore, it is the financial supply provider in relation to the supply of the loan and the requirements in paragraph 40-5.09(1)(b) of the GST Regulations are satisfied.
 As all the requirements of subregulation 40-5.09(1) of the GST Regulations are satisfied, the supply of the loan is a financial supply. Therefore, the entity is making an input taxed financial supply under subsection 40-5(1) of the GST Act when it provides a loan to a customer that is secured by pawned goods and charges the customer a fee for the recovery of those goods.
 Date of decision:
-         24 April 2002
+  24 April 2002
 
 Legislative References:
 
@@ -77,30 +64,26 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          Input taxed supplies
-          GST financial supplies
-          GST debt, loan and credit
-
+ Input taxed supplies
+ GST financial supplies
+ GST debt, loan and credit
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 24 April 2002

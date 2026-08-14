@@ -3,23 +3,18 @@ ATO ID 2001/215
 ==================================================
 
 Goods and Services Tax
-        GST and Bailment arrangement
-        FOI status: may be released
-
+ GST and Bailment arrangement
+ FOI status: may be released
 
 This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a taxi company, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it charges a taxi driver for the use of its mini-bus?
@@ -31,8 +26,6 @@ The entity is registered for goods and services tax (GST) and is supplying the r
 Reasons For Decision
 Under section 9-5 of the GST Act an entity makes a taxable supply if:
 
-
-
 (a) it makes a supply for consideration;
 (b) it makes the supply in the course or furtherance of an enterprise that the entity is carrying on;
 (c) the supply is connected with Australia; and
@@ -42,7 +35,6 @@ However, a supply is not a taxable supply to the extent that it is GST-free or i
 In this case, requirements (b), (c) and (d) have been satisfied. Therefore, the issue is whether the entity is making a 'supply' for 'consideration' under paragraph 9-5(a) of the GST Act.
 The existence of a 'supply' itself is an essential element in determining whether a transaction is a taxable supply under section 9-5 of the GST Act. A 'supply' is defined in paragraph 9-10(2)(e) of the GST Act to include a creation, grant, transfer, assignment or surrender of any right. In this case, entity is granting the right to use the mini-bus to the taxi driver. Therefore, the supply is the grant of a right to use the mini-bus.
 
-
 History:
 
 Paragraph amended on 31 August 2004. The reference to paragraph 9-10(2)(d) of the GST Act has been replaced with a reference to paragraph 9-10(2)(e) of the GST Act.
@@ -50,7 +42,7 @@ Paragraph amended on 31 August 2004. The reference to paragraph 9-10(2)(d) of th
 'Consideration' is defined in paragraph 9-15(1)(a) of the GST Act to include any payment, or any act or forbearance, in connection with a supply of anything. In this case, at the end of each shift, the taxi driver pays the entity a percentage of the shift takings for the use of the mini-bus. This bailment arrangement amounts to consideration for the purposes of paragraph 9-15(1)(a) of the GST Act. It does not matter whether the amount the taxi driver pays the entity for the use of the mini-bus is in the form of lease payments or as a percentage of the shift takings. Therefore, the entity is making a 'supply' for 'consideration' under paragraph 9-5(a) of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act, nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it charges a taxi driver for the use of its mini-bus.
 Date of decision:
-         3 May 2001
+  3 May 2001
 
 Legislative References:
 
@@ -59,35 +51,31 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   paragra
 Keywords
 
 Goods & services tax
-          GST supplies and acquisitions
-          Connected with Australia
-          GST consideration
-          GST supply
-          Taxable supply
-
+ GST supplies and acquisitions
+ Connected with Australia
+ GST consideration
+ GST supply
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CW202229
+  CW202229
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         16 August 2001
+  16 August 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  3 May 2001

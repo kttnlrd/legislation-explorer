@@ -17,11 +17,11 @@ Taxation treatment of lessee The lessee is entitled to: (i) a deduction equal to
 
 Lease extension, renewal, termination or expiry If the lease is extended, renewed or ends, and the sum of the lease payments and any termination amounts paid to the lessor exceeds the sum of the notional principal and interest, the excess is assessable to the lessor and deductible to the lessee. If the sum of the lease payments and any termination amounts paid to the lessor is less than the sum of the notional principal and interest, the diﬀerence is deductible to the lessor and assessable to the lessee (ss 242-65; 242-70).
 
-When the lease expires or is terminated, and is then extended or renewed, the original loan is treated as having been repaid and the lessor is treated as having made a new loan in the amount of the car’s market value at the time of the extension or renewal (s 242-80). The notional loan is treated as a termination amount and the lessee continues to be the owner of the car.
+When the lease expires or is terminated, and is then extended or renewed, the original loan is treated as having been repaid and the lessor is treated as having made a new loan in the amount of the car's market value at the time of the extension or renewal (s 242-80). The notional loan is treated as a termination amount and the lessee continues to be the owner of the car.
 
 If at the end of the lease (renewal or extension) the lessee acquires the car from the lessor, the transfer and termination payments to acquire the car are ignored for tax purposes and the lessee continues to own the car and therefore the amount paid by the lessee is not assessable to the lessor or deductible to the lessee (s 242-85).
 
-If the lessee’s right to use the car ends, and no amount is paid to the lessor by the lessee to acquire the car, the lessee is treated as having sold the car back to the lessor for its market value at the end of the lease (s 242-90).
+If the lessee's right to use the car ends, and no amount is paid to the lessor by the lessee to acquire the car, the lessee is treated as having sold the car back to the lessor for its market value at the end of the lease (s 242-90).
 
 *Refs: s 242-20), s 242-25), s 242-35), s 242-45, s 242-65, s 242-80), s
 242-85), s

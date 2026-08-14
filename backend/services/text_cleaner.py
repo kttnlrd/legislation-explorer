@@ -57,6 +57,121 @@ _AUSTLII_SHORT_LINE_RE = re.compile(
 )
 
 
+# ── Centralised scraped-markup stripper for CDN-0095 ──────────────────────
+
+_SCRAPED_PATTERNS: list[re.Pattern] = [
+    # HTML tags (any) — but preserve <a id="..."> paragraph anchors and </a> (CDN-0094)
+    re.compile(r'<(?!a\s+id="[^"]*"\s*>|/a\s*>)[^>]+>'),
+    # Google Analytics / JS injection artifacts
+    re.compile(r'//\s*\(function\s*\([^)]*\).*?;?\s*$', re.DOTALL),
+    re.compile(r'bazadebezolkohpepadr="[^"]*"'),
+    # jQuery / inline JS
+    re.compile(r'\$\([^)]+\)\.\w+\([^)]*\);?'),
+    re.compile(r'window\.dataLayer.*?;'),
+    re.compile(r'gtag\([^)]*\);?'),
+    # ATO navigation chrome (inline single-line)
+    re.compile(
+        r'(?i)Legal\s+database\s*(/\s*(Contents|Download|Email|Print|Back\s+to\s+browse)\s*)+',
+    ),
+    # ATO navigation chrome (multi-line block)
+    re.compile(r'(?i)^(Legal\s+database\s*\n){1,2}'
+               r'(Contents\s*\n)?'
+               r'(Download\s*\n)?'
+               r'(Email\s*\n)?'
+               r'(Print\s*\n)?'
+               r'(Back\s+to\s+browse\s*\n)?'
+               r'(\d+\s+related\s+documents\s*\n)?',
+               re.MULTILINE),
+    # Generated on timestamps
+    re.compile(r'(?i)Generated\s+on:\s*\d+\s+\w+\s+\d{4},\s*\d+:\d+:\d+\s*(AM|PM)'),
+    # Page X of Y markers
+    re.compile(r'(?i)Page\s+\d+\s+of\s+\d+'),
+    # You are here navigation
+    re.compile(r'(?i)You\s+are\s+here\s*:?\s*[^\n]*'),
+    # Back to top
+    re.compile(r'(?i)^Back\s+to\s+top\s*$', re.MULTILINE),
+    # Standalone ato.gov.au
+    re.compile(r'(?i)^ato\.gov\.au\s*$', re.MULTILINE),
+    # Copyright / disclaimer blocks
+    re.compile(r'(?i)^©\s*AUSTRALIAN\s+TAXATION\s+OFFICE.*$', re.MULTILINE),
+    re.compile(r'(?i)^You\s+are\s+free\s+to\s+copy.*$', re.MULTILINE),
+    re.compile(r'(?i)^Copyright\s+(notice|policy).*$', re.MULTILINE),
+    re.compile(r'(?i)^Disclaimers?\s*$', re.MULTILINE),
+    re.compile(r'(?i)^Privacy\s+Policy\s*$', re.MULTILINE),
+    re.compile(r'(?i)^Feedback\s*$', re.MULTILINE),
+    re.compile(r'(?i)^AustLII\s*:?\s*$', re.MULTILINE),
+    re.compile(r'(?i)^Home\s*$', re.MULTILINE),
+    re.compile(r'(?i)^Databases\s*$', re.MULTILINE),
+    re.compile(r'(?i)^WorldLII\s*$', re.MULTILINE),
+    re.compile(r'(?i)^Search\s*$', re.MULTILINE),
+    # Standalone citation number lines that are just TOC noise
+    re.compile(r'^[A-Z]{2,6}\s+\d{4}/\d+\s*$', re.MULTILINE),
+    # Copyright symbol + trailing stuff
+    re.compile(r'&#169;.*$', re.MULTILINE),
+    # Inline [Noteup] [Download] [Help] brackets
+    re.compile(r'\s*\[(Noteup|Download|Help|Home|Databases|WorldLII|Search|Feedback|Database\s+Search|Name\s+Search|Recent\s+Decisions|Index)\]\s*'),
+]
+
+
+def strip_scraped_markup(text: str) -> str:
+    """Strip HTML tags, navigation chrome, scraped artifacts from any text output.
+
+    Removes all known scraped-markup artifacts including:
+    - HTML tags (<header>, <div>, <a id=\"...\">, etc.)
+    - Google Analytics / JS injection artifacts
+    - ATO navigation chrome (Legal database / Contents / Download / …)
+    - Generated on: timestamps
+    - Page X of Y markers
+    - You are here: / Back to top / ato.gov.au
+    - Copyright / disclaimer / privacy policy lines
+    - [Noteup] [Download] [Help] inline brackets
+    - Trailing metadata sections (Keywords, Legislative References, etc.)
+    """
+    if not text:
+        return ""
+
+    result = text
+
+    # Apply all pattern substitutions
+    for pattern in _SCRAPED_PATTERNS:
+        result = pattern.sub('', result)
+
+    # Also strip trailing metadata (Keywords, Legislative References, etc.)
+    result = _strip_trailing_metadata(result)
+
+    # Collapse blank lines and trim
+    result = re.sub(r'\n{3,}', '\n\n', result)
+    result = re.sub(r'^\s*\n', '\n', result, flags=re.MULTILINE)
+
+    return result.strip()
+
+
+# ── Strip trailing metadata blocks ──────────────────────────────────────
+
+_STRIP_TRAILING_AFTER = re.compile(
+    r'\n\s*('
+    r'Keywords|Related\s+Public\s+Rulings?|Other\s+References?|'
+    r'Business\s+Line|Date\s+of\s+publication|ISSN|'
+    r'history|Archived|Original\s+statement|'
+    r'Legislative\s+References'
+    r')\s*[:：]?\s*\n',
+    re.IGNORECASE
+)
+
+
+def _strip_trailing_metadata(body: str) -> str:
+    """Remove trailing metadata sections from ATO ID and ruling bodies.
+    
+    Truncates from the first metadata section header to end of string.
+    This handles cases where the headers were already stripped by line-level
+    filtering — the remaining keyword values and metadata text still get removed.
+    """
+    m = _STRIP_TRAILING_AFTER.search(body)
+    if m:
+        body = body[:m.start()]
+    return body.strip()
+
+
 def clean_case_paragraph(content: str) -> str:
     """Strip AustLII navigation noise and footnote-only lines from a paragraph.
 
@@ -143,6 +258,10 @@ _ATO_NAV_LINES: list[re.Pattern] = [
     re.compile(r'^\*{3,}\s*$'),
     re.compile(r'^-{3,}\s*$'),
     re.compile(r'^={3,}\s*$'),
+    # ATO ID boilerplate
+    re.compile(r'^ATO\s+Interpretative\s+Decision\s*$', re.IGNORECASE),
+    re.compile(r'^ATO\s+ID\s+\d{4}/\d+\s*$', re.IGNORECASE),
+    re.compile(r'^FOI\s+status\s*:', re.IGNORECASE),
 ]
 
 _DESCRIPTIVE_TITLE_RE = re.compile(
@@ -254,6 +373,7 @@ def clean_ruling_body(body: str) -> dict:
 
     result = result.strip()
     result = _strip_citation_block(result)
+    result = _strip_trailing_metadata(result)
     return {'body': result, 'descriptive_title': descriptive_title}
 
 
@@ -301,6 +421,19 @@ def _strip_citation_block(body: str) -> str:
                 start_idx = i + 1
                 continue
             # Stop at the first meaningful line
+            break
+        body = '\n'.join(lines[start_idx:])
+    # ATO ID format: "ATO ID 2001/1" or "ATO Interpretative Decision"
+    elif re.match(r'^ATO\s+(ID\s+\d{4}/\d+|Interpretative\s+Decision)', first_line, re.IGNORECASE):
+        start_idx = first_content_idx + 1
+        for i in range(first_content_idx + 1, min(first_content_idx + 10, len(lines))):
+            s = lines[i].strip()
+            if not s:
+                continue
+            # Skip the second header line, === separator, and FOI status
+            if re.match(r'^(ATO\s+(ID\s+\d{4}/\d+|Interpretative\s+Decision)|===+$|FOI\s+status)', s, re.IGNORECASE):
+                start_idx = i + 1
+                continue
             break
         body = '\n'.join(lines[start_idx:])
 

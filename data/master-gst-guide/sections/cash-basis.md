@@ -13,7 +13,7 @@ The cash basis is never compulsory, however taxpayers may elect to remit GST on 
 
 - where the taxpayer satisfies the relevant turnover test, namely:
 
-– the taxpayer is a “small business entity” for the income year in which they choose to account for GST on a cash basis. Broadly, this requires that the taxpayer's income, together with that of affiliates and connected bodies, is less than $10m (¶1-250), or – the taxpayer is not carrying on a business, and their GST turnover (¶3-030) is less than $2m. The requirement that there not be a “business” — as distinct from an enterprise (¶3-020) — means that this category would normally be restricted to taxpayers such as certain charities, trustees of superannuation funds or government bodies.
+– the taxpayer is a "small business entity" for the income year in which they choose to account for GST on a cash basis. Broadly, this requires that the taxpayer's income, together with that of affiliates and connected bodies, is less than $10m (¶1-250), or – the taxpayer is not carrying on a business, and their GST turnover (¶3-030) is less than $2m. The requirement that there not be a "business" — as distinct from an enterprise (¶3-020) — means that this category would normally be restricted to taxpayers such as certain charities, trustees of superannuation funds or government bodies.
 
 - the taxpayer is an endorsed charity, a gift-deductible entity or a government school (¶15-000; s
 
@@ -87,7 +87,7 @@ If permission is granted, the cash basis will take effect from the date notified
 
 Ceasing to account on the cash basis A taxpayer may, at their own option, notify the ATO that they are ceasing to use the cash basis for future tax periods.
 
-If a taxpayer ceases to satisfy the eligibility requirements, they must stop using the cash basis for future tax periods, unless they have the ATO’s permission (ss 29-50; 157-10).
+If a taxpayer ceases to satisfy the eligibility requirements, they must stop using the cash basis for future tax periods, unless they have the ATO's permission (ss 29-50; 157-10).
 
 *Refs: s
 157-5), s 29-40), s 29-45), s 29-50*

@@ -3,21 +3,16 @@ ATO ID 2008/41
 ==================================================
 
 Goods and Services Tax
-        GST and the transfer between funeral providers of rights and obligations under a prepaid funeral agreement: the original funeral provider accounts on a basis other than cash (non-cash basis)
-        FOI status: may be released
-
+ GST and the transfer between funeral providers of rights and obligations under a prepaid funeral agreement: the original funeral provider accounts on a basis other than cash (non-cash basis)
+ FOI status: may be released
 
 This ATO ID was amended to clarrify the ATO position and/or update legislative references.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are there any goods and services tax (GST) implications when rights and obligations under a prepaid funeral agreement are transferred from the original funeral provider, who accounts on a non-cash basis, to the new funeral provider who accounts on a non-cash basis?
@@ -28,8 +23,6 @@ A funeral provider and a client enter into a prepaid funeral agreement (the agre
 The funeral provider is registered for GST and accounts on a non-cash basis.
 Under the agreement, the funeral provider is required to supply a funeral service to the client at some future point in time.
 The consideration for the right to receive the future funeral service is paid as follows:
-
-
 
 •the client pays an amount (equivalent to the agreed price less the GST) into an independent investment fund; and
 •the client also pays the remaining amount of the price (that represents the GST) directly to the funeral provider.
@@ -52,11 +45,10 @@ The new funeral provider agrees to undertake all the rights and obligations unde
 When the transfer occurs, the new funeral provider does not make a taxable supply of a right to receive a funeral service to the client. That taxable supply was made by the original funeral provider, who has already remitted the GST for the supply. Further, when the new funeral provider supplies the funeral service, the supply will not be taxable as it is not made for consideration.
 As a result, when the rights and obligations under the agreement are transferred there are no GST implications.
 
-
 Note: if on transfer of the original agreement, the client enters into a separate agreement with a new funeral provider for an upgrade of the funeral service (for example, a more expensive casket), the new funeral provider will be liable for GST on the value of the upgrade.
 
 Date of decision:
-         28 February 2008
+  28 February 2008
 
 Legislative References:
 
@@ -65,18 +57,17 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Divisio
 Keywords
 
 Goods and services Tax
-          GST supply
-          Funeral industry
-
+ GST supply
+ Funeral industry
 
 Siebel/TDMS Reference Number:
-         5710537
+  5710537
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         14 March 2008
+  14 March 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

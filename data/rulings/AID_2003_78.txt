@@ -3,18 +3,14 @@ ATO ID 2003/78
 ==================================================
 
 Income Tax
-        Group company net capital loss transfers: valid transfer agreement - single document with multiple agreements
-        FOI status: may be released
-
-
+ Group company net capital loss transfers: valid transfer agreement - single document with multiple agreements
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a loss company validly transfer various amounts of net capital losses to two or more gain companies in a single document (the Document) for the purposes of section 170-150 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -25,8 +21,6 @@ The public officer of a loss company and the public officer of several gain comp
 Rather than preparing a separate written agreement for each loss transfer, the public officer for the loss company and the public officer for the several gain companies incorporated the relevant written agreements for the purposes of section 170-150 of the ITAA 1997 in the Document.
 The Document was signed by the public officers of the loss company and the several gain companies. It stated that various amounts of net capital loss are transferred from the loss company to the gain companies in accordance with the attached schedule.
 The schedule specified for each loss transfer:
-
-
 
 (i)the income year of the transfer,
 (ii)the amount of net capital loss being transferred,
@@ -39,23 +33,20 @@ Reasons for Decision
 Subsection 170-150(1) of the ITAA 1997 requires that a transfer of a net capital loss must be made by a written agreement.
 The ITAA 1997 does not prescribe that the written agreement must be in any particular form. However, subsection 170-150(2) of the ITAA 1997 states that the agreement must:
 
-
-
 (a)'specify the income year of the transfer (which may be earlier than the income year in which the agreement is made),
 (b)specify the amount of the *net capital loss being transferred,
 (c)be signed by the public officer of each company, and
 (d).......................................
-
 
 * Denotes a term defined in section 995-1 of the ITAA 1997
 
 As the Document satisfies the above requirements of section 170-150 of the ITAA 1997, the fact that it incorporates several written agreements does not of itself invalidate those agreements.
 Subdivision 170-B (sections 170-101 to 170-170) of the ITAA 1997 applies to assessments for the year ended 30 June 1999 and later income years.
 Date of decision:
-         23 January 2003
+  23 January 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -73,21 +64,20 @@ Related ATO Interpretative Decisions
 Keywords
 
 Group company loss transfers
-          Company losses
-          Carry forward losses
-          Losses
-          Current year losses
-          Losses CoE
-
+ Company losses
+ Carry forward losses
+ Losses
+ Current year losses
+ Losses CoE
 
 Siebel/TDMS Reference Number:
-         CRS80365
+  CRS80365
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -7,13 +7,13 @@ division_title: ""
 subdivision: ""
 subdivision_title: ""
 section: "14ZZW"
-section_title: "Confidentiality of whistleblower’s identity"
+section_title: "Confidentiality of whistleblower's identity"
 compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
 
-# 14ZZW  Confidentiality of whistleblower’s identity
+# 14ZZW  Confidentiality of whistleblower's identity
 
 
 <a id="s14ZZW-1"></a>
@@ -32,7 +32,7 @@ source_pdf: "vol01.pdf"
 > > **(ii)**  information that is likely to lead to the identification of the discloser; and
 
 > <a id="s14ZZW-1-c"></a>
-> **(c)**  the confidential information is information that the first person obtained directly or indirectly because of the qualifying disclosure; and Authorised Version C2026C00170 registered 28/04/2026
+> **(c)**  the confidential information is information that the first person obtained directly or indirectly because of the qualifying disclosure; and
 
 > <a id="s14ZZW-1-d"></a>
 > **(d)**  the disclosure referred to in paragraph (b) is not authorised under subsection (2). Penalty: Imprisonment for 6 months or 60 penalty units, or both.

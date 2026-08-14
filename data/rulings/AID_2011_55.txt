@@ -3,18 +3,14 @@ ATO ID 2011/55
 ==================================================
 
 Income Tax
-        Exempt income: 'maintenance payments' from a deceased estate
-        FOI status: may be released
-
-
+ Exempt income: 'maintenance payments' from a deceased estate
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a periodic distribution made from a discretionary trust to an eligible recipient exempt from income tax under item 5.1 of the table in section 51-30 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -30,40 +26,30 @@ Reasons for Decision
 Section 51-50 of the ITAA 1997 sets out the conditions under which a periodic payment, in the nature of maintenance, is exempt from income tax under item 5.1 of the table in section 51-30 of the ITAA 1997.
 Section 51-50 of the ITAA 1997 provides as follows:
 
-
-
 (1)This section sets out the conditions on which a periodic payment, in the nature of maintenance, that:
-
-
 
 (a)is made by an individual (the maintenance payer); or
 (b)is attributable to a payment made by an individual (also the maintenance payer);
 is exempt from income tax under item 5.1 of the table in section 51-30.
 (2)The maintenance payment is exempt from income tax only if it is made:
 
-
-
 (a)to an individual who is or has been the maintenance payer's *spouse; or
 (b)to or for the benefit of an individual who is or has been:
-
-
 
 (i)a *child of the maintenance payer; or
 (ii)a child who is or has been a child of an individual who is or has been a *spouse of the maintenance payer.
 
 (3)The maintenance payment is not exempt if, in order to make it or a payment to which it is attributable, the maintenance payer:
 
-
-
 (a)divested any income-producing assets; or
 (b)diverted *ordinary income or *statutory income upon which the maintenance payer would otherwise have been liable to income tax.
 
 The positive tests for exemption are therefore contained in paragraphs 51-50(1)(a) and 51-50(1)(b) of the ITAA 1997.
 That is, paragraph 51-50(1)(a) of the ITAA 1997 exempts a payment
-          made by
-           an individual (the 'maintenance payer') and paragraph 51-50(1)(b) of the ITAA 1997 exempts a payment that
-          is attributable to
-           a payment made by the maintenance payer. [Emphasis added].
+ made by
+ an individual (the 'maintenance payer') and paragraph 51-50(1)(b) of the ITAA 1997 exempts a payment that
+ is attributable to
+ a payment made by the maintenance payer. [Emphasis added].
 A distribution from the trustee of a discretionary trust is clearly not a payment made 'by' an individual being a maintenance payer (paragraph 20 of Taxation Ruling TR 98/4). Rather, the entity from whom the payment is made is the trustee of the trust. The requirements of paragraph 51-50(1)(a) of the ITAA 1997 are therefore not satisfied on the present facts.
 The construction of paragraph 51-50(1)(b) of the ITAA 1997 contemplates that the periodic payment be attributable to an antecedent payment where that payment is made by an individual, being the maintenance payer.
 For a payment to be 'attributable to' an antecedent payment made by an individual, being the maintenance payer, there must of course be some payment made by the maintenance payer that can be characterised in the relevant sense.
@@ -77,16 +63,15 @@ Similarly, the death of a maintenance payer has also been held to divest the dec
 Therefore, in circumstances where a maintenance payer dies, the exception in paragraph 51-50(3)(a) of the ITAA 1997 would also apply to deny an exemption had either of paragraphs 51-50(1)(a) or 51-50(1)(b) of the ITAA 1997 been satisfied.
 In the present case the taxpayer receives distributions from a discretionary trust. For the reasons explained above, the amount of the distribution is not exempt from income tax under item 5.1 of the table in section 51-30 of the ITAA 1997.
 
-
 Note 1: section 39 of the Administration and Probate Act 1929 (ACT); section 44 of the Probate and Administration Act 1898 (NSW); section 52 of the Administration and Probate Act 1969 (NT); section 45 of the Succession Act 1981 (QLD); section 46 of the Administration and Probate Act 1919 (SA); section 4 of the Administration and Probate Act 1935 (TAS); section 13 of the Administration and Probate Act 1958 (VIC) and section 8 of the Administration Act 1903 (WA).
 
 Note 2: section 38A of the Administration and Probate Act 1929 (ACT); section 49 of the Administration and Probate Act 1969 (NT); section 61 of the Probate and Administration Act 1898 (NSW) and section 9 of the Public Trustee Act 1941 (WA).
 
 Date of decision:
-         5 July 2011
+  5 July 2011
 
 Year of income:
-           Year ended 30 June 2006 Year ended 30 June 2007
+  Year ended 30 June 2006 Year ended 30 June 2007
 
 Legislative References:
 
@@ -109,7 +94,6 @@ Connolly v. Commissioner of Taxation (WA)   (1931) 34 WALR 8   (1931) 1 AT
 
 White v. Elmdene Estates   [1960] 1 QB 1   [1959] 2 All ER 605   [1959] 3 WLR 185
 
-
 Related Public Rulings (including Determinations)
 
 Taxation Ruling TR 98/4
@@ -118,25 +102,23 @@ Other References:
 
 The Macquarie Dictionary, 2005, 4th edn, The Macquarie Library Pty Ltd, New South Wales
 
-
 Keywords
 
 Exempt income
-          Income
-          Maintenance payments
-
+ Income
+ Maintenance payments
 
 Siebel/TDMS Reference Number:
-         1-37PEDEG; 1-BJHOB32
+  1-37PEDEG; 1-BJHOB32
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         15 July 2011
+  15 July 2011
 
 Date reviewed:
-         6 June 2017
+  6 June 2017
 
 ISSN:
-          1445-2782
+ 1445-2782

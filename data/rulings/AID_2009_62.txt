@@ -3,26 +3,21 @@ ATO ID 2009/62
 ==================================================
 
 Income Tax
-        Converting excess franking offsets of a Pooled Development Fund to a tax loss
-        FOI status: may be released
-
+ Converting excess franking offsets of a Pooled Development Fund to a tax loss
+ FOI status: may be released
 
 This ATO ID has been amended to include references to paragraph 23(2)(ba) of the Income Tax Rates Act 1986 which has effect from 25 June 2008.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of step 2 of the Method Statement in subsection 36-55(2) of the Income Tax Assessment Act 1997 (ITAA 1997), does the reference to 'corporate tax rate' mean 30% for the relevant income years?
 Decision
-Yes.  30% is the applicable tax rate for the purposes of step 2 of the Method Statement in subsection 36-55(2) of the ITAA 1997 for the relevant income years in accordance with the definition of 'corporate tax rate' in subsection 995-1(1) of the ITAA 1997.
+Yes. 30% is the applicable tax rate for the purposes of step 2 of the Method Statement in subsection 36-55(2) of the ITAA 1997 for the relevant income years in accordance with the definition of 'corporate tax rate' in subsection 995-1(1) of the ITAA 1997.
 Facts
 The taxpayer is a company that is a Pooled Development Fund (PDF) as defined in subsection 995-1(1) of the ITAA 1997.
 For the 2006-07 income year, the taxpayer reported a tax loss in its tax return, which was carried forward to subsequent income years.
@@ -57,8 +52,6 @@ Subsection 23(2) of the Income Tax Rates Act 1986 (ITRA 1986) provides:
 
 The rate of tax in respect of the taxable income of a company not being:
 
-
-
 (a)a life insurance company; or
 (b)an RSA provider; or
 (ba)an FHSA provider; or
@@ -85,8 +78,6 @@ Example 1
 A PDF has other assessable income of $100 and allowable deductions of $200 for an income year. In addition, the PDF receives a fully franked dividend of $70 (with a $30 franking credit attached). All of the assessable income of the PDF is SME assessable income and therefore the PDF's taxable income is subject to tax at 15%.
 If the dividend income was quarantined, the tax treatment of the PDF would be as follows:
 
-
-
 Assessable income:
 
 Dividend
@@ -98,7 +89,6 @@ Other assessable income
 Gross-up
 
 30
-
 
 Less Deductions:
 200
@@ -123,8 +113,6 @@ Excess franking offset:
 
 Section 36-55 of the ITAA 1997 aims to preserve the above tax loss of $100. Due to the concessional tax rate of the PDF, excess franking offsets result for the PDF. It is not the object of section 36-55 to preserve the above excess franking offset of $15. There is no mechanism in the Tax Acts specifically designed to allow the PDF to recoup this excess franking offset of $15. Accordingly the PDF should be entitled to deduct a tax loss of $100 in the subsequent year of income.
 Rather than quarantining the dividend income, this $100 tax loss is preserved by section 36-55 of the ITAA 1997 in the following way:
-
-
 
 Assessable income:
 
@@ -157,10 +145,10 @@ Tax loss to be carried forward
 
 Therefore, 'corporate tax rate' means 30% for the relevant income year for the purposes of step 2 of the Method Statement in subsection 36-55(2) of the ITAA 1997, regardless of the tax rate applicable to the taxpayer's taxable income.
 Date of decision:
-         30 June 2009
+  30 June 2009
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -171,21 +159,19 @@ Other References:
 
  Supplementary Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 5) 2003
 
-
 Keywords
 
 Franking credits
-          Tax loss
-
+ Tax loss
 
 Siebel/TDMS Reference Number:
-         6126979
+  6126979
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         10 July 2009
+  10 July 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

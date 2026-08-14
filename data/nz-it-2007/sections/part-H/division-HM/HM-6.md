@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 - (a) the investor has no tax liability on income arising from proceeds for which the PIE has a tax liability, unless—
 
-  - (i) the PIE has applied a rate that is lower than the investor’s prescribed investor rate:
+  - (i) the PIE has applied a rate that is lower than the investor's prescribed investor rate:
 
   - (ii) the investor has been treated by a foreign investment PIE as a notified foreign investor for a period in which they do not in fact meet the requirements of section HM 55D for notified foreign investor status:
 

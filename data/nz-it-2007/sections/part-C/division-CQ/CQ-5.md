@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
   - (xiva) the exemption for an interest in a foreign superannuation scheme that is not a FIF superannuation interest in section EX 42B (Interests in foreign superannuation scheme other than FIF superannuation interests):
 
-  - (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exception):
+  - (xiv) the annuity or pension exemption in section EX 43 (Non-resident's pension or annuity exception):
 
   - (xivb) the exemption for share users in returning share transfers in section EX 43B (Exemption for share users in returning share transfers):
 
@@ -98,7 +98,7 @@ compilation_date: 2026-06-06
 
 **(5)**  Subsection (1)﻿(e) applies to the trustee of a trust for an income year if—
 
-- (a) the trust is of the estate of a deceased person and the income year begins on or before the day that is 5 years after the person’s death:
+- (a) the trust is of the estate of a deceased person and the income year begins on or before the day that is 5 years after the person's death:
 
 - (b) the settlor of the trust—
 

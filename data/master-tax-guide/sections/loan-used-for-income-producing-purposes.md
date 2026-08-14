@@ -15,7 +15,7 @@ Jointly held assets Where a beneﬁt is provided jointly to an employee and an a
 
 Thus, under the otherwise deductible rule, the taxable value of the loan fringe beneﬁt is reduced to nil so that the employer had no FBT liability arising from the loan fringe beneﬁt provided to both the employee and his spouse.
 
-However, the otherwise deductible rule was amended to ensure that the full value of a beneﬁt that has been provided to both an employee and an associate in relation to a jointly held asset or thing (eg a low interest loan related to a rental property) is subject to FBT. This is designed to overcome the decision in the National Australia Bank case and reinstate the principle that deductions arising from jointly held assets should be allocated between owners according to their legal interests. The amount of the notional deduction is reduced to reﬂect the employee’s percentage of interest in the income producing asset or thing purchased or paid for using all or part of the loan to which the loan fringe beneﬁt relates.
+However, the otherwise deductible rule was amended to ensure that the full value of a beneﬁt that has been provided to both an employee and an associate in relation to a jointly held asset or thing (eg a low interest loan related to a rental property) is subject to FBT. This is designed to overcome the decision in the National Australia Bank case and reinstate the principle that deductions arising from jointly held assets should be allocated between owners according to their legal interests. The amount of the notional deduction is reduced to reﬂect the employee's percentage of interest in the income producing asset or thing purchased or paid for using all or part of the loan to which the loan fringe beneﬁt relates.
 
 Loans other than car loans For a loan other than one used to purchase a car, the starting point for determining the amount of the reduction is to determine the amount of the notional income tax deduction that the employee would have been allowed for the notional interest at the statutory rate during the year. This depends on the deduction provisions of the income tax legislation (¶16-740).
 
@@ -39,7 +39,7 @@ The taxable value of the loan fringe beneﬁt for the year is nil.
 
 Car loans Where a loan to an employee is used to purchase a car, the deductible percentage of interest depends on the percentage of business use of the car during the year.
 
-The business use percentage of a car needs to be established under the general substantiation rules relating to car beneﬁts (¶35-240), including the keeping of odometer and logbook records (ss 65D to 65F). The employee’s loan beneﬁt declaration substantiating the reduction must show that the relevant records have been kept and those records must be given to the employer. Where these rules have been complied with for the relevant year, the value of the loan fringe beneﬁt will be reduced by the appropriate business use percentage.
+The business use percentage of a car needs to be established under the general substantiation rules relating to car beneﬁts (¶35-240), including the keeping of odometer and logbook records (ss 65D to 65F). The employee's loan beneﬁt declaration substantiating the reduction must show that the relevant records have been kept and those records must be given to the employer. Where these rules have been complied with for the relevant year, the value of the loan fringe beneﬁt will be reduced by the appropriate business use percentage.
 
 Alternatively, where odometer records and any necessary logbook records have not been kept, but the employee is able to declare in the loan beneﬁt declaration:
 
@@ -67,6 +67,6 @@ Where a car loan is involved, the declaration must include additional informatio
 
 - the loan consists of a provision of credit to the employee for the purchase of goods or services
 
-  used exclusively in the employee’s employment.
+  used exclusively in the employee's employment.
 
 ## A loan beneﬁt declaration is not required where:

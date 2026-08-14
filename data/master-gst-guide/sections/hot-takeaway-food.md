@@ -15,11 +15,11 @@ Food will not be taxed as a hot takeaway item simply because it happens to be ho
 
 If the takeaway food is supplied cold, it may nevertheless be taxable if it falls within one of the other categories of taxable food, for example, confectionery (¶13-160), sandwiches or prepared meals (¶13-140), bakery products (¶13-150) or soft drinks (¶13-180). Items such as milk and bread bought from a takeaway remain GST-free.
 
-The GST legislation does not define what “hot” food is. The official view is that it means food that is heated to above room temperature or above the surrounding air temperature, and that “you do not need to check the precise temperature”. Presumably, you can tell by looking, smelling, poking or feeling it.
+The GST legislation does not define what "hot" food is. The official view is that it means food that is heated to above room temperature or above the surrounding air temperature, and that "you do not need to check the precise temperature". Presumably, you can tell by looking, smelling, poking or feeling it.
 
 If hot and cold food is supplied as a single item for consumption (eg a kebab), it is treated as hot.
 
-Combined eat-in and takeaway facilities Some places provide food both for takeaway and to eat on the premises. In this situation, the supplier must be able to identify which is which. In GST Determination GSTD 2000/5, the ATO says that this can be done where the supplier’s business operations involve:
+Combined eat-in and takeaway facilities Some places provide food both for takeaway and to eat on the premises. In this situation, the supplier must be able to identify which is which. In GST Determination GSTD 2000/5, the ATO says that this can be done where the supplier's business operations involve:
 
 - separate ordering and serving processes for eat-in and takeaway
 

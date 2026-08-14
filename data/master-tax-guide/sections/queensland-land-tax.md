@@ -7,7 +7,7 @@ paragraph: "¶38-030"
 ---
 # Queensland land tax ¶38-030
 
-The principal legislation governing the imposition and assessment of liability to land tax in Queensland is the Land Tax Act 2010 (“the principal Act”), supported by the Land Tax Regulation 2021. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are governed by the Taxation Administration Act 2001.
+The principal legislation governing the imposition and assessment of liability to land tax in Queensland is the Land Tax Act 2010 ("the principal Act"), supported by the Land Tax Regulation 2021. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are governed by the Taxation Administration Act 2001.
 
 Land tax for 2024–25 is levied on the taxable value of all freehold land owned in Queensland as at midnight on 30 June 2024. The taxable value is the lesser of the ratable land value and an averaged value of the land, usually calculated over a 3-year period. Diﬀerent rates and thresholds apply depending on whether the owner is an individual, a company or trust (including a superannuation fund), or an absentee individual or foreign owner. See below for tables of applicable rates.
 
@@ -49,11 +49,11 @@ Absentee individuals, foreign companies and foreign trusts owning land in Queens
 
 As the absentee threshold is lower that the land tax threshold, an absentee surcharge may arise where there is no land tax liability.
 
-Generally, individuals who are not Australian citizens or permanent residents and who were absent on the taxing date will be “absentees” if they were out of the country for more than 6 months in total during the land tax year.
+Generally, individuals who are not Australian citizens or permanent residents and who were absent on the taxing date will be "absentees" if they were out of the country for more than 6 months in total during the land tax year.
 
-A company is subject to foreign owner surcharge if it is incorporated outside Australia or if a foreign person or persons have a controlling interest in the company. A “controlling interest” in a company means control of more than 50% of voting power or potential voting power at a general meeting, or holding more than 50% of share capital.
+A company is subject to foreign owner surcharge if it is incorporated outside Australia or if a foreign person or persons have a controlling interest in the company. A "controlling interest" in a company means control of more than 50% of voting power or potential voting power at a general meeting, or holding more than 50% of share capital.
 
-A trust is subject to foreign owner surcharge if at least 50% of the trust interests in the trust are foreign interests. “Foreign interests” are interests held by individuals who are not Australian citizens or permanent residents, or by foreign companies, trustees of foreign trusts, or persons who are related to foreign interest holders. Special rules apply to discretionary trusts and superannuation funds.
+A trust is subject to foreign owner surcharge if at least 50% of the trust interests in the trust are foreign interests. "Foreign interests" are interests held by individuals who are not Australian citizens or permanent residents, or by foreign companies, trustees of foreign trusts, or persons who are related to foreign interest holders. Special rules apply to discretionary trusts and superannuation funds.
 
 Foreign entities that make a signiﬁcant contribution to the Queensland economy and community can apply for ex gratia relief from the surcharge. Land held by a foreign owner merely as a landlord or property investor does not qualify for this relief.
 

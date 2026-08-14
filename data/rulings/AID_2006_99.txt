@@ -3,28 +3,21 @@ ATO ID 2006/99
 ==================================================
 
 Income tax
-        Consolidation: tax consequences on exit - restructure of membership interests supporting components of life insurance business
-        FOI status: may be released
-
+ Consolidation: tax consequences on exit - restructure of membership interests supporting components of life insurance business
+ FOI status: may be released
 
 The terms 'virtual PST' and 'virtual PST life insurance policy' were repealed by First Home Saver Accounts (Consequential Amendment) Act 2008, effective 26 June 2008. They were replaced by the terms 'complying superannuation/FSHA asset pool' and 'complying superannuation/FSHA life insurance policy' respectively. From this date, references to 'virtual PST life insurance policy liabilities' in the following document can also be replaced with the term 'complying superannuation/FSHA liabilities'.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 The head company of a consolidated group is treated as a life insurance company. The consolidated group includes two subsidiary members that are unit trusts. The first unit trust is held under the virtual PST of the head company. The underlying assets of this unit trust are segregated to support virtual PST life insurance policy liabilities. The underlying assets of the second unit trust are not segregated and form part of the ordinary assets of the head company. That unit trust can be said to be held under the 'ordinary component' of the head company.
 Each trust will issue an additional unit to the other component of the head company's life insurance business resulting in each trust ceasing to be a subsidiary member of the consolidated group.
 When the unit trusts cease to be subsidiary members of the consolidated group and the units are recognised for income tax purposes:
-
-
 
 (a)Will there be any other taxable gains or losses in relation to an actual or notional disposal of the units, either under Division 320 of the Income Tax Assessment Act 1997 (ITAA 1997), CGT Event A1 or on application of any other CGT event?
 (b)Will there be a gain that is assessable under ordinary concepts in relation to an actual or notional disposal of the units?
@@ -38,15 +31,11 @@ Facts
 Head Co is the head company of a consolidated group. Under section 713-505 of the ITAA 1997, Head Co is treated as a life insurance company for the purposes of applying the income tax law.
 Investment policies are issued to trustees of superannuation funds and to ordinary (non-superannuation) policyholders. The assets supporting these policies are held through two subsidiary member unit trusts:
 
-
-
 •Trust V is held under the virtual PST. In accordance with Division 320 of the ITAA 1997, the underlying assets of this unit trust are segregated to support virtual PST life insurance policy liabilities, and
 •Trust O is held under the 'ordinary component'. The underlying assets of this unit trust are not segregated and form part of the ordinary assets of Head Co's life insurance business.
 
 Each trust has substantial assets and nil or insignificant liabilities.
 It is proposed to issue an additional unit from each unit trust to other 'components' of Head Co for market value, namely:
-
-
 
 •One unit will be issued by Trust V to the 'ordinary component' of Head Co;
 •One unit will be issued by Trust O to the virtual PST of Head Co.
@@ -56,8 +45,6 @@ Reasons for Decision
 When an entity ceases to be a subsidiary member of a consolidated group, the tax cost of each membership interest that the head company holds in that entity is set under subsection 701-15(3) of the ITAA 1997 (referred to as its 'tax cost setting amount'). Under subsection 701-55(5) that tax cost setting amount is taken to be the cost base of each membership interest for the purpose of applying Part 3-1 or 3-3 of the ITAA 1997 (in the determination of capital gains and losses).
 In addition, under subsection 701-55(6) of the ITAA 1997, the tax cost setting amount is taken to be the cost of each membership interest for the purpose of any provisions not specifically mentioned in section 701-55. This would therefore include for the purpose of applying section 6-5 of the ITAA 1997.
 Section 6-1 of the ITAA 1997 provides that assessable income consists of:
-
-
 
 •ordinary income, being income according to ordinary concepts (see section 6-5); and
 •statutory income, being amounts included in assessable income by a specific provision of the Act (see section 6-10).
@@ -75,20 +62,14 @@ Section 320-15 of the ITAA 1997 specifically includes additional amounts in the 
 The issue of the additional unit to the virtual PST arguably represents a 'transfer of assets other than money' to the virtual PST.
 Paragraph 320-15(1)(e) of the ITAA 1997 includes in the assessable income of a life insurance company, the amount included in assessable income under section 320-200 where an asset (other than money) is transferred:
 
-
-
 •from or to a virtual PST under subsection 320-180(1) or (3);
 •to a virtual PST under section 320-185; or
 •from a virtual PST under subsection 320-195(2) or (3).
 
 Division 320 of the ITAA 1997 allows for the following transfers of assets to a virtual PST:
 
-
-
 •transfers made as a consequence of a valuation required by section 320-175 (see subsection 320-180(3)), and
 •transfers made otherwise than as a result of a valuation under section 320-175, including:
-
-
 
 o a transfer made as a consequence of a determination at a time other than a valuation time prescribed by section 320-175 (see subsection 320-185(1));
 o a transfer of an asset in exchange for an amount of money equal to the transfer value of the asset at the time of transfer (see subsection 320-185(2)), and
@@ -97,8 +78,6 @@ o a transfer in respect of life insurance premiums paid to the company for the p
 The issue of the additional unit to the virtual PST of the head company will not produce any assessable income for the head company under paragraph 320-15(1)(e) of the ITAA 1997. Such a transfer would not be made as a consequence of there being a deficiency in assets as described in subsection 320-180(3).
 Additionally, the transfer would not satisfy the circumstances described in section 320-185 of the ITAA 1997.
 Subsection 320-87(3) of the ITAA 1997 specifically allows a deduction for assets (other than money) that are transferred by a life insurance company:
-
-
 
 •from a virtual PST under subsection 320-180(1) or 320-195(2) or (3); or
 •to a virtual PST under subsection 320-180(3) or section 320-185.
@@ -114,8 +93,6 @@ The issue of the additional unit to the virtual PST and to the 'ordinary compone
 CGT event L5
 
 Under subsection 104-520(1) of the ITAA 1997, CGT event L5 happens if:
-
-
 
 (a)an entity ceases to be a *subsidiary member of a *consolidated group or a *MEC group; and
 (b)in working out the group's *allocable cost amount for the entity, the amount remaining after applying step 4 of the table in section 711-20 is negative.
@@ -135,18 +112,16 @@ Subsection 8-1(1) of the ITAA 1997 provides that:
 
 You can deduct from your assessable income any loss or outgoing to the extent that:
 
-
-
 (a)it is incurred in gaining or producing your assessable income; or
 (b)it is necessarily incurred in carrying on a *business for the purpose of gaining or producing your assessable income.
 
 The exit of the unit trusts from the consolidated group will not produce any income assessable under subsection 6-5(1) of the ITAA 1997, nor will it produce any loss or outgoing deductible under subsection 8-1(1) in respect of an actual or notional disposal of the units in the trusts.
 Although the unit trusts will cease to be subsidiary members of the consolidated group, the units in the trusts will continue to be beneficially owned by the head company.
 Date of decision:
-         30 March 2006
+  30 March 2006
 
 Year of income:
-           Year ended 30 June 2006 Year ended 30 June 2007
+  Year ended 30 June 2006 Year ended 30 June 2007
 
 Legislative References:
 
@@ -156,28 +131,26 @@ Other References:
 
  Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No. 2) 2002
 
-
 Keywords
 
 CGT event A1-disposal of a CGT asset
-          CGT events L1-L8 - consolidated and MEC groups
-          Consolidation
-          Consolidation - tax liabilities
-          Life insurance company
-          Virtual pooled superannuation trusts
-          Complying superannuation/FSHA asset pool
-          Complying superannuation/FSHA liabilities
-          Complying superannuation/FSHA life insurance policy
-
+ CGT events L1-L8 - consolidated and MEC groups
+ Consolidation
+ Consolidation - tax liabilities
+ Life insurance company
+ Virtual pooled superannuation trusts
+ Complying superannuation/FSHA asset pool
+ Complying superannuation/FSHA liabilities
+ Complying superannuation/FSHA life insurance policy
 
 Siebel/TDMS Reference Number:
-         4965171
+  4965171
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         7 April 2006
+  7 April 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 - (a) the total amount made available by company A to group companies must not exceed the amount referred to in subsection (1); and
 
-- (b) the resulting reduction in company B’s net income in the tax year must not exceed the total amount that company B derives in the tax year of attributed CFC income from CFCs, or FIF income calculated under the attributable FIF income method from FIFs, resident in the country or territory (the jurisdiction) in which the loss arose, reduced by the total of the following:
+- (b) the resulting reduction in company B's net income in the tax year must not exceed the total amount that company B derives in the tax year of attributed CFC income from CFCs, or FIF income calculated under the attributable FIF income method from FIFs, resident in the country or territory (the jurisdiction) in which the loss arose, reduced by the total of the following:
 
   - (i) the total amount of the attributed CFC income or FIF income taken into account in calculating a deduction of company B under section DN 4 or DN 8 (which relate to ring-fencing caps on deductions):
 

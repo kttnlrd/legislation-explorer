@@ -1,0 +1,36 @@
+---
+country: "Israel"
+country_slug: "israel"
+treaty_schedule: 62
+article: 1
+title: "Article 1 — Personal Scope"
+---
+# Article 1 — Personal Scope
+Israeli Convention
+CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE STATE OF ISRAEL FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
+CHAPTER I 
+-
+ SCOPE OF THE CONVENTION
+Persons Covered
+1.
+This Convention shall apply to persons who are residents of one or both of the Contracting States.
+2.
+For the purposes of this Convention, income derived by or through an entity or arrangement that is treated as wholly or partly fiscally transparent under the tax law of either Contracting State shall be considered to be income of a resident of a Contracting State but only to the extent that the income is treated, for purposes of taxation by that State, as the income of a resident of that State.
+3.
+This Convention shall not affect the taxation, by a Contracting State, of its residents except with respect to the benefits granted under paragraph 3 of Article 
+9
+ (Associated Enterprises) and Articles 
+18
+ (Government Service), 
+19
+ (Professors, Teachers and Researchers), 
+20
+ (Students), 
+23
+ (Relief from Double Taxation), 
+24
+ (Non-discrimination), 
+25
+ (Mutual Agreement Procedure) and 
+27
+ (Members of Diplomatic Missions and Consular Posts).

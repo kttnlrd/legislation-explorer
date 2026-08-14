@@ -27,7 +27,7 @@ There are three general SAMs available — see below — and some separate optio
 
   sells both fresh fruit (GST-free) and soft drinks (taxable)
 
-- your “SAM turnover” does not exceed $2m. SAM turnover means either the total GST-exclusive
+- your "SAM turnover" does not exceed $2m. SAM turnover means either the total GST-exclusive
 
   amount of trading sales for the last financial year or the projected GST-exclusive amount of the trading
 
@@ -83,7 +83,7 @@ sales of takeaway or dine-in food
 
 - resellers* that do not sell fuel or alcohol                                                             30%        30%
 
-* A store is a “converter” if it converts GST-free inputs to taxable outputs, for example, where it converts GST-free bread and fillings into taxable sandwiches, or GST-free potatoes and fish into taxable fish and chips. A “reseller” is a retailer that purchases stock GST-free and resells it in an unchanged form. ** For an additional optional method for calculating input tax credits, applicable to convenience stores that have adequate point-of-sale equipment, see ¶13-216.
+* A store is a "converter" if it converts GST-free inputs to taxable outputs, for example, where it converts GST-free bread and fillings into taxable sandwiches, or GST-free potatoes and fish into taxable fish and chips. A "reseller" is a retailer that purchases stock GST-free and resells it in an unchanged form. ** For an additional optional method for calculating input tax credits, applicable to convenience stores that have adequate point-of-sale equipment, see ¶13-216.
 
 If you use the business norms method, you must use it to calculate your GST-free purchases as well as your sales.
 
@@ -101,11 +101,11 @@ The basis of the stock purchases method is that if you only resell, the percenta
 
 Example Resellers Shop decides to use the first variant of the stock purchases method.
 
-Over the tax period, Resellers’ total sales are $200,000 and its total stock purchases are $160,000, including $120,000 GST-free purchases.
+Over the tax period, Resellers' total sales are $200,000 and its total stock purchases are $160,000, including $120,000 GST-free purchases.
 
 The percentage of GST-free purchases is therefore 120,000/160,000 = 75%. Resellers can apply this percentage to total sales to estimate the GST-free sales, ie 75% of $200,000 = $150,000. (2) The second variant of the stock purchases method reduces your administrative workload even further.
 
-Under this “two sample periods” variant, you calculate your percentage of GST-free purchases during a four- week sample period, and use that percentage to estimate your total GST-free sales and purchases. To take account of seasonal fluctuations, the estimate must be made twice a year. One sample is taken during the period 1 June to 31 July, and will be used for your July to December tax periods. The second is taken during the period 1 December to 31 January and is used for your January to June tax periods.
+Under this "two sample periods" variant, you calculate your percentage of GST-free purchases during a four- week sample period, and use that percentage to estimate your total GST-free sales and purchases. To take account of seasonal fluctuations, the estimate must be made twice a year. One sample is taken during the period 1 June to 31 July, and will be used for your July to December tax periods. The second is taken during the period 1 December to 31 January and is used for your January to June tax periods.
 
 Each sample must be for a four-week continuous period. This means that you must keep a worksheet, updated daily, of:
 

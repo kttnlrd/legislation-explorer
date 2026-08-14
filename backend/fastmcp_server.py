@@ -16,7 +16,7 @@ from typing import Literal
 from mcp.server.fastmcp import FastMCP
 from mcp.server.transport_security import TransportSecuritySettings
 
-from backend.config import DATA_DIR
+from backend.config import DATA_DIR, TREATIES_DIR
 from backend.mcp_token_manager import token_manager
 from backend.routes.api import VERSION, CHANGELOG
 from backend.services.data_loader import (
@@ -29,6 +29,7 @@ from backend.services.data_loader import (
     get_commentary_for_section,
     get_smartlinks_for_item,
 )
+from backend.services.text_cleaner import strip_scraped_markup
 from backend.services.search_service import search_sections as fts_search, search_rulings, search_conn
 
 from backend.routes.regulatory_guides import (
@@ -606,6 +607,8 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
 
     body_clean = _re.sub(r'\n---\s*\*Last updated:.*?\*', '', body, flags=_re.DOTALL)
     body_clean = _re.sub(r'\n---\s*$', '', body_clean)
+    # Strip HTML anchor tags (e.g. <a id="s8-1-1"></a>) — internal nav markers, not reading content
+    body_clean = _re.sub(r'<a\s+id="[^"]*"\s*></a>\s*', '', body_clean)
     body_stripped = body_clean.strip()
     truncated = bool(body_stripped) and not _re.search(r'[.\\)"\'!?]\s*$', body_stripped)
 
@@ -614,6 +617,9 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     body_truncated_flag = bool(body_stripped) and len(body_stripped) > max_body_length
     if body_truncated_flag:
         body_out = body_stripped[:max_body_length]
+
+    # Strip scraped markup artifacts from body (CDN-0095)
+    body_out = strip_scraped_markup(body_out)
 
     # Special handling for large definition/interpretation sections
     # These contain hundreds of defined terms — truncate and guide user to get_definition
@@ -781,6 +787,96 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
             pruned["parts"].append(part)
         return json.dumps(pruned, indent=2)
     return json.dumps(tree, indent=2)
+
+
+@mcp.tool()
+async def list_treaty_articles(country: str) -> str:
+    """List all articles for a given Double Tax Agreement country.
+
+    Parameters:
+    - country: Country slug (e.g. 'argentina', 'usa', 'china')
+
+    Returns a list of articles with their number, title, and identifier.
+    Use ``get_treaty_article`` to retrieve the full text of an article.
+    """
+    tree_path = TREATIES_DIR / country / "tree.json"
+    if not tree_path.exists():
+        available = sorted(
+            d.name for d in TREATIES_DIR.iterdir()
+            if d.is_dir() and (d / "tree.json").exists()
+        )
+        return json.dumps({
+            "error": f"Treaty for '{country}' not found",
+            "available_countries": available,
+        }, indent=2)
+    try:
+        tree = json.loads(tree_path.read_text(encoding="utf-8"))
+        return json.dumps({
+            "treaty": tree.get("treaty", country),
+            "country_slug": country,
+            "schedule": tree.get("schedule"),
+            "total_articles": tree.get("total", len(tree.get("articles", []))),
+            "articles": [
+                {"article": a["article"], "title": a["title"]}
+                for a in tree.get("articles", [])
+            ],
+        }, indent=2)
+    except Exception as e:
+        return json.dumps({"error": f"Failed to read treaty: {e}"}, indent=2)
+
+
+@mcp.tool()
+async def get_treaty_article(country: str, article: int,
+                             max_body_length: int = 50000) -> str:
+    """Retrieve the full text of a specific treaty article.
+
+    Parameters:
+    - country: Country slug (e.g. 'argentina', 'usa', 'china')
+    - article: Article number (e.g. 1, 2, 24)
+    - max_body_length: Maximum characters for the article body (default 50000)
+
+    Returns the article title, full text, and metadata.
+    """
+    tree_path = TREATIES_DIR / country / "tree.json"
+    if not tree_path.exists():
+        return json.dumps({
+            "error": f"Treaty for '{country}' not found"
+        }, indent=2)
+    try:
+        tree = json.loads(tree_path.read_text(encoding="utf-8"))
+    except Exception as e:
+        return json.dumps({"error": f"Failed to read treaty: {e}"}, indent=2)
+
+    # Find the article entry
+    art_info = None
+    for a in tree.get("articles", []):
+        if a["article"] == article:
+            art_info = a
+            break
+    if not art_info:
+        available = [a["article"] for a in tree.get("articles", [])]
+        return json.dumps({
+            "error": f"Article {article} not found for {country}",
+            "available_articles": available,
+        }, indent=2)
+
+    art_path = TREATIES_DIR / country / art_info["file"]
+    if not art_path.exists():
+        return json.dumps({
+            "error": f"Article file not found for article {article}"
+        }, indent=2)
+
+    content = art_path.read_text(encoding="utf-8", errors="replace")
+    if len(content) > max_body_length:
+        content = content[:max_body_length] + f"\n\n... [truncated at {max_body_length} characters]"
+
+    return json.dumps({
+        "treaty": tree.get("treaty", country),
+        "country_slug": country,
+        "article": article,
+        "title": art_info["title"],
+        "content": content,
+    }, indent=2, ensure_ascii=False)
 
 
 @mcp.tool()
@@ -1373,6 +1469,8 @@ async def get_ruling(citation: str) -> str:
                 leg_clean = _clean_legislation_referenced(leg_raw)
                 # For ATO IDs, return full structured data with full_text
                 if summary.get("type") == "ATO Interpretative Decision" or summary.get("full_text"):
+                    body_raw = summary.get("body", "")
+                    full_text_raw = summary.get("full_text", "")
                     return json.dumps({
                         "citation": summary.get("citation", ref),
                         "title": summary.get("title", ""),
@@ -1381,10 +1479,10 @@ async def get_ruling(citation: str) -> str:
                         "subject": summary.get("subject", ""),
                         "question": summary.get("question", ""),
                         "notice": summary.get("notice", ""),
-                        "body": summary.get("body", ""),
+                        "body": strip_scraped_markup(body_raw),
                         "cases_referenced": summary.get("cases_referenced", []),
                         "legislation_referenced": leg_clean,
-                        "full_text": summary.get("full_text", ""),
+                        "full_text": strip_scraped_markup(full_text_raw),
                         "source": "summary",
                     }, indent=2)
                 # For full rulings, return structured fields
@@ -1412,6 +1510,8 @@ async def get_ruling(citation: str) -> str:
             content = path.read_text(encoding="utf-8") if path.exists() else ""
             from backend.services.data_loader import _strip_ato_chrome
             stripped = _strip_ato_chrome(content)
+            # Also strip scraped markup (CDN-0095)
+            stripped = strip_scraped_markup(stripped)
             MAX_PREVIEW = 5000
             preview = stripped[:MAX_PREVIEW]
             truncated = len(stripped) > MAX_PREVIEW
@@ -1549,8 +1649,8 @@ async def get_case(
             if text_path.exists():
                 try:
                     raw_html = text_path.read_text(encoding="utf-8", errors="replace")
-                    # Strip HTML tags to get plain text
-                    text = _re.sub(r"<[^>]+>", " ", raw_html)
+                    # Strip scraped markup including HTML tags (CDN-0095)
+                    text = strip_scraped_markup(raw_html)
                     text = _re.sub(r"\s+", " ", text).strip()
                     # Decode HTML entities
                     text = html_mod.unescape(text)

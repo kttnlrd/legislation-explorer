@@ -13,4 +13,4 @@ Note, however, that certain lump sum payments received under the Return to Work 
 
 *Refs: ITAA97 s 15-3)*
 
-## Sportspersons’ signing-on fees/commercial exploitation of
+## Sportspersons' signing-on fees/commercial exploitation of

@@ -7,7 +7,7 @@ paragraph: "¶22-125"
 ---
 # Concessions for temporary residents ¶22-125
 
-Individuals who qualify as “temporary residents” are exempt from Australian tax on certain foreign source income or capital gains. In this respect, they are treated similarly to non-residents, even though in many cases they would normally have been classed as residents under the normal tax rules. They are also exempt from interest withholding tax, and special rules apply to employee shares and rights (¶12-630).
+Individuals who qualify as "temporary residents" are exempt from Australian tax on certain foreign source income or capital gains. In this respect, they are treated similarly to non-residents, even though in many cases they would normally have been classed as residents under the normal tax rules. They are also exempt from interest withholding tax, and special rules apply to employee shares and rights (¶12-630).
 
 In general, these concessions apply for income years that begin on or after 1 July 2006. As an exception, the withholding tax concessions apply to payments made on or after 6 April 2006.
 
@@ -29,7 +29,7 @@ This applies, for example, to foreign-source dividends, interest or rental incom
 
 - remuneration for employment undertaken or services provided while a person is a temporary
 
-  resident. The reason for this exception is the government’s view that permanent and temporary
+  resident. The reason for this exception is the government's view that permanent and temporary
 
   residents should compete on a level playing ﬁeld for the supply of labour or services overseas
 
@@ -41,7 +41,7 @@ The fact that the exemption does not apply to these types of income does not pre
 
 Australian-sourced income distributed from a non-resident trust to a temporary resident in Australia is considered to fall outside the exemption and to be assessable (ID 2007/108).
 
-In technical terms, the income covered by the exemption is called “non-assessable non-exempt income” (¶10-890). This basically means that it is excluded from assessable income and is not taken into account when working out a taxpayer’s losses.
+In technical terms, the income covered by the exemption is called "non-assessable non-exempt income" (¶10-890). This basically means that it is excluded from assessable income and is not taken into account when working out a taxpayer's losses.
 
 The exemption also means that expenses incurred in deriving the income will not be deductible, and that foreign tax oﬀsets/credits cannot be claimed for foreign tax paid on the income.
 

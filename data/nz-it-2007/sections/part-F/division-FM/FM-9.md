@@ -4,11 +4,11 @@ part_title: Part F Recharacterisation of certain transactions
 division: FM
 division_title: Subpart FM—Consolidated groups of companies
 section: FM-9
-section_title: Amounts that are company’s income
+section_title: Amounts that are company's income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# FM 9  Amounts that are company’s income
+# FM 9  Amounts that are company's income
 
 **When this section applies**
 

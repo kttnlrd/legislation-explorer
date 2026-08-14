@@ -22,9 +22,9 @@ compilation_date: 2026-06-06
 
 **(3)**  In the formula,—
 
-- (a) retrospective amount is the amount of income, for the person’s owner’s interest in financial arrangements as debtor, that would result from the application of section HB 4 for income years before the 2017–18 income year, treating that section as amended, for the purposes of this definition, as provided by section 130 of the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017 for those income years:
+- (a) retrospective amount is the amount of income, for the person's owner's interest in financial arrangements as debtor, that would result from the application of section HB 4 for income years before the 2017–18 income year, treating that section as amended, for the purposes of this definition, as provided by section 130 of the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017 for those income years:
 
-- (b) current amount is the amount of income, for the person’s owner’s interest in financial arrangements as debtor from the application of section HB 4, for income years before the 2017–18 income year.
+- (b) current amount is the amount of income, for the person's owner's interest in financial arrangements as debtor from the application of section HB 4, for income years before the 2017–18 income year.
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -4,31 +4,29 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 129
-  • Div 156
-  • Div 29
-  • Div 358
-  • Div 99
-  • Division 129
-  • Division 156
-  • Division 29
-  • Division 358
-  • Division 99
+ • Div 129
+ • Div 156
+ • Div 29
+ • Div 358
+ • Div 99
+ • Division 129
+ • Division 156
+ • Division 29
+ • Division 358
+ • Division 99
 
 Cases Referenced:
-  • Frazier v. Commissioner 
-  • Hill v. Booth
+ • Frazier v. Commissioner 
+ • Hill v. Booth
 
-  • Ltd v. Strick
+ • Ltd v. Strick
 
-  • Nixon v. Doney
+ • Nixon v. Doney
 (1960)
-  • See
+ • See
 Frazier v. Commissioner 
 
 Topics: GST, Companies
-
-
 
 ================================================================================
 
@@ -43,13 +41,13 @@ Back to browse
 61 related documents
 Goods and Services Tax Ruling
 GSTR 2000/35
-Goods and services tax:  Division 156 - supplies and acquisitions made on a progressive or periodic basis
+Goods and services tax: Division 156 - supplies and acquisitions made on a progressive or periodic basis
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -101,10 +99,10 @@ Date of effect
 Context
 9. Division 29 establishes basic rules for the attribution of GST and input tax credits (the basic attribution rules).
 [1]
-Division 156 alters the application of the basic attribution rules in circumstances where the supply or acquisition and the consideration occur periodically or progressively.  It does this by treating each periodic component of the supply or acquisition as a separate supply or acquisition.
+Division 156 alters the application of the basic attribution rules in circumstances where the supply or acquisition and the consideration occur periodically or progressively. It does this by treating each periodic component of the supply or acquisition as a separate supply or acquisition.
 10. Division 156 (other than section 156-15)
 [2]
-applies only to entities that account for GST on a basis other than cash (section 156-25).  Generally, the division will produce a similar result for a taxpayer accounting on a basis other than cash as the cash basis of accounting, as it will spread the liability for GST and the availability of input tax credits over the period during which payments are made.
+applies only to entities that account for GST on a basis other than cash (section 156-25). Generally, the division will produce a similar result for a taxpayer accounting on a basis other than cash as the cash basis of accounting, as it will spread the liability for GST and the availability of input tax credits over the period during which payments are made.
 Attributing GST payable
 11. If you account for GST on a basis other than cash, under Division 29 you attribute all the GST payable on a taxable supply to the earlier of the tax periods when:
 •
@@ -112,15 +110,15 @@ any of the consideration for the supply is received; or
 •
 an invoice is issued for the supply.
 [3]
-12. However, where you make a supply for a period or on a progressive basis and for consideration that is to be provided on a progressive or periodic basis, you attribute the GST payable as if each progressive or periodic component of the supply that you make were a separate supply.  Subsection 156-5(1) requires you to attribute the GST payable on each notional separate supply in accordance with the basic attribution rules (subsection 29-5(1)).
-13. Where the components of a taxable supply you make for a period or on a progressive basis are not readily identifiable, subsection 156-5(2) provides that the components will correspond to the proportion of the total consideration that each separate amount of consideration represents.  The term 'readily identifiable' is not defined in the GST Act and is illustrated in Example 3.
+12. However, where you make a supply for a period or on a progressive basis and for consideration that is to be provided on a progressive or periodic basis, you attribute the GST payable as if each progressive or periodic component of the supply that you make were a separate supply. Subsection 156-5(1) requires you to attribute the GST payable on each notional separate supply in accordance with the basic attribution rules (subsection 29-5(1)).
+13. Where the components of a taxable supply you make for a period or on a progressive basis are not readily identifiable, subsection 156-5(2) provides that the components will correspond to the proportion of the total consideration that each separate amount of consideration represents. The term 'readily identifiable' is not defined in the GST Act and is illustrated in Example 3.
 Attributing input tax credits
 14. If you account for GST on a basis other than cash, under subsections 29-10(1) and (3) you attribute all of the input tax credits for a creditable acquisition to the earlier of the tax periods in which:
 •
 you provide any consideration; or
 •
 an invoice is issued for the acquisition.
-15. However, where you make a creditable acquisition for a period or on a progressive basis and for consideration that is to be provided on a progressive or periodic basis, you attribute the input tax credits as if each progressive or periodic component of the acquisition were a separate acquisition.  Subsection 156-10(1) requires you to attribute the input tax credits in respect of each notional separate acquisition in accordance with the basic attribution rules (subsection 29-10(1)).
+15. However, where you make a creditable acquisition for a period or on a progressive basis and for consideration that is to be provided on a progressive or periodic basis, you attribute the input tax credits as if each progressive or periodic component of the acquisition were a separate acquisition. Subsection 156-10(1) requires you to attribute the input tax credits in respect of each notional separate acquisition in accordance with the basic attribution rules (subsection 29-10(1)).
 16. If the progressive or periodic components of a creditable acquisition you make are not readily identifiable, subsection 156-10(2) provides that the components will correspond to the proportion of the total consideration that each amount of consideration represents.
 17. You are only entitled to claim input tax credits when you have a tax invoice.
 [4]
@@ -137,34 +135,34 @@ on a progressive basis; or
 •
 on a periodic basis.
 [5]
-19. Supplies may be made for a period or on a progressive basis; the consideration may be made on a progressive or periodic basis.  There is no requirement in Division 156 that the way in which consideration is provided must correspond to the way in which the supply or acquisition is made:  for example, supply on a progressive basis can be made with periodic payments.
+19. Supplies may be made for a period or on a progressive basis; the consideration may be made on a progressive or periodic basis. There is no requirement in Division 156 that the way in which consideration is provided must correspond to the way in which the supply or acquisition is made: for example, supply on a progressive basis can be made with periodic payments.
 20. If you account for GST on a basis other than cash and you make a supply for a period or on a progressive basis, you must attribute GST payable in accordance with Division 156.
 21. If you account for GST on a basis other than cash and you make an acquisition for a period or on a progressive basis you must attribute input tax credits in accordance with Division 156.
 22. If the supplier and recipient account on different bases, Division 156 will only apply to the party which accounts on a basis other than cash.
 Example 1
 23.
-Mark accounts for GST on the cash basis.  He enters into an agreement with Carrie who accounts for GST on a basis other than cash.  The agreement is for Mark to supply management consulting services to Carrie for a period of 12 months.  Payments are to be made monthly
+Mark accounts for GST on the cash basis. He enters into an agreement with Carrie who accounts for GST on a basis other than cash. The agreement is for Mark to supply management consulting services to Carrie for a period of 12 months. Payments are to be made monthly
 .
-24. Division 156 does not apply to the supply made by Mark because he accounts for GST on the cash basis (section 156-25).  The Division applies to the acquisition made by Carrie because it is made for a period, she provides the consideration on a periodic basis, and she accounts for GST on a basis other than cash.  Carrie cannot choose to attribute the input tax credits in relation to the total consideration to the tax period in which she makes her first monthly payment.
+24. Division 156 does not apply to the supply made by Mark because he accounts for GST on the cash basis (section 156-25). The Division applies to the acquisition made by Carrie because it is made for a period, she provides the consideration on a periodic basis, and she accounts for GST on a basis other than cash. Carrie cannot choose to attribute the input tax credits in relation to the total consideration to the tax period in which she makes her first monthly payment.
 When is a supply or acquisition made for a period?
-25. A supply or acquisition you make is for a period when it is made over a specified length of time or for a time with an identifiable end point.  This may be stated in your contract, agreement or other similar document.  However, a supply will not be for a period merely because there is a stipulated completion date.
-26. If a contract for a supply of goods or services provides that they are to be delivered or completed by a specific date, that will not be a supply for a period.  A supply for a period will be one which is made on a continuous basis until the stipulated end point occurs, or the period expires.  An example of a supply or acquisition for a period is a contract for the supply of maintenance services for a period of 12 months.
+25. A supply or acquisition you make is for a period when it is made over a specified length of time or for a time with an identifiable end point. This may be stated in your contract, agreement or other similar document. However, a supply will not be for a period merely because there is a stipulated completion date.
+26. If a contract for a supply of goods or services provides that they are to be delivered or completed by a specific date, that will not be a supply for a period. A supply for a period will be one which is made on a continuous basis until the stipulated end point occurs, or the period expires. An example of a supply or acquisition for a period is a contract for the supply of maintenance services for a period of 12 months.
 When is a supply or acquisition made on a progressive basis?
-27. A supply or acquisition you make is on a progressive basis when the contract or agreement provides for stages of the supply during the course of the supply.  A supply may also be a progressive supply where, under a contract, goods or services are to be supplied on an ongoing basis.  An example of a supply or acquisition on a progressive basis is a contract for supply of property management services by a real estate agent.
+27. A supply or acquisition you make is on a progressive basis when the contract or agreement provides for stages of the supply during the course of the supply. A supply may also be a progressive supply where, under a contract, goods or services are to be supplied on an ongoing basis. An example of a supply or acquisition on a progressive basis is a contract for supply of property management services by a real estate agent.
 When is consideration provided on a progressive basis?
-28. You provide consideration on a progressive basis when it is paid by instalments that reflect stages of a supply or acquisition:  for example, progress payments on a house construction contract.
+28. You provide consideration on a progressive basis when it is paid by instalments that reflect stages of a supply or acquisition: for example, progress payments on a house construction contract.
 When is consideration provided on a periodic basis?
-29. You provide consideration on a periodic basis when it is made in equal or unequal instalments provided upon expiration of specified periods.  An example of consideration on a periodic basis is where payments are made monthly under an agreement to lease a building.
+29. You provide consideration on a periodic basis when it is made in equal or unequal instalments provided upon expiration of specified periods. An example of consideration on a periodic basis is where payments are made monthly under an agreement to lease a building.
 How does Division 156 interact with sections 29-5 and 29-10?
 30. If the supply or acquisition that you make is one to which Division 156 applies, then you attribute GST and input tax credits as if each component of the supply or acquisition were a separate supply or acquisition.
 31. You then attribute GST payable and input tax credits to which you are entitled in respect of each separate component in accordance with the application of sections 29-5 and 29-10.
-32. Section 45-5 provides that the special rules in Chapter 4 (which includes Division 156) will override rules in Chapter 2 (which includes sections 29-5 and 29-10), but only to the extent of any inconsistency.  For example, inconsistency may occur where a document which is an invoice for the purposes of Division 29 is issued at the commencement of an arrangement and would otherwise have the effect of triggering full attribution at the time it is issued.
-33. Where an invoice for the whole supply or a number of components of the supply is issued prior to any payment of consideration, the effect of attributing GST and input tax credits in accordance with paragraphs 29-5(1)(b) and 29-10(1)(b) (for a taxpayer who accounts on a basis other than cash), would be that attribution would occur at the time the invoice issued.  However, because this is not consistent with the intended operation of Division 156, the basic attribution rules will be modified by the operation of section 45-5:
+32. Section 45-5 provides that the special rules in Chapter 4 (which includes Division 156) will override rules in Chapter 2 (which includes sections 29-5 and 29-10), but only to the extent of any inconsistency. For example, inconsistency may occur where a document which is an invoice for the purposes of Division 29 is issued at the commencement of an arrangement and would otherwise have the effect of triggering full attribution at the time it is issued.
+33. Where an invoice for the whole supply or a number of components of the supply is issued prior to any payment of consideration, the effect of attributing GST and input tax credits in accordance with paragraphs 29-5(1)(b) and 29-10(1)(b) (for a taxpayer who accounts on a basis other than cash), would be that attribution would occur at the time the invoice issued. However, because this is not consistent with the intended operation of Division 156, the basic attribution rules will be modified by the operation of section 45-5:
 •
 Paragraphs 29-5(1)(b) and 29-10(1)(b) will only apply where an invoice is issued for a particular component;
 •
 Where no invoice which is particular to a component of the supply or acquisition can be identified, then attribution will occur when a payment is made which relates to a particular component.
-34. For the purposes of Division 156 an invoice for the whole supply or acquisition, or a number of components of the supply or acquisition, will not be regarded as the relevant invoice for attribution purposes.  This document, if it is a tax invoice may nevertheless still be a tax invoice in relation to each component of the supply or acquisition.
+34. For the purposes of Division 156 an invoice for the whole supply or acquisition, or a number of components of the supply or acquisition, will not be regarded as the relevant invoice for attribution purposes. This document, if it is a tax invoice may nevertheless still be a tax invoice in relation to each component of the supply or acquisition.
 How do you ascertain components of a supply or acquisition?
 35. You must look to a single supply or acquisition to determine whether Division 156 applies.
 36. A 'supply' is defined in section 9-10 as any form of supply whatsoever.
@@ -173,34 +171,34 @@ How do you ascertain components of a supply or acquisition?
 Example 2
 A single supply
 39.
-Misum owns a florist shop.  She sells flowers to China Blue a local restaurant, amongst other customers.  She supplies flowers to them only on request.  She has no contract with them.  She is paid on delivery.  Each sale by Misum is a single supply to China Blue.  Division 156 does not apply
+Misum owns a florist shop. She sells flowers to China Blue a local restaurant, amongst other customers. She supplies flowers to them only on request. She has no contract with them. She is paid on delivery. Each sale by Misum is a single supply to China Blue. Division 156 does not apply
 .
 A periodic supply
 40.
-Misum enters into a contract with China Blue to supply five floral arrangements each week for a twelve month period.  Payments are to be made on the first of each month.  The supply under the contract is a year's supply of floral arrangements.  This is a supply to which Division 156 applies
+Misum enters into a contract with China Blue to supply five floral arrangements each week for a twelve month period. Payments are to be made on the first of each month. The supply under the contract is a year's supply of floral arrangements. This is a supply to which Division 156 applies
 .
 A fixed price supply
 41.
-Misum provides China Blue with a price list for floral arrangements for special events.  The price list is effective for one year.  China Blue is under no obligation to deal exclusively with Misum in respect of special events.  During the currency of the price list Misum provides flowers for three weddings.  These are single supplies to which Division 156 does not apply.  The offer to treat (the price list) is for a period, however the supplies are neither progressive nor for a period because each order is a separate contract.
+Misum provides China Blue with a price list for floral arrangements for special events. The price list is effective for one year. China Blue is under no obligation to deal exclusively with Misum in respect of special events. During the currency of the price list Misum provides flowers for three weddings. These are single supplies to which Division 156 does not apply. The offer to treat (the price list) is for a period, however the supplies are neither progressive nor for a period because each order is a separate contract.
 42. If Division 156 does apply to the supply or acquisition, you must then identify the progressive or periodic components of that supply or acquisition.
-43. Subsections 156-5(1) and 156-10(1) provide that once the components are identified, each is treated as a notional separate supply or acquisition.  Sections 29-5 and 29-10 attribute GST and input tax credits to the notional supply or acquisition (in the absence of an invoice in relation to the notional supply or acquisition) to the period when consideration is provided in relation to the notional supply or acquisition.
-44. In order to identify the components correctly, it is important to identify a component in respect of which consideration applies.  If in relation to a payment of consideration there is no corresponding component identifiable, then the component to which the payment relates will be determined in accordance with subsections 156-5(2) and 156-10(2).  These sections provide that the components of the supply or acquisition will correspond to the proportion of the total consideration that the separate amounts of consideration represent.
+43. Subsections 156-5(1) and 156-10(1) provide that once the components are identified, each is treated as a notional separate supply or acquisition. Sections 29-5 and 29-10 attribute GST and input tax credits to the notional supply or acquisition (in the absence of an invoice in relation to the notional supply or acquisition) to the period when consideration is provided in relation to the notional supply or acquisition.
+44. In order to identify the components correctly, it is important to identify a component in respect of which consideration applies. If in relation to a payment of consideration there is no corresponding component identifiable, then the component to which the payment relates will be determined in accordance with subsections 156-5(2) and 156-10(2). These sections provide that the components of the supply or acquisition will correspond to the proportion of the total consideration that the separate amounts of consideration represent.
 Example 3
 Identifiable components
 45.
-Cleanrite Ltd supplies laundry services to a hotel under a three year contract.  Payments are made monthly.  The components of the supply to which each payment of consideration relates is the laundry services for the month in question
+Cleanrite Ltd supplies laundry services to a hotel under a three year contract. Payments are made monthly. The components of the supply to which each payment of consideration relates is the laundry services for the month in question
 .
 Unidentifiable components
 46.
-Crusher Pty Ltd crushes road base from a quarry.  Crusher Pty Ltd enters a contract with Macadam Engineering to supply 80,000 cubic metres of road base to be delivered at a rate of 40,000 cubic metres in the first month, 10,000 in the second month and 30,000 in the third month.  The GST inclusive price of $400,000 is to be paid in equal fortnightly instalments.
+Crusher Pty Ltd crushes road base from a quarry. Crusher Pty Ltd enters a contract with Macadam Engineering to supply 80,000 cubic metres of road base to be delivered at a rate of 40,000 cubic metres in the first month, 10,000 in the second month and 30,000 in the third month. The GST inclusive price of $400,000 is to be paid in equal fortnightly instalments.
 47.
-Crusher Pty Ltd cannot identify the components of the supply of road base to which each of the payments relates as no component of the supply readily corresponds to a payment.  In these circumstances Crusher Pty Ltd identifies each component by reference to subsection 156-5(2)
+Crusher Pty Ltd cannot identify the components of the supply of road base to which each of the payments relates as no component of the supply readily corresponds to a payment. In these circumstances Crusher Pty Ltd identifies each component by reference to subsection 156-5(2)
 .
 Do you need separate tax invoices for each component?
-48. A document which is created at the commencement of an arrangement, for example, a lease agreement, is not generally an invoice for each component of the supply or acquisition.  However, it can be a
+48. A document which is created at the commencement of an arrangement, for example, a lease agreement, is not generally an invoice for each component of the supply or acquisition. However, it can be a
 tax invoice
 for each component if it satisfies the requirements of subsection 29-70(1) or if the Commissioner exercises his discretion under that section to treat a document which is not a tax invoice as a tax invoice.
-49. You do not have to issue separate tax invoices for each component of the supply, if your agreement or similar document satisfies the requirements for a tax invoice.  As attribution occurs for each component of the acquisition you can claim input tax credits for that component of the acquisition if your agreement or similar document satisfies the requirements for a tax invoice.
+49. You do not have to issue separate tax invoices for each component of the supply, if your agreement or similar document satisfies the requirements for a tax invoice. As attribution occurs for each component of the acquisition you can claim input tax credits for that component of the acquisition if your agreement or similar document satisfies the requirements for a tax invoice.
 [6]
 50. You may satisfy the requirements of subsection 29-70(1) by adding an attachment to the document.
 What is the effect of Division 156 on supplies partly connected with Australia?
@@ -208,37 +206,37 @@ What is the effect of Division 156 on supplies partly connected with Australia?
 52. You need to consider each component of the supply to assess to what extent it is not connected with Australia.
 53. Where a supply to which Division 156 applies is a supply partly connected with Australia, any component of that supply which is wholly not connected with Australia is treated as if it were a separate supply that is not connected with Australia.
 How are progressive or periodic acquisitions affected by changes in the extent of creditable purpose?
-54. Division 129 is about changes in the extent of creditable purpose.  These changes affect the input tax credits to which you are entitled.
+54. Division 129 is about changes in the extent of creditable purpose. These changes affect the input tax credits to which you are entitled.
 55. If you acquire something for a period or progressively, then under Division 156 you have a separate input tax credit for each component of the acquisition.
-56. The effect of section 156-20 is that if there is a change in the extent of creditable purpose in relation to the acquisition, then you consider each component of the acquisition to assess whether the change in creditable purpose applies to that particular component.  This is because each progressive or periodic component of the acquisition is treated as if it were a separate acquisition.  The component which you must consider in relation to the change in extent of creditable purpose will be identified in the same way as for the purposes of section 156-10.
+56. The effect of section 156-20 is that if there is a change in the extent of creditable purpose in relation to the acquisition, then you consider each component of the acquisition to assess whether the change in creditable purpose applies to that particular component. This is because each progressive or periodic component of the acquisition is treated as if it were a separate acquisition. The component which you must consider in relation to the change in extent of creditable purpose will be identified in the same way as for the purposes of section 156-10.
 Application of Division 156 to particular supplies and acquisitions
 57. Division 156 can apply to a wide range of commercial arrangements involving supplies and acquisitions made for a period or progressively.
 Leases
 58. For GST purposes, a supply or acquisition by way of lease is treated as a periodic or progressive supply or acquisition to which Division 156 applies.
 [7]
 59. Division 156 has the effect of treating each periodic or progressive component of the lease as if it were a separate supply or acquisition which must then be accounted for in accordance with the attribution rules contained in sections 29-5 and 29-10.
-60. Whether or not a particular lease document is an invoice for GST purposes, Division 156 may still apply, provided the other conditions are satisfied.  This means that, when you enter into a lease and Division 156 applies, you do not attribute the GST payable or the input tax credits to which you are entitled for the entire period of the lease to the tax period in which you sign the lease agreement.
-61. In the absence of an invoice, the GST payable or input tax credits relating to a specific component of a supply or acquisition by way of lease are attributed to the tax period in which the periodic or progressive payment for that particular component is provided or received.  However, if a separate invoice for a particular component is issued prior to payment, then the GST or input tax credits in respect of that component are attributed to the tax period in which the invoice is issued.
+60. Whether or not a particular lease document is an invoice for GST purposes, Division 156 may still apply, provided the other conditions are satisfied. This means that, when you enter into a lease and Division 156 applies, you do not attribute the GST payable or the input tax credits to which you are entitled for the entire period of the lease to the tax period in which you sign the lease agreement.
+61. In the absence of an invoice, the GST payable or input tax credits relating to a specific component of a supply or acquisition by way of lease are attributed to the tax period in which the periodic or progressive payment for that particular component is provided or received. However, if a separate invoice for a particular component is issued prior to payment, then the GST or input tax credits in respect of that component are attributed to the tax period in which the invoice is issued.
 62. Where a lease agreement includes clauses requiring payments to be made to the lessor for items such as electricity, maintenance, etc., (outgoings clauses), the payments, in respect of these items, are part of the periodic or progressive payments subject to Division 156.
 Example 4
 63.
-Monty & Co. Ltd is a firm of accountants which accounts for GST on a basis other than cash.  It agrees to lease office space in a building located in the centre of the city from Cicero Pty Ltd, which also accounts for GST on a basis other than cash.  The term of the lease is for three years and the rent payable is $11,000 per month.  Consideration is to be provided on a periodic basis and no monthly invoices are issued
+Monty & Co. Ltd is a firm of accountants which accounts for GST on a basis other than cash. It agrees to lease office space in a building located in the centre of the city from Cicero Pty Ltd, which also accounts for GST on a basis other than cash. The term of the lease is for three years and the rent payable is $11,000 per month. Consideration is to be provided on a periodic basis and no monthly invoices are issued
 .
 64.
-The lease is a taxable supply by Cicero Pty Ltd and a creditable acquisition by Monty & Co. Ltd for a period.  Division 156 will apply to treat each periodic component as if it were a separate supply or acquisition
+The lease is a taxable supply by Cicero Pty Ltd and a creditable acquisition by Monty & Co. Ltd for a period. Division 156 will apply to treat each periodic component as if it were a separate supply or acquisition
 .
 65.
-Cicero Pty Ltd will attribute GST payable to the tax periods in which Monty & Co. Ltd makes the lease payments.  Monty & Co. Ltd is entitled to input tax credits in the tax periods in which it provides the lease payments
+Cicero Pty Ltd will attribute GST payable to the tax periods in which Monty & Co. Ltd makes the lease payments. Monty & Co. Ltd is entitled to input tax credits in the tax periods in which it provides the lease payments
 .
 Hire purchase agreement
-65A.  Section 156-23 provides that, for the purposes Division 156, a supply or acquisition of goods or credit under a hire purchase agreement entered into on or after 1 July 2012 is treated as not being a supply or acquisition made on a progressive or periodic basis.
-65B.  Paragraph 5.38 of the relevant Explanatory Memorandum
+65A. Section 156-23 provides that, for the purposes Division 156, a supply or acquisition of goods or credit under a hire purchase agreement entered into on or after 1 July 2012 is treated as not being a supply or acquisition made on a progressive or periodic basis.
+65B. Paragraph 5.38 of the relevant Explanatory Memorandum
 [7A]
 confirms that section 156-23 was intended to clarify the then-existing treatment of goods acquired under a hire purchase agreement (rather than produce a different outcome).
-65C.  The Commissioner's view is that Division 156 does not apply to a supply or acquisition of goods under a hire purchase agreement entered into either before or after 1 July 2012.
+65C. The Commissioner's view is that Division 156 does not apply to a supply or acquisition of goods under a hire purchase agreement entered into either before or after 1 July 2012.
 66. Because a hire purchase agreement is in commercial substance a method by which the 'hirer' purchases goods on deferred payment terms, the supply of goods is not a supply that is made for a period or on a progressive basis.
 [8]
-67. Although supplies and acquisitions made by way of lease, hire or similar arrangement are specifically brought within Division 156 by section 156-22, a hire purchase agreement cannot be regarded as a similar arrangement to a loan or hire.  The term 'similar arrangement' is not defined in the GST Act.  A similar arrangement is one that is not strictly a lease or hire, but which offers the possession and use of property without providing for title to pass to the recipient.
+67. Although supplies and acquisitions made by way of lease, hire or similar arrangement are specifically brought within Division 156 by section 156-22, a hire purchase agreement cannot be regarded as a similar arrangement to a loan or hire. The term 'similar arrangement' is not defined in the GST Act. A similar arrangement is one that is not strictly a lease or hire, but which offers the possession and use of property without providing for title to pass to the recipient.
 Lease premiums
 68. A genuine lease premium is consideration paid by the lessee to the lessor for the grant of the lease.
 [9]
@@ -246,21 +244,21 @@ Lease premiums
 [10]
 For GST purposes, rent (and share of outgoings where applicable) is consideration provided on a progressive or periodic basis for a supply or acquisition to which Division 156 applies.
 [11]
-70. For GST purposes, a lease premium is consideration for a supply or acquisition which is separate from the supply or acquisition of the leased property under the lease.  Division 156 does not apply to the supply or acquisition for which the lease premium is paid because the supply or acquisition is not made for a period or on a progressive basis.
+70. For GST purposes, a lease premium is consideration for a supply or acquisition which is separate from the supply or acquisition of the leased property under the lease. Division 156 does not apply to the supply or acquisition for which the lease premium is paid because the supply or acquisition is not made for a period or on a progressive basis.
 [12]
-71. It is a question of fact whether a particular amount paid by a lessee to a lessor is rent or a lease premium.  If the terms of the lease agreement show that the amount paid is for use of the property rather than consideration for the grant of the lease, then the amount will be rent and not a lease premium.  This will be so irrespective of how the parties describe the amount.
+71. It is a question of fact whether a particular amount paid by a lessee to a lessor is rent or a lease premium. If the terms of the lease agreement show that the amount paid is for use of the property rather than consideration for the grant of the lease, then the amount will be rent and not a lease premium. This will be so irrespective of how the parties describe the amount.
 [13]
-72. If you make a supply or acquisition the consideration for which is a lease premium, Division 156 will not apply even if the consideration is payable by instalments - it is a single supply or acquisition.  The grant of a lease is not a supply or acquisition for a period or on a progressive basis.  The requirements of paragraphs 156-5(1)(a) and 156-10(1)(a) will therefore not be satisfied.
+72. If you make a supply or acquisition the consideration for which is a lease premium, Division 156 will not apply even if the consideration is payable by instalments - it is a single supply or acquisition. The grant of a lease is not a supply or acquisition for a period or on a progressive basis. The requirements of paragraphs 156-5(1)(a) and 156-10(1)(a) will therefore not be satisfied.
 73. This means that the basic attribution rules in subsections 29-5(1) and 29-10(1) will apply to attribute the GST payable or the input tax credits to which you are entitled to the earlier of the tax periods in which any of the lease premium is received or provided, or an invoice is issued.
 Example 5
 74.
-Monty & Co. Ltd wants to relocate and is looking for suitable accommodation in the city fringe.  As there is a shortage of prestige office accommodation in that area, Monty & Co. Ltd also agrees to pay to Cicero Pty Ltd an amount of $15,000 to enter into the lease, in addition to the monthly lease payments
+Monty & Co. Ltd wants to relocate and is looking for suitable accommodation in the city fringe. As there is a shortage of prestige office accommodation in that area, Monty & Co. Ltd also agrees to pay to Cicero Pty Ltd an amount of $15,000 to enter into the lease, in addition to the monthly lease payments
 .
 75.
-The payment is to be made in two instalments.  The first instalment of $10,000 is paid on signing the lease agreement and $5,000 is paid two months later
+The payment is to be made in two instalments. The first instalment of $10,000 is paid on signing the lease agreement and $5,000 is paid two months later
 .
 76.
-Division 156 will not apply to the supply for which the lease premium of $15,000 is consideration.  GST and input tax credits in respect of the $15,000 will be attributed to the tax period in which payment of the $10,000 is made
+Division 156 will not apply to the supply for which the lease premium of $15,000 is consideration. GST and input tax credits in respect of the $15,000 will be attributed to the tax period in which payment of the $10,000 is made
 .
 Lease incentives
 77. A lease incentive is an amount paid, or other consideration provided, by the lessor to the lessee as an inducement to enter into or vary a lease.
@@ -269,26 +267,26 @@ Lease incentives
 79. Division 156 will not apply to this separate supply or acquisition, and the basic rules contained in subsections 29-5(1) and 29-10(1) will apply to attribute the GST payable and the input tax credits to which you are entitled to the earlier of the tax periods in which any of the lease incentive is received or provided, or an invoice is issued.
 Example 6
 80.
-Cicero Pty Ltd considers Monty & Co. Ltd to be a prestige tenant and offers Monty & Co. Ltd $100,000 to induce it to enter a further three year lease.  Cicero Pty Ltd attributes the input tax credits to which it is entitled to the tax period in which it provides the $100,000.  Monty & Co. Ltd attributes the GST payable to the tax period in which it receives the payment
+Cicero Pty Ltd considers Monty & Co. Ltd to be a prestige tenant and offers Monty & Co. Ltd $100,000 to induce it to enter a further three year lease. Cicero Pty Ltd attributes the input tax credits to which it is entitled to the tax period in which it provides the $100,000. Monty & Co. Ltd attributes the GST payable to the tax period in which it receives the payment
 .
 Rent holidays
 81. A rent-free period (rent holiday) allows the lessee to occupy the leased premises for a certain period of time without paying any consideration.
-82. The grant of a rent holiday will affect the way in which Division 156 operates to attribute the GST payable and input tax credits to which you are entitled in relation to the progressive or periodic components of a supply or acquisition by way of lease.  Because there is neither an invoice nor a payment in respect of the rent-free period, no GST or input tax credits will be attributed to the tax periods which correspond with the rent-free period.
+82. The grant of a rent holiday will affect the way in which Division 156 operates to attribute the GST payable and input tax credits to which you are entitled in relation to the progressive or periodic components of a supply or acquisition by way of lease. Because there is neither an invoice nor a payment in respect of the rent-free period, no GST or input tax credits will be attributed to the tax periods which correspond with the rent-free period.
 Example 7
 83.
-Monty & Co Ltd merges with Spiro & Assoc.  Pty Ltd and as a result of the merger it requires further office space.  Cicero Pty Ltd has suitable office space in its new high-rise premises and offers Monty Spiro & Co Ltd three months rent-free to induce them to take up a three year lease in these premises.  The lease agreement commences in August and the first payment is due in November
+Monty & Co Ltd merges with Spiro & Assoc. Pty Ltd and as a result of the merger it requires further office space. Cicero Pty Ltd has suitable office space in its new high-rise premises and offers Monty Spiro & Co Ltd three months rent-free to induce them to take up a three year lease in these premises. The lease agreement commences in August and the first payment is due in November
 .
 84.
-Division 156 will apply to treat each component of the lease as if it were a separate supply or acquisition.  As no invoices are issued or payments made in respect of the first three months, no GST or input tax credits will be attributed to the tax periods which correspond with those particular months
+Division 156 will apply to treat each component of the lease as if it were a separate supply or acquisition. As no invoices are issued or payments made in respect of the first three months, no GST or input tax credits will be attributed to the tax periods which correspond with those particular months
 .
 Hire or similar arrangements
-85. Goods may be hired for a term which extends over more than one tax period.  Division 156 will apply to hire or similar arrangements if consideration is made on a progressive or periodic basis.
+85. Goods may be hired for a term which extends over more than one tax period. Division 156 will apply to hire or similar arrangements if consideration is made on a progressive or periodic basis.
 86. If all of the consideration is paid at the commencement of the arrangement, Division 156 does not apply and GST and input tax credits are attributable to the tax period in which a payment is made, unless an earlier invoice is issued.
 87. If you pay the hire charges regularly throughout the term of the hire, GST and input tax credits are attributable as if each payment were consideration for a separate supply or acquisition.
 88. Where a regular or periodic payment payable by the hirer under a hire agreement includes an amount referable to the supplier's cost of insurance, Division 156 applies to the whole of the regular or periodic payment.
 Example 8
 89.
-Matthew has a delivery business.  He accounts on a basis other than cash.  On 1 July 2000 he enters into an agreement to hire a van for 12 months for a GST inclusive price of $550 per month.  Section 156-22 provides that the acquisition has been made on a periodic basis
+Matthew has a delivery business. He accounts on a basis other than cash. On 1 July 2000 he enters into an agreement to hire a van for 12 months for a GST inclusive price of $550 per month. Section 156-22 provides that the acquisition has been made on a periodic basis
 .
 90.
 He pays the hire in 12 equal monthly instalments, thus satisfying the requirements of paragraph 156-10(1)(b)
@@ -297,36 +295,36 @@ He pays the hire in 12 equal monthly instalments, thus satisfying the requiremen
 Section 156-10 then provides that each periodic component of the hire is a separate acquisition, and the input tax credit of $50 per month (1/11 x $550) to which Matthew is entitled, is to be attributed in accordance with section 29-10, to the tax period in which each instalment is paid
 .
 92.
-Matthew lodges his GST return quarterly.  In respect of the van, he will be entitled to an input tax credit of $150 (1/11 x $550 x 3) in each quarterly GST return
+Matthew lodges his GST return quarterly. In respect of the van, he will be entitled to an input tax credit of $150 (1/11 x $550 x 3) in each quarterly GST return
 .
 Application of Division 156 to particular payment arrangements
-93. Division 156 can apply to a wide range of payment arrangements involving consideration provided on a progressive or periodic basis.  Some examples of these arrangements are dealt with below.
+93. Division 156 can apply to a wide range of payment arrangements involving consideration provided on a progressive or periodic basis. Some examples of these arrangements are dealt with below.
 Advance payments
-94. A contract or agreement may call for a payment to be made in advance of the supply of the goods or services which are the subject of the agreement.  Such payments are commonly called 'advance payments'.
+94. A contract or agreement may call for a payment to be made in advance of the supply of the goods or services which are the subject of the agreement. Such payments are commonly called 'advance payments'.
 95. Where an advance payment is the first of a series of payments for a supply or acquisition for a period or on a progressive basis, attribution of the GST payable and input tax credits will be in accordance with Division 156.
 96. If you account on a basis other than cash, you attribute GST and input tax credits to the earlier of the tax periods in which either any of the consideration is provided, or an invoice is issued.
 97. The component of the supply or acquisition to which the advance payment applies may not be readily identifiable, in which case, it will correspond to the proportion of the total payment represented by the advance payment.
 [15]
 Example 9
 98.
-Michelle has a bookkeeping business producing a monthly set of accounts for each client.  She has a number of on-going clients, but all new clients are required to enter into an agreement to utilise her services for 12 months at a GST inclusive fee of $1,100 per month with two months payable in advance.  She accounts on a basis other than cash.  No invoices are issued.  Michelle lodges quarterly GST returns
+Michelle has a bookkeeping business producing a monthly set of accounts for each client. She has a number of on-going clients, but all new clients are required to enter into an agreement to utilise her services for 12 months at a GST inclusive fee of $1,100 per month with two months payable in advance. She accounts on a basis other than cash. No invoices are issued. Michelle lodges quarterly GST returns
 .
 99.
-A new client signs an agreement on 15 March 2001 and, in accordance with the agreement, makes a $2,200 payment in advance.  The advance payment can be identified as payment for two months' services.  In the last two months of the contract the new client will not have to make any payment to Michelle
+A new client signs an agreement on 15 March 2001 and, in accordance with the agreement, makes a $2,200 payment in advance. The advance payment can be identified as payment for two months' services. In the last two months of the contract the new client will not have to make any payment to Michelle
 .
 100.
-As Michelle's services are periodic in nature, and as the consideration is provided periodically, GST is attributed under subsection 156-5(1) as if each month's services were a separate supply.  Michelle's GST return for the quarter ended 31 March 2001 includes $200 (1/11 x $2,200) GST in respect of the advance payment made by the new client
+As Michelle's services are periodic in nature, and as the consideration is provided periodically, GST is attributed under subsection 156-5(1) as if each month's services were a separate supply. Michelle's GST return for the quarter ended 31 March 2001 includes $200 (1/11 x $2,200) GST in respect of the advance payment made by the new client
 .
 Balloon payments
-101. Arrangements made between parties to a contract sometimes call for larger payments to be made at some point during the term of the contract.  This may be the sole payment or may be preceded or followed by smaller payments.  The goods or services are supplied or acquired over the period of the contract, or progressively throughout it.  These large payments are known as 'balloon payments'.
-102. Division 156 is applicable if a supply or acquisition is made for a period or on a progressive basis, and the balloon payment is one of a series of payments.  The GST payable and input tax credits are attributed when the balloon payment is made, or if the balloon payment is invoiced separately prior to payment being made, when the separate invoice is issued.
-103. If the balloon payment is the sole payment, Division 156 will not apply.  Attribution will be determined by Division 29.  If you account on a basis other than cash and no invoice has issued, attribution will occur in the tax period in which you make the balloon payment.
+101. Arrangements made between parties to a contract sometimes call for larger payments to be made at some point during the term of the contract. This may be the sole payment or may be preceded or followed by smaller payments. The goods or services are supplied or acquired over the period of the contract, or progressively throughout it. These large payments are known as 'balloon payments'.
+102. Division 156 is applicable if a supply or acquisition is made for a period or on a progressive basis, and the balloon payment is one of a series of payments. The GST payable and input tax credits are attributed when the balloon payment is made, or if the balloon payment is invoiced separately prior to payment being made, when the separate invoice is issued.
+103. If the balloon payment is the sole payment, Division 156 will not apply. Attribution will be determined by Division 29. If you account on a basis other than cash and no invoice has issued, attribution will occur in the tax period in which you make the balloon payment.
 Example 10
 104.
-Atlas Ltd has a contract to construct a bridge for the local council.  Atlas Ltd is to be paid on completion of the bridge.  It needs a crane to be available for the entire construction period.  As Atlas Ltd is not to receive payment until completion, it leases the crane with small lease payments until the final balloon payment on completion of the bridge.  As the supply and acquisition is made for a period and the balloon payment is the final of a series of payments, attribution will be made in accordance with Division 156
+Atlas Ltd has a contract to construct a bridge for the local council. Atlas Ltd is to be paid on completion of the bridge. It needs a crane to be available for the entire construction period. As Atlas Ltd is not to receive payment until completion, it leases the crane with small lease payments until the final balloon payment on completion of the bridge. As the supply and acquisition is made for a period and the balloon payment is the final of a series of payments, attribution will be made in accordance with Division 156
 .
 Milestone payments
-105. Contracts for major capital works often involve construction over a lengthy period of time and result in progress payments being made upon agreed milestones being reached.  Division 156 may or may not apply to supplies and acquisitions made under such contracts, depending on the terms of the contract.
+105. Contracts for major capital works often involve construction over a lengthy period of time and result in progress payments being made upon agreed milestones being reached. Division 156 may or may not apply to supplies and acquisitions made under such contracts, depending on the terms of the contract.
 106. Milestone payments may arise in the context of various contractual arrangements including:
 •
 a single supply of goods as compared to a progressive supply of goods (paragraph 107);
@@ -340,33 +338,33 @@ a supply of services where the item is constructed on-site (paragraph 110);
 a supply of goods where title passes progressively (paragraphs 111 to 112); and
 •
 a supply of goods followed by a supply of services, e.g., installation (paragraphs 113 to 114).
-107. Where a contract provides for milestone payments for a single supply of a capital item:  for example, a locomotive or three locomotives to be delivered all at the same time, this will not be a progressive supply or a supply for a period.  Where the contract provides for milestone payments for three locomotives to be delivered separately over a six month period, this will be a progressive supply.
-108. Where a contract provides for milestone payments for construction of a capital item using plans or designs owned and provided by the recipient of the supply, the contract is for supply of goods and services progressively.  An example of such a supply is where the recipient entity designs a compressor and contracts with a supplier to construct it.  The supplier supplies both goods in the form of compressor parts, and services in the form of expertise in construction.
-109. Where a contract provides for milestone payments for construction of an item affixed to land owned by the recipient, the contract is for supply of goods and services (to be incorporated in fixtures) progressively, whether or not the plans or designs are owned by the supplier.  For example, a contract for construction of a warehouse on land owned by the recipient where the supplier produces the plans in-house and the plans are owned by the supplier.
-110. Where a contract provides for milestone payments for construction of an item using materials provided by the recipient, the contract is for a progressive supply of services.  For example, a crop duster purchases an aircraft kit and engages a contractor to assemble it.
-111. Where a contract provides for the achievement of milestones in the construction of an item, and title in each completed stage of the item passes to the recipient during the course of construction, the contract is for a progressive supply.  For example, if a contract for the construction of a ship provides for title in each completed stage of the ship to pass on receipt by the supplier of the respective milestone payments, then Division 156 applies.
+107. Where a contract provides for milestone payments for a single supply of a capital item: for example, a locomotive or three locomotives to be delivered all at the same time, this will not be a progressive supply or a supply for a period. Where the contract provides for milestone payments for three locomotives to be delivered separately over a six month period, this will be a progressive supply.
+108. Where a contract provides for milestone payments for construction of a capital item using plans or designs owned and provided by the recipient of the supply, the contract is for supply of goods and services progressively. An example of such a supply is where the recipient entity designs a compressor and contracts with a supplier to construct it. The supplier supplies both goods in the form of compressor parts, and services in the form of expertise in construction.
+109. Where a contract provides for milestone payments for construction of an item affixed to land owned by the recipient, the contract is for supply of goods and services (to be incorporated in fixtures) progressively, whether or not the plans or designs are owned by the supplier. For example, a contract for construction of a warehouse on land owned by the recipient where the supplier produces the plans in-house and the plans are owned by the supplier.
+110. Where a contract provides for milestone payments for construction of an item using materials provided by the recipient, the contract is for a progressive supply of services. For example, a crop duster purchases an aircraft kit and engages a contractor to assemble it.
+111. Where a contract provides for the achievement of milestones in the construction of an item, and title in each completed stage of the item passes to the recipient during the course of construction, the contract is for a progressive supply. For example, if a contract for the construction of a ship provides for title in each completed stage of the ship to pass on receipt by the supplier of the respective milestone payments, then Division 156 applies.
 112. Conversely, if a contract for the construction of a ship provides for milestone payments with title to the ship passing only on its delivery, then Division 156 does not apply.
-113. A contract may provide for milestone payments upon construction of an item or items and on supply of related services such as installation.  Where property in the partly completed, or partly installed item or items passes at a time prior to completion of the contract the supply may be a progressive supply to which Division 156 applies.  For example, where a contract for the supply and installation of a large centrifugal pump provides for title to pass on construction and the process of construction and installation takes several months to complete, the construction and installation is a progressive supply.
-114. Where a contract provides that title does not pass to the recipient until the item or items have been delivered and installation completed, this will not be a progressive supply to which Division 156 applies.  For example, the supply and installation of fittings and fixtures to a hairdressing salon where title in the fittings and fixtures passes on completion of installation is not a progressive supply.
+113. A contract may provide for milestone payments upon construction of an item or items and on supply of related services such as installation. Where property in the partly completed, or partly installed item or items passes at a time prior to completion of the contract the supply may be a progressive supply to which Division 156 applies. For example, where a contract for the supply and installation of a large centrifugal pump provides for title to pass on construction and the process of construction and installation takes several months to complete, the construction and installation is a progressive supply.
+114. Where a contract provides that title does not pass to the recipient until the item or items have been delivered and installation completed, this will not be a progressive supply to which Division 156 applies. For example, the supply and installation of fittings and fixtures to a hairdressing salon where title in the fittings and fixtures passes on completion of installation is not a progressive supply.
 Deposit and series of payments
 115. When a payment which is part of a series of payments is described as a deposit and it is made at the start of the arrangement, its treatment for attribution purposes will depend on whether it is a deposit to which Division 99 applies.
 [16]
-116. Division 99 provides that GST does not apply to the taking of a deposit as security for the performance of an obligation (unless the deposit is forfeited or is applied as consideration).  It also provides that GST is not attributable prior to forfeiture.
+116. Division 99 provides that GST does not apply to the taking of a deposit as security for the performance of an obligation (unless the deposit is forfeited or is applied as consideration). It also provides that GST is not attributable prior to forfeiture.
 117. If Division 99 does not apply to the deposit and the supply or acquisition is made for a period or on a progressive basis, it will be treated as a part or advance payment and attribution will be in accordance with Division 156.
 118. If Division 99 does apply to the deposit and the supply or acquisition is made for a period or on a progressive basis, then the other payments will be attributed in accordance with Division 156, and the deposit will be attributed to the tax period in which it is forfeited or applied as consideration for the supply or acquisition.
 Example 11
 119.
-Alpha Ltd contracts for the construction of four industrial shredders to be delivered progressively.  As they are a unique design, Alpha Ltd is required
+Alpha Ltd contracts for the construction of four industrial shredders to be delivered progressively. As they are a unique design, Alpha Ltd is required
 to
 pay a deposit of 20 per cent of the contract price, and the balance will be paid in four further instalments
 .
 120.
-If Alpha Ltd cancels the order, the deposit is forfeited.  If the contract proceeds to completion, the deposit will be applied against the last instalment.  Division 99 will apply to the deposit, and Division 156 will apply to the other four payments
+If Alpha Ltd cancels the order, the deposit is forfeited. If the contract proceeds to completion, the deposit will be applied against the last instalment. Division 99 will apply to the deposit, and Division 156 will apply to the other four payments
 .
 Retentions
-121. Terms of contracts providing for retention amounts are common in building and construction contracts.  Under the usual terms of a building and construction contract that provide for retention amounts, the recipient of the supply withholds the retention amount from the total amount payable.  The retention amount provides the recipient with a means to ensure that the supplier will satisfactorily perform its obligations under the contract.
-122. If you make a taxable supply or a creditable acquisition that is made for a period or on a progressive basis, and if the consideration that is to be provided on a progressive or periodic basis includes a retention amount, Division 156 will apply.  The GST or input tax credits in respect of the retention amount will be attributed to the tax period in which it is paid.
-123. If Division 156 does not apply to a written contract including a retention amount, then the basic attribution rules apply.  However, the Commissioner has made a determination under section 29-25 in relation to such supplies and acquisitions.
+121. Terms of contracts providing for retention amounts are common in building and construction contracts. Under the usual terms of a building and construction contract that provide for retention amounts, the recipient of the supply withholds the retention amount from the total amount payable. The retention amount provides the recipient with a means to ensure that the supplier will satisfactorily perform its obligations under the contract.
+122. If you make a taxable supply or a creditable acquisition that is made for a period or on a progressive basis, and if the consideration that is to be provided on a progressive or periodic basis includes a retention amount, Division 156 will apply. The GST or input tax credits in respect of the retention amount will be attributed to the tax period in which it is paid.
+123. If Division 156 does not apply to a written contract including a retention amount, then the basic attribution rules apply. However, the Commissioner has made a determination under section 29-25 in relation to such supplies and acquisitions.
 [17]
 Detailed contents list
 124. Below is a detailed contents list for this Ruling:
@@ -477,10 +475,10 @@ Section 156-15 of the GST Act deals with progressive or periodic supplies partly
 Subsection 29-5(1) of the GST Act.
 [4]
 There is no requirement to hold a tax invoice if the value of the taxable supply to you was $75 or less (subsection 29-80(1)), or in circumstances where the Commissioner has determined under subsection 29-10(3) that an input tax credit is attributable to a tax period without the recipient being required to hold a tax invoice. See Goods and Services Tax Ruling GSTR 2013/1
-Goods and services tax:  tax invoices
+Goods and services tax: tax invoices
 .
 [5]
-See Attachment A, Division 156  Decision Tree.
+See Attachment A, Division 156 Decision Tree.
 [6]
 See GSTR 2013/1.
 [7]
@@ -489,7 +487,7 @@ Section 156-22 of the GST Act.
 Explanatory Memorandum to the Tax Laws Amendment (2011 Measures No. 9) Bill 2011.
 [8]
 See Goods and Services Tax Ruling GSTR 2000/29
-Goods and services tax:  attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
+Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
 at paragraphs 105A to 105B and 192 to 207.
 [9]
 See
@@ -529,7 +527,7 @@ A New Tax System (Goods and Services Tax) Act 1999 (Particular Attribution Rules
 Previously released in draft form as GSTR 2000/D18
 References
 ATO references:
-NO  T2000/009179
+NO T2000/009179
 ISSN 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
@@ -558,37 +556,37 @@ unidentifiable components
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A99  9-10
-ANTS(GST)A99  11-10
-ANTS(GST)A99  29
-ANTS(GST)A99  29-5
-ANTS(GST)A99  29-5(1)
-ANTS(GST)A99  29-5(1)(b)
-ANTS(GST)A99  29-10
-ANTS(GST)A99  29-10(1)
-ANTS(GST)A99  29-10(1)(b)
-ANTS(GST)A99  29-10(3)
-ANTS(GST)A99  29-25
-ANTS(GST)A99  29-70(1)
-ANTS(GST)A99  45-5
-ANTS(GST)A99  Div 29
-ANTS(GST)A99  Div 99
-ANTS(GST)A99  Div 129
-ANTS(GST)A99  Div 156
-ANTS(GST)A99  156-5(1)
-ANTS(GST)A99  156-5(1)(a)
-ANTS(GST)A99  156-5(2)
-ANTS(GST)A99  156-10
-ANTS(GST)A99  156-10(1)
-ANTS(GST)A99  156-10(1)(a)
-ANTS(GST)A99  156-10(1)(b)
-ANTS(GST)A99  156-10(2)
-ANTS(GST)A99  156-15
-ANTS(GST)A99  156-20
-ANTS(GST)A99  156-22
-ANTS(GST)A99  156-23
-ANTS(GST)A99  156-25
-ANTS(GST)A99  Ch 4
+ANTS(GST)A99 9-10
+ANTS(GST)A99 11-10
+ANTS(GST)A99 29
+ANTS(GST)A99 29-5
+ANTS(GST)A99 29-5(1)
+ANTS(GST)A99 29-5(1)(b)
+ANTS(GST)A99 29-10
+ANTS(GST)A99 29-10(1)
+ANTS(GST)A99 29-10(1)(b)
+ANTS(GST)A99 29-10(3)
+ANTS(GST)A99 29-25
+ANTS(GST)A99 29-70(1)
+ANTS(GST)A99 45-5
+ANTS(GST)A99 Div 29
+ANTS(GST)A99 Div 99
+ANTS(GST)A99 Div 129
+ANTS(GST)A99 Div 156
+ANTS(GST)A99 156-5(1)
+ANTS(GST)A99 156-5(1)(a)
+ANTS(GST)A99 156-5(2)
+ANTS(GST)A99 156-10
+ANTS(GST)A99 156-10(1)
+ANTS(GST)A99 156-10(1)(a)
+ANTS(GST)A99 156-10(1)(b)
+ANTS(GST)A99 156-10(2)
+ANTS(GST)A99 156-15
+ANTS(GST)A99 156-20
+ANTS(GST)A99 156-22
+ANTS(GST)A99 156-23
+ANTS(GST)A99 156-25
+ANTS(GST)A99 Ch 4
 TAA 1953 Sch 1 Div 358
 Tax Laws Amendment (2011 Measures No.9) Act 2012 Pt 3, Sch 3
 Case References:

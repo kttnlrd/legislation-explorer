@@ -7,15 +7,15 @@ paragraph: "None"
 ---
 # 11-300 - Taxpayers right to information
 
-Worked example: Taxpayer’s right to information Issue Sayed Pont, an engineer, received a notice of assessment for the 2023–24 income year on 11 December 2024. In assessing Sayed, the ATO disallowed various deduction claims and imposed penalty tax for failing to take reasonable care.
+Worked example: Taxpayer's right to information Issue Sayed Pont, an engineer, received a notice of assessment for the 2023–24 income year on 11 December 2024. In assessing Sayed, the ATO disallowed various deduction claims and imposed penalty tax for failing to take reasonable care.
 
 Sayed wants to challenge the assessment but believes that the lack of information makes it very difficult to show that the assessment is excessive or has been invalidly made. He asks whether he has the right to obtain a copy from the ATO of the relevant documents, and his rights of discovery as to the method by which the ATO arrived at his taxable income.
 
 Solution The income tax legislation does not specifically require the Commissioner to provide information to a taxpayer.
 
-Sayed’s best chance of obtaining a copy of the information in the possession of the ATO is to use the Freedom of Information Act 1982 (Cth) (FOI Act). Under the FOI Act, every person has a legally enforceable right to access a “non-exempt document” held by a Commonwealth agency such as the ATO.
+Sayed's best chance of obtaining a copy of the information in the possession of the ATO is to use the Freedom of Information Act 1982 (Cth) (FOI Act). Under the FOI Act, every person has a legally enforceable right to access a "non-exempt document" held by a Commonwealth agency such as the ATO.
 
-A request for information, which is free, must be in writing and preferably made on the “Request under the Freedom of Information Act 1982” form available on the ATO website.
+A request for information, which is free, must be in writing and preferably made on the "Request under the Freedom of Information Act 1982" form available on the ATO website.
 
 The FOI Act has been used by taxpayers in a number of cases to gain access to ATO documents, for example:
 

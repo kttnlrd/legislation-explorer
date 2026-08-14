@@ -27,7 +27,7 @@ This relief is available for the transfer of assets as part of a change of legal
 
 - an entity transfers an asset to one or more other entities
 
-- the transaction is, or is part of, a “genuine restructure” of an ongoing business
+- the transaction is, or is part of, a "genuine restructure" of an ongoing business
 
 - each of the parties to the transaction falls within one of the following categories:
 
@@ -61,7 +61,7 @@ The following features may indicate a transaction is, or is part of, a genuine r
 
 - it is authentically restructuring the way in which the business is conducted as opposed to a
 
-“divestment” or preliminary step to facilitate the economic realisation of assets
+"divestment" or preliminary step to facilitate the economic realisation of assets
 
 - the economic ownership of the business and its restructured assets is maintained
 
@@ -81,7 +81,7 @@ In addition, there is a safe harbour rule that provides the transaction will be 
 
 - there is no significant or material use of those significant assets for private purposes (s 328-435).
 
-The effect of applying the roll-over is that a restructure is capable of being achieved in a tax-neutral way with regard to income tax. The CGT effect of applying the roll-over is as follows: (a) the CGT asset is treated as being transferred for an amount equal to the transferor’s cost base of the asset just before the transfer, thereby preventing any capital gain or loss from arising (s 328-455(2) (a)) (b) any pre-CGT asset transferred maintains its pre-CGT status (s 328-460), and (c) for the purpose of determining whether there will be a discount capital gain in the future, the transferee will be treated as having acquired the CGT asset at the time of the transfer.
+The effect of applying the roll-over is that a restructure is capable of being achieved in a tax-neutral way with regard to income tax. The CGT effect of applying the roll-over is as follows: (a) the CGT asset is treated as being transferred for an amount equal to the transferor's cost base of the asset just before the transfer, thereby preventing any capital gain or loss from arising (s 328-455(2) (a)) (b) any pre-CGT asset transferred maintains its pre-CGT status (s 328-460), and (c) for the purpose of determining whether there will be a discount capital gain in the future, the transferee will be treated as having acquired the CGT asset at the time of the transfer.
 
 Effective roll-over relief also applies to the trading stock, revenue assets and depreciating assets (s 328-455).
 

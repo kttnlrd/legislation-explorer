@@ -7,7 +7,7 @@ paragraph: "¶18-260"
 ---
 # Example: averaging adjustment — extra income tax ¶18-260
 
-The following example illustrates the operation of the averaging system where the primary producer is liable to pay extra tax on the averaging component of the producer’s basic taxable income. The steps in the example follow the same sequence as those in the step-by-step process explained at ¶18-210. It is assumed that the taxpayer is a resident, so the appropriate rates of tax to be applied are those set out at ¶42-000, and eligibility for the rebate for low income earners (¶15-300) is ignored.
+The following example illustrates the operation of the averaging system where the primary producer is liable to pay extra tax on the averaging component of the producer's basic taxable income. The steps in the example follow the same sequence as those in the step-by-step process explained at ¶18-210. It is assumed that the taxpayer is a resident, so the appropriate rates of tax to be applied are those set out at ¶42-000, and eligibility for the rebate for low income earners (¶15-300) is ignored.
 
 Example For the income year ended 30 June 2024, Clive, a primary producer, has a taxable income of $22,000 of which $16,000 is taxable primary production income. He has an average income of $23,000 and no dependants.
 
@@ -27,13 +27,13 @@ averaging component gross averaging amount × basic taxable income The gross ave
 
 Step 6: Calculate tax payable including the extra tax derived at Step 5.
 
-The tax payable on Clive’s taxable income of $22,000 is $608.
+The tax payable on Clive's taxable income of $22,000 is $608.
 
-The extra tax of $115 will increase Clive’s total tax liability to $723. This does not take into account any rebates, oﬀsets or credits to which he may be entitled. Clive may be liable for the Medicare levy (¶2-330).
+The extra tax of $115 will increase Clive's total tax liability to $723. This does not take into account any rebates, oﬀsets or credits to which he may be entitled. Clive may be liable for the Medicare levy (¶2-330).
 
 ## The comparison rate of tax is calculated as follows:
 
-## Clive’s averaging component is calculated as follows:
+## Clive's averaging component is calculated as follows:
 
 ## The tax payable on the basic taxable income at the comparison rate is:
 

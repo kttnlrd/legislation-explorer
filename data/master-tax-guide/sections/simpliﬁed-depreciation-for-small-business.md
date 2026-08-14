@@ -7,7 +7,7 @@ paragraph: "¶7-250"
 ---
 # Simpliﬁed depreciation for small business ¶7-250
 
-Small business entities can choose to deduct amounts for most of their depreciating assets under a special depreciation regime (“small business depreciation”).
+Small business entities can choose to deduct amounts for most of their depreciating assets under a special depreciation regime ("small business depreciation").
 
 Small business depreciation The simpliﬁed regime for calculating capital allowances on depreciating assets is contained in ITAA97 Subdiv 328-D. Small business entities that choose to use this regime are not subject to the provisions of ITAA97 Div 40 (ITAA97 s 328-175). Under the simpliﬁed regime, small business entities have access to an immediate write-oﬀ for low-cost depreciating assets and a simple pooling facility for other depreciating assets (ITAA97 s 328-180). Simpliﬁed methods are also provided for balancing adjustments relating to the disposal of assets and for dealing with assets that are only partly used for business purposes. Depreciating assets that are not deductible under Div 40, including those excluded by ITAA97 s 40-45 (capital works, pre-21 September 1999 IRUs and Australian ﬁlms) and 40-27 (second-hand assets in residential premises), are also excluded from small business depreciation (¶17-030, ¶17-012), as are assets for which a deduction was available under the R&D provisions.
 
@@ -21,13 +21,13 @@ Assets costing less than the relevant instant asset write-oﬀ threshold are wri
 
 The proposed extension of the $20,000 threshold to 30 June 2025 was removed by the Senate from Treasury Laws Amendment (Responsible Buy Now Pay Later and Other Measures) Bill 2024. While there is a proposal to insert the changes in the Treasury Laws Amendment (Tax Incentives and Integrity) Bill 2024, this has not yet occurred. Unless this is passed, the threshold for immediate deductions under the instant asset write-oﬀ is $1,000 from 1 July 2024 (ITTPA s 328-180).
 
-The deduction is limited to the taxable purpose proportion (see below) of the asset’s cost. For example, if an asset that is newly acquired for $800 is to be used 60% for business purposes, the deduction will be $480. However, if it is to be used only for business purposes, the deduction will be $800. Unpooled low-cost assets that were held before the taxpayer chose to apply small business depreciation do not qualify for the immediate deduction but may be pooled.
+The deduction is limited to the taxable purpose proportion (see below) of the asset's cost. For example, if an asset that is newly acquired for $800 is to be used 60% for business purposes, the deduction will be $480. However, if it is to be used only for business purposes, the deduction will be $800. Unpooled low-cost assets that were held before the taxpayer chose to apply small business depreciation do not qualify for the immediate deduction but may be pooled.
 
 For the acquisition of a car, the deduction available is subject to the car cost depreciation limit (¶43-110).
 
 Where a taxpayer claimed an immediate deduction for a low-cost asset in an income year and in a subsequent income year while still a small business entity ﬁrst incurs a second element cost on the asset, the taxpayer can claim an immediate deduction for the second element cost where the cost was incurred at the time when it is less than the relevant threshold detailed above.
 
-Where the second element cost equals or exceeds the relevant threshold for immediate deduction, or the taxpayer was previously entitled to a deduction for a second element cost on the asset, the cost is included in the pool (s 328-180(3)). For these purposes, the second element of the cost is treated as the asset’s adjustable value (s 328-180(4)). The asset is included in the pool even if the cost addition occurs during an income year in which the taxpayer is not a small business entity or does choose to apply simpliﬁed depreciation (s 328-180(5)).
+Where the second element cost equals or exceeds the relevant threshold for immediate deduction, or the taxpayer was previously entitled to a deduction for a second element cost on the asset, the cost is included in the pool (s 328-180(3)). For these purposes, the second element of the cost is treated as the asset's adjustable value (s 328-180(4)). The asset is included in the pool even if the cost addition occurs during an income year in which the taxpayer is not a small business entity or does choose to apply simpliﬁed depreciation (s 328-180(5)).
 
 Small business depreciation pools Subject to limited exceptions, depreciating assets (other than buildings) that are not entitled to an immediate deduction are automatically pooled in a single depreciating pool (ITAA97 s 328-185).
 
@@ -39,29 +39,29 @@ Assets are allocated to a small business pool at their GST-exclusive cost if the
 
 Taxpayers who are subject to the alienation of personal services income provisions (¶30-600) cannot allocate more than one vehicle with a private use component to a small business pool (ITAA97 ss 86-70; 328-235).
 
-Business and private use Under small business depreciation, taxpayers are required to estimate the extent that they will use a depreciating asset for assessable income-producing purposes. This business use percentage (the “taxable purpose proportion”), multiplied by the asset’s cost (or adjustable value, where appropriate) represents the amount that is available for inclusion in a pool. The example in s 328-205(4) illustrates the taxable purpose proportion concept.
+Business and private use Under small business depreciation, taxpayers are required to estimate the extent that they will use a depreciating asset for assessable income-producing purposes. This business use percentage (the "taxable purpose proportion"), multiplied by the asset's cost (or adjustable value, where appropriate) represents the amount that is available for inclusion in a pool. The example in s 328-205(4) illustrates the taxable purpose proportion concept.
 
-Where a taxpayer’s latest estimate of an asset’s business use percentage changes by more than 10 percentage points, an adjustment to the opening balance of the pool is required (ITAA97 s 328-225).
+Where a taxpayer's latest estimate of an asset's business use percentage changes by more than 10 percentage points, an adjustment to the opening balance of the pool is required (ITAA97 s 328-225).
 
 Adjustments are optional if the asset has been pooled for at least 3 income years after the income year it was allocated.
 
-Deductions for pooled assets The annual depreciation deduction for a pool is calculated under ITAA97 s 328-190 by multiplying the pool’s opening balance by the depreciation rate of 30%. Further, subject to special rules for accelerated depreciation detailed below, deductions of 15% are allowed for the taxable purpose proportions of:
+Deductions for pooled assets The annual depreciation deduction for a pool is calculated under ITAA97 s 328-190 by multiplying the pool's opening balance by the depreciation rate of 30%. Further, subject to special rules for accelerated depreciation detailed below, deductions of 15% are allowed for the taxable purpose proportions of:
 
 - assets added to the pool during the year, regardless of when in the year the assets were
 
   acquired, and
 
-- additional depreciable expenditure (“cost addition amounts”) incurred during the year on existing
+- additional depreciable expenditure ("cost addition amounts") incurred during the year on existing
 
   pooled assets.
 
 A deduction for the entire balance of the small business depreciation pool can be claimed in an income year, where the balance of the pool prior to the calculation of the depreciation for that income year is less than the applicable threshold for that income year (ITAA97 s 328-210).
 
-Disposal of depreciating asset A “balancing adjustment event” occurs when the taxpayer disposes of a depreciating asset. If the asset is a low-value asset for which an immediate deduction was obtained, the taxable purpose proportion of the “termination value” (broadly, the disposal proceeds) is included in the taxpayer’s assessable income. If it is a pooled asset, the taxable purpose proportion of the asset’s termination value is subtracted from the pool. For the meaning of “termination value”, see ¶17-640.
+Disposal of depreciating asset A "balancing adjustment event" occurs when the taxpayer disposes of a depreciating asset. If the asset is a low-value asset for which an immediate deduction was obtained, the taxable purpose proportion of the "termination value" (broadly, the disposal proceeds) is included in the taxpayer's assessable income. If it is a pooled asset, the taxable purpose proportion of the asset's termination value is subtracted from the pool. For the meaning of "termination value", see ¶17-640.
 
-Where a pooled asset’s business use estimate has been adjusted, the taxpayer is required to use an average of the asset’s current and previous business use estimates to work out the taxable purpose proportion of the termination value.
+Where a pooled asset's business use estimate has been adjusted, the taxpayer is required to use an average of the asset's current and previous business use estimates to work out the taxable purpose proportion of the termination value.
 
-Where the year-end pool balance would otherwise be less than zero (due to balancing adjustment events), the negative amount is added to assessable income and the pool’s closing balance then becomes zero.
+Where the year-end pool balance would otherwise be less than zero (due to balancing adjustment events), the negative amount is added to assessable income and the pool's closing balance then becomes zero.
 
 Unless the conditions of CGT event K7 are satisﬁed, any capital gain or loss arising from the disposal of an asset is disregarded if the taxpayer has deducted an amount for the asset under the small business depreciation provisions during the year of the balancing adjustment event (ITAA97 s 104-235; ¶11-350).
 
@@ -80,7 +80,7 @@ Roll-over relief Optional roll-over relief applies for changes in partnership in
 
   change (s 328-243).
 
-This means that roll-over relief would apply if a sole trader takes on a new partner, or if a partner leaves a partnership and the remaining partner carries on as a sole trader. However, roll-over relief is not available if all the assets that were allocated to the partnership’s general small business pool are disposed of to the former partners and, just after the disposals, no single former partner has an interest in each of the assets that were allocated to the pool (ID 2011/99).
+This means that roll-over relief would apply if a sole trader takes on a new partner, or if a partner leaves a partnership and the remaining partner carries on as a sole trader. However, roll-over relief is not available if all the assets that were allocated to the partnership's general small business pool are disposed of to the former partners and, just after the disposals, no single former partner has an interest in each of the assets that were allocated to the pool (ID 2011/99).
 
 The roll-over must be used for all assets in the pool. If there has been roll-over relief, any deduction (or assessable amount) is split between the transferor and the transferee equally (unless the asset is ﬁrst used or installed ready for use by the transferee). If more than one roll-over has occurred, any deduction (or assessable amount) is split equally between all entities concerned. This also applies to cost addition amounts incurred by the transferor (but amounts incurred by the transferee are deductible to the transferee).
 
@@ -94,7 +94,7 @@ Leased assets Leased assets (including assets that are reasonably expected to be
 
 Existing assets in non-small business pools Deductions are not available under the small business depreciation regime for assets that were allocated to a low-value pool before the taxpayer started using small business depreciation (¶17-810) or a software development pool (¶17-370). Deductions for these assets continue to be covered by Div 40.
 
-Ceasing to apply small business depreciation If a taxpayer ceases to apply the small business depreciation for an income year, the small business depreciation rules continue to apply to the taxpayer’s existing small business depreciation pools for that year and later years, including the write-oﬀ of a pool balance less than the relevant threshold. This applies even if the entity has ceased to hold the asset or to carry on business, provided the taxpayer continues to exist.
+Ceasing to apply small business depreciation If a taxpayer ceases to apply the small business depreciation for an income year, the small business depreciation rules continue to apply to the taxpayer's existing small business depreciation pools for that year and later years, including the write-oﬀ of a pool balance less than the relevant threshold. This applies even if the entity has ceased to hold the asset or to carry on business, provided the taxpayer continues to exist.
 
 However, assets cannot be added to a small business pool while the taxpayer is not using the small business depreciation regime, subject to the rule for second element costs detailed above.
 

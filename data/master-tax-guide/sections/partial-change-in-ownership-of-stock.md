@@ -27,7 +27,7 @@ Agreement between old and new owners The old and new owners may agree to adopt t
 
   the change of ownership.
 
-Example: Agreement to dispose of stock at tax value On 30 June, Karen and Cindy, equal partners in a manufacturing business, admit Tina as a full partner, each selling ⅓ of their interest in the total partnership assets to Tina. As at 30 June, the closing value at cost of the partnership’s stock on hand was $3,000, its market value $5,000. As there is a 66⅔% continuity of interest of Karen and Cindy in the new partnership of Karen, Cindy and Tina, they may make an agreement under s 70-100(4).
+Example: Agreement to dispose of stock at tax value On 30 June, Karen and Cindy, equal partners in a manufacturing business, admit Tina as a full partner, each selling ⅓ of their interest in the total partnership assets to Tina. As at 30 June, the closing value at cost of the partnership's stock on hand was $3,000, its market value $5,000. As there is a 66⅔% continuity of interest of Karen and Cindy in the new partnership of Karen, Cindy and Tina, they may make an agreement under s 70-100(4).
 
 If no agreement is made, for tax purposes the old partnership is deemed to have sold, and the new partnership to have purchased, the trading stock for its market value (¶9-290) of $5,000. Karen and Cindy, as the partners in the old partnership, are assessed on the proﬁt of $2,000 (ie $5,000 − $3,000).
 
@@ -49,9 +49,9 @@ If an agreement is made, for tax purposes the old partnership is deemed to have 
 
 - where trading stock is distributed to a deceased estate (ID 2002/625).
 
-Section 70-100 does not require that the item transferred become trading stock in the hands of the new owners. Nor does s 70-100 necessarily apply only to transactions outside the ordinary course of business (Westraders 80 ATC 4357; [1980] HCA 24). There is no notional trading stock disposal under s 70-100 if a newly admitted partner does not purchase any part of the old partners’ interests in the partnership trading stock.
+Section 70-100 does not require that the item transferred become trading stock in the hands of the new owners. Nor does s 70-100 necessarily apply only to transactions outside the ordinary course of business (Westraders 80 ATC 4357; [1980] HCA 24). There is no notional trading stock disposal under s 70-100 if a newly admitted partner does not purchase any part of the old partners' interests in the partnership trading stock.
 
-Granting an option to purchase the taxpayer’s interest in trading stock does not amount to a change in ownership of the stock for the purposes of s 70-100 (Glenﬁeld Estates 88 ATC 4548; [1988] FCA 262).
+Granting an option to purchase the taxpayer's interest in trading stock does not amount to a change in ownership of the stock for the purposes of s 70-100 (Glenﬁeld Estates 88 ATC 4548; [1988] FCA 262).
 
 Application to trusts The Commissioner has issued a number of taxation determinations dealing with the application of s 70-100 in situations involving trusts (former s 36A(2)). According to the Commissioner, s 70-100 can apply if a partnership transfers trading stock to the trustee of a unit trust in which the former partners of the partnership hold at least 25% of the units, provided the trust deed speciﬁes that unitholders have a proprietary interest in the underlying assets of the trust (TD 96/4). Section 70-100 can also apply where a sole trader transfers trading stock to a partnership comprising the sole trader and the trustee of a discretionary trust, and that partnership in turn transfers the trading stock to the trustee of the discretionary trust. Such an arrangement should expect to be scrutinised, particularly if it appears to be contrived to exploit tax beneﬁts arising from the application of s 70-100 (TD 96/3).
 

@@ -28,9 +28,9 @@ compilation_date: 2026-06-06
 
 **No deduction on account of claims**
 
-**(2)**  For an insurer’s general insurance contracts, the insurer is denied a deduction relating to the insurer’s outstanding claims liability or for a claim’s expenditure or loss, except as provided by this section.
+**(2)**  For an insurer's general insurance contracts, the insurer is denied a deduction relating to the insurer's outstanding claims liability or for a claim's expenditure or loss, except as provided by this section.
 
-**Formula for insurer’s OCR deduction**
+**Formula for insurer's OCR deduction**
 
 **(3)**  For an income year (the current year), an insurer is allowed a deduction for the amount by which zero is greater than the amount calculated using the formula— opening outstanding claims reserve − closing outstanding claims reserve.
 
@@ -40,15 +40,15 @@ compilation_date: 2026-06-06
 
 - (a) opening outstanding claims reserve is—
 
-  - (i) the amount of the insurer’s closing outstanding claims reserve for the income year before the current year (the prior year), if none of subparagraphs (ii), (iii), and (iv) applies; or
+  - (i) the amount of the insurer's closing outstanding claims reserve for the income year before the current year (the prior year), if none of subparagraphs (ii), (iii), and (iv) applies; or
 
-  - (ii) the amount of the insurer’s reserve for outstanding claims liability, calculated at the end of the prior year, using the basis the insurer used for tax purposes in that prior year, if the current year is the first year that this section applies to the insurer; or
+  - (ii) the amount of the insurer's reserve for outstanding claims liability, calculated at the end of the prior year, using the basis the insurer used for tax purposes in that prior year, if the current year is the first year that this section applies to the insurer; or
 
-  - (iii) the amount of the insurer’s reserve for outstanding claims liability, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year for general insurance contracts, if the insurer is a general insurer and the current year is the first year in which the insurer adopts IFRS 17 for general insurance contracts; or
+  - (iii) the amount of the insurer's reserve for outstanding claims liability, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year for general insurance contracts, if the insurer is a general insurer and the current year is the first year in which the insurer adopts IFRS 17 for general insurance contracts; or
 
-  - (iv) the amount of the insurer’s reserve for outstanding claims liability, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year for general insurance contracts, if the insurer is a life insurer with general insurance contracts who does not adopt IFRS 17 in the current year and the current year is the first year in which the insurer applies the definition of present value (gross) in section EY 24(5) (Outstanding claims reserving amount: non-participation policies not annuities):
+  - (iv) the amount of the insurer's reserve for outstanding claims liability, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year for general insurance contracts, if the insurer is a life insurer with general insurance contracts who does not adopt IFRS 17 in the current year and the current year is the first year in which the insurer applies the definition of present value (gross) in section EY 24(5) (Outstanding claims reserving amount: non-participation policies not annuities):
 
-- (b) closing outstanding claims reserve is the amount of the insurer’s outstanding claims reserve, calculated at the end of the current year.
+- (b) closing outstanding claims reserve is the amount of the insurer's outstanding claims reserve, calculated at the end of the current year.
 
 **Contracts transferred to insurer**
 

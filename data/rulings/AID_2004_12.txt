@@ -3,21 +3,16 @@ ATO ID 2004/12
 ==================================================
 
 Income Tax
-        Consolidation:- limit on utilisation of concessional losses
-        FOI status: may be released
-
+ Consolidation:- limit on utilisation of concessional losses
+ FOI status: may be released
 
 This ATO ID has been amended to clarify references in the Decision to losses after the third year, and to include an additional condition regarding transitional foreign loss-makers in the Facts.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxpayer, a head company of a consolidated group, subject to any restrictions on the utilisation of transferred losses after the third income year ending after the losses were transferred, where the utilisation of those losses is affected by section 707-350 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997)?
@@ -27,8 +22,6 @@ Facts
 A consolidated group comprising of Company A (head company) and Company B (its wholly-owned subsidiary) forms before 1 July 2004.
 A bundle of losses incurred by Company B (the real loss-maker) are transferred to Company A at the date of consolidation.
 Some of the transferred losses in this bundle are concessional losses because they satisfy the conditions in subsection 707-350(1) of the IT(TP)A 1997:
-
-
 
 •they were incurred by the real loss-maker for an income year ending on or before 21 September 1999,
 •they were transferred before 1 July 2004 at the time the consolidated group formed,
@@ -47,18 +40,16 @@ If, after the third income year, the group still has undeducted losses of this s
 Utilisation of concessional losses for an income year is limited to the maximum amount calculated by the table in subsection 707-350(3) of the IT(TP)A 1997. That subsection effectively requires that the total amount of concessional losses of each sort in a bundle is divided into three equal portions. The head company can only utilise a maximum of one portion (that is, one third) of those losses in the first year. In the second income year the head company can utilise the difference between 2/3 of those losses and the amount of those losses utilised in the first income year.
 Any amount of a loss that remains unutilised at the end of the second income year is not subject to any further restriction with respect to the limit in subsequent income years. Item 3 in the table in subsection 707-350(3) of the IT(TP)A 1997 applies to the third income year ending after the initial transfer time, or a later income year. The loss that is available to be utilised is the maximum difference between:
 
-
-
 • the total amount of the loss; and
 • the total amount of the loss utilised for earlier income years ending after the initial transfer time.
 
 No further restrictions apply.
 In this case, Company A has not fully utilised a concessional loss in the bundle by the end of the third year. Item 3 in the table in subsection 707-350(3) of the IT(TP)A 1997 determines that the maximum amount of losses available for utilisation in the third and subsequent income years, is the amount not yet utilised.
 Date of decision:
-         5 December 2003
+  5 December 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -72,21 +63,20 @@ Other References:
 Keywords
 
 Concessional losses
-          Consolidation
-          Consolidation - continuity of ownership test
-          Consolidation - losses
-          Transferred losses
-          Unused carry forward losses
-
+ Consolidation
+ Consolidation - continuity of ownership test
+ Consolidation - losses
+ Transferred losses
+ Unused carry forward losses
 
 Siebel/TDMS Reference Number:
-         3687213
+  3687213
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         16 January 2004
+  16 January 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

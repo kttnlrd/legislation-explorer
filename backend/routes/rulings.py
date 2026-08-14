@@ -6,13 +6,12 @@ import logging
 from pathlib import Path
 
 from fastapi import HTTPException, APIRouter
-from fastapi.responses import FileResponse, HTMLResponse
+from fastapi.responses import FileResponse
 
-from ..config import DATA_DIR, RULING_DIR, ATO_RULING_DIR
+from ..config import DATA_DIR
 from ..services.data_loader import (
     load_rulings, get_act_section_content, load_ruling_section_refs
 )
-from ..services.text_cleaner import clean_ruling_body
 
 logger = logging.getLogger(__name__)
 
@@ -65,6 +64,19 @@ TYPE_DISPLAY: dict[str, str] = {
     "TR": "TR – Tax Ruling",
 }
 
+def _tree_title(r: dict) -> str:
+    """Short title for tree sidebar — citation + truncated description."""
+    base = r.get("citation_display", r["citation"])
+    full = r.get('full_title', '')
+    if full and full != r.get("title", "") and 'Legal database' not in full:
+        # Truncate to 120 chars for tree display
+        short = full[:120].rsplit(' ', 1)[0] if len(full) > 120 else full
+        base = f"{base} — {short}"
+    if r.get('withdrawn'):
+        base += "  [WITHDRAWN]"
+    return base
+
+
 @router.get("/api/rulings-list")
 def list_rulings(group: str = "year"):
     """
@@ -110,7 +122,7 @@ def list_rulings(group: str = "year"):
                     "sections": [
                         {
                             "id": r["citation"],
-                            "title": r.get("citation_display", r["citation"]) + (f" — {r.get('full_title', '')}" if r.get('full_title') and r.get('full_title') != r["title"] and 'Legal database' not in r.get('full_title', '') else "") + ("  [WITHDRAWN]" if r.get('withdrawn') else ""),
+                            "title": _tree_title(r),
                             "path": r["citation"],
                             "ato_url": r.get("ato_url", ""),
                             "austlii_url": r.get("austlii_url", ""),
@@ -138,7 +150,7 @@ def list_rulings(group: str = "year"):
                     "sections": [
                         {
                             "id": r["citation"],
-                            "title": r.get("citation_display", r["citation"]) + (f" — {r.get('full_title', '')}" if r.get('full_title') and r.get('full_title') != r["title"] and 'Legal database' not in r.get('full_title', '') else "") + ("  [WITHDRAWN]" if r.get('withdrawn') else ""),
+                            "title": _tree_title(r),
                             "path": r["citation"],
                             "ato_url": r.get("ato_url", ""),
                             "austlii_url": r.get("austlii_url", ""),
@@ -156,27 +168,18 @@ def list_rulings(group: str = "year"):
 
 CITATION_ALIASES = {"LCR": "LCG", "AID": "ATOID"}
 
-_ATO_ID_STRIP = re.compile(
-    r'^(ATO\s+Interpretative\s+Decision\s*|ATO\s+ID\s+\d{4}/\d+\s*|=+\s*|File\s+Number\s*|FOI\s+status[^\\n]*|'
-    r'This\s+ATO\s+ID[^\\n]*|This\s+document[^\\n]*)',
-    re.IGNORECASE | re.MULTILINE
-)
+_FOI_RE = re.compile(r'^FOI\s+status\s*:.*$', re.IGNORECASE | re.MULTILINE)
 
-def _strip_ato_id_header(text: str) -> str:
-    """Remove redundant header lines from ATO ID content (they duplicate page-level metadata)."""
-    lines = text.splitlines()
-    # Find first substantive line that isn't a header
-    for i, line in enumerate(lines):
-        stripped = line.strip()
-        if not stripped:
-            continue
-        if re.match(r'^(ATO\s+Interpretative\s+Decision|ATO\s+ID\s+\d{4}/\d+|={3,})$', stripped, re.IGNORECASE):
-            continue
-        if re.match(r'^(File\s+Number|FOI\s+status)', stripped, re.IGNORECASE):
-            continue
-        # First substantive line found
-        return '\n'.join(lines[i:])
-    return text
+def _strip_foi(text: str) -> str:
+    """Remove FOI status lines from text."""
+    return _FOI_RE.sub('', text).strip()
+
+def _extract_decision(body: str) -> str:
+    """Extract the Yes/No decision from an ATOID body."""
+    m = re.search(r'Decision\s*\n(.*?)(?:\n\n|\n[A-Z][a-z]+\s*\n|\Z)', body, re.DOTALL)
+    if m:
+        return m.group(1).strip()
+    return ""
 
 @router.get("/api/ruling/{citation:path}/download")
 def download_ruling(citation: str):
@@ -237,8 +240,11 @@ def get_ruling(citation: str):
                         ato_url = r.get("ato_url", "")
                         break
 
-                # For ATO IDs, return structured data with notice + body
+                # For ATO IDs, return structured data with the full body text
+                # (ATOIDs are short — render them in full, summary box on top)
                 if summary.get("type") == "ATO Interpretative Decision" or summary.get("full_text"):
+                    body_raw = summary.get("body", "")
+                    decision = _extract_decision(body_raw)
                     return {
                         "frontmatter": {
                             "act": "ATO Rulings",
@@ -249,17 +255,19 @@ def get_ruling(citation: str):
                         "citation": summary.get("citation", ref),
                         "descriptive_title": summary.get("title", ""),
                         "question": summary.get("question", ""),
-                        "notice": summary.get("notice", ""),
-                        "body": summary.get("body", summary.get("full_text", "")),
+                        "decision": decision,
+                        "body": body_raw,
                         "type": "ATO ID",
                         "status": summary.get("status", "Final"),
                         "cases_referenced": summary.get("cases_referenced", []),
                         "legislation_referenced": summary.get("legislation_referenced", []),
                         "ato_url": ato_url,
                         "referenced_sections": [],
+                        "download_url": f"/api/ruling/{citation}/download",
                     }
 
-                # For full rulings, return structured data
+                # For full rulings, return structured data (summary only, no full body)
+                notice = _strip_foi(summary.get("notice", ""))
                 return {
                     "frontmatter": {
                         "act": "ATO Rulings",
@@ -272,7 +280,7 @@ def get_ruling(citation: str):
                     "subject": summary.get("subject", ""),
                     "background": summary.get("background", ""),
                     "ruling": summary.get("ruling", ""),
-                    "body": summary.get("body", ""),
+                    "notice": notice,
                     "type": summary.get("type", ""),
                     "status": summary.get("status", ""),
                     "date_of_effect": summary.get("date_of_effect", ""),
@@ -281,20 +289,17 @@ def get_ruling(citation: str):
                     "related_rulings": summary.get("related_rulings", []),
                     "ato_url": ato_url,
                     "referenced_sections": [],
+                    "download_url": f"/api/ruling/{citation}/download",
                 }
             except Exception:
                 pass  # Fall through to raw text
 
-    # Fall back to raw text from flat files
+    # Fall back to raw text from flat files — metadata only, no full body
     for r in _load_rulings():
         if r["citation"] in candidates:
             path = Path(r["source"])
             if path.exists():
-                content = path.read_text(encoding="utf-8")
-                content = _strip_ato_id_header(content)
                 referenced_sections = load_ruling_section_refs(citation)
-                cleaned = clean_ruling_body(content)
-                body = cleaned["body"]
                 return {
                     "frontmatter": {
                         "act": "ATO Rulings",
@@ -302,13 +307,13 @@ def get_ruling(citation: str):
                         "part": r["type"],
                         "division": str(r["year"]),
                     },
-                    "descriptive_title": cleaned["descriptive_title"],
-                    "body": body,
+                    "descriptive_title": r["title"],
                     "citation": r["citation"],
                     "type": r["type"],
                     "year": r["year"],
                     "ato_url": r.get("ato_url", ""),
                     "referenced_sections": referenced_sections,
+                    "download_url": f"/api/ruling/{citation}/download",
                 }
     raise HTTPException(status_code=404, detail=f"Ruling {citation} not found")
 

@@ -29,13 +29,13 @@ Solution Tax rebates are already available for individuals who receive eligible 
 
   in arrears rather than in the appropriate income years.
 
-However, neither of these 2 tax concessions reduce the ordinary amount of Medicare levy payable if a recipient receives a lump sum payment in arrears that was accrued in previous years that increases the individual’s current year Medicare levy liability as a result of the Medicare levy threshold being exceeded.
+However, neither of these 2 tax concessions reduce the ordinary amount of Medicare levy payable if a recipient receives a lump sum payment in arrears that was accrued in previous years that increases the individual's current year Medicare levy liability as a result of the Medicare levy threshold being exceeded.
 
-Previously, lump sum payments in arrears were included in an individual’s taxable income in the year of receipt for the calculation of their liability for the Medicare levy. However, as a result of changes made to s 9A of the Medicare Levy Act 1986, from 1 July 2024, lump sum payments in arrears received by individuals that comprise certain income are excluded from the calculation of the Medicare levy, provided certain conditions are met.
+Previously, lump sum payments in arrears were included in an individual's taxable income in the year of receipt for the calculation of their liability for the Medicare levy. However, as a result of changes made to s 9A of the Medicare Levy Act 1986, from 1 July 2024, lump sum payments in arrears received by individuals that comprise certain income are excluded from the calculation of the Medicare levy, provided certain conditions are met.
 
 This measure is intended to ensure that low income taxpayers will not be denied concessional Medicare levy treatment solely because of receiving an eligible lump sum payment, for example as compensation for underpaid wages.
 
-To qualify for the exemption of a lump sum payment in arrears for the Medicare levy, an individual’s assessable income for the year must include one or more eligible lump sum payments in arrears in addition to satisfying other criteria.
+To qualify for the exemption of a lump sum payment in arrears for the Medicare levy, an individual's assessable income for the year must include one or more eligible lump sum payments in arrears in addition to satisfying other criteria.
 
 Eligible lump sum is defined as:
 
@@ -59,9 +59,9 @@ Eligible lump sum is defined as:
 
   amounts.
 
-To qualify for the Medicare levy exemption, an individual’s assessable income for the year must include one or more eligible lump sum payments in arrears and satisfy the following:
+To qualify for the Medicare levy exemption, an individual's assessable income for the year must include one or more eligible lump sum payments in arrears and satisfy the following:
 
-- the amount of the total arrears amount must be 10% or more of the individual’s normal taxable income
+- the amount of the total arrears amount must be 10% or more of the individual's normal taxable income
 
   after the deduction of the total arrears amount, and
 
@@ -69,7 +69,7 @@ To qualify for the Medicare levy exemption, an individual’s assessable income 
 
 – their taxable income, adjusted by the amount of the lump sum accrued (but not received in that year), was below the relevant Medicare levy threshold for which no levy is payable or the Medicare levy phase in rate applies, or – they were a prescribed person for at least one day.
 
-The “total arrears amount” is defined as the total of the eligible lump sums included in the assessable income of a taxpayer that accrued in an earlier year or years of income. “Normal taxable income” is defined broadly as taxable income excluding certain:
+The "total arrears amount" is defined as the total of the eligible lump sums included in the assessable income of a taxpayer that accrued in an earlier year or years of income. "Normal taxable income" is defined broadly as taxable income excluding certain:
 
 - employment termination payments, unused leave payments and superannuation benefits and net
 

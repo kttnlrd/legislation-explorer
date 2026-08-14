@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
   - (ii) is treated by the person or its issuer, all or in part, as an equity instrument under IFRSs; or
 
-  - (iib) is, under NZ IFRS 16 and in the person’s financial statements, classified as an operating lease; or
+  - (iib) is, under NZ IFRS 16 and in the person's financial statements, classified as an operating lease; or
 
   - (iii) is a foreign ASAP that is life financial reinsurance; or
 

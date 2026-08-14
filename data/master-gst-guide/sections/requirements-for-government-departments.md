@@ -19,6 +19,6 @@ Government departments can form GST groups. The membership requirements for each
 
 - all the other members must be government departments (s 149-25).
 
-“Government departments” is used here as shorthand for the term “government related entity” which is used in the legislation (s 195-1). In broad terms, this covers Commonwealth, state and territory departments, agencies, statutory bodies and local governing bodies.
+"Government departments" is used here as shorthand for the term "government related entity" which is used in the legislation (s 195-1). In broad terms, this covers Commonwealth, state and territory departments, agencies, statutory bodies and local governing bodies.
 
 *Refs: s 149-25), s 195-1)*

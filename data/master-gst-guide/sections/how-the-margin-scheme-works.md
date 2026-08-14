@@ -7,7 +7,7 @@ paragraph: "¶11-100"
 ---
 # How the margin scheme works ¶11-100
 
-The margin scheme enables the GST on otherwise fully taxable sales of real property, including new residential property developments (¶11-020), to be calculated on a concessional basis (Div 75). th Normally, GST on a supply is calculated as 1/11 of the GST-inclusive price, and a GST registered purchaser can claim an input tax credit (ITC) for the GST component. Where the purchaser is not able to claim a GST credit — such as individuals buying a home — the GST component of the price can be significant, potentially affecting the property market. Sales under the margin scheme, calculate the GST on th the sale 1/11 of the “margin” (¶11-110), and no ITC is allowed to the purchaser.
+The margin scheme enables the GST on otherwise fully taxable sales of real property, including new residential property developments (¶11-020), to be calculated on a concessional basis (Div 75). th Normally, GST on a supply is calculated as 1/11 of the GST-inclusive price, and a GST registered purchaser can claim an input tax credit (ITC) for the GST component. Where the purchaser is not able to claim a GST credit — such as individuals buying a home — the GST component of the price can be significant, potentially affecting the property market. Sales under the margin scheme, calculate the GST on th the sale 1/11 of the "margin" (¶11-110), and no ITC is allowed to the purchaser.
 
 - the difference between the price for which the property is sold and the price paid for the property, for
 
@@ -21,7 +21,7 @@ The margin scheme enables the GST on otherwise fully taxable sales of real prope
 
 – a freehold interest (including a fractional interest of a co-owner (Nullagine Investments Pty Ltd v Western Australian Club Inc (1993) 177 CLR 635; GST Ruling GSTR 2006/8)) – a strata unit, or – the grant or sale of a long-term lease (¶11-060), and
 
-- both parties agree in writing that the margin scheme will apply (see “Documentation” below) (s 75-5).
+- both parties agree in writing that the margin scheme will apply (see "Documentation" below) (s 75-5).
 
   Margin scheme exclusions
 
@@ -59,9 +59,9 @@ The margin scheme cannot be applied to supplies by the seller where the seller a
 
   out:
 
-– the property was acquired GST-free as a supply of a going concern (¶11-500), a farm (¶11-410) or subdivided farm land (¶11-420), from an entity that was registered or required to be, and that entity had acquired it through a taxable supply on which GST was worked out without applying the margin scheme. For other rules applying where there are GST-free supplies, see ¶11-140 – the property was acquired from an associate for no consideration (¶17-500) and the associate was registered or required to be, where the supply by that associate was not a taxable supply in the course of an enterprise (¶4-090), and the associate had acquired the property through a taxable supply on which the GST was calculated not using the margin scheme. This exclusion can also apply where, for example, a government entity acquires the property for no consideration from an associate without the associate technically making a “supply”. For other rules applying to associates, see ¶11-140.
+– the property was acquired GST-free as a supply of a going concern (¶11-500), a farm (¶11-410) or subdivided farm land (¶11-420), from an entity that was registered or required to be, and that entity had acquired it through a taxable supply on which GST was worked out without applying the margin scheme. For other rules applying where there are GST-free supplies, see ¶11-140 – the property was acquired from an associate for no consideration (¶17-500) and the associate was registered or required to be, where the supply by that associate was not a taxable supply in the course of an enterprise (¶4-090), and the associate had acquired the property through a taxable supply on which the GST was calculated not using the margin scheme. This exclusion can also apply where, for example, a government entity acquires the property for no consideration from an associate without the associate technically making a "supply". For other rules applying to associates, see ¶11-140.
 
-These exclusions prevent arrangements under which taxpayers attempted to “refresh” their eligibility to use the margin scheme by interposing a GST-free or non-taxable supply before selling the property.
+These exclusions prevent arrangements under which taxpayers attempted to "refresh" their eligibility to use the margin scheme by interposing a GST-free or non-taxable supply before selling the property.
 
 The exclusions applicable to supplies made from 9 December 2008 do not apply if more than one GST-free or non- taxable sale is interposed, recognising the complexity that would arise if it were necessary to look back through multiple transactions. However, it is likely that the general anti-avoidance rules in Div 165 may apply in any event where there is a contrived arrangement designed to exploit this rule (¶20-040).
 

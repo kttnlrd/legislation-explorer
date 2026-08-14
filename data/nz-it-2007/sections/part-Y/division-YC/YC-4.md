@@ -16,11 +16,11 @@ compilation_date: 2026-06-06
 
 **Voting interest attributed to shareholders**
 
-**(2)**  Each person (the shareholder) who has a voting interest in the shareholder company is treated as having (to be added to any other percentage voting interest in the issuing company which the shareholder has) their portion of the shareholder company’s voting interest in the issuing company and the shareholder company is treated as not having that portion.
+**(2)**  Each person (the shareholder) who has a voting interest in the shareholder company is treated as having (to be added to any other percentage voting interest in the issuing company which the shareholder has) their portion of the shareholder company's voting interest in the issuing company and the shareholder company is treated as not having that portion.
 
-**Calculation of shareholder’s portion**
+**Calculation of shareholder's portion**
 
-**(3)**  The shareholder’s portion of the voting interest is calculated by multiplying the shareholder company’s voting interest in the issuing company by the shareholder’s voting interest in the shareholder company.
+**(3)**  The shareholder's portion of the voting interest is calculated by multiplying the shareholder company's voting interest in the issuing company by the shareholder's voting interest in the shareholder company.
 
 **When subsection (5) applies**
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Attributing market value interest to shareholders**
 
-**(5)**  Each person (the shareholder) who has a market value interest in the shareholder company is treated as having their portion of the shareholder company’s market value interest in the issuing company and the shareholder company is treated as not having that portion. The shareholder’s portion is added to any other percentage market value interest in the issuing company which the shareholder has at that time.
+**(5)**  Each person (the shareholder) who has a market value interest in the shareholder company is treated as having their portion of the shareholder company's market value interest in the issuing company and the shareholder company is treated as not having that portion. The shareholder's portion is added to any other percentage market value interest in the issuing company which the shareholder has at that time.
 
-**Calculation of shareholder’s portion**
+**Calculation of shareholder's portion**
 
-**(6)**  The shareholder’s portion of the market value interest is calculated by multiplying the shareholder company’s market value interest in the issuing company by the shareholder’s market value interest in the shareholder company.
+**(6)**  The shareholder's portion of the market value interest is calculated by multiplying the shareholder company's market value interest in the issuing company by the shareholder's market value interest in the shareholder company.
 
 **When subsection (8) applies**
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What is a tax loss?**
 
-**(1)**  A person’s tax loss for a tax year is found by adding together the amounts referred to in subsections (2) to (4).
+**(1)**  A person's tax loss for a tax year is found by adding together the amounts referred to in subsections (2) to (4).
 
 **Loss balances carried forward**
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
   - (i) an unused amount of a net loss or an amount treated as a net loss or as an available net loss of a person arising before the 2008–09 tax year which the person was entitled to have carried forward under section IE 1 (Net losses may be offset against future net income) of the Income Tax Act 2004 to that tax year:
 
-  - (ii) an amount included in a company’s loss balance at the end of the tax year to which sections IZ 4 to IZ 6 (which relate to tax losses for tax years before 1992) apply, or other amounts in relation to which modified continuity rules apply.
+  - (ii) an amount included in a company's loss balance at the end of the tax year to which sections IZ 4 to IZ 6 (which relate to tax losses for tax years before 1992) apply, or other amounts in relation to which modified continuity rules apply.
 
 *Defined in this Act: amount, annual gross income, attributed CFC net loss, Australian ICA company, company, deduction, FIF net loss, imputation credit, income, loss balance, net income, net loss, pay, supplementary dividend, tax loss, tax loss component, tax year, trustee, unused specified activity net loss*
 

@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
   - (i) when the company notifies the Commissioner, on the date on which the Commissioner receives the notice; or
 
-  - (ii) on the date set out in the Commissioner’s notice.
+  - (ii) on the date set out in the Commissioner's notice.
 
 **Outstanding obligations**
 

@@ -3,23 +3,18 @@ ATO ID 2001/463
 ==================================================
 
 Goods and Services Tax
-        GST and software down loaded from the Internet (recipient not registered nor required to be registered for GST)
-        FOI status: may be released
-
+ GST and software down loaded from the Internet (recipient not registered nor required to be registered for GST)
+ FOI status: may be released
 
 The ATO View on this issue is contained in Chapter 4 of the Electronic Commerce Industry Partnership - Issues register - Application of GST to supplies of digital products made to Australian recipients from non-resident suppliers (found on ato.gov.au).
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an Australian resident that is not registered for goods and services tax (GST) nor required to be registered for GST, liable for any GST amount under subsection 84-10(1) of the A New Tax System (Goods and Services) Act 1999 (GST Act), when it acquires software via the Internet from a non-resident supplier of digital products?
@@ -33,15 +28,11 @@ Reasons for Decision
 Division 84 of the GST Act applies to supplies not connected with Australia.
 Subsection 9-25(5) of the GST Act provides that a supply of anything other than goods or real property is connected with Australia if either:
 
-
-
 • the thing is done in Australia; or
 • the supplier makes the supply through an entity that the supplier carries on in Australia.
 
 In this case, the supply of the software to the entity is not connected with Australia because it is not prepared in Australia and the non-resident supplier does not have a permanent establishment in Australia.
 Under section 84-5 of the GST Act, a supply of anything other than goods or real property that is a supply not connected with Australia is a taxable supply if:
-
-
 
 • the recipient of the supply acquires the thing supplied solely or partly for the purpose of an enterprise that the recipient carries on in Australia, but not solely for a creditable purpose; and
 • the supply is for consideration; and
@@ -50,7 +41,7 @@ Under section 84-5 of the GST Act, a supply of anything other than goods or real
 Where a supply is a taxable supply under section 84-5 of the GST Act, the GST on that supply is payable by the recipient of the supply (subsection 84-10(1) of the GST Act).
 In this case, the entity is not registered for GST nor required to be registered for GST. As such, section 84-5 of the GST Act does not apply and the entity is not liable to pay any GST amount under subsection 84-10(1) of the GST Act when it acquires software via the Internet from a non-resident supplier of digital products.
 Date of decision:
-         25 August 2001
+  25 August 2001
 
 Legislative References:
 
@@ -60,34 +51,29 @@ Other References:
 
 Electronic Commerce Issues Register - Chapter 4
 
-
 Keywords
 
 Goods & services tax
-          GST offshore supplies
-          Connected with Australia
-          Taxable supply
-
+ GST offshore supplies
+ Connected with Australia
+ Taxable supply
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         17 October 2001
+  17 October 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 25 August 2001

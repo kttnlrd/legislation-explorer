@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Calculation of amount**
 
-**(2)**  For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula— RLWT rate × (current purchase price − vendor’s acquisition cost).
+**(2)**  For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula— RLWT rate × (current purchase price − vendor's acquisition cost).
 
 **Definition of items in formula**
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (b) current purchase price is the purchase price agreed by the vendor and purchaser for the disposal of the residential land, including deposits and part payments, that the residential land purchase amount relates to:
 
-- (c) vendor’s acquisition cost is the purchase price paid by the vendor for their acquisition of the residential land.
+- (c) vendor's acquisition cost is the purchase price paid by the vendor for their acquisition of the residential land.
 
 **Calculation of amount**
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
   - (i) zero, if paragraph (ii) does not apply:
 
-  - (ii) the total of the amounts required by licensed security holders to discharge their mortgages or other securities over the residential land, if the relevant person who must pay RLWT is the vendor or the vendor’s conveyancer:
+  - (ii) the total of the amounts required by licensed security holders to discharge their mortgages or other securities over the residential land, if the relevant person who must pay RLWT is the vendor or the vendor's conveyancer:
 
 - (c) outstanding rates is the amount of local authority rates outstanding.
 

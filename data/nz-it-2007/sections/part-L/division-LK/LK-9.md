@@ -4,11 +4,11 @@ part_title: Part L Tax credits and other credits
 division: LK
 division_title: Subpart LK—Tax credits relating to attributed controlled foreign company income
 section: LK-9
-section_title: Use of company’s credits carried forward
+section_title: Use of company's credits carried forward
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# LK 9  Use of company’s credits carried forward
+# LK 9  Use of company's credits carried forward
 
 **When this section applies**
 
@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **First use by consolidated group**
 
-**(2)**  The amount must first be used to satisfy the income tax liability of the consolidated group for the income year. However, the amount must not be more than the consolidated group’s quarantined amount.
+**(2)**  The amount must first be used to satisfy the income tax liability of the consolidated group for the income year. However, the amount must not be more than the consolidated group's quarantined amount.
 
 **Second use by group company or another consolidated group**
 

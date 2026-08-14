@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Bright-line start date**
 
-**(3)**  The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
+**(3)**  The transferee's bright-line start date for the land is the transferor's bright-line start date.
 
 *Defined in this Act: bright-line start date, date of transfer, dispose, residential land, settlement of relationship property*
 

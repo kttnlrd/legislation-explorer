@@ -4,38 +4,36 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 100
-  • Div 142
-  • Div 19
-  • Div 3
-  • Div 3A
-  • Div 75
-  • Division 100
-  • Division 142
-  • Division 19
-  • Division 75
+ • Div 100
+ • Div 142
+ • Div 19
+ • Div 3
+ • Div 3A
+ • Div 75
+ • Division 100
+ • Division 142
+ • Division 19
+ • Division 75
 
 Cases Referenced:
-  • Anor v. Federal Commissioner 
-  • Australia Pty Ltd v. Commonwealth 
-  • Avon Products Pty Limited v. Commissioner 
-  • Avon Products Pty Limited v. Federal Commissioner 
-  • Avon Products Pty Ltd v. Commissioner 
-  • In
+ • Anor v. Federal Commissioner 
+ • Australia Pty Ltd v. Commonwealth 
+ • Avon Products Pty Limited v. Commissioner 
+ • Avon Products Pty Limited v. Federal Commissioner 
+ • Avon Products Pty Ltd v. Commissioner 
+ • In
 Gregrhon Investments Pty Limited v. Federal Commissioner 
-  • Lend Lease Corporation Ltd v. Federal Commissioner 
-  • Limited v. Federal Commissioner 
-  • Others v. Smith 
-  • Otto Australia Pty Limited v. Federal Commissioner 
-  • Otto Australia Pty Ltd v. Commissioner 
-  • Professional Admin Service Centre Pty Ltd v Commissioner 
-  • Professional Admin Service Centre Pty Ltd v. Commissioner 
-  • Property Pty Ltd v. Commissioner 
-  • Society Ltd v. Federal Commissioner 
+ • Lend Lease Corporation Ltd v. Federal Commissioner 
+ • Limited v. Federal Commissioner 
+ • Others v. Smith 
+ • Otto Australia Pty Limited v. Federal Commissioner 
+ • Otto Australia Pty Ltd v. Commissioner 
+ • Professional Admin Service Centre Pty Ltd v Commissioner 
+ • Professional Admin Service Centre Pty Ltd v. Commissioner 
+ • Property Pty Ltd v. Commissioner 
+ • Society Ltd v. Federal Commissioner 
 
 Topics: GST, Partnerships, Companies, Superannuation, International
-
-
 
 ================================================================================
 
@@ -69,9 +67,9 @@ Ruling
 Date of effect
 94
 NOT LEGALLY BINDING SECTION:
-Appendix 1:  Explanation
+Appendix 1: Explanation
 95
-Appendix 2:  Detailed Contents list
+Appendix 2: Detailed Contents list
 165
 This publication provides you with the following level of protection:
 This publication (excluding appendixes) is a public ruling for the purposes of the
@@ -88,7 +86,7 @@ A New Tax System (Goods and Services Tax) Act 1999
 5. The Ruling also does not consider the operation of section 105-65 in Schedule 1 to the
 Taxation Administration Act 1953
 (TAA). The Commissioner's views on that provision are contained in Miscellaneous Taxation Ruling MT 2010/1
-Miscellaneous tax:  restrictions on GST refunds under section 105-65 of Schedule 1 to the Taxation Administration Act 1953.
+Miscellaneous tax: restrictions on GST refunds under section 105-65 of Schedule 1 to the Taxation Administration Act 1953.
 6. All legislative references in this Ruling are to the GST Act unless otherwise specified.
 Background
 Operation of Division 142
@@ -146,7 +144,7 @@ which is attributable to the tax period in which the reimbursement is made to it
 where it is registered for GST and has claimed an input tax credit in relation to the acquisition.
 [13]
 The Commissioner's view on the operation of Division 19 is explained in Goods and Services Tax Ruling GSTR 2000/19
-Goods and services tax:  making adjustments under Division 19 for adjustment events.
+Goods and services tax: making adjustments under Division 19 for adjustment events.
 19. If the excess GST arises because something that is not a supply is treated as a taxable supply, no adjustment event arises on reimbursement, and instead the supplier may, subject to the period of review, request an amendment to their assessment for the relevant tax period.
 [14]
 Any resulting refunds will be paid or applied in accordance with Divisions 3 and 3A of Part IIB of the TAA.
@@ -199,14 +197,14 @@ incorrectly reporting an amount of GST on a GST return
 incorrectly treating a GST-free or input taxed supply as a taxable supply (including incorrectly apportioning the taxable and non-taxable components of a mixed supply).
 32. Where an error occurs after the transaction has taken place, for example through a simple transcription error, this may point towards a finding that excess GST has not been passed on.
 33. On the other hand, where the excess GST arises as a result of an error made before setting the price (for example, where a supplier incorrectly treats a GST-free or input taxed supply as a taxable supply), this error will generally flow through to the sale price paid by the recipient and is likely to point towards a finding that excess GST has been passed on.
-Example 1:  incorrectly reporting an amount of GST on a GST return
+Example 1: incorrectly reporting an amount of GST on a GST return
 34.
 Diana provides personal aquatic survival skills courses and swimming lessons. She holds qualifications issued by a relevant accrediting association. Diana's supply of the personal aquatic survival skills course is a GST-free supply of an education course under section 38-85 and Diana issues each student of this course with a tax invoice showing the amount of GST on the supply as nil.
 35.
 When preparing her GST return, Diana mistakenly reports supplies of personal aquatic survival skills course as taxable and remits GST on each course.
 36.
 As the excess GST arose when Diana filled out her GST return and she had issued tax invoices showing the amount of GST as nil, this would indicate that Diana has not passed on the excess GST.
-Example 2:  excess GST arising as a result of an audit
+Example 2: excess GST arising as a result of an audit
 37.
 Rehka runs a small business and treats a particular supply as GST-free. She issues tax invoices to her customers which indicate that the particular supply is GST-free. Subsequently she is audited by the ATO, which determines that she should have remitted GST on that supply. An amended assessment is raised and Rehka remits the outstanding amount assessed as GST. Contractually Rehka cannot recover the GST amount from the recipient of the supply.
 38.
@@ -230,12 +228,12 @@ Changes in price
 49. Where a supplier increases its price on discovering that a supply it has treated as not being subject to GST is actually a taxable supply, this will point towards a finding that the GST has been taken into account in setting that higher price and has been passed on.
 50. On the other hand, the fact that the price remains the same may indicate that excess GST has not been passed on.
 51. However, the mere fact that the supplier has not increased the price is not determinative in deciding whether the excess GST has been passed on. There may be other circumstances, such as a reduction in other business costs, which allow the supplier to retain its profit margin and allow the price to remain constant.
-Example 3:  changes in price
+Example 3: changes in price
 52.
 Big-mart sells a range of food and retail products. Big-mart sets its prices at a level that is lower than its competitors for equivalent products. Big-mart contends that GST was not factored into its pricing methodology, despite the fact that it sets prices then adds GST at the end.
 53.
 Big-mart realises that one of its products is GST-free, but has been treated as taxable. Big-mart reduces the price of the product by 1/11th. The price reduction points towards a finding that the excess GST has been passed on.
-Example 4:  changes in price
+Example 4: changes in price
 54.
 Eric runs a pharmacy. He believes that all his products are GST-free and does not charge GST on them. Some months later, Eric hears from a neighbouring pharmacist that some of his products are actually taxable. He identifies the products concerned and treats them as taxable. However, he does not increase prices for these products as he is able to maintain his profit margin by negotiating a corresponding lower price for the product from his supplier.
 55.
@@ -267,7 +265,7 @@ but can show that the recipient has not paid the amount shown on the tax invoice
 63. However, excess GST may have been passed on even if there is no tax invoice, or if a tax invoice has been issued but does not contain enough information to enable the GST amount to be clearly ascertained.
 [25]
 64. If the supplier has not passed on the excess GST, then section 142-10 does not apply and the recipient is not entitled to an input tax credit in relation to the excess GST amount.
-Example 5:  tax invoice accidentally issued
+Example 5: tax invoice accidentally issued
 65.
 Taylor Co and David Co enter into an agreement for David Co to purchase Taylor Co's business as a GST-free supply of a going concern. All the requirements of section 38-325 are met and the contract of sale is clear that the supply is a GST-free supply.
 66.
@@ -302,7 +300,7 @@ the customer agrees to pay the administration fee.
 [29]
 74. If these conditions are not satisfied, section 142-10 continues to apply in respect of the excess GST passed on which the supplier has not reimbursed to the recipient. The supplier will not be able to obtain a refund of the full amount of the excess GST it has passed on.
 75. An administration fee is one charged to cover the reasonable costs of effecting the reimbursement such as identifying the recipients and quantifying the amount of the passed-on excess GST. Costs will be considered reasonable when they closely reflect the actual costs incurred by the supplier in making the reimbursement.
-Example 6:  when an administration fee is charged to the recipient
+Example 6: when an administration fee is charged to the recipient
 76.
 Patel Co is registered for GST and makes a supply to Kim which Patel Co believes to be taxable. Kim pays $3,300 for the supply which includes GST of $300 and receives a tax invoice. Kim is not registered or required to be registered for GST.
 77.
@@ -315,7 +313,7 @@ Consequently, Patel Co has a decreasing adjustment of $300 in the tax period in 
 If Kim had been registered for GST, she would have an increasing adjustment of $300 in the tax period in which she became aware of the adjustment.
 Circumstances where only some of the recipients are able to be identified for reimbursement
 81. There may be circumstances where only some of the recipients are able to be identified, so that the excess GST can only be reimbursed to known recipients. Where this occurs, section 142-10 ceases to apply to that part of the excess GST which the supplier was able to reimburse. The provision continues to apply to the excess GST passed on but not reimbursed to the unidentified recipients.
-Example 7:  excess GST only able to be reimbursed to identified customers
+Example 7: excess GST only able to be reimbursed to identified customers
 82.
 Frank's Food Cooperative has a number of regular customers who have joined the store's 'Fresh 'n' Friendly' Club. Frank's Food Cooperative also has a number of non-member customers who do not have cards.
 83.
@@ -326,7 +324,7 @@ Customers can elect to be reimbursed in cash, or to receive a prepaid debit card
 Frank's Food Cooperative is unable to identify the non-member customers who purchased the product and is unable to reimburse them.
 86.
 As Frank's Food Cooperative has reimbursed its member customers for the passed-on GST, section 142-10 no longer applies to that part of the excess GST. Section 142-10 continues to apply to the excess GST that was passed on to the non-member customers who have not been reimbursed. Frank's Food Cooperative is able to self-assess its entitlement to a refund, equivalent to the amount reimbursed. Frank's Food Cooperative has a decreasing adjustment in the tax period in which it became aware of the adjustment.
-Example 8:  excess GST passed on and reimbursed by way of set-off
+Example 8: excess GST passed on and reimbursed by way of set-off
 87.
 Expo Co is registered for GST and treats a supply to Darcy, an entity registered for GST, as a taxable supply and issues a tax invoice showing an amount of GST included in the price of the supply. A few months later, Expo Co discovers that the supply is in fact GST-free. Expo Co has passed on an amount of excess GST to Darcy. Darcy has an outstanding liability owed to Expo Co.
 88.
@@ -334,7 +332,7 @@ In order to claim a refund of the excess GST, Expo Co must reimburse Darcy. Rath
 89.
 Once, Expo Co has reimbursed Darcy, section 142-10 ceases to apply. Expo Co has a decreasing adjustment corresponding to the excess GST that it has reimbursed and Darcy has an increasing adjustment.
 [30]
-Example 9:  excess GST passed on and no reimbursement - section 142-10 applies
+Example 9: excess GST passed on and no reimbursement - section 142-10 applies
 90.
 Gavin Co is a large retailer that has introduced a new stock item, supplies of which it treated as taxable. Tax invoices were issued to customers showing an amount of GST on these supplies. Gavin Co later discovers that the supplies should have been treated as GST-free.
 91.
@@ -421,7 +419,7 @@ it will be comparatively seldom that a supplier will be able to establish a circ
 104. While there is an expectation that in ordinary circumstances excess GST is passed on, the facts and circumstances of each particular case will be determinative. As was stated by Hill J in
 Avon Products Pty Limited v. Federal Commissioner of Taxation
 [2004] FCA 475; 2004 ATC 4442; (2004) 55 ATR 520:
-[...] it is a hallmark of an indirect tax that the economic burden of it is passed on to the ultimate consumer. That may readily be accepted:  [...] but if taken at face value may lead to the conclusion that sales tax is always passed on to purchasers in the price for which the goods are sold. While that will ordinarily be the case it is implicit in the provisions with which we are here concerned that there will be circumstances where the sales tax will not have been passed on to the purchaser.
+[...] it is a hallmark of an indirect tax that the economic burden of it is passed on to the ultimate consumer. That may readily be accepted: [...] but if taken at face value may lead to the conclusion that sales tax is always passed on to purchasers in the price for which the goods are sold. While that will ordinarily be the case it is implicit in the provisions with which we are here concerned that there will be circumstances where the sales tax will not have been passed on to the purchaser.
 [41]
 105. In this context, a supplier will need to have convincing grounds to demonstrate that its circumstances are outside the ordinary. A supplier will need to be able to positively demonstrate that it did not pass on excess GST.
 106. This is consistent with the High Court's observations in
@@ -516,14 +514,14 @@ means that the existence of, and the contents of, that document will generally p
 Examples
 129. The following examples illustrate how consideration of these matters is relevant in determining whether excess GST was passed on. It is important to note that whether excess GST has been passed on is highly dependent on the individual facts and circumstances of each case, and facts which are different to those in an example may give rise to a different outcome.
 130. In the examples where the excess GST has been passed on but not reimbursed, the supplier may request that the Commissioner exercise his discretion under subsection 142-15(1) to treat section 142-10 as never having applied.
-Example 10:  accounting error - incorrectly reporting an amount of GST on a GST return - excess GST not passed on
+Example 10: accounting error - incorrectly reporting an amount of GST on a GST return - excess GST not passed on
 131.
 Olivia subleases her restaurant to Koffees 2 Go while she is away overseas for a year. The lease payments are $11,000 per month including GST. Koffees 2 Go makes the lease payments regularly and a tax invoice is issued to Koffees 2 Go each month correctly showing the amount of $11,000, including GST. However, Olivia's bookkeeper incorrectly records the June lease payment twice and shows it as $22,000 in her accounts, which is in turn reflected in her GST return for that tax period.
 132.
 Some months later Olivia discovers the accounting error leading to the excess GST in the tax period ending 30 June.
 133.
 In this situation, the excess GST arose as a result of an accounting error after Koffees 2 Go has paid the June lease payment of $11,000. The tax invoice issued also reflects the correct amount of the payment. As such, the excess GST has not been passed on because only one amount of GST was passed on for that particular taxable supply.
-Example 11:  computer coding error - excess GST not passed on
+Example 11: computer coding error - excess GST not passed on
 134.
 Marky Market sells a GST-free product and sets its price to match those of its competitors. Other retailers are also selling the same product on a GST-free basis for the same price. The computer system in Marky Market erroneously coded the product as taxable which was shown on the tax invoice that issued to customers. The price the customer paid remained the same and the product was treated as taxable in Marky Market's GST return.
 135.
@@ -531,21 +529,21 @@ A few months later, Marky Market altered its computer coding system to correctly
 136.
 In this situation, the excess GST arose as a result of an error in Marky Market's computer coding system despite Marky Market considering that the product was GST-free and setting its prices accordingly. Marky Market did not change the price of its product after it discovered the error. Taken together, these circumstances show that Marky Market effectively bore the cost of the excess GST. That is, the excess GST was not passed on.
 [56]
-Example 12:  miscalculating GST liability under the margin scheme - excess GST not passed on
+Example 12: miscalculating GST liability under the margin scheme - excess GST not passed on
 137.
 A land developer, Emma Co, is registered for GST and subdivides a parcel of land into 20 individual lots. Emma Co apportions the acquisition cost for the parcel of land between each subdivided lot based on area. The business case for the development takes into account an amount of GST calculated under the margin scheme for each lot. Emma Co sells 18 of the lots of land at its predetermined sale price on the understanding that the purchaser agrees in writing to Emma Co's use of the margin scheme. Emma Co has trouble selling the remaining two lots. A decision is made to reduce the sale price of each lot by $25,000 and both lots are subsequently sold at the reduced price.
 138.
 In relation to the sale of the last two lots, Emma Co mistakenly calculated its GST liability using the original expected sale price and not the reduced sale price. Emma Co's assessed net amount therefore includes an amount of excess GST.
 139.
 Taking into account Emma Co's pricing policy and practice, the reduction in selling price and the application of the margin scheme, the amount of GST that Emma Co has passed on does not include the excess GST.
-Example 13:  miscalculating GST liability under the margin scheme - excess GST passed on
+Example 13: miscalculating GST liability under the margin scheme - excess GST passed on
 140.
 Max & Sons Ltd is a small family company which started land development operations in 2003 and first became registered for GST in that year. In 2012, Max & Sons decides to develop a small lot of land that it has owned since 1995. Max & Sons conduct a feasibility study, which includes taxation estimates (including GST) for the purposes of developing its business plan. The three townhouses in the project are completed in September 2014 and are sold under the margin scheme using a valuation day of 1 July 2000.
 141.
 In September 2015, Max & Sons' business activities expanded and they engaged a new accountant who noticed an error was made in the calculation of the margin scheme in 2014 as it was entitled to use item 2 of subsection 75-10(3). That is, Max & Sons was entitled to make a valuation for the calculation of the margin scheme at the date the company was registered for GST in 2003. The latter date resulted in a higher valuation and consequently a lower taxable margin. This meant that the margin on the sale of each of the three townhouses should have been lower and, consequently, Max & Sons has an amount of excess GST.
 142.
 In order to establish whether Max & Sons will be able to claim a refund of the excess GST, it is necessary to determine if the excess GST has been passed on. Since Max & Sons considered the amount of GST applicable under the margin scheme (albeit using the lower valuation figure) in determining its pricing policy and practice, and the townhouses were sold at a price including the GST which was paid by the purchasers, the evidence shows that Max & Sons have passed on the excess GST.
-Example 14:  incorrectly treating a GST-free supply as taxable - excess GST not passed on
+Example 14: incorrectly treating a GST-free supply as taxable - excess GST not passed on
 143.
 Sail Co sold international cruises and required deposits to be paid which could be forfeited if the purchaser cancelled their cruise within various periods of time before departure. Sail Co correctly treated the supply of the international cruises as GST-free exports. However, Sail Co treated the forfeited deposits as taxable and remitted GST for the deposits in their GST return.
 144.
@@ -554,7 +552,7 @@ Sail Co later realised that it should have treated the forfeited deposits for th
 While the excess GST arose as a result of a misclassification of the supply, Sail Co did not take this into account in setting its price for the international cruises and did not include GST in the price charged to customers.
 146.
 It is considered that the excess GST remitted by the supplier in relation to the forfeited deposits for the cancelled international cruises has not been passed on. Accordingly, section 142-10 does not apply and Sail Co may claim a refund of the excess GST by requesting an amended assessment (without the need to reimburse its customers).
-Example 15:  not-for-profit - excess GST passed on
+Example 15: not-for-profit - excess GST passed on
 147.
 The Sarah Foundation is an endorsed charity, registered for GST, which stages an annual event for the aged and disabled. Historically, supplies of tickets to this event have been treated as taxable.
 148.
@@ -567,7 +565,7 @@ In determining the ticket prices, the Sarah Foundation operated in a business-li
 In the absence of evidence to the contrary, it is reasonable for the Commissioner to conclude that the process used to arrive at the price of the tickets took into account the belief that GST was payable and was a real cost of carrying on the enterprise.
 152.
 As the Sarah Foundation had passed on the excess GST, section 142-10 applies to treat the excess GST as always having been payable on a taxable supply. The Sarah Foundation is unable to claim a refund until it reimburses ticket recipients for the passed-on GST.
-Example 16:  margin scheme - evidence other than a tax invoice
+Example 16: margin scheme - evidence other than a tax invoice
 153.
 Development Co is a property development company, registered for GST. Development Co makes a taxable supply of vacant land to Tim Co, another developer. In 2001, Development Co acquired the vacant land which had significantly increased in value by the time of its sale to Tim Co.
 154.
@@ -623,9 +621,9 @@ Matters relevant to determining whether GST has been passed on
 28
 (i) the manner in which the excess GST arose
 30
-Example 1:  Incorrectly reporting an amount of GST on a GST return
+Example 1: Incorrectly reporting an amount of GST on a GST return
 34
-Example 2:  Excess GST arising as a result of an audit
+Example 2: Excess GST arising as a result of an audit
 37
 (ii) The supplier's pricing policy and practice
 40
@@ -633,13 +631,13 @@ Was GST considered in setting the price?
 41
 Changes in price
 47
-Example 3:  changes in price
+Example 3: changes in price
 52
-Example 4:  changes in price
+Example 4: changes in price
 54
 (iii) The documentary evidence surrounding the transaction
 57
-Example 5:  tax invoice accidentally issued
+Example 5: tax invoice accidentally issued
 65
 (iv) Any other relevant circumstances
 68
@@ -649,15 +647,15 @@ What constitutes reimbursement
 69
 Circumstances where an administration fee is charged to the recipient to cover the supplier's costs of reimbursement
 72
-Example 6:  when an administration fee is charged to the recipient
+Example 6: when an administration fee is charged to the recipient
 76
 Circumstances where only some of the recipients are able to be identified for reimbursement
 81
-Example 7:  excess GST only able to be reimbursed
+Example 7: excess GST only able to be reimbursed
 82
-Example 8:  excess GST passed on and reimbursed by way of set-off
+Example 8: excess GST passed on and reimbursed by way of set-off
 87
-Example 9:  excess GST passed on and no reimbursement - section 142-10 applies
+Example 9: excess GST passed on and no reimbursement - section 142-10 applies
 90
 Date of effect
 94
@@ -691,19 +689,19 @@ Not-For-Profit Entities
 126
 Examples
 129
-Example 10:  accounting error - incorrectly reporting an amount of GST on a GST return - excess GST not passed on
+Example 10: accounting error - incorrectly reporting an amount of GST on a GST return - excess GST not passed on
 131
-Example 11:  computer coding error - excess GST not passed on
+Example 11: computer coding error - excess GST not passed on
 134
-Example 12:  miscalculating GST liability under the margin scheme - excess GST not passed on
+Example 12: miscalculating GST liability under the margin scheme - excess GST not passed on
 137
-Example 13:  miscalculating GST liability under the margin scheme - excess GST passed on
+Example 13: miscalculating GST liability under the margin scheme - excess GST passed on
 140
-Example 14:  incorrectly treating a GST-free supply as taxable - excess GST not passed on
+Example 14: incorrectly treating a GST-free supply as taxable - excess GST not passed on
 143
-Example 15:  not-for-profit - excess GST passed on
+Example 15: not-for-profit - excess GST passed on
 147
-Example 16:  margin scheme - evidence other than a tax invoice
+Example 16: margin scheme - evidence other than a tax invoice
 153
 PART B - REIMBURSEMENT
 157
@@ -860,7 +858,7 @@ The other requirement is that the customer agrees to pay the administration fee.
 Previously issued as GSTR 2014/D4
 References
 ATO references:
-NO  1-5XCL0YW
+NO 1-5XCL0YW
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

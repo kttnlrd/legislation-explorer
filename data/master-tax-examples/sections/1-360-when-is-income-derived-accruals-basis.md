@@ -7,9 +7,9 @@ paragraph: "None"
 ---
 # 1-360 - When is income derived accruals basis
 
-Worked example: When is income derived; accruals basis Issue Multimedia Systems Pty Ltd (MSPL) is the manufacturer and supplier/retailer of home media and entertainment systems. MSPL not only manufactures and sells home media and entertainment systems but is also available to install the systems in customers’ homes.
+Worked example: When is income derived; accruals basis Issue Multimedia Systems Pty Ltd (MSPL) is the manufacturer and supplier/retailer of home media and entertainment systems. MSPL not only manufactures and sells home media and entertainment systems but is also available to install the systems in customers' homes.
 
-For the 2023–24 income year, MSPL’s financial position was: Cash sales revenue                                                                              $260,000 Credit sales — accounts receivable as at 30 June 2024                                           $85,000 (included in sales revenue for 2023–24) For the 2024–25 income year, MSPL’s financial position was: Cash sales revenue                                                                              $290,000 Credit sales — accounts receivable as at 30 June 2025                                           $95,000 During 2024–25, MSPL received instalment payments in advance that amounted to $40,000, although installations completed by the end of the year totalled $25,000.
+For the 2023–24 income year, MSPL's financial position was: Cash sales revenue                                                                              $260,000 Credit sales — accounts receivable as at 30 June 2024                                           $85,000 (included in sales revenue for 2023–24) For the 2024–25 income year, MSPL's financial position was: Cash sales revenue                                                                              $290,000 Credit sales — accounts receivable as at 30 June 2025                                           $95,000 During 2024–25, MSPL received instalment payments in advance that amounted to $40,000, although installations completed by the end of the year totalled $25,000.
 
 MSPL is required to provide a one-year guarantee/warranty. Industry experience has shown that guarantee/ warranty claims amount to 5% of sales revenue.
 
@@ -19,11 +19,11 @@ Solution There are 2 recognised accounting methods for determining the year ordi
 
 Guidelines for choosing the appropriate tax accounting method are set out in Taxation Ruling TR 98/1.
 
-The accruals basis is generally appropriate for manufacturing or trading businesses (see C of T (SA) v Executor, Trustee & Agency Co of South Australia Ltd (1938) 63 CLR 108 (Carden’s case) and J Rowe & Son Pty Ltd v FC of T 71 ATC 4001 and 71 ATC 4157), particularly when the following factors are present:
+The accruals basis is generally appropriate for manufacturing or trading businesses (see C of T (SA) v Executor, Trustee & Agency Co of South Australia Ltd (1938) 63 CLR 108 (Carden's case) and J Rowe & Son Pty Ltd v FC of T 71 ATC 4001 and 71 ATC 4157), particularly when the following factors are present:
 
-- the taxpayer’s activities involve the sale of trading stock
+- the taxpayer's activities involve the sale of trading stock
 
-- the taxpayer’s outgoings in the day-to-day conduct of the business relate directly to income derived
+- the taxpayer's outgoings in the day-to-day conduct of the business relate directly to income derived
 
 - the taxpayer relies on circulating capital or consumables to produce income, or
 

@@ -16,13 +16,13 @@ compilation_date: 2026-06-06
 
 **Limitation on amount of credit**
 
-**(2)**  The person’s credit is limited to an amount calculated using the formula— (partner’s income ÷ partnership income)× (partnership imputation credits − partner’s supplementary dividend).
+**(2)**  The person's credit is limited to an amount calculated using the formula— (partner's income ÷ partnership income)× (partnership imputation credits − partner's supplementary dividend).
 
 **Definition of items in formula**
 
 **(3)**  In the formula,—
 
-- (a) partner’s income is the total assessable income of the person for the tax year derived as a partner of the partnership excluding—
+- (a) partner's income is the total assessable income of the person for the tax year derived as a partner of the partnership excluding—
 
   - (i) an imputation credit attached to a dividend derived by the person:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 - (c) partnership imputation credits is the total imputation credits attached to dividends and total supplementary dividends for the tax year derived by all partners of the partnership:
 
-- (d) partner’s supplementary dividend is the total supplementary dividends for the tax year derived by the person as a non-resident partner of the partnership.
+- (d) partner's supplementary dividend is the total supplementary dividends for the tax year derived by the person as a non-resident partner of the partnership.
 
 *Defined in this Act: amount, assessable income, dividend, imputation credit, non-resident, supplementary dividend, tax credit, tax year*
 

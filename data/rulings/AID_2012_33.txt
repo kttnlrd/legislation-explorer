@@ -3,18 +3,14 @@ ATO ID 2012/33
 ==================================================
 
 Goods and Services Tax
-        Intra-group supply when an invoice is issued after recipient leaves a GST group
-        FOI status: may be released
-
-
+ Intra-group supply when an invoice is issued after recipient leaves a GST group
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does subsection 48-40(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) apply to a supply made from Entity A to Entity B if it is made at a time when they are in the same GST group, but the related invoice is issued when Entity B is no longer a member of the GST group?
@@ -34,11 +30,7 @@ All legislative references are to the GST Act 1999.
 Division 48 of the GST Act enables two or more entities to form a GST group provided that certain requirements are satisfied. In accordance with section 48-1 of the GST Act this allows one member of the GST group to deal with all GST liabilities and entitlements, and (in most cases) exclude intra-group transactions from the GST.
 Relevantly, subsection 48-40(2) provides that in certain circumstances intra-group supplies are treated as if they are not taxable supplies. Paragraph 48-40(2)(a) states that:
 
-
-
 (a)a supply that an entity makes to another *member of the same *GST group is treated as if it were not a *taxable supply, unless:
-
-
 
 i.it is a taxable supply because of Division 84 (which is about offshore supplies other than goods or real property); or
 ii.the entity is a participant in a *GST joint venture and acquired the thing supplied from the *joint venture operator for the joint venture; and ...
@@ -47,11 +39,7 @@ ii.the entity is a participant in a *GST joint venture and acquired the thing su
 
 Subsection 29-5(1) determines in which tax period GST payable on a taxable supply is to be attributed when a supplier accounts for GST on a non-cash basis, it states:
 
-
-
 (1)The GST payable by you on a *taxable supply is attributable to:
-
-
 
 a)the tax period in which any of the *consideration is received for the supply; or
 b)if, before any of the consideration is received, an *invoice is issued relating to the supply - the tax period in which the invoice is issued.
@@ -62,11 +50,10 @@ The GST Act is silent on the issue of when a supply is made, although the Act do
 In the case of a supply that is an intra-group supply subsection 48-40(2) treats the supply as if it were not a taxable supply if it is made while both entities are members of the GST group. There is nothing in subsection 48-40(2), nor elsewhere in Division 48, that changes the way the supply is treated if, subsequent to the supply being made, one of the entities leaves the group. The time at which the supply is made and the application of subsection 48-40(2), are not affected by the notion that (if subsection 48-40(2) did not in fact apply) the related GST payable would have been attributed under section 29-5 at a time when Entity B was no longer a member of the GST group.
 In this instance supply X is made at a time when both Entity A and Entity B are members of the same GST group, therefore subsection 48-40(2) applies to Entity A's intra-group supply to Entity B so that it is not treated as a taxable supply. This is not affected by Entity A subsequently issuing the related invoice when Entity B is no longer a member of the GST Group.
 
-
 Note: The conclusions in this ATO ID are consistent with the ATO Guidance contained in the NTLG GST issues register - Issue 5.9 Formation and revocation of GST groups -www.ato.gov.au
 
 Date of decision:
-         30 March 2012
+  30 March 2012
 
 Legislative References:
 
@@ -80,23 +67,21 @@ Other References:
 
 ATO Guidance: NTLG GST issues register - 5.9 Formation and revocation of GST groups www.ato.gov.au
 
-
 Keywords
 
 Goods and services tax
-          Goods and services tax special rules
-          Goods and services tax groups
-          Taxable supply
-
+ Goods and services tax special rules
+ Goods and services tax groups
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         1-3SOC5EL
+  1-3SOC5EL
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         4 May 2012
+  4 May 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

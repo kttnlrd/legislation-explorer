@@ -15,7 +15,7 @@ However, the provision will not apply to disregard the additional gain under ITA
 
 - the foreign beneﬁciary in relation to the capital gain from s 115-215(3) — as the gain was not a
 
-  “capital gain from a CGT event” as required by s 855-10.
+  "capital gain from a CGT event" as required by s 855-10.
 
 Foreign trust for CGT purposes A foreign trust for CGT purposes means a trust that is not a resident trust for CGT purposes. A trust is a resident trust for CGT purposes for an income year where, at any time during the year:
 
@@ -43,6 +43,6 @@ Proposed changes The foreign resident CGT regime is proposed to be amended for C
 
   million in value to notify the ATO, prior to the transaction being executed.
 
-The changes are to align Australia’s taxation of foreign resident capital gains more closely with OECD standards and international best practice (2024–25 Budget Paper No 2, pp 17–18; Treasury consultation paper, Strengthening the foreign resident capital gains tax regime).
+The changes are to align Australia's taxation of foreign resident capital gains more closely with OECD standards and international best practice (2024–25 Budget Paper No 2, pp 17–18; Treasury consultation paper, Strengthening the foreign resident capital gains tax regime).
 
 *Refs: s 855-10), s 855-10, s 115-215(3), s 995-1(1))*

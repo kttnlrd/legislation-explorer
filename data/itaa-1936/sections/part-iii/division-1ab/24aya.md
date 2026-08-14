@@ -45,7 +45,7 @@ source_pdf: "vol01.pdf"
 **(6)** If the sum is greater than that limit, so much of the deduction as is worked out using the following formula is not allowable: Amount of deduction Unfunded liability limit ´ Sum of all deductions to which this for the year of income section applies for the year of income where: Unfunded liability limit for a year of income is:
 
 > <a id="s24AYA-6-a"></a>
-> **(a)** if the year of income is the one in which the body ceases to be an STB—the actuarial value of the liabilities set out in the actuary’s certificate; or
+> **(a)** if the year of income is the one in which the body ceases to be an STB—the actuarial value of the liabilities set out in the actuary's certificate; or
 
 > <a id="s24AYA-6-b"></a>
 > **(b)** in any other case—that actuarial value as reduced by the total amount of deductions to which this section applies that, because of subsection (5), have not been allowable to the body for all previous years of income.

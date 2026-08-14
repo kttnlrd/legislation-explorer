@@ -7,7 +7,7 @@ paragraph: "None"
 ---
 # 3-160 - Living-away-from-home allowances
 
-Worked example: Living-away-from-home allowances Issue John Johnson is an architect who worked for a boutique architectural firm in Adelaide where he owns a home. In April 2024, he was offered and accepted a consultant’s position with XYZ Pty Ltd, a company designing and assisting in the building of a Melbourne hospital. John was hired to provide on-going advice to the architects, builders and planning board. He received an increase in his annual salary in addition to a weekly allowance of $850 to cover additional food and accommodation costs incurred in his relocation to Melbourne. The relocation was temporary as the design and building project was estimated to take only one year to complete. John is single and is renting an apartment in Melbourne city for $650 per week for the term of the project.
+Worked example: Living-away-from-home allowances Issue John Johnson is an architect who worked for a boutique architectural firm in Adelaide where he owns a home. In April 2024, he was offered and accepted a consultant's position with XYZ Pty Ltd, a company designing and assisting in the building of a Melbourne hospital. John was hired to provide on-going advice to the architects, builders and planning board. He received an increase in his annual salary in addition to a weekly allowance of $850 to cover additional food and accommodation costs incurred in his relocation to Melbourne. The relocation was temporary as the design and building project was estimated to take only one year to complete. John is single and is renting an apartment in Melbourne city for $650 per week for the term of the project.
 
 Outline the fringe benefits consequences of this arrangement.
 
@@ -43,7 +43,7 @@ From 1 April 2024, John is permitted to take advantage of the alternative record
 
 The exempt accommodation and food must be substantiated, and the employee is required to either provide relevant documentation before the employer lodges the FBT return or provide a declaration about the expenses and retain the documentation for a period of 5 years (FBTAA s 31G). However, substantiation is not required if the expenses are reasonable.
 
-In this case, John receives $850 each week as an additional accommodation and food allowance. The accommodation component no longer needs to be considered “reasonable” as it is exempt where the actual accommodation cost is substantiated (s 31), that is through receipts or John’s declaration. As John’s accommodation costs $650 per week, this leaves $200 each week for the additional food.
+In this case, John receives $850 each week as an additional accommodation and food allowance. The accommodation component no longer needs to be considered "reasonable" as it is exempt where the actual accommodation cost is substantiated (s 31), that is through receipts or John's declaration. As John's accommodation costs $650 per week, this leaves $200 each week for the additional food.
 
 The Commissioner has set out reasonable amounts for additional food in Taxation Determination TD 2024/2.
 

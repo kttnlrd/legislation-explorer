@@ -3,21 +3,16 @@ ATO ID 2005/253
 ==================================================
 
 Goods and Services Tax
-        GST and adjustments in relation to the settlement of a voidable preference claim
-        FOI status: may be released
-
+ GST and adjustments in relation to the settlement of a voidable preference claim
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, a company in liquidation, have an adjustment under section 19-70 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when its representative receives a payment in settlement of a voidable preference claim?
@@ -32,8 +27,6 @@ The deed provides that the supplier will not lodge a claim (proof of debt) again
 Reasons for Decision
 Under section 19-70 of the GST Act an entity has an adjustment for an acquisition if:
 
-
-
 •in relation to the acquisition, one or more adjustment events occur during a tax period
 •an input tax credit on the acquisition was attributable to an earlier tax period, and
 •as a result of those adjustment events, the previously attributed input tax credit amount for the acquisition no longer correctly reflects the amount of the input tax credit on the acquisition taking into account any change of circumstances that has given rise to an adjustment under Divisions 21 or 129 of the GST Act for the acquisition.
@@ -42,8 +35,6 @@ Paragraph 19-10(1)(b) of the GST Act provides that an adjustment event is any ev
 The deed of settlement requires the supplier to repay some of the consideration provided by the incapacitated entity for the creditable acquisition. Paragraph 129 of Goods and Services Tax Ruling GSTR 2001/4 provides that an adjustment is required when a payment made under an out of court settlement is a repayment of consideration wholly or in part for an earlier supply. Under the deed, the supplier agrees that it will not lodge a claim (proof of debt) against the incapacitated entity in the winding up process.
 Therefore, although the deed does not expressly state that the parties are agreeing to a change in the consideration for the earlier supply, the 'effect' of the deed is that the final consideration for the supply is less than the original amount. As such, the arrangement has the effect of changing the consideration for the incapacitated entity's acquisition and there is an adjustment event under paragraph 19-10(1)(b) of the GST Act.
 As a result of the adjustment event, the previously attributed input tax credit amount no longer correctly reflects the amount of the input tax credit on the acquisition. Therefore, the incapacitated entity has an adjustment under section 19-70 of the GST Act for its acquisition.
-
-
 
 Note: In accordance with subsection 58-10(4)(b) and section 58-60 of the GST Act, if an increasing adjustment relates to an acquisition made before a representative was appointed, and arises after that appointment, it is to be treated as if the incapacitated entity had the adjustment provided the representative notifies the Commissioner of the circumstances in which the adjustment has arisen. This notice must be in writing and specify the amount of the adjustment.
 
@@ -60,7 +51,7 @@ Reasons for decision
 Replace reference to section 147-20 with its current equivalents, subsection 58-10(4) and section 58-60.
 
 Date of decision:
-         8 March 2005
+  8 March 2005
 
 Legislative References:
 
@@ -75,35 +66,31 @@ Goods and Services Tax Ruling GSTR 2001/4
 Keywords
 
 Goods and services tax
-          GST net amounts & adjustments
-          Adjustment events
-          Adjustments
-          GST special rules
-          Representative of incapacitated entities
-
+ GST net amounts & adjustments
+ Adjustment events
+ Adjustments
+ GST special rules
+ Representative of incapacitated entities
 
 Siebel/TDMS Reference Number:
-         4398782
+  4398782
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         9 September 2005
+  9 September 2005
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  8 March 2005

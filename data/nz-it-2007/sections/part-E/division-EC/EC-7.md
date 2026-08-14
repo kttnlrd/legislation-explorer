@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **(3)**  When a person chooses a valuation method, that method continues to apply in the following income years unless they choose another method that is available to them.
 
-**Commissioner’s determination**
+**Commissioner's determination**
 
 **(4)**  If a person chooses a valuation method that is not available to them and they later make no effective election, the Commissioner must determine the method to be used. In doing so, the Commissioner must consult the person.
 

@@ -3,21 +3,16 @@ ATO ID 2004/182
 ==================================================
 
 Income Tax
-        Consolidation: effect of 'not at arm's length' transactions on modified market value
-        FOI status: may be released
+ Consolidation: effect of 'not at arm's length' transactions on modified market value
+ FOI status: may be released
 
-
-History: this ATO ID was amended on 26 March 2004.  Material has been relocated within the document in order to improve clarity. This ATO ID has been amended to remove reference to ATO ID 2004/183 which has been withdrawn. A reference to TR 2004/9 has been added which covers the issue in the withdrawn ATO ID.
-
-
+History: this ATO ID was amended on 26 March 2004. Material has been relocated within the document in order to improve clarity. This ATO ID has been amended to remove reference to ATO ID 2004/183 which has been withdrawn. A reference to TR 2004/9 has been added which covers the issue in the withdrawn ATO ID.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the purpose of a non-arm's length transaction (that is an event described in paragraph 707-325(4)(b) of the Income Tax Assessment Act 1997 (ITAA 1997)) relevant in determining if a reduction is required to be made to the modified market value (MMV) of the entity under subsection 707-325(2) of the ITAA 1997?
@@ -31,9 +26,7 @@ Reasons for Decision
 The basic rule for working out the MMV of an entity that becomes a member of a consolidated group at a particular time is contained in subsection 707-325(1) of the ITAA 1997. It provides that the MMV of an entity at a particular time is the market value of the entity at that time based on certain assumptions (including the assumptions that the entity had no losses of any sort and the balance of its franking account at that time was nil).
 Subsection 707-325(2) of the ITAA 1997 provides that if:
 
-
-
-- there are one or more events described in subsection 707-325(4) of  the ITAA 1997;
+- there are one or more events described in subsection 707-325(4) of the ITAA 1997;
 - that occurred in the four years before the time an entity becomes a member of a consolidated group;
 - and the MMV of the entity calculated under subsection 707-325(1) of the ITAA 1997 exceeds what it would have been if none of those events occurred,
 
@@ -42,8 +35,6 @@ Subsection 707-325(4) of the ITAA 1997 contains the events that are referred to 
 If an event described in subsection 707-325(4) of the ITAA 1997 occurs before 9 December 2000, Section 707-329 of the Income Tax (Transitional Provisions) Act 1997 requires that event be disregarded in calculating the MMV of an entity.
 Therefore, if there has been a transaction that did not take place at arm's length that involved an entity:
 
-
-
 - after 8 December 2000 and within four years of that entity joining a consolidated group; and
 - the MMV of the entity is greater than what it would have been had that transaction not occurred,
 
@@ -51,10 +42,10 @@ then a reduction is required to be made (as calculated under subsection 707-325(
 The requirement for a reduction to be made to the MMV of an entity under subsection 707-325(2) of the ITAA 1997 (that is, as a result of an event, being a non-arm's length transaction that involved the entity) is not conditional on any purpose in respect of that event.
 As all of the conditions in subsection 707-325(2) of the ITAA 1997 exist, there will need to be a reduction made to the MMV of Entity B. The reduction will be calculated under subsection 707-325(3) of the ITAA 1997.
 Date of decision:
-         13 February 2004
+  13 February 2004
 
 Year of income:
-           Income year ended 30 June 2003
+  Income year ended 30 June 2003
 
 Legislative References:
 
@@ -68,24 +59,23 @@ Taxation Ruling TR 2004/9
 Keywords
 
 Available fraction
-          Bundle of losses
-          Consolidation - event
-          Consolidation - losses
-          Consolidation - non-arm's length transaction
-          Consolidation - reduction
-          Joining entity
-          Modified market value
-          Transferred losses
-
+ Bundle of losses
+ Consolidation - event
+ Consolidation - losses
+ Consolidation - non-arm's length transaction
+ Consolidation - reduction
+ Joining entity
+ Modified market value
+ Transferred losses
 
 Siebel/TDMS Reference Number:
-         3844080
+  3844080
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         27 February 2004
+  27 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

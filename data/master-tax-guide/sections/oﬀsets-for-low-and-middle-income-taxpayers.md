@@ -7,7 +7,7 @@ paragraph: "¶15-300"
 ---
 # Oﬀsets for low and middle income taxpayers ¶15-300
 
-Low income tax offset (LITO) “Low income” resident individuals are entitled to a rebate (ITAA97 ss 61-110, 61-115) referred to as the low income tax oﬀset, or LITO. From 1 July 2020, the amount of the rebate is $700 (s 61-115(1)) which applies to taxable incomes of up to $37,500. Above this amount, LITO is tapered oﬀ at 2 diﬀerent levels. Individuals with taxable incomes between:
+Low income tax offset (LITO) "Low income" resident individuals are entitled to a rebate (ITAA97 ss 61-110, 61-115) referred to as the low income tax oﬀset, or LITO. From 1 July 2020, the amount of the rebate is $700 (s 61-115(1)) which applies to taxable incomes of up to $37,500. Above this amount, LITO is tapered oﬀ at 2 diﬀerent levels. Individuals with taxable incomes between:
 
 - $37,500 and $45,000 are tapered oﬀ at 5 cents per dollar, and
 
@@ -15,9 +15,9 @@ Low income tax offset (LITO) “Low income” resident individuals are entitled 
 
 The ATO automatically applies the rebate to eligible taxpayers on assessment, the oﬀset does not apply to reduce Medicare levy and can only reduce tax liability to zero (¶15-010).
 
-Example: Full LITO Kelly’s taxable income for 2024–25 is $24,540. As her taxable income does not exceed $37,500, she is entitled to the maximum low income rebate of $700.
+Example: Full LITO Kelly's taxable income for 2024–25 is $24,540. As her taxable income does not exceed $37,500, she is entitled to the maximum low income rebate of $700.
 
-Example: Partial LITO John’s taxpayer’s taxable income for 2024–25 is $39,500. As his taxable income exceeds $37,500, John can claim a rebate as follows: Maximum low income rebate....................................                                                                               $700 Reduction in rebate ($39,500 − $37,500) × 0.05....................................                                                          $100 Rebate allowable....................................                                                                                    $600 The rebate may not be applied against “unearned” income (¶2-160) of minors, but is available in respect of income from employment.
+Example: Partial LITO John's taxpayer's taxable income for 2024–25 is $39,500. As his taxable income exceeds $37,500, John can claim a rebate as follows: Maximum low income rebate....................................                                                                               $700 Reduction in rebate ($39,500 − $37,500) × 0.05....................................                                                          $100 Rebate allowable....................................                                                                                    $600 The rebate may not be applied against "unearned" income (¶2-160) of minors, but is available in respect of income from employment.
 
 Low and middle income tax offset (LMITO) The low and middle income tax oﬀset (LMITO) has been repealed with eﬀect from 1 July 2022. From the 2022–23 income year, only the LITO is available.
 

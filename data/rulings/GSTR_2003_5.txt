@@ -4,41 +4,39 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 100
-  • Div 29
-  • Div 358
-  • Div 38
-  • Div 40
-  • Div 72
-  • Div 9
-  • Division
+ • Div 100
+ • Div 29
+ • Div 358
+ • Div 38
+ • Div 40
+ • Div 72
+ • Div 9
+ • Division
 100
-  • Division 100
-  • Division 29
-  • Division 358
-  • Division 38
-  • Division 40
-  • Division 72
-  • Subdivision 153-B
-  • Subdivision 40-A
-  • division 153
-  • division 40
+ • Division 100
+ • Division 29
+ • Division 358
+ • Division 38
+ • Division 40
+ • Division 72
+ • Subdivision 153-B
+ • Subdivision 40-A
+ • division 153
+ • division 40
 
 Cases Referenced:
-  • Davies v Commissioners 
-  • Excise Commissioners v Diners Club Ltd
-  • Excise Commissioners v. Granton Marketing Ltd
+ • Davies v Commissioners 
+ • Excise Commissioners v Diners Club Ltd
+ • Excise Commissioners v. Granton Marketing Ltd
 
-  • Excise Commissioners v. High Street Vouchers Ltd
+ • Excise Commissioners v. High Street Vouchers Ltd
 (1990) 5 BVC 89
-  • Excise v Primback Ltd
+ • Excise v Primback Ltd
 
-  • Excise v Primback Ltd 
-  • Ltd v. Commissioners 
+ • Excise v Primback Ltd 
+ • Ltd v. Commissioners 
 
 Topics: GST, Companies, Superannuation, International
-
-
 
 ================================================================================
 
@@ -53,13 +51,13 @@ Back to browse
 67 related documents
 Goods and Services Tax Ruling
 GSTR 2003/5
-Goods and Services Tax:  Vouchers
+Goods and Services Tax: Vouchers
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This Ruling contains references to provisions of the
 A New Tax System (Goods and Services Tax) Regulations 1999,
 which have been replaced by the
@@ -95,7 +93,7 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note: This is a consolidated version of this document.  Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. The Ruling explains the Commissioner's view on how the
 A New Tax System (Goods and Services Tax) Act 1999
@@ -113,7 +111,7 @@ explains the GST implications of payments received by a supplier from third part
 explains the GST implications of a commission or similar payment in an arrangement covered by section 100-18.
 3. This Ruling does not deal with:-
 •
-the application of the GST Act in relation to postage stamps. Under section 100-25, postage stamps are not vouchers for GST purposes;  and
+the application of the GST Act in relation to postage stamps. Under section 100-25, postage stamps are not vouchers for GST purposes; and
 •
 the application of section 100-20 vouchers supplied to non-residents and redeemed by non-residents in Australia.
 4. All legislative references in this Ruling are to the GST Act, unless otherwise stated.
@@ -138,10 +136,10 @@ the redemption of the voucher for supplies.
 of the voucher.
 [3]
 The Division requires that GST is payable on the supply made on redemption of the voucher if that supply is a taxable supply, rather than at the point of supply of the voucher itself.
-10. To be a voucher to which Division 100 applies, an article must satisfy the meaning of voucher in section 100-25 as well as the additional requirements in section 100-5.  Not every article which purports to be a voucher will be a voucher for the purposes of section 100-25. Even if an article is a voucher as defined, the article may not meet the further requirements of section 100-5 to qualify for treatment under Division 100.
+10. To be a voucher to which Division 100 applies, an article must satisfy the meaning of voucher in section 100-25 as well as the additional requirements in section 100-5. Not every article which purports to be a voucher will be a voucher for the purposes of section 100-25. Even if an article is a voucher as defined, the article may not meet the further requirements of section 100-5 to qualify for treatment under Division 100.
 11. For the purposes of this Ruling, a voucher which satisfies both sections 100-25 and 100-5 is referred to as a 'face value voucher' (FVV).
 12. The supplies on redemption of a FVV will be taxable if the requirements of section 9-5 are met. An input tax credit for the acquisition made on redemption of the voucher may arise if the requirements of section 11-5 are met.
-13. The operation of the GST law in respect of Division 100 is outlined below and a diagrammatic representation is provided as Appendix 1.  A Case Study on the application of Division 100 is provided as Appendix 2 and a further Case Study on the application of Division 100 to prepaid phone cards or facilities is provided as Appendix 3.
+13. The operation of the GST law in respect of Division 100 is outlined below and a diagrammatic representation is provided as Appendix 1. A Case Study on the application of Division 100 is provided as Appendix 2 and a further Case Study on the application of Division 100 to prepaid phone cards or facilities is provided as Appendix 3.
 14. Unless otherwise stated, it is assumed in the examples in this Ruling and Appendices, that the supply of a FVV, and the supplies made on redemption of a FVV are:
 •
 made for consideration;
@@ -181,7 +179,7 @@ to make, on a prepaid basis, acquisitions that are facilitated by using telephon
 21. [Omitted]
 22. For an article to be a voucher for the purposes of subsection 100-25(1) it must upon redemption entitle the holder to receive supplies in accordance with its terms. This could, for example, include a voucher presented in the form of a letter.
 23. [Omitted]
-24. While the terms of a voucher will often be stated on it, this is not necessary for it to satisfy the requirements of section 100-25.  For example, the terms may be contained in a letter that accompanies the voucher.
+24. While the terms of a voucher will often be stated on it, this is not necessary for it to satisfy the requirements of section 100-25. For example, the terms may be contained in a letter that accompanies the voucher.
 25. The fact that a voucher is issued and/or redeemed electronically does not exclude it from the meaning of voucher in section 100-25. A voucher that is the electronic equivalent of the physical form of a 'voucher' satisfies section 100-25. An example of this may be a visual graphic representation of the voucher on a computer screen.
 26. For a voucher to fall within subsection 100-25(1):
 *
@@ -247,7 +245,7 @@ a retailer branded gift voucher; or
 a voucher with a unique number which can be used only to obtain supplies.
 29. A voucher that has more than one function is not a voucher within the meaning of paragraph 100-25(1)(a).
 30. A multi function voucher is a voucher, or any part of a voucher, that has been created with a number of possible functions or purposes incorporated on the voucher or on that part of the voucher. Such a voucher not only entitles the holder to receive supplies on redemption, but also enables and entitles the holder to perform a number of additional functions. The other functions of a multi function voucher continue to be available up to or after the time it has been redeemed for supplies.
-31. The meaning of voucher in section 100-25 requires the redemption of the voucher to give rise to the exercise of the entitlement to supplies. A multi function voucher may not cease to carry the additional functions once it is fully redeemed or expired.  It is able to be reused once it has been redeemed or has expired.  A multi function voucher is not a voucher as referred to in paragraph 100-25(1)(a) for the purposes of section 100-25.  Examples of a multi function voucher include:
+31. The meaning of voucher in section 100-25 requires the redemption of the voucher to give rise to the exercise of the entitlement to supplies. A multi function voucher may not cease to carry the additional functions once it is fully redeemed or expired. It is able to be reused once it has been redeemed or has expired. A multi function voucher is not a voucher as referred to in paragraph 100-25(1)(a) for the purposes of section 100-25. Examples of a multi function voucher include:
 •
 a voucher that enables the holder to top up, reload, or recharge the voucher with a value;
 [5]
@@ -255,7 +253,7 @@ a voucher that enables the holder to top up, reload, or recharge the voucher wit
 a voucher that has been topped up, reloaded or recharged with value; or
 •
 a voucher with unique number, where the unique number enables the holder to reload, or recharge the voucher with a value.
-Example 1:  multi function voucher - recharge card
+Example 1: multi function voucher - recharge card
 32.
 A small business sells paper vouchers which can be redeemed for goods or services at its shop and cannot be recharged. These paper vouchers are vouchers for the purposes of paragraph 100-25(1)(a). Over time the business grows and it installs a new computer system incorporating point of sale (POS) control over sales recording, cash and stock levels as well as enabling it to update its vouchers to a disposable plastic card with a magnetic strip. The card cannot be topped up. This type of voucher is also a voucher for the purposes of paragraph 100-25(1)(a). Some time later the business installs new software that permits the holder of the card to top it up when the remaining value is low. The card's functions entitle the holder to supplies up to a certain value, and to recharge the card when the value remaining is low. The card does more than entitle the holder to supplies on redemption. The card itself has another function. This type of card is not a voucher for the purposes of paragraph 100-25(1)(a). The card does not have the single function to receive supplies on redemption. In these circumstances the application of the basic rules in section 9-5 would need to be considered in relation to the card.
 [5A]
@@ -298,7 +296,7 @@ To use, on a prepaid basis, telephone or like services supplied by a supplier of
 32I. Paragraph 100-25(2)(a) refers to the primary purpose of the holder being able to use, on a prepaid basis, telephone or like services supplied by a supplier of telecommunication supplies. The phrase 'telephone or like services' refers to two types of services to which a prepaid phone card or facility holder is entitled. 'Telephone' services includes a range of services such as the provision of local calls, national long distance calls, international calls and calls to mobile phones. 'Like services' includes a range of services which are accessed using a mobile phone handset such as mobile phone messaging services (short message service (SMS) or multimedia messaging service (MMS)), text, graphics, images, sound, video, information, software content and data transmission services (including email) and Internet access services.
 [5G]
 32J. The telephone or like services referred to in paragraph 100-25(2)(a), which the prepaid phone card or facility enables the holder to use, must be supplied by a supplier of telecommunication supplies for the article or facility to be able to satisfy the requirements of that paragraph. A supplier of telecommunication supplies is an entity that makes telecommunication supplies within the meaning given by section 85-10.
-Example 1A:  primary purpose
+Example 1A: primary purpose
 32K.
 Telco Ltd, a supplier of telecommunication supplies, provides a prepaid mobile phone card product (the card) that allows customers to access a number of different services. The card is designed to allow customers to make telephone calls including calls to fixed lines and calls to mobile phones. The card also allows customers to send SMS messages and graphics and images to other capable mobile phones, and to access sound and software content provided by third party suppliers. Considering the range of purposes the facility is intended to perform, the primary purpose of the card is to enable customers to use, on a prepaid basis, telephone or like services supplied by Telco Ltd. Even though the card also has a secondary purpose of enabling customers to access sound and software content provided by third party suppliers, it is a prepaid phone card or facility in accordance with subsection 100-25(2).
 To make, on a prepaid basis, acquisitions that are facilitated by using telephone or like services supplied by such a supplier - paragraph 100-25(2)(b)
@@ -314,36 +312,36 @@ Presentation of voucher must be integral to supplies on redemption
 34. This requirement is supported by subsection 100-10(1) which states that the act of redeeming a voucher is not a supply. Similarly, the Explanatory Memorandum refers to a 'right to acquire something when the voucher is presented'.
 [6]
 The reference to the 'act' in subsection 100-10(1), and to the voucher being 'presented' in the Explanatory Memorandum, further indicates that presentation of the voucher is required. The presentation of the voucher is integral to the redemption for supplies.
-Example 2:  Presentation of voucher integral to supplies on redemption
+Example 2: Presentation of voucher integral to supplies on redemption
 35.
-George buys a $50 voucher from a retail store as a Christmas gift for Shauna. The voucher entitles the holder to a variety of retail supplies up to the value of $50. To obtain the supplies, the voucher must be presented;  if it is not, Shauna has no entitlement to supplies as presentation is integral for redemption for supplies. The voucher is one to which section 100-25 applies as its presentation is integral to the supplies to which the holder is entitled.
+George buys a $50 voucher from a retail store as a Christmas gift for Shauna. The voucher entitles the holder to a variety of retail supplies up to the value of $50. To obtain the supplies, the voucher must be presented; if it is not, Shauna has no entitlement to supplies as presentation is integral for redemption for supplies. The voucher is one to which section 100-25 applies as its presentation is integral to the supplies to which the holder is entitled.
 36. Where the presentation of the voucher is not integral to the exercise of the right or entitlement to the supplies, the article will not be a voucher for the purposes of section 100-25.
-Example 3:  Presentation of voucher not integral to supplies on redemption
+Example 3: Presentation of voucher not integral to supplies on redemption
 37.
 A club sends each member a letter advising that during the month of May each member is entitled to a bottle of wine valued at $20. The letter is not required to be presented to redeem the member's entitlement to the wine. The member only has to show proof of his or her current membership to receive the bottle of wine. The letter is not a voucher to which section 100-25 applies as its presentation is not integral to the supplies to which the member is entitled.
 Redemption of a voucher
-38. The meaning of voucher in section 100-25 includes the requirement that the article entitle the holder to receive supplies upon its redemption.  The article must be capable of being redeemed.  An article, which is not redeemable for supplies, will not be a voucher.
-Example 4:  voucher not capable of redemption
+38. The meaning of voucher in section 100-25 includes the requirement that the article entitle the holder to receive supplies upon its redemption. The article must be capable of being redeemed. An article, which is not redeemable for supplies, will not be a voucher.
+Example 4: voucher not capable of redemption
 39.
-A network, consisting of a number of institutions which perform similar services for others in the network, uses articles which the institutions describe as 'vouchers' as a medium of payment for services. The vouchers are not redeemed for the services but retain their value and may be reused any number of times as they circulate in the network.  The articles are merely a way of recording and offsetting reciprocal services.
+A network, consisting of a number of institutions which perform similar services for others in the network, uses articles which the institutions describe as 'vouchers' as a medium of payment for services. The vouchers are not redeemed for the services but retain their value and may be reused any number of times as they circulate in the network. The articles are merely a way of recording and offsetting reciprocal services.
 40.
-These articles are not vouchers within the meaning of section 100-25 as they are not redeemable for supplies.  The entity, which performs a service, has no obligation, which is evidenced by the article, nor does the possession of the article confer an entitlement upon the holder.
+These articles are not vouchers within the meaning of section 100-25 as they are not redeemable for supplies. The entity, which performs a service, has no obligation, which is evidenced by the article, nor does the possession of the article confer an entitlement upon the holder.
 41. In subsection 100-10(1) the term 'the act of redeeming' refers to the act of the holder of the voucher (that is, the customer at the time of redemption) in handing over or otherwise providing the voucher to the supplier in exchange for supplies. Subsection 100-10(1) was inserted for the avoidance of doubt; preventing the act of giving up of rights or entitlements evidenced by the voucher from being treated as a supply.
 [7]
 However, a supply for which the voucher is redeemed is still a supply.
 [8]
 Subsection 100-10(1) applies to all vouchers within the meaning of section 100-25.
-42. Redemption involves the contemporaneous provision of supplies in discharge of the obligation evidenced by a voucher. The making of those supplies must discharge the supplier from the obligation to make the supplies.  Redemption  may occur by:
+42. Redemption involves the contemporaneous provision of supplies in discharge of the obligation evidenced by a voucher. The making of those supplies must discharge the supplier from the obligation to make the supplies. Redemption may occur by:
 •
 presentation of the physical voucher, including a printed electronic voucher; or
 •
 providing a unique number or other information contained on the voucher by use of either telephone, computer or similar means.
-43. The use of a unique number can be in the form of a Personal Identification Number (PIN), a claim number or an access number.  For some products the unique number is entered on each occasion to access the entitlement to receive supplies that is, to enable the supplies to be made in discharge of the obligation.  In these cases the use of the unique number is for the single function of the presentation and redemption of the voucher for supplies. The use of the number is integral to receiving those supplies.
+43. The use of a unique number can be in the form of a Personal Identification Number (PIN), a claim number or an access number. For some products the unique number is entered on each occasion to access the entitlement to receive supplies that is, to enable the supplies to be made in discharge of the obligation. In these cases the use of the unique number is for the single function of the presentation and redemption of the voucher for supplies. The use of the number is integral to receiving those supplies.
 44. In these circumstances, the entering of the PIN or unique number or access product/number is equivalent to presenting the voucher to the supplier. The supplies made on presentation of the PIN or unique number, constitute redemption of the entitlement.
-Example 5:  redemption of an electronic voucher
+Example 5: redemption of an electronic voucher
 45.
 Ezy-gift sells gift vouchers through the Internet. The vouchers are redeemable on-line only. Holders of the vouchers go to the retailer's website and go through the usual process of placing an order. They are required to provide the voucher claim number and expiry date to identify the voucher and the entitlement to supplies. This validation of the voucher is redemption which entitles the holder of the voucher to immediate supplies. The voucher is redeemed for the purpose of the meaning of voucher in section 100-25.
-Example 6:  Using a PIN to receive supplies
+Example 6: Using a PIN to receive supplies
 46.
 Angela purchases a $50 phone card that allows her to call any number from any telephone in Australia. Each time Angela wants to make a call, she must first dial a general access number and then input a unique PIN found on the card. By keying in the PIN, Angela is identifying or presenting the phone card to the supplier. She is accessing her entitlement to receive supplies. Angela next dials the telephone number she wants to call. When the supplier connects Angela to that number, the phone card is redeemed to the extent of that call. Keying the PIN is integral to receiving the supplies made on redemption and equivalent to presentation of the card.
 47. For other products, the unique number is entered only to enable the exchange of one obligation for another obligation, or to enable one or more other functions, for example, to top up or recharge. In these cases the use of the number does not have the single function of accessing the right or entitlement for supplies.
@@ -353,20 +351,20 @@ Angela purchases a $50 phone card that allows her to call any number from any te
 Vouchers and customer accounts
 49. A credit to an account, by transferring money to the account, where that money is to be used for future supplies, is not a supply. This is the case even though a card or thing resembling a voucher may be given to create the credit or enable access or use of the credit in the account.
 50. The supplier of the facility for the account is not supplying a voucher, nor is it making a supply of money. The supplier of the facility for the account is not making a taxable supply; and it is not providing consideration for a taxable supply.
-51. The entity establishing the credit to the account is not acquiring a voucher nor is it making a payment for the credit in the account;  rather, the entity is transferring credit into the account as provision for the acquisition of future supplies. The transfer of funds is not a taxable supply; and it is not consideration for a taxable supply. However, where an unused amount in an account is forfeited, for example on a particular expiry date, the amount forfeited is consideration for use of the facility. The use of the facility is a supply which is taxable if the requirements of section 9-5 are met. The relevant GST is attributable on forfeiture.
-Example 7:  Vouchers and customer accounts
+51. The entity establishing the credit to the account is not acquiring a voucher nor is it making a payment for the credit in the account; rather, the entity is transferring credit into the account as provision for the acquisition of future supplies. The transfer of funds is not a taxable supply; and it is not consideration for a taxable supply. However, where an unused amount in an account is forfeited, for example on a particular expiry date, the amount forfeited is consideration for use of the facility. The use of the facility is a supply which is taxable if the requirements of section 9-5 are met. The relevant GST is attributable on forfeiture.
+Example 7: Vouchers and customer accounts
 52.
 Future World Ltd supplies a card to customers for $55. The card has on it a PIN, a stated monetary value, and a telephone number.
 [9A]
-By using the PIN the card is used to activate an account with a value of $55 on Future World's system.  Once the account is activated the card may be discarded. The card is not integral to the future supplies. The card is the means of establishing a credit of $55 in the account. The card is not redeemed for supplies but is transferring money to establish a credit. The card is not a voucher to which section 100-25 applies. The GST treatment of future supplies will be determined when they are supplied.  In this case the basic rules in subsection 9-17(1) do not apply, the basic rules in section 9-5 apply when the supplies occur.
-Example 8:  electronic payment docket - not a voucher
+By using the PIN the card is used to activate an account with a value of $55 on Future World's system. Once the account is activated the card may be discarded. The card is not integral to the future supplies. The card is the means of establishing a credit of $55 in the account. The card is not redeemed for supplies but is transferring money to establish a credit. The card is not a voucher to which section 100-25 applies. The GST treatment of future supplies will be determined when they are supplied. In this case the basic rules in subsection 9-17(1) do not apply, the basic rules in section 9-5 apply when the supplies occur.
+Example 8: electronic payment docket - not a voucher
 53.
 Fuzzy Enterprise Australia offers a facility whereby a customer may establish and recharge its account by transferring funds to Fuzzy.
 [9B]
 This can be done by the customer going to a local supermarket, which has a Fuzzy terminal and selecting the value to be transferred to the account using eftpos, credit card, or cash. At the end of the transaction the customer receives a docket which shows various details including the amount transferred, a recharge number, expiry date, and a telephone number which must be dialled and the relevant details entered to activate the recharge to the customer's account. Once the recharge is achieved the docket can be discarded.
 54.
-The docket is not a voucher to which section 100-25 applies, nor does section 9-5 apply to the docket. It is a means of establishing or accessing credit held or to be held in an account. The docket itself does not entitle the holder to supplies upon its redemption.  The GST treatment needs to be determined when the supplies are made.  However, if the docket or recharge number can be used to obtain immediate supplies, the docket may be a voucher to which section 100-25 applies.
-Section 100-5 requirements:  Step 2
+The docket is not a voucher to which section 100-25 applies, nor does section 9-5 apply to the docket. It is a means of establishing or accessing credit held or to be held in an account. The docket itself does not entitle the holder to supplies upon its redemption. The GST treatment needs to be determined when the supplies are made. However, if the docket or recharge number can be used to obtain immediate supplies, the docket may be a voucher to which section 100-25 applies.
+Section 100-5 requirements: Step 2
 55. Section 100-5 does three things. Firstly, it imposes additional conditions that must be satisfied before a section 100-25 voucher will be a FVV. Secondly, subject to the conditions in the section, it states that the supply of a voucher that meets such conditions is not a taxable supply. Thirdly, it directs how the consideration for a taxable supply of the voucher is to be ascertained.
 56. The requirement for a FVV first to be a voucher as defined in section 100-25 is discussed at paragraphs 20 to 54. In the following paragraphs we discuss the following additional requirements of section 100-5 and their consequences:
 •
@@ -378,9 +376,9 @@ upon redemption the voucher must entitle the holder to receive a reasonable choi
 •
 the voucher must have a stated monetary value (discussed at paragraphs 80 to 83F); and
 •
-on redemption of the voucher  the holder is entitled to supplies up to its stated monetary value (discussed at paragraphs 84 to 129).
+on redemption of the voucher the holder is entitled to supplies up to its stated monetary value (discussed at paragraphs 84 to 129).
 The supply of a voucher must otherwise be a taxable supply
-57. Subsection 100-5(1) provides that, in certain circumstances, the supply of a voucher is not a taxable supply.  If these circumstances are not present, the supply would be a taxable supply if the requirements of section 9-5 are satisfied.
+57. Subsection 100-5(1) provides that, in certain circumstances, the supply of a voucher is not a taxable supply. If these circumstances are not present, the supply would be a taxable supply if the requirements of section 9-5 are satisfied.
 [10]
 Therefore, section 100-5 only applies when the supply of the voucher would be taxable under the basic rules in Chapter 2 of the GST Act.
 There must be consideration for the supply of a voucher
@@ -403,7 +401,7 @@ As there was no consideration for the supply of the vouchers the requirements of
 [14]
 There is no GST on the later supplies on redemption of the voucher unless consideration in addition to the voucher is given by the holder.
 [15]
-Example 10:  voucher supplied for no consideration
+Example 10: voucher supplied for no consideration
 61.
 Retailers Galore opens a new store in a shopping complex in Brisbane. As part of their opening celebrations it is decided that on the first morning the new store is open they will have two of the local football club's cheerleaders walk around the shopping complex handing out $5 gift vouchers specially printed for the day. The gift vouchers entitle the holder, on redemption, to supplies up to the stated monetary value of $5. The vouchers meet the requirements of section 100-25.
 62.
@@ -413,7 +411,7 @@ and the other requirements for a taxable supply are satisfied.
 63. If subsection 100-5(1) applies to a voucher it is a FVV. The supply of the FVV is not a taxable supply and no GST is payable.
 64. However, where the consideration for the supply of a FVV exceeds its stated monetary value, subsection 100-5(2) applies and the supply of the FVV is a taxable supply, to the extent the consideration exceeds the stated monetary value on the FVV.
 65. An example of a FVV for which the consideration may exceed the stated monetary value is a commemorative FVV (that is, a FVV issued to recognise or celebrate an historic moment or event).
-Example 11:  consideration exceeding stated monetary value of a FVV
+Example 11: consideration exceeding stated monetary value of a FVV
 66.
 Owen pays $61 for a limited edition Olympic Moments FVV with a stated monetary value of $50. As the consideration exceeds the monetary value stated on the FVV, the supply of the FVV to Owen is a taxable supply. The consideration for the supply of the FVV is treated as if it were $11 ($61 less $50, the stated monetary value of the FVV). The GST payable on the supply of the FVV is $1. On redemption of the FVV for supplies, the consideration is the stated monetary value of the FVV if it is redeemed in full (that is, $50).
 Vouchers and financial supplies
@@ -435,7 +433,7 @@ The holder of the voucher is entitled
 70. In the case of transferable, anonymous vouchers, the 'holder' is the person who has possession or use of the voucher at the time of redemption.
 71. For non-transferable vouchers or vouchers which name a specific recipient, the 'holder' is the person who originally acquired the voucher and/or is named on it, as no one else is entitled to supplies on its redemption.
 72. A voucher may be supplied between a number of entities before it comes into the possession of the holder who presents it for supplies. Supplies of a transferable, anonymous voucher between intermediate entities are supplies to which section 100-5 may apply. That is, section 100-5 may apply at every stage of the supply of the voucher.
-Example 12:  application of section 100-5 in a FVV supply chain
+Example 12: application of section 100-5 in a FVV supply chain
 73.
 An industry association sells vouchers to various retail outlets. The retail outlets on-sell the vouchers to their customers. On presentation, the vouchers entitle the holder, to supplies up to the monetary value stated on the voucher. The voucher is a FVV. The customers can redeem the FVVs in any of the participating stores. The supply of the FVV by the association to a retail outlet, and the supply by the retail outlet to a customer, are not taxable supplies under subsection 100-5(1).
 Reasonable choice and flexibility of supplies
@@ -448,16 +446,16 @@ a stated monetary value. A voucher that entitles its holder to a specified suppl
 1.97
 Only vouchers that entitle the holder to supplies up to the monetary value stated on the voucher come within Division 100. The types of things contemplated are vouchers etc. which entitled the holder to goods or services from a particular provider up to the value stated (for example a gift voucher)...
 1.98
-Division 100 will not cover things which are for a specified good or service but which may also state a price or value of the good or service, such as a bus ticket, a movie ticket or an airline ticket.  These types of supplies entitle the holder to a specified service such as a set number of trips on a bus or travel on a particular date or over a particular period (for example a monthly bus pass). These types of supplies are subject to the normal rules and subject to GST at the time of the supply of the ticket etc.
+Division 100 will not cover things which are for a specified good or service but which may also state a price or value of the good or service, such as a bus ticket, a movie ticket or an airline ticket. These types of supplies entitle the holder to a specified service such as a set number of trips on a bus or travel on a particular date or over a particular period (for example a monthly bus pass). These types of supplies are subject to the normal rules and subject to GST at the time of the supply of the ticket etc.
 [18]
 76. A voucher may be for a specific type of supply such as 'dog grooming services' and state a monetary value. To come within section 100-5, the voucher must not stipulate the specific supply or be limited to a specific supply. For example, a statement on a voucher that it entitles the holder to a deluxe dog wash and clip priced at $20 would preclude the voucher from being treated under section 100-5 as it is for a specific supply.
-Example 13:  car wash voucher - a FVV
+Example 13: car wash voucher - a FVV
 77.
 Hans buys a voucher from his local service station. The voucher entitles him to car wash services up to the value of $50, the amount is clearly indicated on the voucher. The car wash offers a range of wash products (for example, Prime, Premium and Superlative), which are of different values, as well as vacuuming, waxing, polishing, window cleaning and perfuming. Hans may use the voucher to acquire any of the services or any combination of them up to the monetary value of his voucher. This is a FVV because there is reasonable choice and flexibility as to the supplies for which the voucher may be redeemed.
-Example 14:  car wash voucher - not a FVV
+Example 14: car wash voucher - not a FVV
 78.
 Karl buys a voucher from the same local service station that states that he is entitled to one Superlative car wash priced at $30. The $30 is stated prominently on the voucher. This voucher is not one to which section 100-5 applies as it entitles Karl to an identified specified supply at a specified price.
-Example 15:  'day rover' ticket- not a FVV
+Example 15: 'day rover' ticket- not a FVV
 79.
 A 'day rover' ticket entitles the holder to a day's unlimited travel either by train, bus or ferry for a period of 12 hours. The ticket is sold for $10 and this amount is printed on it. The holder of the ticket may actually undertake travel valued at, for example, $20 but is not required to make any further payment. The holder is entitled to public transport with a value that varies below or above the stated monetary value of the ticket depending on the travel undertaken. The holder is not entitled to supplies 'up to' the monetary value stated on the voucher. The 'day rover' ticket is not a voucher to which section 100-5 applies because it only entitles the holder to the specific supply of the right to travel for a set number of hours.
 The stated monetary value of the voucher
@@ -484,7 +482,7 @@ Evidence Act 1995
 and any other material data or information stored or recorded by mechanical or electronic means.
 [19]
 82. If all the information evidencing the holder's entitlement to supplies up to a monetary value is on the voucher it may be a voucher to which section 100-5 applies. For example, the voucher may exist on paper or a plastic card, and the monetary value may be incorporated in a bar code or a magnetic strip on the voucher. The monetary value must be so incorporated for the life of the voucher. The bar code or magnetic strip may also incorporate the unredeemed value remaining on the voucher. The monetary value stated on the voucher can be evidenced through the assistance of mechanical or electronic means. This requirement can also be satisfied if the voucher exists only in electronic form. A visual image of the voucher on screen showing the relevant monetary value will satisfy this requirement.
-Example 16:  Voucher with monetary value encoded in magnetic strip
+Example 16: Voucher with monetary value encoded in magnetic strip
 83.
 A hardware store issues plastic vouchers which entitle the holder to receive supplies from the store up to the value stated on the voucher. The voucher states the name of the store on its front and that the holder is entitled to supplies up to the monetary value stored on the magnetic strip on the reverse side. The magnetic strip states the monetary value of the voucher and the unredeemed value of the voucher. The magnetic strip requires a card reader to read the stored monetary value of $100. The requirement that the monetary value be stated on the voucher is satisfied.
 83A. A voucher which is a prepaid phone card or facility under subsection 100-25(2) and which is able to be topped up or recharged can satisfy the requirement of having a stated monetary value in section 100-5 and may therefore be a FVV.
@@ -496,7 +494,7 @@ A hardware store issues plastic vouchers which entitle the holder to receive sup
 Broadly, this section confirms that when a supply is made on full or partial redemption of a voucher, the consideration is calculated by reference to the extent to which the redemption represents the stated monetary value of the voucher. In this context, where the supply is a bonus supply, and therefore there is no redemption of the voucher, there is no consideration under section 100-12.
 83D. In determining the extent, if any, to which a voucher is redeemed, the facts and circumstances of the particular supply including the arrangements between the supplier and the holder of the voucher and the way in which the stated monetary value is reduced need to be taken into account. If the facts and circumstances provide no indication, it may be that the stated monetary value is first reduced in full when supplies are made on redemption of the voucher prior to accessing the bonus supplies.
 [19D]
-Example 16A:  Stated monetary value for a prepaid phone card or facility
+Example 16A: Stated monetary value for a prepaid phone card or facility
 83E.
 Trent purchases a rechargeable prepaid phone card which has a stated monetary value of $100. In the relevant tax period, Trent uses the prepaid phone card to make calls within Australia, resulting in a debit to his card of $60. In the same period the telecommunication supplier remits the GST based on consideration of $60. In the following tax period, Trent recharges the card with a further $40. The stated monetary value of the card is now $80 and comprises the $40 remaining on the voucher which has not been redeemed and the $40 top-up.
 83F.
@@ -543,17 +541,17 @@ Division 100 is intended to apply so that, on redemption of a voucher, the suppl
 Consideration for the supply on redemption - where change is given
 110. Where the price of a taxable supply made on redemption of a FVV is less than the stated monetary value of the voucher and no change is given, the consideration for that supply will be that stated monetary value.
 [32]
-Example 19:  FVV fully redeemed - no change is given
+Example 19: FVV fully redeemed - no change is given
 111.
 Regina fully redeems a $20 FVV to purchase goods with a value of $15. No change is given by the retailer. The consideration for the supply of goods to Regina is the $20 stated monetary value of the FVV. The retailer will remit GST of 1/11 of $20.
 112.
 If a FVV is redeemed for supplies of a lesser value and change is given, the consideration for the supply will be the stated monetary value of the FVV less the amount refunded. This treatment is like tendering cash for a purchase and receiving change.
 [32A]
-Example 20:  FVV fully redeemed - with change given
+Example 20: FVV fully redeemed - with change given
 113.
 Nancy uses a $20 FVV to purchase goods with a value of $17. The retailer gives Nancy change of $3. The consideration for the supply of goods to Nancy is the stated monetary value of the FVV, $20, less the change of $3. The retailer will remit GST of 1/11 of $17.
 114. The supplier of the goods or services on redemption, will be liable for GST calculated on the full consideration based on the stated monetary value on the FVV, less any change, even if the FVV was supplied at a discount to its stated monetary value.
-Example 21:  FVV purchased at a discount, change is given when redeemed
+Example 21: FVV purchased at a discount, change is given when redeemed
 115.
 Kate is offered a 10% discount on the purchase of a FVV by a local retailer. She pays $18 for a FVV with a stated monetary value of $20. Kate uses the FVV to purchase goods with a value of $19. The retailer gives to Kate $1 change. The consideration for the supply of goods to Kate is the stated monetary value of the FVV ($20) less the $1 change given. The retailer will remit GST of 1/11 of $19.
 A FVV that can be redeemed for another FVV
@@ -561,13 +559,13 @@ A FVV that can be redeemed for another FVV
 Example 22: FVV that can be redeemed only for other FVVs
 117.
 Greyacres Pty Ltd owns and manages a number of shopping centres. It sells vouchers (the 'original FVV') with stated monetary values ranging from $20 to $100. Holders of these FVVs can redeem them at the centre management office for their choice of retailer branded FVVs (the 'exchange FVVs') up to the stated monetary value on the original FVV. The exchange FVVs each entitle the holder to supplies up to its stated monetary value from the chosen retailer. As the holder has a reasonable choice and flexibility as to the supplies for which the FVV is redeemed both the original voucher and the exchange vouchers are FVVs.
-Example 23:  A FVV redeemed for supplies and another FVV
+Example 23: A FVV redeemed for supplies and another FVV
 118.
 Edmond uses a $100 FVV to buy video games priced at $80. The retailer gives Edmond, as change, another voucher with a stated monetary value of $20. Consideration for the supply of the video games is $80. The $20 voucher is also a FVV. The supply of the $20 voucher is not a taxable supply. Both the $100 voucher and the $20 voucher are FVVs.
 Partial redemption of a FVV
 119. A voucher may be partially redeemed in a transaction and still be a FVV. If a FVV is only partially redeemed, the consideration for the supplies on redemption is taken to be the sum of the stated monetary value of the voucher that the redemption represents and any additional consideration provided for the supply.
 [32B]
-Example 24:  partial redemption of a FVV
+Example 24: partial redemption of a FVV
 120.
 Eric uses a $10 FVV to acquire a can of soft drink. The value remaining on the FVV is $8. This is a partial redemption and the consideration for the taxable supply of the soft drink is the amount by which the FVV is being redeemed, namely $2 ($10 - $8).
 Increasing adjustments for unredeemed FVV s - section 100-15
@@ -582,7 +580,7 @@ the voucher has not been fully redeemed; and
 the supplier of the voucher writes back, for accounting purposes, to current income any reserves for the redemption of the voucher.
 [33]
 122. A FVV that is unredeemed, in full or in part, when it expires may be subject to section 100-15, but only to the extent that it is not redeemed.
-Example 25:  increasing adjustment - FVV expires redeemed in part
+Example 25: increasing adjustment - FVV expires redeemed in part
 123.
 Coffee Cafe sells a $100 FVV to Adam in March 2001. The FVV is valid for twelve months from the date of issue. Adam uses the FVV to acquire goods to a total cost of $67 before it expired in March 2002. When Coffee Cafe writes back to current income the unused credit of $33, there is an increasing adjustment of $3 (1/11 x $33) for GST purposes.
 124. Section 100-15 does not apply to a voucher that was supplied for no consideration.
@@ -604,7 +602,7 @@ Supply of a FVV with something else - apportionment of consideration
 132. The amount of the consideration to be apportioned to the supply of a FVV is the stated monetary value of the FVV. This is because the consideration for the supplies to be made on redemption of the FVV is the stated monetary value of the FVV (refer to paragraphs 89 to 90).
 [35A]
 133. If part of a supply is a voucher to which section 100-5 does not apply and it is taxable, and if part of the supply is not taxable (because it is GST-free or input taxed or otherwise not taxable), apportionment of the consideration to the different parts of the supply is necessary for the proper operation of the GST Act.
-Example 27:  supply of a FVV with something else
+Example 27: supply of a FVV with something else
 134.
 As part of a promotion for a new line of whitegoods, a retailer provides a FVV with each sale. The FVVs can be exchanged in that store for any supplies up to the stated monetary value of the FVV.
 135.
@@ -612,7 +610,7 @@ The GST payable on the sale of a refrigerator with a $220 FVV for a price of $1,
 136.
 When the customer uses the FVV to buy other goods from the retailer, there is $20 (1/11 x $220) GST payable by the retailer based on the stated monetary value of the FVV.
 137.
-However, if the voucher provided with the refrigerator is for a specified item, for example, a toaster, the GST payable on the sale of the refrigerator and the voucher is $97 (1/11 x $1,067). The supply of the voucher is taxable because section 100-5 does not apply.  There is no need to apportion consideration between the refrigerator and the voucher as both are taxable supplies.
+However, if the voucher provided with the refrigerator is for a specified item, for example, a toaster, the GST payable on the sale of the refrigerator and the voucher is $97 (1/11 x $1,067). The supply of the voucher is taxable because section 100-5 does not apply. There is no need to apportion consideration between the refrigerator and the voucher as both are taxable supplies.
 138.
 Unless additional consideration is provided on redemption of the voucher for the toaster, there will be no GST payable on the supply of the toaster (subsection 9-17(1)).
 Third party payments and supplies of services separate to the FVV
@@ -628,7 +626,7 @@ the third party will supply other services to the redeeming entity. These servic
 the third party will make a payment to the entity upon redeeming the FVV for supplies; and
 •
 the redeeming entity agrees to pay a fee or commission to the third party as consideration for all things supplied by the third party.
-141. The payment made by the third party to the redeeming entity may equal the stated monetary value of the FVV;  or the stated monetary value of the FVV reduced by a discount, fee, commission or other amount.
+141. The payment made by the third party to the redeeming entity may equal the stated monetary value of the FVV; or the stated monetary value of the FVV reduced by a discount, fee, commission or other amount.
 142. The payment from the third party to the redeeming entity is not consideration for the supplies made on redemption of the FVV;
 [36]
 nor is the payment consideration for a supply by the redeeming entity to the third party.
@@ -648,7 +646,7 @@ The relevant cases indicate the commission or discount was consideration for the
 145. Where a fee is paid by the redeeming entity to the third party, the fee represents remuneration for all services supplied by the third party to the entity. The supply of services by the third party to that entity is a taxable supply if the requirements of section 9-5 are met (unless section 100-18 applies as discussed in paragraphs 157 to 158E). The redeeming entity will be entitled to an input tax credit if the requirements of section 11-5 are met.
 146. In the usual circumstances described at paragraphs 139 to 140, the supply of the third party's services is not a financial supply for the purposes of Subdivision 40-A as it is not the supply of an interest as listed in the table in Regulation 40-5.09. This means that the supply of services is not input taxed.
 [41]
-Example 28:  payment by third party
+Example 28: payment by third party
 147.
 A retailer enters into an arrangement with a third party to redeem FVVs. Under the terms of the arrangement, the third party pays the retailer a net amount of 95% of the stated monetary value of each FVV the retailer redeems, retaining 5% as commission.
 148.
@@ -669,7 +667,7 @@ This is not the ATO's view.
 The third party's obligation is extinguished by the third party making the payment. There is no supply in these circumstances.
 Supply of services involved in FVV production
 155. The supply of a FVV should be distinguished from a supply of services involved in the design and/or production of a FVV. The supply of services is a taxable supply if the requirements of section 9-5 are met.
-Example 29:  supply of services
+Example 29: supply of services
 156.
 ABC Enterprise places an order with a printing company for the production of 1,000 FVVs with various stated monetary values ranging from $20 to $100. The printing company delivers the order to ABC's premises and is paid $800. The payment the printing company receives is consideration for the supply of printing services not for the supply of FVVs. Section 100-5 has no application. The supply of services is a taxable supply if the requirements of section 9-5 are met. ABC Enterprise is entitled to an input tax credit for the acquisition of the services if the requirements of section 11-5 are met.
 Arrangement for supply of a voucher under section 100-18
@@ -685,7 +683,7 @@ require the supplier to pay, or be liable to pay, an amount as a commission or s
 158A. If, under such an arrangement, the supplier pays or is liable to pay to the other entity a commission or similar payment, the supply of services to which that payment relates is treated under section 100-18 as if it were not a taxable supply.
 [43B]
 158B. The effect of treating a commission or similar payment as not being consideration for a taxable supply is that it is not necessary for the entity supplying the services to remit GST in respect of its supply. It follows that the supplier of the voucher cannot claim a corresponding input tax credit for its acquisition of services.
-Example 30:  Section 100-18 arrangements
+Example 30: Section 100-18 arrangements
 158C.
 Ian and Claire enter into a written arrangement where Ian engages Claire to sell his FVVs to third parties for a commission.
 158D.
@@ -696,40 +694,40 @@ Because Ian and Claire have entered into an arrangement that meets the requireme
 Subdivision 153-B arrangements
 158F. As discussed above, section 100-18 applies to simplify accounting for GST on commission and similar payments in vouchers scenarios. While Subdivision 153-B also applies to simplify accounting for GST between principals and intermediaries, it is not applicable to supplies of an intermediary's services to a principal for a commission or similar payment in relation to supplies of FVVs.
 159. Subdivision 153 B contains special rules which enable a principal and intermediary to enter into a particular arrangement where the intermediary is treated as a principal for GST purposes. Under a Subdivision 153 B arrangement the principal and intermediary are permitted to treat the supplies from the principal to a third party as two separate supplies. That is, a supply from the principal to the intermediary, and another supply from the intermediary to the third party.
-160. Although Subdivision 153-B arrangements may be made in relation to any type of supply (taxable, GST free or input taxed), section 153-55 only applies to supplies that are taxable supplies.  Section 153-55 allows for the calculation of the intermediary's payment to be reduced by the amount the principal pays, or is liable to pay, to the intermediary, that is, the intermediary's commission.
+160. Although Subdivision 153-B arrangements may be made in relation to any type of supply (taxable, GST free or input taxed), section 153-55 only applies to supplies that are taxable supplies. Section 153-55 allows for the calculation of the intermediary's payment to be reduced by the amount the principal pays, or is liable to pay, to the intermediary, that is, the intermediary's commission.
 161. As the supply of a FVV is not a taxable supply, the effect of section 153-50 on the arrangement is that there is a supply of the FVV by the principal to the intermediary and a supply by the intermediary of the FVV to a third party. However, the amount the intermediary pays or is liable to pay the principal for the supply of a FVV is not affected by the calculation in section 153-55. Therefore, the principal and intermediary must account for the commission the principal pays, or is liable to pay, the intermediary as consideration for a separate taxable supply of the intermediary's services, if section 100-18 does not apply and the requirements of section 9-5 are met.
 162. [Omitted]
 163. [Omitted]
 164. [Omitted]
 Alternative view on Subdivision 153-B arrangements
 165. There is an alternative view that paragraph 153-55(3)(b) can be applied in isolation, effectively making the intermediary's services not a taxable supply. One result of this view is that the intermediary bears GST neither on the supply of services to the principal, nor on the supply of the FVV to the customer. The GST liability rests solely with the supplier of the voucher.
-166. However, the alternative view is based on the selective application of chosen paragraphs of section 153-55  and its outcome is not consistent with the overall application of Subdivision 153-B, nor its policy intent. Subdivision 153-B has effect on taxable supplies and creditable acquisitions only.
+166. However, the alternative view is based on the selective application of chosen paragraphs of section 153-55 and its outcome is not consistent with the overall application of Subdivision 153-B, nor its policy intent. Subdivision 153-B has effect on taxable supplies and creditable acquisitions only.
 Treatment of a non-FVV
-167. If a thing is a voucher as defined in section 100-25 but it does not meet the additional requirements of section 100-5, it is not a FVV. For the purposes of this Ruling, such a voucher is referred to as a 'non-FVV'.  If the voucher is not a FVV it is necessary to consider the GST consequences on the supply of the voucher and the supplies on the redemption of the voucher.
+167. If a thing is a voucher as defined in section 100-25 but it does not meet the additional requirements of section 100-5, it is not a FVV. For the purposes of this Ruling, such a voucher is referred to as a 'non-FVV'. If the voucher is not a FVV it is necessary to consider the GST consequences on the supply of the voucher and the supplies on the redemption of the voucher.
 Supply of Non-FVVs
 168. The GST consequences of each supply are determined by applying the basic rules of Chapter 2 of the GST Act.
-169. If the supply of the voucher satisfies the requirements of section 9-5 it is a taxable supply.  However, if a non-FVV entitles the holder to input taxed supplies under Division 40 or GST-free supplies under Division 38, the supply of the voucher, as a supply of a right to input taxed or GST-free supplies is also input taxed
+169. If the supply of the voucher satisfies the requirements of section 9-5 it is a taxable supply. However, if a non-FVV entitles the holder to input taxed supplies under Division 40 or GST-free supplies under Division 38, the supply of the voucher, as a supply of a right to input taxed or GST-free supplies is also input taxed
 [45]
 or GST-free,
 [46]
 respectively.
-170. A non-FVV may be part of a mixed supply;  and if another part of the supply is either GST-free or input taxed, it is necessary to apportion the consideration between the parts.
+170. A non-FVV may be part of a mixed supply; and if another part of the supply is either GST-free or input taxed, it is necessary to apportion the consideration between the parts.
 [47]
 171. Earlier, in Examples 14 and 15 at paragraphs 78 to 79, we gave some examples of vouchers that do not satisfy the requirements of section 100-5. Set out below, in paragraphs 172 to 174 are some further examples of vouchers that do not satisfy these requirements.
-Example 31:  ticket for specified event - not a FVV
+Example 31: ticket for specified event - not a FVV
 172.
 A ticket to the basketball grand final has $45 and 'Admit One' printed on it. This is not a voucher to which section 100-5 applies as it entitles the holder to a specified supply, namely, entrance to a specified event. The fact that the price of the supply is stated on the ticket does not of itself bring it within section 100-5. GST is payable on the supply of the ticket.
-Example 32:  movie voucher - not a FVV
+Example 32: movie voucher - not a FVV
 173.
 A group of movie theatres sells movie vouchers. These vouchers can be exchanged for a ticket to any movie screening at one of the participating theatres at any session up to a specified date. As no stated monetary value is shown on the movie voucher this is not a FVV. GST is payable on the supply of the movie voucher.
-Example 33:  supply of a right to a GST-free supply
+Example 33: supply of a right to a GST-free supply
 174.
 Marika purchases a voucher that entitles her to a case of new season's apples from her local green grocer. She pays $10 for the voucher. Section 100-5 does not apply to the supply of this voucher as it entitles the holder to a specified supply. However, there is no GST payable on the sale of the voucher as it is the supply of a right to a GST-free supply.
 Non-FVV supplied for no consideration
 175. Where a voucher is supplied for no consideration, it is not a taxable supply.
 [48]
 Section 9-5 provides that, for a supply to be a taxable supply, it must be for consideration.
-Example 34:  voucher supplied for no consideration
+Example 34: voucher supplied for no consideration
 176.
 Jana receives in the mail, a voucher that entitles her to a manicure at her local beauty salon. This is not a FVV as it entitles Jana to a specified supply rather than supplies up to the stated monetary value of the voucher. However, as neither she, nor anyone else has given any consideration for the voucher, no GST is payable on the supply of the voucher.
 Redemption of a non-FVV
@@ -738,10 +736,10 @@ Redemption of a non-FVV
 178. In relation to the supply or supplies on redemption of a non-FVV subsection 9-17(1) applies to limit the consideration for the supply on redemption of the voucher to any additional consideration provided either for that supply or in connection with the exercise of the right evidenced by the voucher.
 [50]
 If there is no such additional consideration, there is no consideration for the supplies on redemption of the voucher.
-Example 35:  redemption of a non-FVV
+Example 35: redemption of a non-FVV
 179.
 Following on from Example 34 in paragraph 176 above, where Jana acquired the manicure voucher for no consideration, Jana presents the voucher and is provided with a manicure. She does not give any other consideration for the supply of that service. Under subsection 9-17(1), there is no consideration for the supply of the manicure on redemption of the voucher and therefore no GST payable on the supply.
-Example 36:  redemption of a non-FVV supplied with purchased goods
+Example 36: redemption of a non-FVV supplied with purchased goods
 180.
 As part of a marketing exercise, Fuel Co gives out vouchers with purchases of more than ten litres of fuel from its fuel outlets. The vouchers can be used to claim items from a range of car care products. No stated monetary value is shown on the vouchers. The number of vouchers redeemed varies according to the goods supplied.
 181.
@@ -751,22 +749,22 @@ Discounts - outside of Division 100
 183. These discounts may show a dollar amount and may even state that the holder is entitled to supplies chosen from a range of items, but all that the holder is entitled to is a reduction in the price of a supply.
 [51]
 A common feature of these discounts is that they require additional consideration to be provided either for the supply (made on redemption of the right) or in connection with the exercise of the right to the discount.
-Example 37:  '2 for 1' offers
+Example 37: '2 for 1' offers
 184.
 On the back of Cheryl's grocery docket is a '2 for 1' offer. It entitles her to a free meal at 'Beef's Tavern' up to a value of $20 with the purchase of a meal of equal or greater value. This is not a voucher within the meaning in section 100-25 as it does not entitle the holder to a supply. It entitles the holder to a discount on the price of the two meals.
-Example 38:  'money-off coupon'
+Example 38: 'money-off coupon'
 185.
 To promote a new product line, a manufacturer distributes money-off coupons through the press. They entitle the holder to $5 off the price of a range of items. These are not vouchers within the meaning in section 100-25 as they do not entitle the holder to a supply. They entitle the holder to a discount off the price of goods purchased.
-Example 39:  fashion discount coupon
+Example 39: fashion discount coupon
 186.
 Capital Department Store gives a discount coupon to customers who purchase goods to the value of $200 or more. The discount coupon entitles the customer to $20 off the price of their next purchase from the Store of a fashion item priced at $100 or more. It does not entitle the holder to supplies. The discount coupon is not a voucher as defined in section 100-25. It is an entitlement to a discount.
 187.
 Section 100-5 does not apply to the supply of a discount entitlement. It is a taxable supply if the requirements of section 9-5 are met. In practice, such a supply is often made for no consideration. However, as the example below illustrates, it may be supplied for consideration.
-Example 40:  supply of a book of discounts
+Example 40: supply of a book of discounts
 188.
 Martin acquires a book of discounts from a promoter for $44. The discounts entitle him to percentage and money-off discounts at various restaurants.
 189.
-The supply of the book of discounts is a taxable supply. GST of $4 (1/11 x $44) is payable by the promoter.  The discounts are not vouchers for the purposes of Division 100 as they do not entitle the holder to supplies but rather to a price reduction.
+The supply of the book of discounts is a taxable supply. GST of $4 (1/11 x $44) is payable by the promoter. The discounts are not vouchers for the purposes of Division 100 as they do not entitle the holder to supplies but rather to a price reduction.
 190.
 When Martin uses a discount at a restaurant under subsection 9-17(1), GST for the restaurant supply is calculated on any additional consideration, provided by Martin.
 Detailed contents list
@@ -784,7 +782,7 @@ Meaning of voucher in section 100-25: Step 1
 20
 'Voucher' for the purposes of paragraph 100-25(1)(a)
 26A
-Example 1:  multi function voucher - recharge card
+Example 1: multi function voucher - recharge card
 32
 'Voucher' for the purposes of paragraph 100-25(1)(b)
 32A
@@ -794,7 +792,7 @@ Primary purpose
 32H
 To use, on a prepaid basis, telephone or like services supplied by a supplier of telecommunications supplies - paragraph 100-25(2)(a)
 32I
-Example 1A:  primary purpose
+Example 1A: primary purpose
 32K
 To make, on a prepaid basis, acquisitions that are facilitated by using telephone or like services supplied by such a supplier - paragraph 100-25(2)(b)
 32L
@@ -802,23 +800,23 @@ Prepaid phone card or facility and topping up
 32M
 Presentation of voucher must be integral to supplies on redemption
 33
-Example 2:  Presentation of voucher integral to supplies on redemption
+Example 2: Presentation of voucher integral to supplies on redemption
 35
-Example 3:  Presentation of voucher not integral to supplies on redemption
+Example 3: Presentation of voucher not integral to supplies on redemption
 37
 Redemption of a voucher
 38
-Example 4:  voucher not capable of redemption
+Example 4: voucher not capable of redemption
 39
-Example 5:  redemption of an electronic voucher
+Example 5: redemption of an electronic voucher
 45
-Example 6:  Using a PIN to receive supplies
+Example 6: Using a PIN to receive supplies
 46
 Vouchers and customer accounts
 49
-Example 7:  Vouchers and customer accounts
+Example 7: Vouchers and customer accounts
 52
-Example 8:  electronic payment docket - not a voucher
+Example 8: electronic payment docket - not a voucher
 53
 Section 100-5 requirements: Step 2
 55
@@ -830,27 +828,27 @@ Example 9: voucher donated to a charity
 59
 Example 10: voucher supplied for no consideration
 61
-Example 11:  consideration exceeding stated monetary value of a FVV
+Example 11: consideration exceeding stated monetary value of a FVV
 66
 Vouchers and financial supplies
 67
 The holder of the voucher is entitled
 68
-Example 12:  application of section 100-5 in a FVV supply chain
+Example 12: application of section 100-5 in a FVV supply chain
 73
 Reasonable choice and flexibility of supplies
 74
-Example 13:  car wash voucher - a FVV
+Example 13: car wash voucher - a FVV
 77
-Example 14:  car wash voucher - not a FVV
+Example 14: car wash voucher - not a FVV
 78
-Example 15:  'day rover' ticket- not a FVV
+Example 15: 'day rover' ticket- not a FVV
 79
 The stated monetary value of the voucher
 80
-Example 16:  Voucher with monetary value encoded in magnetic strip
+Example 16: Voucher with monetary value encoded in magnetic strip
 83
-Example 16A:  Stated monetary value for a prepaid phone card or facility
+Example 16A: Stated monetary value for a prepaid phone card or facility
 83E
 Redemption of a FVV
 84
@@ -860,25 +858,25 @@ Consideration for the supply on redemption
 89
 Consideration for the supply on redemption - where change is given
 110
-Example 19:  FVV fully redeemed - no change is given
+Example 19: FVV fully redeemed - no change is given
 111
-Example 20:  FVV fully redeemed - with change given
+Example 20: FVV fully redeemed - with change given
 113
-Example 21:  FVV purchased at a discount, change is given when redeemed
+Example 21: FVV purchased at a discount, change is given when redeemed
 115
 A FVV that can be redeemed for another FVV
 116
 Example 22: FVV that can be redeemed only for other FVVs
 117
-Example 23:  A FVV redeemed for supplies and another FVV
+Example 23: A FVV redeemed for supplies and another FVV
 118
 Partial redemption of a FVV
 119
-Example 24:  partial redemption of a FVV
+Example 24: partial redemption of a FVV
 120
 Increasing adjustments for unredeemed FVV s - section 100-15
 121
-Example 25:  increasing adjustment - FVV expires redeemed in part
+Example 25: increasing adjustment - FVV expires redeemed in part
 123
 Redemption of a voucher after increasing adjustment made
 126
@@ -886,25 +884,25 @@ Example 26: attributing GST where an expired voucher is subsequently honoured
 129
 Supply of a FVV with something else - apportionment of consideration
 130
-Example 27:  supply of a FVV with something else
+Example 27: supply of a FVV with something else
 134
 Third party payments and supplies of services separate to the FVV
 139
-Example 28:  payment by third party
+Example 28: payment by third party
 147
 Alternative view on third party payments
 151
 Supply of services involved in FVV production
 155
-Example 29:  supply of services
+Example 29: supply of services
 156
 Arrangement for supply of a voucher under section 100-18
 157
-Example 30:  Section 100-18 arrangements
+Example 30: Section 100-18 arrangements
 158C
 Subdivision 153-B arrangements
 158F
-Example 30:  Subdivision 153-B arrangements
+Example 30: Subdivision 153-B arrangements
 162
 Alternative view on Subdivision 153-B arrangements
 165
@@ -912,44 +910,44 @@ Treatment of a non-FVV
 167
 Supply of Non-FVVs
 168
-Example 31:  ticket for specified event - not a FVV
+Example 31: ticket for specified event - not a FVV
 172
-Example 32:  movie voucher - not a FVV
+Example 32: movie voucher - not a FVV
 173
-Example 33:  supply of a right to a GST-free supply
+Example 33: supply of a right to a GST-free supply
 174
 Non-FVV supplied for no consideration
 175
-Example 34:  voucher supplied for no consideration
+Example 34: voucher supplied for no consideration
 176
 Redemption of a non-FVV
 177
-Example 35:  redemption of a non-FVV
+Example 35: redemption of a non-FVV
 179
-Example 36:  redemption of a non-FVV supplied with purchased goods
+Example 36: redemption of a non-FVV supplied with purchased goods
 180
 Discounts - outside of Division 100
 182
-Example 37:  '2 for 1' offers
+Example 37: '2 for 1' offers
 184
-Example 38:  'money-off coupon'
+Example 38: 'money-off coupon'
 185
-Example 39:  fashion discount coupon
+Example 39: fashion discount coupon
 186
-Example 40:  supply of a book of discounts
+Example 40: supply of a book of discounts
 188
 Detailed contents list
 191
-Appendix 1:  Operation of the main parts of Division
+Appendix 1: Operation of the main parts of Division
 100
-Appendix 2:  Case Study - the application of Division
+Appendix 2: Case Study - the application of Division
 100
-Appendix 2:  Case Study Diagram
+Appendix 2: Case Study Diagram
 Appendix 3: Case Study - the application of Division 100 to prepaid phone cards or facilities
 Commissioner of Taxation
 28 May 2003
-Appendix 1:  Operation of the main parts of Division 100
-Appendix 2:  Case Study - the application of Division 100
+Appendix 1: Operation of the main parts of Division 100
+Appendix 2: Case Study - the application of Division 100
 1. Alpha Cookware is a large cookware manufacturer. Alpha contracts with Hannibal Printers for the supply of 50,000 Alpha Cookware gift vouchers. The vouchers are to be in $20, $50 and $100 denominations, and this is to be printed on the voucher together with the Alpha logo. The vouchers entitle the holder to supplies of Alpha Cookware goods or decorative items, up to the stated monetary value printed on the voucher. Once issued a voucher can be redeemed at any time by its holder, at any participating retail outlet.
 2. Alpha sells some of the vouchers at a 10% discount (on the stated monetary value of the voucher) to the head franchise of a franchise group, Kosy Kitchens that sells a variety of cookware and decorator items including Alpha's products, through its franchise outlets.
 3. Kosy Kitchens supplies the vouchers to its franchise outlets at a 5% discount on the stated monetary value of the vouchers. The outlets then sell the vouchers to the public at the full stated monetary value shown on the voucher.
@@ -969,12 +967,12 @@ The supply of the $100 FVV by Kosy Kitchens Brisbane to Veronica is not a taxabl
 (f)
 The gift by Veronica to Tracey is not a taxable supply. (Transaction 5 in Appendix 2, Case Study Diagram).
 (g)
-The supply of the ovenware on redemption of the FVV by Kosy Kitchens Perth is a taxable supply. The consideration for this supply is $100, the stated monetary value of the FVV. The GST is 1/11 of $100 ($9.09).  As Tracey did not receive any change, this is the consideration on which GST will be calculated even though the marked price of the supplies was only $97. Kosy Kitchens Perth is entitled to an input tax credit for the acquisition of the ovenware. (Transaction 6 in Appendix 2, Case Study Diagram).
+The supply of the ovenware on redemption of the FVV by Kosy Kitchens Perth is a taxable supply. The consideration for this supply is $100, the stated monetary value of the FVV. The GST is 1/11 of $100 ($9.09). As Tracey did not receive any change, this is the consideration on which GST will be calculated even though the marked price of the supplies was only $97. Kosy Kitchens Perth is entitled to an input tax credit for the acquisition of the ovenware. (Transaction 6 in Appendix 2, Case Study Diagram).
 (h)
 The payment by Alpha Cookware to Kosy Kitchens Perth is not consideration for a supply by Kosy Kitchens Perth to Alpha Cookware. Neither is the payment consideration for the supply of cookware on redemption of the FVV. In relation to this payment, Alpha Cookware is not entitled to an input tax credit.
 (i)
 Alpha Cookware has made a taxable supply of services to Kosy Kitchens Perth, the consideration for which is $5. Alpha Cookware is liable for GST on $5. Kosy Kitchens Perth is entitled to an input tax credit. (Transaction 7 in Appendix 2, Case Study Diagram).
-Appendix 2:  Case Study Diagram
+Appendix 2: Case Study Diagram
 Appendix 3: Case Study - the application of Division 100 to prepaid phone cards or facilities
 1. Telco Ltd is a telecommunication supplier that is registered for GST. Telco Ltd offers a broad range of telecommunication products including prepaid phone products and services.
 Prepaid phone cards
@@ -1036,13 +1034,13 @@ on redemption the voucher entitles Alison to a range of telephone calls and like
 25. Alison uses the phone for three months and the stated monetary value of the voucher has reduced to $33. On 1 November 2006 Alison departs for an extended holiday travelling around South America for 12 months. She leaves her phone at home and the stated monetary value expires on 31 July 2007. When Telco Ltd writes back the unredeemed stated monetary value of $33 to current income, there is an increasing adjustment of $3 (1/11 x $33) being 1/11 of the stated monetary value to the extent that it was not redeemed.
 Footnotes
 [1]
-1  Section 45-5 provides that the provisions of Chapter 4 - The Special Rules override the provisions of Chapter 2 - The basic rules, except section 29-25, to the extent of any inconsistency.
+1 Section 45-5 provides that the provisions of Chapter 4 - The Special Rules override the provisions of Chapter 2 - The basic rules, except section 29-25, to the extent of any inconsistency.
 [2]
-2  GSTR 2003/5 prior to Addendum GSTR 2003/5A refers to the consideration provided for a supply upon redemption of a face value voucher (FVV) as being the 'face value' of the voucher. This term referred to the monetary value stated on the voucher. This Ruling now refers to the defined term 'stated monetary value', reflecting amendments to Division 100 made by
+2 GSTR 2003/5 prior to Addendum GSTR 2003/5A refers to the consideration provided for a supply upon redemption of a face value voucher (FVV) as being the 'face value' of the voucher. This term referred to the monetary value stated on the voucher. This Ruling now refers to the defined term 'stated monetary value', reflecting amendments to Division 100 made by
 Tax Laws Amendment (2006 Measures No. 1) Act 2006.
 The change in terminology does not represent a change in the Tax Office view.
 [3]
-3  Subsection 100-5(2).
+3 Subsection 100-5(2).
 [3A]
 3A
 Macquarie Dictionary
@@ -1052,11 +1050,11 @@ Macquarie Dictionary
 The Australian Oxford Dictionary
 , 2004, 2nd edn, Oxford University Press, Melbourne.
 [4]
-4  However, see paragraphs 74 to 79 of this Ruling for discussion on reasonable choice and flexibility of supplies.
+4 However, see paragraphs 74 to 79 of this Ruling for discussion on reasonable choice and flexibility of supplies.
 [4A]
-4A  A voucher of this type may also be a prepaid phone card or facility under paragraph 100-25(1)(b).
+4A A voucher of this type may also be a prepaid phone card or facility under paragraph 100-25(1)(b).
 [5]
-5  This is to be distinguished from the issue of another voucher with a different monetary value stated on it. See paragraphs 116 to 118.
+5 This is to be distinguished from the issue of another voucher with a different monetary value stated on it. See paragraphs 116 to 118.
 [5A]
 5A The entity would also need to consider whether the card establishes a credit to an account. For further discussion see paragraphs 49 to 54 of this Ruling.
 [5B]
@@ -1080,25 +1078,25 @@ The Australian Oxford Dictionary
 [5H]
 5H See paragraphs 80 to 83F for further information on the stated monetary value of the voucher.
 [6]
-6  Paragraph 1.92 of the House of Representatives Supplementary Explanatory Memorandum to the A New Tax System (Indirect Tax and Consequential Amendments) Bill (No. 2) 1999.
+6 Paragraph 1.92 of the House of Representatives Supplementary Explanatory Memorandum to the A New Tax System (Indirect Tax and Consequential Amendments) Bill (No. 2) 1999.
 [7]
-7  Paragraph 1.102 of the House of Representatives Supplementary Explanatory Memorandum to the A New Tax System (Indirect Tax and Consequential Amendments) Bill (No. 2) 1999.
+7 Paragraph 1.102 of the House of Representatives Supplementary Explanatory Memorandum to the A New Tax System (Indirect Tax and Consequential Amendments) Bill (No. 2) 1999.
 [8]
-8  Note to subsection 100-10(1).
+8 Note to subsection 100-10(1).
 [8A]
 8A For an explanation of the treatment of top-ups or recharges for prepaid phone cards or facilities under subsection 100-25(2), see paragraphs 32A to 32O of this Ruling.
 [9]
-9  The voucher on redemption does not entitle the holder to receive a reasonable choice and flexibility of supplies.  See discussion at paragraphs 74 to 79.
+9 The voucher on redemption does not entitle the holder to receive a reasonable choice and flexibility of supplies. See discussion at paragraphs 74 to 79.
 [9A]
 9A This card is not a prepaid phone card or facility under subsection 100-25(2).
 [9B]
 9B This facility is not a prepaid phone card or facility under subsection 100-25(2).
 [10]
-10  See paragraphs 8 to 12 of this Ruling.
+10 See paragraphs 8 to 12 of this Ruling.
 [11]
-11  See section 9-5.
+11 See section 9-5.
 [12]
-12  Subject to the operation of the associate rules in Division 72.
+12 Subject to the operation of the associate rules in Division 72.
 [13]
 13 See paragraph 87 for citation of paragraph 1.95 of House of Representatives Supplementary Explanatory Memorandum to the A New Tax System (Indirect Tax and Consequential Amendments) Bill (No. 2) 1999.
 [14]
@@ -1152,7 +1150,7 @@ Tax and Superannuation Laws Amendment (2012 Measures No. 1) Act 2012
 [36]
 36 Subsection 9-15(2) does not apply.
 [37]
-37 Refer to GSTR 2001/6 which is about non-monetary consideration;  in particular paragraphs 83 to 85 and the discussion on exchanging of rights and obligations between parties under an agreement.
+37 Refer to GSTR 2001/6 which is about non-monetary consideration; in particular paragraphs 83 to 85 and the discussion on exchanging of rights and obligations between parties under an agreement.
 [38]
 38 Also note
 R v. Commissioners of Customs and Excise, ex parte F & I Services
@@ -1206,7 +1204,7 @@ Tax Laws Amendment (2006 Measures No. 1) Act 2006
 Customs and Excise Commissioners v. Granton Marketing Ltd
 [1996] BVC 355 and
 R v. Commissioners of Customs and Excise, ex parte F & I Services
-[2001] BVC 347.  See also,
+[2001] BVC 347. See also,
 Boots Co plc v. Customs and Excise Commissioners
 (Case 126/88) (1990) 5 BVC 21.
 [52]
@@ -1214,8 +1212,8 @@ Boots Co plc v. Customs and Excise Commissioners
 Previously released in draft form as GSTR 2000/D22.
 References
 ATO references:
-NO  T2000/13963
-ISSN:  1443-5160
+NO T2000/13963
+ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
 GSTR 2000/37
@@ -1229,61 +1227,61 @@ Reimbursement
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A 99  Div 9
-ANTS(GST)A 99  9-5
-ANTS(GST)A 99  9-5(a)
-ANTS(GST)A 99  9-10(2)(g)
-ANTS(GST)A 99  9-10(4)
-ANTS(GST)A 99  9-15(1)
-ANTS(GST)A 99  9-15(2)
-ANTS(GST)A 99  9-17
-ANTS(GST)A 99  9-17(1)
-ANTS(GST)A 99  9-30(1)(b)
-ANTS(GST)A 99  9-30(2)(b)
-ANTS(GST)A 99  9-75
-ANTS(GST)A 99  11-5
-ANTS(GST)A 99  Div 29
-ANTS(GST)A 99  29-25
-ANTS(GST)A 99  Div 38
-ANTS(GST)A 99  Div 40
-ANTS(GST)A 99  40-A
-ANTS(GST)A 99  45-5
-ANTS(GST)A 99  40-5(1)
-ANTS(GST)A 99  Div 72
-ANTS(GST)A 99  85-10
-ANTS(GST)A 99  Div 100
-ANTS(GST)A 99  100-5
-ANTS(GST)A 99  100-5(1)
-ANTS(GST)A 99  100-5(1)(a)
-ANTS(GST)A 99  100-5(2)
-ANTS(GST)A 99  100-5(2A)
-ANTS(GST)A 99  100-5(2B)
-ANTS(GST)A 99  100-10
-ANTS(GST)A 99  100-10(1)
-ANTS(GST)A 99  100-10(3)
-ANTS(GST)A 99  100-12
-ANTS(GST)A 99  100-12(2)
-ANTS(GST)A 99  100-15
-ANTS(GST)A 99  100-15(1)
-ANTS(GST)A 99  100-15(1)(a)
-ANTS(GST)A 99  100-18
-ANTS(GST)A 99  100-18(2)
-ANTS(GST)A 99  100-20
-ANTS(GST)A 99  100-25
-ANTS(GST)A 99  100-25(1)
-ANTS(GST)A 99  100-25(1)(a)
-ANTS(GST)A 99  100-25(1)(b)
-ANTS(GST)A 99  100-25(2)
-ANTS(GST)A 99  100-25(2)(a)
-ANTS(GST)A 99  100-25(2)(b)
-ANTS(GST)A 99  153-B
-ANTS(GST)A 99  153-50
-ANTS(GST)A 99  153-55
-ANTS(GST)A 99  153-55(3)(b)
-ANTS(GST)A 99  195-1
-ANTS(GST)R 99  40-5.09(3)
-TAA 1953  Sch 1 357-60
-TAA 1953  Sch 1 Div 358
+ANTS(GST)A 99 Div 9
+ANTS(GST)A 99 9-5
+ANTS(GST)A 99 9-5(a)
+ANTS(GST)A 99 9-10(2)(g)
+ANTS(GST)A 99 9-10(4)
+ANTS(GST)A 99 9-15(1)
+ANTS(GST)A 99 9-15(2)
+ANTS(GST)A 99 9-17
+ANTS(GST)A 99 9-17(1)
+ANTS(GST)A 99 9-30(1)(b)
+ANTS(GST)A 99 9-30(2)(b)
+ANTS(GST)A 99 9-75
+ANTS(GST)A 99 11-5
+ANTS(GST)A 99 Div 29
+ANTS(GST)A 99 29-25
+ANTS(GST)A 99 Div 38
+ANTS(GST)A 99 Div 40
+ANTS(GST)A 99 40-A
+ANTS(GST)A 99 45-5
+ANTS(GST)A 99 40-5(1)
+ANTS(GST)A 99 Div 72
+ANTS(GST)A 99 85-10
+ANTS(GST)A 99 Div 100
+ANTS(GST)A 99 100-5
+ANTS(GST)A 99 100-5(1)
+ANTS(GST)A 99 100-5(1)(a)
+ANTS(GST)A 99 100-5(2)
+ANTS(GST)A 99 100-5(2A)
+ANTS(GST)A 99 100-5(2B)
+ANTS(GST)A 99 100-10
+ANTS(GST)A 99 100-10(1)
+ANTS(GST)A 99 100-10(3)
+ANTS(GST)A 99 100-12
+ANTS(GST)A 99 100-12(2)
+ANTS(GST)A 99 100-15
+ANTS(GST)A 99 100-15(1)
+ANTS(GST)A 99 100-15(1)(a)
+ANTS(GST)A 99 100-18
+ANTS(GST)A 99 100-18(2)
+ANTS(GST)A 99 100-20
+ANTS(GST)A 99 100-25
+ANTS(GST)A 99 100-25(1)
+ANTS(GST)A 99 100-25(1)(a)
+ANTS(GST)A 99 100-25(1)(b)
+ANTS(GST)A 99 100-25(2)
+ANTS(GST)A 99 100-25(2)(a)
+ANTS(GST)A 99 100-25(2)(b)
+ANTS(GST)A 99 153-B
+ANTS(GST)A 99 153-50
+ANTS(GST)A 99 153-55
+ANTS(GST)A 99 153-55(3)(b)
+ANTS(GST)A 99 195-1
+ANTS(GST)R 99 40-5.09(3)
+TAA 1953 Sch 1 357-60
+TAA 1953 Sch 1 Div 358
 Evidence Act 1995
 Tax Laws Amendment (2006 Measures No. 1) Act 2006
 Tax and Superannuation Laws Amendment (2012 Measures No. 1) Act 2012

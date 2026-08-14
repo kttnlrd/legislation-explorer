@@ -3,18 +3,14 @@ ATO ID 2004/314
 ==================================================
 
 Income Tax
-        Assessability of amounts paid or payable to a non-resident for the carriage of goods shipped in Australia
-        FOI status: may be released
-
-
+ Assessability of amounts paid or payable to a non-resident for the carriage of goods shipped in Australia
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is 5% of the amount paid or payable to a non-resident company for the carriage of goods in Australia, included in the company's taxable income under section 129 of the Income Tax Assessment Act 1936 (ITAA 1936) where it enters into a voyage charterparty with a non-resident ship owner and then subsequently enters into a voyage charterparty with an Australian resident shipper?
@@ -27,8 +23,6 @@ The freight charged by the non-resident company to the Australian resident for t
 Reasons for Decision
 Section 129 of ITAA 1936 provides that 5% of an amount paid or payable for the carriage of certain items by ship is deemed to be included in the taxable income of a ship owner or charterer if the following conditions are satisfied:
 
-
-
 • the ship belongs to, or is chartered by, a person whose principal place of business is outside of Australia
 • the ship carries passengers, livestock, mails or goods
 • the items are shipped in Australia (that is, the goods are put on board the ship in Australia), and
@@ -38,14 +32,13 @@ In the situation where a non-resident shipowner is carrying items of an Australi
 However, where the ship is under a charterparty to another non-resident when items are shipped in Australia, the non-resident charterer is the person who must include 5% of the amount for the carriage of the items in their taxable income.
 Accordingly, as the non-resident company is the charterer of the ship that has carriage of goods shipped in Australia, it must include 5% of the amount that is paid or payable for the carriage of those goods in their taxable income under section 129 of the ITAA 1936.
 
-
 Note: even though the freight charged by the non-resident company to the Australian resident is the same as the amount charged by the ship owner to the non-resident company, this does not affect the person to whom the taxable income is deemed (that is, the non-resident company).
 
 Date of decision:
-         12 December 2003
+  12 December 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -59,17 +52,16 @@ Taxation Determination TD 93/89
 Keywords
 
 Ship chartering
-          Shipping
-
+ Shipping
 
 Siebel/TDMS Reference Number:
-         3541968
+  3541968
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         8 April 2004
+  8 April 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -41,7 +41,7 @@ source_pdf: "vol01.pdf"
 **(6)**  A reference in subsection (5) to a conviction of a person for an offence includes a reference to the making of an order under section 19B of the Crimes Act 1914 in relation to the person in respect of the offence.
 
 <a id="s8ZA-7"></a>
-**(7)**  A reference in subsection (5) to an offence against section 8T or 8U includes a reference to an offence against section 11.1 of the Criminal Code that relates to an offence against section 8T or 8U, as the case may be. Authorised Version C2026C00170 registered 28/04/2026
+**(7)**  A reference in subsection (5) to an offence against section 8T or 8U includes a reference to an offence against section 11.1 of the Criminal Code that relates to an offence against section 8T or 8U, as the case may be.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

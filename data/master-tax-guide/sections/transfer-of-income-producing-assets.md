@@ -47,7 +47,7 @@ If moneys are deposited in joint names, the high rate taxpayer will be assessabl
 
   the former remaining a member of the partnership to the exclusion of the latter (Everett 80 ATC
 
-4076; [1980] HCA 6, Galland 84 ATC 4890, 86 ATC 4885; [1986] HCA 83). However, such “Everett assignments” will generally result in the assignor deriving a large capital gain (¶11-200). Further, CGT is imposed where a prospective partnership interest is assigned and the subsequently created interest is held by its creator as trustee of a discretionary trust (a “pre-admission Everett assignment”) (¶11-290).
+4076; [1980] HCA 6, Galland 84 ATC 4890, 86 ATC 4885; [1986] HCA 83). However, such "Everett assignments" will generally result in the assignor deriving a large capital gain (¶11-200). Further, CGT is imposed where a prospective partnership interest is assigned and the subsequently created interest is held by its creator as trustee of a discretionary trust (a "pre-admission Everett assignment") (¶11-290).
 
 Sale and leaseback transactions may also provide tax beneﬁts (¶23-240). However, the Commissioner will challenge sale and leaseback arrangements that are primarily designed as tax avoidance measures, eg they contain inﬂated prices or artiﬁcially low residual values.
 

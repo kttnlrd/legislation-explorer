@@ -7,25 +7,25 @@ paragraph: "¶34-140"
 ---
 # GST tax invoices ¶34-140
 
-In general, an input tax credit for a creditable acquisition cannot be claimed unless the recipient holds a “tax invoice” at the time it lodges its GST return for the tax period to which the credit is attributable (s 29-10(3); Chalmers 2008 ATC ¶10-021; [2008] AATA 308). If this requirement is not satisﬁed, the credit claim will be deferred until the tax period for which the requirement is satisﬁed. However, the mere existence of a tax invoice is not, by itself, suﬃcient to establish that a creditable acquisition has in fact occurred (GH1 Pty Ltd (In Liq) 2017 ATC ¶10-461; [2017] AATA 1063). There is no obligation to hold a tax invoice if the value of the supply (excluding GST) is $75 or less (s 29-80(1)).
+In general, an input tax credit for a creditable acquisition cannot be claimed unless the recipient holds a "tax invoice" at the time it lodges its GST return for the tax period to which the credit is attributable (s 29-10(3); Chalmers 2008 ATC ¶10-021; [2008] AATA 308). If this requirement is not satisﬁed, the credit claim will be deferred until the tax period for which the requirement is satisﬁed. However, the mere existence of a tax invoice is not, by itself, suﬃcient to establish that a creditable acquisition has in fact occurred (GH1 Pty Ltd (In Liq) 2017 ATC ¶10-461; [2017] AATA 1063). There is no obligation to hold a tax invoice if the value of the supply (excluding GST) is $75 or less (s 29-80(1)).
 
 An entity may sometimes fail to claim an input tax credit because, for example, it is not aware that it holds a tax invoice for a particular acquisition until after it has lodged its GST return for the relevant tax period. In such situations, the input tax credit for the acquisition is postponed to the ﬁrst tax period for which a return is lodged taking it into account (s 29-10(4)). This removes the need to lodge an amended GST return for the earlier tax period. Note, however, that a 4-year time limit generally applies to input tax credit claims (s 93-5; ¶34-110).
 
-The tax invoice must be issued by the supplier (s 29-70(1)), except in the case of “recipient created” tax invoices (see below). However, in certain circumstances another entity can issue a tax invoice on behalf of a supplier where there is an agreement between them (ID 2010/146). If the recipient requests a tax invoice from the supplier, the supplier must issue it within 28 days after the request (s 29-70(2)).
+The tax invoice must be issued by the supplier (s 29-70(1)), except in the case of "recipient created" tax invoices (see below). However, in certain circumstances another entity can issue a tax invoice on behalf of a supplier where there is an agreement between them (ID 2010/146). If the recipient requests a tax invoice from the supplier, the supplier must issue it within 28 days after the request (s 29-70(2)).
 
 An invoice is issued for the purposes of s 29-5(1)(b) when some act has been done to convey it to the intended recipient (Tavco 2008 ATC ¶10-049; [2008] AATA 843). An invoice is also issued when it is posted on a website, provided certain conditions are met (GSTD 2005/2).
 
 *Refs: s 29-10(3), s 29-80(1)), s 29-10(4)), s 93-5, s 29-70(1)), s 29-70(2)), s 29-5(1)(*
 
-(1) it must be issued by the supplier (for recipient created tax invoices, see below) (2) it must be in the approved form (3) it must contain enough information to enable the following to be “clearly ascertained”: – the supplier’s identity (eg its legal name, business name or trading name) and ABN – if the total price of the supply/ies is $1,000 or higher, the recipient’s identity or ABN – what is supplied, including quantity and price – the extent to which each supply to which the document relates is taxable. This requirement is satisﬁed if the document includes the amount of GST payable for each taxable supply, or a statement of the extent to which the supply is taxable, or each taxable supply is asterisked with a corresponding statement of the extent to which the supply is taxable (GSTR 2013/1) – date of issue – the amount of GST payable in relation to each supply to which the document relates – such other matters as may be speciﬁed in the regulations, and (4) it must be clearly ascertainable from the document itself that it was intended to be a tax invoice.
+(1) it must be issued by the supplier (for recipient created tax invoices, see below) (2) it must be in the approved form (3) it must contain enough information to enable the following to be "clearly ascertained": – the supplier's identity (eg its legal name, business name or trading name) and ABN – if the total price of the supply/ies is $1,000 or higher, the recipient's identity or ABN – what is supplied, including quantity and price – the extent to which each supply to which the document relates is taxable. This requirement is satisﬁed if the document includes the amount of GST payable for each taxable supply, or a statement of the extent to which the supply is taxable, or each taxable supply is asterisked with a corresponding statement of the extent to which the supply is taxable (GSTR 2013/1) – date of issue – the amount of GST payable in relation to each supply to which the document relates – such other matters as may be speciﬁed in the regulations, and (4) it must be clearly ascertainable from the document itself that it was intended to be a tax invoice.
 
-The most obvious way would be to include the words “Tax Invoice”, though alternatives such as “GST Invoice” may suﬃce in appropriate circumstances (s 29-70).
+The most obvious way would be to include the words "Tax Invoice", though alternatives such as "GST Invoice" may suﬃce in appropriate circumstances (s 29-70).
 
 The tax invoice may cover more than one supply, provided that it meets the requirements for each of those supplies. If it meets the requirements for some but not all of the supplies, it qualiﬁes as a tax invoice in relation to the former supplies, but not the latter. So far as price is concerned, GSTR 2013/1 says that it is not necessary to specify the actual price of each item, provided that the price can be determined from the invoice.
 
-The $1,000 threshold for requiring the recipient’s identity or ABN is designed to accommodate smaller business transactions, such as from a cash register, where that information may not be readily available. Of course, a supplier retains the option of including this information if it wishes, even if the transaction is for less than $1,000.
+The $1,000 threshold for requiring the recipient's identity or ABN is designed to accommodate smaller business transactions, such as from a cash register, where that information may not be readily available. Of course, a supplier retains the option of including this information if it wishes, even if the transaction is for less than $1,000.
 
-Proposed amendment If an input tax credit that is attributable to a tax period is not taken into account in a taxpayer’s assessment for that period, the taxpayer may elect for the input tax credit to instead be attributable to a later speciﬁed tax period (Treasury Laws Amendment (Miscellaneous Measures) Bill 2024: ¶41-150).
+Proposed amendment If an input tax credit that is attributable to a tax period is not taken into account in a taxpayer's assessment for that period, the taxpayer may elect for the input tax credit to instead be attributable to a later speciﬁed tax period (Treasury Laws Amendment (Miscellaneous Measures) Bill 2024: ¶41-150).
 
 Modifications to tax invoice requirements The Commissioner can waive or modify the requirement that a tax invoice must be held before an input tax credit can be claimed (s 29-10(3)). For example, this has been done, subject to various conditions, in relation to:
 
@@ -89,13 +89,13 @@ Documents that do not strictly comply The Commissioner also has a discretion to 
 
   the error is minor in legal or money terms; (2) whether any missing information is provided in other
 
-  documentation; (3) the taxpayer’s compliance record; (4) the adequacy of their record-keeping
+  documentation; (3) the taxpayer's compliance record; (4) the adequacy of their record-keeping
 
-  systems; and (5) their GST “experience” level.
+  systems; and (5) their GST "experience" level.
 
 Further details are given in PS LA 2004/11 and in GSTR 2013/1.
 
-Recipient created tax invoices A tax invoice is normally issued by the supplier. However, sometimes this will not be practicable, for example where the recipient determines the value of the goods or services, rather than the supplier. In these cases it may be more appropriate for the tax invoice to be issued by the recipient. The situations in which these “recipient created tax invoices” (RCTIs) can be issued are determined by the Commissioner (s 29-70(3)).
+Recipient created tax invoices A tax invoice is normally issued by the supplier. However, sometimes this will not be practicable, for example where the recipient determines the value of the goods or services, rather than the supplier. In these cases it may be more appropriate for the tax invoice to be issued by the recipient. The situations in which these "recipient created tax invoices" (RCTIs) can be issued are determined by the Commissioner (s 29-70(3)).
 
 The Commissioner has authorised the use of recipient created tax invoices for some general situations and for a variety of more speciﬁc industry transactions. The general situations are speciﬁed in GSTR 2000/10.
 
@@ -107,7 +107,7 @@ Example 1 A tax invoice could be issued by a sugar mill that tests crushed sugar
 
 Example 2 Company X has turnover of $25 million. It satisﬁes the turnover test even if $10 million of that turnover is for ﬁnancial supplies that are input taxed.
 
-Example 3 Company Y has turnover of $5 million. It is 100% owned by Company Z that has a turnover of $21 million. As Company Z’s turnover exceeds $20 million, and Companies Y and Z can be treated as a group, Company Y satisﬁes the turnover test. Company Z satisﬁes the turnover test in any event by virtue of its own turnover.
+Example 3 Company Y has turnover of $5 million. It is 100% owned by Company Z that has a turnover of $21 million. As Company Z's turnover exceeds $20 million, and Companies Y and Z can be treated as a group, Company Y satisﬁes the turnover test. Company Z satisﬁes the turnover test in any event by virtue of its own turnover.
 
 For a recipient created tax invoice to be eﬀective in any of these situations, various additional conditions must be satisﬁed, for example there must be a written agreement (which may alternatively be embedded in the invoice) and both parties must be registered.
 

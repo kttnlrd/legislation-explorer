@@ -12,13 +12,13 @@ compilation_date: 2026-06-06
 
 **Unsatisfied income tax liability**
 
-**(1)**  If a person’s total tax credit for a tax year is less than their income tax liability for the tax year, the person has an amount of unsatisfied income tax liability for the tax year.
+**(1)**  If a person's total tax credit for a tax year is less than their income tax liability for the tax year, the person has an amount of unsatisfied income tax liability for the tax year.
 
 **Amount**
 
 **(2)**  The amount of unsatisfied income tax liability is—
 
-- (a) equal to the difference between the person’s total tax credit for the tax year and their income tax liability for the tax year:
+- (a) equal to the difference between the person's total tax credit for the tax year and their income tax liability for the tax year:
 
 - (b) satisfied when the person pays their terminal tax for the tax year.
 

@@ -3,18 +3,14 @@ ATO ID 2006/152
 ==================================================
 
 Income Tax
-        Company losses: continuity of ownership test - inter-entity loss multiplication - whether appropriate to use the non-formula method
-        FOI status: may be released
-
-
+ Company losses: continuity of ownership test - inter-entity loss multiplication - whether appropriate to use the non-formula method
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is it appropriate to use the non-formula method in subsection 165-115ZB(6) of the Income Tax Assessment Act 1997 (ITAA 1997) to work out the adjustment amount under section 165-115ZA of the ITAA 1997 where one company (company H) acquires firstly a non-controlling interest, and then a controlling stake in a second company (the loss company), before the loss company is subsequently liquidated and the first company makes a net capital loss that reflects tax losses incurred by the loss company?
@@ -30,10 +26,8 @@ Reasons for Decision
 Subsection 165-115ZB(6) of the ITAA 1997 provides that:
 
 The
-              adjustment amount
-               to be worked out under this subsection is the amount that is appropriate having regard to:
-
-
+ adjustment amount
+ to be worked out under this subsection is the amount that is appropriate having regard to:
 
 (a)the object of this Subdivision and other matters set out in section 165-115J; and
 (b)the extent of the affected entity's relevant equity interests or relevant debt interests, as the case may be, in the *loss company immediately before the alteration time; and
@@ -49,10 +43,10 @@ and the amount so worked out is to be applied in making reductions in an appropr
 The declaration by the liquidator under section 104-145 of the ITAA 1997 constitutes an alteration time by virtue of section 165-115N of the ITAA 1997. Company H has a relevant equity interest within section 165-115X of the ITAA 1997 in loss company immediately before the alteration time.
 As the net capital loss made by company H on liquidation of loss company reflects the tax losses incurred by loss company over both the first period and the second period, it is appropriate to work out the adjustment amount for the purposes of section 165-115ZA of the ITAA 1997 under the non-formula method in subsection 165-115ZB(6) of the ITAA 1997.
 Date of decision:
-         5 June 2006
+  5 June 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -61,17 +55,16 @@ Income Tax Assessment Act 1997   section 104-145   section 165-115J   s
 Keywords
 
 Cost base adjustments
-          Tax loss
-
+ Tax loss
 
 Siebel/TDMS Reference Number:
-         5196684
+  5196684
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         9 June 2006
+  9 June 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

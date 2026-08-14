@@ -3,21 +3,16 @@ ATO ID 2012/85
 ==================================================
 
 Fringe Benefits Tax
-        Taxable value of in-house residual expense payment fringe benefits - effect of a reduced premium under the Private Health Insurance Act 2007
+ Taxable value of in-house residual expense payment fringe benefits - effect of a reduced premium under the Private Health Insurance Act 2007
 FOI status: may be released
-
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In determining the taxable value of an in-house residual expense payment fringe benefit, under subsection 22A(2) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA), will the lowest price at which an identical benefit is sold to a member of the public in terms of section 48 of the FBTAA reflect any reduction in premium provided by the Commonwealth Government to the employee under the Private Health Insurance Act 2007?
@@ -32,8 +27,6 @@ The reduction in premium is a percentage of the discounted premium which is othe
 Under his agreement with the employer the employee agrees to apply to become a participant in the premium reduction scheme.
 Where the full premium payable is $3,000 and a 30% reduction in premium is claimed by the employee the calculation is as follows:
 
-
-
 $
 
 Annual full premium
@@ -43,7 +36,6 @@ Annual full premium
 
 360
 
-
 Employee's liability
 2,640
 
@@ -51,11 +43,9 @@ Reduction in premium
 
 792
 
-
 Amount paid by employer
 
 1,848
-
 
 Reasons for Decision
 The payment of the employee's private health insurance premium by the employer is an in-house residual expense payment fringe benefit in terms of subsection 136(1) of the FBTAA.
@@ -66,20 +56,17 @@ Under section 48 of the FBTAA the taxable value is calculated in relation to an 
 (ab) if paragraph (aa) does not apply and the benefit is an airline transport fringe benefit - an amount equal to 75% of the stand-by airline travel value of the benefit at the comparison time; or
 (a) if neither paragraph (aa) nor (ab) applies and, at or about the comparison time, identical benefits were provided by the provider
 
-
-
 (i)... and
 (ii)...
 
 an amount equal to 75% of the lowest
-                  price
-                   at which an identical benefit was sold to a member of the public or
-
+ price
+ at which an identical benefit was sold to a member of the public or
 
 (b) in any other case - an amount equal to 75% of the notional value of the benefit at the comparison time;
 
 reduced by the amount of recipients contribution
-               (emphasis added)
+ (emphasis added)
 
 If the amount paid by the employee to the employer is a 'recipients contribution', it will be deducted from 75% of the 'lowest price' and therefore cannot take part in the determination of the 'lowest price'. If it were then this amount would be taken into account twice.
 The relevant definition of 'recipients contribution' in subsection 136 (1) FBTAA is:
@@ -96,12 +83,8 @@ Subsection 136(1) of the FBTAA, defines 'cost price of a car' as being:
 
 (a)in relation to a car owned by a person
 
-
-
 (i)...
 (ii)...
-
-
 
 (A)the expenditure incurred by the person (other than expenditure in respect of registration or in respect of a tax on, or a transfer of, registration) that is directly attributable to the acquisition or delivery of the car...,
 
@@ -158,10 +141,10 @@ Keywords
 Include insurance premium
 
 Date of decision:
-         13 April 2016
+  13 April 2016
 
 Year of income:
-           Year ending 31 March 2016
+  Year ending 31 March 2016
 
 Legislative References:
 
@@ -180,44 +163,39 @@ Other References:
 
 The Macquarie Dictionary Online
 
-
 Keywords
 
 Fringe benefits tax
-          Expense payment fringe benefits
-          In-house expense payment fringe benefits
-          In-house residual expense payment fringe benefits
-          Insurance premium
-          FBT taxable value
-          FBT employee contribution
-          Recipients contributions
-
+ Expense payment fringe benefits
+ In-house expense payment fringe benefits
+ In-house residual expense payment fringe benefits
+ Insurance premium
+ FBT taxable value
+ FBT employee contribution
+ Recipients contributions
 
 Siebel/TDMS Reference Number:
-         1-486ZRX1; 1-7WP7HKQ; 1-FLX6QVX
+  1-486ZRX1; 1-7WP7HKQ; 1-FLX6QVX
 
 Business Line:
-         Superannuation and Employer Obligations
+  Superannuation and Employer Obligations
 
 Date of publication:
-         10 June 2016
+  10 June 2016
 
 Date reviewed:
-         15 March 2026
+  15 March 2026
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 10 October 2012

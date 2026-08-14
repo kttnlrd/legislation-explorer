@@ -17,7 +17,7 @@ While non-resident individuals are generally exempt from the Medicare levy (¶2-
 
 Special tax regimes or concessions apply to particular industries or occupations (¶22-080 onwards).
 
-Taxpayers qualifying as “temporary residents” are also treated in a concessional way (¶22-125).
+Taxpayers qualifying as "temporary residents" are also treated in a concessional way (¶22-125).
 
 Non-resident companies are taxed at the same rates of tax as resident companies but are treated diﬀerently on important aspects such as dividend imputation and consolidation (¶3-010).
 

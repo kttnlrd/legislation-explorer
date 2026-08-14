@@ -3,18 +3,14 @@ ATO ID 2004/47
 ==================================================
 
 Goods and Services Tax
-        GST and the sale of strata titled motel units
-        FOI status: may be released
-
-
+ GST and the sale of strata titled motel units
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a motel owner, making an input taxed supply under section 40-65 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it strata titles the motel and sells each of the strata titled motel rooms?
@@ -31,16 +27,12 @@ Reasons for Decision
 Subsection 40-65(1) of the GST Act provides that a sale of real property is input taxed to the extent that the property is residential premises to be used predominantly for residential accommodation (regardless of the term of occupation). On their own,each of the entity's motel units are residential premises to be used predominantly for residential accommodation.
 However, subsection 40-65(2) of the GST Act provides that the sale of real property is not input taxed to the extent that the residential premises are:
 
-
-
 • commercial residential premises, or
 • new residential premises, other than those used for residential accommodation (regardless of the term of occupation) before 2 December 1998.
 
 Sold separately, the motel units are not commercial residential premises even though they were part of commercial residential premises (that is, the motel complex). As explained in Goods and Services Tax Ruling GSTR 2000/20, at paragraph 51, a motel unit cannot, by itself, exhibit the characteristics of commercial residential premises.
 Therefore, it needs to be determined whether the motel units are 'new residential premises, other than those used for residential accommodation (regardless of the term of occupation) before 2 December 1998'.
 Subsection 40-75(1) of the GST Act states that residential premises are new residential premises if they:
-
-
 
 (a) have not previously been sold as residential premises (other than commercial residential premises) and have not previously been the subject of a long term lease; or
 (b) have been created through substantial renovations of a building; or
@@ -51,11 +43,10 @@ However, each of the motel units satisfy paragraph 40-75(1)(a) of the GST Act. T
 As the motel units are new residential premises and were not used for residential accommodation before 2 December 1998 (they were constructed after that date), their sale is not input taxed under section 40-65 of the GST Act.
 The sale of the motel units satisfies the positive limbs in section 9-5 of the GST Act. Furthermore, the sale is neither GST-free under Division 38 of the GST Act nor input taxed under any other section of Division 40 of the GST Act. Therefore, the separate sales of the motel units are taxable supplies under section 9-5 of the GST Act.
 
-
 Note: The entity may be able to apply the margin scheme where the requirements of Division 75 of the GST Act are met.
 
 Date of decision:
-         17 December 2003
+  17 December 2003
 
 Legislative References:
 
@@ -69,24 +60,23 @@ Goods and Services Tax Ruling GSTR 2003/3
 Keywords
 
 Goods and services tax
-          GST property & construction
-          GST new residential premises
-          GST residential premises
-          GST commercial residential premises
-          GST sale of real property
-          GST supplies & acquisitions
-          Taxable supply
-          Input taxed supplies
-
+ GST property & construction
+ GST new residential premises
+ GST residential premises
+ GST commercial residential premises
+ GST sale of real property
+ GST supplies & acquisitions
+ Taxable supply
+ Input taxed supplies
 
 Siebel/TDMS Reference Number:
-         3859370
+  3859370
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         23 January 2004
+  23 January 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

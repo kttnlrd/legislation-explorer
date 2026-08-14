@@ -3,18 +3,14 @@ ATO ID 2003/741
 ==================================================
 
 Income Tax
-        Consolidation - trading stock
-        FOI status: may be released
-
-
+ Consolidation - trading stock
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 701A-10 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997) apply to a head company in respect of an asset that was an item of trading stock in the hands of the creator and which is transferred to a subsidiary member of the group who holds it as a depreciating asset before the group consolidates?
@@ -22,7 +18,7 @@ Decision
 No. This section only applies to internally created assets which at the time of creation were depreciating assets. Trading stock is specifically excluded from being a depreciating asset under paragraph 40-30(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997).
 Facts
 Head Company X forms a consolidated group with its wholly owned subsidiaries, Company B and Company C.
-Company B creates and owns an item of trading stock.  The asset was transferred to Company C before the group consolidated.
+Company B creates and owns an item of trading stock. The asset was transferred to Company C before the group consolidated.
 Company C holds it as a depreciating asset at the time the group consolidates.
 Reasons for Decision
 Subsection 701A-10(1) of the IT(TP)A 1997 only applies to assets that were depreciating assets in the hands of the creator. This is because paragraph 701A-10(1)(a) of the IT(TP)A 1997 refers to 'a depreciating asset'. Subsequent references within the section to 'the asset' obtain their meaning from the first occurring use of the term 'asset' in paragraph 701A-10(1)(a) of the IT(TP)A 1997 being a 'depreciating asset'.
@@ -30,10 +26,10 @@ Therefore, paragraph 701A-10(1)(d) of the IT(TP)A 1997 only refers to expenditur
 Paragraph 40-30(1)(b) of the ITAA 1997 specifically excludes trading stock from the definition of a depreciating asset. Subsection 40-30(2) of the ITAA 1997 reiterates the exclusion of trading stock from the definition of a depreciating asset. Consequently, trading stock cannot be a depreciating asset and is not considered under section 701A-10 of the IT(TP)A 1997.
 In this instance, Company B's internally created asset was not a depreciating asset at the time of creation because of the operation of paragraph 40-30(1)(b) of the ITAA 1997. Accordingly, the conditions in paragraph 701A-10(1)(d) of the IT(TP)A 1997 are not met. Therefore, section 701A-10 of the IT(TP)A 1997 will not apply to the head company.
 Date of decision:
-         11 June 2003
+  11 June 2003
 
 Year of income:
-           Year ending 30 June 2003 Year ending 30 June 2004
+  Year ending 30 June 2003 Year ending 30 June 2004
 
 Legislative References:
 
@@ -47,20 +43,19 @@ Related ATO Interpretative Decisions
 Keywords
 
 Adjustable value of a depreciating asset
-          Adjusted market value of the consolidated group
-          Consolidation
-          Consolidation - assets
-          Consolidation - joining
-
+ Adjusted market value of the consolidated group
+ Consolidation
+ Consolidation - assets
+ Consolidation - joining
 
 Siebel/TDMS Reference Number:
-         3571648
+  3571648
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         22 August 2003
+  22 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

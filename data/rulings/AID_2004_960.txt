@@ -3,23 +3,17 @@ ATO ID 2004/960
 ==================================================
 
 Income Tax
-        Consolidation: transfer testing - continuity of ownership test -a non-fixed trust holds fixed entitlements to 50% or more of the income or capital of the head company
-        FOI status: may be released
-
-
+ Consolidation: transfer testing - continuity of ownership test -a non-fixed trust holds fixed entitlements to 50% or more of the income or capital of the head company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Subdivision 165-F of the Income Tax Assessment Act 1997 (ITAA 1997) apply in determining whether a company satisfies the continuity of ownership test (COT) in respect of the loss in the trial year where:
-
-
 
 •the subsidiary member has incurred a tax loss that is available for transfer to the head company of a consolidated group under Subdivision 707-A of the ITAA 1997;
 •a non-fixed trust or non-fixed trusts hold fixed entitlements to a 50% or greater share of the income or capital of the head company of the consolidated group?
@@ -33,8 +27,6 @@ Trust B is a non-fixed trust that holds fixed entitlements to a 50% or greater s
 Reasons for Decision
 Subsection 707-120(1) of the ITAA 1997 provides that a loss is transferred from a joining entity to the head company of a consolidated group to the extent that the loss could have been utilised by the joining entity for an income year consisting of the trial year, assuming:
 
-
-
 •that the entity had sufficient income or gains to utilise the loss; and
 •that the joining entity had not become a member of the consolidated group.
 
@@ -43,10 +35,10 @@ Subdivision 165-A of the ITAA 1997 contains the conditions for determining if a 
 Subdivision 165-F of the ITAA 1997 contains special provisions relating to situations where fixed entitlements to a share of the income or capital of a company are held by one or more non-fixed trusts. Section 165-215 of the ITAA 1997 provides that a company that does not meet the conditions in the COT in respect of a loss is nevertheless taken to satisfy the COT, if it meets the conditions contained in that section. These conditions relate broadly to situations where non-fixed trusts (other than family trusts) hold, directly or indirectly, fixed entitlements to a 50% or greater share of the income or capital of the company.
 As Trust B indirectly holds fixed entitlements to a 50% or greater share of the income of Company A, Subdivision 165-F of the ITAA 1997 is applicable when determining whether Company A satisfies the COT in respect of the loss in the trial year.
 Date of decision:
-         1 December 2004
+  1 December 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -59,25 +51,24 @@ Related ATO Interpretative Decisions
 Keywords
 
 Consolidation - continuity of ownership test
-          Consolidation - joining
-          Consolidation - losses
-          Continuity of ownership test
-          Joining entity
-          Joining time
-          Non fixed trusts
-          Transfer of losses
-          Trial year
-          Utilise a loss
-
+ Consolidation - joining
+ Consolidation - losses
+ Continuity of ownership test
+ Joining entity
+ Joining time
+ Non fixed trusts
+ Transfer of losses
+ Trial year
+ Utilise a loss
 
 Siebel/TDMS Reference Number:
-         4265621
+  4265621
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         10 December 2004
+  10 December 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

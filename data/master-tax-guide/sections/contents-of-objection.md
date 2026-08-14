@@ -13,7 +13,7 @@ The objection should convey why the taxpayer considers the assessment to be inco
 
 A statement merely to the eﬀect that the assessment is excessive or wrong, without providing any further information, is unlikely to constitute a valid objection (Lancey Shipping (1951) 9 ATD 267). Nevertheless, a letter which simply stated that: (a) tax returns had been lodged indicating that there was no tax payable for the relevant years; and (b) the assets betterment statement on which the assessments were based was wrong, was held to be a valid objection (Szajntop 93 ATC 4307; [1993] FCA 231). However, in that case, the Full Federal Court acknowledged that the taxpayer would have little chance of success unless she was allowed to amend the grounds of objection to directly challenge the assets betterment statement. It should not be assumed that the ART or court will exercise its discretion to allow a taxpayer to amend the grounds of objection; if it is not exercised, the taxpayer will be restricted to the grounds stated in the objection (¶28-130).
 
-There are restrictions on a taxpayer’s right to object against an amended assessment or determination (¶28-010) and against an assessment which reﬂects the application of a private ruling to which the taxpayer previously objected (¶24-560).
+There are restrictions on a taxpayer's right to object against an amended assessment or determination (¶28-010) and against an assessment which reﬂects the application of a private ruling to which the taxpayer previously objected (¶24-560).
 
 *Refs: s
 388-50*

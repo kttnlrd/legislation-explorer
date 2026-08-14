@@ -19,7 +19,7 @@ If the outgoing is one for which the lessor is entitled to an input tax credit (
 
 Lease incentives, premiums and payouts If the lessor provides a money incentive to the lessee to enter the lease, that is treated as a taxable supply by the lessee, because it has received consideration for agreeing to do something as part of its enterprise (¶4-000). The lessee is therefore liable to account for GST on that amount. Conversely, if the lessee pays a lease premium in addition to the normal rent so as to secure a lease, that is a supply by the lessor, who will be liable to account for GST on the premium.
 
-Details of the ATO’s views on various specific types of inducements are as follows (GST Ruling GSTR 2003/16):
+Details of the ATO's views on various specific types of inducements are as follows (GST Ruling GSTR 2003/16):
 
 - Non-monetary. If an inducement is non-monetary, there may be two supplies. For example, if a
 
@@ -37,13 +37,13 @@ Details of the ATO’s views on various specific types of inducements are as fol
 
   lessor provides plant whose ownership passes to the lessee.
 
-- Income guarantees. Where a lessor guarantees a lessee’s income from a business operated from
+- Income guarantees. Where a lessor guarantees a lessee's income from a business operated from
 
   the leased premises, that is normally treated simply as a taxable supply of the premises and of the
 
   income guarantee for a consideration equal to the rent. The position is different if it is clear that the
 
-  lessee’s entry into the lease is specifically in consideration of the income guarantee. In this case, the
+  lessee's entry into the lease is specifically in consideration of the income guarantee. In this case, the
 
   th
 
@@ -51,7 +51,7 @@ Details of the ATO’s views on various specific types of inducements are as fol
 
   the GST-inclusive value of the guarantee. The lessor also makes a taxable supply of the guarantee, for
 
-  which the consideration is the lessee’s agreement to enter the lease.
+  which the consideration is the lessee's agreement to enter the lease.
 
 - Rent-free periods. GST does not apply where there is simply a rent-free period. However, if that
 
@@ -59,7 +59,7 @@ Details of the ATO’s views on various specific types of inducements are as fol
 
   carry out repairs that benefit the lessor), the value of those services forms part of the consideration
 
-  for the lessor’s supply of the premises. The lessee’s supply of the services is taken to be made for a
+  for the lessor's supply of the premises. The lessee's supply of the services is taken to be made for a
 
   consideration equal to the GST-inclusive value of the supply of the premises for the rent-free period.
 
@@ -67,4 +67,4 @@ Lessors and lessees may also pay to get out of a lease. If the payment is made b
 
 GST may apply even though the incentive or payout is related to the commencement or cessation of the business (¶3-020).
 
-Solicitors’ costs The lease will normally require the lessee to reimburse the lessor for its solicitors’ costs of preparing the lease. If the solicitor sends the bill direct to the lessee, that cannot qualify as a tax invoice because the solicitor has not supplied anything to the lessee. The lessee therefore cannot claim an input tax credit. The correct procedure would appear to be for the solicitor to issue a tax invoice to the lessor (to whom it has supplied services), and for the lessor to then issue its own tax invoice to the lessee (to whom it has supplied the premises).
+Solicitors' costs The lease will normally require the lessee to reimburse the lessor for its solicitors' costs of preparing the lease. If the solicitor sends the bill direct to the lessee, that cannot qualify as a tax invoice because the solicitor has not supplied anything to the lessee. The lessee therefore cannot claim an input tax credit. The correct procedure would appear to be for the solicitor to issue a tax invoice to the lessor (to whom it has supplied services), and for the lessor to then issue its own tax invoice to the lessee (to whom it has supplied the premises).

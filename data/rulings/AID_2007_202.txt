@@ -3,18 +3,14 @@ ATO ID 2007/202
 ==================================================
 
 Excise
-        Excise: beer used in the manufacture of a non-excisable product
-        FOI status: may be released
-
-
+ Excise: beer used in the manufacture of a non-excisable product
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an entity that manufactures beer, use that beer to make another product that is not excisable without paying excise duty on the beer?
@@ -36,7 +32,7 @@ Section 24 of the Excise Act may allow for excisable goods to be used in the man
 There are two ways in which the entity may account for the beer and pay the requisite duty. Section 58 of the Excise Act allows entries to be made in respect of excisable goods, and for Excise officers to pass the entries, thereby authorising the removal of the goods for home consumption. Alternatively, entities may seek permission under section 61C of the Excise Act to deliver the goods for home consumption without entering the goods. In both instances the beer must be classified to the appropriate subitem in the table in the Schedule to the Excise Tariff Act and excise duty paid accordingly.
 Therefore an entity that manufactures beer cannot use the beer in the manufacture of non-excisable products without paying the appropriate excise duty on the beer.
 Date of decision:
-         5 November 2007
+  5 November 2007
 
 Legislative References:
 
@@ -46,23 +42,22 @@ Excise Act 1901   section 24   section 58   section 61   section 61C
 Keywords
 
 Alcohol
-          Alcohol excise
-          Beer
-          Beer excise
-          Excisable goods
-          Excisable goods manufacturer
-          Excise
-          Licensing
-
+ Alcohol excise
+ Beer
+ Beer excise
+ Excisable goods
+ Excisable goods manufacturer
+ Excise
+ Licensing
 
 Siebel/TDMS Reference Number:
-         5751640
+  5751640
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         9 November 2007
+  9 November 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

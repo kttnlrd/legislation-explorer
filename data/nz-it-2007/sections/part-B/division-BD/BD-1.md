@@ -4,11 +4,11 @@ part_title: Part B Core provisions
 division: BD
 division_title: Subpart BD—Income, deductions, and timing
 section: BD-1
-section_title: Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income
+section_title: Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# BD 1  Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income
+# BD 1  Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income
 
 **Amounts of income**
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 - (a) it is their excluded income under a provision in subpart CX (Excluded income) or CZ; and
 
-- (b) it is not their non-residents’ foreign-sourced income.
+- (b) it is not their non-residents' foreign-sourced income.
 
-**Non-residents’ foreign-sourced income**
+**Non-residents' foreign-sourced income**
 
-**(4)**  An amount of income of a person is non-residents’ foreign-sourced income if—
+**(4)**  An amount of income of a person is non-residents' foreign-sourced income if—
 
 - (a) the amount is a foreign-sourced amount; and
 
@@ -44,9 +44,9 @@ compilation_date: 2026-06-06
 
 - (b) their excluded income:
 
-- (c) their non-residents’ foreign-sourced income.
+- (c) their non-residents' foreign-sourced income.
 
-*Defined in this Act: amount, annual gross income, assessable income, excluded income, exempt income, foreign-sourced amount, income, non-resident, non-residents’ foreign-sourced income*
+*Defined in this Act: amount, annual gross income, assessable income, excluded income, exempt income, foreign-sourced amount, income, non-resident, non-residents' foreign-sourced income*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

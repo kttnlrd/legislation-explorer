@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3A"
 division_title: "Refunds of RBA surpluses and credits"
 subdivision: ""
@@ -21,7 +21,7 @@ Commissioner may retain an amount
 **(1)**  The Commissioner may retain an amount that he or she otherwise would have to refund to an entity under section 8AAZLF, if:
 
 > <a id="s8AAZLGB-1-a"></a>
-> **(a)**  the Commissioner reasonably believes that the entity has made a payment as a result of which the entity is, or will be, Authorised Version C2026C00170 registered 28/04/2026 Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLGB required to notify the Commissioner under section 389-5 in Schedule 1; and
+> **(a)**  the Commissioner reasonably believes that the entity has made a payment as a result of which the entity is, or will be, Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLGB required to notify the Commissioner under section 389-5 in Schedule 1; and
 
 > <a id="s8AAZLGB-1-b"></a>
 > **(b)**  the entity has not notified the Commissioner of the amount under that section; and
@@ -45,12 +45,12 @@ Commissioner may retain an amount
 > **(c)**  the Commissioner becomes reasonably satisfied that the entity does not have a liability (a PAYGW liability) to pay to the Commissioner an amount of a kind referred to in item 1 of the table in subsection 389-5(1) in Schedule 1; or
 
 > <a id="s8AAZLGB-3-d"></a>
-> **(d)**  the Commissioner ascertains (including as a result of making an estimate) the total amount of the entity’s outstanding PAYGW liabilities; whichever happens first.
+> **(d)**  the Commissioner ascertains (including as a result of making an estimate) the total amount of the entity's outstanding PAYGW liabilities; whichever happens first.
 
 > **Note:** Interest is payable under the Taxation (Interest on Overpayments and Early Payments) Act 1983 if the Commissioner is late in making the payment under subsection (3). Objecting to the decision to retain the amount
 
 <a id="s8AAZLGB-4"></a>
-**(4)**  The entity may object to a decision of the Commissioner to retain the amount under this section in the manner set out in Part IVC, if the entity is dissatisfied with the decision. Authorised Version C2026C00170 registered 28/04/2026 matters
+**(4)**  The entity may object to a decision of the Commissioner to retain the amount under this section in the manner set out in Part IVC, if the entity is dissatisfied with the decision. matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

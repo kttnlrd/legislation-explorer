@@ -86,7 +86,7 @@ compilation_date: 2026-06-06
 
 **(7)**  A notice under subsection (4) to stop being a transitional resident must be received by the Commissioner by—
 
-- (a) the time within which the person’s return of income must be filed under section 37 of the Tax Administration Act 1994; or
+- (a) the time within which the person's return of income must be filed under section 37 of the Tax Administration Act 1994; or
 
 - (b) if the person, their tax agent, or their representative applies for it, a further time allowed by the Commissioner.
 

@@ -3,23 +3,18 @@ ATO ID 2004/388
 ==================================================
 
 Income Tax
-        Consolidation - modified market value and a debt/equity swap
-        FOI status: may be released
+ Consolidation - modified market value and a debt/equity swap
+ FOI status: may be released
 
-
-This decision has been replaced by Taxation Ruling  TR 2004/9: Income tax: consolidation: what is meant by 'injection of capital' in section 707-325 of the Income Tax Assessment Act 1997?
+This decision has been replaced by Taxation Ruling TR 2004/9: Income tax: consolidation: what is meant by 'injection of capital' in section 707-325 of the Income Tax Assessment Act 1997?
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a debt/equity swap involving a debtor and a creditor, constitute an event under paragraph 707-325(4)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) for the purpose of the rule to prevent the inflation of the modified market value ('anti-inflation rule')?
@@ -32,8 +27,6 @@ Reasons for Decision
 The basic rule for working out the modified market value of an entity that becomes a member of a consolidated group is contained in subsection 707-325(1) of the ITAA 1997. It provides that the modified market value of an entity at the joining time is the market value of the entity at that time based on certain assumptions.
 Subsection 707-325(2) of the ITAA 1997 provides that if:
 
-
-
 • there are one or more events described in subsection 707-325(4) of the ITAA 1997;
 • that occurred in the four years before the time an entity becomes a member of a consolidated group; and
 • the modified market value of the entity calculated under subsection 707-325(1) of the ITAA 1997 exceeds what it would have been if none of those events occurred,
@@ -41,8 +34,6 @@ Subsection 707-325(2) of the ITAA 1997 provides that if:
 then the modified market value worked out under subsection 707-325(1) of the ITAA 1997 is reduced by the amount worked out under subsection 707-325(3) of the ITAA 1997.
 Subsection 707-325(4) of the ITAA 1997 contains the events that are referred to in subsection 707-325(2) of the ITAA 1997. Paragraph 707-325(4)(a) of the ITAA 1997 identifies one of the events as an injection of capital into the entity or an associate.
 An injection of capital that occurred in the four years before the joining time can only be disregarded if it is made:
-
-
 
 • into a listed public company through a dividend reinvestment scheme (paragraph 707-325(5)(a) of the ITAA 1997);
 • in association with the acquisition of shares under an employee share scheme meeting certain conditions (paragraph 707-325(5)(b) of the ITAA 1997); or
@@ -53,10 +44,10 @@ The wealth of the debtor has increased by virtue of it no longer having an oblig
 As company D has issued shares to company C, an event of an injection of capital into the company has occurred. As the arrangement took place after 8 December 2000 and in the four years prior to company D forming a consolidated group, this injection constitutes an event for the purposes of the anti-inflation rule and is not disregarded.
 A reduction in the modified market value of company D may be required under subsection 707-325(2) of the ITAA 1997.
 Date of decision:
-         22 April 2004
+  22 April 2004
 
 Year of income:
-           30 June 2003
+  30 June 2003
 
 Legislative References:
 
@@ -71,34 +62,30 @@ Related ATO Interpretative Decisions
 Keywords
 
 Acquisition of shares
-          Consolidatable group
-          Consolidation
-          Consolidation - event
-          Consolidation - losses
-          Consolidation - reduction
-          Injection of capital
-          Modified market value
-
+ Consolidatable group
+ Consolidation
+ Consolidation - event
+ Consolidation - losses
+ Consolidation - reduction
+ Injection of capital
+ Modified market value
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         7 May 2004
+  7 May 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 April 2004

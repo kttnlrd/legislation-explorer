@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3"
 division_title: "Treatment of payments, credits and RBA surpluses"
 subdivision: ""
@@ -27,7 +27,7 @@ RBA surpluses
 > **(a)**  allocated to an RBA; or
 
 > <a id="s8AAZLC-2-b"></a>
-> **(b)**  applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner’s favour by the same amount.
+> **(b)**  applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner's favour by the same amount.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

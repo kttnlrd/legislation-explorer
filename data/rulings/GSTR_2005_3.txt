@@ -4,42 +4,40 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 11
-  • Div 138
-  • Div 165
-  • Div 358
-  • Div 48
-  • Div 66
-  • Division
+ • Div 11
+ • Div 138
+ • Div 165
+ • Div 358
+ • Div 48
+ • Div 66
+ • Division
 114
-  • Division
+ • Division
 140
-  • Division
+ • Division
 80
-  • Division 11
-  • Division 138
-  • Division 165
-  • Division 358
-  • Division 48
-  • Division 66
-  • Division 9
-  • Subdivision 66-B
-  • div 66
-  • division 66
+ • Division 11
+ • Division 138
+ • Division 165
+ • Division 358
+ • Division 48
+ • Division 66
+ • Division 9
+ • Subdivision 66-B
+ • div 66
+ • division 66
 
 Cases Referenced:
-  • Australia Limited v. Commissioner 
-  • Australian Provincial Assurance Co Limited v. Coroneo
+ • Australia Limited v. Commissioner 
+ • Australian Provincial Assurance Co Limited v. Coroneo
 (1938)
-  • Ltd v. Commissioner 
-  • Ors v. Commissioner 
-  • State Revenue v. Uniqema Pty Ltd
+ • Ltd v. Commissioner 
+ • Ors v. Commissioner 
+ • State Revenue v. Uniqema Pty Ltd
 
-  • Taxation v. Hart 
+ • Taxation v. Hart 
 
 Topics: GST, Companies
-
-
 
 ================================================================================
 
@@ -54,13 +52,13 @@ Back to browse
 68 related documents
 Goods and Services Tax Ruling
 GSTR 2005/3
-Goods and services tax:  arrangements of the kind described in Taxpayer Alert TA 2004/9 - exploitation of the second-hand goods provisions to obtain input tax credits
+Goods and services tax: arrangements of the kind described in Taxpayer Alert TA 2004/9 - exploitation of the second-hand goods provisions to obtain input tax credits
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -111,7 +109,7 @@ Date of effect
 Background
 7. The Alert was issued on 13 May 2004. It describes three different arrangements that seek to exploit the second-hand goods provisions in Division 66 to obtain GST input tax credits.
 8. These arrangements exhibit one common feature. They involve a claim for GST input tax credits in relation to second-hand goods sold to an interposed associated entity. In these arrangements, a GST registered entity acquires goods (usually of high value) through a supply that is not a taxable supply and sells these goods to an interposed associated entity. This is said to give rise to an entitlement to input tax credits as a result of the operation of Division 66.
-Features of Arrangement 1:  cancellation of registration
+Features of Arrangement 1: cancellation of registration
 9. The features of this arrangement are:
 (a)
 Participants are introduced to the arrangement by tax advisers who promote the purported GST benefits of the arrangement;
@@ -135,7 +133,7 @@ The transfer of the equipment to Entity C and the lease back were intended to im
 (i)
 Entity B claims a substantial input tax credit for its acquisition of the equipment from Entity A as a result of the operation of Division 66. The credit claimed relates to the equipment for which Entity A had an increasing adjustment, as well as equipment acquired before the commencement of the GST. The amount of the credit is substantially greater than the amount of the increasing adjustment.
 Diagrammatically represented as follows:
-Features of Arrangement 2:  imported goods
+Features of Arrangement 2: imported goods
 10. The features of this arrangement are:
 (a)
 Participants are introduced to the arrangement by tax advisers who promote the purported GST benefits of the arrangement;
@@ -156,7 +154,7 @@ Entity D claims an input tax credit as a result of the operation of Division 66 
 (h)
 Entities D, E and F are members of the same corporate group, but are not members of a GST group.
 Diagrammatically represented as follows:
-Features of Arrangement 3:  exported goods
+Features of Arrangement 3: exported goods
 11. The features of this arrangement are:
 (a)
 Entity G exports high value second-hand goods directly to overseas customers. It mainly purchases the second-hand goods in Australia from persons who are not registered for GST. Its sales are GST-free;
@@ -212,7 +210,7 @@ Division 165
 18. Division 165 operates to deter avoidance schemes that are designed to obtain GST benefits by taking advantage of the GST law in circumstances other than those intended by the GST law. The Division allows the Commissioner to make a scheme ineffective where it is concluded that the scheme was entered into, or carried out, for the dominant purpose of an entity obtaining a GST benefit, or the scheme had the principal effect of an entity obtaining a GST benefit.
 [9]
 Ruling
-Arrangement 1:  cancellation of registration
+Arrangement 1: cancellation of registration
 19. In Arrangement 1, Entity B is not entitled to an input tax credit for its acquisition of items of equipment from Entity A under Division 66 unless they are:
 •
 goods and not fixtures;
@@ -225,18 +223,18 @@ acquired for the purposes of sale or exchange (but not for manufacture) in the o
 21. The equipment is second-hand as it has been previously used.
 22. We consider that the equipment was not acquired by Entity B for the purposes of sale or exchange in the ordinary course of business. Therefore, it is not entitled to an input tax credit for the acquisition.
 23. If, contrary to our view, Entity B is entitled to an input tax credit for the acquisition, the Commissioner would consider the application of Division 165 having regard to all of the facts and circumstances in the particular matter. On the basis of the facts outlined in this Ruling, Division 165 would apply to the arrangement.
-Arrangement 2:  imported goods
+Arrangement 2: imported goods
 24. In Arrangement 2, Entity D is not entitled to an input tax credit as a result of the operation of Division 66 for its acquisition of high value goods from Entity E. This is because the subsequent supply of the goods from Entity D to Entity F is not a taxable supply.
 25. The supply from Entity D to Entity F is not connected with Australia because it does not satisfy subsection 9-25(3). Therefore, the supply is not a taxable supply as all the elements of a taxable supply in section 9-5, specifically, paragraph 9-5(c), are not satisfied. Under paragraph 66-5(2)(e), section 66-5 does not apply if the subsequent supply is not a taxable supply.
 26. Additionally, in circumstances where the supply by Entity E to Entity D is GST-free as an export under item 1 in the table in subsection 38-185(1), input tax credits would not be available to Entity D due to the exclusion in paragraph 66-5(2)(a) of acquisitions that are from GST-free supplies.
 27. If, contrary to our view, Entity D is entitled to an input tax credit for the acquisition, the Commissioner would consider the application of Division 165 having regard to all of the facts and circumstances in the particular matter. On the basis of the facts outlined in this Ruling, Division 165 would apply to the arrangement.
-Arrangement 3:  exported goods
+Arrangement 3: exported goods
 28. In Arrangement 3, Entity G is entitled to an input tax credit as a result of the operation of Division 66 for its acquisition of second-hand goods from unregistered suppliers unless Division 165 applies.
 29. In the variant of Arrangement 3 described in paragraph 12, Entity H is entitled to an input tax credit as a result of the operation of Division 66 for its acquisition of second-hand goods from unregistered suppliers unless Division 165 applies.
 30. The Commissioner would consider the application of Division 165 to these arrangements having regard to all of the facts and circumstances in the particular matter. On the basis of the facts outlined in this Ruling, Division 165 would apply to the arrangements.
 31. However, this Ruling is not suggesting that, in every case where there are sales of second-hand goods between Australian entities before those goods are exported, Division 165 will apply. As noted, it is a matter of considering the facts and circumstances in each case.
 Explanation (this forms part of the Ruling)
-Arrangement 1:  cancellation of registration
+Arrangement 1: cancellation of registration
 Subsection 66-5(1)
 32. In this arrangement, Entity B is not entitled to an input tax credit as a result of the operation of Division 66 in relation to its acquisition of items of equipment from Entity A unless they are:
 •
@@ -269,7 +267,7 @@ Case 1
 McLean's
 case, where at page 623 Barber DJ said:
 I consider that there is quite some commonsense flexibility in ascertaining whether a good is still new or has become second hand. I do not regard second ownership as necessarily rendering an item second hand. Many goods pass from manufacturer to wholesaler to retailer to customer or consumer (with other levels of distributors sometimes involved) and yet are not regarded as second hand at the consumer purchase level, even though the item has been used as stock-in-trade at the various distribution levels. The good is not usually regarded as second hand until it has been used for its intrinsic purpose.
-41. Consistent with the view in Goods and Services Tax Ruling GSTR 2000/8, Goods and Services Tax:  special credit for sales tax paid on stock, we consider that second-hand in the context of Division 66 also means 'previously used' or 'not new'. As noted by Barber DJ, usually goods are second-hand only if they have been used for their intrinsic purpose. However, goods that have been used for another purpose are also second-hand.
+41. Consistent with the view in Goods and Services Tax Ruling GSTR 2000/8, Goods and Services Tax: special credit for sales tax paid on stock, we consider that second-hand in the context of Division 66 also means 'previously used' or 'not new'. As noted by Barber DJ, usually goods are second-hand only if they have been used for their intrinsic purpose. However, goods that have been used for another purpose are also second-hand.
 42. To the extent that the items of equipment acquired from Entity A are goods, the items of equipment are second-hand goods as they have been previously used by Entity A.
 Acquired for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business
 43. For the Commissioner's view on when second-hand goods are acquired for the purpose of sale in the ordinary course of business under Division 66 of the GST Act, see Goods and Services Tax Determination GSTD 2013/2
@@ -285,7 +283,7 @@ when are second-hand goods acquired for the purpose of sale in the ordinary cour
 45D. [Omitted]
 45E. [Omitted]
 45F. [Omitted]
-Arrangement 2:  imported goods
+Arrangement 2: imported goods
 Paragraph 66-5(2)(e)
 46. In this arrangement, Entity D is not entitled to an input tax credit as a result of the operation of Division 66 for its acquisition of high value goods from Entity E unless the subsequent supply of the high value goods from Entity D to Entity F is a taxable supply.
 [16]
@@ -310,7 +308,7 @@ Paragraph 66-5(2)(a)
 51. Paragraph 66-5(2)(a) provides that section 66 does not apply, and is taken never to have applied, to the acquisition if the supply of the goods to you was a taxable supply, or was GST-free.
 Item 1 of the table in subsection 38-185(1)
 52. Item 1 of the table in subsection 38-185(1) provides that a supply of goods is GST-free if the supplier exports them from Australia before or within 60 days (or such further period as the Commissioner allows) after the receipt of any consideration, or the supplier issuing an invoice for the supply.
-Arrangement 3:  exported goods
+Arrangement 3: exported goods
 Division 66 - second-hand goods
 53. This arrangement, and the variant, satisfies the requirements of Division 66. Entity G (Entity H in the variant) is entitled to input tax credits for its acquisitions of second-hand goods from the unregistered suppliers, unless Division 165 applies.
 54. This Ruling identifies various features in relation to the arrangements of the kind described in the Ruling. However, there may be other features that are not identified in the Ruling but that are relevant to the application of the GST provisions depending on the facts and circumstances of the particular case.
@@ -352,7 +350,7 @@ Entity E would or could reasonably be expected to have sold the goods directly t
 68. Consideration of some of the matters in subsection 165-15(1) may point in the direction of a tax avoidance purpose or effect, others may point in the opposite direction, and some may be neutral. It is the evaluation of these matters, alone or in combination, some for, some against, that section 165-15 requires in order to reach the conclusion to which section 165-5 refers.
 [24]
 Application of Division 165 to the arrangements
-Arrangement 1:  cancellation of registration
+Arrangement 1: cancellation of registration
 Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carried out
 69. The restructure appears to have been carried out with careful attention to the order of the various steps. These include cancellation of Entity A's GST registration and its ceasing to be a member of the GST group with Entity B immediately before the sale of the equipment to Entity B and the on-sale to Entity C for lease back. Had the cancellation occurred after the transfer, no GST benefit would have arisen. Similarly, if the equipment were transferred directly by Entity A to Entity C, no benefit would have arisen. The manner in which the restructure was entered into with careful regard to the order of these steps points to it having been undertaken with the dominant purpose or principal effect of obtaining the GST benefit.
 70. The manner in which the arrangement was entered into followed the advice of tax advisers promoting the GST benefits of the arrangement.
@@ -360,8 +358,8 @@ Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carr
 [25]
 Even if the transfer of the equipment in the restructure and financing arrangements were carried out for commercial purposes, the manner in which they were carried out suggests that the dominant purpose or principal effect was to obtain a GST benefit.
 Paragraph 165-15(1)(b) - the form and substance of the scheme, including:
-(i)  the legal rights and obligations involved in the scheme; and
-(ii)  the economic and commercial substance of the scheme
+(i) the legal rights and obligations involved in the scheme; and
+(ii) the economic and commercial substance of the scheme
 72. The form of the scheme involves the transfer of the equipment from Entity A to Entity B, and then from Entity B to Entity C, with a lease back to Entity B. However, the substance of the scheme is that the economic group which includes Entities A and B continues to hold the equipment and use it without interruption at the same places and for the same purpose in carrying on the group's activities.
 73. While these factors are not determinative, when combined with the other factors, they are consistent with a conclusion that the scheme was entered into with the dominant purpose or principal effect of obtaining a GST benefit.
 Paragraph 165-15(1)(c) - the purpose or object of the [GST] Act ... and any relevant provision of this Act ... (whether the purpose or object is stated expressly or not)
@@ -410,7 +408,7 @@ Division 165 - conclusion
 Alternative view
 96. There is an alternative view that the Commissioner would be unable to negate a GST benefit arising from this arrangement. This view is based on paragraph 165-5(1)(b), which provides that Division 165 does not operate if a GST benefit is 'attributable to the making, by any entity, of a choice, election, application or agreement that is expressly provided for by the GST law'. Subsection 25-55(1) expressly allows entities to apply to have their GST registration cancelled. It is argued that paragraph 165-5(1)(b) should apply as the GST benefit arising under this arrangement would be attributable to the application made under subsection 25-55(1).
 97. The Commissioner does not accept this argument. It is the Commissioner's view that the GST benefit arising under this arrangement is not attributable to Entity A's application for cancellation of its GST registration. Rather, it is considered that the GST benefit is attributable to the intermediate transfer of equipment from Entity A to Entity B and subsequent sale to Entity C.
-Arrangement 2:  imported goods
+Arrangement 2: imported goods
 Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carried out
 98. The manner in which the scheme was carried out includes taking the goods offshore for a brief period, executing the sale agreements offshore and then returning the goods to Australia.
 [29]
@@ -422,8 +420,8 @@ Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carr
 103. Even if the transfer of the goods and the novation of the lease were carried out for commercial purposes, the manner in which they were carried out suggests that the dominant purpose or principal effect was to obtain a GST benefit.
 [31]
 Paragraph 165-15(1)(b) - the form and substance of the scheme, including:
-(i)  the legal rights and obligations involved in the scheme; and
-(ii)  the economic and commercial substance of the scheme
+(i) the legal rights and obligations involved in the scheme; and
+(ii) the economic and commercial substance of the scheme
 104. The form of the scheme involves the transfer of the goods from Entity E to Entity D, and then from Entity D to Entity F, with a novation of the lease. However, the substance of the scheme is that the economic group which includes Entities D, E and F, continues to own the goods and the lessee, TP, continues to use them for the same purpose in carrying on its activities.
 105. While these factors are not determinative, when combined with the other factors, they are consistent with a conclusion that the scheme was entered into with the dominant purpose or principal effect of obtaining a GST benefit.
 106. The form of the sale from Entity D to Entity F is that the goods are delivered and made available in Australia. The substance is that, as with the sale from Entity E to Entity D, the goods were outside Australia when the sale occurred and remained at all times in the possession of the lessee. This points to the provision of a clause in the sale agreement between Entity D and Entity F for the goods to be delivered and made available in Australia being for the dominant purpose or principal effect of obtaining the GST benefit.
@@ -465,7 +463,7 @@ Paragraphs 165-15(1)(l) - any other relevant circumstances
 [34]
 Division 165 - conclusion
 129. The Commissioner would consider the application of Division 165 to particular matters having regard to all of the facts and circumstances. On the basis of the facts and circumstances outlined in this Ruling, Division 165 would apply to the arrangement.
-Arrangement 3:  exported goods
+Arrangement 3: exported goods
 Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carried out
 130. The arrangement was carried out simply by interposing an associated entity and invoicing the goods between the associated entities.
 [35]
@@ -519,11 +517,11 @@ Date of effect
 5
 Background
 7
-Features of Arrangement 1:  cancellation of registration
+Features of Arrangement 1: cancellation of registration
 9
-Features of Arrangement 2:  imported goods
+Features of Arrangement 2: imported goods
 10
-Features of Arrangement 3:  exported goods
+Features of Arrangement 3: exported goods
 11
 Legislative context
 14
@@ -535,15 +533,15 @@ Division 165
 18
 Ruling
 19
-Arrangement 1:  cancellation of registration
+Arrangement 1: cancellation of registration
 19
-Arrangement 2:  imported goods
+Arrangement 2: imported goods
 24
-Arrangement 3:  exported goods
+Arrangement 3: exported goods
 28
 Explanation (this forms part of the Ruling)
 32
-Arrangement 1:  cancellation of registration
+Arrangement 1: cancellation of registration
 32
 Subsection 66-5(1)
 32
@@ -554,7 +552,7 @@ Goods must be 'second-hand' goods
 37
 Acquired for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business
 43
-Arrangement 2:  imported goods
+Arrangement 2: imported goods
 46
 Paragraph 66-5(2)(e)
 46
@@ -564,7 +562,7 @@ Paragraph 66-5(2)(a)
 50
 Item 1 of the table in subsection 38-185(1)
 52
-Arrangement 3:  exported goods
+Arrangement 3: exported goods
 53
 Division 66 - second-hand goods
 53
@@ -572,7 +570,7 @@ Division 165 - anti-avoidance
 55
 Application of Division 165 to the arrangements
 69
-Arrangement 1:  cancellation of registration
+Arrangement 1: cancellation of registration
 69
 Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carried out
 69
@@ -606,7 +604,7 @@ Division 165 - conclusion
 95
 Alternative view
 96
-Arrangement 2:  imported goods
+Arrangement 2: imported goods
 98
 Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carried out
 98
@@ -636,7 +634,7 @@ Paragraphs 165-15(1)(l) - any other relevant circumstances
 128
 Division 165 - conclusion
 129
-Arrangement 3:  exported goods
+Arrangement 3: exported goods
 130
 Paragraph 165-15(1)(a) - the manner in which the scheme was entered into or carried out
 130
@@ -678,7 +676,7 @@ For tax periods starting on or after 1 July 2010, it is no longer a requirement 
 [1A]
 Division 138.
 [2]
-For further details on whether a supply is connected with Australia see paragraph 116 of Goods and Services Tax Ruling GSTR 2000/31, Goods and services tax:  supplies connected with Australia.
+For further details on whether a supply is connected with Australia see paragraph 116 of Goods and Services Tax Ruling GSTR 2000/31, Goods and services tax: supplies connected with Australia.
 [3]
 Subsection 9-25(1).
 [4]
@@ -726,7 +724,7 @@ Paragraph 9-5(c).
 [18]
 GSTR 2000/31 at paragraph 116.
 [19]
-See paragraphs 222 to 224 of Goods and Services Tax Ruling GSTR 2003/15, Goods and services tax:  importation of goods into Australia.
+See paragraphs 222 to 224 of Goods and Services Tax Ruling GSTR 2003/15, Goods and services tax: importation of goods into Australia.
 [20]
 Section 165-40.
 [21]
@@ -798,7 +796,7 @@ In considering particular arrangements, the Commissioner would take into account
 previously issued in draft form as GSTR 2004/D4
 References
 ATO references:
-NO  1-8IJPR8Y
+NO 1-8IJPR8Y
 ISSN: 2205-6157
 Related Rulings/Determinations:
 TR 2006/10
@@ -870,9 +868,9 @@ ANTS(GST)A99 165-15(1)(l)
 ANTS(GST)A99 165-15(2)
 ANTS(GST)A99 165-40
 ANTS(GST)A99 195-1
-ITAA 1936  Pt IVA
+ITAA 1936 Pt IVA
 ITAA 1997
-TAA 1953  Sch 1 Div 358
+TAA 1953 Sch 1 Div 358
 Case References:
 Australian Provincial Assurance Co Limited v. Coroneo
 (1938) 38 SR (NSW) 700

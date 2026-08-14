@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) is an employee whose employer—
 
-  - (i) provides employment income information by electronic means with particulars relating to the person’s PAYE income payments for a pay period; and
+  - (i) provides employment income information by electronic means with particulars relating to the person's PAYE income payments for a pay period; and
 
   - (ii) agrees to offer payroll giving to their employees; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Maximum credit**
 
-**(4)**  Despite subsection (2), the amount of the tax credit must not be more than the amount of tax for the person’s pay for the period.
+**(4)**  Despite subsection (2), the amount of the tax credit must not be more than the amount of tax for the person's pay for the period.
 
 **Non-refundable credits**
 

@@ -3,21 +3,16 @@ ATO ID 2003/964
 ==================================================
 
 Income Tax
-        Consolidation: subsidiary in liquidation - membership of consolidated group
-        FOI status: may be released
-
+ Consolidation: subsidiary in liquidation - membership of consolidated group
+ FOI status: may be released
 
 This ATO ID was amended to improve clarity
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a wholly-owned subsidiary company eligible to be a member of a consolidated group, under paragraph 703-15(2)(b) of the Income Tax Assessment Act 1997 (ITAA 1997), if it is in liquidation at the time that the consolidated group is formed?
@@ -29,11 +24,8 @@ Prior to the time of consolidation, a liquidator has been appointed to wind up S
 At the time of consolidation, the liquidation process was continuing.
 Subsidiary B had not yet been deregistered.
 
-
 Reasons for Decision
-The criteria for eligibility to be a subsidiary member of a consolidated group are contained in item 2 of the table in subsection 703-15(2) of the ITAA 1997.  One of the requirements for a subsidiary company to be a member of a consolidated group is that it must be a wholly owned subsidiary of the head company. To be a member of a consolidated group, a subsidiary company must be:
-
-
+The criteria for eligibility to be a subsidiary member of a consolidated group are contained in item 2 of the table in subsection 703-15(2) of the ITAA 1997. One of the requirements for a subsidiary company to be a member of a consolidated group is that it must be a wholly owned subsidiary of the head company. To be a member of a consolidated group, a subsidiary company must be:
 
 •taxed at a rate equal to the general company tax rate
 •not excluded from being a member of a consolidated group
@@ -44,10 +36,10 @@ The definition of a 'wholly-owned subsidiary' is contained in subsection 703-30(
 The appointment of a liquidator to a company does not affect a shareholder's beneficial ownership of their shares in the liquidating company, although those shares may be worthless.
 Accordingly, the appointment of a liquidator to Subsidiary B will not affect Subsidiary A's membership interests in Subsidiary B. Subsidiary B will satisfy the definition of 'wholly-owned subsidiary' contained in section 703-30 of the ITAA 1997, and is eligible to be a member of the consolidated group as it satisfies the criteria for eligibility contained in item 2 of the table in subsection 703-15(2) of the ITAA 1997 .
 Date of decision:
-         1 October 2003
+  1 October 2003
 
 Year of income:
-           30 June 2004
+  30 June 2004
 
 Legislative References:
 
@@ -56,25 +48,24 @@ Income Tax Assessment Act 1997   subsection 703-15(2)   paragraph 703-15(2
 Keywords
 
 Consolidation
-          Consolidation - formation
-          Liquidation
-          Member of a group
-          Ownership, interests, control & rights
-          Subsidiary member of a consolidatable group
-          Subsidiary member of a consolidated group
-          Voluntary liquidation
-          Wholly owned
-          Wholly owned subsidiary
-
+ Consolidation - formation
+ Liquidation
+ Member of a group
+ Ownership, interests, control & rights
+ Subsidiary member of a consolidatable group
+ Subsidiary member of a consolidated group
+ Voluntary liquidation
+ Wholly owned
+ Wholly owned subsidiary
 
 Siebel/TDMS Reference Number:
-         3715837
+  3715837
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         31 October 2003
+  31 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

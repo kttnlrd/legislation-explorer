@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Transfer**
 
-**(4)**  Transfer is the amount of the transfer to the person’s environmental restoration account that is treated as a payment by the person under section EK 15(3), EK 16, or EK 19.
+**(4)**  Transfer is the amount of the transfer to the person's environmental restoration account that is treated as a payment by the person under section EK 15(3), EK 16, or EK 19.
 
 **Tax rate**
 

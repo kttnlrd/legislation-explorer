@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No disposal safe harbours when disposal upon dissolution**
 
-**(1)**  Sections HG 5 to HG 10 do not apply for the partners of a partnership when the partnership is finally dissolved by agreement of the partners, court order, or otherwise and the partnership’s business, ignoring section HG 2, will not continue to be carried on in partnership.
+**(1)**  Sections HG 5 to HG 10 do not apply for the partners of a partnership when the partnership is finally dissolved by agreement of the partners, court order, or otherwise and the partnership's business, ignoring section HG 2, will not continue to be carried on in partnership.
 
 **Election out of disposal safe harbours for small partnerships**
 

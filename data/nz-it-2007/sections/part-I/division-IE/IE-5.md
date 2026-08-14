@@ -14,7 +14,7 @@ The provisions of this Act apply as if the amalgamated company did not exist sep
 
 - (a) may be used or is carried forward under sections IA 3 and IA 4 (which relate to the general use of tax losses):
 
-- (b) may be subtracted from the net income of another company under section IC 5 or IQ 4 (which relate to a company’s use of another company’s loss, including foreign losses):
+- (b) may be subtracted from the net income of another company under section IC 5 or IQ 4 (which relate to a company's use of another company's loss, including foreign losses):
 
 - (c) in the case of a group company, may be subtracted from the net income of the amalgamated company under section IC 5 or IQ 4.
 

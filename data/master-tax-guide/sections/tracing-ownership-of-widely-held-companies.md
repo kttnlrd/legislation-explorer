@@ -7,7 +7,7 @@ paragraph: "¶3-130"
 ---
 # Tracing ownership of widely held companies ¶3-130
 
-Because of the diﬃculty widely held companies may have in tracing ownership of their shares, the tests required to be satisﬁed to establish continuity of ownership for the purposes of various company loss provisions (¶3-105 – ¶3-150, ¶11-090, ¶11-120) are modiﬁed for such companies (ITAA97 Div 166: ss 166-1 to 166-280). The modiﬁed rules apply to a company that is a “widely held company” or an “eligible Division 166 company”, and are set out as follows:
+Because of the diﬃculty widely held companies may have in tracing ownership of their shares, the tests required to be satisﬁed to establish continuity of ownership for the purposes of various company loss provisions (¶3-105 – ¶3-150, ¶11-090, ¶11-120) are modiﬁed for such companies (ITAA97 Div 166: ss 166-1 to 166-280). The modiﬁed rules apply to a company that is a "widely held company" or an "eligible Division 166 company", and are set out as follows:
 
 - ITAA97 Subdiv 166-A modiﬁes the application of ITAA97 Subdiv 165-A to deductions for prior
 
@@ -39,9 +39,9 @@ Because of the diﬃculty widely held companies may have in tracing ownership of
 
 Subject to transitional provisions, Div 166 has applied since 1 July 2002.
 
-Widely held companies and eligible Div 166 companies Division 166 applies where a company is a widely held company or “eligible Division 166 company” at all times during the income year in which the deduction is sought. The term “widely held company” includes all companies that are listed on an approved stock exchange and all unlisted companies with more than 50 members where no 20 or fewer persons hold 75% or more of the voting, dividend or capital distribution rights. An “eligible Division 166 company” is a company (other than a widely held company) in which more than 50% of the voting power, dividend rights or capital distribution rights are beneﬁcially owned by one or more of the following: a widely held company; a deemed beneﬁcial owner (ie a complying superannuation fund, foreign superannuation fund, complying ADF, special company, managed investment scheme or other entity prescribed for the purposes of s 166-245); a non-proﬁt company; or a charitable body.
+Widely held companies and eligible Div 166 companies Division 166 applies where a company is a widely held company or "eligible Division 166 company" at all times during the income year in which the deduction is sought. The term "widely held company" includes all companies that are listed on an approved stock exchange and all unlisted companies with more than 50 members where no 20 or fewer persons hold 75% or more of the voting, dividend or capital distribution rights. An "eligible Division 166 company" is a company (other than a widely held company) in which more than 50% of the voting power, dividend rights or capital distribution rights are beneﬁcially owned by one or more of the following: a widely held company; a deemed beneﬁcial owner (ie a complying superannuation fund, foreign superannuation fund, complying ADF, special company, managed investment scheme or other entity prescribed for the purposes of s 166-245); a non-proﬁt company; or a charitable body.
 
-Test times Under the modiﬁed rules, companies are required to test for continuity of ownership at the start of the loss year, at the end of the income year in which the deduction is claimed, at the end of any intervening year and at the end of a “corporate change”. A “corporate change” could be a takeover bid (whether or not successful), an arrangement involving 50% or more of the company’s shares, an increase in the issued capital or number of shares by 20% or more, or a corporate change in a majority stakeholder (s 166-175).
+Test times Under the modiﬁed rules, companies are required to test for continuity of ownership at the start of the loss year, at the end of the income year in which the deduction is claimed, at the end of any intervening year and at the end of a "corporate change". A "corporate change" could be a takeover bid (whether or not successful), an arrangement involving 50% or more of the company's shares, an increase in the issued capital or number of shares by 20% or more, or a corporate change in a majority stakeholder (s 166-175).
 
 Tracing rules
 
@@ -69,7 +69,7 @@ Tracing rules
 
   attributed to the depository entity as an ultimate owner in certain circumstances (s 166-260).
 
-The modiﬁed COT contains a “same share same interest rule” comparable to that for the normal COT (¶3-105); however, it applies only to interests held by a top interposed company, a widely held company, an entity deemed to be a beneﬁcial owner or a depository company (s 166-272).
+The modiﬁed COT contains a "same share same interest rule" comparable to that for the normal COT (¶3-105); however, it applies only to interests held by a top interposed company, a widely held company, an entity deemed to be a beneﬁcial owner or a depository company (s 166-272).
 
 As the tracing rules are not intended to have any detrimental eﬀect on a company satisfying the COT, a tracing rule can be disregarded in respect of a particular stake if it would cause the company to fail the COT.
 
@@ -93,7 +93,7 @@ Controlled test companies rule The controlled test companies rule (s 166-280) ov
 
   relation to the voting power of the tested company where:
 
-– a natural person (not a trustee), together with the person’s associates, holds 25% or more of the voting rights in the tested company, or – a trustee or company, together with its associates, holds 50% or more of the voting rights in the tested company.
+– a natural person (not a trustee), together with the person's associates, holds 25% or more of the voting rights in the tested company, or – a trustee or company, together with its associates, holds 50% or more of the voting rights in the tested company.
 
 In the above circumstances, the tested company must trace its ownership through to the entity that has suﬃcient inﬂuence or the relevant natural person, trustee or company.
 

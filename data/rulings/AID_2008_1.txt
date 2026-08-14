@@ -3,18 +3,14 @@ ATO ID 2008/1
 ==================================================
 
 Income Tax
-        Equity Mortgage Agreements: Division 6C of the Income Tax Assessment Act 1936
-        FOI status: may be released
-
-
+ Equity Mortgage Agreements: Division 6C of the Income Tax Assessment Act 1936
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are the Equity Mortgage Agreements to be entered into between a Unit Trust and various Home Owners 'other securities' for the purposes of subparagraph 102M(b)(ii) of the Income Tax Assessment Act 1936 (ITAA 1936).
@@ -54,8 +50,6 @@ Reasons for Decision
 Section 102M of the ITAA 1936 defines the operative terms for the interpretation and application of Division 6C of the ITAA 1936 in respect to the income of certain public unit trusts. Division 6C treats certain trusts described as 'public trading trusts' as companies, by taxing the trustees of such trusts at the company rate.
 A trust is a 'public trading trust' within Division 6C of the ITAA 1936 if it satisfies four requirements (section 102R of the ITAA 1936):
 
-
-
 (1)the trust is a public unit trust;
 (2)the trust is a trading trust;
 (3)either the trust is a resident unit trust or was a public trading trust of the preceding income year, that is, it was a resident in a previous year; and
@@ -67,20 +61,14 @@ Trading Trust
 
 A unit trust is a 'trading trust' pursuant to section 102N of the ITAA 1936 if:
 
-
-
 (a)it carries on a 'trading business', or
 (b)controls or is able to control, directly or indirectly, a 'trading business' carried on by another person.
 
 The Unit Trust does not satisfy requirement (2) so it remains to be considered whether the Unit Trust conducts a 'trading business'.
 A 'trading business' is any business that does not consist wholly of 'eligible investment business' which is defined within section 102M of the ITAA 1936 to mean either or both of: (emphasis added):
 
-
-
 (a)investing in land for the purpose, or primarily for the purpose, of deriving rent; or
 (b)investing or trading in any or all of the following:
-
-
 
 (i)loans (secured or unsecured);
 (ii)bonds, debentures, stock or other securities;
@@ -94,27 +82,25 @@ Eligible investment business
 The meaning given to the phrases 'eligible investment business' and 'trading business' is assisted by the Explanatory Memorandum to Taxation Laws Amendment Bill (No. 4) 1985 (the 'EM') which introduced Division 6C into the ITAA 1936.
 'Eligible investment business' is a term used in the definition of 'trading business' for the purpose of specifying the type of activities that can be conducted by a trustee of a unit trust without causing the trust to be taken to be a 'trading trust' for the purposes of Division 6C.of the ITAA 1936. For this purpose, an 'eligible investment business' means an activity consisting of either or both of -
 
-
-
 1.investing in land or in an interest in land wholly or primarily for the purpose of deriving rent (paragraph 102M(a) of the ITAA 1936); or
 2.investing or trading in loans, bonds, securities, shares or units in a unit trust, or in a right or option in respect of any such investments (paragraph 102M(b) of the ITAA 1936).
 
 The term 'trading business' is also defined in section 102M of the ITAA 1936 to mean any business other than 'eligible investment business'. By the operation of this section, and in conjunction with those definitions, a unit trust will be a 'trading trust' in a year of income if it carries on any activity other than the business of investing in land or in an interest in land for rental purposes, or of investing or trading in shares, bonds, securities and such like, or a business consisting of a combination of those activities.
 Furthermore, the EM states a unit trust which
-          generally
-           satisfies the tests to be treated other than as a trading trust, because it is
-          predominantly
-           carrying on an eligible investment business, will not be taken to be a trading trust merely because it receives income from activities
-          incidental
-           to its main purpose that do not constitute the carrying on of a business.
+ generally
+ satisfies the tests to be treated other than as a trading trust, because it is
+ predominantly
+ carrying on an eligible investment business, will not be taken to be a trading trust merely because it receives income from activities
+ incidental
+ to its main purpose that do not constitute the carrying on of a business.
 Where a public unit trust conducts activities that are merely incidental to its predominant activity/activities (consisting of activities that meet the 'eligible investment business' definition), this will not, of itself, cause the public unit trust to be considered a 'trading trust'. This interpretation is adopted in Taxation Determination TD 98/4.
 However, if those activities are more than merely incidental to the eligible investment business activities of the public unit trust and so are activities of the public unit trust in their own right then no such concession is afforded: see ATO ID 2003/73.
 
 Whether the mortgage is an investment in land
 
 Under the EMA, the Unit Trust does not acquire any legal or equitable ownership interest in the estate of land which is the real property of the Home Owner. However, the amount to be repaid by the Home Owner to the Unit Trust as a redemption payment is calculated on the Unit Trust's
-          notional
-           interest in that real property.
+ notional
+ interest in that real property.
 In the context of investing in land, section 102M of Division 6C of the ITAA 1936 defines 'land' to 'include an interest in land'. The verb 'include' indicates a legislative intention for the word 'land' to have a wide construction, including situations where somewhat less than full legal title is acquired.
 In addition to the ordinary meaning of that phrase, a Legal Dictionary meaning of 'interest in land' is:
 
@@ -127,8 +113,6 @@ In respect of the registrable mortgage granted to the Unit Trust in respect of t
 A lender's interest in land, secured over the land of the borrower, including a charge on property for the purpose of securing money or money's worth
 
 Prima facie, a mortgage may be considered to be an 'interest in land' in applying paragraph 102M(a) of the ITAA 1936, which provides as follows:
-
-
 
 (a)investing in land for the purpose, or primarily for the purpose, of deriving rent;
 
@@ -147,16 +131,12 @@ The Commissioner's view of the ordinary meaning of 'security' may be found in th
 
 "security" means: -
 
-
-
 (a)stock, a bond, debenture, certificate of entitlement, bill of exchange, promissory note or other security;...
 
 Subparagraph 102M(b)(ii) of the ITAA 1936 is not dissimilar to paragraph 159GP(1)(a) of the ITAA 1936 except that the list of securities identified in paragraph 159GP(1)(a) includes
-          all
-           the securities in subparagraph 102M(b)(ii).
+ all
+ the securities in subparagraph 102M(b)(ii).
 The Commissioner's views in this regard are set out in Taxation Ruling TR 96/14. Specifically, the Commissioner has ruled that in respect to paragraph 159GP(1)(a) of the ITAA 1936 the definition of 'security':
-
-
 
 •includes securities which are generally regarded as debt instruments
 •refers to items which are usually taken to be a security within its normal meaning, as denoting a debt or claim the payment of which is in some way secured; or written undertakings securing payment of money, and
@@ -165,16 +145,16 @@ The Commissioner's views in this regard are set out in Taxation Ruling TR 96/14.
 With respect to the EMA, a fundamental and mandatory financial element will exist - the imposition of a present existing liability upon the Home Owner at the time of entering into the EMA to make a future payment to the Unit Trust. The amount to be paid will be determined at that future time and will be calculated according to agreed procedures and formulae contained in the EMA. This can be contrasted to the obligation to repay a loan or advance and to pay interest and costs in relation to the loan or advance.
 The fact that the precise amount is not initially known or cannot be calculated until the maturity date, because it is dependent on variables only known and determined at that date, does not change the reasoning.
 As the EMA will not result in the Unit Trust acquiring an ownership interest in land and is more akin to a financial instrument which evidences and secures an obligation on the part of the Home Owner (issuer) to pay an amount to the Unit Trust (holder) during the term of the instrument or at maturity, confirms that the EMA will also satisfy the definition of 'security' within paragraph 159GP(1)(a) of the ITAA 1936. The fact that the amount to be ultimately paid is
-          referenced
-           to a notional value of the Unit Trust's interest in the Home Owner's property does not alter the reasoning.
+ referenced
+ to a notional value of the Unit Trust's interest in the Home Owner's property does not alter the reasoning.
 The EMA is a 'security' because it will secure a claim by the Unit Trust for an amount which is determined on redemption of the EMA and the payment of which will be secured by the mortgage granted by Home Owner's to the Unit Trust.
 Accordingly, it is considered the EMA will meet the normal definition of a security, being an instrument which evidences and secures an obligation on the part of the issuer (the Home Owner) to pay an amount to the holder (Unit Trust) during the term of the instrument or at its maturity.
 Therefore, the EMA will be a security encompassed within the phrase 'other securities' for the purposes of subparagraph 102M(b)(ii) of the ITAA 1936.
 Date of decision:
-         12 October 2007
+  12 October 2007
 
 Year of income:
-           30 June 2008 30 June 2009 30 June 2010 30 June 2011 30 June 2012
+  30 June 2008 30 June 2009 30 June 2010 30 June 2011 30 June 2012
 
 Legislative References:
 
@@ -188,25 +168,23 @@ Taxation Ruling TR 96/14
 Other References:
 
  Explanatory Memorandum to Taxation Law Amendment Bill (No. 4) 1985
-          Butterworths Concise Australian Legal Dictionary (2nd Ed).
-
+ Butterworths Concise Australian Legal Dictionary (2nd Ed).
 
 Keywords
 
 Eligible investment business
-          Public trading trusts
-          Securities
-          Trading trusts
-
+ Public trading trusts
+ Securities
+ Trading trusts
 
 Siebel/TDMS Reference Number:
-         5822334
+  5822334
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         4 January 2008
+  4 January 2008
 
 ISSN:
-          1445-2782.
+ 1445-2782.

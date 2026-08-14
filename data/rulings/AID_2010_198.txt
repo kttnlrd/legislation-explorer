@@ -3,22 +3,18 @@ ATO ID 2010/198
 ==================================================
 
 Goods and Services Tax
-        GST and agricultural managed investment scheme - pre-establishment acquisitions
-        FOI status: may be released
-
+ GST and agricultural managed investment scheme - pre-establishment acquisitions
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity entitled to input tax credits under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), for acquisitions made to set-up and promote a forestry managed investment scheme, prior to the establishment of the scheme?
@@ -27,15 +23,11 @@ Yes. The entity is entitled to input tax credits under section 11-20 of the GST 
 Facts
 The scheme:
 
-
-
 •is a 'forestry managed investment scheme' as defined in subsection 394-15(1) of the Income Tax Assessment Act 1997 (ITAA 1997);
 •is a registered managed investment scheme under the Corporations Act 2001 (Corporations Act); and
 •involves the establishment and tending of trees for felling in Australia.
 
 The scheme constitution establishes the scheme and in relation to the participants provides:
-
-
 
 •the consideration payable by the participants of the scheme is to acquire an interest in a managed investment scheme (being an interest in security for the purposes of item 10 of subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999);
 •the consideration payable by the participants for the interest includes an initial contribution (which can be paid as a single payment or as regular contributions), and additional contributions to meet the costs of harvest and after-harvest activities;
@@ -47,15 +39,11 @@ The contributions of money by the participant to the scheme, and the property ac
 A trust (and therefore a trust entity) logically comes into existence when subsection 601FC(2) of the Corporations Act operates to create a trust over the scheme property. The scheme's documentation does not provide for a trust coming into existence at an earlier point in time, and therefore there is a trust entity established at the time there is scheme property (as defined in the Corporations Act).
 The constitution provides:
 
-
-
 •for the appointment of the entity as the RE to carry out the activities for the scheme, including establishing the plantation, and the harvest and after-harvest activities. The RE also has sole authority to market and sell the product;
 •the RE is entitled to be paid out of scheme property for activities carried out for the scheme; and
 •the RE may engage the services of suitably qualified, experienced and reputable consultants in the field of silviculture, to provide the RE with all such advice and assistance that the RE requires to carry out management, harvest and after harvest activities.
 
 Prior to there being scheme property (as defined in the Corporations Act), the entity makes acquisitions to set up and promote the scheme, including acquisitions of:
-
-
 
 •accounting services;
 •advice in respect of income tax Product Ruling preparation;
@@ -65,16 +53,12 @@ Prior to there being scheme property (as defined in the Corporations Act), the e
 After there is scheme property (as defined in the Corporations Act), the entity makes acquisitions that relate solely to the management of the participants' interests in the scheme, including the necessary accounting and legal services.
 The entity also makes acquisitions (after the scheme is established) that relate solely to carrying on the agricultural enterprise, including:
 
-
-
 •plantation management services (for example, planting, thinning and harvesting services); and
 •product distribution services (for example, transport, sale and marketing services).
 
 Reasons for Decision
 Section 11-20 of the GST Act provides that an entity is entitled to an input tax credit for any creditable acquisitions that it makes.
 Under section 11-5 of the GST Act, an entity makes a 'creditable acquisition' if:
-
-
 
 (a)the entity acquires anything solely or partly for a *creditable purpose; and
 (b)the supply of the thing to the entity is a *taxable supply; and
@@ -84,14 +68,10 @@ Under section 11-5 of the GST Act, an entity makes a 'creditable acquisition' if
 
 'Creditable purpose' is defined in section 11-15 of the GST Act as follows:
 
-
-
 (1)You acquire a thing for a
-                creditable purpose
+ creditable purpose
  to the extent that you acquire it in *carrying on your *enterprise.
 (2)However, you do not acquire the thing for a creditable purpose to the extent that:
-
-
 
 (a)the acquisition relates to making supplies that would be *input taxed; or
 (b)the acquisition is of a private or domestic nature.
@@ -108,7 +88,7 @@ Although the trust entity (once it exists) will make input taxed supplies to par
 Because the acquisitions made to set-up and promote the scheme are made by the entity in carrying on its enterprise, and the acquisitions do not relate to the entity making input taxed supplies, the acquisitions are made for a creditable purpose.
 Provided the other requirements of section 11-5 of the GST Act are met, the entity will be entitled to input tax credits under section 11-20 of the GST Act for such acquisitions.
 Date of decision:
-         26 October 2010
+  26 October 2010
 
 Legislative References:
 
@@ -132,19 +112,18 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          Input taxed supplies
-          GST financial supplies
-          GST input tax credits & creditable acquisitions
-
+ Input taxed supplies
+ GST financial supplies
+ GST input tax credits & creditable acquisitions
 
 Siebel/TDMS Reference Number:
-         1-25740NH
+  1-25740NH
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         5 November 2010
+  5 November 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

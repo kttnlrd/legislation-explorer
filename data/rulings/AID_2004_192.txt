@@ -3,23 +3,18 @@ ATO ID 2004/192
 ==================================================
 
 Income Tax
-        Division 7A: Loans made in the ordinary course of business on arm's length terms - treatment of current accounts
-        FOI status: may be released
+ Division 7A: Loans made in the ordinary course of business on arm's length terms - treatment of current accounts
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as it has been superseded by  TD 2008/1.
+This ATO ID is withdrawn as it has been superseded by TD 2008/1.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a loan made by a private company to a shareholder (or shareholder's associate) excluded from the operation of section 109D of the Income Tax Assessment Act 1936 (ITAA 1936) by reason of the private company also having funds in a 'current account' with a financial institution?
@@ -29,16 +24,12 @@ Facts
 In the year ended 30 June 2004, a private company makes a loan of money to a shareholder of the private company. The private company makes no other loans to parties at arms length except for a deposit of monies in a 'current account' with a bank.
 The relevant features of the loan of money are:
 
-
-
 • the lender advances funds to a borrower
 • the funds are to be repaid by a given date
 • the borrower may repay the funds earlier than the due date; and
 • interest is payable at a rate determined by the lender.
 
 The relevant features of the 'current account' are:
-
-
 
 • monies are held on deposit at a variable interest rate determined by the bank (the borrower)
 • withdrawals of funds by the lender are made on demand in accordance with terms and conditions set by the bank; and
@@ -53,7 +44,6 @@ Paragraph 109M(a) of the ITAA 1936 requires a loan to have been made in the ordi
 Paragraph 109M(b) of the ITAA 1936 requires consideration of whether there are, or have been, similar loans made to parties at arm's length.
 The word 'similar' is not defined for the purposes of section 109M of the ITAA 1936 and therefore adopts its ordinary meaning. The Macquarie Dictionary (Third Edition, 2001, The Macquarie Library, Australia) defines 'similar' in the relevant context as follows:
 
-
 having likeness or resemblance, especially in a general way
 
 A comparison of the terms of loans made to parties at arm's length is required to determine if the loans are similar.
@@ -61,11 +51,9 @@ It is well established that funds deposited with a financial institution constit
 In Joachimson v. Swiss Bank Corporation, Bankes LJ indicated that a loan between a customer and banker has peculiar features in comparison to an ordinary debtor and creditor relationship. At All ER Rep 96 he said:
 
 Having regard to the peculiarity of that relation
-              , there must be, I consider, quite a number of implied superadded obligations beyond the one specifically mentioned in Foley v. Hill (1) and Pott v. Clegg (2). Unless this were so, the banker, like any ordinary debtor, must seek out his creditor and repay him his loan immediately it becomes due - that is to say, directly after the customer has paid the money into his account - and the customer, like any ordinary creditor, can demand repayment of the loan by his debtor at any time and any place. [emphasis added]
+ , there must be, I consider, quite a number of implied superadded obligations beyond the one specifically mentioned in Foley v. Hill (1) and Pott v. Clegg (2). Unless this were so, the banker, like any ordinary debtor, must seek out his creditor and repay him his loan immediately it becomes due - that is to say, directly after the customer has paid the money into his account - and the customer, like any ordinary creditor, can demand repayment of the loan by his debtor at any time and any place. [emphasis added]
 
 The Commissioner considers there are other material differences between the 'current account' and the loan between the private company and the shareholder. The other relevant differences are:
-
-
 
 • the rate of interest payable on the 'current account' is set by the banker (the borrower) whereas with the shareholder loan it is set by the lender
 • a loan of money to the shareholder specifies a term over which the funds are to be repaid. This is not the case with the 'current account'; and
@@ -74,10 +62,10 @@ The Commissioner considers there are other material differences between the 'cur
 On this basis, the Commissioner considers, having regard to the material differences which exist between the 'current account' and the loan of money to the shareholder, that the 'current account' is not similar to the shareholder loan for the purposes of paragraph 109M(b) of the ITAA 1936.
 Accordingly, a loan made by a private company to a shareholder (or shareholder's associate) will not be excluded from the operation of section 109D by reason of the private company also having funds in a 'current account' with a financial institution.
 Date of decision:
-         29 January 2004
+  29 January 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -85,11 +73,9 @@ Income Tax Assessment Act 1936   section 109D   section 109M   paragrap
 
 Case References:
 
-
 Foley v. Hill   (1848) 9 ER 1002
 
 Joachimson v. Swiss Bank Corporation   [1921] 3 KB 110   [1921] All ER 92
-
 
 Related Public Rulings (including Determinations)
 
@@ -103,33 +89,28 @@ Other References:
 
 Macquarie Dictionary, Third Edition, 2001, The Macquarie Library, Australia
 
-
 Keywords
 
 Deemed dividends
-          Private companies
-          Shareholder loans
-
+ Private companies
+ Shareholder loans
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         27 February 2004
+  27 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 29 January 2004

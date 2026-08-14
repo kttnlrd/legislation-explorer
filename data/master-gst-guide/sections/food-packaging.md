@@ -13,7 +13,7 @@ The general rule is that if the food is GST-free, so is the packaging (s 38-6). 
 
   example, disposable thermometers supplied with a turkey, or a straw with a fruit juice tetra® pack, or
 
-- it satisfies a “de minimis” test, ie the packaging is not separately charged for, and its cost price is the
+- it satisfies a "de minimis" test, ie the packaging is not separately charged for, and its cost price is the
 
   lesser of $3 (excluding GST) and 20% of the wholesale value of the whole supply (GST Determination
 
@@ -21,13 +21,13 @@ GSTD 2000/6). This could apply, for example, where breakfast cereal is supplied 
 
 The de minimis test is applied by the packager, who will normally be the manufacturer or wholesaler.
 
-Suppliers further down the distribution chain (eg retailers) who rely on the supplier’s calculation for treating packaging as GST-free will be accepted by the ATO as having met their obligations. Alternatively, the general rule of thumb for identifying composite supplies (¶4-200) may be used.
+Suppliers further down the distribution chain (eg retailers) who rely on the supplier's calculation for treating packaging as GST-free will be accepted by the ATO as having met their obligations. Alternatively, the general rule of thumb for identifying composite supplies (¶4-200) may be used.
 
 *Refs: s 38-6)*
 
 - if items such as spoons or straws are supplied separately, without being part of the packaging, they
 
-  will not be subject to GST if they are provided “free” and have no lasting value, for example, straws
+  will not be subject to GST if they are provided "free" and have no lasting value, for example, straws
 
   supplied to purchasers of bottled water
 
@@ -51,7 +51,7 @@ Suppliers further down the distribution chain (eg retailers) who rely on the sup
 
   wrapped pallet of food items.
 
-Non-food promotional items, such as clocks, cricket balls and cups which were supplied “free” with GST-free food, were considered to be separate taxable supplies in Food Supplier v FC of T 2007 ATC 157. The AAT noted that:
+Non-food promotional items, such as clocks, cricket balls and cups which were supplied "free" with GST-free food, were considered to be separate taxable supplies in Food Supplier v FC of T 2007 ATC 157. The AAT noted that:
 
 - the promotional items had intrinsic value and would not be consumed with the food, even though in
 

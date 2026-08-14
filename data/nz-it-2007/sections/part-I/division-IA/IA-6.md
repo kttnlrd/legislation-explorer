@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Groups of companies**
 
-**(1)**  A company that is part of a group of companies may use under section IA 3(2) a tax loss under subpart IC (Grouping tax losses) only if it meets the requirements of section IC 5 (Company B using company A’s tax loss).
+**(1)**  A company that is part of a group of companies may use under section IA 3(2) a tax loss under subpart IC (Grouping tax losses) only if it meets the requirements of section IC 5 (Company B using company A's tax loss).
 
 **Consolidated groups**
 

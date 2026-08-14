@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Abatement of credit**
 
-**(3)**  If the person’s tax credit income calculated under section MH 4 is greater than $35,000 for the tax credit quarter, the FamilyBoost tax credit for the tax credit quarter is the lesser of—
+**(3)**  If the person's tax credit income calculated under section MH 4 is greater than $35,000 for the tax credit quarter, the FamilyBoost tax credit for the tax credit quarter is the lesser of—
 
 - (a) the amount of the FamilyBoost tax credit determined under subsection (2); and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 - (a) the person has met their obligation to file a return of income by the due dates set out in section 37 of that Act; and
 
-- (b) the person’s spouse, civil union partner, or de facto partner (relationship partner), if applicable, has also met their obligation to file a return of income by the due dates set out in section 37 of that Act.
+- (b) the person's spouse, civil union partner, or de facto partner (relationship partner), if applicable, has also met their obligation to file a return of income by the due dates set out in section 37 of that Act.
 
 **Late filing of income tax return**
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Deceased estate**
 
-**(8)**  Despite subsection (4), when a person entitled to a FamilyBoost tax credit dies before applying for a refund of that credit, the trustee of that person’s estate may apply for a refund of the FamilyBoost tax credit to which the deceased person was entitled under subsection (1) as if they were that person.
+**(8)**  Despite subsection (4), when a person entitled to a FamilyBoost tax credit dies before applying for a refund of that credit, the trustee of that person's estate may apply for a refund of the FamilyBoost tax credit to which the deceased person was entitled under subsection (1) as if they were that person.
 
 *Defined in this Act: abatement amount, amount, caregiver, Commissioner, de facto partner, FamilyBoost tax credit, licensed early childhood service, licensed early childhood service fees, natural person, pay, resident in New Zealand, return of income, tax credit income, tax credit quarter, trustee*
 

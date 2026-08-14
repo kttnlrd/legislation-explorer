@@ -25,7 +25,7 @@ Special transitional rules apply to particular types of supplies. The rules affe
 
 After applying these rules, you will be in a position to determine the extent to which your contract is affected by GST. The next step is to ensure that the contract takes the GST into account, either by including it in the price or allowing the price to be reviewed. This is explained at ¶19-400.
 
-Abolition of sales tax GST replaced wholesale sales tax (WST), which was levied on “assessable dealings”. The general rule is that no WST is payable where a supply or import in respect of the dealing was made on or after 1 July 2000 (Transition Act s 8). To avoid double taxation, a special ITC applied for sales tax paid on stock that was on hand at 1 July 2000 (Transition Act s 16).
+Abolition of sales tax GST replaced wholesale sales tax (WST), which was levied on "assessable dealings". The general rule is that no WST is payable where a supply or import in respect of the dealing was made on or after 1 July 2000 (Transition Act s 8). To avoid double taxation, a special ITC applied for sales tax paid on stock that was on hand at 1 July 2000 (Transition Act s 16).
 
 Other transitional rules
 

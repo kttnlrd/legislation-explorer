@@ -3,23 +3,18 @@ ATO ID 2010/221
 ==================================================
 
 Income Tax
-        Division 3B: foreign exchange (forex) gains and losses - re-exchange of currencies under a cross currency swap
-        FOI status: may be released
+ Division 3B: foreign exchange (forex) gains and losses - re-exchange of currencies under a cross currency swap
+ FOI status: may be released
 
-
-This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd  [2013] FCAFC 77. Refer to the  Decision Impact Statement published on 19 September 2013 in relation to that decision.
+This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd [2013] FCAFC 77. Refer to the Decision Impact Statement published on 19 September 2013 in relation to that decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the mere re-exchange of the same amounts of currencies at the termination of a cross currency swap give rise to a currency exchange loss for the purposes of former Division 3B of Part III of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -33,8 +28,6 @@ Aus Co did not make a transitional election under section 775-150 of the Income 
 Reasons for Decision
 Division 3B of the ITAA 1936 was repealed by the New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003. However, Division 3B continues to apply to eligible contracts (as defined in subsection 82V(1) of the ITAA 1936) entered into before the applicable commencement date. As the cross currency swap was entered into before Aus Co's applicable commencement date (being 1 July 2003), Division 3B applies to the swap.
 Broadly, for a currency exchange loss to be deductible under Division 3B, the loss must be:
-
-
 
 •incurred under an eligible contract (subsection 82Z(1) of the ITAA 1936)
 •attributable to currency exchange rate fluctuations (subsection 82V(1) of the ITAA 1936); and
@@ -51,22 +44,20 @@ Furthermore, for the reasons that we have already given, the taxpayer made no cu
 The decision in ERA found that Division 3B of the ITAA 1936 neither required nor permitted a notional conversion of foreign currency to Australian dollars to calculate a gain or loss for the purposes of the Division where the borrowing and the repayment took place in the same foreign currency.
 Aus Co exchanged USD 50 million for AUD 90 million at the start of the swap period. At the end of the swap period Aus Co re-exchanged the AUD 90 million and received back the USD 50 million. The initial exchange and the final exchange were for the same amounts and at the same AUD/USD currency exchange rate. Accordingly, for the purposes of Division 3B of the ITAA 1936, the mere re-exchange of the same amounts of USD and AUD could not give rise to a loss, under the eligible contract (the cross currency swap agreement), that was attributable to currency exchange rate fluctuations.
 Date of decision:
-         23 November 2010
+  23 November 2010
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
 New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003   The Act
 Income Tax Assessment Act 1936   Division 3B of Part III   subsection 82U(1)   subsection 82U(2)   subsection 82V(1)   subsection 82Z(1)
-          Income Tax Assessment Act 1997   section 775-150   section 775-155
+ Income Tax Assessment Act 1997   section 775-150   section 775-155
 
 Case References:
 
-
 Federal Commissioner of Taxation v Energy Resources of Australia Limited   (1996) 185 CLR   96 ATC 4536   (1996) 33 ATR 52
-
 
 Related ATO Interpretative Decisions
 
@@ -75,29 +66,25 @@ Related ATO Interpretative Decisions
 Keywords
 
 Foreign exchange gains and losses
-          Foreign currency obligations
-          Currency swaps
-
+ Foreign currency obligations
+ Currency swaps
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         10 December 2010
+  10 December 2010
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 23 November 2010

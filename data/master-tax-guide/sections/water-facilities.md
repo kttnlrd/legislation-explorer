@@ -21,7 +21,7 @@ Capital expenditure on water facilities for primary production land may qualify 
 
   water is supplied by the irrigation water provider.
 
-“Water facility”
+"Water facility"
 
 - plant (¶17-040) or a structural improvement that is primarily and principally for the purpose of
 
@@ -45,9 +45,9 @@ Expenditure on long-lasting trickle irrigation systems would qualify for the wat
 
 It is not necessary that the water facility be on the land on which the primary production business is carried on. For example, the deduction would apply to expenditure on the installation of a pump and piping on Crown land for the purpose of conveying water to land where the primary production business is being conducted.
 
-Eligible purpose The requirement that the expenditure be incurred “primarily and principally” for the purpose of conserving or conveying water means that this purpose must outweigh the total of all other ineligible purposes.
+Eligible purpose The requirement that the expenditure be incurred "primarily and principally" for the purpose of conserving or conveying water means that this purpose must outweigh the total of all other ineligible purposes.
 
-This is an objective test that requires an examination of the “primary and principal function or purpose of the result” produced by incurring the expenditure. Subjective factors are not taken into account (TD 94/9). For example, the installation of a new watering system would be covered irrespective of the subjective reason for the particular choice of system used.
+This is an objective test that requires an examination of the "primary and principal function or purpose of the result" produced by incurring the expenditure. Subjective factors are not taken into account (TD 94/9). For example, the installation of a new watering system would be covered irrespective of the subjective reason for the particular choice of system used.
 
 This requirement is also designed to ensure that the 3-year water facilities deduction and the outright deduction available for landcare operations (¶18-100) are mutually exclusive.
 
@@ -67,7 +67,7 @@ Similarly, the purchaser of primary production land cannot claim a deduction for
 
 The ordinary CGT rules (rather than CGT event K7) apply if the water facility is subject to a CGT event such as a disposal (ITAA97 ss 104-235; 118-24).
 
-The rules that apply to expenditure incurred by partnerships, to expenditure under non-arm’s length dealings and to the forgiveness of commercial debts are referred to at ¶18-050. The deduction is also subject to the rules for tax-preferred leasing provisions outlined at ¶23-210. Recoupments of water conservation expenditure are assessable (¶10-270). See ID 2007/36 and ID 2007/37 for the interaction with Div 58 (assets previously owned by exempt entities) and with the consolidation provisions respectively.
+The rules that apply to expenditure incurred by partnerships, to expenditure under non-arm's length dealings and to the forgiveness of commercial debts are referred to at ¶18-050. The deduction is also subject to the rules for tax-preferred leasing provisions outlined at ¶23-210. Recoupments of water conservation expenditure are assessable (¶10-270). See ID 2007/36 and ID 2007/37 for the interaction with Div 58 (assets previously owned by exempt entities) and with the consolidation provisions respectively.
 
 *Refs: s 40-555), s 104-235*
 

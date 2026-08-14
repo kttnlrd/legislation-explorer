@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  The provisions in this subpart, in general,—
 
-- (a) limit a person’s deductions for expenditure incurred in relation to residential land to income derived from the land; and
+- (a) limit a person's deductions for expenditure incurred in relation to residential land to income derived from the land; and
 
 - (b) suspend deductions for the excess expenditure for the income year in which the expenditure is incurred; and
 

@@ -3,18 +3,14 @@ ATO ID 2010/32
 ==================================================
 
 Income Tax
-        German Kommanditgesellschaft and managed investment trusts: are limited partners 'members'?
-        FOI status: may be released
-
-
+ German Kommanditgesellschaft and managed investment trusts: are limited partners 'members'?
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are the limited partners of a German Kommanditgesellschaft (KG), that is a unitholder in an Australian trust, 'members' of the Australian trust for the purposes of sub-item 3(b) in paragraph 12-400(1)(b) of Schedule 1 to the Taxation Administration Act 1953 (TAA 1953)?
@@ -27,8 +23,6 @@ The German KG is registered in Germany and is formed under the laws of Germany.
 The German KG is treated as a limited partnership for German tax law purposes.
 The partnership agreement of the German KG is executed in Germany in accordance with the German Commercial Code and is governed by German commercial and taxation law.
 Under the German Commercial Code and the partnership agreement for the German KG:
-
-
 
 •the legal interests and assets held by the German KG are jointly held by the limited partners of the German KG, with each limited partner having an interest in the undivided whole of the assets of the German KG;
 •the General Partner is entitled to manage and represent the German KG in respect of the day-to-day management of the German KG;
@@ -46,7 +40,7 @@ Under subsection 995-1(1) of ITAA 1997, the term 'member' in relation to an enti
 Item 3 of the table in subsection 960-130(1) of the ITAA 1997 provides that a member of a trust includes a unitholder of the trust.
 Therefore, for the purposes of subsection 12-400(1) of Schedule 1 to the TAA 1953, the 'members' of the Australian Trust are the unitholders in the Australian Trust. The only two registered unitholders of the Australian Trust are the German KG and the German Company.
 Subsection 960-130(2) of the ITAA 1997 provides that 'if 2 or more entities jointly hold interests or rights that give rise to membership of another entity, each of them is a
-          member
+ member
  of the other entity'.
 The 'interests or rights that give rise to membership' of the Australian Trust in this case are the interest or rights that give rise to being a unitholder in the Australian Trust.
 The German KG and the German Company are the two unitholders of the Australian Trust. The German KG does not jointly hold its unit in the Australian Trust with the limited partners of the German KG.
@@ -57,17 +51,16 @@ The interests or rights of the limited partners under the German Commercial Code
 Accordingly the limited partners do not have the interest or rights that give rise to being a unitholder in the Australian Trust for the purposes of subsection 960-130(2) of the ITAA 1997. Only the registered unitholders, the German KG and the German company, hold such interests or rights in this case.
 Therefore, the limited partners of the KG are not 'members' of the Australian Trust. As such, the Australian Trust has less than 50 members for the purposes of sub-item 3(b) of paragraph 12-400(1)(b) of Schedule 1 to the TAA 1953.
 Date of decision:
-         27 October 2009
+  27 October 2009
 
 Year of income:
-           Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014
+  Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014
 
 Legislative References:
 
 Income Tax Assessment Act 1997   section 830-10   paragraph 830-10(1)   subsection 995-1(1)   subsection 960-130(1)   subsection 960-130(2)
 Income Tax Assessment Act 1936   Division 5A of Part III   section 340
 Taxation Administration Act 1953   Schedule 1, paragraph 12-400(1)(b), Sub-Item 3(b)
-
 
 Related ATO Interpretative Decisions
 
@@ -78,23 +71,21 @@ Other References:
 
 Peltzer, M and Voight, E, German Commercial Code: German-English Text with an Introduction in English, 5th Revised Edition, 2003, Verlag Dr.Otto Schmidt Köln, Germany.
 
-
 Keywords
 
 Germany
-          Investment trusts
-          Limited partnerships
-          PAYG withholding
-
+ Investment trusts
+ Limited partnerships
+ PAYG withholding
 
 Siebel/TDMS Reference Number:
-         6281368
+  6281368
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         12 February 2010
+  12 February 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

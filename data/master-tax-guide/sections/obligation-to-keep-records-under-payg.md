@@ -13,7 +13,7 @@ Each party must keep a copy of a voluntary agreement to withhold from when it is
 
 A record-keeping checklist can be found at ¶44-100.
 
-Commissioner’s powers relating to PAYG withholding
+Commissioner's powers relating to PAYG withholding
 
 *Refs: s 18-100), s 12-55)*
 
@@ -21,7 +21,7 @@ Commissioner’s powers relating to PAYG withholding
 
 - attend and give evidence before the Commissioner or an authorised oﬃcer
 
-- produce any documents in the person’s custody or control,
+- produce any documents in the person's custody or control,
 
   covering any matters relevant to the administration or operation of PAYG withholding (TAA sch 1 s 353-10).
 

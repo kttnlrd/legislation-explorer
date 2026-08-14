@@ -3,18 +3,14 @@ ATO ID 2008/14
 ==================================================
 
 Income Tax
-        Company Tax Losses: 'no detriment' exception to concessional tracing rules - can an eligible Division 166 company form a belief on reasonable grounds by applying the former concessional tracing rules
-        FOI status: may be released
-
-
+ Company Tax Losses: 'no detriment' exception to concessional tracing rules - can an eligible Division 166 company form a belief on reasonable grounds by applying the former concessional tracing rules
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an eligible Division 166 company that wishes to rely upon section 166-275 of the Income Tax Assessment Act 1997 (ITAA 1997), so that it does not have to apply one of the concessional tracing rules in Subdivision 166-E of the ITAA 1997, apply the concessional tracing rules in the former Subdivisions 166-F and 166-G of the ITAA 1997 to form a belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997?
@@ -36,8 +32,6 @@ Section 166-275 of the ITAA 1997 provides:
 
 166-275 A company is taken to have met the conditions in section 165-12, paragraph 165-35(a) or section 165-123, or a changeover time or an alteration time is taken not to have occurred in respect of a company, (as the case requires), if:
 
-
-
 (a)a *tracing rule modifies how the ownership tests in section 166-145 apply to the tested company in respect of the *voting stake, a *dividend stake or a *capital stake; and
 (b)the company fails the tests (whether at the time of applying the tracing rule or at another time); and
 (c)the company believes, on reasonable grounds, that if the tracing rule did not modify how the tests apply to the company in respect of that stake, it would not fail the tests.
@@ -51,13 +45,13 @@ In order to form the required belief, on reasonable grounds, under paragraph 166
 The basis upon which company A can form the required belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997, is a question of fact. The Explanatory Memorandum to the Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Bill 2005 offers the following guidance:
 
 1.136 The company must hold a reasonable belief that it would not fail the tests if the tracing rule did not apply. In most cases a company would be expected to form this view by applying the test for substantial continuity of ownership in the normal way, this is without the use of that tracing rule in respect of the particular stake. However, it is recognised that in some cases, despite its best endeavours, a company may be unable to obtain sufficient information to determine with certainty that it would pass the ownership tests without the tracing rule. In such a case, the modified COT allows a company to draw a conclusion about whether it would satisfy the ownership tests based on any information that it has reasonably been able to obtain.
-              [Schedule 1, item 79, section 166-275]
+ [Schedule 1, item 79, section 166-275]
 
 Date of decision:
-         20 December 2007
+  20 December 2007
 
 Year of income:
-           Year ended 31 December 2006
+  Year ended 31 December 2006
 
 Legislative References:
 
@@ -68,25 +62,23 @@ Other References:
 
  Explanatory Memorandum to the Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Bill 2005
 
-
 Keywords
 
 Wholly owned subsidiary
-          Holding companies
-          Public company
-          Continuity of ownership
-          Tax loss
-          Interposed entities
-
+ Holding companies
+ Public company
+ Continuity of ownership
+ Tax loss
+ Interposed entities
 
 Siebel/TDMS Reference Number:
-         5364489
+  5364489
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         11 January 2008
+  11 January 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

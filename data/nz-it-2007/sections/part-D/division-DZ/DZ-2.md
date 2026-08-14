@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) a life insurer started carrying on the business of providing life insurance on or before the last day of the 1988–89 income year; and
 
-- (b) on the last day of the 1987–88 income year the life insurer’s Life Insurance Fund covered some or all of the following matters:
+- (b) on the last day of the 1987–88 income year the life insurer's Life Insurance Fund covered some or all of the following matters:
 
   - (i) superannuation policies; and
 

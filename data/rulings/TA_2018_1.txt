@@ -4,14 +4,12 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Div 1A
-  • Div 290
-  • Division 1A
-  • Division 290
+ • Div 1A
+ • Div 290
+ • Division 1A
+ • Division 290
 
 Topics: Trusts, Companies, Superannuation, International
-
-
 
 ================================================================================
 
@@ -79,7 +77,7 @@ It is only intended to apply where the purported combined effect of entering int
 If you have entered into these types of arrangements over the ex-dividend date, you may want to consider if this Alert applies to you.
 We have included simplified examples that are representative of the types of arrangements being reviewed.
 Example 1
-Figure 1:  Inception
+Figure 1: Inception
 Investor A holds a parcel of 100 XYZ shares (Parcel 1) that will pay a fully franked dividend. The expected dividend is $2.
 Prior to XYZ's ex-dividend date, the following steps occur:
 •
@@ -107,7 +105,7 @@ physically holds one parcel of 100 XYZ shares (Parcel 2). Under the holding peri
 is considered not to have disposed of Parcel 1 for imputation purposes by virtue of the securities lending transaction and the operation of subsection 160APHH(8) in Division 1A of former Part IIIAA of the ITAA 1936
 •
 as a result of these steps, has funded the acquisition of Parcel 2 by lending out Parcel 1 for cash collateral, and effectively increased their shareholding in XYZ shares for taxation purposes (Parcels 1 and 2). The pricing of the collar leaves Investor A with no or only nominal economic exposure to Parcel 2 on a stand-alone basis.
-Figure 2:  Ex-dividend date
+Figure 2: Ex-dividend date
 On the ex-dividend date, the following steps occur simultaneously:
 •
 Step 4(a) and (b):
@@ -137,7 +135,7 @@ physically holds and is shareholder of record for two parcels of 100 XYZ shares 
 has held Parcel 2 for the requisite 45 day period and is deemed to have continuously held Parcel 1, the stock returned from Stock Loan 1, for at least the same period if not longer, and
 •
 receives franked dividends in respect of two parcels of shares.
-Figure 3:  After record date
+Figure 3: After record date
 Just after the record date of the XYZ shares:
 •
 Step 8(a) and (b):
@@ -158,7 +156,7 @@ Supplier B has made a matching gain
 [12]
 on its borrowing and sale of the XYZ shares, allowing it to meet its obligation to make a dividend equivalence payment to the third party counterparty to Stock Loan 3.
 Example 2
-Figure 1:  Inception
+Figure 1: Inception
 Investor A initially holds a parcel of 30 XYZ shares that will pay a fully franked dividend.
 Prior to XYZ's ex-dividend date, the following steps occur simultaneously:
 •
@@ -179,7 +177,7 @@ is under an obligation to return 70 XYZ shares on a cum-dividend basis to Suppli
 , and
 •
 has no or only nominal economic exposure to 70 XYZ shares on a stand-alone basis as the long and short positions are perfectly matched.
-Figure 2:  Ex-dividend date
+Figure 2: Ex-dividend date
 On the ex-dividend date, the following steps occur simultaneously
 [14]
 :
@@ -228,9 +226,9 @@ the promoter penalty laws in Division 290 of Schedule 1 to the
 Taxation Administration Act 1953
 would apply to promoters of this arrangement.
 We note similarities between our concerns regarding section 177EA of the ITAA 1936 applying to these arrangements and our determination regarding the application of section 177EA in Taxation Determination TD 2003/32
-Income tax:  what are the tax consequences for a taxpayer as a result of entering into a scrip loan and call option arrangement as described in Taxpayer Alert 2002/2?
+Income tax: what are the tax consequences for a taxpayer as a result of entering into a scrip loan and call option arrangement as described in Taxpayer Alert 2002/2?
 Further, the steps taken at ex-dividend date in Example 2 are similar to the example provided in Taxation Determination TD 2014/10
-Income tax:  can section 177EA of the Income Tax Assessment Act 1936 apply to a 'dividend washing' scheme of the type described in this Taxation Determination?
+Income tax: can section 177EA of the Income Tax Assessment Act 1936 apply to a 'dividend washing' scheme of the type described in this Taxation Determination?
 [17]
 What are we doing?
 We are currently reviewing these arrangements and engaging with taxpayers who have entered into, or are considering entering into these arrangements. Compliance activity and engagement will continue and we are developing our technical position on the arrangements.
@@ -285,15 +283,15 @@ Related Practice Statements:
 PS LA 2008/15
 Legislative References:
 ITAA 1936
-ITAA 1936  Pt IIIAA Div 1A
-ITAA 1936  160APHH(8)
-ITAA 1936  26BC
-ITAA 1936  177EA
+ITAA 1936 Pt IIIAA Div 1A
+ITAA 1936 160APHH(8)
+ITAA 1936 26BC
+ITAA 1936 177EA
 ITAA 1997
-ITAA 1997  207-145(1)(a)
-ITAA 1997  207-157
+ITAA 1997 207-145(1)(a)
+ITAA 1997 207-157
 TAA 1953
-TAA 1953  Div 290 Sch 1
+TAA 1953 Div 290 Sch 1
 Authorised by:
 Jeremy Hirschhorn
 Deputy Commissioner

@@ -7,13 +7,13 @@ paragraph: "¶14-150"
 ---
 # Taxable component of a superannuation beneﬁt ¶14-150
 
-The taxable component of a “superannuation interest” (¶14-130) is the total value of the interest less the tax free component (s 307-215).
+The taxable component of a "superannuation interest" (¶14-130) is the total value of the interest less the tax free component (s 307-215).
 
 The taxable component may consist of an element taxed in the fund or an element untaxed in the fund, or both (s 307-275(1)).
 
-Element taxed in the fund The taxable component will consist wholly of an element taxed in the fund except where speciﬁed by a provision in ITAA97 Subdiv 307-E (s 307-275(2)) (see “Element untaxed in the fund” below) For a taxed superannuation fund (generally private sector superannuation funds), the element taxed in the fund would normally be the total value of the superannuation interest less the tax free component.
+Element taxed in the fund The taxable component will consist wholly of an element taxed in the fund except where speciﬁed by a provision in ITAA97 Subdiv 307-E (s 307-275(2)) (see "Element untaxed in the fund" below) For a taxed superannuation fund (generally private sector superannuation funds), the element taxed in the fund would normally be the total value of the superannuation interest less the tax free component.
 
-Element untaxed in the fund The taxable component of a superannuation beneﬁt that is a “small superannuation account payment” or a “superannuation guarantee payment” (¶14-100) contains wholly of an element untaxed in the fund (s 307-275(3)). These superannuation payments are made by the ATO directly and have not been subject to tax in the fund.
+Element untaxed in the fund The taxable component of a superannuation beneﬁt that is a "small superannuation account payment" or a "superannuation guarantee payment" (¶14-100) contains wholly of an element untaxed in the fund (s 307-275(3)). These superannuation payments are made by the ATO directly and have not been subject to tax in the fund.
 
 The taxable component of the superannuation beneﬁts below have an element untaxed or element taxed in the fund, or both, as speciﬁed in Subdiv 307-E.
 
@@ -69,16 +69,16 @@ September 2006 where the trustee has given the member a written notice specifyin
 
   the taxable component of certain unclaimed money payments are worked out as provided by s
 
-307-300. As unclaimed money payments made by the Commissioner are treated and taxed as if they are paid from a superannuation fund, the amount of the elements essentially reﬂect the amount of elements when they were paid to the ATO as unclaimed superannuation money by the original superannuation funds (to the extent they are included in the Commissioner’s payment).
+307-300. As unclaimed money payments made by the Commissioner are treated and taxed as if they are paid from a superannuation fund, the amount of the elements essentially reﬂect the amount of elements when they were paid to the ATO as unclaimed superannuation money by the original superannuation funds (to the extent they are included in the Commissioner's payment).
 
 *Refs: s 307-215), s 307-275(1)), s 307-275(2)), s
 307-275(3)), s 307-280), s 307-295), s 307-295(3), s 307-297), s 307-285), ITAA97 s 295-465, s
 307-290, s
 307-300*
 
-superannuation lump sums Section 307-290 applies to create an untaxed element in a superannuation lump sum death beneﬁt by providing the formula to work out the taxed and untaxed element in the fund where the payer superannuation fund has claimed or will claim deductions for costs arising from certain insurance policies (or its future liability to pay death or disability beneﬁts) that relate to the deceased fund member and the deductions relate to the superannuation lump sum. For the purposes of s 307-290, a deduction need not have been made in every income year for the life insurance linked to the member’s superannuation interest. Nor is it necessary for a deduction to be, or have been, claimed for the particular year that the death beneﬁt is payable. It is suﬃcient that a deduction for insurance premiums has been, or is to be claimed, in relation to the death beneﬁt in any year of income (ID 2010/76). Also, a deduction claimed under ITAA36 former s 279 or 279B is treated as a deduction under ITAA97 s 295-465 or 295-470 respectively (ITTPA s 307-290). Deductions for insurance premiums are discussed in ¶13-150.
+superannuation lump sums Section 307-290 applies to create an untaxed element in a superannuation lump sum death beneﬁt by providing the formula to work out the taxed and untaxed element in the fund where the payer superannuation fund has claimed or will claim deductions for costs arising from certain insurance policies (or its future liability to pay death or disability beneﬁts) that relate to the deceased fund member and the deductions relate to the superannuation lump sum. For the purposes of s 307-290, a deduction need not have been made in every income year for the life insurance linked to the member's superannuation interest. Nor is it necessary for a deduction to be, or have been, claimed for the particular year that the death beneﬁt is payable. It is suﬃcient that a deduction for insurance premiums has been, or is to be claimed, in relation to the death beneﬁt in any year of income (ID 2010/76). Also, a deduction claimed under ITAA36 former s 279 or 279B is treated as a deduction under ITAA97 s 295-465 or 295-470 respectively (ITTPA s 307-290). Deductions for insurance premiums are discussed in ¶13-150.
 
-The circumstances where there may be a suﬃcient relationship between the payment of the lump sum and the deductions include cases where the payer superannuation fund is either the fund that claimed the deductions in relation to the member or is a successor fund to the fund that claimed the deductions for the member. The Commissioner’s guidelines on the application of s 307-290 where death beneﬁts are rolled over are discussed in ¶14-450.
+The circumstances where there may be a suﬃcient relationship between the payment of the lump sum and the deductions include cases where the payer superannuation fund is either the fund that claimed the deductions in relation to the member or is a successor fund to the fund that claimed the deductions for the member. The Commissioner's guidelines on the application of s 307-290 where death beneﬁts are rolled over are discussed in ¶14-450.
 
 Interest on unclaimed money Interest paid by the Commonwealth in respect of unclaimed superannuation is a tax free component of a superannuation beneﬁt (except in relation to the unclaimed money of a former temporary resident) (ITAA97 ss 307-142(2), (3B); 307-300(2), (3A)). As a consequence, the interest payment is non-assessable non- exempt income (ITAA97 s 301-30).
 

@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Named companies bearing liability**
 
-**(2)**  Despite section FM 3(5), the nominated company may apply to the Commissioner for approval for 1 or more named companies in the consolidated group to bear the consolidated group’s income tax liability for the tax year.
+**(2)**  Despite section FM 3(5), the nominated company may apply to the Commissioner for approval for 1 or more named companies in the consolidated group to bear the consolidated group's income tax liability for the tax year.
 
 **Approval by Commissioner**
 

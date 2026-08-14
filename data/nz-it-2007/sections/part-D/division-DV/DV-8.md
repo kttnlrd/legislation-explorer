@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) $1,000; and
 
-- (b) the amount that would be the organisation’s net income in the absence of this section.
+- (b) the amount that would be the organisation's net income in the absence of this section.
 
 **Link with subpart DA**
 

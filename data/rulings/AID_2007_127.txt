@@ -3,27 +3,21 @@ ATO ID 2007/127
 ==================================================
 
 Income Tax
-        Consolidation:  life insurance - demutualisation of friendly society and application of CGT event L5
-        FOI status: may be released
-
-
+ Consolidation: life insurance - demutualisation of friendly society and application of CGT event L5
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Subdivision 705-C of the Income Tax Assessment Act 1997 (ITAA 1997) apply where all the newly issued shares in a head company of a consolidated group are acquired by the head company of another consolidated group, as a result of implementing 'Demutualisation method 3' as prescribed in Division 9AA of the Income Tax Assessment Act 1936 (ITAA 1936), so that 'CGT event L5' either does not occur or is not relevant with respect to a subsidiary member of the first mentioned group?
 Decision
 Yes, Subdivision 705-C of the ITAA 1997 will apply where all the newly issued shares in a head company of a consolidated group are acquired by a head company of another consolidated group, as a result of implementing 'Demutualisation method 3' as prescribed in Division 9AA of the ITAA 1936, so that 'CGT event L5' will not occur with respect to a subsidiary member of the first mentioned group.
 Facts
-Head co is a friendly society that proposes to demutualise pursuant to section 121AH of the ITAA 1936, adopting Demutualisation method 3.  Under this method, in connection with the implementation of the demutualisation:
-
-
+Head co is a friendly society that proposes to demutualise pursuant to section 121AH of the ITAA 1936, adopting Demutualisation method 3. Under this method, in connection with the implementation of the demutualisation:
 
 • the liability of each member and past member of Head co is extinguished;
 • the members cease to be members of Head co;
@@ -36,9 +30,9 @@ Until the time of demutualisation, Head co is a head company of a consolidated g
 Holding co is the head company of another consolidated group.
 At the point in time that the Holding co acquires all the newly issued shares in Head co, the consolidated group of which Head co is the head company ceases to exist.
 Reasons for Decision
-Paragraph 703-5(2)(a) of the ITAA 1997 provides that a consolidated group continues to exist until the head company of the group ceases to be a head company.  The consolidated group, of which Head co is the head company, continues to exist up until the time that Head co issues all its shares to Holding co, being one of the steps involved in the adoption of Demutualisation method 3 pursuant to section 121AH of the ITAA 1936.  From this point in time, Head co ceases to be a head company as it fails to satisfy all the conditions specified in Table 1 of subsection 703-15(2) of the ITAA 1997.  In particular, it becomes a wholly-owned subsidiary of another company that qualifies as a head company.  Consequently the consolidated group, of which Head co is the head company, ceases to exist at the point in time that Head co issues all its shares to Holding co.
+Paragraph 703-5(2)(a) of the ITAA 1997 provides that a consolidated group continues to exist until the head company of the group ceases to be a head company. The consolidated group, of which Head co is the head company, continues to exist up until the time that Head co issues all its shares to Holding co, being one of the steps involved in the adoption of Demutualisation method 3 pursuant to section 121AH of the ITAA 1936. From this point in time, Head co ceases to be a head company as it fails to satisfy all the conditions specified in Table 1 of subsection 703-15(2) of the ITAA 1997. In particular, it becomes a wholly-owned subsidiary of another company that qualifies as a head company. Consequently the consolidated group, of which Head co is the head company, ceases to exist at the point in time that Head co issues all its shares to Holding co.
 Ordinarily, the tax cost of membership interests in each entity that ceases to be a subsidiary member of a consolidated group, being Sub co in this case, would be set under section 701-15 of the ITAA 1997, at an amount worked out through section 701-60 of the ITAA 1997 in accordance with Division 711 of the ITAA 1997.
-However, where Subdivision 705-C of the ITAA 1997 applies, subsection 705-180(1) of the ITAA 1997 precludes the operation of certain provisions in Division 701, including sections 701-15 and 701-60 of the ITAA 1997.  Subsection 705-180(1) of the ITAA 1997 states:
+However, where Subdivision 705-C of the ITAA 1997 applies, subsection 705-180(1) of the ITAA 1997 precludes the operation of certain provisions in Division 701, including sections 701-15 and 701-60 of the ITAA 1997. Subsection 705-180(1) of the ITAA 1997 states:
 
 If, because an entity ceases to be a subsidiary member of the acquired group when this Subdivision applies, a provision of Division 701 (other than section 701-25) would otherwise apply, in relation to the acquired group for the head company core purposes set out in subsection 701-1(3), the provision does not so apply.
 
@@ -47,18 +41,16 @@ Subsection 705-175(1) of the ITAA 1997 provides that Subdivision 705-C of the IT
 In this case, the members of the acquired group are Head co and Sub co, the head company of which is Head co. Head co and Sub co will become members of the acquiring group when Holding co acquires all the membership interests in Head co. Consequently, Subdivision 705-C of the ITAA 1997 applies in this instance to modify the rules in Division 701 and Subdivision 705-A of the ITAA 1997 such that sections 701-15 and 701-60 of the ITAA 1997 will not apply and a tax cost is not determined for the membership interests in Sub co.
 According to subsection 104-520(1) of the ITAA 1997, CGT event L5 happens where:
 
-
-
 (a)an entity ceases to be a *subsidiary member of a *consolidated group or a *MEC group; and
 (b)in working out the group's *allocable cost amount for the entity, the amount remaining after applying step 4 of the table in section 711-20 is negative.
 
-In this case, the first condition required for CGT event L5 to happen is satisfied as Sub co ceases to be a subsidiary member of a consolidated group.  The second condition required for the application of CGT event L5 is not satisfied because the group is not required to determine an allocable cost amount for Sub co as a consequence of the application of Subdivision 705-C of the ITAA 1997.
+In this case, the first condition required for CGT event L5 to happen is satisfied as Sub co ceases to be a subsidiary member of a consolidated group. The second condition required for the application of CGT event L5 is not satisfied because the group is not required to determine an allocable cost amount for Sub co as a consequence of the application of Subdivision 705-C of the ITAA 1997.
 Consequently, CGT event L5 does not apply.
 Date of decision:
-         15 June 2007
+  15 June 2007
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -71,20 +63,19 @@ Taxation Determination TD 2006/38
 Keywords
 
 Calculation of the allocable cost amount
-          Capital gains tax
-          CGT events
-          CGT events L1-L8 - consolidated and MEC groups
-          Leaving entity
-
+ Capital gains tax
+ CGT events
+ CGT events L1-L8 - consolidated and MEC groups
+ Leaving entity
 
 Siebel/TDMS Reference Number:
-         5662428
+  5662428
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         22 June 2007
+  22 June 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

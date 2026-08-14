@@ -4,15 +4,15 @@ part_title: Part I Treatment of tax losses
 division: IA
 division_title: Subpart IA—General rules for tax losses
 section: IA-5
-section_title: Restrictions on companies’ loss balances carried forward: continuity of ownership
+section_title: Restrictions on companies' loss balances carried forward: continuity of ownership
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# IA 5  Restrictions on companies’ loss balances carried forward: continuity of ownership
+# IA 5  Restrictions on companies' loss balances carried forward: continuity of ownership
 
 **General statement**
 
-**(1)**  A company’s tax loss component is carried forward in a loss balance only if the minimum continuity requirements of subsections (2) and (3) are met. The tax loss component includes an unused tax loss component carried forward from an earlier income year.
+**(1)**  A company's tax loss component is carried forward in a loss balance only if the minimum continuity requirements of subsections (2) and (3) are met. The tax loss component includes an unused tax loss component carried forward from an earlier income year.
 
 **Continuity of voting interests**
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Avoidance arrangements**
 
-**(5)**  Section GB 3 (Arrangements for carrying forward loss balances: companies’ ownership) may apply to treat a company as not meeting the requirements of subsection (2) or (3).
+**(5)**  Section GB 3 (Arrangements for carrying forward loss balances: companies' ownership) may apply to treat a company as not meeting the requirements of subsection (2) or (3).
 
 **Some definitions**
 

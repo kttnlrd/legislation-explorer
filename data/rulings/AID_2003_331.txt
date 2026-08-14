@@ -3,26 +3,22 @@ ATO ID 2003/331
 ==================================================
 
 Income Tax
-        Financing arrangement
-        FOI status: may be released
-
-
+ Financing arrangement
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If subsection 974-70(2) of the Income Tax Assessment Act 1997 (ITAA 1997) does not apply, is a cross currency swap that is used solely to allow the conversion of the income streams received under an arrangement from foreign dollars to Australian dollars an equity interest?
 Decision
-No.  If subsection 974-70(2) of the ITAA 1997 does not apply, a cross currency swap that is used solely to allow the conversion of the income streams received under an arrangement from foreign dollars to Australian dollars is not an equity interest.
+No. If subsection 974-70(2) of the ITAA 1997 does not apply, a cross currency swap that is used solely to allow the conversion of the income streams received under an arrangement from foreign dollars to Australian dollars is not an equity interest.
 Facts
 An Australian resident Trust wishes to subscribe for convertible debentures issued by Y, an overseas division of X Corporation.
-X Corporation enters into a cross currency swap with the Trust under which the Trust  pays to X Corporation the Australian dollar proceeds raised from the issue of its units in the initial exchange under the swap. X Corporation pays to the Trust the equivalent amount in the foreign currency of the country in which Y is resident.
+X Corporation enters into a cross currency swap with the Trust under which the Trust pays to X Corporation the Australian dollar proceeds raised from the issue of its units in the initial exchange under the swap. X Corporation pays to the Trust the equivalent amount in the foreign currency of the country in which Y is resident.
 The Trust uses this foreign currency to subscribe for non-share equity interests issued by Y.
 The Trust pays to X Corporation any foreign currency amounts it receives as dividends on these convertible debentures. X Corporation pays to the Trust the equivalent Australian Dollar amount. The Trust uses these Australian dollar amounts to pay distributions on its units.
 On the facts of the case the interests are not treated as giving rise to an equity interest in a company under subsection 974-70(2) of the ITAA 1997.
@@ -30,10 +26,10 @@ Reasons for Decision
 While subsection 974-130(3) of the ITAA 1997 provides inter alia, that a derivative that is used solely for managing financial risk is generally not a scheme entered into or undertaken to raise finance, consideration must be had of all the relevant circumstances and features of the arrangement to determine whether, in substance, it is appropriately characterised as a financing arrangement or not (refer paragraph 2.7 of the Explanatory Memorandum relating to the New Business Tax System (Debt and Equity) Bill 2001).
 In this case after the initial exchanges the cross-currency swap merely allows conversion of the income streams received under the arrangement from foreign dollars to Australian dollars. A consideration of all the relevant circumstances and features of this arrangement lead to the conclusion that the cross currency swap is not a financing arrangement but rather, that it is a derivative that is used for managing financial risk.
 Date of decision:
-         30 April 2003
+  30 April 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -47,15 +43,14 @@ Keywords
 
 Debt equity borderline
 
-
 Siebel/TDMS Reference Number:
-         3553168
+  3553168
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         15 May 2003
+  15 May 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

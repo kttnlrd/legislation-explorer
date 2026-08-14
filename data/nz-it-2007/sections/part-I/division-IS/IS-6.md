@@ -2,7 +2,7 @@
 part: I
 part_title: Part I Treatment of tax losses
 division: IS
-division_title: Subpart IS—Mineral miners’ and petroleum miners’ tax losses
+division_title: Subpart IS—Mineral miners' and petroleum miners' tax losses
 section: IS-6
 section_title: When company stops being mineral miner
 compilation_no: 935

@@ -3,18 +3,14 @@ ATO ID 2002/604
 ==================================================
 
 Income Tax
-        45-day holding period rule - 'materially diminished' risks
-        FOI status: may be released
-
-
+ 45-day holding period rule - 'materially diminished' risks
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of subsection 160APHM(2) of the Income Tax Assessment Act 1936 (ITAA 1936), do the beneficiaries of a discretionary trust have 'materially diminished' risks in respect of their interests in the shares held by the trust?
@@ -27,7 +23,7 @@ To qualify for franking benefits a taxpayer must be a 'qualified person': as per
 Section 160APHO requires shares or interests in shares to be held at risk for 45 days (90 days for preference shares). However, days where the taxpayer has materially diminished risks of loss or opportunities for gain in respect of shares or interests in shares are not taken into account (subsection 160APHO(3)). There is a material diminution of risk if the taxpayer's net position is less than 30% (subsection 160APHM(2)). The net position is calculated by adding the sum of the taxpayer's long positions (+deltas) and the sum of the taxpayer's short positions (-deltas) (subsection 160APHJ(5)).
 In calculating a discretionary beneficiary's net position in the interest in the shares held by the trust, long and short positions are determined by an actual financial calculation or a deeming provision (subsection 160APHG(3) and subsections 160APHL(5)(8)(9)(10) and (11)). Subsection 160APHL(7) would deem the beneficiary's long position with a delta of +1. However, subsection 160APHL(10) would deem a short position with a delta of -1. The net position would be zero. Zero is less than 30% and so there is a material diminution of risk within subsection 160APHM(2).
 Date of decision:
-         14 December 2001
+  14 December 2001
 
 Legislative References:
 
@@ -36,24 +32,23 @@ Income Tax Assessment Act 1936   section 160APHO   subsection 160APHG(3) 
 Keywords
 
 Imputation system
-          Discretionary trusts
-          Trusts
-          Shares
-          Family trust election
-          Imputation credits
-
+ Discretionary trusts
+ Trusts
+ Shares
+ Family trust election
+ Imputation credits
 
 Siebel/TDMS Reference Number:
-         DW241404; 1-AANODT9
+  DW241404; 1-AANODT9
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         31 May 2002
+  31 May 2002
 
 Date reviewed:
-         19 December 2016
+  19 December 2016
 
 ISSN:
-          1445-2782
+ 1445-2782

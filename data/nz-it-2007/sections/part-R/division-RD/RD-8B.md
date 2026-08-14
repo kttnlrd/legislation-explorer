@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 - (b) an amount that is an overpayment of a benefit or grant referred to in section RD 5(6)﻿(a) to (c):
 
-- (c) an employer’s superannuation contribution other than an overpayment of an amount of an employer’s superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 (Choosing to have amount treated as salary or wages).
+- (c) an employer's superannuation contribution other than an overpayment of an amount of an employer's superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 (Choosing to have amount treated as salary or wages).
 
 **Employers who use PAYE intermediaries**
 

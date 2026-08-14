@@ -86,7 +86,7 @@ compilation_date: 2026-06-06
 
 - (a) a non-resident includes a person who meets the requirements of section FE 2(1)﻿(cc), (d), or (db):
 
-- (b) in determining the relationship between the amount of a company’s debt relating to a member and the level of ownership interests in the company relating to the member, the level of each type of ownership interest in the company is considered, despite section FE 39.
+- (b) in determining the relationship between the amount of a company's debt relating to a member and the level of ownership interests in the company relating to the member, the level of each type of ownership interest in the company is considered, despite section FE 39.
 
 **Ownership interests**
 

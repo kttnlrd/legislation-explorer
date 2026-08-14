@@ -7,11 +7,11 @@ paragraph: "¶3-520"
 ---
 # Segregated exempt assets of life insurance companies ¶3-520
 
-A life insurance company may maintain a pool of segregated assets (known as “segregated exempt assets”).
+A life insurance company may maintain a pool of segregated assets (known as "segregated exempt assets").
 
-Segregated exempt assets must be used for the sole purpose of discharging the company’s liabilities under exempt life insurance policies (ITAA97 s 320-225). This purpose includes the payment of fees and expenses in respect of the policies or the segregated exempt assets.
+Segregated exempt assets must be used for the sole purpose of discharging the company's liabilities under exempt life insurance policies (ITAA97 s 320-225). This purpose includes the payment of fees and expenses in respect of the policies or the segregated exempt assets.
 
-An “exempt life insurance policy” is a life insurance policy (other than an RSA) that fulﬁls any one of the following criteria (ITAA97 s 320-246):
+An "exempt life insurance policy" is a life insurance policy (other than an RSA) that fulﬁls any one of the following criteria (ITAA97 s 320-246):
 
 - it is held by the trustee of a complying superannuation fund and provides solely for the discharge
 
@@ -41,7 +41,7 @@ An “exempt life insurance policy” is a life insurance policy (other than an 
 
 The ordinary income and statutory income derived from the segregated exempt assets (being income relating to the segregation period) is non-assessable non-exempt under ITAA97 s 320-37(1)(a). Capital gains and capital losses made from segregated exempt assets are disregarded (ITAA97 s 118-315).
 
-Annual valuation and transfer of assets Within 60 days after the end of each income year, the company must calculate the “transfer value” (ie market value less allowance for expected disposal costs) of the segregated exempt assets, and the amount of the company’s exempt life insurance policy liabilities, as at the end of the year (the “valuation time”) (ITAA97 s 320-230). (The time of joining or leaving a consolidated group is also a valuation time: ITAA97 s 713-525.) Any excess assets above the liabilities must be transferred from the pool within 30 days of the annual valuation. The transfer is deemed to have occurred at the valuation time (ITAA97 s 320-235). An administrative penalty applies where a life insurance company fails to comply with the valuation or transfer requirements (TAA sch 1 s 288-70).
+Annual valuation and transfer of assets Within 60 days after the end of each income year, the company must calculate the "transfer value" (ie market value less allowance for expected disposal costs) of the segregated exempt assets, and the amount of the company's exempt life insurance policy liabilities, as at the end of the year (the "valuation time") (ITAA97 s 320-230). (The time of joining or leaving a consolidated group is also a valuation time: ITAA97 s 713-525.) Any excess assets above the liabilities must be transferred from the pool within 30 days of the annual valuation. The transfer is deemed to have occurred at the valuation time (ITAA97 s 320-235). An administrative penalty applies where a life insurance company fails to comply with the valuation or transfer requirements (TAA sch 1 s 288-70).
 
 Conversely, assets can be transferred to segregated exempt assets to oﬀset a shortfall. Where the transfer is made within 30 days of the annual valuation, it is taken to have occurred at the valuation time.
 
@@ -86,7 +86,7 @@ assets Apart from the transfer of excess assets as at year end, an insurance com
 
 The company can also transfer assets from its segregated exempt assets in exchange for an amount of money equal to the transfer value of the assets at the time of transfer.
 
-From the 2017–18 income year, if a life insurance policy issued by a life insurance company becomes a complying superannuation life insurance policy and, immediately before that time, it was an “exempt life insurance policy”, the company can transfer from its segregated exempt assets, to a complying superannuation asset pool, assets of any kind whose total transfer value does not exceed the company’s liabilities in respect of the policy (s 320-250(1A)).
+From the 2017–18 income year, if a life insurance policy issued by a life insurance company becomes a complying superannuation life insurance policy and, immediately before that time, it was an "exempt life insurance policy", the company can transfer from its segregated exempt assets, to a complying superannuation asset pool, assets of any kind whose total transfer value does not exceed the company's liabilities in respect of the policy (s 320-250(1A)).
 
 *Refs: ITAA97 s 320-250), s 320-250(1*
 
@@ -112,9 +112,9 @@ exempt assets The tax consequences of transfers of assets to or from segregated 
 
   depreciation purposes varies:
 
-– if the unit of plant has been a segregated exempt asset from the time it was acquired by the company or from the time the segregated pool was initially established, the lower of the unit’s current market value or notional undeducted cost is used, or – otherwise (ie where the asset was previously transferred to segregated exempt assets other than as part of the initial transfer), the lower of the unit’s current market value or its market value at the time of the previous inward transfer is used.
+– if the unit of plant has been a segregated exempt asset from the time it was acquired by the company or from the time the segregated pool was initially established, the lower of the unit's current market value or notional undeducted cost is used, or – otherwise (ie where the asset was previously transferred to segregated exempt assets other than as part of the initial transfer), the lower of the unit's current market value or its market value at the time of the previous inward transfer is used.
 
-Deduction for transfers to segregated exempt assets A life insurance company can deduct the transfer value of assets transferred to segregated exempt assets under s 320-235(2) or 320-240(1). In addition, if any asset (other than money) is transferred to the company’s segregated exempt assets under s 320-235(2) or 320-240, the company may be entitled to a deduction because of s 320-255 (ITAA97 s 320-105). These provisions are discussed above.
+Deduction for transfers to segregated exempt assets A life insurance company can deduct the transfer value of assets transferred to segregated exempt assets under s 320-235(2) or 320-240(1). In addition, if any asset (other than money) is transferred to the company's segregated exempt assets under s 320-235(2) or 320-240, the company may be entitled to a deduction because of s 320-255 (ITAA97 s 320-105). These provisions are discussed above.
 
 *Refs: ITAA97 s 320-255, s 320-235(2), s 320-255, ITAA97 s 320-105)*
 

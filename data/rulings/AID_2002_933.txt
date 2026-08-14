@@ -3,21 +3,16 @@ ATO ID 2002/933
 ==================================================
 
 Income Tax
-        Termination value of a car - car limit & GST
-        FOI status: may be released
-
+ Termination value of a car - car limit & GST
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If the balancing adjustment event for a car to which the car limit under section 40-230 of the Income Tax Assessment Act 1997 (ITAA 1997) applied is a taxable supply, is the adjustment, under section 40-325 of the ITAA 1997, made after the termination value is first reduced by the amount of the GST payable on the supply?
@@ -29,7 +24,6 @@ Reasons for Decision
 Generally the termination value of a depreciating asset is the amount you receive for the asset on its disposal. The termination value of a depreciating asset is reduced under subsection 27-95(1) of the ITAA 1997 if the balancing adjustment event is a taxable supply. The reduction is the amount of the GST payable on the supply.
 The termination value of a car to which the car limit applied is further adjusted by section 40-325 of the ITAA 1997. This section applies a fraction to the termination value worked out after the reduction by subsection 27-95(1) of the ITAA 1997. The fraction is:
 
-
 Car limit + Amounts included in the second element of the car's cost / Total cost of the car (ignoring the car limit)
 
 This adjustment recognises that the car limit has reduced the cost of the car otherwise available to work out the decline in value and reduces the car's termination value to an amount proportional to the amount used to work out the car's decline in value.
@@ -40,8 +34,6 @@ The car was sold on 30 June 2002 for $38,000 including GST. No amounts were incl
 The car's termination value is worked out as follows:
 Reduction for GST under subsection 27-95(1) of the ITAA 1997
 
-
-
 Termination value
 $38,000
 
@@ -49,18 +41,14 @@ less GST payable
 
 $ 3,455
 
-
 =
 $34,545
 
 Reduction under section 40-325 of the ITAA 1997
 
-
-
 $34,545 x
 
 $55,134
-
 
 $74,488
 
@@ -82,10 +70,10 @@ Related rulings / determinations
 Inserted reference to TD 2006/40 as it replaces ATO ID 2002/693.
 
 Date of decision:
-         18 September 2002
+  18 September 2002
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -98,35 +86,31 @@ TD 2006/40
 Keywords
 
 Goods and services tax
-          Termination value
-          Car limit
-
+ Termination value
+ Car limit
 
 Siebel/TDMS Reference Number:
-         DW329182; 1-AE454FM
+  DW329182; 1-AE454FM
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         30 September 2002
+  30 September 2002
 
 Date reviewed:
-         14 December 2016
+  14 December 2016
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 18 September 2002

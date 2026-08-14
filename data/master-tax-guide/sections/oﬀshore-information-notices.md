@@ -7,7 +7,7 @@ paragraph: "¶21-220"
 ---
 # Oﬀshore information notices ¶21-220
 
-To enforce the accruals taxation system, and for other purposes, the Commissioner may need to gain access to information and documents located in foreign countries. To this end, the Commissioner can issue a 90-day “oﬀshore information notice” under TAA sch 1 s 353-25 requesting a taxpayer to furnish information and/or documents which the Commissioner has reason to believe are relevant to the assessment of the taxpayer.
+To enforce the accruals taxation system, and for other purposes, the Commissioner may need to gain access to information and documents located in foreign countries. To this end, the Commissioner can issue a 90-day "oﬀshore information notice" under TAA sch 1 s 353-25 requesting a taxpayer to furnish information and/or documents which the Commissioner has reason to believe are relevant to the assessment of the taxpayer.
 
 The notice may be issued in respect of any tax administered by the Commissioner, including income tax, GST and Petroleum Resource Rent Tax. The relevant provisions, contained in TAA sch 1 Subdiv 353-B, replaced former ITAA36 s 264A, with eﬀect from 1 April 2019.
 
@@ -19,6 +19,6 @@ The 90-day period can be extended on request by the taxpayer, and the Commission
 
 In FH Faulding & Co 94 ATC 4867; [1994] FCA 1492, the Federal Court ruled that certain requests made by the Commissioner in a former s 264A notice were invalid on the grounds that they were irrelevant or too uncertain. The court also held that the power to specify the manner in which information is to be provided does not extend to a power to specify that a third party make a statement or answer the questions asked of the taxpayer by the Commissioner.
 
-Failing to comply with a s 353-25 notice is not an oﬀence. The only sanction for failure to comply with a notice is that the information or documents which the taxpayer fails to produce will not be admissible in subsequent proceedings disputing the taxpayer’s assessment. However, the Commissioner can consent to the admission into evidence of information or documents otherwise blocked under s 353-25. In circumstances where the refusal of the Commissioner to give consent would, constitutionally, have the eﬀect of making a penalty or tax uncontestable, he cannot withhold consent.
+Failing to comply with a s 353-25 notice is not an oﬀence. The only sanction for failure to comply with a notice is that the information or documents which the taxpayer fails to produce will not be admissible in subsequent proceedings disputing the taxpayer's assessment. However, the Commissioner can consent to the admission into evidence of information or documents otherwise blocked under s 353-25. In circumstances where the refusal of the Commissioner to give consent would, constitutionally, have the eﬀect of making a penalty or tax uncontestable, he cannot withhold consent.
 
 *Refs: s 353-25*

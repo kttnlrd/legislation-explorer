@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Absolute assignment**
 
-**(1)**  An absolute assignment of some or all of a person’s rights under another financial arrangement or under an excepted financial arrangement is not a financial arrangement, except to the extent described in section EW 3(3)﻿(c).
+**(1)**  An absolute assignment of some or all of a person's rights under another financial arrangement or under an excepted financial arrangement is not a financial arrangement, except to the extent described in section EW 3(3)﻿(c).
 
 **Legal defeasance**
 

@@ -3,23 +3,18 @@ ATO ID 2003/1035
 ==================================================
 
 Goods and Services Tax
-        GST and legal services supplied to a non-resident insurance underwriter
-        FOI status: may be released
+ GST and legal services supplied to a non-resident insurance underwriter
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as it is superseded by  GSTR 2005/6.
+This ATO ID is withdrawn as it is superseded by GSTR 2005/6.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a legal service provider, making a GST-free supply under item 2 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when, in supplying legal services to a non-resident insurance underwriter, the entity is listed on court documents as acting for the insured who is in Australia?
@@ -27,8 +22,6 @@ Decision
 Yes, the entity is making a GST-free supply under item 2 in the table in subsection 38-190(1) of the GST Act when, in supplying legal services to a non-resident insurance underwriter, the entity is listed on court documents as acting for the insured who is in Australia.
 Facts
 The entity is a supplier of legal services. The entity provides legal services to a non-resident insurance underwriter. The legal services include:
-
-
 
 • an assessment of the relevant claim
 • acting for the non-resident insurance underwriter to minimise the quantum of the claim, and
@@ -42,15 +35,11 @@ Reasons for Decision
 Under section 38-190 of the GST Act, certain supplies of things other than goods or real property, for consumption outside of Australia are GST-free. As the entity is supplying legal services, not goods or real property, it is appropriate to consider section 38-190 of the GST Act in relation to this supply.
 Item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) provides that a supply that is made to a non-resident who is not in Australia when the thing supplied is done, is GST-free where:
 
-
-
 • the supply is neither a supply of work physically performed on goods situated in Australia when the work is done nor a supply directly connected with real property situated in Australia, or
 • the non-resident acquires the thing in carrying on the non-resident's enterprise, but is not registered or required to be registered for GST.
 
 The non-resident insurance underwriter is not in Australia when the services are supplied. As the supply relates to professional indemnity insurance, it is not a supply of work physically performed on goods situated in Australia, nor a supply directly connected with real property situated in Australia. Therefore, the supply satisfies the requirements of Item 2.
 However, Item 2 is limited by subsection 38-190(3) of the GST Act which provides that a supply covered by Item 2 is not GST-free if:
-
-
 
 • it is a supply under an agreement entered into, whether directly or indirectly, with a non-resident, and
 • the supply is provided, or the agreement requires it to be provided, to another entity in Australia.
@@ -58,7 +47,7 @@ However, Item 2 is limited by subsection 38-190(3) of the GST Act which provides
 Under the terms of the insurance policy, the rights of the insured have been transferred to the underwriter. The underwriter has rights of subrogation in regard to all the rights and remedies of the insured and shall be entitled to bring an action in the name of the insured. In exercising this right of subrogation, the underwriter contracts the entity to provide legal advice. On the court record, the entity is stated as acting on behalf of the insured. However, the entity receives all instructions from the non-resident insurance underwriter, including which claims they are to act in respect of. The entity invoices the non-resident insurance underwriter for the legal advice it provides and as such is providing its supply to the non-resident insurance underwriter and not the insured.
 Therefore, the entity is not providing its supply to an entity in Australia and subsection 38-190(3) of the GST Act does not exclude the entity's supply from being GST-free under Item 2. As such, the entity is making a GST-free supply under Item 2 when it supplies legal advice to the non-resident insurance underwriter.
 Date of decision:
-         22 February 2003
+  22 February 2003
 
 Legislative References:
 
@@ -72,30 +61,26 @@ GSTR 2000/36
 Keywords
 
 Goods and Services Tax
-          GST free
-          GST international services
-          GST insurance
-
+ GST free
+ GST international services
+ GST insurance
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         21 November 2003
+  21 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 February 2003

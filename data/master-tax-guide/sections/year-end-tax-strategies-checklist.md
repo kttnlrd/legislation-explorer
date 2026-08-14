@@ -17,7 +17,7 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
 - Be aware of the annual income levels at which certain dependant tax oﬀsets cut out (¶15-025).
 
-- Consider making deductible gifts before year’s end, particularly if you expect that your average
+- Consider making deductible gifts before year's end, particularly if you expect that your average
 
   tax rate (and therefore the value of your deduction) will fall in the next year. However, the eﬀects
 
@@ -25,7 +25,7 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
   mind. Note, too, that the gifts deduction is limited to the taxable income for the year, and cannot
 
-  create a carry forward loss, so deferment of “excess” gifts may be appropriate in some cases
+  create a carry forward loss, so deferment of "excess" gifts may be appropriate in some cases
 
 (¶16-942).
 
@@ -37,7 +37,7 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
   (¶21-033).
 
-- A minor can avoid being taxed at the penal rates applicable to minors’ income if they are in a full-
+- A minor can avoid being taxed at the penal rates applicable to minors' income if they are in a full-
 
   time occupation at 30 June. A minor who is intending to take up a post in July may therefore be
 
@@ -55,9 +55,9 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
 - For taxpayers wishing to claim deductions for concessional superannuation contributions, or to
 
-  qualify for the government’s co-contribution, ensure that the payment is made (and received by
+  qualify for the government's co-contribution, ensure that the payment is made (and received by
 
-  the fund) by year’s end. Bear in mind the annual caps that apply and consider whether any excess
+  the fund) by year's end. Bear in mind the annual caps that apply and consider whether any excess
 
   contribution over the cap should be deferred (¶13-760, ¶13-820).
 
@@ -71,7 +71,7 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
   contributions (¶13-730, ¶13-875).
 
-- Individuals with superannuation account balances of $500,000 or less can make “catch-up”
+- Individuals with superannuation account balances of $500,000 or less can make "catch-up"
 
   superannuation contributions using their unused concessional contributions caps, for up to 5 years
 
@@ -101,7 +101,7 @@ $300,000 into their superannuation using the proceeds from the sale of their mai
 
 - Consider the availability of statutory roll-overs to defer liability arising in the current year, eg
 
-  partnerships’ trading stock (¶9-290), depreciation (¶17-710) and capital gains (¶12-035).
+  partnerships' trading stock (¶9-290), depreciation (¶17-710) and capital gains (¶12-035).
 
 - In general, under the Arthur Murray rule, income is not derived until it has been earned by the
 
@@ -147,25 +147,25 @@ July (¶9-080, ¶10-470).
 
   year may not be eﬀective (¶31-270).
 
-- Where appropriate, consider realising capital losses by year’s end so that they may be oﬀset
+- Where appropriate, consider realising capital losses by year's end so that they may be oﬀset
 
   against realised capital gains of that year (¶11-030).
 
-- Where appropriate, consider realising capital gains by year’s end so that they may be reduced by
+- Where appropriate, consider realising capital gains by year's end so that they may be reduced by
 
   current year capital losses (or unused capital losses from previous years) (¶11-030).
 
 - Where it is intended to stream a capital gain to a particular beneﬁciary, take care to ensure that
 
-  “speciﬁc entitlement” requirements are satisﬁed (¶11-060).
+  "speciﬁc entitlement" requirements are satisﬁed (¶11-060).
 
 - A targeted CGT exemption exists for granny ﬂat arrangements where there is a formal written
 
   agreement in place (¶11-915).
 
-- Be aware of the availability of the immediate deduction for small business assets (the “instant
+- Be aware of the availability of the immediate deduction for small business assets (the "instant
 
-  asset write-oﬀ”) (¶7-250).
+  asset write-oﬀ") (¶7-250).
 
 - In general, deductions are not allowed where there is merely an accounting provision or reserve
 
@@ -187,7 +187,7 @@ July (¶9-080, ¶10-470).
 
 2023/1; ¶16-480).
 
-- Ensure that deductible wages to spouses are actually incurred by year’s end and that this is
+- Ensure that deductible wages to spouses are actually incurred by year's end and that this is
 
   documented. Be aware that deductions are limited where the payment is considered unreasonable
 
@@ -197,7 +197,7 @@ July (¶9-080, ¶10-470).
 
 - Subject to cash ﬂow considerations and prepayment rules, consider making deductible purchases
 
-  by year’s end to accelerate deductions. This applies particularly if tax rates for the following year —
+  by year's end to accelerate deductions. This applies particularly if tax rates for the following year —
 
   and therefore the tax beneﬁt of the deduction — are expected to be lower than in the current year
 
@@ -213,15 +213,15 @@ July (¶9-080, ¶10-470).
 
   excess deductions that can be oﬀset against current year income (¶16-740).
 
-- To be deductible, a bad debt may need to be actually written oﬀ by year’s end (¶16-582).
+- To be deductible, a bad debt may need to be actually written oﬀ by year's end (¶16-582).
 
-- To claim a current year deduction for directors’ fees, the company should have deﬁnitively
+- To claim a current year deduction for directors' fees, the company should have deﬁnitively
 
   committed itself to the payment, eg by passing a properly authorised resolution (¶16-040).
 
 - To claim a current year deduction for annual or long service leave, it is not suﬃcient for the
 
-  employer merely to have made a provision in its accounts to cover the employees’ entitlements
+  employer merely to have made a provision in its accounts to cover the employees' entitlements
 
 (¶16-040).
 
@@ -245,7 +245,7 @@ July (¶9-080, ¶10-470).
 
 - Be aware that capital allowances (ie depreciation) are not available for a year unless the asset
 
-  has been used or installed ready for use, and the taxpayer’s income-producing operations have
+  has been used or installed ready for use, and the taxpayer's income-producing operations have
 
   commenced (¶17-480).
 
@@ -289,7 +289,7 @@ July (¶9-080, ¶10-470).
 
   may not be appropriate if the taxpayer is a company that has incurred a loss (¶31-270).
 
-- Trading stock in transit at year’s end may have to be considered in calculating the value of stock
+- Trading stock in transit at year's end may have to be considered in calculating the value of stock
 
   on hand at the end of the year (¶9-170).
 
@@ -313,7 +313,7 @@ July (¶9-080, ¶10-470).
 
   year (¶4-780).
 
-- Where land is involved in the sale of a business, the timing of the settlement before or after year’s
+- Where land is involved in the sale of a business, the timing of the settlement before or after year's
 
   end may aﬀect land tax liabilities (¶31-610).
 

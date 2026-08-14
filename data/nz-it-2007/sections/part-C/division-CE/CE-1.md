@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (d) a benefit received under an employee share scheme:
 
-- (e) directors’ fees:
+- (e) directors' fees:
 
 - (f) compensation for loss of employment or service:
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
   - (iii) a room or lodging that is provided for a shift worker who is required in the performance of their employment duties periodically to sleep at their workplace when the accommodation is provided only for the duration of the performance of those duties, for example, fire-fighters, ambulance staff, care-givers, and other similar employees:
 
-  - (iv) the use of a room or other dwelling provided at a remote location outside New Zealand when a person’s employment duties require them to work at the location for a period and also require them to be absent from the location for a period, for example, miners in Australia who regularly fly to and from a mining camp and other similar employees.
+  - (iv) the use of a room or other dwelling provided at a remote location outside New Zealand when a person's employment duties require them to work at the location for a period and also require them to be absent from the location for a period, for example, miners in Australia who regularly fly to and from a mining camp and other similar employees.
 
 **Meaning of benefit in money**
 
@@ -86,7 +86,7 @@ compilation_date: 2026-06-06
 
   - (i) provides accommodation for the employee at a distant workplace; or
 
-  - (ii) pays an amount for the employee’s accommodation at a distant workplace:
+  - (ii) pays an amount for the employee's accommodation at a distant workplace:
 
 - (b) in sections CW 16B to CW 16F, CZ 23B, CZ 29 to CZ 30, and FP 22, includes a company that is part of the same group of companies as the employer.
 

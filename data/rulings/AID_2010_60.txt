@@ -3,18 +3,14 @@ ATO ID 2010/60
 ==================================================
 
 Income Tax
-        Functional currency choice: amounts borrowed/lent in a non-AUD currency other than the one which later becomes the 'applicable functional currency'
-        FOI status: may be released
-
-
+ Functional currency choice: amounts borrowed/lent in a non-AUD currency other than the one which later becomes the 'applicable functional currency'
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where amounts have been borrowed/lent in a non-AUD currency other than the one which later becomes the 'applicable functional currency', is the amount of principal outstanding at the effective time of the functional currency choice an amount that needs to be translated under the two step translation in section 960-85 of Subdivision 960-D of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -29,40 +25,34 @@ Some of these loan agreements were denominated in CAD/Euro.
 Reasons for Decision
 
 Section 960-85 Special rule about translation
-               -
-              events that happened before the current choice took effect
-
+ -
+ events that happened before the current choice took effect
 
 Australian resident required to prepare financial reports under section 292 of the Corporations Act 2001
 
-
 960-85(1
-              )
+ )
 
 If:
 
-
 (a)as the result of a choice (the
-                    current choice
+ current choice
 ) made by you under item 1 of the table in subsection 960-60(1), subsection 960-80(1) requires that an amount be translated to the *applicable functional currency; and
 (b)the amount is attributable to an event that happened, or a state of affairs that came into existence, at a time (the
-                    event time
+ event time
 ) before the current choice took effect;
 
 the table has effect:
 
-
 Special rule about translation
-
 
 Item
 
-
 In this case
-                      ...
+ ...
 
 this is the result
-                      ...
+ ...
 
 1
 at the event time, no previous choice made by you under item 1 of the table in subsection 960-60(1) was in effect
@@ -83,15 +73,15 @@ The amount of non-AUD principal borrowed or lent that is outstanding at the effe
 Further, the amount of non-AUD principal outstanding at the effective time of the functional currency choice is an amount which will be an element in the calculation of assessable income and allowable deductions in post functional currency choice years, for example under Division 775 of the ITAA 1997. Accordingly, the two step translation under section 960-85 of the ITAA 1997 will apply to the amount of principal denominated in CAD/Euro that is outstanding at the effective time of the functional currency choice.
 In a practical sense, if the loan is a post 30 June 2003 loan, the non-AUD amount will have already been translated to Australian dollars pursuant to subsection 960-50(1) of Subdivision 960-C of the ITAA 1997. This means that the first step of the two step translation under section 960-85 will have already happened (see also former section 103-20 of the ITAA 1997 with regard to pre 1 July 2003 CGT amounts).
 The amount of principal denominated in a non-AUD currency
-          other
-           than the one which later becomes the 'applicable functional currency', and which is outstanding at the effective time of the functional currency choice , is both a 'pre choice' amount that is attributable to a 'prior year event' and also a 'relevant amount' with ongoing tax significance. In addition, it is an amount that is
-          not
-           in the 'applicable functional currency' and so is subject to the two step translation under section 960-85 of the ITAA 1997.
+ other
+ than the one which later becomes the 'applicable functional currency', and which is outstanding at the effective time of the functional currency choice , is both a 'pre choice' amount that is attributable to a 'prior year event' and also a 'relevant amount' with ongoing tax significance. In addition, it is an amount that is
+ not
+ in the 'applicable functional currency' and so is subject to the two step translation under section 960-85 of the ITAA 1997.
 Date of decision:
-         2 march 2010
+  2 march 2010
 
 Year of income:
-           Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013
+  Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013
 
 Legislative References:
 
@@ -104,20 +94,19 @@ Taxation Ruling TR 2007/5
 Keywords
 
 Applicable functional currency
-          Event time
-          Functional currency
-          Functional currency choice
-          Borrowings & loans
-
+ Event time
+ Functional currency
+ Functional currency choice
+ Borrowings & loans
 
 Siebel/TDMS Reference Number:
-         1-1UXA7DA
+  1-1UXA7DA
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         12 March 2010
+  12 March 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # FO 9  Unexpired portion of prepaid expenditure
 
-If an amalgamating company ends its existence on amalgamation, the unexpired portion under section EA 3 (Prepayments) of an amount of expenditure of the amalgamating company for the income year of amalgamation is treated as the amalgamated company’s unexpired amount of the expenditure.
+If an amalgamating company ends its existence on amalgamation, the unexpired portion under section EA 3 (Prepayments) of an amount of expenditure of the amalgamating company for the income year of amalgamation is treated as the amalgamated company's unexpired amount of the expenditure.
 
 *Defined in this Act: amalgamated company, amalgamating company, amalgamation, amount, income year, prepaid expenditure*
 

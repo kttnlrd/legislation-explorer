@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (a) set out in any of sections OA 7 and OE 20 to OE 22:
 
-- (b) described in a row of table O10: person’s branch equivalent tax debits.
+- (b) described in a row of table O10: person's branch equivalent tax debits.
 
 **ASC debits**
 

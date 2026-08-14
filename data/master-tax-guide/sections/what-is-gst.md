@@ -25,17 +25,17 @@ A 10% goods and services tax (GST) started full operation in Australia on 1 July
 
 The tax is ultimately borne by consumers, not by producers or suppliers.
 
-Despite its name, GST is not limited to “goods and services” in the normally understood sense. For example, it also applies to real property and the creation of rights. GST is therefore a convenient but not an entirely accurate shorthand term.
+Despite its name, GST is not limited to "goods and services" in the normally understood sense. For example, it also applies to real property and the creation of rights. GST is therefore a convenient but not an entirely accurate shorthand term.
 
 GST is governed principally by the A New Tax System (Goods and Services Tax) Act 1999 (GST Act). All section or Division references in this chapter are to this Act unless otherwise stated. For details of other GST-related legislation, see ¶34-360.
 
-GST applies where an entity makes a “taxable supply” (Div 7). For there to be a taxable supply, the entity — called the “supplier” — must be registered or required to be registered (¶34-100). In addition, the supply must be connected with Australia and made for consideration in the course or furtherance of an enterprise that the supplier carries on. The requirements of a taxable supply are discussed at ¶34-105. GST also applies to “taxable importations”. However, in such cases, it is the importer, rather than the supplier, which is required to account for the GST (¶34-250).
+GST applies where an entity makes a "taxable supply" (Div 7). For there to be a taxable supply, the entity — called the "supplier" — must be registered or required to be registered (¶34-100). In addition, the supply must be connected with Australia and made for consideration in the course or furtherance of an enterprise that the supplier carries on. The requirements of a taxable supply are discussed at ¶34-105. GST also applies to "taxable importations". However, in such cases, it is the importer, rather than the supplier, which is required to account for the GST (¶34-250).
 
-From 1 July 2015, the term “indirect tax zone” (s 195-1) replaced the term “Australia” in nearly all instances in the GST Act, without signiﬁcant alteration in meaning. However, for simplicity, this commentary continues to use the term “Australia”.
+From 1 July 2015, the term "indirect tax zone" (s 195-1) replaced the term "Australia" in nearly all instances in the GST Act, without signiﬁcant alteration in meaning. However, for simplicity, this commentary continues to use the term "Australia".
 
 The amount of GST that an entity is liable to pay is 10% of the value of the taxable supply (s 9-70). In eﬀect, this means that 1/11th of the consideration received by a supplier will be regarded as being the GST on the supply. Legal liability for the GST rests with the supplier (s 9-40).
 
-If an entity acquires goods or services for a “creditable purpose” (ie in carrying on its enterprise), it can claim a credit for the GST component of the price (¶34-110). This is called an input tax credit because it is a credit on business inputs. For this to apply, the entity — called the “recipient” — must be registered, or required to be registered (¶34-100) and provide, or be liable to provide, consideration for the acquisition. Also, the supply to the recipient must be a taxable supply (Div 11; ¶34-110).
+If an entity acquires goods or services for a "creditable purpose" (ie in carrying on its enterprise), it can claim a credit for the GST component of the price (¶34-110). This is called an input tax credit because it is a credit on business inputs. For this to apply, the entity — called the "recipient" — must be registered, or required to be registered (¶34-100) and provide, or be liable to provide, consideration for the acquisition. Also, the supply to the recipient must be a taxable supply (Div 11; ¶34-110).
 
 The combined eﬀect of these rules is that the ultimate burden of the GST will normally fall on the end-user or private consumer. The businesses that form part of the chain of supply act as progressive collectors of the tax, but do not ultimately bear the burden of it.
 

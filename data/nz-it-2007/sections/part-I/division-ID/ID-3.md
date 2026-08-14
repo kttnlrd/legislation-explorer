@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
   - (i) the amount that company A could subtract from its net income for the tax year if it were not in the tax year part of a consolidated group; and
 
-  - (ii) the amount that could be made available under section IC 5 (Company B using company A’s tax loss) to the other group companies in the tax year, ignoring the consolidation of the companies and presuming all steps required under section IC 5 were taken in order for the section to apply.
+  - (ii) the amount that could be made available under section IC 5 (Company B using company A's tax loss) to the other group companies in the tax year, ignoring the consolidation of the companies and presuming all steps required under section IC 5 were taken in order for the section to apply.
 
 **Relationship with section FM 3**
 
-**(3)**  In subsection (2), the calculation of the consolidated group’s net income must be made in accordance with section FM 3 (Liability of consolidated groups and group companies).
+**(3)**  In subsection (2), the calculation of the consolidated group's net income must be made in accordance with section FM 3 (Liability of consolidated groups and group companies).
 
 **Relationship with section ID 2**
 

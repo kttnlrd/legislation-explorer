@@ -3,18 +3,14 @@ ATO ID 2006/135
 ==================================================
 
 Income Tax
-        Research and development: consolidated group - deductibility for head company - expenditure incurred by subsidiary as a corporate trustee
-        FOI status: may be released
-
-
+ Research and development: consolidated group - deductibility for head company - expenditure incurred by subsidiary as a corporate trustee
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does subsection 73B(3) of the Income Tax Assessment Act 1936 (ITAA 1936) prevent the head company of a consolidated group from claiming a deduction under section 73B of the ITAA 1936 for research and development expenditure incurred by a subsidiary member of the consolidated group in its capacity as a corporate trustee?
@@ -35,10 +31,10 @@ The intended operation of the single entity rule is to apply the income tax laws
 For the purposes of subsection 73B(3) of the ITAA 1936, it must be determined whether the expenditure is incurred by a company in the capacity of a trustee or nominee (the public trading trust exception is not relevant in this case). In the relevant income year, the subsidiary members of the consolidated group include the trust and corporate trustee. The single entity rule in section 701-1 of the ITAA 1997 treats the abovementioned subsidiary members as parts of the head company rather than separate entities for the purposes of working out liability for income tax or losses. The head company is deemed to undertake the eligible research and development activities and incur the research and development expenditure, rather than the corporate trustee (in its capacity as trustee), as it does not exist as a separate entity for the relevant income tax purposes in the income year in question. The head company is not a corporate trustee or nominee company.
 Hence, subsection 73B(3) of the ITAA 1936 does not apply to the head company and therefore, does not prevent it from claiming a deduction under section 73B of the ITAA 1936.
 Date of decision:
-         10 April 2006
+  10 April 2006
 
 Year of income:
-           Year ending 30 June 2002
+  Year ending 30 June 2002
 
 Legislative References:
 
@@ -58,24 +54,23 @@ Related ATO Interpretative Decisions
 Keywords
 
 Australian Taxation Office
-          Consolidation
-          Consolidation - tax liabilities
-          Deductions & expenses
-          Eligible research and development expenditure
-          Innovation segment
-          LB & I segments
-          Research & development expenses
-          Single entity rule
-
+ Consolidation
+ Consolidation - tax liabilities
+ Deductions & expenses
+ Eligible research and development expenditure
+ Innovation segment
+ LB & I segments
+ Research & development expenses
+ Single entity rule
 
 Siebel/TDMS Reference Number:
-         5207965
+  5207965
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         26 May 2006
+  26 May 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

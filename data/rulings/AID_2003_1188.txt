@@ -3,25 +3,20 @@ ATO ID 2003/1188
 ==================================================
 
 Income Tax
-        Application of the Foreign Investment Fund (FIF) rules to a US Savings & Investment Plan which is an employer-sponsored superannuation fund
-        FOI status: may be released
-
+ Application of the Foreign Investment Fund (FIF) rules to a US Savings & Investment Plan which is an employer-sponsored superannuation fund
+ FOI status: may be released
 
 This ATO ID is withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-10 income year.
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 529 of the Income Tax Assessment Act 1936 (ITAA 1936) apply to include an amount of attributable income in the assessable income of a taxpayer in relation to an interest in a United States of America (US) Savings and Investment Plan that is a non-resident employer-sponsored superannuation fund?
@@ -37,8 +32,6 @@ Section 6-10 of the Income Tax Assessment Act 1997 (ITAA 1997) provides that a t
 The assessable income of an Australian resident includes statutory income from all sources (subsection 6-10(4) of the ITAA 1997). Section 10-5 of the ITAA 1997 lists certain statutory amounts that form part of assessable income. Included in this list is section 529 of the ITAA 1936, which deals with foreign investment income.
 Subsection 529(2) of the ITAA 1936 provides that if foreign investment fund income accrues to a taxpayer in respect of a notional accounting period of a FIF, then, for the income year in which the notional accounting period ended, the taxpayer's assessable income will include:
 
-
-
 (a) the whole of the foreign investment fund income amount (if the taxpayer is a resident throughout the whole of the notional accounting period), or
 (b) if the taxpayer was a resident throughout part or parts of the notional accounting period, an amount determined according to the formula set out in subsection 529(2) of the ITAA 1936.
 
@@ -46,15 +39,11 @@ Section 529 of the ITAA 1936 applies subject to section 485 of the ITAA 1936 whi
 The US Savings and Investment Plan is a foreign trust because it is a trust that is not an Australian trust or a resident Part IX entity (subsection 481(3) and sections 473 and 477 of the ITAA 1936).
 An interest in a FIF will be subject to the FIF measures for a notional accounting period that ends in the taxpayer's year of income if the taxpayer:
 
-
-
 (a) held the interest at the end of the year of income, and
 (b) was a resident at any time during that year of income (subsection 485(3) of the ITAA 1936).
 
 Therefore, a taxpayer's interest in a foreign trust that is a FIF will be subject to attribution under Part XI of the ITAA 1936 unless one of the exemptions to the FIF rules applies.
 Division 11 of Part XI of the ITAA 1936 provides an exemption for an interest in a non-resident employer-sponsored superannuation fund. To obtain this exemption, the following requirements must be met (sections 518 and 519 of the ITAA 1936):
-
-
 
 • the taxpayer must be a natural person
 • the taxpayer must be an employee or former employee of the employer, and
@@ -63,10 +52,10 @@ Division 11 of Part XI of the ITAA 1936 provides an exemption for an interest in
 The taxpayer is a natural person and a former employee of the employer. The US Savings and Investment Plan is a US-based employer-sponsored superannuation fund, established and maintained by the employer for the benefit of the employees of that employer. Therefore the taxpayer's interest in the fund satisfies the requirements for the exemption.
 As the exemption applies to the taxpayer's interests in the US Savings and Investment Plan for the income year, no attributable income is included in the taxpayer's assessable income under section 529 of the ITAA 1936 for that year.
 Date of decision:
-         10 December 2003
+  10 December 2003
 
 Year of income:
-           30 June 2003
+  30 June 2003
 
 Legislative References:
 
@@ -77,37 +66,32 @@ Other References:
 
 Foreign Investment Funds guide NAT 2130-6.1998
 
-
 Keywords
 
 Double tax agreements
-          Foreign attributable income
-          Foreign investment
-          Foreign investment fund measures
-          Foreign investment funds
-          Foreign superannuation payments
-          United States
-
+ Foreign attributable income
+ Foreign investment
+ Foreign investment fund measures
+ Foreign investment funds
+ Foreign superannuation payments
+ United States
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         24 December 2003
+  24 December 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 10 December 2003

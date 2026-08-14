@@ -3,23 +3,18 @@ ATO ID 2011/106
 ==================================================
 
 Goods and Services Tax
-        GST: Reduced credit acquisitions for delivery and collection of cash from ATMs located outside the operating area of an ADI
-        FOI status: may be released
-
+ GST: Reduced credit acquisitions for delivery and collection of cash from ATMs located outside the operating area of an ADI
+ FOI status: may be released
 
 This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the acquisition of secure cash transportation services in relation to Automatic Teller Machines (ATMs), which are located at premises operated by an Australian Authorised Deposit-taking Institution (ADI), excluded as a reduced credit acquisition under item 29(a) in the table in subregulation 70-5.02(2) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) as it is the 'cash delivery and collection from branches of Australian ADIs'?
@@ -35,15 +30,11 @@ Invoices issued by the cash management provider in relation to these services ar
 Reasons for Decision
 Item 29(a) includes the following as a reduced credit acquisition:
 
-
-
 Item
 Reduced credit acquisition
 
 29
 Trustee and custodial services (except safe custody of money, documents and other things), including:
-
-
 
 (a)transfer of cash without purchase, sale or transfer of assets,
 
@@ -59,7 +50,7 @@ In this case, the secure cash transportation services relate to the transportati
 The word 'branch' is not defined in the A New Tax System (Goods and Services Tax) Act 1999 or the GST Regulations and therefore takes its ordinary meaning. The Macquarie Dictionary, 2001, rev. 3rd edn, Macquarie University, NSW relevantly defines 'branch' as:
 
 4
-              . the local operating division of a company, chain store, library, or the like.
+ . the local operating division of a company, chain store, library, or the like.
 
 Therefore, the ordinary meaning of the word 'branch', in the context of the operations of an ADI, is the local operating division of an ADI.
 The word 'branch,' as used by the financial services industry, is also considered. Whilst the word 'branch' is not defined in the relevant Acts which deal with the banking industry, the prudential regulatory authority, established under statute, has provided an understanding of the use of the word by Australian ADIs.
@@ -68,12 +59,11 @@ Therefore, when taking into account the ordinary meaning, and the meaning accept
 It follows that the delivery and collection of cash cassettes to ATMs located at such premises is the 'cash delivery and collection from branches of Australian ADIs'.
 Accordingly, the acquisition of such services are not reduced credit acquisitions under Item 29(a).
 Date of decision:
-         14 December 2011
+  14 December 2011
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 70-5.05(2) table Item 29(a)
-
 
 Related Public Rulings (including Determinations)
 
@@ -86,38 +76,33 @@ Related ATO Interpretative Decisions
 Other References:
 
 The Macquarie Dictionary, 2001, rev. 3rd edn, Macquarie University, NSW
-          APRA 2011, ADI Points of Presence publication viewed on 13/12/2011 www.apra.gov.au
-
+ APRA 2011, ADI Points of Presence publication viewed on 13/12/2011 www.apra.gov.au
 
 Keywords
 
 Reduced credit acquisitions
-          Input taxed supplies
-          GST financial supplies
-
+ Input taxed supplies
+ GST financial supplies
 
 Siebel/TDMS Reference Number:
-         1-3MZFTC7
+  1-3MZFTC7
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         23 December 2011
+  23 December 2011
 
 ISSN:
-          :
+ :
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 14 December 2011

@@ -9,11 +9,11 @@ paragraph: "¶10-602"
 
 The sovereign immunity tax exemption is governed by ITAA97 Div 880, which commenced on 1 July 2019.
 
-Before 1 July 2019, under a longstanding administrative arrangement, the ATO provided a tax exemption for foreign government investors on income from “non-commercial” investments. The ATO generally exempted a sovereign investor from interest and dividend withholding taxes, CGT and tax on trust distributions where the investor was not acting in a commercial capacity and did not inﬂuence the decision-making of an entity.
+Before 1 July 2019, under a longstanding administrative arrangement, the ATO provided a tax exemption for foreign government investors on income from "non-commercial" investments. The ATO generally exempted a sovereign investor from interest and dividend withholding taxes, CGT and tax on trust distributions where the investor was not acting in a commercial capacity and did not inﬂuence the decision-making of an entity.
 
 Transitional rules apply to protect existing arrangements from the impact of Div 880.
 
-From 1 July 2019, the sovereign immunity tax exemption applies to situations where sovereign investors have an ownership interest of less than 10% and do not have inﬂuence over the entity’s key decision making.
+From 1 July 2019, the sovereign immunity tax exemption applies to situations where sovereign investors have an ownership interest of less than 10% and do not have inﬂuence over the entity's key decision making.
 
 Tax applies to active business income earned through a trust.
 
@@ -41,4 +41,4 @@ An amount of ordinary income or statutory income that is NANE income of a sovere
 
 Generally, a sovereign entity will be liable to pay income tax on its taxable income at a rate of 30%.
 
-## A “sovereign entity” is any of the following:
+## A "sovereign entity" is any of the following:

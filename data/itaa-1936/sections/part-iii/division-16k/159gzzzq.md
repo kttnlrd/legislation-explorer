@@ -54,7 +54,7 @@ source_pdf: "vol03.pdf"
 > **(b)** second, for any amount satisfying paragraph (a), work out whether the whole or part of it is either:
 
 > > <a id="s159GZZZQ-4-b-i"></a>
-> > **(i)** included in the seller’s assessable income of any year of income (disregarding section 128D of this Act and section 802-15 of the Income Tax Assessment Act 1997); or
+> > **(i)** included in the seller's assessable income of any year of income (disregarding section 128D of this Act and section 802-15 of the Income Tax Assessment Act 1997); or
 
 > > <a id="s159GZZZQ-4-b-ii"></a>
 > > **(ii)** an eligible non-capital amount (see subsection (5)). The amount worked out is the reduction amount in respect of the buy-back. Eligible non-capital amount
@@ -93,7 +93,7 @@ source_pdf: "vol03.pdf"
 > > **(ii)** a loss, or an increased loss, (which loss or increase is also the loss amount) in respect of the buy-back is allowable as a deduction to the seller under a provision of a Part of this Act other than Part 3-1 or 3-3 of the Income Tax Assessment Act 1997; or
 
 > > <a id="s159GZZZQ-8-c-iii"></a>
-> > **(iii)** the amount of a deduction allowable from the seller’s assessable income of any year of income in respect of the issue or acquisition of the share exceeds, or exceeds by a greater amount, (the excess or increased excess is also the loss amount) the amount included in the seller’s assessable income of any year of income in respect of the buy-back of the share; then the reduction in the amount of the consideration under subsection (3) is instead a reduction equal to:
+> > **(iii)** the amount of a deduction allowable from the seller's assessable income of any year of income in respect of the issue or acquisition of the share exceeds, or exceeds by a greater amount, (the excess or increased excess is also the loss amount) the amount included in the seller's assessable income of any year of income in respect of the buy-back of the share; then the reduction in the amount of the consideration under subsection (3) is instead a reduction equal to:
 
 > <a id="s159GZZZQ-8-d"></a>
 > **(d)** the reduction amount; less:
@@ -102,7 +102,7 @@ source_pdf: "vol03.pdf"
 > **(e)** so much of the offsetable amount as does not exceed the loss amount. Meaning of offsetable amount
 
 <a id="s159GZZZQ-9"></a>
-**(9)** For the purposes of subsection (8), if the seller is entitled to a tax offset under Division 207 of the Income Tax Assessment Act 1997 in the seller’s assessment for a year of income in respect of the dividend, the dividend consists of an offsetable amount worked out using the formula: Amount of offset Corporate tax rate
+**(9)** For the purposes of subsection (8), if the seller is entitled to a tax offset under Division 207 of the Income Tax Assessment Act 1997 in the seller's assessment for a year of income in respect of the dividend, the dividend consists of an offsetable amount worked out using the formula: Amount of offset Corporate tax rate
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

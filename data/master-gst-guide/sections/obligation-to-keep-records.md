@@ -23,7 +23,7 @@ In each case, the records must record and explain all transactions and other rel
 
 - allow the liability under the GST law to be readily ascertained. The ATO recognises that tax officers
 
-  need to have accounting skills to be able to readily ascertain a person’s liability (Taxation Ruling TR
+  need to have accounting skills to be able to readily ascertain a person's liability (Taxation Ruling TR
 
 96/7).
 
@@ -35,25 +35,25 @@ Records must be kept for 5 years from when the relevant transaction or act has b
 
   pending, or
 
-- a “refreshed” 4-year period for review of an amendment to the assessment (¶8-090) is still pending.
+- a "refreshed" 4-year period for review of an amendment to the assessment (¶8-090) is still pending.
 
 Records of any elections or estimates under the GST law must also be kept for 5 years from the time the election or estimate was made, or ceased to have effect. For the rule where claims for ITCs are postponed, see ¶5-125.
 
-The ATO may impose an administrative penalty of up to 20 penalty units (¶18-000) for failure to comply with the record-keeping requirements, but may reduce or waive this in appropriate circumstances (Administration Act Sch 1 ss 288-25, 298-20). A taxpayer will generally be given an opportunity to improve its record- keeping practices before a penalty is imposed. Penalties vary according to the taxpayer’s effort to improve its practices. Generally:
+The ATO may impose an administrative penalty of up to 20 penalty units (¶18-000) for failure to comply with the record-keeping requirements, but may reduce or waive this in appropriate circumstances (Administration Act Sch 1 ss 288-25, 298-20). A taxpayer will generally be given an opportunity to improve its record- keeping practices before a penalty is imposed. Penalties vary according to the taxpayer's effort to improve its practices. Generally:
 
 - no penalty would be imposed if the taxpayer makes a genuine effort to improve or if records have
 
-  been lost due to circumstances outside the taxpayer’s control
+  been lost due to circumstances outside the taxpayer's control
 
-- the penalty would be reduced by 75% where “some” effort has been made, and by 50% where “very
+- the penalty would be reduced by 75% where "some" effort has been made, and by 50% where "very
 
-  little effort” has been made, and
+  little effort" has been made, and
 
 - the maximum penalty would normally be imposed if the taxpayer makes no effort (Practice Statement
 
   PS LA 2005/2).
 
-As an alternative to imposing a penalty, where the ATO reasonably believes that there has been a failure to comply with record-keeping requirements, it can make a “tax records education direction” (Administration Act Sch 1 s 384-12), requiring the taxpayer to complete an approved record-keeping course within a specified reasonable period. If the taxpayer is not an individual, it must arrange for a person involved in its significant decision-making processes to complete the course. On evidence of completion of the course, the penalty otherwise applicable will not apply. Failure to take the course, or to complete it, is not an offence in itself, but means that the original penalty will apply.
+As an alternative to imposing a penalty, where the ATO reasonably believes that there has been a failure to comply with record-keeping requirements, it can make a "tax records education direction" (Administration Act Sch 1 s 384-12), requiring the taxpayer to complete an approved record-keeping course within a specified reasonable period. If the taxpayer is not an individual, it must arrange for a person involved in its significant decision-making processes to complete the course. On evidence of completion of the course, the penalty otherwise applicable will not apply. Failure to take the course, or to complete it, is not an offence in itself, but means that the original penalty will apply.
 
 It is expected that the education direction process will be best suited for small businesses, particularly where the business is a recent start-up, or where the mistakes were unintentional, and where there have been genuine attempts to comply. It does not apply to taxpayers who have disengaged from the tax system or have deliberately avoided their record-keeping obligations (Administration Act Sch 1 ss 384-12, 384-15).
 
@@ -99,7 +99,7 @@ Checklist: Record keeping
 
   Records destroyed in disasters
 
-Where a taxpayer’s records are lost or destroyed as a result of a disaster, and cannot be fully reconstructed, the taxpayer may be able to lodge a BAS on the basis of a signed statement setting out a reasonable estimate of their GST liability (Practice Statement PS LA 2011/25; ATO Disaster events webpage). Disasters include any event causing localised or widespread destruction, including natural disasters such as floods, bushfires or extreme weather events, and personal disasters such as house/business fires.
+Where a taxpayer's records are lost or destroyed as a result of a disaster, and cannot be fully reconstructed, the taxpayer may be able to lodge a BAS on the basis of a signed statement setting out a reasonable estimate of their GST liability (Practice Statement PS LA 2011/25; ATO Disaster events webpage). Disasters include any event causing localised or widespread destruction, including natural disasters such as floods, bushfires or extreme weather events, and personal disasters such as house/business fires.
 
 The Commissioner also has the power to make assessments even though no (or incomplete) returns have been lodged (¶8-100). For special rules relating to substitutes for tax invoices, see ¶5-130.
 

@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
   - (ii) performs an activity to an extent less than would give rise to an entitlement to the PAYE income payment.
 
-**Commissioner’s determination**
+**Commissioner's determination**
 
 **(3)**  The Commissioner may treat the person as having undertaken the employment or performed the activity that would have given rise to the PAYE income payment.
 

@@ -13,7 +13,7 @@ Also, the foreign resident for whom a dividend, interest or royalty withholding 
 
 As a general rule, a person is not entitled to a credit for an amount withheld to the extent that it must be refunded (TAA sch 1 s 18-5).
 
-A decision by the Commissioner to refuse a taxpayer’s claim for PAYG credits is not subject to judicial review (Perdikaris 2008 ATC ¶20-075; [2008] FCAFC 186, James [2015] AATA 136).
+A decision by the Commissioner to refuse a taxpayer's claim for PAYG credits is not subject to judicial review (Perdikaris 2008 ATC ¶20-075; [2008] FCAFC 186, James [2015] AATA 136).
 
 Credits for withholding payment Direct credit to recipient A recipient of a withholding payment is entitled to a credit equal to the amounts withheld during an income year if, for the income year, an assessment has been made of the income tax payable by the recipient or an assessment has been made that no income tax is payable by the recipient (TAA sch 1 s 18-15). Entitlement to the credit arises at the time of the issue of the assessment (Cumins 2007 ATC 5459; [2007] FCAFC 207). If a taxpayer can show that the total of the amount withheld is greater than the amount of the credit for PAYG withholding shown on the notice of assessment, then the taxpayer is entitled to a credit for the greater amount and nothing in the notice of assessment prevents this (Cassaniti 2010 ATC ¶20-192; [2010] FCA 641). However, if there is no evidence to show that salary or wages were ever paid then there was no withholding payment from which an amount could have been withheld and no entitlement to a credit (Cassaniti (No 2) 2010 ATC ¶20-193; [2010] FCA 642, Cameron [2014] AATA 499). See also Cassaniti 2018 ATC ¶20-676; [2018] FCAFC 212 where the Commissioner accepted that, as a matter of law, remission to the Commissioner was not a pre-condition to the obtaining of credits; rather, what was critical was whether the act of withholding had taken place contemporaneously with the payment of salary or wages. A payment summary is only prima facie evidence that amounts have been withheld; if there is other evidence that establishes that no amounts were withheld, then the taxpayer is not entitled to a credit (Price [2019] FCA 543).
 
@@ -21,11 +21,11 @@ Recipient is a partnership If the recipient of a withholding payment is a partne
 
 *Refs: s 18-5), s 18-15), s 18-20)*
 
-partner’s individual interest attributable to the withholding payments amounts withheld                       × net income/partnership loss attributable to the withholding payments Recipient is a trustee If the recipient of a withholding payment is a trustee, the entitlement to a credit is worked out according to the following rules (TAA sch 1 s 18-25).
+partner's individual interest attributable to the withholding payments amounts withheld                       × net income/partnership loss attributable to the withholding payments Recipient is a trustee If the recipient of a withholding payment is a trustee, the entitlement to a credit is worked out according to the following rules (TAA sch 1 s 18-25).
 
 *Refs: s 18-25)*
 
-- an amount is included in the beneﬁciary’s assessable income under ITAA36 s 97 in respect of a
+- an amount is included in the beneﬁciary's assessable income under ITAA36 s 97 in respect of a
 
   share of the net income of the trust (¶6-110)
 
@@ -49,11 +49,11 @@ share of net income attributable to the withholding payments amounts withheld   
 
 If there is no net income of the trust for the income year, the trustee is entitled to a credit equal to the sum of the amounts withheld.
 
-Credits for foreign resident capital gains withholding tax The normal credit rules are modiﬁed to ensure an entity’s entitlement to a credit for amounts paid under the foreign resident capital gains tax withholding provisions (¶26-269) is available in the income year in which the transaction that caused the withholding is recognised (Legislative Instrument F2017L00992).
+Credits for foreign resident capital gains withholding tax The normal credit rules are modiﬁed to ensure an entity's entitlement to a credit for amounts paid under the foreign resident capital gains tax withholding provisions (¶26-269) is available in the income year in which the transaction that caused the withholding is recognised (Legislative Instrument F2017L00992).
 
 Credits for dividend, interest and royalty withholding
 
-- a dividend, interest or royalty has been included in the person’s ordinary or statutory income, and
+- a dividend, interest or royalty has been included in the person's ordinary or statutory income, and
 
 - the person has borne all or part of an amount withheld from the dividend, interest or royalty.
 

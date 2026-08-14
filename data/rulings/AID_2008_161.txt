@@ -3,18 +3,14 @@ ATO ID 2008/161
 ==================================================
 
 Income Tax
-        Superannuation entities: tax offset - no-TFN contributions income - successor fund
-        FOI status: may be released
-
-
+ Superannuation entities: tax offset - no-TFN contributions income - successor fund
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the trustee of a successor fund entitled to a tax offset under section 295-675 of the Income Tax Assessment Act 1997 (ITAA 1997), for tax payable by the original fund on no-TFN contributions income where the member quotes their tax file number (TFN) to the successor fund?
@@ -35,8 +31,6 @@ Section 295-680 of the ITAA 1997 provides that the amount of the tax offset is t
 Subsection 295-675(2) of the ITAA 1997 states:
 An amount of tax counts towards the offset for the provider for the current year if:
 
-
-
 (a)the tax was payable by the provider in one of the most recent 3 income years ending before the current year; and
 (b)the tax was payable on an amount of *no-TFN contributions income of the fund or *RSA provider; and
 (c)the amount of no-TFN contributions income was a contribution made to the fund or provider to provide *superannuation benefits for an individual who, in the current year, has *quoted (for superannuation purposes) his or her *tax file number to the provider for the first time.
@@ -45,10 +39,10 @@ Paragraphs 295-675(2)(a) and (b) of the ITAA 1997 provide that the tax offset is
 Further, paragraph 295-675(2)(c) of the ITAA 1997 requires that the amount of no-TFN contributions income was a contribution made to the fund for an individual who has quoted their TFN to that provider for the first time during the current year. In the case of the trustee of Fund B, the no-TFN contributions income was not a contribution that was made to Fund B. Accordingly, the trustee of Fund B also cannot satisfy paragraph 295-675(2)(c) of the ITAA 1997.
 Therefore, the trustee of Fund B will not be entitled to a tax offset in relation to the tax payable by the trustee of Fund A on no-TFN contributions income of Fund A.
 Date of decision:
-         5 June 2008
+  5 June 2008
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -57,23 +51,22 @@ Income Tax Assessment Act 1997   subdivision 295-J   subsection 295-675(1)
 Keywords
 
 No-TFN contributions income - superannuation funds
-          Superannuation
-          Superannuation fund income
-          Tax offset for no-TFN contributions income
-          Taxation of superannuation entities
-
+ Superannuation
+ Superannuation fund income
+ Tax offset for no-TFN contributions income
+ Taxation of superannuation entities
 
 Siebel/TDMS Reference Number:
-         6030837;1-5Y3UNQA
+  6030837;1-5Y3UNQA
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         12 December 2008
+  12 December 2008
 
 Date reviewed:
-         9 October 2014
+  9 October 2014
 
 ISSN:
-          1445-2782
+ 1445-2782

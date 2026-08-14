@@ -1,0 +1,29 @@
+---
+country: "Singapore"
+country_slug: "singapore"
+treaty_schedule: 5
+article: 8
+title: "Article 8 — Shipping and Air Transport"
+---
+# Article 8 — Shipping and Air Transport
+Singaporean Agreement
+AGREEMENT BETWEEN THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+As amended by the Singaporean Exchange of Notes (No 1), the Singaporean Exchange of Notes (No 2), the Singaporean Exchange of Notes (No 3), the Singaporean Protocol (No 1) and Singaporean Protocol (No 2)
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+1.
+The Australian tax on dividends, being dividends paid by a company which is a resident of Australia, derived by a Singapore resident who is beneficially entitled to the dividends, shall not exceed 15 per centum of the gross amount of the dividends.
+2.
+Subject to the provisions of this Article dividends paid by a company which is resident in Singapore, and dividends paid by a Malaysian company out of profits derived from sources in Singapore, being dividends derived by an Australian resident who is beneficially entitled to the dividends, shall be exempt from any tax in Singapore which may be chargeable on dividends in addition to the tax chargeable in respect of the profits of the company.
+3.
+Nothing in the preceding paragraph shall affect the provisions of Singapore law under which the tax in respect of a dividend paid by a company which is resident in Singapore, or by a Malaysian company out of profits derived from sources in Singapore, from which Singapore tax has been, or has been deemed to be, deducted may be adjusted by reference to the rate of tax appropriate to the Singapore year of assessment immediately following that in which the dividend was paid.
+4.
+If Singapore, subsequent to the signing of this Agreement, imposes a tax on dividends paid by a company which is resident in Singapore or by a Malaysian company out of profits derived from sources in Singapore, which is in addition to the tax chargeable in respect of the profits of the company, such tax may be charged but the tax so charged on such dividends derived by an Australian resident who is beneficially entitled to the dividends shall not exceed 15 per centum of the gross amount of the dividends.
+5.
+Paragraphs 1, 2 and 4 of this Article shall not apply if the resident of one of the Contracting States who is beneficially entitled to the dividends has in the other Contracting State a permanent establishment and the holding giving rise to the dividends is effectively connected with a trade or business carried on through that permanent establishment. In any such case, the provisions of Article 
+5
+ shall apply.
+6.
+Dividends paid by a company which is a resident of one of the Contracting States, being dividends derived by a person who is beneficially entitled to the dividends and who is not a resident of the other Contracting State, shall be exempt from tax in that other Contracting State. This paragraph shall not apply in relation to a Singapore company which is also a resident of Australia or any Australian company which is also resident in Singapore.

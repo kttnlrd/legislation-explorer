@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a guarantor pays an amount under a guarantee (a guarantee payment) for an associated person’s debt (the debtor) to the debtor’s creditor.
+**(1)**  This section applies when a guarantor pays an amount under a guarantee (a guarantee payment) for an associated person's debt (the debtor) to the debtor's creditor.
 
 **Repayment**
 

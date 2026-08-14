@@ -3,18 +3,14 @@ ATO ID 2006/266
 ==================================================
 
 Income tax
-        Controlled foreign companies: amalgamation of two controlled foreign companies - cancellation of shares
-        FOI status: may be released
-
-
+ Controlled foreign companies: amalgamation of two controlled foreign companies - cancellation of shares
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the cancellation of the shares in an amalgamating entity in the course of an amalgamation give rise to a 'disposal' of the shares by the amalgamated entity for the purposes of Part X of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -25,8 +21,6 @@ A resident company wholly owns an overseas subsidiary (Z Co). Z Co wholly owns a
 Under the terms of the legislation, the amalgamated company will succeed to all the assets, liabilities and obligations of Y Co. The shares in Y Co will then be cancelled without payment or other consideration.
 Reasons for Decision
 The definition of disposal in section 317 of the ITAA 1936 is an inclusive definition only. 'Disposal' is defined in that section as including:
-
-
 
 (a)a redemption, and
 (b)CGT event J1 happening in relation to the asset.
@@ -47,10 +41,10 @@ This case was considered in Taxation Ruling TR 96/14 and it was concluded that t
 The ordinary meaning of the word includes acts of alienation and also includes acts resulting in something 'being dealt with definitely' and acts that 'get rid of' something.
 A cancellation results in the shares ceasing to exist; they are no longer 'owned' by the amalgamated entity. In other words, the amalgamated entity has 'dealt with definitely' or has positively acted to 'get rid of' the shares. Therefore, the cancellation of the shares is a disposal.
 Date of decision:
-         2 August 2004
+  2 August 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -58,9 +52,7 @@ Income Tax Assessment Act 1936   Section 317
 
 Case References:
 
-
 Federal Commissioner of Taxation v. Wade    (1951) 84 CLR 105   (1951) 9 ATD 337
-
 
 Related Public Rulings (including Determinations)
 
@@ -74,22 +66,20 @@ Other References:
 
 Macquarie Dictionary 2001, rev. 3rd edn, The Macquarie Library Pty Ltd
 
-
 Keywords
 
 Controlled foreign companies
-          Disposal of assets
-          International tax
-
+ Disposal of assets
+ International tax
 
 Siebel/TDMS Reference Number:
-         3788010
+  3788010
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         22 September 2006
+  22 September 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

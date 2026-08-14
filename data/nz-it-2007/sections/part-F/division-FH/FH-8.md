@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Assessable income**
 
-**(5)**  The person derives, at the transition time, assessable income equal to the amount of net loss, calculated for the person and the hybrid entity or deducting branch and the unaffected period as if the person’s income from the hybrid entity or deducting branch were schedular income.
+**(5)**  The person derives, at the transition time, assessable income equal to the amount of net loss, calculated for the person and the hybrid entity or deducting branch and the unaffected period as if the person's income from the hybrid entity or deducting branch were schedular income.
 
 **Mismatch amounts**
 

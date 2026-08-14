@@ -4,11 +4,11 @@ part_title: Part R General collection rules
 division: RE
 division_title: Subpart RE—Withholding tax on resident passive income (RWT)
 section: RE-9
-section_title: Agents’ or trustees’ obligations in relation to certain dividends
+section_title: Agents' or trustees' obligations in relation to certain dividends
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# RE 9  Agents’ or trustees’ obligations in relation to certain dividends
+# RE 9  Agents' or trustees' obligations in relation to certain dividends
 
 **When this section applies**
 

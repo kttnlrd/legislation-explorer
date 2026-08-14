@@ -9,7 +9,7 @@ paragraph: "¶31-040"
 
 As previously indicated (¶31-015), tax planning should not be conﬁned to taxation considerations, as commercial considerations and other legislative requirements may make an otherwise attractive tax plan impossible or at least inadvisable (eg the direct and indirect costs may outweigh the tax savings). Some of the possible pitfalls are mentioned below.
 
-- Existing contractual relationships — regard must be had to the eﬀect of the tax plan on the taxpayer’s
+- Existing contractual relationships — regard must be had to the eﬀect of the tax plan on the taxpayer's
 
   continuing contractual relationships with, for example, suppliers, customers, tenants etc. Where a change
 

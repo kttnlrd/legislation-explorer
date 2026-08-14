@@ -32,7 +32,7 @@ Meaning of potential residential land
 23
 Meaning of property subdivision plan
 32
-Determining kinds of supplies to which the GST withholding obligation  does not apply
+Determining kinds of supplies to which the GST withholding obligation does not apply
 35
 When the GST withholding amount must be paid
 37
@@ -64,9 +64,9 @@ Penalties for vendors who fail to give notice
 70
 Penalties for purchasers who fail to pay the GST withholding amount
 72
-Exception 1:  reasonable reliance on a notice given to them by the vendor
+Exception 1: reasonable reliance on a notice given to them by the vendor
 73
-Exception 2:  vendor fails to pass on a bank cheque payable to the Commissioner
+Exception 2: vendor fails to pass on a bank cheque payable to the Commissioner
 76
 Amounts incorrectly paid to the ATO by the purchaser
 79
@@ -76,7 +76,7 @@ Example 1 - new residential premises with purchaser payment
 82
 Example 2 - potential residential land with purchaser payment
 84
-Example 3 - potential residential land with no notification and no  purchaser payment
+Example 3 - potential residential land with no notification and no purchaser payment
 86
 Example 4 - instalment contract sale with first payment a deposit
 88
@@ -166,13 +166,13 @@ a supply of 'commercial residential premises'.
 18. This Ruling does not deal with the definition of these terms as they are covered by other Rulings:
 •
 'new residential premises' - Goods and Services Tax Ruling GSTR 2003/3
-Goods and services tax:  when is a sale of real property a sale of new residential premises?
+Goods and services tax: when is a sale of real property a sale of new residential premises?
 •
 'residential premises' - Goods and Services Tax Ruling GSTR 2012/5
-Goods and services tax:  residential premises
+Goods and services tax: residential premises
 •
 'commercial residential premises' - Goods and Services Tax Ruling GSTR 2012/6
-Goods and services tax:  commercial residential premises.
+Goods and services tax: commercial residential premises.
 Purchaser liability for taxable supplies of potential residential land
 19. A purchaser may have a GST withholding obligation under section 14-250 if each of the following requirements are satisfied:
 •
@@ -206,7 +206,7 @@ Meaning of property subdivision plan
 [8]
 (a) for the division of real property, and
 (b) that is registered (however described) under an Australian law.
-Note:  Examples are strata title plans and plans to subdivide land.
+Note: Examples are strata title plans and plans to subdivide land.
 33. State and Territory laws provide for registration of plans relating to subdivision of land.
 [9]
 These plans may be referred to as a survey plan or plan of survey, which in some jurisdictions is referred to as a deposited plan once registered. Plans like strata plans and community plans may also be registered. Broadly, a new plan is required if the division or physical description of a parcel of land is changed, for example, because of subdivision.
@@ -275,7 +275,7 @@ the contract between the parties 'specifies an amount', that is, it expresses a 
 that amount is the 'price' for the supply disregarding 'normal adjustments that apply on completion of transactions of that kind', regardless of whether those adjustments occur.
 47. The contract does not specify an amount if it identifies non-monetary consideration without stating an amount for the GST-inclusive market value of that non-monetary consideration.
 48. If the amount (the price) stated in the contract when it was entered into is varied by a later written agreement between the parties, the contract will specify a new amount. This new amount becomes the 'contract price'. A vendor may need to give a new notice in these circumstances (see paragraph 67 of this Ruling).
-49.  'Price' has the meaning given by section 9-75 of the GST Act. Price is a GST-inclusive amount. If a contract specifies a GST-exclusive amount, but it is clear from the contract that GST is to be added, it is accepted that the contract 'specifies an amount that is the price', which is the GST-inclusive amount.
+49. 'Price' has the meaning given by section 9-75 of the GST Act. Price is a GST-inclusive amount. If a contract specifies a GST-exclusive amount, but it is clear from the contract that GST is to be added, it is accepted that the contract 'specifies an amount that is the price', which is the GST-inclusive amount.
 50. The phrase 'normal adjustments that apply on completion of transactions of that kind' refers to the kinds of adjustments that usually apply to sales of real property at settlement. These include rates, taxes and water adjustments calculated to the date of settlement.
 [20]
 These normal adjustments include those provided for under the standard form contracts for the sale of land prepared by the law societies or institutes and real estate institutes in Australia.
@@ -358,7 +358,7 @@ Penalties for purchasers who fail to pay the GST withholding amount
 72. A purchaser may have an administrative penalty imposed for failing to pay the GST withholding amount.
 [33]
 The penalty is equal to the amount that the purchaser was required to pay under section 14-250. There are two specific circumstances where the penalty will not apply.
-Exception 1:  reasonable reliance on a notice given to them by the vendor
+Exception 1: reasonable reliance on a notice given to them by the vendor
 73. The penalty for failure to pay the GST withholding amount does not apply if:
 •
 the purchaser received a taxable supply of new residential premises (other than commercial residential premises)
@@ -374,7 +374,7 @@ at the time the purchaser first provides consideration for the supply, there was
 [35]
 74. The vendor is required to indicate in the notice whether the purchaser will be required to make a payment under section 14-250 in relation to the supply. As part of giving this notice, the vendor might also state that the premises are not new residential premises. In this situation, a purchaser may consider the indication or statement in light of the contract and circumstances relating to the supply.
 75. It would be unreasonable for a purchaser to believe the correctness of a notice indicating they do not have to make a payment if it is clear that the vendor is making a taxable supply of new residential premises. For example, if a purchaser enters into an 'off-the-plan' contract for newly constructed premises from a developer who is registered for GST, and there is a statement in the contract that the purchaser does not have to make a payment under section 14-250 because the premises are not new residential premises.
-Exception 2:  vendor fails to pass on a bank cheque payable to the Commissioner
+Exception 2: vendor fails to pass on a bank cheque payable to the Commissioner
 76. The penalty for failure to pay the GST withholding amount does not apply if the purchaser gives the vendor a bank cheque payable to the Commissioner for the amount the purchaser is required to pay, on or before the day consideration is first provided.
 [36]
 This ensures that a purchaser is protected from penalty if the vendor fails to send the bank cheque to the ATO. A purchaser should keep evidence that they provided the bank cheque to the vendor. Suitable evidence includes a photocopy of the cheque and other evidence from the purchaser's bank that the cheque has been drawn, the purchaser's direction to pay the bank cheque to the ATO, a settlement statement, directions from the vendor and correspondence from the vendor showing receipt of the bank cheque. Evidence that merely shows what was intended by the parties before settlement, and does not show that the purchaser actually gave the bank cheque to the vendor, would not be sufficient.
@@ -386,7 +386,7 @@ Amounts incorrectly paid to the ATO by the purchaser
 79. Generally, if a purchaser incorrectly pays an amount to the ATO in purported compliance with section 14-250, the vendor may apply to the Commissioner for a refund in the approved form.
 [38]
 This must be done no later than 14 days before GST must be paid on the supply. We consider this means that the application must be made 14 days before the vendor's GST return must be given for the tax period to which the relevant supply is attributable, which is when assessed net amounts, calculated taking into account GST on supplies, are payable under Division 33 of the GST Act. If a refund is made, no credit is available under section 18-60 to the vendor.
-80.  The Commissioner is only required to refund an amount to a vendor if satisfied that it would be fair and reasonable to do so. The Commissioner is unlikely to be satisfied that it is fair and reasonable to refund an amount to the vendor if a purchaser incorrectly made a payment in respect of a non-taxable supply where the amount paid to the vendor under the contract was GST-exclusive (the contract included a GST gross-up clause) and the purchaser has paid an amount additional to the contract price to the Commissioner in purported compliance with section 14-250. The vendor will not be entitled to a credit but the purchaser may be entitled to a refund. The Commissioner will consider repayment requests by purchasers on a case-by-case basis.
+80. The Commissioner is only required to refund an amount to a vendor if satisfied that it would be fair and reasonable to do so. The Commissioner is unlikely to be satisfied that it is fair and reasonable to refund an amount to the vendor if a purchaser incorrectly made a payment in respect of a non-taxable supply where the amount paid to the vendor under the contract was GST-exclusive (the contract included a GST gross-up clause) and the purchaser has paid an amount additional to the contract price to the Commissioner in purported compliance with section 14-250. The vendor will not be entitled to a credit but the purchaser may be entitled to a refund. The Commissioner will consider repayment requests by purchasers on a case-by-case basis.
 Examples
 81. The Explanatory Memorandum to the Treasury Laws Amendment (2018 Measures No. 1) Bill 2018 contains examples which demonstrate the intended application of the law. The examples that follow address some further aspects of the law.
 Example 1 - new residential premises with purchaser payment
@@ -450,7 +450,7 @@ See paragraph14-250(2)(a).
 Section 75-20 of the GST Act.
 [5]
 For extent of creditable purpose refer to Goods and Services Tax Ruling GSTR 2006/4
-Goods and services tax:  determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose
+Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose
 and Goods and Services Tax Ruling GSTR 2009/4
 Goods and services tax: new residential premises and adjustments for changes in extent of creditable purpose
 at paragraphs 23 to 29.
@@ -488,7 +488,7 @@ Subsection 14-250(4).
 Subsection 14-250(5).
 [12]
 The Commissioner explains the meaning of a genuine deposit for the purposes of Division 99 of the GST Act in Goods and Services Tax Ruling GSTR 2006/2
-Goods and services tax:  deposits held as security for the performance of an obligation
+Goods and services tax: deposits held as security for the performance of an obligation
 .
 [13]
 Paragraph 14-250(6)(b) and subsection 14-250(7).
@@ -506,19 +506,19 @@ Subsection 14-250(11). See paragraph 56 of this Ruling for further information.
 See the table in paragraph 44 of this Ruling.
 [20]
 Note that for GST purposes these types of settlement adjustments are taken into account by the supplier in determining the consideration for the supply (see Goods and Services Tax Determination GSTD 2006/3
-Goods and services tax:  are settlement adjustments taken into account to determine the consideration for the supply or acquisition of real property?
+Goods and services tax: are settlement adjustments taken into account to determine the consideration for the supply or acquisition of real property?
 )
 [21]
 See Goods and Services Tax Ruling GSTR 2011/1
-Goods and services tax:  development, lease and disposal of a retirement village tenanted under a 'loan-lease' arrangement
+Goods and services tax: development, lease and disposal of a retirement village tenanted under a 'loan-lease' arrangement
 .
 [22]
 For guidance on apportioning a supply see Goods and Services Tax Ruling GSTR 2001/8
-Goods and services tax:  apportioning the consideration for a supply that includes taxable and non-taxable parts
+Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts
 .
 [23]
 See Goods and Services Tax Determination GSTD 2014/2
-Goods and services tax:  where real property is acquired following the exercise of a call option, does the call option fee form part of the consideration for the acquisition for the purposes of subsection 75-10(2) of the A New Tax System (Goods and Services Tax) Act 1999?
+Goods and services tax: where real property is acquired following the exercise of a call option, does the call option fee form part of the consideration for the acquisition for the purposes of subsection 75-10(2) of the A New Tax System (Goods and Services Tax) Act 1999?
 [24]
 Subsection 14-250(11).
 [25]
@@ -568,45 +568,45 @@ GSTD 2006/3
 GSTD 2014/2
 Legislative References:
 ANTS(GST)A 1999
-ANTS(GST)A 1999  9-75
-ANTS(GST)A 1999  11-15
-ANTS(GST)A 1999  Div 33
-ANTS(GST)A 1999  40-75
-ANTS(GST)A 1999  Div 72
-ANTS(GST)A 1999  75-10(2)
-ANTS(GST)A 1999  75-20
-ANTS(GST)A 1999  Div 99
-ANTS(GST)A 1999  195-1
+ANTS(GST)A 1999 9-75
+ANTS(GST)A 1999 11-15
+ANTS(GST)A 1999 Div 33
+ANTS(GST)A 1999 40-75
+ANTS(GST)A 1999 Div 72
+ANTS(GST)A 1999 75-10(2)
+ANTS(GST)A 1999 75-20
+ANTS(GST)A 1999 Div 99
+ANTS(GST)A 1999 195-1
 TAA 1953
-TAA 1953  8ZE
-TAA 1953  Sch 1
-TAA 1953  14-250
-TAA 1953  14-250(2)(a)
-TAA 1953  14-250(2)(b)(ii)
-TAA 1953  14-250(4)
-TAA 1953  14-250(5)
-TAA 1953  14-250(6)(a)
-TAA 1953  14-250(6)(b)
-TAA 1953  14-250(7)
-TAA 1953  14-250(8)
-TAA 1953  14-250(9)
-TAA 1953  14-250(11)
-TAA 1953  14-255
-TAA 1953  14-255(1)
-TAA 1953  14-255(1)(b)
-TAA 1953  14-255(2)
-TAA 1953  14-255(3)
-TAA 1953  14-255(4)
-TAA 1953  14-255(6)
-TAA 1953  16-20
-TAA 1953  16-30
-TAA 1953  16-30(2)
-TAA 1953  16-30(3)
-TAA 1953  16-150(2)
-TAA 1953  18-60
-TAA 1953  Subdiv 18-B
-TAA 1953  18-85
-Treasury Laws Amendment (2018 Measures No. 1) Act 2018  Sch 5
+TAA 1953 8ZE
+TAA 1953 Sch 1
+TAA 1953 14-250
+TAA 1953 14-250(2)(a)
+TAA 1953 14-250(2)(b)(ii)
+TAA 1953 14-250(4)
+TAA 1953 14-250(5)
+TAA 1953 14-250(6)(a)
+TAA 1953 14-250(6)(b)
+TAA 1953 14-250(7)
+TAA 1953 14-250(8)
+TAA 1953 14-250(9)
+TAA 1953 14-250(11)
+TAA 1953 14-255
+TAA 1953 14-255(1)
+TAA 1953 14-255(1)(b)
+TAA 1953 14-255(2)
+TAA 1953 14-255(3)
+TAA 1953 14-255(4)
+TAA 1953 14-255(6)
+TAA 1953 16-20
+TAA 1953 16-30
+TAA 1953 16-30(2)
+TAA 1953 16-30(3)
+TAA 1953 16-150(2)
+TAA 1953 18-60
+TAA 1953 Subdiv 18-B
+TAA 1953 18-85
+Treasury Laws Amendment (2018 Measures No. 1) Act 2018 Sch 5
 Land Title Act 1994 (Qld)
 Conveyancing Act 1919 (NSW)
 Land Titles Act 1925 (ACT)

@@ -13,6 +13,6 @@ Governments may grant short-term leases over unimproved land subject to conditio
 
 These exemptions apply only where the land was supplied by the Commonwealth, a state or a territory. This may include government departments and agencies, and certain local governments (GST Ruling GSTR 2006/5). A supply by a government-related body could qualify if the body was wholly owned and controlled by the government and acted solely in the interests of the government (SGH Ltd v FC of T 2002 ATC 4366; [2002] HCA 18; GST Ruling GSTR 2006/5).
 
-Meaning of improved land The ATO considers that “improvements” are not limited to visible structural improvements, and include clearing, draining and any other operation by humans on the land that enhances its value and/or usefulness (GST Ruling GSTR 2006/6 para 37).
+Meaning of improved land The ATO considers that "improvements" are not limited to visible structural improvements, and include clearing, draining and any other operation by humans on the land that enhances its value and/or usefulness (GST Ruling GSTR 2006/6 para 37).
 
 *Refs: s 38-445), s 38-445(1*

@@ -14,11 +14,11 @@ Employee share scheme means—
 
 - (a) an arrangement with a purpose or effect of issuing or transferring shares in a company (company A) to a person—
 
-  - (i) who will be, is, or has been an employee of company A or of another company that is a member of the same group of companies as company A, if the arrangement is connected to the person’s employment or service:
+  - (i) who will be, is, or has been an employee of company A or of another company that is a member of the same group of companies as company A, if the arrangement is connected to the person's employment or service:
 
-  - (ii) who will be, is, or has been a shareholder-employee in relation to company A or in relation to another company that is a member of the same group of companies as company A, if the arrangement is connected to the person’s employment or service:
+  - (ii) who will be, is, or has been a shareholder-employee in relation to company A or in relation to another company that is a member of the same group of companies as company A, if the arrangement is connected to the person's employment or service:
 
-  - (iii) who is an associate of a person described in subparagraph (i) or (ii) (person A), if the arrangement is connected to person A’s employment or service; but
+  - (iii) who is an associate of a person described in subparagraph (i) or (ii) (person A), if the arrangement is connected to person A's employment or service; but
 
 - (b) does not include an arrangement that—
 

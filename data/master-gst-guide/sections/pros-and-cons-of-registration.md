@@ -27,7 +27,7 @@ Most businesses do not have any choice about whether to register, as they are ca
 
 - Small businesses such as contractors may decide to register to avoid the embarrassment of
 
-  “advertising” that their turnover is below the threshold.
+  "advertising" that their turnover is below the threshold.
 
 Although business customers normally will pay GST-inclusive prices, they will typically be able to recover that GST component by claiming input tax credits. The imposition of GST may therefore not have a significant net effect, except to the extent that there may be some cashflow disadvantage for the customer.
 

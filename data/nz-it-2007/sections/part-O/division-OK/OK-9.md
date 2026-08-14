@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when it is established that a Maori authority credit in a Maori authority’s credit account was incorrectly determined to be the subject of an arrangement to obtain a tax advantage.
+**(1)**  This section applies when it is established that a Maori authority credit in a Maori authority's credit account was incorrectly determined to be the subject of an arrangement to obtain a tax advantage.
 
 **Credit**
 

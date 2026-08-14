@@ -3,21 +3,16 @@ ATO ID 2003/55
 ==================================================
 
 Goods and Services Tax
-        GST and international inbound money transfer service
-        FOI status: may be released
-
+ GST and international inbound money transfer service
+ FOI status: may be released
 
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a non-resident overseas company, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies an inbound money transfer service (from overseas to Australia) to a customer overseas?
@@ -26,8 +21,6 @@ No, the entity is not making a taxable supply under section 9-5 of the GST Act, 
 Facts
 The entity is a non-resident overseas company. The entity provides an international money transfer service to customers located worldwide, via its agents that are located in various countries (including Australia).
 In this case, the entity is supplying an inbound money transfer service (from overseas to Australia) to an overseas customer. This supply involves these steps:
-
-
 
 •The overseas customer initiates a money transfer by contacting the entity's agent in that customer's country to transfer money to the customer's nominee in Australia.
 •The overseas customer provides the entity's overseas agent with a money transfer form together with an amount of the money which is to be transferred to the entity's agent in Australia. The entity recognises a liability in its financial accounts when the money is provided to its overseas agent.
@@ -40,13 +33,9 @@ Section 9-25 of the GST Act defines when a supply is 'connected with Australia'.
 The entity is not making a supply of goods or real property. The entity is supplying an inbound money transfer service to a customer overseas. In making this supply, the entity is providing the customer with a presently existing obligation to pay an ascertainable amount at a future time. Therefore, the supply that the entity makes is a supply of something other than goods or real property and, as such, subsection 9-25(5) of the GST Act is the appropriate provision to determine whether the supply is connected with Australia.
 Subsection 9-25(5) of the GST Act provides that a supply of anything other than goods or real property is connected with Australia if either:
 
-
-
 (a)the thing is done in Australia; or
 (b)the supplier makes the supply through an enterprise that the supplier carries on in Australia; or
 (c)all of the following apply:
-
-
 
 (i)neither paragraph (a) nor (b) applies in respect of the thing;
 (ii)the thing is a right or option to acquire another thing;
@@ -61,7 +50,7 @@ As the supply in this case is is made through the non-resident agent and not thr
 Paragraph 9-25(5)(c) of the GST Act may apply where neither paragraph 9-25(5)(a) nor paragraph 9-25(5)(b) of the GST Act apply. For paragraph 9-25(5)(c) to apply, the thing supplied must be a right or option to acquire another thing, where the supply of the other thing would be connected with Australia. In this case, the thing supplied was not a right or option, it was the entry into a presently existing obligation (to an overseas customer) to pay an ascertainable amount at a future time. The subsequent payment of this amount to the customer's nominee in Australia simply discharges the obligation to the customer. As such, the supply is not connected with Australia under paragraph 9-25(5)(c).
 As the supply is not connected with Australia, the requirements of paragraph 9-5(c) of the GST Act are not satisfied. Accordingly, the entity is not making a taxable supply under section 9-5 of the GST Act when it supplies an inbound money transfer service to a customer overseas. The supply of the inbound money transfer service is outside the scope of the Australian GST system.
 Date of decision:
-         3 July 2002
+  3 July 2002
 
 Legislative References:
 
@@ -74,17 +63,16 @@ GSTR 2000/31
 Keywords
 
 Goods and services tax
-          Connected with Australia
-
+ Connected with Australia
 
 Siebel/TDMS Reference Number:
-         265796-A
+  265796-A
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

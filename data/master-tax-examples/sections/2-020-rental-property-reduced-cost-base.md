@@ -37,6 +37,6 @@ Practice Statement PS LA 2006/1 (GA) also outlines when a taxpayer does not have
 
 In this case, Ryan would not have been able to obtain the relevant information from Anna as she had used it as a private residence. Even if the information was available, this difficulty is further compounded by the fact that Anna left for overseas shortly after she disposed of the property.
 
-In addition, the fact that Ryan did not obtain a valuation from a quantity surveyor does not prevent him from relying on the Commissioner’s administrative practice. Practice Statement PS LA 2006/1 (GA) acknowledges that the cost of obtaining such an estimate can impose a significant burden on taxpayers, so there is no need to do so if sufficient information is not capable of being obtained and deductions for capital works have not previously been claimed by the taxpayer.
+In addition, the fact that Ryan did not obtain a valuation from a quantity surveyor does not prevent him from relying on the Commissioner's administrative practice. Practice Statement PS LA 2006/1 (GA) acknowledges that the cost of obtaining such an estimate can impose a significant burden on taxpayers, so there is no need to do so if sufficient information is not capable of being obtained and deductions for capital works have not previously been claimed by the taxpayer.
 
 *Refs: s 110-45(2), s 110-45(1*

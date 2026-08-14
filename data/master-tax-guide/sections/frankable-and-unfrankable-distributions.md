@@ -7,7 +7,7 @@ paragraph: "¶4-620"
 ---
 # Frankable and unfrankable distributions ¶4-620
 
-A distribution (including a non-share dividend) is a “frankable distribution” to the extent that it is not unfrankable (ITAA97 s 202-40).
+A distribution (including a non-share dividend) is a "frankable distribution" to the extent that it is not unfrankable (ITAA97 s 202-40).
 
 *Refs: ITAA97 s 202-40)*
 
@@ -25,19 +25,19 @@ A distribution (including a non-share dividend) is a “frankable distribution�
 
 Only the portion of the distribution that is funded by the capital raising is unfrankable. Where an equity issue is in response to a regulatory requirement, directive or recommendation (eg by the Australian Prudential Regulation Authority), the distribution is not unfrankable merely because of the capital raising provisions. The capital raising franking rules apply to a relevant distribution that is made on or after 27 November 2023
 
-- a distribution that is sourced, directly or indirectly, from a company’s share capital account
+- a distribution that is sourced, directly or indirectly, from a company's share capital account
 
-(ITAA97 s 202-45(e)). However, an exception may apply where a ﬁnancial group adopts a non- operating holding company structure, an authorised deposit-taking institution (ADI) becomes a subsidiary of the holding company and a restructure instrument is in force under the Financial Sector (Transfer and Restructure) Act 1999. Section 202-45(e) will not cause a distribution by the holding company to be unfrankable where the distribution is sourced from proﬁts of the ADI that would have been frankable if they had been distributed by the ADI before the restructure (ITAA97 s 202-47). Nor will s 202-45(e) cause a dividend to be unfrankable where the dividend does not breach the Corporations Act 2001 (including s 254T (¶4-105)) and is paid out of proﬁts recognised in its accounts and available for distribution (the mere fact that the company has unrecouped prior year accounting losses or has lost part of its share capital will not be relevant), or is paid out of an unrealised capital proﬁt of a permanent character recognised in its accounts and available for distribution (provided the company’s net assets exceed its share capital by at least the amount of the dividend and the dividend is paid in accordance with the company’s constitution and without breaching the Corporations Act) (TR 2012/5)
+(ITAA97 s 202-45(e)). However, an exception may apply where a ﬁnancial group adopts a non- operating holding company structure, an authorised deposit-taking institution (ADI) becomes a subsidiary of the holding company and a restructure instrument is in force under the Financial Sector (Transfer and Restructure) Act 1999. Section 202-45(e) will not cause a distribution by the holding company to be unfrankable where the distribution is sourced from proﬁts of the ADI that would have been frankable if they had been distributed by the ADI before the restructure (ITAA97 s 202-47). Nor will s 202-45(e) cause a dividend to be unfrankable where the dividend does not breach the Corporations Act 2001 (including s 254T (¶4-105)) and is paid out of proﬁts recognised in its accounts and available for distribution (the mere fact that the company has unrecouped prior year accounting losses or has lost part of its share capital will not be relevant), or is paid out of an unrealised capital proﬁt of a permanent character recognised in its accounts and available for distribution (provided the company's net assets exceed its share capital by at least the amount of the dividend and the dividend is paid in accordance with the company's constitution and without breaching the Corporations Act) (TR 2012/5)
 
 - non-share dividends paid by an Australian ADI (ITAA97 s 215-10) and non-share dividends that
 
-  exceed available frankable proﬁts (ITAA97 s 215-15). A company’s available frankable proﬁts are
+  exceed available frankable proﬁts (ITAA97 s 215-15). A company's available frankable proﬁts are
 
   worked out under ss 215-20 to 215-25
 
 - distributions that are deemed to be dividends under any of the following provisions:
 
-– ITAA36 Pt III Div 7A (private company distributions: ¶4-200), unless ITAA36 s 109RB(6) (Commissioner’s discretion to allow franking) or s 109RC(2) (dividend taken to be paid because of a family law obligation) applies – ITAA36 s 47A (distribution beneﬁts — CFCs: ¶21-250) – ITAA36 s 109 (excessive remuneration: ¶4-220)
+– ITAA36 Pt III Div 7A (private company distributions: ¶4-200), unless ITAA36 s 109RB(6) (Commissioner's discretion to allow franking) or s 109RC(2) (dividend taken to be paid because of a family law obligation) applies – ITAA36 s 47A (distribution beneﬁts — CFCs: ¶21-250) – ITAA36 s 109 (excessive remuneration: ¶4-220)
 
 - an amount that is taken to be an unfranked dividend under ITAA36 ss 45 and 45C (dividend
 
@@ -55,7 +55,7 @@ Only the portion of the distribution that is funded by the capital raising is un
 
   applies to distributions made as part of a selective reduction of capital announced or undertaken on
 
-  or after 18 November 2022. It was explained that the reference to a “selective reduction of capital”
+  or after 18 November 2022. It was explained that the reference to a "selective reduction of capital"
 
   is intended to be broad and to take its ordinary meaning, so as to include reductions of capital
 

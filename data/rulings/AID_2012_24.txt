@@ -3,18 +3,14 @@ ATO ID 2012/24
 ==================================================
 
 Income Tax
-        Holding period rule
-        FOI status: may be released
-
-
+ Holding period rule
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In determining whether a Fund has a materially diminished risk of loss or opportunity for gain in respect of a particular share, can the Fund deconstruct the SPI 200 Futures contracts in order to determine its net position in respect of the particular share?
@@ -49,10 +45,10 @@ The Fund has formulated a methodology for establishing whether the fund has mate
 Essentially, the SPI futures contract is deconstructed into its open (short) component stock positions. The net position of a particular stock is then determined by offsetting the decomposed component of the SPI futures contract relating to the stock against the +1 delta of the particular share. If the net position is greater than 30%, it is concluded that all of those particular shares are held sufficiently 'at risk' during the qualification period.
 Because the net long/short position calculated in accordance with the methodology is greater than 30%, it can be concluded that during the qualification period, the Fund has not materially diminished its risk of loss or opportunities for gain in respect to its holdings of ABC shares. Consequently, the Fund will be eligible for a tax offset in respect of the franking credits attached to the dividends on the ABC shares.
 Date of decision:
-         2 April 2012
+  2 April 2012
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -62,15 +58,14 @@ Keywords
 
 Holding period rule
 
-
 Siebel/TDMS Reference Number:
-         1-21ISRL6
+  1-21ISRL6
 
 Business Line:
-         Finance & Investment Centre of Expertise
+  Finance & Investment Centre of Expertise
 
 Date of publication:
-         5 April 2012
+  5 April 2012
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

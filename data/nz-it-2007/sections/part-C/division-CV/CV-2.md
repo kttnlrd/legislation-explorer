@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section FM 9 (Amounts that are company’s income) to an amount derived by a company that is part of a consolidated group, when the amount would be income of the group if the group were 1 company.
+**(1)**  This section applies for the purposes of section FM 9 (Amounts that are company's income) to an amount derived by a company that is part of a consolidated group, when the amount would be income of the group if the group were 1 company.
 
 **Income**
 

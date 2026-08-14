@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 - (a) the amount of the tax credit paid for the person and held by the provider:
 
-- (b) the amount of member’s accumulation, as defined in the KiwiSaver Act 2006 for the person for a KiwiSaver scheme:
+- (b) the amount of member's accumulation, as defined in the KiwiSaver Act 2006 for the person for a KiwiSaver scheme:
 
-- (c) the amount of employee’s superannuation accumulation for the person for a complying superannuation fund.
+- (c) the amount of employee's superannuation accumulation for the person for a complying superannuation fund.
 
 **Recovery**
 
 **(3)**  If the fund provider does not pay the amount under subsection (2) as soon as practicable, they are treated as having an amount of tax credit paid in excess of that properly payable.
 
-*Defined in this Act: amount, ask, Commissioner, complying superannuation fund, employee’s superannuation accumulation, fund provider, KiwiSaver scheme, New Zealand, pay, tax credit*
+*Defined in this Act: amount, ask, Commissioner, complying superannuation fund, employee's superannuation accumulation, fund provider, KiwiSaver scheme, New Zealand, pay, tax credit*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

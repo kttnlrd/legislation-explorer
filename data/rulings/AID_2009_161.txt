@@ -3,18 +3,14 @@ ATO ID 2009/161
 ==================================================
 
 Income Tax
-        Consolidation: treatment of transactions of an offshore branch of a subsidiary member of a consolidated group with other members of the group under the single entity rule
-        FOI status: may be released
-
-
+ Consolidation: treatment of transactions of an offshore branch of a subsidiary member of a consolidated group with other members of the group under the single entity rule
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the offshore branch of a subsidiary member of a consolidated group treated as if it were a branch of the head company of that group for the purposes of determining the income tax liability (or loss) of that head company.
@@ -30,8 +26,6 @@ The SER in section 701-1 of the ITAA 1997 provides that, for head company core p
 Taxation Ruling TR 2004/11 at paragraph 8 provides that::
 As a consequence, the SER has the effect that:
 
-
-
 (a)the actions and transactions of a subsidiary member are treated as having been undertaken by the head company;
 (b)the assets a subsidiary member of the group owns are taken to be owned by the head company (with the exception of intra-group assets) while the subsidiary remains a member of the consolidated group;
 (c)assets where the rights and obligations are between members of a consolidated group (intra-group assets) are not recognised for income tax purposes during the period they are held within the group whether or not the asset, as a matter of law, was created before or during the period of consolidation...; and
@@ -44,7 +38,7 @@ In summary, the SER ensures that the income tax laws will apply to a consolidate
 Therefore, for the purposes of determining Head Co's income tax liability (or loss), the offshore branch of Sub Co is treated as if it were an offshore branch of Head Co.
 Accordingly, the determination of the income and expenses of Head Co that are attributable to the branch operations for the purpose of determining Head Co's income tax liability (or loss) will involve determining the income derived and costs incurred by Head Co, which will include relevant income derived and costs incurred by Sub Co, in the course of the branch's operations.
 Date of decision:
-         16 December 2009
+  16 December 2009
 
 Legislative References:
 
@@ -57,20 +51,19 @@ Taxation Ruling TR 2004/11
 Keywords
 
 Consolidation
-          Single entity rule
-          Head company
-          Permanent establishment
-          Foreign branches & subsidiaries of Australian companies
-
+ Single entity rule
+ Head company
+ Permanent establishment
+ Foreign branches & subsidiaries of Australian companies
 
 Siebel/TDMS Reference Number:
-         1-1U4LDI6.
+  1-1U4LDI6.
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         18 December 2009
+  18 December 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

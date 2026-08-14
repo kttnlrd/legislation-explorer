@@ -13,9 +13,9 @@ If the entity gets an assessable refund of an amount it has paid, the GST compon
 
 Example Happy Co buys business items costing $550, including $50 GST. It is registered, and can claim the $50 as an input tax credit. This $50 is not tax-deductible. Happy can only claim a tax deduction for $500.
 
-Under a clause in the purchase contract, Happy later has to pay an additional $110 for the equipment, including $10 GST. It can claim the additional $10 as an input tax credit. This $10 is not tax-deductible. Happy’s total deduction from the transaction is therefore $500 + $100 = $600.
+Under a clause in the purchase contract, Happy later has to pay an additional $110 for the equipment, including $10 GST. It can claim the additional $10 as an input tax credit. This $10 is not tax-deductible. Happy's total deduction from the transaction is therefore $500 + $100 = $600.
 
-Assume that instead of an additional payment, Happy gets a refund of $330 of the purchase price, including $30 GST. It must therefore pay $30 GST to the ATO to offset against the $50 input tax credit it claimed earlier. This $30 is not assessable. Happy’s total deduction from the transaction is therefore $500 − $300 = $200. This is equal to its net cost, ignoring GST.
+Assume that instead of an additional payment, Happy gets a refund of $330 of the purchase price, including $30 GST. It must therefore pay $30 GST to the ATO to offset against the $50 input tax credit it claimed earlier. This $30 is not assessable. Happy's total deduction from the transaction is therefore $500 − $300 = $200. This is equal to its net cost, ignoring GST.
 
 However, a tax deduction can be claimed to the extent that an input tax credit cannot be claimed. This can happen, for example, if:
 

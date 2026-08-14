@@ -3,18 +3,14 @@ ATO ID 2004/667
 ==================================================
 
 Excise
-        Excise: accounting for excisable goods when a continuing permission is in place
-        FOI status: may be released
-
-
+ Excise: accounting for excisable goods when a continuing permission is in place
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Has a licensed manufacturer accounted for excisable goods to the satisfaction of a Collector for the purposes of section 60 of the Excise Act 1901 (Excise Act), where they hold a continuing permission to move excisable goods to another premise, but in moving them, deal with them as if they were not excisable?
@@ -27,8 +23,6 @@ The entity holds a continuing permission granted under subsection 61A(1) of the 
 
 ... the permission holder shall provide a company document to the proprietor of the place of removal and to the proprietor of the specified destination place, along with the goods. This 'movement' document should form part of a consecutively numbered system of documents and must outline:
 
-
-
 •the place from where the goods were dispatched and where they are destined
 •date of dispatch
 •the number and type of packages
@@ -39,11 +33,7 @@ The entity holds a continuing permission granted under subsection 61A(1) of the 
 Reasons for Decision
 Subsection 60 (1) of the Excise Act states:
 
-
-
 (1) Where a person (including a licensed manufacturer) who has, or has been entrusted with, the possession, custody or control of excisable goods which are subject to the CEO's control:
-
-
 
 (a) fails to keep those goods safely; or
 (b) when so requested by a Collector, does not account for those goods to the satisfaction of a Collector
@@ -63,8 +53,6 @@ A Collector may give permission in writing to a person specified in the permissi
 
 Subsection 61A(3) of the Excise Act states:
 
-
-
 (3) Permission under subsection (1) or (2) may be given subject to the condition that the person to whom the permission is given complies with such requirements as are specified in the permission, being requirements that, in the opinion of the Collector, are necessary for the protection of the revenue or for the purpose of ensuring compliance with the Excise Acts.
 
 Note that subsection 61A(3) conditions the permission. Permission is only given if the person complies with the requirements specified in the permission.
@@ -72,14 +60,13 @@ One of the conditions specified in the continuing permission was that the holder
 By failing to identify the goods on the movement documentation as excisable goods being moved underbond, the manufacturer did not meet the conditions attached to the permission and therefore moved the goods without permission. Further, by failing to identify the goods as excisable goods when moving them, and in fact identifying them as goods subject to WET and therefore not subject to excise duty, the manufacturer allowed the goods to leave the CEO's control (and thereby enter home consumption) without proper authorisation and without payment of the requisite duty.
 It follows that the entity has not accounted for excisable goods to the satisfaction of a Collector for the purposes of section 60 of the Excise Act where they hold a continuing permission to move excisable goods to another premise, but in moving them, deal with them as if they were not excisable.
 Date of decision:
-         22 July 2004
+  22 July 2004
 
 Legislative References:
 
 Excise Act 1901   section 60   section 61A   subsection 61A(1)   subsection 61A(3)
 
 Case References:
-
 
 Sidebottom v. Giuliano   (2000) 98 FCR 579
 
@@ -88,21 +75,20 @@ Collector of Customs (NSW) v. Southern Shipping Co Ltd   (1962) 107 CLR 279
 Keywords
 
 Continuing permission
-          Excisable goods
-          Excisable goods manufacturer
-          Excise
-          Excise collections
-          Wine equalisation tax
-
+ Excisable goods
+ Excisable goods manufacturer
+ Excise
+ Excise collections
+ Wine equalisation tax
 
 Siebel/TDMS Reference Number:
-         4050634
+  4050634
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         13 August 2004
+  13 August 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

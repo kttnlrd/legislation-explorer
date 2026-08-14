@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when property is transferred on a person’s death to the surviving spouse, civil union partner, or de facto partner of the deceased person. However, this section does not apply if—
+**(1)**  This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when property is transferred on a person's death to the surviving spouse, civil union partner, or de facto partner of the deceased person. However, this section does not apply if—
 
 - (a) the property is tax-base property; and
 

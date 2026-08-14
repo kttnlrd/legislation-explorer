@@ -3,18 +3,14 @@ ATO ID 2009/152
 ==================================================
 
 Income Tax
-        Benchmark rate of return: Mandatorily Redeemable Preference Share (MRPS)
-        FOI status: may be released
-
-
+ Benchmark rate of return: Mandatorily Redeemable Preference Share (MRPS)
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 When determining the benchmark rate of return for a test interest under subsection 974-145(2) of the Income Tax Assessment Act 1997 (ITAA 1997), can that benchmark rate be adjusted to take into account differences between the test interest and the benchmark interest other than those relating to the characteristics listed in paragraphs 974-145(1)(a) to 974-145(1)(f) of the ITAA 1997?
@@ -37,17 +33,17 @@ There is however no reason to make adjustments for other, new differences (such 
 It is thus considered that the structure of section 974-145 of the ITAA 1997 and a logical reading of that provision clarifies that the "differences" referred to in subsection 974-145(2) of the ITAA 1997 are limited to those relating to the factors listed in subsection 974-145(1) of the ITAA 1997.
 Support for this interpretation can be found in the operation and clear policy intent of the statutory provisions employing the concept of the benchmark rate of return. For example, section 25-85 of the ITAA 1997 uses the concept to limit deductions for dividends or other contingent returns on interests that satisfy the debt test.
 Paragraphs 2.138 and 2.139 of the Explanatory Memorandum to the New Business Tax System (Debt and Equity) Act 2001 describe the provision as a revenue safeguard that limits deductible payments on debt/equity hybrids where returns are "considerably in excess of the interest payable on an
-          equivalent interest without any equity component
-           (i.e. straight debt)". Accordingly, deductions are capped by reference to a benchmark rate of return "
-          on an equivalent straight debt interest
-          , increased by a margin [150 basis points] to recognise the premium paid for the increased risk of non-payment because of the contingency" [emphasis added].
+ equivalent interest without any equity component
+ (i.e. straight debt)". Accordingly, deductions are capped by reference to a benchmark rate of return "
+ on an equivalent straight debt interest
+ , increased by a margin [150 basis points] to recognise the premium paid for the increased risk of non-payment because of the contingency" [emphasis added].
 It would defeat the clear policy intent of this provision to allow a benchmark interest to have an equity component. This would be the outcome if a broad interpretation of "differences" in subsection 974-145(2) of the ITAA 1997 allowed adjustments to the benchmark rate of return to reflect the equity characteristics of the test interest. Furthermore, such an interpretation would undermine the intentionally limited accommodation of the equity component of the test interest through the 150 basis point margin.
 Accordingly, in determining the benchmark rate of return for the MPRS, the annually compounded internal rate of return on an interest that is closest to the MPRS, cannot be adjusted to take into account differences between that interest and the MPRS apart from differences based on factors listed in subsection 974-145(1) of the ITAA 1997. This includes not allowing an adjustment to take into account the discretionary nature of any dividend entitlement on the MPRS.
 Date of decision:
-         24 September 2009
+  24 September 2009
 
 Year of income:
-           Year ending 31 December 2010
+  Year ending 31 December 2010
 
 Legislative References:
 
@@ -56,17 +52,16 @@ Income Tax Assessment Act 1997   section 8-1   section 25-85   section 
 Keywords
 
 Debt equity borderline
-          Non-equity share
-
+ Non-equity share
 
 Siebel/TDMS Reference Number:
-         6298264
+  6298264
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         11 December 2009
+  11 December 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -1,0 +1,17 @@
+---
+country: "Turkey"
+country_slug: "turkey"
+treaty_schedule: 51
+article: 23
+title: "Article 23 — Mutual Agreement Procedure"
+---
+# Article 23 — Mutual Agreement Procedure
+Turkish Convention
+CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
+Methods of Elimination of Double Taxation
+1.
+Subject to the provisions of the law of Australia from time to time in force which relate to the allowance of a credit against Australian tax of tax paid in a country outside Australia (which shall not affect the general principle of this Article), Turkish tax paid under the law of Turkey and in accordance with this Convention, whether directly or by deduction, in respect of income derived by a person who is a resident of Australia from sources in Turkey shall be allowed as a credit against Australian tax payable in respect of that income.
+2.
+Subject to the provisions of the law of Turkey from time to time in force which relate to the allowance of a credit against Turkish tax paid in a country outside Turkey (which shall not affect the general principle of this Article), Australian tax paid under the law of Australia and in accordance with this Convention in respect of income derived by a resident of Turkey from sources within Australia shall be allowed as a deduction from the Turkish tax on such income. Such deduction shall not, however, exceed that part of the Turkish tax, as computed before the deduction is given, which is attributable to the income which may be taxed in Australia.
+3.
+Where in accordance with any provision of the Convention income derived by a resident of a Contracting State is exempt from tax in that State, such State may nevertheless, in calculating the amount of tax on the remaining income of such resident, take into account the exempted income.

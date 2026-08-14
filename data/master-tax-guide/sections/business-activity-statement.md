@@ -9,7 +9,7 @@ paragraph: "¶24-200"
 
 Taxpayers who are registered for GST must report their periodic tax obligations and entitlements to the ATO on a single tax compliance form: the Business Activity Statement (BAS). The Instalment Activity Statement (IAS) is for taxpayers who are not registered for GST (¶24-220). Taxpayers still need to lodge separate income tax returns or FBT returns (where applicable) for their business.
 
-The Commissioner will normally send a BAS to taxpayers who are registered for GST before they need to lodge it. Debts and any credit entitlements notiﬁed on the BAS will then be recorded on the taxpayer’s running balance account (RBA) (¶24-300). Taxpayers will receive only one BAS for each reporting period even if they have both a monthly and a quarterly reporting obligation.
+The Commissioner will normally send a BAS to taxpayers who are registered for GST before they need to lodge it. Debts and any credit entitlements notiﬁed on the BAS will then be recorded on the taxpayer's running balance account (RBA) (¶24-300). Taxpayers will receive only one BAS for each reporting period even if they have both a monthly and a quarterly reporting obligation.
 
 Example A business is required to lodge a quarterly BAS to report GST and PAYG instalments. However, as it is classiﬁed as a medium PAYG withholder (¶26-500), it is required to lodge a monthly BAS to report PAYG amounts withheld.
 
@@ -21,9 +21,9 @@ Example A business is required to lodge a quarterly BAS to report GST and PAYG i
 
   Likewise for the remainder of the year.
 
-Instructions for completing a BAS are available on the ATO’s website (www.ato.gov.au).
+Instructions for completing a BAS are available on the ATO's website (www.ato.gov.au).
 
-Certain people other than registered tax agents may provide a “BAS service” on behalf of a taxpayer, eg preparing a BAS or giving advice in relation to a BAS provision (¶32-000).
+Certain people other than registered tax agents may provide a "BAS service" on behalf of a taxpayer, eg preparing a BAS or giving advice in relation to a BAS provision (¶32-000).
 
 Obligations to be reported
 

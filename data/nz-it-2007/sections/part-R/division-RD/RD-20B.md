@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) a personal service rehabilitation payment, except to the extent to which the payment is a reimbursement payment to which section CW 35 (Personal service rehabilitation payments) applies; or
 
-- (c) a lump sum support payment made under the Veterans’ Support Act 2014, except to the extent to which the payment is—
+- (c) a lump sum support payment made under the Veterans' Support Act 2014, except to the extent to which the payment is—
 
   - (i) a pension referred to in section CW 28 (Pensions):
 
@@ -34,21 +34,21 @@ compilation_date: 2026-06-06
 
 - (a) 10.5%, if the rate given by the formula in subsection (4) (the average basic tax rate) is less than 10.5% and paragraph (c) does not apply; or
 
-- (b) the person’s average basic tax rate, if neither of paragraphs (a) and (c) apply; or
+- (b) the person's average basic tax rate, if neither of paragraphs (a) and (c) apply; or
 
-- (c) the person’s basic tax rate for the income year in which the person derives the multi-year support payment, if that basic tax rate is less than the average basic tax rate.
+- (c) the person's basic tax rate for the income year in which the person derives the multi-year support payment, if that basic tax rate is less than the average basic tax rate.
 
 **Formula for average basic tax rate**
 
-**(4)**  The person’s average basic tax rate for this section is calculated over the period of the 4 income years (the rate averaging period) ending before the income year in which the person derives the multi-year support payment using the formula— total basic rates ÷ number of income years.
+**(4)**  The person's average basic tax rate for this section is calculated over the period of the 4 income years (the rate averaging period) ending before the income year in which the person derives the multi-year support payment using the formula— total basic rates ÷ number of income years.
 
 **Definition of items in formula**
 
 **(5)**  In the formula in subsection (4),—
 
-- (a) total basic rates is the sum of the person’s basic tax rate calculated under schedule 1, part A, clause 1 for each of the income years in the rate averaging period for which that rate is known by the Commissioner:
+- (a) total basic rates is the sum of the person's basic tax rate calculated under schedule 1, part A, clause 1 for each of the income years in the rate averaging period for which that rate is known by the Commissioner:
 
-- (b) number of income years is the number of income years within the rate averaging period for which the person’s basic tax rate is known by the Commissioner and included in the total basic rates.
+- (b) number of income years is the number of income years within the rate averaging period for which the person's basic tax rate is known by the Commissioner and included in the total basic rates.
 
 **Withholding from payment**
 
@@ -58,9 +58,9 @@ compilation_date: 2026-06-06
 
 **(7)**  The rate referred to in subsection (6) is,—
 
-- (a) if the person’s average basic tax rate is less than 10.5%, 10.5%; or
+- (a) if the person's average basic tax rate is less than 10.5%, 10.5%; or
 
-- (b) in any other case, the person’s average basic tax rate.
+- (b) in any other case, the person's average basic tax rate.
 
 *Defined in this Act: accident compensation earnings-related payment, amount, amount of tax, basic tax rate, Commissioner, income year, pay, personal service rehabilitation payment, reimbursement payment*
 

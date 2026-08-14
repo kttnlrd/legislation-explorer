@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  This section applies to revenue account property that is not—
 
-- (a) trading stock valued under subpart EB (Valuation of trading stock (including dealer’s livestock)):
+- (a) trading stock valued under subpart EB (Valuation of trading stock (including dealer's livestock)):
 
 - (b) livestock valued under subpart EC (Valuation of livestock):
 

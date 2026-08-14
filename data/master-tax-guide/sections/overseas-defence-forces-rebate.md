@@ -17,7 +17,7 @@ If the total period of service in qualifying overseas localities is more than ha
 
 - sole parent, unchanged at $1,607 for 2024–25 (s 961-60), and
 
-- child or student, unchanged at $376 for 2024–25 (s 961-10) cutting out when the dependant’s
+- child or student, unchanged at $376 for 2024–25 (s 961-10) cutting out when the dependant's
 
   ATIO exceeds $1,786 (s 79A(2)).
 

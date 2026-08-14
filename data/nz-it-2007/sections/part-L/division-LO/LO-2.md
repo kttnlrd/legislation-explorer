@@ -16,19 +16,19 @@ compilation_date: 2026-06-06
 
 **Limitation on amount of credit**
 
-**(2)**  The person’s credit is limited to an amount calculated using the formula— (person’s distributions ÷ trust distributions)× (total beneficiary credits − person’s supplementary dividend).
+**(2)**  The person's credit is limited to an amount calculated using the formula— (person's distributions ÷ trust distributions)× (total beneficiary credits − person's supplementary dividend).
 
 **Definition of items in formula**
 
 **(3)**  In the formula,—
 
-- (a) person’s distributions is the total distributions for the tax year made to the person in their capacity as beneficiary of the trust:
+- (a) person's distributions is the total distributions for the tax year made to the person in their capacity as beneficiary of the trust:
 
 - (b) trust distributions is the total distributions for the tax year made to all beneficiaries of the trust in their capacity as beneficiaries, and includes all supplementary dividends paid to them:
 
 - (c) total beneficiary credits is the total Maori authority credits attached to taxable Maori authority distributions and total supplementary dividends for the tax year made to all beneficiaries of the trust in their capacity as beneficiaries:
 
-- (d) person’s supplementary dividend is the total supplementary dividends for the tax year paid to the person in their capacity as beneficiary of the trust.
+- (d) person's supplementary dividend is the total supplementary dividends for the tax year paid to the person in their capacity as beneficiary of the trust.
 
 *Defined in this Act: amount, distribution, Maori authority credit, pay, supplementary dividend, tax credit, tax year, taxable Maori authority distribution*
 

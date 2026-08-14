@@ -3,21 +3,16 @@ ATO ID 2015/18
 ==================================================
 
 Superannuation
-        Superannuation - Superannuation Guarantee Scheme: Benefit Certificates
-
-
-
+ Superannuation - Superannuation Guarantee Scheme: Benefit Certificates
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
-If an employee is not included in a class of employees specified in a benefit certificate for a defined benefit superannuation scheme, can the employer use that scheme to satisfy the employer's obligations for that employee under  the Superannuation Guarantee (Administration) Act 1992 (SGAA)?
+If an employee is not included in a class of employees specified in a benefit certificate for a defined benefit superannuation scheme, can the employer use that scheme to satisfy the employer's obligations for that employee under the Superannuation Guarantee (Administration) Act 1992 (SGAA)?
 
 Decision
 No. The employee must be included in a class of employees specified in the benefit certificate, for contributions made by an employer on behalf of that employee to the defined benefit superannuation scheme to satisfy the employer's obligations for that employee under the SGAA.
@@ -25,8 +20,6 @@ No. The employee must be included in a class of employees specified in the benef
 Facts
 A defined benefit superannuation scheme (the DB scheme) has a benefit certificate in effect that specifies the minimum requisite benefit provided for members of the scheme.
 The benefit certificate states that a benefit consists of the sum of three components:
-
-
 
 • an accumulation benefit of employer contributions
 • a defined benefit for those who choose to make voluntary contributions, and
@@ -39,8 +32,6 @@ Instead, the employer makes contributions to a completely separate accumulation 
 Reasons for Decision
 Employers who do not provide the prescribed minimum level of superannuation support for each quarter for their employees are liable to pay a superannuation guarantee (SG) charge. This is imposed on the employer's SG shortfall for a quarter (section 16 of the SGAA).
 The SG shortfall for a quarter is worked out by adding the total of the employer's:
-
-
 
 • individual SG shortfalls for the quarter
 • nominal interest component for the quarter, and
@@ -68,8 +59,6 @@ Regulation 5 of the Superannuation Guarantee (Administration) Regulations 1993 (
 
 If, in relation to a class of employees who are members of a defined benefit superannuation scheme:
 
-
-
 (a) the minimum requisite benefit in respect of each employee in that class is calculated as an accumulation of employer contributions; and
 (b) the employer contribution rate used in that calculation is the same for each employee in the class;
 
@@ -84,8 +73,6 @@ Minimum benefits for a member of a defined benefit superannuation scheme are def
 
 (3) If the fund is a defined benefit fund, the member's minimum benefits are as follows:
 
-
-
 (a) if the member belongs to a class of employees in relation to which a relevant benefit certificate applies, the amount of the member's minimum requisite benefit.
 
 Further guidance on the determination of minimum requisite benefits, notional employer contribution rates and the preparation of benefit certificates, is provided for actuaries under mandatory Professional Standard PS403 issued by the Institute of Actuaries of Australia.
@@ -95,12 +82,8 @@ A benefit certificate must:
 
 ...
 
-
-
 (b) specify, or identify by reference to the governing rules of each scheme to which the certificate relates, the minimum requisite benefit; and
 (c) specify:
-
-
 
 (i) the notional employer contribution rate in relation to each scheme, or combination of schemes, to which the certificate relates; and
 (ii) the class of members of the scheme or schemes to which the notional employer contribution rate relates.
@@ -117,10 +100,10 @@ In this case the DB scheme does not have a benefit certificate in effect for a c
 The employer cannot use contributions to the DB scheme to reduce the superannuation guarantee charge percentage payable for that employee to any extent, even if the employer has paid other contributions to the DB scheme for the employee.
 
 Date of decision:
-         22 June 2015
+  22 June 2015
 
 Year of income:
-           1 July 2008 onwards
+  1 July 2008 onwards
 
 Legislative References:
 
@@ -132,26 +115,24 @@ Other References:
 
 Professional Standard PS 403
 
-
 Keywords
 
 Superannuation guarantee scheme
-          Superannuation guarantee charge
-          Defined benefit superannuation funds
-          Benefit certificate
-
+ Superannuation guarantee charge
+ Defined benefit superannuation funds
+ Benefit certificate
 
 Siebel/TDMS Reference Number:
-         1-5G2TS7I; 1-FZRSRJG
+  1-5G2TS7I; 1-FZRSRJG
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         3 July 2015
+  3 July 2015
 
 Date reviewed:
-         7 August 2018
+  7 August 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

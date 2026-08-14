@@ -3,29 +3,23 @@ ATO ID 2010/55
 ==================================================
 
 Income Tax
-        Capital gains tax: Australian source capital gains made by a resident trust for CGT purposes
-        FOI status: may be released
-
+ Capital gains tax: Australian source capital gains made by a resident trust for CGT purposes
+ FOI status: may be released
 
 Note: This ATO ID contains a view in respect of section 98 of the Income Tax Assessment Act 1936 as it operated prior to amendments introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011 (including the introduction of Division 6E of Part III of the Income Tax Assessment Act 1936). Except in the case of some early balancing trusts and managed investment trusts, those amendments take effect from the 2010-11 and later income years.
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the trustee of a resident trust for CGT purposes assessable under paragraph 98(3)(a) of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to an individual non-resident beneficiary's share of the net income of a trust estate that is attributable to capital gains arising from the sale, in Australia, of shares in an Australian company, if the beneficiary is presently entitled to a share of the income of the trust for that year?
 Decision
 Yes. The trustee is assessable under paragraph 98(3)(a) of the ITAA 1936 because:
-
-
 
 -the beneficiary is presently entitled to a share of the income of the trust,
 -the beneficiary is a non-resident individual; and
@@ -46,19 +40,17 @@ Because the shares held by the trust were in an Australian company and the dispo
 The trustee is therefore assessed under paragraph 98(3)(a) of the ITAA 1936 in relation to the beneficiary's share of the trust net capital gain as the beneficiary is presently entitled to a share of the income of the trust, the beneficiary was a non-resident throughout the income year, and the gain is attributable to sources in Australia.
 It is not relevant for the purposes of Division 6 of Part III of the ITAA 1936 that, had the beneficiary acquired the shares directly, they would not have made a capital gain because their shares would not have been taxable Australian property for the purposes of section 855-15 of the ITAA 1997.
 
-
-
 Note 1
-                : this ATOID does not consider the possible effects (if any) of Australia's international double tax agreements.
+ : this ATOID does not consider the possible effects (if any) of Australia's international double tax agreements.
 
 Note 2
-                : the decision in this ATO ID would not apply if the trust was a fixed trust. In those circumstances, the trustee would not be assessed under paragraph 98(3)(a) in relation to the beneficiary's share of the trust net capital gain because of subsection 855-40(3) of the ITAA 1997.
+ : the decision in this ATO ID would not apply if the trust was a fixed trust. In those circumstances, the trustee would not be assessed under paragraph 98(3)(a) in relation to the beneficiary's share of the trust net capital gain because of subsection 855-40(3) of the ITAA 1997.
 
 Date of decision:
-         25 February 2010
+  25 February 2010
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -67,9 +59,7 @@ Income Tax Assessment Act 1936   Division 6 of Part III   subsection 95(1)
 
 Case References:
 
-
 Australian Machinery & Investment Co Ltd v Deputy Commissioner of Taxation (WA)   (1946) 180 CLR 9   (1946) 3 AITR 359   (1946) 8 ATD 81
-
 
 Related ATO Interpretative Decisions
 
@@ -78,21 +68,20 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital gains tax
-          Non-resident individuals
-          Trusts
-          Shares
-          CGT asset
-          CGT taxable Australian assets
-
+ Non-resident individuals
+ Trusts
+ Shares
+ CGT asset
+ CGT taxable Australian assets
 
 Siebel/TDMS Reference Number:
-         6337589
+  6337589
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         5 March 2010
+  5 March 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

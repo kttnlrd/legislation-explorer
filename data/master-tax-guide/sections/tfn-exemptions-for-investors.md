@@ -13,9 +13,9 @@ There are various exemptions from the TFN quotation rules governing investments 
 
   in relation to their investments, provided they notify the investment body of their full name and pension
 
-  entitlement. These include: age, disability support, carer’s, parenting payment and special needs pensions;
+  entitlement. These include: age, disability support, carer's, parenting payment and special needs pensions;
 
-  special beneﬁt; and pensions under the Veterans’ Entitlements Act 1986.
+  special beneﬁt; and pensions under the Veterans' Entitlements Act 1986.
 
 - Companies or unincorporated associations that are exempt from lodging returns and that do not have TFNs
 

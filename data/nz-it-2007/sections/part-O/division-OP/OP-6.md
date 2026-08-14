@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) the group were a single company; and
 
-- (b) a reference to a company’s liability for further income tax, late payment penalty, or imputation penalty tax were a reference to a joint and several liability owed by group companies when the tax or penalty becomes payable.
+- (b) a reference to a company's liability for further income tax, late payment penalty, or imputation penalty tax were a reference to a joint and several liability owed by group companies when the tax or penalty becomes payable.
 
 **Other provisions**
 

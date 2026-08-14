@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Assessable income and supplementary dividends**
 
-**(7)**  For the purposes of section HM 35(3)﻿(a), the assessable income of the PIE is the total amount of the PIE’s assessable income attributed to the class of qualifying investors for the attribution period, including any supplementary dividends to which the qualifying investors are entitled.
+**(7)**  For the purposes of section HM 35(3)﻿(a), the assessable income of the PIE is the total amount of the PIE's assessable income attributed to the class of qualifying investors for the attribution period, including any supplementary dividends to which the qualifying investors are entitled.
 
 *Defined in this Act: amount, assessable income, attributed PIE income, attribution period, foreign investment PIE, income tax liability, investor class, notified foreign investor, prescribed investor rate, transitional resident*
 

@@ -72,7 +72,7 @@ A MIT is treated as owning an asset to the extent that the MIT has an interest i
 
 However, where a MIT is eligible to make the election but does not make it, a gain or loss on an eligible asset (other than land, an interest in land or an option to acquire or dispose of such an asset) will forever be treated as being on revenue account (s 275-120).
 
-Carried interests The CGT provisions generally do not apply to “carried interests” in a MIT. Instead the holder of a “carried interest” in a MIT, is required to include in their assessable income:
+Carried interests The CGT provisions generally do not apply to "carried interests" in a MIT. Instead the holder of a "carried interest" in a MIT, is required to include in their assessable income:
 
 - any amount received as a distribution from the MIT in relation to the carried interest
 

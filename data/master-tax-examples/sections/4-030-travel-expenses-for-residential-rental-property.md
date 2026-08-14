@@ -47,7 +47,7 @@ The key features of the denial of a deduction rule in s 26-31 are:
 
   premises on the ground floor).
 
-Expenses denied a deduction under s 26-31 cannot form part of a property’s cost base or reduced cost base for CGT purposes (ITAA97 ss 110-38(4A) and 110-55(9J)) and cannot be deducted as blackhole expenditure (ITAA97 s 40-880(5)(g) and (h)).
+Expenses denied a deduction under s 26-31 cannot form part of a property's cost base or reduced cost base for CGT purposes (ITAA97 ss 110-38(4A) and 110-55(9J)) and cannot be deducted as blackhole expenditure (ITAA97 s 40-880(5)(g) and (h)).
 
 William wishes to take advantage of the exemption for business income noted above.
 
@@ -61,7 +61,7 @@ The Commissioner has issued Law Companion Ruling LCR 2018/7 addressing this ques
 
 - whether professional records are kept and maintained in a business-like manner.
 
-The Commissioner also notes that “generally, it is more difficult for an individual to demonstrate that they are carrying on a business of property investing than it is for a company. The receipt of income by an individual from the letting of property to a tenant, or multiple tenants, will not typically amount to the carrying on of a business as such activities are generally considered a form of investment rather than a business”.
+The Commissioner also notes that "generally, it is more difficult for an individual to demonstrate that they are carrying on a business of property investing than it is for a company. The receipt of income by an individual from the letting of property to a tenant, or multiple tenants, will not typically amount to the carrying on of a business as such activities are generally considered a form of investment rather than a business".
 
 Although the Ruling itself does not contain many practical examples, further guidance can be found in a series of examples set out in SMSF Ruling 2009/1:
 
@@ -83,7 +83,7 @@ Although the Ruling itself does not contain many practical examples, further gui
 
   investment business as they use an agent to manage the properties.
 
-Applying all the above to William, he should be advised that he is not able to take advantage of the exemption for earning business income. The starting point for the ATO is that he is an individual who own properties and, therefore, prima facie, the income he derives is considered investment income rather than business income. There is nothing in William’s particular circumstances to suggest that this view can be challenged, for example:
+Applying all the above to William, he should be advised that he is not able to take advantage of the exemption for earning business income. The starting point for the ATO is that he is an individual who own properties and, therefore, prima facie, the income he derives is considered investment income rather than business income. There is nothing in William's particular circumstances to suggest that this view can be challenged, for example:
 
 - the number of properties owned by William is not substantial
 

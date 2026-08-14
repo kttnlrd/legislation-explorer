@@ -26,9 +26,9 @@ compilation_date: 2026-06-06
 
 **(4)**  A person who provides a fringe benefit to another person must pay fringe benefit tax under the FBT rules.
 
-**Employer’s superannuation cash contributions**
+**Employer's superannuation cash contributions**
 
-**(5)**  A person who makes an employer’s superannuation cash contribution must pay ESCT under the ESCT rules.
+**(5)**  A person who makes an employer's superannuation cash contribution must pay ESCT under the ESCT rules.
 
 **Retirement scheme contributions**
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(6)**  A person described in section RL 3 (Associated persons: who must pay, and how?) must withhold an amount from a residential land purchase amount under the RLWT rules.
 
-*Defined in this Act: amount, dividend, employer’s superannuation cash contribution, ESCT, ESCT rules, FBT rules, fringe benefit, fringe benefit tax, non-resident passive income, NRWT rules, pay, PAYE income payment, PAYE rules, resident passive income, residential land purchase amount, retirement savings scheme, retirement scheme contribution, RLWT rules, RSCT, RSCT rules, RWT rules, superannuation fund*
+*Defined in this Act: amount, dividend, employer's superannuation cash contribution, ESCT, ESCT rules, FBT rules, fringe benefit, fringe benefit tax, non-resident passive income, NRWT rules, pay, PAYE income payment, PAYE rules, resident passive income, residential land purchase amount, retirement savings scheme, retirement scheme contribution, RLWT rules, RSCT, RSCT rules, RWT rules, superannuation fund*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

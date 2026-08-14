@@ -3,29 +3,22 @@ ATO ID 2008/94
 ==================================================
 
 Goods and Services Tax
-        GST and changes in net amount outside the four year time limit
-        FOI status: may be released
+ GST and changes in net amount outside the four year time limit
+ FOI status: may be released
 
-
-This ATO ID is withdrawn and has been replaced by  ATO ID 2014/36.
-Status of this decision: Amendments have been made to  section 105-55 of Schedule 1 to the Taxation Administration Act 1953 (TAA) which apply with effect from 1 July 2008. From this date, the time limit on refunds in section 105-55 of Schedule 1 to the TAA apply to entitlements to refunds which arise because of reductions in positive net amounts unless a valid notification was made before 1 July 2008 under  subitem 16(2) of Schedule 2 to the Tax Laws Amendment (2008 Measures No. 3) Act 2008. This decision is based on the law as it existed prior to the amendments to section 105-55 of Schedule 1 to the TAA.
+This ATO ID is withdrawn and has been replaced by ATO ID 2014/36.
+Status of this decision: Amendments have been made to section 105-55 of Schedule 1 to the Taxation Administration Act 1953 (TAA) which apply with effect from 1 July 2008. From this date, the time limit on refunds in section 105-55 of Schedule 1 to the TAA apply to entitlements to refunds which arise because of reductions in positive net amounts unless a valid notification was made before 1 July 2008 under subitem 16(2) of Schedule 2 to the Tax Laws Amendment (2008 Measures No. 3) Act 2008. This decision is based on the law as it existed prior to the amendments to section 105-55 of Schedule 1 to the TAA.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In determining an entity's net amount, does the four year time limit in section 105-50 of Schedule 1 to the Taxation Administration Act 1953 (TAA) apply to prevent increases in the entity's goods and services tax (GST) payable on certain transactions being taken into account where, in the same tax period:
-
-
 
 •the GST payable on other transactions is decreased, and
 •the amount of the decrease is greater than the amount of the increase?
@@ -44,13 +37,10 @@ Section 105-65 of Schedule 1 to the TAA (restriction on refunds) also does not a
 Reasons for Decision
 Section 105-50 of Schedule 1 to the TAA provides that any unpaid net amount or amount of indirect tax ceases to be payable four years after it became payable, unless the Commissioner:
 
-
-
 •has notified the entity of the unpaid amount, and required payment of it, within four years of the date it was payable, or
 •is satisfied that the payment of the amount was avoided due to fraud or evasion.
 
 'Net amount' is defined in section 17-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) according to the following formula:
-
 
 GST - input tax credits
 
@@ -60,24 +50,20 @@ Division 33 of the GST Act sets out when payments of an entity's net amount must
 Section 105-50 of Schedule 1 to the TAA applies to an 'unpaid net amount'. It does not apply to individual amounts of GST payable for particular transactions. In determining the net amount payable, all transactions attributable to a tax period need to be taken into account regardless of whether they will lead to an increase or decrease in the net amount.
 Although section 9-40 of the GST Act requires payment of the GST payable, except as provided for in Division 33 of the GST Act in relation to GST payable on some taxable importations, there are no provisions in the GST Act or the TAA that:
 
-
-
 •provide for the collection of the GST separately from the net amount, or
 •specify when the amount of GST in relation to a specific taxable supply is payable.
 
 As the GST on an individual transaction is not an amount that is payable separately and is not the net amount payable by the entity, it cannot cease to be payable after four years.
 For the above reasons, section 105-50 of Schedule 1 to the TAA does not apply to prevent increases in GST payable being taken into account where, in the same tax period, the GST payable on other transactions is decreased and the amount of the decrease is greater than the amount of the increase. There is no overall increase in the net amount and as such there is no 'unpaid net amount'.
 
-
 Note: as the net result of the increases and decreases in GST payable is that the net amount decreases to a lesser net amount, and neither section 105-55 of Schedule 1 to the TAA nor section 105-65 of Schedule 1 to the TAA apply to deny a refund or credit, the entity is entitled to a refund or credit equal to the overall decrease in the net amount.
 
 Example
 
-
 The entity originally reported and paid a net amount of $1,000 on its activity statement for the March 2003 tax period. More than four years later it discovers arithmetic mistakes for two different transactions made in the March 2003 tax period. One mistake resulted in an increase in GST payable of $100 and the other, a decrease in GST payable of $700. The four year time limit in section 105-50 of Schedule 1 to the TAA does not apply to prevent the increase in GST payable of $100 being taken into account in working out the entity's net amount as it does not relate to individual amounts of GST payable for particular transactions. The net result of the adjustments is a decrease in the GST payable for the tax period of $600. Therefore the net amount for the tax period has decreased from $1,000 to $400, and the entity is entitled to a refund or credit of $600.
 
 Date of decision:
-         10 June 2008
+  10 June 2008
 
 Legislative References:
 
@@ -87,33 +73,29 @@ Taxation Administration Act 1953   Schedule 1   section 105-50   sectio
 Keywords
 
 Goods and services tax
-          GST net amounts & adjustments
-          Net amounts
-          GST supplies & acquisitions
-          GST supply
-          Taxable supply
-          Tax administration
-
+ GST net amounts & adjustments
+ Net amounts
+ GST supplies & acquisitions
+ GST supply
+ Taxable supply
+ Tax administration
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         20 June 2008
+  20 June 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 10 June 2008

@@ -3,24 +3,19 @@ ATO ID 2002/697
 ==================================================
 
 Superannuation
-        Retirement income entities - loan to a property trust
-        FOI status: may be released
-
+ Retirement income entities - loan to a property trust
+ FOI status: may be released
 
 This ATO ID is withdrawn because it contains a view in respect of a provision of the Superannuation Industry (Supervision) Act 1993 that does not apply after the 2007-08 income year. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2007-08 income year.
-See  ATO ID 2014/23 Superannuation - Self Managed Superannuation Fund - Loan to a property trust, which reflects the same view in respect of the replacement or rewritten provision, for decisions for income years after the 2007-08 income year.
+See ATO ID 2014/23 Superannuation - Self Managed Superannuation Fund - Loan to a property trust, which reflects the same view in respect of the replacement or rewritten provision, for decisions for income years after the 2007-08 income year.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will a loan from a Self Managed Superannuation Fund (SMSF) to a Property Trust be treated as an in-house asset?
@@ -37,15 +32,11 @@ The meaning of an in-house asset is defined by section 71 of the SISA to include
 The relationships between the parties involved requires analysis. In particular, it needs to be determined if the trustees of the Property Trust or any of the other unit holders of the Property Trust are Part 8 associates of the members of the SMSF (or employer-sponsor). Part 8 associates of the members of the SMSF are listed in section 70B of the SISA. The relevant Part 8 associates will be any relatives, other fund members and trustees of trusts that are controlled by the individual members of the SMSF.
 According to section 70E of the SISA, a trust is controlled by an entity, for the purposes of section 70B of the SISA if:
 
-
-
 (i)a group in relation to the entity has a fixed entitlement to more than 50% of the capital or income of the trust; or
 (ii)the trustee of the trust or a majority of the trustees of the trust is accustomed or might reasonably be expected to act in accordance with the directions, instructions or wishes of a group in relation to the entity; or
 (iii)a group in relation to the entity is able to remove or appoint the trustee or a majority of the trustees of the trust.
 
 A group is defined in subsection 70E(3) of the SISA to mean:
-
-
 
 (iv)the entity or a Part 8 associate of the entity acting alone; or
 (v)the entity and one or more Part 8 associates of the entity acting together; or
@@ -53,7 +44,7 @@ A group is defined in subsection 70E(3) of the SISA to mean:
 
 The Property Trust to whom the loan was made is not a Part 8 associate of the SMSF because the SMSF and its related parties hold less than 10% unit holdings in the trust and have no other control over the trust. Accordingly the loan has not been made to a related party and therefore does not meet the definition of an in-house asset. The SMSF would be able to lend the money to the Property Trust provided this investment is in line with the investment strategy of the SMSF.
 Date of decision:
-         24 July 2001
+  24 July 2001
 
 Legislative References:
 
@@ -61,37 +52,33 @@ Superannuation Industry (Supervision) Act 1993   subsection 10(1)   subsec
 
 Related ATO Interpretative Decisions
 
-This decision replaces  ATO ID 2001/234.
+This decision replaces ATO ID 2001/234.
 
 Keywords
 
 Self managed superannuation funds
-          SMSF investments
-          SMSF loans
-          SMSF part 8 associate
-          SMSF related parties
-          Superannuation fund in house assets
-
+ SMSF investments
+ SMSF loans
+ SMSF part 8 associate
+ SMSF related parties
+ Superannuation fund in house assets
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         11 July 2002
+  11 July 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 24 July 2001

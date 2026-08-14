@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Ignore income and deductions for net loss activity**
 
-**(2)**  The income and deductions for a person’s family scheme activity for an income year are ignored when calculating the person’s family scheme income for the year if, treating the person as having only the income and deductions of that activity, the person would have a net loss for that year.
+**(2)**  The income and deductions for a person's family scheme activity for an income year are ignored when calculating the person's family scheme income for the year if, treating the person as having only the income and deductions of that activity, the person would have a net loss for that year.
 
 **Modification of what counts as 1 family scheme activity**
 

@@ -3,21 +3,16 @@ ATO ID 2012/49
 ==================================================
 
 Superannuation
-        Superannuation lump sum paid from a foreign superannuation fund to an Australian resident at the same time as an annuity commenced: applying section 305-75 of the ITAA 1997
-        FOI status: may be released
-
+ Superannuation lump sum paid from a foreign superannuation fund to an Australian resident at the same time as an annuity commenced: applying section 305-75 of the ITAA 1997
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where, at the same time, an individual is paid a superannuation lump sum and commences an annuity from a foreign superannuation fund, is the amount of 'applicable fund earnings' in relation to the superannuation lump sum calculated by taking a proportionate approach to the amounts referred to in subsection 305-75(3) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -39,8 +34,6 @@ The amount of an individual's 'applicable fund earnings' is worked out under sec
 Where an individual becomes an Australian resident after the start of the period to which the lump sum relates (but before they receive it) the amount of their 'applicable fund earnings' is worked out using the method in subsection 305-75(3) of the ITAA 1997.
 Subparagraph 305-75(3)(a)(i) of the ITAA 1997 and paragraph 305-75(3)(b) of the ITAA 1997 respectively require the following to be identified:
 
-
-
 •the amount in the fund that was vested in the individual just before the day (called the 'start day') the individual first became an Australian resident during the period to which the superannuation lump sum relates; and
 •the amount in the fund that was vested in the individual when the lump sum was paid.
 
@@ -54,21 +47,16 @@ The existing tax treatment of superannuation benefits paid from non-complying su
 
 ...
 
-
-
 •Superannuation lump sum benefits paid from 'foreign superannuation funds' continue to be taxed on the earnings while the person was an Australian resident.
 
 The view in ATO ID 2002/284 was also consistent with the approach set out in Income Tax Ruling IT 2272 Income Tax: eligible termination payments and superannuation pensions - determination of undeducted contributions and undeducted purchase price which provides a basis for apportionment between a lump sum and annuity paid from a superannuation fund.
 Having regard to the facts, the method in subsection 305-75(3) of the ITAA 1997 for calculating 'applicable fund earnings' requires the following amounts to be determined:
-
-
 
 •The amount in the fund vested in the person just before the day they first became an Australian resident (the start day) apportioned between the superannuation lump sum and the annuity: subparagraph 305-75(3)(a)(i) of the ITAA 1997.
 •The part of the payment attributable to contributions to the fund made by or in respect of the person from the start day with the contributions made to the foreign superannuation fund apportioned between the lump sum and the annuity: subparagraph 305-75(a)(ii) of the ITAA 1997.
 •The amount in the fund vested in the person when the lump sum was paid (before any deduction for foreign income tax) as apportioned between the lump sum and the annuity: paragraph 305-75(3)(b) of the ITAA 1997.
 
 The sum of the amounts specified in subparagraph 305-75(3)(a)(i) of the ITAA 1997 and subparagraph 305-75(3)(a)(ii) of the ITAA 1997 are then subtracted from the amount referred to in paragraph 305-75(3)(b) of the ITAA 1997 as part of the calculation. The resulting amount is multiplied by the proportion of the total number of days the person was an Australian resident during the period from the start day to the day the lump sum is paid (see ATO Interpretative Decision ATO ID 2009/124 Lump sums received from foreign superannuation funds: relevant periods under subsection 305-75(3) of the ITAA 1997). In this case the proportion will be 1. The result is the individual's 'applicable fund earnings'.
-
 
 Note: While not relevant to the facts of this case, if an amount had been transferred to the foreign superannuation fund from another such fund, that transferred amount would also need to be apportioned between the superannuation lump sum and annuity when applying subparagraph 305-75(3)(a)(iii) of the ITAA 1997.
 
@@ -83,10 +71,10 @@ All
 Updated for clarity.
 
 Date of decision:
-         24 May 2012
+  24 May 2012
 
 Year of income:
-           Year ending 30 June 2012
+  Year ending 30 June 2012
 
 Legislative References:
 
@@ -106,33 +94,29 @@ Related ATO Interpretative Decisions
 Keywords
 
 Superannuation
-          Superannuation benefits
-          Superannuation benefits from foreign superannuation funds
-          Lump sum - superannuation benefits
-
+ Superannuation benefits
+ Superannuation benefits from foreign superannuation funds
+ Lump sum - superannuation benefits
 
 Siebel/TDMS Reference Number:
-         1-3SPXOWD
+  1-3SPXOWD
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         25 May 2012
+  25 May 2012
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 24 May 2012

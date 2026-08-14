@@ -9,7 +9,7 @@ paragraph: "¶30-110"
 
 The general income tax anti-avoidance provisions appear in ITAA36 Pt IVA. They supplement the numerous anti-avoidance rules directed at particular types of arrangements which appear elsewhere in the Act. Part IVA is also referred to by the acronyms GAAP (general anti-avoidance provision) and GAAR (general anti- avoidance rule).
 
-Part IVA is a provision of “last resort”, so it does not apply unless the taxpayer’s claim is otherwise allowable.
+Part IVA is a provision of "last resort", so it does not apply unless the taxpayer's claim is otherwise allowable.
 
 For example, it will not apply if a claimed deduction is not allowable in any event under the general deduction provisions, or if the transaction is set aside by some other speciﬁc anti-avoidance measure. Nor need it apply where a commercially unrealistic transaction is entered into solely to generate tax deductions, and is not eﬀective for tax purposes in any event (Fletcher 91 ATC 4950; [1991] HCA 42: ¶16-010).
 
@@ -31,13 +31,13 @@ Multinational tax avoidance measures The government has enacted a number of meas
 
 - the diverted proﬁts tax (DPT: ¶30-205).
 
-  These measures apply to “signiﬁcant global entities” (¶30-200).
+  These measures apply to "signiﬁcant global entities" (¶30-200).
 
 Fiscal nullity doctrine The High Court has held that the doctrine of ﬁscal nullity, developed by the UK courts to strike down artiﬁcial tax avoidance arrangements, does not apply in Australia because of the general anti-avoidance provisions contained in Pt IVA (John 89 ATC 4101; [1989] HCA 5).
 
 Criminal sanctions for tax fraud or evasion The Crimes (Taxation Oﬀences) Act 1980 (Taxation Oﬀences Act) creates a number of criminal oﬀences relating to the fraudulent evasion of various federal taxes — speciﬁcally income tax, GST-related taxes, FBT, petroleum resource rent tax and the superannuation guarantee charge. The Act is directed against stripping arrangements which are designed to render a company or trust incapable of paying tax.
 
-In relation to income tax, the Act makes it an oﬀence to enter into an arrangement with a purpose of securing that a company or trust will be, or will be likely to be, unable to pay income tax that is then payable (Taxation Oﬀences Act s 5), or that will or may reasonably be expected to become payable in the future. It is also an oﬀence to aid, abet, counsel or procure another person to enter such an arrangement (Taxation Oﬀences Act ss 6; 7). The maximum penalty is 10 years’ gaol, a ﬁne of 1,000 penalty units: ¶29-000 or both. The person convicted may also be ordered to pay some or all of the tax involved (Taxation Oﬀences Act ss 9; 12). The Act operates in a similar way in relation to the other taxes within its scope.
+In relation to income tax, the Act makes it an oﬀence to enter into an arrangement with a purpose of securing that a company or trust will be, or will be likely to be, unable to pay income tax that is then payable (Taxation Oﬀences Act s 5), or that will or may reasonably be expected to become payable in the future. It is also an oﬀence to aid, abet, counsel or procure another person to enter such an arrangement (Taxation Oﬀences Act ss 6; 7). The maximum penalty is 10 years' gaol, a ﬁne of 1,000 penalty units: ¶29-000 or both. The person convicted may also be ordered to pay some or all of the tax involved (Taxation Oﬀences Act ss 9; 12). The Act operates in a similar way in relation to the other taxes within its scope.
 
 Note that the directors of a company may be personally liable to pay compensation for tax liabilities arising from participation in tax avoidance schemes or tax evasion. In BCI Finances Pty Ltd (in liq) v Binetter (No 4) [2016] FCA 1351, the Federal Court found that directors of companies involved in tax evasion schemes had suﬃcient knowledge of and involvement in the schemes to support a ﬁnding that they had breached their statutory and common law duties as directors of the companies. The liquidators of the companies succeeded in claims against directors, based on rights to equitable compensation.
 

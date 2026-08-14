@@ -3,18 +3,14 @@ ATO ID 2006/201
 ==================================================
 
 Income tax
-        Consolidation: effect on head company of a consolidated group of an election made by a subsidiary member under section 775-150
-        FOI status: may be released
-
-
+ Consolidation: effect on head company of a consolidated group of an election made by a subsidiary member under section 775-150
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where an entity makes an election under section 775-150 of the Income Tax Assessment Act 1997 (ITAA 1997) and at the time of making the election the entity is a subsidiary member of a consolidated group, will the election be taken to have been validly made by the head company of the consolidated group?
@@ -24,20 +20,20 @@ Facts
 On 15 June 2005 Head Co, as head company of a consolidatable group, lodges its return for the year ended 31 December 2004 and makes a choice under section 703-50 of the ITAA 1997 to form a consolidated group commencing from 1 January 2004.
 The consolidated group formed comprises Head Co as the head company, and Sub Co as the subsidiary member.
 On 6 February 2004, Sub Co made an election under section 775-150 of Division 775 of the ITAA 1997 to apply rules about disregarding certain foreign exchange (forex) realisation gains and forex realisation losses.
-Sub Co made the election under section 775-150 of the ITAA 1997 in its own name and on its own behalf.  It did this at a time when it was not known that it was to become a subsidiary member of a consolidated group.
+Sub Co made the election under section 775-150 of the ITAA 1997 in its own name and on its own behalf. It did this at a time when it was not known that it was to become a subsidiary member of a consolidated group.
 Head Co did not make any election under section 775-150 of the ITAA 1997.
 Reasons for Decision
 An election made under section 775-150 of the ITAA 1997 will affect the working out of an entity's liability to income tax, and is therefore within the head company or entity core purposes contained in subsections 701-1(2) and 701-1(3) of the ITAA 1997 respectively.
 The retrospective nature of the choice to form a consolidated group under section 703-50 of the ITAA 1997 and the operation of the single entity rule (SER), contained in subsection 701-1(1) of the ITAA 1997, means that Sub Co is treated as a part of the Head Co at the time Sub Co made the election under section 775-150 of the ITAA 1997.
 As outlined at subparagraph 8(a) of Taxation Ruling TR 2004/11, the effect of the SER is to treat the actions and transactions of a subsidiary member as having been undertaken by the head company of the group. However, at the time that Sub Co made the election under section 775-150 of the ITAA 1997, it was unaware of its status as a subsidiary member of the consolidated group. Sub Co made the election in its own right, only intending the election to affect its own relevant transactions.
-Even if the SER applies to attribute the election to the Head Co as head company of the consolidated group, it is clear from the wording of section 775-150 and related provisions of the ITAA 1997 that the election can only be made on a whole of entity basis.  There is no legislative opportunity to elect under section 775-150 that only the relevant transactions of Sub Co are to be affected by the election.
+Even if the SER applies to attribute the election to the Head Co as head company of the consolidated group, it is clear from the wording of section 775-150 and related provisions of the ITAA 1997 that the election can only be made on a whole of entity basis. There is no legislative opportunity to elect under section 775-150 that only the relevant transactions of Sub Co are to be affected by the election.
 In relation to elections made under section 775-150 of the ITAA 1997 and in relation to the particular facts detailed above, an election made by a subsidiary member will be viewed as an attempt to make a partial election and as such will not be taken to have been validly made by the head company of a consolidated group.
 Accordingly, the election made by Sub Co under section 775-150 of the ITAA 1997 is not a valid election made by Head Co as head company of the consolidated group.
 Date of decision:
-         29 March 2006
+  29 March 2006
 
 Year of income:
-           Period from 1 January 2004 to 31 December 2004
+  Period from 1 January 2004 to 31 December 2004
 
 Legislative References:
 
@@ -50,22 +46,21 @@ Taxation Ruling TR 2004/11
 Keywords
 
 Choice to form
-          Consolidation
-          Consolidation - multiple entry consolidated group
-          Foreign exchange gains and losses
-          Single entity rule
-          Taxpayer elections
-          Transitional election
-
+ Consolidation
+ Consolidation - multiple entry consolidated group
+ Foreign exchange gains and losses
+ Single entity rule
+ Taxpayer elections
+ Transitional election
 
 Siebel/TDMS Reference Number:
-         4985124
+  4985124
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         4 August 2006
+  4 August 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

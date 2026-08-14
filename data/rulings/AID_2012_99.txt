@@ -3,18 +3,14 @@ ATO ID 2012/99
 ==================================================
 
 Income Tax
-        Capital gains tax - direct small business participation percentage in a trust - meaning of 'distributions of income' and capital
-        FOI status: may be released
-
-
+ Capital gains tax - direct small business participation percentage in a trust - meaning of 'distributions of income' and capital
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 When determining an entity's direct small business participation percentage in a trust under items 2 or 3 of the table in subsection 152-70(1) of the Income Tax Assessment Act 1997 (ITAA 1997), do the references to distributions of 'income' necessarily mean income according to ordinary concepts?
@@ -38,8 +34,6 @@ Which entities have a small business participation percentage in the discretiona
 An individual's direct small business participation percentage in a trust is worked out under either item 2 or item 3 of the table in subsection 152-70(1) of the ITAA 1997 depending on whether beneficiaries have or do not have entitlements to all of the income and capital of the trust.
 In this case the trust is a discretionary trust (beneficiaries do not have entitlements to all the income and capital of the trust) and so the relevant percentage is worked out under item 3 as follows:
 
-
-
 (a)if the trustee makes distributions of income during the income year....the percentage of the distributions to which the entity was beneficially entitled; or
 (b)if the trustee makes distributions of capital during the current year - the percentage of the distributions to which the entity was beneficially entitled;
 
@@ -60,16 +54,15 @@ Although the beneficiaries do not have a direct small business participation per
 Beneficiary A is therefore a CGT concession stakeholder in the company (by virtue of holding an indirect small business participation percentage in the company of at least 20%). However, Beneficiary B is not a CGT concession stakeholder as its indirect small business participation percentage is only 5%.
 Despite beneficiary B not satisfying the significant individual test, the additional basic condition under paragraph 152-10(2)(b) will be met in respect of the capital gain made by the trustee from the disposal of the shares because beneficiary A is a CGT concession stakeholder in the object company and has a small business participation percentage in the trust of 90%.
 
-
 Note 1: The result would be different if the trustee had not resolved to treat the capital gain as income of the trust and had instead distributed the capital gain to beneficiary A as a capital distribution. The additional basic condition under paragraph 152-10(2)(b) would not be met because beneficiary A and B would each have a direct small business percentage in the trust worked out under item 3 of the table in subsection 152-70(1) of 0% (being the smaller percentage of the distributions of capital and income to which each beneficiary is beneficially entitled).
 
 Note 2: The reasoning in this ATOID would also broadly apply to the interpretation of income in subsection 328-125(4) of the ITAA 1997.
 
 Date of decision:
-         10 December 2012
+  10 December 2012
 
 Year of income:
-           year ended 30 June 2012
+  year ended 30 June 2012
 
 Legislative References:
 
@@ -79,30 +72,27 @@ Taxation Administration Act 1953   Schedule 1 section 12-180
 
 Case References:
 
-
 Commissioner of Taxation v Bamford   [2010] HCA 10   (2010) 240 CLR 481   2010 ATC 20-170   (2010) 75 ATR 1
-
 
 Keywords
 
 Capital gains
-          CGT events
-          CGT small business relief
-          Trusts
-          Trustees
-          Discretionary trusts
-          Trust income
-          Trust deeds
-
+ CGT events
+ CGT small business relief
+ Trusts
+ Trustees
+ Discretionary trusts
+ Trust income
+ Trust deeds
 
 Siebel/TDMS Reference Number:
-         1-4E814A6
+  1-4E814A6
 
 Business Line:
-         Law and Practice
+  Law and Practice
 
 Date of publication:
-         14 December 2012
+  14 December 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

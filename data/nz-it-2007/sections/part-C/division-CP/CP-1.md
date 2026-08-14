@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount is income of the person in the income year of the person in which the PIE’s income year ends.
+**(2)**  The amount is income of the person in the income year of the person in which the PIE's income year ends.
 
 *Defined in this Act: amount, income, income year, investor, multi-rate PIE, PIE*
 

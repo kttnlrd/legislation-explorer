@@ -19,7 +19,7 @@ She has suffered depression and is not sure if she can continue working at the p
 
 Solution ITAA97 s 8-1(1)(b) states that a taxpayer carrying on a business is entitled to deduct outgoings or losses which are necessarily incurred in carrying on the business for the purpose of gaining assessable income.
 
-Taxation Ruling TR 95/33, at paras 36 to 38, indicates that “necessarily” does not mean that the outgoing must be unavoidable or logically necessary but, rather, that the outgoing must be clearly appropriate or adapted for the ends of the business. It is up to the person carrying on the business to judge what outgoings are necessarily incurred.
+Taxation Ruling TR 95/33, at paras 36 to 38, indicates that "necessarily" does not mean that the outgoing must be unavoidable or logically necessary but, rather, that the outgoing must be clearly appropriate or adapted for the ends of the business. It is up to the person carrying on the business to judge what outgoings are necessarily incurred.
 
 In this case, New Acre Medical is paying for employees to attend counselling sessions for treatment of work- related stress. New Acre Medical stands to benefit from a reduction of the ill-effects of work-related stress and anxiety on employees, in the form of fewer sick days, more motivated and higher performing staff. As a result, the outgoing is necessarily incurred in the carrying on of the business and is, therefore, deductible under ITAA97 s 8-1.
 
@@ -29,13 +29,13 @@ Generally, health-related expenses incurred to keep a taxpayer sufficiently heal
 
 In Case QT94/45, a school principal sought to claim a deduction for the cost of visits to a doctor, therapist, psychiatrist and psychologist. The treatment involved counselling. The reason for the visits was that the taxpayer was having difficulties at work, causing stress and raising doubts about their professional capacity to continue as a school principal.
 
-The Administrative Appeals Tribunal decided that the essential character of the outgoings was expenditure incurred by the applicant to better equip herself in both a mental and physical sense for her duties as a school principal. In addition, the outgoings were incurred because of the perceptions of the applicant as to her own physical wellbeing and also as to her capacity as a school principal. The Tribunal found that they were neither relevant nor incidental to the applicant’s income producing activity, stating that the outgoings were properly characterised as private expenditure and excluded from deduction.
+The Administrative Appeals Tribunal decided that the essential character of the outgoings was expenditure incurred by the applicant to better equip herself in both a mental and physical sense for her duties as a school principal. In addition, the outgoings were incurred because of the perceptions of the applicant as to her own physical wellbeing and also as to her capacity as a school principal. The Tribunal found that they were neither relevant nor incidental to the applicant's income producing activity, stating that the outgoings were properly characterised as private expenditure and excluded from deduction.
 
-The difference between the 2 treatments is that the company is seeking a deduction under the second “leg” of ITAA97 s 8-1. ITAA97 s 8-1(1)(b) specifically allows a deduction for expenses of a revenue nature incurred in carrying on a business. Therefore, as the employer paying the expenses was a separate legal entity to the employee who received the counselling, a deduction is allowed, because it is accepted that the costs associated with employing staff are of a revenue nature.
+The difference between the 2 treatments is that the company is seeking a deduction under the second "leg" of ITAA97 s 8-1. ITAA97 s 8-1(1)(b) specifically allows a deduction for expenses of a revenue nature incurred in carrying on a business. Therefore, as the employer paying the expenses was a separate legal entity to the employee who received the counselling, a deduction is allowed, because it is accepted that the costs associated with employing staff are of a revenue nature.
 
-For an individual who wishes to claim a deduction, such an expense is not allowable, as the expenses are incurred in relation to the individual’s personal circumstances, namely the treatment of the employee’s mental health. They are not relevant or incidental to the income producing activity and are, therefore, private expenditure.
+For an individual who wishes to claim a deduction, such an expense is not allowable, as the expenses are incurred in relation to the individual's personal circumstances, namely the treatment of the employee's mental health. They are not relevant or incidental to the income producing activity and are, therefore, private expenditure.
 
-Accordingly, no deduction is allowed under ITAA97 s 8-1 for Marion’s personally incurred costs to attend psychologist sessions.
+Accordingly, no deduction is allowed under ITAA97 s 8-1 for Marion's personally incurred costs to attend psychologist sessions.
 
 *Refs: ITAA97 s 8-1, ITAA97 s 8-1(1)(, ITAA97
 s 8-1(1)(*

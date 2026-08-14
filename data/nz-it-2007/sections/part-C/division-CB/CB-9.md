@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) person A carried on a business of dealing in land; or
 
-- (b) the land was acquired for the purpose of person B’s business.
+- (b) the land was acquired for the purpose of person B's business.
 
 **Exclusions**
 

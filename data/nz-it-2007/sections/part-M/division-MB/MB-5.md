@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **(2)**  This section does not apply to a person who receives a distribution from a superannuation scheme—
 
-- (a) as a result of and on or after the person’s retirement from employment with an employer who was a contributor to the scheme:
+- (a) as a result of and on or after the person's retirement from employment with an employer who was a contributor to the scheme:
 
 - (b) if the superannuation scheme is a KiwiSaver scheme or a complying superannuation fund.
 

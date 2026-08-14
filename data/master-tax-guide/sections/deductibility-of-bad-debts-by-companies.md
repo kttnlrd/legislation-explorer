@@ -23,19 +23,19 @@ Example A debt owing to Lauren Co, which has a 30 June year end, is created on 6
 
 In appropriate circumstances, similar to those applicable for company losses (¶3-105), a tracing of interests is made for the purposes of the COT (ITAA97 ss 165-150 to 165-160).
 
-The COT does not apply to a debt if the Commissioner considers that, having regard to the beneﬁcial owners of the company’s shares when the debt became bad, it is unreasonable for the test to apply (s 165-120(1) (b)). The COT is safeguarded in the same way as it is in the prior year loss provisions — the provisions of ITAA97 ss 165-180 to 165-205 are invoked and anti-avoidance provisions (ITAA97 ss 175-80 to 175-90) are similar in operation to the prior year loss anti-avoidance provisions (¶3-105).
+The COT does not apply to a debt if the Commissioner considers that, having regard to the beneﬁcial owners of the company's shares when the debt became bad, it is unreasonable for the test to apply (s 165-120(1) (b)). The COT is safeguarded in the same way as it is in the prior year loss provisions — the provisions of ITAA97 ss 165-180 to 165-205 are invoked and anti-avoidance provisions (ITAA97 ss 175-80 to 175-90) are similar in operation to the prior year loss anti-avoidance provisions (¶3-105).
 
-Modified COT for certain entities ITAA97 Subdiv 166-C modiﬁes the COT rules for widely held companies and “eligible Division 166 companies” (¶3-130).
+Modified COT for certain entities ITAA97 Subdiv 166-C modiﬁes the COT rules for widely held companies and "eligible Division 166 companies" (¶3-130).
 
 The COT has been modiﬁed for companies whose shares have unequal rights to dividends, capital distributions or voting power (¶3-105).
 
-Business continuity test Where a company fails to satisfy the COT and the Commissioner does not exercise his discretion under s 165-120(1)(b), the company can still claim a deduction for a bad debt if it satisﬁes the business continuity test (contained in ITAA97 ss 165-210 and 165-211) at the “test time” speciﬁed in s 165-126. In broad terms, if the debt was incurred in an earlier year, the company must carry on, throughout the year in which the debt is deducted, the same or a similar business as it did before the test time. If the debt was incurred in the year in which it is deducted, the company must, throughout the remainder of that year, carry on the same or a similar business as it did immediately before the test time.
+Business continuity test Where a company fails to satisfy the COT and the Commissioner does not exercise his discretion under s 165-120(1)(b), the company can still claim a deduction for a bad debt if it satisﬁes the business continuity test (contained in ITAA97 ss 165-210 and 165-211) at the "test time" speciﬁed in s 165-126. In broad terms, if the debt was incurred in an earlier year, the company must carry on, throughout the year in which the debt is deducted, the same or a similar business as it did before the test time. If the debt was incurred in the year in which it is deducted, the company must, throughout the remainder of that year, carry on the same or a similar business as it did immediately before the test time.
 
 The similar business test is available in relation to debts that are incurred by a company in the 2015–16 or a later income year and which the company writes oﬀ as bad. See further ¶3-125.
 
 Incomplete periods The COT or business continuity test can be satisﬁed when the tested company exists for only part of a relevant income year (ITAA97 s 165-255).
 
-Business continuity test: “test time” for bad debts The business continuity test “test time” for these purposes is set out in s 165-126. It provides for the following default test times to be used when applying the business continuity test in relation to bad debts:
+Business continuity test: "test time" for bad debts The business continuity test "test time" for these purposes is set out in s 165-126. It provides for the following default test times to be used when applying the business continuity test in relation to bad debts:
 
 - where practicable, the test time for application of the business continuity test will be the latest time
 

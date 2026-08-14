@@ -3,21 +3,16 @@ ATO ID 2004/961
 ==================================================
 
 Income Tax
-        Consolidation: meaning of the term 'the company' in Item 4 in the table in subsection 707-320(2) of the Income Assessment Act 1997 (ITAA 1997) in the context of a multiple entry consolidated (MEC) group
-        FOI status: may be released
-
+ Consolidation: meaning of the term 'the company' in Item 4 in the table in subsection 707-320(2) of the Income Assessment Act 1997 (ITAA 1997) in the context of a multiple entry consolidated (MEC) group
+ FOI status: may be released
 
 This ATO ID has been amended by removing references to provisional head company as losses are transferred under Subdivision 707-A to the head company of the group.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a MEC group is in existence, does 'the company' in Item 4 in the table in subsection 707-320(2) of the ITAA 1997 refer to the entire MEC group rather than an individual member of the MEC group?
@@ -36,7 +31,7 @@ The single entity rule applies in the context of subsection 707-320(2) of the IT
 There is no legislative intention to override the single entity rule in respect of Item 4 in the table in subsection 707-320(2) of the ITAA 1997. This is supported by the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002, which states at paragraph 8.61:
 
 A group's available fractions are adjusted if the group's market value is increased as a result of capital injected into the group or a non-arm's length transaction involving the group.
-            and at paragraph 8.96:
+ and at paragraph 8.96:
 
 Post-consolidation, the events are only relevant if they trigger an increase in the market value of the whole group. This can only occur in this context as a result of an injection of capital or non-arm's length transaction involving entities external to the group.
 
@@ -45,10 +40,10 @@ The value for the transferee will be worked out on the basis that subsidiary mem
 Although this note is in respect of the market value of the transferee as part of the calculation of the available fraction for a bundle of losses, it signals the intention that the single entity rule applies throughout section 707-320 of the ITAA 1997.
 Thus, 'the company' in Item 4 in the table in subsection 707-320(2) is Aus Co 1 in its capacity as the head company of the MEC group, rather than on a stand-alone basis.
 Date of decision:
-         1 December 2004
+  1 December 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -58,34 +53,32 @@ Other References:
 
  Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002
 
-
 Keywords
 
 Available fraction
-          Bundle of losses
-          Consolidation
-          Consolidation - event
-          Consolidation - losses
-          Consolidation - market value
-          Consolidation - multiple entry consolidated group
-          Consolidation - non-arm's length transaction
-          Consolidation - tax liabilities
-          Eligible tier-1 company
-          Injection of capital
-          Head company of a MEC group
-          Single entity rule
-          Subsidiary member of a MEC group
-          Transferred losses
-
+ Bundle of losses
+ Consolidation
+ Consolidation - event
+ Consolidation - losses
+ Consolidation - market value
+ Consolidation - multiple entry consolidated group
+ Consolidation - non-arm's length transaction
+ Consolidation - tax liabilities
+ Eligible tier-1 company
+ Injection of capital
+ Head company of a MEC group
+ Single entity rule
+ Subsidiary member of a MEC group
+ Transferred losses
 
 Siebel/TDMS Reference Number:
-         4290975
+  4290975
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         10 December 2004
+  10 December 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -3,27 +3,21 @@ ATO ID 2010/94
 ==================================================
 
 Income Tax
-        Foreign income tax offsets: distributions from a USA Corporate Limited Partnership to a foreign hybrid limited partnership - section 770-10 of the ITAA 1997
-        FOI status: may be released
-
+ Foreign income tax offsets: distributions from a USA Corporate Limited Partnership to a foreign hybrid limited partnership - section 770-10 of the ITAA 1997
+ FOI status: may be released
 
 This ATO ID has been amended to correct references in the Title and Decision from foreign tax credits to foreign income tax offsets.
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a taxpayer that is a member of a United States of America (US) Limited Partnership (LP) entitled to a foreign income tax offset under section 770-10 of the Income Tax Assessment Act 1997 (ITAA 1997) for tax imposed by the US on the taxpayer's share of the profits of the LP where:
-
-
 
 •the LP is a foreign hybrid limited partnership according to section 830-10 of the ITAA 1997 solely deriving income from a US corporate limited partnership (CLP) which is not a foreign hybrid limited partnership, and
 •the taxpayer is assessable on their share of profits of the LP under section 92 of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -45,9 +39,7 @@ To the extent of this attribution account payment, the taxpayer's entitlement to
 
 770-10(1) You are entitled to a *tax offset for an income year for *foreign income tax. An amount of foreign income tax counts towards the tax offset for the year if you paid it in respect of an amount that is all or part of an amount included in your assessable income for the year.
 
-
 Note 1: The offset is for the income year in which your assessable income included an amount in respect of which you paid foreign income tax - even if you paid the foreign income tax in another year.
-
 
 As explained above, where the partnership profits are either distributed or credited to the partner's capital account, Australian tax law deems the CLP to have paid a dividend to the LP under sections 94L or 94M of the ITAA 1936. As the LP is treated as a partnership for Australian tax law purposes, such dividends are included in the LP's net income pursuant to section 90 of the ITAA 1936. This is because if the LP was itself a resident taxpayer, the dividends would be included in its assessable income under section 44 of the ITAA 1936. Accordingly, the taxpayer will then include in assessable income its interest in the net income of the LP, pursuant to section 92 of the ITAA 1936.
 Under US tax law, tax is imposed on the taxpayer's share of the partnership profits calculated for US tax purposes. US tax law treats the CLP as a partnership, rather than a company, such that the amount included in LP's partnership profits for US tax purposes is a share of the partnership profits of CLP, rather than a deemed dividend.
@@ -55,7 +47,7 @@ The LP is required to remit income tax on behalf of the taxpayer, in respect of 
 Section 770-130 of the ITAA 1997 applies to treat a taxpayer as having paid foreign income tax, in circumstances where the tax is actually paid by someone else. It provides:
 
 770-130(1) This Act applies to you as if you had paid an amount of *foreign income tax in respect of an amount (a
-              taxed amount
+ taxed amount
 ) that is all or part of an amount included in your *ordinary income or *statutory income if you are covered by subsection (2) or (3) for an amount of foreign income tax paid in respect of the taxed amount.
 
 770-130(2) You are covered by this subsection for an amount of *foreign income tax paid in respect of a taxed amount if that foreign income tax has been paid in respect of the taxed amount by another entity under an *arrangement with you or under the law relating to the foreign income tax.
@@ -75,16 +67,16 @@ However, Australia, as the country of residence of the taxpayer, treats the rele
 To the extent that the US has taxed the income in accordance with the Convention, as interpreted by it as the State of source, Australia is obliged to provide relief in respect of such tax in accordance with the machinery provisions for the granting of a foreign income tax offset under section 770-10 of the ITAA 1997.
 Accordingly, the taxpayer will be entitled to a foreign income tax offset for US taxes paid in respect of its share of the partnership income of LP, even though, for Australian tax law purposes, the taxpayer's share of the partnership profits is calculated on the basis that the LP has derived a dividend. The foreign income tax offset will be allowable in the income year in which the partnership income is assessable, whether the foreign tax was paid in the same, or an earlier, income year.
 Date of decision:
-         15 April 2010
+  15 April 2010
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
 Income Tax Assessment Act 1997   section 770-10   subsection 770-10(1)   section 770-130   section 770-135   section 830-10
 Income Tax Assessment Act 1936   section 44   Division 5A   section 90   section 92   section 94D   section 94J   section 94L   section 94M   section 472   section 485   section 485AA   section 485A   section 529   section 530   paragraph 603(1)(a)
-          International Tax Agreements Act 1953   subsection 4(1)   Schedule 2, Article 11   Schedule 2, Article 22, paragraph 2
+ International Tax Agreements Act 1953   subsection 4(1)   Schedule 2, Article 11   Schedule 2, Article 22, paragraph 2
 
 Related Public Rulings (including Determinations)
 
@@ -99,30 +91,28 @@ Other References:
 
 OECD Commentary on the Model Tax Convention on Income and on Capital (Condensed Version 2005)
 
-
 Keywords
 
 Companies
-          Complying superannuation funds
-          Double tax agreements
-          Foreign hybrid limited partnership
-          Foreign hybrids
-          Foreign income
-          Foreign investment funds
-          International tax
-          Interposed partnerships
-          Limited partnerships
-          Partnership income
-
+ Complying superannuation funds
+ Double tax agreements
+ Foreign hybrid limited partnership
+ Foreign hybrids
+ Foreign income
+ Foreign investment funds
+ International tax
+ Interposed partnerships
+ Limited partnerships
+ Partnership income
 
 Siebel/TDMS Reference Number:
-         5987428
+  5987428
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 April 2010
+  30 April 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

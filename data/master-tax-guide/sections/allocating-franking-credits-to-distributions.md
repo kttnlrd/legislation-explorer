@@ -11,13 +11,13 @@ A corporate tax entity evidences its intended allocation of franking credits to 
 
 The discussion below reﬂects the position as it is for the 2017–18 and later income years.
 
-Maximum franking credit The maximum franking credit for a distribution is equivalent to the maximum amount of income tax that the entity making the distribution could have paid on the underlying proﬁts at the entity’s corporate tax rate for imputation purposes. The maximum franking credit is worked out using the following formula (s 202-60(2)): Amount of the frankable distribution × Applicable gross-up rate For this purpose, “applicable gross-up rate” means the corporate tax gross-up rate of the entity making the distribution for the income year in which the distribution is made.
+Maximum franking credit The maximum franking credit for a distribution is equivalent to the maximum amount of income tax that the entity making the distribution could have paid on the underlying proﬁts at the entity's corporate tax rate for imputation purposes. The maximum franking credit is worked out using the following formula (s 202-60(2)): Amount of the frankable distribution × Applicable gross-up rate For this purpose, "applicable gross-up rate" means the corporate tax gross-up rate of the entity making the distribution for the income year in which the distribution is made.
 
 The corporate tax gross-up rate of an entity for an income year is the amount worked out using the following formula (ITAA97 s 995-1): 100 % – Corporate tax rate for imputation purposes of the entity for the income year
 
 *Refs: ITAA97 s 202-60(1)), s 202-60(2)), ITAA97 s 995-1)*
 
-purposes of the entity for the income year Corporate tax rate for imputation purposes For the 2017–18 and later income years the corporate tax rate for imputation purposes, of an entity for an income year, is the entity’s corporate tax rate for the income year, worked out on the assumption that the entity’s aggregated turnover, base rate entity passive income and assessable income for the income year is equal to its aggregated turnover, base rate entity passive income and assessable income for the previous income year (ITAA97 s 995-1).
+purposes of the entity for the income year Corporate tax rate for imputation purposes For the 2017–18 and later income years the corporate tax rate for imputation purposes, of an entity for an income year, is the entity's corporate tax rate for the income year, worked out on the assumption that the entity's aggregated turnover, base rate entity passive income and assessable income for the income year is equal to its aggregated turnover, base rate entity passive income and assessable income for the previous income year (ITAA97 s 995-1).
 
 *Refs: ITAA97 s 995-1)*
 

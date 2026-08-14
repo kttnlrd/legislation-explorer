@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when, for a person’s financial arrangement, section EW 32(2B) applies, and—
+**(1)**  This section applies when, for a person's financial arrangement, section EW 32(2B) applies, and—
 
 - (a) the financial arrangement is a foreign ASAP that relates to:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(2)**  This section applies when, for a person’s financial arrangement, section EW 32(2C), (2D), or (2E) applies, and—
+**(2)**  This section applies when, for a person's financial arrangement, section EW 32(2C), (2D), or (2E) applies, and—
 
 - (a) the financial arrangement is a foreign ASAP that relates to:
 

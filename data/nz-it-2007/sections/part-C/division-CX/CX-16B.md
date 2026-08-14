@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When fringe benefit arises**
 
-**(1)**  A fringe benefit arises when an employer provides a gift card to an employee, unless the employer chooses to treat it as an amount derived in connection with the employee’s employment under section CE 1 (Amounts derived in connection with employment).
+**(1)**  A fringe benefit arises when an employer provides a gift card to an employee, unless the employer chooses to treat it as an amount derived in connection with the employee's employment under section CE 1 (Amounts derived in connection with employment).
 
 **When value of benefit is employment income**
 
-**(2)**  Despite subsection (1), if the provision of the card has a purpose or effect of defeating the application of the Child Support Act 1991, the value of the benefit is an amount derived in connection with the employee’s employment under section CE 1.
+**(2)**  Despite subsection (1), if the provision of the card has a purpose or effect of defeating the application of the Child Support Act 1991, the value of the benefit is an amount derived in connection with the employee's employment under section CE 1.
 
 *Defined in this Act: amount, employee, employer, employment, fringe benefit, gift card*
 

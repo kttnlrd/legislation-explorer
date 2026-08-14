@@ -31,7 +31,7 @@ In typical cases — for example, where the acquisition does not relate to makin
 
   of the first 10 adjustment periods after acquisition.
 
-Illustration: Calculating adjustments In December 2025, Alexander buys a commercial van to use in his courier business, with the intention that 25% of the van’s use will be private. The GST-inclusive cost of the van is $66,000. Alexander is therefore entitled to an ITC of $4,500 (75% × $6,000).
+Illustration: Calculating adjustments In December 2025, Alexander buys a commercial van to use in his courier business, with the intention that 25% of the van's use will be private. The GST-inclusive cost of the van is $66,000. Alexander is therefore entitled to an ITC of $4,500 (75% × $6,000).
 
 At the end of the first annual adjustment period (30 June 2027), Alexander has in fact used the van 40% privately since purchase.
 

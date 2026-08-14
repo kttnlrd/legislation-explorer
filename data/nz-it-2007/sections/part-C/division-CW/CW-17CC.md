@@ -26,9 +26,9 @@ compilation_date: 2026-06-06
 
 - (b) despite the provision of a uniform, the employer requires the employee to wear plain clothes in the performance of their employment duties; and
 
-- (c) as at 1 July 2013, the employer’s general terms and conditions of employment or service provided for allowances for plain clothes to be paid to employees; and
+- (c) as at 1 July 2013, the employer's general terms and conditions of employment or service provided for allowances for plain clothes to be paid to employees; and
 
-- (d) historically, the plain clothes allowance was part of a larger amount paid at the time by the employer to employees in relation to the provision of plain clothes, the balance being a taxable amount that was at a later period classified as remuneration for employees then receiving the plain clothes allowance under the employer’s general terms and conditions; and
+- (d) historically, the plain clothes allowance was part of a larger amount paid at the time by the employer to employees in relation to the provision of plain clothes, the balance being a taxable amount that was at a later period classified as remuneration for employees then receiving the plain clothes allowance under the employer's general terms and conditions; and
 
 - (e) the terms and conditions referred to in paragraph (c) continue to provide for the payment of the plain clothes allowance.
 

@@ -35,7 +35,7 @@ Eligible productions
 
   cinema, such as IMAX)
 
-- a single episode program (such as a telemovie, “movie-of-the-week”, ﬁlms released direct to DVD
+- a single episode program (such as a telemovie, "movie-of-the-week", ﬁlms released direct to DVD
 
   or on the internet)
 
@@ -47,7 +47,7 @@ Eligible productions
 
   seasons of a series with episodes of at least 15 commercial minutes in duration.
 
-The oﬀset was denied in Beyond Productions Pty Ltd v Screen Australia 2011 ATC ¶10-172; [2011] AATA 39 for 2 new seasons of a television series because they had neither “signiﬁcant Australian content” nor “a new creative concept” relative to the previous seasons. The oﬀset was also denied in Fragmentary Pty Ltd v Screen Australia 2024 ATC ¶10-734; [2024] AATA 3316 as the majority of the relevant activities were conducted by the company’s sole director and shareholder prior to the company’s incorporation.
+The oﬀset was denied in Beyond Productions Pty Ltd v Screen Australia 2011 ATC ¶10-172; [2011] AATA 39 for 2 new seasons of a television series because they had neither "signiﬁcant Australian content" nor "a new creative concept" relative to the previous seasons. The oﬀset was also denied in Fragmentary Pty Ltd v Screen Australia 2024 ATC ¶10-734; [2024] AATA 3316 as the majority of the relevant activities were conducted by the company's sole director and shareholder prior to the company's incorporation.
 
 The company must incur at least the following amounts of total QAPE to be eligible for the oﬀset:
 
@@ -69,7 +69,7 @@ The company must incur at least the following amounts of total QAPE to be eligib
 
   requirement that the company must incur at least $250,000 QAPE for each hour. The oﬀset was
 
-  granted to a ﬁlm series on household management as it was a “documentary” (Screen Australia v
+  granted to a ﬁlm series on household management as it was a "documentary" (Screen Australia v
 
 EME Productions No 1 Pty Ltd 2012 ATC ¶20-304; [2012] FCAFC 19)
 
@@ -79,19 +79,19 @@ July 2024 if the season of the series contains 2 or more consecutive episodes th
 
 The government has announced that the minimum length requirements for content and the above-the-line cap of 20% for total QAPE (¶20-330) will be removed (2024–25 Budget).
 
-The normal rules about “incurring” expenditure apply (¶16-040). This means that, if a company is not under a presently existing liability nor deﬁnitively committed to the production expenditure, it will not qualify for the producer oﬀset (Creation Ministries International Ltd v Screen Australia 2015 ATC ¶10-389; [2015] AATA 250). The oﬀset was denied for expenditure under an agreement that made accumulation of suﬃcient funds by way of the producer oﬀset, sales or the existence of net proﬁts a condition precedent to payment in Quirky Mama Productions Pty Ltd v Screen Australia 2023 ATC ¶10-688; [2023] AATA 3089.
+The normal rules about "incurring" expenditure apply (¶16-040). This means that, if a company is not under a presently existing liability nor deﬁnitively committed to the production expenditure, it will not qualify for the producer oﬀset (Creation Ministries International Ltd v Screen Australia 2015 ATC ¶10-389; [2015] AATA 250). The oﬀset was denied for expenditure under an agreement that made accumulation of suﬃcient funds by way of the producer oﬀset, sales or the existence of net proﬁts a condition precedent to payment in Quirky Mama Productions Pty Ltd v Screen Australia 2023 ATC ¶10-688; [2023] AATA 3089.
 
-A company in receipt of ﬁnancial assistance from the ﬁlm authority’s Producer Equity Program for the making of a documentary ﬁlm is ineligible for the producer oﬀset for that ﬁlm.
+A company in receipt of ﬁnancial assistance from the ﬁlm authority's Producer Equity Program for the making of a documentary ﬁlm is ineligible for the producer oﬀset for that ﬁlm.
 
-A “ﬁlm” does not include an advertising program or commercial, a discussion program, a quiz program, a panel program, a variety program or a program of a like nature, a ﬁlm of a public event (other than a documentary), a training ﬁlm, a computer game, a news or current aﬀairs program or a reality program (other than a documentary).
+A "ﬁlm" does not include an advertising program or commercial, a discussion program, a quiz program, a panel program, a variety program or a program of a like nature, a ﬁlm of a public event (other than a documentary), a training ﬁlm, a computer game, a news or current aﬀairs program or a reality program (other than a documentary).
 
-As a result of the decision in EME Productions, a deﬁnition of “documentary” now applies (s 376-25).
+As a result of the decision in EME Productions, a deﬁnition of "documentary" now applies (s 376-25).
 
-A “documentary” is a creative treatment of actuality excluding “infotainment or lifestyle programs” and “magazine programs”. The TV series “Bride and Prejudice” was held not to be a documentary under the statutory deﬁnition as it was not a creative treatment of actuality (Seven Network (Operations) Ltd v Screen Australia 2019 ATC ¶10-494; [2019] AATA 798).
+A "documentary" is a creative treatment of actuality excluding "infotainment or lifestyle programs" and "magazine programs". The TV series "Bride and Prejudice" was held not to be a documentary under the statutory deﬁnition as it was not a creative treatment of actuality (Seven Network (Operations) Ltd v Screen Australia 2019 ATC ¶10-494; [2019] AATA 798).
 
 Game shows are also speciﬁcally excluded from being eligible for the tax oﬀsets as light entertainment programs (along with panel and quiz shows which are already excluded).
 
-Amount of the offset For a feature ﬁlm, the amount of the oﬀset is 40% of the total of the company’s QAPE on the ﬁlm; for all other ﬁlms, the amount of the oﬀset is 30% (20% for productions that commenced principal photography or PDV activities prior to 1 July 2021). There is no entitlement to the producer oﬀset where the ﬁlm has been granted a ﬁnal certiﬁcate for either the location oﬀset or the PDV oﬀset.
+Amount of the offset For a feature ﬁlm, the amount of the oﬀset is 40% of the total of the company's QAPE on the ﬁlm; for all other ﬁlms, the amount of the oﬀset is 30% (20% for productions that commenced principal photography or PDV activities prior to 1 July 2021). There is no entitlement to the producer oﬀset where the ﬁlm has been granted a ﬁnal certiﬁcate for either the location oﬀset or the PDV oﬀset.
 
 *Refs: s 376-25)*
 

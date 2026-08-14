@@ -13,17 +13,17 @@ Where an enterprise is sold, the purchaser commonly takes on various liabilities
 
   apportionment of rates for the period in which the sale occurs, that adjusted price is taken as the
 
-  consideration. However, if the adjustment reflects the purchaser’s assumption of a liability to pay rates
+  consideration. However, if the adjustment reflects the purchaser's assumption of a liability to pay rates
 
   already overdue by the vendor for a period ending before the time of sale, the consideration would be
 
   taken as the contract price without any adjustment. Similar rules apply to land tax and rent.
 
-- long service leave, annual leave: where there is an adjustment to reflect the purchaser’s
+- long service leave, annual leave: where there is an adjustment to reflect the purchaser's
 
   assumption of liability for long service leave of continuing employees, the adjusted price is taken as the
 
-  consideration for the business. This does not apply where there is an adjustment in the purchaser’s
+  consideration for the business. This does not apply where there is an adjustment in the purchaser's
 
   favour for accrued annual leave liabilities. The difference in treatment is because, under statute, liability
 
@@ -35,7 +35,7 @@ Where an enterprise is sold, the purchaser commonly takes on various liabilities
 
   would normally be taken to be part of the consideration, for example, where the purchaser agrees to
 
-  discharge the vendor’s existing obligation to a trade debtor, or to assume product warranty obligations
+  discharge the vendor's existing obligation to a trade debtor, or to assume product warranty obligations
 
   for defective products already sold (Example (1) below).
 
@@ -43,13 +43,13 @@ Where an enterprise is sold, the purchaser commonly takes on various liabilities
 
 These principles apply whether or not the going concern exemption applies.
 
-Retirement village arrangements Under certain arrangements for developing and selling retirement villages, the developer receives interest- free loans from incoming residents to secure their accommodation entitlements, and these loans are repayable (less deferred management fees) when the accommodation ends. Under the sale agreement, the liability to repay the outstanding loans falls on the purchaser. In GST Ruling GSTR 2011/1, the Commissioner states that: (1) the amount of that liability imposed on the purchaser should be treated as forming part of the consideration for the sale, thus increasing the amount of GST on the sale; and (2) the developer’s entitlement to input tax credits for its acquisitions depends on the extent to which the supplies it makes are taxable. This may require apportionment on a fair and reasonable basis where those supplies are a mixture of (say) input taxed leasing of residential premises and a taxable (or GST-free) supply of the village. The Commissioner will accept as fair and reasonable a method which determines the extent of non- creditable purpose for development acquisitions based on the following formula:
+Retirement village arrangements Under certain arrangements for developing and selling retirement villages, the developer receives interest- free loans from incoming residents to secure their accommodation entitlements, and these loans are repayable (less deferred management fees) when the accommodation ends. Under the sale agreement, the liability to repay the outstanding loans falls on the purchaser. In GST Ruling GSTR 2011/1, the Commissioner states that: (1) the amount of that liability imposed on the purchaser should be treated as forming part of the consideration for the sale, thus increasing the amount of GST on the sale; and (2) the developer's entitlement to input tax credits for its acquisitions depends on the extent to which the supplies it makes are taxable. This may require apportionment on a fair and reasonable basis where those supplies are a mixture of (say) input taxed leasing of residential premises and a taxable (or GST-free) supply of the village. The Commissioner will accept as fair and reasonable a method which determines the extent of non- creditable purpose for development acquisitions based on the following formula:
 
 to be obtained from making input taxed supplies of business
 
-to be obtained in respect of the arrangement For an example of impermissible use of this formula where the taxpayer had made an unreasonable estimate of the “economic benefits” component, see Case 4/2016, 2016 ATC ¶1-082. recipient makes input taxed or private supplies
+to be obtained in respect of the arrangement For an example of impermissible use of this formula where the taxpayer had made an unreasonable estimate of the "economic benefits" component, see Case 4/2016, 2016 ATC ¶1-082. recipient makes input taxed or private supplies
 
-## The ATO’s views, as set out in GST Ruling GSTR 2004/9, are as follows:
+## The ATO's views, as set out in GST Ruling GSTR 2004/9, are as follows:
 
 ## Examples
 

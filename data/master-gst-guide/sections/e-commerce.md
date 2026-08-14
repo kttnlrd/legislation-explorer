@@ -27,9 +27,9 @@ paragraph: "¶25-125"
 
 - A supply of internet access — as distinct from the content of the transmission — is potentially taxable
 
-  if the recipient will “effectively use or enjoy” the supply in Australia (¶4-100).
+  if the recipient will "effectively use or enjoy" the supply in Australia (¶4-100).
 
-- If software is downloaded “free” there may be side benefits to the supplier (eg cookies) that amount to
+- If software is downloaded "free" there may be side benefits to the supplier (eg cookies) that amount to
 
   consideration, but these may be hard to value (¶4-030).
 
@@ -37,7 +37,7 @@ paragraph: "¶25-125"
 
   (¶4-020).
 
-- For the purposes of the attribution rules, an invoice posted on a website may be “issued” (¶7-205).
+- For the purposes of the attribution rules, an invoice posted on a website may be "issued" (¶7-205).
 
 - There are guidelines for determining when electronic payments take effect for GST purposes
 
@@ -47,7 +47,7 @@ paragraph: "¶25-125"
 
 - GST-exclusive prices may be shown on websites that sell only to non-residents (¶9-240).
 
-- The “reverse charge” rules may apply where there are acquisitions from overseas, for example, where
+- The "reverse charge" rules may apply where there are acquisitions from overseas, for example, where
 
   computer services are accessed from overseas by an Australian financial institution (¶9-095; ¶9-100).
 
@@ -65,7 +65,7 @@ paragraph: "¶25-125"
 
   through online services such as Airbnb (¶11-310).
 
-- Taxi “ride-sourcing” services such as Uber that are booked through websites or smartphone apps
+- Taxi "ride-sourcing" services such as Uber that are booked through websites or smartphone apps
 
   are treated in the same way as conventional taxi services and providers must register irrespective of
 

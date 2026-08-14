@@ -3,18 +3,14 @@ ATO ID 2002/1035
 ==================================================
 
 Income Tax
-        Division 40: cost - depreciating asset
-        FOI status: may be released
-
-
+ Division 40: cost - depreciating asset
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the first element of the cost of depreciating assets purchased by the leasing partnership include the amount paid for the assets under the manufacture and supply agreement pursuant to paragraph 40-185(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -25,8 +21,6 @@ A partnership purchased various depreciating assets under a manufacture and supp
 Reasons for Decision
 The first element of cost of a depreciating asset is:
 
-
-
 •the amount specified at the last applicable item in the table in subsection 40-180(2) of the ITAA 1997; or, if no item in that table applies,
 •the amount the holder is taken to have paid to hold the asset under section 40-185 of the ITAA 1997.
 
@@ -34,18 +28,16 @@ The first element of cost is worked out as at the time when a holder starts to h
 For a number of special cases the first element of cost is attributed directly by subsection 40-180(2) of the ITAA 1997, regardless of the amount the holder paid or the value of the benefit it provided. None of the items in the table in subsection 40-180(2) of the ITAA 1997 applied in the present case.
 If the first element of cost of a depreciating asset is an amount worked out under section 40-185 of the ITAA 1997, the first element of cost is the greater of:
 
-
-
 •amounts included in assessable income because the holder started to hold a depreciating asset, or gave something to start holding it and any amount which would have been included if the holder ignored the value of any consideration given (paragraph 40-185(1)(a) of the ITAA 1997); or
 •the sum of all the applicable amounts set out in the table in paragraph 40-185(1)(b) of the ITAA 1997.
 
 The contract price paid by the leasing partnership pursuant to the manufacture and supply agreement is an amount that is taken to have been paid by it to hold a depreciating asset under Item 1 of the table in paragraph 40-185(1)(b) of the ITAA 1997.
 This item covers money paid to create a depreciating asset (e.g. labour and materials) as well as a simple purchase price. It also covers payments incidental to starting to hold the asset (e.g. stamp duty).
 Date of decision:
-         12 July 2002
+  12 July 2002
 
 Year of income:
-           2000
+  2000
 
 Legislative References:
 
@@ -54,19 +46,18 @@ Income Tax Assessment Act 1997   subsection 40-180(2)   section 40-185  
 Keywords
 
 Cost
-          Depreciating asset
-          Division 40
-          First element of cost
-
+ Depreciating asset
+ Division 40
+ First element of cost
 
 Siebel/TDMS Reference Number:
-         CW3046693-6
+  CW3046693-6
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 October 2002
+  30 October 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

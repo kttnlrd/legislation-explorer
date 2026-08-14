@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
   - (iii) the amounts the insured person is liable to pay for the money are significantly less than they would otherwise have been because of the guarantee; and
 
-  - (iv) the effect of the guarantee on the amounts payable is more than an incidental effect, or comes about as more than an incidental purpose, of the insurer’s giving the guarantee.
+  - (iv) the effect of the guarantee on the amounts payable is more than an incidental effect, or comes about as more than an incidental purpose, of the insurer's giving the guarantee.
 
 **Connection with New Zealand**
 

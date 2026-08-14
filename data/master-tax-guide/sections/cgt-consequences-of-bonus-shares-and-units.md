@@ -9,7 +9,7 @@ paragraph: "¶12-600"
 
 Special acquisition and cost base rules apply for bonus shares issued by a company and bonus units issued by the trustee of a unit trust (s 130-20). These rules do not apply to a public trading trust.
 
-Where bonus issue assessable For bonus shares, the ﬁrst element of the taxpayer’s cost base and reduced cost base includes any part of the bonus shares that is a dividend (¶4-110) or is taken to be a dividend because of a capital streaming or dividend substitution arrangement (¶4-680, ¶4-900). For bonus units, the ﬁrst element of the taxpayer’s cost base and reduced cost base includes any part of the bonus units that is assessable. The amount of calls paid on partly paid bonus shares or units also forms part of the ﬁrst element of their cost base and reduced cost base.
+Where bonus issue assessable For bonus shares, the ﬁrst element of the taxpayer's cost base and reduced cost base includes any part of the bonus shares that is a dividend (¶4-110) or is taken to be a dividend because of a capital streaming or dividend substitution arrangement (¶4-680, ¶4-900). For bonus units, the ﬁrst element of the taxpayer's cost base and reduced cost base includes any part of the bonus units that is assessable. The amount of calls paid on partly paid bonus shares or units also forms part of the ﬁrst element of their cost base and reduced cost base.
 
 Where bonus issue not assessable Where a bonus issue is not assessable and the original equities are post-CGT assets, the taxpayer is taken to have acquired the bonus equities when the original equities were acquired. In addition, the ﬁrst element of the cost base and reduced cost base of the original equities is apportioned in a reasonable way between the original and bonus equities.
 

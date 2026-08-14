@@ -7,7 +7,7 @@ paragraph: "¶8-042"
 ---
 # Authorised BAS preparers ¶8-042
 
-A national registration and regulation system governs those who are in the business of providing “BAS services” for a fee or other reward. Under the Tax Agent Services Act 2009 (TASA), these providers have to be registered with the Tax Practitioners Board (TPB) as tax agents, or as BAS agents. BAS agents have to meet minimum educational and experience tests, though at a lower level than that required of tax agents.
+A national registration and regulation system governs those who are in the business of providing "BAS services" for a fee or other reward. Under the Tax Agent Services Act 2009 (TASA), these providers have to be registered with the Tax Practitioners Board (TPB) as tax agents, or as BAS agents. BAS agents have to meet minimum educational and experience tests, though at a lower level than that required of tax agents.
 
 There are penalties for failing to comply.
 
@@ -17,9 +17,9 @@ What are BAS services?
 
 *Refs: s 20-1*
 
-- preparing or lodging a return or other approved form about a taxpayer’s liabilities, obligations or
+- preparing or lodging a return or other approved form about a taxpayer's liabilities, obligations or
 
-  entitlements under a “BAS provision” (this includes the GST, WET and LCT laws)
+  entitlements under a "BAS provision" (this includes the GST, WET and LCT laws)
 
 - giving a taxpayer advice about a BAS provision that the taxpayer can reasonably be expected to rely
 
@@ -67,15 +67,15 @@ The same applies to legal practitioners providing BAS services in the course of 
 
 The AAT does not have the jurisdiction to review a decision by the Board to grant registration for a period shorter than the standard three-year period (Kuan v Tax Practitioners Board 2013 ATC ¶10-310; [2013] AATA 254).
 
-Code of practice and “safe harbours” BAS agents are also governed by a Code of Professional Conduct (TASA, s 30-10). The Code contains various principles dealing with honesty and integrity, independence, confidentiality, competence and other responsibilities. Sanctions for breach of the Code include cautions, compulsory re-education, imposition of restrictions (such as working under supervision or providing only limited services), suspension or termination of registration (TASA, s 30-15 to 30-30).
+Code of practice and "safe harbours" BAS agents are also governed by a Code of Professional Conduct (TASA, s 30-10). The Code contains various principles dealing with honesty and integrity, independence, confidentiality, competence and other responsibilities. Sanctions for breach of the Code include cautions, compulsory re-education, imposition of restrictions (such as working under supervision or providing only limited services), suspension or termination of registration (TASA, s 30-15 to 30-30).
 
 Additional obligations under the Code, relating to matters such as ethical standards, false statements, conflicts of interest, confidentiality, records and competence, are imposed under the Tax Agent Services (Code of Professional Conduct) Determination 2024. These apply from 1 January 2025 for medium and large practitioner firms, and from 1 July 2025 for small practitioner firms of up to 100 employees.
 
 A series of Information Sheets on the expanded Code is available on the Tax Practitioners Board website.
 
-Under “safe harbour” rules, a taxpayer who uses a registered agent may, in certain circumstances, not be liable for administrative penalties for making false or misleading statements, or failing to lodge documents, where the statement or failure to lodge is attributable to the agent. Details are at ¶18-300.
+Under "safe harbour" rules, a taxpayer who uses a registered agent may, in certain circumstances, not be liable for administrative penalties for making false or misleading statements, or failing to lodge documents, where the statement or failure to lodge is attributable to the agent. Details are at ¶18-300.
 
-ATO’s BAS Agent Online Services The ATO has a portal especially for bookkeepers and other non-tax agents that provide BAS services for a fee enabling them to:
+ATO's BAS Agent Online Services The ATO has a portal especially for bookkeepers and other non-tax agents that provide BAS services for a fee enabling them to:
 
 - view client account information
 

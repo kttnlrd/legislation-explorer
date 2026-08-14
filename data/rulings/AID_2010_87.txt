@@ -3,18 +3,14 @@ ATO ID 2010/87
 ==================================================
 
 Income Tax
-        Thin capitalisation rules: Tier 1 prudential capital deductions - non-banking members
-        FOI status: may be released
-
-
+ Thin capitalisation rules: Tier 1 prudential capital deductions - non-banking members
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the head company of a consolidated group classified as an 'outward investing entity (ADI)' have to calculate, and include, in Step 3 of section 820-310 of the Income Tax Assessment Act 1997 (ITAA 1997), the 'average value ... of ... the tier 1 prudential capital deductions' of the non-banking members of the consolidated group?
@@ -25,8 +21,8 @@ A company is the head company of an income tax consolidated group.
 The consolidated group includes an Australian Authorised Deposit-Taking Institution (ADI) for the purposes of the Banking Act 1959.
 The head company is classified under subsection 820-583(7) of the ITAA 1997 as an 'outward investing entity (ADI)' for the purposes of applying Division 820 of the ITAA 1997.
 The head company's consolidated group includes non-banking members that are excluded from the 'Level 2' group of the ADI that are subject to Tier 1 capital requirements under the prudential standards determined by the Australian Prudential Regulation Authority (
-          APRA
-          ) under section 11AF of the Banking Act 1959.
+ APRA
+ ) under section 11AF of the Banking Act 1959.
 Reasons for Decision
 The head company of a consolidated group or MEC group is subject to the thin capitalisation rules in Subdivision 820-D of the ITAA 1997 if it is classified as an 'outward investing entity (ADI)' under subdivisions 820-EA, 820-FA or 820-FB of the ITAA 1997 (as applicable).
 The application of provisions in Division 820 of the ITAA 1997 is for a 'head company core purpose', within the meaning of section 701-1 of the ITAA 1997, as it is necessary to determine a taxpayer's allowable deductions in order to determine its liability for income tax (see sections 4-10 and 4-15 of the ITAA 1997).
@@ -56,12 +52,8 @@ Paragraphs 39 to 49 of APS 111 provide for 100% or 50% of the value of specified
 
 The relevant legislative context to section 820-310 of the ITAA 1997 discloses that it is expressly contemplated, and intended, that the amount of 'risk-weighted assets' in Step 1, and correspondingly, the amount of 'tier 1 prudential capital deductions' in Step 3, can be determined for any, and all, of the assets of a taxpayer treated as an 'outward investing entity (ADI)', irrespective of whether the taxpayer is subject to Tier 1 capital adequacy regulation by APRA under APS 110 and the Banking Act 1959. That relevant legislative context includes:
 
-
-
 •the application of the ADI rules in Subdivisions 820-D and 820-E of the ITAA 1997 (as the case may be) to a taxpayer that has made an election under section 820-430 of the ITAA 1997 to be treated as an ADI under Division 820. The election in Subdivision 820-EA of the ITAA 1997 is expressly premised on a taxpayer which is not a regulated bank (including a consolidated or MEC group that does not include a regulated bank) being able to determine the amount of its 'risk-weighted assets' in determining its 'safe harbour capital amount' under section 820-310 of the ITAA 1997.
 •the classification of a taxpayer as an 'outward investing entity (ADI)', if the taxpayer is otherwise not an ADI under the Banking Act 1959, if the taxpayer includes:
-
-
 
 •a single subsidiary member which is an ADI - refer to subsection 820-583(7) of the ITAA 1997; or
 •qualifying Australian branch operations (of its foreign owners) pursuant to an election under section 820-597 or 820-599 of the ITAA 1997 - refer to subsection 820-609(1) of the ITAA 1997.
@@ -88,19 +80,19 @@ What are prudential capital deductions?
 What are Tier 1 prudential capital deductions?
 
 5.39 Tier 1 prudential capital deductions are amounts that must be deducted in calculating the eligible Tier 1 capital as defined in the prudential standards. These deductions include goodwill, other intangibles assets, future income tax benefits, equity and other capital investments in associated lenders [sic] mortgage insurers. In the final step of the method statement, any Tier 1 prudential capital deductions attributable to foreign branches or subsidiaries are not added on because they are not a part of the bank's Australian operations. [
-              Schedule 2, item 67, definition of
+ Schedule 2, item 67, definition of
  '
-              Tier 1 prudential capital deduction' in subsection 995
+ Tier 1 prudential capital deduction' in subsection 995
 -
-              1(1)
+ 1(1)
 ]
 
 It is noted that, if the amount of 'tier 1 prudential capital deductions for the [head company]' in Step 3 of the Method statement in section 820-310 of the ITAA 1997 only included amounts which the banking members (if any) of the consolidated group had to deduct in determining their Tier 1 capital under the Banking Act 1959, this would result in the unintended consequence that the non-banking members of the consolidated group would be subject to a significantly more favourable thin capitalisation limit under Division 820 of the ITAA 1997 than the banking members.
 Date of decision:
-         30 March 2010
+  30 March 2010
 
 Year of income:
-           Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
+  Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
 
 Legislative References:
 
@@ -114,29 +106,27 @@ Related ATO Interpretative Decisions
 Other References:
 
 Australian Prudential Standards APS 110
-          Australian Prudential Standards APS 111
-           Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Bill 2001
-
+ Australian Prudential Standards APS 111
+ Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Bill 2001
 
 Keywords
 
 Banking & finance segment
-          Consolidation
-          Financial services industry regulation & supervision
-          International tax
-          Outward investing entity
-          Single entity rule
-          Thin capitalisation
-
+ Consolidation
+ Financial services industry regulation & supervision
+ International tax
+ Outward investing entity
+ Single entity rule
+ Thin capitalisation
 
 Siebel/TDMS Reference Number:
-         6166837
+  6166837
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         16 April 2010
+  16 April 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

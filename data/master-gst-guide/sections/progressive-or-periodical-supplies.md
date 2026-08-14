@@ -15,6 +15,6 @@ In effect, this means that the GST component is worked out on a proportional tim
 
 This rule will typically apply to leases, hiring arrangements, club memberships, subscriptions, insurance policies, power bills and maintenance or service contracts. It may also apply to certain types of travel passes or access rights (¶19-200).
 
-However, the rule does not apply to “long-term” leases, ie supplies by way of lease, hire or licence for at least 50 years, where there is no reasonable expectation that they will terminate before then. If a long-term lease was granted before 1 July 2000, it is not subject to GST at all (¶19-200).
+However, the rule does not apply to "long-term" leases, ie supplies by way of lease, hire or licence for at least 50 years, where there is no reasonable expectation that they will terminate before then. If a long-term lease was granted before 1 July 2000, it is not subject to GST at all (¶19-200).
 
 Detailed guidelines for calculating the GST on periodic or progressive contracts are given in GST Bulletin GSTB 2000/4.

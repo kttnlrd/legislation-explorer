@@ -7,9 +7,9 @@ paragraph: "¶4-460"
 ---
 # Distributions by corporate tax entities ¶4-460
 
-The core of the imputation system is the attachment of tax credits to distributions paid by corporate tax entities (called “franking”) in order to pass on to members the beneﬁt of the tax paid at the corporate tax entity level. This eliminates double taxation (at the entity level and the investor level).
+The core of the imputation system is the attachment of tax credits to distributions paid by corporate tax entities (called "franking") in order to pass on to members the beneﬁt of the tax paid at the corporate tax entity level. This eliminates double taxation (at the entity level and the investor level).
 
-A “distribution” is deﬁned in relation to the type of corporate tax entity that makes the distribution (ITAA97 s 960-120):
+A "distribution" is deﬁned in relation to the type of corporate tax entity that makes the distribution (ITAA97 s 960-120):
 
 - a distribution by a company is a dividend, or something that is taken to be a dividend, under the
 

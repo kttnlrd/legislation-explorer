@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 - (a) the amount of depreciation loss results from a calculation made for the motor vehicle under section EE 48(2) (Effect of disposal or event); and
 
-- (b) the person’s amount of depreciation loss for the motor vehicle was, at a time when the person owned it, calculated under subsection (5).
+- (b) the person's amount of depreciation loss for the motor vehicle was, at a time when the person owned it, calculated under subsection (5).
 
 **Calculation of deduction: depreciation loss on disposal**
 
@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 - (c) base value has the applicable one of the meanings in sections EE 57 to EE 60 (which relate to base value):
 
-- (d) adjusted tax value is the vehicle’s adjusted tax value on the date on which the disposal or event occurs.
+- (d) adjusted tax value is the vehicle's adjusted tax value on the date on which the disposal or event occurs.
 
 **When subsection (11) applies**
 

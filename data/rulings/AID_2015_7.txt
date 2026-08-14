@@ -3,18 +3,13 @@ ATO ID 2015/7
 ==================================================
 
 Income tax / Superannuation
-        Foreign currency translation rules in working out 'applicable fund earnings' under section 305-75 of the ITAA 1997
-
-
-
+ Foreign currency translation rules in working out 'applicable fund earnings' under section 305-75 of the ITAA 1997
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 What is the correct rule for translating foreign currency into Australian dollars (AUD) for the purposes of working out an individual's 'applicable fund earnings' in relation to a superannuation lump sum under section 305-75 of the Income Tax Assessment Act 1997 (ITAA 1997) when an individual receives a superannuation lump sum from a foreign superannuation fund to which section 305-70 of the ITAA 1997 applies?
@@ -55,7 +50,6 @@ Item 11A in that table, which is inserted into the table by subregulation 960-50
 Item 11A applies to an amount (other than an amount of a receipt or a payment) to which none of the earlier items of the table apply. Again, item 7 of the table is not relevant here because the relevant amounts to be translated are elements in the calculation of another amount (applicable fund earnings), which itself is an element in the calculation of a statutory income amount, as opposed to being statutory income themselves. Amounts used in the method statements set out in subsections 305-75(2) and 305-75(3) of the ITAA 1997 are not receipts or payments.
 Item 11A requires that an amount to which it applies is to be translated into Australian currency at an exchange rate that is reasonable having regard to the circumstances. The Commissioner considers that, in the circumstances of this case, the exchange rate at which it is reasonable to translate amounts used in the method statements set out in subsections 305-75(2) and (3) of the ITAA 1997 into Australian currency is the exchange rate applicable at the time of receipt of the relevant superannuation lump sum given that, as mentioned above:
 
-
 • in essence, the amount of applicable fund earnings in relation to a superannuation lump sum to which section 305-70 of the ITAA 1997 applies is the part of the lump sum that is attributable to earnings that have accrued to the individual in the foreign superannuation fund during the period the individual is an Australian resident;• a comparison must be made between the amount of a superannuation lump sum to which section 305-70 applies and the amount of the individual's applicable fund earnings in relation to that lump sum to determine the amount included in the assessable income of the individual under subsection 305-70(2) of the ITAA 1997; and• the amount of a superannuation lump sum to which section 305-70 applies is to be translated to Australian currency at the exchange rate applicable at the time of its receipt.
 
 Conclusion
@@ -63,25 +57,21 @@ Conclusion
 As mentioned above, the application of subsection 305-75(3) of the ITAA 1997 in this case results in the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum being the amount in the UK fund that was vested in the individual at the time of the lump sum payment minus the amount in the UK fund that was vested in the individual just before the day they became an Australia resident.
 The amount in the UK fund that was vested in the individual when the relevant superannuation lump sum was paid (before any deduction for foreign income tax - see paragraph 305-75(3)(b) of the ITAA 1997) as translated into AUD on the day of receipt of that lump sum is:
 
-
 GBP 73,450 ÷ 0.5766 = AUD 127,384
 
 The amount in the UK fund that was vested in the individual just before the day they became an Australian resident (see subparagraph 305-75(3)(a)(i) of the ITAA 1997) as translated into AUD on the day of receipt of the relevant superannuation lump sum is:
-
 
 GBP 58,880 ÷ 0.5766 = AUD 102,115
 
 Therefore, the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum is:
 
-
 AUD 127,384 - AUD 102,115 = AUD 25,269
 
-
 Date of decision:
-         11 December 2014
+  11 December 2014
 
 Year of income:
-           2014-15
+  2014-15
 
 Legislative References:
 
@@ -97,20 +87,19 @@ Related ATO Interpretative Decisions
 Keywords
 
 Superannuation
-          Superannuation benefits
-          Superannuation benefits from foreign superannuation funds
-          Applicable fund earnings
-          Foreign currency exchange
-
+ Superannuation benefits
+ Superannuation benefits from foreign superannuation funds
+ Applicable fund earnings
+ Foreign currency exchange
 
 Siebel/TDMS Reference Number:
-         1-66NO610
+  1-66NO610
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         13 February 2015
+  13 February 2015
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -8,16 +8,16 @@ paragraph: "None"
 # 6-400 - Composite items identifying the relevant depreciating asset for capital allowances purposes
 
 purposes
-Worked example: Composite items — identifying the relevant depreciating asset for capital allowances purposes Issue In August 2024, Richard Davison buys a second had car for his sales manager to drive. The cost of the car, a Hyundai i-35, is $19,500, ex GST. Shortly after the purchase, in October 2024, Richard pays for the post- manufacture installation of a GPS unit in the car. The car was a basic model and did not come with fitted GPS as standard however the car has the capability to have a GPS unit fitted to operate through the console display system. The cost of the GPS system is $775, ex GST. Richard wishes to depreciate the 2 assets (the car and the GPS system) separately as this will mean that he can claim the instant asset write-off, which will be beneficial to the business’s cashflow. Advise Richard’s accountant how the car and the GPS should be depreciated. Should he separately depreciate them or should they all be regarded as one asset and depreciated accordingly? Richard’s business had a turnover for the year of $3 million and chooses to use the simplified depreciation rules. Solution Where an asset consists of a number of components, it is necessary to determine whether that larger asset is it itself a depreciating asset, or whether one or more of its components are separate depreciating assets. This is relevant when working out the low value pools, ie the cost (or opening adjustable value) of the relevant “depreciating asset” must be less than $1,000. In addition, as Richard demonstrates, this will also be relevant when testing an asset’s eligibility for the instant asset write-off for small businesses (which is only available for assets costing up to $20,000 for the 2024–25 year). Taxation Ruling 2024/1 sets out the Commissioner’s views on the relevant principles to assist in determining:
+Worked example: Composite items — identifying the relevant depreciating asset for capital allowances purposes Issue In August 2024, Richard Davison buys a second had car for his sales manager to drive. The cost of the car, a Hyundai i-35, is $19,500, ex GST. Shortly after the purchase, in October 2024, Richard pays for the post- manufacture installation of a GPS unit in the car. The car was a basic model and did not come with fitted GPS as standard however the car has the capability to have a GPS unit fitted to operate through the console display system. The cost of the GPS system is $775, ex GST. Richard wishes to depreciate the 2 assets (the car and the GPS system) separately as this will mean that he can claim the instant asset write-off, which will be beneficial to the business's cashflow. Advise Richard's accountant how the car and the GPS should be depreciated. Should he separately depreciate them or should they all be regarded as one asset and depreciated accordingly? Richard's business had a turnover for the year of $3 million and chooses to use the simplified depreciation rules. Solution Where an asset consists of a number of components, it is necessary to determine whether that larger asset is it itself a depreciating asset, or whether one or more of its components are separate depreciating assets. This is relevant when working out the low value pools, ie the cost (or opening adjustable value) of the relevant "depreciating asset" must be less than $1,000. In addition, as Richard demonstrates, this will also be relevant when testing an asset's eligibility for the instant asset write-off for small businesses (which is only available for assets costing up to $20,000 for the 2024–25 year). Taxation Ruling 2024/1 sets out the Commissioner's views on the relevant principles to assist in determining:
 • whether a composite item is itself a depreciating asset or whether its components are separate
 depreciating assets for the purposes of Div 40 (although it is also relevant to the simplified depreciation
 rules in Subdiv 328-D), and
-• whether an “interest in an underlying asset” for the purposes of s 40-35 requires an entity to have an
+• whether an "interest in an underlying asset" for the purposes of s 40-35 requires an entity to have an
 interest in all parts of a composite item that is itself a depreciating asset, or whether an interest in any
 part of the asset is enough.
 TR 2024/1 sets out the 5 guiding principles to be applied in identifying relevant depreciating assets. It also
-acknowledges that no single guiding principle is determinative and that “every enquiry requires the exercise
-of judgment in the prevailing factual circumstances”.
+acknowledges that no single guiding principle is determinative and that "every enquiry requires the exercise
+of judgment in the prevailing factual circumstances".
 The 5 guiding principles are summarised in the table below:
 Guiding Principle                                                                Example
 1      Separate identifiable function - the depreciating                               A warehouse purchases storage racks to make up a
@@ -62,8 +62,8 @@ In the case of a modification after manufacture, the expenditure on materials an
 an amount paid to bring the asset to its present condition and included in the second element of the cost of
 the car.
 However, if Richard purchased a portable GPS, that GPS would retain its separate function to that of
-the car. This is irrespective of whether he plugs the GPS into the car’s power outlet or not. The GPS
-would be a separate depreciating asset to the car. The GPS’s function is as a navigation system. It was
+the car. This is irrespective of whether he plugs the GPS into the car's power outlet or not. The GPS
+would be a separate depreciating asset to the car. The GPS's function is as a navigation system. It was
 purchased separately from the car, it is removable from the car, and it may be operated in other vehicles or
 independently of vehicles.
 In this case, therefore, where the GPS unit is subsumed into the vehicle and is not removable, it is part of
@@ -74,7 +74,7 @@ depreciation purposes is $20,250, which is higher than the instant asset write-o
 Therefore, the cost of the composite asset must be pooled with any other higher cost assets (those with
 a cost equal to or more than the instant asset write-off threshold) and depreciation should be claimed as
 follows:
-• a 15% deduction in the year Richard’s business starts to use it or has it installed ready for use (ie the
+• a 15% deduction in the year Richard's business starts to use it or has it installed ready for use (ie the
 year ended 30 June 2025)
 • a 30% deduction each year after the first year
 

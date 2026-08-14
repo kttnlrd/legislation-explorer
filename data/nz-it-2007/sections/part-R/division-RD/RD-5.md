@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
   - (ivb) an amount of income described in section RD 3C(4):
 
-  - (v) an employer’s superannuation contribution other than a contribution referred to in subsection (9):
+  - (v) an employer's superannuation contribution other than a contribution referred to in subsection (9):
 
   - (vi) a payment excluded by regulations made under this Act.
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 - (b) not an employee under that section because their employment status is determined as other than an employee under another Act.
 
-**Employees’ expenditure on account**
+**Employees' expenditure on account**
 
 **(2)**  A payment of expenditure on account of an employee is included in their salary or wages.
 
@@ -90,17 +90,17 @@ compilation_date: 2026-06-06
 
 - (b) a main benefit:
 
-- (bb) a veteran’s pension, other than a veteran’s pension paid under section 182 of the Veterans’ Support Act 2014:
+- (bb) a veteran's pension, other than a veteran's pension paid under section 182 of the Veterans' Support Act 2014:
 
 - (bc) New Zealand superannuation, other than New Zealand superannuation paid under section 26(2)﻿(b) of the New Zealand Superannuation and Retirement Income Act 2001:
 
-- (bd) a retirement lump sum paid under Part 5, subpart 7 of the Veterans’ Support Act 2014:
+- (bd) a retirement lump sum paid under Part 5, subpart 7 of the Veterans' Support Act 2014:
 
-- (be) weekly income compensation paid under Part 3, subpart 4 of the Veterans’ Support Act 2014:
+- (be) weekly income compensation paid under Part 3, subpart 4 of the Veterans' Support Act 2014:
 
-- (bf) weekly compensation paid under Part 4, subpart 5 of the Veterans’ Support Act 2014:
+- (bf) weekly compensation paid under Part 4, subpart 5 of the Veterans' Support Act 2014:
 
-- (bg) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of the Veterans’ Support Act 2014:
+- (bg) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of the Veterans' Support Act 2014:
 
 - (bh) the amount of an honorarium that is paid by Fire and Emergency New Zealand to a volunteer as defined in section CW 62B(4) (Voluntary activities):
 
@@ -116,13 +116,13 @@ compilation_date: 2026-06-06
 
 **Cash contributions**
 
-**(9)**  An amount of an employer’s superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 is included in salary or wages.
+**(9)**  An amount of an employer's superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 is included in salary or wages.
 
 **Unrepaid PAYE income overpayments**
 
 **(10)**  An unrepaid PAYE income overpayment that is treated as salary or wages under section RD 8B(2)﻿(a) is included in salary or wages.
 
-*Defined in this Act: accident compensation earnings-related payment, accommodation, amount, de facto partner, employee, employer’s superannuation cash contribution, employer’s superannuation contribution, employment, exempt income, expenditure on account of an employee, extra pay, income, main benefit, New Zealand superannuation, pay, salary or wages, schedular payment, unrepaid PAYE income overpayment, veteran’s pension*
+*Defined in this Act: accident compensation earnings-related payment, accommodation, amount, de facto partner, employee, employer's superannuation cash contribution, employer's superannuation contribution, employment, exempt income, expenditure on account of an employee, extra pay, income, main benefit, New Zealand superannuation, pay, salary or wages, schedular payment, unrepaid PAYE income overpayment, veteran's pension*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

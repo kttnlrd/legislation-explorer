@@ -2,24 +2,24 @@
 act: "Australian Master GST Guide"
 part: "03"
 section: "only-entities-can-be-registered"
-title: "Only “entities” can be registered"
+title: "Only "entities" can be registered"
 paragraph: "¶3-015"
 ---
-# Only “entities” can be registered ¶3-015
+# Only "entities" can be registered ¶3-015
 
 - an individual or natural person
 
-- a “body corporate”. This includes a company, building society, credit union, trade union, statutory
+- a "body corporate". This includes a company, building society, credit union, trade union, statutory
 
   body, strata title body corporate (¶11-200), municipal council, incorporated association, and certain
 
   governing bodies of various religious institutions (Miscellaneous Taxation Ruling MT 2006/1)
 
-- a “corporation sole”. This is a corporation consisting of one person and that person’s successors to a
+- a "corporation sole". This is a corporation consisting of one person and that person's successors to a
 
   particular position, for example, a bishopric
 
-- a “body politic”, ie a government. Government departments are technically not entities but can be
+- a "body politic", ie a government. Government departments are technically not entities but can be
 
   separately registered (¶3-080)
 
@@ -35,13 +35,13 @@ To qualify, something more than a common aim or purpose is necessary. Typical ch
 
 Non-charitable public ancillary and prescribed private funds (¶15-000) may also register and operate as enterprises for GST purposes.
 
-Types of partnership A partnership means an association of persons carrying on business as partners (a “general law” partnership) and also an association of persons who simply are in receipt of income jointly (a “tax law” partnership). Both are registrable “entities” for GST purposes. The ATO accepts that, for GST purposes, a mere change of membership of a general law partnership does not mean that the old partnership is terminated and a new partnership entity is created, provided there is a continuity clause and no substantial change in the partnership business (GST Ruling GSTR 2003/13). In contrast, any change in the membership of a tax law partnership terminates the partnership (GST Ruling GSTR 2004/6; see also Russell v FC of T [2009] FCA 1224).
+Types of partnership A partnership means an association of persons carrying on business as partners (a "general law" partnership) and also an association of persons who simply are in receipt of income jointly (a "tax law" partnership). Both are registrable "entities" for GST purposes. The ATO accepts that, for GST purposes, a mere change of membership of a general law partnership does not mean that the old partnership is terminated and a new partnership entity is created, provided there is a continuity clause and no substantial change in the partnership business (GST Ruling GSTR 2003/13). In contrast, any change in the membership of a tax law partnership terminates the partnership (GST Ruling GSTR 2004/6; see also Russell v FC of T [2009] FCA 1224).
 
 The ATO considers that a tax law partnership commences when the persons associate and carry on the activity from which the income will be received — this means, for example, that it can claim input tax credits on the acquisition of the property from which income may be derived jointly (GST Ruling GSTR 2004/6).
 
-As to whether an enterprise is being carried on by the partnership or by the partners themselves, see ¶3-020. For the ATO’s views on supplies by partners and partnerships, see ¶4-010.
+As to whether an enterprise is being carried on by the partnership or by the partners themselves, see ¶3-020. For the ATO's views on supplies by partners and partnerships, see ¶4-010.
 
-A mere joint venture which does not involve a partnership or the creation of a separate entity is not itself an “entity”. These ventures are called non-entity joint ventures. They typically involve a contractual arrangement to jointly control an economic activity in order to obtain individual benefits, as distinct from joint or collective profitability.
+A mere joint venture which does not involve a partnership or the creation of a separate entity is not itself an "entity". These ventures are called non-entity joint ventures. They typically involve a contractual arrangement to jointly control an economic activity in order to obtain individual benefits, as distinct from joint or collective profitability.
 
 For example, a property development arrangement was held to be carried on by a partnership, not simply as a non-entity joint venture, where there was:
 
@@ -59,9 +59,9 @@ For example, a property development arrangement was held to be carried on by a p
 
 Trusts Both the trust and the trustee may be treated as entities (s 184-1(1), (2)). The reason for this is apparently that a trust is not a legal person in its own right and cannot have legal rights or obligations. The ATO interprets this as meaning that the relevant entity is the trust, with the trustee standing as that entity when a legal person is required, eg for transferring property or signing documentation (GST Ruling GSTR 2006/1).
 
-Accordingly, it considers that the registration should be in the name of the trustee. A public company acting as the “responsible entity” of a managed investment scheme was held to be entitled to register on this basis (Interpretative Decision ID 2007/7).
+Accordingly, it considers that the registration should be in the name of the trustee. A public company acting as the "responsible entity" of a managed investment scheme was held to be entitled to register on this basis (Interpretative Decision ID 2007/7).
 
-For the ATO’s views on supplies by trustees, see ¶4-010. For the liability of trustees, see ¶18-270. For the treatment of Investor Directed Portfolio Services (IDPSs), see ATO GST Industry Issues — Financial Services: Issues 13.3 and 13.4.
+For the ATO's views on supplies by trustees, see ¶4-010. For the liability of trustees, see ¶18-270. For the treatment of Investor Directed Portfolio Services (IDPSs), see ATO GST Industry Issues — Financial Services: Issues 13.3 and 13.4.
 
 Other aspects A body that acts in various capacities can be treated as constituting different entities for GST purposes.
 

@@ -35,7 +35,7 @@ Eligible purposes The venture must be for any of the following purposes, or for 
 
   been devised to exploit this category by using non-taxable intra-venture transfers to prevent residential
 
-  premises from being “new”, with the intended result that subsequent sales are not subject to GST. The
+  premises from being "new", with the intended result that subsequent sales are not subject to GST. The
 
 ATO considers that these arrangements are ineffective on various grounds (GST Ruling GSTR 2004/3) and specific counter-measures now apply in any event (¶11-020), along with measures designed to prevent exploitation of the margin rules (¶11-140).
 

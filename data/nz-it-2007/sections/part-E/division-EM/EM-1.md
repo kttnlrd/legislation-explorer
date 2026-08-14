@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Application of this subpart**
 
-**(1)**  This subpart applies to determine the income and expenditure for a person’s hedges, to the extent to which their hedges have a fair dividend rate hedge portion (see: subsection (2) below, and sections EM 5 to EM 7), and their hedges hedge—
+**(1)**  This subpart applies to determine the income and expenditure for a person's hedges, to the extent to which their hedges have a fair dividend rate hedge portion (see: subsection (2) below, and sections EM 5 to EM 7), and their hedges hedge—
 
 - (a) Australian non-attributing shares for which—
 
-  - (i) amounts derived from disposal would be either excluded income of the person under section CX 55 (Proceeds from disposal of investment shares), or the person’s capital receipt; and
+  - (i) amounts derived from disposal would be either excluded income of the person under section CX 55 (Proceeds from disposal of investment shares), or the person's capital receipt; and
 
   - (ii) the person determines the market value for each of a number of periods making up the income year:
 
@@ -36,19 +36,19 @@ compilation_date: 2026-06-06
 
 - (c) section EM 4 provides rules for elections to choose that eligible hedges are subject to this subpart by applying either a hedge-by-hedge method or the portfolio method:
 
-- (d) section EM 5 provides the hedge-by-hedge methods to calculate fair dividend rate hedge portions for a person’s eligible hedges:
+- (d) section EM 5 provides the hedge-by-hedge methods to calculate fair dividend rate hedge portions for a person's eligible hedges:
 
-- (db) section EM 5B provides the portfolio method to calculate fair dividend rate hedge portions for a person’s eligible hedges:
+- (db) section EM 5B provides the portfolio method to calculate fair dividend rate hedge portions for a person's eligible hedges:
 
-- (e) section EM 6 provides the calculation to determine the income and expenditure for a person’s fair dividend rate hedge portions:
+- (e) section EM 6 provides the calculation to determine the income and expenditure for a person's fair dividend rate hedge portions:
 
-- (f) section EM 7 provides a quarterly test of the person’s fair dividend rate hedge portions, and provides rules that apply if the value of hedge portions to eligible hedged assets exceeds 1.05, including a rule to not apply this subpart:
+- (f) section EM 7 provides a quarterly test of the person's fair dividend rate hedge portions, and provides rules that apply if the value of hedge portions to eligible hedged assets exceeds 1.05, including a rule to not apply this subpart:
 
 - (g) section EM 8 provides some definitions for this subpart.
 
 **Relationship with financial arrangements rules**
 
-**(3)**  This subpart, and not subpart EW (Financial arrangements rules), determines a person’s income and expenditure for their fair dividend rate hedge portions. However, subpart EW determines a person’s income and expenditure for the portion of a hedge that is not a fair dividend rate hedge portion.
+**(3)**  This subpart, and not subpart EW (Financial arrangements rules), determines a person's income and expenditure for their fair dividend rate hedge portions. However, subpart EW determines a person's income and expenditure for the portion of a hedge that is not a fair dividend rate hedge portion.
 
 *Defined in this Act: attributing interests, Australian non-attributing shares, eligible hedge, excluded income, fair dividend rate hedge portion, fair dividend rate method, FIF, hedge, income*
 

@@ -3,23 +3,18 @@ ATO ID 2003/523
 ==================================================
 
 Income Tax
-        Superannuation, retirement and employment termination: interpretation of the term 'years of service'
-        FOI status: may be released
-
+ Superannuation, retirement and employment termination: interpretation of the term 'years of service'
+ FOI status: may be released
 
 This ATO ID has been withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of subsection 27A(19) of the Income Tax Assessment Act 1936 (ITAA 1936), how are 'years of service' calculated where an employee has taken periods of leave without pay?
@@ -27,13 +22,11 @@ Decision
 For the purposes of subsection 27A(19) of the ITAA 1936, 'years of service' are the number of whole years in the eligible service period (ESP) of the eligible termination payment (ETP).
 This approach can be summarised as a three step calculation.
 
-
 Step 1: calculate the ESP of the ETP;Step 2: divide the answer in Step 1 by 365; andStep 3: where the result of Step 2 is not a whole number, round the result down to the nearest whole number.
 
 Facts
 The employee commenced employment on 1 April 1993.
 The employee took leave without pay at the following intervals:
-
 
 1 December 1996 to 30 June 1997;1 October 1999 to 31 March 2000; and1 February 2001 to 31 July 2001.
 
@@ -46,17 +39,16 @@ The definition of 'years of service' in subsection 27A(19) states:
 This definition can be truncated to refer to 'the number of whole years in the aggregate of the periods'. Consequently, the periods of paid employment are aggregated first. The number of whole years within that aggregation determines the 'years of service.'
 From the earlier facts, the employee's eligible service period is:
 
-
 1 April 1993 to 30 November 1996 - (1340 days)1 July 1997 to 30 September 1999 - (822 days)1 April 2000 to 31 January 2001 - (306 days)1 August 2001 to 1 December 2001 - (123 days)
 
 The combined period of service is 2591 days, or approximately 7.1 years, meaning 7 'years of service' for the purposes of subsection 27A(19) of the ITAA 1936.
 Any alternative interpretations of the definition would have unintended results, and could easily discriminate against employees who have taken periods of leave without pay.
 For example, an alternative method applied to the above facts is to calculate the number of whole years within each period of employment. This would result in 5 'years of service' (being 3 + 2 + 0 + 0), which would disadvantage an employee. As this is not the intention of the legislation, this method is not adopted by the ATO.
 Date of decision:
-         18 February 2003
+  18 February 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -65,30 +57,26 @@ Income Tax Assessment Act 1936   subsection 27A(1)   subsection 27A(19)
 Keywords
 
 Eligible termination payments
-          Redundancy or early retirement scheme payments
-          Approved early retirement scheme payments
-          ETP service period
-
+ Redundancy or early retirement scheme payments
+ Approved early retirement scheme payments
+ ETP service period
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         4 July 2003
+  4 July 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 18 February 2003

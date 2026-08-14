@@ -17,15 +17,15 @@ For gaseous fuels (¶40-100), the road user charge eﬀectively reduces the cred
 
 For blended fuels, except where the blend is treated as entirely petrol or diesel (¶40-100), fuel tax credits apply to the extent that the blend is taxable, ie petrol or diesel. The road user charge applies to the entire quantity of fuel, irrespective of the amount of the renewable component.
 
-Where public road use is incidental to main use The rate of credit for these vehicles is not reduced by the road user charge if the vehicle’s travel on a public road is only incidental to the vehicle’s main use (FTA s 43-10).
+Where public road use is incidental to main use The rate of credit for these vehicles is not reduced by the road user charge if the vehicle's travel on a public road is only incidental to the vehicle's main use (FTA s 43-10).
 
-A vehicle’s “main use” is a question of fact, to be decided on the facts and circumstances of each case.
+A vehicle's "main use" is a question of fact, to be decided on the facts and circumstances of each case.
 
 *Refs: s 43-10)*
 
 - the purpose for which the vehicle is designed
 
-- any speciﬁc alterations or modiﬁcations which make the vehicle’s use diﬀerent from the use for
+- any speciﬁc alterations or modiﬁcations which make the vehicle's use diﬀerent from the use for
 
   which it was originally designed
 
@@ -35,17 +35,17 @@ A vehicle’s “main use” is a question of fact, to be decided on the facts a
 
   operation, compared to the time or distance spent in carrying out other operations, and
 
-- the nature of the entity’s enterprise (FTR 2008/1).
+- the nature of the entity's enterprise (FTR 2008/1).
 
   Example 1: concrete truck
 
-A company uses a concrete truck to transport concrete from its premises to construction sites of its customers. During the journey, the plastic state of the concrete is maintained by agitation. The ATO would consider that the “main use” of the concrete truck includes using public roads to transport concrete in its plastic state. The travel on the public roads is therefore integral, not incidental, to the main use of the vehicle. The fuel tax credit rate for this travel would therefore be reduced by road user charge.
+A company uses a concrete truck to transport concrete from its premises to construction sites of its customers. During the journey, the plastic state of the concrete is maintained by agitation. The ATO would consider that the "main use" of the concrete truck includes using public roads to transport concrete in its plastic state. The travel on the public roads is therefore integral, not incidental, to the main use of the vehicle. The fuel tax credit rate for this travel would therefore be reduced by road user charge.
 
-Example 2: harvester A farmer carries on business on an agricultural property. A public road separates parts of the property. The farmer uses a harvester it owns to harvest crops on its farm. In the course of harvesting, the harvester travels 2 kilometres on the public road to get from one part of the property to another. The ATO would consider that the harvester’s main use is to harvest crops, and that it only travels on the public road to go from one part of the farm to another during the course of harvesting. The travel on the public roads is insubstantial in extent, and occurs in the course of the harvester’s oﬀ-road use. The travel on the public road is therefore incidental to the harvester’s main use and would not aﬀect the amount of the fuel tax credit. As the activity is an eligible agricultural activity (¶40-300), the credit would be allowed at the full rate. For the ATO’s views on what a motor vehicle is and when a motor vehicle is used “primarily” on an agricultural property, see FTD 2019/1.
+Example 2: harvester A farmer carries on business on an agricultural property. A public road separates parts of the property. The farmer uses a harvester it owns to harvest crops on its farm. In the course of harvesting, the harvester travels 2 kilometres on the public road to get from one part of the property to another. The ATO would consider that the harvester's main use is to harvest crops, and that it only travels on the public road to go from one part of the farm to another during the course of harvesting. The travel on the public roads is insubstantial in extent, and occurs in the course of the harvester's oﬀ-road use. The travel on the public road is therefore incidental to the harvester's main use and would not aﬀect the amount of the fuel tax credit. As the activity is an eligible agricultural activity (¶40-300), the credit would be allowed at the full rate. For the ATO's views on what a motor vehicle is and when a motor vehicle is used "primarily" on an agricultural property, see FTD 2019/1.
 
 The amount of fuel tax credit for taxable fuel used in a vehicle on a public road (Linfox Australia [2019] FCAFC 131; ATO Decision Impact Statement on Linfox) for idling and cabin air-conditioning is reduced by the amount of the road user charge (FTD 2016/1; Linfox Australia [2019] AATA 222). However, the credit for fuel used for the refrigeration unit attached to a truck was not reducible by the road user charge, as the fuel was used for refrigeration and not for propelling the vehicle (Linfox Australia [2012] AATA 517; FTR 2008/1).
 
-The ATO has released “safe harbour” rates that it considers to be fair and reasonable for determining credits for fuel used in powering such auxiliary equipment (PCG 2016/11).
+The ATO has released "safe harbour" rates that it considers to be fair and reasonable for determining credits for fuel used in powering such auxiliary equipment (PCG 2016/11).
 
 ## Relevant factors include:
 

@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "5"
 division_title: "Court appeals against objection decisions"
 subdivision: ""
@@ -29,7 +29,7 @@ source_pdf: "vol01.pdf"
 **(2)**  Subject to subsection (3), if the proceeding is transferred to the Federal Circuit and Family Court of Australia (Division 1):
 
 > <a id="s14ZZS-2-a"></a>
-> **(a)**  the Federal Circuit and Family Court of Australia (Division 1) has jurisdiction to hear and determine the proceeding; and Authorised Version C2026C00170 registered 28/04/2026
+> **(a)**  the Federal Circuit and Family Court of Australia (Division 1) has jurisdiction to hear and determine the proceeding; and
 
 > <a id="s14ZZS-2-b"></a>
 > **(b)**  the Federal Circuit and Family Court of Australia (Division 1) also has jurisdiction to hear and determine matters not otherwise within its jurisdiction (whether because of paragraph (a) or otherwise):
@@ -62,13 +62,13 @@ source_pdf: "vol01.pdf"
 > **(f)**  subject to paragraphs (a) to (e) (inclusive), this Act, the regulations, the Federal Court of Australia Act 1976, the Rules of the Court made under that Act, and other laws of the Commonwealth, apply in and in relation to the proceeding as if:
 
 > > <a id="s14ZZS-2-f-i"></a>
-> > **(i)**  a reference to the Federal Court (other than in the expression “the Court or a Judge”) included a reference Authorised Version C2026C00170 registered 28/04/2026 to the Federal Circuit and Family Court of Australia (Division 1); and
+> > **(i)**  a reference to the Federal Court (other than in the expression "the Court or a Judge") included a reference to the Federal Circuit and Family Court of Australia (Division 1); and
 
 > > <a id="s14ZZS-2-f-ii"></a>
-> > **(ii)**  a reference to a Judge of the Federal Court (other than in the expression “the Court or a Judge”) included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1); and
+> > **(ii)**  a reference to a Judge of the Federal Court (other than in the expression "the Court or a Judge") included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1); and
 
 > > <a id="s14ZZS-2-f-iii"></a>
-> > **(iii)**  a reference to the expression “the Court or a Judge” when used in relation to the Federal Court included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1) sitting in Chambers; and
+> > **(iii)**  a reference to the expression "the Court or a Judge" when used in relation to the Federal Court included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1) sitting in Chambers; and
 
 > > <a id="s14ZZS-2-f-iv"></a>
 > > **(iv)**  a reference to a Registrar of the Federal Court included a reference to a Registrar of the Federal Circuit and Family Court of Australia (Division 1); and
@@ -80,7 +80,7 @@ source_pdf: "vol01.pdf"
 **(3)**  If any difficulty arises in the application of paragraphs (2)(c), (d) and (f) in or in relation to a particular proceeding, the Federal Circuit and Family Court of Australia (Division 1) may, on the application of a party to the proceeding or on its own initiative, give such directions, and make such orders, as it considers appropriate to resolve the difficulty.
 
 <a id="s14ZZS-4"></a>
-**(4)**  An appeal does not lie from a decision of the Federal Court in relation to the transfer of a proceeding under this Part to the Federal Circuit and Family Court of Australia (Division 1). Authorised Version C2026C00170 registered 28/04/2026
+**(4)**  An appeal does not lie from a decision of the Federal Court in relation to the transfer of a proceeding under this Part to the Federal Circuit and Family Court of Australia (Division 1).
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

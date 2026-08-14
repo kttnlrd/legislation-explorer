@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Balance dates between 1 October and 6 April**
 
-**(3)**  If a person’s income year ends on a balance date falling between 1 October and 6 April (both dates inclusive), an ACC levy or premium that is due on a date in schedule 3, part A, column H (Payment of provisional tax and terminal tax) is treated as if it were due and payable on the relevant date in schedule 3, part A, column G for the person’s corresponding income year.
+**(3)**  If a person's income year ends on a balance date falling between 1 October and 6 April (both dates inclusive), an ACC levy or premium that is due on a date in schedule 3, part A, column H (Payment of provisional tax and terminal tax) is treated as if it were due and payable on the relevant date in schedule 3, part A, column G for the person's corresponding income year.
 
 **References to dates in schedule 3**
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
   - (i) a levy to fund the Work Account under section 168 of the Accident Compensation Act 2001; or
 
-  - (ii) an employer’s premium to fund the Employers’ Account under section 281B of the Accident Insurance Act 1998:
+  - (ii) an employer's premium to fund the Employers' Account under section 281B of the Accident Insurance Act 1998:
 
 - (c) the following levy or premium:
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 - (d) the following levy or premium:
 
-  - (i) a levy to fund the Earners’ Account under section 219(1) of the Accident Compensation Act 2001; or
+  - (i) a levy to fund the Earners' Account under section 219(1) of the Accident Compensation Act 2001; or
 
-  - (ii) a premium to fund the Earners’ Account under section 283(1) of the Accident Insurance Act 1998:
+  - (ii) a premium to fund the Earners' Account under section 283(1) of the Accident Insurance Act 1998:
 
-- (e) an Earners’ Account levy under section 283(2) of the Accident Insurance Act 1998:
+- (e) an Earners' Account levy under section 283(2) of the Accident Insurance Act 1998:
 
 - (f) a levy to meet the costs of the Regulator under section 236 of the Accident Insurance Act 1998:
 

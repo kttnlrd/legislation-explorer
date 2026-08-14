@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an exiting partner disposes of some or all of their partner’s interests in a partnership to an entering partner, to the extent to which those interests include an item of depreciable property that is not depreciable intangible property, and the total cost of the item when it was first acquired by the partners of the partnership is $200,000 or less.
+**(1)**  This section applies when an exiting partner disposes of some or all of their partner's interests in a partnership to an entering partner, to the extent to which those interests include an item of depreciable property that is not depreciable intangible property, and the total cost of the item when it was first acquired by the partners of the partnership is $200,000 or less.
 
 **Exiting partner: excluded payment**
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(7)**  This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
-*Defined in this Act: amount, deduction, depreciable intangible property, depreciable property, dispose, entering partner, excluded income, exiting partner, income tax liability, income year, partner, partner’s interests, partnership, pay, small partnership*
+*Defined in this Act: amount, deduction, depreciable intangible property, depreciable property, dispose, entering partner, excluded income, exiting partner, income tax liability, income year, partner, partner's interests, partnership, pay, small partnership*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

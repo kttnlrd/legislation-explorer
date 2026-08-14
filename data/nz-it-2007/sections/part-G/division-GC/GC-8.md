@@ -12,13 +12,13 @@ compilation_date: 2026-06-06
 
 **Amount receivable**
 
-**(1)**  If the amount of consideration receivable by a person (the taxpayer) under a transfer pricing arrangement is less than an arm’s length amount, an amount equal to the arm’s length amount is treated as the amount receivable by the taxpayer for each of the following purposes:
+**(1)**  If the amount of consideration receivable by a person (the taxpayer) under a transfer pricing arrangement is less than an arm's length amount, an amount equal to the arm's length amount is treated as the amount receivable by the taxpayer for each of the following purposes:
 
 - (a) the calculation of their income tax liability for a tax year:
 
 - (c) the determination of the obligation of another person to withhold under Part R (General collection rules) from the amount.
 
-**Non-resident’s exemption: deduction to payer**
+**Non-resident's exemption: deduction to payer**
 
 **(2)**  This section does not apply when—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 - (c) the amount receivable is interest, royalties, or an insurance premium to which section YD 8 (Apportionment of premiums derived by non-resident general insurers) applies.
 
-**Non-resident’s exemption: fixed-rate share dividend**
+**Non-resident's exemption: fixed-rate share dividend**
 
 **(3)**  This section does not apply if both of the following requirements are met:
 

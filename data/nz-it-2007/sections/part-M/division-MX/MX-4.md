@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 - (f) $2,000,000 multiplied by the basic tax rate for a company, if the tax year is the 2020–21 or later tax year:
 
-- (g) the person’s net loss for the tax year multiplied by the basic tax rate for a company:
+- (g) the person's net loss for the tax year multiplied by the basic tax rate for a company:
 
-- (h) the person’s total R&D expenditure, incurred in the income year corresponding to the tax year, multiplied by the basic tax rate for a company:
+- (h) the person's total R&D expenditure, incurred in the income year corresponding to the tax year, multiplied by the basic tax rate for a company:
 
-- (i) 1.5 multiplied by the person’s total R&D labour expenditure, incurred in the income year corresponding to the tax year and described in section MX 3(3)﻿(a), multiplied by the basic tax rate for a company.
+- (i) 1.5 multiplied by the person's total R&D labour expenditure, incurred in the income year corresponding to the tax year and described in section MX 3(3)﻿(a), multiplied by the basic tax rate for a company.
 
 **Related provision in Tax Administration Act 1994**
 

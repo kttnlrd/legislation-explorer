@@ -23,7 +23,7 @@ Cindy's actual proﬁt on the acquisition and sale is $20,000 (ie $60,000 − $4
 
 The cost of the car to Car Leasing Services is limited to $57,466. The termination value for Car Leasing Services is adjusted as follows: $57,581 termination value = $40,000                              × $80,000 = $28,790
 
-1,096 notional depreciation = $(57,581 − 28,790)                                             × 1,110 = $29,154 Since the actual proﬁt ($20,000) is less than the amount of the notional depreciation ($29,154) and also the amount of the deductible lease charges ($40,320), the amount to be included in Cindy’s assessable income in 2024–25 is $20,000.
+1,096 notional depreciation = $(57,581 − 28,790)                                             × 1,110 = $29,154 Since the actual proﬁt ($20,000) is less than the amount of the notional depreciation ($29,154) and also the amount of the deductible lease charges ($40,320), the amount to be included in Cindy's assessable income in 2024–25 is $20,000.
 
 ## Assume that:
 

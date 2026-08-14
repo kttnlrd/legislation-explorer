@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Transferring obligations**
 
-**(1)**  An employer may arrange to transfer their pay-as-you-earn (PAYE) and employer’s superannuation contribution tax (ESCT) obligations to a person approved under section 124I or 124L of the Tax Administration Act 1994 as a PAYE intermediary.
+**(1)**  An employer may arrange to transfer their pay-as-you-earn (PAYE) and employer's superannuation contribution tax (ESCT) obligations to a person approved under section 124I or 124L of the Tax Administration Act 1994 as a PAYE intermediary.
 
 **Paying amounts of tax and filing returns**
 

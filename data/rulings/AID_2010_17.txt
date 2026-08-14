@@ -3,18 +3,14 @@ ATO ID 2010/17
 ==================================================
 
 Income Tax
-        Eligible investment business: 'other security' - Division 6C of the Income Tax Assessment Act 1936
-        FOI status: may be released
-
-
+ Eligible investment business: 'other security' - Division 6C of the Income Tax Assessment Act 1936
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Whether a participating loan provided by a managed investment scheme (MIS) is among 'other securities' for the purposes of the definition of 'eligible investment business' in subparagraph 102M(b)(ii) of Division 6C of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -24,8 +20,6 @@ Facts
 Investors will subscribe for units in a unit trust which is also a (MIS) for the purposes of section 9 of the Corporations Act 2001. The MIS will use the subscription monies, together with external borrowings, to provide what is called a participating loan to an unrelated entity (entity X).
 Entity X will use the funding provided by the MIS under the participating loan to acquire a number of new residential properties which will be rented to tenants at arms-length. The funding provided by the MIS under the participating loan will represent a percentage of the cost to be incurred by entity X in acquiring all residential properties.
 The participating loan provided by the MIS to entity X will have the following features:
-
-
 
 •it will not bear any interest
 •no periodic repayments will be required to be made by entity X
@@ -39,14 +33,11 @@ Subparagraph 102M(b)(ii) to the ITAA 1936 provides that:
 In this Division, unless the contrary intention appears:
 
 '
-              eligible investment business'
+ eligible investment business'
  means one or more of:
-
 
 (a)...; or
 (b)investing or trading in any or all of the following:
-
-
 
 (i)...;
 (ii)bonds, debentures, stock or other securities;
@@ -64,16 +55,13 @@ bonds, debentures, stock or other securities.
 The Commissioner's view of the ordinary meaning of 'security' is found in the interpretation of the statutory definition of 'security' in paragraph 159GP(1)(a) of the ITAA 1936. That paragraph provides:
 
 "
-              security
+ security
 " means: -
-
 
 (a)stock, a bond, debenture, certificate of entitlement, bill of exchange, promissory note or other security;
 
 Although the wording of subparagraph 102M(b)(ii) of the ITAA 1936 is not exactly the same as that used in paragraph 159GP(1)(a) of the ITAA 1936, the list of securities mentioned in paragraph 159GP(1)(a) does mention all the securities in subparagraph 102M(b)(ii).
 The Commissioner's views in this regard are set out in Taxation Ruling 'TR 96/14 Income Tax: Traditional Securities'. Specifically, the following interpretation is provided there:
-
-
 
 •paragraph (a) of the definition of 'security' in subsection 159GP(1) of the Act includes securities which are generally regarded as debt instruments (TR 96/14, paragraph 4(i)),
 •paragraph (a) of the definition refers to items which are usually taken to be a security, with the normal meaning of security being to denote a debt or claim the payment of which is in some way secured; or written undertakings securing repayment of money (TR 96/14, paragraphs 24-26), and
@@ -83,10 +71,10 @@ The Commissioner's views in TR 96/14 do not limit traditional securities to thos
 Accordingly, the participating loan meets the ordinary meaning of 'security', being an instrument which evidences and secures an obligation on the part of the issuer (entity X) to pay an amount to the holder (the MIS) upon maturity/termination of the instrument. The fact that the amount ultimately paid cannot be calculated until the maturity date, and is referenced to the anticipated net sales value of the residential properties, does not alter this view.
 The MIS provided the participating loan as a matter of purely commercial judgment and in the reasonable expectation of achieving an overall gain from the payment due under the participating loan agreement. The Commissioner is of the view that when the MIS provides the participating loan it invests in 'other securities' for the purposes of subparagraph 102M(b)(ii) of the ITAA 1936.
 Date of decision:
-         23 December 2009
+  23 December 2009
 
 Year of income:
-           30 June 2009 30 June 2010 30 June 2011 30 June 2012
+  30 June 2009 30 June 2010 30 June 2011 30 June 2012
 
 Legislative References:
 
@@ -101,22 +89,20 @@ Other References:
 
  Taxation Ruling 96/14 Income Tax: Traditional Securities
 
-
 Keywords
 
 Public trading trusts
-          Eligible investment business
-          Securities
-
+ Eligible investment business
+ Securities
 
 Siebel/TDMS Reference Number:
-         6169515
+  6169515
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         22 January 2010
+  22 January 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

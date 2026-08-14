@@ -27,4 +27,4 @@ These methods do not apply to attributing GST on taxable importations, which are
 
 *Refs: s 27-40), s 138-15)*
 
-## Your final (or “concluding”) tax period ends at the following time:
+## Your final (or "concluding") tax period ends at the following time:

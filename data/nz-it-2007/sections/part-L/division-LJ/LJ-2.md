@@ -16,11 +16,11 @@ compilation_date: 2026-06-06
 
 **Limitation on amount of credit**
 
-**(2)**  The amount of the person’s credit in subsection (1) must not be more than the amount of New Zealand tax payable by the person in relation to the segment calculated under section LJ 5(2), modified as necessary under section LJ 5(4).
+**(2)**  The amount of the person's credit in subsection (1) must not be more than the amount of New Zealand tax payable by the person in relation to the segment calculated under section LJ 5(2), modified as necessary under section LJ 5(4).
 
 **Amount adjusted**
 
-**(3)**  The amount of the person’s credit in subsection (1) may be reduced or increased if either section LJ 6 or LJ 7 applies.
+**(3)**  The amount of the person's credit in subsection (1) may be reduced or increased if either section LJ 6 or LJ 7 applies.
 
 **When person both resident in New Zealand and another country**
 

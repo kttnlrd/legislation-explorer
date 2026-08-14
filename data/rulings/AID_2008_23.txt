@@ -3,18 +3,14 @@ ATO ID 2008/23
 ==================================================
 
 Income Tax
-        A cell in a protected cell company formed in Guernsey and the controlled foreign company measures
-        FOI status: may be released
-
-
+ A cell in a protected cell company formed in Guernsey and the controlled foreign company measures
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will an individual 'cell' in a protected cell company incorporated under Guernsey law, in respect of which a taxpayer subscribes for redeemable preference shares (RPS), be a controlled foreign company (CFC) for the purposes of section 340 of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -28,8 +24,6 @@ Reasons for Decision
 Section 340 of the ITAA 1936 provides that a company is a CFC at a particular time if, at that time, the company is a resident of a listed country or of an unlisted country and satisfies one of the three control tests contained therein.
 Whether a cell in a protected cell company is a CFC for the purposes of section 340 of the ITAA 1936 requires the determination of whether a cell in a protected cell company constitutes a company.
 The term 'company' is defined in subsection 995-1(1) of the Income Tax Assessment Act 1997 (ITAA 1997) to mean:
-
-
 
 (a)a body corporate; or
 (b)any other unincorporated association or body of persons;but does not include a *partnership or a *non-entity joint venture
@@ -48,10 +42,10 @@ The taxpayer will become a shareholder in the protected cell company by subscrib
 Accordingly, the protected cell company itself is a 'company' as that term is defined in subsection 995-1(1) of the ITAA 1997.
 Each individual cell in the protected cell company is not a company under subsection 995-1(1) of the ITAA 1997 and therefore cannot be a CFC for the purposes of section 340 of the ITAA 1936.
 Date of decision:
-         16 January 2008
+  16 January 2008
 
 Year of income:
-           Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
+  Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
 
 Legislative References:
 
@@ -65,25 +59,23 @@ Miscellaneous Taxation Ruling MT 2006/1
 Other References:
 
 Protected Cell Companies (Guernsey) Ordinance 1997
-          subsection 1(2)
-          The Companies (Guernsey) Law 1994
-
+ subsection 1(2)
+ The Companies (Guernsey) Law 1994
 
 Keywords
 
 Controlled foreign companies
-          Guernsey
-          International tax
-
+ Guernsey
+ International tax
 
 Siebel/TDMS Reference Number:
-         5727911
+  5727911
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         25 January 2008
+  25 January 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

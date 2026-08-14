@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # IZ 7B  Grouping tax losses for commonality periods starting before 15 March 2017 for tax years after 1990–91
 
-For the purposes of section IC 5(1)﻿(b) (Company B using company A’s tax loss), if the commonality period started before 15 March 2017 and company A’s tax loss component arose in a tax year after the 1990–91 tax year, in addition to meeting the requirements of section IC 7(1) (Place of incorporation or carrying on business), company A, for the part of the commonality period that precedes 15 March 2017, must not be a company resident in New Zealand that is—
+For the purposes of section IC 5(1)﻿(b) (Company B using company A's tax loss), if the commonality period started before 15 March 2017 and company A's tax loss component arose in a tax year after the 1990–91 tax year, in addition to meeting the requirements of section IC 7(1) (Place of incorporation or carrying on business), company A, for the part of the commonality period that precedes 15 March 2017, must not be a company resident in New Zealand that is—
 
 - (a) treated under a double tax agreement, and for the purposes of the agreement, as not resident in New Zealand; or
 

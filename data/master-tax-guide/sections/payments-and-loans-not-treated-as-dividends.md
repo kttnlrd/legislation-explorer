@@ -21,9 +21,9 @@ The ruling contains an administrative concession where a court order made before
 
 - a payment or loan to another company (other than a company in the capacity of trustee) (s 109K).
 
-In 3-D Scaﬀolding, the Full Federal Court held that payments allegedly made to a representative of a ﬁctitious company for scaﬀolding hire were in reality made to 3-D’s shareholder. The payments were not deductible to 3-D and were assessable to the shareholder as deemed dividends under Div 7A
+In 3-D Scaﬀolding, the Full Federal Court held that payments allegedly made to a representative of a ﬁctitious company for scaﬀolding hire were in reality made to 3-D's shareholder. The payments were not deductible to 3-D and were assessable to the shareholder as deemed dividends under Div 7A
 
-- a payment or loan that is otherwise included in the entity’s assessable income or that is
+- a payment or loan that is otherwise included in the entity's assessable income or that is
 
   speciﬁcally excluded from assessable income (s 109L)
 
@@ -33,19 +33,19 @@ In 3-D Scaﬀolding, the Full Federal Court held that payments allegedly made to
 
   from applying (ie no deemed dividend will arise), provided the company deals with the default in the
 
-  same manner in which it deals with defaults on similar loans made to parties at arm’s length (TD
+  same manner in which it deals with defaults on similar loans made to parties at arm's length (TD
 
 2008/1)
 
 - a loan (¶4-210) made in the 2004–05 or a later income year that is repaid or put on a commercial
 
-  footing before the company’s “lodgment day” (¶4-230)
+  footing before the company's "lodgment day" (¶4-230)
 
 - a distribution or loan made by a liquidator in the course of winding up a private company, provided
 
   the loan is repaid by the end of the following income year (s 109NA; ID 2003/459)
 
-- a loan by a private company solely for the purpose of enabling a shareholder or shareholder’s
+- a loan by a private company solely for the purpose of enabling a shareholder or shareholder's
 
   associate to acquire an employee share scheme interest under an employee share scheme to
 
@@ -55,7 +55,7 @@ In 3-D Scaﬀolding, the Full Federal Court held that payments allegedly made to
 
 - a demerger dividend (¶4-160) to which ITAA36 s 45B does not apply (s 109RA).
 
-A Div 7A loan paid out of personal services income of a company will not be assessable to the recipient where the same personal services income has been included previously in the recipient’s assessable income under ITAA97 s 86-15(1) (ID 2004/967).
+A Div 7A loan paid out of personal services income of a company will not be assessable to the recipient where the same personal services income has been included previously in the recipient's assessable income under ITAA97 s 86-15(1) (ID 2004/967).
 
 In Di Lorenzo Ceramics 2007 ATC 4662; [2007] FCA 1006, loans made by a private company to the trustee of a unit trust (in which the company owned 75% of the units), were taken to be dividends assessable to the unitholders.
 

@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3A"
 division_title: "Refunds of RBA surpluses and credits"
 subdivision: ""
@@ -23,7 +23,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  any of the BAS provisions (as defined in subsection 995-1(1) of the Income Tax Assessment Act 1997); or
 
 > <a id="s8AAZLH-1-b"></a>
-> **(b)**  any of the petroleum resource rent tax provisions (as defined in that subsection); have been allocated to that RBA. Authorised Version C2026C00170 registered 28/04/2026 matters
+> **(b)**  any of the petroleum resource rent tax provisions (as defined in that subsection); have been allocated to that RBA. matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

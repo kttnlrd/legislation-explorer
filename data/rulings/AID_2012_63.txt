@@ -3,18 +3,14 @@ ATO ID 2012/63
 ==================================================
 
 Income Tax
-        Capital gains tax - CGT event E4 and expenses deductible for taxation purposes in a different year to that for trust law purposes.
-        FOI status: may be released
-
-
+ Capital gains tax - CGT event E4 and expenses deductible for taxation purposes in a different year to that for trust law purposes.
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does CGT event E4 in section 104-70 of the Income Tax Assessment Act 1997 (ITAA 1997) happen if a unit holder receives a distribution of trust income for an income year which exceeds the trust's net income for that year and the difference results from an expense being deductible for taxation purposes in that year which was properly charged against income for trust law purposes in an earlier income year?
@@ -33,10 +29,10 @@ As the income of the trust for the 2009 income year is less than the net income 
 As some of that distribution for the 2011 income year has not been included in the taxpayer's assessable income under section 97 of the ITAA 1936, the requirements for CGT event E4 to happen are satisfied. The fact that the taxpayer was assessed on an amount of net income in relation to the 2009 income year which exceeded the total amount that was distributed for that year is not relevant to the question of whether CGT event E4 happens in relation to the 2011 income year as the excess trust income distributed in the 2011 income year is not the same amount as that which was assessed to the taxpayer in relation to the 2009 income year.
 The excess trust income distributed in the 2011 income year constitutes trust income that was only derived by the trustee during that income year. It follows therefore that this excess trust income could not be the same amount as that which was assessed to the taxpayer in relation to the 2009 income year.
 Date of decision:
-         10 July 2012
+  10 July 2012
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -46,23 +42,22 @@ Income Tax Assessment Act 1997   section 104-70
 Keywords
 
 Capital gains
-          Capital gains tax
-          CGT events
-          CGT events E1-E9 - trusts
-          Non assessable part
-          Present entitlement
-          Trust distributions
-          Trust income
-
+ Capital gains tax
+ CGT events
+ CGT events E1-E9 - trusts
+ Non assessable part
+ Present entitlement
+ Trust distributions
+ Trust income
 
 Siebel/TDMS Reference Number:
-         1-411RDEC
+  1-411RDEC
 
 Business Line:
-         Office of the Chief Tax Counsel Assets and Mining
+  Office of the Chief Tax Counsel Assets and Mining
 
 Date of publication:
-         13 July 2012
+  13 July 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

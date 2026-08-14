@@ -7,7 +7,7 @@ paragraph: "¶31-510"
 ---
 # Diversion to family members ¶31-510
 
-Ordinarily, the most obvious recipients of diverted income would be the members of a taxpayer’s family.
+Ordinarily, the most obvious recipients of diverted income would be the members of a taxpayer's family.
 
 However, as a result of the provisions of ITAA36 Div 6AA (¶2-160), and restrictions on the use of the low income tax rebate, the diversion of unearned income to minors (ie children under 18), even if married, may in many instances be disadvantageous.
 

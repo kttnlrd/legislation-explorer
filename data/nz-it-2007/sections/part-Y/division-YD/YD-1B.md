@@ -44,13 +44,13 @@ compilation_date: 2026-06-06
 
 **(3)**  If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(g),—
 
-- (a) for the purposes of determining the person’s liabilities and obligations under this Act, the person stops being a non-resident visitor and is treated as if they were never a non-resident visitor:
+- (a) for the purposes of determining the person's liabilities and obligations under this Act, the person stops being a non-resident visitor and is treated as if they were never a non-resident visitor:
 
 - (b) for the purposes of determining the liabilities and obligations under this Act of any other person, the person stops being a non-resident visitor on the date the cessation occurs.
 
 **Ending non-resident visitor status: change of residency or citizenship status**
 
-**(4)**  If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(h), the person stops being a non-resident visitor on the date the event that causes the cessation of residency or liability to tax occurs, regardless of whether the laws of that foreign country or territory treat the person’s cessation of residency or liability to tax as having occurred on an earlier date.
+**(4)**  If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(h), the person stops being a non-resident visitor on the date the event that causes the cessation of residency or liability to tax occurs, regardless of whether the laws of that foreign country or territory treat the person's cessation of residency or liability to tax as having occurred on an earlier date.
 
 **Ending non-resident visitor status: other requirements**
 

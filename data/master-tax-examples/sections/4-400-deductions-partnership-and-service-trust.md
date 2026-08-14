@@ -15,7 +15,7 @@ During the 2024–25 income year, the following transactions and activities took
 
 - salary paid to Charlotte — $25,000
 
-- superannuation guarantee contributions paid to Charlotte’s nominated complying superannuation fund
+- superannuation guarantee contributions paid to Charlotte's nominated complying superannuation fund
 
   — $2,875
 
@@ -41,15 +41,15 @@ Advise Adrienne and Bonny on the deductibility of the losses and outgoings incur
 
 Solution Deductions are available either under the general deduction provision (ITAA97 s 8-1(1)) or under a specific deduction provision in ITAA97 Div 25, or both. However, s 8-10 prevents double deductions. The deduction is to be claimed under the most appropriate provision. ITAA97 Div 26 covers a list of items that are not deductible or not deductible in full.
 
-Under ITAA97 s 8-1(1), the taxpayer can deduct from assessable income a loss or outgoing to the extent that it is incurred in gaining or producing the taxpayer’s assessable income or necessarily incurred in carrying on a business for the purpose of gaining or producing the taxpayer’s assessable income. However, the taxpayer cannot deduct a loss or outgoing, under this section, to the extent that it is a loss or outgoing of capital or of a capital nature (ITAA97 s 8-1(2)).
+Under ITAA97 s 8-1(1), the taxpayer can deduct from assessable income a loss or outgoing to the extent that it is incurred in gaining or producing the taxpayer's assessable income or necessarily incurred in carrying on a business for the purpose of gaining or producing the taxpayer's assessable income. However, the taxpayer cannot deduct a loss or outgoing, under this section, to the extent that it is a loss or outgoing of capital or of a capital nature (ITAA97 s 8-1(2)).
 
-The categorisation of expenditure as capital or capital in nature, or otherwise as revenue expenditure, is based on various tests formulated in decided cases. The widely accepted test is the “business entity” test formulated by Dixon J in Sun Newspapers Ltd v FC of T (1938) 5 ATD 87; (1938) 61 CLR 337. Losses or outgoings on capital account relate to the business entity structure and organisation established for profit- making activities, whereas losses or outgoings on revenue account relate to the processes by which the business entity operates to generate income. A factor to consider in making the distinction is the lasting quality of the expenditure on capital account rather than regular recurrence of the expenditure on revenue account (see British Insulated & Helsby Cables v Atherton [1926] AC 205).
+The categorisation of expenditure as capital or capital in nature, or otherwise as revenue expenditure, is based on various tests formulated in decided cases. The widely accepted test is the "business entity" test formulated by Dixon J in Sun Newspapers Ltd v FC of T (1938) 5 ATD 87; (1938) 61 CLR 337. Losses or outgoings on capital account relate to the business entity structure and organisation established for profit- making activities, whereas losses or outgoings on revenue account relate to the processes by which the business entity operates to generate income. A factor to consider in making the distinction is the lasting quality of the expenditure on capital account rather than regular recurrence of the expenditure on revenue account (see British Insulated & Helsby Cables v Atherton [1926] AC 205).
 
 Share of profits distributed to Adrienne and Bonny and payment of salary to Charlotte There is no deduction to the Partnership for the distribution of profits to Adrienne and Bonny. Rather, Adrienne and Bonny include the distributions in their individual tax returns, as their share of partnership income (ITAA36 s 92). However, the salary paid to Charlotte as an employee is deductible to the Partnership under s 8-1(1).
 
-Superannuation guarantee contributions paid to Charlotte’s superannuation fund The superannuation guarantee contributions paid to Charlotte’s superannuation fund is deductible to the Partnership under ITAA97 s 290-60.
+Superannuation guarantee contributions paid to Charlotte's superannuation fund The superannuation guarantee contributions paid to Charlotte's superannuation fund is deductible to the Partnership under ITAA97 s 290-60.
 
-Royalty paid for use of manufacturer’s trademark A deduction would be available for the payment of the royalty under s 8-1(1) provided the relevant withholding obligations have been complied with. A deduction is prohibited if the Partnership was required to withhold an amount from the royalty payment under TAA Sch 1, Div 12 and failed to do so, or failed to pay any amount so withheld to the Commissioner (ITAA97 s 26-25(1)). Broadly, Div 12 applies to royalty payments to non-residents.
+Royalty paid for use of manufacturer's trademark A deduction would be available for the payment of the royalty under s 8-1(1) provided the relevant withholding obligations have been complied with. A deduction is prohibited if the Partnership was required to withhold an amount from the royalty payment under TAA Sch 1, Div 12 and failed to do so, or failed to pay any amount so withheld to the Commissioner (ITAA97 s 26-25(1)). Broadly, Div 12 applies to royalty payments to non-residents.
 
 Payment to the Service Trust for the supply of furniture and fittings Deductibility would depend on the substance of the arrangement between the Partnership and the Service Trust. If the Partnership acquired ownership of the fixtures and fittings, the outlay would be of a capital nature and non-deductible, but the cost would form the basis for claiming depreciation under ITAA97 Div 40.
 

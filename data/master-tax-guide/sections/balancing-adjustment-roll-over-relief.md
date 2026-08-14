@@ -11,7 +11,7 @@ Balancing adjustments arising from changes in ownership interests in depreciatin
 
 - no balancing adjustments arise for the transferor under ITAA97 s 40-285, and
 
-- the transferee stands in the transferor’s shoes with regard to the amount and timing of future
+- the transferee stands in the transferor's shoes with regard to the amount and timing of future
 
   deductions and the amount of a potential balancing adjustment on subsequent disposal. In
 
@@ -19,7 +19,7 @@ Balancing adjustments arising from changes in ownership interests in depreciatin
 
   using the prime cost method) that the transferor was using. The transferee acquires the asset at the
 
-  transferor’s adjustable value (¶17-485) for the asset. For an example, see TD 2005/1.
+  transferor's adjustable value (¶17-485) for the asset. For an example, see TD 2005/1.
 
 Special provisions apply where an interest in a leased asset or the lease itself has been transferred (¶23-230).
 
@@ -61,8 +61,8 @@ Roll-over is not available in respect of other disposals, eg a disposal from a d
 
 Balancing adjustment roll-over relief is speciﬁcally extended to motor vehicles and other exempt assets as if they were assets to which the CGT roll-over provisions applied. Roll-over relief may also apply to a succession of transfers of a single depreciating asset.
 
-The transferor must provide suﬃcient information to enable the transferee to calculate the transferee’s deductions (ITAA97 s 40-360).
+The transferor must provide suﬃcient information to enable the transferee to calculate the transferee's deductions (ITAA97 s 40-360).
 
-Optional roll-over Optional balancing adjustment roll-over relief is available if a joint election for roll-over relief is made by the transferor and the transferee in relation to a partial change in ownership interests in a partnership asset, eg where there is a variation in the constitution of the partnership or in interests of the partners (s 40-340; ¶17-780). Where the change in interests occurs due to the death of a partner, the trustee of the deceased partner’s estate may be a party to a joint election. The election must be in writing and must contain such information as the transferee requires in order to work out how the capital allowance provisions apply to the transferee’s holding of the depreciating asset.
+Optional roll-over Optional balancing adjustment roll-over relief is available if a joint election for roll-over relief is made by the transferor and the transferee in relation to a partial change in ownership interests in a partnership asset, eg where there is a variation in the constitution of the partnership or in interests of the partners (s 40-340; ¶17-780). Where the change in interests occurs due to the death of a partner, the trustee of the deceased partner's estate may be a party to a joint election. The election must be in writing and must contain such information as the transferee requires in order to work out how the capital allowance provisions apply to the transferee's holding of the depreciating asset.
 
 *Refs: ITAA97 s 40-340, ITAA97 s 40-345), ITAA97 s 40-285, ITAA97 s 40-362), s 40-363), s 40-364), s 122-25(3), ITAA97 s 40-360), s 40-340*

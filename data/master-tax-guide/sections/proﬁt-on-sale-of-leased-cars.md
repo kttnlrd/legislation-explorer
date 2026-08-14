@@ -13,7 +13,7 @@ For the sale of leased property, other than a car, at a proﬁt, see ¶10-422. c
 
 *Refs: s 20-100*
 
-- a car is leased to the taxpayer or to an associate of the taxpayer (a “lease” for these purposes
+- a car is leased to the taxpayer or to an associate of the taxpayer (a "lease" for these purposes
 
   does not include a hire purchase agreement or an agreement for the hiring of a car on a temporary
 
@@ -33,7 +33,7 @@ For the sale of leased property, other than a car, at a proﬁt, see ¶10-422. c
 
   expenditure incurred by the taxpayer on the car after acquiring it (ITAA97 ss 20-110(1); 20-125(1)).
 
-A “car” for Subdiv 20-B purposes is any motor-powered road vehicle (including a 4-wheel drive vehicle) designed mainly for carrying passengers. “Consideration receivable” means:
+A "car" for Subdiv 20-B purposes is any motor-powered road vehicle (including a 4-wheel drive vehicle) designed mainly for carrying passengers. "Consideration receivable" means:
 
 - where the car is sold for a speciﬁc price — the sale price less the sale expenses (eg costs of
 
@@ -53,7 +53,7 @@ A “car” for Subdiv 20-B purposes is any motor-powered road vehicle (includin
 
 However, if the disposal of the car is a taxable supply, the consideration receivable does not include an amount equal to the GST payable on the supply (s 20-115(3)).
 
-An “associate” is deﬁned broadly for these purposes (ITAA97 s 995-1(1)).
+An "associate" is deﬁned broadly for these purposes (ITAA97 s 995-1(1)).
 
 Subdivision 20-B does not apply where the person selling the car inherited it (ITAA97 s 20-145). car) Amount assessable under Subdiv 20-B (disposal of leased car) Where there is a proﬁt (¶10-390) on the disposal of the car, the amount included in assessable income cannot exceed the lowest of:
 

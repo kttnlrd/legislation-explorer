@@ -15,7 +15,7 @@ Although the BAS itself is relatively short, considerable preparation may be nee
 
 Businesses should not underestimate the time needed, particularly, in the case of their first few returns.
 
-In calculating the GST, taxpayers may use the “GST Calculation Worksheet” which is supplied by the ATO but which is not actually lodged with the BAS. Alternatively, they can use the more streamlined “derived from accounts” method, which enables them to identify their GST payable and input tax credits directly from their accounting records. This method may be used if you separately record your GST amounts for supplies and acquisitions. This requirement may be satisfied by the relatively simple procedure of having a GST column in your cash book or spreadsheet.
+In calculating the GST, taxpayers may use the "GST Calculation Worksheet" which is supplied by the ATO but which is not actually lodged with the BAS. Alternatively, they can use the more streamlined "derived from accounts" method, which enables them to identify their GST payable and input tax credits directly from their accounting records. This method may be used if you separately record your GST amounts for supplies and acquisitions. This requirement may be satisfied by the relatively simple procedure of having a GST column in your cash book or spreadsheet.
 
 Net GST or refund In general terms, you are liable to pay GST for a tax period if the GST payable on supplies is more than the input tax credits claimable on your acquisitions. You are entitled to a refund from the ATO for a tax period if the GST payable on your supplies is less than the input tax credits claimable on your acquisitions (¶8-100).
 
@@ -25,7 +25,7 @@ Net GST or refund In general terms, you are liable to pay GST for a tax period i
 
 - offset them against each other.
 
-Guidance on completing the return is given in the ATO’s Goods and Services Tax — How to Complete Your Activity Statement (NAT 7392).
+Guidance on completing the return is given in the ATO's Goods and Services Tax — How to Complete Your Activity Statement (NAT 7392).
 
 Common errors in preparing BAS For common errors made in complying with GST requirements, see ¶18-170. For corrections to earlier returns, see ¶8-045. large businesses Supplementary annual return for certain large businesses A supplementary annual GST return form must be lodged by public and multinational businesses that receive a GST assurance rating through a Top 100 or Top 1,000 assurance review. See further ATO Supplementary annual GST return and Supplementary annual GST return 2025 instructions webpages. quarterly remittance form
 

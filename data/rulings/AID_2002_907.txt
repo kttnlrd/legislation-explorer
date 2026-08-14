@@ -3,23 +3,19 @@ ATO ID 2002/907
 ==================================================
 
 Goods and Services Tax
-        GST and the treatment of surcharge levied by taxi company for the provision of a credit facility
-        FOI status: may be released
-
+ GST and the treatment of surcharge levied by taxi company for the provision of a credit facility
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a taxi network company, making a financial supply that is input taxed under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it provides a credit facility to its customers and levies a surcharge for that facility?
@@ -32,19 +28,13 @@ Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that a financial supply has the meaning given by the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition or disposal of an interest mentioned in subregulation (3) or (4) is a financial supply if:
 
-
-
 •the provision, acquisition or disposal is:
-
-
 
 - for consideration;
 - in the course or furtherance of an enterprise;
 - connected with Australia; and
 
 •the supplier is:
-
-
 
 - registered or required to be registered for GST; and
 - a financial supply provider in relation to the supply of the interest.
@@ -56,19 +46,17 @@ The final requirement is that the supplier is a financial supply provider in rel
 
 'An entity, in relation to the supply of an interest that was:
 
-
-
 (a)immediately before the supply, the property of the entity; or
 (b)created by the entity in making the supply;
 
 is the
-              financial supply provider
+ financial supply provider
  of the interest.'
 
 As the interest (the credit arrangement) was created by the entity in making the supply, the entity is a financial supply provider in relation to that interest.
 Therefore, all the requirements of subregulation 40-5.09(1) of the GST Regulations are satisfied. As such, the entity is making a financial supply that is input taxed under subsection 40-5(1) of the GST Act when it provides a credit facility to its customers and levies a surcharge for that facility.
 Date of decision:
-         15 January 2002
+  15 January 2002
 
 Legislative References:
 
@@ -78,18 +66,17 @@ A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40
 Keywords
 
 Goods & services tax
-          Input taxed supplies
-          GST financial supplies
-
+ Input taxed supplies
+ GST financial supplies
 
 Siebel/TDMS Reference Number:
-         CW252898
+  CW252898
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         16 September 2002
+  16 September 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

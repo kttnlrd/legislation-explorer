@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(3)**  In the formula,—
 
-- (a) policyholder remaining credit is the amount of the tax credit remaining for the surplus credit year under section LA 5(4), but only to the extent to which the amount is for the life insurer’s policyholder base:
+- (a) policyholder remaining credit is the amount of the tax credit remaining for the surplus credit year under section LA 5(4), but only to the extent to which the amount is for the life insurer's policyholder base:
 
 - (b) policyholder rate is the basic rate of income tax set out in schedule 1, part A, clause 8 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 

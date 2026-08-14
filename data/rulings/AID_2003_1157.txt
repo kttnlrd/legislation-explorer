@@ -3,18 +3,14 @@ ATO ID 2003/1157
 ==================================================
 
 Goods and Services Tax
-        GST and medical services supplied to a health service provider
-        FOI status: may be released
-
-
+ GST and medical services supplied to a health service provider
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 
@@ -27,8 +23,6 @@ Facts
 
 Entity A is a health service provider. Entity A has entered into an agreement with entity B. Under this agreement, entity A provides medical assessment facilities and support services to enable entity B to conduct medical examinations on particular clients.
 Under this agreement, entity A will provide the following services to entity B at pre-determined times throughout the year:
-
-
 
 •scheduling of appointments
 •making pre-medical arrangements for any tests or referrals that may be required
@@ -45,8 +39,6 @@ Reasons for Decision:
 Under subsection 38-7(1) of the GST Act, the supply of a medical service is GST-free.
 A 'medical service' is defined under section 195-1 of the GST Act to mean:
 
-
-
 •a service for which a medicare benefit is payable under Part II of the Health Insurance Act 1973, or
 •any other service supplied by or on behalf of a medical practitioner or approved pathology practitioner that is generally accepted in the medical profession as being necessary for the appropriate treatment of the recipient of the supply.
 
@@ -57,7 +49,7 @@ Section 195-1 of the GST Act defines 'recipient' in relation to a supply to mean
 As such, entity A is not supplying appropriate treatment to entity B, the recipient of the supply. Therefore, entity A is not making a GST-free supply under subsection 38-7(1) of the GST Act.
 Entity A is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under any other provision of Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, entity A is making a taxable supply under section 9-5 of the GST Act when it supplies medical assessment facilities and support services, under an agreement with entity B, to enable entity B to conduct medical examinations on clients.
 Date of decision:
-         19 December 2002
+  19 December 2002
 
 Legislative References:
 
@@ -66,21 +58,20 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Divisio
 Keywords
 
 Goods and services tax
-          GST free
-          GST health
-          Section 38-7 - medical services
-          GST supplies & acquisitions
-          Taxable supply
-
+ GST free
+ GST health
+ Section 38-7 - medical services
+ GST supplies & acquisitions
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         3238094
+  3238094
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         24 December 2003
+  24 December 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

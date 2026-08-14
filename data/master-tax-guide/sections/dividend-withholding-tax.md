@@ -33,15 +33,15 @@ Dividends not subject to withholding tax The following dividends are not subject
 
   streamed the dividends or a franking credit scheme has occurred (¶4-900)
 
-- unfranked dividends paid to non-residents by a resident company that are declared to be “conduit
+- unfranked dividends paid to non-residents by a resident company that are declared to be "conduit
 
-  foreign income” (¶21-100)
+  foreign income" (¶21-100)
 
 - dividends paid to certain registered foreign charities, scientiﬁc institutions, public educational
 
   institutions and non-proﬁt cultural, sporting and friendly societies whose income is exempt from
 
-Australian tax and from tax in the non-resident’s home country (¶10-605). This exemption is generally restricted to those organisations which either: (a) have a presence in Australia and pursue their objectives principally in Australia; (b) are listed as institutions to which deductible gifts can be made; (c) are prescribed as exempt institutions; or (d) are prescribed charitable institutions which pursue their objectives principally outside Australia
+Australian tax and from tax in the non-resident's home country (¶10-605). This exemption is generally restricted to those organisations which either: (a) have a presence in Australia and pursue their objectives principally in Australia; (b) are listed as institutions to which deductible gifts can be made; (c) are prescribed as exempt institutions; or (d) are prescribed charitable institutions which pursue their objectives principally outside Australia
 
 - dividends paid to certain oﬀshore testamentary charitable trusts established before 1 July 1997.
 
@@ -75,7 +75,7 @@ Assets given to such testamentary charitable trusts (other than in return for va
 
 - dividends paid by former exempting companies (exempt entities and companies owned by non-
 
-  residents: ¶4-970) to the extent that they are franked as “exempted dividends”
+  residents: ¶4-970) to the extent that they are franked as "exempted dividends"
 
 - certain non-frankable non-share dividends (¶23-125) paid by a resident authorised deposit-taking
 
@@ -89,10 +89,10 @@ Private company loans made to non-residents which are treated as deemed dividend
 
 Dividends paid by non-resident companies to non-resident shareholders out of Australian sourced proﬁts which are subject to the normal assessment process are not subject to withholding tax.
 
-The declaration of a dividend was held to give rise to a liability for withholding tax, notwithstanding that the non-resident shareholder’s right to receive the dividend was subsequently assigned (ABB Australia 2007 ATC 4765; [2007] FCA 1063).
+The declaration of a dividend was held to give rise to a liability for withholding tax, notwithstanding that the non-resident shareholder's right to receive the dividend was subsequently assigned (ABB Australia 2007 ATC 4765; [2007] FCA 1063).
 
 Dividends from non-resident companies received by a non-resident indirectly through a nominee or trustee are assessable to Australian tax only if the source of those dividends is in Australia.
 
-Dividends attributable to foreign-owned branches Where dividends paid by an Australian company to a non-resident company or individual are attributable to an Australian branch of the non-resident, they will be taxed on a net assessment basis instead of being subject to withholding tax. This will mean that the dividends will be included in the non-resident’s assessable income, and that relevant expenses will be allowed as deductions against the non-resident’s assessable income. In addition, where the dividend is franked, the non-resident recipient may be entitled to a franking tax oﬀset.
+Dividends attributable to foreign-owned branches Where dividends paid by an Australian company to a non-resident company or individual are attributable to an Australian branch of the non-resident, they will be taxed on a net assessment basis instead of being subject to withholding tax. This will mean that the dividends will be included in the non-resident's assessable income, and that relevant expenses will be allowed as deductions against the non-resident's assessable income. In addition, where the dividend is franked, the non-resident recipient may be entitled to a franking tax oﬀset.
 
 ## Withholding tax on dividends applies irrespective of:

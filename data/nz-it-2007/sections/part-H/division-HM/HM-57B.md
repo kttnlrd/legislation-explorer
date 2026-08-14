@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of determining a person’s prescribed investor rate under schedule 6, table 1 (Prescribed rates: investments and retirement scheme contributions) when the person becomes a New Zealand resident.
+**(1)**  This section applies for the purposes of determining a person's prescribed investor rate under schedule 6, table 1 (Prescribed rates: investments and retirement scheme contributions) when the person becomes a New Zealand resident.
 
 **Determining rate**
 
-**(2)**  Despite section BD 1(5)﻿(c) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income), the person must include the total amount of their non-residents’ foreign-sourced income in their assessable income.
+**(2)**  Despite section BD 1(5)﻿(c) (Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income), the person must include the total amount of their non-residents' foreign-sourced income in their assessable income.
 
 **Choosing not to apply this section**
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **(4)**  Section CW 27 (Certain income derived by transitional resident) is ignored for the purposes of this section.
 
-*Defined in this Act: amount, assessable income, income, income year, New Zealand resident, non-residents’ foreign-sourced income, prescribed investor rate, taxable income*
+*Defined in this Act: amount, assessable income, income, income year, New Zealand resident, non-residents' foreign-sourced income, prescribed investor rate, taxable income*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -13,7 +13,7 @@ The election is not available to taxpayers if the only reason that they are not 
 
 Nor does it apply to taxi operators (¶12-130) or to taxpayers on the instalments system (¶8-037).
 
-Making the election The election is called an “annual tax period election”. Normally, it must be made on or before 28 October in the financial year to which it relates (for quarterly taxpayers) or on or before 21 August in that financial year (for monthly taxpayers). The election applies from the start of the financial year (s 151-10; 151-20).
+Making the election The election is called an "annual tax period election". Normally, it must be made on or before 28 October in the financial year to which it relates (for quarterly taxpayers) or on or before 21 August in that financial year (for monthly taxpayers). The election applies from the start of the financial year (s 151-10; 151-20).
 
 However, a special rule applies where a taxpayer first becomes eligible to make an election after 28 October in any financial year, and their current GST lodgment record is no more than six months. This taxpayer may make the election on or before the date their next GST return becomes due. The election takes effect from the start of the tax period to which that return relates.
 
@@ -36,7 +36,7 @@ Duration of election
 
   before 28 October in that year; otherwise, it does not apply until the start of the next financial year
 
-- the taxpayer’s circumstances (eg turnover) are such that it is required to be registered as at 31 July in
+- the taxpayer's circumstances (eg turnover) are such that it is required to be registered as at 31 July in
 
   the financial year. In this case, the election ceases to have effect from that start of that year. In effect,
 

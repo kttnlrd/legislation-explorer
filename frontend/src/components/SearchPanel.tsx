@@ -35,6 +35,14 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [currentPage, setCurrentPage] = useState(0)
   const [typeFilter, setTypeFilter] = useState<string>('')
   const inputRef = useRef<HTMLInputElement>(null)
+  const [suggestions, setSuggestions] = useState<{ act: string; section: string; title: string; type: string }[]>([])
+  const [showSuggestions, setShowSuggestions] = useState(false)
+  const [highlightIdx, setHighlightIdx] = useState(-1)
+  const suggestTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const suggestAbort = useRef<AbortController | null>(null)
+  const containerRef = useRef<HTMLDivElement>(null)
+
+  const SUGGEST_LIMIT = 8
 
   // Re-filter results when source selection changes
   useEffect(() => {
@@ -50,6 +58,37 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   useEffect(() => {
     onResultsChange?.(results.length)
   }, [results.length, onResultsChange])
+
+  // Debounced suggest — fetch autocomplete suggestions as user types
+  useEffect(() => {
+    const q = query.trim()
+    if (q.length < 2) {
+      setSuggestions([])
+      setShowSuggestions(false)
+      return
+    }
+    if (suggestTimer.current) clearTimeout(suggestTimer.current)
+    if (suggestAbort.current) suggestAbort.current.abort()
+
+    suggestTimer.current = setTimeout(async () => {
+      const controller = new AbortController()
+      suggestAbort.current = controller
+      try {
+        const data = await api.suggest(q, SUGGEST_LIMIT)
+        if (!controller.signal.aborted && data.suggestions) {
+          setSuggestions(data.suggestions)
+          setShowSuggestions(data.suggestions.length > 0)
+          setHighlightIdx(-1)
+        }
+      } catch {
+        // ignore aborted or failed
+      }
+    }, 300)
+    return () => {
+      if (suggestTimer.current) clearTimeout(suggestTimer.current)
+      if (suggestAbort.current) suggestAbort.current.abort()
+    }
+  }, [query])
 
   const doSearch = async (q?: string, filterOverride?: string) => {
     const term = (q || query).trim()
@@ -108,8 +147,42 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   }
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (showSuggestions && suggestions.length > 0) {
+      if (e.key === 'ArrowDown') {
+        e.preventDefault()
+        setHighlightIdx(i => Math.min(i + 1, suggestions.length - 1))
+        return
+      }
+      if (e.key === 'ArrowUp') {
+        e.preventDefault()
+        setHighlightIdx(i => Math.max(i - 1, -1))
+        return
+      }
+      if (e.key === 'Escape') {
+        setShowSuggestions(false)
+        setHighlightIdx(-1)
+        return
+      }
+      if (e.key === 'Enter' && highlightIdx >= 0) {
+        e.preventDefault()
+        pickSuggestion(suggestions[highlightIdx])
+        return
+      }
+    }
     if (e.key === 'Enter') {
+      setShowSuggestions(false)
       doSearch()
+    }
+  }
+
+  const pickSuggestion = (s: { act: string; section: string; title: string; type: string }) => {
+    setShowSuggestions(false)
+    setSuggestions([])
+    setQuery('')
+    if (s.type === 'ruling') {
+      onNavigate('rulings', s.section)
+    } else {
+      onNavigate(s.act, s.section)
     }
   }
 
@@ -151,8 +224,15 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
           <input
             ref={inputRef}
             value={query}
-            onChange={e => setQuery(e.target.value)}
+            onChange={e => {
+              setQuery(e.target.value)
+              if (!e.target.value.trim()) {
+                setShowSuggestions(false)
+                setSuggestions([])
+              }
+            }}
             onKeyDown={handleKeyDown}
+            onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}
             placeholder="Search legislation..."
             style={{
               width: '100%',
@@ -195,6 +275,45 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
           {filterButtonSvg}
         </button>
       </div>
+
+      {/* Autocomplete suggestions dropdown */}
+      {showSuggestions && (
+        <div
+          style={{
+            position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 400,
+            marginTop: 2, background: COLORS.bg, borderRadius: 6,
+            border: `1px solid ${COLORS.border}`, overflow: 'hidden',
+            boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
+          }}
+        >
+          {suggestions.map((s, i) => (
+            <div
+              key={`${s.act}-${s.section}`}
+              onClick={() => pickSuggestion(s)}
+              onMouseEnter={() => setHighlightIdx(i)}
+              style={{
+                padding: '8px 10px', cursor: 'pointer',
+                fontSize: 12, fontFamily: "'Montserrat', sans-serif",
+                color: COLORS.text,
+                background: i === highlightIdx ? COLORS.accent + '18' : 'transparent',
+                borderBottom: i < suggestions.length - 1 ? `1px solid ${COLORS.border}` : 'none',
+              }}
+            >
+              <div style={{ display: 'flex', alignItems: 'baseline', gap: 6 }}>
+                <span style={{ color: COLORS.accent, fontWeight: 600, whiteSpace: 'nowrap' }}>
+                  {shortActName(s.act)} {s.section}
+                </span>
+                <span style={{ color: COLORS.textMuted, fontSize: 11, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                  {s.title}
+                </span>
+              </div>
+              <div style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.6, marginTop: 2 }}>
+                {s.type === 'ruling' ? 'Ruling' : 'Section'}
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
 
       {/* Filters panel — absolutely positioned dropdown */}
       {filterOpen && (

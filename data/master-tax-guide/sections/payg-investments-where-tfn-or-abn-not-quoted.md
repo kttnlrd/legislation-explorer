@@ -21,15 +21,15 @@ Part VA investments where a payment is made An investment body that makes a paym
 
   investments, it is the time the payment became payable.
 
-For the meaning of “Pt VA investment”, see ¶33-030.
+For the meaning of "Pt VA investment", see ¶33-030.
 
-If an investment body makes a payment in respect of an eligible deferred interest investment (¶23-320) and no TFN has been quoted, withholding is required only: (a) to the extent that the payment consists of a periodic interest payment; or (b) if the payment became payable at the end of the term of the investment, to the extent of the accrual amount included in the investor’s assessable income for the income year (TAA sch 1 s 12-150). TFN withholding tax may be payable on the amount not subject to PAYG withholding (see below).
+If an investment body makes a payment in respect of an eligible deferred interest investment (¶23-320) and no TFN has been quoted, withholding is required only: (a) to the extent that the payment consists of a periodic interest payment; or (b) if the payment became payable at the end of the term of the investment, to the extent of the accrual amount included in the investor's assessable income for the income year (TAA sch 1 s 12-150). TFN withholding tax may be payable on the amount not subject to PAYG withholding (see below).
 
 *Refs: s 12-140(1)), s 12-150)*
 
 gains Subdivision 14-B of TAA sch 1 contains the TFN withholding arrangements that apply where there has been an accrued gain in relation to a Pt VA investment. TFN withholding tax is payable if:
 
-- an amount (the accrued gain) is included in the investor’s assessable income for an income year
+- an amount (the accrued gain) is included in the investor's assessable income for an income year
 
   under ITAA36 s 159GQ (¶23-320)
 
@@ -93,7 +93,7 @@ This option is only available to an entity that made the investment in the cours
 
 Example Simone, a sole trader, may quote her ABN in relation to her business bank accounts (ie where the income from the investment will be properly returned as part of business receipts) but not in relation to her personal accounts. (2) Exemption from quoting TFN. Withholding is not required if an exemption from quoting a TFN has applied to the investor entity but no longer applies when the payment is made, and the investment body has not been informed that the exemption no longer applies (TAA sch 1 s 12-160). (3) Fully franked dividends. No amount need be withheld on the payment of fully franked dividends from a public company (¶3-015) (TAA sch 1 s 12-165). (4) Payment below threshold. No amount need be withheld if the payment is below the amount worked out under the regulations (TAA sch 1 s 12-170). TAR s 28 sets out the threshold amounts (generally, $420 for a person aged under 16 and $120 in other cases) below which PAYG withholding does not apply.
 
-Where an adult opens an interest bearing account “in trust” for a child and no TFN is quoted, the $120 threshold will apply because the account is deemed to belong to the trustee. If it is a formal trust account (ie a trust relationship that is legally acknowledged), the trust’s TFN should be quoted to avoid amounts being withheld. If it is an informal trust account, the informal trustee’s personal TFN should be quoted to avoid amounts being withheld.
+Where an adult opens an interest bearing account "in trust" for a child and no TFN is quoted, the $120 threshold will apply because the account is deemed to belong to the trustee. If it is a formal trust account (ie a trust relationship that is legally acknowledged), the trust's TFN should be quoted to avoid amounts being withheld. If it is an informal trust account, the informal trustee's personal TFN should be quoted to avoid amounts being withheld.
 
 *Refs: s 12-155), s 12-160), s 12-165), s 12-170)*
 

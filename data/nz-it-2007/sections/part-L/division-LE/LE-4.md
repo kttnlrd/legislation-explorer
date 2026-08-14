@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Trustee treated as beneficiary**
 
-**(2)**  To the extent to which section HC 7(2) (Trustee income) applies, the person is treated as deriving the minor’s beneficiary income as a beneficiary.
+**(2)**  To the extent to which section HC 7(2) (Trustee income) applies, the person is treated as deriving the minor's beneficiary income as a beneficiary.
 
 *Defined in this Act: beneficiary income, minor, tax credit, trustee*
 

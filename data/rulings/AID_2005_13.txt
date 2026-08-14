@@ -3,18 +3,14 @@ ATO ID 2005/13
 ==================================================
 
 Income tax
-        Commercial Debt Forgiveness - interaction with Subdivision 165-CD of the Income Tax Assessment Act 1997 - deductible revenue losses
-        FOI status: may be released
-
-
+ Commercial Debt Forgiveness - interaction with Subdivision 165-CD of the Income Tax Assessment Act 1997 - deductible revenue losses
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a loss company is calculating the amount of its undeducted tax losses for the purposes of subsection 165-115R(5) of the Income Tax Assessment Act 1997 (ITAA 1997), does that amount reflect any reduction to those losses that may be subsequently required as a debtor to be made under Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -23,8 +19,6 @@ Yes. The reductions made by Schedule 2C to the ITAA 1936 to tax losses as deduct
 Facts
 Loss Company has an alteration time on 1 October 2002 under section 165-115L of the ITAA 1997 due to changes in its ownership.
 Loss Company has the following undeducted tax losses before considering the application of Schedule 2C to the ITAA 1936:
-
-
 
 •$40,000 in respect of the year of income ended 30 June 2001
 •$50,000 in respect of the year of income ended 30 June 2002
@@ -40,10 +34,10 @@ Under Schedule 2C to the ITAA 1936, the undeducted tax losses of $40,000 and $50
 Whilst such reductions do not occur until after the end of the forgiveness year of income, they have the effect of retrospectively reducing the tax losses as calculated, in this instance to zero, rather than merely prospectively reducing the undeducted balance(s) of those losses.
 Accordingly, in calculating Loss Company's overall loss under subsection 165-115R(5) of the ITAA 1997 the $50,000 and $40,000 tax losses will not be taken into account by that subsection, and Loss Company's overall loss will be $60,000.
 Date of decision:
-         22 December 2004
+  22 December 2004
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -58,18 +52,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 Commercial debt forgiveness
-          Tax loss
-          Total net forgiven amount
-
+ Tax loss
+ Total net forgiven amount
 
 Siebel/TDMS Reference Number:
-         4355568
+  4355568
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         14 January 2005
+  14 January 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

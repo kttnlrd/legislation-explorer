@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 - (c) it has its centre of management:
 
-- (d) its directors, in their capacity as directors, exercise control of the company, even if the directors’ decision-making also occurs outside the country.
+- (d) its directors, in their capacity as directors, exercise control of the company, even if the directors' decision-making also occurs outside the country.
 
 **Further rule: second application**
 

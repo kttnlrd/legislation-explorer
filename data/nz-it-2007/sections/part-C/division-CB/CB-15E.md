@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exempt income when no or minor acquisition of land on partition or subdivision**
 
-**(2)**  The amount of income the person derives under section CB 15(1) from disposing of the land is exempt income if the person’s end value proportion under section CW 3C (Certain partitions or subdivisions of land) is no more than 105% of their acquisition proportion under section CW 3C.
+**(2)**  The amount of income the person derives under section CB 15(1) from disposing of the land is exempt income if the person's end value proportion under section CW 3C (Certain partitions or subdivisions of land) is no more than 105% of their acquisition proportion under section CW 3C.
 
 **Partially exempt income when more than minor acquisition of land on partition or subdivision**
 
@@ -36,11 +36,11 @@ compilation_date: 2026-06-06
 
 **Acquisition proportion**
 
-**(6)**  Acquisition proportion is the person’s acquisition proportion as described in section CW 3C.
+**(6)**  Acquisition proportion is the person's acquisition proportion as described in section CW 3C.
 
 **End value proportion**
 
-**(7)**  End value proportion is the person’s end value proportion as described in section CW 3C.
+**(7)**  End value proportion is the person's end value proportion as described in section CW 3C.
 
 **Exclusion for group members and members of consolidated group**
 

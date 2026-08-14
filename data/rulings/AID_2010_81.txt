@@ -3,21 +3,17 @@ ATO ID 2010/81
 ==================================================
 
 Income Tax
-        US Limited Partnership:  whether it is a company for the purposes of Article 10 of the US Convention
-        FOI status: may be released
-
+ US Limited Partnership: whether it is a company for the purposes of Article 10 of the US Convention
+ FOI status: may be released
 
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a United States (US) limited partnership (US LP), which is treated as a partnership for US federal tax purposes, a company for the purposes of Article 10 of the Convention between Australia and the US contained in Schedules 2 and 2A to the International Tax Agreements Act 1953 (the US Convention)?
@@ -43,16 +39,12 @@ Reasons for Decision
 To qualify for benefits under the US Convention the claimant must first be a 'person' and a 'resident' for the purposes of the US Convention. In this case US LP, being a US domestic partnership, is both a 'person' and a US 'resident' according to the terms of the US Convention. Note that the US Convention is unusual in that it applies treaty benefits for income derived through fiscally transparent entities such as a partnership, at the level of the entity (in this instance US LP).
 Article 10 of the US Convention provides that certain cross-border inter-corporate dividends flowing between Australia and the US are either:
 
-
-
 •subject to a maximum of 5% rate of source country tax if the person beneficially entitled to those dividends is a company which holds directly at least 10 per cent of the voting power in the company paying the dividends (Article 10(2)(a) of the US Convention); or
 •exempt from source country tax where the person beneficially entitled to the dividends is a company that has owned shares representing 80 per cent or more of the voting power of the company paying the dividends for a 12 month period ending on the date the dividend is declared, and satisfies certain other conditions (Article 10(3) of the US Convention).
 
 The words of the US Convention are quite specific. For the reduced dividend withholding tax rates under Article 10(2)(a) or Article 10(3) of the US Convention to apply to an unfranked dividend paid by an Australian resident company, the person beneficially entitled to the dividend must be a 'company'. Here, the 'person' beneficially entitled to the dividends paid by the Australian resident company is US LP.
 Article 3(1)(b) of the US Convention defines 'company' for the purposes of the Convention 'unless the context otherwise requires', to mean 'any body corporate or any entity which is treated as a company or body corporate for tax purposes'.
 Accordingly, for the purposes of our analysis, US LP will be a 'company' for the purposes of the US Convention if:
-
-
 
 (a)it is a body corporate; or
 (b)it is an entity that is treated as a company or body corporate for tax purposes -
@@ -61,9 +53,9 @@ unless the context of the US Convention otherwise requires.
 
 (a) Is US LP a
  '
-          company' for the purpose of the US Convention by virtue of being a
+ company' for the purpose of the US Convention by virtue of being a
  '
-          body corporate'
+ body corporate'
 ?
 US LP is not a 'company' for the purpose of the US Convention by virtue of being a 'body corporate' for Australian purposes.
 The term 'body corporate' is not defined in the US Convention. Thus, in accordance with Article 3(2) of the US Convention, the term will generally take its meaning from the taxation laws of the country applying the tax treaty (being in this case Australia), 'unless the context otherwise requires'. As 'body corporate' is not defined in Australia's domestic income tax law legislation, the ordinary meaning of the term in Australia may then apply (see the tax treaty interpretation principles set out in paragraphs 63 to 71 of Taxation Ruling TR 2001/13 Income tax: Interpreting Australia's Double Tax Agreements).
@@ -77,43 +69,43 @@ Paragraph 12 of the OECD Commentary on Article 3 emphasises that the interpretat
 In this case, the OECD Commentary on the definition of 'company' is particularly relevant to the context of the term 'body corporate'. Paragraph 3 of the OECD Commentary on Article 3 provides the following:
 
 3. The term "company" means in the first place any body corporate. In addition, the term covers
-              any other taxable unit
-               that is treated
-              as a body corporate according to the tax laws
-               of the Contracting State in which it is
-              organised
-              . The definition is
-              drafted with special regard to the Article on dividends
-              . The term "company" has a bearing only on that Article, paragraph 7 of Article 5, and Article 16. [Emphasis added]
+ any other taxable unit
+ that is treated
+ as a body corporate according to the tax laws
+ of the Contracting State in which it is
+ organised
+ . The definition is
+ drafted with special regard to the Article on dividends
+ . The term "company" has a bearing only on that Article, paragraph 7 of Article 5, and Article 16. [Emphasis added]
 
 It follows from the OECD Commentary's statement that the second limb of the term covers
-          any other taxable unit
-          , that the first limb of the definition of 'company' is designed to deal only with entities which are bodies corporate under general law and also taxable units under tax law (which is a central consideration in applying the terms of Australia's tax treaties).
+ any other taxable unit
+ , that the first limb of the definition of 'company' is designed to deal only with entities which are bodies corporate under general law and also taxable units under tax law (which is a central consideration in applying the terms of Australia's tax treaties).
 While the requirement for the entity to also be a 'body corporate' for tax law purposes under the first limb is not explicit, treaties should be interpreted more 'liberally' than domestic legislation to smooth over the gaps, imprecision and ambiguities in the treaty text in a way that addresses the context and meets the object and purpose of the treaty, (see Fothergill v. Monarch Airlines Ltd, [1981] A.C. 251; per Lord Diplock; Thiel v. Federal Commissioner of Taxation (1990) 171 CLR 338; (1990) 90 ATC 4717; (1990) 21 ATR 531 per Dawson J; Commissioner of Taxation v. Lamesa Holdings BV, (1997) 77 FCR 597; (1997) 97 ATC 4752; (1997) 36 ATR 589 per Burchett, Hill and Emmett JJ, Courts Plc [2005] BVC 2003 and paragraphs 90-94 of TR 2001/13). Where the context of a term allows a specific tax law meaning and a non-tax law meaning, the former should prevail (see paragraph 68 of TR 2001/13).
 In addition, it is clear from the OECD Commentary on Article 3 that the question of whether a dividend recipient is an entity 'treated as a body corporate' for tax purposes must be made by reference to 'the tax laws of the Contracting State in which it is organised' - and not the state of source. Thus, paragraph 3 of the OECD Commentary on Article 3 provides with regard to the terms 'company' and 'body corporate' that the relevant taxation laws to consider are those of the country in which the entity was created (i.e. being the domestic laws that apply to the entity). The 'context' requires an examination of US taxation law and not Australian taxation law to determine whether a US entity is a 'company' for the purpose of qualifying for the reduced rate of withholding tax on inter-corporate dividends.
 Hence, in determining whether an entity is treated as a 'body corporate' for tax treaty purposes, reference is not made to the tax law of the country applying the treaty (in this case Australia), unless the entity was organised there. Specifically, as indicated above, the 'context' surrounding the terms 'company' and 'body corporate' in the US Convention, for the purpose of US LP qualifying for the either of the reduced rates of withholding tax on the unfranked dividends paid by the Australian resident company, requires an examination of US taxation law.
 Accordingly, to determine whether US LP is a 'body corporate' under the US Convention, the relevant consideration is where US LP was organised. US LP was not organised in Australia, but in the US. Hence, the potential Australian tax treatment of US LP (that is, that the entity can be treated as a company for Australian tax purposes by virtue of Division 5A of the ITAA 1936) is irrelevant. Rather, only the US tax treatment of US LP is relevant.
 US LP is not a taxable unit and so is not treated and taxed as a 'body corporate' for US federal tax purposes - but is treated and taxed as a partnership.
 Finally and importantly, paragraph 3 of the OECD Commentary on Article 3 emphasises that the definition of 'company' is '
-          drafted with special regard to the Article on
-           dividends' and 'the term "company" has a bearing only on that Article, paragraph 7 of Article 5, and Article 16.'
+ drafted with special regard to the Article on
+ dividends' and 'the term "company" has a bearing only on that Article, paragraph 7 of Article 5, and Article 16.'
 Paragraphs 10-11 of the OECD Commentary on Article 10 explains the rationale behind reduced taxation rates for inter-corporate dividends as follows:
 
 10. On the other hand, a lower rate (5 per cent) is expressly provided in respect of dividends paid by a subsidiary company to its parent company. If a
-              company
-               of one of the States owns
-              directly
-               a holding of at least 25 per cent in a company of the other State, it is reasonable that
-              payments of profits by the subsidiary to the foreign parent company
-               should be taxed less heavily to avoid recurrent taxation and to facilitate international investment. The realisation of this intention depends on the
-              fiscal treatment of the dividends
-               in the State of which the
-              parent company is a resident
-              . ...
+ company
+ of one of the States owns
+ directly
+ a holding of at least 25 per cent in a company of the other State, it is reasonable that
+ payments of profits by the subsidiary to the foreign parent company
+ should be taxed less heavily to avoid recurrent taxation and to facilitate international investment. The realisation of this intention depends on the
+ fiscal treatment of the dividends
+ in the State of which the
+ parent company is a resident
+ . ...
 
 11. If
-              a partnership is treated as a body corporate under the domestic laws
-               applying to it, the two Contracting States may agree to modify sub-paragraph (a) of paragraph 2 in a way to give the benefits of the reduced rate provided for parent companies also to such partnership. (Emphasis added)
+ a partnership is treated as a body corporate under the domestic laws
+ applying to it, the two Contracting States may agree to modify sub-paragraph (a) of paragraph 2 in a way to give the benefits of the reduced rate provided for parent companies also to such partnership. (Emphasis added)
 
 Paragraph 2 of Article 10 of the OECD Model Tax Convention is not materially different from paragraph 2 of Article 10 in the US Convention, with the exception of the differences in the percentage holding thresholds in the respective treaties.
 Klaus Vogel on Double Tax Conventions, Vogel, K et al 1997, 3rd edition, Kluwer Law, The Hague, makes the following statements (at pages 583-584 and 599) about paragraph 2 of Article 10 of the OECD Model Tax Convention:
@@ -131,19 +123,19 @@ US LP is not a taxable unit and not a 'body corporate' for US tax purposes. Ther
 
 (b) Is US LP a
  '
-          company' for the purpose of the US Convention under the second limb of the meaning of the term
+ company' for the purpose of the US Convention under the second limb of the meaning of the term
  '
-          company'
+ company'
  -
-          that Is to say, is US LP an entity that is treated as a
+ that Is to say, is US LP an entity that is treated as a
  '
-          company' or
+ company' or
  '
-          body corporate' for tax purposes
+ body corporate' for tax purposes
 ?
 The OECD Commentary on the definition of 'company' (outlined above) makes it clear that, under the second limb of the definition, the determination is to be made by reference to the laws of the State in which the entity is
-          organised
-           (in this case US federal tax law).
+ organised
+ (in this case US federal tax law).
 US LP is not taxed as a 'company' or 'body corporate' for US federal tax purposes. Rather it is treated and taxed as a partnership. This is essentially because, although US LP has a form of separate legal personality under Delaware state law, the US federal tax position is that while state law attributes of an entity control various aspects of business relations, they are not controlling under US tax law (unless the tax law so provides) - see Morrissey v. Commissioner of Internal Revenue, 296 U.S. 344 (1935); United States v. R Kintner; 216 F.2d 418 (9th Cir. 1954); McNamee v. Dept of the Treasury, 2007 U.S. App. LEXIS 12016, 488 F.3d 100, (2nd Cir. 2007).
 In general, under the US 'check-the-box' (CTB) Treasury Regulations, any separate business entity other than an incorporated entity may choose its classification for tax purposes. Specifically, US CTB Treasury Regulations §301.7701-2(b)(1) and §301.7701-3(a) do not allow an entity organized under a Federal or State statute, that refers to the organization as 'incorporated', 'corporation', 'body corporate', or 'body politic', to elect its classification. Instead, such an entity is taxed as a corporation; see Checking in on "Check-the-Box ", Loyola of Los Angeles Law Review [Vol. 42:451], by Heather M. Field.
 The DRULPA does not refer to a limited partnership created under its provisions as 'incorporated', a 'corporation', 'body corporate' or 'body politic' and US LP is not mandatorily taxed as a corporation. Rather, US LP is taxed as a partnership unless it elects to be taxed as a corporation. As no such election was made by US LP, it is not a taxable unit and is not taxed as a corporation under the tax laws of the US.
@@ -154,27 +146,25 @@ Conclusion
 For the purpose of the US Convention, US LP is neither a 'body corporate' nor an 'entity that is treated as a company or body corporate for tax purposes'. Consequently it is not a 'company' for the purpose of Article 10 of the US Convention, and does not qualify for either of the reduced rates for certain cross-border inter-corporate dividends flowing between Australia and the US.
 This is consistent with the US position for tax treaty purposes which is that a US partnership which does not elect to be taxed as a corporation will not be a 'company' for US treaty purposes. The Issues in International Taxation No. 6 'The Application of the OECD Model Tax Convention to Partnerships' report includes the US response to the OECD Partnership Report at page 127. This response states that US partnerships (including limited partnerships such as Delaware limited partnerships, but also US LLCs and LLPs) not electing to be treated as corporations are not considered to be companies for the purposes of US tax treaties.
 
-
 Note. Article 10(2)(b) of the US Convention provides a reduced rate of 15% in some circumstances, and does not require the recipient of the dividend to be a company. US LP will be entitled to the reduced rate of 15% if it satisfies all of the requirements for that reduction.
 
 Date of decision:
-         23 October 2009
+  23 October 2009
 
 Year of income:
-           Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011
+  Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011
 
 Legislative References:
 
 Income Tax Assessment Act 1936   Division 5A   section 94T   section 128D
 Income Tax Assessment Act 1997   Division 830   section 830-10   paragraph 830-10(1)(e)
 International Tax Agreements Act 1953   Schedule 2, Article 3(1)(b)   Schedule 2, Article 3(2)   Schedule 2, Article 4(1)(b)(iii)   Schedule 2, Article 10   Schedule 2, Article 10(2)(a)   Schedule 2, Article 10(2)(b)   Schedule 2, Article 10(3)
-          Corporations Act 2001   The Act
+ Corporations Act 2001   The Act
 Delaware Revised Uniform Partnership Act   The Act
 Delaware Revised Uniform Limited Partnership Act   section 15-201   section 15-202   section 15-301   section 15-306   section 15-401   section 17-201   paragraph 17-201(b)   section 17-503   section 17-504
 United States 'check-the-box' (CTB) Treasury Regulations act   s 301.7701-2(b)(1)   s 301.7701-3(a)
 
 Case References:
-
 
 Chaff and Hay Acquisition Committee v Hemphill   (1947) 74 CLR 375   [2005] BVC 2003
 
@@ -189,7 +179,6 @@ Morrissey v Commissioner of Internal Revenue   296 US 344 (1935)
 Thiel v Federal Commissioner of Taxation   (1990) 171 CLR 338   (1990) 90 ATC 4717   (1990) 21 ATR 531
 
 United States v R Kintner   216 F2d 418 (9th Cir 1954)
-
 
 Related Public Rulings (including Determinations)
 
@@ -208,30 +197,28 @@ Related ATO Interpretative Decisions
 Other References:
 
 Butterworths Australian Legal Dictionary, 1997
-          Checking in on "Check-The-Box ", Loyola of Los Angeles Law Review [Vol. 42:451], Heather M. Field
-          International Taxation No. 6 'The Application of the OECD Model Tax Convention to Partnerships'
-          Klaus Vogel on Double Tax Conventions, Vogel, K et al 1997, 3rd edition, Kluwer Law, The Hague
-          Macquarie Dictionary, Fourth edition, 2005
-          OECD Model Tax Convention and Commentary
-
+ Checking in on "Check-The-Box ", Loyola of Los Angeles Law Review [Vol. 42:451], Heather M. Field
+ International Taxation No. 6 'The Application of the OECD Model Tax Convention to Partnerships'
+ Klaus Vogel on Double Tax Conventions, Vogel, K et al 1997, 3rd edition, Kluwer Law, The Hague
+ Macquarie Dictionary, Fourth edition, 2005
+ OECD Model Tax Convention and Commentary
 
 Keywords
 
 Bodies corporate
-          Limited partnerships
-          Non resident companies
-          Non resident partnerships
-          Unfranked dividends
-
+ Limited partnerships
+ Non resident companies
+ Non resident partnerships
+ Unfranked dividends
 
 Siebel/TDMS Reference Number:
-         4976195
+  4976195
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         9 April 2010
+  9 April 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

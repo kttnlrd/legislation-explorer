@@ -43,7 +43,7 @@ source_pdf: "vol01.pdf"
 <a id="s8ZC-3"></a>
 **(3)**  This section has effect subject to section 80 of the Constitution.
 
-> **Note:** This section does not apply as an averment. For averments, see section 8ZL of this Act and section 13.6 of the Criminal Code. Authorised Version C2026C00170 registered 28/04/2026
+> **Note:** This section does not apply as an averment. For averments, see section 8ZL of this Act and section 13.6 of the Criminal Code.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

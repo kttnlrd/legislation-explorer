@@ -3,18 +3,14 @@ ATO ID 2004/96
 ==================================================
 
 Income Tax
-        Consolidation: chosen transitional entity - owned profits in transitional group and adjustment to allocable cost amount
-        FOI status: may be released
-
-
+ Consolidation: chosen transitional entity - owned profits in transitional group and adjustment to allocable cost amount
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does an adjustment under section 705-160 of the Income Tax Assessment Act 1997 (ITAA 1997) occur in the first non-chosen subsidiary, where it is above a chosen transitional entity, for a step 3 amount in a non-chosen subsidiary below the chosen transitional entity?
@@ -24,7 +20,6 @@ Facts
 The group is a transitional group as defined by section 701-1 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997).
 Head company has made the choice for C Co to be a chosen transitional entity in accordance with section 701-5 of the IT(TP)A 1997.
 W Co has a step 3 amount for the purposes of the table in section 705-60 of the ITAA 1997 and in subsection 701-20(5) of the IT(TP)A 1997.
-
 
 Reasons for Decision
 Section 701-20 of the (IT(TP)A 1997 provides that a transitional group's allocable cost amount (ACA) for each non-chosen subsidiary must be worked out in a special way when the group includes a chosen transitional entity. The ACA for each non-chosen subsidiary is the sum of the head company adjusted allocable amount for the non-chosen subsidiary and, for each sub-group that exists in relation to the non-chosen subsidiary, the sum of each sub-group's notional allocable cost amount for the non-chosen subsidiary (subsection 701-20(3) of the IT(TP)A 1997).
@@ -36,10 +31,10 @@ Because the sub-group membership interests are disregarded, the requirements of 
 Although A Co (the entity in paragraph 705-160(4)(a) of the ITAA 1997) holds membership interests in B Co (the second entity in paragraph 705-160(4)(b) of the ITAA 1997), B Co does not hold membership interests directly or indirectly in a third entity with a step 3 amount because of paragraph 701-20(4)(a) of the IT(TP)A 1997.
 The step 3 amount of W Co under the table in section 705-60 of the ITAA 1997 will not therefore result in any section 705-160 adjustments in the working out of the section 705-35 of the ITAA 1997 tax cost setting amounts in A Co which would affect the calculation of the ACA for B Co in this transitional group.
 Date of decision:
-         12 December 2003
+  12 December 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -53,25 +48,24 @@ Related ATO Interpretative Decisions
 Keywords
 
 Allocable cost amount
-          Allocation of the allocable cost amount
-          Chosen transitional entity
-          Consolidation
-          Consolidation - assets
-          Consolidation - formation
-          Cost setting rules
-          Non-chosen subsidiary
-          Tax cost setting amount
-          Transitional group
-
+ Allocation of the allocable cost amount
+ Chosen transitional entity
+ Consolidation
+ Consolidation - assets
+ Consolidation - formation
+ Cost setting rules
+ Non-chosen subsidiary
+ Tax cost setting amount
+ Transitional group
 
 Siebel/TDMS Reference Number:
-         3692325
+  3692325
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         6 February 2004
+  6 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

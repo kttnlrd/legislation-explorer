@@ -3,18 +3,14 @@ ATO ID 2011/85
 ==================================================
 
 Income Tax
-        Functional Currency Choice: A subsidiary member within a tax consolidated group cannot use a currency that is different from the 'applicable functional currency' chosen by the head company of that tax consolidated group, for the purposes of working out the head company's taxable income or tax loss
-        FOI status: may be released
-
-
+ Functional Currency Choice: A subsidiary member within a tax consolidated group cannot use a currency that is different from the 'applicable functional currency' chosen by the head company of that tax consolidated group, for the purposes of working out the head company's taxable income or tax loss
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an eligible tier-1 company which is a subsidiary member of a Multiple Entry Consolidated (MEC) group, use the AUD for the purposes of working out the head company's taxable income or tax loss, when another eligible tier-1 company which is the head company of the MEC group has made a choice to use USD as its 'applicable functional currency' under Subdivision 960-D of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -90,10 +86,10 @@ Conclusion
 
 Only Austco-1 as the head company of the MEC group has a taxable income or a tax loss and is able to choose an 'applicable functional currency' under subsection 960-60(1). In order to do this, it needs to satisfy the requirement that the 'sole or predominant currency in which it keeps its accounts' is a currency other than AUD. This will require an examination of all the 'accounts' of the MEC group as a whole (see Taxation Determination TD 2007/24). If the head company has made an effective choice to use USD as its 'applicable functional currency', the functional currency choice will apply to all subsidiary members of the MEC group.
 Date of decision:
-         17 October 2011
+  17 October 2011
 
 Year of income:
-           30 June 2012
+  30 June 2012
 
 Legislative References:
 
@@ -110,24 +106,22 @@ Other References:
 
 Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates
 
-
 Keywords
 
 Accounts
-          Applicable functional currency
-          Consolidated group
-          Multiple entry consolidated group
-          Single entity rule
-
+ Applicable functional currency
+ Consolidated group
+ Multiple entry consolidated group
+ Single entity rule
 
 Siebel/TDMS Reference Number:
-         1-2XFGXLM
+  1-2XFGXLM
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 October 2011
+  28 October 2011
 
 ISSN:
-          1445-2782
+ 1445-2782

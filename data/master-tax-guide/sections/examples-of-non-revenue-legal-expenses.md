@@ -37,13 +37,13 @@ Action Settlement Fund 2020 ATC ¶20-748; [2020] FCAFC 92)
 
 - costs of defending the legal validity of a contract on the basis of which the viability of the
 
-  taxpayer’s business depended (PBL Marketing Pty Ltd 85 ATC 4416)
+  taxpayer's business depended (PBL Marketing Pty Ltd 85 ATC 4416)
 
-- costs of defending a driving charge where the taxpayer’s employment was conditional on holding
+- costs of defending a driving charge where the taxpayer's employment was conditional on holding
 
-  a driver’s licence (Case Q99 83 ATC 491)
+  a driver's licence (Case Q99 83 ATC 491)
 
-- trustee’s expenses of unsuccessful opposition to an action for the trustee’s removal (3 TBRD
+- trustee's expenses of unsuccessful opposition to an action for the trustee's removal (3 TBRD
 
   Case C107)
 
@@ -77,9 +77,9 @@ Action Settlement Fund 2020 ATC ¶20-748; [2020] FCAFC 92)
 
 V140 88 ATC 875; [1988] AATA 638)
 
-- costs incurred by a salesman in obtaining a restricted driver’s licence to enable him to drive for
+- costs incurred by a salesman in obtaining a restricted driver's licence to enable him to drive for
 
-  business purposes during speciﬁed hours while his driver’s licence was cancelled (Case P54 82
+  business purposes during speciﬁed hours while his driver's licence was cancelled (Case P54 82
 
 ATC 249)
 
@@ -91,23 +91,23 @@ ATC 249)
 
   ATC 2235; [2003] AATA 1079)
 
-- employee’s costs of defending an allegation of sexual harassment at work (ID 2002/664)
+- employee's costs of defending an allegation of sexual harassment at work (ID 2002/664)
 
-- an investor’s expenses incurred in challenging the redemption of units he held in an investment
+- an investor's expenses incurred in challenging the redemption of units he held in an investment
 
   fund (Cachia 2005 ATC 2178; [2005] AATA 479) or to stop a further share issue (ID 2007/136)
 
 - legal expenses in relation to an ASIC investigation incurred by a company director who did not
 
-  receive any director’s fees or share of proﬁts (ID 2003/801)
+  receive any director's fees or share of proﬁts (ID 2003/801)
 
 - costs incurred in seeking registration as a tax agent (Case Y49 91 ATC 444; [1991] AATA 614)
 
-- professional footballer’s legal costs in obtaining a release from his home league (Kemp 92 ATC
+- professional footballer's legal costs in obtaining a release from his home league (Kemp 92 ATC
 
   4542; [1992] FCA 478)
 
-- pharmaceutical company’s legal costs incurred in trying to prevent competitors from gaining
+- pharmaceutical company's legal costs incurred in trying to prevent competitors from gaining
 
   approval to market competing products (Smithkline Beecham Laboratories (Australia) 93 ATC
 

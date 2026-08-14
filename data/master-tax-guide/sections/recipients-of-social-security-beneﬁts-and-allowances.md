@@ -7,7 +7,7 @@ paragraph: "¶15-315"
 ---
 # Recipients of social security beneﬁts and allowances ¶15-315
 
-Taxpayers whose assessable income includes certain beneﬁts are entitled to a rebate of tax known as the “beneﬁciary rebate” (ITAA36 s 160AAA(1), (3)). The various payments that entitle a taxpayer to the beneﬁciary rebate are:
+Taxpayers whose assessable income includes certain beneﬁts are entitled to a rebate of tax known as the "beneﬁciary rebate" (ITAA36 s 160AAA(1), (3)). The various payments that entitle a taxpayer to the beneﬁciary rebate are:
 
 - certain Australian social security payments — ie Newstart allowance/JobSeeker Payment,
 
@@ -23,7 +23,7 @@ Taxpayers whose assessable income includes certain beneﬁts are entitled to a r
 
 - Commonwealth education or training payments — ie youth allowance; allowances paid under
 
-Austudy, ABSTUDY, the Veterans’ Children Education Scheme and the Assistance for Isolated Children Scheme; education and training scheme payments made under the Military Rehabilitation and Compensation Act 2004; and payments to or on behalf of a participant in a Commonwealth labour market program (ITAA97 s 52-145(1)). However, such payments will not qualify for the beneﬁciary rebate if the recipient, or the individual on whose behalf the payment is received, is an employee of a person who is entitled to a related Commonwealth employment subsidy, and
+Austudy, ABSTUDY, the Veterans' Children Education Scheme and the Assistance for Isolated Children Scheme; education and training scheme payments made under the Military Rehabilitation and Compensation Act 2004; and payments to or on behalf of a participant in a Commonwealth labour market program (ITAA97 s 52-145(1)). However, such payments will not qualify for the beneﬁciary rebate if the recipient, or the individual on whose behalf the payment is received, is an employee of a person who is entitled to a related Commonwealth employment subsidy, and
 
 - interim income support payments made to farmers and small business owners aﬀected by
 

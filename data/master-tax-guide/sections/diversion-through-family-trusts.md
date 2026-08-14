@@ -13,7 +13,7 @@ The most signiﬁcant features of a typical family trust are as follows.
 
   contributed the bulk of the trust estate), but may be a trusted friend or family member of the client
 
-— is given wide discretionary powers in relation to the distribution of income and the appointment of capital among members of the client’s family (ie a discretionary trust). In particular, the trustee should have the discretion to distribute diﬀerent categories of income to diﬀerent beneﬁciaries and to treat, as trust income, capital gains or receipts deemed to be income for tax purposes — otherwise the tax advantages of a family trust are greatly reduced.
+— is given wide discretionary powers in relation to the distribution of income and the appointment of capital among members of the client's family (ie a discretionary trust). In particular, the trustee should have the discretion to distribute diﬀerent categories of income to diﬀerent beneﬁciaries and to treat, as trust income, capital gains or receipts deemed to be income for tax purposes — otherwise the tax advantages of a family trust are greatly reduced.
 
 - A clause in the trust deed gives the client the power to remove any trustee and to appoint a new
 
@@ -23,7 +23,7 @@ The most signiﬁcant features of a typical family trust are as follows.
 
   borrow money.
 
-Discretionary family trusts Discretionary family trusts provide ﬂexibility in relation to distributions of income and assets among members of the client’s family, while at the same time permitting the client to maintain either direct or indirect control over funds or other assets that have become the property of the family members. “Streaming” a category of trust income to a particular beneﬁciary provides tax planning opportunities. For example, foreign tax oﬀsets can be best utilised by resident individual beneﬁciaries with high marginal tax rates and net capital gains can be best utilised by beneﬁciaries with carry-forward capital losses, low income beneﬁciaries with carry- forward revenue losses and minors able to receive excepted trust income (¶2-210). The streaming of net capital gains and franked distributions are governed by speciﬁc statutory rules (¶4-860, ¶11-060).
+Discretionary family trusts Discretionary family trusts provide ﬂexibility in relation to distributions of income and assets among members of the client's family, while at the same time permitting the client to maintain either direct or indirect control over funds or other assets that have become the property of the family members. "Streaming" a category of trust income to a particular beneﬁciary provides tax planning opportunities. For example, foreign tax oﬀsets can be best utilised by resident individual beneﬁciaries with high marginal tax rates and net capital gains can be best utilised by beneﬁciaries with carry-forward capital losses, low income beneﬁciaries with carry- forward revenue losses and minors able to receive excepted trust income (¶2-210). The streaming of net capital gains and franked distributions are governed by speciﬁc statutory rules (¶4-860, ¶11-060).
 
 Note also the provisions directed at disclosure of ultimate beneﬁciaries in closely held trusts (¶6-275).
 
@@ -41,13 +41,13 @@ Loss trusts The trust loss measures, which limit the circumstances in which trus
 
 - the problems of diverting income to the loss trust to absorb available losses — in particular,
 
-ITAA36 s 100A may apply where the diversion is eﬀected by means of a distribution from another trust (¶6-270; TR 2022/4; PCG 2022/2; “100A developments: what advisers need to know…”, CCH Australian Tax Week Issue 4, 2023).
+ITAA36 s 100A may apply where the diversion is eﬀected by means of a distribution from another trust (¶6-270; TR 2022/4; PCG 2022/2; "100A developments: what advisers need to know…", CCH Australian Tax Week Issue 4, 2023).
 
 Loans As noted at ¶31-530, the ATO may review loans by family trusts to beneﬁciaries and by trustee companies to shareholders and/or directors, to determine whether they may be loan fringe beneﬁts (¶35-270) giving rise to an FBT liability, or whether, in the case of loans by private companies, the loans should be deemed to be dividends (¶4-210).
 
-Diversion to children The diversion of income to children who are too young to have independent incomes is aﬀected by ITAA36 Div 6AA, as a result of which most of this income is taxed at higher than normal rates (¶2-160). Minors covered by Div 6AA also cannot claim the beneﬁt of the low income earner’s rebate (¶15-330).
+Diversion to children The diversion of income to children who are too young to have independent incomes is aﬀected by ITAA36 Div 6AA, as a result of which most of this income is taxed at higher than normal rates (¶2-160). Minors covered by Div 6AA also cannot claim the beneﬁt of the low income earner's rebate (¶15-330).
 
-Distributions to superannuation funds Discretionary trust distributions to superannuation funds are generally taxed at 45% (¶6-170). Distributions to superannuation funds by a unit trust are taxed at 15%, except to the extent that the distribution exceeds an arm’s length amount (the excess is taxed at 45%).
+Distributions to superannuation funds Discretionary trust distributions to superannuation funds are generally taxed at 45% (¶6-170). Distributions to superannuation funds by a unit trust are taxed at 15%, except to the extent that the distribution exceeds an arm's length amount (the excess is taxed at 45%).
 
 Distributions to tax-exempt beneficiaries For rules that may expose tax-exempt beneﬁciaries to tax on trust distributions, see ¶6-274.
 
@@ -75,11 +75,11 @@ Another issue is that a beneﬁciary, on turning 18, will be entitled to demand 
 
   assets of another business or used for retirement purposes (see above), and
 
-- the “prudent person principle” in most states’ legislation regulating trusts — in the absence of a
+- the "prudent person principle" in most states' legislation regulating trusts — in the absence of a
 
   provision in the trust deed specifying otherwise, this principle requires trustees to make investments
 
-  in light of the beneﬁciaries’ tax requirements (including whether they can use imputation credits, the
+  in light of the beneﬁciaries' tax requirements (including whether they can use imputation credits, the
 
   eﬀect of selling pre-CGT assets and the CGT consequences of changing investments).
 

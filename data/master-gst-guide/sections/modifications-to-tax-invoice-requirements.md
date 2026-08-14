@@ -11,7 +11,7 @@ The Commissioner can waive or modify the requirement that a tax invoice must be 
 
 - corporate credit or charge card statements (see below)
 
-- importations of services under the “reverse charge” rules (¶9-100)
+- importations of services under the "reverse charge" rules (¶9-100)
 
 - direct entry services (LI 2025/10)
 
@@ -69,13 +69,13 @@ Documents that do not strictly comply The Commissioner also has a discretion to 
 
   realities of record-keeping. The ATO will take into account factors such as:
 
-– whether the error is minor in legal or money terms – whether any missing information is provided in other documentation – the taxpayer’s compliance record – the adequacy of their record-keeping systems, and – their GST “experience” level.
+– whether the error is minor in legal or money terms – whether any missing information is provided in other documentation – the taxpayer's compliance record – the adequacy of their record-keeping systems, and – their GST "experience" level.
 
 Further details are given in the Practice Statement and in GST Ruling GSTR 2013/1. The AAT has commented that these situations should not necessarily be limited to special circumstances, but that it would normally be necessary for the taxpayer to show that it had acted with reasonable care and in good faith (Queensland Harvesters Pty Ltd v FC of T 2009 ATC ¶10-088). It would also normally be necessary for the taxpayer to show that if the discretion was not exercised, it would lose the benefit of obtaining any ITC for the payment (BSRJ v FC of T 2021 ATC ¶10-563; [2021] AATA 333). Note also that taxpayers may disregard minor errors and treat other documents as tax invoices in certain situations (¶5-110).
 
-Where the discretion is not exercised in the taxpayer’s favour, the ITC is disallowed. However, it is possible that additional penalties and general interest charge may be waived if the acquisition was otherwise creditable. The taxpayer may seek a review of the decision under the Administrative Decisions (Judicial Review) Act 1977. They may also object against an assessment that excludes an ITC as a result of the decision not to exercise the discretion (¶18-600).
+Where the discretion is not exercised in the taxpayer's favour, the ITC is disallowed. However, it is possible that additional penalties and general interest charge may be waived if the acquisition was otherwise creditable. The taxpayer may seek a review of the decision under the Administrative Decisions (Judicial Review) Act 1977. They may also object against an assessment that excludes an ITC as a result of the decision not to exercise the discretion (¶18-600).
 
-Whether the discretion is exercised or not, the supplier remains liable to issue the tax invoice within 28 days of the recipient’s request (Practice Statement PS LA 2007/3). For penalties, see ¶18-300.
+Whether the discretion is exercised or not, the supplier remains liable to issue the tax invoice within 28 days of the recipient's request (Practice Statement PS LA 2007/3). For penalties, see ¶18-300.
 
 A single tax invoice may be issued for a series of supplies under a progressive or periodic contract, such as a lease. For further details, including the position of novated leases, see ¶7-420.
 

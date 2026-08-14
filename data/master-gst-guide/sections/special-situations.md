@@ -11,7 +11,7 @@ The following rules govern how the margin scheme applies in particular situation
 
 - Where real property was acquired on or after 9 December 2008, the taxable supply of that property
 
-  to an associate may be deemed to be a “sale” — and may therefore fall within the margin scheme —
+  to an associate may be deemed to be a "sale" — and may therefore fall within the margin scheme —
 
   even though no consideration is provided (s 75-5(1B)): see ¶11-100. Note that under a separate rule, a
 
@@ -29,7 +29,7 @@ The following rules govern how the margin scheme applies in particular situation
 
   or its GST-inclusive market value as at the time you acquired it (if this is on or after 1 July 2000).
 
-However, a special rule applies if you originally acquired the property on or after 9 December 2008 for no consideration from a registered associate under a non-taxable supply made in the course of the associate’s enterprise. In such a case, the margin on your subsequent sale of the property is calculated as the difference between: (1) the price you sell the property for, and (2) the price for which the associate acquired the property, or its market value at the date of that acquisition. If the acquisition by the associate was pre-1 July 2000, a valuation is made as at that date (s 75-11).
+However, a special rule applies if you originally acquired the property on or after 9 December 2008 for no consideration from a registered associate under a non-taxable supply made in the course of the associate's enterprise. In such a case, the margin on your subsequent sale of the property is calculated as the difference between: (1) the price you sell the property for, and (2) the price for which the associate acquired the property, or its market value at the date of that acquisition. If the acquisition by the associate was pre-1 July 2000, a valuation is made as at that date (s 75-11).
 
 - If you supply the property to an associate, the margin is calculated as if the consideration for the
 
@@ -41,7 +41,7 @@ The ATO considers that if a general law partnership (¶4-010) supplies real prop
 
 Inherited property If you inherited the property, you and the deceased are treated, in effect, as one entity for the purposes of the margin rules (s 75-11). This rule is beneficial to taxpayers, as it overcomes a previous anomaly that the full price was subject to GST because the beneficiary had not paid any consideration.
 
-In calculating the margin on your subsequent supply of the property, you can treat the cost as the consideration for the acquisition of the property by the deceased. Alternatively, you may determine the cost on the basis of a valuation, in accordance with the following rules: (1) if the deceased acquired the property on or after 1 July 2000, the margin on your subsequent supply of the property is the amount by which the consideration for that supply exceeds an approved valuation of the property as at the date the deceased acquired it (2) if the deceased acquired the property before 1 July 2000, and was registered (or required to be), the date of the valuation is the later of 1 July 2000 or the first day on which the deceased registered or was required to register (3) if the deceased acquired the property before 1 July 2000, and was not registered (or required to be), the date of the valuation is the later of 1 July 2000, the date of inheritance, or the first day on which you registered or were required to register. “Inherit” includes acquiring property from a deceased estate by way of court order or deed of arrangement.
+In calculating the margin on your subsequent supply of the property, you can treat the cost as the consideration for the acquisition of the property by the deceased. Alternatively, you may determine the cost on the basis of a valuation, in accordance with the following rules: (1) if the deceased acquired the property on or after 1 July 2000, the margin on your subsequent supply of the property is the amount by which the consideration for that supply exceeds an approved valuation of the property as at the date the deceased acquired it (2) if the deceased acquired the property before 1 July 2000, and was registered (or required to be), the date of the valuation is the later of 1 July 2000 or the first day on which the deceased registered or was required to register (3) if the deceased acquired the property before 1 July 2000, and was not registered (or required to be), the date of the valuation is the later of 1 July 2000, the date of inheritance, or the first day on which you registered or were required to register. "Inherit" includes acquiring property from a deceased estate by way of court order or deed of arrangement.
 
 These rules do not apply if the special rules covering acquisitions from fellow GST group members apply.
 
@@ -53,9 +53,9 @@ The margin scheme may also apply even though part of the property was not eligib
 
 For property acquired on or after 9 December 2008 (¶11-100), there is also provision for apportionment of the margin in cases where the property was acquired though several acquisitions which involve different ways of calculating the margin (s 75-16).
 
-Partitions For the ATO’s guidelines on the application of the margin scheme where co-owned land is partitioned, see GST Ruling GSTR 2009/2.
+Partitions For the ATO's guidelines on the application of the margin scheme where co-owned land is partitioned, see GST Ruling GSTR 2009/2.
 
-GST groups and joint ventures The intention is that GST group transactions cannot be used to “re-open” eligibility to the margin scheme.
+GST groups and joint ventures The intention is that GST group transactions cannot be used to "re-open" eligibility to the margin scheme.
 
 This means that if you acquire real property from a fellow GST group member, the margin scheme cannot apply to your subsequent supply of the property unless the group member who first acquired the property from outside the group could have applied the margin scheme to a supply outside the group (s 75-5). The government regards this specific statutory rule simply clarifies the law, and does not change it.
 

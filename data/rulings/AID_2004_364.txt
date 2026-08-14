@@ -3,18 +3,14 @@ ATO ID 2004/364
 ==================================================
 
 Income Tax
-        Consolidation - extent a tax loss is transferred from a corporate tax entity to a head company
-        FOI status: may be released
-
-
+ Consolidation - extent a tax loss is transferred from a corporate tax entity to a head company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the extent to which a tax loss is transferred from a corporate tax entity to a head company under subsection 707-120(1) of the Income Tax Assessment Act 1997 (ITAA 1997), determined as if a choice is made by the corporate tax entity, under section 36-17 of the ITAA 1997, to deduct the maximum amount of the tax loss that could be deducted in the trial year?
@@ -30,10 +26,10 @@ Under section 36-17 of the ITAA 1997, a corporate tax entity can choose the amou
 It is inferred that the company is taken to have made the choice under section 36-17 of the ITAA 1997 to deduct all of the tax loss in the trial year. Accordingly, the amount of the tax loss that will be transferred to the head company will be the maximum amount that could have been deducted by the company in the trial year.
 As a consequence, this allows the head company as the 'owner' of the tax loss to make a choice under section 36-17 of the ITAA 1997 as to how much of the transferred tax loss it will deduct from its income when it utilises the loss.
 Date of decision:
-         20 April 2004
+  20 April 2004
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -42,25 +38,24 @@ Income Tax Assessment Act 1997   section 36-17   Subdivision 707-A   se
 Keywords
 
 Consolidated group
-          Consolidation
-          Consolidation - losses
-          Corporate tax entity
-          Head company
-          Joining entity
-          Joining time
-          Tax loss
-          Transfer of losses
-          Trial year
-
+ Consolidation
+ Consolidation - losses
+ Corporate tax entity
+ Head company
+ Joining entity
+ Joining time
+ Tax loss
+ Transfer of losses
+ Trial year
 
 Siebel/TDMS Reference Number:
-         3982651
+  3982651
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         30 April 2004
+  30 April 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

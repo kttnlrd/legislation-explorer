@@ -3,18 +3,14 @@ ATO ID 2003/875
 ==================================================
 
 Income Tax
-        Capital gains tax: Demerger - CGT status of new interests where CGT rollover not chosen
-        FOI status: may be released
-
-
+ Capital gains tax: Demerger - CGT status of new interests where CGT rollover not chosen
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 125-85 of the Income Tax Assessment Act 1997 (ITAA 1997) deem the new interests of a shareholder to have been acquired before 20 September 1985 if their original interests were acquired before 20 September 1985?
@@ -29,10 +25,10 @@ However, where a CGT event happens to the shareholder's original interests and r
 Subsection 125-85(2) of the ITAA 1997 requires that the cost base and reduced cost base of the original interest is apportioned between the original interest and the new interest, based on the relative market values of those interests as per subsection 125-80(2) of the ITAA 1997.
 Subsection 125-85(2) does not provide for the provisions in subsections 125-80(4) to (7) of the ITAA 1997 to apply to deem any of the new interests to have a pre-CGT status (acquired before 20 September 1985).
 Date of decision:
-         22 September 2003
+  22 September 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -41,25 +37,24 @@ Income Tax Assessment Act 1997   Division 125   section 125-80   subsec
 Keywords
 
 Capital gains tax
-          CGT choice
-          CGT cost base
-          CGT events
-          CGT original assets
-          Cost base adjustments
-          Demerger roll-over
-          Demerger subsidiary
-          Demerging entity
-          Pre-CGT assets
-
+ CGT choice
+ CGT cost base
+ CGT events
+ CGT original assets
+ Cost base adjustments
+ Demerger roll-over
+ Demerger subsidiary
+ Demerging entity
+ Pre-CGT assets
 
 Siebel/TDMS Reference Number:
-         3730369
+  3730369
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         3 October 2003
+  3 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

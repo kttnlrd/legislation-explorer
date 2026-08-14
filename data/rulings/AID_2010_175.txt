@@ -3,18 +3,14 @@ ATO ID 2010/175
 ==================================================
 
 Income Tax
-        Foreign income tax offset: entitlement where foreign capital gain is only partly assessable in Australia
-        FOI status: may be released
-
-
+ Foreign income tax offset: entitlement where foreign capital gain is only partly assessable in Australia
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a resident of Australia pays foreign income tax on the whole of a foreign capital gain which is only partly assessable in Australia, does only a proportionate share of the foreign income tax count towards the foreign income tax offset under subsection 770-10(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -36,7 +32,6 @@ The phrase gathers meaning from the context in which it appears and it is that c
 Subsection 770-5(1) of the ITAA 1997 provides relevant context by explaining the object of Division 770 as follows:
 
 The object of this Division is to relieve double taxation where:
-
 
 (a)you have paid foreign tax on amounts included in your assessable income; and
 (b)you would, apart from this Division, pay Australian tax on the same amounts.
@@ -66,16 +61,14 @@ The Commissioner's view is that the statement above from Example 1.20 in the Exp
 The rest of the Explanatory Memorandum, in particular, paragraph 1.18 and other similar passages are still considered to be relevant contextual guidance because they are consistent with the words and purpose of the legislation and they consistently confirm that the meaning of the phrase 'in respect of an amount that is all or part of an amount included in your assessable income for the year' in subsection 770-10(1) of the ITAA 1997 requires an apportionment approach.
 Consequently, where a resident of Australia pays foreign income tax on the whole of a foreign capital gain but only 50% of the gain is included in the assessable income of the taxpayer in Australia because the taxpayer is entitled to the CGT discount, only 50% of the foreign income tax counts towards the foreign income tax offset under subsection 770-10(1) of the ITAA 1997.
 
-
-
 Note
-                : an apportionment approach would also apply in other similar circumstances, for example, where only part of a foreign capital gain is assessable in Australia because the gain is subject to the small business active asset concessions in Division 152 of the ITAA 1997 or because a foreign capital gain is reduced by a capital loss under Division 102 of the ITAA 1997. Again, the amount of foreign income tax paid that counts towards the foreign income tax offset for the year under subsection 770-10(1) of the ITAA 1997 will be the proportion of the foreign tax that corresponds with the proportion of the foreign gain that is included in assessable income in Australia and thus subject to double taxation.
+ : an apportionment approach would also apply in other similar circumstances, for example, where only part of a foreign capital gain is assessable in Australia because the gain is subject to the small business active asset concessions in Division 152 of the ITAA 1997 or because a foreign capital gain is reduced by a capital loss under Division 102 of the ITAA 1997. Again, the amount of foreign income tax paid that counts towards the foreign income tax offset for the year under subsection 770-10(1) of the ITAA 1997 will be the proportion of the foreign tax that corresponds with the proportion of the foreign gain that is included in assessable income in Australia and thus subject to double taxation.
 
 Date of decision:
-         17 September 2010
+  17 September 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -83,13 +76,11 @@ Income Tax Assessment Act 1997   section 2-35   section 2-45   Division
 
 Case References:
 
-
 Workers' Compensation Board of Queensland v Technical Products Pty Ltd   165 CLR 642   81 ALR 260
 
 Federal Commissioner of Taxation v Myer Stores Ltd   98 ATC 4384   (1998) 38 ATR 447
 
 Deputy Federal Commissioner of Taxation v PM Developments Pty Ltd   [2008] FCA 1886   2008 ATC 20-078   (2008) 70 ATR 741
-
 
 Related Public Rulings (including Determinations)
 
@@ -99,27 +90,25 @@ Other References:
 
 Tax Laws Amendment (2007 Measures No. 4) Bill 2007
 
-
 Keywords
 
 International tax
-          Foreign income
-          Foreign tax credits
-          Capital gains tax
-          CGT small business relief
-          Active asset
-          Capital losses
-          CGT 50% individual discount
-
+ Foreign income
+ Foreign tax credits
+ Capital gains tax
+ CGT small business relief
+ Active asset
+ Capital losses
+ CGT 50% individual discount
 
 Siebel/TDMS Reference Number:
-         1-246FO9X
+  1-246FO9X
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         8 October 2010
+  8 October 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

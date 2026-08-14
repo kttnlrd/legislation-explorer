@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (c) rights to receive income from the foreign company:
 
-- (d) rights to receive distributions of the company’s net assets.
+- (d) rights to receive distributions of the company's net assets.
 
 **Detailed calculation rules**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Four categories of control interests**
 
-**(4)**  Accordingly, the rules in section EX 3 for calculating control interests by totalling various direct and indirect control interests and associated parties’ interests are applied on a category by category basis, by reference to those categories of direct control interest.
+**(4)**  Accordingly, the rules in section EX 3 for calculating control interests by totalling various direct and indirect control interests and associated parties' interests are applied on a category by category basis, by reference to those categories of direct control interest.
 
 *Defined in this Act: associated person, control interest, direct control interest, foreign company, income, shareholder decision-making right*
 

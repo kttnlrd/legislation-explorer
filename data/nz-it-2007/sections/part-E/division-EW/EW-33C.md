@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Spot rates unavailable**
 
-**(3)**  If no spot rate is available for an amount under the financial arrangement, because the amount is deferred into an income year after a person’s current income year and that deferral is for a day after the person is required to file a return of income for the current income year, then the person may use for the amount—
+**(3)**  If no spot rate is available for an amount under the financial arrangement, because the amount is deferred into an income year after a person's current income year and that deferral is for a day after the person is required to file a return of income for the current income year, then the person may use for the amount—
 
 - (a) the spot rate at the end of the current income year; or
 

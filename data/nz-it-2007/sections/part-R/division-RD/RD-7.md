@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Remedial payments for certain entitlements**
 
-**(3)**  A remedial payment made in relation to 1 or more of a person’s entitlements under the Holidays Act 2003, an employment agreement, or both, is treated as an extra pay if—
+**(3)**  A remedial payment made in relation to 1 or more of a person's entitlements under the Holidays Act 2003, an employment agreement, or both, is treated as an extra pay if—
 
 - (a) the payment is made to a person in connection with their employment; and
 

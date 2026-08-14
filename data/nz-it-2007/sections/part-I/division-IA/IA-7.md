@@ -16,9 +16,9 @@ compilation_date: 2026-06-06
 
 **Treatment as tax loss component**
 
-**(1B)**  For the purposes of the application of sections IA 5, IA 6, IA 9, and IA 10, and subpart IB (Carrying forward companies’ loss balances: continuity of business activities), a ring-fenced tax loss under this section is treated as if it were a tax loss component.
+**(1B)**  For the purposes of the application of sections IA 5, IA 6, IA 9, and IA 10, and subpart IB (Carrying forward companies' loss balances: continuity of business activities), a ring-fenced tax loss under this section is treated as if it were a tax loss component.
 
-**Investment funds’ excess expenditure**
+**Investment funds' excess expenditure**
 
 **(4)**  The general rules do not apply to excess expenditure of an investment fund under sections DV 5 and DV 7 (which relate to investment funds) except for—
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Mining net losses**
 
-**(7)**  The general rules do not apply to a net loss of a mineral miner to the extent to which the net loss relates to a permit area. The provisions that deal with these net losses are sections IS 1 to IS 4 and IS 6 (which relate to mineral miner’s tax losses).
+**(7)**  The general rules do not apply to a net loss of a mineral miner to the extent to which the net loss relates to a permit area. The provisions that deal with these net losses are sections IS 1 to IS 4 and IS 6 (which relate to mineral miner's tax losses).
 
 **Net losses of multi-rate PIEs**
 
-**(10)**  The general rules do not apply to a multi-rate PIE’s net loss when the PIE does not calculate and pay tax using the provisional tax calculation option under section HM 44 (Provisional tax calculation option).
+**(10)**  The general rules do not apply to a multi-rate PIE's net loss when the PIE does not calculate and pay tax using the provisional tax calculation option under section HM 44 (Provisional tax calculation option).
 
 *Defined in this Act: amount, associated person, attributed CFC net loss, FIF net loss, loss balance, mineral miner, multi-rate PIE, net loss, pay, permit area, PIE, provisional tax, RAM net loss, ring-fenced tax loss, tax, tax loss component*
 

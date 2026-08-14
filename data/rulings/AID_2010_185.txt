@@ -3,18 +3,14 @@ ATO ID 2010/185
 ==================================================
 
 Superannuation
-        Self managed superannuation fund: limited recourse borrowing arrangement - charge
-        FOI status: may be released
-
-
+ Self managed superannuation fund: limited recourse borrowing arrangement - charge
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If the trustee of the holding trust in a limited recourse borrowing arrangement grants a charge over the asset in the holding trust in favour of a person other than the lender under the arrangement, does that result in the trustee of the self managed superannuation fund (SMSF) contravening subsection 67(1) of the Superannuation Industry (Supervision) Act 1993 (SISA)?
@@ -29,10 +25,10 @@ Regulated superannuation funds are generally prohibited from borrowing money or 
 One such exception is provided for by section 67A of the SISA (applying to limited recourse borrowing arrangements entered into on or after 7 July 2010).
 As this arrangement was entered into on 15 July 2010 the requirements of section 67A of the SISA apply. Paragraph 67A(1)(f) of the SISA requires that the asset being acquired under the arrangement must not be subject to a charge other than in relation to the borrowing by the SMSF trustee. The charge is granted to secure the borrowing by the member from the financial institution, rather than the borrowing by the SMSF trustee from the member. Therefore, the arrangement in this case fails the requirement of paragraph 67A(1)(f) of the SISA.
 Date of decision:
-         20 July 2010
+  20 July 2010
 
 Year of income:
-           Year ended 30June 2011
+  Year ended 30June 2011
 
 Legislative References:
 
@@ -41,21 +37,20 @@ Superannuation Industry (Supervision) Act 1993   subsection 67(1)   former
 Keywords
 
 Self managed superannuation funds
-          SMSF borrowings
-          SMSF charge over assets
-
+ SMSF borrowings
+ SMSF charge over assets
 
 Siebel/TDMS Reference Number:
-         1-1WIW04S; 1-6FURI4A
+  1-1WIW04S; 1-6FURI4A
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         8 October 2010
+  8 October 2010
 
 Date reviewed:
-         9 April 2015
+  9 April 2015
 
 ISSN:
-          1445-2782
+ 1445-2782

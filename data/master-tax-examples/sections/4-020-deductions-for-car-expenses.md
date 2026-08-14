@@ -17,7 +17,7 @@ Substantiation requirements in ITAA97 Subdiv 900-C apply to the log book method.
 
 A car expense is a loss or outgoing to do with a car or operating a car and the decline in value of the car (ITAA97 s 28-13). Car expenses include interest on a car loan, fuel and oil costs, depreciation, maintenance, registration and insurance costs. Leasing charges are also deductible as rent only and any payments representing private use or towards the ultimate purchase price are not deductible.
 
-For the 2023–24 and 2024–25 income years, 2 methods (the “cents per kilometre” method and the “log book” method) are available for calculating the deduction for car expenses.
+For the 2023–24 and 2024–25 income years, 2 methods (the "cents per kilometre" method and the "log book" method) are available for calculating the deduction for car expenses.
 
 Cents per kilometre method — Subdiv 28-C The amount of the deduction is determined by multiplying the number of business kilometres travelled in the year by a prescribed rate of cents per kilometre for the income year (s 28-25(1)). The deduction is limited to 5,000 km of business travel but can still be used where business travel is more than 5,000 km (s 28-25(2)).
 

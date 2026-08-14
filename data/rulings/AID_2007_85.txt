@@ -3,23 +3,18 @@ ATO ID 2007/85
 ==================================================
 
 Income Tax
-        Depreciating assets previously held by an exempt entity: reasonable attribution of pre-existing audited book value
-        FOI status: may be released
-
+ Depreciating assets previously held by an exempt entity: reasonable attribution of pre-existing audited book value
+ FOI status: may be released
 
 This ATO ID was amended by adding 'the Commonwealth, a State, a Territory or' to the description of an entity that is exempt for Division 58 purposes. This reflects a change to the law that was introduced by Act No 78 of 2007, effective from 1 July 2005.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of determining the pre-existing audited book value of each privatised asset, has there been a reasonable attribution of the total book value specified in the balance sheet of the exempt entity to each privatised asset for the purposes of subsection 58-85(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -38,8 +33,6 @@ All legislative references in this Interpretative Decision are to the ITAA 1997
 Division 58 sets out special rules that apply in calculating deductions for the decline in value of a depreciating asset under Subdivision 40-B. An 'asset sale situation' occurs where a taxable entity acquired a business from the Commonwealth, a State, a Territory or an exempt entity and also acquires a depreciating asset in connection with the acquisition of the business. In an asset sale situation, a depreciating asset the purchaser acquires from the Commonwealth, a State, a Territory or an exempt entity is a privatised asset. Under section 58-65 a taxpayer that is the purchaser of a privatised asset can choose to use the UPABV of a privatised asset as the basis of its deductions for the decline in value of the asset under Division 40.
 Under section 58-85 the PABV is taken to be the specified value shown for the asset in the balance sheet, at the balance date, of an exempt entity where the conditions in paragraphs 58-85(1)(a) to 58-85(1)(c) are satisfied. Subsection 58-85(2) allows a PABV to be attributed in circumstances where a balance sheet did not specify an audited book value for a privatised asset but specified a total value for two or more assets that include the privatised asset. In that situation, so much of the total value as is reasonably attributable to the privatised asset is taken to be its PABV.
 In this case, the method and process the taxpayer used to attribute a portion of the total audited book value specified in the balance sheet for numerous assets to each rail transport trackwork privatised asset is accepted as a 'reasonable attribution' of that total value for the purpose of subsection 58-85(2) because:
-
-
 
 •relevant market valuations are not available for each of the assets (including the privatised assets) included in the balance date total audited book value for the asset group 'trackwork and infrastructure'
 •expert data analysis and engineering techniques were utilised in order to estimate how much of the construction cost of 'trackwork and infrastructure' would have been paid for each privatised asset
@@ -68,10 +61,10 @@ Facts
 Minor grammatical amendment.
 
 Date of decision:
-         22 February 2007
+  22 February 2007
 
 Year of income:
-           Year ending 30 June 2005
+  Year ending 30 June 2005
 
 Legislative References:
 
@@ -80,36 +73,32 @@ Income Tax Assessment Act 1997   Division 40   Subdivision 40-B   Divis
 Keywords
 
 Decline in value
-          Depreciating assets
-          Asset sale situation
-          Privatised assets
-
+ Depreciating assets
+ Asset sale situation
+ Privatised assets
 
 Siebel/TDMS Reference Number:
-         5564469, 1-5VYBS6G
+  5564469, 1-5VYBS6G
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         4 May 2007
+  4 May 2007
 
 Date reviewed:
-         14 September 2017
+  14 September 2017
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 February 2007

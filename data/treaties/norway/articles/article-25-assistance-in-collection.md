@@ -1,0 +1,25 @@
+---
+country: "Norway"
+country_slug: "norway"
+treaty_schedule: 23
+article: 25
+title: "Article 25 — Assistance in Collection"
+---
+# Article 25 — Assistance in Collection
+Norwegian Convention
+CONVENTION BETWEEN AUSTRALIA AND THE KINGDOM OF NORWAY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+Mutual Agreement Procedure
+(1)
+Where a person considers that the actions of one or both of the Contracting States result or will result for the person in taxation not in accordance with this Convention, the person may, irrespective of the remedies provided by the domestic law of those States concerning taxes to which this Convention applies, present a case to the competent authority of the Contracting State of which the person is a resident or, if the case comes under paragraph 1 of Article 24, to that of the Contracting State of which the person is a national. The case must be presented within 3 years from the first notification of the action resulting in taxation not in accordance with this Convention.
+(2)
+The competent authority shall endeavour, if the claim appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with this Convention. The solution so reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
+(3)
+The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of this Convention. They may also consult together for the elimination of double taxation in cases not provided for in this Convention.
+(4)
+The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs.
+(5)
+For the purposes of paragraph 3 of Article XXII (Consultation) of the General Agreement on Trade in Services, the Contracting States agree that, notwithstanding that paragraph, any dispute between them as to whether a measure falls within the scope of this Convention may be brought before the Council for Trade in Services, as provided by that paragraph, only with the consent of both Contracting States. Any doubt as to the interpretation of this paragraph shall be resolved under paragraph 3 of this Article or, failing agreement under that procedure, pursuant to any other procedure agreed to by both Contracting States.

@@ -2,14 +2,14 @@
 act: "Australian Master GST Guide"
 part: "18"
 section: "objections-to-commissioners-decisions"
-title: "Objections to Commissioner’s decisions"
+title: "Objections to Commissioner's decisions"
 paragraph: "¶18-600"
 ---
-# Objections to Commissioner’s decisions ¶18-600
+# Objections to Commissioner's decisions ¶18-600
 
 A taxpayer may object to a GST assessment made by the Commissioner or, in certain circumstances, to a failure by the Commissioner to issue an assessment (Administration Act, sch 1, s 155-30; 155-90). For further details of assessments, see ¶8-080.
 
-You may also object against a decision made by the Commissioner if you are dissatisfied with it and the decision is a “reviewable” decision (Administration Act Sch 1 s 110-50). The decisions that are reviewable include:
+You may also object against a decision made by the Commissioner if you are dissatisfied with it and the decision is a "reviewable" decision (Administration Act Sch 1 s 110-50). The decisions that are reviewable include:
 
 - registering you
 
@@ -109,7 +109,7 @@ You may also object against a decision made by the Commissioner if you are dissa
 
 - under the anti-avoidance provisions, making a declaration to negate a GST benefit under a scheme
 
-  or to negate or reduce a loser’s GST disadvantage from a scheme (this is restricted to declarations
+  or to negate or reduce a loser's GST disadvantage from a scheme (this is restricted to declarations
 
   relating to tax periods commencing before 1 July 2012, or to taxable importations payable before that
 
@@ -127,7 +127,7 @@ ATO recovery of tax in dispute The ATO can take action to recover a tax debt eve
 
 Declarations As a more flexible alternative to the objection and appeal process, it may also be open to the taxpayer to apply to the court for declaratory relief. Applications may be made to the State Supreme Court, the Federal Court or the High Court, and may be limited to determining the GST treatment of a specific transaction. However, a declaration cannot normally be made once a genuine assessment has been issued (Administration Act, sch 1, s 105-100; Platypus Leasing Inc & Ors v FC of T [2005] NSWCA 399).
 
-Judicial review In limited situations, certain decisions of the Commissioner may be reviewed by the Federal Court under the “judicial review” process (Administrative Decisions (Judicial Review) Act 1977). This may apply, for example, where there has been a breach of natural justice, a failure to follow proper procedures, a lack of jurisdiction to make a decision, an improper exercise of a power, a decision not justified on the evidence or involving an error in law, or unreasonable delay. However, the court may refuse to exercise this review power if other methods of challenge are available, eg the usual objection process.
+Judicial review In limited situations, certain decisions of the Commissioner may be reviewed by the Federal Court under the "judicial review" process (Administrative Decisions (Judicial Review) Act 1977). This may apply, for example, where there has been a breach of natural justice, a failure to follow proper procedures, a lack of jurisdiction to make a decision, an improper exercise of a power, a decision not justified on the evidence or involving an error in law, or unreasonable delay. However, the court may refuse to exercise this review power if other methods of challenge are available, eg the usual objection process.
 
 A decision by the Commissioner to refuse a refund under discretionary powers (¶8-110) cannot be objected to in the normal way, but it may be that judicial review of that decision may be available (ATO Decision Impact Statement on Naidoo case). See, however, PFTF Stock Pty Ltd v FC of T [2010] FCA 557.
 

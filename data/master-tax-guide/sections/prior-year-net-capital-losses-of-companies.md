@@ -13,7 +13,7 @@ A company cannot apply a prior year net capital loss against a capital gain in a
 
   loss year to the end of the capital gain year, and
 
-- no person controlled the company’s voting power at any time during the capital gain year who did
+- no person controlled the company's voting power at any time during the capital gain year who did
 
   not also control it during the whole of the capital loss year,
 

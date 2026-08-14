@@ -21,7 +21,7 @@ Registration of branches
 
 - the entity has an ABN or has applied for one — the ABN allows the Commissioner to link each
 
-  branch’s running balance account (¶24-300) to the entity
+  branch's running balance account (¶24-300) to the entity
 
 - the Commissioner is satisﬁed that the branch maintains an independent system of accounting and
 
@@ -31,17 +31,17 @@ Registration of branches
 
   intends to carry on an enterprise through the branch) (TAA sch 1 s 16-142).
 
-The Commissioner must cancel a branch’s registration if it no longer satisﬁes these last 2 requirements (TAA sch 1 s 16-144).
+The Commissioner must cancel a branch's registration if it no longer satisﬁes these last 2 requirements (TAA sch 1 s 16-144).
 
-A branch that is registered is a “PAYG withholding branch”. Note, however, that the entity remains legally responsible for all amounts that relate to its branches. PAYG withholding applies to an entity with a PAYG withholding branch as if the amounts it must pay to the Commissioner were separated into:
+A branch that is registered is a "PAYG withholding branch". Note, however, that the entity remains legally responsible for all amounts that relate to its branches. PAYG withholding applies to an entity with a PAYG withholding branch as if the amounts it must pay to the Commissioner were separated into:
 
 - a class of amounts that relate to each such branch, and
 
-- a class of amounts that do not relate to any of the entity’s branches.
+- a class of amounts that do not relate to any of the entity's branches.
 
 These amounts are worked out as if the branch were a separate entity and all payments made through the branch were made by that entity (TAA sch 1 s 16-143).
 
-If an entity’s registration is cancelled, the registration of any PAYG withholding branches is also cancelled (TAA sch 1 s 16-145).
+If an entity's registration is cancelled, the registration of any PAYG withholding branches is also cancelled (TAA sch 1 s 16-145).
 
 Obligation to provide information to the Commissioner An entity that must pay an amount (even if it is a nil amount) to the Commissioner (as an amount withheld, an alienated personal services payment or as a payment in respect of a non-cash beneﬁt), must notify the Commissioner of the amount (TAA sch 1 s 16-150). The notiﬁcation must be in the approved form and lodged with the Commissioner on or before the day on which the amount is due to be paid (regardless of when it is paid). However, most employers notify the Commissioner of certain withholding payments using Single Touch Payroll (STP) reporting (¶26-630).
 
@@ -71,15 +71,15 @@ The Commissioner may vary the obligation to make an annual report but such a var
 
 Under the Lodgment program 2024–25 most taxpayers that engage a tax agent or BAS agent generally have to lodge their annual reports by 30 September 2024. This concession does not apply to large withholders who have to lodge by 14 August 2024.
 
-Investment bodies are not required to give an annual report but continue to give TFN reports and annual investment income reports under TAA sch 1 Div 393. An entity’s ABN must be reported if this has been quoted in place of a TFN. Managed investment trusts, custodians and other investment bodies must also include in their annual investment income report information about amounts withheld under Subdiv 12-H from payments to foreign residents.
+Investment bodies are not required to give an annual report but continue to give TFN reports and annual investment income reports under TAA sch 1 Div 393. An entity's ABN must be reported if this has been quoted in place of a TFN. Managed investment trusts, custodians and other investment bodies must also include in their annual investment income report information about amounts withheld under Subdiv 12-H from payments to foreign residents.
 
 Single Touch Payroll (STP) reporting Employers utilising STP reporting (¶26-630) are not required to provide an annual report. This exclusion covers reportable employer superannuation contributions and reportable fringe beneﬁt amounts voluntarily notiﬁed to the Commissioner using STP reporting by 14 July after the end of the ﬁnancial year.
 
-However, an employer must give a declaration to the Commissioner that they have given all the information that they would otherwise be required to give under ss 16-153 (annual reports), 16-155 (annual payment summaries) and 16-165 (payment summaries for superannuation lump sums and employment termination payments) for payments made in the ﬁnancial year by 14 July to be exempt from the annual reporting obligations (TAA s 389-20(2)). The Commissioner has speciﬁed the last “ﬁnalised” STP report for the ﬁnancial year as the approved form for this purpose.
+However, an employer must give a declaration to the Commissioner that they have given all the information that they would otherwise be required to give under ss 16-153 (annual reports), 16-155 (annual payment summaries) and 16-165 (payment summaries for superannuation lump sums and employment termination payments) for payments made in the ﬁnancial year by 14 July to be exempt from the annual reporting obligations (TAA s 389-20(2)). The Commissioner has speciﬁed the last "ﬁnalised" STP report for the ﬁnancial year as the approved form for this purpose.
 
 Information about payment recipient A payer that commences a relationship with another person under which that person is entitled to receive a payment for work or services, a retirement payment, an annuity or pension, or a beneﬁt or compensation payment must give notice to the Commissioner about the payment recipient (ITAA36 s 202CF). This notice must be given within 14 days of entering into the relationship, unless a TFN declaration is in force at the end of that period (¶26-350).
 
-No deduction if Commissioner not notified Similar to the denied deduction where a payer fails to withhold (¶26-450), a deduction is denied for payments where the payer did not notify the Commissioner when required under s 16-150 (s 26-105). This applies to a payment: of salary, wages, commissions, bonuses or allowances to an employee; of directors’ fees; to a religious practitioner; under a labour hire arrangement; or for a supply of services where the payee has not quoted its ABN (excluding supplies of goods and supplies of real property). A deduction will also be denied in relation to a non-cash beneﬁt provided in lieu of a cash payment where an amount must be paid and reported to the Commissioner but no notiﬁcation is made.
+No deduction if Commissioner not notified Similar to the denied deduction where a payer fails to withhold (¶26-450), a deduction is denied for payments where the payer did not notify the Commissioner when required under s 16-150 (s 26-105). This applies to a payment: of salary, wages, commissions, bonuses or allowances to an employee; of directors' fees; to a religious practitioner; under a labour hire arrangement; or for a supply of services where the payee has not quoted its ABN (excluding supplies of goods and supplies of real property). A deduction will also be denied in relation to a non-cash beneﬁt provided in lieu of a cash payment where an amount must be paid and reported to the Commissioner but no notiﬁcation is made.
 
 *Refs: s 16-153, s 389-20(2)), s 16-150, s 26-105)*
 

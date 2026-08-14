@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  For the purposes of section BC 7 (Income tax liability of person with schedular income), a person must not take a tax loss into account in calculating a schedular income tax liability for a tax year for income described in the following paragraphs of the definition of schedular income:
 
-- (aa) paragraph (a), which relates to life insurers’ schedular policyholder base income; or
+- (aa) paragraph (a), which relates to life insurers' schedular policyholder base income; or
 
 - (b) paragraph (f), for non-resident passive income described in section RB 3 (Schedular income tax liability for filing taxpayers for non-resident passive income); or
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Grouping tax losses**
 
-**(2)**  For the purposes of subsection (1), a company that is part of a group of companies must not take a tax loss of another company in the same group into account under section IC 5 or ID 2 (which relate to companies’ use of tax losses) in calculating a schedular income tax liability for the tax year.
+**(2)**  For the purposes of subsection (1), a company that is part of a group of companies must not take a tax loss of another company in the same group into account under section IC 5 or ID 2 (which relate to companies' use of tax losses) in calculating a schedular income tax liability for the tax year.
 
 **Relationship with sections IA 3 to IA 7**
 

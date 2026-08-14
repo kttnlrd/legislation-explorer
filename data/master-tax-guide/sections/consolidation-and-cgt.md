@@ -17,9 +17,9 @@ A number of other CGT issues have arisen in relation to consolidated groups, eg:
 
   of the cost base and reduced cost base of the asset (ITAA97 s 110-35(10)). Where the head
 
-  company does not “hold” the asset, eg because it is an intra-group asset that is not recognised
+  company does not "hold" the asset, eg because it is an intra-group asset that is not recognised
 
-  in consolidation, the cost may nonetheless be deductible over 5 years under the “blackhole”
+  in consolidation, the cost may nonetheless be deductible over 5 years under the "blackhole"
 
   expenditure provisions (ITAA97 s 40-880; ¶8-580).
 
@@ -49,7 +49,7 @@ A number of other CGT issues have arisen in relation to consolidated groups, eg:
 
 - If an entity contracts to sell a CGT asset and the contract settles after the entity becomes, or
 
-  ceases to be, a member of a consolidated group, the “CGT contract rules” (¶11-250, ¶11-440) are
+  ceases to be, a member of a consolidated group, the "CGT contract rules" (¶11-250, ¶11-440) are
 
   modiﬁed such that the CGT event happens at the time of the settlement and not when the contract
 
@@ -83,7 +83,7 @@ ITAA97 Subdiv 152-E if it acquires a replacement asset after joining the consoli
 
   (¶11-120) are considered in TD 2004/80 and TD 2004/81.
 
-- The principal asset test for purposes of determining a foreign resident’s CGT liability (¶12-725) will
+- The principal asset test for purposes of determining a foreign resident's CGT liability (¶12-725) will
 
   exclude the market value of certain assets arising from intercompany dealings within a consolidated
 
@@ -91,13 +91,13 @@ ITAA97 Subdiv 152-E if it acquires a replacement asset after joining the consoli
 
 - Where a pre-CGT asset is rolled over under Subdiv 126-B (¶12-490), the recipient company
 
-  is taken to have inherited the originating company’s cost base and reduced cost base for the
+  is taken to have inherited the originating company's cost base and reduced cost base for the
 
-  purposes of determining the joining entity’s ACA and the cost base of assets under the tax cost
+  purposes of determining the joining entity's ACA and the cost base of assets under the tax cost
 
   setting provisions in Div 705 (s 716-855). However, a similar rule does not exist for a pre-CGT
 
-  asset rolled over under Subdiv 122-A (¶12-040). In such a scenario, the asset’s cost base for the
+  asset rolled over under Subdiv 122-A (¶12-040). In such a scenario, the asset's cost base for the
 
   purposes of the tax cost setting provisions is the consideration paid for it at the time of the roll-over
 

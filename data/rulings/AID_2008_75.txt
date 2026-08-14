@@ -3,23 +3,18 @@ ATO ID 2008/75
 ==================================================
 
 Goods and Services Tax
-        GST and a retrospective application of a changed apportionment method under Division 11
-        FOI status: may be released
+ GST and a retrospective application of a changed apportionment method under Division 11
+ FOI status: may be released
 
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in  subsection 195-1 of the GST Act.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the entity, a financial supply provider, change its apportionment method which is fair and reasonable and revise an earlier net amount, by applying a new apportionment method which is also fair and reasonable?
@@ -37,11 +32,8 @@ Reasons for Decision
 The entity lodged a GST return under Division 31 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act). In this return, the entity provided the net amount for the original tax period.
 The net amount, as required under subsection 17-5(1) of the GST Act, is the GST less any input tax credits. The input tax credits for the purposes of section 17-5 of the GST Act is the sum of all of the input tax credits to which an entity is entitled for the creditable acquisitions and creditable importations that are attributable to the tax period.
 An entity makes a
-          creditable acquisition
+ creditable acquisition
 , under section 11-5 of the GST Act, when that entity:
-
-
-
 
 (a)acquires anything solely or partly for a *creditable purpose; and
 (b)the supply of the thing to you is a *taxable supply; and
@@ -50,28 +42,20 @@ An entity makes a
 
 The entity made creditable acquisitions which were only partly for a creditable purpose, as defined in subsections 11-15(1) and (2) of the GST Act. These subsections provide that:
 
-
-
 (1)You acquire a thing for a creditable purpose to the extent that you acquire it in *carrying on your *enterprise.
 (2)However, you do not acquire the thing for a creditable purpose to the extent that:
-
-
 
 (a)the acquisition relates to making supplies that would be *input taxed; or
 (b)the acquisition is of a private or domestic nature.
 
 The entity made an input tax credit claim in the original tax period, to the extent that the acquisitions are partly creditable by applying the formula in subsection 11-30(3) of the GST Act, which is:
 
-
-
 Full input tax credit * Extent of creditable purpose * Extent of consideration
-
 
 In order to calculate the extent of creditable purpose, the entity applied a fair and reasonable apportionment method, as prescribed in GSTR 2006/3, to the acquisitions made (the first apportionment method).
 Then, at a later point in time, the entity determined that another apportionment method (the second apportionment method) could be applied, which is also fair and reasonable and in accordance with GSTR 2006/3, to increase the input tax credit entitlement lodged in the GST return for the original tax period.
 The entity is entitled to revise the original net amount lodged in the GST return for the original tax period by amending its input tax credit claim.
 The revised net amount reflects a correct input tax credit entitlement when the new method (the second apportionment method) is also fair and reasonable and in accordance with GSTR 2006/3 given the facts and circumstances which existed at that time.
-
 
 Note 1 - for tax periods starting on or after 1 July 2012, if the entity's additional input tax credit using the second apportionment method is not included in an assessment of a net amount within four years after the due date for lodgement of the activity statement to which the input tax credit is attributable under subsection 29-10(1) or (2) of the GST Act, entitlement to the credit ceases. (see section 93-5 of the GST Act)
 
@@ -104,7 +88,7 @@ Note 4 added
 Inserted information about the Correcting GST Errors Determination GSTE 2013/1
 
 Date of decision:
-         8 May 2008
+  8 May 2008
 
 Legislative References:
 
@@ -118,42 +102,38 @@ Goods and Services Tax Ruling GSTR 2006/3
 Keywords
 
 Creditable acquisition
-          Goods and services tax
-          GST input tax credits & creditable acquisitions
-          GST net amounts & adjustments
-          GST returns
-          GST returns, payments & refunds
-          GST supplies & acquisitions
-          GST supply
-          Net amounts
-          Taxable supply
-
+ Goods and services tax
+ GST input tax credits & creditable acquisitions
+ GST net amounts & adjustments
+ GST returns
+ GST returns, payments & refunds
+ GST supplies & acquisitions
+ GST supply
+ Net amounts
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         5996976
+  5996976
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         23 May 2008
+  23 May 2008
 
 Date reviewed:
-         8 November 2018
+  8 November 2018
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  8 May 2008

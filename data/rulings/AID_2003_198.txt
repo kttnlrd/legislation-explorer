@@ -3,21 +3,16 @@ ATO ID 2003/198
 ==================================================
 
 Income Tax
-        Capital gains tax:  reduced cost base - bad debt deducted
-        FOI status: may be released
-
+ Capital gains tax: reduced cost base - bad debt deducted
+ FOI status: may be released
 
 This ATOID was amended by removing 'not' from the first sentence of the last paragraph of the reasons for decision to clarify that the exception in subsection 110-55(9) of the ITAA 1997 will apply because the amount has been excluded from the reduced cost base under subsection 110-55(4) of the ITAA 1997.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a capital loss available when (CGT) event C2 in section 104-25 of the Income Tax Assessment Act 1997 (ITAA 1997) happens to a debt for which a deduction was allowed under section 25-35 of the ITAA 1997?
@@ -35,10 +30,10 @@ Because there was some uncertainty about the scope of subsection 110-55(4) of th
 Subsection 110-55(9) of the ITAA 1997 states that the reduced cost base of an asset is to be reduced by an amount that you have deducted or can deduct, or could have deducted except for Subdivision 170-D of the ITAA 1997, as a result of a CGT event that happens in relation to a CGT asset. However no reduction is made for an amount that relates to a cost that could never have formed part of the reduced cost base or is excluded from the reduced cost base as a result of another provision of this section.
 In this instance, the exception in subsection 110-55(9) of the ITAA 1997 will apply because the amount deducted under section 25-35 of the ITAA 1997 was excluded from the reduced cost base of the debt under subsection 110-55(4) of the ITAA 1997. If that were not the case then the reduced cost base of the debt would be reduced by subsection 110-55(9) of the ITAA 1997.
 Date of decision:
-         21 February 2003
+  21 February 2003
 
 Year of income:
-           Year ended 30 June 2000
+  Year ended 30 June 2000
 
 Legislative References:
 
@@ -49,21 +44,20 @@ New Business Tax System (Integrity and Other Measures) Act 1999   Schedule 4,
 Keywords
 
 Bankruptcy
-          Carrying on a business
-          Deductions & expenses
-          Bad debts
-          Capital Gains Tax CoE
-          CGT events C1-C3 - end of a CGT asset
-
+ Carrying on a business
+ Deductions & expenses
+ Bad debts
+ Capital Gains Tax CoE
+ CGT events C1-C3 - end of a CGT asset
 
 Siebel/TDMS Reference Number:
-         3025503
+  3025503
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         4 April 2003
+  4 April 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

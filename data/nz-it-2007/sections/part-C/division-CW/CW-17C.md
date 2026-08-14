@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (d) the allowance recognises—
 
-  - (i) the arduous physical nature of the employee’s work as described in paragraph (b); and
+  - (i) the arduous physical nature of the employee's work as described in paragraph (b); and
 
   - (ii) that the employer would normally provide tea, coffee, water, or similar refreshments at the employment base in the course of their business.
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **(3)**  Subsection (1) applies only if—
 
-- (a) the employee has worked at least 2 hours’ overtime on the day of the meal; and
+- (a) the employee has worked at least 2 hours' overtime on the day of the meal; and
 
 - (b) either—
 
-  - (i) the employee’s employment agreement provides for pay for overtime hours worked; or
+  - (i) the employee's employment agreement provides for pay for overtime hours worked; or
 
   - (ii) the employer has an established policy or practice of paying for overtime meals.
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Meaning of overtime**
 
-**(6)**  For the purposes of this section, overtime, for a person and a day, means time worked for an employer on the day beyond the person’s ordinary hours of work as set out in their employment agreement.
+**(6)**  For the purposes of this section, overtime, for a person and a day, means time worked for an employer on the day beyond the person's ordinary hours of work as set out in their employment agreement.
 
 *Defined in this Act: amount, employee, employer, exempt income, overtime, pay*
 

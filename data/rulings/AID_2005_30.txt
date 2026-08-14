@@ -3,18 +3,14 @@ ATO ID 2005/30
 ==================================================
 
 Income tax
-        Commercial Debt Forgiveness: loss transfer agreements
-        FOI status: may be released
-
-
+ Commercial Debt Forgiveness: loss transfer agreements
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a loss company validly transfer a prior year tax loss under Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997) after a commercial debt it owes is forgiven for the purposes of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936), where the deduction year is the forgiveness year of income?
@@ -37,10 +33,10 @@ Subsection 170-45(1) of the ITAA 1997 provides that a loss company cannot transf
 If the company did not make the loss transfer, the $1,000 prior year tax loss would be a deductible revenue loss as defined by section 245-110 of Schedule 2C of the ITAA 1997. As a result, the $1,000 prior year loss is reduced by the total net forgiven amount of $800 to $200 pursuant to subsection 245-105(5) of Schedule 2C to the ITAA 1936.
 Therefore, the loss transfer agreement is only effective in transferring the remaining $200 prior year tax loss, pursuant to Subdivision 170-A of the ITAA 1997, as this is the only amount of tax loss that it would have been able to have carried forward to the next income year if the loss transfer agreement had not been made (Taxation Ruling TR 98/12 details the Commissioner's view on loss transfers, in particular see paragraph 96 - insufficient loss example).
 Date of decision:
-         17 January 2005
+  17 January 2005
 
 Year of income:
-           Year ended 30 June 1999
+  Year ended 30 June 1999
 
 Legislative References:
 
@@ -54,19 +50,18 @@ Taxation Ruling TR 98/12
 Keywords
 
 CDF revenue losses
-          Commercial debt forgiveness
-          Group company loss transfers
-          Total net forgiven amount
-
+ Commercial debt forgiveness
+ Group company loss transfers
+ Total net forgiven amount
 
 Siebel/TDMS Reference Number:
-         4376215
+  4376215
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 January 2005
+  28 January 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

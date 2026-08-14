@@ -7,7 +7,7 @@ paragraph: "None"
 ---
 # 10-380 - Digital games tax offset
 
-Worked example: Digital games tax offset Issue Meep Games Pty Ltd is an Australian resident company which specialises in digital games. Meep has been developing 2 new video games over the past several years and they are now almost complete. Details of the games are as follows: 1. A game that requires players to bet money in a simulated version of poker. 2. An adventure game that requires players to drive across a post-apocalyptic landscape, battling zombies and ruthless humans who wish to take over the player’s car and kill them.
+Worked example: Digital games tax offset Issue Meep Games Pty Ltd is an Australian resident company which specialises in digital games. Meep has been developing 2 new video games over the past several years and they are now almost complete. Details of the games are as follows: 1. A game that requires players to bet money in a simulated version of poker. 2. An adventure game that requires players to drive across a post-apocalyptic landscape, battling zombies and ruthless humans who wish to take over the player's car and kill them.
 
 Both games can be played on mobile phones, via app, and are to be launched onto the market before 30 June 2025.
 
@@ -63,7 +63,7 @@ Div 378 ITAA 1997 sets out the criteria to be eligible for the offset, as follow
 
 (Publications, Films and Computer Games) Act 1995 are also ineligible (s 378-25(7)(c)(ii)).
 
-The amount of the DGTO will be 30% of the sum of all amounts as determined in the certificates issued by the Arts Minister. The maximum tax offset that can be claimed by a group of entities is $20 million per income year. The ATO guidance is that $66.7 million is the approximate limit of a game’s budget that can be claimed, ie $20 million/0.3 = approx. $66.7 million.
+The amount of the DGTO will be 30% of the sum of all amounts as determined in the certificates issued by the Arts Minister. The maximum tax offset that can be claimed by a group of entities is $20 million per income year. The ATO guidance is that $66.7 million is the approximate limit of a game's budget that can be claimed, ie $20 million/0.3 = approx. $66.7 million.
 
 The following table summarises what types of expenditure would be eligible or ineligible for the offset: Qualifying Australian Development Expenditure                                     Ineligible Expenditure Direct employee game development costs (eg software                               Incidental employee game development costs (eg social developers, UX and game designers, artists and                                    media managers, forum administrators and moderators) animators, musicians, writers) Independent contractors engaged in game development                               Subcontractors that are not natural persons Research                                                                          Employees and contractors that are not Australian tax residents Prototyping                                                                       General business overheads User testing and collecting user data                                             Sales, marketing and advertising Debugging                                                                         Computer hardware or computer servers Game updates                                                                      Finance costs (eg interest) Game adaptations                                                                  Costs claimed under the R&D tax incentive and costs funded by other government grants Underlying game infrastructure                                                    Most related-party expenditure Software licensing Game distribution Work permits and visas For completion certificates and porting certificates, the company applies once for the certificate in the income year in which the game is completed or ported. However, the company can claim all qualifying Australian development expenditure in relation to that certificate across multiple income years prior to the game being completed or ported. For example, if the company applies for a completion certificate for the year ended 30 June 2025, the company can claim the DGTO on eligible expenditure from 1 July 2022–30 June 2025.
 
@@ -97,7 +97,7 @@ The information to be included in an application is as follows:
 
 - The primary purpose for the game being developed.
 
-- Information on the game’s connectivity with the internet.
+- Information on the game's connectivity with the internet.
 
 - Outline of any elements of the game that could result in the game being refused classification or
 
@@ -113,6 +113,6 @@ The information to be included in an application is as follows:
 
 - A comprehensive expenditure statement.
 
-Once a certificate is obtained from the Minister for the Arts, Meep will be able to claim the DGTO in its 2024– 25 company tax return at item 24: Digital Games Tax Offset, with label A being for current year refundable DGTO amounts being claimed and Label B being the amount of total current year DGTO already being claimed or being claimed by related companies. The company will also need to include the amount from label A in the calculation statement at label E – “refundable tax offsets”.
+Once a certificate is obtained from the Minister for the Arts, Meep will be able to claim the DGTO in its 2024– 25 company tax return at item 24: Digital Games Tax Offset, with label A being for current year refundable DGTO amounts being claimed and Label B being the amount of total current year DGTO already being claimed or being claimed by related companies. The company will also need to include the amount from label A in the calculation statement at label E – "refundable tax offsets".
 
 *Refs: ITAA97 s 378-10(1)(, s 378-25(7)(*

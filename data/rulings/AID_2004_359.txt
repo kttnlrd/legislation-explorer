@@ -3,23 +3,18 @@ ATO ID 2004/359
 ==================================================
 
 Goods and Services Tax
-        GST and default payments for deliverable commodity forward contracts
-        FOI status: may be released
+ GST and default payments for deliverable commodity forward contracts
+ FOI status: may be released
 
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in  GSTR 2001/4 Goods and Services Tax: GST consequences of court orders and out-of-court settlements
+This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2001/4 Goods and Services Tax: GST consequences of court orders and out-of-court settlements
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a commodity trader, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) , when it makes a cash settlement payment in relation to a deliverable commodity forward contract where there is a formal default?
@@ -29,8 +24,6 @@ The cash settlement payment is made in respect of damages and accordingly the pa
 Facts
 The entity is a commodity trader. The entity enters into commodity forward contracts to buy and sell commodities. The physical delivery of the commodity would be a taxable supply under section 9-5 of the GST Act.
 The relevant contracts conform to an industry association's trade rules. The rules state that a formal default occurs when one party defaults by either the buyer not paying for the goods, or the seller not delivering the goods. These rules for a formal default will only apply if the defaulter is provided with written notice that they are in default under the relevant trade rule. Once written notice is provided the rule operates as follows:
-
-
 
 • The non defaulting party will have the right to repurchase or resale of the commodity as the case may be. The defaulter must make good the loss from any repurchase or resale, by payment of a cash settlement amount.
 • The party in default must pay, by way of liquidated damages, an amount equal to the difference between the contract price and the fair market value for the commodity at the date of termination of the contract.
@@ -49,11 +42,10 @@ Disputes often arise over incidents that do not relate to a supply. Examples of 
 Where the default provisions in the trade rules are triggered, the payment is for damages, as one party has not met their obligations under the contract. Therefore, as the payment made by the entity is in respect of damages, the payment is not a supply under section 9-10 of the GST Act.
 As such, the entity is not making a taxable supply under section 9-5 of the GST Act when it makes a cash settlement payment in relation to a deliverable commodity forward contract where there is a formal default.
 
-
 Note: When a party is in default due to insolvency, the payment is not for damages due to a breach of contract, it is a payment to compensate one party for the loss of the bargain of the contract. The payment does not result in a supply for consideration from one party to the other party, it is essentially paying compensation for losses and will be treated in the same manner as damages.
 
 Date of decision:
-         14 August 2002
+  14 August 2002
 
 Legislative References:
 
@@ -71,35 +63,31 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST supplies & acquisitions
-          GST supply
-          Taxable supply
-          GST financial supplies
-          GST derivatives
-
+ GST supplies & acquisitions
+ GST supply
+ Taxable supply
+ GST financial supplies
+ GST derivatives
 
 Siebel/TDMS Reference Number:
-         4021967
+  4021967
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         30 April 2004
+  30 April 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 14 August 2002

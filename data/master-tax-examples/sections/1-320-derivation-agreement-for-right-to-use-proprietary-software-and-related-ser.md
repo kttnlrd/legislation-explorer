@@ -19,13 +19,13 @@ Apps uses an accruals basis of recognising income for tax purposes.
 
 Advise Apps as to how the receipt of $20,000 for the license and the receipt of $5,000 for the provision of technical support should be accounted for in the 2024–25 year.
 
-Solution Taxation Ruling TR 2014/1 provides the Commissioner’s guidance with respect to derivation of income from agreements for the right to use proprietary software and the provision of related services.
+Solution Taxation Ruling TR 2014/1 provides the Commissioner's guidance with respect to derivation of income from agreements for the right to use proprietary software and the provision of related services.
 
-The ruling states that where an amount properly attributable to a contractual obligation is subject to a “contingency of repayment”, the amount is derived for the purposes of ITAA97 s 6-5 when the obligation is fully performed or the contingency of repayment otherwise lapses.
+The ruling states that where an amount properly attributable to a contractual obligation is subject to a "contingency of repayment", the amount is derived for the purposes of ITAA97 s 6-5 when the obligation is fully performed or the contingency of repayment otherwise lapses.
 
-In particular, the amount properly allocated to the obligation converts from “unearned income” to “earned income” when the underlying obligation is fully performed, or the contingency of repayment otherwise lapses (see Arthur Murray (NSW) Pty Ltd v FCT (1965) 114 CLR 314).
+In particular, the amount properly allocated to the obligation converts from "unearned income" to "earned income" when the underlying obligation is fully performed, or the contingency of repayment otherwise lapses (see Arthur Murray (NSW) Pty Ltd v FCT (1965) 114 CLR 314).
 
-Therefore, where there is no “contingency of repayment”, the amount is derived when a recoverable debt arises in respect of the contractual fee. However, TR 2014/1 notes that a “contingency of repayment” does not arise where there is a potential exposure to damages under consumer protection law or damages in tort.
+Therefore, where there is no "contingency of repayment", the amount is derived when a recoverable debt arises in respect of the contractual fee. However, TR 2014/1 notes that a "contingency of repayment" does not arise where there is a potential exposure to damages under consumer protection law or damages in tort.
 
 In the present case, there is no contingency of repayment in respect of the software licence fee of $20,000.
 

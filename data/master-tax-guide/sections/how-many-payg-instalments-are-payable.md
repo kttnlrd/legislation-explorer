@@ -11,7 +11,7 @@ PAYG instalments may be payable annually, quarterly or monthly. The rules for de
 
 Certain quarterly taxpayers are eligible to pay only 2 quarterly instalments each year, payable at the end of the third and fourth quarters (¶27-200). The eligible taxpayers are individuals who either carry on primary production businesses or who are authors, artists or other special professionals.
 
-A taxpayer who is required to pay a quarterly instalment is required to continue to pay quarterly instalments unless the taxpayer becomes an annual or monthly PAYG instalment payer or the Commissioner withdraws the taxpayer’s instalment rate.
+A taxpayer who is required to pay a quarterly instalment is required to continue to pay quarterly instalments unless the taxpayer becomes an annual or monthly PAYG instalment payer or the Commissioner withdraws the taxpayer's instalment rate.
 
 Annual instalments A taxpayer can choose to pay one annual PAYG instalment if, at the end of the ﬁrst instalment quarter in the income year that the taxpayer would otherwise be required to pay:
 
@@ -61,13 +61,13 @@ The decision to pay annual PAYG instalments must be communicated to the Commissi
 
   company.
 
-A taxpayer required to pay an annual instalment continues to pay annual instalments unless the taxpayer ceases to be eligible to be an annual instalment payer, the taxpayer chooses to pay quarterly or the Commissioner withdraws the taxpayer’s instalment rate.
+A taxpayer required to pay an annual instalment continues to pay annual instalments unless the taxpayer ceases to be eligible to be an annual instalment payer, the taxpayer chooses to pay quarterly or the Commissioner withdraws the taxpayer's instalment rate.
 
-Monthly instalments Large entities are liable to pay monthly PAYG instalments if, on the “MPR test day”, their income exceeds the following threshold:
+Monthly instalments Large entities are liable to pay monthly PAYG instalments if, on the "MPR test day", their income exceeds the following threshold:
 
-- if the taxpayer is the head company of an income tax consolidated (“ITC”) group or the provisional
+- if the taxpayer is the head company of an income tax consolidated ("ITC") group or the provisional
 
-  head company of a multiple entry consolidated (“MEC”) group — $20 million
+  head company of a multiple entry consolidated ("MEC") group — $20 million
 
 - if the taxpayer is not the head company of an ITC or MEC group:
 
@@ -75,9 +75,9 @@ Monthly instalments Large entities are liable to pay monthly PAYG instalments if
 
 – otherwise — $100 million.
 
-Determining the threshold The threshold amount is the amount of “base assessment instalment income” that the entity has for a particular income year as provided by the Commissioner. Broadly, this is so much of the entity’s assessable income for a year (the base year) as the Commissioner determines is instalment income (s 45-320(2): ¶27-260).
+Determining the threshold The threshold amount is the amount of "base assessment instalment income" that the entity has for a particular income year as provided by the Commissioner. Broadly, this is so much of the entity's assessable income for a year (the base year) as the Commissioner determines is instalment income (s 45-320(2): ¶27-260).
 
-Those entities that have ﬁnancial arrangements to which ITAA97 Div 230 applies (“TOFA entities”) are required to use an “adjusted” base assessment instalment income calculation if the base assessment instalment income provided by the Commissioner does not exceed the threshold amount. This is because the base assessment instalment income calculated by the Commissioner uses net calculations for TOFA arrangements rather than gross ﬁgures; the adjusted base assessment instalment income includes the gross income of the entity’s ﬁnancial arrangements. This adjusted amount will need to be determined by the entity and notiﬁed to the Commissioner. “MPR test day” The threshold amount is tested at a particular point in time, namely, the start of the entity’s monthly payer requirement test day (the “MPR test day”).
+Those entities that have ﬁnancial arrangements to which ITAA97 Div 230 applies ("TOFA entities") are required to use an "adjusted" base assessment instalment income calculation if the base assessment instalment income provided by the Commissioner does not exceed the threshold amount. This is because the base assessment instalment income calculated by the Commissioner uses net calculations for TOFA arrangements rather than gross ﬁgures; the adjusted base assessment instalment income includes the gross income of the entity's ﬁnancial arrangements. This adjusted amount will need to be determined by the entity and notiﬁed to the Commissioner. "MPR test day" The threshold amount is tested at a particular point in time, namely, the start of the entity's monthly payer requirement test day (the "MPR test day").
 
 If an entity is already paying PAYG instalments, the MPR test day is the ﬁrst day at the start of the third last month of the previous income year (s 45-138(4)(b)). This means that, for an income year ending 30 June, the MPR test day for the 2024–25 income year was 1 April 2024. An entity currently paying PAYG instalments that satisﬁes the monthly payer requirement on a MPR test day becomes a monthly payer from the commencement of its next income year (the last day of the starting instalment month).
 
@@ -87,6 +87,6 @@ An entity continues to be liable for monthly PAYG instalments until it no longer
 
 *Refs: s 45-320(2), s 45-138(4)(*
 
-## An “instalment group” consists of:
+## An "instalment group" consists of:
 
-## A company has “majority control” over another company if:
+## A company has "majority control" over another company if:

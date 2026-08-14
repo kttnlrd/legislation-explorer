@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "3"
 division_title: "Taxation objections"
 subdivision: ""
@@ -27,7 +27,7 @@ If there has been a taxation objection against:
 > **(b)**  a determination under subsection 960-555(3) of the Income Tax Assessment Act 1997; or
 
 > <a id="s14ZVA-c"></a>
-> **(c)**  a determination under subsection 136-10(1) in Schedule 1 to this Act (about excess transfer balance); the right of objection under this Part against an assessment, or against a decision made under an indirect tax law or an excise law, Authorised Version C2026C00170 registered 28/04/2026 relating to the matter ruled or determined is limited to a right to object on grounds that neither were, nor could have been, grounds for the taxation objection against the ruling or determination.
+> **(c)**  a determination under subsection 136-10(1) in Schedule 1 to this Act (about excess transfer balance); the right of objection under this Part against an assessment, or against a decision made under an indirect tax law or an excise law, relating to the matter ruled or determined is limited to a right to object on grounds that neither were, nor could have been, grounds for the taxation objection against the ruling or determination.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

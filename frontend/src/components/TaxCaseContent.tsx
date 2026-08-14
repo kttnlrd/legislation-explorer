@@ -108,7 +108,7 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
         fontFamily: "'Montserrat', sans-serif", letterSpacing: 0.3,
         textTransform: 'uppercase' as const,
       }}>
-        Tax Case &rsaquo; {citation}
+        Tax Case &rsaquo; {title || citation}
       </div>
       <h1 style={{
         color: COLORS.heading, fontSize: isMobile ? 20 : 22, marginBottom: 16,

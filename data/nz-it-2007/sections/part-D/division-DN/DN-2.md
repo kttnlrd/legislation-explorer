@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 - (bb) the person is not a portfolio investment entity; and
 
-- (c) the person has an income interest in the foreign company for the accounting period, under sections EX 8 to EX 13 (which relate to calculating a person’s income interest); and
+- (c) the person has an income interest in the foreign company for the accounting period, under sections EX 8 to EX 13 (which relate to calculating a person's income interest); and
 
 - (d) at any time in the accounting period, the person is a New Zealand resident who is not a transitional resident; and
 
-- (e) the person’s income interest is 10% or more for the accounting period, under sections EX 14 to EX 17 (which relate to the 10% threshold); and
+- (e) the person's income interest is 10% or more for the accounting period, under sections EX 14 to EX 17 (which relate to the 10% threshold); and
 
 - (f) the CFC has a net attributable CFC loss for the accounting period under section EX 20C (Net attributable CFC income or loss); and
 
@@ -36,9 +36,9 @@ compilation_date: 2026-06-06
 
 **(2)**  If a person and a non-attributing active CFC or non-attributing Australian CFC meet the requirements of subsection (1)﻿(a) to (e) and the CFC derives income from personal services that is an attributable CFC amount under section EX 20B(3)﻿(h) (Attributable CFC amount), the person has attributed CFC loss from the CFC equal to the product of—
 
-- (a) the person’s income interest in the CFC:
+- (a) the person's income interest in the CFC:
 
-- (b) the amount by which the CFC’s expenditure incurred in deriving the income from personal services exceeds the income from personal services.
+- (b) the amount by which the CFC's expenditure incurred in deriving the income from personal services exceeds the income from personal services.
 
 *Defined in this Act: accounting period, attributable CFC amount, attributed CFC loss, CFC, foreign company, grey list, income interest, income year, net attributable CFC loss, New Zealand resident, non-attributing active CFC, non-attributing Australian CFC, portfolio investment entity, transitional resident*
 

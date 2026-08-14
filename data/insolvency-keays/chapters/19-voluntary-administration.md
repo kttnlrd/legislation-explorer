@@ -1,3 +1,11 @@
+---
+act: "Keay's Insolvency"
+source: "Keays Insolvency Textbook by Phillip Keays, LexisNexis"
+chapter: 19
+title: "Voluntary Administration"
+slug: "19-voluntary-administration"
+---
+
 # Chapter 19: Voluntary Administration
 
 Voluntary Administration
@@ -9,20 +17,20 @@ Voluntary Administration
 [19.25] COMMENCEMENT AND TERMINATION OF THE ADMINISTRATION ........... 759
 [19.30] Secured party creditor may appoint ............................................................. 760
 [19.35] Liquidator may appoint ................................................................................... 761
-[19.40] Company’s decision to appoint ..................................................................... 762
+[19.40] Company's decision to appoint ..................................................................... 762
 [19.45] An immediate effect ......................................................................................... 765
 [19.50] When an administration ends ........................................................................ 766
 [19.55] The deed of company arrangement .............................................................. 766
 [19.60] EFFECT OF THE ADMINISTRATION .......................................................................... 766
 [19.60] On the company and its members ................................................................ 766
     [19.65] Shares ............................................................................................................................. 767
-[19.70] On general dealings with company’s property – s 437D .......................... 768
+[19.70] On general dealings with company's property – s 437D .......................... 768
 [19.75] On transactions of the company .................................................................... 769
 [19.80] On the company officers .................................................................................. 769
-    [19.85] Directors’ personal guarantees – s 440J ................................................................... 770
-[19.90] On the company’s employees ........................................................................ 771
+    [19.85] Directors' personal guarantees – s 440J ................................................................... 770
+[19.90] On the company's employees ........................................................................ 771
 [19.95] On company contracts ..................................................................................... 773
-[19.100] On the company’s creditors .......................................................................... 774
+[19.100] On the company's creditors .......................................................................... 774
 [19.105] On secured parties and other owners and lessors of property .............. 775
     [19.105] Position prior to PPSA .............................................................................................. 775
     [19.110] The current position ................................................................................................... 776
@@ -35,7 +43,7 @@ Voluntary Administration
     [19.145] Declaration of relevant relationships and indemnities: s 436DA ...................... 785
     [19.150] Receivers becoming administrators ........................................................................ 786
 [19.155] Removal of administrator .............................................................................. 786
-752         Keay’s Insolvency: Personal and Corporate Law and Practice
+752         Keay's Insolvency: Personal and Corporate Law and Practice
 
     [19.160] Declaration by replacement administrator: s 449CA ........................................... 787
 [19.165] Section 447C: validity of appointment ........................................................ 787
@@ -50,9 +58,9 @@ Voluntary Administration
 [19.205] Investigations ................................................................................................... 796
     [19.210] Offences ........................................................................................................................ 797
 [19.215] Duty to report to creditors ............................................................................ 797
-    [19.220] Administrator’s opinion ............................................................................................ 799
+    [19.220] Administrator's opinion ............................................................................................ 799
 [19.225] Liability of an administrator ......................................................................... 800
-[19.230] Administrator’s lien ........................................................................................ 802
+[19.230] Administrator's lien ........................................................................................ 802
 [19.235] Remuneration and expenses ......................................................................... 803
     [19.240] Lodgement of accounts with ASIC ......................................................................... 803
 [19.245] STATUTORY MORATORIUM AND PROTECTION OF THE COMPANY .......... 804
@@ -64,7 +72,7 @@ Voluntary Administration
     [19.270] Secured parties ........................................................................................................... 810
     [19.275] Perishable property: s 441G ..................................................................................... 811
     [19.280] Owners and lessors who act before the administration commences ............... 811
-[19.285] CREDITORS’ MEETINGS .............................................................................................. 812
+[19.285] CREDITORS' MEETINGS .............................................................................................. 812
 [19.290] The ﬁrst meeting – options to have a committee of creditors and to
          replace the administrator ............................................................................... 812
     [19.295] Declaration by administrator: s 436DA ................................................................. 813
@@ -80,7 +88,7 @@ Voluntary Administration
 [19.05]                                                                                        19 Voluntary Administration                   753
 
     [19.340] Voting ........................................................................................................................... 818
-    [19.345] Court’s power to review the voting ....................................................................... 819
+    [19.345] Court's power to review the voting ....................................................................... 819
     [19.350] Secured, admitted and unliquidated claims ......................................................... 821
     [19.370] Recording the votes ................................................................................................... 822
 [19.375] ROLE AND POWERS OF THE COURT ..................................................................... 822
@@ -108,7 +116,7 @@ Voluntary administration has become a popular form of external administration
 since its introduction in 1993 with more than 1,000 companies entering this form of
 external administration each year, although the numbers of voluntary
 administrations have dropped considerably since their high in the ﬁnancial year
-2005-2006. At the same time the numbers of creditors’ voluntary liquidations have
+2005-2006. At the same time the numbers of creditors' voluntary liquidations have
 almost tripled. The overall number of companies entering external administration
 in the ﬁnancial year 2016-2017 was 8031, with 15% of that number involving
 companies entering voluntary administration.1 In contrast to receivership (which is
@@ -122,10 +130,10 @@ Report, at [56], that a new voluntary procedure for companies be introduced whic
 
 1 ASIC statistics on the numbers of companies entering external administration are available from the
   ASIC website (http://www.asic.gov.au).
-754      Keay’s Insolvency: Personal and Corporate Law and Practice                            [19.05]
+754      Keay's Insolvency: Personal and Corporate Law and Practice                            [19.05]
 
 would give the company and its creditors ﬂexible alternatives to deal with the
-company’s ﬁnancial affairs. The regime was designed to be capable of swift
+company's ﬁnancial affairs. The regime was designed to be capable of swift
 implementation and would be as uncomplicated and inexpensive as possible: at
 [54]. Traditionally, insolvent companies had two options if they wished to continue
 in business and not go into liquidation. They could either enter into Official
@@ -142,7 +150,7 @@ Both official management and schemes of arrangement were, and in the latter case
 are, costly and formal. They were and are inappropriate for many companies, and
 the cost and formality caused, and causes, directors of insolvent companies some
 apprehension in invoking them. The Harmer Committee found the use of schemes
-in insolvency contexts to be “cumbersome, slow and costly”, requiring at least two
+in insolvency contexts to be "cumbersome, slow and costly", requiring at least two
 court attendances and also involving creditors voting in separate classes; in contrast
 to the prompt and expedient decision making processes under Pt 5.3A: Harmer
 Report, at [46]. Receivership is a ﬂexible form of external administration, but only
@@ -150,18 +158,18 @@ secured creditors or the court may initiate receivership, and this form of exter
 administration does not inspire conﬁdence in, or provide many beneﬁts for, the
 unsecured creditors. Also, receivership is often seen in the community as the
 precursor to liquidation.
-The voluntary administration procedure’s aim is to allow companies in ﬁnancial
+The voluntary administration procedure's aim is to allow companies in ﬁnancial
 distress time to develop and implement a restructuring plan with its creditors or at
 least to allow time to plan for an orderly sale of the assets through liquidation. This
-focus on corporate reorganisation (or “corporate rescue” as it is often called) is no
+focus on corporate reorganisation (or "corporate rescue" as it is often called) is no
 doubt inﬂuenced by other corporate rescue procedures such as the well-known
 Chapter 11 procedure contained in the Bankruptcy Reform Act 1978 (US),2 and the
-United Kingdom’s administration order and creditors voluntary arrangement
+United Kingdom's administration order and creditors voluntary arrangement
 under the Insolvency Act 1986 (UK). The 2015 Productivity Commission Report,
 Business Set-up, Transfer and Closure, has criticised the effectiveness of voluntary
 administration as a restructuring tool, stating (in Finding 13.1):
-   “The current culture, incentives and legal framework around voluntary administration
-   inhibit its effectiveness as a genuine restructuring mechanism.”
+   "The current culture, incentives and legal framework around voluntary administration
+   inhibit its effectiveness as a genuine restructuring mechanism."
 It recommended that voluntary administration be changed so that the administrator
 would be required to certify within one month that the company has reasonable
 prospects of being a viable business and if the administrator cannot do so, they
@@ -169,30 +177,30 @@ would be under obligation to place the company into liquidation (Recommendation
 13.1). This was rejected by the government, one reason given that voluntary
 administration was likely to operate much more effectively once safe harbour
 
-2 See A Terzic, “Turning to Chapter 11 to Foster Corporate Rescue in Australia” (2016) 24 Insolv LJ 5.
+2 See A Terzic, "Turning to Chapter 11 to Foster Corporate Rescue in Australia" (2016) 24 Insolv LJ 5.
 [19.05]                                                            19 Voluntary Administration    755
 
-reforms were introduced, these providing “a viable alternative to formal
+reforms were introduced, these providing "a viable alternative to formal
 administration in many circumstances where, under the current regime,
-administration is the only option”.3
+administration is the only option".3
 Voluntary administration now has to be seen and assessed in the context of the safe
 harbour regime under s 588GA. A purpose of that regime is to try to allow the
 company to avoid administration if an informal restructuring may produce a better
-outcome. The “Explanatory Memorandum to the Treasury Laws Amendment (2017
-Enterprise Incentives No 2) Bill 2017” says that the threat of insolvent trading
+outcome. The "Explanatory Memorandum to the Treasury Laws Amendment (2017
+Enterprise Incentives No 2) Bill 2017" says that the threat of insolvent trading
 liability, combined with uncertainty as to when insolvency arises may prompt
-directors “to seek voluntary administration even in circumstances where the
-company may be viable in the longer term”. The Memorandum says that s 588GA
-will “drive cultural change amongst company directors by encouraging them to
+directors "to seek voluntary administration even in circumstances where the
+company may be viable in the longer term". The Memorandum says that s 588GA
+will "drive cultural change amongst company directors by encouraging them to
 keep control of their company, engage early with possible insolvency and take
-reasonable risks to facilitate the company’s recovery instead of simply placing the
-company prematurely into voluntary administration or liquidation”.
-The Memorandum acknowledges, however, that some companies “may not be able
+reasonable risks to facilitate the company's recovery instead of simply placing the
+company prematurely into voluntary administration or liquidation".
+The Memorandum acknowledges, however, that some companies "may not be able
 to recover and will still proceed to voluntary administration or liquidation despite
-the directors’ best efforts”. Under s 588GA, “provided that the director was
+the directors' best efforts". Under s 588GA, "provided that the director was
 developing or pursuing a course of action reasonably more likely to lead to a better
 outcome for the company then they will still have the beneﬁt of safe harbour in
-these circumstances”.
+these circumstances".
 Voluntary administration in Australian insolvency law is conceptually modelled on
 two of the principal features of personal insolvency agreements under Pt X of the
 Bankruptcy Act namely:
@@ -203,20 +211,20 @@ Bankruptcy Act namely:
   of creditors and obtaining approval of the arrangement.
 These are two important aspects of the Pt 5.3A regime. It provides for the
 appointment of an insolvency practitioner, known as an administrator, who must
-be a registered liquidator, to assume control of a corporation’s affairs during a
+be a registered liquidator, to assume control of a corporation's affairs during a
 period of moratorium and investigation with a view to developing what is called a
-“deed of company arrangement” or “DOCA”. The DOCA then regulates the
+"deed of company arrangement" or "DOCA". The DOCA then regulates the
 relationship between the corporation and its creditors. If a DOCA is not feasible,
 the company will invariably go into liquidation.
-Voluntary administration is a form of “external administration” for the purposes of
+Voluntary administration is a form of "external administration" for the purposes of
 the IPSC, which means that Pt 3 of the IPSC will apply to the conduct of
 administrations, including court powers under Div 90.
-The title “voluntary administration” is something of a misnomer, because
+The title "voluntary administration" is something of a misnomer, because
 companies can go into administration involuntarily, but it was largely felt that more
 
 3 Treasury, Australian Government Response to the Productivity Commission Inquiry into Business Set-up,
   Transfer and Closure (May 2017), https://www.treasury.gov.au.
-756    Keay’s Insolvency: Personal and Corporate Law and Practice                         [19.10]
+756    Keay's Insolvency: Personal and Corporate Law and Practice                         [19.10]
 
 often than not companies themselves would initiate the administration. Since the
 commencement of Pt 5.3A, practice has borne out that view.
@@ -233,7 +241,7 @@ Corporations Act:
   (a) maximises the chances of the company, or as much as possible of its business,
       continuing in existence; or
   (b) if it is not possible for the company or its business to continue in existence – results in
-      a better return for the company’s creditors and members than would result from an
+      a better return for the company's creditors and members than would result from an
       immediate winding up of the company.
 This statement of purpose does not necessarily limit the purpose for which a
 voluntary administration can be used, as it is not meant to be an exhaustive list of
@@ -246,7 +254,7 @@ based on the wording of the provisions in Pt 5.3A: Mighty River International Lt
 Hughes [2017] WASCA 152 at [117] (where an argument that voluntary
 administration leading to a deed of company arrangement needed to involve
 property available for distribution was rejected by the court, which allowed the
-“holding DOCA” to proceed).
+"holding DOCA" to proceed).
 As explained earlier, s 435A does not require that voluntary administration be
 restricted to cases where, at the date of appointment, there is some prospect of
 saving a company from liquidation. Part 5.3A is to be available where, although it
@@ -259,10 +267,10 @@ former business) can be wound up in liquidation.
 In Blacktown City Council v Macarthur Telecommunications Pty Ltd [2003] NSWSC 883;
 (2003) 47 ACSR 391, Barrett J explained (at [19]) the goal of trying to save the
 business using a voluntary administration:
-  “Examination of Pt 5.3A as a whole shows that there are several purposes which together
+  "Examination of Pt 5.3A as a whole shows that there are several purposes which together
   contribute to the widely stated object. The provisions imposing the various moratoriums
   show that there is a purpose of allowing time for unpressured but reasonably prompt
-  consideration of possible reconstruction possibilities. The provisions as to creditors’
+  consideration of possible reconstruction possibilities. The provisions as to creditors'
   meetings and creditor decision making, including those concerning deeds of company
 [19.15]                                                           19 Voluntary Administration    757
 
@@ -272,13 +280,13 @@ business using a voluntary administration:
    avoided. Implicit in that, of course, is the proposition that the company will thereby be
    permitted to return to the mainstream of commercial life. Another purpose is that, if the
    company is not capable of returning to the mainstream of commercial life, there will be
-   some better outcome for creditors than that available in an immediate winding up.”4
+   some better outcome for creditors than that available in an immediate winding up."4
 Nevertheless, if liquidation is the only real option, a company should, in most
-cases, proceed through the creditors’ voluntary winding up process. Reforms to
+cases, proceed through the creditors' voluntary winding up process. Reforms to
 that process introduced in the Corporations Amendment (Insolvency) Act 2007 (Cth)
-have made creditors’ voluntary liquidations comparable with voluntary
+have made creditors' voluntary liquidations comparable with voluntary
 administrations in terms of their ease of prompt appointment of a liquidator. Since
-this change became operational on 31 December 2007 the numbers of creditors’
+this change became operational on 31 December 2007 the numbers of creditors'
 voluntary liquidations have increased dramatically and the numbers of voluntary
 administrations have declined.
 
@@ -296,24 +304,24 @@ creditors) are that:
    the company;
 • without the leave of the court, winding up cannot occur during the
    administration;
-• creditors are the ones affected by the company’s difficulties and they are the ones
+• creditors are the ones affected by the company's difficulties and they are the ones
    who are given the power to decide on its fate;5
 • the administration is not usually a lengthy process, so creditors are not
    precluded for any substantial period from taking action against the company if a
-   resolution of the company’s affairs is not viable;
+   resolution of the company's affairs is not viable;
 • the company can put a proposal to the creditors without the need for the
    sanction of the courts and this will, if accepted, bind all creditors with provable
    debts.
 Although voluntary administration has a number of advantages, there are potential
 disadvantages for creditors such as suppliers with reservation of title clauses in
 their supply contracts, who are prevented from recovering their property held by
-the company without the administrator’s or the court’s permission. Lessors
+the company without the administrator's or the court's permission. Lessors
 
 4 This was applied in Australian Gypsum Industries Pty Ltd v Dalesun Holdings Pty Ltd [2015] WASCA 95;
   (2015) 106 ACSR 79 and Re Bluenergy Group Ltd [2015] NSWSC 977; (2015) 107 ACSR 373.
 5 As to the role of creditors in Pt 5.3A and the processes in which they are involved, see Anderson,
-  “Decision Making in a Voluntary Administration” (2004) 22 C&SLJ 163.
-758      Keay’s Insolvency: Personal and Corporate Law and Practice                             [19.20]
+  "Decision Making in a Voluntary Administration" (2004) 22 C&SLJ 163.
+758      Keay's Insolvency: Personal and Corporate Law and Practice                             [19.20]
 
 (landlords) are also disadvantaged by voluntary administration as they are unable
 to retake possession of the leased property during administration even where the
@@ -337,7 +345,7 @@ OVERVIEW OF VOLUNTARY ADMINISTRATION
 6 Voluntary administration was the subject of reviews in the last decade that conﬁrmed its usefulness,
   one by a Federal Parliamentary Joint Committee (Corporate Insolvency Law: A Stocktake) and the other
   by CAMAC (Rehabilitating Large and Complex Enterprises in Financial Difficulties), both in 2004. Both
-  found that minor changes could make the procedure work more effectively. These “ﬁne-tuning”
+  found that minor changes could make the procedure work more effectively. These "ﬁne-tuning"
   changes were introduced by the Corporations Amendment (Insolvency) Act 2007 (Cth). The 2015
   Productivity Commission Report came up with more fundamental suggestions for change, which
   were not accepted.
@@ -351,12 +359,12 @@ when the administrator accepts an appointment from one of the following:
 • the company itself (s 436A);
 • a liquidator or provisional liquidator of the company (s 436B); or
 
-7 See generally, Anderson, “Commencement of the Part 5.3A Procedure: Some Considerations from an
-  Economics and Law Perspective” (2001) 9 Insolv LJ 4.
-760     Keay’s Insolvency: Personal and Corporate Law and Practice                           [19.30]
+7 See generally, Anderson, "Commencement of the Part 5.3A Procedure: Some Considerations from an
+  Economics and Law Perspective" (2001) 9 Insolv LJ 4.
+760     Keay's Insolvency: Personal and Corporate Law and Practice                           [19.30]
 
 • a secured party (including a secured creditor) with an enforceable security over
-  the whole, or substantially the whole, of the company’s property but not if a
+  the whole, or substantially the whole, of the company's property but not if a
   person holds an appointment as liquidator or provisional liquidator of the
   company: s 436C.
 Despite the choice of avenues for appointment it is the company that typically
@@ -370,18 +378,18 @@ court for an order as to the validity of the purported appointment: s 447C.
 Secured party creditor may appoint
 [19.30] A person entitled to enforce a security interest (such as a creditor with a
 valid company charge) over the whole, or substantially the whole, of the
-company’s property may appoint a voluntary administrator under s 436C. The
+company's property may appoint a voluntary administrator under s 436C. The
 interest held by the creditor must be in the nature of a security,8 and must be
 enforceable.9 A secured creditor may be prevented from appointing a voluntary
 administrator because of a need to comply with statutory requirements outside of
 the Corporations Act, such as provisions dealing with insolvency of farmers: Re
-Maria’s Farm Veggies Pty Ltd (admins apptd) [2016] NSWSC 1899 (Farm Debt Mediation
+Maria's Farm Veggies Pty Ltd (admins apptd) [2016] NSWSC 1899 (Farm Debt Mediation
 Act 1994 (NSW)). In that case, it was held that this would not, however, remove the
-court’s jurisdiction under s 447A to validate the appointment by modifying the
+court's jurisdiction under s 447A to validate the appointment by modifying the
 operation of s 436C, at least where the external statute did not directly prohibit the
 appointment.
 For security interests that come within the scope of the Personal Property Securities
-Act 2009 (Cth), the secured party must have “perfected” its security interest within
+Act 2009 (Cth), the secured party must have "perfected" its security interest within
 the meaning of the PPSA: Corporations Act, s 436C(1A). This will usually involve the
 registration of the security interest on the PPSA (although there are other ways of
 perfecting security), attachment of the security interest (PPSA, s 19) and a valid
@@ -392,19 +400,19 @@ appointing a voluntary administrator as their enforcement rights are preserved
 under Corporations Act, s 444D(2): Re Bluenergy Group Ltd [2015] NSWSC 977;
 (2015) 107 ACSR 373 (in that case the second administrator was removed so as to
 allow the DOCA to proceed).
-The question whether the security interest extends sufficiently over the company’s
+The question whether the security interest extends sufficiently over the company's
 property is determined by whether the secured creditor has the capacity to take
-control of so much of the company’s business property and affairs as is necessary to
+control of so much of the company's business property and affairs as is necessary to
 conduct an effective administration.10 However, in Re Australian Property Custodian
 
 8 Re Smarter Way (Aust) Pty Ltd [2000] VSC 408; (2000) 35 ACSR 595.
 9 The security interest in Photios v Cussen [2015] NSWSC 336 was held to be unenforceable because no
   mortgage duty imposed by the relevant Duties Act had been paid.
-10 See O’Donovan, Company Receivers and Administrators (Thomson Reuters, Westlaw AU) at [41.350].
+10 See O'Donovan, Company Receivers and Administrators (Thomson Reuters, Westlaw AU) at [41.350].
 [19.35]                                                           19 Voluntary Administration   761
 
 Holdings Ltd [2010] VSC 492, the court found that a security over only 68% of the
-value of the company’s assets was not over “substantially the whole” of the assets
+value of the company's assets was not over "substantially the whole" of the assets
 and was therefore insufficient to appoint a voluntary administrator.11 The secured
 party may not appoint if a liquidator or provisional liquidator has been appointed
 to the company: s 436C(2). It is less common for secured parties to appoint an
@@ -417,26 +425,26 @@ fashion than would be available in a stand-alone receivership.
 
 Liquidator may appoint
 [19.35] A liquidator or provisional liquidator may appoint an administrator
-under s 436B(1) in the same terms as the company, that is, “if he or she thinks that
-the company is insolvent, or is likely to become insolvent at some future time”.
+under s 436B(1) in the same terms as the company, that is, "if he or she thinks that
+the company is insolvent, or is likely to become insolvent at some future time".
 They must not appoint themselves, their partners or employees unless with
-creditors’ approval or with leave of the court. Approval must be given before the
+creditors' approval or with leave of the court. Approval must be given before the
 appointment takes place: Re Keldane Pty Ltd [2011] VSC 385. In that case the court
 stated (at [13]):
-   “the prohibition in s 436B is not something to be treated as a mere formality or mere
+   "the prohibition in s 436B is not something to be treated as a mere formality or mere
    procedural obstacle. Section 436B is the expression of a legislative policy designed to keep
    separate the roles, tasks, duties and privileges of liquidators on the one hand and of
    administrators of a company on the other. Its terms require compliance and dispensation
-   from its requirements should not be given lightly.”
+   from its requirements should not be given lightly."
 
 In the leading decision of Taylor; Re Origin Internet Solutions Pty Ltd [2004] FCA 382,
 the court gave leave for the liquidator to be appointed, saying that although the
 court is not unduly constrained in the way it exercises the discretion conferred
 under the subsection:
-   “the most important consideration is to ensure that there is no conﬂict of duty or interest
+   "the most important consideration is to ensure that there is no conﬂict of duty or interest
    if the liquidator is appointed as administrator. If for any reason it is preferable that a
-   completely independent person act as administrator then the liquidator’s application
-   must be refused”: at [6].12
+   completely independent person act as administrator then the liquidator's application
+   must be refused": at [6].12
 
 The law regarding the independence of liquidators, both with respect to real or
 perceived lack of independence, is generally applied in these situations: see
@@ -451,9 +459,9 @@ if there is a lack of independence: see further [19.145].
    860; (2003) 47 ACSR 122; ASIC v Diploma Group Ltd (No 5) [2017] FCA 1147. In Re Kukulovski [2013]
    FCA 697, the partner of the liquidator was appointed as the administrator with approval from the
    court.
-762     Keay’s Insolvency: Personal and Corporate Law and Practice                          [19.40]
+762     Keay's Insolvency: Personal and Corporate Law and Practice                          [19.40]
 
-Company’s decision to appoint
+Company's decision to appoint
 [19.40] In most cases, the company makes the appointment. One signiﬁcant
 reason for this is that once a company becomes insolvent or becomes likely to
 become insolvent the directors are faced with potential liability for insolvent
@@ -474,17 +482,17 @@ safe harbour protection under s 588GA. Similar inducements to appoint are given
 by the penalty notice regime for directors under the Taxation Administration Act 1953
 (Cth), discussed in Chapter 16.
 In this regard, the courts have generally been liberal in interpreting relevant
-provisions of the Act in relation to the initial directors’ meeting under s 436A. This
+provisions of the Act in relation to the initial directors' meeting under s 436A. This
 accords with the intention of the legislation that directors should be readily able to
 quickly appoint an administrator without unnecessary procedure. If they were to
 be required to engage in a substantial examination, administrations could not be
 initiated as speedily (as envisaged by the legislation) once the directors realised that
 the company had a problem.
-Although directors are not required to examine the entirety of the company’s
-ﬁnancial position or obtain expert opinions regarding the company’s solvency, they
-must actually form a concluded opinion about the company’s solvency: Wagner v
-International Health Promotions (1994) 12 ACLC 986 (“questionable solvency” was
-insufficient). It is not sufficient to merely rely on a particular director’s view about
+Although directors are not required to examine the entirety of the company's
+ﬁnancial position or obtain expert opinions regarding the company's solvency, they
+must actually form a concluded opinion about the company's solvency: Wagner v
+International Health Promotions (1994) 12 ACLC 986 ("questionable solvency" was
+insufficient). It is not sufficient to merely rely on a particular director's view about
 solvency, particularly when the other directors have not accessed any ﬁnancial
 information: Re Condor Blanco Mines Ltd [2016] NSWSC 1196. That opinion must be
 genuinely held and not be used to commence administration for a collateral
@@ -507,26 +515,26 @@ under the law of meetings. Thus, there is a requirement that:
 • directors with a conﬂict of interest declare their interest (s 191) and, unless
   exempted, refrain from voting.
 The board may appoint an administrator by teleconference, even where the
-company’s constitution required the directors “to come together” for a valid board
+company's constitution required the directors "to come together" for a valid board
 meeting: Re Giga Investments Pty Ltd (1995) 58 FCR 106. The appointment must still
 be recorded in writing.
 It is not required of an administrator, when accepting an appointment, that they go
 behind what appears to be a valid resolution of the board that the company is
 insolvent or likely to become so: DCT v Portinex (No 2) [2000] NSWSC 557; (2000) 34
 ACSR 422. There is no need for an independent veriﬁcation of the facts establishing
-the appointment, but rather “a review of whether the resolution appointing the
-administrator appeared, on its face, to be valid”: Rapsey v Lime Gourmet Pizza Bar
+the appointment, but rather "a review of whether the resolution appointing the
+administrator appeared, on its face, to be valid": Rapsey v Lime Gourmet Pizza Bar
 (Charlestown) Pty Ltd [2015] NSWSC 244 at [72].
 [19.42]     In Re Condor Blanco Mines Ltd [2016] NSWSC 1196 at [140]. Barrett AJA
 said:
-   “in general, it is not part of the administrator’s responsibility, in assessing the validity of
+   "in general, it is not part of the administrator's responsibility, in assessing the validity of
    his or her appointment, to delve into any purpose or motive of the directors beyond that
-   of resort to Part 5.3A administration as a response to actual or impending insolvency.”
+   of resort to Part 5.3A administration as a response to actual or impending insolvency."
 An administrator may have a duty to investigate the validity of their appointment
 where they are put on notice of potential invalidity: Correa v Whittingham [2013]
 NSWCA 263; 278 FLR 310. In Re Condor Blanco, Barrett AJA explained the nature of
 this duty (at [139]):
-   “Both at the time of the appointment and subsequently, an administrator must be
+   "Both at the time of the appointment and subsequently, an administrator must be
    attentive to any matter coming to his or her notice that may call into question the premise
    upon which the appointment is made, that is, that directors genuinely holding the
    requisite opinion concerning solvency have validly and regularly passed a resolution in
@@ -535,41 +543,41 @@ this duty (at [139]):
    available to the administrator), whether the directors voting for the resolution appear to
    hold the stated opinion at the time of voting. It may be expected that an administrator
    will make some inquiry of those by whom he or she is approached with a view to gaining
-   insight into the company’s ﬁnancial position and thereby to subject the expressed opinion
+   insight into the company's ﬁnancial position and thereby to subject the expressed opinion
    of directors to a rough check. Publicly available information will also be examined. In that
    way, the administrator will discover who the directors are. The administrator must see
    that the board consisting of those directors has adopted due process to pass, by a majority
    of votes, a resolution in appropriate terms. But there, in my opinion, the responsibility
-   ends in all but very exceptional cases.”
+   ends in all but very exceptional cases."
 
-14 See McMaster v Eznut Pty Ltd [2006] WASC 109; (2006) 58 ACSR 199 (where a few minutes’ notice
+14 See McMaster v Eznut Pty Ltd [2006] WASC 109; (2006) 58 ACSR 199 (where a few minutes' notice
    was sufficient as the director already knew of the purpose of the meeting and had indicated she
    would refuse to attend any meeting to appoint an administrator). Compare Re Keneally [2015]
    NSWSC 937; (2015) 107 ACSR 172 where less than two hours notice was found not sufficient for a
-   valid directors’ meeting in circumstances where there was no pressing ﬁnancial need to appoint an
+   valid directors' meeting in circumstances where there was no pressing ﬁnancial need to appoint an
    administrator on short notice.
-764      Keay’s Insolvency: Personal and Corporate Law and Practice                                 [19.42]
+764      Keay's Insolvency: Personal and Corporate Law and Practice                                 [19.42]
 
-For example, there is no necessary requirement to check the company’s constitution
-to verify that the directors’ meeting was valid. However, the fundamental authority
+For example, there is no necessary requirement to check the company's constitution
+to verify that the directors' meeting was valid. However, the fundamental authority
 of the company to appoint an administrator must still exist. For example, it is
-common for company constitutions to provide that a valid directors’ meeting must
+common for company constitutions to provide that a valid directors' meeting must
 have at least two directors who are able to vote (known as forming a sufficient
 quorum). This is also a replaceable rule as set out in s 248F. In situations where the
-directors’ meeting does not have sufficient participants to form a “quorum” the
+directors' meeting does not have sufficient participants to form a "quorum" the
 appointment will be invalid: see, for example, Sutherland v Take Seven Group Pty Ltd
-(1998) 29 ACSR 201, where the company’s constitution required two directors to
+(1998) 29 ACSR 201, where the company's constitution required two directors to
 appoint an administrator, and only one did so, the appointment was found to be
 invalid.15
 The requirements for a sufficient quorum can pose problems during times of
 ﬁnancial distress as directors may wish to resign once the company becomes
 insolvent: see, for example, Re HPI Australia Pty Ltd [2008] NSWSC 1106 where all
-of the directors except one resigned.16 Directors’ meetings may also be inquorate
+of the directors except one resigned.16 Directors' meetings may also be inquorate
 where the members become disqualiﬁed from serving as directors (for example
 where they become bankrupts: Calabretta v Redpen Developments Pty Ltd [2010] FCA
 81; (2010) 183 FCR 47 or are convicted of a serious criminal offence: s 206B). In such
 situations the court may apply a remedial provision such as ss 1322(4) or 447A to
-remedy the defect and preserve the administrator’s appointment: DCT v Portinex
+remedy the defect and preserve the administrator's appointment: DCT v Portinex
 (No 1) [2000] NSWSC 99; (2000) 156 FLR 453.17 These provisions may not be used,
 however, where the directors have simply not undertaken what s 436A requires,
 such as failing to pass a resolution that the company is insolvent or likely to
@@ -578,17 +586,17 @@ administrator may rely on the statutory assumptions under ss 128, 129 when
 accepting their appointment: Correa v Whittingham [2013] NSWCA 263.
 Although directors may be liable to the company for damages if they resolve to
 appoint administrators in circumstances where the section does not apply, the
-question is “whether the directors genuinely believed that the company was
+question is "whether the directors genuinely believed that the company was
 insolvent or likely to become so, and whether that belief was reasonable in the
 circumstances. That in turn will depend largely upon whether they took adequate
 steps to satisfy themselves that the statutory requirements were met before
-resolving to appoint the administrator”: Downey v Crawford [2004] FCA 1264; (2004)
+resolving to appoint the administrator": Downey v Crawford [2004] FCA 1264; (2004)
 51 ACSR 182.
 A voluntary administration that is initiated by the directors for a collateral purpose
 may be held to be invalid by the court. For example, in Re Keneally [2015] NSWSC
 937; (2015) 107 ACSR 172, the purpose of appointing an administrator was not
 
-15 See also Johnson, “Appointing Administrators with an Improperly Constituted Board”, (2015) 27(1)
+15 See also Johnson, "Appointing Administrators with an Improperly Constituted Board", (2015) 27(1)
    A Insol J 26 ; referring in particular to Jack James as administrator of ZYL Ltd [2015] WASC 57.
 16 It is possible that directors who resign could still be de facto or shadow directors: see for example, Re
    New Bounty Pty Ltd [2015] NSWSC 1060; (2015) 107 ACSR 504 (managing director who proposed
@@ -608,19 +616,19 @@ would involve a substantial share issue to dilute minority shareholders was an
 improper purpose, although the court refused to set aside the administration and
 the DOCA, in part because the applicant delayed in seeking relief. In Re Condor
 Blanco Mines Ltd [2016] NSWSC 1196 at [142], Barrett AJA explained:
-   “If it were as plain as a pikestaff, without any form of inquiry, that directors were
+   "If it were as plain as a pikestaff, without any form of inquiry, that directors were
    resorting to administration for an extraneous purpose (because, for example, they actually
    said so or immediately obvious and observable circumstances left no alternative
    explanation), the practitioner asked to accept appointment would fail to discharge the
    relevant responsibility by accepting. Beyond any such patently obvious case, however,
    there can be no expectation that the responsibility at the time of appointment extends to
-   considering possibilities of improper purpose and abuse of process.”
+   considering possibilities of improper purpose and abuse of process."
 
 In the context of the safe harbour regime under s 588GA, an acceptable outcome
-would be that, despite the directors’ genuine efforts to “save” the company, often
+would be that, despite the directors' genuine efforts to "save" the company, often
 on appropriate advice, this is not possible, and the adviser may in fact then advise
 the directors that voluntary administration is the best outcome. The validity of the
-director’s decision to appoint an administrator may be less subject to challenge in
+director's decision to appoint an administrator may be less subject to challenge in
 such a case.
 The company may still appoint an administrator after a receiver and manager has
 been appointed: Re Genasys II Pty Ltd (1996) 14 ACLC 729. It should be noted that in
@@ -645,30 +653,30 @@ s 436E(3)(b): s 450A(1A).
 If the administrator has been appointed by a secured party, the company must be
 notiﬁed of the appointment as soon as practicable and in any event before the end
 of the next business day: s 450A(2).
-766    Keay’s Insolvency: Personal and Corporate Law and Practice               [19.50]
+766    Keay's Insolvency: Personal and Corporate Law and Practice               [19.50]
 
 When an administration ends
 [19.50] The administration will continue until it is terminated by one of the
 events contained in s 435C(2) and (3). The major ones are:
-• a deed of company arrangement is executed by the company and the deed’s
+• a deed of company arrangement is executed by the company and the deed's
   administrator (s 435C(2)(a));
-• the company’s creditors resolve that the administration should end (s 435C(2)(b));
-• the company’s creditors resolve that the company should be wound up
+• the company's creditors resolve that the administration should end (s 435C(2)(b));
+• the company's creditors resolve that the company should be wound up
   (s 435C(2)(c));
 • the court orders the end of the administration, for example, because of some
   abuse of the Pt 5.3A process (s 435C(3)(a));
 • the period prescribed by s 439A(5) for the meeting of creditors ends without the
   convening of the meeting (s 435C(3)(b));
-• the creditors’ meeting convened under s 439A ends without a resolution under
+• the creditors' meeting convened under s 439A ends without a resolution under
   s 439C being passed (s 435C(3)(e));
 • the company fails to execute a proposed deed of company arrangement
   (s 435C(3)(f));
 • the court appoints a provisional liquidator or orders a winding up: s 435C(3)(g).
 Also, the court can terminate an administration under s 445D on the application of
-the company, a creditor, the administrator, ASIC or an “interested person” on the
+the company, a creditor, the administrator, ASIC or an "interested person" on the
 basis that the company is solvent or the provisions of Pt 5.3A are being abused.
 Section 445G allows the court to make an order either validating or voiding a deed.
-Most second creditors’ meetings make one of the three decisions open to the
+Most second creditors' meetings make one of the three decisions open to the
 creditors under s 439C, though it is rare for creditors to decide to hand the
 company back to the directors. In some cases, the creditors may simply not be able
 to agree on the terms of an arrangement due to their different interests, and no
@@ -689,13 +697,13 @@ examined in Chapter 20.
 EFFECT OF THE ADMINISTRATION
 
 On the company and its members
-[19.60]    The most important effect is that the company’s business, property and
+[19.60]    The most important effect is that the company's business, property and
 affairs come under the control of the administrator: s 437A. Unlike in bankruptcy,
 [19.65]                                                         19 Voluntary Administration   767
 
-but similar to liquidation, the administrator does have legal title to the company’s
+but similar to liquidation, the administrator does have legal title to the company's
 property during administration. The administrator acts as the agent of the
-company: s 437B. During the period of voluntary administration the company’s
+company: s 437B. During the period of voluntary administration the company's
 property can only be dealt with by the administrator, or with their written consent,
 or by the leave of the court. Transactions not so sanctioned are void: s 437D.
 The position and property of the company will be protected after the appointment
@@ -703,7 +711,7 @@ because there is a statutory moratorium as far as recovery and enforcement of
 pre-appointment liabilities are concerned.
 As a result of the appointment, and to inform those dealing with the company, the
 company is required to set out, in every public document and eligible negotiable
-instrument after the company’s name, the expression “administrator appointed”:
+instrument after the company's name, the expression "administrator appointed":
 s 450E. This is subject to the court dispensing with this requirement.
 Section 161A provides that a company that changes its name during, or six months
 prior to, an external administration should be required to disclose its former, as
@@ -712,17 +720,17 @@ administration or any subsequent liquidation. Section 161A(3), (6) and (7) allow
 voluntary administrator or deed administrator to seek leave of the court for an
 exemption from these requirements. Contravention of s 161A(2) or (3) is an offence.
 Section 157A permits administrators to lodge an application with ASIC to change a
-company’s name without the need for a special resolution of members, where it is
+company's name without the need for a special resolution of members, where it is
 in the interests of creditors as a whole to do so.
 As one might expect, the appointment of an administrator does not affect the
-company’s legal status – it retains its corporate legal personality.
+company's legal status – it retains its corporate legal personality.
 
 Shares
-[19.65] During the period of the administration the position of the company’s
+[19.65] During the period of the administration the position of the company's
 shareholders is frozen, hence s 437F provides that a transfer of shares is void in this
 period unless the administrator gives consent to the transfer or the court authorises
 it. The administrator must be satisﬁed that any transfer is in the best interests of the
-company’s creditors as a whole: s 437F(2). If consent is refused by the
+company's creditors as a whole: s 437F(2). If consent is refused by the
 administrator, any of the prospective transferors or transferees, or a creditor, can
 apply to the court for an order authorising the transfer. The administrator may be
 heard on any such application: s 437F(7). The administrator may give consent
@@ -736,13 +744,13 @@ arrangement).18 A potential purchaser of the business may wish to acquire the
 business assets via a sale or alternatively may prefer to purchase the shares in the
 company. The choice between different purchase methods is inﬂuenced by various
 
-18 See further Harris, “Using Voluntary Administration to Dilute Minority Shareholdings” (2016) 28
+18 See further Harris, "Using Voluntary Administration to Dilute Minority Shareholdings" (2016) 28
    ARITA J 22.
-768      Keay’s Insolvency: Personal and Corporate Law and Practice                               [19.70]
+768      Keay's Insolvency: Personal and Corporate Law and Practice                               [19.70]
 
 factors including taxation issues (such as the treatment of prior losses, CGT events
 and deductibility of business expenses), stamp duty, accounting and fundraising
-issues (whether the assets will be held on the company’s balance sheet or through a
+issues (whether the assets will be held on the company's balance sheet or through a
 subsidiary or special acquisition vehicle) as well as regulatory and licensing issues
 (for example foreign entities may need to acquire assets through local subsidiaries).
 In recent years the use of voluntary administration as a means of entering a DOCA
@@ -752,7 +760,7 @@ Nexus Energy Ltd [2014] NSWSC 1910; (2014) 105 ACSR 246.
 A similar regime applies in relation to the alteration in status of members of a
 company in administration: s 437F(8) – (15).
 
-On general dealings with company’s property – s 437D
+On general dealings with company's property – s 437D
 [19.70] Section 437D is very similar to s 468 which applies to companies in
 liquidation (see [14.250]). A transaction or dealing entered into by or on behalf of
 the company is void unless it is entered into by the administrator, the administrator
@@ -767,20 +775,20 @@ be ordered to pay compensation: s 437E(1).
 Certain transactions which would otherwise be void are in fact exempt: s 437D(3).
 These transactions involve payments by an authorised deposit-taking institution
 (ADI) out of an account kept by the company with the ADI, where the payment
-was made in good faith and in the ordinary course of the ADI’s business. These
+was made in good faith and in the ordinary course of the ADI's business. These
 payments, to be exempt, must have been made on or before the day on which the
 administrator gave to the bank written notice that the appointment had begun or
 before the administrator had published notice of the appointment (under
 s 450A(3)), whichever occurs ﬁrst.
 The amendments made to the Corporations Act following the introduction of the
-PPSA expand the scope of the “property of the company” for the purpose of
+PPSA expand the scope of the "property of the company" for the purpose of
 voluntary administration.19 Prior to these amendments (which took effect on
 30 January 2012), goods supplied under a retention of title arrangement and leased
-property would not be considered the “property of the company” because it was
+property would not be considered the "property of the company" because it was
 owned by someone else. Of course, the moratorium that is imposed on owners,
 lessors and other creditors (discussed at [19.110]–[19.120]) could still prevent this
-property being removed from the company’s possession. The 2012 changes
-introduced the concept of “PPSA retention of title property”. This was included by
+property being removed from the company's possession. The 2012 changes
+introduced the concept of "PPSA retention of title property". This was included by
 way of the introduction of s 435B into Pt 5.3A of the Corporations Act, which
 
 19 See Personal Property Securities (Corporations and Other Amendments) Act 2010 (Cth); Personal Property
@@ -788,8 +796,8 @@ way of the introduction of s 435B into Pt 5.3A of the Corporations Act, which
    commenced when the PPSA commenced, which was on 30 January 2012.
 [19.80]                                                              19 Voluntary Administration      769
 
-provides that “property of a company includes any PPSA retention of title property
-of the company.” Section 51F deﬁnes PPSA retention of title property as being:
+provides that "property of a company includes any PPSA retention of title property
+of the company." Section 51F deﬁnes PPSA retention of title property as being:
 • personal property;
 • used or occupied by, or in the possession of, the corporation; and
 • the corporation does not have title to the property; and
@@ -797,10 +805,10 @@ of the company.” Section 51F deﬁnes PPSA retention of title property as bein
   PPSA; and
 • the corporation is the grantor of the security interest within the meaning of the
   PPSA.
-Section 435B means that the company’s property during a voluntary administration
+Section 435B means that the company's property during a voluntary administration
 may include goods supplied under a retention of title clause as well as goods
 leased, consigned or bailed (in certain circumstances).20
-The expansion of the concept of the company’s property in voluntary administration
+The expansion of the concept of the company's property in voluntary administration
 by s 435B is signiﬁcant when considering the position of secured creditors and their
 rights to appoint an administrator (under s 436C) and to avoid the moratorium
 (Pt 5.3A Div 7), which are discussed in Chapter 19.
@@ -815,10 +823,10 @@ administrator to creditors cannot be attacked as unfair preferences if the compa
 were to go into liquidation at a later stage.
 
 On the company officers
-[19.80]   The administration’s appointment will mean that company officers can
+[19.80]   The administration's appointment will mean that company officers can
 only exercise their powers with the written approval of the administrator: s 198G.
 Obviously this is necessary if the legislature is going to give an administrator the
-power to control the company – otherwise the administrator’s decisions could be
+power to control the company – otherwise the administrator's decisions could be
 undermined by the officers. In addition, the creditors may have more faith in the
 success of the administration if the officers cannot act without the approval of the
 independent administrator.
@@ -827,21 +835,21 @@ remove or replace them under s 442A); as with a receivership they will be entitl
 to resume their powers if and when the administration ends (including if the
 company enters into a deed of company arrangement, subject to the terms of the
 
-20 A “PPSA security interest” does not include a “transitional security interest”: Corporations Act, s 51.
+20 A "PPSA security interest" does not include a "transitional security interest": Corporations Act, s 51.
    A transitional security interest was one enforceable prior to the commencement of the PPSA: PPSA,
    ss 307, 308. That transitional period ended in January 2014 and no transitional security interests
    remain valid. All security interests had to be perfected, by means of other than the transitional rules,
    by the end of January 2014.
-770      Keay’s Insolvency: Personal and Corporate Law and Practice                        [19.85]
+770      Keay's Insolvency: Personal and Corporate Law and Practice                        [19.85]
 
-deed).21 Although the term “officer” includes receivers, court-appointed receivers,
+deed).21 Although the term "officer" includes receivers, court-appointed receivers,
 court-appointed liquidators and provisional liquidators, the ones who are most
 affected by this are the directors and they must, before initiating administration,
 weigh up the fact that they will lose control against the fact that there will be
 possible beneﬁts to the company. Employees are not officers; their position is
 considered below at [19.90].
 
-Directors’ personal guarantees – s 440J
+Directors' personal guarantees – s 440J
 [19.85]    What is often important when considering an insolvent company are the
 rights of creditors in relation to the enforcement of guarantees. Often directors of
 the company have needed to give personal guarantees to persuade banks and other
@@ -859,9 +867,9 @@ embargos or moratoria during Pt 5.3A administration. Provisions such as ss 440B,
 and resources of the company itself are concerned. In contrast, s 440J(1) affects the
 assets of the director and does not imperil the assets of the company: National
 Australia Bank Ltd v King [2003] NSWSC 525; (2003) 45 ACSR 413. The protection
-offered by s 440J extends to proceedings “in relation to” the guarantee. The words
-“in relation to” are of wide meaning and are “satisﬁed by the existence of a
-relationship or connection between the guarantee and the proceeding”: Waco
+offered by s 440J extends to proceedings "in relation to" the guarantee. The words
+"in relation to" are of wide meaning and are "satisﬁed by the existence of a
+relationship or connection between the guarantee and the proceeding": Waco
 Kwikform Ltd v Jabbour [2010] NSWSC 1379 (extension of caveat over property
 covered by director guarantee).
 The courts will generally refuse leave to a creditor to proceed under a guarantee.
@@ -870,7 +878,7 @@ proceed against guarantors where the company is in administration. In Wallabah
 Pty Ltd v Navillo Pty Ltd (1997) 15 ACLC 396, relief under s 440J was refused where
 a director/guarantor disputed the validity of the guarantee and the amount owing,
 and this was known to the creditor, and the administrator was trying to sell the
-company’s major asset, and the creditor was not able to show it would suffer any
+company's major asset, and the creditor was not able to show it would suffer any
 disadvantage if the orders were not made. The disadvantage or prejudice that may
 be suffered by the guarantee creditor is a relevant consideration when determining
 whether to grant leave: see for example, Waco Kwikform Ltd v Jabbour [2010] NSWSC
@@ -900,16 +908,16 @@ under s 440J as the potential to discourage the appointment of an administration
 was minimised compared with a guarantee that had not yet been enforced. A
 similar ﬁnding was made in Mizuho Bank Ltd v Ackroyd [2016] NSWSC 1148.
 
-On the company’s employees
+On the company's employees
 [19.90] Employees are not speciﬁcally affected by the legislation, although their
 retention as employees will very much depend on the outcome of the Pt 5.3A
 process.24 A contract of employment may provide the power to terminate in certain
 situations, including on insolvency or redundancy. However, in the absence of such
 a provision, the insolvency of the employer or employee or the purported
-redundancy of the employee’s position do not provide a power to terminate the
+redundancy of the employee's position do not provide a power to terminate the
 contract at general law and the courts will be reluctant to imply such a term into
 the contract: Re South Head & District Synagogue (Sydney) (admin apptd) [2017]
-NSWSC 823. In that case it was held that a purported termination of a Rabbi’s
+NSWSC 823. In that case it was held that a purported termination of a Rabbi's
 employment was not permitted under the contract (which incorporated Jewish law
 and life tenure for the Rabbi) but that the administrator was not obliged to continue
 paying the employee. It is open to an employee whose contract is unlawfully
@@ -925,16 +933,16 @@ reporting obligations by helping to identify creditors, locate and manage assets
 22 See also Coates Hire Operations Pty Ltd v McNaughton [2006] NSWSC 841; (2006) 24 ACLC 765.
 23 Re Andersens Home Furnishing Co Pty Ltd (1996) 14 ACLC 1,710; cf Stegbar Pty Ltd v Mayﬁeld (1994) 13
    ACSR 354.
-24 For a detailed examination see Anderson, “Voluntary Administration and the Protection of
-   Employee Entitlements” (2012) 30 C&SLJ 170.
-772      Keay’s Insolvency: Personal and Corporate Law and Practice                               [19.90]
+24 For a detailed examination see Anderson, "Voluntary Administration and the Protection of
+   Employee Entitlements" (2012) 30 C&SLJ 170.
+772      Keay's Insolvency: Personal and Corporate Law and Practice                               [19.90]
 
 and advise on how best to manage the business during the administration. It is also
 possible that employees may wish to buy out the business through a DOCA.
 Just as the management of a company that is not in voluntary administration may
 terminate the employment of employees, the voluntary administrator has the
 ultimate management power of the company and may similarly terminate
-employment contracts. If the administrator does terminate an employee’s services,
+employment contracts. If the administrator does terminate an employee's services,
 the termination may give rise to rights to sue for unfair dismissal under statute or
 breach of contract at general law, but no personal liability will be incurred by the
 administrator who terminates the employment contract even if by causing the
@@ -944,7 +952,7 @@ employees were originally signed by the company and the administrator assumes
 no responsibility for them simply on being appointed as administrator.25 While an
 employer can be ordered by a court to refrain from dismissing the employees
 during an industrial dispute, once the company enters administration those orders
-are subject to the administrator’s discretion to dismiss: Patrick Stevedores Operations
+are subject to the administrator's discretion to dismiss: Patrick Stevedores Operations
 No 2 Pty Ltd v MUA [1998] HCA 30; (1998) 195 CLR 1.
 Administrators are therefore only liable for the contracts of employment of
 employees they take on after their appointment (s 443A), including their ongoing
@@ -970,16 +978,16 @@ Pt 5.3A process as creditors. In Pasminco Ltd [2003] FCA 265; (2003) 45 ACSR 1, 
 relation to notice of the meeting being given to employees, the court emphasised
 the need for creditors to be appropriately notiﬁed and informed (at [19]):
 
-25 For a contrary view, see Wellard, “Debts ‘Incurred’ by Receivers, Administrators and Liquidators:
-   The Case for a Harmonised Construction of ss 419, 443A and 556(1)(a) of the Corporations Act”
+25 For a contrary view, see Wellard, "Debts 'Incurred' by Receivers, Administrators and Liquidators:
+   The Case for a Harmonised Construction of ss 419, 443A and 556(1)(a) of the Corporations Act"
    (2013) 21 Insolv LJ 60 which contains a detailed examination of s 443A and employee entitlements.
 26 Brash Holdings Ltd v Katile Pty Ltd [1996] 1 VR 24; Green v Giljohann [1995] VicSC 310; (1995) 17 ACSR
    518.
 [19.95]                                                           19 Voluntary Administration   773
 
-   “[m]ore particularly is this so where there is a large body of creditors, such as employees,
+   "[m]ore particularly is this so where there is a large body of creditors, such as employees,
    each with claims modest by reference to the overall indebtedness of the companies subject
-   to deeds of company arrangement, but substantial and signiﬁcant for each employee.”
+   to deeds of company arrangement, but substantial and signiﬁcant for each employee."
 
 In the Ansett administration the court allowed various unions representing
 employees to act as their proxies at the ﬁrst meeting of creditors.27
@@ -994,9 +1002,9 @@ The Treasury Laws Amendment (2017 Enterprise Incentives No 2) Act 2017 (Cth)
 provides protection for companies in administration against ipso facto clauses in
 contracts that are triggered by administration. These amendments introduce new
 provisions ss 451E-451H into Pt 5.3A.
-Section 451E(1) provides that a right can’t be enforced against a corporation for:
+Section 451E(1) provides that a right can't be enforced against a corporation for:
 (a) the reason that the company has come or is under administration; or
-(b) the company’s ﬁnancial position, if the company is under; or
+(b) the company's ﬁnancial position, if the company is under; or
 (c) a prescribed reason; or
 (d) a reason that is in substance contrary to the provision.
 if the right arises for that reason by express provision of a contract, agreement or
@@ -1019,7 +1027,7 @@ entered into after the administration commences: s 451E(5). The stay also does n
 apply where the administrator consents to the exercise of the right: s 451E(7). There
 
 27 Re Ansett Australia; Rappas v Ansett [2001] FCA 1348; (2001) 39 ACSR 296.
-774      Keay’s Insolvency: Personal and Corporate Law and Practice                           [19.100]
+774      Keay's Insolvency: Personal and Corporate Law and Practice                           [19.100]
 
 is power to include further exceptions by Ministerial declaration or under the
 regulations: s 451E(5), (6). The court has the power to lift the stay under s 451F.28
@@ -1032,7 +1040,7 @@ Unlike a liquidator, an administrator does not have any statutory right to discl
 contracts. If an administrator chooses to repudiate a contract, the other party will,
 as is usually the case under a receivership, be left with a claim which is an
 unsecured claim against the company for damages.29 Of course, the administrator
-is also an “officer” of the corporation and must exercise their powers for a proper
+is also an "officer" of the corporation and must exercise their powers for a proper
 purpose and in good faith (s 181) and must exercise due care and diligence: s 180.
 If a continuing contract is performed by the company when under administration
 the administrator is generally not liable for its continued or non-performance, just
@@ -1041,7 +1049,7 @@ under s 443A for new contracts entered into, including with new employees
 engaged during the course of the administration. The liability imposed on an
 administrator under s 443A is discussed further at [19.225].
 
-On the company’s creditors
+On the company's creditors
 [19.100] The fact that the appointment of an administrator leads to a statutory
 moratorium substantially affects the creditors. One consequence of the moratorium
 is that legal proceedings, winding up proceedings and execution against company
@@ -1056,7 +1064,7 @@ administration. The speciﬁc restrictions imposed on some secured creditors wil
 discussed later.
 Transactions that confer an interest in personal property (such as goods or accounts
 receivables) in order to secure the payment or performance of an obligation
-(including a debt) are “security interests”: PPSA, s 12(1). The PPSA also deems
+(including a debt) are "security interests": PPSA, s 12(1). The PPSA also deems
 certain arrangements, including long-term leasing arrangements of personal
 property and commercial consignments, to be security interests: PPSA, s 12(3). The
 result of this is that many forms of commercial arrangements, such as supplies of
@@ -1072,19 +1080,19 @@ goods under retention of title and ﬁnance leasing arrangements, need to be
 perfected under the terms of the PPSA. Perfection for most forms of arrangements
 now require registration of a ﬁnancing statement, in addition to other requirements
 under the PPSA (see, in particular, ss 18 – 21). Errors in a ﬁnancing statement may
-cause the security interest to be “unperfected” unless also perfected in another way.
+cause the security interest to be "unperfected" unless also perfected in another way.
 This is a signiﬁcant issue in voluntary administration because unperfected security
-interests “vest in the grantor”: PPSA, s 267.30 This means that the secured party
+interests "vest in the grantor": PPSA, s 267.30 This means that the secured party
 becomes unsecured and other perfected secured parties take priority. This occurred
 in Re Maiden Civil (P&E) Pty Ltd; Albarran and Pleash v Queensland Excavation Services
 Pty Ltd [2013] NSWSC 852; (2013) 277 FLR 337, where a lessor of excavation
 equipment failed to perfect their security interest and had to give up their title to
-the equipment to receivers appointed over the lessee (known as the “grantor”
+the equipment to receivers appointed over the lessee (known as the "grantor"
 under the PPSA) by a secured party with a perfected interest in all of the grantor
-company’s property. The security interest of the lessor “vested” in the lessee when
+company's property. The security interest of the lessor "vested" in the lessee when
 the lessee entered voluntary administration.31
-Creditors are entitled to vote at two creditors’ meetings (ss 436E, 439C), to vote to
-remove the administrator and appoint someone else at the ﬁrst creditors’ meeting
+Creditors are entitled to vote at two creditors' meetings (ss 436E, 439C), to vote to
+remove the administrator and appoint someone else at the ﬁrst creditors' meeting
 (s 436E(4)) or thereafter (IPSC, s 90-35), to determine if there should be a committee
 of inspection appointed (s 436E(1)), and to decide, inter alia, whether or not to
 accept a deed of company arrangement (s 439C) or to put the company into
@@ -1092,7 +1100,7 @@ liquidation. In addition, creditors have rights to seek information from the
 voluntary administrator (including the production of books and reports) and are
 entitled to receive a range of information on the progress of the administration: see
 generally Div 70 of the IPSC and IPRC, and IPRC, s 75-225 (report to creditors prior
-to second meeting). Secured parties may refrain from voting at the ﬁnal creditors’
+to second meeting). Secured parties may refrain from voting at the ﬁnal creditors'
 meeting in order to retain their right to realise or otherwise enforce their security
 even if a deed of company arrangement is entered into: s 444D(2).
 The general right of creditors to call a meeting to vote to remove an external
@@ -1114,17 +1122,17 @@ administration (prior s 440B, now substantially amended), the law also allowed
 30 See also Corporations Act, s 588FL.
 31 See also White v Spiers Earthworks Pty Ltd [2014] WASC 139; (2014) 99 ACSR 214; Forge Group Power
    Pty Ltd (in liq) (rec & man appt) v General Electric Int Inc [2016] NSWSC 52.
-776      Keay’s Insolvency: Personal and Corporate Law and Practice                   [19.110]
+776      Keay's Insolvency: Personal and Corporate Law and Practice                   [19.110]
 
-major secured creditors to take action within the 13 business day “decision period”
+major secured creditors to take action within the 13 business day "decision period"
 (s 9) provided that they had security over the whole or substantially the whole of
-the company’s property (without the extended scope of that term under s 435B):
+the company's property (without the extended scope of that term under s 435B):
 prior s 441A (now substantially amended). Non-major secured creditors were
 bound by the moratorium from the appointment (prior s 440B). Both major and
 minor secured creditors could continue enforcement action that began prior to the
 appointment of the administrator (prior s 441B). Owners and lessors whose
 property was being used by the company in administration (or was at least in the
-company’s possession) could not retake possession without the permission of the
+company's possession) could not retake possession without the permission of the
 administrator or leave of the court (prior s 440C, now repealed).
 The introduction of the PPSA brought substantial amendments to the Corporations
 Act when the PPSA regime commenced on 30 January 2012. There were several
@@ -1154,14 +1162,14 @@ in property used by the company in administration). A secured party is deﬁned 
 s 51B of the Corporations Act as a party who has a security interest, either because
 of the PPSA (if the security interest is a security interest deﬁned under that Act) or
 because of a charge, lien or pledge. This recognises that there will be chargees,
-lienees and pledgees who have security in property but not “security interests” for
+lienees and pledgees who have security in property but not "security interests" for
 the purposes of the PPSA. For example, a mortgagee with a mortgage over land
 does not hold a PPSA security interest, as interests in land are generally excluded
-from the PPSA: s 8. Such a party would be said to hold a “charge” under the
+from the PPSA: s 8. Such a party would be said to hold a "charge" under the
 deﬁnition in s 9 of the Corporations Act, which deﬁnes a charge to include a
 mortgage, and this charge would make the mortgagee a secured party under s 51B.
 
-32    See Whittaker, “Review of the Personal Property Securities Act 2009” (27 February 2015),
+32    See Whittaker, "Review of the Personal Property Securities Act 2009" (27 February 2015),
      https://www.ag.gov.au.
 [19.110]                                                     19 Voluntary Administration   777
 
@@ -1207,7 +1215,7 @@ Item               If the third party is …               then …
 
 33 See further Re Arcabi Pty Ltd [2014] WASC 310; (2014) 288 FLR 236 (non-PPSA bailment and
    consignment, albeit involving company in receivership).
-778     Keay’s Insolvency: Personal and Corporate Law and Practice                   [19.120]
+778     Keay's Insolvency: Personal and Corporate Law and Practice                   [19.120]
 
 Restrictions on exercise of third party rights
 Item               If the third party is …              then …
@@ -1252,15 +1260,15 @@ effectiveness of administration in achieving the goals set out in s 435A: see fo
 example Re Java 452 [1999] VSC 252; (1999) 32 ACSR 507. For a discussion of the
 relevant factors that the courts will take into account when considering whether to
 grant leave see: Attard v James Legal Pty Ltd [2010] NSWCA 311; (2010) 80 ACSR 585,
-614 [146]–[148]. The court’s power to grant leave is unqualiﬁed: Toll Holdings Ltd v
+614 [146]–[148]. The court's power to grant leave is unqualiﬁed: Toll Holdings Ltd v
 Stewart [2016] FCA 256; (2016) 338 ALR 602 at [57]. In Toll, Rares J explained (at [56]:
 
-34 A banker’s lien is exempt from Pt 5.3A Div 6: s 440JA.
+34 A banker's lien is exempt from Pt 5.3A Div 6: s 440JA.
 [19.125]                                                          19 Voluntary Administration   779
 
-   “the discretionary power to grant leave under ss 440B and 440D cannot be fettered by
+   "the discretionary power to grant leave under ss 440B and 440D cannot be fettered by
    inﬂexible rules. The interests of justice in all of the circumstances of each case will be
-   different and affected by those particular considerations.”
+   different and affected by those particular considerations."
 
 Rights of secured parties
 [19.125] A secured party (as deﬁned in s 51B) may exercise rights under Pt 5.3A
@@ -1272,8 +1280,8 @@ pledge.
 The moratorium that operates under ss 440B and 440F does not apply to a secured
 party, or to a receiver or other controller that it appoints, provided that the secured
 party has a security interest over the whole or substantially the whole of the
-company’s property and takes enforcement action either before or during the
-“decision period”: s 441A. The decision period is deﬁned in s 9 as a 13 business day
+company's property and takes enforcement action either before or during the
+"decision period": s 441A. The decision period is deﬁned in s 9 as a 13 business day
 period beginning either on the commencement of the administration or when the
 secured party receives notice of the administration under s 450A. The secured party
 must take enforcement action against all of the secured property: s 441A(1)(b),
@@ -1284,25 +1292,25 @@ take enforcement action even after the decision period.35 Thus, a secured party 
 security sufficient to come within s 441A may appoint a receiver or otherwise take
 enforcement action (for example by retaking possession as mortgagee in possession)
 even after the commencement of voluntary administration.
-The concept of “substantially the whole of the company’s property” was discussed
-at [19.30]. It should also be noted that s 435B expands the concept of the company’s
-property to include “PPSA retention of title property” (deﬁned in s 51F). This could
+The concept of "substantially the whole of the company's property" was discussed
+at [19.30]. It should also be noted that s 435B expands the concept of the company's
+property to include "PPSA retention of title property" (deﬁned in s 51F). This could
 pose a problem for secured parties over companies that have few assets beyond
 goods supplied under retention of title or leases, as the secured party may not be
-able to establish that its security interest covers “substantially the whole” of the
+able to establish that its security interest covers "substantially the whole" of the
 property.
 A secured party (whether with a substantial security interest or not) may also
 continue with enforcement action that was commenced prior to the commencement
 of the administration: s 441B. The forms of pre-appointment enforcement action are
 set out in s 441B(1), including entering into possession of the property, agreeing to
-sell the property or “exercising any other power in relation to” the property.
+sell the property or "exercising any other power in relation to" the property.
 Secured parties with security interests in perishable goods, regardless of whether
 the security interest is substantial or not, may recover the goods pursuant to s 441C.
 Furthermore, s 441E allows a notice to be given pursuant to a security agreement at
 any time.
 
-35 See Katekar, “The Validity of Deeds of Consent in Administrations” (2008) 20 A Insol J 26.
-780    Keay’s Insolvency: Personal and Corporate Law and Practice               [19.126]
+35 See Katekar, "The Validity of Deeds of Consent in Administrations" (2008) 20 A Insol J 26.
+780    Keay's Insolvency: Personal and Corporate Law and Practice               [19.126]
 
 Vulnerabilities of secured parties
 [19.126] There are two potential vulnerabilities for secured parties under Div 7,
@@ -1322,7 +1330,7 @@ under s 441D, but not if the secured party takes advantage of s 441A (ie substan
 security interests enforced before or after the decision period): s 441D(1). The court
 may make orders limiting the secured party or its receiver or other controller from
 exercising certain powers or performing certain functions if the court can be
-satisﬁed that the secured party’s interests would be “adequately protected”. It is
+satisﬁed that the secured party's interests would be "adequately protected". It is
 unlikely that depriving the secured party of its rights without compensation would
 constitute adequate protection: Debis Financial Services (Aust) Pty Ltd v Allied
 Bellambi Collieries Pty Ltd (1999) 17 ACLC 1,636; [1999] NSWSC 935. The exercise of
@@ -1365,7 +1373,7 @@ These are listed in s 448C(1) and include a person who is:
   (b));36
 • a director, secretary, senior manager or employee of the company (s 448C(1)(c));
 • a director, secretary, senior manager or employee of a company that is a
-  mortgagee of the company’s property (s 448C(1)(d));
+  mortgagee of the company's property (s 448C(1)(d));
 • an auditor (s 448C(1)(e)) or a partner or employee of an auditor (s 448C(1)(f)) of
   the company;
 • a partner, employer or employee of a director, secretary, senior manager or
@@ -1386,15 +1394,15 @@ a liquidator: Commonwealth Bank of Australia v Fernandez [2010] FCA 1487; (2010)
 ACSR 262 at [63].
 
 36 See Re ACN NPD 008 144 536 Ltd [2004] NSWSC 450; (2004) 49 ACSR 527 (administrators of
-   subsidiaries were trustees of parent company’s assets and were owed over $60,000 in that capacity,
+   subsidiaries were trustees of parent company's assets and were owed over $60,000 in that capacity,
    leave was granted to act as administrators subject to undertakings being given by them).
-37 The term “insolvent under administration” is deﬁned in s 9 of the Corporations Act to include
+37 The term "insolvent under administration" is deﬁned in s 9 of the Corporations Act to include
    someone who is an undischarged bankrupt or someone who is subject to a Pt IX debt agreement or
    a Pt IX debt agreement or a Pt X personal insolvency agreement under the Bankruptcy Act. Any
    person who becomes an insolvent under administration will have their registration as a liquidator
    automatically cancelled (IIPSC, s 40-20(1)(a)) and they will be ineligible to apply for re-registration
    for a further 10 years (IPSC, s 20-20(4)(d)).
-782     Keay’s Insolvency: Personal and Corporate Law and Practice                           [19.140]
+782     Keay's Insolvency: Personal and Corporate Law and Practice                           [19.140]
 
 The same test applies generally, whether a fair-minded lay observer38 might
 reasonably apprehend that the administrator might not bring an impartial mind to
@@ -1410,7 +1418,7 @@ creditor and that the administrator is required to make and disclose a declarati
 relevant relationships and indemnities. That observer would also be taken to know
 that the receivers, and administrators, were accountants and professional insolvency
 practitioners in a competitive market, and that it would be expected that the former
-would be familiar with the latter’s competence, expertise and professionalism.39
+would be familiar with the latter's competence, expertise and professionalism.39
 There are particular disqualiﬁcations, at least without court leave. The purpose of
 the disqualiﬁcations in s 448C (and s 532(2)) is to give additional protection to the
 appearance of independence by excluding persons in those categories, whether or
@@ -1427,13 +1435,13 @@ affairs of the company, with the result of the removal that substantial costs wi
 incurred by the replacement administrator: Advance Housing Pty Ltd (in liq) v
 Newcastle Classic Developments Pty Ltd (1994) 14 ACSR 230. At the same time, the
 court will assess the whole circumstances and even where a valid concern about
-independence exists, that won’t inevitably lead to removal of the administrator. For
+independence exists, that won't inevitably lead to removal of the administrator. For
 example, in Re Korda, Ten Network Holdings Ltd (Administrators Apptd) (Recs and Mgrs
 Apptd) [2017] FCA 914, the court appointed another registered liquidator to
 investigate and report to creditors on speciﬁc matters in which the administrators
 may have been seen to have a conﬂict.
-The courts should also be “alert to the possibility that allegations of bias and
-conﬂict may [merely] reﬂect the tensions often present in an administration”:
+The courts should also be "alert to the possibility that allegations of bias and
+conﬂict may [merely] reﬂect the tensions often present in an administration":
 Hughes v Receivers and Managers of Westgem Investments Pty Ltd (No 3) [2012] WASC
 360 at [18].
 
@@ -1446,13 +1454,13 @@ Hughes v Receivers and Managers of Westgem Investments Pty Ltd (No 3) [2012] WAS
 
 The administrator is a ﬁduciary in relation to the creditors and has responsibilities
 to the stakeholders in the administration as much as does a liquidator. Both before
-and during the appointment, the administrator must “act objectively in a manner
+and during the appointment, the administrator must "act objectively in a manner
 which gives due regard and balance to the interests of all creditors, including
-different classes of creditors where different classes exist”: Molit (No 55) Pty Ltd v
+different classes of creditors where different classes exist": Molit (No 55) Pty Ltd v
 Lam Soon Australia Pty Ltd (1996) 63 FCR 391. However, the administrator does not
 owe their ﬁduciary duties to individual creditors, and individual creditors cannot
 sue the administrator for compensation arising from breach of those remedies. The
-administrator’s ﬁduciary obligation (as an officer of the company) is owed to the
+administrator's ﬁduciary obligation (as an officer of the company) is owed to the
 company and the company (or another party through a derivative action) may seek
 to enforce the duty: see Macks v Viscariello [2017] SASCFC 172. The Macks case also
 demonstrates that not everything that an administrator does will fall within their
@@ -1462,7 +1470,7 @@ prescriptive in Australia (following Breen v Williams [1996] HCA 57; (1996) 186 
 71). It was also held that administrators do not owe a duty of care to individual
 creditors when carrying out their statutory obligations, although they owe
 statutory duties to the company to act properly and with due care and diligence.
-Even if the administrator can act objectively, the fair-minded observer’s perception
+Even if the administrator can act objectively, the fair-minded observer's perception
 of a lack of independence can prevent the administrator taking the appointment.
 These usually involve circumstances of prior contact of the administrator with the
 company or its directors, or with major creditors.41
@@ -1474,41 +1482,41 @@ potential for this to be required more in the context of a voluntary administrat
 that is initiated by the directors. Only a few years after the introduction of the
 voluntary administration regime, in Commonwealth of Australia v Irving (1996) 65
 FCR 291; 19 ACSR 45942 Branson J said that it was by then:
-   “commonplace for a company to seek professional advice respecting actual or
+   "commonplace for a company to seek professional advice respecting actual or
    apprehended insolvency and for the advice received to be to appoint an administrator
    pursuant to Part 5.3A … Not infrequently, and in my view, not improperly, the proponent
    of the advice to appoint an administrator then accepts appointment as that administrator.
    There would, I consider, be an air of commercial unreality about any suggestion that this
-   course of events is necessarily improper…”
+   course of events is necessarily improper…"
 
 Nevertheless, the Judge said that:
 
 41 See the discussion in ASIC v Franklin; Re Walton Constructions Pty Ltd [2014] FCAFC 85; (2014) 223
    FCR 204 concerning perceptions of bias of liquidators.
 42 Commonwealth of Australia v Irving (1996) 65 FCR 291; 19 ACSR 459, 464-465.
-784      Keay’s Insolvency: Personal and Corporate Law and Practice                             [19.142]
+784      Keay's Insolvency: Personal and Corporate Law and Practice                             [19.142]
 
-   “substantial involvement with a company prior to its administration will disqualify a
-   person from appointment as that company’s administrator. Such an involvement will be
+   "substantial involvement with a company prior to its administration will disqualify a
+   person from appointment as that company's administrator. Such an involvement will be
    seen to detract from the ability of the person to act fairly and impartially during the
-   course of administration.”43
-   “In particular, prior advice to the directors by the administrator, about their personal
+   course of administration."43
+   "In particular, prior advice to the directors by the administrator, about their personal
    liabilities as directors or otherwise, can prevent the administrator taking an appointment
-   as administrator given the need to investigate directors’ conduct, including insolvent
-   trading.”44
+   as administrator given the need to investigate directors' conduct, including insolvent
+   trading."44
 
 [19.142] In Re Korda, Ten Network Holdings Ltd (Admin Apptd) (Recs and Mgrs
-Apptd) [2017] FCA 914, the administrators’ ﬁrm (including one of the appointees)
+Apptd) [2017] FCA 914, the administrators' ﬁrm (including one of the appointees)
 had been involved in reviewing the ﬁnancial position of the company for several
 months prior to taking the appointment. The ﬁrm was engaged by lawyers
-advising the company, a ﬁrm with whom the administrators’ ﬁrm had a referral
+advising the company, a ﬁrm with whom the administrators' ﬁrm had a referral
 relationship. Although the amount of pre-appointment work was substantial (and
 involved a substantial fee), the court did not ﬁnd that this alone created actual or
 apprehended bias or conﬂict. The court did, however, appoint a special investigator
 to investigate and report on aspects of the pre-appointment work for the creditors
 (reviewing the work for potential voidable transactions) and to review the
-administrators’ conduct during the administration with respect to these matters.
-The administrators’ pre-appointment work was narrowly conﬁned under the terms
+administrators' conduct during the administration with respect to these matters.
+The administrators' pre-appointment work was narrowly conﬁned under the terms
 of the engagement and did not include advising the company or its directors.
 The question can also arise in the case of a person who is the investigating
 accountant on behalf of a secured creditor, which then seeks to appoint that person
@@ -1528,20 +1536,20 @@ replacement administrators had given a report to the mortgagee about the
 company in administration, but the scope of the report was limited. The court held
 that their report simply explained the general commercial risks for the bank, the
 ﬁnancial position of the company and topics for further examination. The court
-noted that the report involved “no substantive analysis on any issue”. In Re Korda,
+noted that the report involved "no substantive analysis on any issue". In Re Korda,
 Ten Network Holdings Ltd (Admin Apptd) (Recs and Mgrs Apptd) [2017] FCA 914, the
 
 43 Similarly, in Molit (No 55) Pty Ltd v Lam Soon Australia Pty Ltd (1996) 63 FCR 391, the court accepted
    the practice whereby a potential administrator assisting the company in formulating a deed of
    company arrangement which is then recommended to creditors.
-44 See also Club SuperStores Australia Pty Ltd (1993) 10 ACSR 730, 736, in relation to liquidators’
+44 See also Club SuperStores Australia Pty Ltd (1993) 10 ACSR 730, 736, in relation to liquidators'
    pre-appointment meetings with the directors.
 [19.145]                                                            19 Voluntary Administration     785
 
 court noted that the ARITA Code, while a useful document for practitioners, does
 not determine legal questions of independence. This creates a potential situation
 where a practitioner who is an ARITA member can be held to be independent by
-the court but may not be independent by ARITA’s standards. It should be noted
+the court but may not be independent by ARITA's standards. It should be noted
 that there is no requirement for insolvency practitioners to be ARITA members,
 although most are.
 Personal relationships with directors or other parties can also result in a lack of
@@ -1557,16 +1565,16 @@ Flynn v Theobald [2008] WASC 263, the court noted that this alone would be
 insufficient to warrant removing the administrator from office.
 
 Declaration of relevant relationships and indemnities: s 436DA
-[19.145] Given that prior relationships and creditors’ indemnities exist, and even
+[19.145] Given that prior relationships and creditors' indemnities exist, and even
 if they do not result in a lack of independence, they are required to be disclosed to
 creditors before and at a meeting. Section 436DA of the Corporations Act requires a
 declaration of relevant relationships (as deﬁned in s 60) and a declaration of
 indemnities (as deﬁned in s 9) to be supplied by an administrator appointed under
 ss 436A, 436B or 436C of the Act. The declaration must list any relationships falling
-within the deﬁnition of a “declaration of relevant relationships” and must state
+within the deﬁnition of a "declaration of relevant relationships" and must state
 why any of these relationships do not result in the administrator having a conﬂict
 of interest or duty. A relationship is more than merely the potential for an
-administrator or liquidator to investigate a person’s conduct as part of their role:
+administrator or liquidator to investigate a person's conduct as part of their role:
 ASIC v Franklin [2014] FCAFC 85; (2014) 223 FCR 204. The declaration must be
 provided to as many creditors as is reasonably possible, at the same time as the
 administrator gives those creditors notice of the ﬁrst meeting. The administrator
@@ -1574,7 +1582,7 @@ must also table a copy of the declaration at the meeting. The DIRRI must also be
 lodged as soon as practicable with ASIC: s 436DA(4). As we explain,45 s 449CA
 requires a replacement administrator to make such a declaration.
 The ARITA Code of Professional Practice suggests a form of Declaration of
-Independence, Relevant Relationships and Indemnities – a “DIRRI” – be used.46
+Independence, Relevant Relationships and Indemnities – a "DIRRI" – be used.46
 Finally, in order to ensure the independence of administrators, their appointment is
 not able to be revoked: s 449A. However, creditors may remove an administrator
 either at the ﬁrst meeting under s 436E or, under the changes introduced by the
@@ -1583,7 +1591,7 @@ ILRA, at any later time under IPSC, s 90-35.
 45 See [19.160].
 46 See ARITA Code of Professional Practice, Pt C. In ASIC v Franklin, the court said that the Code is not
    extrinsic material that could be used to help interpret the meaning of s 60.
-786    Keay’s Insolvency: Personal and Corporate Law and Practice               [19.150]
+786    Keay's Insolvency: Personal and Corporate Law and Practice               [19.150]
 
 It should be noted that mere disclosure is not enough to remove an actual or
 perceived conﬂict of interest: Re Korda, Ten Network Holdings Ltd (Administrators
@@ -1603,7 +1611,7 @@ administrator of a subsidiary company. In contrast, such leave was granted in Re
 Central Spring Works Australia Pty Ltd; Tubemakers of Australia Ltd v McLellan [2000]
 VSC 144; (2000) 34 ACSR 164, on various undertakings given by the receivers,
 including that they would bring any reasonable apprehension of conﬂict of interest
-to the court’s attention, and that they would inform creditors of their right to
+to the court's attention, and that they would inform creditors of their right to
 remove them if they saw ﬁt.
 
 Removal of administrator
@@ -1619,7 +1627,7 @@ damage. An application may be made by ASIC (and not by creditors), although the
 court may act on its own initiative during proceedings before it: IPSC, s 45-1(2), (3).
 IPSC, s 90-15 allows the court to make such orders as it think ﬁt in relation to the
 external administration of a company (which includes voluntary administration).
-The orders may be made on the court’s own initiative during proceedings before
+The orders may be made on the court's own initiative during proceedings before
 the court or by an application under IPSC, s 90-20. Standing to seek orders under
 IPSC, s 90-15 is given to (IPSC, s 90-20):
 • ASIC
@@ -1634,17 +1642,17 @@ A person with a ﬁnancial interest is deﬁned in IPSC, s 5-30 as:
 
 • a creditor of the company;
 • the external administrator of the company; or
-• a member of the company (only for companies in a members’ voluntary
+• a member of the company (only for companies in a members' voluntary
   liquidation).
 IPSC, s 90-15(3) provides a number of example orders, which includes ordering that
 a person ceases to be the external administrator of a company, and/or an order that
 another registered liquidator be appointed as the external administrator of the
 company. Section 90-15(4) allows the court to take into account a range of factors
 when deciding whether and how to make an order, including the conduct of the
-administrator, any loss or damage caused to others by their conduct and “the
+administrator, any loss or damage caused to others by their conduct and "the
 seriousness of the consequences of any action or failure to act by the liquidator,
 including the effect of that action or failure to act on public conﬁdence in registered
-liquidators as a group”. The court can also make an order that the administrator
+liquidators as a group". The court can also make an order that the administrator
 make good any loss caused by their conduct: IPSC, s 90-15(6).
 If there is a vacancy in the office of administrator caused by the death,
 disqualiﬁcation or resignation of the administrator, the appointor may appoint
@@ -1676,7 +1684,7 @@ Section 447C: validity of appointment
 s 447C to determine if an administrator has been validly appointed. The
 administrator, the company or any creditor may apply for an order declaring
 whether or not an appointment, on the ground speciﬁed in the application or some
-788      Keay’s Insolvency: Personal and Corporate Law and Practice                           [19.170]
+788      Keay's Insolvency: Personal and Corporate Law and Practice                           [19.170]
 
 other ground, was valid. The applicant must be a creditor at the time of the
 application: Re Beechworth Land Estates Pty Ltd [2015] NSWSC 733; (2015) 106 ACSR
@@ -1685,8 +1693,8 @@ As noted above, an administrator is entitled to rely on a duly sealed appointmen
 document as providing a proper basis of authority of the person executing it
 (Wagner v International Health Promotions (1994) 15 ACSR 419, 422) and is not
 required to look behind that document to ensure that it was executed in accordance
-with the company’s constitution, unless some issue of concern comes to the
-administrator’s attention. The administrator is entitled to rely on the statutory
+with the company's constitution, unless some issue of concern comes to the
+administrator's attention. The administrator is entitled to rely on the statutory
 assumptions in ss 128 – 129 of the Corporations Act that the internal requirements of
 the constitution have been satisﬁed: Correa v Whittingham [2013] NSWCA 263;
 (2013) 278 FLR 310. This is consistent with the law of receivership.
@@ -1698,7 +1706,7 @@ appointment found defective under s 447C.
 Where the company is insolvent and there is an absence of any factors that would
 justify removing the administration (such as lack of independence), it is normally in
 the interests of the creditors that the appointment be conﬁrmed, as any replacement
-administrator would incur further costs in investigating the company’s affairs.
+administrator would incur further costs in investigating the company's affairs.
 
 Court directions
 [19.170] The administrator is entitled to seek directions from the court under
@@ -1713,22 +1721,22 @@ justiﬁably enter into agreements providing cross-collateral security from comp
 within the group in order to arrange a loan facility for which the administrators
 would be personally liable.48 In another example, court directions were obtained in
 a situation where an administrator sought to sell the business prior to the ﬁnal
-creditors’ meeting: Re Eisa Ltd [2000] NSWSC 940; (2000) 35 ACSR 394 (the sale had
-to be completed urgently without time to seek the creditors’ views).
+creditors' meeting: Re Eisa Ltd [2000] NSWSC 940; (2000) 35 ACSR 394 (the sale had
+to be completed urgently without time to seek the creditors' views).
 The introduction of the PPSA has given rise to additional complexity for
 administrators, who must now determine whether registrations of security interests
 on the PPSR are valid. As noted above, if a secured party fails to properly perfect
 their interest it will vest in the company in administration as grantor. In Carson; Re
 Hastie Group Ltd (No 3) [2012] FCA 719, the administrators of a group of
 
-47 See further Agardy, “Applications by Insolvency Practitioners to the Court for Directions” (2011) 19
+47 See further Agardy, "Applications by Insolvency Practitioners to the Court for Directions" (2011) 19
    Insolv LJ 257.
 48 See also Re Nexus Energy Ltd [2014] NSWSC 1041.
 [19.170]                                                        19 Voluntary Administration   789
 
 construction companies had to deal with over 1,000 registrations on the PPSR. The
-administrators’ position was uncertain because many of the registrations were
-ambiguous, and many of the secured parties did not respond to the administrators’
+administrators' position was uncertain because many of the registrations were
+ambiguous, and many of the secured parties did not respond to the administrators'
 requests for further information. The administrators obtained court orders under
 s 447D directing them to sell all the assets of the company, including those covered
 by PPSR registrations. The administrators were also directed to determine which
@@ -1738,7 +1746,7 @@ about a commercial decision: Re Ansett Australia Ltd (No 3) [2002] FCA 90; (2002
 FCR 409.
 The directions power has been used in many voluntary administrations, but
 perhaps was most used in the Ansett Airlines administration (Re Ansett Australia;
-Rappas v Ansett [2001] FCA 1348; (2001) 39 ACSR 296). Ansett was Australia’s
+Rappas v Ansett [2001] FCA 1348; (2001) 39 ACSR 296). Ansett was Australia's
 second largest airline and collapsed into voluntary administration with hundreds
 of thousands of creditors and a hopelessly undercapitalised business. The best hope
 for creditors was to sell the business as a going concern as most of its assets were
@@ -1754,26 +1762,26 @@ s 90-15 is broader than the prior s 447D. There is no indication in the Explanat
 Memorandum that this was intended,51 although the wording of the new
 provisions are clearly broader and more general than the former provisions (which
 merely provided for directions to be given). The example given in IPSC, s
-90-15(3)(a) allows the court to “determine any question”, which parallels the former
-power to give “directions about a matter arising in connection with the
-performance or exercise of any of the administrator’s functions and powers”. In Re
+90-15(3)(a) allows the court to "determine any question", which parallels the former
+power to give "directions about a matter arising in connection with the
+performance or exercise of any of the administrator's functions and powers". In Re
 TEN Network Holdings Ltd (Admins Apptd) (Recs and Mgrs Apptd) [2017] NSWSC
 1247, the court was asked to give orders modifying how creditor votes would be
 treated and who could be categorised as a creditor for the purposes of the
-administration, with the effect that the largest unsecured creditor’s votes would be
+administration, with the effect that the largest unsecured creditor's votes would be
 signiﬁcantly discounted. The Court declined to grant the orders, without deciding
-whether it had power to make such orders. The Judge was “inclined to think” that
+whether it had power to make such orders. The Judge was "inclined to think" that
 the provisions (ss 447A and 90-15) did confer such power, but that a court would
-only exercise such power “in the most exceptional of cases, given its apparent
-inconsistency with the regime for creditor voting under Part 5.3A”: at [137].
+only exercise such power "in the most exceptional of cases, given its apparent
+inconsistency with the regime for creditor voting under Part 5.3A": at [137].
 
 49 See also Re Renovation Boys Pty Ltd [2014] NSWSC 340 (giving directions that charging a fee to
    recover property in order to recover costs of ascertaining and maintaining property was
    appropriate).
-50 See Moore, “Directions Applications and the Rights of Third Parties” in Maiden (ed), Insolvent
+50 See Moore, "Directions Applications and the Rights of Third Parties" in Maiden (ed), Insolvent
    Investments (LexisNexis, 2015) Ch 12.
-51 “Explanatory Memorandum to the Insolvency Law Reform Bill 2015”, at [6.141]-[6.143].
-790      Keay’s Insolvency: Personal and Corporate Law and Practice                           [19.175]
+51 "Explanatory Memorandum to the Insolvency Law Reform Bill 2015", at [6.141]-[6.143].
+790      Keay's Insolvency: Personal and Corporate Law and Practice                           [19.175]
 
 Supervision of administrators
 [19.175] Administrators and their management of the company are subject to
@@ -1781,13 +1789,13 @@ extensive supervision under IPSC Div 90, which provdes powers to the court, to
 ASIC and to creditors.
 The court has power to conduct an inquiry into the conduct of an external
 administration (including a voluntary administration) under IPSC, ss 90-5, 90-10.
-This may be conducted on the court’s own initiative during proceedings before it (s
+This may be conducted on the court's own initiative during proceedings before it (s
 90-5), or upon an application by a person with a ﬁnancial interest, an officer of the
 company, the committee of inspection (if one has been appointed) or ASIC: s 90-10.
 The court may order a current or former external administrator to give information,
 provide a report or produce a document. The court also has extensive powers to
-“make such orders as it thinks ﬁt in relation to the external administration of a
-company” under IPSC, s 90-15 and similar powers in relation to a registered
+"make such orders as it thinks ﬁt in relation to the external administration of a
+company" under IPSC, s 90-15 and similar powers in relation to a registered
 liquidator under IPSC, s 45-1.
 The powers of the court, once enlivened, are broad and should not be read down:
 IND Energy Inc v Langdon [2014] WASC 364 (considering the former s 447E).
@@ -1818,18 +1826,18 @@ administration.
 52 See also Re Joe & Joe Developments Pty Ltd [2014] NSWSC 1444; Correa v Whittingham (No 3) (2012) 267
    FLR 120 at [115]. The appeal in Correa was allowed in part, but the parties did not appeal the
    ﬁndings regarding s 447E: Correa v Whittingham [2013] NSWCA 263.
-53 See Courts’ Corporations Rules, r 7.11. It requires the application to be accompanied by the written
+53 See Courts' Corporations Rules, r 7.11. It requires the application to be accompanied by the written
    declaration made by the proposed reviewing liquidator under IPRC, s 90-18.
 [19.180]                                                          19 Voluntary Administration   791
 
 The order appointing a reviewing liquidator must set out the matters in relation to
 the external administration of the company which the liquidator is appointed to
 review and how the costs of carrying on the review will be determined: IPSC, s
-90-23(5), (9). However, the matters can’t relate to remuneration (IPSC, s 90-23(10),
+90-23(5), (9). However, the matters can't relate to remuneration (IPSC, s 90-23(10),
 which may be reviewed by the court under IPSC, Div 60.
 The creditors also have the power to appoint a reviewing liquidator by resolution
 under IPSC, s 90-24(2). The company may also resolve to appoint a reviewing
-liquidator for a members’ voluntary liquidation: s 90-24(2). Individual creditors or
+liquidator for a members' voluntary liquidation: s 90-24(2). Individual creditors or
 members (for an MVL) may also appoint a reviewing liquidator under s 90-24(4) if
 the administrator agrees to the appointment (s 90-24(5)). The scope of the review
 when the reviewing liquidator is appointed by the creditors or the members is to
@@ -1853,29 +1861,29 @@ IPRC, s 90-22.
 Role and position of an administrator
 [19.180] The role of the administrator is such that he or she has effective control
 of the company. In carrying out this role the administrator may decide to
-discontinue the company’s business and dispose of any of its property, subject to
+discontinue the company's business and dispose of any of its property, subject to
 the restrictions under s 442C of the Act.
 The role of the administrator must be contrasted with that of a liquidator. In Tolcher
 v National Australia Bank [2004] NSWSC 6; (2004) 182 FLR 419 Barrett J said (at [15]):
-   “The duties and functions of an administrator under Pt 5.3A differ signiﬁcantly from
-   those of a liquidator. Such an administrator has control of the company’s business,
+   "The duties and functions of an administrator under Pt 5.3A differ signiﬁcantly from
+   those of a liquidator. Such an administrator has control of the company's business,
    property and affairs (s 437A(1)(a)) and may carry on the business and manage the
    property and affairs (s 437A(1)(b)). But an administrator does these things only to
    facilitate the investigation required by s 438A(a) and the assessment required by s 438A(b)
-   so that creditors, guided by the administrator, may make a decision as to the company’s
+   so that creditors, guided by the administrator, may make a decision as to the company's
    fate. One such fate may be winding up. Recovery, protection and preservation of the
 
 54 There are exceptions for reviewing liquidators appointed by ASIC (report not to be provided to the
    committee of inspection without ASIC approval) and for court appointed reviewing liquidators
    (where the court may order how the information is to be provided): IPRC, s 90-24.
-792     Keay’s Insolvency: Personal and Corporate Law and Practice                        [19.180]
+792     Keay's Insolvency: Personal and Corporate Law and Practice                        [19.180]
 
-   company’s property are not of themselves the direct concern of an administrator even
-   though they may be to some extent incidental to due performance under s 437A.”
+   company's property are not of themselves the direct concern of an administrator even
+   though they may be to some extent incidental to due performance under s 437A."
 The essential role of the administrator is detailed in s 437A(1):
    Role of administrator
    (1) While a company is under administration, the administrator:
-       (a) has control of the company’s business, property and affairs; and
+       (a) has control of the company's business, property and affairs; and
        (b) may carry on that business and manage that property and those affairs; and
        (c) may terminate or dispose of all or part of that business, and may dispose of any of
            that property; and
@@ -1885,27 +1893,27 @@ Section 438A provides:
    Administrator to investigate affairs and consider possible courses of action
    As soon as practicable after the administration of a company begins, the administrator
    must:
-   (a) investigate the company’s business, property, affairs and ﬁnancial circumstances; and
+   (a) investigate the company's business, property, affairs and ﬁnancial circumstances; and
    (b) form an opinion about each of the following matters:
-       (i) whether it would be in the interests of the company’s creditors for the company to
+       (i) whether it would be in the interests of the company's creditors for the company to
             execute a deed of company arrangement;
-       (ii) whether it would be in the creditors’ interests for the administration to end;
-       (iii) whether it would be in the creditors’ interests for the company to be wound up.
+       (ii) whether it would be in the creditors' interests for the administration to end;
+       (iii) whether it would be in the creditors' interests for the company to be wound up.
 For this purpose, the administrator is the agent of the company: s 437B. In that role,
-he or she has broad powers to deal with the company’s property and to carry on
-the company’s business. Importantly, the administrator is permitted to exercise the
+he or she has broad powers to deal with the company's property and to carry on
+the company's business. Importantly, the administrator is permitted to exercise the
 powers given to the officers of the company: s 437A(1)(d).55 The administrator has
-no greater right to use the company’s property than the company itself had. The
-administrator’s control of the company’s property is subject to pre-existing rights
+no greater right to use the company's property than the company itself had. The
+administrator's control of the company's property is subject to pre-existing rights
 affecting it: Hyatt of Australia Ltd v Coolum Resort Pty Ltd [2012] QSC 49 at [69].
 In the exercise of these powers the members and their interests are relegated. The
 focus is on the interests of creditors. The administrator is not bound by limitations
-or requirements in the company’s constitution as the administrator’s powers are
+or requirements in the company's constitution as the administrator's powers are
 statutory, not delegated from the members: Re Smith [2006] NSWSC 780; (2006) 58
 ACSR 410; Re Bacchus Distillery Pty Ltd [2014] VSC 111; (2014) 98 ACSR 539.
-The administrator is entitled to the company’s books and the officers have an
+The administrator is entitled to the company's books and the officers have an
 obligation to hand over any books in their possession: s 438C. The directors must
-give to the administrator a statement about the company’s business, property,
+give to the administrator a statement about the company's business, property,
 affairs and ﬁnancial circumstances within seven days of the commencement of the
 administration (s 438B(2), Form 507), and must assist the administrator whenever
 reasonably required to do so: s 438B(3).
@@ -1935,7 +1943,7 @@ stated in s 435A(b).
 A similar view was taken in the earlier decision in Brashs Holdings Ltd v Shaﬁr (1994)
 14 ACSR 192, where the court said that administrators had the power to dispose of
 all of the business and assets of the companies whose affairs they are administering,
-if it were appropriate, and without the necessity of holding a shareholders’
+if it were appropriate, and without the necessity of holding a shareholders'
 meeting. The rationale for this is that as the company is insolvent the interests of
 the creditors outweigh those of the shareholders, in that the creditors are the ones
 to lose out if the company continues to trade at a loss.
@@ -1959,11 +1967,11 @@ obligation to accept an offer that provides the highest price: Robit Nominees Pt
 
 56 See also Re Bacchus Distillery Pty Ltd [2014] VSC 111; (2014) 98 ACSR 539.
 57 For an interesting decision that considers the potential to appoint a special-purpose administrator to
-   investigate an administrator’s conduct, see Honest Remark Pty Ltd v Allstate Explorations NL [2006]
+   investigate an administrator's conduct, see Honest Remark Pty Ltd v Allstate Explorations NL [2006]
    NSWSC 735; (2006) 58 ACSR 234 (order refused). Compare, Re Korda, Ten Network Holdings Ltd
    (Admin Apptd) (Rec and Man Apptd) [2017] FCA 914, where a special investigator was appointed
    under s 447A to investigate the conduct of the administrators and to report to creditors.
-794      Keay’s Insolvency: Personal and Corporate Law and Practice                             [19.190]
+794      Keay's Insolvency: Personal and Corporate Law and Practice                             [19.190]
 
 v Oceanlinx Ltd (in liq) (recs and mgrs apptd) [2016] FCA 225 (the higher offer was also
 conditional and administrators doubted the capacity of the purchaser to obtain
@@ -1971,7 +1979,7 @@ conditional and administrators doubted the capacity of the purchaser to obtain
 Sections 442A – 442F
 [19.190] Additionally, the administrator is granted powers by ss 442A – 442C
 and 442D – 442F of the Corporations Act. Under s 442A the administrator may
-remove or appoint directors, act in the company’s name and on its behalf carry out
+remove or appoint directors, act in the company's name and on its behalf carry out
 the purposes of the administration.
 Section 442B permits an administrator to deal with any property subject to a
 circulating security interest, where the property no longer consists of circulating
@@ -1985,8 +1993,8 @@ The PPSA now provides that where a charge is described as being ﬁxed or ﬂoat
 this may be read as a security interest over non-circulating assets or a security
 interest over circulating assets: PPSA, s 339.58 Changes were made to the
 Corporations Act in 2012 to make the terminology consistent, hence the prior
-reference to a ﬂoating charge in s 442B has been replaced by the term “circulating
-security interest”. It is important to note that priority in the PPSA regime does not
+reference to a ﬂoating charge in s 442B has been replaced by the term "circulating
+security interest". It is important to note that priority in the PPSA regime does not
 depend on whether the security interest is over circulating or non-circulating assets.
 However, certain priorities under the Corporations Act (such as the priority
 afforded to employee entitlements under ss 433 and 561) do rely upon this
@@ -2001,9 +2009,9 @@ the property. However, in order to do so the administrator must comply with
 s 442C(2), which requires:60
 • the consent of the secured party, owner or lessor;
 • the approval of the court; or
-• the disposal to be in the ordinary course of the company’s business.
+• the disposal to be in the ordinary course of the company's business.
 The court may not give approval for disposal unless it is satisﬁed that the secured
-party, owner or lessor’s interests will be adequately protected: s 442C(3). There is a
+party, owner or lessor's interests will be adequately protected: s 442C(3). There is a
 
 58 Circulating assets are deﬁned in PPSA, s 340. That section provides, that typically (if s 340(2) – (4)
    does not apply) includes book debts (ie accounts) and inventory (as deﬁned in s 341).
@@ -2025,8 +2033,8 @@ interpreted broadly, are relevant. In Reynolds Bros (Motors) Pty Ltd v Esanda Lt
 (1983) 1 ACLC 1333 it was held that if transactions are effected for the purpose of
 carrying on the business they are in the ordinary course of business; or, even if the
 disposal is exceptional in nature, if its aim is to keep the company going, they are
-likely to be regarded as in the ordinary course of business. The “Explanatory
-Memorandum to the Corporate Law Reform Bill 1992 (Cth)” provides (at [55]) an
+likely to be regarded as in the ordinary course of business. The "Explanatory
+Memorandum to the Corporate Law Reform Bill 1992 (Cth)" provides (at [55]) an
 example of where a creditor is secured over company stock which is being
 constantly used in production or turned over in a retail operation. In the context of
 goods subject to retention of title (ROT) claims, where the owner demands the
@@ -2050,19 +2058,19 @@ refused, based on claims that the transaction involved a security interest that 
 unperfected and hence vested in CMA at the time of the administration. THC gave
 documentary evidence (including its contract) to prove it was the owner of the
 scrap metal but the administrators sold the business, including the scrap metal,
-without THC’s consent. The administrators were found to have acted in breach of
+without THC's consent. The administrators were found to have acted in breach of
 s 442C, and also to have caused the company to act in breach of its ﬁduciary duty,
-as the contract provided that CMA would maintain the goods “in good faith”
+as the contract provided that CMA would maintain the goods "in good faith"
 during its bailment until the customer collected them (title passed on payment so
 
 61 See further Re Bluenergy Group Ltd [2015] NSWSC 977; (2015) 107 ACSR 373.
 62 See also PPSA, s 140.
-796      Keay’s Insolvency: Personal and Corporate Law and Practice                         [19.195]
+796      Keay's Insolvency: Personal and Corporate Law and Practice                         [19.195]
 
 the goods were being bailed by CMA). The administrators were ordered to pay
-damages under s 1324(10) and were also liable as accessories to the company’s
+damages under s 1324(10) and were also liable as accessories to the company's
 breach of ﬁduciary duty.
-The administrator’s powers to deal with assets are, however, subject to the powers
+The administrator's powers to deal with assets are, however, subject to the powers
 of a secured party or receiver or other controller if ss 441A or 441C apply (s 442D);
 these allow secured parties to take enforcement action despite the appointment of
 an administrator in certain circumstances: see [19.125].
@@ -2073,7 +2081,7 @@ privilege to a liquidator, s 442E gives an administrator qualiﬁed privilege in
 of statements made in the course of carrying out his or her duties and powers. The
 Corporations Act provides that the effect of s 442E is that an administrator has
 qualiﬁed privilege in proceedings for defamation and is not, in the absence of
-malice, liable to an action for defamation. “Malice” includes ill-will to the person
+malice, liable to an action for defamation. "Malice" includes ill-will to the person
 concerned or any other improper motive. This is designed to protect an
 administrator from defamation proceedings initiated because of comments made in
 reports and other communications.
@@ -2085,25 +2093,25 @@ Prescribing Biochemists Pty Ltd (1994) 12 ACLC 905, where an administrator enter
 into a deed of appointment which provided that he was to refrain from exercising
 any of the powers granted under s 437A(1) without the written consent of the
 secured creditor. That creditor held a ﬂoating and ﬁxed charge over all of the
-company’s assets except for ﬁxed assets and goodwill. Another creditor argued that
+company's assets except for ﬁxed assets and goodwill. Another creditor argued that
 the terms of the appointment were inconsistent with the purposes of Pt 5.3A, but
 Sackville J rejected the argument, taking the view that the terms were consistent
 with Pt 5.3A and the special position enjoyed by a chargeholder who had begun
 enforcement of a charge before the administration commenced.
 It is also possible for an administrator to sign a deed giving approval to a secured
-creditor with security over substantially the whole of the company’s assets to
-appoint a receiver outside the permissible 13 business day “decision period”: see
+creditor with security over substantially the whole of the company's assets to
+appoint a receiver outside the permissible 13 business day "decision period": see
 [19.125], [19.270]. This is known as a deed of consent and may be required by the
 secured creditor as a condition of not appointing a receiver when the administrator
 is initially appointed.63
 
 Investigations
 [19.205] One of the major duties of an administrator is to investigate the
-company’s business and affairs and determine what would be the best outcome for
+company's business and affairs and determine what would be the best outcome for
 creditors: s 438A. It is paramount that the administrator pursues adequate inquiries
 and investigations otherwise any subsequent deed of company arrangement
 
-63 Katekar, “The Validity of Deeds of Consent in Administrations” (2008) 20 A Insol J 26.
+63 Katekar, "The Validity of Deeds of Consent in Administrations" (2008) 20 A Insol J 26.
 [19.215]                                                         19 Voluntary Administration   797
 
 executed may be set aside by the court. These issues are dealt with in more detail in
@@ -2142,9 +2150,9 @@ s 438D is a substantial breach of the requirements of the Corporations Act.65
 
 Duty to report to creditors
 [19.215] The primary responsibility of the administrator is to provide a report to
-creditors, which includes the administrator’s recommendation regarding the
-creditors’ vote on the company’s future at the ﬁnal meeting held under s 439A,
-traditionally called “the s 439A report”, and now required under IPRC, s
+creditors, which includes the administrator's recommendation regarding the
+creditors' vote on the company's future at the ﬁnal meeting held under s 439A,
+traditionally called "the s 439A report", and now required under IPRC, s
 75-225(3)(a).66 The report must be sent out to creditors with the notice of meeting
 no less than ﬁve business days before the meeting is held: IPRC, s 75-225(3)(a).
 
@@ -2152,18 +2160,18 @@ no less than ﬁve business days before the meeting is held: IPRC, s 75-225(3)(a
 65 DCT v Pddam Pty Ltd [1996] FCA 1386; (1996) 14 ACLC 659; Velkovski v Ryan [1996] FCA 1410; (1996)
    19 ACSR 514.
 66 The ARITA Code provides a sample report to creditors.
-798     Keay’s Insolvency: Personal and Corporate Law and Practice                     [19.215]
+798     Keay's Insolvency: Personal and Corporate Law and Practice                     [19.215]
 
 Administrators also have a duty to provide creditors with information about their
 rights on their appointment (IPRC, s 70-30) and an obligation to provide
 information, reports and documents when requested by creditors unless it would
 be unreasonable to do so: IPSC, ss 70-40, 70-45 ss 70-40, 70-45 ; IPRC, ss 70-1 to
 70-15.
-The word “creditor” is not a deﬁned term in the Act and it can be an issue as to
+The word "creditor" is not a deﬁned term in the Act and it can be an issue as to
 who should be notiﬁed of the meetings. In Selim v McGrath [2003] NSWSC 927;
 (2003) 22 ACLC 112, 128-129 Barrett J concluded that in the context of a s 439A
 meeting, creditors were all persons who have, as against the company concerned,
-“debts” or “claims” provable in a winding up. He said the boundaries were those
+"debts" or "claims" provable in a winding up. He said the boundaries were those
 set by s 553 which are very wide. Similar comments were made by the NSW Court
 of Appeal in BE Australia WD Pty Ltd (subject to a Deed of Company Arrangement) v
 Sutton [2011] NSWCA 414; (2011) 82 NSWLR 336 when discussing who is a creditor
@@ -2172,7 +2180,7 @@ In preparing a report for creditors, the courts recognise that the administrator
 not have the same time to carry out the detailed investigations as a liquidator, and
 that administrators may not have access to all relevant information (such as
 information held by third parties proposing a deed of company arrangement). Any
-challenges to administrators’ actions are determined in light of the time constraints
+challenges to administrators' actions are determined in light of the time constraints
 within which they must investigate and report, and commercial practicality: DCT v
 Comcorp Australia Ltd (1996) 70 FCR 356; Re TEN Network Holdings Limited (Admins
 Apptd) (Recs and Mgrs Apptd) [2017] NSWSC 1247.
@@ -2183,19 +2191,19 @@ practical.67 As an example, Austin J noted that it is often not practicable for 
 administrator to use the powers of compulsory examination available under the
 Act, given the limited time available for the administration. In his decision in DCT
 v Portinex Pty Ltd (No 1) [2000] NSWSC 99; (2000) 156 FLR 453, 481 he said that:
-   “the balance between speed and accuracy of investigation is a delicate one, and the
+   "the balance between speed and accuracy of investigation is a delicate one, and the
    distinction between an adequate preliminary investigation which concludes that there are
    grounds for suspecting wrongdoing but goes no further, and inadequate investigation
    which fails to assemble available information with respect to wrongdoing, is a matter of
-   degree.”
+   degree."
 As we will see in Chapter 20, these issues will come to the fore at the time of a later
 challenge to the deed of company arrangement by a creditor. In Re TEN Network
 Holdings Limited (Admins Apptd) (Recs and Mgrs Apptd) [2017] NSWSC 1247, the
-court refused to grant an injunction preventing a creditors’ meeting from
+court refused to grant an injunction preventing a creditors' meeting from
 proceeding despite some inadequacies with reports to creditors. The court held that
 the relevant information was widely available and it was open to creditors to
 adjourn the meeting to give themselves more time to consider alternate proposals
-compared with what was recommended in the administrators’ report. The court
+compared with what was recommended in the administrators' report. The court
 
 67 See similar comments in Re TEN Network Holdings Limited (Admins Apptd) (Recs and Mgrs Apptd)
    [2017] NSWSC 1247.
@@ -2204,7 +2212,7 @@ compared with what was recommended in the administrators’ report. The court
 was also satisﬁed that any potential prejudice to creditors could be addressed in an
 application to set aside the deed of company arrangement.
 
-Administrator’s opinion
+Administrator's opinion
 [19.220] As noted at [19.220], the administrator must provide an opinion to the
 creditors about each of the three possibilities which are open to the creditors, and
 give reasons for those opinions: IPRC, s 75-225(3). The administrator is not
@@ -2227,10 +2235,10 @@ The level of information required is to be assessed within the time provided for
 the administration (including any court extensions of the convening period): Re
 TEN Network Holdings Limited (Admins Apptd) (Recs and Mgrs Apptd) [2017] NSWSC
 1247. The administrator must:68
-   “take care to communicate with affected parties in a manner that is accurate, honest,
+   "take care to communicate with affected parties in a manner that is accurate, honest,
    open, clear, succinct and timely in order to ensure their effective understanding of the
-   processes, and their rights and obligations.”
-In that case, the court rejected criticism of the administrator’s report where the
+   processes, and their rights and obligations."
+In that case, the court rejected criticism of the administrator's report where the
 plaintiff had sought an injunction against a meeting going ahead where it was
 argued that the administrators could have provided more detailed information in
 their report to creditors (which was several hundred pages long), particularly
@@ -2238,16 +2246,16 @@ regarding ﬁnancial implications for creditors, shareholders and the purchasers
 court held that the administrators did not possess much of this information, and
 that their report adequately explained what their opinion actually was and the
 reasons for giving it in the report.
-In investigating the company’s affairs the administrator will require access to the
-company’s books and records. While no one may retain possession of the
-company’s books as against an administrator (s 438C(1)), an exception to this
+In investigating the company's affairs the administrator will require access to the
+company's books and records. While no one may retain possession of the
+company's books as against an administrator (s 438C(1)), an exception to this
 applies in relation to secured creditors who hold a charge and are entitled to certain
 books. However, the administrator has the right to inspect them and make copies of
 the books retained by the secured creditor: s 438C(2).
 
 68 ARITA Code of Professional Conduct (3rd ed), Principle 4, approved by the court in Re TEN Network
    Holdings Limited (Admins Apptd) (Recs and Mgrs Apptd) [2017] NSWSC 1247 at [47].
-800    Keay’s Insolvency: Personal and Corporate Law and Practice              [19.225]
+800    Keay's Insolvency: Personal and Corporate Law and Practice              [19.225]
 
 In order to obtain possession of books, the administrator is entitled to give to a
 person who has the books written notice requiring the person to deliver them to the
@@ -2261,7 +2269,7 @@ bought or property hired, leased, used or occupied: s 443A(1)(a) – (c). This w
 fundamental recommendation of the Harmer Report that was intended to
 encourage trade creditors to deal with the company and assist the administrator in
 carrying on business. Section 443A applies to debts incurred by an administrator
-taken to be acting under s 437B as the company’s agent: Energy & Resource
+taken to be acting under s 437B as the company's agent: Energy & Resource
 Conservation Co Ltd v Abigroup Contractors Pty Ltd (1997) 41 NSWLR 169. The
 provision does not refer to a court, which means that the jurisdictional forum
 where the liability may be enforced is not limited by s 58AA; a tribunal could hear
@@ -2271,23 +2279,23 @@ An administrator is also personally liable for the repayment of money borrowed,
 plus interest and borrowing costs: s 443A(1)(d) – (f). This applies to ﬁnance
 obtained by the administrator during the administration. Administrators have only
 had this liability since amendments made to the Corporations Act in 2007. Prior to
-this several applications were made to the court to extend the administrator’s
+this several applications were made to the court to extend the administrator's
 personal liability to facilitate the provision of ﬁnance during administration. The
-“Explanatory Memorandum to the Corporations Amendment (Insolvency) Bill 2007
-(Cth)” says that as an administrator is personally liable for such borrowings, “it is
+"Explanatory Memorandum to the Corporations Amendment (Insolvency) Bill 2007
+(Cth)" says that as an administrator is personally liable for such borrowings, "it is
 expected that administrators would exercise appropriate caution in using this
 option. However, in appropriate circumstances it would provide an administrator
 with the facility to offer a lender enhanced comfort that their funds will be repaid
-in the event of a failure”.
+in the event of a failure".
 In certain circumstances it may be necessary to obtain an order from the court
-under s 447A in order to limit the administrator’s personal liability under s 443A.
-The orders usually limit the liability to the value of the company’s assets so as to
+under s 447A in order to limit the administrator's personal liability under s 443A.
+The orders usually limit the liability to the value of the company's assets so as to
 allow the administrator to rely upon the indemnity against those assets to satisfy
 the liability. For example, in Re Robinson; Darrell Lea Chocolate Shops Pty Ltd [2012]
 FCA 833, a loan was provided by a company associated with the directors in order
 to satisfy employee entitlements. Section 447A orders were given to limit the scope
-of the administrator’s liability for the loan under s 443A to the value of the
-company’s assets. This approach provides a beneﬁcial outcome for stakeholders as
+of the administrator's liability for the loan under s 443A to the value of the
+company's assets. This approach provides a beneﬁcial outcome for stakeholders as
 the employees are paid, the company is able to continue operating to realise the
 value of work in progress and sell down its stock, and the administrator is not
 exposed to greater liability. The principles underpinning the grant of orders under
@@ -2295,10 +2303,10 @@ exposed to greater liability. The principles underpinning the grant of orders un
 
 s 447A to limit liability under s 443A were discussed by Gordon J in Mentha; Re
 Griffin Coal Mining Co Pty Ltd [2010] FCA 1469; (2010) 82 ACSR 142 at [30]:69
-   (a) the proposed arrangements are in the interests of the company’s creditors and
+   (a) the proposed arrangements are in the interests of the company's creditors and
        consistent with the objectives of Pt 5.3A;
-   (b) typically the arrangements proposed are to enable the company’s business to continue
-       to trade for the beneﬁt of the company’s creditors;
+   (b) typically the arrangements proposed are to enable the company's business to continue
+       to trade for the beneﬁt of the company's creditors;
    (c) the creditors of the company are not prejudiced or disadvantaged by the types of
        orders sought and stand to beneﬁt from the administrators entering into the
        arrangement;
@@ -2307,10 +2315,10 @@ While prejudice or disadvantage to creditors is an important consideration, it
 should not be a decisive factor, otherwise it may be more difficult to achieve the
 purposes of Pt 5.3A: McKinnon, Re Specialised Concrete Pumping Victoria Pty Ltd
 (admin apptd) [2016] FCA 325 at [29].
-The administrator has a right of indemnity over the company’s assets to cover
+The administrator has a right of indemnity over the company's assets to cover
 liability under this provision: s 443D. It should be noted however, that the
-company’s assets do not include PPSA retention of title property (as deﬁned in
-s 51F). Under s 443E, debts covered by the administrator’s right of indemnity, in
+company's assets do not include PPSA retention of title property (as deﬁned in
+s 51F). Under s 443E, debts covered by the administrator's right of indemnity, in
 some circumstances, take priority over:
 • unsecured debts,
 • security interests that have vested in the company because of s 588FL or PPSA,
@@ -2337,36 +2345,36 @@ liability: s 443D(a).
 
 69 See further Re Systems Advisers Group Pty Ltd [2013] NSWSC 826; Crawford, Re North Queensland
    Heavy Haulage Services Pty Ltd (admin apptd) [2017] FCA 723.
-802      Keay’s Insolvency: Personal and Corporate Law and Practice                             [19.230]
+802      Keay's Insolvency: Personal and Corporate Law and Practice                             [19.230]
 
 However, an administrator does not personally incur liability merely through
 acting as the agent of the company: s 443C.
 The administrator must become registered for the GST and otherwise comply with
 tax obligations: see A New Tax System (Goods and Services Tax) Act 1999 (Cth).
 
-Administrator’s lien
+Administrator's lien
 [19.230] Generally, the administrator is entitled to be indemniﬁed from the
-company’s property in respect of liabilities he or she incurs throughout the period
+company's property in respect of liabilities he or she incurs throughout the period
 of administration: s 443D. These debts include the debts under ss 443A and 443B
-and the tax liabilities (“remittance provisions”) under s 443BA: see s 443D(a). The
-right of indemnity also extends to the administrator’s remuneration determined
-under IPSC, Div 60 (s 443D(b)) and to “any other debts or liabilities incurred, or
+and the tax liabilities ("remittance provisions") under s 443BA: see s 443D(a). The
+right of indemnity also extends to the administrator's remuneration determined
+under IPSC, Div 60 (s 443D(b)) and to "any other debts or liabilities incurred, or
 damages or losses sustained, in good faith and without negligence, by the
 administrator in the performance or exercise, or purported performance or exercise,
-of any of his or her functions or powers as administrator”: s 443D(aa). The purpose
+of any of his or her functions or powers as administrator": s 443D(aa). The purpose
 of s 443D(aa) is to protect the administrator from liability for a tort such as
 conversion where goods are sold that are subject to a retention of title clause. The
 section extends protection in relation to other torts.
-Section 443F grants the administrator a lien over the company’s property to secure
+Section 443F grants the administrator a lien over the company's property to secure
 these rights of indemnity. However, the administrator has no statutory right of
-indemnity out of the company’s property in respect of liabilities that fall outside
+indemnity out of the company's property in respect of liabilities that fall outside
 s 443D. The indemnity under s 443D also does not extend to a company that is
 operating under a deed of company arrangement: Wellnora Pty Ltd v Fiorentino
 [2008] NSWSC 483; (2008) 66 ACSR 229.
 This, of course, is of little encouragement if the company is hopelessly insolvent.
 However, the right to the indemnity takes priority over all unsecured creditors and
 some other secured debts (discussed at [19.230]), but the right is subject to those
-creditors entitled to priority under s 556(1)(a) and (b). The administrator’s right
+creditors entitled to priority under s 556(1)(a) and (b). The administrator's right
 gives a lien on company property (s 443F(1)), and, in effect establishes a statutory
 charge over the assets of the company.
 The right of indemnity extends to any other debts or liabilities incurred, in good
@@ -2389,9 +2397,9 @@ of Appeal held that the equitable lien is not limited by Pt 5.3A (including the
 existence of a statutory lien) and may allow an administrator to claim remuneration
 and expenses under the equitable lien in priority to the holder of a ﬁxed charge
 where the remuneration and expenses were incurred through work done
-exclusively in caring for, preserving and realising the company’s assets that were
-subject to the charge.71 This lien is recognised as the “Universal Distributing
-principle”, after the High Court’s decision in Re Universal Distributing Co Ltd (in liq)
+exclusively in caring for, preserving and realising the company's assets that were
+subject to the charge.71 This lien is recognised as the "Universal Distributing
+principle", after the High Court's decision in Re Universal Distributing Co Ltd (in liq)
 (1933) 48 CLR 171. In Primary Securities Ltd v Willmott Forests Ltd (rec and man apptd)
 (in liq) [2016] VSCA 309 it was held that the principle is not limited to situations
 where the work by the insolvency practitioner leads to the creation of a fund. See
@@ -2404,11 +2412,11 @@ administrator will have the beneﬁt of an equitable lien over assets realised i
 course of the administration in respect of the value of the work conducted for the
 beneﬁt of the company. That equitable lien is not subject to the priorities under
 s 556 in respect of assets of the administration, save that if any additional assets are
-recovered by a subsequently appointed liquidator, the administrator’s priority to
+recovered by a subsequently appointed liquidator, the administrator's priority to
 payment out of those additional assets is governed by s 556: Weston v Carling
 Constructions Pty Ltd [2000] NSWSC 693; (2000) 35 ACSR 100; Lockwood v White
 [2005] VSCA 30; (2005) 11 VR 402. If there are insufficient assets realised to cover the
-administrator’s remuneration, it will become a deferred expense under s 556: ASIC
+administrator's remuneration, it will become a deferred expense under s 556: ASIC
 v McKenney Consulting Pty Ltd [2003] VSC 527; (2003) 21 ACLC 314.72
 If an administration is followed by a liquidation, there remains an issue whether
 the administrator (now the liquidator) may be liable for actions performed as an
@@ -2418,7 +2426,7 @@ transactions entered into by the administrator cannot be set aside in a subseque
 liquidation.
 
 Remuneration and expenses
-[19.235] The process for approving an administrator’s remuneration is the same
+[19.235] The process for approving an administrator's remuneration is the same
 as for a liquidators under IPSC, Div 60, and was discussed in Chapter 10.
 Lodgement of accounts with ASIC
 [19.240] Accounts of administrators must be lodged with ASIC on an annual
@@ -2427,12 +2435,12 @@ and accounts and the costs of an audit will form part of the expenses of the
 administration: IPSC, s 70-15.
 
 71 See also Re Renovation Boys Pty Ltd [2014] NSWSC 340.
-72 See CAMAC’s report, Issues in External Administration (November 2008) as to the lack of priority of
-   the administrator’s remuneration in a liquidation.
+72 See CAMAC's report, Issues in External Administration (November 2008) as to the lack of priority of
+   the administrator's remuneration in a liquidation.
 73 Macquarie Health Corporation Ltd v Commissioner of Taxation (1999) 96 FCR 238; Olsen v Nodcad Pty Ltd
-   (1999) 32 ACSR 118; Chief Commissioner of State Revenue v Rafferty’s Resort Management Pty Ltd [2008]
+   (1999) 32 ACSR 118; Chief Commissioner of State Revenue v Rafferty's Resort Management Pty Ltd [2008]
    NSWSC 452; (2008) 66 ACSR 199.
-804    Keay’s Insolvency: Personal and Corporate Law and Practice                    [19.245]
+804    Keay's Insolvency: Personal and Corporate Law and Practice                    [19.245]
 
 STATUTORY MORATORIUM AND PROTECTION OF THE COMPANY
 [19.245] The administration period is a time for investigation and assessment.
@@ -2449,14 +2457,14 @@ company property or against the company cannot proceed or be commenced unless
 the administrator gives written consent or the leave of the court is obtained. This is
 in accord with the aim of the legislature which is to protect the company from all
 civil actions in order to permit the administrator to formulate a rational plan for
-future action: “Explanatory Memorandum to the Corporate Law Reform Bill 1992
-(Cth)”, at [521]. In X v Milstead [2015] FamCAFC 50 the court reviewed the history
+future action: "Explanatory Memorandum to the Corporate Law Reform Bill 1992
+(Cth)", at [521]. In X v Milstead [2015] FamCAFC 50 the court reviewed the history
 of s 440D and stated (at [41]):
-  “the purpose for the initial enactment of what is now s 440D of the Corporations Act was
+  "the purpose for the initial enactment of what is now s 440D of the Corporations Act was
   to, so far as possible, and insofar as the company was not the moving party, freeze the
   ﬁnancial circumstances of the company in question, to permit the administrator to devise
   a plan of action for the future of the company in conformity with the statutory objects of
-  s 435A.”
+  s 435A."
 The section also serves to prevent the payment of preferences to creditors and any
 disposal of company property prior to the completion of the administration: Re
 Capital General Corporation Ltd [2001] VSC 570; (2001) 19 ACLC 848, 851. In Larkden
@@ -2468,7 +2476,7 @@ achievement of the objects of Pt 5.3A by:
   (b) putting a brake on legal and associated costs;
   (c) allowing time for the development of proposals which might preserve the value of the
       company as a going concern;
-  (d) giving the creditors time to consider their position for the purposes of the creditors’
+  (d) giving the creditors time to consider their position for the purposes of the creditors'
       meeting; and
   (e) in appropriate circumstances, preventing a creditor from obtaining some advantage
       over other creditors or potential creditors.
@@ -2478,13 +2486,13 @@ is not deﬂected from the necessary tasks in having to defend litigation and in
 having to incur costs. In that case, Young J compared the higher threshold for leave
 being granted in respect of a company in voluntary administration compared with
 a company in liquidation. He went on to say (at 204-205):
-  “To allow one creditor or potential creditor to proceed would not only take the
-  administrator’s attention from what he needs to do under the division in a relatively short
+  "To allow one creditor or potential creditor to proceed would not only take the
+  administrator's attention from what he needs to do under the division in a relatively short
 [19.250]                                                           19 Voluntary Administration     805
 
    period of time, but it would also involve costs in running the legal action on behalf of the
    administrator, as well as perhaps giving the claimant some advantage over the other
-   creditors or potential creditors.”
+   creditors or potential creditors."
 Creditors are therefore expected to lodge their proofs of debt in the administration
 where their claims can be fully assessed and determined by the administrator: BBC
 Hardware Ltd v GT Homes Pty Ltd (1997) 15 ACLC 431. However, Hammerschlag J
@@ -2492,16 +2500,16 @@ expressed a contrary view in Larkden Pty Ltd v Lloyd Energy Systems Pty Ltd [201
 NSWSC 1305; (2011) 285 ALR 207, where he held that s 440D applications should be
 approached in a similar manner to other judicial discretions. The Judge stated (at
 [39]-[40]):
-   “A stay is the starting point. There must be circumstances which warrant its
+   "A stay is the starting point. There must be circumstances which warrant its
    displacement…Every application must be considered on its own circumstances. There are
    inﬁnite possible scenarios. There may be a ﬂurry or a dearth of meritorious applications.
-   Those circumstances need have no particular quality of rarity.”
+   Those circumstances need have no particular quality of rarity."
 In Toll Holdings Ltd v Stewart (admin apptd) (recs and mgrs apptd) [2016] FCA 256 at
 [56]-[57], it was stated that:
-   “the discretionary power to grant leave under ss 440B and 440D cannot be fettered by
+   "the discretionary power to grant leave under ss 440B and 440D cannot be fettered by
    inﬂexible rules. The interests of justice in all of the circumstances of each case will be
-   different and affected by those particular considerations…The Court’s statutory power to
-   grant leave to proceed under each of ss 440B and 440D is unqualiﬁed”.
+   different and affected by those particular considerations…The Court's statutory power to
+   grant leave to proceed under each of ss 440B and 440D is unqualiﬁed".
 There have been many cases that have considered applications for leave under
 s 440D. A review of them reveals that the following factors are relevant:74
 • who appointed the administrator;
@@ -2521,13 +2529,13 @@ s 440D. A review of them reveals that the following factors are relevant:74
    against the company in such circumstances.
 An administrator cannot be held liable for damages if he or she refuses to give
 approval to the commencement or continuation of proceedings: s 440E.
-The word “proceeding” is not limited to a proceeding in a court, despite the
-deﬁnition of the word “court” in s 58AA of the Corporations Act. Thus, the former
+The word "proceeding" is not limited to a proceeding in a court, despite the
+deﬁnition of the word "court" in s 58AA of the Corporations Act. Thus, the former
 
 74 See Foxcraft v The Ink Group Pty Ltd (1994) 15 ACSR 203; J & B Records Ltd v Brashs Pty Ltd (1994) 13
    ACSR 680; Wallabah Pty Ltd v Navillo Pty Ltd (1997) 23 ACSR 444; Attard v James Legal Pty Ltd [2010]
    NSWCA 311; (2010) 80 ACSR 585 at [146]-[147].
-806     Keay’s Insolvency: Personal and Corporate Law and Practice                          [19.250]
+806     Keay's Insolvency: Personal and Corporate Law and Practice                          [19.250]
 
 Australian Industrial Relations Commission was a court for the purpose of s 440D:
 Brian Rochford (admin apptd) Ltd v Textile Clothing & Footwear Union of NSW (1998) 47
@@ -2539,8 +2547,8 @@ Services Ltd [2016] NSWSC 509.75 The delivery of judgment in extant proceedings 
 a step in the proceedings that is caught by s 440D: X v Milstead [2015] FamCAFC 50.
 It is not open to an administrator to give permission for only part of the
 proceedings to continue: Scharer v Giro Construction Group Pty Ltd (in liq) (rec and
-man apptd) [2017] NSWSC 1568, the court saying that the “provisions should not be
-interpreted so as to give a procedural advantage to a company in administration”
+man apptd) [2017] NSWSC 1568, the court saying that the "provisions should not be
+interpreted so as to give a procedural advantage to a company in administration"
 at [60].
 The stay against a winding up application in respect of a company in
 administration should be dealt with under s 440A (see [19.255]), not s 440D: Re
@@ -2549,11 +2557,11 @@ In those cases where leave has been granted, it has usually been for a limited o
 particular purpose. For example, such leave may need to be given so as to at least
 allow the proceedings to be commenced to prevent the claim becoming statute
 barred. Other examples of leave being granted are:
-• to allow a subcontractor to obtain protection under the Subcontractors’ Charges
+• to allow a subcontractor to obtain protection under the Subcontractors' Charges
   Act 1974 (Qld): Civcrush Pty Ltd v Yeo & Co Pty Ltd (admin apptd) [2017] QSC 225;
 • to issue proceedings seeking an injunction to enforce patent rights (Pioneer Water
   Tanks (Australia 94) Pty Ltd v Delat Pty Ltd (1998) 16 ACLC 36);
-• for the purpose of allowing proceedings against the company’s insurer (Godden v
+• for the purpose of allowing proceedings against the company's insurer (Godden v
   Banwell Pty Ltd [2003] WASC 217);
 • to bring proceedings for the appointment of a provisional liquidator to the
   company (Hall v Mercury Information Technology (South Australia) Pty Ltd [2002]
@@ -2565,8 +2573,8 @@ barred. Other examples of leave being granted are:
   427.
 An appeal by the company itself is not a proceeding for which leave is required
 (Uvanna Pty Ltd v Tsang Chi Ming (1997) 72 FCR 502), nor is any response to that
-appeal by the respondent required. Similarly, the words “a proceeding in a court
-against a company” do not extend to a positive step taken by a respondent to an
+appeal by the respondent required. Similarly, the words "a proceeding in a court
+against a company" do not extend to a positive step taken by a respondent to an
 application brought against it by a company in administration, for example, a claim
 by a respondent for security for its costs: Pasdale Pty Ltd v Concrete Constructions Pty
 Ltd (1995) 59 FCR 446. However, an interlocutory proceeding by a plaintiff prior to
@@ -2578,11 +2586,11 @@ the issue of a writ, for example for pre-trial discovery against the company, is
 
 covered by the section and leave is required: Aquila Resources Ltd v Pasminco Ltd
 [2002] WASC 53. The right to bring a statutory derivative action under Pt 2F.1A is a
-right that cannot be assigned and is not “property” of the company, therefore leave
+right that cannot be assigned and is not "property" of the company, therefore leave
 to maintain the proceedings is not required under s 440D: MG Corrosion Consultants
-Pty Ltd v Gilmour [2012] FCA 383; (2012) 202 FCR 354. Similarly, while a company’s
-cross-claim may be a “proceeding” for the purposes of s 440D(1), it was not a
-“proceeding ... in relation to [its] property” and was not stayed when the company
+Pty Ltd v Gilmour [2012] FCA 383; (2012) 202 FCR 354. Similarly, while a company's
+cross-claim may be a "proceeding" for the purposes of s 440D(1), it was not a
+"proceeding ... in relation to [its] property" and was not stayed when the company
 entered administration: Arogen v Leighton [2013] NSWSC 1099.
 Secured creditors who are able to bring themselves under s 441B(1) (where
 enforcement begins before the start of the administration) can obtain leave more
@@ -2602,27 +2610,27 @@ is a pending winding up action by a creditor. In St Leonards Property Pty Ltd v
 Ambridge Investments Pty Ltd [2004] NSWSC 851; (2004) 50 ACSR 443, the court said
 that it should not be seen as unusual for a company that is subject to a winding up
 application to go into voluntary administration, which in many cases:
-   “will be the proper and reasonable thing for directors to do … In some cases, the
+   "will be the proper and reasonable thing for directors to do … In some cases, the
    demands of a creditor and the indication that the creditor will pursue a winding up
    application will so focus the minds of directors that they become able to take stock of the
-   company’s position more critically and, realising that the company is insolvent or likely
-   to become insolvent, to see resort to the Pt 5.3A procedure as the appropriate course”: at
+   company's position more critically and, realising that the company is insolvent or likely
+   to become insolvent, to see resort to the Pt 5.3A procedure as the appropriate course": at
    446.
 In such cases, the court will adjourn the hearing of those proceedings provided that
 it is satisﬁed that it is in the interests of the creditors: Corporations Act, s 440A(2).
 In Weriton Finance Pty Ltd v PNR Pty Ltd [2012] NSWSC 1402; (2012) 92 ACSR 88
 Black J noted (at [16]) that:
-   “Generally, an adjournment under s 440A(2) of the Corporations Act requires that the
-   court is satisﬁed that it is in creditors’ interests to continue the administration in all the
+   "Generally, an adjournment under s 440A(2) of the Corporations Act requires that the
+   court is satisﬁed that it is in creditors' interests to continue the administration in all the
    circumstances, and this requires that there be sufficient possibility, as distinct from mere
-   optimistic speculation, that creditors’ interests will be accommodated to a greater degree
-   in an administration than in a winding up.”
+   optimistic speculation, that creditors' interests will be accommodated to a greater degree
+   in an administration than in a winding up."
 
 76 Maritime law can raise particular issues in insolvency, certain maritime liens being secured claims
    against the ship supporting a right to arrest the ship for non-payment of the claim. See Yakushiji v
    Daiichi Chuo Kisen Kaisha [2015] FCA 1170; and Yu v STX Pan Ocean Co Ltd (South Korea), in the matter
    of STX Pan Ocean Co Ltd (Receivers appointed in South Korea) [2013] FCA 680; (2013) 223 FCR 189.
-808      Keay’s Insolvency: Personal and Corporate Law and Practice                 [19.255]
+808      Keay's Insolvency: Personal and Corporate Law and Practice                 [19.255]
 
 In order to satisfy the provision and to cause a court to order an adjournment, there
 would have to be some persuasive evidence to enable it to see that if there were
@@ -2641,10 +2649,10 @@ application for a winding up order as:
 3. the composition and attitude of the creditors; and
 4. the recognition that a liquidator has more ability to follow potential breaches of
    the law than administrators.
-These have to be considered against the background of whether there is “a real
+These have to be considered against the background of whether there is "a real
 prospect of a better outcome under the Deed than in a winding-up or, if the
 measure of the dividend is similar, whether the dividend can be achieved more
-quickly under the Deed”: David Lambourne Yacht Rigging v Perry Catamarans [2006]
+quickly under the Deed": David Lambourne Yacht Rigging v Perry Catamarans [2006]
 FCA 887; (2006) 58 ACSR 155. Even if the elements of s 440A are satisﬁed the court
 still retains the discretion to refuse the order.
 The interests of creditors as a whole must be considered, including creditors with
@@ -2652,7 +2660,7 @@ differing interests. In David Lambourne Yacht Rigging v Perry Catamarans, the
 application for an adjournment was made by two secured creditors; however, a
 number of unsecured creditors opposed the adjournment. Although the court said
 that numbers in support or opposition are relevant but not determinative, the court
-considered that creditors’ interests as a whole required that the winding up
+considered that creditors' interests as a whole required that the winding up
 proceed. If the majority of creditors supporting the administration are related
 creditors and the administration is proposing a deed that lacks a commercial
 rationale, then the court will place great weight on the views of unrelated creditors:
@@ -2665,7 +2673,7 @@ court may also adjourn the application for further evidence to be provided as to
 proposed deed: DCT v Distinctive Enterprises Pty Ltd [2007] FCA 2074. In Lemery
 Holdings Pty Ltd v Reliance Financial Services Pty Ltd [2008] NSWSC 548, Palmer J
 said (at [11]):
-   “If a company is insolvent and there is no realistic hope that it can be saved through an
+   "If a company is insolvent and there is no realistic hope that it can be saved through an
    administration and Deed of Company Arrangement, then there are strong reasons why it
 
 77 See also, DCT v Laguna Australia Airport Pty Ltd [2013] FCA 1271.
@@ -2674,10 +2682,10 @@ said (at [11]):
 
    should be wound up as soon as possible. One of those considerations is that the sooner
    that there is an investigation into matters such as whether there has been insolvent
-   trading or dispositions of assets which may be avoided, the better it will be for creditors.”
-As explained at , the creditors’ costs of bringing the winding up application have
+   trading or dispositions of assets which may be avoided, the better it will be for creditors."
+As explained at , the creditors' costs of bringing the winding up application have
 priority if the company enters an administration under Pt 5.3A which results in a
-subsequent creditors’ voluntary winding up: s 556(1)(ba).
+subsequent creditors' voluntary winding up: s 556(1)(ba).
 It should be noted that s 440D (as to a stay of proceedings against the company)
 does not apply if there is an application to wind up the company, as this is
 speciﬁcally dealt with in s 440A, and no leave of the court under s 440D is
@@ -2686,10 +2694,10 @@ required.79
 Criminal or prescribed proceedings
 [19.260] The stay does not operate with respect to criminal proceedings or
 prescribed proceedings: s 440D(2). The latter term encompasses actions permitted
-because of public policy requirements: the “Explanatory Memorandum to the
-Corporate Law Reform Bill 1992”, at [522]. An example provided in that
-Explanatory Memorandum is an “action designed to prevent imminent
-environmental damage”. No proceedings are in fact prescribed.
+because of public policy requirements: the "Explanatory Memorandum to the
+Corporate Law Reform Bill 1992", at [522]. An example provided in that
+Explanatory Memorandum is an "action designed to prevent imminent
+environmental damage". No proceedings are in fact prescribed.
 
 Sections 440F, 440G: suspension of enforcement and execution
 action
@@ -2698,27 +2706,27 @@ execution against property. During the administration, no enforcement process in
 relation to company property can proceed or be commenced except with the leave
 of the court: s 440F. Court officials are restrained from issuing execution process
 against company property: s 440G.
-The use of the term “enforcement process” in s 440F, as deﬁned in s 9, so close to
+The use of the term "enforcement process" in s 440F, as deﬁned in s 9, so close to
 s 440G suggests a distinction between execution in the traditional sense of the word
 and other enforcement processes. Accordingly, execution is deﬁned narrowly, and
 includes, for example, the execution of a writ of possession of property by a
 mortgagee: Albert v Namba Pty Ltd (1997) 15 ACLC 1242; 24 ACSR 577. But in Morris
-v The Ship “Kiama” (1998) 16 ACLC 945, the arrest of a ship was not “a process of
-execution” within s 440G as the ship was arrested in accordance with admiralty
+v The Ship "Kiama" (1998) 16 ACLC 945, the arrest of a ship was not "a process of
+execution" within s 440G as the ship was arrested in accordance with admiralty
 rules and was sold to ensure that the purpose of the arrest would not ultimately be
-frustrated by holding expenses exceeding the ship’s value.
+frustrated by holding expenses exceeding the ship's value.
 Furthermore, where a court officer, usually a sheriff or registrar, receives a written
 notice of the administration the court officer is unable, during the administration, to
 take action to sell company property under execution process or to pay to any
 person, other than to the administrator, funds obtained as a consequence of
 execution: s 440G. The court officer is obliged to deliver to the administrator any
 company property in his or her possession under execution process (s 440G(3)), and
-to pay to the administrator all money in the officer’s possession as a result of
+to pay to the administrator all money in the officer's possession as a result of
 execution process: s 440G(4). On the other hand, a court may permit a court officer
 
 79 Australian Prudential Regulation Authority v Rural & General Insurance Ltd [2004] FCA 185; (2004) 136
    FCR 149; Evans v Mullumbimby News Pty Ltd [2008] NSWSC 240.
-810    Keay’s Insolvency: Personal and Corporate Law and Practice              [19.270]
+810    Keay's Insolvency: Personal and Corporate Law and Practice              [19.270]
 
 to take action or make a payment in respect of which he or she would be,
 ordinarily, prevented: s 440G(7). Where property is sold pursuant to execution
@@ -2744,8 +2752,8 @@ secure the payment or performance of an obligation (PPSA, s 12(1)) and also
 include a number of deemed security interests (under PPSA, s 12(3)) which include
 long-term operational leases and commercial consignments.
 The primary exception provides for secured parties who have security over the
-whole, or substantially the whole, of the company’s property and act either before
-or after the 13 business day “decision period” (s 9)which begins when the
+whole, or substantially the whole, of the company's property and act either before
+or after the 13 business day "decision period" (s 9)which begins when the
 administration begins (or when the secured party receives notice of the
 administration): s 441A. This window of opportunity for a substantial secured
 party recognises the favoured position of such a secured creditor given by the
@@ -2755,20 +2763,20 @@ Where the secured party has used an exception to the moratorium to take or
 continue with enforcement action, the requirement in s 437D that only an
 administrator can deal with company property does not apply. The rationale is that
 it is not felt appropriate that a company should be able to frustrate the actions of
-the secured creditor by appointing an administrator: “Explanatory Memorandum
-to the Corporate Law Reform Bill 1992 (Cth)”, at [538]. As noted above the court
+the secured creditor by appointing an administrator: "Explanatory Memorandum
+to the Corporate Law Reform Bill 1992 (Cth)", at [538]. As noted above the court
 may make an order limiting the powers of the secured party: s 441D. This is
 designed to prohibit a single creditor from frustrating the objectives of the
 administration: at [541]. An example is given in the Explanatory Memorandum of a
 company which, just before the commencement of the administration, has had a
 receiver appointed in relation to a machine which is essential to the operation of the
-company’s factory. If the administrator cannot use the machine the company cannot
+company's factory. If the administrator cannot use the machine the company cannot
 [19.280]                                                              19 Voluntary Administration      811
 
 operate and the administration cannot succeed: at [543].80 In Fekala Pty Ltd v
 Cenbond Pty Ltd [2001] NSWSC 340; (2001) 37 ACSR 613, the court refused the
-secured creditor’s access to particular property because it appeared that it was only
-if the company’s property and business were to be sold together that any
+secured creditor's access to particular property because it appeared that it was only
+if the company's property and business were to be sold together that any
 substantial money for unsecured creditors would be realised.
 Section 441E enables any secured party to give a notice pursuant to a charge after
 the commencement of administration, however enforcement will have to wait,
@@ -2783,9 +2791,9 @@ or agent during the decision period (pursuant to s 441A): s 441D(1).
 Perishable property: s 441G
 [19.275] A further exception to the general moratorium is found in s 441G,
 which allows a person with an interest in perishable property to recover that
-property. The term “perishable property” is not deﬁned, nor have there been any
+property. The term "perishable property" is not deﬁned, nor have there been any
 decided cases on this section. One commentator has referred to the concept of
-perished goods in sale of goods legislation where “perished” is not limited to the
+perished goods in sale of goods legislation where "perished" is not limited to the
 physical destruction of the goods; it relates to the situation where the goods have so
 deteriorated they have lost their merchantable character.81
 
@@ -2801,26 +2809,26 @@ s 441F. However, s 441H provides that a court may order a person enforcing a rig
 of an owner or lessor of company property (whether the enforcement began before
 or during the administration) to refrain from performing certain functions or
 powers in relation to the property: s 441H(1), (2). Such an order may only be made
-if the court is satisﬁed that the owner or lessor’s interests are adequately protected
+if the court is satisﬁed that the owner or lessor's interests are adequately protected
 during the administration: s 441H(3). The order allowed under s 441H(2) is
 designed to ensure that exceptions to the stay, which are granted to protect the
 legitimate interests of creditors, owners and lessors, are not employed in a manner
-that prevents the possibility of an effective administration: “Explanatory
+that prevents the possibility of an effective administration: "Explanatory
 
 80 A similar fact situation occurred in Debis Financial Services (Aust) Pty Ltd v Allied Bellambi Collieries
    Pty Ltd (1999) 17 ACLC 1636; leave to appeal was refused: Debis Financial Services (Australia) Pty Ltd
    v Allied Bellambi Collieries Pty Ltd (2000) 35 ACSR 371.
-81 Hambrett, “Voluntary Administration Procedure of the Corporate Law Reform Act 1992” (1993) 7
+81 Hambrett, "Voluntary Administration Procedure of the Corporate Law Reform Act 1992" (1993) 7
    Commercial Law Quarterly 10, 12 (referring to Asfar & Co v Blundell [1896] 1 QB 123).
-812      Keay’s Insolvency: Personal and Corporate Law and Practice                           [19.285]
+812      Keay's Insolvency: Personal and Corporate Law and Practice                           [19.285]
 
-Memorandum to the Corporate Law Reform Bill 1992 (Cth)”, at [547]. An
+Memorandum to the Corporate Law Reform Bill 1992 (Cth)", at [547]. An
 administrator may wish to sell the business as a going concern and may need to
 prevent an owner or lessor from continuing to enforce their rights during the
 administration by obtaining an order under s 441H.
 
-CREDITORS’ MEETINGS
-[19.285] We now examine the two creditors’ meetings held under the Pt 5.3A
+CREDITORS' MEETINGS
+[19.285] We now examine the two creditors' meetings held under the Pt 5.3A
 process. This is a topic that has been signiﬁcantly altered by the ILRA, with the
 replacement of many rules relating to creditors meetings from the Act and the
 Regulations into the IPSC and the IPRC, Div 75. One of the signiﬁcant changes
@@ -2850,12 +2858,12 @@ may choose to replace an administrator whom they perceive as being too
 sympathetic to the existing management of the company. This serves to foster
 creditor conﬁdence in the voluntary administration procedure; and substantial
 secured creditors may be more ready to refrain from appointing a receiver during
-“the decision period” (see [19.270]) if they can be involved in determining who will
+"the decision period" (see [19.270]) if they can be involved in determining who will
 act as the administrator.83 Creditors may also remove an administrator during the
 administration under IPSC, s 90-35.
 
 82 That is, excluding the day of the appointment, by the end of the eighth business day thereafter. See
-   Corporations Act, s 435C(1)(a) which provides that an administration “begins” when the
+   Corporations Act, s 435C(1)(a) which provides that an administration "begins" when the
    administrator is appointed. Notices and advertising must occur not fewer than ﬁve business days
    prior to the meeting: s 436E(3). As to electronic notiﬁcation, see s 600G(1)(a).
 83 For an example of where the s 436E meeting was dispensed with using s 447A orders: see Pavlakis v
@@ -2864,7 +2872,7 @@ administration under IPSC, s 90-35.
 
 Declaration by administrator: s 436DA
 [19.295] As we discussed in the context of administrator independence (at
-[19.145]), and in support of the creditors’ right to replace the administrator,
+[19.145]), and in support of the creditors' right to replace the administrator,
 s 436DA requires a declaration of indemnities and relevant relationships to be
 supplied by an administrator appointed under ss 436A, 436B or 436C. A purpose of
 this declaration is to give creditors information about any connections of the
@@ -2897,21 +2905,21 @@ time to convene the ﬁrst meeting).
 
 84 Corporations Act, s 436E(3); Form 529A; Corporations Regulations, reg 5.3A.03A.
 85 That is, excluding the day of the appointment, by the end of the eighth business day thereafter. See
-   s 435C(1)(a) which provides that an administration “begins” when the administrator is appointed.
+   s 435C(1)(a) which provides that an administration "begins" when the administrator is appointed.
    Notices and advertising must occur not fewer than ﬁve business days prior to the meeting: s 436E(3);
-   and notice is “given” on the day of posting, see Re Yates [2006] FCA 370; but compare s 600G, which
+   and notice is "given" on the day of posting, see Re Yates [2006] FCA 370; but compare s 600G, which
    can allow electronic notiﬁcation, but with notice deemed effected a day later. Public holidays are not
    business days and must not be counted: Mentha, in the matter of ACN 009 758 258 Pty Ltd [2009] FCA
    603.
 86 See further Touzell v Cawthorn (1995) 18 ACSR 328 where the only proof of debt admitted by the
-   administrator was that of the company’s solicitor and hence there was only one creditor permitted to
-   vote at the meeting. Evidence of inﬂated solicitor’s and administrator’s fees led the court to
+   administrator was that of the company's solicitor and hence there was only one creditor permitted to
+   vote at the meeting. Evidence of inﬂated solicitor's and administrator's fees led the court to
    terminate the administration.
 87 See the list of authorities in Re Creative Memories Australia Pty Ltd [2013] NSWSC 732; see also s 600G.
-814      Keay’s Insolvency: Personal and Corporate Law and Practice                              [19.305]
+814      Keay's Insolvency: Personal and Corporate Law and Practice                              [19.305]
 
 The administrator or their nominee must preside at the meeting: IPRC, s 75-50(2).
-The administrator must preside at the second creditors’ meeting convened under
+The administrator must preside at the second creditors' meeting convened under
 s 439A meeting: IPRC, s 75-50(1).
 The court can vary the requirements relating to the ﬁrst meeting: Loi (Administrator)
 v Homeland Furniture Wollongong Pty Limited (Admin Apptd) [2016] FCA 1036
@@ -2939,15 +2947,15 @@ administrator automatically becomes the liquidator of the company: s 446A. If th
 meeting fails to pass the required resolution then the administration simply ends
 and control is deemed in law to have returned to the directors: s 435C(3).
 The administrator is required to give written notice of the meeting to as many of
-the company’s creditors as reasonably practicable and whose names and address
+the company's creditors as reasonably practicable and whose names and address
 are readily ascertainable; and, as with the ﬁrst meeting, to publish a notice in the
-prescribed way: IPRC, s 75-225(1). Written notice of the meeting is “given” to the
+prescribed way: IPRC, s 75-225(1). Written notice of the meeting is "given" to the
 creditors on the date that the notice is put in the post.
 A meeting will not be invalid because of the accidental omission to notify a person
 who might be a creditor: Khoury v Zambena Pty Ltd (1997) 15 ACLC 620. Nor is an
-administrator under any legal duty to take active steps to seek out “non-obvious”
+administrator under any legal duty to take active steps to seek out "non-obvious"
 creditors, for example those who have suffered economic loss as a result of the
-company’s actions: Selim v McGrath [2003] NSWSC 927; (2003) 22 ACLC 112. A
+company's actions: Selim v McGrath [2003] NSWSC 927; (2003) 22 ACLC 112. A
 defect in calling a meeting, such as by inadequate notice, may be cured under
 s 1322 of the Corporations Act as long as there is no substantial injustice in doing
 so.
@@ -2958,10 +2966,10 @@ so.
 
 Timing and extension of time
 [19.310] The meeting must be held within ﬁve business days before or after the
-end of the convening period: Corporations Act, s 439A(2). The “convening period”
+end of the convening period: Corporations Act, s 439A(2). The "convening period"
 is deﬁned in s 439A(5) as being the period of 20 business days beginning on the
 business day after the administration began, that day being the date of the
-administrator’s appointment.89 Extended periods are provided for Christmas and
+administrator's appointment.89 Extended periods are provided for Christmas and
 Easter: s 439A(5)(a). Ordinarily, the second meeting will be around ﬁve weeks
 (25 business days) from the day when the administration commenced. Again, the
 time constraints placed on the administrator in convening and holding the meeting
@@ -2981,7 +2989,7 @@ the original convening period (s 439A(6)) but if applied for after, the court ma
 only extend time if it is satisﬁed that an extension would be in the best interests of
 creditors (s 439A(7)) and the court may take that into account in making any order
 for costs: s 439A(8). Generally, costs of such an extension application may properly
-be ordered to be paid from the company’s assets: MI Design Pty Ltd v Dunecar Pty
+be ordered to be paid from the company's assets: MI Design Pty Ltd v Dunecar Pty
 Ltd [2000] NSWSC 995; (2000) 35 ACSR 551. An order extending time may also be
 made under s 447A.
 Although early cases on voluntary administration expressed a view that the courts
@@ -3001,7 +3009,7 @@ of an administration (supported by admissible evidence) warrants it in order to
 89 Extended periods are provided for Christmas and Easter: Corporations Act, s 439A(5)(a). Public
    holidays are not business days and must not be counted: Mentha, in the matter of ACN 009 758 258 Pty
    Ltd [2009] FCA 603. As to electronic notiﬁcation, see s 600G(1)(b) – (c).
-816      Keay’s Insolvency: Personal and Corporate Law and Practice                     [19.310]
+816      Keay's Insolvency: Personal and Corporate Law and Practice                     [19.310]
 
 enable administrators to properly carry out their functions: Re Riviera Group (2009)
 72 ACSR 352; [2009] NSWSC 585 at 354-357, at [8]-[18] (ACSR). In that case, Austin J
@@ -3023,7 +3031,7 @@ on applications for an extension of the convening period:90
   creditors.
 In Re Parbery; NewSat Ltd [2015] FCA 435, the court considered the nature of
 applications to extend the convening period (at [59]):
-   “The power to extend the time for convening the second meeting of creditors should be
+   "The power to extend the time for convening the second meeting of creditors should be
    not exercised lightly or as of course. But this is not to suggest that juridical parsimony is
    paramount. Rather, Pt 5.3A should be given a commercial construction and application
    which reﬂects the reality of the setting in which both the company under administration
@@ -3037,7 +3045,7 @@ applications to extend the convening period (at [59]):
    a trade out which enables the company under administration and its activities to continue
    to the beneﬁt of creditors and all stake-holders. The court must be commercially astute to
    facilitating such a potentially positive outcome where it is feasible. The ﬁrst step in that
-   process is usually the consideration of an application of the present type.”
+   process is usually the consideration of an application of the present type."
 Extensions of the convening period can be lengthy, with many cases receiving
 three- or four-month extensions. In some cases, multiple extensions of time have
 been granted. For example, in the administration of ABC Learning Centres, the
@@ -3090,20 +3098,20 @@ extension of the convening period may be granted:
 Although administrators are generally able to abide by the times allowed, in the
 absence of an extension of time, the extent and depth of their reports are necessarily
 restricted by that limitation and creditors need to take this into account in assessing
-the administrator’s report. Of course, if material information is omitted from the
+the administrator's report. Of course, if material information is omitted from the
 report or the report is otherwise deﬁcient then any subsequent deed of company
 arrangement may be challenged under s 445D.
 
 Report to creditors: s 75-225
 [19.315] For the second meeting, the administrator must give the creditors, with
-the notice of meeting, a report regarding the company’s ﬁnancial position and a
+the notice of meeting, a report regarding the company's ﬁnancial position and a
 
 91 See also Re Owen; RiverCity Motorway Pty Ltd v Madden (No 4) [2012] FCA 1491; (2012) 92 ACSR 255
    where several extensions were granted for a total of almost three years.
-818      Keay’s Insolvency: Personal and Corporate Law and Practice            [19.325]
+818      Keay's Insolvency: Personal and Corporate Law and Practice            [19.325]
 
-statement indicating the administrator’s opinion, with reasons, as to whether it is in
-the creditors’ interests to enter into a deed of company arrangement, whether the
+statement indicating the administrator's opinion, with reasons, as to whether it is in
+the creditors' interests to enter into a deed of company arrangement, whether the
 administration should terminate or whether the company should be wound up:
 IPRC, s 75-225. See further at [19.220].
 
@@ -3116,13 +3124,13 @@ creditors what reasonably could be expected to be material to their decision
 whether to vote in favour of the deed: DCT v Comcorp Australia Ltd (1996) 14 ACLC
 1616, 1645 and 1646; Re TEN Network Holdings Limited (Admins Apptd) (Recs and
 Mgrs Apptd) [2017] NSWSC 1247. But a deed was set aside in M & S Butler
-Investments Pty Ltd v Granny May’s Franchising Pty Ltd (1997) 15 ACLC 1501; 24
-ACSR 695 for reasons including that the administrator’s report said only that “the
-tangible assets of the company will be dealt with in accordance with a deed”. See
+Investments Pty Ltd v Granny May's Franchising Pty Ltd (1997) 15 ACLC 1501; 24
+ACSR 695 for reasons including that the administrator's report said only that "the
+tangible assets of the company will be dealt with in accordance with a deed". See
 further [20.90].
-Thus s 439A implements the policy of informing creditors about the company’s
+Thus s 439A implements the policy of informing creditors about the company's
 ﬁnancial position as soon as possible and enables creditors to vote promptly on the
-future steps to be taken after considering the administrator’s opinion. It may be
+future steps to be taken after considering the administrator's opinion. It may be
 said that the convening of the second meeting is the primary function of the
 administrator, in the sense that the administrator uses the meeting to advise the
 creditors of the results of the investigations into the company.
@@ -3141,7 +3149,7 @@ proposals put to the meeting.
 On the other hand, if no resolution on the future of the company is made within the
 45 business days, and no extension is granted, the administration automatically
 comes to an end (s 435C(3)(d)) and the directors will again assume control. The
-time limit serves to prevent creditors’ negotiations being drawn out; a time limit
+time limit serves to prevent creditors' negotiations being drawn out; a time limit
 encourages action. Also, the administration is not open-ended so creditors will be
 entitled, after a reasonable time, to enforce their rights.
 Voting
@@ -3161,8 +3169,8 @@ or not exercising, the casting vote: IPRC, s 75-115(6) However, in the case of a
 meeting of eligible employee creditors under s 444DA(2)(a), if no result is reached
 on a poll under subreg (2) or (3), the resolution is not carried and the casting vote is
 not available: IPRC, s 75-115(7).
-A resolution may be passed without a creditors’ meeting if a majority of creditors
-who respond to the administrator’s notice of a proposal vote yes. This is also a
+A resolution may be passed without a creditors' meeting if a majority of creditors
+who respond to the administrator's notice of a proposal vote yes. This is also a
 majority in value of responding creditors (ie, not of all of the creditors of the
 company) within the required timeframe (which must be at least 15 business days
 after the notice is given). A proposal without a meeting (sent to creditors under
@@ -3175,7 +3183,7 @@ proposal in the books of the administration under IPSC, s 75-10 and lodge notice
 with ASIC within ﬁve business days of the outcome being known: IPRC, s
 75-130(6); ASIC Form 5022.
 
-Court’s power to review the voting
+Court's power to review the voting
 [19.345] The court has the power to review the outcome of a meeting in certain
 circumstances. IPSC, s 75-41 applies where a resolution has been voted on and the
 votes of a related creditor(s) of the company were disregarded such that either the
@@ -3191,19 +3199,19 @@ will also consider whether entering the deed will avoid or forestall proper
 investigations (at [191]).
 If the elements of IPSC, s 75-41 are established, the court can order, inter alia, that
 the related creditor(s) not be entitled to vote. This implements the recommendation
-of the Harmer Report that the unfair inﬂuence of related creditors over creditors’
+of the Harmer Report that the unfair inﬂuence of related creditors over creditors'
 
 92 See the detailed discussion of the former provision (s 600A) in DSG Holdings Australia Pty Ltd v
    Helenic Pty Ltd [2014] NSWCA 96; (2014) 99 ACSR 121; Promnitz v Indochine Mining Ltd [2015] FCA
    857.
-820      Keay’s Insolvency: Personal and Corporate Law and Practice             [19.345]
+820      Keay's Insolvency: Personal and Corporate Law and Practice             [19.345]
 
-meetings be prevented: at [580]. “Related creditor” is deﬁned in IPSC, s 75-41(4) to
+meetings be prevented: at [580]. "Related creditor" is deﬁned in IPSC, s 75-41(4) to
 mean a person who, when the vote was cast, was a related entity and a creditor of
 the company. The applicant must have been a creditor at the time when the
 resolution was passed: Hoath v Comcen Pty Ltd (2005) 53 ACSR 708; [2005] NSWSC
 477 (approved in DSG Holdings Australia Pty Ltd v Helenic Pty Ltd [2014] NSWCA
-96; (2014) 99 ACSR 121). “Related entity” is deﬁned in s 9. See also Guo v Song
+96; (2014) 99 ACSR 121). "Related entity" is deﬁned in s 9. See also Guo v Song
 [2018] NSWSC 12.
 IPSC, s 75-42 applies where a resolution is passed by the casting vote of the
 chairperson. A creditor who voted against the resolution may apply to the court for
@@ -3231,14 +3239,14 @@ and not mandatory language. Nevertheless, the discretion is not unfettered. An
 administrator should proceed to exercise the casting vote and resolve a deadlock
 (thereby resorting to the power for the purpose for which it exists) unless there is
 some good reason to refrain from doing so; and failure to exercise the casting vote
-for some irrational or irrelevant reason is inconsistent with the person’s duty:
+for some irrational or irrelevant reason is inconsistent with the person's duty:
 Ausino International Pty Ltd v Apex Sports Pty Ltd [2007] NSWSC 289; (2007) 25
 ACLC 415.
-The court’s role is not simply to determine how the administrator should have
-exercised the casting vote, but rather “to evaluate the decision-making process in
+The court's role is not simply to determine how the administrator should have
+exercised the casting vote, but rather "to evaluate the decision-making process in
 which the chairperson engaged with a view to determining whether the decision
 was conscientiously made by reference to all relevant considerations appropriately
-identiﬁed and weighed by him or her”: Plumbers Supplies Co-operative Ltd v Firedam
+identiﬁed and weighed by him or her": Plumbers Supplies Co-operative Ltd v Firedam
 Civil Engineering Pty Ltd [2011] NSWSC 325. The chair should be motivated to act in
 the best interests of those affected by the vote: Commonwealth Bank of Australia v
 Fernandez (2010) 81 ACSR 262 at [100]; [2010] FCA 1487.
@@ -3264,7 +3272,7 @@ Admitted creditors
 [19.360] Creditors in general are not entitled to vote unless their debts have been
 admitted wholly or in part by the administrator or they have lodged with the Chair
 presiding at the meeting particulars of their debts or, if required, a formal proof of
-debt: IPRC, s 75-85(3). “Particulars” means particulars sufficient to show, at least
+debt: IPRC, s 75-85(3). "Particulars" means particulars sufficient to show, at least
 prima facie, the existence of the asserted debt or claim; the sufficiency of the
 particulars can be assessed in the context of pre-existing knowledge of the person
 making a decision about the proof – a decision-maker is not conﬁned to the
@@ -3272,15 +3280,15 @@ contents of the proof of debt document: Selim v McGrath [2003] NSWSC 927; (2003)
 22 ACLC 112.
 IPRC, s 75-100 then sets out the process for the admission and rejection of proofs
 for the purposes of voting, including dealing with doubtful claims. The decision of
-the Chair presiding a tthe meeting in relation to a creditor’s entitlement to vote
+the Chair presiding a tthe meeting in relation to a creditor's entitlement to vote
 may be appealed to the court within 10 business days after the decision: IPRC, s
-75-100(4). See further in relation to the Chair’s role relating to proofs of debt: Selim
+75-100(4). See further in relation to the Chair's role relating to proofs of debt: Selim
 v McGrath [2003] NSWSC 927; (2003) 22 ACLC 112.
 
 Unliquidated debts, contingent debts etc
 [19.365] Creditors are not entitled to vote in respect of unliquidated debts,
 contingent debts, unliquidated or contingent claims, or debts the value of which
-has not been established, unless a just estimate of the debt’s value has been made:
+has not been established, unless a just estimate of the debt's value has been made:
 IPRC, s 75-85(4). The person responsible for making a just estimate of value is the
 chairperson: see Re Free Wesleyan Church of Tonga in Australia Inc [2012] NSWSC 214;
 (2012) 260 FLR 348. In the context of making a decision on an entitlement to vote,
@@ -3290,10 +3298,10 @@ administrator is entitled to take into account the surrounding circumstances whe
 considering whether to allow a proof of debt: Spiteri v Lindholm [2003] VSC 42;
 
 94 See also Bacnet Pty Ltd v Lift Capital Partners Pty Ltd [2010] FCAFC 36; (2010) 183 FCR 384.
-822      Keay’s Insolvency: Personal and Corporate Law and Practice                              [19.370]
+822      Keay's Insolvency: Personal and Corporate Law and Practice                              [19.370]
 
-(2003) 7 VR 315 (where the company’s sole director’s proof of debt was rejected
-after he refused to produce the company’s books to assist with substantiating the
+(2003) 7 VR 315 (where the company's sole director's proof of debt was rejected
+after he refused to produce the company's books to assist with substantiating the
 claims made in the proofs of debt).95
 
 Recording the votes
@@ -3304,21 +3312,21 @@ Chair presiding at the meeting must declare a resolution has been:
 • passed by a particular majority; or
 • lost, on the voices.
 A vote will usually be taken on a show of hands which can fulﬁl the requirement
-that the vote be “on the voices”.96
-The phrase “passed unanimously” means only that those who voted did so in
+that the vote be "on the voices".96
+The phrase "passed unanimously" means only that those who voted did so in
 favour of the resolution and that there were no votes against. In No 5 Lorac Avenue
 Pty Ltd v Brooke (1995) 16 ACSR 247, the fact that the Chair had declared the motion
-“carried unanimously” on a show of hands was not conclusive of the question
+"carried unanimously" on a show of hands was not conclusive of the question
 whether secured creditors had voted in favour of the deed. The secured creditors
 had not voted. The issue was critical because if it was decided that the secured
 creditors had voted, they must have voted in favour of the deed (as the vote was
 unanimous) and, consequently, they would be bound by the deed and would be
 prevented by s 444D(2) from realising or dealing with their security. The secured
-creditors were bound by the deed. The court said (at [252]) that “carried
-unanimously” does not mean every creditor present voted. The term is consistent
+creditors were bound by the deed. The court said (at [252]) that "carried
+unanimously" does not mean every creditor present voted. The term is consistent
 with a creditor having been present but having failed to record a vote either way.
-The court went on to say that where there is an informal vote such as “on the
-voices” or by a show of hands it is not possible to be accurate in recording those
+The court went on to say that where there is an informal vote such as "on the
+voices" or by a show of hands it is not possible to be accurate in recording those
 votes. The aim of the predecessor to IPRC, s 75-110(3) (reg 5.6.19) was to preclude
 argument about the result of a vote where there is no poll; once the Chair has made
 the declaration then that is proof of what is declared.
@@ -3354,7 +3362,7 @@ IPSC, Div75 .
 Particular powers
 [19.380] Part 5.3A provides the court with a number of wide-ranging powers.
 These include the powers to:
-• give an extension of the time for the convening of the second creditors’ meeting
+• give an extension of the time for the convening of the second creditors' meeting
   held pursuant to s 439A(6);
 • order a secured party or a receiver who entered into possession or assumed
   control of company property or entered into an agreement to sell such property
@@ -3384,25 +3392,25 @@ any particular company. Section 447A, which is contained in Pt 5.3A, says (in pa
    (1) The Court may make such order as it thinks appropriate about how this Part is to
        operate in relation to a particular company.
    (2) For example, if the Court is satisﬁed that the administration of a company should end:
-824     Keay’s Insolvency: Personal and Corporate Law and Practice                        [19.390]
+824     Keay's Insolvency: Personal and Corporate Law and Practice                        [19.390]
 
        (a) because the company is solvent; or
        (b) because provisions of this Part are being abused; or
        (c) for some other reason;
        the court may order under subsection (1) that the administration is to end.
 The extent to which s 447A can be used by the courts to facilitate and promote the
-purpose of Pt 5.3A has now been largely settled by the High Court’s decision in
+purpose of Pt 5.3A has now been largely settled by the High Court's decision in
 Australasian Memory Pty Ltd v Brien [2000] HCA 30; (2000) 200 CLR 270. The High
 Court has effectively concluded that s 447A is an integral aspect of Pt 5.3A and
 should be given a wide operation. It can enable the court to make individual orders
 for a particular company, with respect to the manner in which Pt 5.3A, or any of its
 sections, should operate, depending on the circumstances applying. Section 447A
 allows the other provisions in Pt 5.3A to have an altered or changing operation, in
-the court’s discretion, and in relation to the particular company concerned.97
+the court's discretion, and in relation to the particular company concerned.97
 In the case before the High Court, the question was whether the court had power
 under s 447A to ﬁnd that the second meeting of creditors was properly held; it had
 in fact incorrectly been held eight days too early, and thus not within ﬁve business
-days after the end of the “convening period” as required by s 439A. This was prior
+days after the end of the "convening period" as required by s 439A. This was prior
 to the 2007 amendments that permitted the meeting to be held within ﬁve business
 days before the end of the convening period. The High Court unanimously held that
 s 439A could in effect be modiﬁed by s 447A to accommodate this error. That is,
@@ -3417,7 +3425,7 @@ speciﬁcally rejected a suggested limitation on the section, according to which
 could not be used to alter the times ﬁxed by sections in Pt 5.3A which contain
 express provision for variation of the time so ﬁxed. The court described
 (Australasian Memory Pty Ltd v Brien [2000] HCA 30; (2000) 200 CLR 270 at 281)
-s 447A as “an integral part of the legislative scheme provided for by Pt 5.3A”.
+s 447A as "an integral part of the legislative scheme provided for by Pt 5.3A".
 However, the High Court itself expressed some reservation whether s 447A could
 be used to affect accrued rights of third parties. Before considering its limitations,
 we explain the broad range of circumstances where the section has been applied.
@@ -3425,10 +3433,10 @@ we explain the broad range of circumstances where the section has been applied.
 The breadth of the use of s 447A
 [19.390] Although applications under s 447A are generally made by
 administrators and deed administrators, the court may entertain applications from
-the company itself, a creditor, ASIC or “any other interested person”: s 447A(4). In
+the company itself, a creditor, ASIC or "any other interested person": s 447A(4). In
 deciding whether it should exercise its discretion under the section, the court will
-give weight to an administrator’s opinion that what is sought is in the best interests
-of the company as well as to the consistency of the administrator’s objectives with
+give weight to an administrator's opinion that what is sought is in the best interests
+of the company as well as to the consistency of the administrator's objectives with
 
 97 For a summary of the principles underpinning the use of s 447A, see Hayes v Doran (No 2) [2012]
    WASC 486 at [406].
@@ -3436,21 +3444,21 @@ of the company as well as to the consistency of the administrator’s objectives
 
 the operation of Pt 5.3A of the Act: Re Ansett Australia Ltd (No 1) [2001] FCA 1806;
 (2001) 115 FCR 376 at [49] and [52]. In Re Gunns Plantations Ltd (No 1) [2012] VSC
-655 at [96] it was noted that “the court must keep to the fore the commercial
-realities in exercising its discretion under s 447A of the Act.” The standing of the
+655 at [96] it was noted that "the court must keep to the fore the commercial
+realities in exercising its discretion under s 447A of the Act." The standing of the
 applicant is assessed at the time of making the application: Re Beechworth Land
 Estates Pty Ltd (No 3) [2015] NSWSC 733; in that case, the applicant not a creditor at
 the time the application was made.
-In Re Maria’s Farm Veggies Pty Ltd (admins apptd) [2016] NSWSC 1899 at [16] Black J
+In Re Maria's Farm Veggies Pty Ltd (admins apptd) [2016] NSWSC 1899 at [16] Black J
 held:
-   “The section does not dictate the range of factual ﬁndings which need to be made, or the
+   "The section does not dictate the range of factual ﬁndings which need to be made, or the
    generality with which those circumstances might be identiﬁed. It seems to me that that
    section can readily apply in circumstances where there is a dispute about a matter, and
    the urgencies of the matter are such that it could not be readily determined on a factual
    basis while meeting the commercial urgencies of the matter. In those circumstances it is
    open to the Court to ﬁnd, in a proper case, that the existence of that dispute warrants an
    order under s 447A of the Corporations Act that will provide for Pt 5.3A to operate in a
-   particular way in relation to that company.”
+   particular way in relation to that company."
 That case held that s 447A could be used to validate the appointment of an
 administrator under s 436C even where the requirements of state legislation (the
 Farm Debt Mediation Act 1994 (NSW)) were not satisﬁed, although that legislation
@@ -3480,7 +3488,7 @@ Other examples of the use of s 447A include:
   of the deed (Re Bluenergy Group Ltd [2015] NSWSC 977; (2015) 107 ACSR 373);
 • to make orders allowing various trade unions to exercise the voting rights of
   employees by way of proxy at the ﬁrst meeting of creditors; the large number of
-826      Keay’s Insolvency: Personal and Corporate Law and Practice                           [19.390]
+826      Keay's Insolvency: Personal and Corporate Law and Practice                           [19.390]
 
   employees, spread throughout the country, was a factor in favour of the orders
   being made (Re Ansett Australia; Rappas v Ansett [2001] FCA 1348; (2001) 39 ACSR
@@ -3495,7 +3503,7 @@ Other examples of the use of s 447A include:
   s 436C where the security was unenforceable because mortgage duty was not
   paid (Photios v Cussen [2015] NSWSC 336);
 • to determine prospectively (rather than retrospectively, as is the usual case) an
-  administrator’s remuneration (Re Bosnjac Holdings [2005] FCA 275; (2005) 53
+  administrator's remuneration (Re Bosnjac Holdings [2005] FCA 275; (2005) 53
   ACSR 8);
 • to change the way notices are given to creditors (Re MF Global Australia Ltd [2013]
   NSWSC 779 (notice by email permitted));
@@ -3510,7 +3518,7 @@ Other examples of the use of s 447A include:
   right of indemnity under s 443D: Mentha, in the matter of Griffin Coal Mining
   Company Pty Ltd [2010] FCA 764.
 Courts have also said that s 447A is available where the company has proceeded,
-under s 446A, from voluntary administration into a creditors’ voluntary winding
+under s 446A, from voluntary administration into a creditors' voluntary winding
 up under Pt 5.5 of the Act, and there has been need to alter the effect of a provision
 in Pt 5.5; as long as the alteration allowed under s 447A is consistent with the
 objectives of Pt 5.3A: Gibbons v LibertyOne [2002] NSWSC 274; (2002) 167 FLR 310.99
@@ -3518,17 +3526,17 @@ A s 447A order may be used to vary a deed of company arrangement, where the
 deed has already terminated and the company is no longer in administration: Re
 New Bounty Pty Ltd [2015] NSWSC 1060; (2015) 107 ACSR 504. In that case, the
 court noted that such an order may be used not necessarily to validate actions, but
-to vary rights or invalidate actions, although such circumstances “are likely to be
-rare” (at [224]).
+to vary rights or invalidate actions, although such circumstances "are likely to be
+rare" (at [224]).
 
 98 See the detailed summary in Hayes v Doran (No 2) [2012] WASC 486 at [406]. If the validation of the
    appointment would not promote the purpose of voluntary administration expressed in s 435A then
    this favours declining to make the order validating the appointment: Re Keneally [2015] NSWSC 937;
    (2015) 107 ACSR 172. The costs of the application for validation are costs of the administration: Re
    James [2015] WASC 57.
-99 See however, Harris and Gordon, “Lost in Transition: Section 447A and the Question of Members’
-   Rights when a Company Transitions from Voluntary Administration to a Creditors’ Voluntary
-   Liquidation” (2005) 13 Insolv LJ 96.
+99 See however, Harris and Gordon, "Lost in Transition: Section 447A and the Question of Members'
+   Rights when a Company Transitions from Voluntary Administration to a Creditors' Voluntary
+   Liquidation" (2005) 13 Insolv LJ 96.
 [19.395]                                                         19 Voluntary Administration   827
 
 As we will see in Chapter 20, the section can be used in favour of deed
@@ -3537,12 +3545,12 @@ insolvent corporate groups (Dean-Willcocks v Soluble Solution Hydroponics Pty Lt
 (1997) 42 NSWLR 209) and to vary a deed of company arrangement: Re Pasminco
 Ltd (No 2) [2004] FCA 656; (2004) 22 ACLC 774.
 Even where the court can rely on an existing remedial provision, it may reinforce or
-“boilerplate” the order by an additional order under s 447A. For example, where
+"boilerplate" the order by an additional order under s 447A. For example, where
 publication of a s 439A meeting did not appear ﬁve business days before the
 meeting, the court made an order, under s 1322(4) of the Corporations Act that the
-meeting of creditors was not invalid by reason of that failure, and “by way of
-boiler-plating”, it ordered that Pt 5.3A was to operate as though it required only
-four days’ notice: Mentha, in the matter of ACN 009 758 258 Pty Ltd [2009] FCA 603.
+meeting of creditors was not invalid by reason of that failure, and "by way of
+boiler-plating", it ordered that Pt 5.3A was to operate as though it required only
+four days' notice: Mentha, in the matter of ACN 009 758 258 Pty Ltd [2009] FCA 603.
 In each case, however, the applicant has had to explain, based on reasons and
 evidence, why the provisions of Pt 5.3A are not adequate for the particular
 circumstances and the orders required; and why the orders under s 447A are
@@ -3550,9 +3558,9 @@ needed. As we now discuss, although s 447A gives a broad power, the wording of
 the section does impose some important limits.
 
 Limits on the use of s 447A
-[19.395] The particular terms of s 447A itself, and the High Court’s explanation
+[19.395] The particular terms of s 447A itself, and the High Court's explanation
 of the limits of its application, are illustrated in Chief Commissioner of State Revenue v
-Rafferty’s Resort Management Pty Ltd [2008] NSWSC 452; (2008) 66 ACSR 199.100 In
+Rafferty's Resort Management Pty Ltd [2008] NSWSC 452; (2008) 66 ACSR 199.100 In
 that case, despite evidence supporting the inference that the directors had abused
 the voluntary administration process for the purpose of delaying the winding up
 and deferring the relation-back period, and hence the potential recovery of unfair
@@ -3561,7 +3569,7 @@ used. As the court explained, one straightforward reason for this was that the
 relation-back provisions (ss 513A(b) and 513C) are in Pt 5.6 of the Act and not
 Pt 5.3A. More fundamentally, the court noted the observations of the High Court in
 Australasian Memory Pty Ltd v Brien, suggesting that s 447A should not be used to
-alter a person’s accrued rights. In Rafferty’s Resort, an order to change the
+alter a person's accrued rights. In Rafferty's Resort, an order to change the
 relation-back day would have altered the accrued rights of the persons who had the
 beneﬁt of unfair preference payments in the relevant period that were immune
 from challenge – any order backdating the relation-back day would deprive those
@@ -3573,11 +3581,11 @@ Orders under s 447A cannot be used to amend Pt 5.3A to confer a power on the
 administrator that does not otherwise exist in Pt 5.3A: Re New Bounty Pty Ltd [2015]
 NSWSC 1060; (2015) 107 ACSR 504 at [225]. In that case, the applicant
 
-100 See also Harris, “The Constitutional Basis of s 447A: Is it a Power Without Limit?” (2006) 14
+100 See also Harris, "The Constitutional Basis of s 447A: Is it a Power Without Limit?" (2006) 14
     Insolv LJ 135.
 101 Note that the calculation of the relation-back period between administration and liquidation has
     changed following the ILRA with the introduction of new s 91.
-828     Keay’s Insolvency: Personal and Corporate Law and Practice               [19.395]
+828     Keay's Insolvency: Personal and Corporate Law and Practice               [19.395]
 
 unsuccessfully sought orders under s 447A that would provide the court with the
 power to amend the deed of company arrangement to remove the power of the
@@ -3591,21 +3599,21 @@ Australia WD Pty Ltd (subject to a Deed of Company Arrangement) v Sutton [2011]
 NSWCA 414; (2011) 82 NSWLR 336. In that case it was found that while Ms Sutton
 had standing to apply under s 447A, an order, in effect that she was a creditor,
 could not be made because she did not have a provable claim. Section 447A cannot
-be used to cure an administrator’s appointment which is prohibited because of the
+be used to cure an administrator's appointment which is prohibited because of the
 operation of a statutory provision outside of the Corporations Act, under State law:
 Correa v Whittingham [2013] NSWCA 263.102
 Finally, any order altering the date of commencement of an administration is
-applicable to past events, rather than to how Pt 5.3A “is to operate” in the future. In
+applicable to past events, rather than to how Pt 5.3A "is to operate" in the future. In
 Australasian Memory Pty Ltd v Brien [2000] HCA 30; (2000) 200 CLR 270, the High
-Court said that while the expression “how this Part is to operate” is one that looks
+Court said that while the expression "how this Part is to operate" is one that looks
 to the future rather than the past, the temporal requirement of the section is
 satisﬁed if the orders that are made have effect only from the time of their making;
 that is, they are orders with future effect, in respect of past matters or events. In Re
 New Bounty Pty Ltd [2015] NSWSC 1060; (2015) 107 ACSR 504, the application for
 orders under s 447A to undo a share issue made by the administrator as part of a
 deed of company arrangement was rejected in part because it would be of
-retrospective effect and hence would not be an order about how Pt 5.3A “is to
-operate”.
+retrospective effect and hence would not be an order about how Pt 5.3A "is to
+operate".
 Section 447A orders cannot be made to require a secured creditor to amend or
 remove a security interest registered on the PPSR because that is not related to how
 Pt 5.3A is to operate: Re Bluenergy Group Ltd [2015] NSWSC 977; (2015) 107 ACSR
@@ -3615,7 +3623,7 @@ Nevertheless, the section has been used in a broad range of circumstances. The
 assisting the efficient conduct of administrations, in particular given the time
 constraints imposed under Pt 5.3A and the fact that a range of issues can arise that
 need ﬂexible solutions. The courts necessarily have regard to the objects of Pt 5.3A,
-and the need for speed and economy in resolving a company’s ﬁnancial
+and the need for speed and economy in resolving a company's ﬁnancial
 predicament, in exercising their discretion under the section.
 If the applicant for orders under s 447A engages in undue delay in making the
 application this will be a discretionary factor against relief: Re New Bounty Pty Ltd
@@ -3624,7 +3632,7 @@ deed of company arrangement was fully effectuated and shares issued under the
 deed had been completed before making an application under s 447A to have the
 share issue set aside. The application was rejected.
 
-102 See also Re Maria’s Farm Veggies Pty Ltd (admins apptd) [2016] NSWSC 1899.
+102 See also Re Maria's Farm Veggies Pty Ltd (admins apptd) [2016] NSWSC 1899.
 [19.415]                                               19 Voluntary Administration   829
 
 Other powers of the court: ss 447B–447E
@@ -3632,7 +3640,7 @@ Other powers of the court: ss 447B–447E
 creditors during the administration (s 447B) and to terminate a deed of company
 arrangement in certain circumstances: see s 445D. (discussed in Chapter 20).
 The administrator has a very important and powerful role with respect to the
-company’s affairs. Given this, the court can make any order it thinks ﬁt, including
+company's affairs. Given this, the court can make any order it thinks ﬁt, including
 removing an administrator: IPSC, s 90-14. But that does not mean that the court
 should examine the commercial decisions of the administrator: Re Pan
 Pharmaceuticals Ltd [2003] FCA 855; (2003) 47 ACSR 139.
@@ -3641,7 +3649,7 @@ permitted to apply to the court to ask it to determine whether the appointment o
 an administrator is or is not valid: s 447C.
 The court is permitted to ﬁll vacancies in the office of administrator: s 449C. The
 appointer of the administrator may apply for orders under s 449C.
-The court’s power to give directions under IPSC, s 90-15 was discussed above in
+The court's power to give directions under IPSC, s 90-15 was discussed above in
 [19.170].
 
 LIQUIDATION AND ADMINISTRATION
@@ -3656,13 +3664,13 @@ Progress from liquidation to administration by decision of the
 liquidator
 [19.415]     The ﬁrst occurs where the company is being wound up and the
 liquidator resolves to appoint an administrator under s 436B of the Corporations Act:
-see [19.35]. In that instance, the liquidator’s powers are suspended. This is because
+see [19.35]. In that instance, the liquidator's powers are suspended. This is because
 s 198G provides that administration produces a suspension of powers of company
 officers and a liquidator is included as an officer. Note that the exception in
-s 198G(3)(a) speaks of “the external administrator” not “an external administrator”
+s 198G(3)(a) speaks of "the external administrator" not "an external administrator"
 and so once the company enters administration the voluntary administrator would
-be “the external administrator”.
-When the voluntary administration comes to an end the liquidator’s powers revive.
+be "the external administrator".
+When the voluntary administration comes to an end the liquidator's powers revive.
 So, if a deed of company arrangement is agreed to, and the administration ends,
 there is need for the court to order a termination or a stay of the liquidation under
 s 482103 so that the status of liquidation does not impact upon the administration of
@@ -3670,7 +3678,7 @@ the deed. In any event, in practical effect the liquidator and the administrator
 be one and the same person, if he or she obtained the leave of the court under
 
 103 DCT v Foodcorp Pty Ltd (1994) 13 ACSR 796, 798.
-830     Keay’s Insolvency: Personal and Corporate Law and Practice                          [19.415]
+830     Keay's Insolvency: Personal and Corporate Law and Practice                          [19.415]
 
 s 436B(2). It is prudent to ask that the liquidation be stayed rather than terminated,
 so that if the deed is not successful there is winding up already in progress.
@@ -3684,28 +3692,28 @@ favour with creditors and has effectively set the company on a new path of such 
 kind that makes termination of the winding up the appropriate outcome: Sutherland
 v Rahme Enterprises Pty Ltd [2003] NSWSC 673; (2003) 46 ACSR 458. In Rupert Co Ltd
 v Chameleon Mining NL [2006] NSWSC 415; (2006) 24 ACLC 635 a recapitalisation
-was attended to by the deed and a creditors’ trust. In that case, the effect of the
-deed and the creditors’ trust was to transfer the creditors’ claims to the trust and
+was attended to by the deed and a creditors' trust. In that case, the effect of the
+deed and the creditors' trust was to transfer the creditors' claims to the trust and
 release the company from liability to pay those debts. The evidence was that the
-company’s creditors would receive a substantial distribution from the trust whereas
+company's creditors would receive a substantial distribution from the trust whereas
 if the company had remained in liquidation, they would have received little or no
 return. The court terminated the winding up.
 The court will not accede to termination of the winding up in circumstances where
-the company’s solvency is based merely on deferral or subordination of certain
+the company's solvency is based merely on deferral or subordination of certain
 debts of related creditors. The general objective of Pt 5.3A, of obtaining for creditors
 a better return than they would receive in an immediate winding up, is a factor the
 court will take into account in a case where a deed of company arrangement is
 promoted and termination of the winding up forms part of the overall plan in
-which the deed plays a part. However, this will not “justify the court’s re-launching
+which the deed plays a part. However, this will not "justify the court's re-launching
 a company which, viewed alone and in the context of its future activities or likely
 activities, presents a potential for a new group of creditors to be unacceptably
-prejudiced by legacies from its former life”: Sutherland v Rahme Enterprises Pty Ltd
+prejudiced by legacies from its former life": Sutherland v Rahme Enterprises Pty Ltd
 [2003] NSWSC 673; (2003) 46 ACSR 458. In Vero Workers Compensation v Ferretti
 [2006] NSWSC 292; (2006) 24 ACLC 454, the directors had large claims against the
 company and the company had no assets and the question was whether
 preservation of those claims was contrary to interests of future creditors and the
 public interest. There were difficulties in regarding the subordination of those
-claims, with the directors’ undertakings to the court, as sufficient to protect future
+claims, with the directors' undertakings to the court, as sufficient to protect future
 creditors from the risk of being unacceptably prejudiced. The termination
 application was refused and the company remained in liquidation.
 If the creditors decide against a deed, it is probably appropriate that they resolve
@@ -3747,7 +3755,7 @@ regime.106
 Nor is court leave required where an administrator who is owed more than $5,000
 in relation to fees for acting as administrator is to become the liquidator through
 the operation of s 446A. This is notwithstanding the existence of s 532(2)(b), which
-prima facie seems to require the administrator to obtain leave. Part 5.3A’s
+prima facie seems to require the administrator to obtain leave. Part 5.3A's
 enactment has had the effect of excluding the operation of s 532(2)(b): Energy &
 Resource Conservation Co Ltd v Abigroup Contractors Pty Ltd (1997) 41 NSWLR 169.
 However, it should be noted that s 448C imposes similar restrictions on voluntary
@@ -3755,14 +3763,14 @@ and deed administrators: see [19.135].
 
 105 Mercy & Sons Pty Ltd v Wanari Pty Ltd [2000] NSWSC 756; (2000) 35 ACSR 70, referring to Brown v
     Carpet Design Group Pty Ltd [1994] FCA 1118; (1994) 50 FCR 526. See, however, Harris and Gordon,
-    “Lost in Transition: Section 447A and the Question of Members’ Rights when a Company
-    Transitions from Voluntary Administration to a Creditors’ Voluntary Liquidation” (2005) 13
+    "Lost in Transition: Section 447A and the Question of Members' Rights when a Company
+    Transitions from Voluntary Administration to a Creditors' Voluntary Liquidation" (2005) 13
     Insolv LJ 96.
 106 The court in Brown v Carpet Design Group Pty Ltd [1994] FCA 1118; (1994) 50 FCR 526 took the view
     that because s 446A deems certain resolutions to have been passed, and other requirements
     complied with, s 490 had no place in that statutory regime; see also Weeks v Elan Trading Corporation
     [2006] QSC 44.
-832    Keay’s Insolvency: Personal and Corporate Law and Practice               [19.425]
+832    Keay's Insolvency: Personal and Corporate Law and Practice               [19.425]
 
 If a person who was the administrator of an administration becomes the liquidator
 of the company under s 439C(c), that is, the creditors vote at the second meeting for
@@ -3797,11 +3805,11 @@ CONCLUSION
 and their directors where insolvency threatens or has occurred and results in the
 pressures from creditors being temporarily suspended. That temporary respite
 having been secured, the process then allows an objective assessment of the
-company’s position under the guidance and control of an insolvency practitioner.
+company's position under the guidance and control of an insolvency practitioner.
 The often anticipated outcome of that process, the restructuring and salvaging of
-the company’s business under a deed of company arrangement, is the next stage of
+the company's business under a deed of company arrangement, is the next stage of
 the process which we now consider.
-Australia’s voluntary administration regime stands in contrast to the corporate
+Australia's voluntary administration regime stands in contrast to the corporate
 rescue regimes in the US and England, both of which give companies extensive
 protection against actions by secured creditors and far more time to formulate a
 restructuring plan than the Australian law does. It remains a matter of ongoing and
@@ -3819,24 +3827,24 @@ promote restructuring and corporate rescue,109 and the European Commission is
 also promoting corporate rescue laws among its member states.110
 
                        Chapter 19 – Voluntary Administration
-Corporations Act            Part 5.3A – Administration of a company’s affairs with a
+Corporations Act            Part 5.3A – Administration of a company's affairs with a
                             view to executing a deed of company arrangement –
                             ss 435A – 451D
-Corporations Regulations    Part 5.3A – Administration of a company’s affairs with a
+Corporations Regulations    Part 5.3A – Administration of a company's affairs with a
                             view to executing a deed of company arrangement –
                             regs 5.3A.01 – 5.3A.07A
                             Regs 5.6.11 – 5.6.56
 ASIC                                RG 82 – External administration: Deeds of company
-                                    arrangement involving a creditors’ trust
+                                    arrangement involving a creditors' trust
                                     RG 16 – External administrators-reporting and lodging
-Courts’ Corporations Rules          Rules 9.2, 9.2A (remuneration)
+Courts' Corporations Rules          Rules 9.2, 9.2A (remuneration)
 ILRA                                The Act made a range of substantive changes to the
                                     matters covered by this chapter, particularly regarding the
-                                    convening of creditors’ meetings, the powers of the court
+                                    convening of creditors' meetings, the powers of the court
                                     and the reporting obligations of administrators.
 
-107 See further Walter, “The End of Receivers and Managers and the Beginning of a Streamlined and
-    Collective VA Procedure?” (2010) 22 A Insol J 8.
+107 See further Walter, "The End of Receivers and Managers and the Beginning of a Streamlined and
+    Collective VA Procedure?" (2010) 22 A Insol J 8.
 108 See Productivity Commission, Business Set-up, Transfer and Closure (2015); Financial System Inquiry,
     Final Report (2014); Senate Economics References Committee, The Performance of ASIC (2014).
 109 ABI Commission to Study Reform of Chapter 11, Final Report (2014).

@@ -19,7 +19,7 @@ A number of other investment-related exemptions are discussed in other chapters.
 
   complying superannuation fund (or similar entity) other than a self managed superannuation fund.
 
-This result is achieved through a “venture capital franking rebate” to the superannuation entity (¶3-555)
+This result is achieved through a "venture capital franking rebate" to the superannuation entity (¶3-555)
 
 - income derived by complying superannuation funds and insurance companies on assets used to
 

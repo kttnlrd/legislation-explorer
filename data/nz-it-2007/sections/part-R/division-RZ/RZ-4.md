@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to the calculation of a person’s provisional tax liability, when section RC 8 (GST ratio method) applies and requires an amount of residual income tax or an assessment of income tax for the calculation of the GST ratio,—
+**(1)**  This section applies to the calculation of a person's provisional tax liability, when section RC 8 (GST ratio method) applies and requires an amount of residual income tax or an assessment of income tax for the calculation of the GST ratio,—
 
 - (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year and for instalments for the 2011–12, 2012–13, and 2013–14 income years, if the person is a new personal tax rate person:
 

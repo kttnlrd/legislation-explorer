@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 - (b) the total of the amounts of depreciation loss for the item for which the person has been allowed a deduction; and
 
-- (c) the person’s expenditure on acquiring, constructing, installing, or extending the item.
+- (c) the person's expenditure on acquiring, constructing, installing, or extending the item.
 
 **Link with subpart DA**
 

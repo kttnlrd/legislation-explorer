@@ -7,7 +7,7 @@ paragraph: "¶34-115"
 ---
 # GST turnover ¶34-115
 
-An entity’s GST turnover is relevant in determining whether the entity is required to register (¶34-100). It is also relevant in determining whether it is required to lodge monthly or electronic returns (¶34-120).
+An entity's GST turnover is relevant in determining whether the entity is required to register (¶34-100). It is also relevant in determining whether it is required to lodge monthly or electronic returns (¶34-120).
 
 For entities that are carrying on an enterprise that does not constitute a business (eg some charities, trustees of superannuation funds and government bodies), GST turnover is also relevant for determining entitlement to:
 
@@ -17,7 +17,7 @@ For entities that are carrying on an enterprise that does not constitute a busin
 
 - make an annual apportionment of input tax credits.
 
-In determining an entity’s GST turnover, both the current year and the projected year are taken into account (Div 188). For example, an entity’s GST turnover will be $75,000 or more — and it will therefore be required to register — if either:
+In determining an entity's GST turnover, both the current year and the projected year are taken into account (Div 188). For example, an entity's GST turnover will be $75,000 or more — and it will therefore be required to register — if either:
 
 - its current GST turnover is $75,000 or more, and the ATO is not satisﬁed that the projected GST
 
@@ -39,7 +39,7 @@ The turnover does not include the GST component of taxable supplies and also doe
 
   or options that is deemed to be connected with Australia, unless (from 1 July 2017) it is made to
 
-  an “Australian consumer” (¶34-105), the underlying supply is not a supply of goods or real property
+  an "Australian consumer" (¶34-105), the underlying supply is not a supply of goods or real property
 
   and the supply is not GST-free; and (2) oﬀshore supplies of rights or options to use commercial
 
@@ -66,6 +66,6 @@ Offshore suppliers of hotel accommodation From 1 July 2019, oﬀshore suppliers 
 
 - where the invoice is issued on or after 1 July 2019.
 
-If the supplier’s GST turnover equals or exceeds the registration turnover threshold then GST must be remitted for supplies that are taxable supplies.
+If the supplier's GST turnover equals or exceeds the registration turnover threshold then GST must be remitted for supplies that are taxable supplies.
 
 ## This aﬀects supplies:

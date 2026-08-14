@@ -11,7 +11,7 @@ Worked example: Compensation for breach of business agreement Issue Australian O
 
 MEO advised AOD that it was terminating the agreement and would be entering into a supply agreement with a competitor of AOD. AOD sought compensation of $2 million from MEO for the impact on its business arising from breach of the agreement.
 
-The action against MEO was subsequently settled with MEO agreeing to pay AOD a lump sum of $1.5 million on the condition that AOD would not enter into any contract or agreement with any other oil producer in order to acquire petrol and oil products for supply to independent service stations for 2 years. The payment included compensation for any damage to AOD’s reputation in the industry.
+The action against MEO was subsequently settled with MEO agreeing to pay AOD a lump sum of $1.5 million on the condition that AOD would not enter into any contract or agreement with any other oil producer in order to acquire petrol and oil products for supply to independent service stations for 2 years. The payment included compensation for any damage to AOD's reputation in the industry.
 
 Advise AOD on the tax consequences of receiving the payment of $1.5 million from MEO.
 
@@ -27,9 +27,9 @@ It is also necessary to consider the substance of the $1.5 million payment, that
 
 Where the relevant payment can be dissected into income and capital components, the income components will be assessable income under ITAA97 s 6-5(1). Capital components may attract capital gains tax. If the payment cannot be dissected the entire amount is treated as capital and taxed as a capital gain (McLaurin v FC of T (1961) 104 CLR 381, Allsop v FC of T (1965) 113 CLR 341 and FC of T v CSR Ltd 2000 ATC 4710).
 
-Finally, the impact of the restrictive covenant condition in the settlement needs to be considered as well as allowance for damage to AOD’s reputation in the industry.
+Finally, the impact of the restrictive covenant condition in the settlement needs to be considered as well as allowance for damage to AOD's reputation in the industry.
 
-If AOD argues that the $1.5 million is unliquidated damages and cannot be dissected into income and capital components, the entire amount will be assessable income under the capital gains tax provisions. The CGT event would be the disposal of the asset, that is, of AOD’s right to sue for damages (Taxation Ruling TR 95/35).
+If AOD argues that the $1.5 million is unliquidated damages and cannot be dissected into income and capital components, the entire amount will be assessable income under the capital gains tax provisions. The CGT event would be the disposal of the asset, that is, of AOD's right to sue for damages (Taxation Ruling TR 95/35).
 
 However, if the $1.5 million can be dissected into component elements, then:
 
@@ -41,7 +41,7 @@ However, if the $1.5 million can be dissected into component elements, then:
 
   assessable income under s 6-5, will be an assessable recoupment under ITAA97 s 20-20
 
-- amounts attributable to damage to or sterilisation of AOD’s profit-making structure (Van den Berghs
+- amounts attributable to damage to or sterilisation of AOD's profit-making structure (Van den Berghs
 
 Ltd v Clark [1935] AC 431) or damage to business reputation will be treated as an assessable capital gain
 

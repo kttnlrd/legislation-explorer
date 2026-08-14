@@ -3,28 +3,21 @@ ATO ID 2003/970
 ==================================================
 
 Income Tax
-        Capital gains tax: CGT event J1 - transfer of roll over asset intra-group
-        FOI status: may be released
-
+ Capital gains tax: CGT event J1 - transfer of roll over asset intra-group
+ FOI status: may be released
 
 This ATOID is withdrawn as section 136-25 has been repealed in respect of CGT events that happen on or after 12 December 2006.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will CGT event J1 happen upon the transfer of shares in a foreign resident company, that is a member of a wholly-owned group of companies, to another member of the group (foreign parent company) if:
-
-
 
 •the foreign resident company had previously acquired shares in an Australian resident company as a result of a transfer for which rollover relief under Subdivision 126-B of the Income Tax Assessment Act 1997 (ITAA 1997) was chosen
 •foreign parent company was the ultimate holding company of the group at the time of the earlier Subdivision 126-B rollover, and
@@ -34,7 +27,6 @@ Decision
 No. CGT event J1 will not happen upon the transfer of the shares in the foreign resident company to foreign parent company as the foreign resident company has not ceased to be a wholly-owned subsidiary of the company, being foreign parent company, that was the ultimate holding company of the group at the time of the earlier rollover.
 Facts
 Prior to a group restructure, the corporate structure of the group was represented as:
-
 
 All companies in the group structure are foreign resident companies except for A Company who is an Australian resident company.
 Under the group restructure, Z Company transferred its shares in Recipient Company to Foreign Parent Company.
@@ -48,10 +40,10 @@ In this case, there has been only one earlier transfer for which rollover relief
 CGT event J1 will not happen to Recipient Company upon its shares being transferred to Foreign Parent Company as Recipient Company has not ceased to be a wholly-owned subsidiary of the company, being Foreign Parent Company, which was the ultimate holding company of the group at the time of the earlier rollover.
 Accordingly, CGT event J1 will not happen when the shares in Recipient Company are transferred to the ultimate holding company of the group.
 Date of decision:
-         15 September 2003
+  15 September 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -60,29 +52,25 @@ Income Tax Assessment Act 1997   Subdivision 126-B   section 104-10   s
 Keywords
 
 CGT roll-over relief
-          Company restructuring
-          Non resident entities
-
+ Company restructuring
+ Non resident entities
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         31 October 2003
+  31 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 15 September 2003

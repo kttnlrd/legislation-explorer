@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 - (a) the benefit is an interest of the person in the scheme that is withdrawn on the death of the person or under a relationship agreement arising from an event (the relationship cessation) that occurs when,—
 
-  - (i) for a marriage or civil union of the person, the marriage or civil union is dissolved or the person and the person’s spouse or civil union partner separate or begin to live apart (whether or not they continue to live in the same residence):
+  - (i) for a marriage or civil union of the person, the marriage or civil union is dissolved or the person and the person's spouse or civil union partner separate or begin to live apart (whether or not they continue to live in the same residence):
 
   - (ii) for a de facto relationship of the person, the de facto relationship ends; and
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
   - (ii) derives the foreign superannuation withdrawal in the exemption period referred to in subsection (6):
 
-- (b) section CW 28C (Foreign superannuation withdrawal exceeding given amount), if the foreign superannuation withdrawal is derived in the person’s assessable period referred to in subsection (8), to the extent to which the foreign superannuation withdrawal exceeds—
+- (b) section CW 28C (Foreign superannuation withdrawal exceeding given amount), if the foreign superannuation withdrawal is derived in the person's assessable period referred to in subsection (8), to the extent to which the foreign superannuation withdrawal exceeds—
 
   - (i) the amount referred to in subsection (10) as the assessable withdrawal amount, if the person uses the schedule method; or
 
@@ -98,7 +98,7 @@ compilation_date: 2026-06-06
 
   - (i) the date when the person becomes, for the first time after acquiring the interest in the scheme, a New Zealand resident who owns the interest in the scheme:
 
-  - (ii) the end of the person’s exemption period:
+  - (ii) the end of the person's exemption period:
 
 - (ab) if the person is a resident who is treated under a double tax agreement as being resident in a foreign country or territory when they acquire the interest in the scheme, begins on the date when the person becomes, for the first time after acquiring the interest, a New Zealand resident who is treated under no double tax agreement as being resident in a foreign country or territory and who owns the interest in the scheme:
 
@@ -208,11 +208,11 @@ compilation_date: 2026-06-06
 
 - (a) is made when the person is a New Zealand resident who is treated as a New Zealand resident under all applicable double tax agreements; and
 
-- (b) is made by the person, by the person’s employer, or for the benefit of the person; and
+- (b) is made by the person, by the person's employer, or for the benefit of the person; and
 
 - (c) is required by the rules of the scheme; and
 
-- (d) is subject to employer superannuation contribution tax or fringe benefit tax if made by the person’s employer.
+- (d) is subject to employer superannuation contribution tax or fringe benefit tax if made by the person's employer.
 
 **Interests in superannuation scheme**
 

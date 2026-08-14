@@ -3,26 +3,19 @@ ATO ID 2005/59
 ==================================================
 
 Income Tax
-        Consolidation:  value and loss donor rules - a loss can only be taken into account for the value donor rule or loss donor rule but not both
-        FOI status: may be released
-
+ Consolidation: value and loss donor rules - a loss can only be taken into account for the value donor rule or loss donor rule but not both
+ FOI status: may be released
 
 This ATO ID has been amended to improve clarity.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a choice be made by the transferee, under subsection 707-327(4) of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A), to 'donate' a loss where:
-
-
 
 •the loss is in a bundle of losses that is transferred from a company (the real loss-maker) to the transferee, under Subdivision 707-A of the Income Tax Assessment Act 1997 (ITAA 1997);
 •the transferee makes a choice, under subsection 707-325(5) of the IT(TP)A, to 'donate' modified market value of another company (the value donor) to the real loss-maker, for the purposes of determining the available fraction for the bundle of losses;
@@ -30,14 +23,12 @@ Can a choice be made by the transferee, under subsection 707-327(4) of the Incom
 •the transferee also chooses, under subsection 707-325(5) of the IT(TP)A, to 'donate' modified market value of the real loss-maker to another (third) company whose losses have also been transferred to the transferee under Subdivision 707-A of the ITAA 1997?
 
 Decision
-No.  Subsection 707-327(6) of the IT(TP)A prevents the transferee from making a choice, under subsection 707-327(4) of the IT(TP)A, to treat the loss as if it was included in another bundle of losses.
+No. Subsection 707-327(6) of the IT(TP)A prevents the transferee from making a choice, under subsection 707-327(4) of the IT(TP)A, to treat the loss as if it was included in another bundle of losses.
 Facts
 
 Head Co forms a consolidated group before 1 July 2004. The members of the consolidated group at the time the group forms are Head Co, Donor Co and Sub Co. Head Co and Donor Co were members of the same wholly-owned group prior to 1 July 2000 and Sub Co became a member of the wholly-owned group during the 2000-01 income year.
 At the time the group forms, tax losses are transferred, under Subdivision 707-A of the ITAA 1997, from Head Co and Sub Co to Head Co, as the head company of the consolidated group. The respective income years for which each of these tax losses were originally incurred are shown in the diagram.
 All of the conditions in section 707-325 of the IT(TP)A are satisfied for Donor Co to be a value donor in respect of Head Co and for Head Co to be a value donor in respect of Sub Co. In working out the available fractions for 'Bundle Head Co' and 'Bundle Sub Co', the following 'donations' of value are made:
-
-
 
 •modified market value is added from Donor Co to Head Co; and
 •modified market value is added from Head Co to Sub Co.
@@ -48,8 +39,6 @@ Reasons for Decision
 Subsection 707-327(4) of the IT(TP)A states:
 
 If the transferee mentioned in subsection 707-325(1) chooses, sections 707-310, 707-335 (except paragraph 707-335(2)(a)) and 707-340 of the Income Tax Assessment Act 1997 (and subsections 707-315(3) and (4) of that Act, so far as they relate to those sections) operate as if, at the initial transfer time:
-
-
 
 (a)the bundle of losses included the loss; and
 (b)the loss was not included in any other bundle of losses.
@@ -70,8 +59,6 @@ This means that a loss that provided a basis for section 707-325 to apply in rel
 
 Effectively, subsection 707-327(6) of the IT(TP)A prevents a choice being made under subsection 707-327(4) of the IT(TP)A to donate a loss from the value donor bundle if, in a separate application of section 707-325 of the IT(TP)A:
 
-
-
 •modified market value has been donated to the value donor in its capacity as a real loss maker; and
 •the loss is covered by paragraphs 707-325(1)(d) and 707-325(1)(e) and subsection 707-325(2) of the IT(TP)A (that is, the loss is included in the 'total of real loss-maker's Division 170 losses in bundle' in the application of the formula in subsection 707-325(3) of the IT(TP)A).
 
@@ -79,10 +66,10 @@ Head Co is a real loss-maker in relation to the donation of modified market valu
 In other words, because both of the losses in Bundle Head Co are Division 170 losses in respect of Donor Co, those losses cannot be donated to another bundle of losses.
 Head Co, as the transferee, cannot make a choice, under subsection 707-327(4) of the IT(TP)A, to treat the tax loss (that was originally incurred by Head Co for the 2001-02 income year) in Bundle Head Co as if it was included in Bundle Sub Co because subsection 707-327(6) of the IT(TP)A prevents this choice being made in respect of this loss.
 Date of decision:
-         10 February 2005
+  10 February 2005
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -92,25 +79,24 @@ Income Tax (Transitional Provisions) Act 1997   section 707-325   paragrap
 Keywords
 
 Available fraction
-          Bundle of losses
-          Consolidation - joining
-          Consolidation - losses
-          Joining entity
-          Joining time
-          Modified market value
-          Transfer of losses
-          Value donor
-          Wholly owned
-
+ Bundle of losses
+ Consolidation - joining
+ Consolidation - losses
+ Joining entity
+ Joining time
+ Modified market value
+ Transfer of losses
+ Value donor
+ Wholly owned
 
 Siebel/TDMS Reference Number:
-         4354993
+  4354993
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         18 February 2005
+  18 February 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

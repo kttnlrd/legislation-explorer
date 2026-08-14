@@ -13,7 +13,7 @@ The only criteria are that there must be something that can be identiﬁed as a 
 
 Examples of residual beneﬁts are free or discounted services, such as travel or the performance of work, the use of property, the provision of insurance coverage (eg CR 2004/113 and CR 2005/103), the provision of vehicles that are not cars (eg vehicles designed to carry more than one tonne or 9 or more passengers, hire cars, and e-bikes: CR 2015/80) and use of a travel smartcard provided by the employer (CR 2016/58).
 
-Speciﬁcally, the provision of reticulated gas or electricity is a residual beneﬁt (s 156), as is the provision of a car used for taxi travel, rental car or motor cycle (¶35-150). Where the provision of a taxi by an employer gives rise to a taxable beneﬁt, the value of the beneﬁt is the amount paid to the taxi operator and does not include any additional service charges (eg Cabcharge) referable to the taxi fare (National Australia Bank 93 ATC 4914; [1993] FCA 531). A free loan establishment service provided by a bank to an employee, being a service for which the bank charges customers, gives rise to a residual beneﬁt (Westpac Banking Corporation 96 ATC 5021), as does the provision of investment services, chauﬀeur services (ID 2003/498) and the use of the employer’s electronic road toll tag. In Kumagai Gumi Co 99 ATC 4316; [1999] FCA 235, the payment by a foreign company of the Australian income tax liabilities of Japanese executives transferred to Australia gave rise to a residual fringe beneﬁt.
+Speciﬁcally, the provision of reticulated gas or electricity is a residual beneﬁt (s 156), as is the provision of a car used for taxi travel, rental car or motor cycle (¶35-150). Where the provision of a taxi by an employer gives rise to a taxable beneﬁt, the value of the beneﬁt is the amount paid to the taxi operator and does not include any additional service charges (eg Cabcharge) referable to the taxi fare (National Australia Bank 93 ATC 4914; [1993] FCA 531). A free loan establishment service provided by a bank to an employee, being a service for which the bank charges customers, gives rise to a residual beneﬁt (Westpac Banking Corporation 96 ATC 5021), as does the provision of investment services, chauﬀeur services (ID 2003/498) and the use of the employer's electronic road toll tag. In Kumagai Gumi Co 99 ATC 4316; [1999] FCA 235, the payment by a foreign company of the Australian income tax liabilities of Japanese executives transferred to Australia gave rise to a residual fringe beneﬁt.
 
 In cases where property is provided at the same time as a residual beneﬁt (eg spare parts are provided when a television set is repaired), the 2 beneﬁts are treated as one residual beneﬁt if the provider is in the business of supplying such goods and services (s 153). If the goods are supplied by one provider and the services by another, the 2 types of beneﬁt are valued separately.
 
@@ -23,7 +23,7 @@ In some cases, the beneﬁt arises when the time for payment for the beneﬁt is
 
 - the beneﬁt is a continuing one which would normally be billed on a regular basis, and
 
-- the same services are provided to members of the public in the ordinary course of the employer’s
+- the same services are provided to members of the public in the ordinary course of the employer's
 
   business.
 

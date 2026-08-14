@@ -3,23 +3,18 @@ ATO ID 2009/16
 ==================================================
 
 Income Tax
-        Foreign exchange (forex) gains and losses: bond maturity
-        FOI status: may be released
+ Foreign exchange (forex) gains and losses: bond maturity
+ FOI status: may be released
 
-
-This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd  [2013] FCAFC 77. Refer to the  Decision Impact Statement published on 19 September 2013 in relation to that decision.
+This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd [2013] FCAFC 77. Refer to the Decision Impact Statement published on 19 September 2013 in relation to that decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the redemption at maturity of a foreign currency denominated bond give rise to a currency exchange gain or loss for the purposes of former Division 3B of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) where the bond is redeemed by paying the redemption amount in the same foreign currency that was received on issue of the bond?
@@ -34,8 +29,6 @@ Reasons for Decision
 Under Division 775 of the ITAA 1997, forex realisation event 4 happens when a foreign currency denominated bond is redeemed as the taxpayer ceases to have an obligation to pay foreign currency. However, any forex realisation gain or loss arising as a result of forex realisation event 4 will be disregarded as the obligation arose under an eligible contract (within the meaning of Division 3B of the ITAA 1936) that was entered into before the taxpayer's applicable commencement date and the taxpayer did not make a transitional election under section 775-150 of the ITAA 1997 (subsection 775-165(4) of the ITAA 1997).
 Division 3B of the ITAA 1936 was repealed by the New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003. However, it continues to apply to eligible contracts entered into before the taxpayer's applicable commencement date (within the meaning of Division 775 of the ITAA 1997).
 Generally speaking, for a gain to be assessable or loss to be deductible under Division 3B of the ITAA 1936 the gain or loss must be:
-
-
 
 •made or incurred, respectively, under an eligible contract (paragraphs 82V(2)(a) and 82V(2)(b) of the ITAA 1936)
 •attributable to currency exchange rate fluctuations (subsection 82V(1) of the ITAA 1936, and
@@ -55,10 +48,10 @@ While the existence of any realised currency exchange gain or loss, and whether 
 In particular, the decision in ERA established that the law neither required nor permitted a notional conversion of foreign currency to Australian dollars to calculate a gain or loss for the purposes of the Division where a borrowing and repayment took place on capital account in the same foreign currency.
 The foreign currency debt that arose on issuing the bond was discharged on redemption of the bond by a payment in the same foreign currency. The bond was the eligible contract. However, as the unit of account and unit of payment were in the same foreign currency, on redemption the taxpayer did not realise a gain or loss under the eligible contract that was attributable to any currency exchange rate fluctuation. Therefore the taxpayer did not realise a gain or loss under Division 3B of the ITAA 1936 on redemption of the bond.
 Date of decision:
-         23 March 2009
+  23 March 2009
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -67,42 +60,36 @@ Income Tax Assessment Act 1997   section 775-150   subsection 775-165(4)
 
 Case References:
 
-
 Federal Commissioner of Taxation v. Energy Resources of Australia Limited   (1996) 185 CLR 66   96 ATC 4536   (1996) 33 ATR 52
 
 Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation   (1977) 137 CLR 373   77 ATC 4375   (1977) 7 ATR 716
 
 FC of T v. Hunter Douglas Ltd   83 ATC 4562   (1983) 14 ATR 629
 
-
 Keywords
 
 Corporate bonds
-          Foreign currency
-          Foreign currency translation
-          Foreign exchange gains and losses
-          Foreign exchange transactions
-
+ Foreign currency
+ Foreign currency translation
+ Foreign exchange gains and losses
+ Foreign exchange transactions
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         27 March 2009
+  27 March 2009
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 23 March 2009

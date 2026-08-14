@@ -7,9 +7,9 @@ paragraph: "¶12-300"
 ---
 # involuntary event ¶12-300
 
-If the taxpayer only receives another asset (or assets) for the event happening (due to the compulsory acquisition, loss or destruction of an asset) and chooses to take advantage of the roll-over, a capital gain made from the original asset is disregarded (s 124-90). If the original asset is a post-CGT asset, the ﬁrst element of the new asset’s cost base (and reduced cost base) is the same as the original asset’s cost base (and reduced cost base) at the time of the CGT event. On the other hand, if the original asset is a pre-CGT asset, the new asset is also taken to be a pre-CGT asset.
+If the taxpayer only receives another asset (or assets) for the event happening (due to the compulsory acquisition, loss or destruction of an asset) and chooses to take advantage of the roll-over, a capital gain made from the original asset is disregarded (s 124-90). If the original asset is a post-CGT asset, the ﬁrst element of the new asset's cost base (and reduced cost base) is the same as the original asset's cost base (and reduced cost base) at the time of the CGT event. On the other hand, if the original asset is a pre-CGT asset, the new asset is also taken to be a pre-CGT asset.
 
-Example Roberto bought land for $180,000. The following year, the government compulsorily acquired it and gave him some diﬀerent land in return. Any capital gain Roberto makes from the original land is disregarded. If the cost base of the original land when it is compulsorily acquired is $190,000, the ﬁrst element of the new land’s cost base is $190,000.
+Example Roberto bought land for $180,000. The following year, the government compulsorily acquired it and gave him some diﬀerent land in return. Any capital gain Roberto makes from the original land is disregarded. If the cost base of the original land when it is compulsorily acquired is $190,000, the ﬁrst element of the new land's cost base is $190,000.
 
 There is no restriction on the number of replacement assets (TD 94/77).
 

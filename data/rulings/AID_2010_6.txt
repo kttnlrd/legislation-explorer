@@ -3,22 +3,18 @@ ATO ID 2010/6
 ==================================================
 
 Goods and Services Tax
-        GST and decreasing adjustments for supplies arising from terminated hire purchase agreements with underlying securitisation arrangements
-        FOI status: may be released
-
+ GST and decreasing adjustments for supplies arising from terminated hire purchase agreements with underlying securitisation arrangements
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does an entity have a GST decreasing adjustment under section 19-55 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) in circumstances where the payment stream relating to a hire purchase (HP) agreement has been equitably assigned to a special purpose trust, and the entity subsequently exercises its right to terminate a hire purchase agreement due to a default by a customer?
@@ -41,8 +37,6 @@ Paragraph 44 of that ruling provides that the assignment of a payment stream doe
 Division 19 of the GST Act explains the meaning of an adjustment event and the circumstances when an entity will have an adjustment.
 Subsection 19-10(1) of the GST Act provides that an adjustment event is any event which has the effect of:
 
-
-
 (a)cancelling a supply or acquisition; or
 (b)changing the consideration for a supply or acquisition; or
 (c)causing a supply or acquisition to become, or stop being, a taxable supply or creditable acquisition.
@@ -51,8 +45,6 @@ When a customer defaults and the goods are repossessed, the HP agreement is term
 Accordingly, the entity has an adjustment event under paragraph 19-10(1)(b) of the GST Act as the consideration for the relevant supply has changed.
 Section 19-40 of the GST Act provides that an entity has an adjustment for a supply for which it is liable to pay GST if:
 
-
-
 (a)in relation to the supply, one or more adjustment events occur during a tax period, and
 (b)GST on the supply was attributable to an earlier tax period, and
 (c)as a result of those adjustment events, the previously attributed GST amount for the supply no longer reflects the amount of GST on the supply (the corrected GST amount), taking into account any change in circumstances that has given rise to an adjustment for the supply under this Subdivision or Division 21 of the GST Act.
@@ -60,16 +52,14 @@ Section 19-40 of the GST Act provides that an entity has an adjustment for a sup
 The entity has attributed the GST on the supply of the goods under the HP agreement in an earlier tax period and, as a result of the adjustment event, the previously attributed GST amount for the supply no longer reflects the amount of GST on the supply. Therefore, all the requirements in section 19-40 of the GST Act have been met.
 Section 19-55 of the GST Act provides that if the correct amount of GST is less than the previously attributed amount, the supplier is entitled to a decreasing adjustment. Accordingly, the entity will be entitled to a decreasing adjustment under section 19-55 of the GST Act in respect of the HP agreement terminated, regardless of whether the rights to the payment stream under the HP agreement were assigned to the special purpose trust at the time of termination.
 
-
-
 Note
-                : in the circumstances described above, if the goods supplied are a luxury car, the entity will be entitled to a decreasing luxury car tax adjustment (under section 15-25 of the A New Tax System (Luxury Car Tax) Act 1999) of the luxury car tax that was paid by the entity.
+ : in the circumstances described above, if the goods supplied are a luxury car, the entity will be entitled to a decreasing luxury car tax adjustment (under section 15-25 of the A New Tax System (Luxury Car Tax) Act 1999) of the luxury car tax that was paid by the entity.
 
 Date of decision:
-         28 September 2009
+  28 September 2009
 
 Year of income:
-           
+  
 
 Legislative References:
 
@@ -89,19 +79,18 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST hire purchase
-          Adjustments
-          Assignment of rights & entitlements
-
+ GST hire purchase
+ Adjustments
+ Assignment of rights & entitlements
 
 Siebel/TDMS Reference Number:
-         6273213
+  6273213
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         8 January 2010
+  8 January 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

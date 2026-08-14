@@ -7,7 +7,7 @@ paragraph: "¶19-220"
 ---
 # Life memberships or rights ¶19-220
 
-Special rules apply to life memberships. These also apply to other agreements for rights that are granted or exercisable for the rest of an individual’s life (Transition Act, s 14).
+Special rules apply to life memberships. These also apply to other agreements for rights that are granted or exercisable for the rest of an individual's life (Transition Act, s 14).
 
 If the right was granted or first exercisable before 1 July 2000, the GST consequences depend on:
 

@@ -11,7 +11,7 @@ Worked example: CGT small business concessions on the sale of shares or units Is
 
 The company has 2 equal shareholders: Freddy Bee and the Buzz Family Trust (BFZ). On 14 May 2025, each shareholder agreed to sell their 50% share of Bumble Pty Ltd for $1.5 million. Settlement occurred on 27 June 2025.
 
-The shareholders have owned Bumble since it was formed in 2012. Throughout that period, the total market value of the company’s active assets and cash/financial instruments inherently connected with Bumble’s business has amounted to at least 80% of Bumble’s total assets.
+The shareholders have owned Bumble since it was formed in 2012. Throughout that period, the total market value of the company's active assets and cash/financial instruments inherently connected with Bumble's business has amounted to at least 80% of Bumble's total assets.
 
 BFZ satisfies the $6 million Maximum Net Asset Value (MNAV) test. During the 2024–25 income year, the trustees of BFZ distributed all the trust income of BFZ, in equal proportions, to Rod and Jane.
 
@@ -23,7 +23,7 @@ Solution If a CGT asset is a share in a company or an interest in a trust (the o
 
 The following additional basic conditions must be satisfied:
 
-- The shares or units in the object entity must satisfy the new “modified active asset test” that looks
+- The shares or units in the object entity must satisfy the new "modified active asset test" that looks
 
   through shares in companies and unit trusts to the activities and assets of the underlying entities, if
 
@@ -33,9 +33,9 @@ The following additional basic conditions must be satisfied:
 
   always achieve the same result. However, where the object entity does hold such shares or units,
 
-  those shares or units are “looked through” (ie ignored) and assets held by that other company or trust
+  those shares or units are "looked through" (ie ignored) and assets held by that other company or trust
 
-(the “later entity”) are taken into account.
+(the "later entity") are taken into account.
 
 - If the taxpayer triggering the CGT event (ie the share or unit holder) does not satisfy the MNAV test,
 
@@ -45,7 +45,7 @@ The following additional basic conditions must be satisfied:
 
   – be a CGT small business entity for the income year, or
 
-– satisfy a modified MNAV test (s 152-10(2)(c)) using a modified rule to determine whether entities are “connected with” other entities under s 328-125 with the following assumptions: (1) the turnover or assets of entities that may control the object entity are disregarded (2) an entity is treated as controlling another entity if it has at least a 20% (instead of 40%) control percentage in that other entity, and (3) any determination by the Commissioner under s 328-125(6) to treat certain entities as not controlling others are disregarded.
+– satisfy a modified MNAV test (s 152-10(2)(c)) using a modified rule to determine whether entities are "connected with" other entities under s 328-125 with the following assumptions: (1) the turnover or assets of entities that may control the object entity are disregarded (2) an entity is treated as controlling another entity if it has at least a 20% (instead of 40%) control percentage in that other entity, and (3) any determination by the Commissioner under s 328-125(6) to treat certain entities as not controlling others are disregarded.
 
 The basic condition that has always existed in relation to the disposal of shares and units (s 152-10(2)) must also be satisfied, namely:
 
@@ -55,9 +55,9 @@ The basic condition that has always existed in relation to the disposal of share
 
   is either:
 
-– a significant individual in the object entity, that is, an individual with a “small business participation percentage” (SBPP) in the object entity of at least 20%. Broadly the SBPP equates to the taxpayer’s direct or indirect ownership interest in the entity, or – a spouse of a significant individual, with a SBPP of more than 0% in the object entity.
+– a significant individual in the object entity, that is, an individual with a "small business participation percentage" (SBPP) in the object entity of at least 20%. Broadly the SBPP equates to the taxpayer's direct or indirect ownership interest in the entity, or – a spouse of a significant individual, with a SBPP of more than 0% in the object entity.
 
-- Where a company or trust triggers the CGT event, it must satisfy the “90% test”, meaning that, just
+- Where a company or trust triggers the CGT event, it must satisfy the "90% test", meaning that, just
 
   before the CGT event, CGT concession stakeholders of the object entity have a SBPP of at least 90%
 
@@ -69,7 +69,7 @@ In respect of the additional basic conditions that apply on the sale of a share 
 
 - The shares in Bumble satisfy the modified active asset condition since Bumble does not own any
 
-  interests in “later entities” (meaning that the 2 tests are effectively the same).
+  interests in "later entities" (meaning that the 2 tests are effectively the same).
 
 - The BFZ satisfies the MNAV test so does not need to consider whether it was carrying on a business
 
@@ -83,7 +83,7 @@ In respect of the additional basic conditions that apply on the sale of a share 
 
 - The BFZ satisfies the 90% test just before the CGT event. This is because Rod and Jane each have
 
-  a SBPP in Bumble of 25% (being a 50% interest in BFZ multiplied by BFZ’s 50% interest in Bumble).
+  a SBPP in Bumble of 25% (being a 50% interest in BFZ multiplied by BFZ's 50% interest in Bumble).
 
 They are significant individuals (each has a SBPP of at least 20%) and therefore are CGT concession stakeholders in Bumble. So, CGT concession stakeholders in Bumble together have a SBPP in BFZ of 100% (in excess of the 90% test).
 

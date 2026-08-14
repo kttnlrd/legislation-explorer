@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Provisional tax payable in 3 instalments**
 
-**(3)**  A person pays provisional tax in 3 instalments on the interest instalment dates for the tax year in the months set out in schedule 3, part A, columns B, D, and F (Payment of provisional tax and terminal tax) for the person’s corresponding income year. The amount of each instalment is calculated under section RC 10. Subsection (4) overrides this subsection.
+**(3)**  A person pays provisional tax in 3 instalments on the interest instalment dates for the tax year in the months set out in schedule 3, part A, columns B, D, and F (Payment of provisional tax and terminal tax) for the person's corresponding income year. The amount of each instalment is calculated under section RC 10. Subsection (4) overrides this subsection.
 
 **Exclusions**
 

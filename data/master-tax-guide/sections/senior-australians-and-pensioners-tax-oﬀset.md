@@ -7,11 +7,11 @@ paragraph: "¶15-310"
 ---
 # Senior Australians and pensioners tax oﬀset ¶15-310
 
-Certain low income aged persons, both pensioners and “self-funded retirees”, are entitled to a special additional low income aged persons and pensioner’s rebate (ITAA36 s 160AAAA) generally referred to as the seniors and pensioners tax oﬀset (SAPTO).
+Certain low income aged persons, both pensioners and "self-funded retirees", are entitled to a special additional low income aged persons and pensioner's rebate (ITAA36 s 160AAAA) generally referred to as the seniors and pensioners tax oﬀset (SAPTO).
 
 - a taxpayer who, at some point during the income year: (a) is eligible for a pension, allowance or
 
-  beneﬁt under the Veterans’ Entitlements Act 1986; (b) has reached veteran pension age under that
+  beneﬁt under the Veterans' Entitlements Act 1986; (b) has reached veteran pension age under that
 
 - a taxpayer who, at some point during the income year: (a) is qualiﬁed for an age pension under
 
@@ -23,11 +23,11 @@ Certain low income aged persons, both pensioners and “self-funded retirees”,
 
   pension, income support supplement or Defence Force Income Support Allowance or a like
 
-  payment under the Veterans’ Entitlements Act; and the taxpayer is not in gaol.
+  payment under the Veterans' Entitlements Act; and the taxpayer is not in gaol.
 
 This therefore includes: (a) persons who were eligible for a veterans pension, allowance or beneﬁt but did not receive it, eg because of the assets or income tests; and (b) persons who did not satisfy the residency criteria for an age pension but were eligible for that pension on alternative grounds.
 
-Rebate income The SAPTO is calculated based on a taxpayer’s “rebate income” which is deﬁned in ITAA36 s 6 as the sum of the following amounts of an individual for a year of income:
+Rebate income The SAPTO is calculated based on a taxpayer's "rebate income" which is deﬁned in ITAA36 s 6 as the sum of the following amounts of an individual for a year of income:
 
 - taxable income
 
@@ -39,7 +39,7 @@ Rebate income The SAPTO is calculated based on a taxpayer’s “rebate income�
 
   Calculation of offset
 
-To be eligible for the oﬀset, the person must have rebate income below a certain cut-out threshold. The maximum amount of the oﬀset, and the cut-oﬀ threshold, vary according to the taxpayer’s marital status (ITR15 regs 9; 10; 11). The levels for 2024–25 are unchanged:
+To be eligible for the oﬀset, the person must have rebate income below a certain cut-out threshold. The maximum amount of the oﬀset, and the cut-oﬀ threshold, vary according to the taxpayer's marital status (ITR15 regs 9; 10; 11). The levels for 2024–25 are unchanged:
 
 - For single persons the maximum oﬀset is $2,230. Combined with the LITO (¶15-300), no tax is
 
@@ -47,7 +47,7 @@ To be eligible for the oﬀset, the person must have rebate income below a certa
 
   each dollar of rebate income in excess of $32,279 — the shade-out threshold. This means that
 
-  once the person’s rebate income reaches $50,119, known as the cut-out threshold, no part of the
+  once the person's rebate income reaches $50,119, known as the cut-out threshold, no part of the
 
   oﬀset is available.
 
@@ -57,17 +57,17 @@ To be eligible for the oﬀset, the person must have rebate income below a certa
 
   by 12.5 cents for each dollar of rebate income in excess of $28,974. This means that once the
 
-  partner’s rebate income reaches $41,790, no part of the oﬀset is available to that partner.
+  partner's rebate income reaches $41,790, no part of the oﬀset is available to that partner.
 
 - For each partner of an illness-separated couple, the maximum oﬀset is $2,040. Combined with the
 
-LITO, no tax is payable by a partner with a rebate income of $31,279 or less. The maximum oﬀset is reduced by 12.5 cents for each dollar of rebate income in excess of $31,279. This means that once the partner’s rebate income reaches $47,599, no part of the oﬀset is available to that partner.
+LITO, no tax is payable by a partner with a rebate income of $31,279 or less. The maximum oﬀset is reduced by 12.5 cents for each dollar of rebate income in excess of $31,279. This means that once the partner's rebate income reaches $47,599, no part of the oﬀset is available to that partner.
 
-The shade-out and cut-out thresholds for SAPTO have been amended to ensure that they match the thresholds for the low income tax rebate. For the purpose of determining whether a taxpayer who has a spouse satisﬁes the cut-oﬀ threshold, the taxpayer’s rebate income is taken to be half the couple’s combined taxable incomes. Accordingly, for 2024–25, for couples, the combined rebate income threshold is $83,580 and, for illness separated couples, it is $95,198. However, the taxpayer’s actual rebate income is used in calculating the amount of the oﬀset.
+The shade-out and cut-out thresholds for SAPTO have been amended to ensure that they match the thresholds for the low income tax rebate. For the purpose of determining whether a taxpayer who has a spouse satisﬁes the cut-oﬀ threshold, the taxpayer's rebate income is taken to be half the couple's combined taxable incomes. Accordingly, for 2024–25, for couples, the combined rebate income threshold is $83,580 and, for illness separated couples, it is $95,198. However, the taxpayer's actual rebate income is used in calculating the amount of the oﬀset.
 
 Example James and Katie are a married couple. For 2024–25, James has a rebate income of $38,000 and Katie $22,000. Their combined rebate income is therefore $60,000. For the purpose of determining whether they satisfy the cut-oﬀ threshold, each is taken to have rebate income of ½ × $60,000 = $30,000. As this is less than the relevant cut-oﬀ threshold ($41,790), each is eligible for the oﬀset.
 
-As James’ actual rebate income ($38,000) exceeds $28,974, his oﬀset is shaded-in as follows: $1,602 − 1/8 × ($38,000 − $28,974) = $473 As Katie’s actual rebate income ($22,000) is less than $28,974, she is entitled to the maximum oﬀset of $1,602.
+As James' actual rebate income ($38,000) exceeds $28,974, his oﬀset is shaded-in as follows: $1,602 − 1/8 × ($38,000 − $28,974) = $473 As Katie's actual rebate income ($22,000) is less than $28,974, she is entitled to the maximum oﬀset of $1,602.
 
 A person who was married for only part of the year can claim on whatever basis gives the bigger rebate entitlement.
 
@@ -79,7 +79,7 @@ The oﬀset is available on assessment. However taxpayers entitled to the oﬀse
 
 Transfers of unused offsets In accordance with the general rule, the oﬀset is limited to the amount of tax otherwise payable (¶15-010).
 
-A person can therefore have some “unused” oﬀset if their tax is very low. The beneﬁt of this is normally lost.
+A person can therefore have some "unused" oﬀset if their tax is very low. The beneﬁt of this is normally lost.
 
 However, if a partnered person is eligible for the oﬀset, and their spouse is eligible for the oﬀset, there is provision for some or all of the unused oﬀset/rebate to be transferred to the other person, in reduction of their tax (ITR15 reg 12). In determining the amount of unused oﬀset/rebate, no other oﬀsets or credits are taken into account.
 

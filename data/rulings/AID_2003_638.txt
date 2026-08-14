@@ -3,18 +3,14 @@ ATO ID 2003/638
 ==================================================
 
 Income Tax
-        CGT: Capital proceeds payable by instalments - not all received - application of CGT event C2
-        FOI status: may be released
-
-
+ CGT: Capital proceeds payable by instalments - not all received - application of CGT event C2
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where the 'consideration in respect of the disposal of an asset' is payable by instalments over time, does CGT event C2 in section 104-25 of the Income Tax Assessment Act 1997 (ITAA 1997) happen to the debt owing to the vendor if the vendor later agrees to a reduction in the amount owing?
@@ -31,10 +27,10 @@ Whether a capital gain or capital loss is made from CGT event C2 happening to th
 In this particular case, the capital proceeds from CGT event C2 happening to the debt owing to the vendor is the new reduced amount the vendor is entitled to receive. If that reduced amount is less than the market value of the debt previously owing to the vendor, then the capital proceeds are replaced with that market value.
 The ways in which a taxpayer may obtain acceptable valuations for CGT purposes can be found in Taxation Determination TD10.
 Date of decision:
-         14 October 2002
+  14 October 2002
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -53,17 +49,16 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital gains tax
-          Capital proceeds
-
+ Capital proceeds
 
 Siebel/TDMS Reference Number:
-         334671
+  334671
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         25 July 2003
+  25 July 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

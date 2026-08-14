@@ -3,18 +3,14 @@ ATO ID 2012/64
 ==================================================
 
 Income Tax
-        Tax losses: savings rule - deductions and capital losses that 'could occur in future'
-        FOI status: may be released
-
-
+ Tax losses: savings rule - deductions and capital losses that 'could occur in future'
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In determining the extent to which a tax loss has been reflected in deductions, capital losses, or reduced assessable income for the purposes of applying subsection 166-272(8) of the Income Tax Assessment Act 1997 (ITAA 1997), does the reference to deductions and capital losses that 'could occur in future' mean deductions and capital losses that are affected by the operation of Subdivision 170-D of the ITAA 1997 or another provision with a similar effect?
@@ -29,12 +25,8 @@ No other CGT events happened during the test period in relation to any direct eq
 Reasons for Decision
 Subsection 166-272(8) of the ITAA 1997 provides that if any of the conditions in section 166-145 of the ITAA 1997 have not been satisfied because of the operation of the same share same interest rule in subsection 166-272(2) of the ITAA 1997, those conditions are taken to have been satisfied if:
 
-
-
 ...
 (b)the tested company has information from which it would be reasonable to conclude that less than 50% of:
-
-
 
 (i)the *tax loss; or
 (ii)the *notional loss; or
@@ -56,10 +48,10 @@ The savings provision will not apply if the loss will be duplicated in the futur
 
 However, the phrase 'could occur in future' in paragraph 166-272(8)(b) of the ITAA 1997 does not refer to a situation where a roll-over has been chosen by an entity in respect of a CGT event that gave rise to a capital loss.
 Date of decision:
-         10 July 2012
+  10 July 2012
 
 Year of income:
-           Year ended 30 June 2010, Year ended 30 June 2011, Year ended 30 June 2012 and Year ending 30 June 2013
+  Year ended 30 June 2010, Year ended 30 June 2011, Year ended 30 June 2012 and Year ending 30 June 2013
 
 Legislative References:
 
@@ -76,23 +68,21 @@ Other References:
 
  Explanatory Memorandum to the Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Bill 2005
 
-
 Keywords
 
 Tax loss
-          Deferral
-          CGT event
-          'Could occur in future'
-
+ Deferral
+ CGT event
+ 'Could occur in future'
 
 Siebel/TDMS Reference Number:
-         1-3ZVOE00
+  1-3ZVOE00
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         13 July 2012
+  13 July 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -9,7 +9,7 @@ paragraph: "¶24-320"
 
 All debts notiﬁed on an activity statement (¶24-200) and any associated payments and credit entitlements for that business can be recorded on an RBA.
 
-An RBA may be established for any entity. “Entity” means a company, a partnership, a person in the capacity of a trustee, a body politic, a corporation sole, and any other person. The Commissioner may establish RBAs on any basis that he determines, eg for diﬀerent businesses conducted by the same entity, for diﬀerent parts of the same business or for diﬀerent periods (TAA s 8AAZC). For instance, a company with several operating divisions may have separate RBAs established for each division. In that case, the company’s outstanding tax debt at a particular time would be determined by aggregating the “RBA deﬁcit debts” (¶24-340) in the company’s RBAs for each RBA class.
+An RBA may be established for any entity. "Entity" means a company, a partnership, a person in the capacity of a trustee, a body politic, a corporation sole, and any other person. The Commissioner may establish RBAs on any basis that he determines, eg for diﬀerent businesses conducted by the same entity, for diﬀerent parts of the same business or for diﬀerent periods (TAA s 8AAZC). For instance, a company with several operating divisions may have separate RBAs established for each division. In that case, the company's outstanding tax debt at a particular time would be determined by aggregating the "RBA deﬁcit debts" (¶24-340) in the company's RBAs for each RBA class.
 
 A person who is a trustee in more than one capacity is treated, for RBA purposes, as a separate entity in relation to each of those capacities.
 

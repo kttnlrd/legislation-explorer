@@ -7,7 +7,7 @@ paragraph: "¶2-220"
 ---
 # Calculating the tax of minors ¶2-220
 
-Where a minor derives income subject to the special rules, that income (net of deductions relating to the income) is generally taxed at the top marginal rate. The net income subject to the special rules is called “eligible taxable income”.
+Where a minor derives income subject to the special rules, that income (net of deductions relating to the income) is generally taxed at the top marginal rate. The net income subject to the special rules is called "eligible taxable income".
 
 Any taxable income of the minor that is not eligible taxable income is taxed at general resident rates where the minor is a resident (or at non-resident rates where the minor is a prescribed non-resident).
 
@@ -19,9 +19,9 @@ Example 2 Nathan, a minor, has a taxable income of $20,000 for 2024–25 of whic
 
 As (a) exceeds (b), tax payable on the $1,200 of eligible taxable income is $517.44. The total tax payable by Nathan would be $517.44 (tax on eligible taxable income) plus $114 (tax on taxable income other than eligible taxable income). The total tax payable by Nathan would be $631.44, less any rebates or credits. (He is not liable for the Medicare levy as his taxable income does not exceed the levy threshold.) (3) Where the eligible taxable income exceeds $1,307, tax is payable on the whole of the eligible taxable income at the rate of 45%.
 
-Example 3 Rohan’s only income is eligible taxable income of $40,000. Tax payable for 2024–25 (excluding Medicare levy) is $18,000 (ie 45% of $40,000) (less any rebates or credits).
+Example 3 Rohan's only income is eligible taxable income of $40,000. Tax payable for 2024–25 (excluding Medicare levy) is $18,000 (ie 45% of $40,000) (less any rebates or credits).
 
-Example 4 Brad’s income for 2024–25 consists of eligible taxable income of $15,000 and other taxable income of $10,000. The tax payable, excluding any rebates or credits, is: Tax on $15,000 at 45%....................................                                                                   $6,750 Tax on $10,000 at ordinary resident rates (¶42-000)....................................                                          0 Tax payable (excluding Medicare levy)....................................                                          $6,750 Prescribed non-residents Where the minor is a “prescribed non-resident” (¶2-120), the $416 exemption threshold does not apply. The eligible taxable income is taxed as follows (ITRA s 15; sch 11).
+Example 4 Brad's income for 2024–25 consists of eligible taxable income of $15,000 and other taxable income of $10,000. The tax payable, excluding any rebates or credits, is: Tax on $15,000 at 45%....................................                                                                   $6,750 Tax on $10,000 at ordinary resident rates (¶42-000)....................................                                          0 Tax payable (excluding Medicare levy)....................................                                          $6,750 Prescribed non-residents Where the minor is a "prescribed non-resident" (¶2-120), the $416 exemption threshold does not apply. The eligible taxable income is taxed as follows (ITRA s 15; sch 11).
 
 - If the eligible taxable income does not exceed $416, the tax payable on that income is the greater
 

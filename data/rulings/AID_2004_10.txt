@@ -3,23 +3,18 @@ ATO ID 2004/10
 ==================================================
 
 Income Tax
-        Australian source income: commodity purchase and sale
-        FOI status: may be released
+ Australian source income: commodity purchase and sale
+ FOI status: may be released
 
-
-This ATO ID is withdrawn because, following legislative changes which became effective on 14 September 2006, it is no longer current for years of income happening on or after 30 June 2006. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions dealing with the application of section 42 of the  Income Tax Assessment Act 1936 (ITAA 1936) occurring before that date.
+This ATO ID is withdrawn because, following legislative changes which became effective on 14 September 2006, it is no longer current for years of income happening on or after 30 June 2006. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions dealing with the application of section 42 of the Income Tax Assessment Act 1936 (ITAA 1936) occurring before that date.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is any profit derived by a non-resident company from commodity purchases from Australian resident companies, and from entering into commodity hedges with Australian counterparties, assessable in Australia, pursuant to section 42 of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -33,8 +28,6 @@ Company C has two options to close out forward sale contracts. It can buy from A
 For physical closeouts, the company will purchase the commodity from Australian entities at the spot price.
 The gain or loss from the closeout of the contract will be the difference between the contract price received by the company, and the spot price paid by the company multiplied by the number of units of the commodity involved.
 Company C does not have any presence in Australia. It does not:
-
-
 
 • render any services for or on behalf of Australian entities
 • receive any fee income from Australian entities
@@ -54,21 +47,17 @@ Section 42
 
 42 In any case, not specified in the preceding sections of this subdivision, where-
 
-
-
 (a) by reason of the manufacture, production, or purchase of goods in one country and their sale in another
 (b) by reason of successive steps of production or manufacture in different countries; or
 (c) by reason of the making of contracts in one country and their performance in another,
 
 or for any other reason whatever, a question arises whether the whole or any part (and, if a part, what part) of any profit is
-              derived by a person from sources in Australia,
-               the question shall be determined in accordance with the regulations, or if there is no regulation applying to the case, shall be determined by the Commissioner. [emphasis added]
+ derived by a person from sources in Australia,
+ the question shall be determined in accordance with the regulations, or if there is no regulation applying to the case, shall be determined by the Commissioner. [emphasis added]
 
 Paragraphs (a) and (b) of the section do not apply to the present case. It could be argued that paragraph (c) could apply. However, the latter wording of the section is the part of the section which is most likely to have application to this case. Section 42 of the ITAA 1936 is worded widely enough to apply to the commodity transactions entered into by Company C. As no regulations currently exist which relate to the latter part of the section, the Commissioner must determine how much of the profits under consideration have an Australian source.
 There are no statutory source rules which can apply to the income derived by Company C from entering into commodity forward contracts. Source is a 'practical hard matter of fact' - Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183 - and can only be determined by considering all the facts surrounding the derivation of the income.
 The case law on the allocation of source has considered the following kinds of transactions
-
-
 
 • the buying and selling of goods
 • the manufacture and sale of goods
@@ -79,14 +68,12 @@ The case law on the allocation of source has considered the following kinds of t
 In order to determine how to allocate profit to a particular source, it is first necessary to determine all the processes which contribute to the earning of the profit and determine the relative importance of each factor in earning the profit - Commissioner of Taxation (NSW) v. Kirk [1900] AC 588, Thorpe Nominees Pty Limited v. FC of T 88 ATC 4886; (1988) 19 ATR 1834.
 Where, as in this case, the business is one of buying and selling goods, the relevant processes which contribute to the earning of the profit are the making of contracts for the purchase and sale of the goods - Michell v. Federal Commissioner of Taxation (1927) 46 CLR 413.
 In such cases, it may be that more weight should be put on the contract for sale than the contract for purchase if the purchase does not give any added value to the goods which were purchased. Although the skill and judgement exercised in the purchase (and presumably sale) of the goods contributes to the profits, they are immaterial in determining the source, since the question is not
-          why
-           but
-          where
-           the profits were made - D & W Murray Limited v. Commissioner of Taxation (WA) (1929) 42 CLR 332.
+ why
+ but
+ where
+ the profits were made - D & W Murray Limited v. Commissioner of Taxation (WA) (1929) 42 CLR 332.
 In Company C's case there is no value added to the commodity in the purchase process. Company C purchases the commodity from Australian companies at prevailing spot prices. It is difficult to see how this purchase can give any added value. The commodity purchased is fully priced and could not be sold in the spot market for any more than the purchase price. This was enough for the judges in to Federal Commissioner of Taxation v. W Angliss & Co Pty Limited (1931) 46 CLR 417 to hold that all the profit came from the sale element of the whole transaction.
 When the contract for sale process is examined, the transaction can be seen to occur in a number of steps, in different locations:
-
-
 
 1.Company C enters into a forward sale agreement with a counterparty (an arms length merchant bank).All negotiations and decisions to enter into forward sales agreements are taken outside Australia. The forward sales agreements are made outside Australia.
 2.Company C acquires the commodity from companies resident in Australia.The contract for acquisition of the commodity by Company C from the resident companies is made in Australia. Title to the commodity passes in Australia. In the case of sales of the raw material, title passes outside Australia.
@@ -96,14 +83,14 @@ When the contract for sale process is examined, the transaction can be seen to o
 
 Of all of these, the only factors that could give rise to an Australian source are those related to the purchase of the commodity by Company C (steps 2 and 3).
 However, the skill or 'value added' that Company C brings is in using their trading expertise in obtaining the best
-          sale
-           price for the commodity they purchase. They also use their capital and assume the risks of the transaction. Therefore, it is logical that the profit from the transaction should be wholly sourced to the factors that relate to the sale rather than the purchase.
+ sale
+ price for the commodity they purchase. They also use their capital and assume the risks of the transaction. Therefore, it is logical that the profit from the transaction should be wholly sourced to the factors that relate to the sale rather than the purchase.
 As all the factors relating to the sale of the commodity take place outside Australia, it follows that the source of the profit from the sale of the commodity is not Australia. Therefore any profit derived is not assessable in Australia pursuant to section 42 of the ITAA 1936.
 Date of decision:
-         8 October 2003
+  8 October 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -111,7 +98,6 @@ Income Tax Assessment Act 1997   subsection 6-5(3)
 Income Tax Assessment Act 1936   section 38   section 39   section 42
 
 Case References:
-
 
 Nathan v. Federal Commissioner of Taxation   (1918) 25 CLR 183
 
@@ -125,35 +111,30 @@ D & W Murray Limited v. Commissioner of Taxation (WA)   (1929) 42 CLR 332
 
 Federal Commissioner of Taxation v. W Angliss & Co Pty Limited   (1931) 46 CLR 417
 
-
 Keywords
 
 Foreign sourced income
-          International tax
-          Hedging
-          Commodity transactions
-          Forward contracts
-
+ International tax
+ Hedging
+ Commodity transactions
+ Forward contracts
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         9 January 2004
+  9 January 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  8 October 2003

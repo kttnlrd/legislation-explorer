@@ -3,21 +3,16 @@ ATO ID 2011/8
 ==================================================
 
 Income Tax
-        Division 7A: Interest component of shortfall in minimum yearly repayment and section 109D of the ITAA 1936
-        FOI status: may be released
-
+ Division 7A: Interest component of shortfall in minimum yearly repayment and section 109D of the ITAA 1936
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a shortfall in a minimum yearly repayment gives rise to a deemed dividend under section 109E of the Income Tax Assessment Act 1936 (ITAA 1936), can a deemed dividend also arise under section 109D of the ITAA 1936 in respect of the proportion of the shortfall comprising unpaid interest?
@@ -31,21 +26,15 @@ No repayment was made on the loan for the income year ended 30 June 2010 and a d
 Reason for Decision
 A private company may be taken to pay a dividend to an entity at the end of one of the private companies years of income under subsection 109D(1) of the ITAA 1936 where:
 
-
-
 (a)the private company makes a loan to the entity during the current year; and
 (b)the loan is not fully repaid before the lodgment day for the current year; and
 (c)Subdivision D does not prevent the private company from being taken to pay a dividend because of the loan at the end of the current year; and
 (d)either:
 
-
-
 (i)the entity is a shareholder in the private company, or an associate of such a shareholder, when the loan is made; or
 (ii)a reasonable person would conclude (having regard to all the circumstances) that the loan is made because the entity has been such a shareholder or associate at some time.
 
 Subdivision D of Division 7A of the ITAA 1936 contains a number of exclusions to the application of subsection 109D(1) of the ITAA 1936. Section 109N of Subdivision D prevents a private company from being taken to pay a dividend where:
-
-
 
 •the loan is made under a written agreement and the rate of interest payable on the loan for the income year after the year in which the loan is made, equals or exceeds the benchmark interest rate for that income year, and
 •the term of the loan does not exceed the maximum term, which is seven years in the case of unsecured loans (refer to subsections 109N(1) and 109N(3) of the ITAA 1936).
@@ -55,8 +44,6 @@ Subsection 109E(5) of the ITAA 1936 provides that the minimum yearly repayment f
 Therefore, where the minimum yearly repayment is not made for an income year, and a deemed dividend arises under subsection 109E(1) of the ITAA 1936, the amount of the deemed dividend will correspond in part to the non-payment of principal due under the contract of loan and in part to the non-payment of interest.
 Subsection 109D(3) of the ITAA 1936 provides that for the purposes of Division 7A, a loan includes:
 
-
-
 (a)an advance of money; and
 (b)a provision of credit or any other form of financial accommodation; and
 (c)a payment of an amount for, on account of, on behalf of or at the request of, an entity if there is an express or implied obligation to repay the amount; and
@@ -64,8 +51,6 @@ Subsection 109D(3) of the ITAA 1936 provides that for the purposes of Division 7
 
 The phrase 'provision of credit' involves allowing time to pay a debt (including by granting a right to defer payment of a debt). A loan itself amounts to the provision of credit (see, for example, the decision of the High Court in Herbert v R[1] where lending money, which necessarily involved allowing time for it to be repaid, was held to be the provision of credit). The provision of credit extends to allowing time to pay any debt, not just that arising under a loan agreement, as is evident from the judgments in Herbert v R
 The following principles for interpreting the phrase 'any other form of financial accommodation' are set out in paragraph 62 of Taxation Determination TD 2022/11 Income tax: Division 7A: when will an unpaid present entitlement or amount held on sub-trust become the provision of 'financial accommodation'?:
-
-
 
 •any other form of financial accommodation is to be construed broadly[2]
 •there must be a consensual arrangement between the parties [3]
@@ -79,10 +64,8 @@ However, the generalia specialibus non derogant rule provides that the specific 
 The specific provision within Division 7A of the ITAA 1936 aimed at treating non-payment of interest on a complying section 109N of the ITAA 1936 loan agreement as a deemed dividend is subsection 109E(1) of the ITAA 1936.
 Therefore, in the circumstances here, subsection 109E(1) of the ITAA 1936 prevails over subsection 109D(1) of the ITAA 1936, meaning only the minimum yearly repayment shortfall in terms of subsection 109E(2) of the ITAA 1936 may give rise to a deemed dividend under Division 7A of the ITAA 1936.
 
-
-
 Note
-                : unpaid interest which forms part of a minimum yearly repayment shortfall in terms of subsection 109E(2) of the ITAA 1936 should not be added to the closing balance of the constituent loan for the applicable income year.
+ : unpaid interest which forms part of a minimum yearly repayment shortfall in terms of subsection 109E(2) of the ITAA 1936 should not be added to the closing balance of the constituent loan for the applicable income year.
 
 Amendment History
 
@@ -94,7 +77,7 @@ Comment
 Reasons for decision
 Removed reference to TR 2010/3 from explanation of 'provision of credit' and updated explanation for 'any other form of financial accommodation' following withdrawal of TR 2010/3.
 
-                  This version was published on 10 August 2022, with effect from 13 July 2022.
+ This version was published on 10 August 2022, with effect from 13 July 2022.
 
 27 February 2015
 Case References
@@ -113,17 +96,16 @@ Commissioner of Taxation v Radilo Enterprises Pty Ltd [1997] FCA 22.
 Corporate Initiatives Pty Ltd v Commissioner Of Taxation [2005] FCAFC 62.
 
 Date of decision:
-         31 December 2010
+  31 December 2010
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 109D   subsection 109D(1)   subsection 109D(3)   section 109E   subsection 109E(1)   subsection 109E(2)   subsection 109E(5)   subsection 109E(6)   section 109N   subsection 109N(1)   subsection 109N(3)
 
 Case References:
-
 
 Commissioner of Taxation v Radilo Enterprises Pty Ltd   [1997] FCA 22   72 FCR 300   97 ATC 4151   34 ATR 635
 
@@ -133,7 +115,6 @@ Herbert v R   [1941] HCA 12   64 CLR 461   [1941] ALR 100
 
 International Litigation Partners Pty Ltd v Chameleon Mining NL (Receivers and Managers Appointed)   [2012] HCA 45   (2012) 246 CLR 455
 
-
 Related Public Rulings (including Determinations)
 
 Taxation Determination TD 2022/11
@@ -141,36 +122,32 @@ Taxation Determination TD 2022/11
 Keywords
 
 Companies
-          Deemed dividends
-          Shortfalls
-          Shareholder loans
-
+ Deemed dividends
+ Shortfalls
+ Shareholder loans
 
 Siebel/TDMS Reference Number:
-         1-2L5TULE; 1-5CYAYA0
+  1-2L5TULE; 1-5CYAYA0
 
 Business Line:
-         Private Wealth
+  Private Wealth
 
 Date of publication:
-         21 January 2011
+  21 January 2011
 
 Date reviewed:
-         10 August 2022
+  10 August 2022
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 31 December 2010

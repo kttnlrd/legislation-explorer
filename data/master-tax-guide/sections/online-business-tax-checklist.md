@@ -51,9 +51,9 @@ paragraph: "¶44-106"
 
 - An FBT exemption applies to certain work-related internet access (¶35-645).
 
-- Existing problems of tax enforcement in relation to undeclared cash dealings (the “shadow
+- Existing problems of tax enforcement in relation to undeclared cash dealings (the "shadow
 
-  economy”) may be increased by the development of electronic payments systems and
+  economy") may be increased by the development of electronic payments systems and
 
   cryptocurrency (¶30-005).
 
@@ -69,7 +69,7 @@ paragraph: "¶44-106"
 
   (¶9-045).
 
-- The ATO conducts an “online selling data matching program” which examines tax compliance by
+- The ATO conducts an "online selling data matching program" which examines tax compliance by
 
   individuals and businesses that sell goods and services through online selling sites (¶25-200).
 
@@ -87,7 +87,7 @@ GST issues For a more comprehensive GST checklist see the Australian Master GST 
 
 - GST generally applies to imported goods with a customs value of no more than $1,000 (¶34-250).
 
-- The “reverse charge” rules may apply where there are acquisitions from overseas, for example
+- The "reverse charge" rules may apply where there are acquisitions from overseas, for example
 
   where computer services are accessed from overseas by an Australian ﬁnancial institution
 

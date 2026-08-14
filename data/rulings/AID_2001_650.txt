@@ -3,23 +3,18 @@ ATO ID 2001/650
 ==================================================
 
 Goods and Services Tax
-        GST and a special levy charged by a body corporate
-        FOI status: may be released
-
+ GST and a special levy charged by a body corporate
+ FOI status: may be released
 
 This ATO ID has been amended to improve clarity
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a body corporate for a residential unit complex, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it charges a special levy to its members?
@@ -31,8 +26,6 @@ A public liability judgment was issued against the entity, which cannot be recov
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
-
-
 
 •it makes a supply for consideration; and
 •the supply is made in the course or furtherance of an enterprise it
@@ -47,7 +40,6 @@ Although the term 'services' is undefined, it clearly comprehends the performanc
 
 The special levy is an additional amount of consideration paid by members for the services provided by the entity, even though the additional consideration is applied to the fulfilment of the entity's obligation in relation to the public liability judgment.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it charges a special levy to its members.
-
 
 [Note: A public liability judgment would not generally be subject to GST. However, when the body corporate passes this expense on to the members (in the form of a special levy), the public liability judgment loses the characteristics of a judgment payment. The body corporate members are providing consideration for the body corporate's supply to them. They are not providing consideration for the public liability judgment.]
 
@@ -68,7 +60,7 @@ References
 Case reference added
 
 Date of decision:
-         7 June 2001
+  7 June 2001
 
 Legislative References:
 
@@ -76,45 +68,39 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section
 
 Case References:
 
-
 Re Body Corporate, Villa Edgewater CTS 23092 and Federal Commissioner of Taxation   2004 ATC 2056   (2004) 55 ATR 1162   [2004] AATA 425
-
 
 Keywords
 
 Goods and services tax
-          GST property and construction
-          GST body corporates
-          GST supplies and acquisitions
-          GST supply
-          Taxable supply
-
+ GST property and construction
+ GST body corporates
+ GST supplies and acquisitions
+ GST supply
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CW212822
+  CW212822
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         29 November 2001
+  29 November 2001
 
 Date reviewed:
-         13 June 2008
+  13 June 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 29 November 2001

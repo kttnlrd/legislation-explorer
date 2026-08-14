@@ -182,9 +182,9 @@ compilation_date: 2026-06-06
 
 **(21)**  An agreement for the sale and purchase of property or services is an excepted financial arrangement, except for a party who makes an election under section EW 8, if—
 
-- (a) all a party’s sales or purchases under the agreement are prepaid; and
+- (a) all a party's sales or purchases under the agreement are prepaid; and
 
-- (b) for all the party’s agreements under which all sales and purchases are prepaid, the total value of prepayments, on every day in an income year, is $50,000 or less.
+- (b) for all the party's agreements under which all sales and purchases are prepaid, the total value of prepayments, on every day in an income year, is $50,000 or less.
 
 **Short-term agreement for sale and purchase**
 
@@ -194,9 +194,9 @@ compilation_date: 2026-06-06
 
 **(23)**  A short-term option is an excepted financial arrangement, except for a party who makes an election under section EW 8.
 
-**Travellers’ cheques**
+**Travellers' cheques**
 
-**(24)**  Travellers’ cheques are excepted financial arrangements, except for a party who makes an election under section EW 8.
+**(24)**  Travellers' cheques are excepted financial arrangements, except for a party who makes an election under section EW 8.
 
 **Variable principal debt instrument**
 

@@ -7,7 +7,7 @@ paragraph: "¶8-010"
 ---
 # Single entity rule ¶8-010
 
-Where a group of corporate tax entities is a consolidated group, the group is treated as a single taxpayer (the “single entity rule”: s 701-1) and:
+Where a group of corporate tax entities is a consolidated group, the group is treated as a single taxpayer (the "single entity rule": s 701-1) and:
 
 - lodges a single annual tax return
 
@@ -29,7 +29,7 @@ The head company is taken to acquire any CGT assets that a member entity acquire
 
 However, obligations or rights that relate to income tax assessments of a subsidiary member before it joined a consolidated group remain with the subsidiary (TD 2004/79).
 
-The single entity rule applies for the purposes of determining the head company’s and the subsidiary members’ income tax liability or tax loss for an income year. It does not apply for other purposes or to an entity outside the consolidated group (TD 2004/68; Draft TD 2007/D5; TD 2004/42; TD 2004/47; TD 2004/50; TD 2004/51). The meaning and application of the single entity rule is also discussed in detail in TR 2004/11.
+The single entity rule applies for the purposes of determining the head company's and the subsidiary members' income tax liability or tax loss for an income year. It does not apply for other purposes or to an entity outside the consolidated group (TD 2004/68; Draft TD 2007/D5; TD 2004/42; TD 2004/47; TD 2004/50; TD 2004/51). The meaning and application of the single entity rule is also discussed in detail in TR 2004/11.
 
 The thin capitalisation rules (¶8-600, ¶22-700) treat a consolidated group as a single entity.
 

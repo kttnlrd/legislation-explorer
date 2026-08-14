@@ -86,8 +86,23 @@ export const api = {
     if (limit !== undefined) url += `&limit=${limit}`
     return fetchJson(url)
   },
+  suggest: (q: string, limit?: number) => {
+    let url = `/search/suggest?q=${encodeURIComponent(q)}`
+    if (limit !== undefined) url += `&limit=${limit}`
+    return fetchJson(url)
+  },
   info: () => fetchJson('/info'),
   mcpHallOfFame: () => fetchJson('/mcp-hall-of-fame'),
   sectionRefs: (act: string, section: string) => fetchJson(`/section-refs/${act}/${section}`),
   sectionDefinedTerms: (act: string, section: string) => fetchJson(`/section-defined-terms/${act}/${section}`),
+
+  // Treaty endpoints
+  treaties: () => fetchJson('/treaties'),
+  treatyTree: (country: string) => fetchJson(`/treaties/${country}`),
+  treatyArticle: (country: string, article: string) => fetchJson(`/treaties/${country}/article/${article}`),
+  treatySearch: (q: string, country?: string) => {
+    let url = `/treaties/search?q=${encodeURIComponent(q)}`
+    if (country) url += `&country=${country}`
+    return fetchJson(url)
+  },
 }

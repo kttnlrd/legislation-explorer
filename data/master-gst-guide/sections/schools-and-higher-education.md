@@ -23,7 +23,7 @@ See generally Chapter 14 and in particular the education checklist at ¶14-030.
 
   institutions (¶4-040).
 
-- Donations and “no strings” grants to schools are not subject to GST (¶4-040).
+- Donations and "no strings" grants to schools are not subject to GST (¶4-040).
 
 - Scholarships are not subject to GST (¶14-004).
 
@@ -43,7 +43,7 @@ See generally Chapter 14 and in particular the education checklist at ¶14-030.
 
 - Education Departments may register individual schools as branches. Alternatively, non-profit schools
 
-  may register in their own right (¶14-040). The option of separate registration of part of the school’s
+  may register in their own right (¶14-040). The option of separate registration of part of the school's
 
   operations may also be available (¶15-080).
 

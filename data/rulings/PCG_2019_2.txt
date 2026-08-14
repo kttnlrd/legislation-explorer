@@ -62,7 +62,7 @@ how an entity can work out litres of taxable fuel acquired in the tax period, or
 The day on which all taxable fuel is taken to be acquired in the tax period.
 8. An affected claimant entity may choose to use one or both of these methods.
 Method 1 - working out litres of taxable fuel acquired in the tax period
-9. This method  allows an affected claimant entity to work out the number of litres of fuel acquired using the following formula:
+9. This method allows an affected claimant entity to work out the number of litres of fuel acquired using the following formula:
 Litres acquired in the tax period = Total $ / Average GST-inclusive price of fuel
 Total $
 means the total dollar spend on taxable fuel during the tax period.
@@ -111,7 +111,7 @@ Fuel tax credit calculator
 simply total the eligible litres for the period and use the rate that is current on the last day of the activity statement period to work out the claim.
 Not previously issued as a draft
 ATO references:
-File  1-HDLK39I
+File 1-HDLK39I
 ISSN: 2209-1297
 Business Line:
 ITX

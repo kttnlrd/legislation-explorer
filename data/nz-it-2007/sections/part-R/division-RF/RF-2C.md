@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
   - (i) starts on the day on which the financial arrangement first meets the requirements for a related-party debt; and
 
-  - (ii) ends on the NRFAI due date for the borrower’s income year:
+  - (ii) ends on the NRFAI due date for the borrower's income year:
 
 - (b) accumulated accruals is an amount equal to the total expenditure that the borrower incurs under the arrangement when the arrangement is a related-party debt for the period that—
 

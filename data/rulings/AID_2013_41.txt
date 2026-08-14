@@ -3,22 +3,17 @@ ATO ID 2013/41
 ==================================================
 
 Minerals Resource Rent Tax
-        Minerals Resource Rent Tax: Starting Base Returns - making the starting base choice and lodging the starting base return - holding a starting base asset
-
+ Minerals Resource Rent Tax: Starting Base Returns - making the starting base choice and lodging the starting base return - holding a starting base asset
 
 This ATO ID is withdrawn because it contains a view in respect of a provision of the Minerals Resource Rent Tax Act 2012 (MRRTA) which will not apply after 30 September 2014. Schedule 1 to the Minerals Resource Rent Tax Repeal and Other Measures Act 2014 took effect on 30 September 2014 meaning that entities will not accrue further MRRT liabilities from 1 October 2014. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for mineral resource rent tax (MRRT) years up to, and including the final MRRT year which ended on 30 September 2014.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does subsections 85-5(1) of the Minerals Resource Rent Tax Act 2012 (MRRTA) and 117-20(2) of Schedule 1 to the Taxation Administration Act 1953 (TAA) apply to a starting base asset that was held in relation to a mining project interest for part of the MRRT year by the entity even though the entity does not hold that asset at the time that the starting base return is lodged?
@@ -29,17 +24,15 @@ The entity had a mining project interest and held starting base assets relating 
 Reasons for Decision
 All references are to the MRRTA unless otherwise stated.
 The choice of valuation approaches made under section 85-5 determines the initial base value of a starting base asset (sections 90-25 and 90-40). Under subsection 85-5(1), an entity may choose a valuation approach to apply to all starting base assets, or assets expected to be starting base assets after the start time (expected starting base assets), that the entity
-          holds
+ holds
  that relate to a mining project interest that it has (or a pre-mining project interest that it holds).
 Subsections 117-20(1) and (2) of Schedule 1 to the TAA provide that the entity needs to lodge a starting base return if it makes a choice under section 85-5. The return must relate to all starting base assets and all expected starting base assets that the entity
-          holds
+ holds
  that relate to the mining or pre-mining project interest to which that choice relates.
 The MRRT meaning of 'hold' broadly adopts the income tax definition for capital allowances purposes (see section 40-40 of the Income Tax Assessment Act 1997 (ITAA 1997)) which generally refers to the legal owner of the asset. As subsection 117-20(2) of Schedule 1 to the TAA and subsection 85-5(1) specify that the valuation approach choice and the starting base return applies and relates respectively to all starting base assets, or expected starting base assets, that the entity
-          holds
+ holds
  in relation to the mining project interest, or pre-mining project interest, a question arises whether these provisions should be read to mean the entity must hold the relevant asset at the time of making the choice and lodging the return. Such an interpretation would mean that the starting base asset disposed of by the entity on 1 August 2012 cannot be covered by the valuation approach choice it makes and the starting base return it lodges.
 The alternative interpretation is that subsection 117-20(2) of Schedule 1 to the TAA and subsection 85-5(1) do not require the entity to hold the relevant asset at the time of making the choice and lodging the return. Rather, the words 'hold/holds in relation to the mining project interest' refer to a relationship between the mining project interest and the starting base assets relating to the interest. This relationship is satisfied if:
-
-
 
 •for a mining project interest, an entity has the mining project interest and holds the starting base asset relating to the interest on 1 July 2012 or
 •for a pre-mining project interest, an entity holds the pre-mining project interest and the expected starting base asset relating to the interest on 1 July 2012.
@@ -51,8 +44,6 @@ Broadly, the MRRT recognises certain investment made before 2 May 2010 at book o
 So far as is relevant here, subsection 80-20(1) provides that a starting base loss arises for a mining project interest for an MRRT year if at the same time during the year, the same entity has the mining project interest and holds a starting base asset relating to the mining project interest.
 Subsection 80-40(1) then provides that the amount of the starting base loss is the sum of the declines in value of all the starting base assets that:
 
-
-
 (a)relate to the mining project interest for which the starting base loss arises, and
 (b)were held, for any time during the year, by a miner that had the mining project interest during the year.
 
@@ -62,50 +53,44 @@ As the MRRTA commenced on 1 July 2012 (section 1-5), it is apparent that the pol
 Therefore, having regard to these provisions, the interpretation that would best achieve the purpose or object of the starting base allowances provisions is that subsection 117-20(2) of the TAA and subsection 85-5(1) apply to a starting base asset or expected starting base asset if the entity that held the asset on 1 July 2012 also had the mining project interest or held the pre-mining project interest, to which the asset relates at that time. That is subsection 117-20(2) of Schedule 1 to the TAA and subsection 85-5(1) do not require the entity to hold the starting base asset or expected starting base asset at the time of making the choice and lodging the return.
 It follows that subsection 117-20(2) of Schedule 1 to the TAA and subsection 85-5(1) apply to the starting base asset that was disposed of by the entity on 1 August 2012. The entity is able to make a valuation approach choice and lodge a starting base return for the mining project interest that covers the asset.
 
-
-
 Note
 : broadly, no starting base loss will ever arise for an expected starting base asset if the asset is disposed of before the mining project interest that originated from the pre-mining project interest to which the asset related commences commercial production. This is because such an asset will never become a starting base asset. This is the case even if the asset is included in the starting base return.
 
 Date of decision:
-         9 July 2013
+  9 July 2013
 
 Year of income:
-           Year ended 30 June 2013 Year ending 30 June 2014
+  Year ended 30 June 2013 Year ending 30 June 2014
 
 Legislative References:
 
 Minerals Resource Rent Tax Act 2012   section 1-5   Part 3-5   subsection 80-20(1)   subparagraph 80-25(3)(b)(iii)   subsection 80-40(1)   section 85-5   subsection 85-5(1)   section 90-25   section 90-40
 Taxation Administration Act 1953   Schedule 1 subsection 117-20(1)   Schedule 1 subsection 117-20(2)
-          Acts Interpretation Act 1901   section 15AA
+ Acts Interpretation Act 1901   section 15AA
 Income Tax Assessment Act 1997   section 40-40
 
 Keywords
 
 Minerals Resource Rent Tax
-          MRRT starting base return
-          MRRT starting base choice
-
+ MRRT starting base return
+ MRRT starting base choice
 
 Business Line:
-         Resource Rent Tax - CS&C
+  Resource Rent Tax - CS&C
 
 Date of publication:
-         12 July 2013
+  12 July 2013
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  9 July 2013

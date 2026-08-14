@@ -3,23 +3,18 @@ ATO ID 2001/583
 ==================================================
 
 Goods and Services Tax
-        GST and legal services to a non-resident company that has a subsidiary situated in Australia
-        FOI status: may be released
+ GST and legal services to a non-resident company that has a subsidiary situated in Australia
+ FOI status: may be released
 
-
-The ATO view on this issue is covered in paragraph 197 of  GSTR 2000/31, paragraph 25 of  GSTR 2003/7 and  GSTR 2004/7.
+The ATO view on this issue is covered in paragraph 197 of GSTR 2000/31, paragraph 25 of GSTR 2003/7 and GSTR 2004/7.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an Australian law firm, making a GST-free supply under item 2 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies legal services to a non-resident company that has a subsidiary situated in Australia?
@@ -32,8 +27,6 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Under section 38-190 of the GST Act, certain supplies of things other than goods or real property, for consumption outside of Australia, are GST-free. As a supply of legal services is not a supply of goods or real property, the GST status of the supply is appropriately considered under section 38-190 of the GST Act.
 Of most relevance to this case is Item 2 which deals with supplies that are made to a non-resident who is not in Australia. Item 2(a) provides that a supply is GST-free where:
-
-
 
 •it is made to a non-resident who is not in Australia when the thing supplied is done;
 •it is not a supply of work physically performed on goods situated in Australia when the work it done; and
@@ -53,8 +46,6 @@ In this case, the entity is providing its legal services direct to the overseas 
 As the legal services involve advice and action on legal matters, the legal services are not work physically performed on goods. Additionally, as the services are in relation to a trademark, the supply is not directly connected with real property situated in Australia. As such, the supply satisfies Item 2(a).
 However, Item 2 is limited by the operation of subsection 38-190(3) of the GST Act. Subsection 38-190(3) of the GST Act provides that a supply covered by Item 2 is not GST-free if:
 
-
-
 •it is a supply under an agreement entered into, whether directly or indirectly, with a non-resident; and
 •the supply is provided, or the agreement requires it to be provided, to another entity in Australia.
 
@@ -64,13 +55,12 @@ In this regard, Goods and Services Tax Ruling GSTR 2001/1 looks at the meaning o
 Thus, 'provided to' requires the actual provision of something by the supplier to another entity. In the context of professional services, services are provided to another entity where there is communication to that party. As no such communications have been made with the Australian subsidiary, the services provided by the entity are not provided to the subsidiary.
 Therefore, subsection 38-190(3) of the GST Act does not exclude the service from being GST-free under Item 2. Accordingly, the entity is making a GST-free supply under Item 2 when it supplies legal services to a non-resident.
 
-
 History:
 
 The above paragraph was amended on 9 August 2004. The reference to subsection 38-30(3) in the original ATO ID has been replaced with a reference to subsection 38-190(3).
 
 Date of decision:
-         16 August 2001
+  16 August 2001
 
 Legislative References:
 
@@ -84,29 +74,25 @@ GSTR 2000/31
 Keywords
 
 Goods & services tax
-          Consumption outside Australia
-          GST free
-
+ Consumption outside Australia
+ GST free
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         15 November 2001
+  15 November 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 16 August 2001

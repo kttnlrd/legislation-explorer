@@ -27,7 +27,7 @@ In some circumstances, the general rules for calculating net capital gains and l
 
   capital losses; or (c) a tax beneﬁt is obtained because of available capital gains (¶11-120).
 
-- Net capital losses may be reduced if a taxpayer’s commercial debts are forgiven (¶16-910).
+- Net capital losses may be reduced if a taxpayer's commercial debts are forgiven (¶16-910).
 
 - Capital losses from collectables can only be oﬀset against capital gains from collectables
 

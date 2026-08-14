@@ -7,13 +7,13 @@ paragraph: "¶38-060"
 ---
 # Tasmania land tax ¶38-060
 
-Provisions governing the imposition and calculation of land tax in Tasmania are contained in the Land Tax Act 2000 (“the principal Act”). Applicable rates applying to diﬀerent categories of land are provided in the Land Tax Rating Act 2000. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1997.
+Provisions governing the imposition and calculation of land tax in Tasmania are contained in the Land Tax Act 2000 ("the principal Act"). Applicable rates applying to diﬀerent categories of land are provided in the Land Tax Rating Act 2000. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1997.
 
 Land tax for 2024–25 is levied on the aggregate assessed value of land owned on 1 July 2024. An owner is the registered titleholder of a freehold estate in fee simple or the holder of a life estate. Joint owners of the same land are assessed together in a joint assessment.
 
-Related companies are assessed as a single company and are jointly and severally liable for land tax payable. Whether 2 companies are “related” depends on whether a company has a controlling interest in another or whether a person or persons have a controlling interest in both. The meaning of “controlling interest” is similar to that applying to companies in NSW (¶38-010) and Victoria (¶38-020).
+Related companies are assessed as a single company and are jointly and severally liable for land tax payable. Whether 2 companies are "related" depends on whether a company has a controlling interest in another or whether a person or persons have a controlling interest in both. The meaning of "controlling interest" is similar to that applying to companies in NSW (¶38-010) and Victoria (¶38-020).
 
-Exemptions and rebates There are 3 categories of land in Tasmania: principal residence land, primary production land and general land. Land used as an owner’s main place of residence and land used for primary production are exempt. The land value of land used partly for an exempt purpose and partly for a non-exempt purpose is apportioned, and land tax is charged on the proportion of the land used for the non-exempt purpose.
+Exemptions and rebates There are 3 categories of land in Tasmania: principal residence land, primary production land and general land. Land used as an owner's main place of residence and land used for primary production are exempt. The land value of land used partly for an exempt purpose and partly for a non-exempt purpose is apportioned, and land tax is charged on the proportion of the land used for the non-exempt purpose.
 
 Where an owner dies, a property which was used as a principal residence by that owner may continue to be exempt as a principal residence in the ﬁnancial year following death.
 

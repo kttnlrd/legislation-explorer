@@ -4,14 +4,12 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 105
+ • Division 105
 
 Cases Referenced:
-  • Motors Pty Ltd v Commissioner 
+ • Motors Pty Ltd v Commissioner 
 
 Topics: GST
-
-
 
 ================================================================================
 
@@ -31,11 +29,11 @@ The ATO view on this arrangement is set out in Miscellaneous Taxation Ruling
 MT 2010/1
 FOI status: may be released
 Taxpayer Alerts are intended to be an "early warning" of significant new and emerging higher risk tax planning issues or arrangements that the Tax Office has under risk assessment.
-Taxpayer Alerts will provide information that is in the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers and they also serve to inform Tax officers of new and emerging higher risk tax planning issues.  Not all potential tax planning issues that the Tax Office has under risk assessment will be subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert may on further examination be found not to be of concern to the Tax Office.
-Taxpayer Alerts will give the title of the issue (which may be a scheme, arrangement or particular transaction),  briefly describe the issue and will highlight the features which the Tax Office considers give rise to taxation issues. These issues will generally require more detailed analysis to provide a Tax Office view to taxpayers.
+Taxpayer Alerts will provide information that is in the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers and they also serve to inform Tax officers of new and emerging higher risk tax planning issues. Not all potential tax planning issues that the Tax Office has under risk assessment will be subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert may on further examination be found not to be of concern to the Tax Office.
+Taxpayer Alerts will give the title of the issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which the Tax Office considers give rise to taxation issues. These issues will generally require more detailed analysis to provide a Tax Office view to taxpayers.
 Taxpayers who have entered into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination of the Tax Office's position through a Private Ruling. (It should be noted that Goods and Service Tax Ruling
 GSTR 1999/1
-sets out circumstances where the Commissioner may decline to issue such a ruling ).  Such taxpayers might also contact the Tax officer named in the Alert and/or obtain their own advice.
+sets out circumstances where the Commissioner may decline to issue such a ruling ). Such taxpayers might also contact the Tax officer named in the Alert and/or obtain their own advice.
 This Taxpayer Alert is issued under the authority of the Commissioner
 .
 This Taxpayer Alert describes a situation where a taxpayer seeks to claim a refund four years or more after the end of a tax period on the basis that they incorrectly classified a supply as a taxable supply and they now contend it is GST free. In this situation the Commissioner may not be able to recover the input tax credits previously claimed on what are contended to be incorrectly classified supplies. This could lead to a situation where either the supplier or the recipient of the supply obtains a windfall gain.
@@ -60,9 +58,9 @@ the Commissioner in the particular circumstances is required under section 105-6
 Tax Administration Act 1953
 (TAA) to pay the refund.
 (c)
-it is appropriate in any particular case for the Commissioner to exercise his discretion contained in section 105-65 of Schedule 1 to the TAA where  a supply, as between two registered entities or entities that are required to be registered, has been incorrectly treated as a taxable supply.
+it is appropriate in any particular case for the Commissioner to exercise his discretion contained in section 105-65 of Schedule 1 to the TAA where a supply, as between two registered entities or entities that are required to be registered, has been incorrectly treated as a taxable supply.
 (d)
-the time limits on refunds or credits contained in section 105-55 of schedule 1 to the TAA should apply to any of the tax  periods in which a refund has been sought or are to be sought.
+the time limits on refunds or credits contained in section 105-55 of schedule 1 to the TAA should apply to any of the tax periods in which a refund has been sought or are to be sought.
 (e)
 the Commissioner is precluded by the time limits contained in section 105-50 of Schedule 1 to the TAA from recovering from the recipient of the supply input tax credits previously claimed on the transactions that it is now contended gave rise to GST free supplies..
 (f)
@@ -81,7 +79,7 @@ the Commissioner is not satisfied that the taxpayer seeking the refund has reimb
 the recipient is registered or required to be registered.
 In any circumstances where either of the conditions outlined above apply the Commissioner need not pay a refund. The Commissioner has a discretion to release the refund but may only consider it appropriate to do so in the situation outlined in this alert where he is satisfied that the refund does not create a windfall gain for either the supplier or recipient.
 Note 2
-:  In the recent Federal Court decision
+: In the recent Federal Court decision
 KAP Motors Pty Ltd v Commissioner of Taxation
 [2008] FCA 159
 , the Court found that section 105-65 did not apply where there was no supply. Because the arrangements dealt with in this alert are cases where there is a supply, the KAP Motors decision has no application to them. Details of the Commissioner's response to the KAP Motors decision are at:

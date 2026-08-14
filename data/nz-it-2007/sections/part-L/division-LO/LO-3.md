@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Amount of reduction**
 
-**(2)**  The person’s credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
+**(2)**  The person's credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
 
 *Defined in this Act: amount, Maori authority credit ratio, maximum permitted ratio, tax credit, taxable Maori authority distribution*
 

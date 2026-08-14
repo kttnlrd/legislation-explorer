@@ -4,27 +4,27 @@ part_title: Part E Timing and quantifying rules
 division: EX
 division_title: Subpart EX—Controlled foreign company and foreign investment fund rules
 section: EX-18A
-section_title: Scheme for finding person’s attributed CFC income or loss
+section_title: Scheme for finding person's attributed CFC income or loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# EX 18A  Scheme for finding person’s attributed CFC income or loss
+# EX 18A  Scheme for finding person's attributed CFC income or loss
 
 **Formula and rules for calculation**
 
 **(1)**  The attributed CFC income or loss of a person (an interest holder) holding an income interest in a CFC, for the purposes of the general rules in sections CQ 2(1) and DN 2(1)(which relate to attributed CFC income or loss), is found for the CFC and an accounting period from—
 
-- (a) the formula in section EX 18, which uses the interest holder’s income interest and the CFC’s net attributable CFC income or loss determined as described in subsection (2):
+- (a) the formula in section EX 18, which uses the interest holder's income interest and the CFC's net attributable CFC income or loss determined as described in subsection (2):
 
-- (b) the interest holder’s additional CFC attributed income under section EX 19:
+- (b) the interest holder's additional CFC attributed income under section EX 19:
 
-- (c) the reduction in the interest holder’s attributed CFC loss under section EX 20.
+- (c) the reduction in the interest holder's attributed CFC loss under section EX 20.
 
 **Determination of attributed CFC income or loss from attributable CFC amount**
 
 **(2)**  An interest holder with an income interest of a fraction (the fraction) in a CFC with an attributable CFC amount under section EX 20B for an accounting period has under section EX 18, for the CFC and accounting period,—
 
-- (a) attributed CFC income or loss equal to the fraction of the CFC’s net attributable CFC income or loss under sections EX 20C to EX 20E and the rules in sections EX 21 and EX 24 to EX 27, if paragraph (b) does not apply:
+- (a) attributed CFC income or loss equal to the fraction of the CFC's net attributable CFC income or loss under sections EX 20C to EX 20E and the rules in sections EX 21 and EX 24 to EX 27, if paragraph (b) does not apply:
 
 - (b) no attributed CFC income or attributed CFC loss, if the CFC is—
 

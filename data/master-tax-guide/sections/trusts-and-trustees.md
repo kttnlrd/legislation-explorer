@@ -9,7 +9,7 @@ paragraph: "¶6-010"
 
 A trust of property or income may be described as a ﬁduciary obligation imposed on a person (the trustee) to hold property or income for a particular purpose or purposes, or for the beneﬁt of other persons or classes of persons who may or may not include the trustee. The ﬁduciary obligation may be imposed on the trustee either by the person establishing the trust (who may be the same as the trustee), by another person, by court order or declaration, or by operation of law. Although the trustee may hold the legal title to property, etc, the trustee is compelled in equity to deal with it in accordance with the express or implied terms of the trust.
 
-The executor or administrator of a deceased person’s estate is not strictly the trustee of the estate until executorial or administrative functions are completed, but an executor or administrator is expressly made a trustee for income tax purposes by the expanded deﬁnition of “trustee” in s 6(1). A company formed by the trustee of a will in accordance with its terms to carry out some or all of the trusts is not a trustee for tax purposes. The expanded deﬁnition of “trustee” also includes a person acting in a ﬁduciary capacity.
+The executor or administrator of a deceased person's estate is not strictly the trustee of the estate until executorial or administrative functions are completed, but an executor or administrator is expressly made a trustee for income tax purposes by the expanded deﬁnition of "trustee" in s 6(1). A company formed by the trustee of a will in accordance with its terms to carry out some or all of the trusts is not a trustee for tax purposes. The expanded deﬁnition of "trustee" also includes a person acting in a ﬁduciary capacity.
 
 The Oﬃcial Receiver in Bankruptcy of an insolvent deceased estate is a trustee, as is the receiver and manager of the assets of a company appointed by the debenture holders and a mortgagee in possession.
 
@@ -25,7 +25,7 @@ An agent who receives moneys, etc, for a principal is not a trustee.
 
   workers (Registrar, Accident Compensation Tribunal (Vic) 93 ATC 4835; [1993] HCA 1)
 
-- moneys paid into a joint bank account “on trust” pending the determination of the parties’
+- moneys paid into a joint bank account "on trust" pending the determination of the parties'
 
   respective entitlements contingent upon the occurrence of future events (Walsh Bay Developments
 

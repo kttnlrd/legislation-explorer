@@ -9,9 +9,9 @@ paragraph: "None"
 
 Worked example: Temporary residents; taxation of income Issue KoalaKo recruited Caroline Jacobs from the US to work in their Sydney office. On 1 August 2024, Caroline arrived in Australia on a Temporary Work (Skilled) visa (subclass 457). She is expected to remain in her role for at least the 4-year term of her visa, with a possibility of an extension. Caroline is a temporary resident for Australian tax purposes.
 
-In March and April 2025, Caroline worked in Auckland at KoalaKo’s New Zealand (NZ) subsidiary, KiwiKo.
+In March and April 2025, Caroline worked in Auckland at KoalaKo's New Zealand (NZ) subsidiary, KiwiKo.
 
-KiwiKo paid Caroline’s salary for the 2 months she was in NZ.
+KiwiKo paid Caroline's salary for the 2 months she was in NZ.
 
 Caroline owns a rental property in the US and receives monthly rental income. She makes monthly mortgage payments, including interest, to a US bank. She also holds less than 10% of all issued shares in a US company (US Co) that is listed on an American stock exchange. During 2024–25, she received dividends from US Co. Dividend withholding tax was withheld at the source.
 
@@ -29,15 +29,15 @@ Although Caroline pays interest to a foreign entity, her temporary residency sta
 
 US dividends The US Co dividends are non-assessable non-exempt income as it is foreign source income (ITAA97 s 768-910(1)). No Australian tax consequences arise from the US dividend withholding tax that was withheld at the source. There are no assessable dividends to be grossed up for the withholding tax paid. The withholding tax cannot be claimed as a foreign income tax offset as the dividends are not assessable.
 
-Sale of US Co and Auz Co shares The capital gains arising from the sales of the US Co shares and the Auz Co shares are not assessable on the basis that the shares do not constitute “taxable Australian property”. A temporary resident is subject to tax on a capital gain only if the CGT asset is taxable Australian property (ITAA97 s 768-915(1)).
+Sale of US Co and Auz Co shares The capital gains arising from the sales of the US Co shares and the Auz Co shares are not assessable on the basis that the shares do not constitute "taxable Australian property". A temporary resident is subject to tax on a capital gain only if the CGT asset is taxable Australian property (ITAA97 s 768-915(1)).
 
-A share in a company is taxable Australian property if it constitutes an “indirect Australian real property interest” (ITAA97 s 855-15, item 2). The share will be an indirect Australian real property interest under s 855-25 if:
+A share in a company is taxable Australian property if it constitutes an "indirect Australian real property interest" (ITAA97 s 855-15, item 2). The share will be an indirect Australian real property interest under s 855-25 if:
 
 - the taxpayer holds 10% or more of the company at the time of the share disposal, or throughout a 12-
 
   month period in the 24 months before the share disposal (the non-portfolio interest test), and
 
-- more than 50% of the total market value of the company’s assets comprises taxable Australian real
+- more than 50% of the total market value of the company's assets comprises taxable Australian real
 
   property (eg real estate) at the time of the share disposal (the principal asset test).
 

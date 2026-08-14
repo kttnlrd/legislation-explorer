@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner’s interests for a look-through company, to the extent to which those interests include trading stock that is not livestock, and, for the income year of disposal, the total turnover of the look-through company, ignoring section HB 1, is $3,000,000 or less.
+**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner's interests for a look-through company, to the extent to which those interests include trading stock that is not livestock, and, for the income year of disposal, the total turnover of the look-through company, ignoring section HB 1, is $3,000,000 or less.
 
 **Exiting owner: excluded payment**
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(6)**  Section HB 4 overrides this section.
 
-*Defined in this Act: deduction, dispose, entering owner, excluded income, income tax liability, income year, look-through company, owner’s interests, pay, trading stock, turnover*
+*Defined in this Act: deduction, dispose, entering owner, excluded income, income tax liability, income year, look-through company, owner's interests, pay, trading stock, turnover*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

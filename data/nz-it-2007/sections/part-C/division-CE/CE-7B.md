@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (a) a right or requirement in relation to transfer by the employee share scheme beneficiary for market value consideration at the time of the transfer:
 
-- (b) a right or requirement that is not contemplated by the employee share scheme’s provisions:
+- (b) a right or requirement that is not contemplated by the employee share scheme's provisions:
 
 - (c) a right or requirement that, at the time it came into existence, had no material risk of operating or no material commercial significance:
 

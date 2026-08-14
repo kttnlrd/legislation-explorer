@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **(2)**  Despite section HB 1, the effective look-through interests for the person are the interests that the Commissioner considers reasonable for the income year or part of the income year, as applicable, without taking into account an amount provided to the relevant relative.
 
-**Matters for Commissioner’s consideration**
+**Matters for Commissioner's consideration**
 
 **(3)**  The Commissioner may take into account each of the following matters when applying this section:
 

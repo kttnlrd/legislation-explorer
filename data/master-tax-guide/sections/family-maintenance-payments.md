@@ -19,7 +19,7 @@ Periodic maintenance payments received by a taxpayer are exempt if the taxpayer 
 
 Maintenance payments that are attributable to payments made by such a payer (eg where they are paid through a child support trust account or child support assessment with Services Australia) are also exempt.
 
-The exemption does not apply where the maintenance payer has eﬀectively diverted income from themselves, or divested themselves of income-producing assets to cover those payments. Payments made from the relevant payer’s deceased estate, or from some other source organised by the payer, will also not generally be exempt under s 51-50 as they would not be (or be attributable to) payments by the payer.
+The exemption does not apply where the maintenance payer has eﬀectively diverted income from themselves, or divested themselves of income-producing assets to cover those payments. Payments made from the relevant payer's deceased estate, or from some other source organised by the payer, will also not generally be exempt under s 51-50 as they would not be (or be attributable to) payments by the payer.
 
 No deduction or rebate is available to a maintenance payer in respect of the maintenance payments.
 

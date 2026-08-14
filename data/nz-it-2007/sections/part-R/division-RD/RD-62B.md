@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  This section applies when a cross-border employee receives a fringe benefit in relation to a period when they are providing employment services in New Zealand.
 
-**Employees’ obligations**
+**Employees' obligations**
 
 **(2)**  If the employer and employee agree and record in a document that the employee is liable for employment-related tax obligations, the employee must—
 

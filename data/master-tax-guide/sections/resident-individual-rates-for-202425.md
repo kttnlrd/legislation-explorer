@@ -21,7 +21,7 @@ Medicare levy and Medicare levy surcharge rate and thresholds Resident individua
 
 Relief from the Medicare levy is provided for low income earners, including those who qualify for the Senior Australians and Pensioners Tax Oﬀset (¶2-330).
 
-Medicare levy surcharge An additional levy surcharge of 1%, 1.25% or 1.5% depending on level of income is payable by an unmarried person whose “income for surcharge purposes” for the 2024–25 year is more than $97,000 if the person is not covered by private patient hospital insurance (¶2-335).
+Medicare levy surcharge An additional levy surcharge of 1%, 1.25% or 1.5% depending on level of income is payable by an unmarried person whose "income for surcharge purposes" for the 2024–25 year is more than $97,000 if the person is not covered by private patient hospital insurance (¶2-335).
 
 ## Notes
 

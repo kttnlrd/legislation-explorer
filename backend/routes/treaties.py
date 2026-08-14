@@ -1,0 +1,103 @@
+"""API routes for Double Tax Agreements (Treaties)."""
+
+from __future__ import annotations
+
+import json
+import logging
+
+from fastapi import APIRouter, HTTPException, Query
+
+from backend.config import TREATIES_DIR
+from backend.services.search_service import search_treaties as fts_search_treaties
+
+logger = logging.getLogger(__name__)
+router = APIRouter()
+
+
+@router.get("/api/treaties")
+def list_treaties():
+    """List all treaty countries with metadata."""
+    if not TREATIES_DIR.exists():
+        raise HTTPException(status_code=404, detail="Treaties directory not found")
+    countries = []
+    for child in sorted(TREATIES_DIR.iterdir()):
+        if not child.is_dir():
+            continue
+        tree_path = child / "tree.json"
+        if not tree_path.exists():
+            continue
+        try:
+            tree = json.loads(tree_path.read_text(encoding="utf-8"))
+            countries.append({
+                "slug": child.name,
+                "treaty": tree.get("treaty", child.name),
+                "schedule": tree.get("schedule"),
+                "total": tree.get("total", 0),
+            })
+        except Exception:
+            continue
+    return {"countries": countries, "total": len(countries)}
+
+
+@router.get("/api/treaties/{country}")
+def get_treaty_tree(country: str):
+    """Get the article tree for a single treaty country."""
+    tree_path = TREATIES_DIR / country / "tree.json"
+    if not tree_path.exists():
+        raise HTTPException(status_code=404, detail=f"Treaty for '{country}' not found")
+    try:
+        tree = json.loads(tree_path.read_text(encoding="utf-8"))
+        return tree
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to read treaty: {e}")
+
+
+@router.get("/api/treaties/{country}/article/{article}")
+def get_treaty_article(
+    country: str,
+    article: int,
+):
+    """Get the text of a single article for a treaty country."""
+    tree_path = TREATIES_DIR / country / "tree.json"
+    if not tree_path.exists():
+        raise HTTPException(status_code=404, detail=f"Treaty for '{country}' not found")
+    try:
+        tree = json.loads(tree_path.read_text(encoding="utf-8"))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to read tree: {e}")
+
+    # Find the article entry
+    art_info = None
+    for a in tree.get("articles", []):
+        if a["article"] == article:
+            art_info = a
+            break
+    if not art_info:
+        raise HTTPException(status_code=404, detail=f"Article {article} not found for {country}")
+
+    art_path = TREATIES_DIR / country / art_info["file"]
+    if not art_path.exists():
+        raise HTTPException(status_code=404, detail=f"Article file not found")
+
+    content = art_path.read_text(encoding="utf-8", errors="replace")
+    return {
+        "country": tree["treaty"],
+        "country_slug": country,
+        "article": article,
+        "title": art_info["title"],
+        "slug": art_info["slug"],
+        "content": content,
+    }
+
+
+@router.get("/api/treaties/search")
+def search_treaties(q: str = Query(..., description="Search query"), limit: int = 20):
+    """Full-text search across all treaty articles."""
+    if not q or not q.strip():
+        return {"results": [], "total": 0, "query": q}
+    from backend.services.search_service import init_search_index
+    from backend.config import SEARCH_DB
+    if not SEARCH_DB.exists():
+        init_search_index()
+    result = fts_search_treaties(q.strip(), limit=min(limit, 50))
+    return {"query": q, **result}

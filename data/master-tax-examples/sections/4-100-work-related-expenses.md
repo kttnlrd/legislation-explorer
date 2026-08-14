@@ -9,7 +9,7 @@ paragraph: "None"
 
 Worked example: Work-related expenses Issue Marilyn Murphy is a primary school teacher at a local school. During the 2024–25 tax year, she incurred the following expenses:
 
-- Expenses for car travel from her home to school and also from school to a teachers’ retreat, then from
+- Expenses for car travel from her home to school and also from school to a teachers' retreat, then from
 
   the retreat to her home. Marilyn did not keep a log book. She estimates that the distance travelled from
 
@@ -29,7 +29,7 @@ Solution Travel and car expenses A deduction is typically available for the cost
 
 A deduction is not available for travel from home to the place of employment as this is considered to be private in nature.
 
-Further, the nature of Marilyn’s work is not itinerant, and does not warrant consideration as to whether a deduction under ITAA97 s 8-1 is available for travel costs which she incurred for travel from her home to her place of employment. A deduction in some cases may be available where travel is a fundamental part of the employee’s work (see Taxation Ruling TR 95/34).
+Further, the nature of Marilyn's work is not itinerant, and does not warrant consideration as to whether a deduction under ITAA97 s 8-1 is available for travel costs which she incurred for travel from her home to her place of employment. A deduction in some cases may be available where travel is a fundamental part of the employee's work (see Taxation Ruling TR 95/34).
 
 In calculating her car expense deductions, Marilyn can choose between the cents per kilometre method and the log book method (ITAA97 s 28-15). As Marilyn travelled less than 5,000 km and did not maintain a log book, she can use the cents per kilometre basis for calculating her deductions (ITAA97 s 28-25(2)).
 
@@ -69,7 +69,7 @@ The substantiation rules include:
 
   need for written evidence to be kept for laundry or other work expenses even if the laundry expenses
 
-  are more than $150 (ITAA97 s 900-35). A taxpayer may use the Commissioner’s estimate of laundry
+  are more than $150 (ITAA97 s 900-35). A taxpayer may use the Commissioner's estimate of laundry
 
   expenses or calculate their laundry expenses by keeping written evidence. However, where the total
 

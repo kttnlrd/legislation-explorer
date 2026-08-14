@@ -25,9 +25,9 @@ For individuals with a direct capital gain, the rules apply where both of the fo
 
 - the CGT event (resulting in the direct capital gain) happens after 8 May 2012
 
-- the individual is a foreign (or temporary) resident during some, or all of, so much of the “discount
+- the individual is a foreign (or temporary) resident during some, or all of, so much of the "discount
 
-  testing period” (ie the period starting on the day the asset was acquired and ending on the day of the
+  testing period" (ie the period starting on the day the asset was acquired and ending on the day of the
 
 CGT event) as falls after 8 May 2012.
 
@@ -63,17 +63,17 @@ Method 1: Where the asset is acquired after 8 May 2012 Where the relevant CGT as
 
   relevant asset, the discount percentage will be 0%.
 
-Anna’s gross capital gain is $900,000 ($1.3 million – $400,000). Applying the above formula, the CGT discount is as follows: 1,460 / (2 x 3,652)                                                                                 = 20% Gross capital gain                                                                                  $900,000 Discount (20%)                                                                                      $180,000 Net capital gain                                                                                    $720,000 Method 3: Where the asset was acquired on or before 8 May 2012, and the individual was a foreign or temporary resident on 8 May 2012 This method applies (under s 115-115(4)) to calculate an individual’s discount percentage for a discount capital gain that relates to an asset acquired on or before 8 May 2012, where:
+Anna's gross capital gain is $900,000 ($1.3 million – $400,000). Applying the above formula, the CGT discount is as follows: 1,460 / (2 x 3,652)                                                                                 = 20% Gross capital gain                                                                                  $900,000 Discount (20%)                                                                                      $180,000 Net capital gain                                                                                    $720,000 Method 3: Where the asset was acquired on or before 8 May 2012, and the individual was a foreign or temporary resident on 8 May 2012 This method applies (under s 115-115(4)) to calculate an individual's discount percentage for a discount capital gain that relates to an asset acquired on or before 8 May 2012, where:
 
 - the individual was a foreign resident or temporary resident on 8 May 2012
 
-- the asset’s market value on 8 May 2012 exceeded the asset’s cost base at this time (ie there was an
+- the asset's market value on 8 May 2012 exceeded the asset's cost base at this time (ie there was an
 
   accrued capital gain in respect of the asset as at 8 May 2012), and
 
-- the individual chooses to apply this method (referred to as the “market value” method).
+- the individual chooses to apply this method (referred to as the "market value" method).
 
-In this case, the individual’s discount percentage for the discount capital gain is calculated as follows (s 115-115(4) or (5)):
+In this case, the individual's discount percentage for the discount capital gain is calculated as follows (s 115-115(4) or (5)):
 
 - Where the accrued capital gain as at 8 May 2012 is equal to or greater than the discount capital
 
@@ -91,7 +91,7 @@ In this case, the individual’s discount percentage for the discount capital ga
 
 (Excess + [Shortfall x Number of apportionable days that you were an eligible resident/number of apportionable days]) / (2 x Amount of the discount capital gain) where: – the excess means the capital gain that accrued up until 8 May 2012 (ie the accrued capital gain as at 8 May 2012) – the shortfall means the capital gain that is attributable to the period after 8 May 2012 (ie discount capital gain less the accrued capital gain as at 8 May 2012) – the number of apportionable days are the number of days after 8 May 2012 during the discount testing period (ie up until when the CGT event occurs in relation to the asset) – eligible resident means an Australian resident who is not a temporary resident.
 
-Accordingly, Paul’s discount percentage would be calculated under s 115-115(5) as follows: ($400,000 + [$1.1m x 0/4,801]) / (2 x 1.5m) = 13.33% where:
+Accordingly, Paul's discount percentage would be calculated under s 115-115(5) as follows: ($400,000 + [$1.1m x 0/4,801]) / (2 x 1.5m) = 13.33% where:
 
 - the excess is $400,000 (ie the accrued capital gain as at 8 May 2012)
 

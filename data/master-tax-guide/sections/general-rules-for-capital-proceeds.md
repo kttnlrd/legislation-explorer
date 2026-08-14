@@ -7,11 +7,11 @@ paragraph: "¶11-500"
 ---
 # General rules for capital proceeds ¶11-500
 
-The amount of the capital proceeds from a CGT event is generally the sum of the money received or receivable and the market value of any other property received or receivable as a result of the CGT event (s 116-20). If the CGT event is a “supply” for GST purposes, the GST on the supply is excluded when working out the capital proceeds.
+The amount of the capital proceeds from a CGT event is generally the sum of the money received or receivable and the market value of any other property received or receivable as a result of the CGT event (s 116-20). If the CGT event is a "supply" for GST purposes, the GST on the supply is excluded when working out the capital proceeds.
 
 The capital proceeds from a CGT event are deﬁned by reference to money and property that a taxpayer has received or is entitled to receive, but a capital gain or loss arises in the income year in which the CGT event happens. Accordingly, where a CGT event happens in relation to an asset, the whole of the capital gain or loss is brought to account in the year of the CGT event, even though part or all of the capital proceeds from it are received in a later year.
 
-If the capital proceeds originally agreed to are renegotiated before settlement, the amount of the capital proceeds is the renegotiated amount (s 116-20). A mechanism for payment by direction of consideration for a sale of an asset did not have the eﬀect of extinguishing a taxpayer’s entitlement to receive an amount and therefore did not reduce the capital proceeds from the CGT event (Quality Publications Australia 2012 ATC ¶20-317; [2012] FCA 256).
+If the capital proceeds originally agreed to are renegotiated before settlement, the amount of the capital proceeds is the renegotiated amount (s 116-20). A mechanism for payment by direction of consideration for a sale of an asset did not have the eﬀect of extinguishing a taxpayer's entitlement to receive an amount and therefore did not reduce the capital proceeds from the CGT event (Quality Publications Australia 2012 ATC ¶20-317; [2012] FCA 256).
 
 The capital proceeds received for the disposal of goodwill on retirement from a law partnership could not be reduced by the amount that was required to be paid against his capital account shortfall. The application of the proceeds against the capital account were treated as a payment at direction or for his beneﬁt (Hedges 2023 ATC ¶20-874; [2023] FCAFC 105).
 
@@ -29,7 +29,7 @@ For CGT event H2, the capital proceeds are the money or other consideration rece
 
 For the purposes of CGT event F2, when working out the market value of the property that is the subject of the grant, renewal or extension of a long-term lease, the market value of any building, part of a building, structure or improvement that is treated as a separate CGT asset from the property must be included.
 
-However, for these purposes, the lessor’s depreciating assets must be disregarded. Further, when working out the amount of any premium paid or payable to the lessor for the grant, renewal or extension of a long- term lease, any part of the premium that is attributable to depreciating assets must also be disregarded for these purposes.
+However, for these purposes, the lessor's depreciating assets must be disregarded. Further, when working out the amount of any premium paid or payable to the lessor for the grant, renewal or extension of a long- term lease, any part of the premium that is attributable to depreciating assets must also be disregarded for these purposes.
 
 *Refs: s
 116-20), s 116-20), s 116-20(2))*

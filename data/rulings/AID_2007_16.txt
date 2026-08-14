@@ -3,23 +3,19 @@ ATO ID 2007/16
 ==================================================
 
 Goods and Services Tax
-        GST and right to a share of net profit in return for a contribution of money - not an interest in a debt
-        FOI status: may be released
-
+ GST and right to a share of net profit in return for a contribution of money - not an interest in a debt
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in  subsection 195-1 of the GST Act.
-
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, making an input taxed supply of an interest in a debt under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it grants a right to a share of the net profit from its business to another entity in return for the contribution of an amount of money?
@@ -33,19 +29,13 @@ Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that a financial supply has the meaning given in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
 
-
-
 (a)the provision, acquisition or disposal of that interest is:
-
-
 
 •for consideration; and
 •in the course or furtherance of an enterprise; and
 •connected with Australia, and
 
 (b)the supplier is:
-
-
 
 •registered or required to be registered for GST, and
 •a financial supply provider in relation to the supply of the interest.
@@ -60,7 +50,7 @@ An interest in a debt includes an interest in a contingent debt which is a debt,
 The arrangement therefore does not involve the provision by the entity to the financier of an interest in or under a debt under item 2. The supply that the entity makes to the financier is a right to a share of the net proceeds (if any) from the operation of the entity's business. The amount contributed by the financier is consideration for the supply of that right and not for the provision of any interest in a debt.
 As the requirements of subregulation 40-5.09(1) of the GST Regulations are not satisfied, the entity does not make an input taxed financial supply of an interest in a debt under subsection 40-5(1) of the GST Act.
 Date of decision:
-         21 December 06
+  21 December 06
 
 Legislative References:
 
@@ -80,22 +70,21 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST regulations
-          GST supplies & acquisitions
-          GST supply
-          Input taxed supplies
-          GST financial supplies
-          GST debt, loan and credit
-
+ GST regulations
+ GST supplies & acquisitions
+ GST supply
+ Input taxed supplies
+ GST financial supplies
+ GST debt, loan and credit
 
 Siebel/TDMS Reference Number:
-         5135312
+  5135312
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         25 January 2007
+  25 January 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

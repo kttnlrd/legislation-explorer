@@ -21,7 +21,7 @@ source_pdf: "vol01.pdf"
 **(2)** If the bonus shares are a dividend, or taken to be a dividend (including as a result of section 45C), the consideration for the acquisition of the shares for the purposes of this Act is so much of the dividend as is:
 
 > <a id="s6BA-2-a"></a>
-> **(a)** included in the taxpayer’s assessable income; and
+> **(a)** included in the taxpayer's assessable income; and
 
 > <a id="s6BA-2-b"></a>
 > **(b)** is not rebatable under section 46A.

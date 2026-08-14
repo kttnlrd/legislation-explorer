@@ -13,9 +13,9 @@ The criteria to be satisﬁed for an organisation to be entered on the DGR categ
 
 *Refs: s 30-15, s 30-55(2)*
 
-- the organisation’s principal purpose must be the protection and enhancement of the environment
+- the organisation's principal purpose must be the protection and enhancement of the environment
 
-(whether in Australia or elsewhere) or a signiﬁcant aspect of the environment, or the provision of information or education, or the carrying on of research about, the environment or a signiﬁcant aspect of the environment (“environment” for these purposes refers to the natural environment and includes all aspects of the natural surroundings of humans). The organisation must use gifts made to its gift fund for its principal purpose
+(whether in Australia or elsewhere) or a signiﬁcant aspect of the environment, or the provision of information or education, or the carrying on of research about, the environment or a signiﬁcant aspect of the environment ("environment" for these purposes refers to the natural environment and includes all aspects of the natural surroundings of humans). The organisation must use gifts made to its gift fund for its principal purpose
 
 - the organisation must be an institution that is registered with the ACNC as a charity or be an
 

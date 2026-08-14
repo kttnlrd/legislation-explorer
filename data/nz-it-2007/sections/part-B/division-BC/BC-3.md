@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # BC 3  Annual total deduction
 
-A person’s annual total deduction for a tax year is the total of their deductions that are allocated to the corresponding income year.
+A person's annual total deduction for a tax year is the total of their deductions that are allocated to the corresponding income year.
 
 *Defined in this Act: annual total deduction, corresponding income year, deduction, tax year*
 

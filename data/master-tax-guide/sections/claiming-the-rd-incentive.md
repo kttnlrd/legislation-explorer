@@ -7,9 +7,9 @@ paragraph: "¶20-170"
 ---
 # Claiming the R&D incentive ¶20-170
 
-Each R&D entity is entitled to a tax oﬀset on eligible R&D expenditure on registered R&D activities instead of tax deductions for this expenditure. The rate of this oﬀset includes an additional amount over the company’s tax rate for R&D expenditure up to the R&D expenditure threshold in s 355-100(3). The tax oﬀset for expenditure above this amount is at the R&D entity’s corporate tax rate.
+Each R&D entity is entitled to a tax oﬀset on eligible R&D expenditure on registered R&D activities instead of tax deductions for this expenditure. The rate of this oﬀset includes an additional amount over the company's tax rate for R&D expenditure up to the R&D expenditure threshold in s 355-100(3). The tax oﬀset for expenditure above this amount is at the R&D entity's corporate tax rate.
 
-Aggregated turnover The incentive consists of a refundable tax oﬀset equal to the R&D entity’s corporate tax rate plus 18.5% for entities with an annual aggregated turnover of less than $20 million unless they are 50% or more controlled by exempt entities in a way described in s 328-125 (¶7-050). The concept of “aggregated turnover” is the same as in the small business concessions (¶7-050) and includes allocated turnover to an R&D entity in an R&D partnership.
+Aggregated turnover The incentive consists of a refundable tax oﬀset equal to the R&D entity's corporate tax rate plus 18.5% for entities with an annual aggregated turnover of less than $20 million unless they are 50% or more controlled by exempt entities in a way described in s 328-125 (¶7-050). The concept of "aggregated turnover" is the same as in the small business concessions (¶7-050) and includes allocated turnover to an R&D entity in an R&D partnership.
 
 *Refs: s 355-100(3), s 328-125*
 
@@ -35,7 +35,7 @@ and taxation Tax eﬀect accounting adjustments are required to calculate the co
 
 R&D expenditure eligible for the tax oﬀset is not tax deductible. The accounting expenditure in the Income Statement (Proﬁt and Loss Statement) and within the expense amounts in Item 6 of the company tax return will be prior to these adjustments, whilst the R&D tax oﬀset is calculated using the adjusted expenditure.
 
-Entities with a turnover of $20 million or more, or that are controlled by exempt entities, are entitled to the two-tiered non-refundable carry-forward oﬀset. The amount eligible for each tier is based on “total expenses” where this is the total of all the accounting expenses in Item 6 of the company tax return adjusted for these tax eﬀect accounting items to the extent that they are used to calculate the R&D expenditure.
+Entities with a turnover of $20 million or more, or that are controlled by exempt entities, are entitled to the two-tiered non-refundable carry-forward oﬀset. The amount eligible for each tier is based on "total expenses" where this is the total of all the accounting expenses in Item 6 of the company tax return adjusted for these tax eﬀect accounting items to the extent that they are used to calculate the R&D expenditure.
 
 *Refs: s 355-100(1, s 355-115*
 
@@ -43,7 +43,7 @@ Entities with a turnover of $20 million or more, or that are controlled by exemp
 
 Expenditure limitations Entities that necessarily undertake R&D activities overseas are able to claim these costs so long as the total overseas expenditure over the life of the R&D activities is less than the expected total expenditure on the Australian R&D activities to which they are scientiﬁcally linked. This is subject to obtaining approval under s 28C of the IR&D Act for the foreign activities by Industry, Innovation and Science Australia (the Board).
 
-The “mere” importation of components to be used in R&D activities conducted in Australia is not overseas expenditure and is included as part of the expected expenditure on Australian R&D activities (TDS Biz Pty Ltd 2023 ATC ¶20-871; [2023] FCA 710).
+The "mere" importation of components to be used in R&D activities conducted in Australia is not overseas expenditure and is included as part of the expected expenditure on Australian R&D activities (TDS Biz Pty Ltd 2023 ATC ¶20-871; [2023] FCA 710).
 
 The 2 oﬀset rates are limited to expenditure up to the R&D expenditure threshold of $150 million.
 
@@ -59,13 +59,13 @@ Eligibility and calculations
 
 - the R&D entity must be registered under s 27A of the IR&D Act for the R&D activities undertaken
 
-  that year. Registration is normally required within 10 months after the end of the R&D entity’s
+  that year. Registration is normally required within 10 months after the end of the R&D entity's
 
   income year; however, a 3-month extension may be granted. This registration (and extension) must
 
   be approved by the Board and is made through Department of Industry, Science and Resources.
 
-The Board cannot register a company’s activities after this period except in accordance with the decision-making principles (IR&D Act s 27D). A refusal to allow an extension of time is reviewable internally by the Board and subsequently by the AAT. Under the former concession, corporate restructuring and staﬀ changes were not suﬃcient to warrant an extension of time in Bloomﬁeld Collieries Pty Ltd & Anor v Innovation Australia 2009 ATC ¶10-076; [2009] AATA 69, but an extension was granted for the year in which the Australian Coal Association Research Program (ACARP) had advised the taxpayer that an ongoing concession for ACARP levies was available without mentioning the need to apply for a registration. An extension was also not granted where the late preparation of the application was due to the failure of the company to have a system of checks in place to monitor its preparation and a lack of support for the relevant staﬀ member who had become ill (SFGV and Innovation Australia [2010] AATA 677)
+The Board cannot register a company's activities after this period except in accordance with the decision-making principles (IR&D Act s 27D). A refusal to allow an extension of time is reviewable internally by the Board and subsequently by the AAT. Under the former concession, corporate restructuring and staﬀ changes were not suﬃcient to warrant an extension of time in Bloomﬁeld Collieries Pty Ltd & Anor v Innovation Australia 2009 ATC ¶10-076; [2009] AATA 69, but an extension was granted for the year in which the Australian Coal Association Research Program (ACARP) had advised the taxpayer that an ongoing concession for ACARP levies was available without mentioning the need to apply for a registration. An extension was also not granted where the late preparation of the application was due to the failure of the company to have a system of checks in place to monitor its preparation and a lack of support for the relevant staﬀ member who had become ill (SFGV and Innovation Australia [2010] AATA 677)
 
 - the R&D activities must have been conducted within Australia, an external territory or, if outside
 
@@ -75,7 +75,7 @@ The Board cannot register a company’s activities after this period except in a
 
   a foreign aﬃliate (ss 355-215; 355-220). The Federal Court decision in TDS Biz Pty Ltd 2023 ATC
 
-¶20-871; [2023] FCA 710 clariﬁes that this applies to both “core R&D activities” and “supporting R&D activities” conducted overseas, but does not apply to the “mere” importation of components to be used in these activities conducted in Australia
+¶20-871; [2023] FCA 710 clariﬁes that this applies to both "core R&D activities" and "supporting R&D activities" conducted overseas, but does not apply to the "mere" importation of components to be used in these activities conducted in Australia
 
 - the entity incurs notional deductions for the positive limbs linked to s 355-100, eg:
 
@@ -126,7 +126,7 @@ Example EnergyPlus manufactures alternative fuels and has an annual turnover of 
 
 - $300,000 on other costs including travel costs for the teams above or for experts brought into the project, contractor
 
-  services, university or research laboratory studies, EnergyPlus’ laboratory costs and consumables, etc. These costs should
+  services, university or research laboratory studies, EnergyPlus' laboratory costs and consumables, etc. These costs should
 
   exclude recoverable GST amount and any intra-group mark-ups. They may need to be apportioned between R&D and
 
@@ -154,9 +154,9 @@ If the resulting fuel was sold for a proﬁt, then the claim is reduced by a fee
 
 Under the incentive, for an income year that commenced on or after 1 July 2021, the tax oﬀset would be $358,875 (ie $825,000 × (25% + 18.5%)). If they were not a base rate entity, the tax oﬀset would be $400,125 (ie $825,000 × (30% + 18.5%)).
 
-If EnergyPlus is part of R&D group with an annual turnover of $21 million, then EnergyPlus’ tax oﬀset would be $276,375 (ie $825,000 × (25% + 8.5%)) if its total expenses under s 355-115 were $41,250,000 or more. If the R&D expenditure is more than 2% of the total expenses, then some of the R&D expenditure by EnergyPlus would be eligible for the second tier rate (ie 25% + 16.5%). If the total expenses were $16.5 million, the tax oﬀset would be $315,975 being: First tier: $330,000 (ie $16,500,000 × 2%) × (25% + 8.5%) = $110,550, plus Second tier: $495,000 (ie $825,000 – $330,000) × (25% + 16.5%) = $205,425.
+If EnergyPlus is part of R&D group with an annual turnover of $21 million, then EnergyPlus' tax oﬀset would be $276,375 (ie $825,000 × (25% + 8.5%)) if its total expenses under s 355-115 were $41,250,000 or more. If the R&D expenditure is more than 2% of the total expenses, then some of the R&D expenditure by EnergyPlus would be eligible for the second tier rate (ie 25% + 16.5%). If the total expenses were $16.5 million, the tax oﬀset would be $315,975 being: First tier: $330,000 (ie $16,500,000 × 2%) × (25% + 8.5%) = $110,550, plus Second tier: $495,000 (ie $825,000 – $330,000) × (25% + 16.5%) = $205,425.
 
-Evidence for activities and relevant expenditure The Federal Court’s decision in Bogiatto 2020 ATC ¶20-757; [2020] FCA 1139 on tax exploitation schemes involving R&D activities also addressed the requirement that the R&D entity must be able to substantiate that the R&D activities were carried out and the expenditure was incurred in line with the requirements of a statutory scheme. It established that the “entitlement to the tax oﬀset is dependent on whether the taxable facts are such that the R&D claims were available” to the R&D entity and not just that the entitlement is dependent on keeping records. Adequate evidence should be kept to substantiate the tax oﬀset claim.
+Evidence for activities and relevant expenditure The Federal Court's decision in Bogiatto 2020 ATC ¶20-757; [2020] FCA 1139 on tax exploitation schemes involving R&D activities also addressed the requirement that the R&D entity must be able to substantiate that the R&D activities were carried out and the expenditure was incurred in line with the requirements of a statutory scheme. It established that the "entitlement to the tax oﬀset is dependent on whether the taxable facts are such that the R&D claims were available" to the R&D entity and not just that the entitlement is dependent on keeping records. Adequate evidence should be kept to substantiate the tax oﬀset claim.
 
 Primarily, this would be documentary evidence, but it may be supported by secondary evidence including accounting and business management processes, witness statements, statutory declarations, oral evidence and alike. For example, documentary evidence on total salary paid to particular employees together with other evidence, including oral testimony, on justifying the proportion of time they spent on R&D activities.
 

@@ -41,7 +41,7 @@ source_pdf: "vol01.pdf"
 > **(b)**  the original unpaid amount.
 
 <a id="s8AAC-4"></a>
-**(4)**  If the charge applies to an amount that is specified in the provision that imposes the charge, but none of subsections (2), (2A) and (3) Authorised Version C2026C00170 registered 28/04/2026 apply, then the charge is worked out by multiplying the general interest charge rate for that day by the sum of the following amounts:
+**(4)**  If the charge applies to an amount that is specified in the provision that imposes the charge, but none of subsections (2), (2A) and (3) apply, then the charge is worked out by multiplying the general interest charge rate for that day by the sum of the following amounts:
 
 > <a id="s8AAC-4-a"></a>
 > **(a)**  so much of the charge from previous days as remains unpaid;

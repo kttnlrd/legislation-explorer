@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Maori Trustee**
 
-**(4)**  The Maori Trustee in the Maori Trustee’s capacity as an agent for an owner of land that is subject to Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993) is eligible to make an election.
+**(4)**  The Maori Trustee in the Maori Trustee's capacity as an agent for an owner of land that is subject to Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993) is eligible to make an election.
 
 **Maori Trust Board**
 

@@ -3,23 +3,18 @@ ATO ID 2010/110
 ==================================================
 
 Income Tax
-        Assessability of an employment termination payment paid to a foreign resident
-        FOI status: may be released
-
+ Assessability of an employment termination payment paid to a foreign resident
+ FOI status: may be released
 
 This ATO ID is withdrawn as it is no longer consistent with the commentary to the OECD Model Tax Convention following the update on 15 July 2014.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxable component of an employment termination payment (ETP) included in the assessable income of the taxpayer, a foreign resident, under paragraph 6-10(5)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) where it is paid by an Australian employer and relates to employment undertaken in both Australia and the United Kingdom (UK)?
@@ -47,7 +42,6 @@ Subsection 6-10(5) of the ITAA 1997 relevantly provides:
 
 If you are a foreign resident, your assessable income includes:
 
-
 (a)your statutory income from all Australian sources;
 
 Therefore, in accordance with paragraph 6-10(5)(a) of the ITAA 1997, the taxable component of the foreign resident's life benefit ETP will only be included in the taxpayer's assessable income if it has an Australian source.
@@ -62,8 +56,6 @@ Where income is derived from wages or salary, again the source has several facto
 
 While these cases have typically involved determining the source of remuneration for services rendered, the fundamental approach to determining the source for other types of income is the same. Accordingly, in determining the source of a payment made as a consequence of the termination of employment, consideration must be given to all the factors that gave rise to the payment of the ETP and whether any particular factor or factors can be said to be more important or the most important in determining the source of the ETP.
 In this case, the factors that gave rise to the payment of the ETP are:
-
-
 
 •the taxpayer had an employment contract with the employer,
 •the taxpayer performed services pursuant to that employment contract,
@@ -85,19 +77,17 @@ Article 20 (Other Income) of the 2003 UK Convention allocates taxing rights in r
 As the taxpayer was a UK resident at the time of receiving the ETP, Article 20(1) allocates a taxing right over the ETP to the UK. However, Article 20(3) also allocates Australia a taxing right over the ETP as it is from Australian sources.
 Accordingly, the taxable component of the ETP is included in the assessable income of the taxpayer under paragraph 6-10(5)(a) of the ITAA 1997.
 
-
-
 Note 1
-                : as the country of residence of the taxpayer, the UK is obliged to provide relief from any double taxation of the ETP in accordance with Article 22(2) of the 2003 UK Convention.
+ : as the country of residence of the taxpayer, the UK is obliged to provide relief from any double taxation of the ETP in accordance with Article 22(2) of the 2003 UK Convention.
 
 Note 2
-                : in those circumstances where the source of an ETP is found to be partially in Australia and partially in another country, paragraph 6-10(5)(a) of the ITAA 1997 allows for apportionment of the ETP such that only the Australian sourced portion of the ETP is included in assessable income. Although it is not possible to apportion an ETP under section 82-235 of the ITAA 1997 such that only part of it is exempt as a foreign termination payment (see ATOID 2009/123), this does not prevent apportionment on the basis of source under paragraph 6-10(5)(a) of the ITAA 1997.
+ : in those circumstances where the source of an ETP is found to be partially in Australia and partially in another country, paragraph 6-10(5)(a) of the ITAA 1997 allows for apportionment of the ETP such that only the Australian sourced portion of the ETP is included in assessable income. Although it is not possible to apportion an ETP under section 82-235 of the ITAA 1997 such that only part of it is exempt as a foreign termination payment (see ATOID 2009/123), this does not prevent apportionment on the basis of source under paragraph 6-10(5)(a) of the ITAA 1997.
 
 Date of decision:
-         13 April 2010
+  13 April 2010
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -105,9 +95,7 @@ Income Tax Assessment Act 1936   The Act
 Income Tax Assessment Act 1997   paragraph 6-10(5)(a)   paragraph 6-10(5)(b)   section 10-5   Division 82   section 82-10   subsection 82-10(2)   Subdivision 83-D   section 82-130
 International Tax Agreements Act 1953   Schedule 1, Article 14   Schedule 1, Article 20   Schedule 1, Article 22
 
-
 Case References:
-
 
 Nathan v Federal Commissioner of Taxation   (1918) 25 CLR 183
 
@@ -122,7 +110,7 @@ Commissioner of Taxation v Cam & Sons Ltd   (1936) 36 SR (NSW) 544   (1936
 Federal Commissioner of Taxation v French   (1957) 98 CLR 398   (1957) 11 ATD 288   (1957) 7 AITR 76
 
 Federal Commissioner of Taxation v Efstathakis   [1979] FCA 28   79 ATC 4256   (1979) 9 ATR 867
-          Case U165   87 ATC 955
+ Case U165   87 ATC 955
 
 Related ATO Interpretative Decisions
 
@@ -132,28 +120,24 @@ Related ATO Interpretative Decisions
 Keywords
 
 Non resident individuals
-          Employment termination payments
-
+ Employment termination payments
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         7 May 2010
+  7 May 2010
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 13 April 2010

@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 - (a) calculating the amounts of tax that must be withheld for the relevant benefits and employees, and paying the amounts to the Commissioner as described in section RD 4(1); and
 
-- (b) including the amounts in the employer’s employment income information under subpart 3C of the Tax Administration Act 1994, treating the relevant ESS deferral date as the relevant payday; and
+- (b) including the amounts in the employer's employment income information under subpart 3C of the Tax Administration Act 1994, treating the relevant ESS deferral date as the relevant payday; and
 
 - (c) making the disclosure referred to in paragraph (b) within the time required under section RD 6(3)﻿(a).
 

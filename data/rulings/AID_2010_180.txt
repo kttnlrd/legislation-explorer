@@ -3,18 +3,14 @@ ATO ID 2010/180
 ==================================================
 
 Income Tax
-        Taxation of financial arrangements: definition of a special accrual amount and the balancing adjustment in Subdivision 230-G
-        FOI status: may be released
-
-
+ Taxation of financial arrangements: definition of a special accrual amount and the balancing adjustment in Subdivision 230-G
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the balancing adjustment made under the method statement in subsection 230-445(1) of the Income Tax Assessment Act 1997 (ITAA 1997) a special accrual amount?
@@ -43,8 +39,6 @@ Paragraph 995-1(1)(ba) provides that a special accrual amount is also:
 
 Under Division 230, there are two assessing provisions:
 
-
-
 1.the general assessing provision in section 230-15 which brings to account for tax gains and losses taken into account under the tax timing methods in Division 230; and
 2.section 230-495 which brings to account for tax gains and losses that would have been made from a financial arrangement but for a change in accounting standard(s).
 
@@ -62,10 +56,10 @@ It follows from this view that paragraph 995-1(1)(ba) can only apply to gains an
 Therefore, reading paragraph 995-1(1)(ba) in light of the context of the exhaustive definition of a special accrual amount and the mischief the legislation is intended to address, it is considered that an additional gain or loss taken into account as a balancing adjustment (which is itself assessable under section 230-15) does not satisfy the requirements of paragraph 995-1(1)(ba).
 Accordingly, the elements in the calculation of the balancing adjustment will be translated to the taxpayer's applicable functional currency before the balancing adjustment is calculated under subsection 230-445(1).
 Date of decision:
-         27 September 2010
+  27 September 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -74,28 +68,26 @@ Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009   sub item 1
 
 Case References:
 
-
 CIC Insurance Ltd v Bankstown Football Club   (1997) 187 CLR 384
 
 Keywords
 
 Taxation of Financial Arrangements CoE
-          Balancing adjustment calculation
-          Special accrual amount
-          Applicable functional currency
-          Balancing adjustment gains
-          Losses
-          Foreign currency
-
+ Balancing adjustment calculation
+ Special accrual amount
+ Applicable functional currency
+ Balancing adjustment gains
+ Losses
+ Foreign currency
 
 Siebel/TDMS Reference Number:
-         1-2454XKP
+  1-2454XKP
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         8 October 2010
+  8 October 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -3,23 +3,19 @@ ATO ID 2006/334
 ==================================================
 
 Income Tax
-        Classification of a United Kingdom limited partnership for Australian income tax purposes
-        FOI status: may be released
-
-
+ Classification of a United Kingdom limited partnership for Australian income tax purposes
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a United Kingdom limited partnership (UKLP) formed under the United Kingdom Limited Partnerships Act 1907 a foreign hybrid limited partnership under Division 830 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes.  A United Kingdom limited partnership formed under the United Kingdom Limited Partnerships Act 1907 is a foreign hybrid limited partnership under Division 830 of the ITAA 1997.
+Yes. A United Kingdom limited partnership formed under the United Kingdom Limited Partnerships Act 1907 is a foreign hybrid limited partnership under Division 830 of the ITAA 1997.
 Facts
 A partnership (UKLP) is formed under the United Kingdom Limited Partnerships Act 1907 and governed by the Partnership Act 1890. It is subject to the laws and regulations of the United Kingdom.
 The UKLP is a resident of the United Kingdom.
@@ -30,15 +26,11 @@ The UKLP is a controlled foreign company (CFC) in relation to an Australian taxp
 Reasons for Decision
 Subsection 830-10(1) of the ITAA 1997 provides that a limited partnership is a foreign hybrid limited partnership in relation to an income year if:
 
-
-
 (a)it was formed in a foreign country; and
 (b)foreign tax is imposed under the law of the foreign country on the partners, not the limited partnership, in respect of the income or profits of the partnership for the income year; and
 (c)at no time during the income year is the limited partnership, for the purposes of a law of any foreign country that imposes foreign tax on entities because they are residents of the foreign country, a resident of that country; and
 (d)disregarding subsection 94D(5) of the Income Tax Assessment Act 1936, at no time during the income year is it an Australian resident; and
 (e)disregarding that subsection, in relation to the same income year of another taxpayer:
-
-
 
 (i)the limited partnership is a CFC at the end of a statutory accounting period that ends in the income year; and
 (ii)at the end of the statutory accounting period, the taxpayer is an attributable taxpayer in relation to the CFC with an attribution percentage greater than nil.
@@ -54,10 +46,10 @@ Paragraph 830-10(1)(d) of the ITAA 1997 is satisfied because the limited partner
 Paragraph 830-10(1)(e) of the ITAA 1997 is satisfied because, disregarding section 94D(5) of the Income Tax Assessment Act 1936, the limited partnership is a CFC in relation to an Australian taxpayer and the Australian taxpayer is an attributable taxpayer with an attributable percentage of greater than nil in relation to the CFC.
 As a result of satisfying all the requirements of subsection 830-10(1) of the ITAA 1997, the UKLP will be a 'foreign hybrid limited partnership' for the purposes of section 830-10 of the ITAA 1997.
 Date of decision:
-         25 October 2006
+  25 October 2006
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -71,27 +63,26 @@ Related ATO Interpretative Decisions
 Other References:
 
 The Limited Partnership Act 1907 (United Kingdom)
-          The Partnership Act 1890 (United Kingdom)
-           Taxation Laws Amendment Act (No. 1) 2004
+ The Partnership Act 1890 (United Kingdom)
+ Taxation Laws Amendment Act (No. 1) 2004
 
 Keywords
 
 United Kingdom
-          Controlled foreign companies
-          Foreign hybrid limited partnership
-          Foreign hybrids
-          International tax
-          Limited partnerships
-
+ Controlled foreign companies
+ Foreign hybrid limited partnership
+ Foreign hybrids
+ International tax
+ Limited partnerships
 
 Siebel/TDMS Reference Number:
-         5477377
+  5477377
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         15 December 2006
+  15 December 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

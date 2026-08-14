@@ -3,18 +3,14 @@ ATO ID 2005/339
 ==================================================
 
 Income Tax
-        Income Tax: Consolidation - depreciating assets
-        FOI status: may be released
-
-
+ Income Tax: Consolidation - depreciating assets
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can section 701A-10 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997) apply to a head company in respect of an internally created asset that is a depreciating asset in the hands of a joining entity, though it was not a depreciating asset for income tax purposes in the hands of the entity that created the asset?
@@ -28,12 +24,12 @@ Company C holds it as a depreciating asset.
 Reasons for Decision
 Subsection 701A-10(1) of the IT(TP)A 1997 only applies to depreciating assets. This is because paragraph 701A-10(1)(a) of the IT(TP)A 1997 refers to 'a depreciating asset'. Subsequent references within the section to 'the asset' obtain their meaning from the first use of the term 'asset' in paragraph 701A-10(1)(a) of the IT(TP)A 1997 being a 'depreciating asset'.
 The internally created asset must have had the characteristics of a depreciating asset as defined under section 40-30 of the Income Tax Assessment Act 1997 (ITAA 1997) during the whole of its existence. The internally created asset must also be an asset within the meaning of that term under subsection 705-35(1) of the ITAA 1997.
-In this instance, Company B's internally created asset was an identifiable source of value to C and was therefore an asset for the purposes of subsection 705-35(1) of the ITAA 1997.  However, it did not meet the definition of a depreciating asset under section 40-30 of the ITAA 1997 continuously from the time of its creation.  It may not have met the definition of a depreciating asset under section 40-30 because it was held as trading stock or for some other reason that excluded it from the definition. Therefore, section 701A-10 of the IT(TP)A 1997 will not apply to Head Company X even though Company C holds the asset as a depreciating asset at the joining time.
+In this instance, Company B's internally created asset was an identifiable source of value to C and was therefore an asset for the purposes of subsection 705-35(1) of the ITAA 1997. However, it did not meet the definition of a depreciating asset under section 40-30 of the ITAA 1997 continuously from the time of its creation. It may not have met the definition of a depreciating asset under section 40-30 because it was held as trading stock or for some other reason that excluded it from the definition. Therefore, section 701A-10 of the IT(TP)A 1997 will not apply to Head Company X even though Company C holds the asset as a depreciating asset at the joining time.
 Date of decision:
-         29 September 2005
+  29 September 2005
 
 Year of income:
-           Year ending 30 June 2003 Year ending 30 June 2004
+  Year ending 30 June 2003 Year ending 30 June 2004
 
 Legislative References:
 
@@ -51,20 +47,19 @@ ATO ID 2003/740
 Keywords
 
 Adjustable value of a depreciating asset
-          Adjusted market value of the consolidated group
-          Consolidation
-          Consolidation - assets
-          Consolidation - joining
-
+ Adjusted market value of the consolidated group
+ Consolidation
+ Consolidation - assets
+ Consolidation - joining
 
 Siebel/TDMS Reference Number:
-         3565099
+  3565099
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         25 November 2005
+  25 November 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

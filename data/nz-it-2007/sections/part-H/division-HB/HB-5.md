@@ -4,15 +4,15 @@ part_title: Part H Taxation of certain entities
 division: HB
 division_title: Subpart HB—Look-through companies
 section: HB-5
-section_title: Disposal of owner’s interests
+section_title: Disposal of owner's interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# HB 5  Disposal of owner’s interests
+# HB 5  Disposal of owner's interests
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner’s interests (the current interests) for a look-through company, if the amount calculated using the formula is less than zero— disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
+**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner's interests (the current interests) for a look-through company, if the amount calculated using the formula is less than zero— disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
 
 **Definition of items in formula**
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) disposal payment is the total amount of consideration paid or payable to the exiting owner for the current interests:
 
-- (b) previous payments is the total amount of consideration paid or payable to the exiting owner for other disposals of some or all of their owner’s interests (the other interests) that have occurred in the year before the disposal of the current interests:
+- (b) previous payments is the total amount of consideration paid or payable to the exiting owner for other disposals of some or all of their owner's interests (the other interests) that have occurred in the year before the disposal of the current interests:
 
 - (c) gross tax value is the total of—
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
   - (ii) the market value of the current interests and other interests at the time the relevant interest is disposed of, to the extent to which the interests are not revenue account property or depreciable property or financial arrangements:
 
-- (d) liabilities is the amount of liabilities under generally accepted accounting practice at the time the relevant interest is disposed of, calculated by reference to the exiting owner’s ownership share for the relevant interest.
+- (d) liabilities is the amount of liabilities under generally accepted accounting practice at the time the relevant interest is disposed of, calculated by reference to the exiting owner's ownership share for the relevant interest.
 
 **Exiting owner: excluded payment**
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **(7)**  Section HB 4 overrides this section.
 
-*Defined in this Act: deduction, depreciable property, dispose, entering owner, excluded income, financial arrangement, income tax liability, look-through company, owner’s interests, pay, return of income, revenue account property, year*
+*Defined in this Act: deduction, depreciable property, dispose, entering owner, excluded income, financial arrangement, income tax liability, look-through company, owner's interests, pay, return of income, revenue account property, year*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

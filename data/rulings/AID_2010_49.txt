@@ -3,18 +3,14 @@ ATO ID 2010/49
 ==================================================
 
 Income Tax
-        Company tax loss: whether the Commissioner can be prevented from disallowing any part of a tax loss following an injection of income
-        FOI status: may be released
-
-
+ Company tax loss: whether the Commissioner can be prevented from disallowing any part of a tax loss following an injection of income
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where assessable income or a capital gain has been injected into a company because of an available tax loss and the 'continuing shareholders' (as defined in subsection 175-10(3) of the Income Tax Assessment Act 1997 (ITAA 1997)) of the company benefit wholly or mainly from the injected amount, can the Commissioner be prevented from disallowing any part of the deduction of the tax loss pursuant to subsection 175-10(2) of the ITAA 1997?
@@ -30,19 +26,16 @@ Reasons for Decision
 Subsections 175-10(1) and 175-10(2) of the ITAA 1997 provide:
 
 175-10(1
-              ) The Commissioner may disallow the *excluded loss if, during the income year, the company *derived assessable income, or a *capital gain accrued to the company, some or all of which (the injected amount) would not have been derived, or would not have accrued, if the excluded loss had not been available to be taken into account for the purposes of:
-
+ ) The Commissioner may disallow the *excluded loss if, during the income year, the company *derived assessable income, or a *capital gain accrued to the company, some or all of which (the injected amount) would not have been derived, or would not have accrued, if the excluded loss had not been available to be taken into account for the purposes of:
 
 Division 36 (which is about tax losses of earlier years)
 
 Division 165 (which is about the income tax consequences of changing ownership or control of a company)
 
-
 Subdivision 375-G (which is about film losses).
 
-
 175-10(2
-              ) However, the Commissioner cannot disallow the *excluded loss if the *continuing shareholders will benefit from the derivation or accrual of the *injected amount to an extent that the Commissioner thinks fair and reasonable having regard to their respective rights and interests in the company.
+ ) However, the Commissioner cannot disallow the *excluded loss if the *continuing shareholders will benefit from the derivation or accrual of the *injected amount to an extent that the Commissioner thinks fair and reasonable having regard to their respective rights and interests in the company.
 
 * denotes a term defined in section 995-1 of the ITAA 1997
 
@@ -51,23 +44,20 @@ The Explanatory Memorandum (EM) to the Income Tax Assessment Bill 1973, which in
 
 The effects of the amendments proposed in clauses 8 to 13 will be -
 
-
 (a)to strengthen the [COT] -
 
-
-
 (ii)by requiring as an additional safeguard that the loss deduction will not be allowable
-                          where the benefit of the deduction will flow, to a disproportionate extent
-                          , to persons who were not beneficial owners, directly or indirectly, of an interest in the company in the year in which the loss was incurred. This safeguard is contained in the provisions of a new section - section 80DA - which is proposed by clause 11.
+ where the benefit of the deduction will flow, to a disproportionate extent
+ , to persons who were not beneficial owners, directly or indirectly, of an interest in the company in the year in which the loss was incurred. This safeguard is contained in the provisions of a new section - section 80DA - which is proposed by clause 11.
 ...
 
 The provisions of section 80DA are designed to ensure that deductions for previous years losses are not allowed to a company in circumstances where,
-              although the
-               [
-              COT
-              ]
-              has been technically satisfied, the benefits from the allowance of the deductions would, in fact, flow wholly or mainly to persons who were not shareholders in the company during the years in which the losses were incurred
-              . The section is mainly intended to ensure the effectiveness of the [COT]... [Emphasis added]
+ although the
+ [
+ COT
+ ]
+ has been technically satisfied, the benefits from the allowance of the deductions would, in fact, flow wholly or mainly to persons who were not shareholders in the company during the years in which the losses were incurred
+ . The section is mainly intended to ensure the effectiveness of the [COT]... [Emphasis added]
 
 Section 80DA of the ITAA 1936 was re-written as Division 175 of the ITAA 1997. Chapter 7 of the EM to the Income Tax Assessment Bill 1996 does not indicate any change in the legislative policy of Division 175. Therefore in accordance with section 1-3 of the ITAA 1997, the ideas expressed in paragraph 80DA(1)(a) of the ITAA 1936 are considered to be consistent with section 175-10 of the ITAA 1997.
 Both subsection 80DA(2) of the ITAA 1936 (for the purposes of applying paragraph 80DA(1)(a) of the ITAA 1936) and subsection 175-10(2) of the ITAA 1997 require the Commissioner to consider the continuing shareholders' 'rights and interests in the company' when determining whether a tax loss is deductible to the company.
@@ -78,15 +68,15 @@ also provides, however, that paragraph [80DA(1)(a)] will not apply to disallow a
 
 These different indicia suggest that the purpose of paragraph 80DA(1)(a) of the ITAA 1936 and section 175-10 of the ITAA 1997 is to counter collateral arrangements for the conferral of benefits through income injection schemes involving a company's tax losses. These collateral arrangements might otherwise be veiled by the legal shareholdings (as recorded on the company's share register) demonstrating satisfaction of the COT.
 In this case, there is no evidence of such a collateral arrangement. The 'continuing shareholders' when the tax losses were incurred will benefit
-          wholly or mainly
-           - quoting from the EM to the Income Tax Assessment Bill 1973 - from the injected amount.
+ wholly or mainly
+ - quoting from the EM to the Income Tax Assessment Bill 1973 - from the injected amount.
 Accordingly, if the entire tax loss is deductible to the company, the 'continuing shareholders' will benefit from the derivation of the injected amount to an extent that the Commissioner thinks fair and reasonable having regard to their respective rights and interests in the company.
 Accordingly, subsection 175-10(2) of the ITAA 1997 prevents the Commissioner from disallowing any part of the deduction for the tax loss available to Company A.
 Date of decision:
-         14 January 2010
+  14 January 2010
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -100,19 +90,18 @@ ATO ID 2006/156
 Keywords
 
 Income injection test
-          Tax loss
-          Losses
-          Company losses
-
+ Tax loss
+ Losses
+ Company losses
 
 Siebel/TDMS Reference Number:
-         6318899
+  6318899
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         26 February 2010
+  26 February 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

@@ -3,23 +3,18 @@ ATO ID 2008/90
 ==================================================
 
 Superannuation
-        Superannuation contributions: return of fund capped contributions by self-managed superannuation fund
-        FOI status: may be released
-
+ Superannuation contributions: return of fund capped contributions by self-managed superannuation fund
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database as subregulations 7.04(3) and 7.04(7) of the Superannuation Industry (Supervision) Regulations 1994 (SISR) have been repealed with effect from 1 July 2017. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2016-17 income year.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a trustee of a self-managed superannuation fund required by subregulations 7.04(3) and 7.04(4) of the Superannuation Industry Supervision Regulations 1994 (SISR) to return the whole of a fund-capped contribution to a contributor if it is greater than three times the amount of the non-concessional contributions cap for that financial year?
@@ -34,7 +29,6 @@ Subregulation 7.04(3) of the SISR provides that:
 
 In addition to subregulation (1), the regulated superannuation fund must not accept any fund-capped contributions in a financial year in respect of a member that exceed:
 
-
 (a)if the member is 64 or less on 1 July of the financial year - three times the amount of the non-concessional contributions cap; or
 (b)if the member is 65 but less than 75 on 1 July of the financial year - the non-concessional contributions cap.
 
@@ -43,7 +37,6 @@ In this case, the member is less than 64 on 1 July 2007. The ABC fund must not a
 Subregulation 7.04(4) of the SISR provides that:
 
 If a regulated superannuation fund receives an amount that is inconsistent with subregulation ... (3):
-
 
 (a)the fund must return the amount to the entity or the person that paid the amount within 30 days of becoming aware that the amount was received in a manner that is inconsistent with subregulation...(3), unless...
 
@@ -54,10 +47,10 @@ To help prevent a person from inadvertently contributing more than the non-conce
 
 In this case, the amount of $2,000 is required to be returned to the member as $2,000 is the amount that the contribution of $452,000 exceeds three times the non-concessional contribution cap for the 2007-2008 financial year of $450,000.
 Date of decision:
-         5 May 2008
+  5 May 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -69,45 +62,40 @@ Related ATO Interpretative Decisions
 
 Other References:
 
-Item 80 of the  Explanatory Statement to the Superannuation Industry (Supervision) Amendment Regulation 2007 (No. 1)
-
+Item 80 of the Explanatory Statement to the Superannuation Industry (Supervision) Amendment Regulation 2007 (No. 1)
 
 Keywords
 
 Contributions returned
-          Excess non-concessional contributions
-          Non-concessional contributions
-          Self managed superannuation funds
-          SMSF trustee
-          Superannuation
-          Superannuation excess contributions tax
-
+ Excess non-concessional contributions
+ Non-concessional contributions
+ Self managed superannuation funds
+ SMSF trustee
+ Superannuation
+ Superannuation excess contributions tax
 
 Siebel/TDMS Reference Number:
-         5980410; 1-5RYK3TG; 1-FWHX3YN
+  5980410; 1-5RYK3TG; 1-FWHX3YN
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         13 June 2008
+  13 June 2008
 
 Date reviewed:
-         27 August 2014
+  27 August 2014
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  5 May 2008

@@ -9,13 +9,13 @@ paragraph: "¶20-350"
 
 The location oﬀset (ITAA97 ss 376-10 to 376-30) is available for an income year in respect of a ﬁlm where:
 
-- the total of the company’s QAPE on the ﬁlm is at least $20 million where ﬁlming or production
+- the total of the company's QAPE on the ﬁlm is at least $20 million where ﬁlming or production
 
   commenced on or after 1 July 2023 ($15 million where ﬁlming or production commenced prior to 1
 
 July 2023). It is proposed to reduce the threshold from $20 million to $15 million (2024–25 MYEFO)
 
-- the company’s QAPE ceased being incurred in the income year
+- the company's QAPE ceased being incurred in the income year
 
 - a certiﬁcate has been issued for the ﬁlm by the Arts Minister, who may request further information
 
@@ -49,9 +49,9 @@ Training requirements Where ﬁlming or production commenced on or after 1 July 
 
   that is provided to support the production of 2 or more ﬁlms.
 
-Regulations can prescribe the minimum training expenditure (but not exceeding $750,000 or 1% of the ﬁlm’s QAPE). In the absence of such regulations, the amounts are $250,000 or 0.5% of QAPE (for ﬁlms that commence production on or after 1 July 2024 and before 1 July 2025) and $500,000 or 1% of QAPE (for ﬁlms that commence production on or after 1 July 2025).
+Regulations can prescribe the minimum training expenditure (but not exceeding $750,000 or 1% of the ﬁlm's QAPE). In the absence of such regulations, the amounts are $250,000 or 0.5% of QAPE (for ﬁlms that commence production on or after 1 July 2024 and before 1 July 2025) and $500,000 or 1% of QAPE (for ﬁlms that commence production on or after 1 July 2025).
 
-Amount of the offset Where ﬁlming or production commenced on or after 1 July 2023, the amount of the oﬀset is 30% of the company’s QAPE on the ﬁlm. Where ﬁlming or production commenced prior to 1 July 2023, the amount of the oﬀset is 16.5% of the company’s QAPE on the ﬁlm.
+Amount of the offset Where ﬁlming or production commenced on or after 1 July 2023, the amount of the oﬀset is 30% of the company's QAPE on the ﬁlm. Where ﬁlming or production commenced prior to 1 July 2023, the amount of the oﬀset is 16.5% of the company's QAPE on the ﬁlm.
 
 Location incentive The government also provided a location incentive aimed at extending the pipeline of production coming to Australia. The incentive was a grant of up to 13.5% of QAPE and productions were required to meet the eligibility criteria for the location oﬀset to be eligible. The incentive stopped accepting applications from 30 June 2023 due to the increase to the location oﬀset rebate rate announced in the 2023–24 Budget.
 

@@ -3,18 +3,14 @@ ATO ID 2003/200
 ==================================================
 
 Income Tax
-        Debt/Equity:  Redeemable Preference Share
-        FOI status: may be released
-
-
+ Debt/Equity: Redeemable Preference Share
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will Redeemable Preference Shares (RPS), that are redeemable at the option of the issuer and provide for dividend returns that are contingent on profits, be characterised as debt interests pursuant to Subdivision 974-B of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -22,7 +18,7 @@ Decision
 No, the RPS will not be characterised as debt interests pursuant to Subdivision 974-B of the ITAA 1997. The RPS will be characterised as an equity interest as defined in subsection 974-70(1) of the ITAA 1997.
 Facts
 The arrangement involves a company issuing RPS at a specified issue price with terms that provide for payment of a fixed cumulative dividend and redemption being at the discretion of the issuing company. Any dividends payable on the RPS are payable in priority to dividends paid to ordinary shareholders. Where the directors of the issuing company elect to redeem the RPS, the holders are entitled to receive payment of the par value and any premiums on the RPS together with any dividend accrued whether declared or not.
-The issuing company has a past history of profitability and a dividend has always been paid.  As a result, the issuing company contends that the payment of a dividend is dependent only on its willingness to pay, and the non-payment of a dividend is a materially remote possibility.
+The issuing company has a past history of profitability and a dividend has always been paid. As a result, the issuing company contends that the payment of a dividend is dependent only on its willingness to pay, and the non-payment of a dividend is a materially remote possibility.
 Reasons for Decision
 The RPS are an equity interest as defined in subsection 974-70(1) of the ITAA 1997 because:
 
@@ -30,8 +26,6 @@ the issue of RPS is a scheme (as defined in subsection 995-1(1) of the ITAA 1997
 
 the RPS are not characterised as, and do not from part of a larger interest that is characterised as, a debt interest (as defined in subsection 974-15(1) of the ITAA 1997) in the issuing company.
 The RPS will not be characterised as a debt interest because they fail to satisfy two elements of the debt test as set out in subsection 974-20(1) of the ITAA 1997. That is,
-
-
 
 1. there is no effectively non-contingent obligation on the part of the issuer to repay the investment amount under the RPS (required by paragraph 974-20(1)(c) of the ITAA 1997); and, as a result,
 2. it cannot be said that the requirements of paragraph 974-20(1)(d) of the ITAA 1997 will be met (that it is substantially more likely than not that the value of the financial benefit (defined in section 974-160 of the ITAA 1997) provided will equal or exceed the value of the financial benefit received).
@@ -42,10 +36,10 @@ The effectively non-contingent nature of an obligation is not affected if the ob
 In addition, the issuing company will not have an effectively non-contingent obligation to redeem the RPS and pay an amount, because redemption is at the discretion of the directors and there is no compulsion on the directors of the issuing company to redeem the RPS at a specified date or time. Given that there is no established point in time where the issuing company is under an obligation to redeem the RPS, if the directors of the issuing company never exercise their discretion to redeem the RPS, the RPS will never be redeemed and no payments will be owing.
 As a result of the issuing company not having an effectively non-contingent obligation to pay a dividend or redeem the RPS, it cannot be said that it is substantially more likely than not that the value of the financial benefits provided will equal or exceed the value of the financial benefit received. Only the value of those financial benefits that the issuing company has an effectively non-contingent obligation to provide are taken into account in determining whether the requirement in paragraph 974-20(1)(d) of the ITAA 1997 is satisfied.
 Date of decision:
-         11 October 2002
+  11 October 2002
 
 Year of income:
-           Year ended 31 December 2001
+  Year ended 31 December 2001
 
 Legislative References:
 
@@ -55,15 +49,14 @@ Keywords
 
 Debt equity borderline
 
-
 Siebel/TDMS Reference Number:
-         436088
+  436088
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         4 April 2003
+  4 April 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

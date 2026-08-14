@@ -2,7 +2,7 @@
 part: E
 part_title: Part E Timing and quantifying rules
 division: EB
-division_title: Subpart EB—Valuation of trading stock (including dealer’s livestock)
+division_title: Subpart EB—Valuation of trading stock (including dealer's livestock)
 section: EB-5
 section_title: Transfers of trading stock within wholly-owned groups
 compilation_no: 935

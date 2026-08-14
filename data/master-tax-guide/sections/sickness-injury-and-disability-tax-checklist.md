@@ -9,7 +9,7 @@ paragraph: "¶44-150"
 
 - Medical expenses are normally not tax deductible (or depreciable) unless there is something
 
-  peculiar to the taxpayer’s income-earning activities that requires the expenditure to be incurred
+  peculiar to the taxpayer's income-earning activities that requires the expenditure to be incurred
 
 (¶16-175, ¶16-190, ¶17-010).
 
@@ -45,9 +45,9 @@ paragraph: "¶44-150"
 
   of earnings, but not if they are for loss of earning capacity (¶10-185).
 
-- Certain annuities and lump sums provided to personal injury victims under “structured
+- Certain annuities and lump sums provided to personal injury victims under "structured
 
-  settlements” are tax exempt (¶10-185).
+  settlements" are tax exempt (¶10-185).
 
 - Periodical payments for loss of wages, such as workers compensation, are assessable (¶10-180).
 
@@ -75,7 +75,7 @@ paragraph: "¶44-150"
 
   (¶13-025).
 
-- Certain carers or care recipients qualify as “dependants” who may be eligible to receive
+- Certain carers or care recipients qualify as "dependants" who may be eligible to receive
 
   superannuation death beneﬁts (¶14-270).
 
@@ -97,11 +97,11 @@ paragraph: "¶44-150"
 
 - The legal personal representative of a mentally incapacitated member of a self managed
 
-  superannuation fund may take the member’s place as a trustee (¶13-060).
+  superannuation fund may take the member's place as a trustee (¶13-060).
 
-- Exemptions from the penal “minors’ tax” apply where the minor is disabled (¶2-170).
+- Exemptions from the penal "minors' tax" apply where the minor is disabled (¶2-170).
 
-- Periods of sick leave do not aﬀect a person’s continuity of foreign employment for the purpose of
+- Periods of sick leave do not aﬀect a person's continuity of foreign employment for the purpose of
 
   determining eligibility for the limited exemption on the foreign earnings (¶10-860).
 
@@ -117,7 +117,7 @@ paragraph: "¶44-150"
 
   various tax penalties (¶29-400).
 
-- The illness of a director may constitute a defence against personal liability for the company’s
+- The illness of a director may constitute a defence against personal liability for the company's
 
   failure to account for PAYG instalments (¶25-560).
 

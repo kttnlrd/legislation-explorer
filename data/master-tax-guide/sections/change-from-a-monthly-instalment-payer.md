@@ -9,9 +9,9 @@ paragraph: "¶27-430"
 
 A monthly instalment payer ceases to be a monthly payer for a later tax year where (TAA s 45-136(4)):
 
-- on the taxpayer’s MPR test day for that year (ie the ﬁrst day of the third last month of the previous
+- on the taxpayer's MPR test day for that year (ie the ﬁrst day of the third last month of the previous
 
-  income year), the taxpayer’s base assessment instalment income is less than the threshold
+  income year), the taxpayer's base assessment instalment income is less than the threshold
 
 (¶27-170), and
 

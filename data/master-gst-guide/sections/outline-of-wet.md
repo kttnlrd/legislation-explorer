@@ -7,7 +7,7 @@ paragraph: "¶22-000"
 ---
 # Outline of WET ¶22-000
 
-Wine equalisation tax commenced operation on 1 July 2000. It is commonly abbreviated to WET or “wine tax”. It was introduced to avoid “dramatic and dislocating” price falls that would otherwise have resulted from the abolition of sales tax.
+Wine equalisation tax commenced operation on 1 July 2000. It is commonly abbreviated to WET or "wine tax". It was introduced to avoid "dramatic and dislocating" price falls that would otherwise have resulted from the abolition of sales tax.
 
 WET applies to a wide range of alcoholic wine products (¶22-010). It is normally levied on the final sale at the wholesale level of the wine in Australia (¶22-150), and is calculated as 29% of the wholesale selling price. It applies to imported wine as well as Australian wine. It applies only to entities that are registered, or required to be registered, and is additional to any GST that is payable (¶13-190).
 

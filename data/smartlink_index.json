@@ -645259,6 +645259,116 @@
         "score": 0.2,
         "reason": "related type"
       }
+    ],
+    "[2015] FCAFC 168": [
+      {
+        "id": "itaa-1997#Div 152",
+        "type": "section",
+        "score": 0.9,
+        "reason": "small business CGT concessions"
+      },
+      {
+        "id": "itaa-1997#s152-5",
+        "type": "section",
+        "score": 0.85,
+        "reason": "CGT concession stakeholder"
+      },
+      {
+        "id": "itaa-1997#s152-10",
+        "type": "section",
+        "score": 0.85,
+        "reason": "basic conditions for relief"
+      },
+      {
+        "id": "itaa-1997#s152-15",
+        "type": "section",
+        "score": 0.8,
+        "reason": "maximum net asset value test"
+      },
+      {
+        "id": "itaa-1997#s152-20",
+        "type": "section",
+        "score": 0.8,
+        "reason": "affiliate and connected entities"
+      },
+      {
+        "id": "itaa-1997#s152-30",
+        "type": "section",
+        "score": 0.8,
+        "reason": "significant individual test"
+      },
+      {
+        "id": "itaa-1997#s152-40",
+        "type": "section",
+        "score": 0.8,
+        "reason": "small business participation percentage"
+      },
+      {
+        "id": "itaa-1997#s152-50",
+        "type": "section",
+        "score": 0.75,
+        "reason": "active asset test"
+      },
+      {
+        "id": "itaa-1997#s152-80",
+        "type": "section",
+        "score": 0.75,
+        "reason": "15-year exemption"
+      },
+      {
+        "id": "itaa-1997#s152-105",
+        "type": "section",
+        "score": 0.75,
+        "reason": "50% active asset reduction"
+      },
+      {
+        "id": "itaa-1997#s152-110",
+        "type": "section",
+        "score": 0.75,
+        "reason": "retirement exemption"
+      },
+      {
+        "id": "itaa-1997#s152-115",
+        "type": "section",
+        "score": 0.75,
+        "reason": "replacement asset roll-over"
+      },
+      {
+        "id": "itaa-1997#s152-120",
+        "type": "section",
+        "score": 0.75,
+        "reason": "retirement exemption for companies"
+      },
+      {
+        "id": "itaa-1997#s152-125",
+        "type": "section",
+        "score": 0.75,
+        "reason": "CGT group"
+      },
+      {
+        "id": "itaa-1997#s152-130",
+        "type": "section",
+        "score": 0.75,
+        "reason": "significant individual"
+      },
+      {
+        "id": "itaa-1997#s995-1",
+        "type": "definition",
+        "score": 0.5,
+        "reason": "definitions"
+      },
+      {
+        "id": "itaa-1997#s6-5",
+        "type": "section",
+        "score": 0.4,
+        "reason": "ordinary income"
+      },
+      {
+        "id": "itaa-1997#s102-5",
+        "type": "section",
+        "score": 0.4,
+        "reason": "CGT event A1"
+      }
     ]
   },
   "rulings": {

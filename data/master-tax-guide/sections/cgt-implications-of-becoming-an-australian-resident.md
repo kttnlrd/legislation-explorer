@@ -17,7 +17,7 @@ Exception for CFCs and controlled foreign trusts These rules do not apply to a t
 
 Diﬀerent rules apply for a CFC that becomes a resident (s 855-55).
 
-Inbound residents holding employee shares or rights Where the taxation of the discount under an employee share scheme (“ESS”) interest is deferred and the ESS deferred taxing point for that interest has not arisen, the ESS interest is treated as having been acquired for its market value at the ESS deferred taxing point (ss 855-45(4); 83A-115; 83A-120).
+Inbound residents holding employee shares or rights Where the taxation of the discount under an employee share scheme ("ESS") interest is deferred and the ESS deferred taxing point for that interest has not arisen, the ESS interest is treated as having been acquired for its market value at the ESS deferred taxing point (ss 855-45(4); 83A-115; 83A-120).
 
 In all other cases, the ﬁrst element of the cost base and reduced cost base of the share or right will be its market value at the time the taxpayer becomes a resident.
 

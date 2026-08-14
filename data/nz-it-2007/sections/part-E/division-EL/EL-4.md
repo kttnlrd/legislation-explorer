@@ -16,11 +16,11 @@ compilation_date: 2026-06-06
 
 **Limited allocation**
 
-**(2)**  The amount of the deduction that may be allocated to the income year must be no more than the amount of the person’s residential income for the income year. An amount identified as a person’s residential income may be counted only once in making an allocation under this subpart.
+**(2)**  The amount of the deduction that may be allocated to the income year must be no more than the amount of the person's residential income for the income year. An amount identified as a person's residential income may be counted only once in making an allocation under this subpart.
 
 **Excess amounts carried forward**
 
-**(3)**  To the extent to which the amount of the person’s deduction is more than their residential income, the excess amount is—
+**(3)**  To the extent to which the amount of the person's deduction is more than their residential income, the excess amount is—
 
 - (a) suspended as a deduction for the income year; and
 

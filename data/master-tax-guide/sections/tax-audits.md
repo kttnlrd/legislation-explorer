@@ -7,7 +7,7 @@ paragraph: "¶25-200"
 ---
 # Tax audits ¶25-200
 
-A tax audit is the systematic examination of a taxpayer’s aﬀairs by the ATO to determine whether the taxpayer has fully complied with the tax laws. This includes whether the taxpayer has disclosed all assessable income and has correctly claimed deductions or tax oﬀsets in the income years concerned (an audit may cover more than one year). The ATO’s audit programs are also designed to promote voluntary compliance with the tax laws and to help the ATO identify areas of law that may need clariﬁcation.
+A tax audit is the systematic examination of a taxpayer's aﬀairs by the ATO to determine whether the taxpayer has fully complied with the tax laws. This includes whether the taxpayer has disclosed all assessable income and has correctly claimed deductions or tax oﬀsets in the income years concerned (an audit may cover more than one year). The ATO's audit programs are also designed to promote voluntary compliance with the tax laws and to help the ATO identify areas of law that may need clariﬁcation.
 
 Tax audits are not governed by any particular statutory provisions, except those that confer on the Commissioner responsibility for the general administration of relevant tax laws (ITAA36 s 8). In addition, the ATO relies on its access and information-gathering powers (¶25-220, ¶25-240) to carry out its audit programs eﬀectively. It is lawful for the Commissioner (and duly authorised ATO oﬃcers) to randomly select for audit a taxpayer within a particular group (Industrial Equity 90 ATC 5008; [1990] HCA 46 (1990)).
 
@@ -17,7 +17,7 @@ Conduct of audits Broadly, the audit/review stages take the following cycle: (1)
 
 Although the ATO has a benchmark of 2 years for completing large business audits, there is no particular time period within which the Commissioner must complete an audit. It should be noted, however, that in the absence of fraud or evasion (¶25-330), there are speciﬁed time limits for amending assessments (¶25-310 – ¶25-320).
 
-Further, it has been held that failure to comply with the Commissioner’s Guidelines for the Conduct of Auditors and Taxpayers in Complex and Large Case Audits was not reviewable (Robinswood 98 ATC 4442; [1998] FCA 404).
+Further, it has been held that failure to comply with the Commissioner's Guidelines for the Conduct of Auditors and Taxpayers in Complex and Large Case Audits was not reviewable (Robinswood 98 ATC 4442; [1998] FCA 404).
 
 The ATO also undertakes during an audit to guide the taxpayer through the process, arrange mutually convenient interviews or meetings, explain the purpose of any interview or visit, ask clear and unambiguous questions and provide the taxpayer with all reasonable assistance and explanations to clarify their meaning, and allow the taxpayer to choose someone to act on their behalf or to attend interviews with them.
 
@@ -25,7 +25,7 @@ In turn, the ATO expects the taxpayer to: work cooperatively with them; be truth
 
 Completion of audit When completing an audit or sometimes during the audit, the ATO will inform the taxpayer of the results and its decision. It must give the taxpayer written notiﬁcation of the outcome of the audit (generally within 7 days of the decision) and inform the taxpayer of their rights of review.
 
-Managing audits It has been suggested that the best way to manage tax audits is to: (1) understand the ATO’s approach to assessing tax risks (see below); (2) conduct an objective risk assessment; (3) manage the ATO relationship throughout the review/audit cycle; and (4) understand the review/appeal process (¶28-000).
+Managing audits It has been suggested that the best way to manage tax audits is to: (1) understand the ATO's approach to assessing tax risks (see below); (2) conduct an objective risk assessment; (3) manage the ATO relationship throughout the review/audit cycle; and (4) understand the review/appeal process (¶28-000).
 
 Compliance The ATO uses a risk management approach to tax compliance. It recognises that diﬀerent groups of taxpayers face diﬀerent issues, so it is necessary to identify and target issues relevant to a particular group. Further, there is diﬀerentiation between the way the ATO engages with business taxpayers and tax practitioners. It uses certain risk assessment processes to prioritise how it applies its resource. Tools it uses include data matching, industry benchmarking and the income tax refund integrity program. Its Tax risk management and governance review guide provides more information to large businesses. For public and multinational businesses, it conducts justiﬁed trust and assurance programs, and also adopts an action diﬀerentiation framework.
 

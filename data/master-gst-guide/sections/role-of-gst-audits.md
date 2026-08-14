@@ -15,19 +15,19 @@ Clearly, such a system can only operate efficiently if there is a high level of 
 
   by voluntary advisory visits
 
-- encouraging taxpayers to have “faith” in the system by establishing expectations of a level of fair
+- encouraging taxpayers to have "faith" in the system by establishing expectations of a level of fair
 
   treatment from the ATO.
 
 As an enforcement backup to this, the ATO also carries out a series of other compliance activities, ranging from simple to complex. These may take the form of: Registration integrity check including walk-ins.
 
-A walk-in is an unscheduled visit to business premises to check the entity’s registration and lodgment details.
+A walk-in is an unscheduled visit to business premises to check the entity's registration and lodgment details.
 
 When the visit is completed, the field officer will verify the information collected and, if necessary, follow up on any discrepancies.
 
 BAS review.
 
-This is used to review a BAS where there are more than two identified risks. It is conducted during a visit to the taxpayer’s premises and requires checking transactions against specific BAS labels using a BAS review worksheet. It is generally limited to a single tax period, but can be extended where appropriate.
+This is used to review a BAS where there are more than two identified risks. It is conducted during a visit to the taxpayer's premises and requires checking transactions against specific BAS labels using a BAS review worksheet. It is generally limited to a single tax period, but can be extended where appropriate.
 
 Serious evasion audit.
 
@@ -35,7 +35,7 @@ This is used where there have been significant or deliberate attempts by a taxpa
 
 Review of total supplies.
 
-This is part of the ATO’s cash economy strategy. It is used where there is a risk that all supplies made by the client have not been disclosed. It uses the testing undertaken in the BAS review, as well as a number of indicators to determine if there is any understatement of supplies.
+This is part of the ATO's cash economy strategy. It is used where there is a risk that all supplies made by the client have not been disclosed. It uses the testing undertaken in the BAS review, as well as a number of indicators to determine if there is any understatement of supplies.
 
 Comprehensive audit.
 
@@ -47,7 +47,7 @@ This is designed to secure lodgment of outstanding activity statements and incom
 
 Cancellation of registration review.
 
-This reviews whether an entity is carrying on an enterprise and, if necessary, how to recommend the cancellation of the entity’s GST and ABN registrations.
+This reviews whether an entity is carrying on an enterprise and, if necessary, how to recommend the cancellation of the entity's GST and ABN registrations.
 
 Failure to register review.
 
@@ -57,6 +57,6 @@ Compliance verification centre check.
 
 This involves phone-based refund integrity checks. The process is particularly directed at identifying purchases that may lead to unusually high refunds. The process looks to verify valid tax invoices for such transactions and contact the supplier to verify that the transactions took place.
 
-The ATO’s emphasis in GST has now shifted from education to enforcement. Businesses and their advisers can therefore expect to see a higher, and tougher, level of ATO compliance activity.
+The ATO's emphasis in GST has now shifted from education to enforcement. Businesses and their advisers can therefore expect to see a higher, and tougher, level of ATO compliance activity.
 
 Penalties Special rules for remission of penalties apply where voluntary disclosures are made before or during an audit (¶18-305).

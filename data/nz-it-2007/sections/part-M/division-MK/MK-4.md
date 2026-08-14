@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Amount of credit for year**
 
-**(2)**  The amount of the tax credit is an amount equal to quarter of a person’s total member credit contributions for the tax credit year for all of their complying superannuation funds and KiwiSaver schemes up to a maximum amount of $260.72.
+**(2)**  The amount of the tax credit is an amount equal to quarter of a person's total member credit contributions for the tax credit year for all of their complying superannuation funds and KiwiSaver schemes up to a maximum amount of $260.72.
 
 **Part-year equivalents: amount of tax credit**
 

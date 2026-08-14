@@ -21,11 +21,11 @@ Capital gains tax (CGT) is generally calculated by reference to the difference b
 
 *Refs: s 110-45, s 116-20), s 118-10)*
 
-(1) Liz Ltd, a registered company, buys shop premises for $220,000, including $20,000 GST. The legal fees are $5,500, including $500 GST, and the stamp duty is $3,000. Liz Ltd is entitled to input tax credits for ($20,000 + $500) = $20,500. This element is therefore excluded from the cost base for CGT purposes. The cost base is therefore: ($220,000 + $5,500 + $3,000) − $20,500 = $208,000 Assume now that Liz Ltd sells the premises for $330,000 including $30,000 GST. Liz Ltd will have to account for the $30,000 to the ATO, so it is no real benefit. For CGT purposes, the capital proceeds from the sale will therefore be ($330,000 − $30,000) = $300,000. (2) Denzel, who is not registered for GST, buys shares for $11,000 and pays broker’s fees of $220, including $20 GST. Denzel is not entitled to any input tax credit for the $20 as he is not registered. (He would not be entitled to an input tax credit for GST on the shares in any event, as they are an input taxed financial supply on which GST is not levied.) His cost base for CGT purposes is therefore ($11,000 + $220) = $11,220.
+(1) Liz Ltd, a registered company, buys shop premises for $220,000, including $20,000 GST. The legal fees are $5,500, including $500 GST, and the stamp duty is $3,000. Liz Ltd is entitled to input tax credits for ($20,000 + $500) = $20,500. This element is therefore excluded from the cost base for CGT purposes. The cost base is therefore: ($220,000 + $5,500 + $3,000) − $20,500 = $208,000 Assume now that Liz Ltd sells the premises for $330,000 including $30,000 GST. Liz Ltd will have to account for the $30,000 to the ATO, so it is no real benefit. For CGT purposes, the capital proceeds from the sale will therefore be ($330,000 − $30,000) = $300,000. (2) Denzel, who is not registered for GST, buys shares for $11,000 and pays broker's fees of $220, including $20 GST. Denzel is not entitled to any input tax credit for the $20 as he is not registered. (He would not be entitled to an input tax credit for GST on the shares in any event, as they are an input taxed financial supply on which GST is not levied.) His cost base for CGT purposes is therefore ($11,000 + $220) = $11,220.
 
 - irrespective of when the asset was acquired
 
-- to reduce all elements of cost (formerly, capital expenditure incurred in increasing the asset’s value or
+- to reduce all elements of cost (formerly, capital expenditure incurred in increasing the asset's value or
 
   to defend title to it was exempt)
 

@@ -3,18 +3,14 @@ ATO ID 2001/779
 ==================================================
 
 Goods and Services Tax
-        GST and the sale of farmland under the administration of a deceased estate
-        FOI status: may be released
-
-
+ GST and the sale of farmland under the administration of a deceased estate
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an executor of a deceased estate, making a GST-free supply under section 38-480 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells a freehold interest in farmland where there has been a break in farming activities immediately preceding the sale due to the winding up of the deceased's estate?
@@ -30,8 +26,6 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Subdivision 38-O of the GST Act allows the supply of farmland to be GST-free in certain circumstances. Section 38-480 of the GST Act provides that the supply of a freehold interest in land is GST-free if:
 
-
-
 •the land is land on which a farming business has been carried on for at least the period of 5 years preceding the supply; and
 •the recipient of the supply intends that a farming business be carried on, on the land.
 
@@ -46,7 +40,7 @@ Furthermore, it is accepted that the process leading up to the granting of proba
 As such, the farming business is considered to have been carried on continuously for at least the period of 5 years immediately preceding the supply, regardless of the fact that there has been a temporary cessation in the farming activities due to the winding up of the deceased estate. As a result, all of the requirements of section 38-480 of the GST Act have been met.
 Therefore, the entity is making a GST-free supply under section 38-480 of the GST Act when it sells a freehold interest in farmland where there has been a break in farming activities immediately preceding the sale due to the winding up of the deceased's estate.
 Date of decision:
-         23 December 2001
+  23 December 2001
 
 Legislative References:
 
@@ -55,21 +49,20 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-20   Subdiv
 Keywords
 
 Goods & services tax
-          GST free
-          GST farm land
-          Farming business
-          GST supplies & acquisitions
-          GST enterprise
-
+ GST free
+ GST farm land
+ Farming business
+ GST supplies & acquisitions
+ GST enterprise
 
 Siebel/TDMS Reference Number:
-         CW214386
+  CW214386
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         21 December 2001
+  21 December 2001
 
 ISSN:
-          1445-2782
+ 1445-2782

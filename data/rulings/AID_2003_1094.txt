@@ -3,18 +3,14 @@ ATO ID 2003/1094
 ==================================================
 
 Income Tax
-        Income tax: On-market share buy-backs - application of section 45B
-        FOI status: may be released
-
-
+ Income tax: On-market share buy-backs - application of section 45B
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 45B of the Income Tax Assessment Act 1936 (ITAA 1936) apply to a company's on-market share buy-back?
@@ -25,8 +21,6 @@ A company listed on the Australian Stock Exchange (ASX) undertakes an on-market 
 Reasons for Decision
 Subsection 45B(2) of the ITAA 1936 states that the section applies where:
 
-
-
 (a) there is a scheme where a person is provided with a demerger benefit or a capital benefit by a company
 (b) under the scheme, the relevant taxpayer obtains a tax benefit, and
 (c) it would be concluded that the scheme was entered into for more than an incidental purpose of enabling the relevant taxpayer to obtain a tax benefit. In reaching this conclusion the relevant circumstances of the scheme must be considered.
@@ -36,10 +30,10 @@ The 'relevant taxpayer' in this instance would include any of the shareholders w
 It is then necessary to consider whether there was a purpose of enabling the vendor shareholders to obtain a tax benefit. The relevant circumstances to consider in reaching this conclusion are listed in subsection 45B(8) of the ITAA 1936. In this instance the on-market buy-back is conducted through the ASX's Stock Exchange Automated Trading System (SEATS) and complies with the ASX Listing Rules. Because shares must be purchased from any willing vendor, the company cannot control whether vendors obtain a tax benefit from the arrangement. All shareholders have an equal and arm's length opportunity to obtain the capital benefit. The money paid by the company for the shares is not attributable to profits of the company. On weighing these factors it would be concluded that there is no more than an incidental purpose that shareholders receive a tax benefit.
 Accordingly, the conditions of subsection 45B(2) of the ITAA 1936 are not satisfied. Section 45B of the ITAA 1936 does not apply to an on-market share buy-back arrangement of this kind.
 Date of decision:
-         27 November 2003
+  27 November 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -48,17 +42,16 @@ Income Tax Assessment Act 1936   section 45B   section 177A
 Keywords
 
 Capital benefit
-          Share buy backs
-
+ Share buy backs
 
 Siebel/TDMS Reference Number:
-         3856732
+  3856732
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         5 December 2003
+  5 December 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

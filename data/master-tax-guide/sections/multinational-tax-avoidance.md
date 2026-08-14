@@ -17,13 +17,13 @@ Section 177DA applies to artiﬁcial or contrived arrangements to avoid the attr
 
 It must be reasonable to conclude that the division of activities between the non-resident entity, the Australian entity, and any other related parties has been designed to ensure that the relevant taxpayer is not deriving income from making supplies that would be attributable to an Australian permanent establishment.
 
-Taxation Determination TD 2018/12 discusses when activities undertaken in Australia are “directly in connection with” a supply by a foreign entity to an Australian customer.
+Taxation Determination TD 2018/12 discusses when activities undertaken in Australia are "directly in connection with" a supply by a foreign entity to an Australian customer.
 
 The relevant taxpayer who entered into or carried out the scheme must have done so for a principal purpose of enabling a taxpayer to obtain a tax beneﬁt with or without the reduction of other non-income tax liabilities under Australian law or under a foreign law. Special rules apply to determine if a foreign entity satisﬁes the conditions for the multinational anti-avoidance law to apply where supplies are made by a trust or partnership.
 
 Where s 177DA applies, the Commissioner has the power to look through the scheme and apply the tax rules as if the non-resident had been making a supply through an Australian permanent establishment. This includes the business proﬁts from the supply that would have been attributable to an Australian permanent establishment and obligations arising under royalty and interest withholding tax (for the relevant taxpayer or another taxpayer).
 
-The measure only applies to a non-resident entity that is a “signiﬁcant global entity” (SGE) in the income year in which it sought to obtain a tax beneﬁt under the scheme.
+The measure only applies to a non-resident entity that is a "signiﬁcant global entity" (SGE) in the income year in which it sought to obtain a tax beneﬁt under the scheme.
 
 In addition, it only applies to non-residents that are or have a related entity or entities in their corporate structure that are subject to no corporate tax or a low corporate tax rate, either under the law of a foreign country or through preferential regimes.
 
@@ -37,4 +37,4 @@ Law Companion Ruling LCR 2015/2 explains the conditions that must be satisﬁed 
 
 Enhanced multinational tax transparency For ﬁnancial years commencing on or after 1 July 2023, Australian public companies must disclose information about subsidiaries in their annual ﬁnancial reports.
 
-Integrity measure discontinued The 2022–23 Budget measure to deny deductions for payments related to intangibles in low- or no- tax jurisdictions will not proceed. Instead, the integrity issues will be addressed through Australia’s implementation of the OECD’s Two-Pillar Solution, which includes global and domestic minimum taxes to tackle tax challenges from digitalisation (2024–25 Budget Paper No 2, p 11).
+Integrity measure discontinued The 2022–23 Budget measure to deny deductions for payments related to intangibles in low- or no- tax jurisdictions will not proceed. Instead, the integrity issues will be addressed through Australia's implementation of the OECD's Two-Pillar Solution, which includes global and domestic minimum taxes to tackle tax challenges from digitalisation (2024–25 Budget Paper No 2, p 11).

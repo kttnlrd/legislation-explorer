@@ -3,18 +3,14 @@ ATO ID 2011/73
 ==================================================
 
 Income Tax
-        Definition of public company: company controlled by a Government or public body - meaning of 'Government'
-        FOI status: may be released
-
-
+ Definition of public company: company controlled by a Government or public body - meaning of 'Government'
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a company in which a foreign government has a controlling interest on the last day of the income year a public company for that income year under subparagraph 103A(2)(d)(iv) of the Income Tax Assessment Act 1936 (ITAA 1936) for the purposes of Division 7 of Part III of the ITAA 1936?
@@ -29,11 +25,7 @@ Subsection 103A(1) of the ITAA 1936 provides the definition of 'private company'
 Subsection 103A(2) of the ITAA 1936 states that, subject to the succeeding provisions of section 103A (which are not relevant in this case), a company will be a public company for the purposes of subsection 103A(1) if it falls within any of the categories listed in subsection 103A(2).
 Paragraph 103A(2)(d) of the ITAA 1936 relevantly stipulates that a company will be a public company if:
 
-
-
 (d)the company is:
-
-
 
 (iii)a body constituted by a law of the Commonwealth or of a State or Territory and established for public purposes, not being a company within the meaning of the law in force in a State or Territory relating to companies;
 (iv)a company in which a Government or a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income;
@@ -41,15 +33,11 @@ Paragraph 103A(2)(d) of the ITAA 1936 relevantly stipulates that a company will 
 It has been suggested that the placement of the words 'referred to in subparagraph (iii)' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 above gives rise to an ambiguity, and consequently, to alternative and conflicting interpretations.
 One view is that a company will be a public company under subparagraph 103A(2)(d)(iv) of the ITAA 1936 where the company is:
 
-
-
 •'a company in which a Government ... referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'; or
 •'a company in which ... a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'.
 
 Under this interpretation, the meaning of 'Government' is contingent upon the scope of subparagraph 103A(2)(d)(iii) of the ITAA 1936.
 The alternative interpretation is that a company will be a public company under subparagraph 103A(2)(d)(iv) of the ITAA 1936 where the company is:
-
-
 
 •'a company in which a Government ... had a controlling interest on the last day of the year of income'; or
 •'a company in which ... a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'.
@@ -67,7 +55,6 @@ Paragraph (d) lists a number of other classes of companies that may qualify as p
 
 They are -
 
-
 (iii)a body constituted by a law of the Commonwealth, a State or a Territory of the Commonwealth and established for public purposes (not being a company within the meaning of a law relating to companies);
 (iv)a company in which a Government or a body established for public purposes has a controlling interest;
 
@@ -82,10 +69,10 @@ As this definition does not exclude a foreign government, 'Government' as used i
 This conclusion is supported by a number of EMs to Bills which introduced amendments to Division 7 of Part III of the ITAA 1936, including the EM to the Income Tax Assessment Bill (No. 3) 1972, which refers to the distinction between private and public companies and describes public companies as 'very broadly, those in which there is substantial public interest'. Where a government (whether it be an Australian or foreign government) has a controlling interest in a company, the company will be one in which there is substantial public interest.
 As the meaning of 'Government' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 extends to a foreign government, a company in which a foreign government has a controlling interest on the last day of the income year is, for the purposes of Division 7 of Part III of the ITAA 1936, a public company for that year of income under subparagraph 103A(2)(d)(iv).
 Date of decision:
-         7 September 2011
+  7 September 2011
 
 Year of income:
-           Year ending 30 June 2012
+  Year ending 30 June 2012
 
 Legislative References:
 
@@ -100,24 +87,22 @@ Related ATO Interpretative Decisions
 Other References:
 
  Explanatory Memorandum to the Income Tax and Social Services Contribution Assessment Bill (No. 3) 1964
-           Explanatory Memorandum to the Income Tax Assessment Bill (No. 3) 1972
-          The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009.
-
+ Explanatory Memorandum to the Income Tax Assessment Bill (No. 3) 1972
+ The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009.
 
 Keywords
 
 Private companies
-          Public companies
-
+ Public companies
 
 Siebel/TDMS Reference Number:
-         1-3B6X8WY
+  1-3B6X8WY
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         23 September 2011
+  23 September 2011
 
 ISSN:
-          1445-2782
+ 1445-2782

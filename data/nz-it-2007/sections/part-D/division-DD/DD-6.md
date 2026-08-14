@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Entertainment as business**
 
-**(1)**  The limitation rule does not apply to a deduction for expenditure on entertainment that a person provides for market value or in an arm’s length transaction in the ordinary course of their business, if that business is to provide 1 or more of the forms of entertainment referred to in section DD 2.
+**(1)**  The limitation rule does not apply to a deduction for expenditure on entertainment that a person provides for market value or in an arm's length transaction in the ordinary course of their business, if that business is to provide 1 or more of the forms of entertainment referred to in section DD 2.
 
 **Entertainment for charitable purposes**
 

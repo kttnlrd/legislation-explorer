@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(1)**  On meeting the requirements of subsection (2), a co-operative company that is an ICA company may choose, for an income year, to attach an imputation credit to a cash distribution paid to the members of a group of the company’s shareholders and be denied a deduction for the payment by section DV 18 (Statutory producer boards and co-operative companies).
+**(1)**  On meeting the requirements of subsection (2), a co-operative company that is an ICA company may choose, for an income year, to attach an imputation credit to a cash distribution paid to the members of a group of the company's shareholders and be denied a deduction for the payment by section DV 18 (Statutory producer boards and co-operative companies).
 
 **Requirements**
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (b) the distribution is made to all the persons who are members of a group of shareholders at a time during the income year; and
 
-- (c) the company’s constitution permits a distribution to be made to the members of the group; and
+- (c) the company's constitution permits a distribution to be made to the members of the group; and
 
 - (d) the amount of the distribution to a member of the group is based on the payments for the income year to or by the member for produce transactions as a proportion of the total amount of payments for the income year to or by the members of the group for all produce transactions; and
 
@@ -44,15 +44,15 @@ compilation_date: 2026-06-06
 
 - (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
 
-**Shareholder’s credit**
+**Shareholder's credit**
 
-**(5)**  The amount of a shareholder’s share of the imputation credit attached as described in subsection (3) is calculated using the formula— shareholder’s distribution ÷ total distribution × total imputation credit attached.
+**(5)**  The amount of a shareholder's share of the imputation credit attached as described in subsection (3) is calculated using the formula— shareholder's distribution ÷ total distribution × total imputation credit attached.
 
 **Definition of items in formula**
 
 **(6)**  In the formula in subsection (5),—
 
-- (a) shareholder’s distribution is the amount that is the shareholder’s share of the distribution, excluding the amount of imputation credit:
+- (a) shareholder's distribution is the amount that is the shareholder's share of the distribution, excluding the amount of imputation credit:
 
 - (b) total distribution is the amount of the total distribution paid, excluding the amount of imputation credit:
 

@@ -4,11 +4,11 @@ part_title: Part G Avoidance and non-market transactions
 division: GA
 division_title: Subpart GA—Avoidance: general
 section: GA-2
-section_title: Commissioner’s power to adjust: fringe benefit tax
+section_title: Commissioner's power to adjust: fringe benefit tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# GA 2  Commissioner’s power to adjust: fringe benefit tax
+# GA 2  Commissioner's power to adjust: fringe benefit tax
 
 **When this section applies**
 
@@ -18,13 +18,13 @@ compilation_date: 2026-06-06
 
 - (b) the arrangement involves altering the incidence of fringe benefit tax (FBT).
 
-**Commissioner’s power in relation to excluded income**
+**Commissioner's power in relation to excluded income**
 
 **(2)**  The Commissioner may adjust the excluded income under section CX 3 (Excluded income) of a person affected by the arrangement in a way the Commissioner thinks appropriate, in order to counteract a tax advantage obtained by the person from or under the arrangement.
 
-**Commissioner’s identification of hypothetical situation**
+**Commissioner's identification of hypothetical situation**
 
-**(3)**  When applying subsection (2), the Commissioner may have regard to 1 or more of the amounts listed in subsection (4) which, in the Commissioner’s opinion, had the arrangement not occurred, the person—
+**(3)**  When applying subsection (2), the Commissioner may have regard to 1 or more of the amounts listed in subsection (4) which, in the Commissioner's opinion, had the arrangement not occurred, the person—
 
 - (a) would have had; or
 

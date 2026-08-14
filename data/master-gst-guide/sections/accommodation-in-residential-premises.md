@@ -9,7 +9,7 @@ paragraph: "¶11-310"
 
 The provision of private rented residential premises is input taxed to the extent that the premises are to be used predominantly for residential accommodation, regardless of the term of occupation (s 40-35). This means that GST does not apply and the landlord is not entitled to claim input tax credits.
 
-This applies whether the premises are leased, hired or licensed, and to accommodation provided through online rental sites such as Airbnb. However, “long-term leases” are treated in the same way as a sale (¶11-060). Accommodation provided to employees is treated in the same way as accommodation provided to others. Renting out a car parking space is not in itself a supply of residential accommodation.
+This applies whether the premises are leased, hired or licensed, and to accommodation provided through online rental sites such as Airbnb. However, "long-term leases" are treated in the same way as a sale (¶11-060). Accommodation provided to employees is treated in the same way as accommodation provided to others. Renting out a car parking space is not in itself a supply of residential accommodation.
 
 Although no GST may be payable on private rented accommodation, it may happen in practice that landlords pass on some or all of the GST-inflated costs they incur in maintaining the premises. For example, maintenance and repair costs on the premises that are incurred by the landlord are subject to GST, which the landlord cannot recover by claiming input tax credits. The same applies to the cost of replacing appliances, body corporate levies and management, advertising, legal and accounting services. (For special rules applying where the owner is offshore, see ¶9-240.) For the meaning of residential premises, and the treatment of display homes, see ¶11-010.
 
@@ -17,7 +17,7 @@ If a lease relates partly to residential accommodation and partly to other (taxa
 
 Rental bonds would presumably be treated as security deposits (¶4-070).
 
-The rent from input taxed supplies of residential accommodation is not taken into account in determining the landlord’s turnover for GST purposes (¶3-030).
+The rent from input taxed supplies of residential accommodation is not taken into account in determining the landlord's turnover for GST purposes (¶3-030).
 
 Employee accommodation The ATO considers that, depending on the circumstances of the case, a supply of accommodation made to an employee or contractor may be either:
 
@@ -33,7 +33,7 @@ The following examples are based on GST Ruling GSTR 2012/6. (1) Mining Co owns h
 
 A mining company which acquired apartment-style residential accommodation to lease to its employees in remote areas was denied input tax credits, notwithstanding its argument that this supply was not a commercial objective in itself, but was made as a purely incidental part of running its (taxable) mining operations (Rio Tinto Services, ¶5-010).
 
-Accommodation in retirement villages Supplies of accommodation at retirement villages are GST-free in specified care situations (¶13-340; ¶15-015). Where these exemptions do not apply, and the resident is not receiving care, the ATO’s views are as follows:
+Accommodation in retirement villages Supplies of accommodation at retirement villages are GST-free in specified care situations (¶13-340; ¶15-015). Where these exemptions do not apply, and the resident is not receiving care, the ATO's views are as follows:
 
 - supplies of residential accommodation are input taxed (so input tax credits are not available)
 

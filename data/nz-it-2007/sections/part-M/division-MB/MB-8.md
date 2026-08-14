@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **What is included in family scheme income**
 
-**(2)**  The person’s family scheme income for the income year includes an amount equal to the total of the following amounts:
+**(2)**  The person's family scheme income for the income year includes an amount equal to the total of the following amounts:
 
 - (a) the taxable value of the fringe benefits that the company must attribute to the person under sections RD 47 to RD 49 for the income year; and
 
-- (b) the company’s FBT liability in relation to the person under section RD 50 (Employer’s liability for attributed benefits) for the income year.
+- (b) the company's FBT liability in relation to the person under section RD 50 (Employer's liability for attributed benefits) for the income year.
 
 *Defined in this Act: associated person, company, employee, family scheme income, FBT, fringe benefit, income year, voting interest*
 

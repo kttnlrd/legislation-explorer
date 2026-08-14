@@ -17,9 +17,9 @@ Cheque.
 
 Consideration is provided when the cheque is either handed or posted to the supplier. Consideration is received when the cheque is actually received, not when it is banked or cleared. If the cheque is post-dated, consideration is normally both provided and received on the date stated. However, if the cheque is received later to that date, the consideration is received when the cheque is received.
 
-If a cheque you receive is dishonoured in a later tax period, and you are on the cash basis, the ATO considers that you should lodge a revised BAS to reflect the reduced GST (GST Ruling GSTR 2000/19). If you are on the accruals basis, the ATO says that this will not be an “adjustment event” (¶6-100), but that a bad debt adjustment (¶6-200) may be appropriate if it is established that the debt has actually become bad.
+If a cheque you receive is dishonoured in a later tax period, and you are on the cash basis, the ATO considers that you should lodge a revised BAS to reflect the reduced GST (GST Ruling GSTR 2000/19). If you are on the accruals basis, the ATO says that this will not be an "adjustment event" (¶6-100), but that a bad debt adjustment (¶6-200) may be appropriate if it is established that the debt has actually become bad.
 
-Traveller’s cheque.
+Traveller's cheque.
 
 Consideration is both provided and received when the cheque is countersigned.
 
@@ -33,7 +33,7 @@ Consideration is both provided and received when the transaction is accepted by 
 
 Direct credit (eg BPAY).
 
-Consideration is provided when the payment is authorised by the recipient, and is received when credited to the supplier’s account. Consideration is not received under a conditional letter of credit until it can be drawn on (Interpretative Decision ID 2002/530).
+Consideration is provided when the payment is authorised by the recipient, and is received when credited to the supplier's account. Consideration is not received under a conditional letter of credit until it can be drawn on (Interpretative Decision ID 2002/530).
 
 Direct debit.
 
@@ -65,7 +65,7 @@ The transfer of funds to the card from its linked account is not treated as cons
 
 Line of credit/overdraft.
 
-If the supplier provides an interest-bearing line of credit or overdraft, and payment is reflected by an increase in the amount owing in relation to the debt facility, consideration is both provided and received at the time that increase is recorded in the supplier’s accounts.
+If the supplier provides an interest-bearing line of credit or overdraft, and payment is reflected by an increase in the amount owing in relation to the debt facility, consideration is both provided and received at the time that increase is recorded in the supplier's accounts.
 
 Book entries.
 
@@ -87,7 +87,7 @@ Barter transactions.
 
 See ¶7-435.
 
-Money held on trust pending disbursement Where a retirement village operator held moneys deposited by residents in a maintenance reserve fund on trust, the moneys were not “received” by the operator until they were withdrawn from the fund for the purpose of providing the maintenance services. Accordingly, for a cash basis operator, the GST on the supply of the maintenance services would be attributable to the tax period in which the withdrawal took place, not the period in which the amounts were originally deposited by residents (Interpretative Decision ID 2003/422). The same applies to an accruals-based operator that does not issue an invoice for the services (Interpretative Decision ID 2003/423).
+Money held on trust pending disbursement Where a retirement village operator held moneys deposited by residents in a maintenance reserve fund on trust, the moneys were not "received" by the operator until they were withdrawn from the fund for the purpose of providing the maintenance services. Accordingly, for a cash basis operator, the GST on the supply of the maintenance services would be attributable to the tax period in which the withdrawal took place, not the period in which the amounts were originally deposited by residents (Interpretative Decision ID 2003/422). The same applies to an accruals-based operator that does not issue an invoice for the services (Interpretative Decision ID 2003/423).
 
 *Refs: s 9-17, s
 9-15(3))*

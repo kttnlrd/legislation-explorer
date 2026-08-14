@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Meaning of AIM-capable accounting system**
 
-**(3)**  AIM-capable accounting system means a double-entry accounting system that is an approved AIM provider’s product, and uses a core software package from an approved AIM provider, if the system has the following features:
+**(3)**  AIM-capable accounting system means a double-entry accounting system that is an approved AIM provider's product, and uses a core software package from an approved AIM provider, if the system has the following features:
 
 - (a) a core software accounting package and connected packages that provide the ability to—
 

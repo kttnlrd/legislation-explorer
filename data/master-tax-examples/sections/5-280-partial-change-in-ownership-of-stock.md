@@ -17,7 +17,7 @@ Solution When the partnership of Pat and Nora ceased to own the partnership asse
 
 A partial change in the ownership of trading stock occurs if, after the change, a new owner and at least one of the old owners have an ownership interest in the trading stock (ITAA97 s 70-100). In such a case, the partial change in the ownership of the trading stock is treated as a notional disposal of the trading stock by all the old owners to all the new owners. As a general rule, the assessable income of the old owners (the transferor) includes the market value of the trading stock on the day it is transferred, and the new owners (the transferee) are treated as having bought the item for market value on the same day (ITAA97 s 70-100(1) to (3)).
 
-In some circumstances, the old owners and the new owners may elect to treat the trading stock as having been disposed of for what would have been its value in the hands of the transferor at the end of the income year if the income year had ended on the date of the change of ownership (s 70-100(4)). If the election is made, this value is included in the transferor’s assessable income, and the transferee is treated as having bought the item for that same value (s 70-100(5)).
+In some circumstances, the old owners and the new owners may elect to treat the trading stock as having been disposed of for what would have been its value in the hands of the transferor at the end of the income year if the income year had ended on the date of the change of ownership (s 70-100(4)). If the election is made, this value is included in the transferor's assessable income, and the transferee is treated as having bought the item for that same value (s 70-100(5)).
 
 The election can only be made if:
 

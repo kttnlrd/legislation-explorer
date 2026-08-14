@@ -63,13 +63,13 @@ In order for an entity that receives a payment on behalf of a foreign resident t
 
 - the recipient must not have been granted an exemption by the Commissioner (see below).
 
-The Commissioner may grant an exemption from withholding by notice where the Commissioner is satisﬁed that the foreign resident has an established compliance history and that he/she/it is likely to continue to comply with his/her/its taxation obligations. This exemption applies for the speciﬁc period stated in the exemption notice. The Commissioner’s power to vary the amount withheld under TAA sch 1 s 15-15 may be exercised in favour of a foreign resident where the relevant income is not assessable in Australia, or to reduce the rate of withholding to a more appropriate level, where the prescribed withholding rates are excessive in comparison to the amount of tax which will ultimately be payable by the foreign entity (PS LA 2006/10).
+The Commissioner may grant an exemption from withholding by notice where the Commissioner is satisﬁed that the foreign resident has an established compliance history and that he/she/it is likely to continue to comply with his/her/its taxation obligations. This exemption applies for the speciﬁc period stated in the exemption notice. The Commissioner's power to vary the amount withheld under TAA sch 1 s 15-15 may be exercised in favour of a foreign resident where the relevant income is not assessable in Australia, or to reduce the rate of withholding to a more appropriate level, where the prescribed withholding rates are excessive in comparison to the amount of tax which will ultimately be payable by the foreign entity (PS LA 2006/10).
 
 This withholding obligation applies to a payment made to a partnership or joint venture if one or more of the partners or venturers is a foreign resident. However, where a payment is received on behalf of such a partnership or joint venture, the obligation to withhold only extends to those partners or venturers who are foreign residents. Distributions from trusts to foreign residents are subject to ITAA36 s 98(3) and (4) (¶6-220).
 
 All other withholding obligations have priority over this withholding obligation, except for voluntary agreement withholding (which only applies if no other withholding obligation applies).
 
-The foreign resident withholding rules extend to alienated personal services payments (¶26-280) (TAA sch 1 s 12-7). Amounts must be withheld from payments that are included in an individual’s assessable income under ITAA97 Div 86 (¶30-600) and payments which are speciﬁed under the regulations.
+The foreign resident withholding rules extend to alienated personal services payments (¶26-280) (TAA sch 1 s 12-7). Amounts must be withheld from payments that are included in an individual's assessable income under ITAA97 Div 86 (¶30-600) and payments which are speciﬁed under the regulations.
 
 Prescribed foreign resident withholding The following foreign resident withholding obligations are prescribed in TAR ss 31, 32 and 33. Withholding is required from:
 

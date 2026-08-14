@@ -18,9 +18,9 @@ compilation_date: 2026-06-06
 
 **(2)**  Trustee income having a source outside New Zealand, or having a source in New Zealand only as non-resident passive income in relation to which the income tax obligations have been satisfied, in the 1987–88 tax year and earlier tax years when no trustee was resident in New Zealand is treated as liable to income tax, other than only as non-resident passive income.
 
-**Trustee’s obligations**
+**Trustee's obligations**
 
-**(3)**  The trustee’s obligations in relation to their income tax liability on the trustee income are treated as having been satisfied.
+**(3)**  The trustee's obligations in relation to their income tax liability on the trustee income are treated as having been satisfied.
 
 *Defined in this Act: complying trust, income tax, income tax liability, New Zealand, non-resident passive income, pay, resident in New Zealand, settlement, source in New Zealand, settlor, tax year, trustee, trustee income*
 

@@ -7,9 +7,9 @@ paragraph: "¶22-022"
 ---
 # Interest on certain publicly oﬀered debentures ¶22-022
 
-Interest paid under a debenture is exempt from interest withholding tax if the issue of the debenture satisﬁes a “public oﬀer” test (ITAA36 s 128F). If the issuing company is a resident, it must also be a resident at the time of payment. If the issuing company is a non-resident, the issue must be after 30 June 2001, the company must be a non-resident at the time of payment, and the issue and payment must be made through a permanent establishment of the company in Australia.
+Interest paid under a debenture is exempt from interest withholding tax if the issue of the debenture satisﬁes a "public oﬀer" test (ITAA36 s 128F). If the issuing company is a resident, it must also be a resident at the time of payment. If the issuing company is a non-resident, the issue must be after 30 June 2001, the company must be a non-resident at the time of payment, and the issue and payment must be made through a permanent establishment of the company in Australia.
 
-An exemption also applies where the sale of a debenture is deemed to give rise to deemed interest under ITAA36 s 128AA on or after 29 August 2001 (¶22-020), and the public oﬀer test is satisﬁed. This is intended to ensure that there will be an exemption where the debenture is on-sold by a non-resident to an Australian resident before the debenture’s maturity date.
+An exemption also applies where the sale of a debenture is deemed to give rise to deemed interest under ITAA36 s 128AA on or after 29 August 2001 (¶22-020), and the public oﬀer test is satisﬁed. This is intended to ensure that there will be an exemption where the debenture is on-sold by a non-resident to an Australian resident before the debenture's maturity date.
 
 Public offer test A company will satisfy the public oﬀer test if the debentures were oﬀered for issue in any of the following circumstances:
 
@@ -31,7 +31,7 @@ Public offer test A company will satisfy the public oﬀer test if the debenture
 
 - to a dealer, manager or underwriter for the purpose of placement of the debentures.
 
-  Debentures which are “global bonds” also satisfy the public oﬀer test.
+  Debentures which are "global bonds" also satisfy the public oﬀer test.
 
 Associates A debenture issue fails the public oﬀer test if at the time of the issue the company knows, or has reasonable grounds to suspect, that the debentures would be acquired by an associate. There is an exception if that associate is a dealer, manager or underwriter involved in the placement of the debentures.
 
@@ -59,7 +59,7 @@ A wide range of issues relating to the operation of this exemption and the publi
 
 debentures A company is treated as having issued debentures itself if the debentures are issued through a wholly-owned non-resident subsidiary in a foreign country speciﬁed in the regulations (the United States has been listed).
 
-The subsidiary’s sole business must be the raising of ﬁnance for its parent, and it must be resident in the country concerned.
+The subsidiary's sole business must be the raising of ﬁnance for its parent, and it must be resident in the country concerned.
 
 Public unit trusts In addition to the withholding tax exemption for interest paid by companies on publicly oﬀered debentures, a corresponding exemption applies to similar debentures issued by eligible Australian unit trusts or eligible foreign unit trusts carrying on business at or through a permanent establishment in Australia (ITAA36 s 128FA). The debentures oﬀered by the eligible unit trust must meet the public oﬀer test that applies for companies, and must be issued on or after 23 June 2004.
 

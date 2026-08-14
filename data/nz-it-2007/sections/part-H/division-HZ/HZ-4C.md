@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Initial basis**
 
-**(2)**  For the purposes of applying sections HB 11 and HB 12 (which relate to look-through company deduction rules) to a person with an effective look-through interest for the look-through company for the transitional income year and later years, all of the persons who hold owner’s interests must choose 1 of the 2 following methods for calculating their basis under section HB 11(3):
+**(2)**  For the purposes of applying sections HB 11 and HB 12 (which relate to look-through company deduction rules) to a person with an effective look-through interest for the look-through company for the transitional income year and later years, all of the persons who hold owner's interests must choose 1 of the 2 following methods for calculating their basis under section HB 11(3):
 
 - (a) for calculating amounts under section HB 11(5)﻿(a) for shares that were held at the end of the income year (the last year) before the transitional income year, they may choose to use the market value or the accounting book value of those shares as at the end of the last year. Calculations under section HB 11(7)﻿(b) and (8)﻿(b) are changed to account for the valuation under this paragraph; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Initial basis not less than zero**
 
-**(3)**  If the application of sections HB 11 and HB 12, as modified by this section, calculates an owner’s basis as less than zero, then the owner’s basis is treated as being zero.
+**(3)**  If the application of sections HB 11 and HB 12, as modified by this section, calculates an owner's basis as less than zero, then the owner's basis is treated as being zero.
 
 **Continuity of elections and methods**
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(5)**  After subsection (4) applies, section HB 1 (Look-through companies are transparent) applies, so that the elections and methods are those of an owner of an effective look-through interest for the look-through company.
 
-*Defined in this Act: effective look-through interest, income year, Inland Revenue Acts, look-through company, owner’s interests, qualifying company*
+*Defined in this Act: effective look-through interest, income year, Inland Revenue Acts, look-through company, owner's interests, qualifying company*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

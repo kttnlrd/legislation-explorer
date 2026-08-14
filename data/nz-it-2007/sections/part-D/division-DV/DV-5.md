@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
   - (ii) expenditure on revenue account property.
 
-**When expenditure becomes master fund’s**
+**When expenditure becomes master fund's**
 
 **(3)**  The expenditure incurred by the member fund may be transferred to the master fund, subject to the following conditions:
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction when master fund is multi-rate PIE**
 
-**(7B)**  Despite subsection (7), a master fund that is a multi-rate PIE is allowed a deduction for expenditure transferred to it by a member fund. However, the maximum amount transferred must be no more than the member fund’s share of the taxable income of the PIE for the income year in which the amount is transferred, any excess being treated as not transferred.
+**(7B)**  Despite subsection (7), a master fund that is a multi-rate PIE is allowed a deduction for expenditure transferred to it by a member fund. However, the maximum amount transferred must be no more than the member fund's share of the taxable income of the PIE for the income year in which the amount is transferred, any excess being treated as not transferred.
 
 **Additional transfer**
 

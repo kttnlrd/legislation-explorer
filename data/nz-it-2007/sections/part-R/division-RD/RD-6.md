@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 - (a) accruing from day to day; and
 
-- (b) included in the employee’s salary or wages for the pay period or, as applicable, as part of their salary or wages for the pay period.
+- (b) included in the employee's salary or wages for the pay period or, as applicable, as part of their salary or wages for the pay period.
 
 **When non-cash benefit treated as paid**
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Meaning of payment to person on shadow payroll**
 
-**(5)**  For the purposes of this section, a payment made to a person on a shadow payroll is a PAYE income payment paid by a non-resident employer to a person who undertakes employment services in New Zealand but who remains on the employer’s payroll system in a country or territory outside New Zealand.
+**(5)**  For the purposes of this section, a payment made to a person on a shadow payroll is a PAYE income payment paid by a non-resident employer to a person who undertakes employment services in New Zealand but who remains on the employer's payroll system in a country or territory outside New Zealand.
 
 *Defined in this Act: accommodation, amount, employee, employer, employment, employment income information, ESS deferral date, New Zealand, non-resident, pay, pay period, PAYE income payment, salary or wages, share purchase agreement*
 

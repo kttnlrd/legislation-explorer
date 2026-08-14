@@ -37,7 +37,7 @@ Where the purchaser is on the cash basis, the parties cannot accelerate the clai
 
 The position is different for a seller who is on the accruals basis. For example, an accruals basis seller under an instalment contract will become liable for GST on the whole of the price once the invoice is issued, even though instalments may not be received until later tax periods. This can have a negative impact on cashflow.
 
-You should also refer to the ATO’s practice on special types of contracts, such as agricultural pooling arrangements and contracts subject to cooling-off periods (¶7-440). Lay-by transactions are also subject to special rules (¶7-430).
+You should also refer to the ATO's practice on special types of contracts, such as agricultural pooling arrangements and contracts subject to cooling-off periods (¶7-440). Lay-by transactions are also subject to special rules (¶7-430).
 
 If business is entitled to a refund If input tax credits exceed the GST for a tax period, the business is entitled to a refund from the ATO. As refunds are payable within 14 days after the return is lodged, there is an incentive to lodge the return early.
 
@@ -47,7 +47,7 @@ Grouping provisions Forming a GST group may improve cashflow because GST does no
 
 Recovery of GST Businesses can suffer significant problems if contracts do not allow them to recover GST as part of the price paid by the customer, or if contractual provisions limit their capacity to claim input tax credits on their acquisitions (¶19-400).
 
-Changed or irregular sales patterns There can be difficulties if a business’s sales are concentrated into one part of the year, so that it has a positive cashflow effect from GST for that period but a negative cashflow effect for the majority of the year.
+Changed or irregular sales patterns There can be difficulties if a business's sales are concentrated into one part of the year, so that it has a positive cashflow effect from GST for that period but a negative cashflow effect for the majority of the year.
 
 Non-quotation of ABN As noted at ¶3-050, if a business does not quote its ABN on invoices to other businesses, those businesses may be required to withhold tax from the payment. Although this will effectively be accounted for in the next tax return, the loss of revenue in the meantime will have a negative effect on cashflow.
 
@@ -55,7 +55,7 @@ Nature of industry GST liabilities are typically high for industries such as who
 
 Effect of compliance costs In evaluating cashflow benefits, you will also need to take into account the effects of GST compliance costs.
 
-- initial set-up costs involved in making a newly-registered business “GST-ready”. These include
+- initial set-up costs involved in making a newly-registered business "GST-ready". These include
 
   accounting, training, records, administration and stock valuation costs (¶2-010)
 

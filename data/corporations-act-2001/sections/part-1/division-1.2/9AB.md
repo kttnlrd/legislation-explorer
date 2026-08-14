@@ -24,7 +24,7 @@ source_pdf: "corps-act"
 
 > **(d)** any CGT asset within the meaning of the Income Tax Assessment Act 1997.
 
-**(2)** The assets of a financial services licensee are all the licensee’s assets (as defined in subsection (1)), whether or not the assets are used in connection with the licensee’s Australian financial services licence.
+**(2)** The assets of a financial services licensee are all the licensee's assets (as defined in subsection (1)), whether or not the assets are used in connection with the licensee's Australian financial services licence.
 
 **(3)** An asset of a sub‑fund of a CCIV has the meaning given by section 1233H.
 

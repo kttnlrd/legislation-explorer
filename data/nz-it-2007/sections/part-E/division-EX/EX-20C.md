@@ -10,13 +10,13 @@ compilation_date: 2026-06-06
 ---
 # EX 20C  Net attributable CFC income or loss
 
-**CFC’s net attributable CFC income or loss**
+**CFC's net attributable CFC income or loss**
 
 **(1)**  For the purpose of calculating the attributed CFC income or loss for an accounting period of a person (the interest holder) with an income interest in a CFC,—
 
-- (a) the CFC’s net attributable CFC income for the accounting period is the greater of zero and the amount calculated using the formula in subsection (2):
+- (a) the CFC's net attributable CFC income for the accounting period is the greater of zero and the amount calculated using the formula in subsection (2):
 
-- (b) the CFC’s net attributable CFC loss for the accounting period is—
+- (b) the CFC's net attributable CFC loss for the accounting period is—
 
   - (i) the absolute value of the amount calculated using the formula in subsection (2), if that amount is less than zero:
 
@@ -24,13 +24,13 @@ compilation_date: 2026-06-06
 
 **Formula for net attributable CFC income or loss**
 
-**(2)**  The amount of a CFC’s net attributable CFC income or loss for an accounting period is calculated using the rules in section EX 21 and the formula— attributable CFC − apportioned funding costs − other deductions.
+**(2)**  The amount of a CFC's net attributable CFC income or loss for an accounting period is calculated using the rules in section EX 21 and the formula— attributable CFC − apportioned funding costs − other deductions.
 
 **Definition of items in formula**
 
 **(3)**  In the formula in subsection (2),—
 
-- (a) attributable CFC is the CFC’s attributable CFC amount for the accounting period:
+- (a) attributable CFC is the CFC's attributable CFC amount for the accounting period:
 
 - (c) apportioned funding costs is the amount calculated using the formula— funding costs × funding fraction × cost fraction:
 
@@ -68,13 +68,13 @@ compilation_date: 2026-06-06
 
 **Asset fraction**
 
-**(8)**  Asset fraction is the amount calculated using the formula— (attributable CFC’s assets − group funding)÷ (total CFC’s assets − group funding).
+**(8)**  Asset fraction is the amount calculated using the formula— (attributable CFC's assets − group funding)÷ (total CFC's assets − group funding).
 
 **Definition of items in formula**
 
 **(9)**  In the formula in subsection (8),—
 
-- (a) attributable CFC’s assets is the total of amounts for the CFC’s assets, each of which is the value of an asset to the extent to which the asset is used for the purpose of deriving an attributable CFC amount and not used for the purpose of deriving an amount that is not an attributable CFC amount:
+- (a) attributable CFC's assets is the total of amounts for the CFC's assets, each of which is the value of an asset to the extent to which the asset is used for the purpose of deriving an attributable CFC amount and not used for the purpose of deriving an amount that is not an attributable CFC amount:
 
 - (b) group funding is—
 
@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
   - (ii) the amount of the item group funding referred to in subsection (7)﻿(b), if subsection (6)﻿(c) applies for the interest holder and the CFC:
 
-- (c) total CFC’s assets is the total value of the CFC’s assets.
+- (c) total CFC's assets is the total value of the CFC's assets.
 
 **Funding costs**
 
@@ -110,7 +110,7 @@ compilation_date: 2026-06-06
 
 - (a) an excess debt outbound company; and
 
-- (b) the only member of the CFC’s New Zealand group.
+- (b) the only member of the CFC's New Zealand group.
 
 **Requirements for item other deductions**
 

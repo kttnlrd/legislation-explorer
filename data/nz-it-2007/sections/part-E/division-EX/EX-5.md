@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 - (a) the income is distributed on the last day of the accounting period; and
 
-- (b) the person’s entitlement is unchanged during the period; and
+- (b) the person's entitlement is unchanged during the period; and
 
 - (c) a payment of interest on a debenture subject to section FA 2 (Recharacterisation of certain debentures), FA 2B (Stapled debt securities), or FZ 1 (Treatment of interest payable under debentures issued before certain date) is a distribution of income.
 

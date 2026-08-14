@@ -3,21 +3,17 @@ ATO ID 2005/83
 ==================================================
 
 Income tax
-        Withholding tax: dividends - US parent of Australian company - 80% test
-        FOI status: may be released
-
+ Withholding tax: dividends - US parent of Australian company - 80% test
+ FOI status: may be released
 
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are dividends paid from an Australian resident company to a United States resident company subject to withholding tax under subsection 128B(1) of the Income Tax Assessment Act 1936 (ITAA 1936), where the United States company owns shares representing 80% or more of the voting power of the Australian company?
@@ -35,8 +31,6 @@ The taxpayer is a resident of the United States, a country with which Australia 
 Article 10(2) of the US Convention provides that dividends paid by a company resident in Australia being dividends to which a resident of the US is beneficially entitled, may be taxed in Australia.
 However, Article 10(3) provides that dividends shall not be taxed in Australia if the person who is beneficially entitled to the dividends is a company that is a resident of the US that has owned shares representing 80 percent or more of the voting power of the company paying the dividends for a 12-month period ending on the date the dividend is declared and:
 
-
-
 (a)the company that is resident in the US is a qualified person by reason of sub-paragraph (c) of paragraph (2) of Article 16 (Limitation on Benefits); or
 (b)the company that is resident of the US is entitled to benefits with respect to the dividends under paragraph (5) of that Article.
 
@@ -50,10 +44,10 @@ At the time the dividend is declared, the US company owns 100% of the shares rep
 Therefore, Article 10(3) applies, and Australia has no taxing right in respect of the dividend under the US double tax agreement.
 As a result, the dividend is not subject to withholding tax under section 128B.
 Date of decision:
-         24 February 2005
+  24 February 2005
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -63,20 +57,19 @@ International Tax Agreements Act 1953   subsection 4(2)   Schedule 2, Arti
 Keywords
 
 Double tax agreements
-          International tax
-          Treaties
-          Dividends
-          Withholding tax
-
+ International tax
+ Treaties
+ Dividends
+ Withholding tax
 
 Siebel/TDMS Reference Number:
-         4351651
+  4351651
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         18 March 2005
+  18 March 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

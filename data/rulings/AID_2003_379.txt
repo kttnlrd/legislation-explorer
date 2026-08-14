@@ -3,23 +3,18 @@ ATO ID 2003/379
 ==================================================
 
 Income Tax
-        Group company loss transfers: two companies wholly-owned by a corporate unit trust
-        FOI status: may be released
-
+ Group company loss transfers: two companies wholly-owned by a corporate unit trust
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database as it is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a loss company transfer a tax loss to an income company under Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997) as it applied in respect of an income year starting before 30 June 2003, if both companies were wholly-owned at all relevant times by a corporate unit trust?
@@ -32,24 +27,21 @@ Reasons for Decision
 Subdivision 170-A of the ITAA 1997 as it applied in respect of income years starting before 30 June 2003 operated to allow a loss company to transfer an amount of its tax loss to another company within the 'same wholly-owned group' if the conditions for transfer in Subdivision 170-A of the ITAA 1997 were satisfied. The 'same wholly-owned group' conditions were contained in section 170-30 of the ITAA 1997 as it then applied.
 Section 975-500 of the ITAA 1997 defines that two companies are members of the 'same wholly-owned group' if:
 
-
-
 (a)one of the companies is a 100% subsidiary of the other company; or
 (b)each of the companies is a 100% subsidiary of the same third company.
 
 Although the 'corporate unit trust' (as defined at section 102J of the Income Tax Assessment Act 1936 (ITAA 1936)) would be treated like a company for certain tax purposes, it is not a company and, hence, it cannot be regarded as a holding company for the loss company and the income company. It follows that the corporate unit trust cannot be 'the same third company' referred to in paragraph 975-500(b) of the ITAA 1997.
 As a result, the loss company and the income company were not members of the same wholly-owned group within the meaning of section 975-500 of the ITAA 1997, and therefore, no loss transfer is permitted under Subdivision 170-A of the ITAA 1997 as it applied in respect of the relevant income year.
 
-
 Note 1: A loss company also would not be able to transfer a tax loss to an income company in respect of an income year starting before 30 June 2003 if both companies were wholly-owned by a public trading trust, as defined at section 102R of the ITAA 1936.
 
 Note 2: Tax Laws Amendment (2004 Measures No. 2) Act 2004 inserted the new Subdivision 713-C of the ITAA 1997 effective from 1 July 2002. This Subdivision allows a public trading trust or a corporate unit trust to choose to be a head company of a consolidated group under section 703-50 of the ITAA 1997 as if the trust were a company. Once a public trading trust or a corporate unit trust has made the choice, it will continue to be treated like a company for income tax and related purposes for the rest of its existence. However, this treatment under the new Subdivision 713-C will not be relevant for the purposes of this interpretive decision.
 
 Date of decision:
-         7 April 2003
+  7 April 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -59,35 +51,31 @@ Income Tax Assessment Act 1936   section 102J   section 102R
 Keywords
 
 Consolidated group
-          Consolidation
-          Consolidation - losses
-          Corporate unit trusts
-          Group company loss transfers
-          Group losses
-          Head entity
-          Public trading trusts
-          Transfer of losses
-
+ Consolidation
+ Consolidation - losses
+ Corporate unit trusts
+ Group company loss transfers
+ Group losses
+ Head entity
+ Public trading trusts
+ Transfer of losses
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         23 May 2003
+  23 May 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  7 April 2003

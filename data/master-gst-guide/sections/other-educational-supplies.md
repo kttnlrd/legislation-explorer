@@ -15,13 +15,13 @@ The provision of graduation dinners or academic dress hire is not considered to 
 
 To qualify for the exemption, the entity providing the administrative services must be the entity that supplies the course.
 
-Placement, waiting list and withdrawal fees Fees charged for confirming a student’s place at a school are GST-free (s 9-30). However, if payment of the fee does not guarantee entry (eg a waiting list fee), the ATO considers that the fee will be subject to GST (GST Rulings GSTR 2000/30; GSTR 2001/1).
+Placement, waiting list and withdrawal fees Fees charged for confirming a student's place at a school are GST-free (s 9-30). However, if payment of the fee does not guarantee entry (eg a waiting list fee), the ATO considers that the fee will be subject to GST (GST Rulings GSTR 2000/30; GSTR 2001/1).
 
 If a student withdraws from a course that has already started and forfeits all or part of the tuition fees, the amount forfeited remains GST-free (GST Ruling GSTR 2001/1). Similarly, if the student cancels before the course starts, the cancellation fee would be treated as consideration for the supply of GST-free administrative services (see above) and therefore GST would not apply (GST Ruling GSTR 2009/3).
 
 Course materials Certain course materials provided for a subject in an education course are GST-free (s 38-95).
 
-The materials must be provided by the supplier of the course and must be “necessarily consumed or transformed” by the students. The ATO considers that the following are course materials when supplied by an educational institution:
+The materials must be provided by the supplier of the course and must be "necessarily consumed or transformed" by the students. The ATO considers that the following are course materials when supplied by an educational institution:
 
 - photocopied or printed educational materials that specifically relate to the course
 
@@ -41,13 +41,13 @@ The materials must be provided by the supplier of the course and must be “nece
 
   GSTR 2001/1).
 
-GST would not apply where a student in a GST-free cabinet-making course kept the cabinet he made with wood supplied as part of the course, as there would be no additional “supply” by the course provider.
+GST would not apply where a student in a GST-free cabinet-making course kept the cabinet he made with wood supplied as part of the course, as there would be no additional "supply" by the course provider.
 
 Example A university bookshop sells notepads and pens to its students and the general public. The sales to its students will be GST-free.
 
 The sales to non-students will be taxable. If the shop is not owned by the university and is not acting as its agent (see below), all the sales will be taxable, as the materials are not provided by the course provider.
 
-The ATO considers that if a university engages an independent bookseller as an agent to sell course materials to students, the supply of those materials may be GST-free if: (1) the agent can identify the student, for example, by a student ID card; (2) the materials are prescribed on the student’s book list; and (3) the university retains ownership of the goods until they are sold (GST Ruling GSTR 2001/1).
+The ATO considers that if a university engages an independent bookseller as an agent to sell course materials to students, the supply of those materials may be GST-free if: (1) the agent can identify the student, for example, by a student ID card; (2) the materials are prescribed on the student's book list; and (3) the university retains ownership of the goods until they are sold (GST Ruling GSTR 2001/1).
 
 Goods which are sold Where goods other than course materials are sold, that is not GST-free (s 38-100). This applies, for example, where uniforms, sports clothes, musical instruments, equipment or textbooks are sold to students.
 
@@ -59,7 +59,7 @@ This exemption does not apply to tertiary courses.
 
 The exemption may apply, for example, to hired laptop computers, textbooks, or musical or sporting equipment. To be eligible, the goods must be for use directly or principally in undertaking a GST-free course and the school must have the right to decide who uses them and how they are used. There must not be any transfer of ownership of the goods, or any right or obligation to transfer ownership.
 
-Items which are simply provided “free” for students to use as part of the course, for example computers or books, are GST-free.
+Items which are simply provided "free" for students to use as part of the course, for example computers or books, are GST-free.
 
 Prizes and awards to students would not be subject to GST in any event as they are gifts (¶4-030).
 
@@ -89,7 +89,7 @@ Student accommodation Certain student accommodation is GST-free if the student i
 
 To be GST-free, the accommodation must be provided by the relevant school that supplies the course or, alternatively, be provided in a hostel whose primary purpose is to provide accommodation for students from rural or remote locations. A rural or remote location does not include metropolitan areas with populations over 100,000, or overseas locations (Interpretative Decision ID 2005/189). However, the test will be satisfied even though some metropolitan or overseas students were also accommodated, where the documented main purpose was to accommodate rural or remote students, and preference was given to those students (Interpretative Decision ID 2004/977).
 
-In this context, accommodation includes cleaning, maintenance, power, air conditioning, heating, and items such as telephones, televisions and radios. It specifically does not include food, even where this is bundled with the accommodation (s 38-105(4)). Accordingly, whether the food component is GST-free depends on the normal food rules explained at ¶13-000 onwards. For example, food supplied to boarders at a boarding school would be subject to GST (¶13-120). In such a case, if only a single fee is charged for food and accommodation, it will be necessary to apportion the fee into its GST-free (accommodation) and taxable (food) components. The ATO says it will accept any apportionment made on a “reasonable” basis (GST Ruling GSTR 2000/30).
+In this context, accommodation includes cleaning, maintenance, power, air conditioning, heating, and items such as telephones, televisions and radios. It specifically does not include food, even where this is bundled with the accommodation (s 38-105(4)). Accordingly, whether the food component is GST-free depends on the normal food rules explained at ¶13-000 onwards. For example, food supplied to boarders at a boarding school would be subject to GST (¶13-120). In such a case, if only a single fee is charged for food and accommodation, it will be necessary to apportion the fee into its GST-free (accommodation) and taxable (food) components. The ATO says it will accept any apportionment made on a "reasonable" basis (GST Ruling GSTR 2000/30).
 
 Accommodation provided to tertiary students at university halls or colleges is treated as non-commercial residential accommodation and is input taxed: see ¶11-030. The same applies to rental accommodation for students living off-campus.
 
@@ -97,11 +97,11 @@ In certain situations where the educational institution qualifies as a charity, 
 
 Staff and other accommodation Accommodation provided at a university residential college to staff or others who are not tertiary students is treated as commercial accommodation and is taxable, subject to the special rules that apply to long- term accommodation; for further details, see ¶11-320. The same applies to school boarding house accommodation provided to teachers or non-students (¶11-030). However, it may be that if a school provides accommodation for a teacher in a house or flat, that will not be treated as commercial accommodation and will accordingly be input taxed (Interpretative Decision ID 2002/972) (¶11-310). Staff accommodation may also be GST-free in certain situations where the school is a charity (¶15-010).
 
-Other exempt supplies If an educational institution qualifies as a charity, gift-deductible entity or government school, sales of goods for “nominal” consideration may be GST-free (¶15-010). Sales of donated second-hand goods may also be GST-free (¶15-030).
+Other exempt supplies If an educational institution qualifies as a charity, gift-deductible entity or government school, sales of goods for "nominal" consideration may be GST-free (¶15-010). Sales of donated second-hand goods may also be GST-free (¶15-030).
 
-The provision of a typical “no strings” scholarship would not be subject to GST as there is no consideration (¶4-030). For example, GST did not apply where a private school provided a scholarship covering secondary tuition, boarding school accommodation and music tuition to a student (Interpretative Decision ID 2003/980).
+The provision of a typical "no strings" scholarship would not be subject to GST as there is no consideration (¶4-030). For example, GST did not apply where a private school provided a scholarship covering secondary tuition, boarding school accommodation and music tuition to a student (Interpretative Decision ID 2003/980).
 
-GST would not apply if the relevant institution is not registered or required to be registered, for example if its turnover falls below the relevant registration threshold. This means that GST would not apply to fundraising activities, such as fetes, if they are carried out by unregistered Parents and Citizens Associations that are below the $150,000 “non-profit” threshold (¶3-030). GST also would not apply to certain fundraising events if they are treated as input taxed under the guidelines described at ¶15-055.
+GST would not apply if the relevant institution is not registered or required to be registered, for example if its turnover falls below the relevant registration threshold. This means that GST would not apply to fundraising activities, such as fetes, if they are carried out by unregistered Parents and Citizens Associations that are below the $150,000 "non-profit" threshold (¶3-030). GST also would not apply to certain fundraising events if they are treated as input taxed under the guidelines described at ¶15-055.
 
 *Refs: s 38-105), s 38-105(4))*
 

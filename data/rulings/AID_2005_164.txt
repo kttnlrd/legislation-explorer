@@ -3,21 +3,16 @@ ATO ID 2005/164
 ==================================================
 
 Income Tax
-        Capital Gains Tax: CGT event C2 - close-out of an exchange traded option
-        FOI status: may be released
-
+ Capital Gains Tax: CGT event C2 - close-out of an exchange traded option
+ FOI status: may be released
 
 This ATO ID has been amended to remove the words 'right or obligation' from the 5th paragraph of the Reasons for Decision.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does CGT event C2 in section 104-25 of the Income Tax Assessment Act 1997 (ITAA 1997) happen to a taxpayer on the close-out of an exchange-traded option (ETO)?
@@ -35,16 +30,15 @@ CGT event C2 happens when a taxpayer's ownership of an intangible CGT asset ends
 CGT event C2 therefore happens to a taxpayer when their position under an ETO is closed out where the close-out results in the cancellation, release or discharge of the ETO.
 The close-out of an option position is not the same as the sale of an asset. When an option position is closed out, there is no transfer of rights between two parties. CGT event A1 therefore cannot happen when an option position is closed out, there being no change in ownership of the asset from one entity to another as required by subsection 104-10(2) of the ITAA 1997.
 
-
 Note 1: A profit or gain can constitute assessable income under section 15-15 of the ITAA 1997. To ensure that there is no double taxation under the income and CGT provisions, section 118-20 of the ITAA 1997 reduces the capital gain to the extent that an amount is also included as assessable income under another provision of the ITAA 1997.
 
 Note 2: A loss incurred may be deductible under section 25-40 of the ITAA 1997 if it arose from the carrying on or carrying out of a profit-making undertaking or plan and, had any profit been derived, such profit would have been included in the taxpayer's assessable income under section 15-15 of the ITAA 1997.
 
 Date of decision:
-         24 May 2005
+  24 May 2005
 
 Year of income:
-           Year ended 30 June 2001
+  Year ended 30 June 2001
 
 Legislative References:
 
@@ -57,24 +51,23 @@ ATO ID 2001/541
 Keywords
 
 Call options
-          Put options
-          Capital gains tax
-          Capital losses
-          CGT assets
-          CGT capital proceeds
-          CGT cost base
-          CGT reduced cost base
-          Securities rights & options
-
+ Put options
+ Capital gains tax
+ Capital losses
+ CGT assets
+ CGT capital proceeds
+ CGT cost base
+ CGT reduced cost base
+ Securities rights & options
 
 Siebel/TDMS Reference Number:
-         4636982
+  4636982
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         17 June 2005
+  17 June 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

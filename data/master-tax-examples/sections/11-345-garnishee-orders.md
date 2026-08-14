@@ -13,7 +13,7 @@ Before this, he owned and managed his own plumbing business in Melbourne, Right 
 
 The ATO has attempted to work with Peter to pay his debts, however, he has chosen not to engage with them in the hope that if he does not reply to their letters and telephone calls, they will eventually go away.
 
-In addition, he moved to the Northern Territory in the hope of — in his own words — “outrunning the ATO”.
+In addition, he moved to the Northern Territory in the hope of — in his own words — "outrunning the ATO".
 
 These strategies have not succeeded.
 
@@ -37,7 +37,7 @@ The Commissioner can apply a garnishee notice where the taxpayer:
 
   risking assets and with the intention of resuming business operations through a new entity).
 
-The Commissioner can issue a garnishee notice to a person or business that holds money for the taxpayer or may hold money for them in the future. This requires them to pay the taxpayer’s money directly to the ATO to reduce any debts owing. The Commissioner must provide the taxpayer with a copy of the garnishee notice (s 260-5(6)).
+The Commissioner can issue a garnishee notice to a person or business that holds money for the taxpayer or may hold money for them in the future. This requires them to pay the taxpayer's money directly to the ATO to reduce any debts owing. The Commissioner must provide the taxpayer with a copy of the garnishee notice (s 260-5(6)).
 
 The ATO may issue a garnishee notice to various third parties, including:
 
@@ -65,7 +65,7 @@ Garnishee notices can be issued for:
 
 - a judgment given on a tax debt, and/or
 
-- the ATO’s costs of obtaining judgment on a tax debt.
+- the ATO's costs of obtaining judgment on a tax debt.
 
   There are 2 types of garnishee notices:
 
@@ -73,11 +73,11 @@ Garnishee notices can be issued for:
 
 - continuing notices (s 260-5(4)(b)).
 
-Point in time notices demand a single one-off payment. For example, the notice might require the tax debtor’s bank to pay the full tax debt from the specified account of the tax debtor.
+Point in time notices demand a single one-off payment. For example, the notice might require the tax debtor's bank to pay the full tax debt from the specified account of the tax debtor.
 
-Continuing notices demand continuous payments from the third party. For example, the tax debtor’s bank must pay an amount of money in the bank account, as well as any future deposits.
+Continuing notices demand continuous payments from the third party. For example, the tax debtor's bank must pay an amount of money in the bank account, as well as any future deposits.
 
-Peter’s employer has been issued with a continuing notice.
+Peter's employer has been issued with a continuing notice.
 
 His employer must comply with the garnishee notice, or they face serious penalties. If they do not comply with it, this is a criminal offence, and the employer is liable to a penalty of:
 
@@ -89,15 +89,15 @@ His employer must comply with the garnishee notice, or they face serious penalti
 
 ATO officers should consider the daily living expenses of taxpayers when preparing a garnishee notice.
 
-Practice Statement PS LA 2011/18 states (at para 108) that, where the garnishee is in respect of salary or wages, the ATO will not usually seek to garnishee more than 30 cents in the dollar of the amount of salary and wages payable. However, a higher percentage may be appropriate where the debtor has another source of income or where the debtor’s financial position indicates that it would be fair and equitable to do so. They are unlikely to regard Peter’s current financial position as sufficient reason to reduce the amount of the garnishee notice, let alone lift it altogether.
+Practice Statement PS LA 2011/18 states (at para 108) that, where the garnishee is in respect of salary or wages, the ATO will not usually seek to garnishee more than 30 cents in the dollar of the amount of salary and wages payable. However, a higher percentage may be appropriate where the debtor has another source of income or where the debtor's financial position indicates that it would be fair and equitable to do so. They are unlikely to regard Peter's current financial position as sufficient reason to reduce the amount of the garnishee notice, let alone lift it altogether.
 
-The “debt” (ie Peter’s liability to the Commonwealth) on which the notice is based must be an amount ascertained or ascertainable as at the date of the notice (ie an assessment must have been issued).
+The "debt" (ie Peter's liability to the Commonwealth) on which the notice is based must be an amount ascertained or ascertainable as at the date of the notice (ie an assessment must have been issued).
 
 Otherwise, neither Peter nor his employer can know how much must be paid to the Commissioner.
 
-PSLA 2011/18 states at para 103: “The Commissioner will consider any reasonable request from a tax debtor to either withdraw or vary the requirements of a garnishee notice, provided the tax debtor makes suitable alternative arrangements for payment.” Therefore, if the Commissioner can see that a tax debtor is trying to resolve their tax debts (by entering into a payment plan for example), they may agree to withdraw the garnishee notice. In this case, Peter has so far refused to engage with the ATO and, therefore, it is unlikely that the Commissioner will agree to withdrawal of the garnishee notice.
+PSLA 2011/18 states at para 103: "The Commissioner will consider any reasonable request from a tax debtor to either withdraw or vary the requirements of a garnishee notice, provided the tax debtor makes suitable alternative arrangements for payment." Therefore, if the Commissioner can see that a tax debtor is trying to resolve their tax debts (by entering into a payment plan for example), they may agree to withdraw the garnishee notice. In this case, Peter has so far refused to engage with the ATO and, therefore, it is unlikely that the Commissioner will agree to withdrawal of the garnishee notice.
 
-In terms of possible defences against the garnishee notice, Peter could always — as a last resort — consider resigning from his current employer. In addition, if a garnishee notice is raised against Peter’s bank, he could change banks. Both are likely to be personally difficult decisions which could impact his finances going forward, particularly resigning his job.
+In terms of possible defences against the garnishee notice, Peter could always — as a last resort — consider resigning from his current employer. In addition, if a garnishee notice is raised against Peter's bank, he could change banks. Both are likely to be personally difficult decisions which could impact his finances going forward, particularly resigning his job.
 
 Alternatively, he could try to challenge the tax assessments that gave rise to the notice through the courts.
 

@@ -9,13 +9,13 @@ paragraph: "None"
 
 Worked example: Limits on franked distributions funded by capital raisings Issue On 31 March 2025, Hades Ltd raised $10 million of new capital from shareholders via a share issue.
 
-On 30 April 2025, Hades Ltd paid out a special dividend of $10 million to the company’s shareholders. This dividend was outside of the ordinary dividend cycle of the company and significantly larger than normal dividends payments, despite there being no significant change in the level of profitability for the company.
+On 30 April 2025, Hades Ltd paid out a special dividend of $10 million to the company's shareholders. This dividend was outside of the ordinary dividend cycle of the company and significantly larger than normal dividends payments, despite there being no significant change in the level of profitability for the company.
 
 There has not been any significant change in shareholders during this period. The dividend is paid out of profits and is intended to be fully franked. Hades Ltd has a large balance of franking credits in its franking account.
 
 Explain the tax consequences of these transaction to both the company and the shareholders.
 
-Solution Section 207-159 ITAA97 applies to dividends made on or after 28 November 2023 to prevent a company from attaching franking credits to distributions made to shareholders that are outside or additional to the company’s normal dividend cycle, to the extent the distributions are funded directly or indirectly by capital raising activities that result in the issue of new equity interests.
+Solution Section 207-159 ITAA97 applies to dividends made on or after 28 November 2023 to prevent a company from attaching franking credits to distributions made to shareholders that are outside or additional to the company's normal dividend cycle, to the extent the distributions are funded directly or indirectly by capital raising activities that result in the issue of new equity interests.
 
 The changes are intended to discourage artificial or contrived arrangements where capital is raised to fund the early release of franking credits on dividends, with the overall outcome not resulting in any significant change to the financial position of the entity.
 
@@ -25,7 +25,7 @@ A distribution (or part of a distribution) that satisfies the conditions of s 20
 
 Section 207-159 applies to a distribution if all the following conditions are met:
 
-- either of the following apply (“established practice condition”):
+- either of the following apply ("established practice condition"):
 
 – the entity has a practice of making distributions on a regular basis and the relevant distribution is not made in accordance with that practice, or – the entity does not have a practice of making distributions of that kind
 
@@ -63,21 +63,21 @@ For a distribution to be unfrankable under s 202-45, it must be reasonable to co
 
 - the principal effect of the issue of any of the equity interests was the direct or indirect funding of a
 
-  substantial part of the relevant distribution or the relevant part (“principal effect” test), and
+  substantial part of the relevant distribution or the relevant part ("principal effect" test), and
 
 - an entity that issued, or facilitated the issue of, any of the equity interests did so for a purpose (other
 
   than an incidental purpose) of funding a substantial part of the relevant distribution or the relevant part
 
-(“purpose” test).
+("purpose" test).
 
-The difference between the 2 tests is that the “principal effect” test considers outcomes, while the “purpose” test considers intentions. A distribution will only be made unfrankable where both tests are satisfied.
+The difference between the 2 tests is that the "principal effect" test considers outcomes, while the "purpose" test considers intentions. A distribution will only be made unfrankable where both tests are satisfied.
 
-With the “principal effect” test, where an issue of equity interests has several effects, the test will only be satisfied if the effect of directly or indirectly funding all or a substantial part of a franked distribution was the principal effect of the issue. Where the principal effect of the capital raising is to fund the entire distribution, the entire distribution will be unfrankable. Conversely, if the principal effect of the equity issue is to fund a substantial part of the distribution, the amount of the distribution that is unfrankable will be determined in proportion to the part of the distribution funded by the equity issue.
+With the "principal effect" test, where an issue of equity interests has several effects, the test will only be satisfied if the effect of directly or indirectly funding all or a substantial part of a franked distribution was the principal effect of the issue. Where the principal effect of the capital raising is to fund the entire distribution, the entire distribution will be unfrankable. Conversely, if the principal effect of the equity issue is to fund a substantial part of the distribution, the amount of the distribution that is unfrankable will be determined in proportion to the part of the distribution funded by the equity issue.
 
-For the “purpose test”, it is not necessary that the relevant purpose be the sole, dominant or primary purpose of the entity, only that it was more than incidental to some other purpose.
+For the "purpose test", it is not necessary that the relevant purpose be the sole, dominant or primary purpose of the entity, only that it was more than incidental to some other purpose.
 
-It would be reasonable to conclude that the principal effect and purpose tests are satisfied in relation to Hades Ltd’s arrangement because:
+It would be reasonable to conclude that the principal effect and purpose tests are satisfied in relation to Hades Ltd's arrangement because:
 
 - the financial position of the company is largely unaffected, other than the change to the franking
 
@@ -95,7 +95,7 @@ It would be reasonable to conclude that the principal effect and purpose tests a
 
 As a consequence, the entire $10 million dividend issued will be unfrankable. For the company, it will be necessary to add back any franking debits that were included in its franking account balance on the franking of the dividend.
 
-For the shareholders, an unfrankable dividend will result in higher tax liabilities, being taxed at the shareholder’s marginal tax rate (up to 45%). An unfrankable dividend does not result in a tax offset for resident shareholders (as there are no franking credits), it will be subject to dividend withholding tax for non- resident shareholders, and it cannot be declared to be conduit foreign income.
+For the shareholders, an unfrankable dividend will result in higher tax liabilities, being taxed at the shareholder's marginal tax rate (up to 45%). An unfrankable dividend does not result in a tax offset for resident shareholders (as there are no franking credits), it will be subject to dividend withholding tax for non- resident shareholders, and it cannot be declared to be conduit foreign income.
 
 *Refs: s 207-159, s
 202-45(, s 207-159(2)), s

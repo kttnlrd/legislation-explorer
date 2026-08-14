@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 - (b) reserves imputation credit is the total amount given by the formula in subsection (7B), up to the maximum permitted ratio for the untaxed reserves under section OA 18 (Calculation of maximum permitted ratios) and is treated as an attached imputation credit included in the dividend calculated under this section:
 
-- (c) effective interest is the person’s effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
+- (c) effective interest is the person's effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
 
 **Formula**
 
@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 **(7C)**  In the formula in subsection (7B),—
 
-- (a) current credits is the amount of the balance in the company’s imputation credit account on the relevant day:
+- (a) current credits is the amount of the balance in the company's imputation credit account on the relevant day:
 
 - (b) future amounts is an amount of income tax payable for an earlier income year but not paid on or before the relevant day, less refunds due for the earlier income year but paid after the relevant day.
 
@@ -90,7 +90,7 @@ compilation_date: 2026-06-06
 
 - (a) balances is the sum of the following amounts:
 
-  - (i) the balance in the company’s imputation credit account on the relevant day:
+  - (i) the balance in the company's imputation credit account on the relevant day:
 
   - (ii) an amount of income tax payable for an earlier income year but not paid on or before the relevant day, less refunds due for the earlier income year but paid after the relevant day:
 
@@ -98,7 +98,7 @@ compilation_date: 2026-06-06
 
 - (c) balances imputation credit is the amount of the item balances in paragraph (a), and is treated as an attached imputation credit included in the dividend calculated under this section:
 
-- (d) effective interest is the person’s effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
+- (d) effective interest is the person's effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
 
 **Relevant day**
 
@@ -112,9 +112,9 @@ compilation_date: 2026-06-06
 
 **(11)**  For the purposes of subsections (7C)﻿(b) and (9)﻿(a)﻿(ii),—
 
-- (a) income tax payable is income tax that would, when paid, give rise to a credit in the company’s imputation credit account under sections OB 4 to OB 29 (which relate to imputation credits):
+- (a) income tax payable is income tax that would, when paid, give rise to a credit in the company's imputation credit account under sections OB 4 to OB 29 (which relate to imputation credits):
 
-- (b) a refund of income tax due is the amount that would, when paid, give rise to a debit to the company’s imputation credit account under sections OB 30 to OB 59 (which relate to imputation debits).
+- (b) a refund of income tax due is the amount that would, when paid, give rise to a debit to the company's imputation credit account under sections OB 30 to OB 59 (which relate to imputation debits).
 
 *Defined in this Act: amalgamating company, amalgamation, amount, assessable income, basic tax rate, company, deduction, dispose, dividend, effective look-through interest, fully imputed, imputation credit, imputation credit account, income, income tax, income year, liquidation, look-through company, qualifying company*
 

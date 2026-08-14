@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner’s interests for a look-through company, to the extent to which those interests include a short-term agreement for sale and purchase.
+**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner's interests for a look-through company, to the extent to which those interests include a short-term agreement for sale and purchase.
 
 **Exiting owner: excluded payment**
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(6)**  Section HB 4 overrides this section.
 
-*Defined in this Act: deduction, dispose, entering owner, excluded income, income tax liability, income year, look-through company, owner’s interests, pay, short-term agreement for sale and purchase*
+*Defined in this Act: deduction, dispose, entering owner, excluded income, income tax liability, income year, look-through company, owner's interests, pay, short-term agreement for sale and purchase*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -4,42 +4,39 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 358
-  • Div 58
-  • Div 72
-  • Div 75
-  • Division 358
-  • Division 58
-  • Division 72
-  • Division 75
-  • Subdivision 38-N
-  • Subdivision 72-D
-  • div 38
-  • div 72
-  • division 38
-  • division 72
+ • Div 358
+ • Div 58
+ • Div 72
+ • Div 75
+ • Division 358
+ • Division 58
+ • Division 72
+ • Division 75
+ • Subdivision 38-N
+ • Subdivision 72-D
+ • div 38
+ • div 72
+ • division 38
+ • division 72
 
 Cases Referenced:
-  • Aurora Developments Pty Ltd v Commissioner 
-  • Aurora Developments Pty Ltd v. Commissioner 
-  • Brady King Pty Ltd v Commissioner 
-  • Brady King Pty Ltd v Federal Commissioner 
-  • Brady King Pty Ltd v. Commissioner 
-  • Brady King v. Commissioner 
-  • In
+ • Aurora Developments Pty Ltd v Commissioner 
+ • Aurora Developments Pty Ltd v. Commissioner 
+ • Brady King Pty Ltd v Commissioner 
+ • Brady King Pty Ltd v Federal Commissioner 
+ • Brady King Pty Ltd v. Commissioner 
+ • Brady King v. Commissioner 
+ • In
 Nullagine Investments Pty Ltd v. Western Australian Club Inc
 (1993) 177 CLR 635
-  • Nullagine Investments Pty Ltd v. Western Australian Club Inc
+ • Nullagine Investments Pty Ltd v. Western Australian Club Inc
 (1993) 177 CLR 635
-  • Sterling Guardian Pty Limited v. Commissioner 
-  • Taxation v Reliance Carpet Co Pty Limited
+ • Sterling Guardian Pty Limited v. Commissioner 
+ • Taxation v Reliance Carpet Co Pty Limited
 
-  • Taxation v. Reliance Carpet Co Pty Limited
-
+ • Taxation v. Reliance Carpet Co Pty Limited
 
 Topics: GST, Trusts, Companies, International, Employment
-
-
 
 ================================================================================
 
@@ -54,7 +51,7 @@ Back to browse
 91 related documents
 Goods and Services Tax Ruling
 GSTR 2006/8
-Goods and services tax:  the margin scheme for supplies of real property acquired on or after 1 July 2000
+Goods and services tax: the margin scheme for supplies of real property acquired on or after 1 July 2000
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -83,10 +80,10 @@ Taxation Administration Act 1953.
 From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
-If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law).  You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
 [
 Note:
-This is a consolidated version of this document.  Refer to the Tax Office Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+This is a consolidated version of this document. Refer to the Tax Office Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling is about how the margin scheme under Division 75 of the
 A New Tax System (Goods and Services Tax) Act 1999
@@ -246,7 +243,7 @@ you could not apply the margin scheme if you acquired the real property through 
 from an entity that applied the margin scheme on the supply to you; or
 •
 not a taxable supply. For example, supplies that are GST-free or input taxed, or from an entity that was not registered or required to be registered for GST purposes.
-Example 1:  former subsection 75-5(2)
+Example 1: former subsection 75-5(2)
 30.
 Tureia and Phil are both registered for GST purposes. Tureia is a builder. On 20 January 2002, Phil sold Tureia a block of land for $220,000. The sale of the land was a taxable supply, but Phil did not use the margin scheme. Instead, he accounted for GST of $20,000 (1/11th of $220,000) on the supply and issued Tureia with a tax invoice for the supply. Tureia intends to build a block of units on the land and sell them
 .
@@ -277,7 +274,7 @@ at the time when you were a participant of a joint venture;
 and
 •
 the joint venture operator had acquired the real property through a supply that was ineligible for the margin scheme.
-Example 2:  GST groups
+Example 2: GST groups
 33.
 Apex Pty Ltd made a taxable supply of land to Beta Pty Ltd for $1.1 million without applying the margin scheme. Beta Pty Ltd is a member of a GST group but Apex Pty Ltd is not. Beta Pty Ltd sells the land to Cara Pty Ltd, another member of the GST group, for $2.2 million. The supply from Beta Pty Ltd to Cara Pty Ltd is not a taxable supply as both entities are members of the same GST group
 .
@@ -309,17 +306,17 @@ Brady King v. Commissioner of Taxation
 (
 Brady King
 ) is authority for the view that, for the purposes of subsection 75-10(3), an entity supplying real property is taken to have held or acquired a sufficient interest in that property at the time it entered into a contract for its acquisition. As such, if the entity entered into the contract before 1 July 2000, the entity may work out its GST liability under the margin scheme by reference to an approved valuation of the real property as at the day specified in subsection 75-10(3), even if settlement of the contract occurred on or after 1 July 2000 (assuming the requirements for application of the margin scheme are satisfied).
-39B. In particular, under the Commissioner's view, if an entity entered into a contract for the acquisition of freehold title to land, out of which stratum units were to be created, the entity is taken, for the purposes of subsection 75-10(3), to have held or acquired a sufficient interest in the stratum units on entering into the contract.  Similarly, if an entity entered into a contract for the acquisition of freehold title to land for subdivision, the entity is taken, for the purposes of subsection 75-10(3), to have held or acquired a sufficient interest in the subdivided lots at the time the entity entered into the contract.
+39B. In particular, under the Commissioner's view, if an entity entered into a contract for the acquisition of freehold title to land, out of which stratum units were to be created, the entity is taken, for the purposes of subsection 75-10(3), to have held or acquired a sufficient interest in the stratum units on entering into the contract. Similarly, if an entity entered into a contract for the acquisition of freehold title to land for subdivision, the entity is taken, for the purposes of subsection 75-10(3), to have held or acquired a sufficient interest in the subdivided lots at the time the entity entered into the contract.
 39C. However, the Commissioner does not consider that it follows from the
 Brady King v. Commissioner of Taxation
 [19B]
 (Brady King
 ) decision that a supply or acquisition of the real property itself
 [19C]
-occurs at the time of entry into a contract for the sale and purchase of that property.  As stated in paragraphs 38 and 39 of this Ruling, the Commissioner considers that the supply or acquisition of the property occurs on settlement of the contract.
+occurs at the time of entry into a contract for the sale and purchase of that property. As stated in paragraphs 38 and 39 of this Ruling, the Commissioner considers that the supply or acquisition of the property occurs on settlement of the contract.
 39D. In
 Brady King
-, the Full Court decided that the taxpayer, by holding or acquiring contractual rights as the purchaser under an uncompleted contract of sale, held or acquired a sufficient interest in the relevant real property for the purposes of items 1 and 3 in the table in subsection 75-10(3).  The Full Court did not decide that a taxable supply or creditable acquisition of real property is made on entering into a contract for sale and purchase.  Such a conclusion would be contrary to the High Court judgment in
+, the Full Court decided that the taxpayer, by holding or acquiring contractual rights as the purchaser under an uncompleted contract of sale, held or acquired a sufficient interest in the relevant real property for the purposes of items 1 and 3 in the table in subsection 75-10(3). The Full Court did not decide that a taxable supply or creditable acquisition of real property is made on entering into a contract for sale and purchase. Such a conclusion would be contrary to the High Court judgment in
 Commissioner of Taxation v. Reliance Carpet Co Pty Limited
 .
 [19D]
@@ -330,9 +327,9 @@ Aurora Developments Pty Ltd v. Commissioner of Taxation
 (Aurora Developments
 ) provide further support for the Commissioner's view that the
 Brady King
-decision is not relevant in determining the time at which the supply or acquisition of the real property itself occurs.  In
+decision is not relevant in determining the time at which the supply or acquisition of the real property itself occurs. In
 Aurora Developments
-, Greenwood J considered the expression 'the day of the supply' as it appears in subsection 38-325(2) in the context of a contract involving the supply of land.  Greenwood J concluded, taking into account the circumstances of the case, that 'the day of supply' for the purposes of subsection 38-325(2) was the date at which settlement occurred and not, as the applicant had contended, the date at which the contract had been entered into.  Relevantly, Greenwood J noted (at paragraph 258):
+, Greenwood J considered the expression 'the day of the supply' as it appears in subsection 38-325(2) in the context of a contract involving the supply of land. Greenwood J concluded, taking into account the circumstances of the case, that 'the day of supply' for the purposes of subsection 38-325(2) was the date at which settlement occurred and not, as the applicant had contended, the date at which the contract had been entered into. Relevantly, Greenwood J noted (at paragraph 258):
 [t]he decision of the Full Court in
 Brady King Pty Ltd v Federal Commissioner of Taxation
 2008 ATC 20-034; [2008] FCAFC 118; (2008) 168 FCR 558 in relation to the proper construction to be adopted concerning s 75-10 of the GST Act does not assist in the determination of the construction of s 38-325(2).
@@ -380,7 +377,7 @@ the cost or value of any other acquisitions that have been made by you, or any w
 (b)
 the cost or value of any other acquisitions that are intended to be made by you, or any work that is intended to be performed after you have acquired the real property,
 including acquisitions or work connected with bringing the real property into existence.
-Example 3:  section 75-14
+Example 3: section 75-14
 56.
 Bob is a builder. He purchases a block of vacant land for $180,000 and then constructs a house on the land. The cost of constructing the house is $100,000. Bob sells the house and land package for $400,000
 .
@@ -404,19 +401,19 @@ total aggregated selling prices
 - the consideration for the real property that you acquired is apportioned on the basis of the proportion of the total aggregated selling prices of the development represented by the particular lot. This method is only suitable for a development where all the lots are sold in a time that allows the aggregated selling prices to be calculated by the time the relevant Activity Statements are due to be lodged.
 60. The methods above may be used provided they give a fair and reasonable result. Use of 'lots or sites' as an apportionment method would not give a fair and reasonable result if the size or value of the lots or sites varied significantly.
 61. In some circumstances, you may use a combination of these or other fair and reasonable methods of apportionment. An example of where this may provide a fair and reasonable apportionment is a multi-staged development.
-Example 4:  area basis
+Example 4: area basis
 62.
-Josine is a property developer who is registered for GST purposes. She acquired a block of land of 2,000 square metres for $240,000. The block was of approximately uniform value per square metre. She subdivided the block into two allotments of 600 square metres each and one allotment of 800 square metres. As the lots are approximately of uniform value per square metre, Josine can use an area basis to ascertain the consideration for the acquisition of the subdivided allotments as it will provide a fair and reasonable result. Using this method, the consideration for the acquisition for each of the 600 square metre allotments is $72,000 (600/2,000  ?  $240,000), whilst the consideration for the acquisition of the 800 square metre allotment is $96,000 (800/2,000  ?  $240,000).
+Josine is a property developer who is registered for GST purposes. She acquired a block of land of 2,000 square metres for $240,000. The block was of approximately uniform value per square metre. She subdivided the block into two allotments of 600 square metres each and one allotment of 800 square metres. As the lots are approximately of uniform value per square metre, Josine can use an area basis to ascertain the consideration for the acquisition of the subdivided allotments as it will provide a fair and reasonable result. Using this method, the consideration for the acquisition for each of the 600 square metre allotments is $72,000 (600/2,000 ? $240,000), whilst the consideration for the acquisition of the 800 square metre allotment is $96,000 (800/2,000 ? $240,000).
 63.
 If Josine sells the 800 square metre allotment for $140,000, the margin for the supply is $44,000 ($140,000 - $96,000) and the GST payable on the supply is $4,000
 .
-Example 5:  lots area
+Example 5: lots area
 64.
 Neville acquires a house and land for $500,000. Neville intends to demolish the house and construct four duplexes on the land. As each of the duplexes is of similar value Neville can use the lots method to establish the consideration for the acquisition for each of the duplexes. Using this method, the consideration for the acquisition of each duplex is $125,000 (1/4
-?  $
+? $
 500,000
 ).
-Example 6:  anticipated sales price
+Example 6: anticipated sales price
 65.
 Adam is a builder who is registered for GST purposes. He acquires land for $400,000. He subdivides the land and builds a house on each allotment. As the quality of the land varies between allotments, the anticipated sales method will provide a fair and reasonable apportionment method to ascertain the consideration for the acquisition for each of the house and land packages
 .
@@ -427,7 +424,7 @@ Lot no
 .
 Anticipated sales price
 Consideration for the acquisition
-(anticipated sales price / total anticipated sales prices)  x  $400,000
+(anticipated sales price / total anticipated sales prices) x $400,000
 1
 $200,000
 $40,000
@@ -452,7 +449,7 @@ $400,000
 67.
 Adam subsequently sells Lot 1 for $190,000. The margin for the supply of Lot 1 is $150,000 ($190,000 - $40,000). The GST payable on the supply is $13,636.36 (1/11 of $150,000
 ).
-Example 7:  multi-staged developments
+Example 7: multi-staged developments
 68.
 Johanna purchases land for $1.5 million which she intends to subdivide in three stages. As the land is of approximately uniform value per square metre, Johanna initially apportions the $1.5 million on an area basis between the three stages, giving values of $500,000 for stage one, $600,000 for stage two and $400,000 for stage three. When stage one is developed, Johanna can apportion the $500,000 acquisition consideration attributed to stage one between the allotments on an anticipated sales price basis provided this method gives a fair and reasonable result
 .
@@ -503,7 +500,7 @@ its associate; or
 •
 a member of the GST group.
 75. Under paragraph 75-11(1)(c), the margin for the supply is the amount by which the consideration for the supply you make to the non-GST group member exceeds the consideration for the real property acquired by the GST group member. This means that supplies between group members are effectively disregarded.
-Example 8:  GST groups where earlier supply made on or after 1 July 2000
+Example 8: GST groups where earlier supply made on or after 1 July 2000
 76.
 77. In the context of the diagram above, the margin for the supply by Cara Pty Ltd to Delta Pty Ltd is the difference between the consideration for the supply of $220,000 and the consideration for the acquisition by Beta Pty Ltd of $110,000. The supply by Beta Pty Ltd to Cara Pty Ltd is effectively disregarded when working out the margin for the supply by Cara Pty Ltd.
 78. In the diagram, Beta Pty Ltd was a member of the GST group when it acquired the real property. However, subsection 75-11(1) would also apply if Beta Pty Ltd was not a member of the GST group when it acquired the real property, but became a member of the GST group by the time Cara Pty Ltd made its supply to Delta Pty Ltd.
@@ -512,7 +509,7 @@ Paragraph 75-11(1)(d)
 [21]
 that was not a member of the GST group.
 80. Under paragraph 75-11(1)(d), the margin is the amount by which the consideration for the supply you make to the non-GST group member exceeds the GST-inclusive market value of the real property at the time of the last earlier supply. The supplies between group members are disregarded.
-Example 9:  GST groups and associates where earlier supply made on or after 1 July 2000
+Example 9: GST groups and associates where earlier supply made on or after 1 July 2000
 81.
 82. In the context of the diagram above, the margin for the supply by Cara Pty Ltd to Delta Pty Ltd is the difference between the consideration for the supply of $330,000 and the GST-inclusive market value of the real property of $110,000 at the time of the acquisition by Beta Pty Ltd. The supply by Beta Pty Ltd to Cara Pty Ltd is effectively disregarded when working out the margin for the supply by Cara Pty Ltd.
 83. In the diagram Beta Pty Ltd was a member of the GST group when it acquired the real property. However, subsection 75-11(1) would also apply if Beta Pty Ltd was not a member of the GST group when it acquired the real property, but later became a member of the GST group.
@@ -527,7 +524,7 @@ before 1 July 2000 there had been an earlier supply and the recipient of this ea
 •
 subsection 75-11(1) does not apply.
 85. Under subsection 75-11(2), the margin for the supply you make is the amount by which the consideration for the supply to the non-GST group member exceeds an approved valuation of the real property as at 1 July 2000. Approved valuations are discussed at paragraphs 115 to 128.
-Example 10:  GST group where earlier supply made before 1 July 2000
+Example 10: GST group where earlier supply made before 1 July 2000
 86.
 87. In the context of the diagram above, the margin for the supply by Cara Pty Ltd to Delta Pty Ltd is $220,000, being the difference between the consideration for the supply of $330,000 and the approved valuation of the real property as at 1 July 2000 of $110,000. The supply between Beta Pty Ltd and Cara Pty Ltd in June 2003 is effectively disregarded.
 Supply of real property made on or after 17 March 2005 where the real property was acquired from a joint venture operator
@@ -611,10 +608,10 @@ at the time of acquisition, the margin for the supply is worked out under paragr
 [25]
 provided that the other subsections in section 75-11 do not apply.
 107. Under paragraph 75-11(7)(d), the margin is the amount by which the consideration for the supply exceeds the GST inclusive market value of the real property at the time of its acquisition.
-Example 11:  real property acquired from an associate
+Example 11: real property acquired from an associate
 108.
 109. The margin for the supply by Cara Pty Ltd to Delta Pty Ltd is the amount by which the consideration for the supply exceeds the GST inclusive market value of the real property at the time of acquisition from Beta Pty Ltd. That is:
-Margin  = $500,000 - $100,000
+Margin = $500,000 - $100,000
 = $400,000
 Subsection 75-11(8)
 110. Subsection 75-11(8) extends the application of subsection 75-11(7) to acquisitions through supplies made by the following:
@@ -659,10 +656,10 @@ A New Tax System (Australian Business Number) Act 1999
 as if the government entity were an associate of the Commonwealth, of every other government entity of a kind referred to in paragraph (i), (ii), (iii) or (iv) and of any other associate of the Commonwealth.
 Supply of real property to an associate where the supply is made on or after 17 March 2005
 112. If you supply real property to an associate, section 75-13 deems the consideration for the supply to be the GST-inclusive market value of the real property at the time of the supply.
-Example 12:  supplies to associates
+Example 12: supplies to associates
 113.
 114. The GST inclusive market value of the supply at the time of the supply is treated as the consideration for the supply from Cara Pty Ltd to Delta Pty Ltd. The margin for the supply by Cara Pty Ltd to Delta Pty Ltd is the amount by which the 'deemed' consideration for the supply exceeds the consideration for the acquisition by Cara Pty Ltd. That is:
-Margin  = $700,000 - $490,000
+Margin = $700,000 - $490,000
 = $210,000
 Approved valuations
 115. Section 75-35 applies to supplies made on or after 17 March 2005. It provides that the Commissioner may by legislative instrument 'determine in writing requirements for making valuations' for the purposes of the margin scheme.
@@ -682,10 +679,10 @@ a valuation based on the consideration provided by a purchaser (that is, receive
 a State or a Territory Government department valuation (Method 3).
 118A. The requirements for each of these valuation methods are discussed at paragraphs 118B to 118F of this Ruling and paragraphs 73 to 82 of Goods and Services Tax Ruling GSTR 2006/7.
 [26C]
-Method 1:  valuation of the market value determined by a professional valuer
+Method 1: valuation of the market value determined by a professional valuer
 118B. The requirements for method 1 are the same under both MSV 2005/3 and MSV 2009/1.
 118C. For a valuation by a professional valuer to be an approved valuation for the purposes of Division 75, that valuation must be made in accordance with the requirements specified in the determination. The valuation is the market value of the interest, unit or lease that you held at the valuation date (or, if item 2A applies, the interest you acquired on or after the valuation date) as determined in writing by a professional valuer, provided it is not contrary to professional standards recognised in Australia.
-Method 2:  valuation based on the consideration provided by a purchaser (that is, received by the supplier) under the contract of sale
+Method 2: valuation based on the consideration provided by a purchaser (that is, received by the supplier) under the contract of sale
 118D. The requirements set out under Method 2 in MSV 2005/3 refer to a valuation based on the
 consideration provided by a purchaser
 in a contract for the sale and purchase of real property. MSV 2009/1 merely rewords the requirements in MSV 2005/3 in terms of the
@@ -693,7 +690,7 @@ consideration received by the supplier
 so that it is immediately clear that this method is not the same as the consideration method under subsection 75-10(2).
 118E. For a valuation based on the sale contract price to be an approved valuation for the purposes of Division 75, that valuation must be made by adopting as the valuation the consideration provided by a purchaser (that is, received by the supplier) under the contract of sale of the real property that has been executed or exchanged before the valuation date between parties dealing at arm's length.
 [27A]
-Method 3:  State Government or Territory Government department valuation
+Method 3: State Government or Territory Government department valuation
 118F. The requirements set out under method 3 in MSV 2005/3 refer to a valuation based on the most recent unimproved value, site value, or the capital value of the land for rating or land tax purposes before the valuation date. Method 3 in MSV 2009/1 omits the words 'unimproved value, site value, or the capital value'. This clarifies that a valuation made by or on behalf of a State or a Territory Government department for rating or land tax purposes is eligible as an approved valuation under Method 3 regardless of how the valuation may be described under the relevant State or Territory legislation.
 119. The effect of subsection 75-35(2) is that a valuation made in accordance with the requirements in the determination is an approved valuation.
 Valuation dates
@@ -758,8 +755,8 @@ land on which strata units (or group title) are built.
 (a)
 a valuation of the real property in existence at the valuation date; and
 (b)
-the valuation of the real property is apportioned  on any fair and reasonable basis, to ascertain the part of the valuation that relates to the real property that you supplied. If the professional valuation method is used, it is not necessary for the apportionment to be made by a professional valuer.
-Example 13:  valuing real property that is subdivided after the valuation date
+the valuation of the real property is apportioned on any fair and reasonable basis, to ascertain the part of the valuation that relates to the real property that you supplied. If the professional valuation method is used, it is not necessary for the apportionment to be made by a professional valuer.
+Example 13: valuing real property that is subdivided after the valuation date
 129.
 •
 At 1 July 2000, Lot 100 with an area of 100 hectares had a market value of $100,000. After 1 July 2000, Lot 100 was subdivided creating Lot 3 with an area of 25 hectares.
@@ -822,13 +819,13 @@ GST inclusive market value
 143. If the GST inclusive market value is required to work out the margin for the taxable component of a supply, the GST-inclusive market value is to be obtained for the entire real property supplied. The GST inclusive market value is then apportioned on any fair and reasonable basis to ascertain the part that relates to the taxable component of the supply.
 How do you calculate the GST inclusive sale price and the margin?
 144. For the purposes of Division 75 the GST inclusive sale price is the GST exclusive price plus the GST payable on the margin. The following example sets out how to calculate the GST inclusive price when initially only the GST exclusive price is known.
-Example 14:  where only the GST exclusive price is known
+Example 14: where only the GST exclusive price is known
 145. The GST exclusive price is $96,364 and the consideration for the acquisition is $60,000. The GST inclusive price is calculated using the formula:
 GST inclusive price = ((E - C) / 10) + E
 Where:
 E is the GST exclusive price; and
 C is the supplier's consideration for the acquisition.
-GST inclusive price     = ((96,364 - 60,000) / 10) + 96,364
+GST inclusive price = ((96,364 - 60,000) / 10) + 96,364
 = $100,000
 The margin for the supply = $100,000 - $60,000
 = $40,000.
@@ -862,7 +859,7 @@ can be applied to those lots derived partly from land that was acquired through 
 can be applied for the supply of those lots that were derived
 entirely
 from land that was acquired through a supply that was eligible for the margin scheme.
-Example 15:  subdivision of broadacres
+Example 15: subdivision of broadacres
 152. This is diagrammatically represented below as:
 •
 The land is then subdivided into 9 one hectare blocks.
@@ -885,7 +882,7 @@ is eligible for the margin scheme; and
 •
 is ineligible for the margin scheme.
 161. In these circumstances, all of the stratum units have been partly derived from land that was acquired through a supply that was ineligible for the margin scheme. The supply of these units can be made under the margin scheme as subsection 75-5(2) does not apply. However, because the units were partly acquired through land that was ineligible for the margin scheme you have an increasing adjustment under subsection 75-22(1). The increasing adjustment is the proportionate amount of the input tax credits for the acquisition of the land referable to the supply of each stratum unit.
-Example 16:  stratum units
+Example 16: stratum units
 162.
 •
 10 stratum units are then built on the land.
@@ -913,7 +910,7 @@ the deceased subdivided the properties, or constructed stratum units on them.
 170. The increasing adjustment is worked out in the same manner as indicated in paragraphs 155 and 161.
 Supplies made on or after 17 March 2005 where the full consideration for the acquisition has not been paid
 171. If an entity makes supplies of real property but does not pay the full contract price for the acquisition of that property, section 75-12 applies. It provides that the margin for the supply is worked out as the amount by which the consideration for the supply exceeds the consideration paid for the acquisition (which may not be the consideration for the acquisition reflected in the contract). Section 75-12 is effective from 17 March 2005.
-Example 17:  full consideration not paid for supply
+Example 17: full consideration not paid for supply
 172.
 Terry supplies real property to Adam. The consideration for the supply is $770,000. However, Adam only pays Terry $700,000. Adam then sells the property to Wendy for $1,100,000 and uses the margin scheme to calculate the GST payable on the supply. When Adam calculates the margin for the supply, the consideration for the acquisition is the amount he paid Terry ($700,000
 ).
@@ -922,19 +919,19 @@ The margin for the supply is $400,000 ($1,100,000 - $700,000
 ).
 Decreasing adjustment for later payment of consideration
 174. If section 75-12 applies, and you later make a further payment of the acquisition consideration, you have a decreasing adjustment under section 75-27. Subsection 75-27(2), which is effective from 17 March 2005, provides that the amount of the decreasing adjustment is equal to 1/11th of the further amount of consideration paid.
-Example 18:  decreasing adjustment where consideration for a supply paid later
+Example 18: decreasing adjustment where consideration for a supply paid later
 175.
 Using the facts in the example shown above, if Adam subsequently pays Terry the remaining $70,000, he has a decreasing adjustment of $6,364 (1/11
-?  $
+? $
 70,000
 ).
 Representatives of an incapacitated entity and the application of the margin scheme
 175A. A representative of an incapacitated entity
 [35A]
-in its capacity as a representative, may make a supply of the real property that was acquired by the incapacitated entity.  In this circumstance, Division 58, which deals with representatives of incapacitated entities, treats the supply as made by the incapacitated entity.
+in its capacity as a representative, may make a supply of the real property that was acquired by the incapacitated entity. In this circumstance, Division 58, which deals with representatives of incapacitated entities, treats the supply as made by the incapacitated entity.
 [35B]
 As a result, for the purpose of the margin scheme, the term "you'' in Division 75 is, when used to refer to the supplier of real property, taken to mean the incapacitated entity.
-175B. If all the requirements for applying the margin scheme under Division 75 are satisfied when the incapacitated entity is taken to make the supply, the representative of the incapacitated entity may apply the margin scheme in respect of the supply.  However, providing the requirements for a representative to be liable for GST under section 58-10 are met, it is the representative of the incapacitated entity (and not the incapacitated entity) that will be liable for the GST calculated under the margin scheme.
+175B. If all the requirements for applying the margin scheme under Division 75 are satisfied when the incapacitated entity is taken to make the supply, the representative of the incapacitated entity may apply the margin scheme in respect of the supply. However, providing the requirements for a representative to be liable for GST under section 58-10 are met, it is the representative of the incapacitated entity (and not the incapacitated entity) that will be liable for the GST calculated under the margin scheme.
 Entitlement to input tax credits
 176. If the GST payable on a supply of real property has been worked out under the margin scheme, the acquisition of the property by the recipient of the supply is not a creditable acquisition. This means that the recipient is not entitled to an input tax credit for the acquisition of the real property.
 [37]
@@ -987,11 +984,11 @@ Conditional application of the margin scheme
 27
 Supplies made before 17 March 2005 to which the margin cannot be applied
 29
-Example 1:  former subsection 75-5(2)
+Example 1: former subsection 75-5(2)
 30
 Supplies made on or after 17 March 2005 that are ineligible for the margin scheme
 32
-Example 2:  GST groups
+Example 2: GST groups
 33
 When do you supply or acquire real property?
 36
@@ -1009,17 +1006,17 @@ Alternative view
 50
 The effect of section 75-14 on supplies made on or after 17 March 2005
 54
-Example 3:  section 75-14
+Example 3: section 75-14
 56
 Apportionment methods
 58
-Example 4:  area basis
+Example 4: area basis
 62
-Example 5:  lots area
+Example 5: lots area
 64
-Example 6:  anticipated sales price
+Example 6: anticipated sales price
 65
-Example 7:  multi-staged developments
+Example 7: multi-staged developments
 68
 The effect of section 75-11 on supplies made on or after 17 March 2005
 69
@@ -1029,15 +1026,15 @@ Subsection 75-11(1)
 72
 Paragraph 75-11(1)(c)
 74
-Example 8:  GST groups where earlier supply made on or after 1 July 2000
+Example 8: GST groups where earlier supply made on or after 1 July 2000
 76
 Paragraph 75-11(1)(d)
 79
-Example 9:  GST groups and associates where earlier supply made on or after 1 July 2000
+Example 9: GST groups and associates where earlier supply made on or after 1 July 2000
 81
 Subsection 75-11(2)
 84
-Example 10:  GST group where earlier supply made before 1 July 2000
+Example 10: GST group where earlier supply made before 1 July 2000
 86
 Supply of real property made on or after 17 March 2005 where the real property was acquired from a joint venture operator
 88
@@ -1055,13 +1052,13 @@ Subsection 75-11(4)
 102
 Supply of real property made on or after 17 March 2005 where the real property was acquired from an associate
 106
-Example 11:  real property acquired from an associate
+Example 11: real property acquired from an associate
 108
 Subsection 75-11(8)
 110
 Supply of real property to an associate where the supply is made on or after 17 March 2005
 112
-Example 12:  supplies to associates
+Example 12: supplies to associates
 113
 Approved valuations
 115
@@ -1071,7 +1068,7 @@ Time to make valuations
 121
 What is the real property that you value?
 126
-Example 13:  valuing real property that is subdivided after the valuation date
+Example 13: valuing real property that is subdivided after the valuation date
 129
 Professional valuers
 130
@@ -1085,7 +1082,7 @@ GST-inclusive market value
 139
 How do you calculate the GST inclusive sale price and the margin?
 144
-Example 14:  where only the GST inclusive price is known
+Example 14: where only the GST inclusive price is known
 145
 Increasing adjustments for supplies made on or after 17 March 2005, where part of the acquisition was ineligible for the margin scheme
 147
@@ -1093,13 +1090,13 @@ Subsection 75-22(1)
 147
 Subdivision of broadacres
 150
-Example 15:  subdivision of broadacres
+Example 15: subdivision of broadacres
 152
 Stratum unit
 156
 Strata title
 160
-Example 16:  stratum units
+Example 16: stratum units
 162
 Group title
 167
@@ -1107,11 +1104,11 @@ Subsection 75-22(2)
 168
 Supplies made on or after 17 March 2005 where the full consideration for the acquisition has not been paid
 171
-Example 17:  full consideration not paid for supply
+Example 17: full consideration not paid for supply
 172
 Decreasing adjustment for later payment of consideration
 174
-Example 18:  decreasing adjustment where consideration for a supply paid later
+Example 18: decreasing adjustment where consideration for a supply paid later
 175
 Representatives of an incapacitated entity and the application of the margin scheme
 175A
@@ -1142,15 +1139,15 @@ unless the supplier is an *Australian government agency - the terms of the lease
 [3]
 3 The date of Royal Assent of the 2005 Amendment Act.
 [4]
-4 GSTR 2000/21 Goods and services tax:  the margin scheme for supplies of real property held prior to 1 July 2000.
+4 GSTR 2000/21 Goods and services tax: the margin scheme for supplies of real property held prior to 1 July 2000.
 [5]
-5 GSTR 2006/7 Goods and services tax:  how the margin scheme applies to a supply of real property made on or after 1 December 2005 that was acquired or held before 1 July 2000.
+5 GSTR 2006/7 Goods and services tax: how the margin scheme applies to a supply of real property made on or after 1 December 2005 that was acquired or held before 1 July 2000.
 [5A]
 5A The date of Royal Assent of the
 Tax Laws Amendment (2008 Measures No. 5) Act 2008
 .
 [6]
-6 GSTR 2006/8 Goods and services tax:  the margin scheme for supplies of real property acquired on or after 1 July 2000.
+6 GSTR 2006/8 Goods and services tax: the margin scheme for supplies of real property acquired on or after 1 July 2000.
 [7]
 7 Sections 9-70 and 9-75.
 [8]
@@ -1168,11 +1165,11 @@ Tax Laws Amendment (2008 Measures No. 5) Act 2008
 [14]
 14 Items 9 and 10 of Schedule 6 of the 2005 Amendment Act.
 [15]
-15 See Law Administration Practice Statement PS LA 2005/2 (GA):  GST and time of choice to apply the margin scheme.
+15 See Law Administration Practice Statement PS LA 2005/2 (GA): GST and time of choice to apply the margin scheme.
 [16]
 16 Subsection 75-5(2) prior to its amendment applies to supplies made before 17 March 2005.
 [17]
-17 GST joint venture is defined in section 195-1 as having the meaning given by section 51-5. GST joint ventures are discussed in Goods and Service Tax Ruling GSTR 2004/2 Goods and services tax:  what is a joint venture for GST purposes?
+17 GST joint venture is defined in section 195-1 as having the meaning given by section 51-5. GST joint ventures are discussed in Goods and Service Tax Ruling GSTR 2004/2 Goods and services tax: what is a joint venture for GST purposes?
 [18]
 18 Section 195-1 defines 'participant' in relation to a GST joint venture as an entity currently approved as one of the participants of the joint venture under section 51-5 or paragraph 51-70(1)(a).
 [19]
@@ -1192,12 +1189,12 @@ Commissioner of Taxation v. Reliance Carpet Co Pty Limited
 Aurora Developments Pty Ltd v Commissioner of Taxation
 [2011] FCA 232; 2011 ATC 20-250.
 [20]
-20 Goods and services tax:  are settlement adjustments taken into account to determine the consideration for the supply or acquisition of real property?
+20 Goods and services tax: are settlement adjustments taken into account to determine the consideration for the supply or acquisition of real property?
 [21]
 21 'Associate' is defined in section 195-1 as having the meaning given by section 318 of the
 Income Tax Assessment Act 1936.
 [22]
-22 A detailed discussion of joint ventures is contained in GSTR 2004/2 Goods and services tax:  What is a joint venture for GST purposes. GSTD 2004/2 Goods and services tax:  Are all supplies made by the entity nominated as the joint venture operator to entities that are participants in the GST joint venture to be treated as if they are not taxable supplies?
+22 A detailed discussion of joint ventures is contained in GSTR 2004/2 Goods and services tax: What is a joint venture for GST purposes. GSTD 2004/2 Goods and services tax: Are all supplies made by the entity nominated as the joint venture operator to entities that are participants in the GST joint venture to be treated as if they are not taxable supplies?
 [23]
 23 Paragraph 6-29 of the Revised Explanatory Memorandum to the Tax Laws Amendment (2005 Measures No. 2) Bill 2005 states that 'in most cases the day on which you inherit property is the date of death of the deceased'.
 [24]
@@ -1219,7 +1216,7 @@ A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements D
 [26C]
 26C Goods and services tax: how the margin scheme applies to a supply of real property made on or after 1 December 2005 that was acquired or held before 1 July 2000.
 [27]
-27 If subsection 75-10(3A) applies, the Determination provides that the valuation must be the market value of the real property determined by a professional valuer as if there are no improvements on the real property on the valuation date. Supplies to which subsection 75-10(3A) applies are addressed in GSTR 2000/21 and GSTR 2006/7. GSTR 2006/6 Goods and services tax:  improvements on the land for the purposes of Subdivision 38-N and Division 75, also discusses the meaning of terms that are relevant to subsection 75-10(3A). A valuation that complies with MSV 2005/3 is an approved valuation even if the valuation was made before 1 December 2005.
+27 If subsection 75-10(3A) applies, the Determination provides that the valuation must be the market value of the real property determined by a professional valuer as if there are no improvements on the real property on the valuation date. Supplies to which subsection 75-10(3A) applies are addressed in GSTR 2000/21 and GSTR 2006/7. GSTR 2006/6 Goods and services tax: improvements on the land for the purposes of Subdivision 38-N and Division 75, also discusses the meaning of terms that are relevant to subsection 75-10(3A). A valuation that complies with MSV 2005/3 is an approved valuation even if the valuation was made before 1 December 2005.
 [27A]
 27A Judicial interpretation of the phrase 'dealing at arm's length' can be found in
 Collis v. FC of T
@@ -1265,8 +1262,8 @@ Section 58-5.
 Previously issued in draft form as GSTR 2005/D4
 References
 ATO references:
-NO  2005/9926
-ISSN:  1443-5160
+NO 2005/9926
+ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
 GSTD 2004/2
@@ -1287,84 +1284,84 @@ valuation
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(ABN)A 1999  41
-ANTS(GST)A 1999  9-70
-ANTS(GST)A 1999  9-75
-ANTS(GST)A 1999  19-75
-ANTS(GST)A 1999  38-325(2)
-ANTS(GST)A 1999  Subdiv 38-N
-ANTS(GST)A 1999  38-445(1A)
-ANTS(GST)A 1999  38-450
-ANTS(GST)A 1999  48-40(2)
-ANTS(GST)A 1999  51-5
-ANTS(GST)A 1999  51-30(2)
-ANTS(GST)A 1999  51-70(1)(a)
-ANTS(GST)A 1999  Div 58
-ANTS(GST)A 1999  58-5
-ANTS(GST)A 1999  58-10
-ANTS(GST)A 1999  Div 72
-ANTS(GST)A 1999  Subdiv 72-D
-ANTS(GST)A 1999  72-95
-ANTS(GST)A 1999  72-100
-ANTS(GST)A 1999  Div 75
-ANTS(GST)A 1999  75-5
-ANTS(GST)A 1999  75-5(1)
-ANTS(GST)A 1999  75-5(1)(a)
-ANTS(GST)A 1999  75-5(1)(c)
-ANTS(GST)A 1999  75-5(1A)
-ANTS(GST)A 1999  75-5(1A)(a)
-ANTS(GST)A 1999  75-5(1A)(b)
-ANTS(GST)A 1999  75-5(2)
-ANTS(GST)A 1999  75-5(3)
-ANTS(GST)A 1999  75-5(3)(c)
-ANTS(GST)A 1999  75-10(2)
-ANTS(GST)A 1999  75-10(3)
-ANTS(GST)A 1999  75-10(3)(b)
-ANTS(GST)A 1999  75-10(3A)
-ANTS(GST)A 1999  75-11
-ANTS(GST)A 1999  75-11(1)
-ANTS(GST)A 1999  75-11(1)(c)
-ANTS(GST)A 1999  75-11(1)(d)
-ANTS(GST)A 1999  75-11(2)
-ANTS(GST)A 1999  75-11(2A)
-ANTS(GST)A 1999  75-11(2A)(d)
-ANTS(GST)A 1999  75-11(2A)(e)
-ANTS(GST)A 1999  75-11(2B)
-ANTS(GST)A 1999  75-11(3)
-ANTS(GST)A 1999  75-11(3)(ca)
-ANTS(GST)A 1999  75-11(3)(d)
-ANTS(GST)A 1999  75-11(3)(e)
-ANTS(GST)A 1999  75-11(4)
-ANTS(GST)A 1999  75-11(4)(d)
-ANTS(GST)A 1999  75-11(4)(e)
-ANTS(GST)A 1999  75-11(7)
-ANTS(GST)A 1999  75-11(7)(c)
-ANTS(GST)A 1999  75-11(7)(d)
-ANTS(GST)A 1999  75-11(8)
-ANTS(GST)A 1999  75-12
-ANTS(GST)A 1999  75-13
-ANTS(GST)A 1999  75-14
-ANTS(GST)A 1999  75-15
-ANTS(GST)A 1999  75-20
-ANTS(GST)A 1999  75-20(1)
-ANTS(GST)A 1999  75-22(1)
-ANTS(GST)A 1999  75-22(2)
-ANTS(GST)A 1999  75-25(1)(a)
-ANTS(GST)A 1999  75-27
-ANTS(GST)A 1999  75-27(2)
-ANTS(GST)A 1999  75-30
-ANTS(GST)A 1999  75-30(1)
-ANTS(GST)A 1999  75-35
-ANTS(GST)A 1999  75-35(2)
-ANTS(GST)A 1999  195-1
-ITAA 1936  318
-ITAA 1997  124-190(3)
-TAA 1953  Sch 1 Div 358
-TAA 1953  110-50(2)
-TAA 1953  382-5
+ANTS(ABN)A 1999 41
+ANTS(GST)A 1999 9-70
+ANTS(GST)A 1999 9-75
+ANTS(GST)A 1999 19-75
+ANTS(GST)A 1999 38-325(2)
+ANTS(GST)A 1999 Subdiv 38-N
+ANTS(GST)A 1999 38-445(1A)
+ANTS(GST)A 1999 38-450
+ANTS(GST)A 1999 48-40(2)
+ANTS(GST)A 1999 51-5
+ANTS(GST)A 1999 51-30(2)
+ANTS(GST)A 1999 51-70(1)(a)
+ANTS(GST)A 1999 Div 58
+ANTS(GST)A 1999 58-5
+ANTS(GST)A 1999 58-10
+ANTS(GST)A 1999 Div 72
+ANTS(GST)A 1999 Subdiv 72-D
+ANTS(GST)A 1999 72-95
+ANTS(GST)A 1999 72-100
+ANTS(GST)A 1999 Div 75
+ANTS(GST)A 1999 75-5
+ANTS(GST)A 1999 75-5(1)
+ANTS(GST)A 1999 75-5(1)(a)
+ANTS(GST)A 1999 75-5(1)(c)
+ANTS(GST)A 1999 75-5(1A)
+ANTS(GST)A 1999 75-5(1A)(a)
+ANTS(GST)A 1999 75-5(1A)(b)
+ANTS(GST)A 1999 75-5(2)
+ANTS(GST)A 1999 75-5(3)
+ANTS(GST)A 1999 75-5(3)(c)
+ANTS(GST)A 1999 75-10(2)
+ANTS(GST)A 1999 75-10(3)
+ANTS(GST)A 1999 75-10(3)(b)
+ANTS(GST)A 1999 75-10(3A)
+ANTS(GST)A 1999 75-11
+ANTS(GST)A 1999 75-11(1)
+ANTS(GST)A 1999 75-11(1)(c)
+ANTS(GST)A 1999 75-11(1)(d)
+ANTS(GST)A 1999 75-11(2)
+ANTS(GST)A 1999 75-11(2A)
+ANTS(GST)A 1999 75-11(2A)(d)
+ANTS(GST)A 1999 75-11(2A)(e)
+ANTS(GST)A 1999 75-11(2B)
+ANTS(GST)A 1999 75-11(3)
+ANTS(GST)A 1999 75-11(3)(ca)
+ANTS(GST)A 1999 75-11(3)(d)
+ANTS(GST)A 1999 75-11(3)(e)
+ANTS(GST)A 1999 75-11(4)
+ANTS(GST)A 1999 75-11(4)(d)
+ANTS(GST)A 1999 75-11(4)(e)
+ANTS(GST)A 1999 75-11(7)
+ANTS(GST)A 1999 75-11(7)(c)
+ANTS(GST)A 1999 75-11(7)(d)
+ANTS(GST)A 1999 75-11(8)
+ANTS(GST)A 1999 75-12
+ANTS(GST)A 1999 75-13
+ANTS(GST)A 1999 75-14
+ANTS(GST)A 1999 75-15
+ANTS(GST)A 1999 75-20
+ANTS(GST)A 1999 75-20(1)
+ANTS(GST)A 1999 75-22(1)
+ANTS(GST)A 1999 75-22(2)
+ANTS(GST)A 1999 75-25(1)(a)
+ANTS(GST)A 1999 75-27
+ANTS(GST)A 1999 75-27(2)
+ANTS(GST)A 1999 75-30
+ANTS(GST)A 1999 75-30(1)
+ANTS(GST)A 1999 75-35
+ANTS(GST)A 1999 75-35(2)
+ANTS(GST)A 1999 195-1
+ITAA 1936 318
+ITAA 1997 124-190(3)
+TAA 1953 Sch 1 Div 358
+TAA 1953 110-50(2)
+TAA 1953 382-5
 PSA 1999
 Tax Laws Amendment (2005 Measures No. 2) Act 2005
-Tax Laws Amendment (2005 Measures No. 2) Act 2005  Sch 6
+Tax Laws Amendment (2005 Measures No. 2) Act 2005 Sch 6
 Tax Laws Amendment (2008 Measures No. 5) Act 2008
 Case References:
 Aurora Developments Pty Ltd v Commissioner of Taxation

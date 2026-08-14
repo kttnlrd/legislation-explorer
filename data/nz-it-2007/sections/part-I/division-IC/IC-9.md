@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Date and method for notifying Commissioner**
 
-**(2)**  Company A must notify the Commissioner of an election or payment under section IC 5(2) by the extended return date or, if applicable, a later date allowed by the Commissioner for the notice. The notification may be made in the company’s annual return of income.
+**(2)**  Company A must notify the Commissioner of an election or payment under section IC 5(2) by the extended return date or, if applicable, a later date allowed by the Commissioner for the notice. The notification may be made in the company's annual return of income.
 
 **Extended return date**
 

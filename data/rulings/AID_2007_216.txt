@@ -3,18 +3,14 @@ ATO ID 2007/216
 ==================================================
 
 Income Tax
-        Capital gains tax: Subdivision 124-G roll-over - requirements that must be met for interposed company to choose that the consolidated group continue in existence
-        FOI status: may be released
-
-
+ Capital gains tax: Subdivision 124-G roll-over - requirements that must be met for interposed company to choose that the consolidated group continue in existence
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is it necessary to demonstrate satisfaction with the requirements in subsection 124-365(4) of the Income Tax Assessment Act 1997 (ITAA 1997) to enable an interposed company to make a choice under subsection 124-380(5) of the ITAA 1997 that the consolidated group is to continue in existence?
@@ -31,12 +27,8 @@ An effect of this choice is that the interposed company is taken to have become 
 A requirement that must be satisfied before a shareholder can choose or is taken to have chosen roll-over is set out in subsection 124-365(4) of the ITAA 1997, which requires:
 Either:
 
-
-
 (a)you are an Australian resident at the time you *disposed of your *shares in the original company; or
 (b)if you are a foreign resident at that time:
-
-
 
 (i)your shares in the original company were *taxable Australian property just before that time; and
 (ii)your shares in the interposed company are taxable Australian property just after the completion time.
@@ -53,7 +45,6 @@ The EM states further at paragraphs 2.32 to 2.33 of Chapter 2:
 
 2.32 Where the interposed company makes a choice for the consolidated group to continue in existence, the shareholders of the original company will be taken to have chosen rollover relief on the disposal, cancellation or redemption of their shares in the original company which are exchanged for replacement shares in the interposed company if:
 
-
 •immediately before the completion time, the original company is the head company of a consolidated group; and
 •immediately after the completion time the interposed company is the head company of the group.
 
@@ -65,10 +56,10 @@ share exchange
 
 Accordingly, all of the conditions in Subdivision 124-G of the ITAA 1997 that relate to or refer to the conditions of the share exchange must be satisfied before the interposed company can make the choice under subsection 124-380(5) of the ITAA 1997. However, it is not necessary for the interposed company to demonstrate satisfaction with the conditions in subsections such as 124-365(4) of the ITAA 1997 that do not relate to or refer to the conditions of the share exchange in order for it to make the choice under subsection 124-380(5) of the ITAA 1997.
 Date of decision:
-         11 July 2007
+  11 July 2007
 
 Year of income:
-           30 June 2007
+  30 June 2007
 
 Legislative References:
 
@@ -85,20 +76,19 @@ Other References:
 Keywords
 
 Capital gains tax
-          CGT exchange of shares in one company for shares in another company (124-G)
-          CGT replacement asset roll-over
-          CGT roll-over relief
-          Consolidated group
-
+ CGT exchange of shares in one company for shares in another company (124-G)
+ CGT replacement asset roll-over
+ CGT roll-over relief
+ Consolidated group
 
 Siebel/TDMS Reference Number:
-         5742669
+  5742669
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 november 2007
+  30 november 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

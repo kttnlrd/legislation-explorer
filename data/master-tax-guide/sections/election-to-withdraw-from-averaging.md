@@ -11,7 +11,7 @@ A taxpayer can elect to withdraw from the averaging system (ITAA97 s 392-25). Wh
 
 With eﬀect from 2016–17 income year, primary producers are allowed to access income tax averaging 10 income years after choosing to opt out. Previously, an election to opt out, once made, was irrevocable.
 
-After the 10 year opt-out period has ended, primary producers are treated as new primary producers in applying the basic conditions. The averaging adjustment applies again to a taxpayer’s assessment if all of the following conditions are met:
+After the 10 year opt-out period has ended, primary producers are treated as new primary producers in applying the basic conditions. The averaging adjustment applies again to a taxpayer's assessment if all of the following conditions are met:
 
 - income tax averaging has not applied to the taxpayer because they permanently opted out 10 or
 

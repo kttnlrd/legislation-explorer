@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 - (b) the relevant amount of the dividend and related supplementary dividend is treated as if it were paid by the company directly to the investor:
 
-- (c) the investor’s voting interest in the company is treated as if it were a direct voting interest.
+- (c) the investor's voting interest in the company is treated as if it were a direct voting interest.
 
 **Relationship with section OZ 12**
 

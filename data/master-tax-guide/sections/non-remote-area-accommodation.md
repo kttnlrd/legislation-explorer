@@ -17,7 +17,7 @@ If the accommodation is in a hotel, motel, hostel, guesthouse, caravan or mobile
 
 - if the provider is the employer, 75% of the amount that the public would pay less any rent paid.
 
-For any other type of accommodation in a non-remote area, the taxable value is the “statutory annual value” of the right to occupy the accommodation (s 26(1)(c)). This is reduced proportionately where the housing right does not exist for the whole year. Any rent paid by the employee is subtracted. Rent would include an amount paid to make a property habitable (Case 28/97 97 ATC 321; [1997] AATA 180).
+For any other type of accommodation in a non-remote area, the taxable value is the "statutory annual value" of the right to occupy the accommodation (s 26(1)(c)). This is reduced proportionately where the housing right does not exist for the whole year. Any rent paid by the employee is subtracted. Rent would include an amount paid to make a property habitable (Case 28/97 97 ATC 321; [1997] AATA 180).
 
 In the ﬁrst year in which the accommodation is used to provide a housing fringe beneﬁt, the statutory annual value is the market value of the right to occupy the accommodation for a year (s 26(2)(a)).
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to a petroleum miner’s petroleum development expenditure that relates to petroleum mining developments in a permit area, when the expenditure is incurred—
+**(1)**  This section applies to a petroleum miner's petroleum development expenditure that relates to petroleum mining developments in a permit area, when the expenditure is incurred—
 
 - (a) on or after 1 April 2008; and
 

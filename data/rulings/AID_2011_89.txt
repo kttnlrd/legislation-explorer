@@ -3,18 +3,14 @@ ATO ID 2011/89
 ==================================================
 
 Income Tax
-        Functional currency: translation requirements for a depreciating asset where an entity withdraws its 'applicable functional currency' choice
-        FOI status: may be released
-
-
+ Functional currency: translation requirements for a depreciating asset where an entity withdraws its 'applicable functional currency' choice
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the 'adjustable value' amount of a depreciating asset subject to the diminishing value method (DMV) under section 40-70 of the Income Tax Assessment Act 1997 (ITAA 1997), required to be translated from the currency that was the 'applicable functional currency' into Australian currency (AUD) under section 960-50 of Subdivision 960-C of the ITAA 1997 - immediately after the time the 'applicable functional currency' choice ceases to have effect and based on the relevant exchange rate at that time?
@@ -56,7 +52,6 @@ Taxation Ruling TR 2007/5 also specifically considers the treatment of depreciat
 
 Depreciating assets
 
-
 121. This may be contrasted with the calculation of a deduction for decline in value of a depreciating asset using the 'diminishing value method' under section 40-70 - where the asset has been acquired by an entity in an income year in which Australian currency was the required unit of account for income tax purposes. Where such an entity subsequently chooses to use the 'applicable functional currency' to work out its taxable income or tax loss, the application of the two step translation in section 960-85 potentially becomes an issue.
 
 122. The first step of the calculation of the decline in value deduction under subsection 40-70(1) is to work out the 'base value'. This is defined in the subsection (for a year after the income year in which the asset's 'start time' occurs), as 'the sum of its *opening adjustable value for that year and any amount included in the second element of its cost for that year'.
@@ -79,8 +74,6 @@ Depreciating assets
 
 131. Accordingly, in such a case, the operation of the two step translation in section 960-85 would mean:
 
-
-
 (a)the closing 'adjustable value' of the asset at the end of the previous income year in Australian currency is translated to Australian currency on a one to one basis; and then
 (b)that amount is translated to the 'applicable functional currency' at the exchange rate applying at the beginning of the current year, being the time the choice to use this currency takes effect.
 
@@ -96,18 +89,16 @@ The above approach is consistent with Accounting Standard AASB 121 The Effects o
 
 Change in Functional Currency
 
-
 35 When there is a change in an entity's functional currency, the entity shall apply the translation procedures applicable to the new functional currency prospectively from the date of the change . ...
-
 
 37 The effect of a change in functional currency is accounted for prospectively. In other words, an entity translates all items into the new functional currency using the exchange rate at the date of the change. The resulting translated amounts for non-monetary items are treated as their historical cost.
 
 In this regard, the withdrawal by the entity of its 'applicable functional currency' choice while making no choice to use another 'applicable functional currency', is equivalent to a change in the entity's functional currency for income tax purposes from USD to AUD.
 Date of decision:
-         21 September 2011
+  21 September 2011
 
 Year of income:
-           30 June 2012
+  30 June 2012
 
 Legislative References:
 
@@ -128,23 +119,21 @@ Other References:
 
 Accounting Standard AASB 121
 
-
 Keywords
 
 Accounts
-          Applicable functional currency
-          Functional currency choice
-          Functional currency translation
-
+ Applicable functional currency
+ Functional currency choice
+ Functional currency translation
 
 Siebel/TDMS Reference Number:
-         1-3H1IGG6
+  1-3H1IGG6
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 October 2011
+  28 October 2011
 
 ISSN:
-          1445-2782
+ 1445-2782

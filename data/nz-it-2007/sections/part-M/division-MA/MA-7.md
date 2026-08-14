@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 - (c) a person is treated as employed in any week in relation to which the person receives parental leave payments or preterm baby payments under Part 7A of the Parental Leave and Employment Protection Act 1987 for the number of hours that the person would have worked in a week that the person normally worked in their last period of employment before that week:
 
-- (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation, Veterans’ Affairs New Zealand, or both, as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person’s own hours.
+- (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation, Veterans' Affairs New Zealand, or both, as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person's own hours.
 
 **Incapacity**
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 - (a) personal injury by accident for which an accident compensation earnings-related payment has been, is being, or will be paid:
 
-- (b) a service-related (as defined in section 7 of the Veterans’ Support Act 2014) injury, illness, condition, or whole-person impairment for which a payment has been, is being, or will be paid, under the Veterans’ Support Act 2014, and the payment is—
+- (b) a service-related (as defined in section 7 of the Veterans' Support Act 2014) injury, illness, condition, or whole-person impairment for which a payment has been, is being, or will be paid, under the Veterans' Support Act 2014, and the payment is—
 
   - (i) weekly income compensation paid under Part 3, subpart 4 of that Act:
 

@@ -19,7 +19,7 @@ Exempt taxes and charges Although GST potentially applies to goods and services 
 
 - Australian fees and charges payable to Australian government agencies that relate to:
 
-– providing, retaining or amending a permission, exemption, authority or licence. For example, this would apply to items such as occupational practising certificates; pilots’ licences; heavy vehicle drivers’ licences; compulsory testing or inspection fees for regulatory purposes; permits for restaurants to occupy the footpath; or a licence for an event to close roads – recording, copying, modifying, accessing, receiving, processing or searching for information. For example, this would apply to Freedom of Information requests; searches and extracts from government registers; copies of official documents; or registration and lodgement fees for property transfers deeds, plans and instruments. However, exemption would not apply to commercial sales of information by government agencies, eg bookshops.
+– providing, retaining or amending a permission, exemption, authority or licence. For example, this would apply to items such as occupational practising certificates; pilots' licences; heavy vehicle drivers' licences; compulsory testing or inspection fees for regulatory purposes; permits for restaurants to occupy the footpath; or a licence for an event to close roads – recording, copying, modifying, accessing, receiving, processing or searching for information. For example, this would apply to Freedom of Information requests; searches and extracts from government registers; copies of official documents; or registration and lodgement fees for property transfers deeds, plans and instruments. However, exemption would not apply to commercial sales of information by government agencies, eg bookshops.
 
 *Refs: s 81-5*
 
@@ -39,7 +39,7 @@ Exempt taxes and charges Although GST potentially applies to goods and services 
 
   regulatory activities
 
-- imposed in relation to a court, tribunal, commission of inquiry or Sheriff’s office, including hearing fees
+- imposed in relation to a court, tribunal, commission of inquiry or Sheriff's office, including hearing fees
 
 - for a supply of a regulatory nature made by an Australian government agency (eg an annual charge
 
@@ -89,7 +89,7 @@ Note: No input tax credit (ITC) is allowed for the charge.
 
 Where a farmer is liable for Commonwealth grain levy that is not subject to GST under Div 81, this is paid direct by the purchaser to the levying agency, but is included in the price on which GST is imposed.
 
-Illustration: GST exempt government levy included in the price The price of grain is $110, including $10 GST. The levy is $1. The purchaser pays $109 to the grower and $1 to the levying agency, and claims an ITC of $10. The grower accounts for $10 GST to the ATO. (Based on Primary Production Issues Register 2.3.1.) Land developer contributions As part of a planning approval granted to a developer by a local authority, the developer may legally be required to provide additional capital works or services, either to the authority or to third parties. These are often called “in kind” developer contributions. The supply of the contribution and the supply of the approval are not treated as consideration for each other (ss 82-5, 82-10). Therefore, neither supply is taxable on that basis.
+Illustration: GST exempt government levy included in the price The price of grain is $110, including $10 GST. The levy is $1. The purchaser pays $109 to the grower and $1 to the levying agency, and claims an ITC of $10. The grower accounts for $10 GST to the ATO. (Based on Primary Production Issues Register 2.3.1.) Land developer contributions As part of a planning approval granted to a developer by a local authority, the developer may legally be required to provide additional capital works or services, either to the authority or to third parties. These are often called "in kind" developer contributions. The supply of the contribution and the supply of the approval are not treated as consideration for each other (ss 82-5, 82-10). Therefore, neither supply is taxable on that basis.
 
 This also applies if the developer contribution takes the form of a tax, fee or charge. For the treatment of certain developer contributions to NSW councils, see Class Ruling CR 2013/13. For the GST treatment of development leases, see ¶11-062.
 

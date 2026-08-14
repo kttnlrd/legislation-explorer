@@ -3,23 +3,17 @@ ATO ID 2005/333
 ==================================================
 
 Goods and Services Tax
-        GST and personal importation of a drug that is the subject of an approval under the Therapeutic Goods Act 1989
-        FOI status: may be released
-
-
+ GST and personal importation of a drug that is the subject of an approval under the Therapeutic Goods Act 1989
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a patient suffering from a serious illness, making a taxable importation under section 13-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when:
-
-
 
 •it makes an importation, that is covered by subsection 18(1) of the Therapeutic Goods Act 1989, of drugs that are injections, containing material of human or animal origin, to treat its illness, and
 •the drugs are the subject of an approval under paragraph 19(1)(a) of the Therapeutic Goods Act?
@@ -34,15 +28,11 @@ The entity's importation is not covered by Part 3-2 of the GST Act.
 Reasons for Decision
 Section 13-5 of the GST Act provides that an entity makes a taxable importation if:
 
-
-
 •goods are imported, and
 •the entity enters the good for home consumption (within the meaning of the Customs Act 1901).
 
 However, the importation is not a taxable importation to the extent that it is a non-taxable importation.
 Under section 13-10 of the GST Act, an importation is a non-taxable importation if:
-
-
 
 •it is a non-taxable importation under Part 3-2 of the GST Act, or
 •it would have been a supply that was GST-free or input taxed if it had been a supply.
@@ -54,8 +44,6 @@ Therefore, it is necessary to determine if, for the purposes of paragraph 38-50(
 The effect of subsection 18(1) of the Therapeutic Goods Act and Item 1(b) in Schedule 5 to the Therapeutic Goods Regulations is that a person can import, for the purposes of treating themselves or their immediate family, injections that contain material of human or animal origin if the drugs are the subject of an approval under section 19 of the Therapeutic Goods Act. Therefore, the drugs retain their character as drugs that are "the subject of an approval under section 19 of the Therapeutic Goods Act" as they are for the treatment of that entity identified in the approval even though they are not imported by the medical practitioner who obtained that approval. As such, paragraph 38-50(6)(a) of the GST Act is satisfied.
 However, subsection 38-50(7) of the GST Act provides that a supply of a drug or medicinal preparation covered by section 38-50 is only GST-free if, and only if:
 
-
-
 •the drug or medicinal preparation is for human use or consumption, and
 •the supply is to an individual for private or domestic use or consumption.
 
@@ -63,38 +51,35 @@ As the entity is an individual and the drugs are for their own treatment, the re
 As paragraph 38-50(6)(a) and subsection 38-50(7) of the GST Act are satisfied, if the importation of the drug had of been a supply, it would be GST-free under section 38-50 of the GST Act.
 As such, the entity's importation is a non-taxable importation under section 13-10 of the GST Act.
 
-
 Note: where a medical practitioner, pharmacist etcetera, imports the drug to on-supply, subsection 38-50(7) of the GST Act will not be satisfied. The supply of the drug to a medical practitioner, pharmacist etcetera would not be a supply to an individual for their private or domestic use or consumption and would not be GST-free under section 38-50 of the GST Act. As such, the importation of the drug under these circumstances would be a taxable importation. However, the subsequent supply of the drug by the medical practitioner, pharmacist, etcetera to a patient may be GST-free.
 
 Date of decision:
-         16 November 2004
+  16 November 2004
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   section 13-5   section 13-10   section 38-50   paragraph 38-50(6)(a)   subsection 38-50(7)   Part 3-2
 Customs Act 1901   The Act
 Therapeutic Goods Act 1989   subsection 18(1)   section 19(1)   paragraph 19(1)(a)
-          Therapeutic Goods Regulations 1990   Schedule 5 Item 1(b)
-
+ Therapeutic Goods Regulations 1990   Schedule 5 Item 1(b)
 
 Keywords
 
 Goods and services tax
-          GST free
-          GST health
-          Section 38-50 - drugs & medicinal preparations
-          GST imports
-          Non-taxable importations
-
+ GST free
+ GST health
+ Section 38-50 - drugs & medicinal preparations
+ GST imports
+ Non-taxable importations
 
 Siebel/TDMS Reference Number:
-         4282894
+  4282894
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         25 November 2005
+  25 November 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

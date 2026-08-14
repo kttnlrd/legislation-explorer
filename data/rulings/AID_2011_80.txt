@@ -3,18 +3,14 @@ ATO ID 2011/80
 ==================================================
 
 Superannuation
-        Unclaimed money: no contact between fund and member
-        FOI status: may be released
-
-
+ Unclaimed money: no contact between fund and member
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of paragraph 12(1)(d) of the Superannuation (Unclaimed Money and Lost Members) Act 1999, where no contact has ever been made between the superannuation provider (fund) and the member, and five years have passed since the member joined the fund, does such a situation satisfy the requirement that a period of five years has passed since the fund last had contact with the member?
@@ -29,8 +25,6 @@ Subsection 12(1) reads:
 
 An amount payable to a member of a fund is taken to be unclaimed money if:
 
-
-
 (a)the member has reached the eligibility age; and....
 (c)the superannuation provider has not received an amount in respect of the member (and, in the case of a defined benefits superannuation scheme, no benefit has accrued in respect of the member) within the last 2 years; and
 (d)after the end of a period of 5 years since the superannuation provider last had contact with the member, the provider has been unable to contact the member again after making reasonable efforts.
@@ -44,10 +38,10 @@ In the interpretation of a provision of an Act, a construction that would promot
 In general terms, the focus of unclaimed money is not on the contact between a fund and a member. On the contrary, it is the absence of such contact that is the purpose for subsection 12(1). For this reason, a purposive approach is taken in interpreting this provision, with the conclusion that a five year period without contact - regardless of whether any previous contact had occurred - will meet the first requirement within paragraph 12(1)(d).
 This interpretation is consistent with the purposive approach outlined in paragraphs 10 to 12 of ATO Practice Statement Law Administration PSLA 2003/3 'Precedential ATO view' concerning 'interpretive issues'.
 Date of decision:
-         14 September 2011
+  14 September 2011
 
 Year of income:
-           Year ended 30 June 2012
+  Year ended 30 June 2012
 
 Legislative References:
 
@@ -57,24 +51,23 @@ Superannuation (Unclaimed Money and Lost Members) Act 1999   subsection 12(1)
 Other References:
 
  Explanatory Memorandum to Superannuation (Unclaimed Money and Lost Members) Bill 1999
-           PSLA 2003/3
+ PSLA 2003/3
 
 Keywords
 
 Member benefits - superannuation benefits
 
-
 Siebel/TDMS Reference Number:
-         1-3GWHDSK; 1-6BRGWYL; 1-JT71BGC
+  1-3GWHDSK; 1-6BRGWYL; 1-JT71BGC
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         21 October 2011
+  21 October 2011
 
 Date reviewed:
-         6 November 2019
+  6 November 2019
 
 ISSN:
-          1445-2782
+ 1445-2782

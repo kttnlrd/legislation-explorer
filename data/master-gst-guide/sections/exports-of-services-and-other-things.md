@@ -7,7 +7,7 @@ paragraph: "¶9-240"
 ---
 # Exports of services and other things ¶9-240
 
-The following export exemptions (¶4-100) are available for things other than goods or real property (¶11-000) — such as services, advice, financial supplies or alteration of rights (s 38-190(1)): 1. A supply that is “directly connected” with goods or real property outside Australia.
+The following export exemptions (¶4-100) are available for things other than goods or real property (¶11-000) — such as services, advice, financial supplies or alteration of rights (s 38-190(1)): 1. A supply that is "directly connected" with goods or real property outside Australia.
 
 The ATO considers "directly connected" to means a very close link or association, and that there must be a direct effect on specific goods or real property (GST Ruling GSTR 2003/7; see also Malololailai Interval Holidays NZ Ltd v C of IR (1997) 18 NZTC 13,137). There will typically be a direct connection where:
 
@@ -45,7 +45,7 @@ The ATO considers "directly connected" to means a very close link or association
 
 - An Australian resident engages an accountant in Australia to provide advice on the capital gains tax implications of selling
 
-  property owned and situated in the UK. The services are directly connected to the vendor’s tax position, rather than the
+  property owned and situated in the UK. The services are directly connected to the vendor's tax position, rather than the
 
   property itself, and they are therefore not GST-free under this category. Nor are they GST-free under any of the other
 
@@ -77,7 +77,7 @@ A non-resident means a non-resident of Australia for tax purposes (Taxation Ruli
 
   indicator that the company is in Australia (GST Ruling GSTR 2004/7, Taxation Ruling TR 2023/1).
 
-The ATO also considers that the requirement that the non-resident must not be in Australia when the thing supplied is done means that they must not be in Australia in relation to the supply when the thing supplied is done (GST Ruling GSTR 2004/7). For example, if a non-resident individual merely happens to be in Australia on holidays at the time the supply is done, and has no contact with the supplier, the exemption may still apply. For an explanation of when a supply of services, rights, etc, is “done”, see ¶4-100.
+The ATO also considers that the requirement that the non-resident must not be in Australia when the thing supplied is done means that they must not be in Australia in relation to the supply when the thing supplied is done (GST Ruling GSTR 2004/7). For example, if a non-resident individual merely happens to be in Australia on holidays at the time the supply is done, and has no contact with the supplier, the exemption may still apply. For an explanation of when a supply of services, rights, etc, is "done", see ¶4-100.
 
 The supply of banknotes to a wholesale customer in another country was considered to qualify for this exemption in Interpretative Decision ID 2006/203.
 
@@ -101,7 +101,7 @@ However, this restriction does not apply to the following business-to-business t
 
 Provided that such supplies are not input taxed, they would continue to be GST-free under this category.
 
-For repairs carried out under a warranty with a non-resident manufacturer, see ¶9-250. 3. A supply that is made to a recipient who is not in Australia when the thing supplied is done, where the “effective use or enjoyment” takes place outside Australia.
+For repairs carried out under a warranty with a non-resident manufacturer, see ¶9-250. 3. A supply that is made to a recipient who is not in Australia when the thing supplied is done, where the "effective use or enjoyment" takes place outside Australia.
 
 For this exemption to apply, the supply must not be of work physically performed on goods in Australia at the time, or a supply directly connected with real property in Australia. This exemption is also intended to apply if, under an agreement with an Australian resident, the supply is made to someone outside Australia (s 38-190(4)); this may apply, for example, to the supply of mobile telephone roaming to an Australian business with an employee overseas, or a supply to an Australian business of a training course to be conducted overseas (GST Ruling GSTR 2025/1). However, this extension of the exemption does not apply to the transport of goods on the Australian leg of an international transport, or to associated loading, handling, facilitation, insurance or arranging costs (s 38-190(5)). Instead, those supplies may be exempt under s 38-355 (¶12-010).
 
@@ -111,21 +111,21 @@ The ATO considers that a company is in Australia if it is incorporated here or i
 
 The ATO also considers that the requirement that the recipient must not be in Australia when the thing supplied is done means that they must not be in Australia in relation to the supply when the thing supplied is done (GST Ruling GSTR 2004/7). A similar interpretation applies under category (2) above.
 
-Where supplies are made through the internet, it may be hard to know or establish whether the conditions of the exemption have been met. The ATO’s interim non-mandatory guidelines suggest that for supplies for less than $1,000, the supplier should obtain as a minimum an appropriate declaration from the recipient and their full address.
+Where supplies are made through the internet, it may be hard to know or establish whether the conditions of the exemption have been met. The ATO's interim non-mandatory guidelines suggest that for supplies for less than $1,000, the supplier should obtain as a minimum an appropriate declaration from the recipient and their full address.
 
-The ATO also suggests that to meet National Privacy Principles the following clause should be displayed on the order page: “Information given in the course of this transaction may be used to determine your liability to Australian GST”.
+The ATO also suggests that to meet National Privacy Principles the following clause should be displayed on the order page: "Information given in the course of this transaction may be used to determine your liability to Australian GST".
 
 Although quoted prices must normally be GST-inclusive (¶21-010), the Commissioner accepts that if the business only makes supplies that are GST-free under this head, it can show GST-exclusive prices only on its website. However, it should be made clear that the price does not include GST so that any domestic enquirers are not misled.
 
-Detailed ATO guidelines on the requirement that the “effective use and enjoyment” must take place outside Australia are given in GST Ruling GSTR 2025/2. The ATO says that the steps in determining this are:
+Detailed ATO guidelines on the requirement that the "effective use and enjoyment" must take place outside Australia are given in GST Ruling GSTR 2025/2. The ATO says that the steps in determining this are:
 
 - identify the exact nature of what is being supplied
 
-- identify the entity to which the supply is provided (the “providee-entity”). This need not be the same
+- identify the entity to which the supply is provided (the "providee-entity"). This need not be the same
 
   as the entity to which the supply is made. For example, if a supplier contracts with a company to audit
 
-  that company’s subsidiary, for the purpose of ensuring compliance by that subsidiary, the supply of that
+  that company's subsidiary, for the purpose of ensuring compliance by that subsidiary, the supply of that
 
   service is made to the company, but it is provided to the subsidiary. Similarly, if a supplier contracts
 
@@ -135,7 +135,7 @@ Detailed ATO guidelines on the requirement that the “effective use and enjoyme
 
   entity is the addressee
 
-- determine the time when the supply that is provided to the providee-entity is “done”, in accordance
+- determine the time when the supply that is provided to the providee-entity is "done", in accordance
 
   with the rules at ¶4-100
 
@@ -147,11 +147,11 @@ Australia. This is largely determined by the presence of the entity, ignoring pr
 
   be apportioned on a reasonable basis, which should be documented.
 
-The Ruling also includes guidelines on more complex arrangements, such as subcontracts and global supplies. For the ATO’s views on the application of the exemption to supplies of transaction accounts where the account holder’s effective use or enjoyment takes place outside Australia (GST Determination GSTD 2020/1). 4. A supply in relation to rights, where the rights are for use outside Australia, or the supply is to a non-resident entity that is not in Australia when the thing supplied is done.
+The Ruling also includes guidelines on more complex arrangements, such as subcontracts and global supplies. For the ATO's views on the application of the exemption to supplies of transaction accounts where the account holder's effective use or enjoyment takes place outside Australia (GST Determination GSTD 2020/1). 4. A supply in relation to rights, where the rights are for use outside Australia, or the supply is to a non-resident entity that is not in Australia when the thing supplied is done.
 
 This exemption applies, for example, where an Australian copyright owner sells to a non-resident the rights to distribute a product outside Australia. It could also apply where insurance cover is provided against claims arising from overseas acts (GST Ruling GSTR 2003/8); where a trader of emission credits supplies them to non-resident entities for use outside Australia; where a credit card facility is provided to a cardholder to undertake transactions while they are physically overseas (GST Determination GSTD 2017/1); or where brokerage services are supplied to facilitate the sale or purchase of financial products, such as shares, on overseas securities/futures exchanges (GST Determination GSTD 2015/1).
 
-This exemption applies to the supply of foreign currency to a passenger who had passed through the departures side of the customs barrier (Travelex Ltd v FC of T [2010] HCA 33). The High Court considered that the exemption applied because the supply related to “rights” attached to the banknotes, rather than being simply a supply of banknotes.
+This exemption applies to the supply of foreign currency to a passenger who had passed through the departures side of the customs barrier (Travelex Ltd v FC of T [2010] HCA 33). The High Court considered that the exemption applied because the supply related to "rights" attached to the banknotes, rather than being simply a supply of banknotes.
 
 *Refs: s 38-190(3)), s
 38-190(4)), s 38-190(5)), s
@@ -161,7 +161,7 @@ This exemption applies to the supply of foreign currency to a passenger who had 
 
   and licences (see also Saga Holidays Ltd v FC of T 2006 ATC ¶4841; ¶12-020)
 
-- a supply made “in relation to” rights covers a supply that is the creation, grant, transfer, assignment,
+- a supply made "in relation to" rights covers a supply that is the creation, grant, transfer, assignment,
 
   or surrender of a right, eg a supply of intellectual property rights. Following the decision in Travelex, the
 
@@ -171,7 +171,7 @@ This exemption applies to the supply of foreign currency to a passenger who had 
 
 The Commissioner considers that it is not necessary that the right be a proprietary right — for example, personal rights such as tavern licences may be covered (GST Ruling GSTR 2003/8). Supplies of insurance and capacity in an international telecommunications network may be treated as a supply of rights (see further below), but computer software generally is not (¶4-100). Membership subscriptions could qualify if they involved only a supply of rights, but commonly they would more appropriately be treated as a supply of services which may be GST-free under category (2) or (3) above (GST Ruling GSTR 2003/8).
 
-Whether a right is “for use outside Australia” depends on the intended use (DFC of T v Stewart 84 ATC 4146). If the right is only partly for use outside Australia, a partial exemption may apply. To determine the appropriate proportion, the supplier may need to consult with the recipient (GST Ruling GSTR 2003/8).
+Whether a right is "for use outside Australia" depends on the intended use (DFC of T v Stewart 84 ATC 4146). If the right is only partly for use outside Australia, a partial exemption may apply. To determine the appropriate proportion, the supplier may need to consult with the recipient (GST Ruling GSTR 2003/8).
 
 Where the supply was of rights to sell education packages, the exemption did not apply where those rights were exercised in Australia, even though the ultimate customers were outside Australia (Interpretative Decision ID 2006/101).
 
@@ -209,7 +209,7 @@ This applies even if the services only relate indirectly or partly to the input 
 
 Services that would be typically affected include architectural services, property management or selling services, building insurance, repairs, legal services in connection with a mortgage, public liability insurance and advertising in connection with the property. Accounting services are considered to be caught where, for example, they relate to:
 
-- general management of the non-resident’s bank account to ensure adequate funds were available to
+- general management of the non-resident's bank account to ensure adequate funds were available to
 
   meet mortgage repayments
 
@@ -217,7 +217,7 @@ Services that would be typically affected include architectural services, proper
 
 - occasional liaison with the property managers, and
 
-- preparing and lodging the non-resident’s tax returns. For further details of the treatment of tax return
+- preparing and lodging the non-resident's tax returns. For further details of the treatment of tax return
 
   services, see GST Determination GSTD 2007/3.
 
@@ -245,7 +245,7 @@ If the non-resident sought advice only about its investments in Australian share
 
 Interconnection: the Commissioner accepts that supplies of interconnection services made by an Australian resident telecommunications supplier to a non-resident may be exempt under category (2) above in certain circumstances (GST Determination GSTD 2012/7).
 
-Capacity: for the Commissioner’s views on the application of the exemption in category (4) above to a supply of capacity in an international telecommunications network by a resident supplier, see GST Determination GSTD 2012/9.
+Capacity: for the Commissioner's views on the application of the exemption in category (4) above to a supply of capacity in an international telecommunications network by a resident supplier, see GST Determination GSTD 2012/9.
 
 *Refs: s 38-190(2)), s 38-190(2, s 38-570*
 

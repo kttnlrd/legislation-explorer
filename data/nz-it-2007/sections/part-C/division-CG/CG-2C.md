@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) a company that is part of a group of companies (company A) is allowed a deduction for an amount that it is liable to pay; and
 
-- (b) company A’s liability for the amount is later remitted or cancelled, wholly or partly; and
+- (b) company A's liability for the amount is later remitted or cancelled, wholly or partly; and
 
 - (c) company A includes some or all of the amount of the deduction in the calculation of a net loss for a tax year; and
 

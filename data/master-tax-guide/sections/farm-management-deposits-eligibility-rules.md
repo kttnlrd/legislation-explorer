@@ -23,7 +23,7 @@ FMD can carry on a primary production business through a variety of structures i
 
 $800,000. The maximum amount that could be held as FMDs was $400,000 for income years commencing before 1 July 2016
 
-- the depositor’s rights in respect of the deposit cannot be transferred and the deposit cannot be
+- the depositor's rights in respect of the deposit cannot be transferred and the deposit cannot be
 
   charged or encumbered.
 

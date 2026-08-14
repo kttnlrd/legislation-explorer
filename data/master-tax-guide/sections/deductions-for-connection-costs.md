@@ -11,13 +11,13 @@ A deduction is available for capital expenditure incurred in connecting mains el
 
 The person incurring the expenditure must have an interest in the land, eg as the owner or tenant, or be a sharefarmer who is carrying on a business on the land.
 
-Where the expenditure is incurred by a partnership, it is not taken into account in determining the partnership’s net income or loss. Instead, each partner claims a proportionate deduction (or the agreed amount borne by the partner) in his/her own return.
+Where the expenditure is incurred by a partnership, it is not taken into account in determining the partnership's net income or loss. Instead, each partner claims a proportionate deduction (or the agreed amount borne by the partner) in his/her own return.
 
 The deduction is available only where some or all of the electricity to be supplied is intended by the taxpayer or another person to be used in carrying on business for the purpose of producing assessable income, exploration or prospecting, mining site rehabilitation or environmental protection. The deduction will be withdrawn if, during the 12 months after the electricity is ﬁrst supplied, it is not used for any of those purposes.
 
 *Refs: s 40-645*
 
-- connection of mains electricity cables to a metering point on the taxpayer’s land, whether or not
+- connection of mains electricity cables to a metering point on the taxpayer's land, whether or not
 
   the point from which the cable is connected is on the land
 
@@ -41,6 +41,6 @@ The deduction takes the place of any depreciation or other deduction that might 
 
 The deduction does not extend to work undertaken, or cables or equipment installed, in the course of replacing or relocating any existing cables or equipment, otherwise than in the course of increasing the amount of electricity that can be supplied to a metering point on the land.
 
-Where a commercial debt is forgiven, the debtor’s deduction for mains electricity connection costs may be reduced under the rules discussed at ¶16-910. Recoupments of mains electricity connection costs may give rise to assessable income (¶10-270).
+Where a commercial debt is forgiven, the debtor's deduction for mains electricity connection costs may be reduced under the rules discussed at ¶16-910. Recoupments of mains electricity connection costs may give rise to assessable income (¶10-270).
 
 ## Expenditure qualifying for the deduction covers:

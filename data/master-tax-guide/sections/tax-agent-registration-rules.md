@@ -15,13 +15,13 @@ An individual who is at least 18 years of age is eligible for registration as ta
 
   qualiﬁcations and experience (¶32-030)
 
-- maintains (or will be able to maintain) professional indemnity insurance that meets the TPB’s
+- maintains (or will be able to maintain) professional indemnity insurance that meets the TPB's
 
   requirements (TPB(EP) 03/2010), and
 
 - in the case of a renewal of registration, has completed continuing professional education that
 
-  meets the TPB’s requirements (TASA s 20-5(1)).
+  meets the TPB's requirements (TASA s 20-5(1)).
 
 Note that there is a grandfathering provision that applies if an individual was registered as a tax agent (or as a nominee) under the former registration regime immediately before both 1 March 2010 and 1 November 1988 (TASA s 20-5(4)).
 
@@ -39,7 +39,7 @@ A company is eligible for registration as a tax agent if the TPB is satisﬁed t
 
 - the company maintains (or will be able to maintain) professional indemnity insurance that meets
 
-  the TPB’s requirements (TASA s 20-5(3)).
+  the TPB's requirements (TASA s 20-5(3)).
 
 A partnership is eligible for registration as a tax agent if the TPB is satisﬁed that:
 
@@ -57,13 +57,13 @@ A partnership is eligible for registration as a tax agent if the TPB is satisﬁ
 
 - the partnership maintains (or will be able to maintain) professional indemnity insurance that meets
 
-  the TPB’s requirements (TASA s 20-5(2)).
+  the TPB's requirements (TASA s 20-5(2)).
 
 The TPB has released an information sheet which considers what constitutes supervisory arrangements for the purposes of the registration of a company or a partnership (TPB(I) 36/2021).
 
 Under the TASA, there is ﬂexibility for a registered entity to conduct its tax agent or BAS agent business through a trust structure. The registered entity needs to be a trustee of the trust. The TASA applies to a trustee who is an individual in the same way as it applies to an individual. Similarly, the TASA applies to a trustee that is a company in the same way as it applies to a company. The TPB has issued an information sheet dealing with the registration of a trust (TPB(I) 03/2011).
 
-For the TPB’s views on the need for an applicant for registration to demonstrate his/her knowledge of the TASA (including the Code of Professional Conduct), see TPB(I) 10/2011.
+For the TPB's views on the need for an applicant for registration to demonstrate his/her knowledge of the TASA (including the Code of Professional Conduct), see TPB(I) 10/2011.
 
 The registration application An application for registration as a tax agent must be made in an approved form and be accompanied by any required supporting document and the prescribed fee (TASA s 20-20).
 

@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Extension of time in some cases**
 
-**(1B)**  An election is treated as made before the start of the grandparenting income year for the purposes of subsection (1), if the relevant persons choose before the end of the time allowed by section 37 of the Tax Administration Act 1994 for providing a return for the company’s first income year, and—
+**(1B)**  An election is treated as made before the start of the grandparenting income year for the purposes of subsection (1), if the relevant persons choose before the end of the time allowed by section 37 of the Tax Administration Act 1994 for providing a return for the company's first income year, and—
 
 - (a) that income year is—
 

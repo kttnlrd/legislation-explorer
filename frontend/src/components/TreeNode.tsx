@@ -45,7 +45,7 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
   // Also hide case category-year IDs (tax-2025, asic-2024)
   // Also hide case category part IDs (tax, asic, other)
   // Also hide ruling division IDs (2024-lcg, 2024-pcg)
-  const isSlugLike = /^(ch|topic)-\d+$/i.test(displayId) || (isSection && /[a-z].*-[a-z]/.test(displayId)) || /^(tax|asic|other)-\d{4}$/i.test(displayId) || /^(tax|asic|other)$/i.test(displayId) || /^\d{4}-[a-z]+$/i.test(displayId);
+  const isSlugLike = /^(ch|topic)-\d+$/i.test(displayId) || (isSection && /[a-z].*-[a-z]/.test(displayId)) || /^(tax|asic|other)-\d{4}$/i.test(displayId) || /^(tax|asic|other)$/i.test(displayId) || /^\d{4}-[a-z]+$/i.test(displayId) || /^[a-z]+-\d{4}$/i.test(displayId);
   const showId = !isSlugLike && displayId !== displayTitle;
 
   const indent = isMobile ? Math.min(level * 10, 40) : level * 14;
@@ -106,7 +106,7 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
           </span>
         )}
         {!hasChildren && <span style={{ width: 28, display: 'inline-block', flexShrink: 0 }} />}
-        {(isSection && (act === 'cases' || act === 'rulings')) ? (
+        {(isSection && (act === 'cases' || act === 'rulings' || act === 'tax-cases')) ? (
           <>
             {displayTitle && (
               <span style={{ marginLeft: 4, whiteSpace: isMobile ? 'normal' : 'nowrap', overflow: 'hidden', textOverflow: isMobile ? 'clip' : 'ellipsis', fontWeight: 400 }}>
@@ -123,7 +123,7 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
           <>
             {showId && (
               <span style={{ marginLeft: 4, whiteSpace: isMobile ? 'normal' : 'nowrap', flexShrink: 0, color: COLORS.heading }}>
-                {isDivision && act !== 'cases' && act !== 'rulings' ? `Division ${displayId}` : displayId}
+                {isDivision && act !== 'cases' && act !== 'rulings' && act !== 'tax-cases' ? `Division ${displayId}` : displayId}
               </span>
             )}
             {displayTitle && (

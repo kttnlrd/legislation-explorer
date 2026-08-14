@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (a) is more than the available subscribed capital per share calculated under the slice rule of the shares surrendered or held on liquidation by the shareholder; and
 
-- (b) is attributable to an increase in the value of the company’s assets that was caused by the company applying or appropriating a deduction allowed under section 200.
+- (b) is attributable to an increase in the value of the company's assets that was caused by the company applying or appropriating a deduction allowed under section 200.
 
 **Some definitions**
 

@@ -3,18 +3,14 @@ ATO ID 2009/77
 ==================================================
 
 Income Tax
-        Dividends: non-share dividends and interest - superannuation fund for foreign residents - withholding tax
-        FOI status: may be released
-
-
+ Dividends: non-share dividends and interest - superannuation fund for foreign residents - withholding tax
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are dividends, non-share dividends and interest paid to the taxpayer, the trustee of a superannuation fund for foreign residents, income to which paragraph 128B(3)(jb) of the Income Tax Assessment Act 1936 (ITAA 1936) applies?
@@ -28,8 +24,6 @@ In its capacity as trustee of the fund, the taxpayer received income in the 2007
 Within the last three years, the taxing authority in the country of residence of the taxpayer has certified that the fund is exempt from income tax in that country.
 Reasons for Decision
 Paragraph 128B(3)(jb) of the ITAA 1936 excludes certain income from being subject to withholding tax where that income:
-
-
 
 (i)is derived by a non-resident that is a superannuation fund for foreign residents; and
 (ii)consists of interest, or consists or dividends or non-share dividends paid by a company that is a resident; and
@@ -53,14 +47,13 @@ As the income derived is dividends and non-share dividends paid by companies tha
 Given that the taxing authority in the country of residence of the taxpayer has provided relevant certification of the fund being exempt in its country of residence, the Commissioner accepts that, for the purposes of subparagraph 128B(3)(jb)(iii) of the ITAA 1936, the income of the fund that satisfies subparagraphs 128B(3)(jb)(i) and 128B(3)(jb)(ii) of the ITAA 1936 is exempt from income tax in the country in which the taxpayer resides.
 Therefore, for the reasons stated above, the dividend and interest income of the fund is income to which paragraph 128B(3)(jb) of the ITAA 1936 applies.
 
-
 Note: By operation of paragraph 128B(3)(jb) of the ITAA 1936, this income is excluded from being income that is subject to withholding tax under section 128B of the ITAA 1936.
 
 Date of decision:
-         13 July 2009
+  13 July 2009
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -76,26 +69,24 @@ Other References:
 
  Explanatory Memorandum to Tax Laws Amendment (Repeal of Inoperative Provisions) Bill 2006
 
-
 Keywords
 
 Withholding tax exemptions
-          Dividend income
-          Non resident dividend withholding tax
-          Interest income
-          Non resident interest withholding tax
-          Superannuation funds
-          Non resident superannuation funds
-
+ Dividend income
+ Non resident dividend withholding tax
+ Interest income
+ Non resident interest withholding tax
+ Superannuation funds
+ Non resident superannuation funds
 
 Siebel/TDMS Reference Number:
-         6159121
+  6159121
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         31 July 2009
+  31 July 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

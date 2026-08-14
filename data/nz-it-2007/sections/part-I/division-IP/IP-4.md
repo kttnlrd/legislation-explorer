@@ -16,13 +16,13 @@ compilation_date: 2026-06-06
 
 **Modified requirements**
 
-**(2)**  The tax loss component is included in a tax loss that company A makes available under section IA 3(2) (Using tax losses in tax year) to company B only to the extent to which the following requirements, which modify those set out in section IC 5 (Company B using company A’s tax loss), are met:
+**(2)**  The tax loss component is included in a tax loss that company A makes available under section IA 3(2) (Using tax losses in tax year) to company B only to the extent to which the following requirements, which modify those set out in section IC 5 (Company B using company A's tax loss), are met:
 
 - (a) the tax loss component arises in the common span; and
 
 - (ab) the amount of the tax loss component is no more than the net income that company B derives in the common span; and
 
-- (b) continuity of ownership in company A, or continuity of company A’s business activities, under section IC 2(1) (Threshold levels for grouping tax losses in tax year) applies from the beginning to the end of the common span; and
+- (b) continuity of ownership in company A, or continuity of company A's business activities, under section IC 2(1) (Threshold levels for grouping tax losses in tax year) applies from the beginning to the end of the common span; and
 
 - (c) company A and company B provide the Commissioner with adequate financial statements under section IP 6; and
 

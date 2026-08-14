@@ -9,9 +9,9 @@ paragraph: "¶39-220"
 
 The maximum contribution base for each quarter is $65,070 in 2024–25 (see ¶42-340 for the base amount in earlier years).
 
-The base acts as a ceiling on the maximum amount of the SG contribution payable by the employer for an employee in each quarter which are calculated based on the employee’s “ordinary time earnings” (¶39-200) in the quarter. The eﬀect of the $65,070 ceiling in 2024–25 is that an employer is only required to make maximum SG contributions of $7,483 (ie $65,070 × 11.5% charge percentage) for each quarter in the 2024– 25 ﬁnancial year, or $29,932 for the year, even if the employee’s annual salary in 2024–25 is more than $260,280 (ie $65,070 × 4 quarters).
+The base acts as a ceiling on the maximum amount of the SG contribution payable by the employer for an employee in each quarter which are calculated based on the employee's "ordinary time earnings" (¶39-200) in the quarter. The eﬀect of the $65,070 ceiling in 2024–25 is that an employer is only required to make maximum SG contributions of $7,483 (ie $65,070 × 11.5% charge percentage) for each quarter in the 2024– 25 ﬁnancial year, or $29,932 for the year, even if the employee's annual salary in 2024–25 is more than $260,280 (ie $65,070 × 4 quarters).
 
-Where an employer fails to make the mandated amount of SG contributions for an employee in a quarter (¶39-200), the employee’s salary or wages for that quarter is used to calculate the individual employee’s SG shortfall (¶39-300). For this purpose, the amount of the employee’s salary or wages for the quarter is also limited to the maximum contribution base (SGAA s 19(3)).
+Where an employer fails to make the mandated amount of SG contributions for an employee in a quarter (¶39-200), the employee's salary or wages for that quarter is used to calculate the individual employee's SG shortfall (¶39-300). For this purpose, the amount of the employee's salary or wages for the quarter is also limited to the maximum contribution base (SGAA s 19(3)).
 
 contributions cap The maximum contribution base for a quarter in a year is indexed using the indexation factor for the year (ss 9, 15(3)).
 

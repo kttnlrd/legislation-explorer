@@ -17,7 +17,7 @@ The company also incurs certain liabilities in respect of the public officer. Fo
 
 - acts of the public officer are deemed to be acts of the company
 
-- service of any document at the public officer’s address for service or on the public officer of the
+- service of any document at the public officer's address for service or on the public officer of the
 
   company is sufficient service upon the company for the purposes of the GST law
 
@@ -47,13 +47,13 @@ Even if a company has a public officer, the Commissioner may instead choose to s
 
   Personal liability of those involved in management
 
-Anyone who is “concerned in, or takes part in, the management” of a company — not just officers — is deemed to have personally committed any taxation offence committed by the company and will be liable for the resulting penalty (Administration Act, s 8Y). A manager could include a person who is employed by a company in a managerial capacity and could also include a person whose directions the company officers are accustomed to following.
+Anyone who is "concerned in, or takes part in, the management" of a company — not just officers — is deemed to have personally committed any taxation offence committed by the company and will be liable for the resulting penalty (Administration Act, s 8Y). A manager could include a person who is employed by a company in a managerial capacity and could also include a person whose directions the company officers are accustomed to following.
 
 Furthermore, a director is presumed to be concerned in the management of the company unless the contrary is proved.
 
-Example Before his retirement, Thomas was the CEO and one of the executive directors of Lacklustre Pty Ltd. Thomas had founded Lacklustre and had always been its guiding force and strategist. After his retirement from the Board of Directors, Thomas continued to determine Lacklustre’s business direction and make all the decisions about the day-to-day running of the company. This was easy for him to do because everyone was used to acting in accordance with his directions.
+Example Before his retirement, Thomas was the CEO and one of the executive directors of Lacklustre Pty Ltd. Thomas had founded Lacklustre and had always been its guiding force and strategist. After his retirement from the Board of Directors, Thomas continued to determine Lacklustre's business direction and make all the decisions about the day-to-day running of the company. This was easy for him to do because everyone was used to acting in accordance with his directions.
 
-Lacklustre failed to pay its net amount of GST for April, May and June. As a person concerned in and taking part in the management of Lacklustre, the Commissioner could impose penalties on Thomas as a result of Lacklustre’s failure to pay the amount of GST it owed for those months and he would be personally liable for them.
+Lacklustre failed to pay its net amount of GST for April, May and June. As a person concerned in and taking part in the management of Lacklustre, the Commissioner could impose penalties on Thomas as a result of Lacklustre's failure to pay the amount of GST it owed for those months and he would be personally liable for them.
 
 Penalties for directors where company GST not paid Under separate provisions, directors may become personally liable for penalties equal to the amount of GST unpaid by their companies: see ¶8-105.
 

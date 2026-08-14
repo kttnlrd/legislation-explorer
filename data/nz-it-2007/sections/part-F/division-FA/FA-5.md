@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Associated persons acquiring asset**
 
-**(6)**  Subsection (2) also applies if a person associated with the lessee acquires the asset, whether from the lessee or not, and disposes of it for an amount that is more than the amount paid to acquire it. Association is determined at the time of acquisition by the associated person. The lesser of the excess and the total amount of the lessee’s deductions is treated as income of the lessee.
+**(6)**  Subsection (2) also applies if a person associated with the lessee acquires the asset, whether from the lessee or not, and disposes of it for an amount that is more than the amount paid to acquire it. Association is determined at the time of acquisition by the associated person. The lesser of the excess and the total amount of the lessee's deductions is treated as income of the lessee.
 
 **Transfers on settlement of relationship property**
 

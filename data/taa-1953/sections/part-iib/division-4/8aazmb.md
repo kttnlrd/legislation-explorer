@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "4"
 division_title: "Miscellaneous provisions about tax debts"
 subdivision: ""
@@ -35,7 +35,7 @@ source_pdf: "vol01.pdf"
 > > **(ii)**  the Australian Capital Territory; or
 
 > > <a id="s8AAZMB-2-b-iii"></a>
-> > **(iii)**  the Northern Territory. Authorised Version C2026C00170 registered 28/04/2026 matters
+> > **(iii)**  the Northern Territory. matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

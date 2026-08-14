@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (d) the payment or charge would give rise to assessable income of the payee in the income year if the payer and payee were persons and separate or if the tax status of the payer were different.
 
-**Expenditure relating to payment made under structured arrangement or to member of payer’s control group**
+**Expenditure relating to payment made under structured arrangement or to member of payer's control group**
 
 **(2)**  Expenditure relating to a payment by a payer that is not a New Zealand resident, or is a foreign deducting branch of a New Zealand resident, to a payee meets the requirement of this subsection if—
 

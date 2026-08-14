@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies to an excess debt entity or a natural person if section FE 5 requires the entity or person to apportion their interest expenditure for an income year under this section or the entity or person has a debt percentage equal to zero under section FE 12(3) because the relevant New Zealand group’s non-debt liabilities equal or exceed its assets. A natural person is treated as an excess debt entity for the purposes of this section other than in the item threshold amount.
+**(1)**  This section applies to an excess debt entity or a natural person if section FE 5 requires the entity or person to apportion their interest expenditure for an income year under this section or the entity or person has a debt percentage equal to zero under section FE 12(3) because the relevant New Zealand group's non-debt liabilities equal or exceed its assets. A natural person is treated as an excess debt entity for the purposes of this section other than in the item threshold amount.
 
 **General formula**
 
@@ -22,9 +22,9 @@ compilation_date: 2026-06-06
 
 **(3)**  In the formula in subsection (2),—
 
-- (a) total deduction is the whole amount of the excess debt entity’s deduction for interest that would be allowed, in the absence of subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements), under any of sections DB 6 to DB 8 (which relate to deductions for interest expenditure) less—
+- (a) total deduction is the whole amount of the excess debt entity's deduction for interest that would be allowed, in the absence of subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements), under any of sections DB 6 to DB 8 (which relate to deductions for interest expenditure) less—
 
-  - (i) the total amount allowed in relation to interest payable to a company that is a member of the entity’s New Zealand group under sections FE 3 and FE 28, but this does not include an amount referred to in subparagraph (ii); and
+  - (i) the total amount allowed in relation to interest payable to a company that is a member of the entity's New Zealand group under sections FE 3 and FE 28, but this does not include an amount referred to in subparagraph (ii); and
 
   - (ii) the total amount allowed in relation to interest payable under a financial arrangement excluded from the total group debt of its New Zealand group under section FE 15:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
   - (i) issued by the entity; and
 
-  - (ii) held by a person resident in New Zealand who is not a company that is a member of the entity’s New Zealand group:
+  - (ii) held by a person resident in New Zealand who is not a company that is a member of the entity's New Zealand group:
 
 - (ac) adjust is—
 
@@ -46,17 +46,17 @@ compilation_date: 2026-06-06
 
   - (iv) zero, if the group finance cost is $2,000,000 or more and subparagraph (i) does not apply:
 
-- (b) total debt is the total amount of the debt of the excess debt entity’s New Zealand group for the income year as calculated under section FE 15, before allowing for a reduction under section FE 13:
+- (b) total debt is the total amount of the debt of the excess debt entity's New Zealand group for the income year as calculated under section FE 15, before allowing for a reduction under section FE 13:
 
-- (c) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity’s New Zealand group for the income year, averaged when section FE 8(1)﻿(a) or (b) applies:
+- (c) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity's New Zealand group for the income year, averaged when section FE 8(1)﻿(a) or (b) applies:
 
 - (cb) group debt factor is—
 
-  - (i) 1, if the excess debt entity’s New Zealand group has a debt percentage for the income year equal to zero; or
+  - (i) 1, if the excess debt entity's New Zealand group has a debt percentage for the income year equal to zero; or
 
   - (ii) the amount calculated by subtracting from 1 the amount calculated by dividing the threshold amount in paragraph (e) for the excess debt entity by the group debt percentage in paragraph (d) for the excess debt entity:
 
-- (d) group debt percentage is the debt percentage of the excess debt entity’s New Zealand group for the income year:
+- (d) group debt percentage is the debt percentage of the excess debt entity's New Zealand group for the income year:
 
 - (e) threshold amount is, as applicable,—
 
@@ -76,11 +76,11 @@ compilation_date: 2026-06-06
 
 **(3C)**  In the formula in subsection (3B),—
 
-- (a) related interest is the whole amount of the excess debt entity’s interest, incurred under financial arrangements meeting the requirements of section FE 18(3B) for removal of a financial arrangement from the measurement of total group debt for the entity’s worldwide group, that would be allowed, in the absence of subpart FH, as a deduction under any of sections DB 6 to DB 8 less—
+- (a) related interest is the whole amount of the excess debt entity's interest, incurred under financial arrangements meeting the requirements of section FE 18(3B) for removal of a financial arrangement from the measurement of total group debt for the entity's worldwide group, that would be allowed, in the absence of subpart FH, as a deduction under any of sections DB 6 to DB 8 less—
 
-  - (i) the total amount of deductions allowed for interest payable to a company that is a member of the entity’s New Zealand group under sections FE 3 and FE 28 and not included in the amount given by subparagraph (ii); and
+  - (i) the total amount of deductions allowed for interest payable to a company that is a member of the entity's New Zealand group under sections FE 3 and FE 28 and not included in the amount given by subparagraph (ii); and
 
-  - (ii) the total amount of deductions allowed for interest payable under a financial arrangement excluded from the total group debt for the entity’s New Zealand group under section FE 15:
+  - (ii) the total amount of deductions allowed for interest payable under a financial arrangement excluded from the total group debt for the entity's New Zealand group under section FE 15:
 
 - (b) mismatch is the total of amounts denied as deductions in the income year under section FH 3 as unrecognised amounts under section FH 3(2) and as interest under sections FH 7 and FH 11:
 
@@ -88,17 +88,17 @@ compilation_date: 2026-06-06
 
   - (i) are issued by the entity; and
 
-  - (ii) are held by a person resident in New Zealand who is not a company that is a member of the entity’s New Zealand group; and
+  - (ii) are held by a person resident in New Zealand who is not a company that is a member of the entity's New Zealand group; and
 
-  - (iii) would be removed under section FE 18(3B) from the measurement of total group debt of the entity’s worldwide group if that provision applied to fixed-rate foreign equity and fixed-rate shares:
+  - (iii) would be removed under section FE 18(3B) from the measurement of total group debt of the entity's worldwide group if that provision applied to fixed-rate foreign equity and fixed-rate shares:
 
-- (d) total debt is the total amount of the debt of the excess debt entity’s New Zealand group for the income year as calculated under section FE 15, before allowing for a reduction under section FE 13:
+- (d) total debt is the total amount of the debt of the excess debt entity's New Zealand group for the income year as calculated under section FE 15, before allowing for a reduction under section FE 13:
 
-- (e) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity’s New Zealand group for the income year, averaged when section FE 8(1)﻿(a) or (b) applies:
+- (e) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity's New Zealand group for the income year, averaged when section FE 8(1)﻿(a) or (b) applies:
 
 - (f) group debt comparison factor is—
 
-  - (i) 1, if the excess debt entity’s New Zealand group or the excess debt entity’s worldwide group has a debt percentage under section FE 12(3) equal to zero for the income year; or
+  - (i) 1, if the excess debt entity's New Zealand group or the excess debt entity's worldwide group has a debt percentage under section FE 12(3) equal to zero for the income year; or
 
   - (ii) the amount calculated using the formula in subsection (3D), if subparagraph (i) does not apply.
 
@@ -108,7 +108,7 @@ compilation_date: 2026-06-06
 
 **Definition of item in formula**
 
-**(3E)**  In the formula in subsection (3D), threshold amount is the amount that is the greater of 60% and the debt percentage of the excess debt entity’s worldwide group for the income year.
+**(3E)**  In the formula in subsection (3D), threshold amount is the amount that is the greater of 60% and the debt percentage of the excess debt entity's worldwide group for the income year.
 
 **Alternative calculation**
 
@@ -120,7 +120,7 @@ compilation_date: 2026-06-06
 
 - (a) the total amount of deductions that the company has for interest in the income year, except if paragraph (b) applies; or
 
-- (b) the total amount of the company’s interest, incurred under financial arrangements meeting the requirements of section FE 18(3B), if the excess debt entity has a worldwide group given by section FE 31D.
+- (b) the total amount of the company's interest, incurred under financial arrangements meeting the requirements of section FE 18(3B), if the excess debt entity has a worldwide group given by section FE 31D.
 
 *Defined in this Act: amount, company, deduction, dividend, excess debt entity, excess debt outbound company, financial arrangement, fixed establishment, fixed-rate foreign equity, fixed-rate share, income, income year, interest, natural person, New Zealand, New Zealand resident, pay, related-party debt, resident in New Zealand, total group debt, total worldwide debt, trustee, wholly owned group of companies*
 

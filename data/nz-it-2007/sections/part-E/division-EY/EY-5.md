@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Part-year calculations for transfers**
 
-**(4)**  A transferor to whom sections EY 23 to EY 27 apply does a part-year calculation immediately before the transfer, as described in subsection (2), for each class of policy in the transferred business, but only for their part-year ending on the day the transfer occurs. A transferee to whom sections EY 23 to EY 27 apply also does a part-year calculation for the transferred policies, as described in subsection (2), but only for their part-year starting on the day the transfer occurs. The transferee’s relevant opening part-year reserve amounts under sections EY 23 to EY 27 equal the transferor’s relevant closing part-year reserve amounts immediately before the transfer, and if the life reinsurance associated with a class of policies is not assigned by the transferor to the transferee, those reserve amounts are calculated without subtracting relevant life reinsurance amounts.
+**(4)**  A transferor to whom sections EY 23 to EY 27 apply does a part-year calculation immediately before the transfer, as described in subsection (2), for each class of policy in the transferred business, but only for their part-year ending on the day the transfer occurs. A transferee to whom sections EY 23 to EY 27 apply also does a part-year calculation for the transferred policies, as described in subsection (2), but only for their part-year starting on the day the transfer occurs. The transferee's relevant opening part-year reserve amounts under sections EY 23 to EY 27 equal the transferor's relevant closing part-year reserve amounts immediately before the transfer, and if the life reinsurance associated with a class of policies is not assigned by the transferor to the transferee, those reserve amounts are calculated without subtracting relevant life reinsurance amounts.
 
 **Class of policies transferred to insurer**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Part-year calculations for transfers: effect**
 
-**(5)**  Transferor’s and transferee’s part-year calculations may give rise to income and deductions for the income year, but they do not create any part-year tax return obligations.
+**(5)**  Transferor's and transferee's part-year calculations may give rise to income and deductions for the income year, but they do not create any part-year tax return obligations.
 
 **Part-year calculations: end of transitional adjustments**
 

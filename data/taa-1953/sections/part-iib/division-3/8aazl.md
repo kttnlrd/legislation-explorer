@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3"
-division_title: "Treatment of payments, credits and RBA"
+division_title: "Treatment of payments, credits and RBA surpluses"
 subdivision: ""
 subdivision_title: ""
 section: "8AAZL"
@@ -52,7 +52,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  doing so would require the Commissioner to apply the amount against a tax debt; and
 
 > <a id="s8AAZL-4-b"></a>
-> **(b)**  the tax debt is a penalty that is due and payable under section 269-20 in Schedule 1 (penalties for directors of non-complying companies). Authorised Version C2026C00170 registered 28/04/2026 Running balance accounts, application of payments and credits, and related matters Part IIB Treatment of payments, credits and RBA surpluses Division 3 Section 8AAZLA
+> **(b)**  the tax debt is a penalty that is due and payable under section 269-20 in Schedule 1 (penalties for directors of non-complying companies). Running balance accounts, application of payments and credits, and related matters Part IIB Treatment of payments, credits and RBA surpluses Division 3 Section 8AAZLA
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

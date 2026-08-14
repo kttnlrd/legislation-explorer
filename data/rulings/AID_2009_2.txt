@@ -3,21 +3,17 @@ ATO ID 2009/2
 ==================================================
 
 Income Tax
-        The term 'unrelated' for the purposes of Article 11(3)(b) of the US Convention: where a company as the holder of redeemable preference shares has majority voting rights in relation to specified events
-        FOI status: may be released
-
+ The term 'unrelated' for the purposes of Article 11(3)(b) of the US Convention: where a company as the holder of redeemable preference shares has majority voting rights in relation to specified events
+ FOI status: may be released
 
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a taxpayer (Aus Co), which is an Australian resident payer of dividends on redeemable preference shares (RPS), 'unrelated' to a US resident financial institution (US Co) for the purposes of Article 11(3)(b) of the United States Convention (US Convention) in Schedules 2 and 2A of the International Tax Agreements Act 1953 (the Agreements Act) where, contingent upon specified events occurring that involves compliance with the terms of the RPS, the director of Aus Co appointed by US Co (in its capacity as the holder of the RPS) has majority voting rights on Aus Co's board of directors only in relation to the specified events?
@@ -28,8 +24,6 @@ Aus Co is an Australia resident company and participates in a particular financi
 US Co is a financial institution for the purposes of Article 11(3)(b) of the US Convention.
 Aus Co issues RPS to another member of its group of companies referred to above. Those RPS are then immediately transferred by that member to US Co. The rights of US Co attaching to the RPS include:
 
-
-
 •the right to be paid preferential dividends at specified times as and when declared by Aus Co's board of directors. The amount of these dividends is calculated by reference to an external benchmark interest rate minus a specified number of basis points.
 •the RPS are mandatorily redeemable on a specified date (the earlier of termination of the transaction or 10 years after issue);
 •the right to exercise 10% of the voting power in Aus Co's annual general meeting (AGM);
@@ -38,8 +32,6 @@ Aus Co issues RPS to another member of its group of companies referred to above.
 Aus Co makes dividend payments to US Co, the beneficial owner of the dividends, in respect of the RPS held by US Co.
 Where specified events occur involving compliance with the terms of the RPS issued to US Co, the director appointed by US Co has five votes on the board of Aus Co (with a quorum constituted by the one director appointed by US Co) but only with respect to any decision or resolution to rectify the specified event.
 These specified events include where Aus Co:
-
-
 
 •fails to pay a dividend in relation to US Co's holding of RPS; or
 •fails to pay the redemption amount on the RPS at the redemption date; or
@@ -63,14 +55,13 @@ The director appointed by US Co controls Aus Co's board of directors only in the
 The limited circumstances in which the director appointed by US Co can utilise controlling voting power does not constitute the ability to direct Aus Co's actions in a general sense.
 Therefore, pursuant to paragraph 114 of TR 2005/5, it can be concluded that Aus Co and US Co are 'unrelated' within the meaning of Article 11(3)(b) of the US Convention.
 
-
 Note: this ATO ID also applies to the provisions of other tax treaties that contain the term 'unrelated' and are equivalent to Article 11(3)(b) of the US Convention .
 
 Date of decision:
-         25 November 2008
+  25 November 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -83,21 +74,20 @@ Taxation Ruling TR 2005/5
 Keywords
 
 Debt interest
-          Double tax agreements
-          Interest income
-          International tax
-          Treaties
-          United States
-
+ Double tax agreements
+ Interest income
+ International tax
+ Treaties
+ United States
 
 Siebel/TDMS Reference Number:
-         5679612
+  5679612
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         9 January 2009
+  9 January 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 - (a) a person makes an election under subsection (1) by giving the Commissioner notice of it in their return of income for the income year in which they acquire the item; and
 
-- (b) a person makes an election under subsection (2) by giving the Commissioner notice of it in their return of income for the income year in which the item’s use changes; and
+- (b) a person makes an election under subsection (2) by giving the Commissioner notice of it in their return of income for the income year in which the item's use changes; and
 
 - (c) a person makes an election under subsection (3) by giving the Commissioner notice of it in their return of income for any income year after they acquire the item, including an income year after they dispose of the item.
 

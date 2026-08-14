@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (b) a debt instrument:
 
-- (c) the deferral of the payment of some or all of the consideration for an absolute assignment of some or all of a person’s rights under another financial arrangement or under an excepted financial arrangement:
+- (c) the deferral of the payment of some or all of the consideration for an absolute assignment of some or all of a person's rights under another financial arrangement or under an excepted financial arrangement:
 
 - (d) the deferral of the payment of some or all of the consideration for a legal defeasance releasing a person from some or all of their obligations under another financial arrangement or under an excepted financial arrangement.
 

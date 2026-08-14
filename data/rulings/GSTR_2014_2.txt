@@ -4,16 +4,14 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 81
-  • Division 19
-  • Division 81
+ • Div 81
+ • Division 19
+ • Division 81
 
 Cases Referenced:
-  • Group Limited v Commissioner 
+ • Group Limited v Commissioner 
 
 Topics: GST, Companies
-
-
 
 ================================================================================
 
@@ -28,7 +26,7 @@ Back to browse
 31 related documents
 Goods and Services Tax Ruling
 GSTR 2014/2
-Goods and services tax:  treatment of ATM service fees, credit card surcharges and debit card surcharges
+Goods and services tax: treatment of ATM service fees, credit card surcharges and debit card surcharges
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -138,7 +136,7 @@ Listed ATM services
 5G. Once it is established that the device is an ATM, the ATM service must be one of the 4 ATM services listed under subsection 40-5.09(5) of the GST Regulations. The listed ATM services specify that they relate to an 'account'. An account includes any monetary account with an ADI or equivalent overseas bank or financial institution, and an account with a non-ADI credit, charge or prepaid card provider.
 6. A fee imposed for an ATM service listed under subsection 40-5.09(5) of the GST Regulations is consideration for an input taxed supply.
 7. A device that is used to access a payment system other than the ATM system (for example, the payment system designated by the Reserve Bank of Australia (RBA) as the EFTPOS system) is not, by reason of the payment system alone, precluded from being used to provide an ATM service under subsection 40-5.09(5) of the GST Regulations.
-Example A1:  Cash dispensing device – an ATM
+Example A1: Cash dispensing device – an ATM
 7A.
 The JLB Shopping Centre (JLB) has a cash dispensing device located in the centre.
 7B.
@@ -147,7 +145,7 @@ The device comprises a single freestanding unit. The device is badged with the l
 In order to utilise the cash dispensing device, a cardholder inserts their card into the device, enters their personal identification number (PIN) and follows the prompts on screen. Cash is dispensed directly to the cardholder. Non-cardholder human intervention is not required to complete the transaction.
 7D.
 Having regard to the requirements at paragraph 5B and the factors at paragraph 5C of this Ruling, the cash dispensing device is an ATM, within the ordinary meaning of that term.
-Example A2:  Cash dispensing device – not an ATM
+Example A2: Cash dispensing device – not an ATM
 7E.
 The VRB Hotel has a cash dispensing device located inside the venue.
 7F.
@@ -156,7 +154,7 @@ The equipment comprises a screen, EFTPOS terminal, cash dispenser and a remote c
 To make a cash withdrawal, a cardholder must approach hotel staff and request to withdraw a specified amount. Hotel staff use the remote control device to enable the equipment and enter the requested amount. The cardholder subsequently inserts their card into the EFTPOS terminal and enters their PIN. The cardholder confirms the withdrawal amount and service fee on screen. Cash is dispensed directly to the cardholder. The cash dispensing device accesses the EFTPOS payment system and does not support transaction types other than cash withdrawal.
 7H.
 Having regard to the requirements at paragraph 5B and the factors at paragraph 5C of this Ruling, the cash dispensing device is not an ATM, within the ordinary meaning of that term.
-Example A3:  Withdrawal of cash and no purchase – not an ATM
+Example A3: Withdrawal of cash and no purchase – not an ATM
 7I.
 The Tas Supermarket offers a cashout service at its self-service register. The design and primary function of the device is to allow customers to pay for their supermarket purchases. The device also allows customers to obtain a cash withdrawal from their account.
 7J.
@@ -186,20 +184,20 @@ the merchant can use any fair and reasonable method to apportion the surcharge t
 12. Where an amount is required to be paid by a specified date, and an additional fee or charge becomes payable if the amount is not paid by that date, the additional fee or charge is consideration for the supply of an interest in or under a credit arrangement. It is therefore consideration for an input taxed financial supply.
 [3]
 13. Where the customer incurs a credit card surcharge when paying for both the goods or services and the additional fee or charge under the credit arrangement, the merchant can use any fair and reasonable method to apportion the surcharge between the supplies.
-Example 1:  Credit card surcharge – taxable supply
+Example 1: Credit card surcharge – taxable supply
 14.
 Anna purchases a shirt with a displayed price of $55. A sign at the store's counter states that a surcharge of 3% of the price will be imposed if payment is made by credit card.
 15.
 When Anna pays for the shirt using her credit card, the merchant imposes a surcharge of $1.65 on the sale. The price of the shirt to Anna is $56.65, as the $1.65 surcharge forms part of the consideration for the shirt. The surcharge has a sufficient nexus with the supply of the shirt to be regarded as being paid for the supply. The supply of the shirt is a taxable supply under section 9-5. The GST payable in respect of the sale is $5.15, being one-eleventh of the GST-inclusive price of $56.65.
-Example 2:  Credit card surcharge – agent
+Example 2: Credit card surcharge – agent
 16.
 John purchases a concert ticket from a ticket agent over the internet using his credit card. John pays $110 for the ticket with an additional $11 credit card surcharge. Under the terms of the arrangement, the ticket agent acts as an agent for the concert promoter when supplying the ticket to John. The ticket agent also makes a separate supply of processing services to John which includes accessing the relevant payment system to authorise the payment. The $11 credit card surcharge is consideration for the taxable supply of processing services the ticket agent makes to John.
-Example 3:  Credit card surcharge – GST-free supply
+Example 3: Credit card surcharge – GST-free supply
 17.
 Chris, a fruit and vegetable retailer, purchases $1,100 of produce for his store from a wholesaler using his credit card. The wholesaler imposes a surcharge of 2% on the price if payment is made by credit card.
 18.
 When Chris pays the wholesaler using his credit card, the wholesaler imposes a surcharge of $22. The price of the fruit and vegetables is $1,122 as the $22 surcharge forms part of the consideration for the fruit and vegetables. The surcharge has a sufficient nexus with the supply of the fruit and vegetables to be regarded as being paid for the supply. No GST is imposed because the supply of the fruit and vegetables is GST-free under section 38-2.
-Example 4:  Credit card surcharge – apportionment
+Example 4: Credit card surcharge – apportionment
 19.
 Ben enrols in 3 college subjects. One of the subjects is a taxable supply under section 9-5 and the other 2 subjects are GST-free under section 38-85. The college charges $1,000 (inclusive of GST) for the taxable subject, $800 for one GST-free subject and $700 for the other. The total amount payable by Ben is $2,500.
 20.
@@ -207,7 +205,7 @@ The college imposes a surcharge of 4% if payment is made using a credit card. Be
 21.
 The college is required to allocate part of the $100 surcharge to the taxable supply. It would be fair and reasonable for the college to allocate $40 from the $100 surcharge to the taxable supply on the following basis:
 (1,000 ÷ 2,500) × 100 = 40
-Example 5:  Credit card surcharge – incurred after supply
+Example 5: Credit card surcharge – incurred after supply
 22.
 Stephanie acquires $220 worth of paper supplies for her business from her newsagent, who allows Stephanie 30 days to pay her account before imposing late payment fees. The supply of the paper by the newsagent is a taxable supply under section 9-5 and the acquisition by Stephanie is a creditable acquisition under section 11-5. The newsagent imposes a surcharge of 2% of the price if payment is made using a credit card.
 23.
@@ -221,7 +219,7 @@ However, if Stephanie had paid her account after the 30 day period had expired a
 If Stephanie paid both the $220 and the additional late payment fee using her credit card and incurred the credit card surcharge, a portion of the surcharge will also have a sufficient nexus to be regarded as being paid for the input taxed supply of the interest in or under the credit arrangement. The newsagent can use any fair and reasonable method to apportion the surcharge between the supplies.
 Credit card surcharge on payment of taxes, fees or charges subject to Division 81
 26. A credit card surcharge imposed on a customer in respect of a credit card transaction used for the payment, or the discharging of a liability to make a payment, of an Australian tax or an Australian fee or charge subject to Division 81 has the same treatment under Division 81 as the payment of the tax, fee or charge in question.
-Example 6:  Payment for an Australian fee or charge subject to Division 81
+Example 6: Payment for an Australian fee or charge subject to Division 81
 27.
 Jenny obtains a drivers licence from the relevant State government agency for a fee of $100. The agency also imposes an additional 2% credit card surcharge for customers who pay using a credit card. When Jenny uses her credit card to pay for the licence, the agency charges Jenny $102.
 28.
@@ -237,7 +235,7 @@ Debit card surcharge – purchase of goods or services
 33. Where the customer incurs a debit card surcharge when paying both the liability for the goods or services and the additional fee or charge for the credit arrangement, the merchant can use any fair and reasonable method to apportion the surcharge between the supplies.
 33A. For the purposes of this Ruling, any reference to debit card surcharges also applies to prepaid card surcharges.
 [7A]
-Example 7:  Debit card surcharge and purchase of goods
+Example 7: Debit card surcharge and purchase of goods
 34.
 Grace purchases a toaster using her debit card. The price tag states that the toaster is $88 (GST inclusive). A sign at the store's counter states that all debit card transactions incur a $2 surcharge.
 35.
@@ -245,7 +243,7 @@ When Grace pays for the toaster using her debit card, the merchant imposes a sur
 Debit card surcharge – withdrawal of cash
 36. A merchant who imposes a surcharge on a customer for withdrawing cash through a debit card transaction, where that is not an ATM service, makes a taxable supply under section 9-5. The merchant is supplying the customer with the service of accessing the relevant payment system through the use of the terminal to authorise the transaction.
 [8]
-Example 8:  Debit card surcharge and withdrawal of cash
+Example 8: Debit card surcharge and withdrawal of cash
 37.
 Steve withdraws $100 from his savings account using his debit card at a bar. Steve must request a staff member to initiate and process the cash withdrawal transaction. To process the request, the bar staff member uses an EFTPOS device that is primarily used to process payments for purchases made at the bar. Once the transaction is authorised, the staff member removes the $100 from the cash register and hands it over the bar to Steve. The EFTPOS device and cash register are not an ATM and the supply of the service is not an ATM service. The merchant advises Steve that there is a $2 surcharge to use the debit card facility. The surcharge has a sufficient nexus with the service supplied to Steve of accessing the relevant payment system to be regarded as being paid for the supply. The merchant makes a taxable supply for which it is liable for GST of $0.18.
 Debit card surcharge – purchase and withdrawal of cash
@@ -254,7 +252,7 @@ Debit card surcharge – purchase and withdrawal of cash
 40. A debit card surcharge forms part of the consideration for both the supply of goods or services and the service of accessing the relevant payment system where the surcharge is calculated as a percentage of the listed price
 [9]
 of the goods or services and the amount of cash withdrawn. This is because the surcharge has a sufficient nexus with all of the supplies made by the merchant to the customer. The merchant may allocate the debit card surcharge to the different supplies using any fair and reasonable method of apportionment.
-Example 9:  Debit card surcharge – fixed amount
+Example 9: Debit card surcharge – fixed amount
 41.
 Joanne purchases meat from a shop with a displayed price of $20. A sign at the store's counter states that all debit card transactions incur a flat $2 surcharge.
 42.
@@ -263,7 +261,7 @@ While paying for the meat using her debit card, the merchant offers Joanne an op
 When Joanne pays for the meat and withdraws $50 cash using her debit card the merchant imposes a surcharge of $2.
 44.
 The price of the meat is $22 as the $2 surcharge forms part of the consideration for the supply. The surcharge has a sufficient nexus with the supply of the meat to be regarded as being paid for that supply alone. It does not have a sufficient nexus with the supply of the service to access the relevant payment system as the surcharge remains the same regardless of whether Joanne exercises the option to make a cash withdrawal. No GST is imposed because the supply of the meat is GST-free under section 38-2.
-Example 10:  Debit card surcharge – percentage
+Example 10: Debit card surcharge – percentage
 45.
 Assume the same facts as for Example 9 of this Ruling, except that the merchant charges a surcharge calculated as 1.5% of the combined price of the meat and amount of the cash withdrawal. In addition, Joanne must request a staff member to initiate and process the payment and cash withdrawal transaction. To process the request, the staff member uses an EFTPOS device that is primarily used to process payments for purchases made at the shop. Once the transaction is authorised, the staff member removes the cash from the cash register and hands it over the counter to Joanne. The EFTPOS device and cash register are not an ATM and the supply of the service is not an ATM service.
 46.
@@ -462,39 +460,39 @@ Example A1: Cash dispensing device – an ATM
 7A
 Example A2: Cash dispensing device – not an ATM
 7E
-Example A3: Withdrawal of cash and no purchase –  not an ATM
+Example A3: Withdrawal of cash and no purchase – not an ATM
 7I
 Credit card surcharge – where no ATM service
 7P
-Example 1:  Credit card surcharge – taxable supply
+Example 1: Credit card surcharge – taxable supply
 14
-Example 2:  Credit card surcharge – agent
+Example 2: Credit card surcharge – agent
 16
-Example 3:  Credit card surcharge – GST-free supply
+Example 3: Credit card surcharge – GST-free supply
 17
-Example 4:  Credit card surcharge – apportionment
+Example 4: Credit card surcharge – apportionment
 19
-Example 5:  Credit card surcharge – incurred after supply
+Example 5: Credit card surcharge – incurred after supply
 22
-Credit card surcharge on payment of taxes, fees or  charges subject to Division 81
+Credit card surcharge on payment of taxes, fees or charges subject to Division 81
 26
-Example 6:  Payment for an Australian fee or charge  subject to Division 81
+Example 6: Payment for an Australian fee or charge subject to Division 81
 27
 Debit card surcharge – where no ATM service
 29
 Debit card surcharge – purchase of goods or services
 29
-Example 7:  Debit card surcharge and purchase of goods
+Example 7: Debit card surcharge and purchase of goods
 34
 Debit card surcharge – withdrawal of cash
 36
-Example 8:  Debit card surcharge and withdrawal of cash
+Example 8: Debit card surcharge and withdrawal of cash
 37
 Debit card surcharge – purchase and withdrawal of cash
 38
-Example 9:  Debit card surcharge – fixed amount
+Example 9: Debit card surcharge – fixed amount
 41
-Example 10:  Debit card surcharge – percentage
+Example 10: Debit card surcharge – percentage
 45
 Date of effect
 48
@@ -504,7 +502,7 @@ ATM services
 50
 Credit card surcharge – where no ATM service
 59K
-Credit card surcharge on payment of taxes, fees or  charges subject to Division 81
+Credit card surcharge on payment of taxes, fees or charges subject to Division 81
 72
 Debit card surcharge – where no ATM service
 75
@@ -558,7 +556,7 @@ the Payment Systems (Regulation) Act 1998
 .
 [8]
 This service of accessing the relevant payment system is not a supply covered by table item 6(b) of subsection 70-5.02(2) of the GST Regulations concerning reduced credit acquisitions. See paragraphs 244 to 254 of Goods and Services Tax Ruling GSTR 2004/1
-Goods and services tax:  reduced credit acquisitions
+Goods and services tax: reduced credit acquisitions
 .
 [9]
 In this context, the listed price of the goods or services excludes the debit card surcharge.
@@ -588,7 +586,7 @@ Banktech
 at [21].
 [16]
 See paragraphs 30 to 31 of Goods and Services Tax Ruling GSTR 2003/12
-Goods and services tax:  when consideration is provided and received for various payment instruments and other methods of payment
+Goods and services tax: when consideration is provided and received for various payment instruments and other methods of payment
 .
 [17]
 See Standard No. 3 of 2016 Scheme Rules Relating to Merchant Pricing for Credit, Debit and Prepaid Card Transactions, made under section 18 of the
@@ -598,9 +596,9 @@ Payment Systems (Regulation) Act 1998
 Paragraph 9-5(a).
 [19]
 See also Goods and Services Tax Ruling GSTR 2012/2
-Goods and services tax:  financial assistance payments
+Goods and services tax: financial assistance payments
 and Goods and Services Tax Ruling GSTR 2001/8
-Goods and services tax:  non-monetary consideration
+Goods and services tax: non-monetary consideration
 .
 [20]
 AP Group Limited v Commissioner of Taxation
@@ -613,7 +611,7 @@ See GSTR 2001/8.
 This will depend on whether the supply made by the merchant was a taxable supply under section 9-5 with GST being attributed to an earlier tax period and whether the acquisition by the customer was a creditable acquisition under section 11-5 with an input tax credit being attributed to an earlier tax period.
 [24]
 Under section 40-5, subsection 40-5.09(1) and table item 2 of subsection 40-5.09(3) of the GST Regulations. See paragraphs 29 to 32 of Goods and Services Tax Ruling GSTR 2000/19
-Goods and services tax:  making adjustments under Division 19 for adjustment events
+Goods and services tax: making adjustments under Division 19 for adjustment events
 .
 [25]
 See Designation No 1 of 2012 under the
@@ -665,7 +663,7 @@ Previously released in draft form as GSTR 2014/D2
 Previously released as draft consolidation GSTR 2014/2DC2
 References
 ATO references:
-NO  1-5QT74VC
+NO 1-5QT74VC
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

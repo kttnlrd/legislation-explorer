@@ -3,23 +3,18 @@ ATO ID 2003/1139
 ==================================================
 
 Income Tax
-        General value shifting regime: direct value shift - exempt entity
-        FOI status: may be released
-
+ General value shifting regime: direct value shift - exempt entity
+ FOI status: may be released
 
 This ATO ID is withdrawn as the issue is addressed in another ATO view document - Guide to the General Value Shifting Regime.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the adjustable values of up interests that an affected owner owns in a target entity for a direct value shift, be uplifted under Subdivision 725-D of the Income Tax Assessment Act 1997 (ITAA 1997) if the value is shifted from down interests owned by another affected owner, that is a tax exempt entity under Subdivision 50-A of the ITAA 1997?
@@ -37,8 +32,6 @@ Reasons for Decision
 A direct value shift involving equity or loan interests in a company or trust will have consequences for affected owners of down interests and up interests where the threshold conditions in Subdivision 725-A of the ITAA 1997 are met.
 In this case, there is a direct value shift involving equity or loan interests in a company as there is a decrease in the market value of the shares (down interests) held by Entity A in Company P (the target entity) and shares (up interests) are issued to B at a discount: section 725-145 of the ITAA 1997. The threshold conditions in Subdivision 725-A of the ITAA 1997 are satisfied as:
 
-
-
 • Company P is a company: paragraph 725-50(a) of the ITAA 1997
 • Entity A controls Company P at some time during the scheme period: paragraph 725-50(b) of the ITAA 1997 and sections 725-55 and 727-355 of the ITAA 1997
 • the thing under the scheme that led to the decreases in market value and issues at a discount, being the decision to issue the new shares at a discount, was done by the controller Entity A: paragraph 725-50(c) of the ITAA 1997 and subsection 725-65(1) of the ITAA 1997
@@ -49,8 +42,6 @@ In this case, there is a direct value shift involving equity or loan interests i
 Consequences for the down interests
 The consequences under Subdivision 725-D for the down interests owned by Entity A depend on whether those interests have a pre-shift gain or a pre-shift loss. Because their respective market values, immediately before they decrease in value, exceed their cost bases and reduced cost bases at that time, there is a pre-shift gain for each of those interests: subsections 725-210(2) and 725-240(2) and (6) of the ITAA 1997.
 As there are pre-shift gains for the interests, and value is shifted from these interests to up interests that are held by another affected owner, B, the consequences under Subdivision 725-D for the down interests held by entity A will be:
-
-
 
 • taxing events generating a gain: item 4 in the table in section 725-245 of the ITAA 1997, and
 • decreases in adjustable values, to be worked out under section 725-365 of the ITAA 1997: item 6 in the table in subsection 725-250(2) of the ITAA 1997.
@@ -63,10 +54,10 @@ The increase adjustments calculated under section 725-375 of the ITAA 1997 will 
 In this case however, the owner of the down interests, Entity A, is not taxed on the capital gain it made under CGT event K8 because it is an exempt entity. Despite this, increasing the adjustable values under section 725-375 of the ITAA 1997 to reflect the full amount of the economic value shifted is still appropriate as it ensures the same capital gains tax outcomes arise for the value shift as those which would arise if Entity A had disposed of some of their interests to B. In that case, B would receive a cost base for its interests reflecting, in effect, the full amount of their economic value even though Entity A would not be taxed on the capital gain it made under CGT event A1 in section 104-10 of the ITAA 1997, because it is an exempt entity.
 Accordingly, the tax exempt status of an affected owner of down interests in a target entity does not prevent uplifts being made to the adjustable values of up interests in that entity owned by other affected owners.
 Date of decision:
-         25 November 2003
+  25 November 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -75,29 +66,25 @@ Income Tax Assessment Act 1997   Subdivision 50-A   section 50-1   sect
 Keywords
 
 capital gains tax
-          share value shifting arrangements
-          exempt entities
-
+ share value shifting arrangements
+ exempt entities
 
 Business Line:
-         Losses & Capital Gains Tax Centre of Expertise
+  Losses & Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         19 December 2003
+  19 December 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 25 November 2003

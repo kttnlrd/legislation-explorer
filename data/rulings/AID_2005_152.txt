@@ -3,18 +3,14 @@ ATO ID 2005/152
 ==================================================
 
 Income Tax
-        Research and Development: group membership period under section 73R of the ITAA 1936
-        FOI status: may be released
-
-
+ Research and Development: group membership period under section 73R of the ITAA 1936
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a company, now controlled by a person under section 73L of the Income Tax Assessment Act 1936 (ITAA 1936), was previously not controlled by any person within the meaning of that section, has there been change in control of the company for the purposes of paragraph 73R(2)(a) of the ITAA 1936?
@@ -32,18 +28,16 @@ Step 2 of the method statement states:
 
 Work out the day before the last day of the Y0 year of income, or the first day of the Y-3 year of income, whichever is the later, when a company that is a primary group member:
 
-
-
 (a)was controlled, as mentioned in section 73L, by a person other than a person who controlled it as at the last day of the Y0 year of income; or
 (b)acted, or could be expected to act, in accordance with the directions or wishes of a person other than a person in accordance with whose directions or wishes it acted, or could be expected to act, as at the last day of the Y0 year of income.
 
 The period between this day and the last day of the Y0 year of income is that company's
-              group membership period.
+ group membership period.
 
 The question is what is meant by the phrase in paragraph 73R(2)(a) of the ITAA 1936, 'was controlled, as mentioned in section 73L, by a person other than a person who controlled [the company] as at the [relevant day]'. Paragraph 4.17 of the Explanatory Memorandum to the Taxation Laws Amendment (Research and Development) Bill 2001 (Explanatory Memorandum) says:
 
 Step 2 . . . determines the group membership period of the primary group members. The primary group members
-              group membership period
+ group membership period
  extends from the day their control changed which caused them to come into the group to the last day of the income year. The group membership period will not commence before the first day of the income year 3 years before the current income year.
 
 Section 73R of the ITAA 1936 clearly operates where a company was, at all relevant times, controlled by a person or persons under section 73L of the ITAA 1936. However, on a literal interpretation, the words used would not recognize a change in control where, previously, no person(s) controlled the company within the meaning of section 73L of the ITAA 1936. However, paragraph 4.17 of the Explanatory Memorandum indicates that the day upon which the company came into the group of which it was a member of the last day of the Y0 year of income, was envisaged as defining the group membership period.
@@ -51,19 +45,17 @@ Further, where a company was not previously controlled by any person(s), it cann
 Here, there has been a change in control causing the company to come into the group of which it was a member on the last day of the Y0 year of income. Further, this type of change is envisaged by paragraph 4.17 of the Explanatory Memorandum. On this basis, paragraph 73R(2)(a) of the ITAA 1936 is interpreted to apply where a change in control is the result of a company not controlled by any person within the meaning of section 73L of the ITAA 1936, coming under a person(s) control.
 Therefore, the group membership period of company S is the period between the day upon which the company commenced to be controlled under section 73L of the ITAA 1936 (by the person who controlled it on the last day of the Y0 year of income) and the last day of the Y0 year of income.
 
-
 Note: Where paragraph 73R(2)(a) of the ITAA 1936 is not satisfied, regard then would be had to the alternative test contained in paragraph 73R(2)(b) of the ITAA 1936.
 
 Date of decision:
-         23 May 2005
+  23 May 2005
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 73L   section 73R   subsection 73R(2)   paragraph 73R(2)(a)
-
 
 Related ATO Interpretative Decisions
 
@@ -72,17 +64,16 @@ Related ATO Interpretative Decisions
 Keywords
 
 Research & development expenses
-          Grouped entities for research and development
-
+ Grouped entities for research and development
 
 Siebel/TDMS Reference Number:
-         4577212
+  4577212
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         3 June 2005
+  3 June 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

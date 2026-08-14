@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Debit**
 
-**(1)**  A consolidated imputation group (the main group) may choose to have an imputation debit for the amount of an imputation credit (the credit) in the main group’s imputation credit account if—
+**(1)**  A consolidated imputation group (the main group) may choose to have an imputation debit for the amount of an imputation credit (the credit) in the main group's imputation credit account if—
 
 - (a) the credit arises under section OP 7 or OP 8 from a payment (the unused imputation credit payment) by a consolidated group (the part group) that is part of the main group; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Debit date**
 
-**(3)**  The debit date is the date of the credit to the consolidated imputation group’s imputation credit account for the unused imputation credit payment.
+**(3)**  The debit date is the date of the credit to the consolidated imputation group's imputation credit account for the unused imputation credit payment.
 
 *Defined in this Act: amount, Commissioner, company, consolidated imputation group, imputation credit, imputation credit account, imputation debit, income tax, pay, provisional tax, tax pooling intermediary*
 

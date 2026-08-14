@@ -8,7 +8,7 @@ Back to browse
 43 related documents
 Taxation Ruling
 TR 2014/8
-Income tax:  transfer pricing documentation and Subdivision 284-E
+Income tax: transfer pricing documentation and Subdivision 284-E
 Please note that the
 PDF version
 is the authorised version of this ruling.
@@ -314,7 +314,7 @@ What are the arm's length conditions and is/was the transfer pricing treatment a
 5.
 Have any material changes and updates been identified and documented?
 81. The ATO recommends that an entity considers all five questions (not necessarily sequentially) in light of its own facts and circumstances, including the relative complexity and materiality of its relevant dealings and its self-assessed risk.
-Question 1:  What are the actual conditions that are relevant to the matter (or matters)?
+Question 1: What are the actual conditions that are relevant to the matter (or matters)?
 82. Application of the arm's length principle in Subdivision 815-B or 815-C in the ITAA 1997 is based on a comparison of the actual conditions with the arm's length conditions. Accordingly, paragraphs 284-255(2)(d) and (e) specify that the transfer pricing documentation must allow for the actual conditions (or the actual profits) relevant to the matter (or matters) to be readily ascertained.
 83. An entity's documentation should explain its characterisation of the relevant dealings that may be integral to its transfer pricing treatment. In other words, the documentation should explain what the economically significant characteristics are, or what the nature of what was done or is being done is.
 84. Paragraph 35 of TR 2014/6 states that:
@@ -370,7 +370,7 @@ the economic significance of the factors in relation to the actual conditions ha
 why things were done in that particular way in the context of the actual commercial or financial relations..
 96. In particular, for business restructures, the documentation should explain any options realistically available. This could include the option of doing nothing (for example, continuing to perform the function or assume the risk itself).
 [31]
-Question 2:  What are the comparable circumstances relevant to identifying the arm's length conditions?
+Question 2: What are the comparable circumstances relevant to identifying the arm's length conditions?
 97. The documentation should allow for the comparable circumstances relevant to identifying the arm's length conditions to be 'readily ascertained'. The comparable circumstances relevant to identifying the arm's length conditions should be clear or apparent and evident from the documentation. It should be possible to gauge from the documentation the degree of comparability between the actual circumstances and the comparable circumstances, having regard to:
 •
 the comparability factors in subsection 815-125(3) of the ITAA 1997, and
@@ -379,7 +379,7 @@ how and why any adjustments made under subsection 815-125(4) of the ITAA 1997 ca
 98. It should be clear from the documents that the identified comparable circumstances are consistent with the prescribed guidance material. Further assistance can be found in the 2010 OECD TP Guidelines at paragraph 1.33.
 99. For further guidance on the factors determining comparability, refer to paragraphs 1.38 to 1.63 of the 2010 OECD TP Guidelines.
 100. If potential comparable circumstances are not documented at all, and it is reasonable to expect that those potential comparable circumstances should have been identified and considered, because it is or was evidently material to the application of the Subdivision, an entity risks having an undocumented transfer pricing treatment. If documented comparable circumstances are inexplicably inconsistent with the 2010 OECD TP Guidelines, an entity again bears a similar risk. If potential comparable circumstances were identified but there is a failure to reach consensus on the explanation about why it was included or rejected, then this should not in and of itself result in a view that the transfer pricing treatment has not been documented.
-Question 3:  What are the particulars of the methods used to identify the arm's length conditions?
+Question 3: What are the particulars of the methods used to identify the arm's length conditions?
 101. The documentation should allow the particulars of the methods used relevant to identifying the arm's length conditions to be readily ascertained.
 [32]
 The documentation should explain why the method used is the most appropriate and reliable and should include consideration of the relevant factors in subsection 815-125(2) of ITAA 1997. The documentation, in explaining the method or combination of methods used, should draw upon the information documented for the actual conditions and comparable circumstances.
@@ -401,7 +401,7 @@ The method must be capable of practicable application and produce an arm's lengt
 105. In instances where an alternative method or combination of methods to OECD-recognised methods provides a more appropriate arm's length outcome, the selection should be supported by an explanation of why OECD-recognised methods were regarded as less appropriate and why the alternative method or combination of methods selected was regarded as more appropriate.
 [34]
 106. Further information on the transfer pricing methods is outlined in chapter II of the 2010 OECD TP Guidelines.
-Question 4:  What are the arm's length conditions and is/was the transfer pricing treatment appropriate?
+Question 4: What are the arm's length conditions and is/was the transfer pricing treatment appropriate?
 107. The documentation must allow for the arm's length conditions to be readily ascertained and must explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters).
 108. The arm's length conditions should be clearly identified and explained in the context of the particulars of the method or combination of methods used in identifying the arm's length conditions and the relevant comparable circumstances.
 109. To document a transfer pricing treatment, the documentation should explain the application of the arm's length principle in Subdivision 815-B or 815-C in the ITAA 1997, which is based on a comparison of the actual conditions with the arm's length conditions.
@@ -413,7 +413,7 @@ Question 4:  What are the arm's length conditions and is/was the transfer pricin
 113. If the actual profits differ from the arm's length profits, thereby giving rise to a transfer pricing benefit, the arm's length profits are taken to have been attributed to the permanent establishment of an entity.
 114. If the entity's documentation shows that the Subdivision applies and the entity is required to substitute the arm's length conditions or the arm's length profits, the entity should document how they gave effect to this in working out their Australian tax position.
 115. Relevantly, in considering question 4, it should be clear from the documentation that the identification of the arm's length conditions is supported by the actual conditions, the method selected, comparable circumstances and that the transfer pricing treatment best achieves consistency with the prescribed guidance material. It may be advisable in some cases to check the commerciality of the outcome at this step with the application of another transfer pricing method. That is, another method may be used as a cross check to ensure that the outcome is consistent with the arm's length principle. For instance, if a CUP is the primary method, the commercial outcomes may be checked with a profit method. This cross check may indicate that there is an issue with one of the elements of the documentation but would not in and of itself mean that the transfer pricing treatment will be treated as undocumented.
-Question 5:  Have any material changes and updates been identified and documented?
+Question 5: Have any material changes and updates been identified and documented?
 116. One of the Subdivision 284-E requirements is that the records are contemporaneous. If documentation is for a relevant dealing that is relevant to more than one income year, the documentation will need to be updated to include any changes that are likely to have a material effect on transfer pricing treatment for that year.
 117. For transfer pricing documentation to be contemporaneous, an entity needs to identify, record and explain any material changes.
 118. Paragraph 3.82 of the 2010 OECD TP Guidelines states:
@@ -597,9 +597,9 @@ See paragraph 108 to 109 of PS LA 2014/2 which sets out the remission circumstan
 [17]
 In relation to section 815-130 of the ITAA 1997, see also paragraphs 49 to 57 and 122 of this Ruling and TR 2014/6.
 [18]
-For electronic records, the Electronic Transactions Act 1999 requires that those records be 'readily accessible so as to be usable for subsequent reference'. Taxation Ruling TR 2005/9 Income Tax:  record keeping - electronic records, at paragraph 19, states, 'It is expected that that electronically stored information should be retrievable on the taxpayer's computer system and or databases for the full retention period required by law and that where electronic records are made available in compliance with record keeping requirements that they be 'readily accessible'.
+For electronic records, the Electronic Transactions Act 1999 requires that those records be 'readily accessible so as to be usable for subsequent reference'. Taxation Ruling TR 2005/9 Income Tax: record keeping - electronic records, at paragraph 19, states, 'It is expected that that electronically stored information should be retrievable on the taxpayer's computer system and or databases for the full retention period required by law and that where electronic records are made available in compliance with record keeping requirements that they be 'readily accessible'.
 [19]
-See paragraph 47 to 48 of Taxation Ruling TR 96/7 Income Tax:  record keeping - section 262A - general principles states that 'keep' means to make and retain for the purposes of section 262A of the ITAA 1936. The view taken in this ruling is consistent with that view.
+See paragraph 47 to 48 of Taxation Ruling TR 96/7 Income Tax: record keeping - section 262A - general principles states that 'keep' means to make and retain for the purposes of section 262A of the ITAA 1936. The view taken in this ruling is consistent with that view.
 [20]
 "The meaning of the term 'explain' is consistent with the meaning applied in TR 96/7 in the context of section 262A of the ITAA 1936 (paragraph 30 of TR 96/7)"
 [21]
@@ -637,7 +637,7 @@ Section 815-215, 815-220 and 815-225 of the ITAA 1997.
 Previously released in draft form as TR 2014/D4
 References
 ATO references:
-NO  1-5EO68X8
+NO 1-5EO68X8
 ISSN: 1039-0731
 Related Rulings/Determinations:
 TR 96/7

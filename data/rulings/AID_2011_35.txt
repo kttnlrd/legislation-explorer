@@ -3,21 +3,17 @@ ATO ID 2011/35
 ==================================================
 
 Income Tax
-        Permanent Establishment of a US Limited Liability Company
-        FOI status: may be released
-
+ Permanent Establishment of a US Limited Liability Company
+ FOI status: may be released
 
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the  Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections  3AAA or  3AAB of the International Tax Agreements Act 1953.
-
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxpayer's share of business income, derived through a US permanent establishment of a US Limited Liability Company that is a foreign hybrid company for Australian income tax purposes, non-assessable non-exempt income of the taxpayer under section 23AH of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -35,8 +31,6 @@ The US LLC is a foreign hybrid company under section 830-15 of the Income Tax As
 Reasons for Decision
 The objects of section 23AH of the ITAA 1936 are stated in subsection 23AH(1) as follows:
 
-
-
 (a)to ensure that active foreign branch income derived by a resident company, and capital gains made by a resident company in disposing of non-tainted assets used in deriving foreign branch income ... are not assessable income or exempt income of the company; and
 (b)to include in the assessable income of a resident company that part of its income and capital gains derived through a branch in a foreign country that is comparable to the amounts that would be included in an attributable taxpayer's assessable income for income and capital gains derived by a CFC resident in the same foreign country; and
 (c)to get the same outcomes where one or more partnerships or trusts are interposed between a resident company and a foreign branch.
@@ -46,8 +40,6 @@ The operative provision is in subsection 23AH(2) of the ITAA 1936, which provide
 Subject to this section, foreign income derived by a company, at a time when the company is a resident in carrying on a business, at or through a PE of the company in a listed country or unlisted country is not assessable income, and is not exempt income, of the company.
 
 Therefore, for subsection 23AH(2) of the ITAA 1936 to apply, the taxpayer must be a resident company that:
-
-
 
 •derives foreign income;
 •at or through a permanent establishment (PE) in a listed or unlisted country; and
@@ -66,8 +58,6 @@ Application of subsection 23AH(10)
 For the purposes of section 23AH of the ITAA 1936, subsection 23AH(10) provides that:
 This section applies to any indirect interest (through one or more partnerships or trust estates) of a company in foreign income derived by a partnership or trustee through a PE of the partnership or trustee in a listed country or unlisted country as if that indirect interest were foreign income derived by the company through a PE of the company in that country.
 Therefore, subsection 23AH(10) of the ITAA 1936 will apply if:
-
-
 
 •the taxpayer has an indirect interest (through the US LLC as a partnership) in foreign income; and
 •the foreign income is derived by the US LLC at or through a PE of the US LLC in a listed or unlisted country.
@@ -103,16 +93,14 @@ Conclusion
 
 The business income derived by the taxpayer indirectly through a PE of the US LLC, which is treated as foreign hybrid for Australian income tax purposes, will be non-assessable non-exempt income of the taxpayer under subsection 23AH(2) of the ITAA 1936.
 
-
-
 Note
-                : the exception in subsection 23AH(5) of the ITAA 1936 will not apply to the taxpayer in the present case, as the income derived by the taxpayer through the PE of the US LLC is neither adjusted tainted income nor eligible designated concession income.
+ : the exception in subsection 23AH(5) of the ITAA 1936 will not apply to the taxpayer in the present case, as the income derived by the taxpayer through the PE of the US LLC is neither adjusted tainted income nor eligible designated concession income.
 
 Date of decision:
-         20 May 2011
+  20 May 2011
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -121,7 +109,6 @@ Income Tax Assessment Act 1997   section 830-15   section 830-20   sect
 International Tax Agreements Act 1997   Schedule 2, Article 5
 
 Case References:
-
 
 AAT Case 12/95 AAT Case 10,079   (1995) 95 ATC 175   (1995) 30 ATR 1169
 
@@ -145,22 +132,21 @@ ATO ID 2008/117
 Keywords
 
 Foreign hybrid company
-          Foreign hybrids
-          International tax
-          Non-assessable non-exempt income
-          Partnerships
-          Permanent establishment
-          Statutory interpretation
-
+ Foreign hybrids
+ International tax
+ Non-assessable non-exempt income
+ Partnerships
+ Permanent establishment
+ Statutory interpretation
 
 Siebel/TDMS Reference Number:
-         1-30ZH5FC
+  1-30ZH5FC
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         27 May 2011
+  27 May 2011
 
 ISSN:
-          1445-2782
+ 1445-2782

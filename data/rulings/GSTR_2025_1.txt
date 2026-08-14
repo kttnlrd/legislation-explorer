@@ -4,30 +4,28 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 156
-  • Div 23
-  • Div 32
-  • Div 34
-  • Div 38
-  • Div 8
-  • Div 84
-  • Division 11
-  • Division 156
-  • Division 19
-  • Division 23
-  • Division 3
-  • Division 32
-  • Division 34
-  • Division 38
-  • Division 40
-  • Division 8
-  • Division 84
-  • Subdivision 38-E
-  • Subdivision 40-B
+ • Div 156
+ • Div 23
+ • Div 32
+ • Div 34
+ • Div 38
+ • Div 8
+ • Div 84
+ • Division 11
+ • Division 156
+ • Division 19
+ • Division 23
+ • Division 3
+ • Division 32
+ • Division 34
+ • Division 38
+ • Division 40
+ • Division 8
+ • Division 84
+ • Subdivision 38-E
+ • Subdivision 40-B
 
 Topics: GST, FBT, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -1248,7 +1246,7 @@ Subsection 38-190(3) does not negate the GST-free status otherwise applicable to
 368.
 Note: the provision of the supply by the non-resident airline company to its Australian subsidiary results in a separate supply between the non-resident (the recipient of the original supply) and the Australian subsidiary (the recipient of the separate supply). A separate supply of this kind may be reverse charged to the recipient of the separate supply in certain circumstances.
 [52]
-Example 21 – supply of tax return preparation services made to a non  -resident employer and provided to employees
+Example 21 – supply of tax return preparation services made to a non -resident employer and provided to employees
 369.
 An Australian-resident accounting firm enters into an arrangement with a non-resident company to complete foreign tax returns for the non-resident company's employees working in Australia on secondment with a client of the non-resident. The non-resident company does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf. While the employees (who are non-residents for Australian income tax purposes) are in Australia, they meet with the Australian-resident accounting firm in the course of preparing their tax returns. The employees are available to answer questions and provide any further information. The returns are completed and signed by each employee while the employee is in Australia.
 370.
@@ -1784,7 +1782,7 @@ Subsection 184-5(1).
 Assuming that the requirements of section 9-5 are otherwise satisfied.
 References
 ATO references:
-NO  1-WVNF425
+NO 1-WVNF425
 ISSN: 2205-6122
 Related Rulings/Determinations:
 GSTR 2025/2

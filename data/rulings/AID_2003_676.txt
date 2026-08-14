@@ -3,22 +3,17 @@ ATO ID 2003/676
 ==================================================
 
 Income Tax
-        Capital gains tax: foreign source income made by a resident trust
-        FOI status: may be released
-
+ Capital gains tax: foreign source income made by a resident trust
+ FOI status: may be released
 
 Note: This ATO ID contains a view in respect of section 98 of the Income Tax Assessment Act 1936 as it operated prior to amendments introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011 (including the introduction of Division 6E of Part III of the Income Tax Assessment Act 1936). Except in the case of some early balancing trusts and managed investment trusts, those amendments take effect from the 2010-11 and later income years.
 This ATO ID has been amended to clarify legislative changes made by Tax Laws Amendment (2007 Measures No 3) Act 2007, and also Tax Laws Amendment (2006 Measures No 4) Act 2006 which is applicable to CGT events that happen on or after 12 December 2006. However these changes do not affect the decision in this interpretative decision.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is an Australian resident trustee assessable under subsection 98(4) of the Income Tax Assessment Act 1936 (ITAA 1936) on any resulting net capital gain on the vesting of the trust and registration of the trust assets, being shares in a foreign company, in the names of the non-resident beneficiaries?
@@ -39,16 +34,15 @@ Thus, where shares are sold using an offshore broker, the buying and selling is 
 Therefore, in applying the common law rules, the source of the capital gain made by the trustee will be outside Australia. This is because the shares in the foreign company are only traded on foreign stock exchanges and can only be bought and sold via an overseas broker and, as the company is trading overseas, from a practical viewpoint, the increase in the economic value of the shares would occur outside Australia.
 Accordingly, as the source of the capital gain is outside Australia, the trustee is not assessable under subsection 98(4) of the ITAA 1936 on any resulting net capital gain from the vesting of the trust and registration of the shares in the names of the non-resident beneficiaries.
 
-
 Note 1: Subsection 98(4) of the ITAA 1936 has been amended by the Tax Laws Amendment (2007 Measures No 3) Act 2007 by extending a trustee's liability to pay tax to cases where a non-resident beneficiary is a trustee of another trust and is presently entitled to income of the first trust. However, this change does not affect the decision in this interpretative decision.
 
 Note 2: Section 136-25 of the ITAA 1997 is no longer relevant because Division 136 of the ITAA 1997 was repealed by the Tax Laws Amendment (2006 Measures No 4) Act 2006, with effect from 12 December 2006, applicable to CGT events that happen on or after 12 December 2006. Division 136 has been replaced by Division 855 in the ITAA 1997, and the reference to 'necessary connection with Australia' is replaced by the reference to 'taxable Australian property'. However, this change does not affect the decision in this interpretative decision.
 
 Date of decision:
-         23 June 2003
+  23 June 2003
 
 Year of income:
-           Year ending 30 June 2003 Year ending 30 June 2004
+  Year ending 30 June 2003 Year ending 30 June 2004
 
 Legislative References:
 
@@ -57,9 +51,7 @@ Income Tax Assessment Act 1997   section 855-15
 
 Case References:
 
-
 Australian Machinery & Investment Co Ltd v. Deputy Commissioner of Taxation   (1946) 180 CLR 9   (1946) 3 AITR 359   (1946) 8 ATD 81
-
 
 Related Public Rulings (including Determinations)
 
@@ -74,23 +66,22 @@ Related ATO Interpretative Decisions
 Keywords
 
 Capital gains tax
-          Capital gains
-          Foreign income
-          Foreign source income
-          Non resident beneficiaries
-          Trusts
-          Discretionary trusts
-          Trustees
-
+ Capital gains
+ Foreign income
+ Foreign source income
+ Non resident beneficiaries
+ Trusts
+ Discretionary trusts
+ Trustees
 
 Siebel/TDMS Reference Number:
-         3401335
+  3401335
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         1 August 2003
+  1 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

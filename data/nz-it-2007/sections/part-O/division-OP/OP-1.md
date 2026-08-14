@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Separate accounts**
 
-**(3)**  A consolidated group’s memorandum account is separate from the memorandum account of each company in the consolidated group.
+**(3)**  A consolidated group's memorandum account is separate from the memorandum account of each company in the consolidated group.
 
 **General rules**
 

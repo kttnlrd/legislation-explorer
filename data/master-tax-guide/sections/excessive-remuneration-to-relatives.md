@@ -17,6 +17,6 @@ For a discussion of this power in relation to payments made by a partnership, se
 
 - a partnership, a partner in which is a relative of the taxpayer.
 
-What is a reasonable salary must be decided on the facts of each case, but a “commercial standards” test has been applied in the past. This test assumes, in eﬀect, that the amount that would be reasonable when paid for those services as performed by an outsider does not cease to be reasonable when paid to a relative performing the same services under the same or similar conditions (TR 1999/10 provides an example regarding members of parliament). allowances
+What is a reasonable salary must be decided on the facts of each case, but a "commercial standards" test has been applied in the past. This test assumes, in eﬀect, that the amount that would be reasonable when paid for those services as performed by an outsider does not cease to be reasonable when paid to a relative performing the same services under the same or similar conditions (TR 1999/10 provides an example regarding members of parliament). allowances
 
 *Refs: ITAA97 s 26-35*

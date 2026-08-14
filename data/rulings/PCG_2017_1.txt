@@ -131,11 +131,11 @@ Low risk benchmark
 189
 Calculating hub revenue, costs and profit
 200
-Example 3:  non-core procurement hub that does not take title to goods
+Example 3: non-core procurement hub that does not take title to goods
 211
-Example 4:  non-core procurement hub that does not take title to goods and operates a shipping business
+Example 4: non-core procurement hub that does not take title to goods and operates a shipping business
 214
-Example 5:  non-core procurement hub that takes title to goods on DES
+Example 5: non-core procurement hub that takes title to goods on DES
 216
 Full CFC attribution - move to green zone
 219
@@ -185,7 +185,7 @@ Date of effect
 13. This Guideline will have effect from 1 January 2017 and will apply to existing and newly created hubs.
 14. The schedules will have effect from the date of effect stated in each schedule.
 15. The use and application of this Guideline will be under continuous review over the next three years. Any revisions to improve its efficacy will be made at the end of the review period or on an 'as necessary' basis. We will consult with you in relation to proposed material changes.
-PART A:  THE HUB RISK FRAMEWORK
+PART A: THE HUB RISK FRAMEWORK
 The business models
 16. The structures put in place to facilitate centralised operating models may take a wide range of legal forms. For hubs the basic business models involve the 'greenfields' establishment or 'brownfields' use of a related party entity (or entities), which acts as a principal or agent in relation to the procurement or sale of goods or commodities by or on behalf of an Australian resident multi-national enterprise (MNE) without substantially altering the goods or commodities. Activities undertaken and risks assumed by the related party hub entity are usually rewarded by way of a fee or discount on the price of the underlying goods or commodities being purchased or sold.
 17. It is usually the case that the arrangement is predicated on a commercial rationale.
@@ -199,7 +199,7 @@ an ability to access economies of scale in the procurement of third party servic
 benefits associated with key staff being located 'close to market' - for example, where aspects of the 'marketing function' (broadly defined) are centralised and conducted through an intermediary located in a jurisdiction closer to major markets and customers.
 18. The specific legal form and underlying substance of a given arrangement are critical to an understanding of the appropriate tax treatment. Although compliance with Australia's transfer pricing rules is the primary tax risk in focus in this Guideline, it may be the case that other provisions (such as Australia's capital gains tax; controlled foreign corporations, the general anti-avoidance rules and the proposed diverted profits tax) are also relevant.
 19. Significantly, this Guideline is premised on the basis that your hub has commercial and economic substance. The comments and guidance provided by Taxation Ruling TR 2014/6
-Income tax:  transfer pricing - the application of section 815-130 of the Income Tax Assessment Act 1997
+Income tax: transfer pricing - the application of section 815-130 of the Income Tax Assessment Act 1997
 will assist you in this regard. In particular, you should pay close attention to whether any of the exceptions to the basic rule apply to your circumstances and consider adjusting your arrangement as appropriate (refer to paragraphs 44 to 61 of TR 2014/6).
 20. If your arrangement is one that independent entities would not have entered into or one that would have been entered on different commercial or financial relations, then this Guideline will not apply to your circumstances.
 The ATO's role
@@ -430,7 +430,7 @@ the behaviour is such that we need to send a strong message to the community tha
 (c)
 the dispute is intractable, alternative means of resolving the dispute have been attempted but have not produced an acceptable outcome.
 [19]
-PART B:  GUIDANCE FOR PREPARING YOUR TRANSFER PRICING ANALYSIS
+PART B: GUIDANCE FOR PREPARING YOUR TRANSFER PRICING ANALYSIS
 Preparing your transfer pricing analysis - areas of focus
 109. Part B provides guidance to assist you with your transfer pricing analysis if your risk rating is outside the green zone. This part does not form part of the risk assessment process but rather is designed to help you to understand the types of enquiries that you may receive from the ATO if your hub is subject to review and potential areas of concerns. It is envisaged that being open and transparent about these matters, will enable you to identify and address possible areas of concern prior to dealing with the ATO.
 110. Importantly this part provides general guidance only and owing to the unique nature of hubs not all aspects will be applicable or relevant to all circumstances. Similarly, a matter may arise in relation to your hub that is not discussed in this part. This part does not provide advice or guidance about the technical interpretation or application of Australia's transfer pricing rules and does not in any way limit the operation of these rules or the information which the ATO is able to consider in your circumstances.
@@ -601,12 +601,12 @@ such as charter fees, despatch charges, fuel costs, etcetera. Costs such as sala
 155. The Commissioner recognises that some offshore marketing hubs sell product from several sources and not just Australia and therefore it is necessary to conduct a cost allocation for the Australian sourced products. In these circumstances, you should make a considered and reasonable allocation of costs to the Australian related transactions and retain the evidence to substantiate the adopted approach.
 156. Consistent with this being a risk assessment framework, provided that your cost base calculation is conducted on a reasonable and 'best efforts' basis, the Commissioner accepts that your calculation may not be precise. The ATO may seek to review your cost calculations so you should retain copies of any working papers that you have prepared.
 157. The following examples show how to calculate costs in different scenarios.
-Example 1:  offshore marketing hub that does not take title to commodity
+Example 1: offshore marketing hub that does not take title to commodity
 158.
 Calculation of the marketing activities should only capture the operating revenue and costs related to the marketing function. Shipping activities, derivatives, financing incomes and expenses, non-operating incomes and expenses, intercompany sales and pass through costs are a separate function and are excluded for the purposes of assessing the offshore marketing hub's mark-up on costs.
 159.
 To isolate the costs relating to the marketing function, direct costs related to the shipping activities have been excluded resulting in an effective mark-up on the marketing function of 400%. In this example the hub entity would be outside of the green zone.
-Example 2:  offshore marketing hub that takes title to commodity on DES
+Example 2: offshore marketing hub that takes title to commodity on DES
 160.
 In this arrangement, the offshore marketing hub effectively earns 5% margin or commission on its commodity sales by purchasing commodities from the production entity at a price that's 95% of the final price charged to third party customers.
 161.
@@ -742,7 +742,7 @@ hub profit
 divide the hub profit by the hub costs to calculate the hub mark-up, and
 (f)
 determine whether the hub mark-up exceeds the cost plus indicator of 25%.
-201. When applying the cost plus indicator, the hub's cost base includes operating costs related to performing its non-core product procurement activities. Examples of hub operating costs are overheads such as office rent or supplies, accounting services, IT and employee costs like payroll and travel. A hub's operating costs may include outlays for services provided by a related party.  As a business enterprise does not incur costs unnecessarily, the hub's cost base should only include related party costs that an independent party in comparable circumstances would be willing to incur.
+201. When applying the cost plus indicator, the hub's cost base includes operating costs related to performing its non-core product procurement activities. Examples of hub operating costs are overheads such as office rent or supplies, accounting services, IT and employee costs like payroll and travel. A hub's operating costs may include outlays for services provided by a related party. As a business enterprise does not incur costs unnecessarily, the hub's cost base should only include related party costs that an independent party in comparable circumstances would be willing to incur.
 [39]
 202. Where the hub's costs need to be allocated or apportioned to exclude costs that are not attributable to the hub's non-core product procurement activities, the result of the method used must be consistent with that of comparable independent enterprises.
 [40]
@@ -779,20 +779,20 @@ Employee related costs such as salary and wages and other operating costs incurr
 209. Being a risk assessment framework, provided your cost base calculation is conducted on a reasonable and 'best efforts' basis, the Commissioner accepts that your calculation may not be precise. As the ATO may seek to review your cost calculations you should retain, as part of your record keeping, copies of any working papers you have prepared. You may become liable to a transfer pricing penalty where the ATO reviews your arrangements and you do not have contemporaneous documentation that meets the reasonably arguable threshold.
 [47]
 210. The following examples show how to calculate hub revenue, hub costs and hub profit to test the hub mark-up against the cost plus indicator (the low risk benchmark) in different scenarios.
-Example 3:  non-core procurement hub that does not take title to goods
+Example 3: non-core procurement hub that does not take title to goods
 211.
 In this example the procurement hub's activities include acting as an agent on behalf of customers to procure goods and services. Revenue from its non-core product activity was $25 million and it is estimated that approximately 20% of staff were involved in procuring non-core product. Shipping is arranged for its customers and the shipping charges are reimbursed by them.
 212.
 Calculation of the procurement activities should only capture the operating revenue and selling, general and administrative costs related to the non-core product procurement function. Headcount is used as an allocation key for costs.
 213.
 To ascertain the mark-up on costs for benchmarking purposes, we exclude revenue and costs, direct and allocated indirect operating costs, not connected to earning the $25 million non-core product revenue. Finance revenue and expenses, and pass through shipping outgoings and receipts are not taken into account. The mark-up on the costs applicable to the non-core product procurement function is 257%. As the hub mark-up is above the cost plus indicator, the hub entity would be outside the green zone.
-Example 4:  non-core procurement hub that does not take title to goods and operates a shipping business
+Example 4: non-core procurement hub that does not take title to goods and operates a shipping business
 214.
 In this scenario, 75% of staff is estimated to be dedicated to the non-core product procurement function. The entity has a shipping business, which incurred hedging costs, and it made a profit on the sale of an investment. Headcount is used to allocate
 costs.
 215.
 To isolate the costs relating to the non-core procurement function, the revenues, direct and indirect costs related to the shipping business, the non-operating gain and hedging costs have been excluded from the calculation. The mark-up on costs for the non-core products supplied to an Australian business is 233%. As the hub mark-up is above the cost plus indicator, the hub entity would be outside the green zone.
-Example 5:  non-core procurement hub that takes title to goods on DES
+Example 5: non-core procurement hub that takes title to goods on DES
 216.
 In this arrangement, the hub effectively earns a 5% margin or commission on its sales by selling at a price that is 105% of the purchase price charged by its third party suppliers. It sells both non-core products and other goods on the same pricing terms. Custom duties incurred on behalf of its customers are reimbursed. It is estimated that 10% of the hub's staff are involved in providing non-core product to an Australian entity.
 217.
@@ -815,7 +815,7 @@ The ATO publishes a statement that it has a concern about a risk or issue that m
 Outside of the green zone - how to calculate the tax impact of your hub
 224. Broadly, the tax impact is the difference between the hub profit and the profit outcome that arises when applying the cost plus indicator.
 225. You will need to use the following formula to determine your tax impact for your non-core procurement hub for a particular income tax year:
-tax impact  =  [hub profit less 25% mark-up above hub costs] * non-attributed income ratio * Australian company tax rate
+tax impact = [hub profit less 25% mark-up above hub costs] * non-attributed income ratio * Australian company tax rate
 The non-attributed income ratio is that part of hub profit that is not attributed back to and taxed in Australia under Australia's CFC provisions, as a proportion of hub profit.
 226. The table below uses the earlier examples to illustrate the tax impact calculation where nil, 40% and 50% of hub non-core product procurement activity income is attributed under Australia's CFC provisions respectively.
 227. Once you have calculated the tax impact and determined the base risk zone, consider whether your base risk zone should be adjusted according to the criteria for transfer pricing documentation in paragraphs 55 to 59 of this Guideline.
@@ -867,7 +867,7 @@ Simplified Transfer Pricing Record Keeping Options
 Section 262A of the
 Income Tax Assessment Act 1936
 (ITAA 1936). See paragraph 12 of Taxation Ruling TR 2014/8
-Income tax:  transfer pricing documentation and Subdivision 284-E
+Income tax: transfer pricing documentation and Subdivision 284-E
 .
 [8]
 For the purposes of applying administrative penalties, section 284-250 of the TAA provides that Division 284 has effect as if the entity's transfer pricing treatment was not reasonably arguable. TR 2014/8 provides further guidance about the transfer pricing documentation requirements.

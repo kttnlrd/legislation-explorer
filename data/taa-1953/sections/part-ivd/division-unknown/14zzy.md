@@ -24,13 +24,13 @@ Actually causing detriment to another person
 > **(a)**  the first person engages in conduct; and
 
 > <a id="s14ZZY-1-b"></a>
-> **(b)**  the first person’s conduct causes any detriment to another person (the second person); and
+> **(b)**  the first person's conduct causes any detriment to another person (the second person); and
 
 > <a id="s14ZZY-1-c"></a>
 > **(c)**  when the first person engages in the conduct, the first person believes or suspects that the second person or any other person made, may have made, proposes to make or could make a disclosure that qualifies for protection under this Part; and
 
 > <a id="s14ZZY-1-d"></a>
-> **(d)**  the belief or suspicion referred to in paragraph (c) is the reason, or part of the reason, for the conduct. Penalty: Imprisonment for 2 years or 240 penalty units, or both. Authorised Version C2026C00170 registered 28/04/2026 Threatening to cause detriment to another person
+> **(d)**  the belief or suspicion referred to in paragraph (c) is the reason, or part of the reason, for the conduct. Penalty: Imprisonment for 2 years or 240 penalty units, or both. Threatening to cause detriment to another person
 
 <a id="s14ZZY-2"></a>
 **(2)**  A person (the first person) commits an offence if:

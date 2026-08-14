@@ -3,18 +3,14 @@ ATO ID 2010/216
 ==================================================
 
 Income Tax
-        Taxation of financial arrangements: entitlement to a foreign income tax offset - foreign dividend derived by a beneficiary of a trust estate
-        FOI status: may be released
-
-
+ Taxation of financial arrangements: entitlement to a foreign income tax offset - foreign dividend derived by a beneficiary of a trust estate
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a taxpayer that is a beneficiary in a trust estate entitled to a foreign income tax offset under section 770-10 of the Income Tax Assessment Act 1997 (ITAA 1997) for foreign income tax imposed on a dividend paid to the trust estate, where the taxpayer is subject to Division 230 of the ITAA 1997 in respect of their interest in the trust estate?
@@ -29,22 +25,15 @@ In August 2011, a final distribution relating to the financial year ended 30 Jun
 The fair value of the units at 30 September 2011 is $120.
 The distribution received on the B Trust units, is made up as follows:
 
-
-
 Trust distribution
-
 
 Component
 
-
 Cash distributed
-
 
 Non cash
 
-
 Taxable Income per Trust statement
-
 
 taxable income
  400.00
@@ -62,16 +51,13 @@ Total foreign income
 
 100.00
 
-
 Total cash received
 
 480.00
 
-
 Total taxable income
 
 500.00
-
 
 Reasons for Decision
 All legislative references are to the ITAA 1997 unless specified otherwise.
@@ -90,8 +76,6 @@ Note 1: The offset is for the income year in which your assessable income includ
 Where a taxpayer has not actually paid foreign income tax, the Act can apply to the taxpayer as if it had paid an amount of foreign income tax (section 770-130).
 In particular, under subsection 770-130(3), a taxpayer will be taken to have paid foreign income tax in respect of an amount included in the taxpayer's ordinary or statutory income (a 'taxed amount') to the extent that:
 
-
-
 •the taxed amount is taken, because of section 6B of the Income Tax Assessment Act 1936 (ITAA 1936) to be attributable to another amount of income of a particular kind or source;
 •the foreign income tax has been paid in respect of the other amount of income; and
 •the taxed amount is less than it would have been if that tax had not been paid.
@@ -102,13 +86,10 @@ Subsection 6B(1) of the ITAA 1936 provides:
 
 For the purposes of this Act, an amount of income derived by a person, not being a dividend paid by a company to the person as a shareholder in the company, shall be deemed to be attributable to a dividend:
 
-
 a)if the person derived the amount of income by reason of being the beneficial owner of the share in respect of which the dividend was paid; or
 b)if the person derived the amount of income as a beneficiary in a trust estate and the amount of income can be attributed, directly or indirectly, to the dividend or to an amount that is deemed, by an application of successive applications of this subsection, to be an amount of income attributable to the dividend.
 
 For paragraph 6B(1)(b) of the ITAA 1936 to apply:
-
-
 
 •the taxpayer must derive an amount of income as a beneficiary in a trust estate; and
 •the amount of income must be able to be attributed, directly or indirectly, to a dividend.
@@ -118,10 +99,10 @@ Paragraphs 770-130(3)(b) and (c) are also satisfied because the amount of foreig
 Given that the requirements of subsection 770-130(3) are satisfied, the taxpayer will be taken to have paid foreign income tax in respect of the amount derived by the taxpayer which represents the foreign dividend.
 Accordingly, the taxpayer is entitled to a foreign income tax offset under subsection 770-10(1) for foreign income tax paid in respect of the amount included in the taxpayer's assessable income under section 230-15.
 Date of decision:
-         23 November 2010
+  23 November 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -131,17 +112,16 @@ Income Tax Assessment Act 1997   section 230-210   paragraph 230-210(2)(a)
 Keywords
 
 Foreign dividend withholding tax
-          Trust distributions
-
+ Trust distributions
 
 Siebel/TDMS Reference Number:
-         1-27QDR3O
+  1-27QDR3O
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         26 November 2010
+  26 November 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

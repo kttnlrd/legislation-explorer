@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Family scheme income: derivation**
 
-**(1)**  The calculation of an entitlement and tax credit under the family scheme is based on a person’s family scheme income. A person’s family scheme income is an amount based on their net income, and is adjusted as provided by this subpart. The following paragraphs apply in relation to assessable income derived by the person in a relationship period in an income year:
+**(1)**  The calculation of an entitlement and tax credit under the family scheme is based on a person's family scheme income. A person's family scheme income is an amount based on their net income, and is adjusted as provided by this subpart. The following paragraphs apply in relation to assessable income derived by the person in a relationship period in an income year:
 
 - (a) to the extent to which the income is derived from employment during all or part of the income year, it is treated as derived at a uniform daily rate during the period of the employment; and
 
@@ -62,15 +62,15 @@ compilation_date: 2026-06-06
 
 **Deposits in main income equalisation accounts**
 
-**(5D)**  For the purposes of subsection (1), the person’s family scheme income is increased by the amount of a main income equalisation deposit the person makes for the income year.
+**(5D)**  For the purposes of subsection (1), the person's family scheme income is increased by the amount of a main income equalisation deposit the person makes for the income year.
 
 **Refunds from main income equalisation accounts**
 
-**(5E)**  For the purposes of subsection (1), the person’s family scheme income does not include the amount of a main income equalisation refund the person receives for the income year.
+**(5E)**  For the purposes of subsection (1), the person's family scheme income does not include the amount of a main income equalisation refund the person receives for the income year.
 
 **Transitional adjustments**
 
-**(7)**  The amounts described in section MZ 2 (Calculation of child tax credit) are not included in the person’s family scheme income.
+**(7)**  The amounts described in section MZ 2 (Calculation of child tax credit) are not included in the person's family scheme income.
 
 *Defined in this Act: amount, assessable income, business, Commissioner, deduction, depreciation loss, excluded income, exempt income, family scheme, family scheme income, income, income from employment, income tax, income year, listed PIE, main benefit, main income equalisation account, main income equalisation deposit, main income equalisation refund, net income, pay, portfolio investment entity, qualifying company, relationship period, retirement savings scheme, retirement scheme contribution, salary or wages, shareholder, superannuation fund, tax credit, tax loss, tax year*
 

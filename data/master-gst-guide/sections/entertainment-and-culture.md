@@ -9,7 +9,7 @@ paragraph: "¶25-120"
 
 - A grant is treated like a gift, and is GST-free, unless it is made in return for services (¶4-040).
 
-- “No strings attached” subsidies are not subject to GST. If conditional, this may be a taxable supply by
+- "No strings attached" subsidies are not subject to GST. If conditional, this may be a taxable supply by
 
   the recipient (¶4-040).
 
@@ -23,7 +23,7 @@ paragraph: "¶25-120"
 
   (¶6-100).
 
-- Donations are not subject to GST, even though donors receive “tokens” (¶4-030).
+- Donations are not subject to GST, even though donors receive "tokens" (¶4-030).
 
 - Special rules apply to movie vouchers (¶4-060; ¶19-200).
 
@@ -35,7 +35,7 @@ paragraph: "¶25-120"
 
 - Free shuttle bus services for patrons are GST-free (¶4-030).
 
-- Gambling suppliers are subject to GST but can use a “margin” method of calculating their net GST
+- Gambling suppliers are subject to GST but can use a "margin" method of calculating their net GST
 
   liabilities (¶16-000).
 

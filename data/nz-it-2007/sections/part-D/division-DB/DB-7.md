@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 - (a) dividends:
 
-- (b) income exempted under section CW 58 (Disposal of companies’ own shares):
+- (b) income exempted under section CW 58 (Disposal of companies' own shares):
 
 - (bb) income exempted under section CW 59C (Life reinsurance claims from reinsurer outside New Zealand):
 
-- (c) income exempted under section CW 60 (Stake money) and ancillary to the company’s business of breeding.
+- (c) income exempted under section CW 60 (Stake money) and ancillary to the company's business of breeding.
 
 **Exclusion: non-resident company**
 

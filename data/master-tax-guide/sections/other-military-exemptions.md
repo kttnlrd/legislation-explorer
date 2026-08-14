@@ -71,7 +71,7 @@ Payments under Military Rehabilitation and Compensation Act A compensation schem
 
 - compensation for loss or damage to medical aids (s 226) — exempt
 
-- compensation for a wholly dependent partner for a member’s death (s 233) — exempt
+- compensation for a wholly dependent partner for a member's death (s 233) — exempt
 
 - continuing permanent impairment and incapacity, etc, compensation for a wholly dependent
 
@@ -103,7 +103,7 @@ Payments under Military Rehabilitation and Compensation Act A compensation schem
 
   Note 1: Ordinary payment is exempt.
 
-Note 2: Payment because of a person’s death is exempt.
+Note 2: Payment because of a person's death is exempt.
 
 Interest in capital or income under a will or settlement Assets or money acquired in satisfaction of an interest in capital under a will, intestacy or settlement are not income and, except for CGT, are not assessable. Apart from CGT, a speciﬁc bequest of an asset or a sum of money is equally non-assessable unless it is received by the executor for the performance of their executive duties. As a general rule, property acquired under these circumstances cannot be regarded as acquired for proﬁt-making by sale and any surplus on a straight-out sale of such property over its value at the date of acquisition is not assessable under the ordinary income tax provisions. However, property acquired under such circumstances may be ventured in a business or proﬁt-making scheme and, in that event, any surplus may be assessable (¶10-120).
 

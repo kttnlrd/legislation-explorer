@@ -3,18 +3,14 @@ ATO ID 2012/90
 ==================================================
 
 Income Tax
-        Deductions: Internal estimates of notional funding cost
-        FOI status: may be released
-
-
+ Deductions: Internal estimates of notional funding cost
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In determining the profits attributable to a foreign bank's Australian permanent establishment under the business profits article of a relevant tax treaty, can the bank deduct an amount it estimates would be the funding cost if assets employed in its Australian branch operations had been funded under certain terms and conditions?
@@ -22,15 +18,15 @@ Decision
 No. In determining the profits attributable to a foreign bank's Australian permanent establishment under the business profits article of a relevant tax treaty, the bank cannot deduct an amount it estimates would be the funding cost if assets employed in its Australian branch operations had been funded under certain terms and conditions.
 Facts
 A foreign bank is incorporated in a country (
-          home country
-          ) with which Australia has entered into an agreement for the relief of double taxation (
-          relevant tax treaty
-          ). The foreign bank is a tax resident of the home country under both Australian domestic law and the relevant tax treaty. The foreign bank is regulated by its home country banking regulator.
+ home country
+ ) with which Australia has entered into an agreement for the relief of double taxation (
+ relevant tax treaty
+ ). The foreign bank is a tax resident of the home country under both Australian domestic law and the relevant tax treaty. The foreign bank is regulated by its home country banking regulator.
 The foreign bank carries on business operations through a fixed place of business in Australia (Australian branch operations).
 APRA has granted a restricted Australian banking licence for the foreign bank's Australian branch operations.
 The Australian branch operations constitute business carried on by foreign bank through an Australian permanent establishment for the purposes of applying the relevant article (usually article 7) of the relevant tax treaty (
-          business profits article
-          ). Accordingly, profits attributable to Australian branch operations may be taxed by Australia.
+ business profits article
+ ). Accordingly, profits attributable to Australian branch operations may be taxed by Australia.
 The foreign bank includes an amount as a 'cost' of, or 'charge' to, its 'Australian branch' in its 'Australian branch accounts' or in its accounts used for its internal management purposes. The amount of such 'cost' or 'charge' is the amount determined by the bank as the estimated additional interest cost if assets employed in its Australian branch operations, that were funded by Australian dollar borrowings by the bank, had instead been funded by more expensive longer term Australian dollar borrowings of a duration or term equal to the average duration or term of the bank's global borrowings.
 Reasons for Decision
 Subsection 3(2) of the International Tax Agreements Act 1953 (IAA) provides that the reference, in the business profits article of the relevant tax treaty, to profits attributable to business carried by the foreign bank through its Australian permanent establishment, is a reference to the Australian taxable income derived by the foreign bank from the business carried on through its Australian permanent establishment. Refer also to paragraph 3.29 of Taxation Ruling TR 2001/11 Income tax: international transfer pricing - operation of Australia's permanent establishment attribution rules.
@@ -39,8 +35,6 @@ Accordingly, in the case of costs of a foreign bank carrying on banking business
 Section 8-1 of ITAA 1997
 
 Interest expense incurred by the foreign bank is deductible under section 8-1 of ITAA 1997, in determining the profit of the foreign bank taxable in Australia under the business profits article of the relevant tax treaty, to the extent the interest expense is:
-
-
 
 •necessarily incurred by the foreign bank in gaining or producing its assessable income derived from its business carried on through its Australian permanent establishment, or in carrying on its business through its Australian permanent establishment for the purpose of gaining or producing such assessable income; and
 •not a loss or outgoing of capital or of a capital nature, and is not of a private or domestic nature.
@@ -52,8 +46,6 @@ The above requirements of section 8-1 of the ITAA 1997 and subsection 3(2) of IA
 Internal 'charges', such as amounts 'charged' to particular business operations of a company in its management accounts for 'transactions' with other of the taxpayer's business operations, are not a loss or outgoing incurred for the purposes of applying section 8-1 of ITAA 1997: refer Max Factor & Co v. Federal Commissioner of Taxation (1984) 84 ATC 4060. A loss or outgoing must be incurred by a non-resident in order to be deductible under section 8-1 of the ITAA 1997 in determining the non-resident's Australian taxable income from its business carried on through its Australian permanent establishment for the purposes of applying the business profits article of the relevant tax treaty. Refer also to paragraphs 1.8, 1.10, 1.15 to 1.17, 3.36 and 4.4 (last sentence) of Taxation Ruling TR 2001/11. It is noted that paragraph 3.47 and paragraph 3.48 of TR 2001/11 are only relevant in relation to attributing income or expenditure to the non-resident's relevant functions and assets.
 The amount treated by the foreign bank as a 'cost' of, or 'charge' to, its 'Australian branch' in its 'Australian branch accounts', or in its accounts used for its internal management purposes, is not an amount of interest expense or other loss or outgoing incurred by the bank. The bank has funded assets employed by the bank in its Australian branch operations with Australian dollar borrowings for which it incurs interest expense in carrying on its Australian branch operations.
 For completeness it is noted that would not be possible to reasonably treat the 'cost' or 'charge' as a reasonable proxy for any actual interest or other funding costs incurred by the foreign bank globally to fund the assets employed in its Australian branch operations. In this respect we note:
-
-
 
 (a)The actual average interest cost of all borrowings by the foreign bank globally, for each currency borrowed, is not the same as the bank's estimated interest cost of borrowing for a duration or term equal to the average duration or term of the bank's global borrowings; and
 (b)The foreign bank's global borrowings are borrowings of a range of foreign currencies including some Australian dollars. The interest rates, including benchmark rates, for those foreign currencies are different, and often markedly different, to the interest rates, including benchmark rates, for borrowing Australian dollars.
@@ -68,10 +60,10 @@ a bank internally transfer[ing] funds to or from a PE in the ordinary course of 
 
 Accordingly, the amount of such 'cost' or 'charge' is not deductible under section 8-1 of ITAA 1997 in determining the Australian taxable income of the foreign bank in accordance with the business profits article of the relevant tax treaty.
 Date of decision:
-         25 October 2012
+  25 October 2012
 
 Year of income:
-           Income year ended 30 June 2009 Income year ended 30 June 2010
+  Income year ended 30 June 2009 Income year ended 30 June 2010
 
 Legislative References:
 
@@ -80,7 +72,6 @@ Income Tax Assessment Act 1997   section 8-1
 International Tax Agreements Act 1953   subsection 3(2)
 
 Case References:
-
 
 Max Factor & Co v Federal Commissioner of Taxation   (1984) 84 ATC 4060
 
@@ -97,19 +88,18 @@ Related ATO Interpretative Decisions
 Keywords
 
 Deductions & expenses
-          Interest allocation
-          Interest expenses
-          Permanent Establishment
-
+ Interest allocation
+ Interest expenses
+ Permanent Establishment
 
 Siebel/TDMS Reference Number:
-         1-4BMOVHT
+  1-4BMOVHT
 
 Business Line:
-         Large Business and International
+  Large Business and International
 
 Date of publication:
-         2 November 2012
+  2 November 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

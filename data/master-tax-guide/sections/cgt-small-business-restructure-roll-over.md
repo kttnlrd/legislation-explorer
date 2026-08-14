@@ -9,7 +9,7 @@ paragraph: "¶12-380"
 
 Optional roll-over relief is available for the transfer of assets as part of a change of legal structure without a change in the ultimate legal ownership of the assets pursuant to Subdiv 328-G. The roll-over relief is available for gains and losses that arise on the transfer of CGT assets, trading stock, revenue assets and depreciating assets.
 
-The roll-over is available where the 6 conditions in s 328-430, as detailed below, are satisﬁed. 1. Genuine Restructure The transaction is, or is part of, a genuine restructure of an ongoing business (s 328-430(1)(a)). The meaning of the term “genuine restructure of an ongoing business” is explained in LCR 2016/3. The determination of whether there is a genuine restructure will be a question of fact determined by all surrounding circumstances.
+The roll-over is available where the 6 conditions in s 328-430, as detailed below, are satisﬁed. 1. Genuine Restructure The transaction is, or is part of, a genuine restructure of an ongoing business (s 328-430(1)(a)). The meaning of the term "genuine restructure of an ongoing business" is explained in LCR 2016/3. The determination of whether there is a genuine restructure will be a question of fact determined by all surrounding circumstances.
 
 The following features may indicate the transaction is part of a genuine restructure:
 
@@ -21,7 +21,7 @@ The following features may indicate the transaction is part of a genuine restruc
 
 - It is authentically restructuring the way in which the business is conducted as opposed to a
 
-“divestment” or preliminary step to facilitate the economic realisation of assets.
+"divestment" or preliminary step to facilitate the economic realisation of assets.
 
 - The economic ownership of the business and its restructured assets is maintained.
 
@@ -38,7 +38,7 @@ However, neither the transferor nor transferee can be an exempt entity or a comp
 *Refs: s 328-430, s 328-430(1)(, s
 328-435), s 328-430(2))*
 
-(a) the individual(s) which have the ultimate economic ownership of the asset (b) where there is more than one individual, the individual’s share of that ultimate economic ownership (s 328-430(1)(c)).
+(a) the individual(s) which have the ultimate economic ownership of the asset (b) where there is more than one individual, the individual's share of that ultimate economic ownership (s 328-430(1)(c)).
 
 Where a discretionary trust is involved, this condition will be considered to be satisﬁed where:
 
@@ -60,7 +60,7 @@ Consequences of roll-over The intention of the roll-over is to be tax neutral su
 152-10(1, s 328-450), s
 328-450)*
 
-(a) the CGT asset is treated as being transferred for an amount equal to the transferor’s cost base of the asset just before the transfer, thereby preventing any capital gain or loss from arising (s 328-455(2)(a)) (b) any pre-CGT asset transferred maintains its pre-CGT status (s 328-460) (c) for the purpose of determining whether there will be a discount capital gain in the future, the transferee will be treated as having acquired the CGT asset at the time of the transfer. Unlike other roll-overs, there is no deemed acquisition back to the date of original acquisition by the transferor.
+(a) the CGT asset is treated as being transferred for an amount equal to the transferor's cost base of the asset just before the transfer, thereby preventing any capital gain or loss from arising (s 328-455(2)(a)) (b) any pre-CGT asset transferred maintains its pre-CGT status (s 328-460) (c) for the purpose of determining whether there will be a discount capital gain in the future, the transferee will be treated as having acquired the CGT asset at the time of the transfer. Unlike other roll-overs, there is no deemed acquisition back to the date of original acquisition by the transferor.
 
 For details on the consequences of the roll-over and examples, see LCR 2016/2.
 
@@ -86,9 +86,9 @@ CGT roll-over for conversion of body to incorporated company
 
 - a law other than the Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
-  (“CATSI Act”)
+  ("CATSI Act")
 
-(b) the body is converted into a company incorporated under the Corporations Act 2001, a similar law relating to foreign companies, or the CATSI Act (without creating a new legal entity) (c) the company issues the taxpayer with shares (and nothing else) in substitution for the taxpayer’s interest in the body just before the conversion (d) there is no signiﬁcant diﬀerence in ownership before and after the conversion or in the mix of ownership before and after the conversion, and (e) the taxpayer is a resident at the time of the conversion or, if the taxpayer is a foreign resident, the taxpayer’s interest in the body was taxable Australian property (¶12-725) just before that time and the shares are taxable Australian property when they are issued.
+(b) the body is converted into a company incorporated under the Corporations Act 2001, a similar law relating to foreign companies, or the CATSI Act (without creating a new legal entity) (c) the company issues the taxpayer with shares (and nothing else) in substitution for the taxpayer's interest in the body just before the conversion (d) there is no signiﬁcant diﬀerence in ownership before and after the conversion or in the mix of ownership before and after the conversion, and (e) the taxpayer is a resident at the time of the conversion or, if the taxpayer is a foreign resident, the taxpayer's interest in the body was taxable Australian property (¶12-725) just before that time and the shares are taxable Australian property when they are issued.
 
 The roll-over is also available where members of an incorporated body in (a) are wound up and then subsequently reincorporated as a company detailed in (b) provided the same interests in the entities are maintained (s 124-525). In such a case, roll-over relief applies to gains and losses realised by the original entity as a result of becoming assets of the newly incorporated entity pursuant to the reincorporation (s 620-20).
 

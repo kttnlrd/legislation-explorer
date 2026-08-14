@@ -19,7 +19,7 @@ The time of CGT event L2 is just after the entity becomes a subsidiary member of
 
 *Refs: s 104-505)*
 
-retained cost base assets exceed joining allocable cost amount CGT event L3 happens where an entity becomes a subsidiary member of a consolidated group and the sum of the tax cost setting amounts for all of the retained cost base assets that become those of the head entity exceeds the group’s allocable cost amount for the entity (s 104-510). The capital gain that arises under CGT event L3 is reduced where a joining entity has impaired debts at the joining time (s 705-27).
+retained cost base assets exceed joining allocable cost amount CGT event L3 happens where an entity becomes a subsidiary member of a consolidated group and the sum of the tax cost setting amounts for all of the retained cost base assets that become those of the head entity exceeds the group's allocable cost amount for the entity (s 104-510). The capital gain that arises under CGT event L3 is reduced where a joining entity has impaired debts at the joining time (s 705-27).
 
 The time of CGT event L3 is just after the entity becomes a subsidiary member of the group. For further details, see ¶8-210.
 
@@ -32,13 +32,13 @@ The time of CGT event L4 is just after the entity becomes a subsidiary member of
 *Refs: s
 104-515)*
 
-of leaving allocable cost amount is negative CGT event L5 happens where an entity ceases to be a subsidiary member of a consolidated group and, in working out the group’s allocable cost amount for the entity, the amount remaining after applying step 4 of the table in s 711-20 is negative (s 104-520). The entity’s net assets are assessed just before the moment of deconsolidation (Handbury Holdings Pty Ltd 2009 ATC ¶20-136; [2009] FCAFC 141).
+of leaving allocable cost amount is negative CGT event L5 happens where an entity ceases to be a subsidiary member of a consolidated group and, in working out the group's allocable cost amount for the entity, the amount remaining after applying step 4 of the table in s 711-20 is negative (s 104-520). The entity's net assets are assessed just before the moment of deconsolidation (Handbury Holdings Pty Ltd 2009 ATC ¶20-136; [2009] FCAFC 141).
 
 The time of CGT event L5 is when the entity ceases to be a subsidiary member of the group. For further details, see ¶8-400.
 
 *Refs: s 711-20, s 104-520)*
 
-amount for joining entity’s assets CGT event L6 happens where the head company of a consolidated group has a net overstated amount or a net understated amount for the subsidiary member (s 104-525).
+amount for joining entity's assets CGT event L6 happens where the head company of a consolidated group has a net overstated amount or a net understated amount for the subsidiary member (s 104-525).
 
 The time of CGT event L6 is the start of the income year in which the Commissioner becomes aware of the errors. For further details, see ¶8-250.
 

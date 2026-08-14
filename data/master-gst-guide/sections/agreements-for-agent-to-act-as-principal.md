@@ -20,7 +20,7 @@ The effect of such an agreement is as follows.
 
 - The supply by the principal to the agent is treated as a supply for the amount the agent is required to
 
-  pay. This will normally be the amount the third party is charged, less agent’s commission.
+  pay. This will normally be the amount the third party is charged, less agent's commission.
 
   th
 
@@ -56,9 +56,9 @@ On the sale to the shop by the agent for $143, the agent accounts for the $13 GS
 
   for that amount to the ATO.
 
-- The agent’s supply to the principal is treated as a supply for the amount the principal is required to
+- The agent's supply to the principal is treated as a supply for the amount the principal is required to
 
-  pay. This will normally be the amount the third party has charged, plus agent’s commission.
+  pay. This will normally be the amount the third party has charged, plus agent's commission.
 
   th
 
@@ -70,7 +70,7 @@ Illustration: Third party acquisitions A principal agrees to buy goods from a se
 
 For GST purposes, the seller is taken to have sold the goods to the agent for $550, who is taken to have supplied them to the th principal for $594 (ie $550 + $44). The agent claims an input tax credit of $50 (ie 1/11 of $550) and accounts for $54 GST on the th sale. The principal claims an input tax credit of $54 (ie 1/11 of $594).
 
-After accounting for GST and input tax credits, the agent’s net gain is therefore (sale $594 − GST $54 − cost $550 + credit $50) = $40. The principal’s net outlay is (cost $594 − credit $54) = $540.
+After accounting for GST and input tax credits, the agent's net gain is therefore (sale $594 − GST $54 − cost $550 + credit $50) = $40. The principal's net outlay is (cost $594 − credit $54) = $540.
 
 The agreement may cover supplies that are not taxable and non-creditable acquisitions, but will not alter their GST effect. They should be accounted for as a principal-to-principal transaction, separate from the taxable supply and creditable acquisition of the agency services (GST Ruling GSTR 2000/37).
 
@@ -84,9 +84,9 @@ It is possible that this might also apply in other industries with a significant
 
 An individual agent or principal can opt out of this treatment by notifying the other that they wish to continue on a normal principal and agent basis. Both parties should keep a record of the notice under the normal record-keeping rules (TAA Sch 1 s 382-5).
 
-Effects on turnover thresholds Entering into an arrangement will normally mean that the agent’s GST turnover will increase, because they are carrying out more transactions as principal. This could mean, for example, that they assume certain GST obligations because they exceed a turnover threshold. To avoid this result, agents are given the option of calculating their GST turnover by reference to the situation before they entered into the arrangement (s 188-24).
+Effects on turnover thresholds Entering into an arrangement will normally mean that the agent's GST turnover will increase, because they are carrying out more transactions as principal. This could mean, for example, that they assume certain GST obligations because they exceed a turnover threshold. To avoid this result, agents are given the option of calculating their GST turnover by reference to the situation before they entered into the arrangement (s 188-24).
 
-Application to other intermediaries These rules also apply to an intermediary who facilitates supplies or acquisitions but who falls short of being an “agent” in the technical sense (¶17-400). This may include intermediaries such as a paying agent, a billing agent or a commission agent.
+Application to other intermediaries These rules also apply to an intermediary who facilitates supplies or acquisitions but who falls short of being an "agent" in the technical sense (¶17-400). This may include intermediaries such as a paying agent, a billing agent or a commission agent.
 
 *Refs: s 153-60), s 153-65), s 382-5), s
 188-24)*

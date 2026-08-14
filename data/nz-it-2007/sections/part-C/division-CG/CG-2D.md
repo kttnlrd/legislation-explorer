@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 - (b) the payment of the amount reduces, in whole or in part, the liability of company C so that company C satisfies the solvency test set out in section 4 of the Companies Act 1993.
 
-**Commissioner’s discretion**
+**Commissioner's discretion**
 
 **(5)**  The Commissioner may treat company C as not satisfying the solvency test set out in section 4 of the Companies Act 1993 if the Commissioner considers—
 

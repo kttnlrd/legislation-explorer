@@ -7,7 +7,7 @@ paragraph: "¶21-775"
 ---
 # Extended period for amendment of FITO assessment ¶21-775
 
-To qualify for a foreign income tax oﬀset for an income year, the taxpayer must have paid foreign income tax on an amount that is included in the taxpayer’s assessable income for the year of claim. However, as explained at ¶21-680, it is not necessary that the foreign income tax is paid in that year. To cover this eventuality, the normal amendment period is extended as follows (s 770-190): (1) where the taxpayer pays foreign income tax after lodging the relevant return:
+To qualify for a foreign income tax oﬀset for an income year, the taxpayer must have paid foreign income tax on an amount that is included in the taxpayer's assessable income for the year of claim. However, as explained at ¶21-680, it is not necessary that the foreign income tax is paid in that year. To cover this eventuality, the normal amendment period is extended as follows (s 770-190): (1) where the taxpayer pays foreign income tax after lodging the relevant return:
 
 - the amendment period is 4 years, and
 

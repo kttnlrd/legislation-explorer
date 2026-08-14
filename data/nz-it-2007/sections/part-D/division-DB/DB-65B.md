@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
   - (ii) the person has had a deduction for an amount of depreciation loss for the items of commercial fit-out:
 
-- (e) historical fit-out deductions is the total amount of a person’s deductions allowed under section DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, for income years before the 2020–21 income year:
+- (e) historical fit-out deductions is the total amount of a person's deductions allowed under section DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, for income years before the 2020–21 income year:
 
 - (f) fit-out deductions is the total amount of deductions the person has claimed under this section for all income years:
 

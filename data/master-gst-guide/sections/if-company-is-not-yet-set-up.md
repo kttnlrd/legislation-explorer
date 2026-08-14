@@ -11,7 +11,7 @@ It may happen that you incur business costs relating to a company that has not b
 
 If you are not registered, you cannot claim an input tax credit. Even if you are registered, the credit is not available unless setting up the company is part of your own business. To cover these situations, a special rule enables the credit to be claimed by the company after it has been set up (s 60-5).
 
-For this “pre-establishment” rule to apply, all these conditions must be satisfied:
+For this "pre-establishment" rule to apply, all these conditions must be satisfied:
 
 - you must have made an acquisition before the company exists
 
@@ -57,15 +57,15 @@ Your entitlement to the credit will be determined as if you had incurred the exp
 
 Example An employee incurs $110 for petrol that she uses entirely in work-related travel. If the employer fully reimburses the employee, the employer can claim an input tax credit of $10.
 
-Input tax credits for reimbursements of expenses incurred by agents, officers and partners will be proportionately reduced if the expenses were only partly directly related to the performance of the person’s duties (s 111-10). This does not apply to reimbursements of an employee’s expenses because, as noted above, these qualify for input tax credits in additional situations where there is no direct relationship to work duties.
+Input tax credits for reimbursements of expenses incurred by agents, officers and partners will be proportionately reduced if the expenses were only partly directly related to the performance of the person's duties (s 111-10). This does not apply to reimbursements of an employee's expenses because, as noted above, these qualify for input tax credits in additional situations where there is no direct relationship to work duties.
 
 To enable you to claim the credit, the employee, etc, will need to obtain and provide you with a tax invoice for the acquisition that they made (s 111-15). However, in accordance with the normal rules, this will not be necessary if the acquisition was for $75 or less, excluding GST (¶5-170). The tax invoice will be effective even if the employee, not the employer, is shown as the recipient (GST Ruling GSTR 2013/1). A corresponding rule applies to adjustment notes for later adjustments (¶6-140). For the situation where the purchase is made on a corporate credit or charge card, see ¶5-130.
 
-Reimbursement of non-deductible expenses You cannot claim input tax credits for a reimbursement of “non-deductible” expenses (¶5-010) such as client entertainment or penalties.
+Reimbursement of non-deductible expenses You cannot claim input tax credits for a reimbursement of "non-deductible" expenses (¶5-010) such as client entertainment or penalties.
 
 Example Kindly Ltd reimburses an employee for fines and penalties that she incurs. No input tax credit can be claimed for fines and penalties, so no input tax credit can be claimed for their reimbursement.
 
-Direct payment of employee’s expenses These rules also apply where an employer directly pays the work-related expenses of an employee (s 111-25). This is treated in the same way as a reimbursement.
+Direct payment of employee's expenses These rules also apply where an employer directly pays the work-related expenses of an employee (s 111-25). This is treated in the same way as a reimbursement.
 
 Example Trusty Enterprises pays the professional association fees of its senior staff. Trusty can claim an input tax credit in relation to these payments.
 
@@ -79,11 +79,11 @@ Allowances The reimbursement rules do not apply where an employee is paid an all
 
 - the employee is paid on a notional basis, such as a cents-per-kilometre payment for work-related use
 
-  of a private car, or a “per diem” travel allowance.
+  of a private car, or a "per diem" travel allowance.
 
 In such cases, the Commissioner considers that the employer cannot claim an input tax credit.
 
-Charitable volunteers’ expenses Volunteers for endorsed charities are treated in the same way as employees for the purposes of these rules.
+Charitable volunteers' expenses Volunteers for endorsed charities are treated in the same way as employees for the purposes of these rules.
 
 This means, for example, that charities will be able to claim input tax credits if they reimburse volunteers for expenses that are directly related to their activities as volunteers (s 111-18).
 

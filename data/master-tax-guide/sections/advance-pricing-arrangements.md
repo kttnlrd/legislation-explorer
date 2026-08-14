@@ -9,7 +9,7 @@ paragraph: "¶22-650"
 
 An Advance Pricing Arrangement (APA) is an agreement between the taxpayer, the ATO and, where appropriate, one or more foreign tax authorities regarding the income tax treatment of international transactions, agreements or arrangements between related parties or associates.
 
-APAs give taxpayers the opportunity to reach agreement with the ATO on the method of applying the arm’s length principle to their cross-border dealings on a prospective basis. Potential advantages include predictability about the tax treatment of relevant transactions, reduced compliance and record keeping burdens and, potentially, minimising the likelihood of double taxation. The term of an APA will usually be between 3 and 5 years.
+APAs give taxpayers the opportunity to reach agreement with the ATO on the method of applying the arm's length principle to their cross-border dealings on a prospective basis. Potential advantages include predictability about the tax treatment of relevant transactions, reduced compliance and record keeping burdens and, potentially, minimising the likelihood of double taxation. The term of an APA will usually be between 3 and 5 years.
 
 A unilateral APA is concluded between the taxpayer and the ATO. A bilateral APA is made by the ATO and the relevant tax administration of a tax treaty partner, concerning the cross-border transactions of the taxpayer and third parties. A multilateral APA can be concluded between the ATO and more than one other tax treaty partner.
 
@@ -27,13 +27,13 @@ An APA will contain the agreement of the parties on at least the following matte
 
 - the agreed transfer pricing methodology and how it is to be applied
 
-- the arm’s length amount, rate, range or other arm’s length outcome
+- the arm's length amount, rate, range or other arm's length outcome
 
 - critical assumptions which if breached must be disclosed to the ATO
 
 - deﬁnitions of key terms
 
-- the accounting standards on which the taxpayer’s ﬁnancial statements are based, and
+- the accounting standards on which the taxpayer's ﬁnancial statements are based, and
 
 - procedures for making a compensating adjustment, if necessary.
 

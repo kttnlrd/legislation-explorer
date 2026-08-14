@@ -7,7 +7,7 @@ paragraph: "¶17-025"
 ---
 # Indirect tax sharing agreements ¶17-025
 
-The possibility of becoming directly liable for the group’s tax liabilities if the group representative defaults (¶17-020) can create considerable uncertainty among group members, especially as the liability can arise even after the member has left the group. To overcome this problem, group members may enter into an indirect tax sharing agreement (“ITSA” or “ITXSA”) (Administration Act Sch 1 s 444-90).
+The possibility of becoming directly liable for the group's tax liabilities if the group representative defaults (¶17-020) can create considerable uncertainty among group members, especially as the liability can arise even after the member has left the group. To overcome this problem, group members may enter into an indirect tax sharing agreement ("ITSA" or "ITXSA") (Administration Act Sch 1 s 444-90).
 
 The existence of an ITSA may also be of comfort to a prospective purchaser of a former group member.
 
@@ -21,13 +21,13 @@ Requirements for agreement
 
 - it must be entered into before the date on which the representative member is required to lodge a
 
-- each participating member’s “contribution amount” for the relevant tax period must be ascertainable
+- each participating member's "contribution amount" for the relevant tax period must be ascertainable
 
   from the agreement, and
 
-- the contribution amount must represent a “reasonable allocation” of each participating member’s
+- the contribution amount must represent a "reasonable allocation" of each participating member's
 
-  liability for the group’s indirect tax payable for that period. See further ATO Indirect tax sharing
+  liability for the group's indirect tax payable for that period. See further ATO Indirect tax sharing
 
   agreement — reasonable allocation of indirect tax law liability webpage.
 
@@ -41,9 +41,9 @@ Requirements for agreement
 
   than one group member can be included in one agreement.
 
-The agreement may apply to amounts due under “indirect tax laws”, ie GST, wine equalisation tax, luxury car tax or fuel tax.
+The agreement may apply to amounts due under "indirect tax laws", ie GST, wine equalisation tax, luxury car tax or fuel tax.
 
-Approved form of agreement The “approved form” for any ITSA that the Commissioner requires to be produced (see above) has the following minimum requirements. While these requirements must be met, the actual legal form of the agreement is open to the taxpayers and their advisers, provided that ITSA legally binds the parties concerned.
+Approved form of agreement The "approved form" for any ITSA that the Commissioner requires to be produced (see above) has the following minimum requirements. While these requirements must be met, the actual legal form of the agreement is open to the taxpayers and their advisers, provided that ITSA legally binds the parties concerned.
 
 - be in writing
 
@@ -67,7 +67,7 @@ Approved form of agreement The “approved form” for any ITSA that the Commiss
 
   relation to the particular liability or liabilities for the particular period (or periods).
 
-- specify the relevant liability or liabilities and period (or periods) as specified in the Commissioner’s
+- specify the relevant liability or liabilities and period (or periods) as specified in the Commissioner's
 
   notice to produce
 
@@ -77,27 +77,27 @@ Approved form of agreement The “approved form” for any ITSA that the Commiss
 
   liabilities, and
 
-- declare that “the schedule includes the names of all the ITSA contributing members in relation to
+- declare that "the schedule includes the names of all the ITSA contributing members in relation to
 
   that liability or liabilities for that period (or those periods) and the contribution amount or amounts as
 
-  calculated under the ITSA”.
+  calculated under the ITSA".
 
 Further guidelines on the contents of the agreement are in Practice Statement PS LA 2013/6.
 
-Effect of ITSA The effect of the ITSA is that the member’s potential liability for that tax period is limited to the contribution amount.
+Effect of ITSA The effect of the ITSA is that the member's potential liability for that tax period is limited to the contribution amount.
 
-Furthermore, if the member has left the group before the group’s BAS is required to be lodged for that tax period, and has paid its contribution amount (or a reasonable estimate) for that period to the representative member, the member has no further potential liability for that period. This “clear exit” rule does not apply, however, if leaving the group was part of an arrangement that had a purpose of prejudicing the Commissioner’s recovery of the group’s BAS liability.
+Furthermore, if the member has left the group before the group's BAS is required to be lodged for that tax period, and has paid its contribution amount (or a reasonable estimate) for that period to the representative member, the member has no further potential liability for that period. This "clear exit" rule does not apply, however, if leaving the group was part of an arrangement that had a purpose of prejudicing the Commissioner's recovery of the group's BAS liability.
 
-The existence of the ITSA does not affect the representative member’s primary liability for the tax.
+The existence of the ITSA does not affect the representative member's primary liability for the tax.
 
 Illustration: Indirect tax sharing agreement Entities A, B, C and X are the members of a GST group, with X as the representative member. On 31 July, they enter into an ITSA.
 
-This is before the date on which the group’s monthly July BAS is due (21 August).
+This is before the date on which the group's monthly July BAS is due (21 August).
 
-Entity A leaves the group on 15 April. This is before the date on which the group’s March BAS is due.
+Entity A leaves the group on 15 April. This is before the date on which the group's March BAS is due.
 
-X, as representative member, is responsible for the group’s indirect tax liability. Assume, however, that X defaults from the July BAS onwards. The effect is as follows:
+X, as representative member, is responsible for the group's indirect tax liability. Assume, however, that X defaults from the July BAS onwards. The effect is as follows:
 
 - A, B and C are jointly and severally liable for amounts payable under the July to February monthly BASs. However, their
 
@@ -123,7 +123,7 @@ Technically, there is a supply for GST purposes where an entity enters into an I
 
 ## The agreement is not effective if:
 
-## Commissioner’s recovery of the group’s BAS liability, or
+## Commissioner's recovery of the group's BAS liability, or
 
 ## The requirements are that the ITSA must:
 

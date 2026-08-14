@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Calculation of control interest**
 
-**(1)**  A New Zealand resident’s control interest in a foreign company at any time is the total of the following for the relevant control interest category:
+**(1)**  A New Zealand resident's control interest in a foreign company at any time is the total of the following for the relevant control interest category:
 
 - (a) any direct control interest that the New Zealand resident holds in the company:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Avoidance arrangements: other kinds**
 
-**(3)**  Any of the following sections may apply to the calculation of a person’s control interest:
+**(3)**  Any of the following sections may apply to the calculation of a person's control interest:
 
 - (a) section GB 9 (Temporary disposals of direct control or income interests):
 

@@ -3,18 +3,14 @@ ATO ID 2003/1156
 ==================================================
 
 Goods and Services Tax
-        GST and access to an individual's health records for a fee
-        FOI status: may be released
-
-
+ GST and access to an individual's health records for a fee
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a medical practitioner, making a GST-free supply under subsection 38-7(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies an individual with access to their health records and charges a fee for the service?
@@ -29,8 +25,6 @@ Reasons for Decision
 Under subsection 38-7(1) of the GST Act, the supply of a 'medical service' is GST-free.
 A 'medical service' is defined under section 195-1 of the GST Act to mean:
 
-
-
 •a service for which a medicare benefit is payable under Part II of the Health Insurance Act 1973, or
 •any other service supplied by or on behalf of a medical practitioner or approved pathology practitioner that is generally accepted in the medical profession as being necessary for the appropriate treatment of the recipient of the supply.
 
@@ -40,36 +34,33 @@ Appropriate treatment is established where a practitioner assesses the recipient
 The entity is supplying an individual with access to their health records. A supply of access to health information does not involve treatment of any kind and therefore, the requirement that the supply be 'for the appropriate treatment of the recipient of the supply' is not satisfied. As such, the service does not fall within the second limb of the definition in section 195-1 of the GST Act and the supply is not a GST-free supply of a medical service under subsection 38-7(1) of the GST Act.
 The entity charges a fee for supplying an individual with access to their health records. The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under any other provision of Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies an individual with access to their health records and charges a fee for this service.
 
-
 Note: Where the entity is engaged to explain the health information relating to the individual, a supply of an explanation of an individual's health information by a medical practitioner will be GST-free where a medicare benefit is payable under Part II of the Health Insurance Act 1973, or the medical profession generally accepts the service as being necessary for the appropriate treatment of the recipient of the supply.
 
 Date of decision:
-         9 April 2002
+  9 April 2002
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   subsection 38-7(1)   Division 40   section 195-1
 Health Insurance Act 1973   Part II
 
-
 Keywords
 
 Goods and services tax
-          GST free
-          GST health
-          Section 38-7 - medical services
-          GST supplies & acquisitions
-          Taxable supply
-
+ GST free
+ GST health
+ Section 38-7 - medical services
+ GST supplies & acquisitions
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         1267522
+  1267522
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         23 December 2003
+  23 December 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

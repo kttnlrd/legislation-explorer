@@ -7,12 +7,12 @@ division_title: "Dividends, interest and royalties paid to non-residents"
 subdivision: ""
 subdivision_title: ""
 section: "160ZZZL"
-section_title: "Certain “hybrid mismatch” deductions denied"
+section_title: "Certain "hybrid mismatch" deductions denied"
 compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-# 160ZZZL Certain “hybrid mismatch” deductions denied
+# 160ZZZL Certain "hybrid mismatch" deductions denied
 
 <a id="s160ZZZL-1"></a>
 **(1)** Subsection (2) applies if:

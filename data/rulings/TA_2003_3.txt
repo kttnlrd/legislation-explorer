@@ -4,14 +4,12 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 104
-  • Division 122
-  • Section 6-5
+ • Division 104
+ • Division 122
+ • Section 6-5
 ITAA 1997
 
 Topics: CGT, Trusts, Partnerships, Companies, International
-
-
 
 ================================================================================
 
@@ -33,47 +31,47 @@ and the discussion of the application of Part IVA in that Determination applies 
 FOI status: may be released
 Taxpayer Alerts are intended to be an \"early warning\" of significant new and emerging tax planning issues or 
 
-        arrangements that the ATO has under risk assessment.
+ arrangements that the ATO has under risk assessment.
 Taxpayer Alerts will provide information that is in 
 
-        the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
+ the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
 
-        and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
+ and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
 
-        ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
+ ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
 
-        may on further examination be found not to be of concern to the ATO.
+ may on further examination be found not to be of concern to the ATO.
 Taxpayer Alerts will give the title of the 
 
-        issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
+ issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
 
-        the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
+ the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
 
-        taxpayers.
+ taxpayers.
 The developers and marketers of an arrangement which is the subject of a Taxpayer Alert should provide 
 
-        the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
+ the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
 Taxpayers who have entered 
 
-        into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
+ into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
 
-        of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
+ of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
 
-        the Alert.
+ the Alert.
 This Taxpayer Alert is issued under the authority of the Commissioner.
-This Taxpayer Alert describes an arrangement involving the sale of capital gains tax (CGT) assets.  The arrangement seeks to ensure that on the sale of the CGT assets to an arm's length party the taxable capital gains are streamed to a tax preferred entity, such as a charity, whilst the original owners of the assets receive the sale proceeds free of any CGT liability.
+This Taxpayer Alert describes an arrangement involving the sale of capital gains tax (CGT) assets. The arrangement seeks to ensure that on the sale of the CGT assets to an arm's length party the taxable capital gains are streamed to a tax preferred entity, such as a charity, whilst the original owners of the assets receive the sale proceeds free of any CGT liability.
 DESCRIPTION
 The alert applies to arrangements having the following features:
 1.
-Assets owned by an individual or under a partnership or trust structure are disposed of to a special purpose company ('SPC').  Roll-over relief is claimed under Division 122 of the
+Assets owned by an individual or under a partnership or trust structure are disposed of to a special purpose company ('SPC'). Roll-over relief is claimed under Division 122 of the
 Income Tax Assessment Act 1997
 ('ITAA 1997').
 2.
-A "bare" trust (First Trust) is created over the SPC assets with the sole beneficiary of the trust being the SPC.  The trust deed allows further beneficiaries to be appointed with the consent of the original beneficiary. First Trust is a discretionary trust but is referred to as a hybrid or convertible trust.
+A "bare" trust (First Trust) is created over the SPC assets with the sole beneficiary of the trust being the SPC. The trust deed allows further beneficiaries to be appointed with the consent of the original beneficiary. First Trust is a discretionary trust but is referred to as a hybrid or convertible trust.
 3.
 SPC consents to the trustee appointing new beneficiaries of the First Trust which are trustees of other trusts and may be associates of the promoter of the arrangement.
 4.
-A second trust is created (Second Trust) of which the beneficiaries are the original owner/s of the assets.  The assets are then sold to this Second Trust for a nominal amount.  However, the promoter argues that this sale for CGT purposes is deemed to have occurred at market value.  This means that the First Trust has a deemed capital gain and the Second Trust acquires the assets with a market value cost base.
+A second trust is created (Second Trust) of which the beneficiaries are the original owner/s of the assets. The assets are then sold to this Second Trust for a nominal amount. However, the promoter argues that this sale for CGT purposes is deemed to have occurred at market value. This means that the First Trust has a deemed capital gain and the Second Trust acquires the assets with a market value cost base.
 5.
 The Second Trust sells the assets for market value to a third party purchaser.
 6.
@@ -93,11 +91,11 @@ Whether the amounts received on the disposal by the Second Trust are assessable 
 (e)
 Whether the entity which ultimately derives the deemed capital gain is exempt from tax or has deductible losses;
 (f)
-Whether  Part IVA of the ITAA 1936 applies as:
+Whether Part IVA of the ITAA 1936 applies as:
 i.
 the arrangement seems artificial and lacks an ordinary business purpose in its design and execution; and
 ii.
-it appears the dominant purpose of entering the arrangement is to provide tax relief to the original owners of the asset.  The owners avoid an assessable capital gain upon subsequent sale to an arm's length third party.
+it appears the dominant purpose of entering the arrangement is to provide tax relief to the original owners of the asset. The owners avoid an assessable capital gain upon subsequent sale to an arm's length third party.
 The Australian Taxation Office is examining these arrangements.
 Date of Issue:
 24 June 2003

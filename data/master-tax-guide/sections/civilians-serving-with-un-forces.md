@@ -15,13 +15,13 @@ The full rebate is $338 plus 50% of the rebates or notional rebates to which the
 
   (¶15-100), indexed to $3,300 for 2024–25, and
 
-- child or student, unchanged at $376 for 2024–25 (s 961-10) cutting out when the dependant’s
+- child or student, unchanged at $376 for 2024–25 (s 961-10) cutting out when the dependant's
 
   ATIO exceeds $1,786 (s 79A(2)).
 
-The full rebate is available where the taxpayer’s UN service overseas exceeds half the income year or if the taxpayer dies while performing that service. Where the taxpayer’s period of service is less than half the year (and the taxpayer does not die while performing that service) the rebate allowable is the amount the Commissioner considers reasonable, generally apportioned on a time basis.
+The full rebate is available where the taxpayer's UN service overseas exceeds half the income year or if the taxpayer dies while performing that service. Where the taxpayer's period of service is less than half the year (and the taxpayer does not die while performing that service) the rebate allowable is the amount the Commissioner considers reasonable, generally apportioned on a time basis.
 
-A taxpayer’s period of UN service overseas includes periods of service in a zone area (¶15-160) (s 23AB(8)).
+A taxpayer's period of UN service overseas includes periods of service in a zone area (¶15-160) (s 23AB(8)).
 
 Periods of overseas service cannot qualify for both the UN forces rebate and the tax exemption for foreign source earnings under ITAA36 s 23AG (¶10-860).
 

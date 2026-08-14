@@ -11,13 +11,13 @@ The following sets out the key features of the present tax agent registration re
 
 Tax Practitioners Board (TPB) The TPB is a national Board which has the responsibility for registering tax agents and BAS agents, ensuring that registered entities maintain appropriate skills and knowledge, investigating complaints against registered entities and ensuring that unregistered entities do not hold themselves out to be registered. See further www.tpb.gov.au.
 
-BAS agents The registration regime as originally enacted extended to the registration of BAS agents who can only provide a limited range of services relating to the taxation laws that are relevant to a “BAS provision” in the law (¶32-065).
+BAS agents The registration regime as originally enacted extended to the registration of BAS agents who can only provide a limited range of services relating to the taxation laws that are relevant to a "BAS provision" in the law (¶32-065).
 
 Registration rules Meeting the ﬁt and proper person test (¶32-025), as well as minimum educational qualiﬁcations and relevant experience requirements (¶32-030), are required in order to obtain registration to provide tax agent services for a fee or other reward. The minimum educational qualiﬁcations and relevant experience requirements are set at a less demanding level for registration as a BAS agent than for registration as a tax agent, in recognition of the narrower scope of services provided by BAS agents.
 
-A signiﬁcant feature of the registration regime is that the registration of “specialist” tax agents (and BAS agents) is possible. For this purpose, the TPB may impose one or more conditions on registration. A condition limits the scope of the services that an agent may provide to a particular area of the taxation laws or a particular type of tax agent service (¶32-035).
+A signiﬁcant feature of the registration regime is that the registration of "specialist" tax agents (and BAS agents) is possible. For this purpose, the TPB may impose one or more conditions on registration. A condition limits the scope of the services that an agent may provide to a particular area of the taxation laws or a particular type of tax agent service (¶32-035).
 
-Also, appropriate professional indemnity insurance must be maintained by a registered entity (¶32-035), and registered individuals must undertake continuing professional education that meets the TPB’s requirements.
+Also, appropriate professional indemnity insurance must be maintained by a registered entity (¶32-035), and registered individuals must undertake continuing professional education that meets the TPB's requirements.
 
 While registration is restricted to individuals, partnerships and companies, there is ﬂexibility for a registered entity to conduct its business through a trust structure. See ¶32-020.
 
@@ -25,11 +25,11 @@ Period of registration As the TASA was originally enacted, the period of registr
 
 Code of Professional Conduct A key element of the registration regime is a statutory Code of Professional Conduct which prescribes the ethical and professional standards that must be adhered to by tax agents (and BAS agents). The Code is set out as a statement of principles and the TPB has issued guidelines relating to the interpretation and application of the Code (¶32-045). A number of signiﬁcant Code obligations have recently been created and there is now an obligation to notify the TPB of signiﬁcant breaches of the Code.
 
-Disqualified entities A registered tax agent or BAS agent must be approved by the TPB to employ, or use the services of, a “disqualiﬁed entity” (¶32-045). The disqualiﬁed entity provisions apply from 1 January 2024, subject to transitional provisions.
+Disqualified entities A registered tax agent or BAS agent must be approved by the TPB to employ, or use the services of, a "disqualiﬁed entity" (¶32-045). The disqualiﬁed entity provisions apply from 1 January 2024, subject to transitional provisions.
 
 Safe harbour from penalties A taxpayer who uses a registered tax agent (or BAS agent) can beneﬁt from safe harbours from statement and late lodgment administrative penalties in certain circumstances. Administrative penalties do not apply:
 
-- where a false or misleading statement is made by a taxpayer’s agent carelessly, provided the
+- where a false or misleading statement is made by a taxpayer's agent carelessly, provided the
 
   taxpayer gave the tax agent all relevant taxation information necessary to make the statement (for
 
@@ -39,7 +39,7 @@ Safe harbour from penalties A taxpayer who uses a registered tax agent (or BAS a
 
 - where a document (such as a return, notice or statement) is not lodged on time in the approved
 
-  form due to the agent’s carelessness, provided the taxpayer gave the agent all relevant taxation
+  form due to the agent's carelessness, provided the taxpayer gave the agent all relevant taxation
 
   information in suﬃcient time to enable the agent to lodge the document on time and in the
 

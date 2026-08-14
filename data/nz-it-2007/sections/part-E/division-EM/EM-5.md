@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Fair dividend rate hedge portions**
 
-**(1)**  This section calculates the maximum fair dividend rate hedge portions for a person’s eligible hedges on a hedge-by-hedge basis under an election provided by section EM 4, or the minimum fair dividend rate hedge portions for hedges that are a hedge of a hedge.
+**(1)**  This section calculates the maximum fair dividend rate hedge portions for a person's eligible hedges on a hedge-by-hedge basis under an election provided by section EM 4, or the minimum fair dividend rate hedge portions for hedges that are a hedge of a hedge.
 
 **Choice of methods**
 
-**(3)**  A person may choose to use either the method in subsections (4) and (5), or the method in subsections (9) to (10D), to calculate the maximum or minimum, as the case may be, fair dividend rate hedge portions for all of the person’s eligible hedges when the relevant hedge is first entered into or acquired. They may not choose to use, for example, the method in subsections (4) and (5) for some hedges and the method in subsections (9) to (10D) for other hedges.
+**(3)**  A person may choose to use either the method in subsections (4) and (5), or the method in subsections (9) to (10D), to calculate the maximum or minimum, as the case may be, fair dividend rate hedge portions for all of the person's eligible hedges when the relevant hedge is first entered into or acquired. They may not choose to use, for example, the method in subsections (4) and (5) for some hedges and the method in subsections (9) to (10D) for other hedges.
 
 **First method**
 
-**(4)**  The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person’s eligible hedge (the calculation hedge) is the lesser of 100% and the amount, expressed as a percentage, calculated, using the formula in this subsection, when the hedge is first entered into or acquired. Subsection (8) overrides this subsection. The formula is— (1.05 × (eligible currency assets + proxied currency assets) − FDR hedges amount) ÷ calculation hedge amount.
+**(4)**  The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the lesser of 100% and the amount, expressed as a percentage, calculated, using the formula in this subsection, when the hedge is first entered into or acquired. Subsection (8) overrides this subsection. The formula is— (1.05 × (eligible currency assets + proxied currency assets) − FDR hedges amount) ÷ calculation hedge amount.
 
 **Definition of items in formula**
 
@@ -28,19 +28,19 @@ compilation_date: 2026-06-06
 
 - (a) eligible currency assets is the total market value of,—
 
-  - (i) a person’s assets described in section EM 1(1)﻿(a) and (b) that are denominated in the same currency (the calculation currency) that the calculation hedge hedges; and
+  - (i) a person's assets described in section EM 1(1)﻿(a) and (b) that are denominated in the same currency (the calculation currency) that the calculation hedge hedges; and
 
   - (ii) if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by a multi-rate PIE, described in section EM 1(1)﻿(a) and (b), and denominated in the calculation currency:
 
 - (b) proxied currency assets is,—
 
-  - (i) unless subparagraph (ii) or (iii) applies, the total market value of a person’s assets described in section EM 1(1)﻿(a) and (b) that are denominated in a currency (the proxied currency) other than the calculation currency, if an eligible hedge that is denominated in the calculation currency acts like hedging for the assets due to a relationship between exchange rate movements in the proxied currency and the calculation currency:
+  - (i) unless subparagraph (ii) or (iii) applies, the total market value of a person's assets described in section EM 1(1)﻿(a) and (b) that are denominated in a currency (the proxied currency) other than the calculation currency, if an eligible hedge that is denominated in the calculation currency acts like hedging for the assets due to a relationship between exchange rate movements in the proxied currency and the calculation currency:
 
   - (ii) zero, if the person has hedges denominated in the proxied currency:
 
   - (iii) zero, if the person has a hedge, denominated in a currency other than the proxied currency or the calculation currency, that acts like hedging for the assets due to a relationship between exchange rate movements in the proxied currency and that other currency:
 
-- (c) FDR hedges amount is the amount of calculation currency hedged by a person’s fair dividend rate hedge portions, but excluding the portion for the calculation hedge:
+- (c) FDR hedges amount is the amount of calculation currency hedged by a person's fair dividend rate hedge portions, but excluding the portion for the calculation hedge:
 
 - (d) calculation hedge amount is the amount of foreign currency that is hedged by the calculation hedge.
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Second method**
 
-**(9)**  The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person’s eligible hedge (the calculation hedge) is the amount, expressed as a percentage, calculated using the following formula when the hedge is first entered into or acquired: FDR gross amount × apportioned current hedge amount ÷ calculation hedge amount.
+**(9)**  The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the amount, expressed as a percentage, calculated using the following formula when the hedge is first entered into or acquired: FDR gross amount × apportioned current hedge amount ÷ calculation hedge amount.
 
 **Definition of items in formula**
 
@@ -74,9 +74,9 @@ compilation_date: 2026-06-06
 
 **(10C)**  In the formula in subsection (10B)﻿(b), all items are expressed in New Zealand currency, and—
 
-- (a) eligible currency assets is the total market value of a person’s assets described in section EM 1(1)﻿(a) and (b) and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
+- (a) eligible currency assets is the total market value of a person's assets described in section EM 1(1)﻿(a) and (b) and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
 
-- (b) FDR hedges amount is the amount of foreign currency hedged by a person’s fair dividend rate hedge portions, but excluding the portion for the calculation hedge:
+- (b) FDR hedges amount is the amount of foreign currency hedged by a person's fair dividend rate hedge portions, but excluding the portion for the calculation hedge:
 
 - (c) apportioned current hedge amount is the amount given by subsection (10D).
 
@@ -88,13 +88,13 @@ compilation_date: 2026-06-06
 
   - (i) the amount of foreign currency hedged by the calculation hedge:
 
-  - (ii) the amount of foreign currency that is hedged by a person’s hedges including the calculation hedge less the amount of foreign currency that is hedged by a person’s FDR hedge portions excluding the calculation hedge less the total market value of a person’s non-eligible assets, treating a negative result as zero:
+  - (ii) the amount of foreign currency that is hedged by a person's hedges including the calculation hedge less the amount of foreign currency that is hedged by a person's FDR hedge portions excluding the calculation hedge less the total market value of a person's non-eligible assets, treating a negative result as zero:
 
-- (b) the negative of the amount of foreign currency that is hedged by a person’s FDR hedge portions excluding the calculation hedge, if—
+- (b) the negative of the amount of foreign currency that is hedged by a person's FDR hedge portions excluding the calculation hedge, if—
 
   - (i) the calculation hedge is a hedge of a hedge; and
 
-  - (ii) the amount of foreign currency that is hedged by a person’s FDR hedge portions excluding the calculation hedge plus the calculation hedge equals less than zero.
+  - (ii) the amount of foreign currency that is hedged by a person's FDR hedge portions excluding the calculation hedge plus the calculation hedge equals less than zero.
 
 **Relationship with subject matter**
 

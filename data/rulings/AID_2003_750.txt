@@ -3,23 +3,18 @@ ATO ID 2003/750
 ==================================================
 
 Income Tax
-        Thin Capitalisation: loans from resident company to non-resident associate company
-        FOI status: may be released
-
+ Thin Capitalisation: loans from resident company to non-resident associate company
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database because it contains a view in respect Division 16F of the Income Tax Assessment Act 1936 which does not apply after 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions up to, and including, 30 June 2001.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 
@@ -39,15 +34,11 @@ Because debt and equity invested in an Australian enterprise become mixed with p
 
 An amount owing to a resident company, to a partnership or to the trustee of a trust estate as at a particular time is a short-term trade credit amount in terms of subsection 159GZJB(1) of the ITAA 1936 if, and only if, all of the following paragraphs apply:
 
-
-
 (a)the amount is owing to the company, partnership or trustee by a foreign controller or a non-resident associate of a foreign controller, of the company, partnership or trust estate, as the case may be (which foreign controller or associate is in this subsection called the
-                'trade debtor'
-                );
+ 'trade debtor'
+ );
 (b)the company, partnership or trustee carries on a business of providing property or services at that time;
 (c)in the course of carrying on that business, the company, partnership or trustee, as the case may be:
-
-
 
 (i)provides property or services to the trade debtor; and
 (ii)invoices the trade debtor for the provision of the property or services on terms that allow the trade debtor credit for a period not exceeding 30 days after the date of the invoice;
@@ -58,18 +49,12 @@ Subsection 159GZJB(3) of the ITAA 1936 states that 'provide' and 'services' have
 
 "provide"
 
-
-
 (a)in relation to property - includes dispose of (whether by assignment, declaration of trust or otherwise); and
 (b)in relation to services - includes allow, confer, give, grant or perform;
 
 "services" includes any benefit, right (including a right in relation to, and an interest in, real or personal property), privilege or facility and, without limiting the generality of the foregoing, includes a right, benefit, privilege, service or facility that is, or is to be, provided under:
 
-
-
 (a)an arrangement for or in relation to:
-
-
 
 (i)the performance of work (including work of a professional nature), whether with or without the provision of property;
 (ii)the provision of, or of the use of facilities for, entertainment, recreation or instruction; or
@@ -81,28 +66,25 @@ Subsection 159GZJB(3) of the ITAA 1936 states that 'provide' and 'services' have
 The amounts owing to the Australian company by the non-resident associate company are short-term trade credit amounts because all of the paragraphs and subparagraphs of subsection 159GZJB(1) of the ITAA 1936 apply:
 
 paragraph (a)
-               (the amounts are owing to the Australian company by a non-resident associate of a foreign controller of the Australian company, which associate is called the trade debtor);
-
+ (the amounts are owing to the Australian company by a non-resident associate of a foreign controller of the Australian company, which associate is called the trade debtor);
 
 paragraph (b)
-               and
-              subparagraph (c)(i)
-               (the Australian company carries on a business of providing services to the trade debtor because under the definition of services in subsection 21A (5) of the ITAA 1936, the provision of services includes the provision of a loan);
-
+ and
+ subparagraph (c)(i)
+ (the Australian company carries on a business of providing services to the trade debtor because under the definition of services in subsection 21A (5) of the ITAA 1936, the provision of services includes the provision of a loan);
 
 subparagraph (c)(ii)
-               (the Australian company invoiced the trade debtor on terms that allowed credit for a period not exceeding 30 days after the date of the invoice); and
-
+ (the Australian company invoiced the trade debtor on terms that allowed credit for a period not exceeding 30 days after the date of the invoice); and
 
 paragraph (d)
-               (the credit facility referred to in subparagraph (c)(ii) was not extended or rolled over).
+ (the credit facility referred to in subparagraph (c)(ii) was not extended or rolled over).
 
 Note: Division 16F of the ITAA 1936 was repealed with effect from 1 July 2001.
 Date of decision:
-         7 August 2003
+  7 August 2003
 
 Year of income:
-           SAP in lieu of 30 June 1999
+  SAP in lieu of 30 June 1999
 
 Legislative References:
 
@@ -116,26 +98,22 @@ Keywords
 
 Thin capitalisation
 
-
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         22 August 2003
+  22 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  7 August 2003

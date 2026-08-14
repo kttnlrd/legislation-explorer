@@ -23,9 +23,9 @@ The trustee distribution resolution deals with trust law income and may only be 
 
 Applying the proportionate approach what is the outcome of the distribution?
 
-Solution In FC of T v Bamford & Ors; Bamford & Anor v FC of T 2010 ATC ¶20-170; [2010] HCA 10, the High Court held that the proportionate approach is applied regardless of how the trustee’s resolution to distribute income is made. That is, whether by reference to dollar amounts, or to fractions or proportions of trust income. The High Court indicated that the natural meaning to give to the word “share” was “proportion” rather than “part” or “portion”.
+Solution In FC of T v Bamford & Ors; Bamford & Anor v FC of T 2010 ATC ¶20-170; [2010] HCA 10, the High Court held that the proportionate approach is applied regardless of how the trustee's resolution to distribute income is made. That is, whether by reference to dollar amounts, or to fractions or proportions of trust income. The High Court indicated that the natural meaning to give to the word "share" was "proportion" rather than "part" or "portion".
 
-The Commissioner’s Decision Impact Statement in relation to Bamford’s case and Practice Statement PS LA 2010/1 describe the approach taken by the ATO if deliberate attempts are made to exploit the provisions of ITAA36 Div 6 by the re-characterisation of an amount for trust purposes. This is where there is a manipulation of income and capital amounts in order to reduce tax.
+The Commissioner's Decision Impact Statement in relation to Bamford's case and Practice Statement PS LA 2010/1 describe the approach taken by the ATO if deliberate attempts are made to exploit the provisions of ITAA36 Div 6 by the re-characterisation of an amount for trust purposes. This is where there is a manipulation of income and capital amounts in order to reduce tax.
 
 In this case the proportionate approach will assess the income beneficiaries on the net trust income of $4,450,000 which includes the net capital gain after the discount, notwithstanding that they are not entitled to any capital distribution.
 

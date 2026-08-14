@@ -3,23 +3,19 @@ ATO ID 2007/32
 ==================================================
 
 Goods and Services Tax
-        GST and transaction information supplied by an ADI - client's own transaction
-        FOI status: may be released
-
+ GST and transaction information supplied by an ADI - client's own transaction
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in  subsection 195-1 of the GST Act.
-
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is an entity, an Australian authorised deposit-taking institution (ADI), making a financial supply under subregulation 40-5.09(4) of the A New Tax System (Goods and Services Tax) Regulations 1999 (the GST Regulations) when it provides transaction information, for not more than $1,000, to a client who is not an account holder with the entity and the information relates to the client's own transaction.
@@ -34,11 +30,7 @@ Reasons for Decision
 Under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that a financial supply has the meaning given by the GST Regulations.
 Subregulation 40-5.09(1) of the GST Regulations states that the provision, acquisition or disposal of an interest mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
 
-
-
 (a)the provision, acquisition or disposal is:
-
-
 
 •for consideration
 •in the course or furtherance of an enterprise
@@ -46,14 +38,10 @@ Subregulation 40-5.09(1) of the GST Regulations states that the provision, acqui
 
 (b)the supplier is:
 
-
-
 •registered or required to be registered for GST, and
 •a financial supply provider in relation to the supply of the interest.
 
 Item 1 in the table in subregulation 40-5.09(3) of the GST Regulations lists, as a financial supply, an interest in or under an account made available by an Australian ADI in the course of:
-
-
 
 •its banking business within the meaning of the Banking Act, or
 •its State banking business.
@@ -72,7 +60,6 @@ Note 3: Something that is within the scope of an item in the table in regulation
 Part 1 of Schedule 7 to the GST Regulations provides examples of services and products which relate to the supply of an interest in an account made available by an Australian ADI. It follows that each of the services or products mentioned in Part 1 of Schedule 7 is an example of a financial supply - being the supply of an interest in an account under item 1 in the table in subregulation 40-5.09(3) of the GST Regulations.
 The following listed examples have a similar context to the provision of transaction information, in the way that they relate to the supply of an account by an Australian ADI:
 
-
 Example 8 - notification of dishonoured transactions and unpaid feesExample 13 - making information about accounts available.
 
 The provision of transaction information is consistent with these examples. It is within the scope of a type of product or service relating to the supply of an account by an Australian ADI.
@@ -82,14 +69,10 @@ A financial supply to non-account holders
 
 Subregulation 40-5.09(4) of the GST Regulations states that a supply (to which item 1 in the table to subregulation 40-5.09(3) of the GST Regulations does not apply) by an Australian ADI for a fee of not more than $1,000 is a financial supply if:
 
-
-
 •the item would have applied to that supply in relation to an account with the ADI, or
 •the fee relates to an application to the ADI that, if accepted, would result in the creation of an account by the ADI.
 
 Examples of financial supplies mentioned in subregulation 40-5.09(4) of the GST Regulations are:
-
-
 
 1. Electronic transfer to another Australian ADI for a person who does not hold an account with the ADI
 2. A loan application fee.
@@ -101,7 +84,7 @@ Further explanation and guidance to the interpretation of subregulation 40-5.09(
 The provision intends for an Australian ADI to treat supplies, for a fee of not more than $1,000, as financial supplies if they are provided to non-account holders and those supplies would have otherwise been financial supplies under item 1 in the table in subregulation 40-5.09(3) of the GST Regulations if made to account holders.
 A supply of transaction information to a client, where the information relates to a client transaction, will be a financial supply under subregulation 40-5.09(4) of the GST Regulations when made to a recipient who does not hold an account and the fee charged is not more than $1,000. This is because it would have been a supply under subregulation 40-5.09(3) of the GST Regulations if the client held an account.
 Date of decision:
-         25 October 2006
+  25 October 2006
 
 Legislative References:
 
@@ -114,26 +97,25 @@ Related ATO Interpretative Decisions
 
 Other References:
 
-Explanatory Statement to the  A New Tax System (Goods and Services Tax) Amendment Regulations 2000 (No.2)
+Explanatory Statement to the A New Tax System (Goods and Services Tax) Amendment Regulations 2000 (No.2)
 
 Keywords
 
 Accounts
-          Goods and services tax
-          GST financial supplies
-          GST regulations
-          GST supply
-          Input taxed supplies
-
+ Goods and services tax
+ GST financial supplies
+ GST regulations
+ GST supply
+ Input taxed supplies
 
 Siebel/TDMS Reference Number:
-         5448768
+  5448768
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         16 February 2007
+  16 February 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -3,18 +3,14 @@ ATO ID 2003/891
 ==================================================
 
 Income Tax
-        Indirect value shifting: land transferred at cost
-        FOI status: may be released
-
-
+ Indirect value shifting: land transferred at cost
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the exclusion from the indirect value shifting rules in section 727-220 of the Income Tax Assessment Act 1997 (ITAA 1997) (for the transfer of an asset for at least its cost) apply, when land is transferred at cost and the cost is more than the market value of the land?
@@ -29,18 +25,12 @@ An indirect value shift (IVS) may have consequences under section 727-100 of the
 Pursuant to section 727-150 of the ITAA 1997 there will be an IVS when the market value of economic benefits provided by one entity (the losing entity) to another entity (the gaining entity) exceeds the market value of benefits provided by the gaining entity in connection with a scheme. The benefits provided by the losing entity are referred to as the 'greater benefits.'
 An IVS will have no consequences under section 727-220 of the ITAA 1997 if the following requirements are satisfied:
 
-
-
 •The greater benefits must consist entirely of:
-
-
 
 • the losing entity transferring a CGT asset to the gaining entity; or
 • a right to have the losing entity transfer an asset to the gaining entity.
 
 •There must be lesser benefits and, at the time of the IVS, the total market value of the lesser benefits must not be less than the greatest of:
-
-
 
 • the asset's cost base at that time
 • the asset's cost
@@ -50,10 +40,10 @@ If section 727-220 of the ITAA 1997 were to apply in this case, the IVS would ha
 In this transaction, company L (the losing entity) has provided $10 million consideration (the greater benefits) to company G (the gaining entity) for land valued at $8 million (the lesser benefits). Section 727-220 would not apply in relation to the transfer of the land, because the 'greater benefits' do not consist of the losing entity transferring land to the gaining entity.
 The exclusion in section 727-220 does not apply to the transfer of the land for more than its market value, because value has not shifted from the transferor of the land to the transferee. As a result, the IVS will be covered by Subdivision 727-F of the ITAA 1997 if no other exclusion applies.
 Date of decision:
-         17 September 2003
+  17 September 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -62,18 +52,17 @@ Income Tax Assessment Act 1997   Division 727   Subdivision 727-F   sec
 Keywords
 
 Capital gains tax
-          CGT exemptions
-          CGT share value shifting arrangements
-
+ CGT exemptions
+ CGT share value shifting arrangements
 
 Siebel/TDMS Reference Number:
-         3663325
+  3663325
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         3 October 2003
+  3 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

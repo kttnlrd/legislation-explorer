@@ -9,7 +9,7 @@ paragraph: "¶5-150"
 
 The net income or loss of a partnership and the exempt income of a partnership are calculated by reference to income from all sources, whether Australian or ex-Australian. The calculations are made on the assumption that the partnership is a resident taxpayer (s 90: ¶5-070).
 
-Where the partner is a resident for the whole of the year of income, no diﬃculty arises. The partner is assessable on their share of the net partnership income or is entitled to a deduction for their share of the partnership loss; and if there is exempt income of the partnership, the partner’s exempt income includes their share of the partnership exempt income (¶5-130).
+Where the partner is a resident for the whole of the year of income, no diﬃculty arises. The partner is assessable on their share of the net partnership income or is entitled to a deduction for their share of the partnership loss; and if there is exempt income of the partnership, the partner's exempt income includes their share of the partnership exempt income (¶5-130).
 
 In the case of a partner who is a non-resident for the whole or a part of the year of income, special rules ensure that such a partner is not assessed on income derived from foreign sources while the partner was a non-resident (s 92).
 
@@ -21,7 +21,7 @@ In the case of a partner who is a non-resident for the whole or a part of the ye
 
   attributable to Australian sources. If there is exempt income of the partnership, the exempt income
 
-  includes only the partner’s share of the partnership exempt income that is attributable to Australian
+  includes only the partner's share of the partnership exempt income that is attributable to Australian
 
   sources.
 
@@ -33,6 +33,6 @@ In the case of a partner who is a non-resident for the whole or a part of the ye
 
   resident. Similar rules apply where there is a partnership loss or partnership exempt income.
 
-Under the provisions of the tax law applicable to partnerships, an Australian source is attributed to certain royalties paid to non-residents and “natural resource income” respectively (¶21-070).
+Under the provisions of the tax law applicable to partnerships, an Australian source is attributed to certain royalties paid to non-residents and "natural resource income" respectively (¶21-070).
 
-## Alteration of partner’s proﬁt entitlement: “Everett
+## Alteration of partner's proﬁt entitlement: "Everett

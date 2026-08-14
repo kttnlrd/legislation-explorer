@@ -20,19 +20,19 @@ compilation_date: 2026-06-06
 
 **Definition of item in formula**
 
-**(3)**  In the formula, total gifts means the total amount of all charitable or other public benefit gifts made by the person in the tax year, limited to the amount of the person’s taxable income for that tax year.
+**(3)**  In the formula, total gifts means the total amount of all charitable or other public benefit gifts made by the person in the tax year, limited to the amount of the person's taxable income for that tax year.
 
 **Administrative requirements**
 
 **(4)**  Despite subsection (1), the requirements of section 41A are modified if a tax agent or representative applies for a refund under that section on behalf of a person, and—
 
-- (a) the tax agent or representative sees the receipt for the person’s charitable or other public benefit gift; and
+- (a) the tax agent or representative sees the receipt for the person's charitable or other public benefit gift; and
 
 - (b) the person retains the receipt for 4 tax years after the tax year to which the claim relates.
 
 **Refundable credits**
 
-**(5)**  A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: tax credits for social policy and other initiatives) and is excluded from the application of sections LA 2 to LA 6 (which relate to a person’s income tax liability).
+**(5)**  A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: tax credits for social policy and other initiatives) and is excluded from the application of sections LA 2 to LA 6 (which relate to a person's income tax liability).
 
 *Defined in this Act: amount, apply, charitable or other public benefit gift, refundable tax credit, representative, tax agent, tax credit, tax year*
 

@@ -23,7 +23,7 @@ The market value in the interests in Merkel have fallen by $0.60 per share ($3 m
 
 The indirect value shifting does not give rise to assessable gains or losses. Instead, adjustments are made for the consequential or indirect effects of the value shift. The consequences are limited to either reducing capital losses or capital gains that would otherwise arise when the interests are realised or, where a choice is made, varying the adjustable values of interests held by affected owners.
 
-There are 2 methods that can be applied to work out the consequences of an indirect value shift — the “realisation time method” or the “adjustable value method”. The realisation time method applies unless a choice is made to use the adjustable value method (s 727-455).
+There are 2 methods that can be applied to work out the consequences of an indirect value shift — the "realisation time method" or the "adjustable value method". The realisation time method applies unless a choice is made to use the adjustable value method (s 727-455).
 
 Prima facie, the sale of the shares in Merkel (the losing entity) by Lagrande triggered a capital loss of $2 per share.
 

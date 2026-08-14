@@ -10,7 +10,7 @@ paragraph: "None"
 business concessions
 Worked example: Changing a business structure: small business restructure roll-over and CGT small business concessions Issue Marcus Hearn, an Australian resident for tax purposes, is a qualified dentist who acquired his own dental practice in 2015, together with the consulting rooms from which he operates his practice as a sole trader. He is 48 years old. The turnover of his business in both the 2023–24 and 2024–25 income years was less than $2 million. Marcus is concerned that both his personal assets and his business premises may be exposed in the event of claims from disgruntled patients or creditors. He wishes to restructure his business so as to protect his assets. He also wishes to boost his superannuation savings because in recent years he has tended to invest surplus funds back into his practice rather than making superannuation contributions. He therefore wishes to transfer his business and all its assets into a discretionary trust, the Marcus Discretionary Trust (MDT), which has a family trust election in place naming Marcus as the primary individual. He also wishes to transfer the consulting rooms into a newly established SMSF, the Marcus SMSF, which will then lease the premises to the MDT for a commercial rent. He wishes to undertake the transfers on 30 June 2025. The active assets of his business are the goodwill of the practice, the consulting rooms, the stock of medical and dental products on hand and various depreciating assets. The market value and cost base/adjustable value of those assets as at 30 June 2025 is: Market value              Cost base Consulting rooms                                                                      700,000             350,000 Goodwill                                                                              400,000             100,000 Stock of dental/medical products                                                        80,000             75,000 Depreciating assets                                                                     70,000             25,000 (adjustable value) What are the capital gains tax and other taxation implications of the proposed restructuring? What reliefs and concessions are potentially available to Marcus to reduce his tax liability? Solution In the absence of any further planning, Marcus will make a capital gain in relation to the transfer of the consulting rooms of $350,000 and a further capital gain in relation to the transfer of the goodwill of $300,000. In addition, he will make an assessable profit of $5,000 on the transfer of stock and $45,000 on the transfer of depreciating assets. Transfer of the business assets to the MDT Marcus can choose to apply the small business restructure roll-over relief in relation to the transfer of the assets to the MDT. This relief is available for the transfer of assets as part of a change of legal structure without a change in the ultimate legal ownership of the assets (Subdiv 328-G). The roll-over relief is available for gains and losses business concessions that arise on the transfer of CGT assets, trading stock, revenue assets and depreciating assets. The roll-over is available where the following conditions set out in s 328-430 are satisfied:
 • an entity transfers an asset to one or more other entities
-• the transaction is, or is part of, a “genuine restructure” of an ongoing business
+• the transaction is, or is part of, a "genuine restructure" of an ongoing business
 • each of the parties to the transaction falls within one of the following categories:
 – it is a small business entity (SBE) for the year in which the transfer occurred
 – it is connected with an entity that is a SBE for the year in which the transfer occurred
@@ -31,7 +31,7 @@ Ruling LCR 2016/3):
 innovation and diversification, adapt to changed conditions, or reduce administrative burdens,
 compliance costs and/or cash flow impediments
 • it is authentically restructuring the way in which the business is conducted as opposed to a
-“divestment” or preliminary step to facilitate the economic realisation of assets
+"divestment" or preliminary step to facilitate the economic realisation of assets
 • the economic ownership of the business and its restructured assets is maintained
 • the small business owners continue to operate the business through a different legal structure, and
 • it results in a structure likely to have been adopted had the small business owners obtained
@@ -44,7 +44,7 @@ the 3-year period after the transaction takes effect:
 • there is no significant or material use of those significant assets for private purposes (s 328-435).
 The effect of applying the roll-over is that a restructure is capable of being achieved in a tax-neutral way with
 regard to income tax. The CGT effect of applying the roll-over is as follows:
-(a) the CGT asset is treated as being transferred for an amount equal to the transferor’s cost base of
+(a) the CGT asset is treated as being transferred for an amount equal to the transferor's cost base of
 the asset just before the transfer, thereby preventing any capital gain or loss from arising (s 328-455(2)
 (a))
 (b) any pre-CGT asset transferred maintains its pre-CGT status (s 328-460), and

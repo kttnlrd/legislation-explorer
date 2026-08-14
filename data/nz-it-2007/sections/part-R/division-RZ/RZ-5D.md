@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Application of modified sections RZ 3 to RZ 5**
 
-**(2)**  Sections RZ 3 to RZ 5 apply for the transitional period to the Maori authority and the Maori authority’s provisional tax liability as if—
+**(2)**  Sections RZ 3 to RZ 5 apply for the transitional period to the Maori authority and the Maori authority's provisional tax liability as if—
 
 - (a) the Maori authority were a new company tax rate person:
 

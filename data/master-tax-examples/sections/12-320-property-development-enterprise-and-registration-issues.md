@@ -17,15 +17,15 @@ The second stage of the subdivision involved more extensive ground works to be c
 
 The second stage works also include drainage, driveway crossovers and a fire trail excavation.
 
-The other works for stages one and 2 are electricity and telephone infrastructure and very basic wire fencing to delineate subdivided lots and some boundary timber posts and rails. The subdivision works are the minimum required to meet council’s requirements for vacant land subdivision.
+The other works for stages one and 2 are electricity and telephone infrastructure and very basic wire fencing to delineate subdivided lots and some boundary timber posts and rails. The subdivision works are the minimum required to meet council's requirements for vacant land subdivision.
 
 Each lot has been or will be sold as vacant land. Reginald does not intend to undertake any development of the subdivided lots, for example, he does not intend to construct houses.
 
 The cost of the subdivision to date has been paid by drawing down on the existing mortgage on the property.
 
-So far, Reginald has sold 11 lots “off the plan”. He will retain the remaining unsold lots for as long possible.
+So far, Reginald has sold 11 lots "off the plan". He will retain the remaining unsold lots for as long possible.
 
-Reginald’s intention is to continue to reside on the lot within the subdivision on which his current home is situated.
+Reginald's intention is to continue to reside on the lot within the subdivision on which his current home is situated.
 
 Advise Reginald on the GST implications of the proposals.
 
@@ -35,7 +35,7 @@ Reginald makes the supply of subdivided lots of land for consideration and the s
 
 Enterprise is defined in s 9-20(1) of the GST Act, which states that an enterprise is an activity, or series of activities, done in the form of a business or in the form of an adventure or concern in the nature of trade.
 
-Although Reginald is not carrying on a business of property development, it needs to be established whether Reginald is undertaking an adventure or concern in the nature of trade or just an isolated transaction. registration issues Paragraphs 262-263 of Miscellaneous Tax Ruling MT 2006/1 state that “the question of whether an entity is carrying on an enterprise often arises where there are one-off or isolated real property transactions. The issue to be decided is whether the activities are an enterprise in that they are of a revenue nature as they are considered to be activities of carrying on a business or an adventure or concern in the nature of trade (profit making undertaking or scheme) as opposed to the mere realisation of a capital asset.” An isolated commercial transaction may qualify as an enterprise. In Professional Admin Service Centres Pty Ltd v FC of T 2013 ATC ¶20-424, it was established that “….s 9-20(1) makes it clear that an ‘enterprise’ can include an isolated commercial venture in the nature of trade, which implies that it [can] be entered into for a commercial purpose, including the purpose of profit-making….”.
+Although Reginald is not carrying on a business of property development, it needs to be established whether Reginald is undertaking an adventure or concern in the nature of trade or just an isolated transaction. registration issues Paragraphs 262-263 of Miscellaneous Tax Ruling MT 2006/1 state that "the question of whether an entity is carrying on an enterprise often arises where there are one-off or isolated real property transactions. The issue to be decided is whether the activities are an enterprise in that they are of a revenue nature as they are considered to be activities of carrying on a business or an adventure or concern in the nature of trade (profit making undertaking or scheme) as opposed to the mere realisation of a capital asset." An isolated commercial transaction may qualify as an enterprise. In Professional Admin Service Centres Pty Ltd v FC of T 2013 ATC ¶20-424, it was established that "….s 9-20(1) makes it clear that an 'enterprise' can include an isolated commercial venture in the nature of trade, which implies that it [can] be entered into for a commercial purpose, including the purpose of profit-making….".
 
 The cases of Statham and Anor v Federal Commissioner of Taxation 89 ATC 4070 and Casimaty v FC of T 97 ATC 5135 provide guidance on when activities to subdivide land amount to a business or a profit-making undertaking or scheme. In these cases, farm land was subdivided and sold. Minimal development work was undertaken to meet council requirements and to improve the presentation of certain allotments. The courts held that the sales were a mere realisation of a capital asset.
 
@@ -63,7 +63,7 @@ From the Statham and Casimaty cases, a list of factors can be ascertained that p
 
 In determining whether activities relating to isolated transactions are an enterprise or are the mere realisation of a capital asset, it is necessary to consider the factors outlined above. However, there may also be other relevant factors that need to be weighed up as part of the process of reaching an overall conclusion. No single factor will be determinative. Rather it will be a combination of factors that will lead to a conclusion as to the character of the activities.
 
-Based on an analysis of Reginald’s situation, his activities would not amount to an enterprise of property development. Reginald was not engaged in property development activities in the past and he has decided to subdivide and sell part of the property in order to secure his retirement plans. They are a “mere realisation” of an asset likely to be treated on a capital basis.
+Based on an analysis of Reginald's situation, his activities would not amount to an enterprise of property development. Reginald was not engaged in property development activities in the past and he has decided to subdivide and sell part of the property in order to secure his retirement plans. They are a "mere realisation" of an asset likely to be treated on a capital basis.
 
 Therefore, the sales of subdivided lots of land by Reginald are not made in the course or furtherance of carrying on an enterprise of property development and are not subject to GST.
 

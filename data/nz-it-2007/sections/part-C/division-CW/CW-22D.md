@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) section YD 1B(4) (Non-resident visitors) applies to the non-resident visitor; and
 
-- (c) the laws of the country or territory outside New Zealand referred to in section YD 1B(4) treat the person’s cessation of residency or liability to tax as having occurred on an earlier date (the effective date) than the date the person stops being a non-resident visitor under that section (the cessation date); and
+- (c) the laws of the country or territory outside New Zealand referred to in section YD 1B(4) treat the person's cessation of residency or liability to tax as having occurred on an earlier date (the effective date) than the date the person stops being a non-resident visitor under that section (the cessation date); and
 
 - (d) the amount is derived in the period starting on the effective date and ending on the cessation date.
 

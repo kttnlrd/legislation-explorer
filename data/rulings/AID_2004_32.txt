@@ -3,18 +3,14 @@ ATO ID 2004/32
 ==================================================
 
 Goods and Services Tax
-        GST and decreasing adjustments for settlements of compulsory third party insurance claims following transfer of registration
-        FOI status: may be released
-
-
+ GST and decreasing adjustments for settlements of compulsory third party insurance claims following transfer of registration
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, a compulsory third party (CTP) insurer, use the input tax credit percentage entitlement notified by the original holder of a CTP insurance policy to calculate its decreasing adjustment using the formula in section 78-15 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when, after transfer of motor vehicle registration, the entity settles a claim made by the new holder of the CTP insurance policy?
@@ -28,26 +24,22 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Section 78-15 of the GST Act sets out the formula for determining the amount of an insurer's decreasing adjustment required to be made as a result of an insurer settling a claim under an insurance policy (section 78-10 of the GST Act). Section 78-15 of the GST Act provides:
 
-
-
 •if there was no entitlement to an input tax credit for the premium paid in relation to the period during which the event giving rise to the claim happened, the amount of the decreasing adjustment is 1/11 of the settlement amount (subsection 78-15(1) of the GST Act).
 •if there was an entitlement to such an input tax credit, the amount of decreasing adjustment is as follows:
 
-
 (1 / 11) × Settlement amount × (1 - Extent of input tax credit)
-                    where:
+ where:
 extent of input tax credit
-                 is the amount of the input tax credit expressed as a fraction of the GST payable for the supply of the insurance policy for the period to which the premium relates (subsection 75-15(2) of the GST Act).
+ is the amount of the input tax credit expressed as a fraction of the GST payable for the supply of the insurance policy for the period to which the premium relates (subsection 75-15(2) of the GST Act).
 
 Therefore, in calculating decreasing adjustments for settlements of insurance claims, the insurer must determine the extent of input tax credit entitlement for the supply of the insurance policy for the period to which the premium related.
 The entity has settled the claim made by the new owner of the motor vehicle. However, the relevant legislation provides that transfer of the CTP insurance policy does not constitute a new supply under the respective CTP insurance schemes. Therefore, it is the input tax credit entitlement at the time the policy was underwritten that will be applied to calculate the insurer's decreasing adjustment.
 The entity, in calculating their decreasing adjustment using the formula in section 78-15 of the GST Act, uses the input tax credit percentage entitlement notified by the original holder of a CTP insurance policy when it settles an insurance claim made by the new owner of the motor vehicle.
 
-
 Note: Any additional premium that may be payable by the new owner, in respect of the CTP insurance policy, would constitute a change in the consideration of the original supply of CTP insurance and pursuant to section 19-10 of the GST Act, is an adjustment event. Therefore, the new owner would have an adjustment where the requirements in section 19-70 of the GST Act are satisfied.
 
 Date of decision:
-         16 April 2002
+  16 April 2002
 
 Legislative References:
 
@@ -61,18 +53,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST insurance
-          Decreasing adjustment
-
+ GST insurance
+ Decreasing adjustment
 
 Siebel/TDMS Reference Number:
-         1265325
+  1265325
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         16 January 2004
+  16 January 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

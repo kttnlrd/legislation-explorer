@@ -4,11 +4,11 @@ part_title: Part C Income
 division: CW
 division_title: Subpart CW—Exempt income
 section: CW-55BB
-section_title: Minors’ income, to limited extent
+section_title: Minors' income, to limited extent
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# CW 55BB  Minors’ income, to limited extent
+# CW 55BB  Minors' income, to limited extent
 
 **When this section applies**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 - (a) the income is none of—
 
-  - (i) a PAYE income payment from which the person’s employer is required to withhold tax under the PAYE rules:
+  - (i) a PAYE income payment from which the person's employer is required to withhold tax under the PAYE rules:
 
   - (ii) resident passive income:
 

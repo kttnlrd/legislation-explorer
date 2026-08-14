@@ -4,42 +4,39 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 358
-  • Div 38
-  • Division 358
-  • Division 38
-  • Subdivision 38-E
-  • div 38
-  • division 38
+ • Div 358
+ • Div 38
+ • Division 358
+ • Division 38
+ • Subdivision 38-E
+ • div 38
+ • division 38
 
 Cases Referenced:
-  • Berry v. Federal Commissioner 
-  • Burswood Management Ltd v. Attorney
-  • Excise Commissioners v. British Telecommunications 
-  • Excise Commissioners v. Sinclair Collis Ltd
+ • Berry v. Federal Commissioner 
+ • Burswood Management Ltd v. Attorney
+ • Excise Commissioners v. British Telecommunications 
+ • Excise Commissioners v. Sinclair Collis Ltd
 
-  • Excise v. Sinclair Collis
+ • Excise v. Sinclair Collis
 
-  • Excise v. Sinclair Collis Ltd
+ • Excise v. Sinclair Collis Ltd
 
-  • In
+ • In
 Berry v. Federal Commissioner 
-  • In
+ • In
 Swedish State v. Stockholm Lind
-  • National Provincial Bank Ltd v. Ainsworth
-  • National Provincial Bank Ltd v. Ainsworth
+ • National Provincial Bank Ltd v. Ainsworth
+ • National Provincial Bank Ltd v. Ainsworth
 
-  • Saga Holidays Limited v. Commissioner 
-  • Swedish State v. Stockholm Lindopark Aktiebolag
+ • Saga Holidays Limited v. Commissioner 
+ • Swedish State v. Stockholm Lindopark Aktiebolag
 
-  • Taxation v Faywin Investments Pty Ltd
+ • Taxation v Faywin Investments Pty Ltd
 
-  • Taxation v. Faywin Investments
-
+ • Taxation v. Faywin Investments
 
 Topics: CGT, GST, Trusts, Companies, Superannuation
-
-
 
 ================================================================================
 
@@ -54,7 +51,7 @@ Back to browse
 83 related documents
 Goods and Services Tax Ruling
 GSTR 2003/7
-Goods and Services Tax:  what do the expressions 'directly connected with goods or real property' and 'a supply of work physically performed on goods' mean for the purposes of subsection 38-190(1) of the
+Goods and Services Tax: what do the expressions 'directly connected with goods or real property' and 'a supply of work physically performed on goods' mean for the purposes of subsection 38-190(1) of the
 A New Tax System (Goods and Services Tax) Act 1999
 ?
 Please note that the
@@ -62,7 +59,7 @@ PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This Ruling is being reviewed to incorporate the amendments made by
 Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016.
 The changes impact how GST applies to cross-border supplies. Schedule 1 of this Act (about business to consumers supplies) applies from 1 July 2017 and Schedule 2 (generally about business to business supplies) applies from 1 October 2016. For more information see www.ato.gov.au/AusGST.
@@ -96,11 +93,11 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling examines the meaning of the expressions 'directly connected with goods or real property' and 'a supply of work physically performed on goods,' as used in subsection 38-190(1) of the
 A New Tax System (Goods and Services Tax Act) 1999
-('the GST Act').  That subsection sets out supplies of things (other than goods or real property) for consumption outside Australia that are GST-free.  The reach of these expressions affects whether a supply is GST-free.
+('the GST Act'). That subsection sets out supplies of things (other than goods or real property) for consumption outside Australia that are GST-free. The reach of these expressions affects whether a supply is GST-free.
 2. The Ruling also looks at the meaning of 'goods' and 'real property' as defined in the GST Act.
 3. The Ruling does not examine the meaning of the other requirements of the provisions of section 38-190.
 4. Unless otherwise stated, all legislative references in this Ruling are to the GST Act and all references to an item number are to an item in the table in subsection 38-190(1).
@@ -120,11 +117,11 @@ and
 •
 you are registered, or required to be registered.
 However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
-8. Section 9-25 establishes when a supply is connected with Australia.  In the case of supplies of things other than goods or real property, a supply is connected with Australia if the thing is done in Australia or the supply is made through an enterprise that the supplier carries on in Australia. If the supply is not connected under either of these tests, and the supply is a right or option to acquire another thing and the supply of the other thing would be connected with Australia, the supply of the right or option is connected with Australia.
+8. Section 9-25 establishes when a supply is connected with Australia. In the case of supplies of things other than goods or real property, a supply is connected with Australia if the thing is done in Australia or the supply is made through an enterprise that the supplier carries on in Australia. If the supply is not connected under either of these tests, and the supply is a right or option to acquire another thing and the supply of the other thing would be connected with Australia, the supply of the right or option is connected with Australia.
 [F2]
 9. A supply is GST-free if it is GST-free under Division 38 or under a provision of another Act.
 [F3]
-10. Division 38 sets out the supplies that are GST-free.  Subdivision 38-E sets out when exports of goods and other supplies that are for consumption outside Australia are GST-free.  The Subdivision comprises:
+10. Division 38 sets out the supplies that are GST-free. Subdivision 38-E sets out when exports of goods and other supplies that are for consumption outside Australia are GST-free. The Subdivision comprises:
 •
 section 38-185 - exports of goods;
 [F4]
@@ -135,8 +132,8 @@ section 38-188 - tooling used by non-residents to manufacture goods for export; 
 •
 section 38-190 - supplies of things, other than goods or real property, for consumption outside Australia.
 [F4A]
-11. Subsection 38-190(1) comprises five items which set out supplies of things, other than goods or real property, for consumption outside Australia that are GST-free.  If the requirements of one of those items are met the supply is GST-free, provided subsections 38-190(2), (2A) and (3) do not operate to negate that GST-free status. Subsection 38-190(4) operates to extend the GST-free status allowed under item 3, provided it is not a supply that is listed in subsection 38-190(5).
-12. If a supply is not GST-free under one item it may be GST-free under another item.  For example, a supply that is not directly connected with goods or real property situated outside Australia is not GST-free under item 1.  However, the supply may be GST-free under another item.
+11. Subsection 38-190(1) comprises five items which set out supplies of things, other than goods or real property, for consumption outside Australia that are GST-free. If the requirements of one of those items are met the supply is GST-free, provided subsections 38-190(2), (2A) and (3) do not operate to negate that GST-free status. Subsection 38-190(4) operates to extend the GST-free status allowed under item 3, provided it is not a supply that is listed in subsection 38-190(5).
+12. If a supply is not GST-free under one item it may be GST-free under another item. For example, a supply that is not directly connected with goods or real property situated outside Australia is not GST-free under item 1. However, the supply may be GST-free under another item.
 13. The expressions 'directly connected with goods or real property' and 'a supply of work physically performed on goods' are used in items 1 to 3 as follows:
 Supplies of things, other than goods or real property, for consumption outside Australia
 Item
@@ -184,37 +181,37 @@ Supplies of things other than goods or real property
 Subsection 38-190(1) only applies to supplies of things that are not supplies of goods or real property such as services or various rights.
 15. Goods and real property are defined terms in the GST Act
 [F8]
-and these terms are discussed at paragraphs 81 to 97 of the Explanation section of the Ruling.  In determining whether a supply is properly characterised as a supply of goods or real property or a thing other than goods or real property, it is necessary to consider all the circumstances of the transaction to ascertain its essential character.
+and these terms are discussed at paragraphs 81 to 97 of the Explanation section of the Ruling. In determining whether a supply is properly characterised as a supply of goods or real property or a thing other than goods or real property, it is necessary to consider all the circumstances of the transaction to ascertain its essential character.
 [F9]
 The characterisation of supplies is discussed at paragraphs 98 to 109 of the Explanations section of the Ruling.
 16. In setting out supplies for consumption outside Australia that are GST-free, subsection 38-190(1) specifies certain conditions that must be met for a supply of a thing (other than goods or real property) to be a GST-free supply.
 17. Under item 1 in the table in subsection 38-190(1), a supply of a thing is GST-free if that supply is directly connected with goods or real property situated outside Australia.
-18. Under paragraph (a) of item 2, a supply of a thing that is made to a non-resident who is not in Australia when the thing supplied is done, is not GST-free if the supply is directly connected with real property situated in Australia or is a supply of work physically performed on goods situated in Australia when the work is done.  (However, a supply of this kind is GST-free under paragraph (b) of item 2 if the non-resident acquires the thing in carrying on the non-resident's enterprise but is not registered or required to be registered.
+18. Under paragraph (a) of item 2, a supply of a thing that is made to a non-resident who is not in Australia when the thing supplied is done, is not GST-free if the supply is directly connected with real property situated in Australia or is a supply of work physically performed on goods situated in Australia when the work is done. (However, a supply of this kind is GST-free under paragraph (b) of item 2 if the non-resident acquires the thing in carrying on the non-resident's enterprise but is not registered or required to be registered.
 [F10]
 )
 19. Under item 3 a supply of a thing to a recipient (including a non-resident) who is not in Australia when the thing supplied is done, is not GST-free if the supply is a supply of work physically performed on goods situated in Australia when the thing supplied is done, or a supply directly connected with real property situated in Australia, even if the effective use or enjoyment of the supply takes place outside Australia.
-20. Where a supply has a direct connection with goods or real property, or is a supply of work physically performed on goods, the location of goods or real property is the basis upon which the GST treatment of the supply is determined under item 1, paragraph (a) of item 2 and item 3.  If the goods or real property are located outside Australia, the supply of a thing is GST-free under item 1.  If the real property is located in Australia, the supply of a thing is not GST-free under paragraph (a) of item 2, or item 3.  If a supply is a supply of work physically performed on goods situated in Australia when the work is done, the supply is not GST-free under paragraph (a) of item 2, or item 3.  The place of consumption is, in effect, determined by the location of the goods or real property.
+20. Where a supply has a direct connection with goods or real property, or is a supply of work physically performed on goods, the location of goods or real property is the basis upon which the GST treatment of the supply is determined under item 1, paragraph (a) of item 2 and item 3. If the goods or real property are located outside Australia, the supply of a thing is GST-free under item 1. If the real property is located in Australia, the supply of a thing is not GST-free under paragraph (a) of item 2, or item 3. If a supply is a supply of work physically performed on goods situated in Australia when the work is done, the supply is not GST-free under paragraph (a) of item 2, or item 3. The place of consumption is, in effect, determined by the location of the goods or real property.
 Directly connected with goods or real property
-21. Under items 1, 2 and 3 it is only where the connection between the supply and the goods or real property is a direct one that the location of goods or real property is regarded as the place where consumption occurs.  The addition of the adverb 'directly' to the phrase 'connected with' implies a more emphatic connection between the supply and goods or real property.  The inference is that the supply is so closely aligned with goods or real property that it is appropriate to treat the location of the goods or real property as the place where consumption occurs.
+21. Under items 1, 2 and 3 it is only where the connection between the supply and the goods or real property is a direct one that the location of goods or real property is regarded as the place where consumption occurs. The addition of the adverb 'directly' to the phrase 'connected with' implies a more emphatic connection between the supply and goods or real property. The inference is that the supply is so closely aligned with goods or real property that it is appropriate to treat the location of the goods or real property as the place where consumption occurs.
 [F11]
-22. We consider, therefore, that the expression 'directly connected with' contemplates a very close link or association between the supply and goods or real property.  (This is discussed further at paragraphs 113 to 134 of the Explanations section of the Ruling.)
-23. The goods or real property must, in our view, be particular goods or real property for this very close connection to exist.  A supply that is connected with goods or real property in general, rather than with particular goods or real property, does not have a sufficiently close connection with goods or real property for that connection to be a direct one.
-24. For example, a supply of advice or information to a non-resident about the potential for investment in the real property market in Melbourne is not directly connected with real property.  While the supply is connected with real property, the generality of the advice or information means that the supply does not have a direct connection with real property.  The supply is not one so closely connected with real property in Melbourne that the place of consumption is regarded as Melbourne.
-25. Fundamental to establishing whether there is a direct connection between a supply and particular goods or real property is determining what the supply is for.  For example, without knowing what legal services are for, it cannot be said what they are connected with.  Legal services in acting for a purchaser or vendor in the conveyance of land are directly connected with that real property.  However, legal services in establishing a trust that will subsequently hold real property are not directly connected with the underlying real property.
+22. We consider, therefore, that the expression 'directly connected with' contemplates a very close link or association between the supply and goods or real property. (This is discussed further at paragraphs 113 to 134 of the Explanations section of the Ruling.)
+23. The goods or real property must, in our view, be particular goods or real property for this very close connection to exist. A supply that is connected with goods or real property in general, rather than with particular goods or real property, does not have a sufficiently close connection with goods or real property for that connection to be a direct one.
+24. For example, a supply of advice or information to a non-resident about the potential for investment in the real property market in Melbourne is not directly connected with real property. While the supply is connected with real property, the generality of the advice or information means that the supply does not have a direct connection with real property. The supply is not one so closely connected with real property in Melbourne that the place of consumption is regarded as Melbourne.
+25. Fundamental to establishing whether there is a direct connection between a supply and particular goods or real property is determining what the supply is for. For example, without knowing what legal services are for, it cannot be said what they are connected with. Legal services in acting for a purchaser or vendor in the conveyance of land are directly connected with that real property. However, legal services in establishing a trust that will subsequently hold real property are not directly connected with the underlying real property.
 26. A supply of a thing may comprise more than one part.
 [F12]
-You need to determine what each part is for.  Where a part is separately identifiable, distinct, or has an aim in itself, it is necessary to consider the application of subsection 38-190(1) to that part including whether that part is directly connected with goods or real property.  Where a part is only integral, ancillary or incidental to another dominant part of a supply, it is not necessary to consider whether the incidental part is directly connected with goods or real property.  If the dominant part of the supply is not directly connected with goods or real property, the supply is treated as a supply of a single thing that is not directly connected with goods or real property.
-27. For example, in the case of legal services supplied in the general administration or winding up of a deceased person's estate which includes real property, part of that service may involve acting for a beneficiary in the conveyance of land.  That part of the service is directly connected with real property.  If that part of the supply is separately identifiable, and the real property is situated outside Australia, that part of the supply is GST-free under item 1.  However, if the real property is situated in Australia, that part of the supply is not GST-free under paragraph (a) of item 2,
+You need to determine what each part is for. Where a part is separately identifiable, distinct, or has an aim in itself, it is necessary to consider the application of subsection 38-190(1) to that part including whether that part is directly connected with goods or real property. Where a part is only integral, ancillary or incidental to another dominant part of a supply, it is not necessary to consider whether the incidental part is directly connected with goods or real property. If the dominant part of the supply is not directly connected with goods or real property, the supply is treated as a supply of a single thing that is not directly connected with goods or real property.
+27. For example, in the case of legal services supplied in the general administration or winding up of a deceased person's estate which includes real property, part of that service may involve acting for a beneficiary in the conveyance of land. That part of the service is directly connected with real property. If that part of the supply is separately identifiable, and the real property is situated outside Australia, that part of the supply is GST-free under item 1. However, if the real property is situated in Australia, that part of the supply is not GST-free under paragraph (a) of item 2,
 [F13]
-or item 3.  If, on the facts, the conveyancing part of the services is only incidental to a dominant part of the supply which is not directly connected with goods or real property, the incidental connection with real property does not characterise the dominant part of supply as one directly connected with real property.
-28. In some instances, a direct connection between a supply and particular goods or real property is self-evident.  For example, a supply of repairs to goods or a building is directly connected with those goods or that building.
-29. In other cases, you need to establish the exact nature of what the supplier is supplying to the recipient so that the transaction is analysed correctly.  For example, a supply of advertising space in a newspaper to publicise the sale of goods is about conveying the advertising message.  Even though the subject matter of the advertisement is goods, this does not establish a direct connection with the underlying goods.  The advertising supply is directly connected with all the things necessary for the conveying of the message (see paragraphs 140 to 142 of the Explanations section of the Ruling).
+or item 3. If, on the facts, the conveyancing part of the services is only incidental to a dominant part of the supply which is not directly connected with goods or real property, the incidental connection with real property does not characterise the dominant part of supply as one directly connected with real property.
+28. In some instances, a direct connection between a supply and particular goods or real property is self-evident. For example, a supply of repairs to goods or a building is directly connected with those goods or that building.
+29. In other cases, you need to establish the exact nature of what the supplier is supplying to the recipient so that the transaction is analysed correctly. For example, a supply of advertising space in a newspaper to publicise the sale of goods is about conveying the advertising message. Even though the subject matter of the advertisement is goods, this does not establish a direct connection with the underlying goods. The advertising supply is directly connected with all the things necessary for the conveying of the message (see paragraphs 140 to 142 of the Explanations section of the Ruling).
 30. The New Zealand cases of
 Wilson & Horton Ltd v. CIR
 (1994) 16 NZTC 11,221; (1994) 18 TRNZ 792 and
 Malololailai Interval Holidays NZ Ltd v. CIR
-(1997) 18 NZTC 13,137 illustrate the importance of establishing the exact nature of the supply.  These cases are discussed at paragraphs 140 to 145C in the Explanations section of the Ruling.
-31. In determining whether there is a direct connection between a supply and particular goods or real property, the location of the recipient of a supply is not relevant.  Rather, the issue is one of determining whether the relationship between the supply and the goods or the real property is sufficiently close to be directly connected (see Example 4 at paragraphs 148 to 151 of the Explanations section of the Ruling).
+(1997) 18 NZTC 13,137 illustrate the importance of establishing the exact nature of the supply. These cases are discussed at paragraphs 140 to 145C in the Explanations section of the Ruling.
+31. In determining whether there is a direct connection between a supply and particular goods or real property, the location of the recipient of a supply is not relevant. Rather, the issue is one of determining whether the relationship between the supply and the goods or the real property is sufficiently close to be directly connected (see Example 4 at paragraphs 148 to 151 of the Explanations section of the Ruling).
 Supplies of things directly connected with goods or real property
 32. As explained above, we consider that the expression 'directly connected with' contemplates a very close link or association between the supply and particular goods or real property.
 33. We consider that such a close link or association between the supply and particular goods or real property exists where, for example, the direct object of the supply is the goods or real property in the sense that:
@@ -228,8 +225,8 @@ the supply establishes the quantity, size, other physical attributes or the valu
 the supply affects (or its purpose is to affect) or protects the nature or value (including indemnity against loss) of the goods or real property; or
 •
 the supply affects, or is proposed to affect, the ownership of the goods or real property including any interest in, or right in or over goods or real property.
-34. This is not an exhaustive list of the situations where, in our view, a direct connection exists.  There may be some supplies that are directly connected with goods or real property that do not readily fit into one of these categories.
-35. Some supplies may also be covered by more than one category of supply.  The categories are not mutually exclusive.
+34. This is not an exhaustive list of the situations where, in our view, a direct connection exists. There may be some supplies that are directly connected with goods or real property that do not readily fit into one of these categories.
+35. Some supplies may also be covered by more than one category of supply. The categories are not mutually exclusive.
 36. The following examples are provided to illustrate the kinds of supplies that we consider fall within one of the above categories and which are supplies directly connected with goods or real property.
 The supply changes or affects the goods or real property in a physical way
 37. A common example of a supply of this kind is a supply of a service that is physically performed on particular goods or real property such as the repair of goods or a building.
@@ -248,7 +245,7 @@ transport services - the removal of goods from one place to another;
 •
 security services in relation to goods or real property; and
 •
-storage services for goods (which do not involve renting storage space - see paragraph 106 of the Explanation section of the Ruling).  (While this supply is directly connected with goods, it is not directly connected with real property - see further paragraph 54 below).
+storage services for goods (which do not involve renting storage space - see paragraph 106 of the Explanation section of the Ruling). (While this supply is directly connected with goods, it is not directly connected with real property - see further paragraph 54 below).
 Each of these supplies is directly connected with goods or real property.
 The supply establishes the quantity, size, other physical attributes or value of the goods or real property
 40. Examples of supplies in this category include supplies of services of the following kind:
@@ -276,7 +273,7 @@ a supply of insurance of goods or real property; and
 services of managing particular real property where the manager takes overall responsibility for managing the property on behalf of the landlord including a range of functions such as rent collection, ensuring that the property is properly maintained or secured (and obtaining tenants or arranging repairs if ancillary to the supply of property management).
 Each of these supplies is directly connected with goods or real property.
 The supply affects, or is proposed to affect, the ownership of the goods or real property including any interest in, or right in or over goods or real property
-43. Supplies in this category are those that are directly connected with the sale, disposal, acquisition, transfer, surrender, etc of an interest in or right over land or goods.  Examples of such supplies include:
+43. Supplies in this category are those that are directly connected with the sale, disposal, acquisition, transfer, surrender, etc of an interest in or right over land or goods. Examples of such supplies include:
 •
 conveyancing services in respect of real property;
 •
@@ -311,7 +308,7 @@ accounting services in the preparation of a tax return where the return covers p
 •
 demographic study or market research, for example, to determine the economic viability of a business project for a particular region or site.
 Further examples
-45. At paragraphs 163 to 186 of the Explanations part of this Ruling a number of examples are provided to illustrate in more detail whether in particular circumstances a supply is directly connected with goods or real property.  In each example, we indicate whether the supply satisfies the requirements of section 38-190 for that supply to be GST-free.
+45. At paragraphs 163 to 186 of the Explanations part of this Ruling a number of examples are provided to illustrate in more detail whether in particular circumstances a supply is directly connected with goods or real property. In each example, we indicate whether the supply satisfies the requirements of section 38-190 for that supply to be GST-free.
 One step removed from the direct transaction
 46. In the New Zealand cases of
 Wilson & Horton Ltd v. CIR
@@ -319,72 +316,72 @@ Wilson & Horton Ltd v. CIR
 and
 Malololailai Interval Holidays NZ Ltd v. CIR,
 [F15]
-(discussed further at paragraphs 140 to 145C of the Explanations section of the Ruling), a supply of advertising services and a supply of marketing services respectively were considered as not being rendered directly in connection with the underlying goods or real property.  The courts found that neither of these transactions had a direct effect upon the underlying goods or real property.  The transactions in these cases were considered to be of a kind that could be described as 'one step removed from the direct transaction'.
-47. The words 'one step removed from the direct transaction' can be used to describe the relationship between the goods or real property and the services supplied by the newspaper or the marketing firm respectively.  However, those words cannot be adopted as a general principle to be applied in determining if a supply is 'directly connected with goods or real property'.  To do so would have the effect of substituting a different test for the words of subsection 38-190(1).
-48. For example, a supply of architectural services to design a building for a particular site may be perceived as one step removed from the transaction that has direct effect upon the real property - namely the construction of a building.  On this view, the architectural services only make way for the supply of building services that is directly connected with real property and the supply of the architectural services is not directly connected with real property.
-49. However, the direct object of the supply is the real property in the sense that it affects, or has the purpose of affecting, the nature of the real property.  There is a very close connection between the supply and the real property.  The supply of architectural services is, therefore, directly connected with real property.
+(discussed further at paragraphs 140 to 145C of the Explanations section of the Ruling), a supply of advertising services and a supply of marketing services respectively were considered as not being rendered directly in connection with the underlying goods or real property. The courts found that neither of these transactions had a direct effect upon the underlying goods or real property. The transactions in these cases were considered to be of a kind that could be described as 'one step removed from the direct transaction'.
+47. The words 'one step removed from the direct transaction' can be used to describe the relationship between the goods or real property and the services supplied by the newspaper or the marketing firm respectively. However, those words cannot be adopted as a general principle to be applied in determining if a supply is 'directly connected with goods or real property'. To do so would have the effect of substituting a different test for the words of subsection 38-190(1).
+48. For example, a supply of architectural services to design a building for a particular site may be perceived as one step removed from the transaction that has direct effect upon the real property - namely the construction of a building. On this view, the architectural services only make way for the supply of building services that is directly connected with real property and the supply of the architectural services is not directly connected with real property.
+49. However, the direct object of the supply is the real property in the sense that it affects, or has the purpose of affecting, the nature of the real property. There is a very close connection between the supply and the real property. The supply of architectural services is, therefore, directly connected with real property.
 Supplies involving the use of real property
 50. If a supply involves the use of real property and that supply is not a supply of real property as defined (supplies of real property are discussed at paragraphs 82 to 97 of the Explanations section of the Ruling), then it needs to be determined whether that supply is directly connected with real property.
 51. If a supply involves the use of real property in circumstances where that use is ancillary to the dominant part of the supply, the real property merely providing the setting for the dominant part of the supply, that supply is not directly connected with real property.
-52. For example, supplies such as membership subscriptions of a golf club, admission to a cinema and provision of a service of storing goods involve the use of real property, but that use is ancillary to the dominant part of the supply.  The supply is characterised by its dominant part which falls short of being a supply of real property.  In cases of this kind the real property is merely the setting for the dominant part of the supply and the supply is not directly connected with that real property.  (The characterisation of supplies is explained further in the Explanations section of the Ruling at paragraphs 98 to 109.)
-53. In the case of admission to a cinema, the patron has permission to enter the premises and thereby use the cinema.  However, that use is ancillary to the dominant part of the supply being the presentation of the film.  Permission to enter and use the premises is a means to an end - that is, the viewing of the film.  It is incidental to the main supply.  It is not an end in itself.  The supply is not directly connected with real property as the real property only provides the setting for the dominant part in the supply.
-54. The same outcome follows in relation to membership of a golf club or the provision of storage services.  The dominant part of the supply is use and enjoyment of the facilities and the storage of goods respectively.  The supply is not directly connected with real property as the real property only provides the setting for the dominant part of the supply.
+52. For example, supplies such as membership subscriptions of a golf club, admission to a cinema and provision of a service of storing goods involve the use of real property, but that use is ancillary to the dominant part of the supply. The supply is characterised by its dominant part which falls short of being a supply of real property. In cases of this kind the real property is merely the setting for the dominant part of the supply and the supply is not directly connected with that real property. (The characterisation of supplies is explained further in the Explanations section of the Ruling at paragraphs 98 to 109.)
+53. In the case of admission to a cinema, the patron has permission to enter the premises and thereby use the cinema. However, that use is ancillary to the dominant part of the supply being the presentation of the film. Permission to enter and use the premises is a means to an end - that is, the viewing of the film. It is incidental to the main supply. It is not an end in itself. The supply is not directly connected with real property as the real property only provides the setting for the dominant part in the supply.
+54. The same outcome follows in relation to membership of a golf club or the provision of storage services. The dominant part of the supply is use and enjoyment of the facilities and the storage of goods respectively. The supply is not directly connected with real property as the real property only provides the setting for the dominant part of the supply.
 [F16]
 Supplies that involve goods or real property as inputs
-55. A supplier may use goods or real property as inputs in making a supply.  However, that use does not make that supply directly connected with the goods or real property used.  A direct connection between a supply and goods or real property does not extend to a connection between the supply and the business infrastructure used by the supplier to make that supply.  For example, if a supplier supplies and charges an overseas customer for information or software provided electronically via facsimile or Internet, the use of the supplier's infrastructure (for example, facsimile machine or computer) is essential as the means of transmitting the information or software to the customer.  However, the supply is not directly connected with the supplier's infrastructure.
+55. A supplier may use goods or real property as inputs in making a supply. However, that use does not make that supply directly connected with the goods or real property used. A direct connection between a supply and goods or real property does not extend to a connection between the supply and the business infrastructure used by the supplier to make that supply. For example, if a supplier supplies and charges an overseas customer for information or software provided electronically via facsimile or Internet, the use of the supplier's infrastructure (for example, facsimile machine or computer) is essential as the means of transmitting the information or software to the customer. However, the supply is not directly connected with the supplier's infrastructure.
 Meaning of 'a supply of work physically performed on goods'
 56. The
 Indirect Tax Legislation Amendment Act 2000
-amended items 2 and 3, changing the words 'a supply directly connected with goods' to 'a supply of work physically performed on goods'.  The Explanatory Memorandum for the amending Bill indicates that the amendment was made to 'allow a wider range of services to be GST-free'.
+amended items 2 and 3, changing the words 'a supply directly connected with goods' to 'a supply of work physically performed on goods'. The Explanatory Memorandum for the amending Bill indicates that the amendment was made to 'allow a wider range of services to be GST-free'.
 [F17]
 This has been achieved by narrowing the scope of the exception to the GST-free status provided by item 2 paragraph (a) and item 3.
-57. The range of supplies that are directly connected with goods includes supplies of work physically performed on goods.  That is, a supply of work physically performed on goods is always directly connected with goods.  However, not all supplies directly connected with goods are also supplies of work physically performed on goods.  A supply of work physically performed on goods requires a much closer connection with the goods: it requires a physical intervention with the goods.  For example, a supply of legal services in preparing an agreement for the lease of goods is directly connected with goods but it is not a supply of work physically performed on goods as there is no physical intervention with the goods.
+57. The range of supplies that are directly connected with goods includes supplies of work physically performed on goods. That is, a supply of work physically performed on goods is always directly connected with goods. However, not all supplies directly connected with goods are also supplies of work physically performed on goods. A supply of work physically performed on goods requires a much closer connection with the goods: it requires a physical intervention with the goods. For example, a supply of legal services in preparing an agreement for the lease of goods is directly connected with goods but it is not a supply of work physically performed on goods as there is no physical intervention with the goods.
 58. A supply is a supply of work physically performed on goods where something is done deliberately
 [F18]
-to the goods to change them or to otherwise affect them in some physical way.  The repair of goods is an example of work that is physically performed on goods.
-59. In contrast, where activities do not change or affect goods in a physical way, there is no supply of work physically performed on goods.  For example, a supply of transporting goods is not work physically performed on goods because the supply only changes the location of the goods, not the goods themselves.
+to the goods to change them or to otherwise affect them in some physical way. The repair of goods is an example of work that is physically performed on goods.
+59. In contrast, where activities do not change or affect goods in a physical way, there is no supply of work physically performed on goods. For example, a supply of transporting goods is not work physically performed on goods because the supply only changes the location of the goods, not the goods themselves.
 Example 1 - supply of transport services
 60.
-An Australian based transport company supplies transport services within Australia to a non-resident shipping company.  The non-resident shipping company is not in Australia when the services are performed and the services are not provided to another entity in Australia.  Is the supply of transport services a supply of work physically performed on goods situated in Australia?
+An Australian based transport company supplies transport services within Australia to a non-resident shipping company. The non-resident shipping company is not in Australia when the services are performed and the services are not provided to another entity in Australia. Is the supply of transport services a supply of work physically performed on goods situated in Australia?
 61.
-No.  The supply of transport services is not a supply of work physically performed on goods.  Although the goods are moved from one location to another, the supply does not have any physical effect on the goods themselves.
+No. The supply of transport services is not a supply of work physically performed on goods. Although the goods are moved from one location to another, the supply does not have any physical effect on the goods themselves.
 62.
 The supply is GST-free under paragraph (a) of item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph. Subsection 38-190(3) does not apply because the services are not provided to another entity in Australia.
-63. For a supply to be a supply of work physically performed on goods, the work physically performed does not have to bring about a fundamental change to the attributes of the goods.  For example, cleaning goods is a supply of work physically performed on goods even though the cleaning does not make them into fundamentally different goods - the change is simply the difference between dirty goods and clean goods.
-64. Other examples of work physically performed on goods include supplies that maintain or restore the function of goods.  Repairs to machinery used in a manufacturing business fall into this category.  Painting a ship is also a supply of work physically performed on goods: the purpose of the supply is to preserve the physical condition of the vessel.
-65. Work that modifies the function of goods is also physically performed on the goods.  Converting a fishing vessel to a cargo vessel is one example.  Upgrading of machinery used in manufacturing goods to improve and increase output is a supply that changes the machinery.
-66. Work can be physically performed on animate as well as inanimate goods.  For example, a supply of horse training or veterinary treatment of livestock is a supply of work physically performed on goods.
-67. Most supplies of work physically performed on goods will add value to those goods.  But it is not essential that a supply add value to the goods for that supply to be work physically performed on goods.  For example, a supply for the destruction of toxic materials is work physically performed on goods as there is purposeful physical intervention with the goods.
-68. In many cases it is self-evident that a supply is a supply of work physically performed on goods.  However, sometimes a supply must be analysed to determine whether it is properly characterised as 'a supply of work physically performed on goods'.  If the supply includes work physically performed on goods but that work is ancillary to some other dominant part of the supply that is not work physically performed on goods, then that supply is not characterised as a supply of work physically performed on goods.  This depends on the particular facts of each supply.
-69. For example, a supply of a report on the results of testing and analysing samples of goods is characterised as a supply of information or advice if the dominant part of the supply is the analysis of data to enable a professional opinion to be provided.  The supply is not characterised as a supply of work physically performed on goods.  The testing and analysis of samples of goods enables the information to be compiled and is ancillary to the supply of that information.
+63. For a supply to be a supply of work physically performed on goods, the work physically performed does not have to bring about a fundamental change to the attributes of the goods. For example, cleaning goods is a supply of work physically performed on goods even though the cleaning does not make them into fundamentally different goods - the change is simply the difference between dirty goods and clean goods.
+64. Other examples of work physically performed on goods include supplies that maintain or restore the function of goods. Repairs to machinery used in a manufacturing business fall into this category. Painting a ship is also a supply of work physically performed on goods: the purpose of the supply is to preserve the physical condition of the vessel.
+65. Work that modifies the function of goods is also physically performed on the goods. Converting a fishing vessel to a cargo vessel is one example. Upgrading of machinery used in manufacturing goods to improve and increase output is a supply that changes the machinery.
+66. Work can be physically performed on animate as well as inanimate goods. For example, a supply of horse training or veterinary treatment of livestock is a supply of work physically performed on goods.
+67. Most supplies of work physically performed on goods will add value to those goods. But it is not essential that a supply add value to the goods for that supply to be work physically performed on goods. For example, a supply for the destruction of toxic materials is work physically performed on goods as there is purposeful physical intervention with the goods.
+68. In many cases it is self-evident that a supply is a supply of work physically performed on goods. However, sometimes a supply must be analysed to determine whether it is properly characterised as 'a supply of work physically performed on goods'. If the supply includes work physically performed on goods but that work is ancillary to some other dominant part of the supply that is not work physically performed on goods, then that supply is not characterised as a supply of work physically performed on goods. This depends on the particular facts of each supply.
+69. For example, a supply of a report on the results of testing and analysing samples of goods is characterised as a supply of information or advice if the dominant part of the supply is the analysis of data to enable a professional opinion to be provided. The supply is not characterised as a supply of work physically performed on goods. The testing and analysis of samples of goods enables the information to be compiled and is ancillary to the supply of that information.
 Example 2 - provision of research findings
 70.
-An Australian based research firm is engaged by a United Kingdom (UK) resident client to duplicate and enhance the client's existing manufacturing process using the client's samples, materials and specifications.  The Australian firm does this work in Australia.  The UK client is a non-resident and is not in Australia when the services are performed.  The research firm makes findings and recommendations from the duplication of that process and use of the sample materials in Australia.
+An Australian based research firm is engaged by a United Kingdom (UK) resident client to duplicate and enhance the client's existing manufacturing process using the client's samples, materials and specifications. The Australian firm does this work in Australia. The UK client is a non-resident and is not in Australia when the services are performed. The research firm makes findings and recommendations from the duplication of that process and use of the sample materials in Australia.
 71.
 Is the supply of research findings a supply of work physically performed on goods situated in Australia?
 72.
-No.  The physical work performed on goods generates data to support the conclusions and recommendations.  It is the provision of these findings that represents the dominant part of the supply.  The physical work carried out facilitates the findings and is merely an ancillary part of the wider supply of information or advice.
+No. The physical work performed on goods generates data to support the conclusions and recommendations. It is the provision of these findings that represents the dominant part of the supply. The physical work carried out facilitates the findings and is merely an ancillary part of the wider supply of information or advice.
 73.
 The supply is GST-free under paragraph (a) of item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 Example 3 - provision of service - certification of goods
 74.
-A manufacturer resident in Taiwan imports goods into Australia and engages a local Australian firm to certify that the goods comply with Australian safety standards before they are sold to the public.  This certification involves the safety testing of the goods in Australia.  The Taiwanese manufacturer is a non-resident and is not in Australia when the safety testing and certification is performed.
+A manufacturer resident in Taiwan imports goods into Australia and engages a local Australian firm to certify that the goods comply with Australian safety standards before they are sold to the public. This certification involves the safety testing of the goods in Australia. The Taiwanese manufacturer is a non-resident and is not in Australia when the safety testing and certification is performed.
 75.
 Is this supply of certification of goods a supply of work physically performed on goods situated in Australia?
 76.
-No.  The safety testing of the goods is ancillary to the supply of certification of the goods, this being a supply of advice or information
+No. The safety testing of the goods is ancillary to the supply of certification of the goods, this being a supply of advice or information
 77.
 The supply is GST-free under paragraph (a) of item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 Apportionment
-78. At times a supply includes taxable and non-taxable parts.  This may be because, for example, only part of the supply is directly connected with real property outside Australia or part of the supply is a supply of work physically performed on goods in Australia.  In these cases, a reasonable basis of apportionment should be used to apportion the consideration for the supply.  This is discussed further at paragraphs 154 to 162 in the Explanations section of the Ruling.
+78. At times a supply includes taxable and non-taxable parts. This may be because, for example, only part of the supply is directly connected with real property outside Australia or part of the supply is a supply of work physically performed on goods in Australia. In these cases, a reasonable basis of apportionment should be used to apportion the consideration for the supply. This is discussed further at paragraphs 154 to 162 in the Explanations section of the Ruling.
 Explanations
 A supply of things other than goods or real property
 79. Section 38-190 applies to supplies of things
 other than
-goods or real property.  If the supply is one of goods or real property section 38-190 does not apply.
+goods or real property. If the supply is one of goods or real property section 38-190 does not apply.
 80. This means that before considering the application of section 38-190 it is necessary to determine whether the supply is properly characterised as a supply of things other than goods or real property.
 A supply of goods
-81. Section 195-1 defines 'goods' as meaning any form of tangible personal property.  Personal property embraces all forms of property other than land or an interest in land.  An exception is a leasehold interest in land which is treated as personal property under common law.  'Tangible' connotes a physical existence and has the effect of excluding intangibles.  Thus, a supply of goods is a supply of any form of personal property that has a physical existence but does not include intangible personal property such as a leasehold interest in land or intellectual property like a copyright.
+81. Section 195-1 defines 'goods' as meaning any form of tangible personal property. Personal property embraces all forms of property other than land or an interest in land. An exception is a leasehold interest in land which is treated as personal property under common law. 'Tangible' connotes a physical existence and has the effect of excluding intangibles. Thus, a supply of goods is a supply of any form of personal property that has a physical existence but does not include intangible personal property such as a leasehold interest in land or intellectual property like a copyright.
 A supply of real property
 82. 'Real property' is defined in section 195-1 to include:
 (a)
@@ -393,31 +390,31 @@ any interest in or right over land;
 a personal right to call for or be granted any interest in or right over land; or
 (c)
 a licence to occupy land or any other contractual right exercisable over or in relation to land.
-83. The definition of real property in section 195-1 has a broad ambit as it extends the meaning of what is real property under the general law.  For example, under the general law, 'a licence to occupy land' is a personal right and not real property.  A licence to occupy land falls short of creating a legal or equitable interest in land.  It merely legalises occupation that would otherwise be a trespass.
+83. The definition of real property in section 195-1 has a broad ambit as it extends the meaning of what is real property under the general law. For example, under the general law, 'a licence to occupy land' is a personal right and not real property. A licence to occupy land falls short of creating a legal or equitable interest in land. It merely legalises occupation that would otherwise be a trespass.
 84. The words used in the definition of real property in the GST Act are also found in the place of supply rules for services relating to land specified in United Kingdom (UK)
 Value Added Tax (Place of Supply of Services) Order 1992.
-That Order determines the place of supply for a supply that consists of the grant, assignment or surrender of such interests and rights.  In turn, Schedule 9, Group 1, item 1 of the UK
+That Order determines the place of supply for a supply that consists of the grant, assignment or surrender of such interests and rights. In turn, Schedule 9, Group 1, item 1 of the UK
 Value Added Tax Act 1994
-exempts 'the grant of any interest in or right over land or of any licence to occupy land, or, in relation to land in Scotland, any personal right to call for or be granted any such interest or right, other than...'.  Specific supplies are then excluded from the exemption.
-85. The words 'the grant of any interest in or right over land or of any licence to occupy land' have been the subject of much judicial consideration in the UK.  These UK authorities are useful in considering the scope of the definition of 'real property' in the GST Act.
-86. Paragraph (a) of the Australian definition of real property, 'any interest in or right over land', could, if considered in isolation, be construed broadly.  However, we consider that the three-part structure of the definition, and the coupling of right over land with an interest in land, means that a broad construction is not intended.
+exempts 'the grant of any interest in or right over land or of any licence to occupy land, or, in relation to land in Scotland, any personal right to call for or be granted any such interest or right, other than...'. Specific supplies are then excluded from the exemption.
+85. The words 'the grant of any interest in or right over land or of any licence to occupy land' have been the subject of much judicial consideration in the UK. These UK authorities are useful in considering the scope of the definition of 'real property' in the GST Act.
+86. Paragraph (a) of the Australian definition of real property, 'any interest in or right over land', could, if considered in isolation, be construed broadly. However, we consider that the three-part structure of the definition, and the coupling of right over land with an interest in land, means that a broad construction is not intended.
 87. This view is supported by case law in the UK. The meaning of the phrase 'any interest in or right over land' was considered in
 Rochdale Hornets Football Club Co Ltd
 (1975) 1 BVC 1,032 where the tribunal, in considering the nature of granting admission to a football ground, said at p. 1,034:
 ... We do not consider that the interest which we are here considering is properly to be described as an 'interest in or right over land', either in the sense in which those words are generally understood by lawyers or in any extended sense which it may be permissible to attribute to them having regard to the context in which they appear in Sch. 5, Grp. 1 [of FA 1972, now VATA 1994, Sch. 9, Grp. 1].
 [paragraph break inserted]
 The expression clearly covers inter alia legal estates in fee simple, terms of years absolute and easements and also interests such as profits â prendre recognised as such by the law, that is to say rights of pasture [i.e. the right of feeding animals on the land of another], piscary [that is the right of fishing in another person's waters], turbary [the right of digging peat for fuel on another person's land] and estovers [the right of taking a reasonable portion of timber or underwood from woods or waste land belonging to another], some of which interests are clearly recognised as otherwise falling into the exemption by their exception in Sch. 5, Grp. 1, item 1, para. (d), (e).
-Neither, taking the expression 'right over land' for the moment in isolation, do we consider that it should be given so wide a meaning as to extend to any right exercisable over or in respect of land.  In the first place the words 'right over land' are coupled with the words 'interest in land' so as to make a composite phrase, which suggests that they are not intended as a general residuary umbrella to cover all rights relating to land.  In the second place they are followed by the expression 'licence to occupy land': it seems to us that the draftsman did not intend that all licences relating to land should be included in the exemption, but only licences involving the occupation of land.
+Neither, taking the expression 'right over land' for the moment in isolation, do we consider that it should be given so wide a meaning as to extend to any right exercisable over or in respect of land. In the first place the words 'right over land' are coupled with the words 'interest in land' so as to make a composite phrase, which suggests that they are not intended as a general residuary umbrella to cover all rights relating to land. In the second place they are followed by the expression 'licence to occupy land': it seems to us that the draftsman did not intend that all licences relating to land should be included in the exemption, but only licences involving the occupation of land.
 88. In
 Trewby (on behalf of the Hurlingham Club) v. C E Commrs
 (1976) 1 BVC 80, Geoffrey Lane LJ said at pp. 83-84:
-[Counsel for the taxpayer's] second submission is as follows.  The rights given to members by the rules (and particularly rule 2), that is to say the rights of going on the gardens and into the clubhouse and of playing or watching the various games, are rights over land or alternatively constitute a licence to occupy land granted to the members and are therefore exempt under the Schedule.  It is true that in one sense of the word the member does obtain a 'right', but when one considers the words of item 1 of Group 1 of Sch. 5 as a whole [now VATA 1994, Sch. 9, Grp. 1], it is clear that the expression 'right over land' must receive a restricted interpretation.  If it were given the broad meaning contended for by counsel for the taxpayer, the words which follow (that is say 'or of any licence to occupy land') would be otiose.  A licence of almost any description would be covered by the words 'right over land'.  In our judgment, in order to make sense of this part of Sch. 5, the words 'any interest in or right over land' must be confined to a legal or equitable interest in the land in the sense used by Lord Upjohn in
+[Counsel for the taxpayer's] second submission is as follows. The rights given to members by the rules (and particularly rule 2), that is to say the rights of going on the gardens and into the clubhouse and of playing or watching the various games, are rights over land or alternatively constitute a licence to occupy land granted to the members and are therefore exempt under the Schedule. It is true that in one sense of the word the member does obtain a 'right', but when one considers the words of item 1 of Group 1 of Sch. 5 as a whole [now VATA 1994, Sch. 9, Grp. 1], it is clear that the expression 'right over land' must receive a restricted interpretation. If it were given the broad meaning contended for by counsel for the taxpayer, the words which follow (that is say 'or of any licence to occupy land') would be otiose. A licence of almost any description would be covered by the words 'right over land'. In our judgment, in order to make sense of this part of Sch. 5, the words 'any interest in or right over land' must be confined to a legal or equitable interest in the land in the sense used by Lord Upjohn in
 National Provincial Bank Ltd v. Ainsworth.
 [F19]
-'Interest' and 'right' are treated together as practically synonymous.  'Licence to occupy' is in a contrasting category.
-89. Consistent with the approach adopted by the UK VAT Tribunal and courts, we consider that the expression 'interest in or right over land' is a composite phrase not intended to cover all rights relating to land.  Its interpretation is restricted to a legal or equitable interest in or right over the land.  Notwithstanding this, the definition encompasses many interests in or rights over land such as, legal estates in fee simple, leasehold interests, restrictive covenants, easements and profits a prendre.  In contrast, a mere licence to occupy land falls short of creating a legal or equitable interest in land.
-90. Paragraph (b) of the definition of real property refers to a personal right to call for or be granted any interest in or right over land. Paragraph (b) only covers a personal right to call for or be granted the class of real property described in paragraph (a).  Thus paragraph (b) refers to a personal right to call for or be granted a legal or equitable interest in or right over land.  Because a 'licence to occupy land' is distinguished from an 'interest in or right over land', paragraph (b) does not cover a supply of a right to call for or be granted a licence to occupy land.
-91. In respect of 'any other contractual right exercisable over or in relation to land' in paragraph (c), we consider that this phrase is to be read narrowly having regard to the preceding words 'a licence to occupy land' (and also having regard to the scope of paragraphs (a) and (b)).  To give these words a wide meaning unqualified by the expression 'a licence to occupy land' would result in any contractual right in connection with land being real property for the purposes of the GST Act.  We consider, therefore, that the phrase is not intended to cover
+'Interest' and 'right' are treated together as practically synonymous. 'Licence to occupy' is in a contrasting category.
+89. Consistent with the approach adopted by the UK VAT Tribunal and courts, we consider that the expression 'interest in or right over land' is a composite phrase not intended to cover all rights relating to land. Its interpretation is restricted to a legal or equitable interest in or right over the land. Notwithstanding this, the definition encompasses many interests in or rights over land such as, legal estates in fee simple, leasehold interests, restrictive covenants, easements and profits a prendre. In contrast, a mere licence to occupy land falls short of creating a legal or equitable interest in land.
+90. Paragraph (b) of the definition of real property refers to a personal right to call for or be granted any interest in or right over land. Paragraph (b) only covers a personal right to call for or be granted the class of real property described in paragraph (a). Thus paragraph (b) refers to a personal right to call for or be granted a legal or equitable interest in or right over land. Because a 'licence to occupy land' is distinguished from an 'interest in or right over land', paragraph (b) does not cover a supply of a right to call for or be granted a licence to occupy land.
+91. In respect of 'any other contractual right exercisable over or in relation to land' in paragraph (c), we consider that this phrase is to be read narrowly having regard to the preceding words 'a licence to occupy land' (and also having regard to the scope of paragraphs (a) and (b)). To give these words a wide meaning unqualified by the expression 'a licence to occupy land' would result in any contractual right in connection with land being real property for the purposes of the GST Act. We consider, therefore, that the phrase is not intended to cover
 any
 contractual right exercisable over land but is limited to contractual rights that do not create an estate or interest in land but are recognised at law as exercisable over land.
 [F19A]
@@ -426,21 +423,21 @@ contractual right exercisable over land but is limited to contractual rights tha
 and an analysis of this issue is beyond the scope of this Ruling.
 93. However, an example of a licence to occupy land is a supply of hotel accommodation.
 Hotel accommodation
-94. The essence of a supply of hotel accommodation is the right to occupy a specified room for a particular period.  This is not a tenancy (and the grant of an interest in land) but a personal right given under the arrangements.  A person who takes a room at a hotel is conferred with a licence to enter the land of another and occupy it for a particular purpose.
+94. The essence of a supply of hotel accommodation is the right to occupy a specified room for a particular period. This is not a tenancy (and the grant of an interest in land) but a personal right given under the arrangements. A person who takes a room at a hotel is conferred with a licence to enter the land of another and occupy it for a particular purpose.
 [F21]
-95. A hotel guest may also be entitled to receive other services as part of the supply of the hotel accommodation.  These may include access to a gym, pool, lounge areas, business facilities (Internet, facsimile, telephone) and car parking or room services such as cleaning.  We consider these services to be only qualitative aspects of the accommodation and ancillary to the dominant part of the supply, a licence to occupy land, which is a supply of real property
+95. A hotel guest may also be entitled to receive other services as part of the supply of the hotel accommodation. These may include access to a gym, pool, lounge areas, business facilities (Internet, facsimile, telephone) and car parking or room services such as cleaning. We consider these services to be only qualitative aspects of the accommodation and ancillary to the dominant part of the supply, a licence to occupy land, which is a supply of real property
 [F22]
 (characterisation of a supply is discussed further at paragraphs 98 to 109).
 96. In the tourism industry, whether supplies made between hotel operators, travel wholesalers and travel agents include supplies that are not supplies of real property depends on the exact nature of the transactions undertaken.
 [F22A]
 Alternative view
-97. There is an alternative view that a supply of hotel accommodation is a supply of accommodation services.  On this view, the dominant parts of a supply of hotel accommodation are the range of services included in the accommodation.  We consider that the better view is that a supply of hotel accommodation is a supply of real property, for the reasons explained above.
+97. There is an alternative view that a supply of hotel accommodation is a supply of accommodation services. On this view, the dominant parts of a supply of hotel accommodation are the range of services included in the accommodation. We consider that the better view is that a supply of hotel accommodation is a supply of real property, for the reasons explained above.
 [F22B]
 Characterisation of a supply
 98. In determining whether a supply is properly characterised as a supply of goods or real property or something else, it is necessary to consider all the circumstances of the transaction to ascertain its essential character.
 [F23]
-99. As explained in GSTR 2001/8, a supply may comprise one or more parts.  Where parts are separately identifiable, distinct or have an aim in themselves, you need to consider how the GST Act applies to each part.  In GSTR 2001/8, a 'mixed supply' is regarded as a supply that has to be separated or unbundled, as it contains separately identifiable taxable and non-taxable parts that need to be individually recognised.  If a separately identifiable part is a supply of real property or goods, subsection 38-190(1) cannot apply to that part of the supply.  The subsection may apply to other parts that are the supply of things other than goods or real property such as supplies of services.
-100. If you make a supply that contains a dominant part and something that is integral, ancillary or incidental to that part, then the supply is composite.  You treat a composite supply as a supply of a single thing.  Where, for example, the supply of services is integral, ancillary or incidental to another dominant part of the supply, being a supply of real property, the supply is a composite supply of real property and is treated as a supply of a single thing to which subsection 38-190(1) does not apply.
+99. As explained in GSTR 2001/8, a supply may comprise one or more parts. Where parts are separately identifiable, distinct or have an aim in themselves, you need to consider how the GST Act applies to each part. In GSTR 2001/8, a 'mixed supply' is regarded as a supply that has to be separated or unbundled, as it contains separately identifiable taxable and non-taxable parts that need to be individually recognised. If a separately identifiable part is a supply of real property or goods, subsection 38-190(1) cannot apply to that part of the supply. The subsection may apply to other parts that are the supply of things other than goods or real property such as supplies of services.
+100. If you make a supply that contains a dominant part and something that is integral, ancillary or incidental to that part, then the supply is composite. You treat a composite supply as a supply of a single thing. Where, for example, the supply of services is integral, ancillary or incidental to another dominant part of the supply, being a supply of real property, the supply is a composite supply of real property and is treated as a supply of a single thing to which subsection 38-190(1) does not apply.
 101. Paragraph 59 of GSTR 2001/8 states the following:
 No single factor (by itself) will provide the sole test you use to determine whether a part of a supply is integral, ancillary or incidental to the dominant part of the supply.
 [F24]
@@ -453,18 +450,18 @@ it represents a marginal proportion of the total value of the package compared t
 it is necessary or contributes to the supply as a whole, but cannot be identified as the dominant part of the supply; or
 •
 it contributes to the proper performance of the contract to supply the dominant part.
-That is, we consider that a part of a supply will be integral, ancillary or incidental where it is insignificant in value or function, or merely contributes to or complements the use or enjoyment of the dominant part of the supply.  It is a question of fact and degree whether a supply is mixed or composite.
+That is, we consider that a part of a supply will be integral, ancillary or incidental where it is insignificant in value or function, or merely contributes to or complements the use or enjoyment of the dominant part of the supply. It is a question of fact and degree whether a supply is mixed or composite.
 102. The following supplies illustrate the importance of this characterisation issue.
 Purchase of a ticket to obtain entry to a cinema or sporting event
 103. The dominant part of the supply is the presentation of the event or film and the permission to enter upon the land and occupy a particular seat is ancillary.
 [F25]
 This is not a supply of real property.
 Provision of car parking facilities
-104. If the essential character of a supply of car parking facilities is a licence to occupy land, the supply is a supply of real property.  However, if the supply is properly characterised as the supply of a service, as in the case of a supply of valet car parking services at a hotel, the real property being merely the setting for the services provided, the supply is not a supply of real property.
+104. If the essential character of a supply of car parking facilities is a licence to occupy land, the supply is a supply of real property. However, if the supply is properly characterised as the supply of a service, as in the case of a supply of valet car parking services at a hotel, the real property being merely the setting for the services provided, the supply is not a supply of real property.
 Rental of particular secure storage space
 105. If a licence to occupy a particular secure storage space is supplied along with security services but those services are ancillary to the licence to occupy land, the supply is of real property.
 Provision of storage services, without rental of a particular site
-106. Where the supply is of storage services only, there being no right to occupy particular storage space, the real property is merely the setting for the service performed.  The supply is the service of storing goods.
+106. Where the supply is of storage services only, there being no right to occupy particular storage space, the real property is merely the setting for the service performed. The supply is the service of storing goods.
 [F26]
 There is no supply of real property.
 Hire of a room for a function or payment for a stall at a market or for space at a trade exhibition
@@ -478,46 +475,46 @@ Miller Freeman World-wide plc (No.2)
 [F27]
 [1998] BVC 2197 (supply of a right to occupy a stand at an exhibition) are instances where, having regard to all the facts and circumstances, the essential character of the supply was determined to be the granting of a licence to occupy land.
 Provision of a serviced office including amenities such as telephones, computer system, photocopiers and fax machines
-109. Where the dominant part of the supply is the supply of a licence to occupy land, the amenities being ancillary to the dominant part of the supply, the supply is a supply of real property.  The UK VAT case of
+109. Where the dominant part of the supply is the supply of a licence to occupy land, the amenities being ancillary to the dominant part of the supply, the supply is a supply of real property. The UK VAT case of
 Business Enterprises (UK) LTD v. Customs and Excise Comrs
-(1988) 3 BVC 854 is an example of where the provision of furnished and serviced office accommodation was found to be a single supply of a licence to occupy land.  On the facts in that case the office facilities and amenities were regarded as qualities of the land over which the licence was granted and 'integral' to the dominant part of the supply, that is, the licence to occupy land.
+(1988) 3 BVC 854 is an example of where the provision of furnished and serviced office accommodation was found to be a single supply of a licence to occupy land. On the facts in that case the office facilities and amenities were regarded as qualities of the land over which the licence was granted and 'integral' to the dominant part of the supply, that is, the licence to occupy land.
 Directly connected with goods or real property
 110. Supplies of things (other than goods or real property) that are directly connected with goods or real property situated outside Australia are GST-free under item 1.
 111. Supplies of things (other than goods or real property) made to a non-resident who is not in Australia when the thing supplied is done and that are directly connected with real property in Australia, are not GST-free under paragraph (a) of item 2, subsection 38-190(1).
 [F28]
-112. Supplies of things (other than goods or real property) to a recipient who is not in Australia when the thing supplied is done and where the supply is effectively used or enjoyed outside Australia, are not GST-free under item 3 of subsection  38-190(1) if they are directly connected with real property in Australia.
+112. Supplies of things (other than goods or real property) to a recipient who is not in Australia when the thing supplied is done and where the supply is effectively used or enjoyed outside Australia, are not GST-free under item 3 of subsection 38-190(1) if they are directly connected with real property in Australia.
 Meaning of 'directly connected with'
-113. In ordinary usage 'connected with' means having some connection or relationship with.  The inclusion of the word 'directly' means that the degree of connection must be close.  The question that arises is how close must the connection be for there to be a direct connection.
-114. The expression 'directly connected with' has not been considered by the Australian courts.  However, 'in connection with' and 'directly' have been considered judicially in Australia and other jurisdictions.
+113. In ordinary usage 'connected with' means having some connection or relationship with. The inclusion of the word 'directly' means that the degree of connection must be close. The question that arises is how close must the connection be for there to be a direct connection.
+114. The expression 'directly connected with' has not been considered by the Australian courts. However, 'in connection with' and 'directly' have been considered judicially in Australia and other jurisdictions.
 115. The Full Federal Court in
 Burswood Management Ltd v. Attorney-General
 (1990) 20 ALD 357
 [F29]
 said:
-The words 'in connection with' are words of wide import and the meaning to be attributed to them depends on their context and the purposes of the statute in which they appear.    The terms have a very wide operation but they do not usually carry the widest possible ambit, for they are subject to the context in which they are used, to the words with which they are associated and to the object or purpose of the statutory provision in which they appear.
+The words 'in connection with' are words of wide import and the meaning to be attributed to them depends on their context and the purposes of the statute in which they appear. The terms have a very wide operation but they do not usually carry the widest possible ambit, for they are subject to the context in which they are used, to the words with which they are associated and to the object or purpose of the statutory provision in which they appear.
 116. In
 Berry v. Federal Commissioner of Taxation
-(1953) 89 CLR 653 the High Court examined the meaning of 'in connection with' in the context of deciding whether a receipt was 'consideration for or in connection with any goodwill attached to or connected with land a lease of which had been granted'.  In that context it was held
+(1953) 89 CLR 653 the High Court examined the meaning of 'in connection with' in the context of deciding whether a receipt was 'consideration for or in connection with any goodwill attached to or connected with land a lease of which had been granted'. In that context it was held
 [F30]
 that 'a substantial relation, in a practical business sense, to that property' was required.
-117. The addition of the adverb 'directly' to the phrase 'in connection with' qualifies and narrows the scope of the expression 'connected with'.  It implies a more emphatic connection.
+117. The addition of the adverb 'directly' to the phrase 'in connection with' qualifies and narrows the scope of the expression 'connected with'. It implies a more emphatic connection.
 118. The extent to which the word 'directly' limits the scope of the words that come after it depends on the context in which the word appears and the purpose of the legislation.
 119. For example, in
 Commissioner of Taxation v. Faywin Investments
-90 ATC 4361;  (1990) 93 ALR 241 the Full Federal Court examined the meaning of 'directly' in the context of a provision about conferring a tax deduction for capital outlays 'expended directly in producing a film'.  The Court gave 'directly' a broader construction so as to promote the purpose underlying the concession.  Bowen CJ and French J in the majority joint judgment held that:
-The word 'directly' qualifies the range of expenditure incurred 'in producing a film' that is deductible.  A narrow construction of that word is possible which limits the relevant class of 'direct' expenditure to payments made for goods or services used in or comprising elements of the production process.  But such a construction would unduly limit the range of legitimate commercial arrangements that may be entered into in connection with the financing of film production.  Consistently with the purpose of the division which is to promote the production of Australian films, and recognising the commercial environment in which it must be applied, the requirement that moneys expended be expended 'directly' in production is no more than a requirement that there be a sufficiently close connection between the outlay and the production process.
+90 ATC 4361; (1990) 93 ALR 241 the Full Federal Court examined the meaning of 'directly' in the context of a provision about conferring a tax deduction for capital outlays 'expended directly in producing a film'. The Court gave 'directly' a broader construction so as to promote the purpose underlying the concession. Bowen CJ and French J in the majority joint judgment held that:
+The word 'directly' qualifies the range of expenditure incurred 'in producing a film' that is deductible. A narrow construction of that word is possible which limits the relevant class of 'direct' expenditure to payments made for goods or services used in or comprising elements of the production process. But such a construction would unduly limit the range of legitimate commercial arrangements that may be entered into in connection with the financing of film production. Consistently with the purpose of the division which is to promote the production of Australian films, and recognising the commercial environment in which it must be applied, the requirement that moneys expended be expended 'directly' in production is no more than a requirement that there be a sufficiently close connection between the outlay and the production process.
 [F31]
 120. In another context, the British VAT Tribunal in
 Trustees for the MacMillan Cancer Trust
-[1998] BVC 2320 examined whether particular accommodation services were exempted as being 'services which are directly connected with the provision of care, treatment or instruction designed to promote the physical or mental welfare of elderly, sick, distressed or disabled persons'.  The Tribunal compared this provision with the corresponding legislation under the sixth VAT directive
+[1998] BVC 2320 examined whether particular accommodation services were exempted as being 'services which are directly connected with the provision of care, treatment or instruction designed to promote the physical or mental welfare of elderly, sick, distressed or disabled persons'. The Tribunal compared this provision with the corresponding legislation under the sixth VAT directive
 [F32]
-which exempted 'the supply of services and of goods closely linked to welfare and social security work ...'.  In deciding that the accommodation services satisfied both descriptions, the Tribunal observed that although the expressions 'linked to' and 'connected with' are synonymous, 'there is a difference in meaning in the adverbs used for each of the terms, 'closely' and 'directly', the latter implying a more emphatic nexus'.
+which exempted 'the supply of services and of goods closely linked to welfare and social security work ...'. In deciding that the accommodation services satisfied both descriptions, the Tribunal observed that although the expressions 'linked to' and 'connected with' are synonymous, 'there is a difference in meaning in the adverbs used for each of the terms, 'closely' and 'directly', the latter implying a more emphatic nexus'.
 [F33]
-121. In subsection 38-190(1), the expression 'directly connected with' appears in the context of a provision that prescribes in what circumstances a supply is GST-free.  The policy intention, as evidenced by the heading to the table in that subsection, is to make supplies GST-free where consumption of that supply occurs outside Australia.
-122. In item 1 this is achieved by treating a supply as GST-free if that supply (of things other than goods or real property) is directly connected with goods or real property situated outside Australia.  Conversely, under paragraph (a) of item 2 or item 3, a supply (of things other than goods or real property) is not GST-free if that supply is directly connected with real property situated in Australia or is a supply of work physically performed on goods in Australia when the work is done.
+121. In subsection 38-190(1), the expression 'directly connected with' appears in the context of a provision that prescribes in what circumstances a supply is GST-free. The policy intention, as evidenced by the heading to the table in that subsection, is to make supplies GST-free where consumption of that supply occurs outside Australia.
+122. In item 1 this is achieved by treating a supply as GST-free if that supply (of things other than goods or real property) is directly connected with goods or real property situated outside Australia. Conversely, under paragraph (a) of item 2 or item 3, a supply (of things other than goods or real property) is not GST-free if that supply is directly connected with real property situated in Australia or is a supply of work physically performed on goods in Australia when the work is done.
 123. The inference is that if the connection between a supply and goods or real property is sufficiently close the supply is regarded as consumed where the goods or real property are located.
 124. Consistent with the purpose of the subsection, we consider that the requirement that the supply is directly connected with goods or real property is a requirement that there be a very close connection between the supply and the goods or real property.
-125. In New Zealand the expression 'directly in connection with' is also used to establish if a supply is subject to GST.  To be zero-rated in New Zealand (the equivalent of being GST-free), certain services must be supplied 'directly in connection with' particular goods or property.
+125. In New Zealand the expression 'directly in connection with' is also used to establish if a supply is subject to GST. To be zero-rated in New Zealand (the equivalent of being GST-free), certain services must be supplied 'directly in connection with' particular goods or property.
 [F34]
 In addition, services 'supplied for and to a person who is not resident in New Zealand and who is outside New Zealand at the time the services are performed' are not zero-rated if the services are supplied 'directly in connection with' New Zealand realty and moveable personal property (other than choses in action).
 [F35]
@@ -535,10 +532,10 @@ only in part turned on the meaning of 'directly in connection with'), they do su
 Wilson & Horton Ltd
 and
 Malololailai Interval Holidays NZ Ltd,
-a supply of advertising services and a supply of marketing services respectively were not considered as being rendered directly in connection with the underlying goods or real property.  The courts found that neither of these transactions had a direct effect upon the underlying goods or real property.  The transactions in these cases were of a kind that could be described as 'one step removed from the direct transaction'.  (These cases are discussed further at paragraphs 140 to 145C.)
-128. It is also interesting to note the approach in other GST or VAT jurisdictions.  In the UK, under the place of supply of services rules, a supply is not exempt from VAT if the supply relates to land.  In determining whether a supply is related to land, the UK approach is that the rule 'applies only to services which relate directly to a specific site(s) of land or property.  It does not apply if a supply of services has only an indirect connection with land, or if the land related service is only an incidental component of a more comprehensive supply of services'.
+a supply of advertising services and a supply of marketing services respectively were not considered as being rendered directly in connection with the underlying goods or real property. The courts found that neither of these transactions had a direct effect upon the underlying goods or real property. The transactions in these cases were of a kind that could be described as 'one step removed from the direct transaction'. (These cases are discussed further at paragraphs 140 to 145C.)
+128. It is also interesting to note the approach in other GST or VAT jurisdictions. In the UK, under the place of supply of services rules, a supply is not exempt from VAT if the supply relates to land. In determining whether a supply is related to land, the UK approach is that the rule 'applies only to services which relate directly to a specific site(s) of land or property. It does not apply if a supply of services has only an indirect connection with land, or if the land related service is only an incidental component of a more comprehensive supply of services'.
 [F39]
-129. Similarly, under the Canadian GST legislation it is necessary to determine whether a service and property are 'in respect of' each other.  Certain paragraphs of Schedule VI, Part V, sections 7 and 23 of the
+129. Similarly, under the Canadian GST legislation it is necessary to determine whether a service and property are 'in respect of' each other. Certain paragraphs of Schedule VI, Part V, sections 7 and 23 of the
 Excise Tax Act 1985
 (Canada) provide that specified services 'in respect of' tangible personal property or real property are excluded from zero-rating.
 [F40]
@@ -546,9 +543,9 @@ Excise Tax Act 1985
 [F41]
 The relationship between the service and the property must be more than a mere indirect or incidental connection for the service and the property to be considered to be 'in respect of' each other.
 131. In summary, for the purposes of subsection 38-190(1), we consider that the expression 'directly connected with' contemplates a very close link or association between the supply and the goods or the real property.
-132. The expression in subsection 38-190(1) is 'directly connected with goods or real property'.  We consider the goods or real property must be particular goods or real property.  The connection, in our view, is only sufficiently close to be characterised as a direct one where the supply has a connection with particular goods or real property.  A supply that does not relate to particular goods or real property does not have a direct connection with goods or real property.
+132. The expression in subsection 38-190(1) is 'directly connected with goods or real property'. We consider the goods or real property must be particular goods or real property. The connection, in our view, is only sufficiently close to be characterised as a direct one where the supply has a connection with particular goods or real property. A supply that does not relate to particular goods or real property does not have a direct connection with goods or real property.
 [F42]
-133. For example, a supply of information about a possible property development in a particular suburb has a connection with real property but not a direct one.  In contrast, a supply of advice to a property owner about how best to develop a particular site has a direct connection with real property.  The supply affects, or its purpose is to affect, the nature of particular real property.
+133. For example, a supply of information about a possible property development in a particular suburb has a connection with real property but not a direct one. In contrast, a supply of advice to a property owner about how best to develop a particular site has a direct connection with real property. The supply affects, or its purpose is to affect, the nature of particular real property.
 134. We consider that a supply of a thing other than goods or real property is directly connected with goods or real property where, for example, the direct object of the supply is the goods or real property in the sense that:
 •
 the supply changes or affects the goods or real property in a physical way;
@@ -562,20 +559,20 @@ the supply affects (or its purpose is to affect) or protects the nature or value
 the supply affects, or is proposed to affect, the ownership of the goods or real property including any interest in, or right in or over goods or real property.
 Supplies that are covered by each of these categories and which we consider to be directly connected with goods or real property are discussed and illustrated at paragraphs 37 to 44 of the Ruling section of the Ruling.
 What the supply is for
-135. In many cases, the description of the supply is likely to be clear enough in itself to establish whether or not the supply is directly connected with goods or real property.  For example, it is clear that a supply of repairs to goods or a building is directly connected with those goods or real property.  However, in other cases, to establish whether there is a direct connection between the supply and the goods or real property, a close analysis of the supply is necessary to reveal what the supply is really for.
+135. In many cases, the description of the supply is likely to be clear enough in itself to establish whether or not the supply is directly connected with goods or real property. For example, it is clear that a supply of repairs to goods or a building is directly connected with those goods or real property. However, in other cases, to establish whether there is a direct connection between the supply and the goods or real property, a close analysis of the supply is necessary to reveal what the supply is really for.
 136. This is illustrated by the United Kingdom VAT case of
 Mechanical Engineering Consultants Ltd
-[1996] BVC 2289.  That case concerned a supply relating to the commissioning of an incinerator and waste disposal complex in the UK.  Under the place of supply rules, the VAT result differed depending on whether the supply was either consultancy services or the supply of staff, or a supply of services relating to land.  In examining the written contract between the parties, the Tribunal found that the supply, in substance, was for the commissioning of the complex and that this supply was one relating to land in a direct way.
-137. Thus there will be cases where the arrangements between the supplier and the recipient must be examined to establish what the supply is for.  Often this can be ascertained by looking at the written contract between the supplier and the recipient and, where necessary, the actions of those parties.  If there is no written contract, other documentation such as purchase orders, correspondence between the parties or invoices or receipts may be useful in establishing what the supply is for.
-138. Sometimes a supply may be given a generic label such as consultancy services or management services.  In these circumstances it is necessary to examine what, in substance, the supply is for.
-139. It is also important to understand the exact nature of what the supplier is supplying to the recipient so that in assessing whether there is a direct connection between that supply and particular goods or real property the transaction is analysed correctly.  Two New Zealand cases illustrate this point.
+[1996] BVC 2289. That case concerned a supply relating to the commissioning of an incinerator and waste disposal complex in the UK. Under the place of supply rules, the VAT result differed depending on whether the supply was either consultancy services or the supply of staff, or a supply of services relating to land. In examining the written contract between the parties, the Tribunal found that the supply, in substance, was for the commissioning of the complex and that this supply was one relating to land in a direct way.
+137. Thus there will be cases where the arrangements between the supplier and the recipient must be examined to establish what the supply is for. Often this can be ascertained by looking at the written contract between the supplier and the recipient and, where necessary, the actions of those parties. If there is no written contract, other documentation such as purchase orders, correspondence between the parties or invoices or receipts may be useful in establishing what the supply is for.
+138. Sometimes a supply may be given a generic label such as consultancy services or management services. In these circumstances it is necessary to examine what, in substance, the supply is for.
+139. It is also important to understand the exact nature of what the supplier is supplying to the recipient so that in assessing whether there is a direct connection between that supply and particular goods or real property the transaction is analysed correctly. Two New Zealand cases illustrate this point.
 140. In
 Wilson & Horton
-the New Zealand High Court considered the issue of whether the supply of advertising space to overseas clients by Wilson & Horton Ltd was 'directly in connection with' goods situated in New Zealand.  Wilson & Horton Ltd published advertisements in the New Zealand Herald for foreign clients and treated these supplies as zero-rated.
+the New Zealand High Court considered the issue of whether the supply of advertising space to overseas clients by Wilson & Horton Ltd was 'directly in connection with' goods situated in New Zealand. Wilson & Horton Ltd published advertisements in the New Zealand Herald for foreign clients and treated these supplies as zero-rated.
 141. In considering the question of whether the supplies were directly in connection with moveable personal property in New Zealand, namely, the goods being advertised, Hillyer J held that:
-The supply of space and the services rendered by Wilson & Horton are directly connected with the advertising but not with the goods advertised.  The goods are, as it were, at least one step removed from the services supplied by the newspaper proprietor.
+The supply of space and the services rendered by Wilson & Horton are directly connected with the advertising but not with the goods advertised. The goods are, as it were, at least one step removed from the services supplied by the newspaper proprietor.
 [F43]
-142. The supply of advertising is about conveying the advertising message.  Even though the subject matter of the advertisement may be goods or real property, this does not establish a direct connection with those underlying things.  Although the advertising is caused by a need arising in relation to the goods or real property and would not occur but for the goods or real property, this does not make the supply of advertising directly connected with the goods or real property.  This is because an advertising supply is directly connected with all the things necessary for the conveying of the message.  Its immediate object is not to effect the sale of the goods or real property but the conveying of the message.
+142. The supply of advertising is about conveying the advertising message. Even though the subject matter of the advertisement may be goods or real property, this does not establish a direct connection with those underlying things. Although the advertising is caused by a need arising in relation to the goods or real property and would not occur but for the goods or real property, this does not make the supply of advertising directly connected with the goods or real property. This is because an advertising supply is directly connected with all the things necessary for the conveying of the message. Its immediate object is not to effect the sale of the goods or real property but the conveying of the message.
 143. In the New Zealand case of
 Malololailai
 the issue was whether 'marketing services' supplied by Accent Holidays Ltd (AHL) to a related company Malololailai Interval Holidays New Zealand (MIH (NZ)) were 'directly in connection with land situated outside New Zealand or any improvement thereto'. AHL advertised and promoted time-share holidays at a resort in Fiji to the NZ public as agent of MIH (NZ). The purchaser of the time-share holiday obtained a right to one week's accommodation in a bure, at a resort in Fiji for each year up to February 2017 when the scheme ends. AHL negotiated the contract for time-share holidays up to the point where the contract was effected between MIH (NZ) and the purchaser.
@@ -594,38 +591,38 @@ GST and real estate services for non-resident property owners - supplied before 
 .
 [F44B]
 In that guide we state that the service supplied by a real estate agent of selling/auctioning a rental property on behalf of a non-resident where the agent has authority to sign the sale agreement on behalf of the non-resident is a supply directly connected with real property.
-146. Where a supply comprises more than one part it is necessary to consider what each part is for.  If a part is separately identifiable, distinct, or has an aim in itself, the application of subsection 38-190(1) is considered in relation to each such part.  Where a part is only integral, ancillary or incidental to another dominant part of the supply, the supply is characterised by the dominant part.  (This is illustrated in the Rulings section at paragraph 27).
+146. Where a supply comprises more than one part it is necessary to consider what each part is for. If a part is separately identifiable, distinct, or has an aim in itself, the application of subsection 38-190(1) is considered in relation to each such part. Where a part is only integral, ancillary or incidental to another dominant part of the supply, the supply is characterised by the dominant part. (This is illustrated in the Rulings section at paragraph 27).
 Location of the recipient
-147. The location of the recipient of a supply is not relevant in deciding whether a supply is directly connected with goods or real property outside Australia.  The test for 'directly connected with' looks at the relationship between the thing being supplied and the goods or real property.  This is illustrated by the following example.
+147. The location of the recipient of a supply is not relevant in deciding whether a supply is directly connected with goods or real property outside Australia. The test for 'directly connected with' looks at the relationship between the thing being supplied and the goods or real property. This is illustrated by the following example.
 Example 4 - location of the recipient
 148.
-A New Zealand resident, Bill, requires architectural plans and enters into a contract with Amanda, an Australian based architect, to supply them.  Amanda, in turn, engages Amy, also resident in Australia, to draw the plans.  The plans are to modify a building in New Zealand.
+A New Zealand resident, Bill, requires architectural plans and enters into a contract with Amanda, an Australian based architect, to supply them. Amanda, in turn, engages Amy, also resident in Australia, to draw the plans. The plans are to modify a building in New Zealand.
 149.
 Is the supply from Amy to Amanda directly connected with real property outside Australia?
 150.
-Yes.  The supply of architectural services by Amy to Amanda is directly connected with particular real property in New Zealand.  The location of the recipient is not relevant in determining whether this connection exists. The fact that Amanda receives the supply in Australia is irrelevant.  Even though the subcontracted supply is made and received in Australia, it is still directly connected with the real property in New Zealand.
+Yes. The supply of architectural services by Amy to Amanda is directly connected with particular real property in New Zealand. The location of the recipient is not relevant in determining whether this connection exists. The fact that Amanda receives the supply in Australia is irrelevant. Even though the subcontracted supply is made and received in Australia, it is still directly connected with the real property in New Zealand.
 151.
-The supply of architectural services by Amy to Amanda is GST-free under item 1.  (Similarly, the supply of architectural services by Amanda to Bill is GST-free under item 1.)
+The supply of architectural services by Amy to Amanda is GST-free under item 1. (Similarly, the supply of architectural services by Amanda to Bill is GST-free under item 1.)
 Meaning of 'a supply of work physically performed on goods'
 152. The meaning of a supply of work physically performed on goods is discussed fully in the Ruling section (refer paragraphs 56 to 77).
-153. A supply of work physically performed on goods is often self-evident.  However, sometimes it is necessary to clarify exactly what the supply is for to ascertain whether the supply is properly characterised as a supply of work physically performed on goods.  This is illustrated by examples 2 and 3 in the Ruling section at paragraphs 70 and 74 respectively.
+153. A supply of work physically performed on goods is often self-evident. However, sometimes it is necessary to clarify exactly what the supply is for to ascertain whether the supply is properly characterised as a supply of work physically performed on goods. This is illustrated by examples 2 and 3 in the Ruling section at paragraphs 70 and 74 respectively.
 Apportionment
-154. If a supply is directly connected with goods or real property situated in Australia and outside Australia, part of the supply is GST-free and part may be taxable.  Where this is the case a reasonable basis of apportionment should be used to apportion the consideration for the supply.
-155. Similarly, if a supply of work is physically performed on goods situated in and out of Australia when the work is done, part of the supply may be GST-free and part taxable.  Again, where this is the case a reasonable basis of apportionment should be used to apportion the consideration for the supply.
+154. If a supply is directly connected with goods or real property situated in Australia and outside Australia, part of the supply is GST-free and part may be taxable. Where this is the case a reasonable basis of apportionment should be used to apportion the consideration for the supply.
+155. Similarly, if a supply of work is physically performed on goods situated in and out of Australia when the work is done, part of the supply may be GST-free and part taxable. Again, where this is the case a reasonable basis of apportionment should be used to apportion the consideration for the supply.
 Example 5 - conduct of a global stocktake of goods outside Australia and in Australia
 156.
-An Australian resident public accounting firm is engaged by a United Kingdom (UK) parent company under a global agreement to conduct a stocktake of the Australian subsidiary and their Pacific Rim subsidiaries.  The UK company is a non-resident and is not in Australia when the stocktake is conducted.  Under the global agreement the stocktake services are required to be provided to each subsidiary including the Australian subsidiary.
+An Australian resident public accounting firm is engaged by a United Kingdom (UK) parent company under a global agreement to conduct a stocktake of the Australian subsidiary and their Pacific Rim subsidiaries. The UK company is a non-resident and is not in Australia when the stocktake is conducted. Under the global agreement the stocktake services are required to be provided to each subsidiary including the Australian subsidiary.
 157.
 For the purposes of item 1 of subsection 38-190(1) is the supply of the stocktake service by the Australian accounting firm directly connected with goods situated outside Australia?
 158.
 Yes, to the extent that the stocktake is of goods situated outside Australia, there is a direct connection between the stocktake and those goods
 159.
-To the extent that the supply is directly connected with goods situated outside Australia, the supply is GST-free under item 1.  The stocktake of the goods of the Australian subsidiary is not a supply of work physically performed on those goods.  That part of the supply is GST-free under paragraph (a) of item 2.  However, because the supply is provided to the Australian subsidiary, subsection 38-190(3) applies to make that part of the supply not GST-free.
+To the extent that the supply is directly connected with goods situated outside Australia, the supply is GST-free under item 1. The stocktake of the goods of the Australian subsidiary is not a supply of work physically performed on those goods. That part of the supply is GST-free under paragraph (a) of item 2. However, because the supply is provided to the Australian subsidiary, subsection 38-190(3) applies to make that part of the supply not GST-free.
 [F44C]
 160. Apportionment may also arise where part of a supply is directly connected with goods or real property situated outside Australia and part of the supply is work physically performed on goods in Australia.
-161. However, it is noted that there is no need to apportion where there is an otherwise GST-free ancillary part in the supply and the dominant part of the supply is taxable.  The supply takes its character from the dominant part - see Example 16 - provision of auditing services at paragraph 175.
+161. However, it is noted that there is no need to apportion where there is an otherwise GST-free ancillary part in the supply and the dominant part of the supply is taxable. The supply takes its character from the dominant part - see Example 16 - provision of auditing services at paragraph 175.
 [F45]
-162. Similarly, there is no need to apportion where there is an otherwise taxable ancillary part in the supply and the dominant part of the supply is GST-free.  The supply takes its character from the dominant part.
+162. Similarly, there is no need to apportion where there is an otherwise taxable ancillary part in the supply and the dominant part of the supply is GST-free. The supply takes its character from the dominant part.
 Further examples
 Supplies directly connected with goods or real property
 163. The following examples are provided of supplies that are directly connected with goods or real property.
@@ -655,17 +652,17 @@ An Australian resident buyer of a New Zealand commercial property engages a soli
 Question
 Is this supply of conveyancing services directly connected with real property situated outside Australia?
 Answer
-Yes.  The conveyancing services are directly connected with the real property in New Zealand.  Those services are to act for the purchaser in its acquisition of legal title to the property.  The supply affects the ownership of the real property.
+Yes. The conveyancing services are directly connected with the real property in New Zealand. Those services are to act for the purchaser in its acquisition of legal title to the property. The supply affects the ownership of the real property.
 Section 38-190 consequences
 The supply is GST-free under item 1.
 165.
 Example 7 - supply of legal services in acting on behalf of a mortgagee exercising power of sale
 Transaction
-A non-resident financial institution loans money to an Australian resident.  A mortgage is taken over the Australian resident's real property in Australia.  The Australian resident defaults on repayments.  The non-resident financial institution engages a solicitor in Australia to act on its behalf in exercising power of sale under the mortgage.
+A non-resident financial institution loans money to an Australian resident. A mortgage is taken over the Australian resident's real property in Australia. The Australian resident defaults on repayments. The non-resident financial institution engages a solicitor in Australia to act on its behalf in exercising power of sale under the mortgage.
 Question
 Is the supply of legal services in acting on behalf of a mortgagee exercising power of sale directly connected with real property situated in Australia?
 Answer
-Yes.  The supply of legal services is directly connected with the real property situated in Australia.  The solicitor's services involve the sale of the property on behalf of the mortgagee.  The supply affects the ownership of the real property.
+Yes. The supply of legal services is directly connected with the real property situated in Australia. The solicitor's services involve the sale of the property on behalf of the mortgagee. The supply affects the ownership of the real property.
 Section 38-190 consequences
 The supply is not GST-free under item 1 because the real property is not situated outside Australia. Nor is the supply GST-free under paragraph (a) of item 2, or item 3 because the supply is directly connected with real property situated in Australia
 .
@@ -680,7 +677,7 @@ An Australian resident company engages another Australian resident to perform a 
 Question
 Is this supply of the stocktake services directly connected with goods situated outside Australia?
 Answer
-Yes.  The conduct of a stocktake is directly connected with the goods.  The stocktake establishes the quantity of particular goods on hand.
+Yes. The conduct of a stocktake is directly connected with the goods. The stocktake establishes the quantity of particular goods on hand.
 Section 38-190 consequences
 The supply is GST-free under item 1.
 167.
@@ -690,9 +687,9 @@ An architect resident in Australia designs a plan for a warehouse for a particul
 Question
 Is this supply of architectural services directly connected with real property situated outside Australia?
 Answer
-Yes.  The supply of the architectural plans is directly connected with real property situated outside Australia.  The plans supplied affect (or have the purpose of affecting) the nature of that real property in New Zealand.
+Yes. The supply of the architectural plans is directly connected with real property situated outside Australia. The plans supplied affect (or have the purpose of affecting) the nature of that real property in New Zealand.
 Section 38-190 consequences
-The supply is GST-free under item 1.  This example should be contrasted with Example 20 below.
+The supply is GST-free under item 1. This example should be contrasted with Example 20 below.
 168.
 Example 10 - supply of building insurance
 Transaction
@@ -700,9 +697,9 @@ An insurer in Australia insures a building situated outside Australia against th
 Question
 Is this insurance supply directly connected with real property situated outside Australia?
 Answer
-Yes.  The supply is directly connected with real property.  The supply indemnifies the owner against loss caused by damage to the building and therefore protects the value of the building to the owner.
+Yes. The supply is directly connected with real property. The supply indemnifies the owner against loss caused by damage to the building and therefore protects the value of the building to the owner.
 Section 38-190 consequences
-The supply is GST-free under item 1.  This example should be contrasted with Example 25 below.
+The supply is GST-free under item 1. This example should be contrasted with Example 25 below.
 169.
 Example 11 - supply of legal services in preparing an agreement for the lease of goods
 Transaction
@@ -710,27 +707,27 @@ An Australian resident company is to lease equipment that it owns in New Zealand
 Question
 Is this supply of legal services directly connected with goods situated outside Australia?
 Answer
-Yes.  The legal services are directly connected with the goods in New Zealand that are the subject of the lease.  Those services are to act for the owner in granting an interest in the goods.
+Yes. The legal services are directly connected with the goods in New Zealand that are the subject of the lease. Those services are to act for the owner in granting an interest in the goods.
 Section 38-190 consequences
 The supply is GST-free under item 1.
 170.
 Example 12 - supply of legal services in preparing an instrument of mortgage over real property
 Transaction
-A non-resident financial institution loans money to an Australian resident.  The financial institution engages a solicitor in Australia to prepare an instrument of mortgage over real property in Australia owned by the Australian resident.
+A non-resident financial institution loans money to an Australian resident. The financial institution engages a solicitor in Australia to prepare an instrument of mortgage over real property in Australia owned by the Australian resident.
 Question
 Is this supply of legal services directly connected with real property situated in Australia?
 Answer
-Yes.  The legal services are directly connected with the real property in Australia that is the subject of the mortgage.  Those services are to act for the mortgagee in acquiring an interest in the real property.
+Yes. The legal services are directly connected with the real property in Australia that is the subject of the mortgage. Those services are to act for the mortgagee in acquiring an interest in the real property.
 Section 38-190 consequences
-The supply is not GST-free under item 1 because the real property is not situated outside Australia.  Nor is the supply GST-free under paragraph (a) of item 2, or item 3 because the supply is directly connected with real property situated in Australia.  If the non-resident is not in Australia when the legal services are performed and acquires the services in carrying on its enterprise, but is not registered or required to be registered, the supply is GST-free under paragraph (b) of item 2.
+The supply is not GST-free under item 1 because the real property is not situated outside Australia. Nor is the supply GST-free under paragraph (a) of item 2, or item 3 because the supply is directly connected with real property situated in Australia. If the non-resident is not in Australia when the legal services are performed and acquires the services in carrying on its enterprise, but is not registered or required to be registered, the supply is GST-free under paragraph (b) of item 2.
 171.
 Example 13 - supply of an option to buy goods
 Transaction
-An Australian resident company grants an option to purchase mining equipment situated in Papua New Guinea.  The option is granted in Australia to another Australia resident company.
+An Australian resident company grants an option to purchase mining equipment situated in Papua New Guinea. The option is granted in Australia to another Australia resident company.
 Question
 Is this supply of the option to purchase goods directly connected with goods situated outside Australia?
 Answer
-Yes.  The supply of the option is directly connected with the goods in Papua New Guinea.  The option creates a right over the goods.
+Yes. The supply of the option is directly connected with the goods in Papua New Guinea. The option creates a right over the goods.
 Section 38-190 consequences
 The supply is GST-free under item 1.
 Supplies not directly connected with goods or real property
@@ -769,147 +766,147 @@ The facts of each of the above examples are as follows.
 173.
 Example 14 - supply of legal services in the preparation of a will
 Transaction
-A solicitor in Australia is engaged to prepare a will for an Australian resident individual who is in Australia when the will is prepared.  The purpose of the will is to deal with the Australian resident's personal and real property situated in the United States.
+A solicitor in Australia is engaged to prepare a will for an Australian resident individual who is in Australia when the will is prepared. The purpose of the will is to deal with the Australian resident's personal and real property situated in the United States.
 Question
 Is this supply of legal services directly connected with goods or real property situated outside Australia?
 Answer
-No.  The legal services are directly connected with the preparation of the will and not with goods or real property. The legal services are only indirectly connected with the real property that is the subject of the will.
+No. The legal services are directly connected with the preparation of the will and not with goods or real property. The legal services are only indirectly connected with the real property that is the subject of the will.
 Section 38-190 consequences
-The supply is not GST-free under item 1.  The supply is not GST-free under any other item.
+The supply is not GST-free under item 1. The supply is not GST-free under any other item.
 174.
 Example 15 - supply of legal services - provision of an opinion
 Transaction
-An Australian resident company sues a non-resident insurer for breach of contract.  The non-resident insurer engages a solicitor in Australia to provide a legal opinion about whether the risk was covered by the insurance policy.  The insurance policy covered the risk of damage to real property in Australia.  The non-resident insurer is not in Australia when the legal opinion is prepared.
+An Australian resident company sues a non-resident insurer for breach of contract. The non-resident insurer engages a solicitor in Australia to provide a legal opinion about whether the risk was covered by the insurance policy. The insurance policy covered the risk of damage to real property in Australia. The non-resident insurer is not in Australia when the legal opinion is prepared.
 Question
 Is this supply of legal services directly connected with real property situated in Australia?
 Answer
-No.  The legal services are directly connected with the insurance policy covering the real property but not the real property itself.  The supply of the legal opinion is directly connected with the liability of the insurer to pay the insurance claim. The supply of the legal services is only indirectly connected with real property.
+No. The legal services are directly connected with the insurance policy covering the real property but not the real property itself. The supply of the legal opinion is directly connected with the liability of the insurer to pay the insurance claim. The supply of the legal services is only indirectly connected with real property.
 Section 38-190 consequences
-The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 175.
 Example 16 - provision of auditing services
 Transaction
-An Australian resident public accounting firm enters into an agreement with an Australian resident parent company to perform an operational audit of its non-resident subsidiary. Under the agreement, the audit services are required to be provided to the non-resident subsidiary.  A minor component of the audit includes a stocktake of the subsidiary's goods situated outside Australia. The effective use or enjoyment of the supply takes place outside Australia.
+An Australian resident public accounting firm enters into an agreement with an Australian resident parent company to perform an operational audit of its non-resident subsidiary. Under the agreement, the audit services are required to be provided to the non-resident subsidiary. A minor component of the audit includes a stocktake of the subsidiary's goods situated outside Australia. The effective use or enjoyment of the supply takes place outside Australia.
 Question
 Is this supply of auditing services directly connected with goods situated outside Australia?
 Answer
-No.  Although there is a direct connection between a part of the supply, the stocktake, and goods outside Australia, the stocktake is only ancillary to the dominant part of the supply, the operational audit.  The supply is characterised by the dominant part and that part is not directly connected with goods.
+No. Although there is a direct connection between a part of the supply, the stocktake, and goods outside Australia, the stocktake is only ancillary to the dominant part of the supply, the operational audit. The supply is characterised by the dominant part and that part is not directly connected with goods.
 Section 38-190 consequences
-The supply is not GST-free under item 1.  This supply is not to be apportioned because the otherwise GST-free part (the stocktake of goods outside Australia) is only ancillary and loses its identity to the dominant taxable parts of the operational audit.  However, the supply is GST-free under item 3 (subsection 38-190(4) applies).
+The supply is not GST-free under item 1. This supply is not to be apportioned because the otherwise GST-free part (the stocktake of goods outside Australia) is only ancillary and loses its identity to the dominant taxable parts of the operational audit. However, the supply is GST-free under item 3 (subsection 38-190(4) applies).
 176.
 Example 17 - provision of capital gains tax advice
 Transaction
-An Australian resident individual engages an accountant in Australia to provide advice on the United Kingdom (UK) and Australian capital gains tax implications of selling real property owned and situated in the UK.  The Australian resident individual is in Australia when the advice is prepared.
+An Australian resident individual engages an accountant in Australia to provide advice on the United Kingdom (UK) and Australian capital gains tax implications of selling real property owned and situated in the UK. The Australian resident individual is in Australia when the advice is prepared.
 Question
 Is this supply of advice directly connected with real property situated outside Australia?
 Answer
-No.  The supply is directly connected with the application of the UK and Australian tax laws and the vendor's UK and Australian tax position.  The supply is not directly connected with the real property.  The supply is only indirectly connected with the real property.
+No. The supply is directly connected with the application of the UK and Australian tax laws and the vendor's UK and Australian tax position. The supply is not directly connected with the real property. The supply is only indirectly connected with the real property.
 Section 38-190 consequences
 The supply is not GST-free under item 1 or any other item.
 177.
 Example 18 - provision of land tax advice
 Transaction
-A United Kingdom (UK) resident individual engages a lawyer in Australia to advise about liability to land tax arising from her ownership of real property in Australia.  The UK resident is not in Australia when the advice is prepared.
+A United Kingdom (UK) resident individual engages a lawyer in Australia to advise about liability to land tax arising from her ownership of real property in Australia. The UK resident is not in Australia when the advice is prepared.
 Question
 Is this supply of advice directly connected with real property situated in Australia?
 Answer
-No. The advice is directly connected with the application of land tax laws of an Australian State.  The supply is not directly connected with the real property.  The supply is only indirectly connected with the real property.
+No. The advice is directly connected with the application of land tax laws of an Australian State. The supply is not directly connected with the real property. The supply is only indirectly connected with the real property.
 Section 38-190 consequences
-The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 However, subsection 38-190(2A) may negate the GST-free status of the supply if the acquisition of the land tax advice by the UK individual relates (whether directly or indirectly, wholly or partly) to the making of an input taxed supply by that individual of real property situated in Australia
 .
 178.
 Example 19 - preparation of financial statements and tax return
 Transaction
-A United Kingdom (UK) resident individual engages an accountant in Australia to prepare financial statements and a tax return relating to income derived from a rental property owned and situated in Australia.  The UK resident is not in Australia when the financial statements and tax return are prepared.
+A United Kingdom (UK) resident individual engages an accountant in Australia to prepare financial statements and a tax return relating to income derived from a rental property owned and situated in Australia. The UK resident is not in Australia when the financial statements and tax return are prepared.
 Question
 Is this supply of the preparation of financial statements and the tax return directly connected with real property situated in Australia?
 Answer
-No.  The supply is directly connected with the financial and taxation position of the recipient and not with the real property.
+No. The supply is directly connected with the financial and taxation position of the recipient and not with the real property.
 Section 38-190 consequences
-The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 However, subsection 38-190(2A) may negate the GST-free status of the supply if the acquisition by the UK individual of the services of preparing financial statements and a tax return relates (whether directly or indirectly, wholly or partly) to the making of an input taxed supply by that individual of real property situated in Australia
 .
 179.
 Example 20 - supply of architectural services for generic plans (no particular real property)
 Transaction
-An architect in Australia designs a plan for a project home to be included in a suite of plans for a New Zealand resident builder to use in New Zealand.  The New Zealand resident builder is not in Australia when the architectural services are performed.
+An architect in Australia designs a plan for a project home to be included in a suite of plans for a New Zealand resident builder to use in New Zealand. The New Zealand resident builder is not in Australia when the architectural services are performed.
 Question
 Is this supply of architectural services directly connected with real property situated outside Australia?
 Answer
-No.  The plans are not directly connected with particular real property.  They are not for a dwelling to be constructed on particular real property.  The plans only have an indirect connection with real property in New Zealand.  The plans do not affect or change the nature of particular real property in New Zealand.
+No. The plans are not directly connected with particular real property. They are not for a dwelling to be constructed on particular real property. The plans only have an indirect connection with real property in New Zealand. The plans do not affect or change the nature of particular real property in New Zealand.
 Section 38-190 consequences
-The supply is not GST-free under item 1.  The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is not GST-free under item 1. The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 180.
 Example 21 - supply of advertising services
 Transaction
-An Australian based newspaper runs an advertisement in an Australian newspaper for a New Zealand resident vendor of a New Zealand property.  The Australian newspaper provides advertising services comprising the provision of space and typesetting services.  The vendor is a non- resident who is not in Australia when the advertising services are performed.
+An Australian based newspaper runs an advertisement in an Australian newspaper for a New Zealand resident vendor of a New Zealand property. The Australian newspaper provides advertising services comprising the provision of space and typesetting services. The vendor is a non- resident who is not in Australia when the advertising services are performed.
 Question
 Is this supply of advertising services directly connected with real property situated outside Australia?
 Answer
-No.  The supply of the advertising services rendered by the Australian newspaper is not directly connected with the real property being advertised.  The advertising space and typesetting services are directly connected with the advertisement.  The supply of advertising services does not affect or change the nature of the real property, nor does it effect a change in the ownership of the real property.
+No. The supply of the advertising services rendered by the Australian newspaper is not directly connected with the real property being advertised. The advertising space and typesetting services are directly connected with the advertisement. The supply of advertising services does not affect or change the nature of the real property, nor does it effect a change in the ownership of the real property.
 Section 38-190 consequences
-The supply is not GST-free under item 1.  The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is not GST-free under item 1. The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 181.
 Example 22 - supply of marketing services
 Transaction
-A real estate agent in Australia is appointed to find a willing buyer in Australia for a commercial property located in New Zealand.  The vendor is a non- resident who is not in Australia when the marketing services are performed.
+A real estate agent in Australia is appointed to find a willing buyer in Australia for a commercial property located in New Zealand. The vendor is a non- resident who is not in Australia when the marketing services are performed.
 Question
 Is this supply of marketing services directly connected with real property situated outside Australia?
 Answer
-No.  The supply of marketing services is not directly connected with real property.  The supply is one of finding a willing purchaser for the real property.  It facilitates the transaction that is directly connected with the real property ie the sale.  The marketing services do not affect the nature or value of the real property, nor do they effect a change in the ownership of the real property.
+No. The supply of marketing services is not directly connected with real property. The supply is one of finding a willing purchaser for the real property. It facilitates the transaction that is directly connected with the real property ie the sale. The marketing services do not affect the nature or value of the real property, nor do they effect a change in the ownership of the real property.
 Section 38-190 consequences
-The supply is not GST-free under item 1.  The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is not GST-free under item 1. The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 182.
 Example 23 - provision of brokerage service
 Transaction
-A non-resident individual acquires through a broker in Australia shares in a company that holds real property in Australia.  The non-resident is not in Australia when the brokerage service is performed.
+A non-resident individual acquires through a broker in Australia shares in a company that holds real property in Australia. The non-resident is not in Australia when the brokerage service is performed.
 Question
 Is this supply of a brokerage service directly connected with real property situated in Australia?
 Answer
-No.  The supply is not directly connected with real property.  The supply is directly connected with the acquisition of the shares.  The brokerage service is to act for the non-resident in acquiring ownership of the shares in the company but not of the underlying real property.
+No. The supply is not directly connected with real property. The supply is directly connected with the acquisition of the shares. The brokerage service is to act for the non-resident in acquiring ownership of the shares in the company but not of the underlying real property.
 Section 38-190 consequences
-The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 183.
 Example 24 - supply of debt recovery service
 Transaction
-A non-resident company engages a debt recovery agency in Australia to recover payment for a debt owed by an Australian resident.  The debt arose as a result of the supply of a leasehold interest in real property in Australia.  The non-resident is not in Australia when the debt recovery service is performed.
+A non-resident company engages a debt recovery agency in Australia to recover payment for a debt owed by an Australian resident. The debt arose as a result of the supply of a leasehold interest in real property in Australia. The non-resident is not in Australia when the debt recovery service is performed.
 Question
 Is this supply of a debt recovery service directly connected with real property situated in Australia?
 Answer
-No.  The supply of debt recovery services is directly connected with the recovery of the debt.  It is not directly connected with real property.  The supply is only indirectly connected with real property.
+No. The supply of debt recovery services is directly connected with the recovery of the debt. It is not directly connected with real property. The supply is only indirectly connected with real property.
 Section 38-190 consequences
-The supply is GST-free under item 2.  Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is GST-free under item 2. Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 However, subsection 38-190(2A) may negate the GST-free status of the supply if the acquisition of the debt recovery services by the non-resident company relates (whether directly or indirectly, wholly or partly) to the making of an input taxed supply by that company of real property situated in Australia
 .
 184.
 Example 25 - supply of public liability insurance
 Transaction
-An insurer in Australia makes a supply of public liability insurance for a public swimming pool situated outside Australia.  The insured is a non-resident who is not in Australia when the policy is issued.
+An insurer in Australia makes a supply of public liability insurance for a public swimming pool situated outside Australia. The insured is a non-resident who is not in Australia when the policy is issued.
 Question
 Is this public liability insurance a supply directly connected with real property situated outside Australia?
 Answer
-No.  The supply of public liability insurance relates to the risk of negligent acts that could cause loss, damage or injury to the public.  The supply does not protect the value of the real property.  It is not directly connected with real property.
+No. The supply of public liability insurance relates to the risk of negligent acts that could cause loss, damage or injury to the public. The supply does not protect the value of the real property. It is not directly connected with real property.
 Section 38-190 consequences
-The supply is not GST-free under item 1.  The supply is GST-free under item 2 (or item 4). Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
+The supply is not GST-free under item 1. The supply is GST-free under item 2 (or item 4). Paragraph (a) of item 2 is satisfied because the supply does not fall within either of the exceptions in that paragraph.
 185.
 Example 26 - supply of advice or information about real property prices or property markets
 Transaction
-An Australian based investment advisor supplies an Australian resident with advice about property prices in particular districts in London.  The Australian resident is in Australia when the advice is prepared.
+An Australian based investment advisor supplies an Australian resident with advice about property prices in particular districts in London. The Australian resident is in Australia when the advice is prepared.
 Question
 Is the supply of advice directly connected with real property situated outside Australia?
 Answer
-No.  The advice concerns property prices in general.  Even though the advice may ultimately lead to the purchase of real property in London, there is only an indirect connection with real property.
+No. The advice concerns property prices in general. Even though the advice may ultimately lead to the purchase of real property in London, there is only an indirect connection with real property.
 Section 38-190 consequences
 The supply is not GST-free under item 1 or any other item.
 186.
 Example 27 - supply of demographic study or market research, for example, to determine the economic viability of a business project for a particular region
 Transaction
-An Australian based market research company supplies information to an Australian resident company about the socio-economic make-up of a community in a region in New Zealand.  The information will be used to assist in deciding whether to construct business premises and commence a retail business in that region.  The recipient company is in Australia when the information is prepared.
+An Australian based market research company supplies information to an Australian resident company about the socio-economic make-up of a community in a region in New Zealand. The information will be used to assist in deciding whether to construct business premises and commence a retail business in that region. The recipient company is in Australia when the information is prepared.
 Question
 Is the supply of the information directly connected with real property situated outside Australia?
 Answer
-No.  The information assists in making a business decision about the economic viability of the proposed venture and its location.  Even though the advice may lead to the eventual building of premises and establishing a business in a particular location in New Zealand, this connection is too remote to be a direct one.  The supply is not directly connected with particular real property.  The supply does not affect or change the nature or value of the real property.
+No. The information assists in making a business decision about the economic viability of the proposed venture and its location. Even though the advice may lead to the eventual building of premises and establishing a business in a particular location in New Zealand, this connection is too remote to be a direct one. The supply is not directly connected with particular real property. The supply does not affect or change the nature or value of the real property.
 Section 38-190 consequences
 The supply is not GST-free under item 1 or under any other item.
 Detailed contents list
@@ -1065,7 +1062,7 @@ GOODS AND SERVICES TAX ACT 1985,
 No 141
 Paragraphs 11A(1)(e), (f), (h), (i), (k), (l) and (m) of the
 Goods and Services Tax Act 1985
-(NZ), as they apply on and after 10 October 2000, use the term 'directly in connection with' and have been referred to in paragraph 125 of the Ruling.  The relevant material from subsection 11A(1) is extracted as follows:
+(NZ), as they apply on and after 10 October 2000, use the term 'directly in connection with' and have been referred to in paragraph 125 of the Ruling. The relevant material from subsection 11A(1) is extracted as follows:
 11A - ZERO-RATING OF SERVICES
 11A(1) [Zero-rated services]
 A supply of services that is chargeable with tax under section 8 must be charged at the rate of 0% in the following situations:
@@ -1146,27 +1143,27 @@ Footnotes
 [F8]
 8 Section 195-1.
 [F9]
-9   See Goods and Services Tax Ruling GSTR 2001/8 - Goods and Services Tax: apportioning the consideration for a supply that includes taxable and non-taxable parts.
+9 See Goods and Services Tax Ruling GSTR 2001/8 - Goods and Services Tax: apportioning the consideration for a supply that includes taxable and non-taxable parts.
 [F10]
-10  The requirements in paragraphs (a) and (b) of item 2 are expressed in the alternative -both paragraphs do not have to be satisfied.  However, in addition to satisfying the requirements of either paragraph, to be GST-free under item 2, the supply must be made to a non-resident who is not in Australia when the thing supplied is done.
+10 The requirements in paragraphs (a) and (b) of item 2 are expressed in the alternative -both paragraphs do not have to be satisfied. However, in addition to satisfying the requirements of either paragraph, to be GST-free under item 2, the supply must be made to a non-resident who is not in Australia when the thing supplied is done.
 [F11]
-11  If paragraph (b) of item 2 applies, the supply is GST-free despite a direct connection with real property situated in Australia.
+11 If paragraph (b) of item 2 applies, the supply is GST-free despite a direct connection with real property situated in Australia.
 [F12]
-12  See Goods and Services Tax Ruling GSTR 2001/8 - Goods and services tax:  apportioning the consideration for a supply that includes taxable and non-taxable parts.
+12 See Goods and Services Tax Ruling GSTR 2001/8 - Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts.
 [F13]
-13  The part may be GST-free under paragraph (b) of item 2. If paragraph (b) of item 2 applies, the supply is GST-free despite a direct connection with real property situated in Australia.
+13 The part may be GST-free under paragraph (b) of item 2. If paragraph (b) of item 2 applies, the supply is GST-free despite a direct connection with real property situated in Australia.
 [F14]
-14  (1994) 16 NZTC 11,221; (1994) 18 TRNZ 792.
+14 (1994) 16 NZTC 11,221; (1994) 18 TRNZ 792.
 [F15]
-15  (1997) 18 NZTC 13,137.
+15 (1997) 18 NZTC 13,137.
 [F16]
-16  While the supply of storage services is not directly connected with real property it is directly connected with the goods stored - see paragraph 39.
+16 While the supply of storage services is not directly connected with real property it is directly connected with the goods stored - see paragraph 39.
 [F17]
-17  See the Explanatory Memorandum to Indirect Tax Legislation Amendment Bill 2000 at paragraph 3.44.
+17 See the Explanatory Memorandum to Indirect Tax Legislation Amendment Bill 2000 at paragraph 3.44.
 [F18]
-18  'Work' connotes purposeful activity - it does not cover a physical impact on goods that is accidental.  For example, if goods are damaged in transit, this does not make the transport supply 'work physically performed on goods'.
+18 'Work' connotes purposeful activity - it does not cover a physical impact on goods that is accidental. For example, if goods are damaged in transit, this does not make the transport supply 'work physically performed on goods'.
 [F19]
-19  [1965] 2 All ER 472 at 488.
+19 [1965] 2 All ER 472 at 488.
 [F19A]
 19A This view is consistent with the decision in
 Saga Holidays Limited v. Commissioner of Taxation
@@ -1174,19 +1171,19 @@ Saga Holidays Limited v. Commissioner of Taxation
 Saga Holidays
 ) where Stone J held that the accommodation component of an Australian tour package supplied by a tour operator gave the tourist a contractual right exercisable over or in relation to land.
 [F20]
-20  See for example,
+20 See for example,
 Commissioners of Customs and Excise v. Sinclair Collis Ltd
 [2001] BVC 378 and
 Customs and Excise Commissioners v. Sinclair Collis Ltd
 [1998] BVC 335.
 [F21]
-21  In
+21 In
 Saga Holidays
 [2006] FCAFC 191 Stone J considered it unnecessary to consider whether a supply of hotel accommodation was a licence to occupy land. Stone J (at paragraph 38) was 'satisfied that, at the very least, the contract between Saga and the tourist [for hotel accommodation] can be accurately described as including "a contractual right exercisable... in relation to land" and therefore ... it is not necessary to consider the question of a licence'.
 [F22]
-22  It is noted that the exemption of the grant of real property from VAT provided for in Schedule 9, Group 1, and item 1(d) of the UK
+22 It is noted that the exemption of the grant of real property from VAT provided for in Schedule 9, Group 1, and item 1(d) of the UK
 Value Added Tax Act 1994
-excludes the provision of hotel and similar accommodation. On one view a supply of hotel accommodation would otherwise be exempt as a grant of real property.  In
+excludes the provision of hotel and similar accommodation. On one view a supply of hotel accommodation would otherwise be exempt as a grant of real property. In
 Swedish State v. Stockholm Lindöpark Aktiebolag
 [2001] BVC 93, in relation to the equivalent provisions of the Sixth Directive, it was acknowledged that accommodation in a hotel could have been considered to fall within the exemption for the leasing and letting of immoveable property, on the ground that otherwise there would have been no need to specifically exclude the provision of hotel and similar accommodation from the exemption.
 [F22A]
@@ -1198,66 +1195,66 @@ Saga Holidays
 Saga Holidays
 [2006] FCAFC 191 and dismissed. Stone J (at paragraph 38) found that the accommodation component was properly characterised as a supply of real property.
 [F23]
-23  See Goods and Services Tax Ruling GSTR 2001/8 - Goods and Services Tax:  apportioning the consideration for a supply that includes taxable and non-taxable parts.
+23 See Goods and Services Tax Ruling GSTR 2001/8 - Goods and Services Tax: apportioning the consideration for a supply that includes taxable and non-taxable parts.
 [F24]
-24  See Lord Hope of Craighead in
+24 See Lord Hope of Craighead in
 Customs and Excise Commissioners v. British Telecommunications plc
 [1999] BVC 306 at 314.
 [F25]
-25  See
+25 See
 Rochdale Hornets Football Club Co. Ltd
 (1975) 1BVC 1032.
 [F26]
-26  See
+26 See
 A.E. House & Son
 (1988) 3 BVC 695 and
 Unity Farm Holiday Centre Ltd
 (1988) 3 BVC 695.
 [F27]
-27  The case of
+27 The case of
 International Trade Exhibitions J/V Ltd
 [1996] BVC 2905 was distinguished.
 [F28]
-28  A supply of this kind may be GST-free under paragraph (b) of item 2.
+28 A supply of this kind may be GST-free under paragraph (b) of item 2.
 [F29]
-29  At 359 per Lockhart, Wilcox and Hill JJ.
+29 At 359 per Lockhart, Wilcox and Hill JJ.
 [F30]
-30  At 659.
+30 At 659.
 [F31]
-31  At 4371.
+31 At 4371.
 [F32]
-32  Directive 77/388 of the European Economic Community, the Sixth VAT directive.
+32 Directive 77/388 of the European Economic Community, the Sixth VAT directive.
 [F33]
-33  At 2324-5.
+33 At 2324-5.
 [F34]
-34  Refer paragraphs 11(A)(1)(e), (f), (h), (i), (l) and (m) of the
+34 Refer paragraphs 11(A)(1)(e), (f), (h), (i), (l) and (m) of the
 Goods and Services Tax Act 1985
 (NZ), copy provided in the Appendix.
 [F35]
-35  Refer subparagraph 11A(1)(k)(i) of the
+35 Refer subparagraph 11A(1)(k)(i) of the
 Goods and Services Tax Act 1985
 (NZ), copy provided in the Appendix.
 [F36]
-36  (1994) 16 NZTC 11,221; (1994) 18 TRNZ 792.
+36 (1994) 16 NZTC 11,221; (1994) 18 TRNZ 792.
 [F37]
-37  (1997) 18 NZTC 13,137.
+37 (1997) 18 NZTC 13,137.
 [F38]
-38  See also P78 (1992) 14 NZTC 4523 and
+38 See also P78 (1992) 14 NZTC 4523 and
 Auckland Regional Authority v. C of IR
 (1994) 16 NZTC 11,080.
 [F39]
-39  See Customs and Excise Notice 741, Place of supply of services, at section 4.
+39 See Customs and Excise Notice 741, Place of supply of services, at section 4.
 [F40]
-40  See paragraphs 7(d), 7(e), 23(b), and 23(c) as they apply on and after 10 June 1993.  Section 7 of Schedule VI, Part V, specifies a zero-rated supply.
+40 See paragraphs 7(d), 7(e), 23(b), and 23(c) as they apply on and after 10 June 1993. Section 7 of Schedule VI, Part V, specifies a zero-rated supply.
 [F41]
-41  See Policy Statement P-169R.
+41 See Policy Statement P-169R.
 Meaning of 'In Respect of Real Property Situated in Canada' and 'In Respect of Tangible Personal Property that is Situated in Canada at the Time the Service is Performed', for the Purposes of Schedule VI, Part V, sections 7 and 23 to the
 Excise Tax Act,
 issued January 25 1995, revised May 25 1999.
 [F42]
-42  It is noted that the UK VAT place of supply rule for services relating to land applies only to services which relate directly to a specific site(s) of land or property. The rule provides that if you supply services that relate to land or property, the place of supply of those services is where the land itself is located - see section 4 of UK Customs and Excise Notice 741, Place of supply of services, March 2002.  In that Notice, by way of an example, it is stated at paragraph 4.7 that advice or information relating to land prices or property markets are not services that are land-related as they do not relate to specific sites.
+42 It is noted that the UK VAT place of supply rule for services relating to land applies only to services which relate directly to a specific site(s) of land or property. The rule provides that if you supply services that relate to land or property, the place of supply of those services is where the land itself is located - see section 4 of UK Customs and Excise Notice 741, Place of supply of services, March 2002. In that Notice, by way of an example, it is stated at paragraph 4.7 that advice or information relating to land prices or property markets are not services that are land-related as they do not relate to specific sites.
 [F43]
-43  (1994) 16 NZTC 11,221 at 11,224.
+43 (1994) 16 NZTC 11,221 at 11,224.
 [F44]
 44 (1997) 18 NZTC 13,137 at p13,146.
 [F44A]
@@ -1267,12 +1264,12 @@ issued January 25 1995, revised May 25 1999.
 [F44C]
 44C Goods and Services Tax Ruling GSTR 2005/6 explains when a supply is provided to another entity under subsection 38-190(3).
 [F45]
-45  See also GSTR 2001/8.
+45 See also GSTR 2001/8.
 Previously released in draft form as GSTR 2002/D1.
 References
 ATO references:
-NO  T2001/07517
-ISSN:  1443-5160
+NO T2001/07517
+ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
 GSTR 2000/31

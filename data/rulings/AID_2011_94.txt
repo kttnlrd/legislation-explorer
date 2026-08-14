@@ -3,18 +3,14 @@ ATO ID 2011/94
 ==================================================
 
 Income Tax
-        Assessable income: balancing adjustment - repayment of sale price of depreciating asset in a later income year
-        FOI status: may be released
-
-
+ Assessable income: balancing adjustment - repayment of sale price of depreciating asset in a later income year
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 When the amount received by Taxpayer X for the sale of its depreciating asset is repaid in a later income year, is the balancing adjustment amount that was included in Taxpayer X's assessable income under subsection 40-285(1) of the Income Tax Assessment Act 1997 (ITAA 1997) in the previous income year in respect of the sale of that depreciating asset treated as non assessable and non exempt income in accordance with section 59-30 of the ITAA 1997?
@@ -30,13 +26,11 @@ Section 59-30 applies in certain circumstances to allow an amount of assessable 
 
 An amount you receive is not assessable income and is not exempt income for an income year if:
 
-
 you must repay it; and
 
 you repay it in a later income year; and
 
 you cannot deduct the repayment for any income year.
-
 
 Subsection 40-285(1) applies to include an amount in assessable income if a balancing adjustment event that occurs for a depreciating asset whose decline in value is or would have been worked out under Subdivision 40-B and the asset's termination value is more than its adjustable value. The amount to be included in assessable income is the difference between the asset's termination value and its adjustable value.
 For the purposes of working out a balancing adjustment under section 40-285, the termination value of a depreciating asset has the meaning given by section 40-300. Section 40-300 provides direction for the working out of the termination value of a depreciating asset. In the majority of cases, the termination value is the amount that you have received for the asset. The termination value is worked out at the time when the balancing adjustment event occurs.
@@ -54,14 +48,13 @@ Treating the repayment of the sale price of the asset as the trigger for section
 Rather the provision is designed to change the treatment of amounts of income to non assessable and non exempt income where no deduction is available for the subsequent repayment of that amount of income because the repayment is not incurred in the course of carrying on a business. Critically it changes the treatment of the amount of income that is repaid (subsection 59-30(1)). In this case, the amount that is repaid is the sale price of Taxpayer X's depreciating asset, not the balancing adjustment worked out under subsection 40-285(1). Section 59-30 can not change the nature of the balancing adjustment (included as assessable income in the previous year) as the balancing adjustment is not the amount repaid.
 Consequently, the repayment of the amount received by Taxpayer X for the sale of its depreciating asset does not result in the amount that was included in Taxpayer X's assessable income under subsection 40-285(1) in the previous income year to be treated as non assessable and non exempt income in accordance with section 59-30.
 
-
 [Note: in accordance with the cost rules of Subdivision 40-C, the repayment of the sale price can be taken to have been paid by Taxpayer X to start to hold the asset on its reacquisition.]
 
 Date of decision:
-         15 September 2011
+  15 September 2011
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -72,24 +65,22 @@ Other References:
 
  Explanatory Memorandum to the Taxation Laws Amendment Bill (No 2) 2003
 
-
 Keywords
 
 Balancing adjustment calculation
-          Depreciating assets
-          Income
-          Non-assessable non-exempt income
-          Repayments
-
+ Depreciating assets
+ Income
+ Non-assessable non-exempt income
+ Repayments
 
 Siebel/TDMS Reference Number:
-         1-3KRWKVE
+  1-3KRWKVE
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         18 November 2011
+  18 November 2011
 
 ISSN:
-          1445-2782
+ 1445-2782

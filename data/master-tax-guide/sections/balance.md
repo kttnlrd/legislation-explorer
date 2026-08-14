@@ -7,7 +7,7 @@ paragraph: "¶13-650"
 ---
 # balance ¶13-650
 
-A proposed new Div 296 in ITAA97 will introduce a tax on individuals who have a total superannuation balance (TSB) that exceeds $3 million (the “large superannuation balance threshold”) at the end of an income year. From the 2025–26 income year, these individuals will be liable to pay “Division 296 tax” at a tax rate of 15% on the percentage of their superannuation earnings that correspond to the portion of their TSB that is above $3 million (Treasury Laws Amendment (Better Targeted Superannuation Concessions) Bill 2023, Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023: ¶41-100).
+A proposed new Div 296 in ITAA97 will introduce a tax on individuals who have a total superannuation balance (TSB) that exceeds $3 million (the "large superannuation balance threshold") at the end of an income year. From the 2025–26 income year, these individuals will be liable to pay "Division 296 tax" at a tax rate of 15% on the percentage of their superannuation earnings that correspond to the portion of their TSB that is above $3 million (Treasury Laws Amendment (Better Targeted Superannuation Concessions) Bill 2023, Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023: ¶41-100).
 
 The eﬀect of the Division 296 tax is that the headline concessional tax rates applying to superannuation earnings from 2025–26 onwards will be:
 
@@ -17,7 +17,7 @@ The eﬀect of the Division 296 tax is that the headline concessional tax rates 
 
   balances above $3 million.
 
-Balances in Australian superannuation accounts will be included for the purposes of calculating an individual’s TSB and earnings. This includes accounts in APRA-regulated funds, SMSFs and exempt public sector schemes. Special rules apply to certain Commonwealth judges and justices, certain State higher level oﬃce holders, and non-complying funds (see “Division 296 tax — special rules and modiﬁcations” below).
+Balances in Australian superannuation accounts will be included for the purposes of calculating an individual's TSB and earnings. This includes accounts in APRA-regulated funds, SMSFs and exempt public sector schemes. Special rules apply to certain Commonwealth judges and justices, certain State higher level oﬃce holders, and non-complying funds (see "Division 296 tax — special rules and modiﬁcations" below).
 
 Generally, all individuals who have taxable superannuation earnings (see below) for an income year are liable to pay Division 296 tax, except:
 
@@ -31,7 +31,7 @@ Generally, all individuals who have taxable superannuation earnings (see below) 
 
   Calculation of taxable superannuation earnings
 
-An individual has “taxable superannuation earnings” for an income year if the TSB of the individual at the end of that year is greater than the “large superannuation balance threshold” ($3 million) and the amount of their superannuation earnings for the year is greater than nil. The total amount of taxable superannuation earnings for an income year is worked out by ﬁrst determining the percentage of the TSB at the end of the year that is above $3 million using the formula below: TSB at end of current
+An individual has "taxable superannuation earnings" for an income year if the TSB of the individual at the end of that year is greater than the "large superannuation balance threshold" ($3 million) and the amount of their superannuation earnings for the year is greater than nil. The total amount of taxable superannuation earnings for an income year is worked out by ﬁrst determining the percentage of the TSB at the end of the year that is above $3 million using the formula below: TSB at end of current
 
 =               ﬁnancial year − $3 million earnings TSB at end of current ﬁnancial year Example Alicia has account balances in her SMSF as at 30 June 2026 which total $4.8 million, made up as below:
 
@@ -41,13 +41,13 @@ An individual has “taxable superannuation earnings” for an income year if th
 
 She does not have any other superannuation fund or amount that would count towards her TSB.
 
-The proportion of Alicia’s 2025–26 earnings that is subject to Division 296 tax is calculated as 37.5%, ie: Proportion of earnings = $4.8m − $3m/$4.8m = 37.5% The Division 296 tax amount is calculated as: Earnings x 37.5% x 15% Note that the $3 million threshold is not indexed. This means that the proportion of an individual’s earnings subject to Division 296 tax will increase over time. “Earnings” for Division 296 tax purposes are linked to the actual taxable income attributable to the individual’s superannuation. Rather, earnings are calculated using a formula with reference to the diﬀerence in the TSB at the start and end of the income year, with adjustments for withdrawals and contributions, ie earnings = (TSB at end of current ﬁnancial year + withdrawals – net contributions) – TSB at end of previous ﬁnancial year.
+The proportion of Alicia's 2025–26 earnings that is subject to Division 296 tax is calculated as 37.5%, ie: Proportion of earnings = $4.8m − $3m/$4.8m = 37.5% The Division 296 tax amount is calculated as: Earnings x 37.5% x 15% Note that the $3 million threshold is not indexed. This means that the proportion of an individual's earnings subject to Division 296 tax will increase over time. "Earnings" for Division 296 tax purposes are linked to the actual taxable income attributable to the individual's superannuation. Rather, earnings are calculated using a formula with reference to the diﬀerence in the TSB at the start and end of the income year, with adjustments for withdrawals and contributions, ie earnings = (TSB at end of current ﬁnancial year + withdrawals – net contributions) – TSB at end of previous ﬁnancial year.
 
 If the basic superannuation earnings for an individual are less than nil in an income year, they may be carried forward and oﬀset against a Division 296 tax liability in future years. Basic superannuation earnings are obtained by subtracting their previous balance from their current adjusted balance. The amount of superannuation earnings can be a positive or negative amount.
 
 Assessment and payment of Division 296 tax Division 296 tax is levied directly on individuals and imposed separately to personal income tax and superannuation fund tax.
 
-The Commissioner will assess the amount of Division 296 tax payable by an individual in each year. This amount is due and payable within 84 days of the Commissioner’s notice of assessment.
+The Commissioner will assess the amount of Division 296 tax payable by an individual in each year. This amount is due and payable within 84 days of the Commissioner's notice of assessment.
 
 - pay the tax directly using their own funds, or
 
@@ -67,7 +67,7 @@ Division 296 tax — special rules and modifications
 
 - Commonwealth justices and judges in respect of deﬁned beneﬁt interest in a superannuation fund
 
-  established under the Judges’ Pension Act 1969, and
+  established under the Judges' Pension Act 1969, and
 
 - Territory Supreme Court Judges in respect of deﬁned beneﬁt interests in their judicial pension
 
@@ -75,15 +75,15 @@ Division 296 tax — special rules and modifications
 
 Division 296 provides that regulations may be made under the following ITAA97 provisions:
 
-- to work out an individual’s adjusted TSB for a year, by prescribing amounts to be included or
+- to work out an individual's adjusted TSB for a year, by prescribing amounts to be included or
 
-  excluded for the purpose of determining an individual’s “withdrawals total” (ss 296-50(1)(h) and (4)
+  excluded for the purpose of determining an individual's "withdrawals total" (ss 296-50(1)(h) and (4)
 
 (b))
 
-- to work out an individual’s adjusted TSB for a year, by prescribing amounts to be included or
+- to work out an individual's adjusted TSB for a year, by prescribing amounts to be included or
 
-  excluded for the purpose of determining an individual’s “contributions total” (ss 296-55(1)(j) and (6))
+  excluded for the purpose of determining an individual's "contributions total" (ss 296-55(1)(j) and (6))
 
 - to modify the operation of ss 296-50 and 296-55 and set out a non-exhaustive list of how those
 
@@ -95,7 +95,7 @@ Division 296 provides that regulations may be made under the following ITAA97 pr
 
 - to set out circumstances where a non-member spouse is to be treated as having a
 
-  superannuation interest where the member spouse’s interest is the subject of a family law payment
+  superannuation interest where the member spouse's interest is the subject of a family law payment
 
   split (s 307-230(3) and (4)), and
 
@@ -109,7 +109,7 @@ The amendments, which will enable commensurate treatment to be applied to deﬁn
 
 - modiﬁcations to ensure that deﬁned beneﬁt contributions, which are a notional amount, are
 
-  counted towards a person’s adjusted TSB for the purpose of Division 296 tax. For accruing
+  counted towards a person's adjusted TSB for the purpose of Division 296 tax. For accruing
 
   members, the actual employer contributions (if any) are disregarded to ensure that there is no
 
@@ -133,13 +133,13 @@ The amendments, which will enable commensurate treatment to be applied to deﬁn
 
 Exemptions from Division 296 tax The draft regulations also make amendments regarding certain State higher level oﬃce holders whose earnings from interests in a constitutionally protected fund are not subject to Division 296 tax. The amendments cover superannuation interests that are excluded from Division 293 tax and Division 296 tax due to constitutional limitations by:
 
-- replacing the current list of “constitutionally protected State higher level oﬃce holders” with the
+- replacing the current list of "constitutionally protected State higher level oﬃce holders" with the
 
-  deﬁnition of “State higher level oﬃce holder” in amended ITR2021 s 293-145.01, which will apply to
+  deﬁnition of "State higher level oﬃce holder" in amended ITR2021 s 293-145.01, which will apply to
 
   both Division 293 tax and Division 296 tax, and
 
-- inserting a new deﬁnition of “State higher level oﬃce holder” into ITR2021 s 995-1.01.
+- inserting a new deﬁnition of "State higher level oﬃce holder" into ITR2021 s 995-1.01.
 
 Essentially, State higher level oﬃce holders are oﬃces that are critical to the constitutional functioning of a State. These oﬃce holders include Governors, Ministers and members of Parliament, heads of State departments, oﬃces and commissions, judges, magistrates, and senior legal oﬃce holders such as solicitors- general and directors of public prosecution.
 

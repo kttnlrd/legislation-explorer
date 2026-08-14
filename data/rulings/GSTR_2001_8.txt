@@ -4,54 +4,52 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 11
-  • Div 165
-  • Div 358
-  • Div 38
-  • Div 40
-  • Division 11
-  • Division 165
-  • Division 358
-  • Division 38
-  • Division 40
-  • Division 84
-  • S 47 2012
-  • Subdivision 170-A
-  • Subdivision 170-B
-  • Subdivision 38-P
-  • Subdivision 66-B
-  • Subdivision 9-C
-  • div 38
-  • div 9
-  • division 170
+ • Div 11
+ • Div 165
+ • Div 358
+ • Div 38
+ • Div 40
+ • Division 11
+ • Division 165
+ • Division 358
+ • Division 38
+ • Division 40
+ • Division 84
+ • S 47 2012
+ • Subdivision 170-A
+ • Subdivision 170-B
+ • Subdivision 38-P
+ • Subdivision 66-B
+ • Subdivision 9-C
+ • div 38
+ • div 9
+ • division 170
 
 Cases Referenced:
-  • Allsop v. Federal Commissioner 
-  • Australasia v. Federal Commissioner 
-  • Avon Products Pty Limited
+ • Allsop v. Federal Commissioner 
+ • Australasia v. Federal Commissioner 
+ • Avon Products Pty Limited
 v.
 Commissioner 
-  • Avon Products Pty Limited v. Commissioner 
-  • Bophuthatswana National Commercial Corporation Ltd v. Customs 
-  • Card Protection Plan Ltd v. Customs 
-  • Card Protection Plan v. Customs 
-  • Commission v. United Kingdom 
-  • Excise Commissioners v. British Telecommunications 
-  • Excise Commissioners v. Madgett 
-  • Excise Commissioners v. Wellington Private Hospital Ltd
+ • Avon Products Pty Limited v. Commissioner 
+ • Bophuthatswana National Commercial Corporation Ltd v. Customs 
+ • Card Protection Plan Ltd v. Customs 
+ • Card Protection Plan v. Customs 
+ • Commission v. United Kingdom 
+ • Excise Commissioners v. British Telecommunications 
+ • Excise Commissioners v. Madgett 
+ • Excise Commissioners v. Wellington Private Hospital Ltd
 
-  • Excise Commissioners v. Wellington Private Hospital Ltd 
-  • In
+ • Excise Commissioners v. Wellington Private Hospital Ltd 
+ • In
 Saga Holidays v Commissioner 
-  • In
+ • In
 Westley Nominees Pty Ltd v Coles Supermarkets Pty Ltd 
-  • Mercantile Pty Limited
+ • Mercantile Pty Limited
 v
 Commissioner 
 
 Topics: GST, Companies, International
-
-
 
 ================================================================================
 
@@ -66,7 +64,7 @@ Back to browse
 195 related documents
 Goods and Services Tax Ruling
 GSTR 2001/8
-Goods and services tax:  Apportioning the consideration for a supply that includes taxable and non-taxable parts
+Goods and services tax: Apportioning the consideration for a supply that includes taxable and non-taxable parts
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -75,7 +73,7 @@ GSTR 2001/8EC
 .
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This Ruling contains references to provisions of the
 A New Tax System (Goods and Services Tax) Regulations 1999,
 which have been replaced by the
@@ -119,7 +117,7 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note: This is a consolidated version of this document.  Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling explains how you can identify whether a supply includes taxable and non-taxable parts under the
 A New Tax System (Goods and Services Tax
@@ -127,16 +125,16 @@ A New Tax System (Goods and Services Tax
 Act 1999
 (the GST Act).
 2. This Ruling describes the characteristics of a supply that contains taxable and non-taxable parts. It refers to such a supply as a 'mixed supply'. This Ruling also describes the characteristics of a supply that appears to have more than one part but is essentially a supply of one thing. This type of supply is referred to as a 'composite supply'.
-3. This Ruling provides methods and examples that you may use to help you work out how to apportion the consideration for a supply that contains separately identifiable taxable and non-taxable parts.  This means that you can identify the consideration for the taxable part of the supply.  The Ruling explains that you do not need to apportion the consideration for a composite supply.
+3. This Ruling provides methods and examples that you may use to help you work out how to apportion the consideration for a supply that contains separately identifiable taxable and non-taxable parts. This means that you can identify the consideration for the taxable part of the supply. The Ruling explains that you do not need to apportion the consideration for a composite supply.
 4. The Ruling also discusses how you can work out the value of the taxable part of a mixed supply under sections 9-75 and 9-80 of the GST Act.
-5. This Ruling also applies to the valuation of the separate parts of a mixed supply that includes food.  Goods and Services Tax Determination GSTD 2000/6 explains the circumstances where a supply of food packaging is GST-free.
+5. This Ruling also applies to the valuation of the separate parts of a mixed supply that includes food. Goods and Services Tax Determination GSTD 2000/6 explains the circumstances where a supply of food packaging is GST-free.
 [1]
 If both the rule stated in paragraph 7 of Goods and Services Tax Determination GSTD 2000/6 and the approach given in paragraph 21 of this Ruling apply to a supply that you make, then you may choose either approach.
 5A. This Ruling does not deal with the question of whether, when more than one thing is supplied in a single transaction, the transaction should be characterised as a single supply or multiple supplies.
-6. This Ruling does not deal with the apportionment of input tax credits.  Goods and Services Tax Ruling GSTR 2006/4 is about determining the extent of creditable purpose for claiming input tax credits and for making adjustments in the extent of creditable purpose.  It also explains several possible methods for determining the extent of creditable purpose.
+6. This Ruling does not deal with the apportionment of input tax credits. Goods and Services Tax Ruling GSTR 2006/4 is about determining the extent of creditable purpose for claiming input tax credits and for making adjustments in the extent of creditable purpose. It also explains several possible methods for determining the extent of creditable purpose.
 7. Unless otherwise stated, all legislative references in this Ruling are to the GST Act.
 Date of effect
-8.  This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+8. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 8A. [Omitted.]
 8B. [Omitted.]
 Context
@@ -157,9 +155,9 @@ or
 it does not meet the taxable supply requirements of paragraphs 9-5(a) to (d).
 In this Ruling, we refer to a supply (or part of a supply) that is not taxable as being non-taxable.
 10. It may be necessary to characterise what is supplied to determine whether it wholly or partly meets the requirements of section 9-5 or a provision that makes it non-taxable.
-11. Where you make a supply that is identifiable as having more than one part and each part is taxable, you do not need to apportion the consideration for the supply.  This is because GST is payable on the whole supply.  Similarly, if all of the parts of a supply are identifiable as being non-taxable, GST is not payable on any part of the supply.
-12. However, where you make a supply that is a combination of separately identifiable taxable and non-taxable parts, you need to identify the taxable part of the supply.  Then you can apportion the consideration for the supply and work out the GST payable on the taxable part of the supply.
-13. A supply that may at first appear to be one thing may contain taxable and non-taxable parts on closer analysis.  For example, a supply by way of a lease of goods, or a supply of rights or services used or consumed partly in Australia (taxable) and partly outside Australia (GST-free) may be regarded as having more than one part.
+11. Where you make a supply that is identifiable as having more than one part and each part is taxable, you do not need to apportion the consideration for the supply. This is because GST is payable on the whole supply. Similarly, if all of the parts of a supply are identifiable as being non-taxable, GST is not payable on any part of the supply.
+12. However, where you make a supply that is a combination of separately identifiable taxable and non-taxable parts, you need to identify the taxable part of the supply. Then you can apportion the consideration for the supply and work out the GST payable on the taxable part of the supply.
+13. A supply that may at first appear to be one thing may contain taxable and non-taxable parts on closer analysis. For example, a supply by way of a lease of goods, or a supply of rights or services used or consumed partly in Australia (taxable) and partly outside Australia (GST-free) may be regarded as having more than one part.
 [7]
 14. On the other hand, a supply that may at first appear to be a combination of taxable and non-taxable parts is not such a combination if it is given a specific treatment under the GST Act. For example, a supply consisting of a combination of foods that comes within paragraph 38-3(1)(c) is not a mixed supply (that is, a combination of taxable and GST-free parts) because the whole supply is treated as food that is not GST-free.
 Ruling
@@ -168,15 +166,15 @@ Mixed supply
 16. In this Ruling the term 'mixed supply' is used to describe a supply that has to be separated or unbundled as it contains separately identifiable taxable and non-taxable parts that need to be individually recognised.
 16A Paragraphs 45 to 54C of this Ruling explain how to identify whether a supply has separately identifiable parts.
 Composite supply
-17. In this Ruling, the term 'composite supply' is used to describe a supply that contains a dominant part and includes something that is integral, ancillary or incidental to that part.  You treat a composite supply as a supply of a single thing.  Paragraphs 55 to 63 explain what are integral, ancillary or incidental parts.
-18. A composite supply is either taxable or non-taxable.  It may also be a part of a larger mixed supply.
+17. In this Ruling, the term 'composite supply' is used to describe a supply that contains a dominant part and includes something that is integral, ancillary or incidental to that part. You treat a composite supply as a supply of a single thing. Paragraphs 55 to 63 explain what are integral, ancillary or incidental parts.
+18. A composite supply is either taxable or non-taxable. It may also be a part of a larger mixed supply.
 18A. You need to consider all of the circumstances of a supply to work out whether the supply is mixed or composite. GST is only payable on the taxable part of a mixed supply. If a composite supply is taxable, then GST is payable on the whole supply. If a composite supply is non-taxable, then no GST is payable on the supply.
 Differentiating between mixed and composite supplies
 19. Where a transaction comprises a bundle of features and acts, it may be necessary to characterise what is supplied to determine whether a particular provision applies in whole or in part. The characterisation should be undertaken in a manner that is consistent with the object of the particular statutory provision in issue. For example, if a provision specifically requires different treatment of two components of a transaction, this will mean that the two components must necessarily be separately recognised. However, that does not mean that the two components need to be separately recognised for all purposes of the GST Act.
 19A. An identification of the essential character of what is supplied may inform whether (and to which extent) a particular transaction falls within the terms of a specific statutory provision. You must consider all of the circumstances of the transaction to ascertain its essential character.
 [7A]
 19B. Having regard to the essential character and with regard to the statutory provision in issue, you can then determine whether the transaction is a mixed supply because it has separately identifiable parts that the GST Act treats as taxable and non-taxable, or whether it is a composite supply because one part of the supply should be regarded as being the dominant part, with the other parts being integral, ancillary or incidental to that dominant part.
-20. The distinction between parts that are separately identifiable and things that are integral, ancillary or incidental, is a question of fact and degree.  In deciding whether a supply consists of more than one part we take the view that you adopt a commonsense approach.
+20. The distinction between parts that are separately identifiable and things that are integral, ancillary or incidental, is a question of fact and degree. In deciding whether a supply consists of more than one part we take the view that you adopt a commonsense approach.
 21. You may choose to treat something (or things taken together) as integral, ancillary or incidental if the consideration that would be apportioned to it (if it were a separately identifiable part of a mixed supply) does not exceed
 the lesser of
 :
@@ -185,10 +183,10 @@ $3.00; or
 •
 20% of the consideration for the total supply.
 22. If you choose not to apply this approach, then you need to make an objective assessment about whether the thing is integral, ancillary or incidental.
-23. You cannot use this approach where a provision of the GST Act specifically requires you to treat a part of a supply in a particular way, regardless of its scale or connection with the supply.  For example, the supply of food as part of an excursion or field trip may otherwise be considered to be integral, ancillary or incidental to the supply of the excursion or field trip, but paragraph 38-90(2)(b) specifies that such food will not be GST-free.  This means that the consideration for the field trip requires apportionment.
+23. You cannot use this approach where a provision of the GST Act specifically requires you to treat a part of a supply in a particular way, regardless of its scale or connection with the supply. For example, the supply of food as part of an excursion or field trip may otherwise be considered to be integral, ancillary or incidental to the supply of the excursion or field trip, but paragraph 38-90(2)(b) specifies that such food will not be GST-free. This means that the consideration for the field trip requires apportionment.
 24. A part of a supply may, on an objective assessment, be something that forms an integral, ancillary or incidental part of the supply even if the consideration for it would exceed the lesser of $3.00 or 20% of the consideration for the total supply.
 Apportionment of the consideration for a mixed supply
-25. GST is payable on a mixed supply that you make, but only to the extent that the supply is taxable.  You need to apportion the consideration for a mixed supply between the taxable and non-taxable parts to find the consideration for the taxable part.
+25. GST is payable on a mixed supply that you make, but only to the extent that the supply is taxable. You need to apportion the consideration for a mixed supply between the taxable and non-taxable parts to find the consideration for the taxable part.
 26. Apportionment must be undertaken as a matter of practical commonsense. You can use any reasonable basis to apportion the consideration. Depending on the facts and circumstances of the supply, a direct or indirect method may be an appropriate basis upon which to apportion the consideration and ascertain the value of the taxable part of the supply. The basis you choose must be supportable in the particular circumstances.
 27. You should keep records that explain the basis used to apportion the consideration between the taxable and non-taxable parts of a supply.
 [8]
@@ -206,15 +204,15 @@ Luxottica
 ) that proportion is calculated by the decision maker drawing a conclusion on the facts as to the value of the taxable part and the relationship that value has with the price of the actual supply.
 30B. Paragraphs 114 to 118 of this Ruling explain how you calculate the GST payable on the taxable part of a mixed supply, and illustrate that, once the GST-exclusive value of the taxable part of the supply is determined, the GST payable is simply 10% of that value. Alternatively the GST payable on the taxable part is 1/11 of the GST-inclusive value of the taxable part of the supply.
 Explanation
-31. GST is structured around the concept of supply.  An analysis of the character of a supply may be necessary to determine how a particular provision of the Act applies to the supply.
+31. GST is structured around the concept of supply. An analysis of the character of a supply may be necessary to determine how a particular provision of the Act applies to the supply.
 31A. In
 Commissioner of Taxation v. Qantas Airways Limited (Qantas
 ) [2012] HCA 41, S 47 2012, the High Court considered whether there could only be a 'supply for consideration' within the meaning of sub-section 9-5(a) of the GST Act in circumstances where the 'essence or purpose' of the transaction was fulfilled (paragraphs [12] and [14]). The majority implicitly rejected such a proposition (paragraphs [21] and [22]).
 31B. While the decision of the High Court in
 Qantas
 does not disturb the approach to mixed and composite supplies established by prior court decisions, it illustrates that it is not necessary to always characterise a supply on the basis of the 'mixed' or 'composite' analysis. Rather, the mixed/composite analysis is only relevant where it is necessary to determine whether (and to what extent) the supply meets the description in a particular statutory provision that may be in issue. Even then, the High Court decision illustrates the importance of undertaking the mixed/composite analysis in a manner that is consistent with the object and purpose of the provision.
-32. The scheme of the GST Act depends on a clear distinction being made between taxable and non-taxable supplies.  The GST Act provides that a taxable supply comes within its ambit, but not to the extent that it contains any non-taxable parts.  Parts may be non-taxable if they are GST-free, input taxed, otherwise made non-taxable by a provision of the GST Act, or if they do not meet the requirements of paragraphs 9-5(a) to (d).
-33. GST is payable on taxable supplies.  Section 9-5 states that:
+32. The scheme of the GST Act depends on a clear distinction being made between taxable and non-taxable supplies. The GST Act provides that a taxable supply comes within its ambit, but not to the extent that it contains any non-taxable parts. Parts may be non-taxable if they are GST-free, input taxed, otherwise made non-taxable by a provision of the GST Act, or if they do not meet the requirements of paragraphs 9-5(a) to (d).
+33. GST is payable on taxable supplies. Section 9-5 states that:
 'You make a
 taxable supply
 if:
@@ -231,19 +229,19 @@ However, the supply is not a taxable supply to the extent that it is GST-free or
 taxable supply
 is affected by other provisions of the GST Act.
 [11]
-Appendix A includes things that the GST Act specifies are not a taxable supply or are to be treated as if they were not a taxable supply.  This means that a supply that might otherwise meet the criteria required of a taxable supply will not be taxable.
-35. Subdivision 9-C states how you work out the GST payable on a taxable supply.  The amount of GST is 10% of the value of the taxable supply.
+Appendix A includes things that the GST Act specifies are not a taxable supply or are to be treated as if they were not a taxable supply. This means that a supply that might otherwise meet the criteria required of a taxable supply will not be taxable.
+35. Subdivision 9-C states how you work out the GST payable on a taxable supply. The amount of GST is 10% of the value of the taxable supply.
 [12]
 You work out the value of a taxable supply from the price of the supply.
 [13]
-Where the consideration for the supply is expressed as an amount of money, the price is the amount payable on the supply.  If the consideration (or part of it) is not expressed as an amount of money, the price is (or includes) the GST inclusive market value of the consideration.
-36. Section 9-80 deals with supplies that are partly taxable, and partly GST-free or input taxed.  It describes how you work out the value of the part of such a supply that is a taxable supply.
-37. If all of the parts in a supply have the same GST treatment, then there is no requirement to separately identify each part.  That is, if all of the parts are taxable, then apportionment of the consideration is not necessary as GST is payable on the total value of the supply.
+Where the consideration for the supply is expressed as an amount of money, the price is the amount payable on the supply. If the consideration (or part of it) is not expressed as an amount of money, the price is (or includes) the GST inclusive market value of the consideration.
+36. Section 9-80 deals with supplies that are partly taxable, and partly GST-free or input taxed. It describes how you work out the value of the part of such a supply that is a taxable supply.
+37. If all of the parts in a supply have the same GST treatment, then there is no requirement to separately identify each part. That is, if all of the parts are taxable, then apportionment of the consideration is not necessary as GST is payable on the total value of the supply.
 [14]
 Similarly, if all of the parts are non-taxable, then no GST is payable on the supply and apportionment is not necessary.
-38. This Ruling does not apply to supplies that simply involve one thing, for example, the supply of a car by a dealership to a customer.  A car has many parts which are fitted together to make a single vehicle. Although some of those parts, such as the tyres, may also be purchased separately, it is readily apparent that only the car is supplied when it is sold.  In considering whether there is a supply of one thing a commonsense, practical approach to characterisation is to be taken.
+38. This Ruling does not apply to supplies that simply involve one thing, for example, the supply of a car by a dealership to a customer. A car has many parts which are fitted together to make a single vehicle. Although some of those parts, such as the tyres, may also be purchased separately, it is readily apparent that only the car is supplied when it is sold. In considering whether there is a supply of one thing a commonsense, practical approach to characterisation is to be taken.
 [14A]
-39. However, other supplies are more complex and contain (or may appear to contain) more than one part.  In these cases, you need to further analyse the supply to determine its character and GST treatment.
+39. However, other supplies are more complex and contain (or may appear to contain) more than one part. In these cases, you need to further analyse the supply to determine its character and GST treatment.
 [15]
 Differentiating between a mixed supply and a composite supply
 40. Where a transaction comprises a bundle of features and acts, it may be necessary to characterise what is supplied to determine whether a particular provision applies in whole or in part. The characterisation should be undertaken in a manner that is consistent with the object of the particular statutory provision in issue. For example, if a provision specifically requires different treatment of two components of a transaction, this will mean that the two components must necessarily be separately recognised. However, that does not mean that the two components need to be separately recognised for all purposes of the GST Act.
@@ -252,7 +250,7 @@ Differentiating between a mixed supply and a composite supply
 [18]
 42. In this Ruling, we use the words integral, ancillary and incidental to assist in determining whether or not a part of a supply needs to be individually recognised or separately identified.
 [20]
-43. A mixed supply is a single supply made up of separately identifiable parts, where one or more of the parts is taxable and one or more of the parts is non-taxable, and these parts are not integral, ancillary or incidental in relation to a dominant part of the supply.  On the other hand, a composite supply is a single supply made up of one dominant part and other parts that are not treated as having a separate identity as they are integral, ancillary or incidental to the dominant part of the supply.
+43. A mixed supply is a single supply made up of separately identifiable parts, where one or more of the parts is taxable and one or more of the parts is non-taxable, and these parts are not integral, ancillary or incidental in relation to a dominant part of the supply. On the other hand, a composite supply is a single supply made up of one dominant part and other parts that are not treated as having a separate identity as they are integral, ancillary or incidental to the dominant part of the supply.
 44. In working out whether you are making a mixed or composite supply, the key question is whether the supply should be regarded as having more than one separately identifiable part, or whether it is essentially a supply of one dominant part with one or more integral, ancillary or incidental parts.
 44A. In
 Saga Holidays v Commissioner of Taxation (Saga Holidays
@@ -289,8 +287,8 @@ Advertising for the excursions placed significant emphasis on the food, wine and
 Sea Containers
 was whether the supply was of transport or of transport and catering.
 [22]
-It was decided that the proper approach was to see whether the catering element was significant in its own right or whether it was merely ancillary to the provision of transport.  Keene J said:
-'The evidence shows that it [the catering] constituted a very important element in its own right in what was being provided by the appellant.  Its significance in these transactions went well beyond the point where it could be seen merely as a way of better enjoying the transport element.  ...it constituted for customers an aim in itself.  Not, of course, the sole aim but, given its prominence in the marketing literature, clearly a separate aim from the travel element.  The emphasis upon this aspect of the facilities provided is very striking.  The fine meals and wines were a vital part of what the customer was paying for, whether by way of a separate or an all-inclusive price.'
+It was decided that the proper approach was to see whether the catering element was significant in its own right or whether it was merely ancillary to the provision of transport. Keene J said:
+'The evidence shows that it [the catering] constituted a very important element in its own right in what was being provided by the appellant. Its significance in these transactions went well beyond the point where it could be seen merely as a way of better enjoying the transport element. ...it constituted for customers an aim in itself. Not, of course, the sole aim but, given its prominence in the marketing literature, clearly a separate aim from the travel element. The emphasis upon this aspect of the facilities provided is very striking. The fine meals and wines were a vital part of what the customer was paying for, whether by way of a separate or an all-inclusive price.'
 [23]
 47.
 Sea Containers
@@ -303,10 +301,10 @@ Customs and Excise Commissioners (British Airways
 In this case, the question was whether British Airways was to be taken as making supplies of air transport and of catering services, or a single supply of air transport with the catering services being merely integral or ancillary (a composite supply).
 48. In
 British Airways
-, the Court of Appeal found that the provision of in-flight catering was, in substance and reality, an integral part of the supply of air transportation.  Stuart-Smith LJ said:
+, the Court of Appeal found that the provision of in-flight catering was, in substance and reality, an integral part of the supply of air transportation. Stuart-Smith LJ said:
 'While something that is necessary for the supply will almost certainly be an integral part of it, the converse does not follow ... Catering facilities are part of and integral to the transportation in that degree of comfort which British Airways have decided is commercially appropriate and indeed necessary to attract passengers.'
 [25]
-49. The Court was also influenced by the fact that no separate charge was made for the in-flight catering, and the price of the air ticket did not vary, regardless of the type of meal provided or whether or not meals were provided.  It was not part of the contractual obligation of the airline to supply meals, even if meals were expected as part of the service.  Customers could not obtain a refund if a meal was not served on their flight.
+49. The Court was also influenced by the fact that no separate charge was made for the in-flight catering, and the price of the air ticket did not vary, regardless of the type of meal provided or whether or not meals were provided. It was not part of the contractual obligation of the airline to supply meals, even if meals were expected as part of the service. Customers could not obtain a refund if a meal was not served on their flight.
 50.
 Sea Containers
 and
@@ -317,11 +315,11 @@ Customs and Excise Commissioners v
 .
 Wellington Private Hospital Ltd (Wellington
 ), Millett LJ also considered the question of separate identity:
-'The proper inquiry is whether one element of the transaction is so dominated by another element as to lose any separate identity as a supply for fiscal purposes, leaving the latter, the dominant element of the transaction, as the only supply.  If the elements of the transaction are not in this relationship with each other, each remains as a supply in its own right with its own separate fiscal consequences.'
+'The proper inquiry is whether one element of the transaction is so dominated by another element as to lose any separate identity as a supply for fiscal purposes, leaving the latter, the dominant element of the transaction, as the only supply. If the elements of the transaction are not in this relationship with each other, each remains as a supply in its own right with its own separate fiscal consequences.'
 [26]
 Millett LJ also found that courts need to ask whether one part is connected with the other, or whether the two parts are 'physically and economically dissociable'.
 [27]
-52. The Commissioner's view is that a supply has separately identifiable parts where the parts require individual recognition and retention as separate parts, due to their relative significance in the supply.  This view applies where the supply is comprised of a mix of separate things, such as various combinations of goods and services, including the provision of advice.
+52. The Commissioner's view is that a supply has separately identifiable parts where the parts require individual recognition and retention as separate parts, due to their relative significance in the supply. This view applies where the supply is comprised of a mix of separate things, such as various combinations of goods and services, including the provision of advice.
 53. Also, a supply may be considered to have more than one part because of the effect of a particular provision of the GST Act, as was the case in
 Luxottica
 (see paragraph 44C of this Ruling). Other examples are supplies by way of lease of goods or supplies of rights which are treated as having two parts where the goods or rights are used or consumed in Australia (taxable part) and outside Australia (GST-free part).
@@ -329,11 +327,11 @@ Luxottica
 54. Any of the separately identifiable parts that comprise a mixed supply may themselves be composite, being comprised of a dominant part and an integral, ancillary or incidental part.
 [29]
 Example 8 in paragraph 76 is a mixed supply with composite parts.
-54A. Further, separately identifiable parts of a supply may not be individually recognised because of the effect of a specific provision of the GST Act. For example, a supply to an eligible disabled person of a car part and labour services in fitting that part may be considered to have separately identifiable parts due to their relative significance in the supply. However, in subsections  38-505(4) and 38-510(4), the expression a 'supply of car parts' includes the labour services in fitting the car parts to the car of an eligible disabled person. There is a single GST-free 'supply of car parts'.
+54A. Further, separately identifiable parts of a supply may not be individually recognised because of the effect of a specific provision of the GST Act. For example, a supply to an eligible disabled person of a car part and labour services in fitting that part may be considered to have separately identifiable parts due to their relative significance in the supply. However, in subsections 38-505(4) and 38-510(4), the expression a 'supply of car parts' includes the labour services in fitting the car parts to the car of an eligible disabled person. There is a single GST-free 'supply of car parts'.
 54B. The inclusion of labour services gives effect to the legislative purpose, as identified by reference to Subdivision 38-P and section 38-45, that a functioning car for suitable transportation is to be supplied to an eligible disabled person GST-free.
 54C. A supply is GST-free under subsections 38-505(4) and 38-510(4) only if the supply is a 'supply of car parts'. Car parts supplied as an integral, ancillary or incidental component of a car service are not a supply of car parts under either of those subsections. For example, spark plugs supplied in the course of a routine service of a car are not a supply of car parts. Those car parts are only an incidental part of a supply that is properly regarded as a supply of services, not a supply of car parts.
 Integral, ancillary or incidental parts
-55. Some supplies include parts that do not need to be separately recognised for GST purposes.  We refer to these parts of a supply as being integral, ancillary or incidental.  In a composite supply, the dominant part of the supply has subordinate parts that complement the dominant part.  If such a supply is analysed in a commonsense way, it can be seen that the supply is essentially the provision of one thing.  It need not be broken down, unbundled or dissected any further.  For this reason, a composite supply may appear, at first, to have more than one part, but is treated as if it is the supply of one thing.
+55. Some supplies include parts that do not need to be separately recognised for GST purposes. We refer to these parts of a supply as being integral, ancillary or incidental. In a composite supply, the dominant part of the supply has subordinate parts that complement the dominant part. If such a supply is analysed in a commonsense way, it can be seen that the supply is essentially the provision of one thing. It need not be broken down, unbundled or dissected any further. For this reason, a composite supply may appear, at first, to have more than one part, but is treated as if it is the supply of one thing.
 55A. The Full Federal Court in
 Luxottica
 found that while 'supply' is widely defined it 'invites a commonsense, practical approach to characterisation'. Their Honours said:
@@ -348,13 +346,13 @@ the Full Federal Court considered what the expenditure was calculated to effect 
 56. In
 Customs and Excise Commissioners v. Madgett and Anor (t/a Howden Court Hotel),
 the European Court of Justice described the term 'ancillary' in terms of scale and connection:
-'... a service is ancillary if, first, it contributes to the proper performance of the principal service and second, it takes up a marginal proportion of the package price compared to the principal service.  It does not constitute an object for customers or a service sought for its own sake, but a means of better enjoying the principal service.'
+'... a service is ancillary if, first, it contributes to the proper performance of the principal service and second, it takes up a marginal proportion of the package price compared to the principal service. It does not constitute an object for customers or a service sought for its own sake, but a means of better enjoying the principal service.'
 [30]
 57. In
 Customs and Excise Commissioners v
 .
 British Telecommunications plc
-, Lord Slynn of Hadley considered whether delivery was ancillary or incidental to a supply of cars or whether it was separately identifiable.  In concluding that, as a matter of commercial reality, there was one contract for a delivered car, Lord Slynn found it necessary to consider all of the circumstances of the supply and said:
+, Lord Slynn of Hadley considered whether delivery was ancillary or incidental to a supply of cars or whether it was separately identifiable. In concluding that, as a matter of commercial reality, there was one contract for a delivered car, Lord Slynn found it necessary to consider all of the circumstances of the supply and said:
 '... the fact that separate charges are identified in a contract or on an invoice does not on a consideration of all the circumstances necessarily prevent all the supplies from constituting one composite transaction nor does it prevent one supply from being ancillary to another supply which for VAT purposes is the dominant supply ... the essential features of a transaction may show that one supply is ancillary to another and that it is the latter that for VAT purposes is to be treated as the supply.'
 [31]
 58. You will need to consider all of the facts to determine whether the supply that you make has any parts that are integral, ancillary or incidental.
@@ -377,7 +375,7 @@ the lesser of
 $3.00; or
 •
 20% of the consideration of the total supply.
-61. You may use this approach to treat a supply as a composite supply, although it might otherwise be considered as a mixed supply.  However, if the consideration for a part exceeds the lesser of $3.00 or 20% of the consideration for the total supply, it does not necessarily mean that the part is not integral, ancillary or incidental.
+61. You may use this approach to treat a supply as a composite supply, although it might otherwise be considered as a mixed supply. However, if the consideration for a part exceeds the lesser of $3.00 or 20% of the consideration for the total supply, it does not necessarily mean that the part is not integral, ancillary or incidental.
 Example 1 - cereal with stickers
 62.
 Smartwheat supplies a packet of cereal that contains a sheet of 4 stickers, for $4
@@ -396,18 +394,18 @@ of the total consideration, Smartwheat may treat the stickers as being incidenta
 The supply is treated as being a supply of GST-free cereal
 .
 [34]
-63. However, in some cases, no matter how insignificant a part may be, that part is recognised as being a part in its own right where a provision of the GST Act specifically requires you to recognise it, regardless of its scale and connection with the supply.  For example, certain education excursions or field trips are GST-free under section 38-90.  However, paragraph 38-90(2)(b) specifically provides that the supply of food as part of the excursion or field trip is not GST-free under this provision.
+63. However, in some cases, no matter how insignificant a part may be, that part is recognised as being a part in its own right where a provision of the GST Act specifically requires you to recognise it, regardless of its scale and connection with the supply. For example, certain education excursions or field trips are GST-free under section 38-90. However, paragraph 38-90(2)(b) specifically provides that the supply of food as part of the excursion or field trip is not GST-free under this provision.
 [35]
 Therefore, a supply of food cannot be regarded as an incidental part of the supply of the excursion or field trip.
 Package deals
 64. Many transactions consist of a variety of things packaged for a single consideration.
 [36]
-Particularly in a promotional package, the supply of one part often depends in some way on the supply of the other parts.  The parts do not have to be physically packaged together to constitute a package deal.
+Particularly in a promotional package, the supply of one part often depends in some way on the supply of the other parts. The parts do not have to be physically packaged together to constitute a package deal.
 65. For example, goods are often offered together in one promotion for a single price, such as buy one and get one free, buy two for the price of one, or buy three for the price of two.
-66. Whether you characterise a package deal as being mixed or composite depends on the factors discussed at paragraphs 40 to 63 of this Ruling.  The package deal may be a composite or a mixed supply, depending on all of the circumstances.
+66. Whether you characterise a package deal as being mixed or composite depends on the factors discussed at paragraphs 40 to 63 of this Ruling. The package deal may be a composite or a mixed supply, depending on all of the circumstances.
 67. An example of a package deal that is a composite supply is where you supply a 250 millilitre bottle of sunscreen (GST-free)
 with
-a 10 gram bonus sachet of moisturiser (taxable).  The consideration is not apportioned as the whole of the supply is GST-free.
+a 10 gram bonus sachet of moisturiser (taxable). The consideration is not apportioned as the whole of the supply is GST-free.
 68. Examples of package deals that are mixed supplies and require you to apportion the consideration include:
 •
 a 250 millilitre carton of flavoured milk (taxable) that is supplied 'free' when a 1 litre bottle of milk (GST-free) is purchased; and
@@ -490,7 +488,7 @@ Apportionment under section 9-80
 81A. For supplies that are partly taxable and partly GST-free or input taxed the value of the taxable part is calculated under section 9-80. That section requires an apportionment. It is necessary to determine the proportion of the value of the actual supply that the taxable part represents.
 81B. Subsection 9-80(1) defines the value of the taxable part of the supply upon which GST is payable. The value of the taxable part is defined s the proportion of the value of the actual supply that the taxable supply represents.
 81C. Subsection 9-80(2) sets out a formula for working out the value of the actual supply (vas).That formula is as follows:
-vas  =   ((*Price of actual supply  x  10)  /  (10  + Taxable proportion))
+vas = ((*Price of actual supply x 10) / (10 + Taxable proportion))
 where:
 taxable proportion
 is the proportion of the value of the actual supply that represents the value of the *taxable supply (expressed as a number between 0 and 1)
@@ -517,7 +515,7 @@ there was nothing contrived or artificial about the pricing methodology adopted 
 81J. The proportion was the fraction that the discounted selling price of the taxable frames (less GST) bore to the actual selling price of the spectacles (less GST).
 81K. The Tribunal added that the fact that the discounted price was conditional on the purchase of the lenses 'does not undermine the reasonableness of te calculation of the taxable proportion in this way'.
 81L. The Full Federal Court considered that the above showed that the Tribunal made a considered decision as to the value of the taxable supply based on findings of fact that it was entitled to make.
-81M. To work out the taxable proportion following the Full Federal Court decision, the value of the taxable part of the supply has to be determined by having regard to the facts and circumstances and taking a  practical, commonsense approach. The question to be answered is what is a fair and reasonable measure of the value of the taxable part?
+81M. To work out the taxable proportion following the Full Federal Court decision, the value of the taxable part of the supply has to be determined by having regard to the facts and circumstances and taking a practical, commonsense approach. The question to be answered is what is a fair and reasonable measure of the value of the taxable part?
 81N. The value of the taxable part of a supply may be >synonymous with the selling price of that part as in
 Luxottica
 or, as in
@@ -632,31 +630,31 @@ Apportionment under section 9-75
 [44K]
 the calculation of the value of the taxable part must be made under section 9-75.
 81ZK. Under subsection 9-75(1) the value of the taxable supply is:
-price  x  (10  /  11)
+price x (10 / 11)
 81ZL. Subsection 9-75(1) provides that the price is the sum of the monetary consideration
 [44L]
 and the non monetary consideration.
 [44M]
 Price is therefore the total consideration for the supply. The value of the taxable supply is the consideration less GST.
-82. The GST Act includes a number of specific provisions which state that certain supplies are not a taxable supply.  For example, subsection 66-45(1) provides that, in some circumstances, a supply of goods that were part of an acquisition of second-hand goods divided for re-supply, is not a taxable supply.  This means that these supplies are not taxable supplies, regardless of whether they meet the requirements of paragraphs 9-5(a) to (d).  Similarly, any other supply that does not meet the requirements of paragraphs 9-5(a) to (d) is not a taxable supply.  In other cases, it may be argued that the statutory context allows a particular provision to be read as requiring apportionment.
+82. The GST Act includes a number of specific provisions which state that certain supplies are not a taxable supply. For example, subsection 66-45(1) provides that, in some circumstances, a supply of goods that were part of an acquisition of second-hand goods divided for re-supply, is not a taxable supply. This means that these supplies are not taxable supplies, regardless of whether they meet the requirements of paragraphs 9-5(a) to (d). Similarly, any other supply that does not meet the requirements of paragraphs 9-5(a) to (d) is not a taxable supply. In other cases, it may be argued that the statutory context allows a particular provision to be read as requiring apportionment.
 [46]
 83. Where non-taxable supplies are made separately, no further issue arises. However, where there are non-taxable parts of a mixed supply that also contains taxable parts, the value of which is determined under section 9-75 (and not section 9-80), the question arises whether the GST Act requires you to apportion the consideration for the supply in the absence of a specific apportionment rule.
 The argument for a general rule of apportionment
-84. The establishment of a sufficient nexus between a supply and the monetary (and non-monetary) payment received for that supply is central and essential to the proper operation of the GST Act.  Establishment of this nexus indicates that there is consideration for the supply.
-85. Apportionment also enables the proper operation of the GST Act, that is, to tax only that which is taxable.  This would be prevented if the consideration for a supply that includes a non-taxable part could not be apportioned in the same manner as if the supplies had been made separately.
-86. This point is demonstrated by a simple example.  A registered sole trader supplies two cars for a single price.  One car (a 'business' car) has been used exclusively in the sole trader's enterprise and the other (a 'private' car) exclusively for private purposes.  If each car is supplied separately, then GST is correctly payable only on the supply of the business car.  The supply of the private car attracts no GST.  It would be anomalous if either GST was payable on the whole amount (including the supply of the private car), or not payable at all, simply because the two cars are sold together for the one price.
+84. The establishment of a sufficient nexus between a supply and the monetary (and non-monetary) payment received for that supply is central and essential to the proper operation of the GST Act. Establishment of this nexus indicates that there is consideration for the supply.
+85. Apportionment also enables the proper operation of the GST Act, that is, to tax only that which is taxable. This would be prevented if the consideration for a supply that includes a non-taxable part could not be apportioned in the same manner as if the supplies had been made separately.
+86. This point is demonstrated by a simple example. A registered sole trader supplies two cars for a single price. One car (a 'business' car) has been used exclusively in the sole trader's enterprise and the other (a 'private' car) exclusively for private purposes. If each car is supplied separately, then GST is correctly payable only on the supply of the business car. The supply of the private car attracts no GST. It would be anomalous if either GST was payable on the whole amount (including the supply of the private car), or not payable at all, simply because the two cars are sold together for the one price.
 87. Furthermore, it would not be logical or equitable to deny an input tax credit to a registered recipient of a mixed supply that includes a non-taxable part, merely for the reason that no part of the payment for the supply can be apportioned to the taxable part.
 [47]
-88. The requirement to apportion generally should not be seen as unusual.  The Australian income tax cases that have dealt with apportionment issues accept the principle that a single payment may be apportioned where the facts permit.
+88. The requirement to apportion generally should not be seen as unusual. The Australian income tax cases that have dealt with apportionment issues accept the principle that a single payment may be apportioned where the facts permit.
 [48]
-Once a sufficient nexus is found, apportionment can be established.  In particular, the High Court in
+Once a sufficient nexus is found, apportionment can be established. In particular, the High Court in
 McLaurin v
 .
 Federal Commissioner of Taxation (McLaurin
 ), stated that:
 'It is true that in a proper case a single payment or receipt of a mixed nature may be apportioned amongst the several heads to which it relates and an income or non-income nature attributed to portions of it accordingly ... it may be appropriate to follow such a course where the payment or receipt is in settlement of distinct claims of which some at least are liquidated ... or are otherwise ascertainable by calculation ...'
 [49]
-89. Also, paragraph 9-5(a) sets out a threshold requirement that you make a supply for consideration.  If there is no consideration for the supply, then it will not be taxable.  Consideration is widely defined and includes any payment, act or forbearance made in connection with, or in response to, or for the inducement of a supply of anything.
+89. Also, paragraph 9-5(a) sets out a threshold requirement that you make a supply for consideration. If there is no consideration for the supply, then it will not be taxable. Consideration is widely defined and includes any payment, act or forbearance made in connection with, or in response to, or for the inducement of a supply of anything.
 [50]
 Where you identify a payment for a mixed supply, then it is reasonable to say that part of that payment is made in connection with the taxable part. Support for this is found in
 Food Supplier
@@ -680,7 +678,7 @@ the GST Act contains numerous sections giving specific powers of apportionment w
 (d)
 the exclusion from a taxable supply to the extent that the supply is GST-free or input taxed in section 9-5, does not contain words which similarly exclude other non-taxable supplies (but things that the GST Act specifically states are not a taxable supply and things that do not meet one or more of paragraphs 9-5(a) to (d) do not need such legislative treatment).
 Taxation Office view
-91. We are of the view that the GST Act inherently requires that the parts of a mixed supply be identified and that the consideration be apportioned where a sufficient nexus between the supply and its consideration is established.  This approach gives practical effect to the intention of the GST Act and is consistent with a commonsense and equitable outcome.
+91. We are of the view that the GST Act inherently requires that the parts of a mixed supply be identified and that the consideration be apportioned where a sufficient nexus between the supply and its consideration is established. This approach gives practical effect to the intention of the GST Act and is consistent with a commonsense and equitable outcome.
 Reasonable methods of apportionment
 92. Where, as in the case of supplies covered by section 9-75, there is no legislative provision specifying a basis for apportionment, you may use any reasonable method to apportion consideration to the separately identifiable taxable part of a mixed supply. However, the apportionment must be supportable by the facts in the particular circumstances and be undertaken as a matter of practical commonsense.
 [51A]
@@ -688,7 +686,7 @@ Reasonable methods of apportionment
 [52]
 In some cases, there will be only one reasonable method you may use.
 94. Depending on your circumstances, you may use a direct or indirect method when apportioning the consideration for a mixed supply.
-95. The method you choose should be based on a consideration of all the circumstances and not because it gives you a particular result.  You may need to use different methods, or a combination of methods, for different supplies to ensure the appropriate amount of GST is payable.  You need to keep records that explain all transactions and other acts you engage in that are relevant to supplies you make, including supplies that are GST-free and input taxed.
+95. The method you choose should be based on a consideration of all the circumstances and not because it gives you a particular result. You may need to use different methods, or a combination of methods, for different supplies to ensure the appropriate amount of GST is payable. You need to keep records that explain all transactions and other acts you engage in that are relevant to supplies you make, including supplies that are GST-free and input taxed.
 [53]
 96. Where consideration is apportioned in a manner that cannot be justified in terms of reasonableness, the general anti-avoidance provisions of the GST Act may have application.
 [54]
@@ -803,7 +801,7 @@ Hilary is registered for GST. She sells a property that consists of commercial p
 Hilary may reasonably apportion two thirds of the consideration for the sale (the same proportion the rent for the commercial premises bears to the total rent of $1500) to the commercial part and one third to the residential part to ascertain the value of the taxable part
 .
 Relative time to perform the supply
-104. Where you supply services and charge them out on a time basis (for example, at an hourly rate), it may be reasonable to apportion the consideration for a mixed supply based on the time taken to perform the relevant taxable and non-taxable parts of the supply.  This method may be suitable where you make mixed supplies of professional or trade services.
+104. Where you supply services and charge them out on a time basis (for example, at an hourly rate), it may be reasonable to apportion the consideration for a mixed supply based on the time taken to perform the relevant taxable and non-taxable parts of the supply. This method may be suitable where you make mixed supplies of professional or trade services.
 Example 16 - GST-free and taxable services
 105.
 Under direction from a doctor, Gilda provides home care to a privately funded client in the client's own home.
@@ -811,7 +809,7 @@ Under direction from a doctor, Gilda provides home care to a privately funded cl
 She charges a flat hourly rate for her services that include helping to feed and dress her client. These services are GST-free under section 38-30. Gilda also tidies her client's house and garden. These latter services are taxable. Gilda apportions the consideration for her services on the number of hours it takes for her to perform the services. This is a reasonable method of apportionment to ascertain the value of the taxable part of the supply
 .
 Relative floor area in a supply of property
-106. In some cases, it is reasonable for you to allocate the consideration for a mixed supply by reference to the relative floor area of the property being supplied.  To make an allocation on this basis, you also need to consider the relative price of different types of floor space (for example, floor space in residential, retail and industrial property are often priced differently).  That is, you may simply work out the proportionate floor area if the value per square metre does not vary.  However, if the value per square metre is variable, then you can reasonably apportion on a basis of each area and its relative value.  You may also need to take into account external features, such as the value of recreational areas.
+106. In some cases, it is reasonable for you to allocate the consideration for a mixed supply by reference to the relative floor area of the property being supplied. To make an allocation on this basis, you also need to consider the relative price of different types of floor space (for example, floor space in residential, retail and industrial property are often priced differently). That is, you may simply work out the proportionate floor area if the value per square metre does not vary. However, if the value per square metre is variable, then you can reasonably apportion on a basis of each area and its relative value. You may also need to take into account external features, such as the value of recreational areas.
 Example 17 - commercial and residential premises
 107.
 Warren rents out a property to Josef for $2,000 per month. The property is comprised of residential and commercial premises. The floor area of the residential part is 160 square metres and the commercial part is 80 square metres
@@ -831,8 +829,8 @@ The taxable proportion is therefore 50%. Applying the formula in section 9-80, t
 0.5). The value of the taxable part is $952.38 and the GST payable is $95.23
 .
 Indirect methods
-109. You may decide that it is appropriate that you use an indirect method to apportion the consideration for a mixed supply you make.  For example, you may use a reasonable method that includes the addition of an appropriate mark-up to reflect your profit margin relative to the market you supply.
-110. Another example is where an arm's length wholesaler or manufacturer makes a mixed supply to you of things that have been packaged in the form in which you will market them.  In this case, you may adopt the apportionment ratio worked out by your supplier.  On the other hand, if your supplier characterises a supply to you as a composite supply, you will not necessarily be able to adopt the same characterisation.  This is because your supplier may have used the approach provided at paragraph 21 which may not be applicable to your particular circumstances because of your profit mark-up.
+109. You may decide that it is appropriate that you use an indirect method to apportion the consideration for a mixed supply you make. For example, you may use a reasonable method that includes the addition of an appropriate mark-up to reflect your profit margin relative to the market you supply.
+110. Another example is where an arm's length wholesaler or manufacturer makes a mixed supply to you of things that have been packaged in the form in which you will market them. In this case, you may adopt the apportionment ratio worked out by your supplier. On the other hand, if your supplier characterises a supply to you as a composite supply, you will not necessarily be able to adopt the same characterisation. This is because your supplier may have used the approach provided at paragraph 21 which may not be applicable to your particular circumstances because of your profit mark-up.
 Example 18 - indirect method
 111.
 Byron manufactures cosmetics including perfume, shampoo and SPF 30
@@ -840,13 +838,13 @@ Byron manufactures cosmetics including perfume, shampoo and SPF 30
 sunscreen. Perfume and shampoo are taxable, and the sunscreen is GST-free. Byron supplies one bottle of each item in a clear plastic package to wholesalers. He chooses to use an indirect method based on the cost and usual profit margin of each item to apportion the consideration for the supply. This method is reasonable in the circumstances
 .
 Methods of apportionment that are not reasonable
-112. Some methods may not result in a reasonable basis of apportionment of the consideration for a mixed supply.  For example, in some cases, it may not be reasonable to apportion the consideration solely on the basis of the cost of the supply to you.  This would be the case if your mark-up varies from part to part.  Variations in mark-ups prevent this method from being a reasonable apportionment of the consideration for the supply.
-113. Also, in some circumstances it may not be reasonable to apportion consideration using 'historical cost' and 'residual value' methods.  These amounts often are used for accounting purposes and may not reflect an appropriate apportionment of the consideration for a supply.
+112. Some methods may not result in a reasonable basis of apportionment of the consideration for a mixed supply. For example, in some cases, it may not be reasonable to apportion the consideration solely on the basis of the cost of the supply to you. This would be the case if your mark-up varies from part to part. Variations in mark-ups prevent this method from being a reasonable apportionment of the consideration for the supply.
+113. Also, in some circumstances it may not be reasonable to apportion consideration using 'historical cost' and 'residual value' methods. These amounts often are used for accounting purposes and may not reflect an appropriate apportionment of the consideration for a supply.
 [56]
 Calculating the GST payable on the taxable part of a mixed supply
 114. GST is calculated as 10% of the value of the taxable supply.
 [57]
-Section 9-75 links the value of the taxable supply to its price so that the value of a supply is 10/11 of its price.  This also means that the GST payable on a taxable supply is equivalent to 1/11 of the price (or consideration) of the supply.
+Section 9-75 links the value of the taxable supply to its price so that the value of a supply is 10/11 of its price. This also means that the GST payable on a taxable supply is equivalent to 1/11 of the price (or consideration) of the supply.
 115. The value of a taxable supply has the meaning given by section 9-75 and 9-80.
 [57A]
 Section 9-75 links the value of the taxable supply to its price so that the value of a supply is 10/11 of its price (or consideration). This also means that the GST payable on a taxable supply is equivalent to 1/11 of the price (or consideration) of the supply. In section 9-80 the value of the taxable supply is a proportion of the value of the actual supply which is similarly linked to the price of the actual supply. However, as the actual supply includes GST-free or input taxed parts the value of the actual supply is not 10/11 of its price. The denominator must be greater than 10 but less than 11.
@@ -856,14 +854,14 @@ Section 9-75 links the value of the taxable supply to its price so that the valu
 •
 1/11 of the price (or consideration) for the taxable part.
 Determining the value of the taxable part of a mixed supply that has non-taxable parts that are GST-free or input taxed
-117. Section 9-80 provides the method for working out the value of the taxable part of a mixed supply that consists only of taxable and GST-free or input taxed parts.  The section refers to such a supply as the actual supply.
+117. Section 9-80 provides the method for working out the value of the taxable part of a mixed supply that consists only of taxable and GST-free or input taxed parts. The section refers to such a supply as the actual supply.
 118. To work out the taxable proportion a conclusion as to the value of the taxable part of the supply has to be made (see paragraphs 81F to 81O of this Ruling). Once that conclusion is made and you have established the value of the taxable part of the supply, you can simply calculate the GST payable as either:
 •
 10% of the GST-exclusive value of the taxable part; or
 •
 1/11 of the GST inclusive value for the taxable part.
 Determining the value of the taxable part of a mixed supply that has non-taxable parts that are not GST-free or input taxed
-119. Section 9-75 applies to work out the value of the taxable part of a supply consisting of taxable and non-taxable parts that are either dealt with in specific provisions of the GST Act or do not meet the requirements of paragraphs 9-5(a) to (d).  The consideration that is allocated to the taxable part is the price of the taxable part referred to in section 9-75.  The value of that part is simply calculated as 10/11 of its price (or consideration).
+119. Section 9-75 applies to work out the value of the taxable part of a supply consisting of taxable and non-taxable parts that are either dealt with in specific provisions of the GST Act or do not meet the requirements of paragraphs 9-5(a) to (d). The consideration that is allocated to the taxable part is the price of the taxable part referred to in section 9-75. The value of that part is simply calculated as 10/11 of its price (or consideration).
 Preparing a tax invoice that includes a mixed supply
 120. Subsection 29-70(1) specifies the information to be contained in a tax invoice.
 121. The GST payable on a mixed supply you make will be less than 1/11 of the price of the supply. To show the correct amount of GST, the tax invoice for a mixed supply must contain enough information to clearly ascertain:
@@ -1016,7 +1014,7 @@ Commissioner of Taxation
 Appendix A
 In addition to section 9-5, which provides that a supply is not a taxable supply to the extent that it is GST-free or input taxed, the GST Act specifies that the following things are not a taxable supply, or are not treated as a taxable supply:
 Supplies to members of the same GST group
-[Subsection 48-40(2)]  However:
+[Subsection 48-40(2)] However:
 (a)
 a supply that an entity makes to another *member of the same *GST group is treated as if it were not a *taxable supply, unless:
 (i)
@@ -1026,30 +1024,30 @@ the entity is a participant in a *GST joint venture and acquired the thing suppl
 (b)
 this section only applies to GST payable on a *taxable importation made, by a member of the GST group other than the *representative member, if the GST on the importation is payable at a time when GST on *taxable supplies is normally payable by the representative member.
 Supplies between members of the same religious group
-[Subsection 49-30(1)]  A supply that a *member of a *GST religious group makes to another member of the same GST religious group is treated as if it were not a *taxable supply.
+[Subsection 49-30(1)] A supply that a *member of a *GST religious group makes to another member of the same GST religious group is treated as if it were not a *taxable supply.
 Supplies from a joint venture operator to another joint venture operator
-[Subsection 51-30(2)]  However, a supply that the *joint venture operator of a *GST joint venture makes is treated as if it were not a *taxable supply if:
+[Subsection 51-30(2)] However, a supply that the *joint venture operator of a *GST joint venture makes is treated as if it were not a *taxable supply if:
 (a)
 it is made to another entity that is a *participant in the joint venture; and
 (b)
 the participant acquired the thing supplied for consumption, use or supply in the course of activities for which the joint venture was entered into.
 Supply of goods that were part of an acquisition of second-hand goods that are divided for re-supply
-[Subsection 66-45(1)]  A supply you make is not a *taxable supply if:
+[Subsection 66-45(1)] A supply you make is not a *taxable supply if:
 (a)
 it is a supply of goods that were part of an acquisition you made that was an acquisition of *second-hand goods to which this Subdivision applied; and
 (b)
-your *total Subdivision 66-B credit amount is more than your *total Subdivision 66-B GST amount;  and
+your *total Subdivision 66-B credit amount is more than your *total Subdivision 66-B GST amount; and
 (c)
 what would be the amount of GST payable on the supply, if the supply were a taxable supply, is less than or equal to the difference between:
 (i)
-your *total Subdivision 66-B credit amount;  and
+your *total Subdivision 66-B credit amount; and
 (ii)
 your *total Subdivision 66-B GST amount.
-Note:  This section will not apply unless the record keeping requirements of section 66-55 are met.
+Note: This section will not apply unless the record keeping requirements of section 66-55 are met.
 Supplies by an insurer in settlement of claims
-[Subsection 78-25(1)]  A supply that an insurer makes in settlement of a claim under an *insurance policy is not a *taxable supply.
+[Subsection 78-25(1)] A supply that an insurer makes in settlement of a claim under an *insurance policy is not a *taxable supply.
 Supplies of goods to insurers in the course of settling claims
-[Subsection 78-60(1)]  A supply of goods is not a *taxable supply if it is
+[Subsection 78-60(1)] A supply of goods is not a *taxable supply if it is
 solely
 a supply made under an *insurance policy to an insurer in the course of settling a claim under the policy.
 Supplies made by an operator of a compulsory third party scheme
@@ -1075,9 +1073,9 @@ entering into, or becoming a party to, a *nominal defendant settlement sharing a
 (b)
 becoming a party to a deed created by or under a *State law or a *Territory law establishing a compulsory third party scheme, that provides for a nominal defendant settlement sharing arrangement to which this Subdivision applies.
 Supply by an amalgamating company to an amalgamated company in the course of amalgamation
-[Subsection 90-5(1)]  A supply made by an *amalgamating company to an *amalgamated company in the course of *amalgamation is not a *taxable supply if, immediately after the amalgamation, the amalgamated company is *registered or *required to be registered.
+[Subsection 90-5(1)] A supply made by an *amalgamating company to an *amalgamated company in the course of *amalgamation is not a *taxable supply if, immediately after the amalgamation, the amalgamated company is *registered or *required to be registered.
 Supplies of vouchers stating monetary value
-[Subsection 100-5(1)]  A supply of a *voucher is not a *taxable supply if:
+[Subsection 100-5(1)] A supply of a *voucher is not a *taxable supply if:
 (a)
 on redemption of the voucher, the holder of the voucher is entitled to supplies up to the *stated monetary value of the voucher; and
 (b)
@@ -1088,7 +1086,7 @@ Supplies by creditors in satisfaction of debts where the debtor supplies a writt
 [You make a taxable supply if you supply the property of another entity (the
 debtor
 ) to a third entity in or towards the satisfaction of a debt that the debtor owes to you, and the supply would have been a taxable supply if the debtor had made the supply.]
-[Subsection 105-5(3)]  However, the supply is not a *taxable supply if:
+[Subsection 105-5(3)] However, the supply is not a *taxable supply if:
 (a)
 the debtor has given you a written notice stating that the supply would not be a taxable supply if the debtor were to make it, and stating fully the reasons why the supply would not be a taxable supply; or
 (b)
@@ -1120,7 +1118,7 @@ Note: See section 721-35 of the ITAA 1997 for when a TSA contributing member has
 Supply made under a tax funding agreement to the extent that it relates to the distribution of economic burdens and benefits directly related to tax-related liabilities
 [Subsection 110-30(2)] The supply is not a *taxable supply to the extent that it relates to the fact that the agreement deals with the distribution mentioned in paragraph (1)(b).
 Supply of work or services, under an arrangement, and a voluntary agreement to withhold is in place
-[Subsection 113-5(1)]  A supply that you make is not a *taxable supply to the extent that you make it under an arrangement (within the meaning of the
+[Subsection 113-5(1)] A supply that you make is not a *taxable supply to the extent that you make it under an arrangement (within the meaning of the
 Income Tax Assessment Act 1997
 ) if:
 (a)
@@ -1134,14 +1132,14 @@ Taxation Administration Act
 (ii)
 states that the section covers payments under the arrangement, or payments under a series of arrangements that includes the arrangement; and
 (c)
-you, and the entity acquiring what you supply under the arrangement, are parties to that agreement;  and
+you, and the entity acquiring what you supply under the arrangement, are parties to that agreement; and
 (d)
 you have an *ABN that is in force and is quoted in the agreement; and
 (e)
 the acquisition, by that entity, of what you supply under the arrangement would be a *creditable acquisition (and not *partly creditable) if the supply were a *taxable supply.
 Footnotes
 [1]
-Paragraph 7 of Goods and Services Tax Determination GSTD 2000/6 provides a rule to use so that where GST-free food is contained in packaging that might not otherwise be normal and necessary, the packaging may be treated as if it were normal and necessary and, therefore, GST-free.  This rule only applies to packaging.  It does not apply to promotional items accompanying the food and packaging or to items that are usually supplied separately.
+Paragraph 7 of Goods and Services Tax Determination GSTD 2000/6 provides a rule to use so that where GST-free food is contained in packaging that might not otherwise be normal and necessary, the packaging may be treated as if it were normal and necessary and, therefore, GST-free. This rule only applies to packaging. It does not apply to promotional items accompanying the food and packaging or to items that are usually supplied separately.
 [2]
 Subsection 7-1(1) and section 9-40.
 [3]
@@ -1155,7 +1153,7 @@ Paragraph 9-10(2)(h) provides that a supply may include a combination of things.
 [7]
 See section 38-187 and subsection 38-190(1).
 [7A]
-It may be that the transaction is properly characterised as involving a number of separate supplies, rather than a single supply (whether mixed or composite).  As mentioned at paragraph 5A, this Ruling does not directly consider that question.
+It may be that the transaction is properly characterised as involving a number of separate supplies, rather than a single supply (whether mixed or composite). As mentioned at paragraph 5A, this Ruling does not directly consider that question.
 [8]
 Paragraph 382-5(1)(a) in Schedule 1 to the
 Taxation Administration Act 1953
@@ -1165,7 +1163,7 @@ Section 9-70.
 [10]
 Subsection 9-75(1) provides that the value of a taxable supply is 10/11 of the price of the supply.
 [11]
-Section 195-1 states that taxable supply has the meaning given by sections 9-5, 78-50, 84-5 and 105-5.  Note:  This meaning is also affected by sections 49-30, 66-45, 72-5, 78-25, 78-60, 78-65, 78-70, 79-60, 79-85,80-10, 80-50, 81-10, 90-5, 100-5, 100-18, 110-5, 110-15, 110-20, 110-25, 110-30 and 113-5.
+Section 195-1 states that taxable supply has the meaning given by sections 9-5, 78-50, 84-5 and 105-5. Note: This meaning is also affected by sections 49-30, 66-45, 72-5, 78-25, 78-60, 78-65, 78-70, 79-60, 79-85,80-10, 80-50, 81-10, 90-5, 100-5, 100-18, 110-5, 110-15, 110-20, 110-25, 110-30 and 113-5.
 [12]
 Section 9-70.
 [13]
@@ -1182,11 +1180,11 @@ For example, the supply of spectacles may appear to be the supply of one thing, 
 [17]
 [Omitted.]
 [18]
-Again, it may be that such a transaction is properly characterised as involving a number of separate supplies, rather than a single supply (whether mixed or composite).  However, this Ruling does not consider that question.
+Again, it may be that such a transaction is properly characterised as involving a number of separate supplies, rather than a single supply (whether mixed or composite). However, this Ruling does not consider that question.
 [19]
 See Card Protection Plan Ltd v. Customs and Excise Commissioners [1999] BVC 155 at 177.
 [20]
-The word 'incidental' has a specific meaning when used with 'financial supplies'.  See A New Tax System (Goods and Services Tax) Regulations 1999, regulation 40-5.10.  However, in this Ruling we use the term 'incidental' in its ordinary sense, in the same way as used in the overseas cases.
+The word 'incidental' has a specific meaning when used with 'financial supplies'. See A New Tax System (Goods and Services Tax) Regulations 1999, regulation 40-5.10. However, in this Ruling we use the term 'incidental' in its ordinary sense, in the same way as used in the overseas cases.
 [20A]
 Saga Holidays v. Commissioner of Taxation
 2006 ATC 4841; (2006) 64 ATR 602.
@@ -1223,7 +1221,7 @@ Customs and Excise Commissioners v. Wellington Private Hospital Ltd [1997] BVC 2
 [27]
 Customs and Excise Commissioners v. Wellington Private Hospital Ltd [1997] BVC 251 at 266.
 [28]
-Section 38-187 provides that a supply of goods by way of lease is GST free if the goods are used outside Australia.  Where the goods are used partly in Australia and partly outside Australia, section 9-5 applies to ensure that the supply is taxable, but only to the extent that the goods are used in Australia.  Similarly a supply, other than a supply of goods or real property, for consumption outside Australia will have more than one part where section 38-190 applies to some extent.
+Section 38-187 provides that a supply of goods by way of lease is GST free if the goods are used outside Australia. Where the goods are used partly in Australia and partly outside Australia, section 9-5 applies to ensure that the supply is taxable, but only to the extent that the goods are used in Australia. Similarly a supply, other than a supply of goods or real property, for consumption outside Australia will have more than one part where section 38-190 applies to some extent.
 [29]
 Paragraph 18 states that a composite supply can be a part of a mixed supply.
 [29A]
@@ -1238,13 +1236,13 @@ See Lord Hope of Craighead in Customs and Excise Commissioners v. British Teleco
 [33]
 Paragraphs 92 to 111 explain the methods you may use to reasonably apportion the consideration for the parts of a mixed supply.
 [34]
-The breakfast cereal in this example is GST-free under section 38-2.  It does not fit any of the categories of food that is not GST-free under section 38-3.
+The breakfast cereal in this example is GST-free under section 38-2. It does not fit any of the categories of food that is not GST-free under section 38-3.
 [35]
 The food may, however, be GST-free under section 38-2.
 [36]
 Whether you make a supply for a single consideration will depend on the facts.
 [37]
-Section 40-35.  Paragraph 5.164 of the Explanatory Memorandum to the GST Act refers to a similar example. See Goods and Services Tax Ruling GSTR 2012/5
+Section 40-35. Paragraph 5.164 of the Explanatory Memorandum to the GST Act refers to a similar example. See Goods and Services Tax Ruling GSTR 2012/5
 Goods and services tax: residential premises
 at paragraphs 40 to 45.
 [38]
@@ -1252,9 +1250,9 @@ Under section 38-250, a supply of the accommodation and/or meals may be GST-free
 [39]
 The hamper in this example is not a combination of foods under paragraph 38-3(1)(c).
 [40]
-Item 4 of subsection 38-190(1) provides that in this case the supply of rights for use outside Australia is GST-free.  Section 9-5 ensures that the supply is not taxable, to the extent that it is GST-free.
+Item 4 of subsection 38-190(1) provides that in this case the supply of rights for use outside Australia is GST-free. Section 9-5 ensures that the supply is not taxable, to the extent that it is GST-free.
 [41]
-See where the Court came to a similar conclusion in Customs and Excise Commissioners v. British Telecommunications plc [1999] BVC 306.  In other cases the facts may indicate that a delivery charge is a separately identifiable part of a supply.
+See where the Court came to a similar conclusion in Customs and Excise Commissioners v. British Telecommunications plc [1999] BVC 306. In other cases the facts may indicate that a delivery charge is a separately identifiable part of a supply.
 [42]
 The picnic box in this example is not a supply of food for consumption on the premises under paragraphs 38-3(1)(a).
 [43]
@@ -1299,7 +1297,7 @@ For example, a supply may have a taxable part and a non taxable part that is not
 [44L]
 Consideration expressed as an amount of money' is consideration that finds expression in money. The distinction between paragraphs 9-75(1)(a) and 9-75(1)(b) is essentially between monetary consideration and what can be broadly described as 'in kind' consideration. See paragraph 32 of GSTR 2001/6.
 [44M]
-However, in some limited instances, determining the GST inclusive market value of the supply may be an acceptable method for working out the GST inclusive market value of the consideration.  Refer to paragraphs 138 to 158 of GSTR 2001/6 for a discussion of this issue.
+However, in some limited instances, determining the GST inclusive market value of the supply may be an acceptable method for working out the GST inclusive market value of the consideration. Refer to paragraphs 138 to 158 of GSTR 2001/6 for a discussion of this issue.
 [45]
 [Omitted.]
 [46]
@@ -1307,7 +1305,7 @@ For a discussion of examples of such provisions, see Goods and Services Tax Ruli
 [47]
 Given that the conditions of Division 11 are met.
 [48]
-Allsop v. Federal Commissioner of Taxation (1965) 113 CLR 341;  McLaurin v. Federal Commissioner of Taxation (1961) 104 CLR 381;  National Mutual Life Association of Australasia v. Federal Commissioner of Taxation (1959) 102 CLR 29; and Commissioner of Taxation v. CSR Ltd [2000] FCA 1513.
+Allsop v. Federal Commissioner of Taxation (1965) 113 CLR 341; McLaurin v. Federal Commissioner of Taxation (1961) 104 CLR 381; National Mutual Life Association of Australasia v. Federal Commissioner of Taxation (1959) 102 CLR 29; and Commissioner of Taxation v. CSR Ltd [2000] FCA 1513.
 [49]
 McLaurin v. Federal Commissioner of Taxation (1961) 104 CLR 381 at 391.
 [50]
@@ -1331,11 +1329,11 @@ The supply of the voucher is not a taxable supply under section 105-5.
 [55]
 [Omitted.]
 [55A]
-The sale of commercial premises is taxable.  The sale of residential premises is input taxed under section 40-65.
+The sale of commercial premises is taxable. The sale of residential premises is input taxed under section 40-65.
 [55B]
 Gilda's client is not a participant in the National Disability Insurance Scheme. Therefore the supplies made by Gilda to the client are not GST-free under section 38-38.
 [56]
-In Goods and Services Tax Ruling GSTR 2001/6, Goods and services tax:  non-monetary consideration, we also state that 'historical cost' or 'residual value' may not be acceptable methods for determining the market value of consideration.
+In Goods and Services Tax Ruling GSTR 2001/6, Goods and services tax: non-monetary consideration, we also state that 'historical cost' or 'residual value' may not be acceptable methods for determining the market value of consideration.
 [57]
 Section 9-70.
 [57A]
@@ -1345,13 +1343,13 @@ Section 195-1.
 [59]
 [Omitted]
 [60]
-The Commissioner has published a booklet titled 'Simplified GST Accounting Methods for Food Retailers'.  This information is available from the ATO website at
+The Commissioner has published a booklet titled 'Simplified GST Accounting Methods for Food Retailers'. This information is available from the ATO website at
 www.ato.gov.au.
 Previously released as GSTR 2001/D4
 References
 ATO references:
-NO  T2000/19538
-ISSN:  1443-5160
+NO T2000/19538
+ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
 GSTR 2000/31
@@ -1376,74 +1374,74 @@ tax invoice
 taxable supply
 value
 Legislative References:
-ANTS(GST)A99  7-1(1)
-ANTS(GST)A99  9-5
-ANTS(GST)A99  9-5(a)
-ANTS(GST)A99  9-5(b)
-ANTS(GST)A99  9-5(c)
-ANTS(GST)A99  9-5(d)
-ANTS(GST)A99  9-10(2)(h)
-ANTS(GST)A99  9-15(1)
-ANTS(GST)A99  9-30(1)
-ANTS(GST)A99  9-30(2)
-ANTS(GST)A99  9-40
-ANTS(GST)A99  Subdiv 9-C
-ANTS(GST)A99  9-70
-ANTS(GST)A99  9-75
-ANTS(GST)A99  9-75(1)
-ANTS(GST)A99  9-80
-ANTS(GST)A99  9-80(2)
-ANTS(GST)A99  Div 11
-ANTS(GST)A99  Div 38
-ANTS(GST)A99  29-70(1)
-ANTS(GST)A99  38-2
-ANTS(GST)A99  38-3
-ANTS(GST)A99  38-3(1)(a)
-ANTS(GST)A99  38-3(1)(c)
-ANTS(GST)A99  38-30
-ANTS(GST)A99  38-38
-ANTS(GST)A99  38-45
-ANTS(GST)A99  38-90
-ANTS(GST)A99  38-90(2)(b)
-ANTS(GST)A99  38-187
-ANTS(GST)A99  38-190
-ANTS(GST)A99  38-190(1)
-ANTS(GST)A99  38-250
-ANTS(GST)A99  Subdiv 38-P
-ANTS(GST)A99  38-505(4)
-ANTS(GST)A99  38-510(4)
-ANTS(GST)A99  Div 40
-ANTS(GST)A99  40-35
-ANTS(GST)A99  40-65
-ANTS(GST)A99  48-40(2)
-ANTS(GST)A99  49-30
-ANTS(GST)A99  49-30(1)
-ANTS(GST)A99  51-30(2)
-ANTS(GST)A99  66-45
-ANTS(GST)A99  66-45(1)
-ANTS(GST)A99  72-5
-ANTS(GST)A99  78-25
-ANTS(GST)A99  78-25(1)
-ANTS(GST)A99  78-50
-ANTS(GST)A99  78-60
-ANTS(GST)A99  78-60(1)
-ANTS(GST)A99  78-65
-ANTS(GST)A99  78-70
-ANTS(GST)A99  81-10
-ANTS(GST)A99  84-5
-ANTS(GST)A99  90-5
-ANTS(GST)A99  90-5(1)
-ANTS(GST)A99  100-5
-ANTS(GST)A99  100-5(1)
-ANTS(GST)A99  105-5
-ANTS(GST)A99  105-5(3)
-ANTS(GST)A99  113-1
-ANTS(GST)A99  113-5(1)
-ANTS(GST)A99  Div 165
-ANTS(GST)A99  195-1
-ANTS(GST)R99  40-5
-TAA 1953  Sch 1 Div 358
-TAA 1953  Sch 1 382-5(1)(a)
+ANTS(GST)A99 7-1(1)
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-5(a)
+ANTS(GST)A99 9-5(b)
+ANTS(GST)A99 9-5(c)
+ANTS(GST)A99 9-5(d)
+ANTS(GST)A99 9-10(2)(h)
+ANTS(GST)A99 9-15(1)
+ANTS(GST)A99 9-30(1)
+ANTS(GST)A99 9-30(2)
+ANTS(GST)A99 9-40
+ANTS(GST)A99 Subdiv 9-C
+ANTS(GST)A99 9-70
+ANTS(GST)A99 9-75
+ANTS(GST)A99 9-75(1)
+ANTS(GST)A99 9-80
+ANTS(GST)A99 9-80(2)
+ANTS(GST)A99 Div 11
+ANTS(GST)A99 Div 38
+ANTS(GST)A99 29-70(1)
+ANTS(GST)A99 38-2
+ANTS(GST)A99 38-3
+ANTS(GST)A99 38-3(1)(a)
+ANTS(GST)A99 38-3(1)(c)
+ANTS(GST)A99 38-30
+ANTS(GST)A99 38-38
+ANTS(GST)A99 38-45
+ANTS(GST)A99 38-90
+ANTS(GST)A99 38-90(2)(b)
+ANTS(GST)A99 38-187
+ANTS(GST)A99 38-190
+ANTS(GST)A99 38-190(1)
+ANTS(GST)A99 38-250
+ANTS(GST)A99 Subdiv 38-P
+ANTS(GST)A99 38-505(4)
+ANTS(GST)A99 38-510(4)
+ANTS(GST)A99 Div 40
+ANTS(GST)A99 40-35
+ANTS(GST)A99 40-65
+ANTS(GST)A99 48-40(2)
+ANTS(GST)A99 49-30
+ANTS(GST)A99 49-30(1)
+ANTS(GST)A99 51-30(2)
+ANTS(GST)A99 66-45
+ANTS(GST)A99 66-45(1)
+ANTS(GST)A99 72-5
+ANTS(GST)A99 78-25
+ANTS(GST)A99 78-25(1)
+ANTS(GST)A99 78-50
+ANTS(GST)A99 78-60
+ANTS(GST)A99 78-60(1)
+ANTS(GST)A99 78-65
+ANTS(GST)A99 78-70
+ANTS(GST)A99 81-10
+ANTS(GST)A99 84-5
+ANTS(GST)A99 90-5
+ANTS(GST)A99 90-5(1)
+ANTS(GST)A99 100-5
+ANTS(GST)A99 100-5(1)
+ANTS(GST)A99 105-5
+ANTS(GST)A99 105-5(3)
+ANTS(GST)A99 113-1
+ANTS(GST)A99 113-5(1)
+ANTS(GST)A99 Div 165
+ANTS(GST)A99 195-1
+ANTS(GST)R99 40-5
+TAA 1953 Sch 1 Div 358
+TAA 1953 Sch 1 382-5(1)(a)
 Case References:
 Allsop v. Federal Commissioner of Taxation
 (1965) 113 CLR 341

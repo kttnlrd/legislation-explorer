@@ -35,9 +35,9 @@ The relevant factors include:
 
 The requirements for a payment to qualify as an ETP include the following (s 82-130):
 
-- the payment must be received “in consequence of the termination of [the person’s] employment”. See
+- the payment must be received "in consequence of the termination of [the person's] employment". See
 
-Dibb v FCT of T (2004) 55 ATR 786 and Taxation Ruling TR 2003/13 for the Commissioner’s views on the expression, and
+Dibb v FCT of T (2004) 55 ATR 786 and Taxation Ruling TR 2003/13 for the Commissioner's views on the expression, and
 
 - the payment must be received not later than 12 months after that termination, and
 
@@ -49,9 +49,9 @@ Dibb v FCT of T (2004) 55 ATR 786 and Taxation Ruling TR 2003/13 for the Commiss
 
 The payment received by Barbra meets the first 2 requirements, but not the third because it includes an unused annual leave payment, and it may qualify as a genuine redundancy payment.
 
-The $5,000 lump sum annual leave payment can be severed from the redundancy payment. The entire amount of the annual leave payment will be assessable under s 83-10(2) at Barbra’s marginal rate, unless it is made in connection with a genuine redundancy payment, in which case it will be taxed at a maximum rate of 30%.
+The $5,000 lump sum annual leave payment can be severed from the redundancy payment. The entire amount of the annual leave payment will be assessable under s 83-10(2) at Barbra's marginal rate, unless it is made in connection with a genuine redundancy payment, in which case it will be taxed at a maximum rate of 30%.
 
-A genuine redundancy payment is so much of a lump sum payment received by an employee who is dismissed from employment because the employee’s position is genuinely redundant as it exceeds the amount that could reasonably be expected to be received by the employee in consequence of their voluntary termination (s 83-175(1)).
+A genuine redundancy payment is so much of a lump sum payment received by an employee who is dismissed from employment because the employee's position is genuinely redundant as it exceeds the amount that could reasonably be expected to be received by the employee in consequence of their voluntary termination (s 83-175(1)).
 
 For the $70,000 payment to Barbra to qualify as a genuine redundancy payment, the following additional conditions must be satisfied (s 83-175(2)):
 
@@ -59,15 +59,15 @@ For the $70,000 payment to Barbra to qualify as a genuine redundancy payment, th
 
   after 1 January 1957)
 
-- if the dismissal is not at arm’s length, the payment must not exceed the amount that could reasonably
+- if the dismissal is not at arm's length, the payment must not exceed the amount that could reasonably
 
-  be expected to be made if the dismissal was at arm’s length, and
+  be expected to be made if the dismissal was at arm's length, and
 
 - at the time of the dismissal there was no arrangement between the employer and employee for re-
 
   employment of the employee.
 
-Taxation Ruling TR 2009/2 provides guidelines on the conditions to be met for a payment to qualify as a genuine redundancy payment. Barbra satisfies the age requirement and, providing that Barbra’s dismissal is because her position has become redundant and there was no arrangement for her to be re-employed by the RBA, Barbra’s payment of $70,000 qualifies as a genuine redundancy payment.
+Taxation Ruling TR 2009/2 provides guidelines on the conditions to be met for a payment to qualify as a genuine redundancy payment. Barbra satisfies the age requirement and, providing that Barbra's dismissal is because her position has become redundant and there was no arrangement for her to be re-employed by the RBA, Barbra's payment of $70,000 qualifies as a genuine redundancy payment.
 
 A genuine redundancy payment comprises a tax-free amount and an assessable amount (s 83-170). The tax-free amount is non-assessable non-exempt income. The amount in excess of the tax-free amount is assessable as an ETP, if it qualifies as such under s 82-130. The tax-free amount is calculated using the formula: Base amount + (service amount × years of service) For 2024–25, the tax-free portion of the $70,000 received by Barbra would be calculated as follows: $12,524 + ($6,264 × 15 years) = $106,484 Since the tax-free amount exceeds the total redundancy payment, there is no excess to be taxed as an ETP.
 

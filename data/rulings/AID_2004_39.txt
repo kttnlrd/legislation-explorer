@@ -3,28 +3,23 @@ ATO ID 2004/39
 ==================================================
 
 Income Tax
-        Conversion to Australian dollars of a loss arising from the disposal or redemption of a traditional security denominated in foreign currency
-        FOI status: may be released
-
+ Conversion to Australian dollars of a loss arising from the disposal or redemption of a traditional security denominated in foreign currency
+ FOI status: may be released
 
 This ATO Interpretative Decision does not take account of the effect of the New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 and is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 and a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2003 income year.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Should a loss resulting from the disposal or redemption of a traditional security denominated in a foreign currency, be determined in that foreign currency and then translated into Australian dollars at the exchange rate prevailing on the date of the disposal?
 Decision
-Yes.  A loss resulting from the disposal or redemption of a traditional security denominated in a foreign currency should be determined in that foreign currency and then translated into Australian dollars. The applicable exchange rate to be used is that prevailing on the date of disposal.
+Yes. A loss resulting from the disposal or redemption of a traditional security denominated in a foreign currency should be determined in that foreign currency and then translated into Australian dollars. The applicable exchange rate to be used is that prevailing on the date of disposal.
 Facts
 On 21 December 1992 an Australian resident taxpayer purchased a 10 year United States of America (US) Treasury bond for an issue price of USD49,700. The exchange rate on this day was AUD1.00 = USD0.70.
 On 15 July 1999 the taxpayer holding the US Treasury bond disposed of the bond on a secondary bond market for USD44,000. The disposal proceeds were remitted to the taxpayer, in Australia, on the day of disposal. The exchange rate on this day was AUD1.00 = USD0.65.
@@ -32,7 +27,7 @@ The US Treasury bond is a traditional security.
 The purchase of the bond is not a business transaction.
 Reasons for Decision
 Subsection 70B(2) of the Income Tax Assessment Act 1936 (ITAA 1936) provides that the amount of any loss arising on the disposal or redemption of a traditional security is allowable as a deduction to the taxpayer in the year in which the disposal or redemption takes place. A loss in this context is the difference between the cost of acquisition and the consideration on disposal or redemption, where the former exceeds the latter.
-Where a traditional security that is held is denominated in a foreign currency the gain or loss arising on disposal must be translated into Australian dollars.  Section 70B of the ITAA 1936 allows the taxpayer to claim a deduction equal to the loss on disposal.
+Where a traditional security that is held is denominated in a foreign currency the gain or loss arising on disposal must be translated into Australian dollars. Section 70B of the ITAA 1936 allows the taxpayer to claim a deduction equal to the loss on disposal.
 In the absence of a specific conversion rule (such as section 103-20 of the Income Tax Assessment Act 1997), which would allow amounts relevant to the calculation of income to be translated, it is necessary to determine the gain or loss and then apply subsection 20(1) of the ITAA 1936. This subsection requires income derived and expenses incurred to be expressed in Australian currency.
 Paragraph 20(3)(a) of the ITAA 1936 requires that where the whole of the amount of income is remitted to Australia in the relevant year, the applicable exchange rate is the rate prevailing on the day the income is remitted.
 While subsection 20(3) of the ITAA 1936 is silent as to the exchange rate to apply to expenses, paragraph 84 of Taxation Ruling IT2498 states the following:
@@ -42,10 +37,10 @@ Having regard to the practical effect and purpose of section 20 of the Assessmen
 A loss of USD5,700 results from the disposal of the security as this is the extent to which the proceeds received on disposal are less than the cost of acquisition (USD44,000 - USD49,700).
 The expense is incurred on the date of disposal. In this case the date of disposal of the traditional security is 15 July 1999, and the exchange rate on this date is AUD1.00 = USD0.65. Therefore, the amount that the taxpayer may include as an allowable deduction, expressed in Australian dollars, is AUD8,769 (USD5,700/0.65).
 Date of decision:
-         12 January 2004
+  12 January 2004
 
 Year of income:
-           Year ended 30 June 2000
+  Year ended 30 June 2000
 
 Legislative References:
 
@@ -61,26 +56,22 @@ Keywords
 
 Traditional securities
 
-
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         16 January 2004
+  16 January 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 12 January 2004

@@ -3,21 +3,16 @@ ATO ID 2008/9
 ==================================================
 
 Income Tax
-        Transferor trusts: attribution of income to deceased transferor
-        FOI status: may be released
-
+ Transferor trusts: attribution of income to deceased transferor
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can income of a non-resident trust estate be attributed under section 102AAZD of the Income Tax Assessment Act 1936 (ITAA 1936) to a natural person in the year of income of their death?
@@ -49,20 +44,18 @@ Notional attributable income
 Subsection 102AAZD(2) defines 'notional attributable income'.
 As the years of income of the trust and the taxpayer do not begin at the same time, paragraph 102AAZD(2)(b) provides that the notional attributable income is calculated using the following formula:
 
-
 Attributable income x (Days in overlapping period / Days in trust's year of income)
-              where:
-              Attributable income
+ where:
+ Attributable income
  means the attributable income of the trust estate of the trust's year of income;
-              Days in overlapping period
+ Days in overlapping period
  means the number of whole days in the trust's year of income that occurred during the taxpayer's current year of income;
-              Days in trust's year of income
+ Days in trust's year of income
  means the number of whole days in the trust's year of income.
 For illustrative purposes, assume that the attributable income of the trust estate of the trust's year of income is $1,000,000 (calculated in accordance with section 102AAU).
 The number of days in the overlapping period is the number of days in the trust's year of income that occurred during the taxpayer's year of income. That is, the number of days from 1 July 2006 to 29 September 2006: 91 days.
 There are 365 days in the trust's year of income.
 Therefore the notional attributable income is:
-
 
 = $1,000,000 x 91 / 365= $249,315 (rounded)
 As the taxpayer is a resident for the whole of the income year, the amount included in the taxpayer's assessable income pursuant to section 102AAZD is $249,315, the notional attributable income.
@@ -81,10 +74,10 @@ Other references
 corrected
 
 Date of decision:
-         13 December 2007
+  13 December 2007
 
 Year of income:
-           Year ending 30 June 2008
+  Year ending 30 June 2008
 
 Legislative References:
 
@@ -98,40 +91,35 @@ Other References:
 
 Department of Treasury 1989, Taxation of foreign source income: an information paper, Australian Government Publishing Service, Canberra
 
-
 Keywords
 
 Deceased estates
-          Executors
-          Non resident trusts
-          Trusts
-
+ Executors
+ Non resident trusts
+ Trusts
 
 Siebel/TDMS Reference Number:
-         5776151; 1-5TGNFIU; 1-D6ER9BP
+  5776151; 1-5TGNFIU; 1-D6ER9BP
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         11 January 2008
+  11 January 2008
 
 Date reviewed:
-         25 January 2018
+  25 January 2018
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 13 December 2007

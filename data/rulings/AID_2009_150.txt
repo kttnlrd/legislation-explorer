@@ -3,23 +3,18 @@ ATO ID 2009/150
 ==================================================
 
 Income Tax
-        PAYG withholding: meaning of managed investment trust
-        FOI status: may be released
+ PAYG withholding: meaning of managed investment trust
+ FOI status: may be released
 
-
-This ATO ID is withdrawn due to the repeal of  Schedule 1 subsection 12-400(1) of the Taxation Administration Act 1953 in 2016. Detailed information on definition of Managed Investment Trust (MIT) can be found at  Managed investment trusts - overview and  Amendments to the definition of Managed Investment Trust.
+This ATO ID is withdrawn due to the repeal of Schedule 1 subsection 12-400(1) of the Taxation Administration Act 1953 in 2016. Detailed information on definition of Managed Investment Trust (MIT) can be found at Managed investment trusts - overview and Amendments to the definition of Managed Investment Trust.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an unregistered managed investment scheme satisfy the definition of managed investment trust in relation to the condition in Item 2 in the table in subsection 12-400(1) of Schedule 1 to the Taxation Administration Act 1953 (TAA)?
@@ -29,12 +24,8 @@ Facts
 An investment fund is being established which will consist of a number of unit trusts. Each of the proposed trusts will have the same Australian corporate trustee (proposed trustee). The proposed trusts will be managed investment schemes as defined in section 9 of the Corporations Act 2001 (CA).
 The proposed trustee currently holds an Australian Financial Services License (AFSL) under section 913B of the CA. The AFSL authorises the proposed trustee to:
 
-
-
 (a)provide financial product advice for listed classes of financial products
 (b)deal in financial product by:
-
-
 
 (i)issuing, applying for, acquiring, varying or disposing of a financial product in respect of listed classes of financial products
 (ii)applying for, acquiring, varying or disposing of a financial product on behalf of another person in respect of listed classes of financial products
@@ -44,24 +35,20 @@ The proposed trusts will make fund payments within the meaning of section 12-405
 Reasons for Decision
 'Managed investment trust' is defined under section 12-400 of Schedule 1 to the TAA. A trust is a managed investment trust in relation to an income year if:
 
-
-
 (a)the trustee of the trust makes the first fund payment in relation to the income year, and
 (b)the conditions in the table in subsection 12-400(1) are satisfied.
 
 The relevant issue is whether the proposed trusts satisfy Item 2 in the table in subsection 12-400(1) of Schedule 1 to the TAA. This condition is satisfied if, at the time of the first fund payment in relation to the income year:
 
-
-
 (a)
 first element
-                 - the trust is a 'managed investment scheme' (as defined by section 9 of the CA)
+ - the trust is a 'managed investment scheme' (as defined by section 9 of the CA)
 (b)
 second element
-                 - the trust is operated by a 'financial services licensee' (as defined by section 761A of the CA), and
+ - the trust is operated by a 'financial services licensee' (as defined by section 761A of the CA), and
 (c)
 third element
-                 - the licence of the entity operating the managed investment scheme covers operating such a managed investment scheme.
+ - the licence of the entity operating the managed investment scheme covers operating such a managed investment scheme.
 
 First element
 
@@ -77,8 +64,6 @@ Third element
 This element is not satisfied.
 Section 911A of the CA requires a person who carries on a business of providing financial services to hold an AFSL covering the provision of the financial services involved. Under section 766A of the CA a person provides financial services if they:
 
-
-
 (a)provide financial product advice
 (b)deal in a financial product
 (c)make a market for financial products
@@ -90,43 +75,38 @@ The proposed trustee holds an AFSL which covers providing financial product advi
 It is considered that the requirement that the licence covers operating a managed investment scheme is a reference to a licence which specifically deals with providing the particular financial service of operating a registered scheme as provided for under paragraph 766A(1)(d) of the CA. A licence in relation to the provision of other financial services is not a licence which covers operating such a scheme.
 Also, the provision of financial services as defined in section 766A of the CA does not extend to operating unregistered schemes. No licence is required to operate an unregistered scheme and no licence covers the operation of such a scheme.
 Date of decision:
-         4 December 2009
+  4 December 2009
 
 Year of income:
-           Year ended 30 June 2010 to year ended 30 June 2017
+  Year ended 30 June 2010 to year ended 30 June 2017
 
 Legislative References:
 
 Corporations Act 2001   section 9   section 601FA   section 761A   section 766A   section 911A   section 913B
 Taxation Administration Act 1953   Schedule 1 Subdivision 12-H   Schedule 1 section 12-400   Schedule 1 subsection 12-400(1)   Schedule 1 paragraph 12-400(1)(a)
 
-
 Keywords
 
 Investment trusts
-          PAYG withholding
-          Withholding taxes
-
+ PAYG withholding
+ Withholding taxes
 
 Business Line:
-         Small Business/Individual Taxpayers
+  Small Business/Individual Taxpayers
 
 Date of publication:
-         11 December 2009
+  11 December 2009
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  4 December 2009

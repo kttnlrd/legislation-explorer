@@ -17,7 +17,7 @@ During the weeks before the end of the 2024–25 income year, 10 of the motorise
 
 Advise Ultimate Wheelchairs Pty Ltd of the income tax implications of the remaining motorised wheelchairs being used as demonstrator stock at the end of the 2024–25 income year.
 
-Solution Generally, a taxpayer can deduct an outgoing incurred in relation to acquiring trading stock under the general deduction provisions contained in ITAA97 s 8-1 (ITAA97 s 70-15(1)). A deduction is available for the relevant income year provided that the stock becomes part of the taxpayer’s trading stock “on hand” (s 70-15(2)).
+Solution Generally, a taxpayer can deduct an outgoing incurred in relation to acquiring trading stock under the general deduction provisions contained in ITAA97 s 8-1 (ITAA97 s 70-15(1)). A deduction is available for the relevant income year provided that the stock becomes part of the taxpayer's trading stock "on hand" (s 70-15(2)).
 
 Taxation Determination TD 95/48 confirms that, as a general rule, where stock is provided as demonstrators to prospective customers or to retailers for display purposes only, such stock is considered to remain on hand with the taxpayer at year end to the extent that:
 

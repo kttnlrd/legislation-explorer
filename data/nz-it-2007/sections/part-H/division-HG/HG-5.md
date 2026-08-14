@@ -4,15 +4,15 @@ part_title: Part H Taxation of certain entities
 division: HG
 division_title: Subpart HG—Joint venturers, partners, and partnerships
 section: HG-5
-section_title: Disposal of partner’s interests
+section_title: Disposal of partner's interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# HG 5  Disposal of partner’s interests
+# HG 5  Disposal of partner's interests
 
 **When this section applies**
 
-**(1)**  This section applies when an exiting partner disposes of some or all of their partner’s interests (the current interests) in a partnership to an entering partner, if the amount calculated using the following formula is less than zero: disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
+**(1)**  This section applies when an exiting partner disposes of some or all of their partner's interests (the current interests) in a partnership to an entering partner, if the amount calculated using the following formula is less than zero: disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
 
 **Definition of items in formula**
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) disposal payment is the total amount of consideration paid or payable to the exiting partner for the current interests:
 
-- (b) previous payments is the total amount of consideration paid or payable to the exiting partner for other disposals of some or all of their partner’s interests (the other interests) that have occurred in the year before the disposal of the current interests:
+- (b) previous payments is the total amount of consideration paid or payable to the exiting partner for other disposals of some or all of their partner's interests (the other interests) that have occurred in the year before the disposal of the current interests:
 
 - (c) gross tax value is the total of—
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
   - (ii) the market value of the current interests and other interests at the time the relevant interest is disposed of, to the extent to which the interests are not revenue account property or depreciable property:
 
-- (d) liabilities is the amount of liabilities under generally accepted accounting practice at the time the relevant interest is disposed of, calculated by reference to the exiting partner’s partnership share for the relevant interest.
+- (d) liabilities is the amount of liabilities under generally accepted accounting practice at the time the relevant interest is disposed of, calculated by reference to the exiting partner's partnership share for the relevant interest.
 
 **Exiting partner: excluded payment**
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **(8)**  This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
-*Defined in this Act: amount, deduction, depreciable property, dispose, entering partner, excluded income, exiting partner, financial arrangement, income, income year, income tax liability, partner, partner’s interests, partnership, partnership share, pay, return of income, revenue account property, small partnership, year*
+*Defined in this Act: amount, deduction, depreciable property, dispose, entering partner, excluded income, exiting partner, financial arrangement, income, income year, income tax liability, partner, partner's interests, partnership, partnership share, pay, return of income, revenue account property, small partnership, year*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

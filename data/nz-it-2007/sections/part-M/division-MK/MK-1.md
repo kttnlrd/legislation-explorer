@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Tax credits for members paid to fund providers**
 
-**(1)**  A fund provider of a person’s KiwiSaver scheme or a complying superannuation fund has a tax credit for a tax credit year equal to an amount calculated under section MK 4 for a member credit contribution to the scheme or fund. Section MK 2 imposes some eligibility requirements for the tax credit year in relation to the person.
+**(1)**  A fund provider of a person's KiwiSaver scheme or a complying superannuation fund has a tax credit for a tax credit year equal to an amount calculated under section MK 4 for a member credit contribution to the scheme or fund. Section MK 2 imposes some eligibility requirements for the tax credit year in relation to the person.
 
 **Meaning of tax credit year**
 

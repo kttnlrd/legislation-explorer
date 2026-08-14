@@ -3,21 +3,16 @@ ATO ID 2003/601
 ==================================================
 
 Income Tax
-        Deducting tax loss - saving rule - deduction in respect of equity interest transferred to another group company
-        FOI status: may be released
-
+ Deducting tax loss - saving rule - deduction in respect of equity interest transferred to another group company
+ FOI status: may be released
 
 This ATO ID was amended by replacing the reference to subsection 165-12(9) of the ITAA 1997 with a reference to section 995-1 of the ITAA 1997.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In applying subsection 165-12(7) of the Income Tax Assessment Act 1997 (ITAA 1997), is a deduction in respect of the disposal of an equity interest in the loss company to be taken into account in determining the extent that a loss company's tax loss has been 'reflected', where the disposer has transferred the relevant deduction to another group company as part of a tax loss transferred under Subdivision 170-A of the ITAA 1997?
@@ -34,8 +29,6 @@ Reasons for Decision
 Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997, that the condition can be taken as being satisfied where:
 the company has information from which it would be reasonable to conclude that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period.
 
-
-
 * denotes a term defined in subsection 995-1(1) of the ITAA 1997
 
 Because the happening of CGT event A1 entitled Company K to the relevant deduction that is not disregarded, the deduction is to be taken into account in determining the extent to which the tax loss incurred by Loss Company has been reflected.
@@ -45,7 +38,6 @@ Under subsection 165-12(1) of the ITAA 1997, the relevant ownership test period 
 The question then arises as to whether Loss Company's tax loss can be reflected in a deduction in respect of the disposal of an equity interest that, pursuant to subsection 170-15(2) of the ITAA 1997, is deemed to have been incurred by Company R in an income year that precedes the relevant ownership test period.
 As the relevant deduction arose because of a CGT event that happened in the ownership test period, it is to be taken into account in subsection 165-12(7) of the ITAA 1997 in determining the extent that Loss Company's tax loss has been reflected.
 
-
 Note 1: This ATO ID has been amended to add the word 'Act after the word 'Income Tax Assessment' (italicised) in the first sentence under the heading 'Issue'.
 
 Note 2: This ATO ID has been amended to remove any reference to subsection 165-12(9) of the ITAA 1997. Subsection 165-12(9) of the ITAA 1997 was repealed by the Tax Laws Amendment (2007 Measures No. 4) Act 2007 (Act 143 of 2007) with effect from 24 September 2007. The Amending Act transfers the meaning of 'direct and indirect equity interests', previously contained in subsection 165-12(9) of the ITAA 1997 to subsection 995-1(1) of the ITAA 1997.
@@ -53,10 +45,10 @@ Note 2: This ATO ID has been amended to remove any reference to subsection 165-1
 However, this change does not affect the decision in this interpretative decision.
 
 Date of decision:
-         23 June 2003
+  23 June 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -65,23 +57,22 @@ Income Tax Assessment Act 1997   subsection 36-10(3)   subsection 104-10(2
 Keywords
 
 Accumulated tax losses
-          Capital gains tax
-          CGT event A1 - disposal of a CGT asset
-          Dealings & transactions
-          Deductions & expenses
-          Losses
-          Prior year losses
-          Saving Rule
-
+ Capital gains tax
+ CGT event A1 - disposal of a CGT asset
+ Dealings & transactions
+ Deductions & expenses
+ Losses
+ Prior year losses
+ Saving Rule
 
 Siebel/TDMS Reference Number:
-         3607324
+  3607324
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         18 July 2003
+  18 July 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

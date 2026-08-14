@@ -13,11 +13,11 @@ The standard method requires a return to be lodged for each tax period (¶8-002)
 
 *Refs: s 31-5)*
 
-- the “quarterly remittance” method, which enables a substantially abbreviated form to be lodged each
+- the "quarterly remittance" method, which enables a substantially abbreviated form to be lodged each
 
   quarter, with a full information report lodged annually (¶8-036)
 
-- the “instalments” method, which is available only to small taxpayers. This requires quarterly
+- the "instalments" method, which is available only to small taxpayers. This requires quarterly
 
   instalments to be paid and an annual return to be lodged (¶8-037).
 

@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
   - (i) use in the ordinary course of business:
 
-  - (ii) deriving the person’s employment income.
+  - (ii) deriving the person's employment income.
 
 **Repairs**
 

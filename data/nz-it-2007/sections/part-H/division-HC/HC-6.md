@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Deriving beneficiary income in same year**
 
-**(3)**  When an amount derived by a trustee in an income year is also beneficiary income, the beneficiary is treated as having derived the income in the same tax year as that corresponding to the trustee’s income year.
+**(3)**  When an amount derived by a trustee in an income year is also beneficiary income, the beneficiary is treated as having derived the income in the same tax year as that corresponding to the trustee's income year.
 
 *Defined in this Act: amount, beneficiary income, income, income year, pay, return of income, superannuation fund, tax year, trustee*
 

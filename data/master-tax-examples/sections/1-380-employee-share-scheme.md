@@ -7,9 +7,9 @@ paragraph: "None"
 ---
 # 1-380 - Employee share scheme
 
-Worked example: Employee share scheme Issue Luxury Vehicles Limited (LVL) sells luxury motor vehicles through its Australia-wide dealership network. In January 2023, the company instituted an employee share acquisition scheme in which all employees were given the opportunity to acquire shares in the company at a discount of 10% on the market value of the company’s shares. Stan Moore, one of the company’s car salesmen, accepted the offer on 15 January 2023 and acquired 5,000 shares when the share price was $4 per share.
+Worked example: Employee share scheme Issue Luxury Vehicles Limited (LVL) sells luxury motor vehicles through its Australia-wide dealership network. In January 2023, the company instituted an employee share acquisition scheme in which all employees were given the opportunity to acquire shares in the company at a discount of 10% on the market value of the company's shares. Stan Moore, one of the company's car salesmen, accepted the offer on 15 January 2023 and acquired 5,000 shares when the share price was $4 per share.
 
-In September 2024, LVL introduced another employee share acquisition scheme offering shares in the company at a 20% discount but restricted to directors and senior executives of the company and subject to forfeiture provisions. Employees acquiring the shares were not permitted to dispose of the shares within 5 years of acquisition. Stephanie Wu, the company’s finance director, accepted the offer and acquired 500 shares on 1 October 2024 when the share price was $5 per share.
+In September 2024, LVL introduced another employee share acquisition scheme offering shares in the company at a 20% discount but restricted to directors and senior executives of the company and subject to forfeiture provisions. Employees acquiring the shares were not permitted to dispose of the shares within 5 years of acquisition. Stephanie Wu, the company's finance director, accepted the offer and acquired 500 shares on 1 October 2024 when the share price was $5 per share.
 
 Advise Stan Moore and Stephanie Wu on the tax implications of their share acquisitions and the tax implications of any future disposal of their shares.
 
@@ -25,7 +25,7 @@ There are 2 alternative taxing rules for ESSs that might be offered at a discoun
 
 Where an employee is assessable on a discount received on an ESS interest upfront, a $1,000 exemption applies, provided the conditions in ss 83A-35 and 83A-45 are satisfied, including:
 
-- the taxpayer’s income is $180,000 or less
+- the taxpayer's income is $180,000 or less
 
 - the scheme is offered on a non-discriminatory basis
 
@@ -39,9 +39,9 @@ The deferred taxing provisions apply where the ESS interests are subject to a re
 
 Because the ESS rules in Div 83A are intended to be the primary taxing regime for ESS interests, the discounts are exempt from being taxed as a fringe benefit (s 83A-5; FBTAA s 136(1)) or under the CGT provisions (ITAA97 s 130-75). However, once the shares are disposed of any gain or loss may attract the CGT provisions.
 
-Stan Moore: acquisition of shares in the ESS Stan acquired 5,000 shares at a discount of 10% on the market value of $4 per share. The discount of $0.40 on 5,000 shares amounts to $2,000. This may be included in Stan’s assessable income for 2022–23 (s 83A-25(1)) but he will be entitled to an exemption of $1,000 if the conditions in ss 83A-35 and 83A-45 are satisfied. In that case, $1,000 of the $2,000 discount will be included in his assessable income in 2022–23 and the $1,000 balance will be exempt. The conditions for the $1,000 exemption include:
+Stan Moore: acquisition of shares in the ESS Stan acquired 5,000 shares at a discount of 10% on the market value of $4 per share. The discount of $0.40 on 5,000 shares amounts to $2,000. This may be included in Stan's assessable income for 2022–23 (s 83A-25(1)) but he will be entitled to an exemption of $1,000 if the conditions in ss 83A-35 and 83A-45 are satisfied. In that case, $1,000 of the $2,000 discount will be included in his assessable income in 2022–23 and the $1,000 balance will be exempt. The conditions for the $1,000 exemption include:
 
-- the sum of the taxpayer’s taxable income (this includes the discount other than the exempt amount
+- the sum of the taxpayer's taxable income (this includes the discount other than the exempt amount
 
   of the discount), reportable fringe benefits total, reportable superannuation contributions and total
 

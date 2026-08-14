@@ -3,21 +3,16 @@ ATO ID 2005/70
 ==================================================
 
 Goods and Services Tax
-        GST and in specie contributions to a self managed superannuation fund
-        FOI status: may be released
-
+ GST and in specie contributions to a self managed superannuation fund
+ FOI status: may be released
 
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a sole trader, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it makes an in specie contribution of commercial property to the trustee of a self managed superannuation fund?
@@ -29,8 +24,6 @@ The entity is a member of a self managed superannuation fund (superannuation fun
 The entity makes an in specie contribution of the commercial property to the trustee of the superannuation fund in carrying on its enterprise. The trustee does not provide any monetary consideration to the entity for the commercial property. The trustee intends to lease out the commercial property, which will be a taxable supply.
 Reasons for Decision
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
-
-
 
 •it makes the supply for consideration
 •the supply is made in the course or furtherance of an enterprise that it carries on
@@ -45,8 +38,6 @@ In the case of a self managed superannuation fund, members, or beneficiaries of 
 This supply of the initial interest in the fund by the trustee is not a supply made in response, in connection with or for the inducement of the entity's contribution of the commercial property. Accordingly, the superannuation fund does not provide consideration for the supply of the commercial property.
 However, under section 72-5 of the GST Act the fact that a supply is made to an associate without consideration does not stop the supply being a taxable supply if:
 
-
-
 •the associate is not registered or required to be registered, or
 •the associate acquires the thing supplied otherwise than solely for a creditable purpose.
 
@@ -54,7 +45,7 @@ However, under section 72-5 of the GST Act the fact that a supply is made to an 
 The trustee is registered for GST and intends to lease out the commercial property which will be a taxable supply under section 9-5 of the GST Act. Therefore, the trustee of the superannuation fund has acquired the commercial property for a creditable purpose and neither of the requirements of section 72-5 of the GST Act are satisfied.
 As there is no consideration for the supply, paragraph 9-5(a) of the GST Act is not satisfied. Therefore, the entity is not making a taxable supply under section 9-5 of the GST Act, when it makes an in specie contribution of commercial property to a self managed superannuation fund.
 Date of decision:
-         20 August 2004
+  20 August 2004
 
 Legislative References:
 
@@ -69,18 +60,17 @@ Goods and Services Tax Ruling GSTR 2001/6
 Keywords
 
 Goods and services tax
-          GST consideration
-          GST superannuation funds
-
+ GST consideration
+ GST superannuation funds
 
 Siebel/TDMS Reference Number:
-         3832747
+  3832747
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         11 March 2005
+  11 March 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

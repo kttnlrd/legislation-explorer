@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Fair dividend rate hedge portions**
 
-**(1)**  This section calculates the fair dividend rate hedge portions for a person’s eligible hedges on a portfolio basis under an election provided by section EM 4.
+**(1)**  This section calculates the fair dividend rate hedge portions for a person's eligible hedges on a portfolio basis under an election provided by section EM 4.
 
 **Lowest amount**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 - (a) non-eligible assets is the total market value of non-eligible assets:
 
-- (b) portfolio hedges amount is the total amount of foreign currency that is hedged by a person’s hedges.
+- (b) portfolio hedges amount is the total amount of foreign currency that is hedged by a person's hedges.
 
 **Second formula**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 - (a) eligible assets is the total market value of assets described in section EM 1(1)﻿(a) and (b) that the person owns directly, and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
 
-- (b) portfolio hedges amount is the total amount of foreign currency that is hedged by a person’s hedges.
+- (b) portfolio hedges amount is the total amount of foreign currency that is hedged by a person's hedges.
 
 *Defined in this Act: eligible hedge, fair dividend rate hedge portion, hedge, non-eligible assets, qualifying hedge fund*
 

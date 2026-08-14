@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Amount of dividend**
 
-**(2)**  The amount of the dividend is the money or money’s worth offered as an alternative.
+**(2)**  The amount of the dividend is the money or money's worth offered as an alternative.
 
 *Defined in this Act: amount, bonus issue in lieu, dividend, pay, RWT*
 

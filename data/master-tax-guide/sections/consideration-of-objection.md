@@ -7,7 +7,7 @@ paragraph: "¶28-070"
 ---
 # Consideration of objection ¶28-070
 
-The Commissioner is bound to consider the taxpayer’s objection and to serve the taxpayer with written notice of the decision to disallow it, or to allow it wholly or in part (an “objection decision”) (TAA s 14ZY). Objections are considered by ATO oﬃcers who are independent of the original ATO oﬃcer issuing the assessment. This is designed to enable the ATO to reach a ﬁnal, considered position at the objection stage.
+The Commissioner is bound to consider the taxpayer's objection and to serve the taxpayer with written notice of the decision to disallow it, or to allow it wholly or in part (an "objection decision") (TAA s 14ZY). Objections are considered by ATO oﬃcers who are independent of the original ATO oﬃcer issuing the assessment. This is designed to enable the ATO to reach a ﬁnal, considered position at the objection stage.
 
 The issue of a further assessment amending the assessment objected against does not qualify as a notice of the objection decision. The Commissioner is required to notify the taxpayer of the right to have the objection decision reviewed by the ART but not of the right to appeal to the Federal Court. In fulﬁlling this obligation, the Commissioner must have regard to any matters prescribed by the Administrative Review Tribunal Rules 2024 (ART Act ss 266; 267).
 

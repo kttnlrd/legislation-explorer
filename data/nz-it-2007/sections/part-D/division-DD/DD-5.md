@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  The limitation rule does not apply to a deduction for expenditure on entertainment if—
 
-- (a) the entertainment is sponsored mainly to advertise or promote a person’s business, goods, or services to the public; and
+- (a) the entertainment is sponsored mainly to advertise or promote a person's business, goods, or services to the public; and
 
 - (b) none of the following has a greater opportunity to enjoy the entertainment than the public generally:
 

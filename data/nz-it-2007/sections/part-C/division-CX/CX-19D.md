@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Payment of vehicle-share service costs**
 
-**(2)**  A benefit that an employer provides to an employee in the form of assistance with the payment of the employee’s costs of using a vehicle-share service for the main purpose of an employee travelling between their home and place of work is not a fringe benefit if the vehicle-share service provides use of 1 or more of the following vehicles to the employee:
+**(2)**  A benefit that an employer provides to an employee in the form of assistance with the payment of the employee's costs of using a vehicle-share service for the main purpose of an employee travelling between their home and place of work is not a fringe benefit if the vehicle-share service provides use of 1 or more of the following vehicles to the employee:
 
 - (a) a bicycle:
 

@@ -39,7 +39,7 @@ Example 4 - business providing alarms, monitoring and response services
 32
 Information technology services
 36
-Example 5 - manufacturing and selling computer peripherals and  associated software
+Example 5 - manufacturing and selling computer peripherals and associated software
 39
 Example 6 - company designing local area networks for large businesses
 41
@@ -160,7 +160,7 @@ Where the delivery is a significant component and could realistically be made as
 mixed supply
 of a freight service and the goods. The supply of the freight service as part of the mixed supply will therefore be a supply of a road freight service.
 17. The Commissioner's view on whether the integrated supply of delivered goods is a mixed or composite supply is contained in Goods and Services Tax Determination GSTD 2002/3
-Goods and services tax:  how do I account for GST when I supply taxable goods, non-taxable goods and delivery services together?
+Goods and services tax: how do I account for GST when I supply taxable goods, non-taxable goods and delivery services together?
 Example 1 - business providing road freight services
 18.
 Longhaul Freight Pty Ltd operates a business (with an ABN) that transports bulk groceries from grocery suppliers to supermarket stores and engages contractors (driver-owners with semi-trailers) to provide this service. Longhaul Freight is transporting bulk quantities of groceries; it is supplying a road freight service. Their contractor drivers are moving the freight by road for them, and therefore providing road freight services on behalf of Longhaul Freight. Longhaul Freight is required to report payments to these contractors, which occur on or after 1 July 2019, in a TPAR (unless a reporting exemption applies).
@@ -337,7 +337,7 @@ This exclusion does not extend to payments made by a member of a consolidated gr
 That is, the single entity rule does not apply to the circumstances giving rise to TPRS reporting obligations.
 Example 8 - consolidated group
 54.
-Big Pty Ltd is the head company of a tax consolidated group which operates an online retail and auction business. It has structured their group such that each function is provided by a different subsidiary. IT Sub Co provides the IT services for the group and has set up a subsidiary company for each region they operate in:  Local Sub 1 and Local Sub 2. The Local Sub companies employ local staff to provide the functions; they generally do not sub-contract out these functions. A partial group structure showing the payment flow of this arrangement is shown below:
+Big Pty Ltd is the head company of a tax consolidated group which operates an online retail and auction business. It has structured their group such that each function is provided by a different subsidiary. IT Sub Co provides the IT services for the group and has set up a subsidiary company for each region they operate in: Local Sub 1 and Local Sub 2. The Local Sub companies employ local staff to provide the functions; they generally do not sub-contract out these functions. A partial group structure showing the payment flow of this arrangement is shown below:
 55.
 IT Sub Co is providing IT services to Big, is engaging another entity to provide those services for it and has made payments under a contract to Local Sub 1 for those IT services. However, the payments are made by an entity that is part of a consolidated group to an entity within the consolidated group. Therefore, the payments are not subject to the TPRS reporting obligation.
 56.
@@ -475,7 +475,7 @@ See footnote 9 of this Ruling.
 See subsections 701-1(2) and (3) of the
 Income Tax Assessment Act 1997
 and Taxation Ruling TR 2004/11
-Income tax: consolidation:  the meaning and application of the single entity rule in Part 3-90 of the Income Tax Assessment Act 1997
+Income tax: consolidation: the meaning and application of the single entity rule in Part 3-90 of the Income Tax Assessment Act 1997
 .
 [13]
 Originally sourced in Schedule 2, item 3(2) of the Amending Act; from 1 July 2019, this exemption is sourced in the Legislative Instrument
@@ -495,7 +495,7 @@ Paragraph 2.40 of the Explanatory Memorandum to the Treasury Laws Amendment (Bla
 Section 188-15 of the GST Act.
 [18]
 Schedule 2 item 3(7) of the Amending Act. See also Goods and Services Tax Ruling GSTR 2001/7
-Goods and services tax:  meaning of GST turnover, including the effect of section 188-25 on projected GST turnover
+Goods and services tax: meaning of GST turnover, including the effect of section 188-25 on projected GST turnover
 .
 [19]
 Section 188-20 of the GST Act.
@@ -512,8 +512,8 @@ ANTS(GST)A 1999 9-10
 ANTS(GST)A 1999 188-15
 ANTS(GST)A 1999 188-20
 ITAA 1997
-ITAA 1997  701-1(2)
-ITAA 1997  701-1(3)
+ITAA 1997 701-1(2)
+ITAA 1997 701-1(3)
 TAA 1953
 TAA 1953 8AAZA
 TAA 1953 Div 396

@@ -44,9 +44,9 @@ compilation_date: 2026-06-06
 
 **(7)**  Subsection (8) applies to the extent to which—
 
-- (a) a joint venturer provides funds for the airport operator’s activities; and
+- (a) a joint venturer provides funds for the airport operator's activities; and
 
-- (b) the joint venturers expressly agree that the funds are to be provided for the airport operator’s activities; and
+- (b) the joint venturers expressly agree that the funds are to be provided for the airport operator's activities; and
 
 - (c) the funds are provided for consideration in the nature of interest payable by the airport operator.
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **(8)**  The funds are treated as money borrowed by the airport operator and the consideration is treated as interest.
 
-*Defined in this Act: airport authority, airport operator, airport operator’s activities, association, company, interest, local authority, public authority, share*
+*Defined in this Act: airport authority, airport operator, airport operator's activities, association, company, interest, local authority, public authority, share*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

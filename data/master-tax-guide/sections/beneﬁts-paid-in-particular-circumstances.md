@@ -21,7 +21,7 @@ The taxation rules for superannuation beneﬁts and death beneﬁts in Divs 301 
 
 Departing Australia superannuation payments (DASPs) covered by ITAA97 Subdiv 301-D are also not subject to the other tax rules within Div 301 or the rules in 302. They are not assessable income and not exempt income (ITAA97 s 301-175), and are subject to withholding tax (¶14-390).
 
-Small benefit payments under $200 A superannuation lump sum member beneﬁt which is less than $200 in value and is the member’s entire superannuation interest, and which meets the requirements speciﬁed in ITR2021 s 301-225.01, is not assessable income and not exempt income (ITAA97 s 301-225(1)).
+Small benefit payments under $200 A superannuation lump sum member beneﬁt which is less than $200 in value and is the member's entire superannuation interest, and which meets the requirements speciﬁed in ITR2021 s 301-225.01, is not assessable income and not exempt income (ITAA97 s 301-225(1)).
 
 Also, a superannuation lump sum beneﬁt of less than $200 in value paid to a person by the Commissioner under ss 20QF(2)(d), 21E(2)(d), 22B(2)(d) or 24G(2)(d) of the Superannuation (Unclaimed Money and Lost Members) Act 1999 (being the repayment of money which had previously been paid to the ATO by a superannuation provider under that Act: ¶13-950) is not assessable income and not exempt income of the recipient (ITAA97 s 301-225(2)).
 
@@ -39,13 +39,13 @@ Commutation of income streams by dependants A superannuation lump sum received b
 
   stream before the commutation because of the death of a person of whom the taxpayer was a
 
-“death beneﬁts dependant” (¶14-270) (ITAA97 s 303-5).
+"death beneﬁts dependant" (¶14-270) (ITAA97 s 303-5).
 
-A deceased person’s child aged less than 18 just before the deceased person died is a “death beneﬁts dependant” for the above purpose. Consequently, a superannuation lump sum arising from the commutation of an income stream is covered by s 303-5 (ie it is not assessable income and not exempt income), even if the child is aged 18 or more when they receive the superannuation lump sum (TD 2013/12).
+A deceased person's child aged less than 18 just before the deceased person died is a "death beneﬁts dependant" for the above purpose. Consequently, a superannuation lump sum arising from the commutation of an income stream is covered by s 303-5 (ie it is not assessable income and not exempt income), even if the child is aged 18 or more when they receive the superannuation lump sum (TD 2013/12).
 
 A child under age 25 who is receiving a death beneﬁt superannuation income stream is required to commute the beneﬁt to a lump sum by age 25 unless the child has a disability of the kind described in s 8(1) of the Disability Services Act 1986 (SISR reg 6.21(2B)). The fund trustee must determine whether the child has a disability of the kind described in s 8(1) on the day the child turns 25 (or an earlier date, if applicable under 6.21(2B)(a)) (SMSFD 2013/1).
 
-Payments to persons with terminal medical condition A superannuation lump sum member beneﬁt paid to a person is non-assessable and non-exempt income if a “terminal medical condition” (deﬁned in ITR2021 s 995-1.06) exists in relation to the person when receiving or within 90 days after receiving the lump sum (ITAA97 s 303-10).
+Payments to persons with terminal medical condition A superannuation lump sum member beneﬁt paid to a person is non-assessable and non-exempt income if a "terminal medical condition" (deﬁned in ITR2021 s 995-1.06) exists in relation to the person when receiving or within 90 days after receiving the lump sum (ITAA97 s 303-10).
 
 *Refs: ITAA97 s 301-175), s 301-225, ITAA97 s 301-225(1)), ITAA97 s 301-225(2)), ITAA97 s 303-5), s 303-5, s 995-1, ITAA97 s 303-10)*
 
@@ -59,7 +59,7 @@ Payments to persons with terminal medical condition A superannuation lump sum me
 
 Payments under an ATO release authority A superannuation provider may make certain superannuation payments under an ATO release authority pursuant to TAA sch 1 Div 131 or former Div 135 (¶13-880) and the conditions of release of superannuation beneﬁts in SISR sch 1 (¶13-900).
 
-A payment made in accordance with an ATO release authority is a “superannuation beneﬁt” (¶14-100). The tax treatment of these payments is summarised below:
+A payment made in accordance with an ATO release authority is a "superannuation beneﬁt" (¶14-100). The tax treatment of these payments is summarised below:
 
 - a release of excess concessional contributions is not assessable income and not exempt income
 

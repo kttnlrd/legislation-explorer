@@ -7,11 +7,11 @@ paragraph: "None"
 ---
 # 4-000 - Deductions for car parking expenses
 
-Worked example: Deductions for car parking expenses Issue Rachel Jones works as an employee in an office building in Melbourne’s central business district. This is her primary place of employment. She travels to work by car each day from her home and parks in a commercial car park situated below her building from between 9 am to 5 pm (8 hours). Rachel personally incurs the costs of parking her car.
+Worked example: Deductions for car parking expenses Issue Rachel Jones works as an employee in an office building in Melbourne's central business district. This is her primary place of employment. She travels to work by car each day from her home and parks in a commercial car park situated below her building from between 9 am to 5 pm (8 hours). Rachel personally incurs the costs of parking her car.
 
 Advise Rachel as to whether she is entitled to claim an income tax deduction for her car parking costs.
 
-Would the outcome be different if Rachel was entitled to a valid disabled person’s car parking permit?
+Would the outcome be different if Rachel was entitled to a valid disabled person's car parking permit?
 
 Solution Rachel is not allowed to claim a deduction for her car parking costs in her personal tax return. The amount is specifically denied under ITAA36 s 51AGA. Broadly, s 51AGA denies a tax deduction for cost incurred in relation to car parking for a particular day if:
 
@@ -35,6 +35,6 @@ Solution Rachel is not allowed to claim a deduction for her car parking costs in
 
 The car parking costs incurred by Rachel in the commercial car park near her workplace are not deductible to her as she parks there for 8 hours during the 7 am to 7 pm period and her parked car is used by her for travel between her home and her primary place of employment.
 
-The outcome would be different however if Rachel was entitled to use a valid disabled person’s car parking permit.
+The outcome would be different however if Rachel was entitled to use a valid disabled person's car parking permit.
 
-Specifically, a deduction for car parking expenses is not denied to Rachel if she was the driver of, or a passenger in, the car and she is entitled under state or territory law to use a disabled person’s parking space and a valid disabled person’s car parking permit is displayed on the car (Income Tax Assessment (1936 Act) Regulation 2015 reg 8).
+Specifically, a deduction for car parking expenses is not denied to Rachel if she was the driver of, or a passenger in, the car and she is entitled under state or territory law to use a disabled person's parking space and a valid disabled person's car parking permit is displayed on the car (Income Tax Assessment (1936 Act) Regulation 2015 reg 8).

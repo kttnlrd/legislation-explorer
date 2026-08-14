@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Amounts treated as derived 20 days after payment**
 
-**(2)**  When the employee remains on the employer’s payroll system in a country or territory outside New Zealand, the PAYE income payment is treated as derived by them on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
+**(2)**  When the employee remains on the employer's payroll system in a country or territory outside New Zealand, the PAYE income payment is treated as derived by them on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
 
 **Employees undertaking tax obligations**
 

@@ -71,4 +71,4 @@ Pharmacies that sell food SAMs may be available where a pharmacy sells a mixture
 
 ## Supply (Drugs and Medicinal Preparations) Determination 2025 (F2025L01199), or
 
-## GST-free “public health” goods are:
+## GST-free "public health" goods are:

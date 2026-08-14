@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an exiting partner disposes of some or all of their partner’s interests in a partnership to an entering partner, to the extent to which those interests include a financial arrangement or an excepted financial arrangement described in section EW 5(10) (What is an excepted financial arrangement?) and, ignoring section HG 2—
+**(1)**  This section applies when an exiting partner disposes of some or all of their partner's interests in a partnership to an entering partner, to the extent to which those interests include a financial arrangement or an excepted financial arrangement described in section EW 5(10) (What is an excepted financial arrangement?) and, ignoring section HG 2—
 
 - (a) the purpose for which the financial arrangement or excepted financial arrangement was entered into was necessary and incidental to the business of the partnership; and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **(7)**  This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
-*Defined in this Act: amount, deduction, dispose, entering partner, excepted financial arrangement, excluded income, exiting partner, financial arrangement, income tax liability, income year, partner, partner’s interests, partnership, pay, small partnership*
+*Defined in this Act: amount, deduction, dispose, entering partner, excepted financial arrangement, excluded income, exiting partner, financial arrangement, income tax liability, income year, partner, partner's interests, partnership, pay, small partnership*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

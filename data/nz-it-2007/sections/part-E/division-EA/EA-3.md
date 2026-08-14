@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) the expenditure was not incurred on the items described in subsection (2); and
 
-- (c) some or all of the expenditure is unexpired under subsections (4) to (7) at the end of the person’s income year.
+- (c) some or all of the expenditure is unexpired under subsections (4) to (7) at the end of the person's income year.
 
 **Exclusions**
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (a) revenue account property to which section EA 2 applies:
 
-- (b) trading stock valued under subpart EB (Valuation of trading stock (including dealer’s livestock)):
+- (b) trading stock valued under subpart EB (Valuation of trading stock (including dealer's livestock)):
 
 - (c) livestock valued under subpart EC (Valuation of livestock):
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Unexpired portion**
 
-**(3)**  The unexpired portion of a person’s expenditure at the end of an income year—
+**(3)**  The unexpired portion of a person's expenditure at the end of an income year—
 
 - (a) is income of the person in the income year under section CH 2 (Adjustment for prepayments); and
 
@@ -74,9 +74,9 @@ compilation_date: 2026-06-06
 
 **Allowances reimbursing employees**
 
-**(7)**  In the case of expenditure subject to sections CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee’s expenditure is expected to occur.
+**(7)**  In the case of expenditure subject to sections CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee's expenditure is expected to occur.
 
-**Commissioner’s discretionary relief**
+**Commissioner's discretionary relief**
 
 **(8)**  The Commissioner may excuse a person from complying with this section under section 91AAC of the Tax Administration Act 1994.
 

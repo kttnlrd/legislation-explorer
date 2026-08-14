@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
   - (ib) for an ancillary tax or approved issuer levy, the 4-year period under section 108(1C) of that Act for amendment of an assessment, if subparagraphs (ic) and (ii) do not apply; or
 
-  - (ic) the 7-year period under section GC 13(6) (Calculation of arm’s length amounts) for amendment of an assessment, if that subsection applies; or
+  - (ic) the 7-year period under section GC 13(6) (Calculation of arm's length amounts) for amendment of an assessment, if that subsection applies; or
 
   - (ii) the extended period allowed by the Commissioner under section 78B of that Act, if the Commissioner exercises the discretion under that section.
 

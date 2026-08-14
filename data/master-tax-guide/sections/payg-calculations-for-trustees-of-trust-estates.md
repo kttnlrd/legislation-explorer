@@ -7,25 +7,25 @@ paragraph: "¶27-500"
 ---
 # PAYG calculations for trustees of trust estates ¶27-500
 
-A trustee that is liable to pay tax in respect of a beneﬁciary’s share of the trust’s net income, or the income to which no beneﬁciary is entitled, is liable to pay PAYG instalments in respect of such a liability. Special rules in TAA sch 1 Subdiv 45-N (ss 45-450 to 45-535) explain how the PAYG instalments regime applies to a trustee.
+A trustee that is liable to pay tax in respect of a beneﬁciary's share of the trust's net income, or the income to which no beneﬁciary is entitled, is liable to pay PAYG instalments in respect of such a liability. Special rules in TAA sch 1 Subdiv 45-N (ss 45-450 to 45-535) explain how the PAYG instalments regime applies to a trustee.
 
 Single-rate trustees A single-rate trustee is a trustee covered by any of items 4 to 8, 12 and 13 of the table in ITAA97 s 9-1, ie a trustee of a corporate unit trust, a public trading trust, a complying or non-complying superannuation fund, a complying or non-complying ADF, and a PST (s 45-450). Each of these trustees will be given a single instalment rate by the Commissioner.
 
-If the single-rate trustee is a trustee of a corporate unit trust or a public trading trust, the PAYG instalments system applies as if the trustee had a taxable income for the income year that is equal to the net income of the trust (s 45-450(3)). This allows the Commissioner to treat the trust’s net income as taxable income of the trustee for the purposes of calculating an instalment rate, benchmark instalment rate or benchmark tax for the trustee.
+If the single-rate trustee is a trustee of a corporate unit trust or a public trading trust, the PAYG instalments system applies as if the trustee had a taxable income for the income year that is equal to the net income of the trust (s 45-450(3)). This allows the Commissioner to treat the trust's net income as taxable income of the trustee for the purposes of calculating an instalment rate, benchmark instalment rate or benchmark tax for the trustee.
 
 Multi-rate trustees Some trustees have several separate liabilities to pay tax as the trustee of a particular trust and may, therefore, have more than one liability to pay PAYG instalments. A trustee may be liable to pay tax for a previous income year in respect of: (a) a beneﬁciary who is under a legal disability or a beneﬁciary who has a vested and indefeasible interest in trust income but cannot require the trustee to pay the amount (ITAA36 s 98(1), (2)); or (b) income to which no beneﬁciary is entitled (ITAA36 ss 99; 99A). Such trustees are multi-rate trustees (s 45-455). A trustee that is liable to pay tax under s 98(1) for a particular beneﬁciary for a particular year does not, however, have to pay PAYG instalments if that beneﬁciary will no longer be under a legal disability at the end of the subsequent year.
 
-Instalments of a multi-rate trustee The trustee works out the amount of its instalments by multiplying the total instalment income (calculated in the same way as for other entities: ¶27-260) of the trust by the instalment rate (s 45-465). The Commissioner works out the separate instalment rates for a trustee. The matching of the instalment income to the rate calculation enables the correct amount of an instalment to be worked out by the trustee in respect of each of the trustee’s diﬀerent instalment liabilities.
+Instalments of a multi-rate trustee The trustee works out the amount of its instalments by multiplying the total instalment income (calculated in the same way as for other entities: ¶27-260) of the trust by the instalment rate (s 45-465). The Commissioner works out the separate instalment rates for a trustee. The matching of the instalment income to the rate calculation enables the correct amount of an instalment to be worked out by the trustee in respect of each of the trustee's diﬀerent instalment liabilities.
 
 A multi-rate trustee may choose to pay quarterly instalments on a GDP-adjusted notional basis (¶27-300) if the trustee has a liability to pay instalments in respect of a beneﬁciary or income to which no beneﬁciary is entitled (s 45-468).
 
 The Commissioner works out instalment rates for a multi-rate trustee on the basis of a formula in s 45-470.
 
-This formula is essentially the same as for other PAYG instalment payers. The “notional tax” in the formula is the notional tax in respect of a particular liability for a beneﬁciary or income to which no beneﬁciary is entitled (s 45-475). In eﬀect, the notional tax is worked out on a share of the trust’s net income. The “base assessment instalment income” in the formula is, however, the total base assessment instalment income of the trust, not a share of it (s 45-470(2)).
+This formula is essentially the same as for other PAYG instalment payers. The "notional tax" in the formula is the notional tax in respect of a particular liability for a beneﬁciary or income to which no beneﬁciary is entitled (s 45-475). In eﬀect, the notional tax is worked out on a share of the trust's net income. The "base assessment instalment income" in the formula is, however, the total base assessment instalment income of the trust, not a share of it (s 45-470(2)).
 
-The instalment rate is worked out in this way to allow the trustee, in calculating the amount of an instalment, to apply the instalment rate to the total instalment income of the trust for an instalment period. The trustee does not need to work out each beneﬁciary’s share of the trust’s instalment income in order to calculate the amount of the trustee’s various instalment liabilities.
+The instalment rate is worked out in this way to allow the trustee, in calculating the amount of an instalment, to apply the instalment rate to the total instalment income of the trust for an instalment period. The trustee does not need to work out each beneﬁciary's share of the trust's instalment income in order to calculate the amount of the trustee's various instalment liabilities.
 
-The Commissioner’s methods of working out a benchmark instalment rate and benchmark tax where the trustee has varied an instalment or an instalment rate are set out in ss 45-525 to 45-535.
+The Commissioner's methods of working out a benchmark instalment rate and benchmark tax where the trustee has varied an instalment or an instalment rate are set out in ss 45-525 to 45-535.
 
 Liability for PAYG instalments in a consolidated group The consolidation regime allows wholly-owned groups of entities to make a choice to consolidate and therefore be treated as a single entity for the purposes of determining income tax liability (¶8-000). This has consequences for the operation of the PAYG instalment system. The rules are contained in TAA sch 1 Subdivs 45-Q and 45-R.
 
@@ -57,7 +57,7 @@ The Commissioner has the power to give a head company a new instalment rate or i
 
 Rules for head companies The rules reﬁne the circumstances in which the head company of a consolidated group will be liable to pay PAYG instalments and when it will cease to be liable to pay PAYG instalments.
 
-A head company of a consolidated group will start to be treated as a “mature” head company (and therefore be liable to pay PAYG instalments on behalf of the consolidated group) at the start of the instalment quarter (or at the beginning of the next instalment month if it is a monthly payer) during which one or more of the following occurs:
+A head company of a consolidated group will start to be treated as a "mature" head company (and therefore be liable to pay PAYG instalments on behalf of the consolidated group) at the start of the instalment quarter (or at the beginning of the next instalment month if it is a monthly payer) during which one or more of the following occurs:
 
 - the Commissioner gives the head company an instalment rate
 
@@ -97,7 +97,7 @@ Multiple entry consolidated groups There are additional PAYG instalment rules fo
 
 Generally, the PAYG instalments regime applies to the members of a MEC group in much the same way as it applies to the members of a consolidated group — a rule that applies to a head company of a consolidated group will generally apply to the provisional head company of a MEC group; a rule that applies to a subsidiary member of a consolidated group will generally apply to a member (other than the provisional head company) of a MEC group.
 
-A provisional head company of a MEC group becomes a “mature” provisional head company for PAYG instalment purposes at the start of an instalment quarter (or the start of the next instalment month if the company is a monthly payer) in which:
+A provisional head company of a MEC group becomes a "mature" provisional head company for PAYG instalment purposes at the start of an instalment quarter (or the start of the next instalment month if the company is a monthly payer) in which:
 
 - the Commissioner gives the provisional head company an instalment rate
 
@@ -125,7 +125,7 @@ A provisional head company of a MEC group ceases to be a mature provisional head
 
 When a provisional head company of a MEC group ceases to be eligible to be a provisional head company and a replacement provisional head company is appointed, the replacement provisional head company is endowed (at the time the replacement takes eﬀect) with the PAYG attributes of the company it replaces.
 
-Credits for instalments A head company of a consolidated group will be entitled to a credit for instalments payable by an entity that is a subsidiary member of that group at any time during the head company’s consolidation transitional year.
+Credits for instalments A head company of a consolidated group will be entitled to a credit for instalments payable by an entity that is a subsidiary member of that group at any time during the head company's consolidation transitional year.
 
 This credit will be in addition to the credit to which the head company is entitled for its own instalments under s 45-30.
 
@@ -137,7 +137,7 @@ The head company will be entitled to credits after the Commissioner makes an ass
 
   to the extent to which those instalments and variation credits are reasonably attributable to that head
 
-  company’s assessment for a consolidation transitional year.
+  company's assessment for a consolidation transitional year.
 
 *Refs: s 45-450, ITAA97 s 9-1, s 45-450), s 45-450(3)), s 45-455), s 45-465), s 45-468), s 45-470, s 45-475), s 45-470(2)), s 45-525, s 45-30*
 
@@ -145,7 +145,7 @@ amount is too low A head company of a consolidated group that is a quarterly pay
 
 - any member of the consolidated group has varied its instalment for that quarter or, if the
 
-  member’s instalment quarters diﬀer from the head company’s, the last instalment quarter of the
+  member's instalment quarters diﬀer from the head company's, the last instalment quarter of the
 
   member that ﬁnishes before the end of that particular quarter of the head company (called the
 
@@ -155,7 +155,7 @@ amount is too low A head company of a consolidated group that is a quarterly pay
 
   equivalent quarters of the members) reduced by any variation credits claimed by those members
 
-  is less than 85% of one-quarter of the head company’s benchmark tax for that consolidation
+  is less than 85% of one-quarter of the head company's benchmark tax for that consolidation
 
   transitional year.
 
@@ -173,6 +173,6 @@ The lesser of those 2 amounts will be reduced by the sum of the instalments actu
 
 For a head company which is a monthly payer and all members of the group are also monthly payers, the above rules for quarterly payers apply as if all references to quarters were references to months.
 
-For a head company which is a monthly payer and any of the other members of the group are quarterly payers (“subsidiary quarterly payers”), the above rules apply as if all references to quarters were references to months. In addition, the quarters of the subsidiary quarterly payers are divided into 3 notional instalment months and the amounts for that quarter are allocated to those notional instalment months.
+For a head company which is a monthly payer and any of the other members of the group are quarterly payers ("subsidiary quarterly payers"), the above rules apply as if all references to quarters were references to months. In addition, the quarters of the subsidiary quarterly payers are divided into 3 notional instalment months and the amounts for that quarter are allocated to those notional instalment months.
 
 ## Penalties for variation of instalments where varied

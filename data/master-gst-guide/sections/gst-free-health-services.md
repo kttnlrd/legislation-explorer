@@ -29,6 +29,6 @@ The health and medical services that are GST-free fall into the following catego
 
 Note also that first aid and life saving courses are GST-free (¶14-002). So are special education courses for children or students with disabilities (¶14-012) and certain occupational health and safety courses (¶14-020).
 
-If a mixture of GST-free and taxable services are provided, the supplier’s records will need to distinguish between the two.
+If a mixture of GST-free and taxable services are provided, the supplier's records will need to distinguish between the two.
 
 Some non-profit healthcare providers, such as hospitals and nursing homes, will qualify as charities and can therefore claim the concessions allowed to charitable institutions (¶15-000).

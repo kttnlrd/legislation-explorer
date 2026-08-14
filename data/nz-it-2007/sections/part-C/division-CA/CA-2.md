@@ -24,9 +24,9 @@ compilation_date: 2026-06-06
 
 - (a) it is their excluded income under a provision in subpart CX (Excluded income) or CZ; and
 
-- (b) it is not their non-residents’ foreign-sourced income.
+- (b) it is not their non-residents' foreign-sourced income.
 
-*Defined in this Act: amount, excluded income, exempt income, non-residents’ foreign-sourced income*
+*Defined in this Act: amount, excluded income, exempt income, non-residents' foreign-sourced income*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -4,41 +4,38 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 29
-  • Div 358
-  • Div 93
-  • Div 99
-  • Division 29
-  • Division 358
-  • Division 75
-  • Division 93
-  • Division 99
-  • Subdivision 105-A
-  • division 105
+ • Div 29
+ • Div 358
+ • Div 93
+ • Div 99
+ • Division 29
+ • Division 358
+ • Division 75
+ • Division 93
+ • Division 99
+ • Subdivision 105-A
+ • division 105
 
 Cases Referenced:
-  • Brien v. Dwyer 
-  • Christie v. Robinson
+ • Brien v. Dwyer 
+ • Christie v. Robinson
 (1907) 4 CLR 1338
-  • Christie v. Robinson (1907) 4 CLR 1338
-  • Foran v. Wight
-  • Foran v. Wight
+ • Christie v. Robinson (1907) 4 CLR 1338
+ • Foran v. Wight
+ • Foran v. Wight
 (1989) 168 CLR 385
-  • Howe v. Smith
+ • Howe v. Smith
 (1884)
-  • Master v. Cameron
+ • Master v. Cameron
 (1954) 91 CLR 353
-  • Masters v Cameron (1954) 91 CLR 353
-  • Reliance Carpet Company Pty Ltd v. Federal Commissioner 
-  • Sunbird Plaza Pty Ltd v. Maloney
+ • Masters v Cameron (1954) 91 CLR 353
+ • Reliance Carpet Company Pty Ltd v. Federal Commissioner 
+ • Sunbird Plaza Pty Ltd v. Maloney
 (1988) 166 CLR 245
-  • Sunbird Plaza Pty Ltd v. Maloney (1988) 166 CLR 245
-  • Taxation v. Reliance Carpet Co Pty Ltd
-
+ • Sunbird Plaza Pty Ltd v. Maloney (1988) 166 CLR 245
+ • Taxation v. Reliance Carpet Co Pty Ltd
 
 Topics: GST, Companies
-
-
 
 ================================================================================
 
@@ -53,7 +50,7 @@ Back to browse
 74 related documents
 Goods and Services Tax Ruling
 GSTR 2000/28
-Goods and services tax:  attributing GST payable or an input tax credit arising from a sale of land under a standard land contract
+Goods and services tax: attributing GST payable or an input tax credit arising from a sale of land under a standard land contract
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -280,7 +277,7 @@ the payment of a deposit under a standard land contract is consideration receive
 Is a standard land contract an invoice for attribution purposes?
 42. An invoice is defined under section 195-1 as 'a document notifying an obligation to make a payment'.
 43. We consider that this definition is designed to capture the essence of a commercial invoice. There is support for this proposition in the New Zealand and Canadian GST jurisdictions.
-44. The New Zealand definition of invoice for GST purposes is very similar to the definition in the Australian GST Act:  'a document notifying an obligation to make payment'.
+44. The New Zealand definition of invoice for GST purposes is very similar to the definition in the Australian GST Act: 'a document notifying an obligation to make payment'.
 [12]
 45. The leading case in New Zealand on what is an invoice for GST purposes,
 Shell NZ Holding Company Ltd v
@@ -289,15 +286,15 @@ CIR
 ,
 [13]
 supports the proposition that the definition of invoice for GST purposes is designed to capture the essence of a commercial invoice.
-46. In that case there were two documents competing as invoices for GST purposes:  an import entry form and a deferred duty statement. The taxpayer was seeking to deduct credits on imported petroleum goods before GST payments were made to Customs. The taxpayer's argument was based on the import entry form being an invoice for GST purposes. The Commissioner of Inland Revenue argued that the input tax credit was not deductible until Customs had sent the taxpayer a deferred duty statement requiring payment. The Commissioner argued that the deferred duty statement was an invoice for GST purposes, not the earlier import entry form.
+46. In that case there were two documents competing as invoices for GST purposes: an import entry form and a deferred duty statement. The taxpayer was seeking to deduct credits on imported petroleum goods before GST payments were made to Customs. The taxpayer's argument was based on the import entry form being an invoice for GST purposes. The Commissioner of Inland Revenue argued that the input tax credit was not deductible until Customs had sent the taxpayer a deferred duty statement requiring payment. The Commissioner argued that the deferred duty statement was an invoice for GST purposes, not the earlier import entry form.
 47. The New Zealand Court of Appeal held that the import entry form was an invoice for GST purposes. In reaching this decision the court commented as follows:
 'Invoices are rendered in commercial transactions where goods are supplied or work is done by one party for another. Invoices record what was done and the charge. It may be a cash or credit transaction and in the latter case it is common for a monthly or other periodic statement to be issued subsequently. Whether payable on delivery or under the credit arrangement the invoice states the price or charge involved. And it is both unnecessary and uncommon in practice for commercial invoices to specify the time for payment.
 In our view the GST obligation is in the same position. The statutory definition of "invoice" recognises that it is not a commercial two party transaction. It uses the central feature of an invoice which is "a document notifying an obligation to make payment". The time for payment is not part of the definition. "Notify" has its ordinary dictionary meaning of "to give notice to -, to inform". Certainly when completed by the Customs officer it is the Customs document and a copy is furnished to the importer. It is the signing of the document by the Customs officer which under the statute is the entry of the goods. It is that act which constitutes the duty as a debt due to the Crown. At that point the document is notice to the importer of the obligation to make payment.'
 [14]
 48. Thus the New Zealand Court of Appeal considered that the GST obligation is in the same position as that of the obligation in commercial invoices, capturing the central feature of a commercial invoice which is a notice of an obligation to pay.
-49. The Canadians have an inclusive definition of invoice for GST purposes:  'invoice includes a statement of account, a bill and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt'.
+49. The Canadians have an inclusive definition of invoice for GST purposes: 'invoice includes a statement of account, a bill and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt'.
 [15]
-Revenue Canada explains this definition as follows:  'An invoice is a document which either notifies a recipient of the obligation to pay or records payment'.
+Revenue Canada explains this definition as follows: 'An invoice is a document which either notifies a recipient of the obligation to pay or records payment'.
 [16]
 Obviously the second part ('records payment') has no relevance to our definition of invoice, but it is significant that their explanation of what an invoice does ('notifies a recipient of the obligation to pay') reflects the very words used in our definition.
 50. The definition of invoice in the GST Act only refers to an 'obligation'. It does not refer to a contingent or conditional obligation, consistent with the essence of a commercial invoice. In the New Zealand High Court judgement in the
@@ -350,7 +347,7 @@ makes this plain:
 [23]
 65A. In
 Reliance Carpet
-the High Court noted at paragraphs 22 to 27 that the term 'deposit' has several aspects. These aspects include that a deposit:  could be counted towards the payment of the purchase price; be brought into account in assessment of damages; be a token provided by the purchaser as 'an earnest to bind the bargain'; and provide a form of security for performance by the purchaser.
+the High Court noted at paragraphs 22 to 27 that the term 'deposit' has several aspects. These aspects include that a deposit: could be counted towards the payment of the purchase price; be brought into account in assessment of damages; be a token provided by the purchaser as 'an earnest to bind the bargain'; and provide a form of security for performance by the purchaser.
 66. A deposit under a standard land contract displays the essential ingredients of a Division 99 deposit.
 [23AA]
 That is, the deposit is liable to forfeiture on failure of the recipient of the supply to perform an obligation under the standard land contract for the supply of land. Division 99, therefore, applies to a deposit under a standard land contract.
@@ -417,7 +414,7 @@ Standard land contracts in Victoria - early release of deposit
 Sale of Land Act
 1962 (Vic) permits the earlier release of deposit moneys by the stakeholder for the vendor's benefit where the contract is not subject to any condition enuring for the benefit of the purchaser, and where the purchaser has accepted title or may be deemed to have accepted title.
 87. Although the deposit is released by the stakeholder to the vendor, the deposit retains its character as a deposit until it is forfeited or applied as consideration. Division 99 still applies to such a deposit. The early release of that deposit does not trigger GST payable on the supply or input tax credits for the acquisition before settlement unless the deposit is forfeited. This is the case, irrespective of the basis you use to account for GST.
-Summary:  how the attribution rules apply to sales of land under standard land contracts
+Summary: how the attribution rules apply to sales of land under standard land contracts
 88. Payment at settlement triggers attribution for sales under standard land contracts. This means that you attribute GST payable when you make a taxable supply under a standard land contract to the tax period in which settlement occurs. Provided you have a tax invoice, you attribute an input tax credit for a creditable acquisition under a standard land contract to the tax period in which settlement occurs.
 [24E]
 This applies if you account on a cash basis or if you do not account on a cash basis.
@@ -435,7 +432,7 @@ the deposit is to be held by Maria as stakeholder for Peter and Marilyn;
 settlement will occur on 30 November 2000; and
 •
 the balance of the purchase price of $297,000 (after adjustments allowed under the contract) will be paid at settlement in exchange for a transfer in Marilyn's name and the certificate of title.
-92. Marilyn pays the deposit to Maria on 14 July 2000. Settlement occurs on 30 November 2000:  Peter exchanges a transfer in Marilyn's name and certificate of title for Marilyn's payment of the balance of the purchase price (after adjustments allowed under the contract). Peter also gives Marilyn a document that satisfies the requirements for a tax invoice. Maria pays the deposit (after deducting her fees) to Peter. Later Marilyn registers the transfer upon the certificate of title.
+92. Marilyn pays the deposit to Maria on 14 July 2000. Settlement occurs on 30 November 2000: Peter exchanges a transfer in Marilyn's name and certificate of title for Marilyn's payment of the balance of the purchase price (after adjustments allowed under the contract). Peter also gives Marilyn a document that satisfies the requirements for a tax invoice. Maria pays the deposit (after deducting her fees) to Peter. Later Marilyn registers the transfer upon the certificate of title.
 93. Peter attributes the $30,000 GST payable (1/11 x $330,000
 [25]
 ) to the tax period in which settlement occurs. As Peter has one month tax periods, the $30,000 GST payable is attributed to the tax period ending 30 November 2000.
@@ -479,7 +476,7 @@ This applies if you account for GST on a cash basis or if you do not account for
 No determination for particular attribution rules necessary for conditional standard land contracts
 101. Under section 29-25 the Commissioner has power to make a determination varying the attribution rules for GST payable on taxable supplies or input tax credits for creditable acquisitions of a specified kind if satisfied that it is necessary to prevent the basic attribution rules under Division 29 and any special rules in Chapter 4 applying in a way that is inappropriate in circumstances described in paragraphs (a) to (g) of subsection 29-25(2).
 102. Paragraph 29-25(2)(f) refers to circumstances involving 'a supply or acquisition made under a contract that is subject to preconditions'.
-103. 'A contract that is subject to preconditions' would include a standard land contract subject to conditions precedent to performance:  non-fulfilment of a condition precedent to performance means that the contract can be avoided by the parties. An example of a condition precedent to performance is a subject to finance term where the performance of the contract is subject to the purchaser obtaining approval of a loan to finance the purchase.
+103. 'A contract that is subject to preconditions' would include a standard land contract subject to conditions precedent to performance: non-fulfilment of a condition precedent to performance means that the contract can be avoided by the parties. An example of a condition precedent to performance is a subject to finance term where the performance of the contract is subject to the purchaser obtaining approval of a loan to finance the purchase.
 104. 'A contract that is subject to preconditions' would not apply to conditions precedent to formation of a contract
 [32]
 as there would not be 'a supply or acquisition under a contract' where the formation of the contract itself is subject to a condition.
@@ -521,7 +518,7 @@ Standard land contracts in Victoria
 -
 early release of deposit
 86
-Summary:  how the attribution rules apply to sales of land under standard land contracts
+Summary: how the attribution rules apply to sales of land under standard land contracts
 88
 Example of how the attribution rules apply to sales under
 standard land contracts
@@ -551,7 +548,7 @@ Western Australia Joint Form of General Conditions for the Sale of Land 1998 rev
 Tasmania Contract for Sale of Real Estate (not for use for sale on terms)
 (copyright of the Law Society of Tasmania).
 [2]
-Goods and Services Tax Ruling GSTR 2000/29 Goods and Services Tax:  attributing GST payable, input tax credits and adjustments.
+Goods and Services Tax Ruling GSTR 2000/29 Goods and Services Tax: attributing GST payable, input tax credits and adjustments.
 [3]
 Subsection 29-5(1).
 [4]
@@ -575,11 +572,11 @@ Subsection 29-10(4).
 [8E]
 Under Division 93, you may cease to be entitled to an input tax credit to the extent that you do not take the credit into account in a GST return you lodge within four years from the due date of the GST return for the tax period to which the credit would have been attributable under subsection 29-10(1) or 29-10(2).
 [9]
-Goods and Services Tax Ruling GSTR 2000/21 Goods and Services Tax:  the margin scheme for supplies of real property held prior to 1 July 2000.
+Goods and Services Tax Ruling GSTR 2000/21 Goods and Services Tax: the margin scheme for supplies of real property held prior to 1 July 2000.
 [9AA]
 However, if you do not take the credit into account in the BAS you lodge for this tax period, the credit is not attributable to the period and is attributable to the first tax period for which you lodge a BAS in which the credit is taken into account (subject to the four-year time limit contained in Division 93)
 [9A]
-The deposit must be a 'security deposit' as defined and explained in GSTR 2006/2 Goods and services tax:  deposits held as security for the performance of an obligation in order to qualify for treatment under Division 99 of the GST Act.
+The deposit must be a 'security deposit' as defined and explained in GSTR 2006/2 Goods and services tax: deposits held as security for the performance of an obligation in order to qualify for treatment under Division 99 of the GST Act.
 [10]
 A stakeholder is a person who holds a deposit not as agent for the vendor but for both the vendor and purchaser until it is decided who is entitled to the deposit.
 [11]
@@ -605,11 +602,11 @@ Shell NZ Holding Company Ltd v. CIR (1993) 15 NZTC 10,136 at 10,139. When this c
 [19]
 Christie v. Robinson (1907) 4 CLR 1338 per Issacs J at 1355.
 [20]
-Refer to GSTR 2006/2 Goods and services tax:  deposits held as security for the performance of an obligation.
+Refer to GSTR 2006/2 Goods and services tax: deposits held as security for the performance of an obligation.
 [21]
 Subsection 99-10(2).
 [21A]
-Refer to GSTR 2006/2 Goods and services tax:  deposits held as security for the performance of an obligation at paragraphs 72 to 87 regarding what is a reasonable amount for a deposit.
+Refer to GSTR 2006/2 Goods and services tax: deposits held as security for the performance of an obligation at paragraphs 72 to 87 regarding what is a reasonable amount for a deposit.
 [22]
 (1884) 27 Ch D 89 at 101-102.
 [23]
@@ -617,7 +614,7 @@ Sale of Land in Queensland (4th ed.), at 88-89.
 [23AA]
 However, if you do not take the credit into account in the BAS you lodge for this tax period, the credit is not attributable to the period and is attributable to the first tax period for which you lodge a BAS in which the credit is taken into account (subject to the four-year time limit contained in Division 93).
 [23A]
-Refer to GSTR 2006/2 Goods and services tax:  deposits held as security for the performance of an obligation, in particular paragraph 20, for a full explanation of the requirements of a 'security deposit' for the purposes of Division 99 of the GST Act.
+Refer to GSTR 2006/2 Goods and services tax: deposits held as security for the performance of an obligation, in particular paragraph 20, for a full explanation of the requirements of a 'security deposit' for the purposes of Division 99 of the GST Act.
 [24]
 Your GST return is part of your BAS.
 [24A]
@@ -649,11 +646,11 @@ The EM in paragraph 6.166 indicates that forfeited deposits should be subject to
 [31A]
 However, if you do not take the credit into account in the BAS you lodge for this tax period, the credit is not attributable to the period and is attributable to the first tax period for which you lodge a BAS in which the credit is taken into account (subject to the four year time limit contained in Division 93).
 [32]
-Conditions precedent to the formation of a contract are rare. An example would be a 'subject to contract' condition in correspondence leading to the informal finalisation of an agreement. In this situation no legal obligations are created until entry into a formal contract:  see Masters v Cameron (1954) 91 CLR 353 at 360-361 (this situation would fall into the second of the three classes outlined by the High Court).
+Conditions precedent to the formation of a contract are rare. An example would be a 'subject to contract' condition in correspondence leading to the informal finalisation of an agreement. In this situation no legal obligations are created until entry into a formal contract: see Masters v Cameron (1954) 91 CLR 353 at 360-361 (this situation would fall into the second of the three classes outlined by the High Court).
 Previously issued in draft form as GSTR 2000/D10
 References
 ATO references:
-NO  99/18258-0
+NO 99/18258-0
 ISSN 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
@@ -686,42 +683,42 @@ vendor
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A99  9-5
-ANTS(GST)A99  9-5(a)
-ANTS(GST)A99  9-10
-ANTS(GST)A99  9-10(2)(e)
-ANTS(GST)A99  9-10(2)(d)
-ANTS(GST)A99  9-10(2)(g)
-ANTS(GST)A99  9-15(1)(a)
-ANTS(GST)A99  9-30(1)(b)
-ANTS(GST)A99  9-30(2)(b)
-ANTS(GST)A99  11-5
-ANTS(GST)A99  11-10(2)(e)
-ANTS(GST)A99  Div 29
-ANTS(GST)A99  29-5
-ANTS(GST)A99  29-5(1)
-ANTS(GST)A99  29-5(2)
-ANTS(GST)A99  29-10(1)
-ANTS(GST)A99  29-10(1)(a)
-ANTS(GST)A99  29-10(1)(b)
-ANTS(GST)A99  29-10(2)
-ANTS(GST)A99  29-10(3)
-ANTS(GST)A99  29-10(4)
-ANTS(GST)A99  29-25
-ANTS(GST)A99  29-25(1)
-ANTS(GST)A99  29-25(2)
-ANTS(GST)A99  29-25(2)(f)
-ANTS(GST)A99  29-80(1)
-ANTS(GST)A99  38-325
-ANTS(GST)A99  38-475
-ANTS(GST)A99  38-480
-ANTS(GST)A99  40-65
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-5(a)
+ANTS(GST)A99 9-10
+ANTS(GST)A99 9-10(2)(e)
+ANTS(GST)A99 9-10(2)(d)
+ANTS(GST)A99 9-10(2)(g)
+ANTS(GST)A99 9-15(1)(a)
+ANTS(GST)A99 9-30(1)(b)
+ANTS(GST)A99 9-30(2)(b)
+ANTS(GST)A99 11-5
+ANTS(GST)A99 11-10(2)(e)
+ANTS(GST)A99 Div 29
+ANTS(GST)A99 29-5
+ANTS(GST)A99 29-5(1)
+ANTS(GST)A99 29-5(2)
+ANTS(GST)A99 29-10(1)
+ANTS(GST)A99 29-10(1)(a)
+ANTS(GST)A99 29-10(1)(b)
+ANTS(GST)A99 29-10(2)
+ANTS(GST)A99 29-10(3)
+ANTS(GST)A99 29-10(4)
+ANTS(GST)A99 29-25
+ANTS(GST)A99 29-25(1)
+ANTS(GST)A99 29-25(2)
+ANTS(GST)A99 29-25(2)(f)
+ANTS(GST)A99 29-80(1)
+ANTS(GST)A99 38-325
+ANTS(GST)A99 38-475
+ANTS(GST)A99 38-480
+ANTS(GST)A99 40-65
 ANTS(GST)A99 75-20
-ANTS(GST)A99  Div 93
-ANTS(GST)A99  Div 99
-ANTS(GST)A99  99-5(1)
-ANTS(GST)A99  99-10(1)
-ANTS(GST)A99  195-1
+ANTS(GST)A99 Div 93
+ANTS(GST)A99 Div 99
+ANTS(GST)A99 99-5(1)
+ANTS(GST)A99 99-10(1)
+ANTS(GST)A99 195-1
 Excise Tax Act (Can) 123(1)
 Goods and Services Tax Act 1985 (NZ) 2
 Sales of Land Act 1962 (Vic) 27

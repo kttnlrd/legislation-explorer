@@ -3,23 +3,17 @@ ATO ID 2014/39
 ==================================================
 
 Superannuation
-        Income Tax: non-arm's length income - related party non-commercial limited recourse borrowing arrangement to acquire listed shares
+ Income Tax: non-arm's length income - related party non-commercial limited recourse borrowing arrangement to acquire listed shares
 
-
-
-This ATO ID is withdrawn due to legislative amendments contained in Tax and Superannuation Laws Amendment (2015 Measures No. 2) Act 2015. This ATO ID has been replaced by  ATO ID 2015/27 Income Tax:  non-arm's length income - related party non-commercial limited recourse borrowing arrangement to acquire listed shares.
+This ATO ID is withdrawn due to legislative amendments contained in Tax and Superannuation Laws Amendment (2015 Measures No. 2) Act 2015. This ATO ID has been replaced by ATO ID 2015/27 Income Tax: non-arm's length income - related party non-commercial limited recourse borrowing arrangement to acquire listed shares.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will ordinary or statutory income derived by a self-managed superannuation fund (the Fund) under the arrangement described below, which involves a limited recourse borrowing arrangement (LRBA), be non-arm's length income of the fund pursuant to section 295-550 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -37,17 +31,13 @@ The lender is the same company in its capacity as trustee of a family trust (the
 Another private company (the Holding Trust Trustee) is the legal owner of the assets acquired with the borrowed money until such time as the relevant loan is repaid.
 The two individuals are also the directors and shareholders of the Holding Trust Trustee.
 The Holding Trust Trustee holds the assets on trust (the Holding Trust) for the Fund Trustee.
-The Holding Trust is established by deed.  Under the terms of the Holding Trust, the Fund Trustee:
-
-
+The Holding Trust is established by deed. Under the terms of the Holding Trust, the Fund Trustee:
 
 • has a vested and indefeasible interest in the assets of the Holding Trust
 • is absolutely entitled to the Holding Trust's assets as against the Holding Trust Trustee, and
 • has a fixed entitlement to the income of the Holding Trust.
 
 The loans between the lender and borrower include the following key features:
-
-
 
 • The total of the amounts borrowed is several million dollars.
 • The term of each loan is 20 years.
@@ -67,10 +57,8 @@ Subsection 295-550(4) of the ITAA 1997 provides that income derived by the entit
 Subsection 295-550(5) of the ITAA 1997 provides:
 
 Other income *derived by the entity as a beneficiary of a trust through holding a fixed entitlement to the income of the trust is
-              non-arm's length income
+ non-arm's length income
  of the entity if:
-
-
 
 (a) the entity acquired the entitlement under a *scheme, or the income was derived under a scheme, the parties to which were not dealing with each other at *arm's length; and
 (b) the amount of the income is more than the amount that the entity might have been expected to derive if those parties had been dealing with each other at arm's length.
@@ -88,16 +76,12 @@ Scheme
 
 For subsection 295-550(5) of the ITAA 1997 to apply there must be a scheme under which the Fund acquired its fixed entitlement to the income of a trust or under which an amount or amounts of ordinary or statutory income derived by the Fund as a beneficiary of a trust was or were so derived. The term 'scheme' is defined in subsection 995-1(1) of the ITAA 1997 to mean:
 
-
-
 (a) any *arrangement; or
 (b) any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
 
 The term 'arrangement' is also defined in subsection 995-1(1) of the ITAA 1997 to mean 'any arrangement, agreement, understanding, promise or undertaking, whether expressed or implied, and whether or not enforceable (or intended to be enforceable) by legal proceedings'.
 The Full Federal Court in Allen v Federal Commissioner of Taxation (2011) 195 FCR 416 considered the term 'arrangement' as defined for the purposes of former subsection 273(7) of the ITAA 1936 - the immediate predecessor of subsection 295-550(5) of the ITAA 1997. That term was defined in the ITAA 1936 in terms almost identical to a combination of the definitions of 'scheme' and 'arrangement' in the ITAA 1997. The court held, at 433-434, that the series of steps undertaken by Mr Allen in directing the trustees of several trusts (including the superannuation fund) led to the results that the superannuation fund received both a fixed interest in the relevant trust estate and the relevant distribution of income from that trust estate. The court also held that each result (that is, the fund's acquisition of its interest in the relevant trust estate and its derivation of income as a beneficiary of that trust) were readily seen to be the consequence of an 'arrangement' to which the various trustees were parties. Further, the court said that was "clearly so, given that the creation of the structure and the flow of funds was orchestrated in conformity with the legal advice obtained by the taxpayers".
 The Full Federal Court's approach shows that, for the purposes of subsection 295-550(5), the scheme may be identified as including the circumstances under which the Fund:
-
-
 
 • acquired its fixed entitlement to the income of a trust; and/or
 • derived an amount or amounts of ordinary or statutory income as a beneficiary of the trust through holding that entitlement.
@@ -110,8 +94,6 @@ Parties to scheme not dealing at arm's length
 The Commissioner considers that in the present case the parties are not dealing with each other at arm's length in relation to the scheme.
 The definition of 'arm's length' in subsection 995-1(1) of the ITAA 1997 provides that in determining whether parties deal at arm's length, consider any connection between them and any other relevant circumstances.
 In Federal Commissioner of Taxation v AXA Asia Pacific Holdings Ltd (2010) 189 FCR 204 at 213 (AXA) Dowsett J summarised propositions which emerge from the numerous cases in which the expression 'not dealing with each other at arm's length' or similar expressions have been considered, as follows:
-
-
 
 • in determining whether parties have dealt with each other at arm's length in a particular transaction, one may have regard to the relationship between them;
 • one must also examine the circumstances of the transaction and the context in which it occurred;
@@ -130,8 +112,6 @@ In this case that means that regard may be had to the establishment and operatio
 It is clear that the parties in this case are not in an arm's length relationship. One company is both the lender and the borrower, albeit in different capacities - one as the Fund Trustee and the other as trustee of the Family Trust. The directors and shareholders of that company are the only members of the Fund. Those two individuals are also the directors and shareholders of the company that is the Holding Trust Trustee.
 But have the parties, in respect of that dealing, dealt with each other as arm's length parties would do, so that the outcome of their dealing is a matter of real bargaining (or put another way, has the inference of non-arm's length dealing between non-arm's length parties that Dowsett J spoke about in AXA has been displaced)?
 Assessing the circumstances holistically, the Commissioner considers that the parties are not dealing with each other in relation to the scheme as arm's length parties would do. Aspects which, taken together, the Commissioner considers lead to that conclusion include:
-
-
 
 • The lender is not by way of charging interest under the loans or by any other means compensated for the opportunity cost in lending the principal to the Fund Trustee or for the additional risk assumed in relation to recovery of the principal in the event of the borrower's default under a loan given the limited recourse nature of the loans and lack of other security.
 • Rather than regular periodic repayments of the principal sum, only a single lump repayment at the end of a loan term, 20 years, is required.
@@ -154,10 +134,10 @@ Conclusion
 Any ordinary or statutory income derived by the Fund as beneficiary of the Holding Trust is non-arm's length income of the Fund.
 
 Date of decision:
-         30 January 2014
+  30 January 2014
 
 Year of income:
-           2013-14 to 2016-17
+  2013-14 to 2016-17
 
 Legislative References:
 
@@ -168,7 +148,6 @@ Taxation Administration Act 1953   Section 357-85 of Schedule 1
 
 Case References:
 
-
 Allen v Federal Commissioner of Taxation   (2011) 195 FCR 416
 
 SCCASP Holdings Pty Ltd v Federal Commissioner of Taxation   (2013) 211 FCR 332
@@ -176,7 +155,6 @@ SCCASP Holdings Pty Ltd v Federal Commissioner of Taxation   (2013) 211 FCR 3
 The Trustee for the MH Ghali Superannuation Fund and Commissioner of Taxation   [2012] AATA 527
 
 Federal Commissioner of Taxation v AXA Asia Pacific Holdings Ltd   (2010) 189 FCR 204
-
 
 Related Public Rulings (including Determinations)
 
@@ -189,32 +167,28 @@ Related ATO Interpretative Decisions
 Keywords
 
 Superannuation
-          Complying superannuation funds
-          Taxation of superannuation entities
-          Special income of superannuation funds
-          Low tax component - superannuation funds
-          Non-arm's length income - superannuation funds
-
+ Complying superannuation funds
+ Taxation of superannuation entities
+ Special income of superannuation funds
+ Low tax component - superannuation funds
+ Non-arm's length income - superannuation funds
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         12 December 2014
+  12 December 2014
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 12 December 2014

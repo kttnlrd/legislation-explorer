@@ -9,21 +9,21 @@ paragraph: "None"
 
 Worked example: Administrative penalties under the uniform penalty regime Issue Dorothy Stevens owns and operates a hairdressing salon. Her clients can pay up to $150 for her services.
 
-Some of her clients are accountants and tax agents from whom she seeks advice about her tax affairs. In addition to paying for their hair treatments, a number of clients also “tip” Dorothy for her skill and personal attention.
+Some of her clients are accountants and tax agents from whom she seeks advice about her tax affairs. In addition to paying for their hair treatments, a number of clients also "tip" Dorothy for her skill and personal attention.
 
 During the 2024–25 income year, Dorothy declared a taxable income of $95,000 in her income tax return.
 
-However, Dorothy failed to include “tips” received during the year, amounting to $6,500. Further, Dorothy failed to include a balancing adjustment from the disposal of hairdressing equipment, where the termination value exceeded the adjustable value by $3,800.
+However, Dorothy failed to include "tips" received during the year, amounting to $6,500. Further, Dorothy failed to include a balancing adjustment from the disposal of hairdressing equipment, where the termination value exceeded the adjustable value by $3,800.
 
-Following a tax audit, the Commissioner issued Dorothy with a notice of an amended assessment which increased Dorothy’s taxable income by $10,300. The Commissioner also imposed an administrative penalty of 25% under the administrative penalty regime as well as a general interest charge (GIC). Although Dorothy accepts the amended assessment she would like to appeal against the imposition of the administrative penalty and the GIC.
+Following a tax audit, the Commissioner issued Dorothy with a notice of an amended assessment which increased Dorothy's taxable income by $10,300. The Commissioner also imposed an administrative penalty of 25% under the administrative penalty regime as well as a general interest charge (GIC). Although Dorothy accepts the amended assessment she would like to appeal against the imposition of the administrative penalty and the GIC.
 
 Advise Dorothy Stevens on the basis for calculation of penalties and defences under the uniform penalty regime and the GIC.
 
 Solution The uniform penalty regime in TAA Sch 1, Pt 4-25 imposes administrative penalties across a range of breaches of the taxation law, such as, failure to lodge documents or making false or misleading statements in respect of income tax law.
 
-The penalties are based on “penalty units”. From 1 July 2024, the dollar value of one penalty unit is $330 (for the period from 1 July 2023 to 30 June 2024, it was $313). In general, there is a “base penalty” amount, which may be increased or decreased or remitted depending on aggravating or mitigating factors. There are a number of defences available to taxpayers for arguing for a reduction or remission of administrative penalties.
+The penalties are based on "penalty units". From 1 July 2024, the dollar value of one penalty unit is $330 (for the period from 1 July 2023 to 30 June 2024, it was $313). In general, there is a "base penalty" amount, which may be increased or decreased or remitted depending on aggravating or mitigating factors. There are a number of defences available to taxpayers for arguing for a reduction or remission of administrative penalties.
 
-A common reason for the imposition of an administrative penalty is a “taxation shortfall”, where tax paid was less than properly payable, as shown on the amended assessment (TAA Sch 1 s 284-80).
+A common reason for the imposition of an administrative penalty is a "taxation shortfall", where tax paid was less than properly payable, as shown on the amended assessment (TAA Sch 1 s 284-80).
 
 The GIC is imposed where, for example, there is an underpayment of tax following an amended assessment or a failure to pay tax by the due date. It is intended to discourage taxpayers from not paying tax due or not paying on time. The GIC is calculated under TAA s 8AAC, on a compounding daily basis, by adding 7% to the basic interest rate (being the monthly average yield on 90-day bank accepted bills).
 
@@ -31,19 +31,19 @@ Division 284 tax shortfall penalties TAA Div 284 sets out the circumstances in w
 
 A taxpayer will be liable for an administrative penalty if they make a statement about a tax-related matter that is false or misleading in a material particular to the Commissioner (TAA Sch 1 s 284-75). A statement may be false or misleading either because of things contained in it or omitted from it, such as, omitting income that is assessable or claiming a deduction where expenditure has not been incurred.
 
-Where the statement leads to a “tax shortfall” (Practice Statement PS LA 2012/5) the “base penalty” is a set percentage of the shortfall, ranging from 75% down to 25% of the shortfall amount (s 284-90).
+Where the statement leads to a "tax shortfall" (Practice Statement PS LA 2012/5) the "base penalty" is a set percentage of the shortfall, ranging from 75% down to 25% of the shortfall amount (s 284-90).
 
 There are defences available to the taxpayer where no administrative penalty will be imposed:
 
 - the taxpayer has taken reasonable care, and
 
-- the taxpayer’s position is reasonably arguable.
+- the taxpayer's position is reasonably arguable.
 
   Taxpayer has taken reasonable care (s 284-75(5))
 
 Where the shortfall amount is caused by the failure of the taxpayer to take reasonable care to comply with the taxation laws, the taxpayer is liable to a penalty of 25%. Reasonable care requires the taxpayer to take the same care in fulfilling their tax obligations as could be expected of a reasonable person in their shoes and will depend on the facts and circumstances of each case. Miscellaneous Taxation Ruling MT 2008/1 provides some guidance. Reasonable care takes into account:
 
-- the taxpayer’s personal circumstances
+- the taxpayer's personal circumstances
 
 - whether the taxpayer carries on a business
 
@@ -51,13 +51,13 @@ Where the shortfall amount is caused by the failure of the taxpayer to take reas
 
 - whether the taxpayer has obtained a private ruling.
 
-  Taxpayer’s position is reasonably arguable
+  Taxpayer's position is reasonably arguable
 
-A separate defence is to argue that the taxpayer has taken a “reasonably arguable position”. If this is not accepted the penalty is 25% of the shortfall amount, if the shortfall amount exceeds the “reasonably arguable threshold” of $10,000 or 1% of the income tax payable (s 284-90, item 4).
+A separate defence is to argue that the taxpayer has taken a "reasonably arguable position". If this is not accepted the penalty is 25% of the shortfall amount, if the shortfall amount exceeds the "reasonably arguable threshold" of $10,000 or 1% of the income tax payable (s 284-90, item 4).
 
-The test for reasonably arguable is whether, having regard to relevant authorities, it would be concluded that the taxpayer’s argument is about as likely to be correct as incorrect, or more likely to be correct than incorrect (s 284-15(1)). The Commissioner’s views are expressed in Miscellaneous Taxation Ruling MT 2008/2.
+The test for reasonably arguable is whether, having regard to relevant authorities, it would be concluded that the taxpayer's argument is about as likely to be correct as incorrect, or more likely to be correct than incorrect (s 284-15(1)). The Commissioner's views are expressed in Miscellaneous Taxation Ruling MT 2008/2.
 
-The relevant authorities to be taken into account in determining whether the taxpayer’s position is reasonably arguable include taxation laws, decisions of courts or tribunals, extrinsic materials and public rulings (TAA Sch 1 s 284-15(3); see Walstern Pty Ltd v FC of T 2003 ATC 5076).
+The relevant authorities to be taken into account in determining whether the taxpayer's position is reasonably arguable include taxation laws, decisions of courts or tribunals, extrinsic materials and public rulings (TAA Sch 1 s 284-15(3); see Walstern Pty Ltd v FC of T 2003 ATC 5076).
 
 Calculating the base penalty The base penalty amount is worked out using the table in s 284-90(1). Where the shortfall amount is the result of:
 
@@ -119,15 +119,15 @@ By not paying the correct amount of tax on time, Dorothy leaves herself open to 
 
 The Commissioner has not found that Dorothy intentionally or recklessly made the false or misleading statement. The Commissioner has imposed a 25% base penalty on the grounds that Dorothy did not take reasonable care in the preparation and submission of her income tax return.
 
-In practice, the Commissioner would be likely to provide penalty relief to Dorothy. This is on the basis that the error was inadvertent and due to Dorothy’s failure to take reasonable care or that she took a position that was not reasonably arguable.
+In practice, the Commissioner would be likely to provide penalty relief to Dorothy. This is on the basis that the error was inadvertent and due to Dorothy's failure to take reasonable care or that she took a position that was not reasonably arguable.
 
 If Dorothy has previously had penalty relief applied in the past 3 years, penalty relief would not be available for this period and penalties would apply.
 
-In that event, Dorothy is not able to use the “reasonably arguable position” defence as her penalty does not exceed her “reasonably arguable threshold” of $10,000 for the income year.
+In that event, Dorothy is not able to use the "reasonably arguable position" defence as her penalty does not exceed her "reasonably arguable threshold" of $10,000 for the income year.
 
 There are no aggravating or remission factors which apply to increase, reduce or remit the base penalty.
 
-Dorothy is advised that she can lodge an objection against the Commissioner’s amended assessment (ITAA36 s 175A) and establish that she has taken reasonable care in the preparation and submission of her income tax return. If she is able to establish this, the base penalty amount should be remitted. The objection must demonstrate that the assessment is incorrect and what the correct assessment should be.
+Dorothy is advised that she can lodge an objection against the Commissioner's amended assessment (ITAA36 s 175A) and establish that she has taken reasonable care in the preparation and submission of her income tax return. If she is able to establish this, the base penalty amount should be remitted. The objection must demonstrate that the assessment is incorrect and what the correct assessment should be.
 
 Dorothy can argue that she did take reasonable care in that she sought taxation advice from her clients who are qualified accountants and tax agents. Further, Dorothy can argue that the tips were not in relation to the hairdressing services she provided, for which she was well remunerated, but were mere gifts inspired by goodwill and personal gratitude (Scott v FC of T (1966) 117 CLR 514).
 

@@ -3,18 +3,14 @@ ATO ID 2002/7
 ==================================================
 
 Goods and Services Tax
-        GST and supply of commercial premises with an expired lease as a going concern
-        FOI status: may be released
-
-
+ GST and supply of commercial premises with an expired lease as a going concern
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a landlord, making a GST-free supply of a going concern under section 38-325 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells commercial premises which are the subject of a monthly periodic tenancy under the terms of an expired lease?
@@ -27,8 +23,6 @@ Both the entity and the purchaser are registered for goods and services tax (GST
 Reasons for Decision
 The 'supply of a going concern' is GST-free where the requirements of section 38-325 of the GST Act are met.
 Subsection 38-325(2) of the GST Act states that a 'supply of a going concern' is a supply under an arrangement under which:
-
-
 
 •the supplier supplies to the recipient all of the things that are necessary for the continued operation of an enterprise; and
 •the supplier carries on, or will carry on, the enterprise until the day of the supply (whether or not as a part of a larger enterprise carried on by the supplier).
@@ -44,15 +38,12 @@ In this case, the lease with the tenant has expired and the tenant is occupying 
 
 65. However, if upon expiration of a lease, the tenant is allowed to continue in possession pursuant to a short term periodic tenancy, the new periodic tenancy may be capable of assignment. A periodic tenancy means that the tenant pays rent to the landlord with reference to a period and therefore has a legally enforceable right to occupy the premises for a period.
 
-
 66. The law of the States and Territories may prescribe certain requirements which will have to be met in respect of the creation or assignment pf such tenancies. A supplier who occupies premises under a periodic tenancy therefore can supply the right to occupy the premises to a recipient and would not be precluded from making a supply of a going concern in circumstances where the premises were a thing necessary for the continued operation of the relevant enterprise.
 
 (A similar explanation appeared in paragraph 63 of GSTR 2001/5, which was withdrawn and replaced by GSTR 2002/5 with effect from 16 October 2002.)
 Paragraph 66 deals with the situation whereby the supplier is the lessee of premises occupied under a periodic tenancy. However, it is considered that the principle in paragraph 66 applies equally to the situation where the supplier is the lessor of commercial premises which it owns. Therefore, a supplier who leases premises to a tenant under a periodic tenancy, is able to supply the property subject to a periodic tenancy to another party.
 As the entity is supplying the commercial premises subject to the monthly periodic tenancy, the purchaser will be able to continue the enterprise of leasing if it chooses. Therefore, the entity is supplying to the purchaser all of the things necessary for the continued operation of an enterprise under paragraph 38-325(2)(a) of the GST Act. As such, the entity is making a supply of a going concern under subsection 38-325(2) of the GST Act.
 Subsection 38-325(1) of the GST Act provides that a 'supply of a going concern' is GST-free if:
-
-
 
 •the supply is for consideration; and
 •the recipient is registered or required to be registered for GST; and
@@ -61,7 +52,7 @@ Subsection 38-325(1) of the GST Act provides that a 'supply of a going concern' 
 In this case, the supply of the commercial premises is for consideration, the purchaser is registered for GST and the entity and the purchaser have agreed in writing that the supply is of a going concern. As such, the requirements in subsection 38-325(1) of the GST Act are satisfied.
 Therefore, the entity is making a GST-free supply of a going concern under section 38-325 of the GST Act when it sells commercial premises which are the subject of a monthly periodic tenancy under the terms of an expired lease.
 Date of decision:
-         7 September 2001
+  7 September 2001
 
 Legislative References:
 
@@ -76,18 +67,17 @@ GSTR 2002/5
 Keywords
 
 Goods & services tax
-          GST free
-          GST supply of going concern
-
+ GST free
+ GST supply of going concern
 
 Siebel/TDMS Reference Number:
-         CW233957
+  CW233957
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         9 January 2002
+  9 January 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

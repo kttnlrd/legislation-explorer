@@ -1,0 +1,43 @@
+---
+country: "Turkey"
+country_slug: "turkey"
+treaty_schedule: 51
+article: 24
+title: "Article 24 — Exchange of Information"
+---
+# Article 24 — Exchange of Information
+Turkish Convention
+CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
+Non-discrimination
+1.
+Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected.
+2.
+Subject to the provisions of paragraph 4 of Article 10 of this Convention, the taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities in similar circumstances.
+3.
+Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11 or paragraph 6 of Article 12 of this Convention apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
+4.
+Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State in similar circumstances are or may be subjected.
+5.
+Nothing contained in this Article shall be construed as obliging a Contracting State to grant to individuals who are residents of the other Contracting State any of the personal allowances, reliefs and reductions for tax purposes which are granted to its own residents.
+6.
+This Article shall not apply to any provision of the laws of a Contracting State which:
+(a)
+is designed to prevent the avoidance or evasion of taxes;
+(b)
+does not permit the deferral of tax arising on the transfer of an asset where the subsequent transfer of the asset by the transferee would be beyond the taxing jurisdiction of the Contracting State under its laws;
+(c)
+provides for consolidation of group entities for treatment as a single entity for tax purposes provided that Australian companies that are owned directly or indirectly by residents of Turkey can access such consolidation treatment on the same terms and conditions as other Australian companies;
+(d)
+provides deductions to eligible taxpayers for expenditure on research and development; or
+(e)
+is otherwise agreed to be unaffected by this Article in an Exchange of Notes between the Government of Australia and the Government of the Republic of Turkey.
+7.
+In this Article, provisions of the laws of a Contracting State which are designed to prevent avoidance or evasion of taxes include:
+(a)
+measures designed to address thin capitalisation, dividend stripping and transfer pricing;
+(b)
+controlled foreign company, transferor trusts and foreign investment fund rules; and
+(c)
+measures designed to ensure that taxes can be effectively collected and recovered, including conservancy measures.
+8.
+The provisions of this Article shall apply to the taxes which are the subject of this Convention.

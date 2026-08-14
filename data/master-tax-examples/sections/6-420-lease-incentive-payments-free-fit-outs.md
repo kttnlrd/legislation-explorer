@@ -13,7 +13,7 @@ Noreast spent $120,000 (net of GST) on the shop fit-out. All the money was spent
 
 Explain the tax treatment of the $110,000 from the landlord in the tax computations of both the landlord and the tenant. Should it be recorded by Noreast as income, with the $120,000 spent on the fit-out recorded as a capital cost depreciated at 2.5% per year (and the landlord claiming a full deduction for the $110,000)?
 
-Or should the $110,000 offset the $120,000 spent on the shop fit-out in Noreast’s tax computation, leaving $10,000 (net) as the capital cost to depreciate at 2.5% per year?
+Or should the $110,000 offset the $120,000 spent on the shop fit-out in Noreast's tax computation, leaving $10,000 (net) as the capital cost to depreciate at 2.5% per year?
 
 The turnover of Noreast is greater than $10 million and it pays tax at a rate of 25%.
 
@@ -21,9 +21,9 @@ Solution Lease incentives are commonly used by landlords to entice tenants to en
 
 Tenant owns fit-out This is the most common scenario, with the landlord essentially providing payment to the tenant in cash, for the tenant to then spend on items associated with the fit-out, such as joinery, electrical work, plumbing and tiling.
 
-One of the reasons this is the most common scenario is because the landlord obtains an immediate deduction against profits for the whole $110,000, under s 8-1(b) ITAA97, as it is a payment which is necessarily incurred in carrying on the landlord’s business for the purposes of gaining or producing assessable income (as the landlord must pay the incentive in order to obtain tenants and thereby produce rental income).
+One of the reasons this is the most common scenario is because the landlord obtains an immediate deduction against profits for the whole $110,000, under s 8-1(b) ITAA97, as it is a payment which is necessarily incurred in carrying on the landlord's business for the purposes of gaining or producing assessable income (as the landlord must pay the incentive in order to obtain tenants and thereby produce rental income).
 
-However, from the tenant’s perspective, the result is less attractive. The tenant will be considered to have derived an assessable amount equal to the full cash incentive, meaning that the $110,000 received is fully taxable upfront.
+However, from the tenant's perspective, the result is less attractive. The tenant will be considered to have derived an assessable amount equal to the full cash incentive, meaning that the $110,000 received is fully taxable upfront.
 
 The costs associated with the fit-out will at best be treated as money expended on the acquisition of plant (in which case, that portion of the cost can be depreciated over the effective life of the plant — Div 40 ITAA97) and, at worst, as a capital works deduction, depreciated over 40 years (equal to a write-off of only 2.5% per year, under Div 43).
 
@@ -35,7 +35,7 @@ Therefore, assuming the amounts spent are indeed capital works deductions, this 
 
 Landlord owns fit-out A second option for fit-out incentives is that the landlord owns the fit-out up to the amount of the contribution.
 
-In this case, the tenant does not receive “income” and cannot claim a deduction (except for the excess over the amount contributed, in this case $10,000, which can be written off under Div 43, at 2.5% per year).
+In this case, the tenant does not receive "income" and cannot claim a deduction (except for the excess over the amount contributed, in this case $10,000, which can be written off under Div 43, at 2.5% per year).
 
 Therefore, where the amount contributed equals the amount spent, the position for the tenant is broadly tax neutral.
 

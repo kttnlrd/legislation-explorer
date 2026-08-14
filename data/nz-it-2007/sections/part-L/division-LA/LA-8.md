@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a person’s tax credit remaining for a tax year under section LA 5(5), if it is a tax credit under section LB 5 (Tax credits for non-resident withholding tax).
+**(1)**  This section applies to a person's tax credit remaining for a tax year under section LA 5(5), if it is a tax credit under section LB 5 (Tax credits for non-resident withholding tax).
 
 **Use of credits**
 

@@ -7,7 +7,7 @@ paragraph: "¶20-000"
 ---
 # The general anti-avoidance provision ¶20-000
 
-The GST legislation adopts a general anti-avoidance provision — sometimes referred to as “GAP” or “GAAP” — rather than discrete, potentially complex, anti-avoidance measures addressing specific schemes. The Div 165 general anti-avoidance provision is similar to Pt IVA of the income tax legislation, allowing the
+The GST legislation adopts a general anti-avoidance provision — sometimes referred to as "GAP" or "GAAP" — rather than discrete, potentially complex, anti-avoidance measures addressing specific schemes. The Div 165 general anti-avoidance provision is similar to Pt IVA of the income tax legislation, allowing the
 
 - cancel GST benefits
 
@@ -19,7 +19,7 @@ Although Div 165 is similar to Pt IVA, Div 165 is broadly worded to reflect the 
 
 The broad wording of Div 165 gives it potential application to apparently innocuous transactions such as a purchaser insisting on receiving a tax invoice so as to enable it to claim an ITC. While that situation may technically be within the terms of the legislation, the statements in s 165-1 noted below, it is suggested make it extremely unlikely that the anti-avoidance provisions would be applied in such situations.
 
-Similar to the income tax legislation, the “choice” principle applies (¶20-040), namely Div 165 does not apply to GST benefits that flow from making a choice that is expressly provided by the legislation. Section 165-1 includes the following examples of where the anti-avoidance rules are not intended to be applied:
+Similar to the income tax legislation, the "choice" principle applies (¶20-040), namely Div 165 does not apply to GST benefits that flow from making a choice that is expressly provided by the legislation. Section 165-1 includes the following examples of where the anti-avoidance rules are not intended to be applied:
 
 - an exporter elects to have monthly tax periods in order to bring forward the entitlement to input tax
 
@@ -37,7 +37,7 @@ Commissioner considers that Div 165 may apply to certain uncommercial marketing 
 
 *Refs: s 165-1*
 
-- the division is “aimed at artificial and contrived schemes” (confirmed in FC of T v ACN 154 520 199
+- the division is "aimed at artificial and contrived schemes" (confirmed in FC of T v ACN 154 520 199
 
   Pty Ltd (in liq) 2025 ATC ¶20-977; [2025] FCAFC 146)
 
@@ -61,7 +61,7 @@ The government has also indicated that Div 165 is not intended to apply in situa
 
 *Refs: s 182-10)*
 
-- vehicles were artificially “used” so as to become second-hand, with the dominant purpose of obtaining
+- vehicles were artificially "used" so as to become second-hand, with the dominant purpose of obtaining
 
   ITCs (¶12-120)
 
@@ -79,7 +79,7 @@ The government has also indicated that Div 165 is not intended to apply in situa
 
 - property developers seek to exploit the joint venture provisions or the grouping provisions to avoid
 
-GST on the sale of new residential premises. This is done by artificially creating an “internal sale” of new home units by a joint venture operator or group member, so as to support a claim that the units are no longer “new residential premises” (¶11-020) and therefore not subject to GST: see ¶17-210
+GST on the sale of new residential premises. This is done by artificially creating an "internal sale" of new home units by a joint venture operator or group member, so as to support a claim that the units are no longer "new residential premises" (¶11-020) and therefore not subject to GST: see ¶17-210
 
 - associates are used to minimise GST under certain real estate schemes (GST Ruling GSTR 2010/1
 
@@ -101,7 +101,7 @@ Illustration: Sham A supplier and a purchaser agree to create a tax invoice for 
 
 WET and LCT The anti-avoidance rules in Div 165 also cover avoidance schemes involving WET or luxury car tax (LCT).
 
-Countering “Phoenix” activities Under certain types of so-called “phoenix” schemes, the payment of tax is avoided through the systematic liquidation of related entities to which the taxpayer’s assets have been passed. It remains untested whether
+Countering "Phoenix" activities Under certain types of so-called "phoenix" schemes, the payment of tax is avoided through the systematic liquidation of related entities to which the taxpayer's assets have been passed. It remains untested whether
 
 - the aim is simply to avoid payment of a tax liability, as distinct from reducing its amount, and
 
@@ -125,11 +125,11 @@ To address this uncertainty, the Commissioner may require taxpayers to lodge sec
 
   See further ATO Illegal phoenix activity webpage.
 
-Along with the cash economy (¶21-045), phoenix activities are treated as part of the “shadow”, or “black” economy. This is currently a major focus of ATO compliance activity (¶18-182). ATO activities extend to investigation of tax advisor misconduct (¶20-100).
+Along with the cash economy (¶21-045), phoenix activities are treated as part of the "shadow", or "black" economy. This is currently a major focus of ATO compliance activity (¶18-182). ATO activities extend to investigation of tax advisor misconduct (¶20-100).
 
 ## Commissioner to:
 
-## In addition, the “explanatory section” s 165-1, states that:
+## In addition, the "explanatory section" s 165-1, states that:
 
 ## The Commissioner has also suggested that Div 165 may apply where:
 

@@ -3,18 +3,14 @@ ATO ID 2013/3
 ==================================================
 
 Income Tax
-        Income tax: United States Umbrella Partnership Real Estate Investment Trust arrangement and management investment trusts
-        FOI status: may be released
-
-
+ Income tax: United States Umbrella Partnership Real Estate Investment Trust arrangement and management investment trusts
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a United States Limited Partnership (US LP) that is a member of an Australian trust and operating in an 'umbrella partnership real estate investment trust' (UPREIT) arrangement, an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the Taxation Administration Act 1953 (TAA) (repealed and replaced with section 275-20 of the Income Tax Assessment Act 1997 (ITAA 1997) effective 1 July 2016).
@@ -30,8 +26,6 @@ US REIT is formed under the Corporations and Associations of the Annotated Code 
 US LP is an operating partnership as part of an UPREIT arrangement with US REIT.
 As part of the UPREIT arrangement between US LP and US REIT, the LP Agreement provides that the business conducted by US LP shall be limited to and conducted in such a manner as to permit the US REIT (as it's General Partner) at all times to be classified as a REIT.
 To ensure US REIT maintains its REIT status, the UPREIT arrangement with US LP involves the following conditions:
-
-
 
 •US REIT is the sole General Partner of US LP;
 •US LP holds substantially all of the assets indirectly owned by US REIT and its ownership interests in US REIT's joint ventures;
@@ -52,8 +46,6 @@ Paragraph 12-402(3)(e) of Schedule 1 to the TAA specifies:
 
 an entity:
 
-
-
 (i)that is recognised under a *foreign law as being used for collective investment by pooling the contributions of its members as consideration to acquire rights to benefits produced by the entity; and
 (ii)that has at least 50 members; and
 (iii)the contributing members of which do not have day-to-day control over the entity's operation.
@@ -63,8 +55,6 @@ According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (
 ... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity.
 
 Therefore, US LP must satisfy each of the following requirements:
-
-
 
 •it must be recognised under a foreign law as being used for collective investment;
 •there must be a pooling of contributions of US LP's members as consideration to acquire rights to benefits produced by US LP;
@@ -81,8 +71,6 @@ The DRULP Act requires that the limited partnership is formed by two or more per
 However, US LP is an 'operating partnership' within an UPREIT arrangement involving US REIT. As part of this arrangement, US LP must operate the business so as to ensure that US REIT maintains its status as a REIT under the US IRC.
 To this end, the LP Agreement provides that the business conducted by US LP shall be limited to and conducted in such a manner as to permit the US REIT (as it's General Partner) at all times to be classified as a REIT.
 The UPREIT arrangement also involves US LP, as the operating partnership:
-
-
 
 •holding substantially all of the assets indirectly owned by US REIT and its ownership interests in US REIT's joint ventures;
 •conducting the operation of the business and being structured as a partnership with no publicly traded equity; and
@@ -131,19 +119,18 @@ Reasons for Decision
 Inserted new legislative reference (section 275-20)
 
 Date of decision:
-         21 December 2012
+  21 December 2012
 
 Year of income:
-           Year ending 30 June 2013
+  Year ending 30 June 2013
 
 Legislative References:
 
 Taxation Administration Act 1953   Schedule 1, subsection 12-402(1)   Schedule 1, paragraph 12-402(1)(f)   Schedule 1, subsection 12-402(3)   Schedule 1, paragraph 12-402(3)(e)
 Income Tax Assessment Act 1997   subsection 995-1(1)   section 275-10   section 275-20
 Delaware Revised Uniform Limited Partnership Act (United States)   
-          Internal Revenue Code 1986 (United States)   
-          Annotated Code of Maryland (United States)   
-
+ Internal Revenue Code 1986 (United States)   
+ Annotated Code of Maryland (United States)   
 
 Related Public Rulings (including Determinations)
 
@@ -156,23 +143,22 @@ Other References:
 Keywords
 
 Collective investment vehicles
-          Investment trusts
-          Limited partnerships
-          PAYG withholding
-          United States
-
+ Investment trusts
+ Limited partnerships
+ PAYG withholding
+ United States
 
 Siebel/TDMS Reference Number:
-         1-4FMCI4W; 1-7YQ8GIL; 1-E8ZMSQX
+  1-4FMCI4W; 1-7YQ8GIL; 1-E8ZMSQX
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         11 January 2013
+  11 January 2013
 
 Date reviewed:
-         19 July 2018
+  19 July 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -3,20 +3,16 @@ ATO ID 2003/37
 ==================================================
 
 Capital Gains Tax
-        CGT roll-over: whether a partnership can be a member of a 'wholly owned group'
-        FOI status: may be released
-
+ CGT roll-over: whether a partnership can be a member of a 'wholly owned group'
+ FOI status: may be released
 
 This ATO ID has been amended by deleting a paragraph that refers to subection 975-100(1) of the ITAA 1997 which was repealed with effect from 1 April 2005 by Tax Laws Amendment Act (2004 Measures No 7) 2005.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If an unlimited general partnership formed under a foreign partnership law is a 'company' for tax purposes, does it qualify as a member of the same 'wholly-owned group' as required by subsection 126-50(1) of the Income Tax Assessment Act 1997 (ITAA 1997), so as to enable its partners to obtain capital gains tax (CGT) roll-over on contributing shares to the partnership?
@@ -41,8 +37,6 @@ Subsection 995-1(1) of the ITAA 1997 defines 'share' in a company to mean 'a sha
 Paragraph 22 of Taxation Ruling TR 94/30 states that 'an often-used description of a share is that it is an aliquot interest of a shareholder in a company as measured by a sum of money.'
 'Company' is defined in subsection 995-1(1) of the ITAA 1997 as:
 
-
-
 a) a body corporate; or
 b) any other unincorporated association or body of persons; but does not include a partnership or a non-entity joint venture.
 
@@ -65,17 +59,15 @@ A partnership interest is different in legal nature to a share in the capital of
 Tomasic R, Bottomley S & McQueen R,2002, Corporations Law in Australia, The Federation Press, Australia, p.447, expresses such a view that the share, although a fraction of the capital, is the property of the shareholder entirely distinct from the company's property.
 Even if a partnership is characterised as a company for the purposes of subsection 995-1(1) of the ITAA 1997, it cannot be a member of the same 'wholly-owned group' for the purposes of section 975-505 of the ITAA 1997 given that:
 
-
-
 •it is not an incorporated company; and
 •the partnership interests held by the partners do not constitute shares in the capital of a company.
 
 The requirement in subsection 126-50(1) of the ITAA 1997 for roll-over is not satisfied. The partners are not able to obtain CGT roll-over on contributing shares to the partnership.
 Date of decision:
-         21 June 2002
+  21 June 2002
 
 Year of income:
-           Year ended 30 June 2002 Year ending 30 June 2003
+  Year ended 30 June 2002 Year ending 30 June 2003
 
 Legislative References:
 
@@ -83,9 +75,7 @@ Income Tax Assessment Act 1997   Subdivision 126-B   subsection 126-50(1)�
 
 Case References:
 
-
 Federal Commissioner of Taxation v. Everett   (1980) 143 CLR 440   80 ATC 4076   10 ATR 608
-
 
 Related Public Rulings (including Determinations)
 
@@ -94,28 +84,26 @@ Taxation Ruling TR 94/30
 Other References:
 
 The Macquarie Dictionary, 3rd edition, 1997, Macquarie University, NSW
-          Tomasic, R, Jackson J, Woellner R 2002 Corporations Law: Principles, Policy and Process, 4th edn, Butterworths, Australia, p.215
-          Tomasic, R, Bottomley S & McQueen R,2002, Corporations Law in Australia, The Federation Press, Australia, p.447
-
+ Tomasic, R, Jackson J, Woellner R 2002 Corporations Law: Principles, Policy and Process, 4th edn, Butterworths, Australia, p.215
+ Tomasic, R, Bottomley S & McQueen R,2002, Corporations Law in Australia, The Federation Press, Australia, p.447
 
 Keywords
 
 CGT roll-over relief
-          Non resident partnerships
-          Ownership, interests, control & rights
-          Exchange of shares
-          CGT event A1-disposal of a CGT asset
-          CGT companies in the same wholly owned group
-
+ Non resident partnerships
+ Ownership, interests, control & rights
+ Exchange of shares
+ CGT event A1-disposal of a CGT asset
+ CGT companies in the same wholly owned group
 
 Siebel/TDMS Reference Number:
-         CW376521
+  CW376521
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 February 2003
+  28 February 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

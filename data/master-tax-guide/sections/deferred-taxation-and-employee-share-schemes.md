@@ -21,11 +21,11 @@ paragraph: "¶10-089"
 
 (s 83A-100).
 
-The “ESS deferred taxing point” is deﬁned in s 83A-115 for shares and in s 83A-120 for rights to acquire shares. Broadly, it is the point of time when the taxpayer’s period of deferral in assessment comes to an end and they become assessable on any gain over the time of holding the interest.
+The "ESS deferred taxing point" is deﬁned in s 83A-115 for shares and in s 83A-120 for rights to acquire shares. Broadly, it is the point of time when the taxpayer's period of deferral in assessment comes to an end and they become assessable on any gain over the time of holding the interest.
 
 In order to qualify for deferred taxation, the scheme and the employee must meet all the following general conditions:
 
-- the “ESS interest” (¶10-085) acquired by the employee must be in their employer or a holding
+- the "ESS interest" (¶10-085) acquired by the employee must be in their employer or a holding
 
   company of the employer
 
@@ -41,7 +41,7 @@ In order to qualify for deferred taxation, the scheme and the employee must meet
 
 5% (s 83A-105(1)).
 
-A further condition is that at the time of acquisition of the ESS interest at least 75% of the Australian-resident permanent employees with at least 3 years’ service are, or at some earlier time had been, entitled to acquire ESS interests in their employer or a holding company under a scheme (s 83A-105(2)). An integrity rule about share trading and investment companies must also be satisﬁed (¶10-091).
+A further condition is that at the time of acquisition of the ESS interest at least 75% of the Australian-resident permanent employees with at least 3 years' service are, or at some earlier time had been, entitled to acquire ESS interests in their employer or a holding company under a scheme (s 83A-105(2)). An integrity rule about share trading and investment companies must also be satisﬁed (¶10-091).
 
 Real risk of forfeiture schemes An ESS interest is at real risk of forfeiture if there is a real risk under the conditions of the scheme that the employee would: (1) in the case of shares, forfeit or lose the interest (other than by disposing of it) (2) in the case of rights, forfeit or lose the interest (other than by disposing of it, exercising it, letting it lapse or through the market value of the ESS interest falling to nil) (s 83A-105(3)).
 
@@ -51,13 +51,13 @@ In relation to rights, there is a real risk of forfeiture where the conditions o
 
   date of grant (eg at one year, 2 years and 3 years), or
 
-- contain “good leaver” provisions that provide that an employee who ceases employment because
+- contain "good leaver" provisions that provide that an employee who ceases employment because
 
   of death, invalidity, bona ﬁde redundancy or retirement 6 months after the date of grant will retain
 
   the vesting rights (eg ID 2010/61).
 
-In Gennai 2020 ATC ¶10-556; [2020] AATA 4667 the risk that an employee could lose their job amounted to a “real risk” that they would forfeit or lose an ESS interest (share options) under the relevant scheme conditions, resulting in a deferred taxing point. According to the AAT, s 83A-105(3)(b) neither directed itself to the mind of a reasonable person nor to the subjective assessment of the relevant taxpayer; the question is whether the scheme conditions pose a real risk of loss or forfeiture.
+In Gennai 2020 ATC ¶10-556; [2020] AATA 4667 the risk that an employee could lose their job amounted to a "real risk" that they would forfeit or lose an ESS interest (share options) under the relevant scheme conditions, resulting in a deferred taxing point. According to the AAT, s 83A-105(3)(b) neither directed itself to the mind of a reasonable person nor to the subjective assessment of the relevant taxpayer; the question is whether the scheme conditions pose a real risk of loss or forfeiture.
 
 Salary sacrifice schemes For deferred taxation to apply to ESS interests acquired under a salary sacriﬁce arrangement:
 
@@ -90,7 +90,7 @@ Disposal of rights restricted
 
   83A-C (s 83A-105(6)).
 
-Principles for working out whether genuine disposal restrictions existed within a scheme and, if so, when an employee ceased to be under the restrictions for the purpose of determining their “ESS deferred taxing point”, are set out in TD 2022/4. Notably, TD 2022/4 states that the disposal restrictions:
+Principles for working out whether genuine disposal restrictions existed within a scheme and, if so, when an employee ceased to be under the restrictions for the purpose of determining their "ESS deferred taxing point", are set out in TD 2022/4. Notably, TD 2022/4 states that the disposal restrictions:
 
 - must have existed at the time of acquiring the ESS interest
 
@@ -104,7 +104,7 @@ Principles for working out whether genuine disposal restrictions existed within 
 
 Section 83A-105(6) applies to ESS interests acquired on or after 1 July 2015.
 
-Deferred taxing point When tax on the acquisition of an ESS interest is deferred, it is delayed until when the earliest taxing point occurs. These points are set out below. However, where the employee disposes of the interest within 30 days of the original deferred taxing point, the date of disposal is taken to be the deferred taxing point (“30- day rule”: ss 83A-115(3); 83A-120(3)).
+Deferred taxing point When tax on the acquisition of an ESS interest is deferred, it is delayed until when the earliest taxing point occurs. These points are set out below. However, where the employee disposes of the interest within 30 days of the original deferred taxing point, the date of disposal is taken to be the deferred taxing point ("30- day rule": ss 83A-115(3); 83A-120(3)).
 
 Subject to the 30-day rule, the deferred taxing point for shares is the earliest of:
 
@@ -162,11 +162,11 @@ Further, the roll-over relief is only available to employees who, at the time of
 
 Any consideration paid by the employee for the ESS interests is spread among the matching ESS interests in proportion to their market values immediately after the corporate restructure. This allows the apportionment of the cost base and the calculation of the discount for tax purposes for those ESS interests that are not subject to the roll-over and those that are.
 
-Assessable amount Under deferred taxation, the amount to be included in assessable income for the income year in which the deferred taxation point occurs is the market value of the ESS interest (at the deferred taxing point) reduced by the cost base of the ESS interest (s 83A-110(1)). “Market value” takes it ordinary meaning but, as noted at ¶10-087, the Commissioner can, by legislative instrument, approve optional safe harbour valuation methodologies (s 960-412). The “cost base” takes into account consideration paid, expenses such as interest and brokerage fees, or events such as value shifting, a return of capital or other expenses incurred in holding the asset in the same way as for CGT purposes (¶11-550). However, the cost base does not include a payment made by the employee to the ESS trustee to retain the shares in the employee share scheme beyond a 3-year restriction period (Munnery 2012 ATC ¶10-241; [2012] AATA 175).
+Assessable amount Under deferred taxation, the amount to be included in assessable income for the income year in which the deferred taxation point occurs is the market value of the ESS interest (at the deferred taxing point) reduced by the cost base of the ESS interest (s 83A-110(1)). "Market value" takes it ordinary meaning but, as noted at ¶10-087, the Commissioner can, by legislative instrument, approve optional safe harbour valuation methodologies (s 960-412). The "cost base" takes into account consideration paid, expenses such as interest and brokerage fees, or events such as value shifting, a return of capital or other expenses incurred in holding the asset in the same way as for CGT purposes (¶11-550). However, the cost base does not include a payment made by the employee to the ESS trustee to retain the shares in the employee share scheme beyond a 3-year restriction period (Munnery 2012 ATC ¶10-241; [2012] AATA 175).
 
 The market value substitution rules in ITAA97 ss 112-20 (¶11-570) and 116-30 (¶11-510) are ignored for these purposes.
 
-Example Jack acquires ESS interests in his employer, Beanstalk Co, through an employee share scheme, which meets the conditions for deferred taxation. He purchases the ESS interests at a 50% discount to their market value of $2,000, ie for $1,000. Beanstalk Co passes on brokerage fees of $50 to Jack. The cost base of Jack’s ESS interests is $1,050.
+Example Jack acquires ESS interests in his employer, Beanstalk Co, through an employee share scheme, which meets the conditions for deferred taxation. He purchases the ESS interests at a 50% discount to their market value of $2,000, ie for $1,000. Beanstalk Co passes on brokerage fees of $50 to Jack. The cost base of Jack's ESS interests is $1,050.
 
 Further, for these purposes, a discount on an ESS interest relating to foreign service is taken to be from a foreign source (s 83A-110(1)).
 

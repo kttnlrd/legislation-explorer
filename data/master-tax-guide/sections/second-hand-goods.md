@@ -25,15 +25,15 @@ If the payment for the goods is $300 or less, the normal rules apply for attribu
 
 - if the dealer is on a cash basis, the credit can be claimed only to the extent that payment is
 
-  received for the dealer’s subsequent sale of the goods (s 66-15).
+  received for the dealer's subsequent sale of the goods (s 66-15).
 
 One of the requirements for claiming an input tax credit is that the dealer keeps accurate identity records of the supplier (s 66-17; Case 5/2008 2008 ATC ¶1-004; [2008] AATA 731). Another is that the second- hand goods are acquired for the purposes of sale or exchange in the ordinary course of business (s 66-5; LeasePlan 2009 ATC ¶20-144; [2009] FCA 1309). For guidelines on when second-hand goods are acquired for the purposes of sale or exchange, see GSTD 2013/2.
 
-Global accounting methods Dealers in second-hand goods may be entitled to use a special “global” method of accounting. This method, which is intended to reduce the need to track individual goods for GST purposes, applies in 2 situations:
+Global accounting methods Dealers in second-hand goods may be entitled to use a special "global" method of accounting. This method, which is intended to reduce the need to track individual goods for GST purposes, applies in 2 situations:
 
 - where second-hand goods are acquired from an unregistered supplier and are divided up for re-
 
-  supply to the dealer’s customers (s 66-40), or
+  supply to the dealer's customers (s 66-40), or
 
 - where speciﬁed categories of second-hand goods are acquired from a registered or unregistered
 

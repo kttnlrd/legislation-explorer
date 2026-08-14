@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Percentage of total is counted**
 
-**(2)**  The person’s direct income interest is the percentage of the total that the person holds.
+**(2)**  The person's direct income interest is the percentage of the total that the person holds.
 
 **Varying percentages**
 
-**(3)**  However, if the percentage varies between the different categories, the person’s direct income interest is the highest.
+**(3)**  However, if the percentage varies between the different categories, the person's direct income interest is the highest.
 
 **Measurement of available subscribed capital**
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 - (a) the income is distributed on the last day of the accounting period; and
 
-- (b) the person’s entitlement is unchanged during the period; and
+- (b) the person's entitlement is unchanged during the period; and
 
 - (c) a payment of interest on a debenture subject to section FA 2 (Recharacterisation of certain debentures), FA 2B (Stapled debt securities), or FZ 1 (Treatment of interest payable under debentures issued before certain date) is a distribution of income.
 

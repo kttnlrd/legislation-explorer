@@ -9,7 +9,7 @@ paragraph: "¶11-065"
 
 Where the sale of real estate is a taxable supply — for example, where it is non-residential, new residential or commercial residential (¶11-000) — it is necessary to attribute the GST and input tax credit (ITC) to the appropriate tax periods.
 
-The ATO’s views on how this applies in the case of a standard contract for the sale of land (GST Ruling
+The ATO's views on how this applies in the case of a standard contract for the sale of land (GST Ruling
 
 - the supplier should attribute the GST on the sale to the tax period in which the supply occurs, ie when
 
@@ -23,9 +23,9 @@ The ATO’s views on how this applies in the case of a standard contract for the
 
   purchaser must hold a tax invoice in accordance with the normal rules to be eligible to claim the ITC
 
-- these rules apply irrespective of whether the contract is subject to conditions such as a “subject to
+- these rules apply irrespective of whether the contract is subject to conditions such as a "subject to
 
-  finance” clause.
+  finance" clause.
 
 The mere fact that contracts have earlier been exchanged and a deposit paid is not relevant, even if there is an early release of the deposit to the vendor pending settlement.
 

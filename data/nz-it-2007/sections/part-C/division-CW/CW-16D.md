@@ -16,15 +16,15 @@ compilation_date: 2026-06-06
 
 - (a) the employment duties of an employee require them to attend a work-related meeting, conference, or training course that entails an overnight stay; and
 
-- (b) the period for which the employee’s attendance is required is a period of continuous work; and
+- (b) the period for which the employee's attendance is required is a period of continuous work; and
 
 - (c) their employer—
 
   - (i) provides accommodation for the employee for the period of their attendance:
 
-  - (ii) incurs expenditure on the employee’s accommodation for the period of their attendance:
+  - (ii) incurs expenditure on the employee's accommodation for the period of their attendance:
 
-  - (iii) incurs expenditure on the employee’s accommodation for necessary travel in connection with the performance of their duties for the period of their attendance.
+  - (iii) incurs expenditure on the employee's accommodation for necessary travel in connection with the performance of their duties for the period of their attendance.
 
 **Exclusions**
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Extended meaning of period of continuous work**
 
-**(4)**  For the purposes of this section, a period of continuous work may include a period in which an employee’s duties of employment require them to stay for 1 or more nights at a location that is not distant from their regular workplace.
+**(4)**  For the purposes of this section, a period of continuous work may include a period in which an employee's duties of employment require them to stay for 1 or more nights at a location that is not distant from their regular workplace.
 
 *Defined in this Act: accommodation, amount, employee, employer, employment, employment income, exempt income, period of continuous work*
 

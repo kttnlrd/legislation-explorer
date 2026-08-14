@@ -37,7 +37,7 @@ Once the cost of a depreciating asset has been established under the rules at ¶
 
   the rules discussed at ¶20-340 (ITAA97 s 40-45)
 
-- each element of the asset’s cost is reduced to the extent that any part of the cost is deductible
+- each element of the asset's cost is reduced to the extent that any part of the cost is deductible
 
   under a provision other than the uniform capital allowance provisions or the special provisions for
 

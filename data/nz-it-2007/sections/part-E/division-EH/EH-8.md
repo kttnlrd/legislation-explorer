@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person’s deposits for an accounting year are more than their main maximum deposit for the accounting year.
+**(1)**  This section applies when a person's deposits for an accounting year are more than their main maximum deposit for the accounting year.
 
 **Refund**
 

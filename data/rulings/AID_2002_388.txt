@@ -3,18 +3,14 @@ ATO ID 2002/388
 ==================================================
 
 Superannuation
-        Retirement income entities: In-House Assets and leasing property from a Unit Trust.
-        FOI status: may be released
-
-
+ Retirement income entities: In-House Assets and leasing property from a Unit Trust.
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Has a contravention of section 71 of the Superannuation Industry (Supervision) Act 1993 (SISA) occurred where the member/s of a Self Managed Superannuation Fund (SMSF) lease a residential property from a unit trust which is a related party or related trust of the SMSF?
@@ -29,7 +25,7 @@ Reasons for Decision
 An in-house asset of a superannuation fund includes, '...an asset of the fund subject to a lease or lease arrangement between the trustee of the fund and a related party of the fund...' - subsection 71(1) of the SISA.
 A lease arrangement involving members (in their capacity as members and not as trustees) of an SMSF (as lessees) leasing residential property from the unit trust does not fall within the definition of an in-house asset. This is because the asset involved is that of the unit trust and not an asset of the SMSF. The SISA places no restrictions on the members of the SMSF tenanting the residential property of the unit trust provided the SMSF's investment in the unit trust is consistent with its investment strategy and the unit trust is conducting its dealings with SMSF members on an arms length basis. However, the lease agreement would need to be entered into and maintained on an arm's length basis. Further the SMSF's ongoing investment in the unit trust would need to be continually reviewed against the investment strategy of the fund. Dealings between the unit trust and members of the SMSF will need to be on an arms length basis to avoid a contravention of the implied investment covenant in paragraph 52(2)(f) of the SISA.
 Date of decision:
-         6 September 2001
+  6 September 2001
 
 Legislative References:
 
@@ -38,22 +34,21 @@ Superannuation Industry (Supervision) Act 1993   Paragraph 52(2)(f)   Sect
 Keywords
 
 Self managed superannuation funds
-          SMSF investments
-          Superannuation fund in house assets
-          SMSF related parties
-
+ SMSF investments
+ Superannuation fund in house assets
+ SMSF related parties
 
 Siebel/TDMS Reference Number:
-         DW275638; 1-5EI93NM; 1-FZRSRJG
+  DW275638; 1-5EI93NM; 1-FZRSRJG
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         28 March 2002
+  28 March 2002
 
 Date reviewed:
-         7 August 2018
+  7 August 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

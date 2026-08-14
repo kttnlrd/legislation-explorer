@@ -1,0 +1,36 @@
+---
+country: "Israel"
+country_slug: "israel"
+treaty_schedule: 62
+article: 24
+title: "Article 24 — Exchange of Information"
+---
+# Article 24 — Exchange of Information
+Israeli Convention
+CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE STATE OF ISRAEL FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
+CHAPTER V 
+-
+ SPECIAL PROVISIONS
+Non-discrimination
+1.
+Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected.
+2.
+The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
+3.
+Nothing in this Article shall be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
+4.
+Except where the provisions of paragraph 1 of Article 
+9
+ (Associated Enterprises), paragraph 8 of Article 
+11
+ (Interest), paragraph 6 of Article 
+12
+ (Royalties) or paragraph 3 of Article 
+21
+ (Other Income), apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
+5.
+Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
+6.
+The provisions of this Article shall apply to the taxes referred to in Article 
+2
+ (Taxes Covered) of this Convention.

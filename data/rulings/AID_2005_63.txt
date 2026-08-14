@@ -3,23 +3,19 @@ ATO ID 2005/63
 ==================================================
 
 Income Tax
-        Consolidation:  meaning of a day for purposes of Part 3-90 of the ITAA 1997
-        FOI status: may be released
-
-
+ Consolidation: meaning of a day for purposes of Part 3-90 of the ITAA 1997
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Must an eligible subsidiary member of a consolidatable group close its current financial year at midnight on the day prior to the day from which the head company's choice to consolidate becomes effective?
 Decision
-Yes.  The word 'day' takes its ordinary meaning as it is not defined in the Income Tax Assessment Act 1997 (ITAA 1997) or in the Acts Interpretation Act 1901(Cth). In this instance, the eligible subsidiary's day cannot be said to have ended if trading and other transactions are being carried on. Accordingly, the eligible subsidiary member's income tax return for the year preceding consolidation must include all transactions up until midnight on the day before consolidation occurs. The administrative convenience, in which an earlier closing of a company's financial year, is not acceptable in this instance.
+Yes. The word 'day' takes its ordinary meaning as it is not defined in the Income Tax Assessment Act 1997 (ITAA 1997) or in the Acts Interpretation Act 1901(Cth). In this instance, the eligible subsidiary's day cannot be said to have ended if trading and other transactions are being carried on. Accordingly, the eligible subsidiary member's income tax return for the year preceding consolidation must include all transactions up until midnight on the day before consolidation occurs. The administrative convenience, in which an earlier closing of a company's financial year, is not acceptable in this instance.
 Facts
 Prior to 1 July Company B has been a 100% wholly-owned subsidiary of Company A.
 Company A chooses to consolidate with effect from 1 July of the income year. Company B becomes a subsidiary member of the consolidated group for income tax purposes from the date the choice takes effect.
@@ -29,8 +25,6 @@ Between 4:00pm and 12:00am on the 30th June prior to the consolidation group for
 Company A closes its books at midnight on 30 June each financial year. It commences its new financial year from midnight, immediately after the closure of its books for the preceding financial year.
 Reasons for Decision
 The word 'day' is not defined in:
-
-
 
 •The Income Tax Assessment Act 1936 (ITAA 1936),
 •The ITAA 1997, or
@@ -43,8 +37,6 @@ Section 995-1 of the ITAA 1997 defines an income year as:
 
 income year:
  the basic meaning is given by subsections 4-10(2) and 9-5(2). Some provisions refer to a particular income year. (They may describe it in different ways: for example, as the income year ending on 30 June 1998, or the 1997-98 income year.) For an entity that adopts an accounting period in place of the particular income year, the reference includes:
-
-
 
 (a)the adopted accounting period; or
 (b)if the adopted accounting period ends under section 18A of the Income Tax Assessment Act 1936:
@@ -59,7 +51,6 @@ Note 2: An accounting period ends, and a new accounting period starts, when a pa
 Subsection 4-10(2) of the ITAA 1997 states:
 
 Your income tax is worked out by reference to your taxable income for the income year. The income year is the same as the *financial year, except in these cases:
-
 
 for a company, the income year is the previous financial year;if you have an accounting period that is not the same as the financial year, each such accounting period or, for a company, each previous accounting period is an income year.
 
@@ -76,24 +67,22 @@ financial year
 
 For the purposes of these definitions, the day of '1 July' is the civil day. That is, the 24 hour period from midnight to midnight on 1 July.
 Company B's commercial practice was to treat its civil day for income tax purposes as the 24 hour period from 4:00pm to 4:00pm, and thus its income year as ending at 4:00pm on 30 June, with a new income year commencing from 4:00pm on the same day. However, the use of the administrative convenience
-          on the last day
-           of company B's income year prior to consolidation is unacceptable as it conflicts with the requirement for company B to lodge a return disclosing all of the income it has earned during the income year - which includes the time from 4:00pm to midnight on 30 June.
-
+ on the last day
+ of company B's income year prior to consolidation is unacceptable as it conflicts with the requirement for company B to lodge a return disclosing all of the income it has earned during the income year - which includes the time from 4:00pm to midnight on 30 June.
 
 Note: Section 701-30 of the ITAA 1997 requires subsidiary members of a consolidated group to lodge an income tax return in respect of any period in an income year in which it was not a member of a consolidated group during the income year. The definition of day will also be relevant to the application of that provision.
 
 Date of decision:
-         16 February 2005
+  16 February 2005
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 18   section 18A
 Income Tax Assessment Act 1997   subsection 4-10(2)   subsection 9-5(2)   Part 3-90   section 701-30   section 703-50   section 995-1
 Acts Interpretation Act 1901 (Cth)   paragraph 22(1)(e)
-
 
 Related ATO Interpretative Decisions
 
@@ -102,28 +91,27 @@ Related ATO Interpretative Decisions
 Keywords
 
 Consolidation
-          Consolidation - continuity of ownership test
-          Consolidation - exiting
-          Consolidation - formation
-          Consolidation - membership
-          Consolidation - tax liabilities
-          Effect of an Australian law
-          Formation time
-          Leaving time
-          Measurement days
-          Member of a group
-          Non-membership period
-          Working days
-
+ Consolidation - continuity of ownership test
+ Consolidation - exiting
+ Consolidation - formation
+ Consolidation - membership
+ Consolidation - tax liabilities
+ Effect of an Australian law
+ Formation time
+ Leaving time
+ Measurement days
+ Member of a group
+ Non-membership period
+ Working days
 
 Siebel/TDMS Reference Number:
-         4279743
+  4279743
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         18 February 2005
+  18 February 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

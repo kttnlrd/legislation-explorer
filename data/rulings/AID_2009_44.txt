@@ -3,23 +3,19 @@ ATO ID 2009/44
 ==================================================
 
 Income Tax
-        Consolidation:  MEC group - interposition of a partnership of foreign resident wholly-owned subsidiaries of a top company, between the top company and an eligible tier-1 company
-        FOI status: may be released
-
-
+ Consolidation: MEC group - interposition of a partnership of foreign resident wholly-owned subsidiaries of a top company, between the top company and an eligible tier-1 company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the insertion of a partnership, all the partners of which are foreign resident wholly-owned subsidiary companies of the top company, between the top company and an eligible tier-1 company member of the multiple entry consolidated (MEC) group cause the eligible tier-1 company to cease to be an eligible tier-1 company of the top company?
 Decision
-No.  The insertion of a partnership in which all the partners are foreign resident wholly-owned subsidiaries of the top company will not cause the eligible tier-1 company member to cease to be an eligible tier-1 company of the top company.
+No. The insertion of a partnership in which all the partners are foreign resident wholly-owned subsidiaries of the top company will not cause the eligible tier-1 company member to cease to be an eligible tier-1 company of the top company.
 A partner's interests in the partnership are membership interests for the purposes of determining under section 703-30 of the Income Tax Assessment Act 1997 (ITAA 1997) whether the partnership is a wholly-owned subsidiary of the top company. The partnership will be a wholly-owned subsidiary of the top company (provided the partners beneficially own their interests in the partnership).
 As the partners and the partnership are wholly-owned subsidiaries of the top company, the eligible tier-1 company above which the partnership is inserted will continue to be a wholly-owned subsidiary of the top company, and an eligible tier-1 company member of the MEC group.
 Facts
@@ -38,14 +34,13 @@ The insertion of the WZ Partnership between the top company (X Co) and B Co will
 B Co is a wholly-owned subsidiary of X Co because it is a wholly-owned subsidiary of WZ Partnership which is a wholly-owned subsidiary of X Co (section 703-30 of the ITAA 1997).
 WZ Partnership is a wholly-owned subsidiary of X Co because all of the membership interests in WZ Partnership are beneficially owned by X Co's wholly-owned subsidiaries, W Co and Z Co. The partnership is a wholly-owned subsidiary of the partners W Co and Z Co because they beneficially own all of the membership interests in WZ Partnership (section 703-30 of the ITAA 1997).
 
-
 Note: For the purposes of determining when an entity is a wholly-owned subsidiary of another, membership interests are defined as the interests or rights by virtue of which a member of the entity is a member (section 960-135 of the ITAA 1997). For a company whose members are shareholders, a membership interest is a share. For a partnership, whose members are the partners, a membership interest is a partner's interest in the partnership (section 960-130 of the ITAA 1997).
 
 Date of decision:
-         17 June 2009
+  17 June 2009
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -58,20 +53,19 @@ Taxation Determination TD 2008/24
 Keywords
 
 Consolidation
-          Consolidation - multiple entry consolidated group
-          Consolidation - membership
-          Consolidation - partnerships
-          Membership interest of a partnership
-
+ Consolidation - multiple entry consolidated group
+ Consolidation - membership
+ Consolidation - partnerships
+ Membership interest of a partnership
 
 Siebel/TDMS Reference Number:
-         6195848
+  6195848
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         26 June 2009
+  26 June 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

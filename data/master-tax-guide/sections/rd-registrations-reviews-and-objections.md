@@ -13,7 +13,7 @@ Section 355-705 has the eﬀect of binding the Commissioner to the ﬁndings by 
 
 Advance ﬁndings are binding on the Commissioner for the year the activities are conducted if they are completed in the year the application is made or, otherwise, the year of application and the next 2 years. For a ﬁnding on overseas expenditure this is for the life of the activity as described for the ﬁnding certiﬁcate.
 
-The time in which the Commissioner can amend an assessment that is dependent on a ﬁnding by the Board is limited to 2 years after the ﬁnding certiﬁcate is provided if it will increase the taxpayer’s liability or it is otherwise unrestricted (s 355-710). However, if the amended assessment is as a result of a “key decision”, the amendment can be made at any time. These key decisions can be made as a result of:
+The time in which the Commissioner can amend an assessment that is dependent on a ﬁnding by the Board is limited to 2 years after the ﬁnding certiﬁcate is provided if it will increase the taxpayer's liability or it is otherwise unrestricted (s 355-710). However, if the amended assessment is as a result of a "key decision", the amendment can be made at any time. These key decisions can be made as a result of:
 
 - internal review under IR&D Act s 30D(2)
 

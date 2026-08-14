@@ -17,7 +17,7 @@ The roof replacement cost $32,000 and the insulation and air conditioning added 
 
 Advise Ken on the deductibility of the expenditure incurred on repairs and improvements to his restaurant in 2024–25.
 
-Solution Non-capital expenditure on repairs to plant or premises held, or used, for the production of assessable income is specifically made deductible under ITAA97 s 25-10. This position is supported by case law and the Commissioner’s views expressed in Taxation Ruling TR 97/23.
+Solution Non-capital expenditure on repairs to plant or premises held, or used, for the production of assessable income is specifically made deductible under ITAA97 s 25-10. This position is supported by case law and the Commissioner's views expressed in Taxation Ruling TR 97/23.
 
 The essential features for expenditure on an item or asset to qualify for a deduction under s 25-10 are that:
 
@@ -67,7 +67,7 @@ Pest control contract The pest control contract annual fee of $2,000 would also 
 
 Replacement of damaged roof and installation of insulation and air conditioning The cost of replacing the roof would be deductible under s 25-10. In determining whether a repair is deductible, it is necessary to consider whether the work restores the functional efficiency of the property without changing its character. Replacing the roof restored the functional efficiency of the roof following severe storm damage but did not change its character. The roof still functioned as a roof, even though more modern materials may have been used.
 
-TR 97/23 indicates that expenditure for repairs to property is of a capital nature where the extent of the work carried out represents a renewal or reconstruction of the entirety. Paragraph 40 of TR 97/23 specifically states that a roof is only a part of a building and does not constitute an “entirety”. The building itself is the entirety. The replacement of the roof is therefore not capital.
+TR 97/23 indicates that expenditure for repairs to property is of a capital nature where the extent of the work carried out represents a renewal or reconstruction of the entirety. Paragraph 40 of TR 97/23 specifically states that a roof is only a part of a building and does not constitute an "entirety". The building itself is the entirety. The replacement of the roof is therefore not capital.
 
 W Thomas & Co Pty Ltd v FC of T (1965) 115 CLR 58 involved a claim for general repairs to a building.
 

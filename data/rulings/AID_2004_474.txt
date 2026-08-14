@@ -3,23 +3,18 @@ ATO ID 2004/474
 ==================================================
 
 Income Tax
-        Foreign exchange (Forex) gains and losses: determining that part of an overall capital loss under Forex Realisation Event 1 which is attributable to a currency exchange rate effect
-        FOI status: may be released
+ Foreign exchange (Forex) gains and losses: determining that part of an overall capital loss under Forex Realisation Event 1 which is attributable to a currency exchange rate effect
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as the ATO view on this matter is now expressed in Taxation Determination  TD 2006/32.
+This ATO ID is withdrawn as the ATO view on this matter is now expressed in Taxation Determination TD 2006/32.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where a taxpayer disposes of a right to receive foreign currency and makes a forex realisation loss as part of an overall capital loss under subsection 775-40(4) of the Income Tax Assessment Act 1997 (ITAA 1997), how is that part of the loss which is attributable to a currency exchange rate effect determined?
@@ -39,8 +34,6 @@ The entity makes a forex realisation loss if it makes a capital loss from the ev
 Here, there is a currency exchange rate effect because of a currency exchange rate fluctuation (paragraph 775-105(1)(a) of the ITAA 1997).
 The entity makes an overall capital loss on the disposal of the right, which is calculated by translating each element at the exchange rate applicable at the time of each transaction or event (subsection 960-50(6) Item 5 of the ITAA 1997). The translated amounts are then compared to ascertain the amount of any capital gain or loss that is made on the disposal of the right, as follows:
 
-
-
 Overall capital loss
 = USD90/0.80 less USD100/0.60
 
@@ -54,8 +47,6 @@ where
 non-forex capital loss = (foreign currency amount received on disposal less foreign currency cost of acquisition) translated to Australian currency using exchange rate at the time of disposal of the right.
 The non-forex capital loss is therefore calculated by determining the AUD value of the net amount of the loss in USD terms on disposal of the right, using the applicable translation rate at that time. That is, using the formula above:
 
-
-
 Non-forex capital loss
 = (USD90 - USD100) / 0.80
 = AUD12.50 loss.
@@ -66,10 +57,10 @@ Forex realisation loss
 
 That part of the capital loss which is attributable to a currency exchange rate effect is therefore AUD41.67, and is an allowable deduction to the entity under Division 775 of the ITAA 1997 (subsection 775-30(4) of the ITAA 1997). Only the non-forex capital loss applied against other capital gains or to determine a net capital loss for the income year under Division 100 of the ITAA 1997.
 Date of decision:
-         31 May 2004
+  31 May 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -82,30 +73,26 @@ Related ATO Interpretative Decisions
 Keywords
 
 Currency exchange rate
-          Foreign currency translation
-          Foreign exchange gains and losses
-          Forex realisation event
-
+ Foreign currency translation
+ Foreign exchange gains and losses
+ Forex realisation event
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         11 June 2004
+  11 June 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 31 May 2004

@@ -31,9 +31,9 @@ An invoice may include a delivery docket, but not a mere job quote or an insuran
 
 Suppliers may need to take care that documents such as reports on work in progress do not unintentionally amount to invoices. Where it is not intended that the document create an obligation to pay, it may be advisable to make this explicit in the document.
 
-It has been held that a tax invoice is not “issued” until some act is done to convey it to the intended recipient, though it is not clear whether it is necessary to show actual receipt (Tavco Group Pty Ltd v FC of T 2008 ATC ¶10-049). The ATO considers that an invoice is issued when it is electronically transmitted, posted, couriered, hand delivered or similar. The recipient is entitled to rely on the date of issue noted in the invoice in the absence of any evidence to the contrary (GST Ruling GSTR 2000/34).
+It has been held that a tax invoice is not "issued" until some act is done to convey it to the intended recipient, though it is not clear whether it is necessary to show actual receipt (Tavco Group Pty Ltd v FC of T 2008 ATC ¶10-049). The ATO considers that an invoice is issued when it is electronically transmitted, posted, couriered, hand delivered or similar. The recipient is entitled to rely on the date of issue noted in the invoice in the absence of any evidence to the contrary (GST Ruling GSTR 2000/34).
 
-The ATO also considers that an invoice posted on a website is “issued”, provided:
+The ATO also considers that an invoice posted on a website is "issued", provided:
 
 - it is posted in an area that is readily accessible
 

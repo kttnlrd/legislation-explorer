@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 - (a) refund amount is the total of the following amounts, determined immediately before the ICA company joins the new group:
 
-  - (i) the amount in the tax pooling account provided by or for the benefit of the ICA company that is more than the company’s liability to pay income tax or provisional tax at the time:
+  - (i) the amount in the tax pooling account provided by or for the benefit of the ICA company that is more than the company's liability to pay income tax or provisional tax at the time:
 
   - (ii) the amount of the refund to which the ICA company is entitled under section RM 2 or RM 4 (which relate to refunds of excess tax) other than an amount affected by a restriction under subsection (5) for the company and another group:
 
-- (b) ICA credit balance is the credit balance of the ICA company’s imputation credit account immediately before the company joins the new group.
+- (b) ICA credit balance is the credit balance of the ICA company's imputation credit account immediately before the company joins the new group.
 
 **Payment to Commissioner**
 

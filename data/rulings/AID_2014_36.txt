@@ -3,32 +3,23 @@ ATO ID 2014/36
 ==================================================
 
 Goods and Services Tax
-        GST and changes in net amount where an entity has notified the Commissioner of an entitlement to a refund
-
-
+ GST and changes in net amount where an entity has notified the Commissioner of an entitlement to a refund
 
 Status of this decision: Sections 105-50 and 105-55 of Schedule 1 to the Taxation Administration Act 1953 (TAA) only apply to payments and refunds that relate to:
-
-
 
 (a) tax periods that start before 1 July 2012, or
 (b) liabilities or entitlements that arose before 1 July 2012.
 
 This decision is based on the law as it exists after the amendments to section 105-55 of Schedule 1 to the TAA contained in Schedule 2 of the Tax Laws Amendment (2008 Measures No. 3) Act 2008.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In working out an entity's entitlement to a refund under section 105-55 of Schedule 1 to the Taxation Administration Act 1953 (TAA), does the four-year time limit in section 105-50 of Schedule 1 to the TAA apply to prevent an amount of unpaid goods and services tax (GST) payable on a taxable supply being taken into account, where, in the same tax period:
-
-
 
 • the entity has an input tax credit entitlement not previously attributed to any tax period
 • the amount of that entitlement is greater than the increase in GST payable on the taxable supply, and
@@ -49,26 +40,20 @@ The Commissioner did not give the entity a notice under section 105-50 of Schedu
 Reasons for Decision
 Subsection 105-50(1) of Schedule 1 to the TAA provides that any unpaid net amount ceases to be payable four years after it became payable unless the Commissioner:
 
-
-
 • has notified the entity of the unpaid amount, and required payment of it, within four years of the date it was payable, or
 • is satisfied that the payment of the amount was avoided by fraud or evasion.
 
 'Net amount' for a tax period is defined in section 17-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) according to the following formula:
 
-
 GST - input tax credits
-
 
 GST is the sum of all of the GST for which an entity is liable on the taxable supplies that are attributable to the tax period. Input tax credits is the sum of all of the input tax credits to which an entity is entitled for creditable acquisitions and creditable importations that are attributable to the tax period.
 Section 9-40 of the GST Act provides that an entity must pay the GST payable on any taxable supply that it makes.
 Division 33 of the GST Act sets out when payment of an entity's net amount must be made. GST payable on a taxable supply is not an amount that is separately payable to the Commissioner under the GST Act.
 Although section 9-40 of the GST Act requires payment of the GST payable, there are no provisions in the GST Act or TAA that:
 
-
-
-• provide for the collection of the GST payable on a taxable supply (made by an entity that is registered or required to be  registered[1]) separately from the net amount, or
-• specify when such an  amount of GST in relation to a specific taxable supply is payable.
+• provide for the collection of the GST payable on a taxable supply (made by an entity that is registered or required to be registered[1]) separately from the net amount, or
+• specify when such an amount of GST in relation to a specific taxable supply is payable.
 
 Section 105-50 of Schedule 1 to the TAA applies to an 'unpaid net amount'. It does not apply to individual amounts of GST payable on a particular taxable supply. In determining the net amount, all transactions attributable to a tax period need to be taken into account. The result will either give rise to an overall increase or decrease in the net amount.
 In this instance, as there is an overall decrease in the net amount for the relevant tax period (which was previously paid), there is no unpaid net amount to which section 105-50 of Schedule 1 to the TAA applies. Accordingly, it does not matter that the Commissioner has not given a notice under section 105-50 of Schedule 1 to the TAA within the four-year period requiring payment of an unpaid net amount for that tax period.
@@ -87,7 +72,7 @@ As the amount remains unpaid after four years from the date when it became payab
 Subdivision 78D and Division 105 of the GST Act deal with certain special instances where an entity that is not registered or required to be registered may be required to pay GST on a taxable supply.
 
 Date of decision:
-         2 December 2014
+  2 December 2014
 
 Legislative References:
 
@@ -101,22 +86,21 @@ MT 2009/1
 Keywords
 
 Goods and services tax
-          GST net amounts & adjustments
-          net amounts
-          GST supplies & acquisitions
-          GST supply
-          taxable supply
-          tax administration
-
+ GST net amounts & adjustments
+ net amounts
+ GST supplies & acquisitions
+ GST supply
+ taxable supply
+ tax administration
 
 Siebel/TDMS Reference Number:
-         1-5ZB518M
+  1-5ZB518M
 
 Business Line:
-         Indirect tax
+  Indirect tax
 
 Date of publication:
-         5 December 2014
+  5 December 2014
 
 ISSN:
-          1445-2782
+ 1445-2782

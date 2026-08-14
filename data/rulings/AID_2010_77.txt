@@ -3,18 +3,14 @@ ATO ID 2010/77
 ==================================================
 
 Income Tax
-        Foreign hybrid company: US limited liability company
-        FOI status: may be released
-
-
+ Foreign hybrid company: US limited liability company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a single member Limited Liability Company (LLC) formed in the United States of America (US) be a foreign hybrid company under Division 830 of the Income Tax Assessment Act 1997 (ITAA 1997) and therefore be treated as a partnership for income tax purposes?
@@ -38,13 +34,10 @@ Paragraphs 830-15(1)(a) to (d) of the ITAA 1997 set out the requirements for a c
 
 A company is a foreign hybrid company in relation to an income year if:
 
-
 (a)at all times during the income year when the company is in existence, the partnership treatment requirements for the income year in subsection (2) or (3) are satisfied; and
 (b)at no time during the income year is the company, for the purposes of a law of any foreign country that imposes *foreign income tax (except *credit absorption tax or *unitary tax) on entities because they are residents of the foreign country, a resident of that country; and
 (c)at no time during the income year is the company an Australian resident; and
 (d)disregarding this Division, in relation to the same income year of another taxpayer:
-
-
 
 (i)the company is a *CFC at the end of a *statutory accounting period that ends in the income year; and
 (ii)at the end of the statutory accounting period, the taxpayer is an *attributable taxpayer in relation to the CFC with an *attribution percentage greater than nil.
@@ -54,11 +47,8 @@ Subsection 830-15(2) of the ITAA 1997 states:
 
 For the purposes of paragraph (1)(a), the partnership treatment requirements are satisfied if:
 
-
 (a)the company was formed in the United States of America; and
 (b)for the purposes of the law of that country relating to *foreign income tax (except *credit absorption tax or *unitary tax) imposed by that country, the company is a limited liability company that:
-
-
 
 i.is treated as a partnership; or
 ii.is an eligible entity that is disregarded as an entity separate from its owner.
@@ -73,10 +63,10 @@ Foreign Co has satisfied all the requirements in subsection 830-15(1) of the ITA
 Section 830-20 of the ITAA 1997 provides that if a company is a foreign hybrid company in relation to an income year it is treated as a partnership for the purposes of the income tax law. The partners in the partnership are the shareholders in the company (section 830-25 of the ITAA 1997). According to the Explanatory Memorandum to Taxation Laws Amendment Act (No. 1) 2004 (the legislation which introduced Division 830 of the ITAA 1997) a shareholder includes a member of a US LLC.
 Accordingly, Foreign Co is treated as a partnership for the purposes of the Acts as modified by Subdivisions 830-B to 830-D of the ITAA 1997 and the single member of Foreign Co is treated as a partner in the partnership.
 Date of decision:
-         24 March 2010
+  24 March 2010
 
 Year of income:
-           Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011
+  Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011
 
 Legislative References:
 
@@ -89,19 +79,18 @@ Other References:
 Keywords
 
 Foreign hybrid company
-          Foreign hybrids
-          Partnerships
-          International tax
-
+ Foreign hybrids
+ Partnerships
+ International tax
 
 Siebel/TDMS Reference Number:
-         6311980
+  6311980
 
 Business Line:
-         International Centre of Expertise
+  International Centre of Expertise
 
 Date of publication:
-         9 April 2010
+  9 April 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

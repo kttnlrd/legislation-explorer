@@ -3,18 +3,14 @@ ATO ID 2010/53
 ==================================================
 
 Income Tax
-        Imputation: benchmark rule and non-share equity interests
-        FOI status: may be released
-
-
+ Imputation: benchmark rule and non-share equity interests
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Whether a non-share equity interest for the purposes of Subdivision 974-C of the Income Tax Assessment Act 1997 (ITAA 1997) is treated as a membership interest for the purposes of Division 203 of the ITAA 1997.
@@ -32,10 +28,7 @@ Subsection 203-20(1) of the ITAA 1997 provides that:
 
 The *benchmark rule does not apply to a company in a *franking period if either:
 
-
 (a)the company satisfies each of the following criteria:
-
-
 
 (i)at all times during the franking period, the company is a *listed public company;
 (ii)the company cannot make a *distribution on one *membership interest during the franking period without making a distribution under the same resolution on all other membership interests;
@@ -54,10 +47,10 @@ Furthermore, the non-share equity interest in Sub Co is treated as a non-share e
 Having regard to the foregoing, it is considered that non-share equity interests in a company are subject to the benchmark rule in section 203-25 of the ITAA 1997 and are relevant in determining whether the conditions in subparagraphs 203-20(1)(a)(ii) and (iii) of the ITAA 1997 are met.
 Accordingly, the non-share equity interest held by X Co is treated as a membership interest in Head Co for the purposes of Division 203 of the ITAA 1997.
 Date of decision:
-         11 December 2009
+  11 December 2009
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -77,31 +70,30 @@ Other References:
 Keywords
 
 Consolidation
-          Consolidation - franking
-          Debt equity borderline
-          Distributions
-          Equity test
-          Head company
-          Imputation system
-          Member of an entity
-          Membership interest in an entity
-          Non-equity share
-          Non-share equity interest
-          Shares
-          Single entity rule
-
+ Consolidation - franking
+ Debt equity borderline
+ Distributions
+ Equity test
+ Head company
+ Imputation system
+ Member of an entity
+ Membership interest in an entity
+ Non-equity share
+ Non-share equity interest
+ Shares
+ Single entity rule
 
 Siebel/TDMS Reference Number:
-         1-1TSHUIY; 1-5T1Y6IX; 1-D5HW96L
+  1-1TSHUIY; 1-5T1Y6IX; 1-D5HW96L
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         5 March 2010
+  5 March 2010
 
 Date reviewed:
-         27 February 2018
+  27 February 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

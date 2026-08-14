@@ -11,7 +11,7 @@ Worked example: Easements Issue Megan Williams owns a 100-hectare freehold farmi
 
 She acquired the land before 20 September 1985.
 
-Plenty Electricity Pty Ltd is the holder of an electricity generation licence issued under the relevant legislative provisions. Plenty Electricity plans to construct and operate a system on property adjoining Megan’s land. As part of the project, the company will need to build infrastructure on parts of the land owned by Megan.
+Plenty Electricity Pty Ltd is the holder of an electricity generation licence issued under the relevant legislative provisions. Plenty Electricity plans to construct and operate a system on property adjoining Megan's land. As part of the project, the company will need to build infrastructure on parts of the land owned by Megan.
 
 An easement is to be created by agreement between the parties, although Plenty Electricity has the legal capacity to compel landowners to grant an easement under the relevant legislative provisions.
 
@@ -19,7 +19,7 @@ Plenty Electricity plans to pay Megan $50,000 in respect of the easement over he
 
 Advise Megan about the capital gains tax (CGT) implications if she chooses (or is compelled) to grant an easement to Plenty Electricity.
 
-Solution An easement arises where an owner of land confers certain rights on another person, falling short of possession, over the land (the “servient tenement”) where the rights conferred are annexed to the ownership of other land (the “dominant tenement”). Thus, the dominant tenement is the plot of land that benefits from the easement while the servient tenement is the plot of land that bears the burden of the easement.
+Solution An easement arises where an owner of land confers certain rights on another person, falling short of possession, over the land (the "servient tenement") where the rights conferred are annexed to the ownership of other land (the "dominant tenement"). Thus, the dominant tenement is the plot of land that benefits from the easement while the servient tenement is the plot of land that bears the burden of the easement.
 
 For example, a beachfront house that has a public walkway to the beach on its premises is a servient tenement, while a property that benefits from the walkway across the other property is the dominant tenement. An easement may be either positive or negative. It will be positive where the owner of the dominant tenement is allowed to do something on the land comprising the servient tenement, for example, a right to drain water or a right of way. It will be negative where the owner of the land comprising the servient tenement is restrained from putting the land to some use, otherwise allowed by law, in the interests of the owner of the dominant tenement, for example, a right of light and air or a right to support of a building.
 
@@ -43,6 +43,6 @@ Compensation for a compulsorily acquired easement is treated as a payment for a 
 
 Therefore, CGT event A1 will occur on the granting of the easement, a disposal of part of the land. Megan acquired the land before 20 September 1985 and, as a result, s 104-10(5) applies to disregard any capital gain resulting from the disposal. Megan cannot get any relief for the $2,000 incurred in legal fees.
 
-As an aside, the land subject to the easement is an active asset because it is used in Megan’s farming business. While not applicable in this case because the land is a pre-CGT asset, if the basic conditions were satisfied and the land was a post-CGT asset, Megan may be able to apply the small business CGT concessions to the capital gain arising on the granting of the easement.
+As an aside, the land subject to the easement is an active asset because it is used in Megan's farming business. While not applicable in this case because the land is a pre-CGT asset, if the basic conditions were satisfied and the land was a post-CGT asset, Megan may be able to apply the small business CGT concessions to the capital gain arising on the granting of the easement.
 
 *Refs: ITAA97 s 108-5, ITAA97 s 104-35, ITAA97 s 104-10(5), s 104-10(5)*

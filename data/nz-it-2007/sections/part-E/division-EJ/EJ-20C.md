@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) starting from the later of—
 
-  - (i) the first day of the income year in which the mineral miner’s commercial production of a listed industrial mineral from the mining permit area starts; or
+  - (i) the first day of the income year in which the mineral miner's commercial production of a listed industrial mineral from the mining permit area starts; or
 
   - (ii) the first day of the income year in which the expenditure is incurred; and
 

@@ -3,21 +3,16 @@ ATO ID 2004/181
 ==================================================
 
 Goods and Services Tax
-        GST and attribution rules on a taxable supply of land where consideration is received on an instalment basis
-        FOI status: may be released
-
+ GST and attribution rules on a taxable supply of land where consideration is received on an instalment basis
+ FOI status: may be released
 
 This ATO ID was amended by the inclusion of related public ruling GSTR 2000/34
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a property developer, required to apply the attribution rules in accordance with section 29-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) and attribute all the GST payable on its taxable supply of land to the tax period in which it receives the first instalment payment from the purchaser?
@@ -30,10 +25,8 @@ The entity and the purchaser sign a contract and under the terms of the contract
 The first instalment is not held by the entity as security for performance of the contract.
 The contract does not satisfy the requirements under subsection 29-70(1) of the GST Act to be a tax invoice or the requirements in goods and services tax ruling (GSTR) 2000/34 to be an invoice for GST purposes. The entity does not issue an invoice or tax invoice to the purchaser prior to the purchaser making the first instalment payment.
 
-
-
 History:
-                 this ATO ID was amended on 23 February 2005. The words 'or the requirements in GSTR 2000/34 to be an invoice for GST purposes' in the first sentence and the words 'an invoice or' in the last sentence in the paragraph above were added.
+ this ATO ID was amended on 23 February 2005. The words 'or the requirements in GSTR 2000/34 to be an invoice for GST purposes' in the first sentence and the words 'an invoice or' in the last sentence in the paragraph above were added.
 
 The certificate of title to the land will not pass from the entity to the purchaser until the final instalment has been paid.
 Reasons for Decision
@@ -41,23 +34,17 @@ Section 29-5 of the GST Act sets out the rules that determine the tax period in 
 Subsection 29-5(1) of the GST Act determines the tax period in which an entity is required to attribute the GST payable when it accounts for GST on a non-cash basis. As the entity accounts for GST on a non-cash basis, it is the relevant provision to be considered.
 Under this subsection the GST payable on a supply is attributable to:
 
-
-
 • the tax period in which any of the consideration is received for the supply, or
 • if before any of the consideration is received, an invoice is issued relating to the supply - the tax period in which the invoice is issued.
 
 The contract between the entity and the purchaser does not satisfy the tax invoice requirements under subsection 29-70(1) of the GST Act or the requirements in GSTR 2000/34 to be an invoice for GST purposes. The entity does not issue an invoice or a tax invoice to the purchaser prior to the purchaser making the first instalment payment. As such, the second element of subsection 29-5(1) of the GST Act is not applicable.
 
-
-
 History:
-                 this ATO ID was amended on 23 February 2005. The words 'or the requirements in GSTR 2000/34 to be an invoice for GST purposes' in the first sentence and the words 'an invoice or' in the second sentence in the paragraph above were added.
+ this ATO ID was amended on 23 February 2005. The words 'or the requirements in GSTR 2000/34 to be an invoice for GST purposes' in the first sentence and the words 'an invoice or' in the second sentence in the paragraph above were added.
 
 Where the attribution rules of subsection 29-5(1) of the GST Act are applicable, the entity is required to attribute all of the GST payable on its taxable supply of land to the tax period in which it receives the first instalment payment from the purchaser.
 However, Goods and Services Tax Ruling, GSTR 2000/28, provides special rules on attributing the GST payable on a sale of land under what is termed a 'standard land contract'. Paragraph 25 of GSTR 2000/28 provides that the GST payable on a supply of land under a standard land contract is attributed to the tax period in which settlement occurs and not at the time when the deposit is paid. This is because the deposit made under a standard land contract is taken to be a deposit made as a security to which Division 99 of the GST Act applies.
 For the purposes of GSTR 2000/28, paragraph 13 defines a standard land contract to be a written contract for the sale of land that provides for:
-
-
 
 • the payment of a deposit that is either to be forfeited if the purchaser defaults or applied as consideration on settlement, and
 • the payment of the balance of the purchase price upon settlement.
@@ -67,7 +54,7 @@ Under the terms of the contract with the entity, the purchaser agrees to make pa
 Therefore, the entity is required to apply the attribution rules in accordance with section 29-5 of the GST Act and attribute all the GST payable on its taxable supply of land to the tax period in which it receives the first instalment payment from the purchaser.
 Note: Division 99 of the GST Act does not apply to change the attribution rules as the first instalment is not a deposit taken as security for the performance of the obligations under the contract.
 Date of decision:
-         28 October 2003
+  28 October 2003
 
 Legislative References:
 
@@ -81,22 +68,21 @@ Goods and Services Tax Ruling GSTR 2000/34
 Keywords
 
 Goods and services tax
-          GST property & construction
-          GST sale of real property
-          GST tax periods
-          Non cash basis
-          GST supplies & acquisitions
-          Taxable supply
-
+ GST property & construction
+ GST sale of real property
+ GST tax periods
+ Non cash basis
+ GST supplies & acquisitions
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         3752278
+  3752278
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         27 February 2004
+  27 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

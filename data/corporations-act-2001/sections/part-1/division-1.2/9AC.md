@@ -28,13 +28,13 @@ regardless of the name that is given to their position; and
 
 > > **(i)** they act in the position of a director; or
 
-> > **(ii)** the directors of the company or body are accustomed to act in accordance with the person’s instructions or wishes (excluding advice given by the person in the proper performance of functions attaching to the person’s professional capacity or their business relationship with the directors or the corporation).
+> > **(ii)** the directors of the company or body are accustomed to act in accordance with the person's instructions or wishes (excluding advice given by the person in the proper performance of functions attaching to the person's professional capacity or their business relationship with the directors or the corporation).
 
 > **Note:** Examples of provisions for which a person would not be a director because of paragraph (b) of this subsection include:
 
 > **(a)** section 205B (notice to ASIC of change of address); and
 
-> **(b)** section 249C (power to call meetings of a company’s members); and
+> **(b)** section 249C (power to call meetings of a company's members); and
 
 > **(c)** subsection 251A(3) (signing minutes of meetings).
 

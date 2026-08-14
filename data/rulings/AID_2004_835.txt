@@ -3,18 +3,14 @@ ATO ID 2004/835
 ==================================================
 
 Income Tax
-        Consolidation - modified market value and a non-arm's length loan
-        FOI status: may be released
-
-
+ Consolidation - modified market value and a non-arm's length loan
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is there more than one event, as described in subsection 707-325(4) of the Income Tax Assessment Act 1997 (ITAA 1997) for the purpose of preventing the inflation of the modified market value (integrity rule), in respect of a non-arm's length loan where the terms and conditions of the loan remain unchanged?
@@ -27,8 +23,6 @@ Reasons for Decision
 The basic rule for working out the modified market value of an entity that becomes a member of a consolidated group is contained in subsection 707-325(1) of the ITAA 1997. It provides that the modified market value of an entity at the joining time is the market value of the entity at that time based on certain assumptions.
 Subsection 707-325(2) of the ITAA 1997 provides that if:
 
-
-
 •there are one or more events described in subsection 707-325(4) of the ITAA 1997;
 •that occurred in the four years before the time an entity becomes a member of a consolidated group; and
 •the modified market value of the entity calculated under subsection 707-325(1) of the ITAA 1997 exceeds what it would have been if none of those events occurred,
@@ -40,7 +34,7 @@ As Entity A borrowed the funds in a transaction that did not take place at arm's
 Entity A has an ongoing benefit of not having to pay a commercial rate of interest which may affect its market value at the joining time. However, for the purposes of subsection 707-325(4) of the ITAA 1997, there is considered to be no injection of capital nor any non-arm's length transaction in relation to the ongoing continuation of the loan at unchanged terms and conditions.
 The only event for purposes of the integrity rule is the transaction where Entity A borrows the funds. Therefore, this integrity rule would have no application if the transaction (borrowing of the funds) occurred prior to 9 December 2000 or more than four years before the joining time.
 Date of decision:
-         14 October 2004
+  14 October 2004
 
 Legislative References:
 
@@ -58,28 +52,27 @@ Related ATO Interpretative Decisions
 Keywords
 
 Arms length transactions
-          Available fraction
-          Borrowings & loans
-          Bundle of losses
-          Consolidation - event
-          Consolidation - losses
-          Consolidation - non-arm's length transaction
-          Consolidation - reduction
-          Group company loss transfers
-          Joining entity
-          Modified market value
-          Non arms length transactions
-          Transferred losses
-
+ Available fraction
+ Borrowings & loans
+ Bundle of losses
+ Consolidation - event
+ Consolidation - losses
+ Consolidation - non-arm's length transaction
+ Consolidation - reduction
+ Group company loss transfers
+ Joining entity
+ Modified market value
+ Non arms length transactions
+ Transferred losses
 
 Siebel/TDMS Reference Number:
-         4236558
+  4236558
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         25 October 2004
+  25 October 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

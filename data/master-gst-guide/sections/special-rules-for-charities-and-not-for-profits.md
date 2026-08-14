@@ -9,9 +9,9 @@ paragraph: "¶15-000"
 
 Charities, gift-deductible entities, government schools and non-profit bodies are entitled to various concessions designed to reduce the administrative inconveniences that would otherwise flow from a strict application of the normal GST rules.
 
-The general intention is that these bodies are subject to GST on their commercial activities, but their non- commercial activities are GST-free. This treatment is designed to avoid giving them an “unfair” competitive advantage over other business providers.
+The general intention is that these bodies are subject to GST on their commercial activities, but their non- commercial activities are GST-free. This treatment is designed to avoid giving them an "unfair" competitive advantage over other business providers.
 
-The types of body that may qualify for these concessions or special rules are explained below. “Charities” Charities have to be endorsed by the ATO in order to claim their special GST concessions (Div 176). It is a prerequisite for endorsement that the charity be registered with the Australian Charities and Not-for-Profits Commission (ACNC). However, charities that were endorsed before 3 December 2012 continue to have endorsed status. Details of an endorsed charity’s GST concession status appear on the entry for that charity in the ABN Lookup website at www.abr.business.gov.au.
+The types of body that may qualify for these concessions or special rules are explained below. "Charities" Charities have to be endorsed by the ATO in order to claim their special GST concessions (Div 176). It is a prerequisite for endorsement that the charity be registered with the Australian Charities and Not-for-Profits Commission (ACNC). However, charities that were endorsed before 3 December 2012 continue to have endorsed status. Details of an endorsed charity's GST concession status appear on the entry for that charity in the ABN Lookup website at www.abr.business.gov.au.
 
 Statutory definition of charity The statutory definition of charity largely adopts the common law position but introduces some clarifications (Charities Act 2013). It provides that the categories of charitable purposes are:
 
@@ -39,7 +39,7 @@ Statutory definition of charity The statutory definition of charity largely adop
 
 (such as the rule of law or the system of government).
 
-Institutions whose main purpose is to promote the prevention or control of diseases in human beings, or “public benevolent institutions” (PBIs), may also be endorsed. It has been held that there is no requirement that a PBI needs to engage directly in the activities making up the object of its benevolence (The Hunger Project Australia v FC of T 2013 ATC ¶20-399); and that a body organised for the purpose of relieving global poverty was entitled to PBI status even though its activities included education and advocacy (Global Citizen Ltd v Commissioner of ACNC 2021 ATC ¶10-593). However, this did not extend to an organisation whose sole or primary activity was advocacy directed towards changing laws and social practices that caused harm to a particular minority group: Equality Australia Ltd v Commissioner of Australian Charities and Not-for- profits Commission (2024 ATC ¶20-926; [2024] FCAFC 115). The ACNC accepts that a PBI can in some circumstances engage in some advocacy. For guidelines see “Commissioner’s Interpretation Statement: Public Benevolent Institutions” at acnc.gov.au/public-consultation-updated-commissioners-interpretation- statements.
+Institutions whose main purpose is to promote the prevention or control of diseases in human beings, or "public benevolent institutions" (PBIs), may also be endorsed. It has been held that there is no requirement that a PBI needs to engage directly in the activities making up the object of its benevolence (The Hunger Project Australia v FC of T 2013 ATC ¶20-399); and that a body organised for the purpose of relieving global poverty was entitled to PBI status even though its activities included education and advocacy (Global Citizen Ltd v Commissioner of ACNC 2021 ATC ¶10-593). However, this did not extend to an organisation whose sole or primary activity was advocacy directed towards changing laws and social practices that caused harm to a particular minority group: Equality Australia Ltd v Commissioner of Australian Charities and Not-for- profits Commission (2024 ATC ¶20-926; [2024] FCAFC 115). The ACNC accepts that a PBI can in some circumstances engage in some advocacy. For guidelines see "Commissioner's Interpretation Statement: Public Benevolent Institutions" at acnc.gov.au/public-consultation-updated-commissioners-interpretation- statements.
 
 - a charity may have incidental purposes that may be uncharitable when viewed in isolation, but which
 
@@ -61,7 +61,7 @@ Institutions whose main purpose is to promote the prevention or control of disea
 
   Charities do not include government entities.
 
-Principles established under former common law Previously, the meaning of “charity” was largely determined by the courts under common law. This established the following main points:
+Principles established under former common law Previously, the meaning of "charity" was largely determined by the courts under common law. This established the following main points:
 
 - In general, charities are non-profit organisations established for the advancement of education, the
 
@@ -97,23 +97,23 @@ Watch). Similarly, a bicycling organisation was considered to be charitable on t
 
   profit bodies for purposes of the independent branch rules (¶15-080).
 
-- The ATO’s general views on the meaning of “charitable institution” under these common law rules are
+- The ATO's general views on the meaning of "charitable institution" under these common law rules are
 
   set out in Taxation Ruling TR 2011/4.
 
-- “Charity” specifically includes not-for-profit childcare bodies available to the public, self-help bodies
+- "Charity" specifically includes not-for-profit childcare bodies available to the public, self-help bodies
 
   that have open and non-discriminatory membership, and closed or contemplative religious orders that
 
   offer prayerful intervention for the public (former Extension of Charitable Purpose Act 2004).
 
-“Gift-deductible entities” An organisation qualifies under this heading if gifts to it are tax deductible. This wide category includes bodies such as hospitals, public universities, public benevolent institutions, medical research bodies, aid agencies, political parties and many other non-profit bodies (s 195-1). All bodies have to be endorsed by the ATO in order to have or maintain gift-deductible status, unless they are specifically named in the tax law.
+"Gift-deductible entities" An organisation qualifies under this heading if gifts to it are tax deductible. This wide category includes bodies such as hospitals, public universities, public benevolent institutions, medical research bodies, aid agencies, political parties and many other non-profit bodies (s 195-1). All bodies have to be endorsed by the ATO in order to have or maintain gift-deductible status, unless they are specifically named in the tax law.
 
 Only bodies with ABNs can be endorsed, although it is not essential that they be registered for GST.
 
 Gift-deductible entities include non-charitable public ancillary and prescribed private funds. These funds are trusts that are established for the purpose of providing money and other benefits to organisations that are gift-deductible entities.
 
-A body that operates a gift-deductible entity is entitled to the charitable GST concessions only in relation to the activities of that entity, not the whole of the body’s activities. “Government schools” Government schools are those providing preschool, full-time primary or secondary courses (s 195-1). The need for a specific inclusion of these schools arises because they are technically not charities. “Non-profit bodies” For the meaning of non-profit bodies, see ¶3-030.
+A body that operates a gift-deductible entity is entitled to the charitable GST concessions only in relation to the activities of that entity, not the whole of the body's activities. "Government schools" Government schools are those providing preschool, full-time primary or secondary courses (s 195-1). The need for a specific inclusion of these schools arises because they are technically not charities. "Non-profit bodies" For the meaning of non-profit bodies, see ¶3-030.
 
 *Refs: s 195-1)*
 

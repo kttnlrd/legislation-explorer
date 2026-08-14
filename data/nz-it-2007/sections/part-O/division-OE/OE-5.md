@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 For the purposes of applying this subpart to a person, other than a company, with an attributing interest in a foreign investment fund (FIF),—
 
-- (a) FIF income derived from the person’s interest is treated as attributed CFC income if the FIF income is calculated—
+- (a) FIF income derived from the person's interest is treated as attributed CFC income if the FIF income is calculated—
 
   - (i) under the attributable FIF income method:
 

@@ -3,21 +3,16 @@ ATO ID 2004/485
 ==================================================
 
 Goods and Services Tax
-        GST and sale of impounded livestock by a local council
-        FOI status: may be released
-
+ GST and sale of impounded livestock by a local council
+ FOI status: may be released
 
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a local council, making a taxable supply under either section 105-5 or section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when, under council by-laws it sells impounded livestock?
@@ -33,15 +28,11 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Section 105-5 of the GST Act provides that a supply made by a creditor in satisfaction of a debt is a taxable supply if:
 
-
-
 •an entity supplies the property of the debtor to a third party in satisfaction of a debt that the debtor owes to the entity, and
 •the supply, to the third party, would be a taxable supply if the debtor had made the supply.
 
 The entity sold the livestock to a third party at public auction. Under the council by-laws the entity holds the proceeds from the sale of the livestock, less the costs of impounding and selling the livestock, on trust for the collection by the owner of the livestock once identified. As such, the entity did not make the supply in satisfaction of a debt that the owner of the livestock owed to the entity, which is the first requirement of section 105-5 of the GST Act. Even though the costs of impounding and selling the livestock were withheld from the proceeds of the sale, the sale was not made for the purpose of satisfying a debt. Section 105-5 of the GST Act does not apply to the sale and the rules in Division 9 of the GST Act must be considered.
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
-
-
 
 •it makes a supply for consideration
 •the supply is made in the course or furtherance of an enterprise that it carries on
@@ -51,7 +42,7 @@ Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 The sale of the livestock is for consideration. The entity makes the supply in the course of its enterprise that it carries on in Australia and is registered for GST.
 Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when, under council by-laws it sells impounded livestock.
 Date of decision:
-         24 January 2003
+  24 January 2003
 
 Legislative References:
 
@@ -64,19 +55,18 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST livestock
-          GST supplies and acquisitions
-          GST supply
-
+ GST livestock
+ GST supplies and acquisitions
+ GST supply
 
 Siebel/TDMS Reference Number:
-         1221685
+  1221685
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         11 June 2004
+  11 June 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

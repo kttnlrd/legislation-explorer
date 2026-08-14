@@ -15,13 +15,13 @@ In January 2025, Kelly was offered a 24-month transfer by the company to their h
 
 Explain whether Eva and Kelly would be liable to make repayments of their HELP debts for 2024–25 and, if so, how the repayments would be made.
 
-Solution An individual with a HELP debt does not have to make repayments unless their “repayment income” for the year has reached at least the HELP threshold for the year. For 2024–25, the HELP threshold is $54,435. The repayment rate, ranging from 1% to 10%, depends on a taxpayer’s repayment income for the year.
+Solution An individual with a HELP debt does not have to make repayments unless their "repayment income" for the year has reached at least the HELP threshold for the year. For 2024–25, the HELP threshold is $54,435. The repayment rate, ranging from 1% to 10%, depends on a taxpayer's repayment income for the year.
 
-An individual’s repayment income is the total of their: (i) taxable income (ii) exempt foreign employment income (iii) reportable fringe benefits total (iv) reportable superannuation contributions, and (v) total net investment losses.
+An individual's repayment income is the total of their: (i) taxable income (ii) exempt foreign employment income (iii) reportable fringe benefits total (iv) reportable superannuation contributions, and (v) total net investment losses.
 
 HELP debts are collected in either of 2 ways:
 
-- if the individual’s employer knows that the individual has an accumulated HELP debt and their
+- if the individual's employer knows that the individual has an accumulated HELP debt and their
 
   repayment income has reached the HELP threshold for the year, the employer will withhold additional
 
@@ -33,7 +33,7 @@ An employer may be aware that an individual has an accumulated HELP debt because
 
 HELP repayments are not deductible if they are made by an employee, but they may be deductible for an employer if the repayment is made on behalf of an employee and the employer also pays fringe benefits tax on the amount paid (ITAA97 s 26-20).
 
-If a taxpayer with a HELP debt moves overseas for more than 183 days (the assumption being that they are then a foreign resident), the taxpayer is required to repay their HELP debt to the same extent as they would have been required if they continued to reside in Australia. Liability is imposed on overseas debtors as a levy — the “overseas debtors repayment levy” (Student Loans (Overseas Debtors Repayment Levy) Act 2015).
+If a taxpayer with a HELP debt moves overseas for more than 183 days (the assumption being that they are then a foreign resident), the taxpayer is required to repay their HELP debt to the same extent as they would have been required if they continued to reside in Australia. Liability is imposed on overseas debtors as a levy — the "overseas debtors repayment levy" (Student Loans (Overseas Debtors Repayment Levy) Act 2015).
 
 The HELP debt repayment rules are in the Higher Education Support Act 2003.
 
@@ -41,7 +41,7 @@ Eva Assuming she has no assessable income for 2023–24 other than her salary in
 
 The repayment rate on $68,000 is 2.5%, so Eva must pay $1,700 ($68,000 × 2.5%) in addition to her income tax liability. This will be paid either by her employer withholding the additional tax from her salary during the year, or when she lodges an income tax return and her tax liability is assessed.
 
-Kelly No later than 7 days after she goes overseas, Kelly must give notice of her absence to the ATO in the approved form. As a foreign resident, she will be required to make HELP repayments for 2024–25 if she has a HELP debt on 1 June 2024 and her “assessed worldwide income”, that is, the sum of her repayment income and her foreign source income, exceeds the repayment threshold for the year.
+Kelly No later than 7 days after she goes overseas, Kelly must give notice of her absence to the ATO in the approved form. As a foreign resident, she will be required to make HELP repayments for 2024–25 if she has a HELP debt on 1 June 2024 and her "assessed worldwide income", that is, the sum of her repayment income and her foreign source income, exceeds the repayment threshold for the year.
 
 Assuming she has no assessable income for 2024–25 other than her salary income, Kelly has repayment income of $58,000.
 

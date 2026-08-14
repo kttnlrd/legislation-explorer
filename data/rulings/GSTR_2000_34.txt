@@ -4,12 +4,10 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 358
-  • Division 358
+ • Div 358
+ • Division 358
 
 Topics: GST, Companies
-
-
 
 ================================================================================
 
@@ -24,7 +22,7 @@ Back to browse
 44 related documents
 Goods and Services Tax Ruling
 GSTR 2000/34
-Goods and services tax:  what is an invoice for the purposes of the
+Goods and services tax: what is an invoice for the purposes of the
 A New Tax System (Goods and Services Tax) Act 1999
 ('GST Act')?
 Please note that the
@@ -94,26 +92,26 @@ Date of effect
 6A.	Changes made to this Ruling by Addenda that issued on 11 July 2007, 31 October 2012 and 30 October 2013 have been incorporated into this version of the Ruling.
 [1A]
 Context
-7.  GST is accounted for in tax periods.  The GST payable and entitlement to input tax credits are attributed to a tax period in which certain requirements are met.
-8.  The GST payable on a taxable supply is attributable to the earlier of the tax periods in which:
+7. GST is accounted for in tax periods. The GST payable and entitlement to input tax credits are attributed to a tax period in which certain requirements are met.
+8. The GST payable on a taxable supply is attributable to the earlier of the tax periods in which:
 •
 any of the consideration for the supply is received; or
 •
 an invoice is issued for the supply (subsection 29-5(1)).
-9.  The input tax credit for a creditable acquisition is attributable to the earlier of the tax periods in which:
+9. The input tax credit for a creditable acquisition is attributable to the earlier of the tax periods in which:
 •
 you provide any consideration; or
 •
 an invoice is issued for the acquisition (subsection 29-10(1)).
-10. To claim an input tax credit for a particular tax period, you are required to hold a tax invoice when you give to the Commissioner a GST return for the period (subsection 29-10(3)).  If the GST exclusive value of the taxable supply is $75 or less, then you will not need a tax invoice (section 29-80).  For a detailed explanation of what constitutes a tax invoice, refer to Goods and Services Tax Ruling GSTR 2013/1.
-11. For GST purposes, it is important to identify an invoice that meets the definition of invoice in section 195-1 of the GST Act.  In practice, some documents not referred to as invoices will meet the definition and result in attribution occurring when the document is issued.
+10. To claim an input tax credit for a particular tax period, you are required to hold a tax invoice when you give to the Commissioner a GST return for the period (subsection 29-10(3)). If the GST exclusive value of the taxable supply is $75 or less, then you will not need a tax invoice (section 29-80). For a detailed explanation of what constitutes a tax invoice, refer to Goods and Services Tax Ruling GSTR 2013/1.
+11. For GST purposes, it is important to identify an invoice that meets the definition of invoice in section 195-1 of the GST Act. In practice, some documents not referred to as invoices will meet the definition and result in attribution occurring when the document is issued.
 Ruling
-12. An 'invoice' is defined in section 195-1 of the GST Act to mean 'a document notifying an obligation to make a payment'.  For the purposes of this definition:
+12. An 'invoice' is defined in section 195-1 of the GST Act to mean 'a document notifying an obligation to make a payment'. For the purposes of this definition:
 A
 document
 may be in the form of paper, a computer system, tapes, or computer disks and may be in an electronic form.
 Notifying an obligation to make a payment
-is the essential characteristic of a document which is an invoice.  This characteristic exists where the document informs the parties that there is a presently existing obligation to make a payment and the amount of that payment.
+is the essential characteristic of a document which is an invoice. This characteristic exists where the document informs the parties that there is a presently existing obligation to make a payment and the amount of that payment.
 Explanations (this forms part of the Ruling)
 What is an invoice?
 13. In a commercial environment, an invoice is prepared by a seller (supplier) and issued to a buyer (recipient) as the document against which payment of the debt is made.
@@ -143,27 +141,27 @@ Shell NZ Holding Company Ltd v
 .
 CIR
 [F2]
-held that the term 'invoice' imports the essence of a commercial invoice, the essential feature of which is the notification of an obligation to pay.  We believe that the approach of the New Zealand Court of Appeal is consistent with the meaning of the term invoice as defined in section 195-1.
+held that the term 'invoice' imports the essence of a commercial invoice, the essential feature of which is the notification of an obligation to pay. We believe that the approach of the New Zealand Court of Appeal is consistent with the meaning of the term invoice as defined in section 195-1.
 19. The Court in the
 Shell case
-was asked to determine which of two competing documents, an import entry form or a deferred duty statement, was an invoice for GST purposes.  The taxpayer sought to deduct credits on imported petroleum goods before GST payments were made to Customs.  The taxpayer's argument was based on the import entry form being an invoice for GST purposes.
-20. The Commissioner of Inland Revenue argued that the input tax credit was not deductible until Customs had sent the taxpayer a deferred duty statement requiring payment.  The Commissioner also argued that the deferred duty statement was an invoice for GST purposes, not the earlier import entry form.
-21. The New Zealand Court of Appeal held that the import entry form was an invoice for GST purposes.  In reaching this decision, the court commented as follows:
-'Invoices are rendered in commercial transactions where goods are supplied or work is done by one party for another.  Invoices record what was done and the charge.  It may be a cash or credit transaction and in the latter case it is common for a monthly or other periodic statement to be issued subsequently.  Whether payable on delivery or under the credit arrangement the invoice states the price or charge involved.  And it is both unnecessary and uncommon in practice for commercial invoices to specify the time for payment.
-In our view the GST obligation is in the same position.  The statutory definition of "invoice" recognises that it is not a commercial two party transaction.  It uses the central feature of an invoice which is "a document notifying an obligation to make payment".  The time for payment is not part of the definition.  "Notify" has its ordinary dictionary meaning of "to give notice to -, to inform".  Certainly when completed by the Customs officer it is the Customs document and a copy is furnished to the importer.  It is the signing of the document by the Customs officer which under the statute is the entry of the goods.  It is that act which constitutes the duty as a debt due to the Crown.  At that point the document is notice to the importer of the obligation to make payment'.
+was asked to determine which of two competing documents, an import entry form or a deferred duty statement, was an invoice for GST purposes. The taxpayer sought to deduct credits on imported petroleum goods before GST payments were made to Customs. The taxpayer's argument was based on the import entry form being an invoice for GST purposes.
+20. The Commissioner of Inland Revenue argued that the input tax credit was not deductible until Customs had sent the taxpayer a deferred duty statement requiring payment. The Commissioner also argued that the deferred duty statement was an invoice for GST purposes, not the earlier import entry form.
+21. The New Zealand Court of Appeal held that the import entry form was an invoice for GST purposes. In reaching this decision, the court commented as follows:
+'Invoices are rendered in commercial transactions where goods are supplied or work is done by one party for another. Invoices record what was done and the charge. It may be a cash or credit transaction and in the latter case it is common for a monthly or other periodic statement to be issued subsequently. Whether payable on delivery or under the credit arrangement the invoice states the price or charge involved. And it is both unnecessary and uncommon in practice for commercial invoices to specify the time for payment.
+In our view the GST obligation is in the same position. The statutory definition of "invoice" recognises that it is not a commercial two party transaction. It uses the central feature of an invoice which is "a document notifying an obligation to make payment". The time for payment is not part of the definition. "Notify" has its ordinary dictionary meaning of "to give notice to -, to inform". Certainly when completed by the Customs officer it is the Customs document and a copy is furnished to the importer. It is the signing of the document by the Customs officer which under the statute is the entry of the goods. It is that act which constitutes the duty as a debt due to the Crown. At that point the document is notice to the importer of the obligation to make payment'.
 [F3]
-22. The New Zealand Court of Appeal considered that the GST obligation is the same as the obligation in commercial invoices.  The central feature of both documents is a notice of an obligation to pay.
+22. The New Zealand Court of Appeal considered that the GST obligation is the same as the obligation in commercial invoices. The central feature of both documents is a notice of an obligation to pay.
 23. The ordinary meaning of an 'obligation' is defined in the Macquarie Dictionary (5th ed) as 'a legal relationship between two persons, such that one person's right entails the other person's duty'.
 24. In considering the meaning of 'obligation' in the definition of invoice in the New Zealand legislation, Heron J, in the
 Shell case
 at the New Zealand High Court, commented:
-'The Act does not speak in terms of future obligation or conditional obligation or contingent obligation.  It speaks of obligation.  It is an obligation to make payment'.
+'The Act does not speak in terms of future obligation or conditional obligation or contingent obligation. It speaks of obligation. It is an obligation to make payment'.
 [F4]
-25. The words 'obligation to make a payment' refer in our view to a legal obligation which is analogous to being 'required to pay'.  A party can only be regarded as under an obligation to make a payment if '...there is a requirement for either an actual payment or, at least, a present obligation to pay a sum certain at some future date'.
+25. The words 'obligation to make a payment' refer in our view to a legal obligation which is analogous to being 'required to pay'. A party can only be regarded as under an obligation to make a payment if '...there is a requirement for either an actual payment or, at least, a present obligation to pay a sum certain at some future date'.
 [F5]
-26. The existence of an obligation to pay will depend on the terms of the contract which govern the supply.  In some circumstances, an obligation to pay may arise at a point in time preceding the time of supply, however, this will depend on the intention of the parties
+26. The existence of an obligation to pay will depend on the terms of the contract which govern the supply. In some circumstances, an obligation to pay may arise at a point in time preceding the time of supply, however, this will depend on the intention of the parties
 [F6]
-.  A supplier who has completed all that is required under the contract to demand payment of some or all of the contract price may issue a document notifying the recipient of an obligation to pay that part of the supply consideration.  A document of this nature is an invoice for the purposes of the GST Act.
+. A supplier who has completed all that is required under the contract to demand payment of some or all of the contract price may issue a document notifying the recipient of an obligation to pay that part of the supply consideration. A document of this nature is an invoice for the purposes of the GST Act.
 Example
 27.
 Michael purchases an exotic sports car which is currently unavailable
@@ -176,19 +174,19 @@ The dealer gives Michael a document which shows the amount to be paid and the du
 .
 The document is an invoice for GST purposes
 .
-28. A document will be an invoice if it notifies a presently existing obligation.  In the
+28. A document will be an invoice if it notifies a presently existing obligation. In the
 Shell case
 [F7]
 , the word 'notify' was taken to mean its ordinary dictionary meaning of 'to give notice to-, to inform'.
-29. It is not sufficient that the obligation exists and that the document merely evidences the existence of the liability.  The document must also inform the recipient of the obligation to make a payment and the amount of that payment.
-30. A contract creates a contractual obligation to make a payment.  If the obligation created is a presently existing one, a copy of the executed contract, which is returned to the recipient of the supply, will be a document which notifies that obligation, if it specifies the amount due by the recipient to the supplier.  The copy of the contract will be an invoice.  However, many contracts do not create an immediate obligation to pay.  This will depend on the terms of the contract and the intention of the parties.
-31. The amount notified by an invoice must be a sum certain.  It is not enough that an amount might become payable in the future upon the happening of some contingency.
+29. It is not sufficient that the obligation exists and that the document merely evidences the existence of the liability. The document must also inform the recipient of the obligation to make a payment and the amount of that payment.
+30. A contract creates a contractual obligation to make a payment. If the obligation created is a presently existing one, a copy of the executed contract, which is returned to the recipient of the supply, will be a document which notifies that obligation, if it specifies the amount due by the recipient to the supplier. The copy of the contract will be an invoice. However, many contracts do not create an immediate obligation to pay. This will depend on the terms of the contract and the intention of the parties.
+31. The amount notified by an invoice must be a sum certain. It is not enough that an amount might become payable in the future upon the happening of some contingency.
 [F8]
-32. A third party who is authorised to determine and notify an amount payable by one party to another can issue an invoice for the purposes of sections 29-5 and 29-10.  For example, the certificate issued by an independent quantity surveyor who assesses the amount due in relation to each progress claim under a construction contract will be an invoice.
+32. A third party who is authorised to determine and notify an amount payable by one party to another can issue an invoice for the purposes of sections 29-5 and 29-10. For example, the certificate issued by an independent quantity surveyor who assesses the amount due in relation to each progress claim under a construction contract will be an invoice.
 When is an invoice issued?
-33. An invoice is issued when the supplier sends a document which notifies the recipient of the obligation to pay.  The actual date when the invoice issues may not be the preparation date.  The actual date is the date when the invoice is electronically transmitted, posted, couriered, hand delivered or similar.  This date determines the tax period to which the GST payable and input tax credits are attributed.
+33. An invoice is issued when the supplier sends a document which notifies the recipient of the obligation to pay. The actual date when the invoice issues may not be the preparation date. The actual date is the date when the invoice is electronically transmitted, posted, couriered, hand delivered or similar. This date determines the tax period to which the GST payable and input tax credits are attributed.
 Contents of an invoice
-34. In commercial practice, many documents may be referred to as an invoice.  An invoice may include:
+34. In commercial practice, many documents may be referred to as an invoice. An invoice may include:
 •
 date of issue;
 •
@@ -201,7 +199,7 @@ description of the goods or services supplied including quality, quantity and un
 terms of sale, due date for payment and whether any discount is available; and
 •
 amount payable.
-35. Although the date of issue of an invoice is a question of fact and can be ascertained by reference to records of the enterprise, it will assist you to identify the attribution date if the issue date is recorded on the invoice.  For GST purposes, it is desirable that an invoice contains sufficient information to identify or ascertain:
+35. Although the date of issue of an invoice is a question of fact and can be ascertained by reference to records of the enterprise, it will assist you to identify the attribution date if the issue date is recorded on the invoice. For GST purposes, it is desirable that an invoice contains sufficient information to identify or ascertain:
 •
 date of issue;
 •
@@ -213,7 +211,7 @@ the amount payable.
 The recipient is entitled to rely on the date of issue stated on the invoice in the absence of any evidence to the contrary.
 36. It is accepted that documents used in commercial practice that are not referred to as an 'invoice' may satisfy the definition of invoice under the GST Act.
 Other Examples
-Example:  Delivery docket
+Example: Delivery docket
 37.
 Frank
 ,
@@ -242,7 +240,7 @@ Milling Ltd
 ,
 has completed all that is required to be done and the delivery docket notifies a current obligation to make a payment
 .
-Example:  Supplies on account
+Example: Supplies on account
 39.
 Stan's print shop has a business account with a paper supplier
 .
@@ -284,7 +282,7 @@ This statement is an invoice for GST purposes
 .
 The date of issue of this statement determines the tax period for attribution purposes
 .
-Example:  Sale of goods
+Example: Sale of goods
 41.
 Mark purchases an outboard motor for delivery in 30 days
 .
@@ -294,7 +292,7 @@ The contract is a standard sale of goods contract under which no liability to pa
 .
 A copy of the contract will not be an invoice because it does not notify a presently existing obligation to make a payment
 .
-Example:  Progress claim
+Example: Progress claim
 42.
 Miller and Son provides supplies of concreting services to the building industry
 .
@@ -320,7 +318,7 @@ The certificate is an invoice
 .
 The initial claim submitted by Miller and Son is not an invoice
 .
-Example:  Insurance renewal notice
+Example: Insurance renewal notice
 45.
 Cheryl receives a renewal notice for a house and contents insurance policy
 .
@@ -334,7 +332,7 @@ Cheryl accepts the offer by making a payment
 .
 The GST payable by the insurance company on the supply is attributable to the tax period in which Cheryl makes the payment
 .
-Example:  Job quote
+Example: Job quote
 46.
 City Plaza
 ,
@@ -357,7 +355,7 @@ City Plaza is not obliged to make any payment or accept the quote
 .
 It is not an invoice for GST purposes
 .
-Example:  Deferred payment plan
+Example: Deferred payment plan
 48.
 John purchases an air conditioner for his business on a plan under which he pays no deposit
 ,
@@ -379,7 +377,7 @@ This receipt is not an invoice because it does not notify an obligation to pay
 .
 The obligation to pay is satisfied by a payment made on behalf of John by the finance provider
 .
-Example:  Standard land contract
+Example: Standard land contract
 51.
 Brian enters into a contract with Desiree for the purchase of the freehold interest in a 5 acre property owned by her
 .
@@ -407,7 +405,7 @@ This standard land contract is not an invoice because it does not notify an exis
 including title passing
 [F9]
 .
-Example:  Lease
+Example: Lease
 53.
 Dale offers to enter into an agreement to lease a shop from Generous Life Insurance
 ,
@@ -431,9 +429,9 @@ The lease is not an invoice for the balance of the lease period because it is no
 .
 [F10]
 What is the difference between an invoice and a tax invoice?
-56. An invoice notifies a recipient of an obligation to pay.  The effect of an invoice is to allow you to attribute the GST payable and input tax credits to the correct tax period.  A tax invoice will enable you to claim input tax credits on your GST return.  You cannot claim an input tax credit unless you hold a tax invoice.  You do not have to hold a tax invoice when the GST exclusive value of the taxable supply is $75 or less.
+56. An invoice notifies a recipient of an obligation to pay. The effect of an invoice is to allow you to attribute the GST payable and input tax credits to the correct tax period. A tax invoice will enable you to claim input tax credits on your GST return. You cannot claim an input tax credit unless you hold a tax invoice. You do not have to hold a tax invoice when the GST exclusive value of the taxable supply is $75 or less.
 [F10A]
-57. Subsection 29-70(1) of the GST Act outlines the information requirements for a document to be a tax invoice.  Some of the requirements of an invoice and a tax invoice are:
+57. Subsection 29-70(1) of the GST Act outlines the information requirements for a document to be a tax invoice. Some of the requirements of an invoice and a tax invoice are:
 ATTRIBUTES
 INVOICE
 TAX INVOICE
@@ -468,10 +466,10 @@ X
 X
 X
 * Recommended for attribution purposes
-58. A tax invoice may be an invoice for the purposes of sections 29-5 and 29-10 of the GST Act.  An invoice will be a tax invoice if it satisfies the requirements of subsection 29-70(1). An entity may treat a document issued by another entity as a tax invoice where the requirements of subsection 29-70(1A) are met. The Commissioner may also use the discretion under subsection 29-70(1B) to treat a document as if it were a tax invoice.
+58. A tax invoice may be an invoice for the purposes of sections 29-5 and 29-10 of the GST Act. An invoice will be a tax invoice if it satisfies the requirements of subsection 29-70(1). An entity may treat a document issued by another entity as a tax invoice where the requirements of subsection 29-70(1A) are met. The Commissioner may also use the discretion under subsection 29-70(1B) to treat a document as if it were a tax invoice.
 [10B]
 59. If a tax invoice is issued after payment, it cannot be an invoice as the obligation to make a payment has been satisfied by the earlier payment.
-60. For attribution purposes, if more than one tax invoice issues in relation to a supply, it is the first tax invoice which establishes the entitlement to claim input tax credits.  An input tax credit entitlement in relation to a supply arises only once, even if more than one tax invoice issues.
+60. For attribution purposes, if more than one tax invoice issues in relation to a supply, it is the first tax invoice which establishes the entitlement to claim input tax credits. An input tax credit entitlement in relation to a supply arises only once, even if more than one tax invoice issues.
 Example
 61.
 Ross operates a panel beating business and accounts on a basis other than cash. He lodges his activity statement quarterly. On 28 September 2010, Ross receives an invoice for paint supplied to him by Aussie Paints for an amount of $2,200. The invoice has the date of issue, the identity of the supplier and recipient and the total price of the supply including the amount of GST payable but does not include the ABN of the supplier. The invoice does not satisfy the requirements of a tax invoice
@@ -571,7 +569,7 @@ Footnotes
 [F4]
 4 Shell NZ Holding Company Ltd v. CIR (1993) 15 NZTC 10,136, at 10,139
 [F5]
-5 Dingwall v FC of T  95 ATC 4345, at 4351
+5 Dingwall v FC of T 95 ATC 4345, at 4351
 [F6]
 6 McDonald v Dennys Lascelles Ltd (1933) 48 CLR 457, at 476
 [F7]
@@ -583,13 +581,13 @@ Footnotes
 [F10]
 10 Refer to Goods and Services Tax Ruling GSTR 2000/35
 [F10A]
-10A  Subsection 29-80(1).
+10A Subsection 29-80(1).
 [F10B]
 10B Refer to Goods and Services Tax Ruling GSTR 2013/1
 Previously released in draft form as GSTR 2000/D16
 References
 ATO references:
-NO  T2000/9186
+NO T2000/9186
 ISSN 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
@@ -622,7 +620,7 @@ ANTS(GST)A99 29-70(1B)
 ANTS(GST)A99 29-80
 ANTS(GST)A99 29-80(1)
 ANTS(GST)A99 195-1
-Acts Interpretation Act 1901  2B
+Acts Interpretation Act 1901 2B
 TAA 1953 Sch 1 Div 358
 Goods and Services Act 1985 (NZ) 2
 Case References:

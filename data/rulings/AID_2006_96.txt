@@ -3,21 +3,16 @@ ATO ID 2006/96
 ==================================================
 
 Income tax
-        Consolidation: life insurance - tax cost setting amount for membership interests where unit trusts cease to be subsidiary members of a consolidated group
-        FOI status: may be released
-
+ Consolidation: life insurance - tax cost setting amount for membership interests where unit trusts cease to be subsidiary members of a consolidated group
+ FOI status: may be released
 
 The terms 'virtual PST', 'virtual PST asset' and 'virtual PST life insurance policy' were repealed by First Home Saver Accounts (Consequential Amendment) Act 2008, effective 26 June 2008. They were replaced by the terms 'complying superannuation/FSHA asset pool' 'complying superannuation/FSHA asset' and 'complying superannuation/FSHA life insurance policy' respectively. From this date, references to 'virtual PST life insurance policy liabilities' in the following document can also be replaced with the term 'complying superannuation/FSHA liabilities'.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 The head company of a consolidated group is treated as a life insurance company. The consolidated group includes two subsidiary members that are unit trusts. The first unit trust is held under the virtual PST of the head company. The underlying assets of this unit trust are segregated to support virtual PST life insurance policy liabilities. The underlying assets of the second unit trust are not segregated and form part of the ordinary assets of the head company. That unit trust can be said to be held under the 'ordinary component' of the head company.
@@ -30,14 +25,10 @@ Facts
 Head Co is the head company of a consolidated group. Under subsection 713-505 of the ITAA 1997, Head Co is treated as a life insurance company for the purposes of applying the income tax law.
 Investment policies are issued to trustees of superannuation funds and to ordinary (non-superannuation) policyholders. The assets supporting these policies are held through two subsidiary member unit trusts:
 
-
-
 •Trust V is held under the virtual PST. Consistent with Division 320 of the ITAA 1997, the underlying assets of this unit trust are segregated to support virtual PST life insurance policy liabilities, and
 •Trust O is held under the 'ordinary component'. The underlying assets of this unit trust are not segregated and form part of the ordinary assets of Head Co's life insurance business.
 
 It is proposed to issue an additional unit from each unit trust to other 'components' of Head Co for market value, namely:
-
-
 
 •One unit will be issued by Trust V to the 'ordinary component' of Head Co;
 •One unit will be issued by Trust O to the virtual PST of Head Co.
@@ -63,10 +54,10 @@ In accordance with item 2 in the table in section 701-60 of the ITAA 1997, the t
 There is no multiple exit in terms of section 711-55 of the ITAA 1997. The trusts cease to be subsidiary members of the consolidated group because of the happening of two separate events. One event is the issue of an additional unit by Trust V which causes Trust V to exit the group. The other event is the issue of an additional unit by Trust O which causes Trust O to exit the group. Each event only causes one trust to exit the consolidated group.
 Therefore, as section 711-55 of the ITAA 1997 does not apply, the tax cost setting amount for each membership interest in each unit trust will be worked out in accordance with section 711-15.
 Date of decision:
-         30 March 2006
+  30 March 2006
 
 Year of income:
-           Year ended 30 June 2006 Year ended 30 June 2007
+  Year ended 30 June 2006 Year ended 30 June 2007
 
 Legislative References:
 
@@ -75,23 +66,22 @@ Income Tax Assessment Act 1997   Division 320   subsection 713-510(2)  �
 Keywords
 
 Consolidation
-          Consolidation - assets
-          Consolidation - exiting
-          Cost setting rules
-          Leaving entity
-          Life insurance company
-          Virtual pooled superannuation trusts
-          Complying superannuation funds
-
+ Consolidation - assets
+ Consolidation - exiting
+ Cost setting rules
+ Leaving entity
+ Life insurance company
+ Virtual pooled superannuation trusts
+ Complying superannuation funds
 
 Siebel/TDMS Reference Number:
-         4965171
+  4965171
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         7 April 2006
+  7 April 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

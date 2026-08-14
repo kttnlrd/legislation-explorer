@@ -11,7 +11,7 @@ This chapter deals with special CGT rules under ITAA97 Pt 3-3 that may apply in 
 
 Roll-overs The eﬀect of a roll-over is that any capital gain or loss made because a CGT event happens to a CGT asset is disregarded. However, a capital gain or loss may later arise when a CGT event happens to the same asset or a replacement asset in respect of which the roll-over is made.
 
-Effect of death Special CGT rules apply when a taxpayer dies and an asset owned by the taxpayer just before death passes to the taxpayer’s deceased estate or to a beneﬁciary of that estate. There are other special CGT rules about what happens when a joint tenant dies.
+Effect of death Special CGT rules apply when a taxpayer dies and an asset owned by the taxpayer just before death passes to the taxpayer's deceased estate or to a beneﬁciary of that estate. There are other special CGT rules about what happens when a joint tenant dies.
 
 Investments There are special CGT rules which apply in relation to bonus shares and units, rights, convertible notes, exchangeable interests and shares acquired under an employee share scheme. Most of these rules are about modifying the cost base and reduced cost base of an asset.
 

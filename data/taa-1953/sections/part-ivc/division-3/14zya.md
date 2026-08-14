@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "3"
 division_title: "Taxation objections"
 subdivision: ""
@@ -17,7 +17,7 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s14ZYA-1"></a>
-**(1)**  This section applies if the taxation objection (other than one under subsection 155-30(2) or 359-50(3) in Schedule 1) has been lodged with the Commissioner within the required period and the Authorised Version C2026C00170 registered 28/04/2026 Commissioner has not made an objection decision by whichever is the later of the following times:
+**(1)**  This section applies if the taxation objection (other than one under subsection 155-30(2) or 359-50(3) in Schedule 1) has been lodged with the Commissioner within the required period and the Commissioner has not made an objection decision by whichever is the later of the following times:
 
 > <a id="s14ZYA-1-a"></a>
 > **(a)**  the end of the period (in this section called the original 60-day period) of 60 days after whichever is the later of the following days:

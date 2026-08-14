@@ -9,7 +9,7 @@ paragraph: "¶35-692"
 
 Generally, the FBT payable by an employer is calculated on the grossed-up aggregate fringe beneﬁts amount for the year (¶35-025). Also, an employer is generally required to maintain certain records (¶35-690).
 
-However, certain employers are exempted from the record-keeping requirements and are able to calculate FBT on the aggregate fringe beneﬁts amount of an earlier year (the “base year”) when such records were maintained (ss 135A to 135L).
+However, certain employers are exempted from the record-keeping requirements and are able to calculate FBT on the aggregate fringe beneﬁts amount of an earlier year (the "base year") when such records were maintained (ss 135A to 135L).
 
 Conditions
 
@@ -19,15 +19,15 @@ Conditions
 
   current year requiring the employer to resume record-keeping (s 135B).
 
-An employer who satisﬁes these conditions for an FBT year will not be required to maintain FBT records for that year (subject to certain exceptions). An employer will be required to keep and retain records for a base year for a period of 5 years after the end of the last FBT year for which the base year is relevant in determining the employer’s liability.
+An employer who satisﬁes these conditions for an FBT year will not be required to maintain FBT records for that year (subject to certain exceptions). An employer will be required to keep and retain records for a base year for a period of 5 years after the end of the last FBT year for which the base year is relevant in determining the employer's liability.
 
 Base year
 
 - the FBT year immediately before the current year was a base year, or
 
-- an earlier FBT year was a base year and the employer’s FBT liability for every FBT year after that
+- an earlier FBT year was a base year and the employer's FBT liability for every FBT year after that
 
-  base year (and before the current year) was determined by using the employer’s aggregate fringe
+  base year (and before the current year) was determined by using the employer's aggregate fringe
 
   beneﬁts amount for that earlier FBT year (s 135C).
 
@@ -41,11 +41,11 @@ Base year
 
 An employer who is relying on s 132A to obtain the necessary documentary evidence within a reasonable time may still treat a year as the base year where that evidence is obtained
 
-- the employer’s FBT liability for the FBT year is worked out from the aggregate fringe beneﬁts
+- the employer's FBT liability for the FBT year is worked out from the aggregate fringe beneﬁts
 
   amount for that year and not an earlier base year, and
 
-- the aggregate fringe beneﬁts amount for the FBT year does not exceed the “exemption threshold”.
+- the aggregate fringe beneﬁts amount for the FBT year does not exceed the "exemption threshold".
 
 The exemption threshold for the FBT year ended 31 March 2025 was $10,334 and for the year ending 31 March 2026 it is $10,664 (ATO website).
 
@@ -59,11 +59,11 @@ Exceptions An employer who qualiﬁes for the record-keeping exemption is still 
 
 - the employer is a government body or an income tax-exempt body at any time during the year.
 
-If an employer becomes a government body or an income tax-exempt body, FBT records must be kept from the day the employer’s status changes
+If an employer becomes a government body or an income tax-exempt body, FBT records must be kept from the day the employer's status changes
 
 - an associate of the employer provides to the employer copies of records relating to beneﬁts
 
-  provided by the associate to the employer’s employees, or
+  provided by the associate to the employer's employees, or
 
 - the employer receives from the Commissioner a notice requiring it to recommence keeping and
 

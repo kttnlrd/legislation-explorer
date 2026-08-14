@@ -3,18 +3,14 @@ ATO ID 2009/94
 ==================================================
 
 Income Tax
-        On-market Share Buyback
-        FOI status: may be released
-
-
+ On-market Share Buyback
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the journal entry made to the consolidated financial statements of Head Co for the purpose of recognising Head Co's on-market share buyback result in 'tainting' of the company's share capital account under Division 197 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -27,8 +23,6 @@ Head Co commenced an on-market share buyback of its shares.
 The consolidated group expects to make the following journal entries due to the on market share buyback, in accordance with Australian Accounting Standards Board 3 'Business Combinations' (AASB 3):
 The first journal entry is made in the general ledger of Head Co:
 
-
-
 Dr
 Share capital
 25,000
@@ -39,8 +33,6 @@ Cash
 
 The second journal entry is made for the purposes of the consolidated financial statements of the consolidated group and does not appear in the general ledger of any entity within the consolidated group:
 
-
-
 Dr
 Retained Earnings
 20,000
@@ -50,8 +42,6 @@ Share Capital
 20,000
 
 The result of both entries produces the following net outcome in the consolidated accounts:
-
-
 
 Dr
 Retained Earnings
@@ -81,8 +71,6 @@ When is an amount transferred from one account to another account?
 
 Division 197 of the ITAA 1997 does not define when an amount is transferred from one account to another. However, the EM states that:
 
-
-
 4.12An amount is transferred from one account to another where that amount is moved from one account to another. This, in turn, requires the balance of the first account to be reduced, while the balance of the second account is increased by the same amount.
 4.13An amount is not transferred from one account to another where the particular accounting entries result in the balances of both accounts increasing in size. Accordingly, an accounting entry of the form 'debit asset, credit share capital account' does not represent a transfer in the relevant sense. Furthermore, a transfer to the share capital account will not arise if an expense account is debited at the same time that the share capital account is credited.
 
@@ -99,10 +87,10 @@ It is the entries a legal entity makes to its general ledger that will be determ
 Paragraph 4.4 of the EM.
 
 Date of decision:
-         14 August 2009
+  14 August 2009
 
 Year of income:
-           Year ended 30 June 2009
+  Year ended 30 June 2009
 
 Legislative References:
 
@@ -112,21 +100,19 @@ Other References:
 
  Explanatory Memorandum to the Tax Laws Amendment (2006 Measures No. 3) Bill 2006 and New Business Tax System (Untainting Tax) Bill 2006
 
-
 Keywords
 
 Share capital
-          Tainted share capital account
-
+ Tainted share capital account
 
 Siebel/TDMS Reference Number:
-         6259064
+  6259064
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 August 2009
+  28 August 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -15,7 +15,7 @@ With only limited exceptions, GST will be payable where goods are imported into 
 
 - you enter the goods for home consumption under customs law (s 13-5).
 
-For the meaning of “goods” and “Australia”, see ¶4-100. Comprehensive details of the Commissioner’s views on taxable importations are given in GST Ruling GSTR 2003/15.
+For the meaning of "goods" and "Australia", see ¶4-100. Comprehensive details of the Commissioner's views on taxable importations are given in GST Ruling GSTR 2003/15.
 
 Taxable importations do not include offshore supplies of things other than goods, for use in Australia. These may attract GST under other rules (¶9-100).
 

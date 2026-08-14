@@ -4,13 +4,11 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 11
-  • Division 165
-  • Division 66
+ • Division 11
+ • Division 165
+ • Division 66
 
 Topics: GST
-
-
 
 ================================================================================
 
@@ -34,51 +32,51 @@ Treasury Legislation Amendment (Repeal Day) Act 2015
 FOI status: may be released
 Taxpayer Alerts are intended to be an \"early warning\" of significant new and emerging tax planning issues or 
 
-        arrangements that the ATO has under risk assessment.
+ arrangements that the ATO has under risk assessment.
 Taxpayer Alerts will provide information that is in 
 
-        the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
+ the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
 
-        and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
+ and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
 
-        ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
+ ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
 
-        may on further examination be found not to be of concern to the ATO.
+ may on further examination be found not to be of concern to the ATO.
 Taxpayer Alerts will give the title of the 
 
-        issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
+ issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
 
-        the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
+ the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
 
-        taxpayers.
+ taxpayers.
 The developers and marketers of an arrangement which is the subject of a Taxpayer Alert should provide 
 
-        the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
+ the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
 Taxpayers who have entered 
 
-        into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
+ into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
 
-        of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
+ of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
 
-        the Alert.
+ the Alert.
 This Taxpayer Alert is issued under the authority of the Commissioner.
-This Taxpayer Alert describes arrangements apparently designed in an attempt to exploit the GST second-hand goods provisions resulting in claims for GST input tax credits in relation to second-hand goods sold to an interposed associated entity.  A GST registered entity acquires goods (usually of high value) through a non-taxable supply.  The acquiring entity sells the goods to an associated entity, thus creating a claim for an input tax credit on its acquisition of the goods under the second-hand goods provisions.
+This Taxpayer Alert describes arrangements apparently designed in an attempt to exploit the GST second-hand goods provisions resulting in claims for GST input tax credits in relation to second-hand goods sold to an interposed associated entity. A GST registered entity acquires goods (usually of high value) through a non-taxable supply. The acquiring entity sells the goods to an associated entity, thus creating a claim for an input tax credit on its acquisition of the goods under the second-hand goods provisions.
 DESCRIPTION
 Three examples of arrangements that seek to exploit the second-hand goods provisions, which exhibit some or all of the identified features, are set out below:
-Arrangement 1:  cancellation of registration
+Arrangement 1: cancellation of registration
 1. Entity A applies for cancellation of its GST registration.
 2. As a result of the cancellation, Entity A has an increasing adjustment in respect of equipment on hand for which it had previously claimed input tax credits.
-3. Subsequent to cancellation of its registration, Entity A transfers all of its equipment to an associated entity (Entity B).  This includes the equipment for which it had the increasing adjustment as well as equipment held before the commencement of GST.
+3. Subsequent to cancellation of its registration, Entity A transfers all of its equipment to an associated entity (Entity B). This includes the equipment for which it had the increasing adjustment as well as equipment held before the commencement of GST.
 4. Entity B subsequently sells the equipment to a financing entity (Entity C).
 5. Entity B leases the equipment back from Entity C for use in its business.
-6. Entity B claims an input tax credit in relation to its acquisition of the equipment from Entity A under the second-hand goods provisions.  The credit claimed relates to the equipment for which Entity A had an increasing adjustment, as well as equipment acquired before the commencement of GST even though there was no GST embedded in the price paid to Entity A for that equipment.
+6. Entity B claims an input tax credit in relation to its acquisition of the equipment from Entity A under the second-hand goods provisions. The credit claimed relates to the equipment for which Entity A had an increasing adjustment, as well as equipment acquired before the commencement of GST even though there was no GST embedded in the price paid to Entity A for that equipment.
 Arrangement 2: imported goods
-1. Entity D, which is registered for GST, acquires high value goods from a related offshore entity (Entity E), which is not registered nor required to be registered for GST.  The sale by Entity E is claimed to be a non-taxable supply on the basis that it is not connected with Australia.
+1. Entity D, which is registered for GST, acquires high value goods from a related offshore entity (Entity E), which is not registered nor required to be registered for GST. The sale by Entity E is claimed to be a non-taxable supply on the basis that it is not connected with Australia.
 2. Entity D immediately sells the goods to an associated entity (Entity F) which is registered for GST.
 3. Entity F leases the goods to a third party.
 4. Entity D claims an input tax credit under the second-hand goods provisions in respect of its acquisition of the goods even though there is no GST embedded in the price it paid for the goods.
 Arrangement 3: exported goods
-1. Entity G exports high value second-hand goods directly to overseas customers.  It mainly purchases from persons who are not registered for GST.  Its sales are GST-free under the export provisions.
+1. Entity G exports high value second-hand goods directly to overseas customers. It mainly purchases from persons who are not registered for GST. Its sales are GST-free under the export provisions.
 2. An associated Entity (Entity H) is interposed between Entity G and its overseas customers.
 3. Thus, Entity G continues to acquire the second-hand goods from unregistered suppliers, but now sells them to Entity H.
 4. Entity H in turn sells to the overseas customers.
@@ -86,7 +84,7 @@ Arrangement 3: exported goods
 FEATURES WHICH THE ATO CONSIDERS GIVE RISE TO TAXATION ISSUES
 The ATO considers that the arrangements outlined above give rise to taxation issues that include whether:
 (a)
-the entities are entitled to the input tax credits claimed under Division 66;  and
+the entities are entitled to the input tax credits claimed under Division 66; and
 (b)
 the general anti-avoidance provisions of Division 165 of the GST Act apply, as the arrangements appear artificial and contrived in their design and execution.
 The Australian Taxation Office is examining these arrangements.

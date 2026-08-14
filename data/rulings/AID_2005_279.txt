@@ -3,18 +3,14 @@ ATO ID 2005/279
 ==================================================
 
 Superannuation
-        Superannuation Contributions Surcharge - unfunded defined benefit schemes and interest on overpayment
-        FOI status: may be released
-
-
+ Superannuation Contributions Surcharge - unfunded defined benefit schemes and interest on overpayment
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxpayer, a member of an unfunded defined benefits superannuation scheme (UDB Scheme), entitled to interest on overpayment under Part IIC of the Taxation (Interest on Overpayments and Early Payments) Act 1983 (IOP Act) in relation to a payment made in respect of a superannuation contributions tax (surcharge) assessment which was later amended, resulting in a lower surcharge liability?
@@ -33,8 +29,6 @@ In particular, section 8M of the IOP Act states:
 
 If:
 
-
-
 (a)an assessment is made under the Superannuation Contributions Tax (Assessment and Collection) Act 1997 in respect of a person's liability to pay superannuation contributions surcharge or an advance instalment; and
 (b)the person has paid the assessed amount of the surcharge or instalment; and
 (c)the assessment is amended (otherwise than under section 18 of that Act) reducing the liability of the person to pay surcharge or the instalment;
@@ -44,11 +38,7 @@ The period in which interest is payable is determined by section 8N of the IOP A
 
 The interest is payable for the period that:
 
-
-
 (a)started on the later of the following days:
-
-
 
 (i)the day on which the amount of the surcharge or advance instalment was paid;
 (ii)the day by which the amount of the surcharge or advance instalment was required to be paid; and
@@ -58,17 +48,16 @@ The interest is payable for the period that:
 Section 16 of the SCT Act prescribes the timing in which the surcharge liability becomes payable in respect of the surchargeable contributions of a member of a UDB Scheme. This section is significant for interpreting the phrase 'the day by which the amount of the surcharge ... was required to be paid' as used in subparagraph 8N(a)(ii) of the IOP Act.
 Importantly, section 16 of the SCT Act makes provision for the deferral of surcharge liability. In summary, the liability is not required to be paid until one month after:
 
-
 benefits become payable to the UDB Scheme member (subsection 16(6)); ora 'splittable payment' becomes payable (subsection 16(6A)).
 
 For the purposes of subparagraph 8N(a)(ii) of the IOP Act, this is also the day on which the surcharge was required to be paid.
 Neither of the above scenarios had occurred before the amended surcharge assessment issued in November 2003.
 Due the operation of section 8N of the IOP Act, as the required payment date did not occur before the day on which the assessment was amended, there is no period for which interest is payable.
 Date of decision:
-         11 February 2004
+  11 February 2004
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -78,21 +67,20 @@ Taxation (Interest on Overpayments and Early Payments) Act 1983   Part IIC �
 Keywords
 
 Interest on overpayment
-          Superannuation contributions surcharge
-          Superannuation contributions tax
-
+ Superannuation contributions surcharge
+ Superannuation contributions tax
 
 Siebel/TDMS Reference Number:
-         4729509; 1-5JT5TD7; 1-8FAOOL6; 1-FZRSRJG
+  4729509; 1-5JT5TD7; 1-8FAOOL6; 1-FZRSRJG
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         14 October 2005
+  14 October 2005
 
 Date reviewed:
-         7 August 2018
+  7 August 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

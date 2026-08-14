@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 - (c) it is assessable income of the recipient.
 
-**When expenditure becomes master superannuation fund’s**
+**When expenditure becomes master superannuation fund's**
 
 **(3)**  The member superannuation fund may choose to treat some or all of the expenditure as expenditure incurred by the master superannuation fund in deriving assessable income.
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction when master fund is multi-rate PIE**
 
-**(8B)**  Despite subsection (8), a master superannuation fund that is a multi-rate PIE is allowed a deduction for expenditure transferred to it by a member superannuation fund. However, the maximum amount transferred must be no more than the member fund’s share of the taxable income of the PIE for the income year in which the amount is transferred, any excess being treated as not transferred.
+**(8B)**  Despite subsection (8), a master superannuation fund that is a multi-rate PIE is allowed a deduction for expenditure transferred to it by a member superannuation fund. However, the maximum amount transferred must be no more than the member fund's share of the taxable income of the PIE for the income year in which the amount is transferred, any excess being treated as not transferred.
 
 **Deducted expenditure not incurred by member superannuation fund**
 

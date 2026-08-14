@@ -9,7 +9,7 @@ paragraph: "¶17-490"
 
 Under the prime cost method, the annual decline in value of a depreciating asset is calculated by allocating the cost of the asset over its eﬀective life in accordance with the formula (ITAA97 s 40-75): cost         days held × eﬀective life     365 Cost includes the ﬁrst element and the second element of cost of the asset (¶17-080). This method assumes that an asset declines in value uniformly throughout its life.
 
-If the taxpayer holds the asset for the entire year in a leap year, the “days held” will be 366. The denominator in the formula remains at 365.
+If the taxpayer holds the asset for the entire year in a leap year, the "days held" will be 366. The denominator in the formula remains at 365.
 
 The decline in value of the asset cannot exceed its opening adjustable value plus second element costs for the year (or its cost, in the year in which it is ﬁrst used or installed ready for use).
 
@@ -19,7 +19,7 @@ Apportionment Where a depreciating asset is used (or is installed ready for use)
 
 *Refs: ITAA97 s 40-75)*
 
-used In the following circumstances, the prime cost method is applied by spreading the “opening adjustable value” (¶17-485) of the asset plus any second element costs for the year (instead of cost) over the period of the eﬀective life that is yet to elapse as at the start of the relevant year (s 40-75(2)):
+used In the following circumstances, the prime cost method is applied by spreading the "opening adjustable value" (¶17-485) of the asset plus any second element costs for the year (instead of cost) over the period of the eﬀective life that is yet to elapse as at the start of the relevant year (s 40-75(2)):
 
 - if the eﬀective life of the asset is recalculated during the year (¶17-270)
 
@@ -27,7 +27,7 @@ used In the following circumstances, the prime cost method is applied by spreadi
 
   was ﬁrst used or installed ready for use for any purpose
 
-- if the debt forgiveness provisions have applied to reduce the asset’s opening adjustable value
+- if the debt forgiveness provisions have applied to reduce the asset's opening adjustable value
 
   (¶17-510)
 

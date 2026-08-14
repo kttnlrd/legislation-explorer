@@ -11,13 +11,13 @@ Provisions governing the imposition and calculation of liability to land tax in 
 
 Land tax for 2024–25 is levied on the taxable value of land held by owners on 30 June 2024. The taxable value of land is the unimproved value capped at 150% of the value on which land tax was charged in the previous year.
 
-An “owner” includes a lessee or licensee from the Crown. Joint owners are assessed in a joint assessment.
+An "owner" includes a lessee or licensee from the Crown. Joint owners are assessed in a joint assessment.
 
 Each joint owner may be separately assessed for any other land owned either as sole owner or included in another joint assessment.
 
-Exemptions Land which is the sole or principal place of residence (PPR) of an owner may be exempt. A PPR is, broadly, a person’s home.
+Exemptions Land which is the sole or principal place of residence (PPR) of an owner may be exempt. A PPR is, broadly, a person's home.
 
-- owned by an individual and used as the primary residence of a member of that person’s family
+- owned by an individual and used as the primary residence of a member of that person's family
 
   that has a disability
 

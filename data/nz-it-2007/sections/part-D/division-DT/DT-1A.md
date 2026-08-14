@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to an amount of a person’s deductions for expenditure and loss for an income year to the extent to which it is—
+**(1)**  This section applies to an amount of a person's deductions for expenditure and loss for an income year to the extent to which it is—
 
 - (a) petroleum exploration expenditure:
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Basis for allocation of deductions**
 
-**(2)**  If, but for this subsection, an amount that relates to petroleum mining operations undertaken outside New Zealand would be allocated to an income year (the current year), including an amount carried forward and allocated to the current year, the amount that is allocated to the current year is no more than the amount of the person’s income derived for the current year from all petroleum mining operations undertaken outside New Zealand.
+**(2)**  If, but for this subsection, an amount that relates to petroleum mining operations undertaken outside New Zealand would be allocated to an income year (the current year), including an amount carried forward and allocated to the current year, the amount that is allocated to the current year is no more than the amount of the person's income derived for the current year from all petroleum mining operations undertaken outside New Zealand.
 
 **Excess allocations: carried forward and re-instated next year**
 

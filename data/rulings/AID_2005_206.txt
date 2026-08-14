@@ -3,23 +3,17 @@ ATO ID 2005/206
 ==================================================
 
 Goods and Services Tax
-        GST and acquisition of a salvaged motor vehicle on settlement of an insurance claim
-        FOI status: may be released
-
-
+ GST and acquisition of a salvaged motor vehicle on settlement of an insurance claim
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an insurer, entitled to an input tax credit under section 66-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when:
-
-
 
 •on settlement of a claim under an insurance policy, ownership of a salvaged motor vehicle transfers to the entity, and
 •the entity subsequently makes a taxable supply of the salvaged motor vehicle?
@@ -40,7 +34,7 @@ Although the entity paid the insured a sum of money to cover the insured's loss,
 The entity does not make any other payment or perform any other act in return for the salvaged motor vehicle. Therefore, the entity does not provide consideration for the supply of the salvaged motor vehicle and its acquisition is not a creditable acquisition.
 As such, the entity is not entitled to an input tax credit under section 66-10 of the GST Act for the acquisition of the salvaged motor vehicle.
 Date of decision:
-         29 June 2005
+  29 June 2005
 
 Legislative References:
 
@@ -49,23 +43,22 @@ A New Tax System (Goods and Services Tax) Act 1999   section 11-5   subsec
 Keywords
 
 Goods and services tax
-          GST insurance policy
-          Insurance settlement under an insurance policy
-          Salvage under an insurance policy
-          GST second hand goods
-          GST supplies & acquisitions
-          Creditable acquisition
-          GST consideration
-
+ GST insurance policy
+ Insurance settlement under an insurance policy
+ Salvage under an insurance policy
+ GST second hand goods
+ GST supplies & acquisitions
+ Creditable acquisition
+ GST consideration
 
 Siebel/TDMS Reference Number:
-         4708490
+  4708490
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         15 July 2005
+  15 July 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

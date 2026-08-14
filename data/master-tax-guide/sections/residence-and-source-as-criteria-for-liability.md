@@ -21,9 +21,9 @@ Non-resident individuals are also subject to higher rates of tax than residents 
 
 Where the taxing powers of the source country and of the country of residence of the taxpayer are governed by a double taxation agreement, residence and source as determined according to Australian domestic law may be overridden by the provisions of the double taxation agreement (¶22-140).
 
-Meaning of Australia The geographical deﬁnition of “Australia” is a key factor for liability to Australian tax. It is important in working out whether an entity is a resident of Australia and whether an income or a gain has an Australian source.
+Meaning of Australia The geographical deﬁnition of "Australia" is a key factor for liability to Australian tax. It is important in working out whether an entity is a resident of Australia and whether an income or a gain has an Australian source.
 
-In summary, Australia, for income tax purposes, includes the states and internal territories (the Australian Capital Territory and the Northern Territory), Australia’s territorial waters, all of Australia’s external Territories (except the Australian Antarctic Territory) including the territorial waters surrounding them and much of the waters contained in Australia’s exclusive economic zone. It also includes the airspace above and the seabed and subsoil beneath Australia’s waters.
+In summary, Australia, for income tax purposes, includes the states and internal territories (the Australian Capital Territory and the Northern Territory), Australia's territorial waters, all of Australia's external Territories (except the Australian Antarctic Territory) including the territorial waters surrounding them and much of the waters contained in Australia's exclusive economic zone. It also includes the airspace above and the seabed and subsoil beneath Australia's waters.
 
 ITAA97 s 960-505(1) and (2) name the external territories and oﬀshore areas that are part of Australia as:
 
@@ -43,6 +43,6 @@ ITAA97 s 960-505(1) and (2) name the external territories and oﬀshore areas th
 
   2006.
 
-The GST and some other indirect taxes do not operate in Australia’s external territories and in certain oﬀshore areas. Those taxes operate in the “indirect tax zone”, not Australia, to reﬂect their more limited geographic operation (¶34-000).
+The GST and some other indirect taxes do not operate in Australia's external territories and in certain oﬀshore areas. Those taxes operate in the "indirect tax zone", not Australia, to reﬂect their more limited geographic operation (¶34-000).
 
 *Refs: s 6-5, ITAA97 s 960-505(1)*

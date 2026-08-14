@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 - (c) made on ordinary terms; and
 
-- (d) to a member of the public at arm’s length.
+- (d) to a member of the public at arm's length.
 
 **Partnerships and look-through companies**
 

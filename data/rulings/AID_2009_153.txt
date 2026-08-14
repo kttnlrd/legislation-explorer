@@ -3,25 +3,21 @@ ATO ID 2009/153
 ==================================================
 
 Income Tax
-        Consolidation:  entry Allocable Cost Amount - identifying the relevant asset for the purposes of section 705-56 of the ITAA 1997
-        FOI status: may be released
-
-
+ Consolidation: entry Allocable Cost Amount - identifying the relevant asset for the purposes of section 705-56 of the ITAA 1997
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where there is a leasing arrangement that is a finance lease for accounting purposes and the leased asset is held by the lessor for tax purposes; is the relevant asset for the purpose of allocating the entry Allocable Cost Amount (ACA) to determine the tax cost setting amount for an asset in accordance with section 705-20 of the Income Tax Assessment Act 1997 (ITAA 1997), the underlying depreciable asset that generates an income stream for the joining entity?
 Decision
 Yes. Section 705-56 of the ITAA 1997 provides that the relevant asset, as between an asset held as an underlying depreciating asset under a finance lease and the associated income stream, to be recognised for the purpose of allocating the entry ACA of the joining entity is the underlying depreciating asset.
 Facts
-XCo leases goods to small business and individual customers.  The type of goods XCo ordinarily leases include retail IT equipment and retail electrical appliances. The underlying depreciable assets leased to its customers are at all relevant times legally owned by XCo.
+XCo leases goods to small business and individual customers. The type of goods XCo ordinarily leases include retail IT equipment and retail electrical appliances. The underlying depreciable assets leased to its customers are at all relevant times legally owned by XCo.
 For accounting purposes, these leases are treated as finance leases (in accordance with AASB 117). Accordingly, the accounting balance sheet discloses an amount receivable under the terms of the lease as an asset with only the interest component of a periodic lease instalment recognised as revenue.
 For tax purposes, these leases are effectively treated as operating leases. Accordingly, XCo's tax balance sheet discloses the underlying physical asset as an asset (and XCo claims a deduction for tax depreciation). In this way, the full amount of a periodic lease instalment is recognised as income for tax purposes.
 On 1 July 2006 X Co joined the ACo tax consolidated group (the joining time). Therefore, for tax purposes, the tax cost base of the assets held by X Co were recalculated (by performing an ACA calculation and allocating that ACA amongst the various assets now held by the A Co tax consolidated group).
@@ -36,10 +32,10 @@ As XCo is the holder of the asset under section 40-40 of the ITAA 1997, then sub
 Therefore it is the underlying depreciating asset, albeit that the asset is subject to a finance lease for accounting purposes, that will be allocated ACA under the tax cost setting process.
 It is noted that subsection 705-56(2) of the ITAA 1997 only resolves the issue of which asset between the underlying depreciating assets held for tax purposes under a finance lease and the income stream generated by the leasing business in respect of the depreciating assets is to be treated as the preferred asset for consolidation cost setting purposes. This does not prevent intangible assets of the leasing business such as goodwill or the lease contracts from also being recognised as assets for consolidation cost setting.
 Date of decision:
-         2 December 2009
+  2 December 2009
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -52,20 +48,19 @@ Taxation Ruling TR 2004/13
 Keywords
 
 Allocation of the Allocable Cost Amount
-          Assets
-          Consolidation
-          Finance lease
-          Tax Cost is set
-
+ Assets
+ Consolidation
+ Finance lease
+ Tax Cost is set
 
 Siebel/TDMS Reference Number:
-         1-1SXUUUA
+  1-1SXUUUA
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         11 December 2009
+  11 December 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

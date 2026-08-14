@@ -7,7 +7,7 @@ paragraph: "¶17-630"
 ---
 # Assessable or deductible balancing adjustments ¶17-630
 
-When is a balancing adjustment required A balancing adjustment either increases or decreases assessable income. It arises when a “balancing adjustment event” occurs (ITAA97 s 40-295), which happens when a taxpayer stops “holding” (¶17-020) a depreciating asset, or part of it (ITAA97 s 40-115). This generally occurs when an asset is sold, scrapped, destroyed, lost, given away or otherwise disposed of, starts to be held as trading stock or, in the case of a right, ceases or expires, or the taxpayer dies.
+When is a balancing adjustment required A balancing adjustment either increases or decreases assessable income. It arises when a "balancing adjustment event" occurs (ITAA97 s 40-295), which happens when a taxpayer stops "holding" (¶17-020) a depreciating asset, or part of it (ITAA97 s 40-115). This generally occurs when an asset is sold, scrapped, destroyed, lost, given away or otherwise disposed of, starts to be held as trading stock or, in the case of a right, ceases or expires, or the taxpayer dies.
 
 *Refs: ITAA97 s 40-295), ITAA97 s 40-115)*
 
@@ -78,9 +78,9 @@ The taxpayer is treated as having stopped holding the original assets and starte
 
 - pooled in-house software (¶17-370)
 
-- primary producers’ assets (¶18-050)
+- primary producers' assets (¶18-050)
 
-- a “government payment to industry” (GPI) that is calculated having regard to some eﬀect on a
+- a "government payment to industry" (GPI) that is calculated having regard to some eﬀect on a
 
   depreciating asset but the asset continues to be held for current or future use (TR 2006/3).
 
@@ -98,7 +98,7 @@ For the CGT consequences of disposing a depreciating asset, see ¶17-670.
 
 R&D depreciating assets If a depreciating asset has been used for R&D as well as other taxable purposes, with the result that a notional deduction has been available under the R&D provisions (¶17-420) and an actual deduction under ITAA97 Div 40, the balancing adjustment amount is the diﬀerence between the termination value and the adjustable value of the asset. In calculating the balancing adjustment amount, the R&D use is treated as use for a taxable purpose. In addition, an adjustment is made to reﬂect the extent of R&D use of the asset over its life (ITAA97 s 40-292: ¶17-420).
 
-Deductible balancing adjustment If the “termination value” (¶17-640) of a depreciating asset (usually its selling price on disposal) is less than its adjustable value just before the balancing adjustment event occurred (¶17-485), the diﬀerence is deductible in the year of the event (ITAA97 s 40-285(2)), subject to the application of roll-over relief.
+Deductible balancing adjustment If the "termination value" (¶17-640) of a depreciating asset (usually its selling price on disposal) is less than its adjustable value just before the balancing adjustment event occurred (¶17-485), the diﬀerence is deductible in the year of the event (ITAA97 s 40-285(2)), subject to the application of roll-over relief.
 
 Example 1 A depreciating asset purchased on 1 July Year 1 for $3,000 was scrapped on 31 March Year 4 when its residual scrap value at market price was $600. Its decline in value was calculated using the prime cost method over 5 years.
 

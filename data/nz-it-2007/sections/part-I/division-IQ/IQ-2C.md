@@ -22,9 +22,9 @@ compilation_date: 2026-06-06
 
   - (iii) carried forward to a tax year (the current year) in which this section applies to the person; and
 
-- (b) the person is not able to use the attributable FIF income method in the current year for the person’s interest in the FIF; and
+- (b) the person is not able to use the attributable FIF income method in the current year for the person's interest in the FIF; and
 
-- (c) the person would be able to use the attributable FIF income method in the current year for the person’s interest in the FIF if the interest met the requirements of section EX 46(3)﻿(a)﻿(ii) (Limits on choice of calculation methods); and
+- (c) the person would be able to use the attributable FIF income method in the current year for the person's interest in the FIF if the interest met the requirements of section EX 46(3)﻿(a)﻿(ii) (Limits on choice of calculation methods); and
 
 - (d) the person does not have an income interest of 10% or more in a CFC in the jurisdiction in the current year; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Use of FIF net loss**
 
-**(2)**  The person’s available BE loss is available to be subtracted from the person’s FIF income, to the extent of the FIF income, in the current year from the FIF, if the FIF is resident in the jurisdiction in the current year.
+**(2)**  The person's available BE loss is available to be subtracted from the person's FIF income, to the extent of the FIF income, in the current year from the FIF, if the FIF is resident in the jurisdiction in the current year.
 
 **Treatment of surplus**
 

@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (d) no country or territory outside New Zealand and the payee jurisdiction imposes tax on the payment or charge under taxation law that includes rules corresponding to the CFC rules and recognises the payment as the equivalent of attributed CFC income of a person in the same control group as the payee.
 
-**Expenditure relating to payment made under structured arrangement or to member of payer’s control group**
+**Expenditure relating to payment made under structured arrangement or to member of payer's control group**
 
 **(2)**  Expenditure relating to a payment by a payer that is a New Zealand resident, or a New Zealand deducting branch of a non-resident, to a payee meets the requirement of this subsection if—
 

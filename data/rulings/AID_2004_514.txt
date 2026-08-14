@@ -3,23 +3,18 @@ ATO ID 2004/514
 ==================================================
 
 Income Tax
-        Division 7A: dividend deemed to an interposed entity - effect of section 109T of the ITAA 1936
-        FOI status: may be released
+ Division 7A: dividend deemed to an interposed entity - effect of section 109T of the ITAA 1936
+ FOI status: may be released
 
-
-This ATO ID is withdrawn. The current ATO position on the issue contained in this ATO ID can be found in  TD 2011/16 and  TD 2012/12.
+This ATO ID is withdrawn. The current ATO position on the issue contained in this ATO ID can be found in TD 2011/16 and TD 2012/12.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If a dividend is taken to arise under Subdivision B of Division 7A of the Income Tax Assessment Act 1936 (ITAA 1936) between a private company and a taxpayer, and the taxpayer is an interposed entity for the purposes of section 109T of the ITAA 1936, can subsection 109T(3) of the ITAA 1936 have any effect on the Subdivision B dividend?
@@ -31,8 +26,6 @@ On 31 May 2004, the taxpayer makes a $100,000 loan to Company Y which is a share
 Reasons for Decision
 Subsection 109D(1) of the ITAA 1936 provides that a private company is taken to pay a dividend to a shareholder or their associate at the end of the private company's year of income if:
 
-
-
 •the private company makes a loan to the shareholder or their associate during the year
 •the loan is not fully repaid by the end of the year, and
 •Subdivision D of Division 7A of the ITAA 1936 does not apply.
@@ -40,16 +33,12 @@ Subsection 109D(1) of the ITAA 1936 provides that a private company is taken to 
 Section 109T of Subdivision E of Division 7A of the ITAA 1936 applies to certain interposed entity arrangements. Subsection 109T(1) of the ITAA 1936 provides:
 
 This Division operates as if a private company makes a payment or loan to an entity (the
-              target entity
+ target entity
 ) as described in section 109V or 109W if:
-
-
 
 (a)the private company makes a payment or loan to another entity (the first interposed entity) that is interposed between the private company and the target entity; and
 (b)a reasonable person would conclude (having regard to all the circumstances) that the private company made the payment or loan solely or mainly as part of an arrangement involving a payment or loan to the target entity; and
 (c)either:
-
-
 
 (i)the first interposed entity makes a payment or loan to the target entity; or
 (ii)another interposed entity between the private company and the target entity makes a payment or loan to the target entity.
@@ -62,10 +51,10 @@ This Division does not operate as described in subsection (1) (and sections 109V
 In the circumstances here the operation of Subdivision B of Division 7A of the ITAA 1936 does (as it applies apart from Subdivision E) result in a deemed dividend between Company X and the taxpayer. That is, the taxpayer is taken to receive a $100,000 dividend from Company X under subsection 109D(1) of the ITAA 1936. Therefore, subsection 109T(3) of the ITAA 1936 operates and subsection 109T(1) of the ITAA 1936 does not cause there to be a deemed loan between Company X and Company Y. Further, since subsection 109T(1) of the ITAA 1936 does not operate, neither does section 109W of the ITAA 1936.
 Therefore subsection 109T(3) of the ITAA 1936 does not affect the deemed dividend that arises between company X and the taxpayer under subsection 109D(1) of the ITAA 1936.
 Date of decision:
-         4 June 2004
+  4 June 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -74,28 +63,24 @@ Income Tax Assessment Act 1936   Subdivision B   subsection 109D(1)   S
 Keywords
 
 Deemed dividends
-          Private company distributions
-
+ Private company distributions
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         25 June 2004
+  25 June 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  4 June 2004

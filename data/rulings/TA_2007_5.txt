@@ -4,14 +4,12 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 5A
-  • Division 725
-  • Division 727
-  • Division 7A
+ • Division 5A
+ • Division 725
+ • Division 727
+ • Division 7A
 
 Topics: Div 7A, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -29,39 +27,39 @@ TA 2007/5
 Arrangements designed to avoid the operation of Division 7A through the use of a Corporate Limited Partnership
 Taxation Determination
 TD 2008/15
-sets out  the ATO view that an unincorporated association of persons acting only in Australia who do not carry on a business in common with a view to profit cannot be a corporate limited partnership within the meaning of section 94D of the Income Tax Assessment Act 1936 (ITAA 1936).
+sets out the ATO view that an unincorporated association of persons acting only in Australia who do not carry on a business in common with a view to profit cannot be a corporate limited partnership within the meaning of section 94D of the Income Tax Assessment Act 1936 (ITAA 1936).
 From 1 July 2009 section 109BB of the ITAA 1936 provides for the application of Division 7A of the ITAA 1936 to closely held corporate limited partnerships. For more information refer to the fact sheet
 Division 7A - closely held corporate limited partnerships
 FOI status: may be released
 Taxpayer Alerts are intended to be an \"early warning\" of significant new and emerging tax planning issues or 
 
-        arrangements that the ATO has under risk assessment.
+ arrangements that the ATO has under risk assessment.
 Taxpayer Alerts will provide information that is in 
 
-        the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
+ the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
 
-        and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
+ and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
 
-        ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
+ ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
 
-        may on further examination be found not to be of concern to the ATO.
+ may on further examination be found not to be of concern to the ATO.
 Taxpayer Alerts will give the title of the 
 
-        issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
+ issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
 
-        the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
+ the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
 
-        taxpayers.
+ taxpayers.
 The developers and marketers of an arrangement which is the subject of a Taxpayer Alert should provide 
 
-        the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
+ the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
 Taxpayers who have entered 
 
-        into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
+ into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
 
-        of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
+ of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
 
-        the Alert.
+ the Alert.
 This Taxpayer Alert is issued under the authority of the Commissioner.
 This Taxpayer Alert describes arrangements which attempt to circumvent the application of Division 7A of Part III the
 Income Tax Assessment Act 1936 (ITAA 1936)
@@ -70,26 +68,26 @@ Examples of the type of arrangements which the Tax Office are concerned about, a
 DESCRIPTION
 This alert applies to arrangements that exhibit some or all of the following features:
 Arrangement 1
-1.  A private company with accumulated profits ('the Profit Co') wishes to make distributions to a shareholder (or their associate) that would trigger Division 7A if made directly.
-2.  A structure, said to be a CLP, is established ('the CLP') and the constitution of the Profit Co is amended to create a new class of shares which are subsequently issued to the 'CLP' for a nominal value.
-3.  The Profit Co pays a fully franked dividend to the CLP which amounts to the accumulated profits held in the Profit Co.  This payment effectively reduces the Profit Co's distributable surplus for Division 7A purposes to nil.
-4.  The Profit Co enters into a loan agreement with the CLP whereby an amount equal to the dividend paid to the CLP is lent back to the Profit Co.
-5.  The Profit Co uses the funds borrowed from the CLP to make a loan to a shareholder (or their associate).  The amount treated as a dividend under Division 7A in respect of this loan is nil as the Profit Co has no distributable surplus.
+1. A private company with accumulated profits ('the Profit Co') wishes to make distributions to a shareholder (or their associate) that would trigger Division 7A if made directly.
+2. A structure, said to be a CLP, is established ('the CLP') and the constitution of the Profit Co is amended to create a new class of shares which are subsequently issued to the 'CLP' for a nominal value.
+3. The Profit Co pays a fully franked dividend to the CLP which amounts to the accumulated profits held in the Profit Co. This payment effectively reduces the Profit Co's distributable surplus for Division 7A purposes to nil.
+4. The Profit Co enters into a loan agreement with the CLP whereby an amount equal to the dividend paid to the CLP is lent back to the Profit Co.
+5. The Profit Co uses the funds borrowed from the CLP to make a loan to a shareholder (or their associate). The amount treated as a dividend under Division 7A in respect of this loan is nil as the Profit Co has no distributable surplus.
 Diagram of a Typical Arrangement 1
-6.  In some arrangements a variation is used where the CLP lends the funds received from the Profit Co directly to a shareholder of the Profit Co (or the shareholder's associate) as an alternative to lending the funds to the Profit Co to lend to a shareholder (or their associate).
+6. In some arrangements a variation is used where the CLP lends the funds received from the Profit Co directly to a shareholder of the Profit Co (or the shareholder's associate) as an alternative to lending the funds to the Profit Co to lend to a shareholder (or their associate).
 Diagram of a Typical Arrangement 1 - Variation 1
-7.  A further variation involves the Profit Co being presently entitled to income of a trust (but where that income has not been paid to the Profit Co) and the trustee has made a loan to a shareholder of the Profit Co (or the shareholder's associate).  In such arrangements, after the Profit Co pays a fully franked dividend to the CLP, the CLP lends to the trustee an amount equal to the dividend received.  The trustee then uses these funds to pay the outstanding entitlements owed to the Profit Co.
+7. A further variation involves the Profit Co being presently entitled to income of a trust (but where that income has not been paid to the Profit Co) and the trustee has made a loan to a shareholder of the Profit Co (or the shareholder's associate). In such arrangements, after the Profit Co pays a fully franked dividend to the CLP, the CLP lends to the trustee an amount equal to the dividend received. The trustee then uses these funds to pay the outstanding entitlements owed to the Profit Co.
 Diagram of a Typical Arrangement 1 - Variation 2
 Arrangement 2
-8.  The income of a discretionary trust has in prior years been appointed in favour of a private company with accumulated profits ('the Profit Co').  A shareholder of the Profit Co (or the shareholder's associate) wishes to enjoy the net income of the trust without triggering section 109UB or Subdivision EA of Division 7A.
-9.  A structure, said to be a CLP, is established (the 'CLP') and the trust deed of the discretionary trust is amended to add the CLP as an additional discretionary object.
-10.  The trustee appoints a share of the income of the trust in favour of the CLP and pays that purported present entitlement to the CLP.
-11.  The CLP lends the funds received from the trustee to a shareholder of the Profit Co (or the shareholder's associate).
+8. The income of a discretionary trust has in prior years been appointed in favour of a private company with accumulated profits ('the Profit Co'). A shareholder of the Profit Co (or the shareholder's associate) wishes to enjoy the net income of the trust without triggering section 109UB or Subdivision EA of Division 7A.
+9. A structure, said to be a CLP, is established (the 'CLP') and the trust deed of the discretionary trust is amended to add the CLP as an additional discretionary object.
+10. The trustee appoints a share of the income of the trust in favour of the CLP and pays that purported present entitlement to the CLP.
+11. The CLP lends the funds received from the trustee to a shareholder of the Profit Co (or the shareholder's associate).
 Diagram of Typical Arrangement 2
-12.  In some arrangements a variation is used where the trustee does not pay the purported present entitlement of the CLP and instead lends an amount equal to the unpaid purported present entitlement to a shareholder of the Profit Co (or the shareholder's associate).
+12. In some arrangements a variation is used where the trustee does not pay the purported present entitlement of the CLP and instead lends an amount equal to the unpaid purported present entitlement to a shareholder of the Profit Co (or the shareholder's associate).
 Diagram of Typical Arrangement 2 - Variation 1
-13.  By appointing a share of the income of the trust in favour of the CLP rather than the Profit Co, the application of section 109UB and Subdivision EA of Division 7A is sought to be circumvented.
-14.  Further variations of arrangements 1 and 2 above may include the use of multiple trust structures.
+13. By appointing a share of the income of the trust in favour of the CLP rather than the Profit Co, the application of section 109UB and Subdivision EA of Division 7A is sought to be circumvented.
+14. Further variations of arrangements 1 and 2 above may include the use of multiple trust structures.
 FEATURES WHICH THE TAX OFFICE CONSIDERS GIVE RISE TO TAXATION ISSUES
 The Tax Office considers that the arrangements outlined above give rise to taxation issues which include whether:
 a.

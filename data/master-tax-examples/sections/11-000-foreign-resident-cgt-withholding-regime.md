@@ -19,13 +19,13 @@ Solution The acquisition of taxable Australian real property under a contract en
 
 To ensure that 15% of the purchase price is not withheld, Australian residents selling property must obtain a clearance certificate from the ATO confirming that they are not a foreign resident. This certificate is valid for 12 months and must be given to the purchaser on or before settlement. Most clearance certificates issue within a few days, but some can take up to 28 days to process and issue.
 
-Foreign resident vendors who believe that a withholding rate of 15% is inappropriate may apply to the ATO for variation of that rate using the “Variation application for foreign residents and other parties form”.
+Foreign resident vendors who believe that a withholding rate of 15% is inappropriate may apply to the ATO for variation of that rate using the "Variation application for foreign residents and other parties form".
 
 The variation may reduce the withholding rate down to nil. The foreign resident vendor would then have to provide the purchaser with this variation notice issued by the ATO on or before settlement to ensure that the reduced rate of withholding applies. A variation notice is also valid for 12 months.
 
 Note that for acquisitions of relevant CGT assets made before 1 January 2025, the FRCGTW rate for relevant CGT assets was 12.5% (from 1 July 2017) and 10% for contracts before 1 July 2017. There was also a $750,000 property value threshold, below which FRCGTW was not necessary.
 
-Ping and Chi’s sale of the Balwyn property In this case there are multiple vendors, that is Ping, an Australian tax resident, and Chi, a foreign tax resident. The market value and the proportion of the acquisition cost of the whole property are the determining factors for the application of the FRCGTW regime (Legislative Instrument F2016L01123).
+Ping and Chi's sale of the Balwyn property In this case there are multiple vendors, that is Ping, an Australian tax resident, and Chi, a foreign tax resident. The market value and the proportion of the acquisition cost of the whole property are the determining factors for the application of the FRCGTW regime (Legislative Instrument F2016L01123).
 
 Ping can avoid 15% of the purchase price being withheld from her half of the sale amount by providing the purchaser with a clearance certificate on or before settlement. Ping can then use this clearance certificate for all disposals during the 12-month period that the certificate is valid.
 

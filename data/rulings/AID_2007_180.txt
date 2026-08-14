@@ -3,18 +3,14 @@ ATO ID 2007/180
 ==================================================
 
 Goods and Services Tax
-        GST and 'supplies made through the enterprise' for the purposes of Division 135
-        FOI status: may be released
-
-
+ GST and 'supplies made through the enterprise' for the purposes of Division 135
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the sale of the entity's enterprise itself a supply 'made through the enterprise' for the purposes of paragraphs 135-10(1)(a) and 135-10(1)(b) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -29,14 +25,10 @@ The entity has to determine whether the sale of the enterprise itself needs to b
 Reasons for Decision
 Subsection 135-10(1) of the GST Act effectively provides that if an entity has acquired a supply of a going concern, Division 129 of the GST Act applies to that acquisition, in relation to:
 
-
-
 (a)the proportion of all the supplies made through the enterprise that the entity intended to be supplies that would be neither taxable supplies nor GST-free supplies; and
 (b)the proportion of all the supplies made through the enterprise that are neither taxable supplies nor GST-free supplies
 
 in the same way as that Division applies:
-
-
 
 (c)in relation to the extent to which the entity made an acquisition for a creditable purpose; and
 (d)in relation to the extent to which a thing acquired is applied for a creditable purpose.
@@ -58,11 +50,10 @@ It can be seen from the above statements in the EM that the underlying objective
 In this context, it is appropriate to interpret the phrase 'supplies made through the enterprise' for the purposes of paragraphs 135-10(1)(a) and 135-10(1)(b) of the GST Act to include a supply that is a sale of the enterprise itself.
 It accords with the purpose of Division 135 of the GST Act and the policy intent of the GST Act as a whole to view the sale of the enterprise itself as a use of the going concern acquired. This view results in an appropriate amount of GST being accounted for in relation to the acquisition of the going concern that reflects the proportion of its non-creditable use. The alternative view that the sale of the enterprise itself is not a supply 'made through the enterprise' would, contrary to the policy and legislative context of the GST Act, result in an adjustment which does not reflect the total use of the enterprise acquired. This in turn could result in an underpayment or overpayment of GST depending on whether the sale of the enterprise is a taxable supply, an input taxed supply or a GST-free supply.
 
-
 Note: the interpretation here of the phrase 'supplies made through the enterprise' applies equally to the interpretation of that phrase for the purposes of section 135-5 of the GST Act.
 
 Date of decision:
-         31 August 2007
+  31 August 2007
 
 Legislative References:
 
@@ -70,13 +61,11 @@ A New Tax System (Goods and Services Tax) Act 1999   section 38-325   Divi
 
 Case References:
 
-
 HP Mercantile Pty Ltd v. Commissioner of Taxation   [2005] FCAFC 126   2005 ATC 4571   60 ATR 106
 
 Sterling Guardian Pty Ltd v. Commissioner of Taxation   [2005] FCA 1166   2005 ATC 4796   60 ATR 502
 
 SAGA Holidays Limited v. Commissioner of Taxation   [2006] FCAFC 191   2006 ATC 4841   64 ATR 602
-
 
 Related Public Rulings (including Determinations)
 
@@ -89,25 +78,23 @@ Related ATO Interpretative Decisions
 Other References:
 
  Explanatory Memorandum to A New Tax System (Goods and Services Tax) Bill 1998
-          The Macquarie Dictionary, 1997, 3rd edition, The Macquarie Library Pty Ltd, New South Wales
-
+ The Macquarie Dictionary, 1997, 3rd edition, The Macquarie Library Pty Ltd, New South Wales
 
 Keywords
 
 Goods and services tax
-          GST free
-          GST supply of going concern
-          Adjustments
-
+ GST free
+ GST supply of going concern
+ Adjustments
 
 Siebel/TDMS Reference Number:
-         5572653
+  5572653
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         21 September 2007
+  21 September 2007
 
 ISSN:
-          1445-2782
+ 1445-2782

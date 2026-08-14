@@ -7,7 +7,7 @@ paragraph: "¶17-670"
 ---
 # Balancing adjustments and CGT ¶17-670
 
-Whether a balancing adjustment event for a depreciating asset held by a taxpayer triggers a balancing adjustment amount (¶17-630), a capital gain/loss (¶11-000), or both, depends on the extent of the use of the asset for “taxable purposes” (¶17-010) or, for certain taxpayers, as a second-hand asset in a residential rental property (¶17-012).
+Whether a balancing adjustment event for a depreciating asset held by a taxpayer triggers a balancing adjustment amount (¶17-630), a capital gain/loss (¶11-000), or both, depends on the extent of the use of the asset for "taxable purposes" (¶17-010) or, for certain taxpayers, as a second-hand asset in a residential rental property (¶17-012).
 
 In the case of R&D assets, use for R&D purposes is treated in the same manner as a taxable purpose and the percentage of business use is calculated on the basis of notional ITAA97 Div 40 deductions (¶17-420).
 
@@ -35,7 +35,7 @@ Under CGT event K7, if the cost of the asset exceeds its termination value, the 
 
   partnership, rather than for the individual partners (s 118-24).
 
-Primary producers’ assets under ITAA97 Subdivs 40-F and 40-G (¶18-000) are subject to the ordinary CGT rules, and not to CGT event K7.
+Primary producers' assets under ITAA97 Subdivs 40-F and 40-G (¶18-000) are subject to the ordinary CGT rules, and not to CGT event K7.
 
 CGT event K7 does not apply when there is roll-over relief (¶17-710) for the balancing adjustment event. See also ID 2003/461 (pre-CGT asset).
 

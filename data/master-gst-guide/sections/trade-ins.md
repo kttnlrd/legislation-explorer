@@ -21,6 +21,6 @@ Assume instead that Priya uses both vans 75% for business and 25% for private pu
 
 The trade-in dealer will account for $2,000 GST and claim an ITC for $500.
 
-From the dealer’s perspective, the trade-in is an acquisition of second-hand goods, allowing them to claim an ITC even if the customer is not registered (¶16-110). The dealer may also have the option to apply a global accounting method (¶16-120).
+From the dealer's perspective, the trade-in is an acquisition of second-hand goods, allowing them to claim an ITC even if the customer is not registered (¶16-110). The dealer may also have the option to apply a global accounting method (¶16-120).
 
 See also ATO GST and motor vehicle trade-ins for charities webpage.

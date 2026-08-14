@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "4"
 division_title: "Miscellaneous provisions about tax debts"
 subdivision: ""
@@ -50,7 +50,7 @@ source_pdf: "vol01.pdf"
 > > **(ii)**  general interest charge on any of the overpaid amount.
 
 <a id="s8AAZN-3"></a>
-**(3)**  In this section: administrative overpayment means an amount that the Commissioner has paid to a person by mistake, being an amount to which the person is not entitled. Authorised Version C2026C00170 registered 28/04/2026
+**(3)**  In this section: administrative overpayment means an amount that the Commissioner has paid to a person by mistake, being an amount to which the person is not entitled.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

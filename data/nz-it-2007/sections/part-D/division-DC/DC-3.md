@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 - (c) the former partner or their spouse, civil union partner, or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner, or de facto partner, until the spouse, civil union partner, or de facto partner enters a new marriage, civil union, or de facto relationship; and
 
-- (d) the pension is paid for the former partner’s services in the old partnership.
+- (d) the pension is paid for the former partner's services in the old partnership.
 
 **Relationship with section HG 2**
 

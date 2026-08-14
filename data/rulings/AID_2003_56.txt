@@ -3,23 +3,18 @@ ATO ID 2003/56
 ==================================================
 
 Goods and Services Tax
-        GST and outbound money transfer service
-        FOI status: may be released
+ GST and outbound money transfer service
+ FOI status: may be released
 
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in  GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
+This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an overseas non-resident company, making an input taxed supply under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies an outbound (from Australia to overseas) money transfer service to a customer in Australia?
@@ -28,8 +23,6 @@ Yes, the entity is making an input taxed supply under subsection 40-5(1) of the 
 Facts
 The entity is an overseas non-resident company. The entity supplies an international money transfer service to customers located worldwide, via its agents that are located in various countries (including Australia).
 In this case, the entity is supplying an outbound (from Australia to overseas) money transfer service to a customer in Australia. This supply involves these steps:
-
-
 
 •The customer in Australia initiates a money transfer by contacting the entity's agent in Australia to transfer money to the customer's nominee in a designated overseas country.
 •The customer in Australia provides the entity's Australian agent with a money transfer form together with an amount of the money which is to be transferred to the entity's agent in the overseas country. The entity recognises a liability in its financial accounts when the money is provided to its agent in Australia.
@@ -41,8 +34,6 @@ Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. The term 'financial supply' is defined in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition or disposal of an interest is a financial supply if:
 
-
-
 •the interest is listed in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations; and
 •is for consideration;
 •is in the course or furtherance of an enterprise;
@@ -50,8 +41,6 @@ Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acq
 •(paragraph 40-5.09(1)(a) of the GST Regulations); and
 
 the supplier:
-
-
 
 •is registered or required to be registered for GST; and
 •is a financial supply provider in relation to a supply of the interest
@@ -65,8 +54,6 @@ The customer in Australia pays a fee to the entity's Australian agent for the mo
 The provision of the interest in a debt is not a supply of goods or real property. Therefore, subsection 9-25(5) of the GST Act is the appropriate provision in determining whether the supply is connected with Australia.
 Subsection 9-25(5) of the GST Act provides that a supply of anything other than goods or real property is connected with Australia if either:
 
-
-
 (a)the thing is done in Australia; or
 (b)the supplier makes the supply through an enterprise that the supplier carries on in Australia.
 
@@ -78,8 +65,6 @@ In this circumstance the obligation arises under an agreement which was executed
 The supplier is registered for GST and the supply is in the course and furtherance of an enterprise. Therefore, the first four requirements in subregulation 40-5.09(1) of the GST Regulations are satisfied. Accordingly, it is necessary to determine whether the entity is a 'financial supply provider' in relation to the provision of the interest.
 Under subregulation 40-5.06(1) of the GST Regulations, the financial supply provider of an interest is the entity that:
 
-
-
 •had property in the interest immediately before it was supplied; or
 •created the interest in making the supply.
 
@@ -90,11 +75,9 @@ Under section 38-190 of the GST Act, certain supplies of things other than goods
 The entity is making a supply that involves the supply of an obligation to a customer in Australia. The supply of a presently existing obligation to pay an ascertainable amount at a future time is both made and provided to the customer in Australia. Therefore, subsection 38-190(4) of the GST Act will not operate to widen the scope of item 3 in the table in subsection 38-190(1) of the GST Act. No other items in the table in subsection 38-190(1) will apply to this supply.
 Consequently, the supply of an outbound money transfer service (being the supply and provision of a presently existing obligation to pay an ascertainable amount at a future time) by the entity to the customer in Australia does not come within the scope of subsection 38-190(1) of the GST Act. As such the supply is not a GST-free supply. Accordingly, the supply of an outbound money transfer service by an entity to its customer in Australia is input taxed under subsection 40-5(1) of the GST Act.
 
-
-
 Note: Goods and Services Tax Rulings GSTR 2005/6 and GSTR 2007/2 discuss when a supply is made to an entity but provided to another entity. These rulings also discuss the consequences of this and are therefore relevant in determining whether a supply is GST-free under item 2 and item 3 in the table in subsection 38-190(1) of the GST Act.
 Date of decision:
-         3 July 2002
+  3 July 2002
 
 Legislative References:
 
@@ -111,33 +94,29 @@ GSTR 2007/2
 Keywords
 
 Goods and services tax
-          Input taxed supplies
-          GST financial supplies
-          GST debt, loan and credit
-
+ Input taxed supplies
+ GST financial supplies
+ GST debt, loan and credit
 
 Siebel/TDMS Reference Number:
-         265796-C
+  265796-C
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         15 March 2003
+  15 March 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  3 July 2002

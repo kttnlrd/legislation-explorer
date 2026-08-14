@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) derived by a life insurer from a company resident in New Zealand; and
 
-- (b) treated as income as a result of the granting of the insurer’s application under section EY 49 (Non-resident life insurer becoming resident).
+- (b) treated as income as a result of the granting of the insurer's application under section EY 49 (Non-resident life insurer becoming resident).
 
 **Zero-rating**
 

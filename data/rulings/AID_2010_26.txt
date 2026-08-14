@@ -3,18 +3,14 @@ ATO ID 2010/26
 ==================================================
 
 Income Tax
-        Australian financial institution (AFI): application of paragraph (d) in the definition of an AFI under subsection 317(1) of the Income Tax Assessment Act 1936 to the head company of a consolidated group
-        FOI status: may be released
-
-
+ Australian financial institution (AFI): application of paragraph (d) in the definition of an AFI under subsection 317(1) of the Income Tax Assessment Act 1936 to the head company of a consolidated group
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the head company of a consolidated group, which is treated as if it were a life insurance company pursuant to section 713-505 of the Income Tax Assessment Act 1997 (ITAA 1997), eligible to be declared an AFI under paragraph (d) of the definition of AFI in subsection 317(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -38,10 +34,7 @@ The amendments to the consolidation rules in Part 3-90 of the ITAA 1997 that inc
 
 1.13 That is, for example:
 
-
 •the provisions in Division 320 of the ITAA 1997 will apply to the head company to, among other things:
-
-
 
 -identify statutory income, exempt income (including management fees that qualify for transitional relief under section 320-40) and specific deductions;
 -allocate taxable income into two classes - the complying superannuation class and the ordinary class;
@@ -51,8 +44,6 @@ The amendments to the consolidation rules in Part 3-90 of the ITAA 1997 that inc
 
 •the dividend imputation rules that apply to life insurance companies will apply appropriately to the head company; and
 •the provisions of the Income Tax Rates Act 1986 that apply to life insurance companies will apply to the head company:
-
-
 
 -this will ensure that the head company will be taxed at a rate of 15% on the complying superannuation class of its taxable income.
 
@@ -67,14 +58,13 @@ In Commissioner of Taxation v. Comber (1986) 10 FCR 88; 86 ATC 4171; (1986) 17 A
 ...deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to ... It is improper in my view to extend by implication the express application of such a statutory fiction. It is even more improper so to do if such an extension is unnecessary, the express provision being capable by itself of sensible and rational application.
 
 While H Co is treated 'as if it were a *life insurance company', H Co is
-          not
-           an AFI pursuant to paragraph (d) of the definition of 'AFI' in subsection 317(1) of the ITAA 1936 unless it meets the particular requirements of that paragraph.
+ not
+ an AFI pursuant to paragraph (d) of the definition of 'AFI' in subsection 317(1) of the ITAA 1936 unless it meets the particular requirements of that paragraph.
 Paragraph (d) of the definition of AFI in subsection 317(1) of the ITAA 1936 provides that:
 
 "AFI" or "Australian financial institution": means any of the following entities:
 
 ...
-
 
 (d)a life assurance company; ...
 
@@ -82,10 +72,10 @@ Subsection 6(1) of the ITAA 1936 provides that 'life assurance company has the m
 Therefore, paragraph (d) of the definition of 'AFI' in subsection 317(1) of the ITAA 1936 operates to require that the relevant entity be registered as a life insurance company under the Life Insurance Act 1995.
 To conclude otherwise would entail concluding that the definition of 'life insurance company' in section 995-1 of the ITAA 1997 was modified by the operation of section 713-505 of the ITAA 1997. This conclusion could not be correct because the intended operation of section 713-505 is dependent upon the definition of 'life insurance company' in section 995-1 not being modified by the former section's operation.
 Date of decision:
-         18 December 2009
+  18 December 2009
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -94,7 +84,6 @@ Income Tax Assessment Act 1936   subsection 6(1)   subsection 317(1)
 
 Case References:
 
-
 Muller v Dalgety & Co Ltd   (1909) 16 ArgLR 17   (1909) 9 CLR 693
 
 Taxation, Federal Commissioner of v Comber   (1986) 10 FCR 88   (1986) 17 ATR 413   86 ATC 4171
@@ -102,25 +91,23 @@ Taxation, Federal Commissioner of v Comber   (1986) 10 FCR 88   (1986) 17 
 Other References:
 
  Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.2) of 2002 (Cth)
-          Pearce, DC & Geddes, RS 2006, Statutory Interpretation in Australia 6th ed, LexisNexis Butterworths, Chatswood
-
+ Pearce, DC & Geddes, RS 2006, Statutory Interpretation in Australia 6th ed, LexisNexis Butterworths, Chatswood
 
 Keywords
 
 Australian financial institution foreign subsidiaries
-          Consolidation
-          Head company
-          Life insurance company
-
+ Consolidation
+ Head company
+ Life insurance company
 
 Siebel/TDMS Reference Number:
-         6135637
+  6135637
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         5 February 2010
+  5 February 2010
 
 ISSN:
-          1445 - 2782
+ 1445 - 2782

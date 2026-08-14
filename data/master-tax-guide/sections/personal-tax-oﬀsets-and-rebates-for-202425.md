@@ -7,7 +7,7 @@ paragraph: "¶42-165"
 ---
 # Personal tax oﬀsets and rebates for 2024–25 ¶42-165
 
-Oﬀset/Rebate                                                                 Maximum amount for 2024–25 Dependant (Invalid and Carer) (¶15-100)                                                $3,300 Low income tax oﬀset (¶15-300)                                                         $700 (amounts vary according to taxable income levels) Senior Australians and pensioners (¶15-310)                                            Rebate levels vary according to taxpayer’s circumstances
+Oﬀset/Rebate                                                                 Maximum amount for 2024–25 Dependant (Invalid and Carer) (¶15-100)                                                $3,300 Low income tax oﬀset (¶15-300)                                                         $700 (amounts vary according to taxable income levels) Senior Australians and pensioners (¶15-310)                                            Rebate levels vary according to taxpayer's circumstances
 
 of certain educational allowances (¶15-315) Private health insurance (¶15-330, ¶2-335)                                             Dependent on age of person(s) covered by policy and income level(s) Zone rebates (¶15-160)
 

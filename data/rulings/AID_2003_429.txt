@@ -3,28 +3,21 @@ ATO ID 2003/429
 ==================================================
 
 Goods and Services Tax
-        GST and tax invoice issued by an unregistered agent of the supplier
-        FOI status: may be released
+ GST and tax invoice issued by an unregistered agent of the supplier
+ FOI status: may be released
 
-
-The ATO view for this issue is covered in Goods and Services Tax Ruling  GSTR 2000/37.
+The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2000/37.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the unregistered agent that makes a supply on behalf of a supplier that is registered for goods and services tax (GST), issuing a tax invoice that complies with the requirements in subsection 29-70(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when the invoice contains:
-
-
 
 •the price for the supply;
 •the words 'tax invoice' stated prominently;
@@ -36,8 +29,6 @@ Is the unregistered agent that makes a supply on behalf of a supplier that is re
 
 Decision
 Yes, the unregistered agent is issuing a tax invoice that complies with the requirements in subsection 29-70(1) of the GST Act when the invoice contains:
-
-
 
 •the price for the supply;
 •the words 'tax invoice' stated prominently;
@@ -54,8 +45,6 @@ The agent is not a resident agent acting for a non-resident entity.
 The agent makes a supply to a recipient on behalf of the supplier. This supply is a taxable supply under section 9-5 of the GST Act. The total amount, including GST, payable for the supply is $1000 or more.
 The agent issues the recipient of the supply with an invoice that contains:
 
-
-
 •the price for the supply;
 •the words 'tax invoice' stated prominently;
 •the date of issue of the tax invoice;
@@ -68,8 +57,6 @@ The invoice is not a recipient created tax invoice.
 Reasons for Decision
 Under subsection 29-70(1) of the GST Act, a tax invoice for a taxable supply must:
 
-
-
 (a)be issued by the supplier, unless it is a recipient created tax invoice (in which case it must be issued by the recipient); and
 (b)set out the ABN of the entity that issues it; and
 (c)set out the price for the supply; and
@@ -77,8 +64,6 @@ Under subsection 29-70(1) of the GST Act, a tax invoice for a taxable supply mus
 (e)be in the approved form.
 
 Subregulation 29-70.01(2) of the GST Regulations specifies the additional information that a tax invoice must contain where the total amount, including the GST payable for the supply to which the tax invoice relates is $1000 or more. These information requirements are:
-
-
 
 (a)the words 'tax invoice' stated prominently;
 (b)the date of issue of the tax invoice;
@@ -89,8 +74,6 @@ Subregulation 29-70.01(2) of the GST Regulations specifies the additional inform
 (g)for each description, the quantity of the goods or the extent of the services supplied.
 
 The agent is not the supplier. The agent issues an invoice that relates to a taxable supply where the total amount, including GST, payable for the supply is $1,000 or more. This invoice contains:
-
-
 
 •the price for the supply;
 •the words 'tax invoice' stated prominently;
@@ -105,16 +88,12 @@ Paragraph 29-70(1)(a) requires that the supplier issues a tax invoice. Subsectio
 Goods and Services Tax Ruling GSTR 2000/37 explains the rules for agents when issuing tax invoices. Paragraph 64 of GSTR 2000/37 considers that subsection 153-15(1) of the GST Act also varies the requirements set out in paragraphs 29-70(1)(b) (about the issuer's ABN) and 29-70(1)(d) of the GST Act (about information required under the GST regulations).
 Paragraph 65 of GSTR 2000/37 provides that where an agent issues a tax invoice, the document is a tax invoice and meets the requirements of subsection 29-70(1) of the GST Act if it sets out:
 
-
-
 •the principal's name and ABN as the supplier and issuer without the agent's name and ABN; or
 •the agent's name and ABN as the supplier and issuer instead of the principal's name and ABN.
 
 The agent issues a tax invoice that sets out its name and ABN instead of the supplier's name and ABN. In accordance with paragraph 65 of GSTR 2000/37, the invoice is a tax invoice that meets the requirements of subsection 29-70(1) of the GST Act.
 Neither subsection 29-70(1) of the GST Act or section 153-15 of the GST Act require the agent to be registered for GST in order to issue a valid tax invoice.
 Accordingly, the agent is issuing a tax invoice that complies with the requirements in subsection 29-70(1) of the GST Act when it is not registered for GST and the tax invoice contains:
-
-
 
 •the price for the supply;
 •the words 'tax invoice' stated prominently;
@@ -129,7 +108,7 @@ Accordingly, the agent is issuing a tax invoice that complies with the requireme
 Note 2: The agent is not a resident agent acting for a non-resident entity and this ATO Interpretative Decision does not apply in relation to Division 57 of the GST Act (resident agents acting for non-residents).]
 
 Date of decision:
-         22 May 2003
+  22 May 2003
 
 Legislative References:
 
@@ -147,31 +126,27 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST invoices
-          Tax invoices
-          GST special rules
-          Acquisitions and supplies by Agents
-
+ GST invoices
+ Tax invoices
+ GST special rules
+ Acquisitions and supplies by Agents
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         6 June 2003
+  6 June 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 22 May 2003

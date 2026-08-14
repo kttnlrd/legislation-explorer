@@ -3,17 +3,13 @@ ATO ID 2014/11
 ==================================================
 
 Income Tax
-        Research and Development: building expenditure
-
-
+ Research and Development: building expenditure
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the exclusion for 'expenditure incurred in the acquisition or construction of a building' in the definition of 'research and development expenditure' in subsection 73B(1) of the Income Tax Assessment Act 1936 (ITAA 1936) only include structural elements that form the building?
@@ -39,8 +35,6 @@ The Macquarie Dictionary (5th ed 2012 online) defines 'part', relevantly for the
 
 Judicial consideration of the ordinary meaning of the phrase 'a part of' reveals the following key elements:
 
-
-
 •The word 'part' ordinarily connotes something which is a constituent or a component of a whole. A part is something which is essential to complete the whole (Re Walterscheid Australia Pty Ltd v. Collector of Customs [1988] FCA 20; Deputy Commissioner of Taxation v. Polaroid Australia Pty Ltd (1971) 2 ATR 653).
 •A part of a building can encompass individual architectural features, including internal features of design (Darwin Fibreglass Pty Ltd v. Kruhse Enterprises Pty Ltd (t/as Viking Swimming Pools and Spas) (1998) 41 IPR 649; 124 NTR 1).
 •What is an 'integral part' of a building, in a practical sense, can be answered with regard to the completeness test (Case 11/97 97 ATC 173). That is, an item that is an integral, constituent, or component part, of the building which is essential to its function as the building in which the taxpayer's income-producing activities are conducted, and which makes up the whole, will form 'a part of' that building. These include features that are commonly understood as being 'a part' of a building structure, such as the foundation, walls, roof, ceiling, and floor. So are items that are clearly absorbed by the structure of the building and form 'part of the fabric' of a building in which a taxpayer's income-producing activities are conducted, such as internal plumbing, electrical switchboards, wiring and conduits, mains and sub-mains cables, gas installations, security features, and screen doors. These items form part of the setting in which the taxpayer carries on its business activities (Wangaratta Woollen Mills Ltd v. Federal Commissioner of Taxation 69 ATC 4095; Imperial Chemical Industries of Australia and New Zealand Ltd v. FCT (1970) 120 CLR 396; Woodward v. FC of T [2003] AATA 4; 2003 ATC 2001).
@@ -48,14 +42,10 @@ Judicial consideration of the ordinary meaning of the phrase 'a part of' reveals
 The term 'part' of a building in its ordinary sense also includes fixtures. Additionally, part of a building can include a permanent, fixed and structurally delineated section of the building capable of being the subject of a separately identifiable legal or equitable interest, such as a single floor of a multi-storey building (Taxation Ruling TR 2013/2 Income tax: school or college building funds). Thus, an item that is annexed, affixed, or adjunct to the building but in such a way that it loses its separate character and becomes integral to the building forms 'part of' a building (Taxation Ruling TR 2007/9 Income tax: circumstances when an item used to create a particular atmosphere or ambience for premises used in a cafe, restaurant, licensed club, hotel, motel or retail shopping business constitutes an item of plant, paragraphs 8-9).
 Applying the above considerations to the R&D context, it is concluded that the expression 'a part of' a building refers to both:
 
-
-
 •parts or sections of a building which, in their ordinary sense, are essential to making up the whole structure as a building for which it is intended to be used. These include the foundation, walls, roof, ceiling, floor, and structurally delineated parts within the building such as individual rooms, and
 •items that have a separate identifiable character but nevertheless become part of the fabric of the building once they are attached or affixed to the structure. These include electrical wiring, cabling and conduits, plumbing, flooring, lighting, and depreciable items that become an integral part of a building.
 
 Whether an item becomes integral to, or part of, the fabric of the building once it is attached or affixed to the structure is a question of fact and degree, having regard to:
-
-
 
 •whether the item visually retains a separately identity
 •the degree of permanence with which it has been attached
@@ -65,14 +55,13 @@ Whether an item becomes integral to, or part of, the fabric of the building once
 This interpretation also applies to the interpretation of the term 'a part of a building' in subparagraph 355-225(1)(a)(i) of the ITAA 1997 insofar as it applies to the R&D tax incentive program found in Division 355 of the ITAA 1997, applicable to income years commencing on or after 1 July 2011.
 In the present case, as the construction involves the development, design, build and demonstration of a highly automated end-to-end batch manufacturing process, the building exclusion will apply to both the structural elements that form the physically separate structures ('buildings') and those items that have a separate identifiable nature that nevertheless become an integral part of those structures ('parts of a building'), enabling the structures to function as the setting for the automated end-to-end batch manufacturing process.
 
-
 Note: As the taxpayer's construction of the buildings is on revenue account, the issue of whether an item that is not an integral part of a building could nevertheless be a depreciating asset for the purposes of Division 40 of the ITAA 1997 does not arise. An item that is trading stock of the taxpayer cannot be a depreciating asset for the purposes of Division 40 of the ITAA 1997.
 
 Date of decision:
-         4 March 2014
+  4 March 2014
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -95,7 +84,6 @@ Wangaratta Woollen Mills Ltd v Federal Commissioner of Taxation   [1969] HCA 
 
 Woodward v FC of T   [2003] AATA 4   2003 ATC 2001   51 ATR 1115
 
-
 Related Public Rulings (including Determinations)
 
 TR 2013/2
@@ -109,21 +97,19 @@ Other References:
 
 The Macquarie Dictionary Online © Macquarie Dictionary Publishers Pty Ltd.
 
-
 Keywords
 
 Eligible research & development expenditure
-          Capital expenditure
-
+ Capital expenditure
 
 Siebel/TDMS Reference Number:
-         1-4IMXF76
+  1-4IMXF76
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         7 March 2014
+  7 March 2014
 
 ISSN:
-          1445-2782
+ 1445-2782

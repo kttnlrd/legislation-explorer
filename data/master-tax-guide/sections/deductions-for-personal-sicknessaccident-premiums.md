@@ -17,6 +17,6 @@ Failure to adduce such evidence caused the taxpayer to lose in Case J45 77 ATC 4
 
 The premium payable by a self-employed person or an employee on a trauma insurance policy that provides a capital amount on the suﬀering of a speciﬁed medical condition is not deductible (TD 95/41). However, such a premium may be deductible by an employer if: (a) the premium is paid for a revenue purpose; (b) the purpose of the policy is to advance the business ends of the employer; (c) the policy is owned by the employer; and (d) the employer is the beneﬁciary under the policy (TD 95/42; CR 2005/103).
 
-Premiums paid by employees for travel insurance would not normally be deductible even if the travel is work- related (Case T78 86 ATC 1094; [1986] AATA 318). person” insurance premiums
+Premiums paid by employees for travel insurance would not normally be deductible even if the travel is work- related (Case T78 86 ATC 1094; [1986] AATA 318). person" insurance premiums
 
 *Refs: ITAA97 s 8-1*

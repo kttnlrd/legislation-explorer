@@ -13,7 +13,7 @@ Reserves or provisions for doubtful debts are not deductible. Before a deduction
 
 - the debt is statute-barred and the debtor relies on this as a defence for non-payment
 
-- the debtor and the debtor’s assets cannot be traced
+- the debtor and the debtor's assets cannot be traced
 
 - in the case of a corporate debtor, the company is in liquidation and there are insuﬃcient funds to
 

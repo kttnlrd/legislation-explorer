@@ -7,15 +7,15 @@ paragraph: "¶3-515"
 ---
 # Complying superannuation asset pools ¶3-515
 
-A life insurance company can create a segregated pool of assets known as a “complying superannuation asset pool”, to be used for the sole purpose of discharging its complying superannuation liabilities (ITAA97 s 320-170).
+A life insurance company can create a segregated pool of assets known as a "complying superannuation asset pool", to be used for the sole purpose of discharging its complying superannuation liabilities (ITAA97 s 320-170).
 
-Annual valuation and transfer of assets The “transfer value” (market value less allowance for expected disposal costs: ITAA97 s 995-1(1)) of complying superannuation assets, and the amount of the company’s complying superannuation liabilities, must be determined as at the end of each income year (the “valuation time”) (ITAA97 s 320-175). (The time of joining or leaving a consolidated group is also a valuation time: ITAA97 s 713-525.) The valuation must be made within 60 days after each valuation time.
+Annual valuation and transfer of assets The "transfer value" (market value less allowance for expected disposal costs: ITAA97 s 995-1(1)) of complying superannuation assets, and the amount of the company's complying superannuation liabilities, must be determined as at the end of each income year (the "valuation time") (ITAA97 s 320-175). (The time of joining or leaving a consolidated group is also a valuation time: ITAA97 s 713-525.) The valuation must be made within 60 days after each valuation time.
 
 Once determined, the transfer value of the complying superannuation assets is compared with the sum of:
 
-- the company’s complying superannuation liabilities, and
+- the company's complying superannuation liabilities, and
 
-- any reasonable provision in the company’s accounts for income tax liabilities in respect of the
+- any reasonable provision in the company's accounts for income tax liabilities in respect of the
 
   assets.
 
@@ -56,7 +56,7 @@ superannuation asset pool A life insurance company must transfer assets from or 
 
   expenses incurred directly in respect of its complying superannuation assets
 
-- to pay any unpaid PAYG instalments or income tax liabilities that are attributable to the company’s
+- to pay any unpaid PAYG instalments or income tax liabilities that are attributable to the company's
 
   complying superannuation assets.
 
@@ -76,7 +76,7 @@ Div 40 or former Div 42) or capital loss is disregarded until the asset ceases t
 
 *Refs: ITAA97 s 320-200*
 
-segregated exempt assets Where a complying superannuation life insurance policy becomes an exempt life insurance policy (eg when a deferred annuity policy becomes an immediate annuity policy) provision is made for transferring assets from the complying superannuation asset pool to segregated exempt assets. The transfer value of the assets cannot exceed the value of the company’s liabilities in respect of the policy, plus any reasonable provision made in the company’s accounts for liability for income tax in respect of the assets being transferred (s 320-195(1)).
+segregated exempt assets Where a complying superannuation life insurance policy becomes an exempt life insurance policy (eg when a deferred annuity policy becomes an immediate annuity policy) provision is made for transferring assets from the complying superannuation asset pool to segregated exempt assets. The transfer value of the assets cannot exceed the value of the company's liabilities in respect of the policy, plus any reasonable provision made in the company's accounts for liability for income tax in respect of the assets being transferred (s 320-195(1)).
 
 CGT treatment of complying superannuation assets ITAA97 ss 295-85 and 295-90 apply for the purposes of working out any capital gain or capital loss that arises from a CGT event that involves a complying superannuation asset (ITAA97 s 320-45).
 

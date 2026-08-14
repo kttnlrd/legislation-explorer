@@ -11,7 +11,7 @@ A personal use asset is a CGT asset, other than a collectable, that is used or k
 
 Land, strata title units, and buildings and structures that are taken to be separate CGT assets (¶11-410) are not personal use assets. The exclusion of land and buildings means that, while houseboats and caravans that are not ﬁxed to land can be personal use assets, holiday houses erected on land cannot. Other examples of personal use assets include clothing, white goods, furniture, sporting equipment, cameras and boats.
 
-Where a director/shareholder is required to make a payment under a guarantee of a company’s debt, the resulting debt owing to the shareholder by the company is not a personal use asset if the objectively determined primary purpose of the guarantee payment was assisting the business so as to promote the future ﬂow of dividends to the shareholder, provided the amount of expected dividends is not completely disproportionate to the amount of the liability under the guarantee (TR 96/23).
+Where a director/shareholder is required to make a payment under a guarantee of a company's debt, the resulting debt owing to the shareholder by the company is not a personal use asset if the objectively determined primary purpose of the guarantee payment was assisting the business so as to promote the future ﬂow of dividends to the shareholder, provided the amount of expected dividends is not completely disproportionate to the amount of the liability under the guarantee (TR 96/23).
 
 A horse acquired by a taxpayer who races horses as a hobby (ie who is not carrying on a business of racing horses) is a personal use asset (TR 93/26).
 

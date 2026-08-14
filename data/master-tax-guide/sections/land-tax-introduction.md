@@ -7,7 +7,7 @@ paragraph: "¶38-000"
 ---
 # Land tax: introduction ¶38-000
 
-Land tax is an annual tax on the ownership of land. It is imposed by all states and by the Australian Capital Territory, but not by the Northern Territory. Factors that aﬀect a taxpayer’s land tax liability include:
+Land tax is an annual tax on the ownership of land. It is imposed by all states and by the Australian Capital Territory, but not by the Northern Territory. Factors that aﬀect a taxpayer's land tax liability include:
 
 - whether the land is owned by a natural person or a company, directly or through a trust, and
 
@@ -21,7 +21,7 @@ In all jurisdictions liability to land tax falls to the owner or owners of land 
 
 Ownership generally arises out of a freehold estate in land, although in some circumstances a lessee or a person having a legal right to occupy land may also be an owner. An owner may be an individual, a company, a trustee or beneﬁciary of a trust with land assets, a life tenant, or a purchaser or mortgagee in possession. In CPT Custodian Pty Ltd v Commissioner of State Revenue (Vic); Commissioner of State Revenue (Vic) v Karingal 2 Holdings Pty Ltd 2005 ATC 4925; [2005] HCA 53 the High Court held that unit holders in a unit trust that conferred an interest in land held in trust were not owners of that land. Unit trusts can be assessed for land tax as ﬁxed trusts where the trust deeds are structured in a manner which ﬁxes unit entitlements and heavily restricts trustee discretions.
 
-Typical exemptions include the owner’s home, land used for primary production, and land used or owned by charitable entities or non-proﬁt entities engaging in certain socially desirable activities.
+Typical exemptions include the owner's home, land used for primary production, and land used or owned by charitable entities or non-proﬁt entities engaging in certain socially desirable activities.
 
 Assessment In each taxing state and territory a taxpayer is assessed for land tax on the aggregate value of all taxable land owned on a taxing date. That date is usually at the end of the calendar year or at the end of the ﬁnancial year. In the ACT land tax is assessed quarterly. In most cases, no tax is payable by an individual if the aggregate taxable value of land owned by that individual in the state or territory is less than a tax-free threshold. See commentary on each state and territory for more details.
 
@@ -37,7 +37,7 @@ Tax-free thresholds usually apply to these surcharges, although they may be lowe
 
 Foreign owners may be eligible for similar exemptions to those applying to land tax assessment, although the principal place of residence exemption cannot be claimed by absentee owners in Qld.
 
-Non-discrimination provisions in Tax Treaties In Addy 2021 ATC ¶20-803; [2021] HCA 34 the High Court upheld an objection by a British backpacker against the imposition of a higher rate of income tax (the “backpacker tax”) on her working holiday income than the rate which then applied to Australian nationals. The Court held that the backpacker tax contravened the non-discrimination article in the Australia-UK Tax Treaty. That article protected British nationals who were Australian residents for income tax purposes from being taxed at rates that were less favourable than those applying to other Australian residents.
+Non-discrimination provisions in Tax Treaties In Addy 2021 ATC ¶20-803; [2021] HCA 34 the High Court upheld an objection by a British backpacker against the imposition of a higher rate of income tax (the "backpacker tax") on her working holiday income than the rate which then applied to Australian nationals. The Court held that the backpacker tax contravened the non-discrimination article in the Australia-UK Tax Treaty. That article protected British nationals who were Australian residents for income tax purposes from being taxed at rates that were less favourable than those applying to other Australian residents.
 
 The case raised the prospect that state tax and duty surcharges applying to foreign owners were also inconsistent with the non-discrimination provisions of certain international tax treaties entered into by the federal government. If so, citizens of those tax treaty nations could not be charged with surcharge purchaser duty or surcharge land tax. To provide certainty, amendments to the International Tax Agreements Act 1953 (Cth) ensure that laws implementing international agreements are generally subject to inconsistent state or territory tax laws.
 

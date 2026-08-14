@@ -3,23 +3,18 @@ ATO ID 2011/104
 ==================================================
 
 Income Tax
-        Division 7A: Application of section 109T - where payment made by a private company to an interposed entity is a payment of an actual dividend
-        FOI status: may be released
+ Division 7A: Application of section 109T - where payment made by a private company to an interposed entity is a payment of an actual dividend
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as guidance is now provided in  TD 2017/D3, which issued on 28 June 2017
+This ATO ID is withdrawn as guidance is now provided in TD 2017/D3, which issued on 28 June 2017
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can section 109T of the Income Tax Assessment Act 1936 (ITAA 1936) operate to treat a private company as having made a payment or loan to a shareholder or an associate of a shareholder (the target entity) in circumstances where the interposed entity is also a shareholder of the private company and the payment made to the interposed entity is the payment of an actual dividend?
@@ -40,53 +35,44 @@ Subdivision E of Division 7A of the ITAA 1936 allows a private company to be tak
 The Explanatory Memorandum to Taxation Laws Amendment Bill (No.3) 1998 explains the operation of Subdivision E as follows:
 
 9.63
-              New Subdivision E
+ New Subdivision E
  applies to back-to-back arrangements under which a private company pays or loans an amount to an interposed entity on the understanding that the interposed entity or another interposed entity will pay or loan an amount to a shareholder of the private company or an associate of the shareholder. In such cases, the private company will be treated as having directly paid or loaned an amount to the shareholder or associate. The amount of the payment or loan will be determined by the Commissioner having regard to certain specified conditions.
 
 Therefore, Subdivision E prevents Division 7A of the ITAA 1936 being circumvented by causing an entity interposed between the private company and the target entity to itself make the payment to the target entity.
 If the conditions in subsection 109T(1) of the ITAA 1936 are satisfied then, subject to subsection 109T(3) of the ITAA 1936, Division 7A of the ITAA 1936 operates as if the private company made the payment or loan direct to the target entity. Section 109T of the ITAA 1936 relevantly provides:
 
 109T(1)
-               This Division operates as if a private company makes a payment or loan to an entity (the
-              target entity
+ This Division operates as if a private company makes a payment or loan to an entity (the
+ target entity
 ) as described in section 109V or 109W if:
 
-
-
 (a)the private company makes a payment or loan to another entity (the
-                    first interposed entity
+ first interposed entity
 ) that is interposed between the private company and the target entity; and
 (b)a reasonable person would conclude (having regard to all the circumstances) that the private company made the payment or loan solely or mainly as part of an arrangement involving a payment or loan to the target entity; and
 (c)either:
-
-
 
 (i)the first interposed entity makes a payment or loan to the target entity; or
 (ii)another entity interposed between the private company and the target entity makes a payment or loan to the target entity.
 
 109T(2)
-               ...................................
-
+ ...................................
 
 109T(3)
-               This Division does not operate as described in subsection (1) (and sections 109V and 109W) if the private company is taken under Subdivision B (as it applies apart from this Subdivision) to pay a dividend as a result of the payment or loan to the first interposed entity.
+ This Division does not operate as described in subsection (1) (and sections 109V and 109W) if the private company is taken under Subdivision B (as it applies apart from this Subdivision) to pay a dividend as a result of the payment or loan to the first interposed entity.
 
 Subsection 109X(1) of the ITAA 1936 is also relevant. The section provides:
 
 109X(1)
-               Despite sections 109K and 109L, a private company may be taken under section 109C or 109D to pay a dividend as a result of this Subdivision treating the private company as making a payment or loan to an entity (the
-              target entity
+ Despite sections 109K and 109L, a private company may be taken under section 109C or 109D to pay a dividend as a result of this Subdivision treating the private company as making a payment or loan to an entity (the
+ target entity
 ), even if:
-
-
 
 (a)the private company is treated that way because it makes a payment or loan to an entity that is a company interposed between the private company and the target entity; or
 (b)some or all of the amount paid or lent by a private company to an entity interposed between the private company and the target entity is included in the interposed entity's assessable income for a year of income.
 
 Paragraph 109X(1)(b) of the ITAA 1936 makes it clear that section 109T (and sections 109V and 109W of the ITAA 1936) can apply in circumstances where the amount paid by the private company is included in the interposed entity's assessable income.
 On the present facts, the operation of Division 7A of the ITAA 1936 will need to be considered in respect of:
-
-
 
 1.the payment made by Private Company A to Private Company B
 2.the loan made by Private Company B to Jack Jones; and
@@ -106,8 +92,6 @@ The notional loan made by Private Company A to Jack Jones
 On the present facts, the subsection 109T(1) of the ITAA 1936 conditions are satisfied. There is a back to back arrangement in which Private Company A has made a payment to Private Company B as part of an arrangement involving a loan to Jack Jones.
 As subsection 109T(3) of the ITAA 1936 has no application, Division 7A of the ITAA 1936 can operate as if Private Company A made a loan to Jack Jones as described in section 109W of the ITAA 1936.
 Under section 109W of the ITAA 1936, the amount of the notional loan is the amount (if any) determined by the Commissioner. Given the facts and circumstances relating to the loan made to Jack Jones, the Commissioner would determine that the amount of the notional loan was $100,000. There has been an informal or disguised distribution of Private Company A profits to Jack Jones.
-
-
 
 Note: Taxation Determination TD 2011/16 sets out the factors the Commissioner will take into account in determining the amount of any deemed payment or notional loan arising under section 109T of the ITAA 1936.
 
@@ -132,10 +116,10 @@ Facts
 Updated for clarity.
 
 Date of decision:
-         1 November 2011
+  1 November 2011
 
 Year of income:
-           Year ending 30 June 2006 Year ending 30 June 2007 Year ending 30 June 2008 Year ending 30 June 2009
+  Year ending 30 June 2006 Year ending 30 June 2007 Year ending 30 June 2008 Year ending 30 June 2009
 
 Legislative References:
 
@@ -149,37 +133,32 @@ Other References:
 
  Explanatory Memorandum to the Taxation Laws Amendment Bill (No.3) 1998
 
-
 Keywords
 
 Anti avoidance measures
-          Deemed dividends
-          Dividend income
-          Income
-          Private company distributions
-          Shareholder payments
-          Shareholder loans
-
+ Deemed dividends
+ Dividend income
+ Income
+ Private company distributions
+ Shareholder payments
+ Shareholder loans
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         23 December 2011
+  23 December 2011
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  1 November 2011

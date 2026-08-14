@@ -11,7 +11,7 @@ The rules for quoting a TFN in relation to an investment are in ITAA36 ss 202D t
 
 The dealer must, in turn, notify the investment body.
 
-If an investment is made jointly by 2 persons, both must quote their TFNs (unless exempt). If the investment is made jointly by more than 2 persons, at least 2 must quote their TFNs or be deemed to have quoted their TFNs. For investments by partnerships, the partnership’s TFN must be quoted.
+If an investment is made jointly by 2 persons, both must quote their TFNs (unless exempt). If the investment is made jointly by more than 2 persons, at least 2 must quote their TFNs or be deemed to have quoted their TFNs. For investments by partnerships, the partnership's TFN must be quoted.
 
 If an investment is made by a trustee, the trustee may quote the TFN of the trust estate (if available), even though the name in which the investment is held does not indicate that the person is investing as a trustee.
 
@@ -21,7 +21,7 @@ Where a solicitor or body corporate reinvests funds as trustee (either in his/he
 
 Where an investor has quoted a TFN to a public company in relation to a shareholding, the investor is not required to quote the TFN again for a subsequent shareholding in that company.
 
-Investors in transferable securities (eg shares in public companies, debentures, units in unit trusts) are required to quote their TFN to the investment body before “books closing time” (ie the time at which a person must be a registered owner of an investment to be entitled to receive payment of income from the investment) if they are to avoid having tax withheld (TAA sch 1 s 12-140(1)).
+Investors in transferable securities (eg shares in public companies, debentures, units in unit trusts) are required to quote their TFN to the investment body before "books closing time" (ie the time at which a person must be a registered owner of an investment to be entitled to receive payment of income from the investment) if they are to avoid having tax withheld (TAA sch 1 s 12-140(1)).
 
 If an investor who does not have a TFN quotes a ﬁctitious TFN to the investment body, the Commissioner may notify the body and the investor. From the date speciﬁed in the notice, the investor will be treated as not having quoted a TFN. exemptions for investors
 

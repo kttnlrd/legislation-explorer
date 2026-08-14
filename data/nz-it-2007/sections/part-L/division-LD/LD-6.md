@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section LD 4 when the employer or PAYE intermediary transfers the person’s payroll donation to an entity that is not a donee organisation.
+**(1)**  This section applies for the purposes of section LD 4 when the employer or PAYE intermediary transfers the person's payroll donation to an entity that is not a donee organisation.
 
 **Credit extinguished**
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(3)**  The consequences that arise when a tax credit is extinguished under subsection (2) are—
 
-- (a) the amount of the credit is removed from the person’s tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
+- (a) the amount of the credit is removed from the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
 
 - (b) when the extinguishing of the credit results in a shortfall in an amount of tax for a PAYE income payment, section RD 4 (Payment of amounts of tax to Commissioner) applies to the shortfall.
 

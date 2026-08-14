@@ -7,7 +7,7 @@ paragraph: "¶23-030"
 ---
 # Meaning of ﬁnancial arrangements ¶23-030
 
-Division 230 applies to ﬁnancial arrangements that are “Div 230 ﬁnancial arrangements”. A Div 230 ﬁnancial arrangement is an arrangement where the legal or equitable rights to receive or obligations to provide a ﬁnancial beneﬁt (¶23-110) are cash settlable. An arrangement will not be a Div 230 ﬁnancial arrangement, however, if the cash settlable rights and obligations are insigniﬁcant compared to other rights and obligations under the arrangement, or if the cash settlable rights and obligations no longer exist.
+Division 230 applies to ﬁnancial arrangements that are "Div 230 ﬁnancial arrangements". A Div 230 ﬁnancial arrangement is an arrangement where the legal or equitable rights to receive or obligations to provide a ﬁnancial beneﬁt (¶23-110) are cash settlable. An arrangement will not be a Div 230 ﬁnancial arrangement, however, if the cash settlable rights and obligations are insigniﬁcant compared to other rights and obligations under the arrangement, or if the cash settlable rights and obligations no longer exist.
 
 Division 230 also applies to certain equity interests (¶23-115), rights or obligations in relation to equity interests, and the following arrangements as if they were a right that constituted a ﬁnancial arrangement:
 
@@ -19,7 +19,7 @@ Division 230 also applies to certain equity interests (¶23-115), rights or obli
 
 - certain oﬀsetting commodity contracts held by traders.
 
-The broad deﬁnition of ﬁnancial arrangement means that Div 230 extends to a wide range of arrangements including loans, bonds, derivatives (forwards, futures, options, swaps, etc), promissory notes, bills of exchange, shares and the like. “Internal derivatives” used by multinational banks may also be ﬁnancial arrangements in certain instances (PCG 2017/8).
+The broad deﬁnition of ﬁnancial arrangement means that Div 230 extends to a wide range of arrangements including loans, bonds, derivatives (forwards, futures, options, swaps, etc), promissory notes, bills of exchange, shares and the like. "Internal derivatives" used by multinational banks may also be ﬁnancial arrangements in certain instances (PCG 2017/8).
 
 Arrangements not subject to Div 230 Division 230 does not apply to the following ﬁnancial arrangements and the taxation rules in other parts of
 
@@ -41,7 +41,7 @@ Arrangements not subject to Div 230 Division 230 does not apply to the following
 
   (¶10-230)
 
-- certain worker’s compensation arrangements (¶10-180)
+- certain worker's compensation arrangements (¶10-180)
 
 - certain guarantees and indemnities unless a fair value or ﬁnancial reports election is made (a term
 
@@ -57,7 +57,7 @@ Arrangements not subject to Div 230 Division 230 does not apply to the following
 
 - certain interests in a controlled foreign company (¶21-110)
 
-- proceeds from certain business sales, including “earnouts” (¶11-675; Merchant & Anor 2024 ATC
+- proceeds from certain business sales, including "earnouts" (¶11-675; Merchant & Anor 2024 ATC
 
   ¶20-909; [2024] FCA 498)
 
@@ -73,7 +73,7 @@ Arrangements not subject to Div 230 Division 230 does not apply to the following
 
 - any other arrangement speciﬁed by regulation.
 
-- where losses arise on ceasing to hold an arrangement that is a “marketable security” (ITAA36 s
+- where losses arise on ceasing to hold an arrangement that is a "marketable security" (ITAA36 s
 
 70B) where the taxpayer ceases to have the arrangement because of a belief that the other party to the arrangement would be unable to meet its obligations to discharge its liabilities under the arrangement
 
@@ -91,7 +91,7 @@ Arrangements not subject to Div 230 Division 230 does not apply to the following
 
   contracts or arrangements for the provision of residential or ﬂexible care. These arrangements are
 
-  unlikely to be ﬁnancial arrangements in any event as they are likely to include “non-insigniﬁcant”
+  unlikely to be ﬁnancial arrangements in any event as they are likely to include "non-insigniﬁcant"
 
   non-cash settlable rights and obligations (¶23-035), and
 
@@ -123,7 +123,7 @@ The time for determining whether an arrangement is a ﬁnancial arrangement is t
 
 Calculating gains and losses on ﬁnancial arrangements Division 230 brings net gains and net losses on Div 230 ﬁnancial arrangements to account in priority to other taxing provisions (including those in Div 775 which tax foreign exchange gains and losses (¶23-075)). Net gains and losses are recognised using one of the tax timing methods discussed below (¶23-040). Where a loss is deductible the thin capitalisation rules (¶22-700) may prevent it from being deductible in full. If a gain or loss is excluded from the application of Div 230 then other taxing provisions may apply.
 
-Whether Div 230 applies to gains and losses is determined from the taxpayer’s perspective. Holders and issuers of ﬁnancial arrangements may, therefore, be treated in diﬀerent ways by Div 230, eg one taxpayer may be subject to Div 230 and the other may be excluded, or a party to a ﬁnancial arrangement may bring a ﬁnancial beneﬁt to account in a diﬀerent way to the party providing the ﬁnancial beneﬁt. This could arise because diﬀerent tax timing methods (¶23-040) are used.
+Whether Div 230 applies to gains and losses is determined from the taxpayer's perspective. Holders and issuers of ﬁnancial arrangements may, therefore, be treated in diﬀerent ways by Div 230, eg one taxpayer may be subject to Div 230 and the other may be excluded, or a party to a ﬁnancial arrangement may bring a ﬁnancial beneﬁt to account in a diﬀerent way to the party providing the ﬁnancial beneﬁt. This could arise because diﬀerent tax timing methods (¶23-040) are used.
 
 Financial benefits Under Div 230, a gain or loss from a ﬁnancial arrangement is worked out by oﬀsetting costs (ﬁnancial beneﬁts provided) against proceeds (ﬁnancial beneﬁts received). Cost attribution rules determine which costs should be subtracted from which proceeds.
 
@@ -139,7 +139,7 @@ The ATO has published guidance on its website on the TOFA implications of amendi
 
 TOFA and residence Taxpayers who are not tax residents in Australia will only be taxable on gains arising from ﬁnancial arrangements which have an Australian source. A person who becomes an Australian resident is taken to have acquired an existing ﬁnancial arrangement at that time for its market value at that time. A person who ceases to be an Australian resident is taken to have disposed of an existing ﬁnancial arrangement at that time for its market value at that time.
 
-Division 230 and PAYG Net gains, not net losses, made on ﬁnancial arrangements subject to Div 230 are included in a taxpayer’s instalment income (¶27-260).
+Division 230 and PAYG Net gains, not net losses, made on ﬁnancial arrangements subject to Div 230 are included in a taxpayer's instalment income (¶27-260).
 
 Consolidation When an entity holding a Div 230 ﬁnancial arrangement joins or leaves a consolidated group (¶8-000) or MEC group (¶8-610), the existing consolidation rules generally prevail, however, speciﬁc rules have been made to enhance the interaction of the consolidation and TOFA regimes. These TOFA consolidation interaction provisions (Subdiv 715-F) are driven by 4 basic principles: (1) where an entity joins a consolidated group or MEC group, the joining entity will apply Div 230 as if the joining time was the end of an income year (2) the head company will apply the consolidation rules and Div 230 as if the head company had directly acquired assets that are or form part of ﬁnancial arrangements from the joining entity (3) where an entity leaves a consolidated group or MEC group, the head company will apply Div 230 as if the leaving time was the end of an income year (4) a leaving entity whose ﬁnancial arrangement gains and losses are subject to Div 230 will apply the Division as if the leaving entity took the ﬁnancial arrangements with it at the leaving time.
 
@@ -149,7 +149,7 @@ Since the enactment of the TOFA consolidation interaction provisions, retrospect
 
   methods, the head company of a consolidated group is deemed to have received an amount for
 
-  assuming the liability at the joining time. The deemed amount is the liability’s accounting value at
+  assuming the liability at the joining time. The deemed amount is the liability's accounting value at
 
   the joining time
 
@@ -157,9 +157,9 @@ Since the enactment of the TOFA consolidation interaction provisions, retrospect
 
   retranslation method, the head company of a consolidated group is deemed to have received an
 
-  amount for assuming the liability at the joining time. The deemed amount is the liability’s accounting
+  amount for assuming the liability at the joining time. The deemed amount is the liability's accounting
 
-  value at the joining time applying the joining entity’s accounting principles
+  value at the joining time applying the joining entity's accounting principles
 
 - a tax value is set for an intra-group asset or liability that is, or is part of, a Div 230 ﬁnancial
 
@@ -199,7 +199,7 @@ ITAA36.
 
   warrants and instalment receipts (¶23-390).
 
-- Foreign income attribution — Div 230 is disregarded when calculating an entity’s attributable
+- Foreign income attribution — Div 230 is disregarded when calculating an entity's attributable
 
   income in relation to an interest in a CFC or a foreign trust under the transferor trust rules.
 
@@ -219,9 +219,9 @@ ITAA36.
 
 Integrity measures Value shifting The rules against value shifting target situations where, under a scheme, value is shifted away from equity or loan interests. Gains which are eliminated, or losses which are enlarged, in this manner are disregarded (to the extent of the excess) under Div 230 in determining tax outcomes for ﬁnancial arrangements. Practically speaking, the value shifting rules apply to unrealised gains and losses from ﬁnancial arrangements.
 
-Arm’s length rules Division 230 incorporates arm’s length rules that are similar to those applicable to arrangements not covered by the Division. Where a taxpayer starts to have a ﬁnancial arrangement as consideration for something received or provided, the amount of the beneﬁt obtained or provided is taken to be the market value of the arrangement at the time the taxpayer started to have the arrangement. The amount may be relevant for the purposes of applying tax provisions dealing with capital gains, capital allowances or trading stock to the thing received or acquired.
+Arm's length rules Division 230 incorporates arm's length rules that are similar to those applicable to arrangements not covered by the Division. Where a taxpayer starts to have a ﬁnancial arrangement as consideration for something received or provided, the amount of the beneﬁt obtained or provided is taken to be the market value of the arrangement at the time the taxpayer started to have the arrangement. The amount may be relevant for the purposes of applying tax provisions dealing with capital gains, capital allowances or trading stock to the thing received or acquired.
 
-The arm’s length rules in Div 230 are “self-executing” which means that the taxpayer must self-assess and the Commissioner does not need to exercise a discretion.
+The arm's length rules in Div 230 are "self-executing" which means that the taxpayer must self-assess and the Commissioner does not need to exercise a discretion.
 
 Tax exempt entities — privatisation Integrity measures prevent tax exempt entities transferred to the private sector after 8 May 2018 from claiming tax deductions on the repayment of the principal of a concessional loan. The deductions arise due to unforeseen complex interaction between the TOFA rules and the rules dealing with deemed market values for tax exempt entities that become taxable. Concessional loans entered into by tax exempt entities that become taxable must be valued as if they were originally entered into on commercial terms.
 

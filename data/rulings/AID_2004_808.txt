@@ -3,23 +3,17 @@ ATO ID 2004/808
 ==================================================
 
 Income Tax
-        Research and Development: 'group membership period' and effect of viable business transfer
-        FOI status: may be released
-
-
+ Research and Development: 'group membership period' and effect of viable business transfer
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a viable business transfer necessary for an eligible company to claim the research and development additional deduction under section 73Y of the Income Tax Assessment Act 1936 (ITAA 1936), where that company has:
-
-
 
 •deducted, under subsection 73B(13) or subsection 73B(14) of the ITAA 1936, an amount for incremental expenditure in the current year of income and in each of the preceding three years of income; and
 •experienced a change in control during that time?
@@ -34,11 +28,8 @@ Company D and Company E are foreign companies which are not liable to tax in Aus
 Company A acquired 100% of shares in both Company B1 and Company B2 on 30 June 2003. Both Company B1 and Company B2 are eligible companies and undertake research and development activities in Australia. Both have deducted amounts for 'incremental expenditure' under subsection 73B(14) of the ITAA 1936, for the 2003-04 year of income.
 The group is not consolidated and does not intend to consolidate.
 
-
 Reasons for Decision
 Subsection 73Q(1) of the ITAA 1936 allows an eligible company to deduct an amount under section 73Y of the ITAA 1936, if that company:
-
-
 
 •can deduct an amount for incremental expenditure under either subsection 73B(13) or subsection 73B(14) of the ITAA 1936 for the current year of income, and
 •has done or can do so for each of the preceding three years.
@@ -55,8 +46,6 @@ Calculating the additional deduction
 
 Sections 73T to 73V of the ITAA 1936 require a company seeking to claim the additional deduction to calculate its 'R&D spend' for each of the Y0, Y-1, Y-2 and Y-3 years of income. 'R&D spend' is defined by section 73P of the ITAA 1936 as 'the sum of:
 
-
-
 (a)the incremental expenditure of the eligible company for the year of income incurred during its group membership period, and
 (b)the incremental expenditure of each group member of the eligible company for the year of income incurred during its group membership period.
 
@@ -65,8 +54,6 @@ The R&D Spend for Company A for Y0 will include only the incremental expenditure
 To this amount, is added the incremental expenditure of Company B1 and Company B2 incurred during the portion of their respective group membership periods that fall within the Y0 year of income. We have called these amounts 'XB1' and 'XB2'. The total of 'XA', 'XB1' and 'XB2' equals Company A's R&D spend for the Y0 year of income. We have called this total amount 'XX'. (There were no intra-group transactions).
 No part of Company A's group membership period covers the Y-1, Y-2 or Y-3 years of income. Therefore the amounts included under paragraph (a) of the definition of 'R&D spend' for each of these income years is zero. Similarly, no part of the group membership periods of Company B1 and Company B2 fall within the Y-1, Y-2 and Y-3 years of income, so the amounts included in Company A's 'R&D spend' under paragraph (b) of the definition in section 73P of the ITAA 1936, for each of these years is also zero.
 R&D Spend for Company A is therefore:
-
-
 
 Company
 Y0
@@ -103,10 +90,10 @@ Under subsection 73X(1) of the ITAA 1936 the premium amount will only be distrib
 Company A incurred an amount of incremental expenditure ($XP) in the Y0 year of income during its group membership period. However, as Company A's group membership period is 30 April 2004 to 30 June 2004, Company A has incurred nil incremental expenditure during its group membership period for the Y-1 year. Company A is therefore an 'increasing member' and can claim a deduction under section 73Y of the ITAA 1936 for the amount worked out under subsection 73Y(2) of the ITAA 1936.
 Company A's entitlement to this deduction arises without there having been any written agreement concerning it becoming a group member with a viable business ('a viable business transfer' agreement), for the purposes of subsection 73R(4) and subsection 73R(5) of the ITAA 1936.
 Date of decision:
-         16 September 2004
+  16 September 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -115,18 +102,17 @@ Income Tax Assessment Act 1936   subsection 73Q(1)   section 73B   sect
 Keywords
 
 Research and development expenses
-          Research and development additional deduction
-          Viable business transfer
-
+ Research and development additional deduction
+ Viable business transfer
 
 Siebel/TDMS Reference Number:
-         4223141
+  4223141
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         8 October 2004
+  8 October 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

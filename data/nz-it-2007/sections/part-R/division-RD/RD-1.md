@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # RD 1  What this subpart does
 
-This subpart establishes and measures an employer’s liability under—
+This subpart establishes and measures an employer's liability under—
 
 - (a) the PAYE rules by—
 

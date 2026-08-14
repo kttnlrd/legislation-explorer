@@ -3,23 +3,18 @@ ATO ID 2009/104
 ==================================================
 
 Goods and Services Tax
-        GST and services not related to accommodation in a retirement village operated by an endorsed charitable institution or trustee of a charitable fund
-        FOI status: may be released
-
+ GST and services not related to accommodation in a retirement village operated by an endorsed charitable institution or trustee of a charitable fund
+ FOI status: may be released
 
 This ATO ID is being reviewed for minor updates following the replacement of the Aged Care Act 1997 with the Aged Care Act 2024 from 1 November 2025.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are laundry, personal care, hairdressing and bus services supplied by a charitable retirement village operator to a resident, related to the supply of the accommodation in a retirement village (and GST-free) under subparagraph 38-260(c)(i) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -37,12 +32,9 @@ Section 38-260 of the GST Act states that:
 
 A supply is GST-free if:
 
-
 (a)the supplier is an *endorsed charitable institution, or an *endorsed trustee of a charitable fund, that operates a *retirement village; and
 (b)the supply is made to a resident of the retirement village; and
 the supply is:
-
-
 
 (i)a supply of accommodation in the retirement village, or a supply of a service related to the supply of the accommodation; or
 (ii)a supply of meals.
@@ -68,8 +60,8 @@ The definition of 'retirement village' at section 195-1 of the GST Act provides 
 
 In this context, the Commissioner considers that a supply of 'accommodation in a retirement village' is a supply of residential premises and communal facilities to a resident (if at least of 55 years of age) that has the right to occupy such premises.
 It must then be determined whether the relevant services are
-          related to the supply of
-           the residential premises and communal facilities.
+ related to the supply of
+ the residential premises and communal facilities.
 The term 'relates to' was discussed in the Federal Court decision of HP Mercantile Pty Ltd v. Commissioner of Taxation (2005) 143 FCR 553; 2005 ATC 4571; (2005) 60 ATR 106, where Hill J (with whom Allsop and Stone JJ agreed) stated that:
 
 ... The sufficiency of the connection or association will be a matter for judgment which will depend, among other things, upon the subject matter of the inquiry, the legislative history, and the facts of the case. Put simply, the degree of relationship implied by the necessity to find a relationship will depend upon the context in which the words are found. ...
@@ -81,10 +73,9 @@ The Explanatory Memorandum to the Tax Laws Amendment (Retirement Villages) Bill 
 1.52 The range of supplies to which GST-free treatment applies, includes the supply of accommodation in a charitable retirement village, services related to the supply of the accommodation and meals. This would include, for example, the supply of accommodation in an independent living unit or serviced apartment, property maintenance fees and gardening services and meals and beverages ...
 
 Based on these paragraphs of the Explanatory Memorandum, the Commissioner considers that for the purposes of subparagraph 38-260(c)(i) of the GST Act, a service is
-          related to the supply of the accommodation
-           if the service is for the maintenance of the residential premises or communal facilities.
+ related to the supply of the accommodation
+ if the service is for the maintenance of the residential premises or communal facilities.
 Accordingly, since services included in the Residence Agreement such as laundry services, trips in the retirement village bus, assistance with personal care and hairdressing are not for the maintenance of the residential premises or communal facilities, they are not GST-free under subparagraph 38-260(c)(i) of the GST Act.
-
 
 Note: although services may not be GST-free under subparagraph 38-260(c)(i) of the GST Act, they may be GST-free under section 38-250 of the GST Act. Section 38-250 provides that supplies made by a charitable institution, a trustee of a charitable fund, a gift deductible entity or a government school, for nominal consideration are GST-free.
 
@@ -102,14 +93,13 @@ Case references
 Added case Melbourne Apartment Project Pty Ltd (as Trustee for Melbourne Apartment Project) v Commissioner of Taxation [2019] FCA 2118.
 
 Date of decision:
-         20 August 2009
+  20 August 2009
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   Subdivision 38-G   section 38-250   38-250(1)(b)(i)   section 38-260   subparagraph 38-260(c)(i)   section 195-1
 
 Case References:
-
 
 HP Mercantile Pty Ltd v Commissioner of Taxation   (2005) 143 FCR 553   2005 ATC 4571   (2005) 60 ATR 106
 
@@ -128,41 +118,36 @@ Other References:
 
  Explanatory Memorandum to the Tax Laws Amendment (Retirement Villages) Bill 2004
 
-
 Keywords
 
 Goods and services tax
-          GST retirement villages
-          GST residential premises
-          GST free
-          GST supply
-
+ GST retirement villages
+ GST residential premises
+ GST free
+ GST supply
 
 Siebel/TDMS Reference Number:
-         6150672
+  6150672
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         18 September 2009
+  18 September 2009
 
 Date reviewed:
-         28 April 2020
+  28 April 2020
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 20 August 2009

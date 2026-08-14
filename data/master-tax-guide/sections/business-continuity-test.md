@@ -7,7 +7,7 @@ paragraph: "¶3-120"
 ---
 # Business continuity test ¶3-120
 
-A company that satisﬁes the business continuity test may be entitled to claim a deduction for prior year losses even if it fails the continuity of ownership test (COT) (¶3-105) (ITAA97 s 165-13). The business continuity test may also be applied in relation to a company’s current year losses (¶3-065) or deductions for bad debts (¶3-150).
+A company that satisﬁes the business continuity test may be entitled to claim a deduction for prior year losses even if it fails the continuity of ownership test (COT) (¶3-105) (ITAA97 s 165-13). The business continuity test may also be applied in relation to a company's current year losses (¶3-065) or deductions for bad debts (¶3-150).
 
 The term business continuity test was introduced into the ITAA97 by amendments made by the Treasury Laws Amendment (2017 Enterprise Incentives No. 1) Act 2019. The term eﬀectively covers the same business test which had operated for many years and also a new similar business test which operates (subject to commencement rules) as an alternative to the same business test. Accordingly, a company can satisfy the business continuity test by carrying on either:
 
@@ -23,7 +23,7 @@ As indicated, before the amendments referred to, the same business test was the 
 
   or after 1 July 2015
 
-- working out a company’s taxable income and tax loss, and net capital gain and net capital loss, in
+- working out a company's taxable income and tax loss, and net capital gain and net capital loss, in
 
   an income year beginning on or after 1 July 2015 because a change of ownership has occurred in
 
@@ -39,7 +39,7 @@ As indicated, before the amendments referred to, the same business test was the 
 
 Some general points Incomplete periods The business continuity test can be satisﬁed when the tested company exists for only part of the loss year or part of the income year (ITAA97 s 165-255).
 
-Business continuity test: “test time” for prior year tax losses Section 165-13 provides for the following default test times to be used when applying the business continuity test in relation to prior year tax losses:
+Business continuity test: "test time" for prior year tax losses Section 165-13 provides for the following default test times to be used when applying the business continuity test in relation to prior year tax losses:
 
 - where practicable, the test time will be the latest time that the company can show that it has
 

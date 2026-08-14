@@ -9,7 +9,7 @@ paragraph: "¶12-010"
 
 If goods are exported from Australia, the international transport of them to their destination overseas from their place of export is GST-free (s 38-355, item 5).
 
-The “place of export” is the place from which they are posted, depart Australia, or are placed on board a ship or aircraft (s 195-1). If non-postal goods were packed in a freight container, the place of export is the last place from which they were collected, or to which they were delivered, before being packed. However, if this did not occur, it means the place where they were packed in the container.
+The "place of export" is the place from which they are posted, depart Australia, or are placed on board a ship or aircraft (s 195-1). If non-postal goods were packed in a freight container, the place of export is the last place from which they were collected, or to which they were delivered, before being packed. However, if this did not occur, it means the place where they were packed in the container.
 
 To the extent that the transport is within Australia, the exemption only applies if:
 

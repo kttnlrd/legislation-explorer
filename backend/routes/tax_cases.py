@@ -363,7 +363,7 @@ def list_tax_cases_tree() -> dict:
             sections = [
                 {
                     "id": c["citation"],
-                    "title": f"{c.get('citation', '')} — {c.get('title', '')}",
+                    "title": c.get('title', ''),
                     "path": c["citation"],
                 }
                 for c in year_data.get("cases", [])

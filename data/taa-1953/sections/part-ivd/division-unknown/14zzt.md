@@ -47,7 +47,7 @@ source_pdf: "vol01.pdf"
 > **(c)**  the discloser considers that the information may assist the Tax Practitioners Board to perform its functions or duties under the Tax Agent Services Act 2009, or an instrument made under that Act, in relation to the entity or an associate (within the meaning of section 318 of the Income Tax Assessment Act 1936) of the entity.
 
 <a id="s14ZZT-2"></a>
-**(2)**  A disclosure of information by an individual (the discloser) qualifies for protection under this Part if: Authorised Version C2026C00170 registered 28/04/2026
+**(2)**  A disclosure of information by an individual (the discloser) qualifies for protection under this Part if:
 
 > <a id="s14ZZT-2-a"></a>
 > **(a)**  the discloser is an eligible whistleblower in relation to an entity (within the meaning of the Income Tax Assessment Act 1997); and
@@ -83,7 +83,7 @@ source_pdf: "vol01.pdf"
 **(3B)**  A disclosure of information by an individual (the discloser) qualifies for protection under this Part if the disclosure is made to a medical practitioner or psychologist for the purpose of obtaining medical or psychiatric care, treatment or counselling (including psychological counselling).
 
 <a id="s14ZZT-4"></a>
-**(4)**  In this section: Authorised Version C2026C00170 registered 28/04/2026 medical practitioner means a person registered or licensed as a medical practitioner under a law of a State or Territory that provides for the registration or licensing of medical practitioners. psychologist means a person registered or licensed as a psychologist under a law of a State or Territory that provides for the registration or licensing of psychologists. tax affairs means affairs relating to any tax imposed by or under, or assessed or collected under, a law administered by the Commissioner.
+**(4)**  In this section: medical practitioner means a person registered or licensed as a medical practitioner under a law of a State or Territory that provides for the registration or licensing of medical practitioners. psychologist means a person registered or licensed as a psychologist under a law of a State or Territory that provides for the registration or licensing of psychologists. tax affairs means affairs relating to any tax imposed by or under, or assessed or collected under, a law administered by the Commissioner.
 
 > **Note:** There is no requirement for a discloser to identify himself or herself in order for a disclosure to qualify for protection under this Part.
 

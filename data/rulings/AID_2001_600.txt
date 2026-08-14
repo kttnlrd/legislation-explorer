@@ -3,23 +3,19 @@ ATO ID 2001/600
 ==================================================
 
 Goods and Services Tax
-        GST and Tourist Refund Scheme
-        FOI status: may be released
-
+ GST and Tourist Refund Scheme
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, an individual, entitled to claim a tourist refund scheme (TRS) refund under subsection 168-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) for the goods and services tax (GST) payable on its acquisition of goods, when it leaves Australia and exports the goods from Australia as accompanied baggage?
@@ -32,8 +28,6 @@ The entity makes a claim for the TRS refund at the TRS verification facility bef
 Reasons for Decision
 Subsection 168-5(1) of the GST Act provides that an entity is entitled to a refund of the GST that was payable on the supply of goods to it, if:
 
-
-
 •the entity makes an acquisition of goods the supply of which is a taxable supply (paragraph 168-5(1)(a) of the GST Act);
 •the acquisition is of a kind specified in the A New Tax System (Goods and Services Tax ) Regulations 1999 (GST Regulations) (paragraph 168-5(1)(b) of the GST Act); and
 •the entity leaves Australia, and exports the goods from Australia as accompanied baggage, in the circumstances specified in the GST Regulations (paragraph 168-5(1)(c) of the GST Act).
@@ -41,8 +35,6 @@ Subsection 168-5(1) of the GST Act provides that an entity is entitled to a refu
 The supply of the goods to the entity was a taxable supply under section 9-5 of the GST Act. Therefore, the entity meets paragraph 168-5(1)(a) of the GST Regulations.
 Regulation 168-5.01 of the GST Regulations provides that, for paragraph 168-5(1)(b) of the GST Act, the acquisition must be a kind of acquisition in accordance with Subdivision 168 of the GST Regulations.
 Regulation 168-5.02 of the GST Regulations provides that subdivision 168-1 applies to goods the supply of which is a taxable supply, except any of the following goods:
-
-
 
 •tobacco;
 •tobacco products;
@@ -62,12 +54,8 @@ Regulation 168-5.09 of the GST Regulations provides that the goods must be expor
 Regulation 168-5.07 of the GST Regulations provides that the entity must leave Australia at an airport, or seaport, that has a TRS verification facility. In this case, this requirement is satisfied.
 Regulation 168-5.10 of the GST Regulations sets out the export verification requirements that must be satisfied before an entity can receive a TRS refund. Subregulation 168-5.10(3) of the GST Regulations provides that the entity must present to an officer of Customs, at a TRS verification facility when the entity is leaving Australia, the following items:
 
-
-
 •the tax invoice relating to the goods (subregulation 168-5.10(1) of the GST Regulations); and
 •as many of the following as are requested:
-
-
 
 (a)the goods;
 (b)the entity's passport;
@@ -77,7 +65,7 @@ In this case, when the entity makes a claim for the TRS refund at the TRS verifi
 As the entity does meet the requirements of regulations 168-5.10 of the GST Regulations, the entity is exporting the goods from Australia as accompanied baggage, in the circumstances specified in the GST Regulations. Consequently, the entity does meet the requirement in paragraph 168-5(1)(c) of the GST Act.
 In conclusion, the entity meets all the requirements of subsection 168-5(1) of the GST Act. Therefore, the entity is entitled to claim a TRS refund for the GST payable on its acquisition of the goods when it leaves Australia and exports the goods as accompanied baggage
 Date of decision:
-         3 August 2001
+  3 August 2001
 
 Legislative References:
 
@@ -87,18 +75,17 @@ A New Tax System (Goods and Services Tax) Regulations 1999   Subdivision 168�
 Keywords
 
 Goods and services tax
-          GST tourist refund scheme
-          Export of goods
-
+ GST tourist refund scheme
+ Export of goods
 
 Siebel/TDMS Reference Number:
-         CW227458
+  CW227458
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         20 November 2001
+  20 November 2001
 
 ISSN:
-          1445-2782
+ 1445-2782

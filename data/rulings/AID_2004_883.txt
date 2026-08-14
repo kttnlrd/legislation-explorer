@@ -3,23 +3,18 @@ ATO ID 2004/883
 ==================================================
 
 Income Tax
-        Debt/Equity Borderline:  the characterisation of a priority partnership interest issued by a corporate limited partnership
-        FOI status: may be released
-
+ Debt/Equity Borderline: the characterisation of a priority partnership interest issued by a corporate limited partnership
+ FOI status: may be released
 
 ATO ID 2004/883 is being withdrawn as it does not reflect the current ATO view. Because the application of the relevant legal principles is highly dependent on the facts, we do not intend to replace this ATO ID.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 What is the characterisation of a priority partnership interest in a corporate limited partnership under Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997) which has the characteristics stated in the facts below and where the related schemes provisions in section 974-70 of the ITAA 1997 have no application to the scheme?
@@ -27,8 +22,6 @@ Decision
 The priority partnership interest will give rise to a debt interest as it satisfies the test for a debt interest under section 974-20 of the ITAA 1997.
 Facts
 In order to raise finance, a corporate limited partnership issues to its limited partner a priority partnership interest (PPI) with the following terms:
-
-
 
 •face value of $1,000,000
 •any return to be paid on the PPI will be at the discretion of the General Partner of the Limited Partnership
@@ -55,7 +48,7 @@ ii.the first of the financial benefits referred to in paragraph (b) is received 
 
 An 'effectively non-contingent obligation' is defined in section 995-1 of the ITAA 1997 to have the meaning given by section 974-135 of the ITAA 1997. Subsection 974-135(1) of the ITAA 1997 provides inter alia that:
 There is an
-          effectively non-contingent
+ effectively non-contingent
  obligation to take an action under a scheme if, having regard to the pricing, terms and conditions of the scheme, there is in substance or effect a non-contingent obligation to take that action.
 Under the terms of the PPI the partnership may at the discretion of the General Partner pay to the Limited Partner annually a priority distribution of profit on the PPI at a rate per annum agreed from time to time by the partners provided the rate is no higher than 150 basis points above the benchmark rate of return as defined in section 974-145 of the ITAA 1997. As these payments are contingent on the existence of profits and the General Partner exercising its discretion to distribute any such profits there is not, in substance or effect, an effectively non-contingent obligation on the Partnership to pay a priority distribution.
 However, the terms of the PPI provide that the partnership must repay the priority capital in full to the Limited Partner 6 years from the date of its issue unless the partnership is dissolved earlier, in which case the proceeds of the partnership property shall be applied in repayment of the priority capital to the Limited Partner in full before any loans made by a partner and related interest and capital of the partnership are repaid to the partners. The Partnership is thus under an effectively non-contingent obligation to return the face value of the priority capital to the Limited Partner.
@@ -72,10 +65,10 @@ Valuing the effectively non-contingent financial benefits received and provided 
 As discussed in (d) above the values provided and received are not both nil and accordingly this requirement is satisfied.
 Therefore, all the requirements of the debt test have been satisfied, and as such the PPI will be a debt interest for taxation purposes in accordance with Division 974 of the ITAA 1997. Although items 1, 2 and 3 of the equity interest table in subsection 974-75(1) of the ITAA 1997 will also be satisfied, paragraph 974-70(1)(b) of the ITAA 1997 provides that an interest can not be characterised as an equity interest if it is also characterised as a debt interest.
 Date of decision:
-         7 September 2004
+  7 September 2004
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -85,32 +78,28 @@ Income Tax Assessment Act 1997   subsection 974-5(4)   subsection 974-20(1
 Keywords
 
 Debt equity borderline
-          Debt test
-          Limited partnerships
-
+ Debt test
+ Limited partnerships
 
 Siebel/TDMS Reference Number:
-         3878675
+  3878675
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         12 November 2004
+  12 November 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  7 September 2004

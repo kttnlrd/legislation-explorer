@@ -33,7 +33,7 @@ Decreasing adjustment where premiums not creditable As the insurance company nor
 
 Ex gratia payments made in response to a claim are included (GST Determination GSTD 2011/1).
 
-If the insured was entitled to a partial input tax credit for the premium, a proportion of the decreasing adjustment will be allowed, based on the extent to which there was no credit entitlement. In addition, the settlement amount is grossed up by a factor calculated as 11/(11 − proportion of credit allowed for premium) (s 78-15). For the treatment of excesses, see “Insurance excesses” below. In determining the insured’s entitlement to input tax credits, the rules allowing annual apportionment of credits (¶5-020) are ignored.
+If the insured was entitled to a partial input tax credit for the premium, a proportion of the decreasing adjustment will be allowed, based on the extent to which there was no credit entitlement. In addition, the settlement amount is grossed up by a factor calculated as 11/(11 − proportion of credit allowed for premium) (s 78-15). For the treatment of excesses, see "Insurance excesses" below. In determining the insured's entitlement to input tax credits, the rules allowing annual apportionment of credits (¶5-020) are ignored.
 
 *Refs: s 78-45), s 78-20), s 78-50), s 78-80, s 78-10), s 78-15)*
 
@@ -69,9 +69,9 @@ If the insured was entitled to a partial input tax credit for the premium, a pro
 
 - the insurance company is entitled to a decreasing adjustment, calculated as follows:
 
-  “Gross up” the payout: $5,200 × 11/(11 − 0.6) = $5,200 × 11/10.4 = $5,500
+  "Gross up" the payout: $5,200 × 11/(11 − 0.6) = $5,200 × 11/10.4 = $5,500
 
-Decreasing adjustment: 40% × 1/11 × the grossed up payout of $5,500 = $200 Subrogation Under its rights of “subrogation”, an insurance company may be able to recover part of its payout from third parties who were liable for the loss. In this situation, any decreasing adjustment to which the insurance company was entitled will be reduced to reflect the amount recovered. The payment by the third party is not treated as a payment for a taxable supply, and the third party cannot claim an input tax credit for it (s 78-35; 78-75).
+Decreasing adjustment: 40% × 1/11 × the grossed up payout of $5,500 = $200 Subrogation Under its rights of "subrogation", an insurance company may be able to recover part of its payout from third parties who were liable for the loss. In this situation, any decreasing adjustment to which the insurance company was entitled will be reduced to reflect the amount recovered. The payment by the third party is not treated as a payment for a taxable supply, and the third party cannot claim an input tax credit for it (s 78-35; 78-75).
 
 Example An insurance company makes a payout of $11,000 to an unregistered business. The business was not entitled to any input tax credit th on the premium, so the insurance company is eligible for a decreasing adjustment of 1/11 of $11,000 = $1,000. Later it recovers th $6,600 of the payout from a third party. It will be liable for an increasing adjustment of 1/11 of $6,600 = $600. The result is a net decreasing adjustment of $1,000 − $600 = $400. This is the decreasing adjustment appropriate to its net payout of $4,400.
 
@@ -91,23 +91,23 @@ The position is different if the voucher is not a face value voucher, but instea
 
 Insurance excesses The payment of an excess by the insured to an insurance company is not consideration for a supply, so does not attract GST (s 78-55). This does not apply if the excess is paid to another entity such as a repairer.
 
-If the insurance company settles a claim by making a supply or payment, the excess is excluded from the settlement amount in the calculation of the insurance company’s decreasing adjustment (s 78-15).
+If the insurance company settles a claim by making a supply or payment, the excess is excluded from the settlement amount in the calculation of the insurance company's decreasing adjustment (s 78-15).
 
-A corresponding rule applies if the insurance company makes acquisitions “directly” for the purpose of th settling the claim. The effect of this rule is that there will be an increasing adjustment calculated as 1/11 of the excess paid (s 78-18). If the settlement is partly by supplies or payments, and partly by acquisitions, the excess is apportioned, with part being taken into account in calculating the decreasing adjustment and part giving rise to an increasing adjustment.
+A corresponding rule applies if the insurance company makes acquisitions "directly" for the purpose of th settling the claim. The effect of this rule is that there will be an increasing adjustment calculated as 1/11 of the excess paid (s 78-18). If the settlement is partly by supplies or payments, and partly by acquisitions, the excess is apportioned, with part being taken into account in calculating the decreasing adjustment and part giving rise to an increasing adjustment.
 
-An acquisition is not made “directly” for the purpose of settling the claim if it is made simply to enable the insurer to determine what its liability is, eg where it acquires the services of an assessor, or acquires a police or medical report (ATO GST Industry Issues — Insurance: Issue 31).
+An acquisition is not made "directly" for the purpose of settling the claim if it is made simply to enable the insurer to determine what its liability is, eg where it acquires the services of an assessor, or acquires a police or medical report (ATO GST Industry Issues — Insurance: Issue 31).
 
 Example An insurer settles a claim by paying $1,100 cash to the party damaged by the insured. The insurer also pays $2,200 under a contract with a chosen repairer to provide repairs to that party, making a total settlement of $3,300.
 
 In simplified terms, if the insured pays a $660 excess to the insurer, the effect is:
 
-- one-third of the excess ($220) will be excluded from the calculation of the insurer’s decreasing adjustment
+- one-third of the excess ($220) will be excluded from the calculation of the insurer's decreasing adjustment
 
   th
 
 - 1/11 of the balance (ie 1/11 × $440 = $40) will be an increasing adjustment to the insurer.
 
-In the absence of this rule, the whole of the excess would simply be excluded from the calculation of the insurer’s decreasing adjustment.
+In the absence of this rule, the whole of the excess would simply be excluded from the calculation of the insurer's decreasing adjustment.
 
 ATO guidelines for apportionment of excesses, known as safe harbour arrangements, are set out in ATO GST Industry Issues — Insurance: Issue 34.
 
@@ -117,7 +117,7 @@ Position of third parties Payments or supplies of goods and services that are ma
 
 Portfolio transfers Where an insurer transfers its insurance portfolio to another insurer, the GST rules apply as if the transferee insurer were the insurer in relation to the insurance policy (s 78-118). This will, for example, allow the transferee to claim decreasing adjustments on settlement as if it were the original insurer.
 
-CTP settlements The GST insurance rules are modified to ensure that they operate as intended in relation to payments or supplies made in settlement of claims under a compulsory third party (CTP) motor vehicle insurance scheme (Div 79; 80). These rules also extend to various other insurance-related payments or supplies made by CTP insurers, for example, payments of hospital and ambulance charges for services provided directly to injured persons, that are paid by an insurer via CTP scheme bulk-billing arrangements. In addition, there are provisions ensuring that the GST insurance rules apply to payments and supplies made by CTP insurers under “settlement sharing” arrangements.
+CTP settlements The GST insurance rules are modified to ensure that they operate as intended in relation to payments or supplies made in settlement of claims under a compulsory third party (CTP) motor vehicle insurance scheme (Div 79; 80). These rules also extend to various other insurance-related payments or supplies made by CTP insurers, for example, payments of hospital and ambulance charges for services provided directly to injured persons, that are paid by an insurer via CTP scheme bulk-billing arrangements. In addition, there are provisions ensuring that the GST insurance rules apply to payments and supplies made by CTP insurers under "settlement sharing" arrangements.
 
 *Refs: s 78-35, s 78-20, s 78-25), s 78-30), s 78-55), s 78-15), s 78-18), s 78-42), s 78-65, s 78-118)*
 

@@ -57,13 +57,13 @@ Detailed rules apply to premiums and payouts. The GST treatment varies according
 
 Joint ventures.
 
-Bodies engaged in specified types of joint ventures can have it approved for GST purposes. This will mean that the operator of the venture is responsible for the GST liabilities and entitlements arising from the operator’s dealings on behalf of the venture participants (¶17-200).
+Bodies engaged in specified types of joint ventures can have it approved for GST purposes. This will mean that the operator of the venture is responsible for the GST liabilities and entitlements arising from the operator's dealings on behalf of the venture participants (¶17-200).
 
 Pre-establishment costs.
 
 A company may be entitled to input tax credits for acquisitions and importations made before it was incorporated (¶5-030).
 
-Property dealers and developers. th These can use a “margin scheme” that allows them to calculate their GST liabilities as 1/11 of the difference between the tax-inclusive sale price and the original purchase price. Special rules apply to real estate held at 1 July 2000 (¶11-100).
+Property dealers and developers. th These can use a "margin scheme" that allows them to calculate their GST liabilities as 1/11 of the difference between the tax-inclusive sale price and the original purchase price. Special rules apply to real estate held at 1 July 2000 (¶11-100).
 
 are subject to GST on redemption rather than on the original acquisition (¶4-060).
 
@@ -77,11 +77,11 @@ If a non-resident acts through an agent resident in Australia, the agent is resp
 
 Reverse charge.
 
-Certain services or rights provided from outside Australia may be caught by GST even though they are not made through an Australian business of the supplier. In these cases, the GST is payable by the recipient, not by the provider. This “reverse charging” overcomes the fact that the supplier will often not be within the Australian GST system. Reverse charging can also apply where general taxable supplies are made by non- residents, if both parties agree (¶9-095).
+Certain services or rights provided from outside Australia may be caught by GST even though they are not made through an Australian business of the supplier. In these cases, the GST is payable by the recipient, not by the provider. This "reverse charging" overcomes the fact that the supplier will often not be within the Australian GST system. Reverse charging can also apply where general taxable supplies are made by non- residents, if both parties agree (¶9-095).
 
 Second-hand goods.
 
-In certain cases, dealers will be able to claim input tax credits on second-hand goods even though the person who supplied them with the goods was not registered for GST purposes (¶16-100). A “global” method of accounting for GST and input tax credits on second-hand goods may be available in certain circumstances (¶16-120).
+In certain cases, dealers will be able to claim input tax credits on second-hand goods even though the person who supplied them with the goods was not registered for GST purposes (¶16-100). A "global" method of accounting for GST and input tax credits on second-hand goods may be available in certain circumstances (¶16-120).
 
 Small business entities.
 

@@ -9,11 +9,11 @@ paragraph: "¶3-050"
 
 The Australian Business Number (ABN) is a unique 11-digit business identifier which can be used for the GST and various other tax-related purposes.
 
-- an entity’s ABN also acts as the GST registration number (unless the entity is a GST branch:
+- an entity's ABN also acts as the GST registration number (unless the entity is a GST branch:
 
   ¶17-300)
 
-- the supplier’s ABN must normally appear on a tax invoice (¶5-110), for the recipient to be entitled to
+- the supplier's ABN must normally appear on a tax invoice (¶5-110), for the recipient to be entitled to
 
   claim input tax credits.
 
@@ -35,7 +35,7 @@ Applying for an ABN As the ABN is used for a number of purposes, it is possible 
 
 The ABN applies to the individual entity (company, sole trader, trust, partnership, etc), not to the individual business. Entities carrying on multiple businesses, need only one ABN. Conversely, where a number of entities contribute to the running of a business, each will have to have a separate ABN.
 
-ABN and tax avoidance The ATO targets “unexpected” registrations as a way of identifying businesses that have previously been operating outside the tax system (¶18-300).
+ABN and tax avoidance The ATO targets "unexpected" registrations as a way of identifying businesses that have previously been operating outside the tax system (¶18-300).
 
 *Refs: s
 12-190)*

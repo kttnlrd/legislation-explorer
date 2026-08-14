@@ -3,9 +3,8 @@ ATO ID 2003/769
 ==================================================
 
 Income Tax
-        Capital gains tax: transfer of partnership assets to wholly-owned company - calculation of number of pre-CGT and post-CGT shares
-        FOI status: may be released
-
+ Capital gains tax: transfer of partnership assets to wholly-owned company - calculation of number of pre-CGT and post-CGT shares
+ FOI status: may be released
 
 This ATOID is withdrawn as the issue has been clarified under legislative rewrite the Tax Law Improvement Act 1 of 1998 and subsequent amendments (see section 122-190 of Income Tax Assessment Act 1997).
 Subsection 102-5(1) of the Income Tax (Transitional Provisions) Act 1997 provides that in working out whether a capital gain or loss has been made from a CGT event that happened in relation to a CGT asset in 1998-99 income year or later income year, only the provisions of Parts 3-1 and 3-3 of the Income Tax Assessment Act 1997 (or any provisions of an Act that modifies the operations of those Parts) applies, unless Part 3-3 also requires application of another provision.
@@ -13,15 +12,11 @@ Accordingly, in working out a cost base of the asset, one would apply the new la
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 How does a taxpayer work out how many of the shares they own in a company are pre-CGT and how many are post-CGT if they acquired the shares in exchange for their interests in partnership assets and elected rollover under section 160ZZN of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -40,16 +35,15 @@ Where the taxpayer acquired their interest on or after 20 September 1985, the sh
 If the shares relating to particular asset interests cannot be identified, the number of pre-CGT and post-CGT shares acquired by the taxpayer is calculated under a proportional approach, based on the comparative market value of pre and post-CGT interests that the taxpayer held in the roll-over assets. This gives a result that is consistent with the intended operation of the provision, even though the calculation may yield a fractional number of shares.
 Accordingly if specific shares were not issued to the taxpayer in respect of their pre-CGT asset interests, the number of shares that they are taken to have acquired before 20 September 1985 in the company is calculated using the formula:
 
-
 Number of shares * (market value of pre-CGT asset interests at the time of disposal to company / market value of total asset interests at the time of disposal to company)
 
 Where the proportional approach yields a fractional number of pre and post-CGT shares taxpayers should round down the number of their pre-CGT shares.
 The taxpayer will be taken to have acquired the balance of the shares on or after 20 September 1985.
 Date of decision:
-         5 August 2003
+  5 August 2003
 
 Year of income:
-           Year ending 30 June 2004
+  Year ending 30 June 2004
 
 Legislative References:
 
@@ -62,30 +56,26 @@ Taxation Ruling IT 2540
 Keywords
 
 Capital gains tax
-          CGT replacement asset roll-over
-          CGT original assets
-          Pre-CGT assets
-
+ CGT replacement asset roll-over
+ CGT original assets
+ Pre-CGT assets
 
 Business Line:
-         Losses and Capital Gains Tax Centre of Expertise
+  Losses and Capital Gains Tax Centre of Expertise
 
 Date of publication:
-         29 August 2003
+  29 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  5 August 2003

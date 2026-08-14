@@ -3,24 +3,19 @@ ATO ID 2004/833
 ==================================================
 
 Goods and Services Tax
-        GST and its calculation for construction agreements made before 1 July 2000
-        FOI status: may be released
-
-
+ GST and its calculation for construction agreements made before 1 July 2000
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 How does the entity, a builder, calculate the goods and services tax (GST) payable under section 19 of the A New Tax System (Goods and Services Tax Act Transition) Act 1999 (GST Transition Act) on a taxable supply of building construction?
 Decision
 The GST payable under section 19 of the GST Transition Act can be calculated using the following formula:
-
 
 GST payable = 1/11 * (Price of the supply - value as at 1 July 2000)
 
@@ -34,30 +29,24 @@ Reasons for Decision
 Subsection 19(3) of the GST Transition Act provides that GST is only payable on the supply to the extent that the price of the supply (less the amount of any GST payable on the supply) exceeds the value determined under subsection 19(2) of the GST Transition Act.
 This can be expressed as a formula:
 
-
 GST payable = 10% ((Price of the supply - GST payable) - value)
 
 This formula can be restated as:
-
 
 GST payable = 1/11 * (Price of the supply - value)
 
 Therefore, if the price of the entity's supply is $110,000 and the value is $88,000, the GST payable is calculated as follows:
 
-
 1/11 * ($110,000 - $88,000) = $2,000
-
 
 Note: If in the above scenario the price of the supply had been stipulated to be $110,000 plus GST, the GST payable would be worked out as follows:
 
-
 GST payable = 10% * $110,000 - $88,000 = $2,200
-
 
 This means the price for the supply would have been $112,200.
 
 Date of decision:
-         25 August 2004
+  25 August 2004
 
 Legislative References:
 
@@ -71,19 +60,18 @@ Goods and Services Tax Ruling GSTR 2000/14
 Keywords
 
 Goods and services tax
-          GST property & construction
-          GST transitional issues
-          Special transitional rules
-
+ GST property & construction
+ GST transitional issues
+ Special transitional rules
 
 Siebel/TDMS Reference Number:
-         3802851
+  3802851
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         25 October 2004
+  25 October 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

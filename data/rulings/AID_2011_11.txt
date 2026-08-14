@@ -3,18 +3,14 @@ ATO ID 2011/11
 ==================================================
 
 Income Tax
-        Trading trust: meaning of 'control' and 'affairs or operations' of another person
-        FOI status: may be released
-
-
+ Trading trust: meaning of 'control' and 'affairs or operations' of another person
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a unit trust a 'trading trust' under paragraph 102N(1)(b) of the Income Tax Assessment Act 1936 (ITAA 1936) where the trustee of the unit trust holds a veto power over matters that go to the structure, scope and management of X Co's business?
@@ -40,8 +36,8 @@ Whereas one might ordinarily reflect on control of a company in terms of its Boa
 Arguably, a view could be taken that no one shareholder, in effect, controls the Shareholder Matters because the ability to block a resolution is available to each of the other shareholders with 20% or more of the voting power in X Co. However, this view focuses on the positive aspect of control and disregards the negative aspect. The distinction between the two was highlighted by Mahoney JA in North Sydney Brick & Tile v. Darval & Anor (1986) 10 ACLR 837 at 844, where he said:
 
 The part that a shareholder plays in the restrictions imposed by these articles is, in a sense, negative rather than positive: they empower him to prevent ... but do not authorise him to permit...
-              But a power to prevent, in this sense, may constitute a power to control
-               within the section. [Emphasis added]
+ But a power to prevent, in this sense, may constitute a power to control
+ within the section. [Emphasis added]
 
 Under the agreement, the trustee holds the power, presently exercisable, to restrain the Board of Directors from undertaking an action listed as a Shareholder Matter. That power is a form of 'control' in the negative sense. In other words, irrespective of the status of any other shareholder, any matter listed as a Shareholder Matter is blocked if the trustee exercises its power of veto, that is, negative 'control'. Therefore the trustee effectively controls or is effectively able to control the matters comprising the Shareholder Matters.
 Paragraph 102N(1)(b) of the ITAA 1936 requires that the trustee of the PUT controlled, or was able to control, directly or indirectly, the 'affairs' or 'operations' of X Co in respect of the carrying on by X Co of a trading business.
@@ -54,17 +50,16 @@ Pursuant to the agreement between the members (referred to above), the trustee c
 In addition, the Shareholder Matters concern matters that ordinarily fall within the responsibility of the Board of Directors independent of shareholder involvement and as such would be readily acknowledged as being 'in respect of' and indeed integral to X Co's carrying on of its trading business.
 Under these circumstances, the trustee, as a practical matter of fact, has by its power of veto, the ability to control, directly or indirectly, the affairs or operations of X Co in respect of the carrying on by X Co of its trading business. Accordingly, the PUT will be a trading trust under paragraph 102N(1)(b) of the ITAA 1936.
 Date of decision:
-         4 August 2010
+  4 August 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
 Income Tax Assessment Act 1936   Division 6C   paragraph 102N(1)(b)
 
 Case References:
-
 
 Re The News Corporation Ltd and Others   (1987) 70 ALR 419
 
@@ -74,7 +69,6 @@ Re National Foods Ltd (Nos 1 and 2)   54 ACSR 80
 
 R v Board of Trade, ex parte St Martin Preserving Co Ltd   [1964] 2 All ER 561   (1965) 1 QB 603
 
-
 Related ATO Interpretative Decisions
 
  ATO ID 2003/162
@@ -83,23 +77,21 @@ Other References:
 
 Australian Oxford Dictionary (1999), Oxford University Press, Melbourne
 
-
 Keywords
 
 Trading trusts
-          Trusts
-          Unit trusts
-          Public trading trusts
-
+ Trusts
+ Unit trusts
+ Public trading trusts
 
 Siebel/TDMS Reference Number:
-         1-28NDFW5
+  1-28NDFW5
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         18 February 2011
+  18 February 2011
 
 ISSN:
-          1445-2782
+ 1445-2782

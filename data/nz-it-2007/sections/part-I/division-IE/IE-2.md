@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if an amalgamating company that meets the requirements of section IA 5(2) and (3) or IB 3(2) (which relate to the carrying forward of tax losses for companies) ends its existence on a resident’s restricted amalgamation, and has a tax loss for a tax year that—
+**(1)**  This section applies if an amalgamating company that meets the requirements of section IA 5(2) and (3) or IB 3(2) (which relate to the carrying forward of tax losses for companies) ends its existence on a resident's restricted amalgamation, and has a tax loss for a tax year that—
 
 - (a) has not, before the date of amalgamation, been used by the company; and
 
-- (b) could be made available and subtracted from the amalgamated company’s net income for the part of the tax year that ends with the date of amalgamation.
+- (b) could be made available and subtracted from the amalgamated company's net income for the part of the tax year that ends with the date of amalgamation.
 
 **Attributing losses to amalgamated company**
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **(4)**  Subsection (1)﻿(b) does not apply if the amalgamated company is incorporated only on the amalgamation.
 
-*Defined in this Act: amalgamated company, amalgamating company, amount, company, net income, resident’s restricted amalgamation, tax loss, tax year*
+*Defined in this Act: amalgamated company, amalgamating company, amount, company, net income, resident's restricted amalgamation, tax loss, tax year*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

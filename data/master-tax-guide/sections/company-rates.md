@@ -15,9 +15,9 @@ Base rate entity
 
   income year) and less than $50 million (for the 2018–19 and later income years), and
 
-- no more than 80% of its assessable income for the income year is “base rate entity passive
+- no more than 80% of its assessable income for the income year is "base rate entity passive
 
-  income” (see below) (Income Tax Rates Act 1986 s 23AA).
+  income" (see below) (Income Tax Rates Act 1986 s 23AA).
 
 Note that for this purpose the aggregated turnover of a company for an income year is worked out in accordance with the deﬁnition of aggregated turnover which is set out at ¶7-050 as at the end of the income year, ie what is relevant is the actual aggregated turnover.
 
@@ -45,15 +45,15 @@ Interest for this purpose does not include interest to the extent that it is a r
 
 LCR 2019/5 deals with the base rate entity concept and the base rate entity passive income concept. The ruling makes these points in relation to base rate entity passive income:
 
-- “interest” is the return, consideration, or compensation for the use or retention by one person of
+- "interest" is the return, consideration, or compensation for the use or retention by one person of
 
   a sum of money belonging to, or owed to, another, and interest must be referrable to a principal.
 
 A payment in the nature of interest must have the character of return or proﬁt to the lender for the use of money belonging to, or owed to another. Whether a payment has this character turns on its substance, no matter how it is calculated, and
 
-- “rent” means the consideration payable by a tenant to a landlord for the exclusive possession and
+- "rent" means the consideration payable by a tenant to a landlord for the exclusive possession and
 
-  use of land or premises. The Commissioner’s view and examples on when consideration paid for
+  use of land or premises. The Commissioner's view and examples on when consideration paid for
 
   the use of land or premises will be rent for this purpose are set out in TD 2006/78.
 

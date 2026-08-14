@@ -17,7 +17,7 @@ In January 2025, Luke Tran purchased the property. Hans provided everything nece
 
 Luke spent an additional $330,000 completing the development and in February 2025, he sold the 3 townhouses for $900,000 each to purchasers not registered for GST.
 
-What are Luke’s GST liabilities in relation to the development of the townhouses? Would he have been better off using the margin scheme rather than purchasing the property as a going concern?
+What are Luke's GST liabilities in relation to the development of the townhouses? Would he have been better off using the margin scheme rather than purchasing the property as a going concern?
 
 Solution The sale of a new residential premises is a taxable supply (GST Act s 40-65). GST may be payable on the supply where the vendor is registered for GST such as builders and developers. However, a partially built building is not a residential premises until it becomes fit for human habitation (GST Ruling GSTR 2012/5).
 
@@ -51,7 +51,7 @@ The supplies of real property that may be eligible for the margin scheme are:
 
   concern
 
-Under the margin scheme, the GST payable is calculated on the “margin” for the supply, rather than on the consideration. Generally, the margin is the excess of the consideration for the supply over the acquisition consideration or, if the interest, unit or lease was acquired by the vendor before 1 July 2000, its value at that date (GST Act s 75-10).
+Under the margin scheme, the GST payable is calculated on the "margin" for the supply, rather than on the consideration. Generally, the margin is the excess of the consideration for the supply over the acquisition consideration or, if the interest, unit or lease was acquired by the vendor before 1 July 2000, its value at that date (GST Act s 75-10).
 
 Development purchased as a going concern Luke purchased the development from Hans as a going concern and did not pay any GST on acquisition of the property. At this point in time, the development was not fit for human habitation and therefore not considered a new residential premise.
 
@@ -63,9 +63,9 @@ The GST is calculated as follows: Proceeds (3 × $900,000)                      
 
 Under this arrangement, Luke can claim the $30,000 of input tax credits for any creditable acquisitions made in the conduct of the development.
 
-Luke’s net GST liability is therefore $192,727 (ie $222,727 less $30,000).
+Luke's net GST liability is therefore $192,727 (ie $222,727 less $30,000).
 
-Margin scheme Hans and Luke could have mutually agreed in writing to apply the margin scheme. Land that is part of a developer’s enterprise is a taxable supply (Miscellaneous Taxation Ruling MT 2006/1) and would be eligible for the margin scheme.
+Margin scheme Hans and Luke could have mutually agreed in writing to apply the margin scheme. Land that is part of a developer's enterprise is a taxable supply (Miscellaneous Taxation Ruling MT 2006/1) and would be eligible for the margin scheme.
 
 The GST liability on the margin from the initial sale would be calculated as: Proceeds                                                                       $1.5m Valuation as at 1 July 2000                                                    ($250,000) Margin                                                                         $1.25m GST                                                                            $113,636 This is the amount of GST under the margin scheme that Hans is required to charge Luke. The margin scheme could then be applied on the subsequent sale of the townhouses as new residential premises.
 

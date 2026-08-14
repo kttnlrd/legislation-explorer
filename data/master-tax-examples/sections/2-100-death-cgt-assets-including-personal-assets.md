@@ -7,11 +7,11 @@ paragraph: "None"
 ---
 # 2-100 - Death CGT assets including personal assets
 
-Worked example: Death; CGT assets including personal assets Issue Gladys Kravitzski died in September 2024 and in her will she left her entire estate to her son, Edward. At the time of her death, Gladys’ estate consisted of: 1. Her family home Purchased in 1965 for $65,000 Market value at date of death was $650,000 2. An investment property Purchased in 1987 for $275,000 Market value at date of death was $425,000 3. Collectable assets — all purchased in February 1989 Artworks Purchased for $6,000 Market value at date of death was $9,500 Antique furniture Purchased for $13,000 Market value at date of death was $5,000 Jewellery Purchased for $24,000 Market value at date of death was $26,000 4. Personal use asset — purchased in 1992 Caravan purchased for $17,000 Market value at date of death was $4,000 Edward decided to live in the family home and to keep the investment property but to dispose of the collectable and personal use assets immediately upon acquiring ownership. Edward received the full market value on the disposal of each collectable and personal use asset.
+Worked example: Death; CGT assets including personal assets Issue Gladys Kravitzski died in September 2024 and in her will she left her entire estate to her son, Edward. At the time of her death, Gladys' estate consisted of: 1. Her family home Purchased in 1965 for $65,000 Market value at date of death was $650,000 2. An investment property Purchased in 1987 for $275,000 Market value at date of death was $425,000 3. Collectable assets — all purchased in February 1989 Artworks Purchased for $6,000 Market value at date of death was $9,500 Antique furniture Purchased for $13,000 Market value at date of death was $5,000 Jewellery Purchased for $24,000 Market value at date of death was $26,000 4. Personal use asset — purchased in 1992 Caravan purchased for $17,000 Market value at date of death was $4,000 Edward decided to live in the family home and to keep the investment property but to dispose of the collectable and personal use assets immediately upon acquiring ownership. Edward received the full market value on the disposal of each collectable and personal use asset.
 
-Advise Edward on the CGT consequences resulting from his mother’s death and the disposal of the assets that have passed to him as the sole beneficiary.
+Advise Edward on the CGT consequences resulting from his mother's death and the disposal of the assets that have passed to him as the sole beneficiary.
 
-Solution The general rule is that when a taxpayer dies, capital gains or losses made by the deceased are disregarded (ITAA97 s 128-10). There will be no CGT issues for Gladys upon her death. Her assets pass to her beneficiary, Edward, at the date of her death. Any CGT in respect of Gladys’ assets will fall upon Edward.
+Solution The general rule is that when a taxpayer dies, capital gains or losses made by the deceased are disregarded (ITAA97 s 128-10). There will be no CGT issues for Gladys upon her death. Her assets pass to her beneficiary, Edward, at the date of her death. Any CGT in respect of Gladys' assets will fall upon Edward.
 
 Any CGT liability will arise on the disposal of the assets by Edward.
 
@@ -29,7 +29,7 @@ The following issues must be considered:
 
   Family home or main residence
 
-Because the family home lived in by Gladys as her main residence is a pre-CGT asset, a full CGT exemption is available to Edward if he disposes of it within 2 years of Gladys’ death or if he has a right of occupancy under Gladys’ will to use the dwelling as his main residence (ITAA97 s 118-195).
+Because the family home lived in by Gladys as her main residence is a pre-CGT asset, a full CGT exemption is available to Edward if he disposes of it within 2 years of Gladys' death or if he has a right of occupancy under Gladys' will to use the dwelling as his main residence (ITAA97 s 118-195).
 
 Investment property The investment property is a post-CGT asset and Edward acquires the property at the original cost base at the date of death (ITAA97 s 128-15(4)). In this case, the cost base is $275,000, being the cost base when the deceased acquired the property (ITAA97 s 115-30). If Edward elects to dispose of the property at any time after acquisition, he will have the option of indexing the cost base or applying the 50% capital gains discount in calculating the net capital gain.
 
@@ -47,7 +47,7 @@ Jewellery Capital proceeds:                                                $26,0
 
 The capital loss on collectables of $8,000 is offset against the net capital gain on collectables of $1,532 giving a net capital loss of $6,468 that can be carried forward and offset against future capital gains on collectables.
 
-Sale of personal use asset A personal use asset is one that is used or kept mainly for personal use or enjoyment of the taxpayer (ITAA97 s 108-20(2)). The caravan acquired by Edward is a post-CGT asset and is acquired at the cost base at the date of Gladys’ death, that is, $17,000 (ITAA97 s 115-30). A capital gain on a personal use asset is exempt if it is acquired for $10,000 or less (ITAA97 s 118-10(3)).
+Sale of personal use asset A personal use asset is one that is used or kept mainly for personal use or enjoyment of the taxpayer (ITAA97 s 108-20(2)). The caravan acquired by Edward is a post-CGT asset and is acquired at the cost base at the date of Gladys' death, that is, $17,000 (ITAA97 s 115-30). A capital gain on a personal use asset is exempt if it is acquired for $10,000 or less (ITAA97 s 118-10(3)).
 
 Edward disposed of the caravan for $4,000 and incurred a capital loss of $13,000. Capital losses on the disposal of personal use assets are disregarded (ITAA97 s 108-20(1)). The disposal of the caravan does not give rise to a capital gain or a capital loss.
 

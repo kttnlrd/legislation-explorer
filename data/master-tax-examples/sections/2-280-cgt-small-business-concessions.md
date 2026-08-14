@@ -15,7 +15,7 @@ In April 2025, Neil Swan turned 54 years of age. For personal reasons he may nee
 
 Neil Swan is contemplating whether to dispose of his business in 2025 and seeks your advice on the options or strategies available to him and the CGT consequences of the various options or strategies.
 
-Solution The issues outlined above raise questions as to whether Neil Swan’s business satisfies the basic conditions for a CGT small business entity and whether the CGT concessions for small business are available to him.
+Solution The issues outlined above raise questions as to whether Neil Swan's business satisfies the basic conditions for a CGT small business entity and whether the CGT concessions for small business are available to him.
 
 Requirements for small business CGT relief Provided certain conditions are satisfied, 4 CGT concessions may be available to small businesses, which have the effect of reducing or even eliminating CGT on the disposal of certain assets.
 
@@ -61,11 +61,11 @@ The 4 CGT small business concessions 1. The CGT 15-year exemption (ITAA97 Subdiv
 
 This concession does not impact on the $500,000 lifetime retirement exemption. 2. The CGT active asset 50% reduction (ITAA97 Subdiv 152-C) This concession does not apply where the CGT 15-year exemption has eliminated the capital gain (s 152-215). Providing the conditions in ITAA97 Subdiv 152-A are satisfied, a capital gain can be reduced by 50% (s 152-205). This applies after the 50% capital gains discount (if applicable) has been applied, thereby reducing the taxable capital gain by 75%.
 
-The capital gain may be further reduced by the small business retirement exemption or a small business roll-over, or both (s 152-210). Alternatively, the individual may choose not to apply the active asset 50% reduction and instead apply the small business retirement exemption or a small business roll-over, or both (s 152-220). 3. The CGT retirement exemption (ITAA97 Subdiv 152-D) A small business taxpayer can disregard a capital gain from a CGT event happening to an active CGT asset if the proceeds from the event are used in connection with the taxpayer’s retirement. A lifetime limit of $500,000 applies (ITAA97 s 152-320). To qualify for this concession:
+The capital gain may be further reduced by the small business retirement exemption or a small business roll-over, or both (s 152-210). Alternatively, the individual may choose not to apply the active asset 50% reduction and instead apply the small business retirement exemption or a small business roll-over, or both (s 152-220). 3. The CGT retirement exemption (ITAA97 Subdiv 152-D) A small business taxpayer can disregard a capital gain from a CGT event happening to an active CGT asset if the proceeds from the event are used in connection with the taxpayer's retirement. A lifetime limit of $500,000 applies (ITAA97 s 152-320). To qualify for this concession:
 
 - the basic conditions in Subdiv 152-A must be satisfied, and
 
-- if the individual is under 55 years, the amount equal to the asset’s CGT exempt amount is contributed
+- if the individual is under 55 years, the amount equal to the asset's CGT exempt amount is contributed
 
   to a complying superannuation fund or retirement savings account (ITAA97 s 152-305).
 
@@ -73,7 +73,7 @@ This concession usually applies after the CGT active asset 50% reduction. 4. The
 
 If no replacement asset is acquired, the taxpayer can choose to defer the capital gain on the disposal of the active asset for 2 years. If a replacement asset is acquired, the capital gain on the disposal of the active asset is deferred until the replacement asset is disposed of. The possible application of CGT events J5 (ITAA97 s 104-197), J6 (ITAA97 s 104-198) and J2 (ITAA97 s 104-185) needs to be taken into account.
 
-Neil Swan’s marine boat and yacht repair business satisfies the basic conditions for a CGT small business entity. The annual turnover and net value of its assets are both within the current thresholds and the business assets qualify as active CGT assets. Consequently, the 4 small business CGT concessions are potentially available to Neil Swan.
+Neil Swan's marine boat and yacht repair business satisfies the basic conditions for a CGT small business entity. The annual turnover and net value of its assets are both within the current thresholds and the business assets qualify as active CGT assets. Consequently, the 4 small business CGT concessions are potentially available to Neil Swan.
 
 If Neil was to hold off selling his business for one year, until he reached 55 years of age, the CGT 15-year exemption would apply and any capital gain on the disposal of his business would be disregarded.
 
@@ -89,7 +89,7 @@ Application of the CGT retirement exemption Neil Swan could apply the net capita
 
 The outstanding capital gain would be reduced to $275,000. Being under 55 years of age, Neil would be required to contribute the $500,000 into a complying superannuation fund or RSA.
 
-Neil is also advised that, subject to a lifetime limit of $1.780 million in 2024–25, amounts associated with the CGT small business concessions can be contributed to superannuation without being counted towards the individual’s non-concessional contributions cap (ITAA97 s 960-285). The remaining $275,000 capital gain, after tax, could also be contributed to superannuation as a non-concessional contribution.
+Neil is also advised that, subject to a lifetime limit of $1.780 million in 2024–25, amounts associated with the CGT small business concessions can be contributed to superannuation without being counted towards the individual's non-concessional contributions cap (ITAA97 s 960-285). The remaining $275,000 capital gain, after tax, could also be contributed to superannuation as a non-concessional contribution.
 
 CGT roll-over exemption A final option Neil should consider is to roll over the capital gain on the disposal of his business and acquire the engineering manufacturing business for $2.5 million. Any outstanding capital gains in respect of the disposal of the marine boat and yacht repair business would be deferred until disposal of the engineering manufacturing business.
 

@@ -47,7 +47,7 @@ It is an oﬀence under the TAA to fail to give a distribution statement or to m
 
 Amending a distribution statement A corporate tax entity may apply to the Commissioner to enable it to vary the franking credit allocated on a distribution by amending the distribution statement. The application must be in writing and must include all information relevant to the matters that the Commissioner is required to consider (under ITAA97 s 202-85) when making a determination.
 
-An ATO fact sheet states that the Commissioner will generally only approve a variation if “the amount of franking credit on the distribution statement was not intended” (Issuing distribution statements). The entity or a member of the entity may object against the Commissioner’s decision.
+An ATO fact sheet states that the Commissioner will generally only approve a variation if "the amount of franking credit on the distribution statement was not intended" (Issuing distribution statements). The entity or a member of the entity may object against the Commissioner's decision.
 
 *Refs: ITAA97 s
 202-75), s 202-75(4)), ITAA97 s

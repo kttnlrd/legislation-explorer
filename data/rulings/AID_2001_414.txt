@@ -3,23 +3,18 @@ ATO ID 2001/414
 ==================================================
 
 Income Tax
-        Capital Loss - Shares of company in liquidation
-        FOI status: may be released
-
+ Capital Loss - Shares of company in liquidation
+ FOI status: may be released
 
 This ATO ID is withdrawn because it is a straight application of the law and does not contain an interpretative decision.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can an entity, holding shares in a company that has filed a winding up petition, claim a capital loss as a result of a CGT event under Division 104 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -30,8 +25,6 @@ The taxpayer purchased shares in a company. A few months later, the company file
 Reasons For Decision
 Where taxpayers own shares in a company that has been placed in liquidation they may realise a capital loss in respect of worthless shares in one of two ways:
 
-
-
 • CGT event C2 Section 104-25 of the ITAA 1997 : when the shares are cancelled as a result of the dissolution of the company; or
 • CGT event G3 section 104-145 of the ITAA 1997 : where a liquidator declares in writing that there is no likelihood that the shareholders will receive any further distribution in the course of winding up the company .
 
@@ -39,10 +32,10 @@ In this case, the shares have not been cancelled therefore CGT event C2 has not 
 Neither has the liquidator made a declaration in writing stating that there is no likelihood that the shareholders will receive any further distribution in the course of the winding up of the company. A verbal declaration by the liquidators is not a valid declaration in terms of subsection 104-145(1) of the ITAA 1997. Therefore a CGT event G3 has not occurred.
 The taxpayer will not be able to claim a capital loss until the liquidators make a valid declaration or the shares end on their cancellation.
 Date of decision:
-         10 September 2001
+  10 September 2001
 
 Year of income:
-           Year ending 30 June 2000
+  Year ending 30 June 2000
 
 Legislative References:
 
@@ -55,33 +48,29 @@ TD 2000/52
 Keywords
 
 Capital gains tax
-          Cancellation of shares
-          CGT events C1-C3 - end of a CGT asset
-          CGT events G1-G3 - shares
-          Disposal of shares
-          Liquidation
-          Winding up
-
+ Cancellation of shares
+ CGT events C1-C3 - end of a CGT asset
+ CGT events G1-G3 - shares
+ Disposal of shares
+ Liquidation
+ Winding up
 
 Business Line:
-         CGT (CoE)
+  CGT (CoE)
 
 Date of publication:
-         29 September 2001
+  29 September 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 10 September 2001

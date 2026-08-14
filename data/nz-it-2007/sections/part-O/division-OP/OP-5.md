@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 - (f) section OP 35, row 9 (refund of tax credit):
 
-- (g) section OP 37, row 11 (group company’s debit):
+- (g) section OP 37, row 11 (group company's debit):
 
 - (h) section OP 39, row 13 (replacement payment under share-lending arrangement):
 

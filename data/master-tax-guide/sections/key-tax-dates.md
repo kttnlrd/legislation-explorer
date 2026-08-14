@@ -173,7 +173,7 @@ Due date for lodgment using the member account transaction service (MATS) and me
 
 Due date for reporting lost members information, reporting and payment of unclaimed superannuation money, and reporting and payment of small or insoluble lost member accounts, for the period 1 January to 30 June 2024 (¶13-950).
 
-Due date for lodgment of statements and payment of former temporary residents’ unclaimed superannuation (¶14-390).
+Due date for lodgment of statements and payment of former temporary residents' unclaimed superannuation (¶14-390).
 
 Final date to add new clients to your client list to ensure their 2024 tax return is covered by the lodgment program.
 

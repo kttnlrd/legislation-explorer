@@ -45,7 +45,7 @@ paragraph: "¶44-155"
 
 ¶11-750).
 
-- CGT roll-over relief is available where as a result of a marriage breakdown there is an “in specie”
+- CGT roll-over relief is available where as a result of a marriage breakdown there is an "in specie"
 
   transfer of assets from a small superannuation fund to another complying superannuation fund
 
@@ -75,7 +75,7 @@ Similarly, a transferee who receives it as part of a settlement, and who provide
 
   business and an item of trading stock is transferred as part of a property settlement, the value of
 
-  that asset must be included in the transferor’s assessable income. Correspondingly, the transferee
+  that asset must be included in the transferor's assessable income. Correspondingly, the transferee
 
   spouse is taken to have purchased the asset for the same value (¶9-290, ¶11-700).
 
@@ -85,11 +85,11 @@ Similarly, a transferee who receives it as part of a settlement, and who provide
 
 - A capital loss may arise if assets are sold or misappropriated by an estranged spouse without the
 
-  taxpayer’s consent (¶11-270).
+  taxpayer's consent (¶11-270).
 
 - Where there is a change in the ownership of shares in a private company, this may aﬀect the
 
-  ability of the company to recoup prior year tax losses under the “continuity of ownership” test.
+  ability of the company to recoup prior year tax losses under the "continuity of ownership" test.
 
 It may also result in the value of the shares being treated as an assessable dividend (¶4-200, ¶11-350, ¶12-870).
 
@@ -123,11 +123,11 @@ It may also result in the value of the shares being treated as an assessable div
 
   disposal for CGT purposes (¶11-550, ¶16-840).
 
-- Non-capital expenses relating to the management of a taxpayer’s tax aﬀairs or compliance with
+- Non-capital expenses relating to the management of a taxpayer's tax aﬀairs or compliance with
 
   tax obligations may be tax deductible (¶16-850).
 
-- Admissions made in aﬃdavits as to a taxpayer’s assets and income given in Family Court
+- Admissions made in aﬃdavits as to a taxpayer's assets and income given in Family Court
 
   proceedings may be open to inspection by the ATO. They may therefore be used as the basis for
 
@@ -135,13 +135,13 @@ It may also result in the value of the shares being treated as an assessable div
 
   assessment (¶25-220).
 
-- Marriage breakdown may alter a spouse’s treatment as an aﬃliate in determining whether the
+- Marriage breakdown may alter a spouse's treatment as an aﬃliate in determining whether the
 
   small business concessions turnover or asset tests have been satisﬁed (¶7-050).
 
 - A person required to attend and give evidence to the Commissioner cannot refuse to answer
 
-  questions about their partner on the grounds of a claimed “spousal privilege” (¶25-240).
+  questions about their partner on the grounds of a claimed "spousal privilege" (¶25-240).
 
 - GST considerations would not normally arise on asset disposals as a result of marriage
 

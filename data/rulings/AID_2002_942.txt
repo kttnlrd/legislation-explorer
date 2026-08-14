@@ -3,19 +3,14 @@ ATO ID 2002/942
 ==================================================
 
 Income Tax
-        Thin Capitalisation
-        FOI status: may be released
+ Thin Capitalisation
+ FOI status: may be released
 
+On 8 April 2024, the Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024 was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
 
-On 8 April 2024, the  Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024 was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
-
-              Under the new thin capitalisation rules:
-
-
+ Under the new thin capitalisation rules:
 
 •the newly classified 'general class investors' will be subject to one of 3 new tests
-
-
 
 ofixed ratio test
 ogroup ratio test
@@ -28,14 +23,11 @@ othird party debt test
 ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
 Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purpose of calculating the attributable safe harbour excess amount in section 820-920(4) of the Income Tax Assessment Act 1997 ('ITAA 1997'), can a Step 1 amount, which is zero, when reduced by a negative adjusted average debt amount give rise to a positive Step 2 amount?
@@ -45,11 +37,9 @@ Facts
 Entity A has debt capital of $5m. Entity A holds 100% of the equity in Entity B. Entity B has equity of $5m and has not issued any debt interests. Entity B has lent $5m to associates entities in Australia. These entities are associate entities under a combination of the operation of sections 820-905(1)(b) and 820-905(3A) of the ITAA 1997.
 Reasons for Decision
 
-          Section 820-195 of the ITAA 1997 Safe Harbour Debt Amount - inward investment vehicle (general)
+ Section 820-195 of the ITAA 1997 Safe Harbour Debt Amount - inward investment vehicle (general)
 
 The safe harbour debt amount for Entity A is the result of the following method statement:
-
-
 
 $M
 
@@ -60,20 +50,17 @@ Step 2. Reduce the result of Step 1 by the average value of all associate entity
 
 0
 
-
 5
 
 Step 3. Reduce the result of Step 2 by the average value of all associate entity equity of the entity
 
 (5)
 
-
 0
 
 Step 4. Reduce the result of Step 3 by the average value of all the non-debt liabilities of the entity
 
 0
-
 
 0
 
@@ -85,16 +72,12 @@ Step 6. Add to the result the average value of the entity's associate entity exc
 
 Safe harbour debt amount
 
-
 5
-
 
 Sub-section 820-920(2) of the ITAA 1997 Associate entity excess amount (from step 6 of section 820-195 of the ITAA 1997)
 
 For all steps in this subsection, Entity B is the associate entity.
 The associate entity excess amount is calculated by applying the method statement in subsection 820-920(2).
-
-
 
 $M
 
@@ -105,18 +88,13 @@ Step 2. Add to the result of Step 1 the attributable safe harbour excess amount 
 
 5
 
-
 Step 3. Apply Steps 1 and 2 to all such associate entities. The result of this step is the
-                  associate entity excess amount.
-
+ associate entity excess amount.
 
 5
 
-
 The attributable safe harbour excess amount is calculated by applying the method statement in sub-section (4).
 For all steps in this subsection, Entity B is the associate entity.
-
-
 
 $M
 
@@ -126,7 +104,6 @@ Step 1. Work out the safe harbour debt amount of the associate entity.
 Step 2. Reduce the result of Step 1 by the value of the adjusted average debt of the associate entity.
 
 (-5)
-
 
 5
 
@@ -141,18 +118,16 @@ Step 4. Divide the result of Step 3 by the sum of:
 5
 
 The result of this Step is the
-                  attributable safe harbour >excess amount
-
+ attributable safe harbour >excess amount
 
 5
 
-
 The method statement follows a mathematical approach. For example, in subsection 820-920(4) of the ITAA 1997, Step 3 of the method statement requires that the amount be 'multiplied' and at Step 4 that it be 'divided'. Following a mathematical approach, the term 'reduce' can be interpreted to mean 'subtract'. In applying the method statement in sub-section 820-920(4) of the ITAA 1997, where an amount is to be 'reduced' by a negative amount the result is a positive amount.
 Date of decision:
-         13 August 2002
+  13 August 2002
 
 Year of income:
-           Year ending 31 December 2002
+  Year ending 31 December 2002
 
 Legislative References:
 
@@ -161,19 +136,18 @@ Income Tax Assessment Act 1997   subdivision 820-I   subsection 820-195 �
 Keywords
 
 Thin capitalisation
-          Safe harbour gearing ratio
-          Safe harbour debt amount
-          Attributable safe harbour excess amount
-
+ Safe harbour gearing ratio
+ Safe harbour debt amount
+ Attributable safe harbour excess amount
 
 Siebel/TDMS Reference Number:
-         DW442838
+  DW442838
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         30 September 2002
+  30 September 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

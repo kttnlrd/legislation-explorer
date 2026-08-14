@@ -29,7 +29,7 @@ A water entitlement that is a statutory licence and that qualiﬁes for the roll
 
 The roll-over applies to the extent that the relevant taxpayer receives one or more replacement water entitlements or allocations. A taxpayer is entitled to partial roll-over relief where something else (eg cash) is received (s 124-1115).
 
-The roll-over applies irrespective of whether the replacement water entitlements or allocations were issued by the same entity that issued the original entitlements or allocations to the taxpayer or another entity. The roll-over is available in situations when a taxpayer’s ownership of one or more water entitlements end and, in substance, their remaining water entitlements became their replacement entitlements (s 124-1135).
+The roll-over applies irrespective of whether the replacement water entitlements or allocations were issued by the same entity that issued the original entitlements or allocations to the taxpayer or another entity. The roll-over is available in situations when a taxpayer's ownership of one or more water entitlements end and, in substance, their remaining water entitlements became their replacement entitlements (s 124-1135).
 
 A taxpayer that has a CGT event happen to any asset they own as a direct result of circumstances that qualify for the replacement roll-over will qualify for the variation roll-over if they continue to own the asset (s 124-1155).
 
@@ -38,7 +38,7 @@ CGT roll-over for mining, quarrying and prospecting rights CGT roll-over applies
 *Refs: s 124-1105(4)), s 124-1105(1)), s 124-1105(2)), s 124-1105(3)), s 124-1110), s 124-1125), s 124-1120), s 124-1115), s 124-1135), s
 124-1155), s 124-1225), s 40-363(5)), s 124-1230)*
 
-- all original interests were post-CGT and were acquired before 1 July 2001 (“pre-UCA”) (s
+- all original interests were post-CGT and were acquired before 1 July 2001 ("pre-UCA") (s
 
   124-1235)
 

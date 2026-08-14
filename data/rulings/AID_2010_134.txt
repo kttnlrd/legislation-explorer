@@ -3,18 +3,14 @@ ATO ID 2010/134
 ==================================================
 
 Income Tax
-        Taxation of financial arrangements: identification of an arrangement - facility agreement - single arrangements
-        FOI status: may be released
-
-
+ Taxation of financial arrangements: identification of an arrangement - facility agreement - single arrangements
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the rights and obligations under a Senior Debt Facility Agreement, comprising a Construction Loan Facility (CLF) and a Term Loan Facility (TLF), form a single arrangement under subsection 230-55(4) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -25,14 +21,12 @@ A company (the borrower) is a special purpose vehicle created to finance a speci
 The facility agreement comprises two tranches; the CLF and TLF. The terms and conditions of the CLF and TLF are contained in a single contractual agreement. The CLF is available for a set period from the beginning of the project to fund certain costs associated with the project. At the end of that period, the CLF is repaid by conversion to the TLF, which then amortises according to the repayment schedule with final repayment being made on the last repayment date.
 Interest is applied at an agreed rate on the outstanding balance under either the CLF or the TLF.
 Draw downs under the facility agreement are made by the borrower making a valid request to the lender. The lender will advance funds upon receipt of a valid request. (
-          Note
-          : this ATO ID does not deal with whether the draw downs that are made pursuant to the facility agreement are themselves separate arrangements or constitute a single arrangement together with the facility agreement under subsection 230-55(4) of the ITAA 1997. The aggregation of a facility agreement and draw downs made pursuant to a facility agreement in a particular fact pattern is considered in ATO ID 2009/115).
+ Note
+ : this ATO ID does not deal with whether the draw downs that are made pursuant to the facility agreement are themselves separate arrangements or constitute a single arrangement together with the facility agreement under subsection 230-55(4) of the ITAA 1997. The aggregation of a facility agreement and draw downs made pursuant to a facility agreement in a particular fact pattern is considered in ATO ID 2009/115).
 Reasons for Decision
 The facility agreement creates rights to receive and obligations to provide financial benefits for the lender and the borrower that are contingent upon the borrower making a valid request for a draw down. Under section 230-85 of the ITAA 1997, rights and obligations subject to a contingency are treated as rights and obligations for the purposes of Division 230 of the ITAA 1997.
 Under subsection 230-55(4) of the ITAA 1997, regard is to be had to a range of factors in order to determine whether the arrangement comprises certain additional rights and obligations or is limited to only some of those rights and obligations. The combination of various rights and obligations under subsection 230-55(4) is an objective enquiry, the purpose of which is to identify the correct 'unit of taxation' in the context of Division 230 of the ITAA 1997.
 Subsection 230-55(4) of the ITAA 1997 states that whether a number of rights and/or obligations are themselves an arrangement or are 2 or more separate arrangements is a question of fact and degree that you determine having regard to the following:
-
-
 
 (a)the nature of the rights and obligations
 (b)their terms and conditions (including those relating to any payment, or other consideration for them)
@@ -49,10 +43,10 @@ Aggregating the CLF and the TLF into a single arrangement (the facility agreemen
 Accordingly, it is considered that the rights and obligations under the facility agreement comprising the CLF and TLF should be aggregated to form a single arrangement for the purposes of subsection 230-55(4) of the ITAA 1997.
 Whether or not the facility agreement is a financial arrangement will depend upon whether it satisfies the definition of a 'financial arrangement' in subsection 230-45(1) of the ITAA 1997.
 Date of decision:
-         28 June 2010
+  28 June 2010
 
 Year of income:
-           Year ended 30 June 2011
+  Year ended 30 June 2011
 
 Legislative References:
 
@@ -65,17 +59,16 @@ Related ATO Interpretative Decisions
 Keywords
 
 Arrangement
-          Facility agreements
-
+ Facility agreements
 
 Siebel/TDMS Reference Number:
-         1-1YYHDCG
+  1-1YYHDCG
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         9 July 2010
+  9 July 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

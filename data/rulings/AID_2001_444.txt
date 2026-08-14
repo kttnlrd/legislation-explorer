@@ -3,23 +3,18 @@ ATO ID 2001/444
 ==================================================
 
 Goods and Services Tax
-        GST and brokerage fees
-        FOI status: may be released
+ GST and brokerage fees
+ FOI status: may be released
 
-
-The ATO view for this issue is covered in Goods and Services Tax Ruling  GSTR 2003/9 and Goods and Services Tax Ruling  GSTR 2002/2- Schedule 2 (lines D4 and D36).
+The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2003/9 and Goods and Services Tax Ruling GSTR 2002/2- Schedule 2 (lines D4 and D36).
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a unit trust, entitled to claim any input tax credits under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it pays a brokerage fee for brokerage services?
@@ -36,8 +31,6 @@ All the acquisitions arise from taxable supplies that are made to the entity.
 Reasons for Decision
 Section 11-20 of the GST Act provides that an entity is entitled to the input tax credit for any creditable acquisition that it makes. Section 11-5 of the GST Act sets out the requirements that must be satisfied for an acquisition to be a creditable acquisition. An entity makes a creditable acquisition if:
 
-
-
 (a) it acquires anything solely or partly for a creditable purpose; and
 (b) the supply to it is a taxable supply; and
 (c) it provides, or is liable to provide, consideration for the supply; and
@@ -48,14 +41,10 @@ Under subsection 11-15(1) of the GST Act, an entity acquires a thing for a credi
 The provision, acquisition or disposal of an interest in shares is a financial supply under item 10 in the table in subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations). In this case, the entity is making financial supplies as it invests in shares in the course of its enterprise. Further, the entity acquires the brokerage services in the course of these activities. Therefore, in determining whether the entity is entitled to claim any input tax credits when it pays a brokerage fee for brokerage services, it is necessary to determine whether the entity exceeds the financial acquisitions threshold.
 Under Division 189 of the GST Act, an entity exceeds the financial acquisitions threshold if it has made, or is likely to make, financial acquisitions where the input tax credits related to making those acquisitions would exceed either or both:
 
-
-
 • $50 000 or such other amount specified in the GST Regulations (first limb test) (paragraphs 189-5 (1)(a) and 189-10(1)(a) of the GST Act); or
 • 10% of the total amount of input tax credits to which it would be entitled (second limb test) (paragraphs 189-5(1)(b) and 189-10(1)(b) of the GST Act).
 
 An entity determines whether it exceeds the financial acquisitions threshold in a given month based on its acquisitions in:
-
-
 
 • that month and the previous 11 months (subsection 189-5(1) of the GST Act); and
 • that month and the next 11 months (subsection 189-10(1) of the GST Act).
@@ -66,52 +55,45 @@ The entity does not exceed the financial acquisitions threshold under the second
 As the entity does not exceed the financial acquisitions threshold, the acquisition of the brokerage services is not treated, for the purposes of paragraph 11-15(2)(a) of the GST Act, as relating to supplies that would be input taxed. Consequently, the entity is acquiring the brokerage services for a creditable purpose under section 11-15 of the GST Act.
 The entity is registered for GST and meets the remaining requirements of section 11-5 of the GST Act. Therefore, the entity is entitled to claim full input tax credits related to its acquisition of brokerage services under section 11-20 of the GST Act.
 
-
 [Note: In this case, the entity does not exceed the financial acquisitions threshold. Where an entity exceeds the financial acquisitions threshold; makes financial supplies; acquires brokerage services in the course or furtherance of its enterprise; and meets the other requirements of section 11-5 of the GST Act, the entity may be entitled to claim reduced input tax credits for its reduced credit acquisitions (Division 70 of the GST Act). For example, the acquisition of brokerage services is listed as a reduced credit acquisition under item 9 in the table in subregulation 70-5.09(2) of the GST Regulations.]
 
 Date of decision:
-         23 July 2001
+  23 July 2001
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 11-5   paragraph 11-5(a)   paragraph 11-5(b)   paragraph 11-5(c)   paragraph 11-5(d)   section 11-15   subsection 11-15(1)   subsection 11-15(4)   paragraph 11-15(2)(a)   section 11-20   Division 70   section 70-10   subsection 70-10(1)   subsection 70-10(3)   section 70-15   Division 189   section 189-5   subsection 189-5(1)   paragraph 189-5(1)(a)   paragraph 189-5(1)(b)   section 189-10   subsection 189-10(1)   paragraph 189-10(1)(a)   paragraph 189-10(1)(b)
 A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.09(3) table item 10   subregulation 70-5.09(2) table item 9
 
-
 Other References:
 
 Banking & Finance Industry Partnership - Questions & Answers
 
-
 Keywords
 
 Goods and services tax
-          Creditable acquisition
-          Creditable purpose
-          Input taxed supplies
-          GST financial supplies
-          Reduced credit acquisitions
-
+ Creditable acquisition
+ Creditable purpose
+ Input taxed supplies
+ GST financial supplies
+ Reduced credit acquisitions
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         11 October 2001
+  11 October 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 23 July 2001

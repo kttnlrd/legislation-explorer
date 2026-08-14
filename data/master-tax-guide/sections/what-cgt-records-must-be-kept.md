@@ -21,7 +21,7 @@ However, records do not have to be retained for the required 5-year period if th
 
 A taxpayer who has made a net capital loss should retain relevant records until the end of the statutory retention period under s 121-25 or the end of the statutory period of review (¶25-300) for the income year in which the loss is fully deducted, whichever is later (TD 2007/2).
 
-Asset registers As an alternative to keeping full records for CGT purposes, taxpayers can instead choose to transfer some or all of those records to an asset register (s 121-35). An entry made on an asset register is only valid if it is certiﬁed by a registered tax agent or other approved person. The register entry must be in English and contain the same information as the relevant document. For the Commissioner’s views about how asset registers work, see TR 2002/10.
+Asset registers As an alternative to keeping full records for CGT purposes, taxpayers can instead choose to transfer some or all of those records to an asset register (s 121-35). An entry made on an asset register is only valid if it is certiﬁed by a registered tax agent or other approved person. The register entry must be in English and contain the same information as the relevant document. For the Commissioner's views about how asset registers work, see TR 2002/10.
 
 The taxpayer is required to retain the document(s) to which an asset register entry relates for 5 years after the date on which the entry is certiﬁed. An asset register entry must itself be retained for 5 years after the occurrence of a CGT event for which the entry is relevant.
 

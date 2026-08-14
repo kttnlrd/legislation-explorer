@@ -3,18 +3,14 @@ ATO ID 2003/739
 ==================================================
 
 Income Tax
-        Consolidation - liquidation of a head company
-        FOI status: may be released
-
-
+ Consolidation - liquidation of a head company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a wholly-owned subsidiary company have its tax cost setting amount calculated under section 711-15 of the Income Tax Assessment Act 1997 (ITAA 1997) if the head company of a consolidated group is deregistered after liquidation?
@@ -31,8 +27,6 @@ Under subsection 703-5(2) of the ITAA 1997, a consolidated group ceases to exist
 Deregistration is the final step in liquidation and completes the liquidation process (section 601AC of the Corporations Act 2001). A company ceases to exist when it is deregistered (subsection 601AD(1) of the Corporations Act 2001). Accordingly, a company that has been deregistered cannot meet the requirements of Item 1, which, among other things, requires a head company to be a company as defined by section 995-1 the ITAA 1997.
 A company means:
 
-
-
 (a)a body corporate; or
 (b)any other unincorporated association or body of personsbut does not include a partnership or a non-entity joint venture.
 
@@ -45,10 +39,10 @@ As Company B is the only subsidiary to leave the group, section 711-15 will appl
 Note 1: Section 701-40 of the ITAA 1997 (the exit history rules) will ensure that the assets leaving the group with Company B will retain their tax history.
 Note 2: a head company is required by Item 3 of the table in subsection 703-60(1) to provide the Commissioner with a notice of events effecting consolidated group. In the event of liquidation, it is expected the liquidator will perform this duty on behalf of the liquidated company.
 Date of decision:
-         5 May 2003
+  5 May 2003
 
 Year of income:
-           Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005
+  Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005
 
 Legislative References:
 
@@ -58,23 +52,22 @@ Corporations Act 2001   section 601AC   subsection 601AD(1)
 Keywords
 
 Consolidation
-          Consolidation - exiting
-          Insolvency
-          Liquidation
-          Member of a group
-          Provisional liquidation
-          Voluntary liquidation
-          Wholly owned subsidiary
-
+ Consolidation - exiting
+ Insolvency
+ Liquidation
+ Member of a group
+ Provisional liquidation
+ Voluntary liquidation
+ Wholly owned subsidiary
 
 Siebel/TDMS Reference Number:
-         3466347
+  3466347
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         22 August 2003
+  22 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

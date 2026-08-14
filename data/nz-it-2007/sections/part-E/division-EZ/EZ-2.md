@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) the property is land or buildings acquired on or before the last day of the 1989–90 income year; and
 
-- (b) the profit from the property’s disposal on or before the last day of the 1989–90 income year, had it been disposed of then at a profit, would have been a capital profit or gain and not a profit on disposal of an investment subject to income tax under section 204 of the Income Tax Act 1976 (as that section was immediately before its repeal and substitution by section 13(1) of the Income Tax Amendment Act (No 2) 1990).
+- (b) the profit from the property's disposal on or before the last day of the 1989–90 income year, had it been disposed of then at a profit, would have been a capital profit or gain and not a profit on disposal of an investment subject to income tax under section 204 of the Income Tax Act 1976 (as that section was immediately before its repeal and substitution by section 13(1) of the Income Tax Amendment Act (No 2) 1990).
 
 **Deduction**
 

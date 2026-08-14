@@ -26,15 +26,15 @@ compilation_date: 2026-06-06
 
 **Use of tax credits**
 
-**(2)**  Despite section LA 6(2)﻿(a) to (c) (Remaining refundable credits: PAYE, RWT, and certain other items), the company may apply to have an amount of the company’s tax credit transferred under section LA 6(2)﻿(d) to the person, treating the amount as tax paid in excess.
+**(2)**  Despite section LA 6(2)﻿(a) to (c) (Remaining refundable credits: PAYE, RWT, and certain other items), the company may apply to have an amount of the company's tax credit transferred under section LA 6(2)﻿(d) to the person, treating the amount as tax paid in excess.
 
 **Treatment for company**
 
-**(3)**  The amount of the company’s tax credit under section LB 1 is reduced by the amount that is transferred to the shareholder and, for the purposes of section OB 32 (ICA refund of tax or transfer from account), the amount transferred is treated as a refund of income tax.
+**(3)**  The amount of the company's tax credit under section LB 1 is reduced by the amount that is transferred to the shareholder and, for the purposes of section OB 32 (ICA refund of tax or transfer from account), the amount transferred is treated as a refund of income tax.
 
 **Treatment for shareholder**
 
-**(4)**  The amount of the shareholder’s tax credit under section LB 1 is increased by the amount that is transferred under subsection (2).
+**(4)**  The amount of the shareholder's tax credit under section LB 1 is increased by the amount that is transferred under subsection (2).
 
 *Defined in this Act: amount, amount of tax, company, employee, income, income tax, pay, PAYE income payment, shareholder, tax credit*
 

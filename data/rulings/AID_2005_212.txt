@@ -3,21 +3,16 @@ ATO ID 2005/212
 ==================================================
 
 Income Tax
-        Non-Portfolio Dividends: optional convertible notes - non-assessable non-exempt income under section 23AJ of the ITAA 1936
-        FOI status: may be released
-
+ Non-Portfolio Dividends: optional convertible notes - non-assessable non-exempt income under section 23AJ of the ITAA 1936
+ FOI status: may be released
 
 This ATO ID has been amended to replace the repealed s160AFB and its subsections by s334A and its subsections. With effect from 1 July 2008 the foreign tax credit system contained in Div 18 of the Income Tax Assessment Act 1936 has been replaced by the foreign tax offset system contained in Div 770 of the Income Tax Assessment Act 1997.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will dividends received on shares following conversion of optional convertible notes (OCN) be non-assessable non-exempt income under section 23AJ of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -27,8 +22,6 @@ Facts
 A non-resident company (the issuer) issues OCN to an Australian resident company (the holder).
 The terms of the OCN issued include:-
 
-
-
 (a)each OCN is redeemable or convertible into one ordinary share in the issuer, and
 (b)no interest will be payable on the note, and
 (c)the OCNs will not confer any rights to dividends or any voting in the issuer prior to conversion.
@@ -37,8 +30,6 @@ The holder is wholly owned by the Australian resident head company (head company
 Upon full conversion of the OCN to shares, the holder and head company will each hold in excess of 10% shareholding in the issuer.
 Reasons for Decision
 Section 23AJ of the ITAA 1936 provides that a non-portfolio dividend (as defined in section 317 of the ITAA 1936) paid to a company is not assessable income, and is not exempt income, of the company if:
-
-
 
 (a)the company is an Australian resident and does not receive the dividend in the capacity of a trustee; and
 (b)the company that paid the dividend is not a Part X Australian resident (as defined in that section).
@@ -87,8 +78,6 @@ Part X Australian resident is defined in section 317 of Part X of the ITAA 1936 
 
 "Part X Australian resident'' means a resident within the meaning of section 6, but does not include an entity where:
 
-
-
 (a)there is a double tax agreement in force in respect of a foreign country; and
 (b)that agreement contains a provision that is expressed to apply where, apart from the provision, the entity would, for the purposes of the agreement, be both a resident of Australia and a resident of the foreign country; and
 (c)that provision has the effect that the entity is, for the purposes of the agreement, a resident solely of the foreign country;
@@ -97,10 +86,10 @@ Section 6 of the ITAA 1936 defines resident as including a company which is inco
 The issuer being a company not incorporated in Australia which does not carry on business in Australia and is therefore not a Part X Australian resident, for the purposes of the application of paragraph 23AJ(b) of the ITAA 1936.
 Accordingly, as all requirements of section 23AJ of the ITAA 1936 are satisfied, dividends received by the holder following conversion of the OCN to ordinary shares will constitute non assessable and non exempt income by the operation of that section.
 Date of decision:
-         14 July 2005
+  14 July 2005
 
 Year of income:
-           Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015
+  Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015
 
 Legislative References:
 
@@ -114,17 +103,16 @@ Taxation Determination TD 2004/76
 Keywords
 
 Foreign income
-          Non portfolio foreign income
-
+ Non portfolio foreign income
 
 Siebel/TDMS Reference Number:
-         4339302
+  4339302
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         29 July 2005
+  29 July 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

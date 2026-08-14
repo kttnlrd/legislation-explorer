@@ -7,7 +7,7 @@ paragraph: "¶6-140"
 ---
 # Special rules about adjustment notes ¶6-140
 
-# Groups.
+Groups.
 
 The representative member of a GST group is responsible for adjustments relating to a group member (¶17-020), but that group member must issue the relevant adjustment note. # Branches.
 

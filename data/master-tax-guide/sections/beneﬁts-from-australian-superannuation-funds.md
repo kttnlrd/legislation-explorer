@@ -9,7 +9,7 @@ paragraph: "¶14-400"
 
 Special rules apply to the taxation of superannuation beneﬁts received from a non-complying superannuation fund that is an Australian superannuation fund (¶13-100) for the income year in which the beneﬁt is paid.
 
-A “non-complying superannuation fund” is a superannuation fund that is not a complying fund (s 995-1(1)).
+A "non-complying superannuation fund" is a superannuation fund that is not a complying fund (s 995-1(1)).
 
 A superannuation beneﬁt received from a non-complying superannuation fund that is an Australian superannuation fund is exempt income if:
 

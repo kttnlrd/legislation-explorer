@@ -24,13 +24,13 @@ compilation_date: 2026-06-06
 
 - (a) adjusted income is—
 
-  - (i) the amount of the person’s family scheme income for the tax year in which the relationship period falls that is attributable to the number of weeks in which the person is a full-time earner, adjusted to an annualised amount that is found by multiplying the amount by the fraction that is 52 divided by the number of weeks in the relationship period for which the person is a full-time earner; and
+  - (i) the amount of the person's family scheme income for the tax year in which the relationship period falls that is attributable to the number of weeks in which the person is a full-time earner, adjusted to an annualised amount that is found by multiplying the amount by the fraction that is 52 divided by the number of weeks in the relationship period for which the person is a full-time earner; and
 
   - (ii) calculated without reference to the amounts referred to in section MB 1(2) and (3):
 
-- (c) adjusted liability is the amount that would be the person’s income tax liability—
+- (c) adjusted liability is the amount that would be the person's income tax liability—
 
-  - (i) treating the amount of adjusted income under paragraph (a) as if it were the person’s net income:
+  - (i) treating the amount of adjusted income under paragraph (a) as if it were the person's net income:
 
 - (d) amount received is the amount referred to in section MB 1(2) for the tax year:
 

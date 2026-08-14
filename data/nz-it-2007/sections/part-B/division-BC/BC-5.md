@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # BC 5  Taxable income
 
-A person’s taxable income for a tax year is determined by subtracting any available tax loss that the person has from their net income under Part I (Treatment of tax losses).
+A person's taxable income for a tax year is determined by subtracting any available tax loss that the person has from their net income under Part I (Treatment of tax losses).
 
 *Defined in this Act: available tax loss, net income, taxable income, tax year*
 

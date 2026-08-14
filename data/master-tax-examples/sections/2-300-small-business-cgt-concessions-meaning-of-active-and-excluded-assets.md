@@ -19,7 +19,7 @@ Due to financial difficulties, Victoria is considering disposing of one of her c
 
 Alternatively, she is considering disposing of the residential premises from which the bed and breakfast business is being carried on and ceasing trading altogether. She wishes to reduce the capital gain on the disposal of the relevant properties by way of access to the small business CGT concessions.
 
-Advise Victoria whether any of the properties that are the subject of possible disposal are an “active asset” for the purposes of the CGT small business concessions.
+Advise Victoria whether any of the properties that are the subject of possible disposal are an "active asset" for the purposes of the CGT small business concessions.
 
 Solution Under ITAA97 s 152-35, a CGT asset satisfies the active asset test for the purposes of the CGT small business concessions if:
 
@@ -27,7 +27,7 @@ Solution Under ITAA97 s 152-35, a CGT asset satisfies the active asset test for 
 
   half of the period specified in s 152-35(2), or
 
-- the taxpayer has owned the asset for more than 15 years and the asset was the taxpayer’s active
+- the taxpayer has owned the asset for more than 15 years and the asset was the taxpayer's active
 
   asset for a total of at least 7½ years during the period specified in s 152-35(2) (s 152-35(1)).
 
@@ -39,17 +39,17 @@ The period specified in s 152-35(2) begins when the taxpayer acquired the asset 
 
   that the Commissioner allows — the cessation of the business.
 
-Generally, a CGT asset is an “active asset” if:
+Generally, a CGT asset is an "active asset" if:
 
 - the taxpayer owns the asset (whether it is tangible or intangible) and it is used, or held ready for
 
   use, in the course of carrying on a business that is carried on (whether alone or in partnership) by the
 
-  taxpayer, the taxpayer’s affiliate or another entity that is connected with the taxpayer, or
+  taxpayer, the taxpayer's affiliate or another entity that is connected with the taxpayer, or
 
 - if the asset is an intangible asset — the taxpayer owns it, and it is inherently connected with a
 
-  business that is carried on (whether alone or in partnership) by the taxpayer, the taxpayer’s affiliate or
+  business that is carried on (whether alone or in partnership) by the taxpayer, the taxpayer's affiliate or
 
   another entity that is connected with the taxpayer (s 152-40(1)).
 
@@ -57,7 +57,7 @@ There are however some specific exclusions from the asset being an active asset.
 
 Taxation Determination TD 2006/78 provides guidance on whether there are any circumstances in which the premises used in a business of providing accommodation for reward may satisfy the active asset test notwithstanding the exclusion for assets whose main use is to derive rent. According to TD 2006/78 and the decision in Tingari Village North Pty Ltd v FC of T 2010 ATC ¶10-131, a key factor in determining whether the income from premises constitutes rent is whether the occupier has a right to exclusive possession and quiet enjoyment.
 
-In the present case, the commercial premises held by Victoria which are leased to commercial tenants for use as office space and as a warehouse under formal lease agreements would not be an “active asset” because the main (only) use of the properties is to derive rent; that is, the exclusion in s 152-40(4)(e) applies.
+In the present case, the commercial premises held by Victoria which are leased to commercial tenants for use as office space and as a warehouse under formal lease agreements would not be an "active asset" because the main (only) use of the properties is to derive rent; that is, the exclusion in s 152-40(4)(e) applies.
 
 This applies regardless of whether Victoria is carrying on a business of leasing properties.
 
@@ -65,7 +65,7 @@ This approach is consistent with the views of the Commissioner in TD 2006/78 (se
 
 In contrast, the exclusion in s 152-40(4)(e) does not apply to the residential premises from which Victoria operates her bed and breakfast business. The Commissioner in TD 2006/78 (see Example 4) considers that a bed and breakfast is operated in a similar way to a motel. In the present case, the guests do not have exclusive possession of the apartment they are staying in but rather only a right to occupy the apartment on certain conditions. Further, the usual length of stay by guests is very short term and room cleaning, linen and meals are also provided to guests.
 
-These factors indicate that the relationship between Victoria and the guests at her bed and breakfast is not that of landlord/tenant under a lease agreement (in contrast to the relationship she has with the tenants of her commercial properties). Accordingly, the income derived is not “rent”. As the activities of running a bed and breakfast amount to carrying on a business, the exclusion in s 152-40(4)(e) would not apply and the dwelling would be an active asset.
+These factors indicate that the relationship between Victoria and the guests at her bed and breakfast is not that of landlord/tenant under a lease agreement (in contrast to the relationship she has with the tenants of her commercial properties). Accordingly, the income derived is not "rent". As the activities of running a bed and breakfast amount to carrying on a business, the exclusion in s 152-40(4)(e) would not apply and the dwelling would be an active asset.
 
 In order to access the CGT small business concessions when she disposes of the asset, Victoria would need to ensure that all conditions under the active asset test in s 152-35 (ie the asset must be an active asset for the prescribed period) and the basic conditions in s 152-10 are satisfied.
 

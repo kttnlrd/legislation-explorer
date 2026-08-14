@@ -2,10 +2,10 @@
 act: "Australian Master GST Guide"
 part: "18"
 section: "commissioners-rulings"
-title: "Commissioner’s rulings"
+title: "Commissioner's rulings"
 paragraph: "¶18-030"
 ---
-# Commissioner’s rulings ¶18-030
+# Commissioner's rulings ¶18-030
 
 Rulings may be given by the Commissioner to clarify a particular aspect of the tax law or to let the official interpretation of the tax law be known. Rulings can be public (ie generally applicable) or private (ie made only for a particular entity).
 
@@ -31,7 +31,7 @@ For a summary of the protection that reliance on various types of ATO rulings gi
 
 Conflicting rulings The general rule is that the most recently issued ruling has precedence over rulings issued in the past on the same topic. If you are given a GST private ruling, but the Commissioner later issues a GST public ruling that conflicts with the GST private ruling, the public ruling prevails.
 
-If a GST public ruling is issued and then, at a later date, a conflicting private ruling is issued, the private ruling prevails (TAA Sch 1 s 357-75). The ATO also takes the view that if there is a conflict between its views expressed in a ruling and in a subsequent decision impact statement (“DIS”), the view in the DIS should prevail (NTLG GST subcommittee Minutes item 1.4, March 2012).
+If a GST public ruling is issued and then, at a later date, a conflicting private ruling is issued, the private ruling prevails (TAA Sch 1 s 357-75). The ATO also takes the view that if there is a conflict between its views expressed in a ruling and in a subsequent decision impact statement ("DIS"), the view in the DIS should prevail (NTLG GST subcommittee Minutes item 1.4, March 2012).
 
 Taxpayer Alerts Taxpayer Alerts (TAs) are intended to be an early warning of ATO concerns about significant and emerging potential aggressive tax planning issues or arrangements that it has under risk assessment.
 
@@ -43,6 +43,6 @@ Interest may be payable depending on the circumstances (Practice Statement PS LA
 
 IDs do not go through the same rigorous scrutiny as public rulings, and may not be followed by ATO staff if they consider them wrong.
 
-Commissioner’s “remedial” power The Commissioner has a limited discretionary power to issue a legislative instrument modifying the effect of a taxation law, so as to ensure that it can be administered to achieve its intended purpose or object (Administration Act Sch 1 Div 370). It is intended that this type of remedial modification will not apply to a particular entity where it produces a less favourable result for that entity.
+Commissioner's "remedial" power The Commissioner has a limited discretionary power to issue a legislative instrument modifying the effect of a taxation law, so as to ensure that it can be administered to achieve its intended purpose or object (Administration Act Sch 1 Div 370). It is intended that this type of remedial modification will not apply to a particular entity where it produces a less favourable result for that entity.
 
 *Refs: s 359-60), s 359-25), s 360-5), s 357-60), s 357-75)*

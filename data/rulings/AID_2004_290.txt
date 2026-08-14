@@ -3,21 +3,16 @@ ATO ID 2004/290
 ==================================================
 
 Goods and Services Tax
-        GST and a representative's liability for a supply made under a contingent agreement
-        FOI status: may be released
-
+ GST and a representative's liability for a supply made under a contingent agreement
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a representative of an incapacitated entity, liable for goods and services tax (GST) under section 9-40 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it completes the final condition of a contingent agreement that was made by the incapacitated entity?
@@ -37,7 +32,6 @@ After the entity's appointment and as part of its professional duties, the entit
 Under the terms of the agreement, the completion of the related transaction and the release of the charge, are prerequisites to title passing to the purchaser. The entity does not make the supply merely by ensuring that those prerequisites are satisfied. It was the incapacitated entity who did everything to effect the actual supply of the goods and as such, it is the incapacitated entity that makes the supply.
 Therefore, the entity is not liable for GST under section 9-40 of the GST Act when it completes the final condition of a contingent agreement made by the incapacitated entity.
 
-
 Note: The GST liability on a taxable supply that an incapacitated entity makes is still attributable to the incapacitated entity after the appointment of the representative. Where the representative is aware that a supply has not been accounted for by the incapacitated entity, the representative has a professional and legal responsibility to notify the Tax Office of an understatement in its proof of debt.
 
 Amendment History
@@ -54,7 +48,7 @@ Legislative References
 Update reference to subsection 58-20(1), which replaced subsection 147-5(1).
 
 Date of decision:
-         29 July 2003
+  29 July 2003
 
 Legislative References:
 
@@ -63,34 +57,30 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section
 Keywords
 
 Goods and services tax
-          GST special rules
-          Representative of incapacitated entities
-          GST supplies & acquisitions
-          Taxable supply
-
+ GST special rules
+ Representative of incapacitated entities
+ GST supplies & acquisitions
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         3663728
+  3663728
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         26 March 2004
+  26 March 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 29 July 2003

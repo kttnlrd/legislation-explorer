@@ -3,18 +3,14 @@ ATO ID 2010/44
 ==================================================
 
 Income Tax
-        Functional currency choice: re-exchange of currency under a cross-currency interest rate swap agreement
-        FOI status: may be released
-
-
+ Functional currency choice: re-exchange of currency under a cross-currency interest rate swap agreement
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the re-exchange of currency under a cross currency interest rate (CCIR) swap agreement which occurs after the effective date of a functional currency choice, subject to the two step translation under section 960-85 of the Income Tax Assessment Act 1997 (ITAA 1997), where the CCIR swap agreement was entered into before the effective date of the functional currency choice made under item 1 of subsection 960-60(1) of the ITAA 1997?
@@ -31,37 +27,31 @@ Reasons for Decision
 Section 960-85 of the ITAA 1997 states:
 
 Section 960-85 Special rule about translation
-               -
-              events that happened before the current choice took effect
-
+ -
+ events that happened before the current choice took effect
 
 Australian resident required to prepare financial reports under section 292 of the Corporations Act 2001
 
-
 960-85(1) If:
 
-
 (a)as the result of a choice (the
-                    current choice
+ current choice
 ) made by you under item 1 of the table in subsection 960-60(1), subsection 960-80(1) requires that an amount be translated to the *applicable functional currency; and
 (b)the amount is attributable to an event that happened, or a state of affairs that came into existence, at a time (the
-                    event time
+ event time
 ) before the current choice took effect;
 
 the table has effect:
 
-
 Special rule about translation
-
 
 Item
 
-
 In this case
-                      ...
+ ...
 
 this is the result
-                      ...
+ ...
 
 1
 at the event time, no previous choice made by you under item 1 of the table in subsection 960-60(1) was in effect
@@ -76,19 +66,19 @@ Taxation Ruling TR 2007/5 'Income tax: functional currency - when is an amount n
 37. A requirement for section 960-85 to apply is that an amount is 'attributable to' an event or a 'state of affairs' that predates the time the choice to use the 'applicable functional currency' takes effect.
 
 TR 2007/5 emphasises that section 960-85 of the ITAA 1997 applies only to an event or state of affairs that took place in a year of income
-          prior
-           to the effective time of a functional currency choice. This is abundantly clear from the wording in the legislation. It is equally clear, therefore, that section 960-85 has no application to an event that happens or a state of affairs that comes into existence
-          after
-           a change to (or a change of) functional currency.
+ prior
+ to the effective time of a functional currency choice. This is abundantly clear from the wording in the legislation. It is equally clear, therefore, that section 960-85 has no application to an event that happens or a state of affairs that comes into existence
+ after
+ a change to (or a change of) functional currency.
 The entry into the CCIR swap agreement requires both parties to exchange currencies at two points in time, an initial exchange on 20 June 2003, with the exchange being reversed on 31 December 2012.
 The re-exchange which occurs on 31 December 2012, whereby AustCoFinance will pay back the AUD amount to USCoHoldings who will in turn repay the USD amount, will not be subject to translation under section 960-85 of the ITAA 1997 as the events that arise on these transactions occur after the functional currency choice took effect.
 The AUD denominated amount on re-exchange will, however, be subject to the single step translation contained in subsection 960-80(1) of the ITAA 1997, as it is not in the applicable functional currency.
 Section 960-85 of the ITAA 1997 has no application to a 'post-choice' amount, event or state of affairs. The re-exchange between AustCoFinance and USCoHoldings is an event that occurs following the effective date of the functional currency choice and so gives rise to a post functional currency choice amount. As such, the amount is not subject to the two step translation under subsection 960-85(1) of the ITAA 1997.
 Date of decision:
-         20 January 2010
+  20 January 2010
 
 Year of income:
-           Year ending 30 June 2010 Year ending 30 June 2011 Year ending 30 June 2012 Year ending 30 June 2013
+  Year ending 30 June 2010 Year ending 30 June 2011 Year ending 30 June 2012 Year ending 30 June 2013
 
 Legislative References:
 
@@ -101,19 +91,18 @@ Taxation Ruling TR 2007/5
 Keywords
 
 Applicable functional currency
-          Interest rate swaps
-          Currency swaps
-          Functional currency choice
-
+ Interest rate swaps
+ Currency swaps
+ Functional currency choice
 
 Siebel/TDMS Reference Number:
-         1-1UWFTDP
+  1-1UWFTDP
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         19 February 2010
+  19 February 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

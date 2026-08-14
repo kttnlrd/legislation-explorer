@@ -9,7 +9,7 @@ paragraph: "¶21-290"
 
 In addition to its impact on the sheltered income of CFCs, the accruals taxation system also attacks tax avoidance/deferral arising from the accumulation of foreign source income in non-resident trust estates with Australian resident beneﬁciaries. The main elements in the accruals taxation and related measures aﬀecting non-resident trusts contained in ITAA36 Div 6AAA (ss 102AAA to 102AAZG) are:
 
-- the “transferor trust” measures which impose accruals taxation by attributing to an Australian
+- the "transferor trust" measures which impose accruals taxation by attributing to an Australian
 
   resident income derived by a non-resident trust estate to which the Australian resident transferred
 

@@ -14,11 +14,11 @@ compilation_date: 2026-06-06
 
 **(1)**  In the rules for life insurers, claim—
 
-- (a) means the amount that a life insurer is liable to pay under a life insurance policy because the contingency against which the life insured is covered under the policy has occurred; subsections (2) to (5) expand on “the amount that a life insurer is liable to pay”:
+- (a) means the amount that a life insurer is liable to pay under a life insurance policy because the contingency against which the life insured is covered under the policy has occurred; subsections (2) to (5) expand on "the amount that a life insurer is liable to pay":
 
 - (b) excludes a payment made by a life insurer on the transfer of some or all of its life insurance business:
 
-- (c) in the expression “claim arising”, does not have the meaning given to the word “claim” in paragraph (a) or (b).
+- (c) in the expression "claim arising", does not have the meaning given to the word "claim" in paragraph (a) or (b).
 
 **Cash and non-cash benefits**
 

@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # RI 4  Rate of TSWT
 
-The amount of TSWT that the transfer scheme must withhold and pay to the Commissioner for a person is calculated by multiplying the person’s assessable withdrawal amount by 0.28.
+The amount of TSWT that the transfer scheme must withhold and pay to the Commissioner for a person is calculated by multiplying the person's assessable withdrawal amount by 0.28.
 
 *Defined in this Act: amount, assessable withdrawal amount, Commissioner, pay, transfer scheme, TSWT*
 

@@ -3,23 +3,19 @@ ATO ID 2003/1041
 ==================================================
 
 Income Tax
-        Debt/Equity:  whether short term trade finance gives rise to debt interest exception under Division 974
-        FOI status: may be released
-
-
+ Debt/Equity: whether short term trade finance gives rise to debt interest exception under Division 974
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will trade finance borrowings under a short-term trade finance facility that is a debt interest under Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997), be excepted from being a debt interest under section 974-25 of the ITAA 1997?
 Decision
-No.  The short term trade finance facility will not be excepted from being a debt interest under section 974-25 of the ITAA 1997 because it does not satisfy the requirements set out in that section.
+No. The short term trade finance facility will not be excepted from being a debt interest under section 974-25 of the ITAA 1997 because it does not satisfy the requirements set out in that section.
 Facts
 The taxpayer's main business activity consists of importing and exporting commodities. The taxpayer buys and on-sells these commodities. Commonly, there is a timing mismatch between the time of purchase and sale. The contracts for the acquisition and sale of commodities are financed by a short-term trade finance facility.
 The short-term trade finance facility allows the taxpayer to direct the financier to issue a letter of credit in favour of the supplier and to then pay the supplier once the financier is satisfied that the commodities are available and ready for delivery. In return for issuing the letter of credit, the taxpayer undertakes to pay the financier, an amount equal to the sum advanced by the financier to the supplier, including interest and reimbursement of expenses incurred by the financier. Under the short-term trade finance facility, the funds cannot be used for any other purpose except for international trade transactions.
@@ -27,24 +23,22 @@ The trade finance facility between the taxpayer and the financier limits the ter
 Reasons for Decision
 To determine whether a scheme falls within the debt interest exception as set out in subsection 974-25(1) of the ITAA 1997 it is necessary to determine that:
 
-
-
 1. at least a substantial part of the financial benefit (as defined in section 974-160 of the ITAA 1997) does
-                not
-                 consist of either (or a combination of the following) a liquid or monetary asset or an amount of money (subparagraphs 975-25(1)(a)(i) and 975-25(1)(a)(ii) of the ITAA 1997); and
+ not
+ consist of either (or a combination of the following) a liquid or monetary asset or an amount of money (subparagraphs 975-25(1)(a)(i) and 975-25(1)(a)(ii) of the ITAA 1997); and
 2. under the scheme(s) the financial benefit that the issuer, or a connected entity of the issuer, has an effectively non-contingent obligation to provide, to be provided within a period of no more than 100 days from when the issuer, or a connected entity, first received the financial benefit under that scheme(s). The only exception to this requirement is where the issuer is required to provide that financial benefit within the 100 day period and neglects to do so or in unable to do so (although willing to do so) (paragraph 974-25(1)(b) and subparagraphs 974-25(1)(c)(i), 974-25(1)(c)(ii) and 974-25(1)(c)(iii) of the ITAA 1997); and
 3. the scheme is not one of several related schemes that together are taken to give rise to a debt interest as defined under subsection 974-15(2) of the ITAA 1997 (paragraph 975-25(1)(d) of the ITAA 1997).
 
 In the present case the scheme (as defined in subsection 995-1(1) of the ITAA 1997) is the short-term trade finance facility.
 Whilst the trade finance borrowings under the short-term trade finance facility might be paid within 100 days, the scheme fails the first condition that a substantial part of the financial benefit provided is
-          not
-           a liquid or monetary asset (subparagraph 974-25(1)(a)(i) of the ITAA 1997). The letter of credit available under the trade finance facility would constitute a monetary or liquid asset because the letter of credit is equivalent to money or money's worth. The financial benefit the taxpayer receives is the money or credit provided by the financier to the supplier on the taxpayer's behalf and is taken to have been provided to the taxpayer (subsection 974-30(2) of the ITAA 1997).
+ not
+ a liquid or monetary asset (subparagraph 974-25(1)(a)(i) of the ITAA 1997). The letter of credit available under the trade finance facility would constitute a monetary or liquid asset because the letter of credit is equivalent to money or money's worth. The financial benefit the taxpayer receives is the money or credit provided by the financier to the supplier on the taxpayer's behalf and is taken to have been provided to the taxpayer (subsection 974-30(2) of the ITAA 1997).
 Therefore, the scheme comprising of the short term borrowings will not satisfy the exception to the debt test.
 Date of decision:
-         20 October 2003
+  20 October 2003
 
 Year of income:
-           Year ended 31 December 2002
+  Year ended 31 December 2002
 
 Legislative References:
 
@@ -58,18 +52,17 @@ Related ATO Interpretative Decisions
 Keywords
 
 Debt test
-          Short term schemes
-          Debt equity borderline
-
+ Short term schemes
+ Debt equity borderline
 
 Siebel/TDMS Reference Number:
-         3718376
+  3718376
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         21 November 2003
+  21 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

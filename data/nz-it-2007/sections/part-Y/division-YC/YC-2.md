@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Percentage of shareholder decision-making rights**
 
-**(1)**  A person’s voting interest in a company equals the percentage of the total shareholder decision-making rights for the company carried by shares or options held by the person.
+**(1)**  A person's voting interest in a company equals the percentage of the total shareholder decision-making rights for the company carried by shares or options held by the person.
 
 **When decision-making rights vary**
 
-**(2)**  Despite subsection (1), if the percentage of shareholder decision-making rights for a company carried by shares or options held by any person differs as between the types of decision-making listed in the definition of shareholder decision-making right, the person’s voting interest in the company equals the average of those differing percentages.
+**(2)**  Despite subsection (1), if the percentage of shareholder decision-making rights for a company carried by shares or options held by any person differs as between the types of decision-making listed in the definition of shareholder decision-making right, the person's voting interest in the company equals the average of those differing percentages.
 
 *Defined in this Act: company, share, shareholder decision-making right, voting interest*
 

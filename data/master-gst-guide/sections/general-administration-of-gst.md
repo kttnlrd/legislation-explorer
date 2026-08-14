@@ -27,7 +27,7 @@ The Commissioner of Taxation, as the head of the Australian Taxation Office (ATO
 
   Penalty units
 
-Generally, the penalties imposed by the Administration Act are expressed as being a certain number of “penalty units”. The value of a penalty unit for offences committed in the past 4 financial years is:
+Generally, the penalties imposed by the Administration Act are expressed as being a certain number of "penalty units". The value of a penalty unit for offences committed in the past 4 financial years is:
 
 - $330 for offences committed from 7 November 2024
 
@@ -75,6 +75,6 @@ The ATO Charter, available from the ATO website, sets out the standards that tax
 
 - respect your right to a review.
 
-## The term “GST law” includes following legislation that relates to GST:
+## The term "GST law" includes following legislation that relates to GST:
 
 ## ATO to:

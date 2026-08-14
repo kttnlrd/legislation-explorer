@@ -269,34 +269,16 @@
     "anchor": "s995-1-adjusted-average-debt",
     "act": "ITAA 1997"
   },
-  "adjusted average equity capital": {
-    "term": "adjusted average equity capital",
-    "section": "995-1",
-    "anchor": "s995-1-adjusted-average-equity-capital",
-    "act": "ITAA 1997"
-  },
   "adjusted net third party interest expense": {
     "term": "adjusted net third party interest expense",
     "section": "995-1",
     "anchor": "s995-1-adjusted-net-third-party-interest-expense",
     "act": "ITAA 1997"
   },
-  "adjusted on-lent amount": {
-    "term": "adjusted on-lent amount",
-    "section": "995-1",
-    "anchor": "s995-1-adjusted-on-lent-amount",
-    "act": "ITAA 1997"
-  },
   "withholding income": {
     "term": "withholding income",
     "section": "995-1",
     "anchor": "s995-1-withholding-income",
-    "act": "ITAA 1997"
-  },
-  "adjusted taxable income": {
-    "term": "adjusted taxable income",
-    "section": "995-1",
-    "anchor": "s995-1-adjusted-taxable-income",
     "act": "ITAA 1997"
   },
   "adjusted taxable income for offsets": {
@@ -309,12 +291,6 @@
     "term": "adjusted unrealised loss at an alteration time for a company",
     "section": "995-1",
     "anchor": "s995-1-adjusted-unrealised-loss-at-an-alteration-time-for-a-company",
-    "act": "ITAA 1997"
-  },
-  "adjusted withholding income": {
-    "term": "adjusted withholding income",
-    "section": "995-1",
-    "anchor": "s995-1-adjusted-withholding-income",
     "act": "ITAA 1997"
   },
   "adopted child of a person": {
@@ -521,12 +497,6 @@
     "anchor": "s995-1-annual-investment-income-report",
     "act": "ITAA 1997"
   },
-  "annual payer": {
-    "term": "annual payer",
-    "section": "995-1",
-    "anchor": "s995-1-annual-payer",
-    "act": "ITAA 1997"
-  },
   "annual tax period election": {
     "term": "annual tax period election",
     "section": "995-1",
@@ -593,12 +563,6 @@
     "anchor": "s995-1-approved-deposit-fund-payment",
     "act": "ITAA 1997"
   },
-  "approved form": {
-    "term": "approved form",
-    "section": "995-1",
-    "anchor": "s995-1-approved-form",
-    "act": "ITAA 1997"
-  },
   "approved management plan for land": {
     "term": "approved management plan for land",
     "section": "995-1",
@@ -633,6 +597,12 @@
     "term": "area covered by an international tax sharing treaty",
     "section": "995-1",
     "anchor": "s995-1-area-covered-by-an-international-tax-sharing-treaty",
+    "act": "ITAA 1997"
+  },
+  "arm's length": {
+    "term": "arm's length",
+    "section": "995-1",
+    "anchor": "s995-1-arms-length",
     "act": "ITAA 1997"
   },
   "arrangement": {
@@ -693,18 +663,6 @@
     "term": "ASIC",
     "section": "995-1",
     "anchor": "s995-1-asic",
-    "act": "ITAA 1997"
-  },
-  "assessable amount": {
-    "term": "assessable amount",
-    "section": "995-1",
-    "anchor": "s995-1-assessable-amount",
-    "act": "ITAA 1997"
-  },
-  "assessable income": {
-    "term": "assessable income",
-    "section": "995-1",
-    "anchor": "s995-1-assessable-income",
     "act": "ITAA 1997"
   },
   "assessable non-primary production income": {
@@ -1079,18 +1037,6 @@
     "anchor": "s995-1-available-expense",
     "act": "ITAA 1997"
   },
-  "available fraction for a bundle of losses": {
-    "term": "available fraction for a bundle of losses",
-    "section": "995-1",
-    "anchor": "s995-1-available-fraction-for-a-bundle-of-losses",
-    "act": "ITAA 1997"
-  },
-  "available frankable profits": {
-    "term": "available frankable profits",
-    "section": "995-1",
-    "anchor": "s995-1-available-frankable-profits",
-    "act": "ITAA 1997"
-  },
   "available income": {
     "term": "available income",
     "section": "995-1",
@@ -1133,34 +1079,16 @@
     "anchor": "s995-1-bas-amount",
     "act": "ITAA 1997"
   },
-  "base assessment": {
-    "term": "base assessment",
-    "section": "995-1",
-    "anchor": "s995-1-base-assessment",
-    "act": "ITAA 1997"
-  },
   "base interest rate": {
     "term": "base interest rate",
     "section": "995-1",
     "anchor": "s995-1-base-interest-rate",
     "act": "ITAA 1997"
   },
-  "base penalty amount": {
-    "term": "base penalty amount",
-    "section": "995-1",
-    "anchor": "s995-1-base-penalty-amount",
-    "act": "ITAA 1997"
-  },
   "basic assessable income": {
     "term": "basic assessable income",
     "section": "995-1",
     "anchor": "s995-1-basic-assessable-income",
-    "act": "ITAA 1997"
-  },
-  "basic concessional contributions cap": {
-    "term": "basic concessional contributions cap",
-    "section": "995-1",
-    "anchor": "s995-1-basic-concessional-contributions-cap",
     "act": "ITAA 1997"
   },
   "basic rates": {
@@ -1191,24 +1119,6 @@
     "term": "benchmark franking percentage",
     "section": "995-1",
     "anchor": "s995-1-benchmark-franking-percentage",
-    "act": "ITAA 1997"
-  },
-  "benchmark instalment rate": {
-    "term": "benchmark instalment rate",
-    "section": "995-1",
-    "anchor": "s995-1-benchmark-instalment-rate",
-    "act": "ITAA 1997"
-  },
-  "benchmark rate of return for an interest": {
-    "term": "benchmark rate of return for an interest",
-    "section": "995-1",
-    "anchor": "s995-1-benchmark-rate-of-return-for-an-interest",
-    "act": "ITAA 1997"
-  },
-  "benchmark tax": {
-    "term": "benchmark tax",
-    "section": "995-1",
-    "anchor": "s995-1-benchmark-tax",
     "act": "ITAA 1997"
   },
   "bereavement subdivision": {
@@ -1311,12 +1221,6 @@
     "term": "business continuity test",
     "section": "995-1",
     "anchor": "s995-1-business-continuity-test",
-    "act": "ITAA 1997"
-  },
-  "business continuity test period": {
-    "term": "business continuity test period",
-    "section": "995-1",
-    "anchor": "s995-1-business-continuity-test-period",
     "act": "ITAA 1997"
   },
   "business day": {
@@ -1497,12 +1401,6 @@
     "term": "CCIV sub-fund trust",
     "section": "995-1",
     "anchor": "s995-1-cciv-sub-fund-trust",
-    "act": "ITAA 1997"
-  },
-  "cease to be an active build to rent development": {
-    "term": "cease to be an active build to rent development",
-    "section": "995-1",
-    "anchor": "s995-1-cease-to-be-an-active-build-to-rent-development",
     "act": "ITAA 1997"
   },
   "cfc": {
@@ -1697,12 +1595,6 @@
     "anchor": "s995-1-commissioner",
     "act": "ITAA 1997"
   },
-  "committed capital of a partnership": {
-    "term": "committed capital of a partnership",
-    "section": "995-1",
-    "anchor": "s995-1-committed-capital-of-a-partnership",
-    "act": "ITAA 1997"
-  },
   "common ownership": {
     "term": "common ownership",
     "section": "995-1",
@@ -1877,12 +1769,6 @@
     "anchor": "s995-1-concessional-contributions-cap",
     "act": "ITAA 1997"
   },
-  "concessional cross staple rent cap": {
-    "term": "concessional cross staple rent cap",
-    "section": "995-1",
-    "anchor": "s995-1-concessional-cross-staple-rent-cap",
-    "act": "ITAA 1997"
-  },
   "conduit foreign income": {
     "term": "conduit foreign income",
     "section": "995-1",
@@ -1961,12 +1847,6 @@
     "anchor": "s995-1-contingent-on-aspects-of-the-economic-performance",
     "act": "ITAA 1997"
   },
-  "continuing shareholders": {
-    "term": "continuing shareholders",
-    "section": "995-1",
-    "anchor": "s995-1-continuing-shareholders",
-    "act": "ITAA 1997"
-  },
   "continuous disability policy": {
     "term": "continuous disability policy",
     "section": "995-1",
@@ -1989,12 +1869,6 @@
     "term": "control a non-fixed trust",
     "section": "995-1",
     "anchor": "s995-1-control-a-non-fixed-trust",
-    "act": "ITAA 1997"
-  },
-  "control (for value shifting purposes)": {
-    "term": "control (for value shifting purposes)",
-    "section": "995-1",
-    "anchor": "s995-1-control-for-value-shifting-purposes",
     "act": "ITAA 1997"
   },
   "controlled foreign company": {
@@ -2159,12 +2033,6 @@
     "anchor": "s995-1-credit-reporting-bureau",
     "act": "ITAA 1997"
   },
-  "critical mineral": {
-    "term": "critical mineral",
-    "section": "995-1",
-    "anchor": "s995-1-critical-mineral",
-    "act": "ITAA 1997"
-  },
   "cross staple arrangement": {
     "term": "cross staple arrangement",
     "section": "995-1",
@@ -2181,12 +2049,6 @@
     "term": "CRS (short for Common Reporting Standard)",
     "section": "995-1",
     "anchor": "s995-1-crs-short-for-common-reporting-standard",
-    "act": "ITAA 1997"
-  },
-  "crs commentary": {
-    "term": "CRS Commentary",
-    "section": "995-1",
-    "anchor": "s995-1-crs-commentary",
     "act": "ITAA 1997"
   },
   "crystallised reduction amount": {
@@ -2369,12 +2231,6 @@
     "anchor": "s995-1-deferred-roll-over-loss",
     "act": "ITAA 1997"
   },
-  "deferred superannuation income stream": {
-    "term": "deferred superannuation income stream",
-    "section": "995-1",
-    "anchor": "s995-1-deferred-superannuation-income-stream",
-    "act": "ITAA 1997"
-  },
   "defined benefit contributions": {
     "term": "defined benefit contributions",
     "section": "995-1",
@@ -2481,6 +2337,12 @@
     "term": "derivative financial arrangement",
     "section": "995-1",
     "anchor": "s995-1-derivative-financial-arrangement",
+    "act": "ITAA 1997"
+  },
+  "derive": {
+    "term": "derive",
+    "section": "995-1",
+    "anchor": "s995-1-derive",
     "act": "ITAA 1997"
   },
   "design of a uniform": {
@@ -2819,12 +2681,6 @@
     "anchor": "s995-1-education-direction",
     "act": "ITAA 1997"
   },
-  "effective life": {
-    "term": "effective life",
-    "section": "995-1",
-    "anchor": "s995-1-effective-life",
-    "act": "ITAA 1997"
-  },
   "effectively non-cancellable": {
     "term": "effectively non-cancellable",
     "section": "995-1",
@@ -2955,12 +2811,6 @@
     "term": "end benefit",
     "section": "995-1",
     "anchor": "s995-1-end-benefit",
-    "act": "ITAA 1997"
-  },
-  "endowment policy": {
-    "term": "endowment policy",
-    "section": "995-1",
-    "anchor": "s995-1-endowment-policy",
     "act": "ITAA 1997"
   },
   "end user of an asset": {
@@ -3105,12 +2955,6 @@
     "term": "excess non-concessional contributions tax",
     "section": "995-1",
     "anchor": "s995-1-excess-non-concessional-contributions-tax",
-    "act": "ITAA 1997"
-  },
-  "excess non-concessional contributions tax assessment": {
-    "term": "excess non-concessional contributions tax assessment",
-    "section": "995-1",
-    "anchor": "s995-1-excess-non-concessional-contributions-tax-assessment",
     "act": "ITAA 1997"
   },
   "excess tax ebitda amount": {
@@ -3275,12 +3119,6 @@
     "anchor": "s995-1-exempting-deficit",
     "act": "ITAA 1997"
   },
-  "exempting entity": {
-    "term": "exempting entity",
-    "section": "995-1",
-    "anchor": "s995-1-exempting-entity",
-    "act": "ITAA 1997"
-  },
   "exempting percentage": {
     "term": "exempting percentage",
     "section": "995-1",
@@ -3333,6 +3171,12 @@
     "term": "exploration investment",
     "section": "995-1",
     "anchor": "s995-1-exploration-investment",
+    "act": "ITAA 1997"
+  },
+  "exploration or prospecting": {
+    "term": "exploration or prospecting",
+    "section": "995-1",
+    "anchor": "s995-1-exploration-or-prospecting",
     "act": "ITAA 1997"
   },
   "of a consolidated group or mec group": {
@@ -3423,12 +3267,6 @@
     "term": "feedstock revenue",
     "section": "995-1",
     "anchor": "s995-1-feedstock-revenue",
-    "act": "ITAA 1997"
-  },
-  "fencing asset": {
-    "term": "fencing asset",
-    "section": "995-1",
-    "anchor": "s995-1-fencing-asset",
     "act": "ITAA 1997"
   },
   "fhss eligible concessional contribution for a financial year": {
@@ -4145,12 +3983,6 @@
     "anchor": "s995-1-fund-payment",
     "act": "ITAA 1997"
   },
-  "fund-raising event": {
-    "term": "fund-raising event",
-    "section": "995-1",
-    "anchor": "s995-1-fund-raising-event",
-    "act": "ITAA 1997"
-  },
   "funeral policy": {
     "term": "funeral policy",
     "section": "995-1",
@@ -4349,6 +4181,12 @@
     "anchor": "s995-1-granny-flat-interest",
     "act": "ITAA 1997"
   },
+  "greater benefit from franking credits": {
+    "term": "greater benefit from franking credits",
+    "section": "995-1",
+    "anchor": "s995-1-greater-benefit-from-franking-credits",
+    "act": "ITAA 1997"
+  },
   "greenfields minerals expenditure": {
     "term": "greenfields minerals expenditure",
     "section": "995-1",
@@ -4487,12 +4325,6 @@
     "anchor": "s995-1-gst-turnover",
     "act": "ITAA 1997"
   },
-  "use": {
-    "term": "use",
-    "section": "995-1",
-    "anchor": "s995-1-use",
-    "act": "ITAA 1997"
-  },
   "guide": {
     "term": "Guide",
     "section": "995-1",
@@ -4521,12 +4353,6 @@
     "term": "hedged item",
     "section": "995-1",
     "anchor": "s995-1-hedged-item",
-    "act": "ITAA 1997"
-  },
-  "hedging financial arrangement": {
-    "term": "hedging financial arrangement",
-    "section": "995-1",
-    "anchor": "s995-1-hedging-financial-arrangement",
     "act": "ITAA 1997"
   },
   "hedging financial arrangement election": {
@@ -4613,12 +4439,6 @@
     "anchor": "s995-1-hybrid-financial-instrument-mismatch",
     "act": "ITAA 1997"
   },
-  "hybrid mismatch": {
-    "term": "hybrid mismatch",
-    "section": "995-1",
-    "anchor": "s995-1-hybrid-mismatch",
-    "act": "ITAA 1997"
-  },
   "hybrid payer": {
     "term": "hybrid payer",
     "section": "995-1",
@@ -4671,12 +4491,6 @@
     "term": "import declaration advice",
     "section": "995-1",
     "anchor": "s995-1-import-declaration-advice",
-    "act": "ITAA 1997"
-  },
-  "imported hybrid mismatch": {
-    "term": "imported hybrid mismatch",
-    "section": "995-1",
-    "anchor": "s995-1-imported-hybrid-mismatch",
     "act": "ITAA 1997"
   },
   "improvement threshold": {
@@ -4773,12 +4587,6 @@
     "term": "income tax return",
     "section": "995-1",
     "anchor": "s995-1-income-tax-return",
-    "act": "ITAA 1997"
-  },
-  "income year": {
-    "term": "income year",
-    "section": "995-1",
-    "anchor": "s995-1-income-year",
     "act": "ITAA 1997"
   },
   "in connection with": {
@@ -5009,12 +4817,6 @@
     "anchor": "s995-1-in-house-dining-facility",
     "act": "ITAA 1997"
   },
-  "initial participant in a forestry managed investment scheme": {
-    "term": "initial participant in a forestry managed investment scheme",
-    "section": "995-1",
-    "anchor": "s995-1-initial-participant-in-a-forestry-managed-investment-scheme",
-    "act": "ITAA 1997"
-  },
   "injected amount": {
     "term": "injected amount",
     "section": "995-1",
@@ -5043,12 +4845,6 @@
     "term": "instalment group",
     "section": "995-1",
     "anchor": "s995-1-instalment-group",
-    "act": "ITAA 1997"
-  },
-  "instalment income": {
-    "term": "instalment income",
-    "section": "995-1",
-    "anchor": "s995-1-instalment-income",
     "act": "ITAA 1997"
   },
   "instalment month": {
@@ -5165,22 +4961,10 @@
     "anchor": "s995-1-inward-investing-financial-entity-non-adi",
     "act": "ITAA 1997"
   },
-  "inward investment vehicle (financial)": {
-    "term": "inward investment vehicle (financial)",
-    "section": "995-1",
-    "anchor": "s995-1-inward-investment-vehicle-financial",
-    "act": "ITAA 1997"
-  },
   "inward investor (financial)": {
     "term": "inward investor (financial)",
     "section": "995-1",
     "anchor": "s995-1-inward-investor-financial",
-    "act": "ITAA 1997"
-  },
-  "irrigation water provider": {
-    "term": "irrigation water provider",
-    "section": "995-1",
-    "anchor": "s995-1-irrigation-water-provider",
     "act": "ITAA 1997"
   },
   "ivs period": {
@@ -5465,18 +5249,6 @@
     "anchor": "s995-1-loss-carry-back-tax-offset-component",
     "act": "ITAA 1997"
   },
-  "loss denial balance of a loss denial pool of an entity": {
-    "term": "loss denial balance of a loss denial pool of an entity",
-    "section": "995-1",
-    "anchor": "s995-1-loss-denial-balance-of-a-loss-denial-pool-of-an-entity",
-    "act": "ITAA 1997"
-  },
-  "loss denial pool of an entity": {
-    "term": "loss denial pool of an entity",
-    "section": "995-1",
-    "anchor": "s995-1-loss-denial-pool-of-an-entity",
-    "act": "ITAA 1997"
-  },
   "loss exposure amount": {
     "term": "loss exposure amount",
     "section": "995-1",
@@ -5561,12 +5333,6 @@
     "anchor": "s995-1-majority-control",
     "act": "ITAA 1997"
   },
-  "majority underlying interests in a cgt asset": {
-    "term": "majority underlying interests in a CGT asset",
-    "section": "995-1",
-    "anchor": "s995-1-majority-underlying-interests-in-a-cgt-asset",
-    "act": "ITAA 1997"
-  },
   "managed investment scheme": {
     "term": "managed investment scheme",
     "section": "995-1",
@@ -5597,6 +5363,12 @@
     "anchor": "s995-1-market-integrity-rules",
     "act": "ITAA 1997"
   },
+  "market value": {
+    "term": "market value",
+    "section": "995-1",
+    "anchor": "s995-1-market-value",
+    "act": "ITAA 1997"
+  },
   "maximum exempt area": {
     "term": "maximum exempt area",
     "section": "995-1",
@@ -5613,12 +5385,6 @@
     "term": "maximum franking credit for a distribution",
     "section": "995-1",
     "anchor": "s995-1-maximum-franking-credit-for-a-distribution",
-    "act": "ITAA 1997"
-  },
-  "mbl benefit": {
-    "term": "MBL benefit",
-    "section": "995-1",
-    "anchor": "s995-1-mbl-benefit",
     "act": "ITAA 1997"
   },
   "mdo": {
@@ -5711,6 +5477,12 @@
     "anchor": "s995-1-metering-point-on-land",
     "act": "ITAA 1997"
   },
+  "minerals": {
+    "term": "minerals",
+    "section": "995-1",
+    "anchor": "s995-1-minerals",
+    "act": "ITAA 1997"
+  },
   "minerals treatment": {
     "term": "minerals treatment",
     "section": "995-1",
@@ -5783,34 +5555,10 @@
     "anchor": "s995-1-mining-withholding-tax",
     "act": "ITAA 1997"
   },
-  "mit agricultural income": {
-    "term": "MIT agricultural income",
-    "section": "995-1",
-    "anchor": "s995-1-mit-agricultural-income",
-    "act": "ITAA 1997"
-  },
-  "mit cross staple arrangement income": {
-    "term": "MIT cross staple arrangement income",
-    "section": "995-1",
-    "anchor": "s995-1-mit-cross-staple-arrangement-income",
-    "act": "ITAA 1997"
-  },
   "mit participation interest": {
     "term": "MIT participation interest",
     "section": "995-1",
     "anchor": "s995-1-mit-participation-interest",
-    "act": "ITAA 1997"
-  },
-  "mit residential housing income": {
-    "term": "MIT residential housing income",
-    "section": "995-1",
-    "anchor": "s995-1-mit-residential-housing-income",
-    "act": "ITAA 1997"
-  },
-  "mit trading trust income": {
-    "term": "MIT trading trust income",
-    "section": "995-1",
-    "anchor": "s995-1-mit-trading-trust-income",
     "act": "ITAA 1997"
   },
   "mls lump sums": {
@@ -5837,10 +5585,16 @@
     "anchor": "s995-1-moneylending-debt",
     "act": "ITAA 1997"
   },
-  "monthly payer": {
-    "term": "monthly payer",
+  "more than 50% of the company's capital distributions": {
+    "term": "more than 50% of the company's capital distributions",
     "section": "995-1",
-    "anchor": "s995-1-monthly-payer",
+    "anchor": "s995-1-more-than-50-of-the-companys-capital-distributions",
+    "act": "ITAA 1997"
+  },
+  "more than 50% of the company's dividends": {
+    "term": "more than 50% of the company's dividends",
+    "section": "995-1",
+    "anchor": "s995-1-more-than-50-of-the-companys-dividends",
     "act": "ITAA 1997"
   },
   "more than 50% of the voting power": {
@@ -5933,12 +5687,6 @@
     "anchor": "s995-1-net-capital-gain",
     "act": "ITAA 1997"
   },
-  "net capital loss": {
-    "term": "net capital loss",
-    "section": "995-1",
-    "anchor": "s995-1-net-capital-loss",
-    "act": "ITAA 1997"
-  },
   "net current termination value of a life insurance policy": {
     "term": "net current termination value of a life insurance policy",
     "section": "995-1",
@@ -5949,12 +5697,6 @@
     "term": "net debt deductions",
     "section": "995-1",
     "anchor": "s995-1-net-debt-deductions",
-    "act": "ITAA 1997"
-  },
-  "net exempt income": {
-    "term": "net exempt income",
-    "section": "995-1",
-    "anchor": "s995-1-net-exempt-income",
     "act": "ITAA 1997"
   },
   "net fuel amount": {
@@ -6035,10 +5777,22 @@
     "anchor": "s995-1-new-zealand-sourced-amount",
     "act": "ITAA 1997"
   },
-  "non-adi financial institution": {
-    "term": "non-ADI financial institution",
+  "non-arm's length component": {
+    "term": "non-arm's length component",
     "section": "995-1",
-    "anchor": "s995-1-non-adi-financial-institution",
+    "anchor": "s995-1-non-arms-length-component",
+    "act": "ITAA 1997"
+  },
+  "non-arm's length income": {
+    "term": "non-arm's length income",
+    "section": "995-1",
+    "anchor": "s995-1-non-arms-length-income",
+    "act": "ITAA 1997"
+  },
+  "non-arm's length limited recourse debt": {
+    "term": "non-arm's length limited recourse debt",
+    "section": "995-1",
+    "anchor": "s995-1-non-arms-length-limited-recourse-debt",
     "act": "ITAA 1997"
   },
   "non-assessable non-exempt income": {
@@ -6233,12 +5987,6 @@
     "anchor": "s995-1-notional-seller",
     "act": "ITAA 1997"
   },
-  "notional tax": {
-    "term": "notional tax",
-    "section": "995-1",
-    "anchor": "s995-1-notional-tax",
-    "act": "ITAA 1997"
-  },
   "notional taxable income": {
     "term": "notional taxable income",
     "section": "995-1",
@@ -6341,18 +6089,6 @@
     "anchor": "s995-1-offshore-document",
     "act": "ITAA 1997"
   },
-  "offshore hybrid mismatch": {
-    "term": "offshore hybrid mismatch",
-    "section": "995-1",
-    "anchor": "s995-1-offshore-hybrid-mismatch",
-    "act": "ITAA 1997"
-  },
-  "offshore information": {
-    "term": "offshore information",
-    "section": "995-1",
-    "anchor": "s995-1-offshore-information",
-    "act": "ITAA 1997"
-  },
   "on-market buy-back": {
     "term": "on-market buy-back",
     "section": "995-1",
@@ -6419,22 +6155,10 @@
     "anchor": "s995-1-ordinary-investment-policy",
     "act": "ITAA 1997"
   },
-  "this kind of a payment": {
-    "term": "this kind of a payment",
-    "section": "995-1",
-    "anchor": "s995-1-this-kind-of-a-payment",
-    "act": "ITAA 1997"
-  },
   "day": {
     "term": "day",
     "section": "995-1",
     "anchor": "s995-1-day",
-    "act": "ITAA 1997"
-  },
-  "original franking assessment day": {
-    "term": "original franking assessment day",
-    "section": "995-1",
-    "anchor": "s995-1-original-franking-assessment-day",
     "act": "ITAA 1997"
   },
   "outstanding foreign hybrid net capital loss amount": {
@@ -6459,12 +6183,6 @@
     "term": "outward investing entity (ADI)",
     "section": "995-1",
     "anchor": "s995-1-outward-investing-entity-adi",
-    "act": "ITAA 1997"
-  },
-  "outward investing financial entity (non-adi)": {
-    "term": "outward investing financial entity (non-ADI)",
-    "section": "995-1",
-    "anchor": "s995-1-outward-investing-financial-entity-non-adi",
     "act": "ITAA 1997"
   },
   "over-franking tax": {
@@ -6501,12 +6219,6 @@
     "term": "ownership period of a dwelling",
     "section": "995-1",
     "anchor": "s995-1-ownership-period-of-a-dwelling",
-    "act": "ITAA 1997"
-  },
-  "ownership test period": {
-    "term": "ownership test period",
-    "section": "995-1",
-    "anchor": "s995-1-ownership-test-period",
     "act": "ITAA 1997"
   },
   "ownership test time": {
@@ -6563,10 +6275,10 @@
     "anchor": "s995-1-partnership-loss",
     "act": "ITAA 1997"
   },
-  "part of a distribution that is franked with an exempting credit": {
-    "term": "part of a distribution that is franked with an exempting credit",
+  "partner's proportion": {
+    "term": "partner's proportion",
     "section": "995-1",
-    "anchor": "s995-1-part-of-a-distribution-that-is-franked-with-an-exempting-credit",
+    "anchor": "s995-1-partners-proportion",
     "act": "ITAA 1997"
   },
   "part of a distribution that is franked with a venture capital credit": {
@@ -6591,12 +6303,6 @@
     "term": "PAYG instalment period",
     "section": "995-1",
     "anchor": "s995-1-payg-instalment-period",
-    "act": "ITAA 1997"
-  },
-  "payg instalment variation credit": {
-    "term": "PAYG instalment variation credit",
-    "section": "995-1",
-    "anchor": "s995-1-payg-instalment-variation-credit",
     "act": "ITAA 1997"
   },
   "payg payment period": {
@@ -6675,12 +6381,6 @@
     "term": "performing artist",
     "section": "995-1",
     "anchor": "s995-1-performing-artist",
-    "act": "ITAA 1997"
-  },
-  "periodic aggregate tax information": {
-    "term": "periodic aggregate tax information",
-    "section": "995-1",
-    "anchor": "s995-1-periodic-aggregate-tax-information",
     "act": "ITAA 1997"
   },
   "period of the loan": {
@@ -6815,6 +6515,12 @@
     "anchor": "s995-1-plant",
     "act": "ITAA 1997"
   },
+  "policy owners' retained profits for life insurance policies": {
+    "term": "policy owners' retained profits for life insurance policies",
+    "section": "995-1",
+    "anchor": "s995-1-policy-owners-retained-profits-for-life-insurance-policies",
+    "act": "ITAA 1997"
+  },
   "pooled development fund": {
     "term": "pooled development fund",
     "section": "995-1",
@@ -6825,18 +6531,6 @@
     "term": "pooled superannuation trust",
     "section": "995-1",
     "anchor": "s995-1-pooled-superannuation-trust",
-    "act": "ITAA 1997"
-  },
-  "pool of construction expenditure": {
-    "term": "pool of construction expenditure",
-    "section": "995-1",
-    "anchor": "s995-1-pool-of-construction-expenditure",
-    "act": "ITAA 1997"
-  },
-  "position to affect rights": {
-    "term": "position to affect rights",
-    "section": "995-1",
-    "anchor": "s995-1-position-to-affect-rights",
     "act": "ITAA 1997"
   },
   "post-amma actual payment": {
@@ -6851,12 +6545,6 @@
     "anchor": "s995-1-post-cgt-asset",
     "act": "ITAA 1997"
   },
-  "post-choice nz franking company": {
-    "term": "post-choice NZ franking company",
-    "section": "995-1",
-    "anchor": "s995-1-post-choice-nz-franking-company",
-    "act": "ITAA 1997"
-  },
   "potential mec group": {
     "term": "potential MEC group",
     "section": "995-1",
@@ -6867,12 +6555,6 @@
     "term": "potential residential land",
     "section": "995-1",
     "anchor": "s995-1-potential-residential-land",
-    "act": "ITAA 1997"
-  },
-  "ppl superannuation contribution payment": {
-    "term": "PPL superannuation contribution payment",
-    "section": "995-1",
-    "anchor": "s995-1-ppl-superannuation-contribution-payment",
     "act": "ITAA 1997"
   },
   "pre-amma actual payment": {
@@ -6917,12 +6599,6 @@
     "anchor": "s995-1-predominantly-services-indirect-value-shift",
     "act": "ITAA 1997"
   },
-  "pre-existing audited book value of a depreciating asset": {
-    "term": "pre-existing audited book value of a depreciating asset",
-    "section": "995-1",
-    "anchor": "s995-1-pre-existing-audited-book-value-of-a-depreciating-asset",
-    "act": "ITAA 1997"
-  },
   "pre-owned": {
     "term": "pre-owned",
     "section": "995-1",
@@ -6945,6 +6621,12 @@
     "term": "prescribed excluded STB",
     "section": "995-1",
     "anchor": "s995-1-prescribed-excluded-stb",
+    "act": "ITAA 1997"
+  },
+  "present value of a financial benefit": {
+    "term": "present value of a financial benefit",
+    "section": "995-1",
+    "anchor": "s995-1-present-value-of-a-financial-benefit",
     "act": "ITAA 1997"
   },
   "preservation age": {
@@ -7053,12 +6735,6 @@
     "term": "private company",
     "section": "995-1",
     "anchor": "s995-1-private-company",
-    "act": "ITAA 1997"
-  },
-  "private ruling": {
-    "term": "private ruling",
-    "section": "995-1",
-    "anchor": "s995-1-private-ruling",
     "act": "ITAA 1997"
   },
   "privatised asset": {
@@ -7253,12 +6929,6 @@
     "anchor": "s995-1-provide-a-fringe-benefit-or-economic-benefit",
     "act": "ITAA 1997"
   },
-  "provide affordable housing": {
-    "term": "provide affordable housing",
-    "section": "995-1",
-    "anchor": "s995-1-provide-affordable-housing",
-    "act": "ITAA 1997"
-  },
   "provides medical indemnity cover": {
     "term": "provides medical indemnity cover",
     "section": "995-1",
@@ -7325,12 +6995,6 @@
     "anchor": "s995-1-public-official",
     "act": "ITAA 1997"
   },
-  "public ruling": {
-    "term": "public ruling",
-    "section": "995-1",
-    "anchor": "s995-1-public-ruling",
-    "act": "ITAA 1997"
-  },
   "public sector superannuation scheme": {
     "term": "public sector superannuation scheme",
     "section": "995-1",
@@ -7347,12 +7011,6 @@
     "term": "purpose of producing assessable income",
     "section": "995-1",
     "anchor": "s995-1-purpose-of-producing-assessable-income",
-    "act": "ITAA 1997"
-  },
-  "purposes of the project wickenby taskforce": {
-    "term": "purposes of the Project Wickenby taskforce",
-    "section": "995-1",
-    "anchor": "s995-1-purposes-of-the-project-wickenby-taskforce",
     "act": "ITAA 1997"
   },
   "qualifying australian development expenditure": {
@@ -7449,12 +7107,6 @@
     "term": "RBA",
     "section": "995-1",
     "anchor": "s995-1-rba",
-    "act": "ITAA 1997"
-  },
-  "rba surplus": {
-    "term": "RBA surplus",
-    "section": "995-1",
-    "anchor": "s995-1-rba-surplus",
     "act": "ITAA 1997"
   },
   "realisation event": {
@@ -7563,6 +7215,12 @@
     "term": "reduced net asset amount",
     "section": "995-1",
     "anchor": "s995-1-reduced-net-asset-amount",
+    "act": "ITAA 1997"
+  },
+  "income year": {
+    "term": "income year",
+    "section": "995-1",
+    "anchor": "s995-1-income-year",
     "act": "ITAA 1997"
   },
   "reduction amount": {
@@ -7833,12 +7491,6 @@
     "term": "retained cost base asset",
     "section": "995-1",
     "anchor": "s995-1-retained-cost-base-asset",
-    "act": "ITAA 1997"
-  },
-  "retention period": {
-    "term": "retention period",
-    "section": "995-1",
-    "anchor": "s995-1-retention-period",
     "act": "ITAA 1997"
   },
   "retirement phase recipient of a superannuation income stream": {
@@ -8375,12 +8027,6 @@
     "anchor": "s995-1-specialist-credit-card-institution",
     "act": "ITAA 1997"
   },
-  "special professional": {
-    "term": "special professional",
-    "section": "995-1",
-    "anchor": "s995-1-special-professional",
-    "act": "ITAA 1997"
-  },
   "specific deduction": {
     "term": "specific deduction",
     "section": "995-1",
@@ -8603,12 +8249,6 @@
     "anchor": "s995-1-subdivision-230-g-loss-from-a-financial-arrangement",
     "act": "ITAA 1997"
   },
-  "subject to australian income tax": {
-    "term": "subject to Australian income tax",
-    "section": "995-1",
-    "anchor": "s995-1-subject-to-australian-income-tax",
-    "act": "ITAA 1997"
-  },
   "subject to foreign income tax": {
     "term": "subject to foreign income tax",
     "section": "995-1",
@@ -8753,12 +8393,6 @@
     "anchor": "s995-1-superannuation-plan",
     "act": "ITAA 1997"
   },
-  "supply": {
-    "term": "supply",
-    "section": "995-1",
-    "anchor": "s995-1-supply",
-    "act": "ITAA 1997"
-  },
   "tainted": {
     "term": "tainted",
     "section": "995-1",
@@ -8793,12 +8427,6 @@
     "term": "taxable Australian real property",
     "section": "995-1",
     "anchor": "s995-1-taxable-australian-real-property",
-    "act": "ITAA 1997"
-  },
-  "taxable contributions": {
-    "term": "taxable contributions",
-    "section": "995-1",
-    "anchor": "s995-1-taxable-contributions",
     "act": "ITAA 1997"
   },
   "taxable fuel": {
@@ -8999,12 +8627,6 @@
     "anchor": "s995-1-tax-loss",
     "act": "ITAA 1997"
   },
-  "tax offset": {
-    "term": "tax offset",
-    "section": "995-1",
-    "anchor": "s995-1-tax-offset",
-    "act": "ITAA 1997"
-  },
   "tax period": {
     "term": "tax period",
     "section": "995-1",
@@ -9057,12 +8679,6 @@
     "term": "tax-related liability",
     "section": "995-1",
     "anchor": "s995-1-tax-related-liability",
-    "act": "ITAA 1997"
-  },
-  "tc control interest": {
-    "term": "TC control interest",
-    "section": "995-1",
-    "anchor": "s995-1-tc-control-interest",
     "act": "ITAA 1997"
   },
   "tc control tracing interest": {
@@ -9135,12 +8751,6 @@
     "term": "test day",
     "section": "995-1",
     "anchor": "s995-1-test-day",
-    "act": "ITAA 1997"
-  },
-  "test period": {
-    "term": "test period",
-    "section": "995-1",
-    "anchor": "s995-1-test-period",
     "act": "ITAA 1997"
   },
   "test time for the purposes of applying the business continuity test": {
@@ -9245,12 +8855,6 @@
     "anchor": "s995-1-total-net-investment-loss-of-an-individual-for-an-income-year",
     "act": "ITAA 1997"
   },
-  "total participation interest": {
-    "term": "total participation interest",
-    "section": "995-1",
-    "anchor": "s995-1-total-participation-interest",
-    "act": "ITAA 1997"
-  },
   "total superannuation balance": {
     "term": "total superannuation balance",
     "section": "995-1",
@@ -9279,12 +8883,6 @@
     "term": "tracing rule",
     "section": "995-1",
     "anchor": "s995-1-tracing-rule",
-    "act": "ITAA 1997"
-  },
-  "trading stock": {
-    "term": "trading stock",
-    "section": "995-1",
-    "anchor": "s995-1-trading-stock",
     "act": "ITAA 1997"
   },
   "trading stock loss": {
@@ -9419,12 +9017,6 @@
     "anchor": "s995-1-travel-expense",
     "act": "ITAA 1997"
   },
-  "trial year": {
-    "term": "trial year",
-    "section": "995-1",
-    "anchor": "s995-1-trial-year",
-    "act": "ITAA 1997"
-  },
   "trust restructuring period": {
     "term": "trust restructuring period",
     "section": "995-1",
@@ -9461,12 +9053,6 @@
     "anchor": "s995-1-ultimate-owner",
     "act": "ITAA 1997"
   },
-  "ultimate stake of a particular percentage": {
-    "term": "ultimate stake of a particular percentage",
-    "section": "995-1",
-    "anchor": "s995-1-ultimate-stake-of-a-particular-percentage",
-    "act": "ITAA 1997"
-  },
   "unclaimed money payment": {
     "term": "unclaimed money payment",
     "section": "995-1",
@@ -9477,18 +9063,6 @@
     "term": "unconditionally registered",
     "section": "995-1",
     "anchor": "s995-1-unconditionally-registered",
-    "act": "ITAA 1997"
-  },
-  "undeducted construction expenditure": {
-    "term": "undeducted construction expenditure",
-    "section": "995-1",
-    "anchor": "s995-1-undeducted-construction-expenditure",
-    "act": "ITAA 1997"
-  },
-  "asset": {
-    "term": "asset",
-    "section": "995-1",
-    "anchor": "s995-1-asset",
     "act": "ITAA 1997"
   },
   "under common ownership": {
@@ -9585,12 +9159,6 @@
     "term": "unutilised",
     "section": "995-1",
     "anchor": "s995-1-unutilised",
-    "act": "ITAA 1997"
-  },
-  "up interest": {
-    "term": "up interest",
-    "section": "995-1",
-    "anchor": "s995-1-up-interest",
     "act": "ITAA 1997"
   },
   "valuation standard": {
@@ -9869,6 +9437,12 @@
     "anchor": "s995-1-work-and-income-support-withholding-payments",
     "act": "ITAA 1997"
   },
+  "workers' compensation law": {
+    "term": "workers' compensation law",
+    "section": "995-1",
+    "anchor": "s995-1-workers-compensation-law",
+    "act": "ITAA 1997"
+  },
   "work expense": {
     "term": "work expense",
     "section": "995-1",
@@ -9887,12 +9461,6 @@
     "anchor": "s995-1-working-holiday-taxable-income",
     "act": "ITAA 1997"
   },
-  "work in progress amount": {
-    "term": "work in progress amount",
-    "section": "995-1",
-    "anchor": "s995-1-work-in-progress-amount",
-    "act": "ITAA 1997"
-  },
   "worldwide debt of an entity and at a particular time": {
     "term": "worldwide debt of an entity and at a particular time",
     "section": "995-1",
@@ -9903,12 +9471,6 @@
     "term": "worldwide equity of an entity and at a particular time",
     "section": "995-1",
     "anchor": "s995-1-worldwide-equity-of-an-entity-and-at-a-particular-time",
-    "act": "ITAA 1997"
-  },
-  "written down value of a depreciating asset": {
-    "term": "written down value of a depreciating asset",
-    "section": "995-1",
-    "anchor": "s995-1-written-down-value-of-a-depreciating-asset",
     "act": "ITAA 1997"
   },
   "your area": {
@@ -9933,6 +9495,534 @@
     "term": "zero-capital amount",
     "section": "995-1",
     "anchor": "s995-1-zero-capital-amount",
+    "act": "ITAA 1997"
+  },
+  "adjusted average equity capital": {
+    "term": "adjusted average equity capital",
+    "section": "995-1",
+    "anchor": "s995-1-adjusted-average-equity-capital",
+    "act": "ITAA 1997"
+  },
+  "adjusted on-lent amount": {
+    "term": "adjusted on-lent amount",
+    "section": "995-1",
+    "anchor": "s995-1-adjusted-on-lent-amount",
+    "act": "ITAA 1997"
+  },
+  "adjusted taxable income": {
+    "term": "adjusted taxable income",
+    "section": "995-1",
+    "anchor": "s995-1-adjusted-taxable-income",
+    "act": "ITAA 1997"
+  },
+  "adjusted withholding income": {
+    "term": "adjusted withholding income",
+    "section": "995-1",
+    "anchor": "s995-1-adjusted-withholding-income",
+    "act": "ITAA 1997"
+  },
+  "annual payer": {
+    "term": "annual payer",
+    "section": "995-1",
+    "anchor": "s995-1-annual-payer",
+    "act": "ITAA 1997"
+  },
+  "approved form": {
+    "term": "approved form",
+    "section": "995-1",
+    "anchor": "s995-1-approved-form",
+    "act": "ITAA 1997"
+  },
+  "assessable amount": {
+    "term": "assessable amount",
+    "section": "995-1",
+    "anchor": "s995-1-assessable-amount",
+    "act": "ITAA 1997"
+  },
+  "assessable income": {
+    "term": "assessable income",
+    "section": "995-1",
+    "anchor": "s995-1-assessable-income",
+    "act": "ITAA 1997"
+  },
+  "available fraction for a bundle of losses": {
+    "term": "available fraction for a bundle of losses",
+    "section": "995-1",
+    "anchor": "s995-1-available-fraction-for-a-bundle-of-losses",
+    "act": "ITAA 1997"
+  },
+  "available frankable profits": {
+    "term": "available frankable profits",
+    "section": "995-1",
+    "anchor": "s995-1-available-frankable-profits",
+    "act": "ITAA 1997"
+  },
+  "base assessment": {
+    "term": "base assessment",
+    "section": "995-1",
+    "anchor": "s995-1-base-assessment",
+    "act": "ITAA 1997"
+  },
+  "base penalty amount": {
+    "term": "base penalty amount",
+    "section": "995-1",
+    "anchor": "s995-1-base-penalty-amount",
+    "act": "ITAA 1997"
+  },
+  "basic concessional contributions cap": {
+    "term": "basic concessional contributions cap",
+    "section": "995-1",
+    "anchor": "s995-1-basic-concessional-contributions-cap",
+    "act": "ITAA 1997"
+  },
+  "benchmark instalment rate": {
+    "term": "benchmark instalment rate",
+    "section": "995-1",
+    "anchor": "s995-1-benchmark-instalment-rate",
+    "act": "ITAA 1997"
+  },
+  "benchmark rate of return for an interest": {
+    "term": "benchmark rate of return for an interest",
+    "section": "995-1",
+    "anchor": "s995-1-benchmark-rate-of-return-for-an-interest",
+    "act": "ITAA 1997"
+  },
+  "benchmark tax": {
+    "term": "benchmark tax",
+    "section": "995-1",
+    "anchor": "s995-1-benchmark-tax",
+    "act": "ITAA 1997"
+  },
+  "business continuity test period": {
+    "term": "business continuity test period",
+    "section": "995-1",
+    "anchor": "s995-1-business-continuity-test-period",
+    "act": "ITAA 1997"
+  },
+  "cease to be an active build to rent development": {
+    "term": "cease to be an active build to rent development",
+    "section": "995-1",
+    "anchor": "s995-1-cease-to-be-an-active-build-to-rent-development",
+    "act": "ITAA 1997"
+  },
+  "committed capital of a partnership": {
+    "term": "committed capital of a partnership",
+    "section": "995-1",
+    "anchor": "s995-1-committed-capital-of-a-partnership",
+    "act": "ITAA 1997"
+  },
+  "concessional cross staple rent cap": {
+    "term": "concessional cross staple rent cap",
+    "section": "995-1",
+    "anchor": "s995-1-concessional-cross-staple-rent-cap",
+    "act": "ITAA 1997"
+  },
+  "continuing shareholders": {
+    "term": "continuing shareholders",
+    "section": "995-1",
+    "anchor": "s995-1-continuing-shareholders",
+    "act": "ITAA 1997"
+  },
+  "control (for value shifting purposes)": {
+    "term": "control (for value shifting purposes)",
+    "section": "995-1",
+    "anchor": "s995-1-control-for-value-shifting-purposes",
+    "act": "ITAA 1997"
+  },
+  "critical mineral": {
+    "term": "critical mineral",
+    "section": "995-1",
+    "anchor": "s995-1-critical-mineral",
+    "act": "ITAA 1997"
+  },
+  "crs commentary": {
+    "term": "CRS Commentary",
+    "section": "995-1",
+    "anchor": "s995-1-crs-commentary",
+    "act": "ITAA 1997"
+  },
+  "deferred superannuation income stream": {
+    "term": "deferred superannuation income stream",
+    "section": "995-1",
+    "anchor": "s995-1-deferred-superannuation-income-stream",
+    "act": "ITAA 1997"
+  },
+  "effective life": {
+    "term": "effective life",
+    "section": "995-1",
+    "anchor": "s995-1-effective-life",
+    "act": "ITAA 1997"
+  },
+  "endowment policy": {
+    "term": "endowment policy",
+    "section": "995-1",
+    "anchor": "s995-1-endowment-policy",
+    "act": "ITAA 1997"
+  },
+  "excess non-concessional contributions tax assessment": {
+    "term": "excess non-concessional contributions tax assessment",
+    "section": "995-1",
+    "anchor": "s995-1-excess-non-concessional-contributions-tax-assessment",
+    "act": "ITAA 1997"
+  },
+  "exempting entity": {
+    "term": "exempting entity",
+    "section": "995-1",
+    "anchor": "s995-1-exempting-entity",
+    "act": "ITAA 1997"
+  },
+  "fencing asset": {
+    "term": "fencing asset",
+    "section": "995-1",
+    "anchor": "s995-1-fencing-asset",
+    "act": "ITAA 1997"
+  },
+  "fund-raising event": {
+    "term": "fund-raising event",
+    "section": "995-1",
+    "anchor": "s995-1-fund-raising-event",
+    "act": "ITAA 1997"
+  },
+  "use": {
+    "term": "use",
+    "section": "995-1",
+    "anchor": "s995-1-use",
+    "act": "ITAA 1997"
+  },
+  "hedging financial arrangement": {
+    "term": "hedging financial arrangement",
+    "section": "995-1",
+    "anchor": "s995-1-hedging-financial-arrangement",
+    "act": "ITAA 1997"
+  },
+  "hybrid mismatch": {
+    "term": "hybrid mismatch",
+    "section": "995-1",
+    "anchor": "s995-1-hybrid-mismatch",
+    "act": "ITAA 1997"
+  },
+  "imported hybrid mismatch": {
+    "term": "imported hybrid mismatch",
+    "section": "995-1",
+    "anchor": "s995-1-imported-hybrid-mismatch",
+    "act": "ITAA 1997"
+  },
+  "initial participant in a forestry managed investment scheme": {
+    "term": "initial participant in a forestry managed investment scheme",
+    "section": "995-1",
+    "anchor": "s995-1-initial-participant-in-a-forestry-managed-investment-scheme",
+    "act": "ITAA 1997"
+  },
+  "instalment income": {
+    "term": "instalment income",
+    "section": "995-1",
+    "anchor": "s995-1-instalment-income",
+    "act": "ITAA 1997"
+  },
+  "inward investment vehicle (financial)": {
+    "term": "inward investment vehicle (financial)",
+    "section": "995-1",
+    "anchor": "s995-1-inward-investment-vehicle-financial",
+    "act": "ITAA 1997"
+  },
+  "irrigation water provider": {
+    "term": "irrigation water provider",
+    "section": "995-1",
+    "anchor": "s995-1-irrigation-water-provider",
+    "act": "ITAA 1997"
+  },
+  "loss denial balance of a loss denial pool of an entity": {
+    "term": "loss denial balance of a loss denial pool of an entity",
+    "section": "995-1",
+    "anchor": "s995-1-loss-denial-balance-of-a-loss-denial-pool-of-an-entity",
+    "act": "ITAA 1997"
+  },
+  "loss denial pool of an entity": {
+    "term": "loss denial pool of an entity",
+    "section": "995-1",
+    "anchor": "s995-1-loss-denial-pool-of-an-entity",
+    "act": "ITAA 1997"
+  },
+  "majority underlying interests in a cgt asset": {
+    "term": "majority underlying interests in a CGT asset",
+    "section": "995-1",
+    "anchor": "s995-1-majority-underlying-interests-in-a-cgt-asset",
+    "act": "ITAA 1997"
+  },
+  "mbl benefit": {
+    "term": "MBL benefit",
+    "section": "995-1",
+    "anchor": "s995-1-mbl-benefit",
+    "act": "ITAA 1997"
+  },
+  "mit agricultural income": {
+    "term": "MIT agricultural income",
+    "section": "995-1",
+    "anchor": "s995-1-mit-agricultural-income",
+    "act": "ITAA 1997"
+  },
+  "mit cross staple arrangement income": {
+    "term": "MIT cross staple arrangement income",
+    "section": "995-1",
+    "anchor": "s995-1-mit-cross-staple-arrangement-income",
+    "act": "ITAA 1997"
+  },
+  "mit residential housing income": {
+    "term": "MIT residential housing income",
+    "section": "995-1",
+    "anchor": "s995-1-mit-residential-housing-income",
+    "act": "ITAA 1997"
+  },
+  "mit trading trust income": {
+    "term": "MIT trading trust income",
+    "section": "995-1",
+    "anchor": "s995-1-mit-trading-trust-income",
+    "act": "ITAA 1997"
+  },
+  "monthly payer": {
+    "term": "monthly payer",
+    "section": "995-1",
+    "anchor": "s995-1-monthly-payer",
+    "act": "ITAA 1997"
+  },
+  "net capital loss": {
+    "term": "net capital loss",
+    "section": "995-1",
+    "anchor": "s995-1-net-capital-loss",
+    "act": "ITAA 1997"
+  },
+  "net exempt income": {
+    "term": "net exempt income",
+    "section": "995-1",
+    "anchor": "s995-1-net-exempt-income",
+    "act": "ITAA 1997"
+  },
+  "non-adi financial institution": {
+    "term": "non-ADI financial institution",
+    "section": "995-1",
+    "anchor": "s995-1-non-adi-financial-institution",
+    "act": "ITAA 1997"
+  },
+  "notional tax": {
+    "term": "notional tax",
+    "section": "995-1",
+    "anchor": "s995-1-notional-tax",
+    "act": "ITAA 1997"
+  },
+  "offshore hybrid mismatch": {
+    "term": "offshore hybrid mismatch",
+    "section": "995-1",
+    "anchor": "s995-1-offshore-hybrid-mismatch",
+    "act": "ITAA 1997"
+  },
+  "offshore information": {
+    "term": "offshore information",
+    "section": "995-1",
+    "anchor": "s995-1-offshore-information",
+    "act": "ITAA 1997"
+  },
+  "this kind of a payment": {
+    "term": "this kind of a payment",
+    "section": "995-1",
+    "anchor": "s995-1-this-kind-of-a-payment",
+    "act": "ITAA 1997"
+  },
+  "original franking assessment day": {
+    "term": "original franking assessment day",
+    "section": "995-1",
+    "anchor": "s995-1-original-franking-assessment-day",
+    "act": "ITAA 1997"
+  },
+  "outward investing financial entity (non-adi)": {
+    "term": "outward investing financial entity (non-ADI)",
+    "section": "995-1",
+    "anchor": "s995-1-outward-investing-financial-entity-non-adi",
+    "act": "ITAA 1997"
+  },
+  "ownership test period": {
+    "term": "ownership test period",
+    "section": "995-1",
+    "anchor": "s995-1-ownership-test-period",
+    "act": "ITAA 1997"
+  },
+  "part of a distribution that is franked with an exempting credit": {
+    "term": "part of a distribution that is franked with an exempting credit",
+    "section": "995-1",
+    "anchor": "s995-1-part-of-a-distribution-that-is-franked-with-an-exempting-credit",
+    "act": "ITAA 1997"
+  },
+  "payg instalment variation credit": {
+    "term": "PAYG instalment variation credit",
+    "section": "995-1",
+    "anchor": "s995-1-payg-instalment-variation-credit",
+    "act": "ITAA 1997"
+  },
+  "periodic aggregate tax information": {
+    "term": "periodic aggregate tax information",
+    "section": "995-1",
+    "anchor": "s995-1-periodic-aggregate-tax-information",
+    "act": "ITAA 1997"
+  },
+  "pool of construction expenditure": {
+    "term": "pool of construction expenditure",
+    "section": "995-1",
+    "anchor": "s995-1-pool-of-construction-expenditure",
+    "act": "ITAA 1997"
+  },
+  "position to affect rights": {
+    "term": "position to affect rights",
+    "section": "995-1",
+    "anchor": "s995-1-position-to-affect-rights",
+    "act": "ITAA 1997"
+  },
+  "post-choice nz franking company": {
+    "term": "post-choice NZ franking company",
+    "section": "995-1",
+    "anchor": "s995-1-post-choice-nz-franking-company",
+    "act": "ITAA 1997"
+  },
+  "ppl superannuation contribution payment": {
+    "term": "PPL superannuation contribution payment",
+    "section": "995-1",
+    "anchor": "s995-1-ppl-superannuation-contribution-payment",
+    "act": "ITAA 1997"
+  },
+  "pre-existing audited book value of a depreciating asset": {
+    "term": "pre-existing audited book value of a depreciating asset",
+    "section": "995-1",
+    "anchor": "s995-1-pre-existing-audited-book-value-of-a-depreciating-asset",
+    "act": "ITAA 1997"
+  },
+  "private ruling": {
+    "term": "private ruling",
+    "section": "995-1",
+    "anchor": "s995-1-private-ruling",
+    "act": "ITAA 1997"
+  },
+  "provide affordable housing": {
+    "term": "provide affordable housing",
+    "section": "995-1",
+    "anchor": "s995-1-provide-affordable-housing",
+    "act": "ITAA 1997"
+  },
+  "public ruling": {
+    "term": "public ruling",
+    "section": "995-1",
+    "anchor": "s995-1-public-ruling",
+    "act": "ITAA 1997"
+  },
+  "purposes of the project wickenby taskforce": {
+    "term": "purposes of the Project Wickenby taskforce",
+    "section": "995-1",
+    "anchor": "s995-1-purposes-of-the-project-wickenby-taskforce",
+    "act": "ITAA 1997"
+  },
+  "rba surplus": {
+    "term": "RBA surplus",
+    "section": "995-1",
+    "anchor": "s995-1-rba-surplus",
+    "act": "ITAA 1997"
+  },
+  "retention period": {
+    "term": "retention period",
+    "section": "995-1",
+    "anchor": "s995-1-retention-period",
+    "act": "ITAA 1997"
+  },
+  "special professional": {
+    "term": "special professional",
+    "section": "995-1",
+    "anchor": "s995-1-special-professional",
+    "act": "ITAA 1997"
+  },
+  "subject to australian income tax": {
+    "term": "subject to Australian income tax",
+    "section": "995-1",
+    "anchor": "s995-1-subject-to-australian-income-tax",
+    "act": "ITAA 1997"
+  },
+  "supply": {
+    "term": "supply",
+    "section": "995-1",
+    "anchor": "s995-1-supply",
+    "act": "ITAA 1997"
+  },
+  "taxable contributions": {
+    "term": "taxable contributions",
+    "section": "995-1",
+    "anchor": "s995-1-taxable-contributions",
+    "act": "ITAA 1997"
+  },
+  "tax offset": {
+    "term": "tax offset",
+    "section": "995-1",
+    "anchor": "s995-1-tax-offset",
+    "act": "ITAA 1997"
+  },
+  "tc control interest": {
+    "term": "TC control interest",
+    "section": "995-1",
+    "anchor": "s995-1-tc-control-interest",
+    "act": "ITAA 1997"
+  },
+  "test period": {
+    "term": "test period",
+    "section": "995-1",
+    "anchor": "s995-1-test-period",
+    "act": "ITAA 1997"
+  },
+  "total participation interest": {
+    "term": "total participation interest",
+    "section": "995-1",
+    "anchor": "s995-1-total-participation-interest",
+    "act": "ITAA 1997"
+  },
+  "trading stock": {
+    "term": "trading stock",
+    "section": "995-1",
+    "anchor": "s995-1-trading-stock",
+    "act": "ITAA 1997"
+  },
+  "trial year": {
+    "term": "trial year",
+    "section": "995-1",
+    "anchor": "s995-1-trial-year",
+    "act": "ITAA 1997"
+  },
+  "ultimate stake of a particular percentage": {
+    "term": "ultimate stake of a particular percentage",
+    "section": "995-1",
+    "anchor": "s995-1-ultimate-stake-of-a-particular-percentage",
+    "act": "ITAA 1997"
+  },
+  "undeducted construction expenditure": {
+    "term": "undeducted construction expenditure",
+    "section": "995-1",
+    "anchor": "s995-1-undeducted-construction-expenditure",
+    "act": "ITAA 1997"
+  },
+  "asset": {
+    "term": "asset",
+    "section": "995-1",
+    "anchor": "s995-1-asset",
+    "act": "ITAA 1997"
+  },
+  "up interest": {
+    "term": "up interest",
+    "section": "995-1",
+    "anchor": "s995-1-up-interest",
+    "act": "ITAA 1997"
+  },
+  "work in progress amount": {
+    "term": "work in progress amount",
+    "section": "995-1",
+    "anchor": "s995-1-work-in-progress-amount",
+    "act": "ITAA 1997"
+  },
+  "written down value of a depreciating asset": {
+    "term": "written down value of a depreciating asset",
+    "section": "995-1",
+    "anchor": "s995-1-written-down-value-of-a-depreciating-asset",
     "act": "ITAA 1997"
   }
 }

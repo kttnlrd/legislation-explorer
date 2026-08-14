@@ -19,7 +19,7 @@ Losses were attributed to aggressive tax planning by some multinational enterpri
 
 Under the BEPS project, over 100 countries and jurisdictions are collaborating to implement a range of BEPS measures. For more information, see ¶22-640.
 
-corporate tax rate Legislation has been enacted to implement a 15% global minimum tax and a domestic minimum tax in Australia under Pillar Two of the OECD/G20’s Two-Pillar Solution (¶21-060).
+corporate tax rate Legislation has been enacted to implement a 15% global minimum tax and a domestic minimum tax in Australia under Pillar Two of the OECD/G20's Two-Pillar Solution (¶21-060).
 
 Sharing economy Deﬁning the sharing economy is diﬃcult because the term encompasses a large number of modes of operation. The sharing economy can be deﬁned very broadly as new kinds of economic and social interactions facilitated by the internet. Alternative terms for describing the same or similar concepts include: the collaborative economy or collaborative consumption, the access economy and the on-demand economy.
 
@@ -43,13 +43,13 @@ The ATO describes the sharing economy as buyers (users) and sellers (providers) 
 
 A reporting regime for sharing economy online platforms has been introduced (¶33-210). In November 2022, the OECD announced that numerous jurisdictions agreed to exchange information with respect to income earned on digital platforms and oﬀshore ﬁnancial assets.
 
-Shadow economy (formerly black economy) The shadow economy (or cash economy) is the part of a country’s economic activity which is unrecorded and untaxed by its government. The government announced the formation of the Black Economy Taskforce in 2016 and described the problem as: “… people who operate entirely outside the tax system or who are known to the tax system but deliberately understate their income or overstate their expenses. Black economy participants evade taxes and may also be over-claiming welfare and other government beneﬁts.” The term “black economy” changed to “shadow economy” to reﬂect the OECD deﬁnition of unreported or dishonest economic activity.
+Shadow economy (formerly black economy) The shadow economy (or cash economy) is the part of a country's economic activity which is unrecorded and untaxed by its government. The government announced the formation of the Black Economy Taskforce in 2016 and described the problem as: "… people who operate entirely outside the tax system or who are known to the tax system but deliberately understate their income or overstate their expenses. Black economy participants evade taxes and may also be over-claiming welfare and other government beneﬁts." The term "black economy" changed to "shadow economy" to reﬂect the OECD deﬁnition of unreported or dishonest economic activity.
 
-- measures to prevent “phoenix” companies from making creditor-defeating dispositions of property;
+- measures to prevent "phoenix" companies from making creditor-defeating dispositions of property;
 
   prevent improper director resignations leaving a company with no directors; make company
 
-  directors personally liable for their company’s GST and greater ATO data gathering power; and
+  directors personally liable for their company's GST and greater ATO data gathering power; and
 
   authorise the retention of tax refunds where a taxpayer has not lodged a tax return or provided
 
@@ -65,7 +65,7 @@ Shadow economy (formerly black economy) The shadow economy (or cash economy) is 
 
 - the taxable payments reporting system (TPRS) (¶33-200).
 
-The “Black Economy — strengthening the Australian Business Number system” measure announced in the 2019–20 Budget will not proceed, as the ATO is addressing integrity issues through enhanced administrative processes (2024–25 Budget Paper No 2, p 11).
+The "Black Economy — strengthening the Australian Business Number system" measure announced in the 2019–20 Budget will not proceed, as the ATO is addressing integrity issues through enhanced administrative processes (2024–25 Budget Paper No 2, p 11).
 
 Accelerating technological change presents governments and revenue authorities with new challenges and opportunities for dealing with the shadow economy. The OECD has released a non-binding international framework to enable collection of information from digital platforms used by the sharing and gig economy.
 
@@ -79,9 +79,9 @@ Bitcoin allows users to transfer money on the internet without using a bank, cre
 
 The ATO and other agencies like AUSTRAC and ASIC are concerned by the ability of participants to conduct transactions anonymously. It is possible to use Bitcoin and other cryptocurrencies in a similar way to using foreign bank accounts to facilitate tax evasion. Transactions using cryptocurrencies present diﬃcult tax compliance and record-keeping challenges.
 
-In February 2019, the government sought public comment on Initial Coin Oﬀerings (ICOs) in Australia and the application of Australia’s regulatory framework, including the tax rules, to ICOs.
+In February 2019, the government sought public comment on Initial Coin Oﬀerings (ICOs) in Australia and the application of Australia's regulatory framework, including the tax rules, to ICOs.
 
-In August 2022, the Board of Taxation commenced a review of the tax treatment of digital assets and transactions in Australia. Treasury subsequently consulted on which elements of the crypto ecosystem are suﬃciently regulated and which require additional attention, through a “token mapping” exercise as a foundational step to developing an appropriate regulatory setting for the crypto sector. The government is considering responses to the consultation.
+In August 2022, the Board of Taxation commenced a review of the tax treatment of digital assets and transactions in Australia. Treasury subsequently consulted on which elements of the crypto ecosystem are suﬃciently regulated and which require additional attention, through a "token mapping" exercise as a foundational step to developing an appropriate regulatory setting for the crypto sector. The government is considering responses to the consultation.
 
 In October 2022, the OECD released a new global tax transparency framework. The Crypto-Asset Reporting Framework (CARF) will provide for the reporting and exchange of information with respect to crypto- assets. This responds to a G20 request that the OECD develop a framework for the automatic exchange of information between countries on crypto-assets.
 
@@ -93,7 +93,7 @@ Treasury is consulting on implementing the CARF and related amendments to the CR
 
 For information about current tax rules for recognising cryptocurrency transactions, see ¶10-030, ¶23-070.
 
-Also see the following articles in CCH Australian Tax Week: “Crypto assets and digital transactions under the tax spotlight”, Issue 34, 2023; “How to structure crypto investments”, Issue 23, 2023; and “ATO crypto guidance draws attention to need for legislative clarity”, Issue 47, 2023.
+Also see the following articles in CCH Australian Tax Week: "Crypto assets and digital transactions under the tax spotlight", Issue 34, 2023; "How to structure crypto investments", Issue 23, 2023; and "ATO crypto guidance draws attention to need for legislative clarity", Issue 47, 2023.
 
 ## OECD-led tax reform initiative for a minimum 15%
 

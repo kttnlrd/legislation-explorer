@@ -33,7 +33,7 @@ The payer must refund a withheld amount if it becomes aware of the error or the 
 
   Commissioner, and which the payer has not recorded as being oﬀset.
 
-Request for information In order to be eligible for a refund, the recipient must have provided any information requested by the payer (or the time for making such a request must have passed). The payer may request the recipient’s:
+Request for information In order to be eligible for a refund, the recipient must have provided any information requested by the payer (or the time for making such a request must have passed). The payer may request the recipient's:
 
 - TFN or evidence of the basis on which the recipient is taken to have quoted the TFN to the payer,
 

@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Tax on omitted withdrawal**
 
-**(3)**  The amount of the liability of the person for income tax (the withdrawal tax liability) arising from the omitted withdrawals is the difference between the person’s income tax liability for the return year, with the withdrawal income included in the person’s assessable income for that year, and the income tax liability that the person would have for the return year if the withdrawal income were not included in the person’s assessable income for that year.
+**(3)**  The amount of the liability of the person for income tax (the withdrawal tax liability) arising from the omitted withdrawals is the difference between the person's income tax liability for the return year, with the withdrawal income included in the person's assessable income for that year, and the income tax liability that the person would have for the return year if the withdrawal income were not included in the person's assessable income for that year.
 
 **Relationship with law otherwise applicable to withdrawal and interest in scheme**
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 - (b) for omitted withdrawals derived on or before 31 March 2014, the law that would apply in the absence of this section to the withdrawal at the time of the derivation of the withdrawal:
 
-- (c) the law that would apply in the absence of this section to the person’s interest in the foreign superannuation scheme for the period ending by 31 March 2014.
+- (c) the law that would apply in the absence of this section to the person's interest in the foreign superannuation scheme for the period ending by 31 March 2014.
 
 *Defined in this Act: assessable income, foreign superannuation scheme, income tax, income tax liability, income year, return of income, terminal tax*
 

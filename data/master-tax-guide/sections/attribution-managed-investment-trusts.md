@@ -43,9 +43,9 @@ Other changes
 
 - improvements to the PAYG withholding provisions
 
-- amendments to ensure discount capital gains are properly taken into account in the AMIT “unders
+- amendments to ensure discount capital gains are properly taken into account in the AMIT "unders
 
-  and overs” regime, and
+  and overs" regime, and
 
 - clariﬁcation in relation to operation of CGT event E10 (AMIT — cost base reduction exceeds cost
 

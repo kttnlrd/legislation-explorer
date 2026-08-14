@@ -52,9 +52,9 @@ compilation_date: 2026-06-06
 
 **(3)**  If a shareholder is a company,—
 
-- (a) for the purposes of subsection (1)﻿(b) and (c), the shareholder’s equity group is treated as the shareholder for all the shares held by members of the equity group; and
+- (a) for the purposes of subsection (1)﻿(b) and (c), the shareholder's equity group is treated as the shareholder for all the shares held by members of the equity group; and
 
-- (b) for the purposes of subsection (1)﻿(b), the shareholder’s equity group is treated as the provider of all the funds that are provided by members of the equity group.
+- (b) for the purposes of subsection (1)﻿(b), the shareholder's equity group is treated as the provider of all the funds that are provided by members of the equity group.
 
 **Trustee treated as single shareholder and provider of funds**
 

@@ -3,23 +3,19 @@ ATO ID 2004/135
 ==================================================
 
 Goods and Services Tax
-        GST and service fee applied to debt acquired from a taxi driver
-        FOI status: may be released
-
+ GST and service fee applied to debt acquired from a taxi driver
+ FOI status: may be released
 
 This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
 
-              A  comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+ A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator that purchases debts from other parties, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when the entity applies a 10% service fee to a debt that it acquires from a taxi driver?
@@ -41,8 +37,6 @@ The entity is registered for goods and services tax (GST). The entity makes the 
 Reasons for Decision
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 
-
-
 • it makes the supply for consideration
 • the supply is made in the course or furtherance of an enterprise that it carries on
 • the supply is connected with Australia, and
@@ -56,11 +50,10 @@ The entity makes an acquisition-supply of an interest in a debt when it takes re
 When the taxi customer signs the docket, agreeing to pay the face value of the taxi fare and the 10% service fee by way of credit card, consideration is provided and received at this point - consistent with paragraph 30 of Goods and Services Tax Ruling GSTR 2003/12.
 The entity's supply is for consideration and is made in the course of it's enterprise. The supply is connected with Australia and the entity is registered for GST. In addition, the supply is neither input taxed under Division 40 of the GST Act nor GST-free under Division 38 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when, under the terms and conditions of offering its service, the entity applies a 10% service to a debt that it acquires from a taxi driver.
 
-
 Note: The supply of taxi travel by the taxi driver to the taxi passenger will be a taxable supply where the requirements of section 9-5 of the GST Act are met.
 
 Date of decision:
-         12 December 2003
+  12 December 2003
 
 Legislative References:
 
@@ -74,19 +67,18 @@ Goods and Services Tax Ruling GSTR 2003/12
 Keywords
 
 Goods and services tax
-          GST supplies and acquisitions
-          Taxable supply
-          GST financial supplies
-
+ GST supplies and acquisitions
+ Taxable supply
+ GST financial supplies
 
 Siebel/TDMS Reference Number:
-         3887739
+  3887739
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         13 February 2004
+  13 February 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

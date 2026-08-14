@@ -9,13 +9,13 @@ paragraph: "None"
 
 Worked example: GST adjustments; creditable purpose Issue Fiona Wilkes runs a delivery business and is registered for GST. Fiona purchased a Ford Falcon for $33,000 (GST inclusive) on 15 October 2019 to use in her delivery business. Fiona had planned to use the vehicle 90% for business and 10% privately. However, on 21 April 2021, Fiona calculates that she has used the vehicle 80% for business and 20% privately. During the year ended 30 June 2022, the vehicle was used 95% for business and only 5% privately.
 
-Unfortunately, on 1 September 2022, the vehicle was damaged in an accident and was not used for 3 months while the car was off the road and the damages were repaired. For the period to 30 June 2023, the vehicle had been used 90% for business and 10% privately. Then for the period to 30 June 2024 Fiona discovers that her vehicle usage was 92% business and 8% private while for the year ended 30 June 2025 the vehicle’s usage indicated 88% business and 12% private.
+Unfortunately, on 1 September 2022, the vehicle was damaged in an accident and was not used for 3 months while the car was off the road and the damages were repaired. For the period to 30 June 2023, the vehicle had been used 90% for business and 10% privately. Then for the period to 30 June 2024 Fiona discovers that her vehicle usage was 92% business and 8% private while for the year ended 30 June 2025 the vehicle's usage indicated 88% business and 12% private.
 
 What is the impact of the change in use of the vehicle on the net amount of GST?
 
 Solution The period of time after acquisition in which an adjustment is required depends on the GST-inclusive value of the acquisition and whether it relates to business finance. In this case the adjustment does not relate to business finance and the adjustment periods for an item between $5,001 and $499,999 is 5 adjustment periods. In this case the vehicle was acquired for $33,000 (GST Act s 129-20(3)). The first adjustment period is the tax period that starts at least 12 months after the end of the tax period in which the acquisition was made and ends on the following 30 June (s 129-20). The delay in the first period is designed to allow adequate time to assess the use of the item.
 
-To work out if an adjustment arises for an acquisition or importation, you compare the “actual application of the thing” with the “intended or former application of the thing”. The intended or former application of a thing is either:
+To work out if an adjustment arises for an acquisition or importation, you compare the "actual application of the thing" with the "intended or former application of the thing". The intended or former application of a thing is either:
 
 - the planned application for a creditable purpose as at the time the thing was acquired or imported (ie
 

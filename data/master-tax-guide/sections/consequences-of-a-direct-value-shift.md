@@ -31,7 +31,7 @@ Changes are made to the adjustable values of interests regardless of when they w
 
 The amount of any uplift is limited for a CGT asset to the extent that the amount of the uplift is still reﬂected in the market value of the interest when a later CGT event happens to the interest (s 725-240(5)). A similar rule exists for trading stock and for revenue assets.
 
-Disposal treatment If the shift is from post-CGT to pre-CGT interests (that are not trading stock or revenue assets) of the same person, or between a person’s interests of a diﬀerent tax character (ie capital account, revenue account or trading stock), a taxing event as well as a realignment of adjustable value may occur.
+Disposal treatment If the shift is from post-CGT to pre-CGT interests (that are not trading stock or revenue assets) of the same person, or between a person's interests of a diﬀerent tax character (ie capital account, revenue account or trading stock), a taxing event as well as a realignment of adjustable value may occur.
 
 Where a shift has the same economic eﬀect as a part disposal of an asset to another person (eg a transfer of value to an associate), it is broadly treated as if it were a part disposal. A proportionate part of the adjustable value of the interest (eg its cost base) is compared with the amount of value shifted (equivalent to a disposal price).
 
@@ -55,9 +55,9 @@ Example Larry owns all one million A class shares in a company, which have a mar
 
 Larry and Brad agree to vary the rights attaching to both classes of shares, resulting in the market value of the A class shares decreasing by $10 each and the market value of the B class shares increasing, also by $10 each.
 
-The total market value of Larry’s A class shares has fallen by $10 million and the total market value of Brad’s B class shares has increased correspondingly by $10 million. Thus, there has been a direct value shift from Larry to Brad of $10 million.
+The total market value of Larry's A class shares has fallen by $10 million and the total market value of Brad's B class shares has increased correspondingly by $10 million. Thus, there has been a direct value shift from Larry to Brad of $10 million.
 
-This has the same economic eﬀect as if Larry disposed of half of his shareholding to Brad. Assuming the total cost base for all Larry’s shares is $5 million, Larry makes capital gains of $7.5 million and his total cost bases for the A class shares is reduced to $2.5 million.
+This has the same economic eﬀect as if Larry disposed of half of his shareholding to Brad. Assuming the total cost base for all Larry's shares is $5 million, Larry makes capital gains of $7.5 million and his total cost bases for the A class shares is reduced to $2.5 million.
 
 Brad must make cost base uplifts to avoid double taxation. Assuming his shares had cost bases of $4 million, his cost bases in total are increased to $14 million.
 

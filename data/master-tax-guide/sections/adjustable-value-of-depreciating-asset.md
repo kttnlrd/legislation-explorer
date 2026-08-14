@@ -7,7 +7,7 @@ paragraph: "¶17-485"
 ---
 # Adjustable value of depreciating asset ¶17-485
 
-The concepts of “adjustable value” and “opening adjustable value” (ITAA97 s 40-85) are relevant to the calculation of the decline in value of a depreciating asset (¶17-490, ¶17-500) and balancing adjustments for the asset (¶17-630).
+The concepts of "adjustable value" and "opening adjustable value" (ITAA97 s 40-85) are relevant to the calculation of the decline in value of a depreciating asset (¶17-490, ¶17-500) and balancing adjustments for the asset (¶17-630).
 
 The opening adjustable value for an income year is the adjustable value of the asset at the end of the previous income year, ie the closing adjustable value from the previous income year.
 
@@ -19,7 +19,7 @@ After a balancing adjustment event occurs, the adjustable value of the asset is 
 
 Generally, the opening adjustable value of an asset is reduced by any input tax credits and decreasing adjustments relating to the acquisition of the asset or to second element costs of the asset (¶17-090). It may also be reduced if a commercial debt has been forgiven (¶17-510), if there has been an involuntary disposal of an asset (¶17-720) or if the short-term forex realisation rules have applied (ITAA97 ss 775-70; 775-75).
 
-If the tax-preferred leasing provisions (¶23-210) have applied in respect of an asset and the arrangement period for the asset ends, the adjustable value of the asset at the end of the period is the “end value” (s 250-180) of the asset. If only some of the capital allowances were disallowed during the period of the arrangement (ie s 250-150 has applied to apportion the deductions), the adjustable value is modiﬁed under s 250-285.
+If the tax-preferred leasing provisions (¶23-210) have applied in respect of an asset and the arrangement period for the asset ends, the adjustable value of the asset at the end of the period is the "end value" (s 250-180) of the asset. If only some of the capital allowances were disallowed during the period of the arrangement (ie s 250-150 has applied to apportion the deductions), the adjustable value is modiﬁed under s 250-285.
 
 Where the initial owner of a mining, quarrying or prospecting right transfers part of the right under a farm-in farm-out arrangement, the right is taken to be split into 2 depreciating assets immediately before the disposal (s 40-115). The entire adjustable value is allocated to the retained part (s 40-1110; ¶19-010).
 

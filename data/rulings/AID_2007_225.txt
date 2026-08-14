@@ -3,23 +3,18 @@ ATO ID 2007/225
 ==================================================
 
 Superannuation
-        Superannuation contributions: acceptance of fund capped contributions by a self managed superannuation fund
-        FOI status: may be released
-
+ Superannuation contributions: acceptance of fund capped contributions by a self managed superannuation fund
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database as subregulations 7.04(3) and 7.04(7) of the Superannuation Industry (Supervision) Regulations 1994 (SISR) have been repealed with effect from 1 July 2017. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2016-17 income year.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a trustee of a self managed superannuation fund required by subregulation 7.04(3) of the Superannuation Industry Supervision Regulations 1994 (SISR) to return an amount to a contributor if the contribution, when added to contributions made to the fund earlier in the income year by the member, will cause the member to have excess non-concessional contributions for that income year?
@@ -27,8 +22,6 @@ Decision
 No, the trustee is not required to return all or part of a contribution unless all or part of the contribution itself will cause the member to have excess non-concessional contributions for the income year.
 Facts
 A 65 year old working member of a self-managed superannuation fund makes the following non-concessional contributions during the 2007-08 income year:
-
-
 
 •
 11 July 2007
@@ -53,8 +46,6 @@ Subregulation 7.04(3) of the SISR provides that:
 
 In addition to subregulation (1), the regulated superannuation fund must not accept any fund-capped contributions in a financial year in respect of a member that exceed:
 
-
-
 (a)if the member is 64 or less on 1 July of the financial year- three times the amount of the non-concessional contributions cap; or
 (b)if the member is 65 but less than 75 on 1 July of the financial year- the non-concessional contributions cap.
 
@@ -62,11 +53,7 @@ Subregulation 7.04(4) of the SISR provides that:
 
 If a regulated superannuation fund receives an amount that is inconsistent with subregulation ... (3):
 
-
-
 (a)the fund must return the amount to the entity or the person that paid the amount within 30 days of becoming aware that the amount was received in a manner that is inconsistent with subregulation...(3), unless:
-
-
 
 (i)...
 (ii)for an amount received in a manner that is inconsistent with subregulation (3) - a valid notice under section 290-170 of the Income Tax Assessment Act 1997 is received by the trustee of the fund within 30 days of this amount being received by the trustee of the fund: and...
@@ -81,10 +68,10 @@ Superannuation funds will not be required to aggregate the total of member contr
 
 The explanatory statement makes it clear that in this case, the trustee is not required to return any part of the $54,000 and may accept the further contribution of $10,000. In this case the member will have excess non-concessional contributions for the 2007-08 income year and will receive a non-concessional contributions tax assessment.
 Date of decision:
-         13 December 2007
+  13 December 2007
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
@@ -92,42 +79,37 @@ Superannuation Industry (Supervision) Regulations 1994   Subregulation 7.04(3
 
 Other References:
 
-Item 80 to the  Explanatory Statement for the Superannuation Industry (Supervision) Amendment Regulation 2007 (No.1)
-
+Item 80 to the Explanatory Statement for the Superannuation Industry (Supervision) Amendment Regulation 2007 (No.1)
 
 Keywords
 
 Contributions returned
-          Self managed superannuation funds
-          SMSF trustee
-          Superannuation
-
+ Self managed superannuation funds
+ SMSF trustee
+ Superannuation
 
 Siebel/TDMS Reference Number:
-         5874954; 1-5T7S161; 1-FWHX3YN
+  5874954; 1-5T7S161; 1-FWHX3YN
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         21 December 2007
+  21 December 2007
 
 Date reviewed:
-         27 August 2014
+  27 August 2014
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 13 December 2007

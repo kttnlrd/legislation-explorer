@@ -3,18 +3,14 @@ ATO ID 2006/319
 ==================================================
 
 Income Tax
-        Calculating the annually compounded internal rate of return referred to within subsection 25-85(5) for the purposes of subsection 25-85(3) of the Income Tax Assessment Act 1997.
-        FOI status: may be released
-
-
+ Calculating the annually compounded internal rate of return referred to within subsection 25-85(5) for the purposes of subsection 25-85(3) of the Income Tax Assessment Act 1997.
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purpose of deducting a dividend pursuant to subsection 25-85(3) of the Income Tax Assessment Act 1997 (ITAA 1997), is the annually compounded internal rate of return (IRR) under subsection 25-85(5) of the ITAA 1997 calculated in each income year in which a dividend is paid, having regard to the amount of that dividend and the amount of dividends paid in previous years?
@@ -22,8 +18,6 @@ Decision
 Yes. For the purpose of deducting a dividend pursuant to subsection 25-85(3) of the ITAA 1997, the annually compounded IRR under subsection 25-85(5) of the ITAA 1997 is to be calculated in each income year in which a dividend is paid, having regard to the amount of that dividend and the amount of dividends paid in previous years. This is the case irrespective of whether the dividends are cumulative or not.
 Facts
 A resident Australian Company issues a redeemable preference share (RPS) that is characterised as a debt interest under Division 974 of the ITAA 1997. It has the following terms:-
-
-
 
 •issue price $100.
 •dividends will be payable annually at the rate of the Bank Bill Swap Rate (BBSW) provided the company has sufficient profits.
@@ -44,8 +38,6 @@ Subject to regulations made for the purposes of subsection (6), subsections (2) 
 The term 'annually compounded internal rate of return' is not defined in the ITAA 1997. Broadly, the annually compounded IRR is the annual rate at which the amount originally invested, together with all the cash flows, accumulates to equal the value of the assets at the end of the period (alternatively the discount rate or opportunity cost of capital at which the net present value of a transaction is equal to zero).
 The words in section 25-85 of the ITAA 1997, in particular subsection 25-85(5) of the ITAA 1997, show a clear intention that one must look at the actual return in the year in which the return is paid in calculating an annually compounding IRR. This is supported by Example 2.14 in the explanatory memorandum to the Bill introducing section 25-85 (New Business Tax System (Debt and Equity) Bill 2001).
 The annually compounded IRR for the RPS at the time of issue is 10.00% p.a. This is calculated on the following cash flow pattern (expected):
-
-
 
 Year
 
@@ -71,8 +63,6 @@ However, the annually compounded IRR must be calculated on an annual basis for e
 Applying this conclusion to the Year 4 dividend payment has the following outcome. In Year 1 the annually compounded IRR is still 10.00% as, at that point in time, the deferral of the third year dividend payment to the fourth year is not known or expected.
 However, as stated in the facts, in year 4 the dividend payment is $20 because the Year 3 dividend payment was missed and thus the annually compounded IRR is calculated in that year using the following cash flow pattern (actual and expected):
 
-
-
 Year
 
 0
@@ -96,10 +86,10 @@ $110
 Annual Compounded IRR = 9.82%
 The annually compounded IRR in Year 4 is 9.82% p.a. This rate is then compared to the benchmark rate of return as increased by 150 basis points in ascertaining the amount that will be deductible pursuant to section 25-85 of the ITAA 1997. The benchmark rate together with the 150 basis points is 10.00%. As the annually compounded rate calculated in year 4 (9.82%) is less than the benchmark rate adjusted by 150 basis points (10.00%), the entire $20 dividend is allowed as a deduction in that year of income.
 Date of decision:
-         31 October 2006
+  31 October 2006
 
 Year of income:
-           Year ended 30 June 2006
+  Year ended 30 June 2006
 
 Legislative References:
 
@@ -112,21 +102,20 @@ Related ATO Interpretative Decisions
 Keywords
 
 Debt equity borderline
-          Incurred
-          Non-equity share
-
+ Incurred
+ Non-equity share
 
 Siebel/TDMS Reference Number:
-         5350259; 1-5RX58C3; 1-BA3L9Q2
+  5350259; 1-5RX58C3; 1-BA3L9Q2
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         24 November 2006
+  24 November 2006
 
 Date reviewed:
-         20 April 2017
+  20 April 2017
 
 ISSN:
-          1445-2782
+ 1445-2782

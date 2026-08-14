@@ -7,15 +7,15 @@ paragraph: "¶17-270"
 ---
 # Eﬀective life of depreciating asset ¶17-270
 
-The decline in value of a depreciating asset is calculated on the basis of the eﬀective life of the asset (¶17-490, ¶17-500). Taxpayers can work out their own estimate of the eﬀective life of a depreciating asset or rely on the eﬀective life for the asset set out in the Commissioner’s determination (ITAA97 s 40-95).
+The decline in value of a depreciating asset is calculated on the basis of the eﬀective life of the asset (¶17-490, ¶17-500). Taxpayers can work out their own estimate of the eﬀective life of a depreciating asset or rely on the eﬀective life for the asset set out in the Commissioner's determination (ITAA97 s 40-95).
 
-The Commissioner’s eﬀective life determinations to date are listed in the Income Tax (Eﬀective Life of Depreciating Assets) Determination 2015 (F2022C00749 (C08)). The determination was also published as TR 2022/1, which replaced TR 2021/3 from 1 July 2022. The choice must be made for the year in which the asset is ﬁrst used, or installed ready for use, by the taxpayer for any purpose. In some circumstances, no choice can be made and a statutory eﬀective life applies (¶17-280).
+The Commissioner's eﬀective life determinations to date are listed in the Income Tax (Eﬀective Life of Depreciating Assets) Determination 2015 (F2022C00749 (C08)). The determination was also published as TR 2022/1, which replaced TR 2021/3 from 1 July 2022. The choice must be made for the year in which the asset is ﬁrst used, or installed ready for use, by the taxpayer for any purpose. In some circumstances, no choice can be made and a statutory eﬀective life applies (¶17-280).
 
 The ATO periodically reviews the eﬀective lives of some assets in its published determinations. Details of eﬀective life reviews currently in progress are added to the ATO website (Eﬀective life).
 
-Taxpayer’s estimate of effective life The eﬀective life adopted by a taxpayer must relate to the total estimated period the asset can be used by any entity for the purpose of producing income (assessable, exempt or non-assessable non-exempt), exploration or prospecting, mining site rehabilitation or environmental protection activities, or conducting R&D activities (ITAA97 s 40-105). Therefore even if the taxpayer expects to dispose of the asset before its eﬀective income-producing life is over, the eﬀective life does not end at this earlier time, unless it is likely to be scrapped.
+Taxpayer's estimate of effective life The eﬀective life adopted by a taxpayer must relate to the total estimated period the asset can be used by any entity for the purpose of producing income (assessable, exempt or non-assessable non-exempt), exploration or prospecting, mining site rehabilitation or environmental protection activities, or conducting R&D activities (ITAA97 s 40-105). Therefore even if the taxpayer expects to dispose of the asset before its eﬀective income-producing life is over, the eﬀective life does not end at this earlier time, unless it is likely to be scrapped.
 
-In determining eﬀective life, the task is to ﬁnd the period of time over which the asset can be used by any entity for the speciﬁed purposes, having regard to the wear and tear reasonably expected from the taxpayer’s circumstances of use and assuming that the asset will be maintained in reasonably good order and condition.
+In determining eﬀective life, the task is to ﬁnd the period of time over which the asset can be used by any entity for the speciﬁed purposes, having regard to the wear and tear reasonably expected from the taxpayer's circumstances of use and assuming that the asset will be maintained in reasonably good order and condition.
 
 A determination is expected to take into account the factors outlined in TR 2022/1.
 
@@ -35,7 +35,7 @@ The recalculated eﬀective life is used for the future write-oﬀ of the balanc
 
 The following examples illustrate the method of calculating eﬀective life.
 
-Example 1 According to a manufacturer’s speciﬁcations, a new photocopier is capable of producing one million copies before needing to be replaced. When purchased new, Copy Co expects that, as used in its business, it will produce half a million copies in 2 years. It is therefore reasonable to conclude that the copier has an eﬀective life of 4 years, even if Copy Co’s intention is to sell the copier after 2 years to someone else who may use it more or less heavily.
+Example 1 According to a manufacturer's speciﬁcations, a new photocopier is capable of producing one million copies before needing to be replaced. When purchased new, Copy Co expects that, as used in its business, it will produce half a million copies in 2 years. It is therefore reasonable to conclude that the copier has an eﬀective life of 4 years, even if Copy Co's intention is to sell the copier after 2 years to someone else who may use it more or less heavily.
 
 Example 2 The operators of a luxury hotel chain refurbish every 5 years. Carpets and curtains are scrapped. TVs are sold at auction. If the TVs had continued to be used by the hotel chain instead of being sold, they would have required replacement after another 2 years. The eﬀective life of the carpets and curtains is 5 years and the eﬀective life of the TVs is 7 years.
 
@@ -49,7 +49,7 @@ Mining, quarrying and prospecting rights or information A taxpayer self-assesses
 
 The eﬀective life is to be reasonably estimated from the time the taxpayer ﬁrst uses the rights or information for any purpose. In doing so, the taxpayer must only refer to the time over which the mining, petroleum or quarrying reserves are expected to be extracted using an accepted industry practice (s 40-95(11)). This enables a taxpayer to take a prior owner's use of the rights or information into account in calculating the remaining eﬀective life.
 
-A taxpayer may recalculate the eﬀective life if it is no longer accurate because of changed circumstances related to the existing or proposed mine, ﬁeld or quarry (ss 40-110(3B); 40-110(4)). For example, the asset may be written oﬀ at the taxpayer’s choice if the exploration is unsuccessful.
+A taxpayer may recalculate the eﬀective life if it is no longer accurate because of changed circumstances related to the existing or proposed mine, ﬁeld or quarry (ss 40-110(3B); 40-110(4)). For example, the asset may be written oﬀ at the taxpayer's choice if the exploration is unsuccessful.
 
 If rights or information do not relate to an existing or proposed mine, petroleum ﬁeld, or quarry, their eﬀective life is 15 years (s 40-95(12)). An example of such information is seismic data held by an entity that licenses it on a non-exclusive basis to multiple clients (TR 2019/4).
 
@@ -59,7 +59,7 @@ The conditions for claiming an immediate deduction for expenditure on rights or 
 
 A production licence granted under the Petroleum (Submerged Lands) Act 1967 (Cth) which included both a right to explore and a right to produce petroleum constituted a single depreciating asset, rather than 2 assets depreciable over diﬀerent time periods (Mitsui & Co Ltd 2011 ATC ¶20-296; [2011] FCA 1423).
 
-Commissioner’s determination of effective life The Commissioner publishes recommended periods of eﬀective life which taxpayers may optionally adopt as a safe harbour estimate for a depreciating asset (ITAA97 s 40-100). For the Commissioner’s latest determinations of eﬀective life see ¶43-000 (TR 2022/1).
+Commissioner's determination of effective life The Commissioner publishes recommended periods of eﬀective life which taxpayers may optionally adopt as a safe harbour estimate for a depreciating asset (ITAA97 s 40-100). For the Commissioner's latest determinations of eﬀective life see ¶43-000 (TR 2022/1).
 
 The appropriate determination to be applied to determine the eﬀective life of a depreciating asset is that in force (s 40-95):
 
@@ -77,9 +77,9 @@ The appropriate determination to be applied to determine the eﬀective life of 
 
 However, if the taxpayer acquired plant or started to construct plant or entered into a contract to acquire plant before 11.45 am on 21 September 1999, the appropriate eﬀective life is that contained in IT 2685. There is no restriction on the period within which the plant must ﬁrst be used or held ready for use.
 
-There is a “statutory cap” on the eﬀective lives of speciﬁed assets where the taxpayer has chosen the eﬀective life determined by the Commissioner (¶17-280).
+There is a "statutory cap" on the eﬀective lives of speciﬁed assets where the taxpayer has chosen the eﬀective life determined by the Commissioner (¶17-280).
 
-Re-estimation of effective life If the eﬀective life based on the Commissioner’s determination is no longer accurate because of changed circumstances relating to the nature of the use of the asset, the taxpayer may recalculate the eﬀective life of the asset (s 40-110). The taxpayer must recalculate the eﬀective life if using the Commissioner’s determination of eﬀective life and the prime cost method (¶17-490), and the cost of the asset during the income year is increased by at least 10%. The taxpayer may conclude that the eﬀective life is unchanged.
+Re-estimation of effective life If the eﬀective life based on the Commissioner's determination is no longer accurate because of changed circumstances relating to the nature of the use of the asset, the taxpayer may recalculate the eﬀective life of the asset (s 40-110). The taxpayer must recalculate the eﬀective life if using the Commissioner's determination of eﬀective life and the prime cost method (¶17-490), and the cost of the asset during the income year is increased by at least 10%. The taxpayer may conclude that the eﬀective life is unchanged.
 
 For example, the eﬀective life of an asset must be recalculated if the cost of modiﬁcations to an asset done during an income year after the year of acquisition increases the total cost of the asset by at least 10%. This is because the cost of improvements may extend the life of the asset.
 

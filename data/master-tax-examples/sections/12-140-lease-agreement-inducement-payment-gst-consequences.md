@@ -11,13 +11,13 @@ GST consequences Worked example: Lease agreement; inducement payment; GST conseq
 
 What are the GST consequences, if any, for either party as a result of entering the lease agreement and the inclusion of the inducement payment?
 
-Solution Entering into the lease agreement creates the supply of a service (access to the premises) by the landlord to the solicitors’ partnership. The “consideration” is the rental payments which are subject to GST in the hands of the landlord. As this is a commercial and not a residential rental agreement, it is not input taxed.
+Solution Entering into the lease agreement creates the supply of a service (access to the premises) by the landlord to the solicitors' partnership. The "consideration" is the rental payments which are subject to GST in the hands of the landlord. As this is a commercial and not a residential rental agreement, it is not input taxed.
 
-Presumably, both the landlord and the tenant solicitor’s firm are registered for the GST.
+Presumably, both the landlord and the tenant solicitor's firm are registered for the GST.
 
 In relation to the inducement payment, it is also necessary to consider if there is a supply and consideration.
 
-Under GST Act s 9-5, the solicitors’ partnership (the tenant) has made a supply by agreeing to enter the lease contract and the consideration received is the inducement payment.
+Under GST Act s 9-5, the solicitors' partnership (the tenant) has made a supply by agreeing to enter the lease contract and the consideration received is the inducement payment.
 
 As a result, the lessee partnership is liable to remit GST to the ATO at the rate of $30,000 / 11 = $2,727.27 (see GST Ruling GSTR 2003/16). On the other hand, where a lessee pays a lease premium in order to secure a lease that will be a supply by the lessor who will be liable to account for the GST on the premium.
 

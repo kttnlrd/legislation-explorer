@@ -40,15 +40,15 @@ compilation_date: 2026-06-06
 
   - (i) the amount of the expenditure is incurred by or on behalf of their employer; and
 
-  - (ii) the employee pays the amount on their employer’s behalf:
+  - (ii) the employee pays the amount on their employer's behalf:
 
 - (d) expenditure on an employment-related loan to which the fringe benefit tax (FBT) rules apply:
 
-- (e) an employer’s superannuation contribution:
+- (e) an employer's superannuation contribution:
 
 - (j) a premium for income protection insurance that an employer is liable to pay or make a contribution towards for the benefit of an employee.
 
-*Defined in this Act: additional transport costs, amount, contribution, employee, employer, employer’s superannuation contribution, employment, employment-related loan, expenditure on account of an employee, FBT rules, pay, premium*
+*Defined in this Act: additional transport costs, amount, contribution, employee, employer, employer's superannuation contribution, employment, employment-related loan, expenditure on account of an employee, FBT rules, pay, premium*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

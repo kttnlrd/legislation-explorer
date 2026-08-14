@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Part-year calculations for transfers**
 
-**(2)**  A transferor to whom sections CR 4 and DW 4 apply does a part-year calculation immediately before the transfer, as described in subsection (3), for the transferred general insurance contracts, but only for their part-year ending on the day the transfer occurs. A transferee to whom sections CR 4 and DW 4 apply also does a part-year calculation for the transferred contracts, as described in subsection (3), but only for their part-year starting on the day the transfer occurs. The transferee’s relevant opening outstanding claims reserve amounts equal the transferor’s relevant closing outstanding claims reserve amounts immediately before the transfer, but if the reinsurance associated with transferred policies is not assigned by the transferor to the transferee, the transferee’s reserve amounts are calculated without subtracting relevant reinsurance amounts.
+**(2)**  A transferor to whom sections CR 4 and DW 4 apply does a part-year calculation immediately before the transfer, as described in subsection (3), for the transferred general insurance contracts, but only for their part-year ending on the day the transfer occurs. A transferee to whom sections CR 4 and DW 4 apply also does a part-year calculation for the transferred contracts, as described in subsection (3), but only for their part-year starting on the day the transfer occurs. The transferee's relevant opening outstanding claims reserve amounts equal the transferor's relevant closing outstanding claims reserve amounts immediately before the transfer, but if the reinsurance associated with transferred policies is not assigned by the transferor to the transferee, the transferee's reserve amounts are calculated without subtracting relevant reinsurance amounts.
 
 **Part-year calculations for transfers: description**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Part-year calculations for transfers: effect**
 
-**(4)**  Transferor’s and transferee’s part-year calculations may give rise to income and deductions for the income year, but they do not create any part-year tax return obligations.
+**(4)**  Transferor's and transferee's part-year calculations may give rise to income and deductions for the income year, but they do not create any part-year tax return obligations.
 
 *Defined in this Act: amount, deduction, general insurance, IFRS 4, income, income tax liability, income year, insurer, outstanding claims reserve, pay, tax year*
 

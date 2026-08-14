@@ -3,21 +3,16 @@ ATO ID 2003/517
 ==================================================
 
 Income Tax
-        Capital gains: capital proceeds arising from the grant of a licence to use premises
-        FOI status: may be released
-
+ Capital gains: capital proceeds arising from the grant of a licence to use premises
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 
@@ -38,20 +33,18 @@ Reasons for Decision:
 CGT event D1 happens if a taxpayer creates a contractual right or other legal or equitable right in another entity (subsection 104-35(1) of the ITAA 1997).
 In the present case, CGT event D1 happens when Company B enters into the Licence Agreement with Company A. Company B has created a right to use the port facilities in Company A.
 A capital gain will arise on CGT event D1 happening if the capital proceeds from creating the right are
-          more
-           than the incidental costs the taxpayer incurred that relate to the event. The taxpayer can make a capital loss if those capital proceeds are
-          less
-           (subsection 104-35(3) of the ITAA 1997).
+ more
+ than the incidental costs the taxpayer incurred that relate to the event. The taxpayer can make a capital loss if those capital proceeds are
+ less
+ (subsection 104-35(3) of the ITAA 1997).
 Generally, the capital proceeds from a CGT event are the total of:
-
-
 
 •the money you have received, or are entitled to receive, in respect of the event happening; and
 •the market value of any other property you have received, or are entitled to receive, in respect of the event happening (worked out as at the time of the event).(subsection 116-20(1) of the ITAA 1997)
 
 Company B does not receive, nor is it entitled to receive, any money as a result of CGT event D1 happening. As a result of granting Company A the right to use the port facilities, Company B is entitled to future income (the Licence Fee) for the term of the Licence. A right to income is generally assignable, and is therefore 'property' for the purposes of paragraph 116-20(1)(b) of the ITAA 1997. However, even though the right to payment is property, the issue in this case is whether this property is received
-          in respect of
-           the event happening.
+ in respect of
+ the event happening.
 It is considered in the circumstances of this case that it is reasonable to conclude that Company A's undertaking to pay relates to the use of the port facilities, rather than the grant of the licence. The obligation of Company A to pay the Licence Fee is only a promise to pay for the use of the port facilities as and when use is permitted.
 Company A does not pay a premium for entering into the Licence Agreement, and the Licence Fee does not contain an embedded premium. Therefore, whilst the right to the Licence Fee is 'property' for the purposes of paragraph 116-20(1)(b) of the ITAA 1997, it is not property received 'in respect of the event happening', and is therefore not capital proceeds in accordance with subsection 116-20(1) of the ITAA 1997.
 Amendment History
@@ -65,10 +58,10 @@ Legislative References:
 Remove legislative reference - Section 109-10
 
 Date of decision:
-         7 March 2003
+  7 March 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -77,35 +70,31 @@ Income Tax Assessment Act 1997   section 104-35   subsection 104-35(3)  
 Keywords
 
 Capital gains tax
-          CGT capital proceeds
-          CGT events D1 - D3 Bringing into existence a CGT asset
-
+ CGT capital proceeds
+ CGT events D1 - D3 Bringing into existence a CGT asset
 
 Siebel/TDMS Reference Number:
-         3088142; 1-8W1U4XE
+  3088142; 1-8W1U4XE
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         4 July 2003
+  4 July 2003
 
 Date reviewed:
-         1 April 2014
+  1 April 2014
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  7 March 2003

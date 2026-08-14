@@ -17,7 +17,7 @@ The following assets are speciﬁcally excluded from the operation of the unifor
 
   under Div 43 for any other reason are not excluded (ID 2005/21). As capital works that are
 
-“plant” (¶17-040) are excluded from Div 43, deductions for the decline in value of plant are available under ITAA97 Div 40 (¶17-015)
+"plant" (¶17-040) are excluded from Div 43, deductions for the decline in value of plant are available under ITAA97 Div 40 (¶17-015)
 
 - certain assets provided by an employer as expense payment beneﬁts or property beneﬁts that are
 

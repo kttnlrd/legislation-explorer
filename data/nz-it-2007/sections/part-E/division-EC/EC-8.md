@@ -32,17 +32,17 @@ compilation_date: 2026-06-06
 
 **Second exception: increase in a class**
 
-**(3)**  Despite subsection (1), a valuation method other than the herd scheme is available to a person in an income year, to the extent of a person’s animals of a class, in an income year (the current year), that are in excess of the person’s class closing animal balance.
+**(3)**  Despite subsection (1), a valuation method other than the herd scheme is available to a person in an income year, to the extent of a person's animals of a class, in an income year (the current year), that are in excess of the person's class closing animal balance.
 
 **A definition and a formula**
 
-**(4)**  Class closing animal balance means the number of animals of a class calculated using the formula— last year’s class amount + associated class transfers.
+**(4)**  Class closing animal balance means the number of animals of a class calculated using the formula— last year's class amount + associated class transfers.
 
 **Definition of items in formula**
 
 **(5)**  In the formula,—
 
-- (a) last year’s class amount is the animals of the relevant class that the person valued under the herd scheme at the end of the year before the current year:
+- (a) last year's class amount is the animals of the relevant class that the person valued under the herd scheme at the end of the year before the current year:
 
 - (b) associated class transfers is the amount, if positive, calculated under section EC 4B(5), for the relevant class, that are transferred in the current year to the person to the extent to which section EC 4B(4) applies to the type of animals transferred.
 

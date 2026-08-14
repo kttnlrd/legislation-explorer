@@ -13,7 +13,7 @@ Early stage investors in start-ups Concessional tax treatment in Subdiv 360-A ap
 
 Investors may be entitled to a capital gains tax exemption (¶11-910).
 
-In addition, entities (other than a trust or partnership) that acquire newly issued qualifying shares in an Australian ESIC may receive a non-refundable carry-forward tax oﬀset of 20% of the value of the amount they paid for the shares, subject to a maximum oﬀset cap amount of $200,000. A total annual investment limit of $50,000 applies to retail investors. There are no restrictions on the amount an entity may invest if it meets the requirements of the sophisticated investor test in s 708 of the Corporations Act 2001 in relation to an oﬀer of shares at any time in the income year. “Qualifying shares” are newly issued equity interests (¶23-115) that are shares in a qualifying ESIC, where the issue of the shares does not constitute an acquisition of ESS interests under an employee share scheme (¶10-080). In ZWBX 2024 ATC ¶10-729; [2024] AATA 2065, it was held that the shares need to be in the ESIC itself, not a holding company or other member of a corporate group that contains an ESIC. In order to qualify for the tax oﬀset:
+In addition, entities (other than a trust or partnership) that acquire newly issued qualifying shares in an Australian ESIC may receive a non-refundable carry-forward tax oﬀset of 20% of the value of the amount they paid for the shares, subject to a maximum oﬀset cap amount of $200,000. A total annual investment limit of $50,000 applies to retail investors. There are no restrictions on the amount an entity may invest if it meets the requirements of the sophisticated investor test in s 708 of the Corporations Act 2001 in relation to an oﬀer of shares at any time in the income year. "Qualifying shares" are newly issued equity interests (¶23-115) that are shares in a qualifying ESIC, where the issue of the shares does not constitute an acquisition of ESS interests under an employee share scheme (¶10-080). In ZWBX 2024 ATC ¶10-729; [2024] AATA 2065, it was held that the shares need to be in the ESIC itself, not a holding company or other member of a corporate group that contains an ESIC. In order to qualify for the tax oﬀset:
 
 - the ESIC must not be an aﬃliate (¶7-050) of the investor nor can the investor be an aﬃliate of the
 
@@ -49,7 +49,7 @@ Venture capital limited partnerships The following tax treatment applies to Earl
 
   of innovation incentives
 
-  income year in which the investee’s market value exceeds $250 million, then the ESVCLP will only
+  income year in which the investee's market value exceeds $250 million, then the ESVCLP will only
 
   be entitled to a partial CGT exemption (¶11-900), and
 
@@ -63,7 +63,7 @@ Venture capital limited partnerships The following tax treatment applies to Earl
 
 118-425.
 
-FinTech businesses Start-up FinTech businesses can access the early stage investor tax concession and the VCLP and ESVCLP regimes for investments made on or after 1 July 2018, following an amendment to the deﬁnition of “ineligible activities” with the result that activities are not “ineligible activities” if they are:
+FinTech businesses Start-up FinTech businesses can access the early stage investor tax concession and the VCLP and ESVCLP regimes for investments made on or after 1 July 2018, following an amendment to the deﬁnition of "ineligible activities" with the result that activities are not "ineligible activities" if they are:
 
 - developing technology in relation to ﬁnance, insurance or making investments
 

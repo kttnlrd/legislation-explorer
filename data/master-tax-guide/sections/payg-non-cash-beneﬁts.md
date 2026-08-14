@@ -9,7 +9,7 @@ paragraph: "¶26-300"
 
 An entity that provides a non-cash beneﬁt, and an entity that receives such a beneﬁt, is in the same position as an entity that pays or receives money. This prevents entities from avoiding their PAYG withholding obligations by providing non-cash beneﬁts.
 
-A “non-cash beneﬁt” is property or services in any form except money, eg a barter transaction. A beneﬁt is taken to have been provided to an entity if it is dealt with on the entity’s behalf or is provided, or dealt with, as the entity directs.
+A "non-cash beneﬁt" is property or services in any form except money, eg a barter transaction. A beneﬁt is taken to have been provided to an entity if it is dealt with on the entity's behalf or is provided, or dealt with, as the entity directs.
 
 Provider of benefit must pay an amount The provider of a non-cash beneﬁt must pay an amount to the Commissioner in respect of the beneﬁt if it would have been required to withhold an amount had the beneﬁt been paid in money equal to the market value of the beneﬁt (TAA sch 1 s 14-5). The market value of a beneﬁt is determined at the time it is provided but anything that would prevent or restrict the conversion of the beneﬁt to money is disregarded. The amount withheld must be paid before providing the beneﬁt. The amount to be paid is equal to the amount that would have been withheld from a cash payment.
 

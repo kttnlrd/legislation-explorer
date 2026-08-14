@@ -20,9 +20,9 @@ compilation_date: 2026-06-06
 
 **ESCT liabilities**
 
-**(3)**  If the PAYE intermediary assumes the employer’s obligations under the ESCT rules, the employer is not liable under the ESCT rules in relation to the employee and the pay period. However, the employer remains liable for the payment to the employee of the employer’s superannuation cash contribution made on the employee’s behalf.
+**(3)**  If the PAYE intermediary assumes the employer's obligations under the ESCT rules, the employer is not liable under the ESCT rules in relation to the employee and the pay period. However, the employer remains liable for the payment to the employee of the employer's superannuation cash contribution made on the employee's behalf.
 
-*Defined in this Act: employee, employer, employer’s superannuation cash contribution, ESCT rules, pay period, PAYE, PAYE intermediary, PAYE rules, salary or wages*
+*Defined in this Act: employee, employer, employer's superannuation cash contribution, ESCT rules, pay period, PAYE, PAYE intermediary, PAYE rules, salary or wages*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -3,18 +3,14 @@ ATO ID 2006/5
 ==================================================
 
 Superannuation
-        Superannuation Contributions Surcharge: constitutionally protected superannuation funds and interest on overpayment
-        FOI status: may be released
-
-
+ Superannuation Contributions Surcharge: constitutionally protected superannuation funds and interest on overpayment
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxpayer, a member of a constitutionally protected superannuation fund (CPF), entitled to interest on overpayment under Part IIE of the Taxation (Interest on Overpayments and Early Payments) Act 1983 (IOP Act) in relation to a payment made in respect of a superannuation contributions tax (surcharge) assessment which was later amended, resulting in a lower surcharge liability?
@@ -33,8 +29,6 @@ In particular, section 8V of the IOP Act states:
 
 If:
 
-
-
 (a)an assessment is made under the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997 in respect of a person's liability to pay superannuation contributions surcharge; and
 (b)the person has paid the assessed amount of the surcharge; and
 (c)the assessment is amended (otherwise than under section 16 of that Act) reducing the liability of the person to pay surcharge;
@@ -45,11 +39,7 @@ The period in which interest is payable is determined by section 8W of the IOP A
 
 The interest is payable for the period that:
 
-
-
 (a)started on the later of the following days:
-
-
 
 (i)the day on which the amount of the surcharge was paid;
 (ii)the day by which the amount of the surcharge was required to be paid; and
@@ -60,8 +50,6 @@ Section 15 of the SCT(CP) Act prescribes the timing in which the surcharge liabi
 Importantly, section 15 of the SCT(CP) Act makes provision for the deferral of surcharge liability. Subsection 15(8) provides that the liability is not required to be paid until three months after the date of issue of a notice given by the Commissioner under subsection 15(7).
 Subsection 15(7) of the SCT(CP) Act states that the Commissioner must give the CPF member a notice, stating that the member is liable to pay an amount of surcharge, if a member becomes liable to pay an amount due to:
 
-
-
 •a benefit becoming payable to the CPF member (subsection 15(6)); or
 •a 'splittable payment' becoming payable (subsection 15(6AA)); or
 •the CPF ceasing to be a CPF (subsection 15(6A)).
@@ -71,10 +59,10 @@ For the purposes of subparagraph 8W(a)(ii) of the IOP Act, the day by which the 
 While the member paid an amount to reduce the surcharge debt account, section 8W of the IOP Act states that the period for which interest is paid starts on the later date of when the surcharge was paid or the day by which the amount of the surcharge was required to be paid.
 Due to the operation of section 8W of the IOP Act, as the required payment date did not occur before the day on which the assessment was amended, there is no period for which interest is payable.
 Date of decision:
-         24 February 2004
+  24 February 2004
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -88,24 +76,23 @@ Related ATO Interpretative Decisions
 Keywords
 
 Superannuation
-          Superannuation contributions surcharge
-          Superannuation contributions tax
-          Interest on overpayment
-          Constitutionally Protected Superannuation Funds
-          Amendment of assessment
-
+ Superannuation contributions surcharge
+ Superannuation contributions tax
+ Interest on overpayment
+ Constitutionally Protected Superannuation Funds
+ Amendment of assessment
 
 Siebel/TDMS Reference Number:
-         4959246; 1-5MOYG7M; 1-8II8Q19; 1-FZRSRJG
+  4959246; 1-5MOYG7M; 1-8II8Q19; 1-FZRSRJG
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         13 January 2006
+  13 January 2006
 
 Date reviewed:
-         7 August 2018
+  7 August 2018
 
 ISSN:
-          1445-2782
+ 1445-2782

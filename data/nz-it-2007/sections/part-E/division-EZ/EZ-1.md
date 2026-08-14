@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Specific liability**
 
-**(4)**  Specific liability is the amount in the life insurer’s total liability on the last day of the 1987–88 income year for the following matters covered by the life insurer’s Life Insurance Fund:
+**(4)**  Specific liability is the amount in the life insurer's total liability on the last day of the 1987–88 income year for the following matters covered by the life insurer's Life Insurance Fund:
 
 - (a) superannuation policies; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Total liability**
 
-**(5)**  Total liability is the life insurer’s liability for life insurance policies on the last day of the 1987–88 income year.
+**(5)**  Total liability is the life insurer's liability for life insurance policies on the last day of the 1987–88 income year.
 
 **Property sum**
 

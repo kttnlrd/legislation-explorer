@@ -3,21 +3,16 @@ ATO ID 2002/492
 ==================================================
 
 Goods and Services Tax
-        GST and grouping of companies when an individual has 100 per cent ownership of each company
-        FOI status: may be released
-
+ GST and grouping of companies when an individual has 100 per cent ownership of each company
+ FOI status: may be released
 
 This ATO ID has been amended due to changes to Division 48 of the A New Tax System (Goods and Services Tax) Act 1999 which apply to tax periods starting on or after 1 July 2010
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Do the entities, companies A, B and C, satisfy the membership requirements of a GST group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when an individual has 100% ownership of each company?
@@ -31,15 +26,12 @@ Section 48-5 of the GST Act sets out the requirements that must be satisfied for
 The membership requirements of a GST group are set out in section 48-10 of the GST Act. Under paragraph 48-10(1)(b) of the GST Act, to be a member of a GST group that contains other companies, a company must be part of the same 90% owned group as all the other companies in the proposed GST group.
 Division 190 of the GST Act defines the term '90% owned group'. According to section 190-1 of the GST Act, two companies are members of the same 90% owned group if:
 
-
-
 •one of the companies has at least a 90% stake in the other company, or
 •a third company has at least a 90% stake in each of the two companies.
 
 In this case, an individual has 100% direct ownership of each of the companies. Companies A, B and C do not have any ownership interests in each other.
 As none of the companies have any ownership interests in each other, they are not part of the same 90% owned group.
 Therefore, companies A, B and C, do not satisfy the membership requirements of a GST group under section 48-10 of the GST Act, where an individual has 100% ownership of each company.
-
 
 Note 1: Previously this ATO ID had, as a fact, that the individual who had 100% ownership of companies A, B and C is not included in the proposed GST group. This fact is irrelevant because the companies cannot be in the same GST group, whether (or not) the individual is in the GST group.
 
@@ -48,7 +40,7 @@ Note 2: Division 48 of the GST Act was amended with effect from tax periods star
 [HISTORY: This ATO ID was amended on 16 March 2007 to improve clarity.]
 
 Date of decision:
-         14 December 2001
+  14 December 2001
 
 Legislative References:
 
@@ -57,18 +49,17 @@ A New Tax System (Goods and Services Tax) Act 1999   section 48-5   paragr
 Keywords
 
 Goods & services tax
-          GST special rules
-          GST groups
-
+ GST special rules
+ GST groups
 
 Siebel/TDMS Reference Number:
-         CW250912
+  CW250912
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         30 April 2002
+  30 April 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -3,18 +3,14 @@ ATO ID 2004/46
 ==================================================
 
 Excise
-        Wine Equalisation Tax: taxable value - arm's length value of transaction
-        FOI status: may be released
-
-
+ Wine Equalisation Tax: taxable value - arm's length value of transaction
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is 50% of the retailer's retail price (including Wine Equalisation Tax (WET) and Goods and Services Tax (GST)) an acceptable arm's length price for wine for the purposes of section 27-10 of the A New Tax System (Wine Equalisation Tax) Act 1999 where a manufacturer of wine sells exclusively to a retailer and the manufacturer and the retailer are not dealing with each other at arm's length in relation to the transaction?
@@ -29,7 +25,7 @@ A manufacturer selling wine to a retailer is required to pay WET on the price (e
 Where parties to a sale of wine are not dealing with each other at arm's length and this affects the price of the wine, section 27-10 of the WET Act requires the WET liability to be calculated on a taxable value which reflects the price for which the wine could reasonably be expected to have been sold under an arm's length transaction. Accordingly, if sales by the manufacturer to the interposed retailer are considered to be non-arm's length transactions, the manufacturer's liability to WET is required to be calculated as if the sales had occurred at arm's length.
 Because WET would have been calculated on 50% of the retail price (including WET and GST) of the wine if the retailer had not been interposed, this value represents an acceptable arm's length price (excluding WET and GST) for non-arm's length sales by the manufacturer to the related retailer. However, if the actual price charged (excluding WET and GST) by the manufacturer to the related retailer is equal to or more than 50% of the retailer's retail price (including WET and GST) then the price charged is acceptable as the arm's length price and no alteration to the WET liability under section 27-10 of the WET Act is necessary.
 Date of decision:
-         14 January 2004
+  14 January 2004
 
 Legislative References:
 
@@ -38,19 +34,18 @@ A New Tax System (Wine Equalisation Tax) Act 1999   section 27-10   sectio
 Keywords
 
 Grape wine
-          WET taxable value
-          Wine
-          Wine equalisation tax
-
+ WET taxable value
+ Wine
+ Wine equalisation tax
 
 Siebel/TDMS Reference Number:
-         3839747
+  3839747
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         23 January 2004
+  23 January 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

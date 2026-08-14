@@ -11,7 +11,7 @@ In accordance with the normal rules, the supply of a car as part of an enterpris
 
 An additional luxury car tax applies where the market value exceeds a certain limit (see below). Input tax credits may also be limited in that situation.
 
-Luxury cars In addition to GST, a special tax known as the “luxury car tax” applies where the GST inclusive price of a car exceeds the luxury car tax threshold. For 2024–25, the luxury car tax threshold is normally $80,567, though a higher limit of $91,387 applies to certain “fuel eﬃcient cars”. The amounts for 2023–24 were $76,950 and $89,332, respectively.
+Luxury cars In addition to GST, a special tax known as the "luxury car tax" applies where the GST inclusive price of a car exceeds the luxury car tax threshold. For 2024–25, the luxury car tax threshold is normally $80,567, though a higher limit of $91,387 applies to certain "fuel eﬃcient cars". The amounts for 2023–24 were $76,950 and $89,332, respectively.
 
 A fuel eﬃcient car is one with a fuel consumption (according to combined ratings under vehicle standards) that does not exceed 7 litres per 100 km. The government proposes that from 1 July 2025, this will be reduced to 3.5 litres per 100 km (2023–24 MYEFO; Treasury Laws Amendment (Tax Incentives and Integrity) Bill 2024 (¶41-250)).
 
@@ -31,7 +31,7 @@ Reimportation of luxury cars From 1 January 2019, the liability for luxury car t
 
 - Taxi operators are required to be registered for GST, irrespective of GST turnover (s 144-5).
 
-In Uber 2017 ATC ¶20-608; [2017] FCA 110, the Federal Court ruled that services supplied by an Uber driver constituted the supply of “taxi travel” within the meaning of s 144-5. The decision conﬁrms a view previously expressed by the ATO that providers of “ride-sourcing services” are essentially providing taxi travel services and are required to be registered for GST (Ride-sourcing – what you need to know).
+In Uber 2017 ATC ¶20-608; [2017] FCA 110, the Federal Court ruled that services supplied by an Uber driver constituted the supply of "taxi travel" within the meaning of s 144-5. The decision conﬁrms a view previously expressed by the ATO that providers of "ride-sourcing services" are essentially providing taxi travel services and are required to be registered for GST (Ride-sourcing – what you need to know).
 
 - Supplies of cars to disabled veterans (s 38-505) and other disabled people (s 38-510) may
 

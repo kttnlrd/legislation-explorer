@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Apportionment**
 
-**(5)**  For the person’s benefit under subsection (1), the portion of that benefit calculated using the formula is treated as non-residents’ foreign-sourced income— benefit before reduction × offshore period ÷ earning period.
+**(5)**  For the person's benefit under subsection (1), the portion of that benefit calculated using the formula is treated as non-residents' foreign-sourced income— benefit before reduction × offshore period ÷ earning period.
 
 **Definition of items in formula**
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 - (c) earning period is the period ending with the vesting of shares or relevant rights in the employee share scheme beneficiary and starting with the earlier of—
 
-  - (i) the first date used to measure the person’s right in relation to the vesting of shares or relevant rights:
+  - (i) the first date used to measure the person's right in relation to the vesting of shares or relevant rights:
 
   - (ii) the first date that the person has a right in relation to the vesting of shares or relevant rights.
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 **(9)**  For the purposes of this section and sections RD 6 and RD 7B (which relate to employee share schemes), the ESS deferral date is the 20th day after the share scheme taxing date for the employee share scheme beneficiary.
 
-*Defined in this Act: amount, amount of tax, consideration, deduction, employee, employee share scheme, employee share scheme beneficiary, employer, employment income, employment income information, ESS deferral date, foreign-sourced amount, income, market value, non-residents’ foreign-sourced income, pay, replacement employee share scheme, resident in New Zealand, share, share scheme taxing date*
+*Defined in this Act: amount, amount of tax, consideration, deduction, employee, employee share scheme, employee share scheme beneficiary, employer, employment income, employment income information, ESS deferral date, foreign-sourced amount, income, market value, non-residents' foreign-sourced income, pay, replacement employee share scheme, resident in New Zealand, share, share scheme taxing date*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

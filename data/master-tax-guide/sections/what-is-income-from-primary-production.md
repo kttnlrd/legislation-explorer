@@ -9,7 +9,7 @@ paragraph: "¶18-030"
 
 For a number of reasons it may be necessary to determine what constitutes income from primary production.
 
-This is relevant mainly for the purpose of the averaging provisions, which require a primary producer’s “taxable primary production income” and “taxable non-primary production income” to be separately identiﬁed (¶18-210). Some common items of primary production income are:
+This is relevant mainly for the purpose of the averaging provisions, which require a primary producer's "taxable primary production income" and "taxable non-primary production income" to be separately identiﬁed (¶18-210). Some common items of primary production income are:
 
 - proceeds from the sale of produce
 
@@ -85,9 +85,9 @@ Package and similar entitlements, see CR 2007/47, CR 2007/49, CR 2007/64, CR 200
 
   the grant requires the taxpayer to transfer ownership of all their irrigated land and, as a result,
 
-  the taxpayer’s farming business ceases (¶10-160). A payment to a farmer under the Namoi River
+  the taxpayer's farming business ceases (¶10-160). A payment to a farmer under the Namoi River
 
-Groundwater Structural Adjustment Program, described as “ﬁnancial assistance to help licence holders adjust to changes in groundwater access”, was not liable to income tax (Carberry 2011 ATC ¶10-181; [2011] AATA 303). The Commissioner considers that a GSAP payment may be income if the recipient completes all of the steps in the program (ATO Decision Impact Statement on Carberry 2011 ATC ¶10-181; [2011] AATA 303).
+Groundwater Structural Adjustment Program, described as "ﬁnancial assistance to help licence holders adjust to changes in groundwater access", was not liable to income tax (Carberry 2011 ATC ¶10-181; [2011] AATA 303). The Commissioner considers that a GSAP payment may be income if the recipient completes all of the steps in the program (ATO Decision Impact Statement on Carberry 2011 ATC ¶10-181; [2011] AATA 303).
 
 - Grazing/conservation payments. Stewardship and on-ground works payments received under
 
@@ -95,7 +95,7 @@ Groundwater Structural Adjustment Program, described as “ﬁnancial assistance
 
   payments and ongoing conservation management payments to landholders under the Western
 
-Catchment Management Authority’s Enterprise Based Conservation Program (CR 2007/92); payments received under the Lower Murray Darling Catchment Management Authority Rangelands Incentive Strategy — Conservation Reserves and Sustainable Grazing Schemes (CR 2007/87); and conservation management payments under Murrumbidgee Catchment Management Authority EcoTender programs (CR 2010/1; CR 2010/76).
+Catchment Management Authority's Enterprise Based Conservation Program (CR 2007/92); payments received under the Lower Murray Darling Catchment Management Authority Rangelands Incentive Strategy — Conservation Reserves and Sustainable Grazing Schemes (CR 2007/87); and conservation management payments under Murrumbidgee Catchment Management Authority EcoTender programs (CR 2010/1; CR 2010/76).
 
 - Hedging contracts on futures markets. Income from hedging contracts on futures markets
 
@@ -117,7 +117,7 @@ Catchment Management Authority’s Enterprise Based Conservation Program (CR 200
 
 2008/2. See also TR 93/26 (tax treatment of stallion syndicates). For the circumstances in which the activities qualify as a primary production business, see TR 97/11.
 
-- Interest and dividends. Interest on a primary producer’s term deposit account opened as a
+- Interest and dividends. Interest on a primary producer's term deposit account opened as a
 
   condition of obtaining ﬁnance to purchase a new farming property was held to be assessable
 
@@ -187,7 +187,7 @@ CGT roll-over relief is available for taxpayers who replace an entitlement to wa
 
 - Wind farming income. Ordinary income earned by an individual from allowing wind farming
 
-  infrastructure to be built and operated on farmland is not “assessable primary production income”
+  infrastructure to be built and operated on farmland is not "assessable primary production income"
 
   for the purposes of ITAA97 Div 392 (TD 2013/2).
 
@@ -199,7 +199,7 @@ In sales by forward contracts, income is derived when the buyer, having taken de
 
 Generally, the amount of the deduction excludes the amount of any input tax credit to which the taxpayer may be entitled. Decreasing adjustments are included in assessable income and increasing adjustments are deductible (ITAA97 s 27-105).
 
-Where a commercial debt is forgiven, the debtor’s deduction under the capital allowance provisions in ITAA97 Div 40 may be reduced under the rules outlined at ¶16-910. Special provisions apply if property is acquired under limited recourse ﬁnance and the debt is terminated before full repayment (¶23-260).
+Where a commercial debt is forgiven, the debtor's deduction under the capital allowance provisions in ITAA97 Div 40 may be reduced under the rules outlined at ¶16-910. Special provisions apply if property is acquired under limited recourse ﬁnance and the debt is terminated before full repayment (¶23-260).
 
 If an entity joins or leaves a consolidated group under the consolidation regime (¶8-000), any deduction under the primary production provisions (other than for the decline in value of depreciating assets) is allocated between the 2 entities (ITAA97 ss 716-25; 716-70: ¶8-580). Special rules apply for depreciating assets.
 
@@ -207,7 +207,7 @@ The primary production deductions are subject to the rules for tax-preferred lea
 
 Special rules for partnerships If the expenditure relating to some of the above items is incurred by a partnership, it is not deductible in arriving at the net income or loss of the partnership. Instead, each partner is treated as having personally incurred a part of the cost and is entitled to claim deductions based on that part. If the partners have not agreed on the share of the cost each will bear, the total cost is divided between them in the same ratio as their respective interests in the net partnership income or loss (¶5-130) of that year.
 
-Non-arm’s length dealings Where the expenditure is incurred under a “non-arm’s length dealing” and exceeds the “market value” (¶17-045, ¶17-050) of what the expenditure is for, only that market value is taken into account in calculating the deduction.
+Non-arm's length dealings Where the expenditure is incurred under a "non-arm's length dealing" and exceeds the "market value" (¶17-045, ¶17-050) of what the expenditure is for, only that market value is taken into account in calculating the deduction.
 
 *Refs: s 6-5, s 15-10, s 53-10, ITAA97 s 27-105), s 716-25*
 

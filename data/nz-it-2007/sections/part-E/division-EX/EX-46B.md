@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
   - (iv) no effective redemption facility for market value is available to the person for the share; and
 
-  - (v) less than 80% of the foreign company’s value is from shares that would not satisfy subparagraph (iii) or (iv); and
+  - (v) less than 80% of the foreign company's value is from shares that would not satisfy subparagraph (iii) or (iv); and
 
 - (b) includes an attributing interest in a FIF that satisfies the criteria set out in paragraph (a), ignoring subparagraph (ii), if—
 

@@ -11,7 +11,7 @@ A business may operate through branches. Even though they are not separate entit
 
 To avoid the administrative and accounting costs of this procedure, special rules allow you to register your branches separately (Div 54). This is like the converse of the GST group situation.
 
-- you (the “parent”) must be registered
+- you (the "parent") must be registered
 
 - you must carry on an enterprise through the branch (or intend to)
 
@@ -31,9 +31,9 @@ A separate return should be made for each GST branch. The ultimate responsibilit
 
 The tax invoice for any taxable supply made through a GST branch must show the branch registration number (s 54-50). The same applies to adjustment notes.
 
-If the whole of the parent’s business is carried on through branches, and they are all separately registered, the parent will not have any of its own GST to pay (s 54-45). Nor will it have to lodge its own return (s 54-55).
+If the whole of the parent's business is carried on through branches, and they are all separately registered, the parent will not have any of its own GST to pay (s 54-45). Nor will it have to lodge its own return (s 54-55).
 
-This, however, would probably be an exceptional situation. In practice, the parent will normally conduct its own transactions which are not covered in the branches’ activities.
+This, however, would probably be an exceptional situation. In practice, the parent will normally conduct its own transactions which are not covered in the branches' activities.
 
 *Refs: s 54-40), s 54-60), s 54-55), s 54-50), s 54-45)*
 

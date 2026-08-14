@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(2)**  The mineral miner may make an election to apply this section in relation to the permit area in a return of income for an income year that is the first year in which the miner’s commercial production of a listed industrial mineral from the mining permit area starts. The election is irrevocable and applies only to expenditure referred to in subsection (1)﻿(a).
+**(2)**  The mineral miner may make an election to apply this section in relation to the permit area in a return of income for an income year that is the first year in which the miner's commercial production of a listed industrial mineral from the mining permit area starts. The election is irrevocable and applies only to expenditure referred to in subsection (1)﻿(a).
 
 **Reserve depletion method**
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(4)**  In the formula,—
 
-- (a) reserve expenditure is the total amount of the mineral miner’s expenditure described in section DU 6(1)﻿(a) for the permit area for the income year and earlier income years to which this section applies:
+- (a) reserve expenditure is the total amount of the mineral miner's expenditure described in section DU 6(1)﻿(a) for the permit area for the income year and earlier income years to which this section applies:
 
 - (b) previous expenditure is the total expenditure for the permit area that has been allocated to an earlier income year to which this section applied:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Appropriate units of measure**
 
-**(5)**  In subsection (4)﻿(c) and (d), the amount must be expressed in an appropriate unit of measure as set out in the mineral miner’s reserve statement, and must be the same measure used in the formula for the items defined in those paragraphs.
+**(5)**  In subsection (4)﻿(c) and (d), the amount must be expressed in an appropriate unit of measure as set out in the mineral miner's reserve statement, and must be the same measure used in the formula for the items defined in those paragraphs.
 
 **Mines and mining permit areas**
 

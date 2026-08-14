@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(3)**  In the formula,—
 
-- (a) net interest is the deductions for interest allowed to the company or person under sections DB 6 to DB 9 (which relate to deductions for interest) from a financial arrangement providing funds to the company or person, reduced by the income of the company or person from a financial arrangement on arm’s-length terms providing funds to a person who meets the requirements of section FE 13(3):
+- (a) net interest is the deductions for interest allowed to the company or person under sections DB 6 to DB 9 (which relate to deductions for interest) from a financial arrangement providing funds to the company or person, reduced by the income of the company or person from a financial arrangement on arm's-length terms providing funds to a person who meets the requirements of section FE 13(3):
 
 - (b) NZ group ratio is the interest-income ratio given by section FE 5(1E) for the New Zealand group of the company or person:
 

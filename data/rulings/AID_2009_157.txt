@@ -3,18 +3,14 @@ ATO ID 2009/157
 ==================================================
 
 Income Tax
-        Non-portfolio dividends: returns on redeemable preference shares - debt interests
-        FOI status: may be released
-
-
+ Non-portfolio dividends: returns on redeemable preference shares - debt interests
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a return on a redeemable preference share, which is a debt interest under Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997), non-assessable non-exempt income under section 23AJ of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -32,16 +28,12 @@ At the time of the payment of the return on the shares, Austco does not have an 
 Reasons for Decision
 Section 23AJ of the ITAA 1936 provides that a non-portfolio dividend (as defined in subsection 317(1) of the ITAA 1936) is non-assessable non-exempt income of a company if:
 
-
-
 -it is paid to the company
 -the company is an Australian resident
 -the company does not receive the dividend in the capacity of a trustee
 -the company that paid the dividend is not a Part X Australian resident (as defined in subsection 317(1)).
 
 Subsection 317(1) of the ITAA 1936 defines a non-portfolio dividend as:
-
-
 
 -a dividend
 -other than an eligible finance share dividend or a widely distributed finance share dividend
@@ -59,8 +51,6 @@ As Austco has a voting interest of 48% in Forco, it has a voting interest which 
 Therefore, the distribution is a non-portfolio dividend as defined in subsection 317(1) of the ITAA 1936 for the purposes of section 23AJ of the ITAA 1936.
 The remaining requirements of section 23AJ of the ITAA 1936 are satisfied because:
 
-
-
 •Austco is a company;
 •Austco is an Australian resident;
 •Austco does not receive the distribution in the capacity of a trustee; and
@@ -69,10 +59,10 @@ The remaining requirements of section 23AJ of the ITAA 1936 are satisfied becaus
 Paragraph 1 of Taxation Determination TD 2006/51 states that section 23AJ of the ITAA 1936 does not apply to dividends to the extent that a dividend is non-assessable non-exempt income under section 23AI of the ITAA 1936. As Austco does not have an attribution surplus in respect of Forco, no attribution debit arises under section 372 of the ITAA 1936 when the dividend is paid by Forco to Austco. Therefore, section 23AI of the ITAA 1936 does not apply to make the dividend non-assessable non-exempt income under that section.
 As all of the elements of section 23AJ of the ITAA 1936 are satisfied in the present case and the dividend is not non-assessable non-exempt income under section 23AI of the ITAA 1936, the return on the redeemable preference share which is a debt interest under Division 974 of the ITAA 1997 is non-assessable non-exempt income of Austco under section 23AJ of the ITAA 1936.
 Date of decision:
-         2 December 2009
+  2 December 2009
 
 Year of income:
-           Year ended 30 June 2010
+  Year ended 30 June 2010
 
 Legislative References:
 
@@ -87,23 +77,21 @@ Other References:
 
  Explanatory Memorandum to the New Business Tax System (Debt and Equity) Bill 2001
 
-
 Keywords
 
 Debt interest
-          Dividend income
-          Foreign income
-          Non portfolio foreign income
-
+ Dividend income
+ Foreign income
+ Non portfolio foreign income
 
 Siebel/TDMS Reference Number:
-         1-1SSFW68
+  1-1SSFW68
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         18 December 2009
+  18 December 2009
 
 ISSN:
-          1445-2782
+ 1445-2782

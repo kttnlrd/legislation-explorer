@@ -11,7 +11,7 @@ The GST and the input tax credits that belong to each period are worked out acco
 
 If it is on the cash basis, the GST and input tax credits for each tax period are worked out on the basis of amounts actually received and paid out. An entity can use the cash basis if:
 
-- it is a “small business entity” (¶7-050) or, if it does not carry on a business, its GST turnover does
+- it is a "small business entity" (¶7-050) or, if it does not carry on a business, its GST turnover does
 
   not exceed $2 million
 

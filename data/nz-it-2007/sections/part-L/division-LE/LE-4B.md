@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Trustee treated as beneficiary**
 
-**(2)**  To the extent to which section HC 38 (Beneficiary income of certain close companies) applies, the person is treated as deriving the company’s beneficiary income as a beneficiary.
+**(2)**  To the extent to which section HC 38 (Beneficiary income of certain close companies) applies, the person is treated as deriving the company's beneficiary income as a beneficiary.
 
 *Defined in this Act: agent, beneficiary income, close company, tax credit, trustee*
 

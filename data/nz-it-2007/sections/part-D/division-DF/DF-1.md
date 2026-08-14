@@ -34,9 +34,9 @@ compilation_date: 2026-06-06
 
 **(1BA)**  This section does not apply to the extent to which a payment described in subsection (1) is—
 
-- (a) the payment of an R&D loss tax credit and the person’s expenditure is attributable to that payment:
+- (a) the payment of an R&D loss tax credit and the person's expenditure is attributable to that payment:
 
-- (b) an RDTI transition support payment and the person’s expenditure is attributable to that payment.
+- (b) an RDTI transition support payment and the person's expenditure is attributable to that payment.
 
 **When subsection (2) applies**
 

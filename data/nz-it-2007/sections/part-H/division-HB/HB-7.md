@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner’s interests for a look-through company, to the extent to which those interests include an item of depreciable property that is not depreciable intangible property, and the total cost of the item when it was first acquired by the look-through company (whether or not it was at that time a look-through company) is $200,000 or less.
+**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner's interests for a look-through company, to the extent to which those interests include an item of depreciable property that is not depreciable intangible property, and the total cost of the item when it was first acquired by the look-through company (whether or not it was at that time a look-through company) is $200,000 or less.
 
 **Exiting owner: excluded payment**
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(6)**  Section HB 4 overrides this section.
 
-*Defined in this Act: acquire, amount, deduction, depreciable intangible property, depreciable property, dispose, entering owner, excluded income, income tax liability, income year, look-through company, owner’s interests, pay*
+*Defined in this Act: acquire, amount, deduction, depreciable intangible property, depreciable property, dispose, entering owner, excluded income, income tax liability, income year, look-through company, owner's interests, pay*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Bright-line start date**
 
-**(4)**  The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
+**(4)**  The transferee's bright-line start date for the land is the transferor's bright-line start date.
 
 **Transitional rule for change in terminology**
 
-**(5)**  For the purposes of subsection (4), if the transferor acquired the land before 1 July 2024, the transferor’s bright-line acquisition date is treated as a bright-line start date.
+**(5)**  For the purposes of subsection (4), if the transferor acquired the land before 1 July 2024, the transferor's bright-line acquisition date is treated as a bright-line start date.
 
 **Meaning of Māori rollover trust**
 

@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(3)**  The credit date is,—
 
-- (a) for an entitlement to funds that are transferred by the intermediary from the tax pooling account to the company’s tax account with the Commissioner, the credit date under section RP 19 (Transfers from tax pooling accounts) for the amount transferred; or
+- (a) for an entitlement to funds that are transferred by the intermediary from the tax pooling account to the company's tax account with the Commissioner, the credit date under section RP 19 (Transfers from tax pooling accounts) for the amount transferred; or
 
 - (ab) for an entitlement to funds that are transferred by the intermediary from the tax pooling account to the Commissioner to satisfy a liability of the company that is an increased amount of tax under section RP 17B (Tax pooling accounts and their use) other than income tax, the date of the transfer; or
 

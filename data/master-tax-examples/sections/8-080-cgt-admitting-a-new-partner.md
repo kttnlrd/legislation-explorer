@@ -19,7 +19,7 @@ Each partner is regarded as owning an interest in each partnership asset (ITAA97
 
 Any capital gain is shown in the individual tax returns of each partner and is not included when determining the net income of the partnership under ITAA36 s 90.
 
-Ellen and Madeline will be acquiring a one-third interest in the $300,000 asset contributed by Arron. Ellen and Madeline have a cost base of $100,000 each in relation to the interest acquired in Arron’s asset.
+Ellen and Madeline will be acquiring a one-third interest in the $300,000 asset contributed by Arron. Ellen and Madeline have a cost base of $100,000 each in relation to the interest acquired in Arron's asset.
 
 Ellen and Madeline are each disposing of one-third of their interest in the property of the old partnership, which has a market value of $500,000. The cost base of that interest, however, will be based on the value of the property previously contributed by them.
 

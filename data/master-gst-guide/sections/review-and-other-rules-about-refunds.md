@@ -9,7 +9,7 @@ paragraph: "¶8-120"
 
 Taxpayers have the normal rights of objection and review in challenging assessments that include excess GST. A separate review right also applies where the Commissioner refuses to exercise the discretion under s 142-15 to allow a refund of excess GST that has been passed and not reimbursed (¶18-600).
 
-The objection must be made within 60 days after the taxpayer is notified of the decision, or four years after the end of the tax period to which the decision relates (Administration Act, s 14ZW). Apart from the normal rights of objection, “judicial review” of the Commissioner’s decision by the Federal Court (¶18-600) may be available, though was refused in PFTF Stock Pty Ltd v FC of T [2010] FCA 557.
+The objection must be made within 60 days after the taxpayer is notified of the decision, or four years after the end of the tax period to which the decision relates (Administration Act, s 14ZW). Apart from the normal rights of objection, "judicial review" of the Commissioner's decision by the Federal Court (¶18-600) may be available, though was refused in PFTF Stock Pty Ltd v FC of T [2010] FCA 557.
 
 The ATO accepts that a taxpayer can object to a private ruling that the Commissioner makes on the availability of a refund, provided that an assessment has not already been made (GST Determination GSTD 2014/1).
 

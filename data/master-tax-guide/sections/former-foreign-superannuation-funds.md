@@ -9,11 +9,11 @@ paragraph: "¶13-270"
 
 If a foreign superannuation fund becomes an Australian superannuation fund (¶13-100) during a year of income, its assessable income in the year it changes its status will include its ordinary income and statutory income from previous years as calculated using the formula below (ITAA97 s 295-320, item 3): asset values less member contributions where:
 
-- “asset values” is the sum of the market values of the fund’s assets just before the start of the year
+- "asset values" is the sum of the market values of the fund's assets just before the start of the year
 
   of income, and
 
-- “member contributions” is the amount in the fund at that time representing contributions made by
+- "member contributions" is the amount in the fund at that time representing contributions made by
 
   current members of the fund (ITAA97 s 295-330).
 

@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **(3)**  If the person incurs expenditure (the replacement cost) to acquire replacement property,—
 
-- (a) for the purposes of determining the value of the replacement property for section EA 2 (Other revenue account property), the amount of the person’s expenditure on the replacement property is reduced by—
+- (a) for the purposes of determining the value of the replacement property for section EA 2 (Other revenue account property), the amount of the person's expenditure on the replacement property is reduced by—
 
   - (i) the amount calculated by dividing the replacement cost by the total amount of deductions under sections DB 23 and DB 27 for the affected property and multiplying the result by the excess of the insurance income over the replacement cost, if the insurance income exceeds the replacement cost and the calculated amount is less than or equal to the amount of insurance income; or
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **(4)**  For an item of affected property, replacement property must be a building or land that is revenue account property—
 
-- (a) acquired in or before the person’s 2023–24 income year; and
+- (a) acquired in or before the person's 2023–24 income year; and
 
 - (b) located in the earthquake-affected area as that term is defined in section 4 of the Hurunui/Kaikōura Earthquakes Recovery Act 2016, relating to—
 

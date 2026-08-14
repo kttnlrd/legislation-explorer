@@ -3,26 +3,19 @@ ATO ID 2003/1016
 ==================================================
 
 Goods and Services Tax
-        GST and grouping of two or more companies where some of the companies are owned by a holding company
-        FOI status: may be released
-
+ GST and grouping of two or more companies where some of the companies are owned by a holding company
+ FOI status: may be released
 
 This ATO ID has been amended due to changes to Division 48 of the A New Tax System (Goods and Services Tax) Act 1999 which apply to tax periods starting on or after 1 July 2010
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Do entities A, B, C, D, E and F, all companies, satisfy the membership requirements under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) for the formation of a GST group where:
-
-
 
 • entity A owns 100% of entity B and C, entity B owns 67% of entity D and 50% of entity E,
 • entity F is not related to any of the other entities,
@@ -34,13 +27,10 @@ No, none of the entities satisfy the membership requirements of a GST group unde
 Facts
 Entities A, B, E and F are registered for GST. Entities C and D are not. Entities B, E and F account for GST on a different basis from entity A. The ownership structure of the entities is shown in the following diagram:
 
-
 Entity A has an individual as the only member (shareholder). Entity A is the only member of entity B and entity C. Entity B owns a 67% membership (shareholding) in entity D and a 50% membership in entity E. Entity F has as its only members two individuals and so is not related to any of the other companies.
 Reasons for Decision
 The membership requirements of entities proposing to form a GST group are set out in section 48-10 of the GST Act.
 In relation to companies, each entity must:
-
-
 
 • be a company of the same 90% owned group as all the other members of the GST group or proposed GST group that are also companies
 • be registered for GST
@@ -52,8 +42,6 @@ In relation to companies, each entity must:
 Same 90% owned group
 Section 190-1 of the GST Act provides that two companies are members of the same 90% owned group if one of the companies has, at least, a 90% stake in the other company or a third company has, at least, a 90% stake in each of the two companies.
 Section 190-5 of the GST Act provides that a company (the holding company) has, at least, a 90% stake in another company (the subsidiary company) when it:
-
-
 
 • controls, or is able to control, at least 90% of the voting power in the subsidiary company (whether directly, or indirectly, through one or more interposed companies), and
 • has the right to receive (whether directly, or indirectly, through one or more interposed companies) at least 90% of any dividends that the subsidiary company may pay, and
@@ -69,11 +57,10 @@ Accounting Basis
 Entities A and B do not account for GST on the same basis as each other and cannot be members of the same GST group.
 As such, none of the entities satisfy the membership requirements of a GST group under section 48-10 of the GST Act.
 
-
 [Note: Division 48 of the GST Act was amended with effect from tax periods starting on or after 1 July 2010. Prior to the amendments, entities were required to apply to the Commissioner for approval to form a GST group.]
 
 Date of decision:
-         4 July 2003
+  4 July 2003
 
 Legislative References:
 
@@ -87,21 +74,20 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST special rules
-          GST branches
-          GST groups
-          GST regulations
-          GST tax periods
-
+ GST special rules
+ GST branches
+ GST groups
+ GST regulations
+ GST tax periods
 
 Siebel/TDMS Reference Number:
-         3224087
+  3224087
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         14 November 2003
+  14 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

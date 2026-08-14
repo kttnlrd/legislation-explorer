@@ -77,4 +77,4 @@ The ATO says that if, after you cease to be registered, you receive a tax invoic
 
 ## The general effects of cancellation of registration are:
 
-## This will be the business’s final tax period
+## This will be the business's final tax period

@@ -19,7 +19,7 @@ Applications for registration may be made to the ACNC Commissioner in the approv
 
 - not be characterised as engaged in or supporting terrorist or other criminal activities.
 
-The ACNC Commissioner may revoke an entity’s registration in certain circumstances (ACNC Act s 35-10).
+The ACNC Commissioner may revoke an entity's registration in certain circumstances (ACNC Act s 35-10).
 
 There are rights of review or appeal against decisions of the ACNC Commissioner, including decisions to refuse or revoke registration (ACNC Act Pt 7-2).
 

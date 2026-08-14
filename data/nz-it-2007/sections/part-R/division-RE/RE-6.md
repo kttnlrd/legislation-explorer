@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) receives an amount from another person (person B); or
 
-- (b) makes a payment at person B’s request.
+- (b) makes a payment at person B's request.
 
 **No obligation if unreasonable**
 

@@ -23,4 +23,4 @@ Where a CCIV meets the AMIT eligibility criteria in respect of a sub-fund (which
 
 Where a CCIV does not satisfy the AMIT eligibility criteria in respect of a sub-fund for a particular income year, then the CCIV tax treatment generally defaults to the general trust taxation framework for that year.
 
-The Commissioner has released a Law Companion Ruling which outlines the operation of the CCIV regime, explains the deemed trust relationship principle and its eﬀect on the tax treatment of a CCIV, a CCIV sub- fund trust and investors, and provides the Commissioner’s views on speciﬁc tax interpretative issues (LCR 2024/1).
+The Commissioner has released a Law Companion Ruling which outlines the operation of the CCIV regime, explains the deemed trust relationship principle and its eﬀect on the tax treatment of a CCIV, a CCIV sub- fund trust and investors, and provides the Commissioner's views on speciﬁc tax interpretative issues (LCR 2024/1).

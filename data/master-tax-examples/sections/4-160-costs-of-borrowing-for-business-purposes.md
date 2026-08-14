@@ -17,9 +17,9 @@ Solution Ben has incurred 2 types of expenditure: (i) the interest, and (ii) the
 
 Interest Interest is deductible to the extent that it is expenditure incurred in gaining or producing assessable income or necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income (ITAA97 s 8-1).
 
-In determining the deductibility of interest, significance is placed on the use to which the borrowed money is put. Under this “use test”, interest may be deductible if the money is used to acquire income-producing assets such as business premises or shares or to meet current business expenses.
+In determining the deductibility of interest, significance is placed on the use to which the borrowed money is put. Under this "use test", interest may be deductible if the money is used to acquire income-producing assets such as business premises or shares or to meet current business expenses.
 
-Under s 8-1, an outgoing may be deductible “to the extent” it is incurred for the appropriate purpose, and the outgoing may be apportioned if there is both an income-producing purpose and a private purpose in the use of the borrowed money.
+Under s 8-1, an outgoing may be deductible "to the extent" it is incurred for the appropriate purpose, and the outgoing may be apportioned if there is both an income-producing purpose and a private purpose in the use of the borrowed money.
 
 Because Ben uses the borrowed money wholly in carrying on his business, the interest outgoing would be deductible in the year the interest expenditure is incurred, generally when it becomes due and payable.
 
@@ -33,7 +33,7 @@ The deductible amount for a year is calculated by dividing the undeducted expend
 
 If the amount of borrowing expenses incurred in a year is less than $100, the amount may be deducted in full in that year.
 
-Calculation of Ben’s deductions for the borrowing expenses Ben incurred borrowing expenses of $3,600 on 1 September 2024. The total period of the 4-year loan is 1,461 days and the number of relevant days in 2024–25 (ie 1 September 2024 to 30 June 2025) is 303.
+Calculation of Ben's deductions for the borrowing expenses Ben incurred borrowing expenses of $3,600 on 1 September 2024. The total period of the 4-year loan is 1,461 days and the number of relevant days in 2024–25 (ie 1 September 2024 to 30 June 2025) is 303.
 
 The borrowing expenses would be deductible as follows: $3,600 2024–25                         $747 (ie                           ×    303 days) 1,461 days $3,600 – $747 = $2,853 $2,853 2025–26                     $899 (ie                        ×    365 days) 1,158 days $2,853 – $899 = $1,954 $1,954 2026–27                     $899 (ie                        ×    365 days) 793 days $1,954 – $899 = $1,055 $1,055 2027–28                     $899 (ie                        ×    365 days) 428 days $1,055 – $899 = $156 $156 2028–29                     $156 (ie                        ×    62 days) 62 days
 

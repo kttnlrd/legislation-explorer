@@ -77,13 +77,13 @@ Aspects of these arrangements that concern the ATO include whether:
 
   from private companies (ITAA36 s 109C)
 
-- the arrangements comprise a “dividend stripping” scheme or operation, such that:
+- the arrangements comprise a "dividend stripping" scheme or operation, such that:
 
 – ITAA36 s 177E applies to include the amount of the loan in the taxpayer's assessable income, and – ITAA97 s 207-145 applies to cancel the franking credit on the dividend paid to the interposed company, or
 
 - this is scheme under ITAA36 s 177D to which the general anti-avoidance provisions in Pt IVA apply.
 
-Where the ATO can argue that, as here, there is no intention to repay a purported “loan”, ITAA36 s 109C will apply. Payments under s 109C change the distributable surplus calculation upward (in effect, adding the $990,000 back), meaning that a deemed unfranked dividend may, after all, apply for $990,000. The franking credits which were used by Tangerine in paying the dividend to Mandarin will be lost.
+Where the ATO can argue that, as here, there is no intention to repay a purported "loan", ITAA36 s 109C will apply. Payments under s 109C change the distributable surplus calculation upward (in effect, adding the $990,000 back), meaning that a deemed unfranked dividend may, after all, apply for $990,000. The franking credits which were used by Tangerine in paying the dividend to Mandarin will be lost.
 
 Penalties could also apply to any adviser that advised on the scheme, including:
 

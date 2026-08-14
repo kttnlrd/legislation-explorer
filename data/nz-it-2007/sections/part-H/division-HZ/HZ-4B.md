@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (c) the partnership is treated as stepping into the place of the qualifying company or companies, and as having, on and after the first day of the transitional income year,—
 
-  - (i) the qualifying company’s or companies’ historical tax situations; and
+  - (i) the qualifying company's or companies' historical tax situations; and
 
   - (ii) the tax situation in relation to the assets and liabilities, and associated rights and obligations, that it would have if it had always had the historical tax situations:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Initial basis**
 
-**(5)**  For the purposes of applying sections HG 11 and HG 12 (which relate to limited partnership deduction rules) to the partners of a limited partnership described in subsection (2) for the transitional income year and later years, all of the partners must choose 1 of the 2 following methods for calculating their partner’s basis under section HG 11(3):
+**(5)**  For the purposes of applying sections HG 11 and HG 12 (which relate to limited partnership deduction rules) to the partners of a limited partnership described in subsection (2) for the transitional income year and later years, all of the partners must choose 1 of the 2 following methods for calculating their partner's basis under section HG 11(3):
 
 - (a) for calculating amounts under section HG 11(5)﻿(a) for shares that were held at the end of the income year (the last year) before the transitional income year, they may choose to use the market value or the accounting book value of those shares as at the end of the last year. Calculations under section HG 11(7)﻿(b) and (8)﻿(b) are changed to account for the valuation under this paragraph; or
 
@@ -50,13 +50,13 @@ compilation_date: 2026-06-06
 
 **Initial basis not less than zero**
 
-**(6)**  If the application of sections HG 11 and HG 12, as modified by this section, calculates a partner’s basis as less than zero, then the partner’s basis is treated as being zero.
+**(6)**  If the application of sections HG 11 and HG 12, as modified by this section, calculates a partner's basis as less than zero, then the partner's basis is treated as being zero.
 
 **Meaning of QCP transitional process**
 
 **(7)**  QCP transitional process means a process, for which all outcomes are achieved in an income year (the transitional income year), by which a company or companies that are all qualifying companies at the end of the income year before the transitional income year transform into a partnership. The process must have the following outcomes:
 
-- (a) the Commissioner receives a notice from the qualifying company or companies before the day that is 6 months after the start of the transitional income year, stating an intention to revoke the company’s or companies’ qualifying company status and to complete the QCP transitional process relating to the partnership for the transitional income year; and
+- (a) the Commissioner receives a notice from the qualifying company or companies before the day that is 6 months after the start of the transitional income year, stating an intention to revoke the company's or companies' qualifying company status and to complete the QCP transitional process relating to the partnership for the transitional income year; and
 
 - (b) the partners, or in the case of a limited partnership, the partners other than a company that is a general partner, are the same persons who, at the end of the income year before the transitional income year, were the shareholders of the qualifying company or companies, ignoring any person who dies in the transitional year; and
 

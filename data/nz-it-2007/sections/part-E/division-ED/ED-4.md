@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Consistent valuation timing for excepted financial arrangement**
 
-**(3)**  If foreign currency payments under a person’s excepted financial arrangement are valued under subsection (2) for an income year, the amounts of foreign currency payable or receivable under all of the person’s excepted financial arrangements of the arrangement type are valued in the same way for the income year and later income years.
+**(3)**  If foreign currency payments under a person's excepted financial arrangement are valued under subsection (2) for an income year, the amounts of foreign currency payable or receivable under all of the person's excepted financial arrangements of the arrangement type are valued in the same way for the income year and later income years.
 
 *Defined in this Act: amount, close of trading spot exchange rate, excepted financial arrangement, financial arrangement, income year*
 

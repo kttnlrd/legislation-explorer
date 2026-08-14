@@ -3,27 +3,21 @@ ATO ID 2012/82
 ==================================================
 
 Income Tax
-        Income tax: ultimate beneficiary - circular distributions
-        FOI status: may be released
-
-
+ Income tax: ultimate beneficiary - circular distributions
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Where the trustee of a closely held trust (the
-          head trust
-          ) resolves in relation to the income year ended 30 June 2006 to make a trustee of another closely held trust (the
-          interposed trust
-          ) presently entitled to all of the income of the head trust, is the trustee of the interposed trust an ultimate beneficiary for the purposes of former section 102UE of Division 6D of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) in respect of the whole or part of a share of the net income of the head trust where:
-
-
+ head trust
+ ) resolves in relation to the income year ended 30 June 2006 to make a trustee of another closely held trust (the
+ interposed trust
+ ) presently entitled to all of the income of the head trust, is the trustee of the interposed trust an ultimate beneficiary for the purposes of former section 102UE of Division 6D of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) in respect of the whole or part of a share of the net income of the head trust where:
 
 (a)the head trust is presently entitled to all of the income of the interposed trust, and
 (b)the interposed trust has allowable deductions that do not exceed the share of the net income of the head trust included in the assessable income of the interposed trust.
@@ -47,23 +41,19 @@ Further, to the extent that there was no ultimate beneficiary with respect to a 
 Section 102UE defined the circumstances in which a person was an 'ultimate beneficiary' for the purposes of Division 6D in respect of the share or a part of the share (called a 'head trust amount' for the purposes of Division 6D). In particular, a person was an ultimate beneficiary if one of the tests in subsections (2), (3) or (4) of that section was satisfied.
 Section 102UE enables an ultimate beneficiary to be determined in respect of the whole or 'a part' of the share of the net income of the relevant closely held trust. If the various parts of the net income of Trust A included in the assessable income of Trust B are considered under section 102UE, namely a part that is fully absorbed by deductions in the calculation of Trust B's net income ($50), and the remainder ($150), then:
 
-
-
 •the trustee of Trust B is an ultimate beneficiary under subsection 102UE(4) as to the amount absorbed by deductions in the calculation of its net income, and
 •the trustee of Trust B is not an ultimate beneficiary in respect of the remainder.
 
 This means that the possible application of section 102UM falls to be considered only in relation to the remainder of the net income of Trust A rather than the whole of the net income of that trust as would be the case were it instead to be concluded that the trustee beneficiary was not an ultimate beneficiary in respect of any of the net income of Trust A.
 
-
-
 Note
-                : by reason of amendments made to Division 6D in 2007, the operation of that Division no longer relies on the concept of an ultimate beneficiary. The amendments to Division 6D apply in relation to income years that commence on or after 24 September 2007. It follows that the question considered in this ATO ID is only relevant to income years that commence before that date.
+ : by reason of amendments made to Division 6D in 2007, the operation of that Division no longer relies on the concept of an ultimate beneficiary. The amendments to Division 6D apply in relation to income years that commence on or after 24 September 2007. It follows that the question considered in this ATO ID is only relevant to income years that commence before that date.
 
 Date of decision:
-         7 September 2012
+  7 September 2012
 
 Year of income:
-           Year ended 2005-06
+  Year ended 2005-06
 
 Legislative References:
 
@@ -76,20 +66,19 @@ Related ATO Interpretative Decisions
 Keywords
 
 Trusts
-          Closely held trusts
-          Ultimate beneficiary
-          Correct UB statement
-          Ultimate beneficiary non-disclosure
-
+ Closely held trusts
+ Ultimate beneficiary
+ Correct UB statement
+ Ultimate beneficiary non-disclosure
 
 Siebel/TDMS Reference Number:
-         1-48HEZJ1
+  1-48HEZJ1
 
 Business Line:
-         OCTC Tax Council Network
+  OCTC Tax Council Network
 
 Date of publication:
-         5 October 2012
+  5 October 2012
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -4,13 +4,11 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 290
-  • Subdivision 815-B
-  • division 815
+ • Division 290
+ • Subdivision 815-B
+ • division 815
 
 Topics: Companies, International, Employment
-
-
 
 ================================================================================
 
@@ -40,7 +38,7 @@ One such scheme involves the foreign and Australian entities swapping their role
 This arrangement purports to result in no supply being made by the foreign entity and, potentially, the foreign entity becoming a permanent establishment of the Australian entity in the foreign entity's jurisdiction (which opens an opportunity to argue that income from the Australian sales should continue to be returned in the foreign tax jurisdiction).
 Royalty payments made by the foreign entity that makes supplies to Australian customers (payments which are usually made to another foreign related party within the group) might be subject to Australian royalty withholding tax under the MAAL. In some cases, contrary to the parties' previous arrangements, these payments have been re characterised as a distribution fee in an attempt to escape these withholding tax obligations.
 We caution companies to take care that structures or arrangements used in response to the MAAL do not themselves amount to schemes to avoid tax. We reiterate our advice that companies should work with the ATO on arrangements they are considering for the purpose of avoiding the application of the MAAL. This will help ensure that their new arrangements reflect the substance of their activities in Australia, including appropriately reflecting the functions performed, assets used and risk assumed in Australia. There should also be an appropriate consideration of any withholding tax obligations.
-We caution intermediaries to make sure that they are not promoting a scheme to avoid tax.  Again, working with the ATO on arrangements being developed can ensure that this does not happen.
+We caution intermediaries to make sure that they are not promoting a scheme to avoid tax. Again, working with the ATO on arrangements being developed can ensure that this does not happen.
 Description
 The MAAL applies to multinational entities that:
 •
@@ -74,7 +72,7 @@ At the same time, the parties enter into an agency agreement with a stated purpo
 3.
 There is no material change to the functions that were undertaken by the employees of each of the parties (regarding the supply to Australian customers) before and after these agreements were entered into.
 4.
-The foreign entity continues to enter into contracts with Australian customers for the supply of products or services, including contracts that supply Australian customers with licences for the use of products or services. These customer contracts are purported to be entered into by the foreign entity as agent on behalf of the Australian distributor.  However, the requisite rights have not been assigned to the distributor under the distribution agreement which would enable it to makes such supplies. In particular, the Australian distributor has no legal right to license Australian customers to use the product or service and only the foreign entity holds this legal right. As the Australian company does not have the right to authorise the use of the intellectual property by the Australian customers, to that extent at least, this demonstrates that the foreign entity would be contracting with Australian customers as principal, rather than agent.
+The foreign entity continues to enter into contracts with Australian customers for the supply of products or services, including contracts that supply Australian customers with licences for the use of products or services. These customer contracts are purported to be entered into by the foreign entity as agent on behalf of the Australian distributor. However, the requisite rights have not been assigned to the distributor under the distribution agreement which would enable it to makes such supplies. In particular, the Australian distributor has no legal right to license Australian customers to use the product or service and only the foreign entity holds this legal right. As the Australian company does not have the right to authorise the use of the intellectual property by the Australian customers, to that extent at least, this demonstrates that the foreign entity would be contracting with Australian customers as principal, rather than agent.
 5.
 The foreign entity already has the right to enter into contracts in its own right with Australian customers regardless of the agency agreement, i.e. it can license the use of software and distribute the products in its own right. By comparison, under the agency and distribution agreements, the Australian distributor is only deemed to acquire rights to the products, excluding intellectual property rights, and then immediately pass those rights to the Australian customer.
 In other cases, the foreign entity that makes supplies to Australian customers has previously been making a royalty payment under a licensing agreement with another foreign related party within the group for the use of intellectual property. This was in order for the foreign entity to have the legal right to supply to Australian and other customers. This licensing agreement has been replaced with a distribution agreement that does not give the foreign entity the right to use any of the intellectual property. However, there has been no change in the functions of the foreign entity or the supply to Australian customers (including the contractual arrangements and rights). The royalty payment that might be subject to royalty Australian withholding tax under the MAAL has been re-characterised as a distribution fee in an attempt to escape these withholding tax obligations, contrary to the parties' previous arrangements.
@@ -93,7 +91,7 @@ do not accurately reflect the relevant capacity in which the foreign entity is c
 do not result in the Australian entity having the necessary licensing rights over the intangible assets needed to contract with Australian customers
 •
 may otherwise involve changes to licensing arrangements in the taxpayer's global structure which do not recognise the rights needed to supply products or services to Australian customers.
-We are therefore concerned that these arrangements do not result in the appropriate amount of income tax being paid in Australia and do not involve an appropriate allocation of functions undertaken, assets used and risk assumed that would occur if the parties had been dealing in commercial arrangements at arm's length.  The main technical issues that arise with these types of arrangements are:
+We are therefore concerned that these arrangements do not result in the appropriate amount of income tax being paid in Australia and do not involve an appropriate allocation of functions undertaken, assets used and risk assumed that would occur if the parties had been dealing in commercial arrangements at arm's length. The main technical issues that arise with these types of arrangements are:
 •
 whether the agreements are legally effective in establishing the distribution and agency relationship in the manner sought
 •

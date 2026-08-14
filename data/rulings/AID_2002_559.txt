@@ -3,23 +3,18 @@ ATO ID 2002/559
 ==================================================
 
 Superannuation
-        Part IX Taxation of superannuation entities - all members are non-resident
-        FOI status: may be released
+ Part IX Taxation of superannuation entities - all members are non-resident
+ FOI status: may be released
 
-
-This ATO ID is withdrawn from the database because it contains a view in respect of subsections 6E(1), 27A(1) and 267(1) of the  Income Tax Assessment Act 1936 (ITAA 1936). These provisions do not apply for the 2007-08 income year and later income years. This ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2006-07 income year.Subsection 6E(1) of the ITAA 1936, which contained the former superannuation fund residency definition, was replaced by subsection 295-95(2) of the  Income Tax Assessment Act 1997 with effect from 1 July 2007. The ATO view in respect of the replacement provision can be found in  Draft Taxation Ruling TR 2008/D5 Income Tax: meaning of 'Australian superannuation fund' in subsection 295-95(2) of the  Income Tax Assessment Act 1997.
+This ATO ID is withdrawn from the database because it contains a view in respect of subsections 6E(1), 27A(1) and 267(1) of the Income Tax Assessment Act 1936 (ITAA 1936). These provisions do not apply for the 2007-08 income year and later income years. This ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2006-07 income year.Subsection 6E(1) of the ITAA 1936, which contained the former superannuation fund residency definition, was replaced by subsection 295-95(2) of the Income Tax Assessment Act 1997 with effect from 1 July 2007. The ATO view in respect of the replacement provision can be found in Draft Taxation Ruling TR 2008/D5 Income Tax: meaning of 'Australian superannuation fund' in subsection 295-95(2) of the Income Tax Assessment Act 1997.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a self managed superannuation fund (SMSF) retain its complying status for taxation purposes if all members are posted overseas for 1 to 10 years?
@@ -42,21 +37,18 @@ Therefore, in order to be a complying superannuation fund, the fund must be a re
 Subsection 10(1) of SISA is a definitional section and provides the following definition for a 'resident regulated superannuation fund':
 
 '"
-              resident regulated superannuation fund
-              " means a regulated superannuation fund that is a resident superannuation fund within the meaning of subsection 6E(1) of the Income Tax Assessment Act 1936.'
+ resident regulated superannuation fund
+ " means a regulated superannuation fund that is a resident superannuation fund within the meaning of subsection 6E(1) of the Income Tax Assessment Act 1936.'
 
 Subsection 6E(1) of ITAA 1936 determines the conditions of residency for a superannuation fund at a particular time.
 The SMSF satisfies the conditions in paragraphs 6E(1)(a) and (b) of ITAA 1936 for residency but it fails to satisfy paragraphs 6E(1)(c) and (d) of ITAA 1936.
 In the case of an SMSF, the central management and control of the fund is exercised by the trustee of the fund (an individual trustee or a company). Accordingly, whether the central management and control test has been satisfied depends on whether the trustee is in Australia at all times during the year of income. As both members of the fund have become non-residents of Australia for taxation purposes, the central management and control of the fund is not in Australia. Hence the fund fails to satisfy paragraph 6E(1)(c) of ITAA 1936.
 Where the non-resident members are still contributing to the fund, then they are considered to be active members of the fund. As both members are non-resident active members, the accumulated entitlements of resident active members of the fund at the relevant time is nil. If we apply the formula in paragraph 6E(1)(d) of ITAA 1936:
 
-
 ((Total of accumulated entitlements of residentactive members at the relevant time / Total of accumulated entitlements of active members at the relevant time) * 100) = ((0 / $230 000) * 100) = 0%
 
 Hence the fund fails to satisfy paragraph 6E(1)(d) of ITAA 1936.
 If the non-resident members are not contributing then they are not considered to be active members. The Explanatory Memorandum to Act No. 181 of 1994 which enacted section 6E of ITAA 1936 states at clause 7.33 that a fund that does not have an active member at the relevant time will be a resident superannuation fund at a particular time if it satisfies paragraphs 6E(1)(a), (b) and (c) of ITAA 1936. That is, all of the following conditions are met:
-
-
 
 (a)the fund is a provident, benefit, superannuation or retirement fund at the relevant time; and
 (b)either the fund was established in Australia or any asset of the fund at the relevant time is situated in Australia; and
@@ -65,15 +57,11 @@ If the non-resident members are not contributing then they are not considered to
 Even under this situation, the SMSF will not be a resident superannuation fund as the central management and control of the SMSF is not in Australia having failed to satisfy paragraphs 6E(1)(c) and 6E(1)(d) of ITAA 1936.
 Therefore, the SMSF will not be a complying superannuation fund for taxation purposes.
 (
-          Note
-          : Effective from 1 October 2001, a superannuation fund is a resident fund at a particular time if:
-
-
+ Note
+ : Effective from 1 October 2001, a superannuation fund is a resident fund at a particular time if:
 
 •either the fund was established in Australia or any asset of the fund is situated in Australia; or
 •the central management and control of the fund is in Australia, if
-
-
 
 •the individual/s acting as trustee/s, or
 •the directors of the trustee company are temporarily overseas, the period overseas does not exceed 2 years, and
@@ -87,9 +75,7 @@ The above bullet point was replaced on 15 April 2004. The original text follows.
 •the fund has at least one active member and the total of accumulated entitlements of resident active members at the relevant time are 50% or more of the total accumulated entitlements of all active members. An active member is someone who has made contributions to the fund, or someone for whom contributions to the fund have been made in the year of income.
 
 Note:
-           A member is excluded from being an active member at the relevant time if at the time:
-
-
+ A member is excluded from being an active member at the relevant time if at the time:
 
 •they are not a resident of Australia;
 •they are not a contributor; and
@@ -97,10 +83,10 @@ Note:
 
 New subsection 6E(1A) of ITAA 1936 refers.)
 Date of decision:
-         14/08/2001
+  14/08/2001
 
 Year of income:
-           Year ended 30 June 2001
+  Year ended 30 June 2001
 
 Legislative References:
 
@@ -114,30 +100,26 @@ Other References:
 Keywords
 
 Complying superannuation funds
-          SMSF resident status
-          Superannuation fund residency
-          Self managed superannuation funds
-
+ SMSF resident status
+ Superannuation fund residency
+ Self managed superannuation funds
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         31 May 2002
+  31 May 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 14 August 2001

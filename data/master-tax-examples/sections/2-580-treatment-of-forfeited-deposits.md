@@ -21,9 +21,9 @@ Solution The issue of whether a forfeited deposit retained by a vendor of real e
 
 - a deposit is received by a vendor in relation to a property purchase and is then forfeited, and
 
-- the forfeiture occurs as part of a “continuum of events”, constituting a later disposal of the real estate
+- the forfeiture occurs as part of a "continuum of events", constituting a later disposal of the real estate
 
-  which was the subject of the earlier contract of sale (“the underlying asset”),
+  which was the subject of the earlier contract of sale ("the underlying asset"),
 
   the forfeited deposit forms part of the capital proceeds from the later disposal. In other words, the forfeited
 
@@ -33,7 +33,7 @@ For a relevant continuum of events to exist, there must be an earlier contract t
 
 The longer the period between forfeiture and later disposal, the more difficult it is to show a continuum of events which constitutes a disposal of the underlying asset. TR 1999/19 suggests that it is difficult to show a continuum of events which stretches more than 2 years after the date of forfeiture under the earlier contract.
 
-Therefore, in Monica’s case, only one capital gains tax event arises on the ultimate sale of the property (in the year ended 30 June 2025), calculated as follows: Sales proceeds: $5 million + $500,000 (the forfeited deposit, which is retained by Monica) = $5,500,000 Less cost: $3 million (purchase cost) + $100,000 (sales commission paid on the first, unsuccessful, sale) = $3,100,000 Gross capital gain = $2,400,000 This can be discounted by 50% provided the investment property was acquired more than 12 months before the contract date for the ultimate sale, as was the case here.
+Therefore, in Monica's case, only one capital gains tax event arises on the ultimate sale of the property (in the year ended 30 June 2025), calculated as follows: Sales proceeds: $5 million + $500,000 (the forfeited deposit, which is retained by Monica) = $5,500,000 Less cost: $3 million (purchase cost) + $100,000 (sales commission paid on the first, unsuccessful, sale) = $3,100,000 Gross capital gain = $2,400,000 This can be discounted by 50% provided the investment property was acquired more than 12 months before the contract date for the ultimate sale, as was the case here.
 
 For the second scenario, where Monica decides to keep the property, CGT event H1 arises in the year ended 30 June 2024. Although TR 1999/19 suggests that it should be assessed under CGT event C2, the Federal Court in the Brooks case (Brooks & Anor v FC of T 2000 ATC 4362; [2000] FCA 721) found that if the forfeiture of a deposit under a contract for the sale of real estate does not occur within a continuum of events, the forfeited deposit is instead assessable under CGT event H1 (s 104-150 ITAA97, as TR 1999/19A refers).
 

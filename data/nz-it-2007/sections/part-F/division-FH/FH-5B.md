@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)**  For the purposes of section FH 5(2)﻿(c), a supply of goods or services by the person who is the payee for the purposes of that section (the payee) to the person who is the payer for the purposes of that section (the payer) meets the requirements of this subsection if—
 
-- (a) a prerequisite for the supply is a supply of goods or services (the prerequisite group supply) received and paid for by the payee or by a person who is a member of the payee’s control group and is resident in the payee jurisdiction; and
+- (a) a prerequisite for the supply is a supply of goods or services (the prerequisite group supply) received and paid for by the payee or by a person who is a member of the payee's control group and is resident in the payee jurisdiction; and
 
 - (b) the prerequisite group supply is made by a person who, at the time of the supply, is in no control group that includes the payee or the payer; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **(3)**  The amount of the consideration for a supply that meets the requirements of subsection (2) (the payer supply) that is an amount excluded from being a mismatch amount (the excluded amount) and is linked for the purposes of paragraph (a) or subsection (4) to a prerequisite group supply is,—
 
-- (a) if the payer supply is the sole payer supply to the payer by the payee, or by a member of the payee’s control group, that occurs in or before the income year in which the payer supply is made, and the prerequisite group supply is the sole prerequisite group supply for the payer supply, the amount that is the lesser of—
+- (a) if the payer supply is the sole payer supply to the payer by the payee, or by a member of the payee's control group, that occurs in or before the income year in which the payer supply is made, and the prerequisite group supply is the sole prerequisite group supply for the payer supply, the amount that is the lesser of—
 
   - (i) the amount of the consideration for the payer supply:
 

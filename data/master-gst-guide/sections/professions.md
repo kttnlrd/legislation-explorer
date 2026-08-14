@@ -49,6 +49,6 @@ See also the Legal services checklist at ¶17-425.
 
 - Branch offices may be registered separately (¶17-300).
 
-- The Commissioner’s information-gathering powers are limited by the doctrine of legal professional
+- The Commissioner's information-gathering powers are limited by the doctrine of legal professional
 
   privilege (¶18-140).

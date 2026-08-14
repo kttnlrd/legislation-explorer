@@ -3,18 +3,14 @@ ATO ID 2003/697
 ==================================================
 
 Income Tax
-        Deducting tax loss: saving rule - deduction incurred in loss year but partly accrued before loss year
-        FOI status: may be released
-
-
+ Deducting tax loss: saving rule - deduction incurred in loss year but partly accrued before loss year
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 In applying subsection 165-12(7) of the Income Tax Assessment 1997 (ITAA 1997), where an expense was partly accrued prior to a loss year, but was not deductible until the loss year, is that accrued part taken into account in determining the extent that the loss company's tax loss has been reflected in the capital loss, because of the happening of a CGT event from the disposal of an indirect equity interest in the loss company?
@@ -39,14 +35,13 @@ the company has information from which it would be reasonable to conclude that l
 To the extent that Company K made an increased capital loss as a result of the deduction which formed part of Loss Company's tax loss, that deduction has therefore resulted in the tax loss being 'reflected'. It is irrelevant for present purposes when the expense giving rise to the deduction was accrued.
 Note: Where an earlier CGT event(s) has happened in relation to the same equity interest, that earlier CGT event may have affected the extent that the tax loss has been reflected in relation to the relevant CGT now being considered.
 
-
 [HISTORY: This ATO ID has been amended to include the (*) asterisk in subsection 165-12(7) that is a minor amendment to the provisions providing useful interpretation with reference to direct interest and indirect equity interest by making them defined terms under section 995 of ITAA 1997. The amendment also removes from the ATO ID any reference to subsection 165-12(9) repealed by Act 143 of 2007 with effect from 24 September 2007].
 
 Date of decision:
-         26 June 2003
+  26 June 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -55,18 +50,17 @@ Income Tax Assessment Act 1997   subsection 104-10(2)   section 116-20  
 Keywords
 
 Company losses
-          Continuity of ownership
-          Saving rule
-
+ Continuity of ownership
+ Saving rule
 
 Siebel/TDMS Reference Number:
-         3661744
+  3661744
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         8 August 2003
+  8 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

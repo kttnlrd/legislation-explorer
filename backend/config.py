@@ -47,6 +47,9 @@ ALLOWED_ORIGINS = [
 # Insolvency textbook
 INSOLVENCY_DIR = DATA_DIR / "insolvency-keays"
 
+# Tax treaties
+TREATIES_DIR = DATA_DIR / "treaties"
+
 # Publication names for commentary
 PUBLICATION_NAMES = {
     "master_tax_guide.json": "Master Tax Guide",

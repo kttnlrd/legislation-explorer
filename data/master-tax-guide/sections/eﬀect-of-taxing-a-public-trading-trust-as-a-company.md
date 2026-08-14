@@ -11,13 +11,13 @@ The consequences of treating a public unit trust as a company are listed below.
 
 - The net income of the trust is taxed at the company rate of tax.
 
-- Corporate trust distributions (ie “unit trust dividends” and “non-unit dividends”) made to equity
+- Corporate trust distributions (ie "unit trust dividends" and "non-unit dividends") made to equity
 
   holders are treated in the same way as dividends paid to shareholders, ie they form part of the
 
   assessable income of the equity holder and franking credits are allowed in respect of tax paid by
 
-  the unit trust. An “equity holder” means a unitholder or the holder of any other interest by virtue of
+  the unit trust. An "equity holder" means a unitholder or the holder of any other interest by virtue of
 
   the operation of the debt/equity rules (ss 102L; 102T). Where an equity holder is a non-resident, the
 

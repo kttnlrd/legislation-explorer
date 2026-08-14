@@ -7,13 +7,13 @@ paragraph: "¶36-100"
 ---
 # Payroll tax on payments to contractors ¶36-100
 
-Generally, payroll tax is a tax on “wages” paid or payable to an employee by an employer. While a contractor is not ordinarily considered to be an “employee”, persons/contractors may be deemed to be employees where a “relevant” contract exists between the person supplying the services (the contractor) and the end- user (the employer).
+Generally, payroll tax is a tax on "wages" paid or payable to an employee by an employer. While a contractor is not ordinarily considered to be an "employee", persons/contractors may be deemed to be employees where a "relevant" contract exists between the person supplying the services (the contractor) and the end- user (the employer).
 
-Broadly, the contractor provisions deem payments to certain contractors to be “wages” for payroll tax purposes.
+Broadly, the contractor provisions deem payments to certain contractors to be "wages" for payroll tax purposes.
 
-(1) where a person, in the course of carrying on a business, supplies to another person services for or in relation to the performance of work (2) where a person, in the course of carrying on a business, is supplied with the services of another person for or in relation to the performance of work, and (3) where a person, in the course of carrying on a business, provides goods to persons who perform work and resupply the goods. This is intended to deal with the practice of a person in business providing goods to “outworkers” or “home workers” who perform speciﬁed work and return the goods.
+(1) where a person, in the course of carrying on a business, supplies to another person services for or in relation to the performance of work (2) where a person, in the course of carrying on a business, is supplied with the services of another person for or in relation to the performance of work, and (3) where a person, in the course of carrying on a business, provides goods to persons who perform work and resupply the goods. This is intended to deal with the practice of a person in business providing goods to "outworkers" or "home workers" who perform speciﬁed work and return the goods.
 
-Under the contractor provisions, the term “contract” includes an agreement, arrangement or undertaking, whether formal or informal and whether express or implied. Although the provisions relate to the supply of services, the term “services” is deﬁned to include “results (whether goods or services) of work performed”.
+Under the contractor provisions, the term "contract" includes an agreement, arrangement or undertaking, whether formal or informal and whether express or implied. Although the provisions relate to the supply of services, the term "services" is deﬁned to include "results (whether goods or services) of work performed".
 
 However, only the amount of the payment that relates to labour is liable to tax and not the cost of materials and equipment incurred by the contractor. Some states have issued guidelines on the deductions available for materials and equipment for particular types of contractors.
 
@@ -47,6 +47,6 @@ The legislation also provides for speciﬁc exclusions from the contractor provi
 
 Where the contractor provisions do not apply the liability for payroll tax will generally depend on whether an employer/employee relationship exists. Accordingly, payroll tax does not fall on payments made to independent contractors provided the intention of the contract is not to reduce or avoid the liability to payroll tax.
 
-In all states, provisions apply to make employment agents liable for payroll tax on payments made to persons engaged to provide services to the agents’ clients (see (15) at ¶36-140).
+In all states, provisions apply to make employment agents liable for payroll tax on payments made to persons engaged to provide services to the agents' clients (see (15) at ¶36-140).
 
-## The basic situations that will give rise to a “relevant” contract are:
+## The basic situations that will give rise to a "relevant" contract are:

@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **(5)**  In the formula,—
 
-- (a) ownership disposal percentage is the percentage of person A’s total share or interest in the high-priced bloodstock that they have disposed of to person B:
+- (a) ownership disposal percentage is the percentage of person A's total share or interest in the high-priced bloodstock that they have disposed of to person B:
 
 - (b) total deductions is the amount equal to the total amount of deductions person A has been allowed in relation to the high-priced bloodstock.
 

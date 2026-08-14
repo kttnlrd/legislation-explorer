@@ -29,7 +29,7 @@ Worked example: Vacant land Issue Agnes Grey owns 4 blocks of land located in th
 
   on 1 August 2025.
 
-- Block 3: Acquired 1 July 2011. Agnes’s husband, Richard, owns and operates an earth-moving
+- Block 3: Acquired 1 July 2011. Agnes's husband, Richard, owns and operates an earth-moving
 
   business. In 2011, Agnes purchased Block 3, which is adjacent to the premises from which Richard
 
@@ -53,7 +53,7 @@ Agnes has been advised that when she completes her 2024–25 tax return, she wil
 
 Solution With effect from 1 July 2019, ITAA97 s 26-102 operates to deny deductions for losses or outgoings incurred that relate to holding vacant land. For the operation of the section, it is immaterial when the land was acquired, that is, whether it was acquired before or on or after 1 July 2019.
 
-Any such outgoings can be added to the CGT cost base of the property as “costs of owning” a CGT asset.
+Any such outgoings can be added to the CGT cost base of the property as "costs of owning" a CGT asset.
 
 These costs are included as part of the third element of the cost base of the property (s 110-25(4)).
 
@@ -109,7 +109,7 @@ In addition, the denial of a deduction for a loss or outgoing connected to vacan
 
 Finally, the denial of a deduction does not apply if, at the time the loss or outgoing is incurred:
 
-- the land was leased, hired or licensed to another entity on an arm’s length basis
+- the land was leased, hired or licensed to another entity on an arm's length basis
 
 - the land was in use, or available for use, in carrying on a business
 
@@ -117,7 +117,7 @@ Finally, the denial of a deduction does not apply if, at the time the loss or ou
 
 - residential premises were not being constructed on the land (s 26-102(9)).
 
-In Taxation Ruling TR 2023/3, the ATO states that the costs of constructing a substantial and permanent structure on the land, or any interest or borrowing costs (to the extent they are associated with construction), are not considered to be a loss or outgoing related to holding vacant land. As such, the rules would not deny interest deductions to that extent. None of Agnes’s expenses relate to such costs.
+In Taxation Ruling TR 2023/3, the ATO states that the costs of constructing a substantial and permanent structure on the land, or any interest or borrowing costs (to the extent they are associated with construction), are not considered to be a loss or outgoing related to holding vacant land. As such, the rules would not deny interest deductions to that extent. None of Agnes's expenses relate to such costs.
 
 Applying the above to Agnes, we can conclude as follows:
 
@@ -143,10 +143,10 @@ Applying the above to Agnes, we can conclude as follows:
 
 - Block 3: Agnes can claim a deduction for holding costs incurred in relation to Block 3 for the 2024–
 
-25 year. Block 3 is used in the earth-moving business owned and operated by her husband and hence Agnes is able to take advantage of the “carrying on a business” exclusion. This exclusion enables deductions to be claimed for holding costs in relation to vacant land where the land is used in a business operated by, amongst others, the spouse of the taxpayer. Although Richard does not pay rent to Agnes for the use of the land, this does not affect her position. To rely on this exclusion, there is no requirement that the entity that uses the land, or has it available for use, in a business pays the landowner rent.
+25 year. Block 3 is used in the earth-moving business owned and operated by her husband and hence Agnes is able to take advantage of the "carrying on a business" exclusion. This exclusion enables deductions to be claimed for holding costs in relation to vacant land where the land is used in a business operated by, amongst others, the spouse of the taxpayer. Although Richard does not pay rent to Agnes for the use of the land, this does not affect her position. To rely on this exclusion, there is no requirement that the entity that uses the land, or has it available for use, in a business pays the landowner rent.
 
 - Block 4: Agnes can claim a deduction for holding costs incurred in relation to Block 4 for the 2024–
 
-25 year. Block 4 is rented by a neighbouring farmer, and she is therefore able to take advantage of the exclusion for primary producers. This exclusion applies even though the land is not currently being used in the relevant primary production business and even though the rental agreement is not at arm’s length (the question states that Agnes could rent out the land for 4 times the amount she is actually receiving). Note that the primary production exclusion does not apply where residential premises are being constructed on the land. Although Agnes intends to build residential premises on the land, she is not currently doing so.
+25 year. Block 4 is rented by a neighbouring farmer, and she is therefore able to take advantage of the exclusion for primary producers. This exclusion applies even though the land is not currently being used in the relevant primary production business and even though the rental agreement is not at arm's length (the question states that Agnes could rent out the land for 4 times the amount she is actually receiving). Note that the primary production exclusion does not apply where residential premises are being constructed on the land. Although Agnes intends to build residential premises on the land, she is not currently doing so.
 
 *Refs: ITAA97 s 26-102, s 110-25(4)), s 26-102(1)), s 26-102, s 26-102(1), s 26-102(8)), s 26-102(9))*

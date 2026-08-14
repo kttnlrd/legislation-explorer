@@ -13,9 +13,9 @@ In May 2025, Louise paid Fernando $50,000 to secure his agreement not to operate
 
 How should Louise treat the payment of $50,000 to Fernando for income tax purposes?
 
-Solution An agreement where there is restraint of trade is commonly referred to as a “restrictive covenant”.
+Solution An agreement where there is restraint of trade is commonly referred to as a "restrictive covenant".
 
-The general deduction provision in ITAA97 s 8-1 allows a deduction for a loss or outgoing to the extent that it is incurred in gaining or producing the taxpayer’s assessable income or is necessarily incurred in carrying on a business for the purpose of gaining or producing the taxpayer’s assessable income. However, a deduction is not permitted under s 8-1 to the extent that the loss or outgoing is capital or of a capital nature.
+The general deduction provision in ITAA97 s 8-1 allows a deduction for a loss or outgoing to the extent that it is incurred in gaining or producing the taxpayer's assessable income or is necessarily incurred in carrying on a business for the purpose of gaining or producing the taxpayer's assessable income. However, a deduction is not permitted under s 8-1 to the extent that the loss or outgoing is capital or of a capital nature.
 
 In Sun Newspapers Ltd v FC of T (1938) 5 ATD 87; (1938) 61 CLR 337, the High Court held that a payment made by the taxpayer for an interest in a competing newspaper and for the competitor not to be associated for a period of 3 years with the publication of any other newspaper in the region was capital in nature.
 

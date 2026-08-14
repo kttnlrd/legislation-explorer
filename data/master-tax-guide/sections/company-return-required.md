@@ -21,7 +21,7 @@ Companies (and partnerships and trusts) with international dealings that exceed 
 
 Reportable tax position schedule If a company is a public or foreign-owned company which meets certain total business income thresholds it must lodge a reportable tax position (RTP) schedule unless (broadly): it has already applied to the ATO for a private ruling that covers the RTP, it has reported the RTP in their company tax return or the RTP is covered by an advance pricing arrangement (APA) or an application for an APA that has been accepted into the APA program. As from the 2021–22 income year large private companies are required to lodge an RTP schedule whether notiﬁed to do so or not.
 
-There are various categories of RTPs. For example, a Category A RTP is a position that is about as likely to be correct as incorrect (or is less likely to be correct than incorrect) and a Category B RTP is a position in respect of which uncertainty about taxes payable or recoverable is recognised and/or disclosed in the taxpayer’s or a related party’s ﬁnancial statements.
+There are various categories of RTPs. For example, a Category A RTP is a position that is about as likely to be correct as incorrect (or is less likely to be correct than incorrect) and a Category B RTP is a position in respect of which uncertainty about taxes payable or recoverable is recognised and/or disclosed in the taxpayer's or a related party's ﬁnancial statements.
 
 Due dates for lodgment of returns For the due dates for lodgment of returns, see ¶24-060. A company that fails to lodge a return or otherwise fails to comply with a taxation law is liable for a ﬁne or penalty tax (¶29-000).
 

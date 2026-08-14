@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **(5)**  Despite subsections (2) and (3), the Commissioner may pay the amount of the tax credit as follows:
 
-- (a) to the person, if it would be impossible or impractical to pay it to the person’s fund provider because either the person has no fund provider, or because the person has died or has suffered a serious illness as defined in schedule 1, clause 12(3) of the KiwiSaver Act 2006; or
+- (a) to the person, if it would be impossible or impractical to pay it to the person's fund provider because either the person has no fund provider, or because the person has died or has suffered a serious illness as defined in schedule 1, clause 12(3) of the KiwiSaver Act 2006; or
 
 - (b) to a fund provider (provider B) other than the fund provider referred to in subsections (2) and (3), if the person is transferring or has transferred to provider B.
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 For the purposes of sections HM 19B and HM 55H, and schedule 6 (Prescribed rates: PIE investments and retirement scheme contributions) and for a foreign investment zero-rate PIE, the allowable amounts of income that have a source in New Zealand and the thresholds applying to the amounts are—
 
-- (a) interest income from financial arrangements with no term or a term of 90 days or less, for which the total value of the financial arrangements must not be more than 5% of the total value of the PIE’s investments, determined without reference to an amount described in paragraph (c):
+- (a) interest income from financial arrangements with no term or a term of 90 days or less, for which the total value of the financial arrangements must not be more than 5% of the total value of the PIE's investments, determined without reference to an amount described in paragraph (c):
 
-- (b) a dividend paid by a company resident in New Zealand, if the total value of all the shares held by the PIE in companies resident in New Zealand is not more than 1% of the total value of the PIE’s investments:
+- (b) a dividend paid by a company resident in New Zealand, if the total value of all the shares held by the PIE in companies resident in New Zealand is not more than 1% of the total value of the PIE's investments:
 
-- (c) income from a derivative instrument or other non-interest bearing financial arrangement that is related to the PIE’s foreign investments:
+- (c) income from a derivative instrument or other non-interest bearing financial arrangement that is related to the PIE's foreign investments:
 
 - (d) attributed PIE income from a foreign investment zero-rate PIE or a PIE that meets the requirements of section HM 19B(1).
 

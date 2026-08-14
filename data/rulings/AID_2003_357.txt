@@ -3,18 +3,14 @@ ATO ID 2003/357
 ==================================================
 
 Income Tax
-        Trading stock value: disposal by exempt entity - outside ordinary course of business
-        FOI status: may be released
-
-
+ Trading stock value: disposal by exempt entity - outside ordinary course of business
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a taxpayer who acquires an item of trading stock from a tax exempt entity that disposed of it outside the ordinary course of its business, treated as having bought the item for its market value for the purposes of section 70-95 of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -33,7 +29,6 @@ Sub-section 70-90(1) of the ITAA 1997 states:
 
 If you dispose of an item of your trading stock outside the ordinary course of a business:
 
-
 (a)that you are carrying on; and
 (b)of which the item is an asset
 
@@ -43,15 +38,15 @@ The tax exempt entity disposed of its trading stock outside the ordinary course 
 A literal reading of sections 70-90 and 70-95 of the ITAA 1997 may suggest that the taxpayer is treated as having bought the trading stock for a nil amount on the basis that the entity from which they acquired the trading stock is exempt from tax and includes no amount in its assessable income under section 70-90.
 However, in Federal Commissioner of Taxation v. Angus (1961) 105 CLR 489; (1961) 12 ATD 277 the High Court looked at the interaction between paragraph 23(q) (an exempting provision that has now been repealed) and subsection 97(1) of the Income Tax Assessment Act 1936. At pp515-516 Menzies J stated (at CLR 515-516):
 The argument ran that what is included in assessable income of a taxpayer cannot be exempt income. It is, however, commonly found in the Act that the assessable income of a taxpayer shall include certain things: see ss. 26 and 44. This form of words, however does not mean that special provisions such as s. 23 (q) can have no application, and indeed, the contrary was decided in Reid v Federal Commissioner of Taxation.
-          The meaning of a general provision that something shall be included in the assessable income of a taxpayer is always subject to any particular provision which would exempt that income from income tax
-          . [emphasis added]
+ The meaning of a general provision that something shall be included in the assessable income of a taxpayer is always subject to any particular provision which would exempt that income from income tax
+ . [emphasis added]
 In view of this the tax exempt organisation will include in its assessable income the market value of the items of trading stock disposed of (section 70-90 of the ITAA 1997), notwithstanding that its income will be exempt under section 50-1 of the ITAA 1997.
 Accordingly, section 70-95 of the ITAA 1997 will apply to treat the taxpayer as having bought the trading stock for its market value.
 Date of decision:
-         9 April 2003
+  9 April 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -60,27 +55,24 @@ Income Tax Assessment Act 1997   section 50-1   section 70-90   subsect
 
 Case References:
 
-
 Federal Commissioner of Taxation v. Angus   (1961) 105 CLR 489   (1961) 12 ATD 277
-
 
 Keywords
 
 Disposal of trading stock
-          Exempt entities
-
+ Exempt entities
 
 Siebel/TDMS Reference Number:
-         3444882; 1-BC9UL40
+  3444882; 1-BC9UL40
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         15 May 2003
+  15 May 2003
 
 Date reviewed:
-         31 May 2017
+  31 May 2017
 
 ISSN:
-          1445-2782
+ 1445-2782

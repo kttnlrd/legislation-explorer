@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "4"
-division_title: "ART review of objection decisions and"
+division_title: "ART review of objection decisions and extension of time refusal decisions"
 subdivision: ""
 subdivision_title: ""
 section: "14ZZH"
@@ -32,7 +32,7 @@ source_pdf: "vol01.pdf"
 > **(b)**  the party requesting the order is not the Commissioner of Taxation.
 
 <a id="s14ZZH-2"></a>
-**(2)**  Despite the ART Act, the ART must not make the order unless the party satisfies the ART that, when considered in the context of both the particular circumstances of the decision under review and the overall taxation system, the application for review and the request for making the order are not frivolous, vexatious, misconceived, lacking in substance or otherwise intended to unduly impede, Authorised Version C2026C00170 registered 28/04/2026 prejudice or restrict the proper administration or operation of a taxation law.
+**(2)**  Despite the ART Act, the ART must not make the order unless the party satisfies the ART that, when considered in the context of both the particular circumstances of the decision under review and the overall taxation system, the application for review and the request for making the order are not frivolous, vexatious, misconceived, lacking in substance or otherwise intended to unduly impede, prejudice or restrict the proper administration or operation of a taxation law.
 
 > **Note:** The kind of orders that the ART may make include the following:
 

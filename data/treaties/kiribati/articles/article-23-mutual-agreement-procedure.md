@@ -1,0 +1,33 @@
+---
+country: "Kiribati"
+country_slug: "kiribati"
+treaty_schedule: 34
+article: 23
+title: "Article 23 — Mutual Agreement Procedure"
+---
+# Article 23 — Mutual Agreement Procedure
+Kiribati Agreement
+AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+Methods of Elimination of Double Taxation
+1
+Subject to the provisions of the law of Australia from time to time in force which relate to the allowance of a credit against Australian tax of tax paid in a country outside Australia (which shall not affect the general principle of this Article), Kiribati tax paid under the law of Kiribati and in accordance with this Agreement, whether directly or by deduction, in respect of income derived by a person who is a resident of Australia from sources in Kiribati shall be allowed as a credit against Australian tax payable in respect of that income.
+2
+Where a company which is a resident of Kiribati and is not a resident of Australia for the purposes of Australian tax pays a dividend to a company which is a resident of Australia and which controls directly or indirectly not less than 10 per cent of the voting power of the firstmentioned company, the credit referred to in paragraph 1 shall include the Kiribati tax paid by that firstmentioned company in respect of that portion of its profits out of which the dividend is paid.
+3
+For the purpose of paragraphs 1 and 2, Kiribati tax paid shall include an amount equivalent to any Kiribati tax forgone.
+4
+In paragraph 3, the term 
+"
+Kiribati tax forgone
+"
+ means the amount which, under the law of Kiribati relating to Kiribati tax and in accordance with this Agreement, would have been payable as Kiribati tax on income or a payment but for an exemption from, or reduction of, Kiribati tax on that income or payment resulting from the operation of:
+(a)
+section 82 and Schedule 8 or section 90(4) of the Income Tax Act 1990 in so far as those provisions were in force on, and have not been modified since, the date of signature of this Agreement or have been modified only in minor respects so as not to affect their general character; or
+(b)
+any other provision which may subsequently be made granting an exemption from or reduction of tax which the authorised representatives of the Government of Australia and of the Government of Kiribati mutually determine in writing to be of a substantially similar character, provided that such provisions are not modified thereafter or are modified only in minor respects so as not to affect their general character.
+5
+The provisions of paragraphs 3 and 4 shall not apply in respect of income or a payment attributable to the provision of services provided directly or indirectly to a person who is a resident of Australia, except where the services are in the nature of tourism or communication services or services provided to manufacturing, mining, construction, fishing or agricultural activities carried on in Kiribati.
+6
+The provisions of paragraphs 3, 4 and 5 shall apply only in relation to income or a payment derived in any of the first 10 years of income in relation to which this Agreement has effect by virtue of subparagraph (a)(ii) of Article 27 and in any later year of income that may be mutually determined in an exchange of letters for this purpose by the authorised representatives of the Government of Australia and of the Government of Kiribati.
+7
+In the case of Kiribati, subject to the provisions of the law of Kiribati from time to time in force which relate to the allowance of a credit against Kiribati tax of tax paid in a country outside Kiribati (which shall not affect the general principle of this Article), Australian tax paid under the law of Australia and in accordance with this Agreement, whether directly or by deduction, in respect of income derived by a person who is a resident of Kiribati from sources in Australia shall be allowed as a credit against Kiribati tax payable in respect of that income.

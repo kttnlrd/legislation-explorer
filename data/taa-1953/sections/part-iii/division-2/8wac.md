@@ -5,7 +5,7 @@ part_title: "Prosecutions and offences"
 division: "2"
 division_title: "Offences"
 subdivision: "BAA"
-subdivision_title: "Offences relating to electronic sales"
+subdivision_title: "Offences relating to electronic sales suppression tools"
 section: "8WAC"
 section_title: "Producing or supplying electronic sales suppression tools"
 compilation_no: 222
@@ -31,7 +31,7 @@ source_pdf: "vol01.pdf"
 <a id="s8WAC-3"></a>
 **(3)**  Subsections (1) and (2) do not apply to conduct undertaken by the person for the purpose of preventing or deterring tax evasion or enforcing a taxation law.
 
-> **Note:** A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the Criminal Code). Authorised Version C2026C00170 registered 28/04/2026
+> **Note:** A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the Criminal Code).
 
 <a id="s8WAC-4"></a>
 **(4)**  An offence against subsection (1) or (2) is an offence of strict liability.

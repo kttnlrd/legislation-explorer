@@ -31,7 +31,7 @@ Eligible taxpayers that choose to apply the simplified rules are not required to
 
 These simplified trading stock rules are largely optional and come into effect only if the taxpayer chooses under s 328-285 not to account for changes in the value of trading stock less than $5,000.
 
-If the choice is made, the closing value of the trading stock for tax purposes will be the same as the opening value for that year (ITAA97 s 328-295(2)). This will also be the opening value for the following year (ITAA97 s 70-40). Applying s 70-40, the value of Max’s trading stock on hand at the start of 2024–25 is $16,500.
+If the choice is made, the closing value of the trading stock for tax purposes will be the same as the opening value for that year (ITAA97 s 328-295(2)). This will also be the opening value for the following year (ITAA97 s 70-40). Applying s 70-40, the value of Max's trading stock on hand at the start of 2024–25 is $16,500.
 
 A reasonable estimate will approximate the value by the taxpayer that is reasonable in all of the circumstances. In some cases, the taxpayer maintains a relatively constant level of stock and will know the approximate value of stock on hand. Other taxpayers may maintain detailed stock records and may be able to provide a reasonable estimate from these records. Some taxpayers may maintain so little trading stock that a $5,000 change would be virtually impossible.
 

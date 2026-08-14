@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Eligible credits and debits**
 
-**(2)**  The credits and debits referred to in subsection (1) are those that arise in the imputation credit account of the subgroup’s trans-Tasman imputation group in relation to a company that—
+**(2)**  The credits and debits referred to in subsection (1) are those that arise in the imputation credit account of the subgroup's trans-Tasman imputation group in relation to a company that—
 
 - (a) will be part of the subgroup if the credit or debit arises before the subgroup is formed; or
 

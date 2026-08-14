@@ -3,18 +3,14 @@ ATO ID 2002/1052
 ==================================================
 
 Goods and Services Tax
-        GST and reimbursement of salary
-        FOI status: may be released
-
-
+ GST and reimbursement of salary
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a Government department, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when its employee transfers to another Government department (Government department B) and Government department B reimburses the entity for salary that the entity overpaid to the employee?
@@ -30,7 +26,7 @@ Under section 9-5 of the GST Act, one of the requirements for an entity to make 
 This means that the entity is not making a supply for consideration and the requirement in paragraph 9-5(a) of the GST Act is not met.
 The entity is not making a taxable supply under section 9-5 of the GST Act when its employee transfers to Government department B and Government department B reimburses the entity for salary that the entity overpaid to the employee.
 Date of decision:
-         9 May 2002
+  9 May 2002
 
 Legislative References:
 
@@ -39,19 +35,18 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section
 Keywords
 
 Goods and services tax
-          GST consideration
-          GST supply
-          GST taxable supply
-
+ GST consideration
+ GST supply
+ GST taxable supply
 
 Siebel/TDMS Reference Number:
-         CW2000345
+  CW2000345
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         28 November 2002
+  28 November 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

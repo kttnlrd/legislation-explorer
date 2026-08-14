@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Necessary effect of apportionment**
 
-**(3)**  The result of the apportionment, to the extent consistent with subsection (2), must be that the person’s net income or net loss, in relation to the business or contract, is the same as a separate and independent person would have if they were carrying out only the person’s activities in New Zealand and dealing at arm’s length.
+**(3)**  The result of the apportionment, to the extent consistent with subsection (2), must be that the person's net income or net loss, in relation to the business or contract, is the same as a separate and independent person would have if they were carrying out only the person's activities in New Zealand and dealing at arm's length.
 
 **First formula: Apportionment of income from interest or redemption payment**
 
@@ -70,15 +70,15 @@ compilation_date: 2026-06-06
 
 **(9)**  In the formula in subsection (8),—
 
-- (a) financial arrangements producing New Zealand income, for a business, means the value of the business’s assets that are financial arrangements that produce income having a source in New Zealand as at—
+- (a) financial arrangements producing New Zealand income, for a business, means the value of the business's assets that are financial arrangements that produce income having a source in New Zealand as at—
 
-  - (i) the borrower’s balance date that immediately precedes the income year; if the borrower has a balance date before the start of the income year; or
+  - (i) the borrower's balance date that immediately precedes the income year; if the borrower has a balance date before the start of the income year; or
 
   - (ii) the end of the day before the date on which the interest or redemption payment is paid, if subparagraph (i) does not apply:
 
-- (b) total assets, for a business, means the value of all of the business’s assets as at—
+- (b) total assets, for a business, means the value of all of the business's assets as at—
 
-  - (i) the borrower’s balance date that immediately precedes the income year, if the borrower has a balance date before the start of the income year; or
+  - (i) the borrower's balance date that immediately precedes the income year, if the borrower has a balance date before the start of the income year; or
 
   - (ii) the end of the day before the date on which the interest or redemption payment is paid, if subparagraph (i) does not apply.
 

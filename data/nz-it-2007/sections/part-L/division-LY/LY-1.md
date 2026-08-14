@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (b) section LY 3 provides when this subpart applies:
 
-- (c) the amount of a person’s research and development tax credit for a tax year is calculated under section LY 4 by reference to their expenditure or loss in relation to their research and development activities. Sections LY 5, LY 6, and LY 7 provide detailed rules as to what is eligible expenditure:
+- (c) the amount of a person's research and development tax credit for a tax year is calculated under section LY 4 by reference to their expenditure or loss in relation to their research and development activities. Sections LY 5, LY 6, and LY 7 provide detailed rules as to what is eligible expenditure:
 
 - (d) section LY 8 provides for the carry forward of unused research and development tax credits from the current tax year:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 - (b) their credit carried forward and credited to the year, as provided by section LY 8.
 
-**Tax credit: joint venturers’ apportionment**
+**Tax credit: joint venturers' apportionment**
 
 **(4)**  Despite subsection (3), a person who is a member of a joint venture in relation to research and development activities has a tax credit for the tax year equal to their proportion of their interest in the joint venture.
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Expenditure or loss: GST**
 
-**(6)**  For the purposes of calculating the amount of a person’s expenditure or loss, section DB 2 (Goods and services tax) is applied to the amounts.
+**(6)**  For the purposes of calculating the amount of a person's expenditure or loss, section DB 2 (Goods and services tax) is applied to the amounts.
 
 *Defined in this Act: amount, goods, income year, research and development activity, research and development tax credit, services, tax year*
 

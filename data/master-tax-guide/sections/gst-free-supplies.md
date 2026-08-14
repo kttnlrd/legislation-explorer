@@ -9,7 +9,7 @@ paragraph: "¶34-165"
 
 If a supply is GST-free, this means that no GST is payable on it, but that the supplier is entitled to claim credits for the GST payable on its business inputs that relate to that supply (ss 9-5; 11-15). For this reason, it is quite diﬀerent from a supply which is outside the GST system altogether (¶34-160).
 
-Example A registered greengrocer’s business consists wholly of selling fresh food. The sale of that food is GST-free. The greengrocer therefore will not charge GST on the food it sells but will claim input tax credits for the GST it pays on goods and services it acquires in carrying on its business.
+Example A registered greengrocer's business consists wholly of selling fresh food. The sale of that food is GST-free. The greengrocer therefore will not charge GST on the food it sells but will claim input tax credits for the GST it pays on goods and services it acquires in carrying on its business.
 
 Note that if the greengrocer used some of those goods for private, non-business purposes, only a proportion of the input tax credit for GST on those goods would be allowed.
 
@@ -73,9 +73,9 @@ Food Most food for human consumption is GST-free (Subdiv 38-A). However, GST app
 
 - alcohol, most soft drinks and certain other drinks (ss 38-3; 38-4; schs 1; 2).
 
-Food that consists of a combination of GST-free food and taxable prepared food, bakery products, confectionery, snacks, ice-cream or biscuits is itself taxable (s 38-3; sch 1). For example, the sale of ﬂavoured yoghurt in a plastic tub along with cookie pieces and chocolate chips in a separate compartment was held to be not GST-free (Chobani Pty Ltd 2023 ATC ¶10-669; [2023] AATA 1664). GSTD 2024/1 contains ATO’s guidance on when a supply is a supply of “combination food”.
+Food that consists of a combination of GST-free food and taxable prepared food, bakery products, confectionery, snacks, ice-cream or biscuits is itself taxable (s 38-3; sch 1). For example, the sale of ﬂavoured yoghurt in a plastic tub along with cookie pieces and chocolate chips in a separate compartment was held to be not GST-free (Chobani Pty Ltd 2023 ATC ¶10-669; [2023] AATA 1664). GSTD 2024/1 contains ATO's guidance on when a supply is a supply of "combination food".
 
-For a comprehensive “Detailed food list” of food and drink items together with their GST status and relevant notes, see ATO website. A checklist for small to medium businesses and guide for medium to large businesses on self-reviewing GST classiﬁcation of food and health products are also available on the ATO website.
+For a comprehensive "Detailed food list" of food and drink items together with their GST status and relevant notes, see ATO website. A checklist for small to medium businesses and guide for medium to large businesses on self-reviewing GST classiﬁcation of food and health products are also available on the ATO website.
 
 Simpliﬁed accounting methods apply to food retailers (including cafes and restaurants) with annual turnovers under speciﬁed levels (Div 123). They apply to:
 
@@ -97,7 +97,7 @@ Tourists may be entitled to refunds of GST on items purchased in Australia and t
 
 This Tourist Refund Scheme (TRS) applies to goods costing $300 or more that were bought from the same store within 60 days before leaving Australia. Refunds are claimed at TRS booths at airports and terminals.
 
-Residents of Australia’s External Territories (eg Norfolk, Cocos (Keeling) and Christmas Islands) may also claim refunds under the TRS on goods that are exported otherwise than as accompanied baggage to their External Territory.
+Residents of Australia's External Territories (eg Norfolk, Cocos (Keeling) and Christmas Islands) may also claim refunds under the TRS on goods that are exported otherwise than as accompanied baggage to their External Territory.
 
 GST-free status also applies to certain international mail costs and supplies through inwards duty-free shops (Subdivs 38-M; 38-Q).
 
@@ -105,7 +105,7 @@ Other GST-free supplies
 
 *Refs: s 38-85), s 38-90, s 38-105), s 38-140), s 38-3*
 
-- the sale of a “going concern” (¶34-240)
+- the sale of a "going concern" (¶34-240)
 
 - a grant of Crown land (¶34-230)
 

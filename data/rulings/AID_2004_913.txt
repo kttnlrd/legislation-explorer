@@ -3,26 +3,21 @@ ATO ID 2004/913
 ==================================================
 
 Income Tax
-        Portfolio transfer of general insurance liabilities:  outstanding claims liability of general insurance company that transfers its liabilities under a portfolio transfer
-        FOI status: may be released
-
+ Portfolio transfer of general insurance liabilities: outstanding claims liability of general insurance company that transfers its liabilities under a portfolio transfer
+ FOI status: may be released
 
 This ATO ID has been amended to insert further explanatory paragraphs at the conclusion of the Reasons for Decision.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the outstanding claims liability of a general insurance company, determined under section 321-20 of Schedule 2J to the Income Tax Assessment Act 1936 (ITAA 1936) at the end of a year of income, include a value in respect of liabilities that have been assumed by another general insurance company under a portfolio transfer?
 Decision
-No.  The outstanding claims liability of a general insurance company, determined under section 321-20 of the ITAA 1936 at the end of a year of income, does not include a value in respect of liabilities that have been assumed by another general insurance company under a portfolio transfer.
+No. The outstanding claims liability of a general insurance company, determined under section 321-20 of the ITAA 1936 at the end of a year of income, does not include a value in respect of liabilities that have been assumed by another general insurance company under a portfolio transfer.
 Facts
 The taxpayer is a general insurance company for the purposes of section 995-1 of the Income Tax Assessment Act 1997 (ITAA 1997) and the Insurance Act 1973.
 The taxpayer entered into a portfolio transfer arrangement whereby the whole of its insurance liabilities are to be transferred to another insurance company (the transferee). The taxpayer intends to cease its insurance operation after the portfolio transfer.
@@ -30,8 +25,6 @@ The portfolio transfer is completed in accordance with the provisions of the Ins
 Under the portfolio transfer, the taxpayer is required to give consideration to the transferee for assuming the outstanding claims liability under its general insurance policies.
 Reasons for Decision
 The value of the outstanding claims liability represents, as provided for by section 321-20 of the ITAA 1936, the sum of the amounts that it is appropriate for an insurance company to set aside and invest so that the company can meet its:
-
-
 
 •liabilities for outstanding claims; and
 •direct settlement costs associated with those claims.
@@ -44,17 +37,16 @@ Application of this ATO ID from 1 July 2010
 From 1 July 2010, the Tax Laws Amendment (Transfer of Provisions) Act 2010 repealed Schedule 2J of the ITAA 1936 and rewrote those provisions into Division 321 of the ITAA 1997. The wording and format was altered to adhere to the drafting approach taken in the ITAA 1997, but as outlined in Chapter 6 of the Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010, there has been no change in meaning of the rewritten provisions.
 Section 321-20 of the ITAA 1997 has, however, been clarified to include reference to section 148(1) of the ITAA 1936, which relates to reinsurance with non-residents. Therefore, from 1 July 2010, all references to Section 321-20 of the ITAA 1936 should be read as referring to Section 321-20 of the ITAA 1997.
 Date of decision:
-         1 November 2004
+  1 November 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 321-20   section 148(1)
 Income Tax Assessment Act 1997   section 995-1   section 321-20
 Insurance Act 1973   the Act
-
 
 Related ATO Interpretative Decisions
 
@@ -83,21 +75,19 @@ Other References:
 
  Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010
 
-
 Keywords
 
 General insurance
-          General insurance industry
-
+ General insurance industry
 
 Siebel/TDMS Reference Number:
-         4068632
+  4068632
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         19 November 2004
+  19 November 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

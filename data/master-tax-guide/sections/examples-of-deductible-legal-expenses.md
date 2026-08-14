@@ -31,7 +31,7 @@ In addition to the expenses noted at ¶16-840, the following are examples of leg
 
   ATD 163)
 
-- costs and damages of an employer in an employee’s personal injuries claim against the employer
+- costs and damages of an employer in an employee's personal injuries claim against the employer
 
   (5 TBRD Case E14)
 
@@ -77,7 +77,7 @@ ATC 767; [1988] AATA 589)
 
 - costs of opposing a neighbourhood development that would cause excessive dust and damage to
 
-  the taxpayer’s plant nursery (Case W30 89 ATC 300; [1989] AATA 79)
+  the taxpayer's plant nursery (Case W30 89 ATC 300; [1989] AATA 79)
 
 - costs of an accountant/trustee in defending a charge of conspiring with the debtor of an insolvent
 

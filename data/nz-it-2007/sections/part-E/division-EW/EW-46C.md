@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (c) if the debtor is a company, the creditor is not a member of the same wholly-owned group of companies as the debtor and the creditor has ownership interests or, as applicable, market value interests in the debtor:
 
-- (d) if the debtor is a partnership, the creditor has a partner’s interest in the income of the debtor:
+- (d) if the debtor is a partnership, the creditor has a partner's interest in the income of the debtor:
 
 - (e) if the debtor is a look-through company, the creditor has an effective look-through interest in the debtor.
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
   - (i) the trust was established mainly to benefit a natural person for whom each person of the single creditor group has natural love and affection; and
 
-  - (ii) the amount given by dividing the amount of the trust’s debt that is remitted for the debtor by the trust’s proportional ownership ratio is less than the amount given by dividing the amount of the single creditor group’s debt that is remitted for the debtor by the group’s proportional ownership ratio (for example: $100 remitted by the trust ÷ 40% ownership is greater than $100 remitted by the group ÷ 50% ownership, so the trust may not join the group, even if the required natural love and affection exists):
+  - (ii) the amount given by dividing the amount of the trust's debt that is remitted for the debtor by the trust's proportional ownership ratio is less than the amount given by dividing the amount of the single creditor group's debt that is remitted for the debtor by the group's proportional ownership ratio (for example: $100 remitted by the trust ÷ 40% ownership is greater than $100 remitted by the group ÷ 50% ownership, so the trust may not join the group, even if the required natural love and affection exists):
 
 - (c) a group of persons (the single corporate creditor group) that are creditors or that have interests in the debtor are treated as 1 creditor holding the total debts and interests of the single corporate creditor group, if—
 
@@ -96,9 +96,9 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(6)**  For the purposes of this section,— nominal shares are shares held by the trustee of an exempt ESS, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3% proportional debt ratio means, for a creditor and an amount of debt, the percentage that the creditor’s amount bears to the total amounts of debt to which this section applies remitted at the time the creditor’s debt is remitted proportional ownership ratio means the creditor’s percentage of the ownership interests or, as applicable, market value interests, total partner’s interests, or total effective look-through interests for the debtor, ignoring nominal shares.
+**(6)**  For the purposes of this section,— nominal shares are shares held by the trustee of an exempt ESS, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3% proportional debt ratio means, for a creditor and an amount of debt, the percentage that the creditor's amount bears to the total amounts of debt to which this section applies remitted at the time the creditor's debt is remitted proportional ownership ratio means the creditor's percentage of the ownership interests or, as applicable, market value interests, total partner's interests, or total effective look-through interests for the debtor, ignoring nominal shares.
 
-*Defined in this Act: amount, consideration, employee, exempt ESS, generally accepted accounting practice, group of persons, income, look-through company, look-through interest, market value interest, New Zealand resident, nominal share, non-resident, partnership, partner’s interests, pay, proportional debt ratio, proportional ownership ratio, share, trustee, voting interest, wholly-owned group of companies*
+*Defined in this Act: amount, consideration, employee, exempt ESS, generally accepted accounting practice, group of persons, income, look-through company, look-through interest, market value interest, New Zealand resident, nominal share, non-resident, partnership, partner's interests, pay, proportional debt ratio, proportional ownership ratio, share, trustee, voting interest, wholly-owned group of companies*
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

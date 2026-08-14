@@ -4,11 +4,11 @@ part_title: Part E Timing and quantifying rules
 division: EW
 division_title: Subpart EW—Financial arrangements rules
 section: EW-46D
-section_title: Consideration when insolvent company’s debt repaid with consideration received for issuing shares
+section_title: Consideration when insolvent company's debt repaid with consideration received for issuing shares
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# EW 46D  Consideration when insolvent company’s debt repaid with consideration received for issuing shares
+# EW 46D  Consideration when insolvent company's debt repaid with consideration received for issuing shares
 
 **When this section applies**
 
@@ -32,31 +32,31 @@ compilation_date: 2026-06-06
 
   - (ii) immediately before the issue of the shares; and
 
-- (e) the terms of the arrangement require the debtor or person A to use some or all of the consideration to pay, directly or indirectly, an amount of the debtor’s debt to the creditor; and
+- (e) the terms of the arrangement require the debtor or person A to use some or all of the consideration to pay, directly or indirectly, an amount of the debtor's debt to the creditor; and
 
-- (f) section EW 46C would not apply if the amount of the debtor’s debt is remitted; and
+- (f) section EW 46C would not apply if the amount of the debtor's debt is remitted; and
 
-- (g) the debtor or person A uses some or all of the consideration to pay, directly or indirectly, the amount of the debtor’s debt to the creditor.
+- (g) the debtor or person A uses some or all of the consideration to pay, directly or indirectly, the amount of the debtor's debt to the creditor.
 
 **Consideration**
 
 **(2)**  The debtor or person A, as applicable, is treated as—
 
-- (a) not having paid, directly or indirectly, the amount of the debtor’s debt to the creditor; and
+- (a) not having paid, directly or indirectly, the amount of the debtor's debt to the creditor; and
 
-- (b) having made a payment, at the time the shares were issued, of an amount of the debtor’s debt to the creditor equal to the amount calculated using the formula in subsection (3).
+- (b) having made a payment, at the time the shares were issued, of an amount of the debtor's debt to the creditor equal to the amount calculated using the formula in subsection (3).
 
 **Formula**
 
-**(3)**  The formula is— shares’ market value × repayment ÷ total consideration.
+**(3)**  The formula is— shares' market value × repayment ÷ total consideration.
 
 **Definition of items in formula**
 
 **(4)**  In the formula,—
 
-- (a) shares’ market value is the market value of the shares issued to person B at the time they were issued:
+- (a) shares' market value is the market value of the shares issued to person B at the time they were issued:
 
-- (b) repayment is the amount of the debtor’s debt to the creditor that is paid, directly or indirectly, using consideration received for the issue of the shares to person B:
+- (b) repayment is the amount of the debtor's debt to the creditor that is paid, directly or indirectly, using consideration received for the issue of the shares to person B:
 
 - (c) total consideration is the total amount of consideration paid by person B for the issue of the shares.
 

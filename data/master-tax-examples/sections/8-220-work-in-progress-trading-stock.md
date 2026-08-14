@@ -11,11 +11,11 @@ Worked example: Work in progress; trading stock Issue Mitch and Carol Groves are
 
 What are the tax implications of admitting the children into the partnership?
 
-Solution Depreciating assets, trading stock and WIP impact on the calculation of the partnership’s net income or loss.
+Solution Depreciating assets, trading stock and WIP impact on the calculation of the partnership's net income or loss.
 
 Depreciating assets The partnership is the owner of the depreciating assets (ITAA97 s 40-40, item 7). On admitting the children into the Groves partnership, there is a disposal and a balancing adjustment event occurs (s 40-295(2)).
 
-This would result in the depreciating assets being disposed of for market value to the new partnership. The old partnership would have a $10,000 ($50,000 − $40,000) assessable balancing adjustment to declare in the final old partnership return. The tax value of the depreciating assets for the new partnership will be the market value of $50,000. However, if all parties agree, roll-over relief is available and no balancing adjustment would arise (ITAA97 s 40-340(3) and (4)). The new partnership would take on the previous partnership’s tax values.
+This would result in the depreciating assets being disposed of for market value to the new partnership. The old partnership would have a $10,000 ($50,000 − $40,000) assessable balancing adjustment to declare in the final old partnership return. The tax value of the depreciating assets for the new partnership will be the market value of $50,000. However, if all parties agree, roll-over relief is available and no balancing adjustment would arise (ITAA97 s 40-340(3) and (4)). The new partnership would take on the previous partnership's tax values.
 
 Trading stock The admission of the children into the partnership would be considered a change of ownership outside the course of ordinary business (ITAA97 Subdiv 70-D). The deemed disposal of the trading stock would be at market value (ss 70-80 to 70-100). However, providing that the old and new partnership agrees in writing, the disposal can be taken to be the tax carrying value (ITAA97 s 70-100(4)). This would result in no taxing impact for the new and old partnership.
 

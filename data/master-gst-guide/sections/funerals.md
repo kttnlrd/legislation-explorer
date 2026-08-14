@@ -27,7 +27,7 @@ Example Rupert agreed to pre-pay for his funeral in annual instalments, starting
 
   funeral, for no additional cost, would not be regarded as a variation of the contract. Additional services
 
-  contracted for by the deceased’s family after 30 June 2000 would not be exempt (ATO Fact Sheet The
+  contracted for by the deceased's family after 30 June 2000 would not be exempt (ATO Fact Sheet The
 
 Funeral Industry).
 

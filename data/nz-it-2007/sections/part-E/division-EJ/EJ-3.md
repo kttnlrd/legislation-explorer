@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Personal representative**
 
-**(6)**  An election under subsection (4) may be made by a deceased’s personal representative.
+**(6)**  An election under subsection (4) may be made by a deceased's personal representative.
 
 **Elections under subsection (2) irrevocable**
 

@@ -16,19 +16,19 @@ compilation_date: 2026-06-06
 
 **First formula**
 
-**(2)**  The formula for calculating the person’s quarterly FDR hedging ratio is— FDR hedges amount ÷ eligible currency assets.
+**(2)**  The formula for calculating the person's quarterly FDR hedging ratio is— FDR hedges amount ÷ eligible currency assets.
 
 **Definition of items in formula**
 
 **(3)**  In the formula in subsection (2), all items are expressed in New Zealand currency, and—
 
-- (a) FDR hedges amount is the total amount of foreign currency that is hedged by a person’s fair dividend rate hedge portions:
+- (a) FDR hedges amount is the total amount of foreign currency that is hedged by a person's fair dividend rate hedge portions:
 
-- (b) eligible currency assets is the total market value of a person’s assets described in section EM 1(1)﻿(a) and (b).
+- (b) eligible currency assets is the total market value of a person's assets described in section EM 1(1)﻿(a) and (b).
 
 **Second formula**
 
-**(4)**  If a person’s quarterly FDR hedging ratio for a quarter is greater than 1.05 and subsection (6) does not apply, then, despite section EM 5, the fair dividend rate hedge portion of each eligible hedge, from 5 working days after the calculation day of the quarter, is calculated using the formula— (0.85 ÷ quarterly FDR hedging ratio) × FDR hedge portion.
+**(4)**  If a person's quarterly FDR hedging ratio for a quarter is greater than 1.05 and subsection (6) does not apply, then, despite section EM 5, the fair dividend rate hedge portion of each eligible hedge, from 5 working days after the calculation day of the quarter, is calculated using the formula— (0.85 ÷ quarterly FDR hedging ratio) × FDR hedge portion.
 
 **Definition of items in second formula**
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 - (a) FDR hedge portion is the fair dividend rate hedge portion of the relevant eligible hedge:
 
-- (b) quarterly FDR hedging ratio is the person’s quarterly FDR hedging ratio for the relevant quarter.
+- (b) quarterly FDR hedging ratio is the person's quarterly FDR hedging ratio for the relevant quarter.
 
 **Relationship with subject matter**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Subpart not applied for over-hedging**
 
-**(6)**  If a person’s quarterly FDR hedging ratio is greater than 1.05 on the calculation day of 2 consecutive quarters, then this subpart will not apply to the person for the next 2 quarters. Subpart EW (Financial arrangements rules) applies.
+**(6)**  If a person's quarterly FDR hedging ratio is greater than 1.05 on the calculation day of 2 consecutive quarters, then this subpart will not apply to the person for the next 2 quarters. Subpart EW (Financial arrangements rules) applies.
 
 *Defined in this Act: eligible hedge, fair dividend rate hedge portion, hedge, income year, person, quarterly FDR hedging ratio*
 

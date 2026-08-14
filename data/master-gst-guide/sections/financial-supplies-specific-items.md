@@ -64,7 +64,7 @@ Regulations s 40-5.09(5); GST Ruling GSTR 2014/2). Cash dispensing equipment, wh
 
 An actual EFTPOS transaction between the bank and the customer is a financial supply. However, where a service provider allowed another business to use its EFTPOS facilities for a fee, that was a taxable supply, not an input taxed financial supply (Interpretative Decision ID 2004/820).
 
-The supply of transaction information to a client in relation to a transaction on the client’s account would be covered, but not information related to a transaction of the client’s customer (Interpretative Decision ID 2007/33). The provision of a prepaid card facility was considered to be a financial supply in Interpretative Decision ID 2010/225.
+The supply of transaction information to a client in relation to a transaction on the client's account would be covered, but not information related to a transaction of the client's customer (Interpretative Decision ID 2007/33). The provision of a prepaid card facility was considered to be a financial supply in Interpretative Decision ID 2010/225.
 
 The supply of access to internet banking services and the supply of internet transaction facilities would be financial supplies under this head (Interpretative Decisions ID 2006/32; ID 2006/33), although the supply of software access and maintenance would be taxable (GST Ruling GSTR 2002/2).
 
@@ -88,19 +88,19 @@ Loans, debt and credit (item 2)
 
 - recovery of Commonwealth, state and territory fees, duties and taxes
 
-- recovery of lender’s mortgage insurance fees.
+- recovery of lender's mortgage insurance fees.
 
-The concept of “credit” bears its ordinary meaning and should not be construed narrowly (FC of T v American Express International Inc [2010] FCAFC 122).
+The concept of "credit" bears its ordinary meaning and should not be construed narrowly (FC of T v American Express International Inc [2010] FCAFC 122).
 
-A purchase made under a “buy-now, pay-later” arrangement (such as Afterpay) would normally involve a provision of credit to the purchaser, irrespective of whether interest or fees are charged. For additional ATO guidelines see “GST considerations for buy-now, pay-later providers” at ¶10-090.
+A purchase made under a "buy-now, pay-later" arrangement (such as Afterpay) would normally involve a provision of credit to the purchaser, irrespective of whether interest or fees are charged. For additional ATO guidelines see "GST considerations for buy-now, pay-later providers" at ¶10-090.
 
 Example X is a buy-now, pay-later provider, who provides credit to consumers on terms under which they repay in equal instalments. A customer enters in an arrangement to buy a mobile phone from a merchant. Under the contract between X and the merchant, the customer's obligation to pay the merchant for the phone is discharged by the buy-now, pay-later provider. X does not charge interest to the customer, but charges late fees if the customer fails to pay on time. The consideration provided by the customer is the interest in a debt (its obligation to repay) and is treated as money. The supply by X of the interest in a credit arrangement is the supply of a financial interest for consideration (the interest in a debt). This would apply even if X did not charge late fees to customers. Any late fees paid by the customer are additional consideration for the supply by X of the interest in the credit arrangement to the customer (Based on GST Ruling GSTR 2002/2).
 
 The Commissioner considers that item (2) may also apply to assignments of rights to payment streams under loan agreements, finance and operating leases, residential or commercial property leases, royalty agreements, credit card receivables arrangements and debt factoring (GST Ruling GSTR 2004/4; Interpretative Decision ID 2007/158). Where the underlying supply is subject to GST (eg in the case of a commercial property lease), the supplier remains the entity liable to account for the GST.
 
-A “debt” may include a contingent debt (Interpretative Decision ID 2007/29).
+A "debt" may include a contingent debt (Interpretative Decision ID 2007/29).
 
-For the ATO’s views on acquisitions made by a credit card or charge card issuing business with a four party (open loop) payment system, see GST Ruling GSTR 2019/2. For apportionment of input tax credit transactions, see ¶10-030.
+For the ATO's views on acquisitions made by a credit card or charge card issuing business with a four party (open loop) payment system, see GST Ruling GSTR 2019/2. For apportionment of input tax credit transactions, see ¶10-030.
 
 For ATO views on the circumstances in which fuel card transactions involve financial supplies of credit, taxable supplies of fuel, or both, see GST Ruling GSTR 2005/1.
 
@@ -124,7 +124,7 @@ Mortgages and charges (item 3)
 
   trust, public sector superannuation scheme or retirement savings account. This would also apply
 
-  where the fund trustee supplies information to the member about that member’s interest in the fund
+  where the fund trustee supplies information to the member about that member's interest in the fund
 
 (Interpretative Decision ID 2006/246). However, where that information is supplied, for a fee, to a non-member spouse under family law rules, this would be treated as a taxable supply (Interpretative Decision ID 2006/245).
 
@@ -162,7 +162,7 @@ Mortgages and charges (item 3)
 
   with a third party.
 
-This does not apply to warranties for goods, or non-life insurance or reinsurance. These are not financial supplies (¶10-020). The ATO considers that this category also does not cover the situation where a lessor guarantees a lessee’s income from the business operated from the leased premises (GST Ruling GSTR 2003/16).
+This does not apply to warranties for goods, or non-life insurance or reinsurance. These are not financial supplies (¶10-020). The ATO considers that this category also does not cover the situation where a lessor guarantees a lessee's income from the business operated from the leased premises (GST Ruling GSTR 2003/16).
 
 For detailed guidelines on guarantees and indemnities, see GST Ruling GSTR 2006/1.
 
@@ -180,7 +180,7 @@ Currency (item 9) This covers Australian currency, foreign currency and agreemen
 
 - foreign currency drafts
 
-- traveller’s cheques
+- traveller's cheques
 
 - international cheques
 
@@ -200,7 +200,7 @@ Although the supply may be a financial supply, it will be treated as GST-free ra
 
 Where a non-bank entity cashed a cheque for a fee, this was considered to be a financial supply of currency by the entity, and a financial supply of an interest in a security by the other party, provided that the general requirements (¶10-005) were satisfied (Interpretative Decision ID 2007/146). Conversely, where the entity provided a cheque to a client in exchange for an equivalent amount of cash, plus a fee, this was considered to be a financial supply of an interest in a security by the entity, and a financial supply of currency by the client (Interpretative Decision ID 2007/159).
 
-For the Commissioner’s views on the availability of input tax credits for acquisitions related to retail foreign currency exchange transactions with customers in Australia, see GST Determination GSTD 2012/5.
+For the Commissioner's views on the availability of input tax credits for acquisitions related to retail foreign currency exchange transactions with customers in Australia, see GST Determination GSTD 2012/5.
 
 For the treatment of bitcoin transactions, see ¶4-010.
 
@@ -224,11 +224,11 @@ Pacific Holdings Ltd v FC of T [2008] FCA 1834), but is apparently not restricte
 
 - Interests in the capital of a general law partnership, as distinct from a tax law partnership (¶3-015).
 
-This includes all the interests that a partner acquires from the partnership as a consequence of being a partner, and includes the partner’s interest in the partnership (GST Rulings GSTR 2003/13; GSTR 2004/6).
+This includes all the interests that a partner acquires from the partnership as a consequence of being a partner, and includes the partner's interest in the partnership (GST Rulings GSTR 2003/13; GSTR 2004/6).
 
 - Promissory notes and bills of exchange. (For the implications of cashing or providing cheques for a
 
-  fee, see under heading “Currency” above.)
+  fee, see under heading "Currency" above.)
 
 - Bank cheques.
 
@@ -248,9 +248,9 @@ Interests in managed investment schemes are generally included, as are time-shar
 
 For the treatment of barter trade exchange schemes, see ¶7-435. Share-for-share swaps involve financial supplies by both parties.
 
-Example The following is based on ATO decisions on the GST implications of various transactions associated with time-share schemes: (1) An accommodation time-sharing scheme issued timeshare points to a participant in the scheme. This was treated as a financial supply to that participant. In addition, to the extent that the developer’s interest in the scheme was proportionately reduced when the timeshare points were issued, there was a financial supply by the developer to the scheme. The requirement that there can only be a supply where the supplier “does something” (¶4-010) was met, because the developer had agreed to be bound by the scheme’s constitution which provided for the reduction in its interest whenever timeshare points were issued (Interpretative Decision ID 2010/18). It is possible that in certain circumstances such a supply might constitute a GST-free supply of a going concern (¶11-500). (2) Conversely, when the developer made a property contribution to the scheme, thus increasing its interest, this constituted a financial supply by the scheme to the developer (Interpretative Decision ID 2010/18). (3) The supply of short-term excess accommodation by the scheme was taxable. It was not input taxed, either as a financial supply or as a supply of “commercial residential premises” (¶11-030) (Interpretative Decision ID 2010/19). (4) The supply of an interest in the scheme to an overseas non-resident was not a GST-free export of services (s 38-190), because the interest constituted rights over real property (¶11-000; Interpretative Decision ID 2010/20). (5) The annual maintenance fee paid by a participant in the scheme is consideration for the input taxed supply of an interest in the scheme (Interpretation Decision ID 2010/23).
+Example The following is based on ATO decisions on the GST implications of various transactions associated with time-share schemes: (1) An accommodation time-sharing scheme issued timeshare points to a participant in the scheme. This was treated as a financial supply to that participant. In addition, to the extent that the developer's interest in the scheme was proportionately reduced when the timeshare points were issued, there was a financial supply by the developer to the scheme. The requirement that there can only be a supply where the supplier "does something" (¶4-010) was met, because the developer had agreed to be bound by the scheme's constitution which provided for the reduction in its interest whenever timeshare points were issued (Interpretative Decision ID 2010/18). It is possible that in certain circumstances such a supply might constitute a GST-free supply of a going concern (¶11-500). (2) Conversely, when the developer made a property contribution to the scheme, thus increasing its interest, this constituted a financial supply by the scheme to the developer (Interpretative Decision ID 2010/18). (3) The supply of short-term excess accommodation by the scheme was taxable. It was not input taxed, either as a financial supply or as a supply of "commercial residential premises" (¶11-030) (Interpretative Decision ID 2010/19). (4) The supply of an interest in the scheme to an overseas non-resident was not a GST-free export of services (s 38-190), because the interest constituted rights over real property (¶11-000; Interpretative Decision ID 2010/20). (5) The annual maintenance fee paid by a participant in the scheme is consideration for the input taxed supply of an interest in the scheme (Interpretation Decision ID 2010/23).
 
-Securities included an interest acquired as a single member in a limited liability company formed under Delaware law. That interest was considered to be broadly equivalent to a “share” in the share capital of a company limited by shares (Interpretative Decision ID 2010/125).
+Securities included an interest acquired as a single member in a limited liability company formed under Delaware law. That interest was considered to be broadly equivalent to a "share" in the share capital of a company limited by shares (Interpretative Decision ID 2010/125).
 
 A company was treated as having made a financial supply when it redeemed redeemable preference shares from its shareholders (Interpretative Decision ID 2012/66).
 
@@ -278,7 +278,7 @@ Derivatives (item 11)
 
 A guaranteed fixed interest rate facility may be treated as a derivative (Interpretative Decision ID 2003/1061).
 
-So may financial spread betting contracts and “contracts for difference” (GST Determination GSTD 2005/3), but not an arrangement where a taxpayer sold a commodity to a financial institution and agreed to subsequently repurchase it at a price reflecting the original sale price plus interest and holding charges (Interpretative Decision ID 2004/76).
+So may financial spread betting contracts and "contracts for difference" (GST Determination GSTD 2005/3), but not an arrangement where a taxpayer sold a commodity to a financial institution and agreed to subsequently repurchase it at a price reflecting the original sale price plus interest and holding charges (Interpretative Decision ID 2004/76).
 
 A commodity trader does not make a taxable supply when it makes a cash settlement payment in relation to a deliverable commodity forward contract where there is a formal default. The payment is simply treated in the same way as damages (¶4-085; Interpretative Decision ID 2004/359). The same would apply when a party is in default due to insolvency.
 
@@ -290,7 +290,7 @@ Foreign bank accounts, superannuation (items 12, 13) Supplies of bank accounts a
 
 Services to non-account holders Services of these types that are provided by authorised deposit-taking institutions to a non-account holder are also treated as a financial supply if the fee charged is $1,000 or less. For example, this could apply where an application fee is charged for a loan that is not approved or taken up.
 
-The supply of transaction information to a client who was not an account holder would be covered where it relates to the client’s own transaction (Interpretative Decision ID 2007/32), but not information related to a transaction of the client’s customer (Interpretative Decision ID 2007/33).
+The supply of transaction information to a client who was not an account holder would be covered where it relates to the client's own transaction (Interpretative Decision ID 2007/32), but not information related to a transaction of the client's customer (Interpretative Decision ID 2007/33).
 
 Incidental financial supplies Anything that is supplied directly in connection with a financial supply is itself a financial supply, provided:
 
@@ -302,14 +302,14 @@ Incidental financial supplies Anything that is supplied directly in connection w
 
 - making the supplies together is the usual practice of the supplier in the ordinary course of its business
 
-(GST Regulations s 40-5.08; 40-5.10). “Usual practice” is not limited to already-established practices — it can be a practice new to the supplier, or a usual practice established by other financial supply providers, that the supplier intends adopting (GST Ruling GSTR 2002/2).
+(GST Regulations s 40-5.08; 40-5.10). "Usual practice" is not limited to already-established practices — it can be a practice new to the supplier, or a usual practice established by other financial supply providers, that the supplier intends adopting (GST Ruling GSTR 2002/2).
 
 This rule is intended to avoid the need for financial suppliers to allocate a separate price to relatively small non-financial components of a larger financial supply.
 
 *Refs: s
 40-5, s 38-190), s 40-5*
 
-(1) In accordance with its normal practice, a bank values a home as part of making a home loan. No separate charge is made. As the valuation is directly connected to the loan (which is a financial supply), the valuation would be treated as an incidental financial supply. Both the valuation and the loan would therefore be input taxed. However, if the valuation was supplied by a third party not acting for the bank, it would not be an incidental financial supply, as it is not provided by the same supplier as the loan. The valuation would therefore be subject to GST in the normal way. (2) In accordance with its normal practice, a bank provides “free” financial advice as part of making a home loan. The advice would be treated as an incidental financial supply and both the advice and the loan would be input taxed. However, if the bank later provides general financial advice for a fee to that same customer, this would not be an incidental financial supply as it is not “directly connected” to the loan. The advice would therefore be subject to GST in the normal way.
+(1) In accordance with its normal practice, a bank values a home as part of making a home loan. No separate charge is made. As the valuation is directly connected to the loan (which is a financial supply), the valuation would be treated as an incidental financial supply. Both the valuation and the loan would therefore be input taxed. However, if the valuation was supplied by a third party not acting for the bank, it would not be an incidental financial supply, as it is not provided by the same supplier as the loan. The valuation would therefore be subject to GST in the normal way. (2) In accordance with its normal practice, a bank provides "free" financial advice as part of making a home loan. The advice would be treated as an incidental financial supply and both the advice and the loan would be input taxed. However, if the bank later provides general financial advice for a fee to that same customer, this would not be an incidental financial supply as it is not "directly connected" to the loan. The advice would therefore be subject to GST in the normal way.
 
 Incidental financial supplies are treated as financial supplies even if they are covered by an exclusion noted at ¶10-020 below.
 

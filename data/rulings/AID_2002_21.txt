@@ -3,23 +3,18 @@ ATO ID 2002/21
 ==================================================
 
 Goods and Services Tax
-        GST and attributing input tax credits to goods financed under a consumer credit loan
-        FOI status: may be released
+ GST and attributing input tax credits to goods financed under a consumer credit loan
+ FOI status: may be released
 
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in  GSTD 2004/4 Goods and services tax: can consideration for a supply be provided or received without transferring money (such as where the parties only make book entries recording their agreement that the supply is paid for)?
+This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTD 2004/4 Goods and services tax: can consideration for a supply be provided or received without transferring money (such as where the parties only make book entries recording their agreement that the supply is paid for)?
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, entitled to attribute the input tax credit, for an acquisition of goods financed by a consumer credit loan, under section 29-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), to the tax period in which it purchases the goods?
@@ -35,8 +30,6 @@ Reasons for Decision
 Section 29-10 of the GST Act provides the rules that are used to determine to which tax period an input tax credit for a creditable acquisition is attributable.
 Where the entity accounts for GST on a cash basis, subsection 29-10(2) of the GST Act provides:
 
-
-
 •if, in a tax period, the entity provides all of the consideration for a creditable acquisition - the input tax credit for the creditable acquisition is attributable to that tax period; or
 •if in a tax period, the entity provides part of the consideration - the input tax credit for the creditable acquisition is attributable to that tax period, but only to the extent that the entity provided the consideration in that tax period; or
 •if in a tax period, none of the consideration is provided - none of the input tax credit for the acquisition is attributable to that tax period.
@@ -45,7 +38,7 @@ However, under subsection 29-10(3) of the GST Act, if the entity does not hold a
 In this case, there are two separate acquisitions for GST purposes. The first acquisition is the acquisition of finance from the finance company. The second acquisition is the acquisition of goods by the entity from the supplier. In relation to the acquisition of goods, the entity obtains funds from the finance company under a consumer credit loan and uses these funds to provide full payment for the creditable acquisition of goods from the supplier. As such, it is the entity that is providing all the consideration to the supplier for the supply of goods at the time of the purchase (not the finance company).
 The entity accounts on a cash basis, provided all of the consideration for the goods at the time of the purchase and holds a tax invoice for that purchase. Therefore, the entity is entitled to attribute the input tax credit for an acquisition of goods financed under a consumer credit loan under section 29-10 of the GST Act to the tax period in which it purchases the goods.
 Date of decision:
-         28 June 2001
+  28 June 2001
 
 Legislative References:
 
@@ -54,35 +47,31 @@ A New Tax System (Goods and Services Tax) Act 1999   section 11-5   sectio
 Keywords
 
 Goods & services tax
-          GST supplies and acquisitions
-          Creditable acquisition
-          GST consideration
-          GST tax periods
-          Attribution rules
-
+ GST supplies and acquisitions
+ Creditable acquisition
+ GST consideration
+ GST tax periods
+ Attribution rules
 
 Siebel/TDMS Reference Number:
-         CW221400
+  CW221400
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         17 January 2002
+  17 January 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 28 June 2001

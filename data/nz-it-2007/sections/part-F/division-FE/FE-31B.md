@@ -16,13 +16,13 @@ compilation_date: 2026-06-06
 
 - (a) the company; and
 
-- (b) the company’s New Zealand group for the income year; and
+- (b) the company's New Zealand group for the income year; and
 
-- (c) the company’s worldwide GAAP group, as described in subsection (2).
+- (c) the company's worldwide GAAP group, as described in subsection (2).
 
 **Worldwide GAAP group**
 
-**(2)**  An excess debt outbound company’s worldwide GAAP group is made up of all non-residents who are required to be included with the company in consolidated financial statements under generally accepted accounting practice.
+**(2)**  An excess debt outbound company's worldwide GAAP group is made up of all non-residents who are required to be included with the company in consolidated financial statements under generally accepted accounting practice.
 
 *Defined in this Act: excess debt outbound company, generally accepted accounting practice, income year, non-resident*
 

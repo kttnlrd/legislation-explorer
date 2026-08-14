@@ -7,7 +7,7 @@ paragraph: "¶26-190"
 ---
 # PAYG: beneﬁt and compensation payments ¶26-190
 
-Social security An entity that makes certain payments to an individual under the Social Security Act 1991, the Veterans’ Entitlements Act 1986, the Disability Services Act 1986 and the Farm Household Support Act 1992 must withhold an amount (TAA sch 1 s 12-110). PAYG amounts must also be withheld from CDEP Scheme Participant Supplement payments and parental leave pay (within the meaning given of the Paid Parental Leave Act 2010: ¶2-133). PAYG does not apply to so much of a payment as is exempt income of the individual (eg certain payments on the death of the taxpayer’s partner).
+Social security An entity that makes certain payments to an individual under the Social Security Act 1991, the Veterans' Entitlements Act 1986, the Disability Services Act 1986 and the Farm Household Support Act 1992 must withhold an amount (TAA sch 1 s 12-110). PAYG amounts must also be withheld from CDEP Scheme Participant Supplement payments and parental leave pay (within the meaning given of the Paid Parental Leave Act 2010: ¶2-133). PAYG does not apply to so much of a payment as is exempt income of the individual (eg certain payments on the death of the taxpayer's partner).
 
 Commonwealth education or training payments An entity that makes a Commonwealth education or training payment (¶10-700) to an individual must withhold an amount (TAA sch 1 s 12-115). PAYG withholding does not, however, apply to so much of the payment as is exempt income of the individual (eg isolated children payments).
 

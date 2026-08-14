@@ -1,3 +1,11 @@
+---
+act: "Keay's Insolvency"
+source: "Keays Insolvency Textbook by Phillip Keays, LexisNexis"
+chapter: 12
+title: "Provisional Liquidation"
+slug: "12-provisional-liquidation"
+---
+
 # Chapter 12: Provisional Liquidation
 
 Provisional Liquidation
@@ -35,7 +43,7 @@ company were eventually wound up: see VR Dye & Co v Peninsula Hotels Pty Ltd
 [1999] 3 VR 201. The usual concern is that the assets are being transferred or taken
 by the directors, and that there is a need to urgently remove them from their
 position of authority to deal with the assets.
-486      Keay’s Insolvency: Personal and Corporate Law and Practice                        [12.10]
+486      Keay's Insolvency: Personal and Corporate Law and Practice                        [12.10]
 
 The court therefore has the power, pursuant to the Corporations Act, s 472(2), to
 appoint a provisional liquidator of a company at any time after the ﬁling of a
@@ -46,18 +54,18 @@ application. While not the only reason for applying for an order, concern about
 dissipation of assets most frequently precipitates an application: see Sutherland v
 Take Seven Group Pty Ltd (1998) 29 ACSR 201, 204. The solvency of the company is
 also an important consideration:
-   “While insolvency is not in itself a necessary or sufficient condition nor an inevitable
+   "While insolvency is not in itself a necessary or sufficient condition nor an inevitable
    consequence of the appointment of a provisional liquidator, apparent or probable
    insolvency frequently accompanies the problems typically invoking provisional
    liquidation and may signiﬁcantly favour the exercise of the discretion conferred by
-   s 472(2) of the Act.”1
-The company’s ﬁnancial position will be examined in its entirety: Constantinidis v
+   s 472(2) of the Act."1
+The company's ﬁnancial position will be examined in its entirety: Constantinidis v
 JGL Trading Pty Ltd (1995) 17 ACSR 625.
 While provisional liquidation is a signiﬁcant and useful remedy in particular
 circumstances, it is in fact rarely used. There were only 56 such orders made in
 2016-2017, out of nearly 3,000 court-appointed liquidations.2
 Provisional liquidation compares with the application by a creditor for an order for
-interim control of a debtor’s property under s 50 of the Bankruptcy Act, (see [3.445]),
+interim control of a debtor's property under s 50 of the Bankruptcy Act, (see [3.445]),
 so as to preserve that property pending a sequestration order being made.
 Where ASIC is conducting an investigation of a company it is possible to obtain
 both orders appointing provisional liquidators and asset preservation orders under
@@ -71,9 +79,9 @@ A creditor
 [12.10] In most cases, a creditor will be the applicant for an order; initially the
 creditor will need to establish its standing as such. Generally, it will be the creditor
 who has sought the winding up of the company and who is concerned that the
-directors are disposing of the company’s assets in order to avoid the consequences
+directors are disposing of the company's assets in order to avoid the consequences
 of liquidation. An example is where the directors have given guarantees to
-creditors in respect of the company’s liability and they seek to satisfy, as far as
+creditors in respect of the company's liability and they seek to satisfy, as far as
 possible, the claims to those creditors in preference to the claims of other creditors.
 Another example is where the directors continue to misuse funds for their own
 beneﬁt or in conducting reckless business ventures through the company.
@@ -105,20 +113,20 @@ The company
 winding up. This may arise in circumstances where a voluntary liquidation is not
 possible because of a deadlock in the company. A company application was more
 common in the past when voluntary liquidation could not be initiated as swiftly as
-necessary, before the more expeditious processes introduced to the creditors’
+necessary, before the more expeditious processes introduced to the creditors'
 voluntary liquidation regime in 2007: see [11.25]. Also, it has never been a valid
 response of a director, served with a tax penalty notice, to simply put the company
 into provisional liquidation; only liquidation of the company will provide a
 relevant response to such a notice. See [16.150].
 In Olive v Litchﬁeld Trading Co Pty Ltd [2015] NTSC 2, the court ordered a
-provisional winding up where there was a serious dispute between the company’s
+provisional winding up where there was a serious dispute between the company's
 two directors and one of the directors sought a winding up order on the basis of
 concerns about potential insolvency. While there would be some additional costs
 ﬂowing from the appointment, the creditors were not otherwise disadvantaged.
 Indeed the court considered that their positions might be better protected because
 they could deal with the provisional liquidators, rather than separately with each of
 the directors.
-488      Keay’s Insolvency: Personal and Corporate Law and Practice                                 [12.25]
+488      Keay's Insolvency: Personal and Corporate Law and Practice                                 [12.25]
 
 Undertaking as to damages may be required
 [12.25] Given the potentially serious consequences for the company involved in
@@ -136,7 +144,7 @@ Certainly there must be good grounds for the appointment and it must be sought
 for bona ﬁde purposes.4 It is a drastic intrusion into the affairs of the company and
 is not to be contemplated if other measures are able to preserve the status quo.5 For
 example, the mere need to preserve the ﬁnancial records of the company can be
-provided for by an order under the court’s rules for interim custody rather than by
+provided for by an order under the court's rules for interim custody rather than by
 the appointment of a provisional liquidator.6
 The court should consider the degree of urgency, the need established by the
 applicant creditor, the public interest7 and the balance of convenience.
@@ -147,7 +155,7 @@ winding up order will be made.9 The application for the appointment of a
 provisional liquidator is usually lodged contemporaneously with, or soon after, the
 ﬁling of the application to wind up.10 A provisional liquidator will not be
 
-3 Courts’ Corporations Rules, r 6.1(4). See Re Property Corporate Services Pty Ltd [2004] FCA 175; (2004) 48
+3 Courts' Corporations Rules, r 6.1(4). See Re Property Corporate Services Pty Ltd [2004] FCA 175; (2004) 48
   ACSR 508, 518; Roumanus v Orchard Holdings [2007] NSWSC 1480. In comparable circumstances in
   bankruptcy, Bankruptcy Regulations 1996 (Cth), reg 4.08 allows a debtor to apply to the court for
   damages: see [3.445].
@@ -158,20 +166,20 @@ provisional liquidator is usually lodged contemporaneously with, or soon after, 
 7 See generally Zempilas v JN Taylor Holdings Ltd (1990) 3 ACSR 516; Constantinidis v JGL Trading Pty Ltd
   (1995) 17 ACSR 625; ASC v Solomon (1996) 19 ACSR 73, 80; Re United Medical Protection Ltd [2003]
   NSWSC 1031; (2004) 22 ACLC 56.
-8 Mere disagreement between the applicant and the company’s management is not of itself sufficient:
+8 Mere disagreement between the applicant and the company's management is not of itself sufficient:
   Nikolaidis v Camden Retail Pty Ltd [2010] NSWSC 977 (company approaching insolvency but no risk to
   the assets).
 9 ASC v Solomon (1996) 19 ACSR 73. If the winding up application itself is dismissed the provisional
   liquidation may also be terminated: see Grace v Grace (No 5) [2013] NSWSC 601.
-10 See Div 6 of the Courts’ Corporations Rules.
+10 See Div 6 of the Courts' Corporations Rules.
 [12.35]                                                               12 Provisional Liquidation     489
 
 appointed merely because the company is insolvent11 although insolvency will be
 relevant. But unless an applicant can demonstrate that there is a need for an interim
 control of the company pending the winding up of the company, no appointment
 will be made. Where an application is made on an ex parte basis, there should be
-cogent evidence as justiﬁcation, such that “the very fact of notice itself is likely to
-be such as to defeat the purpose of appointing a provisional liquidator”: DCT v A &
+cogent evidence as justiﬁcation, such that "the very fact of notice itself is likely to
+be such as to defeat the purpose of appointing a provisional liquidator": DCT v A &
 S Services Australia Pty Ltd [2017] FCA 437 at [4].
 
 Instances where appointments have been made
@@ -180,20 +188,20 @@ circumstances:
 • where, in the public interest, there is a need for an examination of the state of the
   accounts of a company;12
 • where the company is paralysed without a board of directors, and its sole
-  shareholder has applied for a winding up due to the company’s insolvency;13
+  shareholder has applied for a winding up due to the company's insolvency;13
 • where company funds may be at risk;14
 • where the company had been involved in unethical and irresponsible business
   conduct;15
 • for the purpose of ascertaining whether the company could pursue both its
   directors and the recipients of a purported dividend that had been paid contrary
   to the Corporations Act to companies controlled by certain directors;16
-• for the purpose of assessing a medical indemnity insurer’s capacity to respond to
+• for the purpose of assessing a medical indemnity insurer's capacity to respond to
   a combination of developments, including declining capital reserves, a demand
   for increased capital being made by the regulator, foreshadowed changes to
   accounting standards, and a contraction of the medical insurance market;17
 • where the affairs of the company have been carried on casually and without due
   regard to legal requirements so as to leave the court with no conﬁdence that the
-  company’s affairs would be properly conducted with due regard for the interests
+  company's affairs would be properly conducted with due regard for the interests
   of shareholders.18
 
 11 Re McLennan Holdings Pty Ltd (1983) 1 ACLC 786; Garden Mews-St Leonards Pty Ltd v Butler Pollnow
@@ -209,12 +217,12 @@ circumstances:
 17 Re United Medical Protection Ltd [2004] NSWSC 1031; (2002) 41 ACSR 623.
 18 In effect paralysis of the company can occur because of disputes between shareholders or directors;
    or a conﬂict of interest that a director has between his or her own personal interest and the
-   company’s interest which may lead to the affairs of the company being put in jeopardy: Re McLennan
+   company's interest which may lead to the affairs of the company being put in jeopardy: Re McLennan
    Holdings Pty Ltd (1983) 1 ACLC 786; Re Club Mediterranean Pty Ltd (1975) 11 SASR 481; ASC v Solomon
    (1996) 19 ACSR 73, 80, citations omitted. See also ASIC v Activesuper Pty Ltd (No 2) [2013] FCA 234;
    (2013) 93 ACSR 189; Perdaman Chemicals & Fertilisers Pty Ltd v Griffin Coal Mining Co Pty Ltd (No 7)
    [2012] WASC 502; (2012) 92 ACSR 281.
-490      Keay’s Insolvency: Personal and Corporate Law and Practice                             [12.40]
+490      Keay's Insolvency: Personal and Corporate Law and Practice                             [12.40]
 
 EFFECT OF AN APPOINTMENT
 [12.40] The effect of an order for provisional liquidation can be extensive and is
@@ -249,8 +257,8 @@ principles will apply in considering such applications for leave as for a compan
 liquidation, the more limited role of the provisional liquidator can mean that leave
 to proceed will more readily be granted. For example, the primary role of the
 provisional liquidator is in preserving the status quo pending the hearing of the
-winding up application, and not in assessing creditors’ claims. The maintenance of
-a creditor’s proceedings by way of leave being granted may be the only basis upon
+winding up application, and not in assessing creditors' claims. The maintenance of
+a creditor's proceedings by way of leave being granted may be the only basis upon
 which its claim may be brought: Ibbco Trading Pty Ltd v HIH Casualty and General
 Insurance Ltd [2001] NSWSC 346.
 
@@ -270,14 +278,14 @@ winding up order. Hence the appointment of the provisional liquidator as
 liquidator is not a foregone conclusion. In Re Giant Resources Ltd [1991] 1 Qd R 107,
 the court declined to appoint the provisional liquidator as liquidator because there
 was a need for investigation by the liquidator of companies associated with the
-provisional liquidator’s ﬁrm. In Cox v T-D Joint Venture Pty Ltd [2010] WASC 116,
+provisional liquidator's ﬁrm. In Cox v T-D Joint Venture Pty Ltd [2010] WASC 116,
 the court appointed liquidators from a larger ﬁrm than that of the provisional
 liquidator when it became apparent that the company was involved in interstate
 and international litigation.
 Apart from that, the grounds which apply to the disqualiﬁcation of a liquidator
 from acting in any given administration, for example in relation to prior ﬁnancial
 connections with the company, apply to provisional liquidators: s 532(1A).
-A provisional liquidator is an “external administrator” under IPSC, s 5-20. This
+A provisional liquidator is an "external administrator" under IPSC, s 5-20. This
 means that the provisions in IPSC and IPRC, Pt 3 (which relate to the conduct of
 external administrations) will apply to, for instance, funds handling, requests for
 information by creditors and powers of the court. In some cases, there will be carve
@@ -291,37 +299,37 @@ s 90-23 also does not apply to a provisional liquidator: IPSC, s 90-22. Nor is t
 any power of the creditors to remove a provisional liquidator: IPSC, s 90-30.
 
 Powers under the Corporations Act
-[12.60] A provisional liquidator’s powers are derived from the Corporations Act
+[12.60] A provisional liquidator's powers are derived from the Corporations Act
 (including the Insolvency Practice Schedule), the Corporations Regulations 2001
-(Cth), the Courts’ Corporations Rules, the order of appointment and any
+(Cth), the Courts' Corporations Rules, the order of appointment and any
 supplementary orders made. On the making of the order to appoint a provisional
 liquidator, the management of the company is effectively under the control of the
 appointee.
-A provisionally appointed liquidator has the power to carry on the company’s
+A provisionally appointed liquidator has the power to carry on the company's
 business (s 472(4)(a)) and other provisions in s 472 confer on provisional liquidators
 
 20 Fleet Motor & General Insurance Co (Aust) Pty Ltd v Tickle [1984] 1 NSWLR 210; Re Scobie [1995] FCA
    1456; (1995) 59 FCR 177
-492      Keay’s Insolvency: Personal and Corporate Law and Practice                            [12.65]
+492      Keay's Insolvency: Personal and Corporate Law and Practice                            [12.65]
 
 most of the powers which are given to liquidators pursuant to s 477. On occasions
 the provisional liquidator is given all of the powers of a liquidator.21
 The court order may require the provisional liquidator to identify the assets of the
 company and its likely solvency within a short period of time, as well as any
-apparent misconduct by company officers; or may limit the provisional liquidator’s
+apparent misconduct by company officers; or may limit the provisional liquidator's
 powers to taking custody of the assets and carrying on the business in order to
 maintain the status quo until the winding up application has been determined.22
 Courts have frequently emphasised this provisional role and that any powers
 conferred must be exercised in light of this purpose.23
 Therefore, while a provisional liquidator is given a speciﬁc power to carry on the
-company’s business (s 472(4)(a)), this should only be done in order to preserve the
-status quo pending the winding up hearing. The power of sale of the company’s
+company's business (s 472(4)(a)), this should only be done in order to preserve the
+status quo pending the winding up hearing. The power of sale of the company's
 assets under s 477(2)(c) is not given to a provisional liquidator.
 The provisional status of the role is reinforced by the fact that the powers to carry
 on the business, and other powers in s 472(4), are subject to the control of the court
 and a creditor, a contributory or ASIC. Each of these may apply to the court
 requesting it to rule on the use or proposed use of such powers: IPSC, ss 90-15,
-90-20. The court’s order may require the provisional liquidator to report back to the
+90-20. The court's order may require the provisional liquidator to report back to the
 court within a short period or may require the liquidator to undertake speciﬁc
 tasks. In Olive v Litchﬁeld Trading Co Pty Ltd [2015] NTSC 2, referred to at [12.35], the
 provisional liquidators were ordered to provide a report to the court concerning the
@@ -342,7 +350,7 @@ It is clear, therefore, that a provisional liquidator may, if the commercial
 circumstances dictate, depart from the traditional role of simply protecting and
 preserving. However, a prudent liquidator would probably seek court directions
 
-21 These may include powers arising under the company’s constitution with respect to special
+21 These may include powers arising under the company's constitution with respect to special
    contracts: Re United Medical Protection Ltd (No 4) [2002] NSWSC 516; (2002) 42 ACSR 218 at [85].
 22 See for example, DCT v Eskdale South Cattle Company Pty Ltd [2013] FCA 740.
 23 Garden Mews-St Leonards Pty Ltd v Butler Pollnow Pty Ltd (No 4) (1984) 2 ACLC 682, 683; ASC v
@@ -363,7 +371,7 @@ Northbourne, above.
 If a provisional liquidator has any doubt as to whether a certain power is available,
 an application may be made to the court to grant the power: Re Rothwells Ltd [1990]
 2 Qd R 181.
-Division 6 of the Courts’ Corporations Rules deals with some of the practical matters
+Division 6 of the Courts' Corporations Rules deals with some of the practical matters
 relating to the appointment and administration of provisional liquidators.
 
 Duties and responsibilities
@@ -372,9 +380,9 @@ provisional liquidators, for example, in relation to their need to be independen
 Aloridge Pty Ltd v Christianos [1994] FCA 972, (1994) 12 ACLC 256, 259-260.
 However, as we have seen, the independence requirements for the appointment of a
 provisional liquidator may not be fully applied if there is urgency involved and a
-need for the appointee to have familiarity with the company’s assets and affairs: see
+need for the appointee to have familiarity with the company's assets and affairs: see
 [12.55]. A provisional liquidator necessarily owes ﬁduciary duties to the company,
-and is the company’s controlling agent and an officer of the court, and is the one
+and is the company's controlling agent and an officer of the court, and is the one
 responsible for the administration of the company during the period of provisional
 liquidation.
 A provisional liquidator must lodge a return with ASIC in relation to the
@@ -388,16 +396,16 @@ Remuneration
 percentage or otherwise, as is determined by the court, or if the court does not
 make a determination then as approved by the committee of inspection or the
 creditors (if there is no committee of inspection): IPSC, s 60-16(1). Rule 9.3 of the
-Courts’ Corporations Rules states the courts’ evidence and other requirements for
+Courts' Corporations Rules states the courts' evidence and other requirements for
 remuneration to be determined. Professional guidelines also apply.25
 The law gives some protection to the remuneration of a provisional liquidator. A
-portion of a provisional liquidator’s remuneration and expenses which relate to the
+portion of a provisional liquidator's remuneration and expenses which relate to the
 caring for, preserving or realising of assets which are subject to security are entitled
 to rank in priority to the rights of a secured creditor in relation to those assets: Re
 
 25 See Court Form 16. See also the remuneration guidelines of the ARITA Code of Professional Practice;
    and APES 330, Insolvency Services.
-494    Keay’s Insolvency: Personal and Corporate Law and Practice               [12.80]
+494    Keay's Insolvency: Personal and Corporate Law and Practice               [12.80]
 
 Universal Distributing Co Ltd (1933) 48 CLR 171. The provisional liquidator also has
 an equitable lien over the assets under administration to secure payment of their
@@ -408,7 +416,7 @@ must respect the lien: Shirlaw v Taylor (1991) 31 FCR 222. To the extent that th
 equitable lien is not sufficient to satisfy the remuneration and expenses, the
 provisional liquidator is entitled to priority in the winding up in accordance with
 s 556(1)(a).
-Given that a provisional liquidator’s powers are limited, remuneration for work
+Given that a provisional liquidator's powers are limited, remuneration for work
 done outside the scope of the work that is authorised cannot be claimed: Re Reiter
 Brothers Exploratory Drilling Pty Ltd [1994] TASSC 42; (1994) 12 ACLC 430, 434. But
 remuneration can be awarded for work necessarily done by the appointee,
@@ -446,22 +454,22 @@ National Investment Institute Pty Ltd v Property Corporate Services Pty Ltd [200
 be refused where a receiver has been appointed subsequent to the ﬁling of an
 [12.100]                                                        12 Provisional Liquidation   495
 
-application to wind up and the receiver’s control of the assets of the company is
+application to wind up and the receiver's control of the assets of the company is
 consistent with maintaining the status quo.
 In fact a receiver may in some cases be a more appropriate appointment. In Re
 United Medical Protection Ltd [2002] NSWSC 413; (2002) 41 ACSR 623, Austin J
 considered whether a receiver should be appointed to the UMP group of
 companies. In considering the matter, he said (at [5]):
-   “Occasions for comparing provisional liquidation with receivership have not often arisen
+   "Occasions for comparing provisional liquidation with receivership have not often arisen
    in the decided cases … Receivership is a very ﬂexible equitable remedy … not limited to
    the interim preservation of assets. While a receiver and manager may be personally liable
-   for debts incurred in continuing the company’s business … it may be possible for the
+   for debts incurred in continuing the company's business … it may be possible for the
    Court to avoid that outcome in an appropriate case by directing the receiver to make
-   contracts in the company’s name and on its behalf. On the other hand, a provisional
-   liquidator has the power to conduct the company’s business on behalf of the company
+   contracts in the company's name and on its behalf. On the other hand, a provisional
+   liquidator has the power to conduct the company's business on behalf of the company
    and in its name, and it is nowadays more common than it once was for the appointment
-   of a provisional liquidator to be made where it is not intended that the company’s
-   business be immediately shut down.” (References omitted.)
+   of a provisional liquidator to be made where it is not intended that the company's
+   business be immediately shut down." (References omitted.)
 
 Provisional liquidation preceding a scheme
 [12.95] Provisional liquidation has also been used where the company is in
@@ -482,17 +490,17 @@ appeal against the appointment succeeds. The court may also terminate the
 appointment where there is no longer any need for it: Grace v Grace (No 5) [2013]
 NSWSC 601 (pending winding up no longer pursued and no risk to assets).
 In some cases, the conduct of the provisional liquidation will have allowed the
-company’s fortunes to be restored. In Re United Medical Protection Ltd [2003]
+company's fortunes to be restored. In Re United Medical Protection Ltd [2003]
 NSWSC 1031; (2003) 47 ACSR 705, on ordering the end of the provisional
 liquidation of the UMP group of companies, Austin J said (at [158]) that he was:
-   “satisﬁed that the purposes for which … a provisional liquidator was appointed to the
+   "satisﬁed that the purposes for which … a provisional liquidator was appointed to the
    four companies have been exhausted and there is no longer any good reason for a
    provisional liquidator to remain in control of them. Termination of the appointment will
    not operate in a manner contrary to the interests of creditors, … it is in the public interest
-   to make the orders for termination.”
+   to make the orders for termination."
 The provisional liquidator must lodge and end of administration return: IPSC,
 s 70-6.
-496    Keay’s Insolvency: Personal and Corporate Law and Practice                      [12.105]
+496    Keay's Insolvency: Personal and Corporate Law and Practice                      [12.105]
 
 A provisional liquidator who is succeeded by another registered liquidator as
 liquidator appointed pursuant to a winding up order must account to that new
@@ -503,7 +511,7 @@ CONCLUSION
 [12.105] Having given an overview of liquidation processes, and the types of
 liquidation that may occur, we now address the detail of the effect of liquidation on
 the company and its directors, and on related and third parties, and how
-liquidations are administered, to the company’s ﬁnal deregistration.
+liquidations are administered, to the company's ﬁnal deregistration.
 
                         Chapter 12 – Provisional Liquidation
 Corporations Act                           Pt 5.4B Winding up in insolvency or by the
@@ -511,6 +519,6 @@ Corporations Act                           Pt 5.4B Winding up in insolvency or b
                                            Pt 5.6 Winding up generally – ss 513 – 581
 Corporations Regulations                   Reg 5.4.01A
 ASIC                                            –
-Court Rules                                     Courts’ Corporations Rules, Div 6 Provisional
+Court Rules                                     Courts' Corporations Rules, Div 6 Provisional
                                                 Liquidators – rr 6.1 – 6.2, 9.3
                       Effects of Winding Up

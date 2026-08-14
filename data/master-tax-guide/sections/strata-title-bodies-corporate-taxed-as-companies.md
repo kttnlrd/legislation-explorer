@@ -39,7 +39,7 @@ A strata title body must lodge an income tax return for a year of income if requ
 
 As a strata title body is a company for income tax purposes, it is required to lodge an income tax return for any year of income in which it has derived assessable income or when requested by the Commissioner.
 
-Generally, where the only income derived by a strata title body is mutual in nature, that is, consists solely of proprietors’ levies or contributions, there is no assessable income, so the strata title body is not required to lodge a return. In cases where income is derived from non-mutual sources (eg interest and dividends from invested funds, fees from non-proprietors for access to books) a return is usually required to be furnished.
+Generally, where the only income derived by a strata title body is mutual in nature, that is, consists solely of proprietors' levies or contributions, there is no assessable income, so the strata title body is not required to lodge a return. In cases where income is derived from non-mutual sources (eg interest and dividends from invested funds, fees from non-proprietors for access to books) a return is usually required to be furnished.
 
 See the Strata title body corporate tax return and instructions 2024 for instructions on how to complete the tax return. A strata title body should use a Strata title body corporate tax return or a company return form if required.
 

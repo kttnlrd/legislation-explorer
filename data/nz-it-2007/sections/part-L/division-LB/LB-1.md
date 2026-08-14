@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(4)**  The person’s credit is extinguished if the Commissioner does not receive employment income information for the relevant amount of tax, or when the relevant particulars of the schedule are incorrect. However, the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had not been made.
+**(4)**  The person's credit is extinguished if the Commissioner does not receive employment income information for the relevant amount of tax, or when the relevant particulars of the schedule are incorrect. However, the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had not been made.
 
 *Defined in this Act: amount, amount of tax, associated person, close company, Commissioner, employee, employer, employment income information, pay, PAYE income payment, tax credit*
 

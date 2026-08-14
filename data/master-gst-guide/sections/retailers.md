@@ -13,7 +13,7 @@ paragraph: "¶25-170"
 
   to the GST position (¶6-100).
 
-- GST does not apply where goods are obtained “free” under a frequent shopper program (¶4-062).
+- GST does not apply where goods are obtained "free" under a frequent shopper program (¶4-062).
 
 - No GST is payable on refunded deposits (¶4-070).
 
@@ -83,7 +83,7 @@ paragraph: "¶25-170"
 
   machine is emptied (¶7-440).
 
-- GST on contracts subject to “cooling-off” periods is attributed to the tax period in which that cooling-off
+- GST on contracts subject to "cooling-off" periods is attributed to the tax period in which that cooling-off
 
   period expires (¶7-440).
 

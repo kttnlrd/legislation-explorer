@@ -2,7 +2,7 @@
 part: E
 part_title: Part E Timing and quantifying rules
 division: EB
-division_title: Subpart EB—Valuation of trading stock (including dealer’s livestock)
+division_title: Subpart EB—Valuation of trading stock (including dealer's livestock)
 section: EB-8
 section_title: Cost allocation: budgeted method or standard cost method
 compilation_no: 935

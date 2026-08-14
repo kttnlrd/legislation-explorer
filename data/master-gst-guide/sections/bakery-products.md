@@ -9,11 +9,11 @@ paragraph: "¶13-150"
 
 - cakes, slices, cheesecakes, pancakes, waffles, crepes, muffins and puddings. The ATO considers
 
-  that “puddings” include rice puddings, self-saucing puddings, Christmas pudding, tapioca puddings
+  that "puddings" include rice puddings, self-saucing puddings, Christmas pudding, tapioca puddings
 
   and steamed puddings, yoghurt, crème caramel, custard, dessert mousse, dairy desserts or jelly. So-
 
-  called “Chinese pancakes” may be treated as GST-free bread, as they do not contain eggs or milk
+  called "Chinese pancakes" may be treated as GST-free bread, as they do not contain eggs or milk
 
 (Interpretative Decision ID 2002/908)
 
@@ -63,4 +63,4 @@ Bread is GST-free The following types of bread are not treated as bakery product
 
 *Refs: s 38-3*
 
-## GST applies to the following “bakery products”:
+## GST applies to the following "bakery products":

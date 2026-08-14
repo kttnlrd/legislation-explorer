@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Financial statements**
 
-**(4)**  Unless the context otherwise requires, references to IFRSs in sections EW 15D to EW 15I are references to IFRS rules used to prepare the person’s financial statements.
+**(4)**  Unless the context otherwise requires, references to IFRSs in sections EW 15D to EW 15I are references to IFRS rules used to prepare the person's financial statements.
 
 **Agreed spreading methods for life financial reinsurance**
 

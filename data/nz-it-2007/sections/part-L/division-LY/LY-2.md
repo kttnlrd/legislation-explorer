@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **(3)**  Supporting research and development activity—
 
-- (a) means an activity that has the only or main purpose of, is required for, and integral to, conducting a person’s core research and development activity; but
+- (a) means an activity that has the only or main purpose of, is required for, and integral to, conducting a person's core research and development activity; but
 
 - (b) does not include an activity to the extent to which it is described in schedule 21, part B.
 

@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Entitlement to distributions**
 
-**(2)**  Each investor in the group must have an entitlement to a distribution by the entity of proceeds from the entity’s investments that means the requirements of subsections (3) and (4) are met.
+**(2)**  Each investor in the group must have an entitlement to a distribution by the entity of proceeds from the entity's investments that means the requirements of subsections (3) and (4) are met.
 
 **Same investments**
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Similar proportionate entitlement**
 
-**(4)**  Each investor’s interest in the investment as a proportion of the value of their entitlement must not differ from the average value for the group and the investment by 2.5% or more unless—
+**(4)**  Each investor's interest in the investment as a proportion of the value of their entitlement must not differ from the average value for the group and the investment by 2.5% or more unless—
 
 - (a) the investment is an arrangement under which the PIE is assured of receiving sufficient proceeds from the investments to repay each investor in the group an amount contributed to it; and
 

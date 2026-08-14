@@ -68,11 +68,11 @@ compilation_date: 2026-06-06
 
 **Meaning of limited non-transaction shares**
 
-**(6)**  In this section, limited non-transaction shares means the member’s shares that are not the member’s transaction shares or their projected transactions shareholding, and that may entitle the member to enter trading transactions, if the number of those shares is less than or equal to the greater of the following:
+**(6)**  In this section, limited non-transaction shares means the member's shares that are not the member's transaction shares or their projected transactions shareholding, and that may entitle the member to enter trading transactions, if the number of those shares is less than or equal to the greater of the following:
 
-- (a) 20% of the member’s transaction shares on the date of entitlement for the distribution under section 125 of the Companies Act 1993:
+- (a) 20% of the member's transaction shares on the date of entitlement for the distribution under section 125 of the Companies Act 1993:
 
-- (b) 20% of the member’s projected transactions shareholding on the date of entitlement for the distribution under section 125 of that Act.
+- (b) 20% of the member's projected transactions shareholding on the date of entitlement for the distribution under section 125 of that Act.
 
 **Meaning of projected transactions shareholding**
 
@@ -88,11 +88,11 @@ compilation_date: 2026-06-06
 
 **Companies Act 1993**
 
-**(9)**  The 20 working day rule for fixing a date in section 125(2) of the Companies Act 1993 does not apply to members’ entitlements to receive distributions that are for transaction shares, projected transaction shareholdings, limited non-transaction shares, or shares described in subsection (3), if—
+**(9)**  The 20 working day rule for fixing a date in section 125(2) of the Companies Act 1993 does not apply to members' entitlements to receive distributions that are for transaction shares, projected transaction shareholdings, limited non-transaction shares, or shares described in subsection (3), if—
 
 - (a) the co-operative company or the subsidiary, as the case may be, has given a copy of the election described in subsection (1) to the Registrar of Companies before the relevant distributions are paid; and
 
-- (b) for the purposes of section 125(1) of the Companies Act 1993, the co-operative company or the subsidiary, as the case may be, fixes a date in relation to members’ entitlements to receive distributions before the entitlements arise, and that date is within the year or period to which the distributions relate.
+- (b) for the purposes of section 125(1) of the Companies Act 1993, the co-operative company or the subsidiary, as the case may be, fixes a date in relation to members' entitlements to receive distributions before the entitlements arise, and that date is within the year or period to which the distributions relate.
 
 *Defined in this Act: Commissioner, company, co-operative company, dividend, limited non-transaction shares, notify, projected transaction shareholding, resident in New Zealand, share, trading stock, trading transactions, transaction shares*
 

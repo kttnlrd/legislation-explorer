@@ -3,18 +3,14 @@ ATO ID 2008/153
 ==================================================
 
 Income Tax
-        Withholding tax: lump sum amount payable by the Administrator of an Australian resident company to non-resident Note holders
-        FOI status: may be released
-
-
+ Withholding tax: lump sum amount payable by the Administrator of an Australian resident company to non-resident Note holders
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a lump sum amount (the Make Whole Amount), payable to non-resident Note holders by the Administrator of an Australian resident company under the terms of the Note Purchase Agreement, subject to withholding tax under section 128B of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -32,16 +28,12 @@ Reasons for Decision
 Income that is derived by a non-resident and consists of interest that is paid by a person who is a resident, is subject to withholding tax under subparagraph 128B(2)(b)(i) of the ITAA 1936.
 Subsection 128A(1AB) of the ITAA 1936 defines interest to include, among other things, an amount:
 
-
-
 •that is in the nature of interest; or
 •to the extent that it could reasonably be regarded as having been converted into a form that is in substitution for interest.
 
 As the term 'interest' is not comprehensively defined for the purposes of Division 11A of the ITAA 1936, it is therefore necessary to have regard to the nature of interest at common law.
 Interest is in essence compensation to a lender for being kept out of the use and enjoyment of the principal sum (Federal Commissioner of Taxation v. The Myer Emporium Ltd (1987) 163 CLR 199; (1987) 18 ATR 693; (1987) 87 ATC 4363). It is an amount that is calculated by reference to a principal sum and by reference to time (Federal Wharf Co Ltd v. Deputy Commissioner of Taxation (1930) 44 CLR 24 at 28; per Cooper J in Century Yuasa Batteries Pty Ltd v. Federal Commissioner of Taxation (1997) 73 FCR 528; 97 ATC 4299; (1997) 35 ATR 394).
 Taxation Rulings TR 93/27 (paragraphs 24-30) and TR 2002/15 (paragraphs 53-56), which provide guidance on the nature of interest, state that the following requirements must normally be satisfied for a payment to be treated as interest:
-
-
 
 •there must be a sum of money by reference to which the payment is to be ascertained (which might loosely be called the principal sum or the principal debt)
 •that sum must be a sum which is due to the person entitled to the interest; and
@@ -51,8 +43,6 @@ The Full Federal Court in Federal Commissioner of Taxation v. Century Yuasa Batt
 Subsection 128A(1AD) of the ITAA 1936 provides an example of an amount that is in substitution for interest. That subsection 'has the effect of deeming that lump sum payments made instead of payments of interest are amounts in substitution for accrued interest and are, therefore, interest for the purposes of the withholding tax provisions' (paragraph 2.65 of Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 2) 1997).
 The Make Whole Amount payable to foreign Note holders by the Administrator of the Australian resident company under the terms the Agreement is in the nature of interest or in substitution for interest for the purposes of subsection 128A(1AB) of the ITAA 1936 as:
 
-
-
 •it is calculated by reference to the outstanding principal amount
 •the amount is due to the lender under the terms of the Agreement; and
 •the amount is calculated by reference to the time the Notes would have been in place if there was no Event of Default.
@@ -60,17 +50,16 @@ The Make Whole Amount payable to foreign Note holders by the Administrator of th
 Although the Make Whole Amount is not called or characterised as 'interest' under the terms of the Agreement, it comes within the extended meaning of interest for the purposes of subsection 128A(1AB) of the ITAA 1936 as it is an amount that is calculated by reference to a principal sum and by reference to time.
 Accordingly, the Make Whole Amount payable to foreign Note holders by the Administrator of the Australian resident company is subject to withholding tax under section 128B of the ITAA 1936.
 Date of decision:
-         6 November 2008
+  6 November 2008
 
 Year of income:
-           Year ended 30 June 2008
+  Year ended 30 June 2008
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 128B   subsection 128A(1AB)   subsection 128A(1AC)   subsection 128A(1AD)
 
 Case References:
-
 
 Federal Commissioner of Taxation v. The Myer Emporium Ltd   (1987) 163 CLR 199   (1987) 18 ATR 693</   87 ATC 4363
 
@@ -79,7 +68,6 @@ Federal Wharf Co Ltd v. Deputy Commissioner of Taxation   (1930) 44 CLR 24
 Century Yuasa Batteries Pty Ltd v. Federal Commissioner of Taxation   (1997) 73 FCR 528   97 ATC 4299   (1997) 35 ATR 394
 
 Federal Commissioner of Taxation v. Century Yuasa Batteries Pty Ltd   (1998) 82 FCR 288   98 ATC 4380   (1998) 38 ATR 442
-
 
 Related Public Rulings (including Determinations)
 
@@ -90,22 +78,20 @@ Other References:
 
 Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 2) 1997
 
-
 Keywords
 
 Non resident individuals
-          Withholding taxes
-          International tax
-
+ Withholding taxes
+ International tax
 
 Siebel/TDMS Reference Number:
-         6033583
+  6033583
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 November 2008
+  28 November 2008
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -11,7 +11,7 @@ The basic conditions that must be satisﬁed by a taxpayer to be eligible for CG
 
 - the taxpayer satisﬁes the maximum net asset value test (¶7-130)
 
-- the taxpayer is a “CGT small business entity” for the income year (¶7-050)
+- the taxpayer is a "CGT small business entity" for the income year (¶7-050)
 
 - the asset is an interest in an asset of a partnership which is a CGT small business entity
 

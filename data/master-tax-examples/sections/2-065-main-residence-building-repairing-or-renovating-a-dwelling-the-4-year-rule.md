@@ -7,7 +7,7 @@ paragraph: "None"
 ---
 # 2-065 - Main residence building repairing or renovating a dwelling the 4-year rule
 
-Worked example: Main residence: building, repairing or renovating a dwelling; the 4-year rule Issue Dennis Spooner purchased land in Brisbane on 2 November 2021, with a view to building his private residence. Dennis was living at his mother’s house near the property as his mother’s carer, while the process of obtaining development approval and construction was undertaken.
+Worked example: Main residence: building, repairing or renovating a dwelling; the 4-year rule Issue Dennis Spooner purchased land in Brisbane on 2 November 2021, with a view to building his private residence. Dennis was living at his mother's house near the property as his mother's carer, while the process of obtaining development approval and construction was undertaken.
 
 The timeline for construction was as follows:
 
@@ -35,17 +35,17 @@ Dennis decided to sell the property and signed a contract of sale in September 2
 
 He now seeks to understand the capital gains tax (CGT) consequences of the transaction because he was told by a friend that the property would be CGT free since the main residence exemption would apply.
 
-However, having spoken to the ATO, he has been advised that the “4-year rule” does not apply in this case.
+However, having spoken to the ATO, he has been advised that the "4-year rule" does not apply in this case.
 
 Advise Dennis.
 
-Solution The main residence exemption does not apply because the property was never Dennis’ main residence. The mere intention to move into the property, without doing so, is not enough for the main residence exemption to apply.
+Solution The main residence exemption does not apply because the property was never Dennis' main residence. The mere intention to move into the property, without doing so, is not enough for the main residence exemption to apply.
 
-Dennis is seeking to apply the “4-year rule” in ITAA97 s 118-150, which deals with the consequences of building, repairing or renovating a dwelling for the purposes of determining whether the CGT main residence exemption applies.
+Dennis is seeking to apply the "4-year rule" in ITAA97 s 118-150, which deals with the consequences of building, repairing or renovating a dwelling for the purposes of determining whether the CGT main residence exemption applies.
 
-Under s 118-110, a CGT exemption is available for capital gains and losses from CGT events affecting a dwelling or an ownership interest in it if the dwelling was the main residence of the taxpayer during the taxpayer’s ownership period.
+Under s 118-110, a CGT exemption is available for capital gains and losses from CGT events affecting a dwelling or an ownership interest in it if the dwelling was the main residence of the taxpayer during the taxpayer's ownership period.
 
-Section 118-150 allows the taxpayer to apply the main residence exemption as if the dwelling being built, finished or renovated on the land was the taxpayer’s main residence from the time the taxpayer acquired the ownership interest in the land rather than from the time of using the dwelling as a main residence, for up to 4 years.
+Section 118-150 allows the taxpayer to apply the main residence exemption as if the dwelling being built, finished or renovated on the land was the taxpayer's main residence from the time the taxpayer acquired the ownership interest in the land rather than from the time of using the dwelling as a main residence, for up to 4 years.
 
 The section applies if:
 
@@ -57,7 +57,7 @@ The section applies if:
 
 - the taxpayer repairs or renovates a dwelling.
 
-In the absence of s 118-150, the main residence exemption would not apply to vacant land until the dwelling is constructed and used as the taxpayer’s main residence.
+In the absence of s 118-150, the main residence exemption would not apply to vacant land until the dwelling is constructed and used as the taxpayer's main residence.
 
 The following conditions must be satisfied:
 
@@ -67,11 +67,11 @@ The following conditions must be satisfied:
 
 - The taxpayer builds, renovates, repairs or finishes building a dwelling on that land.
 
-- The dwelling that is being constructed, repaired or renovated becomes the taxpayer’s main residence
+- The dwelling that is being constructed, repaired or renovated becomes the taxpayer's main residence
 
-‘‘as soon as practicable’’ after the work is finished and continues to be the taxpayer’s main residence for at least 3 months.
+''as soon as practicable'' after the work is finished and continues to be the taxpayer's main residence for at least 3 months.
 
-The relevant factors for determining whether a dwelling becomes a taxpayer’s main residence as soon as practicable after erection or completion are:
+The relevant factors for determining whether a dwelling becomes a taxpayer's main residence as soon as practicable after erection or completion are:
 
 - the date a Certificate of Occupancy is issued
 
@@ -81,11 +81,11 @@ The relevant factors for determining whether a dwelling becomes a taxpayer’s m
 
 - the connection of gas or electricity services (Taxation Determination TD 92/147).
 
-Accordingly, if a taxpayer builds a dwelling on land, or repairs, renovates or finishes building a dwelling on land, and the dwelling becomes the taxpayer’s main residence as soon as the work is finished (and continues to be the taxpayer’s main residence for at least 3 months), the taxpayer can choose to apply s 118-150 as if the dwelling was their main residence from the time the land was acquired, with limitations.
+Accordingly, if a taxpayer builds a dwelling on land, or repairs, renovates or finishes building a dwelling on land, and the dwelling becomes the taxpayer's main residence as soon as the work is finished (and continues to be the taxpayer's main residence for at least 3 months), the taxpayer can choose to apply s 118-150 as if the dwelling was their main residence from the time the land was acquired, with limitations.
 
 Section 118-150(4) provides that the time limit during which the choice can operate is the shorter of:
 
-- 4 years before the dwelling becomes the taxpayer’s main residence, or
+- 4 years before the dwelling becomes the taxpayer's main residence, or
 
 - the period starting when the taxpayer acquired their interest and ending when the dwelling becomes
 

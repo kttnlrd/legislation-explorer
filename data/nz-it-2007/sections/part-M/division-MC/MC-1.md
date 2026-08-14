@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **WFF tax credits**
 
-**(2)**  The WFF tax credit is the amount of a person’s entitlement and tax credit made up of—
+**(2)**  The WFF tax credit is the amount of a person's entitlement and tax credit made up of—
 
 - (a) the family tax credit calculated under section MD 3 (Calculation of family tax credit):
 

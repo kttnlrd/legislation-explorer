@@ -1,0 +1,32 @@
+---
+country: "Chile"
+country_slug: "chile"
+treaty_schedule: 53
+article: 13
+title: "Article 13 — Capital Gains"
+---
+# Article 13 — Capital Gains
+Chilean Convention
+CONVENTION BETWEEN AUSTRALIA AND THE REPUBLIC OF CHILE FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND FRINGE BENEFITS AND THE PREVENTION OF FISCAL EVASION
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
+(the MLI) has modified the application of this tax treaty.  A
+synthesised text
+of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
+CHAPTER III 
+-
+ TAXATION OF INCOME
+Alienation of Property
+1.
+Income, profits or gains derived by a resident of a Contracting State from the alienation of immovable (real) property situated in the other Contracting State may be taxed in that other State.
+2.
+Income, profits or gains from the alienation of property, other than immovable (real) property, forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of property, other than immovable (real) property, pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such income, profits or gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such a fixed base, may be taxed in that other State.
+3.
+Income, profits or gains of an enterprise of a Contracting State from the alienation of ships or aircraft operated by that enterprise in international traffic, or of property (other than immovable (real) property) pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
+4.
+Income, profits or gains derived by a resident of a Contracting State from the alienation of any shares, comparable interests or other rights deriving more than 50 per cent of their value directly or indirectly from immovable (real) property situated in the other Contracting State may be taxed in that other State.
+5.
+Gains of a capital nature, other than gains to which paragraph 2 or 4 apply, derived by a resident of a Contracting State (other than a pension fund) from the alienation of shares or other rights, not being debts claims, participating in profits, representing the capital of a company that is a resident of the other Contracting State, may be taxed in that other State but the tax so charged shall not exceed 16 per cent of the amount of the gain. However, nothing in this Article shall affect the right of that other State to tax such gains, in accordance with its laws, if the alienator has at any time during the twelve month period preceding such alienation owned shares or other rights representing, directly or indirectly, 20 per cent or more of the capital of that company.
+6.
+Gains of a capital nature from the alienation of any property, other than that referred to in the preceding paragraphs shall be taxable only in the Contracting State of which the alienator is a resident.
+7.
+Where an individual who upon ceasing to be a resident of a Contracting State, is treated under the taxation law of that State as having alienated any property and is taxed in that State by reason thereof, the individual may elect to be treated for the purposes of taxation in the other Contracting State as if the individual had, immediately before ceasing to be a resident of the first-mentioned State, alienated and reacquired the property for an amount equal to its fair market value at that time. However, the individual may not make the election in respect of property situated in either Contracting State.

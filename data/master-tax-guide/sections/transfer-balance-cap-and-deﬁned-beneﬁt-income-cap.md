@@ -9,7 +9,7 @@ paragraph: "¶42-265"
 
 Transfer balance cap An individual is liable to pay excess transfer balance tax if the transfer balance cap is exceeded (¶14-320).
 
-The general transfer balance cap is $1.9 million for the 2024–25 and 2023–24 ﬁnancial years, $1.7 million for the 2022–23 and 2021–22 ﬁnancial years, and $1.6 million for the 2017–18 to 2020–21 ﬁnancial years. An individual’s personal transfer balance cap depends upon the ﬁnancial year they ﬁrst start a transfer balance account and any increments that have been applied.
+The general transfer balance cap is $1.9 million for the 2024–25 and 2023–24 ﬁnancial years, $1.7 million for the 2022–23 and 2021–22 ﬁnancial years, and $1.6 million for the 2017–18 to 2020–21 ﬁnancial years. An individual's personal transfer balance cap depends upon the ﬁnancial year they ﬁrst start a transfer balance account and any increments that have been applied.
 
 A child who receives a death beneﬁt income stream is subject to a modiﬁed transfer balance cap (¶14-330).
 

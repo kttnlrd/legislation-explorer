@@ -28,19 +28,19 @@ compilation_date: 2026-06-06
 
 **Bright-line start date**
 
-**(3)**  Person B’s bright-line start date for the land is person A’s bright-line start date.
+**(3)**  Person B's bright-line start date for the land is person A's bright-line start date.
 
 **Transitional rule for change in terminology**
 
-**(4)**  For the purposes of subsection (3), person B’s bright-line start date is—
+**(4)**  For the purposes of subsection (3), person B's bright-line start date is—
 
-- (a) the date of person A’s bright-line acquisition date, if person A acquired the land before 1 July 2024 and on or after 27 March 2021:
+- (a) the date of person A's bright-line acquisition date, if person A acquired the land before 1 July 2024 and on or after 27 March 2021:
 
 - (b) 27 March 2021, if person A acquired the land before 27 March 2021.
 
 **Use of property**
 
-**(5)**  For the purposes of determining whether section CB 16A (Main home exclusion for disposal within 2 years) applies, person A’s use of the property is attributed to person B (for example, if person A used the property as a main home for 1 year, this is attributed to person B).
+**(5)**  For the purposes of determining whether section CB 16A (Main home exclusion for disposal within 2 years) applies, person A's use of the property is attributed to person B (for example, if person A used the property as a main home for 1 year, this is attributed to person B).
 
 **Relationship with sections HB 1 and HG 2**
 

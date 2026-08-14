@@ -37,7 +37,7 @@ Taxable supplies
 
 There is a taxable importation of a luxury car if it is imported into Australia and entered for home consumption (LCT Act s 7-10). Unlike a taxable supply, there is no requirement that the importer be registered. Nor is the importer required to be carrying on an enterprise.
 
-The importation includes any car parts (¶12-150), accessories or attachments that are imported at the same time as the car and that could reasonably be expected to be fitted to the car. “Accessories and attachments” would cover peripheral items such as car stereos, air-conditioning units, car alarms, spare tyres and car jacks.
+The importation includes any car parts (¶12-150), accessories or attachments that are imported at the same time as the car and that could reasonably be expected to be fitted to the car. "Accessories and attachments" would cover peripheral items such as car stereos, air-conditioning units, car alarms, spare tyres and car jacks.
 
 *Refs: s 5-10), s 7-10)*
 
@@ -63,7 +63,7 @@ There is no equivalent provision (to that for taxable acquisitions noted above) 
 
 Government bodies The Commonwealth and untaxable Commonwealth entities (s 177-1(5) GST Act) are not liable for LCT, but have a notional liability for the purpose of their dealings with others (LCT Act s 21-1; A New Tax System (GST, Luxury Car Tax and Wine Tax) Directions 2025 (F2025L01178)).
 
-Public museums and art galleries GST-registered public museums, public libraries and public art galleries that have been endorsed as deductible gift recipients are able to import or acquire cars free of LCT. This applies only to cars that are works of art or collector’s pieces that are acquired for the purpose of public display, consigned to the collection, and not used for private purposes (LCT Act s 7-10(3)). The purchaser of such a car needs to be registered for LCT.
+Public museums and art galleries GST-registered public museums, public libraries and public art galleries that have been endorsed as deductible gift recipients are able to import or acquire cars free of LCT. This applies only to cars that are works of art or collector's pieces that are acquired for the purpose of public display, consigned to the collection, and not used for private purposes (LCT Act s 7-10(3)). The purchaser of such a car needs to be registered for LCT.
 
 LCT avoidance schemes Arrangements to evade LCT or improperly claim LCT refunds may be subject to the GST avoidance provisions (¶20-000) or alternatively may be treated as shams or fraudulent (Taxpayer Alert TA 2021/4).
 

@@ -105,7 +105,7 @@ What this Guideline is about
 Income Tax Assessment Act 1997
 [1]
 and should be read in conjunction with Taxation Ruling TR 2020/4
-Income tax:  thin capitalisation
+Income tax: thin capitalisation
 -
 the arm's length debt test.
 2. This Guideline also provides a risk assessment framework that outlines our compliance approach to an application of the arm's length debt test.
@@ -964,7 +964,7 @@ B is the tax rate
 0.30
 C is the debt to equity ratio (1:2)
 0.50
-Beta unlevered = A  ÷ (1+ (1 - B) × C)
+Beta unlevered = A ÷ (1+ (1 - B) × C)
 1.06
 205.
 To re-lever the pre-capital raising beta, it will be necessary to impute the adjusted capital structure, as remodelled (at paragraph 199 of this Guideline). The following table provides an example of how to re-lever a beta to reflect an alternative capital structure.
@@ -1140,7 +1140,7 @@ The ATO does not consider the gearing preferences of the entity (being the objec
 The weighting of the quantitative factors is considered appropriate for the purpose of the example and despite the fact the borrower's amount exceeds the debt amount calculated under the debt to equity ratio, this ratio in this instance is not considered to cap the debt amount that would reasonably be expected in the facts and circumstances assumed to exist.
 Previously released in draft format as PCG 2019/D3
 ATO references:
-File  1-DVUNNI8
+File 1-DVUNNI8
 ISSN: 2209-1297
 Business Line:
 PGI
@@ -1166,8 +1166,8 @@ ITAA 1997 820-215(2)(g)
 ITAA 1997 820-215(4)
 ITAA 1997 Div 974
 ITAA 1997 995-1
-ITAA 1936  262A
-ITAA 1936  Pt IVA
+ITAA 1936 262A
+ITAA 1936 Pt IVA
 Other References:
 Explanatory Memorandum
 to New Business Tax System (Thin Capitalisation) Bill 2001

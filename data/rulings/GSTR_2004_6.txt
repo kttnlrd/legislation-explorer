@@ -4,56 +4,54 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 111
-  • Div 129
-  • Div 130
-  • Div 138
-  • Div 153
-  • Div 358
-  • Div 72
-  • Division 111
-  • Division 129
-  • Division 130
-  • Division 138
-  • Division 153
-  • Division 358
-  • Division 72
-  • Subdivision 153-A
-  • Subdivision 72-A
-  • Subdivision 72-C
-  • div 153
-  • div 72
-  • division 153
+ • Div 111
+ • Div 129
+ • Div 130
+ • Div 138
+ • Div 153
+ • Div 358
+ • Div 72
+ • Division 111
+ • Division 129
+ • Division 130
+ • Division 138
+ • Division 153
+ • Division 358
+ • Division 72
+ • Subdivision 153-A
+ • Subdivision 72-A
+ • Subdivision 72-C
+ • div 153
+ • div 72
+ • division 153
 
 Cases Referenced:
-  • Anor v. Minister 
-  • Belgian State v. Ghent Coal Terminal 
-  • Catanzariti v. Whitehouse
+ • Anor v. Minister 
+ • Belgian State v. Ghent Coal Terminal 
+ • Catanzariti v. Whitehouse
 (1981) 55 FLR 426
-  • Cripps v. Federal Commissioner 
-  • East Finchley Pty Ltd v. Commissioner 
-  • Falstein v. Official Receiver
+ • Cripps v. Federal Commissioner 
+ • East Finchley Pty Ltd v. Commissioner 
+ • Falstein v. Official Receiver
 (1962) 108 CLR 523
-  • In
+ • In
 Falstein v. Official Receiver
 
-  • In
+ • In
 Kibby v. Registrar 
-  • Kibby v. Registrar 
-  • Nette v. Howarth
+ • Kibby v. Registrar 
+ • Nette v. Howarth
 
-  • Nette v. Howarth
+ • Nette v. Howarth
 (1935) 53 CLR 55
-  • See
+ • See
 Catanzariti v. Whitehouse
 (1981) 55 FLR 426
-  • Taxation v. Comber
+ • Taxation v. Comber
 
-  • Taxation v. Trustees 
+ • Taxation v. Trustees 
 
 Topics: GST, Trusts, Partnerships, Companies, Employment
-
-
 
 ================================================================================
 
@@ -74,7 +72,7 @@ PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This Ruling contains references to provisions of the
 A New Tax System (Goods and Services Tax) Regulations 1999,
 which have been replaced by the
@@ -925,9 +923,9 @@ However, the Commissioner has made determinations
 [106]
 under subsection 29-10(3) to waive the requirement for a recipient to hold a tax invoice before attributing an input tax credit to a tax period, if the recipient holds a document that contains the identity and ABN of the partnership's agent or property manager, and that otherwise satisfies the requirements of subparagraphs 29-70(1) and 29-70(1)(c).
 [107]
-218.  An adjustment note relating to a taxable supply made through an agent may contain enough information to clearly ascertain the identity and ABN of the agent as supplier, rather than that of the partnership
+218. An adjustment note relating to a taxable supply made through an agent may contain enough information to clearly ascertain the identity and ABN of the agent as supplier, rather than that of the partnership
 [108]
-.  Similarly, an adjustment note relating to an acquisition made through an agent may contain enough information to clearly ascertain the identity or ABN of  the agent as recipient, rather than that of the partnership
+. Similarly, an adjustment note relating to an acquisition made through an agent may contain enough information to clearly ascertain the identity or ABN of the agent as recipient, rather than that of the partnership
 [109]
 Termination of an enterprise partnership
 219. An enterprise partnership terminates if the association of persons is no longer in receipt of income jointly. Circumstances that may lead to the termination of a tax law partnership include:
@@ -1059,10 +1057,10 @@ Adjustment notes - co-owners
 267. An adjustment may arise from an adjustment event relating to an acquisition made by each co owner.
 [125]
 An adjustment note must contain enough information to clearly ascertain the identity or ABN of each of the co owners as recipients, unless the tax invoice for the acquisition showed a total price of less than $1,000, or the price of a supply which becomes taxable was less than $1,000.
-268. An adjustment event may also arise in relation to an acquisition made by a co owner in the capacity as agent for the other co owners. The adjustment note will meet the adjustment note requirements if it contains enough information to clearly ascertain the identity or ABN of the co owner acting as agent,  instead of all of the co owners, and otherwise satisfies the requirements of subsection 29 75(1).
+268. An adjustment event may also arise in relation to an acquisition made by a co owner in the capacity as agent for the other co owners. The adjustment note will meet the adjustment note requirements if it contains enough information to clearly ascertain the identity or ABN of the co owner acting as agent, instead of all of the co owners, and otherwise satisfies the requirements of subsection 29 75(1).
 269. An adjustment may also arise from an adjustment event relating to a supply made by a coZ owner in the capacity as agent
 [127]
-.  The adjustment note will meet the adjustment note requirements if it contains enough information to clearly ascertain the identity and ABN of the co owner acting as agent,128 instead of all of the co owners, and otherwise satisfies the requirements of subsection 29 75(1).
+. The adjustment note will meet the adjustment note requirements if it contains enough information to clearly ascertain the identity and ABN of the co owner acting as agent,128 instead of all of the co owners, and otherwise satisfies the requirements of subsection 29 75(1).
 Detailed contents list
 270. Below is a detailed contents list for this Goods and Services Tax Ruling:
 Paragraph
@@ -1598,7 +1596,7 @@ Previously issued as GSTR 2003/D5
 Previously issued as GSTD 2003/D5
 References
 ATO references:
-NO  2003/004047
+NO 2003/004047
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

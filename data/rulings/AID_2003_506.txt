@@ -3,21 +3,16 @@ ATO ID 2003/506
 ==================================================
 
 Income Tax
-        Taxation obligations of company administrators
-        FOI status: may be released
-
+ Taxation obligations of company administrators
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does section 254 of the Income Tax Assessment Act 1936 (ITAA 1936) apply to make an administrator appointed under Part 5.3A of the Corporations Act 2001 (Corporations Act), personally liable for income tax assessed to the company in relation to which they are appointed?
@@ -31,12 +26,10 @@ Section 254 of the ITAA 1936 applies to an entity that is an agent or trustee fo
 
 "trustee" in addition to every person appointed or constituted trustee by act of parties, by order, or declaration of a court, or by operation of law, includes:
 
-
-
 (a)an executor or administrator, guardian, committee, receiver, or liquidator; and
 (b)every person having or taking upon himself the administration or control of income affected by any express or implied trust, or acting in
-                    any fiduciary capacity
-                    , or having the possession, control or management of the income of a person under any legal or other disability [emphasis added]
+ any fiduciary capacity
+ , or having the possession, control or management of the income of a person under any legal or other disability [emphasis added]
 
 Paragraph (b) of the definition of 'trustee' refers to 'every person ... acting in any fiduciary capacity'. In James v. Deputy Federal Commissioner of Taxation (1988) 19 ATR 1752; 88 ATC 4812 the Court held that a scheme manager appointed under a Scheme of arrangement was a trustee for the purposes of section 221P of the ITAA 1936 as he was acting in a fiduciary capacity within paragraph 6(1)(b) of the definition of trustee in the ITAA 1936.
 An administrator appointed under Part 5.3A of the Corporations Act is also acting in a fiduciary capacity. In exercising the powers given to an administrator under section 437A of the Corporations Act, the administrator does not exercise the powers, nor are the powers given to the administrator, for personal benefit, but for the benefit of the company. The administrator is consequently acting in a fiduciary capacity and is a trustee for the purposes of the ITAA 1936 including section 254.
@@ -60,10 +53,10 @@ Related ATO Interpretative Decisions
 Updated Related ATO Interpretative Decisions to ATO ID 2005/257
 
 Date of decision:
-         16 May 2003
+  16 May 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -71,7 +64,6 @@ Income Tax Assessment Act 1936   subsection 6(1)   section 254   subsec
 Corporations Act 2001   Part 5.3A   section 437A
 
 Case References:
-
 
 James v. Deputy Federal Commissioner of Taxation   (1988) 19 ATR 1752   88 ATC 4812
 
@@ -84,33 +76,29 @@ Related ATO Interpretative Decisions
 Keywords
 
 Administrative law
-          Voluntary administration
-          Liquidation
-          Trustees
-
+ Voluntary administration
+ Liquidation
+ Trustees
 
 Siebel/TDMS Reference Number:
-         3409111; 1-7TPJIUU
+  3409111; 1-7TPJIUU
 
 Business Line:
-         PGH
+  PGH
 
 Date of publication:
-         4 July 2003
+  4 July 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 16 May 2003

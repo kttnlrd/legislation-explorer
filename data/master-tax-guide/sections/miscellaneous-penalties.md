@@ -17,7 +17,7 @@ Electronic sales suppression tools In order to deter the use or distribution of 
 
   units).
 
-An “electronic sales suppression tool” (ESST) is, broadly, a device, software program or other thing, or any part or combination of such things capable of falsifying, manipulating, hiding, obfuscating, destroying, or preventing the creation of certain records from electronic point of sale systems (s 8WAB). Oﬀences relating to such tools also apply (¶29-700). PS LA 2022/1 considers the application and remission of ESST administrative penalties. A 2023 report on the statutory review of the administration of ESST administrative penalties is available on the Treasury website.
+An "electronic sales suppression tool" (ESST) is, broadly, a device, software program or other thing, or any part or combination of such things capable of falsifying, manipulating, hiding, obfuscating, destroying, or preventing the creation of certain records from electronic point of sale systems (s 8WAB). Oﬀences relating to such tools also apply (¶29-700). PS LA 2022/1 considers the application and remission of ESST administrative penalties. A 2023 report on the statutory review of the administration of ESST administrative penalties is available on the Treasury website.
 
 Non-electronic reporting An entity whose annual turnover is $20 million or more is required to lodge a GST return, the approved form for which is a BAS, and notify other BAS amounts electronically. Such entities are also required to remit by electronic payment an assessed net amount of GST. Large PAYG withholders (¶26-500) are also required to remit electronically withheld amounts.
 

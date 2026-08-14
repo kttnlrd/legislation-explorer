@@ -17,4 +17,4 @@ The return must be made even if the net amount (¶8-100) is zero, and even if yo
 
 *Refs: s 31-5)*
 
-## The “standard” method applies to:
+## The "standard" method applies to:

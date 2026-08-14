@@ -3,18 +3,14 @@ ATO ID 2004/819
 ==================================================
 
 Goods and Services Tax
-        GST and goods sold in Australia that were imported under a Tradex order
-        FOI status: may be released
-
-
+ GST and goods sold in Australia that were imported under a Tradex order
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the entity, a manufacturer, have an increasing adjustment under section 141-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when goods that it manufactured from components it imported under a Tradex order are sold in Australia?
@@ -30,8 +26,6 @@ Reasons for Decision
 The holder of a Tradex order has an increasing adjustment if goods relating to that order are dealt with contrary to the Tradex Scheme.
 Specifically, section 141-5 of the GST Act provides that an entity has an increasing adjustment if:
 
-
-
 •the entity imported Tradex scheme goods
 •the entity is the holder of the Tradex order relating to the goods
 •the importation would have been a taxable importation if the goods had not been covered by item 21A of Schedule 4 to the Customs Tariff Act at the time of their entry for home consumption, and
@@ -40,8 +34,6 @@ Specifically, section 141-5 of the GST Act provides that an entity has an increa
 As the entity imported components under a Tradex order and is the holder of the Tradex order relating to those components, the first two requirement of section 141-5 of the GST Act are satisfied.
 Subsection 13-5(1) of the GST Act provides that an entity makes a taxable importation if goods are imported, and the goods are entered for home consumption (within the meaning of the Customs Act 1901).
 However, section 13-10 of the GST Act provides that an importation is a non-taxable importation if:
-
-
 
 •it is a non-taxable importation under Part 3-2 of the GST Act, or
 •it would have been a supply that was GST-free or input taxed if it had been a supply.
@@ -52,36 +44,33 @@ The fourth requirement under section 141-5 of the GST Act is that any of the cir
 As the entity's sale of the goods in Australia falls within one of the circumstances referred to in subsection 21(1) of the Tradex Scheme Act, the fourth requirement of section 141-5 of the GST Act is satisfied.
 All the requirements under section 141-5 of the GST Act are satisfied and as such, the entity has an increasing adjustment for the components that it imported under a Tradex order when goods manufactured from those components are sold in Australia.
 
-
 Note: The amount of the increasing adjustment will be the difference between the amount of GST that would have been payable and any input tax credit to which the entity would have been entitled for the importation if the importation had been a taxable importation (subsection 141-5(2) of the GST Act). Therefore, if the entity would have been entitled to an input tax credit for all the GST that would have been payable on a taxable importation of the goods, the increasing adjustment would be nil.
 
 Date of decision:
-         23 September 2003
+  23 September 2003
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   subsection 13-5(1)   section 13-10   Part 3-2   subsection 42-5(1)   section 141-5   subsection 141-5(2)
 Customs Act 1901   The Act
 Customs Tariff Act 1995   Schedule 4 item 21A
-          Tradex Scheme Act 1999   subsection 21(1)
-
+ Tradex Scheme Act 1999   subsection 21(1)
 
 Keywords
 
 Goods and services tax
-          GST imports
-          Customs concessions
-          Non-taxable importations
-
+ GST imports
+ Customs concessions
+ Non-taxable importations
 
 Siebel/TDMS Reference Number:
-         4264617
+  4264617
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         15 October 2004
+  15 October 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

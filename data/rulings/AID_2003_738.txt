@@ -3,18 +3,14 @@ ATO ID 2003/738
 ==================================================
 
 Income Tax
-        Company losses: company deregistration - incorporation of a new company
-        FOI status: may be released
-
-
+ Company losses: company deregistration - incorporation of a new company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a company that bears the same characteristics as a company that was deregistered by the Australian Securities and Investments Commission (ASIC) claim deductions for tax losses incurred by the deregistered company?
@@ -28,10 +24,10 @@ The deregistration of a company has the effect that the company ceases to exist 
 The registration of a company, so that it may carry on the business previously carried on by the deregistered company, does not serve to reinstate the deregistered company. Instead, it establishes the existence of another company, albeit that it may bear the same characteristics as the deregistered company with the same persons having ownership and control.
 Subdivision 36-A of the Income Tax Assessment Act 1997 allows a tax loss of an entity to be deducted by that entity in later income years. It does not allow the tax loss to be deducted by another entity. Common ownership and control of the deregistered company and the 'replacement' company do not negate the fact that the companies are separate entities. The replacement company is, therefore, prevented from claiming deductions for tax losses incurred by the deregistered company.
 Date of decision:
-         19 June 2003
+  19 June 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -41,17 +37,16 @@ Income Tax Assessment Act 1997   Subdivision 36-A
 Keywords
 
 Company deregistration
-          Ownership, interests, control & rights
-
+ Ownership, interests, control & rights
 
 Siebel/TDMS Reference Number:
-         3505199
+  3505199
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         22 August 2003
+  22 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

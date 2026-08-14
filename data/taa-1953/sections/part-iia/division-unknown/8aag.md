@@ -29,7 +29,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  the circumstances that contributed to the delay in payment were not due to, or caused directly or indirectly by, an act or omission of the person; and
 
 > <a id="s8AAG-3-b"></a>
-> **(b)**  the person has taken reasonable action to mitigate, or mitigate the effects of, those circumstances. Authorised Version C2026C00170 registered 28/04/2026
+> **(b)**  the person has taken reasonable action to mitigate, or mitigate the effects of, those circumstances.
 
 <a id="s8AAG-4"></a>
 **(4)**  The Commissioner may remit all or a part of the charge referred to in subsection (2) if the Commissioner is satisfied that:

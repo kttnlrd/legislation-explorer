@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Assessment as authority**
 
-**(1)**  The Commissioner’s assessment is, as between principal and agent, sufficient authority for the payment of tax by the agent.
+**(1)**  The Commissioner's assessment is, as between principal and agent, sufficient authority for the payment of tax by the agent.
 
 **Recovering payment**
 

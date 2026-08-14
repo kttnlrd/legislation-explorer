@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3"
-division_title: "Treatment of payments, credits and RBA"
+division_title: "Treatment of payments, credits and RBA surpluses"
 subdivision: ""
 subdivision_title: ""
 section: "8AAZLA"

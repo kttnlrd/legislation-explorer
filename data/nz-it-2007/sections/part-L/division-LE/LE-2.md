@@ -30,13 +30,13 @@ compilation_date: 2026-06-06
 
 **Calculating amount of tax loss component**
 
-**(3)**  The person or the life insurer, as applicable, has a tax loss component for the corresponding income year equal to an amount calculated using the formula— person’s remaining credit ÷ tax rate.
+**(3)**  The person or the life insurer, as applicable, has a tax loss component for the corresponding income year equal to an amount calculated using the formula— person's remaining credit ÷ tax rate.
 
 **Definition of items in formula**
 
 **(4)**  In the formula,—
 
-- (a) person’s remaining credit is the amount of the tax credit remaining for the tax year under section LA 5(4), but, for a life insurer, only to the extent to which the amount is for their shareholder base:
+- (a) person's remaining credit is the amount of the tax credit remaining for the tax year under section LA 5(4), but, for a life insurer, only to the extent to which the amount is for their shareholder base:
 
 - (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 

@@ -7,7 +7,7 @@ paragraph: "¶2-080"
 ---
 # Date of death tax returns ¶2-080
 
-A return must normally be ﬁled for a deceased taxpayer for the period from beginning of the relevant income year to the date of death of the taxpayer (TAA sch 1 Subdiv 260-E). The return is ﬁled by the executor or administrator of the deceased’s estate and must include all assessable income derived (and all deductible losses or outgoings incurred) by the deceased in that period (¶6-030).
+A return must normally be ﬁled for a deceased taxpayer for the period from beginning of the relevant income year to the date of death of the taxpayer (TAA sch 1 Subdiv 260-E). The return is ﬁled by the executor or administrator of the deceased's estate and must include all assessable income derived (and all deductible losses or outgoings incurred) by the deceased in that period (¶6-030).
 
 Date of death returns should generally be accompanied by a full and true statement of assets and liabilities valued at the date of death. However, if the deceased person was a salary or wage earner, such a statement will only be required if the Commissioner requests it. Once the assessment has been issued and tax has been paid on it, the executor or administrator can rely on the assessment notice to distribute the assets of the estate, conﬁdent that the Commissioner will not seek to reopen the assessment at a later time.
 

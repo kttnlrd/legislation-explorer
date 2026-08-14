@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Making election**
 
-**(4)**  The person makes the election by including the elected amount, which must not exceed the amount given for the person by subsection (5), (6), or (7), as an available tax loss in calculating the person’s taxable income for the taxable income year, in—
+**(4)**  The person makes the election by including the elected amount, which must not exceed the amount given for the person by subsection (5), (6), or (7), as an available tax loss in calculating the person's taxable income for the taxable income year, in—
 
 - (a) a return of income for the taxable income year; or
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Effect of election: person other than company**
 
-**(5)**  If the person is not a company, the person’s net loss for the net loss year is reduced, and the person’s available tax loss for the taxable income year is increased, by an amount that is the smallest of—
+**(5)**  If the person is not a company, the person's net loss for the net loss year is reduced, and the person's available tax loss for the taxable income year is increased, by an amount that is the smallest of—
 
 - (a) the initial taxable income referred to in subsection (2)﻿(a):
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **Effect of election: company not in group**
 
-**(6)**  If the person is a company, other than a company that is a member of a group of companies at a time in the offset ownership period, the person’s net loss for the net loss year is reduced, and the person’s available tax loss for the taxable income year is increased, by an amount that is the smallest of—
+**(6)**  If the person is a company, other than a company that is a member of a group of companies at a time in the offset ownership period, the person's net loss for the net loss year is reduced, and the person's available tax loss for the taxable income year is increased, by an amount that is the smallest of—
 
 - (a) the initial taxable income referred to in subsection (2)﻿(a):
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **Effect of election: member of group of companies**
 
-**(7)**  If the person is a member of a group of companies at a time in the offset ownership period, the person’s net loss for the loss ownership period is reduced, and the person’s available tax loss for the income ownership period is increased, by an amount that is the smallest of—
+**(7)**  If the person is a member of a group of companies at a time in the offset ownership period, the person's net loss for the loss ownership period is reduced, and the person's available tax loss for the income ownership period is increased, by an amount that is the smallest of—
 
 - (a) the total amount of—
 
@@ -104,7 +104,7 @@ compilation_date: 2026-06-06
 
 **(8)**  In the application of subparts IC and IP to the making available by a person, to another member of a group of companies, of an amount of available tax loss arising for the person under subsection (7),—
 
-- (a) the amount of available tax loss that exceeds the person’s initial taxable income is a tax loss for the taxable income year for the purposes of section IC 1 (Company A making tax loss available to company B):
+- (a) the amount of available tax loss that exceeds the person's initial taxable income is a tax loss for the taxable income year for the purposes of section IC 1 (Company A making tax loss available to company B):
 
 - (b) the commonality period referred to in section IC 6 (Common ownership for period) is the period consisting of the offset years:
 
@@ -124,7 +124,7 @@ compilation_date: 2026-06-06
 
 **When allocation of net loss effective**
 
-**(10)**  The increase in the person’s available tax loss for the taxable income year is not effective until the person—
+**(10)**  The increase in the person's available tax loss for the taxable income year is not effective until the person—
 
 - (a) files a return of income for the taxable income year that includes a figure for the elected amount or an updated figure replacing a figure for the elected amount; or
 

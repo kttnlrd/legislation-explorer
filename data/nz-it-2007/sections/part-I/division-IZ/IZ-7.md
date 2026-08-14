@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Commonality period: between 1981–82 and 1991–92**
 
-**(1)**  For the purposes of section IC 5(1)﻿(a) (Company B using company A’s tax loss), if company A has a tax loss in a tax year between the 1981–82 and 1991–92 tax years, company A and company B may group the tax loss in a tax year that is later than the tax year in which the tax loss component arises only if company B is in the same group of companies as company A in the earlier tax year.
+**(1)**  For the purposes of section IC 5(1)﻿(a) (Company B using company A's tax loss), if company A has a tax loss in a tax year between the 1981–82 and 1991–92 tax years, company A and company B may group the tax loss in a tax year that is later than the tax year in which the tax loss component arises only if company B is in the same group of companies as company A in the earlier tax year.
 
 **Commonality period: before 1981–82**
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **When companies have different balance dates**
 
-**(3)**  For the purposes of subsections (1) and (2), the tax year is extended under section IC 10(2)﻿(b) (When companies have different balance dates) if company B’s balance date is later than company A’s balance date.
+**(3)**  For the purposes of subsections (1) and (2), the tax year is extended under section IC 10(2)﻿(b) (When companies have different balance dates) if company B's balance date is later than company A's balance date.
 
 **Residence of company A**
 
-**(4)**  For the purposes of section IC 5(1)﻿(b), if company A’s tax loss component arose in a tax year before the 1991–92 tax year, company A and company B may group the tax loss component in a tax year that is later than the tax year first referred to only if company A is, in both the earlier and the later tax year—
+**(4)**  For the purposes of section IC 5(1)﻿(b), if company A's tax loss component arose in a tax year before the 1991–92 tax year, company A and company B may group the tax loss component in a tax year that is later than the tax year first referred to only if company A is, in both the earlier and the later tax year—
 
 - (a) incorporated in New Zealand, or carrying on a business in New Zealand through a fixed establishment in New Zealand; and
 

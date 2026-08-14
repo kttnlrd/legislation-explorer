@@ -35,9 +35,9 @@ An employee is entitled, under the general deduction provision of ITAA97 s 8-1, 
 
   items may be immediately deductible (¶17-330). Teachers may claim for teaching aids (TR 95/14,
 
-  but see Jones 2014 ATC ¶10-381; [2014] AATA 821), and shearers for shearers’ slings (Gaydon
+  but see Jones 2014 ATC ¶10-381; [2014] AATA 821), and shearers for shearers' slings (Gaydon
 
-98 ATC 2328; [1998] AATA 875). The cost of maintaining a watch may be deductible to taxpayers such as nurses for a nurse’s fob watch (TR 95/15), physical education teachers for a dedicated stopwatch (TR 95/14), and police oﬃcers in the diving squad for a scuba diving watch (TR 95/13).
+98 ATC 2328; [1998] AATA 875). The cost of maintaining a watch may be deductible to taxpayers such as nurses for a nurse's fob watch (TR 95/15), physical education teachers for a dedicated stopwatch (TR 95/14), and police oﬃcers in the diving squad for a scuba diving watch (TR 95/13).
 
 Personal paging units may be deductible to employees on call, such as nurses and doctors.
 
@@ -67,7 +67,7 @@ See also ¶16-180.
 
   and referral expenses (TR 98/6). A contribution (including membership fees) or gift made by
 
-  an individual to political parties, members and candidates, that is related to the individual’s
+  an individual to political parties, members and candidates, that is related to the individual's
 
   employment income may be deductible (s 26-22; ¶16-950).
 

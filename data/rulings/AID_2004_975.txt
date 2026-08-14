@@ -3,23 +3,18 @@ ATO ID 2004/975
 ==================================================
 
 Goods and Services Tax
-        GST and the provision of health services under an agreement with a third party
-        FOI status: may be released
+ GST and the provision of health services under an agreement with a third party
+ FOI status: may be released
 
-
-This ATO ID is withdrawn. The issue is covered in  GSTR 2005/D8 making supplies and analysing multi-party arrangements.
+This ATO ID is withdrawn. The issue is covered in GSTR 2005/D8 making supplies and analysing multi-party arrangements.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a health service provider, making a taxable supply to a third party, a business entity, under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it provides a health service to a patient pursuant to an existing agreement with the third party for the provision of that service?
@@ -33,8 +28,6 @@ The entity is registered for goods and services tax (GST). The supply is made fo
 Reasons for Decision
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 
-
-
 •it makes the supply for consideration
 •the supply is made in the course or furtherance of an enterprise that the entity carries on
 •the supply is connected with Australia, and
@@ -44,8 +37,6 @@ However, section 9-5 of the GST Act further states that a supply is not a taxabl
 The entity's supply of health services satisfies the positive limbs of section 9-5 of the GST Act, but will only be a taxable supply if it is not GST-free under Division 38 of the GST Act or input taxed under Division 40 of the GST Act.
 Of relevance, is subsection 38-10(1) of the GST Act, which provides that an entity makes a GST-free supply of health services if:
 
-
-
 •it provides a service of a kind specified in the table in subsection 38-10(1) of the GST Act or of a kind specified in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) (paragraph 38-10(1)(a) of the GST Act)
 •the entity is a recognised professional in relation to the supply of services of that kind (paragraph 38-10(1)(b) of the GST Act), and
 •the supply would generally be accepted, in the profession associated with supplying services of that kind, as being necessary for the appropriate treatment of the recipient of the supply (paragraph 38-10(1)(c) of the GST Act).
@@ -53,8 +44,6 @@ Of relevance, is subsection 38-10(1) of the GST Act, which provides that an enti
 The entity provides a health service that is listed in the table in subsection 38-10(1) of the GST Act and the entity is a recognised professional, as defined in section 195-1 of the GST Act, in relation to the supply of that health service. Therefore, the requirements in paragraphs 38-10(1)(a) and 38-10(1)(b) of the GST Act are satisfied.
 Paragraph 38-10(1)(c) of the GST Act requires that the supply must generally be accepted, in the profession associated with supplying services of that kind, as being necessary for the appropriate treatment of the recipient of the supply.
 A supply can only be one of 'treatment' if it is made to the person requiring that treatment. Therefore, 'treatment' cannot, by its nature, be something that is supplied to a business entity. Accordingly, where:
-
-
 
 •the health services provided to a patient are accepted by the relevant profession as being necessary for the appropriate treatment of that patient
 •the supply is made pursuant to an agreement with a third party that is a business entity, and
@@ -67,8 +56,6 @@ Where there is a third party involved in a transaction, there may be more than o
 The GST status of each supply is considered separately. The supply from the health professional to the third party is taxable where the requirements of section 9-5 of the GST Act are met, whilst the supply to the patient is a GST-free health service where the requirements of subsection 38-10(1) of the GST Act are met.
 A third party will be the 'recipient of a supply' by the health professional where:
 
-
-
 •the third party engages the health professional to provide something to them or to someone else
 •the third party, by agreement with the health professional, determines what is to be provided to them or to someone else, and
 •there is a binding obligation between the third party and the health professional for the thing to be provided and the third party is liable to provide payment.
@@ -77,13 +64,12 @@ In the present case, the third party engages the entity to provide a health serv
 As a business entity cannot receive 'treatment' the supply to the third party cannot be a supply of 'appropriate treatment and therefore is not GST-free under subsection 38-10(1) of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under any other provision in Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies a health service to a patient pursuant to an existing agreement with the third party for the provision of that service.
 
-
 Note 1. As the entity is registered for GST, it is liable to remit 1/11th of the payment made by the third party. Where the third party is registered for GST, it is entitled to claim an input tax credit equal to the GST payable on the supply.
 
 Note 2. In circumstances where the arrangement between the health professional and third party is such that the third party does not engage the professional but merely makes payment on behalf of the patient, the patient is the recipient of the supply. This supply will be GST-free where all the requirements of subsection 38-10(1) of the GST Act are satisfied.
 
 Date of decision:
-         4 February 2003
+  4 February 2003
 
 Legislative References:
 
@@ -97,32 +83,28 @@ ATO ID 2002/1077
 Keywords
 
 Goods and services tax
-          GST free
-          GST health
-          Section 38-30 - community care
-          GST supplies & acquisitions
-          Taxable supply
-
+ GST free
+ GST health
+ Section 38-30 - community care
+ GST supplies & acquisitions
+ Taxable supply
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         24 December 2004
+  24 December 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  4 February 2003

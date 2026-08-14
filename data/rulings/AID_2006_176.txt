@@ -3,18 +3,14 @@ ATO ID 2006/176
 ==================================================
 
 Goods and Services Tax
-        GST and GST returns where company ownership changes from 1 July 2006
-        FOI status: may be released
-
-
+ GST and GST returns where company ownership changes from 1 July 2006
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a company, required to submit a GST return under subsection 31-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when the ownership of the entity changes before the end of the tax period?
@@ -30,11 +26,10 @@ Section 195-1 of the GST Act defines a company to mean a body corporate or any o
 Section 27-5 of the GST Act provides that the tax periods which apply are each period of three months ending on 31 March, 30 June, 30 September or 31 December in each year. As the entity lodges its GST returns quarterly, it must lodge one return for each of the above tax periods.
 Although the ownership of the entity has changed, the entity remains an 'entity' for GST purposes. The entity does not submit a GST return part way through the tax period when ownership of the entity (the company) changes. Therefore, at the end of the tax period, the entity must submit a GST return under subsection 31-5(1) of the GST Act covering the whole of the tax period.
 
-
 Note: Under subsection 444-10(2) in Schedule 1 to the Taxation Administration Act 1953, the public officer of a company is answerable for doing everything that is required to be done by the company under an indirect tax law.
 
 Date of decision:
-         5 July 2006
+  5 July 2006
 
 Legislative References:
 
@@ -49,20 +44,19 @@ ATO ID 2002/881
 Keywords
 
 Goods & services tax
-          GST returns, payments & refunds
-          GST returns
-          GST body corporates
-          GST tax periods
-
+ GST returns, payments & refunds
+ GST returns
+ GST body corporates
+ GST tax periods
 
 Siebel/TDMS Reference Number:
-         5321208
+  5321208
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         21 July 2006
+  21 July 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

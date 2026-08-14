@@ -3,21 +3,16 @@ ATO ID 2002/619
 ==================================================
 
 Income Tax
-        Uniform Capital Allowances - Disposal of depreciating asset by a beneficiary of a deceased estate
-        FOI status: may be released
-
+ Uniform Capital Allowances - Disposal of depreciating asset by a beneficiary of a deceased estate
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 What is the balancing adjustment amount under section 40-285 of the Income Tax Assessment Act 1997 (ITAA 1997) for a beneficiary who disposes of a depreciating asset inherited from a deceased estate?
@@ -30,12 +25,10 @@ Reasons for Decision
 The beneficiary stopped holding the asset at the time it was sold. Accordingly, a balancing adjustment event occurred for the asset under paragraph 40-295(1)(a) of the ITAA 1997. To work out the balancing adjustment amount, section 40-285 of the ITAA 1997 requires a comparison of the asset's termination value with its adjustable value just before the balancing adjustment event occurred.
 The beneficiary did not use the asset, or have it installed ready for use, for any purpose. In these circumstances, paragraph 40-85(1)(a) of the ITAA 1997 provides that the adjustable value of the asset in the hands of the beneficiary is its cost.
 Section 40-175 of the ITAA 1997 provides that the cost of an asset consists of two elements. Where a beneficiary starts to hold an asset inherited from a deceased estate, item 13 of the table in subsection 40-180(2) of the ITAA 1997 specifies that the first element of the cost of the asset to the beneficiary is the asset's market value when the beneficiary started to hold it, reduced by any capital gain in relation to the asset that was disregarded by the deceased under section 128-10 of the ITAA 1997 or by the legal personal representative under subsection 128-15(3) of the ITAA 1997.
-Generally, section 128-10 of the ITAA 1997 and subsection 128-15(3) of the ITAA 1997 will apply to disregard a capital gain in relation to a depreciating asset if one of the exclusions in subsection 118-24(2) of the ITAA 1997 applies.  One of the exclusions is when the capital gain or capital loss is made from CGT event K7 (section 104-235 of the ITAA 1997) happening.  As the sole trader used the asset solely for the purposes of producing assessable income and the legal personal representative did not use the asset, or have it installed ready for use, for any purpose, CGT event K7 did not happen to the asset.  The other exclusions in subsection 118-24(2) of the ITAA 1997 also do not apply. As a result, there was no capital gain for either to disregard. Accordingly, the first element of the cost of the asset is its market value at the time the beneficiary started to hold it (ie $21,000). In this case there is no second element of cost and the adjustable value of the asset in the hands of the beneficiary is $21,000.
-When the beneficiary sells the asset, under paragraph 40-300(1)(b) of the ITAA 1997, the termination value of the asset is the amount the beneficiary is taken to have received under section 40-305 of the ITAA 1997.  In this case, it is the amount the beneficiary received (ie $21,000).
+Generally, section 128-10 of the ITAA 1997 and subsection 128-15(3) of the ITAA 1997 will apply to disregard a capital gain in relation to a depreciating asset if one of the exclusions in subsection 118-24(2) of the ITAA 1997 applies. One of the exclusions is when the capital gain or capital loss is made from CGT event K7 (section 104-235 of the ITAA 1997) happening. As the sole trader used the asset solely for the purposes of producing assessable income and the legal personal representative did not use the asset, or have it installed ready for use, for any purpose, CGT event K7 did not happen to the asset. The other exclusions in subsection 118-24(2) of the ITAA 1997 also do not apply. As a result, there was no capital gain for either to disregard. Accordingly, the first element of the cost of the asset is its market value at the time the beneficiary started to hold it (ie $21,000). In this case there is no second element of cost and the adjustable value of the asset in the hands of the beneficiary is $21,000.
+When the beneficiary sells the asset, under paragraph 40-300(1)(b) of the ITAA 1997, the termination value of the asset is the amount the beneficiary is taken to have received under section 40-305 of the ITAA 1997. In this case, it is the amount the beneficiary received (ie $21,000).
 As the termination value and the adjustable value of the asset are the same, the balancing adjustment amount worked out under section 40-285 is nil.
 There are no capital gains tax implications for the disposal of the asset by the beneficiary for the following reasons:
-
-
 
 •Subsection 118-24(1) of the ITAA 1997 provides that any capital gain or loss that a taxpayer makes from a CGT event, that is also a balancing adjustment event that happens to a depreciating asset the taxpayer held, is to be disregarded if the decline in value of the asset was worked out under Division 40 of the ITAA 1997, or would have been worked out under that Division had the taxpayer used it.
 •Subsection 118-24(2) of the ITAA 1997 provides exclusions to the rules in subsection 118-24(1) of the ITAA 1997, including where a taxpayer makes a capital gain or capital loss from CGT event K7 happening. CGT event K7 does not apply, as the beneficiary did not use the asset, or have it installed ready for use, for any purpose. The other exclusions in subsection 118-24(2) of the ITAA 1997 also do not apply.
@@ -68,10 +61,10 @@ Keywords
 Insert additional keywords
 
 Date of decision:
-         05 April 2002
+  05 April 2002
 
 Year of income:
-           30 June 2002
+  30 June 2002
 
 Legislative References:
 
@@ -85,34 +78,30 @@ Related ATO Interpretative Decisions
 Keywords
 
 Balancing adjustment event
-          Cost of a depreciating asset
-          First element of cost
-          Termination value
-          Uniform capital allowances system
-
+ Cost of a depreciating asset
+ First element of cost
+ Termination value
+ Uniform capital allowances system
 
 Siebel/TDMS Reference Number:
-         DW367697
+  DW367697
 
 Business Line:
-         Small Business/Individual Taxpayers
+  Small Business/Individual Taxpayers
 
 Date of publication:
-         31 May 2002
+  31 May 2002
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  5 April 2002

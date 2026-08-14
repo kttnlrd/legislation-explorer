@@ -3,23 +3,18 @@ ATO ID 2001/167
 ==================================================
 
 Superannuation
-        Superannuation: Undeducted Purchase Price (UPP) - lifetime rebatable pension commenced after 1 July 1983 and before 1 July 1994
-        FOI status: may be released
+ Superannuation: Undeducted Purchase Price (UPP) - lifetime rebatable pension commenced after 1 July 1983 and before 1 July 1994
+ FOI status: may be released
 
-
-This ATO ID is withdrawn as the ATO precedential view for the deductible amount of a lifetime rebatable pension is now contained in  TD 2006/17 and  TD 2006/72. The Taxation Determinations apply both before and after publication.
+This ATO ID is withdrawn as the ATO precedential view for the deductible amount of a lifetime rebatable pension is now contained in TD 2006/17 and TD 2006/72. The Taxation Determinations apply both before and after publication.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 How is the annual deductible amount of UPP calculated in relation to a lifetime rebatable superannuation pension paid from a complying superannuation fund where the pension commenced to be paid before 1 July 1994?
@@ -33,10 +28,7 @@ The pension became payable after 1 July 1983 and before 1 July 1994.
 Reasons For Decision
 As the pension commenced to be payable after 1 July 1983 section 27H of the ITAA 1936 applies. Under sub-section 27H(2), the annual deductible amount of a superannuation pension is ascertained in accordance with the formula
 
-
 where:
-
-
 
 A =the relevant share of the pension payable to the taxpayer in relation to the year of income (in this case all of the pension is payable to the taxpayer, so A = 1);
 B =the amount of the undeducted purchase price of the pension;
@@ -45,12 +37,8 @@ D =the relevant number in relation to the pension.
 
 The 'undeducted purchase price' of the pension is defined in section 27A(1) of the ITAA 1936. As the pension commenced to be payable before 1 July 1994, the undeducted purchase price is:
 
-
-
 (1) the sum of personal contributions made before 1 July 1983 in excess of the annual amount for which a tax rebate or tax deduction was allowable, and
 (2) so much of the purchase price of the pension as was paid on or after 1 July 1983 for which no tax deduction was, or will be, allowable reduced by the amounts of the following components of any eligible termination payment (ETP) rolled-over towards purchase of the pension:
-
-
 
 • the taxed element of the post-June 83 component
 • the untaxed element of the post-June 83 component
@@ -61,7 +49,7 @@ Regulation 9 of the Income Tax Regulations 1936 states that for the purposes of 
 In Taxation Ruling IT 2157 the Commissioner states, in paragraph 27, that in cases where a pension is to revert to a surviving spouse, the relevant number will be the greater of the two life expectancies.
 Paragraph 18 of Taxation Ruling IT 2157 states that where a pension commences during a year that sub-section 27H(3) is to apply. The deductible amount is the proportion of the amount calculated under sub-section 27H(2) that the period the pension is payable during the year bears to the full year.
 Date of decision:
-         26 June 2001
+  26 June 2001
 
 Legislative References:
 
@@ -75,32 +63,28 @@ IT 2157
 Keywords
 
 Termination payments, superannuation & retirement income
-          Annuities & superannuation pensions
-          Annuity & superannuation pension purchase price
-          Undeducted purchase price
-          Superannuation pensions
-          Deductible amount
-
+ Annuities & superannuation pensions
+ Annuity & superannuation pension purchase price
+ Undeducted purchase price
+ Superannuation pensions
+ Deductible amount
 
 Business Line:
-         Superannuation
+  Superannuation
 
 Date of publication:
-         3 August 2001
+  3 August 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 26 June 2001

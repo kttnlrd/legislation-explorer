@@ -12,7 +12,7 @@ SUBJECT:
 Management of Priority Technical Issues
 PURPOSE:
 To advise of procedures to ensure that the highest priority technical issues are appropriately prioritised, managed and maintained on Siebel
-This practice statement was withdrawn on 18 May 2012.  It has been replaced by
+This practice statement was withdrawn on 18 May 2012. It has been replaced by
 PS LA 2012/1
 Management of high risk technical issues and engagement of tax technical officers in Law and Practice.
 This document incorporates revisions made since original publication. View its
@@ -265,7 +265,7 @@ the relevant Siebel case should focus on the issues rather than any associated a
 •
 an officer who identifies an issue but finds an apparent Risk-PTI or related case for that issue already on Siebel should liaise with the owner of the case to clarify the situation and/or contribute new intelligence, and
 •
-the technical issue should be accurately described so that its full scope can be clearly understood both internally and externally. Judgment needs to be exercised regarding whether a  case should be created for groups of related technical issues or as separate cases. For example, where a number of related issues are to be dealt with in a single public ruling it would be usual for all of those issues to be escalated and approved in a single Risk PTI case with the management of the issues to be managed in the draft rulings and final rulings cases.
+the technical issue should be accurately described so that its full scope can be clearly understood both internally and externally. Judgment needs to be exercised regarding whether a case should be created for groups of related technical issues or as separate cases. For example, where a number of related issues are to be dealt with in a single public ruling it would be usual for all of those issues to be escalated and approved in a single Risk PTI case with the management of the issues to be managed in the draft rulings and final rulings cases.
 37. Failure to properly manage Risk-PTI and related cases on Siebel could lead to major risks going undetected or risks not being properly managed or prioritised. Accordingly, Risk-PTI cases and related cases:
 •
 should be linked to other Risk-PTI cases, PTI cases, Ruling and Determination cases or LAPS cases, audit cases, private ruling requests, litigation etc, as relevant
@@ -364,7 +364,7 @@ See paragraph 17 of this practice statement for further guidance.
 Further details are provided in the PTI process guide.
 [6]
 See also Part 13 of the Public Rulings Manual.
-File  2002/010803, 03/11927-28, 03/11931; 1-2LDXZYQ
+File 2002/010803, 03/11927-28, 03/11931; 1-2LDXZYQ
 Related Practice Statements:
 PS CM 2003/02
 PS CM 2003/05
@@ -402,7 +402,7 @@ Updated statement
 You are here
 18 May 2012
 Archived
-This practice statement was originally published on 3 November 2003. Versions published from September 2009 are available electronically - refer to the online version of the practice statement.   Versions published prior to this date are not available electronically. If needed, these can be requested by emailing
+This practice statement was originally published on 3 November 2003. Versions published from September 2009 are available electronically - refer to the online version of the practice statement. Versions published prior to this date are not available electronically. If needed, these can be requested by emailing
 TCNLawPublishingandPolicy@ato.gov.au
 .
 Back to top

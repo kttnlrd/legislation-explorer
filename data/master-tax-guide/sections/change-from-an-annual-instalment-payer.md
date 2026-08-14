@@ -15,7 +15,7 @@ the income year A taxpayer ceases to be an annual PAYG instalment payer at the e
 
 - the Commissioner notiﬁes the taxpayer of a notional tax amount of $8,000 or more
 
-- on the taxpayer’s MPR test day, the taxpayer’s base assessment instalment income is greater
+- on the taxpayer's MPR test day, the taxpayer's base assessment instalment income is greater
 
   than the threshold (¶27-170), or
 
@@ -37,7 +37,7 @@ A taxpayer also ceases to be an annual PAYG instalment payer if, during an insta
 
   ceases to have eﬀect (TAA s 45-150).
 
-Where these rules are satisﬁed, the taxpayer will commence paying monthly or quarterly instalments from the ﬁrst instalment period of the following income year for which the taxpayer is required to pay an instalment. A taxpayer required to pay 4 instalments annually will commence paying quarterly PAYG instalments from the ﬁrst instalment quarter of the following income year. A taxpayer eligible to pay 2 quarterly instalments annually will commence paying quarterly PAYG instalments from the third instalment quarter of the following income year. A taxpayer required to pay monthly instalments will commence from the ﬁrst month of the following income year (s 45-136(2)(b)). In all cases, taxpayers are still required to pay an annual instalment for the year in which they become ineligible to be annual PAYG instalment payers. Monthly or quarterly instalments continue to be payable after that time, unless and until the taxpayer again satisﬁes the requirements for being an annual PAYG instalment payer (¶27-170) and chooses to pay on that basis or the Commissioner withdraws the taxpayer’s instalment rate.
+Where these rules are satisﬁed, the taxpayer will commence paying monthly or quarterly instalments from the ﬁrst instalment period of the following income year for which the taxpayer is required to pay an instalment. A taxpayer required to pay 4 instalments annually will commence paying quarterly PAYG instalments from the ﬁrst instalment quarter of the following income year. A taxpayer eligible to pay 2 quarterly instalments annually will commence paying quarterly PAYG instalments from the third instalment quarter of the following income year. A taxpayer required to pay monthly instalments will commence from the ﬁrst month of the following income year (s 45-136(2)(b)). In all cases, taxpayers are still required to pay an annual instalment for the year in which they become ineligible to be annual PAYG instalment payers. Monthly or quarterly instalments continue to be payable after that time, unless and until the taxpayer again satisﬁes the requirements for being an annual PAYG instalment payer (¶27-170) and chooses to pay on that basis or the Commissioner withdraws the taxpayer's instalment rate.
 
 *Refs: s 45-155), s 45-150), s 45-136(2)(*
 

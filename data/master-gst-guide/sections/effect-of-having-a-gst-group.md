@@ -35,13 +35,13 @@ For GST purposes, the transactions within the group may be ignored. As the repre
 
 *Refs: s 48-40, s 48-5), s 48-40), s 48-45), s 48-60)*
 
-1/11 × ($550,000 + $66,000)....................................                                                      $56,000 Less: 1/11 × ($330,000 + $44,000)....................................                                                 34,000 $22,000 If the representative member does not pay the tax, or there is a history of non-payment, the ATO may be able to claim it from any of the members in the group under the “joint and several liability” rule (Administration Act, Sch 1, s 444-90). In determining which member(s) to pursue, the factors that the ATO may consider include:
+1/11 × ($550,000 + $66,000)....................................                                                      $56,000 Less: 1/11 × ($330,000 + $44,000)....................................                                                 34,000 $22,000 If the representative member does not pay the tax, or there is a history of non-payment, the ATO may be able to claim it from any of the members in the group under the "joint and several liability" rule (Administration Act, Sch 1, s 444-90). In determining which member(s) to pursue, the factors that the ATO may consider include:
 
 - whether there is an ability to collect payment promptly from the member
 
 - whether there is an opportunity to include the group debt in an action being initiated against a
 
-  particular member for that member’s other tax-related liabilities
+  particular member for that member's other tax-related liabilities
 
 - whether there is a need to prove a debt in an insolvency administration of a member
 
@@ -49,7 +49,7 @@ For GST purposes, the transactions within the group may be ignored. As the repre
 
   Receivables Policy, Ch 34, para 70; Practice Statement PS LA 2013/6).
 
-Joint and several liability does not apply in situations where members are statutorily barred from meeting the requirement, for example, certain financial institutions. These entities will nevertheless remain liable for liabilities arising from their own acts or omissions. Group members may also limit their liability by entering into an “indirect tax sharing agreement” (¶17-025).
+Joint and several liability does not apply in situations where members are statutorily barred from meeting the requirement, for example, certain financial institutions. These entities will nevertheless remain liable for liabilities arising from their own acts or omissions. Group members may also limit their liability by entering into an "indirect tax sharing agreement" (¶17-025).
 
 Further ATO guidelines on collecting group debts are in Practice Statement PS LA 2013/6.
 
@@ -75,7 +75,7 @@ Example A group member acquires equipment from outside the group and uses it to 
 
 GST turnover thresholds.
 
-Various thresholds based on GST turnover apply under the GST rules, for example, the thresholds for registration. Where there is a GST group, these thresholds are based on the GST turnover of the group as a whole, excluding supplies made within the group (s 188-15; 188-20). Similarly, the “de minimis” test for determining input tax credit entitlements for financial acquisitions is applied as if the group were a single entity (¶10-032).
+Various thresholds based on GST turnover apply under the GST rules, for example, the thresholds for registration. Where there is a GST group, these thresholds are based on the GST turnover of the group as a whole, excluding supplies made within the group (s 188-15; 188-20). Similarly, the "de minimis" test for determining input tax credit entitlements for financial acquisitions is applied as if the group were a single entity (¶10-032).
 
 Annual tax periods.
 
@@ -87,7 +87,7 @@ The representative member may elect to pay GST under the instalments system if a
 
 Reverse charge.
 
-The “reverse charge” rules (¶9-100) still apply where an offshore supply is made from one group member to another. In this situation, the supply is still treated as a taxable supply. Similarly, the recipient group member can claim an input tax credit in this situation (s 48-45(3)). This is an exception to the general rule that transactions within groups are outside GST (s 48-40(2)).
+The "reverse charge" rules (¶9-100) still apply where an offshore supply is made from one group member to another. In this situation, the supply is still treated as a taxable supply. Similarly, the recipient group member can claim an input tax credit in this situation (s 48-45(3)). This is an exception to the general rule that transactions within groups are outside GST (s 48-40(2)).
 
 Joint venture property.
 

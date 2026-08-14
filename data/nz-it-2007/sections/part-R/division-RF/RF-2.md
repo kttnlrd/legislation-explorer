@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 - (b) a royalty for the use, production, or reproduction of, or for the right to use, produce, or reproduce, a literary, dramatic, musical, or artistic work in which copyright subsists:
 
-- (c) interest or a royalty derived by a life insurer from a company resident in New Zealand when the interest or royalty is treated as arising as a result of the life insurer’s election under section EY 49 (Non-resident life insurer becoming resident):
+- (c) interest or a royalty derived by a life insurer from a company resident in New Zealand when the interest or royalty is treated as arising as a result of the life insurer's election under section EY 49 (Non-resident life insurer becoming resident):
 
 - (d) interest or an investment society dividend when the person paying and the person deriving the interest or dividend are not associated persons:
 
@@ -92,7 +92,7 @@ compilation_date: 2026-06-06
 
 **Exception: minimum amount**
 
-**(5)**  Despite subsection (4), if a person derives non-resident passive income consisting of interest, investment society dividends, or a royalty other than those described in subsection (3), the person’s income tax liability for the corresponding tax year is the greater of—
+**(5)**  Despite subsection (4), if a person derives non-resident passive income consisting of interest, investment society dividends, or a royalty other than those described in subsection (3), the person's income tax liability for the corresponding tax year is the greater of—
 
 - (a) the sum of the total non-resident withholding tax (NRWT) for which they are liable and the amount that would be their income tax liability for the tax year if they had not derived non-resident passive income in the tax year:
 

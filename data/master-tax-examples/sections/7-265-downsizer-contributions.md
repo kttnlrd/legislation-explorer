@@ -17,7 +17,7 @@ Doreen wishes to contribute some of the proceeds into her superannuation fund as
 
 Is she eligible to do so?
 
-Solution From 1 January 2023, an individual who is aged 55 or over (60 or over from 1 July 2022 and 65 or over from 1 July 2018) may use the proceeds from the sale of their main residence to make superannuation contributions (referred to as “downsizer contributions”) up to a maximum of $300,000 per person (ie up to $600,000 per couple).
+Solution From 1 January 2023, an individual who is aged 55 or over (60 or over from 1 July 2022 and 65 or over from 1 July 2018) may use the proceeds from the sale of their main residence to make superannuation contributions (referred to as "downsizer contributions") up to a maximum of $300,000 per person (ie up to $600,000 per couple).
 
 The main provisions in relation to downsizer contributions are contained in ITAA97 s 292-102.
 
@@ -49,7 +49,7 @@ A contribution is a downsizer contribution in respect of an individual if the fo
 
 The 10-years ownership condition requires that an individual or their spouse has held an ownership interest in the dwelling for 10 or more years just before its disposal (s 292 102(2)). The ownership period is calculated from the commencement day of ownership of the dwelling to the day the ownership ceases. This would usually be the period from the settlement date of the original contract to purchase the dwelling to the settlement date of the later sale contract.
 
-It is not necessary for an individual to hold an ownership interest for the entire 10-year period personally, provided that, at all times during this period, an ownership interest has been held by some combination of the individual, the individual’s spouse, and/or the individual’s former spouse. This allows for changes in ownership between spouses to account for circumstances such as the death of a spouse and relationship breakdown.
+It is not necessary for an individual to hold an ownership interest for the entire 10-year period personally, provided that, at all times during this period, an ownership interest has been held by some combination of the individual, the individual's spouse, and/or the individual's former spouse. This allows for changes in ownership between spouses to account for circumstances such as the death of a spouse and relationship breakdown.
 
 Where a spouse who held an ownership interest dies, an individual can count the period of ownership of the deceased spouse, including the period the dwelling is held by the trustee of the deceased estate, towards the 10-years ownership test.
 

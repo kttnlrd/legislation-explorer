@@ -13,7 +13,7 @@ Entity                                                                      Liab
 
 - did not aid, abet, counsel or procure the act or omission of the entity that is the subject of the offence
 
-- was not in any way knowingly concerned in the entity’s act or omission, or a party to it.
+- was not in any way knowingly concerned in the entity's act or omission, or a party to it.
 
 The defence reverses the normal onus of proof. The onus is on the member, for example, a partner in a partnership or a director of a company, to establish on the balance of probabilities that he/she was not knowingly concerned in the commission of the offence.
 

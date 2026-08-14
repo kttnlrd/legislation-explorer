@@ -17,13 +17,13 @@ The basic duty of the Commissioner is to administer tax law, but in exercising t
 
 The Public Governance Performance and Accountability Act 2013, which underpins the code, requires the Commissioner to manage ATO resources eﬃciently, eﬀectively, ethically and economically.
 
-A dispute that would be considered for settlement would ordinarily be one where the taxpayer has (or will have) a right to challenge the Commissioner’s decision, however settlement is considered as potentially a way to resolve a wide range of disputes and disagreements.
+A dispute that would be considered for settlement would ordinarily be one where the taxpayer has (or will have) a right to challenge the Commissioner's decision, however settlement is considered as potentially a way to resolve a wide range of disputes and disagreements.
 
 The code states that settlement would generally not be considered where: (1) there is a contentious point of law that requires clariﬁcation; (2) it is in the public interest to litigate; (3) there is an impact on future compliance.
 
-Generally speaking, the ATO prefers to settle cases on an issue-by-issue basis and “global” settlements will only be entered into in exceptional cases and as a last resort. Ability to pay is not relevant in determining a taxpayer’s liability, but it may give rise to other administrative arrangements to assist the taxpayer.
+Generally speaking, the ATO prefers to settle cases on an issue-by-issue basis and "global" settlements will only be entered into in exceptional cases and as a last resort. Ability to pay is not relevant in determining a taxpayer's liability, but it may give rise to other administrative arrangements to assist the taxpayer.
 
-A taxpayer’s ability to pay will aﬀect the likely cost-eﬀectiveness of any litigation action; inability to pay would normally result in the debt being written oﬀ as being uneconomical to pursue. However, where it is considered that inability to pay tax has been deliberately created, settlement will be considered inappropriate without ﬁrst escalating the matter.
+A taxpayer's ability to pay will aﬀect the likely cost-eﬀectiveness of any litigation action; inability to pay would normally result in the debt being written oﬀ as being uneconomical to pursue. However, where it is considered that inability to pay tax has been deliberately created, settlement will be considered inappropriate without ﬁrst escalating the matter.
 
 Where settlements are not appropriate According to the Practical guide to the ATO code of settlement, settlement should generally not be considered where: (1) there is a contentious point of the law which requires clariﬁcation — in such cases, it may be appropriate to fund the litigation under the test case litigation program; (2) it is in the public interest to litigate; (3) the behaviour is such that there is a need to send a strong message to the community — behaviour such as persistent, ongoing and/or expanding non-compliance, or blatant non-compliance which the community would expect the ATO to take action.
 
@@ -31,7 +31,7 @@ Alternative dispute resolution A range of alternative dispute resolution (ADR) a
 
 PS LA 2013/3 sets out what policies and guidelines must be followed by ATO oﬃcers when using ADR to resolve or limit disputes. It also suggests that ADR may be appropriate: (1) after the ATO issues a position paper (¶25-200); (2) during a review at the objection stage before a decision is made (¶28-070); or (3) during the litigation stage (¶28-080).
 
-Individuals or small businesses can opt for the ATO’s in-house facilitation service to resolve less complex disputes (see ATO webpage “In-house facilitation”). It is a mediation process where an impartial ATO facilitator meets with the taxpayers and the ATO case oﬃcers to identify the issues, develop options, consider alternatives, and attempt to reach a resolution.
+Individuals or small businesses can opt for the ATO's in-house facilitation service to resolve less complex disputes (see ATO webpage "In-house facilitation"). It is a mediation process where an impartial ATO facilitator meets with the taxpayers and the ATO case oﬃcers to identify the issues, develop options, consider alternatives, and attempt to reach a resolution.
 
 Potential for prosecution It is ATO policy that oﬃcers do not use the threat of either prosecution or the imposition of severe penalties as a lever in settlement negotiations.
 
@@ -43,4 +43,4 @@ The settlement should represent the ﬁnal agreed position between the parties. 
 
 The ATO will adhere to the terms of the settlement, unless it emerges that relevant facts were not disclosed to the ATO.
 
-The ATO will adopt the settlement as the basis for treating similar issues in future year assessments of the taxpayer unless: (i) the agreement relates to a particular issue but the application of the law remains unclear; (ii) the taxpayer’s circumstances are materially diﬀerent; (iii) there are subsequent amendments to the law; (iv) a taxation ruling has been released on the particular issue; (v) the settlement agreement speciﬁcally indicates that it is not to apply for future years or it provides for a diﬀerent basis for dealing with the relevant issue; or (vi) the ATO has reviewed the matter and at a suitably senior level determined that the ATO position should be diﬀerent or that the settlement is not soundly based.
+The ATO will adopt the settlement as the basis for treating similar issues in future year assessments of the taxpayer unless: (i) the agreement relates to a particular issue but the application of the law remains unclear; (ii) the taxpayer's circumstances are materially diﬀerent; (iii) there are subsequent amendments to the law; (iv) a taxation ruling has been released on the particular issue; (v) the settlement agreement speciﬁcally indicates that it is not to apply for future years or it provides for a diﬀerent basis for dealing with the relevant issue; or (vi) the ATO has reviewed the matter and at a suitably senior level determined that the ATO position should be diﬀerent or that the settlement is not soundly based.

@@ -3,29 +3,23 @@ ATO ID 2004/611
 ==================================================
 
 Income Tax
-        Debt/Equity:  application of Division 974 to material changes made to a loan agreement
-        FOI status: may be released
-
-
+ Debt/Equity: application of Division 974 to material changes made to a loan agreement
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will any material changes or alterations made to a loan agreement with the terms described in the facts below form a new scheme for the purposes of classifying the loan as a debt or equity interest in accordance with Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes.  The effect of a material change to the loan agreement will mean that a new scheme has been entered into for the purposes of the application of Division 974 of the ITAA 1997.
+Yes. The effect of a material change to the loan agreement will mean that a new scheme has been entered into for the purposes of the application of Division 974 of the ITAA 1997.
 Facts
 A Company maintains accounts with a number of related entities that deposit funds into separate sub accounts. The Company refers to these lenders as its 'Depositors'.
 The Company has entered into written Cash Management Account agreements with each of the Depositors.
 These agreements have common terms, but in particular:
-
-
 
 (a)Each loan agreement is dated 1 July 2003
 (b)The initial term of the loan agreement is for 12 months. This term may be extended by agreement in writing between the Company and the Depositor
@@ -38,8 +32,6 @@ Reasons for Decision
 Section 974-110 of the ITAA 1997 contains rules which ensure that the general requirement under Division 974 of the ITAA 1997 that the debt and equity tests are applied to schemes at the time the scheme comes into existence does not prevent Division 974 applying where the scheme has changed in a material way.
 In particular subsection 974-110(1) of ITAA 1997 provides that if:
 
-
-
 (a)a scheme or schemes give rise to a debt interest (or an equity interest) in a company; and
 (b)the scheme, or one or more of the schemes, are subsequently changed; and
 (c)the scheme or schemes as they exist immediately after the change would give rise to an equity interest (or a debt interest) in the company if they came into existence when the change occurred;this Division applies after the change as if the scheme or schemes as they exist immediately after the change came into existence when the change occurred.
@@ -47,10 +39,10 @@ In particular subsection 974-110(1) of ITAA 1997 provides that if:
 The effect of section 974-110 of the ITAA 1997 is to put an imperative on the issuer to retest the instrument under Division 974 of the ITAA 1997 every time there is a change to an existing scheme to ensure it is not a material change that changes its classification under Division 974 from debt to equity or vice versa. The section can apply to an interest a number of times so that, for example, an interest that is debt when issued may change to equity because of one subsequent change and then back to debt because of a later change.
 This has the result that if at the end of the initial term the parties agree to extend the term of the loan, it will be necessary for the issuer to test the new arrangement to determine whether it is a debt or equity interest in accordance with Division 974 of the ITAA 1997.
 Date of decision:
-         21 June 2004
+  21 June 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -59,17 +51,16 @@ Income Tax Assessment Act 1997   section 974-110
 Keywords
 
 Debt equity borderline
-          Debt interest
-
+ Debt interest
 
 Siebel/TDMS Reference Number:
-         3905507
+  3905507
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         30 July 2004
+  30 July 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

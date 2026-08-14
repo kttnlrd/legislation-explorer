@@ -13,7 +13,7 @@ There are various tests for determining whether a PSB is being conducted (ITAA97
 
 *Refs: ITAA97 s 87-15)*
 
-- the “results” test is satisﬁed (¶30-665)
+- the "results" test is satisﬁed (¶30-665)
 
 - less than 80% of the PSI is from one source and any of 3 additional tests are satisﬁed (¶30-670),
 

@@ -7,7 +7,7 @@ paragraph: "¶37-000"
 ---
 # Introduction to stamp duty ¶37-000
 
-Stamp duty, or “duty” as it is now called in most jurisdictions, is a tax imposed by the states and territories on various transactions either at a ﬁxed rate or at an “ad valorem” rate on the value of the transaction.
+Stamp duty, or "duty" as it is now called in most jurisdictions, is a tax imposed by the states and territories on various transactions either at a ﬁxed rate or at an "ad valorem" rate on the value of the transaction.
 
 This chapter provides a general outline of the more important transactions on which stamp duty is imposed by the various states and territories. References are to the Duties Act 1997 (NSW) unless otherwise stated.
 

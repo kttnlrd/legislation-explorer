@@ -3,21 +3,16 @@ ATO ID 2001/133
 ==================================================
 
 Goods and Services Tax
-        GST and Stamp Duty
-        FOI status: may be released
-
+ GST and Stamp Duty
+ FOI status: may be released
 
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a hire company, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it hires out goods to a customer in exchange for a fee that includes an amount on-charged by the entity for stamp duty incurred in the course of making the supply?
@@ -30,8 +25,6 @@ The entity is registered for GST. The supply is made in the course or furtheranc
 Reasons for Decision:
 Under section 9-5 of the GST Act, an entity makes a taxable supply if:
 
-
-
 •the entity makes the supply for consideration; and
 •the supply is made in the course or furtherance of the entity's enterprise; and
 •the supply is connected with Australia; and
@@ -42,11 +35,10 @@ Paragraph 9-15(1)(a) of the GST Act provides that 'consideration' includes any p
 However, it is considered that taxes, fees and charges incurred by a supplier in the course of its enterprise are 'business costs'. When a supplier on-charges a business cost to its customers, the business cost loses its character as a tax, fee or charge for the purposes of the Determination. Therefore, in this case, when the entity on-charges the cost of stamp duty incurred to its customer, the customer is no longer paying stamp duty to a State government but rather they are paying for a business cost of the entity. As such, the payment by the entity's customer amounts to consideration under paragraph 9-15(1)(a) of the GST Act, because the payment does not come within the scope of subsection 81-5(2) of the GST Act. Therefore, the entity is making a supply for consideration under paragraph 9-5(a) of the GST Act.
 In this case, the entity is registered for GST and the supply meets the other positive limbs of section 9-5 of the GST Act. Furthermore, as the supply is neither GST-free under Division 38 of the GST Act, nor input taxed under Division 40 of the GST Act; the entity is making a taxable supply under section 9-5 of the GST Act.
 
-
 [Note: Under section 9-75 of the GST Act, the 'price' of a supply is the total amount payable for the supply which, in this case, includes the hiring charge and any amount on-charged for stamp duty incurred (whether or not identified separately on the invoice). Accordingly, the GST payable on the supply is 10% of the 'value' of the taxable supply which is calculated by multiplying the 'price' of the taxable supply (the total amount paid by the customer) by 10/11.]
 
 Date of decision:
-         6 June 2001
+  6 June 2001
 
 Legislative References:
 
@@ -63,24 +55,23 @@ Other References:
 Keywords
 
 Goods & services tax
-          GST free
-          GST miscellaneous
-          GST ministerial determinations
-          GST special rules
-          GST payment of taxes
-          GST supplies & acquisitions
-          GST consideration
-          Taxable supply
-
+ GST free
+ GST miscellaneous
+ GST ministerial determinations
+ GST special rules
+ GST payment of taxes
+ GST supplies & acquisitions
+ GST consideration
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CW199509
+  CW199509
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         1 August 2001
+  1 August 2001
 
 ISSN:
-          1445-2782
+ 1445-2782

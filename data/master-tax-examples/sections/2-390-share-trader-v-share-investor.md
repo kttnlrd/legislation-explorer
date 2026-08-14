@@ -9,7 +9,7 @@ paragraph: "None"
 
 Worked example: Share trader v share investor Issue Roberta Bateman asks you to assist in the preparation of her income tax return for the year ended 30 June 2025.
 
-During the year, Roberta bought and sold shares, utilising funds from her and her husband’s savings and a margin loan. She originally commenced her share transactions during the year ended 30 June 2023.
+During the year, Roberta bought and sold shares, utilising funds from her and her husband's savings and a margin loan. She originally commenced her share transactions during the year ended 30 June 2023.
 
 During the 2025 income year, Roberta made 32 purchases totalling $265,000 and 26 sales with a value of $210,000, making a loss of $45,000. She has heard from a friend that, if she is categorised as a share trader, she will be able to offset the loss against her other income for the year.
 
@@ -37,7 +37,7 @@ A share trader, that is, someone carrying on the business of dealing in shares, 
 
 Someone who buys and sells shares as part of a business treats those assets as trading stock, and gains on their disposal will be treated as ordinary income rather than capital gains.
 
-ITAA97 s 8-1 provides that “you can deduct from your assessable income any loss or outgoing to the extent that … it is necessarily incurred in carrying on a business for the purpose of gaining or producing your assessable income”. As such, this is a key advantage of running a business of share trading; if losses are made, they can then be offset against other income.
+ITAA97 s 8-1 provides that "you can deduct from your assessable income any loss or outgoing to the extent that … it is necessarily incurred in carrying on a business for the purpose of gaining or producing your assessable income". As such, this is a key advantage of running a business of share trading; if losses are made, they can then be offset against other income.
 
 For share investors, any losses will be on capital account which makes it difficult to get the full benefit since capital losses can only be offset against other capital gains arising either in the same year or a future year.
 
@@ -61,13 +61,13 @@ Based on the facts of this particular case, Roberta is not carrying on a busines
 
 Her activities are basic and lack sophistication, particularly as there is no demonstrated pattern of trading.
 
-While Roberta’s sole purpose is to generate a profit, this could be seen as a neutral factor because motivation for profit is consistent with both carrying on a business as a share trader and investing in shares.
+While Roberta's sole purpose is to generate a profit, this could be seen as a neutral factor because motivation for profit is consistent with both carrying on a business as a share trader and investing in shares.
 
-There is nothing complex in Roberta’s share transactions. She does not have any expertise in the share market, and her degree and employment are unrelated to it. She does, by her own admission, little research and spends only a few hours per week trading.
+There is nothing complex in Roberta's share transactions. She does not have any expertise in the share market, and her degree and employment are unrelated to it. She does, by her own admission, little research and spends only a few hours per week trading.
 
 In addition, there is no written business plan nor are the trading activities done systematically and regularly.
 
-The absence of a business plan could be seen as fatal — a business plan is a hallmark of the ATO’s broader concern that the activities be carried out in a “business-like” manner. Finally, the books and records have also not been maintained in a “business-like” manner.
+The absence of a business plan could be seen as fatal — a business plan is a hallmark of the ATO's broader concern that the activities be carried out in a "business-like" manner. Finally, the books and records have also not been maintained in a "business-like" manner.
 
 The use of a home office and computer equipment alone do not necessarily point to the taxpayer carrying on business as a share trader as the same facilities would have been necessary for share investment.
 

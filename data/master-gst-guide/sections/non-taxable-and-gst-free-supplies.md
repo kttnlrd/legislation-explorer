@@ -21,7 +21,7 @@ The Commonwealth Government itself is not liable for GST, but has a notional lia
 
 GST-free supplies If a supply is GST-free, this means that no GST is payable on it, but that the supplier is entitled to claim credits for the GST payable on its business inputs that relate to that supply (s 9-5; 11-15). For this reason, it is quite different from a supply which is outside the GST system altogether.
 
-Example A registered greengrocer’s business consists wholly of selling fresh food. The sale of that food is GST-free. GST therefore does not apply to the sale of the food, but the greengrocer can claim credits for the GST component of the goods and services it acquires in carrying on its business, for example, rent and equipment.
+Example A registered greengrocer's business consists wholly of selling fresh food. The sale of that food is GST-free. GST therefore does not apply to the sale of the food, but the greengrocer can claim credits for the GST component of the goods and services it acquires in carrying on its business, for example, rent and equipment.
 
 Note: If the greengrocer used some of those goods for private, non-business purposes, only a proportion of the input tax credit for GST on those goods would be allowed (¶5-010).
 

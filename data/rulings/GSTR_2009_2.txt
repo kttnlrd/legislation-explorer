@@ -4,46 +4,44 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 129
-  • Div 132
-  • Div 138
-  • Div 358
-  • Div 51
-  • Div 75
-  • Division 358
-  • Division 51
-  • Division 75
-  • Division 132
+ • Div 129
+ • Div 132
+ • Div 138
+ • Div 358
+ • Div 51
+ • Div 75
+ • Division 358
+ • Division 51
+ • Division 75
+ • Division 132
 
 Cases Referenced:
-  • Anor v. Chief Commissioner 
-  • Anor v. Coles Supermarkets Australia Pty Ltd 
-  • Archibald Howie Pty Ltd v. Commissioner 
-  • Bains v. Minist
-  • Bolton v. Puller
+ • Anor v. Chief Commissioner 
+ • Anor v. Coles Supermarkets Australia Pty Ltd 
+ • Archibald Howie Pty Ltd v. Commissioner 
+ • Bains v. Minist
+ • Bolton v. Puller
 (1796)
-  • Brady King Pty Ltd v. Commissioner 
-  • Croghan v. Grosvenor
+ • Brady King Pty Ltd v. Commissioner 
+ • Croghan v. Grosvenor
 (1991) 57 SASR 545
-  • In
+ • In
 Re Navakumar v. Commissioner 
-  • In
+ • In
 Tenure Pty Ltd v. Costala Pty Ltd 
-  • Nullagine Investments Pty Ltd v. Western Australian Club Inc
+ • Nullagine Investments Pty Ltd v. Western Australian Club Inc
 (1993) 177 CLR 635
-  • Re Hornsby Shire Council v. Commissioner 
-  • Re Navakumar v. Commissioner 
-  • Schnytzer v. Wielunski
+ • Re Hornsby Shire Council v. Commissioner 
+ • Re Navakumar v. Commissioner 
+ • Schnytzer v. Wielunski
 
-  • See
+ • See
 Archibald Howie Pty Ltd v. Commissioner 
-  • See
+ • See
 Nullagine Investments Pty Ltd v. Western Australian Club Inc
 (1993) 177 CLR 635
 
 Topics: CGT, GST, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -91,7 +89,7 @@ A public ruling is an expression of the Commissioner's opinion about the way in 
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
 [
 Note:
-This is a consolidated version of this document.  Refer to the Tax Office Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+This is a consolidated version of this document. Refer to the Tax Office Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling considers the goods and services tax (GST) consequences of the partitioning of
 real property
@@ -131,7 +129,7 @@ a transfer of an interest in land by trustees for partition appointed by a court
 the partition of property other than land or stratum units; or
 •
 a partition of land by a tax law partnership.
-4. This Ruling also does not affect the application of Goods and Services Tax Ruling GSTR 2003/6 Goods and services tax:  transfers of enterprise assets as a result of property distributions under the
+4. This Ruling also does not affect the application of Goods and Services Tax Ruling GSTR 2003/6 Goods and services tax: transfers of enterprise assets as a result of property distributions under the
 Family Law Act 1975
 or in similar circumstances, to situations that fall within the scope of that Ruling.
 5. Unless otherwise stated, all legislative references in this Ruling are to the
@@ -374,7 +372,7 @@ carried on by the co-owner and is a supply in the course or furtherance of the e
 Enterprise
 [42]
 59. The Commissioner recognises that in some cases practical difficulties may arise in determining whether the activities of the co-owners before, or as part of, a partition are an enterprise.
-60. In Miscellaneous Taxation Ruling MT 2006/1 The New Tax System:  the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number, the Commissioner sets out a list of factors to provide assistance in determining whether activities (including an isolated transaction) are an enterprise in the form of a business or an adventure or concern in the nature of trade.
+60. In Miscellaneous Taxation Ruling MT 2006/1 The New Tax System: the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number, the Commissioner sets out a list of factors to provide assistance in determining whether activities (including an isolated transaction) are an enterprise in the form of a business or an adventure or concern in the nature of trade.
 [43]
 The question is necessarily one of fact and degree. It requires a careful weighing of the various factors and exercising judgment in the light of decided case law and commercial experience.
 In the course or furtherance of an enterprise
@@ -408,7 +406,7 @@ The transfer by ConstructCo of its interest in units 1 to 4 to DevelopCo is conn
 .
 Supply not in the course or furtherance of an enterprise
 71. If the land was not applied in the enterprise carried on by the co-owners, the supply of the land is not in connection with the enterprise, and the supply would not be made in the course or furtherance of that enterprise. These circumstances will usually result from an application of the land for a purpose that is entirely separate from the activities of the enterprise carried on.
-72. However, a supply that has no discernible relationship and hence no connection, with an entity's enterprise cannot be a taxable supply even if the asset is applied by the entity in carrying on an enterprise.  The Commissioner expects that it would be exceptional for a supply of an asset that is applied in the supplier's enterprise not to have a connection with the enterprise. One example of this circumstance is identified in paragraph 42 of GSTR 2003/6.  Although such supplies are not in the course or furtherance of an enterprise, the co-owners making such supplies should consider whether an adjustment under Divisions 129 or 138 is required in respect of all acquisitions or importations that relate to the making of the supply.
+72. However, a supply that has no discernible relationship and hence no connection, with an entity's enterprise cannot be a taxable supply even if the asset is applied by the entity in carrying on an enterprise. The Commissioner expects that it would be exceptional for a supply of an asset that is applied in the supplier's enterprise not to have a connection with the enterprise. One example of this circumstance is identified in paragraph 42 of GSTR 2003/6. Although such supplies are not in the course or furtherance of an enterprise, the co-owners making such supplies should consider whether an adjustment under Divisions 129 or 138 is required in respect of all acquisitions or importations that relate to the making of the supply.
 Example 5 - Supply not in the course or furtherance of an enterprise
 73.
 Rohan runs his own profitable business as a personal trainer. In July 2003, he and his sister, Roma (who does not carry on an enterprise), purchased land as tenants in common in equal shares. Both Rohan and Roma use the land to carry out a primary production activity as a hobby
@@ -494,7 +492,7 @@ Johnson
 ).
 95. In that case, in considering the consequences of the division of jointly-owned shares between the owners for capital gains tax purposes, Senior Member McCabe said, at paragraphs 15 and 16:
 15. ... Dividing the parcel in two for the purposes of a transfer to each joint owner effectively requires those owners to relinquish ownership of the CGT assets in the shares in the other parcel in return for clear title to the shares in the parcel they are acquiring. It is as if the CGT assets contained in each share have to be unpacked and redistributed so that the taxpayer ends up holding half the number of shares in his or her own right- and those shares do not contain any CGT assets belonging to the other (former) joint owner.
-16. This rearrangement and reallocation of the ownership of CGT assets constitutes a disposition of the CGT asset, and is therefore a CGT event:  s 104-10. Subject to the legislation, tax is levied on the capital proceeds from a CGT event less the cost base of the asset. The capital proceeds are the sum of the money received in respect of the transaction (no money changed hands in this case) and the market value of any other property received (in this case, the market value of the interest acquired in the shares):  s 116-20.
+16. This rearrangement and reallocation of the ownership of CGT assets constitutes a disposition of the CGT asset, and is therefore a CGT event: s 104-10. Subject to the legislation, tax is levied on the capital proceeds from a CGT event less the cost base of the asset. The capital proceeds are the sum of the money received in respect of the transaction (no money changed hands in this case) and the market value of any other property received (in this case, the market value of the interest acquired in the shares): s 116-20.
 96. The Commissioner considers that, although the comments made by Senior Member McCabe in
 Johnson
 were in a different context, nevertheless they support the proposition that a supply of land under a partition is for consideration.
@@ -665,7 +663,7 @@ as a GST-free going concern or as GST-free farmland (subsection 75-11(5)); or
 from an associate (subsections 75-11(6)
 [85]
 and 75-11(7)).
-141. The application of these subsections may arise in the context of supplies of land under a partition between co-owners. For a general discussion of the application of subsections 75-11(1) to 75-11(4) and 75-11(7) please refer to GSTR 2006/7 and GSTR 2006/8. For a discussion on the application of subsections 75-11(6) and 75-11(7) please refer to Goods and Services Tax Ruling GSTR 2009/1 Goods and services tax:  general law partnerships and the margin scheme.
+141. The application of these subsections may arise in the context of supplies of land under a partition between co-owners. For a general discussion of the application of subsections 75-11(1) to 75-11(4) and 75-11(7) please refer to GSTR 2006/7 and GSTR 2006/8. For a discussion on the application of subsections 75-11(6) and 75-11(7) please refer to Goods and Services Tax Ruling GSTR 2009/1 Goods and services tax: general law partnerships and the margin scheme.
 142. All of the above discussion and examples apply equally where a court orders the co-owners to effect a partition.
 Are co-owners required to issue tax invoices for taxable supplies of land made under a partition?
 143. If the taxable supply of the land is not solely a supply under the margin scheme, or the margin scheme is not applied to the supply, a co-owner will be required to issue a tax invoice for the supply within 28 days after a request by the co-owner acquiring the land.
@@ -771,7 +769,7 @@ Can a participant in a joint venture apply the margin scheme to a taxable supply
 Partitions and Sale of New Residential Premises
 171. A sale of land comprised of residential premises may be input taxed under section 40-65 to the extent the residential premises are to be used predominantly for residential accommodation. However, under paragraph 40-65(2)(b), the sale is not input taxed if the premises are new residential premises as defined in section 40-75.
 Co-owners and Joint Ventures
-172. In line with the Commissioner's views in Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax:  when is a sale of real property a sale of new residential premises?, if the land comprises newly constructed residential premises, the supply under a partition between co-owners, or participants in a joint venture, of their interest in the land, would constitute the first sale of new residential premises but only to the extent of the interest supplied by one co-owner or participant to the other.
+172. In line with the Commissioner's views in Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax: when is a sale of real property a sale of new residential premises?, if the land comprises newly constructed residential premises, the supply under a partition between co-owners, or participants in a joint venture, of their interest in the land, would constitute the first sale of new residential premises but only to the extent of the interest supplied by one co-owner or participant to the other.
 173. GSTR 2003/3 discusses the application of section 40-65. It provides that a supply of an interest in real property that comprises residential premises by a tenant in common satisfies the definition of 'residential premises' in section 195-1 because the interest supplied is in respect of premises that is intended to be occupied and are capable of being occupied, as a residence or for residential accommodation.
 [108]
 Accordingly, a co-owner's or a joint venture participant's sale, by way of partition, of an interest in land comprising newly constructed residential premises is a sale of new residential premises to the extent of the interest supplied.
@@ -1064,7 +1062,7 @@ Subsection 51-30(2).
 [31]
 The partition of land in the context of a general law partnership is addressed at paragraphs 145 to 160 of this Ruling. A partition of land is also addressed in the context of a joint venture at paragraphs 161 to 170 of this Ruling.
 [32]
-The Commissioner's view on the meaning of supply is set out in Goods and Services Tax Ruling GSTR 2006/9 Goods and services tax:  supplies.
+The Commissioner's view on the meaning of supply is set out in Goods and Services Tax Ruling GSTR 2006/9 Goods and services tax: supplies.
 [33]
 This Ruling does not consider a court ordered partition involving the appointment of trustees for partition.
 [34]
@@ -1080,7 +1078,7 @@ Commissioner of Taxation v. MBI Properties Pty Ltd
 [38]
 [2001] FMCAfam 194.
 [39]
-This discussion illustrates the making of a supply under a partition. It does not effect the application of Goods and Services Tax Ruling GSTR 2003/6 Goods and services tax:  transfers of enterprise assets as a result of property distributions under the Family Law Act 1975 or in similar circumstances to situations that fall within the scope of that Ruling.
+This discussion illustrates the making of a supply under a partition. It does not effect the application of Goods and Services Tax Ruling GSTR 2003/6 Goods and services tax: transfers of enterprise assets as a result of property distributions under the Family Law Act 1975 or in similar circumstances to situations that fall within the scope of that Ruling.
 [40]
 [1978] VR 418 at 430.
 [41]
@@ -1112,7 +1110,7 @@ See paragraphs 271 to 302 of MT 2006/1 for further examples of when an entity 
 [51]
 Subsection 9-15(2).
 [52]
-See paragraph 68 of Goods and Services Tax Ruling GSTR 2001/6 Goods and services tax:  non-monetary consideration; paragraph 33 of Goods and Services Tax Ruling GSTR 2002/3 Goods and services tax:  prizes; paragraph 28 of GSTR 2003/6.
+See paragraph 68 of Goods and Services Tax Ruling GSTR 2001/6 Goods and services tax: non-monetary consideration; paragraph 33 of Goods and Services Tax Ruling GSTR 2002/3 Goods and services tax: prizes; paragraph 28 of GSTR 2003/6.
 [53]
 See paragraph 72 of GSTR 2001/6; paragraph 33 of GSTR 2002/3; paragraph 28 of GSTR 2003/6.
 [54]
@@ -1132,7 +1130,7 @@ See paragraph 12 of GSTR 2001/6.
 [60]
 See paragraphs 138 to 158 of GSTR 2001/6 for an explanation of the reasonable methods for determining the GST inclusive market value of non-monetary consideration. See also paragraphs 159 to 165 of GSTR 2001/6 for guidance as to the time when the GST inclusive market value of non-monetary consideration is worked out.
 [61]
-See paragraphs 41 to 43 of Goods and Services Tax Ruling GSTR 2006/8 Goods and services tax:  the margin scheme for supplies of real property acquired on or after 1 July 2000.
+See paragraphs 41 to 43 of Goods and Services Tax Ruling GSTR 2006/8 Goods and services tax: the margin scheme for supplies of real property acquired on or after 1 July 2000.
 [62]
 The Macquarie Dictionary,
 1998, 3rd edn, The Macquarie Library Pty Ltd, NSW.
@@ -1147,13 +1145,13 @@ See
 Halsbury's Law of England,
 1983, vol. 41, 4th edn, Butterworths, London, paragraph 601 and Benjamin, JP,
 Sale of Goods,
-4th Ed, Sweet & Maxwell, London, 1992, at 1-034. See also paragraph 20 of Goods and Services Tax Ruling GSTR 2004/8 Goods and services tax:  when does an entity have a decreasing adjustment under Division 132?
+4th Ed, Sweet & Maxwell, London, 1992, at 1-034. See also paragraph 20 of Goods and Services Tax Ruling GSTR 2004/8 Goods and services tax: when does an entity have a decreasing adjustment under Division 132?
 [66]
 Subsection 9-75(1).
 [67]
 A grant of a long-term lease of real property is not a supply by way of sale but is a supply to which the margin scheme may apply: see paragraph 75-5(1)(c). In the context of the GST Act a long-term lease is to be treated consistently with a sale of real property: see paragraph 5.166 of the Explanatory Memorandum to the
 A New Tax System (Goods and Services Tax) Bill 1998.
-See also paragraph 18 of Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax:  when is a sale of real property a sale of new residential premises?
+See also paragraph 18 of Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax: when is a sale of real property a sale of new residential premises?
 [68]
 See GSTR 2006/7 at paragraph 59 and GSTR 2006/8 at paragraph 47.
 [69]
@@ -1203,7 +1201,7 @@ Section 75-30.
 [88]
 This Ruling does not consider the GST treatment of a partition of land by a tax law partnership.
 [89]
-The Commissioner's views on the application of the GST laws to general law partnerships are set out in Goods and Services Tax Ruling GSTR 2003/13 Goods and services tax:  general law partnerships.
+The Commissioner's views on the application of the GST laws to general law partnerships are set out in Goods and Services Tax Ruling GSTR 2003/13 Goods and services tax: general law partnerships.
 [90]
 In determining whether land has become partnership property it is necessary to look at the intentions of the partners. This involves an examination of the partnership agreement and any relevant conduct of the partners.
 [91]
@@ -1238,7 +1236,7 @@ See Ed RC I'Anson Banks, '
 Lindley & Banks on Partnership',
 18th Edition, Sweet & Maxwell, at paragraph 35-30 at page 937.
 [101]
-See the Commissioner's views set out at paragraph 85A of GSTR 2003/13 and paragraph 19 of Goods and Services Tax Ruling GSTR 2009/1 Goods and services tax:  general law partnerships and the margin scheme.
+See the Commissioner's views set out at paragraph 85A of GSTR 2003/13 and paragraph 19 of Goods and Services Tax Ruling GSTR 2009/1 Goods and services tax: general law partnerships and the margin scheme.
 [102]
 See paragraphs 85A to 86 and paragraph 135 and paragraphs 135A to 135G of GSTR 2003/13 for an explanation of the consideration for an
 in specie
@@ -1248,7 +1246,7 @@ See the Commissioner's views set out at paragraphs 85A and 131 to 135 of GSTR 
 [104]
 For the Commissioner's view on the application of the margin scheme to general law partnerships see GSTR 2009/1.
 [105]
-The Commissioner's views on the application of the GST laws to joint ventures are set out in Goods and Services Tax Ruling GSTR 2004/2 Goods and services tax:  What is a joint venture for GST purposes?; Goods and Services Tax Determination GSTD 2004/2 Goods and services tax:  are all supplies made by the entity nominated as the joint venture operator to entities that are participants in the GST joint venture to be treated as if they are not taxable supplies?; Goods and Services Tax Ruling GSTR 2004/3 Goods and services tax:  arrangements of the kind described in Taxpayer Alert TA 2004/2:  Avoidance of GST on the sale of new residential premises.
+The Commissioner's views on the application of the GST laws to joint ventures are set out in Goods and Services Tax Ruling GSTR 2004/2 Goods and services tax: What is a joint venture for GST purposes?; Goods and Services Tax Determination GSTD 2004/2 Goods and services tax: are all supplies made by the entity nominated as the joint venture operator to entities that are participants in the GST joint venture to be treated as if they are not taxable supplies?; Goods and Services Tax Ruling GSTR 2004/3 Goods and services tax: arrangements of the kind described in Taxpayer Alert TA 2004/2: Avoidance of GST on the sale of new residential premises.
 [106]
 For an explanation of the consideration for the transfer of the land and how to determine the value of this consideration refer to paragraphs 86 to 98 of this Ruling.
 [107]
@@ -1270,7 +1268,7 @@ If all the requirements of section 9-5 are satisfied.
 GSTR 2008/D3
 References
 ATO references:
-NO  2007/16976
+NO 2007/16976
 ISSN: 1443-5160
 Related Rulings/Determinations:
 GSTR 2001/6

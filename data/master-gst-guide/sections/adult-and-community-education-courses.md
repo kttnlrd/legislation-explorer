@@ -15,9 +15,9 @@ Adult and community education (ACE) courses are GST-free (s 38-85), provided the
 
   right to on-sell an ACE course to students unless that party is itself a recognised course provider.
 
-- The course must be available to “adults in the general community”. In this particular context, the
+- The course must be available to "adults in the general community". In this particular context, the
 
-ATO apparently accepts that “adult” includes a person aged 15 years or more who is not in full- time education (Interpretative Decision ID 2004/2). The fact that a course is widely advertised and is available on a first-come first-served basis may indicate that it is available for persons in the general community. The exemption has been held to apply to a course provided to “women over 18 years” (Interpretative Decision ID 2003/1013) or unemployed non-students aged 15–17 years (Interpretative Decision ID 2004/2), but not a course limited to selected non-residents with tertiary qualifications (Interpretative Decision ID 2003/1097).
+ATO apparently accepts that "adult" includes a person aged 15 years or more who is not in full- time education (Interpretative Decision ID 2004/2). The fact that a course is widely advertised and is available on a first-come first-served basis may indicate that it is available for persons in the general community. The exemption has been held to apply to a course provided to "women over 18 years" (Interpretative Decision ID 2003/1013) or unemployed non-students aged 15–17 years (Interpretative Decision ID 2004/2), but not a course limited to selected non-residents with tertiary qualifications (Interpretative Decision ID 2003/1097).
 
 - The course must not consist of private tuition, and must not be provided or arranged by employers for
 

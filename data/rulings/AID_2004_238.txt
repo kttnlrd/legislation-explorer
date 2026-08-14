@@ -3,18 +3,14 @@ ATO ID 2004/238
 ==================================================
 
 Income Tax
-        Income Tax: Consolidation - tax cost setting amounts and elements of cost base and reduced cost base for capital gains tax purposes
-        FOI status: may be released
-
-
+ Income Tax: Consolidation - tax cost setting amounts and elements of cost base and reduced cost base for capital gains tax purposes
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does the tax cost setting amount for each asset subject to the cost base and reduced cost base modification in subsection 701-55(5) of the Income Tax Assessment Act 1997 (ITAA 1997) become the first element of the cost base and reduced cost base for the asset when it becomes an asset of the taxpayer, the head company of a consolidated group, because subsection 701-1(1) of the ITAA 1997 applies?
@@ -24,13 +20,11 @@ Facts
 Head Co capitalised Subsidiary Co for $300,000 in August 2001.
 Sub Co immediately bought:
 
-
 land for $150,000, incurring $10,000 on non-deductible incidental costs and $20,000 on capital improvements;a depreciating asset for $20,000; andan option to purchase another piece of land for $100,000.
 
 At the end of Subsidiary Co's first income year the depreciating asset gave rise to a deduction of $8,000. Subsidiary Co did not earn any income during this period resulting in a tax loss of $8,000 for the first income year.
 Head Co and Subsidiary Co formed a consolidated group on 1 July 2002.
 The market values of Sub Co's assets at that date were:
-
 
 land $170,000;depreciating asset $12,000; andoption $100,000.
 
@@ -42,7 +36,6 @@ In deciding how to apply the provision, guidance may be obtained from other exis
 In the context of indexation, subsection 114-15(3) of the ITAA 1997 provides that where a cost base modification reduces the total cost base of a CGT asset, the reduced amount forms a new first element of the cost base, and is later indexed as if expenditure equal to that amount had been incurred in the quarter in which the modification occurred.
 Similarly, where:
 
-
 a replacement asset roll-over happens to an asset acquired after 19 September 1985 - the cost base or reduced cost base of the original asset becomes the first element of the cost base or reduced cost base (respectively) of the replacement asset (for example, subsection 124-10(3) of the ITAA 1997)a same asset roll-over happens to an asset acquired after 19 September 1985 - the cost base or reduced cost base of the asset becomes the first element of its cost base or reduced cost base (respectively) in the hands of the transferee (for example, subsection 126-5(5) of the ITAA 1997), andan asset acquired after 19 September 1985 passes to a deceased person's legal personal representative or a beneficiary in their estate, the cost base or reduced base of the asset on the day the deceased person died becomes the first element of the cost base or reduced cost base (respectively) of the asset in the hands of the legal personal representative or beneficiary (subsection 128-15(4) of the ITAA 1997).
 
 An increase or reduction under subsection 701-55(5) of the ITAA 1997 should result in a similar outcome. That is, the tax cost setting amount for the asset replaces the total existing cost base and reduced cost base, and becomes the new first element of the asset's cost base and reduced cost base at the time the asset becomes that of the head company because subsection 701-1(1) of the ITAA 1997 applies. In instances where the tax cost setting amount for an asset equals its cost base or reduced cost base, the tax cost setting amount becomes the new first element of the cost base and reduced cost base of the asset for the head company.
@@ -51,10 +44,10 @@ The tax cost setting amount for the land is $176,296. Under subsection 701-55(5)
 The tax cost setting amount for the option is $103,704. Under subsection 701-55(5) of the ITAA 1997 this amount becomes the new first element of the cost base and reduced cost base of the option for Head Co.
 Accordingly, for each asset to which subsection 701-55(5) applies, the asset's tax cost setting amount becomes the first element of its cost base and reduced cost base for the taxpayer, as head company of the consolidated group, when it becomes the taxpayer's asset because subsection 701-1(1) of the ITAA 1997 applies.
 Date of decision:
-         8 March 2004
+  8 March 2004
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -63,26 +56,25 @@ Income Tax Assessment Act 1997   subsection 114-15(3)   subsection 124-10(
 Keywords
 
 Capital gains tax
-          CGT assets
-          CGT cost base
-          CGT cost base modification rules
-          CGT reduced cost base
-          Consolidation
-          Consolidation - assets
-          Consolidation - capital gains tax
-          Cost setting rules
-          Tax cost setting amount
-          Tax cost setting rules
-
+ CGT assets
+ CGT cost base
+ CGT cost base modification rules
+ CGT reduced cost base
+ Consolidation
+ Consolidation - assets
+ Consolidation - capital gains tax
+ Cost setting rules
+ Tax cost setting amount
+ Tax cost setting rules
 
 Siebel/TDMS Reference Number:
-         3954030
+  3954030
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         19 March 2004
+  19 March 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

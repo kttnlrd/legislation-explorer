@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (c) its centre of management is in New Zealand:
 
-- (d) its directors, in their capacity as directors, exercise control of the company in New Zealand, even if the directors’ decision-making also occurs outside New Zealand.
+- (d) its directors, in their capacity as directors, exercise control of the company in New Zealand, even if the directors' decision-making also occurs outside New Zealand.
 
 **Treatment of trustees**
 

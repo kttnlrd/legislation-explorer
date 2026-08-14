@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General statement**
 
-**(1)**  For an amount of a person’s attributed CFC net loss or FIF net loss to be carried forward to a tax year,—
+**(1)**  For an amount of a person's attributed CFC net loss or FIF net loss to be carried forward to a tax year,—
 
 - (a) the person, if a company, must meet the requirements of section IA 5(2) and (3) or IB 3(2) (which relate to the carrying forward of tax losses for companies); and
 

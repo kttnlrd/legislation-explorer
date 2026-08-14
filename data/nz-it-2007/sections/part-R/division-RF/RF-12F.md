@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the first income year in which a lender derives non-resident financial arrangement income under a financial arrangement. It increases the lender’s income by adding an amount that the lender would have derived if the financial arrangement had always given rise to non-resident financial arrangement income.
+**(1)**  This section applies for the first income year in which a lender derives non-resident financial arrangement income under a financial arrangement. It increases the lender's income by adding an amount that the lender would have derived if the financial arrangement had always given rise to non-resident financial arrangement income.
 
 **Formula**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
   - (i) starts on the date on which the borrower became party to the arrangement; and
 
-  - (ii) ends on the NRFAI due date for the borrower’s income year.
+  - (ii) ends on the NRFAI due date for the borrower's income year.
 
 *Defined in this Act: amount, financial arrangement, income, income year, interest, non-resident, non-resident financial arrangement income, NRFAI due date, NRWT, pay, related-party debt*
 

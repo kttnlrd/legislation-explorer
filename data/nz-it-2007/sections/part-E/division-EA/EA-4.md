@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
   - (i) the buyer assumes the obligation to pay an amount of employment income to the employee; and
 
-  - (ii) the consideration payable by the buyer for the business, or the part of the business, reflects the buyer’s assumption of the seller’s provision for the obligation.
+  - (ii) the consideration payable by the buyer for the business, or the part of the business, reflects the buyer's assumption of the seller's provision for the obligation.
 
 **Disposal of business: obligations transferred to associates**
 
@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 **(7)**  For the purposes of this section, the buyer of a business, or a part of a business, who assumes at the time of the disposal an obligation to pay an amount of employment income—
 
-- (a) may account for the amount in a way that treats the relevant employee individually or treats the buyer’s employees as a group; and
+- (a) may account for the amount in a way that treats the relevant employee individually or treats the buyer's employees as a group; and
 
 - (b) must account for the amount in the same way in each relevant income year.
 

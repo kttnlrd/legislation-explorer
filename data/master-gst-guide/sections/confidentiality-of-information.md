@@ -7,7 +7,7 @@ paragraph: "¶18-130"
 ---
 # Confidentiality of information ¶18-130
 
-Recording or disclosing information about the tax affairs of any particular taxpayer is an offence except in certain limited situations. This applies to taxation officers and others who acquire protected information (Administration Act, sch 1, Div 355). “Protected information” is information that:
+Recording or disclosing information about the tax affairs of any particular taxpayer is an offence except in certain limited situations. This applies to taxation officers and others who acquire protected information (Administration Act, sch 1, Div 355). "Protected information" is information that:
 
 - was disclosed or obtained under a taxation law, such as the GST Act
 
@@ -19,7 +19,7 @@ Recording or disclosing information about the tax affairs of any particular taxp
 
 A person who obtained protected information in the course of their duties as a taxation officer is prohibited from recording or disclosing it to anyone else, except where:
 
-- the record or disclosure is made in the course of performing the person’s duties as a taxation officer.
+- the record or disclosure is made in the course of performing the person's duties as a taxation officer.
 
 For example, this exception would permit the disclosure of information to the Australian Government Solicitor or the Director of Public Prosecutions for the purposes of tax recovery proceedings (Saunders v FC of T 88 ATC 4349) or for the purpose of prosecuting fraudulent taxation practices (DPP & Ors v Kinghorn 2020 ATC ¶20-737)
 
@@ -29,7 +29,7 @@ For example, this exception would permit the disclosure of information to the Au
 
   offence
 
-- the disclosure is made to the taxpayer itself, or to the taxpayer’s tax agent, BAS agent, lawyer,
+- the disclosure is made to the taxpayer itself, or to the taxpayer's tax agent, BAS agent, lawyer,
 
   liquidator, administrator, legal personal representative (eg executor), guardian or approved agent, or
 
@@ -41,7 +41,7 @@ For example, this exception would permit the disclosure of information to the Au
 
   355-25; 355-45 to 355-70).
 
-A “taxation officer” includes ATO employees and other public servants seconded to the ATO. Consultants and contractors engaged by the ATO are treated in the same way as ATO-employed officers (Administration Act, sch 1, s 355-30; 355-15).
+A "taxation officer" includes ATO employees and other public servants seconded to the ATO. Consultants and contractors engaged by the ATO are treated in the same way as ATO-employed officers (Administration Act, sch 1, s 355-30; 355-15).
 
 It is not a defence that the taxpayer consented to the recording or disclosure (Administration Act, sch 1, s 355-35).
 
@@ -51,7 +51,7 @@ Confidentiality rules for non-officers Persons who are not taxation officers may
 
 If they acquired the information in a lawful way, there will be no offence where:
 
-- the disclosure is made to the relevant taxpayer, or taxpayer’s agent
+- the disclosure is made to the relevant taxpayer, or taxpayer's agent
 
 - the disclosure is made to a court or tribunal
 
@@ -71,7 +71,7 @@ It is not a defence to show that the taxpayer consented to the recording or disc
 
 If the non-officer did not acquire the information in a lawful way, there will be no offence where:
 
-- the disclosure is made to the relevant taxpayer, or taxpayer’s agent
+- the disclosure is made to the relevant taxpayer, or taxpayer's agent
 
 - the disclosure is made to a court or tribunal
 
@@ -85,7 +85,7 @@ If the non-officer did not acquire the information in a lawful way, there will b
 
   a taxation law (Administration Act, sch 1, s 355-265 to 355-280).
 
-Example Tom, an ATO officer, tells his friend Geoff about a named person’s GST return that he accessed at work. Geoff, in turn, gives the information to a newspaper. Tom has committed an offence by breaching the confidentiality rules for officers. Geoff has also committed an offence by breaching the confidentiality rules for non-officers.
+Example Tom, an ATO officer, tells his friend Geoff about a named person's GST return that he accessed at work. Geoff, in turn, gives the information to a newspaper. Tom has committed an offence by breaching the confidentiality rules for officers. Geoff has also committed an offence by breaching the confidentiality rules for non-officers.
 
 Penalties The maximum penalty for these offences is two years imprisonment. For individuals, a fine of up to 120 penalty units (¶18-000) may be imposed in addition, or in lieu.
 

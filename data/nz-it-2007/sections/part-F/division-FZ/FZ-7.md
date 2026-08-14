@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  This section applies for the purposes of sections FE 16 (Total group assets) and FE 18 (Measurement of debts and assets of worldwide group) and a person if—
 
-- (a) an asset of the person’s New Zealand group is damaged as a result of a Canterbury earthquake, as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
+- (a) an asset of the person's New Zealand group is damaged as a result of a Canterbury earthquake, as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
 
 - (b) the asset is impaired or derecognised, under generally accepted accounting practice as a result of the damage; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Optional treatment of insurance**
 
-**(2)**  The person may choose to include an amount of the insurance, corresponding to the amount of the impairment or the derecognised value of the asset, in the value of the total group assets of the person’s New Zealand group during the period—
+**(2)**  The person may choose to include an amount of the insurance, corresponding to the amount of the impairment or the derecognised value of the asset, in the value of the total group assets of the person's New Zealand group during the period—
 
 - (a) beginning with the impairment or derecognition of the asset; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Corresponding treatment for worldwide group**
 
-**(3)**  If a person includes an amount under subsection (2) in the value of the total group assets of the person’s New Zealand group for a period, the person must include the amount in the value of the total group assets of the person’s worldwide group for the period.
+**(3)**  If a person includes an amount under subsection (2) in the value of the total group assets of the person's New Zealand group for a period, the person must include the amount in the value of the total group assets of the person's worldwide group for the period.
 
 **Notice to Commissioner**
 

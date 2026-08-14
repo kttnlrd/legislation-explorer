@@ -3,18 +3,14 @@ ATO ID 2005/214
 ==================================================
 
 Income Tax
-        Consolidation: subsidiary member
-        FOI status: may be released
-
-
+ Consolidation: subsidiary member
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will the beneficial ownership timing rule set out in section 703-33 of the Income Tax Assessment Act 1997 (ITAA 1997) be prevented from applying where the seller and the buyer of shares in a company first became associates of one another at the 'transfer time'?
@@ -30,22 +26,20 @@ The number of shares that HCo issued to XCo was sufficient for HCo to commence t
 Reasons for Decision
 Section 703-33 of the ITAA 1997 is a provision which provides a timing overlay to section 703-30 of the ITAA 1997 in certain circumstances. One of the requirements which needs to be satisfied for the timing rule to apply is set out in paragraph 703-33(1)(d) of the ITAA 1997. This provision requires that:
 
-
-
 (d)the seller and the buyer were
-                not *associates
-                 of one another at any time during the period:
+ not *associates
+ of one another at any time during the period:
 (i)starting when the contract was entered into; and
 (ii)
 ending at the transfer time.
-                (Emphasis added)* denotes a term defined subsection 995-1(1) of the ITAA 1997
+ (Emphasis added)* denotes a term defined subsection 995-1(1) of the ITAA 1997
 
 Although HCo and XCo were associates of one another from the transfer time, they were not associates of one another during the period starting when the contract was entered into and ending at the transfer time.
 The requirement that the seller and buyer not be associates, as well as the requirement in paragraph 703-33(1)(c) of the ITAA 1997 that they deal with each other at arms length in relation to the contract, is a limitation to protect against collusion. In this regard paragraph 12.18 of the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures Bill (No. 2) 2002 (EM) states:
 
 Further, the timing rule will only apply to dealings at arm's length between parties that are not associates. This limitation
-              protects against collusion between vendor and purchaser to effect a joining or leaving time
-               that is not in accordance with the true transfer of ownership for other purposes.
+ protects against collusion between vendor and purchaser to effect a joining or leaving time
+ that is not in accordance with the true transfer of ownership for other purposes.
 
 (Emphasis added)
 
@@ -55,10 +49,10 @@ Irrespective of the words of the EM it is evident from a reading of the provisio
 Accordingly, while XCo and HCo were associates of one another 'from' the transfer time they were not associates of one another 'during the period' starting when the contract was entered into and 'ending at the transfer time'.
 This being the case, the beneficial ownership timing rule will not be prevented from applying because the seller and the buyer of shares in a company are not associates of one another during the period referred to in paragraph 703-33(1)(d) of the ITAA 1997.
 Date of decision:
-         7 July 2005
+  7 July 2005
 
 Year of income:
-           Year ended 30 June 2003 Year ended 30 June 2004
+  Year ended 30 June 2003 Year ended 30 June 2004
 
 Legislative References:
 
@@ -76,25 +70,24 @@ Related ATO Interpretative Decisions
 Keywords
 
 Acquisition of shares
-          Associate
-          Consolidation
-          Consolidation - membership
-          Member of a group
-          Shares
-          Subsidiary member of a consolidatable group
-          Subsidiary member of a consolidated group
-          Wholly owned
-          Wholly owned subsidiary
-
+ Associate
+ Consolidation
+ Consolidation - membership
+ Member of a group
+ Shares
+ Subsidiary member of a consolidatable group
+ Subsidiary member of a consolidated group
+ Wholly owned
+ Wholly owned subsidiary
 
 Siebel/TDMS Reference Number:
-         4281418
+  4281418
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         29 July 2005
+  29 July 2005
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -3,18 +3,14 @@ ATO ID 2006/340
 ==================================================
 
 Goods and Services Tax
-        GST and whether a sublease of real property is a long-term lease
-        FOI status: may be released
-
-
+ GST and whether a sublease of real property is a long-term lease
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purposes of the definition of 'long term lease' in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), are the terms of a sublease substantially the same as those under which the supplier held the real property?
@@ -24,16 +20,12 @@ Facts
 The supplier is registered for goods and services tax (GST) and is not an Australian government agency.
 The supplier leases an area of real property (the head lease) from an Australian government agency. Under the terms of the head lease, the supplier:
 
-
-
 •holds the real property in perpetuity
 •is required to pay an annual fixed amount of lease rental, and
 •is entitled to use the real property for development and business purposes.
 
 Subsequent to entering into the head lease, the supplier constructed a block of residential units on the real property and granted subleases over the individual units to other parties.
 Under the terms of each sublease, the sublessee:
-
-
 
 •holds the unit for a period of 99 years with an option for a further 99 years
 •is required to pay an annual rental of a nominal sum plus an amount of contribution towards the operating costs incurred by the sublessor (that is, the supplier), and
@@ -42,14 +34,10 @@ Under the terms of each sublease, the sublessee:
 Reasons for Decision
 A 'long-term lease' is defined in section 195-1 of the GST Act as a supply by way of lease, hire or licence (including a renewal or extension of a lease, hire or licence) for at least 50 years if:
 
-
-
 (a)at the time of the lease, hire or licence, or the renewal or extension of the lease, hire or licence, it was reasonable to expect that it would continue for at least 50 years, and
 (b)unless the supplier is an Australian government agency - the terms of the lease, hire or licence, or the renewal or extension of the lease, hire or licence, as they apply to the recipient are substantially the same as those under which the supplier held the premises.
 
 Whether, for the purposes of paragraph b) of the definition, the terms of a sublease applying to the sublessee are substantially the same as those for the supplier under the head lease is a question of fact and degree in each particular case. Consideration needs to be given to matters such as:
-
-
 
 •the amount of rental payable and how it is worked out or is to be paid
 •the area of real property subject of the lease
@@ -59,7 +47,7 @@ Whether, for the purposes of paragraph b) of the definition, the terms of a subl
 A comparison of the sublease here with the head lease indicates the terms of each lease are not substantially the same. The amount of rental payable, the way it is worked out and paid, the area of property leased, and how the leased property can be used are all significantly different. While the period of occupancy for the head lease (in perpetuity) may be said to be substantially the same as the sublease (99 years with an option for further 99 years), all the other essential terms are not substantially the same.
 As the supplier is not an Australian government agency, and paragraph b) of the definition is not satisfied, the sublease is not a long term lease.
 Date of decision:
-         15 December 2006
+  15 December 2006
 
 Legislative References:
 
@@ -77,25 +65,24 @@ Related ATO Interpretative Decisions
 Keywords
 
 Agreements spanning 1 July 2000
-          Goods and services tax
-          GST input tax credits & creditable acquisitions
-          GST lease and real property
-          GST long term lease
-          GST property & construction
-          GST real property
-          GST residential premises
-          GST transitional issues
-          Time of supply/acquisition
-
+ Goods and services tax
+ GST input tax credits & creditable acquisitions
+ GST lease and real property
+ GST long term lease
+ GST property & construction
+ GST real property
+ GST residential premises
+ GST transitional issues
+ Time of supply/acquisition
 
 Siebel/TDMS Reference Number:
-         5457999
+  5457999
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         22 December 2006
+  22 December 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

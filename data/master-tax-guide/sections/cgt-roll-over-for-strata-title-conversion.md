@@ -9,13 +9,13 @@ paragraph: "¶12-320"
 
 - the taxpayer owns property that gives him/her a right to occupy a unit in a building
 
-- the building’s owner subdivides it into stratum units, and
+- the building's owner subdivides it into stratum units, and
 
 - the owner transfers to the taxpayer the stratum unit that corresponds to the unit the taxpayer had
 
   the right to occupy just before the subdivision.
 
-In such situations, the building’s owner is also entitled to a CGT exemption in relation to the disposal of the stratum units (¶11-670).
+In such situations, the building's owner is also entitled to a CGT exemption in relation to the disposal of the stratum units (¶11-670).
 
 A stratum unit is a lot or unit (however described in an Australian or foreign law relating to strata title or similar title) and any accompanying common property.
 

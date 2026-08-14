@@ -3,21 +3,16 @@ ATO ID 2006/330
 ==================================================
 
 Income Tax
-        Distribution Statements: allocation of franking credit to frankable distribution
-        FOI status: may be released
-
+ Distribution Statements: allocation of franking credit to frankable distribution
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can a public company issue a distribution statement under section 202-75 of the Income Tax Assessment Act 1997 (ITAA 1997) after a frankable distribution is paid?
@@ -31,7 +26,7 @@ Company A later discovered that the security is in fact an equity interest pursu
 Reasons for Decision
 Section 202-5 of the ITAA 1997 sets out when and how an entity franks a distribution. Under paragraph 202-5(c) of the ITAA 1997 the entity must allocate a franking credit to the distribution. Furthermore, under sub-section 202-75(2) of the ITAA 1997 a public company is required to provide distribution statements on or before the day on which it makes the distribution. The combined effect of paragraph 202-5(c) and subsection 202-75(2) of the ITAA 1997 suggests that a public company is required to determine the extent to which it intends franking a distribution prior to making the distribution.
 Subsections 202-75(4) and 202-75(5) of the ITAA 1997 allow a private company to retrospectively frank a distribution. This concession, however, has not been made to an entity other than a private company and therefore, clearly establishes the legislative intent to prevent a public company from deferring the time of issuing a distribution statement as a mechanism to retrospectively frank.
-Consequently,  a public company is required to determine the extent to which it intends franking a distribution prior to making the distribution. The distribution statement itself merely provides documentary evidence of the decision to allocate franking credits. The distribution statement cannot alter the amount of franking credits the company actually decided to allocate to the distribution. Therefore, a failure to allocate a franking credit to the distribution on or before the distribution is made, and in the absence of sufficient evidence to prove otherwise, means that the distribution is unfranked.
+Consequently, a public company is required to determine the extent to which it intends franking a distribution prior to making the distribution. The distribution statement itself merely provides documentary evidence of the decision to allocate franking credits. The distribution statement cannot alter the amount of franking credits the company actually decided to allocate to the distribution. Therefore, a failure to allocate a franking credit to the distribution on or before the distribution is made, and in the absence of sufficient evidence to prove otherwise, means that the distribution is unfranked.
 In this case, Company A did not allocate any franking credits prior to making the distribution because the distribution was not thought to be a frankable distribution at the time it was made. In a technical sense the company had allocated zero franking credits to the frankable distribution. Company A may issue a distribution statement evidencing the amount of franking credits actually attached to the distribution. Given that no decision was made to allocate franking credits to the distribution, the distribution statement must reflect a franking percentage of zero.
 The distribution statement must comply with the requirements of section 202-80 of the ITAA 1997.
 If an entity does not provide the recipients of the distribution with a distribution statement on or before the date of the distribution, it may be guilty of an offence under section 8C of the Taxation Administration Act 1953.
@@ -64,10 +59,10 @@ Insert second last paragraph to state the requirement of section 202-80
 Insert last paragraph on section 8C of the TAA
 
 Date of decision:
-         9 November 2006
+  9 November 2006
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -82,36 +77,32 @@ Related ATO Interpretative Decisions
 Keywords
 
 Distributions
-          Franking credits
-          Imputation system
-          Unfranked dividends
-
+ Franking credits
+ Imputation system
+ Unfranked dividends
 
 Siebel/TDMS Reference Number:
-         5514808; 1-CV9QK1O
+  5514808; 1-CV9QK1O
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         15 December 2006
+  15 December 2006
 
 Date reviewed:
-         6 February 2018
+  6 February 2018
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  9 November 2006

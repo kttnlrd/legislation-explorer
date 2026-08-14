@@ -11,7 +11,7 @@ Special rules deal with the transitional issues that arise when a tax-exempt ent
 
 As a result, income derived or expenditure incurred during the post-exemption period in respect of services rendered or goods supplied during the exemption period is treated as having been derived or incurred during the exemption period. Correspondingly, income derived or expenditure incurred during the exemption period in respect of services rendered or goods supplied during the post-exemption period is treated as having been derived during the post-exemption period. In addition, the rules:
 
-- value the entity’s assets and liabilities at their adjusted market value as at the date of transition
+- value the entity's assets and liabilities at their adjusted market value as at the date of transition
 
 (ie market value less income received or receivable at or after that time that is not included in assessable income, plus income received or receivable before that time that is so included)
 

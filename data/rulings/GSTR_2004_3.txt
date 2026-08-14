@@ -4,22 +4,20 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 165
-  • Div 358
-  • Div 51
-  • Div 72
-  • Division 165
-  • Division 358
-  • Division 51
-  • Division 72
+ • Div 165
+ • Div 358
+ • Div 51
+ • Div 72
+ • Division 165
+ • Division 358
+ • Division 51
+ • Division 72
 
 Cases Referenced:
-  • Insurance Ltd v Bankstown Football Club
+ • Insurance Ltd v Bankstown Football Club
 (1997) 187 CLR 384
 
 Topics: GST, Trusts, Companies
-
-
 
 ================================================================================
 
@@ -34,7 +32,7 @@ Back to browse
 37 related documents
 Goods and Services Tax Ruling
 GSTR 2004/3
-Goods and services tax:  arrangements of the kind described in Taxpayer Alert TA 2004/2:
+Goods and services tax: arrangements of the kind described in Taxpayer Alert TA 2004/2:
 Avoidance of GST on the sale of new residential premises
 Please note that the
 PDF version
@@ -80,7 +78,7 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling provides the Commissioner's view in relation to arrangements referred to in Taxpayer Alert 2004/2:
 Avoidance of Goods and Services Tax (GST) on the sale of new residential premises.
@@ -95,13 +93,13 @@ Date of effect
 3. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
 4. [Omitted.]
 Background
-5. Taxpayer Alert TA 2004/2 ('the Alert') was issued on 8 January 2004.  It describes arrangements using Division 51
+5. Taxpayer Alert TA 2004/2 ('the Alert') was issued on 8 January 2004. It describes arrangements using Division 51
 [F1]
 of the GST Act to attempt to avoid GST on the supply of new residential premises.
-6. The parties to such arrangements purportedly form a joint venture for the construction and sale of residential premises.  The entity nominated as the joint venture operator ('the joint venture operator') purports to sell the completed premises to a participant in the 'joint venture'.
+6. The parties to such arrangements purportedly form a joint venture for the construction and sale of residential premises. The entity nominated as the joint venture operator ('the joint venture operator') purports to sell the completed premises to a participant in the 'joint venture'.
 7. It is argued that the sale of the premises by the joint venture operator to the participant is not a taxable supply because of subsection 51-30(2).
 [F2]
-8. It is also argued that, following the sale by the joint venture operator to the participant, the premises are no longer 'new residential premises'.  On this basis, the subsequent supply of the residential premises to third parties is claimed to be input taxed.
+8. It is also argued that, following the sale by the joint venture operator to the participant, the premises are no longer 'new residential premises'. On this basis, the subsequent supply of the residential premises to third parties is claimed to be input taxed.
 [F3]
 Features of the arrangements
 9. The Tax Office has now examined the arrangements, which exhibit some or all of the following features:
@@ -117,19 +115,19 @@ One of the entities is nominated as the GST joint venture operator;
 (e)
 The joint venture operator owns or acquires land and engages a construction company, which may be an associate, to construct residential premises on the land;
 (f)
-The joint venture operator purports to sell the completed residential premises to a participant in the arrangement.  In this regard, legal title to the premises is transferred from the joint venture operator and a monetary consideration is paid by the participant to the joint venture operator.  This supply is said to be not a taxable supply by virtue of subsection 51-30(2) of the GST Act;
+The joint venture operator purports to sell the completed residential premises to a participant in the arrangement. In this regard, legal title to the premises is transferred from the joint venture operator and a monetary consideration is paid by the participant to the joint venture operator. This supply is said to be not a taxable supply by virtue of subsection 51-30(2) of the GST Act;
 (g)
-The participant that acquires the premises from the joint venture operator sells the premises to third parties, and treats the sales as input taxed for GST purposes.  Having previously been sold by the joint venture operator to the participant, the premises are claimed to no longer be 'new residential premises';
+The participant that acquires the premises from the joint venture operator sells the premises to third parties, and treats the sales as input taxed for GST purposes. Having previously been sold by the joint venture operator to the participant, the premises are claimed to no longer be 'new residential premises';
 [F4]
 (h)
 Notwithstanding that supplies of the premises by the participant to third parties are treated as being input taxed, input tax credits in respect of construction and other costs are claimed; and
 (i)
-The proceeds of the sale of the residential premises to third parties are distributed amongst the participants in the arrangement.  This is achieved in part by the participant that sells to third parties paying a purchase price for the premises to the entity nominated as the joint venture operator, as consideration for its acquisition of the premises from that entity.
+The proceeds of the sale of the residential premises to third parties are distributed amongst the participants in the arrangement. This is achieved in part by the participant that sells to third parties paying a purchase price for the premises to the entity nominated as the joint venture operator, as consideration for its acquisition of the premises from that entity.
 Our view on these arrangements is set out in this Ruling.
 Legislative context
 10. Subsection 51-5(1) provides that the Commissioner must approve two or more entities as the participants in a GST joint venture
 [F5]
-if certain requirements are satisfied.  These include a requirement that the application nominates one of those entities, or another entity, to be the joint venture operator of the joint venture (paragraph 51-5(1)(e)).
+if certain requirements are satisfied. These include a requirement that the application nominates one of those entities, or another entity, to be the joint venture operator of the joint venture (paragraph 51-5(1)(e)).
 [F5A]
 11. Subsection 51-30(1) provides that the GST payable on a taxable supply or taxable importation that the joint venture operator makes, on behalf of another entity that is a participant in the joint venture, in the course of the activities for which the joint venture was entered into:
 (a)
@@ -144,17 +142,17 @@ it is made to another entity that is a participant in the joint venture; and
 (b)
 the participant acquired the thing supplied for consumption, use or supply in the course of the activities for which the joint venture was entered into.
 [F7]
-13. Sales of real property may be input taxed under section 40-65 to the extent that the property is residential premises to be used predominantly for residential accommodation.  However, the sale is not input taxed if the premises are new residential premises (paragraph 40-65(2)(b)).  Accordingly, sales of new residential premises are taxable supplies if the requirements of section 9-5 are satisfied.
+13. Sales of real property may be input taxed under section 40-65 to the extent that the property is residential premises to be used predominantly for residential accommodation. However, the sale is not input taxed if the premises are new residential premises (paragraph 40-65(2)(b)). Accordingly, sales of new residential premises are taxable supplies if the requirements of section 9-5 are satisfied.
 14. Premises are 'new residential premises' if they have not previously been sold as residential premises.
 [F8]
 Ruling
 15. The sale of new residential premises by the entity nominated as the joint venture operator to a participant, under the arrangements of the type described in Taxpayer Alert TA 2004/2:
 Avoidance of Goods and Services Tax (GST) on the sale of new residential premises,
-is a taxable supply.  Subsection 51-30(2) does not apply to treat the sale of premises covered by these arrangements as not a taxable supply.
+is a taxable supply. Subsection 51-30(2) does not apply to treat the sale of premises covered by these arrangements as not a taxable supply.
 16. Depending on the circumstances of each case, Division 165 can apply to arrangements of the type described in Taxpayer Alert TA 2004/2.
 Explanation
 Subsection 51-30(2)
-17. There are two alternative elements to the Commissioner's view that subsection 51-30(2) does not apply to the sale by the entity nominated as the joint venture operator to a participant in the arrangements described at paragraph 9.  These can be summarised as:
+17. There are two alternative elements to the Commissioner's view that subsection 51-30(2) does not apply to the sale by the entity nominated as the joint venture operator to a participant in the arrangements described at paragraph 9. These can be summarised as:
 •
 The arrangement is not a joint venture for GST purposes; and
 •
@@ -165,75 +163,75 @@ A. Arrangement not a 'joint venture' for GST purposes
 [F8A]
 20. In relation to existing arrangements, the fact that the Commissioner may have approved as a GST joint venture
 [F8B]
-the participants in an arrangement represented to the Tax Office as being a joint venture does not override the specific requirements of subsection 51-30(2).  Subsection 51-30(2) cannot apply in these circumstances if the arrangement is not a joint venture.
+the participants in an arrangement represented to the Tax Office as being a joint venture does not override the specific requirements of subsection 51-30(2). Subsection 51-30(2) cannot apply in these circumstances if the arrangement is not a joint venture.
 21. For further details of the Commissioner's view in respect of the requirements for a joint venture for GST purposes, see Goods and Services Tax Ruling GSTR 2004/2
 [F9]
 which explains the requirements for a GST joint venture.
 B. Participant does not acquire the premises '...for consumption, use or supply in the course of the activities for which the joint venture was entered into'
 22. Subsection 51-5(1) provides that the Commissioner must approve two or more entities as the participants in a GST joint venture if certain requirements are satisfied
 [F9A]
-.  Paragraph 51-5(1)(a) includes the requirement that the joint venture is a joint venture for the exploration or exploitation of mineral deposits, or for a purpose specified in the regulations ('specified purpose').
+. Paragraph 51-5(1)(a) includes the requirement that the joint venture is a joint venture for the exploration or exploitation of mineral deposits, or for a purpose specified in the regulations ('specified purpose').
 23. Under paragraph 51-5.01(1)(f) of the A New Tax System (Goods and Services Tax) Regulations 1999, the 'design, or building, or maintenance, of residential or commercial premises' is a specified purpose.
 24. We consider that, in referring to the '...activities for which the joint venture was entered into', subsection 51-30(2) is referring to activities which are part of the specified purpose for which the joint venture was approved.
 [F9B]
-25. The parties may between themselves agree that other activities, such as the re-sale of the premises by the participant to third parties, are part of the activities for which the joint venture is entered into.  However, this does not have the effect of extending the operation of Division 51, including subsection 51-30(2), to activities which are not specified purposes.
-26. The resale of the premises by a participant is not part of the specified purpose of design, building or maintenance of residential or commercial premises.  It follows that subsection 51-30(2) does not apply to the sale of premises to the participant.
-27. Further, since it is, in the Commissioner's view, a requirement of a joint venture that the arrangement is entered into for the purpose of the participants obtaining a share of the product or output, the subsequent disposal of a participant's share of the product or output is not part of the activities of the joint venture.  In the context of joint ventures for the construction of premises, a participant's share of the output is a share of the premises, for example, a specified number of units in a home unit development.  Having obtained their share of the output, the participant's subsequent sale of the units is not part of the joint venture.  Put another way, each participant may sell, retain, rent out or otherwise deal with their share of the output of the joint venture.  It is unrealistic, in the Commissioner's view, to regard acquisitions for the purpose of those activities as acquisitions 'for consumption, use or supply in the course of activities for which the joint venture was entered into'.
-28. It follows that, if premises are sold to a participant for its own purpose of resale, the participant has not 'acquired the [premises] for consumption, use or supply in the course of the activities for which the joint venture was entered into' in terms of subsection 51-30(2).  The participant acquires the premises for its own purposes of resale which are separate from and not part of the activities for which the joint venture was entered into.
+25. The parties may between themselves agree that other activities, such as the re-sale of the premises by the participant to third parties, are part of the activities for which the joint venture is entered into. However, this does not have the effect of extending the operation of Division 51, including subsection 51-30(2), to activities which are not specified purposes.
+26. The resale of the premises by a participant is not part of the specified purpose of design, building or maintenance of residential or commercial premises. It follows that subsection 51-30(2) does not apply to the sale of premises to the participant.
+27. Further, since it is, in the Commissioner's view, a requirement of a joint venture that the arrangement is entered into for the purpose of the participants obtaining a share of the product or output, the subsequent disposal of a participant's share of the product or output is not part of the activities of the joint venture. In the context of joint ventures for the construction of premises, a participant's share of the output is a share of the premises, for example, a specified number of units in a home unit development. Having obtained their share of the output, the participant's subsequent sale of the units is not part of the joint venture. Put another way, each participant may sell, retain, rent out or otherwise deal with their share of the output of the joint venture. It is unrealistic, in the Commissioner's view, to regard acquisitions for the purpose of those activities as acquisitions 'for consumption, use or supply in the course of activities for which the joint venture was entered into'.
+28. It follows that, if premises are sold to a participant for its own purpose of resale, the participant has not 'acquired the [premises] for consumption, use or supply in the course of the activities for which the joint venture was entered into' in terms of subsection 51-30(2). The participant acquires the premises for its own purposes of resale which are separate from and not part of the activities for which the joint venture was entered into.
 29. Accordingly, it is the Commissioner's view that the sale of the premises by the entity nominated as the joint venture operator to the participant under these arrangements is a taxable supply if the requirements of section 9-5 are satisfied.
 Alternative view
 30. There is an alternative view that subsection 51-30(2)
 does
 treat the sale by the entity nominated as the joint venture operator to a participant as not a taxable supply.
-31. One basis for this alternative view is that obtaining of the output or product of a joint venture is a central feature of a joint venture.  Therefore, on this view, it must have been intended by the legislature that a supply for that purpose would not be subject to GST.
-32. In this regard, it is important to note that the Commissioner's view is not that the means by which a participant obtains its share of the product or output of a joint venture is a taxable supply.  Whether a taxable supply arises depends upon whether the requirements of section 9-5 are satisfied.
-33. It is not possible to make a definitive statement that will cover all possible joint venture arrangements.  The GST implications of each arrangement must necessarily depend on the facts in the particular case.  However, in many cases the requirements of section 9-5 would not be satisfied in respect of the arrangements by which a participant in a joint venture obtains its share of the product or output of the venture.
-34. For example, joint venture arrangements are common in the mining industry.  Each participant in a mining joint venture may own a share of the mining tenement.  Under the terms of a joint venture for mining, say, coal, each participant is entitled to a share of the coal extracted from the site by the joint venture operator on behalf of the participants.  In that case, having regard to the relevant facts in each case, it may be doubtful whether there would be a supply by the joint venture operator to the participants in respect of their shares of the coal.  Each participant is merely receiving their entitlement under the terms of the joint venture.  Any transfer of possession of one participant's share of the output by the joint venture operator to that participant may be made as agent for the participant.  In that case, there would be no supply for GST purposes.  In any case, if under the terms of the particular joint venture, there is no consideration for a supply or an insufficient nexus between any consideration and the supply, there is no taxable supply under the basic rules.
-35. Similarly, in a joint venture for the construction of residential premises each participant may receive a specified number of home units in a unit development as their share of the product or output of the joint venture.  In this case, if the legal title to the units is held by one of the participants, such as the joint venture operator, it may be necessary for the legal title to each unit to be transferred to the participant entitled to that unit under the terms of the joint venture.  However, if there is no consideration for the transfer of the title, there is no taxable supply in these circumstances.
+31. One basis for this alternative view is that obtaining of the output or product of a joint venture is a central feature of a joint venture. Therefore, on this view, it must have been intended by the legislature that a supply for that purpose would not be subject to GST.
+32. In this regard, it is important to note that the Commissioner's view is not that the means by which a participant obtains its share of the product or output of a joint venture is a taxable supply. Whether a taxable supply arises depends upon whether the requirements of section 9-5 are satisfied.
+33. It is not possible to make a definitive statement that will cover all possible joint venture arrangements. The GST implications of each arrangement must necessarily depend on the facts in the particular case. However, in many cases the requirements of section 9-5 would not be satisfied in respect of the arrangements by which a participant in a joint venture obtains its share of the product or output of the venture.
+34. For example, joint venture arrangements are common in the mining industry. Each participant in a mining joint venture may own a share of the mining tenement. Under the terms of a joint venture for mining, say, coal, each participant is entitled to a share of the coal extracted from the site by the joint venture operator on behalf of the participants. In that case, having regard to the relevant facts in each case, it may be doubtful whether there would be a supply by the joint venture operator to the participants in respect of their shares of the coal. Each participant is merely receiving their entitlement under the terms of the joint venture. Any transfer of possession of one participant's share of the output by the joint venture operator to that participant may be made as agent for the participant. In that case, there would be no supply for GST purposes. In any case, if under the terms of the particular joint venture, there is no consideration for a supply or an insufficient nexus between any consideration and the supply, there is no taxable supply under the basic rules.
+35. Similarly, in a joint venture for the construction of residential premises each participant may receive a specified number of home units in a unit development as their share of the product or output of the joint venture. In this case, if the legal title to the units is held by one of the participants, such as the joint venture operator, it may be necessary for the legal title to each unit to be transferred to the participant entitled to that unit under the terms of the joint venture. However, if there is no consideration for the transfer of the title, there is no taxable supply in these circumstances.
 [F10]
 Whether there is consideration is a question of fact to be determined having regard to the documentation and other relevant circumstances in each case.
 36. The second argument for the alternative view is that if the supply by the entity nominated as the joint venture operator to the participant under the arrangements is a taxable supply, this would leave subsection 51-30(2) with no operation, a result which cannot have been intended by the legislature.
-37. The Commissioner does not accept this argument as subsection 51-30(2) continues to have its intended operation on the Commissioner's interpretation of the provision.  For example, there is nothing in the Commissioner's view of the operation of subsection 51-30(2) that would prevent the subsection from treating the supply of services by the joint venture operator to the participants for the specified purpose of the joint venture, such as managing the joint venture operations or carrying out the joint venture operations on their behalf, as not taxable.  In that case, the participants acquire the services for 'consumption' or 'use' in the course of the joint venture activities.
+37. The Commissioner does not accept this argument as subsection 51-30(2) continues to have its intended operation on the Commissioner's interpretation of the provision. For example, there is nothing in the Commissioner's view of the operation of subsection 51-30(2) that would prevent the subsection from treating the supply of services by the joint venture operator to the participants for the specified purpose of the joint venture, such as managing the joint venture operations or carrying out the joint venture operations on their behalf, as not taxable. In that case, the participants acquire the services for 'consumption' or 'use' in the course of the joint venture activities.
 38. A further argument for the alternative view is that the supply by the entity nominated as the joint venture operator to the participant under the arrangements described in this Ruling
 does
-involve the participant acquiring the thing supplied 'in the course of activities for which the joint venture was entered into'.  Under this view, the purpose for which each participant enters into the arrangements is to obtain residential premises for sale.  Therefore, according to this view, when the participant acquires the premises for sale it does so in the course of the activities for which the joint venture was entered into.
-39. The Commissioner does not accept this argument.  Subsection 51-30(2) does not, in its terms, require consideration of the
+involve the participant acquiring the thing supplied 'in the course of activities for which the joint venture was entered into'. Under this view, the purpose for which each participant enters into the arrangements is to obtain residential premises for sale. Therefore, according to this view, when the participant acquires the premises for sale it does so in the course of the activities for which the joint venture was entered into.
+39. The Commissioner does not accept this argument. Subsection 51-30(2) does not, in its terms, require consideration of the
 purpose
-of the individual participants in entering into the activities.  Rather, it requires a focus upon the
+of the individual participants in entering into the activities. Rather, it requires a focus upon the
 activities
-for which the joint venture was entered into.  The Commissioner's view is that the relevant activities are those relating to the design, building or maintenance of the premises.  The subsequent sale of the premises may be the underlying purpose of the participants in entering into the joint venture, but it is not, in the Commissioner's view, the activities for which the arrangements are entered into.
-40. In summary, the Commissioner considers that subsection 51-30(2) was not intended to operate in the circumstances described in Taxpayer Alert TA 2004/2 and as set out in this Ruling.  In those circumstances, there is a supply for consideration which is a taxable supply as the requirements in section 9-5 are satisfied.
+for which the joint venture was entered into. The Commissioner's view is that the relevant activities are those relating to the design, building or maintenance of the premises. The subsequent sale of the premises may be the underlying purpose of the participants in entering into the joint venture, but it is not, in the Commissioner's view, the activities for which the arrangements are entered into.
+40. In summary, the Commissioner considers that subsection 51-30(2) was not intended to operate in the circumstances described in Taxpayer Alert TA 2004/2 and as set out in this Ruling. In those circumstances, there is a supply for consideration which is a taxable supply as the requirements in section 9-5 are satisfied.
 New residential premises
-41. If, contrary to our view, the supply by the joint venture operator to the participant under these arrangements is covered by subsection 51-30(2), it does not follow that the subsequent sale by the participant to a third party is input taxed.  We consider that it is improbable that it was ever intended that a supply of that kind would be regarded as a previous sale for the purposes of the definition of 'new residential premises'.  That would be inconsistent with the evident policy of the legislation that new residential premises first sold after the introduction of GST should bear GST.  We consider that a Court would prefer a construction of the words 'previously sold as residential premises' that did not lead to that improbable outcome.
+41. If, contrary to our view, the supply by the joint venture operator to the participant under these arrangements is covered by subsection 51-30(2), it does not follow that the subsequent sale by the participant to a third party is input taxed. We consider that it is improbable that it was ever intended that a supply of that kind would be regarded as a previous sale for the purposes of the definition of 'new residential premises'. That would be inconsistent with the evident policy of the legislation that new residential premises first sold after the introduction of GST should bear GST. We consider that a Court would prefer a construction of the words 'previously sold as residential premises' that did not lead to that improbable outcome.
 [F11]
 Division 165 (Anti-avoidance)
-42. In our view, the sale of the premises by the joint venture operator to a participant is a taxable supply for the reasons outlined above.  Therefore the arrangements do not give rise to a GST benefit in respect of the sale of the premises by the joint venture operator to a participant being treated as not a taxable supply.
-43. However, in the alternative, or additionally, consideration may be given to the application of the general anti-avoidance provisions of Division 165 if in the particular circumstances of a case the arrangements give rise to a GST benefit.  Under that Division, the Commissioner may negate the GST benefit an entity obtains from a scheme if the dominant purpose or principal effect of the scheme is to give an entity such a benefit.
-44. A GST benefit may arise if, contrary to the Commissioner's view, subsection 51-30(2) treats the supply of the premises by the joint venture operator to the participant for resale as not a taxable supply.  In that case, the benefit may arise as a consequence of the subsequent supply of the premises to a third party being input taxed.
+42. In our view, the sale of the premises by the joint venture operator to a participant is a taxable supply for the reasons outlined above. Therefore the arrangements do not give rise to a GST benefit in respect of the sale of the premises by the joint venture operator to a participant being treated as not a taxable supply.
+43. However, in the alternative, or additionally, consideration may be given to the application of the general anti-avoidance provisions of Division 165 if in the particular circumstances of a case the arrangements give rise to a GST benefit. Under that Division, the Commissioner may negate the GST benefit an entity obtains from a scheme if the dominant purpose or principal effect of the scheme is to give an entity such a benefit.
+44. A GST benefit may arise if, contrary to the Commissioner's view, subsection 51-30(2) treats the supply of the premises by the joint venture operator to the participant for resale as not a taxable supply. In that case, the benefit may arise as a consequence of the subsequent supply of the premises to a third party being input taxed.
 45. A GST benefit may also arise where, for instance, the supply by the entity nominated as the joint venture operator to the participant is for a consideration less than the consideration for the supply by the participant to the third party.
 46. Section 72-70 may apply if:
 •
 the entity nominated as the joint venture operator and the participant to whom the premises are sold are 'associates';
 •
-the participant does not acquire the premises solely for a creditable purpose.  The participant does not acquire the premises for a creditable purpose if it acquires the premises for making supplies that would be input taxed under section 40-35 (residential rent) or section 40-65 (supplies of residential premises that are not new residential premises); and
+the participant does not acquire the premises solely for a creditable purpose. The participant does not acquire the premises for a creditable purpose if it acquires the premises for making supplies that would be input taxed under section 40-35 (residential rent) or section 40-65 (supplies of residential premises that are not new residential premises); and
 •
 the consideration for the supply of the premises by the joint venture operator to the participant is less than their GST-inclusive market value.
-47. Where section 72-70 applies, the value on which GST is calculated under section 9-70 is the GST-exclusive market value.  In that case, depending on the particular circumstances, there may be no overall GST benefit from the arrangements.
-48. However, if GST is calculated under section 75-10 (margin scheme), section 72-70 does not apply, since the GST in that case is calculated by reference to the 'margin' rather than the 'value'.  Accordingly, if the entity nominated as the joint venture operator has chosen to calculate GST on the supply of the premises to the participant under the margin scheme, there may be a GST benefit.
+47. Where section 72-70 applies, the value on which GST is calculated under section 9-70 is the GST-exclusive market value. In that case, depending on the particular circumstances, there may be no overall GST benefit from the arrangements.
+48. However, if GST is calculated under section 75-10 (margin scheme), section 72-70 does not apply, since the GST in that case is calculated by reference to the 'margin' rather than the 'value'. Accordingly, if the entity nominated as the joint venture operator has chosen to calculate GST on the supply of the premises to the participant under the margin scheme, there may be a GST benefit.
 49. In considering whether a GST benefit has been obtained, the Commissioner will have regard to the amount of GST which would have been payable if the premises had been sold
 directly
-to the third party, in the same condition and at the same time as they were sold by the participant to the third party.  There may be a GST benefit if the amount of GST payable is less than the GST that would have been payable if the premises were sold directly to a third party without the intermediate sale to the participant who on-sells to the third party.
-50. This may be so even if the premises are sold by the entity nominated as the joint venture operator to the participant for their full market value at the time of that sale, if the consideration for the ultimate sale by the participant to the third party is a higher amount.  That might occur where additional value is added after the first sale or if the market value of the premises has increased.
-51. Division 165 must be applied on a case by case basis.  In each case, the Commissioner must give proper consideration to the individual circumstances of entities before making a decision on the application of Division 165.  However, based on the features set out above,
+to the third party, in the same condition and at the same time as they were sold by the participant to the third party. There may be a GST benefit if the amount of GST payable is less than the GST that would have been payable if the premises were sold directly to a third party without the intermediate sale to the participant who on-sells to the third party.
+50. This may be so even if the premises are sold by the entity nominated as the joint venture operator to the participant for their full market value at the time of that sale, if the consideration for the ultimate sale by the participant to the third party is a higher amount. That might occur where additional value is added after the first sale or if the market value of the premises has increased.
+51. Division 165 must be applied on a case by case basis. In each case, the Commissioner must give proper consideration to the individual circumstances of entities before making a decision on the application of Division 165. However, based on the features set out above,
 [F12]
 and having regard to the matters set out in subsection 165-15(1), it is likely that it would be concluded that the sole or dominant purpose of the entities in entering into or carrying out the scheme consisting of the whole, or some part of, the arrangement for sale of the premises by the joint venture operator to the participant, or the principal effect of the scheme or part of the scheme, would be to obtain a GST benefit by causing the supply of the premises by the participant to a third party to be input taxed.
 52. Developers or other entities that have entered into or are contemplating entering into an arrangement similar to the arrangements described in this Ruling, and who believe that the arrangement implemented or proposed to be implemented in their case is distinguishable from those arrangements, may wish to apply to the Commissioner for a private ruling.
 Alternative view
 [F13]
 53. There is an alternative view that the Commissioner is unable to negate a GST benefit that may be obtained from arrangements of this kind.
-54. That view is based on paragraph 165-5(1)(b) which has the effect that Division 165 does not operate if the GST benefit is 'attributable to the making, by any entity, of a choice, election, application or agreement that is expressly provided for by the GST law'.  Division 51 expressly provides for entities to apply for approval as a GST joint venture.  Hence, it is argued, paragraph 165-5(1)(b) applies and the Commissioner therefore cannot apply Division 165 to negate the benefit of the arrangements.
-55. The Commissioner does not accept this argument.  It is the Commissioner's view that, where there is a GST benefit under these arrangements, that benefit is not attributable to the approval of the participants as a GST joint venture.  The benefit is that the supply of the premises to third parties which would, but for the scheme, be a taxable supply, is input taxed under section 40-65.
-56. That benefit is not attributable to the application for approval of the participants as a GST joint venture.  Rather, it is attributable to the structuring of the arrangements so that there is an intermediate sale by the entity nominated as the joint venture operator to the participant that on-sells to third parties.  It is that intermediate sale that results in the premises not being 'new residential premises' at the time of the supply to third parties.  In other words, it is that intermediate sale, not the approval as a GST joint venture, that results in the benefit of the supply of the premises to third parties being input taxed.
+54. That view is based on paragraph 165-5(1)(b) which has the effect that Division 165 does not operate if the GST benefit is 'attributable to the making, by any entity, of a choice, election, application or agreement that is expressly provided for by the GST law'. Division 51 expressly provides for entities to apply for approval as a GST joint venture. Hence, it is argued, paragraph 165-5(1)(b) applies and the Commissioner therefore cannot apply Division 165 to negate the benefit of the arrangements.
+55. The Commissioner does not accept this argument. It is the Commissioner's view that, where there is a GST benefit under these arrangements, that benefit is not attributable to the approval of the participants as a GST joint venture. The benefit is that the supply of the premises to third parties which would, but for the scheme, be a taxable supply, is input taxed under section 40-65.
+56. That benefit is not attributable to the application for approval of the participants as a GST joint venture. Rather, it is attributable to the structuring of the arrangements so that there is an intermediate sale by the entity nominated as the joint venture operator to the participant that on-sells to third parties. It is that intermediate sale that results in the premises not being 'new residential premises' at the time of the supply to third parties. In other words, it is that intermediate sale, not the approval as a GST joint venture, that results in the benefit of the supply of the premises to third parties being input taxed.
 Detailed contents list
 57. Below is a detailed contents list for this Goods and Services Tax Ruling:
 Paragraph
@@ -283,13 +281,13 @@ Footnotes
 [F5]
 5 GSTR 2004/2 provides the Commissioner's view in relation to the meaning of 'joint venture' for GST purposes.
 [F5A]
-5A For tax periods starting on or after 1 July 2010, entities are no longer required to apply for the approval of the Commissioner to become participants in a GST joint venture.  Paragraph 51-5(1)(e) provides that from that date, two or more entities need only agree to the formation of a GST joint venture in writing, and paragraph 51-5(1)(ea) requires that one of those entities, or another entity, be nominated in the agreement to be the joint venture operator of the joint venture. Paragraph 51-5(1)(eb) requires the nominated joint venture operator to notify the Commissioner, in the approved form, of the formation of the joint venture as a GST joint venture.
+5A For tax periods starting on or after 1 July 2010, entities are no longer required to apply for the approval of the Commissioner to become participants in a GST joint venture. Paragraph 51-5(1)(e) provides that from that date, two or more entities need only agree to the formation of a GST joint venture in writing, and paragraph 51-5(1)(ea) requires that one of those entities, or another entity, be nominated in the agreement to be the joint venture operator of the joint venture. Paragraph 51-5(1)(eb) requires the nominated joint venture operator to notify the Commissioner, in the approved form, of the formation of the joint venture as a GST joint venture.
 [F6]
 6 Section 51-35 similarly gives the joint venture operator the entitlement to input tax credits that would otherwise be an entitlement of the participant in respect of creditable acquisitions and creditable importations made by the joint venture operator on behalf of a participant in the course of activities for which the joint venture was entered into.
 [F7]
 7 See also Goods and Services Tax Determination GSTD 2004/2 for a discussion of the operation of subsection 51-30(2) in the context of supplies made by the entity nominated as the joint venture operator to entities that are participants in the GST joint venture.
 [F8]
-8 Paragraph 40-75 (1)(a).  However, premises are not new residential premises if they have previously been the subject of a long term lease, or have been rented as residential premises for a period of 5 years (subsection 40-75(2)).
+8 Paragraph 40-75 (1)(a). However, premises are not new residential premises if they have previously been the subject of a long term lease, or have been rented as residential premises for a period of 5 years (subsection 40-75(2)).
 [F8A]
 8A For tax periods starting on or after 1 July 2010, the approval of the Commissioner is no longer required for two or more entities to become participants in a GST joint venture. However, the nominated joint venture operator is required to notify the Commissioner, in the approved form, of the formation of the joint venture as a GST joint venture - see section 51-5.
 [F8B]
@@ -301,7 +299,7 @@ Footnotes
 [F9B]
 9B For tax periods starting on or after 1 July 2010, the approval of the Commissioner is no longer required for two or more entities to become participants in a GST joint venture. However, the nominated joint venture operator is required to notify the Commissioner, in the approved form, of the formation of the joint venture as a GST joint venture - see section 51-5.
 [F10]
-10 This may be so even if the transferor and transferee are 'associates', and the transferee does not acquire the unit solely for a creditable purpose, such that Division 72 could potentially apply to require GST to be calculated on the GST-exclusive market value of the supply.  Where the bare legal title is supplied to an entity which is already the beneficial owner under the terms of the joint venture, the market value of the supply may be nil.  Further, the joint venture operator may transfer the title as agent for the beneficiary.
+10 This may be so even if the transferor and transferee are 'associates', and the transferee does not acquire the unit solely for a creditable purpose, such that Division 72 could potentially apply to require GST to be calculated on the GST-exclusive market value of the supply. Where the bare legal title is supplied to an entity which is already the beneficial owner under the terms of the joint venture, the market value of the supply may be nil. Further, the joint venture operator may transfer the title as agent for the beneficiary.
 [F11]
 11 See the joint judgment of McHugh ACJ and Gummow and Hayne JJ in
 Network Ten Pty Limited v TCN Channel Nine Pty Ltd
@@ -313,8 +311,8 @@ CIC Insurance Ltd v Bankstown Football Club
 The issues in this Ruling were dealt with in part in GSTD 2003/D3.
 References
 ATO references:
-NO  2004/2409
-ISSN:  1443-5160
+NO 2004/2409
+ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
 GSTR 2004/2
@@ -327,31 +325,31 @@ new residential premises
 Business Line:
 ISP - GST
 Legislative References:
-ANTS (GST)  A99 9-5
-ANTS (GST)  A99 9-70
-ANTS (GST)  A99 40-35
-ANTS (GST)  A99 40-65
-ANTS (GST)  A99 40-65(2)(b)
-ANTS (GST)  A99 40-75
-ANTS (GST)  40-75(1)(a)
-ANTS (GST) A99  40-75(2)
-ANTS (GST) A99  Div 51
-ANTS (GST) A99  51-5(1)
-ANTS (GST) A99  51-5(1)(a)
-ANTS (GST) A99  51-5(1)(e)
-ANTS (GST) A99  51-5(1)(ea)
-ANTS (GST) A99  51-5(1)(eb)
-ANTS (GST) A99  51-30(1)
-ANTS (GST) A99  51-30(2)
-ANTS (GST) A99  51-35
-ANTS (GST) A99  Div 72
-ANTS (GST) A99  72-70
-ANTS (GST) A99  75-10
-ANTS (GST) A99  Div 165
-ANTS (GST) A99  165-5(1)(b)
-ANTS (GST) A99  165-15(1)
-ANTS (GST) Reg  51-5.01
-ANTS (GST) Reg  51-5.01(1)(f)
+ANTS (GST) A99 9-5
+ANTS (GST) A99 9-70
+ANTS (GST) A99 40-35
+ANTS (GST) A99 40-65
+ANTS (GST) A99 40-65(2)(b)
+ANTS (GST) A99 40-75
+ANTS (GST) 40-75(1)(a)
+ANTS (GST) A99 40-75(2)
+ANTS (GST) A99 Div 51
+ANTS (GST) A99 51-5(1)
+ANTS (GST) A99 51-5(1)(a)
+ANTS (GST) A99 51-5(1)(e)
+ANTS (GST) A99 51-5(1)(ea)
+ANTS (GST) A99 51-5(1)(eb)
+ANTS (GST) A99 51-30(1)
+ANTS (GST) A99 51-30(2)
+ANTS (GST) A99 51-35
+ANTS (GST) A99 Div 72
+ANTS (GST) A99 72-70
+ANTS (GST) A99 75-10
+ANTS (GST) A99 Div 165
+ANTS (GST) A99 165-5(1)(b)
+ANTS (GST) A99 165-15(1)
+ANTS (GST) Reg 51-5.01
+ANTS (GST) Reg 51-5.01(1)(f)
 TAA 1953 Sch1 Div 358
 Case References:
 CIC Insurance Ltd v Bankstown Football Club

@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **(5)**  For a company to be a qualifying company, all the directors of the company, and every shareholder in the company with legal capacity, must sign an election referred to in section HA 5. An exception applies for a minority shareholder in the situation described in section HA 29.
 
-**Shareholder’s personal liability**
+**Shareholder's personal liability**
 
 **(6)**  A shareholder who makes an election referred to in subsection (5) must agree to take personal liability to the extent described in section HA 8.
 

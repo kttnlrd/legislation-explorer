@@ -9,7 +9,7 @@ paragraph: "¶15-030"
 
 The supply of donated second-hand goods by an endorsed charity is GST-free (s 38-255). However, this does not apply if the charity has dealt with the goods in such a way that they no longer have their original character.
 
-This concession applies also to a “gift-deductible entity” or a government school (¶15-000).
+This concession applies also to a "gift-deductible entity" or a government school (¶15-000).
 
 *Refs: s 38-255)*
 

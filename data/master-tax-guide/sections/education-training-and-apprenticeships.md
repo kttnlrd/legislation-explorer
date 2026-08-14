@@ -7,23 +7,23 @@ paragraph: "¶10-700"
 ---
 # Education, training and apprenticeships ¶10-700
 
-“Commonwealth education or training payments” are generally liable to tax. These are payments by the
+"Commonwealth education or training payments" are generally liable to tax. These are payments by the
 
-- a participant in a “Commonwealth labour market program”, or
+- a participant in a "Commonwealth labour market program", or
 
 - a student — in respect of a period commencing when the student was at least 16 years old —
 
-  under the following schemes: ABSTUDY; Assistance for Isolated Children; Veterans’ Children
+  under the following schemes: ABSTUDY; Assistance for Isolated Children; Veterans' Children
 
 Education; Youth Allowance; Austudy payment; the education and training scheme under the Military Rehabilitation and Compensation Act 2004, s 258.
 
-The “supplementary amount” of a Commonwealth education or training payment is exempt. The supplementary amount generally comprises so much of the payment as is included to assist with, or reimburse, the cost of: rent; living in a remote area; commencing employment; travelling to or participating in courses, interviews, education or training; a child or children dependent on the taxpayer; telephone bills; living away from the taxpayer’s usual residence and maintaining that usual residence; travel to that residence while undertaking education or training away from the residence; accommodation, books or equipment; discharging a HEC assessment debt or the compulsory repayment amount of an accumulated HELP debt (¶2-380); acquiring any special equipment, services or transport to assist with a disability; pharmaceuticals; and anything that would otherwise prevent the taxpayer from undertaking any education or training (ITAA97 ss 52-140; 52-145).
+The "supplementary amount" of a Commonwealth education or training payment is exempt. The supplementary amount generally comprises so much of the payment as is included to assist with, or reimburse, the cost of: rent; living in a remote area; commencing employment; travelling to or participating in courses, interviews, education or training; a child or children dependent on the taxpayer; telephone bills; living away from the taxpayer's usual residence and maintaining that usual residence; travel to that residence while undertaking education or training away from the residence; accommodation, books or equipment; discharging a HEC assessment debt or the compulsory repayment amount of an accumulated HELP debt (¶2-380); acquiring any special equipment, services or transport to assist with a disability; pharmaceuticals; and anything that would otherwise prevent the taxpayer from undertaking any education or training (ITAA97 ss 52-140; 52-145).
 
-A “Commonwealth Trade Learning Scholarship” is exempt from income tax (¶10-740).
+A "Commonwealth Trade Learning Scholarship" is exempt from income tax (¶10-740).
 
 *Refs: s 52-140*
 
-children’s payments Payments to, or in respect of, a student under a Commonwealth scheme providing assistance for secondary education or in connection with the education of isolated children are exempt (s 51-10, item 2.1B). However, Commonwealth education or training payments and education entry payments to sole parent pensioners are not exempt under this provision (s 51-40).
+children's payments Payments to, or in respect of, a student under a Commonwealth scheme providing assistance for secondary education or in connection with the education of isolated children are exempt (s 51-10, item 2.1B). However, Commonwealth education or training payments and education entry payments to sole parent pensioners are not exempt under this provision (s 51-40).
 
 International scholarships Scholarships, bursaries or other educational allowances that are provided by the Commonwealth to foreign students and trainees who are in Australia solely for study or training are exempt (ITAA97 s 842-105, item 7).
 

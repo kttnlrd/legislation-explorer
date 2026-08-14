@@ -22,13 +22,13 @@ compilation_date: 2026-06-06
 
 **(3)**  The credit referred to in subsection (1) and the debit referred to in subsection (2) are listed in provisions in this subpart.
 
-**Company’s obligation overridden**
+**Company's obligation overridden**
 
 **(4)**  This section applies despite—
 
 - (a) the obligation that a group company may have under this Part to record a credit or debit; and
 
-- (b) the fact that the credit and debit referred to in this section may otherwise be eligible to give rise to a credit or debit in the group company’s account.
+- (b) the fact that the credit and debit referred to in this section may otherwise be eligible to give rise to a credit or debit in the group company's account.
 
 *Defined in this Act: company, consolidated group, memorandum account*
 

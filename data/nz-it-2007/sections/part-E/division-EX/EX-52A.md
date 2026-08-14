@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
   - (ii) assigns each investor an interest in a proportion of the net returns from the investments; and
 
-  - (iii) determines the value of each investor’s interests for each of a number of periods making up the income year:
+  - (iii) determines the value of each investor's interests for each of a number of periods making up the income year:
 
 - (b) for the attributing interest, uses the fair dividend rate periodic method for the income year ending before the beginning of the current year and uses the fair dividend rate annual method under section EX 52 for an income year included in the period that is the shortest of—
 

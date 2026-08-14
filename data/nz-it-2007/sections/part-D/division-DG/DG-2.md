@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(6)**  In this subpart,—
 
-- (a) for the purposes of determining the extent to which a company (company A) has a voting interest or market value interest in another company (company B), the look-through rule in section YC 4 (Look-through rule for corporate shareholders) does not apply to treat company A’s voting interest or market value interest as held by company A’s shareholders or anyone else; and
+- (a) for the purposes of determining the extent to which a company (company A) has a voting interest or market value interest in another company (company B), the look-through rule in section YC 4 (Look-through rule for corporate shareholders) does not apply to treat company A's voting interest or market value interest as held by company A's shareholders or anyone else; and
 
 - (b) for the purposes of determining the extent to which company A has a voting interest or market value interest of more than 10% in an associated company, the look-through rule in section YC 4 does not apply to treat a voting interest or a market value interest of company A in the associated company as held by their respective shareholders or anyone else; and
 

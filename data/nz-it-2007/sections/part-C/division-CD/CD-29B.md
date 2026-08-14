@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
   - (ii) greater than the shareholder price, for the issue of a share under the shareholder right; and
 
-- (d) the distribution is from the amount of the payment that does not increase the company’s available subscribed capital.
+- (d) the distribution is from the amount of the payment that does not increase the company's available subscribed capital.
 
 *Defined in this Act: available subscribed capital, bonus issue in lieu, company, consideration, dividend, pay, share, shareholder*
 

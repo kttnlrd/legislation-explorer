@@ -7,7 +7,7 @@ paragraph: "¶3-528"
 ---
 # Transfer of life insurance business ¶3-528
 
-Special rules apply where all or part of a company’s life insurance business is transferred to another life insurance company after 30 June 2000 under the Financial Sector (Transfer and Restructure) Act 1999 or in accordance with a court-approved scheme under the Life Insurance Act 1995 Pt 9 (ITAA97 Subdiv 320-I).
+Special rules apply where all or part of a company's life insurance business is transferred to another life insurance company after 30 June 2000 under the Financial Sector (Transfer and Restructure) Act 1999 or in accordance with a court-approved scheme under the Life Insurance Act 1995 Pt 9 (ITAA97 Subdiv 320-I).
 
 The provisions are designed to alleviate unintended tax consequences that might otherwise arise.
 

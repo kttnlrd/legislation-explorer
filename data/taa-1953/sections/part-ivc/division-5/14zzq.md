@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "5"
 division_title: "Court appeals against objection decisions"
 subdivision: ""
@@ -17,7 +17,7 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s14ZZQ-1"></a>
-**(1)**  When the order of the court in relation to the decision becomes final, the Commissioner must, within 60 days, take such action, including amending any assessment or determination concerned, as is necessary to give effect to the decision. Authorised Version C2026C00170 registered 28/04/2026
+**(1)**  When the order of the court in relation to the decision becomes final, the Commissioner must, within 60 days, take such action, including amending any assessment or determination concerned, as is necessary to give effect to the decision.
 
 <a id="s14ZZQ-2"></a>
 **(2)**  For the purposes of subsection (1):

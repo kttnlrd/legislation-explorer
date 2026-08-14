@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  Exempt ESS means—
 
-- (a) a scheme that had the Commissioner’s approval under section DC 12 (Loans to employees under share purchase schemes) before that section’s repeal by the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018:
+- (a) a scheme that had the Commissioner's approval under section DC 12 (Loans to employees under share purchase schemes) before that section's repeal by the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018:
 
 - (b) an arrangement of which the Commissioner has been notified under section 63B(1) of the Tax Administration Act 1994, if—
 
@@ -74,13 +74,13 @@ compilation_date: 2026-06-06
 
 - (d) any loan to an employee to buy shares is repayable by regular instalments of a month or less, but—
 
-  - (i) the loan is repayable early in full or in part at the employee’s discretion; and
+  - (i) the loan is repayable early in full or in part at the employee's discretion; and
 
   - (ii) in the case of an employee who is on unpaid or parental leave for more than a month, the regular instalments are suspended while on leave and the term of the loan is extended as appropriate.
 
 **Serious hardship**
 
-**(5)**  The arrangement must provide, in the case of serious hardship that results or may result from an employee’s continued participation in the exempt ESS, that, with the employee’s agreement,—
+**(5)**  The arrangement must provide, in the case of serious hardship that results or may result from an employee's continued participation in the exempt ESS, that, with the employee's agreement,—
 
 - (a) any regular instalments and any other terms related to payment by the employee may be varied; or
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **Withdrawal**
 
-**(6)**  The arrangement must provide that the employee may withdraw from the arrangement on giving 1 month’s notice to the relevant party. Any shares must be bought from the employee for the lesser of their market value on the day of withdrawal and their cost to the employee, subject to the repayment of any outstanding loan.
+**(6)**  The arrangement must provide that the employee may withdraw from the arrangement on giving 1 month's notice to the relevant party. Any shares must be bought from the employee for the lesser of their market value on the day of withdrawal and their cost to the employee, subject to the repayment of any outstanding loan.
 
 **Period of restriction**
 
@@ -132,9 +132,9 @@ compilation_date: 2026-06-06
 
 **End of period of restriction: certain cases**
 
-**(9)**  Despite subsections (8) and (8B), when a period of restriction ends because the employee’s employment ends through their death, accident, sickness, redundancy, or retirement at normal retiring age, the arrangement must provide that—
+**(9)**  Despite subsections (8) and (8B), when a period of restriction ends because the employee's employment ends through their death, accident, sickness, redundancy, or retirement at normal retiring age, the arrangement must provide that—
 
-- (a) the shares are transferred to the former employee if they have not already been transferred, or transferred to the legal representative of the employee’s estate, as appropriate; or
+- (a) the shares are transferred to the former employee if they have not already been transferred, or transferred to the legal representative of the employee's estate, as appropriate; or
 
 - (b) if the employee chooses, the shares are purchased for the lesser of—
 

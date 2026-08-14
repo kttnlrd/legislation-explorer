@@ -81,7 +81,7 @@ paragraph: "¶25-200"
 
 - A second-hand car dealer who sells cars, which the dealer has either stolen or has received knowing
 
-  they have been stolen, is nevertheless making “supplies” for GST purposes (¶4-010).
+  they have been stolen, is nevertheless making "supplies" for GST purposes (¶4-010).
 
 - The discounted transfer of a vehicle to an associate may be treated as being made for market value
 

@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "4"
-division_title: "ART review of objection decisions and"
+division_title: "ART review of objection decisions and extension of time refusal decisions"
 subdivision: ""
 subdivision_title: ""
 section: "14ZZM"
@@ -22,7 +22,7 @@ source_pdf: "vol01.pdf"
 <a id="s14ZZM-2"></a>
 **(2)**  However, the application of subsection (1) in relation to a small business taxation assessment decision is subject to any order made under subsection 32(2) of the ART Act.
 
-> **Note:** An order made under subsection 32(2) of the ART Act is subject to section 14ZZH (limitation on orders staying or affecting reviewable objection decisions relating to small business taxation assessment decisions) of this Act. Authorised Version C2026C00170 registered 28/04/2026
+> **Note:** An order made under subsection 32(2) of the ART Act is subject to section 14ZZH (limitation on orders staying or affecting reviewable objection decisions relating to small business taxation assessment decisions) of this Act.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

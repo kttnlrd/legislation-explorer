@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **(3)**  The term income tax includes ancillary tax, but not excluded ancillary tax, in—
 
-- (b) sections BG 1 (Tax avoidance), GA 1 (Commissioner’s power to adjust), and GB 54 (Arrangements involving establishments):
+- (b) sections BG 1 (Tax avoidance), GA 1 (Commissioner's power to adjust), and GB 54 (Arrangements involving establishments):
 
 - (c) the definition of tax avoidance.
 
@@ -34,9 +34,9 @@ compilation_date: 2026-06-06
 
 **(4)**  When section GA 1 is applied in the case of an ancillary tax,—
 
-- (a) the words “taxable income” in section GA 1(2) are treated as replaced by the words “liability to the ancillary tax”; and
+- (a) the words "taxable income" in section GA 1(2) are treated as replaced by the words "liability to the ancillary tax"; and
 
-- (b) the following paragraph is treated as added to section GA 1(5): “(e) an amount subject to the ancillary tax”.
+- (b) the following paragraph is treated as added to section GA 1(5): "(e) an amount subject to the ancillary tax".
 
 **Tax of other countries**
 

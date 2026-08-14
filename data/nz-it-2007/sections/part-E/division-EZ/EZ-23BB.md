@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
   - (ii) not property for which the person uses the pool method; and
 
-  - (iii) included in 1 of the categories (an affected class) of the person’s depreciable property referred to in subsection (11)﻿(b); and
+  - (iii) included in 1 of the categories (an affected class) of the person's depreciable property referred to in subsection (11)﻿(b); and
 
   - (iv) not linked with replacement property under section EZ 23B or has a link with replacement property that may be removed under section EZ 23B(11B); and
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **Depreciation recovery income and suspended recovery income**
 
-**(7)**  The amount of suspended recovery income for a person’s replacement interest is not depreciation recovery income for the person arising from the replacement interest unless it is attributed to an income year by subsections (8) and (9).
+**(7)**  The amount of suspended recovery income for a person's replacement interest is not depreciation recovery income for the person arising from the replacement interest unless it is attributed to an income year by subsections (8) and (9).
 
 **Depreciation recovery income: disposal of replacement property by owning company**
 
@@ -144,7 +144,7 @@ compilation_date: 2026-06-06
 
 - (d) give details of each item of replacement property in which a replacement interest is held in the current year, and the affected class to which the person is linking the replacement interest; and
 
-- (e) for each replacement interest held in the current year, give the amount of the expenditure by the owning company on the replacement property, the shareholding of the person’s holding entity in the owning company, and the shareholding of the person in, or the fraction of the trust corpus that has been settled by the person on, the person’s holding entity; and
+- (e) for each replacement interest held in the current year, give the amount of the expenditure by the owning company on the replacement property, the shareholding of the person's holding entity in the owning company, and the shareholding of the person in, or the fraction of the trust corpus that has been settled by the person on, the person's holding entity; and
 
 - (f) for each category of replacement property, give the amount of the suspended recovery income at the end of the current year; and
 
@@ -152,13 +152,13 @@ compilation_date: 2026-06-06
 
 **Formula for calculating fractional interest value**
 
-**(12)**  For a person with a replacement interest in replacement property, the fractional interest value of the replacement interest for the purposes of this section is the value calculated using the formula— person’s fractional interest × replacement expenditure.
+**(12)**  For a person with a replacement interest in replacement property, the fractional interest value of the replacement interest for the purposes of this section is the value calculated using the formula— person's fractional interest × replacement expenditure.
 
 **Definition of items in formula**
 
 **(13)**  In the formula,—
 
-- (a) person’s fractional interest is—
+- (a) person's fractional interest is—
 
   - (i) the voting interest of the person in the owning company; or
 

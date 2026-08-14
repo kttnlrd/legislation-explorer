@@ -3,25 +3,20 @@ ATO ID 2006/148
 ==================================================
 
 Income tax
-        Consolidation: Special conversion event - application of section 701-10
-        FOI status: may be released
-
+ Consolidation: Special conversion event - application of section 701-10
+ FOI status: may be released
 
 History note:
-               The decision in this ATO ID will only apply to a special conversion event that happened before 27 October 2006 and the head company of the group did not make a choice, within the prescribed time, to apply Subdivision 719 BA of the Income Tax Assessment Act 1997 (ITAA 1997) to the special conversion event.
+ The decision in this ATO ID will only apply to a special conversion event that happened before 27 October 2006 and the head company of the group did not make a choice, within the prescribed time, to apply Subdivision 719 BA of the Income Tax Assessment Act 1997 (ITAA 1997) to the special conversion event.
 This ATO ID has been amended to reflect the changes to paragraph 719-40(1)(e) of the ITAA 1997 and the introduction of section 719-78 of the ITAA 1997.
 The amendments to this ATO ID do not affect the answer to the issue raised in this ATO ID.
 Date of amendment: 03.06.2010
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 When a special conversion event happens under section 719-40 of the Income Tax Assessment Act 1997 (ITAA 1997) and a multiple entry consolidated (MEC) group comes into existence under paragraph 719-5(1)(b) of the ITAA 1997, does section 701-10 of the ITAA 1997 apply to set the tax cost to the head company of the assets of entities that were subsidiary members of the consolidated group in relation to the special conversion event, and then become subsidiary members, other than eligible tier-1 company members, of the MEC group?
@@ -33,19 +28,17 @@ H Co makes a choice in writing under paragraph 719-40(1)(e) of the ITAA 1997 spe
 H Co, when lodging its income tax return for the 2003-2004 income year in October 2004, informs the Commissioner the details of its choice, in the approved form, as required by section 719-78 of the ITAA 1997.
 The MEC group comes into existence on 1 January 2004 and comprises the potential MEC group derived from H Co and its wholly-owned subsidiaries, and the other eligible tier-1 companies, A Co and B Co. H Co is the provisional head company of the MEC group.
 
-
-
 Note:
-                 Changes in relation to making a choice (paragraph 719-40(1)(e) of the ITAA 1997) for a special conversion event and notifying the Commissioner of the special conversion event in the approved form (section 719-78 of the ITAA 1997) were introduced by Tax Laws Amendment (2010 Measures No.1) Act 2010 (Act No. 56 of 2010). The changes apply from 1 July 2002, unless a choice to apply the changes from 10 February 2010 is made, within the prescribed time, by the head company of the group.
+ Changes in relation to making a choice (paragraph 719-40(1)(e) of the ITAA 1997) for a special conversion event and notifying the Commissioner of the special conversion event in the approved form (section 719-78 of the ITAA 1997) were introduced by Tax Laws Amendment (2010 Measures No.1) Act 2010 (Act No. 56 of 2010). The changes apply from 1 July 2002, unless a choice to apply the changes from 10 February 2010 is made, within the prescribed time, by the head company of the group.
 
 Reasons for Decision
 When an entity becomes a subsidiary member of a consolidated group or MEC group, the assets of the entity are taken to be the assets of the head company under the single entity rule in section 701-1 of the ITAA 1997, and the group's cost of acquiring the entity is treated as the head company's cost of acquiring the assets of the entity.
 Entities that were subsidiary members of the former consolidated group become members of the MEC group, when the MEC group comes into existence. The tax cost of the assets of each of these entities is set by section 701-10 of the ITAA 1997. Item 1 of the table in section 701-60 of the ITAA 1997 says that where an asset's tax cost is set by section 701-10, the asset's tax cost setting amount is worked out in accordance with Division 705 of the ITAA 1997.
 Date of decision:
-         17 May 2006
+  17 May 2006
 
 Year of income:
-           Year ended 30 June 2005
+  Year ended 30 June 2005
 
 Legislative References:
 
@@ -60,25 +53,24 @@ Related ATO Interpretative Decisions
 Keywords
 
 Consolidation
-          Consolidation - exiting
-          Consolidation - multiple entry consolidated group
-          Cost of membership interests
-          Cost setting rules
-          Eligible tier-1 company
-          Provisional head company
-          Special conversion event
-          Subsidiary member of a consolidated group
-          Choice to form
-
+ Consolidation - exiting
+ Consolidation - multiple entry consolidated group
+ Cost of membership interests
+ Cost setting rules
+ Eligible tier-1 company
+ Provisional head company
+ Special conversion event
+ Subsidiary member of a consolidated group
+ Choice to form
 
 Siebel/TDMS Reference Number:
-         5251183
+  5251183
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         9 June 2006
+  9 June 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

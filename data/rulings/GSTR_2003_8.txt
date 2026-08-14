@@ -4,58 +4,55 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 129
-  • Div 156
-  • Div 19
-  • Div 29
-  • Div 358
-  • Div 38E
-  • Div 84
-  • Division 129
-  • Division 156
-  • Division 19
-  • Division 29
-  • Division 358
-  • Division 38
-  • Division 84
-  • Subdivision 38-E
-  • division 38
+ • Div 129
+ • Div 156
+ • Div 19
+ • Div 29
+ • Div 358
+ • Div 38E
+ • Div 84
+ • Division 129
+ • Division 156
+ • Division 19
+ • Division 29
+ • Division 358
+ • Division 38
+ • Division 84
+ • Subdivision 38-E
+ • division 38
 
 Cases Referenced:
-  • Australian Trade Commission v. Disktravel
+ • Australian Trade Commission v. Disktravel
 (1999) 91 FCR 374
-  • British Railways Board v. Customs 
-  • Burns Philp Trustee Company Ltd v. Ironside Investments Pty Ltd
+ • British Railways Board v. Customs 
+ • Burns Philp Trustee Company Ltd v. Ironside Investments Pty Ltd
 
-  • Burswood Management Ltd v. Attorney
-  • District Council v. International Computers Ltd
-  • District Council v. International Computers Ltd
+ • Burswood Management Ltd v. Attorney
+ • District Council v. International Computers Ltd
+ • District Council v. International Computers Ltd
 
-  • Excise Commissioners v. British Telecommunications 
-  • Excise v. The Automobile Association
+ • Excise Commissioners v. British Telecommunications 
+ • Excise v. The Automobile Association
 (1974) 1 BVC 8
-  • Hatfield v. Health Insurance Commission
+ • Hatfield v. Health Insurance Commission
 (1987) 15 FCR 487
-  • In
+ • In
 Burns Philip Trustee Company Ltd v. Ironside Investments Pty Ltd
 
-  • In
+ • In
 Hatfield v. Health Insurance
 Commission
 
-  • In
+ • In
 Pyke v. Duncan
 
-  • Jack v. Smail
+ • Jack v. Smail
 
-  • Jack v. Smail
+ • Jack v. Smail
 (1905) 2 CLR 684
-  • Ltd v. Clayton
-
+ • Ltd v. Clayton
 
 Topics: GST, Trusts, Companies, International, Employment
-
-
 
 ================================================================================
 
@@ -70,7 +67,7 @@ Back to browse
 119 related documents
 Goods and Services Tax Ruling
 GSTR 2003/8
-Goods and services tax:  supply of rights for use outside Australia - subsection 38-190(1), item 4, paragraph (a) and subsection 38-190(2)
+Goods and services tax: supply of rights for use outside Australia - subsection 38-190(1), item 4, paragraph (a) and subsection 38-190(2)
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -79,7 +76,7 @@ GSTR 2003/8EC
 .
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -109,11 +106,11 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling examines the operation of paragraph (a) of item 4 in the table in subsection 38-190(1) of the
 A New Tax System (Goods and Services Tax) Act 1999
-(the GST Act).  That subsection sets out supplies of things for consumption outside Australia (other than goods or real property) that are GST-free.
+(the GST Act). That subsection sets out supplies of things for consumption outside Australia (other than goods or real property) that are GST-free.
 2. In particular, the Ruling examines:
 •
 how to identify the relevant supply when considering transactions involving supplies that may be covered by item 4;
@@ -125,7 +122,7 @@ the meaning of the expressions 'supply that is made in relation to rights' in it
 the operation of subsection 38-190(2).
 3. The Ruling does not address the meaning of the expression 'the supply is to an entity that is not an Australian resident and is outside Australia when the thing supplied is done' in paragraph (b) of item 4.
 4. The Ruling does not otherwise address the operation of the other provisions of section 38-190.
-5. While this Ruling outlines the broad principles relating to all kinds of supplies to which item 4 applies, it does not examine in detail how these principles apply to specific types of financial supplies in the context of item 4.  Financial supplies for consumption outside Australia are dealt with at paragraphs 144 to 170 in Goods and Services Tax Ruling GSTR 2002/2.
+5. While this Ruling outlines the broad principles relating to all kinds of supplies to which item 4 applies, it does not examine in detail how these principles apply to specific types of financial supplies in the context of item 4. Financial supplies for consumption outside Australia are dealt with at paragraphs 144 to 170 in Goods and Services Tax Ruling GSTR 2002/2.
 [1]
 6. Unless otherwise stated, all legislative references in this Ruling are to the GST Act and all references to an item number are to an item in the table in subsection 38-190(1).
 Date of effect
@@ -183,7 +180,7 @@ The supply of a right to receive a GST-free supply is also GST-free.
 [7]
 13A. A supply that would be both GST-free and input taxed is GST-free unless the provision under which it is input taxed requires the supplier to have chosen for its supplies of that kind to be input taxed.
 [7A]
-14. Subdivision 38-E sets out when exports of goods and other supplies for consumption outside Australia are GST-free.  The Subdivision comprises:
+14. Subdivision 38-E sets out when exports of goods and other supplies for consumption outside Australia are GST-free. The Subdivision comprises:
 •
 section 38-185 - exports of goods;
 •
@@ -249,24 +246,24 @@ the service facilitates a dealing in or exercise of the rights; or
 the service affects (or its purpose is to affect) or protects the nature or value (including indemnity against loss) of the rights.
 28A. Item 4 only applies to a service that facilitates a dealing in rights if the essential character or substance of the dealing is one of rights. Similarly, item 4 only applies to services that affect or protect the nature or value of a thing if the essential character or substance of that thing is rights.
 29. Examples of supplies that fit within the three categories outlined at paragraphs 27B to 28 of this Ruling include supplies of intellectual property rights (category 1), supplies of shares (category 2) and supplies of brokerage services in relation to shares (category 3).
-30. We take the view that a supply of 'off-the-shelf' computer software sold embodied in a disk is a supply of goods and therefore excluded from section 38-190.  The fact that a sale of 'off-the-shelf' software on disk is accompanied by a 'shrinkwrap licence'  which may deny users the authority to make backup copies, modify, or resell the software or to decompile the code  does not in itself change the character of the supply to a supply that is made in relation to a right.
-31. Similarly, where computer software is supplied in intangible form, for example by downloading it from the internet, the inclusion of a 'clickwrap licence' in similar terms to the common form of 'shrinkwrap licence' referred to above will not, in itself, mean that the supply is a supply that is made in relation to rights.  Where the software downloaded is standard or 'off-the-shelf' software, what is supplied is the computer program, subject to restrictions on its use. Incidental copyright rights, such as the right to copy for downloading purposes, do not change the essential nature of the supply.   Such a supply is not a supply of goods.  Nor is it a supply that is made in relation to rights.
+30. We take the view that a supply of 'off-the-shelf' computer software sold embodied in a disk is a supply of goods and therefore excluded from section 38-190. The fact that a sale of 'off-the-shelf' software on disk is accompanied by a 'shrinkwrap licence' which may deny users the authority to make backup copies, modify, or resell the software or to decompile the code does not in itself change the character of the supply to a supply that is made in relation to a right.
+31. Similarly, where computer software is supplied in intangible form, for example by downloading it from the internet, the inclusion of a 'clickwrap licence' in similar terms to the common form of 'shrinkwrap licence' referred to above will not, in itself, mean that the supply is a supply that is made in relation to rights. Where the software downloaded is standard or 'off-the-shelf' software, what is supplied is the computer program, subject to restrictions on its use. Incidental copyright rights, such as the right to copy for downloading purposes, do not change the essential nature of the supply. Such a supply is not a supply of goods. Nor is it a supply that is made in relation to rights.
 32. However, a supply of the right to use the copyright in the program itself for commercial purposes, which allows the licensee to modify, adapt or copy or otherwise do what would ordinarily be the exclusive right of the copyright owner,
 [11]
 is a supply that is made in relation to rights.
 33. Where a one-off solution is developed by a computer programmer for a client, the correct analysis of the supply will depend on all of the facts and circumstances, including the terms of the contract between the programmer and the client.
 34. Supplies of computer software are considered in more detail at paragraphs 83 to 94 below.
-35. Supplies of insurance and capacity in a telecommunications network are also supplies that are made in relation to rights.  Refer to paragraphs 95 to 107 below for further discussion of these and other supplies, such as membership subscriptions.
+35. Supplies of insurance and capacity in a telecommunications network are also supplies that are made in relation to rights. Refer to paragraphs 95 to 107 below for further discussion of these and other supplies, such as membership subscriptions.
 Supply that is made in relation to rights 'for use outside Australia'
 Meaning of 'for use'
-36. The requirement that 'the rights are for use outside Australia' in paragraph (a) of item 4 is an intention test.  That is, to be covered by this paragraph, it must be established that the intention is that the rights will be used outside Australia.
+36. The requirement that 'the rights are for use outside Australia' in paragraph (a) of item 4 is an intention test. That is, to be covered by this paragraph, it must be established that the intention is that the rights will be used outside Australia.
 37. The actual use of the rights is not relevant, other than as evidence of the intended use.
 38. There is further discussion of the meaning of 'for use' at paragraphs 108 to 123 below.
 Supply that is made in relation to rights that are partly for use outside Australia
 39. Where rights are for use in and outside Australia an apportionment will be required unless the requirements of paragraph (b) of item 4 are met.
 40. Any reasonable method of apportionment may be used.
 Subsection 38-190(2)
-41. If a supply would otherwise be GST-free under either item 4 or any other item in the table in subsection 38-190(1), but the supply  is covered by subsection 38-190(2), the supply is not GST-free.  Subsection 38-190(2) applies to a supply which would otherwise be covered by an item in the table where the supply is a supply of a right or option to acquire something the supply of which would be connected with Australia and would not be GST-free.
+41. If a supply would otherwise be GST-free under either item 4 or any other item in the table in subsection 38-190(1), but the supply is covered by subsection 38-190(2), the supply is not GST-free. Subsection 38-190(2) applies to a supply which would otherwise be covered by an item in the table where the supply is a supply of a right or option to acquire something the supply of which would be connected with Australia and would not be GST-free.
 42. Subsection 38-190(2) does not apply to a surrender of a right or option to acquire something.
 Explanation (this forms part of the Ruling)
 Supplies that are capable of being covered by item 4
@@ -445,7 +442,7 @@ confidential information - these intellectual property rights prevent the public
 Computer software
 83. Computer software is a specific example of intellectual property. Computer software can be described as 'computer programs consisting of encoded instructions designed to cause a computer to perform a particular task or to produce a particular result'.
 [27]
-A computer program is, in substance, knowledge or information, that is, it is intellectual property.  However, the carrying medium for a computer program, for example, a disk, is tangible property.
+A computer program is, in substance, knowledge or information, that is, it is intellectual property. However, the carrying medium for a computer program, for example, a disk, is tangible property.
 [28]
 84. A supply of computer software may involve only a grant of rights (for example, rights to copy programs) or an assignment of rights (for example, assignment of the copyright in a program) or it may also include a supply of goods, such as a disk.
 85. The nature of computer software and various transactions involving computer software is examined in some depth for income tax purposes in Taxation Ruling TR 93/12.
@@ -460,39 +457,39 @@ Sale of Goods Act 1923.
 Rogers J said:
 [31]
 At the end of the day what weighs with me is that the system, software included, whilst representing the fruits of much research and work, was in the current jargon off the shelf, in a sense mass produced.
-87. Where 'off-the-shelf' computer software is supplied embodied in a carrying medium such as a disk, this is a supply of goods.  The whole of the purchase price of the disk is treated as proceeds from the sale of goods, notwithstanding that there may be an ancillary supply of a licence to use the program.
+87. Where 'off-the-shelf' computer software is supplied embodied in a carrying medium such as a disk, this is a supply of goods. The whole of the purchase price of the disk is treated as proceeds from the sale of goods, notwithstanding that there may be an ancillary supply of a licence to use the program.
 [32]
-88. A sale of 'off-the-shelf' software on disk will commonly be accompanied by a 'shrinkwrap licence'.  The licence commonly denies users the authority to make backup copies, modify, or resell the software or to decompile the code.  The essential nature of the transaction is a supply of the computer program, on disk, albeit subject to restrictions and disclaimers, rather than a supply of a
+88. A sale of 'off-the-shelf' software on disk will commonly be accompanied by a 'shrinkwrap licence'. The licence commonly denies users the authority to make backup copies, modify, or resell the software or to decompile the code. The essential nature of the transaction is a supply of the computer program, on disk, albeit subject to restrictions and disclaimers, rather than a supply of a
 right to use
-the article.  It is no more a supply of a right to use the program than the supply of a book is a supply of a right to use the material in the book.  The inclusion of a shrinkwrap licence of this kind does not change the character of the supply to a supply of a right; it remains a supply of goods.
-89. However, computer software supplied in intangible form, for example by downloading it from the internet, is not a supply of goods as there is no tangible property supplied. The inclusion of a 'clickwrap licence' in similar terms to the common form of 'shrinkwrap licence' referred to above will not, in itself, mean that the supply is a supply of rights.   Where the software downloaded is standard or 'off-the-shelf' software, what is supplied is the computer program, subject to restrictions on its use.  If the essential nature of the transaction is the supply of the computer program, subject to restrictions on its use, the fact that a 'licence' relating to the supply of the software is couched in terms of a licence 'to use' the software will not in itself mean that the substance of the supply is a supply of a right to use the software.  Similarly, incidental copyright rights, such as the right to copy for downloading purposes, do not change the essential nature of the supply
+the article. It is no more a supply of a right to use the program than the supply of a book is a supply of a right to use the material in the book. The inclusion of a shrinkwrap licence of this kind does not change the character of the supply to a supply of a right; it remains a supply of goods.
+89. However, computer software supplied in intangible form, for example by downloading it from the internet, is not a supply of goods as there is no tangible property supplied. The inclusion of a 'clickwrap licence' in similar terms to the common form of 'shrinkwrap licence' referred to above will not, in itself, mean that the supply is a supply of rights. Where the software downloaded is standard or 'off-the-shelf' software, what is supplied is the computer program, subject to restrictions on its use. If the essential nature of the transaction is the supply of the computer program, subject to restrictions on its use, the fact that a 'licence' relating to the supply of the software is couched in terms of a licence 'to use' the software will not in itself mean that the substance of the supply is a supply of a right to use the software. Similarly, incidental copyright rights, such as the right to copy for downloading purposes, do not change the essential nature of the supply
 90. A supply of rights in relation to the copyright in the program itself, which allows the licensee to modify, adapt or copy or otherwise do, for commercial purposes, what would ordinarily be the exclusive right of the copyright owner,
 [33]
 is a supply that is made in relation to rights.
-91. Where a one-off solution is developed by a computer programmer for a client, the correct analysis of the supply will depend on all the facts and circumstances, including the terms of the contract between programmer and client.  For example, a one-off program may be developed as a solution to a particular information technology problem at great expense over a period of months.
-92. Where, under the terms of the agreement, copyright in the program will vest upon its creation in the client, whether the program is delivered to the client electronically or on disk, the supply is a supply of services.  There is no right supplied in these circumstances.
-93. If the programmer contracts to develop a solution and make it available for the client, on terms that copyright in the program, once developed and accepted by the client, will be assigned to the client, the supply will be a mixed supply, comprising the development and a supply of the program and assignment of copyright in the program.  Assignment of the copyright is the supply of a right, but supply of the program is not.  The supply of the program is not a supply of goods even if it is delivered in tangible form on a disk.
-94. Apportionment of the consideration between the development and supply of the program, and the assignment of the copyright, may be required in such cases.  The program may be highly customised to the client's requirements, such that it is unlikely to be suitable for other commercial exploitation.  It may therefore be unlikely that the client will wish to do things which would otherwise breach copyright, or that there would be significant commercial value to the programmer in retaining copyright.  In that case, it is to be expected that little or no consideration would be apportioned to the assignment of the copyright.
+91. Where a one-off solution is developed by a computer programmer for a client, the correct analysis of the supply will depend on all the facts and circumstances, including the terms of the contract between programmer and client. For example, a one-off program may be developed as a solution to a particular information technology problem at great expense over a period of months.
+92. Where, under the terms of the agreement, copyright in the program will vest upon its creation in the client, whether the program is delivered to the client electronically or on disk, the supply is a supply of services. There is no right supplied in these circumstances.
+93. If the programmer contracts to develop a solution and make it available for the client, on terms that copyright in the program, once developed and accepted by the client, will be assigned to the client, the supply will be a mixed supply, comprising the development and a supply of the program and assignment of copyright in the program. Assignment of the copyright is the supply of a right, but supply of the program is not. The supply of the program is not a supply of goods even if it is delivered in tangible form on a disk.
+94. Apportionment of the consideration between the development and supply of the program, and the assignment of the copyright, may be required in such cases. The program may be highly customised to the client's requirements, such that it is unlikely to be suitable for other commercial exploitation. It may therefore be unlikely that the client will wish to do things which would otherwise breach copyright, or that there would be significant commercial value to the programmer in retaining copyright. In that case, it is to be expected that little or no consideration would be apportioned to the assignment of the copyright.
 Insurance
 95. The general law recognises that what an insured obtains under a contract of insurance is a chose in action.
 [34]
-Where, under the contract of insurance, the insurer agrees to compensate the insured for a loss that the insured may sustain through the happening of an event, this chose in action is a right to be indemnified if the insured event occurs.  There is a supply by way of a creation of a right when the contract of insurance is entered into.
-96. A contract of life insurance and many contracts of accident insurance are not contracts of indemnity as they provide for the payment of a specified sum upon the occurrence of an event such as death or accident.  What the insured obtains is a chose in action that is a right to receive a certain sum upon the occurrence of the event. There is a supply by way of a creation of a right when the contract of insurance is entered into.
+Where, under the contract of insurance, the insurer agrees to compensate the insured for a loss that the insured may sustain through the happening of an event, this chose in action is a right to be indemnified if the insured event occurs. There is a supply by way of a creation of a right when the contract of insurance is entered into.
+96. A contract of life insurance and many contracts of accident insurance are not contracts of indemnity as they provide for the payment of a specified sum upon the occurrence of an event such as death or accident. What the insured obtains is a chose in action that is a right to receive a certain sum upon the occurrence of the event. There is a supply by way of a creation of a right when the contract of insurance is entered into.
 97. There is an example of a supply of insurance at paragraphs 119 to 121 below.
 Supply of capacity in an international telecommunication network
-98. Telecommunication carriers (telcos) arrange telecommunication networks for clients' exclusive use.  These networks have various names such as leased lines, international private circuits, indefeasible rights to use (IRUs), and global networks.  To establish these networks, telcos acquire the right to access capacity in various telecommunication cables throughout the world and supply capacity to their clients.
+98. Telecommunication carriers (telcos) arrange telecommunication networks for clients' exclusive use. These networks have various names such as leased lines, international private circuits, indefeasible rights to use (IRUs), and global networks. To establish these networks, telcos acquire the right to access capacity in various telecommunication cables throughout the world and supply capacity to their clients.
 99. In
 Overseas Telecommunications Commission (Australia) v. FCT
 [35]
-Lockhart J had to decide whether, under the relevant IRU agreement, Overseas Telecommunications Commission (OTC) granted a right to use a cable to another party (STA) or whether there was an undertaking by OTC to provide telecommunication services to STA.  This question would determine whether OTC was entitled to income tax deductions for investment allowance purposes.  Lockhart J held the effect of the relevant IRU agreement was that OTC granted a right to STA.  This was the substance of the transaction.
+Lockhart J had to decide whether, under the relevant IRU agreement, Overseas Telecommunications Commission (OTC) granted a right to use a cable to another party (STA) or whether there was an undertaking by OTC to provide telecommunication services to STA. This question would determine whether OTC was entitled to income tax deductions for investment allowance purposes. Lockhart J held the effect of the relevant IRU agreement was that OTC granted a right to STA. This was the substance of the transaction.
 100. This case supports our view that the supply of this type of capacity in an international telecommunication network is a supply of a right.
 Membership subscriptions
-101. Supplies of membership subscriptions can be difficult to characterise as there may be elements of services, rights or goods provided by the supplier.  The principles outlined in GSTR 2001/8 are relevant in analysing a supply to determine whether it comprises separately identifiable parts that should be treated as supplies in their own right.
-102. In characterising supplies of membership subscriptions it is necessary to determine what in substance and reality is supplied in return for the subscription payment.  The characterisation of the supply does not depend on what an individual member subjectively paid the subscription for.
+101. Supplies of membership subscriptions can be difficult to characterise as there may be elements of services, rights or goods provided by the supplier. The principles outlined in GSTR 2001/8 are relevant in analysing a supply to determine whether it comprises separately identifiable parts that should be treated as supplies in their own right.
+102. In characterising supplies of membership subscriptions it is necessary to determine what in substance and reality is supplied in return for the subscription payment. The characterisation of the supply does not depend on what an individual member subjectively paid the subscription for.
 [36]
 Example 1 - a professional membership subscription supplied to a non-resident
 103.
-An Australian organisation supplies a professional membership subscription to a non-resident.  The entity provides its members with:
+An Australian organisation supplies a professional membership subscription to a non-resident. The entity provides its members with:
 •
 promotion of the interests of the profession or its members to the general public;
 •
@@ -508,14 +505,14 @@ discounts on registration fees for conferences or seminars in Australia; and
 •
 the right to use post-nominals demonstrating membership of the entity.
 104.
-The supply is characterised as a supply of services and not a supply that is made in relation to rights.  Although there are incidental components of goods and rights, the dominant part of the composite supply is the supply of services.   This is the supply for consideration.
+The supply is characterised as a supply of services and not a supply that is made in relation to rights. Although there are incidental components of goods and rights, the dominant part of the composite supply is the supply of services. This is the supply for consideration.
 [37]
-105. There may be situations where the supply for consideration in respect of membership subscriptions is the supply of a right, or a combination of a supply of a right and a supply of services that are to be treated as separately identifiable parts of the supply.  It will be a case of weighing up what is supplied in each case to determine the supply for which the subscription amount is consideration.
+105. There may be situations where the supply for consideration in respect of membership subscriptions is the supply of a right, or a combination of a supply of a right and a supply of services that are to be treated as separately identifiable parts of the supply. It will be a case of weighing up what is supplied in each case to determine the supply for which the subscription amount is consideration.
 Example 2 - a museum membership subscription for use outside Australia
 106.
-A museum in Australia sells a membership subscription to an Australian resident.  The membership subscription only entitles the Australian resident to a discount on the entry fee for specified affiliated museums in Europe.
+A museum in Australia sells a membership subscription to an Australian resident. The membership subscription only entitles the Australian resident to a discount on the entry fee for specified affiliated museums in Europe.
 107.
-The supply is characterised as a supply of rights.  The Australian resident is supplied with the right to a discount for use outside Australia.  The supply is GST-free under paragraph (a) of item 4.
+The supply is characterised as a supply of rights. The Australian resident is supplied with the right to a discount for use outside Australia. The supply is GST-free under paragraph (a) of item 4.
 Supply that is made in relation to rights 'for use outside Australia'
 Meaning of 'for use'
 108. A supply that is made in relation to rights is GST-free under paragraph (a) of item 4 'if the rights are for use outside Australia'.
@@ -541,7 +538,7 @@ IDS Aircraft Ltd
 113. In deciding whether the dry leasing of the aircraft was made 'for use' in a place outside any country of the EU 'throughout the period' of the dry leasing, the Tribunal stated:
 What I have to determine in this case is whether the company let the Cessna on hire under the dry lease for use outside the EU throughout the period of the hiring. This in my judgment means that I am required to consider the intended purpose of the hiring. That dry lease was agreed by telephone without documentation and without any express agreement or term as to where it should be used or not used. The Cessna has a range well beyond the Channel Islands. On any objective basis it must have appeared likely to people in the aircraft chartering business that the Cessna would be used by Beauport for a significant period of the hiring in flights to and from, or over, countries of the EU. It is for the company to satisfy me that its appeal is justified. It has not satisfied me that on the balance of probabilities the charter was entered into for use only in the Channel Islands or elsewhere outside the EU.46
 114. [Omitted.]
-115. There is authority to the effect that the intended use of a thing can encompass the intended on-supply of that thing.  In
+115. There is authority to the effect that the intended use of a thing can encompass the intended on-supply of that thing. In
 Shell-Mex and BP Ltd v. Clayton
 [47]
 it was held by the UK Court of Appeal that oil was 'intended for the use of' the appellant notwithstanding that the appellant received the oil for the purpose of sale and distribution.
@@ -549,7 +546,7 @@ it was held by the UK Court of Appeal that oil was 'intended for the use of' the
 Max Factor & Co v. FC of T
 [48]
 (Max Factor)
-where it was held that the word 'use' is to be understood in its ordinary meaning of purpose served or object or end and is not restricted to any notion of actual physical use.  In
+where it was held that the word 'use' is to be understood in its ordinary meaning of purpose served or object or end and is not restricted to any notion of actual physical use. In
 Max Factor
 a manufacturer of cosmetics was held to be applying goods to its own use (for the purposes of the relevant sales tax provision) in giving goods away in the course of its business.
 116A. In
@@ -559,51 +556,51 @@ French CJ and Hayne J noted that 'where it is evident that the currency is to be
 Heydon J pointed to the intention of the purchaser of the currency being relevant in determining if the rights were for use outside Australia. Specifically, his Honour noted that 'Mr Urquhart acquired the currency with the intention of spending it in Fiji, and that intention was confirmed by the fact that he did spend it there.'
 [48B]
 The Commissioner considers that the intention of the purchaser of currency is relevant in determining if the rights attached to that currency are for use outside Australia. A supply in Australia of foreign currency from a foreign currency exchange company to a bank in Australia is not a supply made in relation to rights that are 'for use outside Australia' where the bank intends to sell the currency in Australia. The supply by the bank may satisfy the test of 'for use outside Australia' if it is the purchaser's intention to use the currency outside Australia.
-117. The intended use of a right also encompasses the situation where the recipient does not actually exploit the right.  For example, a patent may be acquired by an entity in the course of its enterprise to prevent other entities from exploiting that right.  In these circumstances, the right is for use where it prevents other entities from exploiting the right.
-118. A supply of insurance is for use where coverage of the risk is located.  The insured has a right to be indemnified or a right to payment of a specified sum if the insured event occurs.  The fact that a claim may be made in a particular place following the occurrence of an event, or that a claim must be made on the insurer in a particular place, does not mean that the right is for use in that place.  In addition, the fact that no claim may be made on an insurance policy does not affect where the rights under the insurance policy are for use.
+117. The intended use of a right also encompasses the situation where the recipient does not actually exploit the right. For example, a patent may be acquired by an entity in the course of its enterprise to prevent other entities from exploiting that right. In these circumstances, the right is for use where it prevents other entities from exploiting the right.
+118. A supply of insurance is for use where coverage of the risk is located. The insured has a right to be indemnified or a right to payment of a specified sum if the insured event occurs. The fact that a claim may be made in a particular place following the occurrence of an event, or that a claim must be made on the insurer in a particular place, does not mean that the right is for use in that place. In addition, the fact that no claim may be made on an insurance policy does not affect where the rights under the insurance policy are for use.
 Example 3 - supply of public liability insurance to a resident company whose employees are working overseas
 119.
-An insurance company in Australia supplies public liability insurance to an Australian resident company to protect it against liability claims arising as a result of any negligence by its employees while they are working overseas.  The relevant contract is made by the parties in Australia.
+An insurance company in Australia supplies public liability insurance to an Australian resident company to protect it against liability claims arising as a result of any negligence by its employees while they are working overseas. The relevant contract is made by the parties in Australia.
 120.
-The contract of insurance gives the insured party a right to be indemnified if the insured event occurs.  The right to be indemnified is for use where the insured event or coverage of the risk is located.
+The contract of insurance gives the insured party a right to be indemnified if the insured event occurs. The right to be indemnified is for use where the insured event or coverage of the risk is located.
 121.
-As the risk that is covered by the insurance policy is outside Australia, the right is for use outside Australia.  The supply is GSTfree under paragraph (a) of item 4.
-122. The extent to which rights are actually used outside Australia may prove to be different from the intended use. This may happen if there is a change in circumstances which was not foreseen when the judgment about the intended use was made, that is, when the rights were created, granted, transferred, assigned or surrendered.  As noted at paragraph 114, the difference between the intended and actual use does not affect the extent to which the supply is taxable or GST-free.
-123. However, a large variation that is not explicable by an unforeseen change in circumstances may be evidence that the assessment of the intended use was not reasonable.  This is an example of where actual use may be relevant as evidence of the intention when the supply was made.
+As the risk that is covered by the insurance policy is outside Australia, the right is for use outside Australia. The supply is GSTfree under paragraph (a) of item 4.
+122. The extent to which rights are actually used outside Australia may prove to be different from the intended use. This may happen if there is a change in circumstances which was not foreseen when the judgment about the intended use was made, that is, when the rights were created, granted, transferred, assigned or surrendered. As noted at paragraph 114, the difference between the intended and actual use does not affect the extent to which the supply is taxable or GST-free.
+123. However, a large variation that is not explicable by an unforeseen change in circumstances may be evidence that the assessment of the intended use was not reasonable. This is an example of where actual use may be relevant as evidence of the intention when the supply was made.
 [49]
 Supplies of services made in relation to rights that a recipient already owns
 123A. If a supply of services is made to a recipient in relation to rights that the recipient already owns, we consider that it is the intended use of the rights at the time the services are provided that is relevant. The previous use of the rights is not relevant, other than as potential evidence of the intended use. Accordingly, a supply of a service is not GST-free if it is made in relation to rights that, before the supply of the service, were used offshore, but following the supply are intended to be used in Australia.
 Supply that is made in relation to rights that are partly for use outside Australia
-124. Section 9-5 provides that a supply is not a taxable supply to the extent that it is GST-free or input taxed.  Accordingly, a supply that is made in relation to rights is GST-free under paragraph (a) of item 4 to the extent that the rights were intended, at the time they were created, granted, transferred, assigned or surrendered, to be used outside Australia.
-125. You work out the GST payable on a supply that is made in relation to rights that are partly for use outside Australia by apportioning the consideration between the part of the supply that is made in relation to rights for use in Australia and the part that is made in relation to rights for use outside Australia.  Apportionment of the consideration for a supply that includes taxable and non-taxable parts
+124. Section 9-5 provides that a supply is not a taxable supply to the extent that it is GST-free or input taxed. Accordingly, a supply that is made in relation to rights is GST-free under paragraph (a) of item 4 to the extent that the rights were intended, at the time they were created, granted, transferred, assigned or surrendered, to be used outside Australia.
+125. You work out the GST payable on a supply that is made in relation to rights that are partly for use outside Australia by apportioning the consideration between the part of the supply that is made in relation to rights for use in Australia and the part that is made in relation to rights for use outside Australia. Apportionment of the consideration for a supply that includes taxable and non-taxable parts
 [50]
 is discussed in Goods and Services Tax Ruling GSTR 2001/8.
 [51]
 126. You may use any reasonable method of apportioning the consideration between the part of the supply that is made in relation to rights for use in Australia and the part that is made in relation to rights for use outside Australia.
 Reasonable method of apportionment
-127. What is a reasonable method of apportioning the consideration for a supply to reflect the extent to which rights are for use outside Australia depends on the nature of the supply and all the surrounding circumstances.  In some cases, this may be evident to the supplier of the rights from the contract that the supplier has entered into.
-128. However, in many cases it is the recipient of the supply who will have the best information available to it to determine the extent to which the rights are for use outside Australia.  It is expected that, in these circumstances, the supplier will consult with the recipient to obtain that information or to be satisfied that the recipient has made a genuine attempt to determine the extent to which the rights are for use outside Australia.
+127. What is a reasonable method of apportioning the consideration for a supply to reflect the extent to which rights are for use outside Australia depends on the nature of the supply and all the surrounding circumstances. In some cases, this may be evident to the supplier of the rights from the contract that the supplier has entered into.
+128. However, in many cases it is the recipient of the supply who will have the best information available to it to determine the extent to which the rights are for use outside Australia. It is expected that, in these circumstances, the supplier will consult with the recipient to obtain that information or to be satisfied that the recipient has made a genuine attempt to determine the extent to which the rights are for use outside Australia.
 129. Factors that may be relevant to forming a judgment as to the extent of intended use of rights for the purposes of paragraph (a) of item 4 include:
 •
 expectations of the recipient, based on reasonable grounds, as to the likely use of the right over the period for which the right is granted, or if the right has been granted for an unspecified period, the expectations of the recipient as to the likely use over the anticipated period of use;
 •
-economic, social, cultural and political conditions  the nature of the right itself, for example, the language of a written work or its relevance to a particular culture, may influence where the right will be used;
+economic, social, cultural and political conditions the nature of the right itself, for example, the language of a written work or its relevance to a particular culture, may influence where the right will be used;
 •
-past revenue, royalty or profitability patterns evident from the use of similar rights  this may come from industry statistics or from past experience in the recipient's business; and
+past revenue, royalty or profitability patterns evident from the use of similar rights this may come from industry statistics or from past experience in the recipient's business; and
 •
 projected use of the right in and outside Australia based on market research.
 Example 4 - supply of worldwide copyright
 130.
-An Australian resident musician assigns worldwide copyright in music to an Australian resident record company.  The relevant contract is signed by the parties in Australia.
+An Australian resident musician assigns worldwide copyright in music to an Australian resident record company. The relevant contract is signed by the parties in Australia.
 131.
 The supply of copyright is not a supply of goods or real property for GST purposes.
 132.
-The supply of copyright will be GST-free under paragraph (a) of item 4 to the extent that the supply of rights is for use outside Australia.  A reasonable basis of apportionment should be used. A reasonable basis may be the proportion of total projected sales or profits that is expected to be generated outside Australia.
+The supply of copyright will be GST-free under paragraph (a) of item 4 to the extent that the supply of rights is for use outside Australia. A reasonable basis of apportionment should be used. A reasonable basis may be the proportion of total projected sales or profits that is expected to be generated outside Australia.
 Alternative View
-133. There is an alternative view that apportionment is not required by paragraph (a) of item 4.  Under this view, a supply is wholly GSTfree under paragraph (a) of item 4 if, having regard to the essential and substantive character of the supply, it is properly characterised as a supply made in relation to rights for use outside Australia, notwithstanding that there may also be intended use of the right in Australia.  It would follow that a supply may be fully taxable, notwithstanding that there may be some intended use of the right outside Australia, if its essential and substantive character is as a supply made in relation to rights for use in Australia.
+133. There is an alternative view that apportionment is not required by paragraph (a) of item 4. Under this view, a supply is wholly GSTfree under paragraph (a) of item 4 if, having regard to the essential and substantive character of the supply, it is properly characterised as a supply made in relation to rights for use outside Australia, notwithstanding that there may also be intended use of the right in Australia. It would follow that a supply may be fully taxable, notwithstanding that there may be some intended use of the right outside Australia, if its essential and substantive character is as a supply made in relation to rights for use in Australia.
 134. However, this alternative view does not, in the Commissioner's view, give effect to the requirement in section 9-5 that a supply is not taxable to the extent that it is GST-free.
 Attribution of GST
-135. The basic attribution rules are set out in Division 29.  If you account for GST on a cash basis you attribute GST on a taxable supply to the tax period in which you receive consideration for the supply to the extent that the consideration is received in that tax period.
+135. The basic attribution rules are set out in Division 29. If you account for GST on a cash basis you attribute GST on a taxable supply to the tax period in which you receive consideration for the supply to the extent that the consideration is received in that tax period.
 [52]
 If you do not account for GST on a cash basis, you attribute all the GST payable on a taxable supply to the earlier of the tax period in which:
 •
@@ -612,12 +609,12 @@ any of the consideration for the supply is received; or
 an invoice for the supply is issued.
 [53]
 Where there is a periodic or progressive supply or acquisition, can Division 156 be used to attribute based on actual use?
-136. Division 156 provides a special rule where you do not account for GST on a cash basis and a supply is made for a period or on a progressive basis.  Under Division 156, where a supply is made for a period or on a progressive basis and the consideration is provided on a progressive or periodic basis, the GST payable and input tax credits are attributed as if each periodic component were a separate supply/acquisition.  An example is where rights are granted for a period in return for the payment of periodic royalties.
-137. Division 156 does not treat the supply as if it were a series of separate supplies.  Rather, it simply allows the GST on the supply to be attributed as if there were separate supplies.  Where a right is supplied for a period and is partly for use outside Australia, you apportion the consideration for the supply to its GST-free part, based on the extent to which the right is intended, when the supply is made, to be used outside Australia.  This means that the apportionment will be the same for each component of a progressive or periodic supply covered by Division 156.
-138. Similarly, under Division 29, if you account for GST on a cash basis, you attribute GST progressively as you receive the consideration.  This means that the apportionment will be the same for each tax period to which you attribute the GST payable as you receive the consideration.
-139. An example of a supply that is partly taxable is the supply of a right assigned in Australia to another Australian entity to exploit copyright on a worldwide basis for 10 years.  Based on the expected use of the copyright in Australia and outside Australia, the royalty payments are for a partly taxable and partly GST-free supply.  The supplier needs to determine, at the time of making the assignment, where the right is to be used to determine the taxable portion of the supply. As the royalty payments are for a supply for a period, the amount of GST to be remitted by the supplier in each tax period is based on the intended use at the time the supply is made.  Division 156 cannot be used to apportion based on the actual use in each tax period.
+136. Division 156 provides a special rule where you do not account for GST on a cash basis and a supply is made for a period or on a progressive basis. Under Division 156, where a supply is made for a period or on a progressive basis and the consideration is provided on a progressive or periodic basis, the GST payable and input tax credits are attributed as if each periodic component were a separate supply/acquisition. An example is where rights are granted for a period in return for the payment of periodic royalties.
+137. Division 156 does not treat the supply as if it were a series of separate supplies. Rather, it simply allows the GST on the supply to be attributed as if there were separate supplies. Where a right is supplied for a period and is partly for use outside Australia, you apportion the consideration for the supply to its GST-free part, based on the extent to which the right is intended, when the supply is made, to be used outside Australia. This means that the apportionment will be the same for each component of a progressive or periodic supply covered by Division 156.
+138. Similarly, under Division 29, if you account for GST on a cash basis, you attribute GST progressively as you receive the consideration. This means that the apportionment will be the same for each tax period to which you attribute the GST payable as you receive the consideration.
+139. An example of a supply that is partly taxable is the supply of a right assigned in Australia to another Australian entity to exploit copyright on a worldwide basis for 10 years. Based on the expected use of the copyright in Australia and outside Australia, the royalty payments are for a partly taxable and partly GST-free supply. The supplier needs to determine, at the time of making the assignment, where the right is to be used to determine the taxable portion of the supply. As the royalty payments are for a supply for a period, the amount of GST to be remitted by the supplier in each tax period is based on the intended use at the time the supply is made. Division 156 cannot be used to apportion based on the actual use in each tax period.
 No adjustment where actual use differs from intended use
-140.  Division 19 outlines how adjustments arise through adjustment events.  Subsection 19-10(1) states:
+140. Division 19 outlines how adjustments arise through adjustment events. Subsection 19-10(1) states:
 An adjustment event is any event which has the effect of:
 (a)
 cancelling a supply or acquisition; or
@@ -625,25 +622,25 @@ cancelling a supply or acquisition; or
 changing the consideration for a supply or acquisition; or
 (c)
 causing a supply or acquisition to become, or stop being, a taxable supply or creditable acquisition.
-141. The extent to which a supply of a right is GST-free under paragraph (a) of item 4 is a question of apportionment based on the extent of intended use of the right outside Australia.  There is no adjustment event under paragraph 19-10(1)(c), where the actual use differs from the intended use, as nothing has occurred to cause the supply to become or stop being a taxable supply. A change in use of a supply of rights does not cause the supply to become or stop being a taxable supply for the purposes of Division 19.
-142. Adjustments to input tax credits for changes in use are accounted for under Division 129.  However, there are no adjustments, under Division 129 or any other provision, to the input tax credit entitlement of the recipient of a supply made in relation to rights, as a consequence of a variation between the intended use of the rights outside Australia and their actual use.
+141. The extent to which a supply of a right is GST-free under paragraph (a) of item 4 is a question of apportionment based on the extent of intended use of the right outside Australia. There is no adjustment event under paragraph 19-10(1)(c), where the actual use differs from the intended use, as nothing has occurred to cause the supply to become or stop being a taxable supply. A change in use of a supply of rights does not cause the supply to become or stop being a taxable supply for the purposes of Division 19.
+142. Adjustments to input tax credits for changes in use are accounted for under Division 129. However, there are no adjustments, under Division 129 or any other provision, to the input tax credit entitlement of the recipient of a supply made in relation to rights, as a consequence of a variation between the intended use of the rights outside Australia and their actual use.
 Subsection 38-190(2)
-143. Subsection 38-190(2) is designed to ensure that the supply of a right or option is not GST-free if the right or option can be redeemed for the supply of something else, the supply of which would be a taxable supply.  A supply to which subsection 38-190(2) applies is not GST-free even if item 4 or another item in the table in subsection 38190(1) would otherwise apply.
+143. Subsection 38-190(2) is designed to ensure that the supply of a right or option is not GST-free if the right or option can be redeemed for the supply of something else, the supply of which would be a taxable supply. A supply to which subsection 38-190(2) applies is not GST-free even if item 4 or another item in the table in subsection 38190(1) would otherwise apply.
 144. Without subsection 38-190(2), the supply of a thing that is connected with Australia, and not otherwise GSTfree, could occur without GST being payable, if all of the consideration were to be provided for the granting of a right or option to acquire the thing, notwithstanding that when the thing itself is supplied it may be consumed in Australia.
 145. If there is a supply of a right or option to acquire
 a supply that would be GST-free,
-subsection 38-190(2) does not negate the GSTfree status of the supply of the right or option accorded by one of the items in the table in subsection 38-190(1).  This includes a case where the underlying supply is itself GST-free under one of the items in the table in subsection 38-190(1).
+subsection 38-190(2) does not negate the GSTfree status of the supply of the right or option accorded by one of the items in the table in subsection 38-190(1). This includes a case where the underlying supply is itself GST-free under one of the items in the table in subsection 38-190(1).
 146. Subsection 38-190(2) was amended by the
 Indirect Tax Legislation Amendment Act 2000
-to make it clear that the subsection does not apply where the supply underlying the right would be GST-free.  That is, where the right is redeemed for a GST-free supply.
+to make it clear that the subsection does not apply where the supply underlying the right would be GST-free. That is, where the right is redeemed for a GST-free supply.
 147. The example given in the Explanatory Memorandum to the Bill
 [54]
-for that Act is of a supply of a right where the underlying supply is a financial supply to a non-resident that is GST-free.  It was recognised that to treat the supply of the right as not being GST-free, when the underlying supply would be GST-free, would have been inconsistent.
-148. Where a transaction involves a supply of a right or option to acquire something, the supplier will usually enter into an obligation to supply the thing if the right or option is exercised.  The fact that the transaction also involves an entry into an obligation does not in itself preclude the operation of subsection 38-190(2) if there is a relevant supply of a right or option to acquire something.
+for that Act is of a supply of a right where the underlying supply is a financial supply to a non-resident that is GST-free. It was recognised that to treat the supply of the right as not being GST-free, when the underlying supply would be GST-free, would have been inconsistent.
+148. Where a transaction involves a supply of a right or option to acquire something, the supplier will usually enter into an obligation to supply the thing if the right or option is exercised. The fact that the transaction also involves an entry into an obligation does not in itself preclude the operation of subsection 38-190(2) if there is a relevant supply of a right or option to acquire something.
 Example 5 - right or option to acquire equipment
 149.
-An Australian company grants an option to acquire equipment in Australia to a non-resident company that is not in Australia when the grant occurs.  There are within the one contract both the creation of the contractual right to acquire the equipment and the entry into the contractual obligation to supply the equipment (if the option is exercised).  The supply of the option is the substance of the supply.  Subsection 38-190(2) ensures that the supply of the right to acquire the equipment is excluded from GST-free status under any of the items in the table in subsection 38-190(1), as the supply of the equipment would be connected with Australia and would not be GST-free.
-150. Subsection 38-190(2) uses the composite expression 'supply of a right or option to acquire something'.  If the drafter had intended that the expression should cover all of the ways that a right may be supplied as contemplated by paragraph 9-10(2)(e), it is to be expected that the phrase 'supply that is made in relation to rights' used in item 4 would also have been used in subsection 38-190(2).  Since it was not, we take the view that the expression takes its ordinary meaning.  As such, it is apt to cover a supply of a right or option to acquire something by way of grant or creation of the right or option or transfer or assignment of the right or option, but does not extend to a surrender of a right or option to acquire something.
+An Australian company grants an option to acquire equipment in Australia to a non-resident company that is not in Australia when the grant occurs. There are within the one contract both the creation of the contractual right to acquire the equipment and the entry into the contractual obligation to supply the equipment (if the option is exercised). The supply of the option is the substance of the supply. Subsection 38-190(2) ensures that the supply of the right to acquire the equipment is excluded from GST-free status under any of the items in the table in subsection 38-190(1), as the supply of the equipment would be connected with Australia and would not be GST-free.
+150. Subsection 38-190(2) uses the composite expression 'supply of a right or option to acquire something'. If the drafter had intended that the expression should cover all of the ways that a right may be supplied as contemplated by paragraph 9-10(2)(e), it is to be expected that the phrase 'supply that is made in relation to rights' used in item 4 would also have been used in subsection 38-190(2). Since it was not, we take the view that the expression takes its ordinary meaning. As such, it is apt to cover a supply of a right or option to acquire something by way of grant or creation of the right or option or transfer or assignment of the right or option, but does not extend to a surrender of a right or option to acquire something.
 Detailed contents list
 151. Below is a detailed contents list for this draft Ruling:
 Paragraph
@@ -792,7 +789,7 @@ Saga Holidays Limited v. Commissioner of Taxation
 [10B]
 Australian Legal Dictionary, Butterworths, 1997.
 [10C]
-GSTR 2001/8 Goods and services tax:  apportioning the consideration for a supply that includes taxable and non-taxable parts.
+GSTR 2001/8 Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts.
 [10D]
 In listing the various types of supplies, subsection 9-10(2) refers to the 'provision of advice or information' separately from 'services', but in this section of the Ruling the term 'service' is, for simplicity, used to cover both.
 [11]
@@ -819,7 +816,7 @@ For example, in
 Jack v. Smail
 (1905) 2 CLR 684 it was held that a grocer's licence conferred a personal right to carry on a business of a grocer at specified premises. In
 Burns Philip Trustee Company Ltd v. Ironside Investments Pty Ltd
-[1984] 2 Qd R 16 Shepherdson J held that a tavern licence was a personal right to the holder of such a licence.  In
+[1984] 2 Qd R 16 Shepherdson J held that a tavern licence was a personal right to the holder of such a licence. In
 Pyke v. Duncan
 [1989] VR Natham J held that licences under the Victorian
 Fisheries Act
@@ -943,7 +940,7 @@ Indirect Tax Legislation Amendment Bill 2000 Explanatory Memorandum at paragraph
 Previously released as GSTR 2002/D10.
 References
 ATO references:
-NO  2002/020433
+NO 2002/020433
 Related Rulings/Determinations:
 GSTR 2000/28
 GSTR 2000/31
@@ -976,45 +973,45 @@ supply that is made in relation to rights
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A 1999  9-5
-ANTS(GST)A 1999  9-10(1)
-ANTS(GST)A 1999  9-10(2)
-ANTS(GST)A 1999  9-10(2)(a)
-ANTS(GST)A 1999  9-10(2)(b)
-ANTS(GST)A 1999  9-10(2)(e)
-ANTS(GST)A 1999  9-25
-ANTS(GST)A 1999  9-25(5)
-ANTS(GST)A 1999  9-25(5)(a)
-ANTS(GST)A 1999  9-25(5)(b)
-ANTS(GST)A 1999  9-25(5)(c)
-ANTS(GST)A 1999  9-30(1)(a)
-ANTS(GST)A 1999  9-30(1)(b)
-ANTS(GST)A 1999  11-15(2)(a)
-ANTS(GST)A 1999  Div 19
-ANTS(GST)A 1999  19-10(1)
-ANTS(GST)A 1999  19-10(1)(c)
-ANTS(GST)A 1999  Div 29
-ANTS(GST)A 1999  29-5(1)
-ANTS(GST)A 1999  29-5(2)
-ANTS(GST)A 1999  SubDiv 38E
-ANTS(GST)A 1999  38-185
-ANTS(GST)A 1999  38-187
-ANTS(GST)A 1999  38-188
-ANTS(GST)A 1999  38-190
-ANTS(GST)A 1999  38-190(1)
-ANTS(GST)A 1999  38-190(1)
-ANTS(GST)A 1999  38-190(1)
-ANTS(GST)A 1999  38-190(1)
-ANTS(GST)A 1999  38-190(1)
-ANTS(GST)A 1999  38-190(1)
-ANTS(GST)A 1999  38-190(2)
-ANTS(GST)A 1999  38-190(2A)
-ANTS(GST)A 1999  38-190(3)
-ANTS(GST)A 1999  38-355
-ANTS(GST)A 1999  Div 84
-ANTS(GST)A 1999  Div 129
-ANTS(GST)A 1999  Div 156
-ANTS(GST)A 1999  195-1
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-10(1)
+ANTS(GST)A 1999 9-10(2)
+ANTS(GST)A 1999 9-10(2)(a)
+ANTS(GST)A 1999 9-10(2)(b)
+ANTS(GST)A 1999 9-10(2)(e)
+ANTS(GST)A 1999 9-25
+ANTS(GST)A 1999 9-25(5)
+ANTS(GST)A 1999 9-25(5)(a)
+ANTS(GST)A 1999 9-25(5)(b)
+ANTS(GST)A 1999 9-25(5)(c)
+ANTS(GST)A 1999 9-30(1)(a)
+ANTS(GST)A 1999 9-30(1)(b)
+ANTS(GST)A 1999 11-15(2)(a)
+ANTS(GST)A 1999 Div 19
+ANTS(GST)A 1999 19-10(1)
+ANTS(GST)A 1999 19-10(1)(c)
+ANTS(GST)A 1999 Div 29
+ANTS(GST)A 1999 29-5(1)
+ANTS(GST)A 1999 29-5(2)
+ANTS(GST)A 1999 SubDiv 38E
+ANTS(GST)A 1999 38-185
+ANTS(GST)A 1999 38-187
+ANTS(GST)A 1999 38-188
+ANTS(GST)A 1999 38-190
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(2)
+ANTS(GST)A 1999 38-190(2A)
+ANTS(GST)A 1999 38-190(3)
+ANTS(GST)A 1999 38-355
+ANTS(GST)A 1999 Div 84
+ANTS(GST)A 1999 Div 129
+ANTS(GST)A 1999 Div 156
+ANTS(GST)A 1999 195-1
 TAA 1953 Sch 1 Div 358
 Indirect Tax Legislation Amendment Act 2000
 Taxation Laws Amendment Act (No. 1) 2005

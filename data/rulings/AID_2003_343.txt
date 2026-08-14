@@ -3,21 +3,16 @@ ATO ID 2003/343
 ==================================================
 
 Income Tax
-        R&D tax offset: 'R&D group turnover' - licence fees payable over more than one year of income
-        FOI status: may be released
-
+ R&D tax offset: 'R&D group turnover' - licence fees payable over more than one year of income
+ FOI status: may be released
 
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 What amount is included by the company in calculating the amount of 'R&D group turnover' for the purposes of determining the company's entitlement to the research and development (R&D) tax offset under section 73J of the Income Tax Assessment Act 1936 (ITAA 1936), where a licence fee under an agreement is payable over four years of income?
@@ -34,8 +29,6 @@ Reasons for Decision
 Section 73I of the ITAA 1936 provides that an eligible company can choose a tax offset rather than a deduction for research and development expenditure.
 Section 73J of the ITAA 1936 provides that an eligible company can only choose the tax offset if:
 
-
-
 •it would have been entitled to a deduction under sections 73B, 73BA, 73BH or 73Y of the ITAA 1936;
 •the company's aggregate research and development amount exceeds $20,000 for the income year;
 •the aggregate research and development amount for the company and other taxpayers with which it is grouped is not more than $1,000,000; and
@@ -50,16 +43,15 @@ As the supply is made over a number of years, the relevant test concerns the val
 
 32. An entity needs to include the value of a supply in its *STS group turnover for an income year if the supply is made during that income year..... The entity must do so even if it or the grouped entity does not receive consideration for the supply in the same income year in which the supply is made. This means that an entity's *STS group turnover for an income year may include the value of supplies that have been made, but for which the entity or grouped entity has not yet been paid.
 
-
 •STS group turnover is a defined term in subsection 995-1(1) of the Income Tax Assessment Act 1997, but is very similar to the definition of R&D group turnover in section 73K of the ITAA 1936.
 
 To determine what part of the total consideration given for the rights granted over the entire period of the agreement relates to the current income year, an apportionment of this consideration based on market price was adopted (see the example in paragraph 40 of Taxation Ruling TR 93/12).
 Adopting this method, it is inferred that the value of the rights supplied for the current year of income does not exceed that part of the total consideration actually due and payable in this year. Accordingly, it is that amount that is used in calculating the 'R&D group turnover' under section 73K of the ITAA 1936 for the purposes of determining the company's entitlement to the R&D tax offset under section 73J of the ITAA 1936.
 Date of decision:
-         21 February 2003
+  21 February 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
@@ -75,17 +67,16 @@ Taxation Ruling TR 93/12
 Keywords
 
 Research & development expenses
-          Research & development segment
-
+ Research & development segment
 
 Siebel/TDMS Reference Number:
-         3164859
+  3164859
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         15 May 2003
+  15 May 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

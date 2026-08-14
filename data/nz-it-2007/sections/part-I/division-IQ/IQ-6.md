@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 - (b) make the remaining amount available to another consolidated group to subtract from its net income for the tax year under section IQ 4; or
 
-- (c) make the remaining amount available under section IC 5 (Company B using company A’s tax loss).
+- (c) make the remaining amount available under section IC 5 (Company B using company A's tax loss).
 
 *Defined in this Act: amount, attributed CFC income, attributed CFC net loss, CFC, company, consolidated group, FIF, FIF income, FIF net loss, net income, tax year*
 

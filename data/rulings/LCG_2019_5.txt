@@ -60,11 +60,11 @@ Imputation
 53
 Example 2.1 - company does not have a previous income year
 59
-Example 2.2 - company does not have any assessable income in the previous  income year
+Example 2.2 - company does not have any assessable income in the previous income year
 61
-Example 2.3 - corporate tax rate is different to corporate tax rate for imputation  purposes because of aggregated turnover change in consecutive income years
+Example 2.3 - corporate tax rate is different to corporate tax rate for imputation purposes because of aggregated turnover change in consecutive income years
 65
-Example 2.4 - corporate tax rate is different to corporate tax rate for imputation  purposes because of a change in the percentage of BREPI in consecutive  income years
+Example 2.4 - corporate tax rate is different to corporate tax rate for imputation purposes because of a change in the percentage of BREPI in consecutive income years
 68
 Appendix 1 - Related ATO rulings and guidance
 71
@@ -125,61 +125,61 @@ Base rate entity passive income
 Is the form of BREPI a defined term?
 Distributions by a corporate tax entity (but not including non-portfolio dividends) and franking credits on these distributions
 [7]
-Yes:  distribution (section 960-120 of the ITAA 1997) by a corporate tax entity (section 960-115 of the ITAA 1997)
-Yes:  non-portfolio dividend:  section 317 of the
+Yes: distribution (section 960-120 of the ITAA 1997) by a corporate tax entity (section 960-115 of the ITAA 1997)
+Yes: non-portfolio dividend: section 317 of the
 Income Tax Assessment Act 1936
 (ITAA 1936)
-Yes:  franking credits:  section 205-15 of the ITAA 1997
+Yes: franking credits: section 205-15 of the ITAA 1997
 Non-share dividends
 [8]
-Yes:  section 974-120 of the ITAA 1997
+Yes: section 974-120 of the ITAA 1997
 Interest (or payments in the nature of interest)
 [9]
 except:
 •    where the entity
-No:  interest (or payments in the nature of interest)
+No: interest (or payments in the nature of interest)
 -    is a financial institution
 [10]
-Yes:  financial institution:  section 202A of the ITAA 1936
+Yes: financial institution: section 202A of the ITAA 1936
 -    is a 'registered entity' that carries on a general business of providing finance on a commercial basis
 [11]
-Yes:  registered entity:  subsection 5(3) of the
+Yes: registered entity: subsection 5(3) of the
 Financial Sector (Collection of Data) Act 2001
 (FSCDA)
-Yes:  providing finance:  subsection 32(1) of the FSCDA
+Yes: providing finance: subsection 32(1) of the FSCDA
 -    holds an 'Australian credit licence' or is a 'credit representative' of another entity that holds such an Australian credit licence
 [12]
 , or
-Yes:  Australian credit licence:  subsection 35(1) of the
+Yes: Australian credit licence: subsection 35(1) of the
 National Consumer Credit Protection Act 2009
 (NCCPA)
-Yes:  credit representative:  subsections 64(2) and 65(2) of the NCCPA
+Yes: credit representative: subsections 64(2) and 65(2) of the NCCPA
 -    is a 'financial services licensee' whose licence covers dealings in securities, or is an 'authorised representative' of such a financial services licensee, or
-Yes:  financial services licensee:  section 761A of the
+Yes: financial services licensee: section 761A of the
 Corporations Act 2001
-Yes:  authorised representative:  section 761A of the
+Yes: authorised representative: section 761A of the
 Corporations Act 2001
 •    to the extent that it is a return on an equity interest in a company
 [13]
-Yes:  equity interest in a company: Subdivision 974-C of the ITAA 1997
+Yes: equity interest in a company: Subdivision 974-C of the ITAA 1997
 Royalties
 [14]
 Yes
 [15]
-:  subsection 6(1) of the ITAA 1936
+: subsection 6(1) of the ITAA 1936
 Rent
 [16]
-No:  rent means the consideration payable by a tenant to a landlord for the exclusive possession and use of land or premises
+No: rent means the consideration payable by a tenant to a landlord for the exclusive possession and use of land or premises
 [17]
 A gain on a qualifying security
 [18]
-Yes:  qualifying security:  Division 16E of Part III of the ITAA 1936
+Yes: qualifying security: Division 16E of Part III of the ITAA 1936
 A net capital gain
 [19]
-Yes:  net capital gain:  sections 102-5 and 165-111 of the ITAA 1997
+Yes: net capital gain: sections 102-5 and 165-111 of the ITAA 1997
 An amount included in the assessable income of a partner or a beneficiary from a trust or partnership, to the extent it is referable to an amount that is otherwise BREPI
 [20]
-No:  this is the corporate tax entity's share of net income worked out under Divisions 5 and 6 of Part III of the ITAA 1936 (and Subdivisions 115-C and 207-B of the ITAA 1997) to the extent it is attributable to BREPI
+No: this is the corporate tax entity's share of net income worked out under Divisions 5 and 6 of Part III of the ITAA 1936 (and Subdivisions 115-C and 207-B of the ITAA 1997) to the extent it is attributable to BREPI
 Interest (or payments in the nature of interest)
 10. Interest (or payments in the nature of interest) is BREPI
 [21]
@@ -292,7 +292,7 @@ the Division 6 of the ITAA 1936 amount (paragraph 23A(1)(g), as the amount that 
 As 100% of Company 1's assessable income for the year of income is BREPI, it is taxable at the rate of 30%. As a result, for that income year it is not eligible for the lower corporate tax rate.
 Example 1.4 - how to characterise dividends received by a trust
 35.
-Top Floor Co is wholly owned by the Mezanine Trust, which has two beneficiaries:  Freddy and Basement Co. Top Floor Co derives only rental income. Top Floor Co pays a franked dividend to the MezanineTrust.
+Top Floor Co is wholly owned by the Mezanine Trust, which has two beneficiaries: Freddy and Basement Co. Top Floor Co derives only rental income. Top Floor Co pays a franked dividend to the MezanineTrust.
 36.
 The Mezanine Trust also derives interest from a bank account. The trustee streams the franked dividend to Basement Co for trust law purposes and this is effective for tax purposes under Subdivision 207-B of the ITAA 1997. Basement Co has no other income. The trustee resolved to distribute all of the remaining distributable income of the trust to Freddy (that is, the interest income).
 37.
@@ -318,7 +318,7 @@ The $900,000 share of net income of the Central Property Trust is attributable s
 44.
 Succotash Pty Ltd is presently entitled to 50% of the trust income of the Beta Trust. Half (50%) of the net income of the Beta Trust is included in its assessable income.
 45.
-Succotash Pty Ltd earned no other income in the 2017-18 income year. Its  2017-18 assessable income was $500,000, consisting entirely of the Beta Trust distribution.
+Succotash Pty Ltd earned no other income in the 2017-18 income year. Its 2017-18 assessable income was $500,000, consisting entirely of the Beta Trust distribution.
 46.
 Of the $500,000 share of net income of the Beta Trust on which Succotash Pty Ltd is assessed, 90% is referable to BREPI, therefore it is taxable at the 30% rate. As a result, for that income year it is not eligible for the lower corporate tax.
 Example 1.6 - apportionment of trust expenses
@@ -405,43 +405,43 @@ Other guidance material
 Corporate distributions (but not including non-portfolio dividends) and franking credits on these distributions
 [50]
 Taxation Ruling 2012/5
-Income tax:  section 254T of the Corporations Act 2001 and the assessment and franking of dividends paid from 28 June 2010
+Income tax: section 254T of the Corporations Act 2001 and the assessment and franking of dividends paid from 28 June 2010
 Taxation Determination TD 2008/25
-Income tax:  can section 23AJ of the Income Tax Assessment Act 1936 apply to a dividend paid by a company (not being a Part X Australian resident) to the trustee of a trust, even where the trustee then pays an amount attributable to the dividend to an Australian resident company beneficiary?
+Income tax: can section 23AJ of the Income Tax Assessment Act 1936 apply to a dividend paid by a company (not being a Part X Australian resident) to the trustee of a trust, even where the trustee then pays an amount attributable to the dividend to an Australian resident company beneficiary?
 Taxation Determination TD 2008/24
-Income tax:  can section 23AJ of the Income Tax Assessment Act 1936 apply to a dividend when it is paid by a company (not being a Part X Australian resident) to an Australian resident company which receives it in its capacity as a partner in a partnership?
+Income tax: can section 23AJ of the Income Tax Assessment Act 1936 apply to a dividend when it is paid by a company (not being a Part X Australian resident) to an Australian resident company which receives it in its capacity as a partner in a partnership?
 Interest (or payments in the nature of interest)
 [51]
 Taxation Ruling TR 2002/4
-Income tax:  taxation implications of the Century Yuasa Batteries decision
+Income tax: taxation implications of the Century Yuasa Batteries decision
 Royalties
 [52]
 Taxation Ruling IT 2660
-Income tax:  definition of royalties
+Income tax: definition of royalties
 Taxation Ruling TR 2008/7
-Income tax:  royalty withholding tax and the assignment of copyright
+Income tax: royalty withholding tax and the assignment of copyright
 Taxation Ruling TR 93/12
-Income tax:  computer software
+Income tax: computer software
 Taxation Ruling TR 95/6
-Income tax:  primary production and forestry
+Income tax: primary production and forestry
 Taxation Ruling TR 2004/17
-Income tax:  indemnification of royalty withholding tax
+Income tax: indemnification of royalty withholding tax
 Rent
 [53]
 Taxation Determination TD 2006/78
-Income tax:  capital gains:  are there any circumstances in which the premises used in a business of providing accommodation for reward may satisfy the active asset test in section 152-35 of the Income Tax Assessment Act 1997 notwithstanding the exclusion in paragraph 152-40(4)(e) of the Income Tax Assessment Act 1997 for assets whose main use is to derive rent?
+Income tax: capital gains: are there any circumstances in which the premises used in a business of providing accommodation for reward may satisfy the active asset test in section 152-35 of the Income Tax Assessment Act 1997 notwithstanding the exclusion in paragraph 152-40(4)(e) of the Income Tax Assessment Act 1997 for assets whose main use is to derive rent?
 Taxation Ruling TR 2002/14
-Income tax:  taxation of retirement village operators
+Income tax: taxation of retirement village operators
 A gain on a qualifying security
 [54]
 Taxation Ruling TR 96/3
-Income tax:  'periodic interest' in Division 16E of the Income Tax Assessment Act 1936
+Income tax: 'periodic interest' in Division 16E of the Income Tax Assessment Act 1936
 Taxation Ruling TR 96/14
-Income tax:  traditional securities
+Income tax: traditional securities
 An amount included in the assessable income of a partner or a beneficiary from a trust or partnership, to the extent it is referable (either directly or indirectly) to an amount that is otherwise BREPI
 [55]
 Draft Taxation Ruling TR 2012/D1
-Income tax:  meaning of 'income of the trust estate' in Division 6 of Part III of the Income Tax Assessment Act 1936 and related provisions
+Income tax: meaning of 'income of the trust estate' in Division 6 of Part III of the Income Tax Assessment Act 1936 and related provisions
 ©
 AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
 You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
@@ -486,7 +486,7 @@ Section 4 incorporates the definition of royalties from the ITAA 1936 into the I
 Paragraph 23AB(1)(d).
 [17]
 Taxation Determination TD 2006/78
-Income tax:  capital gains:  are there any circumstances in which the premises used in a business of providing accommodation for reward may satisfy the active asset test in section 152-35 of the Income Tax Assessment Act 1997 notwithstanding the exclusion in paragraph 152-40(4)(e) of the Income Tax Assessment Act 1997 for assets whose main use is to derive rent?
+Income tax: capital gains: are there any circumstances in which the premises used in a business of providing accommodation for reward may satisfy the active asset test in section 152-35 of the Income Tax Assessment Act 1997 notwithstanding the exclusion in paragraph 152-40(4)(e) of the Income Tax Assessment Act 1997 for assets whose main use is to derive rent?
 .
 [18]
 Paragraph 23AB(1)(e).
@@ -512,30 +512,30 @@ Ibid.
 Section 4.
 [27]
 For further guidance on what is regarded as a royalty see Taxation Ruling IT 2660
-Income tax:  definition of royalties
+Income tax: definition of royalties
 ; Taxation Ruling TR 2008/7
-Income tax:  royalty withholding tax and the assignment of copyright
+Income tax: royalty withholding tax and the assignment of copyright
 ; Taxation Ruling TR 93/12
-Income tax:  computer software
+Income tax: computer software
 ; Taxation Ruling TR 95/6
-Income tax:  primary production and forestry
+Income tax: primary production and forestry
 and Taxation Ruling TR 2004/17
-Income tax:  indemnification of royalty withholding tax
+Income tax: indemnification of royalty withholding tax
 .
 [28]
 Consistent with paragraph 18 of IT 2660.
 [29]
 Section 15AA of the
 Acts Interpretation Act 1901
-;  Revised Explanatory Memorandum  to Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Bill 2018;
+; Revised Explanatory Memorandum to Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Bill 2018;
 Radaich v Smith
 [1959] HCA 45;
 C H Bailey Ltd v Memorial Enterprises Ltd
 [1974] 1 All ER 1003 at [1010];
 United Scientific Holdings Ltd v Burnley Borough Council
-[1977] 2 All ER 62 at [76], [86], [93] and [99];  Bruce Moore (ed), 1999,
+[1977] 2 All ER 62 at [76], [86], [93] and [99]; Bruce Moore (ed), 1999,
 Australian Oxford Dictionary
-,  Oxford University Press, Melbourne;
+, Oxford University Press, Melbourne;
 Halsbury's Laws of England
 , Volume 27(1), 4th edn Reissue, Butterworths, London, paragraph 212 ('Landlord and Tenant').
 [30]
@@ -597,7 +597,7 @@ Paragraph 23AB(1)(g).
 Previously released in draft format as LCR 2018/D7
 References
 ATO references:
-NO  1-CYTCVCC
+NO 1-CYTCVCC
 ISSN: 2209-1300
 Business Line:
 IND

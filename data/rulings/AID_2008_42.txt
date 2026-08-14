@@ -3,23 +3,18 @@ ATO ID 2008/42
 ==================================================
 
 Income Tax
-        Shared Equity Agreement: Division 16E of the Income Tax Assessment Act 1936
-        FOI status: may be released
-
+ Shared Equity Agreement: Division 16E of the Income Tax Assessment Act 1936
+ FOI status: may be released
 
 This ATO ID is withdrawn because the Tax Office is reconsidering the position stated in the ATO ID.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a Shared Equity Agreement (SEA) entered into between a finance provider and a home owner a 'qualifying security' for the purposes of Division 16E of Part III of the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -37,8 +32,6 @@ Division 16E of Part III of the ITAA 1936 was inserted by the Taxation Laws Amen
 Division 16E of the ITAA 1936 applies to a 'security' that is a 'qualifying security' which is defined in subsection 159GP(1) of the ITAA 1936. A 'qualifying security' is:
 any security:
 
-
-
 (a)that is issued after 16 December 1984
 (b)that is not a prescribed security within the meaning of section 26C
 (ba)that is not part of an exempt series (see subsection 9A))
@@ -49,8 +42,6 @@ any security:
 but does not, except as provided by subsection (10), include an annuity.
 The SEA satisfies the definition of 'security' within subsection 159GP(1) of the ITAA 1936. Furthermore, the SEA satisfies paragraphs (a), (b), (ba), and (c) of the definition of 'qualifying security' under subsection 159GP(1) of the ITAA 1936.
 In accordance with paragraphs 159GP(1)(d) and (e) of the ITAA 1936, a 'qualifying security' is a 'security' that:-
-
-
 
 (i)has an 'eligible return' the precise amount of which is capable of being ascertained at the time of issue of the 'security'; and
 (ii)the amount of 'eligible return' is greater than 1 1/2% of the amount ascertained by multiplying the payment or sum of payments (excluding periodic interest) liable to be made under the security and the years in the term of the security.
@@ -63,8 +54,8 @@ Therefore, the amount of any excess over the issue price will be the 'eligible r
 The 1986 EM explains payments under the security which can be taken into account in determining the existence of an 'eligible return' for the purpose of subsection 159GP(3) of the ITAA 1936:
 
 ...By the sub-section, a security will contain an eligible return where the sum of all payments (other than periodic interest, as described in sub-section 159GP(6)) to be made under the security is
-              reasonably likely
-               to exceed its issue price. The payments referred to in the sub-section relate, in effect, to redemption and partial redemption payments. (emphasis added)
+ reasonably likely
+ to exceed its issue price. The payments referred to in the sub-section relate, in effect, to redemption and partial redemption payments. (emphasis added)
 
 The 1986 EM clearly explains that with the exception of periodic interest payments, all payments made in respect of a security throughout its term and which were contemplated at the date the security was issued can be taken into account in determining whether there is an 'eligible return'. Where it is 'reasonably likely' that the sum of all the payments is positive and will exceed the issue price of the security there will be an 'eligible return'.
 
@@ -86,8 +77,6 @@ sound judgement / good sense - it stands to reason - it is obvious or logical.
 
 While not determinative, these definitions suggest it is 'reasonably likely' a particular payment will be made under a security if:
 
-
-
 (i)it is certain the payment will be made or
 (ii)where it is not certain the payment will be made, there exists sound and / or logical reasons for expecting that it will be made.
 
@@ -102,14 +91,10 @@ In Federal Commissioner of Taxation v. Peabody (1994) 181 CLR 359; 94 ATC 4663; 
 
 It can be concluded from the judicial discussion that the objective criteria where it is 'reasonably likely' that an event will take place, or in the context of Division 16E of the ITAA 1936 that a particular payment will be made under a security, is where both the following criteria are satisfied:
 
-
-
 (i)there is a real chance the payment will be made - but not so unlikely that it can be classified as remote or fanciful; and
 (ii)a 'reasonably reliable' prediction can be made as to the amount of the payment. A prediction will be 'reasonably reliable' where there is a sound and logical basis for making it, for example, because the quantum of the payment is fixed or readily calculable.
 
 In this case, the total payment that may be made by the purchaser to the finance provider under a SEA may be identified as having two separate components:
-
-
 
 (i)the Partial Redemption Payments made by the purchaser upon the exercise of the call option; and
 (ii)the Final Redemption Amount made by the purchaser upon exercise of the put option by the finance provider.
@@ -132,10 +117,10 @@ Conclusion
 The amount or sum of amounts payable under the SEA are uncertain and not subject to a reasonably reliable prediction at the time the SEA is entered into. Furthermore, it is not reasonably likely that the sum of all payments under the SEA will exceed the amount of finance contributed by the finance provider pursuant to the SEA (that is, the issue price of the security). Accordingly, it cannot be concluded that at the time a SEA is entered into, it will have an 'eligible return'.
 As the SEA does not have an 'eligible return' for the purposes of subsections 159GP(1) and 159GP(3) of the ITAA 1936, the SEA will not be a 'qualifying security' that is subject to Division 16E of the ITAA 1936.
 Date of decision:
-         30 April 2007
+  30 April 2007
 
 Year of income:
-           Year ended 30 June 2007
+  Year ended 30 June 2007
 
 Legislative References:
 
@@ -143,13 +128,11 @@ Income Tax Assessment Act 1936   subsection 6(1)   subsection 159GP(1)  
 
 Case References:
 
-
 Peabody v. Federal Commissioner of Taxation   (1994) 181 CLR 359   (1994) 28 ATR 344   94 ATC 4663
 
 Department of Agriculture and Rural Affairs v. Binnie   [1989] VR 836
 
 Sheen v. Fields   (1984) 51 ALR 345
-
 
 Other References:
 
@@ -158,29 +141,25 @@ Other References:
 Keywords
 
 Call options
-          Put options
-          Securities
-
+ Put options
+ Securities
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         14 March 2008
+  14 March 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 30 April 2007

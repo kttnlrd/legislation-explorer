@@ -19,7 +19,7 @@ paragraph: "¶44-300"
 
 - Deductions checklist (¶16-005).
 
-- Checklist of Australia’s DTAs (¶22-160).
+- Checklist of Australia's DTAs (¶22-160).
 
 - Checklist: methods of reducing tax liability (¶31-080).
 

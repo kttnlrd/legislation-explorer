@@ -15,29 +15,29 @@ The following intangible assets were acquired by Big Co Pty Ltd as part of the b
 
 - copyright for a smartphone app
 
-- trade mark for the smartphone app’s logo, and
+- trade mark for the smartphone app's logo, and
 
-- licence for “off-the-shelf” programming software.
+- licence for "off-the-shelf" programming software.
 
   All assets are used wholly in the business of Small Co Pty Ltd.
 
 Advise Big Co Pty Ltd whether it can claim a deduction for the decline in value of these intangible assets and if so, the relevant method and effective life of the asset under the uniform capital allowance provisions contained in ITAA97 Div 40.
 
-Solution The cost of a “depreciating asset” is generally of a capital nature and is, therefore, not immediately deductible as an ordinary business expense. However, deductions may be available for the decline in value of a depreciating asset to the extent that the asset is being used for a taxable purpose (ie in producing the taxpayer’s assessable income).
+Solution The cost of a "depreciating asset" is generally of a capital nature and is, therefore, not immediately deductible as an ordinary business expense. However, deductions may be available for the decline in value of a depreciating asset to the extent that the asset is being used for a taxable purpose (ie in producing the taxpayer's assessable income).
 
 A depreciating asset is defined as an asset that has a limited effective life and that is reasonably expected to decline in value over the time that it is used (ITAA97 s 40-30). An asset is something that is capable of being put to use in the business of the holder (ie owner of the asset).
 
-Intangible assets Certain assets are specifically excluded from being depreciating assets. One such category of excluded assets are “intangible assets” (s 40-30(1)(c)). An exception, however, is allowed for certain types of assets which include, among other things, intellectual property and in-house software.
+Intangible assets Certain assets are specifically excluded from being depreciating assets. One such category of excluded assets are "intangible assets" (s 40-30(1)(c)). An exception, however, is allowed for certain types of assets which include, among other things, intellectual property and in-house software.
 
 Intellectual property includes the rights that an entity has under Commonwealth or foreign law as patentee, or as an owner of a registered design or a copyright, or as a licensee of any of those items (ITAA97 s 995-1(1)). That is, a patent, a registered design or a copyright (or a licence thereof). A trade mark is not included in the meaning of intellectual property and, therefore, is not a depreciating asset (Interpretative Decision ATO ID 2004/858).
 
 In the present case, the patent for new hardware design and the copyright for the smartphone app acquired by Big Co Pty Ltd would be depreciating assets of the company.
 
-The trade mark for the smartphone app’s logo is an intangible asset which is not a depreciating asset; instead it is treated as a CGT asset. A “CGT asset” is defined as “any kind of property; or a legal or equitable right that is not property” (ITAA97 s 108-5).
+The trade mark for the smartphone app's logo is an intangible asset which is not a depreciating asset; instead it is treated as a CGT asset. A "CGT asset" is defined as "any kind of property; or a legal or equitable right that is not property" (ITAA97 s 108-5).
 
-As noted, “in-house software” is not excluded from being a depreciating asset. In-house software is defined as being computer software, or a right to use such software, that is acquired, developed or commissioned, and that is mainly for the taxpayer to use in performing the functions for which the software was developed, which does not include resale.
+As noted, "in-house software" is not excluded from being a depreciating asset. In-house software is defined as being computer software, or a right to use such software, that is acquired, developed or commissioned, and that is mainly for the taxpayer to use in performing the functions for which the software was developed, which does not include resale.
 
-The licence to use off-the-shelf programming software acquired by Big Co Pty Ltd satisfies the meaning of “in-house software”; as it will be used in the business for app development purposes.
+The licence to use off-the-shelf programming software acquired by Big Co Pty Ltd satisfies the meaning of "in-house software"; as it will be used in the business for app development purposes.
 
 There are 2 methods available for working out the decline in value: the prime cost method (ie straight line) and the diminishing value method (ie reducing balance). Generally, the taxpayer must choose which method to use before lodging their tax return. The choice is exercised on an asset-by-asset basis but once chosen for an asset, it cannot be changed year-on-year (s 40-130(2)).
 

@@ -15,7 +15,7 @@ source_pdf: "vol01.pdf"
 
 # 8XA  Unauthorised access to taxation records
 
-A person must not take action with the intention of obtaining information about another person’s affairs that:
+A person must not take action with the intention of obtaining information about another person's affairs that:
 
 > <a id="s8XA-a"></a>
 > **(a)**  is contained in records in the possession of the Commissioner; and

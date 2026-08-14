@@ -18,7 +18,7 @@ source_pdf: "vol03.pdf"
 **(1)**  The object of this Part is:
 
 > <a id="s160ZZVA-1-a"></a>
-> **(a)**  to assist in calculating that part of a foreign bank’s taxable income that is referable to certain activities of its Australian branch; and
+> **(a)**  to assist in calculating that part of a foreign bank's taxable income that is referable to certain activities of its Australian branch; and
 
 > <a id="s160ZZVA-1-b"></a>
 > **(b)**  to make it clear that withholding tax will apply to amounts that are taken by this Part to be interest paid by the branch to the bank.

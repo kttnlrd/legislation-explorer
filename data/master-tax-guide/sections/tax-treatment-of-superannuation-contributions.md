@@ -25,31 +25,31 @@ Employers are required under the SGAA to make mandatory superannuation guarantee
 
   no income are entitled to a tax oﬀset (¶13-770)
 
-- employer contributions and deductible personal contributions are “concessional contributions”,
+- employer contributions and deductible personal contributions are "concessional contributions",
 
-  while non-deductible personal contributions and other contributions are “non-concessional
+  while non-deductible personal contributions and other contributions are "non-concessional
 
-  contributions” under ITAA97 and are subject to additional tax rules (see “Tax payable by
+  contributions" under ITAA97 and are subject to additional tax rules (see "Tax payable by
 
-  individuals, superannuation funds and employers” below)
+  individuals, superannuation funds and employers" below)
 
 - the Commissioner may exercise a discretion to disregard or reallocate contributions to another
 
-  income year in “special circumstances” under the concessional and non-concessional contributions
+  income year in "special circumstances" under the concessional and non-concessional contributions
 
   regime (¶13-875).
 
 The SIS Regulations and RSA Regulations impose rules on the acceptance of contributions by superannuation funds and RSA providers (conversely, the rules govern who can make contributions to a fund or RSA), and contributions made in breach of the rules must be returned (¶13-925).
 
-employers Concessional contributions (and certain other amounts) received by a superannuation fund are included in the fund’s assessable income and are subject to contributions tax at 15% (for complying funds) or at 45% (for non-complying funds) in the hands of the fund. Non-concessional contributions received are not subject to contributions tax (¶13-125).
+employers Concessional contributions (and certain other amounts) received by a superannuation fund are included in the fund's assessable income and are subject to contributions tax at 15% (for complying funds) or at 45% (for non-complying funds) in the hands of the fund. Non-concessional contributions received are not subject to contributions tax (¶13-125).
 
 A tax is also payable by complying and non-complying funds on any no-TFN contributions income received by them. A tax oﬀset is available if the TFN of the individual for whom the contributions are made is subsequently received (¶13-180).
 
-The concessional contributions (generally assessable contributions in the recipient funds) and non- concessional contributions (generally non-assessable contributions) made for or by an individual in a ﬁnancial year are subject to separate annual caps. There are tax consequences if the individual’s contributions in the ﬁnancial year exceed the caps (¶13-820, ¶13-860).
+The concessional contributions (generally assessable contributions in the recipient funds) and non- concessional contributions (generally non-assessable contributions) made for or by an individual in a ﬁnancial year are subject to separate annual caps. There are tax consequences if the individual's contributions in the ﬁnancial year exceed the caps (¶13-820, ¶13-860).
 
 Additional tax of 15% (Division 293 tax) may be payable by individuals whose income and relevant concessionally taxed superannuation contributions exceed a prescribed income threshold ($250,000 in 2017–18 and later years). This has the eﬀect of reducing the tax concessions enjoyed by these individuals on their concessional contributions above the threshold (¶13-620).
 
-In all states and territories, pay-roll tax is payable on employer superannuation contributions as they are “wages” under pay-roll tax legislation (¶36-140).
+In all states and territories, pay-roll tax is payable on employer superannuation contributions as they are "wages" under pay-roll tax legislation (¶36-140).
 
 Employer superannuation contributions for employees are not fringe beneﬁts if they are made to a complying superannuation fund or an RSA, or to a non-resident superannuation fund for an employee who is a temporary resident of Australia. Other employer contributions may be fringe beneﬁts and be subject to FBT, eg those made for an associate of an employee (¶35-070).
 

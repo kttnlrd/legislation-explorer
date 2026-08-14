@@ -7,7 +7,7 @@ paragraph: "None"
 ---
 # 1-290 - Personal services income unrelated clients test personal services business
 
-Worked example: Personal services income: unrelated clients test; personal services business Issue Damien Deakin is a cyber security expert who is the sole director of Mondas Pty Ltd. Damien provides his services through the company to various large organisations such as government departments, universities, banks and utilities. The shares in Mondas Pty Ltd are owned by the Deakin Family Trust whose beneficiaries are Damien, his wife Stella, and the couple’s 2 children. Damien undertakes consultancy work with his clients to advise them on the security of their IT systems including finding the most efficient way to protect their systems, networks, software, data and information systems against any potential attacks. Mondas charges clients on an hourly basis for Damien’s consulting work. All of the company’s work to date has been obtained through agencies that match specialist IT experts with clients seeking IT solutions. He has undertaken assignments for 8 end-user clients during the course of the year. In addition, the company maintains and regularly updates a LinkedIn profile to highlight the company’s services and Damien’s skills in cyber security. No clients have to date engaged the company’s services due to its exposure on LinkedIn. During the year ended 30 June 2025, the company has not paid Damien any remuneration. Damien wishes to pay the profits of the company to the Deakin Family Trust as “management fees” that will reduce the company’s taxable income to nil. He wishes to obtain tax advice on the feasibility of such a proposal. Mondas Pty Ltd does not employ any staff, other than Damien. Although much of the business of the company is conducted on the premises of clients, the management and administration of the company are done from a home office located in the attic of the Deakin family home in Adelaide. Solution Personal services income (PSI) is income that is mainly a reward for an individual’s personal efforts or skills. As the income earned by Mondas is all derived from the specialist skills and knowledge of Damien, it is PSI. A special tax regime for PSI applies to prevent individuals from reducing their tax by deriving income through a business entity where the nature of the relationship between the individual and the ultimate customer is broadly similar to an employee relationship. Where it applies, the PSI regime has the following main effects:
+Worked example: Personal services income: unrelated clients test; personal services business Issue Damien Deakin is a cyber security expert who is the sole director of Mondas Pty Ltd. Damien provides his services through the company to various large organisations such as government departments, universities, banks and utilities. The shares in Mondas Pty Ltd are owned by the Deakin Family Trust whose beneficiaries are Damien, his wife Stella, and the couple's 2 children. Damien undertakes consultancy work with his clients to advise them on the security of their IT systems including finding the most efficient way to protect their systems, networks, software, data and information systems against any potential attacks. Mondas charges clients on an hourly basis for Damien's consulting work. All of the company's work to date has been obtained through agencies that match specialist IT experts with clients seeking IT solutions. He has undertaken assignments for 8 end-user clients during the course of the year. In addition, the company maintains and regularly updates a LinkedIn profile to highlight the company's services and Damien's skills in cyber security. No clients have to date engaged the company's services due to its exposure on LinkedIn. During the year ended 30 June 2025, the company has not paid Damien any remuneration. Damien wishes to pay the profits of the company to the Deakin Family Trust as "management fees" that will reduce the company's taxable income to nil. He wishes to obtain tax advice on the feasibility of such a proposal. Mondas Pty Ltd does not employ any staff, other than Damien. Although much of the business of the company is conducted on the premises of clients, the management and administration of the company are done from a home office located in the attic of the Deakin family home in Adelaide. Solution Personal services income (PSI) is income that is mainly a reward for an individual's personal efforts or skills. As the income earned by Mondas is all derived from the specialist skills and knowledge of Damien, it is PSI. A special tax regime for PSI applies to prevent individuals from reducing their tax by deriving income through a business entity where the nature of the relationship between the individual and the ultimate customer is broadly similar to an employee relationship. Where it applies, the PSI regime has the following main effects:
 • PSI is included in the assessable income of the individual whose personal efforts or skills generated
 the income, notwithstanding that it was actually earned in some other entity (Mondas in this case)
 • there are restrictions on the deductions that may be claimed by the business entity, such that they
@@ -16,7 +16,7 @@ broadly correspond to the deductions available to employees, and
 Income from the conduct of a genuine personal services business (PSB) is exempt from the PSI regime.
 There are various tests for determining whether a PSB is being conducted (ITAA97 s 87-15). There will be a
 PSB if:
-• the “results” test is satisfied
+• the "results" test is satisfied
 • less than 80% of the PSI is from one source and any of 3 additional tests (the unrelated clients test,
 the employment test and the business premises test) are satisfied, or
 • a PSB determination is obtained from the Commissioner.
@@ -63,10 +63,10 @@ and carried out through an intermediary or recruitment agency, the Court found t
 87-20(2) does not apply where there is evidence of advertising to the public or a segment of the public (for
 instance, through online platforms such as LinkedIn).
 This judgment was overturned on appeal in FC of T v Fortunatow 2020 ATC ¶20-758; [2020] FCAFC 139,
-where the Full Federal Court stated that the provision of services must be the “direct result” of making offers
+where the Full Federal Court stated that the provision of services must be the "direct result" of making offers
 or invitations to satisfy the unrelated clients test. On the facts, none of the clients made their decisions to
-engage the services of the taxpayer as a direct result of any offer or invitation constituted by the taxpayer’s
-LinkedIn profile. In these circumstances, on a correct application of s 87-20(1)(b), the “unrelated clients test”
+engage the services of the taxpayer as a direct result of any offer or invitation constituted by the taxpayer's
+LinkedIn profile. In these circumstances, on a correct application of s 87-20(1)(b), the "unrelated clients test"
 was not satisfied.
 On the basis of the Fortunatow appeal, it appears that the unrelated clients test is not satisfied by Mondas
 Pty Ltd and that, unless it receives a PSB determination from the Commissioner, the PSI rules apply, and
@@ -74,7 +74,7 @@ the company is not treated as a PSB. The PSI earned within the company must ther
 Damien personally.
 In practice, whether the income is treated as PSI may be less significant than it seems to Damien,
 particularly with regard to his plan to divert the profits of the company to his family trust.
-Specifically, if the PSI rules did not apply to include the income of the company in Damien’s assessable
+Specifically, if the PSI rules did not apply to include the income of the company in Damien's assessable
 income, there is still an expectation on the part of the Commissioner that PSI is ultimately taxed in the hands
 of the business even where the business is a PSB. If the PSI rules do not achieve that, ITAA36 Pt IVA can
 be applied to achieve a similar end (TR 2022/3, at para 160). In particular, IT 2503 states that a professional
@@ -82,7 +82,7 @@ practice company should have no taxable income. The total income for a year, aft
 fully paid out to the professional person by way of a salary in the financial year (or, where this is not possible,
 by way of a dividend paid as soon as possible after the end of the financial year). So, paying the income of
 the company to a family trust would risk the Commissioner invoking Pt IVA on the grounds that the diversion
-of income to the trust is a “scheme”.
+of income to the trust is a "scheme".
 
 *Refs: ITAA97 s 87-15), s 87-20(1), s 87-20(1)(, s 87-20(2)), s 87-20(2), s
 87-20(2)*

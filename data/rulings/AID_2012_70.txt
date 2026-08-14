@@ -3,21 +3,16 @@ ATO ID 2012/70
 ==================================================
 
 Income Tax
-        Interest withholding tax on interest received by a US Limited Liability Company
-        FOI status: may be released
-
+ Interest withholding tax on interest received by a US Limited Liability Company
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a United States Limited Liability Company (US LLC) with Australian resident members liable to pay interest withholding tax pursuant to subsection 128B(5) of the Income Tax Assessment Act 1936 (ITAA 1936) on interest received from an Australian resident company?
@@ -40,12 +35,8 @@ Subsection 128B(2) of the ITAA 1936 provides that:
 
 Subject to subsection (3), this section ... applies to income that:
 
-
-
 (a)is derived ... by a non-resident; and
 (b)consists of interest that:
-
-
 
 (i)is paid to the non-resident ... .
 
@@ -57,7 +48,6 @@ Subdivision 830-B of the ITAA 1997 - Extension of normal partnership provisions 
 However, US LLC is a foreign hybrid company as defined in section 830-15 of the ITAA 1997. Section 830-20 of the ITAA 1997 provides that:
 
 830-20 Treatment of company as a partnership
-
 
 830-20 If a company is a *foreign hybrid company in relation to an income year, the *foreign hybrid tax provisions apply as if the company were a partnership, and for that purpose the following provisions of this Subdivision have effect.
 
@@ -117,20 +107,19 @@ The US convention will not affect the outcomes in this case. As US LLC is a fisc
 Since US LLC qualifies as a foreign hybrid company under Division 830 of the ITAA 1997, the Australian resident members of US LLC are treated as partners in a partnership under Australian income tax law, thereby ensuring alignment of tax treatment of the interest income under the laws of both countries. See paragraph 5 and paragraphs 73-79 of Taxation Ruling TR 2009/6.
 The interest income received by US LLC is treated for Australian (and US) tax law purposes as Australian sourced income of Australian residents (being the members of US LLC), and the US convention does not disturb Australia's taxing right.
 Date of decision:
-         20 August 2012
+  20 August 2012
 
 Year of income:
-           Year ended 30 June 2012
+  Year ended 30 June 2012
 
 Legislative References:
 
 Income Tax Assessment Act 1936   Subsection 6(1)   Section 90   Section 92   Subsection 92(1)   Subsection 92(2)   Subsection 128B(1A)   Subsection 128B(2)   Subsection 128B(2A)   Subsection 128B(5)   Section 128D
 Income Tax Assessment Act 1997   Section 830-15   Section 830-20   Section 830-25   Section 830-30   Section 830-35   Section 830-45   Subsection 995-1(1)
 Limited Liability Company Act (Del.)   
-          International Tax Agreements Act 1953   Section 3AAA   Section 3AAB
+ International Tax Agreements Act 1953   Section 3AAA   Section 3AAB
 
 Case References:
-
 
 AAT Case 12/95 AAT Case 10,079   (1995) 95 ATC 175   (1995) 30 ATR 1169
 
@@ -147,7 +136,6 @@ Re Commissioner of Taxation v Peter Joseph Walsh and Beatrice Joan Walsh As Trus
 Rose v FC of T   (1951) 84 CLR 118   25 ALJ 625   9 ATD 334
 
 Rowe v Federal Commissioner of Taxation   (1982) ATC 4243   (1982) 60 FLR 475   13 ATR 110
-
 
 Related Public Rulings (including Determinations)
 
@@ -180,37 +168,33 @@ Other References:
 Keywords
 
 International tax
-          Foreign hybrid company
-          Withholding taxes
-          Non resident interest withholding tax
-          Partnerships
-          Partnership income
-          Other references
-          United States convention [1983] ATC 16
-
+ Foreign hybrid company
+ Withholding taxes
+ Non resident interest withholding tax
+ Partnerships
+ Partnership income
+ Other references
+ United States convention [1983] ATC 16
 
 Siebel/TDMS Reference Number:
-         1-43WC2Z6
+  1-43WC2Z6
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         24 August 2012
+  24 August 2012
 
 ISSN:
-          Disclaimer Type: general
+ Disclaimer Type: general
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 20 August 2012

@@ -7,7 +7,7 @@ paragraph: "¶25-010"
 ---
 # GST-free supplies ¶25-010
 
-This checklist shows the types of supplies that are GST-free, subject to conditions in some cases. For an explanation of “GST-free”, see ¶1-160. Note also that some supplies are outside the GST system altogether.
+This checklist shows the types of supplies that are GST-free, subject to conditions in some cases. For an explanation of "GST-free", see ¶1-160. Note also that some supplies are outside the GST system altogether.
 
 Cars for disabled people (¶12-150)
 
@@ -43,7 +43,7 @@ Rights or options to acquire GST-free supplies (¶1-160)
 
 - inwards duty-free shops (¶12-020)
 
-- travel agents’ fees on exempt travel, overseas accommodation, etc (¶12-020)
+- travel agents' fees on exempt travel, overseas accommodation, etc (¶12-020)
 
 - travel insurance on exempt travel (¶12-020)
 

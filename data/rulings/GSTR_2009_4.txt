@@ -4,30 +4,28 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 11
-  • Div 129
-  • Div 156
-  • Div 358
-  • Div 43
-  • Division 11
-  • Division 129
-  • Division 358
-  • Division 43
-  • Division 11
-  • Division 129
-  • Division 156
+ • Div 11
+ • Div 129
+ • Div 156
+ • Div 358
+ • Div 43
+ • Division 11
+ • Division 129
+ • Division 358
+ • Division 43
+ • Division 11
+ • Division 129
+ • Division 156
 
 Cases Referenced:
-  • Newcastle v. Royal Newcastle Hospital
+ • Newcastle v. Royal Newcastle Hospital
 (1957) 96 CLR 493
-  • Ryde Municipal Council v. Macquarie University
+ • Ryde Municipal Council v. Macquarie University
 (1978) 139 CLR 633
-  • Taxpayer v Commissioner 
-  • Taxpayer v. Commissioner 
+ • Taxpayer v Commissioner 
+ • Taxpayer v. Commissioner 
 
 Topics: GST, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -250,7 +248,7 @@ Consequently, the holding of new residential premises for the purpose of leasing
 40. For example, a property developer involved in leasing residential premises and selling new residential premises may have a motor vehicle that is used exclusively by the manager of the leasing arm of the enterprise for the purpose of managing the residential leases. The property developer may intend to sell the motor vehicle in three years time and replace it with a new motor vehicle. The motor vehicle is not being held for the purpose of sale, but rather is being used by the property developer in carrying on its enterprise relating to leasing residential premises. The motor vehicle is not being applied, to any extent, for the purpose of sale.
 41. The concept of holding a thing for the purpose of sale as part of an enterprise is similar to holding a thing for the purpose of trade.
 [40]
-The characteristics of trade, including the 'badges of trade', are discussed in the context of an adventure or concern in the nature of trade at paragraphs 243 to 261 of Miscellaneous Taxation Ruling MT 2006/1 The New Tax System:  the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number. MT 2006/1 discusses a number of factors which help identify whether or not an entity is engaged in trade or, rather in the context of this Ruling, holds a thing for the purpose of sale, including:
+The characteristics of trade, including the 'badges of trade', are discussed in the context of an adventure or concern in the nature of trade at paragraphs 243 to 261 of Miscellaneous Taxation Ruling MT 2006/1 The New Tax System: the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number. MT 2006/1 discusses a number of factors which help identify whether or not an entity is engaged in trade or, rather in the context of this Ruling, holds a thing for the purpose of sale, including:
 •
 the subject matter - if a thing provides either a regular or periodic income (such as through rental income) or personal enjoyment to the owner it is more likely to be an investment rather than a trading asset; however, a large quantity of goods is likely to point towards trade;
 •
@@ -317,7 +315,7 @@ and pursuant to section 129-50, will have been applied, to some extent, for a cr
 47F. Any one relevant factor may not be sufficient on its own to demonstrate whether residential premises are being constructed for the purpose of sale or for the purpose of leasing. Determining whether residential premises under construction are being developed for the purpose of sale and thereby concluding that the related acquisitions are being applied, at least to some extent, for a creditable purpose, will require a weighing up of all the available evidence.
 Example 2A - application for a creditable purpose of acquisitions incorporated into partially completed residential premises
 47G.
-Build-up is carrying on an enterprise of property development.  Build-up has previously undertaken several residential property developments, and the residential premises have been sold upon completion of each development
+Build-up is carrying on an enterprise of property development. Build-up has previously undertaken several residential property developments, and the residential premises have been sold upon completion of each development
 .
 47H.
 Build-up commences development and construction of a residential building that will comprise several residential units. Build-up will sell the newly constructed residential units upon completion of the development, as part of its enterprise of developing residential premises for sale. Finance documentation pertaining to the development indicates that interest-only finance provided with respect to the development is conditional upon Build-up selling all of the residential units upon completion of construction
@@ -453,8 +451,8 @@ Assume the same facts as for Example 6 of this Ruling. As part of Alex's enterpr
 80.
 When Alex starts leasing the residential premises the extent of creditable purpose for the acquisition of the computer system changes. Alex may be required to make adjustments under Division 129 in relation to acquisition of the computer system. Any required adjustment will be calculated with reference to the application of the things in the enterprise as a whole.
 Reasonable methods of apportionment
-81. If an entity is required to apportion its creditable purpose it must do so by applying a method that is fair and reasonable in the circumstances of each case. Guidance on appropriate methods of apportionment for determining extent of creditable purpose is provided in Goods and Services Tax Ruling GSTR 2006/4 Goods and services tax:  determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose.
-81A. Goods and Services Tax Ruling GSTR 2011/1 Goods and services tax:  development, lease and disposal of a retirement village tenanted under a 'loan lease' arrangement, considers how to determine the extent to which input tax credits are available for acquisitions or importations made by a developer to construct or develop a village that has the features set out in the class of arrangement described in that Ruling. GSTR 2011/1 must be considered when determining a fair and reasonable method of apportionment in relation to the arrangements covered by that Ruling. The views and examples that follow do not specifically consider partially completed developments as discussed in paragraphs 47A to 47I of this Ruling or the facts of multi stage developments as discussed in paragraphs 47J to 47M of this Ruling.
+81. If an entity is required to apportion its creditable purpose it must do so by applying a method that is fair and reasonable in the circumstances of each case. Guidance on appropriate methods of apportionment for determining extent of creditable purpose is provided in Goods and Services Tax Ruling GSTR 2006/4 Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose.
+81A. Goods and Services Tax Ruling GSTR 2011/1 Goods and services tax: development, lease and disposal of a retirement village tenanted under a 'loan lease' arrangement, considers how to determine the extent to which input tax credits are available for acquisitions or importations made by a developer to construct or develop a village that has the features set out in the class of arrangement described in that Ruling. GSTR 2011/1 must be considered when determining a fair and reasonable method of apportionment in relation to the arrangements covered by that Ruling. The views and examples that follow do not specifically consider partially completed developments as discussed in paragraphs 47A to 47I of this Ruling or the facts of multi stage developments as discussed in paragraphs 47J to 47M of this Ruling.
 82. In circumstances where an entity constructs new residential premises for sale but they are subsequently leased, it is necessary to consider the different applications of the premises up to the end of the relevant adjustment period.
 83. If the premises have been applied in relation to the creditable purpose of sale and the non-creditable purpose of making input taxed supplies during the relevant period and the premises have been sold prior to the end of the relevant adjustment period, one reasonable method of apportionment is an output based indirect method.
 [49]
@@ -602,7 +600,7 @@ Change in projected sale price
 131. Comparing the estimated selling price of residential premises before and after the premises have been leased is a third method that the Commissioner does not accept as providing a fair and reasonable basis of apportionment. The change in value of residential premises over time will be driven by many factors that are not related to the use of the premises to make supplies by way of lease. Therefore, changes in the estimated sale price of the premises do not provide an appropriate reflection of the use of the premises over the relevant period.
 Interaction between Division 129 and the '5 year rule' in subsection 40-75(2)
 132. It is considered that the term 'used' in subsection 40-75(2) and the meaning of 'apply' for the purposes of Division 129 should be interpreted consistently. This means that if an entity has applied new residential premises for a creditable purpose in accordance with Division 129, the premises will also have been used other than for making supplies that are input taxed under paragraph 40-35(1)(a) and the requirements for subsection 40-75(2) to apply will not be satisfied.
-133. The '5 year rule' in subsection 40-75(2) provides an exception to the meaning of new residential premises in subsection 40-75(1). The '5 year rule' is discussed in paragraphs 89 to 93 of Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax:  when is a sale of real property a sale of new residential premises? As discussed in paragraphs 89 and 90 of GSTR 2003/3, subsection 40-75(2) requires that for a period of at least 5 years since the premises became new residential premises, the premises have only been used for making supplies that are input taxed under paragraph 40-35(1)(a). The period must be a 5 year continuous period. However, it can be any continuous period between when the premises would otherwise have become new residential premises and when they are sold. If this requirement is satisfied then the premises will not be new residential premises.
+133. The '5 year rule' in subsection 40-75(2) provides an exception to the meaning of new residential premises in subsection 40-75(1). The '5 year rule' is discussed in paragraphs 89 to 93 of Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax: when is a sale of real property a sale of new residential premises? As discussed in paragraphs 89 and 90 of GSTR 2003/3, subsection 40-75(2) requires that for a period of at least 5 years since the premises became new residential premises, the premises have only been used for making supplies that are input taxed under paragraph 40-35(1)(a). The period must be a 5 year continuous period. However, it can be any continuous period between when the premises would otherwise have become new residential premises and when they are sold. If this requirement is satisfied then the premises will not be new residential premises.
 134. 'Used' is an important term in subsection 40-75(2). As noted in paragraph 33 of this Ruling, there is a strong similarity between the meanings of 'use' and 'apply'. That is, the relevant meanings are largely synonymous.
 135. Adopting a consistent interpretation for the term 'used' in subsection 40-75(2) and the term 'apply' in Division 129 is consistent with the policy explained in the Revised Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 2000 (the Explanatory Memorandum), which introduced section 40-75, that new residential premises will not be taxable if an entity is not entitled to input tax credits for acquisitions relating to the construction of the premises.
 [52]
@@ -811,7 +809,7 @@ Demonstrating that new residential premises are being held for sale in an entity
 44
 Partially completed residential property developments
 47A
-Example 2A - application for a creditable  purpose of acquisitions incorporated into partially completed residential premises
+Example 2A - application for a creditable purpose of acquisitions incorporated into partially completed residential premises
 47G
 Partially completed multi stage residential property developments
 47H
@@ -853,7 +851,7 @@ Example 13 - premises applied for a creditable purpose, to some extent, for part
 103
 Apportionment of the extent of creditable purpose of acquisitions relating to a residential unit complex that comprises multiple stratum units
 108
-Example 14 - multiple stratum units constructed for sale with only some applied partly to a creditable purpose and partly to a non-creditable purpose  - acquisitions relating solely to one of the units and acquisitions relating equally to all units
+Example 14 - multiple stratum units constructed for sale with only some applied partly to a creditable purpose and partly to a non-creditable purpose - acquisitions relating solely to one of the units and acquisitions relating equally to all units
 110
 Example 15 - multiple stratum units constructed for sale with only one applied partly to a creditable purpose and partly to a non-creditable purpose - acquisition relating to the units in different proportions
 116
@@ -911,9 +909,9 @@ Section 11-20.
 [4]
 Section 15-15.
 [5]
-See paragraph 49 of Goods and Services Tax Ruling GSTR 2008/1 Goods and services tax:  when do you acquire anything or import goods solely or partly for a creditable purpose?
+See paragraph 49 of Goods and Services Tax Ruling GSTR 2008/1 Goods and services tax: when do you acquire anything or import goods solely or partly for a creditable purpose?
 [6]
-See, for example, paragraph 17 of Goods and Services Tax Ruling GSTR 2006/4 Goods and services tax:  determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose.
+See, for example, paragraph 17 of Goods and Services Tax Ruling GSTR 2006/4 Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose.
 [7]
 Section 40-65.
 [8]
@@ -933,7 +931,7 @@ Sections 15-5, 15-10 and 15-15.
 [14]
 Adjustments under Division 129 can also arise in relation to importations. Therefore, for the purposes of this Ruling a reference to an acquisition is equally applicable to an importation.
 [15]
-See paragraph 45 of Goods and Services Tax Ruling GSTR 2000/24 Goods and Services Tax:  Division 129 - making adjustments for changes in extent of creditable purpose.
+See paragraph 45 of Goods and Services Tax Ruling GSTR 2000/24 Goods and Services Tax: Division 129 - making adjustments for changes in extent of creditable purpose.
 [16]
 The operation of Division 129 including the identification of adjustment periods for an acquisition or importation is discussed in GSTR 2000/24.
 [17]
@@ -990,7 +988,7 @@ Refer to comments of Bowen CJ in
 Re Ku-ring-gai Co-operative Building Society (No. 12) Ltd
 (1978) 36 FLR 134 at 139.
 [41]
-In these circumstances, subsection 40-75(2) may apply when the premises are finally sold such that the premises are not new residential premises and the sale of the premises will be input taxed. Refer to paragraphs 132 to 135 of this Ruling and paragraphs 89 to 93 of Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax:  when is a sale of real property a sale of new residential premises?
+In these circumstances, subsection 40-75(2) may apply when the premises are finally sold such that the premises are not new residential premises and the sale of the premises will be input taxed. Refer to paragraphs 132 to 135 of this Ruling and paragraphs 89 to 93 of Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax: when is a sale of real property a sale of new residential premises?
 [41A]
 [2009] AATA 569; 2009 ATC 1-012; (2009) 73 ATR 380.
 [41B]
@@ -1014,7 +1012,7 @@ Refer to paragraph 81A of this Ruling regarding apportionment methodologies that
 [45]
 This is subject to the operation of section 156-20 which is discussed at paragraph 64 of this Ruling.
 [46]
-See paragraph 27 of Goods and Services Tax Ruling GSTR 2000/35 Goods and services tax:  Division 156 - supplies and acquisitions made on a progressive or periodic basis.
+See paragraph 27 of Goods and Services Tax Ruling GSTR 2000/35 Goods and services tax: Division 156 - supplies and acquisitions made on a progressive or periodic basis.
 [47]
 See paragraph 28 of GSTR 2000/35.
 [48]
@@ -1052,7 +1050,7 @@ In accordance with the formula in section 129-70.
 GSTR 2008/D5
 References
 ATO references:
-NO  2008/13265
+NO 2008/13265
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10

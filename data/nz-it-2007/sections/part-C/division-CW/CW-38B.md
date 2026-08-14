@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
   - (iii) all other voting interests, if any, in the company are held by local authorities; and
 
-  - (iv) the company’s primary purpose is the carrying out of a public policy objective of the Government of New Zealand:
+  - (iv) the company's primary purpose is the carrying out of a public policy objective of the Government of New Zealand:
 
 - (b) to substitute the name of a company in recognition of a change in its name:
 

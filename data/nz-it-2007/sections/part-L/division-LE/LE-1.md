@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When amount altered**
 
-**(3)**  The amount of the person’s credit in subsection (1) may be reduced or increased if any of sections LE 4 to LE 10 apply.
+**(3)**  The amount of the person's credit in subsection (1) may be reduced or increased if any of sections LE 4 to LE 10 apply.
 
 **FIF income**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Arrangements for tax advantage**
 
-**(5)**  A person’s credit under this section is extinguished if any of the following sections apply:
+**(5)**  A person's credit under this section is extinguished if any of the following sections apply:
 
 - (a) section GB 36 (Reconstruction of imputation arrangements to obtain tax advantage):
 

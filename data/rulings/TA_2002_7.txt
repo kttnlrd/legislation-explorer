@@ -4,12 +4,10 @@ HEAD NOTE
 Title: Taxpayer Alerts
 
 Sections Referenced:
-  • section 23L
+ • section 23L
 ITAA 1997
 
 Topics: FBT, Companies, International, Employment
-
-
 
 ================================================================================
 
@@ -33,43 +31,43 @@ and amending notices, if applicable.
 FOI status: may be released
 Taxpayer Alerts are intended to be an \"early warning\" of significant new and emerging tax planning issues or 
 
-        arrangements that the ATO has under risk assessment.
+ arrangements that the ATO has under risk assessment.
 Taxpayer Alerts will provide information that is in 
 
-        the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
+ the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
 
-        and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
+ and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
 
-        ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
+ ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
 
-        may on further examination be found not to be of concern to the ATO.
+ may on further examination be found not to be of concern to the ATO.
 Taxpayer Alerts will give the title of the 
 
-        issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
+ issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
 
-        the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
+ the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
 
-        taxpayers.
+ taxpayers.
 The developers and marketers of an arrangement which is the subject of a Taxpayer Alert should provide 
 
-        the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
+ the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
 Taxpayers who have entered 
 
-        into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
+ into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
 
-        of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
+ of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
 
-        the Alert.
+ the Alert.
 This Taxpayer Alert is issued under the authority of the Commissioner.
-This Taxpayer Alert describes employment arrangements involving a labour hire firm, a special purpose company and a foreign national employed in Australia.  The arrangements attempt to re-characterise a substantial amount of the foreign national's Australian sourced salary as a tax free living away from home allowance.
+This Taxpayer Alert describes employment arrangements involving a labour hire firm, a special purpose company and a foreign national employed in Australia. The arrangements attempt to re-characterise a substantial amount of the foreign national's Australian sourced salary as a tax free living away from home allowance.
 DESCRIPTION
 The alert applies to arrangements having the following features:
 1.
 Sometime after arriving in Australia a foreign national seeks employment in Australia through a labour hire firm ('LHF').
 2.
-A contract is entered into between the LHF and an end user for the provision of labour.  The contract usually specifies the hourly rate of remuneration, for example $A120 per hour, to be paid to the LHF.
+A contract is entered into between the LHF and an end user for the provision of labour. The contract usually specifies the hourly rate of remuneration, for example $A120 per hour, to be paid to the LHF.
 3.
-A  contract is entered between the LHF and the foreign national.  This contractual relationship is usually one where the LHF is paying the foreign national under a contract wholly or principally for their labour. Generally, payment is based on an hourly rate of remuneration, for example $A100 per hour.  The A$20 difference between the amount paid to the LHF (A$120) and the amount paid by the LHF to the foreign national (A$100) represents a fee to the LHF.  The contract does not provide for the payment of a living away from home allowance ('LAFHA').
+A contract is entered between the LHF and the foreign national. This contractual relationship is usually one where the LHF is paying the foreign national under a contract wholly or principally for their labour. Generally, payment is based on an hourly rate of remuneration, for example $A100 per hour. The A$20 difference between the amount paid to the LHF (A$120) and the amount paid by the LHF to the foreign national (A$100) represents a fee to the LHF. The contract does not provide for the payment of a living away from home allowance ('LAFHA').
 4.
 The foreign national performs work under the contract in Australia.
 5.
@@ -79,7 +77,7 @@ The SPC receives all the money that, but for it being interposed, would have bee
 7.
 The end user of the labour remains the same and there is no change in its contract with the LHF.
 8.
-In a variation to this arrangement the foreign national enters into an agreement with the SPC before contracting the LHF.  The foreign national is not employed at any stage by the LHF and is only employed by the SPC.
+In a variation to this arrangement the foreign national enters into an agreement with the SPC before contracting the LHF. The foreign national is not employed at any stage by the LHF and is only employed by the SPC.
 9.
 It is contended that the LAFHA is exempt income to the foreign national employee through the operation of section 23L of the
 Income Tax Assessment Act 1936
@@ -95,7 +93,7 @@ Whether the amounts described as LAFHA payments received by the foreign national
 (b)
 Whether the amounts said to be LAFHA benefits satisfy the criteria in section 30 of the FBTAA;
 (c)
-Whether the requirements for reduction in taxable value in section 31 of the FBTAA are satisfied;  and
+Whether the requirements for reduction in taxable value in section 31 of the FBTAA are satisfied; and
 (d)
 The application of the general anti-avoidance provisions of Part IVA of the ITAA 1936.
 The Australian Taxation Office is examining these arrangements

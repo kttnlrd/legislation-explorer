@@ -17,7 +17,7 @@ Note: If Foreign has a turnover of $20m or more, Agent must use monthly tax peri
 
 In cases where the non-resident does not have a presence in Australia, this could cause practical difficulties.
 
-To help overcome this, the non-resident and the Australian recipient can agree that the GST on the supply should be paid by the recipient, not the non-resident supplier. This is called a “reverse charge”.
+To help overcome this, the non-resident and the Australian recipient can agree that the GST on the supply should be paid by the recipient, not the non-resident supplier. This is called a "reverse charge".
 
 (1) the supply is not made through an enterprise carried on by the non-resident supplier in Australia (¶4-100), and (2) the recipient is registered, or required to be (s 83-5).
 
@@ -41,9 +41,9 @@ Payment The amount of the GST is 10% of the price of the supply (s 83-20). The n
 
 If the recipient is a member of a GST group, the GST is payable by the representative member (s 83-10). If the recipient is a participant in a GST joint venture, the GST is payable by the venture operator (s 83-15).
 
-Registration and turnover For registration purposes, supplies that are covered by these reverse charge agreements are not taken into account in calculating the non-resident’s GST turnover (s 83-25; 83-30). This means that the non-resident will not need to be registered unless the value of other supplies connected with Australia is at least $75,000.
+Registration and turnover For registration purposes, supplies that are covered by these reverse charge agreements are not taken into account in calculating the non-resident's GST turnover (s 83-25; 83-30). This means that the non-resident will not need to be registered unless the value of other supplies connected with Australia is at least $75,000.
 
-Supplies covered by a reverse charge agreement are also not taken into account in calculating the recipient’s GST turnover (s 188-23).
+Supplies covered by a reverse charge agreement are also not taken into account in calculating the recipient's GST turnover (s 188-23).
 
 *Refs: s 83-20), s 83-35), s 83-10), s 83-15), s 83-25, s 188-23)*
 

@@ -3,18 +3,14 @@ ATO ID 2002/16
 ==================================================
 
 Goods and Services Tax
-        GST and registration of a GST branch
-        FOI status: may be released
-
-
+ GST and registration of a GST branch
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Can the entity, an events management organisation, have each event that it manages registered as a GST branch under subsection 54-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -29,8 +25,6 @@ The entity is registered for goods and services tax (GST). The entity applies in
 Reasons for Decision
 Subsection 54-5(1) of the GST Act provides that the Commissioner must register a branch of a registered entity as a GST branch if the entity makes an application in the approved form; and the Commissioner is satisfied that:
 
-
-
 •the branch maintains an independent system of accounting;
 •the branch can be separately identified by reference to either the nature of the activities carried on through the branch or the location of the branch; and
 •the entity carries on or intends to carry on an enterprise through the branch from a particular date specified in the application.
@@ -42,11 +36,10 @@ Therefore, it is not possible for the entity to have a GST branch unless the bra
 The fact that each event is conducted at its own unique venue does not mean that the entity has multiple branches that are separately identifiable by reference to their locations. Each venue is merely the location where the individual event is held. It is considered that the location from which the entity carries on its activity of event management is its main business premises, despite the fact that each individual event may be held at a separate location.
 As such, none of the entity's 'branches' are separately identifiable by reference to either the nature of the activities carried on through the branch or the location of the branch. Therefore, the entity can not register each of its events as GST branches as all of the requirements in subsection 54-5(1) of the GST Act are not satisfied.
 
-
 [HISTORY: This ATO ID was amended on 27 April 2007 to clarify that it is not possible for an entity to have a GST Branch unless the Branch carries on the activity of managing events from a different location.]
 
 Date of decision:
-         5 November 2001
+  5 November 2001
 
 Legislative References:
 
@@ -55,18 +48,17 @@ A New Tax System (Goods and Services Tax) Act 1999   subsection 54-5(1)
 Keywords
 
 Goods & services tax
-          GST special rules
-          GST branches
-
+ GST special rules
+ GST branches
 
 Siebel/TDMS Reference Number:
-         CW244818
+  CW244818
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         9 January 2002
+  9 January 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

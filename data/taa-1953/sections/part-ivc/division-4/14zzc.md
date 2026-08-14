@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "4"
-division_title: "ART review of objection decisions and"
+division_title: "ART review of objection decisions and extension of time refusal decisions"
 subdivision: ""
 subdivision_title: ""
 section: "14ZZC"

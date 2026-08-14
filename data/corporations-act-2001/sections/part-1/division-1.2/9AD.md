@@ -22,9 +22,9 @@ source_pdf: "corps-act"
 
 > > **(i)** who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the corporation; or
 
-> > **(ii)** who has the capacity to affect significantly the corporation’s financial standing; or
+> > **(ii)** who has the capacity to affect significantly the corporation's financial standing; or
 
-> > **(iii)** in accordance with whose instructions or wishes the directors of the corporation are accustomed to act (excluding advice given by the person in the proper performance of functions attaching to the person’s professional capacity or their business relationship with the directors or the corporation); or
+> > **(iii)** in accordance with whose instructions or wishes the directors of the corporation are accustomed to act (excluding advice given by the person in the proper performance of functions attaching to the person's professional capacity or their business relationship with the directors or the corporation); or
 
 > **(c)** a receiver, or receiver and manager, of the property of the corporation; or
 
@@ -54,7 +54,7 @@ source_pdf: "corps-act"
 
 > > **(i)** who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the entity; or
 
-> > **(ii)** who has the capacity to affect significantly the entity’s financial standing.
+> > **(ii)** who has the capacity to affect significantly the entity's financial standing.
 
 **(4)** For the purposes of Chapter 2M, an officer of a registrable superannuation entity is:
 
@@ -66,7 +66,7 @@ source_pdf: "corps-act"
 
 > > **(ii)** a person who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the entity; or
 
-> > **(iii)** a person who has the capacity to affect significantly the entity’s financial standing.
+> > **(iii)** a person who has the capacity to affect significantly the entity's financial standing.
 
 ---
 *Corporations Act 2001*

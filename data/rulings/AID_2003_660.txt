@@ -3,18 +3,14 @@ ATO ID 2003/660
 ==================================================
 
 Income Tax
-        Research and Development Tax Offset: Exempt entities and affiliates with at least 25% of the voting rights or rights to distribution of income or capital in the company
-        FOI status: may be released
-
-
+ Research and Development Tax Offset: Exempt entities and affiliates with at least 25% of the voting rights or rights to distribution of income or capital in the company
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a company eligible under section 73J of the Income Tax Assessment Act 1936 (ITAA 1936) to choose a research and development tax offset when two or more exempt entities, together with their affiliates, at any time during the tax offset year, own interests in the company carrying between them at least 25% of voting rights or rights to a distribution of income or capital?
@@ -31,14 +27,10 @@ Reasons for Decision
 Section 73J of the ITAA 1936 provides that a company will be eligible to choose a tax offset rather than a deduction for research and development expenditure if it satisfies certain requirements contained in subsection 73J(1) of the ITAA 1936.
 However, even though the requirements of subsection 73J(1) of the ITAA 1936 may be satisfied, subsection 73J(2) of the ITAA 1936 provides that an eligible company will not be able to choose the tax offset for the relevant year, if:
 
-
-
 •an exempt entity
 •the affiliates of an exempt entity
 •an exempt entity together with its affiliates; or
 •two or more exempt entitiesat any time during the tax offset year, legally or beneficially own, or have the right to acquire, the legal or beneficial ownership of:
-
-
 
 (a)interests in the company that carry between them the right to exercise or control the exercise of, at least 25% of the voting power in the company; or
 (b)interests in the company that carry between them the right to receive at least 25% of any distribution of income or capital by the company.
@@ -46,8 +38,8 @@ However, even though the requirements of subsection 73J(1) of the ITAA 1936 may 
 Subsection 73J(2) of the ITAA 1936 does not prescribe four separate tests. Rather, as paragraph 3.10 of the Explanatory Memorandum to the Taxation Laws Amendment (Research and Development) Act 2001 (the Explanatory Memorandum) states:
 
 ... a company will not be eligible for the tax offset where at least 25% of the voting power or 25% of the right to distributions from the company is held, legally or beneficially by an exempt person (or 2 or more exempt persons), or the affiliates of an exempt person,
-              or any combination thereof
-               [emphasis added].
+ or any combination thereof
+ [emphasis added].
 
 Indeed, under the ordinary rules of statutory interpretation, there is a presumption that words in the singular include the plural and vice versa. The primary authority in Australia in relation to that presumption is Blue Metal Industries v. Dilley (1969) 117 CLR 651. At page 656, the Privy Council stated that:
 
@@ -58,19 +50,17 @@ Neither the words of subsection 73J(2) of the ITAA 1936, nor the Explanatory Mem
 The combined shareholdings of the company during the tax offset year of tax exempt entities and an affiliate of one of the tax exempt entities exceeded 25%.
 Accordingly, the company will be ineligible to choose a tax offset because two or more exempt entities, together with their affiliates, at any time during the tax offset year owned interests in the company carrying between them at least 25% of voting rights or rights to a distribution of income or capital.
 Date of decision:
-         17 June 2003
+  17 June 2003
 
 Year of income:
-           Year ended 30 June 2002
+  Year ended 30 June 2002
 
 Legislative References:
 
 Acts Interpretation Act 1901   section 23
 Income Tax Assessment Act 1936   section 73J   subsection 73J(1)   subsection 73J(2)
 
-
 Case References:
-
 
 Blue Metal Industries Limited v. Dilley and Anor   (1969) 117 CLR 651
 
@@ -82,15 +72,14 @@ Keywords
 
 Research & development segment
 
-
 Siebel/TDMS Reference Number:
-         3519704
+  3519704
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         1 August 2003
+  1 August 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

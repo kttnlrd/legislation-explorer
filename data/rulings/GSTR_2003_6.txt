@@ -4,22 +4,20 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 129
-  • Div 130
-  • Div 138
-  • Div 358
-  • Div 40
-  • Div 72
-  • Division 129
-  • Division 130
-  • Division 138
-  • Division 358
-  • Division 40
-  • Division 72
+ • Div 129
+ • Div 130
+ • Div 138
+ • Div 358
+ • Div 40
+ • Div 72
+ • Division 129
+ • Division 130
+ • Division 138
+ • Division 358
+ • Division 40
+ • Division 72
 
 Topics: GST, Trusts, Partnerships, Companies
-
-
 
 ================================================================================
 
@@ -34,13 +32,13 @@ Back to browse
 38 related documents
 Goods and Services Tax Ruling
 GSTR 2003/6
-Goods and services tax:  transfers of enterprise assets as a result of property distributions under the Family Law Act 1975 or in similar circumstances.
+Goods and services tax: transfers of enterprise assets as a result of property distributions under the Family Law Act 1975 or in similar circumstances.
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -79,9 +77,9 @@ as a result of a matrimonial property distribution
 ('MPD')
 under the
 Family Law Act 1975
-('FLA').  The Ruling discusses whether the transfer is a taxable supply under section 9-5 of the
+('FLA'). The Ruling discusses whether the transfer is a taxable supply under section 9-5 of the
 A New Tax System (Goods and Services Tax) Act 1999
-('GST Act').  This Ruling deals with the transfer of enterprise assets and
+('GST Act'). This Ruling deals with the transfer of enterprise assets and
 private assets
 of either or both spouses and
 related entities
@@ -92,9 +90,9 @@ they control.
 other property distribution
 unless that asset transfer is also under a later MPD or other property distribution.
 5. The Ruling does not apply to the situation where a spouse acquires an asset from a related entity for consideration in order to pass that asset on to the other spouse.
-6. The Ruling also discusses whether an adjustment arises from the supply of an enterprise asset following a marriage or other relationship breakdown.  In particular Divisions 129 and 130 of the GST Act are discussed.  The Ruling includes reasonable methods that you may use to determine actual application when calculating the extent of creditable purpose for Division 129.
-7. The GST Act does not apply to private assets.  Property distributions that do not involve enterprise assets fall outside the GST Act.  Transfers of assets between spouses not registered or required to be registered for GST have no GST consequences.
-8. Certain terms used in this Ruling are defined or explained in the Background section of the Ruling.  These terms when first mentioned elsewhere in the Ruling appear in
+6. The Ruling also discusses whether an adjustment arises from the supply of an enterprise asset following a marriage or other relationship breakdown. In particular Divisions 129 and 130 of the GST Act are discussed. The Ruling includes reasonable methods that you may use to determine actual application when calculating the extent of creditable purpose for Division 129.
+7. The GST Act does not apply to private assets. Property distributions that do not involve enterprise assets fall outside the GST Act. Transfers of assets between spouses not registered or required to be registered for GST have no GST consequences.
+8. Certain terms used in this Ruling are defined or explained in the Background section of the Ruling. These terms when first mentioned elsewhere in the Ruling appear in
 bold
 type.
 9. Unless otherwise stated, all legislative references in this Ruling are to the GST Act.
@@ -106,44 +104,44 @@ Date of effect
 Background
 12. For the purpose of this Ruling the following terms have the meanings indicated.
 'Enterprise asset'
-means real property, tangible and intangible personal property that is owned by either or both spouses or a related entity and used or intended to be used in an 'enterprise' of the 'entity' that is 'registered or required to be registered'.  Examples of enterprise assets include trading stock, plant, office equipment, motor vehicles and real property.
+means real property, tangible and intangible personal property that is owned by either or both spouses or a related entity and used or intended to be used in an 'enterprise' of the 'entity' that is 'registered or required to be registered'. Examples of enterprise assets include trading stock, plant, office equipment, motor vehicles and real property.
 'FLA orders or agreements'
 are FLA court orders, FLA consent orders and binding financial agreements ('BFAs').
 'Matrimonial property'
 is property of either or both spouses and may include property held by a related entity.
 'MPD'
-is the abbreviation for matrimonial property distributions.  MPDs involve the direct transfer of private and/or enterprise assets from the supplier spouse or a related entity to the recipient spouse and are made under the FLA.
+is the abbreviation for matrimonial property distributions. MPDs involve the direct transfer of private and/or enterprise assets from the supplier spouse or a related entity to the recipient spouse and are made under the FLA.
 'Other property distributions'
-are not made under the FLA and include transfers of private and enterprise assets as a result of a relationship breakdown between de facto or same sex partners.  They also include transfers from a marriage breakdown where spouses come to a property agreement outside the FLA.
+are not made under the FLA and include transfers of private and enterprise assets as a result of a relationship breakdown between de facto or same sex partners. They also include transfers from a marriage breakdown where spouses come to a property agreement outside the FLA.
 'Private asset'
 means any property that is not an enterprise asset.
 'Related entity'
-means a company, trust or partnership, which is an 'entity' under the GST Act that is controlled by one or both spouses to a marriage.  The control comes through the position that either or both spouses hold as shareholder, director, trustee or partner.
+means a company, trust or partnership, which is an 'entity' under the GST Act that is controlled by one or both spouses to a marriage. The control comes through the position that either or both spouses hold as shareholder, director, trustee or partner.
 'Spouse'
 means current spouse, former or separated spouse and people intending to marry (prospective spouse), as appropriate to the context.
 13. MPDs result from court orders
 [F1]
 (including consent orders and registered arbitration awards)
 [F2]
-and BFAs under the FLA.  The relevant feature of MPDs for the purposes of this Ruling is the transfer of title of 'matrimonial property' to one of the spouses.  Under the FLA the court may make an order altering the interests of the spouses in the matrimonial property.  The order may be made as a consent order following agreement by the parties as to the distribution of the property, or it may follow from contested proceedings.  Rather than altering the interests, an FLA order or agreement may cause an enterprise asset owned by a related entity to be transferred to the other spouse.  This is because of the degree of control, of either or both of the spouses, capable of being exercised over the related entity.  Such an order will normally have words to the effect that the controlling spouse uses his or her best endeavours to cause the related entity to transfer the asset to the other spouse.
-14. Parties entitled to commence proceedings under the FLA can enter into 'arbitration'.  The issues in dispute are determined by the arbitrator
+and BFAs under the FLA. The relevant feature of MPDs for the purposes of this Ruling is the transfer of title of 'matrimonial property' to one of the spouses. Under the FLA the court may make an order altering the interests of the spouses in the matrimonial property. The order may be made as a consent order following agreement by the parties as to the distribution of the property, or it may follow from contested proceedings. Rather than altering the interests, an FLA order or agreement may cause an enterprise asset owned by a related entity to be transferred to the other spouse. This is because of the degree of control, of either or both of the spouses, capable of being exercised over the related entity. Such an order will normally have words to the effect that the controlling spouse uses his or her best endeavours to cause the related entity to transfer the asset to the other spouse.
+14. Parties entitled to commence proceedings under the FLA can enter into 'arbitration'. The issues in dispute are determined by the arbitrator
 [F3]
 who makes an 'award'
 [F4]
 known as an 'arbitral award'.
-15. The FLA also provides for parties in contemplation of marriage, parties during marriage or after dissolution of a marriage to make a BFA with respect to the property or financial resources of either or both of the parties.  A BFA addresses how, in the event of the 'breakdown of the marriage' all or any property or financial resources that either or both parties had before the marriage, and acquire during the marriage, is to be dealt with during the marriage and/or after dissolution of the marriage.
+15. The FLA also provides for parties in contemplation of marriage, parties during marriage or after dissolution of a marriage to make a BFA with respect to the property or financial resources of either or both of the parties. A BFA addresses how, in the event of the 'breakdown of the marriage' all or any property or financial resources that either or both parties had before the marriage, and acquire during the marriage, is to be dealt with during the marriage and/or after dissolution of the marriage.
 [F5]
-A BFA is binding on the parties without an order of the court.  This Ruling applies to supplies made under a BFA as a consequence of the marriage breakdown.
-16. Not all transfers between husband and wife concerning property will be made under the FLA.  Upon a marriage breakdown spouses may proceed to a distribution of property outside the FLA by way of an informal agreement between themselves.
-17. De facto and same sex relationships are not covered by the FLA.  Parties to relationships that are not a 'marriage' under the FLA may resort to State and Territory legislation and the common law remedies, proceedings and separation agreements.
+A BFA is binding on the parties without an order of the court. This Ruling applies to supplies made under a BFA as a consequence of the marriage breakdown.
+16. Not all transfers between husband and wife concerning property will be made under the FLA. Upon a marriage breakdown spouses may proceed to a distribution of property outside the FLA by way of an informal agreement between themselves.
+17. De facto and same sex relationships are not covered by the FLA. Parties to relationships that are not a 'marriage' under the FLA may resort to State and Territory legislation and the common law remedies, proceedings and separation agreements.
 [F6]
 Partners in these relationships can also make informal agreements as to the distribution of property following the breakdown of their relationship.
 Ruling with explanation
 18. As a result of an
 FLA order or agreement,
-assets of either or both spouses or of a related entity will be transferred to one of the spouses.  We have explained above the characteristics of FLA orders or agreements.  We consider that for GST purposes the relevant feature of FLA orders or agreements is the transfer of assets, which may involve the transfer of ownership or possession depending on the nature of the asset.  In this regard we treat orders and agreements made under the FLA as the same in respect of the GST consequences.  As there are no specific provisions of the GST Act covering MPDs, the basic rules of the GST Act apply.  Similar considerations apply to the transfer of assets following other property distributions arising from the agreements outlined in paragraphs 16 and 17 above.
-19. While this Ruling primarily deals with enterprise assets the more common situation is the transfer of private assets between spouses who are not registered or required to be registered for GST.  These transfers of private assets between spouses do not have any GST consequences.  For example, if a spouse not registered or required to be registered transfers a private asset, such as the matrimonial home, to his or her spouse under an MPD there are no GST consequences.
-20. Enterprise assets can be the subject of an MPD.  For example, an interior design company owns two delivery vans.  One van is transferred to a spouse under an MPD.  The delivery vans are enterprise assets.  When an enterprise asset is transferred you have to consider the GST consequences of the transfer, that is, whether the transfer is a taxable supply.
+assets of either or both spouses or of a related entity will be transferred to one of the spouses. We have explained above the characteristics of FLA orders or agreements. We consider that for GST purposes the relevant feature of FLA orders or agreements is the transfer of assets, which may involve the transfer of ownership or possession depending on the nature of the asset. In this regard we treat orders and agreements made under the FLA as the same in respect of the GST consequences. As there are no specific provisions of the GST Act covering MPDs, the basic rules of the GST Act apply. Similar considerations apply to the transfer of assets following other property distributions arising from the agreements outlined in paragraphs 16 and 17 above.
+19. While this Ruling primarily deals with enterprise assets the more common situation is the transfer of private assets between spouses who are not registered or required to be registered for GST. These transfers of private assets between spouses do not have any GST consequences. For example, if a spouse not registered or required to be registered transfers a private asset, such as the matrimonial home, to his or her spouse under an MPD there are no GST consequences.
+20. Enterprise assets can be the subject of an MPD. For example, an interior design company owns two delivery vans. One van is transferred to a spouse under an MPD. The delivery vans are enterprise assets. When an enterprise asset is transferred you have to consider the GST consequences of the transfer, that is, whether the transfer is a taxable supply.
 Taxable supplies
 21. A supply is a taxable supply under section 9-5 if:
 (a)
@@ -157,178 +155,178 @@ you are registered, or required to be registered.
 However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 22. In considering whether the supply of
 matrimonial property
-under an MPD is a taxable supply this Ruling only addresses paragraphs (a) and (b) of section 9-5.  In this Ruling we assume that the supplies are connected with Australia and the entity is registered or required to be registered.
+under an MPD is a taxable supply this Ruling only addresses paragraphs (a) and (b) of section 9-5. In this Ruling we assume that the supplies are connected with Australia and the entity is registered or required to be registered.
 [F7]
 Is there a supply for consideration?
 Supply
 23. 'Supply' is given a wide meaning in the GST Act. As the term means 'any form of supply whatsoever'
 [F8]
-it includes the transfer of assets.  The transfer of an asset between parties is a supply of that asset.
+it includes the transfer of assets. The transfer of an asset between parties is a supply of that asset.
 [F9]
 When an enterprise asset is transferred to a spouse under an MPD there is a supply.
-Example 1:  Supply of an enterprise asset
+Example 1: Supply of an enterprise asset
 24.
-Bill is a sole trader.  He carries on a plumbing and draining enterprise in which he uses two vans.  After Bill's marriage breakdown, Bill is ordered by the Family Court to transfer one of the vans, an enterprise asset, to his spouse.  The transfer of the van is a supply for GST purposes.
+Bill is a sole trader. He carries on a plumbing and draining enterprise in which he uses two vans. After Bill's marriage breakdown, Bill is ordered by the Family Court to transfer one of the vans, an enterprise asset, to his spouse. The transfer of the van is a supply for GST purposes.
 Consideration
-25. As a result of an MPD a sole trader or a related entity may supply an asset to a spouse (recipient).  The question arises as to whether the sole trader or related entity making the supply of the asset is receiving consideration for that supply.
+25. As a result of an MPD a sole trader or a related entity may supply an asset to a spouse (recipient). The question arises as to whether the sole trader or related entity making the supply of the asset is receiving consideration for that supply.
 26. Consideration is defined in section 195-1 to mean 'any consideration within the meaning given by sections 9-15 and 9-17, in connection with the supply or acquisition.'
-27. Subsection 9-15(1) provides that a payment, or any act or forbearance is consideration for a supply if it is 'in connection with', 'in response to or for the inducement of' a supply.  A payment, act or forbearance may be consideration for a supply even though it is made voluntarily, and regardless of whether it is made by the recipient of the supply.
+27. Subsection 9-15(1) provides that a payment, or any act or forbearance is consideration for a supply if it is 'in connection with', 'in response to or for the inducement of' a supply. A payment, act or forbearance may be consideration for a supply even though it is made voluntarily, and regardless of whether it is made by the recipient of the supply.
 [F10]
 28. A payment, act or forbearance is consideration for a supply where there is a sufficient nexus between the payment, act or forbearance and the supply.
 [F11]
 The test as to whether there is a sufficient nexus is an objective test.
 [F12]
-Generally, under an MPD there is no payment, and even where money is included as part of an MPD the payment is not made in connection with, or for the inducement of a supply.  This is because the purpose of an MPD is not an exchange or barter of assets, but a re-distribution of assets in accordance with the spouses' FLA entitlements.  Therefore, if there is a transfer of money it is not consideration for a supply.
-Example 2:  Whether there is consideration
+Generally, under an MPD there is no payment, and even where money is included as part of an MPD the payment is not made in connection with, or for the inducement of a supply. This is because the purpose of an MPD is not an exchange or barter of assets, but a re-distribution of assets in accordance with the spouses' FLA entitlements. Therefore, if there is a transfer of money it is not consideration for a supply.
+Example 2: Whether there is consideration
 29.
-Terry and Tania are subject to an MPD.  As part of the MPD Terry is required to transfer a car to Tania, and Tania is required to transfer to Terry the $30,000 balance of their joint bank account.  The money is not consideration for the supply of the car.
+Terry and Tania are subject to an MPD. As part of the MPD Terry is required to transfer a car to Tania, and Tania is required to transfer to Terry the $30,000 balance of their joint bank account. The money is not consideration for the supply of the car.
 30. When an MPD arises out of a court order or out of court settlement, it is appropriate to apply the principles from Goods and Services Tax Ruling GSTR 2001/4
 [F13]
 in relation to the supply of the asset.
 31. Therefore, where an asset is received under an MPD resulting from a court order (following contested proceedings) there is no consideration in the nature of forbearance or discontinuance as it is the decision of the court rather than agreement between the parties that 'settles' the dispute.
 [F14]
-32. Due to the nature of consent orders and BFAs made pursuant to the FLA (but not court orders following contested proceedings), there may be some form of consideration present.  Because of the wide definition of 'consideration' in the GST Act, there may be consideration present in the form of some forbearance or discontinuance where a sole trader supplies an asset to the recipient spouse.  It is difficult to identify any consideration provided to a related entity when that entity transfers an asset to a recipient spouse under an MPD.
-33. Where the asset is received under a consent order or BFA the receipt of the asset is linked to an entitlement under the FLA rather than forbearance or discontinuance.  The forbearance or discontinuance of any action is merely a term or condition of the settlement.
+32. Due to the nature of consent orders and BFAs made pursuant to the FLA (but not court orders following contested proceedings), there may be some form of consideration present. Because of the wide definition of 'consideration' in the GST Act, there may be consideration present in the form of some forbearance or discontinuance where a sole trader supplies an asset to the recipient spouse. It is difficult to identify any consideration provided to a related entity when that entity transfers an asset to a recipient spouse under an MPD.
+33. Where the asset is received under a consent order or BFA the receipt of the asset is linked to an entitlement under the FLA rather than forbearance or discontinuance. The forbearance or discontinuance of any action is merely a term or condition of the settlement.
 [F15]
 34. However, even if such forbearance or discontinuance is present we take the view that there is not a sufficient nexus between the consideration and the supply of the asset due to the nature of MPDs.
 35. The same principles apply to other property distributions which arise from informal agreements made between spouses as outlined in paragraph 16, and from the breakdown of de facto or same sex relationships as outlined in paragraph 17.
-36. We take the view that there is no consideration with a sufficient nexus to the assets supplied by way of a property distribution.  Therefore, under a property distribution resulting from a breakdown of a marriage or other relationship the supply is made for no consideration for paragraph 9-5(a) purposes.
+36. We take the view that there is no consideration with a sufficient nexus to the assets supplied by way of a property distribution. Therefore, under a property distribution resulting from a breakdown of a marriage or other relationship the supply is made for no consideration for paragraph 9-5(a) purposes.
 Division 72
-37. Where there is no consideration or inadequate consideration Division 72 may apply.  Division 72 ensures that a supply to your associate
+37. Where there is no consideration or inadequate consideration Division 72 may apply. Division 72 ensures that a supply to your associate
 [F16]
-without consideration will be taxable if, except for the lack of consideration, the supply would otherwise be taxable.  Division 72 also provides that supplies for inadequate consideration are properly valued.  However, if the supply is not made in the course or furtherance of the enterprise it is still not a taxable supply.
+without consideration will be taxable if, except for the lack of consideration, the supply would otherwise be taxable. Division 72 also provides that supplies for inadequate consideration are properly valued. However, if the supply is not made in the course or furtherance of the enterprise it is still not a taxable supply.
 [F17]
 Is the supply made 'in the course or furtherance of an enterprise'?
-38. Where an enterprise asset is transferred as a result of an MPD the issue arises as to whether the supply is made in the course or furtherance of an enterprise that you carry on.  Where the supply does not meet this requirement under paragraph 9-5(b) it is not a taxable supply.  The question is one of fact and degree and will depend on the circumstances of the case.
+38. Where an enterprise asset is transferred as a result of an MPD the issue arises as to whether the supply is made in the course or furtherance of an enterprise that you carry on. Where the supply does not meet this requirement under paragraph 9-5(b) it is not a taxable supply. The question is one of fact and degree and will depend on the circumstances of the case.
 39. The Explanatory Memorandum to A New Tax System (Goods and Services Tax) Bill 1998
 [F18]
 states:
-'In the course or furtherance' is not defined, but is broad enough to cover any supplies made in connection with your enterprise.  An act done for the purpose or object of furthering an enterprise, or achieving its goals, is a furtherance of an enterprise although it may not always be in the course of that enterprise.  'In the course or furtherance' does not extend to the supply of private commodities, such as when a car dealer sells his or her own private car.  See Case N43 (1991) 13 NZTC 3361.
+'In the course or furtherance' is not defined, but is broad enough to cover any supplies made in connection with your enterprise. An act done for the purpose or object of furthering an enterprise, or achieving its goals, is a furtherance of an enterprise although it may not always be in the course of that enterprise. 'In the course or furtherance' does not extend to the supply of private commodities, such as when a car dealer sells his or her own private car. See Case N43 (1991) 13 NZTC 3361.
 40. Further, the connection between a supply and the enterprise is illustrated in
 Case K55
 (1988) 10 NZTC 453 where Bathgate DJ said at page 457:
-... it is a question of fact and degree as to whether a supply is in the course or furtherance of a taxable activity carried on by the person concerned.  There must obviously be a discernible relationship between the supply and the activity in the form of a nexus for the supply to be in the course or furtherance of the activity.
-41. We consider that there is no 'discernible relationship' between the supply of an asset under an MPD and the enterprise.  Our view is based on a combination of factors.  The main factor is the private nature of a marriage breakdown.  Other factors include the binding nature of an FLA order or agreement and the lack of commercial flavour in the absence of consideration.
+... it is a question of fact and degree as to whether a supply is in the course or furtherance of a taxable activity carried on by the person concerned. There must obviously be a discernible relationship between the supply and the activity in the form of a nexus for the supply to be in the course or furtherance of the activity.
+41. We consider that there is no 'discernible relationship' between the supply of an asset under an MPD and the enterprise. Our view is based on a combination of factors. The main factor is the private nature of a marriage breakdown. Other factors include the binding nature of an FLA order or agreement and the lack of commercial flavour in the absence of consideration.
 42. Where the overriding essential character of the supply is that of something being disposed of due to the personal circumstances of the spouse, upon marriage breakdown or otherwise under the FLA, rather than business circumstances of the enterprise, that supply is not made in the course or furtherance of the enterprise.
-43. Even where an enterprise asset is supplied to a spouse by a related entity under an MPD the transaction does not have a business or commercial flavour.  The order or agreement, which binds the parties, comes from the FLA which primarily deals with matrimonial and private matters, such as MPDs, maintenance and custody.  These orders take into account contributions made by the spouses and consider other factors such as future earning capacity and age.  In addition, there is no consideration with sufficient nexus to the supply because of the nature of an MPD.
-44. Similar principles apply to other property distributions following a de facto or same sex relationship breakdown, and to property distributions under informal agreements made between spouses as a result of the marriage breakdown.  Therefore, we take the view that these supplies, and supplies made under an MPD, are not made in the course or furtherance of the enterprise.
-45. Where the requirements in paragraph 9-5(b) are not met it is not necessary to consider Division 72 for property distributions upon marriage or relationship breakdowns.  Therefore, and because paragraph 9-5(a) is also not met, there is no taxable supply.  Although there is no taxable supply, the spouse, partner or related entity making the supply should consider whether there is an adjustment under Division 129 or 130 in respect of the original acquisition.
+43. Even where an enterprise asset is supplied to a spouse by a related entity under an MPD the transaction does not have a business or commercial flavour. The order or agreement, which binds the parties, comes from the FLA which primarily deals with matrimonial and private matters, such as MPDs, maintenance and custody. These orders take into account contributions made by the spouses and consider other factors such as future earning capacity and age. In addition, there is no consideration with sufficient nexus to the supply because of the nature of an MPD.
+44. Similar principles apply to other property distributions following a de facto or same sex relationship breakdown, and to property distributions under informal agreements made between spouses as a result of the marriage breakdown. Therefore, we take the view that these supplies, and supplies made under an MPD, are not made in the course or furtherance of the enterprise.
+45. Where the requirements in paragraph 9-5(b) are not met it is not necessary to consider Division 72 for property distributions upon marriage or relationship breakdowns. Therefore, and because paragraph 9-5(a) is also not met, there is no taxable supply. Although there is no taxable supply, the spouse, partner or related entity making the supply should consider whether there is an adjustment under Division 129 or 130 in respect of the original acquisition.
 Adjustments under Divisions 129 and 130
 Whether an adjustment arises following the supply of enterprise assets
-46. We have previously concluded in paragraphs 35 and 44 that for section 9-5 purposes the treatment of other property distributions is similar to the treatment of MPDs.  Therefore, where MPDs are referred to in the remainder of this Ruling, we consider that this Ruling applies with similar effect to other property distributions.
+46. We have previously concluded in paragraphs 35 and 44 that for section 9-5 purposes the treatment of other property distributions is similar to the treatment of MPDs. Therefore, where MPDs are referred to in the remainder of this Ruling, we consider that this Ruling applies with similar effect to other property distributions.
 47. The GST Act entitles you to claim input tax credits for things used by your enterprise to the extent of your creditable purpose.
 [F19]
 When the extent of your creditable purpose for an asset is changed by later events, adjustments may need to be made under Division 129 or 130.
 [F20]
-Divisions 129 and 130 are concerned with adjustments arising out of a change in creditable purpose.  If a thing acquired for use in an enterprise is applied for a private or domestic use there is a change in creditable purpose.  The result may lead to increasing adjustments.
+Divisions 129 and 130 are concerned with adjustments arising out of a change in creditable purpose. If a thing acquired for use in an enterprise is applied for a private or domestic use there is a change in creditable purpose. The result may lead to increasing adjustments.
 48. The rationale for the increasing adjustments is that when something is applied to a private or domestic purpose and removed from the GST system, it is going into final consumption.
 [F21]
-As no input tax credits are available for assets outside the GST system, it follows that when an entity applies an asset to a private or domestic purpose, input tax credits previously claimed should be returned.  The adjustments calculated under Divisions 129 and 130 effectively return the input tax credits.  Although of limited application in MPD situations, Division 130 is discussed later.
+As no input tax credits are available for assets outside the GST system, it follows that when an entity applies an asset to a private or domestic purpose, input tax credits previously claimed should be returned. The adjustments calculated under Divisions 129 and 130 effectively return the input tax credits. Although of limited application in MPD situations, Division 130 is discussed later.
 49. It should be noted that as there is no entitlement to input tax credits in respect of assets acquired prior to 1 July 2000, it is unnecessary to consider adjustments under Divisions 129 or 130 for those assets, unless special credits have been claimed.
 [F22]
 The meaning of the word 'apply'
-50. The term 'apply' is used in both Divisions 129 and 130.  The ordinary meaning of the word 'apply' is 'to put to use; employ or to devote to some specific purpose'.
+50. The term 'apply' is used in both Divisions 129 and 130. The ordinary meaning of the word 'apply' is 'to put to use; employ or to devote to some specific purpose'.
 [F23]
-This ordinary meaning is extended by the statutory definition of  'apply' in section 129-55 of the GST Act, which, 'in relation to a thing acquired or imported, includes:
+This ordinary meaning is extended by the statutory definition of 'apply' in section 129-55 of the GST Act, which, 'in relation to a thing acquired or imported, includes:
 (a)
 supply the thing; and
 (b)
 consume, dispose of or destroy the thing; and
 (c)
 allow another entity to consume, dispose of or destroy the thing.'
-51. The transfer of the asset under an MPD falls within the statutory definition of apply as the thing has been both disposed of and supplied.  Our view is that the asset has been applied in circumstances where it is transferred to a spouse under an MPD.
-Example 3:  Applying an enterprise asset
+51. The transfer of the asset under an MPD falls within the statutory definition of apply as the thing has been both disposed of and supplied. Our view is that the asset has been applied in circumstances where it is transferred to a spouse under an MPD.
+Example 3: Applying an enterprise asset
 52.
-Emma and Darcy are in the process of divorcing each other.  Darcy is the sole shareholder in Countryside Pty Ltd.  As part of the MPD Emma is to receive a motor vehicle owned by the company.  The orders require Darcy to do all things necessary to transfer the motor vehicle to her.  The transfer of the motor vehicle from Countryside Pty Ltd to Emma is an application of the motor vehicle by Countryside Pty Ltd.
+Emma and Darcy are in the process of divorcing each other. Darcy is the sole shareholder in Countryside Pty Ltd. As part of the MPD Emma is to receive a motor vehicle owned by the company. The orders require Darcy to do all things necessary to transfer the motor vehicle to her. The transfer of the motor vehicle from Countryside Pty Ltd to Emma is an application of the motor vehicle by Countryside Pty Ltd.
 Applied for private use
-53. It is our view that entities can hold assets for a private use and purpose.  Assets may be owned by a registered entity but not have been acquired for a creditable purpose.  These assets are not used or intended to be used in the entity's enterprise and are 'private assets' of the entity for the purposes of this Ruling.  For example, a company can acquire a yacht for the private purposes of the company or its directors and shareholders.  Similarly, an entity can apply enterprise assets to a private use.
-54. We consider that when an enterprise asset of a sole trader or related entity is transferred under an MPD there is an application of the asset of a 'private nature' within the terms of paragraph 129-50(2)(b). The application consists of the process of the setting aside, the taking of it out of the enterprise and the transfer or disposal of the asset.  There is a total change or conversion in its application as an enterprise asset to one of a private nature when it is transferred.
+53. It is our view that entities can hold assets for a private use and purpose. Assets may be owned by a registered entity but not have been acquired for a creditable purpose. These assets are not used or intended to be used in the entity's enterprise and are 'private assets' of the entity for the purposes of this Ruling. For example, a company can acquire a yacht for the private purposes of the company or its directors and shareholders. Similarly, an entity can apply enterprise assets to a private use.
+54. We consider that when an enterprise asset of a sole trader or related entity is transferred under an MPD there is an application of the asset of a 'private nature' within the terms of paragraph 129-50(2)(b). The application consists of the process of the setting aside, the taking of it out of the enterprise and the transfer or disposal of the asset. There is a total change or conversion in its application as an enterprise asset to one of a private nature when it is transferred.
 Whose application
-55. The application we are concerned with under Divisions 129 and 130 is the application by the entity carrying on the enterprise.  This requires the entity itself to apply the asset to a private or domestic use.  In a transfer of an asset under an MPD, it is the private or domestic application of the supplying spouse or related entity that is relevant.  The use to which the asset is put by the recipient spouse under an MPD is not relevant for the purposes of Divisions 129 and 130.
-Example 4:  Private application by a related entity
+55. The application we are concerned with under Divisions 129 and 130 is the application by the entity carrying on the enterprise. This requires the entity itself to apply the asset to a private or domestic use. In a transfer of an asset under an MPD, it is the private or domestic application of the supplying spouse or related entity that is relevant. The use to which the asset is put by the recipient spouse under an MPD is not relevant for the purposes of Divisions 129 and 130.
+Example 4: Private application by a related entity
 56.
-Jill is the sole director and shareholder of JJ Pty Ltd, a speedboat hire company.  When Jake and Jill's de facto relationship ended, they entered into an agreement to distribute their assets.  As part of this agreement Jill agreed that she would arrange for the company to transfer one of its speedboats to Jake.  The transfer of the speedboat by the company is a private application by the company.  Jake's proposed use of the speedboat is not relevant.
+Jill is the sole director and shareholder of JJ Pty Ltd, a speedboat hire company. When Jake and Jill's de facto relationship ended, they entered into an agreement to distribute their assets. As part of this agreement Jill agreed that she would arrange for the company to transfer one of its speedboats to Jake. The transfer of the speedboat by the company is a private application by the company. Jake's proposed use of the speedboat is not relevant.
 Division 129
 Whether there is a change in creditable purpose under Division 129
-57. Division 129 may require an increasing adjustment if the private or non-business application of the asset in an MPD is different to the intended or former application of the asset by the enterprise.  However, there is no adjustment necessary if the transfer of the asset under the MPD occurs after the end of the last adjustment period.
+57. Division 129 may require an increasing adjustment if the private or non-business application of the asset in an MPD is different to the intended or former application of the asset by the enterprise. However, there is no adjustment necessary if the transfer of the asset under the MPD occurs after the end of the last adjustment period.
 58. If the requirements of Division 129 are met,
 [F24]
-section 129-40 provides a method statement to work out in five steps whether you have an increasing adjustment.  However, in using the method statement, step 1 first requires you to work out the extent to which the asset or thing has been applied to a creditable purpose, which is the 'actual application of the thing'.
+section 129-40 provides a method statement to work out in five steps whether you have an increasing adjustment. However, in using the method statement, step 1 first requires you to work out the extent to which the asset or thing has been applied to a creditable purpose, which is the 'actual application of the thing'.
 [F25]
 Reasonable methods for calculating the actual application of the thing
 59. Our view on how to ascertain the extent of creditable purpose under step 1 of the method statement in section 129-40 is contained in GSTR 2000/24.
 [F26]
-It refers to both direct and indirect methods for determining the extent of creditable purpose.  It states that where possible you should use a direct method to work out the extent of creditable purpose.
+It refers to both direct and indirect methods for determining the extent of creditable purpose. It states that where possible you should use a direct method to work out the extent of creditable purpose.
 [F27]
 Direct methods assume ongoing applications of things (both for a creditable purpose and another purpose) over the required number of adjustment periods (which depends on the type and value of the acquisition or importation).
 [F28]
-60. However, when an application of a thing includes a disposal it is not appropriate to use a direct method to work out the extent of creditable purpose as it will not give a fair and reasonable result.  It is therefore necessary to use an indirect method to work out the extent of creditable purpose under an MPD because that application involves a disposal.  Because there is a disposal there is no ongoing use of the thing.
+60. However, when an application of a thing includes a disposal it is not appropriate to use a direct method to work out the extent of creditable purpose as it will not give a fair and reasonable result. It is therefore necessary to use an indirect method to work out the extent of creditable purpose under an MPD because that application involves a disposal. Because there is a disposal there is no ongoing use of the thing.
 61. The method used to work out the extent of creditable purpose must be fair and reasonable.
 [F29]
 Furthermore, the choice of method should be based on its appropriateness in your circumstances.
 [F30]
-62. There are a number of approaches for calculating the extent of application to a creditable purpose for an asset transferred under an MPD which may lead to an adjustment.  While either of the following two methods may not be the only reasonable methods, if you use the appropriate one for your circumstances the Commissioner will accept that you have correctly calculated your extent of creditable purpose.
-63. The extent of your creditable purpose equates to the 'actual application of the thing' in step 1 of the method statement contained in section 129-40.  You must then complete steps 2 and 3 of the method statement to work out whether you have an increasing adjustment.  If you do have an increasing adjustment, you must then calculate the amount of the adjustment using the formula contained in section 129-70.
-64. In each of the methods discussed below we give an example.  These examples show the necessary steps to calculate your increasing adjustment once you have worked out your extent of creditable purpose.  Because this application involves a disposal, the tax period in which you make this adjustment becomes your last adjustment period for that acquisition.
+62. There are a number of approaches for calculating the extent of application to a creditable purpose for an asset transferred under an MPD which may lead to an adjustment. While either of the following two methods may not be the only reasonable methods, if you use the appropriate one for your circumstances the Commissioner will accept that you have correctly calculated your extent of creditable purpose.
+63. The extent of your creditable purpose equates to the 'actual application of the thing' in step 1 of the method statement contained in section 129-40. You must then complete steps 2 and 3 of the method statement to work out whether you have an increasing adjustment. If you do have an increasing adjustment, you must then calculate the amount of the adjustment using the formula contained in section 129-70.
+64. In each of the methods discussed below we give an example. These examples show the necessary steps to calculate your increasing adjustment once you have worked out your extent of creditable purpose. Because this application involves a disposal, the tax period in which you make this adjustment becomes your last adjustment period for that acquisition.
 [F31]
 (i) Effective life method for wasting assets
-65. This method may be used to calculate the extent of creditable purpose where the asset is a depreciating or wasting asset.  This method compares the use of the thing for the period of time it is held by the entity with either the useful life of the asset for accounting purposes or you may use the Commissioner's determination of the effective life of the asset under Division 40 of the
+65. This method may be used to calculate the extent of creditable purpose where the asset is a depreciating or wasting asset. This method compares the use of the thing for the period of time it is held by the entity with either the useful life of the asset for accounting purposes or you may use the Commissioner's determination of the effective life of the asset under Division 40 of the
 Income Tax Assessment Act 1997.
 66. The extent of creditable purpose or 'actual application of the thing'
 [F32]
 using the effective life method is given by the formula:
-(Period of time held / Useful or effective life)  *  Extent of creditable purpose prior to disposal
-Example 5:  Effective life method
+(Period of time held / Useful or effective life) * Extent of creditable purpose prior to disposal
+Example 5: Effective life method
 67.
-Larry and Lil are former spouses who are in partnership in a garden pot supply business.  As part of a property settlement under an MPD, a partnership asset (a car) is provided to Lil.  The car was purchased second-hand by the partnership on 1/7/2000 for $55,000 and at the time of acquisition it was intended that the car be used 80% for a creditable purpose and $4,000 in input tax credits was claimed. The partnership regarded 8 years as the useful life of the car for accounting purposes.  The car was in fact used 80% for a creditable purpose until the partnership disposed of the car to Lil on 31/12/2002.  The setting aside and disposal of the car is a private application by the partnership.  At that time, the car has a GST inclusive market value of $33,000.
+Larry and Lil are former spouses who are in partnership in a garden pot supply business. As part of a property settlement under an MPD, a partnership asset (a car) is provided to Lil. The car was purchased second-hand by the partnership on 1/7/2000 for $55,000 and at the time of acquisition it was intended that the car be used 80% for a creditable purpose and $4,000 in input tax credits was claimed. The partnership regarded 8 years as the useful life of the car for accounting purposes. The car was in fact used 80% for a creditable purpose until the partnership disposed of the car to Lil on 31/12/2002. The setting aside and disposal of the car is a private application by the partnership. At that time, the car has a GST inclusive market value of $33,000.
 Using the formula above, the partnership calculates that the extent of creditable purpose ('actual application of the thing') is as follows:
-(Period of time held / Useful or effective life)  *  Extent of creditable purpose prior to disposal
-=  (2.5 years / 8 years)  *  80%
-=  25%.
+(Period of time held / Useful or effective life) * Extent of creditable purpose prior to disposal
+= (2.5 years / 8 years) * 80%
+= 25%.
 The extent of creditable purpose (actual application of the thing) is 25% and this calculation represents step 1 of the method statement in section 129-40.
 Step 2
-in this example requires working out the intended application of the asset.  From the facts given, we know that this is 80%.
+in this example requires working out the intended application of the asset. From the facts given, we know that this is 80%.
 Step 3
 tells you that as the actual application of the thing is less than the intended application, there will be an increasing adjustment.
 This formula states that the amount of the increasing adjustment is:
-=  full input tax credit
+= full input tax credit
 [F33]
-*  (intended or former application  -  actual application)
-=  $5,000  *  (80%  -  25%)
-=  $5,000  *  55%
-=  $2,750.
+* (intended or former application - actual application)
+= $5,000 * (80% - 25%)
+= $5,000 * 55%
+= $2,750.
 Therefore, the partnership's increasing adjustment under Division 129 in respect of the private application (disposal) of the car is $2,750.
 (ii) Rental value method for non-wasting assets
-68. When the asset held by an entity is a non-wasting asset like land, the rental value method is reasonable to reflect the extent to which the asset has been used by the enterprise for a creditable purpose.  For the purposes of this method buildings or fixtures may be treated as part of the land unless those buildings or fixtures are considered plant.  If they are considered plant the rental value method is not appropriate.
-69. This method involves dividing the total rental value of the asset by the sum of that total rental value and the market value of the asset at the time of its disposal.  This compares the value of enterprise use of the asset for the period it is held by the entity (the total rental value), with the value of the total use of the asset.  The value of the total use of the asset includes both the value of its use in the enterprise and its value as at the date of its application to a private or domestic purpose.
-70. For the purposes of determining the rental value and market value you may use any reasonable method appropriate in the circumstances.  For example, you may use the values in the FLA court order or agreement.
+68. When the asset held by an entity is a non-wasting asset like land, the rental value method is reasonable to reflect the extent to which the asset has been used by the enterprise for a creditable purpose. For the purposes of this method buildings or fixtures may be treated as part of the land unless those buildings or fixtures are considered plant. If they are considered plant the rental value method is not appropriate.
+69. This method involves dividing the total rental value of the asset by the sum of that total rental value and the market value of the asset at the time of its disposal. This compares the value of enterprise use of the asset for the period it is held by the entity (the total rental value), with the value of the total use of the asset. The value of the total use of the asset includes both the value of its use in the enterprise and its value as at the date of its application to a private or domestic purpose.
+70. For the purposes of determining the rental value and market value you may use any reasonable method appropriate in the circumstances. For example, you may use the values in the FLA court order or agreement.
 71. The extent of creditable purpose or 'actual application of the thing'
 [F34]
 using this rental value method is given by the formula:
-(Total Rental value / (Total Rental value  +  Market value at time of disposal))  *  Extent of creditable purpose prior to disposal
-Example 6:  Rental value method
+(Total Rental value / (Total Rental value + Market value at time of disposal)) * Extent of creditable purpose prior to disposal
+Example 6: Rental value method
 72.
-Barbara and Alistair operate a business in partnership.  The partnership acquired land (not under the margin scheme), on 1 January 2001 at a price of $110,000.  They claimed input tax credits of $10,000 on acquisition and applied the land 100% for a creditable purpose until its disposal.  Following their marriage breakdown the partnership transferred the land under an MPD to Barbara on 31 December 2003.  At this time the annual rental value of the land was $11,000 and its market value was $130,000.
+Barbara and Alistair operate a business in partnership. The partnership acquired land (not under the margin scheme), on 1 January 2001 at a price of $110,000. They claimed input tax credits of $10,000 on acquisition and applied the land 100% for a creditable purpose until its disposal. Following their marriage breakdown the partnership transferred the land under an MPD to Barbara on 31 December 2003. At this time the annual rental value of the land was $11,000 and its market value was $130,000.
 Step 1
 The extent of creditable purpose or 'actual application of the thing' is calculated as:
-(Total Rental value / (Total Rental value  +  Market value at time of disposal))  *  Extent of creditable purpose prior to disposal
-($11,000  *  3) / (($11,000  *  3)  +  $130,000)  *  100%
-($33,000 / $163,000)  *  100%
-=  20.25%
+(Total Rental value / (Total Rental value + Market value at time of disposal)) * Extent of creditable purpose prior to disposal
+($11,000 * 3) / (($11,000 * 3) + $130,000) * 100%
+($33,000 / $163,000) * 100%
+= 20.25%
 The extent of creditable purpose or actual application is 20.25%.
 Step 2
 The intended or former application is 100%.
 Step 3
 The increasing adjustment equals:
-full input tax credit  *  (intended less actual)
-=  $10,000  *  (100%  -  20.25%)
-=  $10,000  *  79.75%
-=  $7,975
+full input tax credit * (intended less actual)
+= $10,000 * (100% - 20.25%)
+= $10,000 * 79.75%
+= $7,975
 Therefore, the partnership's increasing adjustment is $7,975.
 Because of paragraph 129-25(1)(a) the last adjustment period for the land will be 30 June 2004.
 Division 130
 Whether you apply the goods to private or domestic use under Division 130
-73. Division 130 is an adjustment provision that can result in an increasing adjustment of an amount equal to the input tax credits to which you were entitled upon acquisition or importation of goods.  Whether you have an increasing adjustment under Division 130 depends on whether the goods were acquired or imported solely for a creditable purpose and you now apply them solely to private or domestic use.  There is no adjustment under Division 130 if there has been a previous adjustment under Division 129 for the acquisition in question.
+73. Division 130 is an adjustment provision that can result in an increasing adjustment of an amount equal to the input tax credits to which you were entitled upon acquisition or importation of goods. Whether you have an increasing adjustment under Division 130 depends on whether the goods were acquired or imported solely for a creditable purpose and you now apply them solely to private or domestic use. There is no adjustment under Division 130 if there has been a previous adjustment under Division 129 for the acquisition in question.
 [F35]
 There is no minimum threshold for the value of the goods affected by Division 130.
 Meaning of the term 'apply the goods solely'
@@ -341,7 +339,7 @@ The application of this Division depends on the meaning of the word 'solely' and
 76. On this view, Division 130 may have some application to enterprise assets transferred under an MPD. However, the application of Division 130 will be limited to those enterprise assets acquired or imported solely for a creditable purpose and for which there has not been a previous adjustment under Division 129.
 77. We are of the view that Division 130 has application not only to trading stock but also to all of the entity's goods including plant, building materials and office equipment. This is because Division 130 is stated to apply to 'goods' and not only to goods that are trading stock.
 [37]
-Example 7:  Supplying goods solely to private use
+Example 7: Supplying goods solely to private use
 78.
 Sven, a sole trader, is required by an FLA court order to give to his ex-wife two antique chairs that were acquired as part of his enterprise. The chairs form part of the enterprise's office furniture and were acquired solely for a creditable purpose. When the chairs are given to Sven's ex-wife, the chairs are applied solely to private use and the input tax credits previously claimed will need to be adjusted under section 130-5
 .
@@ -349,16 +347,16 @@ Alternative view
 79. An alternative view is that Division 130 can only apply where goods have never been applied or used in the enterprise before being applied to a private or domestic purpose. However, the adoption of this view would result in trading stock removed from an enterprise for private consumption by the owner of the enterprise not being subject to a Division 130 adjustment or possibly any other adjustment. We believe that this outcome would be contrary to the intention of Division 130.
 Trading stock
 80. We consider that trading stock is 'applied' while it is held for the purpose of sale in an entity's enterprise. When the trading stock is set aside and removed for private consumption it is, at that time, applied solely to private and domestic use to which Division 130 may apply.
-Example 8:  Trading stock
+Example 8: Trading stock
 81.
 James a furniture retailer, transfers as a result of an MPD, a $5,500 new lounge suite from his showroom floor to his former spouse. James bought the lounge suite for $5,500. While awaiting sale the lounge has been applied to a creditable purpose. When it is removed from the showroom and given to James' former spouse, at that time, it is applied solely to a private use. James has an increasing adjustment for $500 under Division 130.
 GST consequences for the recipient
 82. This Ruling has focussed upon the transfer of assets from a supplying entity to a recipient spouse under an MPD. For the sake of completeness the following two points which relate to aspects of the ownership of the asset by the recipient spouse are noted.
-83. First, the recipient spouse will be unable to claim any input tax credits in respect of the acquisition under an MPD.  We have stated in paragraph 34 that our view is that no consideration with a sufficient nexus to the supply is provided in such situations, and, for similar reasons, we consider that the recipient spouse is not liable to provide such consideration.  We have also stated that there is no taxable supply.  Consequently, there is no creditable acquisition by the recipient spouse as the tests in section 11-5 have not been satisfied.
-84. Second, a subsequent supply made by the recipient spouse to another entity is not within the scope of this Ruling as it is not made under an MPD (unless the subsequent supply is also under an MPD).  The GST Act will have its ordinary application to these supplies.
-Example 9:  Subsequent supply by the recipient
+83. First, the recipient spouse will be unable to claim any input tax credits in respect of the acquisition under an MPD. We have stated in paragraph 34 that our view is that no consideration with a sufficient nexus to the supply is provided in such situations, and, for similar reasons, we consider that the recipient spouse is not liable to provide such consideration. We have also stated that there is no taxable supply. Consequently, there is no creditable acquisition by the recipient spouse as the tests in section 11-5 have not been satisfied.
+84. Second, a subsequent supply made by the recipient spouse to another entity is not within the scope of this Ruling as it is not made under an MPD (unless the subsequent supply is also under an MPD). The GST Act will have its ordinary application to these supplies.
+Example 9: Subsequent supply by the recipient
 85.
-Lil receives a car under an MPD from the former partnership of Larry and Lil (see example 5 in paragraph 67).  The partnership previously had an increasing adjustment of $2,750.  Lil now uses the car 100% in her new business, Lil's Lillies. Although Lil had a prior interest in an entity that had an increasing adjustment in relation to the car, the car was not supplied to her in a taxable supply. There was no GST on the supply of the car to her. As the supply to her was not a taxable supply Lil has not made a creditable acquisition of the car.  She cannot claim any input tax credits in relation to the car. Two years later Lil sells the car to an unrelated party.  This subsequent supply made by Lil is not under an MPD, and will be a taxable supply if all the tests in section 9-5 are met.
+Lil receives a car under an MPD from the former partnership of Larry and Lil (see example 5 in paragraph 67). The partnership previously had an increasing adjustment of $2,750. Lil now uses the car 100% in her new business, Lil's Lillies. Although Lil had a prior interest in an entity that had an increasing adjustment in relation to the car, the car was not supplied to her in a taxable supply. There was no GST on the supply of the car to her. As the supply to her was not a taxable supply Lil has not made a creditable acquisition of the car. She cannot claim any input tax credits in relation to the car. Two years later Lil sells the car to an unrelated party. This subsequent supply made by Lil is not under an MPD, and will be a taxable supply if all the tests in section 9-5 are met.
 Detailed contents list
 86. Below is the detailed contents list for this Ruling:
 Paragraph
@@ -464,7 +462,7 @@ sections 264, 265, 270, 272, 274(1), 276 and Part 4 of the
 De Facto Relationship Act 1999 (TAS).
 These provisions allow parties to opt out of the legislative regime of property distribution by making an agreement before, during or on termination of the de facto relationship.
 [F7]
-7 Our view of when a supply of goods, real property, or things other than goods or real property is connected with Australia under section 9-25 can be found in Goods and Services Tax Ruling GSTR 2000/31.  Required to be registered' has the meaning given by sections 23-5, 57-20, 58-20 and 144-5 of the GST Act.
+7 Our view of when a supply of goods, real property, or things other than goods or real property is connected with Australia under section 9-25 can be found in Goods and Services Tax Ruling GSTR 2000/31. Required to be registered' has the meaning given by sections 23-5, 57-20, 58-20 and 144-5 of the GST Act.
 [F8]
 8 Section 9-10.
 [F9]
@@ -493,9 +491,9 @@ Income Tax Assessment Act 1936.
 [F20]
 20. Background to Division 129 is outlined in GSTR 2000/24 and GSTR 2006/4.
 [F21]
-21 From paragraph 6.26 of the Explanatory Memorandum to the Bill of the GST Act.  Whilst this rationale was used in the EM to explain Division 138, the rationale also applies to the adjustment provisions generally.
+21 From paragraph 6.26 of the Explanatory Memorandum to the Bill of the GST Act. Whilst this rationale was used in the EM to explain Division 138, the rationale also applies to the adjustment provisions generally.
 [F22]
-22 Special credits are available under sections 16 and 19B of the GST Transition Act.  Adjustments may need to be considered for assets for which special credits have been claimed.
+22 Special credits are available under sections 16 and 19B of the GST Transition Act. Adjustments may need to be considered for assets for which special credits have been claimed.
 [F23]
 23
 The Macquarie Dictionary,
@@ -531,7 +529,7 @@ Third Edition.
 Previously released as draft GSTR 2002/D9.
 References
 ATO references:
-NO  2002/007409
+NO 2002/007409
 ISSN: 1443-5160
 Related Rulings/Determinations:
 GSTR 1999/1
@@ -557,61 +555,61 @@ taxable supply
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A99  9-5
-ANTS(GST)A99  9-5(a)
-ANTS(GST)A99  9-5(b)
-ANTS(GST)A99  9-10
-ANTS(GST)A99  9-15
-ANTS(GST)A99  9-15(1)
-ANTS(GST)A99  9-15(2)
-ANTS(GST)A99  9-17
-ANTS(GST)A99  9-25
-ANTS(GST)A99  11-5
-ANTS(GST)A99  23-5
-ANTS(GST)A99  57-20
-ANTS(GST)A99  Div 72
-ANTS(GST)A99  Div 129
-ANTS(GST)A99  129-20
-ANTS(GST)A99  129-25(1)(a)
-ANTS(GST)A99  129-40
-ANTS(GST)A99  129-40(1)
-ANTS(GST)A99  129-50(2)(b)
-ANTS(GST)A99  129-55
-ANTS(GST)A99  129-70
-ANTS(GST)A99  Div 130
-ANTS(GST)A99  130-5
-ANTS(GST)A99  130-5(1)(a)
-ANTS(GST)A99  130-5(1)(c)
-ANTS(GST)A99  130-5(3)
-ANTS(GST)A99  Div 138
-ANTS(GST)A99  144-5
-ANTS(GST)A99  147-5
-ANTS(GST)A99  195-1
-ITAA 1936  318(1)
-ITAA 1997  Div 40
-TAA 1953  Sch 1 Div 358
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-5(a)
+ANTS(GST)A99 9-5(b)
+ANTS(GST)A99 9-10
+ANTS(GST)A99 9-15
+ANTS(GST)A99 9-15(1)
+ANTS(GST)A99 9-15(2)
+ANTS(GST)A99 9-17
+ANTS(GST)A99 9-25
+ANTS(GST)A99 11-5
+ANTS(GST)A99 23-5
+ANTS(GST)A99 57-20
+ANTS(GST)A99 Div 72
+ANTS(GST)A99 Div 129
+ANTS(GST)A99 129-20
+ANTS(GST)A99 129-25(1)(a)
+ANTS(GST)A99 129-40
+ANTS(GST)A99 129-40(1)
+ANTS(GST)A99 129-50(2)(b)
+ANTS(GST)A99 129-55
+ANTS(GST)A99 129-70
+ANTS(GST)A99 Div 130
+ANTS(GST)A99 130-5
+ANTS(GST)A99 130-5(1)(a)
+ANTS(GST)A99 130-5(1)(c)
+ANTS(GST)A99 130-5(3)
+ANTS(GST)A99 Div 138
+ANTS(GST)A99 144-5
+ANTS(GST)A99 147-5
+ANTS(GST)A99 195-1
+ITAA 1936 318(1)
+ITAA 1997 Div 40
+TAA 1953 Sch 1 Div 358
 Family Law Act 1975
-FLA 1975  19D
-FLA 1975  19E
-FLA 1975  90B
-FLA 1975  90C
-FLA 1975  90D
+FLA 1975 19D
+FLA 1975 19E
+FLA 1975 90B
+FLA 1975 90C
+FLA 1975 90D
 Family Law Regulations 1984
-FLR 1984  67I
-FLR 1984  67P
+FLR 1984 67I
+FLR 1984 67P
 De Facto Relationships Act 1991(NT) Part IV
-De Facto Relationships Act 1996(SA)  Pt II
+De Facto Relationships Act 1996(SA) Pt II
 Domestic Relationships Act 1994 (ACT) Pt IV
 De Facto Relationship Act 1999 (TAS) Pt 4
 De Facto Relationship Act 1999 (TAS) 264
 De Facto Relationship Act 1999 (TAS) 265
 De Facto Relationship Act 1999 (TAS) 270
 De Facto Relationship Act 1999 (TAS) 272
-De Facto Relationship Act 1999 (TAS)  274(1)
-De Facto Relationship Act 1999 (TAS)  276
-Property Law Act 1958 (VIC)  Pt IX
+De Facto Relationship Act 1999 (TAS) 274(1)
+De Facto Relationship Act 1999 (TAS) 276
+Property Law Act 1958 (VIC) Pt IX
 Property Law Amendment Act 1999 (QLD) Pt 19
-Property (Relationship) Act 1984 (NSW)  Pt IV
+Property (Relationship) Act 1984 (NSW) Pt IV
 Case References:
 Case K55
 (1988) 10 NZTC 453

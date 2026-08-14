@@ -4,45 +4,42 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 156
-  • Div 19
-  • Div 21
-  • Div 29
-  • Div 72
-  • Division 156
-  • Division 19
-  • Division 21
-  • Division 29
-  • Division 358
-  • Division 72
-  • Subdivision 38-J
-  • div 38
-  • division 38
+ • Div 156
+ • Div 19
+ • Div 21
+ • Div 29
+ • Div 72
+ • Division 156
+ • Division 19
+ • Division 21
+ • Division 29
+ • Division 358
+ • Division 72
+ • Subdivision 38-J
+ • div 38
+ • division 38
 
 Cases Referenced:
-  • Agency Co New Zealand Ltd v. Commissioner 
-  • Burrill v. Federal Commissioner 
-  • Chatham Islands Enterprise Trust v. Commissioner 
-  • Excise Commissioners v. Sai Jewellers
+ • Agency Co New Zealand Ltd v. Commissioner 
+ • Burrill v. Federal Commissioner 
+ • Chatham Islands Enterprise Trust v. Commissioner 
+ • Excise Commissioners v. Sai Jewellers
 
-  • Excise Commissioners v. Westmorland Motorway Services Ltd
-  • Excise Commissioners v. Westmorland Motorway Services Ltd 
-  • In Burrill v. Federal Commissioner 
-  • Ltd v. Commissioners 
-  • Marac Finance Ltd v. Virtue
+ • Excise Commissioners v. Westmorland Motorway Services Ltd
+ • Excise Commissioners v. Westmorland Motorway Services Ltd 
+ • In Burrill v. Federal Commissioner 
+ • Ltd v. Commissioners 
+ • Marac Finance Ltd v. Virtue
 (1981) 1 NZLR 586
-  • Marac Finance Ltd v. Virtue (1981) 1 NZLR 586
-  • Naturally Yours Cosmetics Ltd v. Customs 
-  • Pear Development Council v. Customs 
-  • Public Prosecutions v. Turner
+ • Marac Finance Ltd v. Virtue (1981) 1 NZLR 586
+ • Naturally Yours Cosmetics Ltd v. Customs 
+ • Pear Development Council v. Customs 
+ • Public Prosecutions v. Turner
 
-  • Public Prosecutions v. Turner 
-  • Raja Vyricherla Narayana Gajapatiraju v. The Revenue Divisional Officer Vizagapatam
-
+ • Public Prosecutions v. Turner 
+ • Raja Vyricherla Narayana Gajapatiraju v. The Revenue Divisional Officer Vizagapatam
 
 Topics: GST, FBT, Trusts, Companies, International
-
-
 
 ================================================================================
 
@@ -57,13 +54,13 @@ Back to browse
 159 related documents
 Goods and Services Tax Ruling
 GSTR 2001/6
-Goods and services tax:  non-monetary consideration
+Goods and services tax: non-monetary consideration
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -93,13 +90,13 @@ This is a consolidated version of this document. Refer to the Legal Database (ht
 What this Ruling is about
 1. This Ruling explains how the
 A New Tax System (Goods and Services Tax) Act 1999
-('GST Act') applies if part or all of the consideration for a supply is not expressed as an amount of money (that is, if it is non-monetary consideration).  This includes transactions commonly referred to as barter, part exchange and 'in kind' payments.
-2. In this Ruling, any consideration expressed as an amount of money is referred to as monetary consideration.  The Ruling explains the meaning of monetary consideration for the purposes of subsection 9-75(1) and provides principles for identifying non-monetary consideration for a supply.
-3. Something that is non-monetary consideration can itself be a taxable supply.  The Ruling describes when this can happen and gives guidelines for identifying what the consideration is for such a supply.
+('GST Act') applies if part or all of the consideration for a supply is not expressed as an amount of money (that is, if it is non-monetary consideration). This includes transactions commonly referred to as barter, part exchange and 'in kind' payments.
+2. In this Ruling, any consideration expressed as an amount of money is referred to as monetary consideration. The Ruling explains the meaning of monetary consideration for the purposes of subsection 9-75(1) and provides principles for identifying non-monetary consideration for a supply.
+3. Something that is non-monetary consideration can itself be a taxable supply. The Ruling describes when this can happen and gives guidelines for identifying what the consideration is for such a supply.
 4. The Ruling provides reasonable methods for determining the GST inclusive market value of that non-monetary consideration and provides guidance when this valuation should be done.
-5. You may also apply the guidelines in this Ruling to work out the value of a taxable supply under subsections 9-75(2) and 9-75(3), and under provisions that have effect despite section 9-75.  (See paragraphs 29 and 30 of this Ruling.)
+5. You may also apply the guidelines in this Ruling to work out the value of a taxable supply under subsections 9-75(2) and 9-75(3), and under provisions that have effect despite section 9-75. (See paragraphs 29 and 30 of this Ruling.)
 6. The Ruling gives guidelines on when GST payable and input tax credits are attributable where a transaction involves non-monetary consideration.
-7. The Ruling does not cover trade exchange transactions.  Trade exchange transactions generally involve a number of entities that have agreed in writing to accept credits on their membership accounts in exchange for goods, services or anything else.
+7. The Ruling does not cover trade exchange transactions. Trade exchange transactions generally involve a number of entities that have agreed in writing to accept credits on their membership accounts in exchange for goods, services or anything else.
 8. All legislative references in this Ruling are to the GST Act, unless otherwise stated.
 Date of effect
 9. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
@@ -117,13 +114,13 @@ identify anything for which a GST inclusive market value needs to be worked out 
 identify when the consideration is received and provided for attribution purposes under sections 29-5 and 29-10; and
 •
 issue a tax invoice that sets out the price for the supply and satisfies the requirements of subsection 29-70(1).
-11. Under section 195-1, 'consideration, for a supply or acquisition, means any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply or acquisition.'  Subsection 9-15(1) provides that consideration includes:
+11. Under section 195-1, 'consideration, for a supply or acquisition, means any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply or acquisition.' Subsection 9-15(1) provides that consideration includes:
 (a)
 any payment, or any act or forbearance, in connection with a supply of anything; and
 (b)
 any payment, or any act or forbearance, in response to or for the inducement of a supply of anything.
 Under subsection 9-15(2), it does not matter whether the payment, act or forbearance was voluntary, or whether it was by the recipient of the supply.
-12. A 'payment' is not limited to a payment of money.  It includes a payment in a non-monetary or in an 'in kind' form, such as:
+12. A 'payment' is not limited to a payment of money. It includes a payment in a non-monetary or in an 'in kind' form, such as:
 [F2]
 •
 providing goods;
@@ -139,9 +136,9 @@ Under subsection 9-75(1), the value of a taxable supply is the price x 10/11, wh
 so far as the consideration for the supply is consideration expressed as an amount of money - the amount (without any discount for the amount of GST (if any) payable on the supply); and
 (b)
 so far as the consideration is not consideration expressed as an amount of money - the GST inclusive market value of that consideration.
-14. In some transactions, particularly those involving money only, the consideration is readily apparent.  However, where there is monetary consideration for a supply, it does not necessarily follow that there is no other consideration for that supply.  If you receive any non-monetary consideration for a supply, the price includes the GST inclusive market value of that consideration.
-15. Many transactions involve parties entering into multiple obligations.  The question arises as to whether those obligations are consideration (or additional consideration) for a taxable supply.
-16. By providing non-monetary consideration for a supply, you are in turn making a supply.  Where this happens, you need to determine the GST consequences of the supply you make.  If it is a taxable supply, you need to determine the GST inclusive market value of the consideration you receive for this supply to account for the GST payable.  You may also be entitled to claim input tax credits for the supply made to you.
+14. In some transactions, particularly those involving money only, the consideration is readily apparent. However, where there is monetary consideration for a supply, it does not necessarily follow that there is no other consideration for that supply. If you receive any non-monetary consideration for a supply, the price includes the GST inclusive market value of that consideration.
+15. Many transactions involve parties entering into multiple obligations. The question arises as to whether those obligations are consideration (or additional consideration) for a taxable supply.
+16. By providing non-monetary consideration for a supply, you are in turn making a supply. Where this happens, you need to determine the GST consequences of the supply you make. If it is a taxable supply, you need to determine the GST inclusive market value of the consideration you receive for this supply to account for the GST payable. You may also be entitled to claim input tax credits for the supply made to you.
 17. The basic attribution rules set out in Division 29 are about when you account for:
 [F4]
 •
@@ -150,10 +147,10 @@ GST payable on taxable supplies;
 input tax credits for creditable acquisitions and creditable importations; and
 •
 adjustments.
-18. The rules differ depending upon whether or not you account for GST on a cash basis.  An explanation of these rules, the tax invoice requirements and how to treat adjustments is included in paragraphs 166 to 227 of this Ruling.
+18. The rules differ depending upon whether or not you account for GST on a cash basis. An explanation of these rules, the tax invoice requirements and how to treat adjustments is included in paragraphs 166 to 227 of this Ruling.
 19. We consider that, in most circumstances, when the parties to a transaction are acting at arm's length, the goods, services or other things being exchanged are of equal market value.
 [F5]
-This value can be determined by using a reasonable valuation method that is agreed to by you and the other party.  However, this method must produce a reasonable GST inclusive market value of the things exchanged.
+This value can be determined by using a reasonable valuation method that is agreed to by you and the other party. However, this method must produce a reasonable GST inclusive market value of the things exchanged.
 20. Unless otherwise stated in the examples in this Ruling, it is assumed that the supply is:
 •
 made in the course or furtherance of an enterprise;
@@ -175,9 +172,9 @@ Value = 10/11 * Price
 Price = [amount of monetary consideration + GST inclusive market value of non-monetary consideration]
 Example 1 - wholly non-monetary consideration
 22.
-Jasper sells a computer to Kasper in return for 10 office chairs.  The GST inclusive market value of the computer and the chairs is the same for each, being $5,500.
+Jasper sells a computer to Kasper in return for 10 office chairs. The GST inclusive market value of the computer and the chairs is the same for each, being $5,500.
 23.
-Jasper supplies the computer for consideration (that is, for the chairs) and, as the supply is not otherwise GST-free or input taxed, he makes a taxable supply.  As the consideration is non-monetary, under subsection 9-75(1), the price for the supply of the computer is the GST inclusive market value of the chairs, that is, $5,500.  Using the table at paragraph 21, the GST payable by Jasper
+Jasper supplies the computer for consideration (that is, for the chairs) and, as the supply is not otherwise GST-free or input taxed, he makes a taxable supply. As the consideration is non-monetary, under subsection 9-75(1), the price for the supply of the computer is the GST inclusive market value of the chairs, that is, $5,500. Using the table at paragraph 21, the GST payable by Jasper
 :
 =
 10% x value
@@ -197,7 +194,7 @@ $
 As the acquisition Kasper makes is a creditable acquisition, he is entitled to claim an input tax credit of $500, provided he has a relevant tax invoice when he submits his GST return
 .
 25.
-Kasper makes a taxable supply of the chairs to Jasper who provides the computer as consideration.  The GST payable by Kasper
+Kasper makes a taxable supply of the chairs to Jasper who provides the computer as consideration. The GST payable by Kasper
 :
 =
 10% x value
@@ -217,7 +214,7 @@ As the acquisition Jasper makes is a creditable acquisition, he is entitled to c
 .
 Example 2 - partly non-monetary consideration
 27.
-Steve's Faxes Pty Ltd supplies a fax machine to Lil's Cycle Shop in return for a bicycle and $110.  The bicycle has a GST inclusive market value of $550.  The fax machine has a GST inclusive market value of $660
+Steve's Faxes Pty Ltd supplies a fax machine to Lil's Cycle Shop in return for a bicycle and $110. The bicycle has a GST inclusive market value of $550. The fax machine has a GST inclusive market value of $660
 .
 28.
 Using the above table, the GST on the supply of the fax machine by Steve
@@ -239,10 +236,10 @@ $60
 Other sections dealing with the value of a taxable supply
 29. 'Price' in relation to a taxable supply has the meaning given by section 9-75, and the 'value' of a taxable supply has the meaning given by sections 9-75, 9-80 and a number of other sections.
 [F9]
-Those other sections have effect despite section 9-75.  For example, in Division 72 which is about 'associates', section 72-10 provides that the value of a taxable supply made to an associate for no consideration is the GST exclusive market value of the supply.  Section 72-10 has effect despite section 9-75.
-30. This Ruling deals with non-monetary consideration primarily in the context of subsection 9-75(1).  However, so far as they are relevant, the guidelines in this Ruling apply to working out the value of a taxable supply under subsections 9-75(2) (luxury car tax value) and 9-75(3) (value of a fringe benefit), and those provisions referred to in paragraph 29 of this Ruling that have effect despite section 9-75.
+Those other sections have effect despite section 9-75. For example, in Division 72 which is about 'associates', section 72-10 provides that the value of a taxable supply made to an associate for no consideration is the GST exclusive market value of the supply. Section 72-10 has effect despite section 9-75.
+30. This Ruling deals with non-monetary consideration primarily in the context of subsection 9-75(1). However, so far as they are relevant, the guidelines in this Ruling apply to working out the value of a taxable supply under subsections 9-75(2) (luxury car tax value) and 9-75(3) (value of a fringe benefit), and those provisions referred to in paragraph 29 of this Ruling that have effect despite section 9-75.
 Consideration expressed as an amount of money
-31. You need to establish whether the consideration provided for a taxable supply is monetary or non-monetary to decide whether paragraph 9-75(1)(a) or 9-75(1)(b) applies to it.  Where parties are dealing at arm's length and the consideration is wholly monetary (that is, 'expressed as an amount of money'), you do not need to establish the market value of the consideration to work out the price.
+31. You need to establish whether the consideration provided for a taxable supply is monetary or non-monetary to decide whether paragraph 9-75(1)(a) or 9-75(1)(b) applies to it. Where parties are dealing at arm's length and the consideration is wholly monetary (that is, 'expressed as an amount of money'), you do not need to establish the market value of the consideration to work out the price.
 [F10]
 If the consideration is wholly (or partly) non-monetary, you need to establish the GST inclusive market value of the non-monetary portion of the consideration (and add it to the monetary amount) to work out the price of the supply.
 32. For the purposes of subsection 9-75(1), we are of the view that 'consideration expressed as an amount of money' is consideration that finds expression in money.
@@ -280,46 +277,46 @@ currency the market value of which exceeds its stated value as legal tender in t
 For example, if two parties set-off (in full or in part) mutual debts that were created as a result of mutual supplies for monetary consideration, the consideration for each supply is expressed as an amount of money.
 Example 3 - setting off mutual debts
 36.
-Bob supplies goods to Alice for $1,000.  In a separate transaction, Alice supplies goods to Bob in return for $1,000.  Neither Alice nor Bob have yet paid the money to each other for their supplies.  The parties decide to offset their liabilities.  The consideration for the supplies by both Alice and Bob are expressed as amounts of money, that is, $1,000 each
+Bob supplies goods to Alice for $1,000. In a separate transaction, Alice supplies goods to Bob in return for $1,000. Neither Alice nor Bob have yet paid the money to each other for their supplies. The parties decide to offset their liabilities. The consideration for the supplies by both Alice and Bob are expressed as amounts of money, that is, $1,000 each
 .
 Changing the form of consideration
 37. Where a supplier agrees to accept non-monetary consideration in substitution for a monetary payment (or monetary consideration in substitution for a non-monetary payment), the parties have agreed to change the form of the consideration for the supply.
 Example 4 - substituting non-monetary for monetary consideration
 38.
-Arthur supplies goods to Bella in return for $1,000.  Bella has not yet paid the money to Arthur.  Subsequently, Arthur and Bella agree to substitute goods for the $1,000 that Bella owes Arthur.  The consideration for Arthur's supply is the goods provided by Bella and it is not expressed as an amount of money because the form of the consideration has changed.
+Arthur supplies goods to Bella in return for $1,000. Bella has not yet paid the money to Arthur. Subsequently, Arthur and Bella agree to substitute goods for the $1,000 that Bella owes Arthur. The consideration for Arthur's supply is the goods provided by Bella and it is not expressed as an amount of money because the form of the consideration has changed.
 [F13]
 As the goods that Bella gives to Arthur are also a taxable supply, she issues Arthur with a tax invoice with the consideration being the GST inclusive market value of Arthur's goods
 .
 Example 5 - substituting monetary for non-monetary consideration
 39.
-Adam supplies goods to Lauren in return for $1,000 worth of goods.  The consideration is not expressed as an amount of money.  Lauren has not yet provided the goods to Adam.  Subsequently, Adam and Lauren agree that Lauren will pay $1,000 cash for the supply of Adam's goods.  As a result of the agreement, the consideration for Adam's supply is expressed as an amount of money
+Adam supplies goods to Lauren in return for $1,000 worth of goods. The consideration is not expressed as an amount of money. Lauren has not yet provided the goods to Adam. Subsequently, Adam and Lauren agree that Lauren will pay $1,000 cash for the supply of Adam's goods. As a result of the agreement, the consideration for Adam's supply is expressed as an amount of money
 .
 [F14]
 Amount of money's worth
-40. Merely ascribing a monetary amount or value to a thing will not cause it to be 'expressed as an amount of money'.  For example, if the parties to an arm's length transaction agree that widgets are to be provided as total consideration for a taxable supply that has a value of $1,000, the widgets are not 'consideration expressed as an amount of money'.  Also, this is the case where the parties say that the widgets are worth the same in money as the value of the supply.
+40. Merely ascribing a monetary amount or value to a thing will not cause it to be 'expressed as an amount of money'. For example, if the parties to an arm's length transaction agree that widgets are to be provided as total consideration for a taxable supply that has a value of $1,000, the widgets are not 'consideration expressed as an amount of money'. Also, this is the case where the parties say that the widgets are worth the same in money as the value of the supply.
 41. However, although the widgets are not consideration expressed as an amount of money, $1,000 is the price for the supplies under paragraph 9-75(1)(b), where the GST inclusive market value of the widgets is $1,000.
 Example 6 - consideration not 'expressed as an amount of money'
 42.
-Angus agrees to make a supply to Barry.  The consideration to be provided by Barry is particular goods.  The agreement between the parties states that the goods are worth $100.  For the purposes of subsection 9-75(1), the price for the supply by Angus is the GST inclusive market value of the specified goods
+Angus agrees to make a supply to Barry. The consideration to be provided by Barry is particular goods. The agreement between the parties states that the goods are worth $100. For the purposes of subsection 9-75(1), the price for the supply by Angus is the GST inclusive market value of the specified goods
 .
 Money to be paid in the future
-43. Consideration in the form of money, to be paid at a future time, is consideration expressed as an amount of money under subsection 9-75(1).  The consideration is not the right to receive that money.  For example, A agrees to supply goods to B in return for $10,000 to be paid 12 months after the date when the goods are delivered.  The consideration is $10,000 and is expressed as an amount of money.  The consideration is not the net present value of the $10,000.
+43. Consideration in the form of money, to be paid at a future time, is consideration expressed as an amount of money under subsection 9-75(1). The consideration is not the right to receive that money. For example, A agrees to supply goods to B in return for $10,000 to be paid 12 months after the date when the goods are delivered. The consideration is $10,000 and is expressed as an amount of money. The consideration is not the net present value of the $10,000.
 Unascertainable final amount
 44. The Commissioner has issued a determination under paragraph 29-25(2)(e) to be applied in certain circumstances where the total consideration is unknown in the tax period when GST would normally be payable.
 [F15]
-This determination alters the attribution rules by allowing an entity to account for the GST payable in different tax periods depending upon when the amount of consideration is known.  The words 'an amount of money' do not require that a final amount of money is known as at any particular time, such as when the agreement is made.  The following is an example of consideration expressed as an amount of money.
+This determination alters the attribution rules by allowing an entity to account for the GST payable in different tax periods depending upon when the amount of consideration is known. The words 'an amount of money' do not require that a final amount of money is known as at any particular time, such as when the agreement is made. The following is an example of consideration expressed as an amount of money.
 Example 7 - applying the determination where the final amount of consideration is unknown
 45.
-Quentin, who does not account on a cash basis, supplies a business to Xanthe who agrees to pay a lump sum of $100,000 on completion of the transfer and 10% of the gross sales of the business in excess of $150,000 each year, for the next 2 years.  The parties have not agreed in writing that the supply is of a going concern under paragraph 38-325(1
+Quentin, who does not account on a cash basis, supplies a business to Xanthe who agrees to pay a lump sum of $100,000 on completion of the transfer and 10% of the gross sales of the business in excess of $150,000 each year, for the next 2 years. The parties have not agreed in writing that the supply is of a going concern under paragraph 38-325(1
 )(
 c
 ).
 46.
-When the lump sum of $100,000 is received by Quentin, the final amount of consideration is not known.  However, the consideration is expressed as an amount of money for the purposes of subsection 9-75(1
+When the lump sum of $100,000 is received by Quentin, the final amount of consideration is not known. However, the consideration is expressed as an amount of money for the purposes of subsection 9-75(1
 ).
 In these circumstances, the determination under paragraph 29-25(2
 )(
-e) applies.  GST is attributable on the $100,000 in the tax period in which it is received
+e) applies. GST is attributable on the $100,000 in the tax period in which it is received
 .
 [F16]
 Also, GST is attributable on the remaining amounts of consideration when those amounts are known
@@ -330,15 +327,15 @@ Identifying non-monetary consideration
 [F18]
 There needs to be a supply, a
 payment
-and the necessary relationship between the supply and the payment.  Where one party makes a monetary payment to another, something of economic value is provided.  The question is whether there is a sufficient nexus between the supply and the payment as consideration.
-48. The same analysis applies in determining whether a good, service or thing is non-monetary consideration for a supply.  However, due to the breadth of the definition of consideration (and the numerous promises that each party to a transaction usually makes), establishing what is the consideration for a supply is not always as simple as for monetary transactions.  Nor is it always as clear if something of economic value is being provided.
+and the necessary relationship between the supply and the payment. Where one party makes a monetary payment to another, something of economic value is provided. The question is whether there is a sufficient nexus between the supply and the payment as consideration.
+48. The same analysis applies in determining whether a good, service or thing is non-monetary consideration for a supply. However, due to the breadth of the definition of consideration (and the numerous promises that each party to a transaction usually makes), establishing what is the consideration for a supply is not always as simple as for monetary transactions. Nor is it always as clear if something of economic value is being provided.
 What is 'consideration'?
-49. Consideration is defined in section 195-1 to mean 'any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply'.  The meaning given to consideration in section 9-15 extends beyond payments to include such things as acts and forbearances.
+49. Consideration is defined in section 195-1 to mean 'any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply'. The meaning given to consideration in section 9-15 extends beyond payments to include such things as acts and forbearances.
 [F19]
 It may include payments made voluntarily, and payments made by persons other than the recipient of a supply.
 [F20]
 50. Section 9-15 further provides that a payment will be consideration for a supply if the payment is 'in connection with', 'in response to' or 'for the inducement' of a supply. Thus, there must be a sufficient nexus between a particular payment and a particular supply for the payment to be consideration for that supply.
-51. It follows that there are two elements to the definition of consideration.  The first is the payment by one entity to another.  The second element is the nexus that must be established between the payment and a supply.
+51. It follows that there are two elements to the definition of consideration. The first is the payment by one entity to another. The second element is the nexus that must be established between the payment and a supply.
 52. The definition of consideration in the New Zealand GST Act is similar to the Australian definition.
 [F21]
 In
@@ -355,13 +352,13 @@ C of IR
 (1995) 17 NZTC 12,307, at 12,314 ('
 New Zealand Refining
 (HC)'), Henry J commented that the definition was wide, and that 'in response to' and 'for the inducement of' added little to 'in respect of', given the breadth of the latter term.
-54. In Australia, the definition of consideration is similarly wide.  To the extent that 'in connection with' may be narrower in scope than 'in respect of', the phrases 'in response to' and 'for the inducement of' may assume added stature.
+54. In Australia, the definition of consideration is similarly wide. To the extent that 'in connection with' may be narrower in scope than 'in respect of', the phrases 'in response to' and 'for the inducement of' may assume added stature.
 Is the supply made for consideration?
 55. The general theme of a 'supply for consideration' is as much a cornerstone of the value added tax ('VAT') and GST regimes in the United Kingdom ('UK'), New Zealand and Canada as it is under the Australian GST Act.
 The need for nexus
-56. It will not be sufficient for there to be a supply and a payment.  GST is not payable on a supply unless it is made for consideration, and the other tests in section 9-5 are satisfied.
+56. It will not be sufficient for there to be a supply and a payment. GST is not payable on a supply unless it is made for consideration, and the other tests in section 9-5 are satisfied.
 [F22]
-There must be a sufficient nexus between the supply and the payment.  In the New Zealand Court of Appeal decision of
+There must be a sufficient nexus between the supply and the payment. In the New Zealand Court of Appeal decision of
 C of IR v
 .
 New Zealand Refining Co
@@ -370,7 +367,7 @@ Ltd
 (1997) 18 NZTC 13,187, at 13,193 ('
 New Zealand Refining
 (Court of Appeal)') Blanchard J commented:
-'It can be seen that ... a linkage between supply and consideration is requisite to the imposition of the tax ... There is a practical necessity for a sufficient connection between the payment and the supply.  The mechanics of the legislation will otherwise make it impossible to collect the GST.'
+'It can be seen that ... a linkage between supply and consideration is requisite to the imposition of the tax ... There is a practical necessity for a sufficient connection between the payment and the supply. The mechanics of the legislation will otherwise make it impossible to collect the GST.'
 The nexus test in Canada and the European Community
 57. The Canadian legislation uses the expression 'consideration for the supply'.
 [F23]
@@ -379,25 +376,25 @@ The VAT law in the European Community uses the expression 'supply effected for c
 The Courts in the UK have adopted a 'direct link' test in determining whether consideration is 'for' a supply in those jurisdictions.
 [F25]
 The nexus test in New Zealand
-58. While European and Canadian authorities demonstrate the need for a link between supply and consideration for a VAT or GST liability to arise, in New Zealand the definition of consideration itself describes the link.  The term 'consideration' is defined in relation to supplies of goods and services.  The definition includes any payment in respect of, in response to, or for the inducement of, the supply of any goods and services.
+58. While European and Canadian authorities demonstrate the need for a link between supply and consideration for a VAT or GST liability to arise, in New Zealand the definition of consideration itself describes the link. The term 'consideration' is defined in relation to supplies of goods and services. The definition includes any payment in respect of, in response to, or for the inducement of, the supply of any goods and services.
 [F26]
 59. In
 New Zealand Refining
 (HC), Henry J commented in relation to the application of European Authorities to New Zealand's GST Act:
-'I do not think there is any principle of construction relevant to the present issue to be discerned from a review of the authorities cited in argument.  It can be said they demonstrate the need for a link or nexus between a payment and the identified service, but I doubt whether there is any call to go beyond an application of the statutory words defining the term "consideration" in reaching a decision in any particular case.'
+'I do not think there is any principle of construction relevant to the present issue to be discerned from a review of the authorities cited in argument. It can be said they demonstrate the need for a link or nexus between a payment and the identified service, but I doubt whether there is any call to go beyond an application of the statutory words defining the term "consideration" in reaching a decision in any particular case.'
 [F27]
 60. In
 New Zealand Refining
-(Court of Appeal), Blanchard J noted the absence of a binding commitment to make particular supplies, and stated that a 'sufficient connection' between the payment and a supply was necessary.  The Court concluded that the payments that were made conditional on the refinery remaining operational were not consideration for any supply, as there was no binding commitment to make particular supplies.
-61. The only recourse the government had was to cease making payments once the condition failed to be met.  The payments were directed to maintaining the structural framework within which supplies of services were expected to be made.  The purpose that the refinery remain operational was distinct from any supply of services to be made.  Thus, on the particular facts of this case the requisite link between a supply of particular services and consideration was not established.
+(Court of Appeal), Blanchard J noted the absence of a binding commitment to make particular supplies, and stated that a 'sufficient connection' between the payment and a supply was necessary. The Court concluded that the payments that were made conditional on the refinery remaining operational were not consideration for any supply, as there was no binding commitment to make particular supplies.
+61. The only recourse the government had was to cease making payments once the condition failed to be met. The payments were directed to maintaining the structural framework within which supplies of services were expected to be made. The purpose that the refinery remain operational was distinct from any supply of services to be made. Thus, on the particular facts of this case the requisite link between a supply of particular services and consideration was not established.
 [F28]
 62. The nexus requirement was further emphasised in the
 Chatham Islands Enterprise Trust v
 .
 Commissioner of Inland Revenue
-(1999) 19 NZTC 15,075 decision of the New Zealand Court of Appeal.  There, the Court considered whether an amount settled on a trust by the New Zealand Government could be construed as consideration for a supply of services made by the trustee to either the settlor or the beneficiaries.
+(1999) 19 NZTC 15,075 decision of the New Zealand Court of Appeal. There, the Court considered whether an amount settled on a trust by the New Zealand Government could be construed as consideration for a supply of services made by the trustee to either the settlor or the beneficiaries.
 63. Tipping J, in supporting the view that there must be a 'sufficient' nexus, commented at page 15,081:
-'I therefore have difficulty in seeing how it can be said that the payments made by the Crown were in respect of or for the inducement of any services.  Clearly the payments were not in response to the supply of services.'
+'I therefore have difficulty in seeing how it can be said that the payments made by the Crown were in respect of or for the inducement of any services. Clearly the payments were not in response to the supply of services.'
 The nexus test in Australia
 64. A supply is not subject to GST in Australia unless it is made for consideration.
 [F29]
@@ -415,7 +412,7 @@ underscore the close coupling between the supply and the consideration that is n
 A payment will be consideration for a supply if the payment is 'in connection with', 'in response to' or 'for the inducement' of a supply.
 [F35]
 68. In determining whether a payment is consideration under subsection 9-15(1), the test is whether there is a sufficient nexus between the supply and the payment made.
-69. This test may establish a nexus between consideration and supply in a broader range of cases than the 'direct link' test that applies in the European Community and in Canada.  While caution needs to be exercised in applying decisions on connective terms in other contexts, the term 'in connection with' has been held to be broader in scope than 'for'.
+69. This test may establish a nexus between consideration and supply in a broader range of cases than the 'direct link' test that applies in the European Community and in Canada. While caution needs to be exercised in applying decisions on connective terms in other contexts, the term 'in connection with' has been held to be broader in scope than 'for'.
 70. The meaning given to the term 'in connection with' in
 Berry v
 .
@@ -428,75 +425,75 @@ case') is similar to that which was described by the Court of Appeal in
 New Zealand Refining
 ,
 [F37]
-but needs to be applied with regard to the structure of the definition of supply in the GST Act.  In
+but needs to be applied with regard to the structure of the definition of supply in the GST Act. In
 Berry's case
-, Kitto J held that 'in connection with' was a broader test than 'for'.  At page 659, his Honour commented that consideration will be in connection with property where:
+, Kitto J held that 'in connection with' was a broader test than 'for'. At page 659, his Honour commented that consideration will be in connection with property where:
 'the receipt of the payment has a substantial relation, in a practical business sense, to that property'.
-71. In determining whether a sufficient nexus exists between supply and consideration, regard needs to be had to the true character of the transaction.  An arrangement between parties will be characterised not merely by the description that parties give to the arrangement, but by looking at all of the transactions entered into and the circumstances in which the transactions are made.
+71. In determining whether a sufficient nexus exists between supply and consideration, regard needs to be had to the true character of the transaction. An arrangement between parties will be characterised not merely by the description that parties give to the arrangement, but by looking at all of the transactions entered into and the circumstances in which the transactions are made.
 [F38]
-72. The test as to whether there is a sufficient nexus is an objective test.  The motive of the supplier and the recipient also may be relevant in determining whether the supply was made for consideration, if a reasonable assessment of the evidence supports that motive.
+72. The test as to whether there is a sufficient nexus is an objective test. The motive of the supplier and the recipient also may be relevant in determining whether the supply was made for consideration, if a reasonable assessment of the evidence supports that motive.
 Form of non-monetary consideration
 73. The following two cases illustrate the form that non-monetary consideration can take, and the need to find the necessary link in overseas jurisdictions between the supply and the payment.
 74. An example of non-monetary consideration was dealt with by the Court of Justice of the European Communities in
 Naturally Yours Cosmetics Ltd v
 .
 Customs and Excise Commissioners
-(1988) 3 BVC 428.  This case involved a cosmetics company that sold its products through beauty consultants who arranged for hostesses to organise parties at which the products were offered for sale.  The beauty consultant purchased the pot of cream from the cosmetics company for an amount of money less than its normal selling price, giving an undertaking to use it only for the purpose of providing it as a gift to a hostess for organising a party.  Otherwise, the beauty consultant had to pay the normal price or return it.
-75. It was found there was a direct link between the supply of the pot of cream and the service provided by the beauty consultant to the cosmetics company of arranging the party.  The service was therefore non-monetary consideration for the supply of the pot of cream.  The consultant's service was valued as the difference between the cream's normal wholesale price and the money paid by the consultant.
+(1988) 3 BVC 428. This case involved a cosmetics company that sold its products through beauty consultants who arranged for hostesses to organise parties at which the products were offered for sale. The beauty consultant purchased the pot of cream from the cosmetics company for an amount of money less than its normal selling price, giving an undertaking to use it only for the purpose of providing it as a gift to a hostess for organising a party. Otherwise, the beauty consultant had to pay the normal price or return it.
+75. It was found there was a direct link between the supply of the pot of cream and the service provided by the beauty consultant to the cosmetics company of arranging the party. The service was therefore non-monetary consideration for the supply of the pot of cream. The consultant's service was valued as the difference between the cream's normal wholesale price and the money paid by the consultant.
 76. Similarly, in the UK case of
 Rosgill Group Ltd v
 .
 Customs and Excise Commissioners
-[1997] BVC 388, a company sold goods on a 'party plan' system.  It rewarded hostesses for holding parties for the promotion of its goods by commission based on the value of goods sold at the party.  The amount of commission depended on whether it was taken in money or as a discount on the price of goods.  A hostess chose to receive her commission as a discount on the purchase of a blouse.
-77. The Court of Appeal considered that under article 11(A)(1)(a) of the Sixth Directive the taxable amount was made up of 'everything' obtained by the supplier from the hostess.  The hostess did not simply pay the money.  She also held the party at her house.  In holding the party, she was rendering a service of value to Rosgill so there was a 'direct link' between the provision by the hostess of that service to Rosgill and the supply of the blouse.
-78. The Court of Appeal said there was also a causative link as the purchase would not have happened if the service had not been provided, and a contractual link as the purchase of the blouse at the reduced price was in exercise of a contractual right acquired under the agreement to hold the party.  The consideration given by the hostess for her blouse therefore consisted partly of monetary consideration and partly of non-monetary consideration, being her service of holding the party at her house.
+[1997] BVC 388, a company sold goods on a 'party plan' system. It rewarded hostesses for holding parties for the promotion of its goods by commission based on the value of goods sold at the party. The amount of commission depended on whether it was taken in money or as a discount on the price of goods. A hostess chose to receive her commission as a discount on the purchase of a blouse.
+77. The Court of Appeal considered that under article 11(A)(1)(a) of the Sixth Directive the taxable amount was made up of 'everything' obtained by the supplier from the hostess. The hostess did not simply pay the money. She also held the party at her house. In holding the party, she was rendering a service of value to Rosgill so there was a 'direct link' between the provision by the hostess of that service to Rosgill and the supply of the blouse.
+78. The Court of Appeal said there was also a causative link as the purchase would not have happened if the service had not been provided, and a contractual link as the purchase of the blouse at the reduced price was in exercise of a contractual right acquired under the agreement to hold the party. The consideration given by the hostess for her blouse therefore consisted partly of monetary consideration and partly of non-monetary consideration, being her service of holding the party at her house.
 79. We consider that the principles on which these cases were decided are applicable in Australia.
 Economic value and independent identity
-80. As stated at paragraph 68, the test for determining whether a payment is consideration for a supply is whether there is sufficient nexus between the supply and the payment.  Consideration for a supply may include acts, rights or obligations provided in connection with, in response to, or for the inducement of a supply.  However, things such as acts, rights and obligations can often be disregarded as payments as they do not have economic value and independent identity separate from the transaction.
-81. For a thing to be treated as a payment for a supply, it must have economic value and independent identity provided as compensation for the making of the supply.  That is, it must be capable of being valued and be a thing that an acquirer would usually or commercially pay money to acquire.  Whether this requirement is satisfied will usually be demonstrated by the parties to an arrangement assigning a specific or separate value to the thing.  However, the assigning of a value by the parties is not necessary for a thing to have economic value.
-82. Whether a payment is consideration for a supply depends on the true character of the transaction.  Consideration for a supply is something the supplier receives for making the supply.  Although a non-monetary payment (and acts or forbearances) can form consideration, the character of the transaction will determine whether it forms part of the consideration received by the supplier for making the supply.
-83. Many transactions involve exchanging various rights and obligations between the parties to the transaction.  In particular, the true character of the transaction may characterise the payment as a condition of the contract rather than the provision of non-monetary consideration.  For example, in many cases, agreeing to enter into a contract to receive a supply for a specific period of time is not non-monetary consideration for that supply.
-84. Also, subject to the terms of the agreement, transactions will often involve a supply made only for monetary consideration.  In these circumstances, obligations entered into as part of the transaction by the entity that is liable to provide the money will not be separate parts of the consideration for the supply.  Similarly, where the transaction in substance involves a supply made for a thing that is non-monetary consideration, the obligations to provide that thing will not constitute separate parts of the consideration.
-85. Non-monetary consideration needs to have a clearly independent identity.  Obligations that are essentially another way of describing the consideration do not have a separate existence.  For example, the obligation to pay money does not exist separately from the payment of money for the purposes of identifying the consideration.  Also, in most cases, the use of a particular method of payment is not consideration.  For example, where a supply is made for a lower price if a customer uses a credit card, the use of the credit card is not non-monetary consideration.
+80. As stated at paragraph 68, the test for determining whether a payment is consideration for a supply is whether there is sufficient nexus between the supply and the payment. Consideration for a supply may include acts, rights or obligations provided in connection with, in response to, or for the inducement of a supply. However, things such as acts, rights and obligations can often be disregarded as payments as they do not have economic value and independent identity separate from the transaction.
+81. For a thing to be treated as a payment for a supply, it must have economic value and independent identity provided as compensation for the making of the supply. That is, it must be capable of being valued and be a thing that an acquirer would usually or commercially pay money to acquire. Whether this requirement is satisfied will usually be demonstrated by the parties to an arrangement assigning a specific or separate value to the thing. However, the assigning of a value by the parties is not necessary for a thing to have economic value.
+82. Whether a payment is consideration for a supply depends on the true character of the transaction. Consideration for a supply is something the supplier receives for making the supply. Although a non-monetary payment (and acts or forbearances) can form consideration, the character of the transaction will determine whether it forms part of the consideration received by the supplier for making the supply.
+83. Many transactions involve exchanging various rights and obligations between the parties to the transaction. In particular, the true character of the transaction may characterise the payment as a condition of the contract rather than the provision of non-monetary consideration. For example, in many cases, agreeing to enter into a contract to receive a supply for a specific period of time is not non-monetary consideration for that supply.
+84. Also, subject to the terms of the agreement, transactions will often involve a supply made only for monetary consideration. In these circumstances, obligations entered into as part of the transaction by the entity that is liable to provide the money will not be separate parts of the consideration for the supply. Similarly, where the transaction in substance involves a supply made for a thing that is non-monetary consideration, the obligations to provide that thing will not constitute separate parts of the consideration.
+85. Non-monetary consideration needs to have a clearly independent identity. Obligations that are essentially another way of describing the consideration do not have a separate existence. For example, the obligation to pay money does not exist separately from the payment of money for the purposes of identifying the consideration. Also, in most cases, the use of a particular method of payment is not consideration. For example, where a supply is made for a lower price if a customer uses a credit card, the use of the credit card is not non-monetary consideration.
 Obligations that define a supply
-86. Particular terms that form part of a transaction need to go beyond merely defining or describing the supply, or specifying rights that are to be retained by the entity making the supply, before the terms form a separate supply or additional consideration for a supply under the transaction.  This principle also applies in overseas jurisdictions.
+86. Particular terms that form part of a transaction need to go beyond merely defining or describing the supply, or specifying rights that are to be retained by the entity making the supply, before the terms form a separate supply or additional consideration for a supply under the transaction. This principle also applies in overseas jurisdictions.
 87. For example, Chisholm J, in the New Zealand case of
 The Trustee, Executors and Agency Co New Zealand Ltd v
 .
 Commissioner of Inland Revenue
-(1997) 18 NZTC 13,076, considered whether the payment of rates by a tenant was consideration for a supply from the local rating authority, or whether it was merely additional consideration for the supply of the leased premises.  On the facts of the case, Chisholm J found that the landlord was primarily responsible for the rates.  He held that the cost of meeting liabilities that are properly regarded as those of the landlord forms part of the consideration for the supply of the leased premises.  It was not consideration for a supply from the local rating authority to the tenant or for a separate supply from the landlord.
+(1997) 18 NZTC 13,076, considered whether the payment of rates by a tenant was consideration for a supply from the local rating authority, or whether it was merely additional consideration for the supply of the leased premises. On the facts of the case, Chisholm J found that the landlord was primarily responsible for the rates. He held that the cost of meeting liabilities that are properly regarded as those of the landlord forms part of the consideration for the supply of the leased premises. It was not consideration for a supply from the local rating authority to the tenant or for a separate supply from the landlord.
 Example 8 - obligation to sell specified products
-88. Franchisor supplies certain rights to Franchisee under a franchise agreement.  Franchisee pays $10,000 for each year of the agreement, undertakes to sell only specified products for specified prices, and undertakes not to operate outside a particular geographical area.
+88. Franchisor supplies certain rights to Franchisee under a franchise agreement. Franchisee pays $10,000 for each year of the agreement, undertakes to sell only specified products for specified prices, and undertakes not to operate outside a particular geographical area.
 89.
-The true character of the transaction is for the supply by Franchisor of certain rights in return for a monetary payment.  The obligations Franchisee enters into are in the nature of defining and describing the supply by Franchisor.  Although, when viewed in isolation they may meet the definition of both
+The true character of the transaction is for the supply by Franchisor of certain rights in return for a monetary payment. The obligations Franchisee enters into are in the nature of defining and describing the supply by Franchisor. Although, when viewed in isolation they may meet the definition of both
 '
 supply' and
 '
 consideration', they do no more than define what Franchisor is supplying
 .
 Things used to make a supply
-90. The recipient of a supply may provide or make a thing available for the supplier to use in making the supply.  However, the thing does not necessarily form consideration.
+90. The recipient of a supply may provide or make a thing available for the supplier to use in making the supply. However, the thing does not necessarily form consideration.
 Example 9 - things used in making the supply
 91.
 Eddie Engineer
 ('
 Eddie') agrees to supply services to Mountain Miners
 ('
-Mountain') at a rate of $100 per hour.  Under the agreement, Eddie must perform the services on Mountain's premises in Melbourne.  Mountain agrees to allow Eddie to use its computer facilities, stationery and safety equipment on Mountain's premises to perform the services.  Mountain also agrees to fly Eddie to Melbourne and provide accommodation and meals during the period Eddie performs the services
+Mountain') at a rate of $100 per hour. Under the agreement, Eddie must perform the services on Mountain's premises in Melbourne. Mountain agrees to allow Eddie to use its computer facilities, stationery and safety equipment on Mountain's premises to perform the services. Mountain also agrees to fly Eddie to Melbourne and provide accommodation and meals during the period Eddie performs the services
 .
 92.
 There is monetary consideration for Eddie's services
 ($
 100 per hour
 ).
-The provision of the use of computer facilities, stationery and safety equipment and the transport, accommodation and meals is not part of the price paid for the services as it is not a payment or of value to Eddie in return for his services.  They are rather conditions of the contract that go to defining the supply made by Eddie, and are used in providing the services, rather than being supplied to Eddie in return for the services.  They do not provide economic value to Eddie in return for his supply.  The provision of these things in these circumstances is not consideration in connection with the supply by Eddie.  There is no non-monetary consideration for Eddie's supply
+The provision of the use of computer facilities, stationery and safety equipment and the transport, accommodation and meals is not part of the price paid for the services as it is not a payment or of value to Eddie in return for his services. They are rather conditions of the contract that go to defining the supply made by Eddie, and are used in providing the services, rather than being supplied to Eddie in return for the services. They do not provide economic value to Eddie in return for his supply. The provision of these things in these circumstances is not consideration in connection with the supply by Eddie. There is no non-monetary consideration for Eddie's supply
 .
 Things consumed outside of the supply
-93. If Mountain agreed in addition to provide holiday accommodation for Eddie at the Gold Coast, this would constitute non-monetary consideration.  It is not something required for Eddie to supply the services to Mountain and it provides Eddie with economic value in return for his supply.
+93. If Mountain agreed in addition to provide holiday accommodation for Eddie at the Gold Coast, this would constitute non-monetary consideration. It is not something required for Eddie to supply the services to Mountain and it provides Eddie with economic value in return for his supply.
 94. Further, had Eddie incurred the costs of the transport, accommodation and meals and on-charged those expenses to Mountain as part of the cost of his services, GST is payable on this on-charge as they represent additional costs for the supply of Eddie's services.
 The transaction that occurs
-95. You need to examine the character of the transaction that occurs and not what might have happened if it had been arranged differently for the purposes of identifying whether a payment is consideration for a supply.  For example, a party receiving a supply under a transaction and having a particular obligation, may have had to pay more money had the transaction proceeded without its entry into the obligation.  However, this fact alone will not determine that the obligation is consideration.  In this sense, an obligation that is taken into account when negotiating what the consideration for a supply is to be, or is dependent upon, will not necessarily form consideration in itself.
-96. For example, if a tenant did not have an actual or implied obligation under a lease to keep the leased premises in good repair, it is likely that the landlord would require the tenant to make higher lease payments.  However, if the tenant agrees to such an obligation, it is not consideration for the supply of the premises as it is not provided as compensation or value for the supply of the premises.
+95. You need to examine the character of the transaction that occurs and not what might have happened if it had been arranged differently for the purposes of identifying whether a payment is consideration for a supply. For example, a party receiving a supply under a transaction and having a particular obligation, may have had to pay more money had the transaction proceeded without its entry into the obligation. However, this fact alone will not determine that the obligation is consideration. In this sense, an obligation that is taken into account when negotiating what the consideration for a supply is to be, or is dependent upon, will not necessarily form consideration in itself.
+96. For example, if a tenant did not have an actual or implied obligation under a lease to keep the leased premises in good repair, it is likely that the landlord would require the tenant to make higher lease payments. However, if the tenant agrees to such an obligation, it is not consideration for the supply of the premises as it is not provided as compensation or value for the supply of the premises.
 Example 10 - dependent services
 97.
 Large Ltd
@@ -507,100 +504,100 @@ Friendly Accounting Pty Ltd
 ('
 Fast'
 ).
-The agreement is on the basis that Large will provide the premises and equipment that Fast needs to perform the services.  Fast is to use the premises and equipment only for the purpose of performing the services for Large.  Fast acknowledges in the agreement that the amount it is charging for the services is reduced to take account of the fact that it does not have to use its own premises and equipment
+The agreement is on the basis that Large will provide the premises and equipment that Fast needs to perform the services. Fast is to use the premises and equipment only for the purpose of performing the services for Large. Fast acknowledges in the agreement that the amount it is charging for the services is reduced to take account of the fact that it does not have to use its own premises and equipment
 .
 98.
-The use of the premises and equipment is not consideration for Fast's supply as there is no nexus between it and the supply by Fast.  It does not have an independent identity such that it provides Fast with any value in return for its services
+The use of the premises and equipment is not consideration for Fast's supply as there is no nexus between it and the supply by Fast. It does not have an independent identity such that it provides Fast with any value in return for its services
 .
 Example 11 - dependent goods
 99.
-PrettyPaint agrees to paint the interior of Peng's offices for $10,000.  Peng agrees to provide PrettyPaint with 1,000 cans of pink shimmer paint that PrettyPaint has advised will be enough to paint the offices
+PrettyPaint agrees to paint the interior of Peng's offices for $10,000. Peng agrees to provide PrettyPaint with 1,000 cans of pink shimmer paint that PrettyPaint has advised will be enough to paint the offices
 .
 100.
-The paint provided by Peng is not consideration for PrettyPaint's supply.  PrettyPaint's supply is the service of painting the offices.  Although PrettyPaint would have charged more money if it had to also supply the paint, this is not relevant in this particular transaction
+The paint provided by Peng is not consideration for PrettyPaint's supply. PrettyPaint's supply is the service of painting the offices. Although PrettyPaint would have charged more money if it had to also supply the paint, this is not relevant in this particular transaction
 .
 Traded-in goods
 101. In most circumstances, goods that are traded-in for new goods will be
 part
-of the consideration for those new goods.  Ownership will generally pass where the goods go into a pool of goods rather than where the specific goods are reconditioned and returned.  Also, where it is a condition of the agreement that the goods are provided, they will generally have an independent identity and be of economic value.
+of the consideration for those new goods. Ownership will generally pass where the goods go into a pool of goods rather than where the specific goods are reconditioned and returned. Also, where it is a condition of the agreement that the goods are provided, they will generally have an independent identity and be of economic value.
 102. In the UK case of
 Customs and Excise Commissioners v
 .
 Sai Jewellers
-[1996] BVC 140, Macpherson of Cluny J in the Queen's Bench Division considered issues arising from the supply of new articles of jewellery that were made from old gold provided by a customer and partly from additional gold from the jeweller's stock.  His Honour had to determine whether a number of transactions involved either a service (of refashioning the customer's jewellery) or a part exchange.  If a transaction involved a part exchange then the value of the supply was to be the total value of the new article.  There was no express agreement between the parties.
-103. Macpherson of Cluny J decided that, in the circumstances, a transaction involved a supply of refashioning the old jewellery (rather than a part exchange), where mixing of the customer's own gold with other gold was not likely to any substantial extent.  For transactions made in those circumstances, the customer's gold did not form non-monetary consideration.  Hence, the supply by the jeweller is one of services, being the labour required to refashion the jewellery.
+[1996] BVC 140, Macpherson of Cluny J in the Queen's Bench Division considered issues arising from the supply of new articles of jewellery that were made from old gold provided by a customer and partly from additional gold from the jeweller's stock. His Honour had to determine whether a number of transactions involved either a service (of refashioning the customer's jewellery) or a part exchange. If a transaction involved a part exchange then the value of the supply was to be the total value of the new article. There was no express agreement between the parties.
+103. Macpherson of Cluny J decided that, in the circumstances, a transaction involved a supply of refashioning the old jewellery (rather than a part exchange), where mixing of the customer's own gold with other gold was not likely to any substantial extent. For transactions made in those circumstances, the customer's gold did not form non-monetary consideration. Hence, the supply by the jeweller is one of services, being the labour required to refashion the jewellery.
 Example 12 - traded-in goods
 104.
-Andrew, a motor mechanic, expressly agrees to replace the battery in Bart's car for $100 provided Bart gives Andrew the old battery.  If Bart does not give Andrew the old battery, Andrew will charge an additional $10.  Bart gives Andrew the old battery and pays $100.  The battery is provided in return for Andrew's supply and has an economic value and independent identity.  Ownership of the old battery passes to Andrew and he can use it for his own purposes.  The old battery is non-monetary consideration for the supply made by Andrew.  The total consideration for the supply made by Andrew is $110.  He needs to account for $10 GST payable on his supply
+Andrew, a motor mechanic, expressly agrees to replace the battery in Bart's car for $100 provided Bart gives Andrew the old battery. If Bart does not give Andrew the old battery, Andrew will charge an additional $10. Bart gives Andrew the old battery and pays $100. The battery is provided in return for Andrew's supply and has an economic value and independent identity. Ownership of the old battery passes to Andrew and he can use it for his own purposes. The old battery is non-monetary consideration for the supply made by Andrew. The total consideration for the supply made by Andrew is $110. He needs to account for $10 GST payable on his supply
 .
 Example 13 - no economic value to either party when the transaction is made
 105.
-Frank takes his car to Andrew's garage for a grease and oil change.  The total price of the service is $150 and this will not change regardless of whether Frank wants to keep the used oil or leave it to be disposed of by Andrew.  Frank regards the used oil as just a waste product and believes Andrew will dispose of it as part of the service.  Andrew also regards the used oil as a waste product to be disposed of as part of his service and it would make no difference to his charge if Frank wanted the used oil back.  The used oil is not non-monetary consideration for the supply made by Andrew
+Frank takes his car to Andrew's garage for a grease and oil change. The total price of the service is $150 and this will not change regardless of whether Frank wants to keep the used oil or leave it to be disposed of by Andrew. Frank regards the used oil as just a waste product and believes Andrew will dispose of it as part of the service. Andrew also regards the used oil as a waste product to be disposed of as part of his service and it would make no difference to his charge if Frank wanted the used oil back. The used oil is not non-monetary consideration for the supply made by Andrew
 .
 Example 14 - maintenance contracts
 106.
-SteelCo is a manufacturer of various steel products.  SteelCo enters into a maintenance service contract with WeFixIt.  Under the terms of the contract, WeFixIt agrees to immediately replace any faulty parts with new or reconditioned parts.  SteelCo has negotiated a reduced maintenance fee on the basis that it allows WeFixIt to keep the replaced parts.  The cost of the new parts is also factored into the maintenance fee
+SteelCo is a manufacturer of various steel products. SteelCo enters into a maintenance service contract with WeFixIt. Under the terms of the contract, WeFixIt agrees to immediately replace any faulty parts with new or reconditioned parts. SteelCo has negotiated a reduced maintenance fee on the basis that it allows WeFixIt to keep the replaced parts. The cost of the new parts is also factored into the maintenance fee
 .
 107.
 SteelCo would be required to pay a higher maintenance fee if it kept the faulty parts
 .
 108.
-WeFixIt places a value on these parts.  The faulty parts are non-monetary consideration for the maintenance services supplied by WeFixIt
+WeFixIt places a value on these parts. The faulty parts are non-monetary consideration for the maintenance services supplied by WeFixIt
 .
 Associated promotional activities
-109. As part of supplying goods, wholesalers may agree to provide their own staff to assist retailers in promoting a product on the retailers' premises.  Where this occurs, it is necessary to look at the particular circumstances and determine whether a supply exists, whether there is a payment and whether there is a sufficient nexus between the payment and the supply.
+109. As part of supplying goods, wholesalers may agree to provide their own staff to assist retailers in promoting a product on the retailers' premises. Where this occurs, it is necessary to look at the particular circumstances and determine whether a supply exists, whether there is a payment and whether there is a sufficient nexus between the payment and the supply.
 Example 15 - associated promotional activities
 110.
-ElectricCo is a distributor of electronic goods and supplies its products to ShopCo, a major retailer.  Under a supply of goods agreement between the parties, the distributor agrees to make available a staff member on a part time basis to promote its own goods in the stores of ShopCo free of charge.  The parties expect that this part of the agreement will provide a mutual benefit to each in the nature of increased sales
+ElectricCo is a distributor of electronic goods and supplies its products to ShopCo, a major retailer. Under a supply of goods agreement between the parties, the distributor agrees to make available a staff member on a part time basis to promote its own goods in the stores of ShopCo free of charge. The parties expect that this part of the agreement will provide a mutual benefit to each in the nature of increased sales
 .
 111.
-There are no separate supplies of services between the parties.  These activities do not have an independent identity that is separate from the transaction for the supply of the goods.  They occur as part of the transaction and are not treated as being consideration for a supply
+There are no separate supplies of services between the parties. These activities do not have an independent identity that is separate from the transaction for the supply of the goods. They occur as part of the transaction and are not treated as being consideration for a supply
 .
 Example 16 - promotion of a particular product
 112.
-Deli Co, as part of an exclusive supply arrangement with Supply Co, agrees to purchase a minimum amount of supplies from Supply Co at a favourable price during a specified period.  In return, Supply Co allows Deli Co to use some of its machines for the same period.  The machines are used in connection with the supplies and are expected to become obsolete at the end of the period
+Deli Co, as part of an exclusive supply arrangement with Supply Co, agrees to purchase a minimum amount of supplies from Supply Co at a favourable price during a specified period. In return, Supply Co allows Deli Co to use some of its machines for the same period. The machines are used in connection with the supplies and are expected to become obsolete at the end of the period
 .
 113.
-Although Deli Co enters into an obligation to purchase products of a minimum specified value, entry into this obligation does not constitute non-monetary consideration.  It does not have an independent identity separate from the supply arrangement.  The obligation merely defines the supply of the equipment and product by Supply Co for the monetary consideration provided by the customer
+Although Deli Co enters into an obligation to purchase products of a minimum specified value, entry into this obligation does not constitute non-monetary consideration. It does not have an independent identity separate from the supply arrangement. The obligation merely defines the supply of the equipment and product by Supply Co for the monetary consideration provided by the customer
 .
 114.
 The consideration that Supply Co receives for its supplies of the product and equipment is the money paid by Deli Co each time it purchases supplies from Supply Co, under the terms of the agreement
 .
 Form of and variations to an arrangement
-115. The form of the arrangement that a transaction is made under is not determinative (by itself) of what is the consideration for a supply.  For example, the parties may exchange obligations in a separate and later agreement that effectively changes the details and circumstances of a supply under an earlier continuing agreement.  In this case, a barter or exchange transaction is not made where the substance of the transaction is a supply for the consideration identified in the first agreement.  Similarly, a variation to an agreement will not necessarily be non-monetary consideration.
+115. The form of the arrangement that a transaction is made under is not determinative (by itself) of what is the consideration for a supply. For example, the parties may exchange obligations in a separate and later agreement that effectively changes the details and circumstances of a supply under an earlier continuing agreement. In this case, a barter or exchange transaction is not made where the substance of the transaction is a supply for the consideration identified in the first agreement. Similarly, a variation to an agreement will not necessarily be non-monetary consideration.
 Example 17 - form of the agreement
 116.
-Rail Riders, a rail transport company, agrees to haul coal for Peak Power, a power station, in return for a monetary amount.  The amount is calculated according to a formula that takes into account a variety of factors, including the amount of coal and how long it takes Peak Power to unload the coal
+Rail Riders, a rail transport company, agrees to haul coal for Peak Power, a power station, in return for a monetary amount. The amount is calculated according to a formula that takes into account a variety of factors, including the amount of coal and how long it takes Peak Power to unload the coal
 .
 117.
-A year later, the parties make a further separate agreement that Rail Riders will use special equipment to haul the coal, and Peak Power will install and use corresponding special equipment to unload the coal.  The equipment belongs to and remains the property of Rail Riders.  No money or ownership of property passes in the later agreement.  There are mutual maintenance obligations in respect of each party's own property and a confidentiality clause in respect of the special equipment
+A year later, the parties make a further separate agreement that Rail Riders will use special equipment to haul the coal, and Peak Power will install and use corresponding special equipment to unload the coal. The equipment belongs to and remains the property of Rail Riders. No money or ownership of property passes in the later agreement. There are mutual maintenance obligations in respect of each party's own property and a confidentiality clause in respect of the special equipment
 .
 118.
-Although there is a separate agreement that points initially to a separate supply for consideration, the transaction is in substance a supply of the service of hauling coal for monetary consideration.  The later agreement merely alters the details of the supply specified in the earlier agreement and does not give rise to non-monetary consideration
+Although there is a separate agreement that points initially to a separate supply for consideration, the transaction is in substance a supply of the service of hauling coal for monetary consideration. The later agreement merely alters the details of the supply specified in the earlier agreement and does not give rise to non-monetary consideration
 .
 Mere acknowledgment of a gift
-119. For a supply to be a gift, it must be transferred to the recipient voluntarily.  It must not be subject to any contractual obligation and the donor cannot receive an advantage of a material character for the giving of the gift.
+119. For a supply to be a gift, it must be transferred to the recipient voluntarily. It must not be subject to any contractual obligation and the donor cannot receive an advantage of a material character for the giving of the gift.
 [F39]
 Where it is reasonable to conclude that an in kind payment is made merely in recognition of a supplier's benevolence in providing the gift, the payment is not consideration.
 Example 18 - mere acknowledgment
 120.
-A party equipment hire firm provides chairs to the local school for its annual speech night without charge or expectation of receiving anything in return.  The school acknowledges the firm's provision of the chairs in its monthly newsletter
+A party equipment hire firm provides chairs to the local school for its annual speech night without charge or expectation of receiving anything in return. The school acknowledges the firm's provision of the chairs in its monthly newsletter
 .
 121.
-The public acknowledgment and recognition does not provide the firm with economic value.  It is not non-monetary consideration for the supply of chairs.  The supply of the chairs is not a taxable supply
+The public acknowledgment and recognition does not provide the firm with economic value. It is not non-monetary consideration for the supply of chairs. The supply of the chairs is not a taxable supply
 .
 [F40]
 Unconditional incentives and promotional giveaways
-122. A non-monetary payment is sometimes made by an entity (such as a manufacturer) to induce another party to make or continue to make purchases from the entity.  Where the payment is truly unconditional (that is, a gift), it is not consideration for a supply by that other party.
+122. A non-monetary payment is sometimes made by an entity (such as a manufacturer) to induce another party to make or continue to make purchases from the entity. Where the payment is truly unconditional (that is, a gift), it is not consideration for a supply by that other party.
 [F41]
 In these circumstances, the non-monetary payment is also not a supply made for consideration.
 Example 19 - unconditional gift
 123.
-Machinery Pty Ltd (MPL) is an established business that sells various types of industrial machines to a large range of clients.  Client retention is an important part of MPL's operations.  As part of this policy, on the anniversary of the commencement of its business, MPL gives selected clients a ticket to attend a high profile sporting or entertainment event.  The tickets are provided on an unconditional basis.  In this case, there is no consideration for the supply by MPL of the tickets
+Machinery Pty Ltd (MPL) is an established business that sells various types of industrial machines to a large range of clients. Client retention is an important part of MPL's operations. As part of this policy, on the anniversary of the commencement of its business, MPL gives selected clients a ticket to attend a high profile sporting or entertainment event. The tickets are provided on an unconditional basis. In this case, there is no consideration for the supply by MPL of the tickets
 .
 Example 20 - unconditional promotional giveaways
 124.
-ClubCo occasionally provides travel agents with two nights accommodation at one of its holiday resorts free of charge, so that travel agents can become familiar with the facilities provided by its resorts.  ClubCo hopes that if the travel agents are impressed by their resorts they will recommend them to prospective customers.  However, the travel agents are under no contractual obligation to recommend the resorts as a consequence of being provided the accommodation.  In this case, there is no consideration for the supply of the accommodation
+ClubCo occasionally provides travel agents with two nights accommodation at one of its holiday resorts free of charge, so that travel agents can become familiar with the facilities provided by its resorts. ClubCo hopes that if the travel agents are impressed by their resorts they will recommend them to prospective customers. However, the travel agents are under no contractual obligation to recommend the resorts as a consequence of being provided the accommodation. In this case, there is no consideration for the supply of the accommodation
 .
 No setting off of prices
 125. Where parties make supplies to each other, depending on the actual transaction, the supply made by each party may be for:
@@ -620,10 +617,10 @@ Notorious Newspapers
 ('
 Notorious') agrees to give Horatio Helpers Ltd
 ('
-Horatio') advertising space in the newspaper it publishes.  Horatio agrees to paint the interior of Notorious's offices.  The GST inclusive market value of the supplies made by each party is $1,000.  Each party agrees to charge the other party $5 for the supply it makes, on the condition that it pays $5 for the supply from the other party
+Horatio') advertising space in the newspaper it publishes. Horatio agrees to paint the interior of Notorious's offices. The GST inclusive market value of the supplies made by each party is $1,000. Each party agrees to charge the other party $5 for the supply it makes, on the condition that it pays $5 for the supply from the other party
 .
 127.
-The circumstances of the arrangement show that each supply is in connection with the other supply and will form part of the consideration for that other supply.  The consideration for the supply by Notorious is both monetary consideration
+The circumstances of the arrangement show that each supply is in connection with the other supply and will form part of the consideration for that other supply. The consideration for the supply by Notorious is both monetary consideration
 ($
 5) and non-monetary consideration (Horatio's painting services
 ).
@@ -642,11 +639,11 @@ consideration in connection with a supply; or
 (b)
 a thing, or a supply or acquisition of a thing;
 means the market value of the consideration or thing, without any discount for any amount of GST or luxury car tax payable on the supply.
-129. The effect of this provision is that, for the purpose of working out the price of a taxable supply under subsection 9-75(1), the GST inclusive market value of any non-monetary consideration is not reduced by the amount of GST payable on the supply to which the non-monetary consideration is connected.  This is in line with paragraph 9-75(1)(a) that provides that price, so far as the consideration is expressed as an amount of money, is 'the amount (without any discount for the amount of GST (if any) payable on the supply)'.
-130. The GST treatment of non-monetary consideration (when it is viewed as a supply itself) is not relevant to its status as consideration.  Circumstances in which the GST treatment is not relevant include where non-monetary consideration is received from an entity that is not registered for GST purposes, or is a GST-free or an input taxed supply.  These things, when they are consideration, have a GST inclusive market value with the GST component being 'nil'.
+129. The effect of this provision is that, for the purpose of working out the price of a taxable supply under subsection 9-75(1), the GST inclusive market value of any non-monetary consideration is not reduced by the amount of GST payable on the supply to which the non-monetary consideration is connected. This is in line with paragraph 9-75(1)(a) that provides that price, so far as the consideration is expressed as an amount of money, is 'the amount (without any discount for the amount of GST (if any) payable on the supply)'.
+130. The GST treatment of non-monetary consideration (when it is viewed as a supply itself) is not relevant to its status as consideration. Circumstances in which the GST treatment is not relevant include where non-monetary consideration is received from an entity that is not registered for GST purposes, or is a GST-free or an input taxed supply. These things, when they are consideration, have a GST inclusive market value with the GST component being 'nil'.
 Example 22 - non-monetary consideration is itself a GST-free supply
 131.
-Jana makes a taxable supply of a case of soft drink to Wendy, in return for a case of mangoes with a market value of $110.  The price for the taxable supply of the soft drink is the GST inclusive market value of the mangoes.  As mangoes are GST-free, their GST inclusive market value is $110
+Jana makes a taxable supply of a case of soft drink to Wendy, in return for a case of mangoes with a market value of $110. The price for the taxable supply of the soft drink is the GST inclusive market value of the mangoes. As mangoes are GST-free, their GST inclusive market value is $110
 .
 [F44]
 The GST on the taxable supply of the soft drink is 10% of 10/11 of the GST inclusive market value of the mangoes, that is, 10% of 10/11 x $110
@@ -655,34 +652,34 @@ The GST on the taxable supply of the soft drink is 10% of 10/11 of the GST inclu
 .
 Apportionment of non-monetary consideration
 Transaction involving money
-132. A supply by one entity to another is sometimes made for consideration consisting of an in kind payment, (of lesser value than the supply) together with an amount of money.  In these circumstances, the provision of the lesser value in kind payment is itself a supply for consideration by the other entity.  The payment of the money is not a supply.
+132. A supply by one entity to another is sometimes made for consideration consisting of an in kind payment, (of lesser value than the supply) together with an amount of money. In these circumstances, the provision of the lesser value in kind payment is itself a supply for consideration by the other entity. The payment of the money is not a supply.
 [F45]
-133. This type of transaction was illustrated in Example 2 at paragraph 27 of this Ruling, where Steve's Faxes Pty Ltd supplies a fax machine (GST inclusive market value of $660) to Lil's Cycle Shop for consideration comprising a bicycle and $110 in money.  In providing the bicycle as part consideration, Lil is also making a supply for consideration.
-134. However, as the fax machine is provided by Steve in connection with both the money and the bicycle, the GST inclusive market value of the fax machine needs to be apportioned to determine the consideration for the supply of the bicycle.  The apportionment is made by deducting the amount of money from the GST inclusive market value of the fax machine.  The consideration for the bicycle ($660 less $110) is $550.
+133. This type of transaction was illustrated in Example 2 at paragraph 27 of this Ruling, where Steve's Faxes Pty Ltd supplies a fax machine (GST inclusive market value of $660) to Lil's Cycle Shop for consideration comprising a bicycle and $110 in money. In providing the bicycle as part consideration, Lil is also making a supply for consideration.
+134. However, as the fax machine is provided by Steve in connection with both the money and the bicycle, the GST inclusive market value of the fax machine needs to be apportioned to determine the consideration for the supply of the bicycle. The apportionment is made by deducting the amount of money from the GST inclusive market value of the fax machine. The consideration for the bicycle ($660 less $110) is $550.
 [F46]
 Transaction involving no money
 135. Where a single in kind payment is provided as consideration for a supply consisting of more than one identifiable part, you will need to apportion the consideration between the parts of the supply, if part of the supply is taxable and another part of the supply is GST-free, input taxed or otherwise non-taxable.
-136. For example, where an entity makes a supply consisting of a stereo system and a wheelchair to another entity for a boat (as consideration), the GST inclusive market value of the boat needs to be apportioned between the stereo system and the wheelchair.  GST is payable on the part of the supply that is taxable (that is, the stereo system).
-137. The method of apportioning the consideration (that is, the GST inclusive market value of the boat) between the stereo system and the wheelchair is to determine the GST inclusive market values of both the stereo system and the wheelchair.  The consideration should then be apportioned between the two in accordance with the proportion that the value of each bears to the total value of the two. That is, if the stereo system's value is $2,000 and the wheelchair's value is $1,000, the price of the stereo system is 2/3rds of the GST inclusive market value of the boat.
+136. For example, where an entity makes a supply consisting of a stereo system and a wheelchair to another entity for a boat (as consideration), the GST inclusive market value of the boat needs to be apportioned between the stereo system and the wheelchair. GST is payable on the part of the supply that is taxable (that is, the stereo system).
+137. The method of apportioning the consideration (that is, the GST inclusive market value of the boat) between the stereo system and the wheelchair is to determine the GST inclusive market values of both the stereo system and the wheelchair. The consideration should then be apportioned between the two in accordance with the proportion that the value of each bears to the total value of the two. That is, if the stereo system's value is $2,000 and the wheelchair's value is $1,000, the price of the stereo system is 2/3rds of the GST inclusive market value of the boat.
 Reasonable valuation of non-monetary consideration
 138. Where the consideration for a supply is non-monetary, the GST inclusive market value of that consideration is used to work out the price and value of the supply.
 [F47]
-In most circumstances where parties are dealing at arm's length, we are of the view that  the goods, services or other things exchanged are of equal GST inclusive market value.
+In most circumstances where parties are dealing at arm's length, we are of the view that the goods, services or other things exchanged are of equal GST inclusive market value.
 [F48]
 139. As the GST inclusive market value of consideration will be shown as the price on any tax invoice that the supplier issues, the onus for determining the GST inclusive market value of the consideration rests with the supplier.
 140. In
 Spencer v
 .
 Commonwealth of Australia
-(1907) 5 CLR 418, the High Court of Australia looked at valuation methods and recognised the concept of a 'willing buyer and willing seller'.  Griffith CJ stated:
+(1907) 5 CLR 418, the High Court of Australia looked at valuation methods and recognised the concept of a 'willing buyer and willing seller'. Griffith CJ stated:
 '...the test of value of land is to be determined, not by inquiring what price a man desiring to sell could actually have obtained for it on a given day, i.e., whether there was in fact on that day a willing buyer, but by inquiring "What would a man desiring to buy the land have had to pay for it on that day to a vendor willing to sell it for a fair price but not desirous to sell?"'
 [F49]
-141. Market value is regarded as the price that would be negotiated at a specified time between a knowledgeable and willing but not anxious buyer and a knowledgeable and willing but not anxious seller acting at arm's length in an appropriate market.  It is an objective test and not the subjective view of any one party.
+141. Market value is regarded as the price that would be negotiated at a specified time between a knowledgeable and willing but not anxious buyer and a knowledgeable and willing but not anxious seller acting at arm's length in an appropriate market. It is an objective test and not the subjective view of any one party.
 [F50]
-142. Depending on the context or circumstances of a transaction, it may be necessary to value the consideration by reference to either a general market or a particular market.  For example, a wholesaler who (in making a supply to a retailer) receives consideration in a non-monetary form, should value that consideration by reference to the price for which he/she would normally buy that product or service in a general market.  If the wholesaler normally bought the product or service from a manufacturer, the trade market is the market in which it should be valued.  If the wholesaler normally bought that product or service from a retail outlet, the retail market is the relevant market.
-143. Problems can arise when there is no market or the value to the seller is different to that for the buyer.  It does not matter whether there is only one buyer or seller or even if one or both are 'hypothetical'.  Courts have determined that market value can be determined in these circumstances.
+142. Depending on the context or circumstances of a transaction, it may be necessary to value the consideration by reference to either a general market or a particular market. For example, a wholesaler who (in making a supply to a retailer) receives consideration in a non-monetary form, should value that consideration by reference to the price for which he/she would normally buy that product or service in a general market. If the wholesaler normally bought the product or service from a manufacturer, the trade market is the market in which it should be valued. If the wholesaler normally bought that product or service from a retail outlet, the retail market is the relevant market.
+143. Problems can arise when there is no market or the value to the seller is different to that for the buyer. It does not matter whether there is only one buyer or seller or even if one or both are 'hypothetical'. Courts have determined that market value can be determined in these circumstances.
 [F51]
-144. You may determine the GST inclusive market value of non-monetary consideration for a taxable supply by applying a method that produces a reasonable GST inclusive market value of the consideration.  There will be situations where the methods used by parties differ according to their particular circumstances.  Examples of reasonable methods include:
+144. You may determine the GST inclusive market value of non-monetary consideration for a taxable supply by applying a method that produces a reasonable GST inclusive market value of the consideration. There will be situations where the methods used by parties differ according to their particular circumstances. Examples of reasonable methods include:
 •
 the market value of an identical good, service or thing;
 •
@@ -692,32 +689,32 @@ the market value of the supply; or
 •
 a professional appraisal.
 The market value of an identical good, service or thing
-145. If an identical good, service or thing exists in the market, then the market value can be the actual price of that identical good, service or thing in that market.  The price of the goods, services or things being compared needs to be representative of the market value in the market in which you are dealing.
+145. If an identical good, service or thing exists in the market, then the market value can be the actual price of that identical good, service or thing in that market. The price of the goods, services or things being compared needs to be representative of the market value in the market in which you are dealing.
 Example 23 - the market value of an identical good or service
 146.
-Grove Gourmet Restaurant is refurbishing its dining area and purchases 20 tables and 80 chairs from a local furniture manufacturer.  In return, the restaurant agrees to provide a Christmas banquet for all of the staff of the manufacturer.  The price of the taxable supply of the banquet made by the restaurant is equal to the GST inclusive market value of the consideration, being the tables and chairs provided by the manufacturer
+Grove Gourmet Restaurant is refurbishing its dining area and purchases 20 tables and 80 chairs from a local furniture manufacturer. In return, the restaurant agrees to provide a Christmas banquet for all of the staff of the manufacturer. The price of the taxable supply of the banquet made by the restaurant is equal to the GST inclusive market value of the consideration, being the tables and chairs provided by the manufacturer
 .
 147.
-This could be determined by the amount of money that the restaurateur would ordinarily pay for the identical tables in the trade market in which it normally purchases such furniture.  The price of the taxable supply of the tables and chairs will be equal to the GST inclusive market value of the consideration, being the banquet provided by the restaurant.  This could be determined by the amount of money that the manufacturer would ordinarily pay for an identical banquet
+This could be determined by the amount of money that the restaurateur would ordinarily pay for the identical tables in the trade market in which it normally purchases such furniture. The price of the taxable supply of the tables and chairs will be equal to the GST inclusive market value of the consideration, being the banquet provided by the restaurant. This could be determined by the amount of money that the manufacturer would ordinarily pay for an identical banquet
 .
 The market value of a similar good, service or thing
 148. You may seek to identify a similar good, or service or thing from which the GST inclusive market value can be obtained.
-149. A similar good, service or thing needs to closely resemble the good, service or thing that is required to be valued in the first instance.  It needs to be able to take the place of the original good, service or thing and perform in a similar way.  Matters that are relevant in considering the degree of similarity include the nature of the good, service or thing, the use to which it is put, its cost, location, size, quality and composition.
+149. A similar good, service or thing needs to closely resemble the good, service or thing that is required to be valued in the first instance. It needs to be able to take the place of the original good, service or thing and perform in a similar way. Matters that are relevant in considering the degree of similarity include the nature of the good, service or thing, the use to which it is put, its cost, location, size, quality and composition.
 Example 24 - the market value of a similar good, service or thing
 150.
-An accountancy firm agrees to prepare the books for a computer programmer for the 2000/2001 financial year.  In return, the computer programmer designs a specific computer program for the accountancy firm.  The taxable supply of the accountancy services is for the consideration of the specific computer program.  As there is no identical computer program available for valuation purposes, reference may be made to the price of a similar computer program performing similar functions
+An accountancy firm agrees to prepare the books for a computer programmer for the 2000/2001 financial year. In return, the computer programmer designs a specific computer program for the accountancy firm. The taxable supply of the accountancy services is for the consideration of the specific computer program. As there is no identical computer program available for valuation purposes, reference may be made to the price of a similar computer program performing similar functions
 .
 The market value of the consideration by reference to the market value of the supply
 151. Where the consideration is difficult to value (for example, an intangible
 [F52]
-) and where the market value of the supply is readily ascertainable, you may determine the market value of the consideration by reference to the market value of the supply.  Using this method, the market value of the non-monetary consideration will be determined by reference to the market value of the supply.  However, if there is any monetary consideration provided in addition to any non-monetary consideration in relation to that supply, you need to make an appropriate adjustment.
+) and where the market value of the supply is readily ascertainable, you may determine the market value of the consideration by reference to the market value of the supply. Using this method, the market value of the non-monetary consideration will be determined by reference to the market value of the supply. However, if there is any monetary consideration provided in addition to any non-monetary consideration in relation to that supply, you need to make an appropriate adjustment.
 Example 25 - the market value of the supplies
 152.
-A freeway service station offers a free meal to any coach driver who brings their coach to the service station with at least 20 passengers and stays for half an hour.  The meal provided to the coach driver is a taxable supply, with the consideration being the driver's services of bringing the coach to the service station.  The market value of the driver's services can be determined by the value of the free meal, that is, the price that the driver would otherwise pay for the meal
+A freeway service station offers a free meal to any coach driver who brings their coach to the service station with at least 20 passengers and stays for half an hour. The meal provided to the coach driver is a taxable supply, with the consideration being the driver's services of bringing the coach to the service station. The market value of the driver's services can be determined by the value of the free meal, that is, the price that the driver would otherwise pay for the meal
 .
 [F53]
 153.
-If the coach driver is registered or required to be registered, he/she has made a taxable supply of services to the freeway service station.  The price of these services is the price the driver would otherwise pay for the meal
+If the coach driver is registered or required to be registered, he/she has made a taxable supply of services to the freeway service station. The price of these services is the price the driver would otherwise pay for the meal
 .
 Professional appraisal
 154. A professional appraisal directed at determining the market value of the consideration for your supply will be a reasonable method where it:
@@ -726,18 +723,18 @@ is done by a person who is recognised in the particular field in which the appra
 •
 uses valuation methodologies that are consistent with professional guidelines.
 Other reasonable methods
-155. Where you are making a taxable supply and you are dealing with another party at arm's length, you can use a reasonable valuation method as determined between you and the other party.  Also, where both the supply and the consideration are difficult to value (for example, a forbearance may have no identifiable market), you can calculate a reasonable market value for the non-monetary consideration (for example, a 'cost plus margin' method).
+155. Where you are making a taxable supply and you are dealing with another party at arm's length, you can use a reasonable valuation method as determined between you and the other party. Also, where both the supply and the consideration are difficult to value (for example, a forbearance may have no identifiable market), you can calculate a reasonable market value for the non-monetary consideration (for example, a 'cost plus margin' method).
 Example 26 - valuing consideration by other reasonable methods
 156.
-Gus is an inventor living in Queensland.  He has patented a new and unique widget and contracts with MegaMake, a large manufacturing company, to produce a sample of 1,000 widgets.  Under the agreement Gus does not make any monetary payment to MegaMake for its services.  Instead, as consideration, he allows MegaMake to keep half of the widgets produced and gives it the right to sell them outside Queensland
+Gus is an inventor living in Queensland. He has patented a new and unique widget and contracts with MegaMake, a large manufacturing company, to produce a sample of 1,000 widgets. Under the agreement Gus does not make any monetary payment to MegaMake for its services. Instead, as consideration, he allows MegaMake to keep half of the widgets produced and gives it the right to sell them outside Queensland
 .
 157.
-The supply of the manufactured widgets by MegaMake is for the consideration provided by Gus of the right to produce and sell the widgets interstate.  The widget is a new and unique item and there is no identical or similar good in the market.  MegaMake can demonstrate that it is appropriate to use a cost plus margin method (that is, the sum of the cost of producing and a relevant profit margin) for the production of the widgets it supplies to determine the market value of the consideration provided by Gus
+The supply of the manufactured widgets by MegaMake is for the consideration provided by Gus of the right to produce and sell the widgets interstate. The widget is a new and unique item and there is no identical or similar good in the market. MegaMake can demonstrate that it is appropriate to use a cost plus margin method (that is, the sum of the cost of producing and a relevant profit margin) for the production of the widgets it supplies to determine the market value of the consideration provided by Gus
 .
-158. We do not consider that the use of 'historical cost' or 'residual value' are acceptable methods of determining the market value of consideration.  These are normally values for accounting purposes and do not necessarily represent the actual market price that would be obtained if the asset was sold.
+158. We do not consider that the use of 'historical cost' or 'residual value' are acceptable methods of determining the market value of consideration. These are normally values for accounting purposes and do not necessarily represent the actual market price that would be obtained if the asset was sold.
 Time when the GST inclusive market value of non-monetary consideration is worked out
-159. In general, the market value of things fluctuates over time.  Therefore, the time when the market value of non-monetary consideration is worked out will usually affect the value.
-160. The GST Act does not specify the time when the market value of non-monetary consideration is to be ascertained for the purposes of working out the value of the supply under paragraph 9-75(1)(b).  We consider that the time must be reasonable in the circumstances of a particular transaction.  Depending on the circumstances, it may be:
+159. In general, the market value of things fluctuates over time. Therefore, the time when the market value of non-monetary consideration is worked out will usually affect the value.
+160. The GST Act does not specify the time when the market value of non-monetary consideration is to be ascertained for the purposes of working out the value of the supply under paragraph 9-75(1)(b). We consider that the time must be reasonable in the circumstances of a particular transaction. Depending on the circumstances, it may be:
 •
 when parties enter into a binding agreement;
 •
@@ -745,9 +742,9 @@ when economic risk is transferred; or
 •
 when a recipient assumes effective control.
 161. You need to be able to demonstrate that these times, or another time at which you value the consideration, is reasonable in your particular circumstances.
-162. The process of valuing non-monetary consideration can be done before or after the appropriate time as long as it reflects the GST inclusive market value at the time when it should be determined.  For example, if you value non-monetary consideration for the purposes of entering into an agreement and that value reasonably reflects the value as at the time the agreement is made, you can use it to work out the value of your supply.  However, it is not reasonable to use this value if you enter the agreement on the basis that the market value has changed from a value established before you entered the agreement.
+162. The process of valuing non-monetary consideration can be done before or after the appropriate time as long as it reflects the GST inclusive market value at the time when it should be determined. For example, if you value non-monetary consideration for the purposes of entering into an agreement and that value reasonably reflects the value as at the time the agreement is made, you can use it to work out the value of your supply. However, it is not reasonable to use this value if you enter the agreement on the basis that the market value has changed from a value established before you entered the agreement.
 163. In practical terms, you need to value any non-monetary consideration before you can work out the GST on a taxable supply or issue a tax invoice.
-164. A change in the market value of non-monetary consideration, after the time as at which you need to establish the market value, is not an adjustment event for the purposes of paragraph 19-10(1)(b).  It is not an event that has the effect of changing the consideration (that was determined earlier) for a supply or acquisition.  Although the market value of the consideration changes at a later date, it does not have the effect of changing the originally agreed GST inclusive market value.  It is not an adjustment event.
+164. A change in the market value of non-monetary consideration, after the time as at which you need to establish the market value, is not an adjustment event for the purposes of paragraph 19-10(1)(b). It is not an event that has the effect of changing the consideration (that was determined earlier) for a supply or acquisition. Although the market value of the consideration changes at a later date, it does not have the effect of changing the originally agreed GST inclusive market value. It is not an adjustment event.
 165. These guidelines for the timing of your valuation are the same whether you account for GST on a cash or non-cash basis.
 Application of the attribution rules where consideration is non-monetary
 166. The basic rules for attributing GST payable, input tax credits and adjustments are set out in Division 29.
@@ -772,14 +769,14 @@ This is the case whether or not the market value of the consideration is stated 
 [F60]
 An invoice is issued if the supplier sends a document to the recipient that notifies the obligation to pay, or if the recipient is given a copy of such a document.
 [F61]
-172. A document notifying an obligation to pay non-monetary consideration for a supply can be an invoice.  The fact that the consideration is non-monetary does not mean that the document cannot be an invoice for GST purposes.  The definition of an invoice for GST purposes is 'a document notifying an obligation to make a payment'.
+172. A document notifying an obligation to pay non-monetary consideration for a supply can be an invoice. The fact that the consideration is non-monetary does not mean that the document cannot be an invoice for GST purposes. The definition of an invoice for GST purposes is 'a document notifying an obligation to make a payment'.
 [F62]
 The term 'payment' is not defined in the GST Act but its meaning is not restricted to payments of money.
 [F63]
 172A.	The requirements for tax invoices and recipient created tax invoices (RCTIs) are the same whether monetary consideration, non-monetary consideration or a combination of both is used as the consideration from which the price is determined. For example, where there is non-monetary consideration, you may set out the price in money for the supply by showing the actual GST inclusive market value of the supply.
 [F63A]
 When is consideration received or provided?
-173. To apply the basic attribution rules to transactions where the consideration is monetary and/or non-monetary, you need to identify when the consideration is received or provided.  This is a question of fact and depends on the terms of the agreement and all the circumstances.  The basic attribution rules differ depending on whether you account for GST on a cash or non-cash basis.
+173. To apply the basic attribution rules to transactions where the consideration is monetary and/or non-monetary, you need to identify when the consideration is received or provided. This is a question of fact and depends on the terms of the agreement and all the circumstances. The basic attribution rules differ depending on whether you account for GST on a cash or non-cash basis.
 [F64]
 Accounting on a non-cash basis - when is
 any
@@ -789,93 +786,93 @@ any
 of the consideration is received or provided before an invoice is issued.
 Example 27 - time of consideration if you account on a non-cash basis
 175.
-Rene is to receive 25,000 bricks from Honza as consideration for the taxable supply of a computer.  Both Rene and Honza account for GST on a non-cash basis and have quarterly tax periods.  In September 2001, Rene picks up one pallet of the bricks from Honza's business premises.  The rest of the bricks are delivered to Rene in October 2001
+Rene is to receive 25,000 bricks from Honza as consideration for the taxable supply of a computer. Both Rene and Honza account for GST on a non-cash basis and have quarterly tax periods. In September 2001, Rene picks up one pallet of the bricks from Honza's business premises. The rest of the bricks are delivered to Rene in October 2001
 .
 176.
-Rene receives and Honza provides any of the consideration for the supply of the computer when Rene picks up the first pallet of bricks.  Rene attributes 1/11th of the GST inclusive market value of the 25,000 bricks to the tax period ending 30 September 2001.  Honza is entitled to an input tax credit for the same amount and in the same tax period (provided he holds a tax invoice and has acquired the computer for a creditable purpose)
+Rene receives and Honza provides any of the consideration for the supply of the computer when Rene picks up the first pallet of bricks. Rene attributes 1/11th of the GST inclusive market value of the 25,000 bricks to the tax period ending 30 September 2001. Honza is entitled to an input tax credit for the same amount and in the same tax period (provided he holds a tax invoice and has acquired the computer for a creditable purpose)
 .
 Accounting on a cash basis - to what
 extent
 is consideration received or provided?
-177. If you account for GST on a cash basis, you attribute GST payable and input tax credits to a tax period in which the non-monetary consideration for the taxable supply or creditable acquisition is received or provided.  However, GST payable and input tax credits are attributable only
+177. If you account for GST on a cash basis, you attribute GST payable and input tax credits to a tax period in which the non-monetary consideration for the taxable supply or creditable acquisition is received or provided. However, GST payable and input tax credits are attributable only
 to the extent
 that the consideration is received or provided in that tax period.
 178. If the non-monetary consideration for a supply or acquisition is received or provided in more than one tax period, it is necessary to work out the extent to which the consideration in the form of goods or services or any other thing is received or provided in each tax period.
 179. The extent to which consideration in the form of goods is received or provided in a particular tax period is based on the quantity of goods received or provided in that tax period.
-180. The extent to which consideration in the form of services is received or provided in a particular tax period is based on the extent to which the services are performed in that tax period.  This may be established, for example, by working out the extent to which the provider of the consideration would be entitled to issue an account for its services, or the extent to which it would be entitled to sue for the value of the work performed.
-181. Similar guidelines were applied in Goods and Services Tax Determination GSTD 2000/3 (Goods and Services Tax: transitional arrangements: to what extent is the supply of services made on or after 1 July 2000, where the supply spans that date?).  Although this Determination deals with transitional arrangements, the guidelines can be used also where non-monetary consideration is in the form of services.  Records and events that may assist in identifying when services are performed include time sheets and progress payments.
+180. The extent to which consideration in the form of services is received or provided in a particular tax period is based on the extent to which the services are performed in that tax period. This may be established, for example, by working out the extent to which the provider of the consideration would be entitled to issue an account for its services, or the extent to which it would be entitled to sue for the value of the work performed.
+181. Similar guidelines were applied in Goods and Services Tax Determination GSTD 2000/3 (Goods and Services Tax: transitional arrangements: to what extent is the supply of services made on or after 1 July 2000, where the supply spans that date?). Although this Determination deals with transitional arrangements, the guidelines can be used also where non-monetary consideration is in the form of services. Records and events that may assist in identifying when services are performed include time sheets and progress payments.
 182. If you cannot quantify exactly the extent to which non-monetary consideration is received or provided in a particular tax period, you may make a reasonable estimate, supported by documentary evidence where appropriate.
 When goods are received or provided
 183. Goods are received by, or provided to, an acquirer or a third party on the acquirer's behalf, when the title to the goods is transferred, or physical possession of the goods passes, whichever is the earlier.
 Example 28 - possession of goods passes
 184.
-Don is to receive office furniture from Vanessa as consideration for a supply of advertising services.  Don and Vanessa are registered and both account for GST quarterly on a non-cash basis.  On 31 March 2002, a courier picks up the office furniture from Vanessa's shop on Don's behalf.  The goods are not delivered to Don by the courier until the following day, that is, 1 April 2002
+Don is to receive office furniture from Vanessa as consideration for a supply of advertising services. Don and Vanessa are registered and both account for GST quarterly on a non-cash basis. On 31 March 2002, a courier picks up the office furniture from Vanessa's shop on Don's behalf. The goods are not delivered to Don by the courier until the following day, that is, 1 April 2002
 .
 185.
-The consideration for the supply of advertising services by Don is both received and provided on the day on which the courier physically removes the office furniture from Vanessa's premises.  Don attributes the full amount of GST payable on his supply of advertising services to the tax period ending 31 March 2002.  Vanessa is entitled to an input tax credit for the same amount in the same tax period, (provided she holds a tax invoice) for her creditable acquisition of advertising services
+The consideration for the supply of advertising services by Don is both received and provided on the day on which the courier physically removes the office furniture from Vanessa's premises. Don attributes the full amount of GST payable on his supply of advertising services to the tax period ending 31 March 2002. Vanessa is entitled to an input tax credit for the same amount in the same tax period, (provided she holds a tax invoice) for her creditable acquisition of advertising services
 .
 Example 29 - title to goods passes
 186.
-Jo agrees to supply services to Sue in return for a 'thingamewot', a machine that Sue manufactures.  They agree that in view of the enormous size and storage requirements for the thingamewot, title will pass immediately but Jo can collect it any time within the next year
+Jo agrees to supply services to Sue in return for a 'thingamewot', a machine that Sue manufactures. They agree that in view of the enormous size and storage requirements for the thingamewot, title will pass immediately but Jo can collect it any time within the next year
 .
 187.
 Jo receives the thingamewot as consideration for her services when title passes, which is before she obtains possession of it
 .
 When services are received or provided
-188. In most cases, some of the services are received and provided when the provision of services is commenced.  However, there may be situations where it is not clear whether the provision of services has actually commenced or whether what has been done amounts to preliminary activities only.
+188. In most cases, some of the services are received and provided when the provision of services is commenced. However, there may be situations where it is not clear whether the provision of services has actually commenced or whether what has been done amounts to preliminary activities only.
 Example 30 - preliminary activities
 189.
-John is to receive consideration in the form of painting services from Bob in return for a supply of plumbing services.  Bob purchases the paint, brushes and other materials that he requires to carry out the work.  The following week, he cleans down the walls to be painted and puts up the scaffolding.  However, he does not begin to apply the paint until the next day
+John is to receive consideration in the form of painting services from Bob in return for a supply of plumbing services. Bob purchases the paint, brushes and other materials that he requires to carry out the work. The following week, he cleans down the walls to be painted and puts up the scaffolding. However, he does not begin to apply the paint until the next day
 .
 190.
-John receives (and Bob provides) any of the consideration for his supply of plumbing services when the painting services commence.  Bob's painting services commence when he arrives on-site and begins cleaning down the walls.  The purchase of the paint, brushes and other materials are merely preliminary to the commencement of the painting services
+John receives (and Bob provides) any of the consideration for his supply of plumbing services when the painting services commence. Bob's painting services commence when he arrives on-site and begins cleaning down the walls. The purchase of the paint, brushes and other materials are merely preliminary to the commencement of the painting services
 .
 191. There are many situations where consideration is in the form of services that result in the production of something tangible.
 [F65]
 In cases such as these where the consideration for a supply involves both work being done and the creation of a product, the consideration is received and provided when the services that result in the creation of the product begin.
 Example 31 - services that result in the creation of a product
 192.
-Michael enters an agreement to supply computers to Kylie, a consulting architect.  She is to provide building plans for Michael's new shop as consideration
+Michael enters an agreement to supply computers to Kylie, a consulting architect. She is to provide building plans for Michael's new shop as consideration
 .
 193.
-If Michael accounts for GST on a non-cash basis, the full amount of GST payable on the supply of the computers is attributable to the tax period in which any of the consideration is received (if there was no previous issue of an invoice).  Any of the consideration is received (or provided) as soon as Kylie commences drafting the plans, that is, before Kylie hands over the final plan to Michael.  Michael will need to attribute the GST payable as soon as he is aware that Kylie has commenced drafting the plans.  This is the case even if the contract is for Kylie to deliver a completed plan
+If Michael accounts for GST on a non-cash basis, the full amount of GST payable on the supply of the computers is attributable to the tax period in which any of the consideration is received (if there was no previous issue of an invoice). Any of the consideration is received (or provided) as soon as Kylie commences drafting the plans, that is, before Kylie hands over the final plan to Michael. Michael will need to attribute the GST payable as soon as he is aware that Kylie has commenced drafting the plans. This is the case even if the contract is for Kylie to deliver a completed plan
 .
 194.
-If Michael accounts for GST on a cash basis, GST payable is attributable to a tax period in which Kylie performs any services that culminate in production of the plans, but only to the extent that he is actually aware that the services are performed in that tax period.  The GST inclusive market value of those services could be determined by establishing the amount that he would be liable to pay her at that time
+If Michael accounts for GST on a cash basis, GST payable is attributable to a tax period in which Kylie performs any services that culminate in production of the plans, but only to the extent that he is actually aware that the services are performed in that tax period. The GST inclusive market value of those services could be determined by establishing the amount that he would be liable to pay her at that time
 .
 When other things are received or provided
-195. Consideration in the form of a conveyance of real property under a standard land contract is received and provided when settlement occurs.  'Settlement' refers to that stage in the completion of a standard land contract where the transfer in the purchaser's favour and certificate of title are exchanged for the purchase price.
+195. Consideration in the form of a conveyance of real property under a standard land contract is received and provided when settlement occurs. 'Settlement' refers to that stage in the completion of a standard land contract where the transfer in the purchaser's favour and certificate of title are exchanged for the purchase price.
 [F66]
-196. Where consideration is the creation, grant, assignment or surrender of a right, the consideration is received and provided when the right is created, granted, assigned or surrendered.  The question of what is the act that creates, grants, assigns or effects a surrender of a right is one of fact and depends on the terms of the agreement.
-197. Where consideration is entry into, or release from an obligation, the consideration is both received and provided when the obligation is entered into or the release is effected.  The question of what is the act that effects entry into, or release from an obligation, is again one of fact.
+196. Where consideration is the creation, grant, assignment or surrender of a right, the consideration is received and provided when the right is created, granted, assigned or surrendered. The question of what is the act that creates, grants, assigns or effects a surrender of a right is one of fact and depends on the terms of the agreement.
+197. Where consideration is entry into, or release from an obligation, the consideration is both received and provided when the obligation is entered into or the release is effected. The question of what is the act that effects entry into, or release from an obligation, is again one of fact.
 Progressive or periodic supplies and acquisitions
-198. Division 156 applies to supplies or acquisitions made for a period or on a progressive basis, where the consideration is also provided on a progressive or periodic basis.  It alters the application of the basic attribution rules by treating each progressive or periodic component of the supply or acquisition as a separate supply or acquisition.
+198. Division 156 applies to supplies or acquisitions made for a period or on a progressive basis, where the consideration is also provided on a progressive or periodic basis. It alters the application of the basic attribution rules by treating each progressive or periodic component of the supply or acquisition as a separate supply or acquisition.
 [F67]
-199. To attribute GST payable on a supply to which Division 156 applies, it is necessary to identify the consideration for each component of the supply.  This treatment is for attribution purposes only, that is, to attribute GST for each notional supply or acquisition.  Where the consideration is non-monetary you need to value the consideration once and not each component of the consideration as it is received.
+199. To attribute GST payable on a supply to which Division 156 applies, it is necessary to identify the consideration for each component of the supply. This treatment is for attribution purposes only, that is, to attribute GST for each notional supply or acquisition. Where the consideration is non-monetary you need to value the consideration once and not each component of the consideration as it is received.
 Example 32 - one valuation of the consideration
 200.
-On 1 July 2001, Misum agrees to supply China Blue with five floral arrangements each week for a 12-month period.  As consideration, China Blue will supply Misum with a vase at the end of each quarterly tax period
+On 1 July 2001, Misum agrees to supply China Blue with five floral arrangements each week for a 12-month period. As consideration, China Blue will supply Misum with a vase at the end of each quarterly tax period
 .
 201.
-Division 156 applies to the supply of the floral arrangements.  Misum needs to establish the market value of the vases as at 1 July 2001 which is the date on which the agreement is entered into.  The market value of the four vases at this date is $1,100
+Division 156 applies to the supply of the floral arrangements. Misum needs to establish the market value of the vases as at 1 July 2001 which is the date on which the agreement is entered into. The market value of the four vases at this date is $1,100
 .
 202.
-Misum uses this market value to attribute GST on her supply of floral arrangements, even if the market value of the vases is different at the time she receives them.  She attributes $25 (that is, $1,100 x 1/11 x 1/4) GST on her supply of flowers to each quarter
+Misum uses this market value to attribute GST on her supply of floral arrangements, even if the market value of the vases is different at the time she receives them. She attributes $25 (that is, $1,100 x 1/11 x 1/4) GST on her supply of flowers to each quarter
 .
 [F68]
 Where the components are not readily identifiable
 203. Division 156 states that where the periodic or progressive components of a supply are not readily identifiable, they 'correspond to the proportion of the total consideration for the supply that the separate amounts of consideration represent'.
 [F69]
-204. However, where you receive non-monetary consideration, it may be difficult to identify the periodic components of the supply that you make by relying on the 'proportion of the total consideration that the separate amounts of consideration represent' because there are no separate amounts of consideration.  For example, where consideration is in the form of services provided continuously over a period you cannot identify separate amounts of consideration.  In these circumstances, the progressive or periodic components of the supply that you make correspond to your tax periods.
+204. However, where you receive non-monetary consideration, it may be difficult to identify the periodic components of the supply that you make by relying on the 'proportion of the total consideration that the separate amounts of consideration represent' because there are no separate amounts of consideration. For example, where consideration is in the form of services provided continuously over a period you cannot identify separate amounts of consideration. In these circumstances, the progressive or periodic components of the supply that you make correspond to your tax periods.
 Example 33 - components are not readily identifiable
 205.
-Jenny is an accountant and land developer and Robert is a surveyor.  Jenny agrees to provide Robert with a year's supply of accounting services to the value of $10,000.  In return, Robert provides Jenny with a year's supply of surveying services to the value of $10,000.  Both Jenny and Robert account for GST on a non-cash basis.  Jenny lodges GST returns on a monthly basis and Robert has quarterly tax periods
+Jenny is an accountant and land developer and Robert is a surveyor. Jenny agrees to provide Robert with a year's supply of accounting services to the value of $10,000. In return, Robert provides Jenny with a year's supply of surveying services to the value of $10,000. Both Jenny and Robert account for GST on a non-cash basis. Jenny lodges GST returns on a monthly basis and Robert has quarterly tax periods
 .
 206.
-The components of the supplies are not readily identifiable because the services are provided as and when required.  The progressive or periodic components of Jenny's supply correspond with her monthly tax periods, so that each month she attributes GST payable in respect of 1/12 of the GST inclusive market value of the total surveying services she receives over the year, that is, $10,000
+The components of the supplies are not readily identifiable because the services are provided as and when required. The progressive or periodic components of Jenny's supply correspond with her monthly tax periods, so that each month she attributes GST payable in respect of 1/12 of the GST inclusive market value of the total surveying services she receives over the year, that is, $10,000
 .
 207.
-Robert accounts for GST on a quarterly basis.  The periodic components of his supply correspond with his quarterly tax periods.  In each quarterly tax period, Robert attributes GST payable in respect of 1/4 of the GST inclusive market value of the total accounting services he receives from Jenny over the year, that is, $10,000
+Robert accounts for GST on a quarterly basis. The periodic components of his supply correspond with his quarterly tax periods. In each quarterly tax period, Robert attributes GST payable in respect of 1/4 of the GST inclusive market value of the total accounting services he receives from Jenny over the year, that is, $10,000
 .
 Adjustment events
 208. An adjustment event is any event that has the effect of:
@@ -886,16 +883,16 @@ cancelling a supply or an acquisition;
 changing the consideration for a supply or an acquisition; or
 •
 causing a supply or acquisition to become, or stop being, a taxable supply or creditable acquisition.
-209. When any of these events occur, you may have accounted for too much (or not enough) GST for a supply, or too much (or not enough) input tax credit for an acquisition.  If this is the case you may have to make an adjustment.
-210. An adjustment does not always arise from an adjustment event.  One of the requirements for an adjustment is that the GST on the supply, or the input tax credit on the acquisition, was attributable to an earlier tax period.
+209. When any of these events occur, you may have accounted for too much (or not enough) GST for a supply, or too much (or not enough) input tax credit for an acquisition. If this is the case you may have to make an adjustment.
+210. An adjustment does not always arise from an adjustment event. One of the requirements for an adjustment is that the GST on the supply, or the input tax credit on the acquisition, was attributable to an earlier tax period.
 [F71]
-Where the adjustment event occurs in the same period in which the GST on the supply or the input tax credit on the acquisition is attributable, this requirement is not met.  Changes in your GST payable or your input tax credits resulting from these adjustment events are accounted for in calculating your GST payable or your input tax credits for the period.  Where the event does not give rise to an adjustment, you do not need to issue an adjustment note.
+Where the adjustment event occurs in the same period in which the GST on the supply or the input tax credit on the acquisition is attributable, this requirement is not met. Changes in your GST payable or your input tax credits resulting from these adjustment events are accounted for in calculating your GST payable or your input tax credits for the period. Where the event does not give rise to an adjustment, you do not need to issue an adjustment note.
 [F72]
 211. In example 4 at paragraph 38 of this Ruling, Arthur and Bella agree to substitute goods for the $1,000 that Bella owes Arthur.
 [F73]
 In this example, the consideration for the supply made by Arthur to Bella has changed from monetary to non-monetary, and triggers an adjustment event.
 212. If this adjustment event has occurred in the same period in which the GST on the supply or the input tax credit on the acquisition is attributable, no adjustment arises.
-213. Also, if the adjustment event occurs in a later tax period, no adjustment arises where the GST inclusive market value of the goods provided by Bella is equal to $1,000.  However, an adjustment arises if the GST inclusive market value of the goods at the date of substitution differs from $1,000.
+213. Also, if the adjustment event occurs in a later tax period, no adjustment arises where the GST inclusive market value of the goods provided by Bella is equal to $1,000. However, an adjustment arises if the GST inclusive market value of the goods at the date of substitution differs from $1,000.
 [F74]
 Adjustment for bad debts under Division 21
 214. Subsection 21-5(1) provides that you have a decreasing adjustment if:
@@ -906,9 +903,9 @@ the whole or part of the consideration for the supply has not been received; and
 (c)
 you write off as bad the whole or a part of the debt, or the whole or a part of the debt has been overdue for 12 months or more.
 The amount of the decreasing adjustment is 1/11 of the amount written off, or 1/11 of the amount that has been overdue for 12 months or more, as the case requires.'
-215. However, according to subsection 21-5(2) you cannot have an adjustment under the section if you account on a cash basis.  For further information on the operation of Division 21, see Goods and Services Tax Ruling GSTR 2000/2 (Goods and services tax: adjustments for bad debts).
-216. 'Consideration' in paragraph 21-5(1)(b) has the meaning given by sections 9-15 and 9-17.  This meaning extends beyond monetary payments and includes payments, acts and forbearances.
-217. Paragraph 21-5(1)(c) limits the operation of Division 21 to 'debts', that have been wholly or partly written off as bad, or that have been wholly or partly overdue for 12 months or more.  One view of paragraph 21-5(1)(c) is that the word 'debt' relates to and encompasses all 'consideration' referred to in paragraph 21-5(1)(b).  In other words, the intention of Division 21 is to cover non-monetary debts.  This view is consistent with the ordinary meaning of the term 'debt', being '1. that which is owed; that which one person is bound to pay to or perform for another.  2. a liability or obligation to pay or render something'.
+215. However, according to subsection 21-5(2) you cannot have an adjustment under the section if you account on a cash basis. For further information on the operation of Division 21, see Goods and Services Tax Ruling GSTR 2000/2 (Goods and services tax: adjustments for bad debts).
+216. 'Consideration' in paragraph 21-5(1)(b) has the meaning given by sections 9-15 and 9-17. This meaning extends beyond monetary payments and includes payments, acts and forbearances.
+217. Paragraph 21-5(1)(c) limits the operation of Division 21 to 'debts', that have been wholly or partly written off as bad, or that have been wholly or partly overdue for 12 months or more. One view of paragraph 21-5(1)(c) is that the word 'debt' relates to and encompasses all 'consideration' referred to in paragraph 21-5(1)(b). In other words, the intention of Division 21 is to cover non-monetary debts. This view is consistent with the ordinary meaning of the term 'debt', being '1. that which is owed; that which one person is bound to pay to or perform for another. 2. a liability or obligation to pay or render something'.
 [F75]
 218. However, this view is not consistent with some cases that were heard before the courts about the meaning of the term 'debt', that is, that unless there is an amount of money owed, there is no debt.
 [F76]
@@ -917,24 +914,24 @@ Under this stricter approach, Division 21 has no application at all in respect o
 G E Crane Sales Pty Ltd v. FC of T
 (1971) 126 CLR 177 considered the application of section 63 of the
 Income Tax Assessment Act 1936
-('ITAA 1936').  Menzies J stated at 186 that:
-'Now it is necessary to consider again the meaning of the word "debts" in s 63.  In my opinion a taxpayer cannot write off as a bad debt an amount that is no longer a debt.  "Debts", in my opinion, mean moneys that the taxpayer is presently entitled to receive, except in cases for which s 63(2) may make special provision.'
+('ITAA 1936'). Menzies J stated at 186 that:
+'Now it is necessary to consider again the meaning of the word "debts" in s 63. In my opinion a taxpayer cannot write off as a bad debt an amount that is no longer a debt. "Debts", in my opinion, mean moneys that the taxpayer is presently entitled to receive, except in cases for which s 63(2) may make special provision.'
 220. Although the Court was not asked to consider the possible application of section 63 of the ITAA 1936 to non-monetary receivables, the judicial definition of 'debt' provided by Menzies J clearly limits its meaning to 'moneys'.
 221. Until legislative amendments were made in 1998, bad debt relief was available under the UK
 Value Added Tax Act 1994
-('VAT Act') only where the consideration for the supply was 'in money.'  The 'in money' requirement was legislative and the availability of bad debt relief did not turn on the meaning of the word 'debt'.  This restriction was removed after the Court of Justice of the European Communities in
+('VAT Act') only where the consideration for the supply was 'in money.' The 'in money' requirement was legislative and the availability of bad debt relief did not turn on the meaning of the word 'debt'. This restriction was removed after the Court of Justice of the European Communities in
 Goldsmiths (Jewellers) Ltd v. Commissioners of Customs and Excise
 [1997] BVC 494 ruled that the UK provision that contained the 'in money' requirement was not a valid exercise of a power to derogate from the rule about overpaid VAT contained in Article 11(C)(1) of the Sixth Directive.
-222. The distinction between monetary and non-monetary consideration was subsequently removed from the UK law with effect from July 1998.  The requirement for a refund of the VAT (that unpaid consideration be written off in the supplier's accounts as a bad debt) is now extended to non-monetary receivables by way of a regulation made under a provision in the VAT Act.  Consideration may now be '
+222. The distinction between monetary and non-monetary consideration was subsequently removed from the UK law with effect from July 1998. The requirement for a refund of the VAT (that unpaid consideration be written off in the supplier's accounts as a bad debt) is now extended to non-monetary receivables by way of a regulation made under a provision in the VAT Act. Consideration may now be '
 taken to have been written off as a bad debt'
 .
 [F77]
-223. The development of the UK law in this regard does not challenge the strict legal meaning of the term 'debt', but extends bad debt relief to situations where consideration takes a non-monetary form.  It is noteworthy that our GST legislation expressly does not restrict adjustments for bad debts to circumstances where there is only consideration that is 'in money', as did the VAT Act.
-224. In this Ruling, we take the view that Division 21 includes within the ordinary meaning of the term 'debt', non-monetary consideration that has not been received.  To do otherwise would produce unintended and anomalous outcomes.  For example, an entity that has attributed GST for its taxable supply would not be able to claim a decreasing adjustment where the recipient has failed to provide any or all of the non-monetary consideration.  Further, where the recipient of the supply has claimed an input tax credit for the acquisition, there will be no increasing adjustment, despite the recipient not providing any or all of the non-monetary consideration.
-225. We are of the view that, unless the GST Act indicates otherwise, monetary and non-monetary consideration should be treated on the same basis.  This approach gives practical effect to the intention of the GST Act and is consistent with a common sense and equitable outcome.
+223. The development of the UK law in this regard does not challenge the strict legal meaning of the term 'debt', but extends bad debt relief to situations where consideration takes a non-monetary form. It is noteworthy that our GST legislation expressly does not restrict adjustments for bad debts to circumstances where there is only consideration that is 'in money', as did the VAT Act.
+224. In this Ruling, we take the view that Division 21 includes within the ordinary meaning of the term 'debt', non-monetary consideration that has not been received. To do otherwise would produce unintended and anomalous outcomes. For example, an entity that has attributed GST for its taxable supply would not be able to claim a decreasing adjustment where the recipient has failed to provide any or all of the non-monetary consideration. Further, where the recipient of the supply has claimed an input tax credit for the acquisition, there will be no increasing adjustment, despite the recipient not providing any or all of the non-monetary consideration.
+225. We are of the view that, unless the GST Act indicates otherwise, monetary and non-monetary consideration should be treated on the same basis. This approach gives practical effect to the intention of the GST Act and is consistent with a common sense and equitable outcome.
 Example 34 - non-monetary debt
 226.
-Jared entered into an agreement with Lachlan to supply cameras in consideration for advertising services.  Jared recorded the transaction in his accounts and (accounting on a non-cash basis) attributed the whole of the GST payable on the supply of cameras to the tax period in which Lachlan first provided some of the advertising services.  However, Lachlan provided only part of the advertising services before going bankrupt
+Jared entered into an agreement with Lachlan to supply cameras in consideration for advertising services. Jared recorded the transaction in his accounts and (accounting on a non-cash basis) attributed the whole of the GST payable on the supply of cameras to the tax period in which Lachlan first provided some of the advertising services. However, Lachlan provided only part of the advertising services before going bankrupt
 .
 227.
 Jared is entitled to a decreasing adjustment under Division 21 when the outstanding advertising services are written off as bad or become overdue for 12 months or more
@@ -942,7 +939,7 @@ Jared is entitled to a decreasing adjustment under Division 21 when the outstand
 Record keeping requirements
 228. Section 382-5 of Schedule 1 to the
 Taxation Administration Act 1953
-sets out record keeping requirements of indirect tax transactions.  Records that explain indirect tax transactions and acts relevant to the supply, importation, acquisition and dealing need to be retained for at least five years after the completion of the transactions or acts to which they relate.  You need to retain records that explain how you worked out the GST inclusive market value of any non-monetary consideration.
+sets out record keeping requirements of indirect tax transactions. Records that explain indirect tax transactions and acts relevant to the supply, importation, acquisition and dealing need to be retained for at least five years after the completion of the transactions or acts to which they relate. You need to retain records that explain how you worked out the GST inclusive market value of any non-monetary consideration.
 Detailed contents list
 229. Below is a detailed content list for this Ruling:
 Paragraph
@@ -1139,17 +1136,17 @@ Footnotes
 [F1A]
 1A Refer to this Addendum to see how it amends this Ruling.
 [F2]
-2 "The word 'payment' in itself is one which ... may cover many ways of discharging obligations.  It may even ... include a discharge, not by money payment at all, but by what is called 'payment in kind'" (per Lord Evershed in White v. Elmdene Estates [1959] 2 All ER 605).
+2 "The word 'payment' in itself is one which ... may cover many ways of discharging obligations. It may even ... include a discharge, not by money payment at all, but by what is called 'payment in kind'" (per Lord Evershed in White v. Elmdene Estates [1959] 2 All ER 605).
 [F3]
 3 Section 9-70.
 [F4]
-4 See Goods and Services Tax Ruling GSTR 2000/29 (Goods and services tax:  attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25) for the basic rules on attribution.
+4 See Goods and Services Tax Ruling GSTR 2000/29 (Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25) for the basic rules on attribution.
 [F5]
-5 This view is supported by the comments of McLelland CJ. in Solomon Pacific Resources NV v Acacia Resources Ltd (No 2) (1996) 14 ACLC 637 at 684.  'In the case of an honest arms-length transaction, it could generally be presumed that no discrepancy (such as between the value of the Solpac shares to be acquired and the fair value of the Acacia shares to be issued) would exist, and it could not be supposed that one party would be willing to acquire property for a consideration significantly greater than the perceived value to the acquirer of the property acquired.'
+5 This view is supported by the comments of McLelland CJ. in Solomon Pacific Resources NV v Acacia Resources Ltd (No 2) (1996) 14 ACLC 637 at 684. 'In the case of an honest arms-length transaction, it could generally be presumed that no discrepancy (such as between the value of the Solpac shares to be acquired and the fair value of the Acacia shares to be issued) would exist, and it could not be supposed that one party would be willing to acquire property for a consideration significantly greater than the perceived value to the acquirer of the property acquired.'
 [F6]
 6 Section 9-70.
 [F7]
-7 However, in some limited instances, determining the GST inclusive market value of the supply may be an acceptable method for working out the GST inclusive market value of the consideration.  Refer to paragraphs 138 to 158 of this Ruling for a discussion of this issue.
+7 However, in some limited instances, determining the GST inclusive market value of the supply may be an acceptable method for working out the GST inclusive market value of the consideration. Refer to paragraphs 138 to 158 of this Ruling for a discussion of this issue.
 [F8]
 8 The GST consequences of Lil's supply is discussed at paragraph's 133 to 134 of this Ruling.
 [F9]
@@ -1159,21 +1156,21 @@ Footnotes
 [F11]
 11 In Burrill v. Federal Commissioner of Taxation (1996) 33 ATR 133; 96 ATC 4629, that dealt with subsection 21(1) of the Income Tax Assessment Act 1936, the Full Federal Court held that a promise to pay money in the form of bonds issued by a government entity where the face value is to be paid over a number of years is not consideration 'in kind', and although it is not actually money, it 'sounds in money'.
 [F12]
-12 In section 195-1, 'amount' includes a nil amount.  An amount of money includes a nil amount of money.
+12 In section 195-1, 'amount' includes a nil amount. An amount of money includes a nil amount of money.
 [F13]
-13 As the consideration has changed from monetary to non-monetary, an adjustment event has occurred.  However, no adjustment is necessary where the value of the consideration has not changed.  Refer to paragraphs 208 to 213 of this Ruling.
+13 As the consideration has changed from monetary to non-monetary, an adjustment event has occurred. However, no adjustment is necessary where the value of the consideration has not changed. Refer to paragraphs 208 to 213 of this Ruling.
 [F14]
-14 If Lauren has issued an invoice for the supply of her goods that was subsequently cancelled, an adjustment event has occurred.  Refer to paragraphs 208 to 213 of this Ruling for a discussion of adjustment events.
+14 If Lauren has issued an invoice for the supply of her goods that was subsequently cancelled, an adjustment event has occurred. Refer to paragraphs 208 to 213 of this Ruling for a discussion of adjustment events.
 [F15]
 15 For the determination under paragraph 29-25(2)(e), see Schedule 5 of Goods and Services Tax Ruling GSTR 2000/29 (Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25).
 [F16]
-16 For the purposes of this example, it is assumed that Subdivision 38-J does not apply to make the supply of the business GST-free.  For example, they have not agreed in writing that the supply is of a going concern, under paragraph 38-325(1)(c).
+16 For the purposes of this example, it is assumed that Subdivision 38-J does not apply to make the supply of the business GST-free. For example, they have not agreed in writing that the supply is of a going concern, under paragraph 38-325(1)(c).
 [F17]
 17 The basic rules for attribution in relation to the balance of the consideration is explained in Schedule 5 of Goods and Services Tax Ruling GSTR 2000/29 (Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25).
 [F18]
 18 Paragraph 9-5(a).
 [F19]
-19 Subsection 9-15(1).  Also, as noted at paragraph 12, a reference to a 'payment' in this Ruling includes a reference to an act or forbearance.
+19 Subsection 9-15(1). Also, as noted at paragraph 12, a reference to a 'payment' in this Ruling includes a reference to an act or forbearance.
 [F20]
 20 Subsection 9-15(2).
 [F21]
@@ -1183,7 +1180,7 @@ Footnotes
 [F23]
 23 In Canada, tax is payable on 'the value of the consideration for the supply' [Excise Tax Act. R.S., c.E-13 subsection 165(1)].
 [F24]
-24 The Sixth VAT Directive of the European Council ('Sixth Directive') [EC Council Directive 77/388 of 17 May 1977 on the harmonisation of the laws of the member states relating to turnover taxes - Common system of value added tax:  uniform basis of assessment].
+24 The Sixth VAT Directive of the European Council ('Sixth Directive') [EC Council Directive 77/388 of 17 May 1977 on the harmonisation of the laws of the member states relating to turnover taxes - Common system of value added tax: uniform basis of assessment].
 [F25]
 25 See, for example, Apple and Pear Development Council v. Customs and Excise Commissioners [1988] BTC 5116.
 [F26]
@@ -1195,7 +1192,7 @@ Footnotes
 [F29]
 29 Paragraph 9-5(a).
 [F30]
-30 Compare paragraph 11-5(c) - one of the requirements of a creditable acquisition is that you provide consideration for the supply.  In addition, the meaning of 'supply' itself adopts the expression 'consideration for a supply'.
+30 Compare paragraph 11-5(c) - one of the requirements of a creditable acquisition is that you provide consideration for the supply. In addition, the meaning of 'supply' itself adopts the expression 'consideration for a supply'.
 [F31]
 31 For example paragraph 9-5(a).
 [F32]
@@ -1229,7 +1226,7 @@ Footnotes
 [F46]
 46 The GST payable on the supply of the bicycle is $50; see GST calculation table at paragraph 21 of this Ruling.
 [F47]
-47 Paragraph 9-75(1)(b).  'GST inclusive market value' is defined in section 195-1.
+47 Paragraph 9-75(1)(b). 'GST inclusive market value' is defined in section 195-1.
 [F48]
 48 Refer footnote 5 for comments of McLelland J. in Solomon Pacific Resources NV v Acacia Resources Ltd (No 2) (1996) 14 ACLC 637.
 [F49]
@@ -1264,7 +1261,7 @@ Footnotes
 63 See paragraph 12 of this Ruling.
 [F63A]
 63A See Goods and Services Tax Ruling GSTR 2013/1
-Goods and services tax:  tax invoices
+Goods and services tax: tax invoices
 for an explanation of the requirements for a tax invoice and an RCTI.
 [F64]
 64 See Goods and Services Tax Ruling GSTR 2000/29 (Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25) for the basic rules on attribution.
@@ -1281,7 +1278,7 @@ for an explanation of the requirements for a tax invoice and an RCTI.
 [F70]
 70 Subsection 19-10(1).
 [F71]
-71 For a supply, see paragraph 19-40(b).  For an acquisition, see paragraph 19-70(b).
+71 For a supply, see paragraph 19-40(b). For an acquisition, see paragraph 19-70(b).
 [F72]
 72 A more detailed explanation of adjustment events and adjustments is contained in Goods and Services Tax Ruling GSTR 2000/19 (Goods and services tax: making adjustments under Division 19 for adjustment events).
 [F73]
@@ -1291,13 +1288,13 @@ for an explanation of the requirements for a tax invoice and an RCTI.
 [F75]
 75 The Macquarie Dictionary, 1997 third edition.
 [F76]
-76 See, for example, G E Crane Sales Pty Ltd v. FC of T (1971) 126 CLR 177 and Director of Public Prosecutions v. Turner [1973] 3 All ER 124.  However, these cases did not deal with whether non-monetary consideration, that has not been received, is a debt.
+76 See, for example, G E Crane Sales Pty Ltd v. FC of T (1971) 126 CLR 177 and Director of Public Prosecutions v. Turner [1973] 3 All ER 124. However, these cases did not deal with whether non-monetary consideration, that has not been received, is a debt.
 [F77]
 77 Regulation 172 of the Value Added Tax Regulations 1995.
 Previously released in draft form as GSTR 2001/D5
 References
 ATO references:
-NO  T2001/4452
+NO T2001/4452
 ISSN: 1443-5360
 Related Rulings/Determinations:
 GSTR 2000/2
@@ -1337,60 +1334,60 @@ taxable supplies
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A99  9-5
-ANTS(GST)A99  9-5(a)
-ANTS(GST)A99  9-10(4)
-ANTS(GST)A99  9-15
-ANTS(GST)A99  9-15(1)
-ANTS(GST)A99  9-15(2)
-ANTS(GST)A99  9-17
-ANTS(GST)A99  9-17(2)
-ANTS(GST)A99  9-70
-ANTS(GST)A99  9-75
-ANTS(GST)A99  9-75(1)
-ANTS(GST)A99  9-75(1)(a)
-ANTS(GST)A99  9-75(1)(b)
-ANTS(GST)A99  9-75(2)
-ANTS(GST)A99  9-75(3)
-ANTS(GST)A99  9-80
-ANTS(GST)A99  9-85(2)
-ANTS(GST)A99  11-5(c)
-ANTS(GST)A99  Div 19
-ANTS(GST)A99  19-10(1)
-ANTS(GST)A99  19-10(1)(b)
-ANTS(GST)A99  19-40(b)
-ANTS(GST)A99  19-70(b)
-ANTS(GST)A99  Div 21
-ANTS(GST)A99  21-5(1)
-ANTS(GST)A99  21-5(1)(b)
-ANTS(GST)A99  21-5(1)(c)
-ANTS(GST)A99  21-5(2)
-ANTS(GST)A99  Div 29
-ANTS(GST)A99  29-5
-ANTS(GST)A99  29-5(1)
-ANTS(GST)A99  29-5(1)(b)
-ANTS(GST)A99  29-10
-ANTS(GST)A99  29-10(1)
-ANTS(GST)A99  29-10(1)(b)
-ANTS(GST)A99  29-25
-ANTS(GST)A99  29-25(2)(e)
-ANTS(GST)A99  29-70(1)
-ANTS(GST)A99  38-2
-ANTS(GST)A99  Subdiv 38-J
-ANTS(GST)A99  38-325(1)(c)
-ANTS(GST)A99  Div 72
-ANTS(GST)A99  72-10
-ANTS(GST)A99  72-70(1)
-ANTS(GST)A99  Div 156
-ANTS(GST)A99  156-5(2)
-ANTS(GST)A99  195-1
-TAA 1953  Sch 1 105-60
-TAA 1953  Sch 1 382-5
-ITAA 1936  21(1)
-ITAA 1936  84 (former)
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-5(a)
+ANTS(GST)A99 9-10(4)
+ANTS(GST)A99 9-15
+ANTS(GST)A99 9-15(1)
+ANTS(GST)A99 9-15(2)
+ANTS(GST)A99 9-17
+ANTS(GST)A99 9-17(2)
+ANTS(GST)A99 9-70
+ANTS(GST)A99 9-75
+ANTS(GST)A99 9-75(1)
+ANTS(GST)A99 9-75(1)(a)
+ANTS(GST)A99 9-75(1)(b)
+ANTS(GST)A99 9-75(2)
+ANTS(GST)A99 9-75(3)
+ANTS(GST)A99 9-80
+ANTS(GST)A99 9-85(2)
+ANTS(GST)A99 11-5(c)
+ANTS(GST)A99 Div 19
+ANTS(GST)A99 19-10(1)
+ANTS(GST)A99 19-10(1)(b)
+ANTS(GST)A99 19-40(b)
+ANTS(GST)A99 19-70(b)
+ANTS(GST)A99 Div 21
+ANTS(GST)A99 21-5(1)
+ANTS(GST)A99 21-5(1)(b)
+ANTS(GST)A99 21-5(1)(c)
+ANTS(GST)A99 21-5(2)
+ANTS(GST)A99 Div 29
+ANTS(GST)A99 29-5
+ANTS(GST)A99 29-5(1)
+ANTS(GST)A99 29-5(1)(b)
+ANTS(GST)A99 29-10
+ANTS(GST)A99 29-10(1)
+ANTS(GST)A99 29-10(1)(b)
+ANTS(GST)A99 29-25
+ANTS(GST)A99 29-25(2)(e)
+ANTS(GST)A99 29-70(1)
+ANTS(GST)A99 38-2
+ANTS(GST)A99 Subdiv 38-J
+ANTS(GST)A99 38-325(1)(c)
+ANTS(GST)A99 Div 72
+ANTS(GST)A99 72-10
+ANTS(GST)A99 72-70(1)
+ANTS(GST)A99 Div 156
+ANTS(GST)A99 156-5(2)
+ANTS(GST)A99 195-1
+TAA 1953 Sch 1 105-60
+TAA 1953 Sch 1 382-5
+ITAA 1936 21(1)
+ITAA 1936 84 (former)
 GSTA 1985(NZ) 2(1)
-Value Added Tax Regulations 1995 (UK)  172
-Excise Tax Act (Canada)  165(1)
+Value Added Tax Regulations 1995 (UK) 172
+Excise Tax Act (Canada) 165(1)
 Sixth Council Directive 11(A)(1)(a)
 Sixth Council Directive 11(C)(1)
 Case References:

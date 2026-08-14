@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  An ICA company that uses a tax loss made available under section IC 5 (Company B using company A’s tax loss) by another company has an imputation credit for the amount of an imputation credit transferred to it by an ICA company under an election under section OB 83 relating to the tax loss.
+**(1)**  An ICA company that uses a tax loss made available under section IC 5 (Company B using company A's tax loss) by another company has an imputation credit for the amount of an imputation credit transferred to it by an ICA company under an election under section OB 83 relating to the tax loss.
 
 **Table reference**
 

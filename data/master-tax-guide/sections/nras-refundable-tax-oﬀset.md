@@ -13,7 +13,7 @@ Offsets claimable directly An individual, corporate tax entity (ie a company, co
 
 - the Housing Secretary has issued the entity with a certiﬁcate in relation to an NRAS year, other
 
-  than in the entity’s capacity as the NRAS approved participant in an NRAS consortium, and
+  than in the entity's capacity as the NRAS approved participant in an NRAS consortium, and
 
 - the income year begins in the NRAS year (¶20-600) to which the certiﬁcate relates (s 380-5).
 
@@ -33,7 +33,7 @@ If an individual, corporate tax entity or superannuation fund is a party to an N
 
 An NRAS consortium is a consortium, joint venture, or non-entity joint venture established by one or more contractual arrangements that facilitate the leasing of NRAS dwellings (s 995-1).
 
-The amount of the oﬀset per dwelling that such an entity may claim is the amount stated in the certiﬁcate for the rental dwelling apportioned by the NRAS rent derived by the entity from the dwelling for the income year and the total NRAS rent derived from the rental dwelling for the income year. The amounts per dwelling are summed to work out the total amount of the entity’s (ie the individual’s, corporate tax entity’s, or superannuation fund’s) oﬀset.
+The amount of the oﬀset per dwelling that such an entity may claim is the amount stated in the certiﬁcate for the rental dwelling apportioned by the NRAS rent derived by the entity from the dwelling for the income year and the total NRAS rent derived from the rental dwelling for the income year. The amounts per dwelling are summed to work out the total amount of the entity's (ie the individual's, corporate tax entity's, or superannuation fund's) oﬀset.
 
 Offset claimable indirectly An entity may indirectly derive NRAS rent from a rental dwelling, as a partner of a partnership or a beneﬁciary of a trust. In this situation, the oﬀset ﬂows through the partnership or trust to the partners or beneﬁciaries. An entity is entitled to claim its share of the refundable tax oﬀset consistent with its share of rental income from its participation in the NRAS through the trust or partnership (s 380-15).
 
@@ -59,15 +59,15 @@ Offset claimable indirectly An entity may indirectly derive NRAS rent from a ren
 
   offset
 
-- the trustee of a trust that is liable to be assessed on a share of, or all or a part of, the trust’s net
+- the trustee of a trust that is liable to be assessed on a share of, or all or a part of, the trust's net
 
   income under ITAA36 s 98, 99 or 99A for that income year, or
 
 - a superannuation fund, an approved deposit fund, or a pooled superannuation trust.
 
-The amount of the oﬀset that the partner or beneﬁciary is entitled to claim is equal to the amount stated in the certiﬁcate apportioned by the partner’s or beneﬁciary’s share of NRAS rent derived from a dwelling for the income year and the total NRAS rent derived from rental dwellings covered by the certiﬁcate for the relevant income year.
+The amount of the oﬀset that the partner or beneﬁciary is entitled to claim is equal to the amount stated in the certiﬁcate apportioned by the partner's or beneﬁciary's share of NRAS rent derived from a dwelling for the income year and the total NRAS rent derived from rental dwellings covered by the certiﬁcate for the relevant income year.
 
-A beneﬁciary of a trust cannot receive NRAS rent indirectly in any year that the trust has no net income. In this situation, the trustee may be able to claim the oﬀset under s 380-20. The amount of the oﬀset that the trustee is entitled to claim is the trust’s relevant share of the amount stated in the certiﬁcate.
+A beneﬁciary of a trust cannot receive NRAS rent indirectly in any year that the trust has no net income. In this situation, the trustee may be able to claim the oﬀset under s 380-20. The amount of the oﬀset that the trustee is entitled to claim is the trust's relevant share of the amount stated in the certiﬁcate.
 
 Election to allow investors to claim NRAS tax offset Some NRAS consortia may be structured in such a way that members receive rent which cannot be classiﬁed as NRAS rent. The NRAS approved participant (or a partnership or trust treated as the NRAS approved participant) may make an irrevocable election to transfer its entitlement to the tax oﬀset to such members in proportion to the rent derived by the member (s 380-12). In this situation, it is the rent (net of any management fees and commission retained) that is used as the basis of apportionment. The entity making the election is not entitled to the tax oﬀset. Any NRAS rent retained as a management fee or commission is treated as being passed to the other member(s).
 

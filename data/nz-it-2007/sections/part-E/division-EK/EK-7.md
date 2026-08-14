@@ -26,9 +26,9 @@ compilation_date: 2026-06-06
 
 **(4)**  Payment is the lesser of—
 
-- (a) the person’s payment to the Commissioner under section EK 2 for the income year; and
+- (a) the person's payment to the Commissioner under section EK 2 for the income year; and
 
-- (b) the person’s maximum payment for the income year.
+- (b) the person's maximum payment for the income year.
 
 **Tax rate**
 

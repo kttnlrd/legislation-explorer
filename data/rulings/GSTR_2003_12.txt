@@ -4,18 +4,16 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 100
-  • Div 358
-  • Div 9
-  • Div 93
-  • Division 100
-  • Division 358
-  • Division 9
-  • Division 93
+ • Div 100
+ • Div 358
+ • Div 9
+ • Div 93
+ • Division 100
+ • Division 358
+ • Division 9
+ • Division 93
 
 Topics: GST, Companies
-
-
 
 ================================================================================
 
@@ -30,7 +28,7 @@ Back to browse
 44 related documents
 Goods and Services Tax Ruling
 GSTR 2003/12
-Goods and services tax:  when consideration is provided and received for various payment instruments and other methods of payment
+Goods and services tax: when consideration is provided and received for various payment instruments and other methods of payment
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
@@ -76,12 +74,12 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note:  This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling describes the various payment instruments and methods of payment that may be used in transactions, and provides guidelines to help you decide when you have provided or received consideration for a supply.
 2. Section 29-5 of the
 A New Tax System (Goods and Services Tax) Act 1999
-(the GST Act) sets out the rules for attributing GST payable by you on your taxable supplies.  Section 29-10 of the GST Act sets out the rules for attributing input tax credits to which you are entitled for your creditable acquisitions.  All legislative references in this Ruling are to the GST Act, unless otherwise stated.
+(the GST Act) sets out the rules for attributing GST payable by you on your taxable supplies. Section 29-10 of the GST Act sets out the rules for attributing input tax credits to which you are entitled for your creditable acquisitions. All legislative references in this Ruling are to the GST Act, unless otherwise stated.
 3. This Ruling does not discuss adjustment events which may arise following the provision or receipt of consideration.
 4. This Ruling does not deal with financial supplies.
 5. In relation to vouchers, this Ruling deals only with the timing of consideration.
@@ -93,14 +91,14 @@ Date of effect
 [1A]
 9. [Omitted.]
 Previous ruling
-10. This Ruling replaces Goods and Services Tax Ruling GSTR 2000/23.  GSTR 2000/23 is withdrawn with effect from the date of issue of this Ruling.  You can rely upon GSTR 2000/23 until the date of issue of this Ruling.  This means that if you have relied on GSTR 2000/23 to determine when consideration is provided and received using a particular payment instrument, then you are protected in respect of that treatment for transactions that happened prior to the release of this Ruling.
+10. This Ruling replaces Goods and Services Tax Ruling GSTR 2000/23. GSTR 2000/23 is withdrawn with effect from the date of issue of this Ruling. You can rely upon GSTR 2000/23 until the date of issue of this Ruling. This means that if you have relied on GSTR 2000/23 to determine when consideration is provided and received using a particular payment instrument, then you are protected in respect of that treatment for transactions that happened prior to the release of this Ruling.
 Background
 Consideration
 11. Before you can attribute GST in relation to taxable supplies that you make, it is necessary to determine whether a payment received in relation to a supply is consideration for the supply.
 12. Similarly, you can only attribute the input tax credits in relation to your creditable acquisitions where the payment made in relation to an acquisition is consideration for the acquisition.
 13. The dictionary to the GST Act defines 'consideration, for a supply or acquisition' as 'any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply or acquisition'.
 [1]
-14. Section 9-15 expands on the meaning of 'consideration for a supply'.  Consideration includes any payment, act or forbearance in connection with, in response to, or for the inducement of, a supply of anything.
+14. Section 9-15 expands on the meaning of 'consideration for a supply'. Consideration includes any payment, act or forbearance in connection with, in response to, or for the inducement of, a supply of anything.
 [2]
 Consideration may be provided voluntarily, or by someone other than the recipient of the supply.
 [3]
@@ -138,7 +136,7 @@ You attribute the input tax credit to the first tax period for which you have a 
 [9]
 20A. If the BAS for a tax period states a net amount that does not take into account an input tax credit attributable to that tax period, the input tax credit may be attributable to a later tax period under subsection 29 10(4) (subject to the four year time limit contained in Division 93).
 [9A]
-21. The Commissioner may, under section 29-25, determine, in writing, the tax period or periods to which GST payable, input tax credits and adjustments for taxable supplies and creditable acquisitions of certain kinds are attributable.  The Commissioner can only make a determination under section 29-25, if satisfied that the application of the basic attribution rules and any relevant special rules under the GST Act would produce an inappropriate result.
+21. The Commissioner may, under section 29-25, determine, in writing, the tax period or periods to which GST payable, input tax credits and adjustments for taxable supplies and creditable acquisitions of certain kinds are attributable. The Commissioner can only make a determination under section 29-25, if satisfied that the application of the basic attribution rules and any relevant special rules under the GST Act would produce an inappropriate result.
 [10]
 22. Determining the accounting period in which consideration is provided or received is, therefore, central to attributing GST and input tax credits correctly.
 Ruling with explanation
@@ -150,109 +148,109 @@ Cheque
 Consideration is received by the supplier when the cheque is received, not when it is banked, or cleared.
 25. Taxation tribunals have considered the issue of when consideration in the form of a cheque is received in the income tax context, and have decided that the payment is received when the cheque is received.
 [12]
-26. The recipient of the supply provides payment when the cheque leaves their possession.  This is either when the cheque is handed to the supplier, or the supplier's agent, or when it is posted.
+26. The recipient of the supply provides payment when the cheque leaves their possession. This is either when the cheque is handed to the supplier, or the supplier's agent, or when it is posted.
 27. When a payment is made by way of a post-dated cheque, consideration is both provided and received on the date stated on the cheque.
 [13]
 A post-dated cheque can be negotiated as soon as it is drawn, although the bank is not obliged to pay on a post-dated cheque before the date specified on the cheque.
 28. Where a post-dated cheque is received subsequent to the date stipulated on the cheque, consideration is received when the cheque is received by the supplier.
-29. Travellers' cheques are not 'cheques' or 'bills of exchange'.  They are not unconditional orders to pay, as they require a countersignature to effect payment.  Where payment is made by way of travellers' cheque, consideration is both provided and received when the cheque is countersigned, as this is the point at which the order to pay becomes unconditional.
+29. Travellers' cheques are not 'cheques' or 'bills of exchange'. They are not unconditional orders to pay, as they require a countersignature to effect payment. Where payment is made by way of travellers' cheque, consideration is both provided and received when the cheque is countersigned, as this is the point at which the order to pay becomes unconditional.
 [14]
 Credit card
-30. When a payment is made by credit card in person, consideration is provided and received when the recipient of the supply signs the docket to authorise the transaction.  When a payment is made remotely (for example, by telephone or through the Internet), the consideration is provided and received when the cardholder gives the card number and other required details.
+30. When a payment is made by credit card in person, consideration is provided and received when the recipient of the supply signs the docket to authorise the transaction. When a payment is made remotely (for example, by telephone or through the Internet), the consideration is provided and received when the cardholder gives the card number and other required details.
 31. Under the usual arrangement for credit cards, once the cardholder signs the credit card voucher or provides the card number and other details, the liability to pay the supplier is unconditionally discharged.
 Debit card [EFTPOS]
-32. Where payment is made using a debit card [EFTPOS], consideration is both provided and received when the transaction is accepted by the system.  This is usually when the point of sale machine accepts the transaction.  A debit card transaction is only accepted by the system when funds are available for transfer.
+32. Where payment is made using a debit card [EFTPOS], consideration is both provided and received when the transaction is accepted by the system. This is usually when the point of sale machine accepts the transaction. A debit card transaction is only accepted by the system when funds are available for transfer.
 Direct credit
-33. Direct credit transactions are initiated by the recipient of the supply.  Consideration is provided on the date the payment is authorised by the recipient, and consideration is received when the payment is credited to the supplier's account.
-34. Direct credit transactions provide electronic funds transfer from the recipient's transaction accounts or credit accounts to the account of the supplier.  The recipient of the supply authorises the payment to be made on a specified day, this being when consideration is provided.  The supplier receives the payment when the amount is credited to their account.
+33. Direct credit transactions are initiated by the recipient of the supply. Consideration is provided on the date the payment is authorised by the recipient, and consideration is received when the payment is credited to the supplier's account.
+34. Direct credit transactions provide electronic funds transfer from the recipient's transaction accounts or credit accounts to the account of the supplier. The recipient of the supply authorises the payment to be made on a specified day, this being when consideration is provided. The supplier receives the payment when the amount is credited to their account.
 Direct debit
-35. Direct debit transactions are initiated by the entity that makes the supply.  Consideration is both provided and received at the time of the transfer.  In order to identify the date correctly, the recipient of the supply should refer to the relevant documents such as bank statements.
-36. As the supplier initiates the direct debit transaction, the consideration is received when the supplier makes the transfer from the transaction or credit accounts of the recipient.  However, the recipient may be unaware that the transfer has been made, or of the amount of the transfer.  In order to correctly account for the payment, the recipient of the supply may need to refer to statements from the financial institution, or other documents (such as accounts owing) to confirm these details.
+35. Direct debit transactions are initiated by the entity that makes the supply. Consideration is both provided and received at the time of the transfer. In order to identify the date correctly, the recipient of the supply should refer to the relevant documents such as bank statements.
+36. As the supplier initiates the direct debit transaction, the consideration is received when the supplier makes the transfer from the transaction or credit accounts of the recipient. However, the recipient may be unaware that the transfer has been made, or of the amount of the transfer. In order to correctly account for the payment, the recipient of the supply may need to refer to statements from the financial institution, or other documents (such as accounts owing) to confirm these details.
 Interbank transfer
-37. Payments made by interbank transfer are usually of a fixed amount and are made regularly on a date advised in advance (for example, $250 on the 23rd of each month).  Consideration is provided on a date authorised by the recipient of the supply and is received when the payment is credited to the supplier's account.
-38. Interbank transfers are authorised by the recipient of the supply, and are in the form of a direction to the financial institution to transfer a specified amount at a specified time on a regular basis.  The recipient of the supply stipulates when the transfer is to take place and the amount, and is taken to provide consideration at that time.  The amount may not actually be credited to the supplier's account until after the date authorised by the recipient, and the date of actual crediting is the date on which the supplier receives consideration.
+37. Payments made by interbank transfer are usually of a fixed amount and are made regularly on a date advised in advance (for example, $250 on the 23rd of each month). Consideration is provided on a date authorised by the recipient of the supply and is received when the payment is credited to the supplier's account.
+38. Interbank transfers are authorised by the recipient of the supply, and are in the form of a direction to the financial institution to transfer a specified amount at a specified time on a regular basis. The recipient of the supply stipulates when the transfer is to take place and the amount, and is taken to provide consideration at that time. The amount may not actually be credited to the supplier's account until after the date authorised by the recipient, and the date of actual crediting is the date on which the supplier receives consideration.
 Digital cash
 39. Where a payment is made using digital cash, between participants in such a system, consideration is both provided and received when the digital cash transfer takes place, either via the Internet or in a card to card transaction.
-40. Under a digital cash transaction, a transfer from recipient to supplier is instantaneous.  This is because of the nature of digital cash, and the limited environment in which it is currently used.
+40. Under a digital cash transaction, a transfer from recipient to supplier is instantaneous. This is because of the nature of digital cash, and the limited environment in which it is currently used.
 Voucher
 41. Where payment for a supply is made using a face value voucher (FVV)
 [15]
 consideration is both provided and received when the FVV is redeemed for supplies.
 [16]
-42. An FVV is treated under the special rules in Division 100.  Where the consideration for the supply of an FVV does not exceed its stated monetary value, the effect of the Division is that the supply of the FVV is not a taxable supply and is therefore not subject to GST.
+42. An FVV is treated under the special rules in Division 100. Where the consideration for the supply of an FVV does not exceed its stated monetary value, the effect of the Division is that the supply of the FVV is not a taxable supply and is therefore not subject to GST.
 43. Where an FVV is redeemed for a taxable supply, the consideration for the supply (that is, the face value of the voucher) is provided and received when the voucher is presented.
 Example 1 - face value voucher
 44.
-Jack purchases a $20 FVV from a retailer for cash, and gives it as a present to Regina.  Although consideration is given and received when Jack gives the cash to the retailer, no GST is payable as the supply of an FVV is not a taxable supply.
+Jack purchases a $20 FVV from a retailer for cash, and gives it as a present to Regina. Although consideration is given and received when Jack gives the cash to the retailer, no GST is payable as the supply of an FVV is not a taxable supply.
 45.
-Regina redeems the $20 FVV for goods with a price of $35.  She gives the retailer the FVV and $15 cash as consideration.  The consideration of $35 is provided and received when Regina presents the voucher and the cash to the retailer.
+Regina redeems the $20 FVV for goods with a price of $35. She gives the retailer the FVV and $15 cash as consideration. The consideration of $35 is provided and received when Regina presents the voucher and the cash to the retailer.
 46. A voucher which does not meet all the requirements of Division 100 is referred to as a non-face value voucher (non-FVV).
 [17]
-The supply of the non-FVV is a taxable supply if the requirements of Division 9 are met.  Any payment made constitutes consideration for the supply of the non-FVV.  The payment instrument used determines when such consideration is provided and received.
+The supply of the non-FVV is a taxable supply if the requirements of Division 9 are met. Any payment made constitutes consideration for the supply of the non-FVV. The payment instrument used determines when such consideration is provided and received.
 47. Where a non-FVV is redeemed for a supply, the consideration is limited to any consideration provided in addition to the non-FVV.
 [18]
-If no additional consideration is provided, there is no consideration for the supply.  Where additional consideration is payable, the timing of the provision and receipt of the additional consideration is determined by reference to the payment instrument used (for example, by cheque or credit card).
+If no additional consideration is provided, there is no consideration for the supply. Where additional consideration is payable, the timing of the provision and receipt of the additional consideration is determined by reference to the payment instrument used (for example, by cheque or credit card).
 Example 2 - non-face value voucher
 48.
-A group of movie cinemas sells movie vouchers.  A movie voucher can be exchanged for a ticket to any movie screening at one of the participating theatres at any session up to a specified date.  As no face value is shown on the movie voucher this is not an FVV.  GST is payable on the supply of the movie voucher.
+A group of movie cinemas sells movie vouchers. A movie voucher can be exchanged for a ticket to any movie screening at one of the participating theatres at any session up to a specified date. As no face value is shown on the movie voucher this is not an FVV. GST is payable on the supply of the movie voucher.
 49.
-Tony buys one of these vouchers.  Consideration is provided by Tony and received by the cinema when he gives the cash to the cinema.
+Tony buys one of these vouchers. Consideration is provided by Tony and received by the cinema when he gives the cash to the cinema.
 50.
-Tony gives the movie voucher to Cheryl.  At the cinema Cheryl decides to upgrade to Premium Class.  She presents the voucher, pays an additional $10 cash and receives the Premium Class ticket to the film she wants to see.  The consideration for the ticket is limited to any consideration provided in addition to the voucher.  The payment of $10 cash is additional consideration provided by Cheryl.  The additional consideration is both provided by Cheryl and received by the cinema when Cheryl gives $10 cash to the cashier at the ticket office.
+Tony gives the movie voucher to Cheryl. At the cinema Cheryl decides to upgrade to Premium Class. She presents the voucher, pays an additional $10 cash and receives the Premium Class ticket to the film she wants to see. The consideration for the ticket is limited to any consideration provided in addition to the voucher. The payment of $10 cash is additional consideration provided by Cheryl. The additional consideration is both provided by Cheryl and received by the cinema when Cheryl gives $10 cash to the cashier at the ticket office.
 Stored value card
-51. For the purpose of this Ruling, the term 'stored value card' refers to a product taking the form of a card where value is stored on the card itself.  Some stored value cards may be linked to accounts provided by an Australian authorised deposit-taking institution (ADI).
+51. For the purpose of this Ruling, the term 'stored value card' refers to a product taking the form of a card where value is stored on the card itself. Some stored value cards may be linked to accounts provided by an Australian authorised deposit-taking institution (ADI).
 Non-ADI stored value card
-52. The supply of a non-ADI stored value card, with no credit on it, is a taxable supply, if the requirements of Division 9 are met.    If you provide consideration to acquire the card, the time the consideration is provided and received is determined by the payment instrument used.
-53. Loading value onto a non-ADI stored value card may not be consideration for any supply.  When the card, loaded with value, is used to purchase a range of goods or services, consideration will be both provided and received at the time the card is used in payment for those goods or services.
+52. The supply of a non-ADI stored value card, with no credit on it, is a taxable supply, if the requirements of Division 9 are met. If you provide consideration to acquire the card, the time the consideration is provided and received is determined by the payment instrument used.
+53. Loading value onto a non-ADI stored value card may not be consideration for any supply. When the card, loaded with value, is used to purchase a range of goods or services, consideration will be both provided and received at the time the card is used in payment for those goods or services.
 Example 3 - non-ADI stored value card
 54.
-Haishin is a university student.  She purchases a stored value card, with no credit on it, from her student union for $5.50 which she pays for in cash.  She provides consideration for the supply of a card at the time she hands over the cash.   If the requirements of Division 9 are met, this is a taxable supply by the student union for which the consideration is $5.50.
+Haishin is a university student. She purchases a stored value card, with no credit on it, from her student union for $5.50 which she pays for in cash. She provides consideration for the supply of a card at the time she hands over the cash. If the requirements of Division 9 are met, this is a taxable supply by the student union for which the consideration is $5.50.
 55.
-Later, Haishin loads $20 value onto the card using the machine provided by the union for that purpose.  There is no supply when Haishin loads $20 value onto the card.  Haishin uses the card to purchase photocopying, car parking, and confectionary from vending machines on the university campus.  At the time she uses the card to pay for these goods and services, she provides, and the supplier receives, consideration for the supply.  The consideration is the amount by which the value on the card is depleted.
-56. Where you acquire a non-ADI stored value card on which value is already stored, and that card entitles you to certain specific goods or services, for example, a transit card, the supply of the card to you is a supply of rights to which sections 9-15 and 9-17 will apply.  The payment instrument used for the purchase of the rights attached to the card will determine when consideration is provided and received.
+Later, Haishin loads $20 value onto the card using the machine provided by the union for that purpose. There is no supply when Haishin loads $20 value onto the card. Haishin uses the card to purchase photocopying, car parking, and confectionary from vending machines on the university campus. At the time she uses the card to pay for these goods and services, she provides, and the supplier receives, consideration for the supply. The consideration is the amount by which the value on the card is depleted.
+56. Where you acquire a non-ADI stored value card on which value is already stored, and that card entitles you to certain specific goods or services, for example, a transit card, the supply of the card to you is a supply of rights to which sections 9-15 and 9-17 will apply. The payment instrument used for the purchase of the rights attached to the card will determine when consideration is provided and received.
 57. If the card that entitles you to certain specific goods or services is able to be recharged by the supplier for further consideration provided by you, the recharging of the card will be a further supply of rights to you, and will be treated in the same way as the initial purchase of the card.
-58. The supply of goods or services for which the card is utilised will not be a supply for consideration unless consideration in addition to the value on the card is provided.  In that case the payment instrument used (for example, by cheque, credit card) will determine when consideration is provided and received.
+58. The supply of goods or services for which the card is utilised will not be a supply for consideration unless consideration in addition to the value on the card is provided. In that case the payment instrument used (for example, by cheque, credit card) will determine when consideration is provided and received.
 Example 4 - non-ADI stored value card used for specific supplies
 59.
-Garth purchases a stored value card from his local council to pay for parking.  The card does not have a monetary value stated on it.  He pays $110 for the card and is told that at any time he can have the card recharged by calling the council and quoting them his credit card details.  Both the initial payment and any further recharge payments are consideration at the time he makes the payment.  When Garth uses the card to pay for parking, there is no consideration for the supply of parking.
+Garth purchases a stored value card from his local council to pay for parking. The card does not have a monetary value stated on it. He pays $110 for the card and is told that at any time he can have the card recharged by calling the council and quoting them his credit card details. Both the initial payment and any further recharge payments are consideration at the time he makes the payment. When Garth uses the card to pay for parking, there is no consideration for the supply of parking.
 ADI stored value card
 60. The supply of a stored value card, which is linked to an account with an ADI, is a financial supply for the purposes of item 1 in the table in subregulation 40-5.09(3).
 [19]
 The supply of a stored value card, which is linked to an account with an ADI, is therefore an input taxed financial supply.
 61. The transfer of funds to the stored value card from its linked ADI account is not consideration for any supply.
-62. A supply obtained by using this type of stored value card is taxable, input taxed, or GST-free, as the case may be.  The consideration for a supply obtained by use of this type of stored value card is the full amount of the consideration given, including the amount by which the value of the card is depleted.  The consideration is both provided and received at the time the transaction takes place.
+62. A supply obtained by using this type of stored value card is taxable, input taxed, or GST-free, as the case may be. The consideration for a supply obtained by use of this type of stored value card is the full amount of the consideration given, including the amount by which the value of the card is depleted. The consideration is both provided and received at the time the transaction takes place.
 Example 5 - stored value card linked to ADI
 63.
-For business purposes, Roseanne acquires a stored value card linked to the business account with her bank.  The supply of the stored value card for $20 cash is a financial supply.  The $20 consideration for the supply of the card is provided and received when the cash is handed over.
+For business purposes, Roseanne acquires a stored value card linked to the business account with her bank. The supply of the stored value card for $20 cash is a financial supply. The $20 consideration for the supply of the card is provided and received when the cash is handed over.
 64.
-Roseanne is able to transfer funds to the stored value card, and she allows staff to use it to purchase supplies for her florist shop from various wholesalers.  Roseanne can reload the card by transferring value to it from the business bank account when necessary.  When the card is used to make a payment, the amount by which the value on the stored value card is depleted is consideration provided and received at that time.  If there is insufficient value on the card to make a payment, and a cheque for the difference is provided, the additional consideration is both provided and received when the cheque is handed to the wholesaler.
+Roseanne is able to transfer funds to the stored value card, and she allows staff to use it to purchase supplies for her florist shop from various wholesalers. Roseanne can reload the card by transferring value to it from the business bank account when necessary. When the card is used to make a payment, the amount by which the value on the stored value card is depleted is consideration provided and received at that time. If there is insufficient value on the card to make a payment, and a cheque for the difference is provided, the additional consideration is both provided and received when the cheque is handed to the wholesaler.
 Barter scheme
-65. Barter schemes (sometimes referred to as barter exchanges or trade exchanges) utilise units, credits, trade dollars or barter dollars as a medium of exchange.  When a supply and acquisition is made between members of a barter or trade exchange and paid for by way of crediting the account with units, credits, trade dollars or barter dollars, the consideration is both received and provided when the recipient of the supply signs the docket or transaction slip to authorise the exchange to credit the supplier's account and debit its (the recipient's) account.
+65. Barter schemes (sometimes referred to as barter exchanges or trade exchanges) utilise units, credits, trade dollars or barter dollars as a medium of exchange. When a supply and acquisition is made between members of a barter or trade exchange and paid for by way of crediting the account with units, credits, trade dollars or barter dollars, the consideration is both received and provided when the recipient of the supply signs the docket or transaction slip to authorise the exchange to credit the supplier's account and debit its (the recipient's) account.
 66. When a payment is made remotely (for example, by telephone or through the Internet) using a membership card, consideration is provided and received when the member card holder gives the card number and other required details.
 Example 6 - barter scheme
 67.
-Lewis is a commercial artist who is a member of the Better Barter program.  Under the program, he provides his artistic services to various participants in the program and is credited with BBs.  Lewis uses his Better Barter card to purchase a new graphics package for his computer from a supplier who is also a member of the program.  For the purposes of the GST Act, the consideration for the supply is both provided and received when Lewis signs the docket authorising Better Barter to credit the supplier's account and debit his account.
+Lewis is a commercial artist who is a member of the Better Barter program. Under the program, he provides his artistic services to various participants in the program and is credited with BBs. Lewis uses his Better Barter card to purchase a new graphics package for his computer from a supplier who is also a member of the program. For the purposes of the GST Act, the consideration for the supply is both provided and received when Lewis signs the docket authorising Better Barter to credit the supplier's account and debit his account.
 Direct barter
 68. A direct barter
 [20]
-of goods or services can also occur (for example, A and B make supplies to each other, with A's supply being consideration for B's supply and vice versa).  A time lapse might occur between the two supplies.  Unless an earlier invoice has been issued, the supply that is made first will trigger the attribution of GST liabilities and input tax credits on the later supply, for which the first supply is consideration.
-69. When the current supply is made by A, A has both made a supply and provided consideration for B's supply while B has neither made a supply, nor provided consideration for A's supply.  At this point, unless an earlier invoice has been issued, any GST liabilities and input tax credit entitlements in relation to B's supply will become attributable to the current tax periods for A and B.  A may claim an input tax credit for any GST included in the consideration it has paid for B's supply.  Similarly, B has received a prepayment for its future supply, and therefore must account for GST on that supply.
+of goods or services can also occur (for example, A and B make supplies to each other, with A's supply being consideration for B's supply and vice versa). A time lapse might occur between the two supplies. Unless an earlier invoice has been issued, the supply that is made first will trigger the attribution of GST liabilities and input tax credits on the later supply, for which the first supply is consideration.
+69. When the current supply is made by A, A has both made a supply and provided consideration for B's supply while B has neither made a supply, nor provided consideration for A's supply. At this point, unless an earlier invoice has been issued, any GST liabilities and input tax credit entitlements in relation to B's supply will become attributable to the current tax periods for A and B. A may claim an input tax credit for any GST included in the consideration it has paid for B's supply. Similarly, B has received a prepayment for its future supply, and therefore must account for GST on that supply.
 70. The GST payable by B and the input tax credit entitlement of A are based on the value of the consideration paid by A for B's future supply, which is the GST-inclusive market value of A's supply. When B later makes its supply, A will have received consideration for its earlier supply, which will be equal to the GST-inclusive market value of B's supply.
 71. At this point, provided no invoices have previously triggered attribution, A must account for GST on its earlier supply and B may claim an input tax credit for the acquisition from A.
 72. The diagrams at Appendix 1 illustrate supplies made between A and B, with A's supply being consideration for B's supply and vice versa, and a time lapse occurring between the two supplies.
 Example 7 - direct barter
 73.
-Notorious Newspapers (Notorious) agrees to run an advertisement for Horatio Helpers Ltd (Horatio) in the newspaper it publishes.  In exchange, Horatio agrees to do some painting of additional offices into which Notorious will soon expand.  The advertisement is run in April.  Four months later, Horatio does the painting work as agreed.  When Notorious runs the advertisement, the supply of advertising space is a prepayment of consideration for the future supply of painting services by Horatio.  At the time Notorious makes its supply, Horatio has not yet provided, and Notorious has not yet received, any consideration.  The future supply by Horatio will be the consideration for Notorious's supply.
+Notorious Newspapers (Notorious) agrees to run an advertisement for Horatio Helpers Ltd (Horatio) in the newspaper it publishes. In exchange, Horatio agrees to do some painting of additional offices into which Notorious will soon expand. The advertisement is run in April. Four months later, Horatio does the painting work as agreed. When Notorious runs the advertisement, the supply of advertising space is a prepayment of consideration for the future supply of painting services by Horatio. At the time Notorious makes its supply, Horatio has not yet provided, and Notorious has not yet received, any consideration. The future supply by Horatio will be the consideration for Notorious's supply.
 74.
-When Notorious supplies the advertising space, it has both made a current supply and provided consideration for Horatio's future supply, while Horatio has neither made a supply, nor provided consideration for Notorious's supply.  At this point, unless an earlier invoice has been issued, any GST liabilities and input tax credit entitlements in relation to Horatio's future supply will become attributable to the current tax periods for Notorious and Horatio.  Notorious may claim an input tax credit for any GST included in the consideration it has paid for Horatio's supply.
+When Notorious supplies the advertising space, it has both made a current supply and provided consideration for Horatio's future supply, while Horatio has neither made a supply, nor provided consideration for Notorious's supply. At this point, unless an earlier invoice has been issued, any GST liabilities and input tax credit entitlements in relation to Horatio's future supply will become attributable to the current tax periods for Notorious and Horatio. Notorious may claim an input tax credit for any GST included in the consideration it has paid for Horatio's supply.
 75.
-Similarly, Horatio has received a prepayment for the future supply of painting services, and therefore must account for GST on that supply.  In both cases, the GST payable by Horatio and the input tax credit entitlement of Notorious are based on the value of the consideration paid by Notorious for Horatio's future supply, which is the GST-inclusive market value of the advertising supply.
+Similarly, Horatio has received a prepayment for the future supply of painting services, and therefore must account for GST on that supply. In both cases, the GST payable by Horatio and the input tax credit entitlement of Notorious are based on the value of the consideration paid by Notorious for Horatio's future supply, which is the GST-inclusive market value of the advertising supply.
 76.
-When Horatio later performs the painting services, Notorious will have received consideration for its earlier supply of advertising, which will be equal to the GST-inclusive market value of Horatio's painting services.  At this point, provided no invoices have previously triggered attribution, Notorious must account for GST on the advertising and Horatio may claim an input tax credit for the acquisition from Notorious.
+When Horatio later performs the painting services, Notorious will have received consideration for its earlier supply of advertising, which will be equal to the GST-inclusive market value of Horatio's painting services. At this point, provided no invoices have previously triggered attribution, Notorious must account for GST on the advertising and Horatio may claim an input tax credit for the acquisition from Notorious.
 Line of credit / overdraft
-77. Where a supply is made by a supplier who also provides a line of credit or overdraft facility (with interest accruing) to the recipient of the supply, and if the payment for the supply is reflected by an increase in the amount owing in relation to the debt facility, consideration is both provided and received at the time the increase in the debt is recorded in the accounts of the supplier.  Whether the line of credit or overdraft is provided by the supplier or another person is immaterial.
+77. Where a supply is made by a supplier who also provides a line of credit or overdraft facility (with interest accruing) to the recipient of the supply, and if the payment for the supply is reflected by an increase in the amount owing in relation to the debt facility, consideration is both provided and received at the time the increase in the debt is recorded in the accounts of the supplier. Whether the line of credit or overdraft is provided by the supplier or another person is immaterial.
 Sale on credit
-78. Where a supply is made on credit (for example, 30 days to pay), consideration is provided and received when an amount is paid, unless the arrangement is in the nature of a line of credit or overdraft as described in paragraph 77 of this ruling.  Consideration is provided and received when actual payment is made, and this is determined by the payment instrument used.
+78. Where a supply is made on credit (for example, 30 days to pay), consideration is provided and received when an amount is paid, unless the arrangement is in the nature of a line of credit or overdraft as described in paragraph 77 of this ruling. Consideration is provided and received when actual payment is made, and this is determined by the payment instrument used.
 Detailed contents list
 79. Below is a detailed contents list for this Goods and Services Tax Ruling:
 Paragraph
@@ -346,7 +344,7 @@ Subsection 9-15(1).
 Subsection 9-15(2).
 [4]
 Subsection 29-10(3). However, there may be circumstances where an input tax credit may be attributed to a tax period without the recipient holding a tax invoice. Further, a particular document can be treated as a tax invoice even if it does not meet all of the tax invoice requirements. See Goods and Services Tax Ruling GSTR 2013/1
-Goods and services tax:  tax invoices
+Goods and services tax: tax invoices
 for further information.
 [5]
 There is no requirement to hold a tax invoice if the value of the supply to you was $75 or less (subsection 29-80(1)).
@@ -356,7 +354,7 @@ Subsection 29-10(3).
 Under subsection 93-5(1) you cease to be entitled to an input tax credit for a creditable acquisition to the extent that the input tax credit has not been taken into account in your assessment of a net amount, within four years after the day you were required to lodge a GST return for the tax period to which the input tax credits would have been attributable under subsections 29-10(1) or 29-10(2). Further, section 93-15 denies entitlement to an input tax credit for a creditable acquisition if GST has ceased to be payable on the relevant supply and a tax invoice was not held at that time. However, you do not cease to be entitled to an input tax credit if section 93-10 is met.
 [7]
 Subsection 29-10(3). However, there may be circumstances where an input tax credit may be attributed to a tax period without the recipient holding a tax invoice. Further, a particular document can be treated as a tax invoice even if it does not meet all of the tax invoice requirements. See Goods and Services Tax Ruling GSTR 2013/1
-Goods and services tax:  tax invoices
+Goods and services tax: tax invoices
 for further information.
 [8]
 There is no requirement to hold a tax invoice if the value of the supply to you was $75 or less (subsection 29-80(1)).
@@ -383,23 +381,23 @@ Cheques and Payment Orders Act 1986).
 Riley's Annotated Bills of Exchange Act and Cheques and Payment Orders Act
 [Fourth Edition] Robson, Ken, The Law Book Company Limited 1994, p 313.
 [15]
-A face value voucher is a voucher which satisfies both sections 100-25 and 100-5.  See Goods and Services Tax Ruling GSTR 2003/5 which is about vouchers.
+A face value voucher is a voucher which satisfies both sections 100-25 and 100-5. See Goods and Services Tax Ruling GSTR 2003/5 which is about vouchers.
 [16]
-This is so, whether or not a third party later makes a reimbursement for the supply.  See paragraphs 139 to 156 of Goods and Services Tax Ruling GSTR 2003/5.
+This is so, whether or not a third party later makes a reimbursement for the supply. See paragraphs 139 to 156 of Goods and Services Tax Ruling GSTR 2003/5.
 [17]
 See paragraph 167 of Goods and Services Tax Ruling GSTR 2003/5 which is about vouchers.
 [18]
 Subsection 9-17(1).
 [19]
-See item 5 of Part 1 of Schedule 7 of the A New Tax System (Goods and Services Tax) Regulations 1999 which gives examples for item 1 in the table in subregulation 40-5.09(3).  A stored value card that is linked to an ADI is covered by this example.
+See item 5 of Part 1 of Schedule 7 of the A New Tax System (Goods and Services Tax) Regulations 1999 which gives examples for item 1 in the table in subregulation 40-5.09(3). A stored value card that is linked to an ADI is covered by this example.
 [20]
-Paragraphs 173 to 197 of GSTR 2001/6, which is about non-monetary consideration, explain when consideration is received or provided in direct barter.  Paragraphs 198 to 207 of GSTR 2001/6 also explain when consideration is received or provided in direct barter when supplies or acquisitions are made for a period or on a progressive basis.
+Paragraphs 173 to 197 of GSTR 2001/6, which is about non-monetary consideration, explain when consideration is received or provided in direct barter. Paragraphs 198 to 207 of GSTR 2001/6 also explain when consideration is received or provided in direct barter when supplies or acquisitions are made for a period or on a progressive basis.
 Not previously released in draft form.
 This Ruling replaces GSTR 2000/23.
 References
 ATO references:
-NO  2000/6082
-ISSN:  1443-5160
+NO 2000/6082
+ISSN: 1443-5160
 Related Rulings/Determinations:
 GSTR 2000/19
 GSTR 2000/29
@@ -429,34 +427,34 @@ voucher
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A99  Div 9
-ANTS(GST)A99  9-15
-ANTS(GST)A99  9-15(1)
-ANTS(GST)A99  9-15(2)
-ANTS(GST)A99  9-17(1)
-ANTS(GST)A99  29-5
-ANTS(GST)A99  29-5(1)
-ANTS(GST)A99  29-5(2)
-ANTS(GST)A99  29-10
-ANTS(GST)A99  29-10(1)
-ANTS(GST)A99  29-10(2)
-ANTS(GST)A99  29-10(3)
-ANTS(GST)A99  29-10(4)
-ANTS(GST)A99  29-25
-ANTS(GST)A99  29-80(1)
-ANTS(GST)A99  Div 93
-ANTS(GST)A99  93-5(1)
-ANTS(GST)A99  93-10
-ANTS(GST)A99  93-15
-ANTS(GST)A99  Div 100
-ANTS(GST)A99  100-5
-ANTS(GST)A99  100-25
-ANTS(GST)A99  195-1
+ANTS(GST)A99 Div 9
+ANTS(GST)A99 9-15
+ANTS(GST)A99 9-15(1)
+ANTS(GST)A99 9-15(2)
+ANTS(GST)A99 9-17(1)
+ANTS(GST)A99 29-5
+ANTS(GST)A99 29-5(1)
+ANTS(GST)A99 29-5(2)
+ANTS(GST)A99 29-10
+ANTS(GST)A99 29-10(1)
+ANTS(GST)A99 29-10(2)
+ANTS(GST)A99 29-10(3)
+ANTS(GST)A99 29-10(4)
+ANTS(GST)A99 29-25
+ANTS(GST)A99 29-80(1)
+ANTS(GST)A99 Div 93
+ANTS(GST)A99 93-5(1)
+ANTS(GST)A99 93-10
+ANTS(GST)A99 93-15
+ANTS(GST)A99 Div 100
+ANTS(GST)A99 100-5
+ANTS(GST)A99 100-25
+ANTS(GST)A99 195-1
 ANTS(GST)R99 40-5.09(3)
 ANTS(GST)R99 40-5.09(3), item 1
-ANTS(GST)R99  Sch 7, Pt 1, item 5
+ANTS(GST)R99 Sch 7, Pt 1, item 5
 Cheques Act 1986 16
-TAA 1953  Sch1 Div 358
+TAA 1953 Sch1 Div 358
 Case References:
 Case D7
 72 ATC 38

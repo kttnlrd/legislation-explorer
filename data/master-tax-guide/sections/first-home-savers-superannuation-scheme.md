@@ -13,11 +13,11 @@ Individuals can make voluntary contributions to their superannuation account und
 
   must have never owned real property unless speciﬁc ﬁnancial hardship circumstances apply (see
 
-“Eligible person for FHSS Scheme” below).
+"Eligible person for FHSS Scheme" below).
 
-- A contribution must be an “eligible contribution” for it to be released under the FHSS Scheme.
+- A contribution must be an "eligible contribution" for it to be released under the FHSS Scheme.
 
-Eligible contributions are subject to the contributions caps (see “Eligible contributions and contributions caps” below).
+Eligible contributions are subject to the contributions caps (see "Eligible contributions and contributions caps" below).
 
 - The maximum amount of voluntary contributions made in a particular ﬁnancial year that may be
 
@@ -25,23 +25,23 @@ Eligible contributions are subject to the contributions caps (see “Eligible co
 
   eligible to be released under the Scheme is $50,000 (increased from $30,000 from 1 July 2022).
 
-- An individual may apply to the ATO to withdraw up to their “FHSS maximum release amount”
+- An individual may apply to the ATO to withdraw up to their "FHSS maximum release amount"
 
-  to use as a deposit on a home. To initiate the withdrawal, the individual must request a “ﬁrst home
+  to use as a deposit on a home. To initiate the withdrawal, the individual must request a "ﬁrst home
 
-  super saver determination” (FHSS determination) from the Commissioner.
+  super saver determination" (FHSS determination) from the Commissioner.
 
 - An individual may withdraw or amend an application for an FHSS determination before receiving
 
   an FHSS Scheme amount, and may reapply for withdrawals in the future.
 
-- The Commissioner may amend and revoke FHSS Scheme applications (ie an individual’s request
+- The Commissioner may amend and revoke FHSS Scheme applications (ie an individual's request
 
   for an FHSS determination or a release authority relating to an FHSS determination, see above).
 
-- An individual’s FHSS maximum release amount is the sum of the individual’s FHSS releasable
+- An individual's FHSS maximum release amount is the sum of the individual's FHSS releasable
 
-  contributions amount worked out under TAA sch 1 s 138-30 (ie 85% of the individual’s
+  contributions amount worked out under TAA sch 1 s 138-30 (ie 85% of the individual's
 
   concessional contributions and 100% of non-concessional contributions) and the amount of the
 
@@ -53,11 +53,11 @@ Eligible contributions are subject to the contributions caps (see “Eligible co
 
 131. The request must notify the Commissioner of the amount to be released and identify the superannuation interests from which the amount is to be released (TAA sch 1 s 131-5). If a valid request for a release authority is made, the Commissioner must issue a release authority to each superannuation fund that holds a superannuation interest identiﬁed in the request (¶13-880).
 
-- On receipt of a release authority, an individual’s superannuation fund must pay the amount to
+- On receipt of a release authority, an individual's superannuation fund must pay the amount to
 
   be released to the Commissioner, who will withhold an amount for the tax payable and pay the
 
-  balance to the individual. The withholding rate will be calculated as the individual’s estimated
+  balance to the individual. The withholding rate will be calculated as the individual's estimated
 
   marginal tax rate, plus Medicare levy, less the 30% FHSS tax oﬀset or, if such an estimate cannot
 
@@ -65,7 +65,7 @@ Eligible contributions are subject to the contributions caps (see “Eligible co
 
 - An FHSS released amount is entitled to concessional tax treatment. Released amounts of
 
-  concessional contributions and associated earnings are included in the individual’s assessable
+  concessional contributions and associated earnings are included in the individual's assessable
 
   income, with a non-refundable 30% tax oﬀset. For released amounts of non-concessional
 
@@ -73,9 +73,9 @@ Eligible contributions are subject to the contributions caps (see “Eligible co
 
 - The Commissioner can return any FHSS Scheme amount that has not yet been released to
 
-  the individual to the individual’s superannuation fund (the amount returned is treated as non-
+  the individual to the individual's superannuation fund (the amount returned is treated as non-
 
-  assessable non-exempt income of the fund and does not count towards the individual member’s
+  assessable non-exempt income of the fund and does not count towards the individual member's
 
   contribution caps). The repayment will happen outside of the SuperStream (¶13-900) process and
 
@@ -113,9 +113,9 @@ ATO guidelines on the FHSS Scheme are set out in TR 2024/4, Guidance Note GN 202
 
 Eligible person for FHSS Scheme Generally, an individual must have never held an ownership or similar interest in Australian real property (eg a home, an investment property or vacant land) to be eligible to use the FHSS Scheme (see above).
 
-An individual who previously held such an interest is still eligible if the Commissioner determines that the individual had suﬀered a “ﬁnancial hardship” that resulted in the individual ceasing to hold such property interest held at the time of the hardship and the individual had not held any other such property interests since that time (TAR s 61A).
+An individual who previously held such an interest is still eligible if the Commissioner determines that the individual had suﬀered a "ﬁnancial hardship" that resulted in the individual ceasing to hold such property interest held at the time of the hardship and the individual had not held any other such property interests since that time (TAR s 61A).
 
-Eligible contributions and contributions caps An eligible contribution of an individual is a concessional or non-concessional contribution of the individual in the ﬁnancial year that the contribution is made. The eligible contribution is either a “member contribution” made by the individual or an “employer contribution” that is not a “mandated employer contribution” (¶13-730). Contributions that are speciﬁcally excluded as eligible contributions are:
+Eligible contributions and contributions caps An eligible contribution of an individual is a concessional or non-concessional contribution of the individual in the ﬁnancial year that the contribution is made. The eligible contribution is either a "member contribution" made by the individual or an "employer contribution" that is not a "mandated employer contribution" (¶13-730). Contributions that are speciﬁcally excluded as eligible contributions are:
 
 - any part of a contribution to the extent it is required to be made because of a Commonwealth,
 
@@ -127,33 +127,33 @@ Eligible contributions and contributions caps An eligible contribution of an ind
 
   paras 14–15 for examples of eligible contributions).
 
-Eligible contributions are counted towards an individual’s contributions cap for the year (¶13-820, ¶13-860). If an individual has exceeded either the concessional contributions cap or non-concessional contributions cap, the excess contribution is not eligible to be released under the FHSS Scheme. For the purposes of the FHSS Scheme, an excess concessional contribution is not treated as a non-concessional contribution (see “Non- concessional contributions and excess concessional contributions” in ¶13-830).
+Eligible contributions are counted towards an individual's contributions cap for the year (¶13-820, ¶13-860). If an individual has exceeded either the concessional contributions cap or non-concessional contributions cap, the excess contribution is not eligible to be released under the FHSS Scheme. For the purposes of the FHSS Scheme, an excess concessional contribution is not treated as a non-concessional contribution (see "Non- concessional contributions and excess concessional contributions" in ¶13-830).
 
-Treatment of amounts released under the FHSS Scheme The tax treatment of superannuation beneﬁt payments is governed by ITAA97 Div 301, based on the status of the recipient and the “components” of the beneﬁt (¶14-200).
+Treatment of amounts released under the FHSS Scheme The tax treatment of superannuation beneﬁt payments is governed by ITAA97 Div 301, based on the status of the recipient and the "components" of the beneﬁt (¶14-200).
 
 The tax rules below apply to amounts which are released to an individual from their superannuation interests under an ATO release authority (¶13-880) that has been issued in relation to an FHSS determination:
 
-- any amount calculated by reference to an individual’s FHSS eligible non-concessional
+- any amount calculated by reference to an individual's FHSS eligible non-concessional
 
   contributions is treated as non-assessable non-exempt income, and
 
-- any amount related to the individual’s FHSS eligible concessional contributions, and the total
+- any amount related to the individual's FHSS eligible concessional contributions, and the total
 
-  associated earnings calculated in respect of any contributions, are included in the individual’s
+  associated earnings calculated in respect of any contributions, are included in the individual's
 
-  assessable income (referred to as an individual’s “assessable FHSS released amount”) and
+  assessable income (referred to as an individual's "assessable FHSS released amount") and
 
-  taxed at the individual’s marginal rates, with a tax oﬀset of 30% available.
+  taxed at the individual's marginal rates, with a tax oﬀset of 30% available.
 
 Assessable FHSS released amounts are calculated independent of the general tax treatment that applies to superannuation beneﬁts. The proportioning rule (¶14-130) does not apply to FHSS released amounts.
 
-Using the amount speciﬁed in an FHSS determination works appropriately where the total amounts that are released from superannuation are equal to the FHSS maximum release amount speciﬁed in the determination. If an individual has elected to have a lesser amount released, or the amount available for release is less than the release amount requested, the amount that is included in an individual’s assessable income is reduced by any diﬀerence between the total amount that was actually released and the FHSS maximum release amount speciﬁed in the relevant determination. The amount included in an individual’s assessable income cannot be reduced to less than nil. This ensures that where an individual’s FHSS maximum release amount includes amounts related to non-concessional contributions, the diﬀerence between the FHSS maximum release amount and the actual release amount is ﬁrst taken from the amounts that are included in assessable income.
+Using the amount speciﬁed in an FHSS determination works appropriately where the total amounts that are released from superannuation are equal to the FHSS maximum release amount speciﬁed in the determination. If an individual has elected to have a lesser amount released, or the amount available for release is less than the release amount requested, the amount that is included in an individual's assessable income is reduced by any diﬀerence between the total amount that was actually released and the FHSS maximum release amount speciﬁed in the relevant determination. The amount included in an individual's assessable income cannot be reduced to less than nil. This ensures that where an individual's FHSS maximum release amount includes amounts related to non-concessional contributions, the diﬀerence between the FHSS maximum release amount and the actual release amount is ﬁrst taken from the amounts that are included in assessable income.
 
-Tax offset for amounts included in assessable income The tax oﬀset is equal to 30% of the individual’s assessable FHSS released amount so that the individual is taxed on the assessable amounts released at their marginal tax rate less 30%. The tax oﬀset is not refundable and cannot be carried forward.
+Tax offset for amounts included in assessable income The tax oﬀset is equal to 30% of the individual's assessable FHSS released amount so that the individual is taxed on the assessable amounts released at their marginal tax rate less 30%. The tax oﬀset is not refundable and cannot be carried forward.
 
-Withholding on FHSS Scheme amounts The Commissioner is required to withhold an amount from assessable FHSS released amounts that are paid in respect of an individual based on an estimate of the tax that will be payable in relation to the individual’s assessable FHSS released amount, as calculated in accordance with the TAR s 53A(1)(a). The Commissioner will withhold an amount at the individual’s expected marginal rate less 30% oﬀset.
+Withholding on FHSS Scheme amounts The Commissioner is required to withhold an amount from assessable FHSS released amounts that are paid in respect of an individual based on an estimate of the tax that will be payable in relation to the individual's assessable FHSS released amount, as calculated in accordance with the TAR s 53A(1)(a). The Commissioner will withhold an amount at the individual's expected marginal rate less 30% oﬀset.
 
-If the Commissioner is unable to make an estimate of an individual’s marginal tax rate, 17% of the individual’s assessable FHSS released amount must be withheld (TAR s 53A(1)(b)). This default rate is based on the maximum amount of tax that an individual would be expected to pay on an FHSS released amount if they were on the top marginal rate and received the full beneﬁt of the 30% oﬀset. In the event that an individual is not on the top marginal tax rate, the diﬀerence in the amount withheld and the actual tax liability will be refunded through the assessment process.
+If the Commissioner is unable to make an estimate of an individual's marginal tax rate, 17% of the individual's assessable FHSS released amount must be withheld (TAR s 53A(1)(b)). This default rate is based on the maximum amount of tax that an individual would be expected to pay on an FHSS released amount if they were on the top marginal rate and received the full beneﬁt of the 30% oﬀset. In the event that an individual is not on the top marginal tax rate, the diﬀerence in the amount withheld and the actual tax liability will be refunded through the assessment process.
 
 *Refs: s 138-30, s 138-40, s 131-5)*
 
@@ -189,13 +189,13 @@ Recontributing amounts into superannuation requirements An individual who does n
 
   FHSS released amount less any amounts that were withheld by the Commissioner.
 
-The re-contribution must be made by non-concessional contributions to ensure that the individual does not receive a further beneﬁt from claiming another deduction in recontributing the amount into superannuation (see below). In addition, any re-contribution must be within the individual’s non-concessional contribution cap.
+The re-contribution must be made by non-concessional contributions to ensure that the individual does not receive a further beneﬁt from claiming another deduction in recontributing the amount into superannuation (see below). In addition, any re-contribution must be within the individual's non-concessional contribution cap.
 
 The reduction of the re-contribution amount by an amount withheld by the Commissioner recognises that for individuals who were required to pay tax on their assessable FHSS released amount, a re-contribution of the full assessable FHSS released amount would have to be partially funded from other sources. Individuals who will be aﬀected in this way are those whose marginal tax rate is greater than 30% (being the amount of the tax oﬀset).
 
 No deduction allowed for re-contribution Individuals who notify the Commissioner that they have made non-concessional contributions as re- contributions are denied a deduction for the contributions covered by the notiﬁcation (ITAA97 s 290-168: ¶13-730). An individual therefore cannot report a re-contribution as a non-concessional contribution, and later claim a deduction for it. This rule does not require the tracing of speciﬁc contributions and deductions.
 
-It applies where an individual’s non-concessional contributions for a ﬁnancial year are less than the contributions notiﬁed to the Commissioner. In such circumstances, any deduction that the individual claims for other contributions will be reduced to the extent of the diﬀerence.
+It applies where an individual's non-concessional contributions for a ﬁnancial year are less than the contributions notiﬁed to the Commissioner. In such circumstances, any deduction that the individual claims for other contributions will be reduced to the extent of the diﬀerence.
 
 First home super saver tax Individuals are liable to pay ﬁrst home super saver tax (FHSS tax) if they do not:
 
@@ -207,7 +207,7 @@ First home super saver tax Individuals are liable to pay ﬁrst home super saver
 
   into superannuation.
 
-FHSS tax is imposed by the First Home Super Saver Tax Act 2017, and is equal to 20% of an individual’s assessable FHSS released amounts (a ﬂat rate of tax which is unrelated to the personal income tax system or an individual’s marginal tax rate).
+FHSS tax is imposed by the First Home Super Saver Tax Act 2017, and is equal to 20% of an individual's assessable FHSS released amounts (a ﬂat rate of tax which is unrelated to the personal income tax system or an individual's marginal tax rate).
 
 While the rate of the tax provides an incentive for individuals to take one of the actions necessary to avoid liability to the tax, the government states that the rate does not unfairly impact individuals who are subject to the tax as they would have received a tax oﬀset equal to 30% of their assessable FHSS released amounts and have beneﬁted from the concessions that apply to the contributions and earnings within the superannuation system.
 
@@ -215,9 +215,9 @@ Assessment and payment of FHSS tax The self-assessment regime does not apply to 
 
 The Commissioner is required to provide a notice of assessment to an individual as soon as practicable after an assessment is made showing an assessable amount.
 
-An individual’s assessed FHSS tax is due and payable at the end of 21 days after the Commissioner gives the individual a notice of the assessment of the tax.
+An individual's assessed FHSS tax is due and payable at the end of 21 days after the Commissioner gives the individual a notice of the assessment of the tax.
 
-Where an individual’s assessment is amended by the Commissioner, any extra assessed FHSS tax is due and payable at the end of 21 days after the Commissioner gives the individual a notice of the amended assessment.
+Where an individual's assessment is amended by the Commissioner, any extra assessed FHSS tax is due and payable at the end of 21 days after the Commissioner gives the individual a notice of the amended assessment.
 
 If an individual fails to pay an amount of assessed FHSS tax by its due date, general interest charge is imposed for each day in the period that the tax is due and unpaid in accordance with TAA Pt IIA.
 

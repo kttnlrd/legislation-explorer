@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  For the purposes of section MG 1(3)﻿(b) the person’s Best Start credit abatement for the entitlement period is calculated using the formula— full-year abatement × days ÷ 365.
+**(1)**  For the purposes of section MG 1(3)﻿(b) the person's Best Start credit abatement for the entitlement period is calculated using the formula— full-year abatement × days ÷ 365.
 
 **Definition of items in formula**
 
@@ -20,9 +20,9 @@ compilation_date: 2026-06-06
 
 - (a) full-year abatement is,—
 
-  - (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess; or
+  - (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person's family scheme income for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess; or
 
-  - (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess:
+  - (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person's family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess:
 
 - (b) days is the number of days in the entitlement period excluding—
 

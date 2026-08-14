@@ -17,7 +17,7 @@ Government schools or other schools that are endorsed charities may be able to a
 
 They may also qualify for input tax credits for reimbursing volunteers (¶5-040).
 
-Parents and Friends/Citizens Associations may be treated as not-for-profits and need only register if their GST turnover is $150,000 or more (¶3-030). Turnover from input taxed activities — such as school canteens (¶14-010) — is not taken into account in calculating the GST turnover. Adopting the option of not registering will mean that GST does not apply to the association’s activities. However, it will also mean that input tax credits cannot be claimed for GST paid on purchases.
+Parents and Friends/Citizens Associations may be treated as not-for-profits and need only register if their GST turnover is $150,000 or more (¶3-030). Turnover from input taxed activities — such as school canteens (¶14-010) — is not taken into account in calculating the GST turnover. Adopting the option of not registering will mean that GST does not apply to the association's activities. However, it will also mean that input tax credits cannot be claimed for GST paid on purchases.
 
 Schools may also take advantage of the option to treat fundraising activities as input taxed (¶15-055).
 

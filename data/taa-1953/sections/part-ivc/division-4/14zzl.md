@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "4"
-division_title: "ART review of objection decisions and"
+division_title: "ART review of objection decisions and extension of time refusal decisions"
 subdivision: ""
 subdivision_title: ""
 section: "14ZZL"
@@ -23,13 +23,13 @@ source_pdf: "vol01.pdf"
 **(2)**  For the purposes of subsection (1), if:
 
 > <a id="s14ZZL-2-a"></a>
-> **(a)**  no appeal is lodged against the ART’s decision within the period for lodging an appeal; and
+> **(a)**  no appeal is lodged against the ART's decision within the period for lodging an appeal; and
 
 > <a id="s14ZZL-2-b"></a>
 > **(b)**  no application to refer a decision of the ART to the guidance and appeals panel is made within the period for making the application; the decision becomes final at the end of the period.
 
 <a id="s14ZZL-3"></a>
-**(3)**  For the purposes of paragraph (2)(b), the period for making an application to refer a decision of the ART to the guidance and appeals panel includes any extension of that period under section 125 of the ART Act. Authorised Version C2026C00170 registered 28/04/2026
+**(3)**  For the purposes of paragraph (2)(b), the period for making an application to refer a decision of the ART to the guidance and appeals panel includes any extension of that period under section 125 of the ART Act.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

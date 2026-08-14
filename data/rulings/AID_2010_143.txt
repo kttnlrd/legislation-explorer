@@ -3,18 +3,14 @@ ATO ID 2010/143
 ==================================================
 
 Income Tax
-        United States real estate investment trusts and managed investment trusts
-        FOI status: may be released
-
-
+ United States real estate investment trusts and managed investment trusts
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the taxpayer, a United States (US) Real Estate Investment Trust (REIT) that is a member of an Australian Trust, an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the Taxation Administration Act 1953 (TAA 1953) for the purposes of determining the number of members of the Australian Trust in paragraph 12-402(1A)(b) of Schedule 1 to the TAA 1953?
@@ -53,8 +49,6 @@ According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (
 ... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity. ... (paragraph 5.79 of the Revised EM to the TLAB (No 3) Bill 2010).
 
 Therefore, the REITs must be recognised under a foreign law as being used for collective investment and the entity itself must also satisfy the remaining three requirements of subsection 12-402(3)(e) of Schedule 1 to the TAA 1953. That is, US REIT and Maryland REIT must involve:
-
-
 
 •the pooling of contributions of at least 50 members of the entity;
 •as consideration to acquire rights to benefits produced by the entity; and
@@ -99,49 +93,45 @@ Conclusion
 
 As each of the elements are satisfied in relation to US REIT, US REIT is an entity covered by paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953. However, Maryland REIT, being wholly owned by US REIT and therefore having only one member, is not an entity covered by paragraph 12-402(3)(e).
 
-
-
 Note 1:
-                 in accordance with subparagraph 12-402(2)(c)(ii) of Schedule 1 to the TAA 1953, US REIT's 'MIT participation interest' in the trust is multiplied by 50. Therefore, as US REIT has a 'MIT participation interest' of 100%, US REIT's membership of the Australian Trust it is deemed to be equal to 50 members of the Australian Trust.
+ in accordance with subparagraph 12-402(2)(c)(ii) of Schedule 1 to the TAA 1953, US REIT's 'MIT participation interest' in the trust is multiplied by 50. Therefore, as US REIT has a 'MIT participation interest' of 100%, US REIT's membership of the Australian Trust it is deemed to be equal to 50 members of the Australian Trust.
 
 Note 2:
-                 applying the methodology outlined in paragraph 12-402(2) of Schedule 1 of the TAA 1953 results in the Australian Trust having 51 members. As Maryland REIT is not a member of the trust that is an entity covered by subsection 12-402(3), it continues to count as one member.
+ applying the methodology outlined in paragraph 12-402(2) of Schedule 1 of the TAA 1953 results in the Australian Trust having 51 members. As Maryland REIT is not a member of the trust that is an entity covered by subsection 12-402(3), it continues to count as one member.
 
 Date of decision:
-         9 August 2010
+  9 August 2010
 
 Year of income:
-           Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015
+  Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015
 
 Legislative References:
 
 Corporations Act 2001   section 9   section 601EB
 Income Tax Assessment Act 1997   subsection 960-130(1)
 Taxation Administration Act 1953   Schedule 1, Subdivision H   Schedule 1, subsection 12-400(1)   Schedule 1, paragraph 12-400(1)(a)   Schedule 1, paragraph 12-400(1)(b)   Schedule 1, paragraph 12-400(1)(c)   Schedule 1, paragraph 12-400(1)(d)   Schedule 1, paragraph 12-400(1)(e)   Schedule 1, paragraph 12-400(1)(f)   Schedule 1, subparagraph 12-400(1)(f)(ii)   Schedule 1, paragraph 12-400(1)(g)   Schedule 1, paragraph 12-400(1)(h)   Schedule 1, subsection 12-400(2)   Schedule 1, section 12-401   Schedule 1, subsection 12-401(3)   Schedule 1, paragraph 12-401(3)(e)   Schedule 1, subsection 12-402(1A)   Schedule 1, paragraph 12-402(1A)(a)   Schedule 1, paragraph 12-402(1A)(b)   Schedule 1, subsection 12-402(2)   Schedule 1, subsection 12-402(3)   Schedule 1, paragraph 12-402(3)(e)   Schedule 1, subsection 12-402A(1)   Schedule 1, section 12-402B   Schedule 1, paragraph 12-404(1)(c)
-          Annotated Code of Maryland   Title 8, Corporations and Associations Article   section 8-101   subsection 8-103(b)   section 8-202   section 8-301
+ Annotated Code of Maryland   Title 8, Corporations and Associations Article   section 8-101   subsection 8-103(b)   section 8-202   section 8-301
 Internal Revenue Code of the United States   section 856   section 856(a)(1)   section 856(a)(5)   section 858
 
 Other References:
 
  Revised Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No 3) Bill 2010
 
-
 Keywords
 
 Collective investment vehicles
-          Investment trusts
-          PAYG withholding
-          United States
-
+ Investment trusts
+ PAYG withholding
+ United States
 
 Siebel/TDMS Reference Number:
-         1-28B5EB8
+  1-28B5EB8
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         13 August 2010
+  13 August 2010
 
 ISSN:
-          1445-2782
+ 1445-2782

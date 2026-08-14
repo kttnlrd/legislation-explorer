@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
   - (i) cultural, sporting, or other recreational events:
 
-  - (ii) activities taking place off the person’s business premises; and
+  - (ii) activities taking place off the person's business premises; and
 
 - (b) applies to the cost of tickets or other rights of entry to the areas; and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 - (a) on their business premises at a celebration meal, party, reception, or other similar social function:
 
-- (b) in an area of the premises that at the time is reserved for senior employees to use and is not open to all the person’s employees working in the premises.
+- (b) in an area of the premises that at the time is reserved for senior employees to use and is not open to all the person's employees working in the premises.
 
 **Meaning of expenditure**
 

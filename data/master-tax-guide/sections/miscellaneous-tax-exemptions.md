@@ -19,7 +19,7 @@ In addition to items discussed elsewhere in this chapter, the following are gene
 
 [1999] AATA 681. This includes salaries paid to certain foreign residents (French, German, Italian and Japanese) employed as assistant teachers in Australian schools, where the relevant visiting teacher criteria are met (TD 2001/21 to TD 2001/24) (¶22-140 to ¶22-160)
 
-- interest derived by “small” credit unions from loans to members (¶3-435)
+- interest derived by "small" credit unions from loans to members (¶3-435)
 
 - most income of copyright collecting societies (¶3-450, ¶10-510)
 

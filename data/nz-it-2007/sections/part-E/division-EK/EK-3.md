@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Upper limit of payment**
 
-**(1)**  A person must not make a payment for an income year of more than the person’s maximum payment for the income year.
+**(1)**  A person must not make a payment for an income year of more than the person's maximum payment for the income year.
 
 **Lower limit of payment**
 

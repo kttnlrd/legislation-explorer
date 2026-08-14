@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (d) a person holding included ownership interests in the initial parent before the arrangement is entered into does not receive a dividend, gift, or other direct benefit as a result of the arrangement. For the purposes of this paragraph,—
 
-  - (i) included ownership interests in the initial parent for which paragraph (c)﻿(ii) applies are excluded from a person’s holding of included ownership interests:
+  - (i) included ownership interests in the initial parent for which paragraph (c)﻿(ii) applies are excluded from a person's holding of included ownership interests:
 
   - (ii) included ownership interests in the new parent are excluded from being a dividend, gift, or other direct benefit.
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **(3)**  For the purposes of the tests of ownership and control in Part I and subparts LP, OA, OB, OC, and OP (which relate to loss balances, tax credits, and memorandum accounts), starting from when the initial parent is first treated under section YC 11(3) and (4) as holding the included ownership interests in another company, the new parent is treated as—
 
-- (a) existing and having the shareholders it has immediately after the arrangement’s implementation:
+- (a) existing and having the shareholders it has immediately after the arrangement's implementation:
 
 - (b) holding the included ownership interests that the initial parent is treated under section YC 11(3) and (4) as holding:
 

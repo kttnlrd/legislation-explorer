@@ -3,22 +3,17 @@ ATO ID 2013/32
 ==================================================
 
 Goods and Services Tax
-        GST and 'credit under a hire purchase agreement' entered into on or after 1 July 2012 (two financiers)
+ GST and 'credit under a hire purchase agreement' entered into on or after 1 July 2012 (two financiers)
 
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in  GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
+This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is an amount financed under a hire purchase agreement entered into on or after 1 July 2012, to discharge a debt incurred under a separate hire purchase agreement entered into with another financier at an earlier point in time 'credit under a hire purchase agreement' under item 20 in the table in regulation 40-5.12 of the A New Tax System (Goods and Services Tax) Regulations (GST Regulations)?
@@ -32,15 +27,11 @@ The debt of $20,000 is therefore greater than the trade-in amount for the old as
 The entity enters into the later hire purchase agreement with another financier (later financier) to finance the new asset and discharge the debt owing.
 Under the later hire purchase agreement the amount financed is made up of:
 
-
-
 •the price of the new asset, including goods and services tax (GST);
 •the amount to extinguish the debt under the earlier hire purchase agreement net of the trade-in amount (that is, the negative equity); and
 •other amounts in relation to the acquisition of the new asset (registration, compulsory third party insurance and stamp duty).
 
 The entity and the financier of the earlier hire purchase agreement (earlier financier) agree that the earlier hire purchase agreement will be completed ('settled') by:
-
-
 
 •an undertaking from the entity and the dealer that the trade-in amount of $14,000 will be paid to the earlier financier; and
 •an undertaking from the later financier to pay the $6,000 negative equity to the earlier financier.
@@ -71,8 +62,6 @@ The supply of credit under the later hire purchase agreement (including the nega
 Therefore, the supply of credit under the later hire purchase agreement is a taxable supply if the requirements of section 9-5 of the GST Act are satisfied. The deferred repayment under the later hire purchase agreement of the amount of negative equity ($6,000), being similar to the repayment of a loan, is neither consideration for the supply of the asset nor consideration for the supply of credit.
 The interest, fees and charges in respect of financing:
 
-
-
 •the price of the new asset, including GST
 •other amounts in relation to the acquisition of the new asset (registration, compulsory third party insurance and stamp duty); and
 •the amount of negative equity;
@@ -86,7 +75,7 @@ Subregulation 40-5.08(2) of the GST Regulations provides that if a supply is men
 The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01.
 
 [3]
-Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax:  GST treatment of financial supplies and related supplies and acquisitions (Glossary of Terms).
+Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions (Glossary of Terms).
 
 [4]
 [2010] FCAFC 122.
@@ -101,7 +90,7 @@ Explanatory Statement to A New Tax System (Goods and Services Tax) Amendment Reg
 An illustration of the calculation of GST for the taxable supply of, or an interest in or under 'credit under a hire purchase agreement' is provided in Example 2 in the Explanatory Statement to A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No. 1).
 
 Date of decision:
-         16 May 2013
+  16 May 2013
 
 Legislative References:
 
@@ -109,7 +98,6 @@ A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsect
 A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.08(2)   subregulation 40-5.09(1)   subregulation 40-5.09(3)   regulation 40-5.12
 
 Case References:
-
 
 Commissioner of Taxation v. American Express Wholesale Currency Services Pty Ltd   (2010) 187 FCR 398   [2010] FCAFC 122   2010 ATC 20-212   (2010) 77 ATR 12
 
@@ -126,39 +114,34 @@ Related ATO Interpretative Decisions
 Other References:
 
  Explanatory Statement to A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No.1)
-          The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01
-
+ The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01
 
 Keywords
 
 Goods and services tax
-          GST consideration
-          GST financial supplies
-          GST hire purchase
-
+ GST consideration
+ GST financial supplies
+ GST hire purchase
 
 Siebel/TDMS Reference Number:
-         1-8IW85J
+  1-8IW85J
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         24 May 2013
+  24 May 2013
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 16 May 2013

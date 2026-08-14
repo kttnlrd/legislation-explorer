@@ -4,13 +4,11 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Division 13
-  • Division 290
-  • Division 855
+ • Division 13
+ • Division 290
+ • Division 855
 
 Topics: CGT, Companies, International
-
-
 
 ================================================================================
 
@@ -55,8 +53,8 @@ throughout a 12 month period that began no earlier than 24 months before that ti
 5.
 Such structural planning may result in some capital gains tax being circumvented despite the fact that overall, a greater than 10% interest was held and eventually disposed of by the foreign resident vendor.
 Example
-A foreign resident company 'FCoA' acquires a 22% holding in a resident entity whose assets consist principally of Australian real property  'AusCo1' on 1 September 2006.
-On 1 July 2007, FCoA enters into an agreement to dispose of 12.1% of its shares in AusCo1 to FCoB, another foreign resident company.  Any capital gain from this disposal can not be disregarded.
+A foreign resident company 'FCoA' acquires a 22% holding in a resident entity whose assets consist principally of Australian real property 'AusCo1' on 1 September 2006.
+On 1 July 2007, FCoA enters into an agreement to dispose of 12.1% of its shares in AusCo1 to FCoB, another foreign resident company. Any capital gain from this disposal can not be disregarded.
 At the same time, FCoA grants FCoB an option to acquire a further 9.9% of its shareholding in AusCo1, exercisable in 14 months from the date the option was granted.
 The first share sell down occurs on 1 July 2007 and the subsequent sell down of shares, if the option is exercised, would occur on 1 September 2008.
 If FCoA had disposed of its 22% holdings in AusCo1 in a single tranche the entire share disposal would have been subject to capital gains tax assuming the principal asset test is satisfied [i.e. if greater than 50% of the test entity's assets are taxable Australian real property (TARP) assets].

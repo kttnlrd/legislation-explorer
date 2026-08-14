@@ -3,18 +3,14 @@ ATO ID 2002/438
 ==================================================
 
 Goods and Services Tax
-        GST and entitlement to input tax credits for acquisitions made prior to registration
-        FOI status: may be released
-
-
+ GST and entitlement to input tax credits for acquisitions made prior to registration
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a business operator, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), for acquisitions made to establish its business before it registered, or became required to be registered, for goods and services tax (GST)?
@@ -27,8 +23,6 @@ On the day that the entity registers for GST, it holds some of these acquisition
 Reasons for Decision
 Under section 11-20 of the GST Act, an entity is entitled to the input tax credit for any creditable acquisition that it makes. Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if:
 
-
-
 (a)it acquires anything solely or partly for a creditable purpose;
 (b)the supply to it is a taxable supply;
 (c)it provides, or is liable to provide, consideration for the supply, and
@@ -36,8 +30,6 @@ Under section 11-20 of the GST Act, an entity is entitled to the input tax credi
 
 The entity was not registered or required to be registered for GST when it made the acquisitions to establish its business. Therefore, the requirement in paragraph 11-5(d) of the GST Act is not met and the entity is not entitled to input tax credits for the acquisitions.
 However, section 137-5 of the GST Act provides that an entity has a decreasing adjustment for stock on hand if:
-
-
 
 •the entity becomes registered or required to be registered;
 •at that time, the entity holds stock for the purpose of sale or exchange, or for use as raw materials, in carrying on its enterprise;
@@ -48,13 +40,12 @@ However, section 137-5 of the GST Act provides that an entity has a decreasing a
 The entity has registered for GST and holds stock for the purpose of sale. This stock was purchased for use in the entity's enterprise and is therefore acquired for a creditable purpose (section 11-15 of the GST Act). The entity is not entitled to an input tax credit for the acquisitions and has not had an increasing adjustment under Division 138 of the GST Act.
 Therefore, although the entity is not entitled to an input tax credit under section 11-20 of the GST Act for establishment acquisitions, it does have a decreasing adjustment under section 137-5 of the GST Act for the stock it has on hand for the purpose of sale when it registers for GST.
 
-
 [Note 1: A decreasing adjustment reduces an entity's GST liability. The amount of the decreasing adjustment under section 137-5 of the GST Act is an amount equal to what would have been the previously attributed input tax credit amount for the acquisition if the entity had been registered at the time it made the acquisition (subsection 137-5(3) of the GST Act).
 
 Note 2: Companies may be entitled to input tax credits for pre-establishment costs under Division 60 of the GST Act.]
 
 Date of decision:
-         28 March 2002
+  28 March 2002
 
 Legislative References:
 
@@ -63,18 +54,17 @@ A New Tax System (Goods and Services Tax) Act 1999   section 11-5   paragr
 Keywords
 
 Goods & services tax
-          GST registration
-          GST supplies & acquisitions
-
+ GST registration
+ GST supplies & acquisitions
 
 Siebel/TDMS Reference Number:
-         CW74626
+  CW74626
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         17 April 2002
+  17 April 2002
 
 ISSN:
-          1445-2782
+ 1445-2782

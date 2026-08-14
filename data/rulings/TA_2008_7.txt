@@ -4,12 +4,10 @@ HEAD NOTE
 Title: Taxpayer Alert
 
 Sections Referenced:
-  • Div 290
-  • Division 290
+ • Div 290
+ • Division 290
 
 Topics: CGT, Trusts, Companies
-
-
 
 ================================================================================
 
@@ -36,39 +34,39 @@ and amending notices, if applicable.
 FOI status: may be released
 Taxpayer Alerts are intended to be an \"early warning\" of significant new and emerging tax planning issues or 
 
-        arrangements that the ATO has under risk assessment.
+ arrangements that the ATO has under risk assessment.
 Taxpayer Alerts will provide information that is in 
 
-        the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
+ the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers 
 
-        and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
+ and they also serve to inform ATO officers of new and emerging tax planning issues.Not all potential tax planning issues that the 
 
-        ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
+ ATO has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert 
 
-        may on further examination be found not to be of concern to the ATO.
+ may on further examination be found not to be of concern to the ATO.
 Taxpayer Alerts will give the title of the 
 
-        issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
+ issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which 
 
-        the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
+ the ATO considers give rise to taxation issues. These issues will generally require more detailed analysis to provide an ATO view to 
 
-        taxpayers.
+ taxpayers.
 The developers and marketers of an arrangement which is the subject of a Taxpayer Alert should provide 
 
-        the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
+ the full facts of the arrangement to the ATO to enable the ATO to finalise its view.
 Taxpayers who have entered 
 
-        into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
+ into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination 
 
-        of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
+ of the ATO's position through a Private Ruling. Such taxpayers might obtain their own advice and/or contact the ATO officer named in 
 
-        the Alert.
+ the Alert.
 This Taxpayer Alert is issued under the authority of the Commissioner.
 1. This Taxpayer Alert describes an arrangement called a 'wash sale' where an asset is disposed of, but there is no substantial change in economic interest in the asset.
 DESCRIPTION
-2. The type of wash sale arrangement this alert covers is where a taxpayer disposes of, or otherwise deals with a capital gains tax (CGT) asset to generate a capital or revenue loss, but where in substance, there is no significant change in the taxpayer's economic exposure in the asset.  This may occur where the interest in the asset is in some way reinstated by the taxpayer, in order to apply a resulting capital loss or allowable deduction against a capital gain or assessable income already derived or expected to be derived.
-3. Reinstatement of the taxpayer's interest is commonly achieved by a taxpayer selling a CGT asset and creating a trust over the asset or transferring an asset to a trust.  We are concerned where this is done with the sole or dominant purpose of generating a capital or revenue loss to offset against a capital gain or assessable income when in substance there is an intention to acquire the same or substantially the same asset or the taxpayer still benefits from the asset.
-4. Examples of mechanisms to carry out wash sale arrangements covered by this Taxpayer Alert and where Part IVA might be relevant are those discussed in paragraph 4 of TR 2008/1 which sets out the ATO view in relation to wash sales.  These examples apply where the taxpayer disposes of, or otherwise deals with, an asset and there is an arrangement to acquire the same or substantially the same asset, or otherwise continue to benefit from the asset.
+2. The type of wash sale arrangement this alert covers is where a taxpayer disposes of, or otherwise deals with a capital gains tax (CGT) asset to generate a capital or revenue loss, but where in substance, there is no significant change in the taxpayer's economic exposure in the asset. This may occur where the interest in the asset is in some way reinstated by the taxpayer, in order to apply a resulting capital loss or allowable deduction against a capital gain or assessable income already derived or expected to be derived.
+3. Reinstatement of the taxpayer's interest is commonly achieved by a taxpayer selling a CGT asset and creating a trust over the asset or transferring an asset to a trust. We are concerned where this is done with the sole or dominant purpose of generating a capital or revenue loss to offset against a capital gain or assessable income when in substance there is an intention to acquire the same or substantially the same asset or the taxpayer still benefits from the asset.
+4. Examples of mechanisms to carry out wash sale arrangements covered by this Taxpayer Alert and where Part IVA might be relevant are those discussed in paragraph 4 of TR 2008/1 which sets out the ATO view in relation to wash sales. These examples apply where the taxpayer disposes of, or otherwise deals with, an asset and there is an arrangement to acquire the same or substantially the same asset, or otherwise continue to benefit from the asset.
 Example: 24 hours between disposal and acquisition
 This example corresponds with Example 2 in TR 2008/1.
 Step 1
@@ -95,19 +93,19 @@ The scheme, for the purposes of subsection 177A(1), includes all the steps leadi
 9.
 Upon weighing up the eight factors in section 177D (ITAA 1936) (see example 2 in TR 2008/1 for the full analysis), it would be concluded that the dominant purpose of Kelly in entering into and carrying out the scheme was to obtain a tax benefit in the form of a capital loss. In particular the manner, form and substance, timing, tax effects and financial consequences for Kelly arising from the scheme support this conclusion. Accordingly, the Commissioner may make a determination under section 177F to cancel the tax benefit.
 FEATURES WHICH CONCERN US
-5.  Depending upon the individual facts and circumstances, the Tax Office considers that wash sale arrangements that have the above features may give rise to taxation issues including whether:
+5. Depending upon the individual facts and circumstances, the Tax Office considers that wash sale arrangements that have the above features may give rise to taxation issues including whether:
 1.
-the general anti-avoidance provisions in Part IVA of the ITAA 1936 should be applied to cancel all or part of a relevant capital loss or allowable deduction from the wash sale arrangement where the taxpayer disposes of the assets with every intention of acquiring the same or substantially the same assets,  or otherwise continue to benefit from the asset.
+the general anti-avoidance provisions in Part IVA of the ITAA 1936 should be applied to cancel all or part of a relevant capital loss or allowable deduction from the wash sale arrangement where the taxpayer disposes of the assets with every intention of acquiring the same or substantially the same assets, or otherwise continue to benefit from the asset.
 2.
 any entity involved in the arrangement is a promoter of a tax exploitation scheme for the purposes of Division 290 of Schedule 1 to the
 Taxation Administration Act 1953
 .
 The Australian Taxation Office has examined these wash sale arrangements and a view as to the application of Part IVA has been provided in TR 2008/1
 .
-Note 1:  Penalties of up to 50% of the tax avoided can apply where Part IVA is applied. Reductions in base penalty may be available if the taxpayer makes a voluntary disclosure to the Tax Office. If you have any information about the current arrangement, phone us on 1800 060 062. Tax agents wanting to provide information about people or companies who may be promoting arrangements covered by this Alert should call 13 72 86 (Fast Key Code
+Note 1: Penalties of up to 50% of the tax avoided can apply where Part IVA is applied. Reductions in base penalty may be available if the taxpayer makes a voluntary disclosure to the Tax Office. If you have any information about the current arrangement, phone us on 1800 060 062. Tax agents wanting to provide information about people or companies who may be promoting arrangements covered by this Alert should call 13 72 86 (Fast Key Code
 3 4
 ).
-Note 2:  Penalties of up to 5,000 penalty units for individuals, 25,000 penalty units for bodies corporate or up to twice the amount of consideration received or receivable may apply to promoters of tax exploitation schemes under Division 290 of Schedule 1 to the Taxation Administration Act 1953. The Commissioner can also apply to the Federal Court of Australia for restraining and performance injunctions against promoters where prohibited conduct has occurred, is occurring or is proposed
+Note 2: Penalties of up to 5,000 penalty units for individuals, 25,000 penalty units for bodies corporate or up to twice the amount of consideration received or receivable may apply to promoters of tax exploitation schemes under Division 290 of Schedule 1 to the Taxation Administration Act 1953. The Commissioner can also apply to the Federal Court of Australia for restraining and performance injunctions against promoters where prohibited conduct has occurred, is occurring or is proposed
 .
 Amendment history
 Date of amendment

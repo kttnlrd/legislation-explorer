@@ -39,7 +39,7 @@ The rules do not apply to depreciating assets, conservation covenants or testame
 
   asset.
 
-Consequences under Div 723 Division 723 only has consequences when a “realisation event” has occurred and, but for the rules, a loss would have been realised for tax purposes. Division 977 identiﬁes when a realisation event happens.
+Consequences under Div 723 Division 723 only has consequences when a "realisation event" has occurred and, but for the rules, a loss would have been realised for tax purposes. Division 977 identiﬁes when a realisation event happens.
 
 The overall eﬀect of the rules is to deny the loss realised by the entity to the extent it is attributable to the value shifted out of the underlying asset by the creation of the right. Comparable adjustments are also made to ensure that the loss cannot be realised on replacement interests if the underlying asset has been rolled over.
 
@@ -55,7 +55,7 @@ The following example is adapted from the explanatory memorandum to the amending
 
 Example X Co owns land with a reduced cost base of $40 million and a market value of $45 million. X Co grants a 6-year lease to Y Trust, an associate, for no premium and no rental is to be paid under the lease. The market value of the land decreases by $10 million to $35 million as a result of the creation of this right.
 
-X Co then disposes of its reversionary interest in the land to a third party in an arm’s length dealing for $35 million.
+X Co then disposes of its reversionary interest in the land to a third party in an arm's length dealing for $35 million.
 
 This ensures X Co and its associate retain rent-free use of the land for the 6 years, and that a capital loss of $5 million would, but for the value shifting rules, be realised. However, economically, no loss has been suﬀered.
 

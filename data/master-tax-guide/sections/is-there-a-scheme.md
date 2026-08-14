@@ -7,7 +7,7 @@ paragraph: "¶30-140"
 ---
 # Is there a scheme? ¶30-140
 
-To work out if Pt IVA applies, it is necessary to identify a “scheme” as deﬁned in ITAA36 s 177A. A “scheme” means any agreement, arrangement, understanding, promise or undertaking — whether express or implied and whether legally enforceable or not — and any scheme, plan, proposal, course of action or course of conduct (ITAA36 s 177A). Anything done either alone or in association with another or others may constitute a scheme.
+To work out if Pt IVA applies, it is necessary to identify a "scheme" as deﬁned in ITAA36 s 177A. A "scheme" means any agreement, arrangement, understanding, promise or undertaking — whether express or implied and whether legally enforceable or not — and any scheme, plan, proposal, course of action or course of conduct (ITAA36 s 177A). Anything done either alone or in association with another or others may constitute a scheme.
 
 Schemes involving franking credit trading and dividend streaming, or franking credits and consolidation, are separately deﬁned in ss 177EA (¶30-195) and 177EB, respectively. The Pt IVA consequences of those kinds of schemes are set out in those sections.
 
@@ -19,7 +19,7 @@ The simple disposition of an income-producing asset by a natural person to a who
 
 In any particular situation, it is likely that there will be a number of schemes that can be identiﬁed. For example, there may be a scheme involving a large number of the steps that were actually taken, and another scheme involving a fewer number of those steps. In Peabody 94 ATC 4663; [1994] HCA 43, the High Court said that a set of circumstances will not constitute a scheme if they are incapable of standing on their own without being robbed of all practical meaning, although whether this is still the case as a result of the subsequent High Court decision in Hart 2004 ATC 4599; [2004] HCA 26 (¶30-170) is uncertain.
 
-Unfortunately, there was no clear precedent arising from the 3 separate judgments in Hart 2004 ATC 4599; [2004] HCA 26 as to the deﬁnition of “scheme”, as noted by Hill J at ﬁrst instance in Macquarie Finance 2004 ATC 4866; [2004] FCA 1170.
+Unfortunately, there was no clear precedent arising from the 3 separate judgments in Hart 2004 ATC 4599; [2004] HCA 26 as to the deﬁnition of "scheme", as noted by Hill J at ﬁrst instance in Macquarie Finance 2004 ATC 4866; [2004] FCA 1170.
 
 On appeal to a court against a Pt IVA determination, the Commissioner is entitled to put his case in alternative ways. If, within a wider scheme which has been identiﬁed, the Commissioner also seeks to rely on a sub-scheme as meeting the requirements of Pt IVA, the Commissioner may rely on it as well as the wider scheme. The ability to isolate sub-schemes to which Pt IVA can apply may make it easier to assert that a scheme was entered into for the sole or dominant purpose of obtaining a tax beneﬁt.
 

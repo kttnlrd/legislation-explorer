@@ -3,18 +3,14 @@ ATO ID 2003/486
 ==================================================
 
 Income Tax
-        Selective capital reduction: application of section 45B
-        FOI status: may be released
-
-
+ Selective capital reduction: application of section 45B
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will section 45B of the Income Tax Assessment Act 1936 (ITAA 1936) apply to treat as a dividend any part of the selective reduction of capital undertaken to restructure the shareholdings in a company?
@@ -28,8 +24,6 @@ Distributions to shareholders whose shares are cancelled will consist of amounts
 Reasons for Decision
 A purpose of section 45B of the ITAA 1936 is to ensure that amounts paid in substitution for dividends are treated as unfrankable dividends for income tax purposes. Section 45B of the ITAA 1936 applies if there is a 'scheme' under which:
 
-
-
 •a person is 'provided with a capital benefit'; and
 •a person (whether receiving the capital benefit or not) 'obtains a tax benefit'; and
 •having regard to the 'relevant circumstances' of the scheme, it would be concluded that the person, or one of the persons, who entered into or carried out the scheme or any part of the scheme did so for a purpose (whether or not the dominant purpose but not including an incidental purpose) of enabling a taxpayer to 'obtain a tax benefit'.
@@ -39,8 +33,6 @@ To the extent the amount paid to the shareholders whose shares are cancelled und
 The shares to be cancelled were all acquired after 19 September 1985. As capital gains tax treatment ordinarily results in less tax payable than an equivalent distribution consisting of dividend income, the requirement that there must be a person who would 'obtain a tax benefit' under the scheme would be satisfied.
 It cannot be concluded that any person who enters into or carries out this selective capital reduction does so for a more than incidental purpose of enabling a taxpayer to 'obtain a tax benefit' having regard to:
 
-
-
 •the distribution not being attributable to profits of the company, as accumulated profits were distributed prior to the capital reduction;
 •the pattern of dividend distributions by the company, whereby annual profits were consistently distributed as dividends;
 •the cost base of the cancelled shares not being substantially less than the value of the applicable capital benefit;
@@ -48,10 +40,10 @@ It cannot be concluded that any person who enters into or carries out this selec
 •the intended subsequent sale of all the shares in the company to an unrelated company.
 
 Date of decision:
-         9 December 2002
+  9 December 2002
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -60,19 +52,18 @@ Income Tax Assessment Act 1936   Section 45B
 Keywords
 
 Capital benefit
-          Capital reductions
-          Deemed dividends
-          Return of capital on shares
-
+ Capital reductions
+ Deemed dividends
+ Return of capital on shares
 
 Siebel/TDMS Reference Number:
-         3580151
+  3580151
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         27 June 2003
+  27 June 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

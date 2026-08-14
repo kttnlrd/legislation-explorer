@@ -9,7 +9,7 @@ paragraph: "¶6-310"
 
 GST will be adjusted downwards in certain situations where you sell something that you originally acquired wholly or partly to make financial supplies or for private or domestic purposes (Div 132). (1) Financial suppliers If you acquire (or import) something for the purpose of providing financial supplies, or subsequently use it for those purposes, you will either not be entitled to an input tax credit or be entitled to a reduced credit. If you subsequently sell that thing as part of a taxable supply, or as part of a GST-free disposal of a going concern, your GST will be adjusted downwards (s 132-5). This decreasing adjustment compensates for your not being allowed the input tax credit on the acquisition. Pro rata rules apply if you were only entitled to a partial input tax credit on the acquisition because you only intended to use it partly for providing financial services. The adjustment is attributed to the same tax period as the sale (s 132-10).
 
-These rules apply only where the thing is “sold”. Other types of supply, such as leases or gifts, are not covered. However, the ATO considers that a sale includes a transfer by way of barter or exchange (GST Ruling GSTR 2004/8).
+These rules apply only where the thing is "sold". Other types of supply, such as leases or gifts, are not covered. However, the ATO considers that a sale includes a transfer by way of barter or exchange (GST Ruling GSTR 2004/8).
 
 The adjustment is calculated as: However, it cannot exceed the difference between the potential input tax credit on the acquisition and the input tax credit (if any) to which the financial supplier was actually entitled.
 

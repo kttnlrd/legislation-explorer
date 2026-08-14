@@ -3,18 +3,14 @@ ATO ID 2003/965
 ==================================================
 
 Income Tax
-        Consolidation - assessability of liquidator's distributions
-        FOI status: may be released
-
-
+ Consolidation - assessability of liquidator's distributions
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are distributions received by the head company of a consolidated group from the liquidator of a subsidiary member of that group, in the course of the subsidiary's liquidation, deemed dividends under section 47 of the Income Tax Assessment Act 1936 (ITAA 1936)
@@ -25,7 +21,6 @@ Company A is the head company of a consolidated group.
 Company B is a subsidiary member of the consolidated group and is wholly-owned by Company A.
 Company B is placed in liquidation by its shareholder, Company A.
 The liquidator makes distributions to Company A in the course of winding up Company B.
-
 
 Reasons for Decision
 Subsection 701-1(1) of the ITAA 1997 states that:
@@ -41,10 +36,10 @@ working out the amount of the *head company's liability (if any) for income tax 
 A distribution by a liquidator of a wholly-owned subsidiary member of a consolidated group to its shareholder company is treated as a distribution by the taxpayer to itself because section 701-1 of the ITAA 1997 treats the subsidiary as part of the head company (the taxpayer in question). As a consequence, the transaction is not recognised for income tax purposes and section 47 of the ITAA 1936 cannot be applied to the distribution.
 Accordingly, the distribution made by company B's liquidator to Company A, in the course of winding up Company B, is treated as if Company A had made the distribution to itself. There are no tax consequences for the liquidator's distribution to Company A.
 Date of decision:
-         1 October 2003
+  1 October 2003
 
 Year of income:
-           30 June 2004
+  30 June 2004
 
 Legislative References:
 
@@ -54,28 +49,27 @@ Income Tax Assessment Act 1997   section 701-1   subsection 701-1(1)   
 Keywords
 
 Company
-          Consolidated group
-          Consolidation
-          Consolidation - tax liabilities
-          Liquidation
-          Member of a group
-          Ownership, interests, control & rights
-          Single entity rule
-          Subsidiary company
-          Subsidiary member of a consolidated group
-          Voluntary liquidation
-          Wholly owned
-          Wholly owned subsidiary
-
+ Consolidated group
+ Consolidation
+ Consolidation - tax liabilities
+ Liquidation
+ Member of a group
+ Ownership, interests, control & rights
+ Single entity rule
+ Subsidiary company
+ Subsidiary member of a consolidated group
+ Voluntary liquidation
+ Wholly owned
+ Wholly owned subsidiary
 
 Siebel/TDMS Reference Number:
-         3715837
+  3715837
 
 Business Line:
-         Consolidation Centre of Expertise
+  Consolidation Centre of Expertise
 
 Date of publication:
-         31 October 2003
+  31 October 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

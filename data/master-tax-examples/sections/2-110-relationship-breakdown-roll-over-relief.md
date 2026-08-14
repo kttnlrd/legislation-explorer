@@ -9,9 +9,9 @@ paragraph: "None"
 
 Worked example: Relationship breakdown: roll-over relief Issue On 30 October 2024, as part of a property settlement arising from the breakdown of their marriage, the Family Court made an order requiring Geoffrey Hedges to transfer to his spouse, Judith Hedges, 1 million shares in Lucky Pty Ltd. On 5 November 2024, Geoffrey sought instructions from Judith as to whom the Lucky shares should be transferred. The following day, Judith replied that the shares should be transferred to a trust which she controlled.
 
-On 8 November 2024, the transfer of the Lucky shares was executed in accordance with Judith’s wishes.
+On 8 November 2024, the transfer of the Lucky shares was executed in accordance with Judith's wishes.
 
-Geoffrey wishes to apply CGT roll-over relief to the transfer and thereby disregard the capital gain that would otherwise arise for him from the transfer of shares to Judith’s trust.
+Geoffrey wishes to apply CGT roll-over relief to the transfer and thereby disregard the capital gain that would otherwise arise for him from the transfer of shares to Judith's trust.
 
 Is Geoffrey able to claim CGT roll-over relief? What are the CGT implications of the transfer for Geoffrey, Judith and the trust controlled by Judith?
 
@@ -41,7 +41,7 @@ A CGT roll-over may also apply where the asset is transferred by a company or tr
 
 In Ellison v Sandini Pty Ltd; FC of T v Sandini Pty Ltd 2018 ATC ¶20-651, the taxpayers had sought a declaration that a transfer of shares brought about by Mr Ellison under orders of the Family Court of Western Australia attracted roll-over relief in circumstances very similar to those facing Mr and Ms Hedges.
 
-Mr Ellison argued that the Family Court caused CGT event A1 to happen (as required by s 126-5(2)) as it provided his former spouse with beneficial ownership of the shares, which in turn amounted to a change of ownership for the purposes of CGT event A1, as required by s 104-10(2), notwithstanding that the shares were actually transferred to a trust controlled by Ms Ellison. He contended that his former spouse had received the shares as she directed Mr Ellison to transfer the shares to her specified trust. The Full Federal Court rejected this argument, concluding that the Family Court order did not effect a change in the ownership of the shares for the purposes of CGT event A1. Instead, the CGT event occurred either on the execution of the transfer of ownership to the trust or at the date the trust became the registered owner of the shares. In addition, the transfer did not arise “under” the Family Court orders, meaning the basic conditions in s 126-15 were not met.
+Mr Ellison argued that the Family Court caused CGT event A1 to happen (as required by s 126-5(2)) as it provided his former spouse with beneficial ownership of the shares, which in turn amounted to a change of ownership for the purposes of CGT event A1, as required by s 104-10(2), notwithstanding that the shares were actually transferred to a trust controlled by Ms Ellison. He contended that his former spouse had received the shares as she directed Mr Ellison to transfer the shares to her specified trust. The Full Federal Court rejected this argument, concluding that the Family Court order did not effect a change in the ownership of the shares for the purposes of CGT event A1. Instead, the CGT event occurred either on the execution of the transfer of ownership to the trust or at the date the trust became the registered owner of the shares. In addition, the transfer did not arise "under" the Family Court orders, meaning the basic conditions in s 126-15 were not met.
 
 Applying the judgment of the Full Federal Court in the Sandini case, Geoffrey would not be entitled to roll- over relief. A capital gain will arise to Geoffrey based on the difference between the market value of the shares at the date of transfer (being 8 November 2024, the date the transfer was executed) and their original cost. The capital gain may be reduced by the 50% general CGT discount assuming the shares have been held for more than 12 months.
 

@@ -3,23 +3,18 @@ ATO ID 2004/259
 ==================================================
 
 Income Tax
-        Capital Allowances: balancing adjustment - termination value less than zero - demolition expenses
-        FOI status: may be released
-
+ Capital Allowances: balancing adjustment - termination value less than zero - demolition expenses
+ FOI status: may be released
 
 This ATO ID is withdrawn as section 40-315 of the Income Tax Assessment Act 1997 has been repealed. Expenses of a balancing adjustment event occurring for a depreciating asset that are incurred after 30 June 2005 and that are not otherwise deductible are dealt with in new paragraph 40-190(2)(b) of the Income Tax Assessment Act 1997.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 For the purpose of working out a balancing adjustment under section 40-285 of the Income Tax Assessment Act 1997 (ITAA 1997), is the termination value of the taxpayer's depreciating asset less than zero if the qualifying expenses of the asset's balancing adjustment event exceed the asset's termination value?
@@ -31,14 +26,14 @@ Reasons for Decision
 A balancing adjustment is required if a balancing adjustment event occurs for a depreciating asset whose decline in value is worked out under Subdivision 40-B of the ITAA 1997 (section 40-285 of the ITAA 1997). Broadly speaking, a balancing adjustment is the difference between the asset's termination value and its adjustable value and is either included in or allowed as a deduction from assessable income.
 For the purpose of working out a balancing adjustment under section 40-285 of the ITAA 1997, the termination value of a depreciating asset has the meaning given by section 40-300 of the ITAA 1997. If an item in the table in subsection 40-300(2) of the ITAA 1997 applies, the termination value is the amount specified in that item. Otherwise, the termination value is the amount you are taken to have received under section 40-305 of the ITAA 1997.
 The amount worked out as the termination value of a depreciating asset may be reduced, under section 40-315 of the ITAA 1997, for expenses that are reasonably attributable to the balancing adjustment event occurring for the asset if they are not otherwise deductible. The fee paid to the external contractor in this case satisfies these requirements.
-As no item in the table in subsection 40-300(2) of the ITAA 1997 applies, the termination value of the taxpayer's depreciating asset is the amount worked out under section 40-305 of the ITAA 1997. Section 40-305 applies to treat certain amounts as having been received under a balancing adjustment event. The word 'amount' of itself connotes a sum total to which items amount up (see EMI (Aust) Ltd v. FC of T  71 ATC 4112; (1971) 2 ATR 325). In the context of section 40-305, what is sought as the 'amount' is a quantitative statement of what the buyer promises, expressly or tacitly, to pay to, or for, the seller in order that he, the buyer, may get a good title to goods that he has agreed to buy (again see EMI (Aust) Ltd v. FC of T  71 ATC 4112; (1971) 2 ATR 325). In an ordinary sense, an amount less than zero is not received. This is supported by the definition of the word 'amount' in subsection 995-1(1) of the ITAA 1997 to include a nil amount.
+As no item in the table in subsection 40-300(2) of the ITAA 1997 applies, the termination value of the taxpayer's depreciating asset is the amount worked out under section 40-305 of the ITAA 1997. Section 40-305 applies to treat certain amounts as having been received under a balancing adjustment event. The word 'amount' of itself connotes a sum total to which items amount up (see EMI (Aust) Ltd v. FC of T 71 ATC 4112; (1971) 2 ATR 325). In the context of section 40-305, what is sought as the 'amount' is a quantitative statement of what the buyer promises, expressly or tacitly, to pay to, or for, the seller in order that he, the buyer, may get a good title to goods that he has agreed to buy (again see EMI (Aust) Ltd v. FC of T 71 ATC 4112; (1971) 2 ATR 325). In an ordinary sense, an amount less than zero is not received. This is supported by the definition of the word 'amount' in subsection 995-1(1) of the ITAA 1997 to include a nil amount.
 Reducing the termination value of a depreciating asset for the purpose of section 40-285 of the ITAA 1997 seeks to recognise those expenses reasonably attributable to the balancing adjustment event to the extent they would not otherwise be deducted. The reduction ensures that only that part of the termination value of the asset that exceeds these expenses is taken into account for the purpose of the comparison of termination value and adjustable value (that is, the balancing adjustment) in section 40-285. This means that the reduction under section 40-315 of the ITAA 1997 is not a simple mathematical equation that can result in a termination value less than zero for the purpose of the comparison.
 For the purpose of working out a balancing adjustment under section 40-285 of the ITAA 1997, therefore, the termination value of the taxpayer's depreciating asset is zero.
 Date of decision:
-         24 December 2003
+  24 December 2003
 
 Year of income:
-           Year ended 31 December 2003 Year ended 31 December 2004 Year ended 31 December 2005 Year ended 31 December 2006
+  Year ended 31 December 2003 Year ended 31 December 2004 Year ended 31 December 2005 Year ended 31 December 2006
 
 Legislative References:
 
@@ -46,9 +41,7 @@ Income Tax Assessment Act 1997   section 40-285   section 40-300   subs
 
 Case References:
 
-
 EMI (Aust) Ltd v. FC of T   71 ATC 4112   (1971) 2 ATR 325
-
 
 Related ATO Interpretative Decisions
 
@@ -58,32 +51,28 @@ Related ATO Interpretative Decisions
 Keywords
 
 Balancing adjustments
-          Balancing adjustment event
-          Balancing adjustments on disposal of plant
-          Capital Allowances CoE
-          Termination value
-          Uniform capital allowance system
-
+ Balancing adjustment event
+ Balancing adjustments on disposal of plant
+ Capital Allowances CoE
+ Termination value
+ Uniform capital allowance system
 
 Business Line:
-         Effective Life and Capital Allowances Centre of Expertise
+  Effective Life and Capital Allowances Centre of Expertise
 
 Date of publication:
-         26 March 2004
+  26 March 2004
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 24 December 2003

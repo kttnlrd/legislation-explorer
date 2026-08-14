@@ -3,23 +3,18 @@ ATO ID 2003/1084
 ==================================================
 
 Income Tax
-        Employee Share Options: taxation of a discount derived by a resident of the United States on the exercise of share options granted from previous employment in Australia
-        FOI status: may be released
-
+ Employee Share Options: taxation of a discount derived by a resident of the United States on the exercise of share options granted from previous employment in Australia
+ FOI status: may be released
 
 This ATO ID is withdrawn from the database due to the repeal of Division 13A of Part III of the Income Tax Assessment Act 1936 with effect from 14 December 2009 and because it does not clearly explain the ATO view on this issue. The relevant law and its current interpretation is more comprehensively explained in ATO ID 2011/16 which, although also withdrawn, continues to be precedential view in respect of decisions for income years up to, and including, the 2008/2009 income year.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does Article 15 of Schedule 2 to the International Tax Agreements Act 1953 (the US Convention) permit Australia to tax a discount on employee share options under subsection 139B(3) of the Income Tax Assessment Act 1936 (ITAA 1936) where the options were granted whilst the taxpayer was employed in Australia but were not exercised until the taxpayer became a resident of the United States?
@@ -39,14 +34,13 @@ Accordingly, as Australia is the State of source, it is permitted to tax a porti
 Subsection 139B(3) of the ITAA 1936 provides that where a taxpayer has not made an election in the year of income that a qualifying share or right was acquired, their assessable income includes the discount of the qualifying share or right in the year in which the cessation time occurs.
 For the purposes of calculating the amount of the gain to be included under subsection 139B(3) of the ITAA 1936, the discount that is determined under either subsection 139CC(3) or subsection 139CC(4) of the ITAA 1936 needs to be apportioned for the period that is attributable to the employment exercised in Australia. The apportionment is calculated by the number of days that the taxpayer worked for their employer in Australia during the period between the grant of the option and the date of vesting of each option, to the total number of days employed between the grant of the options and the date of vesting of each option. This apportionment can be expressed as follows:
 
-
 Discount at exercise * (Days employed in Australia between grant and vesting / Total days employed between grant and vesting of the option)
 
 Date of decision:
-         8 October 2003
+  8 October 2003
 
 Year of income:
-           Year ended 30 June 2003
+  Year ended 30 June 2003
 
 Legislative References:
 
@@ -59,34 +53,30 @@ Related ATO Interpretative Decisions
 
 Other References:
 
-OECD, 'Cross-Border Income Tax Issues Arising from Employee Stock-Option Plans: Revised Public Discussion Draft' (21/07/2003) at  http://www.oecd.org/dataoecd/46/34/4357310.pdf
+OECD, 'Cross-Border Income Tax Issues Arising from Employee Stock-Option Plans: Revised Public Discussion Draft' (21/07/2003) at http://www.oecd.org/dataoecd/46/34/4357310.pdf
 
 Keywords
 
 Double tax agreements
-          Employee share schemes & options
-          United States
-
+ Employee share schemes & options
+ United States
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         28 November 2003
+  28 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  8 October 2003

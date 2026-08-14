@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Debit**
 
-**(1)**  An ICA company has an imputation debit for an amount of overpaid income tax that is applied to satisfy the company’s income tax liability under section BB 1 (Imposition of income tax) for a pre-imputation income year. Subsection (2) overrides this section.
+**(1)**  An ICA company has an imputation debit for an amount of overpaid income tax that is applied to satisfy the company's income tax liability under section BB 1 (Imposition of income tax) for a pre-imputation income year. Subsection (2) overrides this section.
 
 **No debit**
 

@@ -29,7 +29,7 @@ source_pdf: "vol01.pdf"
 > **(c)**  a person authorised by the entity to receive disclosures that may qualify for protection under this Part;
 
 > <a id="s14ZZV-1-d"></a>
-> **(d)**  a person or body prescribed for the purposes of this paragraph in relation to the entity. Authorised Version C2026C00170 registered 28/04/2026
+> **(d)**  a person or body prescribed for the purposes of this paragraph in relation to the entity.
 
 <a id="s14ZZV-2"></a>
 **(2)**  If the entity is a body corporate, each of the following is an eligible recipient in relation to the entity:

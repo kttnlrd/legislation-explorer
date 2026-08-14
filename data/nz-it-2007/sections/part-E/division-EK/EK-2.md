@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # EK 2  Persons who may make payment to environmental restoration account
 
-A person may make a payment to the Commissioner for entry in the person’s environmental restoration account for an income year if the person—
+A person may make a payment to the Commissioner for entry in the person's environmental restoration account for an income year if the person—
 
 - (a) carries on a business in New Zealand; and
 

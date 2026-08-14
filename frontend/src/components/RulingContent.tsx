@@ -70,6 +70,7 @@ export default function RulingContent({
   const background: string = rulingData?.background || ''
   const rulingText: string = rulingData?.ruling || ''
   const notice: string = rulingData?.notice || ''
+  const decision: string = rulingData?.decision || ''
   const casesReferenced: string[] = rulingData?.cases_referenced || []
   const legislationReferenced: string[] = rulingData?.legislation_referenced || []
   const atoUrl: string = rulingData?.ato_url || ''
@@ -140,7 +141,7 @@ export default function RulingContent({
         color: COLORS.heading, fontSize: isMobile ? 20 : 22, marginBottom: 16,
         fontWeight: 600, borderBottom: `1px solid ${COLORS.border}`, paddingBottom: 8,
       }}>
-        {fm.title || rulingData.citation}{descriptiveTitle ? ` — ${descriptiveTitle}` : ''}
+        {fm.title || rulingData.citation}{descriptiveTitle && descriptiveTitle !== (fm.title || rulingData.citation) ? ` — ${descriptiveTitle}` : ''}
         <a
           href={`/api/ruling/${encodeURIComponent(rulingData.citation)}/download`}
           download
@@ -157,8 +158,8 @@ export default function RulingContent({
         </a>
       </h1>
 
-      {/* AI Summary — inline, always visible */}
-      {(status || subject || question || background || rulingText || notice || legislationReferenced.length > 0 || casesReferenced.length > 0 || atoUrl) && (
+      {/* AI Summary — inline, always visible (not for ATO IDs — full body renders instead) */}
+      {rulingData?.type !== 'ATO ID' && (status || subject || question || decision || background || rulingText || notice || legislationReferenced.length > 0 || casesReferenced.length > 0 || atoUrl) && (
       <div style={{
         marginBottom: 24, border: `1px solid ${COLORS.border}`,
         borderRadius: 6, padding: '14px 16px',
@@ -169,6 +170,7 @@ export default function RulingContent({
         {status && <p style={{margin: '0 0 10px 0'}}><strong>Status:</strong> {status}</p>}
         {subject && <p style={{margin: '0 0 10px 0'}}><strong>Subject:</strong> {subject}</p>}
         {question && <p style={{margin: '0 0 10px 0'}}><strong>Question:</strong> {question}</p>}
+        {decision && <p style={{margin: '0 0 10px 0'}}><strong>Decision:</strong> {decision}</p>}
         {background && <p style={{margin: '0 0 10px 0'}}><strong>Background:</strong> {background}</p>}
         {rulingText && <p style={{margin: '0 0 10px 0'}}><strong>Ruling:</strong> {rulingText}</p>}
         {notice && (

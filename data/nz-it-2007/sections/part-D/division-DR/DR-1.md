@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **No cross-deducting: section EY 2**
 
-**(2)**  A policyholder base allowable deduction is not allowed against shareholder base income. Section EY 2 (Policyholder base) deals with allowing policyholder base allowable deductions against policyholder base income, and deals with deductions that relate to the life insurer’s schedular income derived by their life fund PIE that is a multi-rate PIE.
+**(2)**  A policyholder base allowable deduction is not allowed against shareholder base income. Section EY 2 (Policyholder base) deals with allowing policyholder base allowable deductions against policyholder base income, and deals with deductions that relate to the life insurer's schedular income derived by their life fund PIE that is a multi-rate PIE.
 
 **Link with subpart DA**
 

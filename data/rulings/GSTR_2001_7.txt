@@ -4,42 +4,40 @@ HEAD NOTE
 Title: Goods and Services Tax Ruling
 
 Sections Referenced:
-  • Div 188
-  • Div 189
-  • Div 358
-  • Division 188
-  • Division 189
-  • Division 358
-  • Subdivision 9-C
-  • div 9
-  • division 9
+ • Div 188
+ • Div 189
+ • Div 358
+ • Division 188
+ • Division 189
+ • Division 358
+ • Subdivision 9-C
+ • div 9
+ • division 9
 
 Cases Referenced:
-  • Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
+ • Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
 (1976) 14 SASR 303
-  • Burswood Management Ltd v. Attorney
-  • Hatfield v. Health Insurance Commission
+ • Burswood Management Ltd v. Attorney
+ • Hatfield v. Health Insurance Commission
 (1987) 15 FCR 487
-  • In
+ • In
 Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
 (1976) 14 SASR 303
-  • In
+ • In
 Hatfield v. Health Insurance Commission
 (1987) 15 FCR 487
-  • In
+ • In
 Perpetual Trustee Company Ltd v. Commissioner 
-  • Motors Ltd v. Rinder
+ • Motors Ltd v. Rinder
 
-  • Perpetual Trustee Company Ltd v. Commissioner 
-  • Tillmanns Butcheries Pty Ltd v. Australasian Meat Industry Employees
-  • United Collieries Ltd v. Inland Revenue Commissioners
+ • Perpetual Trustee Company Ltd v. Commissioner 
+ • Tillmanns Butcheries Pty Ltd v. Australasian Meat Industry Employees
+ • United Collieries Ltd v. Inland Revenue Commissioners
 (1930)
-  • United Collieries Ltd v. Internal Revenue Commissioners
+ • United Collieries Ltd v. Internal Revenue Commissioners
 (1930)
 
 Topics: GST, Trusts, Companies, Employment
-
-
 
 ================================================================================
 
@@ -54,13 +52,13 @@ Back to browse
 83 related documents
 Goods and Services Tax Ruling
 GSTR 2001/7
-Goods and services tax:  meaning of GST turnover, including the effect of section 188-25 on projected GST turnover
+Goods and services tax: meaning of GST turnover, including the effect of section 188-25 on projected GST turnover
 Please note that the
 PDF version
 is the authorised consolidated version of this ruling and amending notices.
 From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
 Treasury Legislation Amendment (Repeal Day) Act 2015
-.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+. The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
 This document incorporates revisions made since original publication. View its
 history
 and amending notices, if applicable.
@@ -89,7 +87,7 @@ From 1 July 2010, this document is taken to be a public ruling under Division 35
 Taxation Administration Act 1953.
 A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
 If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
-[Note: This is a consolidated version of this document.  Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
 What this Ruling is about
 1. This Ruling explains:
 •
@@ -125,7 +123,7 @@ Date of effect
 5A. [Omitted.]
 5B. [Omitted.]
 Background
-6. The application of the GST Act to an entity depends upon the concepts of 'turnover threshold', 'GST turnover', 'current GST turnover' and, in particular, 'projected GST turnover'.  Both your 'current GST turnover' and your 'projected GST turnover' are relevant to whether you have a GST turnover that meets, or exceeds a turnover threshold.
+6. The application of the GST Act to an entity depends upon the concepts of 'turnover threshold', 'GST turnover', 'current GST turnover' and, in particular, 'projected GST turnover'. Both your 'current GST turnover' and your 'projected GST turnover' are relevant to whether you have a GST turnover that meets, or exceeds a turnover threshold.
 [3B]
 7. If you carry on an enterprise that is also a business
 [3C]
@@ -220,7 +218,7 @@ subsection 31-25(4)
 subsection 33-10(2)
 Ruling with explanations
 Relevance of 'GST turnover' for determination of turnover threshold
-9. Section 188-10 is relevant for working out whether your GST turnover meets, or does not exceed, a turnover threshold.  In calculating the electronic lodgment, registration and tax period turnover thresholds, you have a GST turnover that meets a particular turnover threshold under subsection 188-10(1) when:
+9. Section 188-10 is relevant for working out whether your GST turnover meets, or does not exceed, a turnover threshold. In calculating the electronic lodgment, registration and tax period turnover thresholds, you have a GST turnover that meets a particular turnover threshold under subsection 188-10(1) when:
 •
 your current GST turnover is at or above the turnover threshold, and the Commissioner is not satisfied that your projected GST turnover is below the turnover threshold; or
 •
@@ -231,8 +229,8 @@ your current GST turnover is at or below the turnover threshold, and the Commiss
 •
 your projected GST turnover is at or below the turnover threshold.
 Current GST turnover and projected GST turnover
-11. Section 188-15 defines 'current GST turnover'.  Subject to the exclusions listed in paragraph 14 of this Ruling, 'current GST turnover' at any time during a particular month is the sum of the values of all the supplies that you made, or are likely to make, during the current month and the preceding 11 months.
-12. Section 188-20 defines 'projected GST turnover'.  Subject to the exclusions listed in paragraph 14 of this Ruling, 'projected GST turnover' at a time during a particular month is the sum of the values of all the supplies that you made, or are likely to make, during that month and the next 11 months.
+11. Section 188-15 defines 'current GST turnover'. Subject to the exclusions listed in paragraph 14 of this Ruling, 'current GST turnover' at any time during a particular month is the sum of the values of all the supplies that you made, or are likely to make, during the current month and the preceding 11 months.
+12. Section 188-20 defines 'projected GST turnover'. Subject to the exclusions listed in paragraph 14 of this Ruling, 'projected GST turnover' at a time during a particular month is the sum of the values of all the supplies that you made, or are likely to make, during that month and the next 11 months.
 13. If you are a member of a GST group, in your calculation of current GST turnover and projected GST turnover you must also include the values of supplies made by any member of the group (excluding internal supplies).
 14. The following supplies are excluded from the calculation of current GST turnover and projected GST turnover:
 •
@@ -254,11 +252,11 @@ supplies made from one member of a GST group to another member of that GST group
 GST free supplies made by a non resident supplier that are not made through an enterprise they carry on in Australia.
 [10D]
 Paragraph 29 of this Ruling covers further supplies that will be disregarded in calculating projected GST turnover.
-15. The term 'supplies' in section 188-15 and 188-20 refers to all supplies as defined in section 9-10 and is not limited to taxable supplies as defined in section 9-5.  Current GST turnover and projected GST turnover are the sum of the respective values (excluding GST) for the 12 months.
+15. The term 'supplies' in section 188-15 and 188-20 refers to all supplies as defined in section 9-10 and is not limited to taxable supplies as defined in section 9-5. Current GST turnover and projected GST turnover are the sum of the respective values (excluding GST) for the 12 months.
 Whether your GST turnover meets, or does not exceed, a turnover threshold
-16. Whether you have a GST turnover that meets or does not exceed a particular turnover threshold depends on an objective assessment of your projected GST turnover and current GST turnover.  An 'objective assessment' is one that a reasonable person could be expected to arrive at having regard to the facts and circumstances which apply to your enterprise at the relevant time.  The Commissioner will accept your assessment of these turnovers unless he has reason to believe that your assessment was not reasonable.
-17. Under subsection 188-10(1), you meet a particular turnover threshold if your projected GST turnover is at or above the threshold.  You also meet a turnover threshold if your current GST turnover is at or above the turnover threshold and it is not possible to conclude that your projected GST turnover is below the threshold.  This will occur if your projected GST turnover is also above the relevant threshold, or if your circumstances are such that it is not possible to calculate a projected GST turnover.  In either of these situations, the Commissioner cannot be satisfied that your projected GST turnover is below the turnover threshold.
-18. Similarly, under subsection 188-10(2), you have a GST turnover that does not exceed a particular turnover threshold if your projected GST turnover is at or below that threshold.  You also do not exceed a turnover threshold if your current GST turnover is at or below the turnover threshold and it is not possible to conclude that your projected GST turnover is above the threshold.  This will occur if your projected GST turnover is at or below the relevant threshold or your circumstances are such that it is not possible to calculate a projected GST turnover. In either of these situations, the Commissioner cannot be satisfied that your projected GST turnover is above the turnover threshold.
+16. Whether you have a GST turnover that meets or does not exceed a particular turnover threshold depends on an objective assessment of your projected GST turnover and current GST turnover. An 'objective assessment' is one that a reasonable person could be expected to arrive at having regard to the facts and circumstances which apply to your enterprise at the relevant time. The Commissioner will accept your assessment of these turnovers unless he has reason to believe that your assessment was not reasonable.
+17. Under subsection 188-10(1), you meet a particular turnover threshold if your projected GST turnover is at or above the threshold. You also meet a turnover threshold if your current GST turnover is at or above the turnover threshold and it is not possible to conclude that your projected GST turnover is below the threshold. This will occur if your projected GST turnover is also above the relevant threshold, or if your circumstances are such that it is not possible to calculate a projected GST turnover. In either of these situations, the Commissioner cannot be satisfied that your projected GST turnover is below the turnover threshold.
+18. Similarly, under subsection 188-10(2), you have a GST turnover that does not exceed a particular turnover threshold if your projected GST turnover is at or below that threshold. You also do not exceed a turnover threshold if your current GST turnover is at or below the turnover threshold and it is not possible to conclude that your projected GST turnover is above the threshold. This will occur if your projected GST turnover is at or below the relevant threshold or your circumstances are such that it is not possible to calculate a projected GST turnover. In either of these situations, the Commissioner cannot be satisfied that your projected GST turnover is above the turnover threshold.
 19. Although your current GST turnover and your projected GST turnover may be capable of being determined on every day during a month, there is no requirement for continuous recalculation. However, under the GST Act there are obligations if you meet or exceed a particular threshold and there is an opportunity for you to make certain elections if you do not exceed a particular threshold. Therefore, you should be aware of the relevant thresholds likely to affect you and consider whether your turnover may be sufficiently close to the relevant thresholds to make a review prudent. For example, Entity A conducts an enterprise with a GST turnover of $70,000 and is not registered for GST. Because Entity A is aware that a $5,000 increase in its GST turnover will result in the $75,000 registration turnover threshold being met, it should monitor changes in its turnover. Entity B by contrast, is registered for GST, conducts an enterprise with a GST turnover of $600,000 and accounts on a cash basis. The nearest relevant threshold is the cash accounting turnover threshold ($2,000,000). Entity B may decide to review its current GST turnover and projected GST turnover on an annual basis whilst being aware that a significant change in turnover may require a further review.
 20. If you have elected to pay GST by instalments, this election has effect for the whole of the financial year in question even if, after making the election, you cease being an SBE for an income year, or
 [10E]
@@ -266,27 +264,27 @@ if you carry on an enterprise, but not a business, you exceed the instalment tur
 [11]
 Therefore, it is not necessary to review your GST turnover, for this purpose, for the financial year in which your election has effect.
 Meaning of 'likely to make' or 'likely to be made'
-21. The phrase 'likely to make' appears in sections 188-15 and 188-20.  The phrase 'likely to be made' appears in section 188-25.  Both phrases refer to a similar level of expectancy, although the GST Act defines neither.  The words retain their ordinary meaning in the context of the legislation.
+21. The phrase 'likely to make' appears in sections 188-15 and 188-20. The phrase 'likely to be made' appears in section 188-25. Both phrases refer to a similar level of expectancy, although the GST Act defines neither. The words retain their ordinary meaning in the context of the legislation.
 22. In
 Australian Telecommunications Commission v. Krieg Enterprises Pty Ltd
-(1976) 14 SASR 303, Bray CJ considered the meaning of 'likely' in the phrase 'likely to interfere with or damage property'.  His Honour said at pages 312-313:
-'Here we are concerned with the word "likely" in a statute.  As I have said, the ordinary and natural meaning of the word is synonymous with the ordinary and natural meaning of the word "probable" and both words mean,... that there is an odds-on chance of the thing happening.  That is the way in which statutes containing the words have usually been construed. ...I think that "likely" in the sub-section means "probable" and I think that that means that there is a more than fifty per cent chance of the thing happening.'
+(1976) 14 SASR 303, Bray CJ considered the meaning of 'likely' in the phrase 'likely to interfere with or damage property'. His Honour said at pages 312-313:
+'Here we are concerned with the word "likely" in a statute. As I have said, the ordinary and natural meaning of the word is synonymous with the ordinary and natural meaning of the word "probable" and both words mean,... that there is an odds-on chance of the thing happening. That is the way in which statutes containing the words have usually been construed. ...I think that "likely" in the sub-section means "probable" and I think that that means that there is a more than fifty per cent chance of the thing happening.'
 23. For the purposes of sections 188-15, 188-20 and 188-25, the expressions, 'likely to make', and 'likely to be made', mean that on the balance of probabilities, it can be predicated that the supply is more likely than not to be made.
-24. When a supply is made, is determined in each case by reference to the terms of the particular contract, if applicable, and the nature of the supply.  For the purpose of calculating supplies likely to be made, we will accept a calculation based on a bona fide business plan, accounting budget or some other reasonable estimate.
+24. When a supply is made, is determined in each case by reference to the terms of the particular contract, if applicable, and the nature of the supply. For the purpose of calculating supplies likely to be made, we will accept a calculation based on a bona fide business plan, accounting budget or some other reasonable estimate.
 Meaning of 'in connection with'
-25. The words 'in connection with', as used in sections 188-15 and 188-20, are not defined in the GST Act.  Such wide formulas are context related and courts have insisted that the words be interpreted in accordance with the intent of the relevant statute. In
+25. The words 'in connection with', as used in sections 188-15 and 188-20, are not defined in the GST Act. Such wide formulas are context related and courts have insisted that the words be interpreted in accordance with the intent of the relevant statute. In
 Hatfield v. Health Insurance Commission
 (1987) 15 FCR 487 at page 491 Davies J stated:
-'Expressions such as "relating to", "in relation to", "in connection with" and "in respect of" are commonly found in legislation but invariably raise problems of statutory interpretation.  They are terms that fluctuate in operation from statute to statute...  The terms may have a very wide operation but they do not usually carry the widest possible ambit, for they are subject to the context in which they are used, to the words with which they are associated and to the object or purpose of the statutory provision in which they appear.'
+'Expressions such as "relating to", "in relation to", "in connection with" and "in respect of" are commonly found in legislation but invariably raise problems of statutory interpretation. They are terms that fluctuate in operation from statute to statute... The terms may have a very wide operation but they do not usually carry the widest possible ambit, for they are subject to the context in which they are used, to the words with which they are associated and to the object or purpose of the statutory provision in which they appear.'
 26. This passage was approved by the Full Federal Court in
 Burswood Management Ltd v. Attorney-General
-(1990) 23 FCR 144.  At page 146 their Honours concluded that reference to reported cases is of little assistance in determining the meaning of the words 'in connection with', because they take their meaning from the particular statute in which they appear.
+(1990) 23 FCR 144. At page 146 their Honours concluded that reference to reported cases is of little assistance in determining the meaning of the words 'in connection with', because they take their meaning from the particular statute in which they appear.
 [12]
-27. The requirements in sections 188-15 and 188-20 largely mirror the requirements of paragraph 9-5(b) of the GST Act.  The words 'in connection with an enterprise that you carry on', should therefore be read as having the same meaning as the words 'in the course or furtherance of an enterprise that you carry on' in paragraph 9-5(b) of the GST Act.  A supply of a private commodity, such as when a plumber sells his classic car privately, will not be a supply 'in connection with' an enterprise he carries on.
+27. The requirements in sections 188-15 and 188-20 largely mirror the requirements of paragraph 9-5(b) of the GST Act. The words 'in connection with an enterprise that you carry on', should therefore be read as having the same meaning as the words 'in the course or furtherance of an enterprise that you carry on' in paragraph 9-5(b) of the GST Act. A supply of a private commodity, such as when a plumber sells his classic car privately, will not be a supply 'in connection with' an enterprise he carries on.
 28. A supply which you make in the course of commencing or terminating an enterprise is a supply which is made in the course or furtherance of the enterprise which you carry on.
 [13]
 Supplies to be disregarded under section 188-25
-29. Section 188-25 modifies the effect of section 188-20 by excluding certain supplies made when working out your projected GST turnover.  Section 188-25 requires you to disregard the following when calculating your projected GST turnover:
+29. Section 188-25 modifies the effect of section 188-20 by excluding certain supplies made when working out your projected GST turnover. Section 188-25 requires you to disregard the following when calculating your projected GST turnover:
 •
 any supply made, or likely to be made, by you by way of transfer of ownership of a capital asset of yours; and
 •
@@ -295,64 +293,64 @@ any supply made, or likely to be made, by you solely as a consequence of:
 ceasing to carry on an enterprise; or
 -
 substantially and permanently reducing the size or scale of an enterprise.
-30. Your projected GST turnover does not include supplies that fall within the description in either paragraph 188-25(a) or paragraph 188-25(b) listed above.  Your supply does not have to satisfy the descriptions in both paragraph (a) and paragraph (b).  When you make a supply that is capable of satisfying the description in both paragraphs, the supply is excluded only once.  (See example 3 at paragraph 53 of this Ruling.)
+30. Your projected GST turnover does not include supplies that fall within the description in either paragraph 188-25(a) or paragraph 188-25(b) listed above. Your supply does not have to satisfy the descriptions in both paragraph (a) and paragraph (b). When you make a supply that is capable of satisfying the description in both paragraphs, the supply is excluded only once. (See example 3 at paragraph 53 of this Ruling.)
 Meaning of 'capital assets'
-31. The GST Act does not define the term 'capital assets'.  Generally, the term 'capital assets' refers to those assets that make up 'the profit yielding subject'
+31. The GST Act does not define the term 'capital assets'. Generally, the term 'capital assets' refers to those assets that make up 'the profit yielding subject'
 [14]
-of an enterprise.  They are often referred to as 'structural assets' and may be described as 'the business entity, structure or organisation set up or established for the earning of profits'.
+of an enterprise. They are often referred to as 'structural assets' and may be described as 'the business entity, structure or organisation set up or established for the earning of profits'.
 [15]
-32. 'Capital assets' can include tangible assets such as your factory, shop or office, your land on which they stand, fixtures and fittings, plant, furniture, machinery and motor vehicles that are retained by you to produce income.  'Capital assets' can also include intangible assets, such as your goodwill.
+32. 'Capital assets' can include tangible assets such as your factory, shop or office, your land on which they stand, fixtures and fittings, plant, furniture, machinery and motor vehicles that are retained by you to produce income. 'Capital assets' can also include intangible assets, such as your goodwill.
 33. Capital assets are 'radically different from assets which are turned over and bought and sold in the course of trading operations'.
 [16]
 An asset which is acquired and used for resale in the course of carrying on an enterprise (for example, trading stock
 [17]
 ) is not a 'capital asset' for the purposes of paragraph 188-25(a).
-34. 'Capital assets' are to be distinguished from 'revenue assets'.  A 'revenue asset' is 'an asset whose realisation is inherent in, or incidental to, the carrying on of a business'.
+34. 'Capital assets' are to be distinguished from 'revenue assets'. A 'revenue asset' is 'an asset whose realisation is inherent in, or incidental to, the carrying on of a business'.
 [18]
-35. If the means by which you derive income is through the disposal of an asset, the asset will be of a revenue nature rather than a capital asset even if such a disposal is an occasional or one-off transaction.  Isolated transactions are discussed further at paragraphs 46 and 47 of this Ruling.
-36. Over the period that an asset is held by an entity, its character may change from capital to revenue or from revenue to capital.  For the purposes of section 188-25 the character of an asset must be determined at the time of expected supply.
+35. If the means by which you derive income is through the disposal of an asset, the asset will be of a revenue nature rather than a capital asset even if such a disposal is an occasional or one-off transaction. Isolated transactions are discussed further at paragraphs 46 and 47 of this Ruling.
+36. Over the period that an asset is held by an entity, its character may change from capital to revenue or from revenue to capital. For the purposes of section 188-25 the character of an asset must be determined at the time of expected supply.
 Meaning of 'transfer of ownership'
-37. The GST Act does not define the concept, 'transfer of ownership'.  The words retain their ordinary meaning in context, and mean a transfer of the whole of your beneficial interest in the asset with or without legal title.  A transfer of an interest in property that is less than your full interest will not be captured by these words.  For example, if you merely grant a lease or licence over an asset that you own, the supply of that lease or licence will not be a 'transfer of ownership'.  However, if you assign your full interest in that lease or licence it will be a 'transfer of ownership'.
+37. The GST Act does not define the concept, 'transfer of ownership'. The words retain their ordinary meaning in context, and mean a transfer of the whole of your beneficial interest in the asset with or without legal title. A transfer of an interest in property that is less than your full interest will not be captured by these words. For example, if you merely grant a lease or licence over an asset that you own, the supply of that lease or licence will not be a 'transfer of ownership'. However, if you assign your full interest in that lease or licence it will be a 'transfer of ownership'.
 Meaning of 'solely as a consequence'
-38. The GST Act does not define the term 'solely as a consequence of'.  In the case of
+38. The GST Act does not define the term 'solely as a consequence of'. In the case of
 Reseck v. FC of T (1975) 133 CLR 45; 75 ATC 4213; (1975) 5 ATR 538
-the meaning of 'in consequence of' in the context of the phrase 'in consequence of termination of employment' was examined.  His Honour Gibbs J at CLR 51; ATC 4216; ATR 541 interpreted the words to mean that an event follows as an effect or result of some primary event.  However, Jacobs J at CLR 56; ATC 4219, ATR 545 expressed a different view that a 'consequence' in this context is not the same as a 'result'.  It does not import causation but rather a 'following on'.  Both judges dismissed the argument the termination of service had to be the dominant cause of the payment.
+the meaning of 'in consequence of' in the context of the phrase 'in consequence of termination of employment' was examined. His Honour Gibbs J at CLR 51; ATC 4216; ATR 541 interpreted the words to mean that an event follows as an effect or result of some primary event. However, Jacobs J at CLR 56; ATC 4219, ATR 545 expressed a different view that a 'consequence' in this context is not the same as a 'result'. It does not import causation but rather a 'following on'. Both judges dismissed the argument the termination of service had to be the dominant cause of the payment.
 39. Although the words 'in consequence' may mean a result (i.e., cause) or a following on, the addition of the word 'solely' in our view requires that in this context there be a causal connection which is exclusive.
 40. In
 Perpetual Trustee Company Ltd v. Commissioner of State Revenue
 (2000) 44 ATR 273, Hansen J considered the phrase 'solely in consequence' within Exemption 23 of the
 Stamps Act 1958 (Vic)
-.  After discussing the purpose of the exemption, (that being to provide an exemption from stamp duty in specific cases), Hansen J said at pages 286-287:
+. After discussing the purpose of the exemption, (that being to provide an exemption from stamp duty in specific cases), Hansen J said at pages 286-287:
 'In its common understanding in its present context the word "solely" in conjunction with the words "in consequence of" means that the exemption will apply only if the instruments of transfer were executed in consequence of the change in trustee and in order to vest the real property of the trust in the name of the new trustee and not in consequence of any other factor.'
 41. For the purposes of section 188-25 a supply is made, or is likely to be made, 'solely as a consequence' where the supply is made only as a result of the ceasing of an enterprise (see example 1 of this Ruling), or the substantial and permanent reduction in size or scale of an enterprise (see example 2 of this Ruling).
 The meaning of 'substantially and permanently'
-42. The GST Act does not define the term 'substantially and permanently' as used in subparagraph 188-25(b)(ii).  The word 'substantial' will vary according to context.  In
+42. The GST Act does not define the term 'substantially and permanently' as used in subparagraph 188-25(b)(ii). The word 'substantial' will vary according to context. In
 Terry's Motors Ltd v. Rinder
-[1948] SASR 167 at page 180, Mayo J noted that the word 'substantial' is not a word with a fixed meaning.  The word 'substantial' is commonly used to refer to something real or of substance, as distinct from ephemeral or nominal, when, for example, describing 'substantial loss or damage'.  However the word 'substantial' can also be used to describe something that is 'large, weighty or big'.
+[1948] SASR 167 at page 180, Mayo J noted that the word 'substantial' is not a word with a fixed meaning. The word 'substantial' is commonly used to refer to something real or of substance, as distinct from ephemeral or nominal, when, for example, describing 'substantial loss or damage'. However the word 'substantial' can also be used to describe something that is 'large, weighty or big'.
 [19]
-43. In the context of section 188-25, we consider that the term 'substantially' refers to a reduction in size which is greater than merely nominal and does not necessarily require a reduction which is proportionately large.  We will accept that, in the context of section 188-25, a 10% reduction in the size or scale is substantial in the case of most enterprises.  Size or scale in this context means something measurable in terms other than turnover, for example, number of divisions within a company or number of stores operated (see example 2 of this Ruling).  In some enterprises a reduction of less than 10% may be substantial.  This will depend on the facts and circumstances of each enterprise.
-44. The concept of 'permanently' requires that the reduction in size and scale of an enterprise is enduring or is reasonably expected to be enduring.  A reduction resulting from circumstances that have a foreseeable end is not permanent, for example a change that foreseeably affects only one or two years.  Provided the basis of the expectation of endurance is reasonable it is not relevant that the expectation is proved inaccurate by subsequent events.
+43. In the context of section 188-25, we consider that the term 'substantially' refers to a reduction in size which is greater than merely nominal and does not necessarily require a reduction which is proportionately large. We will accept that, in the context of section 188-25, a 10% reduction in the size or scale is substantial in the case of most enterprises. Size or scale in this context means something measurable in terms other than turnover, for example, number of divisions within a company or number of stores operated (see example 2 of this Ruling). In some enterprises a reduction of less than 10% may be substantial. This will depend on the facts and circumstances of each enterprise.
+44. The concept of 'permanently' requires that the reduction in size and scale of an enterprise is enduring or is reasonably expected to be enduring. A reduction resulting from circumstances that have a foreseeable end is not permanent, for example a change that foreseeably affects only one or two years. Provided the basis of the expectation of endurance is reasonable it is not relevant that the expectation is proved inaccurate by subsequent events.
 45. The substantial and permanent reduction applies to each enterprise operated by the entity, rather than the entity which may be required to be registered for GST.
 Isolated Transactions
 46. An enterprise may consist of an isolated transaction or a dealing with a single asset. For example, an enterprise may consist solely of the acquisition and refurbishment of a suburban shop for resale at a profit. Where an entity engages in acquiring a single asset for resale at a profit, the activity will be an enterprise under paragraph 9-20(1)(b), because it is an activity in the form of an adventure in the nature of trade.
 [20]
 As discussed in paragraph 35 of this Ruling, the disposal of that single asset is not the transfer of a capital asset. Consequently, that supply is not excluded from your projected GST turnover.
-47. The disposal of that single asset, or the completion of that isolated transaction, is also not a transfer solely as a consequence of ceasing to carry on an enterprise.  In such circumstances the enterprise ceases as a consequence of the disposal of the single asset, rather than the single asset being disposed of in consequence of the ceasing to carry on the enterprise.
+47. The disposal of that single asset, or the completion of that isolated transaction, is also not a transfer solely as a consequence of ceasing to carry on an enterprise. In such circumstances the enterprise ceases as a consequence of the disposal of the single asset, rather than the single asset being disposed of in consequence of the ceasing to carry on the enterprise.
 Examples
-Example 1:  Ceasing to carry on an enterprise
+Example 1: Ceasing to carry on an enterprise
 48. James, a grazier, aged seventy, decides to retire from his farm. He holds a clearing sale and sells all his livestock, machinery and implements to various buyers. He receives $80,000 from the sale that will be included in his current GST turnover. He is not registered for GST, as his GST turnover from selling livestock is usually around $35,000.
 49. If James has a GST turnover of $75,000 or more he is required to be registered for GST. Although he normally would have sold some of this livestock in his day to day operations, the whole herd has been sold at this time solely as a consequence of ceasing to carry on his enterprise. The effect of subparagraph 188-25(b)(i) is that the $80,000 is excluded from his projected GST turnover.
 50. An objective assessment of James' projected GST turnover is below $75,000 taking into account his age and the permanent nature of his decision. His current GST turnover is above $75,000 but because his projected GST turnover is below $75,000, his GST turnover does not meet the registration turnover threshold. Thus, James is not required to register for GST.
-Example 2:  Substantially and permanently reducing the size and scale of an enterprise
-51. Property Developer Pty Ltd develops tourist resorts in each of the six states in Australia.  Its business in each state is approximately the same size, and overall it has a GST turnover of approximately $18.0M.  The company is in the process of updating its accounting and payment system to facilitate electronic lodgment and payment of GST.  This process is not expected to be completed for another 6 months, at which time the company intends to elect to lodge and pay electronically.
-52. The board of directors decides to permanently close its operations in one State, reducing the size of its total operations by approximately 17%.  As a consequence of this decision, it sells its offices, offers staff redundancies and cancels its state licences.  Property Developer Pty Ltd then sells its stock of land holdings in that State to another developer for $2.75M.  The supply made in disposing of the trading stock is made solely as a consequence of a substantial and permanent reduction in the size and scale of the company's enterprise.  Therefore, the $2.75M is excluded from the calculation of its projected GST turnover.  As a result, the GST turnover of Property Developer Pty Ltd does not meet or exceed the electronic lodgment turnover threshold, and it is not required to lodge and pay electronically.  (However, Property Developer could voluntarily choose to do so.)
-Example 3:  Sample calculation of current GST turnover and projected GST turnover
-53. Alan, a retiree, owns all three shops located next to a suburban railway station.  Each of the shops is rented to tenants whose weekly tenancies are to terminate on 14 December 2001.  The rent payable for each of the three shops is $200 per week.  The railway department is planning an expansion of the station.  Alan sells the shops with vacant possession to the railway department for $200,000.  Alan's only enterprise is renting the shops. He is not registered for GST.  He is not intending to carry on any other enterprise in the next 12 months.  Settlement is to take place on 20 December 2001.
-54. Alan's current GST turnover as calculated in December 2001 is the sum of the values of all the supplies that he has made or is likely to make during the 12 months ending on 31 December 2001.  Alan has no supplies that are excluded under sections 188-15 or 188-20 (such as input taxed supplies).
-55. Alan's current GST turnover is 50 weeks rent of $600 per week (up to 14 December 2001) plus the $200,000 from the sale of the shops.  That is, a total of  $230,000.  Alan's current GST turnover is above the registration turnover threshold.
-56. Alan's projected GST turnover is the sum of the values of all the supplies that Alan has made or is likely to make in December 2001 and up to 30 November 2002.  Alan has made or will make supplies of 2 weeks rent of $600 per week (up to 14 December 2001) plus the $200,000 from the sale of the shops.  His projected GST turnover calculated under section 188-20 is $201,200.
-57. In selling the shops, Alan will dispose of a capital asset in addition to ceasing to carry on his enterprise.  Although the supply satisfies the conditions under both paragraph 188-25(a) and 188-25(b), those proceeds are excluded only once when calculating projected GST turnover.  (Refer to paragraph 30 of this Ruling.)  Alan can disregard the $200,000 from the sale of the shops.  Alan calculates his projected GST turnover as $1200.  As Alan has calculated his projected GST turnover on a reasonable basis to be below the registration turnover threshold, his GST turnover does not meet that particular turnover threshold.  He is not required to register for GST.
-Example 4:  Determining if an offshore freight forwarder is required to register
+Example 2: Substantially and permanently reducing the size and scale of an enterprise
+51. Property Developer Pty Ltd develops tourist resorts in each of the six states in Australia. Its business in each state is approximately the same size, and overall it has a GST turnover of approximately $18.0M. The company is in the process of updating its accounting and payment system to facilitate electronic lodgment and payment of GST. This process is not expected to be completed for another 6 months, at which time the company intends to elect to lodge and pay electronically.
+52. The board of directors decides to permanently close its operations in one State, reducing the size of its total operations by approximately 17%. As a consequence of this decision, it sells its offices, offers staff redundancies and cancels its state licences. Property Developer Pty Ltd then sells its stock of land holdings in that State to another developer for $2.75M. The supply made in disposing of the trading stock is made solely as a consequence of a substantial and permanent reduction in the size and scale of the company's enterprise. Therefore, the $2.75M is excluded from the calculation of its projected GST turnover. As a result, the GST turnover of Property Developer Pty Ltd does not meet or exceed the electronic lodgment turnover threshold, and it is not required to lodge and pay electronically. (However, Property Developer could voluntarily choose to do so.)
+Example 3: Sample calculation of current GST turnover and projected GST turnover
+53. Alan, a retiree, owns all three shops located next to a suburban railway station. Each of the shops is rented to tenants whose weekly tenancies are to terminate on 14 December 2001. The rent payable for each of the three shops is $200 per week. The railway department is planning an expansion of the station. Alan sells the shops with vacant possession to the railway department for $200,000. Alan's only enterprise is renting the shops. He is not registered for GST. He is not intending to carry on any other enterprise in the next 12 months. Settlement is to take place on 20 December 2001.
+54. Alan's current GST turnover as calculated in December 2001 is the sum of the values of all the supplies that he has made or is likely to make during the 12 months ending on 31 December 2001. Alan has no supplies that are excluded under sections 188-15 or 188-20 (such as input taxed supplies).
+55. Alan's current GST turnover is 50 weeks rent of $600 per week (up to 14 December 2001) plus the $200,000 from the sale of the shops. That is, a total of $230,000. Alan's current GST turnover is above the registration turnover threshold.
+56. Alan's projected GST turnover is the sum of the values of all the supplies that Alan has made or is likely to make in December 2001 and up to 30 November 2002. Alan has made or will make supplies of 2 weeks rent of $600 per week (up to 14 December 2001) plus the $200,000 from the sale of the shops. His projected GST turnover calculated under section 188-20 is $201,200.
+57. In selling the shops, Alan will dispose of a capital asset in addition to ceasing to carry on his enterprise. Although the supply satisfies the conditions under both paragraph 188-25(a) and 188-25(b), those proceeds are excluded only once when calculating projected GST turnover. (Refer to paragraph 30 of this Ruling.) Alan can disregard the $200,000 from the sale of the shops. Alan calculates his projected GST turnover as $1200. As Alan has calculated his projected GST turnover on a reasonable basis to be below the registration turnover threshold, his GST turnover does not meet that particular turnover threshold. He is not required to register for GST.
+Example 4: Determining if an offshore freight forwarder is required to register
 57A. Global Transporters, a non-resident freight forwarder that has no presence in Australia, is contracted by an Australian consumer to transport bicycle frames to a place of consignment in Australia.
 57B. Although Global Transporters services are partly connected with Australia they are GST-free.
 [21]
@@ -397,9 +395,9 @@ Example 1: Ceasing to carry on an enterprise
 48
 Example 2: Substantially and permanently reducing the size and scale of an enterprise
 51
-Example 3:  Sample calculation of current GST turnover and projected GST turnover
+Example 3: Sample calculation of current GST turnover and projected GST turnover
 53
-Example 4:  Determining if an offshore freight forwarder is required to register
+Example 4: Determining if an offshore freight forwarder is required to register
 57A
 Detailed contents list
 58
@@ -489,7 +487,7 @@ See paragraph 188-15(3)(d).
 Previously released in draft form as GSTR 2001/D1
 References
 ATO references:
-NO  T2000/017375
+NO T2000/017375
 ISSN: 1443-5160
 Related Rulings/Determinations:
 TR 2006/10
@@ -502,56 +500,56 @@ MT 2006/1
 Business Line:
 ISP - GST
 Legislative References:
-ANTS(GST)A 1999  9-5
-ANTS(GST)A 1999  9-5(b)
-ANTS(GST)A 1999  9-10
-ANTS(GST)A 1999  9-20(1)(b)
-ANTS(GST)A 1999  9-25
-ANTS(GST)A 1999  9-25(5)(c)
-ANTS(GST)A 1999  Subdiv 9-C
-ANTS(GST)A 1999  23-5
-ANTS(GST)A 1999  23-15
-ANTS(GST)A 1999  25-1
-ANTS(GST)A 1999  27-15(3)
-ANTS(GST)A 1999  29-40(1)(a)
-ANTS(GST)A 1999  29-40(3)
-ANTS(GST)A 1999  31-25(4)
-ANTS(GST)A 1999  72-5
-ANTS(GST)A 1999  123-5
-ANTS(GST)A 1999  123-7
-ANTS(GST)A 1999  123-7(1)(a)
-ANTS(GST)A 1999  123-7(2)
-ANTS(GST)A 1999  131-5
-ANTS(GST)A 1999  131-5(1)(a)(i)
-ANTS(GST)A 1999  131-5(2)
-ANTS(GST)A 1999  162-5(1)(a)(i)
-ANTS(GST)A 1999  162-5(2)
-ANTS(GST)A 1999  162-30(3)
-ANTS(GST)A 1999  Div 188
-ANTS(GST)A 1999  188-5
-ANTS(GST)A 1999  188-10
-ANTS(GST)A 1999  188-10(1)
-ANTS(GST)A 1999  188-10(2)
-ANTS(GST)A 1999  188-15
-ANTS(GST)A 1999  188-20
-ANTS(GST)A 1999  188-22
-ANTS(GST)A 1999  188-23
-ANTS(GST)A 1999  188-24
-ANTS(GST)A 1999  188-25
-ANTS(GST)A 1999  188-25(a)
-ANTS(GST)A 1999  188-25(b)
-ANTS(GST)A 1999  188-25(b)(i)
-ANTS(GST)A 1999  188-25(b)(ii)
-ANTS(GST)A 1999  188-32
-ANTS(GST)A 1999  188-35
-ANTS(GST)A 1999  188-40
-ANTS(GST)A 1999  Div 189
-ANTS(GST)A 1999  195-1
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-5(b)
+ANTS(GST)A 1999 9-10
+ANTS(GST)A 1999 9-20(1)(b)
+ANTS(GST)A 1999 9-25
+ANTS(GST)A 1999 9-25(5)(c)
+ANTS(GST)A 1999 Subdiv 9-C
+ANTS(GST)A 1999 23-5
+ANTS(GST)A 1999 23-15
+ANTS(GST)A 1999 25-1
+ANTS(GST)A 1999 27-15(3)
+ANTS(GST)A 1999 29-40(1)(a)
+ANTS(GST)A 1999 29-40(3)
+ANTS(GST)A 1999 31-25(4)
+ANTS(GST)A 1999 72-5
+ANTS(GST)A 1999 123-5
+ANTS(GST)A 1999 123-7
+ANTS(GST)A 1999 123-7(1)(a)
+ANTS(GST)A 1999 123-7(2)
+ANTS(GST)A 1999 131-5
+ANTS(GST)A 1999 131-5(1)(a)(i)
+ANTS(GST)A 1999 131-5(2)
+ANTS(GST)A 1999 162-5(1)(a)(i)
+ANTS(GST)A 1999 162-5(2)
+ANTS(GST)A 1999 162-30(3)
+ANTS(GST)A 1999 Div 188
+ANTS(GST)A 1999 188-5
+ANTS(GST)A 1999 188-10
+ANTS(GST)A 1999 188-10(1)
+ANTS(GST)A 1999 188-10(2)
+ANTS(GST)A 1999 188-15
+ANTS(GST)A 1999 188-20
+ANTS(GST)A 1999 188-22
+ANTS(GST)A 1999 188-23
+ANTS(GST)A 1999 188-24
+ANTS(GST)A 1999 188-25
+ANTS(GST)A 1999 188-25(a)
+ANTS(GST)A 1999 188-25(b)
+ANTS(GST)A 1999 188-25(b)(i)
+ANTS(GST)A 1999 188-25(b)(ii)
+ANTS(GST)A 1999 188-32
+ANTS(GST)A 1999 188-35
+ANTS(GST)A 1999 188-40
+ANTS(GST)A 1999 Div 189
+ANTS(GST)A 1999 195-1
 ITAA 1997
-ITAA 1997  328-110
-ITAA 1997  328-110(4)
+ITAA 1997 328-110
+ITAA 1997 328-110(4)
 TAA 1953
-TAA 1953  Sch1 Div 358
+TAA 1953 Sch1 Div 358
 Case References:
 Burswood Management Ltd v. Attorney-General
 (1990) 23 FCR 144

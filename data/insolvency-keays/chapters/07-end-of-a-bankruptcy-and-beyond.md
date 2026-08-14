@@ -1,3 +1,11 @@
+---
+act: "Keay's Insolvency"
+source: "Keays Insolvency Textbook by Phillip Keays, LexisNexis"
+chapter: 7
+title: "End of a Bankruptcy and Beyond"
+slug: "07-end-of-a-bankruptcy-and-beyond"
+---
+
 # Chapter 7: End of a Bankruptcy and Beyond
 
 Rules           Part 13 – Costs – rr 13.01 – 13.05
@@ -17,7 +25,7 @@ Rules           Part 13 – Costs – rr 13.01 – 13.05
 [7.60] Setting aside and terminating an arrangement ............................................. 296
 [7.65] Annulment by court order: s 153B .................................................................. 296
     [7.70] Who can apply ............................................................................................................... 297
-    [7.75] Trustee’s report ............................................................................................................... 297
+    [7.75] Trustee's report ............................................................................................................... 297
     [7.80] Grounds ........................................................................................................................... 298
 [7.95] Consequences of annulment ............................................................................. 300
     [7.100] Validation of prior acts etc ......................................................................................... 300
@@ -36,7 +44,7 @@ Rules           Part 13 – Costs – rr 13.01 – 13.05
 [7.160] Effect of discharge on liabilities and property ............................................ 310
 [7.165] SETTING ASIDE A SEQUESTRATION ORDER, AS AN ALTERNATIVE TO A
         COURT ANNULMENT .................................................................................................... 311
-290         Keay’s Insolvency: Personal and Corporate Law and Practice                                                            [7.05]
+290         Keay's Insolvency: Personal and Corporate Law and Practice                                                            [7.05]
 
 [7.170] Appeals or new hearings ................................................................................. 311
 [7.175] ANNULMENT OF DECEASED BANKRUPT ESTATES ............................................ 312
@@ -50,13 +58,13 @@ bankrupt must attend to various obligations and be subject to various restrictio
 after which the former bankrupt may fully pursue their consumer and business life.
 Also, it can be that bankruptcy needs to be ended other than by the statutory
 period ﬁnishing, for example, if the bankruptcy occurred in error, or resulted in all
-the bankrupt’s debts being paid in full.1
+the bankrupt's debts being paid in full.1
 The three year period is seen by the government, and others, as being too long in
-today’s society. A decision has been made to reduce the period of time to one year.
+today's society. A decision has been made to reduce the period of time to one year.
 Although this might not seem to be a major issue, and it is one that has been
 adopted in comparable jurisdictions, it creates a division in Australia between those
 who see a need to reduce the social and business stigma and consequences of
-bankruptcy, and those who see an inability to pay back one’s debts, and their
+bankruptcy, and those who see an inability to pay back one's debts, and their
 discharge, as requiring some accounting and consequence for the beneﬁt provided.
 The reduction in the period of bankruptcy to one year would be effected by the
 proposed Bankruptcy Amendment (Enterprise Incentives) Bill 2017, the title of which
@@ -67,9 +75,9 @@ review. Any comments in this chapter are made in respect of that Bill as introdu
 into Parliament in 2017.
 
 The end of a bankruptcy
-[7.10] Under IPSB, s 5-5, the “end of an administration” of a bankruptcy means
-“the day on which the bankrupt is discharged or the bankruptcy is annulled,
-whichever happens ﬁrst”. There is broadly one avenue of discharge, and three
+[7.10] Under IPSB, s 5-5, the "end of an administration" of a bankruptcy means
+"the day on which the bankrupt is discharged or the bankruptcy is annulled,
+whichever happens ﬁrst". There is broadly one avenue of discharge, and three
 avenues for annulment.
 In addition, bankruptcy may be ended by order of the court, rather than being
 annulled. There are a number of circumstances where the court will do this, using
@@ -79,7 +87,7 @@ legal consequences than a formal annulment.
 These other options will be discussed but at this point it is important to give an
 overview of both annulment and discharge and explain the key differences.
 
-1 See generally AFSA’s Official Trustee Practice Statement (OTPS) 4 – The End of a bankrupt’s period of
+1 See generally AFSA's Official Trustee Practice Statement (OTPS) 4 – The End of a bankrupt's period of
   bankruptcy.
 [7.20]                                          7 End of a Bankruptcy and Beyond   291
 
@@ -87,13 +95,13 @@ Overview
 [7.15] Annulment of a bankruptcy may occur or be granted:
 • when all the debts in the bankruptcy are paid out because there is enough
   divisible property to do so – s 153A; or
-• when all the debts are paid in a compromised amount with the creditors’
+• when all the debts are paid in a compromised amount with the creditors'
   agreement – s 73; or
 • where the court determines that the bankruptcy should never have occurred
   because of some error, whether or not any debts have been paid out – s 153B.
 Annulment purports to place the bankrupt in the same position as they were in
 prior to the bankruptcy, as if the bankrupt had never been bankrupt. It has been
-described as a “retrospective annihilation” of the bankruptcy (Theissbacher v
+described as a "retrospective annihilation" of the bankruptcy (Theissbacher v
 MacGregor Garrick & Co [1993] 2 Qd R 223) although that is a legal ﬁction separate
 from the reality of the fact of the bankruptcy having occurred: Union Club v
 Battenberg [2006] NSWCA 72; (2006) 66 NSWLR 1. Property which was vested in the
@@ -104,14 +112,14 @@ them.
 [7.20] Discharge of a person from their bankruptcy is quite different. It occurs, in
 the case of most bankruptcies, three years after the date of bankruptcy (or, one
 year), unless the bankruptcy is extended by way of their trustee lodging an
-“objection” to the bankrupt’s discharge, for example if the bankrupt has not
+"objection" to the bankrupt's discharge, for example if the bankrupt has not
 co-operated in their bankruptcy: s 149. That can extend the period of a bankruptcy
 up to eight years: s 149A.
 Like annulment, discharge serves to release the person from the status of
 bankruptcy. Unlike annulment, the bankrupt estate may continue to be administered
 by the trustee after the date of discharge. This can be the case if there is ongoing
-litigation after the date of discharge or complex creditors’ claims or protracted
-recoveries of assets. The discharge does not affect the trustee’s title to property
+litigation after the date of discharge or complex creditors' claims or protracted
+recoveries of assets. The discharge does not affect the trustee's title to property
 which has already vested; that property does not re-vest in the bankrupt. However,
 it is important to emphasise that the person is no longer a bankrupt even if the
 administration of the estate continues, and creditors are yet to be paid any
@@ -120,7 +128,7 @@ It follows that a person can obtain and may in fact seek an annulment of their
 bankruptcy, under either s 153A or s 153B, even after they have been discharged.2
 
 2 Re Oates; Ex parte DCT (1987) 17 FCR 402.
-292      Keay’s Insolvency: Personal and Corporate Law and Practice                                 [7.25]
+292      Keay's Insolvency: Personal and Corporate Law and Practice                                 [7.25]
 
 This table broadly summarises how a bankruptcy may be ended, including a
 bankruptcy set aside by a court order, or on appeal.
@@ -152,8 +160,8 @@ occurred.
 
 Annulment by operation of law: s 153A
 [7.30] Section 153A provides that where the trustee is satisﬁed that all of the
-bankrupt’s debts have been paid in full, the bankruptcy is annulled automatically
-from the date of the last payment. The term the “bankrupt’s debts” is deﬁned in
+bankrupt's debts have been paid in full, the bankruptcy is annulled automatically
+from the date of the last payment. The term the "bankrupt's debts" is deﬁned in
 s 153A(6) to mean all of the debts proved in the bankruptcy, including the interest
 payable on each of the debts bearing interest, up to the date of payment
 (s 153A(1A)), and the costs, charges and expenses of the administration of the
@@ -166,11 +174,11 @@ the debtor. Such an annulment can also occur, for example, where the trustee is 
 to recover assets or moneys through successful challenges to voidable transactions.
 
 3 The history is explained in Oates v Commissioner of Taxation (1990) 27 FCR 289; [1990] FCA 510.
-4 “Explanatory Memorandum to the Bankruptcy Amendment Bill 1991 (Cth)”, [29.2].
+4 "Explanatory Memorandum to the Bankruptcy Amendment Bill 1991 (Cth)", [29.2].
 5 AFSA Annual Report 2014-2015, p 73 (the latest data recorded).
 [7.35]                                                    7 End of a Bankruptcy and Beyond     293
 
-The trustee cannot be satisﬁed that all the bankrupt’s debts have been paid in full
+The trustee cannot be satisﬁed that all the bankrupt's debts have been paid in full
 until a ﬁnal decision has been made on proofs of debt lodged, including the
 determination of any application by a creditor who is challenging the rejection of
 their proof: Re Wong (1995) 63 FCR 426, [1995] FCA 1466; Coshott v Burke [2012] FCA
@@ -186,10 +194,10 @@ Even though a person has become a bankrupt, the law allows them to come to
 some ﬁnancial arrangement with their creditors whereby the creditors are paid
 some of their debts, more than they would receive from the bankruptcy, in
 exchange for the bankruptcy being annulled. The money usually comes from a
-third party friend or relative of the bankrupt. The bankrupt’s money or assets are
+third party friend or relative of the bankrupt. The bankrupt's money or assets are
 not available, as they have vested in the trustee.
 The court is not involved although up until 1991, an annulment could only be
-made on a court order, after the creditors’ meeting had approved the proposal.6
+made on a court order, after the creditors' meeting had approved the proposal.6
 Nothing much turns on the old terms composition or scheme of arrangement,
 which we refer to as arrangements; they generally encompass proposals whereby
 the creditors agree to accept something other than full payment of their debts. In
@@ -203,25 +211,25 @@ received around $1 for every $600 they were owed, or one sixth of a cent in ever
 dollar.8
 It should be noted that while a discharged bankrupt can apply for an annulment of
 their bankruptcy, they cannot put forward a s 73 arrangement – the word
-“bankrupt” in that section does not include a discharged bankrupt: Quinn v Official
+"bankrupt" in that section does not include a discharged bankrupt: Quinn v Official
 Trustee in Bankruptcy [1996] FCA 443; (1995) 63 FCR 129.
 
-6 The reasons for this change are explained in the “Explanatory Memorandum to the Bankruptcy
-  Amendment Bill 1991 (Cth)”, [15.2].
+6 The reasons for this change are explained in the "Explanatory Memorandum to the Bankruptcy
+  Amendment Bill 1991 (Cth)", [15.2].
 7 The Act does not itself allow proposals from joint bankrupts, whether or not there are separate
   creditors: Re Edwards (1987) 14 FCR 113; Labocus Precious Metals Pty Ltd v Thomas [2007] FCA 1154.
 8 Barry, Going for Broke, How Alan Bond Got Away With It (Bantam Books, 2000), p 238.
-294       Keay’s Insolvency: Personal and Corporate Law and Practice                                   [7.40]
+294       Keay's Insolvency: Personal and Corporate Law and Practice                                   [7.40]
 
 Process of initiating an arrangement
 [7.40] To initiate an arrangement, the bankrupt must lodge a proposal in writing
 with the trustee which must specify the terms and particulars of any sureties or
 securities forming part of the proposal: s 73(1).
 The trustee must then give a copy of that proposal to the Official Receiver, within 2
-business days: s 73(1A). This serves to “put the Inspector-General on notice that a
+business days: s 73(1A). This serves to "put the Inspector-General on notice that a
 proposal has been made which will allow the Inspector-General to decide whether
-there are matters to investigate or whether to attend the creditors’ meeting to
-ensure creditors are fully informed before making their decision”.9
+there are matters to investigate or whether to attend the creditors' meeting to
+ensure creditors are fully informed before making their decision".9
 This oversighting role of the Inspector-General exists because the creditors exercise
 signiﬁcant authority to decide whether to allow the bankruptcy to be annulled.
 Similar authority is exercised by creditors in deciding whether to accept a Pt X
@@ -230,12 +238,12 @@ supported by the authority under IPSB, s 75-30 to attend the meetings of
 creditors.10
 
 Meetings of creditors
-[7.45] The provisions in respect of creditors’ meetings generally are contained in
+[7.45] The provisions in respect of creditors' meetings generally are contained in
 IPRB, Div 75, with particular sections applying to s 73 arrangements – IPRB, ss
 75-27, 75-40, 75-60 and 75-175.
 The trustee must lodge notice of the meeting and publish it on the AFSA website
 (IPRB, s 75-40), and call the meeting and send a copy of the s 73 proposal and the
-trustee’s report on the proposal to the creditors at least ﬁve days before: IPRB, s
+trustee's report on the proposal to the creditors at least ﬁve days before: IPRB, s
 75-175.11
 Creditors who have proved their debts can vote by written notice to the trustee
 before the meeting. They are deemed to have been present at the meeting and to
@@ -252,7 +260,7 @@ have sufficient information upon which to make a recommendation to creditors,
 there was no obligation on the trustee to call a meeting: Wenkart v Pantzer [2003]
 FCA 432; (2003) 1 ABC (NS) 236.
 
-9 Revised “Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 2004 (Cth)”,
+9 Revised "Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 2004 (Cth)",
   [128].
 10 See IGPS 11 – Monitoring and inspection of bankruptcy trustees and debt agreement administrators.
 11    This lesser period prevails over the 10 days required generally, under IPRB, s 75-20.
@@ -260,7 +268,7 @@ FCA 432; (2003) 1 ABC (NS) 236.
 [7.50]                                                      7 End of a Bankruptcy and Beyond       295
 
 The s 73 proposal must be tabled at the meeting (IPRB, s 75-60) along with various
-other documents, including the statement of affairs and the trustee’s declaration of
+other documents, including the statement of affairs and the trustee's declaration of
 relationships: IPRB, s 75-180.13
 The report of the trustee must indicate whether the arrangement would beneﬁt the
 creditors generally and it must name all related entities of the debtor shown in the
@@ -269,19 +277,19 @@ That report should include:
 • the source of the funds being provided;
 • particulars of any assets, realisations and dividends already paid;
 • an estimate of the dividend payable;
-• details of the bankrupt’s personal and business activities;
-• details of the bankrupt’s conduct before and during the bankruptcy;
+• details of the bankrupt's personal and business activities;
+• details of the bankrupt's conduct before and during the bankruptcy;
 • any relationships held by the proposed trustee of the composition or scheme of
   arrangement.
-The general rules about the conduct of meetings apply, including as to the trustee’s
+The general rules about the conduct of meetings apply, including as to the trustee's
 prompting of discussions and inviting questions: IPRB, s 75-65.
 The debtor may amend the terms of his or her proposal, but not in a way that
-reduces any provision for payment of the trustee’s remuneration: IPRB, s 75-175(4).
+reduces any provision for payment of the trustee's remuneration: IPRB, s 75-175(4).
 Any creditor which has proved its debt may assent to or dissent from the proposal
 by written notice given to the trustee before the meeting. In such a case, the creditor
 is taken to have been present at the meeting and to have voted accordingly.
 At the meeting the creditors may, by special resolution (see IPRB, s 75-132), accept
-the proposal. The trustee must make the arrangement available for the creditors’
+the proposal. The trustee must make the arrangement available for the creditors'
 inspection.
 Once a special resolution is passed the bankruptcy is automatically annulled; hence
 there is no need for any order of annulment to be obtained from the court.14
@@ -298,34 +306,34 @@ willing to accept.
 The provisions of an approved arrangement may be enforced by the court upon the
 application of an interested person: s 75(3).
 
-13 Section 73B requires a new trustee, replacing the trustee of the bankrupt’s estate, to make their own
+13 Section 73B requires a new trustee, replacing the trustee of the bankrupt's estate, to make their own
    declaration of relationships. It must be tabled at the meeting: IPRB, s 75-180(5).
-14 Up until 1991, a court order annulling the bankruptcy was required, followed the creditors’ meeting
+14 Up until 1991, a court order annulling the bankruptcy was required, followed the creditors' meeting
    approving the proposal.
-296      Keay’s Insolvency: Personal and Corporate Law and Practice                               [7.55]
+296      Keay's Insolvency: Personal and Corporate Law and Practice                               [7.55]
 
 Variation of an arrangement
 [7.55] The law allows variations in approved proposals, if the arrangement
 proves unworkable, or circumstances change. Section 74A allows the creditors to
 vary the arrangement by special resolution at a meeting called for the purpose,
-with the debtor’s consent. The trustee must give notice of the proposed variation to
+with the debtor's consent. The trustee must give notice of the proposed variation to
 all the creditors. The variation may be approved if no creditor notiﬁes the trustee of
 any objection to it: s 74A(6).
 
 Setting aside and terminating an arrangement
-[7.60]  The debtor’s arrangement may also be challenged in court. The provisions
+[7.60]  The debtor's arrangement may also be challenged in court. The provisions
 in Pt X relevant to the setting aside or terminating of a personal insolvency
 agreement are applied to s 73 arrangements by s 76B.
 As applied by s 76B, ss 222 to 222D of the Bankruptcy Act provide for circumstances
 in which an arrangement may be set aside (s 222) or terminated (s 222A to 222D).
-The court may “set aside” an arrangement on the application of the Inspector-
+The court may "set aside" an arrangement on the application of the Inspector-
 General, the trustee or a creditor, on stated grounds. The annulment is then thereby
 also set aside. The termination of an arrangement may be initiated:
 (i) by the trustee putting the proposed termination to the creditors (s 222A);
 (ii) by resolution of the creditors on their initiative (s 222B);
 (iii) by the Court on application of the trustee, the debtor or a creditor (s 222C);
       and
-(iv) automatically, by the occurrence of any circumstance or ‘terminating event’
+(iv) automatically, by the occurrence of any circumstance or 'terminating event'
      provided for in the arrangement (ss 222D and 76B).15
 The distinction between setting aside and terminating an arrangement, and other
 relevant provisions, are discussed in detail in Chapter 8.
@@ -344,25 +352,25 @@ satisﬁed that:17
 15 The terms of s 222D provide for automatic termination on the occurrence of any circumstance or
    event, the Full Court in Perovich v Whitton (No 2) [2016] FCAFC 152 rejecting an interpretation that
    the section only applied to circumstances or events beyond the control of the debtor.
-16 Courts’ Bankruptcy Rules, Pt 7 apply.
+16 Courts' Bankruptcy Rules, Pt 7 apply.
 17 See the summary of principles in Francis v Eggleston Mitchell Lawyers Pty Ltd [2014] FCAFC 18; (2014)
    12 ABC(NS) 25 at [16]; adopting Bulic v Commonwealth Bank of Australia Ltd [2007] FCA 307; (2007)
    ABC(NS) 122.
 [7.75]                                            7 End of a Bankruptcy and Beyond   297
 
 • a sequestration order ought not to have been made;
-• a debtor’s petition ought not to have been presented; or
-• a debtor’s petition ought not to have been accepted.
+• a debtor's petition ought not to have been presented; or
+• a debtor's petition ought not to have been accepted.
 Thus, the claim is that for some reason to do with the circumstances of the
 bankruptcy occurring, the bankruptcy should be ended. Typically, in the case of a
 claim that a sequestration order should not have been made, there will have been
 some procedural irregularity, for example as to the fact that the petition was not
-personally served and did not come to the then debtor’s attention, which the
+personally served and did not come to the then debtor's attention, which the
 bankrupt claims should cause the court to annul the bankruptcy. Alternatively, a
 creditor might apply for an annulment, on the basis that the bankruptcy is an abuse
-of process affecting the creditor’s rights. In the case of a debtor’s petition, debtors
+of process affecting the creditor's rights. In the case of a debtor's petition, debtors
 have claimed that they misunderstood the nature of bankruptcy such that their
-bankruptcy should be annulled. The court’s inherent jurisdiction to address a
+bankruptcy should be annulled. The court's inherent jurisdiction to address a
 denial of natural justice in its hearing processes can exist in tandem with the
 statutory power under s 153B.18
 The power to annul is to be exercised cautiously and only in special circumstances:
@@ -386,18 +394,18 @@ having the bankruptcy annulled.
 Applications for annulment should be made promptly as any delay becomes a
 discretionary factor in whether the court grants the annulment.
 
-Trustee’s report
+Trustee's report
 [7.75] The application for annulment must be served on the trustee and notice
 (Court Form 11) must be given to the creditors. The trustee may be directed by the
-court to prepare a report on the bankrupt’s conduct and examinable affairs both
-before and during the bankruptcy, and on the administration of the bankrupt’s
+court to prepare a report on the bankrupt's conduct and examinable affairs both
+before and during the bankruptcy, and on the administration of the bankrupt's
 estate: r 7.06. The court may rely on that report for the purposes of deciding on the
 annulment application.
 
 18 Shaw v Buljan [2016] FCA 829.
-298      Keay’s Insolvency: Personal and Corporate Law and Practice              [7.80]
+298      Keay's Insolvency: Personal and Corporate Law and Practice              [7.80]
 
-The trustee’s report, and any opinion as to solvency, are admissible both as expert
+The trustee's report, and any opinion as to solvency, are admissible both as expert
 evidence from someone with specialised knowledge, and as evidence from the
 trustee as an independent officer of the Court assisting it: Quick v Stoland Pty Ltd
 [1998] FCA 1200; (1998) 87 FCR 371; Beaman v Bond [2017] FCAFC 142.
@@ -408,7 +416,7 @@ i) Sequestration order ought not to have been made
 [7.80] Section 153B is available to a bankrupt who can prove that in light of the
 facts existing at the time, the court ought not to have made the sequestration order
 – for example, if the petition was not served, or the debt was not in fact owed, or
-had been paid. This includes facts about the bankrupt’s affairs which existed but
+had been paid. This includes facts about the bankrupt's affairs which existed but
 which were not known at the time of the sequestration order even by the bankrupt,
 and by the court, but which subsequently became known; that is, if the court had
 known of those facts, it would not have made the order. But the court cannot take
@@ -422,13 +430,13 @@ rather than the debt not existing,19 unless the result was that the amount owed 
 less than $5,000, as the creditor would not have been able to present the petition.
 A court has granted an annulment where the debtor was denied natural justice in
 not having notice of the hearing of the petition; in that case, the court ordered a
-re-hearing of the creditor’s petition: Re Anasis (1985) 11 FCR 127; [1985] FCA 458.
+re-hearing of the creditor's petition: Re Anasis (1985) 11 FCR 127; [1985] FCA 458.
 But even a lack of natural justice in the process may not be enough to cause a court
 to annul the bankruptcy if there was no doubt about the debt or the facts upon
 which the petition was based: Pollock v DCT [1994] FCA 953.
 At the hearing of an annulment application, the court broadly adopts a two-stage
 process to determine ﬁrst, whether the sequestration order should have been made
-and secondly, if the court is satisﬁed of that, whether in the court’s discretion the
+and secondly, if the court is satisﬁed of that, whether in the court's discretion the
 order should be annulled: Rigg v Baker [2006] FCAFC 179; (2006) 155 FCR 531 at
 [59], 543. The applicant necessarily bears a heavy onus at both stages.
 For example, while a serious procedural irregularity may allow a bankruptcy to be
@@ -437,9 +445,9 @@ conduct of the bankrupt during the bankruptcy, including in relation to any
 offences committed. Other discretionary matters include delay in making the
 application, especially if unexplained; whether or not the bankrupt is solvent;
 whether the bankrupt has made full disclosure of their ﬁnancial affairs; the reason
-for their lack of opposition to the creditor’s petition; their preparedness to pay the
+for their lack of opposition to the creditor's petition; their preparedness to pay the
 costs of the annulment proceedings; the rights and interests of the creditors; the
-work already done by the trustee; the bankrupt’s degree of co-operation with the
+work already done by the trustee; the bankrupt's degree of co-operation with the
 
 19 Miller v Bondi Securities [1994] FCA 654.
 [7.85]                                            7 End of a Bankruptcy and Beyond   299
@@ -452,52 +460,52 @@ will not grant an annulment simply because all of those creditors consent; the
 public interest may call for the annulment to be refused: Francis v Eggleston Mitchell
 Lawyers Pty Ltd [2013] FCA 564.
 
-ii) A debtor’s petition ought not to have been presented by the debtor
-[7.85] An annulment may also be granted where the court ﬁnds that a debtor’s
+ii) A debtor's petition ought not to have been presented by the debtor
+[7.85] An annulment may also be granted where the court ﬁnds that a debtor's
 petition ought not to have been presented by the debtor or accepted by the Official
 Receiver. These are the two less frequent grounds of annulment and do not
-generally involve any signiﬁcant exercise of the court’s discretion.
+generally involve any signiﬁcant exercise of the court's discretion.
 As to the ﬁrst, given that the debtor presents a petition voluntarily, there are only
 limited circumstances where a bankruptcy can be annulled because the debtor
 ought not to have presented their petition. For example, a debtor will not succeed
 in an annulment application based on a lack of understanding of the consequences
 of bankruptcy, on the basis that their home was not protected. In Re Almassy [1999]
-FCA 1004; (1999) 92 FCR 597 the debtor’s lack of appreciation of the extent of
+FCA 1004; (1999) 92 FCR 597 the debtor's lack of appreciation of the extent of
 statutory and other fees imposed on bankrupt estates was not a good enough
 reason to annul the bankruptcy; nor in Official Trustee, In the Estate of Smith [1999]
 FCA 1755 where the debtor had gone bankrupt thinking she would still be allowed
 to pursue a right of action that in fact vested in the trustee. Annulment was granted
-on the trustee’s application where the bankrupt had gone bankrupt by presenting
-petitions twice, in error: Re Official Receiver (NSW), in the matter of D’Elboux [2002]
+on the trustee's application where the bankrupt had gone bankrupt by presenting
+petitions twice, in error: Re Official Receiver (NSW), in the matter of D'Elboux [2002]
 FCA 510. In such cases the court will require evidence that there have been no debts
 incurred since the ﬁrst bankruptcy.
-A creditor may obtain an annulment on the grounds that the debtor’s presentation
+A creditor may obtain an annulment on the grounds that the debtor's presentation
 of their petition was an abuse of process, often directed at that creditor. In BWK
 Elders (Australia) Pty Ltd v White [2004] FCA 1611, the court annulled bankruptcies
-on debtors’ petitions presented when the debtors were solvent, but with a view to
+on debtors' petitions presented when the debtors were solvent, but with a view to
 defeating a then pending judgment for unliquidated damages. Similarly, a
-bankruptcy on a debtor’s petition was annulled because the debtor’s purpose was
+bankruptcy on a debtor's petition was annulled because the debtor's purpose was
 to place beyond the reach of the trustee, property which would otherwise vest: Re
 Cornish (1984) 6 FCR 257. But that ground failed in Beaman v Bond because although
-the debtor’s possible purpose was to frustrate pending family law orders that he
+the debtor's possible purpose was to frustrate pending family law orders that he
 pay money to his former spouse, another purpose was to ensure that she was
 treated equally as a creditor with his other creditors.
 The fact that the bankrupt is insolvent is not determinative: De Robillard v Carver
-[2007] FCAFC 73; (2007) 159 FCR 38. Conversely, in the case of a debtor’s petition,
+[2007] FCAFC 73; (2007) 159 FCR 38. Conversely, in the case of a debtor's petition,
 an annulment may be granted whether or not the debtor was insolvent when the
 petition was presented: s 153B(2). The law had previously been that an annulment
 would generally not be granted to someone who was insolvent. The reason given
-for the change in the law was that “high-income debtors … maintaining an
-expensive lifestyle” could previously go bankrupt in order to avoid paying a
-300      Keay’s Insolvency: Personal and Corporate Law and Practice                               [7.90]
+for the change in the law was that "high-income debtors … maintaining an
+expensive lifestyle" could previously go bankrupt in order to avoid paying a
+300      Keay's Insolvency: Personal and Corporate Law and Practice                               [7.90]
 
 particular creditor, such as the ATO. If the court considered that the debtor-
 bankrupt could make arrangements to pay the creditor, it could annul the
 bankruptcy as an abuse of process.20
 
-iii) A debtor’s petition ought not to have been accepted by the Ofﬁcial Receiver
+iii) A debtor's petition ought not to have been accepted by the Ofﬁcial Receiver
 [7.90] As to the second ground, a narrower approach again is adopted in relation
-to the expression “ought not to have been accepted by the Official Receiver”. This
+to the expression "ought not to have been accepted by the Official Receiver". This
 annulment power is limited to cases where the Official Receiver has accepted a
 petition notwithstanding the fact that the conditions precedent in s 55(3)(a)
 (namely, the Official Receiver believed that the petition complied substantially with
@@ -507,8 +515,8 @@ adequate), were not satisﬁed: Orix Australia Corporation Ltd v McCormick [2005
 purporting to exercise a power of attorney given by the debtor which the court
 found could not be done. In addition, the Official Receiver had failed to comply
 with s 55(3A) because the required information under reg 4.11 about the
-consequences of bankruptcy was given not to the debtor but to the debtor’s
-attorney. This rendered invalid any purported acceptance of the debtor’s petition
+consequences of bankruptcy was given not to the debtor but to the debtor's
+attorney. This rendered invalid any purported acceptance of the debtor's petition
 under s 55(4A).
 
 Consequences of annulment
@@ -516,16 +524,16 @@ Consequences of annulment
 that the former bankrupt is restored to their pre-bankruptcy position, subject to any
 orders made under s 154. See [7.100]. Also, subject to s 154, the property of the
 bankrupt, vested in the trustee at the time of annulment, reverts to the former
-bankrupt (s 154(1)(c)), as will any surplus funds remaining after all the bankrupt’s
+bankrupt (s 154(1)(c)), as will any surplus funds remaining after all the bankrupt's
 debts have been paid.
 However, the effect of bankruptcy is not avoided for all purposes by an annulment.
 It will depend on the particular law. For example, any offence committed by a
 person during his bankruptcy was not undone because there was a subsequent
-annulment; at the same time, as a taxpayer, he had never “become a bankrupt”
+annulment; at the same time, as a taxpayer, he had never "become a bankrupt"
 within the meaning of the then tax laws in relation to the allowance of his tax
 deductions: Oates v Commissioner of Taxation (1990) 27 FCR 289.21 In a case where
 membership of a club was forfeited on bankruptcy, the subsequent annulment of
-the bankruptcy did not, on a construction of the club’s constitution, revive the
+the bankruptcy did not, on a construction of the club's constitution, revive the
 membership: Union Club v Battenberg (2006) 66 NSWLR 1.
 
 Validation of prior acts etc
@@ -533,7 +541,7 @@ Validation of prior acts etc
 date of the annulment, such as realisations of property or payments made by the
 trustee, or orders of the court.
 
-20 “Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 2002”, [55]-[56]. See
+20 "Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 2002", [55]-[56]. See
    Beaman v Bond [2017] FCAFC 142.
 21 See also Bond v Rozenes (1995) 67 FCR 122; [1995] FCA 1231; ASIC v Australian Investors Forum Pty Ltd
    (No 2) [2005] NSWSC 267.
@@ -541,7 +549,7 @@ trustee, or orders of the court.
 
 The trustee is permitted to make use of any divisible property which remains
 available in order to pay the costs, charges and expenses of the administration of
-the bankruptcy, including the trustee’s remuneration: s 154(1)(b).
+the bankruptcy, including the trustee's remuneration: s 154(1)(b).
 If that property is insufficient, the amount of the deﬁciency is a debt due by the
 former bankrupt to the trustee, and the trustee can recover it through court
 proceedings: s 154(2).22 In that circumstance, the right of a trustee to use the
@@ -551,32 +559,32 @@ occurs. Any surplus property reverts to the former bankrupt. But anyone who
 claims they have an interest in that property may apply to the court for an order
 that the property be transferred to them instead: s 154(3).
 If a bankruptcy is annulled under s 153B, and no dividend payment was made to
-the creditors, those creditors’ rights against the former bankrupt are necessarily
+the creditors, those creditors' rights against the former bankrupt are necessarily
 revived.24
 
 DISCHARGE FROM BANKRUPTCY
 [7.105] The bankruptcy laws intend that a bankrupt will ultimately be
-discharged from bankruptcy, in most cases “automatically”, by the operation of
+discharged from bankruptcy, in most cases "automatically", by the operation of
 law, after three years. This is a fundamental outcome of bankruptcy, that the former
 bankrupt is released from their liabilities and their status as a bankrupt.
 There are said to be two purposes of the discharge regime. The ﬁrst is that
-discharge allows the bankrupt’s “rehabilitation” by the ending of the restrictions of
+discharge allows the bankrupt's "rehabilitation" by the ending of the restrictions of
 bankruptcy, with the bankrupt being restored to full capacity, including the ability
 to retain all their income and to acquire and retain property – the bankrupt has a
-“fresh start”. The second is to regulate the bankrupt’s behaviour – discharge can be
-delayed where a bankrupt’s conduct during bankruptcy is unsatisfactory and they
+"fresh start". The second is to regulate the bankrupt's behaviour – discharge can be
+delayed where a bankrupt's conduct during bankruptcy is unsatisfactory and they
 may be perceived as a continuing risk to the community; and the threat of a
 delayed discharge also provides the bankrupt with an incentive to co-operate.
 This is a signiﬁcant issue in relation to the proposed reduction in the period of
 bankruptcy to one year, under the Bankruptcy Amendment (Enterprise Incentives) Bill
-2017. One argument against the change being that it would limit the trustee’s rights
-to enforce the debtor’s on-going obligations under the proposed law, such as the
+2017. One argument against the change being that it would limit the trustee's rights
+to enforce the debtor's on-going obligations under the proposed law, such as the
 payment of income contributions for two years after the date of discharge from
 bankruptcy, and thereby the integrity of the bankruptcy regime.
 
 Process and consequence of discharge
 [7.110] There is one process of discharge, that is, automatic discharge three (or
-one) years after the ﬁling of the bankrupt’s statement of affairs: s 149, subject to the
+one) years after the ﬁling of the bankrupt's statement of affairs: s 149, subject to the
 trustee lodging an objection to discharge and thereby extending the period of
 bankruptcy. This is explained in more detail at [7.160].
 
@@ -584,7 +592,7 @@ bankruptcy. This is explained in more detail at [7.160].
 23 Pantzer v Wenkart [2006] FCAFC 140; (2006) 153 FCR 466.
 24 Other scenarios, including under English law, are discussed in Oates v Commissioner of Taxation (1990)
    27 FCR 289; [1990] FCA 510.
-302      Keay’s Insolvency: Personal and Corporate Law and Practice                              [7.115]
+302      Keay's Insolvency: Personal and Corporate Law and Practice                              [7.115]
 
 Discharge means that the bankrupt is released from all provable debts except for
 those few mentioned in s 153(2), as explained at [7.125]. It also means that the
@@ -597,7 +605,7 @@ However, the bankrupt will remain liable for debts that were not provable, for
 example for an unliquidated damages claim (s 82(2)), which may, after the date of
 the bankruptcy, have become a judgment debt, or certain criminal penalties
 (s 82(3)). The former bankrupt will also remain liable for any debts incurred by
-“fraud”, for example a tax or welfare beneﬁt overpayment obtained by deception:
+"fraud", for example a tax or welfare beneﬁt overpayment obtained by deception:
 s 153.25 These types of debts are explained in this table.
 
                       Debts for which the former bankrupt may remain liable
@@ -620,7 +628,7 @@ discharged three years from the date on which they ﬁled their statement of aff
 (SOA) with the Official Receiver: s 149(4).26 There is no power in the court to
 abridge that time under s 33 of the Act: Nilant v Macchia [1997] FCA 966; (1997) 18
 FCR 419.
-Where the bankrupt presented a debtor’s petition, the date of the ﬁling of the SOA
+Where the bankrupt presented a debtor's petition, the date of the ﬁling of the SOA
 will be the same as the date of bankruptcy.
 However, if the bankruptcy was brought about by sequestration order, s 54 requires
 the bankrupt to make out and ﬁle their SOA within 14 days of being notiﬁed of the
@@ -631,9 +639,9 @@ that the three year period of bankruptcy begins.
 25 See Principled Regulation, Federal Civil & Administrative Penalties in Australia (ALRC 95, December
    2002), ch 32.
 26 Under the proposed Bankruptcy Amendment (Enterprise Incentives) Bill 2017 – the one year bankruptcy
-   law – s 149(5) would provide that “if the bankrupt becomes a bankrupt after the commencement of
+   law – s 149(5) would provide that "if the bankrupt becomes a bankrupt after the commencement of
    this subsection, the bankrupt is discharged at the end of the period of 1 year from the date on which
-   the bankrupt ﬁled his or her statement of affairs”.
+   the bankrupt ﬁled his or her statement of affairs".
 [7.120]                                                7 End of a Bankruptcy and Beyond      303
 
 The trustee has an initial obligation to inform the bankrupt of their obligations
@@ -656,16 +664,16 @@ from bankruptcy until at least 2 June 2021.
 Whether and on what date the bankrupt has ﬁled their statement of affairs with the
 Official Receiver is therefore signiﬁcant. In cases where the bankrupt reasonably but
 mistakenly believes that they ﬁled the statement at a particular date, even though it
-was not actually ﬁled until later, s 33A of the Act allows the court to order that “the
-statement is to be treated as having been ﬁled at a time before it was actually ﬁled”,
+was not actually ﬁled until later, s 33A of the Act allows the court to order that "the
+statement is to be treated as having been ﬁled at a time before it was actually ﬁled",
 thus allowing discharge at an earlier time: see Wangman v Official Receiver [2006]
 FCA 202. A woman made bankrupt in 2000 who did not ﬁle her statement of affairs
 until 2011 because she claimed she was unaware of the bankruptcy until that time
-could not rely on the section; she was not a person who mistakenly believed “that
-the statement had been ﬁled”: Matteucci v Gollant [2013] FCA 6. Her bankruptcy
+could not rely on the section; she was not a person who mistakenly believed "that
+the statement had been ﬁled": Matteucci v Gollant [2013] FCA 6. Her bankruptcy
 would in the ordinary course extend from 2000 to 2014. See also Jovanovski v Official
 Receiver [2018] FCCA 1193.
-Section 33A(3) allows a period of grace of 30 days before the court’s order takes
+Section 33A(3) allows a period of grace of 30 days before the court's order takes
 effect in order to allow the trustee to disengage from the role of trustee of the estate.
 It is understood that there is a signiﬁcant number of bankrupts who have never
 ﬁled their statements of affairs over the years and who therefore remain bankrupt.
@@ -677,11 +685,11 @@ s 149B. This action must be taken if the trustee believes that doing so will hel
 make the bankrupt attend to some responsibility and there is no other way for the
 trustee to induce the bankrupt to co-operate: s 149B(2).
 
-27 “Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 1991 (Cth)”, [19].
-304     Keay’s Insolvency: Personal and Corporate Law and Practice                   [7.120]
+27 "Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 1991 (Cth)", [19].
+304     Keay's Insolvency: Personal and Corporate Law and Practice                   [7.120]
 
 The various grounds of objection are listed in s 149A(2). They are divided into
-“general grounds” and “special grounds”. The special grounds are found in
+"general grounds" and "special grounds". The special grounds are found in
 s 149D(1)(ab), (d), (da), (e), (f), (g), (h), (ha), (ia), (k) and (ma) and are generally the
 more serious bases of objection.
 The effect of ﬁling an objection on a special ground is to extend the period of
@@ -690,19 +698,19 @@ the general grounds of objection, the bankruptcy is extended to 5 years:
 s 149A(2)(ii)
 Whether the objection is based on a general or special ground, it must set out a
 ground or grounds of objection listed in s 149D(1) and must refer to evidence which
-establishes the ground(s). There is no need for the notice to “set out” the evidence
+establishes the ground(s). There is no need for the notice to "set out" the evidence
 or to refer to it in detail: Prentice v Wood (2002) 119 FCR 296; [2002] FCAFC 48.
 Where the objection is based on a general ground, it must state the reasons of the
 trustee for objecting to discharge on that ground: s 149C(1).
 However, where the objection is based on a special ground, the objection need not
-state the trustee’s reasons for objecting (s 149C(1A)). These reasons may be
+state the trustee's reasons for objecting (s 149C(1A)). These reasons may be
 apparent from the nature of the special ground – for example the bankrupt refused
 to return to Australia as requested by the trustee (s 149D(1)(h)) – but the trustee
 may have other reasons that support the lodging of the objection, as long as those
 reasons are directed to the achievement of a purpose of bankruptcy law: Mango
 Boulevard Pty Ltd v Whitton [2015] FCA 1169.
 A bankrupt can therefore challenge an objection because of the inadequacy of the
-trustee’s stated reasons based on a general ground, and because of the inadequacy
+trustee's stated reasons based on a general ground, and because of the inadequacy
 of reasons for on objection based on a special ground.
 For notices of objection based on general grounds, lack of stated or valid reasons is
 one of the bases upon which the Inspector-General may cancel the objection, that is,
@@ -718,7 +726,7 @@ then ordinary three-year period, a trustee must have reasons directed to
 achievement of a purpose of the law of bankruptcy, for example, the recovery of
 assets for creditors. Punishment of an uncooperative bankrupt of itself is not valid,
 or permissible; but the possibility of a beneﬁt ﬂowing to creditors, however slight,
-may be enough to support a trustee’s objection: Khoury v Pascoe [2009] FMCA 676.
+may be enough to support a trustee's objection: Khoury v Pascoe [2009] FMCA 676.
 In 2014-2015, there were over 700 new objections to discharge lodged, over 570 of
 which were lodged by registered trustees, perhaps indicating the more contentious
 [7.130]                                                    7 End of a Bankruptcy and Beyond     305
@@ -732,15 +740,15 @@ objection to have the bankrupt cooperate – has been achieved.
 
 Rationale for the special grounds
 [7.125] The special grounds relate to deliberate actions of the bankrupt which
-can disrupt a trustee’s administration or which are intended to defeat creditors.
+can disrupt a trustee's administration or which are intended to defeat creditors.
 Before these were introduced into the law in 2002, a number of court challenges
 showed that trustees had difficulty in properly giving reasons for lodging an
 objection. For example in Re Ansett; Ex parte Ansett v Pattison [1995] FCA 1173;
-(1995) 56 FCR 526, the trustee’s expressed “reasons” for objecting were simply that
-the “amount has not been paid”, which the court said merely restated the ground
+(1995) 56 FCR 526, the trustee's expressed "reasons" for objecting were simply that
+the "amount has not been paid", which the court said merely restated the ground
 of objection.29
 As earlier explained, a trustee still needs to have valid reasons for an objection on a
-special ground, even if these need not be stated. A review of the trustee’s conduct
+special ground, even if these need not be stated. A review of the trustee's conduct
 in lodging an objection can be taken to the court, under s 178 of the Act, if the
 bankrupt considers that the continuation of the objection serves no basis: see
 [7.115]. However, while an objection can serve to secure on-going co-operation from
@@ -756,7 +764,7 @@ identiﬁes the special ground paragraphs. The special grounds are available if,
 paraphrased:
 (ab) any transfer is void against the trustee under s 121;
 (d) the bankrupt failed to comply with a request from the trustee to provide
-    information about the bankrupt’s property, income or expected income;
+    information about the bankrupt's property, income or expected income;
 (da) the bankrupt intentionally provided false or misleading information to the
      trustee;
 (e) the bankrupt failed to disclose any particulars of income or expected income as
@@ -765,9 +773,9 @@ paraphrased:
     pay under s 139ZG;
 
 28 AFSA Annual Administration Statistics 2014-2015; 2016-2017.
-29 The “Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 2002 (Cth)”, which
+29 The "Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 2002 (Cth)", which
    introduced these new provisions into Pt VII Div 2 of the Act, explains the changes at [47] – [54].
-306       Keay’s Insolvency: Personal and Corporate Law and Practice                                      [7.130]
+306       Keay's Insolvency: Personal and Corporate Law and Practice                                      [7.130]
 
 (g) during the period ﬁve years immediately before the commencement of the
      bankruptcy or during the bankruptcy, the bankrupt spent money or disposed of
@@ -779,7 +787,7 @@ paraphrased:
      his or her passport;
 (k) the bankrupt refused or failed to sign a document after being lawfully required
      by the trustee to sign it;
-(ma) the bankrupt intentionally failed to disclose to the trustee the bankrupt’s
+(ma) the bankrupt intentionally failed to disclose to the trustee the bankrupt's
        beneﬁcial interest in any property.
 Other grounds of objection include (a) leaving Australia and not returning; (aa) a
 transfer that is void under s 120 or s 122; (ac) and (ad) a transfer void against the
@@ -787,30 +795,30 @@ trustee because of s 128B or s 128C; (b) contravening s 206A of the Corporations
 2001 (Cth) (disqualiﬁcation from managing corporations); (c) after the date of the
 bankruptcy, engaging in misleading conduct in respect of an amount exceeding
 $3,000; (l) failing to attend a meeting of creditors or (m) an interview or
-examination; and (n) failing to disclose to the trustee the bankrupt’s beneﬁcial
+examination; and (n) failing to disclose to the trustee the bankrupt's beneﬁcial
 interest in any property.
 Some of these deal with conduct before the bankruptcy – for example (aa)
 arranging a transfer of property that is void under s 120; and others after, for
 example, (m) failing to attend an interview or examination.
-The Inspector-General’s view is that the Act does not allow a trustee to ﬁle a notice
+The Inspector-General's view is that the Act does not allow a trustee to ﬁle a notice
 of objection in a bankruptcy prior to the ﬁling of a statement of affairs by the
 bankrupt. This is because the commencement of the three-year period (or one year)
 does not commence until the statement of affairs is lodged and any objection is
 therefore unnecessary.30
 As explained below, the Inspector-General may review a decision by the trustee to
-lodge an objection, on the Inspector-General’s own initiative, or on application by
+lodge an objection, on the Inspector-General's own initiative, or on application by
 the bankrupt: s 149K. In conducting a review, the Inspector-General is not able to
-take into account any conduct of the bankrupt “after the time when the ground
-concerned ﬁrst commenced to exist”; that is, it is not enough for a bankrupt to
+take into account any conduct of the bankrupt "after the time when the ground
+concerned ﬁrst commenced to exist"; that is, it is not enough for a bankrupt to
 eventually respond to an objection after having delayed in doing so: s 149N(1B).
 Also, objections on special grounds will be reviewable only on the ground(s) and
 evidence as made out, unless the Inspector-General is satisﬁed by the bankrupt that
-they “had a reasonable excuse for the conduct or failure that constituted the special
-ground” (s 149N(1A)(c)): Combe v Inspector-General in Bankruptcy [2004] AATA 1324
+they "had a reasonable excuse for the conduct or failure that constituted the special
+ground" (s 149N(1A)(c)): Combe v Inspector-General in Bankruptcy [2004] AATA 1324
 (AAT); (2005) 4 ABC NS 26 (court); Newcombe v Inspector-General in Bankruptcy
-[2004] AATA 1320. Severe illness preventing a response in writing to the trustee’s
+[2004] AATA 1320. Severe illness preventing a response in writing to the trustee's
 inquiry can be an excuse but a bankrupt who intentionally failed to disclose his
-gambling liability, because it was a private “gentleman’s” debt did not have a
+gambling liability, because it was a private "gentleman's" debt did not have a
 reasonable excuse: Arundell and Inspector-General in Bankruptcy [2006] AATA 88; 3
 ABC (NS) 620.
 
@@ -820,7 +828,7 @@ ABC (NS) 620.
 The broad object of s 149A is to encourage bankrupts to co-operate with their
 trustees; see s 149B(2). But the regime established by the relevant sections must be
 applied in a sensible manner so as to avoid operating oppressively, and with some
-acknowledgment of the vicissitudes of the bankrupt’s life when assessing whether
+acknowledgment of the vicissitudes of the bankrupt's life when assessing whether
 an objection should be lodged: Wharton v Official Receiver in Bankruptcy (2001) 107
 FCR 28.
 However, it is difficult to understand how a bankrupt can be encouraged to
@@ -839,11 +847,11 @@ one-year period) may therefore not be effective. See OTPS 5 at [4.13].
 
 Extension of bankruptcy to ﬁve or eight years
 [7.135] Where an objection is based on any one of the special grounds, the
-bankrupt will only be entitled to automatic discharge eight years after “the
-prescribed date”.
+bankrupt will only be entitled to automatic discharge eight years after "the
+prescribed date".
 Where the objection is based on other than a special ground, the bankrupt will be
-entitled to automatic discharge ﬁve years after “the prescribed date”.
-“The prescribed date” will be, in most cases, the date of the ﬁling of the statement
+entitled to automatic discharge ﬁve years after "the prescribed date".
+"The prescribed date" will be, in most cases, the date of the ﬁling of the statement
 of affairs but if the grounds mentioned in s 149D(1)(a) or (h) are involved, it will be
 the date on which the bankrupt returns to Australia: s 149A(2).
 The one year bankruptcy Bill would not alter this.
@@ -853,11 +861,11 @@ Withdrawal of objection
 on a particular ground (s 149H), or withdraw an objection at any time: s 149J. If the
 trustee withdraws an objection, the trustee must give notice to the Official Receiver
 and the bankrupt: s 149J(1).
-The effect of a withdrawal (and a cancellation) is that the objection is “taken never
-to have been made”: s 149A(3)(a). Assuming there is no other objection ﬁled by the
+The effect of a withdrawal (and a cancellation) is that the objection is "taken never
+to have been made": s 149A(3)(a). Assuming there is no other objection ﬁled by the
 
 31 See Playford and Inspector-General in Bankruptcy [2018] AATA 19.
-308      Keay’s Insolvency: Personal and Corporate Law and Practice                                [7.145]
+308      Keay's Insolvency: Personal and Corporate Law and Practice                                [7.145]
 
 trustee, then the bankrupt is taken to be discharged immediately the objection is
 withdrawn: s 149A(3)(b). The withdrawal is then effective from the beginning of the
@@ -867,13 +875,13 @@ Review of objection decision
 
 Review by Inspector-General and the AAT
 [7.145] The bankrupt has 60 days to request the Inspector-General to review the
-trustee’s decision to lodge an objection to discharge: s 149K(1)(b), (3). The
+trustee's decision to lodge an objection to discharge: s 149K(1)(b), (3). The
 Inspector-General is also entitled to review a decision to object on his or her own
 initiative (s 149K(1)(a)) and is required to review the decision if requested by the
 Commonwealth Ombudsman: s 149K(2).33
 The Inspector-General must decide within 60 days of the request being lodged
-lodged whether there are “reasons that appear to the Inspector-General to be
-sufficient to justify such a review” and if so, must proceed to do so: s 149K(5).
+lodged whether there are "reasons that appear to the Inspector-General to be
+sufficient to justify such a review" and if so, must proceed to do so: s 149K(5).
 If the Inspector-General reviews the decision of the trustee he must cancel the
 objection if satisﬁed that (s 149N):
 • the ground(s) for the objection is not within s 149D(1);
@@ -881,15 +889,15 @@ objection if satisﬁed that (s 149N):
 • the reasons given for objecting on the speciﬁed ground(s) do not justify the ﬁling
   of the objection; or
 • a previous objection made on the same ground(s) was cancelled.
-An application may then be made to the AAT from the Inspector-General’s review
+An application may then be made to the AAT from the Inspector-General's review
 of such a decision or refusal to review the decision: s 149Q.34 The parties in such
 proceedings are the Inspector-General and either the trustee or the bankrupt;
 joinder of a non-party trustee or bankrupt may be permitted: Pascoe and
 Inspector-General in Bankruptcy [2006] AATA 252.
-Where the Inspector-General decides not to review the trustee’s decision, and
+Where the Inspector-General decides not to review the trustee's decision, and
 makes no decision under s 149N, and the AAT then disagrees and sets that decision
 aside, the Tribunal does not then have the jurisdiction to proceed to conduct a
-review of the trustee’s objection. The matter must go back to the Inspector-General
+review of the trustee's objection. The matter must go back to the Inspector-General
 to decide under s 149K: Neffati and Inspector-General in Bankruptcy [2016] AATA
 941.35
 
@@ -897,13 +905,13 @@ to decide under s 149K: Neffati and Inspector-General in Bankruptcy [2016] AATA
    occurred but for the objection: Re Kotses (1995) 59 FCR 597; [1995] FCA 1608.
 33 This might occur if the Ombudsman considers that there has been an administrative error or a lack
    of natural justice in the objection process. AFSA says it tries to complete any such review within 60
-   days of receiving the Ombudsman’s request: see IGPS 12 – Statutory reviews of trustees’ decisions under
+   days of receiving the Ombudsman's request: see IGPS 12 – Statutory reviews of trustees' decisions under
    the Bankruptcy Act 1966 by the Inspector-General in Bankruptcy, 3.16-3.18.
 34 Such applications can be made by the trustee, the Official Receiver and the bankrupt, as appropriate,
    but not by a creditor: Waterco Ltd v Inspector-General in Bankruptcy (2000) 32 AAR 109; [2000] AATA
    1063.
 35 The AAT then upheld the further decision of the Inspector-General that there were still no reasons
-   sufficient to justify a review of the trustee’s decision, under s 139Y: Neffati and Inspector-General in
+   sufficient to justify a review of the trustee's decision, under s 139Y: Neffati and Inspector-General in
    Bankruptcy [2017] AATA 1108.
 [7.150]                                                   7 End of a Bankruptcy and Beyond      309
 
@@ -926,7 +934,7 @@ estate: see Frost v Sheahan (2009) 6 ABC (NS) 786; [2009] FCAFC 20.37
 The review by the court is wide in scope. Even in the case of special grounds,
 where trustees are not required to give reasons for lodging an objection, the court
 may examine the apparent reasons and may decide there was no need for the
-objection at all, as not serving a valid purpose. If the trustee’s reasons are found
+objection at all, as not serving a valid purpose. If the trustee's reasons are found
 inadequate, then the objection may be set aside.
 In contrast, the Tribunal has no power generally to review the conduct of the
 trustee; it reviews the conduct of the Inspector-General.
@@ -937,9 +945,9 @@ respect, while there is a focus in the Act on the lodgment of an objection, a tr
 has to thereafter assess its continued application. The court in Frost v Sheahan [2005]
 FCA 1014 said that where the basis for the objection has been attended to by the
 bankrupt, the trustee must consider withdrawing the objection. In that matter, in
-later challenges to the objections of the trustee, the bankrupt’s failure to provide
+later challenges to the objections of the trustee, the bankrupt's failure to provide
 full details of his income or expected income, in the context of a pending Family
-Court proceeding between him and his ex-wife, supported the trustee’s reasons for
+Court proceeding between him and his ex-wife, supported the trustee's reasons for
 maintaining the objection: Frost v Sheahan [2009] FCAFC 20; (2009) 6 ABC (NS) 786.
 If a court ﬁnds that the objection is ineffective at law, then the bankrupt is treated as
 discharged from the bankruptcy at the time of automatic discharge, provided that
@@ -953,7 +961,7 @@ FCR 296; [2002] FCAFC 48.
    discharged: Mann v Condon [2016] FCA 532.
 37 The same applies, for example, in relation to challenges to income contribution assessments, under
    s 139Y: Peled v Roufeil [2017] FCCA 2342. Both cases were decided under the previous s 178.
-310      Keay’s Insolvency: Personal and Corporate Law and Practice                                [7.155]
+310      Keay's Insolvency: Personal and Corporate Law and Practice                                [7.155]
 
 After discharge
 [7.155] If a trustee ceases to object to the discharge of a bankrupt, the trustee
@@ -970,7 +978,7 @@ Effect of discharge on liabilities and property
 released from all debts provable in bankruptcy. In contrast, discharge does not
 operate to release the bankrupt estate: Re Kavich (1995) 58 FCR 82. Therefore, if,
 after the discharge of the bankrupt, additional vested assets become available, the
-former bankrupt’s discharged debts remain a liability of the estate: Tapp v LawCover
+former bankrupt's discharged debts remain a liability of the estate: Tapp v LawCover
 Insurance Pty Ltd [2013] FCA 35.
 However, a bankrupt is not released from, among others, debts incurred by means
 of fraud,38 a pecuniary penalty order, or an unpaid income contribution liability
@@ -978,15 +986,15 @@ assessed under s 139ZG(1): s 153(2). Furthermore, unless a court releases the
 bankrupt speciﬁcally they are not released from liability under a family or child
 maintenance agreement or order: s 153(2)(c), (2A).39
 For a debt to be excluded from discharge under s 153(2)(b) on the basis of fraud, the
-test is whether the bankrupt, in incurring the debt, had acted with some “deliberate
-dishonesty to the prejudice of another person’s proprietary right”: Civitareale v
+test is whether the bankrupt, in incurring the debt, had acted with some "deliberate
+dishonesty to the prejudice of another person's proprietary right": Civitareale v
 Secretary, Department of Family and Community Services (1999) 57 ALD 451. In that
 case, the AAT found that the recipients of social security beneﬁts to which they
-were not entitled, had not incurred a debt by fraud. There was no “deliberate
-dishonesty in failing to notify the Department of the (relevant) payments”. The
-Tribunal was also satisﬁed that they “did not act recklessly without any regard for
+were not entitled, had not incurred a debt by fraud. There was no "deliberate
+dishonesty in failing to notify the Department of the (relevant) payments". The
+Tribunal was also satisﬁed that they "did not act recklessly without any regard for
 whether their answers to the Department in relation to their income were true or
-false”.40
+false".40
 The right of a secured creditor to deal with its security is not affected by the
 discharge. That creditor may deal with the property in order to obtain payment of a
 debt for which the creditor has not proved for, or been fully paid from, the
@@ -1017,7 +1025,7 @@ was obtained by fraud, or if the party in whose favour it was made consents. The
 courts will use this power to set aside a sequestration order, in particular where
 soon after the order is made the bankrupt, or the creditor, applies to the court to
 raise some fundamental error in the bankruptcy process. For example, it may be
-that the creditor’s debt had in fact been paid just before the bankruptcy hearing and
+that the creditor's debt had in fact been paid just before the bankruptcy hearing and
 that this was not known by the creditor until after the sequestration order had been
 obtained; or the petition may not have been served.43 But the court would instead
 generally require the bankrupt apply for an annulment, under s 153B, if the trustee
@@ -1029,40 +1037,40 @@ sequestration order. Indeed, if a sequestration order is made after a contested
 hearing, the proper course for the bankrupt is to appeal, not to apply for an
 annulment: Hudson v Whalan [1998] FCA 189; (1998) 5 ABC (NS) 1.
 Where the sequestration order is made by a registrar, there is no appeal, rather the
-matter proceeds under the courts’ statutory powers to review registrars’ decisions.
+matter proceeds under the courts' statutory powers to review registrars' decisions.
 It is conducted as a new hearing – a hearing de novo.44
 Among other things, an annulment by the court under s 153B allows the
 remuneration of the trustee to be protected. But the trustee can suffer being unpaid
 for that work if the court decides to set aside the sequestration order, rather than
 annul the bankruptcy; or to allow an appeal. The law has no provision for the
 remuneration of the trustee in such a case. The court in Kyriackou v Shield Mercantile
-Pty Ltd (No 2) [2004] FCA 1338 said that “a trustee who administers a bankrupt
+Pty Ltd (No 2) [2004] FCA 1338 said that "a trustee who administers a bankrupt
 estate, in the knowledge that the bankrupt is challenging the validity of the
 sequestration order, must exercise caution when incurring expenses whilst the
-status of the bankruptcy remains uncertain” and the Judge saw no basis for visiting
+status of the bankruptcy remains uncertain" and the Judge saw no basis for visiting
 those costs on the bankrupt.
 
 41 Gosden v Dixon (1992) 107 ALR 329; Daevys v Official Trustee in Bankruptcy [2011] FCA 398.
 42 As to a stay of a sequestration order, see [3.430].
 43 See Austral Brick Co Pty Ltd v Tome Daskalovski [1998] FCA 782.
-44 See O’Meara v Hitwise Pty Ltd [2007] FCAFC 114; (2007) 160 FCR 518; 5 ABC (NS) 192. See also
-   Courts’ Bankruptcy Rules, r 2.03.
-312     Keay’s Insolvency: Personal and Corporate Law and Practice               [7.175]
+44 See O'Meara v Hitwise Pty Ltd [2007] FCAFC 114; (2007) 160 FCR 518; 5 ABC (NS) 192. See also
+   Courts' Bankruptcy Rules, r 2.03.
+312     Keay's Insolvency: Personal and Corporate Law and Practice               [7.175]
 
 Similar issues arise when a sequestration order is set aside on an appeal. In Rangott
 v Marshall (2004) 139 FCR 14; 2 ABC (NS) 385, a sequestration order was made in
 August 2002 but was set aside on appeal in March 2003, the trustee having
 administered the estate in that period. The effect of the appeal decision was that the
 sequestration order and the consequent appointment of the trustee were set aside;
-“it is as if the sequestration order had never been made and the respondent had
-never been a bankrupt”; this is despite s 43(2) of the Bankruptcy Act which provides
+"it is as if the sequestration order had never been made and the respondent had
+never been a bankrupt"; this is despite s 43(2) of the Bankruptcy Act which provides
 that a person remains bankrupt until discharge or annulment: De Robillard v Carver
 [2007] FCAFC 73; (2007) 159 FCR 38; 5 ABC (NS) 92.
 Hence, if a bankrupt seeks a review of the sequestration order, the trustee may need
-to limit tasks in the administration of the bankrupt estate pending the court’s
+to limit tasks in the administration of the bankrupt estate pending the court's
 decision. The trustee can seek directions from the court, under IPSB, s 90-20, as to
 whether and to what extent the trustee should refrain from exercising their
-statutory duties while the bankrupt’s application is pending; any order may be
+statutory duties while the bankrupt's application is pending; any order may be
 subject to the applicant bankrupt giving an undertaking as to damages, and
 preparing and ﬁling a statement of affairs: Calia v Cicio [2010] FMCA 385.
 As we will see at when we examine the comparable circumstance in corporate
@@ -1079,7 +1087,7 @@ from the last payment: s 252A. Annulment can also be granted by the court under
 s 252B on the ground that the Pt XI order ought not to have been made. In contrast,
 there can be no order of discharge of a deceased estate from bankruptcy.45
 On annulment of a bankrupt deceased estate, any surplus funds, after payment of
-the trustee’s costs and expenses, are paid to, and any surplus property vests in, the
+the trustee's costs and expenses, are paid to, and any surplus property vests in, the
 legal personal representative, or such person as the court, on application being
 made, allows: s 252C.
 The restriction under s 37(2) of the Act applies to deceased estates; that is, there is
@@ -1117,7 +1125,7 @@ the beneﬁt of the creditors in that ﬁrst bankruptcy, vests in the trustee of
 bankruptcy. However, if after-acquired property was realised by the ﬁrst trustee
 without knowledge of the presentation of the petition which led to the second
 bankruptcy, the proceeds do not vest in the second trustee. But when the ﬁrst
-trustee does know of the presentation of a creditor’s petition against the bankrupt,
+trustee does know of the presentation of a creditor's petition against the bankrupt,
 that trustee is required to hold any undistributed after-acquired property until the
 petition has been dealt with. If a second bankruptcy does in fact occur then the ﬁrst
 trustee must deliver that property to the second trustee.
@@ -1127,7 +1135,7 @@ If, as usually occurs, the trustee of the ﬁrst bankruptcy is unable to pay all
 provable debts in the ﬁrst bankruptcy and their remuneration and expenses, that
 trustee becomes a creditor for that total amount in the second bankruptcy. This
 right exists even if the bankrupt has been discharged from that bankruptcy: Re
-Allchurch [1993] FCA 392; (1993) 44 FCR 182. The ﬁrst trustee’s claim ranks with the
+Allchurch [1993] FCA 392; (1993) 44 FCR 182. The ﬁrst trustee's claim ranks with the
 ordinary unsecured creditors: s 59(1)(c).
 Transactions that are voidable in the ﬁrst bankruptcy may remain voidable in the
 second: s 59(1)(e).
@@ -1140,7 +1148,7 @@ Under the proposed Bankruptcy Amendment (Enterprise Incentives) Bill 2017, new s
 income contribution obligations arising out of the ﬁrst bankruptcy will cease and
 the contribution assessment period for the ﬁrst bankruptcy will come to an end.
 This amendment ensures consistency with the administration of existing debts that
-314      Keay’s Insolvency: Personal and Corporate Law and Practice                             [7.185]
+314      Keay's Insolvency: Personal and Corporate Law and Practice                             [7.185]
 
 have not been met in a bankruptcy where there is a subsequent bankruptcy. New
 subs 59(7) would ensure that ceasing income contributions to a trustee in an earlier
@@ -1157,7 +1165,7 @@ response to public perceptions about the obligations that should be imposed on
 those who are unable to pay their debts, and in response to those who are seen as
 having apparent wealth and position, save where bankruptcy occurs.
 While the 1966 Act retains many features of old bankruptcy law – acts of
-bankruptcy and creditor’s petitions being some – it has also taken on many good
+bankruptcy and creditor's petitions being some – it has also taken on many good
 processes worthy of broader adoption. The Insolvency Law Reform Act 2016 in fact
 introduced many of the processes of bankruptcy to corporate insolvency. The
 minimum three-year-period of bankruptcy also remains under review in 2018, and
@@ -1175,7 +1183,7 @@ bankruptcy to one year. The increase in the numbers of bankrupts over the last
 be reﬁned and developed, even if the numbers are now plateauing or falling.
 However, its essential elements remain, that a debtor is afforded its protection, but
 at the same time is held to some account for a set period, and creditors are entitled
-to share in whatever of the bankrupt’s assets remain. The lack of assets in most
+to share in whatever of the bankrupt's assets remain. The lack of assets in most
 bankruptcies leads us into the next two chapters, dealing with non-bankruptcy
 arrangements designed to provide more ﬂexibility for the debtor and more of a
 dividend return for creditors.
@@ -1185,8 +1193,8 @@ Bankruptcy Act        Part VII – Discharge and Annulment – ss 148 – 154
 
 46 For England, see Insolvency Act 1986 (UK), s 279; Keay and Walton, Insolvency Law – Corporate and
    Personal, 3rd ed, (Jordan Publishing, 2012) Ch 24. For Ireland, see Bankruptcy (Amendment) Act 2015.
-47 C Symes, “Bankrupts and Passports: A Call To Repeal SS 77(1)(A)(II) and 272(1)(C) of the
-   Bankruptcy Act” (2014) 14(3) Queensland University of Technology Law Review 98.
+47 C Symes, "Bankrupts and Passports: A Call To Repeal SS 77(1)(A)(II) and 272(1)(C) of the
+   Bankruptcy Act" (2014) 14(3) Queensland University of Technology Law Review 98.
 [7.185]                                         7 End of a Bankruptcy and Beyond   315
 
                  Chapter 7 – End of a Bankruptcy and Beyond
@@ -1195,9 +1203,9 @@ Bankruptcy Act        Part VII – Discharge and Annulment – ss 148 – 154
  Regulations
  AFSA          IGPD 11 – Trustees guidelines in issuing an objection to
                discharge where statement of affairs not yet ﬁled
-               OPTS 4 – The End of a Bankrupt’s Period of Bankruptcy
+               OPTS 4 – The End of a Bankrupt's Period of Bankruptcy
                OPTS 5 – Objections to Discharge from Bankruptcy
- Courts’       Part 7 – Annulment or Review of Sequestration Order – Sch 1 –
+ Courts'       Part 7 – Annulment or Review of Sequestration Order – Sch 1 –
  Bankruptcy    Forms
  Rules
 PartIII:PersonalInsolvency–
@@ -1206,7 +1214,7 @@ PartIII:PersonalInsolvency–
 Chapter8:PersonalInsolvencyAgreements........................................................ 
 Chapter9:DebtAgreements............................................................................... 
 
-The Bankruptcy Act provides for a debtor’s compromise with creditors outside formal bankruptcy by way of
+The Bankruptcy Act provides for a debtor's compromise with creditors outside formal bankruptcy by way of
 agreements with creditors under Pt X and Pt IX of the Act. These are explained in the two chapters of this
 Part. Chapter 9 also refers to pending changes to debt agreements under the proposed Bankruptcy
 Amendment (Debt Agreement Reform) Bill 2018.

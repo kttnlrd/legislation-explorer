@@ -1,9 +1,9 @@
 ---
 act: "TAA 1953"
 part: "IVC"
-part_title: "Taxation objections, reviews and"
+part_title: "Taxation objections, reviews and appeals"
 division: "4"
-division_title: "ART review of objection decisions and"
+division_title: "ART review of objection decisions and extension of time refusal decisions"
 subdivision: ""
 subdivision_title: ""
 section: "14ZZJ"
@@ -35,7 +35,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  a hearing of a proceeding for the review of the decision or the application is not conducted in public; and
 
 > <a id="s14ZZJ-2-b"></a>
-> **(b)**  a notice of appeal has not been lodged with the Federal Court; the ART must ensure, as far as practicable, that its decision and the reasons for it are framed so as not to be likely to enable the identification of the person who made the application. Authorised Version C2026C00170 registered 28/04/2026
+> **(b)**  a notice of appeal has not been lodged with the Federal Court; the ART must ensure, as far as practicable, that its decision and the reasons for it are framed so as not to be likely to enable the identification of the person who made the application.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

@@ -2,7 +2,7 @@
 part: I
 part_title: Part I Treatment of tax losses
 division: IS
-division_title: Subpart IS—Mineral miners’ and petroleum miners’ tax losses
+division_title: Subpart IS—Mineral miners' and petroleum miners' tax losses
 section: IS-2
 section_title: Treatment of net losses resulting from certain expenditure
 compilation_no: 935
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Using loss balances**
 
-**(2)**  The company may subtract the amount of the net mining loss from its net income for the later tax year, even though the continuity of ownership required under section IA 5 (Restrictions on companies’ loss balances carried forward: continuity of ownership) is broken or is treated as absent under section GB 3 (Arrangements for carrying forward loss balances: companies’ ownership), but only to the extent set out in subsection (3).
+**(2)**  The company may subtract the amount of the net mining loss from its net income for the later tax year, even though the continuity of ownership required under section IA 5 (Restrictions on companies' loss balances carried forward: continuity of ownership) is broken or is treated as absent under section GB 3 (Arrangements for carrying forward loss balances: companies' ownership), but only to the extent set out in subsection (3).
 
 **Limit on amount**
 
-**(3)**  The amount subtracted under subsection (2) must be no more than the amount that would be the mineral miner’s net income if its only assessable income for the later tax year were from the mining permit area.
+**(3)**  The amount subtracted under subsection (2) must be no more than the amount that would be the mineral miner's net income if its only assessable income for the later tax year were from the mining permit area.
 
 **Amounts carried forward**
 

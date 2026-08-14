@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) they are married, in a civil union, or in a de facto relationship:
 
-- (c) 1 person is within 2 degrees of blood relationship to the other person’s spouse, civil union partner, or de facto partner.
+- (c) 1 person is within 2 degrees of blood relationship to the other person's spouse, civil union partner, or de facto partner.
 
 **Exception: blood relationships**
 

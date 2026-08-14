@@ -19,7 +19,7 @@ The vacancy fee does not apply if the owner or a relative of theirs occupies the
 
   183 days in a 12-month period.
 
-An owner will be liable to pay a vacancy fee if the dwelling is not residentially occupied, or genuinely available to be occupied, for at least 183 days in a 12-month period (referred to as a vacancy year). A vacancy year commences on the day of the owner’s initial right to occupy the dwelling.
+An owner will be liable to pay a vacancy fee if the dwelling is not residentially occupied, or genuinely available to be occupied, for at least 183 days in a 12-month period (referred to as a vacancy year). A vacancy year commences on the day of the owner's initial right to occupy the dwelling.
 
 The foreign person is required to lodge a vacancy fee return with the ATO within 30 days after the end of each year during which the person may be liable for the fee for a dwelling. A civil penalty may apply where a foreign person fails to submit the vacancy fee return or keep the required records. The ATO will issue a notice to the foreign person if a vacancy fee is payable. The Treasurer has power to recover unpaid amounts and to waive or remit the vacancy fee.
 

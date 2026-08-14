@@ -47,7 +47,7 @@ Amounts levied on proprietors by a strata title body in accordance with the stat
 
 Fines for breaching Eumeralla by-laws The fine paid to Eumeralla by a proprietor was paid outside the normal capacity as member of the body corporate. Accordingly, the mutuality principle does not apply. This amount will be considered assessable income of Eumeralla under ITAA97 s 6-5.
 
-Interest on late payment of monthly fees The payment of the monthly fees represents each proprietor’s share in the mutual liabilities of Eumeralla and the fees are Eumeralla’s non-assessable mutual receipts. The interest is imposed to compensate the other proprietors for a measurable detriment suffered by the common fund. On this basis, the interest amount is akin to the monthly fees and treated as a mutual receipt. The interest is non-assessable to Eumeralla.
+Interest on late payment of monthly fees The payment of the monthly fees represents each proprietor's share in the mutual liabilities of Eumeralla and the fees are Eumeralla's non-assessable mutual receipts. The interest is imposed to compensate the other proprietors for a measurable detriment suffered by the common fund. On this basis, the interest amount is akin to the monthly fees and treated as a mutual receipt. The interest is non-assessable to Eumeralla.
 
 Interest on bank account The income from the bank account is a non-mutual receipt and assessable income to Eumeralla.
 

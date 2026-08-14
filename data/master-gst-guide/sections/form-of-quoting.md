@@ -37,7 +37,7 @@ In the case of imported wine, the quotation is made to Customs. Importers can au
 
 Periodic quoting Quotation generally operates on a transaction-by-transaction basis. However, a purchaser may, if it wishes, make a single quotation for all of its purchases from a particular supplier for a period of up to one year (WET Act, s 13-15). This type of quotation is known as a periodic quotation. If you make a periodic quotation, you are taken to have quoted your ABN for all purchases from the supplier during the next 12 months. You must, however, notify the supplier at or before the time of the purchase if you are not entitled to quote for a particular purchase during that 12-month period. Failure to do so is an offence. At the end of the 12-month period, the purchaser may, if it wishes, make a new periodic quotation.
 
-Practice pointer: For approved forms for one-off or periodic quoting, see “Approved quoting forms” at www.ato.gov.au Making an unauthorised quotation is an offence (WET Act, s 13-35). However, the supplier is entitled to treat it as effective to make the dealing exempt, unless the supplier has “reasonable grounds for believing” that:
+Practice pointer: For approved forms for one-off or periodic quoting, see "Approved quoting forms" at www.ato.gov.au Making an unauthorised quotation is an offence (WET Act, s 13-35). However, the supplier is entitled to treat it as effective to make the dealing exempt, unless the supplier has "reasonable grounds for believing" that:
 
 - the quoter is not entitled to quote
 

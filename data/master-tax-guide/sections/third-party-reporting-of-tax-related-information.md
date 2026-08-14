@@ -11,7 +11,7 @@ A third party reporting regime requires certain entities to report information t
 
 (i) government-related entities, other than local governing bodies, who are required to report on government grants (ii) government-related entities, who are required to report on ﬁnancial beneﬁts for services (iii) states and territories who are required to report on real property transfers (iv) ASIC, market participants, listed companies and trustees with an absolutely entitled beneﬁciary, who are required to report on security transactions (v) trustees of unit trusts, who are required to report on transactions relating to units in unit trusts (vi) administrators of payment systems — on electronic business transactions, and (vii) eligible community housing providers.
 
-The entity must prepare a report in the approved form setting out information it has about any relevant transactions that happened during the ﬁnancial year (or other speciﬁed period) and give the report to the Commissioner within 31 days after the end of the ﬁnancial year (or other reporting period). For government- related entities ((i) and (ii) above), the report is the “taxable payments annual report” and the ATO has extended the date of lodgment to 28 August (ATO website: When a government entity must lodge a TPAR).
+The entity must prepare a report in the approved form setting out information it has about any relevant transactions that happened during the ﬁnancial year (or other speciﬁed period) and give the report to the Commissioner within 31 days after the end of the ﬁnancial year (or other reporting period). For government- related entities ((i) and (ii) above), the report is the "taxable payments annual report" and the ATO has extended the date of lodgment to 28 August (ATO website: When a government entity must lodge a TPAR).
 
 The reporting period for states and territories ((iii) above) has been varied to 3-month periods ending 30 September, 31 December, 31 March and 30 June (Legislative Instrument F2016L00541). Eligible community housing providers have until 31 July, immediately following the relevant income year, to notify the Commissioner of aﬀordable housing certiﬁcates issued during the prior ﬁnancial year, ie 31 July 2025 for certiﬁcates issued during the 2023–24 ﬁnancial year (ATO website: Community housing providers: reporting for aﬀordable housing).
 
@@ -61,7 +61,7 @@ Payments Platform Participants governed by New Payments Platform Australia Ltd e
 
   payments made to a government-related entity; payments made to a general insurer, life insurer
 
-  or private health insurer which are received in the course of the insurer’s insurance business;
+  or private health insurer which are received in the course of the insurer's insurance business;
 
   payments made to a superannuation fund, approved deposit fund, pooled superannuation trust
 
@@ -81,7 +81,7 @@ Framework Participants (Legislative Instrument F2022L01557)
 
   transportation of employees; provision of consideration to a general insurer for services provided
 
-  in the course of the insurer’s insurance business; provision of consideration for accommodation
+  in the course of the insurer's insurance business; provision of consideration for accommodation
 
   in commercial premises, a hotel, motel, inn, hostel, boarding house, caravan park or camping
 

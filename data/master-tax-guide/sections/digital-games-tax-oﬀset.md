@@ -27,6 +27,6 @@ The digital games tax oﬀset (ITAA97 Div 378) provides a refundable income tax 
 
 - lodge any required notice with the Commissioner (¶20-415).
 
-The Income Tax Assessment (Digital Games Tax Oﬀset) Rules 2023 (Legislative Instrument F2023L00992) provide for the way in which the Digital Games Tax Oﬀset Advisory Board will issue provisional certiﬁcates and specify how applications for certiﬁcates are to be made. The Oﬃce for the Arts’ Digital Games Tax Oﬀset (DGTO) Guidelines provide guidance on preparing applications for certiﬁcation.
+The Income Tax Assessment (Digital Games Tax Oﬀset) Rules 2023 (Legislative Instrument F2023L00992) provide for the way in which the Digital Games Tax Oﬀset Advisory Board will issue provisional certiﬁcates and specify how applications for certiﬁcates are to be made. The Oﬃce for the Arts' Digital Games Tax Oﬀset (DGTO) Guidelines provide guidance on preparing applications for certiﬁcation.
 
 ## The main eligibility criteria for the oﬀset require a company to (s 378-10):

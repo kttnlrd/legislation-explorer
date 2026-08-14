@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)**  To the extent to which it is not beneficiary income, an amount of income derived by a trustee of a trust is trustee income.
 
-**Minors’ beneficiary income**
+**Minors' beneficiary income**
 
 **(2)**  An amount of beneficiary income to which section HC 35 applies that is derived in an income year by a person who is a minor is—
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 - (b) subject to the basic rate of income tax set out in schedule 1, part A, clause 3.
 
-**Close companies’ beneficiary income**
+**Close companies' beneficiary income**
 
 **(2B)**  An amount of beneficiary income to which section HC 38 applies is—
 

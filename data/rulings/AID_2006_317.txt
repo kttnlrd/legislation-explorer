@@ -3,21 +3,16 @@ ATO ID 2006/317
 ==================================================
 
 Income Tax
-        Trust Losses: unlisted widely held trust - whether classification affected by a higher level trust
-        FOI status: may be released
+ Trust Losses: unlisted widely held trust - whether classification affected by a higher level trust
+ FOI status: may be released
 
-
-This ATO ID has been amended to add, as related references, the decision of the Full Federal Court in ConnectEast Management Ltd v FC of T  [2009] FCAFC 22 and the Decision Impact Statement for that case.
-
-
+This ATO ID has been amended to add, as related references, the decision of the Full Federal Court in ConnectEast Management Ltd v FC of T [2009] FCAFC 22 and the Decision Impact Statement for that case.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a trust have to be wholly owned, directly or indirectly, by another trust in order to satisfy section 272-127 of Schedule 2F to the Income Tax Assessment Act 1936 (ITAA 1936)?
@@ -34,8 +29,6 @@ Subsection 272-127(1) of Schedule 2F to the ITAA 1936 states:
 
 If:
 
-
-
 (a)apart from this Subdivision, a trust is an unlisted widely held trust, an unlisted very widely held trust or a wholesale widely held trust; and
 (b)each of one or more trusts of a higher level (see subsection (3)) has, directly or indirectly, fixed entitlements to all of the income and capital of the trust;
 
@@ -47,10 +40,10 @@ This is confirmed in paragraphs 13.91 and 13.92 of the Explanatory Memorandum to
 As no trust has, directly or indirectly, fixed entitlements to 100% of the income and capital of Trust A, paragraph 272-127(1)(b) of Schedule 2F to the ITAA 1936 is not satisfied.
 As a result, Trust A is not able to take advantage of section 272-127 of Schedule 2F to the ITAA 1936.
 Date of decision:
-         11 October 2006
+  11 October 2006
 
 Year of income:
-           Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007
+  Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007
 
 Legislative References:
 
@@ -59,24 +52,22 @@ Income Tax Assessment Act 1936   Schedule 2F   section 272-110   sectio
 Other References:
 
  Explanatory Memorandum to the Taxation Laws Amendment (Trust Loss and Other Deductions) Bill 1997
-           Decision Impact Statement DIS as Trustee for the ConnectEast Investment Trust 2 VID 347
-ConnectEast Management Ltd v. FC of T  [2009] FCAFC 22
-
+ Decision Impact Statement DIS as Trustee for the ConnectEast Investment Trust 2 VID 347
+ConnectEast Management Ltd v. FC of T [2009] FCAFC 22
 
 Keywords
 
 Fixed entitlements
-          Widely held trust
-
+ Widely held trust
 
 Siebel/TDMS Reference Number:
-         5406249
+  5406249
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         24 November 2006
+  24 November 2006
 
 ISSN:
-          1445-2782
+ 1445-2782

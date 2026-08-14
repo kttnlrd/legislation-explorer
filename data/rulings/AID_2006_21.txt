@@ -3,23 +3,18 @@ ATO ID 2006/21
 ==================================================
 
 Goods and Services Tax
-        GST and receipt of surety bond payment
-        FOI status: may be released
+ GST and receipt of surety bond payment
+ FOI status: may be released
 
-
-This ATO ID is withdrawn from the database as it is superseded by  Goods and Services Tax Ruling GSTR 2006/1.
+This ATO ID is withdrawn from the database as it is superseded by Goods and Services Tax Ruling GSTR 2006/1.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Did the entity, a law firm, receive consideration for a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it received payment under a surety bond for its supply of legal services to the liquidator?
@@ -35,8 +30,6 @@ First, it is necessary to examine the nature of the supply to the entity by the 
 The provision, acquisition or disposal of an interest in or under a guarantee, including an indemnity (except a warranty for goods or a contract of insurance or reinsurance) is a financial supply under item 7 in the table in subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 Part 5 of Schedule 7 to the GST Regulations lists the following examples:
 
-
-
 1. An indemnity that is not a contract of insurance.
 2. A surety bond that is a guarantee.
 3. A performance bond.
@@ -44,8 +37,6 @@ Part 5 of Schedule 7 to the GST Regulations lists the following examples:
 Therefore, the entity has acquired an input taxed financial supply from the third party surety in the form of an interest under a guarantee.
 A surety bond typically involves an undertaking by a party (the third party surety in this case) to make payment to another party (the entity) upon the occurrence of a specified event-usually the default of a debtor (the associate in this case) that has contracted with the entity.
 The nature of the supply to the entity by the surety is a supply of rights under the guarantee or indemnity. The entity may exercise its rights on the happening of specific events or in certain circumstances. If the entity exercises those rights, it is entitled to payment. Paragraph 9-15(3)(a) of the GST Act provides that if a right or option to acquire a thing is granted, then:
-
-
 
 •the consideration for the supply of the thing on the exercise of the right or option is limited to any additional consideration provided either for the supply or in connection with the exercise of the right or option; or
 •if there is no such additional consideration - there is no consideration for the supply.
@@ -58,44 +49,40 @@ The entity made a supply of legal services to the liquidator of the company. Sec
 The associate of the company in liquidation agreed to pay the fees to the entity. When the associate fails to make the payment, the payment is made by the surety. Under subsection 9-15(2) of the GST Act, it does not matter whether the payment was by the recipient of the supply. Accordingly, the payment received under the surety bond is third-party consideration for the taxable supply of legal services.
 Therefore, all the requirements of a taxable supply under section 9-5 of the GST Act are satisfied.
 Date of decision:
-         7 July 2003
+  7 July 2003
 
 Legislative References:
 
 A New Tax System (Goods and Services Tax) Act 1999   paragraph 9-5(a)   subsection 9-10(4)   subsection 9-15(2)   paragraph 9-15(3)(a)
-          A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.09(3) table item 7   Schedule 7 Part 5
+ A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.09(3) table item 7   Schedule 7 Part 5
 
 Keywords
 
 Goods and services tax
-          GST supplies & acquisitions
-          GST consideration
-          GST supply
-          Taxable supply
-          Input taxed supplies
-          GST financial supplies
-          GST guarantees and indemnities
-
+ GST supplies & acquisitions
+ GST consideration
+ GST supply
+ Taxable supply
+ Input taxed supplies
+ GST financial supplies
+ GST guarantees and indemnities
 
 Business Line:
-         GST
+  GST
 
 Date of publication:
-         25 January 2006
+  25 January 2006
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  7 July 2003

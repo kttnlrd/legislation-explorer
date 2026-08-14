@@ -3,22 +3,18 @@ ATO ID 2004/319
 ==================================================
 
 Income Tax
-        Reduction in a shareholder's equity interest by the way of share buy-back: section 45B does not apply
-        FOI status: may be released
-
+ Reduction in a shareholder's equity interest by the way of share buy-back: section 45B does not apply
+ FOI status: may be released
 
 The Government has announced that from 7:30pm AEDST on 25 October 2022, there will no longer be a dividend component in respect of the price paid by a listed public company undertaking an off-market share buy-back. The entire buy-back price paid for the share will be treated as capital proceeds for a share held on capital account, or as the entire proceeds for a share held as trading stock or on revenue account (but not as trading stock).
 
-              Retrospective tax law changes have effect for a period before the date of enactment once the legislation is passed. See  Administrative treatment of retrospective legislation.
-
+ Retrospective tax law changes have effect for a period before the date of enactment once the legislation is passed. See Administrative treatment of retrospective legislation.
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Will a return of capital to a shareholder whose equity interest is reduced trigger the application of section 45B of the Income Tax Assessment Act 1936 (ITAA 1936) to enable the Commissioner to treat the distribution as a dividend for taxation purposes?
@@ -31,8 +27,6 @@ The buy-back consideration is to be debited to the share capital account at $2 p
 Reasons for Decision
 A purpose of section 45B of the ITAA 1936 is to ensure that amounts paid in substitution for dividends are treated as unfranked dividends for income tax purposes. Section 45B of the ITAA 1936 applies if:
 
-
-
 • there is a 'scheme' under which a person is 'provided with a capital benefit' by a company; and
 • a taxpayer (whether receiving the capital benefit or not) 'obtains a tax benefit'; and
 • having regard to the 'relevant circumstances' of the scheme, it would be concluded that the person, or one of the persons, who entered into or carried out the scheme or any part of the scheme did so for a purpose (whether or not the dominant purpose but not including an incidental purpose) of enabling a taxpayer to 'obtain a tax benefit'.
@@ -41,8 +35,6 @@ The proposed share buy-back is a 'scheme' contemplated by section 45B of the ITA
 As part of the buy-back consideration consists of a distribution of a capital on which no tax is payable, company B would 'obtain a tax benefit' (within meaning of the phrase in subsection 45B(9) of the ITAA 1936).
 Subsection 45B(8) of the ITAA 1936 lists the circumstances that are relevant to determining whether any person has a more than incidental purpose of enabling a person to obtain a tax benefit.
 Significantly, under the proposed share buy-back:
-
-
 
 • the buy-back price consists of dividend and return of capital components - but as the return of capital corresponds to the capital originally contributed the capital benefit is not attributable to the profits of the company
 • company A had not paid dividends regularly, but the buy-back consideration consists of a franked dividend component that reflected company B's underlying share of retained profits
@@ -53,10 +45,10 @@ Significantly, under the proposed share buy-back:
 After considering all the relevant circumstances, it cannot reasonably be concluded that there exists the requisite level of purpose of providing a tax benefit to company B by way of the capital reduction.
 Therefore, section 45B of the ITAA 1936 does not apply to deem the return of capital under the proposed share buy-back to be a dividend.
 Date of decision:
-         29 October 2003
+  29 October 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -70,17 +62,16 @@ Related ATO Interpretative Decisions
 Keywords
 
 Share capital
-          Capital reduction
-
+ Capital reduction
 
 Siebel/TDMS Reference Number:
-         3742808
+  3742808
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         8 April 2004
+  8 April 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

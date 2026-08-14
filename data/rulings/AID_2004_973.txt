@@ -3,37 +3,33 @@ ATO ID 2004/973
 ==================================================
 
 Income tax
-        Research and Development: Additional deduction for incremental expenditure where a company has a transitional substituted accounting period in relation to the 'deduction year'
-        FOI status: may be released
-
-
+ Research and Development: Additional deduction for incremental expenditure where a company has a transitional substituted accounting period in relation to the 'deduction year'
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 If an eligible company lodges a return of income for a period other than 12 months, will this period represent the 'year of income' (the
-          'deduction year'
+ 'deduction year'
 ) for the purposes of determining the company's eligibility to claim an additional deduction for incremental expenditure, and also represent the 'Y0 year' when calculating 'R&D spend'?
 Decision
 No. The
-          'deduction year'
+ 'deduction year'
  for the purposes of section 73Q of the Income Tax Assessment Act 1936 (ITAA 1936), and the 'Y0 year', when calculating the 'R&D spend' under section 73P of the ITAA 1936, for the purposes of sections 73U, 73V, 73W and 73Y of the ITAA 1936, will be the 12 month period preceding the last day of the period, for which the company will lodge its transitional period return.
 Facts
 The company is an 'eligible company', as defined in subsection 73B(1) of the ITAA 1936. It undertakes research and development activities in Australia and is examining its eligibility under section 73Q of the ITAA 1936 to claim an additional deduction under section 73Y of the ITAA 1936, for a 'year of income', (referred to as 'the
-          deduction year'
+ deduction year'
  in subsection 73Q(1) of the ITAA 1936).
 The eligible company is allowed to adopt a substituted accounting period under section 18 of the ITAA 1936. A condition of granting this approval is that the eligible company will lodge a return for a transitional period other than 12 months (covering income and deductions relating to a period greater than 12 months), in relation to 'the
-          deduction year'.
+ deduction year'.
 
 Reasons for Decision
 Eligibility to claim an additional deduction for incremental expenditure under section 73Q of the ITAA 1936 is determined for a 'year of income'). That is, the requirements for eligibility set down in this section need to be met for this period, (referred to in the section as 'the
-          deduction year
+ deduction year
 ').
 The meaning of 'year of income' was considered in the AAT decision of Norwich Superannuation Services Pty Ltd v. FC of T (1998) 41 ATR 1091; 99 ATC 2015 (Norwich), where Mr BH Pascoe stated:
 
@@ -46,24 +42,23 @@ The definition of the 'Y0' year of income in paragraph 73P(6)(a) of the ITAA 193
 the year of income for which an eligible company is working out its assessable income and deductions.
 
 Therefore, the 'Y0' year of income, and the 'year of income' (also referred to as 'the
-          deduction year
+ deduction year
 ') in section 73Q of the ITAA 1936, are the same 12 month period, in accordance with the interpretation of 'year of income' outlined in Norwich.
 Accordingly, 'the
-          deduction year
+ deduction year
 ,' concerning eligibility to claim an additional deduction for incremental expenditure, and the total incremental expenditure amounts of the eligible company incurred in the 'Y0' year of income, which are to be included under the definition of 'R&D spend', are determined using the eligible company's 'year of income'.
 In this case, this is the 12 month period preceding the last day of the period for which the company is to lodge its transitional period return.
 Date of decision:
-         19 November 2004
+  19 November 2004
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
 Income Tax Assessment Act 1936   section 18   section 73B   subsection 73B(1)   section 73P   subsection 73P(2)   subsection 73P(6)   paragraph 73P(6)(a)   section 73Q   subsection 73Q(1)   section 73R   section 73S   section 73T   section 73U   section 73V   section 73W   section 73X   section 73Y
 
 Case References:
-
 
 Norwich Superannuation Services Pty Ltd v. Federal Commissioner of Taxation   (1998) 41 ATR 1091   99 ATC 2015
 
@@ -76,19 +71,18 @@ Related ATO Interpretative Decisions
 Keywords
 
 Innovation segment
-          Research & development incremental tax concession
-          Substituted accounting period
-          Transitional & changeover arrangements
-
+ Research & development incremental tax concession
+ Substituted accounting period
+ Transitional & changeover arrangements
 
 Siebel/TDMS Reference Number:
-         4328475
+  4328475
 
 Business Line:
-         Public Groups and International
+  Public Groups and International
 
 Date of publication:
-         17 December 2004
+  17 December 2004
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -4,11 +4,11 @@ part_title: Part I Treatment of tax losses
 division: IE
 division_title: Subpart IE—Treatment of tax losses on amalgamation of companies
 section: IE-4
-section_title: Group companies’ treatment of tax losses on amalgamation
+section_title: Group companies' treatment of tax losses on amalgamation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# IE 4  Group companies’ treatment of tax losses on amalgamation
+# IE 4  Group companies' treatment of tax losses on amalgamation
 
 **When this section applies**
 
@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) has a tax loss for part of a tax year before the date of amalgamation; and
 
-- (c) may use the tax loss under section IC 5 or IQ 4 (which relate to a company’s use of another company’s loss, including foreign losses).
+- (c) may use the tax loss under section IC 5 or IQ 4 (which relate to a company's use of another company's loss, including foreign losses).
 
 **Use by amalgamated company**
 

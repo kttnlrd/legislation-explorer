@@ -3,20 +3,15 @@ ATO ID 2013/38
 ==================================================
 
 Goods and Services Tax
-        GST and the recovery of waste levies and carbon pricing mechanism costs by waste disposal facility operators
-
+ GST and the recovery of waste levies and carbon pricing mechanism costs by waste disposal facility operators
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a waste disposal facility operator, liable for GST on the total amount charged to customers for allowing them to dispose of waste at the facility, when the total includes amounts for the recovery of waste levies under relevant state or territory environment protection legislation and regulations and carbon pricing mechanism costs under Commonwealth legislation, which may be identified separately on the tax invoice?
@@ -25,8 +20,6 @@ Yes, the entity is liable for GST on the total amount charged to customers for a
 Facts
 The GST registered entity operates a waste disposal facility and charges customers for allowing them to dispose of waste at the facility.
 The entity incurs costs in relation to operating the waste disposal facility including:
-
-
 
 •levies for which the entity is liable under relevant state or territory environment protection legislation and regulations (waste levies), payable to a state or territory environment protection authority (EPA); and
 •Costs under the carbon pricing mechanism (CPM costs) of the Clean Energy Act 2011 (CE Act), as a 'liable entity' under Subdivision B of Division 2 of Part 3 of the CE Act.
@@ -39,8 +32,6 @@ Division 81 of the (GST Act) applies to the payment (or the discharging of the l
 When the entity allows customers to dispose of waste at its waste disposal facility and charges customers a fee, the entity is making a taxable supply of waste management services under section 9-5 of the GST Act and the fee charged is consideration for that supply. The entity calculates the fee charged on a commercial basis. Generally, the calculation of such fees can be affected by many factors and typically reflect the costs of providing the services including, for example, costs of Australian taxes and Australian fees and charges for which the entity is liable and which the entity may seek to recover.
 In the present case, the entity may identify separate amounts in relation to the waste levies and CPM costs in the tax invoices issued to customers to indicate some or all of these costs are being recovered in the total amount charged for the services. While the total amount charged to customers may be calculated by reference to the waste levies and CPM costs, the amount paid by the customer to the entity does not meet the requirements of Division 81 as they are not being paid to an Australian government agency under an Australian law. That is, the amount identified as being for the recovery of the waste levies and CPM costs are subject to GST. This is consistent with the view explained at paragraphs 8 and 9 of Goods and Services Tax Determination GSTD 2000/10 Goods and services tax: are outgoings payable by a tenant under a commercial property lease part of the consideration for the supply of the premises?.
 Therefore, the total amount charged to customers, including amounts for the recovery of waste levies and CPM cost, is the consideration for the taxable supply of waste management services made by the entity and the entity is liable to pay GST on the total amount. That is, the entity does not exclude the amounts included for recovery of these costs when calculating the GST payable, even if the amounts are identified separately in tax invoices issued to customers.
-
-
 
 Note:
  From the 1 July 2014, the Clean Energy Act 2011 is repealed and therefore from this date, there will be no liable entities incurring CPM costs.
@@ -62,7 +53,7 @@ Note
 Added note about the repeal of the Clean Energy Act 2011.
 
 Date of decision:
-         2 July 2013
+  2 July 2013
 
 Legislative References:
 
@@ -76,36 +67,32 @@ GSTR 2000/10
 Keywords
 
 Australian tax
-          Australian fee or charge
-          Australian government agency
-          Australian law
-          consideration
-          goods and services tax
-          supply
-
+ Australian fee or charge
+ Australian government agency
+ Australian law
+ consideration
+ goods and services tax
+ supply
 
 Siebel/TDMS Reference Number:
-         1-4SOPWEG; 1-5MZWLK3
+  1-4SOPWEG; 1-5MZWLK3
 
 Business Line:
-         Interpretative Assistance, ITX
+  Interpretative Assistance, ITX
 
 Date of publication:
-         5 July 2013
+  5 July 2013
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
  2 July 2013

@@ -3,23 +3,18 @@ ATO ID 2008/102
 ==================================================
 
 Goods and Services Tax
-        GST and reverse charge on cross border operating lease
-        FOI status: may be released
-
+ GST and reverse charge on cross border operating lease
+ FOI status: may be released
 
 This ATO ID is withdrawn because it contains a view in respect of a provision of the A New Tax System (Goods and Services Tax) Act 1999 that does not apply after 1 October 2016. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for tax periods up to 1 October 2016.
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Does a non-resident lessor of substantial equipment 'make the supply through an enterprise that the supplier carries on in Australia' for the purposes of paragraph 83-5(1)(b) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
@@ -37,15 +32,13 @@ Reasons for Decision
 One of the conditions that needs to be satisfied for the GST on a taxable supply to be payable by the recipient and not by the supplier under Division 83 of the GST Act is for paragraph 83-5(1)(b) of the GST Act to be satisfied. The Division applies if amongst other things, pursuant to paragraph 83-5(1)(b):
 
 the supplier does
-              not
+ not
  make the supply through an *enterprise that the supplier *carries on in Australia
 
 (emphasis added and * refers to a defined term in the GST Act)
 
 The non-resident lessor does carry on an enterprise of leasing substantial equipment. However, for the purposes of paragraph 83-5(1)(b) of the GST Act it needs to be determined if the non-resident lessor makes the supply through an enterprise that is carried on in Australia.
 Under subsection 9-25(6) of the GST Act an enterprise is 'carried on in Australia' if the enterprise is carried on through:
-
-
 
 •a permanent establishment (as defined in subsection 6(1) of the Income Tax Assessment Act 1936 (ITAA 1936)); or
 •a place that would be such a permanent establishment if paragraph (e), (f) or (g) of that definition did not apply.
@@ -54,8 +47,6 @@ Under subsection 6(1) of the ITAA 1936 the relevant parts of the permanent estab
 
 Permanent establishment
 , in relation to a person (including the Commonwealth, a State or an authority of the Commonwealth or a State), means a place at or through which the person carries on any business and, without limiting the generality of the foregoing, includes:
-
-
 
 (a)...........
 (b)a place where the person has, is using or is installing substantial equipment or substantial machinery;
@@ -70,16 +61,14 @@ The fact that the manufacturer from a practical perspective makes the equipment 
 Despite the conclusion that the non-resident lessor has a permanent establishment in Australia, the non-resident lessor's activities in carrying on its enterprise do not occur in Australia and therefore the non-resident lessor does not carry on its enterprise through its substantial equipment permanent establishment in Australia. Accordingly, subsection 9-25(6) of the GST Act is not satisfied.
 Following on from this, paragraph 83-5(1)(b) of the GST Act is therefore satisfied. As the non-resident lessor does not carry on its leasing enterprise through its substantial equipment permanent establishment, the supply of the leased substantial equipment is not made through an enterprise the non-resident lessor carries on in Australia.
 
-
-
 Note 1
-                 - the non-resident lessor and the lessee will be entitled to enter a reverse charging agreement where all the other elements of subsection 83-5(1) of the GST Act are satisfied and subsection 83-5(2) of the GST Act does not apply.
+ - the non-resident lessor and the lessee will be entitled to enter a reverse charging agreement where all the other elements of subsection 83-5(1) of the GST Act are satisfied and subsection 83-5(2) of the GST Act does not apply.
 
 Note 2
-                 - the amount of the 'reverse charge' is 10% of the price of the supply.
+ - the amount of the 'reverse charge' is 10% of the price of the supply.
 
 Date of decision:
-         25 June 2008
+  25 June 2008
 
 Legislative References:
 
@@ -99,29 +88,25 @@ Related ATO Interpretative Decisions
 Keywords
 
 Goods and services tax
-          GST international services
-          Reverse charge on supplies made by non-residents
-
+ GST international services
+ Reverse charge on supplies made by non-residents
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         4 July 2008
+  4 July 2008
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 25 June 2008

@@ -3,23 +3,19 @@ ATO ID 2003/1021
 ==================================================
 
 Income Tax
-        Classification of certain converting preference shares under Division 974 of the ITAA 1997
-        FOI status: may be released
-
-
+ Classification of certain converting preference shares under Division 974 of the ITAA 1997
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is a converting preference share which is issued on terms that it will convert to ordinary shares in the issuer if the issuer is listed on the Stock Exchange, or be bought back at a premium if the issuer is not so listed, an equity interest pursuant to Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes.  The converting preference share is an equity interest in terms of subsection 974-70(1) of Division 974 of the ITAA 1997.
+Yes. The converting preference share is an equity interest in terms of subsection 974-70(1) of Division 974 of the ITAA 1997.
 Facts
 A converting preference share is issued on terms that it will convert to ordinary shares in the issuer, if the issuer is listed on the Stock Exchange; or be bought back at a premium, if the issuer is not so listed.
 The payment of dividends is at the discretion of the directors and the dividends are non-cumulative.
@@ -31,8 +27,6 @@ The converting preference share is an interest in a company as a member or stock
 As a scheme cannot give rise to an equity interest if it is also classified as a debt interest (refer to paragraph 974-70(1)(b) of the ITAA 1997), it is necessary to determine, not only if the interest satisfies an item in the equity table, but also whether satisfies the test for a debt interest pursuant to subsection 974-20(1) of the ITAA 1997.
 (b) The test for a debt interest
 Subsection 974-20(1) of the ITAA 1997 provides the test for a debt interest. It lists various essential elements which must be met if a scheme is to satisfy the debt test. Those elements are that:
-
-
 
 • there must be a scheme (subsection 974-20(1))
 • the scheme must be a financing arrangement (paragraph 974-20(1)(a))
@@ -62,10 +56,10 @@ If the issuer's shares are listed, the issuer does not have an obligation to pro
 The issuer therefore does not have an effectively non-contingent obligation to buy back the converting preference share at a premium, that is, provide a financial benefit. Thus the scheme does not satisfy the debt test.
 The converting preference share is therefore an equity interest in terms of subsection 974-70(1) of Division 974 of the ITAA 1997.
 Date of decision:
-         5 November 2003
+  5 November 2003
 
 Year of income:
-           Year ended 30 June 2004
+  Year ended 30 June 2004
 
 Legislative References:
 
@@ -78,20 +72,19 @@ Related ATO Interpretative Decisions
 Keywords
 
 Conversion of securities
-          Debt test
-          Effectively non-contingent obligation
-          Equity test
-          Debt equity borderline
-
+ Debt test
+ Effectively non-contingent obligation
+ Equity test
+ Debt equity borderline
 
 Siebel/TDMS Reference Number:
-         3789776
+  3789776
 
 Business Line:
-         Finance and Investment Centre of Expertise
+  Finance and Investment Centre of Expertise
 
 Date of publication:
-         14 November 2003
+  14 November 2003
 
 ISSN:
-          1445-2782
+ 1445-2782

@@ -2,10 +2,10 @@
 act: "Australian Master GST Guide"
 part: "11"
 section: "sale-of-new-residential-premises"
-title: "Sale of “new” residential premises"
+title: "Sale of "new" residential premises"
 paragraph: "¶11-020"
 ---
-# Sale of “new” residential premises ¶11-020
+# Sale of "new" residential premises ¶11-020
 
 The sale of new residential premises is normally taxable (s 40-65). This means that GST may be payable if the vendor is registered. This will typically apply to builders and developers.
 
@@ -13,11 +13,11 @@ However, if the premises were used for residential accommodation before 2 Decemb
 
 Illustration: New residential premises used for residential accommodation before 2 December A developer sells a strata-titled unit in a block that had operated as a hotel in 1997. The use of the unit to provide accommodation in commercial residential premises before 2 December 1998 does not prevent the sale of the unit from being taxable.
 
-Special withholding rules for remitting GST on certain sales of newly constructed residential premises or new subdivisions of potential residential land may apply ( ¶11-022). “New” residential premises The ATO’ view of the application of GST to new residential premises outlined in GST Ruling GSTR 2003/3, is based on the following categories. Residential premises that qualify as new under categories (2) or (3) cease to qualify as new once they are sold or supplied under a long-term lease as residential premises ie fail to satisfy category (1). (1) Residential premises that have not previously been sold as residential premises (¶11-010) (other than commercial residential premises), or have not previously been subject to a long-term lease (¶11-060):
+Special withholding rules for remitting GST on certain sales of newly constructed residential premises or new subdivisions of potential residential land may apply ( ¶11-022). "New" residential premises The ATO' view of the application of GST to new residential premises outlined in GST Ruling GSTR 2003/3, is based on the following categories. Residential premises that qualify as new under categories (2) or (3) cease to qualify as new once they are sold or supplied under a long-term lease as residential premises ie fail to satisfy category (1). (1) Residential premises that have not previously been sold as residential premises (¶11-010) (other than commercial residential premises), or have not previously been subject to a long-term lease (¶11-060):
 
 - if land with a building that has previously been sold as residential premises is subdivided, so that
 
-  those premises now occupy a smaller block, does not make those premises “new”. Vacant land is not
+  those premises now occupy a smaller block, does not make those premises "new". Vacant land is not
 
   residential premises (¶11-010) and accordingly the new vacant block created by the subdivision may be
 
@@ -43,7 +43,7 @@ Special withholding rules for remitting GST on certain sales of newly constructe
 
 The sale of a new strata-titled accommodation suite in a newly constructed hotel to a purchaser who then licenses it back to the vendor under a registered managed investment scheme was considered to be a taxable supply of new residential premises (Interpretative Decision ID 2008/37).
 
-The granting of a 99-year lease over newly constructed premises would mean that they are no longer new (Interpretative Decision ID 2014/19), although special provisions may apply in certain circumstances: see “Subdivisions, strata titles and development leases” below, or (2) Residential premises that that have been created by “substantial” renovations ie involving the removal or replacement of all, or substantially all, of a building. This can apply even though the renovations do not involve removal or replacement of foundations, external or internal supporting walls, floors, roof or staircases (s 195-1). The ATO holds the following view of substantial renovations (GSTR 2003/3 para 53):
+The granting of a 99-year lease over newly constructed premises would mean that they are no longer new (Interpretative Decision ID 2014/19), although special provisions may apply in certain circumstances: see "Subdivisions, strata titles and development leases" below, or (2) Residential premises that that have been created by "substantial" renovations ie involving the removal or replacement of all, or substantially all, of a building. This can apply even though the renovations do not involve removal or replacement of foundations, external or internal supporting walls, floors, roof or staircases (s 195-1). The ATO holds the following view of substantial renovations (GSTR 2003/3 para 53):
 
 - the renovations need to affect the building as a whole, although an individual strata unit or apartment
 
@@ -63,9 +63,9 @@ The granting of a 99-year lease over newly constructed premises would mean that 
 
 - renovations must have been carried out by the current owner, or
 
-(3) Residential premises that have been built to replace demolished premises on the same land, or which contain a building that has been built for that purpose (s 40-75). The Commissioner considers that premises may be “demolished” even though some of the foundations are retained.
+(3) Residential premises that have been built to replace demolished premises on the same land, or which contain a building that has been built for that purpose (s 40-75). The Commissioner considers that premises may be "demolished" even though some of the foundations are retained.
 
-Illustration: New residential premises cannot be subject of long-term lease As a result of substantial renovations to premises that had been previously sold as residential premises, the renovated premises will qualify as “new” under category (2). However, once the renovated premises themselves are subsequently subject to a long-term lease or sold as residential premises, they cannot be treated as “new” as they fail to satisfy category (1). “New” residential premises do not include residential premises that have been used solely for rental purposes for a continuous period of at least five years since they were built, substantially renovated or replaced (ie since becoming new). The Commissioner accepts that this five-year period may include short periods between tenancies, but not periods when the premises are used for a private purpose or left vacant with no attempt to rent (GST Ruling GSTR 2003/3), and may commence at any time after the premises become "new" (GSTR 2003/3DC para 91). A home unit developer was considered to have failed this 5-year test where it marketed a unit for sale before that period had expired (Domestic Property Developments Pty Ltd a/t for Dals Property Trust v FC of T 2022 ATC ¶10-661).
+Illustration: New residential premises cannot be subject of long-term lease As a result of substantial renovations to premises that had been previously sold as residential premises, the renovated premises will qualify as "new" under category (2). However, once the renovated premises themselves are subsequently subject to a long-term lease or sold as residential premises, they cannot be treated as "new" as they fail to satisfy category (1). "New" residential premises do not include residential premises that have been used solely for rental purposes for a continuous period of at least five years since they were built, substantially renovated or replaced (ie since becoming new). The Commissioner accepts that this five-year period may include short periods between tenancies, but not periods when the premises are used for a private purpose or left vacant with no attempt to rent (GST Ruling GSTR 2003/3), and may commence at any time after the premises become "new" (GSTR 2003/3DC para 91). A home unit developer was considered to have failed this 5-year test where it marketed a unit for sale before that period had expired (Domestic Property Developments Pty Ltd a/t for Dals Property Trust v FC of T 2022 ATC ¶10-661).
 
 Illustrations: New residential premises A developer builds and sells new homes. These are sales of new residential premises and subject to GST (but see ¶11-100).
 
@@ -85,11 +85,11 @@ As part of its development business, a property developer demolishes and removes
 
 Subdivisions, strata titles and development leases Special provisions apply to subdivisions and development leases when determining whether premises are new.
 
-Where premises are created under a property subdivision plan of existing residential premises that are not new, this does not by itself result in the subdivided premises becoming new premises (s 40-75(2AA)). “Property subdivision plans” include strata title plans or plans to subdivide land (s 195-1). This provision confirms the Commissioner’s previous practice and was inserted to overcome doubts arising as a result of the Federal Court decision in FC of T v Gloxinia Investments Ltd 2010 ATC ¶20-182. It does not prevent the subdivided premises from being treated as new if they themselves are then substantially renovated, or are demolished and rebuilt.
+Where premises are created under a property subdivision plan of existing residential premises that are not new, this does not by itself result in the subdivided premises becoming new premises (s 40-75(2AA)). "Property subdivision plans" include strata title plans or plans to subdivide land (s 195-1). This provision confirms the Commissioner's previous practice and was inserted to overcome doubts arising as a result of the Federal Court decision in FC of T v Gloxinia Investments Ltd 2010 ATC ¶20-182. It does not prevent the subdivided premises from being treated as new if they themselves are then substantially renovated, or are demolished and rebuilt.
 
 Where there is a grant of strata-lot leases in relation to newly constructed residential premises on the registration of a property subdivision plan, this does not of itself mean that those premises cease to be new (s 40-75(2C)). In effect, the grant is disregarded. This provision particularly relates to jurisdictions where land tenure is by way of long-term leasehold, eg the ACT.
 
-Certain sales of newly constructed residential premises by a developer to home buyers and investors are taxable supplies of new residential premises, even though there may have been an earlier “wholesale supply” of the premises (s 40-75(2B)). The effect is that the earlier supply is disregarded if the residential premises have been constructed pursuant to an arrangement between a developer or builder, and a land holder, under which the developer or builder (or an associate) becomes entitled to the freehold or long-term leasehold title in the premises conditional on specified building or renovation work being undertaken.
+Certain sales of newly constructed residential premises by a developer to home buyers and investors are taxable supplies of new residential premises, even though there may have been an earlier "wholesale supply" of the premises (s 40-75(2B)). The effect is that the earlier supply is disregarded if the residential premises have been constructed pursuant to an arrangement between a developer or builder, and a land holder, under which the developer or builder (or an associate) becomes entitled to the freehold or long-term leasehold title in the premises conditional on specified building or renovation work being undertaken.
 
 For the general treatment of development leases, see ¶11-062.
 

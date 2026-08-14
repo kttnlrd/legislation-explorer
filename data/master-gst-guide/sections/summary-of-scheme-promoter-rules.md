@@ -57,13 +57,13 @@ Consultations on additional changes
 
 - whether the existing tax promoter penalty law framework adequately addresses new emerging threats
 
-  and whether the laws should be expanded to capture lower-level promoter behaviour (“Review of tax
+  and whether the laws should be expanded to capture lower-level promoter behaviour ("Review of tax
 
-  promoter penalty laws”, Treasury website, 4 October 2024).
+  promoter penalty laws", Treasury website, 4 October 2024).
 
 - review of emerging fraud and threats to clamp down on systemic abuse of the tax system perpetrated
 
-  by tax agents and other “bad actors”
+  by tax agents and other "bad actors"
 
 - review of the use of legal professional privilege (¶18-140) in Commonwealth investigations, with
 

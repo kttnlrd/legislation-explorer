@@ -3,26 +3,21 @@ ATO ID 2012/67
 ==================================================
 
 Income Tax
-        Singaporean resident company receiving Australian sourced royalties
-        FOI status: may be released
-
+ Singaporean resident company receiving Australian sourced royalties
+ FOI status: may be released
 
 This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Are royalty payments from Australian resident companies to a Singaporean resident company for the use of, or the right to use, copyright in respect of literary works included in assessable income under subsection 6-5(3) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes.  Royalty payments from Australian resident companies to a Singaporean resident company for the use of, or the right to use, copyright in respect of literary works are included in assessable income under subsection 6-5(3) of the ITAA 1997.
+Yes. Royalty payments from Australian resident companies to a Singaporean resident company for the use of, or the right to use, copyright in respect of literary works are included in assessable income under subsection 6-5(3) of the ITAA 1997.
 Facts
 The taxpayer is a Singaporean resident company and is not a resident of Australia for income tax purposes.
 The taxpayer carries on an information technology business in Singapore and does not carry on a business in Australia at or through a permanent establishment in Australia.
@@ -42,11 +37,7 @@ However, Article 10.3 of the Singaporean agreement relevantly provides that:
 
 In this Article "royalties" means payments or credits, whether periodical or not, and however described or computed, to the extent to which they are received as consideration for-
 
-
-
 (a)the use of, or the right to use, any-
-
-
 
 (i)copyright (other than a literary, dramatic, musical or artistic copyright), ...
 ...
@@ -62,16 +53,13 @@ Under Australia's taxation legislation, neither the term 'literary copyright', n
 Although the Copyright Act does not refer to 'literary copyright' as such, it does provide for copyright in certain 'literary, dramatic, musical or artistic' works. This corresponds with the phrase 'literary, dramatic, musical or artistic copyright' in Article 10.3(a)(i) of the Singaporean agreement. Therefore, it is considered that 'literary copyright' in Article 10.3(a)(i) of the Singaporean agreement is a reference to copyright that subsists in 'literary work' under the Copyright Act.
 As the royalty payments in the present case are for the use of, or the right to use, copyright in literary works, they are excluded from the definition of 'royalties' in Article 10 of the Singaporean agreement. Therefore, the Royalties Article does not apply to the payments.
 Furthermore, the Business Profits Article contained in Article 5 of the Singaporean agreement does not apply because the payments are excluded from the definition of 'profits of a Singapore enterprise' by Article 2.1(k)(i) and/or Article 2.1(k)(v).
-Article 16A of the Singaporean agreement provides that items of income 'which are not expressly mentioned in the foregoing Articles of this Agreement shall be taxable according to the laws of the respective Contracting States relating to tax'. The Explanatory Memorandum to the Income Tax (International Agreements) Amendment Bill (No. 2) 1989 that gave force of law to the protocol amending the Singaporean agreement ([1990] ATS 3),  which inserted Article 16A into the Singaporean agreement, describes the article as a 'sweep-up' applying to 'income not expressly covered'.
+Article 16A of the Singaporean agreement provides that items of income 'which are not expressly mentioned in the foregoing Articles of this Agreement shall be taxable according to the laws of the respective Contracting States relating to tax'. The Explanatory Memorandum to the Income Tax (International Agreements) Amendment Bill (No. 2) 1989 that gave force of law to the protocol amending the Singaporean agreement ([1990] ATS 3), which inserted Article 16A into the Singaporean agreement, describes the article as a 'sweep-up' applying to 'income not expressly covered'.
 As the royalty payments are excluded from the operation of Article 5 of the Singaporean agreement and Article 10, and are not otherwise covered by the foregoing Articles, Article 16A provides that the income is taxable in Australia in accordance with Australian law relating to tax.
 Accordingly, the royalties received by the taxpayer are included in assessable income under subsection 6-5(3) of the ITAA 1997 because they are ordinary income from an Australian source.
-
 
 Note:
 
 Subsection 17A(5) of the Agreements Act provides that section 128B of the ITAA 1936 does not apply to the payment of a royalty as defined in subsection 6(1) of that Act if:
-
-
 
 (a)the royalty is paid to a person who is a resident of a Contracting State or territory (other than Australia) for the purposes of an agreement; and
 (b)the agreement does not treat the amount paid as a royalty.
@@ -100,10 +88,10 @@ Applied ATO standards for citations and references
 Clearer explanation
 
 Date of decision:
-         30 June 2012
+  30 June 2012
 
 Year of income:
-           Year ended 30 June 2012
+  Year ended 30 June 2012
 
 Legislative References:
 
@@ -112,9 +100,7 @@ Income Tax Assessment Act 1997   section 6-5   subsection 6-5(3)
 International Tax Agreements Act 1953   subsection 4(1)   section 7   subsection 17A(5)
 Copyright Act 1968   The Act
 
-
 Case References:
-
 
 Attorney-General (NSW) v. Brewery Employees Union of New South Wales   (1908) 6 CLR 469
 
@@ -126,56 +112,51 @@ Other References:
 
  Singaporean agreement [1969] ATS 14
  Article 2.1(k)(i)
-           Singaporean agreement [1969] ATS 14 Article 2.1(k)(v)
-           Singaporean agreement [1969] ATS 14 Article 2.4
-           Singaporean agreement [1969] ATS 14 Article 5
-           Singaporean agreement [1969] ATS 14 Article 10
-           Singaporean agreement [1969] ATS 14 Article 10.1
-           Singaporean agreement [1969] ATS 14 Article 10.3
-           Singaporean agreement [1969] ATS 14 Article 10.3(a)(i)
-           Singaporean protocol (No. 1) [1990] ATS 3
-           Article 13 (inserting Article 16A)
-           Explanatory Memorandum to the Income Tax (International Agreements) Amendment Bill (No. 2) 1989
-
+ Singaporean agreement [1969] ATS 14 Article 2.1(k)(v)
+ Singaporean agreement [1969] ATS 14 Article 2.4
+ Singaporean agreement [1969] ATS 14 Article 5
+ Singaporean agreement [1969] ATS 14 Article 10
+ Singaporean agreement [1969] ATS 14 Article 10.1
+ Singaporean agreement [1969] ATS 14 Article 10.3
+ Singaporean agreement [1969] ATS 14 Article 10.3(a)(i)
+ Singaporean protocol (No. 1) [1990] ATS 3
+ Article 13 (inserting Article 16A)
+ Explanatory Memorandum to the Income Tax (International Agreements) Amendment Bill (No. 2) 1989
 
 Keywords
 
 Copyright
-          Double tax agreements
-          International tax
-          Royalties
-          Royalty article
-          Royalty income
-          Singapore
-          Singaporean agreement
-          Treaties
-
+ Double tax agreements
+ International tax
+ Royalties
+ Royalty article
+ Royalty income
+ Singapore
+ Singaporean agreement
+ Treaties
 
 Siebel/TDMS Reference Number:
-         1-3XGINO2, 1-A7WDYIW, 1-IPW70B4
+  1-3XGINO2, 1-A7WDYIW, 1-IPW70B4
 
 Business Line:
-         Private Wealth
+  Private Wealth
 
 Date of publication:
-         3 August 2012
+  3 August 2012
 
 Date reviewed:
-         2 August 2019
+  2 August 2019
 
 ISSN:
-          1445-2782
+ 1445-2782
 
  history
-
 
  
 
 Date:
 
-
 Version:
-
 
  
 30 June 2012

@@ -3,21 +3,16 @@ ATO ID 2002/629
 ==================================================
 
 Income Tax
-        CGT - small business concessions - active asset - just before the CGT event
-        FOI status: may be released
-
+ CGT - small business concessions - active asset - just before the CGT event
+ FOI status: may be released
 
 This ATOID has been amended by replacing in the Status of Decision field "Decision current" with "Decision current for CGT events in the 2005-06 income year and earlier income years.", and adding the note to the Reasons for Decision.
 
-
-
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Was the taxpayer's farm an active asset 'just before the CGT event', as required by paragraph 152-35(a) of the Income Tax Assessment Act 1997 (ITAA 1997)?
@@ -37,14 +32,13 @@ One of the requirements of the active asset test in paragraph 152-35(a) of the I
 To satisfy the definition of active asset in section 152-40 of the ITAA 1997 the asset must be used or held ready for use in the course of carrying on a business. Even though the farm was not used in the course of carrying on the taxpayer's business for a certain period of time, their intention and activities of continually improving the farm in preparation for the stock's return clearly indicate that the farm was held ready for use during that period. There was never a cessation of business in this case or an intention to abandon the business due to the taxpayer's or stock's health conditions.
 Although the taxpayer had formed an intention to carry on the business on another property if the farm could be sold, it is accepted that just before the time the contract for sale was made that the farm was held ready for use in the taxpayer's business. Consequently, the requirement in paragraph 152-35(a) of the ITAA 1997 has been satisfied in this case.
 
-
 Note:This note has been added to explain that since the date of publication legislative changes have been made to section 152-35 of the ITAA 1997. For CGT events happening in the 2006-07 income year and later income years the asset does not need to be an active asset just before the CGT event.
 
 Date of decision:
-         17 April 2002
+  17 April 2002
 
 Year of income:
-           Year ended 30 June 2000
+  Year ended 30 June 2000
 
 Legislative References:
 
@@ -53,20 +47,19 @@ Income Tax Assessment Act 1997   Paragraph 152-35(a)   Section 152-40
 Keywords
 
 Capital gains tax
-          Active Asset test
-
+ Active Asset test
 
 Siebel/TDMS Reference Number:
-         DW411691; 1-AGDBCVT
+  DW411691; 1-AGDBCVT
 
 Business Line:
-         Private Groups and High Wealth Individuals
+  Private Groups and High Wealth Individuals
 
 Date of publication:
-         31 May 2002
+  31 May 2002
 
 Date reviewed:
-         20 December 2016
+  20 December 2016
 
 ISSN:
-          1445-2782
+ 1445-2782

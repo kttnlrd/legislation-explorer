@@ -1,7 +1,7 @@
 ---
 act: "TAA 1953"
 part: "IIB"
-part_title: "Running balance accounts, application"
+part_title: "Running balance accounts, application of payments and credits, and related matters"
 division: "3A"
 division_title: "Refunds of RBA surpluses and credits"
 subdivision: ""
@@ -30,7 +30,7 @@ Commissioner may retain an amount
 > > **(i)**  the entity, or the entity and some other entity; or
 
 > > <a id="s8AAZLGC-1-b-ii"></a>
-> > **(ii)**  the entity’s registered tax agent or BAS agent; or
+> > **(ii)**  the entity's registered tax agent or BAS agent; or
 
 > > <a id="s8AAZLGC-1-b-iii"></a>
 > > **(iii)**  a legal practitioner as trustee or executor for the entity.
@@ -44,7 +44,7 @@ Commissioner may retain an amount
 > <a id="s8AAZLGC-2-b"></a>
 > **(b)**  any of the petroleum resource rent tax provisions (as defined in that subsection); have been allocated to that RBA.
 
-> **Note:** For refunds covered by this subsection, see instead section 8AAZLH. Authorised Version C2026C00170 registered 28/04/2026 Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLH Informing the entity of the retention of the amount
+> **Note:** For refunds covered by this subsection, see instead section 8AAZLH. Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLH Informing the entity of the retention of the amount
 
 <a id="s8AAZLGC-3"></a>
 **(3)**  The Commissioner must inform the entity (by serving a document on the entity or by other means) that the Commissioner has retained the amount under this section.

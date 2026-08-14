@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 - (a) section GB 31 (FBT arrangements: general):
 
-- (b) section GB 32 (Benefits provided to employee’s associates).
+- (b) section GB 32 (Benefits provided to employee's associates).
 
 *Defined in this Act: arrangement, associated person, employee, employer, employment, FBT rules, fringe benefit, unclassified benefit*
 

@@ -3,18 +3,14 @@ ATO ID 2001/508
 ==================================================
 
 Goods and Services Tax
-        GST and supply of hip prostheses to a hospital
-        FOI status: may be released
-
-
+ GST and supply of hip prostheses to a hospital
+ FOI status: may be released
 
 CAUTION:
-                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+ This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
 This ATOID provides you with the following level of protection:
 
-          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-
+ If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
 
 Issue
 Is the entity, a supplier of health goods, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a hip prosthesis to a hospital?
@@ -26,8 +22,6 @@ The entity is registered for goods and services tax (GST). The supply satisfies 
 Reasons for Decision
 Under subsection 38-45(1) of the GST Act, the supply of a medical aid or appliance is GST-free where the medical aid or appliance:
 
-
-
 • is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
 • is specifically designed for people with an illness or disability; and
 • is not widely used by people without an illness or disability.
@@ -36,7 +30,6 @@ The only listed item of relevance to this case is item 83 in the table in Schedu
 The phrase 'artificial limbs and associated supplements and aids' is not defined in the GST Act. Generally, where a word or phrase is not defined, it is usually interpreted in accordance with its ordinary meaning unless it has a special or technical meaning. Where a word or phrase has a special or technical meaning, it is necessary to determine the meaning by reference to the industry to which that word or phrase relates (Herbert Adams Pty Ltd v FCT (1932) 47 CLR 222).
 After consultation with the Health Industry, it is considered that an artificial limb includes an artificial arm or leg but excludes surgically implanted prostheses (for example, artificial hips and knees). Therefore, the hip prosthesis is not covered by Item 83. As there are no other items in Schedule 3 which cover the supply of the hip prosthesis, it is not GST-free under subsection 38-45(1) of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it sells a hip prosthesis to a hospital.
-
 
 [Note 1: Prior to 31 October 2005, the supply of a hip prostheses to a patient in the course of supplying a GST-free medical service is GST-free where the requirements of subsection 38-7(3) are met.
 
@@ -57,7 +50,7 @@ November 2005
 add 'Prior to 31 October' into Note 1 and to add Note 2 as a result of an amendment to the definition of 'hospital treatment' in subsection 67(4) of the National Health Act 1953, which applies to section 38-20 of the GST Act. The amendment came into effect on 31 October 2005.
 
 Date of decision:
-         31 August 2001
+  31 August 2001
 
 Legislative References:
 
@@ -66,32 +59,29 @@ A New Tax System (Goods and Services Tax) Regulations 2019   The Regulations
 
 Case References:
 
-
 Herbert Adams Pty Ltd v FCT   (1932) 47 CLR 222
 
 Other References:
 
 Pharmaceutical Product Classification Issues Log
 
-
 Keywords
 
 Goods and services tax
-          GST free
-          GST health
-          Section 38-45 - medial aids & appliances
-          GST supplies and acquisitions
-          Taxable supply
-
+ GST free
+ GST health
+ Section 38-45 - medial aids & appliances
+ GST supplies and acquisitions
+ Taxable supply
 
 Siebel/TDMS Reference Number:
-         CW228261
+  CW228261
 
 Business Line:
-         Indirect Tax
+  Indirect Tax
 
 Date of publication:
-         22 October 2001
+  22 October 2001
 
 ISSN:
-          1445-2782
+ 1445-2782
