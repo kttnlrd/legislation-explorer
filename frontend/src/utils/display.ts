@@ -15,6 +15,7 @@ const ACT_SHORT: Record<string, string> = {
   'aml-ctf-2006': 'AML/CTF Act',
   'aml-ctf-rules-2007': 'AML/CTF Rules',
   'insolvency-keays': 'Keays Insolvency',
+  'spec': 'Display Spec',
   'treaties': 'Tax Treaties',
   'argentina': 'Argentina',
   'austria': 'Austria',

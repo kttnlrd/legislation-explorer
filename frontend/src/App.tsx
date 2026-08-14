@@ -43,6 +43,7 @@ const DOMAINS: { label: string; ids: string[] }[] = [
   { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
   { label: 'Corporate Insolvency', ids: ['insolvency-keays'] },
   { label: 'AML/CTF', ids: ['aml-ctf-2006', 'aml-ctf-rules-2007'] },
+  { label: 'System', ids: ['spec'] },
 ]
 
 // ---------------------------------------------------------------------------

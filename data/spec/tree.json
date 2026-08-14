@@ -1,0 +1,161 @@
+{
+  "act": "Display Spec",
+  "parts": [
+    {
+      "id": "0",
+      "title": "Global conventions (apply to all types)",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "0",
+          "title": "Global conventions (apply to all types)",
+          "path": "global-conventions.md"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Primary Legislation Sections",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "1",
+          "title": "Primary Legislation Sections",
+          "path": "primary-legislation-sections.md"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Double Tax Agreements",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "2",
+          "title": "Double Tax Agreements",
+          "path": "double-tax-agreements.md"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "ATO Rulings (incl. ATO IDs)",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "3",
+          "title": "ATO Rulings (incl. ATO IDs)",
+          "path": "ato-rulings.md"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Tax Cases",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "4",
+          "title": "Tax Cases",
+          "path": "tax-cases.md"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Regulatory Guides (ASIC RGs)",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "5",
+          "title": "Regulatory Guides (ASIC RGs)",
+          "path": "regulatory-guides.md"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Commentary",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "6",
+          "title": "Commentary",
+          "path": "commentary.md"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Insolvency (Keays Textbook)",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "7",
+          "title": "Insolvency (Keays Textbook)",
+          "path": "insolvency.md"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Definitions Index",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "8",
+          "title": "Definitions Index",
+          "path": "definitions-index.md"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Smartlinks / Cross-References",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "9",
+          "title": "Smartlinks / Cross-References",
+          "path": "smartlinks-cross-references.md"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Search",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "10",
+          "title": "Search",
+          "path": "search.md"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Feature panels (cross-type)",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "11",
+          "title": "Feature panels (cross-type)",
+          "path": "feature-panels.md"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Known deviations from spec (open bugs)",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "12",
+          "title": "Known deviations from spec (open bugs)",
+          "path": "known-deviations-from-spec.md"
+        }
+      ]
+    }
+  ]
+}
