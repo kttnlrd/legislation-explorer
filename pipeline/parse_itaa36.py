@@ -177,7 +177,8 @@ def classify_body_line(line: str) -> tuple[str, dict]:
 # ---------------------------------------------------------------------------
 
 def _wide_gaps(line: str) -> list[tuple[int, int]]:
-    """Return (start, end) spans of 3+ consecutive spaces, excluding trailing runs."""
+    """Return (start, end) spans of 3+ consecutive spaces, excluding
+    leading whitespace (page-layout indentation) and trailing runs."""
     gaps: list[tuple[int, int]] = []
     start = None
     for i, ch in enumerate(line):
@@ -186,7 +187,7 @@ def _wide_gaps(line: str) -> list[tuple[int, int]]:
                 start = i
         else:
             if start is not None:
-                if i - start >= 3:
+                if start > 0 and i - start >= 3:
                     gaps.append((start, i))
                 start = None
     return gaps
@@ -202,13 +203,23 @@ def _split_cells(line: str, bounds: list[int]) -> list[str]:
 
 
 def _looks_like_table_header(line: str) -> bool:
-    """A table header row has >=2 wide gaps and >=3 non-empty cells."""
+    """A table header row has >=2 wide gaps and >=3 non-empty cells,
+    or (2-col) exactly 1 wide gap, 2 non-empty cells matching known headers."""
     gaps = _wide_gaps(line)
-    if len(gaps) < 2:
+    if len(gaps) < 1:
         return False
     bounds = [0] + [g[1] for g in gaps]
     cells = _split_cells(line, bounds)
-    return sum(1 for c in cells if c) >= 3
+    n_cells = sum(1 for c in cells if c)
+    if len(gaps) >= 2 and n_cells >= 3:
+        return True
+    # 2-column table detection: known header patterns
+    if len(gaps) == 1 and n_cells == 2:
+        c0 = cells[0].lower().rstrip(':')
+        c1 = cells[1].lower()
+        if c0 in ('item',) and c1.startswith('this term'):
+            return True
+    return False
 
 
 def _render_table(lines: list[str], header_idx: int) -> tuple[str, int]:
@@ -260,13 +271,27 @@ def _render_table(lines: list[str], header_idx: int) -> tuple[str, int]:
             RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE,
         )):
             break
-        cells = _split_cells(line, bounds)
-        if cells and cells[0]:
-            rows.append(cells)
-        elif rows:
-            for k in range(len(cells)):
-                if cells[k]:
-                    rows[-1][k] = (rows[-1][k] + " " + cells[k]).strip()
+        if ncols == 2:
+            # 2-column tables: split each row on its own internal gap
+            # (right-aligned single-digit numbers shift column positions).
+            s = line.lstrip()
+            rgaps = _wide_gaps(s)
+            if not rgaps:
+                break  # page noise (divider, footnote) — end this table half
+            g = rgaps[0]
+            cells = [s[:g[0]].strip(), s[g[1]:].strip()]
+            if cells[0]:
+                rows.append(cells)
+            elif rows and cells[1]:
+                rows[-1][1] = (rows[-1][1] + " " + cells[1]).strip()
+        else:
+            cells = _split_cells(line, bounds)
+            if cells and cells[0]:
+                rows.append(cells)
+            elif rows:
+                for k in range(len(cells)):
+                    if cells[k]:
+                        rows[-1][k] = (rows[-1][k] + " " + cells[k]).strip()
         j += 1
 
     def esc(s: str) -> str:
