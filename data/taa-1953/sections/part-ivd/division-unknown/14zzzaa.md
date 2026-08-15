@@ -24,7 +24,7 @@ In sections 14ZZY and 14ZZZ, detriment includes (without limitation) any of the 
 > **(b)**  injury of an employee in his or her employment;
 
 > <a id="s14ZZZAA-c"></a>
-> **(c)**  alteration of an employee's position or duties to his or her disadvantage;
+> **(c)**  alteration of an employee’s position or duties to his or her disadvantage;
 
 > <a id="s14ZZZAA-d"></a>
 > **(d)**  discrimination between an employee and other employees of the same employer;
@@ -36,13 +36,13 @@ In sections 14ZZY and 14ZZZ, detriment includes (without limitation) any of the 
 > **(f)**  harm or injury to a person, including psychological harm;
 
 > <a id="s14ZZZAA-g"></a>
-> **(g)**  damage to a person's property;
+> **(g)**  damage to a person’s property;
 
 > <a id="s14ZZZAA-h"></a>
-> **(h)**  damage to a person's reputation;
+> **(h)**  damage to a person’s reputation;
 
 > > <a id="s14ZZZAA-i"></a>
-> > **(i)**  damage to a person's business or financial position;
+> > **(i)**  damage to a person’s business or financial position;
 
 > <a id="s14ZZZAA-j"></a>
 > **(j)**  any other damage to a person.

@@ -17,7 +17,7 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s8AAZJ-1"></a>
-**(1)**  In proceedings for recovery of an RBA deficit debt, a Commissioner's certificate stating any of the following matters in respect of a specified RBA is prima facie evidence of those matters:
+**(1)**  In proceedings for recovery of an RBA deficit debt, a Commissioner’s certificate stating any of the following matters in respect of a specified RBA is prima facie evidence of those matters:
 
 > <a id="s8AAZJ-1-a"></a>
 > **(a)**  that no tax debts (other than general interest charge on the RBA deficit debt) were allocated to the RBA after the balance date shown on a specified RBA statement for the RBA;
@@ -32,7 +32,7 @@ source_pdf: "vol01.pdf"
 > **(d)**  that a specified amount was the RBA deficit debt on the date of the certificate.
 
 <a id="s8AAZJ-2"></a>
-**(2)**  In this section: Commissioner's certificate means a certificate signed by the Commissioner or a delegate of the Commissioner, or by a Second Commissioner or Deputy Commissioner. matters
+**(2)**  In this section: Commissioner’s certificate means a certificate signed by the Commissioner or a delegate of the Commissioner, or by a Second Commissioner or Deputy Commissioner. matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

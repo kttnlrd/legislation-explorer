@@ -20,13 +20,13 @@ source_pdf: "vol01.pdf"
 **(1)**  A person must not:
 
 > <a id="s8WB-1-a"></a>
-> **(a)**  record another person's tax file number or maintain such a record; or
+> **(a)**  record another person’s tax file number or maintain such a record; or
 
 > <a id="s8WB-1-b"></a>
-> **(b)**  use another person's tax file number in a manner connecting it with the other person's identity; or
+> **(b)**  use another person’s tax file number in a manner connecting it with the other person’s identity; or
 
 > <a id="s8WB-1-c"></a>
-> **(c)**  divulge or communicate another person's tax file number to a third person. Penalty: 100 penalty units or imprisonment for 2 years, or both.
+> **(c)**  divulge or communicate another person’s tax file number to a third person. Penalty: 100 penalty units or imprisonment for 2 years, or both.
 
 <a id="s8WB-1A"></a>
 **(1A)**  Subsection (1) does not apply:
@@ -41,7 +41,7 @@ source_pdf: "vol01.pdf"
 > **(ba)**  in connection with the first-mentioned person exercising powers or performing functions of a registrar specified in subsection 355-67(2) in Schedule 1; or
 
 > <a id="s8WB-1A-c"></a>
-> **(c)**  in connection with the first-mentioned person acting on the other person's behalf in the conduct of the other person's affairs.
+> **(c)**  in connection with the first-mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.
 
 > **Note:** A defendant bears an evidential burden in relation to the matters in subsection (1A), see subsection 13.3(3) of the Criminal Code.
 

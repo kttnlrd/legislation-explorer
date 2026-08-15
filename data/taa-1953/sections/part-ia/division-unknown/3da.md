@@ -26,7 +26,7 @@ source_pdf: "vol01.pdf"
 > **(b)**  the names of each other entity that, at that time, was a member of the country by country reporting group;
 
 > <a id="s3DA-1-c"></a>
-> **(c)**  a description of the country by country reporting group's approach to tax;
+> **(c)**  a description of the country by country reporting group’s approach to tax;
 
 > <a id="s3DA-1-d"></a>
 > **(d)**  the matters listed in subsection (3) of this section for the reporting period in respect of each of the following jurisdictions:
@@ -41,7 +41,7 @@ source_pdf: "vol01.pdf"
 > **(e)**  in respect of the jurisdictions in which the country by country reporting group operates that are not mentioned in paragraph (d) of this subsection:
 
 > > <a id="s3DA-1-e-i"></a>
-> > **(i)**  a description of the country by country reporting group's main business activities for the reporting period in the area consisting of those jurisdictions;
+> > **(i)**  a description of the country by country reporting group’s main business activities for the reporting period in the area consisting of those jurisdictions;
 
 > > <a id="s3DA-1-e-ii"></a>
 > > **(ii)**  for each matter listed in subsection (5), the amounts for the reporting period for that matter in respect of each jurisdiction in the area, published as a sum of those amounts for that matter;
@@ -137,7 +137,7 @@ source_pdf: "vol01.pdf"
 **(7)**  For the purposes of determining the effect that paragraph (1)(c), subsections (3) and (5) and any regulations made for the purposes of paragraph (1)(f) have in relation to an entity, identify information mentioned in those provisions:
 
 > <a id="s3DA-7-a"></a>
-> **(a)**  so as best to achieve consistency with Disclosures 207-1 and 207-4 of GRI 207:Tax 2019 of the Global Reporting Initiative's Sustainability Reporting Standards; and
+> **(a)**  so as best to achieve consistency with Disclosures 207-1 and 207-4 of GRI 207:Tax 2019 of the Global Reporting Initiative’s Sustainability Reporting Standards; and
 
 > <a id="s3DA-7-b"></a>
 > **(b)**  having regard to the following documents, to the extent they are relevant:
@@ -151,9 +151,9 @@ source_pdf: "vol01.pdf"
 > > <a id="s3DA-7-b-iii"></a>
 > > **(iii)**  a document, or part of a document, prescribed by the regulations for the purposes of this subparagraph.
 
-> **Note:** The document in paragraph (a) could in 2024 be viewed on the Global Reporting Initiative's website (https://www.globalreporting.org).
+> **Note:** The document in paragraph (a) could in 2024 be viewed on the Global Reporting Initiative’s website (https://www.globalreporting.org).
 
-> **Note:** The documents in subparagraphs (b)(i) and (ii) could in 2024 be viewed on the Organisation for Economic Cooperation and Development's website (https://www.oecd.org).
+> **Note:** The documents in subparagraphs (b)(i) and (ii) could in 2024 be viewed on the Organisation for Economic Cooperation and Development’s website (https://www.oecd.org).
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

@@ -24,7 +24,7 @@ Actually causing detriment to another person
 > **(a)**  the first person engages in conduct; and
 
 > <a id="s14ZZY-1-b"></a>
-> **(b)**  the first person's conduct causes any detriment to another person (the second person); and
+> **(b)**  the first person’s conduct causes any detriment to another person (the second person); and
 
 > <a id="s14ZZY-1-c"></a>
 > **(c)**  when the first person engages in the conduct, the first person believes or suspects that the second person or any other person made, may have made, proposes to make or could make a disclosure that qualifies for protection under this Part; and

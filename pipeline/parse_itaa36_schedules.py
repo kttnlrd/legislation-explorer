@@ -158,6 +158,200 @@ def classify_body_line(line: str) -> tuple[str, dict]:
     return "continuation", {"text": line.strip()}
 
 
+# Table detection & rendering
+# ---------------------------------------------------------------------------
+
+def _wide_gaps(line: str) -> list[tuple[int, int]]:
+    """Return (start, end) spans of 3+ consecutive spaces, excluding trailing runs."""
+    gaps: list[tuple[int, int]] = []
+    start = None
+    for i, ch in enumerate(line):
+        if ch == " ":
+            if start is None:
+                start = i
+        else:
+            if start is not None:
+                if i - start >= 3:
+                    gaps.append((start, i))
+                start = None
+    return gaps
+
+
+def _split_cells(line: str, bounds: list[int]) -> list[str]:
+    """Split a line into cells at column boundaries, each stripped."""
+    cells = []
+    for j, b in enumerate(bounds):
+        end = bounds[j + 1] if j + 1 < len(bounds) else len(line)
+        cells.append(line[b:end].strip())
+    return cells
+
+
+def _looks_like_table_header(line: str) -> bool:
+    """A table header row has >=2 wide gaps and >=3 non-empty cells."""
+    gaps = _wide_gaps(line)
+    if len(gaps) < 2:
+        return False
+    bounds = [0] + [g[1] for g in gaps]
+    cells = _split_cells(line, bounds)
+    return sum(1 for c in cells if c) >= 3
+
+
+def _render_table(lines: list[str], header_idx: int) -> tuple[str, int]:
+    """Render a layout-aligned text table (starting at header_idx) as markdown.
+
+    Returns (markdown_string, index_just_after_table).
+    """
+    header_line = lines[header_idx]
+    gaps = _wide_gaps(header_line)
+    bounds = [0] + [g[1] for g in gaps]
+    ncols = len(bounds)
+
+    hdr = _split_cells(header_line, bounds)
+
+    # Two-line header: a single bare word directly above the header row
+    # (e.g. "Event" / "Number  In these circumstances:  ..."). Prepend it to col 0.
+    prefix = ""
+    if header_idx > 0:
+        above = lines[header_idx - 1].strip()
+        if above and not _wide_gaps(lines[header_idx - 1]) and len(above.split()) == 1:
+            prefix = above + " "
+    hdr[0] = prefix + hdr[0]
+
+    # Optional title line above (e.g. "Acquisition rules (no CGT event)")
+    title = ""
+    title_idx = header_idx - (2 if prefix else 1)
+    if title_idx >= 0:
+        # A heavily-indented line is a right-aligned header continuation, not a title.
+        t_line = lines[title_idx]
+        if len(t_line) - len(t_line.lstrip()) > 20:
+            title_idx -= 1
+        if title_idx >= 0:
+            t_line = lines[title_idx]
+            t = t_line.strip()
+            if t and not _wide_gaps(t_line):
+                if not any(p.match(t_line) for p in (
+                    RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE,
+                )):
+                    title = t
+
+    # Collect rows
+    rows: list[list[str]] = []
+    j = header_idx + 1
+    while j < len(lines):
+        line = lines[j]
+        if not line.strip():
+            break
+        if any(p.match(line) for p in (
+            RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE,
+        )):
+            break
+        cells = _split_cells(line, bounds)
+        if cells and cells[0]:
+            rows.append(cells)
+        elif rows:
+            for k in range(len(cells)):
+                if cells[k]:
+                    rows[-1][k] = (rows[-1][k] + " " + cells[k]).strip()
+        j += 1
+
+    def esc(s: str) -> str:
+        return s.replace("|", "\\|").replace("\n", " ").strip()
+
+    out: list[str] = []
+    if title:
+        out.append(f"**{title}**")
+        out.append("")
+    out.append("| " + " | ".join(esc(c) for c in hdr) + " |")
+    out.append("| " + " | ".join("---" for _ in range(ncols)) + " |")
+    for r in rows:
+        while len(r) < ncols:
+            r.append("")
+        out.append("| " + " | ".join(esc(c) for c in r) + " |")
+    return "\n".join(out), j
+
+
+def _table_start_at(lines: list[str], i: int) -> int | None:
+    """If a table starts at line i (title or header), return its header index, else None."""
+    if _looks_like_table_header(lines[i]):
+        return i
+    # Title line (optionally followed by a bare prefix word) then a header row.
+    for ahead in (1, 2):
+        hi = i + ahead
+        if hi >= len(lines):
+            break
+        if _looks_like_table_header(lines[hi]):
+            if all(lines[k].strip() and len(_wide_gaps(lines[k])) < 2 for k in range(i, hi)):
+                return hi
+    return None
+
+
+def _split_table_md(md: str) -> tuple[str | None, str, str, list[str]]:
+    """Split rendered table markdown into (title, header, separator, rows)."""
+    lines = md.split("\n")
+    title = None
+    idx = 0
+    if lines and lines[0].startswith("**") and not lines[0].startswith("|"):
+        title = lines[0]
+        idx = 1
+        if idx < len(lines) and lines[idx] == "":
+            idx += 1
+    header = lines[idx] if idx < len(lines) else ""
+    sep = lines[idx + 1] if idx + 1 < len(lines) else ""
+    rows = lines[idx + 2:]
+    return title, header, sep, rows
+
+
+def _concat_tables(md1: str, md2: str) -> str | None:
+    """Merge two tables with the same header; return None if not mergeable."""
+    t1, h1, s1, r1 = _split_table_md(md1)
+    t2, h2, s2, r2 = _split_table_md(md2)
+    if not h1 or h1 != h2:
+        return None
+    parts: list[str] = []
+    if t1:
+        parts.append(t1)
+        parts.append("")
+    parts.append(h1)
+    parts.append(s1)
+    parts.extend(r1)
+    parts.extend(r2)
+    return "\n".join(parts)
+
+
+def _segment_lines(lines: list[str]) -> list[tuple[str, str]]:
+    """Split section lines into ('line', line) and ('table', markdown) segments."""
+    segments: list[tuple[str, str]] = []
+    i = 0
+    n = len(lines)
+    while i < n:
+        if not lines[i].strip():
+            i += 1
+            continue
+        hi = _table_start_at(lines, i)
+        if hi is not None:
+            md, j = _render_table(lines, hi)
+            segments.append(("table", md))
+            i = j
+        else:
+            segments.append(("line", lines[i]))
+            i += 1
+
+    # Merge consecutive tables with identical headers (a single table split
+    # across page breaks, with the header repeated on each continuation page).
+    merged: list[tuple[str, str]] = []
+    for seg in segments:
+        if seg[0] == "table" and merged and merged[-1][0] == "table":
+            combined = _concat_tables(merged[-1][1], seg[1])
+            if combined is not None:
+                merged[-1] = ("table", combined)
+                continue
+        merged.append(seg)
+    return merged
+
+
+# ---------------------------------------------------------------------------
+
+
 def render_section_markdown(section: Section) -> str:
     ctx = section.context
     fm_lines = [
@@ -186,8 +380,16 @@ def render_section_markdown(section: Section) -> str:
     current_sub: str | None = None
     current_para: str | None = None
 
-    for raw_line in section.lines:
+    for seg_kind, seg_val in _segment_lines(section.lines):
+        if seg_kind == "table":
+            body.append("")
+            body.append(seg_val)
+            body.append("")
+            continue
+
+        raw_line = seg_val
         kind, data = classify_body_line(raw_line)
+
         if kind in ("blank", "noise"):
             continue
         if kind == "subsection":
@@ -392,6 +594,13 @@ def parse_schedule_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_
         # Section
         if m := RE_SECTION.match(line):
             if is_page_footer(line):
+                i += 1
+                continue
+            # Guard: real section headers don't have column separators.
+            # Table/grid rows with layout gaps match RE_SECTION but aren't headers.
+            if "   " in line.rstrip() or m.group(2).strip().endswith(":"):
+                if current is not None:
+                    current.lines.append(line)
                 i += 1
                 continue
             if current:

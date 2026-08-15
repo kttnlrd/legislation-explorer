@@ -62,13 +62,13 @@ source_pdf: "vol01.pdf"
 > **(f)**  subject to paragraphs (a) to (e) (inclusive), this Act, the regulations, the Federal Court of Australia Act 1976, the Rules of the Court made under that Act, and other laws of the Commonwealth, apply in and in relation to the proceeding as if:
 
 > > <a id="s14ZZS-2-f-i"></a>
-> > **(i)**  a reference to the Federal Court (other than in the expression "the Court or a Judge") included a reference to the Federal Circuit and Family Court of Australia (Division 1); and
+> > **(i)**  a reference to the Federal Court (other than in the expression “the Court or a Judge”) included a reference to the Federal Circuit and Family Court of Australia (Division 1); and
 
 > > <a id="s14ZZS-2-f-ii"></a>
-> > **(ii)**  a reference to a Judge of the Federal Court (other than in the expression "the Court or a Judge") included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1); and
+> > **(ii)**  a reference to a Judge of the Federal Court (other than in the expression “the Court or a Judge”) included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1); and
 
 > > <a id="s14ZZS-2-f-iii"></a>
-> > **(iii)**  a reference to the expression "the Court or a Judge" when used in relation to the Federal Court included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1) sitting in Chambers; and
+> > **(iii)**  a reference to the expression “the Court or a Judge” when used in relation to the Federal Court included a reference to a Judge of the Federal Circuit and Family Court of Australia (Division 1) sitting in Chambers; and
 
 > > <a id="s14ZZS-2-f-iv"></a>
 > > **(iv)**  a reference to a Registrar of the Federal Court included a reference to a Registrar of the Federal Circuit and Family Court of Australia (Division 1); and

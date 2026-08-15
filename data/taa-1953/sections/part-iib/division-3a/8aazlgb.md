@@ -45,7 +45,7 @@ Commissioner may retain an amount
 > **(c)**  the Commissioner becomes reasonably satisfied that the entity does not have a liability (a PAYGW liability) to pay to the Commissioner an amount of a kind referred to in item 1 of the table in subsection 389-5(1) in Schedule 1; or
 
 > <a id="s8AAZLGB-3-d"></a>
-> **(d)**  the Commissioner ascertains (including as a result of making an estimate) the total amount of the entity's outstanding PAYGW liabilities; whichever happens first.
+> **(d)**  the Commissioner ascertains (including as a result of making an estimate) the total amount of the entity’s outstanding PAYGW liabilities; whichever happens first.
 
 > **Note:** Interest is payable under the Taxation (Interest on Overpayments and Early Payments) Act 1983 if the Commissioner is late in making the payment under subsection (3). Objecting to the decision to retain the amount
 

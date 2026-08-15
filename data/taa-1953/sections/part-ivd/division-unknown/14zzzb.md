@@ -41,7 +41,7 @@ If a person (the discloser) makes a disclosure of information that qualifies for
 > <a id="s14ZZZB-d"></a>
 > **(d)**  the court or tribunal thinks it necessary in the interests of justice to do so.
 
-> **Note:** A discloser may also be able to apply to the court or tribunal, in accordance with the rules of the court or tribunal, for an order protecting the discloser's identity.
+> **Note:** A discloser may also be able to apply to the court or tribunal, in accordance with the rules of the court or tribunal, for an order protecting the discloser’s identity.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

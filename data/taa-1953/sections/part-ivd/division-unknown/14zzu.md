@@ -36,7 +36,7 @@ An individual is an eligible whistleblower in relation to an entity (within the 
 > **(f)**  a spouse or child of an individual referred to in any of paragraphs (a) to (e);
 
 > <a id="s14ZZU-g"></a>
-> **(g)**  a dependant of an individual referred to in any of paragraphs (a) to (e), or of such an individual's spouse;
+> **(g)**  a dependant of an individual referred to in any of paragraphs (a) to (e), or of such an individual’s spouse;
 
 > <a id="s14ZZU-h"></a>
 > **(h)**  an individual prescribed by the regulations for the purposes of this paragraph in relation to the entity.

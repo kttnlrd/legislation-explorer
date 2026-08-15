@@ -30,7 +30,7 @@ Commissioner may retain an amount
 > > **(i)**  the entity, or the entity and some other entity; or
 
 > > <a id="s8AAZLGC-1-b-ii"></a>
-> > **(ii)**  the entity's registered tax agent or BAS agent; or
+> > **(ii)**  the entity’s registered tax agent or BAS agent; or
 
 > > <a id="s8AAZLGC-1-b-iii"></a>
 > > **(iii)**  a legal practitioner as trustee or executor for the entity.

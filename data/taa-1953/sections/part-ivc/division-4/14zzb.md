@@ -53,7 +53,7 @@ source_pdf: "vol01.pdf"
 **(7A)**  However, despite subsection (7), section 127 (Tribunal decision continues to operate unless Tribunal orders otherwise) of the ART Act applies in relation to a reviewable objection decision that relates to a small business taxation assessment decision, subject to the modifications set out in section 14ZZH of this Act.
 
 <a id="s14ZZB-8"></a>
-**(8)**  Section 178 (operation and implementation of Tribunal's decision) of the ART Act does not apply in relation to a reviewable objection decision.
+**(8)**  Section 178 (operation and implementation of Tribunal’s decision) of the ART Act does not apply in relation to a reviewable objection decision.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

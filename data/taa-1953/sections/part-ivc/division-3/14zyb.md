@@ -25,9 +25,9 @@ source_pdf: "vol01.pdf"
 > <a id="s14ZYB-1-b"></a>
 > **(b)**  if the Commissioner decides under section 14ZX to agree to a request in relation to the taxation objection—the day on which the decision was made.
 
-> **Note:** Subsection 155-30(2) provides for objections against the Commissioner's failure to make an assessment of an assessable amount.
+> **Note:** Subsection 155-30(2) provides for objections against the Commissioner’s failure to make an assessment of an assessable amount.
 
-> **Note:** Subsection 359-50(3) provides for objections against the Commissioner's failure to make a private ruling.
+> **Note:** Subsection 359-50(3) provides for objections against the Commissioner’s failure to make a private ruling.
 
 <a id="s14ZYB-2"></a>
 **(2)**  The Commissioner is taken, at the end of that 60 day period, to have disallowed the objection.

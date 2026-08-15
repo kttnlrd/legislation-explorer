@@ -23,7 +23,7 @@ source_pdf: "vol01.pdf"
 **(2)**  For the purposes of subsection (1), if:
 
 > <a id="s14ZZL-2-a"></a>
-> **(a)**  no appeal is lodged against the ART's decision within the period for lodging an appeal; and
+> **(a)**  no appeal is lodged against the ART’s decision within the period for lodging an appeal; and
 
 > <a id="s14ZZL-2-b"></a>
 > **(b)**  no application to refer a decision of the ART to the guidance and appeals panel is made within the period for making the application; the decision becomes final at the end of the period.

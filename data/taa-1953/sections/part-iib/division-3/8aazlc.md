@@ -27,7 +27,7 @@ RBA surpluses
 > **(a)**  allocated to an RBA; or
 
 > <a id="s8AAZLC-2-b"></a>
-> **(b)**  applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner's favour by the same amount.
+> **(b)**  applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner’s favour by the same amount.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*
