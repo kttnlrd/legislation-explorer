@@ -450,10 +450,25 @@ class TestDefinition:
         finally:
             _restore_token(token)
 
-    def test_definition_garbage_act_returns_404(self):
+    def test_definition_garbage_act_falls_back_across_acts(self):
         token = _unset_token()
         try:
+            # v2.7.5+: get_definition searches ALL acts (preferring the
+            # requested act), so a term defined in any act resolves even
+            # when the requested act slug is unknown/typo'd.
             resp = client.get(f"/api/definition/{GARBAGE_ACT}/{SAMPLE_TERM}")
+            assert resp.status_code == 200
+            body = resp.json()
+            assert "term" in body
+            assert "text" in body
+        finally:
+            _restore_token(token)
+
+    def test_definition_garbage_act_and_term_returns_404(self):
+        token = _unset_token()
+        try:
+            # Cross-act fallback must still 404 when the term exists nowhere.
+            resp = client.get(f"/api/definition/{GARBAGE_ACT}/{GARBAGE_TERM}")
             assert resp.status_code == 404
         finally:
             _restore_token(token)

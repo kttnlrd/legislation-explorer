@@ -223,14 +223,16 @@ class TestGetRuling:
         resp = client.get("/api/ruling/ZZ_9999_999")
         assert resp.status_code == 404
 
-    def test_valid_ruling_has_body_and_frontmatter(self):
-        # Try known existing ruling
+    def test_valid_ruling_has_frontmatter_and_structured_fields(self):
+        # Try known existing ruling (full ruling, e.g. TR 92/1)
         resp = client.get("/api/ruling/TR_1992_1")
         if resp.status_code == 200:
             data = resp.json()
             assert "frontmatter" in data
-            assert "body" in data
             assert "citation" in data
+            # Full rulings are summary-only by contract: structured fields
+            # are returned; raw full text is served via the download endpoint.
+            assert any(k in data for k in ("subject", "background", "ruling", "question", "notice"))
 
 
 # ── /api/ruling/{citation}/download ──────────────────────────────────────────
