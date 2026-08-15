@@ -17,7 +17,7 @@ This chapter aims to provide an overview of tax planning issues and concepts. It
 
 - checklist of tax changes coming into eﬀect during 2024–25: ¶2
 
-- checklists relevant to particular transactions, situations or occupations, see
+- checklists relevant to particular transactions, situations or occupations, see Chapter 44.
 
   What is tax planning?
 

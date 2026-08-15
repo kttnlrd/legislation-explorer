@@ -1,9 +1,11 @@
 {
   "act": "Australian Master GST Guide",
+  "compilation_no": "1",
+  "compilation_date": "2026-04-01",
   "parts": [
     {
       "id": "ch-01",
-      "title": "Ch 01 \u2014 Overview and Basic Concepts",
+      "title": "Ch 01 — Overview and Basic Concepts",
       "sections": [
         {
           "id": "a-10-point-guide-to-gst",
@@ -37,7 +39,7 @@
         },
         {
           "id": "commissioners-rulings",
-          "title": "Commissioner\u2019s rulings",
+          "title": "Commissioner's rulings",
           "path": "commissioners-rulings.md"
         },
         {
@@ -119,7 +121,7 @@
     },
     {
       "id": "ch-02",
-      "title": "Ch 02 \u2014 Getting Started with GST",
+      "title": "Ch 02 — Getting Started with GST",
       "sections": [
         {
           "id": "a-20-point-plan-for-managing-gst",
@@ -140,7 +142,7 @@
     },
     {
       "id": "ch-03",
-      "title": "Ch 03 \u2014 Registration",
+      "title": "Ch 03 — Registration",
       "sections": [
         {
           "id": "australian-business-number",
@@ -164,7 +166,7 @@
         },
         {
           "id": "only-entities-can-be-registered",
-          "title": "Only \u201centities\u201d can be registered",
+          "title": "Only \"entities\" can be registered",
           "path": "only-entities-can-be-registered.md"
         },
         {
@@ -196,7 +198,7 @@
     },
     {
       "id": "ch-04",
-      "title": "Ch 04 \u2014 Liability for GST and Taxable Supplies",
+      "title": "Ch 04 — Liability for GST and Taxable Supplies",
       "sections": [
         {
           "id": "buying-and-selling-at-auction",
@@ -260,17 +262,17 @@
         },
         {
           "id": "requirement-1-there-must-be-a-supply",
-          "title": "Requirement 1: there must be a \u201csupply\u201d",
+          "title": "Requirement 1: there must be a \"supply\"",
           "path": "requirement-1-there-must-be-a-supply.md"
         },
         {
           "id": "requirement-2-supply-must-be-for-consideration",
-          "title": "Requirement 2: supply must be \u201cfor consideration\u201d",
+          "title": "Requirement 2: supply must be \"for consideration\"",
           "path": "requirement-2-supply-must-be-for-consideration.md"
         },
         {
           "id": "requirement-3-in-course-of-enterprise",
-          "title": "Requirement 3: in course of \u201centerprise\u201d",
+          "title": "Requirement 3: in course of \"enterprise\"",
           "path": "requirement-3-in-course-of-enterprise.md"
         },
         {
@@ -317,7 +319,7 @@
     },
     {
       "id": "ch-05",
-      "title": "Ch 05 \u2014 Claiming Input Tax Credits and Tax Invoices",
+      "title": "Ch 05 — Claiming Input Tax Credits and Tax Invoices",
       "sections": [
         {
           "id": "acting-through-an-agent-or-broker",
@@ -388,7 +390,7 @@
     },
     {
       "id": "ch-06",
-      "title": "Ch 06 \u2014 GST Adjustments",
+      "title": "Ch 06 — GST Adjustments",
       "sections": [
         {
           "id": "adjustment-note-exemption-for-minor-adjustments",
@@ -504,7 +506,7 @@
     },
     {
       "id": "ch-07",
-      "title": "Ch 07 \u2014 Accounting Basis and Tax Periods",
+      "title": "Ch 07 — Accounting Basis and Tax Periods",
       "sections": [
         {
           "id": "accruals-basis",
@@ -595,7 +597,7 @@
     },
     {
       "id": "ch-08",
-      "title": "Ch 08 \u2014 GST Returns, BAS, Payment, Assessment and Refunds",
+      "title": "Ch 08 — GST Returns, BAS, Payment, Assessment and Refunds",
       "sections": [
         {
           "id": "amending-an-assessment",
@@ -691,7 +693,7 @@
     },
     {
       "id": "ch-09",
-      "title": "Ch 09 \u2014 Imports and Exports",
+      "title": "Ch 09 — Imports and Exports",
       "sections": [
         {
           "id": "consumers",
@@ -700,7 +702,7 @@
         },
         {
           "id": "excisable-goods-held-in-bond",
-          "title": "Excisable goods held \u201cin bond\u201d",
+          "title": "Excisable goods held \"in bond\"",
           "path": "excisable-goods-held-in-bond.md"
         },
         {
@@ -760,7 +762,7 @@
         },
         {
           "id": "offshore-supplies-of-low-value-goods-to-consumers",
-          "title": "Offshore supplies of \u201clow value\u201d goods to consumers",
+          "title": "Offshore supplies of \"low value\" goods to consumers",
           "path": "offshore-supplies-of-low-value-goods-to-consumers.md"
         },
         {
@@ -807,11 +809,11 @@
     },
     {
       "id": "ch-10",
-      "title": "Ch 10 \u2014 Financial Supplies and Insurance",
+      "title": "Ch 10 — Financial Supplies and Insurance",
       "sections": [
         {
           "id": "75-reduced-input-tax-credit-for-certain-services",
-          "title": "75% \u201creduced\u201d input tax credit for certain services",
+          "title": "75% \"reduced\" input tax credit for certain services",
           "path": "75-reduced-input-tax-credit-for-certain-services.md"
         },
         {
@@ -903,7 +905,7 @@
     },
     {
       "id": "ch-11",
-      "title": "Ch 11 \u2014 Real Estate, Accommodation and Sale of Business",
+      "title": "Ch 11 — Real Estate, Accommodation and Sale of Business",
       "sections": [
         {
           "id": "accommodation-in-commercial-residential-premises",
@@ -977,7 +979,7 @@
         },
         {
           "id": "if-going-concern-exemption-does-not-apply",
-          "title": "If \u201cgoing concern\u201d exemption does not apply",
+          "title": "If \"going concern\" exemption does not apply",
           "path": "if-going-concern-exemption-does-not-apply.md"
         },
         {
@@ -1042,7 +1044,7 @@
         },
         {
           "id": "sale-of-new-residential-premises",
-          "title": "Sale of \u201cnew\u201d residential premises",
+          "title": "Sale of \"new\" residential premises",
           "path": "sale-of-new-residential-premises.md"
         },
         {
@@ -1089,7 +1091,7 @@
     },
     {
       "id": "ch-12",
-      "title": "Ch 12 \u2014 Transport, Travel and Vehicles",
+      "title": "Ch 12 — Transport, Travel and Vehicles",
       "sections": [
         {
           "id": "associated-transport-costs",
@@ -1170,11 +1172,11 @@
     },
     {
       "id": "ch-13",
-      "title": "Ch 13 \u2014 Food, Health and Medical",
+      "title": "Ch 13 — Food, Health and Medical",
       "sections": [
         {
           "id": "allied-health-professionals-services",
-          "title": "Allied health professionals\u2019 services",
+          "title": "Allied health professionals' services",
           "path": "allied-health-professionals-services.md"
         },
         {
@@ -1194,7 +1196,7 @@
         },
         {
           "id": "definition-of-food",
-          "title": "Definition of \u201cfood\u201d",
+          "title": "Definition of \"food\"",
           "path": "definition-of-food.md"
         },
         {
@@ -1259,7 +1261,7 @@
         },
         {
           "id": "medical-practitioners-services",
-          "title": "Medical practitioners\u2019 services",
+          "title": "Medical practitioners' services",
           "path": "medical-practitioners-services.md"
         },
         {
@@ -1311,7 +1313,7 @@
     },
     {
       "id": "ch-14",
-      "title": "Ch 14 \u2014 Education and Child Care",
+      "title": "Ch 14 — Education and Child Care",
       "sections": [
         {
           "id": "adult-and-community-education-courses",
@@ -1360,14 +1362,14 @@
         },
         {
           "id": "special-education-courses",
-          "title": "\u201cSpecial education\u201d courses",
+          "title": "\"Special education\" courses",
           "path": "special-education-courses.md"
         }
       ]
     },
     {
       "id": "ch-15",
-      "title": "Ch 15 \u2014 Charities, Religious and Non-Profit Bodies",
+      "title": "Ch 15 — Charities, Religious and Non-Profit Bodies",
       "sections": [
         {
           "id": "ceasing-to-be-a-sub-entity",
@@ -1431,14 +1433,14 @@
         },
         {
           "id": "supplies-for-nominal-value",
-          "title": "Supplies for \u201cnominal\u201d value",
+          "title": "Supplies for \"nominal\" value",
           "path": "supplies-for-nominal-value.md"
         }
       ]
     },
     {
       "id": "ch-16",
-      "title": "Ch 16 \u2014 Gambling, Second-Hand Goods and Other Measures",
+      "title": "Ch 16 — Gambling, Second-Hand Goods and Other Measures",
       "sections": [
         {
           "id": "application-of-gst-to-second-hand-goods",
@@ -1457,7 +1459,7 @@
         },
         {
           "id": "global-accounting-for-second-hand-dealers",
-          "title": "\u201cGlobal\u201d accounting for second-hand dealers",
+          "title": "\"Global\" accounting for second-hand dealers",
           "path": "global-accounting-for-second-hand-dealers.md"
         },
         {
@@ -1504,7 +1506,7 @@
     },
     {
       "id": "ch-17",
-      "title": "Ch 17 \u2014 GST Groups, Branches, Agents and Associates",
+      "title": "Ch 17 — GST Groups, Branches, Agents and Associates",
       "sections": [
         {
           "id": "agents-for-non-residents",
@@ -1553,7 +1555,7 @@
         },
         {
           "id": "goods-sold-on-consignment-or-sale-or-return",
-          "title": "Goods sold on consignment, or \u201csale or return\u201d",
+          "title": "Goods sold on consignment, or \"sale or return\"",
           "path": "goods-sold-on-consignment-or-sale-or-return.md"
         },
         {
@@ -1640,7 +1642,7 @@
     },
     {
       "id": "ch-18",
-      "title": "Ch 18 \u2014 Administration, Audit and Review",
+      "title": "Ch 18 — Administration, Audit and Review",
       "sections": [
         {
           "id": "access-to-premises-documents-and-other-property",
@@ -1679,7 +1681,7 @@
         },
         {
           "id": "atos-compliance-focus",
-          "title": "ATO\u2019s compliance focus",
+          "title": "ATO's compliance focus",
           "path": "atos-compliance-focus.md"
         },
         {
@@ -1689,7 +1691,7 @@
         },
         {
           "id": "commissioners-rulings",
-          "title": "Commissioner\u2019s rulings",
+          "title": "Commissioner's rulings",
           "path": "commissioners-rulings.md"
         },
         {
@@ -1714,7 +1716,7 @@
         },
         {
           "id": "countering-the-shadow-economy",
-          "title": "Countering the \u201cshadow economy\u201d",
+          "title": "Countering the \"shadow economy\"",
           "path": "countering-the-shadow-economy.md"
         },
         {
@@ -1779,7 +1781,7 @@
         },
         {
           "id": "objections-to-commissioners-decisions",
-          "title": "Objections to Commissioner\u2019s decisions",
+          "title": "Objections to Commissioner's decisions",
           "path": "objections-to-commissioners-decisions.md"
         },
         {
@@ -1794,7 +1796,7 @@
         },
         {
           "id": "overview-commissioners-powers",
-          "title": "Overview: Commissioner\u2019s powers",
+          "title": "Overview: Commissioner's powers",
           "path": "overview-commissioners-powers.md"
         },
         {
@@ -1824,7 +1826,7 @@
         },
         {
           "id": "review-of-commissioners-discretion",
-          "title": "Review of Commissioner\u2019s discretion",
+          "title": "Review of Commissioner's discretion",
           "path": "review-of-commissioners-discretion.md"
         },
         {
@@ -1851,7 +1853,7 @@
     },
     {
       "id": "ch-19",
-      "title": "Ch 19 \u2014 Contracts and Transitional Rules",
+      "title": "Ch 19 — Contracts and Transitional Rules",
       "sections": [
         {
           "id": "construction-contracts",
@@ -1897,7 +1899,7 @@
     },
     {
       "id": "ch-20",
-      "title": "Ch 20 \u2014 Anti-Avoidance Rules",
+      "title": "Ch 20 — Anti-Avoidance Rules",
       "sections": [
         {
           "id": "first-requirement-there-must-be-a-scheme",
@@ -1926,7 +1928,7 @@
         },
         {
           "id": "promotion-of-tax-exploitation-scheme",
-          "title": "\u201cPromotion\u201d of \u201ctax exploitation scheme\u201d",
+          "title": "\"Promotion\" of \"tax exploitation scheme\"",
           "path": "promotion-of-tax-exploitation-scheme.md"
         },
         {
@@ -1963,7 +1965,7 @@
     },
     {
       "id": "ch-21",
-      "title": "Ch 21 \u2014 Planning, Pricing and Cashflow",
+      "title": "Ch 21 — Planning, Pricing and Cashflow",
       "sections": [
         {
           "id": "effect-of-accounting-basis-on-cashflow",
@@ -1999,7 +2001,7 @@
     },
     {
       "id": "ch-22",
-      "title": "Ch 22 \u2014 Wine Equalisation Tax",
+      "title": "Ch 22 — Wine Equalisation Tax",
       "sections": [
         {
           "id": "application-to-own-use",
@@ -2090,7 +2092,7 @@
     },
     {
       "id": "ch-23",
-      "title": "Ch 23 \u2014 Luxury Car Tax",
+      "title": "Ch 23 — Luxury Car Tax",
       "sections": [
         {
           "id": "accounting-for-lct",
@@ -2136,7 +2138,7 @@
     },
     {
       "id": "ch-24",
-      "title": "Ch 24 \u2014 Income Tax and FBT",
+      "title": "Ch 24 — Income Tax and FBT",
       "sections": [
         {
           "id": "acquisitions-used-to-provide-fringe-benefits",
@@ -2192,7 +2194,7 @@
     },
     {
       "id": "ch-25",
-      "title": "Ch 25 \u2014 GST Checklists and GST Terms",
+      "title": "Ch 25 — GST Checklists and GST Terms",
       "sections": [
         {
           "id": "accommodation-and-residence",
@@ -2291,7 +2293,5 @@
         }
       ]
     }
-  ],
-  "compilation_no": "1",
-  "compilation_date": "2026-04-01"
+  ]
 }

@@ -51,6 +51,8 @@ Table 1 Item           Supply 1              Specialist Disability Accommodation
 
 - Schedule 1 to the GST-free Supply (Care) Determination 2017 (Care Determination)
 
+- Section 6 of the A New Tax System (Goods and Services Tax) (GST-free Supply–Residential Care–
+
 Government Funded Supplier) Determination 2015 (Residential Care Determination), or
 
 - Sections 6 or 7 of the GST-free Supply (Health Services) Determination (Health Services

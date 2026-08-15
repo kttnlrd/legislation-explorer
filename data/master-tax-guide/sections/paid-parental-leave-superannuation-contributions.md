@@ -15,7 +15,15 @@ The ATO will calculate and disburse the PPL superannuation contribution amount i
 
 contributions The legislative framework for payment and administration of PPL superannuation contributions is set out in the following Parts of Ch 3A of PPLA 2010.
 
+- Part 1 — payability and calculation of the PPL superannuation contribution
+
+- Part 2 — disbursement of PPL superannuation contributions and management of overpayments
+
   and underpayments
+
+- Part 3 — record-keeping requirements of superannuation providers and enforcement powers
+
+- Part 4 — administration of Ch 3 by the Commissioner of Taxation and review of decisions by the
 
   Commissioner under Ch 3A.
 

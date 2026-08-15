@@ -14,7 +14,7 @@ def _natural_key(s: str):
     """Natural sort key: '2' < '10', '83A' after '83'."""
     return [int(t) if t.isdigit() else t for t in re.split(r'(\d+)', s)]
 
-INPUT_DIR = Path("/home/harrison/projects/cadena-knowledge-MCP/pipeline/output")
+INPUT_DIR = Path("/home/harrison/projects/ARCHIVE_cadena-knowledge-MCP/pipeline/output")
 OUTPUT_BASE = Path.home() / "legislation-explorer" / "data"
 
 PUBS = {
@@ -32,8 +32,18 @@ def slugify(text: str) -> str:
     return s[:80]
 
 
+def normalize_quotes(text: str) -> str:
+    """Straighten Unicode curly quotes/apostrophes to ASCII."""
+    return (text
+            .replace('\u2018', "'").replace('\u2019', "'")
+            .replace('\u201c', '"').replace('\u201d', '"'))
+
+
 def clean_markdown_text(text: str) -> str:
     """Convert raw CCH text to proper markdown. Reconstructs paragraphs from line-wrapped PDF text."""
+    # Normalise Unicode curly quotes to straight ASCII (matching the original build).
+    text = normalize_quotes(text)
+    
     lines = text.split('\n')
     result = []
     in_bullet_list = False
@@ -47,6 +57,25 @@ def clean_markdown_text(text: str) -> str:
     
     for i, line in enumerate(lines):
         stripped = line.strip()
+        
+        # CCH uses '#' two ways: a sub-heading marker ('# Title') and a table
+        # column delimiter (a line containing only '#'). Handle both before the
+        # bullet/paragraph logic so they never render as markdown headings.
+        if stripped == '#':
+            # Standalone '#' — table column delimiter, not a heading. Drop it.
+            continue
+        if stripped.startswith('# '):
+            rest = stripped[2:].strip()
+            if rest and rest != '#':
+                if re.fullmatch(r'[\d.%,$\s\-–—]+', rest):
+                    # Numeric table-cell fragment (e.g. '# 0%', '# $68,009 –$85,010')
+                    # — not a heading. Keep as inline content.
+                    current_para.append(rest)
+                else:
+                    # Genuine sub-heading ('# Groups.', '# 3 Have a coordinator').
+                    flush_para()
+                    result.append(f'## {rest}')
+            continue
         
         # Convert • bullets to markdown list items
         if stripped.startswith('•'):
@@ -88,7 +117,10 @@ def clean_markdown_text(text: str) -> str:
     
     flush_para()
     
-    return '\n\n'.join(result)
+    body = '\n\n'.join(result)
+    # Collapse CCH inline '#' column delimiters (space-surrounded hash, not '(#)').
+    body = re.sub(r'(?<![(\w])\s#\s', '  ', body)
+    return body
 
 
 def build_pub(json_file: str, meta: dict):
@@ -109,7 +141,7 @@ def build_pub(json_file: str, meta: dict):
 
     for ch in data.get("chapters", []):
         ch_num = ch.get("number", "")
-        ch_title = ch.get("title", "")
+        ch_title = normalize_quotes(ch.get("title", ""))
         part_id = f"ch-{ch_num}" if ch_num else slugify(ch_title)
 
         part = {
@@ -119,7 +151,7 @@ def build_pub(json_file: str, meta: dict):
         }
 
         for mh in ch.get("major_headings", []):
-            heading_title = mh.get("title", "")
+            heading_title = normalize_quotes(mh.get("title", ""))
             para = mh.get("paragraph_number", "")
             sec_id = slugify(heading_title) or f"{part_id}-{len(part['sections'])}"
 
@@ -140,7 +172,7 @@ def build_pub(json_file: str, meta: dict):
                     md_lines.append("")
 
             for sh in mh.get("sub_headings", []):
-                md_lines.append(f"## {sh.get('title', '')}\n")
+                md_lines.append(f"## {normalize_quotes(sh.get('title', ''))}\n")
                 for cb in sh.get("content_blocks", []):
                     if cb.get("text"):
                         cleaned = clean_markdown_text(cb["text"])
@@ -158,7 +190,6 @@ section: "{sec_id}"
 title: "{heading_title}"
 paragraph: "{para}"
 ---
-
 """
             md_file = sections_dir / sec_path
             md_file.write_text(frontmatter + md_body, encoding="utf-8")

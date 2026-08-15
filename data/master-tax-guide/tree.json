@@ -4,9 +4,8 @@
   "compilation_date": "2026-04-01",
   "parts": [
     {
-      "id": "01",
-      "title": "Introduction to Australian Tax System",
-      "divisions": [],
+      "id": "ch-01",
+      "title": "Ch 01 — Introduction to Australian Tax System",
       "sections": [
         {
           "id": "annual-accounting",
@@ -15,13 +14,13 @@
         },
         {
           "id": "ato-charter-previously-taxpayers-charter",
-          "title": "ATO Charter (previously \u201cTaxpayers\u2019 Charter\u201d)",
+          "title": "ATO Charter (previously \"Taxpayers' Charter\")",
           "path": "ato-charter-previously-taxpayers-charter.md"
         },
         {
-          "id": "australian-taxation-o\ufb03ce-ato",
-          "title": "Australian Taxation O\ufb03ce (ATO)",
-          "path": "australian-taxation-o\ufb03ce-ato.md"
+          "id": "australian-taxation-oﬃce-ato",
+          "title": "Australian Taxation Oﬃce (ATO)",
+          "path": "australian-taxation-oﬃce-ato.md"
         },
         {
           "id": "background-to-income-tax-in-australia",
@@ -30,7 +29,7 @@
         },
         {
           "id": "commissioners-discretion",
-          "title": "Commissioner\u2019s discretion",
+          "title": "Commissioner's discretion",
           "path": "commissioners-discretion.md"
         },
         {
@@ -44,9 +43,9 @@
           "path": "constitutional-basis-of-federal-income-tax.md"
         },
         {
-          "id": "con\ufb01dentiality-of-tax-information",
-          "title": "Con\ufb01dentiality of tax information",
-          "path": "con\ufb01dentiality-of-tax-information.md"
+          "id": "conﬁdentiality-of-tax-information",
+          "title": "Conﬁdentiality of tax information",
+          "path": "conﬁdentiality-of-tax-information.md"
         },
         {
           "id": "crown-instrumentalities-immune-from-tax",
@@ -135,15 +134,14 @@
         },
         {
           "id": "with-respect-to-taxation",
-          "title": "\u201c\u2026 with respect to \u2026 taxation\u201d",
+          "title": "\"… with respect to … taxation\"",
           "path": "with-respect-to-taxation.md"
         }
       ]
     },
     {
-      "id": "02",
-      "title": "Individuals",
-      "divisions": [],
+      "id": "ch-02",
+      "title": "Ch 02 — Individuals",
       "sections": [
         {
           "id": "anti-avoidance-provisions-relevant-to-minors",
@@ -303,9 +301,8 @@
       ]
     },
     {
-      "id": "03",
-      "title": "Companies",
-      "divisions": [],
+      "id": "ch-03",
+      "title": "Ch 03 — Companies",
       "sections": [
         {
           "id": "assessable-income-of-life-insurance-companies",
@@ -378,9 +375,9 @@
           "path": "continuity-of-ownership-test.md"
         },
         {
-          "id": "converting-excess-franking-o\ufb00sets-to-tax-loss",
-          "title": "Converting excess franking o\ufb00sets to tax loss",
-          "path": "converting-excess-franking-o\ufb00sets-to-tax-loss.md"
+          "id": "converting-excess-franking-oﬀsets-to-tax-loss",
+          "title": "Converting excess franking oﬀsets to tax loss",
+          "path": "converting-excess-franking-oﬀsets-to-tax-loss.md"
         },
         {
           "id": "cot-rules-for-companies-owned-by-certain-trusts",
@@ -401,6 +398,11 @@
           "id": "deductibility-of-prior-year-losses",
           "title": "Deductibility of prior year losses",
           "path": "deductibility-of-prior-year-losses.md"
+        },
+        {
+          "id": "dividends",
+          "title": "dividends",
+          "path": "dividends.md"
         },
         {
           "id": "exempt-income-of-life-insurance-companies",
@@ -428,9 +430,9 @@
           "path": "liability-of-directors-etc.md"
         },
         {
-          "id": "on-market-and-o\ufb00-market-buy-backs",
-          "title": "On-market and o\ufb00-market buy-backs",
-          "path": "on-market-and-o\ufb00-market-buy-backs.md"
+          "id": "on-market-and-oﬀ-market-buy-backs",
+          "title": "On-market and oﬀ-market buy-backs",
+          "path": "on-market-and-oﬀ-market-buy-backs.md"
         },
         {
           "id": "preventing-inter-entity-loss-multiplication",
@@ -443,9 +445,9 @@
           "path": "public-and-private-companies.md"
         },
         {
-          "id": "public-o\ufb03cer",
-          "title": "Public o\ufb03cer",
-          "path": "public-o\ufb03cer.md"
+          "id": "public-oﬃcer",
+          "title": "Public oﬃcer",
+          "path": "public-oﬃcer.md"
         },
         {
           "id": "rates-of-tax",
@@ -454,7 +456,7 @@
         },
         {
           "id": "receipts-from-members-mutuality-principle",
-          "title": "Receipts from members \u2014 mutuality principle",
+          "title": "Receipts from members — mutuality principle",
           "path": "receipts-from-members-mutuality-principle.md"
         },
         {
@@ -493,9 +495,9 @@
           "path": "special-tax-treatment-of-pdfs.md"
         },
         {
-          "id": "speci\ufb01c-deductions-for-life-insurance-companies",
-          "title": "Speci\ufb01c deductions for life insurance companies",
-          "path": "speci\ufb01c-deductions-for-life-insurance-companies.md"
+          "id": "speciﬁc-deductions-for-life-insurance-companies",
+          "title": "Speciﬁc deductions for life insurance companies",
+          "path": "speciﬁc-deductions-for-life-insurance-companies.md"
         },
         {
           "id": "strata-title-bodies-corporate-taxed-as-companies",
@@ -553,9 +555,9 @@
           "path": "taxation-of-friendly-societies.md"
         },
         {
-          "id": "temporary-loss-carry-back-tax-o\ufb00set",
-          "title": "Temporary loss carry back tax o\ufb00set",
-          "path": "temporary-loss-carry-back-tax-o\ufb00set.md"
+          "id": "temporary-loss-carry-back-tax-oﬀset",
+          "title": "Temporary loss carry back tax oﬀset",
+          "path": "temporary-loss-carry-back-tax-oﬀset.md"
         },
         {
           "id": "tracing-ownership-of-widely-held-companies",
@@ -590,9 +592,8 @@
       ]
     },
     {
-      "id": "04",
-      "title": "Dividends \u0442\u0410\u0432 Imputation System",
-      "divisions": [],
+      "id": "ch-04",
+      "title": "Ch 04 — Dividends тАв Imputation System",
       "sections": [
         {
           "id": "allocating-franking-credits-to-distributions",
@@ -735,9 +736,9 @@
           "path": "exempting-entities-and-former-exempting-entities.md"
         },
         {
-          "id": "e\ufb00ect-of-receiving-a-franked-distribution",
-          "title": "E\ufb00ect of receiving a franked distribution",
-          "path": "e\ufb00ect-of-receiving-a-franked-distribution.md"
+          "id": "eﬀect-of-receiving-a-franked-distribution",
+          "title": "Eﬀect of receiving a franked distribution",
+          "path": "eﬀect-of-receiving-a-franked-distribution.md"
         },
         {
           "id": "frankable-and-unfrankable-distributions",
@@ -775,9 +776,9 @@
           "path": "franking-period.md"
         },
         {
-          "id": "franking-surplus-or-de\ufb01cit",
-          "title": "Franking surplus or de\ufb01cit",
-          "path": "franking-surplus-or-de\ufb01cit.md"
+          "id": "franking-surplus-or-deﬁcit",
+          "title": "Franking surplus or deﬁcit",
+          "path": "franking-surplus-or-deﬁcit.md"
         },
         {
           "id": "holding-period-and-related-payments-rules",
@@ -790,13 +791,13 @@
           "path": "imputation-implications.md"
         },
         {
-          "id": "liability-to-franking-de\ufb01cit-tax",
-          "title": "Liability to franking de\ufb01cit tax",
-          "path": "liability-to-franking-de\ufb01cit-tax.md"
+          "id": "liability-to-franking-deﬁcit-tax",
+          "title": "Liability to franking deﬁcit tax",
+          "path": "liability-to-franking-deﬁcit-tax.md"
         },
         {
           "id": "liquidators-power-to-appropriate-particular-funds",
-          "title": "Liquidator\u2019s power to appropriate particular funds",
+          "title": "Liquidator's power to appropriate particular funds",
           "path": "liquidators-power-to-appropriate-particular-funds.md"
         },
         {
@@ -825,9 +826,9 @@
           "path": "overview-taxation-of-dividend-recipients.md"
         },
         {
-          "id": "o\ufb00set-of-div-7a-dividend-against-subsequent-dividend",
-          "title": "O\ufb00set of Div 7A dividend against subsequent dividend",
-          "path": "o\ufb00set-of-div-7a-dividend-against-subsequent-dividend.md"
+          "id": "oﬀset-of-div-7a-dividend-against-subsequent-dividend",
+          "title": "Oﬀset of Div 7A dividend against subsequent dividend",
+          "path": "oﬀset-of-div-7a-dividend-against-subsequent-dividend.md"
         },
         {
           "id": "payments-and-loans-not-treated-as-dividends",
@@ -835,9 +836,9 @@
           "path": "payments-and-loans-not-treated-as-dividends.md"
         },
         {
-          "id": "pro\ufb01ts-and-their-source",
-          "title": "Pro\ufb01ts and their source",
-          "path": "pro\ufb01ts-and-their-source.md"
+          "id": "proﬁts-and-their-source",
+          "title": "Proﬁts and their source",
+          "path": "proﬁts-and-their-source.md"
         },
         {
           "id": "receipt-of-distribution-by-foreign-resident",
@@ -850,9 +851,9 @@
           "path": "refund-of-excess-franking-credits.md"
         },
         {
-          "id": "repayments-and-re\ufb01nancing-a-private-company-loan",
-          "title": "Repayments and re\ufb01nancing a private company loan",
-          "path": "repayments-and-re\ufb01nancing-a-private-company-loan.md"
+          "id": "repayments-and-reﬁnancing-a-private-company-loan",
+          "title": "Repayments and reﬁnancing a private company loan",
+          "path": "repayments-and-reﬁnancing-a-private-company-loan.md"
         },
         {
           "id": "special-rules-for-life-insurance-companies",
@@ -892,9 +893,8 @@
       ]
     },
     {
-      "id": "05",
-      "title": "Partners and Partnerships",
-      "divisions": [],
+      "id": "ch-05",
+      "title": "Ch 05 — Partners and Partnerships",
       "sections": [
         {
           "id": "a-partnership-for-income-tax-purposes",
@@ -903,7 +903,7 @@
         },
         {
           "id": "assignments",
-          "title": "assignments\u201d",
+          "title": "assignments\"",
           "path": "assignments.md"
         },
         {
@@ -962,13 +962,13 @@
           "path": "limited-partnerships.md"
         },
         {
-          "id": "partners-e\ufb00ective-control-over-partnership-income",
-          "title": "Partner\u2019s e\ufb00ective control over partnership income",
-          "path": "partners-e\ufb00ective-control-over-partnership-income.md"
+          "id": "partners-eﬀective-control-over-partnership-income",
+          "title": "Partner's eﬀective control over partnership income",
+          "path": "partners-eﬀective-control-over-partnership-income.md"
         },
         {
           "id": "partners-salaries",
-          "title": "Partners\u2019 salaries",
+          "title": "Partners' salaries",
           "path": "partners-salaries.md"
         },
         {
@@ -1009,9 +1009,8 @@
       ]
     },
     {
-      "id": "06",
-      "title": "Trustees \u0442\u0410\u0432 Beneficiaries \u0442\u0410\u0432 Deceased Estates",
-      "divisions": [],
+      "id": "ch-06",
+      "title": "Ch 06 — Trustees тАв Beneficiaries тАв Deceased Estates",
       "sections": [
         {
           "id": "accumulating-income-of-non-resident-trusts",
@@ -1029,14 +1028,14 @@
           "path": "attribution-managed-investment-trusts.md"
         },
         {
-          "id": "bene\ufb01ciary-non-resident-at-end-of-income-year",
-          "title": "Bene\ufb01ciary non-resident at end of income year",
-          "path": "bene\ufb01ciary-non-resident-at-end-of-income-year.md"
+          "id": "beneﬁciary-non-resident-at-end-of-income-year",
+          "title": "Beneﬁciary non-resident at end of income year",
+          "path": "beneﬁciary-non-resident-at-end-of-income-year.md"
         },
         {
-          "id": "bene\ufb01ciary-presently-entitled-but-under-legal-disability",
-          "title": "Bene\ufb01ciary presently entitled but under legal disability",
-          "path": "bene\ufb01ciary-presently-entitled-but-under-legal-disability.md"
+          "id": "beneﬁciary-presently-entitled-but-under-legal-disability",
+          "title": "Beneﬁciary presently entitled but under legal disability",
+          "path": "beneﬁciary-presently-entitled-but-under-legal-disability.md"
         },
         {
           "id": "corporate-collective-investment-vehicle-regime",
@@ -1050,7 +1049,7 @@
         },
         {
           "id": "deceaseds-income-received-after-death",
-          "title": "Deceased\u2019s income received after death",
+          "title": "Deceased's income received after death",
           "path": "deceaseds-income-received-after-death.md"
         },
         {
@@ -1064,14 +1063,14 @@
           "path": "distributions-of-trust-income.md"
         },
         {
-          "id": "distributions-out-of-corpus-to-income-bene\ufb01ciary",
-          "title": "Distributions out of corpus to income bene\ufb01ciary",
-          "path": "distributions-out-of-corpus-to-income-bene\ufb01ciary.md"
+          "id": "distributions-out-of-corpus-to-income-beneﬁciary",
+          "title": "Distributions out of corpus to income beneﬁciary",
+          "path": "distributions-out-of-corpus-to-income-beneﬁciary.md"
         },
         {
-          "id": "e\ufb00ect-of-taxing-a-public-trading-trust-as-a-company",
-          "title": "E\ufb00ect of taxing a public trading trust as a company",
-          "path": "e\ufb00ect-of-taxing-a-public-trading-trust-as-a-company.md"
+          "id": "eﬀect-of-taxing-a-public-trading-trust-as-a-company",
+          "title": "Eﬀect of taxing a public trading trust as a company",
+          "path": "eﬀect-of-taxing-a-public-trading-trust-as-a-company.md"
         },
         {
           "id": "family-trust-distribution-tax",
@@ -1109,14 +1108,14 @@
           "path": "meaning-of-presently-entitled.md"
         },
         {
-          "id": "meaning-of-speci\ufb01c-entitlement",
-          "title": "Meaning of speci\ufb01c entitlement",
-          "path": "meaning-of-speci\ufb01c-entitlement.md"
+          "id": "meaning-of-speciﬁc-entitlement",
+          "title": "Meaning of speciﬁc entitlement",
+          "path": "meaning-of-speciﬁc-entitlement.md"
         },
         {
-          "id": "minor-bene\ufb01ciaries-etc",
-          "title": "Minor bene\ufb01ciaries, etc",
-          "path": "minor-bene\ufb01ciaries-etc.md"
+          "id": "minor-beneﬁciaries-etc",
+          "title": "Minor beneﬁciaries, etc",
+          "path": "minor-beneﬁciaries-etc.md"
         },
         {
           "id": "multiple-trusts",
@@ -1139,9 +1138,9 @@
           "path": "new-generation-trust-stripping-schemes.md"
         },
         {
-          "id": "no-bene\ufb01ciary-presently-entitled",
-          "title": "No bene\ufb01ciary presently entitled",
-          "path": "no-bene\ufb01ciary-presently-entitled.md"
+          "id": "no-beneﬁciary-presently-entitled",
+          "title": "No beneﬁciary presently entitled",
+          "path": "no-beneﬁciary-presently-entitled.md"
         },
         {
           "id": "period-of-administration-of-deceased-estate",
@@ -1154,9 +1153,9 @@
           "path": "personal-liability-of-trustee.md"
         },
         {
-          "id": "public-o\ufb03cer-of-trust",
-          "title": "Public o\ufb03cer of trust",
-          "path": "public-o\ufb03cer-of-trust.md"
+          "id": "public-oﬃcer-of-trust",
+          "title": "Public oﬃcer of trust",
+          "path": "public-oﬃcer-of-trust.md"
         },
         {
           "id": "public-trading-trusts-taxed-as-companies",
@@ -1164,9 +1163,9 @@
           "path": "public-trading-trusts-taxed-as-companies.md"
         },
         {
-          "id": "rates-of-tax-payable-by-bene\ufb01ciaries",
-          "title": "Rates of tax payable by bene\ufb01ciaries",
-          "path": "rates-of-tax-payable-by-bene\ufb01ciaries.md"
+          "id": "rates-of-tax-payable-by-beneﬁciaries",
+          "title": "Rates of tax payable by beneﬁciaries",
+          "path": "rates-of-tax-payable-by-beneﬁciaries.md"
         },
         {
           "id": "rates-of-tax-payable-by-trustees",
@@ -1219,9 +1218,9 @@
           "path": "trust-return.md"
         },
         {
-          "id": "trustee-bene\ufb01ciary-reporting-rules",
-          "title": "Trustee bene\ufb01ciary reporting rules",
-          "path": "trustee-bene\ufb01ciary-reporting-rules.md"
+          "id": "trustee-beneﬁciary-reporting-rules",
+          "title": "Trustee beneﬁciary reporting rules",
+          "path": "trustee-beneﬁciary-reporting-rules.md"
         },
         {
           "id": "trustee-of-deceased-estate",
@@ -1241,9 +1240,8 @@
       ]
     },
     {
-      "id": "07",
-      "title": "Small and Medium Business Entities",
-      "divisions": [],
+      "id": "ch-07",
+      "title": "Ch 07 — Small and Medium Business Entities",
       "sections": [
         {
           "id": "active-assets",
@@ -1286,9 +1284,19 @@
           "path": "cgt-concession-stakeholder.md"
         },
         {
+          "id": "cgt-concessions-for-small-business",
+          "title": "CGT concessions for small business",
+          "path": "cgt-concessions-for-small-business.md"
+        },
+        {
           "id": "cgt-retirement-exemption",
           "title": "CGT retirement exemption",
           "path": "cgt-retirement-exemption.md"
+        },
+        {
+          "id": "cgt-roll-over",
+          "title": "CGT roll-over",
+          "path": "cgt-roll-over.md"
         },
         {
           "id": "direct-small-business-participation-percentage",
@@ -1306,19 +1314,24 @@
           "path": "maximum-net-asset-value-mnav-requirements.md"
         },
         {
-          "id": "signi\ufb01cant-individual-test",
-          "title": "Signi\ufb01cant individual test",
-          "path": "signi\ufb01cant-individual-test.md"
+          "id": "signiﬁcant-individual-test",
+          "title": "Signiﬁcant individual test",
+          "path": "signiﬁcant-individual-test.md"
         },
         {
-          "id": "simpli\ufb01ed-depreciation-for-small-business",
-          "title": "Simpli\ufb01ed depreciation for small business",
-          "path": "simpli\ufb01ed-depreciation-for-small-business.md"
+          "id": "simpliﬁed-depreciation-for-small-business",
+          "title": "Simpliﬁed depreciation for small business",
+          "path": "simpliﬁed-depreciation-for-small-business.md"
         },
         {
-          "id": "simpli\ufb01ed-trading-stock-rules",
-          "title": "Simpli\ufb01ed trading stock rules",
-          "path": "simpli\ufb01ed-trading-stock-rules.md"
+          "id": "simpliﬁed-trading-stock-rules",
+          "title": "Simpliﬁed trading stock rules",
+          "path": "simpliﬁed-trading-stock-rules.md"
+        },
+        {
+          "id": "small-business-income-tax-oﬀset",
+          "title": "Small business income tax oﬀset",
+          "path": "small-business-income-tax-oﬀset.md"
         },
         {
           "id": "small-business-participation-percentage",
@@ -1334,13 +1347,17 @@
           "id": "under-cgt-small-business-relief",
           "title": "under CGT small business relief",
           "path": "under-cgt-small-business-relief.md"
+        },
+        {
+          "id": "under-cgt-small-business-relief",
+          "title": "under CGT small business relief",
+          "path": "under-cgt-small-business-relief.md"
         }
       ]
     },
     {
-      "id": "08",
-      "title": "Consolidated Groups",
-      "divisions": [],
+      "id": "ch-08",
+      "title": "Ch 08 — Consolidated Groups",
       "sections": [
         {
           "id": "adjustments-of-cost-setting-errors",
@@ -1418,9 +1435,9 @@
           "path": "overview-of-the-group-consolidation-regime.md"
         },
         {
-          "id": "o\ufb00sets",
-          "title": "o\ufb00sets",
-          "path": "o\ufb00sets.md"
+          "id": "oﬀsets",
+          "title": "oﬀsets",
+          "path": "oﬀsets.md"
         },
         {
           "id": "restructures-involving-mec-groups",
@@ -1455,9 +1472,8 @@
       ]
     },
     {
-      "id": "09",
-      "title": "Tax Accounting \u0442\u0410\u0432 Trading Stock",
-      "divisions": [],
+      "id": "ch-09",
+      "title": "Ch 09 — Tax Accounting тАв Trading Stock",
       "sections": [
         {
           "id": "cash-versus-accruals-basis",
@@ -1521,7 +1537,7 @@
         },
         {
           "id": "purchase-of-stock-not-at-arms-length",
-          "title": "Purchase of stock not at arm\u2019s length",
+          "title": "Purchase of stock not at arm's length",
           "path": "purchase-of-stock-not-at-arms-length.md"
         },
         {
@@ -1560,9 +1576,9 @@
           "path": "tax-accounting.md"
         },
         {
-          "id": "the-\ufb01nancial-year-and-the-income-year",
-          "title": "The \ufb01nancial year and the income year",
-          "path": "the-\ufb01nancial-year-and-the-income-year.md"
+          "id": "the-ﬁnancial-year-and-the-income-year",
+          "title": "The ﬁnancial year and the income year",
+          "path": "the-ﬁnancial-year-and-the-income-year.md"
         },
         {
           "id": "timing-of-income",
@@ -1612,9 +1628,8 @@
       ]
     },
     {
-      "id": "10",
-      "title": "Assessable Income \u0442\u0410\u0432 Tax Exemptions",
-      "divisions": [],
+      "id": "ch-10",
+      "title": "Ch 10 — Assessable Income тАв Tax Exemptions",
       "sections": [
         {
           "id": "accident-and-disability-policies",
@@ -1622,9 +1637,9 @@
           "path": "accident-and-disability-policies.md"
         },
         {
-          "id": "allowances-and-fringe-bene\ufb01ts",
-          "title": "Allowances and fringe bene\ufb01ts",
-          "path": "allowances-and-fringe-bene\ufb01ts.md"
+          "id": "allowances-and-fringe-beneﬁts",
+          "title": "Allowances and fringe beneﬁts",
+          "path": "allowances-and-fringe-beneﬁts.md"
         },
         {
           "id": "assessability-of-interest-income",
@@ -1687,9 +1702,9 @@
           "path": "classes-of-exempt-income.md"
         },
         {
-          "id": "compensation-for-loss-of-trading-stock-and-pro\ufb01ts",
-          "title": "Compensation for loss of trading stock and pro\ufb01ts",
-          "path": "compensation-for-loss-of-trading-stock-and-pro\ufb01ts.md"
+          "id": "compensation-for-loss-of-trading-stock-and-proﬁts",
+          "title": "Compensation for loss of trading stock and proﬁts",
+          "path": "compensation-for-loss-of-trading-stock-and-proﬁts.md"
         },
         {
           "id": "continuous-period-of-qualifying-service",
@@ -1818,7 +1833,7 @@
         },
         {
           "id": "interest-from-childrens-savings-accounts",
-          "title": "Interest from children\u2019s savings accounts",
+          "title": "Interest from children's savings accounts",
           "path": "interest-from-childrens-savings-accounts.md"
         },
         {
@@ -1918,7 +1933,7 @@
         },
         {
           "id": "pensions-similar-to-veterans-pensions",
-          "title": "Pensions similar to veterans\u2019 pensions",
+          "title": "Pensions similar to veterans' pensions",
           "path": "pensions-similar-to-veterans-pensions.md"
         },
         {
@@ -1932,19 +1947,19 @@
           "path": "prizes-and-awards.md"
         },
         {
-          "id": "pro\ufb01t-on-sale-of-leased-cars",
-          "title": "Pro\ufb01t on sale of leased cars",
-          "path": "pro\ufb01t-on-sale-of-leased-cars.md"
+          "id": "proﬁt-on-sale-of-leased-cars",
+          "title": "Proﬁt on sale of leased cars",
+          "path": "proﬁt-on-sale-of-leased-cars.md"
         },
         {
-          "id": "pro\ufb01t-on-sale-of-other-leased-equipment",
-          "title": "Pro\ufb01t on sale of other leased equipment",
-          "path": "pro\ufb01t-on-sale-of-other-leased-equipment.md"
+          "id": "proﬁt-on-sale-of-other-leased-equipment",
+          "title": "Proﬁt on sale of other leased equipment",
+          "path": "proﬁt-on-sale-of-other-leased-equipment.md"
         },
         {
-          "id": "pro\ufb01ts-from-sale-of-property",
-          "title": "Pro\ufb01ts from sale of property",
-          "path": "pro\ufb01ts-from-sale-of-property.md"
+          "id": "proﬁts-from-sale-of-property",
+          "title": "Proﬁts from sale of property",
+          "path": "proﬁts-from-sale-of-property.md"
         },
         {
           "id": "realisation-of-real-property",
@@ -1977,8 +1992,13 @@
           "path": "return-to-work-payments.md"
         },
         {
+          "id": "royalties",
+          "title": "Royalties",
+          "path": "royalties.md"
+        },
+        {
           "id": "services-on-approved-project",
-          "title": "Services on \u201capproved project\u201d",
+          "title": "Services on \"approved project\"",
           "path": "services-on-approved-project.md"
         },
         {
@@ -2022,9 +2042,9 @@
           "path": "venture-capital-investments.md"
         },
         {
-          "id": "veterans-pensions-and-similar-bene\ufb01ts",
-          "title": "Veterans\u2019 pensions and similar bene\ufb01ts",
-          "path": "veterans-pensions-and-similar-bene\ufb01ts.md"
+          "id": "veterans-pensions-and-similar-beneﬁts",
+          "title": "Veterans' pensions and similar beneﬁts",
+          "path": "veterans-pensions-and-similar-beneﬁts.md"
         },
         {
           "id": "voluntary-payments-or-gifts",
@@ -2049,9 +2069,8 @@
       ]
     },
     {
-      "id": "11",
-      "title": "Capital Gains Tax \u0442\u0410\u0432 General Topics",
-      "divisions": [],
+      "id": "ch-11",
+      "title": "Ch 11 — Capital Gains Tax тАв General Topics",
       "sections": [
         {
           "id": "acquisitions-without-a-cgt-event",
@@ -2084,9 +2103,9 @@
           "path": "cgt-and-consolidated-groups.md"
         },
         {
-          "id": "cgt-entitlements-under-the-\ufb01nancial-claims-scheme",
-          "title": "CGT: entitlements under the \ufb01nancial claims scheme",
-          "path": "cgt-entitlements-under-the-\ufb01nancial-claims-scheme.md"
+          "id": "cgt-entitlements-under-the-ﬁnancial-claims-scheme",
+          "title": "CGT: entitlements under the ﬁnancial claims scheme",
+          "path": "cgt-entitlements-under-the-ﬁnancial-claims-scheme.md"
         },
         {
           "id": "cgt-event-from-disposal-of-cgt-asset",
@@ -2139,9 +2158,9 @@
           "path": "cgt-exempt-or-capital-loss-denying-transactions.md"
         },
         {
-          "id": "cgt-exemption-for-granny-\ufb02at-arrangements",
-          "title": "CGT: Exemption for granny \ufb02at arrangements",
-          "path": "cgt-exemption-for-granny-\ufb02at-arrangements.md"
+          "id": "cgt-exemption-for-granny-ﬂat-arrangements",
+          "title": "CGT: Exemption for granny ﬂat arrangements",
+          "path": "cgt-exemption-for-granny-ﬂat-arrangements.md"
         },
         {
           "id": "cgt-exemption-for-pst-units",
@@ -2189,9 +2208,9 @@
           "path": "discount-capital-gains.md"
         },
         {
-          "id": "discount-for-qualifying-a\ufb00ordable-housing",
-          "title": "Discount for qualifying a\ufb00ordable housing",
-          "path": "discount-for-qualifying-a\ufb00ordable-housing.md"
+          "id": "discount-for-qualifying-aﬀordable-housing",
+          "title": "Discount for qualifying aﬀordable housing",
+          "path": "discount-for-qualifying-aﬀordable-housing.md"
         },
         {
           "id": "discount-percentage",
@@ -2199,9 +2218,9 @@
           "path": "discount-percentage.md"
         },
         {
-          "id": "di\ufb00erent-entity-makes-capital-gain-or-loss",
-          "title": "Di\ufb00erent entity makes capital gain or loss",
-          "path": "di\ufb00erent-entity-makes-capital-gain-or-loss.md"
+          "id": "diﬀerent-entity-makes-capital-gain-or-loss",
+          "title": "Diﬀerent entity makes capital gain or loss",
+          "path": "diﬀerent-entity-makes-capital-gain-or-loss.md"
         },
         {
           "id": "dwellings-acquired-from-deceased-estates",
@@ -2209,9 +2228,9 @@
           "path": "dwellings-acquired-from-deceased-estates.md"
         },
         {
-          "id": "exceptions-and-modi\ufb01cations-to-general-cgt-rules",
-          "title": "Exceptions and modi\ufb01cations to general CGT rules",
-          "path": "exceptions-and-modi\ufb01cations-to-general-cgt-rules.md"
+          "id": "exceptions-and-modiﬁcations-to-general-cgt-rules",
+          "title": "Exceptions and modiﬁcations to general CGT rules",
+          "path": "exceptions-and-modiﬁcations-to-general-cgt-rules.md"
         },
         {
           "id": "general-cgt-acquisition-rules",
@@ -2249,9 +2268,9 @@
           "path": "making-a-capital-gain-or-loss.md"
         },
         {
-          "id": "modi\ufb01cations-to-rules-for-capital-proceeds",
-          "title": "Modi\ufb01cations to rules for capital proceeds",
-          "path": "modi\ufb01cations-to-rules-for-capital-proceeds.md"
+          "id": "modiﬁcations-to-rules-for-capital-proceeds",
+          "title": "Modiﬁcations to rules for capital proceeds",
+          "path": "modiﬁcations-to-rules-for-capital-proceeds.md"
         },
         {
           "id": "net-capital-gain-assessable",
@@ -2319,9 +2338,9 @@
           "path": "reduced-cost-base.md"
         },
         {
-          "id": "replacement-asset-roll-over-modi\ufb01cations",
-          "title": "Replacement-asset roll-over modi\ufb01cations",
-          "path": "replacement-asset-roll-over-modi\ufb01cations.md"
+          "id": "replacement-asset-roll-over-modiﬁcations",
+          "title": "Replacement-asset roll-over modiﬁcations",
+          "path": "replacement-asset-roll-over-modiﬁcations.md"
         },
         {
           "id": "rules-extending-main-residence-exemption",
@@ -2334,9 +2353,9 @@
           "path": "rules-limiting-main-residence-exemption.md"
         },
         {
-          "id": "same-asset-roll-over-modi\ufb01cations",
-          "title": "Same-asset roll-over modi\ufb01cations",
-          "path": "same-asset-roll-over-modi\ufb01cations.md"
+          "id": "same-asset-roll-over-modiﬁcations",
+          "title": "Same-asset roll-over modiﬁcations",
+          "path": "same-asset-roll-over-modiﬁcations.md"
         },
         {
           "id": "separate-cgt-assets",
@@ -2354,14 +2373,14 @@
           "path": "special-cgt-rules-for-partnerships.md"
         },
         {
-          "id": "speci\ufb01c-cgt-acquisition-rules",
-          "title": "Speci\ufb01c CGT acquisition rules",
-          "path": "speci\ufb01c-cgt-acquisition-rules.md"
+          "id": "speciﬁc-cgt-acquisition-rules",
+          "title": "Speciﬁc CGT acquisition rules",
+          "path": "speciﬁc-cgt-acquisition-rules.md"
         },
         {
-          "id": "speci\ufb01c-rules-for-capital-proceeds",
-          "title": "Speci\ufb01c rules for capital proceeds",
-          "path": "speci\ufb01c-rules-for-capital-proceeds.md"
+          "id": "speciﬁc-rules-for-capital-proceeds",
+          "title": "Speciﬁc rules for capital proceeds",
+          "path": "speciﬁc-rules-for-capital-proceeds.md"
         },
         {
           "id": "taxpayers-exempt-from-cgt",
@@ -2386,14 +2405,18 @@
       ]
     },
     {
-      "id": "12",
-      "title": "Capital Gains Tax \u0442\u0410\u0432 Special Topics",
-      "divisions": [],
+      "id": "ch-12",
+      "title": "Ch 12 — Capital Gains Tax тАв Special Topics",
       "sections": [
         {
           "id": "assets-of-a-business",
           "title": "assets of a business",
           "path": "assets-of-a-business.md"
+        },
+        {
+          "id": "breakdown",
+          "title": "breakdown",
+          "path": "breakdown.md"
         },
         {
           "id": "breakdown",
@@ -2441,9 +2464,9 @@
           "path": "cgt-consequences-of-share-buy-backs.md"
         },
         {
-          "id": "cgt-cost-base-modi\ufb01cations-for-leases",
-          "title": "CGT cost base modi\ufb01cations for leases",
-          "path": "cgt-cost-base-modi\ufb01cations-for-leases.md"
+          "id": "cgt-cost-base-modiﬁcations-for-leases",
+          "title": "CGT cost base modiﬁcations for leases",
+          "path": "cgt-cost-base-modiﬁcations-for-leases.md"
         },
         {
           "id": "cgt-implications-for-exchangeable-interests",
@@ -2471,9 +2494,9 @@
           "path": "cgt-roll-over.md"
         },
         {
-          "id": "cgt-roll-over-for-assets-between-\ufb01xed-trusts",
-          "title": "CGT roll-over for assets between \ufb01xed trusts",
-          "path": "cgt-roll-over-for-assets-between-\ufb01xed-trusts.md"
+          "id": "cgt-roll-over-for-assets-between-ﬁxed-trusts",
+          "title": "CGT roll-over for assets between ﬁxed trusts",
+          "path": "cgt-roll-over-for-assets-between-ﬁxed-trusts.md"
         },
         {
           "id": "cgt-roll-over-for-business-restructures",
@@ -2626,6 +2649,16 @@
           "path": "involuntary-event.md"
         },
         {
+          "id": "involuntary-event",
+          "title": "involuntary event",
+          "path": "involuntary-event.md"
+        },
+        {
+          "id": "involuntary-event",
+          "title": "involuntary event",
+          "path": "involuntary-event.md"
+        },
+        {
           "id": "liquidated",
           "title": "liquidated",
           "path": "liquidated.md"
@@ -2661,9 +2694,9 @@
           "path": "taxable-australian-property-for-cgt-purposes.md"
         },
         {
-          "id": "types-and-e\ufb00ect-of-cgt-roll-over-of-asset",
-          "title": "Types and e\ufb00ect of CGT roll-over of asset",
-          "path": "types-and-e\ufb00ect-of-cgt-roll-over-of-asset.md"
+          "id": "types-and-eﬀect-of-cgt-roll-over-of-asset",
+          "title": "Types and eﬀect of CGT roll-over of asset",
+          "path": "types-and-eﬀect-of-cgt-roll-over-of-asset.md"
         },
         {
           "id": "when-cgt-roll-over-is-available",
@@ -2683,19 +2716,18 @@
       ]
     },
     {
-      "id": "13",
-      "title": "Superannuation Funds \u0442\u0410\u0432 Contributions",
-      "divisions": [],
+      "id": "ch-13",
+      "title": "Ch 13 — Superannuation Funds тАв Contributions",
       "sections": [
         {
-          "id": "acceptance-of-contributions-and-bene\ufb01t-accruals",
-          "title": "Acceptance of contributions and bene\ufb01t accruals",
-          "path": "acceptance-of-contributions-and-bene\ufb01t-accruals.md"
+          "id": "acceptance-of-contributions-and-beneﬁt-accruals",
+          "title": "Acceptance of contributions and beneﬁt accruals",
+          "path": "acceptance-of-contributions-and-beneﬁt-accruals.md"
         },
         {
-          "id": "accessing-superannuation-bene\ufb01ts",
-          "title": "Accessing superannuation bene\ufb01ts",
-          "path": "accessing-superannuation-bene\ufb01ts.md"
+          "id": "accessing-superannuation-beneﬁts",
+          "title": "Accessing superannuation beneﬁts",
+          "path": "accessing-superannuation-beneﬁts.md"
         },
         {
           "id": "adfs-psts-and-rsas",
@@ -2729,17 +2761,17 @@
         },
         {
           "id": "deduction-contributions-by-employers",
-          "title": "Deduction \u2014 contributions by employers",
+          "title": "Deduction — contributions by employers",
           "path": "deduction-contributions-by-employers.md"
         },
         {
           "id": "deduction-personal-superannuation-contributions",
-          "title": "Deduction \u2014 personal superannuation contributions",
+          "title": "Deduction — personal superannuation contributions",
           "path": "deduction-personal-superannuation-contributions.md"
         },
         {
           "id": "excess-concessional-contributions-assessment",
-          "title": "Excess concessional contributions \u2014 assessment",
+          "title": "Excess concessional contributions — assessment",
           "path": "excess-concessional-contributions-assessment.md"
         },
         {
@@ -2768,9 +2800,9 @@
           "path": "individuals.md"
         },
         {
-          "id": "low-income-superannuation-tax-o\ufb00set",
-          "title": "Low income superannuation tax o\ufb00set",
-          "path": "low-income-superannuation-tax-o\ufb00set.md"
+          "id": "low-income-superannuation-tax-oﬀset",
+          "title": "Low income superannuation tax oﬀset",
+          "path": "low-income-superannuation-tax-oﬀset.md"
         },
         {
           "id": "making-covid-19-re-contributions",
@@ -2789,7 +2821,7 @@
         },
         {
           "id": "meaning-of-contribution-to-a-superannuation-fund",
-          "title": "Meaning of \u201ccontribution\u201d to a superannuation fund",
+          "title": "Meaning of \"contribution\" to a superannuation fund",
           "path": "meaning-of-contribution-to-a-superannuation-fund.md"
         },
         {
@@ -2803,9 +2835,9 @@
           "path": "self-managed-superannuation-funds.md"
         },
         {
-          "id": "spouse-contributions-tax-o\ufb00set",
-          "title": "Spouse contributions tax o\ufb00set",
-          "path": "spouse-contributions-tax-o\ufb00set.md"
+          "id": "spouse-contributions-tax-oﬀset",
+          "title": "Spouse contributions tax oﬀset",
+          "path": "spouse-contributions-tax-oﬀset.md"
         },
         {
           "id": "superannuation-fund-tax-returns-and-assessments",
@@ -2819,17 +2851,17 @@
         },
         {
           "id": "superannuation-funds-allowable-deductions",
-          "title": "Superannuation funds \u2014 allowable deductions",
+          "title": "Superannuation funds — allowable deductions",
           "path": "superannuation-funds-allowable-deductions.md"
         },
         {
           "id": "superannuation-funds-capital-gains-or-losses",
-          "title": "Superannuation funds \u2014 capital gains or losses",
+          "title": "Superannuation funds — capital gains or losses",
           "path": "superannuation-funds-capital-gains-or-losses.md"
         },
         {
           "id": "superannuation-funds-non-arms-length-income",
-          "title": "Superannuation funds \u2014 non-arm\u2019s length income",
+          "title": "Superannuation funds — non-arm's length income",
           "path": "superannuation-funds-non-arms-length-income.md"
         },
         {
@@ -2920,9 +2952,8 @@
       ]
     },
     {
-      "id": "14",
-      "title": "Superannuation Benefits \u0442\u0410\u0432 Termination Payments",
-      "divisions": [],
+      "id": "ch-14",
+      "title": "Ch 14 — Superannuation Benefits тАв Termination Payments",
       "sections": [
         {
           "id": "authority",
@@ -2930,24 +2961,29 @@
           "path": "authority.md"
         },
         {
-          "id": "bene\ufb01ts-from-australian-superannuation-funds",
-          "title": "Bene\ufb01ts from Australian superannuation funds",
-          "path": "bene\ufb01ts-from-australian-superannuation-funds.md"
+          "id": "beneﬁts-from-australian-superannuation-funds",
+          "title": "Beneﬁts from Australian superannuation funds",
+          "path": "beneﬁts-from-australian-superannuation-funds.md"
         },
         {
-          "id": "bene\ufb01ts-from-foreign-superannuation-funds",
-          "title": "Bene\ufb01ts from foreign superannuation funds",
-          "path": "bene\ufb01ts-from-foreign-superannuation-funds.md"
+          "id": "beneﬁts-from-foreign-superannuation-funds",
+          "title": "Beneﬁts from foreign superannuation funds",
+          "path": "beneﬁts-from-foreign-superannuation-funds.md"
         },
         {
-          "id": "bene\ufb01ts-paid-in-breach-of-rules",
-          "title": "Bene\ufb01ts paid in breach of rules",
-          "path": "bene\ufb01ts-paid-in-breach-of-rules.md"
+          "id": "beneﬁts-paid-in-breach-of-rules",
+          "title": "Beneﬁts paid in breach of rules",
+          "path": "beneﬁts-paid-in-breach-of-rules.md"
         },
         {
-          "id": "bene\ufb01ts-paid-in-particular-circumstances",
-          "title": "Bene\ufb01ts paid in particular circumstances",
-          "path": "bene\ufb01ts-paid-in-particular-circumstances.md"
+          "id": "beneﬁts-paid-in-particular-circumstances",
+          "title": "Beneﬁts paid in particular circumstances",
+          "path": "beneﬁts-paid-in-particular-circumstances.md"
+        },
+        {
+          "id": "death-beneﬁt-termination-payments",
+          "title": "Death beneﬁt termination payments",
+          "path": "death-beneﬁt-termination-payments.md"
         },
         {
           "id": "early-retirement-scheme-payments",
@@ -2960,9 +2996,9 @@
           "path": "excess-transfer-balance-tax.md"
         },
         {
-          "id": "e\ufb00ect-of-exceeding-the-de\ufb01ned-bene\ufb01t-income-cap",
-          "title": "E\ufb00ect of exceeding the de\ufb01ned bene\ufb01t income cap",
-          "path": "e\ufb00ect-of-exceeding-the-de\ufb01ned-bene\ufb01t-income-cap.md"
+          "id": "eﬀect-of-exceeding-the-deﬁned-beneﬁt-income-cap",
+          "title": "Eﬀect of exceeding the deﬁned beneﬁt income cap",
+          "path": "eﬀect-of-exceeding-the-deﬁned-beneﬁt-income-cap.md"
         },
         {
           "id": "foreign-termination-payments",
@@ -2980,9 +3016,9 @@
           "path": "invalidity-segment.md"
         },
         {
-          "id": "modi\ufb01cations-for-child-bene\ufb01t-recipients",
-          "title": "Modi\ufb01cations for child bene\ufb01t recipients",
-          "path": "modi\ufb01cations-for-child-bene\ufb01t-recipients.md"
+          "id": "modiﬁcations-for-child-beneﬁt-recipients",
+          "title": "Modiﬁcations for child beneﬁt recipients",
+          "path": "modiﬁcations-for-child-beneﬁt-recipients.md"
         },
         {
           "id": "payments-from-a-complying-plan",
@@ -3010,33 +3046,38 @@
           "path": "standards.md"
         },
         {
+          "id": "superannuation-death-beneﬁts",
+          "title": "Superannuation death beneﬁts",
+          "path": "superannuation-death-beneﬁts.md"
+        },
+        {
           "id": "superannuation-lump-sums-and-income-streams",
           "title": "Superannuation lump sums and income streams",
           "path": "superannuation-lump-sums-and-income-streams.md"
         },
         {
-          "id": "tax-free-component-of-a-superannuation-bene\ufb01t",
-          "title": "Tax free component of a superannuation bene\ufb01t",
-          "path": "tax-free-component-of-a-superannuation-bene\ufb01t.md"
+          "id": "tax-free-component-of-a-superannuation-beneﬁt",
+          "title": "Tax free component of a superannuation beneﬁt",
+          "path": "tax-free-component-of-a-superannuation-beneﬁt.md"
         },
         {
-          "id": "taxable-component-of-a-superannuation-bene\ufb01t",
-          "title": "Taxable component of a superannuation bene\ufb01t",
-          "path": "taxable-component-of-a-superannuation-bene\ufb01t.md"
+          "id": "taxable-component-of-a-superannuation-beneﬁt",
+          "title": "Taxable component of a superannuation beneﬁt",
+          "path": "taxable-component-of-a-superannuation-beneﬁt.md"
         },
         {
-          "id": "taxation-of-life-bene\ufb01t-termination-payments",
-          "title": "Taxation of life bene\ufb01t termination payments",
-          "path": "taxation-of-life-bene\ufb01t-termination-payments.md"
+          "id": "taxation-of-life-beneﬁt-termination-payments",
+          "title": "Taxation of life beneﬁt termination payments",
+          "path": "taxation-of-life-beneﬁt-termination-payments.md"
         },
         {
-          "id": "taxation-of-superannuation-death-bene\ufb01ts",
-          "title": "Taxation of superannuation death bene\ufb01ts",
-          "path": "taxation-of-superannuation-death-bene\ufb01ts.md"
+          "id": "taxation-of-superannuation-death-beneﬁts",
+          "title": "Taxation of superannuation death beneﬁts",
+          "path": "taxation-of-superannuation-death-beneﬁts.md"
         },
         {
           "id": "transfer-balance-account-credits-and-debits",
-          "title": "Transfer balance account \u2014 credits and debits",
+          "title": "Transfer balance account — credits and debits",
           "path": "transfer-balance-account-credits-and-debits.md"
         },
         {
@@ -3060,9 +3101,9 @@
           "path": "unused-long-service-leave-payments.md"
         },
         {
-          "id": "what-is-a-superannuation-bene\ufb01t",
-          "title": "What is a superannuation bene\ufb01t?",
-          "path": "what-is-a-superannuation-bene\ufb01t.md"
+          "id": "what-is-a-superannuation-beneﬁt",
+          "title": "What is a superannuation beneﬁt?",
+          "path": "what-is-a-superannuation-beneﬁt.md"
         },
         {
           "id": "what-is-an-employment-termination-payment",
@@ -3072,9 +3113,8 @@
       ]
     },
     {
-      "id": "15",
-      "title": "Personal Tax Offsets",
-      "divisions": [],
+      "id": "ch-15",
+      "title": "Ch 15 — Personal Tax Offsets",
       "sections": [
         {
           "id": "civilians-serving-with-un-forces",
@@ -3082,14 +3122,14 @@
           "path": "civilians-serving-with-un-forces.md"
         },
         {
-          "id": "dependant-invalid-and-carer-tax-o\ufb00set",
-          "title": "Dependant (Invalid and Carer) Tax O\ufb00set",
-          "path": "dependant-invalid-and-carer-tax-o\ufb00set.md"
+          "id": "dependant-invalid-and-carer-tax-oﬀset",
+          "title": "Dependant (Invalid and Carer) Tax Oﬀset",
+          "path": "dependant-invalid-and-carer-tax-oﬀset.md"
         },
         {
-          "id": "de\ufb01nitions-of-dependant-for-dicto",
-          "title": "De\ufb01nitions of dependant for DICTO",
-          "path": "de\ufb01nitions-of-dependant-for-dicto.md"
+          "id": "deﬁnitions-of-dependant-for-dicto",
+          "title": "Deﬁnitions of dependant for DICTO",
+          "path": "deﬁnitions-of-dependant-for-dicto.md"
         },
         {
           "id": "income-received-in-arrears",
@@ -3097,14 +3137,14 @@
           "path": "income-received-in-arrears.md"
         },
         {
-          "id": "income-test-for-certain-tax-o\ufb00sets",
-          "title": "Income test for certain tax o\ufb00sets",
-          "path": "income-test-for-certain-tax-o\ufb00sets.md"
+          "id": "income-test-for-certain-tax-oﬀsets",
+          "title": "Income test for certain tax oﬀsets",
+          "path": "income-test-for-certain-tax-oﬀsets.md"
         },
         {
-          "id": "medicare-levy-surcharge-lump-sum-arrears-o\ufb00set",
-          "title": "Medicare levy surcharge lump sum arrears o\ufb00set",
-          "path": "medicare-levy-surcharge-lump-sum-arrears-o\ufb00set.md"
+          "id": "medicare-levy-surcharge-lump-sum-arrears-oﬀset",
+          "title": "Medicare levy surcharge lump sum arrears oﬀset",
+          "path": "medicare-levy-surcharge-lump-sum-arrears-oﬀset.md"
         },
         {
           "id": "overseas-defence-forces-rebate",
@@ -3112,39 +3152,39 @@
           "path": "overseas-defence-forces-rebate.md"
         },
         {
-          "id": "o\ufb00set-for-private-health-insurance",
-          "title": "O\ufb00set for private health insurance",
-          "path": "o\ufb00set-for-private-health-insurance.md"
+          "id": "oﬀset-for-private-health-insurance",
+          "title": "Oﬀset for private health insurance",
+          "path": "oﬀset-for-private-health-insurance.md"
         },
         {
-          "id": "o\ufb00sets-for-low-and-middle-income-taxpayers",
-          "title": "O\ufb00sets for low and middle income taxpayers",
-          "path": "o\ufb00sets-for-low-and-middle-income-taxpayers.md"
+          "id": "oﬀsets-for-low-and-middle-income-taxpayers",
+          "title": "Oﬀsets for low and middle income taxpayers",
+          "path": "oﬀsets-for-low-and-middle-income-taxpayers.md"
         },
         {
-          "id": "personal-tax-o\ufb00sets-priority-rules",
-          "title": "Personal tax o\ufb00sets priority rules",
-          "path": "personal-tax-o\ufb00sets-priority-rules.md"
+          "id": "personal-tax-oﬀsets-priority-rules",
+          "title": "Personal tax oﬀsets priority rules",
+          "path": "personal-tax-oﬀsets-priority-rules.md"
         },
         {
-          "id": "recipients-of-social-security-bene\ufb01ts-and-allowances",
-          "title": "Recipients of social security bene\ufb01ts and allowances",
-          "path": "recipients-of-social-security-bene\ufb01ts-and-allowances.md"
+          "id": "recipients-of-social-security-beneﬁts-and-allowances",
+          "title": "Recipients of social security beneﬁts and allowances",
+          "path": "recipients-of-social-security-beneﬁts-and-allowances.md"
         },
         {
-          "id": "senior-australians-and-pensioners-tax-o\ufb00set",
-          "title": "Senior Australians and pensioners tax o\ufb00set",
-          "path": "senior-australians-and-pensioners-tax-o\ufb00set.md"
+          "id": "senior-australians-and-pensioners-tax-oﬀset",
+          "title": "Senior Australians and pensioners tax oﬀset",
+          "path": "senior-australians-and-pensioners-tax-oﬀset.md"
         },
         {
-          "id": "tax-o\ufb00set-\ufb01nding-table",
-          "title": "Tax o\ufb00set \ufb01nding table",
-          "path": "tax-o\ufb00set-\ufb01nding-table.md"
+          "id": "tax-oﬀset-ﬁnding-table",
+          "title": "Tax oﬀset ﬁnding table",
+          "path": "tax-oﬀset-ﬁnding-table.md"
         },
         {
-          "id": "what-is-a-personal-tax-o\ufb00set",
-          "title": "What is a personal tax o\ufb00set?",
-          "path": "what-is-a-personal-tax-o\ufb00set.md"
+          "id": "what-is-a-personal-tax-oﬀset",
+          "title": "What is a personal tax oﬀset?",
+          "path": "what-is-a-personal-tax-oﬀset.md"
         },
         {
           "id": "zone-rebate-for-residents-of-isolated-areas",
@@ -3154,9 +3194,8 @@
       ]
     },
     {
-      "id": "16",
-      "title": "Business, Employment and Investment Deductions \u0442\u0410\u0432 Gifts",
-      "divisions": [],
+      "id": "ch-16",
+      "title": "Ch 16 — Business, Employment and Investment Deductions тАв Gifts",
       "sections": [
         {
           "id": "acquisitions",
@@ -3299,9 +3338,9 @@
           "path": "deductions-for-covid-19-test-expenses.md"
         },
         {
-          "id": "deductions-for-home-o\ufb03ce-expenses",
-          "title": "Deductions for home o\ufb03ce expenses",
-          "path": "deductions-for-home-o\ufb03ce-expenses.md"
+          "id": "deductions-for-home-oﬃce-expenses",
+          "title": "Deductions for home oﬃce expenses",
+          "path": "deductions-for-home-oﬃce-expenses.md"
         },
         {
           "id": "deductions-for-insurance-premiums",
@@ -3315,7 +3354,7 @@
         },
         {
           "id": "deductions-for-key-person-insurance-premiums",
-          "title": "Deductions for \u201ckey-person\u201d insurance premiums",
+          "title": "Deductions for \"key-person\" insurance premiums",
           "path": "deductions-for-key-person-insurance-premiums.md"
         },
         {
@@ -3369,9 +3408,9 @@
           "path": "deductions-for-taxpayers-in-special-occupations.md"
         },
         {
-          "id": "deductions-for-\ufb01nes-and-breaches-of-law",
-          "title": "Deductions for \ufb01nes and breaches of law",
-          "path": "deductions-for-\ufb01nes-and-breaches-of-law.md"
+          "id": "deductions-for-ﬁnes-and-breaches-of-law",
+          "title": "Deductions for ﬁnes and breaches of law",
+          "path": "deductions-for-ﬁnes-and-breaches-of-law.md"
         },
         {
           "id": "double-deductions",
@@ -3449,9 +3488,9 @@
           "path": "expenses-on-commencement-of-business.md"
         },
         {
-          "id": "e\ufb00ect-of-gst-on-deductions",
-          "title": "E\ufb00ect of GST on deductions",
-          "path": "e\ufb00ect-of-gst-on-deductions.md"
+          "id": "eﬀect-of-gst-on-deductions",
+          "title": "Eﬀect of GST on deductions",
+          "path": "eﬀect-of-gst-on-deductions.md"
         },
         {
           "id": "fees-paid-to-social-and-sporting-clubs",
@@ -3479,9 +3518,9 @@
           "path": "gifts-of-2-or-more-deductible.md"
         },
         {
-          "id": "gifts-of-national-heritage-signi\ufb01cance",
-          "title": "Gifts of national heritage signi\ufb01cance",
-          "path": "gifts-of-national-heritage-signi\ufb01cance.md"
+          "id": "gifts-of-national-heritage-signiﬁcance",
+          "title": "Gifts of national heritage signiﬁcance",
+          "path": "gifts-of-national-heritage-signiﬁcance.md"
         },
         {
           "id": "gifts-of-trading-stock",
@@ -3559,9 +3598,9 @@
           "path": "losses-from-share-trading-schemes.md"
         },
         {
-          "id": "non-deductible-non-cash-business-bene\ufb01ts",
-          "title": "Non-deductible non-cash business bene\ufb01ts",
-          "path": "non-deductible-non-cash-business-bene\ufb01ts.md"
+          "id": "non-deductible-non-cash-business-beneﬁts",
+          "title": "Non-deductible non-cash business beneﬁts",
+          "path": "non-deductible-non-cash-business-beneﬁts.md"
         },
         {
           "id": "occupational-clothing-and-protective-gear",
@@ -3605,7 +3644,7 @@
         },
         {
           "id": "rental-property-landlord-or-lessor-expenses",
-          "title": "Rental property \u2014 landlord or lessor expenses",
+          "title": "Rental property — landlord or lessor expenses",
           "path": "rental-property-landlord-or-lessor-expenses.md"
         },
         {
@@ -3614,9 +3653,9 @@
           "path": "revenue-vs-capital-outgoings-and-losses.md"
         },
         {
-          "id": "salaries-wages-directors-fees-fringe-bene\ufb01ts",
-          "title": "Salaries, wages, directors\u2019 fees, fringe bene\ufb01ts",
-          "path": "salaries-wages-directors-fees-fringe-bene\ufb01ts.md"
+          "id": "salaries-wages-directors-fees-fringe-beneﬁts",
+          "title": "Salaries, wages, directors' fees, fringe beneﬁts",
+          "path": "salaries-wages-directors-fees-fringe-beneﬁts.md"
         },
         {
           "id": "scope-of-this-deductions-chapter",
@@ -3629,9 +3668,9 @@
           "path": "some-telephone-and-internet-expenses-deductible.md"
         },
         {
-          "id": "speci\ufb01c-recipients-of-tax-deductible-gifts",
-          "title": "Speci\ufb01c recipients of tax-deductible gifts",
-          "path": "speci\ufb01c-recipients-of-tax-deductible-gifts.md"
+          "id": "speciﬁc-recipients-of-tax-deductible-gifts",
+          "title": "Speciﬁc recipients of tax-deductible gifts",
+          "path": "speciﬁc-recipients-of-tax-deductible-gifts.md"
         },
         {
           "id": "substantiation-of-overseas-and-domestic-travel",
@@ -3660,7 +3699,7 @@
         },
         {
           "id": "tenants-or-lessees-expenses",
-          "title": "Tenant\u2019s or lessee\u2019s expenses",
+          "title": "Tenant's or lessee's expenses",
           "path": "tenants-or-lessees-expenses.md"
         },
         {
@@ -3680,7 +3719,7 @@
         },
         {
           "id": "what-constitutes-a-gift",
-          "title": "What constitutes a \u201cgift\u201d?",
+          "title": "What constitutes a \"gift\"?",
           "path": "what-constitutes-a-gift.md"
         },
         {
@@ -3695,7 +3734,7 @@
         },
         {
           "id": "when-is-interest-incurred",
-          "title": "When is interest \u201cincurred\u201d?",
+          "title": "When is interest \"incurred\"?",
           "path": "when-is-interest-incurred.md"
         },
         {
@@ -3706,9 +3745,8 @@
       ]
     },
     {
-      "id": "17",
-      "title": "Depreciating Assets",
-      "divisions": [],
+      "id": "ch-17",
+      "title": "Ch 17 — Depreciating Assets",
       "sections": [
         {
           "id": "adjustable-value-of-depreciating-asset",
@@ -3796,9 +3834,9 @@
           "path": "depreciation-of-rd-assets.md"
         },
         {
-          "id": "de\ufb01nition-of-market-value",
-          "title": "De\ufb01nition of market value",
-          "path": "de\ufb01nition-of-market-value.md"
+          "id": "deﬁnition-of-market-value",
+          "title": "Deﬁnition of market value",
+          "path": "deﬁnition-of-market-value.md"
         },
         {
           "id": "diminishing-value-method",
@@ -3811,9 +3849,9 @@
           "path": "excluded-assets-for-capital-allowances.md"
         },
         {
-          "id": "e\ufb00ective-life-of-depreciating-asset",
-          "title": "E\ufb00ective life of depreciating asset",
-          "path": "e\ufb00ective-life-of-depreciating-asset.md"
+          "id": "eﬀective-life-of-depreciating-asset",
+          "title": "Eﬀective life of depreciating asset",
+          "path": "eﬀective-life-of-depreciating-asset.md"
         },
         {
           "id": "first-element-of-cost-of-depreciating-asset",
@@ -3826,9 +3864,9 @@
           "path": "holder-of-depreciating-asset-entitled-to-deduction.md"
         },
         {
-          "id": "low-cost-assets-and-immediate-write-o\ufb00s",
-          "title": "Low-cost assets and immediate write-o\ufb00s",
-          "path": "low-cost-assets-and-immediate-write-o\ufb00s.md"
+          "id": "low-cost-assets-and-immediate-write-oﬀs",
+          "title": "Low-cost assets and immediate write-oﬀs",
+          "path": "low-cost-assets-and-immediate-write-oﬀs.md"
         },
         {
           "id": "low-value-depreciating-asset-pools",
@@ -3842,7 +3880,7 @@
         },
         {
           "id": "non-arms-length-dealings-and-capital-allowances",
-          "title": "Non-arm\u2019s length dealings and capital allowances",
+          "title": "Non-arm's length dealings and capital allowances",
           "path": "non-arms-length-dealings-and-capital-allowances.md"
         },
         {
@@ -3851,9 +3889,9 @@
           "path": "overview-of-uniform-capital-allowance-system.md"
         },
         {
-          "id": "o\ufb00setting-balancing-charge-for-involuntary-disposals",
-          "title": "O\ufb00setting balancing charge for involuntary disposals",
-          "path": "o\ufb00setting-balancing-charge-for-involuntary-disposals.md"
+          "id": "oﬀsetting-balancing-charge-for-involuntary-disposals",
+          "title": "Oﬀsetting balancing charge for involuntary disposals",
+          "path": "oﬀsetting-balancing-charge-for-involuntary-disposals.md"
         },
         {
           "id": "part-year-use-of-depreciating-asset",
@@ -3886,9 +3924,9 @@
           "path": "second-element-of-cost-of-depreciating-asset.md"
         },
         {
-          "id": "small-business-simpli\ufb01ed-depreciation-rules",
-          "title": "Small business simpli\ufb01ed depreciation rules",
-          "path": "small-business-simpli\ufb01ed-depreciation-rules.md"
+          "id": "small-business-simpliﬁed-depreciation-rules",
+          "title": "Small business simpliﬁed depreciation rules",
+          "path": "small-business-simpliﬁed-depreciation-rules.md"
         },
         {
           "id": "special-balancing-adjustment-rules-for-certain-cars",
@@ -3896,9 +3934,9 @@
           "path": "special-balancing-adjustment-rules-for-certain-cars.md"
         },
         {
-          "id": "statutory-e\ufb00ective-life-of-depreciating-asset",
-          "title": "Statutory e\ufb00ective life of depreciating asset",
-          "path": "statutory-e\ufb00ective-life-of-depreciating-asset.md"
+          "id": "statutory-eﬀective-life-of-depreciating-asset",
+          "title": "Statutory eﬀective life of depreciating asset",
+          "path": "statutory-eﬀective-life-of-depreciating-asset.md"
         },
         {
           "id": "termination-value-of-depreciating-assets",
@@ -3908,9 +3946,8 @@
       ]
     },
     {
-      "id": "18",
-      "title": "Primary Production Concessions",
-      "divisions": [],
+      "id": "ch-18",
+      "title": "Ch 18 — Primary Production Concessions",
       "sections": [
         {
           "id": "carrying-on-a-primary-production-business",
@@ -3929,13 +3966,13 @@
         },
         {
           "id": "example-averaging-adjustment-extra-income-tax",
-          "title": "Example: averaging adjustment \u2014 extra income tax",
+          "title": "Example: averaging adjustment — extra income tax",
           "path": "example-averaging-adjustment-extra-income-tax.md"
         },
         {
-          "id": "example-averaging-adjustment-tax-o\ufb00set",
-          "title": "Example: averaging adjustment \u2014 tax o\ufb00set",
-          "path": "example-averaging-adjustment-tax-o\ufb00set.md"
+          "id": "example-averaging-adjustment-tax-oﬀset",
+          "title": "Example: averaging adjustment — tax oﬀset",
+          "path": "example-averaging-adjustment-tax-oﬀset.md"
         },
         {
           "id": "farm-management-deposits-eligibility-rules",
@@ -3984,7 +4021,7 @@
         },
         {
           "id": "meaning-of-primary-production-business",
-          "title": "Meaning of \u201cprimary production business\u201d",
+          "title": "Meaning of \"primary production business\"",
           "path": "meaning-of-primary-production-business.md"
         },
         {
@@ -3998,9 +4035,9 @@
           "path": "primary-production-abnormal-receipts.md"
         },
         {
-          "id": "pro\ufb01t-from-forced-disposal-or-death-of-live-stock",
-          "title": "Pro\ufb01t from forced disposal or death of live stock",
-          "path": "pro\ufb01t-from-forced-disposal-or-death-of-live-stock.md"
+          "id": "proﬁt-from-forced-disposal-or-death-of-live-stock",
+          "title": "Proﬁt from forced disposal or death of live stock",
+          "path": "proﬁt-from-forced-disposal-or-death-of-live-stock.md"
         },
         {
           "id": "summary-of-primary-production-concessions",
@@ -4045,14 +4082,13 @@
       ]
     },
     {
-      "id": "19",
-      "title": "Mining \u0442\u0410\u0432 Infrastructure \u0442\u0410\u0432 Environmental Protection",
-      "divisions": [],
+      "id": "ch-19",
+      "title": "Ch 19 — Mining тАв Infrastructure тАв Environmental Protection",
       "sections": [
         {
-          "id": "bene\ufb01ts",
-          "title": "bene\ufb01ts",
-          "path": "bene\ufb01ts.md"
+          "id": "beneﬁts",
+          "title": "beneﬁts",
+          "path": "beneﬁts.md"
         },
         {
           "id": "carbon-sink-forests",
@@ -4122,9 +4158,8 @@
       ]
     },
     {
-      "id": "20",
-      "title": "R&D \u0442\u0410\u0432 Films \u0442\u0410\u0432 Digital Games \u0442\u0410\u0432 Capital Works \u0442\u0410\u0432 NRAS \u0442\u0410\u0432 Innovation Incentives",
-      "divisions": [],
+      "id": "ch-20",
+      "title": "Ch 20 — R&D тАв Films тАв Digital Games тАв Capital Works тАв NRAS тАв Innovation Incentives",
       "sections": [
         {
           "id": "actual-use-and-intended-use-of-capital-works",
@@ -4132,9 +4167,9 @@
           "path": "actual-use-and-intended-use-of-capital-works.md"
         },
         {
-          "id": "amount-of-the-digital-games-tax-o\ufb00set",
-          "title": "Amount of the digital games tax o\ufb00set",
-          "path": "amount-of-the-digital-games-tax-o\ufb00set.md"
+          "id": "amount-of-the-digital-games-tax-oﬀset",
+          "title": "Amount of the digital games tax oﬀset",
+          "path": "amount-of-the-digital-games-tax-oﬀset.md"
         },
         {
           "id": "available-tax-incentives",
@@ -4177,9 +4212,9 @@
           "path": "deductions-for-capital-works-expenditure.md"
         },
         {
-          "id": "digital-games-tax-o\ufb00set",
-          "title": "Digital games tax o\ufb00set",
-          "path": "digital-games-tax-o\ufb00set.md"
+          "id": "digital-games-tax-oﬀset",
+          "title": "Digital games tax oﬀset",
+          "path": "digital-games-tax-oﬀset.md"
         },
         {
           "id": "film-concessions",
@@ -4187,9 +4222,9 @@
           "path": "film-concessions.md"
         },
         {
-          "id": "location-o\ufb00set",
-          "title": "Location o\ufb00set",
-          "path": "location-o\ufb00set.md"
+          "id": "location-oﬀset",
+          "title": "Location oﬀset",
+          "path": "location-oﬀset.md"
         },
         {
           "id": "meaning-of-digital-game",
@@ -4197,9 +4232,9 @@
           "path": "meaning-of-digital-game.md"
         },
         {
-          "id": "nras-refundable-tax-o\ufb00set",
-          "title": "NRAS refundable tax o\ufb00set",
-          "path": "nras-refundable-tax-o\ufb00set.md"
+          "id": "nras-refundable-tax-oﬀset",
+          "title": "NRAS refundable tax oﬀset",
+          "path": "nras-refundable-tax-oﬀset.md"
         },
         {
           "id": "nras-state-and-territory-contribution",
@@ -4217,14 +4252,14 @@
           "path": "outline-of-nras.md"
         },
         {
-          "id": "pdv-o\ufb00set",
-          "title": "PDV o\ufb00set",
-          "path": "pdv-o\ufb00set.md"
+          "id": "pdv-oﬀset",
+          "title": "PDV oﬀset",
+          "path": "pdv-oﬀset.md"
         },
         {
-          "id": "producer-o\ufb00set",
-          "title": "Producer o\ufb00set",
-          "path": "producer-o\ufb00set.md"
+          "id": "producer-oﬀset",
+          "title": "Producer oﬀset",
+          "path": "producer-oﬀset.md"
         },
         {
           "id": "rates-of-capital-works-deduction",
@@ -4254,9 +4289,8 @@
       ]
     },
     {
-      "id": "21",
-      "title": "Residence \u0442\u0410\u0432 Source \u0442\u0410\u0432 Foreign Tax Offsets \u0442\u0410\u0432 Accruals Taxation",
-      "divisions": [],
+      "id": "ch-21",
+      "title": "Ch 21 — Residence тАв Source тАв Foreign Tax Offsets тАв Accruals Taxation",
       "sections": [
         {
           "id": "accruals-taxation-of-non-resident-trust-income",
@@ -4269,9 +4303,9 @@
           "path": "active-income-test-under-cfc-rules.md"
         },
         {
-          "id": "amount-of-foreign-income-tax-o\ufb00set",
-          "title": "Amount of foreign income tax o\ufb00set",
-          "path": "amount-of-foreign-income-tax-o\ufb00set.md"
+          "id": "amount-of-foreign-income-tax-oﬀset",
+          "title": "Amount of foreign income tax oﬀset",
+          "path": "amount-of-foreign-income-tax-oﬀset.md"
         },
         {
           "id": "attributable-income-of-a-cfc",
@@ -4334,9 +4368,9 @@
           "path": "eligible-designated-concession-income.md"
         },
         {
-          "id": "entitlement-to-foreign-income-tax-o\ufb00set",
-          "title": "Entitlement to foreign income tax o\ufb00set",
-          "path": "entitlement-to-foreign-income-tax-o\ufb00set.md"
+          "id": "entitlement-to-foreign-income-tax-oﬀset",
+          "title": "Entitlement to foreign income tax oﬀset",
+          "path": "entitlement-to-foreign-income-tax-oﬀset.md"
         },
         {
           "id": "exemption-for-foreign-branch-income",
@@ -4365,12 +4399,12 @@
         },
         {
           "id": "foreign-tax-paid-on-taxpayers-behalf",
-          "title": "Foreign tax paid on taxpayer\u2019s behalf",
+          "title": "Foreign tax paid on taxpayer's behalf",
           "path": "foreign-tax-paid-on-taxpayers-behalf.md"
         },
         {
           "id": "listed-countries",
-          "title": "\u201cListed\u201d countries",
+          "title": "\"Listed\" countries",
           "path": "listed-countries.md"
         },
         {
@@ -4384,9 +4418,9 @@
           "path": "other-concessions-for-foreign-income.md"
         },
         {
-          "id": "o\ufb00shore-information-notices",
-          "title": "O\ufb00shore information notices",
-          "path": "o\ufb00shore-information-notices.md"
+          "id": "oﬀshore-information-notices",
+          "title": "Oﬀshore information notices",
+          "path": "oﬀshore-information-notices.md"
         },
         {
           "id": "part-year-resident",
@@ -4430,7 +4464,7 @@
         },
         {
           "id": "residents-of-australias-territories",
-          "title": "Residents of Australia\u2019s territories",
+          "title": "Residents of Australia's territories",
           "path": "residents-of-australias-territories.md"
         },
         {
@@ -4501,9 +4535,8 @@
       ]
     },
     {
-      "id": "22",
-      "title": "Non-resident Withholding \u0442\u0410\u0432 DTAs \u0442\u0410\u0432 Transfer Pricing \u0442\u0410\u0432 Thin Capitalisation",
-      "divisions": [],
+      "id": "ch-22",
+      "title": "Ch 22 — Non-resident Withholding тАв DTAs тАв Transfer Pricing тАв Thin Capitalisation",
       "sections": [
         {
           "id": "advance-pricing-arrangements",
@@ -4517,7 +4550,7 @@
         },
         {
           "id": "checklist-of-australias-dtas",
-          "title": "Checklist of Australia\u2019s DTAs",
+          "title": "Checklist of Australia's DTAs",
           "path": "checklist-of-australias-dtas.md"
         },
         {
@@ -4556,9 +4589,9 @@
           "path": "foreign-owned-residential-property-vacancy-fee.md"
         },
         {
-          "id": "interest-on-certain-publicly-o\ufb00ered-debentures",
-          "title": "Interest on certain publicly o\ufb00ered debentures",
-          "path": "interest-on-certain-publicly-o\ufb00ered-debentures.md"
+          "id": "interest-on-certain-publicly-oﬀered-debentures",
+          "title": "Interest on certain publicly oﬀered debentures",
+          "path": "interest-on-certain-publicly-oﬀered-debentures.md"
         },
         {
           "id": "interest-withholding-tax",
@@ -4627,7 +4660,7 @@
         },
         {
           "id": "transfer-pricing-201314-and-later",
-          "title": "Transfer pricing: 2013\u201314 and later",
+          "title": "Transfer pricing: 2013–14 and later",
           "path": "transfer-pricing-201314-and-later.md"
         },
         {
@@ -4653,14 +4686,13 @@
       ]
     },
     {
-      "id": "23",
-      "title": "Financial Arrangements \u0442\u0410\u0432 TOFA",
-      "divisions": [],
+      "id": "ch-23",
+      "title": "Ch 23 — Financial Arrangements тАв TOFA",
       "sections": [
         {
-          "id": "asset-\ufb01nancing-and-tax-preferred-entities",
-          "title": "Asset \ufb01nancing and tax-preferred entities",
-          "path": "asset-\ufb01nancing-and-tax-preferred-entities.md"
+          "id": "asset-ﬁnancing-and-tax-preferred-entities",
+          "title": "Asset ﬁnancing and tax-preferred entities",
+          "path": "asset-ﬁnancing-and-tax-preferred-entities.md"
         },
         {
           "id": "assets",
@@ -4703,9 +4735,9 @@
           "path": "equity-interests.md"
         },
         {
-          "id": "financial-bene\ufb01ts",
-          "title": "Financial bene\ufb01ts",
-          "path": "financial-bene\ufb01ts.md"
+          "id": "financial-beneﬁts",
+          "title": "Financial beneﬁts",
+          "path": "financial-beneﬁts.md"
         },
         {
           "id": "financial-instruments-overview",
@@ -4753,9 +4785,9 @@
           "path": "limited-recourse-debt-arrangements.md"
         },
         {
-          "id": "meaning-of-\ufb01nancial-arrangements",
-          "title": "Meaning of \ufb01nancial arrangements",
-          "path": "meaning-of-\ufb01nancial-arrangements.md"
+          "id": "meaning-of-ﬁnancial-arrangements",
+          "title": "Meaning of ﬁnancial arrangements",
+          "path": "meaning-of-ﬁnancial-arrangements.md"
         },
         {
           "id": "non-share-capital-accounts",
@@ -4793,9 +4825,9 @@
           "path": "sale-of-securities-cum-interest.md"
         },
         {
-          "id": "taxation-of-\ufb01nancial-arrangements",
-          "title": "Taxation of \ufb01nancial arrangements",
-          "path": "taxation-of-\ufb01nancial-arrangements.md"
+          "id": "taxation-of-ﬁnancial-arrangements",
+          "title": "Taxation of ﬁnancial arrangements",
+          "path": "taxation-of-ﬁnancial-arrangements.md"
         },
         {
           "id": "taxpayers-subject-to-the-tofa-regime",
@@ -4815,9 +4847,8 @@
       ]
     },
     {
-      "id": "24",
-      "title": "Returns \u0442\u0410\u0432 Activity Statements \u0442\u0410\u0432 RBAs \u0442\u0410\u0432 Rulings",
-      "divisions": [],
+      "id": "ch-24",
+      "title": "Ch 24 — Returns тАв Activity Statements тАв RBAs тАв Rulings",
       "sections": [
         {
           "id": "additional-time-for-lodgment",
@@ -4845,9 +4876,9 @@
           "path": "duties-and-liabilities-of-agents.md"
         },
         {
-          "id": "elections-choices-and-noti\ufb01cations",
-          "title": "Elections, choices and noti\ufb01cations",
-          "path": "elections-choices-and-noti\ufb01cations.md"
+          "id": "elections-choices-and-notiﬁcations",
+          "title": "Elections, choices and notiﬁcations",
+          "path": "elections-choices-and-notiﬁcations.md"
         },
         {
           "id": "instalment-activity-statement",
@@ -4875,9 +4906,9 @@
           "path": "lodgment-of-returns.md"
         },
         {
-          "id": "noti\ufb01cation-and-payment-of-reported-amounts",
-          "title": "Noti\ufb01cation and payment of reported amounts",
-          "path": "noti\ufb01cation-and-payment-of-reported-amounts.md"
+          "id": "notiﬁcation-and-payment-of-reported-amounts",
+          "title": "Notiﬁcation and payment of reported amounts",
+          "path": "notiﬁcation-and-payment-of-reported-amounts.md"
         },
         {
           "id": "operation-of-the-rba-system",
@@ -4910,9 +4941,9 @@
           "path": "public-rulings.md"
         },
         {
-          "id": "rba-de\ufb01cit-debt",
-          "title": "RBA de\ufb01cit debt",
-          "path": "rba-de\ufb01cit-debt.md"
+          "id": "rba-deﬁcit-debt",
+          "title": "RBA deﬁcit debt",
+          "path": "rba-deﬁcit-debt.md"
         },
         {
           "id": "refunds-of-rba-surpluses",
@@ -4942,9 +4973,8 @@
       ]
     },
     {
-      "id": "25",
-      "title": "Assessment \u0442\u0410\u0432 Audit \u0442\u0410\u0432 Collection",
-      "divisions": [],
+      "id": "ch-25",
+      "title": "Ch 25 — Assessment тАв Audit тАв Collection",
       "sections": [
         {
           "id": "4-year-amendment-period",
@@ -4963,12 +4993,12 @@
         },
         {
           "id": "commissioners-power-to-obtain-information",
-          "title": "Commissioner\u2019s power to obtain information",
+          "title": "Commissioner's power to obtain information",
           "path": "commissioners-power-to-obtain-information.md"
         },
         {
           "id": "commissioners-right-of-access",
-          "title": "Commissioner\u2019s right of access",
+          "title": "Commissioner's right of access",
           "path": "commissioners-right-of-access.md"
         },
         {
@@ -4993,7 +5023,7 @@
         },
         {
           "id": "guidelines-on-access-to-accountants-papers",
-          "title": "Guidelines on access to accountants\u2019 papers",
+          "title": "Guidelines on access to accountants' papers",
           "path": "guidelines-on-access-to-accountants-papers.md"
         },
         {
@@ -5089,9 +5119,8 @@
       ]
     },
     {
-      "id": "26",
-      "title": "PAYG Withholding",
-      "divisions": [],
+      "id": "ch-26",
+      "title": "Ch 26 — PAYG Withholding",
       "sections": [
         {
           "id": "directors-of-payg-non-complying-companies",
@@ -5134,9 +5163,9 @@
           "path": "payg-alienated-personal-services-payments.md"
         },
         {
-          "id": "payg-bene\ufb01t-and-compensation-payments",
-          "title": "PAYG: bene\ufb01t and compensation payments",
-          "path": "payg-bene\ufb01t-and-compensation-payments.md"
+          "id": "payg-beneﬁt-and-compensation-payments",
+          "title": "PAYG: beneﬁt and compensation payments",
+          "path": "payg-beneﬁt-and-compensation-payments.md"
         },
         {
           "id": "payg-certain-labour-mobility-programs",
@@ -5194,9 +5223,9 @@
           "path": "payg-mining-payments.md"
         },
         {
-          "id": "payg-non-cash-bene\ufb01ts",
-          "title": "PAYG: non-cash bene\ufb01ts",
-          "path": "payg-non-cash-bene\ufb01ts.md"
+          "id": "payg-non-cash-beneﬁts",
+          "title": "PAYG: non-cash beneﬁts",
+          "path": "payg-non-cash-beneﬁts.md"
         },
         {
           "id": "payg-payments-for-a-supply",
@@ -5219,9 +5248,9 @@
           "path": "payg-retirement-payments.md"
         },
         {
-          "id": "payg-withholding-o\ufb00ences-and-penalties",
-          "title": "PAYG withholding o\ufb00ences and penalties",
-          "path": "payg-withholding-o\ufb00ences-and-penalties.md"
+          "id": "payg-withholding-oﬀences-and-penalties",
+          "title": "PAYG withholding oﬀences and penalties",
+          "path": "payg-withholding-oﬀences-and-penalties.md"
         },
         {
           "id": "payg-working-holiday-makers",
@@ -5261,9 +5290,8 @@
       ]
     },
     {
-      "id": "27",
-      "title": "PAYG Instalments",
-      "divisions": [],
+      "id": "ch-27",
+      "title": "Ch 27 — PAYG Instalments",
       "sections": [
         {
           "id": "amount-of-annual-payg-instalments",
@@ -5326,9 +5354,9 @@
           "path": "how-many-payg-instalments-are-payable.md"
         },
         {
-          "id": "instalment-income-for-bene\ufb01ciaries-of-a-trust-estate",
-          "title": "Instalment income for bene\ufb01ciaries of a trust estate",
-          "path": "instalment-income-for-bene\ufb01ciaries-of-a-trust-estate.md"
+          "id": "instalment-income-for-beneﬁciaries-of-a-trust-estate",
+          "title": "Instalment income for beneﬁciaries of a trust estate",
+          "path": "instalment-income-for-beneﬁciaries-of-a-trust-estate.md"
         },
         {
           "id": "instalment-income-for-partners-in-a-partnership",
@@ -5383,13 +5411,12 @@
       ]
     },
     {
-      "id": "28",
-      "title": "Objections \u0442\u0410\u0432 Appeals",
-      "divisions": [],
+      "id": "ch-28",
+      "title": "Ch 28 — Objections тАв Appeals",
       "sections": [
         {
           "id": "administrative-review-of-commissioners-decisions",
-          "title": "Administrative review of Commissioner\u2019s decisions",
+          "title": "Administrative review of Commissioner's decisions",
           "path": "administrative-review-of-commissioners-decisions.md"
         },
         {
@@ -5474,7 +5501,7 @@
         },
         {
           "id": "taxpayers-right-to-further-information",
-          "title": "Taxpayer\u2019s right to further information",
+          "title": "Taxpayer's right to further information",
           "path": "taxpayers-right-to-further-information.md"
         },
         {
@@ -5485,13 +5512,12 @@
       ]
     },
     {
-      "id": "29",
-      "title": "Penalties \u0442\u0410\u0432 Offences",
-      "divisions": [],
+      "id": "ch-29",
+      "title": "Ch 29 — Penalties тАв Offences",
       "sections": [
         {
           "id": "commissioners-discretion-to-remit-penalties",
-          "title": "Commissioner\u2019s discretion to remit penalties",
+          "title": "Commissioner's discretion to remit penalties",
           "path": "commissioners-discretion-to-remit-penalties.md"
         },
         {
@@ -5525,14 +5551,14 @@
           "path": "overview-of-penalties.md"
         },
         {
-          "id": "o\ufb00ences",
-          "title": "o\ufb00ences",
-          "path": "o\ufb00ences.md"
+          "id": "oﬀences",
+          "title": "oﬀences",
+          "path": "oﬀences.md"
         },
         {
-          "id": "payg-penalties-and-o\ufb00ences",
-          "title": "PAYG penalties and o\ufb00ences",
-          "path": "payg-penalties-and-o\ufb00ences.md"
+          "id": "payg-penalties-and-oﬀences",
+          "title": "PAYG penalties and oﬀences",
+          "path": "payg-penalties-and-oﬀences.md"
         },
         {
           "id": "penalties-relating-to-schemes",
@@ -5545,9 +5571,9 @@
           "path": "penalties-relating-to-statements.md"
         },
         {
-          "id": "prosecution-for-tax-o\ufb00ences",
-          "title": "Prosecution for tax o\ufb00ences",
-          "path": "prosecution-for-tax-o\ufb00ences.md"
+          "id": "prosecution-for-tax-oﬀences",
+          "title": "Prosecution for tax oﬀences",
+          "path": "prosecution-for-tax-oﬀences.md"
         },
         {
           "id": "remission-of-gic",
@@ -5567,9 +5593,8 @@
       ]
     },
     {
-      "id": "30",
-      "title": "Tax Avoidance \u0442\u0410\u0432 Alienation of Income \u0442\u0410\u0432 PSI",
-      "divisions": [],
+      "id": "ch-30",
+      "title": "Ch 30 — Tax Avoidance тАв Alienation of Income тАв PSI",
       "sections": [
         {
           "id": "application-of-general-anti-avoidance-rules",
@@ -5582,9 +5607,9 @@
           "path": "assessment-of-personal-services-income.md"
         },
         {
-          "id": "cancellation-of-tax-bene\ufb01ts",
-          "title": "Cancellation of tax bene\ufb01ts",
-          "path": "cancellation-of-tax-bene\ufb01ts.md"
+          "id": "cancellation-of-tax-beneﬁts",
+          "title": "Cancellation of tax beneﬁts",
+          "path": "cancellation-of-tax-beneﬁts.md"
         },
         {
           "id": "character-of-consideration-for-assignment",
@@ -5607,9 +5632,9 @@
           "path": "deductions-relating-to-personal-services-income.md"
         },
         {
-          "id": "diverted-pro\ufb01ts-tax",
-          "title": "Diverted pro\ufb01ts tax",
-          "path": "diverted-pro\ufb01ts-tax.md"
+          "id": "diverted-proﬁts-tax",
+          "title": "Diverted proﬁts tax",
+          "path": "diverted-proﬁts-tax.md"
         },
         {
           "id": "dividend-stripping",
@@ -5702,9 +5727,9 @@
           "path": "transfer-of-rights-to-income-from-property.md"
         },
         {
-          "id": "was-a-tax-bene\ufb01t-obtained",
-          "title": "Was a tax bene\ufb01t obtained?",
-          "path": "was-a-tax-bene\ufb01t-obtained.md"
+          "id": "was-a-tax-beneﬁt-obtained",
+          "title": "Was a tax beneﬁt obtained?",
+          "path": "was-a-tax-beneﬁt-obtained.md"
         },
         {
           "id": "what-was-the-dominant-purpose",
@@ -5714,9 +5739,8 @@
       ]
     },
     {
-      "id": "31",
-      "title": "Tax Planning \u0442\u0410\u0432 Year End Tax Strategies",
-      "divisions": [],
+      "id": "ch-31",
+      "title": "Ch 31 — Tax Planning тАв Year End Tax Strategies",
       "sections": [
         {
           "id": "avoid-deriving-assessable-amounts",
@@ -5724,9 +5748,9 @@
           "path": "avoid-deriving-assessable-amounts.md"
         },
         {
-          "id": "bene\ufb01ts-of-averaging",
-          "title": "Bene\ufb01ts of averaging",
-          "path": "bene\ufb01ts-of-averaging.md"
+          "id": "beneﬁts-of-averaging",
+          "title": "Beneﬁts of averaging",
+          "path": "beneﬁts-of-averaging.md"
         },
         {
           "id": "checklist-methods-of-reducing-tax-liability",
@@ -5794,9 +5818,9 @@
           "path": "diversion-to-family-members.md"
         },
         {
-          "id": "di\ufb00erent-needs-of-di\ufb00erent-taxpayers",
-          "title": "Di\ufb00erent needs of di\ufb00erent taxpayers",
-          "path": "di\ufb00erent-needs-of-di\ufb00erent-taxpayers.md"
+          "id": "diﬀerent-needs-of-diﬀerent-taxpayers",
+          "title": "Diﬀerent needs of diﬀerent taxpayers",
+          "path": "diﬀerent-needs-of-diﬀerent-taxpayers.md"
         },
         {
           "id": "duties-and-liabilities-of-tax-advisers",
@@ -5864,9 +5888,9 @@
           "path": "take-advantage-of-tax-exemptions.md"
         },
         {
-          "id": "taking-advantage-of-tax-o\ufb00sets-and-other-bene\ufb01ts",
-          "title": "Taking advantage of tax o\ufb00sets and other bene\ufb01ts",
-          "path": "taking-advantage-of-tax-o\ufb00sets-and-other-bene\ufb01ts.md"
+          "id": "taking-advantage-of-tax-oﬀsets-and-other-beneﬁts",
+          "title": "Taking advantage of tax oﬀsets and other beneﬁts",
+          "path": "taking-advantage-of-tax-oﬀsets-and-other-beneﬁts.md"
         },
         {
           "id": "tax-avoidance-and-tax-evasion",
@@ -5890,7 +5914,7 @@
         },
         {
           "id": "tax-shelters",
-          "title": "Tax \u201cshelters\u201d",
+          "title": "Tax \"shelters\"",
           "path": "tax-shelters.md"
         },
         {
@@ -5916,9 +5940,8 @@
       ]
     },
     {
-      "id": "32",
-      "title": "Tax Agents and BAS Agents",
-      "divisions": [],
+      "id": "ch-32",
+      "title": "Ch 32 — Tax Agents and BAS Agents",
       "sections": [
         {
           "id": "bas-agents",
@@ -5971,9 +5994,9 @@
           "path": "tax-agent-lodgment-programs.md"
         },
         {
-          "id": "tax-agent-noti\ufb01cation-obligations",
-          "title": "Tax agent noti\ufb01cation obligations",
-          "path": "tax-agent-noti\ufb01cation-obligations.md"
+          "id": "tax-agent-notiﬁcation-obligations",
+          "title": "Tax agent notiﬁcation obligations",
+          "path": "tax-agent-notiﬁcation-obligations.md"
         },
         {
           "id": "tax-agent-registration-rules",
@@ -6003,14 +6026,13 @@
       ]
     },
     {
-      "id": "33",
-      "title": "Tax File Numbers \u0442\u0410\u0432 Director Identification Numbers \u0442\u0410\u0432 Australian Business Numbers \u0442\u0410\u0432 Third Party Reporting",
-      "divisions": [],
+      "id": "ch-33",
+      "title": "Ch 33 — Tax File Numbers тАв Director Identification Numbers тАв Australian Business Numbers тАв Third Party Reporting",
       "sections": [
         {
-          "id": "director-identi\ufb01cation-number-din",
-          "title": "Director identi\ufb01cation number (DIN)",
-          "path": "director-identi\ufb01cation-number-din.md"
+          "id": "director-identiﬁcation-number-din",
+          "title": "Director identiﬁcation number (DIN)",
+          "path": "director-identiﬁcation-number-din.md"
         },
         {
           "id": "how-an-investor-quotes-a-tfn",
@@ -6103,16 +6125,15 @@
           "path": "what-are-australian-business-numbers.md"
         },
         {
-          "id": "what-are-tax-\ufb01le-numbers",
-          "title": "What are tax \ufb01le numbers?",
-          "path": "what-are-tax-\ufb01le-numbers.md"
+          "id": "what-are-tax-ﬁle-numbers",
+          "title": "What are tax ﬁle numbers?",
+          "path": "what-are-tax-ﬁle-numbers.md"
         }
       ]
     },
     {
-      "id": "34",
-      "title": "Goods and Services Tax",
-      "divisions": [],
+      "id": "ch-34",
+      "title": "Ch 34 — Goods and Services Tax",
       "sections": [
         {
           "id": "a-10-point-guide-to-gst",
@@ -6140,9 +6161,9 @@
           "path": "gst-adjustments.md"
         },
         {
-          "id": "gst-and-charities-and-non-pro\ufb01t-bodies",
-          "title": "GST and charities and non-pro\ufb01t bodies",
-          "path": "gst-and-charities-and-non-pro\ufb01t-bodies.md"
+          "id": "gst-and-charities-and-non-proﬁt-bodies",
+          "title": "GST and charities and non-proﬁt bodies",
+          "path": "gst-and-charities-and-non-proﬁt-bodies.md"
         },
         {
           "id": "gst-and-insurance",
@@ -6252,59 +6273,58 @@
       ]
     },
     {
-      "id": "35",
-      "title": "Fringe Benefits Tax",
-      "divisions": [],
+      "id": "ch-35",
+      "title": "Ch 35 — Fringe Benefits Tax",
       "sections": [
         {
-          "id": "bene\ufb01t",
-          "title": "bene\ufb01t",
-          "path": "bene\ufb01t.md"
+          "id": "beneﬁt",
+          "title": "beneﬁt",
+          "path": "beneﬁt.md"
         },
         {
-          "id": "bene\ufb01t-must-be-provided",
-          "title": "Bene\ufb01t must be provided",
-          "path": "bene\ufb01t-must-be-provided.md"
+          "id": "beneﬁt-must-be-provided",
+          "title": "Beneﬁt must be provided",
+          "path": "beneﬁt-must-be-provided.md"
         },
         {
-          "id": "bene\ufb01t-must-have-nexus-with-employment",
-          "title": "Bene\ufb01t must have nexus with employment",
-          "path": "bene\ufb01t-must-have-nexus-with-employment.md"
+          "id": "beneﬁt-must-have-nexus-with-employment",
+          "title": "Beneﬁt must have nexus with employment",
+          "path": "beneﬁt-must-have-nexus-with-employment.md"
         },
         {
-          "id": "bene\ufb01t-provided-to-employee",
-          "title": "Bene\ufb01t provided to employee",
-          "path": "bene\ufb01t-provided-to-employee.md"
+          "id": "beneﬁt-provided-to-employee",
+          "title": "Beneﬁt provided to employee",
+          "path": "beneﬁt-provided-to-employee.md"
         },
         {
-          "id": "board-bene\ufb01ts",
-          "title": "Board bene\ufb01ts",
-          "path": "board-bene\ufb01ts.md"
+          "id": "board-beneﬁts",
+          "title": "Board beneﬁts",
+          "path": "board-beneﬁts.md"
         },
         {
-          "id": "car-bene\ufb01ts",
-          "title": "Car bene\ufb01ts",
-          "path": "car-bene\ufb01ts.md"
+          "id": "car-beneﬁts",
+          "title": "Car beneﬁts",
+          "path": "car-beneﬁts.md"
         },
         {
-          "id": "car-parking-bene\ufb01ts",
-          "title": "Car parking bene\ufb01ts",
-          "path": "car-parking-bene\ufb01ts.md"
+          "id": "car-parking-beneﬁts",
+          "title": "Car parking beneﬁts",
+          "path": "car-parking-beneﬁts.md"
         },
         {
-          "id": "conditions-giving-rise-to-a-car-bene\ufb01t",
-          "title": "Conditions giving rise to a car bene\ufb01t",
-          "path": "conditions-giving-rise-to-a-car-bene\ufb01t.md"
+          "id": "conditions-giving-rise-to-a-car-beneﬁt",
+          "title": "Conditions giving rise to a car beneﬁt",
+          "path": "conditions-giving-rise-to-a-car-beneﬁt.md"
         },
         {
-          "id": "debt-waiver-fringe-bene\ufb01ts",
-          "title": "Debt waiver fringe bene\ufb01ts",
-          "path": "debt-waiver-fringe-bene\ufb01ts.md"
+          "id": "debt-waiver-fringe-beneﬁts",
+          "title": "Debt waiver fringe beneﬁts",
+          "path": "debt-waiver-fringe-beneﬁts.md"
         },
         {
-          "id": "employee-contributions-to-bene\ufb01ts",
-          "title": "Employee contributions to bene\ufb01ts",
-          "path": "employee-contributions-to-bene\ufb01ts.md"
+          "id": "employee-contributions-to-beneﬁts",
+          "title": "Employee contributions to beneﬁts",
+          "path": "employee-contributions-to-beneﬁts.md"
         },
         {
           "id": "employees-associates-and-third-parties",
@@ -6322,9 +6342,9 @@
           "path": "employer-liable-for-fbt.md"
         },
         {
-          "id": "entertainment-bene\ufb01ts",
-          "title": "Entertainment bene\ufb01ts",
-          "path": "entertainment-bene\ufb01ts.md"
+          "id": "entertainment-beneﬁts",
+          "title": "Entertainment beneﬁts",
+          "path": "entertainment-beneﬁts.md"
         },
         {
           "id": "examples-applying-statutory-formula",
@@ -6332,19 +6352,19 @@
           "path": "examples-applying-statutory-formula.md"
         },
         {
-          "id": "exempt-residual-bene\ufb01ts",
-          "title": "Exempt residual bene\ufb01ts",
-          "path": "exempt-residual-bene\ufb01ts.md"
+          "id": "exempt-residual-beneﬁts",
+          "title": "Exempt residual beneﬁts",
+          "path": "exempt-residual-beneﬁts.md"
         },
         {
-          "id": "exemptions-for-certain-car-parking-bene\ufb01ts",
-          "title": "Exemptions for certain car parking bene\ufb01ts",
-          "path": "exemptions-for-certain-car-parking-bene\ufb01ts.md"
+          "id": "exemptions-for-certain-car-parking-beneﬁts",
+          "title": "Exemptions for certain car parking beneﬁts",
+          "path": "exemptions-for-certain-car-parking-beneﬁts.md"
         },
         {
-          "id": "exemptions-from-fringe-bene\ufb01ts-tax",
-          "title": "Exemptions from fringe bene\ufb01ts tax",
-          "path": "exemptions-from-fringe-bene\ufb01ts-tax.md"
+          "id": "exemptions-from-fringe-beneﬁts-tax",
+          "title": "Exemptions from fringe beneﬁts tax",
+          "path": "exemptions-from-fringe-beneﬁts-tax.md"
         },
         {
           "id": "expenditure-for-tax-deductible-purpose",
@@ -6352,9 +6372,9 @@
           "path": "expenditure-for-tax-deductible-purpose.md"
         },
         {
-          "id": "expense-payment-fringe-bene\ufb01ts",
-          "title": "Expense payment fringe bene\ufb01ts",
-          "path": "expense-payment-fringe-bene\ufb01ts.md"
+          "id": "expense-payment-fringe-beneﬁts",
+          "title": "Expense payment fringe beneﬁts",
+          "path": "expense-payment-fringe-beneﬁts.md"
         },
         {
           "id": "fbt-administrative-provisions",
@@ -6387,9 +6407,9 @@
           "path": "fbt-objections-reviews-and-appeals.md"
         },
         {
-          "id": "fbt-penalties-and-o\ufb00ences",
-          "title": "FBT penalties and o\ufb00ences",
-          "path": "fbt-penalties-and-o\ufb00ences.md"
+          "id": "fbt-penalties-and-oﬀences",
+          "title": "FBT penalties and oﬀences",
+          "path": "fbt-penalties-and-oﬀences.md"
         },
         {
           "id": "fbt-record-keeping-exemption",
@@ -6397,29 +6417,29 @@
           "path": "fbt-record-keeping-exemption.md"
         },
         {
-          "id": "first-1000-of-in-house-bene\ufb01ts",
-          "title": "First $1,000 of in-house bene\ufb01ts",
-          "path": "first-1000-of-in-house-bene\ufb01ts.md"
+          "id": "first-1000-of-in-house-beneﬁts",
+          "title": "First $1,000 of in-house beneﬁts",
+          "path": "first-1000-of-in-house-beneﬁts.md"
         },
         {
-          "id": "fringe-bene\ufb01ts-taxable-amount-gross-up-rules",
-          "title": "Fringe bene\ufb01ts taxable amount \u2014 gross-up rules",
-          "path": "fringe-bene\ufb01ts-taxable-amount-gross-up-rules.md"
+          "id": "fringe-beneﬁts-taxable-amount-gross-up-rules",
+          "title": "Fringe beneﬁts taxable amount — gross-up rules",
+          "path": "fringe-beneﬁts-taxable-amount-gross-up-rules.md"
         },
         {
-          "id": "housing-fringe-bene\ufb01ts",
-          "title": "Housing fringe bene\ufb01ts",
-          "path": "housing-fringe-bene\ufb01ts.md"
+          "id": "housing-fringe-beneﬁts",
+          "title": "Housing fringe beneﬁts",
+          "path": "housing-fringe-beneﬁts.md"
         },
         {
-          "id": "living-away-from-home-allowance-bene\ufb01ts",
-          "title": "Living-away-from-home allowance bene\ufb01ts",
-          "path": "living-away-from-home-allowance-bene\ufb01ts.md"
+          "id": "living-away-from-home-allowance-beneﬁts",
+          "title": "Living-away-from-home allowance beneﬁts",
+          "path": "living-away-from-home-allowance-beneﬁts.md"
         },
         {
-          "id": "loan-fringe-bene\ufb01ts",
-          "title": "Loan fringe bene\ufb01ts",
-          "path": "loan-fringe-bene\ufb01ts.md"
+          "id": "loan-fringe-beneﬁts",
+          "title": "Loan fringe beneﬁts",
+          "path": "loan-fringe-beneﬁts.md"
         },
         {
           "id": "loan-used-for-income-producing-purposes",
@@ -6447,14 +6467,14 @@
           "path": "operating-cost-method.md"
         },
         {
-          "id": "outline-of-fringe-bene\ufb01ts",
-          "title": "Outline of fringe bene\ufb01ts",
-          "path": "outline-of-fringe-bene\ufb01ts.md"
+          "id": "outline-of-fringe-beneﬁts",
+          "title": "Outline of fringe beneﬁts",
+          "path": "outline-of-fringe-beneﬁts.md"
         },
         {
-          "id": "outline-of-fringe-bene\ufb01ts-tax",
-          "title": "Outline of fringe bene\ufb01ts tax",
-          "path": "outline-of-fringe-bene\ufb01ts-tax.md"
+          "id": "outline-of-fringe-beneﬁts-tax",
+          "title": "Outline of fringe beneﬁts tax",
+          "path": "outline-of-fringe-beneﬁts-tax.md"
         },
         {
           "id": "payment-of-fbt",
@@ -6462,9 +6482,9 @@
           "path": "payment-of-fbt.md"
         },
         {
-          "id": "property-fringe-bene\ufb01ts",
-          "title": "Property fringe bene\ufb01ts",
-          "path": "property-fringe-bene\ufb01ts.md"
+          "id": "property-fringe-beneﬁts",
+          "title": "Property fringe beneﬁts",
+          "path": "property-fringe-beneﬁts.md"
         },
         {
           "id": "property-provided-on-work-premises",
@@ -6472,9 +6492,9 @@
           "path": "property-provided-on-work-premises.md"
         },
         {
-          "id": "rebate-of-fbt-for-certain-non-pro\ufb01t-employers",
-          "title": "Rebate of FBT for certain non-pro\ufb01t employers",
-          "path": "rebate-of-fbt-for-certain-non-pro\ufb01t-employers.md"
+          "id": "rebate-of-fbt-for-certain-non-proﬁt-employers",
+          "title": "Rebate of FBT for certain non-proﬁt employers",
+          "path": "rebate-of-fbt-for-certain-non-proﬁt-employers.md"
         },
         {
           "id": "remote-area-accommodation",
@@ -6482,14 +6502,14 @@
           "path": "remote-area-accommodation.md"
         },
         {
-          "id": "reporting-of-bene\ufb01ts-on-payment-summaries",
-          "title": "Reporting of bene\ufb01ts on payment summaries",
-          "path": "reporting-of-bene\ufb01ts-on-payment-summaries.md"
+          "id": "reporting-of-beneﬁts-on-payment-summaries",
+          "title": "Reporting of beneﬁts on payment summaries",
+          "path": "reporting-of-beneﬁts-on-payment-summaries.md"
         },
         {
-          "id": "residual-fringe-bene\ufb01ts",
-          "title": "Residual fringe bene\ufb01ts",
-          "path": "residual-fringe-bene\ufb01ts.md"
+          "id": "residual-fringe-beneﬁts",
+          "title": "Residual fringe beneﬁts",
+          "path": "residual-fringe-beneﬁts.md"
         },
         {
           "id": "retention-of-fbt-records",
@@ -6498,13 +6518,13 @@
         },
         {
           "id": "rule",
-          "title": "rule\u201d",
+          "title": "rule\"",
           "path": "rule.md"
         },
         {
-          "id": "salary-packaging-and-salary-sacri\ufb01ce-arrangements",
-          "title": "Salary packaging and salary sacri\ufb01ce arrangements",
-          "path": "salary-packaging-and-salary-sacri\ufb01ce-arrangements.md"
+          "id": "salary-packaging-and-salary-sacriﬁce-arrangements",
+          "title": "Salary packaging and salary sacriﬁce arrangements",
+          "path": "salary-packaging-and-salary-sacriﬁce-arrangements.md"
         },
         {
           "id": "statutory-formula-components",
@@ -6517,44 +6537,44 @@
           "path": "statutory-formula-method.md"
         },
         {
-          "id": "taxable-value-of-expense-payment-fringe-bene\ufb01ts",
-          "title": "Taxable value of expense payment fringe bene\ufb01ts",
-          "path": "taxable-value-of-expense-payment-fringe-bene\ufb01ts.md"
+          "id": "taxable-value-of-expense-payment-fringe-beneﬁts",
+          "title": "Taxable value of expense payment fringe beneﬁts",
+          "path": "taxable-value-of-expense-payment-fringe-beneﬁts.md"
         },
         {
-          "id": "taxable-value-of-housing-fringe-bene\ufb01ts",
-          "title": "Taxable value of housing fringe bene\ufb01ts",
-          "path": "taxable-value-of-housing-fringe-bene\ufb01ts.md"
+          "id": "taxable-value-of-housing-fringe-beneﬁts",
+          "title": "Taxable value of housing fringe beneﬁts",
+          "path": "taxable-value-of-housing-fringe-beneﬁts.md"
         },
         {
-          "id": "taxable-value-of-loan-fringe-bene\ufb01ts",
-          "title": "Taxable value of loan fringe bene\ufb01ts",
-          "path": "taxable-value-of-loan-fringe-bene\ufb01ts.md"
+          "id": "taxable-value-of-loan-fringe-beneﬁts",
+          "title": "Taxable value of loan fringe beneﬁts",
+          "path": "taxable-value-of-loan-fringe-beneﬁts.md"
         },
         {
-          "id": "taxable-value-of-residual-bene\ufb01ts",
-          "title": "Taxable value of residual bene\ufb01ts",
-          "path": "taxable-value-of-residual-bene\ufb01ts.md"
+          "id": "taxable-value-of-residual-beneﬁts",
+          "title": "Taxable value of residual beneﬁts",
+          "path": "taxable-value-of-residual-beneﬁts.md"
         },
         {
-          "id": "valuation-rules-for-property-fringe-bene\ufb01ts",
-          "title": "Valuation rules for property fringe bene\ufb01ts",
-          "path": "valuation-rules-for-property-fringe-bene\ufb01ts.md"
+          "id": "valuation-rules-for-property-fringe-beneﬁts",
+          "title": "Valuation rules for property fringe beneﬁts",
+          "path": "valuation-rules-for-property-fringe-beneﬁts.md"
         },
         {
-          "id": "valuing-car-parking-bene\ufb01ts",
-          "title": "Valuing car parking bene\ufb01ts",
-          "path": "valuing-car-parking-bene\ufb01ts.md"
+          "id": "valuing-car-parking-beneﬁts",
+          "title": "Valuing car parking beneﬁts",
+          "path": "valuing-car-parking-beneﬁts.md"
         },
         {
-          "id": "valuing-general-property-bene\ufb01ts",
-          "title": "Valuing general property bene\ufb01ts",
-          "path": "valuing-general-property-bene\ufb01ts.md"
+          "id": "valuing-general-property-beneﬁts",
+          "title": "Valuing general property beneﬁts",
+          "path": "valuing-general-property-beneﬁts.md"
         },
         {
-          "id": "valuing-in-house-property-bene\ufb01ts",
-          "title": "Valuing in-house property bene\ufb01ts",
-          "path": "valuing-in-house-property-bene\ufb01ts.md"
+          "id": "valuing-in-house-property-beneﬁts",
+          "title": "Valuing in-house property beneﬁts",
+          "path": "valuing-in-house-property-beneﬁts.md"
         },
         {
           "id": "work-related-travel-in-commercial-vehicles",
@@ -6564,9 +6584,8 @@
       ]
     },
     {
-      "id": "36",
-      "title": "Payroll Tax",
-      "divisions": [],
+      "id": "ch-36",
+      "title": "Ch 36 — Payroll Tax",
       "sections": [
         {
           "id": "liability-for-payroll-tax",
@@ -6599,9 +6618,9 @@
           "path": "payroll-tax-jurisdiction-issues.md"
         },
         {
-          "id": "payroll-tax-on-non-cash-bene\ufb01ts",
-          "title": "Payroll tax on non-cash bene\ufb01ts",
-          "path": "payroll-tax-on-non-cash-bene\ufb01ts.md"
+          "id": "payroll-tax-on-non-cash-beneﬁts",
+          "title": "Payroll tax on non-cash beneﬁts",
+          "path": "payroll-tax-on-non-cash-beneﬁts.md"
         },
         {
           "id": "payroll-tax-on-payments-to-contractors",
@@ -6636,9 +6655,8 @@
       ]
     },
     {
-      "id": "37",
-      "title": "Stamp Duty",
-      "divisions": [],
+      "id": "ch-37",
+      "title": "Ch 37 — Stamp Duty",
       "sections": [
         {
           "id": "abolished-duties",
@@ -6678,9 +6696,8 @@
       ]
     },
     {
-      "id": "38",
-      "title": "Land Tax",
-      "divisions": [],
+      "id": "ch-38",
+      "title": "Ch 38 — Land Tax",
       "sections": [
         {
           "id": "australian-capital-territory-land-tax",
@@ -6725,13 +6742,12 @@
       ]
     },
     {
-      "id": "39",
-      "title": "Superannuation Guarantee Charge",
-      "divisions": [],
+      "id": "ch-39",
+      "title": "Ch 39 — Superannuation Guarantee Charge",
       "sections": [
         {
           "id": "calculating-an-individual-employees-shortfall",
-          "title": "Calculating an individual employee\u2019s shortfall",
+          "title": "Calculating an individual employee's shortfall",
           "path": "calculating-an-individual-employees-shortfall.md"
         },
         {
@@ -6751,17 +6767,17 @@
         },
         {
           "id": "employees-exempt-from-sg",
-          "title": "Employees \u201cexempt\u201d from SG",
+          "title": "Employees \"exempt\" from SG",
           "path": "employees-exempt-from-sg.md"
         },
         {
           "id": "employees-ordinary-time-earnings",
-          "title": "Employee\u2019s ordinary time earnings",
+          "title": "Employee's ordinary time earnings",
           "path": "employees-ordinary-time-earnings.md"
         },
         {
           "id": "employeremployee-relationship",
-          "title": "Employer\u2013employee relationship",
+          "title": "Employer–employee relationship",
           "path": "employeremployee-relationship.md"
         },
         {
@@ -6771,7 +6787,7 @@
         },
         {
           "id": "employers-charge-percentage",
-          "title": "Employer\u2019s charge percentage",
+          "title": "Employer's charge percentage",
           "path": "employers-charge-percentage.md"
         },
         {
@@ -6825,9 +6841,9 @@
           "path": "salary-or-wages-for-superannuation-guarantee.md"
         },
         {
-          "id": "salary-sacri\ufb01ce-arrangements",
-          "title": "Salary sacri\ufb01ce arrangements",
-          "path": "salary-sacri\ufb01ce-arrangements.md"
+          "id": "salary-sacriﬁce-arrangements",
+          "title": "Salary sacriﬁce arrangements",
+          "path": "salary-sacriﬁce-arrangements.md"
         },
         {
           "id": "scope-of-sgaa-application",
@@ -6847,9 +6863,8 @@
       ]
     },
     {
-      "id": "40",
-      "title": "Fuel Tax Credits",
-      "divisions": [],
+      "id": "ch-40",
+      "title": "Ch 40 — Fuel Tax Credits",
       "sections": [
         {
           "id": "ato-methods-of-calculating-eligible-quantities",
@@ -6894,9 +6909,8 @@
       ]
     },
     {
-      "id": "41",
-      "title": "Pending Tax and Superannuation Legislation",
-      "divisions": [],
+      "id": "ch-41",
+      "title": "Ch 41 — Pending Tax and Superannuation Legislation",
       "sections": [
         {
           "id": "better-targeted-superannuation-concessions-bills",
@@ -6921,9 +6935,8 @@
       ]
     },
     {
-      "id": "42",
-      "title": "Tax Rates and Tables",
-      "divisions": [],
+      "id": "ch-42",
+      "title": "Ch 42 — Tax Rates and Tables",
       "sections": [
         {
           "id": "cents-per-kilometre-for-motor-vehicle-expense-claims",
@@ -6937,7 +6950,7 @@
         },
         {
           "id": "company-rates-for-202425",
-          "title": "Company rates for 2024\u201325",
+          "title": "Company rates for 2024–25",
           "path": "company-rates-for-202425.md"
         },
         {
@@ -6946,9 +6959,9 @@
           "path": "concessional-contributions-cap.md"
         },
         {
-          "id": "death-bene\ufb01t-termination-payments",
-          "title": "Death bene\ufb01t termination payments",
-          "path": "death-bene\ufb01t-termination-payments.md"
+          "id": "death-beneﬁt-termination-payments",
+          "title": "Death beneﬁt termination payments",
+          "path": "death-beneﬁt-termination-payments.md"
         },
         {
           "id": "employment-termination-payments",
@@ -6961,9 +6974,9 @@
           "path": "fbt-record-keeping-exemption-thresholds.md"
         },
         {
-          "id": "fringe-bene\ufb01ts-tax-rate",
-          "title": "Fringe bene\ufb01ts tax rate",
-          "path": "fringe-bene\ufb01ts-tax-rate.md"
+          "id": "fringe-beneﬁts-tax-rate",
+          "title": "Fringe beneﬁts tax rate",
+          "path": "fringe-beneﬁts-tax-rate.md"
         },
         {
           "id": "improvements-to-pre-cgt-assets",
@@ -6971,9 +6984,9 @@
           "path": "improvements-to-pre-cgt-assets.md"
         },
         {
-          "id": "interest-rates-for-car-and-loan-fringe-bene\ufb01ts",
-          "title": "Interest rates for car and loan fringe bene\ufb01ts",
-          "path": "interest-rates-for-car-and-loan-fringe-bene\ufb01ts.md"
+          "id": "interest-rates-for-car-and-loan-fringe-beneﬁts",
+          "title": "Interest rates for car and loan fringe beneﬁts",
+          "path": "interest-rates-for-car-and-loan-fringe-beneﬁts.md"
         },
         {
           "id": "non-concessional-contributions-cap",
@@ -6982,13 +6995,13 @@
         },
         {
           "id": "non-resident-individual-rates-for-202425",
-          "title": "Non-resident individual rates for 2024\u201325",
+          "title": "Non-resident individual rates for 2024–25",
           "path": "non-resident-individual-rates-for-202425.md"
         },
         {
-          "id": "personal-tax-o\ufb00sets-and-rebates-for-202425",
-          "title": "Personal tax o\ufb00sets and rebates for 2024\u201325",
-          "path": "personal-tax-o\ufb00sets-and-rebates-for-202425.md"
+          "id": "personal-tax-oﬀsets-and-rebates-for-202425",
+          "title": "Personal tax oﬀsets and rebates for 2024–25",
+          "path": "personal-tax-oﬀsets-and-rebates-for-202425.md"
         },
         {
           "id": "rates-for-minors",
@@ -6997,27 +7010,27 @@
         },
         {
           "id": "resident-individual-rates-for-202425",
-          "title": "Resident individual rates for 2024\u201325",
+          "title": "Resident individual rates for 2024–25",
           "path": "resident-individual-rates-for-202425.md"
         },
         {
-          "id": "small-business-income-tax-o\ufb00set",
-          "title": "Small business income tax o\ufb00set",
-          "path": "small-business-income-tax-o\ufb00set.md"
+          "id": "small-business-income-tax-oﬀset",
+          "title": "Small business income tax oﬀset",
+          "path": "small-business-income-tax-oﬀset.md"
         },
         {
-          "id": "statutory-fractions-for-car-bene\ufb01t-valuation",
-          "title": "Statutory fractions for car bene\ufb01t valuation",
-          "path": "statutory-fractions-for-car-bene\ufb01t-valuation.md"
+          "id": "statutory-fractions-for-car-beneﬁt-valuation",
+          "title": "Statutory fractions for car beneﬁt valuation",
+          "path": "statutory-fractions-for-car-beneﬁt-valuation.md"
         },
         {
-          "id": "superannuation-death-bene\ufb01ts",
-          "title": "Superannuation death bene\ufb01ts",
-          "path": "superannuation-death-bene\ufb01ts.md"
+          "id": "superannuation-death-beneﬁts",
+          "title": "Superannuation death beneﬁts",
+          "path": "superannuation-death-beneﬁts.md"
         },
         {
           "id": "superannuation-fund-rates-for-202425",
-          "title": "Superannuation fund rates for 2024\u201325",
+          "title": "Superannuation fund rates for 2024–25",
           "path": "superannuation-fund-rates-for-202425.md"
         },
         {
@@ -7031,14 +7044,14 @@
           "path": "tax-calculator-for-resident-individuals.md"
         },
         {
-          "id": "tax-o\ufb00set-spouse-contributions",
-          "title": "Tax o\ufb00set \u2014 spouse contributions",
-          "path": "tax-o\ufb00set-spouse-contributions.md"
+          "id": "tax-oﬀset-spouse-contributions",
+          "title": "Tax oﬀset — spouse contributions",
+          "path": "tax-oﬀset-spouse-contributions.md"
         },
         {
-          "id": "transfer-balance-cap-and-de\ufb01ned-bene\ufb01t-income-cap",
-          "title": "Transfer balance cap and de\ufb01ned bene\ufb01t income cap",
-          "path": "transfer-balance-cap-and-de\ufb01ned-bene\ufb01t-income-cap.md"
+          "id": "transfer-balance-cap-and-deﬁned-beneﬁt-income-cap",
+          "title": "Transfer balance cap and deﬁned beneﬁt income cap",
+          "path": "transfer-balance-cap-and-deﬁned-beneﬁt-income-cap.md"
         },
         {
           "id": "trustee-rates",
@@ -7068,9 +7081,8 @@
       ]
     },
     {
-      "id": "43",
-      "title": "Capital Allowances (Depreciation) \u0442\u0410\u0432 Effective Life",
-      "divisions": [],
+      "id": "ch-43",
+      "title": "Ch 43 — Capital Allowances (Depreciation) тАв Effective Life",
       "sections": [
         {
           "id": "car-depreciation-limit",
@@ -7078,94 +7090,94 @@
           "path": "car-depreciation-limit.md"
         },
         {
-          "id": "e\ufb00ective-life-accommodation-and-food-services",
-          "title": "E\ufb00ective life \u2014 accommodation and food services",
-          "path": "e\ufb00ective-life-accommodation-and-food-services.md"
+          "id": "eﬀective-life-accommodation-and-food-services",
+          "title": "Eﬀective life — accommodation and food services",
+          "path": "eﬀective-life-accommodation-and-food-services.md"
         },
         {
-          "id": "e\ufb00ective-life-administrative-and-support-services",
-          "title": "E\ufb00ective life \u2014 administrative and support services",
-          "path": "e\ufb00ective-life-administrative-and-support-services.md"
+          "id": "eﬀective-life-administrative-and-support-services",
+          "title": "Eﬀective life — administrative and support services",
+          "path": "eﬀective-life-administrative-and-support-services.md"
         },
         {
-          "id": "e\ufb00ective-life-agriculture-forestry-and-\ufb01shing",
-          "title": "E\ufb00ective life \u2014 agriculture, forestry and \ufb01shing",
-          "path": "e\ufb00ective-life-agriculture-forestry-and-\ufb01shing.md"
+          "id": "eﬀective-life-agriculture-forestry-and-ﬁshing",
+          "title": "Eﬀective life — agriculture, forestry and ﬁshing",
+          "path": "eﬀective-life-agriculture-forestry-and-ﬁshing.md"
         },
         {
-          "id": "e\ufb00ective-life-arts-and-recreation-services",
-          "title": "E\ufb00ective life \u2014 arts and recreation services",
-          "path": "e\ufb00ective-life-arts-and-recreation-services.md"
+          "id": "eﬀective-life-arts-and-recreation-services",
+          "title": "Eﬀective life — arts and recreation services",
+          "path": "eﬀective-life-arts-and-recreation-services.md"
         },
         {
-          "id": "e\ufb00ective-life-construction",
-          "title": "E\ufb00ective life \u2014 construction",
-          "path": "e\ufb00ective-life-construction.md"
+          "id": "eﬀective-life-construction",
+          "title": "Eﬀective life — construction",
+          "path": "eﬀective-life-construction.md"
         },
         {
-          "id": "e\ufb00ective-life-education-and-training",
-          "title": "E\ufb00ective life \u2014 education and training",
-          "path": "e\ufb00ective-life-education-and-training.md"
+          "id": "eﬀective-life-education-and-training",
+          "title": "Eﬀective life — education and training",
+          "path": "eﬀective-life-education-and-training.md"
         },
         {
-          "id": "e\ufb00ective-life-health-care-and-social-assistance",
-          "title": "E\ufb00ective life \u2014 health care and social assistance",
-          "path": "e\ufb00ective-life-health-care-and-social-assistance.md"
+          "id": "eﬀective-life-health-care-and-social-assistance",
+          "title": "Eﬀective life — health care and social assistance",
+          "path": "eﬀective-life-health-care-and-social-assistance.md"
         },
         {
-          "id": "e\ufb00ective-life-manufacturing",
-          "title": "E\ufb00ective life \u2014 manufacturing",
-          "path": "e\ufb00ective-life-manufacturing.md"
+          "id": "eﬀective-life-manufacturing",
+          "title": "Eﬀective life — manufacturing",
+          "path": "eﬀective-life-manufacturing.md"
         },
         {
-          "id": "e\ufb00ective-life-mining",
-          "title": "E\ufb00ective life \u2014 mining",
-          "path": "e\ufb00ective-life-mining.md"
+          "id": "eﬀective-life-mining",
+          "title": "Eﬀective life — mining",
+          "path": "eﬀective-life-mining.md"
         },
         {
-          "id": "e\ufb00ective-life-of-depreciating-assets-depreciation",
-          "title": "E\ufb00ective life of depreciating assets (depreciation)",
-          "path": "e\ufb00ective-life-of-depreciating-assets-depreciation.md"
+          "id": "eﬀective-life-of-depreciating-assets-depreciation",
+          "title": "Eﬀective life of depreciating assets (depreciation)",
+          "path": "eﬀective-life-of-depreciating-assets-depreciation.md"
         },
         {
-          "id": "e\ufb00ective-life-other-services",
-          "title": "E\ufb00ective life \u2014 other services",
-          "path": "e\ufb00ective-life-other-services.md"
+          "id": "eﬀective-life-other-services",
+          "title": "Eﬀective life — other services",
+          "path": "eﬀective-life-other-services.md"
         },
         {
-          "id": "e\ufb00ective-life-rental-hiring-and-real-estate-services",
-          "title": "E\ufb00ective life \u2014 rental, hiring and real estate services",
-          "path": "e\ufb00ective-life-rental-hiring-and-real-estate-services.md"
+          "id": "eﬀective-life-rental-hiring-and-real-estate-services",
+          "title": "Eﬀective life — rental, hiring and real estate services",
+          "path": "eﬀective-life-rental-hiring-and-real-estate-services.md"
         },
         {
-          "id": "e\ufb00ective-life-retail-trade",
-          "title": "E\ufb00ective life \u2014 retail trade",
-          "path": "e\ufb00ective-life-retail-trade.md"
+          "id": "eﬀective-life-retail-trade",
+          "title": "Eﬀective life — retail trade",
+          "path": "eﬀective-life-retail-trade.md"
         },
         {
-          "id": "e\ufb00ective-life-table-a-industry-items",
-          "title": "E\ufb00ective life \u2014 Table A (industry items)",
-          "path": "e\ufb00ective-life-table-a-industry-items.md"
+          "id": "eﬀective-life-table-a-industry-items",
+          "title": "Eﬀective life — Table A (industry items)",
+          "path": "eﬀective-life-table-a-industry-items.md"
         },
         {
-          "id": "e\ufb00ective-life-table-b-asset-categories",
-          "title": "E\ufb00ective life \u2014 Table B (asset categories)",
-          "path": "e\ufb00ective-life-table-b-asset-categories.md"
+          "id": "eﬀective-life-table-b-asset-categories",
+          "title": "Eﬀective life — Table B (asset categories)",
+          "path": "eﬀective-life-table-b-asset-categories.md"
         },
         {
-          "id": "e\ufb00ective-life-transport-and-storage",
-          "title": "E\ufb00ective life \u2014 transport and storage",
-          "path": "e\ufb00ective-life-transport-and-storage.md"
+          "id": "eﬀective-life-transport-and-storage",
+          "title": "Eﬀective life — transport and storage",
+          "path": "eﬀective-life-transport-and-storage.md"
         },
         {
-          "id": "e\ufb00ective-life-wholesale-trade",
-          "title": "E\ufb00ective life \u2014 wholesale trade",
-          "path": "e\ufb00ective-life-wholesale-trade.md"
+          "id": "eﬀective-life-wholesale-trade",
+          "title": "Eﬀective life — wholesale trade",
+          "path": "eﬀective-life-wholesale-trade.md"
         },
         {
-          "id": "e\ufb00ective-life-\ufb01nancial-and-insurance-services",
-          "title": "E\ufb00ective life \u2014 \ufb01nancial and insurance services",
-          "path": "e\ufb00ective-life-\ufb01nancial-and-insurance-services.md"
+          "id": "eﬀective-life-ﬁnancial-and-insurance-services",
+          "title": "Eﬀective life — ﬁnancial and insurance services",
+          "path": "eﬀective-life-ﬁnancial-and-insurance-services.md"
         },
         {
           "id": "improvements",
@@ -7173,16 +7185,15 @@
           "path": "improvements.md"
         },
         {
-          "id": "statutory-caps-on-e\ufb00ective-life",
-          "title": "Statutory caps on e\ufb00ective life",
-          "path": "statutory-caps-on-e\ufb00ective-life.md"
+          "id": "statutory-caps-on-eﬀective-life",
+          "title": "Statutory caps on eﬀective life",
+          "path": "statutory-caps-on-eﬀective-life.md"
         }
       ]
     },
     {
-      "id": "44",
-      "title": "Tax Checklists",
-      "divisions": [],
+      "id": "ch-44",
+      "title": "Ch 44 — Tax Checklists",
       "sections": [
         {
           "id": "age-thresholds-tax-checklist",
@@ -7191,7 +7202,7 @@
         },
         {
           "id": "company-directors-checklist",
-          "title": "Company directors\u2019 checklist",
+          "title": "Company directors' checklist",
           "path": "company-directors-checklist.md"
         },
         {
@@ -7201,7 +7212,7 @@
         },
         {
           "id": "employers-tax-checklist",
-          "title": "Employers\u2019 tax checklist",
+          "title": "Employers' tax checklist",
           "path": "employers-tax-checklist.md"
         },
         {
@@ -7256,7 +7267,7 @@
         },
         {
           "id": "students-tax-checklist",
-          "title": "Students\u2019 tax checklist",
+          "title": "Students' tax checklist",
           "path": "students-tax-checklist.md"
         },
         {
@@ -7267,9 +7278,8 @@
       ]
     },
     {
-      "id": "45",
-      "title": "Tax Calendar",
-      "divisions": [],
+      "id": "ch-45",
+      "title": "Ch 45 — Tax Calendar",
       "sections": [
         {
           "id": "contingent-tax-calendar",

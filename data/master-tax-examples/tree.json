@@ -4,9 +4,8 @@
   "compilation_date": "2026-04-01",
   "parts": [
     {
-      "id": "1",
-      "title": "Assessable Income, Residence and Source",
-      "divisions": [],
+      "id": "ch-1",
+      "title": "Topic 1 — Assessable Income, Residence and Source",
       "sections": [
         {
           "id": "1-000-assessable-income-royalties",
@@ -89,11 +88,6 @@
           "path": "1-280-alienation-of-personal-services-income.md"
         },
         {
-          "id": "1-290-personal-services-income-unrelated-clients-test-personal-services-busine",
-          "title": "1-290 - Personal services income unrelated clients test personal services business",
-          "path": "1-290-personal-services-income-unrelated-clients-test-personal-services-busine.md"
-        },
-        {
           "id": "1-290-personal-services-income-unrelated-clients-test-personal-services-business",
           "title": "1-290 - Personal services income unrelated clients test personal services business",
           "path": "1-290-personal-services-income-unrelated-clients-test-personal-services-business.md"
@@ -107,11 +101,6 @@
           "id": "1-300-allowances-and-reimbursements",
           "title": "1-300 - Allowances and reimbursements",
           "path": "1-300-allowances-and-reimbursements.md"
-        },
-        {
-          "id": "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-s",
-          "title": "1-320 - Derivation agreement for right to use proprietary software and related services",
-          "path": "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-s.md"
         },
         {
           "id": "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-ser",
@@ -139,11 +128,6 @@
           "path": "1-400-employee-share-scheme-offered-by-start-up-company.md"
         },
         {
-          "id": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediatel",
-          "title": "1-410 - Employee share schemes when are you genuinely restricted from immediately disposing of a share interest",
-          "path": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediatel.md"
-        },
-        {
           "id": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediately-",
           "title": "1-410 - Employee share schemes when are you genuinely restricted from immediately disposing of a share interest",
           "path": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediately-.md"
@@ -167,11 +151,6 @@
           "id": "1-500-image-rights",
           "title": "1-500 - Image rights",
           "path": "1-500-image-rights.md"
-        },
-        {
-          "id": "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-",
-          "title": "1-520 - Non-commercial losses Commissioners discretion regarding flood bushfire or other natural disasters",
-          "path": "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-.md"
         },
         {
           "id": "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-or",
@@ -201,9 +180,8 @@
       ]
     },
     {
-      "id": "2",
-      "title": "Capital Gains Tax",
-      "divisions": [],
+      "id": "ch-2",
+      "title": "Topic 2 — Capital Gains Tax",
       "sections": [
         {
           "id": "2-000-elements-of-the-cost-base",
@@ -229,11 +207,6 @@
           "id": "2-060-main-residence-exemption-absence-rule-first-used-to-produce-income-rule",
           "title": "2-060 - Main residence exemption absence rule first used to produce income rule",
           "path": "2-060-main-residence-exemption-absence-rule-first-used-to-produce-income-rule.md"
-        },
-        {
-          "id": "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-ru",
-          "title": "2-065 - Main residence building repairing or renovating a dwelling the 4-year rule",
-          "path": "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-ru.md"
         },
         {
           "id": "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-rule",
@@ -356,11 +329,6 @@
           "path": "2-313-theft-of-cryptocurrency.md"
         },
         {
-          "id": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-c",
-          "title": "2-315 - Changing a business structure small business restructure roll-over and CGT small business concessions",
-          "path": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-c.md"
-        },
-        {
           "id": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-cgt",
           "title": "2-315 - Changing a business structure small business restructure roll-over and CGT small business concessions",
           "path": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-cgt.md"
@@ -448,9 +416,8 @@
       ]
     },
     {
-      "id": "3",
-      "title": "Fringe Benefits Tax",
-      "divisions": [],
+      "id": "ch-3",
+      "title": "Topic 3 — Fringe Benefits Tax",
       "sections": [
         {
           "id": "3-000-benefits-to-employees-former-employees-and-customers",
@@ -471,11 +438,6 @@
           "id": "3-045-electric-vehicles",
           "title": "3-045 - Electric vehicles",
           "path": "3-045-electric-vehicles.md"
-        },
-        {
-          "id": "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-ca",
-          "title": "3-050 - Exempt car benefits and exempt residual benefits minor private use of cars",
-          "path": "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-ca.md"
         },
         {
           "id": "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-cars",
@@ -590,9 +552,8 @@
       ]
     },
     {
-      "id": "4",
-      "title": "Deductions",
-      "divisions": [],
+      "id": "ch-4",
+      "title": "Topic 4 — Deductions",
       "sections": [
         {
           "id": "4-000-deductions-for-car-parking-expenses",
@@ -618,11 +579,6 @@
           "id": "4-050-vacant-land",
           "title": "4-050 - Vacant land",
           "path": "4-050-vacant-land.md"
-        },
-        {
-          "id": "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-pro",
-          "title": "4-055 - Vacant land deductibility of costs incurred on constructing a rental property",
-          "path": "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-pro.md"
         },
         {
           "id": "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-prope",
@@ -663,11 +619,6 @@
           "id": "4-160-costs-of-borrowing-for-business-purposes",
           "title": "4-160 - Costs of borrowing for business purposes",
           "path": "4-160-costs-of-borrowing-for-business-purposes.md"
-        },
-        {
-          "id": "4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refina",
-          "title": "4-180 - Interest expenses after income-producing activity ceases and loan refinanced",
-          "path": "4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refina.md"
         },
         {
           "id": "4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refinanc",
@@ -740,11 +691,6 @@
           "path": "4-450-gifts-and-donations.md"
         },
         {
-          "id": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an",
-          "title": "4-500 - Deductions for electricity costs when charging an electric vehicle at an employees or individuals home",
-          "path": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an.md"
-        },
-        {
           "id": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an-e",
           "title": "4-500 - Deductions for electricity costs when charging an electric vehicle at an employees or individuals home",
           "path": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an-e.md"
@@ -772,9 +718,8 @@
       ]
     },
     {
-      "id": "5",
-      "title": "Trading Stock",
-      "divisions": [],
+      "id": "ch-5",
+      "title": "Topic 5 — Trading Stock",
       "sections": [
         {
           "id": "5-000-meaning-of-trading-stock",
@@ -800,11 +745,6 @@
           "id": "5-080-non-arms-length-dealing-in-trading-stock-and-stock-on-hand",
           "title": "5-080 - Non-arms length dealing in trading stock and stock on hand",
           "path": "5-080-non-arms-length-dealing-in-trading-stock-and-stock-on-hand.md"
-        },
-        {
-          "id": "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-ob",
-          "title": "5-100 - Trading stock taken for personal consumption stock written-off due to obsolescence",
-          "path": "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-ob.md"
         },
         {
           "id": "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-obso",
@@ -864,9 +804,8 @@
       ]
     },
     {
-      "id": "6",
-      "title": "Depreciation and Capital Allowances",
-      "divisions": [],
+      "id": "ch-6",
+      "title": "Topic 6 — Depreciation and Capital Allowances",
       "sections": [
         {
           "id": "6-000-decline-in-value-and-other-deductions",
@@ -892,11 +831,6 @@
           "id": "6-160-balancing-adjustments-disposal-of-depreciating-assets",
           "title": "6-160 - Balancing adjustments disposal of depreciating assets",
           "path": "6-160-balancing-adjustments-disposal-of-depreciating-assets.md"
-        },
-        {
-          "id": "6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capit",
-          "title": "6-180 - Balancing adjustments disposal of business and non-business assets capital gains",
-          "path": "6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capit.md"
         },
         {
           "id": "6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capital",
@@ -949,11 +883,6 @@
           "path": "6-380-second-hand-depreciating-assets-in-residential-premises.md"
         },
         {
-          "id": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-",
-          "title": "6-400 - Composite items identifying the relevant depreciating asset for capital allowances purposes",
-          "path": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-.md"
-        },
-        {
           "id": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-al",
           "title": "6-400 - Composite items identifying the relevant depreciating asset for capital allowances purposes",
           "path": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-al.md"
@@ -966,9 +895,8 @@
       ]
     },
     {
-      "id": "7",
-      "title": "Individuals, Offsets, Superannuation and Foreign Income",
-      "divisions": [],
+      "id": "ch-7",
+      "title": "Topic 7 — Individuals, Offsets, Superannuation and Foreign Income",
       "sections": [
         {
           "id": "7-010-resident-individual-calculating-tax-liability",
@@ -1061,19 +989,9 @@
           "path": "7-275-catch-up-concessional-superannuation-contributions.md"
         },
         {
-          "id": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-c",
-          "title": "7-278 - Total superannuation balance and the bring forward of non-concessional contributions",
-          "path": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-c.md"
-        },
-        {
           "id": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-con",
           "title": "7-278 - Total superannuation balance and the bring forward of non-concessional contributions",
           "path": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-con.md"
-        },
-        {
-          "id": "7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation",
-          "title": "7-279 - Employee v contractor Extended definition of employee for superannuation guarantee purposes",
-          "path": "7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation.md"
         },
         {
           "id": "7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation-g",
@@ -1148,9 +1066,8 @@
       ]
     },
     {
-      "id": "8",
-      "title": "Partnerships",
-      "divisions": [],
+      "id": "ch-8",
+      "title": "Topic 8 — Partnerships",
       "sections": [
         {
           "id": "8-000-net-partnership-income",
@@ -1225,9 +1142,8 @@
       ]
     },
     {
-      "id": "9",
-      "title": "Trusts and Deceased Estates",
-      "divisions": [],
+      "id": "ch-9",
+      "title": "Topic 9 — Trusts and Deceased Estates",
       "sections": [
         {
           "id": "9-000-division-6e-income-trust-income-of-beneficiaries",
@@ -1310,11 +1226,6 @@
           "path": "9-250-trust-entitlements-validity-of-disclaimers-made-post-year-end.md"
         },
         {
-          "id": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements",
-          "title": "9-260 - Circulation issues dividends and distributions reimbursements agreements tax avoidance",
-          "path": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements.md"
-        },
-        {
           "id": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements-t",
           "title": "9-260 - Circulation issues dividends and distributions reimbursements agreements tax avoidance",
           "path": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements-t.md"
@@ -1337,15 +1248,9 @@
       ]
     },
     {
-      "id": "10",
-      "title": "Companies, Dividends and Imputation",
-      "divisions": [],
+      "id": "ch-10",
+      "title": "Topic 10 — Companies, Dividends and Imputation",
       "sections": [
-        {
-          "id": "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-",
-          "title": "10-000 - Base rate entity base rate entity passive income and impact on company tax rate and franking rate",
-          "path": "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-.md"
-        },
         {
           "id": "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-ta",
           "title": "10-000 - Base rate entity base rate entity passive income and impact on company tax rate and franking rate",
@@ -1412,19 +1317,9 @@
           "path": "10-240-division-7a-benefits-for-directors-and-shareholders.md"
         },
         {
-          "id": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profit",
-          "title": "10-250 - Division 7A interposition of a holding company to access company profits tax-free",
-          "path": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profit.md"
-        },
-        {
           "id": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profits-",
           "title": "10-250 - Division 7A interposition of a holding company to access company profits tax-free",
           "path": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profits-.md"
-        },
-        {
-          "id": "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-d",
-          "title": "10-255 - Division 7A when will an unpaid present entitlement become subject to Division 7A",
-          "path": "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-d.md"
         },
         {
           "id": "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-div",
@@ -1435,11 +1330,6 @@
           "id": "10-260-shares-debt-equity",
           "title": "10-260 - Shares debt equity",
           "path": "10-260-shares-debt-equity.md"
-        },
-        {
-          "id": "10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-te",
-          "title": "10-280 - Carry-forward losses continuity of ownership and business continuity test",
-          "path": "10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-te.md"
         },
         {
           "id": "10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-test",
@@ -1484,9 +1374,8 @@
       ]
     },
     {
-      "id": "11",
-      "title": "Administration, PAYG and Penalties",
-      "divisions": [],
+      "id": "ch-11",
+      "title": "Topic 11 — Administration, PAYG and Penalties",
       "sections": [
         {
           "id": "11-000-foreign-resident-cgt-withholding-regime",
@@ -1507,11 +1396,6 @@
           "id": "11-060-promoter-of-a-tax-exploitation-scheme",
           "title": "11-060 - Promoter of a tax exploitation scheme",
           "path": "11-060-promoter-of-a-tax-exploitation-scheme.md"
-        },
-        {
-          "id": "11-080-reporting-withholding-and-payment-obligations-relating-to-employee-shar",
-          "title": "11-080 - Reporting withholding and payment obligations relating to employee share schemes",
-          "path": "11-080-reporting-withholding-and-payment-obligations-relating-to-employee-shar.md"
         },
         {
           "id": "11-080-reporting-withholding-and-payment-obligations-relating-to-employee-share-",
@@ -1604,11 +1488,6 @@
           "path": "11-355-employee-v-contractor-distinction.md"
         },
         {
-          "id": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-ther",
-          "title": "11-360 - Deceased estates preparation of the date of death tax return where there is no grant of probate",
-          "path": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-ther.md"
-        },
-        {
           "id": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-there-",
           "title": "11-360 - Deceased estates preparation of the date of death tax return where there is no grant of probate",
           "path": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-there-.md"
@@ -1626,9 +1505,8 @@
       ]
     },
     {
-      "id": "12",
-      "title": "GST, Fuel Tax Credits and Luxury Car Tax",
-      "divisions": [],
+      "id": "ch-12",
+      "title": "Topic 12 — GST, Fuel Tax Credits and Luxury Car Tax",
       "sections": [
         {
           "id": "12-000-registration-requirements",
@@ -1719,11 +1597,6 @@
           "id": "12-320-property-development-enterprise-and-registration-issues",
           "title": "12-320 - Property development enterprise and registration issues",
           "path": "12-320-property-development-enterprise-and-registration-issues.md"
-        },
-        {
-          "id": "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-ve",
-          "title": "12-340 - Luxury car tax LCT How to determine the principal purpose of a motor vehicle",
-          "path": "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-ve.md"
         },
         {
           "id": "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-vehi",

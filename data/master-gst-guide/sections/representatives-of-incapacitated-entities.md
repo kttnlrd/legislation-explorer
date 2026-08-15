@@ -65,7 +65,21 @@ Specific obligations are imposed on liquidators and receivers to notify the Comm
 
 *Refs: s 58-95), s 58-15), s 58-40), s 58-65), s 58-70), s 444-70), s 260-45*
 
-registration (¶3-080) • adjustments after bankruptcy, liquidation, etc (¶6-417) • tax periods (¶7-100) • GST • returns (¶8-050) • mortgagees in possession (¶10-070) • GST groups (¶17-030) • associates (¶17-500).
+## registration (¶3-080)
+
+## adjustments after bankruptcy, liquidation, etc (¶6-417)
+
+## tax periods (¶7-100)
+
+## GST
+
+## returns (¶8-050)
+
+## mortgagees in possession (¶10-070)
+
+## GST groups (¶17-030)
+
+## associates (¶17-500).
 
 ## The effect of these rules is as follows:
 
