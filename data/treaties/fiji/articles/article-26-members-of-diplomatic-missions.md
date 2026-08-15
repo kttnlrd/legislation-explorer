@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 26
 title: "Article 26 — Members of Diplomatic Missions"
 ---
-# Article 26 — Members of Diplomatic Missions
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Mutual Agreement Procedure
 (1)
 Where a person who is a resident of one of the Contracting States considers that the actions of the competent authority of one or both of the Contracting States result or will result for the person in taxation not in accordance with this Agreement, the person may, notwithstanding the remedies provided by the national laws of those States, present a case to the competent authority of the Contracting State of which the person is a resident. The case must be presented within three years from the first notification of the action giving rise to taxation not in accordance with this Agreement.
 (2)

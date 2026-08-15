@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 3
 title: "Article 3 — General Definitions"
 ---
-# Article 3 — General Definitions
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER II 
 -
  DEFINITIONS
 General Definitions

@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 16
 title: "Article 16 — Directors' Fees"
 ---
-# Article 16 — Directors' Fees
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Directors

@@ -5,14 +5,6 @@ treaty_schedule: 23
 article: 14
 title: "Article 14 — Independent Personal Services"
 ---
-# Article 14 — Independent Personal Services
-Norwegian Convention
-CONVENTION BETWEEN AUSTRALIA AND THE KINGDOM OF NORWAY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Income from Employment
 (1)
 Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by an individual who is a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 (2)

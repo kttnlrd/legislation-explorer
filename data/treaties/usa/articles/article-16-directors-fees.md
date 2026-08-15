@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 16
 title: "Article 16 — Directors' Fees"
 ---
-# Article 16 — Directors' Fees
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Limitation on Benefits
 (1)
 Except as otherwise provided in this Article, a resident of one of the Contracting States that derives income from the other Contracting State shall not be entitled to the benefits of this Convention otherwise accorded to residents of one of the Contracting States unless such resident is a 
 "

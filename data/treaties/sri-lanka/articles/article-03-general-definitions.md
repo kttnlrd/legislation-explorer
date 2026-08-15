@@ -5,10 +5,6 @@ treaty_schedule: 31
 article: 3
 title: "Article 3 — General Definitions"
 ---
-# Article 3 — General Definitions
-Sri Lankan Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-General Definitions
 (1)
 For the purposes of this Agreement, unless the context otherwise requires:
 (a)

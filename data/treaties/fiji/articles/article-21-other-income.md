@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 21
 title: "Article 21 — Other Income"
 ---
-# Article 21 — Other Income
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Australian Government
 '
 s Bilateral Aid to Fiji
 Notwithstanding anything elsewhere in this Agreement, income derived by any person from the participation in any capacity whatsoever of that person in the Australian Government

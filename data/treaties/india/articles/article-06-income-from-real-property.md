@@ -5,15 +5,6 @@ treaty_schedule: 35
 article: 6
 title: "Article 6 — Income from Real Property"
 ---
-# Article 6 — Income from Real Property
-Indian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF INDIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Indian Protocol (No 1)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Income from Real Property (Immovable Property)
 (1)
 Income from real property may be taxed in the Contracting State in which that property is situated.
 (2)

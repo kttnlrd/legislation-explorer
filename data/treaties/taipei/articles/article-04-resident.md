@@ -5,14 +5,6 @@ treaty_schedule: 1
 article: 4
 title: "Article 4 — Resident"
 ---
-# Article 4 — Resident
-Taipei Agreement
-AGREEMENT BETWEEN THE AUSTRALIAN COMMERCE AND INDUSTRY OFFICE AND THE TAIPEI ECONOMIC AND CULTURAL OFFICE CONCERNING THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Sch 1 renumbered from Sch 41 by No 45 of 2011, s 3 and Sch 1 item 68, effective 27 June 2011. For transitional provisions see note under s
-3(1)
-.
-Sch 1 (formerly Sch 41) inserted by No 39 of 1996.
-Residence
 1.
 For the purposes of this Agreement, a person is a resident of a territory if the person is a resident of that territory for the purposes of its tax.
 2.

@@ -5,16 +5,6 @@ treaty_schedule: 28
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-Chinese Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE PEOPLE
-'
-S REPUBLIC OF CHINA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Permanent Establishment
 1.
 For the purposes of this Agreement, the term 
 "

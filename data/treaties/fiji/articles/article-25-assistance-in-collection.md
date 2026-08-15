@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Elimination of Double Taxation
 (1)
 Subject to any provisions of the law of Fiji which may from time to time be in force and which relate to the allowance of a credit against Fiji tax of tax paid in a country outside Fiji (which shall not affect the general principle hereof), Australian tax paid under the law of Australia and consistently with this Agreement, whether directly or by deduction, in respect of income derived by a resident of Fiji from sources in Australia shall be allowed as a credit against Fiji tax payable in respect of that income.
 (2)

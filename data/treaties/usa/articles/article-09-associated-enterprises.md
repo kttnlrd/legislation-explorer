@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 9
 title: "Article 9 — Associated Enterprises"
 ---
-# Article 9 — Associated Enterprises
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Associated Enterprises
 (1)
 Where:
 (a)

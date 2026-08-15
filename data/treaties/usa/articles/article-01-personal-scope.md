@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 1
 title: "Article 1 — Personal Scope"
 ---
-# Article 1 — Personal Scope
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Personal Scope
 (1)
 Except as otherwise provided in this Convention, this Convention shall apply to persons who are residents of one or both of the Contracting States.
 (2)

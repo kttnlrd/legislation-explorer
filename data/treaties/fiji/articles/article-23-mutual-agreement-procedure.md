@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 23
 title: "Article 23 — Mutual Agreement Procedure"
 ---
-# Article 23 — Mutual Agreement Procedure
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Income Not Expressly Mentioned
 (1)
 Items of income of a resident of one of the Contracting States which are not expressly mentioned in the foregoing Articles of this Agreement shall be taxable only in that State.
 (2)

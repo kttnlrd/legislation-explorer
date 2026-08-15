@@ -5,16 +5,6 @@ treaty_schedule: 16
 article: 16
 title: "Article 16 — Directors' Fees"
 ---
-# Article 16 — Directors' Fees
-Malaysian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Malaysian Protocol (No 1), the Malaysian Exchange of Letters,
-the Malaysian Protocol (No 2) and the Malaysian Protocol (No 3)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Entertainers
 1.
 Notwithstanding the provisions of Article 14, income derived by entertainers (such as theatrical, motion picture, radio or television artistes and musicians and athletes) from their personal activities as such may be taxed in the Contracting State in which these activities are exercised.
 2.

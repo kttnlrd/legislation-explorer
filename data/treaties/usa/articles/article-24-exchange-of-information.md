@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 24
 title: "Article 24 — Exchange of Information"
 ---
-# Article 24 — Exchange of Information
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Mutual Agreement Procedure
 (1)
 (a)
 Where a resident of one of the Contracting States considers that the action of one or both of the Contracting States results or will result for him in taxation not in accordance with this Convention, he may, notwithstanding the remedies provided by the domestic laws of those States, present his case to the competent authority of the Contracting State of which he is a resident or citizen. The case must be presented within three years from the first notification of that action.

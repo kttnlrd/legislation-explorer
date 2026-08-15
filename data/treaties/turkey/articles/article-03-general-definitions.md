@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 3
 title: "Article 3 — General Definitions"
 ---
-# Article 3 — General Definitions
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-General Definitions
 1.
 For the purposes of this Convention, unless the context otherwise requires:
 (a)

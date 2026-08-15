@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 13
 title: "Article 13 — Capital Gains"
 ---
-# Article 13 — Capital Gains
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Alienation of Property
 (1)
 Income or gains derived by a resident of one of the Contracting States from the alienation or disposition of real property situated in the other Contracting State may be taxed in that other State.
 (2)

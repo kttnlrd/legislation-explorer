@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 9
 title: "Article 9 — Associated Enterprises"
 ---
-# Article 9 — Associated Enterprises
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Associated Enterprises
 (1)
 Where:
 (a)

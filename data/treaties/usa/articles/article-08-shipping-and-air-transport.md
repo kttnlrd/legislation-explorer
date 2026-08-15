@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 8
 title: "Article 8 — Shipping and Air Transport"
 ---
-# Article 8 — Shipping and Air Transport
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Shipping and Air Transport
 (1)
 Profits derived by a resident of one of the Contracting States from the operation in international traffic of ships or aircraft shall be taxable only in that State. For the purposes of this Article, profits from the operation in international traffic of ships or aircraft include:
 (a)

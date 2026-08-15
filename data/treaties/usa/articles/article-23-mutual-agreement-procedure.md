@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 23
 title: "Article 23 — Mutual Agreement Procedure"
 ---
-# Article 23 — Mutual Agreement Procedure
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Non-Discrimination
 (1)
 Each Contracting State in enacting tax measures shall ensure that:
 (a)

@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 10
 title: "Article 10 — Dividends"
 ---
-# Article 10 — Dividends
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Dividends
 1
 Dividends paid by a company which is a resident of one of the Contracting States for the purposes of its tax, being dividends to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
 2

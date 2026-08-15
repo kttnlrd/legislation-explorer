@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 19
 title: "Article 19 — Government Service"
 ---
-# Article 19 — Government Service
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Government Service

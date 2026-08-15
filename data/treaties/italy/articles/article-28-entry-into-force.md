@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 28
 title: "Article 28 — Entry into Force"
 ---
-# Article 28 — Entry into Force
-Italian Convention
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Refunds

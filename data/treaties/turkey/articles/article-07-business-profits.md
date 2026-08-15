@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 7
 title: "Article 7 — Business Profits"
 ---
-# Article 7 — Business Profits
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Business Profits
 1.
 The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business in that manner, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 2.

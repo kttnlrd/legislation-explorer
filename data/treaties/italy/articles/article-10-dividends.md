@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 10
 title: "Article 10 — Dividends"
 ---
-# Article 10 — Dividends
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Dividends

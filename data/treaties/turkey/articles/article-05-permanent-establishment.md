@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Permanent Establishment
 1.
 For the purposes of this Convention, the term 
 "

@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 21
 title: "Article 21 — Other Income"
 ---
-# Article 21 — Other Income
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Other Income
 (1)
 Items of income of a resident of one of the Contracting States, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 (2)

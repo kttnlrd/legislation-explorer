@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 14
 title: "Article 14 — Independent Personal Services"
 ---
-# Article 14 — Independent Personal Services
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Independent Personal Services
 (1)
 Income derived by an individual who is a resident of one of the Contracting States in respect of professional services or other independent activities of a similar character shall be taxable only in that State. However if such an individual:
 (a)

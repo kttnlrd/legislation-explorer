@@ -5,10 +5,6 @@ treaty_schedule: 14
 article: 26
 title: "Article 26 — Members of Diplomatic Missions"
 ---
-# Article 26 — Members of Diplomatic Missions
-Philippine Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Exchange of Information

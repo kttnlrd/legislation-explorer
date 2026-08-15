@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Permanent Establishment
 (1)
 For the purposes of this Agreement, the term 
 "

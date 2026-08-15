@@ -22,7 +22,7 @@ export default function TreatyContent({
 }: TreatyContentProps) {
   const articleId = articleData?.article ?? ''
   const articleTitle = articleData?.title || ''
-  const body = (articleData?.content || '').replace(/^---\n[\s\S]*?\n---\n?/, '')
+  const body = (articleData?.content || '').replace(/^---\n[\s\S]*?\n---\n?/, '').replace(/^#\s+[^\n]+\n?/, '')
   const components = createMarkdownComponents(isMobile, country, onNavigate, onNavigateRuling)
 
   return (

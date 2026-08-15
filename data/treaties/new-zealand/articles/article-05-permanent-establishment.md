@@ -5,14 +5,6 @@ treaty_schedule: 4
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-New Zealand Convention
-CONVENTION BETWEEN AUSTRALIA AND NEW ZEALAND FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND FRINGE BENEFITS AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-CHAPTER II 
 -
  DEFINITIONS
 Permanent Establishment

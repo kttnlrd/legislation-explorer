@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 3
 title: "Article 3 — General Definitions"
 ---
-# Article 3 — General Definitions
-Italian Convention
-CHAPTER II 
 -
  DEFINITIONS
 General Definitions

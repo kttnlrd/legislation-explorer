@@ -5,14 +5,6 @@ treaty_schedule: 23
 article: 24
 title: "Article 24 — Exchange of Information"
 ---
-# Article 24 — Exchange of Information
-Norwegian Convention
-CONVENTION BETWEEN AUSTRALIA AND THE KINGDOM OF NORWAY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Non-discrimination
 (1)
 Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected.
 (2)

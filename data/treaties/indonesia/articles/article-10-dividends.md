@@ -5,14 +5,6 @@ treaty_schedule: 37
 article: 10
 title: "Article 10 — Dividends"
 ---
-# Article 10 — Dividends
-Indonesian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF INDONESIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Dividends
 (1)
 Dividends paid by a company which is a resident of one of the Contracting States under the law of that State relating to its tax, being dividends to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
 (2)

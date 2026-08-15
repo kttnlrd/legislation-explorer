@@ -5,14 +5,6 @@ treaty_schedule: 36
 article: 22
 title: "Article 22 — Elimination of Double Taxation"
 ---
-# Article 22 — Elimination of Double Taxation
-Polish Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF POLAND FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Income Not Expressly Mentioned
 1.
 Items of income of a resident of one of the Contracting States which are not expressly mentioned in the foregoing Articles of this Agreement shall be taxable only in that State but, to the extent that those items are derived from sources in the other Contracting State, they may also be taxed in that other State.
 2.

@@ -5,14 +5,6 @@ treaty_schedule: 1
 article: 26
 title: "Article 26 — Entry into Force"
 ---
-# Article 26 — Entry into Force
-Taipei Agreement
-AGREEMENT BETWEEN THE AUSTRALIAN COMMERCE AND INDUSTRY OFFICE AND THE TAIPEI ECONOMIC AND CULTURAL OFFICE CONCERNING THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Sch 1 renumbered from Sch 41 by No 45 of 2011, s 3 and Sch 1 item 68, effective 27 June 2011. For transitional provisions see note under s
-3(1)
-.
-Sch 1 (formerly Sch 41) inserted by No 39 of 1996.
-Termination
 This Agreement shall continue in effect indefinitely, but an authority administering either territory may, on or before 30 June in any calendar year beginning after the expiration of 5 years from the date of its entry into effect, give to the other written notice of termination and, in that event, the Agreement shall cease to be effective:
 (a)
 in both territories, in respect of withholding tax on income, profits or gains derived by a non-resident, in relation to income, profits or gains derived on or after the first day of the second month next following that in which the notice of termination is given;

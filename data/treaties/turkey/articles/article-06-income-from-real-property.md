@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 6
 title: "Article 6 — Income from Real Property"
 ---
-# Article 6 — Income from Real Property
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Income from Real Property
 1.
 Income from real property (including income from agricultural, pastoral or forestry activities on that real property) may be taxed in the Contracting State in which the real property is situated.
 2.

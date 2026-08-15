@@ -5,10 +5,6 @@ treaty_schedule: 31
 article: 14
 title: "Article 14 — Independent Personal Services"
 ---
-# Article 14 — Independent Personal Services
-Sri Lankan Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Independent Personal Services
 (1)
 Income derived by an individual who is a resident of one of the Contracting States in respect of professional services or other independent activities of a similar character shall be taxable only in that State. However if that individual:
 (a)

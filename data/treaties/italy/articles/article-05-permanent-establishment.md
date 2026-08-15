@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-Italian Convention
-CHAPTER II 
 -
  DEFINITIONS
 Permanent Establishment

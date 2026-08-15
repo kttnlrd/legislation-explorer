@@ -5,10 +5,6 @@ treaty_schedule: 31
 article: 13
 title: "Article 13 — Capital Gains"
 ---
-# Article 13 — Capital Gains
-Sri Lankan Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Alienation of Property
 (1)
 Income or gains derived by a resident of one of the Contracting States from the alienation of real property referred to in Article 6 and, as provided in that Article, situated in the other Contracting State, may be taxed in that other State.
 (2)

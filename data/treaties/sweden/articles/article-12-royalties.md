@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 12
 title: "Article 12 — Royalties"
 ---
-# Article 12 — Royalties
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Royalties
 (1)
 Royalties arising in one of the Contracting States, being royalties to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
 (2)

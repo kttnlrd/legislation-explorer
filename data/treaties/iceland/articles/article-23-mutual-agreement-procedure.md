@@ -5,10 +5,6 @@ treaty_schedule: 63
 article: 23
 title: "Article 23 — Mutual Agreement Procedure"
 ---
-# Article 23 — Mutual Agreement Procedure
-Icelandic Convention
-CONVENTION BETWEEN AUSTRALIA AND ICELAND FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Mutual Agreement Procedure

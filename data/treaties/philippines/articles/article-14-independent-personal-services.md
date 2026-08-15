@@ -5,10 +5,6 @@ treaty_schedule: 14
 article: 14
 title: "Article 14 — Independent Personal Services"
 ---
-# Article 14 — Independent Personal Services
-Philippine Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER III 
 -
  TAXATION OF INCOME
 Independent Personal Services

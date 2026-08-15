@@ -5,14 +5,6 @@ treaty_schedule: 11
 article: 24
 title: "Article 24 — Exchange of Information"
 ---
-# Article 24 — Exchange of Information
-French Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE FRENCH REPUBLIC FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Mutual Agreement Procedure
 1.
 Where a person considers that the actions of one or both of the Contracting States result or will result for the person in taxation not in accordance with this Convention, the person may, irrespective of the remedies provided by the domestic law of those States concerning taxes to which this Convention applies, present a case to the competent authority of the Contracting State of which the person is a resident. The case must be presented within 3 years from the first notification of the action resulting in taxation not in accordance with this Convention.
 2.

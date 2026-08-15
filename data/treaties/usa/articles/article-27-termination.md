@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 27
 title: "Article 27 — Termination"
 ---
-# Article 27 — Termination
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Miscellaneous
 (1)
 (a)
 Income derived by a resident of the United States which, under this Convention, may be taxed in Australia shall for the purposes of the income tax law of Australia and of this Convention be deemed to be income from sources in Australia.

@@ -5,14 +5,6 @@ treaty_schedule: 18
 article: 18
 title: "Article 18 — Pensions"
 ---
-# Article 18 — Pensions
-Danish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Pensions and Annuities
 (1)
 Subject to the provisions of paragraph (3), any pension or annuity paid to a resident of one of the Contracting States shall be taxable only in that State.
 (2)

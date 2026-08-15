@@ -5,14 +5,6 @@ treaty_schedule: 30
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-Thai Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE KINGDOM OF THAILAND FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty. A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Mutual Agreement Procedure
 1.
 Where a person who is a resident of one of the Contracting States considers that the actions of the taxation authority of one or both of the Contracting States result or will result for the person in taxation not in accordance with this Agreement, the person may, notwithstanding the remedies provided by the domestic laws of those States, present a case to the competent authority of the Contracting State of which the person is a resident. The case must be presented within three years from the first notification of the action.
 2.

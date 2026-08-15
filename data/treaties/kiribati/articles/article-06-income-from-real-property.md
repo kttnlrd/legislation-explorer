@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 6
 title: "Article 6 — Income from Real Property"
 ---
-# Article 6 — Income from Real Property
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Income from Real Property
 1
 Income from real property may be taxed in the Contracting State in which the real property is situated.
 2

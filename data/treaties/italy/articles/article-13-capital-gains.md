@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 13
 title: "Article 13 — Capital Gains"
 ---
-# Article 13 — Capital Gains
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Alienation of Property

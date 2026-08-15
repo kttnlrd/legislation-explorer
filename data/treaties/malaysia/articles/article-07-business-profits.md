@@ -5,16 +5,6 @@ treaty_schedule: 16
 article: 7
 title: "Article 7 — Business Profits"
 ---
-# Article 7 — Business Profits
-Malaysian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Malaysian Protocol (No 1), the Malaysian Exchange of Letters,
-the Malaysian Protocol (No 2) and the Malaysian Protocol (No 3)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Business Income or Profits
 1.
 The income or profits of an enterprise of one of the Contracting States shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the income or profits of the enterprise may be taxed in the other State, but only so much of them as is attributable to that permanent establishment.
 2.

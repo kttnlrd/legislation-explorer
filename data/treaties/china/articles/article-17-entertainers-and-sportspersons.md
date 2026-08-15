@@ -5,16 +5,6 @@ treaty_schedule: 28
 article: 17
 title: "Article 17 — Entertainers and Sportspersons"
 ---
-# Article 17 — Entertainers and Sportspersons
-Chinese Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE PEOPLE
-'
-S REPUBLIC OF CHINA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Artistes and Athletes
 1.
 Notwithstanding the provisions of Articles 14 and 15, income derived by residents of a Contracting State as entertainers (such as theatrical, motion picture, radio or television artistes and musicians and athletes) from their personal activities as such exercised in the other Contracting State may be taxed in that other State.
 2.

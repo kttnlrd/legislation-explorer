@@ -5,14 +5,6 @@ treaty_schedule: 24
 article: 23
 title: "Article 23 — Mutual Agreement Procedure"
 ---
-# Article 23 — Mutual Agreement Procedure
-Maltese Agreement
-AGREEMENT BETWEEN AUSTRALIA AND MALTA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-CHAPTER IV 
 -
  METHODS OF ELIMINATION OF DOUBLE TAXATION
 (1)

@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Permanent Establishment
 1
 For the purposes of this Agreement, the term 
 "

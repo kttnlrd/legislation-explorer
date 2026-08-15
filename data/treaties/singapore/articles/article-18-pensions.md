@@ -5,14 +5,6 @@ treaty_schedule: 5
 article: 18
 title: "Article 18 — Pensions"
 ---
-# Article 18 — Pensions
-Singaporean Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Singaporean Exchange of Notes (No 1), the Singaporean Exchange of Notes (No 2), the Singaporean Exchange of Notes (No 3), the Singaporean Protocol (No 1) and Singaporean Protocol (No 2)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
 (1)
 Subject to the provisions of the law of Australia from time to time in force which relate to the allowance of a credit against Australian tax of tax paid in a country outside Australia (which shall not affect the general principle hereof), Singapore tax paid under the law of Singapore and in accordance with this Agreement, whether directly or by deduction, in respect of income derived by a person who is a resident of Australia from sources in Singapore shall be allowed as a credit against Australian tax payable in respect of that income.
 (2)

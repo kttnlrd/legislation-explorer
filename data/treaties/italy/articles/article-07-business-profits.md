@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 7
 title: "Article 7 — Business Profits"
 ---
-# Article 7 — Business Profits
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Business Profits

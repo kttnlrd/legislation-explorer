@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 4
 title: "Article 4 — Resident"
 ---
-# Article 4 — Resident
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Residence
 (1)
 For the purposes of this Convention:
 (a)

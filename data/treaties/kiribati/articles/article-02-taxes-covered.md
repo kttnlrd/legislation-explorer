@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 2
 title: "Article 2 — Taxes Covered"
 ---
-# Article 2 — Taxes Covered
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Taxes Covered
 1
 The existing taxes to which this Agreement shall apply are:
 (a)

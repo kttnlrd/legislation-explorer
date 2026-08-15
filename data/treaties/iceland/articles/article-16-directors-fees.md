@@ -5,10 +5,6 @@ treaty_schedule: 63
 article: 16
 title: "Article 16 — Directors' Fees"
 ---
-# Article 16 — Directors' Fees
-Icelandic Convention
-CONVENTION BETWEEN AUSTRALIA AND ICELAND FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
-CHAPTER III 
 -
  TAXATION OF INCOME
 Entertainers and Sportspersons

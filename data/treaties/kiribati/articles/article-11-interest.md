@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 11
 title: "Article 11 — Interest"
 ---
-# Article 11 — Interest
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Interest
 1
 Interest arising in one of the Contracting States, being interest to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
 2

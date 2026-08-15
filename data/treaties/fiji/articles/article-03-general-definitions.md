@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 3
 title: "Article 3 — General Definitions"
 ---
-# Article 3 — General Definitions
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-General Definitions
 (1)
 In this Agreement, unless the context otherwise requires:
 (a)

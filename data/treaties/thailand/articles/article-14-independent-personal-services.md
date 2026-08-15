@@ -5,14 +5,6 @@ treaty_schedule: 30
 article: 14
 title: "Article 14 — Independent Personal Services"
 ---
-# Article 14 — Independent Personal Services
-Thai Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE KINGDOM OF THAILAND FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty. A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Independent Personal Services
 1.
 Income derived by an individual who is a resident of one of the Contracting States in respect of professional services or other independent activities of a similar character shall be taxable only in that State unless the services or activities are performed in the other Contracting State. If the services or activities are so performed, such income as is derived in respect thereof may be taxed in that other State.
 2.

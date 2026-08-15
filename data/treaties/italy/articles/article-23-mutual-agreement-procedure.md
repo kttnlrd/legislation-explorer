@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 23
 title: "Article 23 — Mutual Agreement Procedure"
 ---
-# Article 23 — Mutual Agreement Procedure
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Source of Income

@@ -5,10 +5,6 @@ treaty_schedule: 31
 article: 16
 title: "Article 16 — Directors' Fees"
 ---
-# Article 16 — Directors' Fees
-Sri Lankan Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Directors
 '
  Fees
 Directors

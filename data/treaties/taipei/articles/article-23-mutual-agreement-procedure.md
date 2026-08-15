@@ -5,14 +5,6 @@ treaty_schedule: 1
 article: 23
 title: "Article 23 — Mutual Agreement Procedure"
 ---
-# Article 23 — Mutual Agreement Procedure
-Taipei Agreement
-AGREEMENT BETWEEN THE AUSTRALIAN COMMERCE AND INDUSTRY OFFICE AND THE TAIPEI ECONOMIC AND CULTURAL OFFICE CONCERNING THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Sch 1 renumbered from Sch 41 by No 45 of 2011, s 3 and Sch 1 item 68, effective 27 June 2011. For transitional provisions see note under s
-3(1)
-.
-Sch 1 (formerly Sch 41) inserted by No 39 of 1996.
-Mutual agreement procedure
 1.
 Where a person considers that the actions of the competent authority of one or both of the territories result or will result for the person in taxation not in accordance with this Agreement, the person may, irrespective of the remedies provided by the domestic law of those territories concerning taxes to which this Agreement applies, present a case to the competent authority of the territory of which the person is a resident. The case must be presented within 3 years from the first notification of the action resulting in taxation not in accordance with this Agreement.
 2.

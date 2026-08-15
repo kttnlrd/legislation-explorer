@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-Italian Convention
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Mutual Agreement Procedure

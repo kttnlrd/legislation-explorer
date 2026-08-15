@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER II 
 -
  DEFINITIONS
 Permanent Establishment

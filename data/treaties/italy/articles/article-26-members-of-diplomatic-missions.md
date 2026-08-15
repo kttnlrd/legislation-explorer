@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 26
 title: "Article 26 — Members of Diplomatic Missions"
 ---
-# Article 26 — Members of Diplomatic Missions
-Italian Convention
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Exchange of Information

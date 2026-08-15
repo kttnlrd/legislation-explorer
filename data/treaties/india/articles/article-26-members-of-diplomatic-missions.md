@@ -5,15 +5,6 @@ treaty_schedule: 35
 article: 26
 title: "Article 26 — Members of Diplomatic Missions"
 ---
-# Article 26 — Members of Diplomatic Missions
-Indian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF INDIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Indian Protocol (No 1)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Exchange of Information
 (1)
 The competent authorities of the Contracting States shall exchange such information (including documents or certified copies of the documents) as is forseeably relevant for carrying out the provisions of this Agreement, or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 
 1

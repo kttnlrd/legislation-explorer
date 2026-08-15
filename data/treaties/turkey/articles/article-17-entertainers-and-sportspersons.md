@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 17
 title: "Article 17 — Entertainers and Sportspersons"
 ---
-# Article 17 — Entertainers and Sportspersons
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Entertainers
 1.
 Notwithstanding the provisions of Articles 14 and 15, income derived by residents of a Contracting State as entertainers (such as theatrical, motion picture, radio or television artistes and musicians and sportspersons) from their personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 2.

@@ -5,14 +5,6 @@ treaty_schedule: 23
 article: 26
 title: "Article 26 — Members of Diplomatic Missions"
 ---
-# Article 26 — Members of Diplomatic Missions
-Norwegian Convention
-CONVENTION BETWEEN AUSTRALIA AND THE KINGDOM OF NORWAY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Exchange of Information
 (1)
 The competent authorities of the Contracting States shall exchange such information as is forseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes referred to in Article 2, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1.
 (2)

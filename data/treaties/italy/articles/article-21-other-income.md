@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 21
 title: "Article 21 — Other Income"
 ---
-# Article 21 — Other Income
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Students

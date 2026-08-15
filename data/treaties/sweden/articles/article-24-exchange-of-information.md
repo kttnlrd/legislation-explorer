@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 24
 title: "Article 24 — Exchange of Information"
 ---
-# Article 24 — Exchange of Information
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Methods of Elimination of Double Taxation
 (1)
 Subject to the provisions of the law of Australia from time to time in force which relate to the allowance of a credit against Australian tax of tax paid in a country outside Australia (which shall not affect the general principle hereof), Swedish tax paid under the law of Sweden and in accordance with this Agreement, whether directly or by deduction, in respect of income derived by a person who is a resident of Australia from sources in Sweden (not including, in the case of a dividend, tax paid in respect of the profits out of which the dividend is paid) shall be allowed as a credit against Australian tax payable in respect of that income.
 (2)

@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 20
 title: "Article 20 — Students"
 ---
-# Article 20 — Students
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Professors and Teachers

@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Exchange of Information

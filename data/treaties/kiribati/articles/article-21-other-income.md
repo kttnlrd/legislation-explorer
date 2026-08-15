@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 21
 title: "Article 21 — Other Income"
 ---
-# Article 21 — Other Income
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Income Not Expressly Mentioned
 1
 Items of income of a resident of one of the Contracting States which are not expressly mentioned in the foregoing Articles of this Agreement shall be taxable only in that State.
 2

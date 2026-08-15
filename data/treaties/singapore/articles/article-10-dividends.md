@@ -5,14 +5,6 @@ treaty_schedule: 5
 article: 10
 title: "Article 10 — Dividends"
 ---
-# Article 10 — Dividends
-Singaporean Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Singaporean Exchange of Notes (No 1), the Singaporean Exchange of Notes (No 2), the Singaporean Exchange of Notes (No 3), the Singaporean Protocol (No 1) and Singaporean Protocol (No 2)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
 1.
 The Australian tax on royalties derived by a Singapore resident who is beneficially entitled to the royalties shall not exceed 10 per centum of the gross amount of the royalties.
 2.

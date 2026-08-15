@@ -5,10 +5,6 @@ treaty_schedule: 31
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-Sri Lankan Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Exchange of Information
 (1)
 The competent authorities of the Contracting States shall exchange such information as is necessary for the carrying out of this Agreement or of the domestic laws of the Contracting States concerning the taxes to which this Agreement applies insofar as the taxation thereunder is not contrary to this Agreement, as well as to prevent fiscal evasion in relation to such taxes. The exchange of information is not restricted by Article 1. Any information received by the competent authority of a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes to which this Agreement applies and shall be used only for such purposes.
 (2)

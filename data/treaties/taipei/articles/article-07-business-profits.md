@@ -5,14 +5,6 @@ treaty_schedule: 1
 article: 7
 title: "Article 7 — Business Profits"
 ---
-# Article 7 — Business Profits
-Taipei Agreement
-AGREEMENT BETWEEN THE AUSTRALIAN COMMERCE AND INDUSTRY OFFICE AND THE TAIPEI ECONOMIC AND CULTURAL OFFICE CONCERNING THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Sch 1 renumbered from Sch 41 by No 45 of 2011, s 3 and Sch 1 item 68, effective 27 June 2011. For transitional provisions see note under s
-3(1)
-.
-Sch 1 (formerly Sch 41) inserted by No 39 of 1996.
-Business profits
 1.
 The profits of an enterprise of a territory shall be taxable only in that territory unless the enterprise carries on business in the other territory through a permanent establishment situated in that other territory. If the enterprise carries on business in that manner, the profits of the enterprise may be taxed in the other territory but only so much of them as is attributable to that permanent establishment.
 2.

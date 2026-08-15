@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 7
 title: "Article 7 — Business Profits"
 ---
-# Article 7 — Business Profits
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER III 
 -
  TAXATION OF INCOME
 Business Profits

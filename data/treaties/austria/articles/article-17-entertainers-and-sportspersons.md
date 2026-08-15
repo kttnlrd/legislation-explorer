@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 17
 title: "Article 17 — Entertainers and Sportspersons"
 ---
-# Article 17 — Entertainers and Sportspersons
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER III 
 -
  TAXATION OF INCOME
 Entertainers

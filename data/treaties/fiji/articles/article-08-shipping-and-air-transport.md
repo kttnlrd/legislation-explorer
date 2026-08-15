@@ -5,10 +5,6 @@ treaty_schedule: 32
 article: 8
 title: "Article 8 — Shipping and Air Transport"
 ---
-# Article 8 — Shipping and Air Transport
-Fijian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Shipping and Air Transport
 (1)
 Profits from the operation of ships or aircraft derived by a resident of one of the Contracting States shall be taxable only in that State.
 (2)

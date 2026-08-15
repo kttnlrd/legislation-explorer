@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 10
 title: "Article 10 — Dividends"
 ---
-# Article 10 — Dividends
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Dividends
 (1)
 Dividends paid by a company which is a resident of one of the Contracting States for the purposes of its tax, being dividends to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
 (2)

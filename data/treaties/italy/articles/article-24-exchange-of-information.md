@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 24
 title: "Article 24 — Exchange of Information"
 ---
-# Article 24 — Exchange of Information
-Italian Convention
-CHAPTER IV 
 -
  METHODS OF ELIMINATION OF DOUBLE TAXATION
 (1)

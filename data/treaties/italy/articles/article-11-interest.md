@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 11
 title: "Article 11 — Interest"
 ---
-# Article 11 — Interest
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Interest

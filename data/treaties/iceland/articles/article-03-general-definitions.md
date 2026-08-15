@@ -5,10 +5,6 @@ treaty_schedule: 63
 article: 3
 title: "Article 3 — General Definitions"
 ---
-# Article 3 — General Definitions
-Icelandic Convention
-CONVENTION BETWEEN AUSTRALIA AND ICELAND FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
-CHAPTER II 
 -
  DEFINITIONS
 General Definitions

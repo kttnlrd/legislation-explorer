@@ -5,14 +5,6 @@ treaty_schedule: 23
 article: 27
 title: "Article 27 — Territorial Extension"
 ---
-# Article 27 — Territorial Extension
-Norwegian Convention
-CONVENTION BETWEEN AUSTRALIA AND THE KINGDOM OF NORWAY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Assistance in the Collection of Taxes
 (1)
 The Contracting States shall lend assistance to each other in the collection of revenue claims. This assistance is not restricted by Article 1. The competent authorities of the Contracting States may by mutual agreement settle the mode of application of this Article.
 (2)

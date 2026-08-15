@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 18
 title: "Article 18 — Pensions"
 ---
-# Article 18 — Pensions
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Pensions and Annuities
 1
 Pensions (including government pensions) and annuities paid to a resident of one of the Contracting States shall be taxable only in that State.
 2

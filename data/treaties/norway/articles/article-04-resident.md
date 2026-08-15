@@ -5,14 +5,6 @@ treaty_schedule: 23
 article: 4
 title: "Article 4 — Resident"
 ---
-# Article 4 — Resident
-Norwegian Convention
-CONVENTION BETWEEN AUSTRALIA AND THE KINGDOM OF NORWAY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Residence
 (1)
 For the purposes of this Convention, the term 
 "

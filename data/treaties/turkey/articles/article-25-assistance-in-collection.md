@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Mutual Agreement Procedure
 1.
 Where a person considers that the actions of one or both of the Contracting States result or will result for the person in taxation not in accordance with this Convention, the person may, irrespective of the remedies provided by the domestic law of those States concerning taxes to which this Convention applies, present a case to the competent authority of the Contracting State of which the person is a resident or, if the case comes under paragraph 1 of Article 24, to that of the Contracting State of which the person is a national. The case must be presented within 3 years from the first notification of the action resulting in taxation not in accordance with this Convention.
 2.

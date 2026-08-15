@@ -5,16 +5,6 @@ treaty_schedule: 28
 article: 19
 title: "Article 19 — Government Service"
 ---
-# Article 19 — Government Service
-Chinese Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE PEOPLE
-'
-S REPUBLIC OF CHINA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Government Service
 1.
 (a)
 Remuneration, other than a pension, paid by a Contracting State or a political subdivision or local authority of that State to an individual in respect of services rendered in the discharge of functions of a governmental nature shall be taxable only in that Contracting State.

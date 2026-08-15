@@ -5,10 +5,6 @@ treaty_schedule: 63
 article: 15
 title: "Article 15 — Income from Employment"
 ---
-# Article 15 — Income from Employment
-Icelandic Convention
-CONVENTION BETWEEN AUSTRALIA AND ICELAND FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
-CHAPTER III 
 -
  TAXATION OF INCOME
 Directors

@@ -5,10 +5,6 @@ treaty_schedule: 63
 article: 9
 title: "Article 9 — Associated Enterprises"
 ---
-# Article 9 — Associated Enterprises
-Icelandic Convention
-CONVENTION BETWEEN AUSTRALIA AND ICELAND FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
-CHAPTER III 
 -
  TAXATION OF INCOME
 Associated Enterprises

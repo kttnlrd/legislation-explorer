@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 13
 title: "Article 13 — Capital Gains"
 ---
-# Article 13 — Capital Gains
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Alienation of Property
 1.
 Income, profits or gains derived by a resident of a Contracting State from the alienation of real property referred to in Article 6 and situated in the other Contracting State may be taxed in that other State.
 2.

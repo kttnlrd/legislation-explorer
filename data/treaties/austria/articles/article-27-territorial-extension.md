@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 27
 title: "Article 27 — Territorial Extension"
 ---
-# Article 27 — Territorial Extension
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER VI 
 -
  FINAL PROVISIONS
 Entry into Force

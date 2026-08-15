@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Mutual Agreement Procedure
 (1)
 Where a resident of one of the Contracting States considers that the actions of the taxation authority of one or both of the Contracting States result or will result for him in taxation not in accordance with this Agreement, he may, notwithstanding the remedies provided by the national laws of those States, present his case to the competent authority of the Contracting State of which he is a resident. The case must be presented within three years from the first notification of the action.
 (2)

@@ -5,10 +5,6 @@ treaty_schedule: 63
 article: 17
 title: "Article 17 — Entertainers and Sportspersons"
 ---
-# Article 17 — Entertainers and Sportspersons
-Icelandic Convention
-CONVENTION BETWEEN AUSTRALIA AND ICELAND FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
-CHAPTER III 
 -
  TAXATION OF INCOME
 Pensions

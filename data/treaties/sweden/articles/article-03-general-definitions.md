@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 3
 title: "Article 3 — General Definitions"
 ---
-# Article 3 — General Definitions
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-General Definitions
 (1)
 In this Agreement, unless the context otherwise requires:
 (a)

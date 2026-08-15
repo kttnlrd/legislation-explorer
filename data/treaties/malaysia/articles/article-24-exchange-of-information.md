@@ -5,16 +5,6 @@ treaty_schedule: 16
 article: 24
 title: "Article 24 — Exchange of Information"
 ---
-# Article 24 — Exchange of Information
-Malaysian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Malaysian Protocol (No 1), the Malaysian Exchange of Letters,
-the Malaysian Protocol (No 2) and the Malaysian Protocol (No 3)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Mutual Agreement Procedure
 1.
 Where a resident of one of the Contracting States considers that the actions of the competent authority of one or both of the Contracting States result or will result for him in taxation not in accordance with this Agreement, he may, notwithstanding the remedies provided by the taxation laws of those States, present his case to the competent authority of the Contracting State of which he is a resident. The case must be presented within two years from the first notification of the action.
 2.

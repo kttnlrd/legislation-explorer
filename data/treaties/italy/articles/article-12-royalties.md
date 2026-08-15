@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 12
 title: "Article 12 — Royalties"
 ---
-# Article 12 — Royalties
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Royalties

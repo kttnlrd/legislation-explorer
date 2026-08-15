@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 2
 title: "Article 2 — Taxes Covered"
 ---
-# Article 2 — Taxes Covered
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Taxes Covered
 1.
 The existing taxes to which this Convention shall apply are:
 (a)

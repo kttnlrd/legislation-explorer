@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 7
 title: "Article 7 — Business Profits"
 ---
-# Article 7 — Business Profits
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Business Profits
 (1)
 The business profits of an enterprise of one of the Contracting States shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the business profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 (2)

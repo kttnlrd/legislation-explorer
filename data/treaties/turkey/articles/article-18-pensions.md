@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 18
 title: "Article 18 — Pensions"
 ---
-# Article 18 — Pensions
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Pensions and Annuities
 1.
 Subject to the provisions of paragraph 2 of Article 19, pensions, annuities and similar periodic remuneration, paid to a resident of a Contracting State shall be taxable only in that State.
 2.

@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 29
 title: "Article 29 — Termination"
 ---
-# Article 29 — Termination
-Italian Convention
-CHAPTER VI 
 -
  FINAL PROVISIONS
 Entry into Force

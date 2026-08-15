@@ -5,14 +5,6 @@ treaty_schedule: 5
 article: 5
 title: "Article 5 — Permanent Establishment"
 ---
-# Article 5 — Permanent Establishment
-Singaporean Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Singaporean Exchange of Notes (No 1), the Singaporean Exchange of Notes (No 2), the Singaporean Exchange of Notes (No 3), the Singaporean Protocol (No 1) and Singaporean Protocol (No 2)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
 (1)
 The profits of an enterprise of one of the Contracting States shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 (2)

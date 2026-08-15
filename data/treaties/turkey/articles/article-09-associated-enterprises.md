@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 9
 title: "Article 9 — Associated Enterprises"
 ---
-# Article 9 — Associated Enterprises
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Associated Enterprises
 1.
 Where:
 (a)

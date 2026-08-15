@@ -5,14 +5,6 @@ treaty_schedule: 43
 article: 24
 title: "Article 24 — Exchange of Information"
 ---
-# Article 24 — Exchange of Information
-Slovak Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE SLOVAK REPUBLIC FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Mutual Agreement Procedure
 1.
 Where a person who is a resident of a Contracting State considers that the actions of the competent authority of a Contracting State result or will result for the person in taxation not in accordance with the provisions of this Agreement, the person may, notwithstanding the remedies provided by the national laws of the Contracting States, present a case to the competent authority of the Contracting State of which the person is a resident. The case must be presented within four years from the first notification of the action giving rise to taxation not in accordance with the provisions of this Agreement.
 2.

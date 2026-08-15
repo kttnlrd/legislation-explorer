@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 26
 title: "Article 26 — Members of Diplomatic Missions"
 ---
-# Article 26 — Members of Diplomatic Missions
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Exchange of Information
 1.
 The competent authorities of the Contracting States shall exchange such information as is forseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic law concerning taxes referred to in Article 2, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1.
 2.

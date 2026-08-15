@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 22
 title: "Article 22 — Elimination of Double Taxation"
 ---
-# Article 22 — Elimination of Double Taxation
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Income of Dual Resident

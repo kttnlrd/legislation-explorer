@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 14
 title: "Article 14 — Independent Personal Services"
 ---
-# Article 14 — Independent Personal Services
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Independent Personal Services

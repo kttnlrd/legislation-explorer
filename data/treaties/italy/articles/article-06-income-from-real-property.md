@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 6
 title: "Article 6 — Income from Real Property"
 ---
-# Article 6 — Income from Real Property
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Income from Real Property

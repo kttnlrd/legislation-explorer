@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 8
 title: "Article 8 — Shipping and Air Transport"
 ---
-# Article 8 — Shipping and Air Transport
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER III 
 -
  TAXATION OF INCOME
 Ships and Aircraft

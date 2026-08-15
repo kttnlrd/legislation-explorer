@@ -5,14 +5,6 @@ treaty_schedule: 1
 article: 12
 title: "Article 12 — Royalties"
 ---
-# Article 12 — Royalties
-Taipei Agreement
-AGREEMENT BETWEEN THE AUSTRALIAN COMMERCE AND INDUSTRY OFFICE AND THE TAIPEI ECONOMIC AND CULTURAL OFFICE CONCERNING THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Sch 1 renumbered from Sch 41 by No 45 of 2011, s 3 and Sch 1 item 68, effective 27 June 2011. For transitional provisions see note under s
-3(1)
-.
-Sch 1 (formerly Sch 41) inserted by No 39 of 1996.
-Royalties
 1.
 Royalties arising in a territory, being royalties to which a resident of the other territory is beneficially entitled, may be taxed in that other territory.
 2.

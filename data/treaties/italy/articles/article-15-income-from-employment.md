@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 15
 title: "Article 15 — Income from Employment"
 ---
-# Article 15 — Income from Employment
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Dependent Personal Services

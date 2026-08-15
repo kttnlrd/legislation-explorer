@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 9
 title: "Article 9 — Associated Enterprises"
 ---
-# Article 9 — Associated Enterprises
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Associated Enterprises

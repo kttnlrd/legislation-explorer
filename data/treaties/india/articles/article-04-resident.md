@@ -5,15 +5,6 @@ treaty_schedule: 35
 article: 4
 title: "Article 4 — Resident"
 ---
-# Article 4 — Resident
-Indian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF INDIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the Indian Protocol (No 1)
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Residence
 (1)
 For the purposes of this Agreement, a person is a resident of one of the Contracting States if the person is a resident of that Contracting State for the purposes of its tax. However, a person is not a resident of a Contracting State for the purposes of this Agreement if the person is liable to tax in that State in respect only of income from sources in that State.
 (2)

@@ -5,14 +5,6 @@ treaty_schedule: 37
 article: 15
 title: "Article 15 — Income from Employment"
 ---
-# Article 15 — Income from Employment
-Indonesian Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF INDONESIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Dependent Personal Services
 (1)
 Subject to the provisions of Articles 16, 18, 19 and 20, salaries, wages and other similar remuneration derived by an individual who is a resident of one of the Contracting States in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived from that exercise may be taxed in that other State.
 (2)

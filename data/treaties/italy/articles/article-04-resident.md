@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 4
 title: "Article 4 — Resident"
 ---
-# Article 4 — Resident
-Italian Convention
-CHAPTER II 
 -
  DEFINITIONS
 Residence

@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 18
 title: "Article 18 — Pensions"
 ---
-# Article 18 — Pensions
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Pensions and Annuities
 (1)
 Subject to the provisions of paragraph (3), any pension or annuity paid to a resident of one of the Contracting States shall be taxable only in that State.
 (2)

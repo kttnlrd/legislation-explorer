@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 25
 title: "Article 25 — Assistance in Collection"
 ---
-# Article 25 — Assistance in Collection
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Exchange of Information
 (1)
 The competent authorities shall exchange such information as is necessary for carrying out the provisions of this Convention or for the prevention of fraud or for the administration of statutory provisions concerning taxes to which this Convention applies provided the information is of a class that can be obtained under the laws and administrative practices of each Contracting State with respect to its own taxes.
 (2)

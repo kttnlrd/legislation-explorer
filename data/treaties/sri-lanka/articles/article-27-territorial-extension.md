@@ -5,10 +5,6 @@ treaty_schedule: 31
 article: 27
 title: "Article 27 — Territorial Extension"
 ---
-# Article 27 — Territorial Extension
-Sri Lankan Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Entry into Force
 (1)
 This Agreement shall enter into force on the date on which the Contracting States exchange notes through the diplomatic channel notifying each other that the last of such things has been done as is necessary to give this Agreement the force of law in Australia and in Sri Lanka, as the case may be, and thereupon this Agreement shall have effect:
 (a)

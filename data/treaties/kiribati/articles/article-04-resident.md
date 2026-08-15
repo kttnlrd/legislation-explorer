@@ -5,10 +5,6 @@ treaty_schedule: 34
 article: 4
 title: "Article 4 — Resident"
 ---
-# Article 4 — Resident
-Kiribati Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF KIRIBATI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Residence
 1
 For the purposes of this Agreement, a person is a resident of one of the Contracting States:
 (a)

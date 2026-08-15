@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 17
 title: "Article 17 — Entertainers and Sportspersons"
 ---
-# Article 17 — Entertainers and Sportspersons
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Entertainers
 (1)
 Notwithstanding the provisions of Articles 
 14

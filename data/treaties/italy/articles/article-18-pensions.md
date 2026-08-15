@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 18
 title: "Article 18 — Pensions"
 ---
-# Article 18 — Pensions
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Pensions and Annuities

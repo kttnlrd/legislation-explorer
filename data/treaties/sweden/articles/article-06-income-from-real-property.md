@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 6
 title: "Article 6 — Income from Real Property"
 ---
-# Article 6 — Income from Real Property
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Income from Real Property
 (1)
 Income from real property, including royalties and other payments in respect of the operation of mines or quarries or of the exploitation of any natural resource, may be taxed in the Contracting State in which the real property, mines, quarries, or natural resources are situated.
 (2)

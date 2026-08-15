@@ -5,10 +5,6 @@ treaty_schedule: 63
 article: 27
 title: "Article 27 — Territorial Extension"
 ---
-# Article 27 — Territorial Extension
-Icelandic Convention
-CONVENTION BETWEEN AUSTRALIA AND ICELAND FOR THE ELIMINATION OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF TAX EVASION AND AVOIDANCE
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Entitlement to Benefits

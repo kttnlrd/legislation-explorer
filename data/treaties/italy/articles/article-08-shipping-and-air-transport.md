@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 8
 title: "Article 8 — Shipping and Air Transport"
 ---
-# Article 8 — Shipping and Air Transport
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Shipping and Aircraft

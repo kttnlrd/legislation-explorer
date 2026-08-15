@@ -5,10 +5,6 @@ treaty_schedule: 31
 article: 17
 title: "Article 17 — Entertainers and Sportspersons"
 ---
-# Article 17 — Entertainers and Sportspersons
-Sri Lankan Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Entertainers
 (1)
 Notwithstanding the provisions of Articles 14 and 15, income derived by entertainers (such as theatrical, motion picture, radio or television artistes, or musicians, or athletes) from their personal activities as such may be taxed in the Contracting State in which these activities are exercised.
 (2)

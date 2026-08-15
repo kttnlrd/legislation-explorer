@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 11
 title: "Article 11 — Interest"
 ---
-# Article 11 — Interest
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Interest
 1.
 Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 2.

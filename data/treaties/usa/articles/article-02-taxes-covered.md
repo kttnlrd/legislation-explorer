@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 2
 title: "Article 2 — Taxes Covered"
 ---
-# Article 2 — Taxes Covered
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Taxes Covered
 (1)
 The existing taxes to which this Convention shall apply are:
 (a)

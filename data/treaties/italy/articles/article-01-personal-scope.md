@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 1
 title: "Article 1 — Personal Scope"
 ---
-# Article 1 — Personal Scope
-Italian Convention
-CHAPTER I 
 -
  SCOPE OF THE CONVENTION
 Personal Scope

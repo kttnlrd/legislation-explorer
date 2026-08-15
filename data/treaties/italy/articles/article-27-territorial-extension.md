@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 27
 title: "Article 27 — Territorial Extension"
 ---
-# Article 27 — Territorial Extension
-Italian Convention
-CHAPTER V 
 -
  SPECIAL PROVISIONS
 Diplomatic and Consular Officials

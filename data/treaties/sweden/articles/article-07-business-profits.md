@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 7
 title: "Article 7 — Business Profits"
 ---
-# Article 7 — Business Profits
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Business Profits
 (1)
 The profits of an enterprise of one of the Contracting States shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State, but only so much of them as is attributable to that permanent establishment.
 (2)

@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 2
 title: "Article 2 — Taxes Covered"
 ---
-# Article 2 — Taxes Covered
-Italian Convention
-CHAPTER I 
 -
  SCOPE OF THE CONVENTION
 Taxes Covered

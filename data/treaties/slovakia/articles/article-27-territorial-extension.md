@@ -5,14 +5,6 @@ treaty_schedule: 43
 article: 27
 title: "Article 27 — Territorial Extension"
 ---
-# Article 27 — Territorial Extension
-Slovak Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE SLOVAK REPUBLIC FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Entry into Force
 1.
 Both Contracting States shall notify each other in writing of the completion of their respective statutory and constitutional procedures required for the entry into force of this Agreement.
 [1]

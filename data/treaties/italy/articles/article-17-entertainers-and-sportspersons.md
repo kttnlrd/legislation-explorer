@@ -5,9 +5,6 @@ treaty_schedule: 21
 article: 17
 title: "Article 17 — Entertainers and Sportspersons"
 ---
-# Article 17 — Entertainers and Sportspersons
-Italian Convention
-CHAPTER III 
 -
  TAXATION OF INCOME
 Entertainers

@@ -5,14 +5,6 @@ treaty_schedule: 11
 article: 20
 title: "Article 20 — Students"
 ---
-# Article 20 — Students
-French Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE FRENCH REPUBLIC FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting
-(the MLI) has modified the application of this tax treaty.  A
-synthesised text
-of the MLI and this tax treaty is available to facilitate the understanding of how the MLI modifies this tax treaty.
-Other Income
 1.
 Items of income of a resident of a Contracting State wherever arising which are not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 2.

@@ -5,11 +5,6 @@ treaty_schedule: 2
 article: 22
 title: "Article 22 — Elimination of Double Taxation"
 ---
-# Article 22 — Elimination of Double Taxation
-United States Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-As amended by the United States Protocol (No 1)
-Relief from Double Taxation
 (1)
 Subject to paragraph (4) and in accordance with the provisions and subject to the limitations of the law of the United States (as it may be amended from time to time without changing the general principle hereof), in the case of the United States, double taxation shall be avoided as follows:
 (a)

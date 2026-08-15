@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 20
 title: "Article 20 — Students"
 ---
-# Article 20 — Students
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Teachers and Students
 1.
 Where a student who is a resident of a Contracting State or who was a resident of that State immediately before visiting the other Contracting State and who is temporarily present therein solely for the purpose of the student
 '

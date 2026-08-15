@@ -5,10 +5,6 @@ treaty_schedule: 27
 article: 22
 title: "Article 22 — Elimination of Double Taxation"
 ---
-# Article 22 — Elimination of Double Taxation
-Austrian Agreement
-AGREEMENT BETWEEN AUSTRALIA AND THE REPUBLIC OF AUSTRIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-CHAPTER III 
 -
  TAXATION OF INCOME
 Source of Income

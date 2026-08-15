@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 14
 title: "Article 14 — Independent Personal Services"
 ---
-# Article 14 — Independent Personal Services
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Independent Personal Services
 1.
 Income derived by an individual who is a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State. However, such income may also be taxed in the other Contracting State if such services or activities are performed in that other State and:
 (a)

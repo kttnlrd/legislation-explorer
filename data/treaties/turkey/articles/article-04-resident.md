@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 4
 title: "Article 4 — Resident"
 ---
-# Article 4 — Resident
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Resident
 1.
 For the purposes of this Convention, a person is a resident of a Contracting State:
 (a)

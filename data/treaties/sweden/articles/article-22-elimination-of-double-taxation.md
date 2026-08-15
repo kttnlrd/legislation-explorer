@@ -5,10 +5,6 @@ treaty_schedule: 17
 article: 22
 title: "Article 22 — Elimination of Double Taxation"
 ---
-# Article 22 — Elimination of Double Taxation
-Swedish Agreement
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
-Income Not Expressly Mentioned
 (1)
 Items of income, not expressly mentioned in the foregoing Articles, derived from sources in one of the Contracting States by a resident of the other Contracting State may be taxed in the first-mentioned State.
 (2)

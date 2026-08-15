@@ -5,10 +5,6 @@ treaty_schedule: 51
 article: 8
 title: "Article 8 — Shipping and Air Transport"
 ---
-# Article 8 — Shipping and Air Transport
-Turkish Convention
-CONVENTION BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND THE PREVENTION OF FISCAL EVASION
-Shipping and Aircraft Operations
 1.
 Profits of an enterprise of a Contracting State derived from the operation of ships or aircraft shall be taxable only in that State.
 2.

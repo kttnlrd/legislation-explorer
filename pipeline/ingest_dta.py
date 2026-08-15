@@ -219,7 +219,6 @@ treaty_schedule: {sch}
 article: {art}
 title: "Article {art} \u2014 {title}"
 ---
-# Article {art} \u2014 {title}
 {body}
 """
         art_path.write_text(fm, encoding='utf-8')
