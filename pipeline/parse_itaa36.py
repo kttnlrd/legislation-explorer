@@ -25,7 +25,7 @@ from dictionary_utils import starts_new_definition
 # Regex patterns
 # ---------------------------------------------------------------------------
 
-RE_PART = re.compile(r"^Part\s+([IVX]+)\s*[\u2014\u2013\-]?\s*(.+)$")
+RE_PART = re.compile(r"^Part\s+([IVX]+[A-Z]?)\s*[\u2014\u2013\-]?\s*(.+)$")
 RE_DIVISION = re.compile(r"^Division\s+(\d+[A-Z]*)\s*[\u2014\u2013\-]?\s*(.+)$")
 RE_SUBDIVISION = re.compile(r"^Subdivision\s+([A-Z]+)\s*[\u2014\u2013\-]?\s*(.+)$")
 

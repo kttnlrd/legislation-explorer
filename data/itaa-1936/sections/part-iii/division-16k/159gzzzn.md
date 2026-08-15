@@ -12,6 +12,7 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
+
 # 159GZZZN  Buy-back and cancellation disregarded for certain purposes
 
 If a company buys-back a share then the buy-back, and any subsequent cancellation of the share, are disregarded for the purposes of:

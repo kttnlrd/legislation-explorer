@@ -5,14 +5,16 @@ part_title: "Liability to taxation"
 division: "16K"
 division_title: "Effect of buy-backs of shares"
 subdivision: "AA"
-subdivision_title: "Application of Division to non-share equity"
+subdivision_title: "Application of Division to non-share equity interests"
 section: "159GZZZIA"
 section_title: "Application of Division to non-share dividends"
 compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
+
 # 159GZZZIA  Application of Division to non-share dividends
+
 
 <a id="s159GZZZIA-1"></a>
 **(1)**  This Division:

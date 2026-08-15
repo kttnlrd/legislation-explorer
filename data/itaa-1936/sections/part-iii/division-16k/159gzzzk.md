@@ -12,6 +12,7 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
+
 # 159GZZZK  Explanation of terms
 
 For the purposes of this Division, where a company buys a share in itself from a shareholder in the company:

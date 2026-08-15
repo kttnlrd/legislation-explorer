@@ -5,13 +5,14 @@ part_title: "Liability to taxation"
 division: "3"
 division_title: "Deductions"
 subdivision: "H"
-subdivision_title: "Period of deductibility of certain advance"
+subdivision_title: "Period of deductibility of certain advance expenditure"
 section: "82KZLA"
 section_title: "Subdivision does not apply to financial arrangements to which Subdivision 250-E applies"
 compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
+
 # 82KZLA  Subdivision does not apply to financial arrangements to which Subdivision 250-E applies
 
 To avoid doubt, this Subdivision does not apply to:

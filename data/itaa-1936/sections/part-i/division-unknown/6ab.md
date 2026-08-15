@@ -12,43 +12,45 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-# 6AB Foreign income and foreign tax
+
+# 6AB  Foreign income and foreign tax
+
 
 <a id="s6AB-1"></a>
-**(1)** A reference in this Act to foreign income is a reference to income (including superannuation lump sums and employment termination payments) derived from sources in a foreign country or foreign countries, and includes a reference to an amount included in assessable income under section 102AAZD, 456, 457 or 459A of this Act, or section 305-70 of the Income Tax Assessment Act 1997. 
+**(1)**  A reference in this Act to foreign income is a reference to income (including superannuation lump sums and employment termination payments) derived from sources in a foreign country or foreign countries, and includes a reference to an amount included in assessable income under section 102AAZD, 456, 457 or 459A of this Act, or section 305-70 of the Income Tax Assessment Act 1997.
 
 <a id="s6AB-1C"></a>
-**(1C)** A reference in this Act to foreign income includes a reference to an amount included in assessable income under:
+**(1C)**  A reference in this Act to foreign income includes a reference to an amount included in assessable income under:
 
 > <a id="s6AB-1C-a"></a>
-> **(a)** Division 301 of the Income Tax Assessment Act 1997 in its application under section 301-5 of the Income Tax (Transitional Provisions) Act 1997; or
+> **(a)**  Division 301 of the Income Tax Assessment Act 1997 in its application under section 301-5 of the Income Tax (Transitional Provisions) Act 1997; or
 
 > <a id="s6AB-1C-b"></a>
-> **(b)** Division 302 of the Income Tax Assessment Act 1997 in its application under section 302-5 of the Income Tax (Transitional Provisions) Act 1997.
+> **(b)**  Division 302 of the Income Tax Assessment Act 1997 in its application under section 302-5 of the Income Tax (Transitional Provisions) Act 1997.
 
 <a id="s6AB-2"></a>
-**(2)** A reference in this Act to foreign tax is a reference to tax imposed by a law of a foreign country, being:
+**(2)**  A reference in this Act to foreign tax is a reference to tax imposed by a law of a foreign country, being:
 
 > <a id="s6AB-2-a"></a>
-> **(a)** tax upon income; or
+> **(a)**  tax upon income; or
 
 > <a id="s6AB-2-b"></a>
-> **(b)** tax upon profits or gains, whether of an income or capital nature; or
+> **(b)**  tax upon profits or gains, whether of an income or capital nature; or
 
 > <a id="s6AB-2-c"></a>
-> **(c)** any other tax, being a tax that is subject to an agreement having the force of law under the International Tax Agreements Act 1953; but does not include a unitary tax or a credit absorption tax.
+> **(c)**  any other tax, being a tax that is subject to an agreement having the force of law under the International Tax Agreements Act 1953; but does not include a unitary tax or a credit absorption tax.
 
 <a id="s6AB-5B"></a>
-**(5B)** This section applies to a non-share dividend in the same way as it applies to a dividend.
+**(5B)**  This section applies to a non-share dividend in the same way as it applies to a dividend.
 
 <a id="s6AB-6"></a>
-**(6)** In this section: credit absorption tax means a tax imposed by a law of a foreign country to the extent that the tax would not have been payable if the taxpayer concerned or another taxpayer had not been entitled to an offset in respect of the tax under Division 770 of the Income Tax Assessment Act 1997. law, in relation to a foreign country, means a law of that country, or of any part of, or place in, that country. unitary tax means tax imposed by a law of a foreign country, being a law which, for the purposes of taxing income, profits or gains of a company derived from sources within that country, takes into account, or is entitled to take into account, income, losses, outgoings or assets of the company (or of a company that for the purposes of that law is treated as being associated with the company) derived, incurred or situated outside that country, but does not include tax imposed by that law if that law only takes those matters into account:
+**(6)**  In this section: credit absorption tax means a tax imposed by a law of a foreign country to the extent that the tax would not have been payable if the taxpayer concerned or another taxpayer had not been entitled to an offset in respect of the tax under Division 770 of the Income Tax Assessment Act 1997. law, in relation to a foreign country, means a law of that country, or of any part of, or place in, that country. unitary tax means tax imposed by a law of a foreign country, being a law which, for the purposes of taxing income, profits or gains of a company derived from sources within that country, takes into account, or is entitled to take into account, income, losses, outgoings or assets of the company (or of a company that for the purposes of that law is treated as being associated with the company) derived, incurred or situated outside that country, but does not include tax imposed by that law if that law only takes those matters into account:
 
 > <a id="s6AB-6-a"></a>
-> **(a)** if such an associated company is a resident for the purposes of that law; or
+> **(a)**  if such an associated company is a resident for the purposes of that law; or
 
 > <a id="s6AB-6-b"></a>
-> **(b)** for the purposes of granting any form of relief in relation to tax imposed on dividends received by one company from another company.
+> **(b)**  for the purposes of granting any form of relief in relation to tax imposed on dividends received by one company from another company.
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

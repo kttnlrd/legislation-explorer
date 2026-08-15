@@ -3,7 +3,7 @@ act: "ITAA 1936"
 part: "III"
 part_title: "Liability to taxation"
 division: "16J"
-division_title: "Effect of cancellation of subsidiary's shares"
+division_title: "Effect of cancellation of subsidiary’s shares in holding company"
 subdivision: ""
 subdivision_title: ""
 section: "159GZZZD"
@@ -12,6 +12,7 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
+
 # 159GZZZD  Meaning of eligible entity, eligible interest and eligible proportion
 
 For the purposes of this Division, where a holding company holds interests in a subsidiary of the holding company either directly or indirectly through interposed entities:
