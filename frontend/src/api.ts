@@ -98,6 +98,7 @@ export const api = {
 
   // Treaty endpoints
   treaties: () => fetchJson('/treaties'),
+  treatyFullTree: () => fetchJson('/treaties/full-tree'),
   treatyTree: (country: string) => fetchJson(`/treaties/${country}`),
   treatyArticle: (country: string, article: string) => fetchJson(`/treaties/${country}/article/${article}`),
   treatySearch: (q: string, country?: string) => {

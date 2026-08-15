@@ -39,6 +39,49 @@ def list_treaties():
     return {"countries": countries, "total": len(countries)}
 
 
+@router.get("/api/treaties/full-tree")
+def get_full_treaty_tree():
+    """Return the nested tree: every country with its articles, for the sidebar.
+
+    One call so the frontend can render expandable country -> article nodes
+    without firing 42 per-country requests.
+    """
+    if not TREATIES_DIR.exists():
+        raise HTTPException(status_code=404, detail="Treaties directory not found")
+    countries = []
+    for child in sorted(TREATIES_DIR.iterdir()):
+        if not child.is_dir():
+            continue
+        tree_path = child / "tree.json"
+        if not tree_path.exists():
+            continue
+        try:
+            tree = json.loads(tree_path.read_text(encoding="utf-8"))
+            countries.append({
+                "slug": child.name,
+                "treaty": tree.get("treaty", child.name),
+                "schedule": tree.get("schedule"),
+                "total": tree.get("total", 0),
+                "articles": tree.get("articles", []),
+            })
+        except Exception:
+            continue
+    return {"act": "treaties", "countries": countries, "total": len(countries)}
+
+
+@router.get("/api/treaties/search")
+def search_treaties(q: str = Query(..., description="Search query"), limit: int = 20):
+    """Full-text search across all treaty articles."""
+    if not q or not q.strip():
+        return {"results": [], "total": 0, "query": q}
+    from backend.services.search_service import init_search_index
+    from backend.config import SEARCH_DB
+    if not SEARCH_DB.exists():
+        init_search_index()
+    result = fts_search_treaties(q.strip(), limit=min(limit, 50))
+    return {"query": q, **result}
+
+
 @router.get("/api/treaties/{country}")
 def get_treaty_tree(country: str):
     """Get the article tree for a single treaty country."""
@@ -98,16 +141,3 @@ def get_treaty_article(
         "slug": art_info["slug"],
         "content": content,
     }
-
-
-@router.get("/api/treaties/search")
-def search_treaties(q: str = Query(..., description="Search query"), limit: int = 20):
-    """Full-text search across all treaty articles."""
-    if not q or not q.strip():
-        return {"results": [], "total": 0, "query": q}
-    from backend.services.search_service import init_search_index
-    from backend.config import SEARCH_DB
-    if not SEARCH_DB.exists():
-        init_search_index()
-    result = fts_search_treaties(q.strip(), limit=min(limit, 50))
-    return {"query": q, **result}

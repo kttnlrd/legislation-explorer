@@ -46,7 +46,7 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
   // Also hide case category part IDs (tax, asic, other)
   // Also hide ruling division IDs (2024-lcg, 2024-pcg)
   const isSlugLike = /^(ch|topic)-\d+$/i.test(displayId) || (isSection && /[a-z].*-[a-z]/.test(displayId)) || /^(tax|asic|other)-\d{4}$/i.test(displayId) || /^(tax|asic|other)$/i.test(displayId) || /^\d{4}-[a-z]+$/i.test(displayId) || /^[a-z]+-\d{4}$/i.test(displayId);
-  const showId = !isSlugLike && displayId !== displayTitle;
+  const showId = !isSlugLike && displayId !== displayTitle && act !== 'treaties';
 
   const indent = isMobile ? Math.min(level * 10, 40) : level * 14;
 

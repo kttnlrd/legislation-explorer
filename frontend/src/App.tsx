@@ -238,21 +238,26 @@ export default function App() {
     const gen = ++treeGenRef.current
     setTree(null)
 
-    // Treaties hub: show country list in the tree
+    // Treaties hub: nested country -> article tree (countries expandable)
     if (act === 'treaties') {
-      api.treaties().then(data => {
+      api.treatyFullTree().then(data => {
         if (gen !== treeGenRef.current) return
         setTree({
           act: 'treaties',
           parts: [{
             id: 'treaties',
             title: 'Double Tax Agreements',
-            divisions: [],
-            sections: (data.countries || []).map((c: any) => ({
+            divisions: (data.countries || []).map((c: any) => ({
               id: c.slug,
               title: c.treaty,
-              path: c.slug,
+              subdivisions: [],
+              sections: (c.articles || []).map((a: any) => ({
+                id: `${c.slug}/${a.article}`,
+                title: a.title,
+                path: a.slug,
+              })),
             })),
+            sections: [],
           }],
         } as Tree)
         setError('')
@@ -507,7 +512,7 @@ export default function App() {
         {/* Tree */}
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { setAct(e); setActiveSection(''); } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
           ))}
         </div>
 
@@ -814,7 +819,7 @@ export default function App() {
                 }
                 collectIds(tree.parts || [])
                 return (tree.parts || []).map(p => (
-                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { setAct(e); setActiveSection(''); } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
+                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
                 ))
               })()}
             </div>
