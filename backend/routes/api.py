@@ -42,9 +42,29 @@ router.include_router(regulatory_guides_router)
 router.include_router(treaties_router)
 
 
-VERSION = "2.8.0"
+VERSION = "2.8.1"
 
 CHANGELOG = [
+    {
+        "version": "2.8.1",
+        "date": "2026-08-15",
+        "title": "Legislation Tables, Treaty Tree, ITAA36/TAA/GST Re-parse",
+        "changes": [
+            "New features:",
+            "|– Legislation table rendering: pipe-table detection + GFM across all tax act parsers (3+ column threshold)",
+            "|– Treaty tree: expandable to article level with numbers and titles",
+            "|– ITAA 1936: re-parsed with corrected parts (VA/VIIB/IIIB/IVA), schedules in tree, 993 sections, 25 with tables",
+            "|– TAA 1953: re-parsed, 1,243 clean sections, 56 with tables, 1,120 stale duplicates deleted",
+            "|– GST 1999: re-parsed, 827 sections, 55 with tables, 4 orphans removed",
+            "",
+            "Bugs fixed:",
+            "|– Section-detection guards prevent table/TOC rows being misclassified as section headers",
+            "|– Treaty articles: LCP-based preamble cleanup across all 42 countries (1,148 files)",
+            "|– Treaty double-H1: frontend strips leading H1 from body, parser no longer writes it",
+            "|– CDN-0103: search_cases NameError (words unbound) — hoisted to unconditional scope",
+            "|– Deploy loop: no longer restarts when local ahead of origin",
+        ],
+    },
     {
         "version": "2.8.0",
         "date": "2026-08-14",
