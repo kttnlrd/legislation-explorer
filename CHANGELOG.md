@@ -1,3 +1,24 @@
+## 2.8.1 — 15 Aug 2026
+
+- **Legislation table rendering** — pipe-table detection + GFM rendering added to all tax act parsers (`parse_itaa97.py`, `parse_itaa36.py`, `parse_taa53.py`, `parse_gst1999.py`). Tables now render instead of collapsing to run-on text. Threshold: 3+ columns, 2+ wide gaps.
+- **Treaty tree** — treaty navigation tree now expandable to article level with article numbers and titles.
+- **ITAA 1936 re-parse** — fixed `RE_PART` regex to recognise suffix-letter parts (VA, VIIB, IIIB, IVA). Re-generated `tree.json`: 13 parts, 993 sections (up from 771), schedule sections (Schedules 2D/2F/2H) now included in navigation tree. 25 sections with tables. 0 orphans.
+- **TAA 1953 re-parse** — 1,243 clean sections, 56 with tables. Deleted 1,120 stale duplicate files. Tree ↔ disk 1:1.
+- **GST 1999 re-parse** — 827 sections, 55 with tables. 4 stale orphans removed. Tree ↔ disk 1:1.
+- **Parser guards** — section-detection guards added to `parse_itaa36.py`, `parse_taa53.py`, `parse_itaa36_schedules.py`: skip wide-gap table rows and trailing-colon TOC labels from being misclassified as section headers.
+- **Server restart** — backend restarted after data changes.
+
+## 2.8 — 2 Aug 2026
+
+- Treaty data type added with full navigation tree.
+- GST compilation footer fix (s 228).
+- Deploy loop fix: don't restart when local ahead of origin.
+- Display spec document + spec-list data type.
+- Audit: all 11 data types checked against display spec; 10 deviations logged.
+- Audit batch fixes: s-prefix URLs, treaty slugs, Defined Terms grouping.
+- Social Post Composer: frontend + backend.
+- Corps Act, AML/CTF, regulatory guides bulk update. Pipeline fixes.
+
 ## 2.7.3 — 1 Aug 2026
 
 - **B23: report_issue fixed** — dedup now includes `note` in param_hash hashing (was hashing tool+params only, causing all tool reports with no params to collide). Ticket allocation now insert-first (concurrency-safe via auto-increment id on INSERT, not pre-computed MAX(id)+1). Test noise tickets (CDN-0017–CDN-0037) cleaned.
