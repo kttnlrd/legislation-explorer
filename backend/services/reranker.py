@@ -16,6 +16,10 @@ RERANK_CANDIDATES = int(os.getenv("RERANK_CANDIDATES", "50"))
 # ponytail: urllib, not requests — requests isn't a backend dependency and this is one POST.
 # Single timeout covers connect+read; urllib has no separate connect timeout.
 _TIMEOUT = 5
+# After a failure (gamingpc asleep etc), skip rerank attempts for this long so a
+# dead host doesn't add _TIMEOUT to every query. Re-engages automatically.
+_FAILURE_COOLDOWN_S = 120
+_last_failure = 0.0
 
 
 def rerank(query: str, docs: list[str], top_n: int) -> list[float] | None:
@@ -25,7 +29,10 @@ def rerank(query: str, docs: list[str], top_n: int) -> list[float] | None:
     The endpoint only returns the top_n best docs; unscored docs get -inf so a
     stable sort leaves them in their original (RRF) relative order.
     """
+    global _last_failure
     if not RERANK_ENABLED or not docs:
+        return None
+    if time.monotonic() - _last_failure < _FAILURE_COOLDOWN_S:
         return None
 
     payload = json.dumps({
@@ -47,9 +54,10 @@ def rerank(query: str, docs: list[str], top_n: int) -> list[float] | None:
             if 0 <= i < len(docs):
                 scores[i] = float(item["relevance_score"])
     except Exception as e:  # timeout, refused, non-200, bad JSON, bad shape — all the same
+        _last_failure = time.monotonic()
         ms = int((time.monotonic() - started) * 1000)
-        logger.warning("[reranker] %d docs -> %d ms (fail: %s: %s)",
-                       len(docs), ms, type(e).__name__, e)
+        logger.warning("[reranker] %d docs -> %d ms (fail: %s: %s; cooldown %ds)",
+                       len(docs), ms, type(e).__name__, e, _FAILURE_COOLDOWN_S)
         return None
     ms = int((time.monotonic() - started) * 1000)
     logger.info("[reranker] %d docs -> %d ms (ok)", len(docs), ms)

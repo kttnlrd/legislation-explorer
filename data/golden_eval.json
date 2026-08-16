@@ -1,0 +1,170 @@
+[
+ {
+  "q": "main residence exemption",
+  "expect": [
+   "section:itaa-1997:118-110"
+  ]
+ },
+ {
+  "q": "CGT discount 50%",
+  "expect": [
+   "section:itaa-1997:115-25"
+  ]
+ },
+ {
+  "q": "capital proceeds from CGT event",
+  "expect": [
+   "section:itaa-1997:116-20"
+  ]
+ },
+ {
+  "q": "tax residency of a company",
+  "expect": [
+   "section:itaa-1936:6"
+  ]
+ },
+ {
+  "q": "personal services income PSI",
+  "expect": [
+   "section:itaa-1997:84-5"
+  ]
+ },
+ {
+  "q": "car fringe benefit",
+  "expect": [
+   "section:fbt-1986:7"
+  ]
+ },
+ {
+  "q": "GST input tax credit entitlement",
+  "expect": [
+   "section:gst-1999:11-20"
+  ]
+ },
+ {
+  "q": "unpaid present entitlement UPE",
+  "expect": [
+   "section:itaa-1936:109d"
+  ]
+ },
+ {
+  "q": "franking credits dividend imputation",
+  "expect": [
+   "section:itaa-1997:207-20"
+  ]
+ },
+ {
+  "q": "small business CGT concessions",
+  "expect": [
+   "section:itaa-1997:152-10"
+  ]
+ },
+ {
+  "q": "scrip for scrip rollover",
+  "expect": [
+   "section:itaa-1997:124-780"
+  ]
+ },
+ {
+  "q": "presently entitled to trust income",
+  "expect": [
+   "section:itaa-1936:95"
+  ]
+ },
+ {
+  "q": "deductible gift recipient DGR",
+  "expect": [
+   "section:itaa-1997:30-15"
+  ]
+ },
+ {
+  "q": "non-commercial losses",
+  "expect": [
+   "section:itaa-1997:35-10"
+  ]
+ },
+ {
+  "q": "employee share scheme ESS",
+  "expect": [
+   "section:itaa-1997:83a-105"
+  ]
+ },
+ {
+  "q": "deceased estate rollover",
+  "expect": [
+   "section:itaa-1997:128-15"
+  ]
+ },
+ {
+  "q": "bonuses on short-term life assurance",
+  "expect": [
+   "section:itaa-1936:26ah"
+  ]
+ },
+ {
+  "q": "CFC attributable income",
+  "expect": [
+   "section:itaa-1936:456"
+  ]
+ },
+ {
+  "q": "GST margin scheme",
+  "expect": [
+   "section:gst-1999:75-5"
+  ]
+ },
+ {
+  "q": "trading stock valuation",
+  "expect": [
+   "section:itaa-1997:70-45"
+  ]
+ },
+ {
+  "q": "low value pool depreciation",
+  "expect": [
+   "section:itaa-1997:40-425"
+  ]
+ },
+ {
+  "q": "research and development tax offset",
+  "expect": [
+   "section:itaa-1997:355-100"
+  ]
+ },
+ {
+  "q": "superannuation concessional contributions cap",
+  "expect": [
+   "section:itaa-1997:291-20"
+  ]
+ },
+ {
+  "q": "excess contributions tax",
+  "expect": [
+   "section:itaa-1997:292-20"
+  ]
+ },
+ {
+  "q": "foreign resident capital gains withholding",
+  "expect": [
+   "section:itaa-1997:855-15"
+  ]
+ },
+ {
+  "q": "main residence exemption trust",
+  "expect": [
+   "section:itaa-1997:118-195"
+  ]
+ },
+ {
+  "q": "capital protected borrowings",
+  "expect": [
+   "section:itaa-1997:247-10"
+  ]
+ },
+ {
+  "q": "life insurance policies CGT",
+  "expect": [
+   "section:itaa-1997:118-300"
+  ]
+ }
+]
