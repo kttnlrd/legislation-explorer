@@ -8,7 +8,7 @@ from fastapi import HTTPException, APIRouter
 from backend.config import DATA_DIR, SEARCH_DB
 from backend.services.data_loader import load_tree
 from backend.services.search_service import search_conn, init_search_index as build_search_index, search_sections as fts_search, search_rulings
-from backend.services import vector_search_service
+from backend.services import vector_search_service, reranker
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
@@ -362,6 +362,21 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
 
     ranked_keys = sorted(scores, key=lambda k: -scores[k])
     total = len(ranked_keys)
+
+    # Rerank the top candidates, then slice — pagination semantics (total) unchanged.
+    # `score`/`fusion_score` stay the RRF score; rerank only affects ordering.
+    reranked = False
+    candidates = ranked_keys[:reranker.RERANK_CANDIDATES]
+    rr = reranker.rerank(
+        q,
+        [f"{merged[k].get('title', '')} {merged[k].get('snippet', '')}" for k in candidates],
+        limit,
+    )
+    if rr is not None:
+        reranked = True
+        order = sorted(range(len(candidates)), key=lambda i: -rr[i])  # stable: unscored keep RRF order
+        ranked_keys = [candidates[i] for i in order] + ranked_keys[len(candidates):]
+
     ranked_keys = ranked_keys[offset:offset + limit]
     results = []
     for key in ranked_keys:
@@ -371,4 +386,5 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         r["cross_references"] = vector_search_service.get_cross_references(emb_id) if emb_id else []
         results.append(r)
 
-    return {"results": results, "total": total, "offset": offset, "limit": limit}
+    return {"results": results, "total": total, "offset": offset, "limit": limit,
+            "meta": {"reranked": reranked}}
