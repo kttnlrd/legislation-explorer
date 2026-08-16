@@ -1,0 +1,500 @@
+{
+ "id": "itaa-1997-subdiv-124b",
+ "title": "Subdivision 124-B roll-over — asset compulsorily acquired, lost or destroyed",
+ "act": "itaa-1997",
+ "part": "3-3",
+ "division": "124",
+ "subdivision": "124-B",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Replacement-asset roll-over where a CGT asset is compulsorily acquired by a government agency (or under a covered law), lost or destroyed, or disposed of after an acquisition notice. You must receive money or another CGT asset as compensation and, for money, acquire a replacement asset or repair the original within the time limits (1 year before / 1 year after the income year). The gain is reduced or disregarded and the replacement asset inherits the original's cost base. Subsection coverage: operative sections 124-70, 124-75, 124-80, 124-85, 124-90, 124-95, 103-25 mapped to nodes; 103-25 (machinery).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You own a CGT asset and it is compulsorily acquired, lost or destroyed (or disposed of under threat of acquisition)",
+   "body": "Subdivision 124-B lets you choose a roll-over where a CGT asset is compulsorily acquired, lost or destroyed and you receive money or another CGT asset as compensation, deferring the gain into a replacement asset.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": "Events giving rise to a roll-over"
+    }
+   ],
+   "commentary": [
+    "when-replacement-asset-cgt-roll-over-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "trigger-event",
+   "type": "event",
+   "label": "A qualifying event happens to the original asset",
+   "body": "The events are (s 124-70(1)): (a) compulsory acquisition by an Australian government agency; (aa) compulsory acquisition by another entity under a power conferred by a law covered in s 124-70(1A); (b) the asset (or part of it) is lost or destroyed; (c) disposal after a notice inviting negotiation with a view to acquisition and warning of compulsory acquisition; (ca)/(cb) disposal of land to a lessee where a mining lease was (or would have been) compulsorily granted; (d) a lease granted by an Australian government agency expires and is not renewed.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "when-replacement-asset-cgt-roll-over-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "dec-comp",
+   "type": "decision",
+   "label": "Did you receive money or another CGT asset (not a car or similar vehicle) as compensation or under insurance?",
+   "body": "You must receive money, another CGT asset (except a car, motor cycle or similar vehicle), or both, as compensation for the event or under an insurance policy against the risk of loss or destruction (s 124-70(2)). Further requirements apply for money (s 124-75) and for another asset (s 124-80).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "when-replacement-asset-cgt-roll-over-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital proceeds"
+   ]
+  },
+  {
+   "id": "dec-gain",
+   "type": "decision",
+   "label": "Do you make a capital gain from the event?",
+   "body": "There are no roll-over consequences if you make a capital loss from the event (note to s 124-70). The roll-over only defers gains.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "when-replacement-asset-cgt-roll-over-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ]
+  },
+  {
+   "id": "dec-residency",
+   "type": "decision",
+   "label": "If you are a foreign resident (or foreign trust trustee) just before the event: is the original asset taxable Australian property?",
+   "body": "Where you are a foreign resident just before the event, or a trustee of a foreign trust for CGT purposes, the original asset must be taxable Australian property just before the event, and the other asset must be taxable Australian property just after you acquire it (s 124-70(3)-(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "when-replacement-asset-cgt-roll-over-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "foreign resident",
+    "taxable Australian property"
+   ]
+  },
+  {
+   "id": "branch-money-asset",
+   "type": "decision",
+   "label": "Do you receive money, another CGT asset, or both?",
+   "body": "The requirements and consequences differ: money — s 124-75 (requirements) and s 124-85 (consequences); another asset — s 124-80 and s 124-90; both — s 124-95 (proportional attribution).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-75",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-80",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-95",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "general-rules-for-replacement-asset-cgt-roll-overs"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-money-reqs",
+   "type": "decision",
+   "label": "Money case: will you incur expenditure acquiring another CGT asset, or repairing/restoring the original asset, within the time limits?",
+   "body": "For money received you must incur expenditure in acquiring another CGT asset (except a depreciating asset under Division 40 or 328) or, where part is lost or destroyed, capital expenditure repairing or restoring it (s 124-75(2)). At least some expenditure must be incurred no earlier than 1 year before the event and no later than 1 year after the end of the income year in which the event happens (Commissioner may allow more). If the original asset was used in a business, the replacement must be used in the business (or for the same/similar purpose) for a reasonable time (s 124-75(4)). The other asset cannot become trading stock, a Division 40/328 depreciating asset or a registered emissions unit (s 124-75(5)-(6)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-75",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "general-rules-for-replacement-asset-cgt-roll-overs"
+   ],
+   "cases": [],
+   "definitions": [
+    "depreciating asset",
+    "trading stock",
+    "registered emissions unit"
+   ]
+  },
+  {
+   "id": "dec-asset-reqs",
+   "type": "decision",
+   "label": "Asset case: is the market value of the other asset more than the cost base of the original asset?",
+   "body": "Where you receive another CGT asset, it cannot become trading stock, a Division 40/328 depreciating asset or a registered emissions unit, and its market value when you acquire it must be more than the cost base of the original asset just before the event (s 124-80).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-80",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "general-rules-for-replacement-asset-cgt-roll-overs"
+   ],
+   "cases": [],
+   "definitions": [
+    "market value",
+    "cost base"
+   ]
+  },
+  {
+   "id": "choice",
+   "type": "action",
+   "label": "Choose the roll-over (by the day you lodge your income tax return for the income year of the event)",
+   "body": "The choice must be made in the approved form by the day you lodge your return for the income year in which the CGT event happens (s 103-25), or within any extension the Commissioner allows.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "103-25",
+     "title": "Choosing a roll-over"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-money",
+   "type": "outcome",
+   "label": "Money case consequences: gain reduced, not reduced or disregarded — and replacement expenditure reduced",
+   "body": "For a post-CGT asset (s 124-85(2)): (1) if the money exceeds the replacement/repair expenditure and the gain is more than the excess, the gain is reduced to the excess and the expenditure is reduced accordingly; (2) if the gain is not more than the excess, the gain is not reduced; (3) if the money does not exceed the expenditure, the gain is disregarded and the expenditure is reduced by the gain. For a pre-CGT asset: the replacement asset is taken to be acquired before 20 September 1985 if the expenditure is not more than 120% of the original's market value, or a natural disaster made the replacement substantially the same; repairs keep pre-CGT status (s 124-85(3)-(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-85",
+     "title": "Consequences for receiving money"
+    }
+   ],
+   "commentary": [
+    "general-rules-for-replacement-asset-cgt-roll-overs"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "cost base"
+   ]
+  },
+  {
+   "id": "outcome-asset",
+   "type": "outcome",
+   "label": "Asset case consequences: gain disregarded; replacement's cost base is the original's cost base",
+   "body": "The capital gain from the original asset is disregarded. For a post-CGT original asset, the first element of the other asset's cost base (and reduced cost base) is the original asset's cost base at the time of the event (s 124-90(2)-(3)). For a pre-CGT original asset, the other asset is taken to have been acquired before 20 September 1985 (s 124-90(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-90",
+     "title": "Consequences for receiving an asset"
+    }
+   ],
+   "commentary": [
+    "general-rules-for-replacement-asset-cgt-roll-overs"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "reduced cost base"
+   ]
+  },
+  {
+   "id": "outcome-both",
+   "type": "outcome",
+   "label": "Both money and asset: each part is treated separately with proportional attribution",
+   "body": "Where you receive both money and another CGT asset, the requirements and consequences apply separately to each part of the compensation attributable to the original asset (s 124-95(1)). The other asset's market value must exceed that part of the cost base attributable to it (s 124-95(2)); its cost base is that attributable part (s 124-95(3)); the money part follows the s 124-85 table proportionally (s 124-95(5)); pre-CGT rules apply proportionally (s 124-95(6)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-95",
+     "title": "You receive both money and an asset"
+    }
+   ],
+   "commentary": [
+    "general-rules-for-replacement-asset-cgt-roll-overs"
+   ],
+   "cases": [],
+   "definitions": [
+    "market value",
+    "cost base"
+   ]
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Roll-over applied — gain deferred into the replacement asset",
+   "body": "The gain is reduced or disregarded under the relevant consequences and the replacement asset carries the adjusted cost base, preserving the gain until the replacement is later disposed of.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-85",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-90",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-95",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "replacement-asset-roll-over-modiﬁcations"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "no-rollover",
+   "type": "end",
+   "label": "No roll-over — the CGT event is taxed in full",
+   "body": "If you make a capital loss, receive no compensation, fail the replacement requirements or timing, or do not choose, the disposal or destruction is a normal CGT event and the gain or loss is recognised. CGT small business concessions (Division 152) may still be available for business assets.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "CGT event A1"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain"
+   ]
+  },
+  {
+   "id": "recapture-events",
+   "type": "outcome",
+   "label": "Recapture events: CGT events J2, J5, J6 may later bring deferred gain to account",
+   "body": "If shares or interests received as replacement assets under a Subdivision 124-B roll-over are later disposed of, CGT events J2 (s 104-130 — share becomes redeemable), J5 (s 104-175 — failure to execute agreement) or J6 (s 104-180 — reversal of roll-over) may bring the deferred gain to account. Also, CGT event A1 (s 104-10) on the eventual disposal of the replacement asset will account for the deferred amount through the reduced cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-130",
+     "title": "CGT event J2"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-175",
+     "title": "CGT event J5"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-180",
+     "title": "CGT event J6"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain"
+   ]
+  },
+  {
+   "id": "recapture-events",
+   "type": "outcome",
+   "label": "Recapture events: CGT events J2, J5, J6 may later bring deferred gain to account",
+   "body": "If shares or interests received as replacement assets under a Subdivision 124-B roll-over are later disposed of, CGT events J2 (s 104-130 — share becomes redeemable), J5 (s 104-175 — failure to execute agreement) or J6 (s 104-180 — reversal of roll-over) may bring the deferred gain to account. Also, CGT event A1 (s 104-10) on the eventual disposal of the replacement asset will account for the deferred amount through the reduced cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-130",
+     "title": "CGT event J2"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-175",
+     "title": "CGT event J5"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-180",
+     "title": "CGT event J6"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "trigger-event",
+   "label": "qualifying event"
+  },
+  {
+   "from": "trigger-event",
+   "to": "dec-comp",
+   "label": "event happens"
+  },
+  {
+   "from": "dec-comp",
+   "to": "dec-gain",
+   "label": "money and/or asset received"
+  },
+  {
+   "from": "dec-comp",
+   "to": "no-rollover",
+   "label": "no compensation"
+  },
+  {
+   "from": "dec-gain",
+   "to": "dec-residency",
+   "label": "gain made"
+  },
+  {
+   "from": "dec-gain",
+   "to": "no-rollover",
+   "label": "capital loss"
+  },
+  {
+   "from": "dec-residency",
+   "to": "branch-money-asset",
+   "label": "TAP satisfied / not applicable"
+  },
+  {
+   "from": "dec-residency",
+   "to": "no-rollover",
+   "label": "asset not TAP"
+  },
+  {
+   "from": "branch-money-asset",
+   "to": "dec-money-reqs",
+   "label": "money"
+  },
+  {
+   "from": "branch-money-asset",
+   "to": "dec-asset-reqs",
+   "label": "asset"
+  },
+  {
+   "from": "branch-money-asset",
+   "to": "outcome-both",
+   "label": "both"
+  },
+  {
+   "from": "dec-money-reqs",
+   "to": "choice",
+   "label": "requirements met"
+  },
+  {
+   "from": "dec-money-reqs",
+   "to": "no-rollover",
+   "label": "requirements failed"
+  },
+  {
+   "from": "dec-asset-reqs",
+   "to": "choice",
+   "label": "requirements met"
+  },
+  {
+   "from": "dec-asset-reqs",
+   "to": "no-rollover",
+   "label": "requirements failed"
+  },
+  {
+   "from": "choice",
+   "to": "outcome-money",
+   "label": "money case"
+  },
+  {
+   "from": "choice",
+   "to": "outcome-asset",
+   "label": "asset case"
+  },
+  {
+   "from": "choice",
+   "to": "outcome-both",
+   "label": "both case"
+  },
+  {
+   "from": "outcome-money",
+   "to": "recapture-events",
+   "label": ""
+  },
+  {
+   "from": "outcome-asset",
+   "to": "recapture-events",
+   "label": ""
+  },
+  {
+   "from": "outcome-both",
+   "to": "recapture-events",
+   "label": ""
+  },
+  {
+   "from": "recapture-events",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "recapture-events",
+   "to": "end",
+   "label": ""
+  }
+ ],
+ "short": "Compulsory acquisition roll-over",
+ "refs": "Subdiv 124-B"
+}

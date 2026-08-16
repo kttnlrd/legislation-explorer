@@ -1,0 +1,259 @@
+{
+  "id": "taa-1953-penalty-remission",
+  "title": "Administrative penalty remission — Sch 1 TAA 1953",
+  "short": "Penalty remission flowchart",
+  "refs": "s 298-20 Sch 1 TAA 1953; PS LA 2012/5",
+  "act": "taa-1953",
+  "part": "",
+  "division": "",
+  "subdivision": "",
+  "compilation_no": 222,
+  "compilation_date": "2026-04-01",
+  "summary": "This flowchart maps the administrative penalty regime under Schedule 1 to the Taxation Administration Act 1953, from the trigger provisions (s 284-75 false/misleading statements and s 284-145 scheme penalties) through base penalty calculation (s 284-90 tiers: 75% intentional disregard, 50% recklessness, 25% failure to take reasonable care; s 284-160 scheme penalties: 50% or 25%), increases for obstruction or repeat offences (s 284-220), voluntary disclosure reductions (s 284-225: 80% reduction or nil if pre-examination, 20% post-examination), and remission under s 298-20 with the PS LA 2012/5 four-step framework (correctness of penalty, circumstances of taxpayer, voluntary disclosure, exceptional circumstances). Subsection coverage: ss 284-75, 284-90, 284-145, 284-160, 284-220, 284-225, 298-20 mapped to nodes.",
+  "nodes": [
+    {
+      "id": "start",
+      "type": "start",
+      "label": "A penalty liability arises under Sch 1 TAA 1953",
+      "body": "An administrative penalty under Schedule 1 may arise from: a false or misleading statement resulting in a shortfall amount (s 284-75(1)); an unarguable position on an income tax law (s 284-75(2)); failure to lodge a required document (s 284-75(3)); or a scheme penalty for tax avoidance schemes with a dominant purpose of obtaining a scheme benefit (s 284-145). The flowchart covers the calculation, adjustment, and potential remission of the penalty.",
+      "statute": [
+        {"act": "taa-1953", "section": "284-75", "title": "Liability to penalty"},
+        {"act": "taa-1953", "section": "284-145", "title": "Liability to penalty"}
+      ],
+      "commentary": ["failure-to-lodge-on-time"],
+      "cases": [],
+      "definitions": ["shortfall amount", "scheme shortfall amount"]
+    },
+    {
+      "id": "dec-penalty-type",
+      "type": "decision",
+      "label": "What type of penalty liability?",
+      "body": "Two main categories: (1) Statement or unarguable position penalty under s 284-75 (false/misleading statement, unarguable position, or failure to lodge); (2) Scheme penalty under s 284-145 (tax avoidance scheme with dominant purpose of obtaining a scheme benefit). The base penalty calculation differs between the two categories.",
+      "statute": [
+        {"act": "taa-1953", "section": "284-75", "title": "Liability to penalty"},
+        {"act": "taa-1953", "section": "284-145", "title": "Liability to penalty"}
+      ],
+      "commentary": [],
+      "cases": [],
+      "definitions": ["scheme", "scheme benefit", "scheme shortfall amount"]
+    },
+    {
+      "id": "event-statement-shortfall",
+      "type": "event",
+      "label": "Statement shortfall penalty — s 284-75 (false/misleading statement, unarguable position, or failure to lodge)",
+      "body": "You are liable if: (a) you make a statement to the Commissioner that is false or misleading in a material particular (s 284-75(1)); (b) you treat an income tax law as applying in a way that is not reasonably arguable (s 284-75(2)); or (c) you fail to give a required return, notice or other document by the due date (s 284-75(3)). The base penalty is determined by culpability level under s 284-90.",
+      "statute": [
+        {"act": "taa-1953", "section": "284-75", "title": "Liability to penalty"}
+      ],
+      "commentary": [],
+      "cases": [],
+      "definitions": ["shortfall amount"]
+    },
+    {
+      "id": "event-scheme-penalty",
+      "type": "event",
+      "label": "Scheme penalty — s 284-145 (tax avoidance scheme)",
+      "body": "You are liable if: you would get a scheme benefit from a scheme apart from an adjustment provision, and an entity entered into the scheme with a sole or dominant purpose of getting a scheme benefit (s 284-145(1)). The base penalty is determined under s 284-160 (50% of scheme shortfall amount, or 25% if reasonably arguable).",
+      "statute": [
+        {"act": "taa-1953", "section": "284-145", "title": "Liability to penalty"}
+      ],
+      "commentary": [],
+      "cases": [],
+      "definitions": ["scheme", "scheme benefit", "scheme shortfall amount", "reasonably arguable"]
+    },
+    {
+      "id": "base-penalty-statement",
+      "type": "action",
+      "label": "Calculate base penalty amount — statement shortfall (s 284-90)",
+      "body": "The base penalty amount tiers under s 284-90(1): Item 1 — intentional disregard of a taxation law: 75% of shortfall amount; Item 2 — recklessness: 50% of shortfall amount; Item 3 — failure to take reasonable care: 25% of shortfall amount; Item 4 — unarguable position (income tax): 25% of shortfall amount; Items 5/6 — trust/partnership unarguable position: 25%. For false statements without a shortfall amount: Item 3A (intentional disregard, 60 penalty units), Item 3B (recklessness, 40 penalty units), Item 3C (failure to take reasonable care, 20 penalty units).",
+      "statute": [
+        {"act": "taa-1953", "section": "284-90", "title": "Base penalty amount"}
+      ],
+      "commentary": [],
+      "cases": [],
+      "definitions": ["shortfall amount", "base penalty amount"]
+    },
+    {
+      "id": "base-penalty-scheme",
+      "type": "action",
+      "label": "Calculate base penalty amount — scheme (s 284-160)",
+      "body": "The base penalty for a scheme under s 284-145(1) or (2C) is: 50% of the scheme shortfall amount, or 25% if the position is reasonably arguable (s 284-160(1)). For transfer pricing schemes under s 284-145(2A): 25% of scheme shortfall amount, or 10% if reasonably arguable (s 284-160(2)). For cross-border transfer pricing under s 284-145(2B): 25% of the additional tax (s 284-160(3) table).",
+      "statute": [
+        {"act": "taa-1953", "section": "284-160", "title": "Base penalty amount: schemes"}
+      ],
+      "commentary": [],
+      "cases": [],
+      "definitions": ["scheme shortfall amount", "reasonably arguable", "base penalty amount"]
+    },
+    {
+      "id": "dec-base-penalty-increase",
+      "type": "decision",
+      "label": "Does a penalty increase under s 284-220 apply?",
+      "body": "The base penalty amount is increased by 20% if: (a) you took steps to prevent or obstruct the Commissioner from finding out about the shortfall; (b) you became aware of the shortfall or false statement and did not tell the Commissioner within a reasonable time; (c) you have a previous penalty under the same culpability item (s 284-220(1)(c)-(e)); or (d) for scheme penalties — obstruction or a previous scheme penalty (s 284-220(2)).",
+      "statute": [
+        {"act": "taa-1953", "section": "284-220", "title": "Increase in base penalty amount"}
+      ],
+      "commentary": ["increasing-or-decreasing-base-penalty-amounts"],
+      "cases": [],
+      "definitions": ["base penalty amount"]
+    },
+    {
+      "id": "apply-increase",
+      "type": "action",
+      "label": "Apply 20% increase to the base penalty amount",
+      "body": "The base penalty amount is increased by 20% for each applicable ground under s 284-220(1) (statement penalties) or s 284-220(2) (scheme penalties). The increase applies cumulatively — multiple grounds can each add 20%. The increased amount becomes the adjusted base penalty, subject to voluntary disclosure reduction and remission.",
+      "statute": [
+        {"act": "taa-1953", "section": "284-220", "title": "Increase in base penalty amount"}
+      ],
+      "commentary": ["increasing-or-decreasing-base-penalty-amounts"],
+      "cases": [],
+      "definitions": ["base penalty amount"]
+    },
+    {
+      "id": "dec-voluntary-disclosure",
+      "type": "decision",
+      "label": "Did you voluntarily disclose the shortfall to the Commissioner?",
+      "body": "A voluntary disclosure under s 284-225 can substantially reduce the base penalty amount. The reduction percentage depends on timing: (a) if you tell the Commissioner before being told about an examination — 80% reduction (or nil if shortfall < $1,000) under s 284-225(3); (b) if you tell the Commissioner after being told about an examination but the disclosure saves significant time/resources — 20% reduction under s 284-225(1). For scheme penalties, pre-examination disclosure: 80% reduction (s 284-225(4)). For false statements without a shortfall amount: reduced to nil (s 284-225(4A)).",
+      "statute": [
+        {"act": "taa-1953", "section": "284-225", "title": "Reduction of base penalty amount if you voluntarily tell the Commissioner"}
+      ],
+      "commentary": ["increasing-or-decreasing-base-penalty-amounts"],
+      "cases": [],
+      "definitions": ["shortfall amount", "scheme shortfall amount", "base penalty amount"]
+    },
+    {
+      "id": "apply-vdr-premexam",
+      "type": "action",
+      "label": "Apply pre-examination voluntary disclosure reduction (80% or nil)",
+      "body": "Pre-examination voluntary disclosure: the base penalty amount is reduced by 80% if the shortfall amount is $1,000 or more, or reduced to nil if the shortfall amount is less than $1,000 (s 284-225(3)). For scheme shortfall amounts, the reduction is 80% regardless of amount (s 284-225(4)). For false or misleading statements without a shortfall amount, the penalty is reduced to nil (s 284-225(4A)).",
+      "statute": [
+        {"act": "taa-1953", "section": "284-225", "title": "Reduction of base penalty amount if you voluntarily tell the Commissioner"}
+      ],
+      "commentary": ["increasing-or-decreasing-base-penalty-amounts"],
+      "cases": [],
+      "definitions": ["shortfall amount", "scheme shortfall amount", "base penalty amount"]
+    },
+    {
+      "id": "apply-vdr-pstexam",
+      "type": "action",
+      "label": "Apply post-examination voluntary disclosure reduction (20%)",
+      "body": "If the Commissioner has told you about an examination and you voluntarily disclose after that time, the base penalty is reduced by 20% provided the disclosure can reasonably be estimated to have saved the Commissioner a significant amount of time or resources (s 284-225(1)). The Commissioner may treat a post-examination disclosure as pre-examination if appropriate (s 284-225(5)).",
+      "statute": [
+        {"act": "taa-1953", "section": "284-225", "title": "Reduction of base penalty amount if you voluntarily tell the Commissioner"}
+      ],
+      "commentary": ["increasing-or-decreasing-base-penalty-amounts"],
+      "cases": [],
+      "definitions": ["base penalty amount"]
+    },
+    {
+      "id": "dec-remission-s298-20",
+      "type": "decision",
+      "label": "Apply for remission of the penalty under s 298-20?",
+      "body": "The Commissioner may remit all or part of the penalty under s 298-20(1). Remission is discretionary. If the Commissioner decides not to remit or remits only part, written notice of the decision and reasons must be given (s 298-20(2)). The taxpayer may object against the decision under Part IVC if the penalty payable after refusal exceeds 2 penalty units (s 298-20(3)).",
+      "statute": [
+        {"act": "taa-1953", "section": "298-20", "title": "Remission of penalty"}
+      ],
+      "commentary": ["review-of-penalty-remission-decisions"],
+      "cases": [],
+      "definitions": []
+    },
+    {
+      "id": "psla-2012-5-factors",
+      "type": "action",
+      "label": "Assess remission under the PS LA 2012/5 four-step framework",
+      "body": "PS LA 2012/5 sets out a four-step approach for remission: Step 1 — Is the penalty correctly imposed under the law? If not, remit to the correct amount. Step 2 — Are there circumstances of the taxpayer that warrant remission? Factors: serious illness, natural disaster, circumstances beyond the taxpayer's control, systemic ATO errors, incorrect advice from the ATO. Step 3 — Did the taxpayer make a voluntary disclosure? If so, partial remission may be appropriate beyond the statutory reduction. Step 4 — Are there exceptional circumstances justifying full or partial remission? Remission is generally only appropriate where the delay or conduct was caused by circumstances outside the taxpayer's control. Full remission is rare and usually requires exceptional circumstances.",
+      "statute": [
+        {"act": "taa-1953", "section": "298-20", "title": "Remission of penalty"}
+      ],
+      "commentary": ["review-of-penalty-remission-decisions"],
+      "cases": [],
+      "definitions": []
+    },
+    {
+      "id": "dec-remission-outcome",
+      "type": "decision",
+      "label": "Does the Commissioner grant full remission, partial remission, or refuse?",
+      "body": "The Commissioner may: (a) grant full remission — the penalty is reduced to nil; (b) grant partial remission — the penalty is reduced but some amount remains payable; or (c) refuse remission — the full penalty as calculated is payable. If the Commissioner refuses or grants only partial remission, written reasons must be provided (s 298-20(2)). If the penalty payable after refusal exceeds 2 penalty units, the taxpayer may object under Part IVC (s 298-20(3)).",
+      "statute": [
+        {"act": "taa-1953", "section": "298-20", "title": "Remission of penalty"}
+      ],
+      "commentary": ["review-of-penalty-remission-decisions"],
+      "cases": [],
+      "definitions": []
+    },
+    {
+      "id": "outcome-full-remission",
+      "type": "outcome",
+      "label": "Full remission granted — penalty reduced to nil",
+      "body": "The penalty is fully remitted under s 298-20. No amount is payable. Full remission is typically granted only where the penalty was not correctly imposed or where exceptional circumstances (outside the taxpayer's control) caused the default.",
+      "statute": [
+        {"act": "taa-1953", "section": "298-20", "title": "Remission of penalty"}
+      ],
+      "commentary": ["review-of-penalty-remission-decisions"],
+      "cases": [],
+      "definitions": []
+    },
+    {
+      "id": "outcome-partial-remission",
+      "type": "outcome",
+      "label": "Partial remission granted — reduced penalty payable",
+      "body": "Only part of the penalty is remitted. The balance of the penalty as calculated (including any s 284-220 increase, less any s 284-225 voluntary disclosure reduction) remains payable. The Commissioner must provide written reasons for the partial remission decision (s 298-20(2)). The taxpayer may object under Part IVC if the remaining penalty exceeds 2 penalty units.",
+      "statute": [
+        {"act": "taa-1953", "section": "298-20", "title": "Remission of penalty"}
+      ],
+      "commentary": ["review-of-penalty-remission-decisions"],
+      "cases": [],
+      "definitions": []
+    },
+    {
+      "id": "outcome-refusal",
+      "type": "outcome",
+      "label": "Remission refused — full penalty payable",
+      "body": "No remission is granted. The full penalty as calculated (base penalty plus any s 284-220 increase, less any s 284-225 voluntary disclosure reduction) is payable. The Commissioner must provide written notice of the decision and reasons (s 298-20(2)). The taxpayer may object under Part IVC if the penalty exceeds 2 penalty units (s 298-20(3)).",
+      "statute": [
+        {"act": "taa-1953", "section": "298-20", "title": "Remission of penalty"}
+      ],
+      "commentary": ["review-of-penalty-remission-decisions"],
+      "cases": [],
+      "definitions": []
+    },
+    {
+      "id": "end",
+      "type": "end",
+      "label": "Penalty outcome finalised — subject to objection under Part IVC",
+      "body": "The final penalty amount is determined. If the taxpayer is dissatisfied with a remission decision (or the underlying penalty assessment), they may object in the manner set out in Part IVC of the TAA 1953 within the relevant time limits. The AAT and Federal Court provide further review.",
+      "statute": [
+        {"act": "taa-1953", "section": "298-20", "title": "Remission of penalty"}
+      ],
+      "commentary": ["review-of-penalty-remission-decisions"],
+      "cases": [],
+      "definitions": []
+    }
+  ],
+  "edges": [
+    {"from": "start", "to": "dec-penalty-type", "label": "penalty liability identified"},
+    {"from": "dec-penalty-type", "to": "event-statement-shortfall", "label": "statement / unarguable position / failure to lodge"},
+    {"from": "dec-penalty-type", "to": "event-scheme-penalty", "label": "scheme penalty"},
+    {"from": "event-statement-shortfall", "to": "base-penalty-statement", "label": ""},
+    {"from": "event-scheme-penalty", "to": "base-penalty-scheme", "label": ""},
+    {"from": "base-penalty-statement", "to": "dec-base-penalty-increase", "label": ""},
+    {"from": "base-penalty-scheme", "to": "dec-base-penalty-increase", "label": ""},
+    {"from": "dec-base-penalty-increase", "to": "apply-increase", "label": "yes — one or more grounds apply"},
+    {"from": "dec-base-penalty-increase", "to": "dec-voluntary-disclosure", "label": "no increase applies"},
+    {"from": "apply-increase", "to": "dec-voluntary-disclosure", "label": ""},
+    {"from": "dec-voluntary-disclosure", "to": "apply-vdr-premexam", "label": "pre-examination disclosure"},
+    {"from": "dec-voluntary-disclosure", "to": "apply-vdr-pstexam", "label": "post-examination disclosure"},
+    {"from": "dec-voluntary-disclosure", "to": "dec-remission-s298-20", "label": "no voluntary disclosure"},
+    {"from": "apply-vdr-premexam", "to": "dec-remission-s298-20", "label": ""},
+    {"from": "apply-vdr-pstexam", "to": "dec-remission-s298-20", "label": ""},
+    {"from": "dec-remission-s298-20", "to": "psla-2012-5-factors", "label": "seek remission"},
+    {"from": "dec-remission-s298-20", "to": "outcome-refusal", "label": "do not seek remission"},
+    {"from": "psla-2012-5-factors", "to": "dec-remission-outcome", "label": ""},
+    {"from": "dec-remission-outcome", "to": "outcome-full-remission", "label": "full remission"},
+    {"from": "dec-remission-outcome", "to": "outcome-partial-remission", "label": "partial remission"},
+    {"from": "dec-remission-outcome", "to": "outcome-refusal", "label": "refusal"},
+    {"from": "outcome-full-remission", "to": "end", "label": ""},
+    {"from": "outcome-partial-remission", "to": "end", "label": ""},
+    {"from": "outcome-refusal", "to": "end", "label": ""}
+  ]
+}

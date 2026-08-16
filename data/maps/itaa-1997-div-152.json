@@ -1,0 +1,816 @@
+{
+ "id": "itaa-1997-div-152",
+ "title": "Division 152 — CGT small business concessions",
+ "act": "itaa-1997",
+ "part": "3-3",
+ "division": "152",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Four CGT concessions for small business — the 15-year exemption, the 50% reduction, the retirement exemption and the roll-over. All require the Subdivision 152-A basic conditions: a CGT event producing a gain, a CGT small business entity or $6M net asset value test, and the active asset test. The 15-year exemption has priority; the retirement exemption and roll-over apply (in either order) to the gain left after the 50% reduction. Key interaction provisions: the CGT concession stakeholder definition (s 152-110), the CGT cap amount for retirement contributions (s 152-325), the replacement asset period (s 104-190), recapture events J2/J5/J6 (ss 104-185, 104-197, 104-198), and the net capital gain method statement (s 102-5). Subsection coverage: operative ss 152-10, 152-12, 152-15, 152-20, 152-35, 152-40, 152-45, 152-105, 152-110, 152-115, 152-125, 152-205, 152-210, 152-305, 152-315, 152-325, 152-410, 152-415, 152-430, 104-185, 104-190, 104-197, 104-198, 102-5 mapped to nodes; ss 152-1, 152-5, 152-47, 152-48, 152-49, 152-50, 152-55, 152-60, 152-65, 152-70, 152-75, 152-78, 152-80, 152-100, 152-200, 152-215, 152-220, 152-300, 152-310, 152-320, 152-330, 152-400, 152-420 (machinery/definitional/transitional).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You carry on a business and a CGT event happens in relation to a CGT asset used in it (or shares/units in a company or trust that carries on the business)",
+   "body": "Division 152 lets a small business reduce or disregard capital gains from CGT events involving business (active) assets. There are four concessions: the 15-year exemption (Subdiv 152-B), the 50% reduction (Subdiv 152-C), the retirement exemption (Subdiv 152-D) and the roll-over (Subdiv 152-E). All require the basic conditions in Subdivision 152-A to be satisfied first.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-5",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "active asset",
+    "cgt asset",
+    "cgt event",
+    "small business entity"
+   ]
+  },
+  {
+   "id": "trigger-event",
+   "type": "event",
+   "label": "A CGT event happens in relation to a CGT asset of yours in an income year",
+   "body": "The event must be one that would (apart from this Division) result in a capital gain. CGT event K7 is excluded. Special conditions apply to CGT event D1 (see s 152-12). Typical events: A1 disposal (selling a business asset or shares), D1 (creating contractual rights), and the roll-over recapture events J2, J5 and J6.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": "Basic conditions for relief"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-12",
+     "title": "Special conditions for CGT event D1"
+    }
+   ],
+   "commentary": [
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "cgt event"
+   ]
+  },
+  {
+   "id": "dec-gain",
+   "type": "decision",
+   "label": "Would the event (apart from this Division) result in a capital gain?",
+   "body": "The concessions apply only to gains. If the event produces a capital loss (or neither gain nor loss), the basic conditions are not satisfied and no small business concession is available for that event.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ]
+  },
+  {
+   "id": "dec-entity-size",
+   "type": "decision",
+   "label": "Are you a CGT small business entity, or do you satisfy the maximum net asset value test (≤ $6M)?",
+   "body": "CGT small business entity (s 152-10(1)(c)(i)): you are a small business entity (aggregated turnover under $10M, s 328-110) and would still be one if the $10M threshold were $2M (s 152-10(1AA)). Alternatively, the maximum net asset value test (s 152-10(1)(c)(ii), s 152-15) is satisfied if the net value of your CGT assets plus those of entities connected with you and your affiliates does not exceed $6M just before the CGT event. Assets excluded from net value are set out in s 152-20(2)-(4). The partner carve-out (s 152-10(1)(c)(iii)) and the passive asset conditions (s 152-10(1)(c)(iv), ss 152-10(1A)-(1B)) are alternative paths.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-15",
+     "title": "Maximum net asset value test"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-20",
+     "title": "Meaning of net value of the CGT assets"
+    }
+   ],
+   "commentary": [
+    "maximum-net-asset-value-mnav-requirements"
+   ],
+   "cases": [],
+   "definitions": [
+    "small business entity",
+    "CGT small business entity",
+    "net value of the CGT assets",
+    "affiliate",
+    "connected with"
+   ]
+  },
+  {
+   "id": "dec-partner",
+   "type": "decision",
+   "label": "Are you a partner in a partnership that is a CGT small business entity, with an interest in an asset of the partnership?",
+   "body": "A partner in a partnership that is a CGT small business entity can qualify for the concessions in relation to an interest in an asset of the partnership without separately satisfying the turnover or net asset tests (s 152-10(1)(c)(iii)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT small business entity"
+   ]
+  },
+  {
+   "id": "dec-passive",
+   "type": "decision",
+   "label": "Do the passively-held asset conditions apply (an affiliate or connected entity that is a CGT small business entity carries on the business)?",
+   "body": "If you do not carry on a business yourself in the income year (other than in partnership), the basic conditions can still be satisfied where your affiliate or a connected entity is a CGT small business entity that carries on the business in relation to the asset (s 152-10(1A)). A similar rule applies to partners holding passively-held assets (s 152-10(1B)). Businesses that are winding up are dealt with in s 152-49.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-49",
+     "title": "Businesses that are winding up"
+    }
+   ],
+   "commentary": [
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [],
+   "definitions": [
+    "affiliate",
+    "connected with"
+   ]
+  },
+  {
+   "id": "dec-active",
+   "type": "decision",
+   "label": "Does the asset satisfy the active asset test?",
+   "body": "Owned for 15 years or less: the asset must have been an active asset of yours for a total of at least half the period from acquisition to the earlier of the CGT event and (if the business ceased in the previous 12 months, or longer if the Commissioner allows) the cessation (s 152-35(1)(a)). Owned for more than 15 years: at least 7½ years in that period (s 152-35(1)(b)). For involuntary disposals (compulsory acquisition, loss or destruction) the time periods continue under s 152-45. The meaning of active asset is in s 152-40.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-35",
+     "title": "Active asset test"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-45",
+     "title": "Continuing time periods for involuntary disposals"
+    }
+   ],
+   "commentary": [
+    "active-assets"
+   ],
+   "cases": [
+    {
+     "citation": "[2019] FCA 2155"
+    }
+   ],
+   "definitions": [
+    "active asset"
+   ]
+  },
+  {
+   "id": "dec-active-meaning",
+   "type": "decision",
+   "label": "Is the asset an active asset — used in a business carried on by you, your affiliate or a connected entity?",
+   "body": "An asset is active if it is used, or held ready for use, in carrying on a business (alone or in partnership) by you, your affiliate or a connected entity; an intangible asset is active if it is inherently connected with such a business (for example goodwill). Shares in a company or interests in a trust are active assets where at least 80% of the entity's assets by market value are active assets or business-connected financial instruments or cash (s 152-40(3)). Excluded assets: financial instruments, assets whose main use is deriving rent, interest, royalties or foreign exchange gains (with limited exceptions), and interests in connected entities outside the 80% rule (s 152-40(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-40",
+     "title": "Meaning of active asset"
+    }
+   ],
+   "commentary": [
+    "active-assets"
+   ],
+   "cases": [
+    {
+     "citation": "[2019] FCA 2155"
+    }
+   ],
+   "definitions": [
+    "active asset",
+    "affiliate",
+    "connected with",
+    "goodwill"
+   ]
+  },
+  {
+   "id": "dec-shares",
+   "type": "decision",
+   "label": "Is the asset a share in a company or an interest in a trust?",
+   "body": "Shares and trust interests attract additional basic conditions under s 152-10(2), including the extended active asset assumptions in s 152-10(2A)-(2B) and the CGT concession stakeholder test.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT concession stakeholder"
+   ]
+  },
+  {
+   "id": "dec-shares-extra",
+   "type": "decision",
+   "label": "Do the additional basic conditions for shares/trust interests apply?",
+   "body": "The asset must still satisfy the active asset test on the extended assumptions in s 152-10(2A). If you do not pass the net asset value test, you must carry on a business just before the CGT event. The object entity must be a CGT small business entity or pass the net asset value test with control thresholds reduced to 20% (s 152-10(2)(c)). And just before the event you must be a CGT concession stakeholder in the object entity, or CGT concession stakeholders in it must have a small business participation percentage in you of at least 90% (s 152-10(2)(d)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-10",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT concession stakeholder",
+    "small business participation percentage",
+    "significant individual"
+   ]
+  },
+  {
+   "id": "choice-order",
+   "type": "action",
+   "label": "Basic conditions satisfied — apply the concessions in order: 15-year exemption first, then 50% reduction, then retirement exemption and/or roll-over",
+   "body": "s 152-430: the 15-year exemption has priority — a gain it covers is entirely disregarded and no other concession applies. Otherwise the 50% reduction applies automatically to the gain remaining after step 3 of the method statement (the general discount). The retirement exemption and the roll-over can then apply to the reduced gain, in either order, or both (s 152-210).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-210",
+     "title": "You may also get the small business retirement exemption and small business roll-over relief"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-430",
+     "title": "15-year rule has priority"
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "net capital gain"
+   ]
+  },
+  {
+   "id": "dec-15yr",
+   "type": "decision",
+   "label": "15-year exemption: have you continuously owned the asset for 15+ years and are you retiring or permanently incapacitated?",
+   "body": "Individual (s 152-105): basic conditions satisfied; continuous ownership for the 15 years ending just before the event; if the asset is shares/units, the company or trust must have had a significant individual for a total of at least 15 years during your ownership; and you are 55 or over with the event connected with your retirement, or you are permanently incapacitated. Company or trust (s 152-110): same ownership and significant-individual rules, and a significant individual just before the event is 55+/retiring or permanently incapacitated. Time periods continue for involuntary disposals and certain roll-overs (s 152-115).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-105",
+     "title": "15-year exemption for individuals"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-110",
+     "title": "15-year exemption for companies and trusts"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-115",
+     "title": "Continuing time periods for involuntary disposals"
+    }
+   ],
+   "commentary": [
+    "cgt-15-year-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "[2021] FCAFC 99"
+    }
+   ],
+   "definitions": [
+    "significant individual",
+    "permanently incapacitated"
+   ]
+  },
+  {
+   "id": "outcome-15yr",
+   "type": "outcome",
+   "label": "15-year exemption: the entire capital gain is disregarded",
+   "body": "The gain is wholly disregarded (s 152-105 for individuals; s 152-110 for companies and trusts, which also makes related ordinary/statutory income non-assessable non-exempt). The company or trust can then make exempt payments to its CGT concession stakeholders within the limits in s 152-125. Because this concession has priority, no other concession applies to the gain.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-105",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-110",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-125",
+     "title": "Payments to company's or trust's CGT concession stakeholders are exempt"
+    }
+   ],
+   "commentary": [
+    "cgt-15-year-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT concession stakeholder",
+    "small business participation percentage"
+   ]
+  },
+  {
+   "id": "outcome-50",
+   "type": "outcome",
+   "label": "50% reduction: the gain remaining after the general discount is reduced by a further 50%",
+   "body": "s 152-205 reduces by 50% the amount remaining after step 3 of the method statement in s 102-5(1) (the general 50% discount for individuals and trusts, or indexation where chosen). For an individual the combined effect eliminates up to 75% of the original gain before any further concession. A company (no discount) gets only the 50% reduction. This reduction is automatic once the basic conditions are satisfied.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-205",
+     "title": "You get the small business 50% reduction"
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain"
+   ]
+  },
+  {
+   "id": "dec-retire",
+   "type": "decision",
+   "label": "Retirement exemption: do you choose to disregard all or part of the remaining gain? (Subdiv 152-D)",
+   "body": "Individual (s 152-305(1)): choose to disregard all or part of the gain if the basic conditions are satisfied; if you are under 55 just before the choice, you must contribute an amount equal to the asset's CGT exempt amount to a complying superannuation fund or RSA (at the choice time, or when you receive the proceeds; instalments are dealt with in s 152-305(1A)). Company or trust (s 152-305(2)): the significant individual test must be satisfied and the payment conditions in s 152-325 met. Entities in s 328-125(8) cannot choose.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-305",
+     "title": "Choosing the exemption"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-325",
+     "title": "Company or trust conditions"
+    }
+   ],
+   "commentary": [
+    "cgt-retirement-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "[2021] FCAFC 99"
+    }
+   ],
+   "definitions": [
+    "CGT exempt amount",
+    "complying superannuation fund",
+    "RSA",
+    "significant individual"
+   ]
+  },
+  {
+   "id": "dec-retire-cap",
+   "type": "decision",
+   "label": "Is the choice within the CGT retirement exemption limit ($500,000 lifetime per individual)?",
+   "body": "s 152-315: the choice must be made so that the individual's CGT retirement exemption limit is not exceeded ($500,000 lifetime — see the example in s 152-315). The CGT exempt amount must be specified in writing; a company or trust choosing must specify the percentage of each asset's CGT exempt amount attributable to each CGT concession stakeholder. Amounts not chosen remain taxable.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-315",
+     "title": "Choosing the amount to disregard"
+    }
+   ],
+   "commentary": [
+    "cgt-retirement-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT retirement exemption limit",
+    "CGT exempt amount"
+   ]
+  },
+  {
+   "id": "outcome-retire",
+   "type": "outcome",
+   "label": "Retirement exemption: the gain is disregarded up to the CGT exempt amount chosen",
+   "body": "All or part of the gain is disregarded up to the CGT exempt amount (s 152-305, s 152-315). For an individual under 55 the disregarded amount must be contributed to super. The remaining gain can then go to the roll-over if chosen.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-305",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-315",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-retirement-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT exempt amount"
+   ]
+  },
+  {
+   "id": "dec-rollover",
+   "type": "decision",
+   "label": "Roll-over: do you choose it for the remaining gain? (Subdiv 152-E)",
+   "body": "You can choose the roll-over under s 152-410 if the basic conditions are satisfied — even before acquiring a replacement asset. If by the end of the replacement asset period you have not acquired a replacement asset (or incurred fourth element expenditure), CGT event J5 recaptures the disregarded gain (s 104-197); if the amount spent is less than the disregarded gain, CGT event J6 recaptures the difference (s 104-198).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-410",
+     "title": "When you can obtain the roll-over"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-197",
+     "title": "CGT event J5"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-198",
+     "title": "CGT event J6"
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [
+    {
+     "citation": "[2017] FCA 287"
+    }
+   ],
+   "definitions": [
+    "replacement asset period",
+    "fourth element expenditure",
+    "capital gain"
+   ]
+  },
+  {
+   "id": "dec-replacement",
+   "type": "decision",
+   "label": "Do you acquire a replacement asset (or incur fourth element expenditure) by the end of the replacement asset period?",
+   "body": "The replacement asset period (s 104-190) starts one year before the last CGT event in the income year for which you obtain the roll-over and ends at the later of 2 years after that event and, for a disposal, 6 months after the latest time a possible financial benefit becomes due under a look-through earnout right. The Commissioner may extend the period. It is modified if capital proceeds are later increased under ss 116-45 or 116-60.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-190",
+     "title": "Replacement asset period"
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "replacement asset period",
+    "look-through earnout right",
+    "fourth element expenditure"
+   ]
+  },
+  {
+   "id": "dec-replacement-active",
+   "type": "decision",
+   "label": "Is the replacement asset your active asset at the end of the replacement asset period (and, for shares/units, is the stakeholder test met)?",
+   "body": "The replacement asset must be an active asset (s 104-197(2)). For shares or trust interests, you (or an entity connected with you) must be a CGT concession stakeholder in the company or trust, or CGT concession stakeholders must have a small business participation percentage in you of at least 90%. A later change in relation to the replacement asset triggers CGT event J2 (s 104-185).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-197",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-185",
+     "title": "CGT event J2"
+    }
+   ],
+   "commentary": [
+    "active-assets"
+   ],
+   "cases": [],
+   "definitions": [
+    "active asset",
+    "CGT concession stakeholder"
+   ]
+  },
+  {
+   "id": "outcome-rollover",
+   "type": "outcome",
+   "label": "Roll-over: the gain is disregarded and the replacement asset's cost base is reduced by the disregarded amount",
+   "body": "s 152-415: you can disregard all or part of the remaining gain. The first element of the replacement asset's cost base is reduced by the disregarded amount, so the gain is deferred into the replacement asset rather than forgiven. You can choose to disregard only part of the gain and keep the rest taxable.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-415",
+     "title": "What the roll-over consists of"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-410",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "capital gain"
+   ]
+  },
+  {
+   "id": "outcome-recapture",
+   "type": "outcome",
+   "label": "No qualifying replacement by period end — CGT event J5 or J6 recaptures the disregarded gain",
+   "body": "If no replacement asset is acquired (or fourth element expenditure incurred) by the end of the replacement asset period, CGT event J5 happens at that time and you make a capital gain equal to the amount disregarded under the roll-over (s 104-197). If a replacement is acquired but the total cost is less than the disregarded gain, CGT event J6 recaptures the difference (s 104-198). The Commissioner may extend the period.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-197",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-198",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "replacement asset period"
+   ]
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Concessions applied — the reduced gain feeds into the net capital gain calculation",
+   "body": "Up to 100% of the gain can be eliminated (15-year exemption) or reduced in combination (50% reduction plus retirement exemption and/or roll-over, in the chosen order). The remaining gain is included in your net capital gain under s 102-5.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "net capital gain"
+   ]
+  },
+  {
+   "id": "no-rollover",
+   "type": "end",
+   "label": "Concessions not available — the full capital gain is taxed",
+   "body": "If any basic condition fails (no gain, entity too large, asset not active, stakeholder test failed), none of the four small business concessions can apply. Consider alternatives: the small business restructure roll-over (Div 328, ss 328-450 to 328-465), the general replacement-asset roll-overs (Div 124) and the CGT discount (Div 115).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-450",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "trigger-event",
+   "label": "CGT event happens"
+  },
+  {
+   "from": "trigger-event",
+   "to": "dec-gain",
+   "label": "event in an income year"
+  },
+  {
+   "from": "dec-gain",
+   "to": "no-rollover",
+   "label": "No gain (loss or nil)"
+  },
+  {
+   "from": "dec-gain",
+   "to": "dec-entity-size",
+   "label": "Yes — gain would arise"
+  },
+  {
+   "from": "dec-entity-size",
+   "to": "dec-active",
+   "label": "Yes — CGT SBE or NAVA ≤ $6M"
+  },
+  {
+   "from": "dec-entity-size",
+   "to": "dec-partner",
+   "label": "No"
+  },
+  {
+   "from": "dec-partner",
+   "to": "dec-active",
+   "label": "Yes — CGT SBE partnership"
+  },
+  {
+   "from": "dec-partner",
+   "to": "dec-passive",
+   "label": "No"
+  },
+  {
+   "from": "dec-passive",
+   "to": "dec-active",
+   "label": "Yes — conditions met"
+  },
+  {
+   "from": "dec-passive",
+   "to": "no-rollover",
+   "label": "No"
+  },
+  {
+   "from": "dec-active",
+   "to": "dec-active-meaning",
+   "label": "Test satisfied"
+  },
+  {
+   "from": "dec-active",
+   "to": "no-rollover",
+   "label": "Test failed"
+  },
+  {
+   "from": "dec-active-meaning",
+   "to": "dec-shares",
+   "label": "Active asset"
+  },
+  {
+   "from": "dec-active-meaning",
+   "to": "no-rollover",
+   "label": "Not active / excluded"
+  },
+  {
+   "from": "dec-shares",
+   "to": "dec-shares-extra",
+   "label": "Yes — shares/units"
+  },
+  {
+   "from": "dec-shares",
+   "to": "choice-order",
+   "label": "No — direct asset"
+  },
+  {
+   "from": "dec-shares-extra",
+   "to": "choice-order",
+   "label": "Yes — conditions met"
+  },
+  {
+   "from": "dec-shares-extra",
+   "to": "no-rollover",
+   "label": "No — conditions failed"
+  },
+  {
+   "from": "choice-order",
+   "to": "dec-15yr",
+   "label": "15-year exemption first"
+  },
+  {
+   "from": "dec-15yr",
+   "to": "outcome-15yr",
+   "label": "Yes — 15 yrs + retiring/incapacitated"
+  },
+  {
+   "from": "dec-15yr",
+   "to": "outcome-50",
+   "label": "No — 50% reduction applies"
+  },
+  {
+   "from": "outcome-50",
+   "to": "dec-retire",
+   "label": "remaining gain"
+  },
+  {
+   "from": "dec-retire",
+   "to": "dec-retire-cap",
+   "label": "Choose exemption"
+  },
+  {
+   "from": "dec-retire",
+   "to": "dec-rollover",
+   "label": "No retirement exemption"
+  },
+  {
+   "from": "dec-retire-cap",
+   "to": "outcome-retire",
+   "label": "Within $500K limit"
+  },
+  {
+   "from": "dec-retire-cap",
+   "to": "dec-rollover",
+   "label": "Limit exceeded — excess taxable"
+  },
+  {
+   "from": "outcome-retire",
+   "to": "dec-rollover",
+   "label": "remaining gain (optional)"
+  },
+  {
+   "from": "dec-rollover",
+   "to": "dec-replacement",
+   "label": "Choose roll-over"
+  },
+  {
+   "from": "dec-rollover",
+   "to": "end",
+   "label": "No roll-over — concessions applied"
+  },
+  {
+   "from": "dec-replacement",
+   "to": "dec-replacement-active",
+   "label": "Yes — acquired in period"
+  },
+  {
+   "from": "dec-replacement",
+   "to": "outcome-recapture",
+   "label": "No — J5 at period end"
+  },
+  {
+   "from": "dec-replacement-active",
+   "to": "outcome-rollover",
+   "label": "Yes — active asset"
+  },
+  {
+   "from": "dec-replacement-active",
+   "to": "outcome-recapture",
+   "label": "No — J5 at period end"
+  },
+  {
+   "from": "outcome-rollover",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "outcome-recapture",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "outcome-15yr",
+   "to": "end",
+   "label": ""
+  }
+ ],
+ "short": "CGT small business",
+ "refs": "Div 152"
+}

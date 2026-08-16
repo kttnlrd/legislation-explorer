@@ -1,0 +1,901 @@
+{
+ "id": "itaa-1997-cgt-rollovers-remaining",
+ "title": "CGT roll-overs — navigator for the remaining roll-overs",
+ "short": "CGT roll-over navigator",
+ "refs": "ITAA 1997 Div 112, 122-128",
+ "act": "itaa-1997",
+ "part": "3-3",
+ "division": "",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Decision-tree navigator covering all Subdivision 124 roll-overs (except 124-B compulsory acquisition and 124-M scrip for scrip, which have separate maps), plus Subdivisions 122-B (partners to company), 125-B (demerger), 126-B/C/D/G (same-asset roll-overs) and 128-A/B (deceased estates). Guides from transaction type to the applicable roll-over with key conditions and consequences per branch.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "CGT event has happened — you want to defer (roll-over) the capital gain",
+   "body": "A roll-over defers a capital gain (or loss) until a later CGT event. Replacement-asset roll-overs (Div 112 Subdiv C) involve the original asset being replaced; same-asset roll-overs (Div 112 Subdiv D) involve the same asset being transferred. This navigator covers roll-overs under Subdivs 122-B, 124-C/D/E/F/I/J/K/L/N/P/Q/R/S, 125-B, 126-B/C/D/G and 128-A/B.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "112-105",
+     "title": "What is a replacement-asset roll-over?"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "112-115",
+     "title": "Table of replacement-asset roll-overs"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "112-150",
+     "title": "Table of same-asset roll-overs"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "dec-transaction-cat",
+   "type": "decision",
+   "label": "What type of transaction gives rise to the CGT event?",
+   "body": "Navigate to the correct roll-over category: (1) Replacement asset — you receive a new asset in place of the original; (2) Shares, units and entity interests — exchanges, conversions or demergers of shares/units; (3) Entity restructures — transfers between group companies, trusts or super funds; (4) Special assets — compulsory acquisition (separate map), scrip for scrip (separate map); (5) Deceased estates — asset devolves to legal personal representative or passes to a beneficiary.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "112-115",
+     "title": "Table of replacement-asset roll-overs"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "112-150",
+     "title": "Table of same-asset roll-overs"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "cat-replacement",
+   "type": "decision",
+   "label": "Replacement asset: what kind of original asset is being replaced?",
+   "body": "Replacement-asset roll-overs (Div 124) defer the gain when your ownership of one CGT asset ends and you acquire another (s 112-105). Common categories: statutory licences, strata title conversion, Crown leases, prospecting and mining entitlements, depreciating assets on land, water entitlements, interest realignment arrangements, or assets transferred to a company by partners.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-10",
+     "title": "Your ownership of one CGT asset ends"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-15",
+     "title": "Your ownership of more than one CGT asset ends"
+    }
+   ],
+   "commentary": [
+    "general-rules-for-replacement-asset-cgt-roll-overs"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "cat-shares",
+   "type": "decision",
+   "label": "Shares, units or entity interests: what is the nature of the exchange?",
+   "body": "Roll-overs for shares, units and entity interests include: exchange of shares in the same company (124-E), exchange of rights/options (124-F), change of incorporation (124-I), trust to company (124-N), MDO membership exchange (124-P), stapled interest exchange (124-Q), demerger (125-B), and partners disposing of assets to a company (122-B).",
+   "statute": [],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "cat-entity-restructure",
+   "type": "decision",
+   "label": "Entity restructure: what kind of entity is involved?",
+   "body": "Same-asset roll-overs (Div 126) apply to transfers between entities in the same group or restructures: wholly-owned group company transfers (126-B), trust deed changes (126-C), small superannuation fund transfers (126-D), and trust-to-trust asset transfers (126-G). These are same-asset roll-overs where the asset continues in new hands.",
+   "statute": [],
+   "commentary": [
+    "conditions-for-inter-company-cgt-roll-overs",
+    "cgt-roll-over-for-trust-restructures"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "cat-special",
+   "type": "decision",
+   "label": "Special assets: compulsory acquisition or scrip for scrip?",
+   "body": "Two major roll-overs have their own dedicated maps: Subdivision 124-B (compulsory acquisition, loss or destruction — see separate map) and Subdivision 124-M (scrip for scrip exchange of shares in a takeover — see separate map). Other special-asset roll-overs are covered in the replacement asset branch.",
+   "statute": [],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "cat-deceased",
+   "type": "decision",
+   "label": "Deceased estate: has a CGT asset devolved to a legal personal representative or beneficiary?",
+   "body": "Division 128 (ss 128-A, 128-B) provides roll-over treatment for CGT assets of a deceased person. Under s 128-15, when a CGT asset devolves to the legal personal representative or passes to a beneficiary, the recipient is taken to have acquired the asset on the day the person died. Any gain or loss the legal personal representative makes when the asset passes to a beneficiary is disregarded.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "128-15",
+     "title": "Effect on the legal personal representative or beneficiary"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "capital gain",
+    "capital loss"
+   ]
+  },
+  {
+   "id": "rollover-124c",
+   "type": "action",
+   "label": "124-C: New statutory licences (s 124-140)",
+   "body": "A roll-over is available when your ownership of one or more statutory licences ends (CGT event C2) and you are issued one or more new licences authorising substantially similar activity (s 124-140(1)). The new licence must be taxable Australian property if the original was. Consequence: the gain is disregarded; the new licence inherits the original's cost base per Subdiv 124-A.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-140",
+     "title": "New statutory licences"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-statutory-licences"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124d",
+   "type": "action",
+   "label": "124-D: Strata title conversion (s 124-190)",
+   "body": "A roll-over is available if you own property giving a right to occupy a unit in a building, the building is subdivided into stratum units, and the owner transfers the corresponding stratum unit to you (s 124-190(1)). Consequence: the gain is disregarded; the first element of the new stratum unit's cost base includes what you paid plus the original property's cost base under Subdiv 124-A.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-190",
+     "title": "Strata title conversion"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-strata-title-conversion"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124j",
+   "type": "action",
+   "label": "124-J: Crown leases (s 124-570)",
+   "body": "A roll-over is available when the holder of a Crown lease over land has the lease renewed, extended or converted to an estate in fee simple (s 124-570 — What this Subdivision is about). Consequence: the gain is disregarded; the replacement lease or estate in fee simple inherits the original's cost base per Subdiv 124-A.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-570",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-crown-leases"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124k",
+   "type": "action",
+   "label": "124-K: Depreciating assets roll-over (s 124-655)",
+   "body": "A roll-over is available for a depreciating asset attached to land held under a quasi-ownership right (granted by an exempt Australian or foreign government agency) when the right expires or is terminated and you are granted a new quasi-ownership right or an estate in fee simple (s 124-655). No roll-over if already covered by Subdiv 124-J or 124-L. Consequence per Subdiv 124-A.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-655",
+     "title": "Roll-over for depreciating assets"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "depreciating asset"
+   ]
+  },
+  {
+   "id": "rollover-124l",
+   "type": "action",
+   "label": "124-L: Prospecting and mining entitlements (s 124-700)",
+   "body": "A roll-over is available when a prospecting or mining entitlement expires or is surrendered and it is replaced by a new one (s 124-700 — What this Subdivision is about). Operative provisions: ss 124-705 to 124-730. Consequence: gain disregarded; the cost base of the original entitlement carries into the new entitlement per Subdiv 124-A.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-700",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124r",
+   "type": "action",
+   "label": "124-R: Water entitlements (s 124-1100)",
+   "body": "A roll-over is available if a CGT event happens because of something occurring in relation to water entitlements (s 124-1100 — What this Subdivision is about). Three cases: replacement water entitlements, reduction in water entitlements, and variation to a CGT asset. Consequence: gain or loss disregarded; cost base carries over.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-1100",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-transformation-of-water-rights"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124s",
+   "type": "action",
+   "label": "124-S: Interest realignment arrangements (s 124-1220)",
+   "body": "A roll-over is available if an interest in a mining, quarrying or prospecting right is disposed of under an interest realignment arrangement (s 124-1220 — What this Subdivision is about). Operative provisions: ss 124-1225 to 124-1250. Consequence: partial roll-over with cost base adjustments per Subdiv 124-A.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-1220",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-122b",
+   "type": "action",
+   "label": "122-B: Partners disposing of assets to a company (s 122-120)",
+   "body": "A roll-over is available when partners in a partnership transfer a CGT asset (or all assets of a business) to a wholly-owned company, or create a CGT asset in the company (s 122-120 — What this Subdivision is about). Conditions: s 122-125 (disposal to wholly-owned company) and s 122-150 (consequences). The gain or loss is disregarded; new shares replace the partnership interest.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-120",
+     "title": "What this Subdivision is about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-125",
+     "title": "Disposal or creation of assets—wholly-owned company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-150",
+     "title": "Capital gain or loss disregarded"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-to-company-by-partners"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "capital gain",
+    "capital loss"
+   ]
+  },
+  {
+   "id": "rollover-124e",
+   "type": "action",
+   "label": "124-E: Exchange of shares in the same company (s 124-240)",
+   "body": "A roll-over is available if you own shares of a certain class, the company redeems or cancels all shares of that class and issues new shares in substitution (s 124-240(1)). Conditions: market value of new shares ≥ original shares just before cancellation; paid-up capital unchanged; residency or TAP requirements. Consequence: gain disregarded; new shares take the original shares' cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-240",
+     "title": "Exchange of shares in the same company"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "market value",
+    "cost base of a cgt asset",
+    "taxable australian property"
+   ]
+  },
+  {
+   "id": "rollover-124f",
+   "type": "action",
+   "label": "124-F: Exchange of rights or options to acquire shares (s 124-295)",
+   "body": "A roll-over is available if you own rights to acquire shares (or an option to acquire shares) and the shares are consolidated or subdivided, the company cancels the original rights/options, and issues new rights/options in substitution (s 124-295). You must receive nothing else. Consequence: gain disregarded; new rights/options inherit original cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-295",
+     "title": "Exchange of rights or option to acquire shares in a company"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124i",
+   "type": "action",
+   "label": "124-I: Change of incorporation (s 124-510)",
+   "body": "A roll-over is available for members of a body that is incorporated under one law and is converted to, or replaced with, a body incorporated under another law (s 124-510 — What this Subdivision is about). Consequence: shares in the new corporation replace the original interests with a cost base transfer per Subdiv 124-A.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-510",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124n",
+   "type": "action",
+   "label": "124-N: Trust to company roll-over (s 124-850)",
+   "body": "A roll-over is available when a trust disposes of all its assets to a company and units/interests in the trust are replaced by shares in the company (s 124-850 — What this Subdivision is about). Also available for 2+ trusts disposing to a single company. Note: effect may be reversed if trust does not cease within 6 months (CGT event J1, s 104-195).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-850",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124p",
+   "type": "action",
+   "label": "124-P: MDO membership exchange (s 124-975)",
+   "body": "A roll-over is available if you exchange your interest as a member of a Medical Defence Organisation (MDO) for an interest in another MDO (s 124-975 — What this Subdivision is about). You can only choose the roll-over if you would have made a capital gain from the exchange. Consequence: gain disregarded; new interest inherits the original's cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-975",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-medical-defence-organisations"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-124q",
+   "type": "action",
+   "label": "124-Q: Exchange of stapled ownership interests (s 124-1040)",
+   "body": "A roll-over is available if you own stapled ownership interests and, as a result of a reorganisation, you stop owning those interests and acquire ownership interests in an interposed unit trust (s 124-1040 — What this Subdivision is about). Consequence: gain disregarded; new interests inherit the stapled interests' cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-1040",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-exchange-of-stapled-securities"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-125b",
+   "type": "action",
+   "label": "125-B: Demerger roll-over (s 125-55)",
+   "body": "A roll-over is available if you own an ownership interest in the head entity of a demerger group, a demerger happens, and you acquire a new or replacement interest in the demerged entity (s 125-55(1)). Not available if you are a foreign resident and the new interest is not taxable Australian property (s 125-55(2)). Consequence: gain is disregarded; cost base adjustments under s 125-80.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "125-55",
+     "title": "When a roll-over is available for a demerger"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "125-70",
+     "title": "Meanings of demerger, demerged entity and demerging entity"
+    }
+   ],
+   "commentary": [
+    "demerger-cgt-roll-over-relief"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "taxable australian property"
+   ]
+  },
+  {
+   "id": "rollover-126b",
+   "type": "action",
+   "label": "126-B: Wholly-owned group roll-over (s 126-45)",
+   "body": "A roll-over is available for the transfer of a CGT asset between two companies that are members of the same wholly-owned group, where at least one is a foreign resident (s 126-40 — What this Subdivision is about). CGT events must be A1, B1, D1, D2, D3 or F1 (s 126-45(2)). Consequence: gain disregarded; same-asset roll-over — the asset's cost base continues unchanged.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "126-40",
+     "title": "What this Subdivision is about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "126-45",
+     "title": "Roll-over for members of wholly-owned group"
+    }
+   ],
+   "commentary": [
+    "conditions-for-inter-company-cgt-roll-overs",
+    "consequences-of-inter-company-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "capital gain"
+   ]
+  },
+  {
+   "id": "rollover-126c",
+   "type": "action",
+   "label": "126-C: Trust deed changes (s 126-125)",
+   "body": "A roll-over is available for a CGT event that happens because of an amendment to or replacement of the trust deed of a complying approved deposit fund, complying superannuation fund, or a fund that accepts worker entitlement contributions (s 126-125 — What this Subdivision is about). Consequence: gain disregarded; same-asset roll-over.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "126-125",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-trust-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "capital gain"
+   ]
+  },
+  {
+   "id": "rollover-126d",
+   "type": "action",
+   "label": "126-D: Small superannuation fund transfers (s 126-140)",
+   "body": "A roll-over is available when an interest in a small superannuation fund is subject to a payment split under the Family Law Act and the non-member spouse serves a waiver notice, resulting in a CGT asset transfer to another complying superannuation fund (s 126-140(1)-(2)). Consequence: gain disregarded; same-asset roll-over.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "126-140",
+     "title": "CGT event involving small superannuation funds"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-126g",
+   "type": "action",
+   "label": "126-G: Transfer of assets between certain trusts (s 126-215)",
+   "body": "A roll-over may be available when CGT assets are transferred between certain trusts (s 126-215 — What this Subdivision is about). Requirements: s 126-225 (when a roll-over may be chosen); the beneficiaries' entitlements must not be discretionary (s 126-230). Exceptions in s 126-235. Consequence: same-asset roll-over — cost base carries over between trusts.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "126-215",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-trust-restructures",
+    "cgt-roll-over-for-assets-between-fixed-trusts"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "rollover-128ab",
+   "type": "action",
+   "label": "128-A/B: Deceased estates — effect on LPR or beneficiary (s 128-15)",
+   "body": "When a CGT asset owned just before death devolves to the legal personal representative (LPR) or passes to a beneficiary (ss 128-A, 128-B), the recipient is taken to have acquired the asset on the day of death (s 128-15(2)). Any gain or loss the LPR makes when the asset passes to a beneficiary is disregarded (s 128-15(3)). The cost base is generally the market value at death (s 128-15(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "128-15",
+     "title": "Effect on the legal personal representative or beneficiary"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "capital gain",
+    "capital loss",
+    "market value",
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "see-124b-separate",
+   "type": "action",
+   "label": "124-B: Compulsory acquisition — see separate map",
+   "body": "Subdivision 124-B (ss 124-70 to 124-95) provides replacement-asset roll-over where a CGT asset is compulsorily acquired, lost or destroyed. See the separate map 'Subdivision 124-B roll-over — asset compulsorily acquired, lost or destroyed' at data/maps/itaa-1997-subdiv-124b.json for full conditions and consequences.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-70",
+     "title": "Events giving rise to a roll-over"
+    }
+   ],
+   "commentary": [
+    "when-replacement-asset-cgt-roll-over-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ]
+  },
+  {
+   "id": "see-124m-separate",
+   "type": "action",
+   "label": "124-M: Scrip for scrip — see separate map",
+   "body": "Subdivision 124-M provides replacement-asset roll-over for exchanges of shares or units in a takeover/takeover bid. See the separate map for Subdivision 124-M (scrip for scrip). Key condition: the exchanging entity must acquire 80%+ of the target; gain is deferred into the new shares/units.",
+   "statute": [],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "end-124c",
+   "type": "end",
+   "label": "124-C roll-over applied — gain deferred into new statutory licence",
+   "body": "The gain is disregarded; the new licence inherits the original licence's cost base (or pre-CGT status) per Subdiv 124-A general rules. The deferred gain will be brought to account when the new licence is later disposed of.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-10",
+     "title": "Your ownership of one CGT asset ends"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-statutory-licences"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base of a cgt asset"
+   ]
+  },
+  {
+   "id": "end-shared",
+   "type": "end",
+   "label": "Roll-over applied — gain deferred",
+   "body": "The relevant roll-over has been chosen and applied. The gain is disregarded; the new asset or transferred asset inherits the appropriate cost base. Refer to the specific Subdivision for any recapture events (e.g., CGT events J2, J5, J6) that may later bring the deferred gain to account.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-transaction-cat",
+   "label": "choose roll-over"
+  },
+  {
+   "from": "dec-transaction-cat",
+   "to": "cat-replacement",
+   "label": "replacement asset"
+  },
+  {
+   "from": "dec-transaction-cat",
+   "to": "cat-shares",
+   "label": "shares/units/entity interests"
+  },
+  {
+   "from": "dec-transaction-cat",
+   "to": "cat-entity-restructure",
+   "label": "entity restructure"
+  },
+  {
+   "from": "dec-transaction-cat",
+   "to": "cat-special",
+   "label": "special assets"
+  },
+  {
+   "from": "dec-transaction-cat",
+   "to": "cat-deceased",
+   "label": "deceased estate"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-124c",
+   "label": "statutory licence replaced"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-124d",
+   "label": "strata title conversion"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-124j",
+   "label": "Crown lease renewed/extended"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-124k",
+   "label": "depreciating asset on quasi-ownership land"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-124l",
+   "label": "prospecting/mining entitlement replaced"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-124r",
+   "label": "water entitlement variation"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-124s",
+   "label": "mining interest realignment"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-122b",
+   "label": "partners — assets to company"
+  },
+  {
+   "from": "cat-shares",
+   "to": "rollover-124e",
+   "label": "same company share exchange"
+  },
+  {
+   "from": "cat-shares",
+   "to": "rollover-124f",
+   "label": "rights/options exchange"
+  },
+  {
+   "from": "cat-shares",
+   "to": "rollover-124i",
+   "label": "change of incorporation"
+  },
+  {
+   "from": "cat-shares",
+   "to": "rollover-124n",
+   "label": "trust to company"
+  },
+  {
+   "from": "cat-shares",
+   "to": "rollover-124p",
+   "label": "MDO membership exchange"
+  },
+  {
+   "from": "cat-shares",
+   "to": "rollover-124q",
+   "label": "stapled interest exchange"
+  },
+  {
+   "from": "cat-shares",
+   "to": "rollover-125b",
+   "label": "demerger"
+  },
+  {
+   "from": "cat-entity-restructure",
+   "to": "rollover-126b",
+   "label": "wholly-owned group transfer"
+  },
+  {
+   "from": "cat-entity-restructure",
+   "to": "rollover-126c",
+   "label": "trust deed amendment"
+  },
+  {
+   "from": "cat-entity-restructure",
+   "to": "rollover-126d",
+   "label": "small super fund transfer"
+  },
+  {
+   "from": "cat-entity-restructure",
+   "to": "rollover-126g",
+   "label": "trust-to-trust transfer"
+  },
+  {
+   "from": "cat-special",
+   "to": "see-124b-separate",
+   "label": "compulsory acquisition"
+  },
+  {
+   "from": "cat-special",
+   "to": "see-124m-separate",
+   "label": "scrip for scrip"
+  },
+  {
+   "from": "cat-deceased",
+   "to": "rollover-128ab",
+   "label": "asset devolves/passes"
+  },
+  {
+   "from": "rollover-124c",
+   "to": "end-124c",
+   "label": ""
+  },
+  {
+   "from": "rollover-124d",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124j",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124k",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124l",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124r",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124s",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-122b",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124e",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124f",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124i",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124n",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124p",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-124q",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-125b",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-126b",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-126c",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-126d",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-126g",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "rollover-128ab",
+   "to": "end-shared",
+   "label": ""
+  },
+  {
+   "from": "see-124b-separate",
+   "to": "end-shared",
+   "label": "see separate map"
+  },
+  {
+   "from": "see-124m-separate",
+   "to": "end-shared",
+   "label": "see separate map"
+  }
+ ]
+}

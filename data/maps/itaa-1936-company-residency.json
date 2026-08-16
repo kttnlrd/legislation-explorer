@@ -1,0 +1,265 @@
+{
+ "id": "itaa-1936-company-residency",
+ "title": "Tax residency of companies — s 6(1) ITAA 1936",
+ "act": "itaa-1936",
+ "part": "I",
+ "division": "",
+ "subdivision": "",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Australian tax residency of a company is determined by three alternative limbs in the s 6(1) ITAA 1936 definition of 'resident': (1) incorporated in Australia; (2) carries on business in Australia AND has central management and control in Australia (Koitaki Para Rubber Estates Ltd v FCT (1941) 64 CLR 241; Harding v FCT [2019] FCAFC 29); or (3) voting power controlled by Australian-resident shareholders. Passing ANY one limb makes the company a resident. The Part X Australian resident carve-out (CFC context) and DTA tie-breakers (place of effective management) are boundary nodes. Subsection coverage: s 6(1) 'resident' company limbs all mapped; s 995-1 ITAA 1997 cross-reference; individual and trust residency are separate maps.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A company is incorporated, or carries on business and is managed, in connection with Australia",
+   "body": "Corporate tax residency is determined by the s 6(1) ITAA 1936 definition of 'resident' for companies: a company is a resident if (a) it is incorporated in Australia, or (b) it carries on business in Australia and has its central management and control (CM&C) in Australia, or (c) its voting power is controlled by shareholders who are Australian residents. Passing ANY one test makes the company a resident taxed on worldwide income.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": "Interpretation"
+    }
+   ],
+   "commentary": [
+    "residence-of-companies",
+    "australian-resident-and-foreign-resident-companies"
+   ],
+   "cases": [],
+   "definitions": [
+    "resident",
+    "company",
+    "central management and control"
+   ]
+  },
+  {
+   "id": "dec-incorporated",
+   "type": "decision",
+   "label": "Is the company incorporated in Australia?",
+   "body": "Incorporation in Australia (under Australian law) makes the company a resident regardless of where it is managed or carries on business. This is the first and simplest limb of the corporate resident definition.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "incorporated in Australia"
+   ]
+  },
+  {
+   "id": "dec-cmc",
+   "type": "decision",
+   "label": "Does the company carry on business in Australia AND have its central management and control in Australia?",
+   "body": "Both limbs must be satisfied. CM&C is the highest level of control — where the company's strategic decisions are made and where the directors actually exercise their powers, not where the day-to-day operations occur. Koitaki Para Rubber Estates Ltd v FCT (1941) 64 CLR 241: company incorporated in Papua held a resident because its directors met and controlled the company from Sydney. Harding v FCT [2019] FCAFC 29: a single director who operated from Australia could make the company a resident — substance over form, looking at where the real decision-making occurs.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "residence-of-companies",
+    "australian-resident-and-foreign-resident-companies"
+   ],
+   "cases": [
+    {
+     "citation": "1941_HCA_13",
+     "title": "Koitaki Para Rubber Estates Ltd v Federal Commissioner of Taxation",
+     "court": "HCA"
+    },
+    {
+     "citation": "2019_FCAFC_29",
+     "title": "Harding v Commissioner of Taxation",
+     "court": "FCAFC"
+    }
+   ],
+   "definitions": [
+    "central management and control",
+    "carries on business in Australia"
+   ]
+  },
+  {
+   "id": "dec-voting",
+   "type": "decision",
+   "label": "Is the company's voting power controlled by shareholders who are Australian residents?",
+   "body": "The third limb: a company whose voting power is controlled by shareholders who are residents of Australia is itself a resident — even if incorporated and managed offshore.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "voting power"
+   ]
+  },
+  {
+   "id": "outcome-resident",
+   "type": "outcome",
+   "label": "RESIDENT COMPANY — taxed on worldwide income",
+   "body": "A resident company is taxed on worldwide income (s 6-5 ITAA 1997) at the corporate rate, with access to the participation exemption (Subdiv 768-A dividends, 768-G gains) and franking.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-foreign",
+   "type": "outcome",
+   "label": "FOREIGN RESIDENT COMPANY — taxed only on Australian-source income",
+   "body": "A foreign resident company is taxed only on Australian-source income: dividends, interest, royalties, and gains on taxable Australian property (Div 855). CFC rules (Part X ITAA 1936) may attribute the income of controlled foreign companies to Australian shareholders.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "boundary-partx",
+   "type": "decision",
+   "label": "BOUNDARY — Is the company a 'Part X Australian resident' for CFC purposes?",
+   "body": "Under Part X ITAA 1936 (CFC rules), a company that is a Part X Australian resident cannot itself be a CFC. Sections 332(2)(a) and 333(2)(a) each require that the company NOT be a Part X Australian resident. A company that becomes a Part X Australian resident displaces the CFC analysis entirely — this is a threshold carve-out, not a continuity test.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "340",
+     "title": "Interpretation"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "Part X Australian resident",
+    "controlled foreign company"
+   ]
+  },
+  {
+   "id": "interaction-995",
+   "type": "action",
+   "label": "INTERACTION — s 995-1 ITAA 1997: 'Australian resident' cross-reference",
+   "body": "Section 995-1 of ITAA 1997 defines 'Australian resident' as 'a person who is a resident of Australia for the purposes of the Income Tax Assessment Act 1936'. The s 6(1) definition therefore applies for all purposes of the 1997 Act, including Div 855 (foreign residents' CGT) and the participation exemptions.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "995-1",
+     "title": "Definitions"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "Australian resident"
+   ]
+  },
+  {
+   "id": "dec-dta",
+   "type": "decision",
+   "label": "DTA TIE-BREAKER — Is the company a dual resident under the applicable DTA?",
+   "body": "If the company is a resident under Australian domestic law and a treaty partner's domestic law, the DTA tie-breaker (e.g., AU-UK Article 4, AU-US Article 4) resolves it: the company is treated as a resident only of the country where its place of effective management (POEM) is situated.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "place of effective management",
+    "dual resident"
+   ]
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Corporate residency determination complete — apply the applicable tax treatment",
+   "body": "",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-incorporated",
+   "label": "company"
+  },
+  {
+   "from": "dec-incorporated",
+   "to": "outcome-resident",
+   "label": "Yes — incorporated in Australia"
+  },
+  {
+   "from": "dec-incorporated",
+   "to": "dec-cmc",
+   "label": "No — not incorporated in Australia"
+  },
+  {
+   "from": "dec-cmc",
+   "to": "outcome-resident",
+   "label": "Yes — carries on business AND CM&C in Australia (Koitaki, Harding)"
+  },
+  {
+   "from": "dec-cmc",
+   "to": "dec-voting",
+   "label": "No — either limb fails"
+  },
+  {
+   "from": "dec-voting",
+   "to": "outcome-resident",
+   "label": "Yes — voting power controlled by AU-resident shareholders"
+  },
+  {
+   "from": "dec-voting",
+   "to": "outcome-foreign",
+   "label": "No — none of the three limbs met"
+  },
+  {
+   "from": "outcome-resident",
+   "to": "boundary-partx",
+   "label": "Consider CFC context"
+  },
+  {
+   "from": "boundary-partx",
+   "to": "end",
+   "label": "Part X Australian resident — CFC analysis displaced"
+  },
+  {
+   "from": "boundary-partx",
+   "to": "end",
+   "label": "Not a Part X Australian resident — continue"
+  },
+  {
+   "from": "outcome-resident",
+   "to": "interaction-995",
+   "label": "s 995-1 cross-reference"
+  },
+  {
+   "from": "outcome-foreign",
+   "to": "interaction-995",
+   "label": "s 995-1 cross-reference"
+  },
+  {
+   "from": "interaction-995",
+   "to": "dec-dta",
+   "label": "Dual resident? Apply tie-breaker"
+  },
+  {
+   "from": "dec-dta",
+   "to": "end",
+   "label": "Residency resolved"
+  }
+ ],
+ "short": "Company tax residency",
+ "refs": "s 6(1)"
+}

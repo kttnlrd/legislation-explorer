@@ -1,0 +1,113 @@
+{
+ "id": "itaa-1936-trust-residency",
+ "title": "Tax residency of trusts — s 995-1 ITAA 1997 / s 6(1) ITAA 1936",
+ "act": "itaa-1997",
+ "part": "6-5",
+ "division": "995",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Trust residency for CGT purposes is defined in s 995-1 ITAA 1997: for a non-unit trust, the trustee must be an Australian resident and the trust created in Australia or the settlor an Australian resident at creation; for a unit trust, the trustee must be an Australian resident and central management and control in Australia. Resident trusts are in the Australian CGT net; foreign trusts are taxed only on Australian-source income with the foreign trust rules (Div 6AAA Part X ITAA 1936) potentially applying. Subsection coverage: s 995-1 'resident trust for CGT purposes' definition mapped; individual and company residency are separate maps (itaa-1936-individual-residency, itaa-1936-company-residency).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A trust is created, or its administration and control are situated, in connection with Australia",
+   "body": "Trust residency matters for CGT (resident trust for CGT purposes), for attribution of trust income to beneficiaries, and for the foreign trust rules. The 'resident trust for CGT purposes' definition sits in s 995-1 ITAA 1997, cross-referenced from s 6(1) ITAA 1936.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "995-1",
+     "title": "Definitions"
+    }
+   ],
+   "commentary": [
+    "accruals-taxation-of-non-resident-trust-income",
+    "residence-of-individuals-generally"
+   ],
+   "cases": [],
+   "definitions": [
+    "resident trust for CGT purposes",
+    "foreign trust for CGT purposes"
+   ]
+  },
+  {
+   "id": "dec-resident-trust",
+   "type": "decision",
+   "label": "Is the trust a resident trust for CGT purposes under s 995-1 ITAA 1997?",
+   "body": "A trust is a resident trust for CGT purposes for an income year if, at any time during the year: (a) for a trust that is not a unit trust — the trustee is an Australian resident and the trust was created in Australia or the settlor was an Australian resident at creation; or (b) for a unit trust — the trustee is an Australian resident and the central management and control of the trust is in Australia. A public trading trust and certain superannuation funds have their own rules.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "995-1",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "resident trust for CGT purposes",
+    "central management and control"
+   ]
+  },
+  {
+   "id": "outcome-resident",
+   "type": "outcome",
+   "label": "RESIDENT TRUST — trustee taxed on net income, beneficiaries assessed on entitlements",
+   "body": "The trustee of a resident trust is liable to tax on the net income of the trust estate. Beneficiaries presently entitled to income are assessed on their shares. CGT events in relation to trust assets fall within the Australian CGT net.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-foreign",
+   "type": "outcome",
+   "label": "FOREIGN TRUST — only Australian-source income taxed; foreign trust rules may apply",
+   "body": "The trustee of a foreign trust is taxed only on Australian-source income. Capital gains on assets that are not taxable Australian property may be disregarded (Div 855 ITAA 1997). The foreign trust rules (Part X Division 6AAA ITAA 1936) may apply to attributed income.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Trust residency determination complete",
+   "body": "",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-resident-trust",
+   "label": "trust"
+  },
+  {
+   "from": "dec-resident-trust",
+   "to": "outcome-resident",
+   "label": "Yes — resident trust for CGT purposes"
+  },
+  {
+   "from": "dec-resident-trust",
+   "to": "outcome-foreign",
+   "label": "No — foreign trust for CGT purposes"
+  },
+  {
+   "from": "outcome-resident",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "outcome-foreign",
+   "to": "end",
+   "label": ""
+  }
+ ],
+ "short": "Trust tax residency",
+ "refs": "s 995-1"
+}

@@ -1,0 +1,349 @@
+{
+ "id": "taa-1953-gic-remission",
+ "title": "GIC remission — when the general interest charge can be remitted",
+ "short": "GIC remission",
+ "refs": "s 8AAG TAA 1953; PS LA 2011/12",
+ "act": "taa-1953",
+ "part": "IIA",
+ "division": "",
+ "subdivision": "",
+ "compilation_no": 222,
+ "compilation_date": "2026-04-01",
+ "summary": "The general interest charge (GIC) applies under Part IIA TAA 1953 when tax debts are unpaid after the due date. The Commissioner may remit all or part of the GIC under s 8AAG. Remission is guided by PS LA 2011/12 factors including reasonable cause, circumstances beyond the taxpayer's control, systemic ATO error, voluntary disclosure, cooperation, and compliance history. The remission gateway is structured by s 8AAG(3) (delay not caused by taxpayer), s 8AAG(4) (fair and reasonable despite taxpayer's role) and s 8AAG(5) (special circumstances). Coverage: ss 8AAA–8AAG, Part IVC TAA 1953.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You have an unpaid tax debt and the general interest charge applies",
+   "body": "Under Part IIA of the TAA 1953, the general interest charge (GIC) applies to amounts payable to the Commissioner that remain unpaid after the due date. Section 8AAB identifies when GIC applies and s 8AAA provides an overview of the regime.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAA",
+     "title": "Overview"
+    },
+    {
+     "act": "taa-1953",
+     "section": "8AAB",
+     "title": "When the general interest charge applies"
+    }
+   ],
+   "commentary": [
+    "general-interest-charge"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "act-gic-amount",
+   "type": "action",
+   "label": "GIC is calculated daily at the GIC rate and is due and payable",
+   "body": "The amount of GIC for a day is worked out under s 8AAC. The GIC rate is the base interest rate plus 7 percentage points, divided by the number of days in the calendar year (s 8AAD). The charge is due and payable at the end of each day (s 8AAE). The Commissioner may issue a notice of the amount of GIC under s 8AAF.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAC",
+     "title": "Amount of the general interest charge"
+    },
+    {
+     "act": "taa-1953",
+     "section": "8AAD",
+     "title": "What is the general interest charge rate?"
+    },
+    {
+     "act": "taa-1953",
+     "section": "8AAE",
+     "title": "When the charge is due and payable"
+    },
+    {
+     "act": "taa-1953",
+     "section": "8AAF",
+     "title": "Notification by Commissioner"
+    }
+   ],
+   "commentary": [
+    "general-interest-charge"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-seek-remission",
+   "type": "decision",
+   "label": "Do you seek remission of the GIC?",
+   "body": "The Commissioner has discretion under s 8AAG(1) to remit all or part of the GIC payable by a person. If GIC applies because an amount remained unpaid after the due date, the Commissioner may only remit in the circumstances set out in s 8AAG(3), (4) or (5).",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "act-apply",
+   "type": "action",
+   "label": "Apply to the Commissioner for remission under s 8AAG(1)",
+   "body": "You may apply to the Commissioner requesting remission of all or part of the GIC. There is no prescribed form. The Commissioner exercises discretion having regard to the statutory circumstances and the factors in PS LA 2011/12.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-s8aag3",
+   "type": "decision",
+   "label": "Were the circumstances contributing to the delay outside your control? (s 8AAG(3))",
+   "body": "Under s 8AAG(3), the Commissioner may remit GIC if satisfied that (a) the circumstances that contributed to the delay in payment were not due to, or caused directly or indirectly by, an act or omission of the person; and (b) the person has taken reasonable action to mitigate those circumstances. Examples include serious illness, natural disaster, or systemic ATO error.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-s8aag4",
+   "type": "decision",
+   "label": "Are you partly responsible but is remission fair and reasonable? (s 8AAG(4))",
+   "body": "Under s 8AAG(4), the Commissioner may remit GIC where (a) the circumstances contributing to the delay were caused by an act or omission of the person; (b) the person has taken reasonable action to mitigate those circumstances; and (c) having regard to the nature of those circumstances, it would be fair and reasonable to remit all or part of the charge. This is a balancing test acknowledging partial taxpayer responsibility.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-s8aag5",
+   "type": "decision",
+   "label": "Are there special circumstances making remission appropriate? (s 8AAG(5))",
+   "body": "Under s 8AAG(5), the Commissioner may remit GIC if satisfied that (a) there are special circumstances because of which it would be fair and reasonable to remit all or part of the charge; or (b) it is otherwise appropriate to do so. This is a broad residual discretion that may capture exceptional or unusual situations not covered by subsections (3) or (4).",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-psla-factors",
+   "type": "decision",
+   "label": "Assess PS LA 2011/12 factors for remission",
+   "body": "PS LA 2011/12 provides the Commissioner's guidelines for exercising the remission discretion. Relevant factors include: whether there was reasonable cause for the delay (serious illness, natural disaster, circumstances beyond the taxpayer's control, systemic ATO errors); voluntary disclosure of the shortfall; cooperation with the ATO; compliance history; the length of the delay; and whether full or partial remission is appropriate. Remission is usually only granted where the delay was caused by circumstances outside the taxpayer's control.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-full",
+   "type": "outcome",
+   "label": "Full remission — GIC remitted entirely",
+   "body": "Where the s 8AAG(3), (4) or (5) criteria are satisfied, the Commissioner may remit the GIC in full. Full remission is more likely where the delay was caused entirely by circumstances outside the taxpayer's control and the taxpayer took reasonable mitigating action.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-partial",
+   "type": "outcome",
+   "label": "Partial remission — part of the GIC remitted",
+   "body": "Where the circumstances justify only a portion of the GIC being waived, the Commissioner may grant partial remission. This may be appropriate where the taxpayer bears some responsibility for the delay but the circumstances otherwise warrant some relief, or where the delay was caused by mixed factors inside and outside the taxpayer's control.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-refusal",
+   "type": "outcome",
+   "label": "Remission refused — GIC remains payable",
+   "body": "If none of the circumstances in s 8AAG(3)-(5) are satisfied, or the PS LA 2011/12 factors weigh against remission (e.g. deliberate non-payment, no reasonable cause, poor compliance history), the Commissioner will refuse remission. The GIC continues to accrue and is payable in full.",
+   "statute": [
+    {
+     "act": "taa-1953",
+     "section": "8AAG",
+     "title": "Remission of the charge"
+    }
+   ],
+   "commentary": [
+    "remission-of-gic"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "act-review",
+   "type": "action",
+   "label": "Review options: objection under Part IVC then ART review",
+   "body": "A decision by the Commissioner under s 8AAG is a reviewable objection decision under Part IVC of the TAA 1953. You may lodge an objection against the decision, and if the objection is disallowed, seek review by the Administrative Review Tribunal (ART) or appeal to the Federal Court. The commentary slug review-of-penalty-remission-decisions provides further guidance.",
+   "statute": [],
+   "commentary": [
+    "review-of-penalty-remission-decisions"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "GIC remission process concluded",
+   "body": "The GIC position is finalised. You may either pay the GIC as assessed, benefit from full or partial remission, or pursue review avenues if remission was refused.",
+   "statute": [],
+   "commentary": [
+    "general-interest-charge"
+   ],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "act-gic-amount",
+   "label": "GIC applies"
+  },
+  {
+   "from": "act-gic-amount",
+   "to": "dec-seek-remission",
+   "label": "GIC calculated and notified"
+  },
+  {
+   "from": "dec-seek-remission",
+   "to": "act-apply",
+   "label": "yes — apply for remission"
+  },
+  {
+   "from": "dec-seek-remission",
+   "to": "end",
+   "label": "no — GIC payable as assessed"
+  },
+  {
+   "from": "act-apply",
+   "to": "dec-s8aag3",
+   "label": "application lodged"
+  },
+  {
+   "from": "dec-s8aag3",
+   "to": "dec-s8aag4",
+   "label": "not met — consider s 8AAG(4)"
+  },
+  {
+   "from": "dec-s8aag3",
+   "to": "dec-psla-factors",
+   "label": "yes — outside control"
+  },
+  {
+   "from": "dec-s8aag4",
+   "to": "dec-s8aag5",
+   "label": "not met — consider s 8AAG(5)"
+  },
+  {
+   "from": "dec-s8aag4",
+   "to": "dec-psla-factors",
+   "label": "yes — fair and reasonable"
+  },
+  {
+   "from": "dec-s8aag5",
+   "to": "dec-psla-factors",
+   "label": "yes — special circumstances"
+  },
+  {
+   "from": "dec-s8aag5",
+   "to": "outcome-refusal",
+   "label": "no — no remission ground established"
+  },
+  {
+   "from": "dec-psla-factors",
+   "to": "outcome-full",
+   "label": "strong case — full remission"
+  },
+  {
+   "from": "dec-psla-factors",
+   "to": "outcome-partial",
+   "label": "mixed factors — partial remission"
+  },
+  {
+   "from": "dec-psla-factors",
+   "to": "outcome-refusal",
+   "label": "factors weigh against remission"
+  },
+  {
+   "from": "outcome-full",
+   "to": "act-review",
+   "label": ""
+  },
+  {
+   "from": "outcome-partial",
+   "to": "act-review",
+   "label": ""
+  },
+  {
+   "from": "outcome-refusal",
+   "to": "act-review",
+   "label": ""
+  },
+  {
+   "from": "act-review",
+   "to": "end",
+   "label": ""
+  }
+ ]
+}

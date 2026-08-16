@@ -1,0 +1,654 @@
+{
+ "id": "itaa-1997-div-615",
+ "title": "Division 615 — Roll-overs for business restructures (interposed company)",
+ "act": "itaa-1997",
+ "part": "3-80",
+ "division": "615",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Members of a company or unit trust (the original entity) can choose a roll-over when they dispose of, redeem or cancel their shares/units in exchange for shares in an interposed company as part of a business restructure. The roll-over defers CGT and allows cost base to move into the new shares. Additional deferral rules apply for trading stock and revenue assets. Interposed company gets pre-CGT treatment on original entity shares proportionally. Subsection coverage: operative sections 615-5, 615-10, 615-15, 615-20, 615-25, 615-30, 615-35, 615-40, 615-45, 615-50, 615-55, 615-60, 615-65 mapped to nodes; 615-1 (guide); 124-20, 703-70 (machinery); 615-35 (ADI-specific).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "Member holds shares/units in a company or unit trust (the original entity)",
+   "body": "Division 615 applies to a member of a company or a unit trust. The member, together with at least one other entity (exchanging members), must own all the shares or units in the original entity. Under a scheme for reorganising its affairs, the exchanging members exchange their interests in the original entity for shares in an interposed company.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-1",
+     "title": "What this Division is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures",
+    "cgt-roll-over-for-trust-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "member",
+    "company",
+    "unit trust",
+    "shares",
+    "units"
+   ]
+  },
+  {
+   "id": "dec-disposal-or-redemption",
+   "type": "decision",
+   "label": "Disposal case (s 615-5) or redemption/cancellation case (s 615-10)?",
+   "body": "Two paths: (1) s 615-5 — exchanging members dispose of all their shares/units in the original entity to the interposed company in exchange for shares in the interposed company (and nothing else). (2) s 615-10 — the interposed company acquires some (but not all) shares/units in the original entity (first acquisition), and the remaining shares/units are redeemed or cancelled, with each exchanging member receiving shares (and nothing else) in the interposed company.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-5",
+     "title": "Disposing of interests in one entity for shares in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "dispose",
+    "redeemable shares",
+    "interposed company"
+   ]
+  },
+  {
+   "id": "dec-exchanging-members",
+   "type": "decision",
+   "label": "Do you and at least one other exchanging member own ALL the shares/units in the original entity?",
+   "body": "For s 615-5: you and at least one other entity (the exchanging members) must own all the shares or units in the original entity. For s 615-10: you and at least one other entity must own all the remaining shares or units (after the interposed company acquires some). ADI restructures may disregard certain preference shares under s 615-35.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-5",
+     "title": "Disposing of interests in one entity for shares in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-35",
+     "title": "ADI restructures—disregard certain preference shares"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "exchanging members"
+   ]
+  },
+  {
+   "id": "dec-consideration",
+   "type": "decision",
+   "label": "Is the only consideration shares in the interposed company (and nothing else)?",
+   "body": "For s 615-5(1)(c): exchanging members dispose of shares/units to the interposed company in exchange for shares in the interposed company (and nothing else). For s 615-10(1)(e): each exchanging member receives shares (and nothing else) in the interposed company in return for their shares or units being redeemed or cancelled. Note: s 124-20 applies if an exchanging member uses a share sale facility.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-5",
+     "title": "Disposing of interests in one entity for shares in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "shares",
+    "share sale facility"
+   ]
+  },
+  {
+   "id": "dec-interposed-ownership",
+   "type": "decision",
+   "label": "Does the interposed company own ALL the original interests immediately after completion? (s 615-15)",
+   "body": "The interposed company must own all the shares or units in the original entity immediately after the time (the completion time) all exchanging members have had their shares or units disposed of, redeemed or cancelled under the scheme.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-15",
+     "title": "Interposed company must own all the original interests"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "completion time"
+   ]
+  },
+  {
+   "id": "dec-proportionality",
+   "type": "decision",
+   "label": "Do exchanging members receive proportional shareholdings? (s 615-20)",
+   "body": "Each exchanging member must own: (a) a whole number of shares in the interposed company; and (b) a percentage of interposed company shares equal to their percentage of original entity shares/units disposed of, redeemed or cancelled. Additionally, the ratio of MV of each member's interposed shares to total interposed shares must equal the ratio of MV of their original entity interests to total original entity interests disposed of, redeemed or cancelled.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-20",
+     "title": "Requirements relating to your interests in the original entity"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "market value",
+    "whole number"
+   ]
+  },
+  {
+   "id": "dec-residency",
+   "type": "decision",
+   "label": "Residency requirement: are you an AU resident or are the interests TAP? (s 615-20(3))",
+   "body": "Either: (a) you are an Australian resident at the time your shares/units are disposed of, redeemed or cancelled; or (b) if you are a foreign resident at that time: (i) your shares/units in the original entity were taxable Australian property immediately before that time; and (ii) your shares in the interposed company are taxable Australian property immediately after the completion time.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-20",
+     "title": "Requirements relating to your interests in the original entity"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "Australian resident",
+    "foreign resident",
+    "taxable Australian property"
+   ]
+  },
+  {
+   "id": "dec-interposed-company-reqs",
+   "type": "decision",
+   "label": "Are the interposed company requirements met? (s 615-25)",
+   "body": "Three requirements: (1) shares issued in the interposed company must not be redeemable shares; (2) each exchanging member must own their interposed company shares from issue until at least the completion time; (3) immediately after the completion time, either (a) exchanging members own all shares in the interposed company, or (b) other entities own no more than 5 shares with market value low enough that it is reasonable to treat exchanging members as owning all shares.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-25",
+     "title": "Requirements relating to the interposed company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "redeemable shares",
+    "market value"
+   ]
+  },
+  {
+   "id": "dec-interposed-choice",
+   "type": "decision",
+   "label": "Has the interposed company made the required choice? (s 615-30)",
+   "body": "Unless subsection (2) applies, the interposed company must choose that s 615-65 applies (pre-CGT treatment for original entity shares). If the original entity was the head company of a consolidated group, the interposed company must choose that the consolidated group continues in existence with the interposed company as head company. Choice must be made within 2 months (s 615-30(1)) or 28 days (s 615-30(2)) after completion time, or within further time allowed by the Commissioner. Cannot be revoked. Returns preparation is sufficient evidence.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-30",
+     "title": "Interposed company must make a particular choice"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "consolidated group",
+    "head company",
+    "income tax return"
+   ]
+  },
+  {
+   "id": "dec-adi-restructure",
+   "type": "decision",
+   "label": "Is this an ADI restructure with preference shares to disregard? (s 615-35)",
+   "body": "Section 615-35 applies if: (a) the interposed company is a non-operating holding company under the Financial Sector (Transfer and Restructure) Act 1999; (b) a restructure instrument under Part 4A of that Act is in force; (c) an ADI becomes a subsidiary of the interposed company; and (d) the original entity is the ADI or part of an extended licensed entity. If so, certain preference shares in the original entity are disregarded for Div 615 purposes.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-35",
+     "title": "ADI restructures—disregard certain preference shares"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "ADI",
+    "non-operating holding company",
+    "preference shares"
+   ]
+  },
+  {
+   "id": "choice-rollover",
+   "type": "action",
+   "label": "Choose the roll-over (automatic if consolidated group head changes under s 615-5(2) or s 615-10(2))",
+   "body": "You can choose to obtain the roll-over under s 615-5(1) or s 615-10(1). You are taken to have chosen automatically if: immediately before the completion time the original entity was the head company of a consolidated group, and immediately after the completion time the interposed company is the head company of the group (s 615-5(2), s 615-10(2)). The consolidated group continues in existence per s 703-70.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-5",
+     "title": "Disposing of interests in one entity for shares in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "703-70",
+     "title": "When a consolidated group continues in existence"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "consolidated group",
+    "head company"
+   ]
+  },
+  {
+   "id": "outcome-cgt-consequences",
+   "type": "outcome",
+   "label": "CGT consequences: gain/loss disregarded; cost base moves to new shares (s 615-40 via Subdiv 124-A)",
+   "body": "The CGT consequences set out in Subdivision 124-A (replacement-asset roll-overs) apply to a roll-over under this Division as if it were a roll-over covered by Division 124. Those consequences generally involve: (a) disregarding a capital gain or capital loss you make from the disposal, redemption or cancellation of your shares or units in the original entity; and (b) working out the first element of the cost base of each of your new shares in the interposed company by reference to the cost bases of your shares or units in the original entity.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-40",
+     "title": "CGT consequences"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-1",
+     "title": "What this Subdivision is about"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss",
+    "cost base",
+    "replacement-asset roll-over"
+   ]
+  },
+  {
+   "id": "dec-additional-consequences",
+   "type": "decision",
+   "label": "Are additional trading stock / revenue asset consequences triggered? (s 615-45)",
+   "body": "Sections 615-50 and 615-55 (additional deferral consequences) apply if: (a) you are taken to have chosen or otherwise choose the roll-over; (b) if you choose, you also choose for these additional consequences to apply; (c) some or all of your shares/units in the original entity were your trading stock or revenue assets immediately before disposal/redemption/cancellation; and (d) the interposed company shares you acquire have the same character. Apply separately for each character.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-45",
+     "title": "Additional consequences—deferral of profit or loss"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "trading stock",
+    "revenue assets"
+   ]
+  },
+  {
+   "id": "outcome-trading-stock",
+   "type": "outcome",
+   "label": "Trading stock consequences: assessable income at cost/value; new shares treated as acquired at same amount (s 615-50)",
+   "body": "The amount included in your assessable income for each share/unit that was your trading stock is: if it had been trading stock since the start of the income year — its value at the start of the year plus any cost increase since then; otherwise — its cost at that time. For each new share that is your trading stock, you are taken to have paid: total included in assessable income ÷ number of new trading stock shares. For Div 70 purposes, you, the original entity and the interposed company are taken to have dealt at arm's length in the ordinary course of business.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-50",
+     "title": "Trading stock"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "trading stock",
+    "value as trading stock",
+    "arm's length"
+   ]
+  },
+  {
+   "id": "outcome-revenue-assets",
+   "type": "outcome",
+   "label": "Revenue assets consequences: gross proceeds taken to produce nil profit/loss; new shares cost base reflects this (s 615-55)",
+   "body": "For each share/unit that was a revenue asset: your gross proceeds for that disposal/redemption/cancellation are taken to be the amount you would have needed to receive to produce a nil profit and nil loss. For calculating future profit/loss on new shares that are revenue assets: you are taken to have paid the total worked out under s 615-55(1) for your corresponding original shares ÷ number of new revenue asset shares.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-55",
+     "title": "Revenue assets"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "revenue asset",
+    "gross proceeds",
+    "nil profit and nil loss"
+   ]
+  },
+  {
+   "id": "outcome-cgt-exemption-override",
+   "type": "outcome",
+   "label": "Disregard CGT exemption for trading stock (s 615-60)",
+   "body": "Section 118-25 (which gives a CGT exemption for trading stock) is disregarded for the purposes of this Division. This ensures that the CGT exemption for trading stock does not prevent you from obtaining the roll-over or affect the operation of the additional trading stock consequences.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-60",
+     "title": "Disregard CGT exemption for trading stock"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-25",
+     "title": "CGT exemption for trading stock"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "trading stock",
+    "CGT exemption"
+   ]
+  },
+  {
+   "id": "outcome-interposed-company",
+   "type": "outcome",
+   "label": "Interposed company consequences: pre-CGT treatment for original entity shares (s 615-65)",
+   "body": "If the interposed company chooses under s 615-30(1) that this section applies: (1) a number of the shares/units the interposed company owns in the original entity are taken to have been acquired before 20 September 1985 if any of the original entity's assets were pre-CGT. (2) That number is the greatest whole number (as % of all shares/units) not exceeding: (MV of original entity's pre-CGT assets − liabilities in respect of those assets) ÷ (MV of all original entity's assets − all liabilities) × 100. (3) The first element of the cost base of the remaining shares/units = total cost bases of original entity's post-CGT assets − liabilities in respect of those assets. Proportional allocation for multi-asset liabilities and general liabilities (e.g. bank overdraft).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-65",
+     "title": "Consequences for the interposed company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "reduced cost base",
+    "market value",
+    "acquired before 20 September 1985"
+   ]
+  },
+  {
+   "id": "no-rollover",
+   "type": "end",
+   "label": "No roll-over — CGT event A1 (s 104-10) or other CGT events run normally",
+   "body": "If any condition is not met, the roll-over is not available and the disposal/redemption/cancellation of shares/units proceeds under ordinary CGT rules: you may make a capital gain or loss calculated in the usual way. Consider alternative restructure options such as the small business restructure roll-over under Subdivision 328-G or other roll-over provisions.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "CGT event A1—Disposal of a CGT asset"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over",
+    "cgt-roll-over-for-trust-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ]
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Roll-over applies — CGT deferred, cost bases re-based into new shares and interposed company holdings",
+   "body": "The gain/loss on the disposal, redemption or cancellation of original shares/units is disregarded (deferred, not exempt). The CGT cost base is transferred into the new shares you receive. Trading stock and revenue asset profits/losses are similarly deferred. The interposed company acquires its shares/units in the original entity with appropriate pre-CGT and post-CGT treatment. Note: after completion, later dealings between the interposed company and the original entity may be subject to consolidated group rules (Part 3-90).",
+   "statute": [],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "interaction-consolidated",
+   "type": "outcome",
+   "label": "Interaction: consolidated group membership and s 703-70 continuation",
+   "body": "If the original entity was a head company of a consolidated group before the restructure, the interposed company may become the head company and the group continues under s 703-70. The automatic roll-over under s 615-5(2) or s 615-10(2) applies in these cases. Sections 703-65 to 703-80 deal with the effects of the choice for the consolidated group.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "703-70",
+     "title": "When a consolidated group continues in existence"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-30",
+     "title": "Interposed company must make a particular choice"
+    }
+   ],
+   "commentary": [
+    "restructures-involving-mec-groups"
+   ],
+   "cases": [],
+   "definitions": [
+    "consolidated group",
+    "head company"
+   ]
+  },
+  {
+   "id": "interaction-share-sale-facility",
+   "type": "interaction",
+   "label": "Interaction: share sale facility (s 124-20) for exchanging members",
+   "body": "For both s 615-5 and s 615-10, if an exchanging member uses a share sale facility, see section 124-20 for how the roll-over applies.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-20",
+     "title": "Share sale facility"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "share sale facility"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-disposal-or-redemption",
+   "label": "restructure proposed"
+  },
+  {
+   "from": "dec-disposal-or-redemption",
+   "to": "dec-exchanging-members",
+   "label": "disposal or redemption/cancellation case"
+  },
+  {
+   "from": "dec-exchanging-members",
+   "to": "no-rollover",
+   "label": "No — all interests not held by exchanging members"
+  },
+  {
+   "from": "dec-exchanging-members",
+   "to": "dec-consideration",
+   "label": "Yes — exchanging members hold all"
+  },
+  {
+   "from": "dec-consideration",
+   "to": "no-rollover",
+   "label": "No — consideration includes non-shares"
+  },
+  {
+   "from": "dec-consideration",
+   "to": "dec-interposed-ownership",
+   "label": "Yes — shares only"
+  },
+  {
+   "from": "dec-interposed-ownership",
+   "to": "no-rollover",
+   "label": "No — interposed company does not own all original interests"
+  },
+  {
+   "from": "dec-interposed-ownership",
+   "to": "dec-proportionality",
+   "label": "Yes — interposed company owns all after completion"
+  },
+  {
+   "from": "dec-proportionality",
+   "to": "no-rollover",
+   "label": "No — shareholding not proportional"
+  },
+  {
+   "from": "dec-proportionality",
+   "to": "dec-residency",
+   "label": "Yes — proportional"
+  },
+  {
+   "from": "dec-residency",
+   "to": "no-rollover",
+   "label": "No — residency/TAP not satisfied"
+  },
+  {
+   "from": "dec-residency",
+   "to": "dec-interposed-company-reqs",
+   "label": "Yes — residency satisfied"
+  },
+  {
+   "from": "dec-interposed-company-reqs",
+   "to": "no-rollover",
+   "label": "No — interposed company reqs not met"
+  },
+  {
+   "from": "dec-interposed-company-reqs",
+   "to": "dec-interposed-choice",
+   "label": "Yes — interposed company reqs satisfied"
+  },
+  {
+   "from": "dec-interposed-choice",
+   "to": "no-rollover",
+   "label": "No — choice not made in time"
+  },
+  {
+   "from": "dec-interposed-choice",
+   "to": "dec-adi-restructure",
+   "label": "Yes — choice made"
+  },
+  {
+   "from": "dec-adi-restructure",
+   "to": "choice-rollover",
+   "label": "ADI rules considered"
+  },
+  {
+   "from": "choice-rollover",
+   "to": "outcome-cgt-consequences",
+   "label": "roll-over chosen or deemed"
+  },
+  {
+   "from": "outcome-cgt-consequences",
+   "to": "dec-additional-consequences",
+   "label": "CGT deferred"
+  },
+  {
+   "from": "dec-additional-consequences",
+   "to": "outcome-trading-stock",
+   "label": "Yes — trading stock shares involved"
+  },
+  {
+   "from": "dec-additional-consequences",
+   "to": "outcome-revenue-assets",
+   "label": "Yes — revenue asset shares involved"
+  },
+  {
+   "from": "dec-additional-consequences",
+   "to": "outcome-cgt-exemption-override",
+   "label": "No — ordinary shares only"
+  },
+  {
+   "from": "outcome-trading-stock",
+   "to": "outcome-cgt-exemption-override",
+   "label": "trading stock deferred"
+  },
+  {
+   "from": "outcome-revenue-assets",
+   "to": "outcome-cgt-exemption-override",
+   "label": "revenue assets deferred"
+  },
+  {
+   "from": "outcome-cgt-exemption-override",
+   "to": "outcome-interposed-company",
+   "label": "s 118-25 disregarded"
+  },
+  {
+   "from": "outcome-interposed-company",
+   "to": "interaction-consolidated",
+   "label": "interposed company consequences"
+  },
+  {
+   "from": "interaction-consolidated",
+   "to": "interaction-share-sale-facility",
+   "label": ""
+  },
+  {
+   "from": "interaction-share-sale-facility",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "no-rollover",
+   "to": "end",
+   "label": "no rollover — ordinary CGT applies"
+  }
+ ],
+ "short": "Business restructure roll-over",
+ "refs": "Div 615"
+}

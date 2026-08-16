@@ -16,6 +16,7 @@ import RegulatoryGuideContent from './components/RegulatoryGuideContent'
 import TaxCaseContent from './components/TaxCaseContent'
 import SettingsPanel from './components/SettingsPanel'
 import GraphModal from './components/GraphModal'
+import MapView from './components/MapView'
 import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
 import TreatyContent from './components/TreatyContent'
@@ -37,7 +38,7 @@ const TREATY_SET = new Set(TREATY_SLUGS)
 const isTreaty = (id: string) => TREATY_SET.has(id) && id !== 'treaties'
 
 const DOMAINS: { label: string; ids: string[] }[] = [
-  { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases'] },
+  { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases'] },
   { label: 'International Tax', ids: ['treaties'] },
   { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
   { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
@@ -57,6 +58,29 @@ function isDefinitionLink(href?: string) {
   const m = href.match(/\/([a-z0-9-]+)\/s([^#]+)(?:#(.+))?/)
   if (!m) return false
   return DICT_SECTIONS.has(m[2])
+}
+
+// ---------------------------------------------------------------------------
+// Error boundary — a render-phase crash must never blank the whole screen
+// ---------------------------------------------------------------------------
+class ErrorBoundary extends React.Component<{ children: React.ReactNode }, { error: Error | null }> {
+  state = { error: null as Error | null }
+  static getDerivedStateFromError(error: Error) { return { error } }
+  render() {
+    if (this.state.error) {
+      return (
+        <div style={{ padding: 40, fontFamily: "'Montserrat', sans-serif", color: COLORS.text, background: COLORS.bg, minHeight: '100vh' }}>
+          <div style={{ fontWeight: 700, fontSize: 16, marginBottom: 8 }}>Something went wrong</div>
+          <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 16, fontFamily: 'monospace', whiteSpace: 'pre-wrap' }}>{this.state.error.message}</div>
+          <button
+            onClick={() => { this.setState({ error: null }); window.location.reload() }}
+            style={{ padding: '6px 14px', borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.surface, color: COLORS.text, cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
+          >Reload</button>
+        </div>
+      )
+    }
+    return this.props.children
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -126,6 +150,8 @@ export default function App() {
     citation?: string
     label: string
   } | null>(null)
+  const [activeMap, setActiveMap] = useState<string | null>(null)
+  const [mapsList, setMapsList] = useState<any[] | null>(null)
   const settingsRef = useRef<HTMLDivElement>(null)
   const [selectedRulingSection, setSelectedRulingSection] = useState<string | null>(null)
 
@@ -232,6 +258,14 @@ export default function App() {
     api.acts().then(data => setActs(data)).catch(() => setActs([]))
   }, [])
 
+  // Load procedural maps list (for the act picker domain)
+  useEffect(() => {
+    fetch('/api/maps')
+      .then(r => (r.ok ? r.json() : []))
+      .then(setMapsList)
+      .catch(() => setMapsList([]))
+  }, [])
+
   // Load tree when act changes — use ref to avoid stale-race from default act
   const treeGenRef = useRef(0)
   useEffect(() => {
@@ -268,6 +302,13 @@ export default function App() {
       return
     }
 
+    // Maps hub: handled by its own effect (needs mapsList)
+    if (act === 'maps') {
+      setTree(null)
+      setDrawerOpen(false)
+      return
+    }
+
     const load = isTreaty(act) ? api.treatyTree(act) : api.tree(act)
     load.then(data => {
       if (gen !== treeGenRef.current) return
@@ -291,6 +332,39 @@ export default function App() {
     setDrawerOpen(false)
   }, [act])
 
+  // Maps hub tree: act-grouped map list, same navigation pattern as any act
+  useEffect(() => {
+    if (act !== 'maps') return
+    const MAP_ACT_LABELS: Record<string, string> = {
+      'itaa-1997': 'Income Tax Assessment Act 1997',
+      'itaa-1936': 'Income Tax Assessment Act 1936',
+      'gst-1999': 'GST Act 1999',
+      'taa-1953': 'Taxation Administration Act 1953',
+      'fbt-1986': 'FBT Assessment Act 1986',
+      'sis-1993': 'Superannuation Industry (Supervision) Act 1993',
+    }
+    const grouped = new Map<string, any[]>()
+    for (const m of (mapsList || [])) {
+      if (!grouped.has(m.act)) grouped.set(m.act, [])
+      grouped.get(m.act)!.push(m)
+    }
+    setTree({
+      act: 'maps',
+      parts: [...grouped.entries()].map(([mapAct, ms]) => ({
+        id: mapAct,
+        title: MAP_ACT_LABELS[mapAct] || shortActName(mapAct),
+        divisions: [],
+        sections: ms.map(m => ({
+          id: m.id,
+          title: m.short ? (m.refs ? `${m.short} — ${m.refs}` : m.short) : m.title,
+          path: m.id,
+        })),
+      })),
+    } as Tree)
+    setError('')
+    setDrawerOpen(false)
+  }, [act, mapsList])
+
   // Load section / ruling content
   useEffect(() => {
     if (!activeSection && !activeRuling) {
@@ -301,6 +375,9 @@ export default function App() {
       setRulingsForSectionData(null)
       return
     }
+
+    // Navigating into a section/ruling leaves the map page
+    setActiveMap(null)
 
     if (activeRuling) {
       api.ruling(activeRuling)
@@ -341,15 +418,30 @@ export default function App() {
   // URL → state sync
   useEffect(() => {
     const handler = () => {
+      // Map routes take priority: /maps/{id} and /maps (index)
+      const mapMatch = window.location.pathname.match(/^\/maps\/(.+)$/)
+      const mapsIndex = window.location.pathname === '/maps'
       const sectionMatch = window.location.pathname.match(/\/([a-z0-9-]+)\/(.+)/)
       const rulingMatch = window.location.pathname.match(/\/rulings\/(.+)/)
       const actOnlyMatch = window.location.pathname.match(/^\/([a-z0-9-]+)$/)
 
-      if (rulingMatch) {
+      if (mapMatch) {
+        setActiveMap(decodeURIComponent(mapMatch[1]))
+        setActiveSection('')
+        setActiveRuling(null)
+      } else if (mapsIndex) {
+        setActiveMap(null)
+        setActiveSection('')
+        setActiveRuling(null)
+        setAct('maps')
+        setBrowsingAct(true)
+      } else if (rulingMatch) {
+        setActiveMap(null)
         setAct('rulings')
         setActiveRuling(decodeURIComponent(rulingMatch[1]))
         setActiveSection('')
       } else if (sectionMatch) {
+        setActiveMap(null)
         setAct(sectionMatch[1])
         // Strip leading 's' prefix from section id for defense-in-depth (ROUTE-001)
         // Backend also strips this, but frontend-only entry points benefit too.
@@ -358,11 +450,13 @@ export default function App() {
         setActiveSection(cleanedSection)
         setActiveRuling(null)
       } else if (actOnlyMatch) {
+        setActiveMap(null)
         setAct(actOnlyMatch[1])
         setActiveSection('')
         setActiveRuling(null)
         setBrowsingAct(true)
       } else {
+        setActiveMap(null)
         setActiveSection('')
         setActiveRuling(null)
       }
@@ -399,9 +493,10 @@ export default function App() {
   if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
 
   const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
-  const hasContent = !!(activeSection || activeRuling || browsingAct)
+  const hasContent = !!(activeSection || activeRuling || browsingAct || activeMap)
 
   return (
+    <ErrorBoundary>
     <ThemeProvider>
       <style>{`
         ::-webkit-scrollbar { width: 8px; height: 8px; }
@@ -457,7 +552,7 @@ export default function App() {
                       position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 201,
                       marginTop: 4, background: COLORS.surface,
                       border: `1px solid ${COLORS.border}`,
-                      borderRadius: 8, padding: '6px 0', maxHeight: 300, overflow: 'auto',
+                      borderRadius: 8, padding: '6px 0', maxHeight: 'min(72vh, 560px)', overflow: 'auto',
                       boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
                     }}>
                       {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]).length > 0 ? (() => {
@@ -471,7 +566,7 @@ export default function App() {
                           <div key={domain.label}>
                             <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>{domain.label}</div>
                             {domainActs.map(a => (
-                              <button key={a.id} onClick={() => { setPickerOpen(false); setAct(a.id); setActiveSection(''); setActiveRuling(null); setSectionData(null); setBrowsingAct(true); window.history.pushState(null, '', `/${a.id}`); if (isMobile) setDrawerOpen(false) }} style={{
+                              <button key={a.id} onClick={() => { setPickerOpen(false); setAct(a.id); setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', `/${a.id}`); if (isMobile) setDrawerOpen(false) }} style={{
                                 display: 'block', width: '100%', padding: '6px 12px',
                                 background: 'transparent', border: 'none',
                                 color: act === a.id ? COLORS.accent : COLORS.text,
@@ -486,6 +581,22 @@ export default function App() {
                         )
                       })
                     })() : null}
+                    {/* Procedural Maps — same navigation as any act: tree in the sidebar */}
+                    {mapsList && mapsList.length > 0 && (
+                      <div>
+                        <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>Procedural Maps</div>
+                        <button onClick={() => { setPickerOpen(false); setAct('maps'); setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(false) }} style={{
+                          display: 'block', width: '100%', padding: '6px 12px',
+                          background: 'transparent', border: 'none',
+                          color: act === 'maps' ? COLORS.accent : COLORS.text,
+                          fontSize: 12, cursor: 'pointer',
+                          fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
+                        }}
+                          onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
+                          onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                        >Maps ({mapsList.length})</button>
+                      </div>
+                    )}
                     </div>
                   )}
                 </div>
@@ -512,7 +623,7 @@ export default function App() {
         {/* Tree */}
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+            <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
           ))}
         </div>
 
@@ -623,7 +734,7 @@ export default function App() {
         flex: 1, overflow: 'auto',
         padding: isMobile ? '16px 12px 24px' : '20px 40px',
         paddingTop: isMobile ? (hasContent ? 12 : 16) : (hasContent ? 12 : 20),
-        maxWidth: 960, margin: '0 auto',
+        maxWidth: activeMap ? 1400 : 960, margin: '0 auto',
         fontFamily: "'Lora', serif",
         color: COLORS.text,
         display: 'flex', flexDirection: 'column',
@@ -745,10 +856,43 @@ export default function App() {
               </svg>
               <span style={{ fontSize: 11 }}>Graph</span>
             </button>
+            <button
+              onClick={() => { setAct('maps'); setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(true) }}
+              aria-label="Procedural maps"
+              title="Procedural knowledge maps"
+              style={{
+                padding: '6px 8px', borderRadius: 6,
+                background: COLORS.surface, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
+              }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21 3 6"/>
+                <line x1="9" y1="3" x2="9" y2="18"/>
+                <line x1="15" y1="6" x2="15" y2="21"/>
+              </svg>
+              <span style={{ fontSize: 11 }}>Maps</span>
+            </button>
           </div>
         )}
 
-        {activeRuling && rulingData ? (
+        {activeMap ? (
+          <MapView
+            mapId={activeMap}
+            onClose={() => {
+              const back = act === 'maps' ? '/maps' : (act ? `/${act}` : '/itaa-1997')
+              setActiveMap(null)
+              window.history.pushState(null, '', back)
+            }}
+            onOpenSection={(a, s) => {
+              setActiveMap(null)
+              onNavigate(a, s)
+            }}
+            height="calc(100vh - 150px)"
+            isMobile={isMobile}
+          />
+        ) : activeRuling && rulingData ? (
           <RulingContent
             rulingData={rulingData}
             isMobile={isMobile}
@@ -819,7 +963,7 @@ export default function App() {
                 }
                 collectIds(tree.parts || [])
                 return (tree.parts || []).map(p => (
-                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
+                  <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
                 ))
               })()}
             </div>
@@ -923,6 +1067,7 @@ export default function App() {
 
     </div>
     </ThemeProvider>
+    </ErrorBoundary>
   )
 }
 

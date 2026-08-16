@@ -1,0 +1,486 @@
+{
+ "id": "itaa-1997-cost-base-proceeds-discount",
+ "title": "Cost base, capital proceeds and the CGT discount (Divs 110, 112, 114, 116, 115-A/B)",
+ "act": "itaa-1997",
+ "part": "3-1",
+ "division": "110",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Working out a capital gain or loss requires the cost base (Div 110: 5 elements — acquisition cost, incidental costs, non-deductible ownership costs, value-adding capital expenditure, title-preservation expenditure, with the s 110-25(7)-(8) exclusions as the boundary), the reduced cost base for losses (s 110-55), Div 112 modifications (market value substitution for non-arm's length dealings as the key boundary), indexation for pre-21/9/1999 assets (Div 114, frozen), and the capital proceeds (Div 116, with market value substitution for non-arm's length). The CGT discount (Subdivs 115-A/B): individuals/trusts 50%, complying super funds 33.33%, companies none — after 21 September 1999 and 12-month holding. Subsection coverage: operative 110-25(1)-(8), 110-35, 110-55, 112-5, 112-20, 112-25, 112-30, 112-35, 114-1, 116-20, 116-30, 116-110, 115-5, 115-10, 115-15, 115-20, 115-25 mapped; remaining Div 112/116 modification sections (112-40 to 112-120, 116-25 to 116-120) listed as situational machinery in node bodies; Subdiv 115-C (trusts' net capital gains) EXCLUDED — belongs to the Div 6 trusts map.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A CGT event happens and you need to work out whether you made a capital gain or loss",
+   "body": "To work out a capital gain you need the cost base (Div 110) and the capital proceeds (Div 116): gain = capital proceeds less cost base; loss = reduced cost base less capital proceeds. The cost base has 5 elements (s 110-25); the reduced cost base has 5 elements without indexation (s 110-55). Div 112 lists modifications; Div 114 indexation; Div 115 the discount.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "110-1",
+     "title": "What this Division is about"
+    }
+   ],
+   "commentary": [
+    "cost-base",
+    "reduced-cost-base"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "reduced cost base",
+    "capital proceeds"
+   ]
+  },
+  {
+   "id": "dec-gain-or-loss",
+   "type": "decision",
+   "label": "Are you working out a capital gain or a capital loss?",
+   "body": "A capital gain uses the cost base (5 elements, including indexation for pre-21/9/1999 assets); a capital loss uses the reduced cost base (5 elements, never indexed). The choice matters because some expenditure is in the cost base but NOT the reduced cost base (e.g. indexation, and some non-deductible amounts).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "110-25",
+     "title": "General rules about cost base"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "110-55",
+     "title": "General rules about reduced cost base"
+    }
+   ],
+   "commentary": [
+    "cost-base",
+    "reduced-cost-base"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "action-costbase",
+   "type": "action",
+   "label": "Work out the 5 elements of the cost base",
+   "body": "Element 1: money paid or property given to acquire the asset (s 110-25(2)). Element 2: incidental costs of acquisition and of the CGT event (s 110-35 — stamp duty, legal fees, valuation fees, advertising, etc.). Element 3: non-deductible costs of owning the asset (rates, insurance, interest if not deductible — s 110-25(4)). Element 4: capital expenditure to increase the asset's value (s 110-25(5)). Element 5: capital expenditure to preserve or defend title or rights (s 110-25(6)). Note s 110-25(7)-(8): amounts deductible or otherwise excluded are NOT in the cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "110-25",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "110-35",
+     "title": "Incidental costs"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "110-40",
+     "title": "Assets acquired before 7.30 pm on 13 May 1997"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "110-45",
+     "title": "Assets acquired after 7.30 pm on 13 May 1997"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cost base"
+   ]
+  },
+  {
+   "id": "dec-not-in-costbase",
+   "type": "decision",
+   "label": "Is any amount excluded from the cost base (s 110-25(7)-(8))?",
+   "body": "Amounts that are deductible (or would be), private or domestic expenditure, amounts of a capital nature already counted, and some GST input tax credits are NOT in the cost base. If an amount is excluded, it does not increase the cost base — this is the key carve-out boundary.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "110-25",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "action-reduced",
+   "type": "action",
+   "label": "Work out the 5 elements of the reduced cost base",
+   "body": "Same 5 elements as the cost base (s 110-55(2)) but WITHOUT indexation. The reduced cost base is used to work out capital losses. Note the reduced cost base is reduced by net input tax credits (s 103-30).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "110-55",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-indexation",
+   "type": "decision",
+   "label": "Was the asset acquired before 21 September 1999 (indexation available)?",
+   "body": "Indexation of the cost base (Div 114) applies only to assets acquired before 21 September 1999, using the indexation factor up to that date (frozen). For assets acquired on/after 21/9/1999 no indexation — the CGT discount (Div 115) is the relief instead. Note: indexation and discount cannot both apply to the same gain.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "114-1",
+     "title": "Indexation of cost base"
+    }
+   ],
+   "commentary": [
+    "indexation-of-cost-base"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "action-index",
+   "type": "action",
+   "label": "Apply indexation to the cost base elements",
+   "body": "Multiply each element by the indexation factor (CPI at time of event / CPI at acquisition), frozen at 21 September 1999. Only elements 1-4 can be indexed (not element 5, not the reduced cost base).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "114-1",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-modifications",
+   "type": "decision",
+   "label": "Do any Div 112 modifications apply to the cost base?",
+   "body": "Division 112 lists situations that modify the cost base: market value substitution (s 112-20 — non-arm's length acquisition), no double counting (s 112-5), expenditure counted more than once (s 112-10), split/merged assets (s 112-25), replacement-asset roll-overs (s 112-30), same-asset roll-overs (s 112-35), pre-CGT assets (s 112-65), calls on shares (s 112-40), foreign currency (s 112-55), finance costs (s 112-60), trading stock (s 112-105), CGT concession amount (s 112-115), market value (s 112-120), and the specific asset rules (ss 112-70 to 112-97).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "112-5",
+     "title": "No double count"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "112-20",
+     "title": "Market value substitution rule"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "112-25",
+     "title": "Assets split or merged"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "112-30",
+     "title": "Replacement asset roll-overs"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "112-35",
+     "title": "Same asset roll-overs"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "market value substitution"
+   ]
+  },
+  {
+   "id": "dec-mv-substitution",
+   "type": "decision",
+   "label": "Was the asset acquired other than by an arm's length dealing?",
+   "body": "If you acquired the asset without dealing at arm's length with the transferor (e.g. gift, non-commercial terms), the first element of the cost base is the market value at acquisition (s 112-20). This is a common boundary in family transfers and related-party dealings.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "112-20",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-proceeds",
+   "type": "action",
+   "label": "Work out the capital proceeds from the CGT event (Div 116)",
+   "body": "Capital proceeds are the total money and the market value of any other property received or entitled to be received (s 116-20). The general rule: money received (s 116-20(1)) plus market value of property (s 116-20(2)). Modifications in ss 116-25 to 116-120 apply to specific situations: market value substitution for non-arm's length (s 116-30), non-receipt (s 116-35), repayment (s 116-40), misappropriation (s 116-45), compensation (s 116-50), instalments (s 116-55), rights (s 116-60), debts (s 116-65), foreign currency (s 116-70), depreciating assets (s 116-80), shares/units (s 116-85), trusts (s 116-90), annuities (s 116-95), life insurance (s 116-100), options (s 116-105), reduction for liabilities (s 116-110), mortgage (s 116-115), increased cost base (s 116-120).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "116-1",
+     "title": "What this Division is about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "116-20",
+     "title": "General rules about capital proceeds"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "116-30",
+     "title": "Market value substitution"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "116-110",
+     "title": "Capital proceeds reduced by liabilities"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital proceeds"
+   ]
+  },
+  {
+   "id": "dec-proceeds-mv",
+   "type": "decision",
+   "label": "Were the proceeds other than at arm's length (market value substitution)?",
+   "body": "If the CGT event happened other than by an arm's length dealing and you received less than market value, the capital proceeds are the market value (s 116-30). This prevents value shifting in related-party and family transactions.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "116-30",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-gain-loss-calc",
+   "type": "decision",
+   "label": "Do the capital proceeds exceed the cost base (gain) or is the reduced cost base higher (loss)?",
+   "body": "Gain = capital proceeds less cost base (after indexation if applicable). Loss = reduced cost base less capital proceeds. If neither, there is no gain or loss from the event.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Method statement"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "dec-discount-eligible",
+   "type": "decision",
+   "label": "Is the gain a discount capital gain (Div 115)?",
+   "body": "A capital gain is a discount capital gain if: the asset was held for at least 12 months (s 115-25, with exceptions), the gain is made by an individual, trust or complying super fund (NOT a company — s 115-15(1)), and the CGT event happened after 21 September 1999 (s 115-15(2)). Also certain gains are excluded (s 115-40 — e.g. from the revocation of a roll-over; s 115-45; s 775-70).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-5",
+     "title": "What is a discount capital gain"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-10",
+     "title": "When a capital gain is a discount capital gain"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-15",
+     "title": "Discount capital gain must be made after 21 September 1999"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-25",
+     "title": "Capital gain from a CGT asset acquired before 21 September 1999"
+    }
+   ],
+   "commentary": [
+    "discount-capital-gains"
+   ],
+   "cases": [],
+   "definitions": [
+    "discount capital gain",
+    "discount percentage"
+   ]
+  },
+  {
+   "id": "action-discount",
+   "type": "action",
+   "label": "Apply the discount percentage",
+   "body": "Individuals and trusts: 50% (s 115-15(2)); complying super funds: 33.33% (s 115-20); companies: NO discount. The discount applies after losses — the gain remaining after applying capital losses is reduced by the discount percentage (s 115-5, method statement step 2).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-15",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-20",
+     "title": "Discount percentage for complying superannuation funds"
+    }
+   ],
+   "commentary": [
+    "discount-capital-gains"
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-gain",
+   "type": "outcome",
+   "label": "Capital gain — assessable after discount and loss offset",
+   "body": "The gain (discounted if eligible) is reduced by capital losses and included in the net capital gain (Div 102 method statement).",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "outcome-loss",
+   "type": "outcome",
+   "label": "Capital loss — carried forward against future gains only",
+   "body": "Capital losses offset capital gains only (not ordinary income), current year first, then carried forward (s 102-15).",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Cost base / proceeds / discount position determined",
+   "body": "",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-gain-or-loss",
+   "label": "CGT event"
+  },
+  {
+   "from": "dec-gain-or-loss",
+   "to": "action-costbase",
+   "label": "Gain — use cost base"
+  },
+  {
+   "from": "dec-gain-or-loss",
+   "to": "action-reduced",
+   "label": "Loss — use reduced cost base"
+  },
+  {
+   "from": "action-costbase",
+   "to": "dec-not-in-costbase",
+   "label": "5 elements worked out"
+  },
+  {
+   "from": "dec-not-in-costbase",
+   "to": "dec-indexation",
+   "label": "No exclusions — proceed"
+  },
+  {
+   "from": "dec-not-in-costbase",
+   "to": "dec-indexation",
+   "label": "Exclusions removed from cost base"
+  },
+  {
+   "from": "action-reduced",
+   "to": "dec-proceeds",
+   "label": "Reduced cost base done"
+  },
+  {
+   "from": "dec-indexation",
+   "to": "action-index",
+   "label": "Yes — pre-21/9/1999 asset"
+  },
+  {
+   "from": "dec-indexation",
+   "to": "dec-modifications",
+   "label": "No — no indexation (post-1999)"
+  },
+  {
+   "from": "action-index",
+   "to": "dec-modifications",
+   "label": "Indexed cost base"
+  },
+  {
+   "from": "dec-modifications",
+   "to": "dec-mv-substitution",
+   "label": "Check modifications"
+  },
+  {
+   "from": "dec-mv-substitution",
+   "to": "dec-proceeds",
+   "label": "Arm's length — original cost base"
+  },
+  {
+   "from": "dec-mv-substitution",
+   "to": "dec-proceeds",
+   "label": "Non-arm's length — market value substitution"
+  },
+  {
+   "from": "dec-proceeds",
+   "to": "dec-proceeds-mv",
+   "label": "Proceeds worked out"
+  },
+  {
+   "from": "dec-proceeds-mv",
+   "to": "dec-gain-loss-calc",
+   "label": "Arm's length proceeds"
+  },
+  {
+   "from": "dec-proceeds-mv",
+   "to": "dec-gain-loss-calc",
+   "label": "Market value substitution"
+  },
+  {
+   "from": "dec-gain-loss-calc",
+   "to": "outcome-loss",
+   "label": "Reduced cost base exceeds proceeds"
+  },
+  {
+   "from": "dec-gain-loss-calc",
+   "to": "dec-discount-eligible",
+   "label": "Gain arises"
+  },
+  {
+   "from": "dec-discount-eligible",
+   "to": "action-discount",
+   "label": "Yes — discount gain"
+  },
+  {
+   "from": "dec-discount-eligible",
+   "to": "outcome-gain",
+   "label": "No — not a discount gain (company, <12 months)"
+  },
+  {
+   "from": "action-discount",
+   "to": "outcome-gain",
+   "label": "Discounted gain"
+  },
+  {
+   "from": "outcome-gain",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "outcome-loss",
+   "to": "end",
+   "label": ""
+  }
+ ],
+ "short": "Cost base & CGT discount",
+ "refs": "Divs 110-116 · 115-A/B"
+}
