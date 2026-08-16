@@ -343,6 +343,113 @@ def _index_section(
     )
 
 
+# Tax-terminology synonyms. Applied to unquoted query text only, whole words only.
+SYNONYMS = {
+    "main residence": ["principal place of residence", "PPOR", "family home"],
+    "cgt": ["capital gains tax", "capital gain"],
+    "rollover": ["roll-over", "roll over"],
+    "personal services income": ["PSI"],
+    "psi": ["personal services income"],
+    "input tax credit": ["ITC"],
+    "imputation": ["franking", "dividend imputation"],
+    "small business": ["SBE"],
+    "employee share scheme": ["ESS"],
+    "deceased estate": ["estate of a deceased person"],
+    "trading stock": ["stock in trade", "inventory"],
+    "superannuation": ["super", "SMSF"],
+    "margin scheme": ["GST margin"],
+    "non-commercial loss": ["hobby loss"],
+    "foreign resident": ["non-resident", "nonresident"],
+}
+# Longest keys first so "personal services income" wins over a shorter overlap.
+_SYNONYM_RE = re.compile(
+    r'\b(' + '|'.join(re.escape(k) for k in sorted(SYNONYMS, key=len, reverse=True)) + r')\b',
+    re.IGNORECASE,
+)
+
+
+def _fts_phrase(s: str) -> str:
+    return '"' + s.replace('"', '""') + '"'
+
+
+def _expand_query(q: str) -> str:
+    """Build the FTS5 MATCH string: quoted phrases pass through untouched,
+    recognised terms in the free text become OR-groups with their synonyms."""
+    out: list[str] = []
+    for phrase, word in re.findall(r'"([^"]*)"|(\S+)', q):
+        if phrase:
+            out.append(_fts_phrase(phrase))
+        elif word.endswith('*') and len(word) > 1:
+            out.append(_fts_phrase(word[:-1]) + '*')
+        else:
+            out.append(word)
+    # Synonym expansion runs over the free-text run only (quoted parts are already
+    # emitted as phrases and never re-matched).
+    expanded: list[str] = []
+    buf: list[str] = []
+    covered: set[str] = set()
+
+    def flush():
+        if not buf:
+            return
+        text = ' '.join(buf)
+        buf.clear()
+        pos = 0
+        for m in _SYNONYM_RE.finditer(text):
+            for w in text[pos:m.start()].split():
+                expanded.append(_fts_phrase(w))
+            alts = [m.group(1)] + SYNONYMS[m.group(1).lower()]
+            covered.update(a.lower() for a in alts)
+            expanded.append('(' + ' OR '.join(_fts_phrase(a) for a in alts) + ')')
+            pos = m.end()
+        for w in text[pos:].split():
+            expanded.append(_fts_phrase(w))
+
+    for tok in out:
+        if tok.startswith('"') or tok.startswith('('):
+            flush()
+            expanded.append(tok)
+        else:
+            buf.append(tok)
+    flush()
+    # A bare word already inside a synonym group would AND it back in and undo
+    # the expansion ("employee share scheme ESS" must not require the token ESS).
+    expanded = [t for t in expanded if t.strip('"').lower() not in covered or t.startswith('(')]
+    return ' AND '.join(expanded)
+
+
+# Title matches outrank body-only matches. Columns: act, section, title, content.
+_BM25 = "bm25(sections_fts, 0.0, 1.0, 10.0, 1.0)"
+
+_CITATION_RE = re.compile(
+    r'^\s*(?:s|ss|sec|section)?\s*\.?\s*(\d+[A-Za-z]*(?:-\d+[A-Za-z]*)?(?:\(\d+[A-Za-z]*\))*)\s*$',
+    re.IGNORECASE,
+)
+
+
+def search_section_ids(q: str, act: str | None = None, limit: int = 20) -> list[dict]:
+    """Citation-style lookup: 's 118-110', '118-110', 's 6(1)' → exact then prefix
+    matches on the section id. Returns [] for anything that isn't a citation."""
+    m = _CITATION_RE.match(q)
+    if not m:
+        return []
+    sid = m.group(1)
+    sql = (
+        "SELECT act, section, title, part, division FROM sections_meta "
+        "WHERE (section = ?1 COLLATE NOCASE OR section LIKE ?1 || '%' COLLATE NOCASE) "
+        + ("AND act = ?3 " if act else "")
+        + "ORDER BY (section = ?1 COLLATE NOCASE) DESC, length(section), act LIMIT ?2"
+    )
+    params: tuple = (sid, limit, act) if act else (sid, limit)
+    with search_conn() as conn:
+        rows = conn.execute(sql, params).fetchall()
+    return [
+        {"act": r["act"], "section": r["section"], "title": r["title"],
+         "part": r["part"], "division": r["division"], "snippet": ""}
+        for r in rows
+    ]
+
+
 def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
     """Search using SQLite FTS5 with BM25 ranking.
 
@@ -401,21 +508,11 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
         return {"results": results, "total_count": total_count}
 
     # Standard FTS5 token-based matching
-    tokens = re.findall(r'"([^"]*)"|(\S+)', q)
-    if not tokens or all(not t[0] and not t[1] for t in tokens):
+    if not q.strip():
         return {"results": [], "total_count": 0}
-    quoted = []
-    for phrase, word in tokens:
-        if phrase:
-            inner = phrase.replace('"', '""')
-            quoted.append(f'"{inner}"')
-        else:
-            if word.endswith('*') and len(word) > 1:
-                inner = word[:-1].replace('"', '""')
-                quoted.append(f'"{inner}"*')
-            else:
-                quoted.append('"' + word.replace('"', '""') + '"')
-    q_clean = ' '.join(quoted)
+    q_clean = _expand_query(q)
+    if not q_clean:
+        return {"results": [], "total_count": 0}
 
     with search_conn() as conn:
         if act:
@@ -427,11 +524,11 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
             sql = """
                 SELECT sections_fts.act, sections_fts.section, sections_fts.title,
                        m.part, m.division,
-                       rank, snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet
+                       bm25(sections_fts, 0.0, 1.0, 10.0, 1.0) as rank, snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet
                 FROM sections_fts
                 JOIN sections_meta m ON sections_fts.act = m.act AND sections_fts.section = m.section
                 WHERE sections_fts MATCH ? AND sections_fts.act = ?
-                ORDER BY rank
+                ORDER BY bm25(sections_fts, 0.0, 1.0, 10.0, 1.0)
                 LIMIT ?
             """
             rows = conn.execute(sql, (q_clean, act, limit)).fetchall()
@@ -444,11 +541,11 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
             sql = """
                 SELECT sections_fts.act, sections_fts.section, sections_fts.title,
                        m.part, m.division,
-                       rank, snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet
+                       bm25(sections_fts, 0.0, 1.0, 10.0, 1.0) as rank, snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet
                 FROM sections_fts
                 JOIN sections_meta m ON sections_fts.act = m.act AND sections_fts.section = m.section
                 WHERE sections_fts MATCH ?
-                ORDER BY rank
+                ORDER BY bm25(sections_fts, 0.0, 1.0, 10.0, 1.0)
                 LIMIT ?
             """
             rows = conn.execute(sql, (q_clean, limit)).fetchall()

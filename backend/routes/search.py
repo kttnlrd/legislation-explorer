@@ -2,18 +2,58 @@ from __future__ import annotations
 
 import re
 import logging
+import math
+import os
+import sqlite3
+from pathlib import Path
 
 from fastapi import HTTPException, APIRouter
 
 from backend.config import DATA_DIR, SEARCH_DB
 from backend.services.data_loader import load_tree
-from backend.services.search_service import search_conn, init_search_index as build_search_index, search_sections as fts_search, search_rulings
+from backend.services.search_service import (
+    search_conn, init_search_index as build_search_index,
+    search_sections as fts_search, search_rulings, search_section_ids,
+)
 from backend.services import vector_search_service, reranker
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
 
 RRF_K = 60
+
+# --- Graph authority boost -------------------------------------------------
+# A section cited/interpreted by many rulings and cases is more likely to be
+# the answer than an obscure neighbour with the same text match.
+GRAPH_BOOST = float(os.getenv("GRAPH_BOOST", "0.02"))
+GRAPH_DEGREE_CAP = int(os.getenv("GRAPH_DEGREE_CAP", "50"))
+GRAPH_DB = Path(os.getenv("GRAPH_DB", str(Path(__file__).resolve().parents[2] / "data" / "graph.db")))
+
+_graph_degree: dict[str, int] | None = None
+
+
+def _graph_degrees() -> dict[str, int]:
+    """{'section:act:id': degree} loaded once. Empty dict if graph.db is unusable."""
+    global _graph_degree
+    if _graph_degree is None:
+        _graph_degree = {}
+        try:
+            conn = sqlite3.connect(f"file:{GRAPH_DB}?mode=ro", uri=True)
+            try:
+                # ponytail: count in Python — an OR self-join over 331k edges can't
+                # use either single-column index.
+                deg: dict[int, int] = {}
+                for s, t in conn.execute("SELECT source_id, target_id FROM graph_edges"):
+                    deg[s] = deg.get(s, 0) + 1
+                    deg[t] = deg.get(t, 0) + 1
+                for nid, key in conn.execute("SELECT id, key FROM nodes WHERE node_type = 'section'"):
+                    _graph_degree[key.lower()] = deg.get(nid, 0)
+            finally:
+                conn.close()
+            logger.info("[graph] loaded degree for %d section nodes from %s", len(_graph_degree), GRAPH_DB)
+        except Exception as e:
+            logger.warning("[graph] authority boost disabled (%s: %s)", type(e).__name__, e)
+    return _graph_degree
 MAX_SUGGEST = 12
 
 SECTION_NUMBER_RE = re.compile(r'^[0-9]+(-[0-9]+)?$')
@@ -359,6 +399,26 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         key = (r["act"], r["section"])
         scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
         merged.setdefault(key, {**r, "embedding_id": None, "source_type": "ruling"})
+
+    # Citation-style queries ("118-110", "s 6(1)") — exact/prefix hits on the
+    # section id, folded in as just another RRF list.
+    if not type_filter or "section" in type_filter:
+        try:
+            for rank, r in enumerate(search_section_ids(q, act, limit=20)):
+                key = (r["act"], r["section"])
+                scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
+                merged.setdefault(key, {**r, "embedding_id": None, "source_type": "section"})
+        except Exception:
+            logger.exception("Section-id search failed (non-fatal)")
+
+    if GRAPH_BOOST:
+        degrees = _graph_degrees()
+        for key in scores:
+            if merged[key].get("source_type") != "section":
+                continue
+            d = degrees.get(f"section:{key[0]}:{key[1]}".lower(), 0)
+            if d:
+                scores[key] += GRAPH_BOOST * (1 + math.log(1 + min(d, GRAPH_DEGREE_CAP)))
 
     ranked_keys = sorted(scores, key=lambda k: -scores[k])
     total = len(ranked_keys)
