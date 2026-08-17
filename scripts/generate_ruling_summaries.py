@@ -69,7 +69,7 @@ CRITICAL RULES:
 - NEVER output "(no full citation provided)" or similar placeholder text
 - If you find a case name but cannot find a proper citation, OMIT it
 - Format: "Plaintiff v Defendant [YYYY] COURT N"
-- legislation_referenced: include full act name with jurisdiction and specific section numbers
+- legislation_referenced: include full act name with jurisdiction and specific section numbers; if more than 25 distinct provisions, list only the 25 most important (the ones central to the ruling's outcome)
 - related_rulings: any rulings referenced including withdrawn-by, replaces, or other related documents
 - ruling: focus on the binding positions the Commissioner is taking
 
@@ -284,10 +284,14 @@ def ai_summarize(text: str, max_text: int = 8000) -> dict:
             "Authorization": f"Bearer {API_KEY}",
         },
     )
+    last_finish = ""
     for attempt in (1, 2):
+        if attempt == 2 and last_finish == "length":
+            payload["max_tokens"] = 8000  # truncation: give the model more room
         try:
             with urllib.request.urlopen(req, timeout=180) as resp:
                 result = json.loads(resp.read())
+            finish = result["choices"][0].get("finish_reason", "")
             content = result["choices"][0]["message"]["content"]
             if not content:
                 raise ValueError("null content")
@@ -295,11 +299,13 @@ def ai_summarize(text: str, max_text: int = 8000) -> dict:
             if summary is not None:
                 return summary
             if attempt == 1:
+                last_finish = finish
                 time.sleep(2)
                 continue
             return {"error": "JSON parse failed", "raw": content[:300]}
         except Exception as e:
             if attempt == 1:
+                last_finish = ""
                 time.sleep(5)
                 continue
             return {"error": f"API failed: {e}", "raw": ""}
