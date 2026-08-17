@@ -34,6 +34,7 @@ const GROUP_COLORS: Record<string, string> = {
   case: '#3498db',
   definition: '#9b59b6',
   commentary: '#7f8c8d',
+  private_ruling: '#e84393',
 }
 
 type LayoutMode = 'force' | 'radial' | 'tree'
