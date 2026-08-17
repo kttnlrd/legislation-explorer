@@ -90,10 +90,11 @@ def main():
 
     # workflow fetch anchors resolve
     wf_dir = ROOT / "data" / "workflows"
-    missing_anchors = []
-    total_anchors = 0
     if wf_dir.is_dir():
         keys = {r[0] for r in cur.execute("SELECT key FROM nodes")}
+        keys_lower = {k.lower() for k in keys}
+        missing_anchors = []
+        total_anchors = 0
         for wf in sorted(wf_dir.glob("*.yaml")):
             txt = wf.read_text()
             import re
@@ -103,10 +104,14 @@ def main():
                     if not a:
                         continue
                     total_anchors += 1
-                    # workflow YAMLs use unprefixed section keys ("itaa-1997:108-5");
-                    # graph nodes are type-prefixed ("section:itaa-1997:108-5")
-                    if a not in keys and f"section:{a}" not in keys:
-                        missing_anchors.append(f"{wf.stem}:{a}")
+                    # workflow YAMLs use unprefixed, sometimes lowercase section keys
+                    # ("itaa-1997:108-5", "itaa-1936:109ba"); graph nodes are
+                    # type-prefixed with tree-case ids ("section:itaa-1936:109BA")
+                    if (a in keys or f"section:{a}" in keys
+                            or a.lower() in keys_lower
+                            or f"section:{a}".lower() in keys_lower):
+                        continue
+                    missing_anchors.append(f"{wf.stem}:{a}")
         check("graph: workflow fetch anchors resolve", len(missing_anchors) == 0,
               f"{len(missing_anchors)}/{total_anchors} missing: {missing_anchors[:5]}")
 
