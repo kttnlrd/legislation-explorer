@@ -22,12 +22,12 @@ RULINGS_DIR = Path(__file__).resolve().parent.parent / "data" / "rulings"
 OUTPUT_DIR = RULINGS_DIR / "summaries"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 if not API_KEY:
     env_path = Path.home() / ".hermes" / ".env"
     if env_path.exists():
         for line in env_path.read_text().splitlines():
-            if "OPENROUTER_API_KEY" in line and "***" not in line:
+            if "DEEPSEEK_API_KEY" in line and "***" not in line:
                 parts = line.strip().split("=", 1)
                 if len(parts) == 2 and parts[1]:
                     API_KEY = parts[1]
@@ -271,19 +271,17 @@ def ai_summarize(text: str, max_text: int = 8000) -> dict:
         text = text[:max_text] + "\n... [truncated]"
 
     payload = {
-        "model": "deepseek/deepseek-v4-flash",
+        "model": "deepseek-v4-flash",
         "messages": [{"role": "user", "content": SUMMARY_PROMPT + text}],
         "temperature": 0.1,
         "max_tokens": 4000,
     }
     req = urllib.request.Request(
-        "https://openrouter.ai/api/v1/chat/completions",
+        "https://api.deepseek.com/v1/chat/completions",
         data=json.dumps(payload).encode(),
         headers={
             "Content-Type": "application/json",
             "Authorization": f"Bearer {API_KEY}",
-            "HTTP-Referer": "https://legislation-explorer.local",
-            "X-Title": "Legislation Explorer",
         },
     )
     for attempt in (1, 2):
