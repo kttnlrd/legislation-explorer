@@ -178,18 +178,45 @@ def _case_alias_index() -> dict[str, list[str]]:
     return idx
 
 
-def _map_case_ref(ref: str, case_keys: set[str], alias_idx: dict[str, list[str]]) -> dict:
+CROSSWALK_FILE = DATA / "case_crosswalk.json"
+
+
+def _load_crosswalk() -> dict[str, str]:
+    """Neutral citation → reporter citation for cases the graph keys by reporter."""
+    if CROSSWALK_FILE.exists():
+        return json.loads(CROSSWALK_FILE.read_text())
+    return {}
+
+
+def _resolve_case_key(cit: str, case_keys: set[str], crosswalk: dict[str, str]) -> dict:
+    """Map a neutral citation to a graph case key, honouring reporter-format keys."""
+    k = f"case:{cit}"
+    if k in case_keys:
+        return {"status": "mapped", "key": k}
+    rep = crosswalk.get(cit)
+    if rep and f"case:{rep}" in case_keys:
+        return {"status": "mapped", "key": f"case:{rep}"}
+    return {"status": "unknown"}
+
+
+def _map_case_ref(ref: str, case_keys: set[str], alias_idx: dict[str, list[str]],
+                  crosswalk: dict[str, str] | None = None) -> dict:
+    crosswalk = crosswalk if crosswalk is not None else _load_crosswalk()
     m = _NEUTRAL_RE.search(ref)
     if m:
-        k = f"case:{m.group(0)}"
-        return {"status": "mapped" if k in case_keys else "unknown", "key": k if k in case_keys else None}
+        return _resolve_case_key(m.group(0), case_keys, crosswalk)
     if " v " not in ref:
         return {"status": "unknown"}
     parties = sorted(_norm_party(x) for x in re.split(r"\s+v\.?\s+", ref))
     hits = alias_idx.get(" v ".join(parties), [])
     if len(hits) == 1:
-        return {"status": "mapped", "key": f"case:{hits[0]}"}
+        return _resolve_case_key(hits[0], case_keys, crosswalk)
     if len(hits) > 1:
+        # all hits must resolve, else ambiguous
+        resolved = [_resolve_case_key(c, case_keys, crosswalk) for c in hits]
+        keys = {r["key"] for r in resolved if r["status"] == "mapped"}
+        if len(keys) == 1:
+            return {"status": "mapped", "key": keys.pop()}
         return {"status": "ambiguous", "candidates": hits}
     # subset match: ref names fewer parties than the title (e.g. "Lunney v FC of T"
     # vs "Lunney v FC of T and Another") — only when unambiguous
@@ -200,7 +227,7 @@ def _map_case_ref(ref: str, case_keys: set[str], alias_idx: dict[str, list[str]]
             subset_hits.extend(cits)
     subset_hits = sorted(set(subset_hits))
     if len(subset_hits) == 1:
-        return {"status": "mapped", "key": f"case:{subset_hits[0]}"}
+        return _resolve_case_key(subset_hits[0], case_keys, crosswalk)
     if len(subset_hits) > 1:
         return {"status": "ambiguous", "candidates": subset_hits}
     return {"status": "unknown"}
@@ -262,8 +289,9 @@ def local_stage() -> None:
     cand = json.loads(CANDIDATES.read_text())
     section_keys, case_keys = _graph_key_sets()
     alias_idx = _case_alias_index()
+    crosswalk = _load_crosswalk()
     print(f"[entity] graph: {len(section_keys)} section keys, {len(case_keys)} case keys, "
-          f"{len(alias_idx)} case party aliases")
+          f"{len(alias_idx)} case party aliases, {len(crosswalk)} crosswalk entries")
     mapping: dict = {}
     if ALIAS_MAP.exists():
         mapping = json.loads(ALIAS_MAP.read_text())
@@ -275,7 +303,7 @@ def local_stage() -> None:
             if kind == "leg":
                 res = _map_leg_ref(ref, section_keys)
             else:
-                res = _map_case_ref(ref, case_keys, alias_idx)
+                res = _map_case_ref(ref, case_keys, alias_idx, crosswalk)
             res["kind"] = kind
             res["count"] = cnt
             mapping[ref] = res

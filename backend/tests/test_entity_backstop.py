@@ -23,7 +23,7 @@ load_dotenv()
 from backend.services.graph_neighborhood import GRAPH_DB  # noqa: E402
 from pipeline.entity_backstop import ALIAS_MAP, BASE, REVIEW  # noqa: E402
 
-KEY_RE = re.compile(r"^(section:[a-z0-9-]+:[0-9A-Za-z-]+|case:\[\d{4}\] [A-Z]+ \d+)$")
+KEY_RE = re.compile(r"^(section:[a-z0-9-]+:[0-9A-Za-z-]+|case:(\[\d{4}\] [A-Z]+ \d+|\(\d{4}\) \d+ [A-Z]+ \d+))$")
 
 
 def _load_map() -> dict:
