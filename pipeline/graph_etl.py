@@ -24,6 +24,7 @@ DB_PATH = os.path.join(DATA, "graph.db")
 ACTS = [
     "itaa-1997", "itaa-1936", "gst-1999", "fbt-1986", "taa-1953",
     "corporations-act-2001", "aml-ctf-2006", "aml-ctf-rules-2007", "sis-1993",
+    "sga-1992",  # cited by rulings; no tree yet — label-only section nodes
 ]
 GUIDES = ["master-tax-guide", "master-gst-guide", "master-tax-examples"]
 
@@ -375,25 +376,35 @@ def _load_private_rulings():
         except Exception:
             stats["err"] += 1
             continue
-        if d.get("mop_status") != "ok":
+        is_ok = d.get("mop_status") == "ok"
+        if is_ok:
+            stats["ok"] += 1
+        else:
             stats["err"] += 1
-            continue
-        stats["ok"] += 1
         authnum = str(d.get("authorisation_number", ""))
         if not authnum:
             continue
         applies = []
         cites = []
-        for ref in d.get("legislation_refs_llm", []) or []:
-            r = _parse_leg_ref(ref)
-            if r == "non-section":
-                stats["leg_skip_div"] += 1
-            elif r:
-                for act, sec in r:
-                    applies.append((act, sec, "llm"))
-                    stats["leg"] += 1
-            else:
-                stats["leg_unparsed"] += 1
+        if is_ok:
+            for ref in d.get("legislation_refs_llm", []) or []:
+                r = _parse_leg_ref(ref)
+                if r == "non-section":
+                    stats["leg_skip_div"] += 1
+                elif r:
+                    for act, sec in r:
+                        applies.append((act, sec, "llm"))
+                        stats["leg"] += 1
+                else:
+                    stats["leg_unparsed"] += 1
+            for cit in d.get("case_refs_llm", []) or []:
+                k = _case_key(cit)
+                if k:
+                    cites.append((k, "llm"))
+                    stats["case"] += 1
+                else:
+                    stats["case_dropped"] += 1
+        # regex refs are deterministic — use them even when the LLM pass failed
         for ref in d.get("relevant_legislation", []) or []:
             r = _parse_leg_ref(ref)
             if r == "non-section":
@@ -404,13 +415,6 @@ def _load_private_rulings():
                     stats["leg"] += 1
             else:
                 stats["leg_unparsed"] += 1
-        for cit in d.get("case_refs_llm", []) or []:
-            k = _case_key(cit)
-            if k:
-                cites.append((k, "llm"))
-                stats["case"] += 1
-            else:
-                stats["case_dropped"] += 1
         for cit in d.get("case_references", []) or []:
             k = _case_key(cit)
             if k:
