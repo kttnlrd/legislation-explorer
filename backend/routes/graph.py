@@ -238,6 +238,75 @@ def graph_serialize(
     return out
 
 
+@router.get("/api/graph/path")
+def graph_path(
+    from_key: str = Query(alias="from"),
+    to_key: str = Query(alias="to"),
+    max_hops: int = Query(default=10, ge=1, le=20),
+):
+    """Shortest path between two graph nodes (graph spec §6.3).
+
+    Query params:
+      from, to: canonical graph keys, e.g. "section:itaa-1997:118-110"
+      max_hops: hop cap (1-20, default 10)
+
+    Returns {from, to, hops, path, edges} where path is the ordered node
+    list and edges give the typed connection per hop (undirected traversal,
+    edge type preserved). Unreachable pairs return path: null with a reason.
+    """
+    from backend.services.graph_path import FRONTIER_CAP, FrontierExceeded, find_path
+
+    conn = sqlite3.connect(str(GRAPH_DB))
+    try:
+        def _resolve(k: str) -> int | None:
+            row = conn.execute("SELECT id FROM nodes WHERE key=?", (k,)).fetchone()
+            if row is None:
+                row = conn.execute(
+                    "SELECT id FROM nodes WHERE lower(key)=?", (k.lower(),)).fetchone()
+            return row[0] if row else None
+
+        f_id = _resolve(from_key)
+        t_id = _resolve(to_key)
+        if f_id is None or t_id is None:
+            missing = from_key if f_id is None else to_key
+            return JSONResponse({"error": f"unknown graph key: {missing}"}, status_code=404)
+
+        try:
+            path, hops = find_path(conn, f_id, t_id, max_hops=max_hops)
+        except FrontierExceeded as exc:
+            return {"from": from_key, "to": to_key, "path": None, "hops": None,
+                    "reason": f"frontier exceeded {exc} nodes at a level (cap {FRONTIER_CAP})"}
+
+        if path is None:
+            return {"from": from_key, "to": to_key, "path": None, "hops": None,
+                    "reason": f"no path within {max_hops} hops"}
+
+        ids = [nid for nid, _ in path]
+        meta: dict[int, tuple[str, str]] = {}
+        if ids:
+            ph = ",".join("?" * len(ids))
+            meta = {r[0]: (r[1], r[2]) for r in conn.execute(
+                f"SELECT id, key, label FROM nodes WHERE id IN ({ph})", ids).fetchall()}
+
+        return {
+            "from": from_key,
+            "to": to_key,
+            "hops": hops,
+            "path": [
+                {"key": meta.get(nid, (None, str(nid)))[0],
+                 "label": meta.get(nid, (None, str(nid)))[1]}
+                for nid in ids
+            ],
+            "edges": [
+                {"type": et, "from": i, "to": i + 1}
+                for i, (_, et) in enumerate(path[1:], start=0)
+                if et is not None
+            ],
+        }
+    finally:
+        conn.close()
+
+
 @router.get("/api/graph/data")
 def graph_data(
     type: str = Query(alias="type"),
