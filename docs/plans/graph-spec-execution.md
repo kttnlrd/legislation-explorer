@@ -15,8 +15,8 @@
 | verify_graph_readiness.py --require-mop-complete | ✅ 32/32 |
 | `/api/graph/data` rewired to graph.db (ego-graph, BFS, caps) | ✅ tested, **uncommitted** |
 | GraphModal private_ruling color | ✅ **uncommitted** |
-| Search graph field (§6.1) | ❌ |
-| LLM serialization (§6.2) | ❌ |
+| Search graph field (§6.1) | ✅ done 2026-08-17 (2a62d6d4f) — materialised `neighborhood_index` (133k rows) pulled forward from §9.8 when on-the-fly counts blew the 50ms gate (145ms → <50ms); G1 5/5 |
+| LLM serialization (§6.2) | ✅ done 2026-08-18 — `backend/services/graph_serialize.py`; budgets 80/400 verified (hub 66/265); `\|` separator (commas/semicolons appear in real labels); neighborhood_index gained `target_type` for phrase accuracy; `GET /api/graph/serialize` endpoint; G2 11/11 |
 | Path queries (§6.3) | ❌ |
 | Entity resolution LLM backstop (§7) | ❌ |
 | Exemplar computation (§9.8) | ❌ (folded into §6.1 unless perf fails) |

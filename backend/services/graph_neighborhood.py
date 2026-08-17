@@ -52,6 +52,7 @@ def build_index(conn: sqlite3.Connection) -> int:
             edge_type TEXT NOT NULL,
             count    INTEGER NOT NULL,
             top_json TEXT NOT NULL,
+            target_type TEXT NOT NULL DEFAULT '',
             PRIMARY KEY (node_id, edge_type)
         )"""
     )
@@ -69,6 +70,26 @@ def build_index(conn: sqlite3.Connection) -> int:
         agg.setdefault((s, et), {})[t] = degree.get(t, 0)
         agg.setdefault((t, et), {})[s] = degree.get(s, 0)
 
+    # modal neighbour node type per (node, type) — drives the count-line
+    # phrasing in §6.2 serialization ("57 private rulings" vs "3 cases").
+    # For each edge we count the OTHER endpoint's type, once per direction.
+    types: dict[tuple[int, str], dict[str, int]] = {}
+    ntype_rows = conn.execute(
+        "SELECT e.source_id, e.target_id, e.edge_type, ns.node_type, nt.node_type "
+        "FROM graph_edges e "
+        "JOIN nodes ns ON ns.id = e.source_id "
+        "JOIN nodes nt ON nt.id = e.target_id"
+    ).fetchall()
+    for s, t, et, ns_nt, nt_nt in ntype_rows:
+        d = types.setdefault((s, et), {})
+        d[nt_nt] = d.get(nt_nt, 0) + 1
+        d = types.setdefault((t, et), {})
+        d[ns_nt] = d.get(ns_nt, 0) + 1
+    modal_type = {
+        key: max(freq.items(), key=lambda kv: kv[1])[0]
+        for key, freq in types.items()
+    }
+
     # labels for the top-3 neighbours
     top_ids: set[int] = set()
     for members in agg.values():
@@ -81,11 +102,12 @@ def build_index(conn: sqlite3.Connection) -> int:
             f"SELECT id, label FROM nodes WHERE id IN ({ph})", list(top_ids))}
 
     conn.executemany(
-        f"INSERT OR REPLACE INTO {INDEX_TABLE} (node_id, edge_type, count, top_json) VALUES (?,?,?,?)",
+        f"INSERT OR REPLACE INTO {INDEX_TABLE} (node_id, edge_type, count, top_json, target_type) VALUES (?,?,?,?,?)",
         [
             (nid, et, counts.get((nid, et), 0), json.dumps(
                 [labels.get(n2, str(n2)) for n2, _ in
-                 sorted(members.items(), key=lambda kv: -kv[1])[:3]]))
+                 sorted(members.items(), key=lambda kv: -kv[1])[:3]]),
+             modal_type.get((nid, et), ""))
             for (nid, et), members in agg.items()
         ],
     )

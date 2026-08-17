@@ -215,6 +215,29 @@ def _resolve_case(citation: str, depth: int) -> dict:
     return _resolve_from_graph(key, depth)
 
 
+@router.get("/api/graph/serialize")
+def graph_serialize(
+    key: str = Query(...),
+    depth: int = Query(default=1, ge=1, le=2),
+):
+    """LLM-facing serialization of a graph node (graph spec §6.2).
+
+    Query params:
+      key:    canonical graph key, e.g. "section:itaa-1997:118-110"
+      depth:  1 = node neighbourhood (≈80 tokens); 2 = + aggregated
+              neighbourhood-of-neighbourhood (≤400 tokens, deduped).
+
+    Returns {key, label, depth, tokens, text} where `text` is a token-lean
+    block an LLM can read directly (counts + top exemplars per edge type).
+    """
+    from backend.services.graph_serialize import serialize as _serialize
+
+    out = _serialize(key, depth=depth)
+    if out is None:
+        return JSONResponse({"error": f"unknown graph key: {key}"}, status_code=404)
+    return out
+
+
 @router.get("/api/graph/data")
 def graph_data(
     type: str = Query(alias="type"),
