@@ -16,6 +16,7 @@ from backend.services.search_service import (
     search_sections as fts_search, search_rulings, search_section_ids,
 )
 from backend.services import vector_search_service, reranker
+from backend.services.graph_neighborhood import neighborhoods as graph_neighborhoods
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
@@ -70,7 +71,7 @@ def _normalize_citation(s: str) -> str:
 
 
 @router.get("/api/search")
-def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50):
+def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50, depth: int = 1):
     if limit > 100:
         limit = 100
     if offset < 0:
@@ -139,6 +140,19 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50):
     total = len(all_results)
     page = all_results[offset:offset + limit]
     engine = "fallback" if not SEARCH_DB.exists() else "fts5"
+
+    # Graph neighbourhood enrichment (spec §6.1): counts + top-3 per edge type.
+    # depth is accepted now; depth=2 aggregation lands with serialization (Phase 2).
+    try:
+        graph_keys = [f"section:{r['act']}:{r['section']}" for r in page if r.get("act") and r.get("section")]
+        neigh = graph_neighborhoods(graph_keys) if graph_keys else {}
+        for r in page:
+            g = neigh.get(f"section:{r['act']}:{r['section']}")
+            if g:
+                r["graph"] = g
+    except Exception:
+        logger.exception("[graph] neighbourhood enrichment failed — returning search without graph field")
+
     return {"results": page, "total": total, "offset": offset, "limit": limit, "engine": engine}
 
 
