@@ -31,10 +31,20 @@ import json
 import logging
 import re
 import sqlite3
-from functools import lru_cache
 from pathlib import Path
 
-import tiktoken
+try:
+    import tiktoken
+except ImportError:  # service envs without tiktoken: conservative chars/3
+    tiktoken = None  # type: ignore[assignment]
+
+_ENC = tiktoken.get_encoding("cl100k_base") if tiktoken is not None else None
+
+
+def _tokens(text: str) -> int:
+    if _ENC is not None:
+        return len(_ENC.encode(text))
+    return len(text) // 3 + 1
 
 from backend.services.graph_neighborhood import _ensure_index
 
@@ -69,12 +79,6 @@ TYPE_PHRASES = {
 D1_TOP = 2          # depth=1 exemplars per edge type (spec: top-2 lists)
 D2_TOP = 3          # depth=2 exemplars per edge type (spec: top-3 per level)
 L2_FRONTIER = 20    # per-hop limit for the level-2 frontier (spec §4 hub guard)
-
-_ENC = tiktoken.get_encoding("cl100k_base")
-
-
-def _tokens(text: str) -> int:
-    return len(_ENC.encode(text))
 
 
 def _open() -> sqlite3.Connection:
