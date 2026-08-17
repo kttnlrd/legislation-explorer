@@ -272,29 +272,170 @@ def load_commentary(g, known_sections):
     print(f"  commentary: {nodes} nodes, {edges} explained_in edges")
 
 
-def _load_private_rulings():
-    """Plug-in point — §9 step 1. Returns [] until the enrichment output lands.
+# ------------------------------------------------------- private rulings (mop-up)
 
-    TODO: read ~/.hermes/private_rulings/data/json_llm/*.json (~57.6k files,
-    shape {authorisation_number, relevant_legislation, case_references, ...}).
-    Each becomes a node `private_ruling:EV/{authorisation_number}` with
-    `applies` edges to relevant_legislation sections, `cites` to case_references
-    and `consistent_with` to inline public-ruling refs (method=llm).
+# Act alias -> canonical act dir, longest-first so full names win over abbreviations.
+_ACT_ALIASES = [
+    ("anti-money laundering and counter-terrorism financing rules 2007", "aml-ctf-rules-2007"),
+    ("anti-money laundering and counter-terrorism financing act 2006", "aml-ctf-2006"),
+    ("superannuation industry (supervision) act 1993", "sis-1993"),
+    ("superannuation guarantee (administration) act 1992", "sga-1992"),
+    ("income tax assessment act 1997", "itaa-1997"),
+    ("income tax assessment act 1936", "itaa-1936"),
+    ("a new tax system (goods and services tax) act 1999", "gst-1999"),
+    ("a new tax system (gods and services tax) act 1999", "gst-1999"),  # LLM typo
+    ("goods and services tax act 1999", "gst-1999"),
+    ("fringe benefits tax assessment act 1986", "fbt-1986"),
+    ("fringe benefits tax act 1986", "fbt-1986"),
+    ("taxation administration act 1953", "taa-1953"),
+    ("corporations act 2001", "corporations-act-2001"),
+    ("itaa 1997", "itaa-1997"), ("itaa97", "itaa-1997"), ("itaa 1936", "itaa-1936"),
+    ("itaa36", "itaa-1936"), ("gst act 1999", "gst-1999"), ("taa 1953", "taa-1953"),
+    ("fbt act 1986", "fbt-1986"), ("fbt act", "fbt-1986"), ("corporations act", "corporations-act-2001"),
+    ("sis act 1993", "sis-1993"), ("gst act", "gst-1999"),
+]
+_ACT_ALIASES.sort(key=lambda a: len(a[0]), reverse=True)
+
+_SECTION_RE = re.compile(r"(?:sub)?sec(?:tion)?\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)(?:\([^)]*\))?", re.IGNORECASE)
+_RANGE_RE = re.compile(r"sections\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)\s+to\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)", re.IGNORECASE)
+_SCHED_SECTION_RE = re.compile(r"schedule\s+\d+\s+(?:sub)?section\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)", re.IGNORECASE)
+_NON_SECTION_RE = re.compile(r"^\s*(?:division|subdivision|part|schedule|chapter)\b", re.IGNORECASE)
+_NEUTRAL_CASE_RE = re.compile(r"\[\d{4}\]\s*[A-Z]+\s+\d+")
+_REPORTER_CASE_RE = re.compile(r"\(\d{4}\)\s+\d+\s+[A-Z]+(?:\s+[A-Z]+)?\s+\d+")
+
+
+def _parse_leg_ref(ref: str):
+    """Parse a canonical legislation ref -> (act_dir, section_id) or None.
+
+    Handles 'Income Tax Assessment Act 1997 section 118-145',
+    'ITAA 1997 subsection 115-25(1)', 'GST Act 1999 sections 135-55 to 135-75',
+    'Taxation Administration Act 1953 schedule 1 section 12-140'.
+    Non-section refs (Division/Part/Subdivision) return None — the graph schema
+    has no division nodes; they are counted and skipped.
     """
-    return []
+    s = ref.strip()
+    act_dir = None
+    rest = ""
+    for alias, adir in _ACT_ALIASES:
+        if s.lower().startswith(alias):
+            act_dir = adir
+            rest = s[len(alias):]
+            break
+    if act_dir is None:
+        return None
+    m = _RANGE_RE.search(rest)
+    if m:
+        return [(act_dir, m.group(1)), (act_dir, m.group(2))]
+    m = _SCHED_SECTION_RE.search(rest)
+    if m:
+        return [(act_dir, m.group(1))]
+    m = _SECTION_RE.search(rest)
+    if m:
+        return [(act_dir, m.group(1))]
+    if _NON_SECTION_RE.match(rest):
+        return "non-section"  # Division/Part etc — counted, not edges
+    return None
+
+
+def _case_key(citation: str) -> str | None:
+    """Normalise a case citation to a stable node key.
+
+    Prefers the neutral citation ('[YYYY] COURT N' — matches the existing case
+    corpus), falls back to reporter citation ('(YYYY) VOL REP N'), else the raw
+    string. Un-cited fragments ('Steele v. FC of T', garbage) are dropped.
+    """
+    c = citation.strip().rstrip(".")
+    m = _NEUTRAL_CASE_RE.search(c)
+    if m:
+        return m.group(0)
+    m = _REPORTER_CASE_RE.search(c)
+    if m:
+        return m.group(0)
+    return None
+
+
+def _load_private_rulings():
+    """Yield parsed private rulings from the LLM mop-up output (~57.6k files).
+
+    Each yield: {authnum, applies: [(act, section, method)], cites: [(key, method)]}.
+    Streams file-by-file — never holds the whole corpus in memory.
+    """
+    import glob as _glob
+    rulings_dir = os.environ.get(
+        "HERMES_RULINGS_DIR", os.path.expanduser("~/.hermes/private_rulings"))
+    llm_dir = os.path.join(rulings_dir, "data", "json_llm")
+    files = sorted(_glob.glob(os.path.join(llm_dir, "*.json")))
+    stats = {"files": 0, "ok": 0, "err": 0, "leg": 0, "leg_skip_div": 0,
+             "leg_unparsed": 0, "case": 0, "case_dropped": 0}
+    for path in files:
+        stats["files"] += 1
+        try:
+            with open(path, encoding="utf-8") as fh:
+                d = json.load(fh)
+        except Exception:
+            stats["err"] += 1
+            continue
+        if d.get("mop_status") != "ok":
+            stats["err"] += 1
+            continue
+        stats["ok"] += 1
+        authnum = str(d.get("authorisation_number", ""))
+        if not authnum:
+            continue
+        applies = []
+        cites = []
+        for ref in d.get("legislation_refs_llm", []) or []:
+            r = _parse_leg_ref(ref)
+            if r == "non-section":
+                stats["leg_skip_div"] += 1
+            elif r:
+                for act, sec in r:
+                    applies.append((act, sec, "llm"))
+                    stats["leg"] += 1
+            else:
+                stats["leg_unparsed"] += 1
+        for ref in d.get("relevant_legislation", []) or []:
+            r = _parse_leg_ref(ref)
+            if r == "non-section":
+                stats["leg_skip_div"] += 1
+            elif r:
+                for act, sec in r:
+                    applies.append((act, sec, "regex"))
+                    stats["leg"] += 1
+            else:
+                stats["leg_unparsed"] += 1
+        for cit in d.get("case_refs_llm", []) or []:
+            k = _case_key(cit)
+            if k:
+                cites.append((k, "llm"))
+                stats["case"] += 1
+            else:
+                stats["case_dropped"] += 1
+        for cit in d.get("case_references", []) or []:
+            k = _case_key(cit)
+            if k:
+                cites.append((k, "regex"))
+                stats["case"] += 1
+            else:
+                stats["case_dropped"] += 1
+        yield {"authnum": authnum, "applies": applies, "cites": cites}
+    print(f"  private rulings: {stats['ok']}/{stats['files']} ok, {stats['err']} err "
+          f"| leg edges {stats['leg']} (skip div {stats['leg_skip_div']}, unparsed {stats['leg_unparsed']}) "
+          f"| case edges {stats['case']} (dropped {stats['case_dropped']})")
 
 
 def load_private_rulings(g):
-    rulings = _load_private_rulings()
-    for r in rulings:  # shape per the TODO above
-        authnum = r["authorisation_number"]
+    n = 0
+    for r in _load_private_rulings():
+        authnum = r["authnum"]
         pk = g.node(f"private_ruling:EV/{authnum}", "private_ruling", f"EV/{authnum}",
                     {"authnum": authnum})
-        for ref in r.get("relevant_legislation", []):
-            g.edge(pk, g.section(ref["act"], ref["section"]), "applies", authnum, "llm")
-        for citation in r.get("case_references", []):
-            g.edge(pk, g.case(citation), "cites", authnum, "llm")
-    print(f"  private rulings: {len(rulings)} (plug-in point — see _load_private_rulings)")
+        for act, sec, method in r["applies"]:
+            g.edge(pk, g.section(act, sec), "applies", authnum, method)
+        for ck, method in r["cites"]:
+            g.edge(pk, g.case(ck), "cites", authnum, method)
+        n += 1
+    print(f"  private ruling nodes: {n}")
 
 
 # ---------------------------------------------------------------------- load
