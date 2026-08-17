@@ -242,8 +242,31 @@ def extract_aid(text: str, citation: str) -> dict:
     }
 
 
+def _extract_json(content: str) -> dict | None:
+    """Parse JSON from model output: greedy braces first, then first-{/last-} slice."""
+    if not content or not content.strip():
+        return None
+    for candidate in (re.search(r"\{.*\}", content, re.DOTALL), None):
+        if candidate:
+            try:
+                return json.loads(candidate.group())
+            except json.JSONDecodeError:
+                pass
+    s, e = content.find("{"), content.rfind("}")
+    if s >= 0 and e > s:
+        try:
+            return json.loads(content[s:e + 1])
+        except json.JSONDecodeError:
+            pass
+    return None
+
+
 def ai_summarize(text: str, max_text: int = 8000) -> dict:
-    """Send ruling text to DeepSeek V4 Flash and get structured summary."""
+    """Send ruling text to DeepSeek V4 Flash and get structured summary.
+
+    Retries once on parse failure or transient API error. max_tokens is 4000 —
+    earlier 2000 cap truncated long summaries mid-JSON (325 error stubs, Aug 2026).
+    """
     if len(text) > max_text:
         text = text[:max_text] + "\n... [truncated]"
 
@@ -251,7 +274,7 @@ def ai_summarize(text: str, max_text: int = 8000) -> dict:
         "model": "deepseek/deepseek-v4-flash",
         "messages": [{"role": "user", "content": SUMMARY_PROMPT + text}],
         "temperature": 0.1,
-        "max_tokens": 2000,
+        "max_tokens": 4000,
     }
     req = urllib.request.Request(
         "https://openrouter.ai/api/v1/chat/completions",
@@ -263,17 +286,25 @@ def ai_summarize(text: str, max_text: int = 8000) -> dict:
             "X-Title": "Legislation Explorer",
         },
     )
-    with urllib.request.urlopen(req, timeout=180) as resp:
-        result = json.loads(resp.read())
-
-    content = result["choices"][0]["message"]["content"]
-    json_match = re.search(r"\{.*\}", content, re.DOTALL)
-    if json_match:
+    for attempt in (1, 2):
         try:
-            return json.loads(json_match.group())
-        except json.JSONDecodeError:
-            pass
-    return {"error": "JSON parse failed", "raw": content[:300]}
+            with urllib.request.urlopen(req, timeout=180) as resp:
+                result = json.loads(resp.read())
+            content = result["choices"][0]["message"]["content"]
+            if not content:
+                raise ValueError("null content")
+            summary = _extract_json(content)
+            if summary is not None:
+                return summary
+            if attempt == 1:
+                time.sleep(2)
+                continue
+            return {"error": "JSON parse failed", "raw": content[:300]}
+        except Exception as e:
+            if attempt == 1:
+                time.sleep(5)
+                continue
+            return {"error": f"API failed: {e}", "raw": ""}
 
 
 def process_aid(files: list[Path], label: str):
