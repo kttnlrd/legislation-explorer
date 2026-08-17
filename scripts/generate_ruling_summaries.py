@@ -271,7 +271,7 @@ def ai_summarize(text: str, max_text: int = 8000) -> dict:
         text = text[:max_text] + "\n... [truncated]"
 
     payload = {
-        "model": "deepseek-v4-flash",
+        "model": "deepseek-chat",  # NOT v4-flash: flash burns max_tokens on reasoning_content, returns empty content
         "messages": [{"role": "user", "content": SUMMARY_PROMPT + text}],
         "temperature": 0.1,
         "max_tokens": 4000,
