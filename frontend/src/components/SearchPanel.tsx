@@ -42,8 +42,6 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [suggestions, setSuggestions] = useState<{ act: string; section: string; title: string; type: string }[]>([])
   const [showSuggestions, setShowSuggestions] = useState(false)
   const [highlightIdx, setHighlightIdx] = useState(-1)
-  const suggestTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-  const suggestAbort = useRef<AbortController | null>(null)
   const containerRef = useRef<HTMLDivElement>(null)
 
   const SUGGEST_LIMIT = 8
@@ -74,36 +72,25 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  // Debounced suggest — fetch autocomplete suggestions as user types
-  useEffect(() => {
-    const q = query.trim()
-    if (q.length < 2) {
-      setSuggestions([])
-      setShowSuggestions(false)
-      return
-    }
-    if (suggestTimer.current) clearTimeout(suggestTimer.current)
-    if (suggestAbort.current) suggestAbort.current.abort()
+  // Suggestions are only fetched when the user presses Search — no live
+  // typing dropdown. They act as instant quick-nav while the full search runs.
 
-    suggestTimer.current = setTimeout(async () => {
-      const controller = new AbortController()
-      suggestAbort.current = controller
-      try {
-        const data = await api.suggest(q, SUGGEST_LIMIT)
-        if (!controller.signal.aborted && data.suggestions) {
-          setSuggestions(data.suggestions)
-          setShowSuggestions(data.suggestions.length > 0)
-          setHighlightIdx(-1)
-        }
-      } catch {
-        // ignore aborted or failed
+  const runSearchWithSuggestions = async () => {
+    const term = query.trim()
+    if (!term) return
+    setShowSuggestions(false)
+    setSuggestions([])
+    setHighlightIdx(-1)
+    // Fast suggest endpoint gives immediate navigation options during the slow hybrid search
+    try {
+      const data = await api.suggest(term, SUGGEST_LIMIT)
+      if (data.suggestions && data.suggestions.length > 0) {
+        setSuggestions(data.suggestions)
+        setShowSuggestions(true)
       }
-    }, 300)
-    return () => {
-      if (suggestTimer.current) clearTimeout(suggestTimer.current)
-      if (suggestAbort.current) suggestAbort.current.abort()
-    }
-  }, [query])
+    } catch { /* ignore */ }
+    doSearch()
+  }
 
   const doSearch = async (q?: string, filterOverride?: string) => {
     const term = (q || query).trim()
@@ -165,6 +152,9 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     } catch { setResults([]) }
     setLoading(false)
     setCurrentPage(0)
+    // Results are ready — drop the quick-nav dropdown so it doesn't cover them
+    setShowSuggestions(false)
+    setSuggestions([])
   }
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
@@ -192,7 +182,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     }
     if (e.key === 'Enter') {
       setShowSuggestions(false)
-      doSearch()
+      runSearchWithSuggestions()
     }
   }
 
@@ -239,6 +229,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 8, width: '100%', position: 'relative' }}>
+      <style>{`@keyframes hermes-spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }`}</style>
       {/* Search input row */}
       <div style={{ display: 'flex', gap: 6, alignItems: 'stretch' }}>
         <div style={{ position: 'relative', flex: 1 }}>
@@ -269,7 +260,8 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
           />
         </div>
         <button
-          onClick={() => doSearch()}
+          onClick={() => runSearchWithSuggestions()}
+          onMouseDown={e => e.preventDefault()}
           style={{
             padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
             background: COLORS.accent, color: '#fff',
@@ -465,7 +457,16 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
 
       {/* Results */}
       {loading && (
-        <div style={{ padding: '8px 4px', fontSize: 12, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>
+        <div style={{
+          padding: '8px 4px', fontSize: 12, color: COLORS.textMuted,
+          fontFamily: "'Montserrat', sans-serif",
+          display: 'flex', alignItems: 'center', gap: 8,
+        }}>
+          <img
+            src="/favicon.png"
+            alt=""
+            style={{ width: 16, height: 16, animation: 'hermes-spin 1s linear infinite' }}
+          />
           Searching...
         </div>
       )}
