@@ -1,0 +1,779 @@
+{
+ "id": "itaa-1936-schedule-2f-trust-loss-measures",
+ "title": "Schedule 2F ITAA 1936 — Trust loss measures (Divs 265–272)",
+ "act": "itaa-1936",
+ "part": "",
+ "division": "2F",
+ "subdivision": "",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Schedule 2F restricts the deduction of trust losses (and debt deductions) where ownership or control of the trust has changed or been traded. The operative model: (1) identify the trust type — fixed trust (s 272-65), non-fixed trust (s 272-70), or a widely held unit trust variant (ss 272-105 to 272-125); (2) for fixed trusts, apply Div 266 — the trust must pass the 50% stake test (s 266-40; Subdiv 269-C) or, for widely held variants, must not have abnormal trading (ss 269-15 to 269-49) unless a 50% stake or business continuity exception applies; (3) for non-fixed trusts, apply Div 267 — the pattern of distributions test (s 267-30; s 269-60), no prior failure (s 267-35), the 50% individuals condition (s 267-40) and no new group control (s 267-45); (4) where triggered, work out net income and tax loss under Div 268 (period-by-period notional computation, ss 268-10 to 268-60); (5) Div 270 attacks schemes to take advantage of deductions (ss 270-10, 270-15); (6) Div 271 imposes family trust distribution tax on distributions outside the family group; (7) Div 272 supplies the definitions. Excepted trusts (s 272-100) — family trusts, complying superannuation funds, deceased estate trusts within the 5-year window, wholly exempt-owned fixed unit trusts and designated infrastructure project entities — sit outside the loss-restriction rules.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A trust has a tax loss (or debt) deduction it wants to claim",
+   "body": "A trust can deduct in the income year a tax loss from a loss year, or claim a debt deduction. Schedule 2F may deny or restrict that deduction where there has been a change in ownership, abnormal trading or a change in control over the test period — the period from the beginning of the loss year until the end of the income year (ss 266-25(1)(b), 267-20(1)(b)). Schedule 2F's own roadmap is in Div 265 (ss 265-5, 265-10).",
+   "rulings": []
+  },
+  {
+   "id": "dec-excepted",
+   "type": "decision",
+   "label": "Is the trust an excepted trust at all times in the test period?",
+   "body": "An excepted trust (s 272-100) escapes the Schedule 2F restrictions: (a) a family trust; (b) a complying superannuation fund, complying approved deposit fund or pooled superannuation trust; (c) a deceased estate trust within the period from death to the end of the income year in which the 5th anniversary of the death occurs; (d) a fixed unit trust to which exempt entities have fixed entitlements, directly or indirectly and for their own benefit, to all income and capital; (f) a designated infrastructure project entity.",
+   "rulings": []
+  },
+  {
+   "id": "outcome-no-sch2f",
+   "type": "outcome",
+   "label": "Schedule 2F does not restrict the deduction",
+   "body": "The trust is an excepted trust at all times in the test period, so the loss-restriction rules in Divs 266–267 do not apply. Deductibility is determined under the general loss rules (s 36-10 ITAA 1997) and any other integrity provisions.",
+   "rulings": []
+  },
+  {
+   "id": "dec-type",
+   "type": "decision",
+   "label": "Was the trust a fixed trust at all times, or a non-fixed trust at any time, in the test period?",
+   "body": "Div 266 applies to fixed trusts; Div 267 applies to non-fixed trusts. A fixed trust (s 272-65) is a trust where persons have fixed entitlements to all of the income and capital of the trust (ss 272-5 to 272-63 deal with fixed entitlements, direct and indirect). A non-fixed trust (s 272-70) is any trust that is not a fixed trust.",
+   "rulings": [
+    {
+     "id": "TD_2022_12",
+     "title": "Income tax: is the source concept in Division 6 of Part III of the Income Tax Assessment Act 1936 relevant in "
+    }
+   ]
+  },
+  {
+   "id": "action-266-25",
+   "type": "action",
+   "label": "Div 266 — fixed trust: check the conditions in s 266-25",
+   "body": "Section 266-25 applies where the trust (a) can deduct a tax loss in the income year, (b) was a fixed trust at all times in the test period, (c) was not a widely held unit trust at all times in the test period, and (d) was not an excepted trust at all times in the test period. If it applies, the trust cannot deduct the tax loss unless it passes the 50% stake test (s 266-40) or meets the non-fixed trust stake test (s 266-45).",
+   "rulings": [
+    {
+     "id": "AID_2002_646",
+     "title": "Trust loss provisions - carry-forward losses of deceased estate"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "266-25",
+     "title": "Schedule 2F s 266-25"
+    }
+   ]
+  },
+  {
+   "id": "action-266-special-net-income",
+   "type": "action",
+   "label": "Check special net income / tax loss computation (s 266-30)",
+   "body": "A fixed trust may be required to work out its net income and tax loss in a special way (s 266-30), computed under the Div 268 period-by-period rules. The debt deduction denial for fixed trusts is in s 266-35.",
+   "rulings": []
+  },
+  {
+   "id": "dec-50pct-fixed",
+   "type": "decision",
+   "label": "Does the trust pass the 50% stake test for the test period (s 266-40)?",
+   "body": "Section 266-40 requires the fixed trust to pass the 50% stake test for the test period. The test is in Subdivision 269-C: the same individuals must hold more than a 50% stake in the income of the trust and more than a 50% stake in the capital of the trust, at all times during a period, or at 2 times (s 269-55). A widely held unit trust is taken to pass if it is reasonable to assume the requirements are satisfied (s 269-55(2)).",
+   "rulings": []
+  },
+  {
+   "id": "dec-nonfixed-stake",
+   "type": "decision",
+   "label": "Alternatively, does the trust meet the non-fixed trust stake test (s 266-45)?",
+   "body": "If the 50% stake test is not passed, the trust must satisfy the conditions in s 266-45: (2) at all times during the test period, non-fixed trusts (other than family trusts) hold at least 50% of the fixed entitlements to income and capital of the trust or a holding entity; (3) the persons holding those fixed entitlements at the beginning of the test period hold them throughout; (4) at the beginning of the test period, individuals must not have more than a 50% stake in the income or capital of the trust; and (5) each non-fixed trust with a direct or indirect fixed entitlement must not itself be prevented from deducting a loss by ss 267-20, 267-25, 267-60 or 267-65.",
+   "rulings": []
+  },
+  {
+   "id": "action-partial-266",
+   "type": "action",
+   "label": "Partial deduction — deducting part of a tax loss (s 266-50)",
+   "body": "Where the trust fails a test but the failure relates only to part of the loss, s 266-50 allows the tax loss to be deducted to the extent that the trust satisfies the relevant condition for the corresponding part of the test period. The same partial-deduction mechanism applies to widely held variants (ss 266-95, 266-130, 266-170).",
+   "rulings": []
+  },
+  {
+   "id": "outcome-partial-deductible",
+   "type": "outcome",
+   "label": "Part of the tax loss is deductible",
+   "body": "The trust can deduct the tax loss only to the extent permitted by s 266-50 (or ss 266-95, 266-130, 266-170 for widely held variants) — the part of the loss referable to the period in which the relevant condition was satisfied.",
+   "rulings": []
+  },
+  {
+   "id": "dec-widely-held",
+   "type": "decision",
+   "label": "Was the trust a widely held unit trust at all times in the test period?",
+   "body": "Widely held unit trusts (ss 272-105 to 272-125) are dealt with in Subdivs 266-C to 266-E: unlisted widely held trust (s 272-110), listed widely held trust (s 272-115), unlisted very widely held trust (s 272-120) and wholesale widely held trust (s 272-125). Each has its own abnormal-trading / change-in-ownership trigger.",
+   "rulings": [
+    {
+     "id": "TD_2022_12",
+     "title": "Income tax: is the source concept in Division 6 of Part III of the Income Tax Assessment Act 1936 relevant in "
+    }
+   ]
+  },
+  {
+   "id": "dec-unlisted-wh",
+   "type": "decision",
+   "label": "Is the trust an unlisted widely held trust (s 272-110)?",
+   "body": "Subject to Subdivision 272-J, a unit trust is an unlisted widely held trust if it is a widely held unit trust whose units are not listed for quotation in the official list of an approved stock exchange (s 272-110). Its loss deduction may be denied under s 266-75.",
+   "rulings": [
+    {
+     "id": "TD_2022_12",
+     "title": "Income tax: is the source concept in Division 6 of Part III of the Income Tax Assessment Act 1936 relevant in "
+    }
+   ]
+  },
+  {
+   "id": "action-unlisted-wh",
+   "type": "action",
+   "label": "Unlisted widely held trust — loss denial and special computation",
+   "body": "Section 266-75 may deny the tax loss deduction; s 266-80 requires the trust to work out its net income and tax loss in the special Div 268 way; s 266-85 may deny a debt deduction. The trust may deduct only part of the loss under s 266-95.",
+   "rulings": []
+  },
+  {
+   "id": "dec-unlisted-abnormal",
+   "type": "decision",
+   "label": "Was there abnormal trading, or did the income year end, with a change in ownership (s 266-90)?",
+   "body": "For an unlisted widely held trust, on each occasion when abnormal trading in its units occurs during the test period, or an income year of the trust ends during the test period, the trust must pass the 50% stake test in respect of the beginning of the test period and immediately after the event (s 266-90).",
+   "rulings": []
+  },
+  {
+   "id": "dec-listed-wh",
+   "type": "decision",
+   "label": "Is the trust a listed widely held trust (s 272-115)?",
+   "body": "A unit trust is a listed widely held trust if it is a widely held unit trust whose units are listed for quotation in the official list of an approved stock exchange (s 272-115). Its loss deduction may be denied under s 266-110.",
+   "rulings": [
+    {
+     "id": "TD_2022_12",
+     "title": "Income tax: is the source concept in Division 6 of Part III of the Income Tax Assessment Act 1936 relevant in "
+    }
+   ]
+  },
+  {
+   "id": "action-listed-wh",
+   "type": "action",
+   "label": "Listed widely held trust — loss denial and special computation",
+   "body": "Section 266-110 may deny the tax loss deduction; s 266-115 requires the special net income/tax loss computation; s 266-120 may deny a debt deduction. Partial deduction is available under s 266-130.",
+   "rulings": []
+  },
+  {
+   "id": "dec-listed-abnormal",
+   "type": "decision",
+   "label": "Was there abnormal trading, together with a change in ownership and business (s 266-125)?",
+   "body": "For a listed widely held trust, s 266-125 requires no abnormal trading during the test period. If abnormal trading occurs on one or more occasions, then either: (a) for each abnormal trading, the trust passes the 50% stake test in respect of the beginning of the test period and immediately after the abnormal trading; or (b) if it does not, at all times after the first or only abnormal trading and before the end of the test period, the trust passes the business continuity test (s 269-100) in relation to the time immediately before that abnormal trading.",
+   "rulings": []
+  },
+  {
+   "id": "dec-vwh",
+   "type": "decision",
+   "label": "Is the trust an unlisted very widely held or wholesale widely held trust (ss 272-120, 272-125)?",
+   "body": "An unlisted very widely held trust (s 272-120) is an unlisted widely held trust with at least 1,000 unit holders, all units carrying the same rights, redeemable units priced at net asset value under Australian accounting principles, and engaging only in qualifying activities (investment or business activity per the trust instrument, at arm's length). A wholesale widely held trust (s 272-125) is an unlisted widely held trust (other than an unlisted very widely held trust) where at least 75% of units are held by qualifying holders (institutional investors), each person to whom units were issued subscribed at least $500,000, and the trust satisfies the uniform-rights / net-asset-value / arm's length requirements. Their loss deductions may be denied under s 266-150.",
+   "rulings": [
+    {
+     "id": "TD_2022_12",
+     "title": "Income tax: is the source concept in Division 6 of Part III of the Income Tax Assessment Act 1936 relevant in "
+    }
+   ]
+  },
+  {
+   "id": "action-vwh",
+   "type": "action",
+   "label": "Very widely held / wholesale trust — loss denial and special computation",
+   "body": "Section 266-150 may deny the tax loss deduction; s 266-155 requires the special net income/tax loss computation; s 266-160 may deny a debt deduction. Partial deduction is available under s 266-170.",
+   "rulings": []
+  },
+  {
+   "id": "dec-vwh-abnormal",
+   "type": "decision",
+   "label": "Was there abnormal trading together with a change in ownership (s 266-165)?",
+   "body": "For an unlisted very widely held or wholesale widely held trust, s 266-165 requires that there be no abnormal trading, subject to the exception that a more than 50% stake in the trust is maintained.",
+   "rulings": []
+  },
+  {
+   "id": "action-abnormal-trading",
+   "type": "action",
+   "label": "Abnormal trading — the Subdiv 269-B tests (ss 269-15 to 269-49)",
+   "body": "Abnormal trading: the general test in s 269-15, supplemented by deeming rules — suspected acquisition or merger (s 269-20); 5% of units in a single transaction (s 269-25); a suspected series of transactions totalling 5% (s 269-30); 20% of units traded, issued or redeemed over a 60-day period (s 269-35) — each subject to an 'other than a wholesale widely held trust' carve-out. The 50% stake not maintained limb (s 269-40) applies to wholesale widely held trusts. Time of knowledge or suspicion: s 269-45. Holding trust: s 269-47. No abnormal trading on proportionate issue of units: s 269-49.",
+   "rulings": []
+  },
+  {
+   "id": "action-business-continuity",
+   "type": "action",
+   "label": "Business continuity test (s 269-100)",
+   "body": "A listed widely held trust passes the business continuity test if throughout the test period it carries on the same business as immediately before the test time (s 269-100(1)). It fails if it derives assessable income from a business or transaction of a kind not carried on / entered into before the test time (s 269-100(3)). A modified test applies for income years starting on or after 1 July 2015 (s 269-105).",
+   "rulings": []
+  },
+  {
+   "id": "action-267-20",
+   "type": "action",
+   "label": "Div 267 — non-fixed trust: check the conditions in s 267-20",
+   "body": "Section 267-20 applies where the trust (a) can deduct a tax loss in the income year, (b) was a non-fixed trust at any time in the test period, and (c) was not an excepted trust at all times in the test period. The trust cannot deduct the loss unless it meets: the s 267-30(2) condition (if applicable); s 267-35; the s 267-40(2) condition (if applicable); and s 267-45.",
+   "rulings": [
+    {
+     "id": "AID_2003_695",
+     "title": "Trust losses - scheme to take advantage of deductions (income injection test) - prior…"
+    },
+    {
+     "id": "AID_2004_246",
+     "title": "Trust losses: scheme to take advantage of deductions (income injection test) - bad debts"
+    },
+    {
+     "id": "AID_2004_649",
+     "title": "Trust Losses: non-fixed trusts control test - replacement group - family"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "267-20",
+     "title": "Schedule 2F s 267-20"
+    }
+   ]
+  },
+  {
+   "id": "dec-267-distributions",
+   "type": "decision",
+   "label": "Did the trust make distributions engaging s 267-30?",
+   "body": "The pattern of distributions condition applies if the trust distributed income in the income year or within 2 months after its end, and in at least one of the 6 earlier income years, or distributed capital in the income year or within 2 months after its end, and in at least one of the 6 earlier income years (s 267-30(1)). If it did, the trust must pass the pattern of distributions test (s 267-30(2); see s 269-60).",
+   "rulings": []
+  },
+  {
+   "id": "action-pattern-distributions",
+   "type": "action",
+   "label": "Pattern of distributions test (s 269-60)",
+   "body": "The trust passes the pattern of distributions test for an income year if, before the end of 2 months after the end of the income year, it distributed directly or indirectly to the same individuals, for their own benefit: (a) a greater than 50% share of all test year distributions of income, and (b) a greater than 50% share of all test year distributions of capital (s 269-60). Test year distributions: s 269-65. Incomplete distributions: s 269-75. Death / breakdown of marriage: s 269-80. Anti-avoidance: s 269-85.",
+   "rulings": []
+  },
+  {
+   "id": "dec-267-prev-fail",
+   "type": "decision",
+   "label": "Has the trust previously failed the s 267-30(2) condition (s 267-35)?",
+   "body": "Section 267-35 requires that the trust must not have previously failed to meet the condition in s 267-30(2). A prior failure blocks the deduction even if the current year's distributions would otherwise pass.",
+   "rulings": []
+  },
+  {
+   "id": "dec-267-individuals",
+   "type": "decision",
+   "label": "Are there individuals with more than a 50% stake in the trust (s 267-40)?",
+   "body": "If at any time (the test time) in the test period individuals (the threshold group) have more than a 50% stake in the income or capital of the trust, the trust must ensure that during the period from the test time to the end of the test period, the same individuals (some or all of the threshold group) maintain more than a 50% stake in the income or capital respectively (s 267-40(2)). Commissioner discretion to preserve the stake: s 267-40(3).",
+   "rulings": []
+  },
+  {
+   "id": "action-267-group-control",
+   "type": "action",
+   "label": "A group must not begin to control the trust (s 267-45)",
+   "body": "Section 267-45 requires that a group (within the meaning of s 269-95) must not begin to control the trust during the test period. 'Control a non-fixed trust' is defined in s 269-95.",
+   "rulings": []
+  },
+  {
+   "id": "action-partial-267",
+   "type": "action",
+   "label": "Partial deduction — deducting part of a tax loss (s 267-50)",
+   "body": "Where the trust fails a Div 267 condition but the failure relates only to part of the loss, s 267-50 allows the tax loss to be deducted to the extent referable to the part of the test period in which the condition was satisfied.",
+   "rulings": []
+  },
+  {
+   "id": "action-special-net-income-267",
+   "type": "action",
+   "label": "Special net income / tax loss computation (s 267-60, Subdiv 267-C)",
+   "body": "A non-fixed trust may be required to work out its net income and tax loss in the special Div 268 way (s 267-60); the debt deduction denial is in s 267-65. Subdiv 267-D deals with family trusts with interests in other trusts (ss 267-85, 267-90).",
+   "rulings": []
+  },
+  {
+   "id": "action-268-periods",
+   "type": "action",
+   "label": "Div 268 — divide the income year into periods",
+   "body": "Where a special computation is required, the income year is divided into periods: fixed trust first-period rule (s 268-10), second-period rule (s 268-15), widely held unit trust rule (s 268-20), non-fixed trust rule (s 268-25).",
+   "rulings": []
+  },
+  {
+   "id": "action-268-notional",
+   "type": "action",
+   "label": "Calculate the notional loss or net income for each period",
+   "body": "For each period, calculate the notional loss or notional net income (s 268-30), attributing deductions to periods (s 268-35) and assessable income to periods (s 268-40). Partnership interests: ss 268-70 to 268-85.",
+   "rulings": []
+  },
+  {
+   "id": "action-268-net-income",
+   "type": "action",
+   "label": "Calculate net income for the year and the s 36-10 tax loss",
+   "body": "The trust's net income for the income year is the sum of the notional amounts (s 268-45); the s 36-10 ITAA 1997 tax loss for the year is worked out under s 268-60.",
+   "rulings": []
+  },
+  {
+   "id": "action-270-scheme",
+   "type": "action",
+   "label": "Div 270 — is there a scheme to take advantage of deductions (s 270-10)?",
+   "body": "Section 270-10 applies where a deduction is allowable to a trust and, under a scheme: (i) the trust derives scheme assessable income; (ii) an outsider to the trust (s 270-25) directly or indirectly provides a benefit (s 270-20) to the trustee, a beneficiary or an associate; and (iii) the trustee, beneficiary or associate directly or indirectly provides a benefit to the outsider or an associate of the outsider (other than an associate covered by s 270-25(1)(a)-(f)). It must be reasonable to conclude that one of those things happened wholly or partly, but not merely incidentally, because the deduction would be allowable (s 270-10(1)(c)). The trust must not be an excepted trust under s 272-100(b), (c) or (d). Special case (s 270-10(2)): a person who was an outsider becomes trustee or a fixed entitlement holder, and the requirements would have been satisfied had they not — the requirements are taken to be satisfied.",
+   "rulings": []
+  },
+  {
+   "id": "outcome-270-consequences",
+   "type": "outcome",
+   "label": "Tax consequences of the scheme (s 270-15)",
+   "body": "If s 270-10 applies: (a) the deduction is not allowable to the extent it relates to the scheme assessable income; (b) if net income is less than the scheme assessable income (or nil), net income is increased to equal the scheme assessable income; (c) that increase is disregarded in working out any tax loss; (d) if the deduction was for a tax loss, the increase is disregarded in working out any later-year deduction of that loss.",
+   "rulings": []
+  },
+  {
+   "id": "action-271-ftdt",
+   "type": "action",
+   "label": "Div 271 — family trust distribution tax (s 271-10)",
+   "body": "Family trust distribution tax is imposed where a family trust (s 272-75) makes a distribution etc. outside the family group (s 271-15), or an interposed trust, partnership or company makes such a distribution (ss 271-20 to 271-30). Amounts subject to the tax are not otherwise assessable (s 271-105).",
+   "rulings": []
+  },
+  {
+   "id": "outcome-271-liability",
+   "type": "outcome",
+   "label": "FTDT liability and procedure",
+   "body": "The liability falls on the trustee (or interposed entity) for distributions outside the family group, with double-counting avoided (s 271-35), directors excluded in limited cases (s 271-40), notice requirements for non-resident information (ss 271-45 to 271-55), special rules where a non-resident family trust's tax is unpaid (ss 271-60, 271-65), reductions where tax is paid (s 271-70), and payment/late-payment rules (ss 271-75, 271-80). Notices of liability: ss 271-90, 271-95.",
+   "rulings": []
+  },
+  {
+   "id": "action-272-defs",
+   "type": "action",
+   "label": "Div 272 — key definitions",
+   "body": "Fixed entitlement to income or capital: ss 272-5 to 272-63 (company, trust, partnership distributions; direct and indirect entitlements; arrangements to pass the tests; death). Fixed trust: s 272-65. Non-fixed trust: s 272-70. Family trust: s 272-75. Family trust election: s 272-80. Interposed entity election: s 272-85. Family control test: s 272-87. Family group: s 272-90. Family: s 272-95. Widely held unit trust: s 272-105. Listed public company: s 272-135. General definitions: s 272-140.",
+   "rulings": []
+  },
+  {
+   "id": "outcome-deductible",
+   "type": "outcome",
+   "label": "Tax loss deductible — conditions met",
+   "body": "The trust satisfies the applicable Schedule 2F conditions (50% stake test, pattern of distributions test, no new group control, or the relevant widely held exception), so the tax loss (or debt deduction) is not denied by Schedule 2F.",
+   "rulings": []
+  },
+  {
+   "id": "outcome-denied",
+   "type": "outcome",
+   "label": "Tax loss deduction denied",
+   "body": "A Schedule 2F condition is not satisfied and no partial-deduction rule applies: the trust cannot deduct the tax loss (or debt deduction) in the income year. Consider whether the loss can be utilised in a later year under the general rules.",
+   "rulings": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Schedule 2F analysis complete",
+   "body": "The position has been determined: loss deductible in full, deductible in part, denied, or the trust is outside Schedule 2F. Where relevant, the Div 268 computation and any Div 270 scheme or Div 271 family trust distribution tax consequences have been applied.",
+   "rulings": []
+  },
+  {
+   "id": "action-266-55",
+   "type": "action",
+   "label": "Notice backstop — non-fixed trusts with interests in fixed trusts (ss 266-55, 266-60)",
+   "body": "Where a non-fixed trust has an interest in a fixed trust and the fixed trust relies on the s 266-45 conditions, the Commissioner may give a notice (s 266-55) if, when the notice is given, a trustee of the non-fixed trust is a non-resident or its central management and control is outside Australia (s 266-55(4)). If the requirements of the notice are not met, s 266-60 deems the fixed trust never to have met the condition in s 266-45 — collapsing the s 266-45 pathway even where the test would otherwise be passed.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "266-55",
+     "title": "Schedule 2F s 266-55"
+    }
+   ]
+  },
+  {
+   "id": "action-266-180",
+   "type": "action",
+   "label": "Notice backstop — family trusts with interests in other trusts (ss 266-180, 266-185)",
+   "body": "The Commissioner may give a notice to the trustee of a primary trust (s 266-180) where the primary trust has deducted a tax loss or debt and would not be allowed the deduction unless it met a condition in ss 266-40, 266-45, 266-90, 266-125 or 266-165, and the Commissioner is satisfied the primary trust would not meet that condition if one or more trusts were not family trusts (s 266-180(3)). Where requirements are not met, s 266-185 deems the gateway tests failed — a trap across all Div 266 pathways.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "266-180",
+     "title": "Schedule 2F s 266-180"
+    }
+   ]
+  },
+  {
+   "id": "dec-family-control",
+   "type": "decision",
+   "label": "Is a family trust election in force, and does the trust pass the family control test (ss 272-80, 272-87)?",
+   "body": "The family trust election (s 272-80) is only effective if the family control test is passed (s 272-87): the primary individual, one or more members of the primary individual's family (s 272-95), or the individual together with family members, must have the power to obtain beneficial enjoyment of the trust's capital or income, control its application, direct the trustee, remove or appoint the trustee, hold more than a 50% stake, or be the only persons able to obtain the beneficial enjoyment (s 272-87(2)). The interposed entity election (s 272-85) has the same requirement. Where an election is in force, distributions outside the family group attract family trust distribution tax.",
+   "rulings": []
+  },
+  {
+   "id": "outcome-271-not-applicable",
+   "type": "outcome",
+   "label": "FTDT does not apply",
+   "body": "No effective family trust election is in force (or the family control test is not passed), so family trust distribution tax is not attracted. The trust may still be an excepted trust under s 272-100(a) only if a valid election is in force — otherwise the Div 266/267 loss rules apply.",
+   "rulings": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-excepted",
+   "label": "Trust claims a tax loss / debt deduction"
+  },
+  {
+   "from": "start",
+   "to": "action-270-scheme",
+   "label": "Parallel check — schemes to take advantage of deductions (Div 270)"
+  },
+  {
+   "from": "start",
+   "to": "action-271-ftdt",
+   "label": "Parallel check — family trust distribution tax (Div 271)"
+  },
+  {
+   "from": "start",
+   "to": "action-272-defs",
+   "label": "Reference — definitions (Div 272)"
+  },
+  {
+   "from": "dec-excepted",
+   "to": "outcome-no-sch2f",
+   "label": "Yes — excepted trust at all times (s 272-100)"
+  },
+  {
+   "from": "dec-excepted",
+   "to": "dec-type",
+   "label": "No — not an excepted trust"
+  },
+  {
+   "from": "dec-type",
+   "to": "dec-widely-held",
+   "label": "Fixed trust at all times in test period — Div 266"
+  },
+  {
+   "from": "dec-type",
+   "to": "action-267-20",
+   "label": "Non-fixed trust at any time in test period — Div 267"
+  },
+  {
+   "from": "dec-widely-held",
+   "to": "action-266-25",
+   "label": "No — ordinary fixed trust (s 266-25)"
+  },
+  {
+   "from": "dec-unlisted-wh",
+   "to": "action-unlisted-wh",
+   "label": "Yes — unlisted widely held trust (s 272-110)"
+  },
+  {
+   "from": "action-unlisted-wh",
+   "to": "dec-unlisted-abnormal",
+   "label": "Claim loss / debt deduction (ss 266-75, 266-80, 266-85)"
+  },
+  {
+   "from": "dec-unlisted-abnormal",
+   "to": "action-abnormal-trading",
+   "label": "Abnormal trading or end of year + change in ownership — check the tests (s 266-90)"
+  },
+  {
+   "from": "dec-unlisted-abnormal",
+   "to": "outcome-deductible",
+   "label": "No abnormal trading and no change in ownership trigger"
+  },
+  {
+   "from": "dec-listed-wh",
+   "to": "action-listed-wh",
+   "label": "Yes — listed widely held trust (s 272-115)"
+  },
+  {
+   "from": "action-listed-wh",
+   "to": "dec-listed-abnormal",
+   "label": "Claim loss / debt deduction (ss 266-110, 266-115, 266-120)"
+  },
+  {
+   "from": "dec-listed-abnormal",
+   "to": "action-abnormal-trading",
+   "label": "Abnormal trading present — check 50% stake / business continuity exceptions (s 266-125)"
+  },
+  {
+   "from": "dec-listed-abnormal",
+   "to": "outcome-deductible",
+   "label": "No abnormal trading"
+  },
+  {
+   "from": "dec-vwh",
+   "to": "action-vwh",
+   "label": "Yes — very widely held / wholesale trust (ss 272-120, 272-125)"
+  },
+  {
+   "from": "action-vwh",
+   "to": "dec-vwh-abnormal",
+   "label": "Claim loss / debt deduction (ss 266-150, 266-155, 266-160)"
+  },
+  {
+   "from": "dec-vwh-abnormal",
+   "to": "action-abnormal-trading",
+   "label": "Abnormal trading present — check 50% stake exception (s 266-165)"
+  },
+  {
+   "from": "dec-vwh-abnormal",
+   "to": "outcome-deductible",
+   "label": "No abnormal trading"
+  },
+  {
+   "from": "action-abnormal-trading",
+   "to": "dec-50pct-fixed",
+   "label": "Abnormal trading found — does a 50% stake exception apply?"
+  },
+  {
+   "from": "action-abnormal-trading",
+   "to": "action-business-continuity",
+   "label": "Listed widely held trust — business continuity exception (s 269-100)"
+  },
+  {
+   "from": "action-business-continuity",
+   "to": "outcome-deductible",
+   "label": "Same business carried on throughout"
+  },
+  {
+   "from": "action-business-continuity",
+   "to": "outcome-denied",
+   "label": "Different business / new kinds of income or transactions"
+  },
+  {
+   "from": "action-266-25",
+   "to": "action-266-special-net-income",
+   "label": "Special computation may be required (s 266-30)"
+  },
+  {
+   "from": "action-266-25",
+   "to": "dec-50pct-fixed",
+   "label": "Must pass 50% stake test (s 266-40) or non-fixed trust stake test (s 266-45)"
+  },
+  {
+   "from": "action-266-special-net-income",
+   "to": "action-268-periods",
+   "label": "Div 268 period computation applies"
+  },
+  {
+   "from": "dec-50pct-fixed",
+   "to": "outcome-deductible",
+   "label": "Yes — passes 50% stake test (s 266-40)"
+  },
+  {
+   "from": "dec-50pct-fixed",
+   "to": "dec-nonfixed-stake",
+   "label": "No — check non-fixed trust stake test (s 266-45)"
+  },
+  {
+   "from": "dec-nonfixed-stake",
+   "to": "outcome-deductible",
+   "label": "Yes — meets s 266-45"
+  },
+  {
+   "from": "dec-nonfixed-stake",
+   "to": "action-partial-266",
+   "label": "No — deduction denied; partial deduction may apply"
+  },
+  {
+   "from": "action-partial-266",
+   "to": "outcome-partial-deductible",
+   "label": "Part of the loss deductible (s 266-50)"
+  },
+  {
+   "from": "action-partial-266",
+   "to": "outcome-denied",
+   "label": "No part satisfies the condition"
+  },
+  {
+   "from": "action-267-20",
+   "to": "dec-267-distributions",
+   "label": "Conditions in s 267-20(2) must all be met"
+  },
+  {
+   "from": "action-267-20",
+   "to": "action-special-net-income-267",
+   "label": "Special computation may be required (s 267-60)"
+  },
+  {
+   "from": "action-special-net-income-267",
+   "to": "action-268-periods",
+   "label": "Div 268 period computation applies"
+  },
+  {
+   "from": "dec-267-distributions",
+   "to": "action-pattern-distributions",
+   "label": "Yes — distributions made → pattern of distributions test (s 267-30)"
+  },
+  {
+   "from": "dec-267-distributions",
+   "to": "dec-267-prev-fail",
+   "label": "No — pattern test not engaged"
+  },
+  {
+   "from": "action-pattern-distributions",
+   "to": "dec-267-prev-fail",
+   "label": "Test applied (s 269-60)"
+  },
+  {
+   "from": "dec-267-prev-fail",
+   "to": "dec-267-individuals",
+   "label": "No prior failure (s 267-35)"
+  },
+  {
+   "from": "dec-267-prev-fail",
+   "to": "outcome-denied",
+   "label": "Previously failed s 267-30(2) condition"
+  },
+  {
+   "from": "dec-267-individuals",
+   "to": "action-267-group-control",
+   "label": "Individuals >50% stake — condition in s 267-40(2) checked"
+  },
+  {
+   "from": "dec-267-individuals",
+   "to": "outcome-denied",
+   "label": "s 267-40(2) condition not met"
+  },
+  {
+   "from": "action-267-group-control",
+   "to": "outcome-deductible",
+   "label": "No group begins to control the trust (s 267-45)"
+  },
+  {
+   "from": "action-267-group-control",
+   "to": "action-partial-267",
+   "label": "Group control begins — partial deduction may apply (s 267-50)"
+  },
+  {
+   "from": "action-partial-267",
+   "to": "outcome-partial-deductible",
+   "label": "Part of the loss deductible (s 267-50)"
+  },
+  {
+   "from": "action-partial-267",
+   "to": "outcome-denied",
+   "label": "No part satisfies the condition"
+  },
+  {
+   "from": "action-268-periods",
+   "to": "action-268-notional",
+   "label": "Periods established (ss 268-10 to 268-25)"
+  },
+  {
+   "from": "action-268-notional",
+   "to": "action-268-net-income",
+   "label": "Notional loss / net income per period (s 268-30)"
+  },
+  {
+   "from": "action-268-net-income",
+   "to": "outcome-deductible",
+   "label": "Net income and tax loss computed (ss 268-45, 268-60)"
+  },
+  {
+   "from": "action-270-scheme",
+   "to": "outcome-270-consequences",
+   "label": "Scheme present — s 270-15 consequences apply"
+  },
+  {
+   "from": "action-271-ftdt",
+   "to": "outcome-271-liability",
+   "label": "Distribution etc. outside the family group"
+  },
+  {
+   "from": "action-272-defs",
+   "to": "end",
+   "label": "Definitions inform the whole Schedule"
+  },
+  {
+   "from": "outcome-deductible",
+   "to": "end",
+   "label": "Deduction allowed"
+  },
+  {
+   "from": "outcome-denied",
+   "to": "end",
+   "label": "Deduction denied"
+  },
+  {
+   "from": "outcome-partial-deductible",
+   "to": "end",
+   "label": "Partial deduction allowed"
+  },
+  {
+   "from": "outcome-no-sch2f",
+   "to": "end",
+   "label": "Outside Schedule 2F"
+  },
+  {
+   "from": "outcome-270-consequences",
+   "to": "end",
+   "label": "Scheme consequences applied"
+  },
+  {
+   "from": "outcome-271-liability",
+   "to": "end",
+   "label": "FTDT position determined"
+  },
+  {
+   "from": "dec-nonfixed-stake",
+   "to": "action-266-55",
+   "label": "Check notice requirements — s 266-45 pathway can be collapsed"
+  },
+  {
+   "from": "action-266-55",
+   "to": "outcome-denied",
+   "label": "Notice not complied with — deemed never to have met s 266-45 (s 266-60)"
+  },
+  {
+   "from": "action-266-25",
+   "to": "action-266-180",
+   "label": "Family trust holds an interest — notice requirements (ss 266-180, 266-185)"
+  },
+  {
+   "from": "action-266-180",
+   "to": "outcome-denied",
+   "label": "Requirements not met — gateway tests deemed failed (s 266-185)"
+  },
+  {
+   "from": "action-271-ftdt",
+   "to": "dec-family-control",
+   "label": "Determine whether a family trust election is in force"
+  },
+  {
+   "from": "dec-family-control",
+   "to": "outcome-271-liability",
+   "label": "Election in force — distributions outside family group → FTDT"
+  },
+  {
+   "from": "dec-family-control",
+   "to": "outcome-271-not-applicable",
+   "label": "No effective election — FTDT not attracted"
+  },
+  {
+   "from": "outcome-271-not-applicable",
+   "to": "end",
+   "label": "FTDT position determined"
+  },
+  {
+   "from": "dec-widely-held",
+   "to": "dec-listed-wh",
+   "label": "Yes — widely held unit trust (s 272-105): are units listed?"
+  },
+  {
+   "from": "dec-listed-wh",
+   "to": "action-listed-wh",
+   "label": "Yes — listed widely held trust (s 272-115)"
+  },
+  {
+   "from": "dec-listed-wh",
+   "to": "dec-unlisted-wh",
+   "label": "No — units not listed"
+  },
+  {
+   "from": "dec-unlisted-wh",
+   "to": "dec-vwh",
+   "label": "Yes — unlisted widely held (s 272-110): very widely held or wholesale?"
+  },
+  {
+   "from": "dec-unlisted-wh",
+   "to": "action-266-25",
+   "label": "No — not a widely held unit trust (fallback to s 266-25)"
+  },
+  {
+   "from": "dec-vwh",
+   "to": "action-vwh",
+   "label": "Yes — very widely held / wholesale (ss 272-120, 272-125)"
+  },
+  {
+   "from": "dec-vwh",
+   "to": "action-unlisted-wh",
+   "label": "No — ordinary unlisted widely held trust (s 272-110)"
+  }
+ ],
+ "short": "Trust loss measures",
+ "refs": "Sch 2F · Div 265–272",
+ "sort": 11
+}

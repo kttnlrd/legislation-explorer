@@ -1,0 +1,460 @@
+{
+ "id": "itaa-1936-s23ah-foreign-branch",
+ "title": "Foreign branch income — s 23AH ITAA 1936",
+ "act": "itaa-1936",
+ "part": "III",
+ "division": "3",
+ "subdivision": "D",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Facet map: is foreign branch income of a resident company exempt under s 23AH? Spine: resident company (not trustee — s 23AH(15)) → foreign PE in listed/unlisted country (s 23AH(2)) / capital gains on PE assets (s 23AH(3)-(4), not TAP) → ships/aircraft carve-out (s 23AH(14A)-(14B)) → hybrid mismatch (s 23AH(4A), (14C)-(14D)) → active income test (s 23AH(12)) → tainted exceptions (s 23AH(5) listed EDCI, (7) unlisted adjusted tainted income, (6)/(8) tainted assets) → disposal/interposition (s 23AH(9)-(11)). FACETS: AIT machinery and s 23AH(14) PE-company/HQ-company assumptions, adjusted tainted income and tainted assets (s 23AH(13)/(15)), listed vs unlisted countries (ss 320-321), hybrid mismatch detail (Div 832), definitions (s 23AH(15)). Subsection coverage: all of s 23AH(1)-(15) mapped. Rulings: TR 2014/3, TR 2002/5.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "An Australian resident company derives foreign income (or a capital gain/loss) through a foreign branch — is it exempt under s 23AH?",
+   "body": "Single question with facets. Spine: resident company → foreign PE → ships/hybrid carve-outs → active income test → tainted exceptions. Facets carry the machinery and definitions.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [
+    "exemption-for-foreign-branch-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "foreign income",
+    "permanent establishment"
+   ]
+  },
+  {
+   "id": "company",
+   "type": "decision",
+   "label": "Is the taxpayer a resident company (not a trustee)?",
+   "body": "s 23AH(15): 'company' does not include a company in the capacity of a trustee. The exemption is only for resident companies.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "not-company",
+   "type": "outcome",
+   "label": "Not a resident company — s 23AH does not apply",
+   "body": "Individuals, trusts and non-residents use the FITO rules (Div 770 ITAA 1997) instead.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "pe",
+   "type": "decision",
+   "label": "Is the income derived in carrying on a business at or through a PE in a listed or unlisted country?",
+   "body": "s 23AH(2): foreign income through a PE in a listed/unlisted country is NANE. s 23AH(3)-(4): capital gains/losses on assets used wholly/mainly for foreign income through the PE are disregarded (unless taxable Australian property — s 23AH(3)(c)). s 23AH(9): income from disposing of the business itself is covered.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [
+    "exemption-for-foreign-branch-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "listed country",
+    "unlisted country"
+   ]
+  },
+  {
+   "id": "no-pe",
+   "type": "outcome",
+   "label": "No foreign PE — s 23AH does not apply",
+   "body": "Foreign income is assessable with FITO relief (Div 770 ITAA 1997). TR 2014/3, TR 2002/5 explain PE.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [
+    {
+     "id": "TR_2014_3",
+     "title": "carrying on a business at or through a permanent establishment"
+    },
+    {
+     "id": "TR_2002_5",
+     "title": "a place at or through which a person carries on any business"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "ships",
+   "type": "decision",
+   "label": "Is the income from operating ships or aircraft in international traffic?",
+   "body": "s 23AH(14A): the section does NOT apply to ships/aircraft international traffic income (or ancillary things). s 23AH(14B): operates a ship/aircraft in international traffic = transporting passengers/goods between places in different countries.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "ships-excluded",
+   "type": "outcome",
+   "label": "International shipping/aircraft — outside s 23AH",
+   "body": "Excluded (s 23AH(14A)). Often exempt under the DTA shipping article or subject to FITO.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "hybrid",
+   "type": "decision",
+   "label": "Is there a branch hybrid mismatch (Div 832 ITAA 1997)?",
+   "body": "s 23AH(4A): the exemption does not apply to branch hybrid mismatch income. s 23AH(14C): an amount is branch hybrid mismatch income to the extent it would give rise to a branch hybrid mismatch under Div 832. s 23AH(14D): PE in Div 832 takes the s 23AH meaning.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "hybrid-excluded",
+   "type": "outcome",
+   "label": "Branch hybrid mismatch income — not exempt",
+   "body": "Assessable despite the PE (s 23AH(4A)).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "ait",
+   "type": "decision",
+   "label": "Does the PE pass the active income test (s 23AH(12))?",
+   "body": "Mirrors the CFC test in s 432, modified by s 23AH(12): apply the s 23AH(14) assumptions and ignore ss 432(3), 446(2), 432(1)(b), (e), 447(1)(b), (d), (f). A PE passes if adjusted tainted income (s 23AH(13)) is less than 5% of gross income.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [
+    "active-income-test-under-cfc-rules"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "passes",
+   "type": "action",
+   "label": "PE passes the AIT — exemption applies",
+   "body": "Foreign income is NANE (s 23AH(2)); capital gains/losses on non-tainted assets disregarded (ss 23AH(3)-(4)).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "fails",
+   "type": "decision",
+   "label": "PE fails the AIT — is the income adjusted tainted income (or EDCI for listed)?",
+   "body": "s 23AH(5) listed: AIT failure + adjusted tainted income + eligible designated concession income → no exemption. s 23AH(7) unlisted: AIT failure + adjusted tainted income → no exemption. s 23AH(6)/(8): tainted assets remove the capital gain/loss disregard.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "not-tainted",
+   "type": "action",
+   "label": "Not adjusted tainted income — exemption applies despite AIT failure",
+   "body": "AIT failure only bites on tainted amounts; other income remains NANE.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "assessable",
+   "type": "end",
+   "label": "Income/gain assessable (exemption denied)",
+   "body": "s 23AH(5)/(7) deny the income exemption; s 23AH(6)/(8) deny the gain disregard. FITO may apply (Div 770).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "interposed",
+   "type": "action",
+   "label": "Interposed partnerships/trusts and business disposal are also covered (ss 23AH(9)-(11))",
+   "body": "s 23AH(9): disposal income treated as business income. s 23AH(10)-(11): indirect interests through partnerships/trusts treated as derived through the company's own PE.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "final",
+   "type": "end",
+   "label": "s 23AH analysis complete",
+   "body": "Foreign branch income is NANE unless: hybrid mismatch (4A), ships/aircraft (14A), AIT failure + tainted amounts (5)/(7), tainted assets (6)/(8), or taxable Australian property (3)(c).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-ait-machinery",
+   "type": "outcome",
+   "label": "FACET — AIT machinery: the s 23AH(14) assumptions",
+   "body": "Where to look: s 23AH(12)-(14). The AIT is computed on assumptions isolating the PE: (a) only PE income counted (except for the 447(1)(a)/(c)/(e) and 450(6)(c)/(7)(d)/(8)(b) tainted-income paragraphs); (b) statutory accounting periods = years of income; (c) the PE is treated as a separate 'PE company' dealing wholly independently with the 'HQ company', with HQ income disregarded; (d) AFI entity assumptions; (e) HQ company treated as an associate of the PE company for 447(1)(a)/(c)/(e).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-tainted",
+   "type": "outcome",
+   "label": "FACET — Adjusted tainted income and tainted assets",
+   "body": "Where to look: s 23AH(13) (adjusted tainted income = Part X adjusted tainted income on the s 23AH(14) assumptions, ignoring s 446(2) and 447(1)(b),(d),(f)); s 23AH(15) definitions (tainted asset, eligible designated concession income). Passive income — interest, royalties, certain dividends, rents — is typically tainted. The EDCI overlay (s 23AH(5)(c)(ii)) only bites for listed countries.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-countries",
+   "type": "outcome",
+   "label": "FACET — Listed vs unlisted countries (s 320-321 Part X)",
+   "body": "Where to look: s 320 (listed countries — comprehensive DTA + suitable tax system), s 321 (unlisted countries), Part X generally. The distinction drives which tainted-income exception applies (EDCI overlay for listed; adjusted tainted income for both). A country's status changes — check the current regulations.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "320",
+     "title": "Listed countries"
+    }
+   ],
+   "commentary": [
+    "what-is-a-cfc"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-hybrid",
+   "type": "outcome",
+   "label": "FACET — Branch hybrid mismatch (Div 832 ITAA 1997)",
+   "body": "Where to look: Div 832 ITAA 1997 (hybrid mismatch rules — BEAP), s 832-575 (branch hybrid mismatch income), s 23AH(14C)-(14D). The s 23AH(4A) carve-out applies where a payment received by the company would otherwise give rise to a branch hybrid mismatch — the exemption is denied to the extent of the mismatch.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-definitions",
+   "type": "outcome",
+   "label": "FACET — Definitions (s 23AH(15))",
+   "body": "Where to look: s 23AH(15). 'company' excludes trustee companies; 'double tax agreement' has the Part X meaning; 'foreign income' includes amounts that would otherwise be assessable under non-CGT provisions; 'PE' is the Part X/DTA meaning; 'tainted asset' and 'eligible designated concession income' adopt the Part X definitions.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "company",
+   "label": "Foreign income derived"
+  },
+  {
+   "from": "company",
+   "to": "not-company",
+   "label": "No — not a resident company"
+  },
+  {
+   "from": "company",
+   "to": "pe",
+   "label": "Yes — resident company"
+  },
+  {
+   "from": "pe",
+   "to": "no-pe",
+   "label": "No — no PE in a listed/unlisted country"
+  },
+  {
+   "from": "pe",
+   "to": "ships",
+   "label": "PE in listed/unlisted country"
+  },
+  {
+   "from": "ships",
+   "to": "ships-excluded",
+   "label": "Yes — ships/aircraft"
+  },
+  {
+   "from": "ships",
+   "to": "hybrid",
+   "label": "Not ships/aircraft"
+  },
+  {
+   "from": "hybrid",
+   "to": "hybrid-excluded",
+   "label": "Yes — branch hybrid mismatch"
+  },
+  {
+   "from": "hybrid",
+   "to": "ait",
+   "label": "No hybrid mismatch"
+  },
+  {
+   "from": "ait",
+   "to": "passes",
+   "label": "Yes — passes AIT"
+  },
+  {
+   "from": "ait",
+   "to": "fails",
+   "label": "No — fails AIT"
+  },
+  {
+   "from": "fails",
+   "to": "not-tainted",
+   "label": "No — not adjusted tainted income/EDCI"
+  },
+  {
+   "from": "fails",
+   "to": "assessable",
+   "label": "Yes — adjusted tainted income / tainted asset + EDCI"
+  },
+  {
+   "from": "passes",
+   "to": "interposed",
+   "label": "Exemption applies"
+  },
+  {
+   "from": "not-tainted",
+   "to": "interposed",
+   "label": "Exemption applies"
+  },
+  {
+   "from": "interposed",
+   "to": "final",
+   "label": "Complete"
+  },
+  {
+   "from": "assessable",
+   "to": "final",
+   "label": "Complete"
+  },
+  {
+   "from": "ait",
+   "to": "facet-ait-machinery",
+   "label": "Facet: AIT machinery"
+  },
+  {
+   "from": "fails",
+   "to": "facet-tainted",
+   "label": "Facet: tainted income/assets"
+  },
+  {
+   "from": "pe",
+   "to": "facet-countries",
+   "label": "Facet: listed/unlisted countries"
+  },
+  {
+   "from": "hybrid",
+   "to": "facet-hybrid",
+   "label": "Facet: hybrid mismatch"
+  },
+  {
+   "from": "start",
+   "to": "facet-definitions",
+   "label": "Facet: definitions"
+  }
+ ],
+ "short": "Foreign branch income",
+ "refs": "s 23AH",
+ "sort": 8
+}

@@ -1,0 +1,498 @@
+{
+ "id": "itaa-1936-s47a-cfc-distribution-benefits",
+ "title": "Distribution benefits (CFCs) — s 47A ITAA 1936",
+ "act": "itaa-1936",
+ "part": "X",
+ "division": "",
+ "subdivision": "",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Facet map: is a CFC distribution benefit deemed a dividend under s 47A? Spine: unlisted-country CFC threshold (s 47A(1)(b)-(d), after 3 June 1990) → profits immediately before distribution (s 47A(1)(a), s 47A(15)) → eligible benefit categories — waiver (s 47A(5)-(6)), non-arm's length loan (s 47A(7)), share/right/option acquisition (s 47A(8)), property/services transfer (s 47A(10), s 47A(10A) roll-over carve-out), payment on call (s 47A(11)) → s 47A(9)/(12) exclusions (no other eligible-interest holder) with s 47A(13)-(14) recapture → deemed dividend (s 47A(1)(d)-(g)) → s 44 assessability subject to s 23AI / s 768-5 NANE (s 47A(2)). FACETS: associate definition and benefit timing (s 47A(3)-(4)), recapture (s 47A(13)-(14)), assessment machinery (s 47A(18A), (19), (20)), profits computation (s 47A(15)-(17)). Subsection coverage: s 47A(1)-(21) all mapped.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A CFC provides a distribution benefit — is it deemed a dividend under s 47A?",
+   "body": "Single question with facets. Spine: unlisted-country CFC threshold → profits → eligible benefit categories → exclusions → deemed dividend → assessability. Facets carry the machinery.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [
+    "scope-of-cfc-rules",
+    "what-is-a-cfc"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "cfc",
+    "distribution benefit",
+    "eligible benefit"
+   ]
+  },
+  {
+   "id": "threshold",
+   "type": "decision",
+   "label": "Is the first company a CFC resident in an unlisted country at the distribution time (s 47A(1)(b)-(d))?",
+   "body": "The distribution time must be after 3 June 1990 (s 47A(1)(b)); the company must be a CFC (s 47A(1)(c)) resident in an unlisted country (s 47A(1)(d)). Listed-country CFCs are outside s 47A.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "320",
+     "title": "Listed countries"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "not-cfc",
+   "type": "outcome",
+   "label": "Not an unlisted-country CFC — s 47A does not apply",
+   "body": "The benefit may still be a dividend under s 6(1) or caught by other provisions (s 44, Div 7A, transferor trust rules).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "profits",
+   "type": "decision",
+   "label": "Does the company have profits immediately before the distribution time (s 47A(1)(a))?",
+   "body": "s 47A(15): profits are computed assuming Part X (except s 47A) had applied — previously attributed income reduces distributable profits.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "no-profits",
+   "type": "outcome",
+   "label": "No profits — no deemed dividend",
+   "body": "The benefit is not deemed a dividend under s 47A(1). Other rules may still apply.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "benefit",
+   "type": "decision",
+   "label": "Is the benefit a distribution benefit within s 47A(3)-(14)?",
+   "body": "s 47A(3): an eligible benefit provided to an associated entity (or to an entity that becomes an associate), subject to ss (9)/(12). The eligible benefit categories are ss (5), (7), (8), (10), (11).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "waiver",
+   "type": "decision",
+   "label": "Is it a waiver/release of an obligation (s 47A(5))?",
+   "body": "s 47A(5): waiving or releasing an obligation to pay/repay is an eligible benefit. s 47A(6): obligation includes unenforceable or conditional obligations.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "loan",
+   "type": "decision",
+   "label": "Or a non-arm's length loan (s 47A(7))?",
+   "body": "s 47A(7): a loan is an eligible benefit where the parties are not at arm's length, or a purpose is to enable the recipient to acquire property/services from the provider or an associate.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "shares",
+   "type": "decision",
+   "label": "Or a share/right/option acquisition (s 47A(8))?",
+   "body": "s 47A(8): acquiring a share, right or option from the company is an eligible benefit — subject to the s 47A(9) exclusion (no other eligible-interest holder).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "property",
+   "type": "decision",
+   "label": "Or a property/services transfer for inadequate consideration (s 47A(10))?",
+   "body": "s 47A(10): transferring property/services for no or inadequate consideration is an eligible benefit to the extent of the shortfall. s 47A(10A): certain CGT roll-over transfers (ss 70-30/70-110 ITAA 1997) are not within s 47A(10).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "call",
+   "type": "decision",
+   "label": "Or a payment on a call on shares (s 47A(11))?",
+   "body": "s 47A(11): a payment on a call on shares is an eligible benefit — subject to the s 47A(12) exclusion (mirror of s 47A(9)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "not-eligible",
+   "type": "outcome",
+   "label": "Not an eligible benefit — no deemed dividend",
+   "body": "Outside ss 47A(5),(7),(8),(10),(11). Check the s 6(1) dividend definition and other integrity rules.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "exclusion",
+   "type": "decision",
+   "label": "Do the s 47A(9)/(12) exclusions apply?",
+   "body": "s 47A(9) (shares) and (12) (calls): NOT a distribution benefit if there is no entity (other than the provider) holding an eligible equity interest in the first company, or who is an associate of such a holder. s 47A(13)-(14): recapture where the exclusion later ceases to apply.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "excluded",
+   "type": "outcome",
+   "label": "Excluded — not a distribution benefit",
+   "body": "No other eligible-interest holder (s 47A(9)/(12)). Watch recapture under s 47A(13)-(14).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "deemed",
+   "type": "action",
+   "label": "So much of the payment as does not exceed profits is deemed a dividend (s 47A(1)(d)-(g))",
+   "body": "Deemed dividend to the recipient as shareholder, out of profits, at the distribution time. Flows into s 44.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "assessable",
+   "type": "decision",
+   "label": "Assessable under s 44, or NANE under s 23AI / s 768-5?",
+   "body": "s 47A(2): included under s 44 (s 47A(2)(a)(i)) or would be apart from s 23AI / s 768-5 (s 47A(2)(a)(ii)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "nane",
+   "type": "end",
+   "label": "NANE under s 23AI / s 768-5 ITAA 1997",
+   "body": "Not assessable to that extent — the underlying income was already attributed or the participation exemption applies.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "taxed",
+   "type": "end",
+   "label": "Deemed dividend assessable under s 44",
+   "body": "Included in assessable income under s 44. s 47A(18A) allows assessment on the assumption s 47A(2) will not be satisfied.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-assoc",
+   "type": "outcome",
+   "label": "FACET — Distribution benefit definition and associates (s 47A(3)-(4))",
+   "body": "Where to look: s 47A(3) (benefit to an associated entity, or to an entity that becomes associated, or referable to a benefit by an associate); s 47A(4) (undertaking to make arrangement transfers — the distribution time is when the undertaking was entered into). The associate concept follows s 318 Part X.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-recapture",
+   "type": "outcome",
+   "label": "FACET — Recapture (s 47A(13)-(14))",
+   "body": "Where to look: s 47A(13) (benefit excluded only because of ss (9)/(12) later becomes a distribution benefit when another eligible-interest holder appears); s 47A(14) (similar for benefits referable to the recipient's interest). The recapture time determines the distribution time.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-assessment",
+   "type": "outcome",
+   "label": "FACET — Assessment machinery (ss 47A(18)-(19))",
+   "body": "Where to look: s 47A(18A) (assessment on the assumption s 47A(2) will not be satisfied — preserves the Commissioner's ability to assess underlying CFC income); s 47A(19) (s 102AAJ applies — related assessments); s 47A(20) (listed/unlisted question determined under Part X ss 320-321).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-profits",
+   "type": "outcome",
+   "label": "FACET — Profits computation (s 47A(15))",
+   "body": "Where to look: s 47A(15) — profits determined assuming Part X (except s 47A) applied; s 47A(16)-(17) — timing and eligibility mechanics for benefits across years. The deemed dividend is capped at profits (s 47A(1)(d)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "threshold",
+   "label": "Distribution benefit provided"
+  },
+  {
+   "from": "threshold",
+   "to": "not-cfc",
+   "label": "No"
+  },
+  {
+   "from": "threshold",
+   "to": "profits",
+   "label": "Yes — unlisted-country CFC"
+  },
+  {
+   "from": "profits",
+   "to": "no-profits",
+   "label": "No — no profits"
+  },
+  {
+   "from": "profits",
+   "to": "benefit",
+   "label": "Yes — has profits"
+  },
+  {
+   "from": "benefit",
+   "to": "waiver",
+   "label": "Check benefit type"
+  },
+  {
+   "from": "waiver",
+   "to": "loan",
+   "label": "Not a waiver"
+  },
+  {
+   "from": "loan",
+   "to": "shares",
+   "label": "Not a loan"
+  },
+  {
+   "from": "shares",
+   "to": "property",
+   "label": "Not a share acquisition"
+  },
+  {
+   "from": "property",
+   "to": "call",
+   "label": "Not a property transfer"
+  },
+  {
+   "from": "call",
+   "to": "not-eligible",
+   "label": "None of the categories"
+  },
+  {
+   "from": "waiver",
+   "to": "exclusion",
+   "label": "Eligible benefit"
+  },
+  {
+   "from": "loan",
+   "to": "exclusion",
+   "label": "Eligible benefit"
+  },
+  {
+   "from": "shares",
+   "to": "exclusion",
+   "label": "Eligible benefit"
+  },
+  {
+   "from": "property",
+   "to": "exclusion",
+   "label": "Eligible benefit"
+  },
+  {
+   "from": "call",
+   "to": "exclusion",
+   "label": "Eligible benefit"
+  },
+  {
+   "from": "exclusion",
+   "to": "excluded",
+   "label": "Yes — no other holder"
+  },
+  {
+   "from": "exclusion",
+   "to": "deemed",
+   "label": "No — exclusions do not apply"
+  },
+  {
+   "from": "deemed",
+   "to": "assessable",
+   "label": "Deemed dividend"
+  },
+  {
+   "from": "assessable",
+   "to": "nane",
+   "label": "Yes — s 23AI / s 768-5 applies"
+  },
+  {
+   "from": "assessable",
+   "to": "taxed",
+   "label": "No — not NANE"
+  },
+  {
+   "from": "benefit",
+   "to": "facet-assoc",
+   "label": "Facet: associates"
+  },
+  {
+   "from": "exclusion",
+   "to": "facet-recapture",
+   "label": "Facet: recapture"
+  },
+  {
+   "from": "assessable",
+   "to": "facet-assessment",
+   "label": "Facet: assessment machinery"
+  },
+  {
+   "from": "profits",
+   "to": "facet-profits",
+   "label": "Facet: profits computation"
+  }
+ ],
+ "short": "CFC distribution benefits",
+ "refs": "s 47A · Part X",
+ "sort": 7
+}

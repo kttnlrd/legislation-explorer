@@ -1,0 +1,124 @@
+# Deceased Estates Workflow — v0.1 (draft)
+# Decision map for deceased estates: Div 128 CGT on death, beneficiary
+# acquisition, estate income (Div 6), main residence continuity, trustee
+# liability.
+# Anchors verified against local itaa-1997 / itaa-1936 corpus.
+
+id: deceased-estates
+name: Deceased Estates
+area: income-tax
+version: 0.1
+entry: [death_event]
+
+nodes:
+
+  death_event:
+    question: "Has the taxpayer died, and are we dealing with assets or income of the estate?"
+    fetch: ["itaa-1997:128-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "CGT assets held at death"
+        then: cgt_event
+      - if: "income of the estate (trust estate under Div 6)"
+        then: estate_income
+
+  cgt_event:
+    question: "CGT on death: no deemed disposal at death for assets passing to beneficiaries or the estate (s 128-10) — the beneficiary/estate inherits the deceased's cost base."
+    fetch: ["itaa-1997:128-10"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "asset passes to a beneficiary (or to the estate on trust for a beneficiary)"
+        then: beneficiary_acquisition
+      - if: "asset passes to the estate as a whole (no specific beneficiary)"
+        then: estate_acquisition
+      - if: "asset disposed of by the estate"
+        then: estate_disposal
+
+  beneficiary_acquisition:
+    question: "Beneficiary acquires the asset at date-of-death cost base (s 128-15) — the beneficiary steps into the deceased's cost base (including indexation in some cases)."
+    fetch: ["itaa-1997:128-15"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "main residence involved"
+        then: main_residence
+      - if: "pre-CGT asset (acquired before 20 Sep 1985)"
+        then: stop_pre_cgt
+      - if: "ordinary asset"
+        then: stop_done
+
+  estate_acquisition:
+    question: "Estate acquires the asset — trustee holds it for the beneficiaries; no CGT at death, cost base preserved (s 128-20)."
+    fetch: ["itaa-1997:128-20"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "asset later distributed to a beneficiary"
+        then: beneficiary_acquisition
+      - if: "asset later sold by the estate"
+        then: estate_disposal
+
+  estate_disposal:
+    question: "Estate disposes of the asset — CGT event A1 for the estate; estate's cost base is the deceased's (s 128-20); capital proceeds per Div 116."
+    fetch: ["itaa-1997:128-20"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "main residence sold by estate"
+        then: main_residence
+      - if: "other asset"
+        then: stop_done
+
+  main_residence:
+    question: "Main residence exemption continuity on death: s 118-130 (dwelling passes to beneficiary/estate) and s 118-135 (deceased's period of ownership counts toward the beneficiary's 6-year/12-month rules)."
+    fetch: ["itaa-1997:118-130", "itaa-1997:118-135"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "dwelling was deceased's main residence and exemption applies"
+        then: stop_no_cgt
+      - if: "partial exemption (proportionate)"
+        then: stop_done
+
+  stop_pre_cgt:
+    question: "Pre-CGT asset (acquired before 20 Sep 1985) — no CGT on eventual disposal by beneficiary."
+    terminal: true
+
+  stop_no_cgt:
+    question: "Main residence exemption applies — no CGT on the disposal."
+    terminal: true
+
+  estate_income:
+    question: "Income of the estate — who is assessable? (Div 6 ITAA 1936: s 99 trustee assessable where no beneficiary presently entitled; s 97/98 beneficiaries presently entitled)"
+    fetch: ["itaa-1936:99", "itaa-1936:97", "itaa-1936:98"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "beneficiary presently entitled to income"
+        then: beneficiary_income
+      - if: "no beneficiary presently entitled — trustee assessable (s 99 applies to deceased estates; note s 99A generally does NOT apply to deceased estates in first years)"
+        then: trustee_income
+
+  beneficiary_income:
+    question: "Beneficiary assessable on their share of net income (s 97/98); minors taxed at ordinary rates on estate income (testamentary trust exception to Div 6AA)."
+    fetch: ["itaa-1936:97"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "minor beneficiary — testamentary trust income exception"
+        then: stop_done
+      - if: "adult beneficiary"
+        then: stop_done
+
+  trustee_income:
+    question: "Trustee assessable on estate income not presently entitled to a beneficiary (s 99 — applies to deceased estates; special rate, not 45% default)."
+    fetch: ["itaa-1936:99"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "income accumulates or is held pending distribution"
+        then: stop_done
+
+  stop_done:
+    question: "Deceased estate analysis complete — present CGT treatment and income assessment with authorities."
+    terminal: true
+
+rules:
+  - "Death is not a CGT disposal for assets passing to beneficiaries (s 128-10) — cost base is preserved, not reset to market value."
+  - "Main residence continuity (s 118-130/118-135) is the most common relief — the deceased's ownership period counts for the beneficiary."
+  - "Estate income is Div 6 trust income: s 99 for the trustee, s 97/98 for beneficiaries."
+  - "s 99A (45% default) generally does not apply to deceased estates — s 99 applies instead (check the first 3 years rule and special circumstances)."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."

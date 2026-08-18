@@ -6,12 +6,15 @@ import { api } from './api'
 import { Tree, PinItem, COLORS } from './components/common/types'
 import { TreeNode, findExpandedIds } from './components/TreeNode'
 import MCPModal from './components/MCPModal'
+import AtoSearchModal from './components/AtoSearchModal'
 import KeyboardShortcuts from './components/KeyboardShortcuts'
 import PinnedTabs from './components/PinnedTabs'
 import SmartLinkPanel from './components/SmartLinkPanel'
 import DefinitionPopover from './components/DefinitionPopover'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
+import PrivateRulingsBrowser from './components/PrivateRulingsBrowser'
+import PrivateRulingContent from './components/PrivateRulingContent'
 import RegulatoryGuideContent from './components/RegulatoryGuideContent'
 import TaxCaseContent from './components/TaxCaseContent'
 import SettingsPanel from './components/SettingsPanel'
@@ -39,6 +42,7 @@ const isTreaty = (id: string) => TREATY_SET.has(id) && id !== 'treaties'
 
 const DOMAINS: { label: string; ids: string[] }[] = [
   { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases'] },
+  { label: 'Private Rulings', ids: ['private-rulings'] },
   { label: 'International Tax', ids: ['treaties'] },
   { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
   { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
@@ -111,11 +115,16 @@ export default function App() {
 
   const [activeRuling, setActiveRuling] = useState<string | null>(null)
   const [rulingData, setRulingData] = useState<any>(null)
+  const [activePrivateRuling, setActivePrivateRuling] = useState<string | null>(null)
+  const [privateRulingData, setPrivateRulingData] = useState<any>(null)
+  const [privateRulingsYear, setPrivateRulingsYear] = useState<number | 'undated' | null>(null)
   const [commentaryData, setCommentaryData] = useState<any>(null)
   const [casesData, setCasesData] = useState<any>(null)
   const [rulingsForSectionData, setRulingsForSectionData] = useState<any>(null)
 
   const [mcpOpen, setMcpOpen] = useState(false)
+  const [atoOpen, setAtoOpen] = useState(false)
+  const [searchPage, setSearchPage] = useState(false)
   const [showShortcuts, setShowShortcuts] = useState(false)
   const [pickerOpen, setPickerOpen] = useState(false)
   const [searchResultsCount, setSearchResultsCount] = useState(0)
@@ -144,7 +153,7 @@ export default function App() {
   const [issuesOpen, setIssuesOpen] = useState(false)
   const [changelogOpen, setChangelogOpen] = useState(false)
   const [graphOpen, setGraphOpen] = useState<{
-    type: 'section' | 'ruling' | 'case'
+    type: 'section' | 'ruling' | 'case' | 'private-ruling'
     act?: string
     section?: string
     citation?: string
@@ -205,6 +214,8 @@ export default function App() {
     setAct(targetAct)
     setActiveSection(section)
     setActiveRuling(null)
+    setActivePrivateRuling(null)
+    setSearchPage(false)
     if (anchor) {
       setTimeout(() => {
         const el = document.getElementById(anchor)
@@ -215,11 +226,15 @@ export default function App() {
   const onNavigateRuling = (citation: string) => {
     setActiveRuling(citation)
     setActiveSection('')
+    setActivePrivateRuling(null)
+    setSearchPage(false)
   }
   const onNavigateCase = (citation: string) => {
     window.history.pushState(null, '', `/tax-cases/${encodeURIComponent(citation)}`)
     setActiveSection('')
     setActiveRuling(null)
+    setActivePrivateRuling(null)
+    setSearchPage(false)
     // setActiveTaxCase(citation)
   }
 
@@ -367,9 +382,10 @@ export default function App() {
 
   // Load section / ruling content
   useEffect(() => {
-    if (!activeSection && !activeRuling) {
+    if (!activeSection && !activeRuling && !activePrivateRuling) {
       setSectionData(null)
       setRulingData(null)
+      setPrivateRulingData(null)
       setCommentaryData(null)
       setCasesData(null)
       setRulingsForSectionData(null)
@@ -379,7 +395,12 @@ export default function App() {
     // Navigating into a section/ruling leaves the map page
     setActiveMap(null)
 
-    if (activeRuling) {
+    if (activePrivateRuling) {
+      api.privateRuling(activePrivateRuling)
+        .then(data => { setPrivateRulingData(data); setError('') })
+        .catch(e => { setPrivateRulingData(null); setError(e.message) })
+      window.history.pushState(null, '', `/private-rulings/${activePrivateRuling}`)
+    } else if (activeRuling) {
       api.ruling(activeRuling)
         .then(data => { setRulingData(data); setError('') })
         .catch(e => { setRulingData(null); setError(e.message) })
@@ -413,7 +434,7 @@ export default function App() {
       window.history.pushState(null, '', `/${act}/${activeSection}`)
     }
     if (isMobile) setDrawerOpen(false)
-  }, [act, activeSection, activeRuling, isMobile])
+  }, [act, activeSection, activeRuling, activePrivateRuling, isMobile])
 
   // URL → state sync
   useEffect(() => {
@@ -421,11 +442,19 @@ export default function App() {
       // Map routes take priority: /maps/{id} and /maps (index)
       const mapMatch = window.location.pathname.match(/^\/maps\/(.+)$/)
       const mapsIndex = window.location.pathname === '/maps'
+      const isSearch = window.location.pathname === '/search'
+      const privateRulingMatch = window.location.pathname.match(/^\/private-rulings\/(.+)$/)
       const sectionMatch = window.location.pathname.match(/\/([a-z0-9-]+)\/(.+)/)
       const rulingMatch = window.location.pathname.match(/\/rulings\/(.+)/)
       const actOnlyMatch = window.location.pathname.match(/^\/([a-z0-9-]+)$/)
 
-      if (mapMatch) {
+      if (isSearch) {
+        setActiveMap(null)
+        setActiveSection('')
+        setActiveRuling(null)
+        setActivePrivateRuling(null)
+        setSearchPage(true)
+      } else if (mapMatch) {
         setActiveMap(decodeURIComponent(mapMatch[1]))
         setActiveSection('')
         setActiveRuling(null)
@@ -435,11 +464,19 @@ export default function App() {
         setActiveRuling(null)
         setAct('maps')
         setBrowsingAct(true)
+      } else if (privateRulingMatch) {
+        setActiveMap(null)
+        setAct('private-rulings')
+        setActivePrivateRuling(decodeURIComponent(privateRulingMatch[1]))
+        setActiveSection('')
+        setActiveRuling(null)
+        setBrowsingAct(true)
       } else if (rulingMatch) {
         setActiveMap(null)
         setAct('rulings')
         setActiveRuling(decodeURIComponent(rulingMatch[1]))
         setActiveSection('')
+        setActivePrivateRuling(null)
       } else if (sectionMatch) {
         setActiveMap(null)
         setAct(sectionMatch[1])
@@ -449,16 +486,19 @@ export default function App() {
         const cleanedSection = rawSection.replace(/^s(?=\d)/, '')
         setActiveSection(cleanedSection)
         setActiveRuling(null)
+        setActivePrivateRuling(null)
       } else if (actOnlyMatch) {
         setActiveMap(null)
         setAct(actOnlyMatch[1])
         setActiveSection('')
         setActiveRuling(null)
+        setActivePrivateRuling(null)
         setBrowsingAct(true)
       } else {
         setActiveMap(null)
         setActiveSection('')
         setActiveRuling(null)
+        setActivePrivateRuling(null)
       }
     }
     handler()
@@ -493,7 +533,7 @@ export default function App() {
   if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
 
   const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
-  const hasContent = !!(activeSection || activeRuling || browsingAct || activeMap)
+  const hasContent = !!(activeSection || activeRuling || activePrivateRuling || browsingAct || activeMap)
 
   return (
     <ErrorBoundary>
@@ -566,7 +606,7 @@ export default function App() {
                           <div key={domain.label}>
                             <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>{domain.label}</div>
                             {domainActs.map(a => (
-                              <button key={a.id} onClick={() => { setPickerOpen(false); setAct(a.id); setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', `/${a.id}`); if (isMobile) setDrawerOpen(false) }} style={{
+                              <button key={a.id} onClick={() => { setPickerOpen(false); setAct(a.id); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', `/${a.id}`); if (isMobile) setDrawerOpen(false) }} style={{
                                 display: 'block', width: '100%', padding: '6px 12px',
                                 background: 'transparent', border: 'none',
                                 color: act === a.id ? COLORS.accent : COLORS.text,
@@ -585,7 +625,7 @@ export default function App() {
                     {mapsList && mapsList.length > 0 && (
                       <div>
                         <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>Procedural Maps</div>
-                        <button onClick={() => { setPickerOpen(false); setAct('maps'); setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(false) }} style={{
+                        <button onClick={() => { setPickerOpen(false); setAct('maps'); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(false) }} style={{
                           display: 'block', width: '100%', padding: '6px 12px',
                           background: 'transparent', border: 'none',
                           color: act === 'maps' ? COLORS.accent : COLORS.text,
@@ -623,7 +663,7 @@ export default function App() {
         {/* Tree */}
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+            <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { setSearchPage(false); if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else if (act === 'private-rulings') { if (e === 'undated' || /^\d{4}$/.test(e)) { setPrivateRulingsYear(e === 'undated' ? 'undated' : Number(e)); setActivePrivateRuling(null); } else { setActivePrivateRuling(e); } setActiveSection(''); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
           ))}
         </div>
 
@@ -633,6 +673,25 @@ export default function App() {
           padding: isMobile ? '10px 12px' : '8px 12px',
           display: 'flex', gap: 6, alignItems: 'center',
         }}>
+          <div style={{ position: 'relative' }}>
+            <button
+              onClick={() => { setSearchPage(true); window.history.pushState(null, '', '/search'); if (isMobile) setDrawerOpen(false) }}
+              title="Search with advanced filters"
+              style={{
+                padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+                background: COLORS.bg,
+                color: COLORS.text,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+              }}
+            >
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              </svg>
+              Search
+            </button>
+          </div>
           <div ref={settingsRef} style={{ position: 'relative' }}>
             <button
               onClick={() => setSettingsOpen(true)}
@@ -760,40 +819,7 @@ export default function App() {
             </svg>
           </button>
         )}
-        {/* Sticky search bar — only when content is open */}
-        {hasContent && (
-          <div style={{
-            position: 'sticky', top: 0, zIndex: 50,
-            background: COLORS.bg,
-            padding: '6px 0 10px 0',
-            marginBottom: 8,
-          }}>
-            <div style={{ display: 'flex', gap: 6, alignItems: 'stretch' }}>
-              <div style={{ flex: 1 }}>
-                <SearchPanel
-                  acts={acts}
-                  onNavigate={(targetAct, section) => {
-                    if (targetAct === 'tax-cases') {
-                      onNavigateCase(section)
-                    } else {
-                      setAct(targetAct)
-                      if (targetAct === 'rulings') {
-                        setActiveRuling(section)
-                        setActiveSection('')
-                      } else {
-                        setActiveSection(section)
-                        setActiveRuling(null)
-                      }
-                    }
-                  }}
-                  isMobile={isMobile}
-                  onResultsChange={setSearchResultsCount}
-                />
-              </div>
-            </div>
-          </div>
-        )}
-
+        {/* Sticky search bar — removed in v3.0: search lives on /search with advanced filters */}
         {pins.length > 0 && (
           <PinnedTabs
             pins={pins}
@@ -828,8 +854,11 @@ export default function App() {
             <button
               onClick={() => {
                 const isRuling = activeRuling && rulingData
+                const isPrivateRuling = activePrivateRuling && privateRulingData
                 const isCase = window.location.pathname.startsWith('/tax-cases/')
-                if (isRuling) {
+                if (isPrivateRuling) {
+                  setGraphOpen({ type: 'private-ruling', citation: activePrivateRuling!, label: `EV/${activePrivateRuling}` })
+                } else if (isRuling) {
                   setGraphOpen({ type: 'ruling', citation: activeRuling!, label: activeRuling! })
                 } else if (isCase) {
                   const citation = window.location.pathname.replace('/tax-cases/', '')
@@ -857,7 +886,7 @@ export default function App() {
               <span style={{ fontSize: 11 }}>Graph</span>
             </button>
             <button
-              onClick={() => { setAct('maps'); setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(true) }}
+              onClick={() => { setAct('maps'); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(true) }}
               aria-label="Procedural maps"
               title="Procedural knowledge maps"
               style={{
@@ -877,7 +906,31 @@ export default function App() {
           </div>
         )}
 
-        {activeMap ? (
+        {searchPage ? (
+          <div style={{ marginTop: 4 }}>
+            <SearchPanel
+              acts={acts}
+              onNavigate={(targetAct, section) => {
+                if (targetAct === 'tax-cases') {
+                  onNavigateCase(section)
+                } else {
+                  setAct(targetAct)
+                  setSearchPage(false)
+                  if (targetAct === 'rulings') {
+                    setActiveRuling(section)
+                    setActiveSection('')
+                  } else {
+                    setActiveSection(section)
+                    setActiveRuling(null)
+                  }
+                }
+              }}
+              isMobile={isMobile}
+              onResultsChange={setSearchResultsCount}
+              onAtoSearch={() => setAtoOpen(true)}
+            />
+          </div>
+        ) : activeMap ? (
           <MapView
             mapId={activeMap}
             onClose={() => {
@@ -887,10 +940,23 @@ export default function App() {
             }}
             onOpenSection={(a, s) => {
               setActiveMap(null)
-              onNavigate(a, s)
+              if (a === 'rulings') {
+                onNavigateRuling(s)
+              } else {
+                onNavigate(a, s)
+              }
             }}
             height="calc(100vh - 150px)"
             isMobile={isMobile}
+          />
+        ) : activePrivateRuling && privateRulingData ? (
+          <PrivateRulingContent
+            data={privateRulingData}
+            isMobile={isMobile}
+            renderLink={renderLink}
+            onNavigate={onNavigate}
+            onNavigateRuling={onNavigateRuling}
+            onNavigateCase={onNavigateCase}
           />
         ) : activeRuling && rulingData ? (
           <RulingContent
@@ -924,9 +990,6 @@ export default function App() {
           <SectionContent
             act={act}
             sectionData={sectionData}
-            commentaryData={commentaryData}
-            casesData={casesData}
-            rulingsForSectionData={rulingsForSectionData}
             isMobile={isMobile}
             isPinned={isPinned}
             togglePin={togglePin}
@@ -935,7 +998,14 @@ export default function App() {
             onNavigateRuling={onNavigateRuling}
             onNavigateCase={onNavigateCase}
           />
-        ) : browsingAct && tree && act !== 'rulings' && act !== 'tax-cases' ? (
+        ) : act === 'private-rulings' && browsingAct ? (
+          <PrivateRulingsBrowser
+            year={privateRulingsYear}
+            onYearChange={setPrivateRulingsYear}
+            isMobile={isMobile}
+            onOpen={(authnum) => { setActivePrivateRuling(authnum); setActiveSection(''); setActiveRuling(null); if (isMobile) setDrawerOpen(false) }}
+          />
+        ) : browsingAct && tree && act !== 'rulings' && act !== 'tax-cases' && act !== 'private-rulings' ? (
           <div style={{ fontFamily: "'Montserrat', sans-serif" }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
               <span style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading }}>
@@ -963,7 +1033,7 @@ export default function App() {
                 }
                 collectIds(tree.parts || [])
                 return (tree.parts || []).map(p => (
-                  <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
+                  <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { setSearchPage(false); if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else if (act === 'private-rulings') { if (e === 'undated' || /^\d{4}$/.test(e)) { setPrivateRulingsYear(e === 'undated' ? 'undated' : Number(e)); setActivePrivateRuling(null); } else { setActivePrivateRuling(e); } setActiveSection(''); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
                 ))
               })()}
             </div>
@@ -974,51 +1044,44 @@ export default function App() {
             textAlign: 'center',
             fontFamily: "'Montserrat', sans-serif",
             padding: '0 16px',
-            minHeight: searchResultsCount > 0 ? 0 : '60vh',
-            justifyContent: searchResultsCount > 0 ? 'flex-start' : 'center',
+            minHeight: '60vh',
+            justifyContent: 'center',
           }}>
-            <div style={{ width: '100%', maxWidth: searchResultsCount > 0 ? '100%' : 400, marginBottom: searchResultsCount > 0 ? 0 : 24 }}>
-              <SearchPanel
-                acts={acts}
-                onNavigate={(targetAct, section) => {
-                  if (targetAct === 'tax-cases') {
-                    onNavigateCase(section)
-                  } else {
-                    setAct(targetAct)
-                    if (targetAct === 'rulings') {
-                      setActiveRuling(section)
-                      setActiveSection('')
-                    } else {
-                      setActiveSection(section)
-                      setActiveRuling(null)
-                    }
-                  }
-                }}
-                isMobile={isMobile}
-                onResultsChange={setSearchResultsCount}
-              />
+            <div style={{ fontSize: 20, fontWeight: 700, color: COLORS.heading, marginBottom: 6 }}>
+              Legislation Explorer
             </div>
-            {searchResultsCount === 0 && (
-              <>
-              <div style={{ fontSize: 11, color: COLORS.textMuted }}>
-                Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || ''}</span>
-              </div>
-
-              <div style={{ display: 'flex', gap: 12, marginTop: 12, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
-                <a
-                  onClick={() => setChangelogOpen(true)}
-                  style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif", textDecoration: 'underline' }}
-                >
-                  v{appInfo?.version || '2.7.0'}
-                </a>
-              </div>
-              </>
-            )}
+            <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 20, maxWidth: 420, lineHeight: 1.6 }}>
+              Browse acts, rulings, private rulings, tax cases, treaties and maps from the sidebar.
+              Use Search for full-text search with advanced filters.
+            </div>
+            <button
+              onClick={() => { setSearchPage(true); window.history.pushState(null, '', '/search') }}
+              style={{
+                padding: '10px 22px', borderRadius: 6,
+                background: COLORS.accent, color: '#fff',
+                border: 'none', fontSize: 13, cursor: 'pointer',
+                fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
+              }}
+            >
+              Search
+            </button>
+            <div style={{ fontSize: 11, color: COLORS.textMuted, marginTop: 20 }}>
+              Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || ''}</span>
+            </div>
+            <div style={{ display: 'flex', gap: 12, marginTop: 8, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
+              <a
+                onClick={() => setChangelogOpen(true)}
+                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif", textDecoration: 'underline' }}
+              >
+                v{appInfo?.version || '2.7.0'}
+              </a>
+            </div>
           </div>
         )}
       </div>
 
       <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
+      <AtoSearchModal open={atoOpen} onClose={() => setAtoOpen(false)} />
       {settingsOpen && <SettingsPanel onClose={() => setSettingsOpen(false)} />}
       <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
 

@@ -3,31 +3,25 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 import { COLORS } from './common/types'
-import { createMarkdownComponents } from './MarkdownRenderers'
+import { createMarkdownComponents, RenderLinkFn } from './MarkdownRenderers'
 import SmartLinkPanel from './SmartLinkPanel'
 import { api } from '../api'
 
-type SectionContentProps = {
+interface SectionContentProps {
   act: string
   sectionData: any
-  commentaryData: any
-  casesData: any
-  rulingsForSectionData: any
   isMobile: boolean
-  isPinned: boolean
-  togglePin: () => void
-  renderLink?: (href?: string, children?: React.ReactNode) => React.ReactNode | null
+  isPinned?: boolean
+  togglePin?: () => void
+  renderLink?: RenderLinkFn
   onNavigate: (act: string, section: string, anchor?: string) => void
   onNavigateRuling: (citation: string) => void
   onNavigateCase: (citation: string) => void
 }
 
-export default function SectionContent({
+const SectionContent: React.FC<SectionContentProps> = ({
   act,
   sectionData,
-  commentaryData,
-  casesData,
-  rulingsForSectionData,
   isMobile,
   isPinned,
   togglePin,
@@ -35,7 +29,7 @@ export default function SectionContent({
   onNavigate,
   onNavigateRuling,
   onNavigateCase,
-}: SectionContentProps) {
+}) => {
   const fm = sectionData?.frontmatter || {}
   const components = createMarkdownComponents(isMobile, act, onNavigate, onNavigateRuling, renderLink)
 
@@ -211,11 +205,10 @@ export default function SectionContent({
           onNavigate={onNavigate}
           onNavigateRuling={onNavigateRuling}
           onNavigateCase={onNavigateCase}
-          rulingsForSection={rulingsForSectionData?.rulings || []}
-          casesData={casesData}
-          commentaryData={commentaryData}
         />
       </div>
     </div>
   )
 }
+
+export default SectionContent

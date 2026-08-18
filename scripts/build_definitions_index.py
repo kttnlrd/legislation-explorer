@@ -28,6 +28,8 @@ ACTS = {
     "itaa-1936": "ITAA 1936",
     "gst-1999": "GST Act 1999",
     "taa-1953": "TAA 1953",
+    "fbt-1986": "FBTAA 1986",
+    "sis-1993": "SIS Act 1993",
     "corporations-act-2001": "Corporations Act 2001",
     "aml-ctf-2006": "AML/CTF Act 2006",
     "nz-it-2007": "NZ IT Act 2007",

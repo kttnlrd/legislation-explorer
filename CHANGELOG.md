@@ -1,3 +1,20 @@
+## 3.0 — 18 Aug 2026
+
+**New features**
+- **Dedicated `/search` page with advanced filters** — search moved out of the sticky header into its own route with a filter panel: match operator (All terms / Any term), date range, sort mode (best match / by section / by act), and per-source checkboxes. Sidebar Search button and landing page both route here.
+- **Shareable search URLs** — the query lives in `?q=`; direct loads and back/forward restore the term and auto-run the search.
+- **Private rulings browser** — year-driven sidebar (year counts, no "Division" labels); clicking a year drives the ruling list in the main pane.
+
+**Bugs fixed**
+- **Empty search page on direct load** — `/search?q=...` mounted with a blank query and never executed the search; query now hydrates from the URL and auto-searches on mount.
+- **Version drift** — 2.8.2 was added to the changelog without a `VERSION` bump (API kept reporting 2.8.1). Corrected with this 3.0 cut.
+
+**Verified**
+- 40/40 REST endpoints (acts, sections, rulings, private rulings, cases, treaties, search, graph, definitions, maps, info) return 200 with correct shape.
+- 24/24 MCP tools exercised end-to-end over streamable HTTP with `MCP_AUTH_TOKEN` (legacy bearer token retired → 403).
+- 345 pytest tests pass, 2 skipped.
+- Frontend flows: `/search` direct load, AND/OR + date filters, result → section deep-link with related-data tabs, private-rulings year navigation.
+
 ## 2.8.2 — 18 Aug 2026
 
 **New features**

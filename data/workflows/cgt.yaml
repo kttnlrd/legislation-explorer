@@ -1,0 +1,290 @@
+# CGT Analysis Workflow — v0.1 (draft)
+# Decision map: each node is a question; branches point to where to go next.
+# The LLM follows the map, fetching node content + graph context at each step.
+# Nodes reference sections in the itaa-1997 corpus (verified against local data).
+
+id: cgt-analysis
+name: CGT Analysis
+area: income-tax
+version: 0.1
+entry: [asset, event]
+
+# ── Node map ────────────────────────────────────────────────────────
+# Each node:
+#   question: what the LLM must determine from the facts
+#   fetch:    sections/nodes to pull content from at this step
+#   traverse: edge types to follow in the graph (rulings/cases/commentary)
+#   branches: list of {if: condition, then: next_node} — map of where you could go next
+
+nodes:
+
+  # 0. Threshold — is CGT even engaged?
+  asset:
+    question: "Is there a CGT asset involved? (s 108-5)"
+    fetch: ["itaa-1997:108-5"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "not a CGT asset (trading stock, depreciating asset, motor vehicle, personal-use asset, collectable under threshold)"
+        then: stop_no_cgt
+      - if: "is a CGT asset"
+        then: event
+
+  stop_no_cgt:
+    question: "No CGT applies — end analysis."
+    terminal: true
+
+  # 1. CGT event — what triggered it?
+  event:
+    question: "What CGT event occurred? (Div 104) — most common is A1 disposal (s 104-10)"
+    fetch: ["itaa-1997:104-10", "itaa-1997:104-165"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "no CGT event"
+        then: stop_no_cgt
+      - if: "A1 disposal (change of ownership)"
+        then: entity
+      - if: "C1-C3 (loss/destruction/cancellation)"
+        then: proceeds
+      - if: "D1-D3 (creating rights/options)"
+        then: proceeds
+      - if: "E1-E8 (trust events)"
+        then: entity
+      - if: "F1-F4 (leases)"
+        then: proceeds
+      - if: "G1-G3 (share/unit capital payments)"
+        then: proceeds
+      - if: "H2 / I1 (residency change / balancing adjustment)"
+        then: proceeds
+      - if: "J1-J6 (company/trust ceasing connection)"
+        then: entity
+      - if: "K1-K12 (miscellaneous incl. main residence, trading stock)"
+        then: entity
+      - if: "L1-L4 (losses)"
+        then: losses
+      - if: "M1-M5 (foreign)"
+        then: foreign_resident
+      - if: "P1-P2 (partial disposals)"
+        then: proceeds
+      - if: "unknown event type"
+        then: event_classify
+
+  event_classify:
+    question: "Event type unclear — retrieve rulings/cases on the facts to classify the event."
+    fetch: ["itaa-1997:104-5"]
+    traverse: ["applied_in", "considered_in"]
+    branches:
+      - if: "classified"
+        then: entity
+
+  # 2. Entity — who is the taxpayer? (drives discount, concessions, rates)
+  entity:
+    question: "Who is the taxpayer? (drives discount eligibility, small business concessions, aggregation)"
+    fetch: ["itaa-1997:102-5", "itaa-1997:115-25"]
+    traverse: ["applied_in"]
+    branches:
+      - if: "individual"
+        then: proceeds
+      - if: "company"
+        then: proceeds
+      - if: "trust (incl. deceased estate)"
+        then: trust_path
+      - if: "superannuation fund"
+        then: proceeds
+      - if: "partnership (flow-through)"
+        then: proceeds
+      - if: "foreign resident"
+        then: foreign_resident
+
+  trust_path:
+    question: "Is this a deceased estate or an inter vivos trust? (Div 128 vs Div 106/107)"
+    fetch: ["itaa-1997:128-10", "itaa-1997:106-5"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "deceased estate"
+        then: deceased_estate
+      - if: "inter vivos trust"
+        then: proceeds
+
+  deceased_estate:
+    question: "Deceased estate CGT: date-of-death cost base (s 128-10), beneficiary acquisition (s 128-15)."
+    fetch: ["itaa-1997:128-10", "itaa-1997:128-15"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "beneficiary acquired asset"
+        then: proceeds
+      - if: "estate disposed of asset"
+        then: proceeds
+      - if: "main residence involved"
+        then: main_residence
+
+  foreign_resident:
+    question: "Foreign resident CGT: Div 855 exemptions, s 855-45 (main residence), 104-165 (ceasing residency)."
+    fetch: ["itaa-1997:855-45", "itaa-1997:104-165"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "not a taxable Australian property asset"
+        then: stop_no_cgt
+      - if: "taxable Australian property"
+        then: proceeds
+
+  # 3. Consideration — capital proceeds
+  proceeds:
+    question: "What are the capital proceeds? (s 116-20, market value substitution s 116-30 if non-arm's length)"
+    fetch: ["itaa-1997:116-20", "itaa-1997:116-30"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "money + market value of property received"
+        then: cost_base
+      - if: "non-arm's length or no proceeds — market value substitution"
+        then: cost_base
+      - if: "apportionment needed (partial disposal)"
+        then: cost_base
+      - if: "forfeited deposit or other special rule"
+        then: cost_base
+
+  # 4. Cost base
+  cost_base:
+    question: "What is the cost base? (s 110-25: first element acquisition, second incidental, third holding costs)"
+    fetch: ["itaa-1997:110-25", "itaa-1997:110-55"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "need reduced cost base for a loss"
+        then: gain_loss
+      - if: "indexation (pre-21 Sep 1999 acquisition)"
+        then: indexation
+      - if: "ordinary cost base"
+        then: gain_loss
+
+  indexation:
+    question: "Indexation alternative: asset acquired pre-21 Sep 1999, held 12+ months (Div 114)."
+    fetch: ["itaa-1997:114-1"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "indexed cost base"
+        then: gain_loss
+      - if: "discount preferred"
+        then: discount
+
+  # 5. Gain or loss
+  gain_loss:
+    question: "Compare proceeds vs cost base: gain or loss?"
+    fetch: ["itaa-1997:104-10"]
+    traverse: ["applied_in"]
+    branches:
+      - if: "capital gain"
+        then: exemptions
+      - if: "capital loss"
+        then: losses
+
+  # 6. Exemptions / reductions
+  exemptions:
+    question: "Does an exemption or reduction apply? (Div 118 exemptions)"
+    fetch: ["itaa-1997:118-110", "itaa-1997:118-145"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "main residence (s 118-110 to 118-175)"
+        then: main_residence
+      - if: "personal use / collectable / car exemptions (s 118-5, 118-10)"
+        then: net_gain
+      - if: "small business concessions (Div 152)"
+        then: small_business
+      - if: "rollover applies (Div 122-126)"
+        then: rollover
+      - if: "no exemption"
+        then: discount
+
+  main_residence:
+    question: "Main residence exemption: full or partial? (s 118-110, 118-145 partial; 6-year absence rule; foreign resident s 855-45)"
+    fetch: ["itaa-1997:118-110", "itaa-1997:118-145", "itaa-1997:855-45"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "full exemption"
+        then: stop_no_cgt
+      - if: "partial exemption (proportion of period)"
+        then: discount
+      - if: "choice of dwelling or 6-year rule"
+        then: discount
+
+  small_business:
+    question: "Small business concessions: basic conditions (s 152-10), then which concession?"
+    fetch: ["itaa-1997:152-10", "itaa-1997:152-105", "itaa-1997:152-110", "itaa-1997:152-115", "itaa-1997:152-125"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "15-year exemption (s 152-105)"
+        then: net_gain
+      - if: "50% reduction (s 152-110)"
+        then: net_gain
+      - if: "retirement exemption (s 152-115)"
+        then: net_gain
+      - if: "rollover (s 152-125)"
+        then: net_gain
+      - if: "fails basic conditions"
+        then: discount
+
+  rollover:
+    question: "Rollover: same-asset (Div 126), replacement-asset (Div 124), scrip-for-scrip (s 124-780), marriage breakdown (Div 126), demerger (Div 125)?"
+    fetch: ["itaa-1997:122-1", "itaa-1997:124-780", "itaa-1997:126-1"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "rollover applies — gain deferred"
+        then: stop_rollover
+      - if: "partial rollover"
+        then: discount
+      - if: "does not qualify"
+        then: discount
+
+  stop_rollover:
+    question: "Gain rolled over — no CGT now; carry cost-base reference to new asset."
+    terminal: true
+
+  # 7. Discount
+  discount:
+    question: "Discount capital gain: 12-month holding; 50% individual/trust, 33.33% super, nil company."
+    fetch: ["itaa-1997:115-25"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "individual/trust, 12+ months — 50% discount"
+        then: net_gain
+      - if: "super fund, 12+ months — 33.33% discount"
+        then: net_gain
+      - if: "company — no discount"
+        then: net_gain
+      - if: "held under 12 months — no discount"
+        then: net_gain
+
+  # 8. Losses
+  losses:
+    question: "Capital loss: reduced cost base exceeds proceeds. Apply current-year losses, then prior-year carry-forward (s 102-5)."
+    fetch: ["itaa-1997:102-5", "itaa-1997:102-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "loss carried forward"
+        then: stop_loss
+      - if: "loss against other gains"
+        then: net_gain
+
+  stop_loss:
+    question: "Capital loss recorded — no assessable income from this event."
+    terminal: true
+
+  # 9. Net capital gain
+  net_gain:
+    question: "Aggregate: sum gains, apply losses, apply discount, include in assessable income (s 102-5)."
+    fetch: ["itaa-1997:102-5"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "net capital gain included in assessable income"
+        then: stop_done
+
+  stop_done:
+    question: "Analysis complete — present the computation path with authorities."
+    terminal: true
+
+# ── Guidance for the LLM ────────────────────────────────────────────
+rules:
+  - "At each node: retrieve the fetched sections, then pull graph context (rulings interpreting/applying/considering them), then branch."
+  - "Prefer explicit statutory order: asset, event, entity, proceeds, cost base, exemptions, discount, aggregation."
+  - "If facts are ambiguous, traverse the graph for guidance (private rulings are fact-specific) before guessing."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."
+  - "Small business concessions require basic conditions first (s 152-10) — do not skip."
+  - "Indexation and discount are alternatives for pre-21 Sep 1999 assets — compute both, present the better result (subject to law)."

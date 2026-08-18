@@ -5,7 +5,7 @@ import hashlib
 import json as _json
 import logging
 
-from fastapi import APIRouter
+from fastapi import APIRouter, Body, HTTPException
 
 from backend.services.tax_case_sql import _sql_dict, _sql_write
 
@@ -59,13 +59,22 @@ def list_issues(status: str | None = None):
 @router.post("/api/issues")
 def create_issue(
     category: str = "bug",
-    tool: str | None = None,
-    params: str | None = None,
-    expected: str | None = None,
-    actual: str | None = None,
-    note: str | None = None,
+    tool: str | None = Body(None),
+    params: str | None = Body(None),
+    expected: str | None = Body(None),
+    actual: str | None = Body(None),
+    note: str | None = Body(None),
 ):
     """Create a new manual bug report in the issues table."""
+    if not any(
+        str(v).strip()
+        for v in (tool, params, expected, actual, note)
+        if v is not None
+    ):
+        raise HTTPException(
+            status_code=422,
+            detail="Issue submission must include at least one of tool, params, expected, actual, note",
+        )
     max_rows = _sql_dict(["next_id"], "SELECT COALESCE(MAX(id), 0) + 1 AS next_id FROM issues")
     next_id = max_rows[0]["next_id"] if max_rows else 1
     ticket = f"CDN-{next_id:04d}"

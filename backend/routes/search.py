@@ -317,7 +317,9 @@ def search_suggest(q: str, limit: int = 12):
 
 
 @router.get("/api/search/hybrid")
-def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | None = None, offset: int = 0):
+def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | None = None,
+                  offset: int = 0, operator: str = "AND",
+                  date_from: str | None = None, date_to: str | None = None):
     if limit > 50:
         limit = 50
     if offset < 0:
@@ -327,13 +329,16 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
     if not SEARCH_DB.exists():
         build_search_index()
 
+    if operator not in ("AND", "OR"):
+        operator = "AND"
+
     # Parse type filter
     type_filter: set[str] | None = None
     if type:
         type_filter = set(type.lower().split(","))
 
     try:
-        fts_results = fts_search(q, act, limit=50).get("results", [])
+        fts_results = fts_search(q, act, limit=50, operator=operator).get("results", [])
     except Exception:
         logger.exception("FTS search failed")
         fts_results = []
@@ -342,7 +347,7 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         fts_results = []
 
     try:
-        ruling_results = search_rulings(q, limit=50) if not act or act == "rulings" else []
+        ruling_results = search_rulings(q, limit=50, operator=operator) if not act or act == "rulings" else []
     except Exception:
         logger.exception("Ruling FTS search failed")
         ruling_results = []
@@ -384,6 +389,7 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
                         "section": parts[0],
                         "title": parts[1],
                         "court": parts[2],
+                        "date": parts[3] if len(parts) > 3 else "",
                         "snippet": f"{parts[1]} — Decided {parts[3]}" if parts[3] else parts[1],
                     })
     except Exception:
@@ -393,7 +399,7 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
     fts_case_results: list[dict] = []
     try:
         from backend.services.search_service import search_cases_fts
-        for cr in search_cases_fts(q, limit=20):
+        for cr in search_cases_fts(q, limit=20, operator=operator):
             fts_case_results.append({
                 "act": "tax-cases",
                 "section": cr["citation"],
@@ -465,6 +471,36 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
 
     ranked_keys = sorted(scores, key=lambda k: -scores[k])
     total = len(ranked_keys)
+
+    # Date-range filter — applies to dated items (rulings by year, cases by
+    # decision date). Undated items are kept; dated items outside the window
+    # are dropped. Sections have no date and are unaffected.
+    if date_from or date_to:
+        def _item_date(key) -> str | None:
+            item = merged[key]
+            st = item.get("source_type")
+            if st == "ruling":
+                y = item.get("year")
+                return f"{y}-01-01" if y else None
+            if st == "case":
+                d = item.get("date") or item.get("decision_date")
+                if d:
+                    return str(d)[:10]
+                y = item.get("year")
+                return f"{y}-01-01" if y else None
+            return None
+
+        kept = []
+        for key in ranked_keys:
+            d = _item_date(key)
+            if d:
+                if date_from and d < date_from:
+                    continue
+                if date_to and d > date_to:
+                    continue
+            kept.append(key)
+        ranked_keys = kept
+        total = len(ranked_keys)
 
     # Rerank the top candidates, then slice — pagination semantics (total) unchanged.
     # `score`/`fusion_score` stay the RRF score; rerank only affects ordering.

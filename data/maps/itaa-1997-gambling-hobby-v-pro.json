@@ -1,225 +1,338 @@
 {
-  "id": "itaa-1997-gambling-hobby-v-pro",
-  "title": "Gambling: hobby v professional — assessability and deductions",
-  "short": "Gambling winnings & losses",
-  "refs": "ss 6-5, 8-1 ITAA 1997",
-  "act": "itaa-1997",
-  "part": "",
-  "division": "",
-  "subdivision": "",
-  "compilation_no": 263,
-  "compilation_date": "2026-04-01",
-  "summary": "Whether gambling winnings are assessable income and losses deductible depends on whether the activity amounts to a business or is merely a hobby. A professional gambler's winnings are ordinary income under s 6-5 and losses are deductible under s 8-1(1); a hobby gambler's winnings are not assessable and losses are non-deductible under the private/domestic exclusion in s 8-1(2)(b). The distinction is a question of fact guided by indicators from case law. Coverage: ss 6-5, 8-1, 995-1 ITAA 1997.",
-  "nodes": [
+ "id": "itaa-1997-gambling-hobby-v-pro",
+ "title": "Gambling: hobby v professional — assessability and deductions",
+ "short": "Gambling winnings & losses",
+ "refs": "ss 6-5, 8-1 ITAA 1997",
+ "act": "itaa-1997",
+ "part": "",
+ "division": "",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Whether gambling winnings are assessable income and losses deductible depends on whether the activity amounts to a business or is merely a hobby. A professional gambler's winnings are ordinary income under s 6-5 and losses are deductible under s 8-1(1); a hobby gambler's winnings are not assessable and losses are non-deductible under the private/domestic exclusion in s 8-1(2)(b). The distinction is a question of fact guided by indicators from case law. Coverage: ss 6-5, 8-1, 995-1 ITAA 1997.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You engage in gambling activities and receive winnings",
+   "body": "Whether your gambling winnings are assessable income and your losses deductible turns on whether you are carrying on a business of gambling or gambling as a mere hobby. This is a question of fact and degree.",
+   "statute": [],
+   "commentary": [
+    "betting-and-gambling-wins"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-business",
+   "type": "decision",
+   "label": "Do your gambling activities constitute carrying on a business?",
+   "body": "The High Court in Stone [2005] HCA 21 identified relevant indicators: scale of operations, repetition and regularity, system and organisation, keeping of records, extent of skill versus chance, and intention to make a profit. No single factor is decisive.",
+   "statute": [
     {
-      "id": "start",
-      "type": "start",
-      "label": "You engage in gambling activities and receive winnings",
-      "body": "Whether your gambling winnings are assessable income and your losses deductible turns on whether you are carrying on a business of gambling or gambling as a mere hobby. This is a question of fact and degree.",
-      "statute": [],
-      "commentary": ["betting-and-gambling-wins"],
-      "cases": [],
-      "definitions": []
-    },
-    {
-      "id": "dec-business",
-      "type": "decision",
-      "label": "Do your gambling activities constitute carrying on a business?",
-      "body": "The High Court in Stone [2005] HCA 21 identified relevant indicators: scale of operations, repetition and regularity, system and organisation, keeping of records, extent of skill versus chance, and intention to make a profit. No single factor is decisive.",
-      "statute": [
-        {
-          "act": "itaa-1997",
-          "section": "6-5",
-          "title": "Income according to ordinary concepts (ordinary income)"
-        }
-      ],
-      "commentary": ["betting-and-gambling-wins", "prizes-and-awards"],
-      "cases": [
-        {
-          "citation": "[2005] HCA 21",
-          "note": "Stone — sportsperson business indicators: scale, repetition, system, organisation, records, skill vs chance, profit intent"
-        }
-      ],
-      "definitions": ["business"]
-    },
-    {
-      "id": "branch-pro",
-      "type": "action",
-      "label": "Professional gambler — gambling is a business or profession",
-      "body": "If your gambling activities exhibit sufficient indicators of a business — particularly system, organisation, commercial scale and profit-making intention — the activity is a business or profession. Full-time professional gamblers (Evans), bookmakers (Martin) and systematic punters (Babka) fall on this side of the line.",
-      "statute": [],
-      "commentary": ["betting-and-gambling-wins"],
-      "cases": [
-        {
-          "citation": "[1989] FCA 205",
-          "note": "Evans — full-time professional gambler; winnings held to be assessable as ordinary income"
-        },
-        {
-          "citation": "[1953] HCA 100",
-          "note": "Martin — bookmaker; betting winnings assessable as income from a business"
-        },
-        {
-          "citation": "[1989] FCA 383",
-          "note": "Babka — systematic punter with organisation and profit motive; winnings assessable"
-        }
-      ],
-      "definitions": ["business"]
-    },
-    {
-      "id": "act-assessable-wins",
-      "type": "action",
-      "label": "Professional: winnings are assessable as ordinary income under s 6-5",
-      "body": "Winnings derived from a gambling business are ordinary income according to ordinary concepts and included in assessable income under s 6-5(1). The winnings are of the same character as receipts from any other income-producing business activity.",
-      "statute": [
-        {
-          "act": "itaa-1997",
-          "section": "6-5",
-          "title": "Income according to ordinary concepts (ordinary income)"
-        }
-      ],
-      "commentary": ["betting-and-gambling-wins"],
-      "cases": [
-        {
-          "citation": "[1989] FCA 205",
-          "note": "Evans — professional punter's winnings were ordinary income"
-        }
-      ],
-      "definitions": ["assessable income", "ordinary income"]
-    },
-    {
-      "id": "act-deductible-losses",
-      "type": "action",
-      "label": "Professional: gambling losses are deductible under s 8-1(1)",
-      "body": "Losses and outgoings incurred in the course of carrying on a gambling business are deductible under s 8-1(1) as losses incurred in gaining or producing assessable income, or necessarily incurred in carrying on a business for that purpose. The private/domestic exclusion in s 8-1(2)(b) does not apply because the losses are business expenditure.",
-      "statute": [
-        {
-          "act": "itaa-1997",
-          "section": "8-1",
-          "title": "General deductions"
-        }
-      ],
-      "commentary": ["betting-and-gambling-wins"],
-      "cases": [],
-      "definitions": ["business"]
-    },
-    {
-      "id": "end-pro",
-      "type": "end",
-      "label": "Professional gambler — net profit included in assessable income",
-      "body": "The net result of your gambling business (winnings minus deductible losses) is included in your assessable income. You pay income tax on the net profit from gambling as part of your ordinary income.",
-      "statute": [],
-      "commentary": ["betting-and-gambling-wins"],
-      "cases": [],
-      "definitions": ["assessable income"]
-    },
-    {
-      "id": "branch-hobby",
-      "type": "action",
-      "label": "Hobby gambler — not a business",
-      "body": "If your gambling lacks the characteristics of a business — infrequent or casual betting, no system or organisation, motive is recreation rather than profit — the activity is a hobby. A mere hobby punter's winnings are a windfall, not ordinary income (Brajkovich).",
-      "statute": [],
-      "commentary": ["prizes-and-awards"],
-      "cases": [
-        {
-          "citation": "[1989] FCA 454",
-          "note": "Brajkovich — hobby punter; winnings not assessable as they were not ordinary income and not the product of a business"
-        }
-      ],
-      "definitions": ["business"]
-    },
-    {
-      "id": "act-non-assessable-wins",
-      "type": "action",
-      "label": "Hobby: winnings are not assessable income",
-      "body": "Winnings from hobby gambling are a windfall gain, not income according to ordinary concepts. They are not derived from any business, employment, or income-producing activity, and therefore are not included in assessable income under s 6-5. Prizes and awards may also be non-assessable depending on their character.",
-      "statute": [
-        {
-          "act": "itaa-1997",
-          "section": "6-5",
-          "title": "Income according to ordinary concepts (ordinary income)"
-        }
-      ],
-      "commentary": ["prizes-and-awards"],
-      "cases": [
-        {
-          "citation": "[1989] FCA 454",
-          "note": "Brajkovich — casual punter; winnings not ordinary income"
-        }
-      ],
-      "definitions": ["assessable income", "ordinary income"]
-    },
-    {
-      "id": "act-non-deductible-losses",
-      "type": "action",
-      "label": "Hobby: losses are not deductible — s 8-1(2)(b) private/domestic exclusion",
-      "body": "Gambling losses incurred by a hobby gambler are of a private or domestic nature and therefore cannot be deducted under s 8-1. Section 8-1(2)(b) expressly excludes losses or outgoings of a private or domestic nature. Since the losses are not incurred in gaining or producing assessable income or in carrying on a business, they are not deductible.",
-      "statute": [
-        {
-          "act": "itaa-1997",
-          "section": "8-1",
-          "title": "General deductions"
-        }
-      ],
-      "commentary": ["betting-and-gambling-wins"],
-      "cases": [],
-      "definitions": []
-    },
-    {
-      "id": "end-hobby",
-      "type": "end",
-      "label": "Hobby gambler — no income tax consequences from gambling",
-      "body": "As a hobby gambler, your winnings are not assessable income and your losses are not deductible. There are no net income tax implications from your gambling activities, although you must still declare any other assessable income.",
-      "statute": [],
-      "commentary": ["prizes-and-awards"],
-      "cases": [],
-      "definitions": []
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
     }
-  ],
-  "edges": [
+   ],
+   "commentary": [
+    "betting-and-gambling-wins",
+    "prizes-and-awards"
+   ],
+   "cases": [
     {
-      "from": "start",
-      "to": "dec-business",
-      "label": "you receive winnings"
-    },
-    {
-      "from": "dec-business",
-      "to": "branch-pro",
-      "label": "yes — business indicators present"
-    },
-    {
-      "from": "dec-business",
-      "to": "branch-hobby",
-      "label": "no — casual or recreational"
-    },
-    {
-      "from": "branch-pro",
-      "to": "act-assessable-wins",
-      "label": "business found"
-    },
-    {
-      "from": "act-assessable-wins",
-      "to": "act-deductible-losses",
-      "label": "winnings assessable"
-    },
-    {
-      "from": "act-deductible-losses",
-      "to": "end-pro",
-      "label": "losses deductible"
-    },
-    {
-      "from": "branch-hobby",
-      "to": "act-non-assessable-wins",
-      "label": "hobby found"
-    },
-    {
-      "from": "act-non-assessable-wins",
-      "to": "act-non-deductible-losses",
-      "label": "winnings not assessable"
-    },
-    {
-      "from": "act-non-deductible-losses",
-      "to": "end-hobby",
-      "label": "losses not deductible"
+     "citation": "2005_HCA_21",
+     "note": "Stone — sportsperson business indicators: scale, repetition, system, organisation, records, skill vs chance, profit intent"
     }
-  ]
+   ],
+   "definitions": [
+    "business"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1992_4",
+     "title": "3662 Related Rulings/Determinations: TR 92/3"
+    },
+    {
+     "id": "TR_1992_7",
+     "title": "Total Income Please note that the PDF version is the authorised consolidated version of…"
+    },
+    {
+     "id": "TR_1993_25",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "branch-pro",
+   "type": "action",
+   "label": "Professional gambler — gambling is a business or profession",
+   "body": "If your gambling activities exhibit sufficient indicators of a business — particularly system, organisation, commercial scale and profit-making intention — the activity is a business or profession. Full-time professional gamblers (Evans), bookmakers (Martin) and systematic punters (Babka) fall on this side of the line.",
+   "statute": [],
+   "commentary": [
+    "betting-and-gambling-wins"
+   ],
+   "cases": [
+    {
+     "citation": "1989_FCA_205",
+     "note": "Evans — full-time professional gambler; winnings held to be assessable as ordinary income"
+    },
+    {
+     "citation": "1953_HCA_100",
+     "note": "Martin — bookmaker; betting winnings assessable as income from a business"
+    },
+    {
+     "citation": "1989_FCA_383",
+     "note": "Babka — systematic punter with organisation and profit motive; winnings assessable"
+    }
+   ],
+   "definitions": [
+    "business"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "act-assessable-wins",
+   "type": "action",
+   "label": "Professional: winnings are assessable as ordinary income under s 6-5",
+   "body": "Winnings derived from a gambling business are ordinary income according to ordinary concepts and included in assessable income under s 6-5(1). The winnings are of the same character as receipts from any other income-producing business activity.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "betting-and-gambling-wins"
+   ],
+   "cases": [
+    {
+     "citation": "1989_FCA_205",
+     "note": "Evans — professional punter's winnings were ordinary income"
+    }
+   ],
+   "definitions": [
+    "assessable income",
+    "ordinary income"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1994_13",
+     "title": "trading stock and derivation of income under various selling options Please note that the…"
+    },
+    {
+     "id": "TR_1994_9",
+     "title": "trading stock and derivation of income under various selling options &bull; Taxation…"
+    },
+    {
+     "id": "TR_1995_5",
+     "title": "Financial Reporting of General Insurance Activities). Facultative reinsurance 54.…"
+    }
+   ]
+  },
+  {
+   "id": "act-deductible-losses",
+   "type": "action",
+   "label": "Professional: gambling losses are deductible under s 8-1(1)",
+   "body": "Losses and outgoings incurred in the course of carrying on a gambling business are deductible under s 8-1(1) as losses incurred in gaining or producing assessable income, or necessarily incurred in carrying on a business for that purpose. The private/domestic exclusion in s 8-1(2)(b) does not apply because the losses are business expenditure.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "betting-and-gambling-wins"
+   ],
+   "cases": [],
+   "definitions": [
+    "business"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1993_17",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TR_1993_30",
+     "title": "(a) is the cost per unit of power used; (b) is the average units used per hour; and (c)…"
+    },
+    {
+     "id": "TR_1994_22",
+     "title": "Australian public, other departments, businesses, and sometimes, Ministers. Is there a…"
+    }
+   ]
+  },
+  {
+   "id": "end-pro",
+   "type": "end",
+   "label": "Professional gambler — net profit included in assessable income",
+   "body": "The net result of your gambling business (winnings minus deductible losses) is included in your assessable income. You pay income tax on the net profit from gambling as part of your ordinary income.",
+   "statute": [],
+   "commentary": [
+    "betting-and-gambling-wins"
+   ],
+   "cases": [],
+   "definitions": [
+    "assessable income"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "branch-hobby",
+   "type": "action",
+   "label": "Hobby gambler — not a business",
+   "body": "If your gambling lacks the characteristics of a business — infrequent or casual betting, no system or organisation, motive is recreation rather than profit — the activity is a hobby. A mere hobby punter's winnings are a windfall, not ordinary income (Brajkovich).",
+   "statute": [],
+   "commentary": [
+    "prizes-and-awards"
+   ],
+   "cases": [
+    {
+     "citation": "1989_FCA_454",
+     "note": "Brajkovich — hobby punter; winnings not assessable as they were not ordinary income and not the product of a business"
+    }
+   ],
+   "definitions": [
+    "business"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "act-non-assessable-wins",
+   "type": "action",
+   "label": "Hobby: winnings are not assessable income",
+   "body": "Winnings from hobby gambling are a windfall gain, not income according to ordinary concepts. They are not derived from any business, employment, or income-producing activity, and therefore are not included in assessable income under s 6-5. Prizes and awards may also be non-assessable depending on their character.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "prizes-and-awards"
+   ],
+   "cases": [
+    {
+     "citation": "1989_FCA_454",
+     "note": "Brajkovich — casual punter; winnings not ordinary income"
+    }
+   ],
+   "definitions": [
+    "assessable income",
+    "ordinary income"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1996_19",
+     "title": "0731 Subject References: - accruals basis of accounting - assessable income - cash basis…"
+    },
+    {
+     "id": "TR_1996_2",
+     "title": "where the same premium is charged the assumption is that the risk is substantially equal…"
+    },
+    {
+     "id": "TR_1996_20",
+     "title": "such as a cash discount, a trade discount and a quantity or a bulk discount - are treated…"
+    }
+   ]
+  },
+  {
+   "id": "act-non-deductible-losses",
+   "type": "action",
+   "label": "Hobby: losses are not deductible — s 8-1(2)(b) private/domestic exclusion",
+   "body": "Gambling losses incurred by a hobby gambler are of a private or domestic nature and therefore cannot be deducted under s 8-1. Section 8-1(2)(b) expressly excludes losses or outgoings of a private or domestic nature. Since the losses are not incurred in gaining or producing assessable income or in carrying on a business, they are not deductible.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "betting-and-gambling-wins"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_1994_26",
+     "title": "meaning of incurred - implications of the High Court decision in Coles Myer Finance…"
+    },
+    {
+     "id": "TR_1995_10",
+     "title": "allowances, reimbursements and work-related deductions Please note that the PDF version…"
+    },
+    {
+     "id": "TR_1995_11",
+     "title": "allowances, reimbursements and work-related deductions Please note that the PDF version…"
+    }
+   ]
+  },
+  {
+   "id": "end-hobby",
+   "type": "end",
+   "label": "Hobby gambler — no income tax consequences from gambling",
+   "body": "As a hobby gambler, your winnings are not assessable income and your losses are not deductible. There are no net income tax implications from your gambling activities, although you must still declare any other assessable income.",
+   "statute": [],
+   "commentary": [
+    "prizes-and-awards"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-business",
+   "label": "you receive winnings"
+  },
+  {
+   "from": "dec-business",
+   "to": "branch-pro",
+   "label": "yes — business indicators present"
+  },
+  {
+   "from": "dec-business",
+   "to": "branch-hobby",
+   "label": "no — casual or recreational"
+  },
+  {
+   "from": "branch-pro",
+   "to": "act-assessable-wins",
+   "label": "business found"
+  },
+  {
+   "from": "act-assessable-wins",
+   "to": "act-deductible-losses",
+   "label": "winnings assessable"
+  },
+  {
+   "from": "act-deductible-losses",
+   "to": "end-pro",
+   "label": "losses deductible"
+  },
+  {
+   "from": "branch-hobby",
+   "to": "act-non-assessable-wins",
+   "label": "hobby found"
+  },
+  {
+   "from": "act-non-assessable-wins",
+   "to": "act-non-deductible-losses",
+   "label": "winnings not assessable"
+  },
+  {
+   "from": "act-non-deductible-losses",
+   "to": "end-hobby",
+   "label": "losses not deductible"
+  }
+ ],
+ "sort": 19
 }

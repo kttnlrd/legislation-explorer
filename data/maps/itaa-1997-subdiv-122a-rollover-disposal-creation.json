@@ -1,0 +1,854 @@
+{
+ "id": "itaa-1997-subdiv-122a-rollover-disposal-creation",
+ "title": "Subdivision 122-A roll-over — disposal/creation of assets to a wholly-owned company",
+ "act": "itaa-1997",
+ "part": "3-3",
+ "division": "122",
+ "subdivision": "122-A",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "An individual or trustee can defer CGT on transferring a CGT asset, or all the assets of a business, to a company they wholly own (or on creating a CGT asset in that company), by choosing a roll-over. The gain/loss is disregarded and the CGT cost base moves into the shares received (and into the assets in the company's hands). The map below walks the eligibility conditions in order, then the consequences. Subsection coverage: operative sections 122-15, 122-20, 122-25, 122-35, 122-37, 122-40, 122-50, 122-55, 122-60, 122-65, 122-70, 122-75, 103-25 mapped to nodes; 103-25 (machinery); 328-G (transitional).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "Individual or trustee holds a CGT asset, or all the assets of a business",
+   "body": "The roll-over is available to an individual or a trustee (not a company, partnership or super fund). The transfer must be to a company.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-15",
+     "title": "Disposal or creation of assets—wholly-owned company"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "company"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2001_764",
+     "title": "Income Tax: Capital gains tax: roll-over of partnership assets"
+    },
+    {
+     "id": "AID_2002_172",
+     "title": "Income Tax: Capital gains tax: roll-over to a wholly owned company"
+    },
+    {
+     "id": "AID_2002_361",
+     "title": "Capital Gains Tax: rollover into wholly-owned company"
+    }
+   ]
+  },
+  {
+   "id": "dec-entity-type",
+   "type": "decision",
+   "label": "Are you an individual or a trustee? (Not a company, partnership or super fund)",
+   "body": "The roll-over is only available to an individual or a trustee. Companies, partnerships and superannuation funds cannot use this roll-over (s 122-15).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-15",
+     "title": "Disposal or creation of assets—wholly-owned company"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2004_8",
+     "title": "Capital gains tax: rollover by trustee to wholly owned company - meaning of 'trustee'"
+    },
+    {
+     "id": "AID_2004_94",
+     "title": "Capital gains tax: Subdivision 122-A rollover: no consideration received"
+    },
+    {
+     "id": "AID_2004_95",
+     "title": "Capital gains tax: Subdivision 122-A rollover: shares transferred from current…"
+    }
+   ]
+  },
+  {
+   "id": "dec-entity-type",
+   "type": "decision",
+   "label": "Are you an individual or a trustee? (Not a company, partnership or super fund)",
+   "body": "The roll-over is only available to an individual or a trustee. Companies, partnerships and superannuation funds cannot use this roll-over (s 122-15).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-15",
+     "title": "Disposal or creation of assets—wholly-owned company"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2005_218",
+     "title": "Capital gains tax: roll-over to wholly owned company - business asset - part use"
+    }
+   ]
+  },
+  {
+   "id": "trigger-event",
+   "type": "event",
+   "label": "A trigger event happens: dispose of an asset/business, or create a CGT asset in the company",
+   "body": "The CGT events that qualify (s 122-15): A1 — dispose of a CGT asset, or all the assets of a business, to the company; D1 — create contractual or other rights in the company; D2 — grant an option to the company; D3 — grant the company a right to income from mining; F1 — grant a lease to the company, or renew or extend a lease.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-15",
+     "title": "Disposal or creation of assets—wholly-owned company"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt event",
+    "dispose"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-consideration",
+   "type": "decision",
+   "label": "Is the only consideration shares in the company (non-redeemable), optionally plus the company undertaking to discharge liabilities?",
+   "body": "For a disposal case: shares only, or shares + company undertakes to discharge one or more liabilities in respect of the asset(s). For a creation case: shares only. The shares cannot be redeemable shares.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-20",
+     "title": "What you receive for the trigger event"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-20",
+     "title": "What you receive for the trigger event"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "shares",
+    "redeemable shares",
+    "disposal"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-market-value",
+   "type": "decision",
+   "label": "Is the market value of the shares substantially the same as the value of what you disposed of (net of assumed liabilities) or the created asset?",
+   "body": "Disposal case: MV of shares ≈ MV of asset(s) disposed of, less liabilities the company undertakes to discharge. Creation case: MV of shares ≈ MV of the created asset. Disregard differences caused only by the possibility of liabilities attaching to the asset (s 122-20(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-20",
+     "title": "What you receive for the trigger event"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-20",
+     "title": "What you receive for the trigger event"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "market value"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-ownership",
+   "type": "decision",
+   "label": "Do you own ALL the shares in the company just after the trigger event?",
+   "body": "You must own all the shares in the company just after the trigger event, in the same capacity as you owned or created the assets the company now owns.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-25",
+     "title": "Other requirements to be satisfied"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "shares"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-asset-type",
+   "type": "decision",
+   "label": "Is the asset a precluded asset, or in the excluded list?",
+   "body": "Roll-over is NOT available for: collectables, personal use assets, a decoration awarded for valour or brave conduct (unless you paid for it), precluded assets, or an asset that becomes trading stock or a registered emissions unit of the company just after the trigger event. Precluded assets: depreciating assets, trading stock, an interest in the copyright in a CGT-exempt film (s 118-30), registered emissions units. Exception for business disposals: trading stock/emissions units can be rolled over if they were your trading stock/units when disposed of; precluded assets can be included in a disposal of all the assets of a business.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-25",
+     "title": "Other requirements to be satisfied"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-25",
+     "title": "Other requirements to be satisfied"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-25",
+     "title": "Other requirements to be satisfied"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "precluded asset",
+    "trading stock",
+    "depreciating asset",
+    "collectable",
+    "personal use asset",
+    "registered emissions unit"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-exempt-entity",
+   "type": "decision",
+   "label": "Is the company's income NOT exempt from tax?",
+   "body": "The ordinary income and statutory income of the company must not be exempt from income tax because it is an exempt entity for the income year of the trigger event.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-25",
+     "title": "Other requirements to be satisfied"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "exempt entity"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-residency",
+   "type": "decision",
+   "label": "Residency: are both transferor and company Australian residents (or TAP conditions met)?",
+   "body": "Individual: (a) both you and the company are Australian residents at the trigger event; or (b) each asset is taxable Australian property at that time, and the shares you receive are taxable Australian property just after. Trustee: (a) the trust is a resident trust for CGT purposes and the company is an Australian resident; or (b) each CGT asset is taxable Australian property of the trust, and the shares are taxable Australian property just after.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-25",
+     "title": "Other requirements to be satisfied"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-25",
+     "title": "Other requirements to be satisfied"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "taxable Australian property",
+    "resident trust for CGT purposes"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-liabilities",
+   "type": "decision",
+   "label": "If the company assumes liabilities: are they within the caps?",
+   "body": "Disposal of a CGT asset: liabilities cannot exceed the cost base (asset acquired on/after 20 Sep 1985) or the market value (acquired before). Disposal of all business assets: liabilities cannot exceed the sum of market values of precluded assets + cost bases of other assets (all post-CGT); sum of market values (all pre-CGT); or a mixed rule for mixed acquisition dates. Allocation rules in s 122-37 (bank overdraft is a liability in respect of all assets; proportional apportionment for multi-asset liabilities).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-35",
+     "title": "What if the company undertakes to discharge a liability (disposal case)"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "122-37",
+     "title": "Rules for working out what a liability in respect of an asset is"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "market value"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "choice",
+   "type": "action",
+   "label": "Choose the roll-over (s 103-25): by the day you lodge your income tax return for the income year the CGT event happened",
+   "body": "The choice must be made by the day you lodge your income tax return for the income year in which the relevant CGT event happened, or within further time allowed by the Commissioner. The way you prepare your return is sufficient evidence of the choice.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "103-25",
+     "title": "When choice must be made"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2005_19",
+     "title": "application of Subdivision 124-M of the Income Tax Assessment Act 1997 - Part IVA of the…"
+    },
+    {
+     "id": "TD_1999_43",
+     "title": "8982 Related Rulings/Determinations: TD 53 TR 96/20"
+    }
+   ]
+  },
+  {
+   "id": "branch-disposal-creation",
+   "type": "decision",
+   "label": "Disposal case or creation case?",
+   "body": "Disposal case: you disposed of a CGT asset, or all the assets of a business, to the company (trigger event A1). Creation case: you created a CGT asset in the company (events D1, D2, D3, F1). Consequences differ.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "outcome-single-asset",
+   "type": "outcome",
+   "label": "Disposal of a single CGT asset (s 122-40): capital gain/loss disregarded; cost base moves into the shares",
+   "body": "If you choose the roll-over, the capital gain or loss from the trigger event is disregarded. Post-CGT asset: the first element of each share's cost base = the asset's cost base when disposed of (less assumed liabilities) ÷ number of shares; reduced cost base worked out similarly. Pre-CGT asset: you are taken to have acquired the shares before 20 September 1985. Indexation: Division 114.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-40",
+     "title": "Disposal of a CGT asset"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "reduced cost base",
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-business-all-post",
+   "type": "outcome",
+   "label": "All business assets acquired on/after 20 Sep 1985 (s 122-50): gain/loss disregarded per asset; share cost base = Σ(MV precluded + cost bases of others − liabilities) ÷ shares",
+   "body": "Each asset's gain/loss is disregarded. First element of each share's cost base = (sum of market values of precluded assets + cost bases of the other assets, less liabilities the company assumes in respect of all those assets) ÷ number of shares. Reduced cost base similar. Indexation: Division 114.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-50",
+     "title": "All assets acquired on or after 20 September 1985"
+    }
+   ],
+   "commentary": [
+    "assets-of-a-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "reduced cost base"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-business-all-pre",
+   "type": "outcome",
+   "label": "All business assets acquired before 20 Sep 1985 (s 122-55): shares taken to be pre-CGT",
+   "body": "You are taken to have acquired all the shares before 20 September 1985 if you acquired all the assets before that day and none is a precluded asset. If some are precluded: a whole number of shares (but not all) is taken to be acquired pre-CGT, calculated by reference to the market values of non-precluded vs total assets; the first element of each other share's cost base = total market values of precluded assets (less liabilities) ÷ number of those other shares.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-55",
+     "title": "All assets acquired before 20 September 1985"
+    }
+   ],
+   "commentary": [
+    "assets-of-a-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2006_31",
+     "title": "Franking Credits: CGT roll-over relief and its interaction with the date of acquisition…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-business-mixed",
+   "type": "outcome",
+   "label": "Mixed acquisition dates (s 122-60): some shares pre-CGT, balance with cost base = Σ(precluded MV + post-CGT cost bases − liabilities) ÷ other shares",
+   "body": "If you acquired some assets on/after and some before 20 Sep 1985: a whole number of shares (but not all) is taken to be acquired before that day — the greatest number (as a % of all shares) that does not exceed the market values of pre-CGT non-precluded assets (less liabilities) as a percentage of the total market values of all assets (less liabilities). The other shares' cost base = sum of precluded assets' market values + cost bases of post-CGT assets (less liabilities) ÷ number of those other shares.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-60",
+     "title": "Assets acquired before and after 20 September 1985"
+    }
+   ],
+   "commentary": [
+    "assets-of-a-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "reduced cost base"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-creation",
+   "type": "outcome",
+   "label": "Creation case (s 122-65): gain/loss disregarded; share cost base = expenditure on the trigger event",
+   "body": "If you choose the roll-over, the capital gain or loss from the trigger event is disregarded. First element of each share's cost base = the applicable amount (D1: incidental costs relating to the trigger event; D2: expenditure to grant the option; D3: expenditure to grant the right; F1: expenditure on grant/renewal/extension of the lease) ÷ number of shares. Expenditure can include a transfer of property (s 103-5).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-65",
+     "title": "Creation of asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "incidental costs",
+    "cost base"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-company-disposal",
+   "type": "outcome",
+   "label": "Company consequences — disposal case (s 122-70): cost base carries across; pre-CGT assets stay pre-CGT",
+   "body": "For each CGT asset (except a precluded asset) disposed of to the company: post-CGT asset — first element of the asset's cost base in the company's hands = the asset's cost base when you disposed of it; reduced cost base similar. Pre-CGT asset — the company is taken to have acquired it before 20 September 1985 (gain/loss generally disregarded: Division 104; but see Division 149). A gain/loss on a precluded asset may be disregarded under Subdivision 118-A. Indexation: Division 114. Demerger modification: s 125-170.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-70",
+     "title": "Consequences for the company (disposal case)"
+    }
+   ],
+   "commentary": [
+    "when-cgt-roll-over-is-available"
+   ],
+   "cases": [
+    {
+     "citation": "2016_FCAFC_31",
+     "note": "cost base of pre-CGT assets in a consolidated group context"
+    }
+   ],
+   "definitions": [
+    "cost base",
+    "reduced cost base"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2014_14",
+     "title": "Cost base of pre-CGT assets acquired by a company subject to a roll-over under…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-company-creation",
+   "type": "outcome",
+   "label": "Company consequences — creation case (s 122-75): created asset's cost base = the s 122-65(2) amount",
+   "body": "The first element of the created asset's cost base (in the company's hands) is the applicable amount from the table in s 122-65(2); reduced cost base worked out similarly.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-75",
+     "title": "Consequences for the company (creation case)"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cost base"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Roll-over applies — CGT deferred, cost bases re-based into shares and company assets",
+   "body": "The gain/loss on the trigger event is disregarded (not exempt — deferred). The CGT cost base is effectively transferred: into the shares you receive (your side) and into the assets in the company's hands (company side). The company's acquisition of the assets is not itself a CGT event for the company.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "no-rollover",
+   "type": "end",
+   "label": "No roll-over — CGT event A1 (or D1/D2/D3/F1) runs normally",
+   "body": "If any condition is not met, the roll-over is not available and the CGT event proceeds without deferral: you make a capital gain/loss calculated in the usual way, and the company acquires the assets at their market value (or consideration given) for CGT purposes. Consider Subdivision 328-G (small business restructure roll-over) as an alternative.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "LCG_2016_2",
+     "title": "Restructure from company to discretionary trust 6 Facts 6 No direct income tax…"
+    },
+    {
+     "id": "LCG_2016_3",
+     "title": "What is a 'genuine restructure of an ongoing business' 17 Example 1: Asset protection 17…"
+    }
+   ]
+  },
+  {
+   "id": "recapture-events",
+   "type": "outcome",
+   "label": "Recapture events: CGT events J2, J5, J6 may later bring deferred gain to account",
+   "body": "CGT event J2 (s 104-130): if a non-redeemable share received under the roll-over is converted into a redeemable share, a capital gain arises equal to the deferred amount. CGT event J5 (s 104-175): failure to execute a roll-over agreement. CGT event J6 (s 104-180): reversal of a roll-over. These events ensure the deferred gain is ultimately brought to account.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-130",
+     "title": "CGT event J2"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-175",
+     "title": "CGT event J5"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-180",
+     "title": "CGT event J6"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "redeemable shares"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2001_13",
+     "title": "because majority underlying interests in it were no longer maintained - the share would…"
+    }
+   ]
+  },
+  {
+   "id": "subdiv-328g-interplay",
+   "type": "outcome",
+   "label": "Alternative: Subdivision 328-G small business restructure roll-over",
+   "body": "If the Subdivision 122-A roll-over is not available (e.g. entity not eligible, assets excluded), consider Subdivision 328-G (Restructures of small businesses). It provides a broader roll-over for CGT assets, trading stock, revenue assets and depreciating assets when a small business restructures, without the 100% ownership requirement. The choice under s 103-25 applies separately.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "small business entity"
+   ],
+   "rulings": [
+    {
+     "id": "LCG_2016_2",
+     "title": "Restructure from company to discretionary trust 6 Facts 6 No direct income tax…"
+    },
+    {
+     "id": "LCG_2016_3",
+     "title": "What is a 'genuine restructure of an ongoing business' 17 Example 1: Asset protection 17…"
+    }
+   ]
+  },
+  {
+   "id": "recapture-events",
+   "type": "outcome",
+   "label": "Recapture events: CGT events J2, J5, J6 may later bring deferred gain to account",
+   "body": "CGT event J2 (s 104-130): if a non-redeemable share received under the roll-over is converted into a redeemable share, a capital gain arises equal to the deferred amount. CGT event J5 (s 104-175): failure to execute a roll-over agreement. CGT event J6 (s 104-180): reversal of a roll-over. These events ensure the deferred gain is ultimately brought to account.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-130",
+     "title": "CGT event J2"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-175",
+     "title": "CGT event J5"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-180",
+     "title": "CGT event J6"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "redeemable shares"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2001_13",
+     "title": "because majority underlying interests in it were no longer maintained - the share would…"
+    }
+   ]
+  },
+  {
+   "id": "subdiv-328g-interplay",
+   "type": "outcome",
+   "label": "Alternative: Subdivision 328-G small business restructure roll-over",
+   "body": "If the Subdivision 122-A roll-over is not available (e.g. entity not eligible, assets excluded), consider Subdivision 328-G (Restructures of small businesses). It provides a broader roll-over for CGT assets, trading stock, revenue assets and depreciating assets when a small business restructures, without the 100% ownership requirement. The choice under s 103-25 applies separately.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "small business entity"
+   ],
+   "rulings": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-entity-type",
+   "label": "transfer to company"
+  },
+  {
+   "from": "dec-entity-type",
+   "to": "no-rollover",
+   "label": "No — entity not eligible"
+  },
+  {
+   "from": "dec-entity-type",
+   "to": "trigger-event",
+   "label": "Yes — individual or trustee"
+  },
+  {
+   "from": "trigger-event",
+   "to": "dec-consideration",
+   "label": "A1/D1/D2/D3/F1 happens"
+  },
+  {
+   "from": "dec-consideration",
+   "to": "no-rollover",
+   "label": "No — consideration not shares only"
+  },
+  {
+   "from": "dec-consideration",
+   "to": "dec-market-value",
+   "label": "Yes — shares (non-redeemable), ± liability assumption"
+  },
+  {
+   "from": "dec-market-value",
+   "to": "no-rollover",
+   "label": "No — MV not substantially the same"
+  },
+  {
+   "from": "dec-market-value",
+   "to": "dec-ownership",
+   "label": "Yes"
+  },
+  {
+   "from": "dec-ownership",
+   "to": "no-rollover",
+   "label": "No — you don't own all shares"
+  },
+  {
+   "from": "dec-ownership",
+   "to": "dec-asset-type",
+   "label": "Yes"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "no-rollover",
+   "label": "Asset excluded/precluded"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "dec-exempt-entity",
+   "label": "Asset eligible"
+  },
+  {
+   "from": "dec-exempt-entity",
+   "to": "no-rollover",
+   "label": "Company income tax-exempt"
+  },
+  {
+   "from": "dec-exempt-entity",
+   "to": "dec-residency",
+   "label": "Not exempt"
+  },
+  {
+   "from": "dec-residency",
+   "to": "no-rollover",
+   "label": "No — residency/TAP not met"
+  },
+  {
+   "from": "dec-residency",
+   "to": "dec-liabilities",
+   "label": "Yes — residency satisfied"
+  },
+  {
+   "from": "dec-liabilities",
+   "to": "no-rollover",
+   "label": "Liabilities exceed cap"
+  },
+  {
+   "from": "dec-liabilities",
+   "to": "choice",
+   "label": "Within caps / no liabilities assumed"
+  },
+  {
+   "from": "choice",
+   "to": "branch-disposal-creation",
+   "label": "Choice made"
+  },
+  {
+   "from": "branch-disposal-creation",
+   "to": "outcome-single-asset",
+   "label": "Disposal of a single CGT asset"
+  },
+  {
+   "from": "branch-disposal-creation",
+   "to": "outcome-business-all-post",
+   "label": "Disposal of all business assets — all post-CGT"
+  },
+  {
+   "from": "branch-disposal-creation",
+   "to": "outcome-business-all-pre",
+   "label": "Disposal of all business assets — all pre-CGT"
+  },
+  {
+   "from": "branch-disposal-creation",
+   "to": "outcome-business-mixed",
+   "label": "Disposal of all business assets — mixed dates"
+  },
+  {
+   "from": "branch-disposal-creation",
+   "to": "outcome-creation",
+   "label": "Creation case (D1/D2/D3/F1)"
+  },
+  {
+   "from": "outcome-single-asset",
+   "to": "outcome-company-disposal",
+   "label": "company consequences"
+  },
+  {
+   "from": "outcome-business-all-post",
+   "to": "outcome-company-disposal",
+   "label": "company consequences"
+  },
+  {
+   "from": "outcome-business-all-pre",
+   "to": "outcome-company-disposal",
+   "label": "company consequences"
+  },
+  {
+   "from": "outcome-business-mixed",
+   "to": "outcome-company-disposal",
+   "label": "company consequences"
+  },
+  {
+   "from": "outcome-creation",
+   "to": "outcome-company-creation",
+   "label": "company consequences"
+  },
+  {
+   "from": "outcome-company-disposal",
+   "to": "recapture-events",
+   "label": "company consequences complete"
+  },
+  {
+   "from": "outcome-company-creation",
+   "to": "recapture-events",
+   "label": "company consequences complete"
+  },
+  {
+   "from": "recapture-events",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "no-rollover",
+   "to": "subdiv-328g-interplay",
+   "label": "consider small business restructure"
+  },
+  {
+   "from": "recapture-events",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "no-rollover",
+   "to": "subdiv-328g-interplay",
+   "label": "consider small business restructure"
+  }
+ ],
+ "short": "Transfer to wholly-owned company",
+ "refs": "Subdiv 122-A",
+ "sort": 25
+}

@@ -3,7 +3,11 @@ from __future__ import annotations
 
 import logging
 import os
+import pickle
 import sqlite3
+import subprocess
+import sys
+import time
 from pathlib import Path
 
 import numpy as np
@@ -14,6 +18,10 @@ from backend.config import BASE
 logger = logging.getLogger(__name__)
 
 EMBEDDINGS_DB = BASE / "data" / "embeddings.db"
+MATRIX_FILE = BASE / "data" / "embeddings_matrix.npy"
+IDS_FILE = BASE / "data" / "embeddings_ids.npy"
+META_FILE = BASE / "data" / "embeddings_meta.pkl"
+BUILD_SCRIPT = BASE / "scripts" / "build_vector_matrix.py"
 MODEL = "text-embedding-3-small"
 DIMS = 1536
 
@@ -34,34 +42,46 @@ _client = OpenAI(api_key=_api_key)
 
 
 def load() -> None:
-    """Load the full embedding matrix into memory."""
+    """Load the vector matrix (memory-mapped) + compact metadata.
+
+    The matrix snapshot is built by scripts/build_vector_matrix.py; loading
+    via mmap keeps RSS flat regardless of corpus size (274K+ embeddings would
+    otherwise need ~1.7GB just for the matrix and OOM the 1.5GB cgroup).
+    If the DB has grown past the snapshot, rebuild it first (self-heal).
+    """
     global _ids, _matrix, _meta
 
+    def _build() -> None:
+        logger.info("Vector matrix snapshot stale — rebuilding via %s", BUILD_SCRIPT.name)
+        t0 = time.time()
+        subprocess.run(
+            [sys.executable, str(BUILD_SCRIPT)],
+            check=True, capture_output=True, timeout=1800,
+        )
+        logger.info("Matrix rebuild took %.0fs", time.time() - t0)
+
     conn = sqlite3.connect(str(EMBEDDINGS_DB))
-    conn.row_factory = sqlite3.Row
     try:
-        rows = conn.execute(
-            "SELECT id, source_type, act, section, section_title, embedding_text, embedding FROM embeddings"
-        ).fetchall()
+        db_rows = conn.execute("SELECT count(*) FROM embeddings").fetchone()[0]
     finally:
         conn.close()
 
-    ids = np.empty(len(rows), dtype=np.int64)
-    vecs = np.empty((len(rows), DIMS), dtype=np.float32)
-    meta = {}
-    for i, row in enumerate(rows):
-        ids[i] = row["id"]
-        vecs[i] = np.frombuffer(row["embedding"], dtype=np.float32)
-        meta[row["id"]] = {
-            "source_type": row["source_type"],
-            "act": row["act"],
-            "section": row["section"],
-            "section_title": row["section_title"],
-            "embedding_text": row["embedding_text"],
-        }
+    if not MATRIX_FILE.exists():
+        _build()
+    else:
+        try:
+            snapshot_rows = int(np.load(IDS_FILE).shape[0])
+        except Exception:
+            snapshot_rows = -1
+        if snapshot_rows != db_rows:
+            logger.info("Matrix snapshot %s rows vs DB %s — rebuilding", snapshot_rows, db_rows)
+            _build()
 
-    _ids, _matrix, _meta = ids, vecs, meta
-    logger.info(f"Vector search loaded: {len(rows)} embeddings (1536-dim)")
+    _ids = np.load(IDS_FILE)
+    _matrix = np.load(MATRIX_FILE, mmap_mode="r")
+    with open(META_FILE, "rb") as f:
+        _meta = pickle.load(f)
+    logger.info("Vector search loaded: %d embeddings (1536-dim, mmap)", _ids.shape[0])
 
 
 def _ensure_loaded() -> None:

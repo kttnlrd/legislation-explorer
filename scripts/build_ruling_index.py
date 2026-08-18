@@ -6,8 +6,9 @@ import re
 from pathlib import Path
 
 import sys
-sys.path.insert(0, str(Path(__file__).parent.parent / "backend"))
-from services.data_loader import load_rulings, DATA_DIR
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
+from backend.services.data_loader import load_rulings, DATA_DIR
 
 # Match section references like:
 #   s 6-5, ss 6-5, 6-10, section 31G, sections 31G and 31H
@@ -28,7 +29,10 @@ ACT_MAP = {
     'gst act 1999': 'gst-1999',
     'a new tax system (goods and services tax) act 1999': 'gst-1999',
     'tax administration act 1953': 'taa-1953',
-    'fringe benefits tax assessment act 1986': 'fbtaa-1986',
+    'fringe benefits tax assessment act 1986': 'fbt-1986',
+    'fbtaa 1986': 'fbt-1986',
+    'superannuation industry (supervision) act 1993': 'sis-1993',
+    'sis act 1993': 'sis-1993',
 }
 
 
@@ -53,6 +57,7 @@ def extract_sections(content: str) -> list[dict]:
         if act:
             default_act = act
             break
+    explicit_act_found = default_act != 'itaa-1997'
 
     for line in lines:
         act = resolve_act(line) or default_act
@@ -65,8 +70,11 @@ def extract_sections(content: str) -> list[dict]:
                 # Strip only unmatched trailing close parens
                 while sec.endswith(')') and sec.count(')') > sec.count('('):
                     sec = sec[:-1]
-                # Skip pure numeric values < 100 — paragraph numbers, not real sections
-                if re.fullmatch(r'\d{1,2}', sec):
+                # Skip pure numeric values < 100 — paragraph numbers, not real
+                # sections — UNLESS an act was explicitly named in this ruling,
+                # because FBTAA (s 5, s 6, s 7...) and SIS (s 10, s 62...) have
+                # many genuine sections below 100.
+                if not explicit_act_found and re.fullmatch(r'\d{1,2}', sec):
                     continue
                 if sec:
                     refs.add((act, sec))

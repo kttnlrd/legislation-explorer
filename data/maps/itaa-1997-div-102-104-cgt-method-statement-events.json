@@ -1,0 +1,2217 @@
+{
+ "id": "itaa-1997-div-102-104-cgt-method-statement-events",
+ "title": "CGT method statement and all CGT events (Div 102 + Div 104)",
+ "act": "itaa-1997",
+ "part": "3-1",
+ "division": "102",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "The Div 102 method statement (s 102-5) computes the net capital gain: gains and losses per CGT event, CGT discount for eligible gains (Div 115), loss offset (current then prior years, ss 102-10/102-15), and inclusion in assessable income. Div 104 defines all 53 CGT events A1-L8 (the s 104-5 table is the authoritative completeness list): disposals (A1), use and enjoyment (B1), loss/destruction and endings (C1-C3), rights creation (D1-D4), trusts (E1-E10), leases (F1-F5), shares (G1/G3), special receipts (H1-H2), residency ends (I1-I2), roll-over recapture (J1-J6), special events (K1-K12) and consolidation (L1-L8). Subsection coverage: Div 102 steps 1-4 of s 102-5 mapped; all 53 events from the s 104-5 table mapped; s 104-5 subsection detail per event (time, gain formula) carried in node bodies; Div 115 discount percentage and Div 112 modifications are separate maps.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A CGT event happens to you (or you are otherwise within Div 102)",
+   "body": "Part 3-1 of ITAA 1997 taxes net capital gains. The method statement in s 102-5: work out your capital gains and capital losses for the income year from each CGT event, apply the CGT discount to eligible gains, reduce gains by losses (current year then prior years), and the net capital gain is included in assessable income. Capital losses cannot be deducted from other income — only against capital gains.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-1",
+     "title": "What this Division is about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Method statement"
+    }
+   ],
+   "commentary": [
+    "net-capital-gain-assessable"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT event",
+    "net capital gain",
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1993_17",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TR_2004_18",
+     "title": ""
+    },
+    {
+     "id": "TR_2005_23",
+     "title": "General company tax rate (at that time))) where: after tax gain is the after tax *LIC…"
+    }
+   ]
+  },
+  {
+   "id": "step-gains",
+   "type": "action",
+   "label": "STEP 1 — Work out your capital gains and capital losses for the income year",
+   "body": "For each CGT event, work out the capital gain (capital proceeds less cost base) or capital loss (reduced cost base less capital proceeds). The event table in s 104-5 specifies the gain/loss formula for each event (A1-L8).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-5",
+     "title": "Summary of the CGT events"
+    }
+   ],
+   "commentary": [
+    "net-capital-gain-assessable"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2008_1",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TR_2014_7",
+     "title": "Income tax: foreign currency hedging transactions - applying the foreign income tax…"
+    },
+    {
+     "id": "TR_2018_7",
+     "title": "what this Ruling is about 1 Definitions 4 Previous ruling 6 Ruling 7"
+    }
+   ]
+  },
+  {
+   "id": "step-discount",
+   "type": "action",
+   "label": "STEP 2 — Apply the CGT discount to eligible capital gains",
+   "body": "If the gain is a discount capital gain (asset held 12+ months, made by an individual/trust/super fund — see Div 115), apply the discount percentage (50% individuals/trusts, 33.33% complying super funds). Companies do not get the discount.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-15",
+     "title": "Discount percentage for individuals and trusts"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2001_14",
+     "title": "subsection 118-250(1) disregards half of the capital gain; or &bull; if, from 21…"
+    },
+    {
+     "id": "TD_2004_1",
+     "title": ""
+    },
+    {
+     "id": "TD_2012_22",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "step-losses",
+   "type": "action",
+   "label": "STEP 3 — Reduce your capital gains by capital losses",
+   "body": "Reduce capital gains by current-year capital losses, then by unapplied prior-year net capital losses (s 102-5 step 3, s 102-15). Losses cannot be deducted against ordinary income (s 102-10).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-10",
+     "title": "Losses cannot be deducted from exempt income"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "102-15",
+     "title": "Net capital losses"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "102-20",
+     "title": "Companies: capital gains"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "102-22",
+     "title": "Trusts: capital gains"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_1999_75",
+     "title": ""
+    },
+    {
+     "id": "TD_2024_5",
+     "title": "Income tax: how the non-arm's length income and capital gains tax provisions interact to…"
+    },
+    {
+     "id": "TD_2024_9",
+     "title": "see subsection 995-1(1) of the ITAA 1997. [4] The cost base for the purposes of the…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-net",
+   "type": "outcome",
+   "label": "NET CAPITAL GAIN — included in assessable income",
+   "body": "The net capital gain (STEP 4 of the method statement) is included in your assessable income. If capital losses exceed gains, there is no net capital gain — the excess is carried forward as a net capital loss.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2018_16",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TD_2022_12",
+     "title": "non-fixed trusts 5 Example 2 - fixed trusts 10"
+    },
+    {
+     "id": "TD_2022_13",
+     "title": "Explanation 12 Extra capital gains: section 115-215 12 Foreign-resident beneficiary…"
+    }
+   ]
+  },
+  {
+   "id": "dec-which-event",
+   "type": "decision",
+   "label": "Which CGT event applies?",
+   "body": "Section 104-5 summarises all CGT events A1 to L8. The event determines the time of the event, the gain/loss formula, and the applicable rules. Match the facts to the event description: disposals (A1), loss/destruction (C1), cancellation (C2), rights creation (D1), trusts (E1-E10), leases (F1-F5), shares (G1/G3), residency ends (I1/I2), roll-over recapture (J1-J6), and the special events (K1-K12, L1-L8).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-5",
+     "title": "Summary of the CGT events"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "LCG_2016_8",
+     "title": "retirement-phase interest aligned to the $1.6m cap 24A Example 2: CGT relief and the…"
+    }
+   ]
+  },
+  {
+   "id": "event-a1",
+   "type": "event",
+   "label": "CGT event A1 — Disposal of a CGT asset",
+   "body": "You dispose of a CGT asset — time of event is when the disposal contract is entered into, or if none, when you stop being the owner. Gain = capital proceeds less cost base; loss = reduced cost base less proceeds. [s 104-10]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "Disposal of a CGT asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2000_1",
+     "title": "and, indeed, including Goss v. Lord Nugent itself - that the parties to an agreement may…"
+    },
+    {
+     "id": "TR_2001_9",
+     "title": "see paragraphs 30-31 below; (c) may be allowable as a capital loss to a life assurance…"
+    },
+    {
+     "id": "TR_2002_14",
+     "title": "developing or acquiring a retirement village and putting that to profit by the recurrent…"
+    }
+   ]
+  },
+  {
+   "id": "event-b1",
+   "type": "event",
+   "label": "CGT event B1 — Use and enjoyment before title passes",
+   "body": "Use and enjoyment of a CGT asset passes to another before title passes. Gain/loss as for A1 at the time use passes. [s 104-15]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-15",
+     "title": "Use and enjoyment before title passes"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1998_15",
+     "title": "82KZO) of the ITAA 1936; (ii) payments to associates referred to in Subdivision D of…"
+    },
+    {
+     "id": "TD_1999_78",
+     "title": "which could be after three years or within that period - CGT event B1 occurs when Ken…"
+    }
+   ]
+  },
+  {
+   "id": "event-c1",
+   "type": "event",
+   "label": "CGT event C1 — Loss or destruction of a CGT asset",
+   "body": "Your CGT asset is lost or destroyed. Time is when compensation is first received, or if none, when the loss/destruction occurred. [s 104-20]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-20",
+     "title": "Loss or destruction of a CGT asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2005_6",
+     "title": "spending money in order to generate business in a market segment that the bank considered…"
+    },
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    },
+    {
+     "id": "TD_1999_79",
+     "title": "about cancellation, surrender and similar endings - in section 104-25) or a change of…"
+    }
+   ]
+  },
+  {
+   "id": "event-c2",
+   "type": "event",
+   "label": "CGT event C2 — Cancellation, surrender and similar endings",
+   "body": "A CGT asset ends — cancellation, surrender, redemption, expiry, etc. Time is when the ending contract is entered into, or if none, when the asset ends. [s 104-25]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-25",
+     "title": "Cancellation, surrender and similar endings"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2005_15",
+     "title": "something with a significant commercial flavour - by means of a contract productive only…"
+    },
+    {
+     "id": "TR_2006_3",
+     "title": "a GPI received for entering into a restraint of trade agreement), CGT event D1 will apply…"
+    },
+    {
+     "id": "TR_2010_6",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "event-c3",
+   "type": "event",
+   "label": "CGT event C3 — End of option to acquire shares etc.",
+   "body": "An option you granted to acquire shares/units ends. Time is when the option ends. Gain = option proceeds less expenditure in granting it. [s 104-30]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-30",
+     "title": "End of option to acquire shares etc."
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_240",
+     "title": "Deferred capital loss or deduction: option granted by a company to acquire shares in it…"
+    }
+   ]
+  },
+  {
+   "id": "event-d1",
+   "type": "event",
+   "label": "CGT event D1 — Creating contractual or other rights",
+   "body": "You create contractual or other legal or equitable rights in another entity. Time is when the contract is entered into or the right is created. [s 104-35]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-35",
+     "title": "Creating contractual or other rights"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_80",
+     "title": "8982 Subject References: capital gains CGT asset CGT event D1 contractual right disposal…"
+    },
+    {
+     "id": "TD_1999_82",
+     "title": "8982 Subject References: acquisition capital gains CGT asset CGT event CGT event A1 CGT…"
+    },
+    {
+     "id": "TD_2005_45",
+     "title": "its former subsidiary member. 5. 'Liability' is relevantly defined in the Macquarie…"
+    }
+   ]
+  },
+  {
+   "id": "event-d2",
+   "type": "event",
+   "label": "CGT event D2 — Granting an option",
+   "body": "You grant an option to another entity. Time is when the option is granted. Gain = option proceeds less expenditure to grant it. [s 104-40]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-40",
+     "title": "Granting an option"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "MT_2012_2",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "event-d3",
+   "type": "event",
+   "label": "CGT event D3 — Granting a right to income from mining",
+   "body": "You grant a right to receive income from mining on your land. Time is when the contract is entered into. [s 104-45]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-45",
+     "title": "Granting a right to income from mining"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-d4",
+   "type": "event",
+   "label": "CGT event D4 — Entering into a conservation covenant",
+   "body": "You enter into a conservation covenant over land you own. Time is when the covenant is entered into. The cost base is apportioned. [s 104-47]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-47",
+     "title": "Entering into a conservation covenant"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2018_6",
+     "title": "consequences of a trust vesting Please note that the PDF version is the authorised…"
+    }
+   ]
+  },
+  {
+   "id": "event-e1",
+   "type": "event",
+   "label": "CGT event E1 — Creating a trust over a CGT asset",
+   "body": "You create a trust over a CGT asset. Time is when the trust is created. Gain = capital proceeds from creating the trust less the asset's cost base. [s 104-55]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-55",
+     "title": "Creating a trust over a CGT asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2006_4",
+     "title": "TR 2006/4 [WITHDRAWN]"
+    },
+    {
+     "id": "TD_2001_26",
+     "title": "Integrity of Means Testing) Act 2000 . The amendments, which will affect social security…"
+    },
+    {
+     "id": "TD_2004_13",
+     "title": "13 refers to Pasminco Limited. On 31 March 2005, the administrator of Pasminco Limited…"
+    }
+   ]
+  },
+  {
+   "id": "event-e2",
+   "type": "event",
+   "label": "CGT event E2 — Transferring a CGT asset to a trust",
+   "body": "You transfer a CGT asset to an existing trust. Time is when the asset is transferred. This event is superseded for most transfers after 8 Dec 1997 by E1. [s 104-60]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-60",
+     "title": "Transferring a CGT asset to a trust"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_14",
+     "title": "TD 2004/14 [WITHDRAWN]"
+    },
+    {
+     "id": "TD_2012_21",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "event-e3",
+   "type": "event",
+   "label": "CGT event E3 — Converting a trust to a unit trust",
+   "body": "A trust you have an interest in is converted into a unit trust. Time is when the conversion happens. Gain = market value of the asset at that time less cost base. [s 104-65]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-65",
+     "title": "Converting a trust to a unit trust"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-e4",
+   "type": "event",
+   "label": "CGT event E4 — Capital payment for trust interest",
+   "body": "The trustee makes a non-assessable capital payment to you for your trust interest. Time is when the payment is made. Gain = non-assessable part less cost base. [s 104-70]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-70",
+     "title": "Capital payment for trust interest"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2003_6",
+     "title": ""
+    },
+    {
+     "id": "TR_2015_4",
+     "title": "no amount is taken into account in respect of the UPE; the funds representing the UPE are…"
+    },
+    {
+     "id": "TD_2003_28",
+     "title": "such an interest, being a bare right of action, cannot be purchased or assigned. An…"
+    }
+   ]
+  },
+  {
+   "id": "event-e5",
+   "type": "event",
+   "label": "CGT event E5 — Beneficiary becoming entitled to a trust asset",
+   "body": "A beneficiary becomes absolutely entitled to a CGT asset of the trust. Time is when the beneficiary becomes absolutely entitled. [s 104-75]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-75",
+     "title": "Beneficiary becoming entitled to a trust asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_3",
+     "title": "this view relies on the words following paragraph 128-20(1)(d) of the ITAA 1997 which…"
+    }
+   ]
+  },
+  {
+   "id": "event-e6",
+   "type": "event",
+   "label": "CGT event E6 — Disposal to a non-resident trust",
+   "body": "You dispose of an asset to a non-resident trust. Time is when the disposal happens. Gain = market value at that time less cost base. [s 104-80]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-80",
+     "title": "Disposal to a non-resident trust"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    }
+   ]
+  },
+  {
+   "id": "event-e7",
+   "type": "event",
+   "label": "CGT event E7 — Disposal to a non-resident company",
+   "body": "You dispose of an asset to a non-resident company. Time is when the disposal happens. Gain = market value at that time less cost base. [s 104-85]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-85",
+     "title": "Disposal to a non-resident company"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2018_6",
+     "title": "consequences of a trust vesting Please note that the PDF version is the authorised…"
+    }
+   ]
+  },
+  {
+   "id": "event-e8",
+   "type": "event",
+   "label": "CGT event E8 — Disposal by a trust to a non-resident entity",
+   "body": "A trust disposes of an asset to a non-resident entity. Time is when the disposal happens. The trust is treated as having made a gain. [s 104-90]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-90",
+     "title": "Disposal by a trust to a non-resident entity"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2009_19",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "event-e9",
+   "type": "event",
+   "label": "CGT event E9 — Creating a trust over future property",
+   "body": "You create a trust over future property. Time is when the trust is created. [s 104-105]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-105",
+     "title": "Creating a trust over future property"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2000_1",
+     "title": "and, indeed, including Goss v. Lord Nugent itself - that the parties to an agreement may…"
+    }
+   ]
+  },
+  {
+   "id": "event-e10",
+   "type": "event",
+   "label": "CGT event E10 — Annual cost base reduction for a trust interest",
+   "body": "The cost base of your interest in a trust is reduced by an amount each year. Time is the end of the income year. [s 104-107A]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-107A",
+     "title": "Annual cost base reduction for a trust interest"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-f1",
+   "type": "event",
+   "label": "CGT event F1 — Granting a lease",
+   "body": "You grant a lease over land. Time is when the lease is granted. The capital proceeds include amounts received for the grant. [s 104-110]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-110",
+     "title": "Granting a lease"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2002_14",
+     "title": "developing or acquiring a retirement village and putting that to profit by the recurrent…"
+    }
+   ]
+  },
+  {
+   "id": "event-f2",
+   "type": "event",
+   "label": "CGT event F2 — Granting a long-term lease",
+   "body": "You grant a lease for at least 99 years. Treated as a disposal of the land (CGT event A1 applies instead). [s 104-115]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-115",
+     "title": "Granting a long-term lease"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_906",
+     "title": "Capital gains tax: granting a long term lease over land - lease for a term of 80 years"
+    },
+    {
+     "id": "AID_2007_175",
+     "title": "Capital Gains Tax: granting a long-term lease - whether the original lease term includes…"
+    }
+   ]
+  },
+  {
+   "id": "event-f3",
+   "type": "event",
+   "label": "CGT event F3 — Lessor pays lessee to obtain lease surrender",
+   "body": "A lessor pays the lessee to obtain surrender of the lease. Time is when the lease term ends. [s 104-120]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-120",
+     "title": "Lessor pays lessee to obtain lease surrender"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-f4",
+   "type": "event",
+   "label": "CGT event F4 — Lessee receives payment for lease variation",
+   "body": "A lessee receives a payment for agreeing to a lease variation. Time is when the lease term ends. [s 104-125]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-125",
+     "title": "Lessee receives payment for lease variation"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-f5",
+   "type": "event",
+   "label": "CGT event F5 — Lessor receives payment for lease variation",
+   "body": "A lessor receives a payment for agreeing to a lease variation. Time is when the variation is made. [s 104-130]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-130",
+     "title": "Lessor receives payment for lease variation"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2002_769",
+     "title": "Capital gains tax: CGT event F5: payment for changing lease"
+    }
+   ]
+  },
+  {
+   "id": "event-g1",
+   "type": "event",
+   "label": "CGT event G1 — Capital payment for shares",
+   "body": "A company makes a non-assessable capital payment to you for your shares. Time is when the payment is made. Gain = non-assessable part less cost base. [s 104-135]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-135",
+     "title": "Capital payment for shares"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2000_2",
+     "title": ""
+    },
+    {
+     "id": "TD_2001_27",
+     "title": "and not from the ending of the company's shares - is one with which we disagree. It does…"
+    },
+    {
+     "id": "PS_LA_2008_10",
+     "title": "PS LA 2008/10 — amounts to be included as an assessable dividend, of the meaning of…"
+    }
+   ]
+  },
+  {
+   "id": "event-g3",
+   "type": "event",
+   "label": "CGT event G3 — Liquidator or administrator declares shares worthless",
+   "body": "A liquidator or administrator declares your shares worthless. Time is when the declaration is made. You can choose to make a capital loss. [s 104-145]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-145",
+     "title": "Liquidator or administrator declares shares worthless"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2000_52",
+     "title": "enabling a shareholder to crystallise a capital loss on their shares in a company - if a…"
+    },
+    {
+     "id": "TD_2000_7",
+     "title": "see Note 1 for more details.) 2. A company may be deregistered under: (a) paragraphs…"
+    },
+    {
+     "id": "TD_2002_17",
+     "title": "TD 2002/17 [WITHDRAWN]"
+    }
+   ]
+  },
+  {
+   "id": "event-h1",
+   "type": "event",
+   "label": "CGT event H1 — Forfeiture of a deposit",
+   "body": "A deposit you paid for the purchase of property is forfeited. Time is when the deposit is forfeited. You make a capital loss. [s 104-150]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-150",
+     "title": "Forfeiture of a deposit"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_346",
+     "title": "CGT small business concessions: basic conditions - CGT event happening in relation to a…"
+    }
+   ]
+  },
+  {
+   "id": "event-h2",
+   "type": "event",
+   "label": "CGT event H2 — Receipt for granting an option",
+   "body": "You receive an amount for granting an option (but D2 may apply). Time is when the act, transaction or event happens. [s 104-155]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-155",
+     "title": "Receipt for granting an option"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2001_26",
+     "title": "Integrity of Means Testing) Act 2000 . The amendments, which will affect social security…"
+    }
+   ]
+  },
+  {
+   "id": "event-i1",
+   "type": "event",
+   "label": "CGT event I1 — Individual or company stops being an Australian resident",
+   "body": "You stop being an Australian resident. Time is when you stop being a resident. You are treated as having disposed of all CGT assets (except TAP and pre-CGT assets) at market value — the 'deemed disposal' on departure. [s 104-160]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-160",
+     "title": "Individual or company stops being an Australian resident"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_42",
+     "title": "capital gains tax resident single entity rule"
+    }
+   ]
+  },
+  {
+   "id": "event-i2",
+   "type": "event",
+   "label": "CGT event I2 — Trust stops being a resident trust",
+   "body": "A trust stops being a resident trust for CGT purposes. Time is when the trust stops being a resident trust. Deemed disposal of assets at market value. [s 104-170]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-170",
+     "title": "Trust stops being a resident trust"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_83",
+     "title": "when is it taken to have acquired its CGT assets? (b) stops being a resident trust - when…"
+    }
+   ]
+  },
+  {
+   "id": "event-j1",
+   "type": "event",
+   "label": "CGT event J1 — Company stops being a member of a wholly-owned group",
+   "body": "A company stops being a member of a wholly-owned group where a roll-over applied to an asset transfer. Time is when the company stops being a member. [s 104-175]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-175",
+     "title": "Company stops being a member of a wholly-owned group"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2001_13",
+     "title": "because majority underlying interests in it were no longer maintained - the share would…"
+    }
+   ]
+  },
+  {
+   "id": "event-j2",
+   "type": "event",
+   "label": "CGT event J2 — Change in relation to a replacement asset",
+   "body": "A change occurs in the ownership of a replacement asset for which a roll-over was obtained. Time is when the change occurs. Recaptures the disregarded gain. [s 104-185]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-185",
+     "title": "Change in relation to a replacement asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_129",
+     "title": "Capital gains tax: CGT discount - application of Subdivision 152-E and Subdivision 124-B…"
+    },
+    {
+     "id": "AID_2004_240",
+     "title": "CGT small business concessions: CGT event J2 and J3 - capital proceeds for retirement…"
+    },
+    {
+     "id": "AID_2009_147",
+     "title": "Capital gains tax: CGT discount - application of Subdivision 152-E and Subdivision 124-B…"
+    }
+   ]
+  },
+  {
+   "id": "event-j4",
+   "type": "event",
+   "label": "CGT event J4 — Trust fails to cease to exist",
+   "body": "A trust that was to cease to exist under a roll-over fails to do so. Time is when it fails. [s 104-195]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-195",
+     "title": "Trust fails to cease to exist"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_340",
+     "title": "Capital Gains Tax: trust to company rollover - CGT assets retained by the trustee -…"
+    },
+    {
+     "id": "AID_2003_341",
+     "title": "Capital Gains Tax: trust to company rollover - CGT assets retained by the trustee to pay…"
+    },
+    {
+     "id": "AID_2003_644",
+     "title": "Capital gains tax: trust to company rollover - CGT event J4 - company."
+    }
+   ]
+  },
+  {
+   "id": "event-j5",
+   "type": "event",
+   "label": "CGT event J5 — Failure to acquire a replacement asset",
+   "body": "You fail to acquire a qualifying replacement asset within the period for a roll-over. Time is the end of the period. Recaptures the gain. [s 104-197]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-197",
+     "title": "Failure to acquire a replacement asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_79",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "event-j6",
+   "type": "event",
+   "label": "CGT event J6 — Cost of acquisition of a replacement asset is reduced to nil",
+   "body": "The cost base of a replacement asset is reduced to nil by a roll-over, then a further reduction would be required. Time is when the further reduction would be made. [s 104-198]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-198",
+     "title": "Cost of acquisition of a replacement asset is reduced to nil"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_79",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "event-k1",
+   "type": "event",
+   "label": "CGT event K1 — As the result of an act, transaction or event",
+   "body": "A CGT asset starts being a taxable Australian property. Time is when the act, transaction or event happens. Special rule for assets that become TAP. [s 104-205]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-205",
+     "title": "As the result of an act, transaction or event"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-k2",
+   "type": "event",
+   "label": "CGT event K2 — Bankrupt pays amount in relation to a debt",
+   "body": "A bankrupt pays an amount in relation to a debt. Time is when the payment is made. [s 104-210]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-210",
+     "title": "Bankrupt pays amount in relation to a debt"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-k3",
+   "type": "event",
+   "label": "CGT event K3 — Asset passing to a beneficiary of a deceased estate",
+   "body": "A CGT asset passes to a beneficiary of a deceased estate (other than a trustee). Time is when the asset passes. Special rules apply. [s 104-215]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-215",
+     "title": "Asset passing to a beneficiary of a deceased estate"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_3",
+     "title": "this view relies on the words following paragraph 128-20(1)(d) of the ITAA 1997 which…"
+    }
+   ]
+  },
+  {
+   "id": "event-k4",
+   "type": "event",
+   "label": "CGT event K4 — CGT asset starts being held on trust",
+   "body": "A CGT asset starts being held on trust for a beneficiary absolutely entitled (or a trustee under a will). Time is when it starts being held. [s 104-220]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-220",
+     "title": "CGT asset starts being held on trust"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-k5",
+   "type": "event",
+   "label": "CGT event K5 — Special capital loss from a collectable or personal use asset",
+   "body": "A collectable or personal use asset is lost or destroyed and you receive an amount. Time is when the loss/destruction happens. [s 104-225]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-225",
+     "title": "Special capital loss from a collectable or personal use asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-k6",
+   "type": "event",
+   "label": "CGT event K6 — Pre-CGT shares or trust interests",
+   "body": "Another entity (the interposed entity) starts owning shares/units in an entity whose assets include pre-CGT shares. Time is when the interposed entity starts owning them. Gain = market value of the pre-CGT shares at that time. [s 104-230]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-230",
+     "title": "Pre-CGT shares or trust interests"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2004_18",
+     "title": ""
+    },
+    {
+     "id": "TD_2001_14",
+     "title": "subsection 118-250(1) disregards half of the capital gain; or &bull; if, from 21…"
+    },
+    {
+     "id": "PS_LA_2008_10",
+     "title": "PS LA 2008/10 — amounts to be included as an assessable dividend, of the meaning of…"
+    }
+   ]
+  },
+  {
+   "id": "event-k7",
+   "type": "event",
+   "label": "CGT event K7 — Balancing adjustment on a depreciating asset",
+   "body": "A balancing adjustment event occurs for a depreciating asset and you receive an amount. Time is when the balancing adjustment event occurs. Gain = balancing adjustment amount. [s 104-235]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-235",
+     "title": "Balancing adjustment on a depreciating asset"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2002_1018",
+     "title": "Capital Allowances - CGT event K7"
+    },
+    {
+     "id": "AID_2002_617",
+     "title": "Uniform Capital Allowances - Balancing adjustment on the death of the owner of a…"
+    },
+    {
+     "id": "AID_2002_618",
+     "title": "Uniform Capital Allowances - Depreciating asset passes from Legal Personal Representative…"
+    }
+   ]
+  },
+  {
+   "id": "event-k9",
+   "type": "event",
+   "label": "CGT event K9 — Entitlement to receive a payment",
+   "body": "You become entitled to receive a payment (e.g. under an insurance policy or indemnity). Time is when you become entitled. [s 104-255]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-255",
+     "title": "Entitlement to receive a payment"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "LCG_2015_4",
+     "title": "safe harbours 6 Clearly defined rights - ordinary meaning 9 Examples of powers not…"
+    }
+   ]
+  },
+  {
+   "id": "event-k10",
+   "type": "event",
+   "label": "CGT event K10 — You make a forex realisation gain",
+   "body": "You make a forex realisation gain. Time is when the forex realisation event happens. [s 104-260]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-260",
+     "title": "You make a forex realisation gain"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-k11",
+   "type": "event",
+   "label": "CGT event K11 — You make a forex realisation loss",
+   "body": "You make a forex realisation loss. Time is when the forex realisation event happens. [s 104-265]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-265",
+     "title": "You make a forex realisation loss"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-k12",
+   "type": "event",
+   "label": "CGT event K12 — Foreign hybrid loss",
+   "body": "A loss from a foreign hybrid (within the meaning of the foreign hybrid rules). Time is when the loss is made. [s 104-270]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-270",
+     "title": "Foreign hybrid loss"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-l1",
+   "type": "event",
+   "label": "CGT event L1 — Reduction under a consolidated group",
+   "body": "An amount is reduced under the consolidation tax cost setting rules. Time is just after the entity joins the group. [s 104-500]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-500",
+     "title": "Reduction under a consolidated group"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_87",
+     "title": "capital gains tax head company tax cost setting amount"
+    },
+    {
+     "id": "PS_LA_2004_12",
+     "title": "PS LA 2004/12 — general shortcuts for resetting the tax cost under Division 705 of the…"
+    }
+   ]
+  },
+  {
+   "id": "event-l2",
+   "type": "event",
+   "label": "CGT event L2 — Amount remaining after an entity leaves a group",
+   "body": "An amount remains after the exit rules apply to an entity leaving a consolidated group. Time is just after the entity leaves. [s 104-505]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-505",
+     "title": "Amount remaining after an entity leaves a group"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-l3",
+   "type": "event",
+   "label": "CGT event L3 — Tax cost setting amount for a joining entity",
+   "body": "A tax cost setting amount is set for a joining entity's assets. Time is just after the joining time. [s 104-510]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-510",
+     "title": "Tax cost setting amount for a joining entity"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_59",
+     "title": "Financial Position at 1 July 2004 ($) Cash 70,000 Equity 100,000 DTA (re loss) 37,500…"
+    }
+   ]
+  },
+  {
+   "id": "event-l4",
+   "type": "event",
+   "label": "CGT event L4 — No reset cost base for a joining entity",
+   "body": "A joining entity's asset does not have its cost base reset. Time is just after the joining time. [s 104-515]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-515",
+     "title": "No reset cost base for a joining entity"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2005_54",
+     "title": ""
+    },
+    {
+     "id": "TD_2006_56",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    }
+   ]
+  },
+  {
+   "id": "event-l5",
+   "type": "event",
+   "label": "CGT event L5 — Amount remaining after an entity leaves a group",
+   "body": "An amount remains after the exit rules (L5). Time is when the entity leaves the group. [s 104-520]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-520",
+     "title": "Amount remaining after an entity leaves a group"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2006_38",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    },
+    {
+     "id": "TD_2007_13",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "event-l6",
+   "type": "event",
+   "label": "CGT event L6 — Error in calculation of a tax cost setting amount",
+   "body": "An error is made in calculating a tax cost setting amount. Time is when the error is discovered. [s 104-525]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-525",
+     "title": "Error in calculation of a tax cost setting amount"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2007_7",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "PCG_2016_15",
+     "title": ""
+    },
+    {
+     "id": "TD_2007_18",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "event-l8",
+   "type": "event",
+   "label": "CGT event L8 — Reduction in tax cost setting amount",
+   "body": "A tax cost setting amount is reduced. Time is just after the entity joins the group. [s 104-535]. Time of event and gain/loss formula per the s 104-5 table.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-535",
+     "title": "Reduction in tax cost setting amount"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2007_18",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "dec-eligible-discount",
+   "type": "decision",
+   "label": "Is the gain eligible for the CGT discount (held 12+ months, discount entity)?",
+   "body": "A capital gain is a discount capital gain if the asset was held for at least 12 months (with exceptions for roll-overs and life insurance), the gain was not made by a company, and the CGT event happened after 21 September 1999 (ss 115-10, 115-15, 115-20, 115-25).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-10",
+     "title": "When a capital gain is a discount capital gain"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-15",
+     "title": "Discount percentage for individuals and trusts"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2003_199",
+     "title": "Capital gains tax: CGT discount and small business concessions - disposal of active asset…"
+    },
+    {
+     "id": "AID_2003_652",
+     "title": "Capital gains tax: CGT discount - public trading trust"
+    },
+    {
+     "id": "AID_2008_2",
+     "title": "Discount capital gains"
+    }
+   ]
+  },
+  {
+   "id": "outcome-gain",
+   "type": "outcome",
+   "label": "Capital gain worked out — assessable after discount and loss offset",
+   "body": "The gain feeds into the Div 102 method statement: apply the discount (if eligible), reduce by losses, and include the net capital gain in assessable income.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "outcome-loss",
+   "type": "outcome",
+   "label": "Capital loss — carried forward (can only offset capital gains)",
+   "body": "A capital loss cannot be deducted from ordinary income. It reduces current-year capital gains first; any excess is carried forward to future years (s 102-15).",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "CGT position determined for this event",
+   "body": "",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "dec-which-event",
+   "to": "event-a1",
+   "label": "Event A1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-b1",
+   "label": "Event B1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-c1",
+   "label": "Event C1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-c2",
+   "label": "Event C2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-c3",
+   "label": "Event C3 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-d1",
+   "label": "Event D1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-d2",
+   "label": "Event D2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-d3",
+   "label": "Event D3 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-d4",
+   "label": "Event D4 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e1",
+   "label": "Event E1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e2",
+   "label": "Event E2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e3",
+   "label": "Event E3 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e4",
+   "label": "Event E4 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e5",
+   "label": "Event E5 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e6",
+   "label": "Event E6 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e7",
+   "label": "Event E7 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e8",
+   "label": "Event E8 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e9",
+   "label": "Event E9 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-e10",
+   "label": "Event E10 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-f1",
+   "label": "Event F1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-f2",
+   "label": "Event F2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-f3",
+   "label": "Event F3 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-f4",
+   "label": "Event F4 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-f5",
+   "label": "Event F5 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-g1",
+   "label": "Event G1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-g3",
+   "label": "Event G3 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-h1",
+   "label": "Event H1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-h2",
+   "label": "Event H2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-i1",
+   "label": "Event I1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-i2",
+   "label": "Event I2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-j1",
+   "label": "Event J1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-j2",
+   "label": "Event J2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-j4",
+   "label": "Event J4 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-j5",
+   "label": "Event J5 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-j6",
+   "label": "Event J6 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k1",
+   "label": "Event K1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k2",
+   "label": "Event K2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k3",
+   "label": "Event K3 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k4",
+   "label": "Event K4 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k5",
+   "label": "Event K5 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k6",
+   "label": "Event K6 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k7",
+   "label": "Event K7 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k9",
+   "label": "Event K9 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k10",
+   "label": "Event K10 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k11",
+   "label": "Event K11 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-k12",
+   "label": "Event K12 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-l1",
+   "label": "Event L1 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-l2",
+   "label": "Event L2 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-l3",
+   "label": "Event L3 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-l4",
+   "label": "Event L4 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-l5",
+   "label": "Event L5 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-l6",
+   "label": "Event L6 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "event-l8",
+   "label": "Event L8 applies"
+  },
+  {
+   "from": "start",
+   "to": "step-gains",
+   "label": "CGT event happens"
+  },
+  {
+   "from": "step-gains",
+   "to": "dec-which-event",
+   "label": "Identify the event"
+  },
+  {
+   "from": "event-a1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-b1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-c1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-c2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-c3",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-d1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-d2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-d3",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-d4",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e3",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e4",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e5",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e6",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e7",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e8",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e9",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-e10",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-f1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-f2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-f3",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-f4",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-f5",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-g1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-g3",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-h1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-h2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-i1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-i2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-j1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-j2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-j4",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-j5",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-j6",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k3",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k4",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k5",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k6",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k7",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k9",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k10",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k11",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-k12",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-l1",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-l2",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-l3",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-l4",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-l5",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-l6",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-l8",
+   "to": "dec-eligible-discount",
+   "label": "Gain arises"
+  },
+  {
+   "from": "dec-eligible-discount",
+   "to": "step-discount",
+   "label": "Yes — discount applies"
+  },
+  {
+   "from": "dec-eligible-discount",
+   "to": "step-losses",
+   "label": "No — no discount (company, or <12 months)"
+  },
+  {
+   "from": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises instead of gain"
+  },
+  {
+   "from": "step-discount",
+   "to": "step-losses",
+   "label": "Discounted gain"
+  },
+  {
+   "from": "step-losses",
+   "to": "outcome-net",
+   "label": "Net capital gain after losses"
+  },
+  {
+   "from": "outcome-net",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "outcome-loss",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "outcome-gain",
+   "to": "step-losses",
+   "label": "Gain enters method statement"
+  },
+  {
+   "from": "dec-eligible-discount",
+   "to": "outcome-gain",
+   "label": "No — not a discount gain (company, <12 months)"
+  }
+ ],
+ "short": "CGT method & events",
+ "refs": "Div 102 · 104",
+ "sort": 20
+}

@@ -519,7 +519,7 @@ def process_cases(conn, limit=None):
 # Main orchestration
 # ---------------------------------------------------------------------------
 
-LEGISLATION_ACTS = ["itaa-1997", "itaa-1936", "gst-1999", "taa-1953", "nz-it-2007"]
+LEGISLATION_ACTS = ["itaa-1997", "itaa-1936", "gst-1999", "taa-1953", "fbt-1986", "sis-1993", "nz-it-2007"]
 COMMENTARY_ACTS = ["master-tax-guide", "master-gst-guide"]
 
 

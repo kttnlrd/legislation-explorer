@@ -1,0 +1,925 @@
+{
+ "id": "itaa-1936-part-x-cfc-attribution",
+ "title": "Part X ITAA 1936 — CFC attribution rules",
+ "act": "itaa-1936",
+ "part": "X",
+ "division": "",
+ "subdivision": "",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Attribution of the income of controlled foreign companies (CFCs) to Australian residents. A company resident in a listed or unlisted country is a CFC if 5 or fewer Australian entities hold 50%+ control (or a single entity 40%+, or de facto control), provided it is not a Part X Australian resident (boundary carve-out). An attributable taxpayer (10%+ interest) is taxed on its attribution percentage of the CFC's attributable income. The active income test (tainted income ratio under 5%) is the central gate: CFCs that pass it are attributed only limited amounts; unlisted country CFCs that fail it have all income attributed, while listed country CFCs that fail it are attributed only concession-income tainted amounts. Attribution accounts then make distributions tax-free. Subsection coverage: operative ss 340, 349-350, 352, 356-357, 361-363, 382-393, 432-433, 446-448, 451, 456-457 mapped to nodes; ss 317, 318-331, 334-348, 351, 353-355, 358-360, 364-381, 389-391, 394-431, 434-445, 449-450, 452-455, 458-461A (machinery/definitions); ss 462-468 (records/transitional).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "An Australian resident entity holds an interest in a foreign company (directly or through interposed entities)",
+   "body": "Part X of the ITAA 1936 attributes income of a controlled foreign company (CFC) to Australian residents with a sufficient interest in it. If the CFC's income is attributed, you are taxed on your share of its attributable income — mainly its passive (tainted) income — even though it has not been distributed.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "340",
+     "title": "Controlled foreign company (CFC)"
+    }
+   ],
+   "commentary": [
+    "scope-of-cfc-rules"
+   ],
+   "cases": [],
+   "definitions": [
+    "CFC",
+    "attributable income",
+    "attributable taxpayer"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2007_13",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2007_20",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "trigger",
+   "type": "event",
+   "label": "The foreign company derives income or profits in a statutory accounting period",
+   "body": "The attribution rules operate by statutory accounting period (normally the company's accounting year). If the company is a CFC with attributable income for the period, the income is attributed to attributable taxpayers in the year of income in which the period ends (s 456).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "456",
+     "title": "Assessability in respect of CFC's attributable income"
+    }
+   ],
+   "commentary": [
+    "attribution-of-cfc-income-to-attributable-taxpayers"
+   ],
+   "cases": [],
+   "definitions": [
+    "statutory accounting period"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1994_14",
+     "title": "some basic concepts underlying the operation of Division 13 and some circumstances in…"
+    },
+    {
+     "id": "TD_2022_9",
+     "title": "Income tax: is section 951A of the US Internal Revenue Code a provision of a law of a…"
+    },
+    {
+     "id": "LCG_2021_1",
+     "title": "OECD hybrid mismatch rules - targeted integrity rule"
+    }
+   ]
+  },
+  {
+   "id": "dec-country",
+   "type": "decision",
+   "label": "Is the company a resident of a listed country or an unlisted country?",
+   "body": "The Part applies only to companies resident (for tax purposes) in a listed country — countries with broadly comparable tax systems set out in the regulations (e.g. Canada, France, Germany, Japan, UK, US, NZ) — or an unlisted country (everywhere else). A company is resident in a listed country if it is not a Part X Australian resident and is treated as a resident of that country for its tax law purposes (s 332). A company is resident in an unlisted country if it is not a Part X Australian resident and meets the tests in s 333 (treated as resident under the country's tax law, or if not, management-and-control or incorporation tests). A company resident only in Australia (a Part X Australian resident) is outside the CFC rules entirely.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "340",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cfc-residency-rules"
+   ],
+   "cases": [],
+   "definitions": [
+    "listed country",
+    "unlisted country"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2007_13",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2007_20",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "dec-cfc",
+   "type": "decision",
+   "label": "Is the company a CFC — controlled by a small group of Australian entities?",
+   "body": "A company is a CFC if it is a resident of a listed or unlisted country and any of these applies (s 340): (a) a group of 5 or fewer Australian 1% entities holds aggregate associate-inclusive control interests of at least 50%; (b) a single Australian entity holds at least 40% and no other group (not including that entity or its associates) controls the company; or (c) the company is actually controlled (de facto) by a group of 5 or fewer Australian entities, alone or with associates. Associate-inclusive control interest (s 349) aggregates direct and indirect control interests plus those of associates. The 1% rule in s 349(4) avoids double-counting where entities would each hold 100% through a chain.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "340",
+     "title": ""
+    },
+    {
+     "act": "itaa-1936",
+     "section": "349",
+     "title": "Associate-inclusive control interest in a company or trust"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "350",
+     "title": "Direct control interest in a company"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "352",
+     "title": "Indirect control interest in a company or trust"
+    }
+   ],
+   "commentary": [
+    "what-is-a-cfc"
+   ],
+   "cases": [
+    {
+     "citation": "2012_FCAFC_179"
+    }
+   ],
+   "definitions": [
+    "CFC",
+    "associate-inclusive control interest",
+    "control interest",
+    "associate"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2002_3",
+     "title": ""
+    },
+    {
+     "id": "TR_2017_3",
+     "title": "Income tax: distributions from foreign companies - meaning of 'at the time the…"
+    },
+    {
+     "id": "PS_LA_2009_4",
+     "title": "PS LA 2009/4 — Process for putting a proposal to the Commissioner Appendix A APPENDIX B -…"
+    }
+   ]
+  },
+  {
+   "id": "dec-attributable",
+   "type": "decision",
+   "label": "Are you an attributable taxpayer — an Australian entity with a 10%+ associate-inclusive control interest?",
+   "body": "An entity is an attributable taxpayer in relation to a CFC if it is an Australian entity whose associate-inclusive control interest in the CFC is at least 10% (s 361(1)(a)). Where the CFC is a CFC only because of the de facto control test (s 340(c)), an Australian 1% entity in the controlling group of 5 or fewer is also an attributable taxpayer (s 361(1)(b)). For a CFT the same 10% test applies (s 361(2)). Section 768-960 of the ITAA 1997 can override this — if a foreign resident is treated as an Australian resident under a DTA tie-breaker, the Commissioner may determine the entity is not an attributable taxpayer (interaction provision).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "361",
+     "title": "Attributable taxpayer in relation to a CFC or a CFT"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-960",
+     "title": "Commissioner may determine entity not attributable taxpayer"
+    }
+   ],
+   "commentary": [
+    "attributable-taxpayer-under-cfc-rules"
+   ],
+   "cases": [
+    {
+     "citation": "1990_FCA_188"
+    }
+   ],
+   "definitions": [
+    "attributable taxpayer",
+    "associate-inclusive control interest",
+    "Australian entity"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1994_14",
+     "title": "some basic concepts underlying the operation of Division 13 and some circumstances in…"
+    }
+   ]
+  },
+  {
+   "id": "dec-percentage",
+   "type": "decision",
+   "label": "Work out your attribution percentage of the CFC",
+   "body": "Your attribution percentage (s 362) is the percentage of the CFC's income attributed to you, worked out from your attribution tracing interests (ss 358-360) through direct and indirect holdings, including interposed entities. It is generally the proportion of the CFC you effectively own, directly and indirectly.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "362",
+     "title": "Attribution percentage of an attributable taxpayer"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "356",
+     "title": "Direct attribution interest in a CFC or CFT"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "357",
+     "title": "Indirect attribution interest in a CFC or CFT"
+    }
+   ],
+   "commentary": [
+    "attributable-taxpayer-under-cfc-rules"
+   ],
+   "cases": [],
+   "definitions": [
+    "attribution percentage",
+    "attribution interest"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2017_1",
+     "title": "ATO compliance approach to transfer pricing issues related to centralised operating…"
+    }
+   ]
+  },
+  {
+   "id": "dec-ait",
+   "type": "decision",
+   "label": "Does the CFC pass the active income test — tainted income ratio below 5%?",
+   "body": "The CFC passes the active income test (s 432) if, for the statutory accounting period: it was in existence at period end (s 432(1)(a)); it had no gap in foreign residency — meaning at every moment it existed it was a resident of a listed or unlisted country (s 432(1)(b), known as the foreign-residency continuity limb — this is NOT an Australian-residency test; Australian residency is the threshold question owned by the Part X Australian resident definition); it kept accounts to accepted principles giving a true and fair view (s 432(1)(c)); it complied with the substantiation requirements (s 451); it carried on business at or through a PE in its country of residence (s 432(1)(e)); and its tainted income ratio is less than 0.05 (s 432(1)(f), per s 433). Tainted income comprises passive income (s 446 — dividends, interest, annuities, rents, royalties, IP assignment proceeds, tainted asset trading, tainted commodity and currency gains), tainted sales income (s 447) and tainted services income (s 448).\n\nTrading stock nuance: an asset held as trading stock is not a tainted asset (s 317(c)(i) carve-out), so turnover from trading stock sales (e.g. crypto traded as trading stock) stays in gross turnover but never reaches gross tainted turnover — it dilutes the ratio. The recognised accounts must actually classify it as trading stock revenue, or the s 434(1)(a)(ii) exclusion works against you.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "432",
+     "title": "Active income test"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "433",
+     "title": "Tainted income ratio"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "446",
+     "title": "Passive income"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "447",
+     "title": "Tainted sales income"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "448",
+     "title": "Tainted services income"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "451",
+     "title": "Substantiation requirements"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "317",
+     "title": "Definitions — tainted asset"
+    }
+   ],
+   "commentary": [
+    "active-income-test-under-cfc-rules"
+   ],
+   "cases": [
+    {
+     "citation": "2022_AATA_4691"
+    }
+   ],
+   "definitions": [
+    "active income test",
+    "tainted income ratio",
+    "tainted income",
+    "passive income",
+    "permanent establishment"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1997_20",
+     "title": "whether by a taxpayer, its advisers or the ATO - should be on identifying whether there…"
+    },
+    {
+     "id": "TR_2014_3",
+     "title": "Income tax: satisfying the 'carrying on a business at or through a permanent…"
+    },
+    {
+     "id": "TR_2024_4",
+     "title": "This cover sheet is provided for information only. It does not form part of TR 2024/4 -…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-unlisted-fail",
+   "type": "outcome",
+   "label": "Unlisted country CFC that fails the active income test: all income is attributed",
+   "body": "For an unlisted country CFC that does not pass the active income test, s 384(2)(a) assumes the only notional assessable income is what would be included if all income derived were adjusted tainted income — effectively attributing the CFC's entire income (adjusted tainted income is defined in s 386 as passive, tainted sales and tainted services income with modifications). Amounts under the FIF rules (s 102AAZD) and Division 6 (trust) are also included (s 384(2)(b)-(c)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "384",
+     "title": "Additional assumption for unlisted country CFC"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "386",
+     "title": "Adjusted tainted income"
+    }
+   ],
+   "commentary": [
+    "attributable-income-of-a-cfc"
+   ],
+   "cases": [],
+   "definitions": [
+    "attributable income",
+    "adjusted tainted income"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2007_16",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-unlisted-pass",
+   "type": "outcome",
+   "label": "Unlisted country CFC that passes the active income test: only FIF and trust amounts are attributed",
+   "body": "Where the CFC passes the active income test, s 384(2)(a) does not apply — only amounts under the FIF rules (s 102AAZD) and Division 6 (trust) are included in notional assessable income (s 384(2)(b)-(c)). The active business income is not attributed.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "384",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "attributable-income-of-a-cfc"
+   ],
+   "cases": [],
+   "definitions": [
+    "active income test"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2007_16",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-listed-fail",
+   "type": "outcome",
+   "label": "Listed country CFC that fails the active income test: only concession-income tainted amounts are attributed",
+   "body": "For a listed country CFC that does not pass the active income test, s 385(2)(a) assumes the only notional assessable income is: adjusted tainted income that is eligible designated concession income in relation to the listed country (or another listed country), plus regulation-specified amounts that are not eligible designated concession income, are not treated as derived from sources in the listed country, and pass the test in s 385(2A). FIF (s 102AAZD) and Division 6 amounts are also included (s 385(2)(b)-(c)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "385",
+     "title": "Additional assumption for listed country CFC"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "386",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "attributable-income-of-a-cfc"
+   ],
+   "cases": [],
+   "definitions": [
+    "eligible designated concession income",
+    "adjusted tainted income"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2014_3",
+     "title": "Income tax: satisfying the 'carrying on a business at or through a permanent…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-listed-pass",
+   "type": "outcome",
+   "label": "Listed country CFC that passes the active income test: only regulation, FIF and trust amounts are attributed",
+   "body": "Where the CFC passes the active income test, s 385(2)(a) does not apply — only the regulation-specified amounts, FIF (s 102AAZD) and Division 6 (trust) amounts are included in notional assessable income (s 385(2)(b)-(d)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "385",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "attributable-income-of-a-cfc"
+   ],
+   "cases": [],
+   "definitions": [
+    "active income test"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "calc",
+   "type": "action",
+   "label": "Calculate the attributable income — taxable income on modified assumptions",
+   "body": "Attributable income is the amount that would be the CFC's taxable income for the period if the assumptions in s 382-383 were made: the CFC is a taxpayer and resident; the period is a year of income; the Act is modified in accordance with Subdivisions B-E of Division 7; and the s 384 or 385 assumption applies. Key modifications: notional assessable amounts are taken pre-tax (s 392); a notional deduction is allowed for foreign taxes paid (s 393); double tax agreements are disregarded (s 388); certain provisions are disregarded (ss 389, 389A); and attributable income is reduced by interim dividends (s 387).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "382",
+     "title": "Attributable income is taxable income calculated on certain assumptions"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "383",
+     "title": "Basic assumptions"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "388",
+     "title": "Double tax agreements to be disregarded"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "392",
+     "title": "Notional assessable amounts are to be pre-tax"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "393",
+     "title": "Notional allowable deduction for taxes paid"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "387",
+     "title": "Reduction of attributable income because of interim dividends"
+    }
+   ],
+   "commentary": [
+    "attributable-income-of-a-cfc"
+   ],
+   "cases": [],
+   "definitions": [
+    "attributable income",
+    "notional assessable income",
+    "notional allowable deductions"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2003_27",
+     "title": "it arises at the end of the CFC's statutory accounting period and not at the end of the…"
+    },
+    {
+     "id": "TD_2017_25",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-assessment",
+   "type": "outcome",
+   "label": "Your attribution percentage of the attributable income is included in your assessable income",
+   "body": "Under s 456, your attribution percentage of the CFC's attributable income is included in your assessable income for the year of income in which the statutory accounting period ends. Where the item has already been subject to foreign accruals tax in a listed country at its normal company tax rate, the amount is reduced under s 456A. If the CFC changed residence (e.g. unlisted to listed) during the period, s 457 limits attribution to the parts of the period in which it was resident in the relevant country.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "456",
+     "title": ""
+    },
+    {
+     "act": "itaa-1936",
+     "section": "456A",
+     "title": "Reduction of section 456 assessability where item subject to foreign accruals tax"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "457",
+     "title": "Assessability where CFC changes residence"
+    }
+   ],
+   "commentary": [
+    "attribution-of-cfc-income-to-attributable-taxpayers"
+   ],
+   "cases": [
+    {
+     "citation": "2019_FCAFC_141"
+    }
+   ],
+   "definitions": [
+    "attribution percentage",
+    "attributable income",
+    "foreign accruals tax"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1997_19",
+     "title": "0731 Subject References: Australia-China double tax agreement foreign source income…"
+    },
+    {
+     "id": "TD_2000_9",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "accounts",
+   "type": "action",
+   "label": "Track the attribution accounts — surplus = attribution credits minus debits",
+   "body": "The attribution account system (Division 4) prevents double taxation of attributed income when it is later distributed. An attribution account entity is a company that is not a Part X Australian resident, a partnership or a trust (s 363). An attribution surplus exists when total attribution credits exceed total attribution debits (s 370). Credits arise when income is attributed (s 371); debits arise on distributions to you (s 372).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "363",
+     "title": "Attribution account entity"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "370",
+     "title": "Attribution surplus"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "371",
+     "title": "Attribution credit"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "372",
+     "title": "Attribution debit"
+    }
+   ],
+   "commentary": [
+    "attribution-accounts-for-cfc-distributions"
+   ],
+   "cases": [],
+   "definitions": [
+    "attribution account entity",
+    "attribution surplus",
+    "attribution credit",
+    "attribution debit"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1998_11",
+     "title": "and hence whether to refine the investigation by proceeding to the next stage, being a…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-distribution",
+   "type": "outcome",
+   "label": "Distributions of attributed income are non-assessable — the attribution surplus is debited",
+   "body": "When the CFC distributes profits that have already been attributed to you, the distribution is not taxed again: an attribution debit arises (s 372), reducing the attribution surplus. This is the mechanism that makes attributed income effectively taxed on an accrual basis, with distributions flowing out tax-free to the extent of the surplus.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "372",
+     "title": ""
+    },
+    {
+     "act": "itaa-1936",
+     "section": "370",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "attribution-accounts-for-cfc-distributions"
+   ],
+   "cases": [],
+   "definitions": [
+    "attribution debit",
+    "attribution surplus"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2009_157",
+     "title": "Non-portfolio dividends: returns on redeemable preference shares - debt interests"
+    },
+    {
+     "id": "TD_2006_51",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    },
+    {
+     "id": "TD_2006_6",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-disposal",
+   "type": "outcome",
+   "label": "Disposing of your interest: capital proceeds are reduced by the attribution surplus",
+   "body": "If you dispose of an interest in an attribution account entity (or a CGT event happens) while an attribution surplus exists, the consideration or capital proceeds are reduced by the surplus (s 461), so you are not taxed again on income already attributed. An attribution debit arises at the time of the disposal (s 372), with no grossed-up amount (s 373).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "461",
+     "title": "Reduction of disposal consideration or capital proceeds if attributed income not distributed"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "372",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "attribution-accounts-for-cfc-distributions"
+   ],
+   "cases": [
+    {
+     "citation": "2019_FCAFC_141"
+    }
+   ],
+   "definitions": [
+    "attribution surplus",
+    "attribution debit"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2009_6",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "records",
+   "type": "action",
+   "label": "Keep records of the CFC and its attributable income",
+   "body": "Division 11 requires attributable taxpayers to keep records sufficient to work out their liability (s 462), in writing in English or readily accessible and convertible into English, kept so the liability can be readily ascertained (s 466). Failure to keep records is an offence (s 465).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "462",
+     "title": "Keeping of records - section 456"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "466",
+     "title": "Manner in which records required to be kept"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "465",
+     "title": "Offence of failing to keep records"
+    }
+   ],
+   "commentary": [
+    "cfc-elections-and-notices"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "No attribution — the CFC's income is not included in your assessable income",
+   "body": "Where the company is not a CFC, you are not an attributable taxpayer, or the CFC passes the active income test (with only limited amounts attributed), the company's income is not attributed to you. It may be taxed later as a dividend when distributed, and other regimes (transfer pricing, the anti-avoidance rules, the CGT rules for foreign interests) may still apply.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "340",
+     "title": ""
+    },
+    {
+     "act": "itaa-1936",
+     "section": "361",
+     "title": ""
+    },
+    {
+     "act": "itaa-1936",
+     "section": "432",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "scope-of-cfc-rules"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_1997_20",
+     "title": "whether by a taxpayer, its advisers or the ATO - should be on identifying whether there…"
+    }
+   ]
+  },
+  {
+   "id": "no-attribution",
+   "type": "end",
+   "label": "Attribution applies — income taxed now, distributions tax-free later",
+   "body": "Your attribution percentage of the CFC's attributable income is taxed in the year the statutory accounting period ends. The attribution account system then lets the income flow out as tax-free distributions (or a reduced capital gain on disposal), keeping the total tax at the attribution stage.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "456",
+     "title": ""
+    },
+    {
+     "act": "itaa-1936",
+     "section": "461",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "attribution-of-cfc-income-to-attributable-taxpayers"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2022_9",
+     "title": "Income tax: is section 951A of the US Internal Revenue Code a provision of a law of a…"
+    },
+    {
+     "id": "LCG_2021_1",
+     "title": "OECD hybrid mismatch rules - targeted integrity rule"
+    }
+   ]
+  },
+  {
+   "id": "dec-part-x-aus-resident",
+   "type": "decision",
+   "label": "Is, or has the company become, a Part X Australian resident?",
+   "body": "A company that is a Part X Australian resident (resident in Australia under section 6 of the ITAA 1936, subject to tie-breaker rules in double tax agreements) cannot be a CFC. Section 340 defines a CFC as a company resident in a listed or unlisted country. Sections 332(2)(a) and 333(2)(a) each require that the company NOT be a Part X Australian resident. If the company IS a Part X Australian resident, the whole CFC analysis is displaced — it falls outside Part X entirely. A company that becomes a Part X Australian resident mid-period triggers the residence-change rules (s 457), which may tax accumulated undistributed tainted income.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "332",
+     "title": "Companies that are residents of listed countries"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "333",
+     "title": "Companies that are residents of unlisted countries"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "340",
+     "title": "Controlled foreign company (CFC)"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "457",
+     "title": "Assessability where CFC changes residence"
+    }
+   ],
+   "commentary": [
+    "cfc-residency-rules"
+   ],
+   "cases": [],
+   "definitions": [
+    "Part X Australian resident",
+    "resident",
+    "listed country",
+    "unlisted country"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1997_19",
+     "title": "0731 Subject References: Australia-China double tax agreement foreign source income…"
+    },
+    {
+     "id": "TD_2000_9",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "trigger",
+   "label": "company derives income"
+  },
+  {
+   "from": "dec-country",
+   "to": "dec-cfc",
+   "label": "Yes — listed/unlisted resident"
+  },
+  {
+   "from": "dec-country",
+   "to": "end",
+   "label": "No — not a listed/unlisted country resident"
+  },
+  {
+   "from": "dec-cfc",
+   "to": "dec-attributable",
+   "label": "Yes — CFC"
+  },
+  {
+   "from": "dec-cfc",
+   "to": "end",
+   "label": "No — not controlled"
+  },
+  {
+   "from": "dec-attributable",
+   "to": "dec-percentage",
+   "label": "Yes — 10%+ interest"
+  },
+  {
+   "from": "dec-attributable",
+   "to": "end",
+   "label": "No — below 10% threshold"
+  },
+  {
+   "from": "dec-percentage",
+   "to": "dec-ait",
+   "label": "attribution percentage"
+  },
+  {
+   "from": "dec-ait",
+   "to": "outcome-unlisted-fail",
+   "label": "Unlisted — fails AIT"
+  },
+  {
+   "from": "dec-ait",
+   "to": "outcome-unlisted-pass",
+   "label": "Unlisted — passes AIT"
+  },
+  {
+   "from": "dec-ait",
+   "to": "outcome-listed-fail",
+   "label": "Listed — fails AIT"
+  },
+  {
+   "from": "dec-ait",
+   "to": "outcome-listed-pass",
+   "label": "Listed — passes AIT"
+  },
+  {
+   "from": "outcome-unlisted-fail",
+   "to": "calc",
+   "label": ""
+  },
+  {
+   "from": "outcome-listed-fail",
+   "to": "calc",
+   "label": ""
+  },
+  {
+   "from": "outcome-unlisted-pass",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "outcome-listed-pass",
+   "to": "end",
+   "label": ""
+  },
+  {
+   "from": "calc",
+   "to": "outcome-assessment",
+   "label": "attributable income"
+  },
+  {
+   "from": "outcome-assessment",
+   "to": "accounts",
+   "label": "track attribution accounts"
+  },
+  {
+   "from": "accounts",
+   "to": "outcome-distribution",
+   "label": "distribution received"
+  },
+  {
+   "from": "accounts",
+   "to": "outcome-disposal",
+   "label": "interest disposed of"
+  },
+  {
+   "from": "outcome-distribution",
+   "to": "records",
+   "label": ""
+  },
+  {
+   "from": "outcome-disposal",
+   "to": "records",
+   "label": ""
+  },
+  {
+   "from": "records",
+   "to": "no-attribution",
+   "label": ""
+  },
+  {
+   "from": "trigger",
+   "to": "dec-part-x-aus-resident",
+   "label": "statutory accounting period"
+  },
+  {
+   "from": "dec-part-x-aus-resident",
+   "to": "dec-country",
+   "label": "No — company is NOT a Part X Australian resident"
+  },
+  {
+   "from": "dec-part-x-aus-resident",
+   "to": "end",
+   "label": "Yes — Part X Australian resident, not a CFC"
+  }
+ ],
+ "short": "CFC attribution",
+ "refs": "Part X",
+ "sort": 13
+}

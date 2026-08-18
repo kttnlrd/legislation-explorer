@@ -1,0 +1,162 @@
+# Trust Distributions Workflow — v0.1 (draft)
+# Decision map for Div 6 ITAA 1936 trust income: net income, present
+# entitlement, streaming, trustee liability, Div 6AA minors, s 100A.
+# Anchors verified against local itaa-1936 / itaa-1997 corpus.
+
+id: trust-distributions
+name: Trust Distributions
+area: income-tax
+version: 0.1
+entry: [trust_exists]
+
+nodes:
+
+  trust_exists:
+    question: "Is there a trust estate for tax purposes? (trust deed, property held on trust)"
+    fetch: ["itaa-1936:95"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "no trust estate"
+        then: stop_not_trust
+      - if: "trust estate exists"
+        then: resident_status
+
+  stop_not_trust:
+    question: "No trust estate — Div 6 does not apply."
+    terminal: true
+
+  resident_status:
+    question: "Is the trust estate a resident trust estate for the income year?"
+    fetch: ["itaa-1936:95"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "resident trust estate"
+        then: net_income
+      - if: "non-resident trust estate (income attributable to Australian sources)"
+        then: net_income
+      - if: "non-resident trust estate, no Australian-source income"
+        then: stop_not_trust
+
+  net_income:
+    question: "What is the net income of the trust estate? (s 95: assessable income minus allowable deductions — broadly defined, includes capital gains by force of the CGT provisions)"
+    fetch: ["itaa-1936:95"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "net income is nil or a loss"
+        then: stop_no_income
+      - if: "net income is positive"
+        then: beneficiary_entitlement
+
+  stop_no_income:
+    question: "No net income — no amount assessable under Div 6 (but note tax losses / capital losses may arise)."
+    terminal: true
+
+  beneficiary_entitlement:
+    question: "Is a beneficiary presently entitled to a share of the income of the trust estate? (s 97 — present entitlement requires a vested and indefeasible right; trustee resolution must be valid)"
+    fetch: ["itaa-1936:97"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "beneficiary presently entitled and not under a legal disability"
+        then: streamed_amounts
+      - if: "beneficiary presently entitled but under a legal disability (minor, incapacity)"
+        then: trustee_disability
+      - if: "no beneficiary presently entitled (accumulation, discretionary default)"
+        then: trustee_no_entitlement
+
+  streamed_amounts:
+    question: "Does the trust stream specific amounts? — capital gains (s 115-215 ITAA 1997) or franked distributions (s 207-35)?"
+    fetch: ["itaa-1997:115-215"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "capital gain streamed to beneficiary"
+        then: streaming_gain
+      - if: "franked distribution streamed to beneficiary"
+        then: streaming_franked
+      - if: "no streaming — ordinary income only"
+        then: minors_check
+
+  streaming_gain:
+    question: "Capital gain streamed to beneficiary — assessable to beneficiary as capital gain; trust may still be liable for its share."
+    fetch: ["itaa-1997:115-215"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "streaming valid (proportionate, not just a label)"
+        then: minors_check
+      - if: "streaming ineffective"
+        then: minors_check
+
+  streaming_franked:
+    question: "Franked distribution streamed to beneficiary — beneficiary entitled to franking credit; trust passes on imputation benefit."
+    fetch: ["itaa-1997:207-35"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "streaming valid"
+        then: minors_check
+      - if: "streaming ineffective"
+        then: minors_check
+
+  trustee_disability:
+    question: "Beneficiary under a legal disability — trustee liable for tax on that share (s 98)."
+    fetch: ["itaa-1936:98"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "beneficiary is a minor — apply Div 6AA penalty rates on unearned income"
+        then: minors_check
+      - if: "beneficiary under other legal disability"
+        then: reimbursement_check
+
+  trustee_no_entitlement:
+    question: "No beneficiary presently entitled — trustee assessable: s 99 (concessional, where the trust is a deceased estate or special circumstances) or s 99A (45% default for discretionary accumulation)?"
+    fetch: ["itaa-1936:99", "itaa-1936:99a"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "s 99 applies (deceased estate, or s 99A(2) exceptions)"
+        then: reimbursement_check
+      - if: "s 99A applies — trustee taxed at 45% on unearned income"
+        then: stop_done
+
+  minors_check:
+    question: "Do Div 6AA penalty rates apply to any minor beneficiary's unearned income? (s 102A-102C — threshold $416, except for employment income, testamentary trust income)"
+    fetch: ["itaa-1936:102a"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "minor beneficiary with unearned income over threshold"
+        then: div6aa_applies
+      - if: "no minors or income under threshold"
+        then: reimbursement_check
+
+  div6aa_applies:
+    question: "Div 6AA applies — minor's unearned income taxed at penalty rates; exceptions: employment income, testamentary trust income, income from property transferred by will."
+    fetch: ["itaa-1936:102a"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "exception applies (testamentary trust etc.)"
+        then: reimbursement_check
+      - if: "no exception"
+        then: stop_done
+
+  reimbursement_check:
+    question: "Does s 100A apply — a reimbursement agreement that results in a beneficiary not enjoying the benefit of the income? (anti-avoidance; trustee taxed at 45% on the diverted amount)"
+    fetch: ["itaa-1936:100a"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "reimbursement agreement exists and no exclusion applies"
+        then: stop_s100a
+      - if: "no reimbursement agreement (or exclusion: family law, ordinary family dealings)"
+        then: stop_done
+
+  stop_s100a:
+    question: "Section 100A applies — trustee assessable on the diverted income at 45%; seek specialist advice (exclusions are narrow)."
+    terminal: true
+
+  stop_done:
+    question: "Trust distribution analysis complete — present the assessment path (beneficiary vs trustee) with authorities."
+    terminal: true
+
+rules:
+  - "Present entitlement (s 97) is the pivot: vested and indefeasible right, valid trustee resolution before year end."
+  - "Net income (s 95) is a statutory concept broader than accounting income — capital gains and franked distributions are included."
+  - "Streaming (s 115-215, s 207-35) only works if the trust deed and resolution support proportionate distribution."
+  - "s 99A is the default for discretionary accumulations — s 99 is the exception."
+  - "Check s 100A whenever a beneficiary is entitled but does not enjoy the economic benefit."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."

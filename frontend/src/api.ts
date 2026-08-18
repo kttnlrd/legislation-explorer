@@ -80,10 +80,13 @@ export const api = {
     if (limit !== undefined) url += `&limit=${limit}`
     return fetchJson(url)
   },
-  searchHybrid: (q: string, type?: string, limit?: number) => {
+  searchHybrid: (q: string, type?: string, limit?: number, opts?: { operator?: string; dateFrom?: string; dateTo?: string }) => {
     let url = `/search/hybrid?q=${encodeURIComponent(q)}`
     if (type) url += `&type=${type}`
     if (limit !== undefined) url += `&limit=${limit}`
+    if (opts?.operator && opts.operator !== 'AND') url += `&operator=${encodeURIComponent(opts.operator)}`
+    if (opts?.dateFrom) url += `&date_from=${encodeURIComponent(opts.dateFrom)}`
+    if (opts?.dateTo) url += `&date_to=${encodeURIComponent(opts.dateTo)}`
     return fetchJson(url)
   },
   suggest: (q: string, limit?: number) => {
@@ -93,7 +96,16 @@ export const api = {
   },
   info: () => fetchJson('/info'),
   mcpHallOfFame: () => fetchJson('/mcp-hall-of-fame'),
-  sectionRefs: (act: string, section: string) => fetchJson(`/section-refs/${act}/${section}`),
+  sectionRefs: (act: string, section: string, limit?: number) =>
+    fetchJson(`/section-refs/${act}/${section}${limit ? `?limit=${limit}` : ''}`),
+  graphRelated: (key: string, limit: number = 5, edgeTypes?: string) =>
+    fetchJson(`/graph/related?key=${encodeURIComponent(key)}&limit=${limit}${edgeTypes ? `&edge_types=${encodeURIComponent(edgeTypes)}` : ''}`),
+  privateRulingsTree: () => fetchJson('/private-rulings/tree'),
+  privateRulingsByYear: (year: number, limit: number = 50, offset: number = 0) =>
+    fetchJson(`/private-rulings?year=${year}&limit=${limit}&offset=${offset}`),
+  privateRulingsUndated: (limit: number = 50, offset: number = 0) =>
+    fetchJson(`/private-rulings?undated=true&limit=${limit}&offset=${offset}`),
+  privateRuling: (authnum: string) => fetchJson(`/private-ruling/${authnum}`),
   sectionDefinedTerms: (act: string, section: string) => fetchJson(`/section-defined-terms/${act}/${section}`),
 
   // Treaty endpoints
@@ -104,6 +116,13 @@ export const api = {
   treatySearch: (q: string, country?: string) => {
     let url = `/treaties/search?q=${encodeURIComponent(q)}`
     if (country) url += `&country=${country}`
+    return fetchJson(url)
+  },
+
+  // ATO Legal Database (proxied through backend/routes/ato.py)
+  atoSearch: (q: string, start: number = 1, pageSize: number = 20, df: string = '') => {
+    let url = `/ato/search?q=${encodeURIComponent(q)}&start=${start}&pageSize=${pageSize}`
+    if (df) url += `&df=${encodeURIComponent(df)}`
     return fetchJson(url)
   },
 }

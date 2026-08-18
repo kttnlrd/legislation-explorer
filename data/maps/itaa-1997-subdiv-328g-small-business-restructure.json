@@ -1,0 +1,1075 @@
+{
+ "id": "itaa-1997-subdiv-328g-small-business-restructure",
+ "title": "Subdivision 328-G — Small business restructure roll-over",
+ "act": "itaa-1997",
+ "part": "3-45",
+ "division": "328",
+ "subdivision": "328-G",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "A small business entity (or its affiliate, connected entity, or partner) can restructure the ownership of its business assets on a tax-neutral basis under Subdivision 328-G if the transaction is a genuine restructure, does not materially change ultimate economic ownership, all parties meet the small business entity / affiliation / connection / partnership conditions, the assets are active assets, the residency requirement is satisfied, and the parties choose the roll-over. The roll-over cost carries over (s 328-455), pre-CGT status is preserved (s 328-460), new membership interests get a cost base equal to the roll-over costs (s 328-465), capital losses on membership interests affected by the transfer are disregarded (s 328-470), and the Subdivision interacts with Subdivision 152-E small business roll-overs (s 328-475). The safe harbour rule (s 328-435) provides a safe path to satisfy the genuine restructure test. Subsection coverage: operative sections 328-430(1)(a) to (f), 328-430(2), 328-435(a)(b)(c), 328-440(a)(b)(c), 328-445(a)(b)(c)(d), 328-450(1)(a)(b), 328-450(2)(a)(b), 328-455(1)(a)(b), 328-455(2)(a)(b)(c), 328-460, 328-465(1)(a)(b)(c)(d)(e), 328-465(2), 328-470(a)(b)(i)(ii), 328-475(a)(b) mapped to nodes; 328-420, 328-425 (guide); 328-110 (small business entity); 104-10 (CGT event A1); 40-340(1) item 8 (depreciating asset roll-over); 152-E (small business 15-year exemption / retirement roll-over).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A small business entity (or affiliate, connected entity, or partner) transfers business assets to one or more transferees",
+   "body": "Subdivision 328-G allows a tax-neutral roll-over when a small business entity restructures its business operations. The transferor transfers a CGT asset (other than a depreciating asset) to one or more transferees. The roll-over is intended to facilitate flexibility for owners of small business entities to restructure how their business assets are held without triggering immediate tax consequences (s 328-425).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-420",
+     "title": "What this Subdivision is about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-425",
+     "title": "Object of this Subdivision"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over",
+    "cgt-concessions-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "small business entity",
+    "CGT asset",
+    "business",
+    "transferor",
+    "transferee"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-genuine-restructure",
+   "type": "decision",
+   "label": "Is the transaction a genuine restructure of an ongoing business? (s 328-430(1)(a))",
+   "body": "The transaction must be, or be part of, a genuine restructure of an ongoing business. Section 328-435 provides a safe harbour: a transaction is a genuine restructure if, in the 3-year period after the transaction takes effect: (a) there is no change in ultimate economic ownership of any significant assets (other than trading stock) transferred; (b) those significant assets continue to be active assets; and (c) there is no significant or material use of those significant assets for private purposes. The safe harbour does not limit the general meaning of 'genuine restructure' — a transaction may qualify even if it does not meet all three safe harbour conditions.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-435",
+     "title": "Genuine restructures—safe harbour rule"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over",
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [
+    {
+     "citation": "2020_FCA_1799",
+     "note": "Meaning of 'genuine restructure' in small business context"
+    },
+    {
+     "citation": "2005_AATA_1251",
+     "note": "Factors considered for genuine restructure"
+    },
+    {
+     "citation": "2004_AATA_113",
+     "note": "Restructure vs mere asset sale distinction"
+    }
+   ],
+   "definitions": [
+    "genuine restructure",
+    "ongoing business",
+    "significant assets",
+    "active asset"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2003_31",
+     "title": "TD 2003/31 [WITHDRAWN]"
+    },
+    {
+     "id": "LCG_2016_2",
+     "title": "Restructure from company to discretionary trust 6 Facts 6 No direct income tax…"
+    },
+    {
+     "id": "LCG_2016_3",
+     "title": "What is a 'genuine restructure of an ongoing business' 17 Example 1: Asset protection 17…"
+    }
+   ]
+  },
+  {
+   "id": "dec-safe-harbour-exception",
+   "type": "decision",
+   "label": "Does the transaction meet the s 328-435 safe harbour (no change in UEO, assets remain active, no private use)?",
+   "body": "The safe harbour is not mandatory — it provides a safe path to satisfy the genuine restructure condition. If met (3-year post-transaction: no UEO change in significant assets other than trading stock; significant assets continue to be active assets; no significant/material private use), the transaction is deemed a genuine restructure. If not met, the transaction may still qualify under the general meaning of genuine restructure.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-435",
+     "title": "Genuine restructures—safe harbour rule"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2025_FCA_1135",
+     "note": "Toys 'R' Us ANZ — safe harbour and business continuity"
+    }
+   ],
+   "definitions": [
+    "ultimate economic ownership",
+    "active asset",
+    "significant assets"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2003_31",
+     "title": "TD 2003/31 [WITHDRAWN]"
+    },
+    {
+     "id": "LCG_2016_3",
+     "title": "What is a 'genuine restructure of an ongoing business' 17 Example 1: Asset protection 17…"
+    }
+   ]
+  },
+  {
+   "id": "dec-safe-harbour-not-met",
+   "type": "decision",
+   "label": "If safe harbour not met: does the transaction still qualify as a genuine restructure under general principles?",
+   "body": "The safe harbour rule (s 328-435) does not limit paragraph 328-430(1)(a). A transaction that does not satisfy the three safe harbour conditions may still be a genuine restructure of an ongoing business. Factors may include business purpose, continuity of business operations, and economic substance. The ATO may examine the surrounding circumstances.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-435",
+     "title": "Genuine restructures—safe harbour rule"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2020_FCA_1799",
+     "note": "Genuine restructure — general principles"
+    }
+   ],
+   "definitions": [
+    "genuine restructure"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_38",
+     "title": "Simplified Tax System (STS) - five year restriction on re-entry"
+    },
+    {
+     "id": "AID_2004_651",
+     "title": "Simplified Tax System (STS): assets expected to be let predominantly on a depreciating…"
+    }
+   ]
+  },
+  {
+   "id": "dec-small-business-entity",
+   "type": "decision",
+   "label": "Is each party a small business entity, or does it have an affiliate / connection / partnership that is a small business entity? (s 328-430(1)(b))",
+   "body": "Each party to the transfer must satisfy one or more of: (i) it is a small business entity for the income year of the transfer (aggregated turnover < $10M, carrying on business — s 328-110); (ii) it has an affiliate that is a small business entity; (iii) it is connected with an entity that is a small business entity; or (iv) it is a partner in a partnership that is a small business entity. A small business entity must carry on a business in the current year and have aggregated turnover < $10M in the previous year or likely < $10M in the current year (s 328-110(1)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-110",
+     "title": "Meaning of small business entity"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over",
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [
+    {
+     "citation": "2023_AATA_1700",
+     "note": "Small business entity — carrying on a business"
+    }
+   ],
+   "definitions": [
+    "small business entity",
+    "affiliate",
+    "connected with",
+    "aggregated turnover",
+    "partnership"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2019_1",
+     "title": "Income tax: when does a company carry on a business?"
+    },
+    {
+     "id": "TD_2021_7",
+     "title": "calculating the annual turnover of a connected entity or affiliate with a different…"
+    },
+    {
+     "id": "TD_2022_5",
+     "title": "Income tax: aggregated turnover - application of the 'connected with' concept to…"
+    }
+   ]
+  },
+  {
+   "id": "dec-ultimate-economic-ownership",
+   "type": "decision",
+   "label": "Does the transaction materially change ultimate economic ownership? (s 328-430(1)(c))",
+   "body": "The transaction must not materially change which individual(s) have ultimate economic ownership (UEO) of the asset, or each individual's share of that UEO. For discretionary trusts, s 328-440 provides that a transaction does not change UEO if: the asset was held by a non-fixed family trust before or after the transfer, and every individual with UEO before/after is a member of the same family group (Sch 2F ITAA 1936).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-440",
+     "title": "Ultimate economic ownership—discretionary trusts"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2025_ARTA_2154",
+     "note": "Ultimate economic ownership — family trust context"
+    },
+    {
+     "citation": "2023_AATA_1700",
+     "note": "UEO and trust restructures"
+    }
+   ],
+   "definitions": [
+    "ultimate economic ownership",
+    "non-fixed trust",
+    "family trust",
+    "family group"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2016_16",
+     "title": "Compliance approach 23 Discretion to treat interest as a fixed entitlement in subsection…"
+    },
+    {
+     "id": "TD_2003_29",
+     "title": "TD 2003/29 [WITHDRAWN]"
+    }
+   ]
+  },
+  {
+   "id": "dec-discretionary-trust",
+   "type": "decision",
+   "label": "Does the s 328-440 discretionary trust safe harbour apply (asset in a non-fixed family trust, same family group)?",
+   "body": "Section 328-440 deems no change in UEO if: (a) just before or just after the transfer, the asset is included in the property of a non-fixed trust that is a family trust; and (b) every individual with UEO just before the transfer was a member of the same family group relating to that trust; and (c) every individual with UEO just after the transfer is also a member of that family group. This safe harbour removes the need to trace ultimate economic ownership through discretionary trust structures.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-440",
+     "title": "Ultimate economic ownership—discretionary trusts"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2025_ARTA_2154",
+     "note": "Family trust — UEO safe harbour"
+    }
+   ],
+   "definitions": [
+    "non-fixed trust",
+    "family trust",
+    "family group",
+    "ultimate economic ownership"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2016_16",
+     "title": "Compliance approach 23 Discretion to treat interest as a fixed entitlement in subsection…"
+    },
+    {
+     "id": "TD_2003_29",
+     "title": "TD 2003/29 [WITHDRAWN]"
+    }
+   ]
+  },
+  {
+   "id": "dec-active-asset",
+   "type": "decision",
+   "label": "Is the asset a CGT asset (other than a depreciating asset) that is an active asset? (s 328-430(1)(d))",
+   "body": "The asset must be a CGT asset (not a depreciating asset) that, at the time the transfer takes effect, is: (i) if s 328-430(1)(b)(i) applies — an active asset of the small business entity; (ii) if (b)(ii) or (iii) applies — an active asset satisfying s 152-10(1A); or (iii) if (b)(iv) applies — an active asset and an interest in a partnership asset. Depreciating assets are covered separately under s 40-340(1) item 8. Active assets are defined in s 995-1 and Division 152 (excluding financial assets, and subject to the 80% threshold in the 12 months before the CGT event).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "40-340",
+     "title": "Roll-over for depreciating assets"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over",
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [
+    {
+     "citation": "2023_AATA_1700",
+     "note": "Active asset requirement — meaning of active asset"
+    }
+   ],
+   "definitions": [
+    "CGT asset",
+    "depreciating asset",
+    "active asset",
+    "CGT concession stakeholder"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2012_7",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2005_1",
+     "title": "Copyright is nil under section 40-180 of the Income Tax Assessment Act 1997 (ITAA 1997).…"
+    },
+    {
+     "id": "LCG_2021_3",
+     "title": "Temporary full expensing"
+    }
+   ]
+  },
+  {
+   "id": "dec-residency",
+   "type": "decision",
+   "label": "Do the transferor and each transferee meet the residency requirement? (s 328-430(1)(e), s 328-445)",
+   "body": "The residency requirement in s 328-445 depends on entity type: (a) individual or company — must be an Australian resident; (b) trust — must be a resident trust for CGT purposes; (c) partnership (other than corporate limited partnership) — at least one partner must be an Australian resident; (d) corporate limited partnership — must be a resident under s 94T ITAA 1936. All parties (transferor and each transferee) must satisfy the requirement.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-445",
+     "title": "Residency requirement"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over",
+    "basic-conditions-for-cgt-small-business-relief"
+   ],
+   "cases": [
+    {
+     "citation": "2025_ARTA_174",
+     "note": "Residency requirement — individual residence"
+    },
+    {
+     "citation": "2020_AATA_4024",
+     "note": "Residency — resident trust for CGT purposes"
+    }
+   ],
+   "definitions": [
+    "Australian resident",
+    "resident trust for CGT purposes",
+    "corporate limited partnership",
+    "Australian resident"
+   ],
+   "rulings": [
+    {
+     "id": "LCG_2016_2",
+     "title": "Restructure from company to discretionary trust 6 Facts 6 No direct income tax…"
+    }
+   ]
+  },
+  {
+   "id": "dec-exempt-entity",
+   "type": "decision",
+   "label": "Is any party an exempt entity or complying superannuation entity? (s 328-430(2))",
+   "body": "A roll-over under this Subdivision is not available if the transferor or any transferee is either an exempt entity or a complying superannuation entity. This is a disqualifying condition that overrides all other conditions.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2019_FCA_2155",
+     "note": "Exempt entity status and roll-over availability"
+    }
+   ],
+   "definitions": [
+    "exempt entity",
+    "complying superannuation entity"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "choice",
+   "type": "action",
+   "label": "The transferor and each transferee choose to apply the roll-over (s 328-430(1)(f))",
+   "body": "The transferor and each transferee must choose to apply the roll-over under this Subdivision in relation to the assets transferred under the transaction. The choice must be made in the approved form by the day the entity lodges its income tax return for the income year in which the transfer occurred, or within further time allowed by the Commissioner (s 103-25). All parties must make the choice — the roll-over does not apply if any party fails to do so.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "103-25",
+     "title": "When choice must be made"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "choice",
+    "approved form"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2005_19",
+     "title": "application of Subdivision 124-M of the Income Tax Assessment Act 1997 - Part IVA of the…"
+    },
+    {
+     "id": "TD_1999_43",
+     "title": "8982 Related Rulings/Determinations: TD 53 TR 96/20"
+    }
+   ]
+  },
+  {
+   "id": "outcome-general-no-tax-consequences",
+   "type": "outcome",
+   "label": "s 328-450: Transfer has no direct income tax consequences",
+   "body": "Except as provided by this Subdivision, a transfer of an asset under a roll-over transaction has no direct consequences under the income tax law. For example, if the transfer were from a company to a shareholder, it would not be treated as a deemed dividend under Div 7A ITAA 1936. However, this does not affect the application of income tax law in relation to: (a) anything that happens that does not directly relate to the transfer; or (b) the ownership of the asset at any time.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-450",
+     "title": "Small business transfers not to affect income tax positions"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2019_FCA_2155",
+     "note": "Div 7A interaction with business restructures"
+    }
+   ],
+   "definitions": [
+    "dividend",
+    "Division 7A",
+    "income tax law"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-roll-over-cost",
+   "type": "outcome",
+   "label": "s 328-455: Assets transferred at roll-over cost (cost base carries over)",
+   "body": "Section 328-455(1): Income tax law applies as if the transfer takes place for the asset's roll-over cost. The roll-over cost is (s 328-455(2)): (a) for a CGT asset (other than trading stock, revenue asset or depreciating asset) — the transferor's cost base just before the transfer; (b) for trading stock — the cost of the item to the transferor, or its value at start of the income year if held as trading stock then; (c) for a revenue asset — the amount that would give the transferor no profit or loss on the transfer. This effectively defers any gain/loss by carrying the cost base forward to the transferee.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-455",
+     "title": "Effect of small business restructures on transferred cost of assets"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2010_AATA_455",
+     "note": "Roll-over cost — meaning and application"
+    },
+    {
+     "citation": "2019_FCA_2155",
+     "note": "Cost base carry-over in restructures"
+    }
+   ],
+   "definitions": [
+    "roll-over cost",
+    "cost base",
+    "reduced cost base",
+    "trading stock",
+    "revenue asset"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-pre-cgt-preserved",
+   "type": "outcome",
+   "label": "s 328-460: Pre-CGT assets — transferee taken to have acquired before 20 September 1985",
+   "body": "For the purposes of applying s 328-455(1) to a CGT asset (other than a revenue asset) that is a pre-CGT asset, the transferee is taken to have acquired the asset before 20 September 1985. This preserves the pre-CGT status of assets even after the restructure, so that any future capital gain on disposal by the transferee may be disregarded under the pre-CGT exemption.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-460",
+     "title": "Effect of small business restructures on acquisition times of pre-CGT assets"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2016_FCAFC_31",
+     "note": "Pre-CGT asset treatment in restructures"
+    },
+    {
+     "citation": "2019_FCA_2155",
+     "note": "Pre-CGT status preservation"
+    }
+   ],
+   "definitions": [
+    "pre-CGT asset",
+    "acquired",
+    "CGT asset"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-new-membership-interests",
+   "type": "outcome",
+   "label": "s 328-465: New membership interests — cost base = roll-over costs ÷ number of interests",
+   "body": "If the transaction provides for membership interests to be issued as consideration: the first element of the cost base of each membership interest = (sum of roll-over costs of transferred assets that are neither depreciating assets nor pre-CGT assets + adjustable values of depreciating assets, less liabilities assumed by a transferee) ÷ number of membership interests (s 328-465(1)(d)). The first element of the reduced cost base is worked out similarly. If membership interests are only part of the consideration, these amounts are reduced proportionally (s 328-465(2)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-465",
+     "title": "New membership interests as consideration for transfer of assets"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2016_FCAFC_31",
+     "note": "Cost base of new membership interests"
+    }
+   ],
+   "definitions": [
+    "membership interests",
+    "cost base",
+    "reduced cost base",
+    "roll-over cost",
+    "adjustable value"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-capital-loss-disregarded",
+   "type": "outcome",
+   "label": "s 328-470: Capital loss on membership interests affected by transfer is disregarded",
+   "body": "If s 328-455 applies to the transfer and an entity holds a membership interest in the transferor or a transferee (or a membership interest issued under the transaction), any capital loss from a CGT event arising in relation to that membership interest after the transaction takes effect is disregarded — except to the extent the entity can demonstrate the loss is attributable to a matter other than the transaction. This prevents taxpayers from engineering artificial capital losses through the restructure.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-470",
+     "title": "Membership interests affected by transfers of assets"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "1993_AATA_620",
+     "note": "Capital loss attribution in restructures"
+    }
+   ],
+   "definitions": [
+    "membership interest",
+    "capital loss",
+    "CGT event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-interaction-152e",
+   "type": "outcome",
+   "label": "s 328-475: Interaction with Subdivision 152-E small business roll-over (replacement asset)",
+   "body": "If the transferor has previously chosen a Subdivision 152-E small business roll-over for a CGT event and the transferred asset is a replacement asset (within the meaning of ss 104-185, 104-190, 104-197, 104-198), then those sections (CGT events J2, J5, J6) apply to each transferee as if the transferee, not the transferor, made the Subdivision 152-E choice. This ensures the deferred gain from the earlier small business roll-over is tracked through to the new entity.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "328-475",
+     "title": "Small business restructures involving assets already subject to small business roll-over"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-185",
+     "title": "CGT event J2"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-190",
+     "title": "CGT event J5"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-197",
+     "title": "CGT event J6"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-198",
+     "title": "CGT event J6"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [
+    {
+     "citation": "2019_FCA_2155",
+     "note": "Interaction of small business roll-overs"
+    },
+    {
+     "citation": "2010_AATA_455",
+     "note": "Subdiv 152-E replacement asset treatment"
+    }
+   ],
+   "definitions": [
+    "replacement asset",
+    "Subdivision 152-E",
+    "small business roll-over"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_79",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "interaction-cgt-event-a1",
+   "type": "outcome",
+   "label": "Interaction: CGT event A1 (s 104-10) — disposal of asset",
+   "body": "Under the roll-over, any CGT event A1 that would otherwise arise on the transfer is disregarded (the transfer is treated as taking place at roll-over cost, so no capital gain or loss arises). However, if the roll-over conditions are not met, CGT event A1 applies in the usual way: the transferor makes a capital gain = capital proceeds (market value) less cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "CGT event A1—disposal of a CGT asset"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-455",
+     "title": "Effect of small business restructures on transferred cost of assets"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT event A1",
+    "capital proceeds",
+    "cost base",
+    "capital gain"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2000_1",
+     "title": "and, indeed, including Goss v. Lord Nugent itself - that the parties to an agreement may…"
+    },
+    {
+     "id": "TR_2001_9",
+     "title": "see paragraphs 30-31 below; (c) may be allowable as a capital loss to a life assurance…"
+    },
+    {
+     "id": "TR_2002_14",
+     "title": "developing or acquiring a retirement village and putting that to profit by the recurrent…"
+    }
+   ]
+  },
+  {
+   "id": "interaction-alternative-rollovers",
+   "type": "outcome",
+   "label": "Interaction: Alternative roll-over paths (Div 122-A, 124-M, 615)",
+   "body": "Subdivision 328-G is not the only roll-over for business restructures. Alternative paths include: Division 122-A (disposal to wholly-owned company), Subdivision 124-M (scrip for scrip roll-over), and Division 615 (interposed company roll-over). Each has different eligibility conditions. Subdivision 328-G is broader in some respects (works with trusts, partnerships, and entities that are affiliates/connected) but requires the genuine restructure condition and small business entity status.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "122-15",
+     "title": "Disposal or creation of assets—wholly-owned company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-780",
+     "title": "Scrip for scrip roll-over"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-5",
+     "title": "Disposing of interests in one entity for shares in a company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures",
+    "scrip-for-scrip-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "roll-over",
+    "small business entity"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2002_4",
+     "title": ""
+    },
+    {
+     "id": "TD_2004_50",
+     "title": "capital gains tax head company scrip for scrip rollover single entity rule ultimate…"
+    }
+   ]
+  },
+  {
+   "id": "interaction-depreciating-assets",
+   "type": "outcome",
+   "label": "Interaction: Depreciating assets — s 40-340(1) item 8 roll-over",
+   "body": "The CGT asset condition (s 328-430(1)(d)) expressly excludes depreciating assets. Depreciating assets transferred in a small business restructure are dealt with under item 8 of the table in s 40-340(1), which provides a separate roll-over for depreciating assets in the context of small business restructures. Tax-neutral transfer of the depreciating asset at its adjustable value.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "40-340",
+     "title": "Roll-over for depreciating assets"
+    }
+   ],
+   "commentary": [
+    "simpliﬁed-depreciation-for-small-business"
+   ],
+   "cases": [],
+   "definitions": [
+    "depreciating asset",
+    "adjustable value",
+    "roll-over"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2012_7",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2005_1",
+     "title": "Copyright is nil under section 40-180 of the Income Tax Assessment Act 1997 (ITAA 1997).…"
+    },
+    {
+     "id": "LCG_2021_3",
+     "title": "Temporary full expensing"
+    }
+   ]
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Roll-over applies — tax-neutral restructure of small business assets",
+   "body": "The Subdivision 328-G roll-over achieves tax neutrality: (1) s 328-450: no direct income tax consequences from the transfer; (2) s 328-455: assets are treated as transferred at roll-over cost (cost base carries over); (3) s 328-460: pre-CGT assets retain pre-CGT status in the transferee's hands; (4) s 328-465: new membership interests receive a cost base reflecting the roll-over costs; (5) s 328-470: capital losses on membership interests affected by the transfer are disregarded; (6) s 328-475: prior Subdivision 152-E roll-over obligations pass to the transferee. The CGT is deferred, not exempted — the transferee steps into the transferor's cost base position.",
+   "statute": [],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "no-rollover",
+   "type": "end",
+   "label": "No roll-over — CGT event A1 applies normally (or alternative roll-over may be available)",
+   "body": "If any condition is not met, the Subdivision 328-G roll-over is not available. The transfer is treated as a disposal at market value under ordinary CGT rules. CGT event A1 (s 104-10) applies: the transferor makes a capital gain = capital proceeds (market value) less cost base. Consider alternative roll-overs: Division 122-A (wholly-owned company), Subdivision 124-M (scrip for scrip), Division 615 (interposed company). Depreciating assets may still qualify under s 40-340(1) item 8.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "CGT event A1—disposal of a CGT asset"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "328-430",
+     "title": "When a roll-over is available"
+    }
+   ],
+   "commentary": [
+    "cgt-small-business-restructure-roll-over",
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [
+    {
+     "citation": "2019_FCA_2155",
+     "note": "Roll-over denied — normal CGT consequences"
+    }
+   ],
+   "definitions": [
+    "CGT event A1",
+    "capital gain",
+    "market value"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2004_11",
+     "title": "Channel Pastoral 42A Appendix 2 - Detailed contents list 43"
+    },
+    {
+     "id": "TR_2005_23",
+     "title": "General company tax rate (at that time))) where: after tax gain is the after tax *LIC…"
+    },
+    {
+     "id": "TR_2005_6",
+     "title": "spending money in order to generate business in a market segment that the bank considered…"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-genuine-restructure",
+   "label": "small business entity transfers business assets"
+  },
+  {
+   "from": "dec-genuine-restructure",
+   "to": "dec-safe-harbour-exception",
+   "label": "assess safe harbour (s 328-435)"
+  },
+  {
+   "from": "dec-genuine-restructure",
+   "to": "dec-safe-harbour-not-met",
+   "label": "safe harbour not met — assess general principles"
+  },
+  {
+   "from": "dec-safe-harbour-exception",
+   "to": "dec-small-business-entity",
+   "label": "safe harbour met — deemed genuine restructure"
+  },
+  {
+   "from": "dec-safe-harbour-not-met",
+   "to": "dec-small-business-entity",
+   "label": "genuine restructure under general principles"
+  },
+  {
+   "from": "dec-safe-harbour-not-met",
+   "to": "no-rollover",
+   "label": "not a genuine restructure"
+  },
+  {
+   "from": "dec-genuine-restructure",
+   "to": "no-rollover",
+   "label": "not a genuine restructure"
+  },
+  {
+   "from": "dec-small-business-entity",
+   "to": "no-rollover",
+   "label": "no party satisfies small business entity / affiliate / connection / partnership test"
+  },
+  {
+   "from": "dec-small-business-entity",
+   "to": "dec-ultimate-economic-ownership",
+   "label": "at least one party satisfies s 328-430(1)(b)"
+  },
+  {
+   "from": "dec-ultimate-economic-ownership",
+   "to": "dec-discretionary-trust",
+   "label": "assess s 328-440 discretionary trust safe harbour"
+  },
+  {
+   "from": "dec-ultimate-economic-ownership",
+   "to": "no-rollover",
+   "label": "material change in ultimate economic ownership"
+  },
+  {
+   "from": "dec-discretionary-trust",
+   "to": "dec-active-asset",
+   "label": "UEO safe harbour satisfied — no material change"
+  },
+  {
+   "from": "dec-discretionary-trust",
+   "to": "dec-active-asset",
+   "label": "no discretionary trust — direct UEO unchanged"
+  },
+  {
+   "from": "dec-discretionary-trust",
+   "to": "no-rollover",
+   "label": "family trust safe harbour not met — UEO changed"
+  },
+  {
+   "from": "dec-ultimate-economic-ownership",
+   "to": "dec-active-asset",
+   "label": "no material change in UEO"
+  },
+  {
+   "from": "dec-active-asset",
+   "to": "no-rollover",
+   "label": "asset is not an active CGT asset (or is a depreciating asset)"
+  },
+  {
+   "from": "dec-active-asset",
+   "to": "dec-residency",
+   "label": "asset is a CGT active asset"
+  },
+  {
+   "from": "dec-residency",
+   "to": "no-rollover",
+   "label": "residency requirement not met"
+  },
+  {
+   "from": "dec-residency",
+   "to": "dec-exempt-entity",
+   "label": "residency requirement satisfied"
+  },
+  {
+   "from": "dec-exempt-entity",
+   "to": "no-rollover",
+   "label": "party is an exempt entity or complying super fund"
+  },
+  {
+   "from": "dec-exempt-entity",
+   "to": "choice",
+   "label": "no disqualifying entity"
+  },
+  {
+   "from": "choice",
+   "to": "outcome-general-no-tax-consequences",
+   "label": "all parties choose roll-over"
+  },
+  {
+   "from": "choice",
+   "to": "no-rollover",
+   "label": "choice not made by all parties"
+  },
+  {
+   "from": "outcome-general-no-tax-consequences",
+   "to": "outcome-roll-over-cost",
+   "label": "transfer at roll-over cost"
+  },
+  {
+   "from": "outcome-roll-over-cost",
+   "to": "outcome-pre-cgt-preserved",
+   "label": "pre-CGT asset treatment"
+  },
+  {
+   "from": "outcome-pre-cgt-preserved",
+   "to": "outcome-new-membership-interests",
+   "label": "membership interests issued?"
+  },
+  {
+   "from": "outcome-roll-over-cost",
+   "to": "outcome-new-membership-interests",
+   "label": "membership interests issued as consideration"
+  },
+  {
+   "from": "outcome-new-membership-interests",
+   "to": "outcome-capital-loss-disregarded",
+   "label": "anti-avoidance for membership interest losses"
+  },
+  {
+   "from": "outcome-roll-over-cost",
+   "to": "outcome-capital-loss-disregarded",
+   "label": "membership interests held in transferor/transferee"
+  },
+  {
+   "from": "outcome-pre-cgt-preserved",
+   "to": "outcome-capital-loss-disregarded",
+   "label": "membership interests affected by transfer"
+  },
+  {
+   "from": "outcome-capital-loss-disregarded",
+   "to": "outcome-interaction-152e",
+   "label": "prior Subdiv 152-E roll-over?"
+  },
+  {
+   "from": "outcome-new-membership-interests",
+   "to": "outcome-interaction-152e",
+   "label": "prior Subdiv 152-E roll-over?"
+  },
+  {
+   "from": "outcome-pre-cgt-preserved",
+   "to": "outcome-interaction-152e",
+   "label": "prior Subdiv 152-E roll-over?"
+  },
+  {
+   "from": "outcome-roll-over-cost",
+   "to": "outcome-interaction-152e",
+   "label": "prior Subdiv 152-E roll-over?"
+  },
+  {
+   "from": "outcome-interaction-152e",
+   "to": "end",
+   "label": "roll-over complete"
+  },
+  {
+   "from": "outcome-capital-loss-disregarded",
+   "to": "end",
+   "label": "roll-over complete"
+  },
+  {
+   "from": "outcome-new-membership-interests",
+   "to": "end",
+   "label": "roll-over complete (no prior 152-E roll-over)"
+  },
+  {
+   "from": "outcome-roll-over-cost",
+   "to": "end",
+   "label": "roll-over complete (no membership interests, no prior 152-E)"
+  },
+  {
+   "from": "no-rollover",
+   "to": "interaction-cgt-event-a1",
+   "label": "CGT event A1 applies normally"
+  },
+  {
+   "from": "no-rollover",
+   "to": "interaction-alternative-rollovers",
+   "label": "consider alternative roll-overs"
+  },
+  {
+   "from": "no-rollover",
+   "to": "interaction-depreciating-assets",
+   "label": "depreciating assets — s 40-340(1) item 8"
+  },
+  {
+   "from": "interaction-cgt-event-a1",
+   "to": "interaction-alternative-rollovers",
+   "label": ""
+  },
+  {
+   "from": "interaction-depreciating-assets",
+   "to": "interaction-alternative-rollovers",
+   "label": ""
+  },
+  {
+   "from": "interaction-alternative-rollovers",
+   "to": "end",
+   "label": ""
+  }
+ ],
+ "short": "Small business restructure",
+ "refs": "Subdiv 328-G",
+ "sort": 31
+}

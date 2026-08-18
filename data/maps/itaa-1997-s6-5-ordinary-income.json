@@ -1,0 +1,546 @@
+{
+ "id": "itaa-1997-s6-5-ordinary-income",
+ "title": "Ordinary income — s 6-5 ITAA 1997",
+ "act": "itaa-1997",
+ "part": "1-3",
+ "division": "6",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Facet map: one question — is an amount income according to ordinary concepts (s 6-5(1))? — with the decision spine (gain → convertibility → flow v capital → income character → residency → derivation) and facet branches for each niche issue. FACETS (side branches with where-to-look): mutuality (TD 1999/38, TR 2004/5), convertibility (Cooke & Sherden), tree v fruit (income-versus-capital), compensation receipts (Dixon, Wade), sources (employment/business/property), statutory income overlay (s 6-10 + s 6-25 — note s 6-10(3) is constructive receipt, the most-specific rule is s 6-25), exempt income (s 6-15), derivation (cash/accruals/constructive receipt), source rules for foreign residents. Subsection coverage: s 6-5(1)-(4) mapped on the spine; s 6-10(1)-(5) and s 6-25(1)-(2) mapped to the statutory facet; s 6-15(1),(3) mapped to the exempt facet. Profit-making scheme doctrine signposted to itaa-1936-s25a-myer-profit-making-schemes.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You receive an amount — is it income according to ordinary concepts (s 6-5(1))?",
+   "body": "This is the single question with many facets. The spine below walks the core analysis: gain → convertibility → flow-v-capital → income character → residency → derivation. Each facet of the question is a side branch with where-to-look signposts (statute subsection, CCH Master Tax Guide, ATO rulings, cases).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "income-according-to-ordinary-concepts"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "assessable income",
+    "ordinary income"
+   ]
+  },
+  {
+   "id": "gain",
+   "type": "decision",
+   "label": "Is the amount a gain to you?",
+   "body": "A receipt that merely reimburses an expense or returns your own capital is not a gain. The mutuality principle: receipts from members of a mutual association for services supplied to members are not income — there is no gain derived from outside the group.",
+   "statute": [],
+   "commentary": [
+    "receipts-from-members-mutuality-principle"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "not-gain",
+   "type": "outcome",
+   "label": "Not a gain — not ordinary income (check statutory income)",
+   "body": "Reimbursements, capital returns and mutual receipts are not ordinary income. They may still be included by a specific provision (statutory income) — the recoupment rules in Subdiv 20-A are the operative provisions, not s 6-10 itself.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "20-20",
+     "title": "Assessable recoupment"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "cash",
+   "type": "decision",
+   "label": "Is the amount cash or convertible to cash?",
+   "body": "Income must be cash or convertible to cash. A non-convertible, non-transferable benefit has no income character. FCT v Cooke & Sherden (1980) — free holidays and non-transferable benefits were not income.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "convertibility"
+   ]
+  },
+  {
+   "id": "not-cash",
+   "type": "outcome",
+   "label": "Not convertible — not ordinary income",
+   "body": "If the benefit cannot be converted to cash, it is not ordinary income (Cooke & Sherden). It may be caught by a specific regime — e.g. fringe benefits tax under the FBTAA for non-cash employment benefits.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "flow",
+   "type": "decision",
+   "label": "Is it a flow (income) or the realisation of a capital asset (tree v fruit)?",
+   "body": "Income is a flow from an income-earning structure. Proceeds from selling the tree (a capital asset) are capital, not income — unless the profit-making scheme doctrine applies (separate map: itaa-1936-s25a-myer-profit-making-schemes).",
+   "statute": [],
+   "commentary": [
+    "income-versus-capital-receipts"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "capital",
+   "type": "outcome",
+   "label": "Capital realisation — CGT, not ordinary income",
+   "body": "A one-off realisation of a capital asset is capital. Consider CGT (Part 3-1) and whether the profit-making scheme doctrine (s 15-15 / Myer) re-characterises the profit as income — see the profit-making schemes map.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "character",
+   "type": "decision",
+   "label": "Does the amount have the character of income?",
+   "body": "Income character comes from its source and regularity: employment (s 6-5(2)(a)), business (s 6-5(2)(b)), property (s 6-5(2)(c)). Isolated windfalls and gifts lack income character. Compensation receipts can be income where they replace income. See the facet branches for each.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "source"
+   ]
+  },
+  {
+   "id": "windfall",
+   "type": "outcome",
+   "label": "Windfall / isolated receipt — not ordinary income",
+   "body": "A mere windfall (e.g. a gift or prize unconnected to an income-producing activity) is not ordinary income. Check for a specific statutory inclusion and CGT.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "residency",
+   "type": "decision",
+   "label": "Are you an Australian resident?",
+   "body": "s 6-5(2): residents are taxed on ordinary income from ALL sources worldwide. s 6-5(3): foreign residents are taxed only on ordinary income from Australian sources, plus amounts included on some other basis (s 6-5(3)(b)).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "australian resident",
+    "foreign resident"
+   ]
+  },
+  {
+   "id": "resident",
+   "type": "action",
+   "label": "Include worldwide ordinary income (s 6-5(2))",
+   "body": "Resident: assessable on ordinary income derived directly or indirectly from all sources, whether in or out of Australia, during the income year.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "foreign-resident",
+   "type": "action",
+   "label": "Include Australian-source ordinary income only (s 6-5(3))",
+   "body": "Foreign resident: assessable on ordinary income from Australian sources, plus other ordinary income included on some other basis (s 6-5(3)(b) — e.g. certain statutory inclusions).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "derivation",
+   "type": "decision",
+   "label": "Have you derived the amount in the income year?",
+   "body": "Timing gateway. s 6-5(4): you are taken to have received the amount as soon as it is applied or dealt with on your behalf or as you direct (constructive receipt). Otherwise derivation follows the income type: cash basis for personal services, accruals basis for business income, special rules for dividends (s 44(1) ITAA 1936) and interest (s 25-25 ITAA 1997).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "timing-of-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "not-derived",
+   "type": "outcome",
+   "label": "Not derived this year — not assessable yet",
+   "body": "If not derived and no constructive receipt under s 6-5(4), the amount is not included this income year.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "assessable",
+   "type": "end",
+   "label": "Ordinary income — included in assessable income",
+   "body": "The amount is assessable as ordinary income — unless it is exempt income under s 6-15 (not assessable), or a more specific provision prevails under s 6-25.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-mutuality",
+   "type": "outcome",
+   "label": "FACET — Mutuality principle: member receipts are not income",
+   "body": "Where to look: CCH Master Tax Guide 'receipts-from-members-mutuality-principle' (¶ on mutual receipts); ATO: TD 1999/38 (mutuality principle for clubs), TR 2004/5 (mutual associations — derivation of income); cases: the mutuality doctrine from the English cases adopted in Australia (e.g. Bohemians Club v FCT). Test: is the receipt from members for services supplied to members (mutual) or from outsiders (income)?",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "receipts-from-members-mutuality-principle"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_38",
+     "title": "mutuality principle for clubs"
+    },
+    {
+     "id": "TR_2004_5",
+     "title": "Mutual associations — deductibility of contributions and derivation of income"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-convertibility",
+   "type": "outcome",
+   "label": "FACET — Convertibility: cash or convertible to cash",
+   "body": "Where to look: CCH Master Tax Guide 'income-according-to-ordinary-concepts'; case: FCT v Cooke & Sherden (1980) 10 ATR 696 (non-transferable, non-convertible benefits not income). Test: can the benefit be turned into money (sold or assigned for value)? A benefit the taxpayer cannot convert has no income character.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "income-according-to-ordinary-concepts"
+   ],
+   "rulings": [],
+   "cases": [
+    {
+     "citation": "1980_ATR_696",
+     "note": "FCT v Cooke & Sherden (1980) 10 ATR 696 — leading authority on convertibility"
+    }
+   ],
+   "definitions": []
+  },
+  {
+   "id": "facet-tree-fruit",
+   "type": "outcome",
+   "label": "FACET — Tree v fruit: income flows vs capital realisations",
+   "body": "Where to look: CCH 'income-versus-capital-receipts' and 'overview-of-the-capital-gains-tax-provisions'. The classic distinction: the fruit (income stream) is income; selling the tree (capital asset) is capital. Complications: compensation for loss of income (income — FCT v Dixon (1952)), compensation for loss of an income-earning asset (capital). Profit-making scheme cases can re-characterise: see the separate Myer map.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "income-versus-capital-receipts",
+    "overview-of-the-capital-gains-tax-provisions"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-compensation",
+   "type": "outcome",
+   "label": "FACET — Compensation receipts: damages and replacement income",
+   "body": "Where to look: cases — FCT v Dixon (1952) 86 CLR 540 (compensation for loss of wages is income), FCT v Wade (1951) (compensation for loss of an income-earning asset can be capital). Test: does the receipt replace income (income) or replace a capital asset (capital)? Signposts: the 'income character' of the original amount and whether the compensation is 'in lieu of' income.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "income-versus-capital-receipts"
+   ],
+   "rulings": [],
+   "cases": [
+    {
+     "citation": "1952_HCA_45",
+     "note": "FCT v Dixon (1952) 86 CLR 540 — compensation for loss of income is income"
+    }
+   ],
+   "definitions": []
+  },
+  {
+   "id": "facet-sources",
+   "type": "outcome",
+   "label": "FACET — Source of income: employment, business, property",
+   "body": "Where to look: s 6-5(2)(a) employment, (b) business, (c) property; CCH 'income-according-to-ordinary-concepts'. Employment: salary, wages, bonuses, commissions — assessable when derived. Business: income from carrying on a business. Property: rent, interest, dividends, royalties. Each source has its own derivation and deduction consequences. Distinguish employment (s 6-5) from PSI through entities (Div 85/86 — see the PSI map).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "income-according-to-ordinary-concepts"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-statutory",
+   "type": "outcome",
+   "label": "FACET — Statutory income overlay: s 6-10 and s 6-25",
+   "body": "Where to look: s 6-10 (statutory income — amounts included by other provisions), s 6-10(2) (examples: dividends s 44 ITAA 1936, profit-making plans s 15-15), s 6-10(4)-(5) (resident/foreign resident source rules for statutory income), s 6-25 (relationships: if more than one provision includes the same amount, the most specific prevails; s 6-25(2) prevents double counting). NOTE: s 6-10(3) is the constructive-receipt rule for statutory income — the 'most specific provision' rule is s 6-25, not s 6-10(3).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-10",
+     "title": "Other amounts included in assessable income (statutory income)"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "6-25",
+     "title": "Relationships among various rules about ordinary income"
+    }
+   ],
+   "commentary": [
+    "income-according-to-ordinary-concepts"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-exempt",
+   "type": "outcome",
+   "label": "FACET — Exempt income boundary: s 6-15",
+   "body": "Where to look: s 6-15(1) (exempt income is ordinary or statutory income made exempt by a provision), s 6-15(3) (if a provision states an amount is exempt, it is not assessable); CCH 'classes-of-exempt-income'. Common exemptions: certain government payments, scholarships, some foreign employment income. Exempt income is NOT assessable — and expenses of deriving it are not deductible (s 8-1(2)(c)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-15",
+     "title": "Exempt income"
+    }
+   ],
+   "commentary": [
+    "classes-of-exempt-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-derivation",
+   "type": "outcome",
+   "label": "FACET — Derivation: cash vs accruals, constructive receipt",
+   "body": "Where to look: s 6-5(4) (constructive receipt — amount applied or dealt with on your behalf); CCH 'timing-of-income'. Personal services income is derived on a cash basis; business income on an accruals (earned) basis; dividends when paid (s 44(1) ITAA 1936); interest under s 25-25 ITAA 1997 (on an accruals basis for amounts >$X). Prepaid/estimated income and the 'income derived' cases (Arthur Murray, First Provincial Building Society) govern the line.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "timing-of-income",
+    "prepaid-or-estimated-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-source",
+   "type": "outcome",
+   "label": "FACET — Source rules (foreign residents)",
+   "body": "Where to look: s 6-5(3) (foreign residents — Australian source), s 6-5(3)(b) (other inclusions); CCH 'territorial-operation-of-income-tax-legislation'. Source is determined by the location of the income-producing activity: employment services performed in Australia have Australian source; business profits sourced where the business is carried on; dividends sourced to the company's profits. Statutory source rules override (e.g. royalties s 6C ITAA 1936).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "territorial-operation-of-income-tax-legislation"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "gain",
+   "label": "Amount received"
+  },
+  {
+   "from": "gain",
+   "to": "not-gain",
+   "label": "No — not a gain"
+  },
+  {
+   "from": "gain",
+   "to": "cash",
+   "label": "Yes — a gain"
+  },
+  {
+   "from": "cash",
+   "to": "not-cash",
+   "label": "No — not convertible"
+  },
+  {
+   "from": "cash",
+   "to": "flow",
+   "label": "Yes — convertible"
+  },
+  {
+   "from": "flow",
+   "to": "capital",
+   "label": "No — capital tree realisation"
+  },
+  {
+   "from": "flow",
+   "to": "character",
+   "label": "Yes — flow"
+  },
+  {
+   "from": "character",
+   "to": "windfall",
+   "label": "No — no income character"
+  },
+  {
+   "from": "character",
+   "to": "residency",
+   "label": "Yes — income character"
+  },
+  {
+   "from": "residency",
+   "to": "resident",
+   "label": "Yes — Australian resident"
+  },
+  {
+   "from": "residency",
+   "to": "foreign-resident",
+   "label": "No — foreign resident"
+  },
+  {
+   "from": "resident",
+   "to": "derivation",
+   "label": "Worldwide income"
+  },
+  {
+   "from": "foreign-resident",
+   "to": "derivation",
+   "label": "Australian-source income"
+  },
+  {
+   "from": "derivation",
+   "to": "not-derived",
+   "label": "No — not derived"
+  },
+  {
+   "from": "derivation",
+   "to": "assessable",
+   "label": "Yes — derived"
+  },
+  {
+   "from": "gain",
+   "to": "facet-mutuality",
+   "label": "Facet: mutuality"
+  },
+  {
+   "from": "cash",
+   "to": "facet-convertibility",
+   "label": "Facet: convertibility"
+  },
+  {
+   "from": "flow",
+   "to": "facet-tree-fruit",
+   "label": "Facet: tree v fruit"
+  },
+  {
+   "from": "character",
+   "to": "facet-compensation",
+   "label": "Facet: compensation"
+  },
+  {
+   "from": "character",
+   "to": "facet-sources",
+   "label": "Facet: sources"
+  },
+  {
+   "from": "not-gain",
+   "to": "facet-statutory",
+   "label": "Facet: statutory overlay"
+  },
+  {
+   "from": "not-cash",
+   "to": "facet-statutory",
+   "label": "Facet: statutory overlay"
+  },
+  {
+   "from": "windfall",
+   "to": "facet-statutory",
+   "label": "Facet: statutory overlay"
+  },
+  {
+   "from": "assessable",
+   "to": "facet-exempt",
+   "label": "Facet: exempt income"
+  },
+  {
+   "from": "derivation",
+   "to": "facet-derivation",
+   "label": "Facet: derivation"
+  },
+  {
+   "from": "residency",
+   "to": "facet-source",
+   "label": "Facet: source"
+  }
+ ],
+ "short": "Ordinary income",
+ "refs": "s 6-5 · s 6-10 · s 6-15",
+ "sort": 14
+}

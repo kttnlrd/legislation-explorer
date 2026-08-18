@@ -1,0 +1,731 @@
+{
+ "id": "itaa-1997-subdiv-768g-participation-exemption",
+ "title": "Subdivision 768-G — participation exemption for capital gains on disposal of voting interests in active foreign companies",
+ "act": "itaa-1997",
+ "part": "4-5",
+ "division": "768",
+ "subdivision": "768-G",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Subdivision 768-G provides a participation exemption for Australian resident corporate tax entities disposing of voting interests in active foreign companies. An AU holding company that realises a capital gain or loss from a CGT event (A1, B1, C2, E1, E2, G3, J1, K4, K6, K10 or K11) on shares in a foreign company can reduce that gain/loss by the active foreign business asset percentage of the foreign company, provided: (1) it held a direct voting percentage of 10%+ throughout a 12-month period ending no later than the CGT event and beginning no earlier than 24 months before it; (2) the share is not an eligible finance share or widely distributed finance share; and (3) the CGT event is one of the listed events. The active foreign business asset percentage is the proportion of the foreign company's total assets that are 'active foreign business assets' (used in a business, not passive financial instruments), calculated via a market value method (s 768-520), book value method (s 768-525), or default method (s 768-510(4): 100% for losses, 0% otherwise). Special modifications apply to foreign life/general insurance companies (s 768-530), FIF entities using the CFC calculation method (s 768-533), and foreign wholly-owned groups (s 768-535). Voting percentages are measured under ss 768-550 to 768-560, using concepts from Part X ITAA 1936. The exemption interacts with CFC attribution under Part X ITAA 1936 (the active foreign business asset test mirrors CFC tainted income concepts), CGT event A1 (s 104-10), and Subdivision 768-A (dividend NANE treatment). Subsection coverage: operative 768-500, 768-505(1)-(2), 768-510(1)-(4), 768-515(1)-(3) mapped to nodes; 768-520, 768-525, 768-530, 768-533, 768-535, 768-540, 768-545, 768-550, 768-555, 768-560 (machinery/definitional); no subsections excluded.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "AU corporate tax entity disposes of shares in a foreign company — CGT event arises",
+   "body": "An Australian resident company (the holding company) makes a capital gain or capital loss from a CGT event that happens at a particular time to a share in a foreign company (the foreign disposal company). Section 768-505(1) applies only if the CGT event is A1, B1, C2, E1, E2, G3, J1, K4, K6, K10 or K11. Section 768-500 provides the guide: the gain or loss is reduced by a percentage that reflects the degree to which the foreign company's assets are used in an active business.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-500",
+     "title": "What this Subdivision is about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": "Reducing a capital gain or loss from certain CGT events in relation to certain voting interests"
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [
+    "company",
+    "share",
+    "capital gain",
+    "capital loss",
+    "CGT event",
+    "foreign resident"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2008_23",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "interaction-cgt-a1",
+   "type": "event",
+   "label": "CGT event A1 (s 104-10) — disposal of shares — triggers potential gain/loss",
+   "body": "The most common CGT event triggering Subdivision 768-G is CGT event A1 (s 104-10): disposal of a CGT asset. The holding company must be an Australian resident. The foreign disposal company must be a foreign resident. Other listed CGT events include B1 (brownfield assets), C2 (cancellation/redemption), E1/E2 (trust creation/transfers), G3 (liquidator distribution), J1 (company ceases to be a member of a wholly-owned group), K4 (bad debt write-off), K6 (pre-CGT shares), K10 (gift to foreign trust), K11 (gift to foreign company).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "CGT event A1 — Disposal of a CGT asset"
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT asset",
+    "capital proceeds",
+    "cost base"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2000_1",
+     "title": "and, indeed, including Goss v. Lord Nugent itself - that the parties to an agreement may…"
+    },
+    {
+     "id": "TR_2001_9",
+     "title": "see paragraphs 30-31 below; (c) may be allowable as a capital loss to a life assurance…"
+    },
+    {
+     "id": "TR_2002_14",
+     "title": "developing or acquiring a retirement village and putting that to profit by the recurrent…"
+    }
+   ]
+  },
+  {
+   "id": "dec-share-type",
+   "type": "decision",
+   "label": "Is the share an eligible finance share or widely distributed finance share (within Part X ITAA 1936)?",
+   "body": "Section 768-505(1)(b) excludes shares that are: (i) an eligible finance share (within the meaning of Part X of the ITAA 1936); or (ii) a widely distributed finance share (within the meaning of that Part). These are certain finance shares issued by CFCs that carry tainted income characteristics. If the share is of either type, the reduction under this Subdivision does not apply.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "eligible finance share",
+    "widely distributed finance share"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2008_23",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "dec-voting-threshold",
+   "type": "decision",
+   "label": "Did the holding company hold a direct voting percentage of 10% or more throughout a qualifying 12-month period?",
+   "body": "Section 768-505(1)(a): the holding company must have held a direct voting percentage of 10% or more in the foreign disposal company throughout a 12-month period that: (i) began no earlier than 24 months before the time of the CGT event; and (ii) ended no later than that time. Direct voting percentage is measured under s 768-550 by reference to the voting interest concept in s 334A of ITAA 1936. A trust or partnership interposed between the entity and the company breaks the direct link (s 768-550(2)(b)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-550",
+     "title": "Direct voting percentage in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-560",
+     "title": "Total voting percentage in a company"
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [
+    "direct voting percentage",
+    "voting interest",
+    "voting power"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-holding-period",
+   "type": "decision",
+   "label": "Was the 10%+ voting interest held throughout a 12-month period ending no later than the CGT event?",
+   "body": "The 12-month holding period under s 768-505(1)(a) must satisfy two temporal boundaries: (i) it began no earlier than 24 months before the CGT event; and (ii) it ended no later than the time of the CGT event. This creates a 12-month window that can end at any point up to the CGT event, but must have started within the preceding 24 months. The holding must be continuous throughout that 12-month period.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "period",
+    "held"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-active-company",
+   "type": "decision",
+   "label": "Is the foreign company an 'active foreign company'? — Active foreign business asset percentage assessment",
+   "body": "The core of the participation exemption: the gain/loss is reduced by the active foreign business asset percentage (AFBAP) of the foreign disposal company in relation to the holding company at the time of the CGT event (s 768-505(2)). The AFBAP is the proportion of the foreign company's total assets that are 'active foreign business assets' — broadly, assets used in carrying on a business (excluding passive financial instruments, cash, interests in trusts/partnerships, life insurance policies, and assets whose main use is to derive passive income like interest, rent or royalties), subject to special rules for AFI subsidiaries doing financial intermediary business (s 768-540). The AFBAP is worked out under ss 768-510 to 768-535.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-510",
+     "title": "Active foreign business asset percentage"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-540",
+     "title": "Active foreign business assets of a foreign company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-545",
+     "title": "Assets included in the total assets of a foreign company"
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [
+    "active foreign business asset",
+    "active foreign business asset percentage",
+    "business",
+    "financial instrument",
+    "trade debt"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-method-choice",
+   "type": "decision",
+   "label": "Has the holding company chosen the market value method or book value method?",
+   "body": "The holding company may choose to work out the active foreign business asset percentage under: (a) the market value method (s 768-520) — requiring sufficient evidence of market value of all assets and all active foreign business assets at the time of the CGT event (s 768-510(2)); or (b) the book value method (s 768-525) — requiring recognised company accounts for a period ending within the preceding 12 months, and another period ending 6-18 months before that (s 768-510(3)). The choice is evidenced by how the entity prepares its income tax return (s 768-515(3)). If neither choice is made, the default method in s 768-510(4) applies: 100% (if reducing a capital loss) or 0% (otherwise).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-515",
+     "title": "Choices to apply market value method or book value method"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-515",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-510",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-510",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-510",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "market value",
+    "recognised company accounts",
+    "income tax return"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "method-market-value",
+   "type": "action",
+   "label": "Work out AFBAP under the market value method (s 768-520)",
+   "body": "Under s 768-520(1): Step 1 — work out the market value of all assets included in the total assets of the foreign company at the time of the CGT event. Step 2 — work out the market value of all active foreign business assets at that time. Step 3 — divide step 2 by step 1. Step 4 — express as a percentage (rounded to nearest whole point). Step 5 — if <10% = zero; if 10%-<90% = that percentage; if 90%+ = 100%. For shares in subsidiary companies, special valuation rules apply under s 768-520(2): treat the share's market value as its market value multiplied by the subsidiary's AFBAP (if the foreign company has 10%+ direct voting percentage and the holding company has 10%+ total voting percentage in the subsidiary), or zero otherwise.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-520",
+     "title": "Market value method"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-520",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "market value",
+    "direct voting percentage",
+    "total voting percentage",
+    "active foreign business asset percentage"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "method-book-value",
+   "type": "action",
+   "label": "Work out AFBAP under the book value method (s 768-525)",
+   "body": "Under s 768-525(1): Step 1 — work out the foreign company's average value of total assets (s 768-525(2): average of asset values at end of most recent account period and a period ending 6-18 months before that). Step 2 — work out the average value of active foreign business assets similarly (s 768-525(3)). Steps 3-5 — same as market value method. For shares in subsidiaries, similar look-through rules apply (s 768-525(4)). Asset values are taken from recognised company accounts (s 768-525(5)). If no accounts exist for the second period, the result of step 2 is taken as zero (s 768-525(6)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-525",
+     "title": "Book value method"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-525",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-525",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-525",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-525",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-525",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "recognised company accounts",
+    "active foreign business asset percentage"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "method-default",
+   "type": "action",
+   "label": "Default method applies: AFBAP = 100% (for capital loss) or 0% (otherwise)",
+   "body": "If the holding company does not make a choice under s 768-515(1) or (2), the default method under s 768-510(4) applies: (a) if the section is being applied to reduce a capital loss of the holding company — the AFBAP is 100%; (b) in any other case (i.e. reducing a capital gain) — the AFBAP is 0%, meaning the gain is NOT reduced at all. This creates a strong incentive for the taxpayer to make the choice and provide the necessary evidence.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-510",
+     "title": "Default method"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "active foreign business asset percentage"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "interaction-insurance",
+   "type": "decision",
+   "label": "Is the foreign company a foreign life insurance company or foreign general insurance company?",
+   "body": "Section 768-530 modifies the AFBAP calculation for foreign life insurance companies and foreign general insurance companies. If the foreign company is such an insurer, its AFBAP is worked out under s 768-510 but with modifications: references to periods are replaced with statutory accounting periods (s 768-530(2)), and the results of steps in the methods are increased by an 'active insurance amount' calculated using a formula involving total insurance assets and value of non-active foreign business assets (ss 768-530(3)-(5)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-530",
+     "title": "Active foreign business asset percentage — modifications for foreign life insurance companies and foreign general insurance companies"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-530",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-530",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-530",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-530",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "foreign life insurance company",
+    "foreign general insurance company",
+    "statutory accounting period",
+    "active insurance amount"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "decision-wholly-owned",
+   "type": "decision",
+   "label": "Is the foreign company part of a wholly-owned group where a consolidated choice is made?",
+   "body": "Section 768-535 applies where: (a) it is necessary to work out the AFBAP of a foreign company (the top foreign company); (b) the top foreign company is not an AFI subsidiary, foreign life insurance company, or foreign general insurance company; and (c) it is also necessary to work out the AFBAP of one or more other companies that are members of a wholly-owned group where each subsidiary is a 100% subsidiary of the top foreign company. If the holding company chooses (s 768-535(2)-(3)), the subsidiary foreign companies are treated as part of the top foreign company (s 768-535(4)-(6)), eliminating inter-company share and debt assets from the calculation.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-535",
+     "title": "Modified rules for foreign wholly-owned groups"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-535",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-535",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-535",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-535",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "wholly-owned group",
+    "100% subsidiary",
+    "recognised consolidated accounts"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "interaction-fif-cfc",
+   "type": "event",
+   "label": "FIF using CFC calculation method — transitional treatment as AFI subsidiary (s 768-533)",
+   "body": "Section 768-533 is a transitional provision dealing with foreign companies that were FIFs under former Part XI of ITAA 1936 and where the holding company made a choice under former s 559A(1) to treat the FIF as an AFI subsidiary using the CFC calculation method. If the holding company continues to make an ongoing choice under s 768-533(1A), the foreign company is treated as an AFI subsidiary for Subdivision 768-G purposes, which affects the active foreign business asset definition (s 768-540(1)(e), (3)) and the derivative asset exclusion (s 768-545(1)(c)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-533",
+     "title": "Foreign company that is a FIF using CFC calculation method"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-533",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "FIF",
+    "AFI subsidiary",
+    "notional accounting period"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "interaction-cfc",
+   "type": "event",
+   "label": "Interaction with CFC attribution rules (Part X ITAA 1936) — active business mirror",
+   "body": "The active foreign business asset test under Subdivision 768-G mirrors the CFC 'active income' concept under Part X ITAA 1936. Both distinguish between active business income (non-tainted) and passive income. The AFBAP uses concepts drawn from Part X: 'AFI subsidiary', 'eligible finance share', 'widely distributed finance share', 'financial intermediary business', and the s 334A voting interest concept. Where a CFC's attributed income is already included in the Australian holding company's assessable income under Part X, the capital gain from disposing of shares in that CFC may be reduced under this Subdivision to avoid double taxation. The s 768-540 exclusions for financial instruments, cash, and passive-income-producing assets correspond broadly to the CFC 'tainted income' categories.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "340",
+     "title": "Interpretation — controlled foreign company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-540",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-540",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [
+    "CFC",
+    "attributable income",
+    "AFI subsidiary",
+    "tainted income"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2007_13",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2007_20",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "outcome-exemption",
+   "type": "outcome",
+   "label": "Participation exemption applies: capital gain/loss reduced by active foreign business asset percentage",
+   "body": "Where all conditions are satisfied — the holding company held 10%+ direct voting interest through a qualifying 12-month period, the share is not an excluded finance share, and the CGT event is a listed event — the capital gain or capital loss is reduced by the active foreign business asset percentage of the foreign disposal company (s 768-505(2)). If the AFBAP is 100%, the gain or loss is reduced to nil (full participation exemption). If the AFBAP is between 10% and 90%, the gain/loss is reduced proportionally. If the AFBAP is less than 10%, the reduction is zero (no exemption).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-520",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-525",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss",
+    "active foreign business asset percentage"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-no-exemption",
+   "type": "outcome",
+   "label": "No participation exemption — normal CGT treatment applies",
+   "body": "If any condition for the participation exemption is not satisfied — the holding does not meet the 10% voting threshold, the 12-month holding period is not satisfied, the share is an excluded finance share, the CGT event is not one of the listed events, or the AFBAP is zero (default method or <10% threshold) — the capital gain or loss is NOT reduced under Subdivision 768-G. The full capital gain or loss is recognised under the ordinary CGT rules, subject to other provisions (e.g., CGT discount, small business concessions, or roll-overs).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "CGT event A1"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-510",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2004_11",
+     "title": "Channel Pastoral 42A Appendix 2 - Detailed contents list 43"
+    },
+    {
+     "id": "TR_2005_23",
+     "title": "General company tax rate (at that time))) where: after tax gain is the after tax *LIC…"
+    },
+    {
+     "id": "TR_2005_6",
+     "title": "spending money in order to generate business in a market segment that the bank considered…"
+    }
+   ]
+  },
+  {
+   "id": "end-exemption-applied",
+   "type": "end",
+   "label": "Participation exemption (Subdivision 768-G) applied — gain/loss reduced or eliminated",
+   "body": "The disposal of voting interests in an active foreign company by an Australian resident company is subject to the participation exemption under Subdivision 768-G. The capital gain or loss from the CGT event is reduced by the active foreign business asset percentage. The result is that: (a) where AFBAP = 100%, the gain or loss is fully disregarded; (b) where AFBAP is between 10% and 90%, a proportional reduction applies; (c) where AFBAP = 0%, the full gain or loss is recognised. The reduced gain/loss is then subject to the ordinary CGT provisions (Division 100 onward) including the CGT discount (Div 115) if applicable.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-505",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "end-no-exemption",
+   "type": "end",
+   "label": "No participation exemption — normal CGT rules on disposal of foreign shares",
+   "body": "The disposal is taxed under the ordinary CGT rules. The full capital gain (or loss) is recognised and subject to assessment under s 102-5 (inclusion of net capital gain in assessable income). The holding company may still be eligible for the CGT discount under Division 115 (for individuals/trusts, not companies) or other relief provisions.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "CGT event A1"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Inclusion of net capital gain"
+    }
+   ],
+   "commentary": [
+    "foreign-income-accruals-system-and-cgt"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_1993_17",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TR_2004_18",
+     "title": ""
+    },
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "interaction-cgt-a1",
+   "label": "CGT event A1 triggered on foreign shares"
+  },
+  {
+   "from": "interaction-cgt-a1",
+   "to": "interaction-cfc",
+   "label": "CFC attribution interplay considered"
+  },
+  {
+   "from": "interaction-cfc",
+   "to": "dec-share-type",
+   "label": "assess CFC/active business interaction"
+  },
+  {
+   "from": "dec-share-type",
+   "to": "dec-voting-threshold",
+   "label": "not an excluded finance share"
+  },
+  {
+   "from": "dec-share-type",
+   "to": "outcome-no-exemption",
+   "label": "share is excluded finance share"
+  },
+  {
+   "from": "dec-voting-threshold",
+   "to": "dec-holding-period",
+   "label": "10%+ voting interest threshold met"
+  },
+  {
+   "from": "dec-voting-threshold",
+   "to": "outcome-no-exemption",
+   "label": "less than 10% direct voting percentage"
+  },
+  {
+   "from": "dec-holding-period",
+   "to": "dec-active-company",
+   "label": "12-month holding period satisfied"
+  },
+  {
+   "from": "dec-holding-period",
+   "to": "outcome-no-exemption",
+   "label": "holding period not satisfied"
+  },
+  {
+   "from": "dec-active-company",
+   "to": "interaction-fif-cfc",
+   "label": "assess FIF/CFC transitional status"
+  },
+  {
+   "from": "interaction-fif-cfc",
+   "to": "interaction-insurance",
+   "label": "assess insurance company status"
+  },
+  {
+   "from": "interaction-insurance",
+   "to": "decision-wholly-owned",
+   "label": "assess wholly-owned group status"
+  },
+  {
+   "from": "decision-wholly-owned",
+   "to": "dec-method-choice",
+   "label": "wholly-owned group assessed"
+  },
+  {
+   "from": "dec-method-choice",
+   "to": "method-market-value",
+   "label": "market value method chosen (s 768-515(1))"
+  },
+  {
+   "from": "dec-method-choice",
+   "to": "method-book-value",
+   "label": "book value method chosen (s 768-515(2))"
+  },
+  {
+   "from": "dec-method-choice",
+   "to": "method-default",
+   "label": "no choice made — default method applies"
+  },
+  {
+   "from": "method-market-value",
+   "to": "outcome-exemption",
+   "label": "AFBAP calculated via market value"
+  },
+  {
+   "from": "method-book-value",
+   "to": "outcome-exemption",
+   "label": "AFBAP calculated via book value"
+  },
+  {
+   "from": "method-default",
+   "to": "outcome-exemption",
+   "label": "AFBAP = 100% (loss) or 0% (gain)"
+  },
+  {
+   "from": "outcome-exemption",
+   "to": "end-exemption-applied",
+   "label": "gain/loss reduced by AFBAP"
+  },
+  {
+   "from": "outcome-no-exemption",
+   "to": "end-no-exemption",
+   "label": "no Subdivision 768-G relief"
+  }
+ ],
+ "short": "Participation exemption",
+ "refs": "Subdiv 768-G",
+ "sort": 34
+}

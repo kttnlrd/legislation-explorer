@@ -1,0 +1,96 @@
+# PSI Workflow — v0.1 (draft)
+# Decision map for personal services income (Div 84-87 ITAA 1997):
+# PSI determination, personal services business tests, deductions,
+# attribution/alienation.
+# Anchors verified against local itaa-1997 corpus.
+
+id: psi
+name: Personal Services Income
+area: income-tax
+version: 0.1
+entry: [is_psi]
+
+nodes:
+
+  is_psi:
+    question: "Is the income personal services income? (s 84-5 — income mainly a reward for personal efforts or skills of an individual)"
+    fetch: ["itaa-1997:84-5"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "income mainly reward for personal efforts/skills (75%+ rule of thumb)"
+        then: entity_type
+      - if: "income mainly from assets, capital or goods (not personal effort)"
+        then: stop_not_psi
+
+  stop_not_psi:
+    question: "Not PSI — Div 84-87 do not apply; ordinary income/deduction rules apply."
+    terminal: true
+
+  entity_type:
+    question: "Through what entity is the income derived? — individual, partnership, trust, or company?"
+    fetch: ["itaa-1997:85-5", "itaa-1997:85-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "individual directly"
+        then: psb_tests
+      - if: "partnership, trust or company (PSI may be attributed back)"
+        then: psb_tests
+
+  psb_tests:
+    question: "Does the individual (or entity) pass a personal services business test? (s 87-15 results test, 87-18 unrelated clients, 87-20 employment, 87-25 business premises — one test is enough)"
+    fetch: ["itaa-1997:87-15", "itaa-1997:87-18", "itaa-1997:87-20", "itaa-1997:87-25"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "passes results test (s 87-15) — 3 conditions: result-based remuneration, plant/equipment, no significant repairs/corrections"
+        then: stop_psb
+      - if: "passes unrelated clients test (s 87-18) — 80%+ income from 2+ unrelated clients"
+        then: stop_psb
+      - if: "passes employment test (s 87-20) — engages others to perform the work"
+        then: stop_psb
+      - if: "passes business premises test (s 87-25) — premises exclusively used for the business"
+        then: stop_psb
+      - if: "fails all PSB tests"
+        then: psi_applies
+
+  stop_psb:
+    question: "Personal services business — PSI rules do not apply; income treated as ordinary business income with full deductions."
+    terminal: true
+
+  psi_applies:
+    question: "PSI rules apply. What is the deduction position? (s 85-10 — deductions limited: only business-related expenses, not general living/apportioned amounts)"
+    fetch: ["itaa-1997:85-10"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "deductions claimed for non-business expenses"
+        then: deduction_limit
+      - if: "deductions within the PSI limits"
+        then: attribution
+
+  deduction_limit:
+    question: "PSI deduction cap applies — non-business deductions disallowed (no apportionment of rent, home office unless business premises test met)."
+    fetch: ["itaa-1997:85-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "corrected deduction position"
+        then: attribution
+
+  attribution:
+    question: "Does the PSI need to be attributed to the individual? (s 86-10 — PSI derived through an entity is attributed to the individual unless the entity is a personal services business; s 86-15/86-20 alienation rules)"
+    fetch: ["itaa-1997:86-10", "itaa-1997:86-15", "itaa-1997:86-20"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "entity is a personal services business — no attribution"
+        then: stop_psb
+      - if: "PSI attributed to individual — entity is disregarded for the attributed amount"
+        then: stop_done
+
+  stop_done:
+    question: "PSI analysis complete — present PSI determination, PSB tests, deduction limits, and attribution with authorities."
+    terminal: true
+
+rules:
+  - "PSI is a threshold question — income mainly a reward for personal efforts (s 84-5)."
+  - "Passing any one PSB test (results, unrelated clients, employment, business premises) removes the PSI restrictions."
+  - "Deduction limits (s 85-10) bite even when income is not attributed."
+  - "Attribution (s 86-10) re-routes entity-derived PSI to the individual — check PAYG withholding obligations."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."

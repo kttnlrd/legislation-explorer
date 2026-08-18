@@ -1,7 +1,15 @@
-"""Verify get_rulings_for_section was removed and search_all covers it."""
-import httpx, json, sys
+"""Verify get_rulings_for_section was removed and search_all covers it.
 
-BASE = "http://localhost:8766/api/cadena/mcp"
+Script-style (module-level execution) — run directly against a live server:
+    python backend/tests/test_remove_rulings_tool.py
+"""
+import httpx, json, sys, os
+
+import pytest
+pytest.skip("script-style live-server test — run directly, not under pytest",
+            allow_module_level=True)
+
+BASE = "http://localhost:8765/api/cadena/mcp"
 H = {
     "Authorization": "Bearer mcpLiv3",
     "Content-Type": "application/json",

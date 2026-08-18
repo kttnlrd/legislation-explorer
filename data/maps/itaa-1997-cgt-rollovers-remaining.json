@@ -40,6 +40,12 @@
    "definitions": [
     "capital gain",
     "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2006_9",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    }
    ]
   },
   {
@@ -63,7 +69,13 @@
     "when-cgt-roll-over-is-available"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2006_9",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    }
+   ]
   },
   {
    "id": "cat-replacement",
@@ -88,6 +100,12 @@
    "cases": [],
    "definitions": [
     "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "PS_LA_2008_4",
+     "title": ""
+    }
    ]
   },
   {
@@ -102,7 +120,8 @@
    "cases": [],
    "definitions": [
     "cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "cat-entity-restructure",
@@ -115,7 +134,8 @@
     "cgt-roll-over-for-trust-restructures"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   },
   {
    "id": "cat-special",
@@ -127,7 +147,8 @@
     "when-cgt-roll-over-is-available"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   },
   {
    "id": "cat-deceased",
@@ -147,6 +168,20 @@
     "cgt asset",
     "capital gain",
     "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    },
+    {
+     "id": "PCG_2019_5",
+     "title": "Capital gains tax and deceased estates - the Commissioner's discretion to extend the…"
+    },
+    {
+     "id": "TD_1999_72",
+     "title": ""
+    }
    ]
   },
   {
@@ -168,6 +203,16 @@
    "definitions": [
     "cgt asset",
     "cost base of a cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2002_755",
+     "title": "Depreciating Asset - Marine Park Permit"
+    },
+    {
+     "id": "AID_2004_52",
+     "title": "Capital gains tax: Water rights - statutory licence rollover"
+    }
    ]
   },
   {
@@ -188,6 +233,16 @@
    "cases": [],
    "definitions": [
     "cost base of a cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "GSTR_2006_7",
+     "title": ""
+    },
+    {
+     "id": "GSTR_2006_8",
+     "title": ""
+    }
    ]
   },
   {
@@ -208,7 +263,8 @@
    "cases": [],
    "definitions": [
     "cost base of a cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-124k",
@@ -228,7 +284,8 @@
    "cases": [],
    "definitions": [
     "depreciating asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-124l",
@@ -248,7 +305,8 @@
    "cases": [],
    "definitions": [
     "cost base of a cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-124r",
@@ -268,7 +326,8 @@
    "cases": [],
    "definitions": [
     "cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-124s",
@@ -288,7 +347,8 @@
    "cases": [],
    "definitions": [
     "cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-122b",
@@ -320,6 +380,20 @@
     "cgt asset",
     "capital gain",
     "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2001_764",
+     "title": "Income Tax: Capital gains tax: roll-over of partnership assets"
+    },
+    {
+     "id": "AID_2004_874",
+     "title": "Capital gains tax - roll-over by partners to a wholly-owned company"
+    },
+    {
+     "id": "AID_2010_114",
+     "title": "Capital gains tax: disposal or creation of assets by partners to a wholly-owned company"
+    }
    ]
   },
   {
@@ -342,6 +416,12 @@
     "market value",
     "cost base of a cgt asset",
     "taxable australian property"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2000_10",
+     "title": ""
+    }
    ]
   },
   {
@@ -362,7 +442,8 @@
    "cases": [],
    "definitions": [
     "cost base of a cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-124i",
@@ -382,7 +463,8 @@
    "cases": [],
    "definitions": [
     "cost base of a cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-124n",
@@ -402,6 +484,20 @@
    "cases": [],
    "definitions": [
     "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2002_955",
+     "title": "Capital gains tax: Trust to company rollover"
+    },
+    {
+     "id": "AID_2003_340",
+     "title": "Capital Gains Tax: trust to company rollover - CGT assets retained by the trustee -…"
+    },
+    {
+     "id": "AID_2003_341",
+     "title": "Capital Gains Tax: trust to company rollover - CGT assets retained by the trustee to pay…"
+    }
    ]
   },
   {
@@ -423,7 +519,8 @@
    "definitions": [
     "capital gain",
     "cost base of a cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-124q",
@@ -443,7 +540,8 @@
    "cases": [],
    "definitions": [
     "cost base of a cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-125b",
@@ -469,6 +567,20 @@
    "definitions": [
     "capital gain",
     "taxable australian property"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2004_48",
+     "title": "capital gains tax demerger demerger group demerger subsidiary head entity single entity…"
+    },
+    {
+     "id": "TD_2004_49",
+     "title": "demerger, demerger group and demerging entity - the meanings of which are established in…"
+    },
+    {
+     "id": "TD_2006_73",
+     "title": "Relative Market Value method 5. Nick owned post-CGT shares in Head Coy (that is shares…"
+    }
    ]
   },
   {
@@ -496,6 +608,16 @@
    "definitions": [
     "cgt asset",
     "capital gain"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2006_27",
+     "title": "t only became a member of a consolidatable group as a result of the transfer of shares.…"
+    },
+    {
+     "id": "TD_2006_28",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    }
    ]
   },
   {
@@ -517,7 +639,8 @@
    "definitions": [
     "cgt asset",
     "capital gain"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-126d",
@@ -537,6 +660,16 @@
    "cases": [],
    "definitions": [
     "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_612",
+     "title": "CGT: Marriage breakdown roll-over - transfer of a member's superannuation interest to…"
+    },
+    {
+     "id": "AID_2006_73",
+     "title": "Capital gains tax: marriage breakdown rollover - transfer of asset from one self managed…"
+    }
    ]
   },
   {
@@ -552,14 +685,14 @@
     }
    ],
    "commentary": [
-    "cgt-roll-over-for-trust-restructures",
-    "cgt-roll-over-for-assets-between-fixed-trusts"
+    "cgt-roll-over-for-assets-between-ﬁxed-trusts"
    ],
    "cases": [],
    "definitions": [
     "cgt asset",
     "cost base of a cgt asset"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "rollover-128ab",
@@ -581,6 +714,20 @@
     "capital loss",
     "market value",
     "cost base of a cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2000_11",
+     "title": ""
+    },
+    {
+     "id": "TD_2000_6",
+     "title": ""
+    },
+    {
+     "id": "TD_2004_3",
+     "title": "this view relies on the words following paragraph 128-20(1)(d) of the ITAA 1997 which…"
+    }
    ]
   },
   {
@@ -601,6 +748,20 @@
    "cases": [],
    "definitions": [
     "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2000_37",
+     "title": ""
+    },
+    {
+     "id": "TD_2000_38",
+     "title": "part of the factory having been destroyed. Although there is no loss or destruction of…"
+    },
+    {
+     "id": "LCG_2018_9",
+     "title": ""
+    }
    ]
   },
   {
@@ -613,7 +774,8 @@
     "when-cgt-roll-over-is-available"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   },
   {
    "id": "end-124c",
@@ -633,6 +795,20 @@
    "cases": [],
    "definitions": [
     "cost base of a cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2004_238",
+     "title": "Income Tax: Consolidation - tax cost setting amounts and elements of cost base and…"
+    },
+    {
+     "id": "AID_2004_573",
+     "title": "Capital gains tax: Financial services reform regime - old licence rollover - same owner"
+    },
+    {
+     "id": "AID_2004_574",
+     "title": "Capital gains tax: Financial services reform regime - qualified licence rollover - same…"
+    }
    ]
   },
   {
@@ -643,7 +819,8 @@
    "statute": [],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   }
  ],
  "edges": [
@@ -897,5 +1074,6 @@
    "to": "end-shared",
    "label": "see separate map"
   }
- ]
+ ],
+ "sort": 32
 }

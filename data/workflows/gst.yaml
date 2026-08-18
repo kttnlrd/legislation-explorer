@@ -1,0 +1,148 @@
+# GST Workflow — v0.1 (draft)
+# Decision map for GST Act 1999: taxable supply, enterprise, registration,
+# GST-free vs input-taxed, creditable acquisitions, margin scheme, imports.
+# Anchors verified against local gst-1999 corpus.
+
+id: gst
+name: GST Analysis
+area: gst
+version: 0.1
+entry: [supply]
+
+nodes:
+
+  supply:
+    question: "Is there a supply? (s 9-10 — any form of supply whatsoever: goods, services, real property, rights)"
+    fetch: ["gst-1999:9-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "no supply"
+        then: stop_no_gst
+      - if: "supply exists"
+        then: enterprise
+
+  stop_no_gst:
+    question: "No supply — GST does not arise."
+    terminal: true
+
+  enterprise:
+    question: "Is the supply made in the course or furtherance of an enterprise? (s 9-20 — business, adventure in the nature of trade; includes non-profit and government)"
+    fetch: ["gst-1999:9-20"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "not in course of enterprise"
+        then: stop_no_gst
+      - if: "in course of enterprise"
+        then: registration
+
+  registration:
+    question: "Is the supplier registered or required to be registered? (s 23-5 — $75k turnover threshold; $150k non-profit; $0 for taxi/ride-sourcing)"
+    fetch: ["gst-1999:23-5"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "not registered and below threshold (no taxi/ride-sourcing)"
+        then: stop_no_gst
+      - if: "registered or required to be registered"
+        then: consideration
+
+  consideration:
+    question: "Is there consideration for the supply? (s 9-15 — payment or act/forbearance, monetary or non-monetary; excludes gifts and some statutory payments)"
+    fetch: ["gst-1999:9-15"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "no consideration"
+        then: stop_no_gst
+      - if: "consideration exists"
+        then: classification
+
+  classification:
+    question: "How is the supply classified? — taxable, GST-free, input-taxed, or out of scope (not connected with Australia)?"
+    fetch: ["gst-1999:9-5", "gst-1999:38-1", "gst-1999:40-5"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "GST-free (Div 38 — food, exports, health, education, charities)"
+        then: gst_free
+      - if: "input-taxed (Div 40 — residential rent, financial supplies, residential premises sale)"
+        then: input_taxed
+      - if: "not connected with Australia (s 9-25)"
+        then: stop_no_gst
+      - if: "taxable supply (s 9-5 — all elements met)"
+        then: margin_scheme
+
+  gst_free:
+    question: "GST-free supply — no GST on output, but input tax credits on related acquisitions still available."
+    fetch: ["gst-1999:38-1"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "creditable acquisition for business use"
+        then: itc
+      - if: "no creditable acquisition"
+        then: stop_done
+
+  input_taxed:
+    question: "Input-taxed supply — no GST on output AND no input tax credits on related acquisitions (the cost carries embedded GST)."
+    fetch: ["gst-1999:40-5"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "residential premises — check margin scheme alternative for property developers"
+        then: margin_scheme
+      - if: "financial supply or other input-taxed"
+        then: stop_done
+
+  margin_scheme:
+    question: "Does the margin scheme apply to a supply of real property? (s 75-5 — margin = sale price minus acquisition cost, instead of full consideration; not available for input-taxed residential rent but available for new residential premises in some cases)"
+    fetch: ["gst-1999:75-5"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "margin scheme applies"
+        then: itc
+      - if: "margin scheme not used / not available"
+        then: itc
+
+  itc:
+    question: "Is there a creditable acquisition? (s 11-5 — acquisition for a creditable purpose, taxable supply, registered, tax invoice held)"
+    fetch: ["gst-1999:11-5"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "creditable acquisition — input tax credit available"
+        then: attribution
+      - if: "not a creditable acquisition (private use, input-taxed purpose)"
+        then: attribution
+
+  attribution:
+    question: "When is GST attributable and how is it reported? (s 29-10 — attribution periods, cash vs accruals basis, adjustments)"
+    fetch: ["gst-1999:29-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "non-resident supplier — check reverse charge and registration rules"
+        then: non_resident
+      - if: "adjustment event (price change, refund, bad debt)"
+        then: stop_adjustment
+      - if: "standard attribution"
+        then: stop_done
+
+  non_resident:
+    question: "Non-resident supply rules: imported services and digital products may be subject to reverse charge; registration may be required for the supplier."
+    fetch: ["gst-1999:13-5"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "importation of goods — GST at border (s 13-5)"
+        then: stop_done
+      - if: "imported services/digital — reverse charge considerations"
+        then: stop_done
+
+  stop_adjustment:
+    question: "Adjustment event — recalculate GST/ITC for the period; record in the activity statement."
+    terminal: true
+
+  stop_done:
+    question: "GST analysis complete — present supply classification, GST payable/ITC, and attribution with authorities."
+    terminal: true
+
+rules:
+  - "Classification (taxable / GST-free / input-taxed / out of scope) is the core decision — get it right before computing amounts."
+  - "Input-taxed supplies deny ITCs; GST-free supplies do not. Never conflate the two."
+  - "Margin scheme only applies to real property and requires an election; check availability per premises type."
+  - "Consideration includes non-monetary consideration valued at market value (s 9-15(2))."
+  - "Registration threshold is $75k ($150k non-profit) — but taxi/ride-sourcing has no threshold."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."

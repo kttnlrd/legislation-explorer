@@ -372,9 +372,10 @@ def _fts_phrase(s: str) -> str:
     return '"' + s.replace('"', '""') + '"'
 
 
-def _expand_query(q: str) -> str:
+def _expand_query(q: str, operator: str = "AND") -> str:
     """Build the FTS5 MATCH string: quoted phrases pass through untouched,
-    recognised terms in the free text become OR-groups with their synonyms."""
+    recognised terms in the free text become OR-groups with their synonyms.
+    operator='OR' joins top-level terms with OR instead of AND."""
     out: list[str] = []
     for phrase, word in re.findall(r'"([^"]*)"|(\S+)', q):
         if phrase:
@@ -415,7 +416,7 @@ def _expand_query(q: str) -> str:
     # A bare word already inside a synonym group would AND it back in and undo
     # the expansion ("employee share scheme ESS" must not require the token ESS).
     expanded = [t for t in expanded if t.strip('"').lower() not in covered or t.startswith('(')]
-    return ' AND '.join(expanded)
+    return (' OR ' if operator == "OR" else ' AND ').join(expanded)
 
 
 # Title matches outrank body-only matches. Columns: act, section, title, content.
@@ -450,13 +451,15 @@ def search_section_ids(q: str, act: str | None = None, limit: int = 20) -> list[
     ]
 
 
-def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
+def search_sections(q: str, act: str | None = None, limit: int = 50,
+                    operator: str = "AND") -> dict:
     """Search using SQLite FTS5 with BM25 ranking.
 
     Supports double-quoted phrase matching for exact literal search
     (e.g. '"distributable surplus"' matches sections containing that
     exact substring via LIKE, bypassing FTS5 stemming entirely).
-    Unquoted multi-word queries use standard FTS5 AND matching.
+    Unquoted multi-word queries use standard FTS5 matching: AND by
+    default, OR when operator='OR'.
     """
     # Detect fully quoted phrase — use LIKE for exact literal match
     phrase_match = re.match(r'^\s*"(.+)"\s*$', q)
@@ -510,7 +513,7 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
     # Standard FTS5 token-based matching
     if not q.strip():
         return {"results": [], "total_count": 0}
-    q_clean = _expand_query(q)
+    q_clean = _expand_query(q, operator)
     if not q_clean:
         return {"results": [], "total_count": 0}
 
@@ -639,7 +642,7 @@ def _ruling_type_from_citation(citation: str) -> str:
     return ""
 
 
-def search_rulings(q: str, limit: int = 20) -> list[dict]:
+def search_rulings(q: str, limit: int = 20, operator: str = "AND") -> list[dict]:
     """Search rulings using FTS5 BM25 ranking with exact-match boost."""
     tokens = q.split()
     if not tokens:
@@ -667,7 +670,7 @@ def search_rulings(q: str, limit: int = 20) -> list[dict]:
             quoted.append(f'"{inner}"*')
         else:
             quoted.append('"' + tok.replace('"', '""') + '"')
-    q_clean = ' '.join(quoted)
+    q_clean = (' OR ' if operator == "OR" else ' ').join(quoted)
 
     with search_conn() as conn:
         sql = """SELECT rulings_fts.citation, rulings_fts.title,
@@ -919,7 +922,7 @@ def get_insolvency_chapter(chapter: int) -> dict | None:
     }
 
 
-def search_cases_fts(q: str, limit: int = 20) -> list[dict]:
+def search_cases_fts(q: str, limit: int = 20, operator: str = "AND") -> list[dict]:
     """Search case summaries using FTS5 BM25 ranking.
 
     Returns list of dicts with citation, case_name, court, has_summary=True.
@@ -934,7 +937,7 @@ def search_cases_fts(q: str, limit: int = 20) -> list[dict]:
             quoted.append(f'"{inner}"*')
         else:
             quoted.append('"' + tok.replace('"', '""') + '"')
-    q_clean = ' '.join(quoted)
+    q_clean = (' OR ' if operator == "OR" else ' ').join(quoted)
     from urllib.parse import quote
 
     with search_conn() as conn:

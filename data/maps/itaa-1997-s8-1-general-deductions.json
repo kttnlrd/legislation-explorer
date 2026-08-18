@@ -1,0 +1,452 @@
+{
+ "id": "itaa-1997-s8-1-general-deductions",
+ "title": "General deductions — s 8-1 ITAA 1997",
+ "act": "itaa-1997",
+ "part": "1-3",
+ "division": "8",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Facet map: is a loss/outgoing deductible under s 8-1? Spine: positive limbs (s 8-1(1)(a) incidental-and-relevant nexus — Ronpibon Tin; s 8-1(1)(b) necessarily incurred in business — FCT v Day) → negative limbs (s 8-1(2)(a) capital — Sun Newspapers enduring benefit; (b) private/domestic; (c) exempt/NANE related; (d) statutory bar via s 12-5 list) → specific deductions (s 8-5) and no double deductions (s 8-10). FACETS: apportionment ('to the extent that'), incurred timing (James Flood), employee work expenses (TR 2020/1, TR 1998/9), repairs vs improvements (s 25-10), specific denial provisions (Div 32 entertainment, s 26-5 penalties, s 26-20 bribes, s 26-30 uniforms). Subsection coverage: s 8-1(1)-(3) on the spine; s 8-5(1)-(3), s 8-10 mapped; s 12-5 and the denial provisions mapped to the denials facet.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You have incurred a loss or outgoing — is it deductible under s 8-1?",
+   "body": "Single question, many facets. Spine: positive limbs → negative limbs → specific deductions. Facets on the side branches carry the niche issues and where-to-look signposts.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "general-allowable-deductions",
+    "when-is-a-loss-or-outgoing-incurred"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "deduct",
+    "loss or outgoing"
+   ]
+  },
+  {
+   "id": "positive",
+   "type": "decision",
+   "label": "Positive limb (a): incurred in gaining or producing your assessable income?",
+   "body": "The nexus test: the loss must be 'incidental and relevant' to the process of gaining or producing assessable income (Ronpibon Tin NL v FCT (1949) 78 CLR 47). The expense need not actually produce income — it must be incurred in the course of the income-producing activity. Note the 'to the extent that' apportionment language.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "expenses-incurred-in-carrying-on-a-business"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "business",
+   "type": "decision",
+   "label": "Or limb (b): necessarily incurred in carrying on a business for that purpose?",
+   "body": "Available only where a business is carried on. 'Necessarily incurred' means clearly appropriate and adapted for the purpose, not absolutely essential (FCT v Day (2008) 236 CLR 163). Wider scope than limb (a) for business expenses generally.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "no-nexus",
+   "type": "outcome",
+   "label": "Not deductible under s 8-1 — no nexus",
+   "body": "Fails both positive limbs. Check for a specific deduction provision (s 8-5) before concluding.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "capital",
+   "type": "decision",
+   "label": "Negative limb (a): is it capital or of a capital nature?",
+   "body": "The enduring-benefit test (Sun Newspapers Ltd v FCT (1938)): expenditure for acquiring an asset or advantage of enduring benefit is capital. Repairs, running costs and consumables are revenue. Trading losses on revenue account are NOT excluded merely because they are 'losses'.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "revenue-vs-capital-outgoings-and-losses"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "capital-denied",
+   "type": "outcome",
+   "label": "Not deductible — capital (s 8-1(2)(a))",
+   "body": "Capital outgoings are excluded. Look to specific capital allowances: Div 40 depreciation, Div 43 capital works, s 25-110 blackhole expenses.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "private",
+   "type": "decision",
+   "label": "Negative limb (b): private or domestic nature?",
+   "body": "Excludes private/domestic outgoings (FCT v Day (2008)). Apportionment: the private portion of a mixed outgoing is not deductible. 'Inherently private' expenses (ordinary clothing, food, home-to-work travel) are excluded; the income-producing portion of e.g. a home office may be deductible if separately identifiable.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "when-is-a-loss-or-outgoing-incurred"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "private-denied",
+   "type": "outcome",
+   "label": "Not deductible — private/domestic (s 8-1(2)(b))",
+   "body": "Private outgoings excluded (ordinary living costs, home-to-work travel). Apportion: separately identifiable income-producing portions remain deductible.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "exempt",
+   "type": "decision",
+   "label": "Negative limb (c): incurred in relation to exempt or NANE income?",
+   "body": "Expenses of deriving exempt income or NANE income are not deductible. Apportionment applies. NANE examples: foreign branch income (s 23AH), NANE foreign dividends (s 768-5).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "classes-of-exempt-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "exempt-denied",
+   "type": "outcome",
+   "label": "Not deductible — exempt/NANE related (s 8-1(2)(c))",
+   "body": "Denied to the extent the outgoing relates to exempt or NANE income. Apportion where the outgoing relates partly to assessable income.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "statute-bar",
+   "type": "decision",
+   "label": "Negative limb (d): does a provision prevent the deduction?",
+   "body": "Specific denial/limitation provisions. See s 12-5 for the summary list: entertainment (Div 32), penalties (s 26-5), bribes (s 26-20), non-compulsory uniforms (s 26-30), and others.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "12-5",
+     "title": "Summary list of provisions about deductions"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "statute-denied",
+   "type": "outcome",
+   "label": "Not deductible — denied/limited by specific provision (s 8-1(2)(d))",
+   "body": "Denied or limited (e.g. Div 32 entertainment, s 26-5 penalties). Check the specific provision for its own exceptions.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "specific",
+   "type": "decision",
+   "label": "Is it a specific deduction under s 8-5 (or denied by s 8-10 no-double-deduction)?",
+   "body": "s 8-5: amounts deductible under provisions outside Div 8 are 'specific deductions' — not claimed under s 8-1 unless the provision says so. s 8-10: if two or more provisions allow a deduction for the same amount, deduct only under the most appropriate provision.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-5",
+     "title": "Specific deductions"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "8-10",
+     "title": "No double deductions"
+    }
+   ],
+   "commentary": [
+    "double-deductions"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "deductible",
+   "type": "end",
+   "label": "Deductible as a general deduction (s 8-1)",
+   "body": "Deductible to the extent it satisfies s 8-1(1) and is not excluded by s 8-1(2). Recoupment watch: insurance/indemnity recoupment may be assessable (Subdiv 20-A). GST: Div 27 adjusts deductions for input tax credits.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-apportionment",
+   "type": "outcome",
+   "label": "FACET — Apportionment ('to the extent that')",
+   "body": "Where to look: s 8-1(1) 'to the extent that'; Ronpibon Tin (1949) — apportionment where the outgoing serves both income and non-income purposes; s 8-1(2) also apportions between assessable and exempt purposes. Cases: Ronpibon Tin NL v FCT (1949) 78 CLR 47, FCT v Day (2008) 236 CLR 163.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [
+    {
+     "citation": "1949_HCA_63",
+     "note": "Ronpibon Tin NL v FCT (1949) 78 CLR 47 — incidental and relevant test; apportionment"
+    }
+   ],
+   "definitions": []
+  },
+  {
+   "id": "facet-incurred",
+   "type": "outcome",
+   "label": "FACET — 'Incurred': timing and quantum",
+   "body": "Where to look: CCH 'when-is-a-loss-or-outgoing-incurred'. A loss/outgoing is incurred when the taxpayer has a presently existing liability (even if not yet paid) — James Flood Pty Ltd v FCT (1953). Contingent liabilities are not incurred until the contingency resolves. Provisions for estimated expenses are generally not deductible (unless specific provision).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [
+    "when-is-a-loss-or-outgoing-incurred",
+    "deductions-for-provisions-for-estimated-expenses"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-employee",
+   "type": "outcome",
+   "label": "FACET — Employee work expenses",
+   "body": "Where to look: TR 2020/1 (employees: deductions for work expenses under s 8-1); TR 1998/9 (self-education); TD 1999/62 (work-related expenses). Employee expenses must have a sufficient connection to earning employment income and be substantiated; home-to-work travel is private.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-1",
+     "title": "General deductions"
+    }
+   ],
+   "commentary": [],
+   "rulings": [
+    {
+     "id": "TR_2020_1",
+     "title": "employees: deductions for work expenses under section 8-1"
+    },
+    {
+     "id": "TR_1998_9",
+     "title": "deductibility of self-education expenses"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-repair",
+   "type": "outcome",
+   "label": "FACET — Repairs vs improvements (revenue vs capital)",
+   "body": "Where to look: s 25-10 (repairs) and the capital boundary; CCH 'revenue-vs-capital-outgoings-and-losses'. Repairing an asset to its original state is revenue; improving or replacing the asset (putting it in a better state) is capital. The 'restoration vs improvement' line (Lurcott v Wakely, FCT v Western Suburbs Cinemas).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "25-10",
+     "title": "Repairs"
+    }
+   ],
+   "commentary": [
+    "revenue-vs-capital-outgoings-and-losses"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-denials",
+   "type": "outcome",
+   "label": "FACET — Specific denial provisions (s 12-5 list)",
+   "body": "Where to look: s 12-5 summary; Div 32 entertainment (limited deduction), s 26-5 penalties, s 26-20 bribes/secret commissions, s 26-30 non-compulsory uniforms, s 26-35 leisure facility expenses, s 26-45 expenses of a strike, s 26-50(1) travel expenses where accompanied by spouse, s 26-54 political donations, s 26-55 recreational club expenses, s 26-60 (no deduction for certain legal expenses of a capital nature).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "12-5",
+     "title": "Summary list of provisions about deductions"
+    }
+   ],
+   "commentary": [
+    "limited-deduction-for-entertainment-expenses"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "positive",
+   "label": "Loss or outgoing incurred"
+  },
+  {
+   "from": "positive",
+   "to": "business",
+   "label": "No — not limb (a)"
+  },
+  {
+   "from": "positive",
+   "to": "no-nexus",
+   "label": "No — no nexus"
+  },
+  {
+   "from": "business",
+   "to": "no-nexus",
+   "label": "No — not necessarily incurred in business"
+  },
+  {
+   "from": "positive",
+   "to": "capital",
+   "label": "Yes — limb (a) satisfied"
+  },
+  {
+   "from": "business",
+   "to": "capital",
+   "label": "Yes — limb (b) satisfied"
+  },
+  {
+   "from": "capital",
+   "to": "capital-denied",
+   "label": "Yes — capital"
+  },
+  {
+   "from": "capital",
+   "to": "private",
+   "label": "No — not capital"
+  },
+  {
+   "from": "private",
+   "to": "private-denied",
+   "label": "Yes — private/domestic"
+  },
+  {
+   "from": "private",
+   "to": "exempt",
+   "label": "No — not private"
+  },
+  {
+   "from": "exempt",
+   "to": "exempt-denied",
+   "label": "Yes — exempt/NANE related"
+  },
+  {
+   "from": "exempt",
+   "to": "statute-bar",
+   "label": "No — not exempt-related"
+  },
+  {
+   "from": "statute-bar",
+   "to": "statute-denied",
+   "label": "Yes — provision prevents deduction"
+  },
+  {
+   "from": "statute-bar",
+   "to": "specific",
+   "label": "No — no statutory bar"
+  },
+  {
+   "from": "specific",
+   "to": "deductible",
+   "label": "No — not a specific deduction (or apply s 8-10)"
+  },
+  {
+   "from": "positive",
+   "to": "facet-apportionment",
+   "label": "Facet: apportionment"
+  },
+  {
+   "from": "start",
+   "to": "facet-incurred",
+   "label": "Facet: incurred"
+  },
+  {
+   "from": "business",
+   "to": "facet-employee",
+   "label": "Facet: employee expenses"
+  },
+  {
+   "from": "capital",
+   "to": "facet-repair",
+   "label": "Facet: repairs"
+  },
+  {
+   "from": "statute-bar",
+   "to": "facet-denials",
+   "label": "Facet: denial provisions"
+  }
+ ],
+ "short": "General deductions",
+ "refs": "s 8-1 · s 8-5 · s 8-10",
+ "sort": 15
+}

@@ -1,0 +1,1258 @@
+{
+ "id": "itaa-1997-div-130-134-investments-leases-options",
+ "title": "Divisions 130-134 — Investments, Leases & Options (CGT special rules)",
+ "act": "itaa-1997",
+ "part": "3-3",
+ "division": "130",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Division 130 (Investments) modifies cost base/reduced cost base rules for bonus shares/units (Subdiv 130-A, ss 130-15, 130-20), rights (Subdiv 130-B, ss 130-40, 130-45, 130-50), convertible interests (Subdiv 130-C, s 130-60), employee share scheme interests (Subdiv 130-D, ss 130-75, 130-80, 130-85, 130-90, 130-95, 130-97), and exchangeable interests (Subdiv 130-E, ss 130-100, 130-105). Division 132 (Leases) covers lease cost base modifications (ss 132-1, 132-5), CGT event F2 long-term lease treatment (s 132-10), and the reversionary interest acquisition rule (s 132-15). Division 134 (Options) sets out the cost base consequences when an option is exercised (s 134-1). Flow: start -> router decision by asset type -> bonus issues, rights, convertible interests, exchangeable interests, ESS, leases, options -> each path modifies cost base and disregards CGT events on exercise/conversion -> end. Boundary assertions: the dividend vs non-dividend bifurcation for bonus shares (s 130-20(2)/(3)) is an explicit decision; long-term lease (132-10) is a boundary where CGT event F2 triggers cost base exclusion for pre-existing expenditure; Subdiv 130-B rights do not apply if you paid for them (s 130-40(2)), creating a carve-out to Div 134. Interaction provisions: Div 110 (cost base), Div 112 (cost base modifications), CGT events A1/C2/D2/F2, Div 83A (ESS), Div 124-J (Crown lease roll-over), s 118-20 (gain reduction). Subsection coverage: ss 130-1, 130-15, 130-20(1)(2)(3)(3A)(4), 130-40(1)(2)(3)(4)(5)(6)(6A)(7), 130-45(1)(2), 130-50, 130-60(1)(1A)(1B)(2)(3), 130-75(a)(b)(c), 130-80(1)(2)(3)(4), 130-85(1)(2)(3)(4), 130-90(1A)(1)(2), 130-95, 130-97(a)-(f), 130-100(a)(b), 130-105(1)(2)(3)(4)(5), 130-110(1)(2), 132-1, 132-5, 132-10(1)(2)(3)(4), 132-15(1)(2), 134-1(1)(2)(4)(5)(6) mapped to nodes; ss 130-5, 130-10, 130-25, 130-30, 130-35, 130-55, 130-65, 130-70, 130-106 (historical/transitional — no current section files exist, content subsumed); ss 132-20, 132-25, 132-30, 132-40, 132-42, 132-45 (not present in current compilation as separate sections; rules subsumed into CGT event treatment and cost base provisions); ss 134-5, 134-10, 134-15, 134-20, 134-25 (not present as separate sections; content covered by Div 104 D2/C3 events and Div 134-1).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "CGT asset includes shares, units, rights, options, convertible interests, or a lease — you need the special rules of Div 130, 132 or 134",
+   "body": "Part 3-3 (Divisions 130-134) contains special CGT rules for various investment assets and leases. Division 130 covers bonus shares/units, rights, convertible interests, employee share scheme interests, and exchangeable interests — mostly modifying cost base and reduced cost base. Division 132 covers lease-related cost base adjustments. Division 134 covers the CGT treatment of options on exercise.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-1",
+     "title": "What this Division is about"
+    }
+   ],
+   "commentary": [
+    "bonus-shares",
+    "options-rights-swaps"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT asset",
+    "cost base",
+    "reduced cost base"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-asset-type",
+   "type": "decision",
+   "label": "What type of investment asset do you hold?",
+   "body": "The rules differ depending on the asset type: bonus shares/units (Subdiv 130-A), rights (Subdiv 130-B), convertible interests (Subdiv 130-C), employee share scheme interests (Subdiv 130-D), exchangeable interests (Subdiv 130-E), a lease (Div 132), or an option (Div 134). Each has its own cost base modification rules and CGT event consequences.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-1",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "bonus-shares-units",
+   "type": "event",
+   "label": "You receive bonus shares in a company, or bonus units in a unit trust (Subdiv 130-A)",
+   "body": "A company issues additional shares, or a trustee issues additional units, to you in relation to original equities you own. The CGT treatment depends on whether the bonus equities are assessable (dividend) or non-assessable.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-1",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-15",
+     "title": "Acquisition time and cost base of bonus equities"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-bonus-shares-and-units"
+   ],
+   "cases": [],
+   "definitions": [
+    "bonus equities",
+    "original equities",
+    "bonus shares",
+    "bonus units"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-bonus-dividend",
+   "type": "decision",
+   "label": "Are the bonus shares a dividend (assessable), or the bonus units included in assessable income?",
+   "body": "Under s 130-20(2): if the bonus shares are a dividend (or taken to be a dividend under s 45(2) or 45C(1) ITAA 1936), or if the bonus units are included in assessable income, then the first element of cost base for the bonus equities includes that assessable amount. You are taken to have acquired the bonus equities when they were issued. Under s 130-20(3): if they are not a dividend and not assessable, the cost base of the original equities is apportioned.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-20",
+     "title": "Issue of bonus shares or units"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-bonus-shares-and-units"
+   ],
+   "cases": [],
+   "definitions": [
+    "dividend",
+    "assessable income"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2010_6",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2000_11",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "bonus-dividend-path",
+   "type": "action",
+   "label": "Bonus equities are assessable — cost base includes the dividend/assessable amount (s 130-20(2))",
+   "body": "First element of cost base and reduced cost base for the bonus equities = the amount that is a dividend (for shares) or included in assessable income (for units). Acquisition time = when the bonus equities were issued. Calls paid on partly-paid equities also form part of the first element. If only part of the bonus equities is a dividend, apportion the original cost base reasonably over both original and bonus equities (s 130-20(3A)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-20",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-bonus-shares-and-units"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2010_6",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2000_11",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "bonus-non-dividend-path",
+   "type": "action",
+   "label": "Bonus equities are not assessable — apportion cost base of original equities (s 130-20(3))",
+   "body": "Three scenarios in the table at s 130-20(3): (1) If you acquired the original equities on or after 20 September 1985, apportion the first element of cost base for the original equities in a reasonable way over both original and bonus equities. Acquisition date for the bonus equities = date you acquired the original equities. (2) If you acquired before 20 Sept 1985 and paid for the bonus equities, cost base = market value just before that time. (3) If you acquired before 20 Sept 1985 and the bonus equities are fully paid, any gain/loss from bonus equities is disregarded.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-20",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-bonus-shares-and-units"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2013_19",
+     "title": "Capital gains tax - bonus shares"
+    }
+   ]
+  },
+  {
+   "id": "bonus-public-trading-trust",
+   "type": "outcome",
+   "label": "Carve-out: Modifications do not apply if the unit trust is a public trading trust (s 130-20(4))",
+   "body": "The cost base modifications in s 130-20 do not apply if, for the income year in which the bonus equities are issued, the unit trust is a public trading trust within s 102R ITAA 1936.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-20",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "public trading trust"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "rights",
+   "type": "event",
+   "label": "You hold or exercise rights to acquire shares, units, or options (Subdiv 130-B)",
+   "body": "Subdivision 130-B modifies the cost base rules when rights to acquire shares/units/options are exercised. It applies to both rights issued to you by the company/trust and rights acquired from another entity. Key condition: you did not pay for the rights (s 130-40(2)(a)), or you acquired them from someone who already owned the underlying equities (s 130-40(2)(b)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-40",
+     "title": "Exercise of rights"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-45",
+     "title": "Timing rules"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-50",
+     "title": "Application to options"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-rights"
+   ],
+   "cases": [],
+   "definitions": [
+    "rights",
+    "original shares",
+    "original units",
+    "convertible interests"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2017_4",
+     "title": "Income tax: taxation of rights and retail premiums under renounceable rights offers where…"
+    }
+   ]
+  },
+  {
+   "id": "dec-rights-paid",
+   "type": "decision",
+   "label": "Did you pay for the rights, or acquire them from an entity that already owned the underlying equities?",
+   "body": "Section 130-40(2): The Subdivision modifications apply only if (a) you did not pay for the rights AND when issued you already owned shares/convertible interests in the company or units/convertible interests in the unit trust (s 130-40(3)); OR (b) you acquired the rights from an entity that already owned those original equities (s 130-40(4)). If you paid for the rights and didn't acquire them from an equity-holder, Div 134 (options) applies instead.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-40",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-rights"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-rights-issued-vs-acquired",
+   "type": "decision",
+   "label": "Were the rights issued to you directly, or did you acquire them from another entity?",
+   "body": "The cost base modification depends on the source of the rights. Item 1 of the table in s 130-40(6) applies to rights issued to you. Item 2 applies to rights you acquired from another entity. Item 3 applies if you acquired the original shares/convertible interests before 20 September 1985.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-40",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-rights"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "rights-exercise-issued",
+   "type": "action",
+   "label": "Exercise rights issued to you (Item 1) — cost base = cost base of rights + exercise amount + s 130-40(6A) additions",
+   "body": "First element of cost base and reduced cost base for the shares, units or options is: (a) the cost base of the rights at time of exercise; plus (b) the amount paid to exercise (not already in (a)); plus (c) any amounts added under s 130-40(6A) (where a capital gain from the right has been reduced under s 118-20). If you acquired original equities before 20 Sept 1985 (Item 3), use market value of rights at exercise instead of cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-40",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-rights"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "rights-exercise-acquired",
+   "type": "action",
+   "label": "Exercise rights acquired from another entity (Item 2) — cost base = cost base of rights + exercise amount + additions",
+   "body": "First element of cost base and reduced cost base for the shares, units or options is: (a) the cost base of the rights at time of exercise; plus (b) any amount paid to exercise; plus (c) amounts added under s 130-40(6A). The capital gain from the rights is disregarded (s 130-40(7)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-40",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-rights"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "rights-timing",
+   "type": "action",
+   "label": "Timing rules for rights (s 130-45) — acquisition time of rights and new shares/units/options",
+   "body": "Under s 130-45(1): if you acquired the rights from the company or trustee, you are taken to have acquired the rights when you acquired the original shares/interests or original units/interests. Under s 130-45(2): you are taken to have acquired the new shares, units or options when you exercise the rights.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-45",
+     "title": "Timing rules"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-rights"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2017_4",
+     "title": "Income tax: taxation of rights and retail premiums under renounceable rights offers where…"
+    }
+   ]
+  },
+  {
+   "id": "rights-options-crossref",
+   "type": "action",
+   "label": "Subdiv 130-B applies to options in the same way as rights (s 130-50)",
+   "body": "Section 130-50 provides that Subdivision 130-B (Exercise of rights) applies to options in the same way that it applies to rights. This extends the cost base modification rules to options issued by a company/trust where no payment was made for them.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-50",
+     "title": "Application to options"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-options"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "convertible-interests",
+   "type": "event",
+   "label": "You convert a convertible interest into shares or units (Subdiv 130-C)",
+   "body": "Subdivision 130-C modifies the cost base and reduced cost base rules when you acquire shares or units in a unit trust by converting a convertible interest (s 130-60). A convertible interest is a traditional security (e.g. convertible note) or other interest that can be converted into equity.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-60",
+     "title": "Shares or units acquired by converting a convertible interest"
+    }
+   ],
+   "commentary": [
+    "options-rights-swaps"
+   ],
+   "cases": [],
+   "definitions": [
+    "convertible interest",
+    "traditional security"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2006_9",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    }
+   ]
+  },
+  {
+   "id": "dec-convertible-type",
+   "type": "decision",
+   "label": "What type of convertible interest?",
+   "body": "The cost base modification depends on whether the convertible interest is a traditional security or not, and whether it was issued by a company or a unit trust. Item 1: traditional security (any issuer). Item 2: convertible interest that is NOT a traditional security, issued by a company. Item 3: convertible interest that is NOT a traditional security, issued by the trustee of a unit trust after 28 January 1988.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-60",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2006_9",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    }
+   ]
+  },
+  {
+   "id": "convertible-action",
+   "type": "action",
+   "label": "Cost base of shares/units acquired on conversion = cost base of convertible interest + conversion amount + additions (s 130-60(1))",
+   "body": "The first element of cost base and reduced cost base of the shares/units is: (a) the cost base of the convertible interest at the time of conversion; plus (b) any amount paid to convert (not already in (a)); plus (c) amounts added under s 130-60(1A) (where a capital gain from the convertible interest has been reduced under s 118-20). You are taken to have acquired the shares/units when the conversion happened (s 130-60(2)). The capital gain or loss from converting the convertible interest is disregarded (s 130-60(3)) — this would otherwise be CGT event C2.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-60",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "options-rights-swaps"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "ess-interests",
+   "type": "event",
+   "label": "You have an ESS interest acquired under an employee share scheme (Subdiv 130-D)",
+   "body": "Subdivision 130-D coordinates the CGT rules with Division 83A (Employee share schemes). The objects (s 130-75) are: to recognise that Div 83A contains the primary rules for ESS interests and CGT should usually be disregarded during the Div 83A period; to align ESS and CGT treatment by turning off certain special CGT rules and extending Div 83A deeming provisions; and to disregard employee share trusts by treating ESS interests as directly owned by beneficiaries.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-75",
+     "title": "Objects of Subdivision"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-80",
+     "title": "ESS interests acquired under employee share schemes"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-85",
+     "title": "Interests in employee share trusts"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-90",
+     "title": "Shares held by employee share trusts"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-95",
+     "title": "Shares and rights in relation to ESS interests"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-97",
+     "title": "Application of certain provisions of Division 83A"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-employee-share-schemes"
+   ],
+   "cases": [],
+   "definitions": [
+    "ESS interest",
+    "employee share scheme",
+    "ESS deferred taxing point"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2017_26",
+     "title": "when a dividend equivalent payment is assessable to an employee as remuneration Please…"
+    },
+    {
+     "id": "TD_2019_13",
+     "title": "the company, or - a subsidiary of the company &bull; other activities that are merely…"
+    },
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an…"
+    }
+   ]
+  },
+  {
+   "id": "ess-disregard",
+   "type": "action",
+   "label": "Disregard CGT gains/losses from ESS interests while Div 83A applies (s 130-80(1))",
+   "body": "Disregard capital gain or capital loss to the extent it results from a CGT event if: (a) the event relates to an ESS interest acquired under an employee share scheme; (b) the event is not E4, G1 or K8; (c) if Subdiv 83A-B applies — the time of acquisition is the time of the CGT event; (d) if Subdiv 83A-C applies — either the acquisition time = CGT event time, or the CGT event happens on or before the ESS deferred taxing point. Exceptions: if the ESS interest is forfeited or lost (not disposed) on or before the deferred taxing point (s 130-80(2)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-80",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-employee-share-schemes"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "ess-general-acquisition",
+   "type": "action",
+   "label": "General acquisition rule and market value substitution rule turned off (s 130-80(3)-(4))",
+   "body": "Section 130-80(3): Subsection 109-5(2) (when you acquire a CGT asset) does not apply to shares/rights acquired as ESS interests in certain cases. Section 130-80(4): Sections 112-20 and 116-30 (market value substitution rule) do not apply to certain ESS interest acquisitions, forfeitures, or start-up rights.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-80",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-employee-share-schemes"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "ess-trusts",
+   "type": "action",
+   "label": "Interests in employee share trusts — beneficiary treated as absolutely entitled (s 130-85)",
+   "body": "If you have an ESS interest that arises because of an interest in an employee share trust, Div 83A and Part 3-1 apply as if you were absolutely entitled to the relevant share or right (s 130-85(2)). If an associate acquired the interest, your associate is treated as absolutely entitled (s 130-85(3)). An employee share trust is defined in s 130-85(4) as a trust whose sole activities are obtaining shares/rights and providing ESS interests to employees.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-85",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-employee-share-schemes"
+   ],
+   "cases": [],
+   "definitions": [
+    "employee share trust"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2017_26",
+     "title": "when a dividend equivalent payment is assessable to an employee as remuneration Please…"
+    },
+    {
+     "id": "TD_2019_13",
+     "title": "the company, or - a subsidiary of the company &bull; other activities that are merely…"
+    },
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an…"
+    }
+   ]
+  },
+  {
+   "id": "ess-shares-held",
+   "type": "action",
+   "label": "Shares held by employee share trusts — disregard CGT events E5/E7 (s 130-90)",
+   "body": "Section 130-90(1A): Disregard capital gain/loss of an employee share trust from CGT event E5 or E7 if an ESS interest was held by the trust and Subdiv 83A-B or 83A-C applies. Section 130-90(1): Disregard capital gain/loss from CGT events E5/E7 for shares held to satisfy future exercise of rights acquired under an ESS. Section 130-90(2): does not apply if beneficiary acquired the beneficial interest for more than its cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-90",
+     "title": "Shares held by employee share trusts"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-employee-share-schemes"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2002_967",
+     "title": "Employee Share Scheme - Capital Gains Tax - liability of Trustee on disposal of shares or…"
+    },
+    {
+     "id": "AID_2007_218",
+     "title": "Acquisition of shares from a trustee pursuant to rights acquired under an employee share…"
+    },
+    {
+     "id": "AID_2008_149",
+     "title": "Capital gains tax: employee share trust - whether capital gain by trustee disregarded -…"
+    }
+   ]
+  },
+  {
+   "id": "ess-shares-rights",
+   "type": "action",
+   "label": "Shares and rights in relation to ESS interests — same treatment (s 130-95)",
+   "body": "For the purposes of Part 3-1 and Part 3-3, treat a CGT event that happens in relation to a share or right in the same way as a CGT event that happens in relation to an ESS interest, if Subdiv 83A-B or 83A-C applies to the ESS interest and the ESS interest forms part of the share or right.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-95",
+     "title": "Shares and rights in relation to ESS interests"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-employee-share-schemes"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "ess-div83a-crossref",
+   "type": "action",
+   "label": "Div 83A provisions apply for Subdiv 130-D purposes (s 130-97)",
+   "body": "The following Div 83A provisions have effect for Subdiv 130-D purposes: s 83A-130 (takeovers and restructures), s 83A-305 (associates), s 83A-320 (trusts), s 83A-325 (relationships similar to employment), s 83A-335 (stapled securities), s 83A-340 (indeterminate rights).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-97",
+     "title": "Application of certain provisions of Division 83A"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "exchangeable-interests",
+   "type": "event",
+   "label": "You hold an exchangeable interest (Subdiv 130-E)",
+   "body": "An exchangeable interest is a traditional security or qualifying security issued on or after 1 July 2001 that will or may be exchanged for shares in a company that is not the issuer or a connected entity (s 130-100). Section 130-105 provides cost base rules when shares are acquired in exchange for disposal or redemption of the exchangeable interest.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-100",
+     "title": "Exchangeable interest"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "130-105",
+     "title": "Shares acquired in exchange for the disposal or redemption of an exchangeable interest"
+    }
+   ],
+   "commentary": [
+    "cgt-implications-for-exchangeable-interests"
+   ],
+   "cases": [],
+   "definitions": [
+    "exchangeable interest",
+    "traditional security",
+    "qualifying security"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "exchangeable-disposal-redemption",
+   "type": "action",
+   "label": "Cost base of shares acquired on exchange = cost base of exchangeable interest + exchange amount (s 130-105)",
+   "body": "Section 130-105(1): First element of cost base and reduced cost base of the shares is: (a) the cost base of the exchangeable interest at the time of disposal/redemption; plus (b) any amount paid for the exchange; plus (c) amounts added under s 130-105(2) (where capital gain reduced under s 118-20). The capital gain/loss from the disposal or redemption is disregarded (s 130-105(4)). You are taken to have acquired the shares when the disposal/redemption happened.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-105",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-implications-for-exchangeable-interests"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "exploration-investments",
+   "type": "action",
+   "label": "Exploration investments — reduced cost base reduction (s 130-110, Subdiv 130-F)",
+   "body": "Section 130-110 provides for reducing the reduced cost base of a share in a minerals explorer before disposal, where exploration credits have been allocated. Applies to shares issued in 2017-18 to 2024-25 income years. The reduced cost base is reduced by the amount worked out as: corporate tax rate × amount paid up by the investor during the investment period.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "130-110",
+     "title": "Reducing the reduced cost base before disposal"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "exploration credits",
+    "minerals explorer",
+    "corporate tax rate"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "leases",
+   "type": "event",
+   "label": "You are a lessor or lessee — lease-related CGT modifications (Div 132)",
+   "body": "Division 132 modifies the CGT treatment of leases. It covers: expenditure to vary/waive lease terms (s 132-1), lessor payments for lessee improvements (s 132-5), long-term lease treated as a disposal (s 132-10), and the lessee's acquisition of the reversionary interest (s 132-15). The lease-related CGT events are F1-F5 in Div 104.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "132-1",
+     "title": "Lessee incurs expenditure to get lease term varied or waived"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "132-5",
+     "title": "Lessor pays lessee for improvements"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "132-10",
+     "title": "Grant of a long-term lease"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "132-15",
+     "title": "Lessee of land acquires reversionary interest of lessor"
+    }
+   ],
+   "commentary": [
+    "cgt-events-involving-leases",
+    "cgt-cost-base-modiﬁcations-for-leases"
+   ],
+   "cases": [],
+   "definitions": [
+    "lease",
+    "lessor",
+    "lessee",
+    "reversionary interest"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-lease-type",
+   "type": "decision",
+   "label": "What lease event applies?",
+   "body": "Div 132 covers several distinct lease scenarios: (1) lessee pays to vary/waive a lease term (s 132-1); (2) lessor pays lessee for improvements on lease expiry/surrender (s 132-5); (3) lessor grants a long-term lease (99+ years) — CGT event F2 (s 132-10); (4) lessee acquires the lessor's reversionary interest (s 132-15).",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "lease-variation",
+   "type": "action",
+   "label": "Lessee incurs expenditure to vary/waive lease term — add to 4th element of cost base (s 132-1)",
+   "body": "If the lessee of property incurs expenditure in obtaining the lessor's consent to vary or waive a term of the lease, the fourth element of the lease's cost base and reduced cost base includes that expenditure. The expenditure can include giving property (s 103-5).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "132-1",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-cost-base-modiﬁcations-for-leases"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "lease-improvements",
+   "type": "action",
+   "label": "Lessor pays lessee for improvements — add to 4th element of cost base (s 132-5)",
+   "body": "The fourth element of the cost base and reduced cost base of property that was subject to a lease includes any payment by the lessor to the lessee (because the lease expires, is surrendered or forfeited) for capital expenditure incurred by the lessee in making improvements to the lease property.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "132-5",
+     "title": "Lessor pays lessee for improvements"
+    }
+   ],
+   "commentary": [
+    "cgt-cost-base-modiﬁcations-for-leases"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "lease-long-term",
+   "type": "event",
+   "label": "Long-term lease granted (99+ years) — CGT event F2 (s 132-10)",
+   "body": "When CGT event F2 happens (grant of a long-term lease of 99+ years), it is treated as a disposal of the land. For any later CGT event to the land or the lessor's lease, the cost base and reduced cost base excludes: (a) expenditure incurred before CGT event F2 happens; and (b) the cost of any depreciating asset for which the lessor has deducted decline in value (s 132-10(2)). The fourth element includes any payment by the lessor to the lessee to vary/waive a term or for surrender, reduced by any input tax credit (s 132-10(3)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "132-10",
+     "title": "Grant of a long-term lease"
+    }
+   ],
+   "commentary": [
+    "cgt-events-involving-leases"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT event F2",
+    "long-term lease"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "lease-reversion",
+   "type": "action",
+   "label": "Lessee acquires lessor's reversionary interest (s 132-15)",
+   "body": "When a lessee acquires the lessor's reversionary interest in the land (and Subdiv 124-J Crown lease roll-over does not apply): (1) If the lease was originally granted for 99+ years — deemed acquisition of the land when the lease was granted/assigned, at cost = premium plus amount paid for reversionary interest (Item 1). (2) If the lease was for less than 99 years — deemed acquisition when the lessee acquired the reversionary interest, at cost = premium (if lease acquired post-CGT) or market value of land (if pre-CGT) plus amount paid for reversionary interest (Item 2).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "132-15",
+     "title": "Lessee of land acquires reversionary interest of lessor"
+    }
+   ],
+   "commentary": [
+    "cgt-events-involving-leases"
+   ],
+   "cases": [],
+   "definitions": [
+    "reversionary interest"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "options-div134",
+   "type": "event",
+   "label": "You grant or exercise an option (Div 134)",
+   "body": "Division 134 sets out the CGT consequences of exercising an option (s 134-1). It does NOT apply to: rights/options covered by Subdiv 130-B (s 134-1(5)); options over foreign currency (s 134-1(6)). The exercise of an option triggers CGT event C2 for the grantee (the option ends), but the gain/loss from exercise is disregarded (s 134-1(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "134-1",
+     "title": "Exercise of options"
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-options",
+    "options-rights-swaps"
+   ],
+   "cases": [],
+   "definitions": [
+    "option",
+    "grantor",
+    "grantee",
+    "call option",
+    "put option"
+   ],
+   "rulings": [
+    {
+     "id": "LCG_2016_7",
+     "title": ""
+    },
+    {
+     "id": "MT_2012_2",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "dec-option-type",
+   "type": "decision",
+   "label": "Is the option a call option (grantor disposes) or a put option (grantor acquires)?",
+   "body": "The CGT consequences differ based on whether the option binds the grantor to dispose of a CGT asset (call option — Item 1 of the table in s 134-1(1)) or to acquire a CGT asset (put option — Item 2). For call options: the grantee's cost base includes payment for the option plus exercise amount. For put options: the grantor's cost base is reduced by the option payment received.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "134-1",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-options"
+   ],
+   "cases": [],
+   "definitions": [
+    "call option",
+    "put option"
+   ],
+   "rulings": [
+    {
+     "id": "LCG_2016_7",
+     "title": ""
+    },
+    {
+     "id": "MT_2012_2",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "option-call",
+   "type": "action",
+   "label": "Call option exercised — grantee's cost base includes option payment + exercise amount (Item 1)",
+   "body": "For the grantee: the first element of cost base and reduced cost base for the CGT asset is what the grantee paid for the option (or to renew/extend it) plus any amount paid to exercise it. For the grantor: see CGT event D2 (granting the option) and CGT event A1 (disposal). The capital gain or loss the grantee makes from exercising the option is disregarded (s 134-1(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "134-1",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-options"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2001_539",
+     "title": "CGT: Options: effect of exercise"
+    },
+    {
+     "id": "AID_2001_540",
+     "title": "CGT: Options: effect of expiry"
+    },
+    {
+     "id": "AID_2004_6",
+     "title": "Employee share scheme: capital gains tax - cost base modification of share acquired from…"
+    }
+   ]
+  },
+  {
+   "id": "option-put",
+   "type": "action",
+   "label": "Put option exercised — grantor's cost base reduced by option payment received (Item 2)",
+   "body": "For the grantor: the first element of cost base and reduced cost base for the asset acquired is any amount paid to exercise the option, reduced by any payment received for the option (or to renew/extend it). For the grantee: the second element of cost base and reduced cost base for the asset includes any payment the grantee made to acquire the option.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "134-1",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "cgt-consequences-of-exercise-of-options"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2007_174",
+     "title": "Employee Share Options: taxing rights on gain from sale of shares by an Australian…"
+    },
+    {
+     "id": "AID_2009_110",
+     "title": "Self Managed Superannuation Funds: exchange traded options - tax treatment of premiums…"
+    },
+    {
+     "id": "AID_2009_68",
+     "title": "Capital Gains Tax: cost base modification of CGT asset acquired from exercise of put…"
+    }
+   ]
+  },
+  {
+   "id": "option-exceptions",
+   "type": "decision",
+   "label": "Does the option fall within an exception to Div 134?",
+   "body": "Division 134 does NOT apply (s 134-1(5)-(6)): (a) to rights or options to which Subdiv 130-B applies (rights acquired without payment from a company/trust); (b) to options over foreign currency (disposal or acquisition of foreign currency). In these cases, the relevant special rules apply instead: Subdiv 130-B for rights, or no CGT event for foreign currency options.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "134-1",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "foreign currency"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-cost-base-modified",
+   "type": "outcome",
+   "label": "Cost base modified per the applicable Division — CGT event gain/loss on exercise/conversion disregarded",
+   "body": "Each Division modifies the cost base/reduced cost base of the relevant asset and typically disregards any capital gain or loss that would otherwise arise from the exercise, conversion, or exchange. The modified cost base carries forward to the ultimate disposal of the asset.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "CGT position determined for the investment asset under Div 130/132/134 special rules",
+   "body": "The cost base modifications in Divisions 130, 132 and 134 integrate with the general CGT provisions of Part 3-1. Any gain/loss on a later disposal of the asset is calculated using the modified cost base. The interaction provisions include: Div 110 (cost base), Div 112 (modifications), Div 114 (indexation), Div 115 (discount), s 118-20 (gain reduction), Div 83A (ESS), and Div 124 roll-overs.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-asset-type",
+   "label": "Identify the type of investment asset"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "bonus-shares-units",
+   "label": "Bonus shares or units (Subdiv 130-A)"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "rights",
+   "label": "Rights to acquire shares/units/options (Subdiv 130-B)"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "convertible-interests",
+   "label": "Convertible interests (Subdiv 130-C)"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "ess-interests",
+   "label": "ESS interests (Subdiv 130-D)"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "exchangeable-interests",
+   "label": "Exchangeable interests (Subdiv 130-E)"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "exploration-investments",
+   "label": "Exploration investments (Subdiv 130-F)"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "leases",
+   "label": "Lease modifications (Div 132)"
+  },
+  {
+   "from": "dec-asset-type",
+   "to": "options-div134",
+   "label": "Options (Div 134)"
+  },
+  {
+   "from": "bonus-shares-units",
+   "to": "dec-bonus-dividend",
+   "label": "Determine if bonus is assessable"
+  },
+  {
+   "from": "dec-bonus-dividend",
+   "to": "bonus-dividend-path",
+   "label": "Yes — bonus is a dividend or assessable (s 130-20(2))"
+  },
+  {
+   "from": "dec-bonus-dividend",
+   "to": "bonus-non-dividend-path",
+   "label": "No — not a dividend or assessable (s 130-20(3))"
+  },
+  {
+   "from": "bonus-dividend-path",
+   "to": "bonus-public-trading-trust",
+   "label": "Exception: public trading trust (s 130-20(4))"
+  },
+  {
+   "from": "bonus-non-dividend-path",
+   "to": "bonus-public-trading-trust",
+   "label": "Exception: public trading trust (s 130-20(4))"
+  },
+  {
+   "from": "bonus-public-trading-trust",
+   "to": "outcome-cost-base-modified",
+   "label": "Cost base modified"
+  },
+  {
+   "from": "rights",
+   "to": "dec-rights-paid",
+   "label": "Check if rights were paid for"
+  },
+  {
+   "from": "dec-rights-paid",
+   "to": "dec-rights-issued-vs-acquired",
+   "label": "Subdiv 130-B applies — no payment or acquired from equity-holder"
+  },
+  {
+   "from": "dec-rights-paid",
+   "to": "options-div134",
+   "label": "Paid for rights — Div 134 applies instead (carve-out)"
+  },
+  {
+   "from": "dec-rights-issued-vs-acquired",
+   "to": "rights-exercise-issued",
+   "label": "Rights issued to you directly"
+  },
+  {
+   "from": "dec-rights-issued-vs-acquired",
+   "to": "rights-exercise-acquired",
+   "label": "Rights acquired from another entity"
+  },
+  {
+   "from": "rights-exercise-issued",
+   "to": "rights-timing",
+   "label": "Timing rules apply"
+  },
+  {
+   "from": "rights-exercise-acquired",
+   "to": "rights-timing",
+   "label": "Timing rules apply"
+  },
+  {
+   "from": "rights-timing",
+   "to": "rights-options-crossref",
+   "label": "Same rules apply to options (s 130-50)"
+  },
+  {
+   "from": "rights-options-crossref",
+   "to": "outcome-cost-base-modified",
+   "label": "Cost base modified"
+  },
+  {
+   "from": "convertible-interests",
+   "to": "dec-convertible-type",
+   "label": "Determine type of convertible interest"
+  },
+  {
+   "from": "dec-convertible-type",
+   "to": "convertible-action",
+   "label": "Cost base modified on conversion"
+  },
+  {
+   "from": "convertible-action",
+   "to": "outcome-cost-base-modified",
+   "label": "Cost base modified; conversion gain/loss disregarded"
+  },
+  {
+   "from": "ess-interests",
+   "to": "ess-disregard",
+   "label": "Disregard CGT gains/losses on ESS interests"
+  },
+  {
+   "from": "ess-disregard",
+   "to": "ess-general-acquisition",
+   "label": "General acquisition and market value rules turned off"
+  },
+  {
+   "from": "ess-general-acquisition",
+   "to": "ess-trusts",
+   "label": "Employee share trust treatment"
+  },
+  {
+   "from": "ess-trusts",
+   "to": "ess-shares-held",
+   "label": "Shares held by employee share trusts"
+  },
+  {
+   "from": "ess-shares-held",
+   "to": "ess-shares-rights",
+   "label": "Treatment of shares/rights in relation to ESS interests"
+  },
+  {
+   "from": "ess-shares-rights",
+   "to": "ess-div83a-crossref",
+   "label": "Cross-reference to Div 83A provisions"
+  },
+  {
+   "from": "ess-div83a-crossref",
+   "to": "outcome-cost-base-modified",
+   "label": "ESS CGT treatment determined"
+  },
+  {
+   "from": "exchangeable-interests",
+   "to": "exchangeable-disposal-redemption",
+   "label": "Disposal or redemption of exchangeable interest"
+  },
+  {
+   "from": "exchangeable-disposal-redemption",
+   "to": "outcome-cost-base-modified",
+   "label": "Cost base modified; exchange gain/loss disregarded"
+  },
+  {
+   "from": "exploration-investments",
+   "to": "outcome-cost-base-modified",
+   "label": "Reduced cost base reduced"
+  },
+  {
+   "from": "leases",
+   "to": "dec-lease-type",
+   "label": "Identify the lease event"
+  },
+  {
+   "from": "dec-lease-type",
+   "to": "lease-variation",
+   "label": "Lessee varies/waives term (s 132-1)"
+  },
+  {
+   "from": "dec-lease-type",
+   "to": "lease-improvements",
+   "label": "Lessor pays for improvements (s 132-5)"
+  },
+  {
+   "from": "dec-lease-type",
+   "to": "lease-long-term",
+   "label": "Long-term lease granted (s 132-10, CGT event F2)"
+  },
+  {
+   "from": "dec-lease-type",
+   "to": "lease-reversion",
+   "label": "Lessee acquires reversion (s 132-15)"
+  },
+  {
+   "from": "lease-variation",
+   "to": "outcome-cost-base-modified",
+   "label": "4th element of cost base increased"
+  },
+  {
+   "from": "lease-improvements",
+   "to": "outcome-cost-base-modified",
+   "label": "4th element of cost base increased"
+  },
+  {
+   "from": "lease-long-term",
+   "to": "outcome-cost-base-modified",
+   "label": "Cost base adjusted for future CGT events"
+  },
+  {
+   "from": "lease-reversion",
+   "to": "outcome-cost-base-modified",
+   "label": "Deemed acquisition of land at modified cost"
+  },
+  {
+   "from": "options-div134",
+   "to": "dec-option-type",
+   "label": "Call or put option?"
+  },
+  {
+   "from": "options-div134",
+   "to": "option-exceptions",
+   "label": "Check if Div 134 exceptions apply"
+  },
+  {
+   "from": "dec-option-type",
+   "to": "option-call",
+   "label": "Call option — grantor disposes"
+  },
+  {
+   "from": "dec-option-type",
+   "to": "option-put",
+   "label": "Put option — grantor acquires"
+  },
+  {
+   "from": "option-call",
+   "to": "outcome-cost-base-modified",
+   "label": "Cost base modified"
+  },
+  {
+   "from": "option-put",
+   "to": "outcome-cost-base-modified",
+   "label": "Cost base modified"
+  },
+  {
+   "from": "option-exceptions",
+   "to": "outcome-cost-base-modified",
+   "label": "Exception applies — other rules govern"
+  },
+  {
+   "from": "outcome-cost-base-modified",
+   "to": "end",
+   "label": ""
+  }
+ ],
+ "short": "CGT special rules",
+ "refs": "Divs 130-134",
+ "sort": 22
+}

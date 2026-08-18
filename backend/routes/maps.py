@@ -48,10 +48,12 @@ def list_maps() -> list[dict]:
                 "division": m.get("division", ""),
                 "subdivision": m.get("subdivision", ""),
                 "summary": m.get("summary", ""),
+                "sort": m.get("sort", 0),
                 "node_count": len(m.get("nodes", [])),
                 "edge_count": len(m.get("edges", [])),
             }
         )
+    out.sort(key=lambda m: (m["sort"] or 0, m["id"]))
     return out
 
 

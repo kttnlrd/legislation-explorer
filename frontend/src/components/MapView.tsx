@@ -11,6 +11,7 @@ interface MapNode {
   body: string
   statute?: { act: string; section: string; title?: string }[]
   commentary?: string[]
+  rulings?: { id: string; title?: string; note?: string }[]
   cases?: { citation: string; note?: string }[]
   definitions?: string[]
 }
@@ -250,6 +251,30 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
                     style={{ display: 'block', width: '100%', textAlign: 'left', padding: '7px 10px', marginBottom: 5, borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.bg, color: '#279e88', cursor: 'pointer', fontSize: 12.5 }}>
               <span style={{ fontWeight: 700 }}>{s.section}</span>
               {s.title ? <span style={{ color: COLORS.textMuted }}> — {s.title}</span> : null}
+            </button>
+          ))}
+        </div>
+      )}
+      {selected.commentary && selected.commentary.length > 0 && (
+        <div style={{ marginBottom: 12 }}>
+          <div style={{ fontSize: 10.5, fontWeight: 700, color: '#e67e22', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 6 }}>Commentary — CCH Master Tax Guide</div>
+          {selected.commentary.map((c, i) => (
+            <button key={i} onClick={() => onOpenSection('master-tax-guide', c)}
+                    style={{ display: 'block', width: '100%', textAlign: 'left', padding: '7px 10px', marginBottom: 5, borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.bg, color: '#e67e22', cursor: 'pointer', fontSize: 12.5 }}>
+              {c.replace(/-/g, ' ')}
+            </button>
+          ))}
+        </div>
+      )}
+      {selected.rulings && selected.rulings.length > 0 && (
+        <div style={{ marginBottom: 12 }}>
+          <div style={{ fontSize: 10.5, fontWeight: 700, color: '#c0392b', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 6 }}>ATO Rulings</div>
+          {selected.rulings.map((r, i) => (
+            <button key={i} onClick={() => onOpenSection('rulings', r.id)}
+                    style={{ display: 'block', width: '100%', textAlign: 'left', padding: '7px 10px', marginBottom: 5, borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.bg, color: '#c0392b', cursor: 'pointer', fontSize: 12.5 }}>
+              <span style={{ fontWeight: 700 }}>{r.id.replace(/_/g, ' ')}</span>
+              {r.title ? <span style={{ color: COLORS.textMuted }}> — {r.title}</span> : null}
+              {r.note ? <div style={{ color: COLORS.textMuted, fontSize: 11.5 }}>{r.note}</div> : null}
             </button>
           ))}
         </div>

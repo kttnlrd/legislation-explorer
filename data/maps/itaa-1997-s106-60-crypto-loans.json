@@ -1,0 +1,584 @@
+{
+ "id": "itaa-1997-s106-60-crypto-loans",
+ "title": "CGT treatment of Bitcoin and crypto loans — s 106-60",
+ "short": "Crypto loan CGT",
+ "refs": "ss 104-10, 106-60, 108-5 ITAA 1997",
+ "act": "itaa-1997",
+ "part": "3-1",
+ "division": "106",
+ "subdivision": "106-D",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Maps the CGT consequences of lending or pledging crypto assets (Bitcoin, other digital assets treated as CGT assets) across three structures: bailment (no change of ownership), title-transfer loans (CGT event A1 on each transfer), and security/collateral arrangements (vesting ignored under s 106-60; lender's acts attributed to the borrower only where done for the purpose of enforcing/maintaining the security — PR 2014/6 Equities First Holdings: own-account dealings NOT attributed, no CGT event for the borrower). Section coverage: ss 104-10, 106-60, 108-5, 116-20.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You lend Bitcoin or another crypto asset, or pledge it as collateral for a loan",
+   "body": "Crypto assets such as Bitcoin are property and therefore CGT assets under s 108-5 (s 108-5(1)(a)). The CGT consequences depend on whether the arrangement is a bailment (mere possession), a title-transfer loan, or a security/collateral arrangement. Australian currency is not a CGT asset (s 108-10), but Bitcoin and other cryptocurrencies are not Australian currency.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "108-5",
+     "title": "CGT assets"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2001_9",
+     "title": "see paragraphs 30-31 below; (c) may be allowable as a capital loss to a life assurance…"
+    },
+    {
+     "id": "TR_2004_18",
+     "title": ""
+    },
+    {
+     "id": "TR_2005_10",
+     "title": "Income tax: consolidation: retained cost base assets consisting of Australian currency or…"
+    }
+   ]
+  },
+  {
+   "id": "dec-structure",
+   "type": "decision",
+   "label": "Does the borrower take legal title (must return equivalent) or mere possession (ownership retained)?",
+   "body": "Three types of arrangement exist: (1) Bailment — the borrower has mere possession; legal title remains with the lender; the borrower must return the identical asset. (2) Title-transfer loan — the borrower takes legal title and must return an equivalent amount of the same crypto; ownership changes. (3) Security/collateral — the crypto asset is pledged or charged as security for a loan; the lender holds the asset as security.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "bailment",
+   "type": "action",
+   "label": "Bailment: no change of ownership — no CGT event A1 on delivery",
+   "body": "Under a bailment, legal ownership does not change. CGT event A1 (s 104-10(1)) requires a change of ownership (s 104-10(2)). Since the lender retains beneficial and legal ownership, no CGT event A1 happens on delivery of the crypto to the borrower. The borrower holds the asset as bailee.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "Disposal of a CGT asset: CGT event A1"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2000_1",
+     "title": "and, indeed, including Goss v. Lord Nugent itself - that the parties to an agreement may…"
+    },
+    {
+     "id": "TR_2002_14",
+     "title": "developing or acquiring a retirement village and putting that to profit by the recurrent…"
+    },
+    {
+     "id": "TR_2004_11",
+     "title": "Channel Pastoral 42A Appendix 2 - Detailed contents list 43"
+    }
+   ]
+  },
+  {
+   "id": "bailment-return",
+   "type": "action",
+   "label": "Bailment: return of identical asset — no CGT event",
+   "body": "When the borrower returns the identical crypto asset to the lender, there is again no change of ownership — the lender's ownership is merely restored. No CGT event arises. Neither party makes a capital gain or loss from the return.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "Disposal of a CGT asset: CGT event A1"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2005_23",
+     "title": "General company tax rate (at that time))) where: after tax gain is the after tax *LIC…"
+    },
+    {
+     "id": "TR_2005_6",
+     "title": "spending money in order to generate business in a market segment that the bank considered…"
+    },
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    }
+   ]
+  },
+  {
+   "id": "bailment-end",
+   "type": "end",
+   "label": "Bailment: no CGT consequences — ownership unchanged throughout",
+   "body": "Because the lender never loses beneficial ownership, no CGT event occurs at delivery or return. If the borrower fails to return the asset, CGT event A1 may occur at the time of breach (change of ownership) or CGT event C2 (the lender's right to the asset ends).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "Disposal of a CGT asset: CGT event A1"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2008_1",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TR_2010_4",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "PCG_2021_1",
+     "title": "Application of market value substitution rules when there is a buy-back or redemption of…"
+    }
+   ]
+  },
+  {
+   "id": "title-transfer-out",
+   "type": "action",
+   "label": "Title-transfer loan: CGT event A1 on delivery to borrower",
+   "body": "When the lender transfers legal title to the borrower (who must return equivalent, not identical, crypto), this is a disposal — CGT event A1 happens (s 104-10(1)). The lender makes a capital gain if the capital proceeds exceed the cost base, or a capital loss if proceeds are less than the reduced cost base (s 104-10(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "Disposal of a CGT asset: CGT event A1"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_52",
+     "title": "8982 Subject References: CGT asset CGT event CGT event A1 court order matrimonial…"
+    },
+    {
+     "id": "TD_1999_54",
+     "title": "namely the transfer of the CGT asset - is caused by the court order even if it is done…"
+    },
+    {
+     "id": "TD_1999_55",
+     "title": "8982 Subject References: asset CGT asset CGT event CGT event A1 court order de facto…"
+    }
+   ]
+  },
+  {
+   "id": "title-proceeds",
+   "type": "action",
+   "label": "Capital proceeds on delivery: market value of the loan benefit received",
+   "body": "The capital proceeds from CGT event A1 are the total of money received or entitled to be received, plus the market value of any other property received (s 116-20(1)). Where the lender receives a loan repayment obligation, the market value of the crypto at the time of transfer is the relevant capital proceeds under s 116-20(1)(b).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "116-20",
+     "title": "General rules about capital proceeds"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital proceeds",
+    "market value"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2014_26",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "GSTR_2009_2",
+     "title": ""
+    },
+    {
+     "id": "LCG_2018_9",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "borrower-acquires",
+   "type": "action",
+   "label": "Borrower acquires the crypto as a CGT asset at market value",
+   "body": "The borrower acquires the crypto as a CGT asset under s 108-5 (s 108-5(1)(a): any kind of property). The first element of the borrower's cost base is the market value of the crypto at the time of acquisition, being the amount the borrower is taken to have paid (s 110-25(2); the obligation to return equivalent crypto is consideration).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "108-5",
+     "title": "CGT assets"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "market value"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2005_15",
+     "title": "something with a significant commercial flavour - by means of a contract productive only…"
+    },
+    {
+     "id": "TR_2005_17",
+     "title": "subsection 705-35(3) goodwill 12. A tax cost setting amount is worked out for subsection…"
+    },
+    {
+     "id": "TR_2007_5",
+     "title": "when is an amount not in the 'applicable functional currency'? Please note that the PDF…"
+    }
+   ]
+  },
+  {
+   "id": "title-return",
+   "type": "action",
+   "label": "Repayment in kind: CGT event A1 when borrower returns equivalent crypto",
+   "body": "When the borrower returns equivalent crypto to the lender, this is a separate disposal by the borrower to the lender — CGT event A1 happens for the borrower (s 104-10(1)). The borrower's capital proceeds are the market value of the equivalent crypto at the time of return (s 116-20), and the borrower calculates gain or loss against their cost base.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "Disposal of a CGT asset: CGT event A1"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "116-20",
+     "title": "General rules about capital proceeds"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss",
+    "capital proceeds"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_79",
+     "title": "about cancellation, surrender and similar endings - in section 104-25) or a change of…"
+    },
+    {
+     "id": "TD_1999_82",
+     "title": "8982 Subject References: acquisition capital gains CGT asset CGT event CGT event A1 CGT…"
+    },
+    {
+     "id": "TD_2000_13",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "title-end",
+   "type": "end",
+   "label": "Title-transfer loan: CGT on each transfer — no roll-over available",
+   "body": "Each transfer of legal title triggers CGT event A1. The lender is taxed on the initial transfer (gain from cost base to market value) and the borrower is taxed on the return transfer. No roll-over relief applies — this is a standard disposal and re-acquisition. Interest or fee payments may be assessable under ordinary concepts (s 6-5).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-10",
+     "title": "Disposal of a CGT asset: CGT event A1"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2000_14",
+     "title": "but that period ends when you begin to treat dwelling B as your main residence in…"
+    },
+    {
+     "id": "TD_2000_31",
+     "title": "about disposals of CGT assets - in section 104-10 of the Income Tax Assessment Act 1997…"
+    },
+    {
+     "id": "TD_2004_13",
+     "title": "13 refers to Pasminco Limited. On 31 March 2005, the administrator of Pasminco Limited…"
+    }
+   ]
+  },
+  {
+   "id": "security-vesting",
+   "type": "action",
+   "label": "Security/collateral: vesting of CGT asset for security is ignored",
+   "body": "Under s 106-60(1)(a), the vesting of a CGT asset in an entity is ignored if the vesting is for the purpose of enforcing, giving effect to or maintaining a security, charge or encumbrance over the asset, and the security remains over the asset just after the vesting. This means no CGT event arises when the crypto is transferred to the lender as collateral.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "106-60",
+     "title": "Securities, charges and encumbrances"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "PR_2014_6",
+     "title": "Income tax: tax consequences for a Borrower under an Equities First Holdings loan"
+    }
+   ]
+  },
+  {
+   "id": "security-cessation",
+   "type": "action",
+   "label": "Return of collateral when security ceases: CGT asset treated as vesting back",
+   "body": "Under s 106-60(1)(b), when the security ceases and the asset returns to the borrower (the entity that provided the security), the asset is treated as vesting in that entity at that time. This mirrors the initial ignored vesting and ensures no CGT event arises on return of the collateral either.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "106-60",
+     "title": "Securities, charges and encumbrances"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "PR_2014_6",
+     "title": "Income tax: tax consequences for a Borrower under an Equities First Holdings loan"
+    }
+   ]
+  },
+  {
+   "id": "security-enforcement",
+   "type": "action",
+   "label": "Lender acts FOR the security purpose — acts attributed to borrower",
+   "body": "Under s 106-60(2), an act done by the lender (or its agent) in relation to the CGT asset is treated as done by the borrower only where the act is done FOR THE PURPOSE of enforcing, giving effect to or maintaining the security. The purpose requirement is critical: PR 2014/6 (Equities First Holdings loan) holds that a lender's sale and reacquisition of the secured shares during the security period was NOT done for that purpose (it was profit-making on the lender's own account) and therefore was NOT attributed to the borrower — no CGT event arose for the borrower (paras 43-45). Attribution applies only to enforcement acts: e.g. where the borrower defaults and the lender sells the asset under the security, any capital gain or loss is made by the borrower.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "106-60",
+     "title": "Securities, charges and encumbrances"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "PR_2014_6",
+     "title": "Income tax: tax consequences for a Borrower under an Equities First Holdings loan"
+    }
+   ]
+  },
+  {
+   "id": "security-end",
+   "type": "end",
+   "label": "Security/collateral: borrower owns throughout; lender acts attributed only if for the security purpose",
+   "body": "The borrower (who provided the crypto as security) is treated as the owner for CGT purposes throughout. Vesting in and out of the lender's name is ignored (s 106-60(1)). The lender's acts are attributed to the borrower ONLY where done for the purpose of enforcing, giving effect to or maintaining the security (s 106-60(2)). Where the lender deals with the collateral for its own account (e.g. contractual right to sell and rebuy during the security period), those acts are NOT attributed and no CGT event arises for the borrower (PR 2014/6 paras 43-45).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "106-60",
+     "title": "Securities, charges and encumbrances"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss",
+    "cgt asset"
+   ],
+   "rulings": [
+    {
+     "id": "PR_2014_6",
+     "title": "Income tax: tax consequences for a Borrower under an Equities First Holdings loan"
+    }
+   ]
+  },
+  {
+   "id": "no-rollover",
+   "type": "end",
+   "label": "No CGT consequences under this analysis",
+   "body": "If the crypto asset is not a CGT asset (unlikely for Bitcoin under current law) or the arrangement does not fall within any of the three categories, ordinary CGT principles apply based on actual change of ownership.",
+   "statute": [],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-lender-purpose",
+   "type": "decision",
+   "label": "Was the lender's dealing with the collateral for the purpose of enforcing/maintaining the security, or for the lender's own account?",
+   "body": "s 106-60(2) attributes the lender's acts to the borrower only when the act is done for the purpose of enforcing, giving effect to or maintaining the security. A contractual right for the lender to sell, buy and otherwise deal with the collateral for its own profit (e.g. Equities First Holdings loan, PR 2014/6 para 25, clause 7.2 of the Deed of Security) is NOT for the security purpose — those acts are the lender's own, with no CGT event for the borrower (paras 43-45).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "106-60",
+     "title": "Securities, charges and encumbrances"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PR_2014_6",
+     "title": "Income tax: tax consequences for a Borrower under an Equities First Holdings loan"
+    }
+   ]
+  },
+  {
+   "id": "security-lender-own-account",
+   "type": "outcome",
+   "label": "Lender deals for own account — NOT attributed to borrower; no CGT event for borrower",
+   "body": "Where the lender deals with the collateral for its own purposes (e.g. selling and reacquiring the secured asset to derive a profit), s 106-60(2) does not apply because the act is not done for the purpose of enforcing, giving effect to or maintaining the security (PR 2014/6 paras 43-45). No CGT event arises for the borrower. The lender's own dealings are taxed to the lender under ordinary CGT principles (the lender acquired the asset by the ignored vesting, which does not change the borrower's ownership for CGT purposes).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "106-60",
+     "title": "Securities, charges and encumbrances"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PR_2014_6",
+     "title": "Income tax: tax consequences for a Borrower under an Equities First Holdings loan"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-structure",
+   "label": "lend or pledge crypto"
+  },
+  {
+   "from": "dec-structure",
+   "to": "bailment",
+   "label": "bailment (possession only)"
+  },
+  {
+   "from": "dec-structure",
+   "to": "title-transfer-out",
+   "label": "title-transfer loan"
+  },
+  {
+   "from": "dec-structure",
+   "to": "security-vesting",
+   "label": "security/collateral"
+  },
+  {
+   "from": "dec-structure",
+   "to": "no-rollover",
+   "label": "none of the above"
+  },
+  {
+   "from": "bailment",
+   "to": "bailment-return",
+   "label": "identical asset returned"
+  },
+  {
+   "from": "bailment",
+   "to": "bailment-end",
+   "label": "asset lost or not returned"
+  },
+  {
+   "from": "bailment-return",
+   "to": "bailment-end",
+   "label": ""
+  },
+  {
+   "from": "title-transfer-out",
+   "to": "title-proceeds",
+   "label": ""
+  },
+  {
+   "from": "title-proceeds",
+   "to": "borrower-acquires",
+   "label": ""
+  },
+  {
+   "from": "borrower-acquires",
+   "to": "title-return",
+   "label": "equivalent crypto returned"
+  },
+  {
+   "from": "title-return",
+   "to": "title-end",
+   "label": ""
+  },
+  {
+   "from": "title-transfer-out",
+   "to": "title-end",
+   "label": "default — no return"
+  },
+  {
+   "from": "security-vesting",
+   "to": "dec-lender-purpose",
+   "label": "lender deals with collateral"
+  },
+  {
+   "from": "dec-lender-purpose",
+   "to": "security-enforcement",
+   "label": "enforcement/maintenance purpose (e.g. default sale)"
+  },
+  {
+   "from": "dec-lender-purpose",
+   "to": "security-lender-own-account",
+   "label": "lender's own account (contractual right to trade)"
+  },
+  {
+   "from": "security-vesting",
+   "to": "security-cessation",
+   "label": "security discharged — asset returned"
+  },
+  {
+   "from": "security-cessation",
+   "to": "security-end",
+   "label": ""
+  },
+  {
+   "from": "security-enforcement",
+   "to": "security-end",
+   "label": ""
+  },
+  {
+   "from": "security-lender-own-account",
+   "to": "security-end",
+   "label": ""
+  }
+ ],
+ "sort": 18
+}

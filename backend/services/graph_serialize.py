@@ -182,11 +182,37 @@ def _format_line(et: str, info: dict) -> str:
 
 
 def _fit_budget(entries: list[tuple[int, int, str]], max_tokens: int) -> str:
-    """entries: (is_level2, count, text). Drop lowest-priority lines to fit."""
+    """entries: (is_level2, count, text). Drop lowest-priority lines to fit.
+
+    The header (index 0) is never dropped, but its label is truncated when
+    it alone would dominate the budget — node labels can be full legislative
+    sentences (AML/CTF Rules headings up to 245 tokens), which otherwise
+    breaks the documented "hard cap".
+    """
     kept = list(entries)
+
+    # 1. Pre-truncate the header label so it can't eat the whole budget:
+    #    leave room for at least one content line (~25 tokens).
+    if kept and _tokens(kept[0][2]) > max_tokens - 25:
+        label = kept[0][2]
+        budget = max_tokens - 25
+        while _tokens(label) > budget:
+            label = label[: int(len(label) * 0.8)]
+        kept[0] = (kept[0][0], kept[0][1], label.rstrip() + "…")
+
+    # 2. Drop lowest-priority lines (header never dropped).
     while len(kept) > 1 and _tokens("\n".join(t for _, _, t in kept)) > max_tokens:
         idx = min(range(1, len(kept)), key=lambda i: (kept[i][0], kept[i][1]))
         kept.pop(idx)
+
+    # 3. Last resort: shrink the header further so the block fits on its own.
+    if _tokens("\n".join(t for _, _, t in kept)) > max_tokens:
+        label = kept[0][2]
+        budget = max_tokens - 5
+        while _tokens(label) > budget:
+            label = label[: int(len(label) * 0.8)]
+        kept[0] = (kept[0][0], kept[0][1], label.rstrip() + "…")
+
     return "\n".join(t for _, _, t in kept)
 
 

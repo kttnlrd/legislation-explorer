@@ -46,7 +46,7 @@ const LAYOUT_LABELS: Record<LayoutMode, string> = {
 }
 
 interface Props {
-  type: 'section' | 'ruling' | 'case'
+  type: 'section' | 'ruling' | 'case' | 'private-ruling'
   act?: string
   section?: string
   citation?: string

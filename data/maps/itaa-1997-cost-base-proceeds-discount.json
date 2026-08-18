@@ -30,7 +30,8 @@
     "cost base",
     "reduced cost base",
     "capital proceeds"
-   ]
+   ],
+   "rulings": []
   },
   {
    "id": "dec-gain-or-loss",
@@ -54,7 +55,21 @@
     "reduced-cost-base"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2000_1",
+     "title": "and, indeed, including Goss v. Lord Nugent itself - that the parties to an agreement may…"
+    },
+    {
+     "id": "TR_2001_9",
+     "title": "see paragraphs 30-31 below; (c) may be allowable as a capital loss to a life assurance…"
+    },
+    {
+     "id": "TR_2002_14",
+     "title": "developing or acquiring a retirement village and putting that to profit by the recurrent…"
+    }
+   ]
   },
   {
    "id": "action-costbase",
@@ -87,6 +102,20 @@
    "cases": [],
    "definitions": [
     "cost base"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2004_18",
+     "title": ""
+    },
+    {
+     "id": "TR_2005_23",
+     "title": "General company tax rate (at that time))) where: after tax gain is the after tax *LIC…"
+    },
+    {
+     "id": "TR_2005_6",
+     "title": "spending money in order to generate business in a market segment that the bank considered…"
+    }
    ]
   },
   {
@@ -103,7 +132,21 @@
    ],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    },
+    {
+     "id": "TR_2008_5",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TR_2010_4",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
   },
   {
    "id": "action-reduced",
@@ -119,7 +162,21 @@
    ],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2005_2",
+     "title": "inclusion of statutory income Please note that the PDF version is the authorised version…"
+    },
+    {
+     "id": "TR_2006_7",
+     "title": "the discretionary trust, the fixed trust and the self managed superannuation fund - have…"
+    },
+    {
+     "id": "TR_2019_2",
+     "title": "Income tax: whether penalty interest is deductible"
+    }
+   ]
   },
   {
    "id": "dec-indexation",
@@ -137,7 +194,17 @@
     "indexation-of-cost-base"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2002_1095",
+     "title": "Capital gains tax: incidental costs forming part of the cost base"
+    },
+    {
+     "id": "AID_2003_87",
+     "title": "Capital gains tax: indexed cost base-Telstra Corporation Limited (Telstra) shares"
+    }
+   ]
   },
   {
    "id": "action-index",
@@ -153,7 +220,8 @@
    ],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   },
   {
    "id": "dec-modifications",
@@ -191,6 +259,20 @@
    "cases": [],
    "definitions": [
     "market value substitution"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2011_6",
+     "title": "section 40-880 of the Income Tax Assessment Act 1997 core issues Please note that the PDF…"
+    },
+    {
+     "id": "TD_1999_82",
+     "title": "8982 Subject References: acquisition capital gains CGT asset CGT event CGT event A1 CGT…"
+    },
+    {
+     "id": "TD_2000_10",
+     "title": ""
+    }
    ]
   },
   {
@@ -207,7 +289,17 @@
    ],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2024_5",
+     "title": "Income tax: how the non-arm's length income and capital gains tax provisions interact to…"
+    },
+    {
+     "id": "LCG_2021_2",
+     "title": "Non-arm's length income - expenditure incurred under a non-arm's length arrangement"
+    }
+   ]
   },
   {
    "id": "dec-proceeds",
@@ -240,6 +332,20 @@
    "cases": [],
    "definitions": [
     "capital proceeds"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2021_1",
+     "title": "Application of market value substitution rules when there is a buy-back or redemption of…"
+    },
+    {
+     "id": "TD_1999_76",
+     "title": ""
+    },
+    {
+     "id": "TD_2001_26",
+     "title": "Integrity of Means Testing) Act 2000 . The amendments, which will affect social security…"
+    }
    ]
   },
   {
@@ -256,7 +362,21 @@
    ],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2004_35",
+     "title": ""
+    },
+    {
+     "id": "TD_2004_41",
+     "title": "capital gains tax cost base disposal market value substitution single entity rule…"
+    },
+    {
+     "id": "TD_2006_69",
+     "title": "TD 2006/69 [WITHDRAWN]"
+    }
+   ]
   },
   {
    "id": "dec-gain-loss-calc",
@@ -272,7 +392,21 @@
    ],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_1993_17",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TR_2014_7",
+     "title": "Income tax: foreign currency hedging transactions - applying the foreign income tax…"
+    },
+    {
+     "id": "TR_2018_7",
+     "title": "what this Ruling is about 1 Definitions 4 Previous ruling 6 Ruling 7"
+    }
+   ]
   },
   {
    "id": "dec-discount-eligible",
@@ -308,6 +442,20 @@
    "definitions": [
     "discount capital gain",
     "discount percentage"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2010_6",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2002_10",
+     "title": ""
+    },
+    {
+     "id": "TD_2008_22",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
    ]
   },
   {
@@ -331,7 +479,13 @@
     "discount-capital-gains"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2004_18",
+     "title": ""
+    }
+   ]
   },
   {
    "id": "outcome-gain",
@@ -341,7 +495,8 @@
    "statute": [],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   },
   {
    "id": "outcome-loss",
@@ -351,7 +506,8 @@
    "statute": [],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   },
   {
    "id": "end",
@@ -361,7 +517,8 @@
    "statute": [],
    "commentary": [],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   }
  ],
  "edges": [
@@ -482,5 +639,6 @@
   }
  ],
  "short": "Cost base & CGT discount",
- "refs": "Divs 110-116 · 115-A/B"
+ "refs": "Divs 110-116 · 115-A/B",
+ "sort": 21
 }

@@ -3,7 +3,7 @@ import { COLORS } from './common/types'
 
 type NavigateFn = (act: string, section: string, anchor?: string) => void
 type NavigateRulingFn = (citation: string) => void
-type RenderLinkFn = (href?: string, children?: React.ReactNode) => React.ReactNode | null
+export type RenderLinkFn = (href?: string, children?: React.ReactNode) => React.ReactNode | null
 
 export function createMarkdownComponents(
   isMobile: boolean,

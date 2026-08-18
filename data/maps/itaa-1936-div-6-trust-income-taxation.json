@@ -1,0 +1,1202 @@
+{
+ "id": "itaa-1936-div-6-trust-income-taxation",
+ "title": "Division 6 ITAA 1936 trust income taxation (ss 95-102) and Subdivision 115-C ITAA 1997 trusts' net capital gains (ss 115-210 to 115-230)",
+ "act": "itaa-1936",
+ "part": "III",
+ "division": "6",
+ "subdivision": "",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Division 6 of Part III ITAA 1936 (ss 95-102) is the primary code for taxing trust income in Australia. It works as follows: (1) compute the net income of the trust estate as if the trustee were a resident taxpayer (s 95). (2) If a beneficiary is presently entitled to a share of trust income and is not under a legal disability, the beneficiary is assessed on their share of net income (s 97). If the beneficiary is under a legal disability (minor) or a non-resident, the trustee is assessed on their behalf (s 98). (3) If no beneficiary is presently entitled, the trustee is assessed — either under s 99 (at individual rates, if the s 99A exceptions apply) or under s 99A (top marginal rate, with the estate/insolvency/deceased exceptions in s 99A(2) as boundary carve-outs). (4) Present entitlement is modified by s 95A (deemed present entitlement for vested/indefeasible interests), s 100A (reimbursement agreements that unwind present entitlement), s 101 (discretionary trust distributions), and s 102 (revocable trusts). The beneficiary's share of net income is defined in s 101 (proportion of 'income of the trust estate', not net income — the so-called 'proportionate approach' in s 95(1) 'Division 6 percentage'). Special rules: s 99B catches trust distributions not previously taxed (corpus etc.), ss 97A/98A/98B deal with farm management deposits and foreign beneficiaries. Capital gains overlays: Subdiv 115-C (ss 115-210 to 115-230) ITAA 1997 provides that where a trust has a net capital gain, the Div 6 rules are modified by Div 6E (ss 95AAA) to exclude the capital gain from the Div 6 net income calculation for beneficiary assessment. Instead, Subdiv 115-C streams the capital gain to beneficiaries (s 115-215: beneficiary treated as having made the capital gain — can apply losses/discount), with the trustee assessed on behalf (s 115-220 s 98 beneficiaries, s 115-222 for s 99/99A trustees). The key streaming rules: s 115-227 (share of capital gain = specific entitlement + residual share by adjusted Div 6 percentage), s 115-228 (specific entitlement formula based on financial benefit referable to the gain recorded within 2 months after year-end), s 115-230 (resident trustee choice to be specifically entitled where no distribution). The s 95AAA simplified outline explains the interaction: Div 6E removes capital gains from Div 6 assessable amounts; Subdiv 115-C taxes them as beneficiary capital gains instead. Interaction nodes: CGT events E1-E10 (Div 104-E ITAA 1997 for trust CGT events), Div 6AA (foreign trust rules), Div 855 (foreign residents), and Div 6E (capital gain/franking exclusion). Subsection coverage: Div 6: s 95(1)-(3), s 95A(1)-(2), s 96, s 97(1)-(3), s 98(1)-(4), s 99(1)-(5), s 99A(2)-(4C), s 99B(1)-(2A), s 100(1)-(3), s 100A(1)-(13), s 101, s 102(1)-(3) mapped to nodes. Div 6 ancillary: ss 95AAA, 95AB, 97A, 98A, 98B noted as interactions. Subdiv 115-C: s 115-200 (guide), s 115-210(1)-(2), s 115-215(1)-(5), s 115-220(1)-(3), s 115-222(1)-(5), s 115-225(1)-(3), s 115-227(a)-(b), s 115-228(1)-(3), s 115-230(1)-(5) mapped. Sections not in source data (not present in compiled compilation): 115-235 (non-assessable non-exempt), 115-240 (capital gain treated as income under trust deed), 115-245 (amounts taxed under Div 6), 115-250 (reduced cost base), 115-255 (disposal of interest), 115-260, 115-265, 115-270 — these do not exist in the compilation. Subdiv 115-D (ss 115-275 to 115-295 LIC capital gains) is separate and out of scope. Constant trusts (Div 6C) and Div 6AAA foreign trusts out of scope.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A trust estate derives income and/or capital gains during the income year",
+   "body": "Division 6 of Part III ITAA 1936 (ss 95-102) sets out the primary code for taxing trust income. The trust is not a separate taxable entity — instead, trust income is taxed to beneficiaries (on their share of net income) or to the trustee (where no beneficiary is presently entitled, or on behalf of certain beneficiaries). Where the trust has capital gains, Subdiv 115-C ITAA 1997 (ss 115-210 to 115-230) overlays the Div 6 rules via the Div 6E exclusion mechanism (s 95AAA): capital gains are removed from the Div 6 beneficiary assessment and instead streamed as capital gains to beneficiaries who can apply their own losses and the CGT discount.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "95",
+     "title": "Interpretation"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "95AAA",
+     "title": "Simplified outline of relationship between Div 6, Div 6E, Subdiv 115-C and Subdiv 207-B"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-200",
+     "title": "What this Division is about"
+    }
+   ],
+   "commentary": [
+    "taxation-of-trusts",
+    "net-income-of-a-trust"
+   ],
+   "cases": [],
+   "definitions": [
+    "trust estate",
+    "net income",
+    "present entitlement",
+    "Division 6 percentage"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1993_36",
+     "title": "See IT 2536. Previously released in draft form as TR 92/D32 References ATO references: NO…"
+    },
+    {
+     "id": "TR_1994_32",
+     "title": "which categories between them comprise the vast majority of the business debts - is…"
+    },
+    {
+     "id": "TR_1995_6",
+     "title": "see paragraphs 16 and 17). Transportation of the trees 10. Forest operations includes the…"
+    }
+   ]
+  },
+  {
+   "id": "action-net-income",
+   "type": "action",
+   "label": "Compute the net income of the trust estate (s 95)",
+   "body": "The net income of the trust estate is calculated under s 95(1) as if the trustee were a resident taxpayer: total assessable income less allowable deductions (except farm management deposits Div 393 ITAA 1997, and certain tax loss deductions for life tenants). This includes ordinary income, statutory income (including net capital gains under s 102-5), and is adjusted for special provisions (Div 266/267 Sch 2F, Div 275 ITAA 1997). The 'Division 6 percentage' splits net income: a beneficiary's D6% = their share of trust income to which presently entitled; trustee's D6% = the residue. 'Adjusted Division 6 percentage' disregards amounts of capital gains or franked distributions to which a beneficiary is specifically entitled (used in Subdiv 115-C). Resident trust status determined in s 95(2)-(3): trustee resident or central management/control in Australia.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "95",
+     "title": "Interpretation"
+    }
+   ],
+   "commentary": [
+    "net-income-of-a-trust",
+    "the-income-of-a-trust"
+   ],
+   "cases": [],
+   "definitions": [
+    "net income",
+    "Division 6 percentage",
+    "adjusted Division 6 percentage",
+    "resident trust estate"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1996_22",
+     "title": "deductions not allowable if an asset financed by non-recourse debt is used by a tax…"
+    },
+    {
+     "id": "TR_1996_23",
+     "title": "provided the guarantor's right of indemnity still exists at the time of the payment. The…"
+    },
+    {
+     "id": "TR_2003_2",
+     "title": "COA ) are to a large extent influenced by the nature and size of the cargo to be carried.…"
+    }
+   ]
+  },
+  {
+   "id": "action-trustee-default",
+   "type": "action",
+   "label": "Trustee is not liable unless the Act provides otherwise (s 96)",
+   "body": "Section 96 provides the default rule: except as provided in this Act, a trustee is not liable as trustee to pay income tax on the income of the trust estate. This means the trustee is only assessed where a specific provision imposes liability (ss 98, 99, 99A, 102 etc.). The liability falls on beneficiaries under s 97 wherever possible.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "96",
+     "title": "Trustees"
+    }
+   ],
+   "commentary": [
+    "trusts-and-trustees",
+    "personal-liability-of-trustee"
+   ],
+   "cases": [],
+   "definitions": [
+    "trustee"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1992_11",
+     "title": "3662 Related Rulings/Determinations: TR 98/16 TD 92/103"
+    },
+    {
+     "id": "TR_1996_14",
+     "title": "such amount as the Commissioner determines.' 77. So, for example, if a taxpayer lends…"
+    },
+    {
+     "id": "PS_LA_2011_1",
+     "title": "PS LA 2011/1 — INTRODUCTION 3 Australia's transfer pricing rules 3 Aim of the APA Program…"
+    }
+   ]
+  },
+  {
+   "id": "dec-present-entitlement",
+   "type": "decision",
+   "label": "Is any beneficiary presently entitled to a share of the income of the trust estate?",
+   "body": "Present entitlement is the central concept of Div 6. A beneficiary is 'presently entitled' if they have an immediate right to demand payment of trust income (s 95A(1) confirms this continues after payment/application). Under s 95A(2), a beneficiary with a vested and indefeasible interest in income — even if not yet entitled to demand payment — is deemed to be presently entitled. For discretionary trusts, s 101 deems a beneficiary in whose favour the trustee exercises discretion to be presently entitled to the amount paid/applied. The 'income of the trust estate' (trust law income, not taxable net income) determines the share. The s 100A reimbursement agreement anti-avoidance may unwind present entitlement (see node dec-100a). Section 97(2) excludes certain deemed entitlement situations (non-resident beneficiaries, trustee-beneficiaries).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "95A",
+     "title": "Special provisions relating to present entitlement"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "97",
+     "title": "Beneficiary not under any legal disability"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "101",
+     "title": "Discretionary trusts"
+    }
+   ],
+   "commentary": [
+    "distributions-of-trust-income",
+    "discretionary-trusts"
+   ],
+   "cases": [],
+   "definitions": [
+    "present entitlement",
+    "income of the trust estate"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1995_29",
+     "title": "applicability of averaging provisions to beneficiaries of trust estates carrying on a…"
+    },
+    {
+     "id": "TR_1997_20",
+     "title": "whether by a taxpayer, its advisers or the ATO - should be on identifying whether there…"
+    },
+    {
+     "id": "TR_2005_12",
+     "title": "unrealised profits 30. The trustee of a trust carries on a business of owning and…"
+    }
+   ]
+  },
+  {
+   "id": "dec-beneficiary-type",
+   "type": "decision",
+   "label": "What type of beneficiary is presently entitled?",
+   "body": "Div 6 distinguishes between: (A) resident beneficiaries not under a legal disability (assessed directly under s 97); (B) beneficiaries under a legal disability (minors, bankrupts, mental incapacity) — trustee assessed under s 98(1); (C) non-resident beneficiaries — trustee assessed under s 98(2A) or s 98(3); (D) non-resident trustee-beneficiaries of another trust — trustee assessed under s 98(4); (E) beneficiaries with farm management deposits (ss 97A, 98A, 98B special rules); and (F) beneficiaries caught by s 100A (reimbursement agreements — present entitlement unwound). The proportionate approach: the beneficiary's share of net income = their Div 6 percentage × net income, not their share of trust law income.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "97",
+     "title": ""
+    },
+    {
+     "act": "itaa-1936",
+     "section": "98",
+     "title": "Liability of trustee"
+    }
+   ],
+   "commentary": [
+    "distributions-of-trust-income"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2004_1",
+     "title": "cost contribution arrangements Please note that the PDF version is the authorised version…"
+    },
+    {
+     "id": "TR_2005_8",
+     "title": "the meaning of 'in discharge of governmental functions' 69. Having regard to the matters…"
+    },
+    {
+     "id": "TR_2010_8",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "action-s97-resident-beneficiary",
+   "type": "action",
+   "label": "Resident beneficiary assessed directly on share of net income (s 97)",
+   "body": "Under s 97(1), where a beneficiary not under a legal disability is presently entitled to a share of trust income: (a) the beneficiary's assessable income includes so much of that share of net income as is attributable to resident periods (Australian source for non-resident periods); (b) exempt income follows the same apportionment; (c) non-assessable non-exempt income likewise. Subject to Div 6D and Div 6E modifications (which exclude capital gains/franking from s 97 amounts — see Subdiv 115-C). Section 97(2) excludes certain deemed present entitlement situations. Section 97(3) exempts certain charitable/foreign organisations from s 97 assessment. The 'share of net income' = beneficiary's Div 6 percentage × net income of the trust estate. A beneficiary assessed under s 97 gets a tax offset for tax paid by the trustee under s 100(2).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "97",
+     "title": "Beneficiary not under any legal disability"
+    }
+   ],
+   "commentary": [
+    "distributions-of-trust-income",
+    "trust-income-of-minors"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PCG_2024_3",
+     "title": "ATO compliance approach There is a Compendium for this document: PCG 2024/3EC . Table of…"
+    },
+    {
+     "id": "TD_2022_11",
+     "title": "where there is an unpaid present entitlement 7 Circumstance two - where present…"
+    },
+    {
+     "id": "PS_LA_2009_7",
+     "title": "PS LA 2009/7 — consistent with the advice to unitholders in their annual distribution…"
+    }
+   ]
+  },
+  {
+   "id": "action-s98-trustee-minor",
+   "type": "action",
+   "label": "Trustee assessed on behalf of beneficiary under legal disability (s 98(1))",
+   "body": "Under s 98(1), where a beneficiary is under a legal disability (minor, bankrupt, person with mental incapacity) and is presently entitled to a share of trust income, the trustee is assessed and liable to pay tax on that share of net income 'as if it were the income of an individual and were not subject to any deduction'. The beneficiary is not separately assessed on that amount (s 100(1) may apply if they have other income). Special rules: s 97A modifies treatment for beneficiaries with farm management deposits (treats them as not under a legal disability).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "98",
+     "title": "Liability of trustee"
+    }
+   ],
+   "commentary": [
+    "tax-payable-on-income-from-trust-estate-to-minor"
+   ],
+   "cases": [],
+   "definitions": [
+    "legal disability"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2004_1",
+     "title": "cost contribution arrangements Please note that the PDF version is the authorised version…"
+    },
+    {
+     "id": "PCG_2024_3",
+     "title": "ATO compliance approach There is a Compendium for this document: PCG 2024/3EC . Table of…"
+    },
+    {
+     "id": "PS_LA_2009_7",
+     "title": "PS LA 2009/7 — consistent with the advice to unitholders in their annual distribution…"
+    }
+   ]
+  },
+  {
+   "id": "action-s98-trustee-nonresident",
+   "type": "action",
+   "label": "Trustee assessed on behalf of non-resident beneficiary (s 98(2A)/(3))",
+   "body": "Under s 98(2A)+(3): where a non-resident beneficiary is presently entitled to trust income (not under s 97(3) exempt organisations), and the trustee is not already assessed under s 98(1) or (2), the trustee is assessed on the beneficiary's Australian-source share of net income. For non-company beneficiaries, tax is at individual rates (s 98(3)(a)); for company beneficiaries, at the corporate rate declared by Parliament (s 98(3)(b)). Section 98(4): where a non-resident trustee-beneficiary of another trust is presently entitled, the trustee of the first trust is assessed on the Australian-source share. Note: Subdiv 115-C affects the trustee's assessment if net income includes a net capital gain (cross-reference in ss 98(3)-(4) notes).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "98",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "accumulating-income-of-non-resident-trusts"
+   ],
+   "cases": [],
+   "definitions": [
+    "non-resident"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2001_293",
+     "title": "Trust with Nil net income - refund of imputation credits"
+    },
+    {
+     "id": "AID_2001_300",
+     "title": "Non-resident beneficiary - Australian sourced trust income"
+    },
+    {
+     "id": "AID_2001_70",
+     "title": "Proceeds of Life Insurance Policy: Trust Income"
+    }
+   ]
+  },
+  {
+   "id": "action-s98a-s98b-foreign",
+   "type": "action",
+   "label": "Non-resident beneficiary may also be assessed with tax credit for trustee's payment (ss 98A, 98B)",
+   "body": "Section 98A: where the trustee is assessed under s 98(3), the non-resident beneficiary's assessable income ALSO includes their interest in net income (s 98A(1)), with a deduction/tax credit for tax paid by the trustee (s 98A(2)). Section 98A(3) catches chain trust structures (non-resident beneficiary of interposed trust). Section 98B: gives a deduction from beneficiary's tax for s 98(4) tax paid by the trustee of an upper-tier trust on the beneficiary's share, preventing double taxation.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "98A",
+     "title": "Non-resident beneficiaries assessable in respect of certain income"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "98B",
+     "title": "Deduction from beneficiary's tax"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2003_802",
+     "title": "Capital gains tax: CGT discount - discount capital gain distributed by corporate unit…"
+    },
+    {
+     "id": "AID_2003_853",
+     "title": "Annuity payments received under a will by a New Zealand resident"
+    },
+    {
+     "id": "AID_2007_60",
+     "title": "Capital Gains Tax: exemption for non-resident beneficiary of trust"
+    }
+   ]
+  },
+  {
+   "id": "dec-100a-reimbursement",
+   "type": "decision",
+   "label": "Is there a reimbursement agreement (s 100A) that unwinds present entitlement?",
+   "body": "Section 100A is a key anti-avoidance provision. Where a beneficiary not under a legal disability is presently entitled to trust income (s 100A(1)(a)), AND that entitlement arose out of or in connection with a 'reimbursement agreement' (s 100A(1)(b)), the beneficiary is deemed NEVER to have been presently entitled. The effect: the income is treated as trustee income (caught by s 99A without the s 99A(2) exceptions, per s 100A(4) — the s 99A(2)/(3)/(3A) carve-outs are read as omitted). A 'reimbursement agreement' is broadly defined (s 100A(7)) as any agreement (formal/informal, express/implied) providing for payment or property transfer to someone other than the beneficiary, but excluding ordinary family or commercial dealings (s 100A(13)). The purpose element (s 100A(8)-(9)): the agreement must have been entered into for a tax avoidance purpose. The tracing provisions (ss 100A(3A)-(3B)) help through interposed trusts. Under s 100A(4), if s 100A applies, s 99A is applied without its normal exceptions — the trustee is taxed at the top marginal rate. This is a MAJOR boundary assertion: what appears to be present entitlement (beneficiary taxed at marginal rates) may be recharacterised as trustee-level top-rate tax.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "reimbursement agreement",
+    "ordinary family or commercial dealing"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1993_32",
+     "title": "division of net income or loss between co-owners Please note that the PDF version is the…"
+    },
+    {
+     "id": "TR_1998_11",
+     "title": "and hence whether to refine the investigation by proceeding to the next stage, being a…"
+    },
+    {
+     "id": "TR_2007_13",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "action-s99a-default",
+   "type": "action",
+   "label": "No beneficiary presently entitled — trustee assessed under s 99A at top marginal rate (default rule)",
+   "body": "Under s 99A, where no beneficiary is presently entitled to any part of the net income, the trustee is assessed at the rate declared by Parliament (currently top marginal rate + Medicare Levy — effectively 47% for 2024-25). This is the default/default penalty rate for trustee income. The operative provisions (ss 99A(4)-(4C)) mirror the structure of s 99: (4) for resident trust with no beneficiary assessed, (4A) for resident trust with partial unassessed income, (4B) and (4C) for non-resident trusts on Australian-source income. Note: Subdiv 115-C ITAA 1997 affects the trustee's assessment if the trust has net capital gains (cross-reference note in s 99A(4)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "99A",
+     "title": "Certain trust income to be taxed at special rate"
+    }
+   ],
+   "commentary": [
+    "rates-of-tax-payable-by-trustees"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_2011_1",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "LCG_2016_1",
+     "title": "What is 'a place at or through which [a] person carries on any business' in the…"
+    }
+   ]
+  },
+  {
+   "id": "dec-s99a-exception",
+   "type": "decision",
+   "label": "Does a s 99A(2) exception apply (estate, insolvency, or Commissioner's discretion)?",
+   "body": "Section 99A does NOT apply if the trust estate fits one of the s 99A(2) categories AND the Commissioner considers it unreasonable for s 99A to apply. The exceptions: (a) deceased estates — resulting from a will/codicil/intestacy or court variation; (b) bankrupt estates — property vested in the Official Receiver/registered trustee under Bankruptcy Act 1966; (c) Part XI Bankruptcy Act administrations (deceased insolvent estates); (d) property within s 102AG(2)(c) (special disability trusts etc.). The Commissioner must consider the circumstances (s 99A(3)): how property was acquired, benefits conferred, whether the settlor also benefited other trust estates, and any other relevant matters. Where the exception applies, the fallback is s 99 (individual rates). BOUNDARY ASSERTION: The carve-out of s 99A(2) is the key boundary — if it applies, the trustee is taxed at progressive individual rates (s 99); if not, the default top rate (s 99A) applies. This is a critical planning point for trust estates without present entitlement.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "99A",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "rates-of-tax-payable-by-trustees"
+   ],
+   "cases": [],
+   "definitions": [
+    "deceased estate",
+    "bankrupt estate"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2002_1070",
+     "title": "Trust with Nil net income - refund of imputation credits."
+    },
+    {
+     "id": "AID_2002_1071",
+     "title": "Trust with Nil net income - refund of imputation credits."
+    },
+    {
+     "id": "AID_2002_1100",
+     "title": "Franking tax offset - refund to trustee"
+    }
+   ]
+  },
+  {
+   "id": "action-s99-trustee",
+   "type": "action",
+   "label": "Trustee assessed under s 99 at individual rates (fallback where s 99A does not apply)",
+   "body": "Section 99 applies where s 99A does NOT apply and there is trust net income for which no beneficiary is presently entitled. The trustee is assessed 'as if it were the income of an individual who was a resident and were not subject to any deduction' (s 99(2)-(5)). This means progressive marginal tax rates apply (not the top rate). The structure: (2) resident trust — no beneficiary assessed; (3) resident trust — partial unassessed; (4) non-resident trust — no beneficiary assessed and no foreign-source income; (5) non-resident trust — Australian source unassessed. Section 99(1) conditions: s 99 only applies if s 99A does not apply.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "99",
+     "title": "Certain trust income to be taxed as income of an individual"
+    }
+   ],
+   "commentary": [
+    "rates-of-tax-payable-by-trustees"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_1995_6",
+     "title": "see paragraphs 16 and 17). Transportation of the trees 10. Forest operations includes the…"
+    },
+    {
+     "id": "TR_1996_14",
+     "title": "such amount as the Commissioner determines.' 77. So, for example, if a taxpayer lends…"
+    },
+    {
+     "id": "TR_2010_8",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "action-s99b",
+   "type": "action",
+   "label": "Beneficiary assessed on accumulated trust distributions not previously taxed (s 99B)",
+   "body": "Section 99B catches trust property (including corpus distributions) paid to or applied for a resident beneficiary that has not previously been subject to Australian tax. Under s 99B(1), such amounts are included in the beneficiary's assessable income. However, s 99B(2) provides significant exclusions: amounts representing (a) corpus (except to the extent attributable to amounts that would have been assessable if derived by a resident); (b) non-assessable non-exempt amounts if derived by a resident; (ba) non-assessable non-exempt under s 802-17 ITAA 1997; (c) amounts already taxed under s 97, 98, 99, or 99A; (d)-(e) amounts included in assessable income under s 102AAZD (foreign trust attribution). Section 99B(2A): amounts excluded by (d) or (e) are neither assessable nor exempt income.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "99B",
+     "title": "Receipt of trust income not previously subject to tax"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "corpus"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2004_66",
+     "title": "Assessability of payment of accumulated foreign-source income of a non resident trust to…"
+    },
+    {
+     "id": "AID_2004_691",
+     "title": "Assessability of lump sum payment received by resident beneficiary of a non-resident…"
+    },
+    {
+     "id": "AID_2008_155",
+     "title": "Operation of section 99B: trust income included in the assessable income of the…"
+    }
+   ]
+  },
+  {
+   "id": "action-s100-credit",
+   "type": "action",
+   "label": "Beneficiary's s 100 credit for tax paid by trustee",
+   "body": "Section 100 provides the crediting mechanism where both the trustee and the beneficiary are assessed on the same trust income. Under s 100(1), where a beneficiary under a legal disability (or deemed presently entitled under s 95A(2)) is a beneficiary of multiple trusts or has other income, their share of net income is included in their assessable income. Section 100(2) then gives a deduction from the beneficiary's tax for the tax paid/payable by the trustee on that share. Section 100(1AA): if Subdiv 115-C or 207-B ITAA 1997 includes amounts in the beneficiary's assessable income, treat the beneficiary as deriving income from another source. Section 100(3): prevents double crediting with s 98B. This ensures the total tax on trust income is at the beneficiary's marginal rate, not exceeding the sum of both assessments.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100",
+     "title": "Beneficiary assessable in respect of certain trust income"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2007_16",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "TD_2007_20",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    }
+   ]
+  },
+  {
+   "id": "action-s102-revocable",
+   "type": "action",
+   "label": "Revocable trust or trust for minors — trustee assessed under s 102",
+   "body": "Section 102 is an anti-avoidance provision for revocable trusts and trusts for minors created by the settlor. Under s 102(1), if the settlor has the power to revoke or alter the trust to acquire a beneficial interest in income/property, OR if income is payable/accumulated/applicable for the settlor's under-18 children, the Commissioner may assess the trustee. The tax is the amount by which the settlor's actual tax is less than what it would have been had they received that trust income directly (s 102(2)). Section 102(3): where s 102 applies, no beneficiary or trustee (under other provisions) is assessed on that income. Modifications for foreign source income in s 102(2B).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "102",
+     "title": "Revocable trusts"
+    }
+   ],
+   "commentary": [
+    "revocable-trusts-and-trusts-for-minors"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TR_1995_24",
+     "title": "the relevant principles 14 Nature of the liability for fringe benefits tax 20 A contrary…"
+    }
+   ]
+  },
+  {
+   "id": "event-capital-gains",
+   "type": "event",
+   "label": "Trust estate has a net capital gain — Subdiv 115-C ITAA 1997 applies",
+   "body": "Where a trust estate has a net capital gain that is taken into account in computing its net income (s 95), Subdiv 115-C ITAA 1997 (ss 115-210 to 115-230) provides the mechanism for streaming the capital gain to beneficiaries. Section 115-210(1): the Subdivision applies if the trust has a net capital gain that factors into its s 95 net income. Section 115-210(2): complying superannuation entities that are trusts are treated as beneficiaries, not trust estates, for this purpose. The purpose (s 115-200): the beneficiary is treated as having made the capital gain themselves, so they can apply their own capital losses and the discount percentage, rather than having the gain taxed as ordinary income under Div 6. Division 6E ITAA 1936 (s 95AAA) excludes the capital gain amount from the s 97/98/99/99A calculations to prevent double taxation.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-200",
+     "title": "What this Division is about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-210",
+     "title": "When this Subdivision applies"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "95AAA",
+     "title": "Simplified outline of relationship"
+    }
+   ],
+   "commentary": [
+    "net-capital-gains-of-trusts",
+    "net-capital-gain-assessable"
+   ],
+   "cases": [],
+   "definitions": [
+    "net capital gain",
+    "net income"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2005_23",
+     "title": "General company tax rate (at that time))) where: after tax gain is the after tax *LIC…"
+    },
+    {
+     "id": "TD_2017_24",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "PS_LA_2010_1",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "action-s115-225-attributable-gain",
+   "type": "action",
+   "label": "Work out the attributable gain for each capital gain (s 115-225)",
+   "body": "Section 115-225(1): the 'amount mentioned' is the product of: (a) the capital gain remaining after steps 1-4 of the s 102-5 method statement (i.e. after applying capital losses); and (b) the entity's share of the capital gain (from s 115-227) divided by the total capital gain. Section 115-225(2)-(3): if the net income of the trust (disregarding franking credits) is less than the sum of the net capital gain plus franked distributions, the amount in (a) is scaled down by the ratio of net income to that sum. This is the 'proportional reduction' rule — it prevents capital gains from being streamed beyond the trust's net income.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-225",
+     "title": "Attributable gain"
+    }
+   ],
+   "commentary": [
+    "net-capital-gains-of-trusts"
+   ],
+   "cases": [],
+   "definitions": [
+    "attributable gain",
+    "net capital gain"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2012_22",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "action-s115-227-share",
+   "type": "action",
+   "label": "Determine each entity's share of the capital gain (s 115-227)",
+   "body": "Section 115-227 is the core streaming rule. An entity's share of a capital gain = (a) the amount to which the entity is specifically entitled; PLUS (b) if any residual gain remains (no beneficiary or trustee specifically entitled to it), that residual amount × the entity's adjusted Division 6 percentage. 'Specifically entitled' is defined in s 115-228: a beneficiary is specifically entitled to an amount = capital gain × (share of net financial benefit ÷ net financial benefit), where the share of the financial benefit referable to the gain must be recorded in the trust's accounts or records no later than 2 months after the income year. The 'adjusted Division 6 percentage' (defined in s 95(1)) is the entity's Div 6% calculated disregarding amounts of capital gains or franked distributions to which anyone is specifically entitled. This formula ensures capital gains can be 'streamed' to specific beneficiaries who receive the economic benefit of those gains.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-227",
+     "title": "Share of a capital gain"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "115-228",
+     "title": "Specifically entitled to an amount of a capital gain"
+    }
+   ],
+   "commentary": [
+    "net-capital-gains-of-trusts"
+   ],
+   "cases": [],
+   "definitions": [
+    "specifically entitled",
+    "adjusted Division 6 percentage",
+    "share of a capital gain"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2022_4",
+     "title": ""
+    },
+    {
+     "id": "TD_2012_11",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TD_2022_12",
+     "title": "non-fixed trusts 5 Example 2 - fixed trusts 10"
+    }
+   ]
+  },
+  {
+   "id": "decision-s115-230-trustee-choice",
+   "type": "decision",
+   "label": "Has the resident trustee made a choice under s 115-230 to be specifically entitled to the capital gain?",
+   "body": "Section 115-230 allows a resident trustee to elect to be specifically entitled to a capital gain where trust property representing the gain has NOT been paid to or applied for a beneficiary within 2 months after the income year. Conditions: (a) the gain is in the trust's net capital gain; (b) trust property representing all or part of it has not been paid/applied for a beneficiary by 2 months after year-end. Choice must be made by 2 months after year-end (or later if Commissioner allows). Consequences (s 115-230(4)): (a) ss 115-215 and 115-220 do not apply to this gain; (b) the trustee is taken to be specifically entitled to all of the capital gain. This means the trustee is assessed on the capital gain (via s 115-222 for s 99/99A, or s 115-220 for s 98), preserving the CGT character.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-230",
+     "title": "Choice for resident trustee to be specifically entitled to capital gain"
+    }
+   ],
+   "commentary": [
+    "net-capital-gains-of-trusts"
+   ],
+   "cases": [],
+   "definitions": [
+    "resident trust estate"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    }
+   ]
+  },
+  {
+   "id": "action-s115-215-beneficiary",
+   "type": "action",
+   "label": "Beneficiary assessed on capital gain as if they made it (s 115-215)",
+   "body": "Section 115-215(1)-(3): if you are a beneficiary of the trust, for each capital gain of the trust, Div 102 applies to you as if you had a capital gain equal to: (a) the amount from s 115-225(1) (if the gain was not discounted/reduced); (b) twice that amount (if reduced by the discount or small business 50% but not both); (c) four times that amount (if reduced by both). This 'gross-up' then allows you to apply your own capital losses and then the discount. Section 115-215(4): if the trust gain was a discount capital gain, Div 102 applies to you as if your capital gain were a discount capital gain (if you are eligible); if reduced by Subdiv 152-C, the remaining gain is reduced by 50%. Note: this does NOT affect the Div 6 assessment (s 115-215(3) note), but Div 6E excludes the gain from the Div 6 amount. Section 115-215(5): s 118-20 (prevention of double taxing) does NOT reduce the gain treated under this section.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-215",
+     "title": "Assessing presently entitled beneficiaries"
+    }
+   ],
+   "commentary": [
+    "net-capital-gains-of-trusts",
+    "discount-capital-gains",
+    "net-capital-gain-assessable"
+   ],
+   "cases": [],
+   "definitions": [
+    "discount capital gain",
+    "discount percentage"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2022_2",
+     "title": "Section 100A reimbursement agreements - ATO compliance approach"
+    },
+    {
+     "id": "TD_2006_71",
+     "title": "Explanation This Appendix is provided as information to help you understand how the…"
+    },
+    {
+     "id": "TD_2017_23",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "action-s115-220-trustee-s98",
+   "type": "action",
+   "label": "Trustee assessed on capital gain on behalf of beneficiary (s 115-220 for s 98 cases)",
+   "body": "Section 115-220 applies where the trustee would be assessed under s 98 (beneficiary under legal disability or non-resident). Under s 115-220(2), the assessable amount under s 98 is increased by: (a) the amount from s 115-225(1) (standard); or (b) if the s 98 liability is under s 98(3)(b) or s 98(4) and the gain was a discount capital gain — twice that amount. Section 115-220(3): the increase applies even if the s 98 assessable amount is nil. This ensures the CGT character is preserved in the trustee's assessment: the trustee pays tax at the beneficiary's notional rate but on the capital gain amount (which may be grossed up for the discount concession).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-220",
+     "title": "Assessing trustees under section 98 of the ITAA 1936"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2022_13",
+     "title": "Explanation 12 Extra capital gains: section 115-215 12 Foreign-resident beneficiary…"
+    }
+   ]
+  },
+  {
+   "id": "action-s115-222-trustee-s99-99a",
+   "type": "action",
+   "label": "Trustee assessed on capital gain under s 99 or 99A (s 115-222)",
+   "body": "Section 115-222 deals with trustee assessments under s 99 or 99A. Section 115-222(1)-(2): if s 99A does NOT apply (so s 99 does), the assessable amount under s 99 is increased by the amount from s 115-225(1). Section 115-222(3)-(4): if s 99A applies (default top rate), the assessable amount under s 99A is increased by: (a) the s 115-225(1) amount (if no discount/SBG reduction); (b) twice that (if discount or SBG but not both); (c) four times that (if both discount and SBG). Section 115-222(5): the increase applies even if the assessable amount is nil. This means when the trustee is assessed on capital gains (no beneficiary presently entitled), the CGT discount is preserved through the gross-up mechanism.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "115-222",
+     "title": "Assessing trustees under section 99 or 99A of the ITAA 1936"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "TD_2017_23",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TD_2022_12",
+     "title": "non-fixed trusts 5 Example 2 - fixed trusts 10"
+    }
+   ]
+  },
+  {
+   "id": "interaction-cgt-events",
+   "type": "outcome",
+   "label": "Interaction: CGT events E1-E10 (trust-specific CGT events under Div 104-E)",
+   "body": "CGT events E1-E10 (Div 104-E ITAA 1997) are the trust-specific CGT events: E1 (creating a trust over a CGT asset), E2 (transferring a CGT asset to a trust), E3 (converting a trust to a unit trust), E4 (capital payment for trust interest), E5 (beneficiary becoming entitled to a trust asset), E6 (disposal to beneficiary to end income right), E7 (disposal by beneficiary of capital interest), E8 (disposal by beneficiary of income right), E9 (creating a trust over future property), E10 (CGT event for fixed trusts — annual assessment for certain unit trusts). These interact with Div 6 because the CGT event may increase the trust's net income (s 95 includes net capital gains), triggering the Subdiv 115-C streaming rules. See the Div 102/104 map for detail on each event.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-5",
+     "title": "Summary of the CGT events"
+    }
+   ],
+   "commentary": [
+    "overview-of-the-capital-gains-tax-provisions"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2008_1",
+     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
+    },
+    {
+     "id": "LCG_2016_8",
+     "title": "retirement-phase interest aligned to the $1.6m cap 24A Example 2: CGT relief and the…"
+    }
+   ]
+  },
+  {
+   "id": "interaction-div6aa",
+   "type": "outcome",
+   "label": "Interaction: Division 6AA ITAA 1936 — higher rates for minors' unearned income",
+   "body": "Division 6AA of Part III ITAA 1936 (ss 102AA-102AK) imposes higher tax rates on the unearned income of minors (under 18) — the 'minors' tax' (often called the 'Kiddie Tax' or 'Penalty Rates'). Trust income of a minor beneficiary assessed under s 97 or taxed via the trustee under s 98(1) may be subject to Div 6AA rates, which apply higher tax rates (66% for excepted income, 45% for other unearned income) above certain thresholds. Exceptions exist for earned income, deceased estate income, and certain disability pensions. This is an important interaction: even if the trust rules correctly stream income to a minor beneficiary, Div 6AA may increase the effective tax rate on that income beyond normal marginal rates.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "102AA",
+     "title": "Interpretation"
+    }
+   ],
+   "commentary": [
+    "trust-income-of-minors"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2004_263",
+     "title": "Trust income: beneficial interest in trust property held for certain children -…"
+    },
+    {
+     "id": "AID_2004_264",
+     "title": "Trust income: beneficial interest in trust property held for children - applied income"
+    }
+   ]
+  },
+  {
+   "id": "interaction-div855",
+   "type": "outcome",
+   "label": "Interaction: Division 855 ITAA 1997 — foreign residents and trust interests",
+   "body": "Division 855 ITAA 1997 deals with CGT for foreign residents. Section 855-40 specifically addresses capital gains and losses of foreign residents through fixed trusts: a gain on a foreign resident's interest in a fixed trust is disregarded if the underlying asset would not have been TAP (taxable Australian property) had they held it directly. This interacts with the trust streaming rules of Subdiv 115-C: a foreign resident beneficiary's share of a net capital gain under s 115-215 may be disregarded under Div 855 if the trust's assets are not TAP. See the Div 855 map for complete detail.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "855-40",
+     "title": "Capital gains and losses of foreign residents through fixed trusts"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "taxable Australian property",
+    "fixed trust"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2016_16",
+     "title": "Compliance approach 23 Discretion to treat interest as a fixed entitlement in subsection…"
+    },
+    {
+     "id": "PS_LA_2002_11",
+     "title": "PS LA 2002/11 — individuals with trust gains Section 116-35 Capital proceeds - market…"
+    }
+   ]
+  },
+  {
+   "id": "interaction-div6e",
+   "type": "action",
+   "label": "Interaction: Division 6E ITAA 1936 — exclusion of capital gains and franked distributions from Div 6 amounts",
+   "body": "Division 6E of Part III ITAA 1936 (ss 95AAA introductory outline) modifies the operation of Div 6 for the purpose of excluding amounts relevant to capital gains, franked distributions and franking credits from the calculations of assessable amounts under ss 97, 98, 99, 99A and 100. Section 95AAA explains: 'if the trust estate has capital gains, franked distributions or franking credits, this basic treatment is modified as described below. Division 6E modifies the operation of this Division for the purpose of excluding amounts relevant to capital gains, franked distributions and franking credits from the calculations of assessable amounts under sections 97, 98, 99, 99A and 100.' Division 6E does NOT modify other provisions (s 100A continues to apply), and does NOT modify amounts taxed under Subdiv 115-C or 207-B. This is the critical link: without Div 6E, the capital gain would be included in both the Div 6 net income share AND the Subdiv 115-C capital gain — double taxation. Div 6E prevents this.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "95AAA",
+     "title": "Simplified outline of relationship"
+    }
+   ],
+   "commentary": [
+    "net-capital-gain-and-franked-dividends-special-rules"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "interaction-s95ab-special-disability",
+   "type": "outcome",
+   "label": "Special disability trust modifications (s 95AB)",
+   "body": "Section 95AB provides special rules for special disability trusts (SDTs): the principal beneficiary is treated as presently entitled to all trust income (s 95AB(2)), and if resident, as under a legal disability (s 95AB(3)). If there is no income, s 95AB(4) deems income and present entitlement. The trustee is assessed under s 98(1) but the principal beneficiary gets a refundable tax offset under s 100(2) (ss 95AB(5)). The $757,000 cap on SDT assets applies via other provisions.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "95AB",
+     "title": "Modifications for special disability trusts"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "special disability trust",
+    "principal beneficiary"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "end-div6",
+   "type": "end",
+   "label": "Trust income taxation — trustee and beneficiary positions finalised",
+   "body": "After applying Div 6 and Subdiv 115-C: beneficiaries are assessed on their share of net income (ordinary income) under s 97 and on their streamed capital gains under s 115-215; the trustee is assessed on behalf of certain beneficiaries (s 98) and/or on any residual income (ss 99/99A) and corresponding capital gains (s 115-222). The s 100 crediting mechanism prevents double taxation. Trust distributions to beneficiaries may be caught by s 99B if not previously taxed. The s 100A anti-avoidance rule and s 102 revocable trust rules may override the usual analysis. The interaction with Div 6AA (minors' rates), Div 855 (foreign residents), Div 6E (capital gain exclusion), and CGT events E1-E10 should also be considered.",
+   "statute": [],
+   "commentary": [
+    "taxation-of-trusts"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "action-net-income",
+   "label": "Trust derives income/capital gains — compute net income s 95"
+  },
+  {
+   "from": "action-net-income",
+   "to": "action-trustee-default",
+   "label": "Trustee not liable unless Act provides (s 96)"
+  },
+  {
+   "from": "action-trustee-default",
+   "to": "dec-present-entitlement",
+   "label": "Check present entitlement"
+  },
+  {
+   "from": "dec-present-entitlement",
+   "to": "dec-beneficiary-type",
+   "label": "Yes — some beneficiary is presently entitled"
+  },
+  {
+   "from": "dec-present-entitlement",
+   "to": "dec-100a-reimbursement",
+   "label": "Yes — but check if s 100A unwinds it"
+  },
+  {
+   "from": "dec-100a-reimbursement",
+   "to": "dec-beneficiary-type",
+   "label": "No reimbursement agreement — normal present entitlement"
+  },
+  {
+   "from": "dec-100a-reimbursement",
+   "to": "action-s99a-default",
+   "label": "Yes — s 100A applies: s 99A without exceptions (s 100A(4))"
+  },
+  {
+   "from": "dec-present-entitlement",
+   "to": "dec-s99a-exception",
+   "label": "No — no beneficiary presently entitled: check s 99A exceptions"
+  },
+  {
+   "from": "dec-beneficiary-type",
+   "to": "action-s97-resident-beneficiary",
+   "label": "Resident beneficiary not under legal disability — s 97"
+  },
+  {
+   "from": "dec-beneficiary-type",
+   "to": "action-s98-trustee-minor",
+   "label": "Beneficiary under legal disability — trustee assessed s 98(1)"
+  },
+  {
+   "from": "dec-beneficiary-type",
+   "to": "action-s98-trustee-nonresident",
+   "label": "Non-resident beneficiary — trustee assessed s 98(2A)/(3)/(4)"
+  },
+  {
+   "from": "dec-beneficiary-type",
+   "to": "action-s98a-s98b-foreign",
+   "label": "Non-resident beneficiary with trustee-assessed income — ss 98A/98B credit"
+  },
+  {
+   "from": "dec-beneficiary-type",
+   "to": "action-s102-revocable",
+   "label": "Revocable trust or trust for settlor's children — s 102"
+  },
+  {
+   "from": "dec-s99a-exception",
+   "to": "action-s99-trustee",
+   "label": "Yes — exception applies: s 99 at individual rates"
+  },
+  {
+   "from": "dec-s99a-exception",
+   "to": "action-s99a-default",
+   "label": "No — no exception: s 99A top marginal rate"
+  },
+  {
+   "from": "action-s99-trustee",
+   "to": "action-s99b",
+   "label": "Check if s 99B applies to past distributions"
+  },
+  {
+   "from": "action-s99a-default",
+   "to": "action-s99b",
+   "label": "Check if s 99B applies to past distributions"
+  },
+  {
+   "from": "action-s97-resident-beneficiary",
+   "to": "action-s100-credit",
+   "label": "Beneficiary may need s 100 credit if trustee also assessed"
+  },
+  {
+   "from": "action-s98-trustee-minor",
+   "to": "action-s100-credit",
+   "label": "Beneficiary may get s 100 credit for trustee tax paid"
+  },
+  {
+   "from": "action-s98-trustee-nonresident",
+   "to": "action-s98a-s98b-foreign",
+   "label": "Non-resident beneficiary gets credit ss 98A/98B"
+  },
+  {
+   "from": "action-s98a-s98b-foreign",
+   "to": "action-s100-credit",
+   "label": "May also interact with s 100 credit mechanism"
+  },
+  {
+   "from": "action-s99b",
+   "to": "event-capital-gains",
+   "label": "Now apply capital gains overlay if applicable"
+  },
+  {
+   "from": "action-s97-resident-beneficiary",
+   "to": "event-capital-gains",
+   "label": "Check if trust has net capital gain — Subdiv 115-C overlays"
+  },
+  {
+   "from": "action-s98-trustee-minor",
+   "to": "event-capital-gains",
+   "label": "Check capital gain streaming for s 98 beneficiaries"
+  },
+  {
+   "from": "action-s98-trustee-nonresident",
+   "to": "event-capital-gains",
+   "label": "Check capital gain streaming for non-resident beneficiaries"
+  },
+  {
+   "from": "action-s99-trustee",
+   "to": "event-capital-gains",
+   "label": "Check capital gain assessment for trustee s 99"
+  },
+  {
+   "from": "action-s99a-default",
+   "to": "event-capital-gains",
+   "label": "Check capital gain assessment for trustee s 99A"
+  },
+  {
+   "from": "action-s102-revocable",
+   "to": "event-capital-gains",
+   "label": "Check capital gain streaming for revocable trusts"
+  },
+  {
+   "from": "action-s100-credit",
+   "to": "event-capital-gains",
+   "label": "Check capital gain overlay"
+  },
+  {
+   "from": "event-capital-gains",
+   "to": "action-s115-225-attributable-gain",
+   "label": "Apply Subdiv 115-C — compute attributable gain per capital gain"
+  },
+  {
+   "from": "action-s115-225-attributable-gain",
+   "to": "action-s115-227-share",
+   "label": "Determine share of each capital gain (specific entitlement + residual)"
+  },
+  {
+   "from": "action-s115-227-share",
+   "to": "decision-s115-230-trustee-choice",
+   "label": "Check if resident trustee made s 115-230 choice"
+  },
+  {
+   "from": "decision-s115-230-trustee-choice",
+   "to": "action-s115-215-beneficiary",
+   "label": "No choice — beneficiary assessed on capital gain (s 115-215)"
+  },
+  {
+   "from": "decision-s115-230-trustee-choice",
+   "to": "action-s115-220-trustee-s98",
+   "label": "No choice — trustee assessed for s 98 beneficiaries (s 115-220)"
+  },
+  {
+   "from": "decision-s115-230-trustee-choice",
+   "to": "action-s115-222-trustee-s99-99a",
+   "label": "Trustee assessed on residual capital gain (s 115-222 for s 99/99A)"
+  },
+  {
+   "from": "decision-s115-230-trustee-choice",
+   "to": "action-s115-222-trustee-s99-99a",
+   "label": "Yes — choice made: trustee is specifically entitled, assessed under s 115-222"
+  },
+  {
+   "from": "action-s115-215-beneficiary",
+   "to": "interaction-div6e",
+   "label": "Div 6E excludes capital gain from Div 6 to prevent double taxation"
+  },
+  {
+   "from": "action-s115-220-trustee-s98",
+   "to": "interaction-div6e",
+   "label": "Div 6E exclusion applies"
+  },
+  {
+   "from": "action-s115-222-trustee-s99-99a",
+   "to": "interaction-div6e",
+   "label": "Div 6E exclusion applies"
+  },
+  {
+   "from": "interaction-div6e",
+   "to": "interaction-cgt-events",
+   "label": "Consider CGT event interactions"
+  },
+  {
+   "from": "interaction-div6e",
+   "to": "interaction-div6aa",
+   "label": "Consider Div 6AA minors' rates for beneficiary gains"
+  },
+  {
+   "from": "interaction-div6e",
+   "to": "interaction-div855",
+   "label": "Consider Div 855 for foreign resident beneficiaries"
+  },
+  {
+   "from": "interaction-div6e",
+   "to": "interaction-s95ab-special-disability",
+   "label": "Consider special disability trust modifications"
+  },
+  {
+   "from": "interaction-cgt-events",
+   "to": "end-div6",
+   "label": "Trust CGT events considered"
+  },
+  {
+   "from": "interaction-div6aa",
+   "to": "end-div6",
+   "label": "Minors' rates considered"
+  },
+  {
+   "from": "interaction-div855",
+   "to": "end-div6",
+   "label": "Foreign resident rules considered"
+  },
+  {
+   "from": "interaction-s95ab-special-disability",
+   "to": "end-div6",
+   "label": "Special disability trust rules applied"
+  },
+  {
+   "from": "action-s97-resident-beneficiary",
+   "to": "end-div6",
+   "label": "Beneficiary assessed — end of Div 6 flow"
+  },
+  {
+   "from": "action-s98-trustee-minor",
+   "to": "end-div6",
+   "label": "Trustee assessed for minor — end of Div 6 flow"
+  },
+  {
+   "from": "action-s98-trustee-nonresident",
+   "to": "end-div6",
+   "label": "Trustee assessed for non-resident — end of Div 6 flow"
+  },
+  {
+   "from": "action-s99-trustee",
+   "to": "end-div6",
+   "label": "Trustee assessed under s 99 — end of Div 6 flow"
+  },
+  {
+   "from": "action-s99a-default",
+   "to": "end-div6",
+   "label": "Trustee assessed under s 99A — end of Div 6 flow"
+  },
+  {
+   "from": "action-s102-revocable",
+   "to": "end-div6",
+   "label": "Trustee assessed under s 102 — end of Div 6 flow"
+  },
+  {
+   "from": "action-s99b",
+   "to": "end-div6",
+   "label": "s 99B amount included in beneficiary's assessable income"
+  }
+ ],
+ "short": "Trust income taxation",
+ "refs": "Div 6 · Subdiv 115-C",
+ "sort": 10
+}

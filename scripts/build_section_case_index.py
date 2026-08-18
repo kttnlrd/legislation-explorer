@@ -30,6 +30,8 @@ ACT_SECTIONS = {
     'gst-1999': load_section_ids('gst-1999'),
     'itaa-1936': load_section_ids('itaa-1936'),
     'taa-1953': load_section_ids('taa-1953'),
+    'fbt-1986': load_section_ids('fbt-1986'),
+    'sis-1993': load_section_ids('sis-1993'),
 }
 
 BASE_RE = r'([0-9]+\s*-\s*[0-9]+(?:\s*-\s*[0-9]+)?|[A-Z]*[0-9]+[A-Z]*|[0-9]+)'
@@ -66,6 +68,8 @@ ACT_PATTERNS = [
     (r'Income Tax Assessment Act\s+1936|ITAA\s*1936|Assessment Act\s+1936', 'itaa-1936'),
     (r'Goods and Services Tax Act\s+1999|A New Tax System \(Goods and Services Tax\) Act\s+1999|GST Act', 'gst-1999'),
     (r'Taxation Administration Act\s+1953|TAA\s*1953', 'taa-1953'),
+    (r'Fringe Benefits Tax Assessment Act|FBT\s*Act|FBTAA', 'fbt-1986'),
+    (r'Superannuation Industry \(Supervision\) Act|SIS\s*Act', 'sis-1993'),
     (r'Luxury Car Tax Act\s+1999|LCT Act', 'gst-1999'),
 ]
 

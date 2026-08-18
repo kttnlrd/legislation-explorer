@@ -18,10 +18,12 @@ from .admin import router as admin_router
 from .data_versions import router as data_versions_router
 
 from .graph import router as graph_router
+from .private_rulings import router as private_rulings_router
 from .issues import router as issues_router
 from .insolvency import router as insolvency_router
 from .regulatory_guides import router as regulatory_guides_router
 from .treaties import router as treaties_router
+from .workflows import router as workflows_router
 
 router = APIRouter()
 router.include_router(acts_router)
@@ -36,15 +38,55 @@ router.include_router(user_prefs_router)
 router.include_router(admin_router)
 router.include_router(data_versions_router)
 router.include_router(graph_router)
+router.include_router(private_rulings_router)
 router.include_router(issues_router)
 router.include_router(insolvency_router)
 router.include_router(regulatory_guides_router)
 router.include_router(treaties_router)
+router.include_router(workflows_router)
 
 
-VERSION = "2.8.1"
+VERSION = "3.0"
 
 CHANGELOG = [
+    {
+        "version": "3.0",
+        "date": "2026-08-18",
+        "title": "Search page v2, Shareable URLs, Private Rulings Browser",
+        "changes": [
+            "New features:",
+            "|– Dedicated /search page with advanced filters: match operator (AND/OR), date range, sort mode, per-source checkboxes",
+            "|– Shareable search URLs: query in ?q=, restored on direct load and back/forward",
+            "|– Private rulings browser: year-driven sidebar with counts, year click drives ruling list",
+            "",
+            "Bugs fixed:",
+            "|– Empty search page on direct load: ?q= never restored/executed — query now hydrates and auto-searches on mount",
+            "|– Version drift: 2.8.2 was in changelog without a VERSION bump (API reported 2.8.1)",
+            "",
+            "Verified:",
+            "|– 40/40 REST endpoints, 24/24 MCP tools e2e, 345 pytest tests pass, 2 skipped",
+        ],
+    },
+    {
+        "version": "2.8.2",
+        "date": "2026-08-18",
+        "title": "Graph search context, LLM serialization, Entity resolution backstop",
+        "changes": [
+            "New features:",
+            "|– Graph search field: results carry neighbourhood block via materialised neighborhood_index (133k rows, <50ms)",
+            "|– LLM serialization endpoint: /api/graph/serialize?key=&depth= token-lean 80/400 blocks",
+            "|– Path queries: /api/graph/path bidirectional BFS, typed hops, hop cap 10",
+            "|– Entity resolution backstop: DeepSeek batch mapping for 26,990 unparsed legislation refs across private rulings",
+            "|– Case citation crosswalk: 34 neutral HCA citations → reporter-format graph keys",
+            "|– Alias map wired into runtime: /api/search probes query + results, surfaces resolved keys",
+            "",
+            "Bugs fixed:",
+            "|– G4 phantom keys: mapped case refs now verified against graph.db (75 keys, 107 refs)",
+            "|– DeepSeek batch truncation: max_tokens raised 2000 → 8000",
+            "|– Background interpreter mismatch: batch client rewritten on stdlib urllib",
+            "|– GraphModal private ruling colour: #e84393",
+        ],
+    },
     {
         "version": "2.8.1",
         "date": "2026-08-15",

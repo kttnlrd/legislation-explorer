@@ -1,0 +1,82 @@
+# Tax Losses Workflow — v0.1 (draft)
+# Decision map for tax losses (Div 36 ITAA 1997) and company loss
+# recoupment (Div 165): loss calculation, continuity of ownership test
+# (COT), same business test (SBT), and deduction ordering.
+# Anchors verified against local itaa-1997 corpus.
+
+id: tax-losses
+name: Tax Losses
+area: income-tax
+version: 0.1
+entry: [has_loss]
+
+nodes:
+
+  has_loss:
+    question: "Is there a tax loss for the income year? (s 36-10 — deductions exceed assessable income, excluding the loss year's own deductions)"
+    fetch: ["itaa-1997:36-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "no tax loss (net income or nil)"
+        then: stop_no_loss
+      - if: "tax loss exists"
+        then: entity_type
+
+  stop_no_loss:
+    question: "No tax loss — Div 36 does not apply."
+    terminal: true
+
+  entity_type:
+    question: "What entity incurred the loss? — individual, company, trust, partnership, or super fund?"
+    fetch: ["itaa-1997:36-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "individual, trust, partnership or super fund"
+        then: deduction_order
+      - if: "company"
+        then: cot
+
+  cot:
+    question: "Company loss recoupment: does the company satisfy the continuity of ownership test (COT)? (s 165-12 — same persons hold >50% of voting power, dividend rights and capital distribution rights throughout the test period; s 165-123 for listed companies)"
+    fetch: ["itaa-1997:165-12", "itaa-1997:165-123"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "COT satisfied (same owners >50% throughout)"
+        then: deduction_order
+      - if: "COT failed — ownership changed"
+        then: sbt
+
+  sbt:
+    question: "Same business test (SBT): did the company carry on the same business throughout the test period? (s 165-13, s 165-210 — same business, not just similar; no new business; assets used for same purpose)"
+    fetch: ["itaa-1997:165-13", "itaa-1997:165-210"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "SBT satisfied — loss deductible"
+        then: deduction_order
+      - if: "SBT failed — loss is not deductible"
+        then: stop_lost
+
+  stop_lost:
+    question: "Company failed COT and SBT — the tax loss cannot be deducted (check special rules: Div 165 ss 165-35, 165-70 for some deductions; insolvency exceptions)."
+    terminal: true
+
+  deduction_order:
+    question: "How is the loss deducted? (s 36-17 — companies deduct losses before other deductions; individuals/trusts deduct losses after other deductions; ordering matters for the loss year calculation)"
+    fetch: ["itaa-1997:36-17"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "company — loss deducted before other deductions"
+        then: stop_done
+      - if: "individual/trust — loss deducted after other deductions"
+        then: stop_done
+
+  stop_done:
+    question: "Tax loss analysis complete — present the loss amount, recoupment tests, and deduction ordering with authorities."
+    terminal: true
+
+rules:
+  - "COT (s 165-12/165-123) is the primary test for companies; SBT (s 165-13/165-210) is the fallback — both must be assessed."
+  - "SBT is strict: same business, no new transactions, assets used for the same purpose — 'similar' is not enough."
+  - "Deduction ordering (s 36-17) differs for companies vs individuals/trusts — get it right."
+  - "Loss years and test periods must be identified precisely — errors here lose the deduction entirely."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."

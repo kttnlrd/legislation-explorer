@@ -21,6 +21,43 @@ def _natural_key(s: str):
     """Natural sort key: '2' < '10', '83A' after '83'."""
     return [int(t) if t.isdigit() else t for t in re.split(r'(\d+)', s)]
 
+
+_ROMAN_VALUES = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+
+
+def _roman_numeral_value(s: str) -> int:
+    """Convert a Roman numeral to an integer (I, II, IIIB, IVA, ...)."""
+    total = 0
+    prev = 0
+    for ch in reversed(s):
+        v = _ROMAN_VALUES.get(ch, 0)
+        if v == 0:
+            continue
+        if v < prev:
+            total -= v
+        else:
+            total += v
+        prev = v
+    return total
+
+
+def _part_sort_key(part_id: str):
+    """Part ordering: Roman-numeral body parts first (in Act order), then schedules.
+
+    ITAA 1936 body parts are Roman numerals (I, II, III, IV, IVA, ...) and the
+    schedules (2D, 2F, 2H) sit AFTER them in the Act. A plain natural sort puts
+    '2D' before 'I' because digits sort before letters — wrong.
+    """
+    m = re.match(r'^([IVXLCDM]+)([A-Z]*)$', part_id)
+    if m:
+        base = _roman_numeral_value(m.group(1))
+        suffix = m.group(2)
+        # Lettered sub-parts (IVA, VIIB) sort after their base part.
+        if suffix:
+            base += sum(_ROMAN_VALUES.get(c, 0) for c in suffix) / 100.0
+        return (0, base)
+    return (1, 0, _natural_key(part_id))
+
 RE_SCHEDULE = re.compile(r"^Schedule\s+([0-9]+[A-Z]*)\s*[—–\-]?\s*(.*)$")
 RE_PART = re.compile(r"^Part\s+([IVX]+)\s*[—–\-]?\s*(.+)$")
 RE_DIVISION = re.compile(r"^Division\s+(\d+[A-Z]*)\s*[—–\-]?\s*(.+)$")
@@ -700,8 +737,8 @@ def main() -> None:
         else:
             logging.info("%s already in tree.json, skipping", node["id"])
 
-    # Sort all parts and their contents
-    tree["parts"].sort(key=lambda p: _natural_key(p["id"])) # Sort parts (which now include schedules)
+    # Sort all parts and their contents (body parts before schedules)
+    tree["parts"].sort(key=lambda p: _part_sort_key(p["id"]))
     for part in tree["parts"]:
         if "divisions" in part:
             part["divisions"].sort(key=lambda d: _natural_key(d["id"]))

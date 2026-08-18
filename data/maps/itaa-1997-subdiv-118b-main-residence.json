@@ -1,0 +1,1579 @@
+{
+ "id": "itaa-1997-subdiv-118b-main-residence",
+ "title": "Subdivision 118-B — main residence CGT exemption",
+ "act": "itaa-1997",
+ "part": "3-1",
+ "division": "118",
+ "subdivision": "118-B",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "A capital gain or loss from a CGT event happening to a dwelling (or ownership interest in it) is disregarded if the dwelling was your main residence throughout your ownership period (s 118-110). The exemption is modified by rules that extend it (moving in, changing residences, absences up to 6 years, building/renovating, destruction and replacement) and rules that limit it (partial exemption for periods of non-main-residence use under s 118-185, income-producing use under s 118-190, first use to produce income under s 118-192, and the foreign-resident boundary). Deceased estates have their own exemption (s 118-195) and partial exemption (s 118-200) with adjustments for multiple inheritances (s 118-205). Trustee provisions (s 118-210), special disability trusts (ss 118-215 to 118-230), and spouse-transfer interactions (ss 118-178, 118-180 via Subdiv 126-A roll-over) are also mapped. The foreign-resident boundary at s 118-110(3)-(5): 'excluded foreign resident' (>6 years continuous foreign residency) or foreign resident failing the 'life events test' cannot claim the exemption. Covers ss 118-105 to 118-265. Subsection coverage: operative 118-105, 118-110(1)-(5), 118-115(1)-(2), 118-120(1)-(6), 118-125, 118-130(1)-(3), 118-135, 118-140(1)-(2), 118-145(1)-(4), 118-147(1)-(7), 118-150(1)-(6), 118-155(1)-(5), 118-160(1)-(3), 118-165, 118-170(1)-(4), 118-175, 118-178(1)-(2), 118-180(1)-(2), 118-185(1)-(3), 118-190(1)-(4), 118-192(1)-(3), 118-195(1)-(2), 118-197, 118-200(1)-(4), 118-205(1)-(4), 118-210(1)-(6), 118-220, 118-222, 118-225(1)-(5), 118-227(1)-(3), 118-230, 118-240, 118-245(1)-(3), 118-250(1)-(4), 118-255, 118-260(1)-(2), 118-265 mapped; 118-137, 118-149, 118-198, 118-211, 118-212 (not present in compilation 263); 118-215 (guide only).",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A CGT event happens to your dwelling (or ownership interest in it)",
+   "body": "Subdivision 118-B provides an exemption from CGT for a dwelling that was your main residence (s 118-105). The exemption disregards the capital gain or loss. Only specified CGT events qualify: A1, B1, C1, C2, E1, E2, F2, K3, K4, K6 (and forfeited deposits in an uninterrupted transaction sequence leading to one of these) — s 118-110(2).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-105",
+     "title": "Map of this Subdivision"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": "CGT events covered"
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "dwelling",
+    "ownership interest",
+    "CGT event",
+    "CGT asset"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    },
+    {
+     "id": "TD_2000_13",
+     "title": ""
+    },
+    {
+     "id": "TD_2000_14",
+     "title": "but that period ends when you begin to treat dwelling B as your main residence in…"
+    }
+   ]
+  },
+  {
+   "id": "dec-cgt-event-type",
+   "type": "decision",
+   "label": "Is the CGT event one that qualifies for the main residence exemption?",
+   "body": "Only CGT events A1, B1, C1, C2, E1, E2, F2, K3, K4 and K6 qualify (s 118-110(2)(a)). Also qualify: a CGT event involving forfeiting a deposit as part of an uninterrupted sequence ending in one of those events (s 118-110(2)(b)). CGT events not listed are outside the scope of this Subdivision.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2018_15",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "dec-individual",
+   "type": "decision",
+   "label": "Are you an individual?",
+   "body": "The main residence exemption only applies to individuals (s 118-110(1)(a)). Companies, trusts (outside the trustee-of-deceased-estate context) and superannuation funds cannot claim it. Trustees of deceased estates have separate rules (ss 118-195, 118-200, 118-210).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2021_FCAFC_99"
+    }
+   ],
+   "definitions": [
+    "individual"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2006_14",
+     "title": "1 and 3 - 3 of the Income Tax Assessment Act 1997 . [4] Meagher, RP and Gummow, WMC,…"
+    },
+    {
+     "id": "TD_2000_13",
+     "title": ""
+    },
+    {
+     "id": "TD_2000_14",
+     "title": "but that period ends when you begin to treat dwelling B as your main residence in…"
+    }
+   ]
+  },
+  {
+   "id": "dec-dwelling-defn",
+   "type": "decision",
+   "label": "Is the CGT asset a dwelling (including adjacent land/structures)?",
+   "body": "'Dwelling' includes a building or unit of accommodation consisting wholly or mainly of residential accommodation, a caravan, houseboat or other mobile home, and any land immediately under it (s 118-115(1)). Adjacent land used primarily for private/domestic purposes in association with the dwelling is treated as part of the dwelling, up to a maximum of 2 hectares less the area under the dwelling (s 118-120(1)-(3)). Adjacent structures (garage, storeroom) associated with a flat or home unit are also included (s 118-120(5)-(6)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-115",
+     "title": "Meaning of dwelling"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-120",
+     "title": "Extension to adjacent land etc."
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "dwelling",
+    "adjacent land",
+    "adjacent structure"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2001_14",
+     "title": "non-commercial business losses Please note that the PDF version is the authorised…"
+    },
+    {
+     "id": "TD_1999_67",
+     "title": "see the diagram below. He has selected the shaded area as the part of the land on which…"
+    },
+    {
+     "id": "TD_1999_68",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "dec-ownership-period",
+   "type": "decision",
+   "label": "Do you have an ownership interest in the dwelling?",
+   "body": "You have an ownership interest if you have a legal or equitable interest in the land, a right to occupy it, a licence, a stratum unit interest in a flat/home unit, or a share in a company that owns the land and gives you a right to occupy (s 118-130(1)). For contract acquisitions, the interest runs from legal ownership or an earlier contractual right to occupy (s 118-130(2)). The ownership period (s 118-125) is the period on or after 20 September 1985 when you had the interest.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-125",
+     "title": "Meaning of ownership period"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-130",
+     "title": "Meaning of ownership interest in land or a dwelling"
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "ownership interest",
+    "ownership period"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2002_14",
+     "title": "developing or acquiring a retirement village and putting that to profit by the recurrent…"
+    },
+    {
+     "id": "LCG_2018_9",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "dec-foreign-resident-boundary",
+   "type": "decision",
+   "label": "Are you a foreign resident at the time of the CGT event?",
+   "body": "The main residence exemption (basic case under s 118-110) does NOT apply if at the time of the CGT event you are an 'excluded foreign resident' (s 118-110(3)(a)) or a foreign resident who does not satisfy the 'life events test' (s 118-110(3)(b)). An 'excluded foreign resident' means you have been a foreign resident for a continuous period of more than 6 years (s 118-110(4)). The life events test is satisfied if you have been a foreign resident for 6 years or less AND: (i) you or your spouse had a terminal medical condition; (ii) your child under 18 had a terminal medical condition; (iii) your spouse or child died; or (iv) the CGT event arises from a marriage breakdown roll-over (s 126-5(1)) — s 118-110(5). This is the KEY BOUNDARY: foreign residents with >6 years abroad, or <6 years without a life event, cannot claim the exemption for a dwelling acquired after the relevant transitional date (9 May 2017). The partial exemption rules (s 118-185(3)) also bar excluded foreign residents and those failing the life events test.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": "Foreign resident exclusion"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": "Meaning of excluded foreign resident"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": "Life events test"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-185",
+     "title": "Partial exemption — foreign resident exclusion"
+    }
+   ],
+   "commentary": [
+    "rules-limiting-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2026_ARTA_872"
+    },
+    {
+     "citation": "2009_AATA_41"
+    }
+   ],
+   "definitions": [
+    "excluded foreign resident",
+    "foreign resident",
+    "life events test",
+    "terminal medical condition"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2018_15",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "LCG_2018_9",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "action-fr-no-exemption",
+   "type": "outcome",
+   "label": "No exemption — foreign resident blocked (s 118-110(3)-(5))",
+   "body": "If you are an excluded foreign resident (>6 years continuous foreign residency) or a foreign resident who does not satisfy the life events test, the main residence exemption under s 118-110 does not apply. The partial exemption under s 118-185 is also blocked (s 118-185(3)). The dwelling is treated as if it were not your main residence for CGT purposes. The capital gain from the CGT event is assessable under the normal CGT rules. The foreign resident may still consider Div 855 (foreign resident CGT) — see the Div 855 map — and the s 855-10 disregard if the dwelling is not taxable Australian property.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-185",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "855-10",
+     "title": "Disregarding a capital gain or loss from CGT events"
+    }
+   ],
+   "commentary": [
+    "rules-limiting-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2026_ARTA_872"
+    }
+   ],
+   "definitions": [
+    "excluded foreign resident",
+    "foreign resident"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2017_4",
+     "title": "Income tax: taxation of rights and retail premiums under renounceable rights offers where…"
+    },
+    {
+     "id": "TD_2009_18",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    },
+    {
+     "id": "TD_2010_21",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "dec-main-residence-throughout",
+   "type": "decision",
+   "label": "Was the dwelling your main residence throughout your ownership period?",
+   "body": "For the full exemption to apply under the basic case (s 118-110(1)(b)), the dwelling must have been your main residence for the entire ownership period. If it was your main residence only for part of the period, you may still get a partial exemption under s 118-185. The extension rules (ss 118-135 to 118-160) may treat the dwelling as having been your main residence for periods when it technically was not — including moving-in grace periods, absences up to 6 years, building/renovating time, and changing-residence overlap periods.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-185",
+     "title": "Partial exemption where dwelling was your main residence during part only of ownership period"
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2009_AATA_41"
+    },
+    {
+     "citation": "2008_AATA_1168"
+    }
+   ],
+   "definitions": [
+    "main residence",
+    "ownership period"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2001_611",
+     "title": "Deductibility of expenses associated with disposal of main residence"
+    },
+    {
+     "id": "AID_2001_744",
+     "title": "Income tax: Capital gains tax: moving into a dwelling"
+    },
+    {
+     "id": "AID_2002_1039",
+     "title": "Capital gains tax: main residence - dependent children having different main residence"
+    }
+   ]
+  },
+  {
+   "id": "dec-deceased-estate-source",
+   "type": "decision",
+   "label": "Did your interest pass to you as a beneficiary (or trustee) of a deceased estate?",
+   "body": "If you acquired the dwelling as a beneficiary of a deceased estate (or as trustee), the deceased estate rules apply (ss 118-195 to 118-210) instead of the basic case. Special rules for the surviving joint tenant (s 118-197) treat the interest as having passed from a deceased estate. The deceased estate rules may apply even if the dwelling was not your main residence.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-195",
+     "title": "Dwelling acquired from a deceased estate"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-197",
+     "title": "Special rule for surviving joint tenant"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_1168"
+    },
+    {
+     "citation": "2001_AATA_405"
+    }
+   ],
+   "definitions": [
+    "deceased estate",
+    "beneficiary",
+    "trustee",
+    "joint tenant"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2019_5",
+     "title": "Capital gains tax and deceased estates - the Commissioner's discretion to extend the…"
+    },
+    {
+     "id": "TD_1999_70",
+     "title": ""
+    },
+    {
+     "id": "TD_2024_9",
+     "title": "see subsection 995-1(1) of the ITAA 1997. [4] The cost base for the purposes of the…"
+    }
+   ]
+  },
+  {
+   "id": "branch-extending-rules",
+   "type": "event",
+   "label": "Consider rules that may extend the exemption (ss 118-135 to 118-160)",
+   "body": "Even if the dwelling was not physically your main residence throughout the ownership period, the following rules may extend the exemption by treating it as your main residence for certain periods: s 118-135 (moving into a dwelling — grace period until it is first practicable to move in); s 118-140 (changing main residences — 6-month overlap); s 118-145 (absences — 6-year absence rule with choice); s 118-147 (absence from replacement dwelling after compulsory acquisition/destruction); s 118-150 (building/repairing/renovating — up to 4 years); s 118-155 (death during building); s 118-160 (destruction of dwelling and sale of land).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-135",
+     "title": "Moving into a dwelling"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-140",
+     "title": "Changing main residences"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-145",
+     "title": "Absences"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-147",
+     "title": "Absence from dwelling replacing main residence that was compulsorily acquired, destroyed etc."
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-150",
+     "title": "If you build, repair or renovate a dwelling"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-155",
+     "title": "Where individual referred to in section 118-150 dies"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-160",
+     "title": "Destruction of dwelling and sale of land"
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_152"
+    },
+    {
+     "citation": "2008_AATA_421"
+    }
+   ],
+   "definitions": [
+    "main residence"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1995_7",
+     "title": "855-45(3) of the Income Tax Assessment Act 1997"
+    },
+    {
+     "id": "TD_1999_43",
+     "title": "8982 Related Rulings/Determinations: TD 53 TR 96/20"
+    },
+    {
+     "id": "TD_2000_16",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "dec-absence-choice",
+   "type": "decision",
+   "label": "Do you choose to treat the dwelling as your main residence during a period of absence (s 118-145)?",
+   "body": "If you move out of a dwelling that was your main residence, you may choose to continue treating it as your main residence (s 118-145(1)). If any part was used to produce assessable income, the maximum continuous period is 6 years (s 118-145(2) — another 6-year period starts each time it re-becomes your main residence). If not used for income, the period is indefinite (s 118-145(3)). During this choice, no other dwelling can be treated as your main residence except under the changing-residences overlap (s 118-140) — s 118-145(4). For replacement dwellings after compulsory acquisition/destruction, s 118-147 provides a separate choice with its own 6-year income-use limit (s 118-147(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-145",
+     "title": "Absences"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-147",
+     "title": "Absence from dwelling replacing main residence that was compulsorily acquired, destroyed etc."
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_152"
+    },
+    {
+     "citation": "2008_AATA_421"
+    },
+    {
+     "citation": "1989_AATA_541"
+    },
+    {
+     "citation": "2026_ARTA_872"
+    }
+   ],
+   "definitions": [
+    "main residence",
+    "assessable income"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2019_5",
+     "title": "Capital gains tax and deceased estates - the Commissioner's discretion to extend the…"
+    },
+    {
+     "id": "TD_1995_7",
+     "title": "855-45(3) of the Income Tax Assessment Act 1997"
+    },
+    {
+     "id": "TD_1999_43",
+     "title": "8982 Related Rulings/Determinations: TD 53 TR 96/20"
+    }
+   ]
+  },
+  {
+   "id": "dec-building-choice",
+   "type": "decision",
+   "label": "Are you building, repairing or renovating a dwelling on the land (s 118-150)?",
+   "body": "If you have an ownership interest in land (except a life interest) and build a dwelling, or repair/renovate/finish building one, you can choose to treat the dwelling as your main residence from the time you acquired the interest (s 118-150(2)). Conditions: the dwelling becomes your main residence as soon as practicable after work finishes AND continues as your main residence for at least 3 months (s 118-150(3)). The choice operates for the shorter of 4 years (or longer if the Commissioner allows) before it becomes your main residence, and the period from acquisition to when it becomes your main residence (s 118-150(4)). If the individual dies, s 118-155 provides a separate choice for the surviving joint tenant or trustee.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-150",
+     "title": "If you build, repair or renovate a dwelling"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-155",
+     "title": "Where individual referred to in section 118-150 dies"
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "ownership interest",
+    "main residence"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2017_13",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ]
+  },
+  {
+   "id": "dec-adjacent-land-separate",
+   "type": "decision",
+   "label": "Does the CGT event happen to adjacent land (or adjacent structure) only, without also happening to the dwelling?",
+   "body": "If the CGT event happens only to adjacent land (or an adjacent structure) and not also to the dwelling itself, the exemption does NOT apply under the general rule in s 118-165. However, a separate exemption for compulsory acquisitions of adjacent land applies under ss 118-240 to 118-265, subject to the 2-hectare limit (s 118-120(3)/s 118-245(1)(f)) and foreign-resident exclusions (s 118-245(3)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-165",
+     "title": "Separate CGT event for adjacent land or other structures"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-245",
+     "title": "CGT events happening only to adjacent land"
+    }
+   ],
+   "commentary": [
+    "rules-limiting-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "adjacent land",
+    "adjacent structure"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_68",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "outcome-full-exemption",
+   "type": "outcome",
+   "label": "Full exemption — capital gain/loss disregarded (s 118-110)",
+   "body": "The capital gain or loss from the CGT event is disregarded. This is the basic case: you are an individual, the dwelling was your main residence throughout your ownership period, you did not acquire it from a deceased estate, and you are not an excluded foreign resident or a foreign resident failing the life events test. Note: if the dwelling was used for income-producing purposes during any period, s 118-190 may claw back part of the exemption (see partial exemption rules).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": "Basic case"
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2009_AATA_41"
+    }
+   ],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2002_691",
+     "title": "CGT: Main Residence - apportioning cost base of land in excess of 2 hectares"
+    },
+    {
+     "id": "AID_2003_163",
+     "title": "Capital Gains Tax: main residence exemption - residence owned by company"
+    },
+    {
+     "id": "AID_2003_212",
+     "title": "Capital gains tax: main residence exemption - accidental destruction of dwelling used for…"
+    }
+   ]
+  },
+  {
+   "id": "dec-partial-exemption-185",
+   "type": "decision",
+   "label": "Was the dwelling your main residence for only part of the ownership period?",
+   "body": "If the dwelling was your main residence for only part of the ownership period, you get only a partial exemption under s 118-185. The formula is: Non-main residence days / Total days in ownership period × capital gain/loss (s 118-185(2)). This section does not apply if the dwelling was acquired from a deceased estate (use ss 118-195/118-200 instead). Also does NOT apply if you are an excluded foreign resident or a foreign resident failing the life events test (s 118-185(3)). The s 118-145 absence choice can reduce the non-main residence days by treating the dwelling as your main residence during the absence.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-185",
+     "title": "Partial exemption where dwelling was your main residence during part only of ownership period"
+    }
+   ],
+   "commentary": [
+    "partial-cgt-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_152"
+    },
+    {
+     "citation": "2009_AATA_41"
+    },
+    {
+     "citation": "2026_ARTA_872"
+    },
+    {
+     "citation": "2008_AATA_421"
+    },
+    {
+     "citation": "2009_AATA_890"
+    }
+   ],
+   "definitions": [
+    "main residence",
+    "ownership period",
+    "capital gain"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_1112",
+     "title": "Capital gains tax: main residence exemption - dwelling first used to produce income"
+    },
+    {
+     "id": "AID_2003_378",
+     "title": "Capital gains tax: main residence exemption - marriage breakdown"
+    },
+    {
+     "id": "AID_2003_826",
+     "title": "Capital gains tax: main residence exemption - interaction with non-resident provisions"
+    }
+   ]
+  },
+  {
+   "id": "dec-income-producing-use",
+   "type": "decision",
+   "label": "Was the dwelling used for income-producing purposes?",
+   "body": "Even if the dwelling was your main residence (or someone else's) for a period, if it was used for the purpose of producing assessable income during that period and you could have deducted interest on money borrowed to acquire it, your exemption is reduced (s 118-190). The capital gain is increased by an amount reasonable having regard to the extent to which interest would have been deductible (s 118-190(2)). However, income-producing use during an absence period covered by a s 118-145 choice is ignored if no part of the dwelling was used for income just before it last ceased to be your main residence (s 118-190(3)). For deceased estate dwellings, pre-death income use is ignored if the dwelling was the deceased's main residence just before death and was not then used for income (s 118-190(4)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-190",
+     "title": "Use of dwelling for producing assessable income"
+    }
+   ],
+   "commentary": [
+    "partial-cgt-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "purpose of producing assessable income",
+    "assessable income",
+    "interest deduction"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1993_30",
+     "title": "(a) is the cost per unit of power used; (b) is the average units used per hour; and (c)…"
+    },
+    {
+     "id": "TR_2026_1",
+     "title": ""
+    },
+    {
+     "id": "TD_1999_66",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "dec-first-income-use",
+   "type": "decision",
+   "label": "Was the dwelling first used to produce income after 7:30 pm on 20 August 1996?",
+   "body": "If the dwelling's first income-producing use occurred after 7:30 pm (ACT legal time) on 20 August 1996, and you would have got a full exemption just before that first income use, you are taken to have acquired the dwelling at market value at the income time (s 118-192(1)-(2)). This effectively resets the cost base, splitting the gain: pre-income-use gain is exempt, post-income-use gain is taxable. For deceased estate dwellings where the CGT event happens more than 2 years after death, special rules apply under s 118-192(3).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-192",
+     "title": "Special rule for first use to produce income"
+    }
+   ],
+   "commentary": [
+    "partial-cgt-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "market value",
+    "cost base",
+    "income time"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_66",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "outcome-partial-exemption",
+   "type": "outcome",
+   "label": "Partial exemption — only part of the capital gain is disregarded",
+   "body": "The exemption is partial under either s 118-185 (non-main residence days formula), s 118-190 (income-producing use adjustment), or both. The combined effect: non-main residence days proportion reduces the exempt portion, and income-producing use during main residence periods increases the assessable portion. Calculate the capital gain/loss under s 118-185 formula, then apply the s 118-190 income-use adjustment. Note: s 118-192 (first income use after August 1996) resets cost base to market value, effectively exempting the pre-income-use gain entirely. The residence may also be treated as a 'taxable use' under Div 118 definitions.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-185",
+     "title": "Partial exemption formula"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-190",
+     "title": "Income use adjustment"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-192",
+     "title": "Market value acquisition at income time"
+    }
+   ],
+   "commentary": [
+    "partial-cgt-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_152"
+    },
+    {
+     "citation": "2009_AATA_41"
+    },
+    {
+     "citation": "2009_AATA_890"
+    }
+   ],
+   "definitions": [
+    "capital gain",
+    "capital loss",
+    "non-main residence days"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_71",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "branch-deceased-estate",
+   "type": "event",
+   "label": "Deceased estate rules (ss 118-195 to 118-210)",
+   "body": "Special rules apply when the dwelling was acquired from a deceased estate (by a beneficiary or trustee). The full exemption under s 118-195 requires the deceased to have acquired the interest on or after 20 Sep 1985 AND the dwelling was the deceased's main residence just before death AND was not then used for income — plus the beneficiary's interest ends within 2 years of death (or longer if Commissioner allows). OR the deceased acquired the interest before 20 Sep 1985 AND the dwelling was, from death until ownership ends, the main residence of the spouse, a person with a right to occupy under the will, or the beneficiary (s 118-195 table). If s 118-195 does NOT apply, a partial exemption applies under s 118-200. The deceased must not have been an excluded foreign resident just before death (s 118-195(1)(c)). Trustee rules under s 118-210 apply where a trustee acquires a dwelling under a will for occupation by an individual.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-195",
+     "title": "Dwelling acquired from a deceased estate"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-197",
+     "title": "Special rule for surviving joint tenant"
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_1168"
+    },
+    {
+     "citation": "2001_AATA_405"
+    }
+   ],
+   "definitions": [
+    "deceased estate",
+    "beneficiary",
+    "trustee",
+    "excluded foreign resident"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_70",
+     "title": ""
+    },
+    {
+     "id": "TD_2024_9",
+     "title": "see subsection 995-1(1) of the ITAA 1997. [4] The cost base for the purposes of the…"
+    }
+   ]
+  },
+  {
+   "id": "dec-deceased-full-exempt",
+   "type": "decision",
+   "label": "Does the dwelling qualify for the full deceased estate exemption (s 118-195)?",
+   "body": "The table in s 118-195(1) has two items. Item 1: deceased acquired interest on/after 20 Sep 1985 + dwelling was deceased's main residence just before death + not then used for income + your interest ends within 2 years of death (or longer allowed by Commissioner). Item 2: deceased acquired interest before 20 Sep 1985 + from death until your interest ends, the dwelling was the main residence of (a) the spouse just before death, (b) a person with right to occupy under the will, or (c) the beneficiary who brought about the CGT event. The deceased must not have been an excluded foreign resident just before death (s 118-195(1)(c)). Note: If just before death the deceased was an excluded foreign resident, disregard paras (a) and (b) in column 3 of item 2, and disregard para (c) if the individual is an excluded foreign resident at the time of the CGT event (s 118-195(1A)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-195",
+     "title": "Table of conditions"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-195",
+     "title": "Excluded foreign resident modification"
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_1168"
+    },
+    {
+     "citation": "2001_AATA_405"
+    }
+   ],
+   "definitions": [
+    "excluded foreign resident",
+    "main residence"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2001_335",
+     "title": "Capital gains tax - inherited dwelling"
+    },
+    {
+     "id": "AID_2002_52",
+     "title": "Capital Gains Tax - Deceased Estate/Main Residence"
+    },
+    {
+     "id": "AID_2003_109",
+     "title": "Capital gains tax: Deceased estate - main residence exemption"
+    }
+   ]
+  },
+  {
+   "id": "outcome-deceased-full",
+   "type": "outcome",
+   "label": "Full exemption under deceased estate rules (s 118-195)",
+   "body": "The capital gain or loss is disregarded. The conditions of the table in s 118-195(1) are satisfied (either item 1 or item 2). Note that s 118-190 (income use adjustment) may still apply if the dwelling was used for income-producing purposes.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-195",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2008_AATA_1168"
+    }
+   ],
+   "definitions": [
+    "capital gain",
+    "capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_1136",
+     "title": "Capital gains tax: main residence exemption - dwelling inherited through chain of…"
+    },
+    {
+     "id": "AID_2003_770",
+     "title": "Capital gains tax: main residence exemption: extension of exemption for dwelling acquired…"
+    },
+    {
+     "id": "AID_2004_734",
+     "title": "Capital gains tax: main residence exemption: right to occupy dwelling under deceased's…"
+    }
+   ]
+  },
+  {
+   "id": "action-deceased-partial",
+   "type": "action",
+   "label": "Calculate partial exemption for deceased estate dwelling (s 118-200)",
+   "body": "If s 118-195 does not apply, you calculate the capital gain/loss using the formula in s 118-200(2): Non-main residence days / Total days × capital gain/loss. 'Non-main residence days' includes: (a) days in deceased's ownership period when the dwelling was not the deceased's main residence; (aa) if deceased was an excluded foreign resident just before death — all remaining days in the deceased's ownership period; and (b) days from death until your interest ends when the dwelling was not the main residence of the s 118-195 table individuals. Option: ignore post-death days if your interest ends within 2 years of death and the deceased was not an excluded foreign resident (s 118-200(3)). If the dwelling was the deceased's main residence just before death and not then used for income, ignore pre-death non-main residence days (s 118-200(4)). Adjustments for multiple inheritances apply under s 118-205.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-200",
+     "title": "Partial exemption for deceased estate dwellings"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-205",
+     "title": "Adjustment if dwelling inherited from deceased individual"
+    }
+   ],
+   "commentary": [
+    "partial-cgt-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "non-main residence days",
+    "total days",
+    "excluded foreign resident"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2004_882",
+     "title": "Capital Gains Tax: main residence exemption - deceased estate - right to occupy dwelling…"
+    }
+   ]
+  },
+  {
+   "id": "branch-trustee-will",
+   "type": "event",
+   "label": "Trustee acquiring dwelling under will (s 118-210)",
+   "body": "If you are the trustee of a deceased estate and, under the will, acquire a dwelling for occupation by an individual: (1) if the CGT event happens in relation to the individual and you receive no money/property — the gain is disregarded, the individual inherits the trustee's cost base and acquisition time (s 118-210(2)); (2) if you receive money/property or the event involves another entity and the dwelling was the individual's main residence throughout — no gain/loss (s 118-210(3)); (3) if it was the individual's main residence for only part of the period — partial exemption using the non-main residence days formula (s 118-210(4)). Only specified CGT events apply (s 118-210(5)). Does not apply if the deceased was an excluded foreign resident just before death (s 118-210(6)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-210",
+     "title": "Trustee acquiring dwelling under will"
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "trustee",
+    "deceased estate",
+    "cost base"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_74",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "branch-spouse-interaction",
+   "type": "event",
+   "label": "Spouse transfer interaction (ss 118-178/118-180 and s 118-170)",
+   "body": "Two key interactions: (1) ss 118-178/118-180 (carry-over of main residence history on a marriage breakdown roll-over under Subdivision 126-A) — the transferee spouse steps into the transferor's shoes for ownership period and main residence use; (2) s 118-170 (spouses with different main residences) — where you and your spouse have different main residences during a period, you must either choose one dwelling as the main residence of both, or nominate different dwellings (splitting the exemption proportionally based on ownership interests). Section 118-175 provides a similar rule for dependent children.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-170",
+     "title": "Spouse having different main residence"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-175",
+     "title": "Dependent child having different main residence"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-178",
+     "title": "Previous roll-over under Subdivision 126-A"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-180",
+     "title": "Acquisition of dwelling from company or trust on marriage or relationship breakdown"
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2021_FCAFC_99"
+    }
+   ],
+   "definitions": [
+    "spouse",
+    "former spouse",
+    "main residence"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_785",
+     "title": "Capital gains tax: main residence exemption - spouse choosing a dwelling as main residence"
+    },
+    {
+     "id": "AID_2004_538",
+     "title": "Capital Gains Tax: small business concessions - small business CGT affiliate -…"
+    },
+    {
+     "id": "AID_2004_946",
+     "title": "Capital gains tax: marriage breakdown rollover - transfer of asset from company to…"
+    }
+   ]
+  },
+  {
+   "id": "action-spouse-transfer-178",
+   "type": "action",
+   "label": "Carry-over of ownership and use under s 118-178 (spouse transfer)",
+   "body": "If you acquired the dwelling from a former partner under a Subdivision 126-A roll-over (marriage breakdown), the main residence exemption applies as if: (a) your ownership interest commenced when your former partner's commenced; (b) from that time until the former partner's interest ended, you used the dwelling the same way they did; and (c) it was your main residence for the same number of days it was theirs (s 118-178(2)). This carries the transferor's period of ownership and use forward to the transferee. Section 118-180 provides a more limited rule for acquisitions from a company or trust — you are treated as owning the dwelling during the period the entity owned it, but it cannot be treated as your main residence during that period (s 118-180(2)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-178",
+     "title": "Previous roll-over under Subdivision 126-A"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-180",
+     "title": "Acquisition of dwelling from company or trust on marriage or relationship breakdown"
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [
+    {
+     "citation": "2021_FCAFC_99"
+    }
+   ],
+   "definitions": [
+    "former partner",
+    "roll-over",
+    "ownership interest"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-spouse-different-residence",
+   "type": "decision",
+   "label": "Do you and your spouse have different main residences?",
+   "body": "If during a period your dwelling is your main residence and another dwelling is your spouse's main residence (except a spouse living permanently separately from you), you must EITHER choose one dwelling as the main residence of both (s 118-170(1)(a)) OR nominate different dwellings (s 118-170(1)(b)). If you nominate different dwellings, the exemption is split: if your interest in the dwelling you chose is not more than half of total interests, it is taken to be your main residence for the whole period; otherwise, it is taken to be your main residence for half the period (s 118-170(2)-(4)). A similar choice rule applies for dependent children under 18 (s 118-175).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-170",
+     "title": "Spouse having different main residence"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-175",
+     "title": "Dependent child having different main residence"
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "spouse",
+    "main residence",
+    "dependent child"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "branch-special-disability-trust",
+   "type": "event",
+   "label": "Special disability trust rules (ss 118-215 to 118-230)",
+   "body": "The trustee of a special disability trust may be eligible for an exemption to the extent a dwelling is the main residence of the principal beneficiary (s 118-215). After the principal beneficiary's death (s 118-220): (a) full exemption for transfers to the implied trust or a beneficiary (s 118-225(1)); (b) partial exemption if the asset is sold (s 118-225(2)-(5)); (c) cost base rules under s 118-227; (d) another beneficiary acquiring the asset (s 118-222). CGT events E5 and E7 are added to the covered events for special disability trusts (s 118-230). Does not apply if the principal beneficiary is a foreign resident (s 118-215 note) or the deceased was an excluded foreign resident (s 118-225(5)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-215",
+     "title": "What the following provisions are about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-220",
+     "title": "Exemption available to trustee—after the principal beneficiary's death"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-222",
+     "title": "Exemption available to other beneficiary who acquires the CGT asset after the principal beneficiary's death"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-225",
+     "title": "Amount of exemption available after the principal beneficiary's death—general"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-227",
+     "title": "Amount of exemption available after the principal beneficiary's death—cost base and reduced cost base"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-230",
+     "title": "Application of CGT events E5 and E7 in relation to main residence exemption and special disability trusts"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "special disability trust",
+    "principal beneficiary",
+    "CGT event",
+    "excluded foreign resident"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "branch-compulsory-acquisition",
+   "type": "event",
+   "label": "Compulsory acquisition of adjacent land only (ss 118-240 to 118-265)",
+   "body": "A separate exemption for compulsory acquisitions of adjacent land (but not the dwelling itself) applies under ss 118-240 to 118-265. The exemption applies if the CGT event involves compulsory acquisition or similar arrangements (s 118-250). The total adjacent land area is limited to 2 hectares (s 118-245(1)(f)). If the area exceeds 2 hectares, you can choose a partial exemption for land within the maximum exempt area (s 118-245(2)). Partial exemption rules under s 118-260 may increase the gain/loss by a reasonable amount considering non-main residence use and income-producing use. The maximum exempt area is reduced by any earlier exempt disposals of adjacent land (s 118-255). Section 118-265 extends these rules to adjacent structures of flats/home units. Does NOT apply if you are an excluded foreign resident or a foreign resident failing the life events test (s 118-245(3)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-240",
+     "title": "What the following provisions are about"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-245",
+     "title": "CGT events happening only to adjacent land"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-250",
+     "title": "Compulsory acquisitions of adjacent land"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-255",
+     "title": "Maximum exempt area"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-260",
+     "title": "Partial exemption rules"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-265",
+     "title": "Extension to adjacent structures"
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "adjacent land",
+    "adjacent structure",
+    "compulsory acquisition",
+    "maximum exempt area",
+    "excluded foreign resident"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2000_1",
+     "title": "and, indeed, including Goss v. Lord Nugent itself - that the parties to an agreement may…"
+    },
+    {
+     "id": "TD_1998_14",
+     "title": "business exemption threshold for the 1998-99"
+    },
+    {
+     "id": "TD_1999_30",
+     "title": "8982 Related Rulings/Determinations: TD 94/57 TD 95/24 TD 96/31 TD 97/13 TD 98/14"
+    }
+   ]
+  },
+  {
+   "id": "outcome-adjacent-land-exempt",
+   "type": "outcome",
+   "label": "Exemption for compulsory acquisition of adjacent land (s 118-245)",
+   "body": "The capital gain or loss from the compulsory acquisition of adjacent land (without the dwelling) is disregarded, subject to the 2-hectare limit and the 'maximum exempt area' rules. Partial adjustments may apply under s 118-260 if the dwelling was not always a main residence or was used for income.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-245",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-245",
+     "title": "Partial choice for land >2 hectares"
+    }
+   ],
+   "commentary": [
+    "rules-extending-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [
+    "capital gain",
+    "capital loss",
+    "adjacent land"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_213",
+     "title": "Capital gains tax: main residence - absences - accidental destruction of dwelling - sale…"
+    },
+    {
+     "id": "AID_2003_214",
+     "title": "Capital gains tax: main residence exemption - accidental destruction of dwelling - sale…"
+    }
+   ]
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Main residence CGT position determined — exemption applied (full or partial) or denied",
+   "body": "The Subdivision 118-B main residence exemption analysis is complete. The outcome depends on: whether the dwelling was your main residence throughout (full exemption), for only part of the period (partial exemption under s 118-185), with income-producing use (adjustment under s 118-190), and whether the foreign-resident boundary blocks the exemption entirely (s 118-110(3)-(5)). Deceased estate dwellers have their own rules (full under s 118-195 or partial under s 118-200). Spouse transfers may carry over ownership/use history (ss 118-178/118-180). Compulsory acquisitions of adjacent land have separate treatment (ss 118-245/118-260). Special disability trusts have their own regime (ss 118-215 to 118-230). Cross-references: Div 855 (foreign resident CGT) and Subdiv 126-A (marriage breakdown roll-over) may be relevant.",
+   "statute": [],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption",
+    "rules-extending-main-residence-exemption",
+    "rules-limiting-main-residence-exemption",
+    "partial-cgt-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "no-exemption-general",
+   "type": "end",
+   "label": "No exemption available — normal CGT rules apply",
+   "body": "If the dwelling was not your main residence (and no extension rule applies), or you are not an individual, or the CGT event is not covered, or the dwelling definition is not satisfied, the main residence exemption does not apply. The capital gain is assessable under normal CGT rules (Division 100+).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-110",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "basic-concepts-of-main-residence-exemption"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2003_248",
+     "title": "Capital gains tax: main residence exemption - adjacent land"
+    },
+    {
+     "id": "AID_2003_257",
+     "title": "Capital gains tax: main residence exemption - choice not to apply exemption"
+    },
+    {
+     "id": "AID_2003_272",
+     "title": "CGT Main residence exemption: ownership interest - share in company"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-cgt-event-type",
+   "label": "CGT event happens"
+  },
+  {
+   "from": "dec-cgt-event-type",
+   "to": "no-exemption-general",
+   "label": "Not a covered CGT event (s 118-110(2))"
+  },
+  {
+   "from": "dec-cgt-event-type",
+   "to": "dec-individual",
+   "label": "Covered CGT event (A1/B1/C1/C2/E1/E2/F2/K3/K4/K6)"
+  },
+  {
+   "from": "dec-individual",
+   "to": "no-exemption-general",
+   "label": "Not an individual"
+  },
+  {
+   "from": "dec-individual",
+   "to": "dec-dwelling-defn",
+   "label": "Individual"
+  },
+  {
+   "from": "dec-dwelling-defn",
+   "to": "no-exemption-general",
+   "label": "Not a dwelling (s 118-115)"
+  },
+  {
+   "from": "dec-dwelling-defn",
+   "to": "dec-ownership-period",
+   "label": "Is a dwelling or adjacent land/structure"
+  },
+  {
+   "from": "dec-ownership-period",
+   "to": "no-exemption-general",
+   "label": "No ownership interest"
+  },
+  {
+   "from": "dec-ownership-period",
+   "to": "dec-foreign-resident-boundary",
+   "label": "Has ownership interest"
+  },
+  {
+   "from": "dec-foreign-resident-boundary",
+   "to": "action-fr-no-exemption",
+   "label": "Yes — excluded FR (>6yrs) or FR fails life events test"
+  },
+  {
+   "from": "dec-foreign-resident-boundary",
+   "to": "dec-deceased-estate-source",
+   "label": "No — Australian resident or FR satisfying life events test"
+  },
+  {
+   "from": "dec-deceased-estate-source",
+   "to": "branch-deceased-estate",
+   "label": "Yes — acquired from deceased estate or surviving joint tenant"
+  },
+  {
+   "from": "dec-deceased-estate-source",
+   "to": "dec-main-residence-throughout",
+   "label": "No — individual, not from deceased estate"
+  },
+  {
+   "from": "dec-main-residence-throughout",
+   "to": "branch-extending-rules",
+   "label": "Check extending rules first"
+  },
+  {
+   "from": "branch-extending-rules",
+   "to": "dec-absence-choice",
+   "label": "Consider absence choice (s 118-145/118-147)"
+  },
+  {
+   "from": "branch-extending-rules",
+   "to": "dec-building-choice",
+   "label": "Consider building/renovation choice (s 118-150/118-155)"
+  },
+  {
+   "from": "branch-extending-rules",
+   "to": "dec-adjacent-land-separate",
+   "label": "Check adjacent land only? (s 118-165)"
+  },
+  {
+   "from": "branch-extending-rules",
+   "to": "branch-spouse-interaction",
+   "label": "Check spouse interactions (ss 118-170, 118-178, 118-180)"
+  },
+  {
+   "from": "branch-extending-rules",
+   "to": "outcome-full-exemption",
+   "label": "No absences or changes — main residence throughout extends to full exemption"
+  },
+  {
+   "from": "dec-absence-choice",
+   "to": "dec-main-residence-throughout",
+   "label": "Choose to treat as main residence during absence"
+  },
+  {
+   "from": "dec-absence-choice",
+   "to": "dec-partial-exemption-185",
+   "label": "Don't choose — absence not covered"
+  },
+  {
+   "from": "dec-building-choice",
+   "to": "dec-main-residence-throughout",
+   "label": "Choose building/renovation extension"
+  },
+  {
+   "from": "dec-building-choice",
+   "to": "dec-partial-exemption-185",
+   "label": "No building/renovation choice"
+  },
+  {
+   "from": "dec-adjacent-land-separate",
+   "to": "branch-compulsory-acquisition",
+   "label": "Compulsory acquisition of adjacent land only"
+  },
+  {
+   "from": "dec-adjacent-land-separate",
+   "to": "dec-partial-exemption-185",
+   "label": "General adjacent land event — not eligible for exemption"
+  },
+  {
+   "from": "branch-spouse-interaction",
+   "to": "action-spouse-transfer-178",
+   "label": "Marriage breakdown roll-over (s 118-178/118-180) — carry-over"
+  },
+  {
+   "from": "branch-spouse-interaction",
+   "to": "dec-spouse-different-residence",
+   "label": "Spouses with different main residences (s 118-170)"
+  },
+  {
+   "from": "dec-spouse-different-residence",
+   "to": "dec-main-residence-throughout",
+   "label": "Choose or nominate — exemption allocated"
+  },
+  {
+   "from": "action-spouse-transfer-178",
+   "to": "dec-main-residence-throughout",
+   "label": "Carry-over applied — re-evaluate exemption"
+  },
+  {
+   "from": "dec-main-residence-throughout",
+   "to": "outcome-full-exemption",
+   "label": "Yes — main residence throughout (including extensions)"
+  },
+  {
+   "from": "dec-main-residence-throughout",
+   "to": "dec-partial-exemption-185",
+   "label": "No — main residence for only part of period"
+  },
+  {
+   "from": "dec-partial-exemption-185",
+   "to": "dec-income-producing-use",
+   "label": "Partial exemption formula applied — check income use"
+  },
+  {
+   "from": "dec-income-producing-use",
+   "to": "outcome-partial-exemption",
+   "label": "Yes — used for income: adjust under s 118-190"
+  },
+  {
+   "from": "dec-income-producing-use",
+   "to": "dec-first-income-use",
+   "label": "Check first income use timing (s 118-192)"
+  },
+  {
+   "from": "dec-first-income-use",
+   "to": "outcome-partial-exemption",
+   "label": "First income use post-Aug 1996 — market value reset"
+  },
+  {
+   "from": "dec-first-income-use",
+   "to": "outcome-partial-exemption",
+   "label": "First income use pre-Aug 1996"
+  },
+  {
+   "from": "branch-deceased-estate",
+   "to": "dec-deceased-full-exempt",
+   "label": "Check s 118-195 conditions"
+  },
+  {
+   "from": "dec-deceased-full-exempt",
+   "to": "outcome-deceased-full",
+   "label": "Yes — conditions satisfied: full exemption"
+  },
+  {
+   "from": "dec-deceased-full-exempt",
+   "to": "action-deceased-partial",
+   "label": "No — apply partial exemption (s 118-200)"
+  },
+  {
+   "from": "action-deceased-partial",
+   "to": "dec-income-producing-use",
+   "label": "Check income-producing use adjustment"
+  },
+  {
+   "from": "action-deceased-partial",
+   "to": "outcome-partial-exemption",
+   "label": "Partial exemption calculated"
+  },
+  {
+   "from": "branch-deceased-estate",
+   "to": "branch-trustee-will",
+   "label": "Trustee acquired under will (s 118-210)"
+  },
+  {
+   "from": "branch-trustee-will",
+   "to": "outcome-deceased-full",
+   "label": "Full exemption for trustee (s 118-210(2)-(3))"
+  },
+  {
+   "from": "branch-trustee-will",
+   "to": "outcome-partial-exemption",
+   "label": "Partial exemption for trustee (s 118-210(4))"
+  },
+  {
+   "from": "branch-deceased-estate",
+   "to": "branch-special-disability-trust",
+   "label": "Special disability trust (ss 118-215 to 118-230)"
+  },
+  {
+   "from": "branch-special-disability-trust",
+   "to": "outcome-deceased-full",
+   "label": "Full exemption for trustee/beneficiary (ss 118-220 to 118-227)"
+  },
+  {
+   "from": "branch-special-disability-trust",
+   "to": "outcome-partial-exemption",
+   "label": "Partial exemption (s 118-225(2)-(5))"
+  },
+  {
+   "from": "branch-compulsory-acquisition",
+   "to": "outcome-adjacent-land-exempt",
+   "label": "Qualifying compulsory acquisition — exemption applies"
+  },
+  {
+   "from": "branch-compulsory-acquisition",
+   "to": "no-exemption-general",
+   "label": "Excluded foreign resident or fails life events test (s 118-245(3))"
+  },
+  {
+   "from": "branch-compulsory-acquisition",
+   "to": "outcome-partial-exemption",
+   "label": "Partial exemption under s 118-260"
+  },
+  {
+   "from": "outcome-full-exemption",
+   "to": "end",
+   "label": "Gain/loss disregarded"
+  },
+  {
+   "from": "outcome-partial-exemption",
+   "to": "end",
+   "label": "Partial exemption applied"
+  },
+  {
+   "from": "action-fr-no-exemption",
+   "to": "end",
+   "label": "Foreign resident — no exemption"
+  },
+  {
+   "from": "outcome-deceased-full",
+   "to": "end",
+   "label": "Deceased estate full exemption"
+  },
+  {
+   "from": "outcome-adjacent-land-exempt",
+   "to": "end",
+   "label": "Adjacent land compulsory acquisition exemption"
+  },
+  {
+   "from": "no-exemption-general",
+   "to": "end",
+   "label": "Normal CGT rules apply"
+  }
+ ],
+ "short": "Main residence exemption",
+ "refs": "Subdiv 118-B",
+ "sort": 23
+}

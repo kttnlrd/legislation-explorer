@@ -1,0 +1,4242 @@
+{
+  "act": "SIS 1993",
+  "compilation_no": 126,
+  "compilation_date": "2025-01-09",
+  "parts": [
+    {
+      "id": "1",
+      "title": "Preliminary",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "1",
+              "title": "Short title",
+              "path": "part-1/division-1/1.md"
+            },
+            {
+              "id": "2",
+              "title": "Commencement",
+              "path": "part-1/division-1/2.md"
+            },
+            {
+              "id": "3",
+              "title": "Object of Act",
+              "path": "part-1/division-1/3.md"
+            },
+            {
+              "id": "4",
+              "title": "Simplified outline of supervision responsibilities",
+              "path": "part-1/division-1/4.md"
+            },
+            {
+              "id": "5",
+              "title": "General administration of Act",
+              "path": "part-1/division-1/5.md"
+            },
+            {
+              "id": "6",
+              "title": "General administration table",
+              "path": "part-1/division-1/6.md"
+            },
+            {
+              "id": "7",
+              "title": "Application of Act not to be excluded or modified",
+              "path": "part-1/division-1/7.md"
+            },
+            {
+              "id": "8",
+              "title": "Act extends to external Territories",
+              "path": "part-1/division-1/8.md"
+            },
+            {
+              "id": "9",
+              "title": "Crown to be bound",
+              "path": "part-1/division-1/9.md"
+            },
+            {
+              "id": "9A",
+              "title": "Application of the Criminal Code",
+              "path": "part-1/division-1/9a.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Interpretation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "10",
+              "title": "Definitions",
+              "path": "part-1/division-2/10.md"
+            },
+            {
+              "id": "10A",
+              "title": "Interdependency relationship",
+              "path": "part-1/division-2/10a.md"
+            },
+            {
+              "id": "11",
+              "title": "Approvals, determinations etc. by Regulator",
+              "path": "part-1/division-2/11.md"
+            },
+            {
+              "id": "11A",
+              "title": "Approved forms",
+              "path": "part-1/division-2/11a.md"
+            },
+            {
+              "id": "11B",
+              "title": "Electronic lodgment of approved forms",
+              "path": "part-1/division-2/11b.md"
+            },
+            {
+              "id": "11C",
+              "title": "Declaration required if approved form lodged electronically on trustee’s behalf",
+              "path": "part-1/division-2/11c.md"
+            },
+            {
+              "id": "11D",
+              "title": "Electronic lodgment—documents other than approved forms",
+              "path": "part-1/division-2/11d.md"
+            },
+            {
+              "id": "11E",
+              "title": "Approved guarantees",
+              "path": "part-1/division-2/11e.md"
+            },
+            {
+              "id": "11F",
+              "title": "Lead auditor",
+              "path": "part-1/division-2/11f.md"
+            },
+            {
+              "id": "12",
+              "title": "Associates",
+              "path": "part-1/division-2/12.md"
+            },
+            {
+              "id": "13",
+              "title": "Single trustees",
+              "path": "part-1/division-2/13.md"
+            },
+            {
+              "id": "13A",
+              "title": "RSE licensees that are groups of individual trustees",
+              "path": "part-1/division-2/13a.md"
+            },
+            {
+              "id": "14",
+              "title": "Indefinitely continuing fund—application of rules against perpetuities",
+              "path": "part-1/division-2/14.md"
+            },
+            {
+              "id": "15",
+              "title": "Approved deposit funds—payments by trustees",
+              "path": "part-1/division-2/15.md"
+            },
+            {
+              "id": "15A",
+              "title": "Definitions of employee and employer",
+              "path": "part-1/division-2/15a.md"
+            },
+            {
+              "id": "15B",
+              "title": "Modified meaning of member",
+              "path": "part-1/division-2/15b.md"
+            },
+            {
+              "id": "16",
+              "title": "Definitions associated with employer-sponsorship",
+              "path": "part-1/division-2/16.md"
+            },
+            {
+              "id": "17",
+              "title": "Persons involved in a contravention",
+              "path": "part-1/division-2/17.md"
+            },
+            {
+              "id": "17A",
+              "title": "Definition of self managed superannuation fund",
+              "path": "part-1/division-2/17a.md"
+            },
+            {
+              "id": "17B",
+              "title": "Definition of self managed superannuation fund— remuneration of trustees etc",
+              "path": "part-1/division-2/17b.md"
+            },
+            {
+              "id": "18",
+              "title": "Public offer superannuation fund",
+              "path": "part-1/division-2/18.md"
+            },
+            {
+              "id": "19",
+              "title": "Regulated superannuation fund",
+              "path": "part-1/division-2/19.md"
+            },
+            {
+              "id": "20",
+              "title": "Related bodies corporate",
+              "path": "part-1/division-2/20.md"
+            },
+            {
+              "id": "20A",
+              "title": "Resident approved deposit funds",
+              "path": "part-1/division-2/20a.md"
+            },
+            {
+              "id": "20B",
+              "title": "Accrued default amounts",
+              "path": "part-1/division-2/20b.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "2A",
+      "title": "Licensing of trustees and groups of individual trustees",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object of this Part",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29A",
+              "title": "Object of this Part and the relationship of this Part to other provisions",
+              "path": "part-2a/division-1/29a.md"
+            },
+            {
+              "id": "29B",
+              "title": "Classes of RSE licences",
+              "path": "part-2a/division-1/29b.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Applying for RSE licences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29C",
+              "title": "Applications for RSE licences",
+              "path": "part-2a/division-3/29c.md"
+            },
+            {
+              "id": "29CA",
+              "title": "APRA may request further information",
+              "path": "part-2a/division-3/29ca.md"
+            },
+            {
+              "id": "29CC",
+              "title": "Period for deciding applications",
+              "path": "part-2a/division-3/29cc.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Grant of RSE licences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29D",
+              "title": "Grant of RSE licences",
+              "path": "part-2a/division-4/29d.md"
+            },
+            {
+              "id": "29DB",
+              "title": "Notice of class of licence",
+              "path": "part-2a/division-4/29db.md"
+            },
+            {
+              "id": "29DC",
+              "title": "Documents required to bear ABNs",
+              "path": "part-2a/division-4/29dc.md"
+            },
+            {
+              "id": "29DD",
+              "title": "Licence period",
+              "path": "part-2a/division-4/29dd.md"
+            },
+            {
+              "id": "29DE",
+              "title": "APRA to give notice of refusal of applications",
+              "path": "part-2a/division-4/29de.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Conditions on RSE licences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29E",
+              "title": "Conditions imposed on all licences and on groups of licences",
+              "path": "part-2a/division-5/29e.md"
+            },
+            {
+              "id": "29EA",
+              "title": "Additional conditions imposed on individual licences by APRA",
+              "path": "part-2a/division-5/29ea.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Varying RSE licences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29F",
+              "title": "Applications for variation of RSE licences",
+              "path": "part-2a/division-6/29f.md"
+            },
+            {
+              "id": "29FA",
+              "title": "APRA may request further information",
+              "path": "part-2a/division-6/29fa.md"
+            },
+            {
+              "id": "29FB",
+              "title": "Period for deciding applications",
+              "path": "part-2a/division-6/29fb.md"
+            },
+            {
+              "id": "29FC",
+              "title": "APRA may vary RSE licences in accordance with applications",
+              "path": "part-2a/division-6/29fc.md"
+            },
+            {
+              "id": "29FD",
+              "title": "APRA may vary or revoke licence conditions on its own initiative",
+              "path": "part-2a/division-6/29fd.md"
+            },
+            {
+              "id": "29FE",
+              "title": "Notification of APRA’s decisions under this Division",
+              "path": "part-2a/division-6/29fe.md"
+            },
+            {
+              "id": "29FF",
+              "title": "When variations or revocations come into force etc",
+              "path": "part-2a/division-6/29ff.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Cancelling RSE licences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29G",
+              "title": "Cancellation of RSE licences",
+              "path": "part-2a/division-7/29g.md"
+            },
+            {
+              "id": "29GA",
+              "title": "Cancellation of RSE licences of financial services licensees",
+              "path": "part-2a/division-7/29ga.md"
+            },
+            {
+              "id": "29GB",
+              "title": "APRA may allow RSE licence to continue in effect",
+              "path": "part-2a/division-7/29gb.md"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "Approval to hold a controlling stake in an RSE licensee",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Application of this Division",
+              "sections": [
+                {
+                  "id": "29H",
+                  "title": "Application",
+                  "path": "part-2a/division-8/29h.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Applying for approval",
+              "sections": [
+                {
+                  "id": "29HA",
+                  "title": "Application for approval to hold a controlling stake",
+                  "path": "part-2a/division-8/29ha.md"
+                },
+                {
+                  "id": "29HB",
+                  "title": "APRA may request further information",
+                  "path": "part-2a/division-8/29hb.md"
+                },
+                {
+                  "id": "29HC",
+                  "title": "Period for deciding applications for approval",
+                  "path": "part-2a/division-8/29hc.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "Approval",
+              "sections": [
+                {
+                  "id": "29HD",
+                  "title": "Approval to hold a controlling stake in an RSE licensee",
+                  "path": "part-2a/division-8/29hd.md"
+                },
+                {
+                  "id": "29HE",
+                  "title": "Notice of approval",
+                  "path": "part-2a/division-8/29he.md"
+                },
+                {
+                  "id": "29HF",
+                  "title": "APRA to give notice of refusal of approval",
+                  "path": "part-2a/division-8/29hf.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "9",
+          "title": "Offences and self-incrimination",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29J",
+              "title": "Being trustee of a registrable superannuation entity while unlicensed etc",
+              "path": "part-2a/division-9/29j.md"
+            },
+            {
+              "id": "29JA",
+              "title": "Failing to notify breach of licence condition",
+              "path": "part-2a/division-9/29ja.md"
+            },
+            {
+              "id": "29JCA",
+              "title": "False representation about status as RSE licensee",
+              "path": "part-2a/division-9/29jca.md"
+            },
+            {
+              "id": "29JCB",
+              "title": "Holding a controlling stake in an RSE licensee without approval",
+              "path": "part-2a/division-9/29jcb.md"
+            },
+            {
+              "id": "29JD",
+              "title": "Breach does not affect validity of issue of superannuation interests etc.",
+              "path": "part-2a/division-9/29jd.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "2B",
+      "title": "Registrable superannuation entities",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object of this Part",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29K",
+              "title": "Object etc. of this Part",
+              "path": "part-2b/division-1/29k.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Applying for registration",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29L",
+              "title": "Applications for registration",
+              "path": "part-2b/division-2/29l.md"
+            },
+            {
+              "id": "29LA",
+              "title": "APRA may request further information",
+              "path": "part-2b/division-2/29la.md"
+            },
+            {
+              "id": "29LB",
+              "title": "Period for deciding applications for registration",
+              "path": "part-2b/division-2/29lb.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Registration",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29M",
+              "title": "Registration of registrable superannuation entity",
+              "path": "part-2b/division-3/29m.md"
+            },
+            {
+              "id": "29MA",
+              "title": "Notice of registration",
+              "path": "part-2b/division-3/29ma.md"
+            },
+            {
+              "id": "29MB",
+              "title": "Documents required to bear ABNs",
+              "path": "part-2b/division-3/29mb.md"
+            },
+            {
+              "id": "29MC",
+              "title": "APRA to give notice of refusal of applications",
+              "path": "part-2b/division-3/29mc.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Cancelling registration",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29N",
+              "title": "Cancelling registration",
+              "path": "part-2b/division-4/29n.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "RSE licensees must provide information about registrable superannuation entities",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Annual members’ meetings",
+              "sections": [
+                {
+                  "id": "29P",
+                  "title": "Annual members’ meeting",
+                  "path": "part-2b/division-5/29p.md"
+                },
+                {
+                  "id": "29PA",
+                  "title": "Obligation to attend an annual members’ meeting",
+                  "path": "part-2b/division-5/29pa.md"
+                },
+                {
+                  "id": "29PB",
+                  "title": "Obligation on responsible officers of RSE licensees to answer questions",
+                  "path": "part-2b/division-5/29pb.md"
+                },
+                {
+                  "id": "29PC",
+                  "title": "Obligation on individual trustees to answer questions",
+                  "path": "part-2b/division-5/29pc.md"
+                },
+                {
+                  "id": "29PD",
+                  "title": "Obligation on auditor to answer questions",
+                  "path": "part-2b/division-5/29pd.md"
+                },
+                {
+                  "id": "29PE",
+                  "title": "Obligation on actuary to answer questions",
+                  "path": "part-2b/division-5/29pe.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Other obligations in relation to information",
+              "sections": [
+                {
+                  "id": "29QC",
+                  "title": "Obligation to give consistent information",
+                  "path": "part-2b/division-5/29qc.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "2C",
+      "title": "MySuper",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object of this Part",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29R",
+              "title": "Object of this Part",
+              "path": "part-2c/division-1/29r.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Applying for authority",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29S",
+              "title": "Application for authority to offer a MySuper product",
+              "path": "part-2c/division-2/29s.md"
+            },
+            {
+              "id": "29SA",
+              "title": "APRA may request further information",
+              "path": "part-2c/division-2/29sa.md"
+            },
+            {
+              "id": "29SAA",
+              "title": "Election to transfer accrued default amounts",
+              "path": "part-2c/division-2/29saa.md"
+            },
+            {
+              "id": "29SAB",
+              "title": "Election to transfer assets attributed to a MySuper product if authorisation cancelled",
+              "path": "part-2c/division-2/29sab.md"
+            },
+            {
+              "id": "29SAC",
+              "title": "Election not to charge MySuper members for payment of conflicted remuneration",
+              "path": "part-2c/division-2/29sac.md"
+            },
+            {
+              "id": "29SB",
+              "title": "Period for deciding applications for authority",
+              "path": "part-2c/division-2/29sb.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Authority",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29T",
+              "title": "Authority to offer a MySuper product",
+              "path": "part-2c/division-3/29t.md"
+            },
+            {
+              "id": "29TA",
+              "title": "Product in another fund in which there is already material goodwill",
+              "path": "part-2c/division-3/29ta.md"
+            },
+            {
+              "id": "29TB",
+              "title": "MySuper products for large employers",
+              "path": "part-2c/division-3/29tb.md"
+            },
+            {
+              "id": "29TC",
+              "title": "Characteristics of a MySuper product",
+              "path": "part-2c/division-3/29tc.md"
+            },
+            {
+              "id": "29TD",
+              "title": "Notice of authority",
+              "path": "part-2c/division-3/29td.md"
+            },
+            {
+              "id": "29TE",
+              "title": "APRA to give notice of refusal of authority",
+              "path": "part-2c/division-3/29te.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Cancelling authority",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29U",
+              "title": "Cancelling authority to offer MySuper product",
+              "path": "part-2c/division-4/29u.md"
+            },
+            {
+              "id": "29UA",
+              "title": "Cancellation of authority of an RSE licensee that is also a financial services licensee",
+              "path": "part-2c/division-4/29ua.md"
+            },
+            {
+              "id": "29UB",
+              "title": "APRA may allow authority to continue in effect",
+              "path": "part-2c/division-4/29ub.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Fees rules for MySuper products",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29V",
+              "title": "Fees that may be charged in relation to a MySuper product",
+              "path": "part-2c/division-5/29v.md"
+            },
+            {
+              "id": "29VA",
+              "title": "Charging rules",
+              "path": "part-2c/division-5/29va.md"
+            },
+            {
+              "id": "29VB",
+              "title": "Administration fee exemption for employees of an employer-sponsor",
+              "path": "part-2c/division-5/29vb.md"
+            },
+            {
+              "id": "29VC",
+              "title": "Activity fees and insurance fees to be charged on a cost recovery basis",
+              "path": "part-2c/division-5/29vc.md"
+            },
+            {
+              "id": "29VD",
+              "title": "Performance-based fees",
+              "path": "part-2c/division-5/29vd.md"
+            },
+            {
+              "id": "29VE",
+              "title": "Percentage-based administration fees may be capped",
+              "path": "part-2c/division-5/29ve.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Offences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29W",
+              "title": "Offering a product as a MySuper product when not authorised to do so",
+              "path": "part-2c/division-7/29w.md"
+            },
+            {
+              "id": "29WA",
+              "title": "Contributions in relation to which no election is made are to be paid into MySuper product",
+              "path": "part-2c/division-7/29wa.md"
+            },
+            {
+              "id": "29WB",
+              "title": "",
+              "path": "part-2c/division-7/29wb.md"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "Other matters",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "29X",
+              "title": "Prudential standards dealing with accrued default amounts",
+              "path": "part-2c/division-8/29x.md"
+            },
+            {
+              "id": "29XA",
+              "title": "Prudential standards dealing with assets attributed to former MySuper products",
+              "path": "part-2c/division-8/29xa.md"
+            },
+            {
+              "id": "29XB",
+              "title": "No liability for certain transfers",
+              "path": "part-2c/division-8/29xb.md"
+            },
+            {
+              "id": "29XC",
+              "title": "Public sector superannuation scheme ceases to be exempt",
+              "path": "part-2c/division-8/29xc.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "3",
+      "title": "Operating standards",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object of Part",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "30",
+              "title": "Object of Part",
+              "path": "part-3/division-1/30.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Operating standards",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "31",
+              "title": "Operating standards for regulated superannuation funds",
+              "path": "part-3/division-2/31.md"
+            },
+            {
+              "id": "32",
+              "title": "Operating standards for approved deposit funds",
+              "path": "part-3/division-2/32.md"
+            },
+            {
+              "id": "33",
+              "title": "Operating standards for pooled superannuation trusts",
+              "path": "part-3/division-2/33.md"
+            },
+            {
+              "id": "33A",
+              "title": "Relationship between operating standards, this Act and the regulations",
+              "path": "part-3/division-2/33a.md"
+            },
+            {
+              "id": "34",
+              "title": "Prescribed operating standards must be complied with",
+              "path": "part-3/division-2/34.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Portability forms",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "34A",
+              "title": "Portability forms",
+              "path": "part-3/division-3/34a.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "3A",
+      "title": "Prudential standards",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "34B",
+          "title": "Object of this Part",
+          "path": "part-3a/division-unknown/34b.md"
+        },
+        {
+          "id": "34C",
+          "title": "APRA may determine prudential standards",
+          "path": "part-3a/division-unknown/34c.md"
+        },
+        {
+          "id": "34D",
+          "title": "Relationship between prudential standards, this Act and the regulations",
+          "path": "part-3a/division-unknown/34d.md"
+        },
+        {
+          "id": "34E",
+          "title": "Notice of determination, variation or revocation of certain prudential standards",
+          "path": "part-3a/division-unknown/34e.md"
+        },
+        {
+          "id": "34F",
+          "title": "APRA to monitor prudential matters",
+          "path": "part-3a/division-unknown/34f.md"
+        }
+      ]
+    },
+    {
+      "id": "3B",
+      "title": "Superannuation data and payment regulations and standards",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Superannuation data and payment regulations and standards",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "34H",
+              "title": "Object of Part",
+              "path": "part-3b/division-1/34h.md"
+            },
+            {
+              "id": "34J",
+              "title": "Alternative constitutional basis",
+              "path": "part-3b/division-1/34j.md"
+            },
+            {
+              "id": "34K",
+              "title": "Superannuation data and payment regulations and standards",
+              "path": "part-3b/division-1/34k.md"
+            },
+            {
+              "id": "34L",
+              "title": "Relationship between standards and other law",
+              "path": "part-3b/division-1/34l.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Compliance with superannuation data and payment regulations and standards",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "34M",
+              "title": "Compliance requirement—trustees of eligible superannuation entities",
+              "path": "part-3b/division-2/34m.md"
+            },
+            {
+              "id": "34N",
+              "title": "Compliance requirement—employers",
+              "path": "part-3b/division-2/34n.md"
+            },
+            {
+              "id": "34P",
+              "title": "Regulator’s power to give directions in certain circumstances—trustees of eligible superannuation entities",
+              "path": "part-3b/division-2/34p.md"
+            },
+            {
+              "id": "34Q",
+              "title": "Regulator’s power to give directions in certain circumstances—employers",
+              "path": "part-3b/division-2/34q.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Infringement notices",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "34R",
+              "title": "When an infringement notice may be given",
+              "path": "part-3b/division-3/34r.md"
+            },
+            {
+              "id": "34S",
+              "title": "Matters to be included in notice",
+              "path": "part-3b/division-3/34s.md"
+            },
+            {
+              "id": "34T",
+              "title": "Extension of time to pay amount",
+              "path": "part-3b/division-3/34t.md"
+            },
+            {
+              "id": "34U",
+              "title": "Withdrawal of an infringement notice",
+              "path": "part-3b/division-3/34u.md"
+            },
+            {
+              "id": "34V",
+              "title": "Effect of payment of amount",
+              "path": "part-3b/division-3/34v.md"
+            },
+            {
+              "id": "34W",
+              "title": "Effect of this Division",
+              "path": "part-3b/division-3/34w.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Information",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Correction and rectification of information",
+              "sections": [
+                {
+                  "id": "34X",
+                  "title": "Correction and rectification of information",
+                  "path": "part-3b/division-4/34x.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Register of information about certain funds and schemes",
+              "sections": [
+                {
+                  "id": "34Y",
+                  "title": "Register of information about certain funds and schemes",
+                  "path": "part-3b/division-4/34y.md"
+                },
+                {
+                  "id": "34Z",
+                  "title": "Trustees to provide information for inclusion in register",
+                  "path": "part-3b/division-4/34z.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "4",
+      "title": "Accounts, audit and reporting obligations for superannuation entities",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Objects",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "35",
+              "title": "Objects of Part",
+              "path": "part-4/division-1/35.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Obligations for registrable superannuation entities",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "35A",
+              "title": "Accounting records",
+              "path": "part-4/division-2/35a.md"
+            },
+            {
+              "id": "35AB",
+              "title": "Auditor requests for documents",
+              "path": "part-4/division-2/35ab.md"
+            },
+            {
+              "id": "35AC",
+              "title": "Appointed auditor’s functions and duties",
+              "path": "part-4/division-2/35ac.md"
+            },
+            {
+              "id": "35AD",
+              "title": "Appointed actuary’s functions and duties",
+              "path": "part-4/division-2/35ad.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Obligations for self managed superannuation funds",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "35AE",
+              "title": "Accounting records",
+              "path": "part-4/division-3/35ae.md"
+            },
+            {
+              "id": "35B",
+              "title": "Accounts and statements",
+              "path": "part-4/division-3/35b.md"
+            },
+            {
+              "id": "35C",
+              "title": "Audit of accounts and statements",
+              "path": "part-4/division-3/35c.md"
+            },
+            {
+              "id": "35D",
+              "title": "Trustee to lodge annual returns",
+              "path": "part-4/division-3/35d.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "5",
+      "title": "Notices about complying fund status",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Objects and interpretation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "37",
+              "title": "Objects of Part",
+              "path": "part-5/division-1/37.md"
+            },
+            {
+              "id": "38",
+              "title": "Meaning of entity",
+              "path": "part-5/division-1/38.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "The Regulator may give notices about complying fund status",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "38A",
+              "title": "Meaning of regulatory provision",
+              "path": "part-5/division-2/38a.md"
+            },
+            {
+              "id": "39",
+              "title": "Meaning of contravention",
+              "path": "part-5/division-2/39.md"
+            },
+            {
+              "id": "40",
+              "title": "Notices by the Regulator to trustee",
+              "path": "part-5/division-2/40.md"
+            },
+            {
+              "id": "41",
+              "title": "When the Regulator obliged to give notice of compliance",
+              "path": "part-5/division-2/41.md"
+            },
+            {
+              "id": "42",
+              "title": "Complying superannuation fund",
+              "path": "part-5/division-2/42.md"
+            },
+            {
+              "id": "42A",
+              "title": "Complying superannuation fund—fund that has been a self managed superannuation fund at any time during a year",
+              "path": "part-5/division-2/42a.md"
+            },
+            {
+              "id": "43",
+              "title": "Complying approved deposit fund",
+              "path": "part-5/division-2/43.md"
+            },
+            {
+              "id": "44",
+              "title": "Pooled superannuation trust",
+              "path": "part-5/division-2/44.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Complying fund status for tax purposes",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "45",
+              "title": "Complying superannuation fund",
+              "path": "part-5/division-3/45.md"
+            },
+            {
+              "id": "46",
+              "title": "Complying superannuation scheme—superannuation guarantee charge",
+              "path": "part-5/division-3/46.md"
+            },
+            {
+              "id": "47",
+              "title": "Complying approved deposit fund",
+              "path": "part-5/division-3/47.md"
+            },
+            {
+              "id": "48",
+              "title": "Pooled superannuation trust",
+              "path": "part-5/division-3/48.md"
+            },
+            {
+              "id": "49",
+              "title": "Transitional—notices under the repealed provisions of the Occupational Superannuation Standards Act 1987",
+              "path": "part-5/division-3/49.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "6",
+      "title": "Provisions relating to governing rules of superannuation entities",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "51",
+          "title": "Object of Part",
+          "path": "part-6/division-unknown/51.md"
+        },
+        {
+          "id": "51A",
+          "title": "Covenants are cumulative",
+          "path": "part-6/division-unknown/51a.md"
+        },
+        {
+          "id": "52",
+          "title": "Covenants to be included in governing rules—registrable superannuation entities",
+          "path": "part-6/division-unknown/52.md"
+        },
+        {
+          "id": "52A",
+          "title": "Covenants relating to directors to be included in governing rules—registrable superannuation entities",
+          "path": "part-6/division-unknown/52a.md"
+        },
+        {
+          "id": "52AA",
+          "title": "Retirement income strategy requirements—registrable superannuation entities",
+          "path": "part-6/division-unknown/52aa.md"
+        },
+        {
+          "id": "52B",
+          "title": "Covenants to be included in governing rules—self managed superannuation funds",
+          "path": "part-6/division-unknown/52b.md"
+        },
+        {
+          "id": "52C",
+          "title": "Covenant relating to directors to be included in governing rules—self managed superannuation funds",
+          "path": "part-6/division-unknown/52c.md"
+        },
+        {
+          "id": "53",
+          "title": "Covenants to repay amounts to beneficiaries in approved deposit funds",
+          "path": "part-6/division-unknown/53.md"
+        },
+        {
+          "id": "54",
+          "title": "Prerequisites to variation of repayment period",
+          "path": "part-6/division-unknown/54.md"
+        },
+        {
+          "id": "54A",
+          "title": "Regulations may prescribe other covenants",
+          "path": "part-6/division-unknown/54a.md"
+        },
+        {
+          "id": "54B",
+          "title": "Civil and criminal consequences for contravening sections 52 and 52A covenants",
+          "path": "part-6/division-unknown/54b.md"
+        },
+        {
+          "id": "54C",
+          "title": "Other covenants must not be contravened",
+          "path": "part-6/division-unknown/54c.md"
+        },
+        {
+          "id": "55",
+          "title": "Recovering loss or damage for contravention of covenant",
+          "path": "part-6/division-unknown/55.md"
+        },
+        {
+          "id": "55A",
+          "title": "Rules about cashing benefits after death of members",
+          "path": "part-6/division-unknown/55a.md"
+        },
+        {
+          "id": "55B",
+          "title": "Governing rules do not prevent giving effect to certain elections",
+          "path": "part-6/division-unknown/55b.md"
+        },
+        {
+          "id": "55C",
+          "title": "Governing rules do not prevent transfer from pre-MySuper default option to MySuper product",
+          "path": "part-6/division-unknown/55c.md"
+        },
+        {
+          "id": "56",
+          "title": "Indemnification of trustee from assets of entity",
+          "path": "part-6/division-unknown/56.md"
+        },
+        {
+          "id": "57",
+          "title": "Indemnification of directors of trustee from assets of entity",
+          "path": "part-6/division-unknown/57.md"
+        },
+        {
+          "id": "58",
+          "title": "Trustee not to be subject to direction",
+          "path": "part-6/division-unknown/58.md"
+        },
+        {
+          "id": "58A",
+          "title": "Service providers and investments cannot be limited to particular persons or associates",
+          "path": "part-6/division-unknown/58a.md"
+        },
+        {
+          "id": "58B",
+          "title": "Service providers and investments",
+          "path": "part-6/division-unknown/58b.md"
+        },
+        {
+          "id": "59",
+          "title": "Exercise of discretion by person other than trustee",
+          "path": "part-6/division-unknown/59.md"
+        },
+        {
+          "id": "60",
+          "title": "Amendment of governing rules",
+          "path": "part-6/division-unknown/60.md"
+        },
+        {
+          "id": "60A",
+          "title": "Dismissal of trustee of public offer entity",
+          "path": "part-6/division-unknown/60a.md"
+        }
+      ]
+    },
+    {
+      "id": "6A",
+      "title": "Annual performance assessments etc.",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "60B",
+          "title": "Meaning of Part 6A product",
+          "path": "part-6a/division-unknown/60b.md"
+        },
+        {
+          "id": "60C",
+          "title": "Regulator to make annual performance assessments",
+          "path": "part-6a/division-unknown/60c.md"
+        },
+        {
+          "id": "60D",
+          "title": "Requirements for assessment",
+          "path": "part-6a/division-unknown/60d.md"
+        },
+        {
+          "id": "60E",
+          "title": "Trustee to notify beneficiaries of fail assessment",
+          "path": "part-6a/division-unknown/60e.md"
+        },
+        {
+          "id": "60F",
+          "title": "Consequences of 2 consecutive fail assessments",
+          "path": "part-6a/division-unknown/60f.md"
+        },
+        {
+          "id": "60G",
+          "title": "Multiple Part 6A products treated as one Part 6A product in certain circumstances",
+          "path": "part-6a/division-unknown/60g.md"
+        },
+        {
+          "id": "60H",
+          "title": "Requirements for contributions to blocked fund not enforceable",
+          "path": "part-6a/division-unknown/60h.md"
+        },
+        {
+          "id": "60J",
+          "title": "Formulas for ranking products",
+          "path": "part-6a/division-unknown/60j.md"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Provisions applying only to regulated superannuation funds",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "61",
+          "title": "Object of Part",
+          "path": "part-7/division-unknown/61.md"
+        },
+        {
+          "id": "62",
+          "title": "Sole purpose test",
+          "path": "part-7/division-unknown/62.md"
+        },
+        {
+          "id": "62A",
+          "title": "Self managed superannuation funds—investment in collectables and personal use assets",
+          "path": "part-7/division-unknown/62a.md"
+        },
+        {
+          "id": "63",
+          "title": "Certain regulated superannuation funds not to accept employer contributions in certain circumstances",
+          "path": "part-7/division-unknown/63.md"
+        },
+        {
+          "id": "64",
+          "title": "Superannuation contributions—deductions from salary or wages to be remitted promptly",
+          "path": "part-7/division-unknown/64.md"
+        },
+        {
+          "id": "65",
+          "title": "Lending to members of regulated superannuation fund prohibited",
+          "path": "part-7/division-unknown/65.md"
+        },
+        {
+          "id": "66",
+          "title": "Acquisitions of certain assets from members of regulated superannuation funds prohibited",
+          "path": "part-7/division-unknown/66.md"
+        },
+        {
+          "id": "67",
+          "title": "Borrowing",
+          "path": "part-7/division-unknown/67.md"
+        },
+        {
+          "id": "67A",
+          "title": "Limited recourse borrowing arrangements",
+          "path": "part-7/division-unknown/67a.md"
+        },
+        {
+          "id": "67B",
+          "title": "Limited recourse borrowing arrangements—replacement assets",
+          "path": "part-7/division-unknown/67b.md"
+        },
+        {
+          "id": "68",
+          "title": "Victimisation of trustees etc.",
+          "path": "part-7/division-unknown/68.md"
+        },
+        {
+          "id": "68A",
+          "title": "Trustees must not use goods or services to influence employers",
+          "path": "part-7/division-unknown/68a.md"
+        },
+        {
+          "id": "68AA",
+          "title": "Benefits for permanent incapacity and death—MySuper members",
+          "path": "part-7/division-unknown/68aa.md"
+        },
+        {
+          "id": "68AAA",
+          "title": "Benefits provided by taking out insurance—inactive accounts",
+          "path": "part-7/division-unknown/68aaa.md"
+        },
+        {
+          "id": "68AAB",
+          "title": "Benefits provided by taking out insurance—low-balance accounts",
+          "path": "part-7/division-unknown/68aab.md"
+        },
+        {
+          "id": "68AAC",
+          "title": "",
+          "path": "part-7/division-unknown/68aac.md"
+        },
+        {
+          "id": "68AAD",
+          "title": "Sections 68AAA, 68AAB and 68AAC do not apply to funds with no more than 6 members",
+          "path": "part-7/division-unknown/68aad.md"
+        },
+        {
+          "id": "68AAE",
+          "title": "Employer-sponsor contribution exception",
+          "path": "part-7/division-unknown/68aae.md"
+        },
+        {
+          "id": "68AAF",
+          "title": "Dangerous occupation exception",
+          "path": "part-7/division-unknown/68aaf.md"
+        },
+        {
+          "id": "68B",
+          "title": "Promotion of illegal early release schemes",
+          "path": "part-7/division-unknown/68b.md"
+        },
+        {
+          "id": "68C",
+          "title": "Voting by a director of a corporate trustee—governing rules",
+          "path": "part-7/division-unknown/68c.md"
+        },
+        {
+          "id": "68D",
+          "title": "Voting by an individual trustee—governing rules",
+          "path": "part-7/division-unknown/68d.md"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "In-house asset rules applying to regulated superannuation funds",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object and interpretation",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "General",
+              "sections": [
+                {
+                  "id": "69",
+                  "title": "Object of Part",
+                  "path": "part-8/division-1/69.md"
+                },
+                {
+                  "id": "69A",
+                  "title": "Sub-funds to be treated as funds",
+                  "path": "part-8/division-1/69a.md"
+                },
+                {
+                  "id": "70A",
+                  "title": "The Regulator may determine a person to be a standard employer-sponsor",
+                  "path": "part-8/division-1/70a.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Part 8 associates",
+              "sections": [
+                {
+                  "id": "70B",
+                  "title": "Part 8 associates of individuals",
+                  "path": "part-8/division-1/70b.md"
+                },
+                {
+                  "id": "70C",
+                  "title": "Part 8 associates of companies",
+                  "path": "part-8/division-1/70c.md"
+                },
+                {
+                  "id": "70D",
+                  "title": "Part 8 associates of partnerships",
+                  "path": "part-8/division-1/70d.md"
+                },
+                {
+                  "id": "70E",
+                  "title": "Meanings of terms used in sections 70B, 70C and 70D",
+                  "path": "part-8/division-1/70e.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "In-house assets",
+              "sections": [
+                {
+                  "id": "71",
+                  "title": "Meaning of in-house asset",
+                  "path": "part-8/division-1/71.md"
+                }
+              ]
+            },
+            {
+              "id": "D",
+              "title": "Transitional arrangements in relation to in-house assets",
+              "sections": [
+                {
+                  "id": "71A",
+                  "title": "Exceptions—pre-11 August 1999 investments and loans",
+                  "path": "part-8/division-1/71a.md"
+                },
+                {
+                  "id": "71B",
+                  "title": "Exceptions—pre-11 August 1999 leases and lease arrangements",
+                  "path": "part-8/division-1/71b.md"
+                },
+                {
+                  "id": "71C",
+                  "title": "Exceptions—transition period",
+                  "path": "part-8/division-1/71c.md"
+                },
+                {
+                  "id": "71D",
+                  "title": "Exception—reinvestments",
+                  "path": "part-8/division-1/71d.md"
+                },
+                {
+                  "id": "71E",
+                  "title": "Exception—certain geared investments",
+                  "path": "part-8/division-1/71e.md"
+                },
+                {
+                  "id": "71EA",
+                  "title": "Relationship breakdowns",
+                  "path": "part-8/division-1/71ea.md"
+                },
+                {
+                  "id": "71F",
+                  "title": "Meaning of certain terms used in Subdivision D",
+                  "path": "part-8/division-1/71f.md"
+                },
+                {
+                  "id": "72",
+                  "title": "",
+                  "path": "part-8/division-1/72.md"
+                }
+              ]
+            },
+            {
+              "id": "E",
+              "title": "Other provisions in relation to in-house assets",
+              "sections": [
+                {
+                  "id": "73",
+                  "title": "Cost of in-house asset",
+                  "path": "part-8/division-1/73.md"
+                },
+                {
+                  "id": "74",
+                  "title": "Historical cost ratio of fund’s in-house assets",
+                  "path": "part-8/division-1/74.md"
+                },
+                {
+                  "id": "75",
+                  "title": "Market value ratio of fund’s in-house assets",
+                  "path": "part-8/division-1/75.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "2",
+          "title": "Historical cost ratio of fund’s in-house assets",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "76",
+              "title": "Private sector funds established on or after 12 March 1985— historical cost ratio for the 1994-95 year of income",
+              "path": "part-8/division-2/76.md"
+            },
+            {
+              "id": "77",
+              "title": "Private sector funds established before 12 March 1985— historical cost ratio for the 1994-95 year of income",
+              "path": "part-8/division-2/77.md"
+            },
+            {
+              "id": "78",
+              "title": "Public sector funds established on or after 1 July 1990— historical cost ratio for the 1994-95 year of income",
+              "path": "part-8/division-2/78.md"
+            },
+            {
+              "id": "79",
+              "title": "Public sector funds established before 1 July 1990— historical cost ratio for the 1994-95 year of income",
+              "path": "part-8/division-2/79.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Market value ratio of fund’s in-house assets",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "80A",
+              "title": "Division not applicable to certain funds",
+              "path": "part-8/division-3/80a.md"
+            },
+            {
+              "id": "81",
+              "title": "All funds—market value ratio for the 1998-99 year of income and the 1999-2000 year of income",
+              "path": "part-8/division-3/81.md"
+            },
+            {
+              "id": "82",
+              "title": "All funds—market value ratio for the 2000-2001 year of income and later years of income",
+              "path": "part-8/division-3/82.md"
+            },
+            {
+              "id": "83",
+              "title": "Certain new in-house asset investments prohibited",
+              "path": "part-8/division-3/83.md"
+            }
+          ]
+        },
+        {
+          "id": "3A",
+          "title": "Limit on in-house assets of certain defined benefit funds",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "83A",
+              "title": "Definitions",
+              "path": "part-8/division-3a/83a.md"
+            },
+            {
+              "id": "83B",
+              "title": "Application of Division",
+              "path": "part-8/division-3a/83b.md"
+            },
+            {
+              "id": "83C",
+              "title": "Maximum permitted market value of in-house assets",
+              "path": "part-8/division-3a/83c.md"
+            },
+            {
+              "id": "83D",
+              "title": "Limit on in-house assets",
+              "path": "part-8/division-3a/83d.md"
+            },
+            {
+              "id": "83E",
+              "title": "Acquisition of in-house assets prohibited in certain circumstances",
+              "path": "part-8/division-3a/83e.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Enforcement",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "84",
+              "title": "In-house asset rules must be complied with",
+              "path": "part-8/division-4/84.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Anti-avoidance",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "85",
+              "title": "Prohibition of avoidance schemes",
+              "path": "part-8/division-5/85.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "9",
+      "title": "Equal representation of employers and members—employer-sponsored funds",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "86",
+          "title": "Object of Part",
+          "path": "part-9/division-unknown/86.md"
+        },
+        {
+          "id": "87",
+          "title": "Consequences of non-compliance with this Part",
+          "path": "part-9/division-unknown/87.md"
+        },
+        {
+          "id": "88",
+          "title": "This Part does not apply if acting trustee appointed under Part 17",
+          "path": "part-9/division-unknown/88.md"
+        },
+        {
+          "id": "89",
+          "title": "Basic equal representation rules",
+          "path": "part-9/division-unknown/89.md"
+        },
+        {
+          "id": "90",
+          "title": "Pre-1 July 1995 rules—funds with fewer than 200 members",
+          "path": "part-9/division-unknown/90.md"
+        },
+        {
+          "id": "91",
+          "title": "Pre-1 July 1995 rules—funds with 200 or more members",
+          "path": "part-9/division-unknown/91.md"
+        },
+        {
+          "id": "92",
+          "title": "Post-30 June 1995 rules—funds with more than 6, but fewer than 50, members",
+          "path": "part-9/division-unknown/92.md"
+        },
+        {
+          "id": "93",
+          "title": "Post-30 June 1995 rules—funds with more than 49 members",
+          "path": "part-9/division-unknown/93.md"
+        },
+        {
+          "id": "93A",
+          "title": "A trustee who is an employer-sponsor of a fund may still be an independent trustee",
+          "path": "part-9/division-unknown/93a.md"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Provisions applying only to approved deposit funds",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "94",
+          "title": "Object of Part",
+          "path": "part-10/division-unknown/94.md"
+        },
+        {
+          "id": "95",
+          "title": "Borrowing",
+          "path": "part-10/division-unknown/95.md"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Provisions applying only to pooled superannuation trusts",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "96",
+          "title": "Object of Part",
+          "path": "part-11/division-unknown/96.md"
+        },
+        {
+          "id": "97",
+          "title": "Borrowing",
+          "path": "part-11/division-unknown/97.md"
+        },
+        {
+          "id": "98",
+          "title": "Lending to unit-holders prohibited",
+          "path": "part-11/division-unknown/98.md"
+        },
+        {
+          "id": "99",
+          "title": "Civil penalty provisions",
+          "path": "part-11/division-unknown/99.md"
+        }
+      ]
+    },
+    {
+      "id": "11A",
+      "title": "General fees rules",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "99A",
+          "title": "Application",
+          "path": "part-11a/division-unknown/99a.md"
+        },
+        {
+          "id": "99B",
+          "title": "No entry fees",
+          "path": "part-11a/division-unknown/99b.md"
+        },
+        {
+          "id": "99BA",
+          "title": "No exit fees",
+          "path": "part-11a/division-unknown/99ba.md"
+        },
+        {
+          "id": "99C",
+          "title": "Buy-sell spreads and switching fees to be charged on a cost recovery basis",
+          "path": "part-11a/division-unknown/99c.md"
+        },
+        {
+          "id": "99D",
+          "title": "Cost of advice to employers not to be borne by members",
+          "path": "part-11a/division-unknown/99d.md"
+        },
+        {
+          "id": "99E",
+          "title": "Fair and reasonable attribution of costs between classes of beneficial interest in a regulated superannuation fund",
+          "path": "part-11a/division-unknown/99e.md"
+        },
+        {
+          "id": "99F",
+          "title": "Cost of financial product advice—collectively charged fees",
+          "path": "part-11a/division-unknown/99f.md"
+        },
+        {
+          "id": "99FA",
+          "title": "Cost of financial product advice—fees charged to member concerned",
+          "path": "part-11a/division-unknown/99fa.md"
+        },
+        {
+          "id": "99G",
+          "title": "Fee cap on low balances",
+          "path": "part-11a/division-unknown/99g.md"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Duties of trustees and investment managers of superannuation entities",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "100",
+          "title": "Object of Part",
+          "path": "part-12/division-unknown/100.md"
+        },
+        {
+          "id": "101",
+          "title": "Dispute resolution systems",
+          "path": "part-12/division-unknown/101.md"
+        },
+        {
+          "id": "102",
+          "title": "Duty to seek information from investment manager",
+          "path": "part-12/division-unknown/102.md"
+        },
+        {
+          "id": "103",
+          "title": "Duty to keep minutes and records",
+          "path": "part-12/division-unknown/103.md"
+        },
+        {
+          "id": "104",
+          "title": "Duty to keep records of changes of trustees",
+          "path": "part-12/division-unknown/104.md"
+        },
+        {
+          "id": "104A",
+          "title": "Trustees etc. of self managed superannuation fund— recognition of obligations and responsibilities",
+          "path": "part-12/division-unknown/104a.md"
+        },
+        {
+          "id": "105",
+          "title": "Duty to keep reports",
+          "path": "part-12/division-unknown/105.md"
+        },
+        {
+          "id": "106",
+          "title": "Duty to notify the Regulator of significant adverse events",
+          "path": "part-12/division-unknown/106.md"
+        },
+        {
+          "id": "106A",
+          "title": "Duty to notify Commissioner of Taxation of change in status of entity",
+          "path": "part-12/division-unknown/106a.md"
+        },
+        {
+          "id": "107",
+          "title": "Duty of trustee of employer-sponsored fund to establish procedure for appointing member representatives",
+          "path": "part-12/division-unknown/107.md"
+        },
+        {
+          "id": "108A",
+          "title": "Trustee’s duty to identify etc. multiple superannuation accounts of members",
+          "path": "part-12/division-unknown/108a.md"
+        },
+        {
+          "id": "109",
+          "title": "Investments of superannuation entity to be made and maintained on arm’s length basis",
+          "path": "part-12/division-unknown/109.md"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Other provisions applying to superannuation entities",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "114",
+          "title": "Object of Part",
+          "path": "part-14/division-unknown/114.md"
+        },
+        {
+          "id": "115",
+          "title": "Trustee of superannuation entity may maintain reserves",
+          "path": "part-14/division-unknown/115.md"
+        },
+        {
+          "id": "116",
+          "title": "Agreement between trustee and investment manager",
+          "path": "part-14/division-unknown/116.md"
+        },
+        {
+          "id": "117",
+          "title": "Circumstances in which amounts may be paid out of an employer-sponsored fund to an employer-sponsor",
+          "path": "part-14/division-unknown/117.md"
+        },
+        {
+          "id": "118",
+          "title": "Consents to appointments",
+          "path": "part-14/division-unknown/118.md"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Standards for trustees, custodians and investment managers of superannuation entities",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object of Part and definition of disqualified person",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "119",
+              "title": "Object of Part",
+              "path": "part-15/division-1/119.md"
+            },
+            {
+              "id": "120",
+              "title": "Disqualified persons",
+              "path": "part-15/division-1/120.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Requirements for custodians and investment managers",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "122",
+              "title": "Investment manager must not appoint or engage custodian without the trustee’s consent",
+              "path": "part-15/division-2/122.md"
+            },
+            {
+              "id": "123",
+              "title": "Persons who may be appointed to be custodians of superannuation entities",
+              "path": "part-15/division-2/123.md"
+            },
+            {
+              "id": "124",
+              "title": "Investment managers must be appointed in writing",
+              "path": "part-15/division-2/124.md"
+            },
+            {
+              "id": "125",
+              "title": "Individuals not to be investment managers of superannuation entities",
+              "path": "part-15/division-2/125.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Disqualified persons",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Disqualification by the Commissioner of Taxation",
+              "sections": [
+                {
+                  "id": "126",
+                  "title": "Application of this Subdivision",
+                  "path": "part-15/division-3/126.md"
+                },
+                {
+                  "id": "126A",
+                  "title": "The Regulator may disqualify individuals",
+                  "path": "part-15/division-3/126a.md"
+                },
+                {
+                  "id": "126B",
+                  "title": "Application for waiver of disqualified status",
+                  "path": "part-15/division-3/126b.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Disqualification by the Federal Court of Australia",
+              "sections": [
+                {
+                  "id": "126G",
+                  "title": "Application of this Subdivision",
+                  "path": "part-15/division-3/126g.md"
+                },
+                {
+                  "id": "126H",
+                  "title": "Court power of disqualification",
+                  "path": "part-15/division-3/126h.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "Other matters relating to disqualification",
+              "sections": [
+                {
+                  "id": "126K",
+                  "title": "Disqualified persons not to be trustees, investment managers or custodians of superannuation entities",
+                  "path": "part-15/division-3/126k.md"
+                }
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "126C",
+              "title": "Application must be decided within a period of time",
+              "path": "part-15/division-3/126c.md"
+            },
+            {
+              "id": "126D",
+              "title": "Notifying of the outcome of an application",
+              "path": "part-15/division-3/126d.md"
+            },
+            {
+              "id": "126E",
+              "title": "The effect of seeking a waiver of disqualified person status",
+              "path": "part-15/division-3/126e.md"
+            },
+            {
+              "id": "126F",
+              "title": "The Regulator’s powers to seek further material",
+              "path": "part-15/division-3/126f.md"
+            },
+            {
+              "id": "126J",
+              "title": "Court power to revoke or vary a disqualification etc",
+              "path": "part-15/division-3/126j.md"
+            },
+            {
+              "id": "126L",
+              "title": "Privilege against exposure to penalty—disqualification under section 126A, 126H, 130D or 130EA",
+              "path": "part-15/division-3/126l.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Non-compliance not to invalidate appointment or transaction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "127",
+              "title": "Non-compliance not to invalidate appointment or transaction",
+              "path": "part-15/division-4/127.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "16",
+      "title": "Actuaries and auditors of superannuation entities",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object of Part",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "128",
+              "title": "Object of Part",
+              "path": "part-16/division-1/128.md"
+            }
+          ]
+        },
+        {
+          "id": "1A",
+          "title": "Approved SMSF auditors",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Registration of approved SMSF auditors",
+              "sections": [
+                {
+                  "id": "128A",
+                  "title": "Application for registration as an approved SMSF auditor",
+                  "path": "part-16/division-1a/128a.md"
+                },
+                {
+                  "id": "128B",
+                  "title": "Registration as an approved SMSF auditor",
+                  "path": "part-16/division-1a/128b.md"
+                },
+                {
+                  "id": "128C",
+                  "title": "Competency examinations",
+                  "path": "part-16/division-1a/128c.md"
+                },
+                {
+                  "id": "128D",
+                  "title": "Conditions on registration",
+                  "path": "part-16/division-1a/128d.md"
+                },
+                {
+                  "id": "128E",
+                  "title": "Cancelling registration",
+                  "path": "part-16/division-1a/128e.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Obligations of approved SMSF auditors",
+              "sections": [
+                {
+                  "id": "128F",
+                  "title": "Professional obligations of approved SMSF auditors",
+                  "path": "part-16/division-1a/128f.md"
+                },
+                {
+                  "id": "128G",
+                  "title": "Annual statements",
+                  "path": "part-16/division-1a/128g.md"
+                },
+                {
+                  "id": "128H",
+                  "title": "Notification of certain matters",
+                  "path": "part-16/division-1a/128h.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "Registers",
+              "sections": [
+                {
+                  "id": "128J",
+                  "title": "Register of Approved SMSF Auditors",
+                  "path": "part-16/division-1a/128j.md"
+                },
+                {
+                  "id": "128K",
+                  "title": "Register of Disqualified SMSF Auditors",
+                  "path": "part-16/division-1a/128k.md"
+                }
+              ]
+            },
+            {
+              "id": "D",
+              "title": "Fees",
+              "sections": [
+                {
+                  "id": "128L",
+                  "title": "Fees imposed under the Superannuation Auditor Registration Imposition Act 2012",
+                  "path": "part-16/division-1a/128l.md"
+                },
+                {
+                  "id": "128M",
+                  "title": "Fees for inspection or search",
+                  "path": "part-16/division-1a/128m.md"
+                }
+              ]
+            },
+            {
+              "id": "E",
+              "title": "Miscellaneous",
+              "sections": [
+                {
+                  "id": "128N",
+                  "title": "ASIC may disclose information to the Commissioner of Taxation",
+                  "path": "part-16/division-1a/128n.md"
+                },
+                {
+                  "id": "128P",
+                  "title": "Commissioner of Taxation may refer matters to ASIC",
+                  "path": "part-16/division-1a/128p.md"
+                },
+                {
+                  "id": "128Q",
+                  "title": "Competency standards",
+                  "path": "part-16/division-1a/128q.md"
+                },
+                {
+                  "id": "129",
+                  "title": "Obligations of actuaries and auditors—compliance",
+                  "path": "part-16/division-1a/129.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "2",
+          "title": "Obligations of actuaries and auditors",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "129A",
+              "title": "Obligations of lead auditors—compliance",
+              "path": "part-16/division-2/129a.md"
+            },
+            {
+              "id": "130",
+              "title": "Obligations of actuaries and auditors—solvency",
+              "path": "part-16/division-2/130.md"
+            },
+            {
+              "id": "130A",
+              "title": "Auditor or actuary may give information to the Regulator",
+              "path": "part-16/division-2/130a.md"
+            },
+            {
+              "id": "130AA",
+              "title": "Obligations of lead auditors—solvency",
+              "path": "part-16/division-2/130aa.md"
+            },
+            {
+              "id": "130B",
+              "title": "Self incrimination",
+              "path": "part-16/division-2/130b.md"
+            },
+            {
+              "id": "130BA",
+              "title": "Auditor must notify the Regulator of attempts to unduly influence etc. the auditor etc.",
+              "path": "part-16/division-2/130ba.md"
+            },
+            {
+              "id": "130BAA",
+              "title": "Lead auditor—obligation to notify the Regulator of attempts to unduly influence etc. the auditor etc.",
+              "path": "part-16/division-2/130baa.md"
+            },
+            {
+              "id": "130BB",
+              "title": "Giving false or misleading information to auditor",
+              "path": "part-16/division-2/130bb.md"
+            },
+            {
+              "id": "130C",
+              "title": "Actuaries and auditors—failure to implement actuarial recommendations",
+              "path": "part-16/division-2/130c.md"
+            },
+            {
+              "id": "130CA",
+              "title": "Lead auditors—failure to implement actuarial recommendations",
+              "path": "part-16/division-2/130ca.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Disqualifying and removing actuaries and auditors",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "130D",
+              "title": "Court power of disqualification—auditor or actuary",
+              "path": "part-16/division-3/130d.md"
+            },
+            {
+              "id": "130E",
+              "title": "Court power to revoke or vary a disqualification etc.",
+              "path": "part-16/division-3/130e.md"
+            },
+            {
+              "id": "130EA",
+              "title": "Court power of disqualification—audit firm or audit company",
+              "path": "part-16/division-3/130ea.md"
+            },
+            {
+              "id": "130EB",
+              "title": "Court power to revoke or vary a disqualification etc.",
+              "path": "part-16/division-3/130eb.md"
+            },
+            {
+              "id": "130F",
+              "title": "Approved SMSF auditors—disqualification and suspension orders",
+              "path": "part-16/division-3/130f.md"
+            },
+            {
+              "id": "131",
+              "title": "Actuaries—disqualification orders",
+              "path": "part-16/division-3/131.md"
+            },
+            {
+              "id": "131AA",
+              "title": "APRA may direct removal of auditor or actuary",
+              "path": "part-16/division-3/131aa.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Offences and failure to carry out duties etc.",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "131A",
+              "title": "The Regulator may refer matters to a professional association",
+              "path": "part-16/division-4/131a.md"
+            },
+            {
+              "id": "131B",
+              "title": "Offence of holding oneself out as an actuary or auditor",
+              "path": "part-16/division-4/131b.md"
+            },
+            {
+              "id": "131BA",
+              "title": "Misleading representations by disqualified firm or company",
+              "path": "part-16/division-4/131ba.md"
+            },
+            {
+              "id": "131C",
+              "title": "Disqualified persons not to be auditor or actuary of superannuation entities",
+              "path": "part-16/division-4/131c.md"
+            },
+            {
+              "id": "131CA",
+              "title": "Disqualified firms and disqualified companies not to be an RSE auditor",
+              "path": "part-16/division-4/131ca.md"
+            },
+            {
+              "id": "131CB",
+              "title": "",
+              "path": "part-16/division-4/131cb.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Special provisions relating to firms and companies",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "131CC",
+              "title": "Offences by members of a firm",
+              "path": "part-16/division-5/131cc.md"
+            },
+            {
+              "id": "131CD",
+              "title": "Criminal liability of a firm or company",
+              "path": "part-16/division-5/131cd.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "16A",
+      "title": "APRA’s powers to issue directions",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "General powers to issue directions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "131D",
+              "title": "APRA may give directions to an RSE licensee in relation to licensee’s own conduct",
+              "path": "part-16a/division-1/131d.md"
+            },
+            {
+              "id": "131DA",
+              "title": "APRA may give directions in relation to the conduct of a connected entity of an RSE licensee",
+              "path": "part-16a/division-1/131da.md"
+            },
+            {
+              "id": "131DB",
+              "title": "Machinery provisions relating to directions under this Division",
+              "path": "part-16a/division-1/131db.md"
+            },
+            {
+              "id": "131DC",
+              "title": "Varying or revoking a direction under this Division",
+              "path": "part-16a/division-1/131dc.md"
+            },
+            {
+              "id": "131DD",
+              "title": "Non-compliance with a direction",
+              "path": "part-16a/division-1/131dd.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Directions to relinquish control over an RSE licensee",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "131E",
+              "title": "Object of this Division",
+              "path": "part-16a/division-2/131e.md"
+            },
+            {
+              "id": "131EA",
+              "title": "Application of this Division",
+              "path": "part-16a/division-2/131ea.md"
+            },
+            {
+              "id": "131EB",
+              "title": "Direction to relinquish control",
+              "path": "part-16a/division-2/131eb.md"
+            },
+            {
+              "id": "131EC",
+              "title": "Meaning of practical control",
+              "path": "part-16a/division-2/131ec.md"
+            },
+            {
+              "id": "131ED",
+              "title": "Consequences of a direction to relinquish control",
+              "path": "part-16a/division-2/131ed.md"
+            },
+            {
+              "id": "131EE",
+              "title": "Interim orders",
+              "path": "part-16a/division-2/131ee.md"
+            },
+            {
+              "id": "131EF",
+              "title": "Remedial orders",
+              "path": "part-16a/division-2/131ef.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Provisions relating to all directions under this Act",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "131F",
+              "title": "APRA may give more than one direction",
+              "path": "part-16a/division-3/131f.md"
+            },
+            {
+              "id": "131FA",
+              "title": "RSE licensee and connected entity have power to comply with a direction under this Act",
+              "path": "part-16a/division-3/131fa.md"
+            },
+            {
+              "id": "131FB",
+              "title": "Protection from liability—general",
+              "path": "part-16a/division-3/131fb.md"
+            },
+            {
+              "id": "131FC",
+              "title": "Protection from liability—directions",
+              "path": "part-16a/division-3/131fc.md"
+            },
+            {
+              "id": "131FD",
+              "title": "Protection from liability—provisions do not limit each other",
+              "path": "part-16a/division-3/131fd.md"
+            },
+            {
+              "id": "131FE",
+              "title": "Informing the Treasurer about issue and revocation of directions",
+              "path": "part-16a/division-3/131fe.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "17",
+      "title": "Suspension or removal of trustee of superannuation entity",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "132",
+          "title": "Object of Part",
+          "path": "part-17/division-unknown/132.md"
+        },
+        {
+          "id": "133",
+          "title": "Suspension or removal of trustee of superannuation entity",
+          "path": "part-17/division-unknown/133.md"
+        },
+        {
+          "id": "134",
+          "title": "APRA to appoint acting trustee in cases of suspension or removal",
+          "path": "part-17/division-unknown/134.md"
+        },
+        {
+          "id": "135",
+          "title": "Terms and conditions of appointment of acting trustee",
+          "path": "part-17/division-unknown/135.md"
+        },
+        {
+          "id": "136",
+          "title": "Termination of appointment of acting trustee",
+          "path": "part-17/division-unknown/136.md"
+        },
+        {
+          "id": "137",
+          "title": "Resignation of acting trustee",
+          "path": "part-17/division-unknown/137.md"
+        },
+        {
+          "id": "138",
+          "title": "Property vesting orders",
+          "path": "part-17/division-unknown/138.md"
+        },
+        {
+          "id": "139",
+          "title": "Powers of acting trustee",
+          "path": "part-17/division-unknown/139.md"
+        },
+        {
+          "id": "139A",
+          "title": "Acting trustee authorised to offer a MySuper product",
+          "path": "part-17/division-unknown/139a.md"
+        },
+        {
+          "id": "139B",
+          "title": "Acting trustee authorised to operate an eligible rollover fund",
+          "path": "part-17/division-unknown/139b.md"
+        },
+        {
+          "id": "140",
+          "title": "Acting trustee to notify appointment to beneficiaries",
+          "path": "part-17/division-unknown/140.md"
+        },
+        {
+          "id": "141",
+          "title": "The Regulator may give directions to acting trustee",
+          "path": "part-17/division-unknown/141.md"
+        },
+        {
+          "id": "141A",
+          "title": "",
+          "path": "part-17/division-unknown/141a.md"
+        },
+        {
+          "id": "142",
+          "title": "",
+          "path": "part-17/division-unknown/142.md"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Amalgamation of funds",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "143",
+          "title": "Object of Part",
+          "path": "part-18/division-unknown/143.md"
+        },
+        {
+          "id": "144",
+          "title": "Benefits may be transferred to a new fund with APRA’s approval etc",
+          "path": "part-18/division-unknown/144.md"
+        },
+        {
+          "id": "145",
+          "title": "Application for approval of transfer",
+          "path": "part-18/division-unknown/145.md"
+        },
+        {
+          "id": "146",
+          "title": "Approval of transfer",
+          "path": "part-18/division-unknown/146.md"
+        },
+        {
+          "id": "147",
+          "title": "Cessation of rights against transferor fund",
+          "path": "part-18/division-unknown/147.md"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Public offer entities: provisions relating to superannuation interests",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "151",
+              "title": "Contravention of Part does not affect validity of issue of superannuation interest etc",
+              "path": "part-19/division-1/151.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Issuing, offering etc. superannuation interests in public offer entities",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "152",
+              "title": "Limitation on issuing, offering etc. superannuation interests in public offer entities",
+              "path": "part-19/division-2/152.md"
+            },
+            {
+              "id": "154",
+              "title": "Commission and brokerage",
+              "path": "part-19/division-2/154.md"
+            },
+            {
+              "id": "155",
+              "title": "Fair dealing on issue or redemption of a superannuation interest",
+              "path": "part-19/division-2/155.md"
+            },
+            {
+              "id": "156",
+              "title": "Civil liability where subsection 155(2) contravened",
+              "path": "part-19/division-2/156.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "20",
+      "title": "Administrative directions and penalties for contraventions relating to self managed superannuation funds",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Object and scope of this Part",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "157",
+              "title": "Object of this Part",
+              "path": "part-20/division-1/157.md"
+            },
+            {
+              "id": "158",
+              "title": "Scope of this Part",
+              "path": "part-20/division-1/158.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Directions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "159",
+              "title": "Rectification direction",
+              "path": "part-20/division-2/159.md"
+            },
+            {
+              "id": "160",
+              "title": "Education direction",
+              "path": "part-20/division-2/160.md"
+            },
+            {
+              "id": "161",
+              "title": "Approval of courses of education",
+              "path": "part-20/division-2/161.md"
+            },
+            {
+              "id": "162",
+              "title": "Costs of course of education",
+              "path": "part-20/division-2/162.md"
+            },
+            {
+              "id": "163",
+              "title": "Variation or revocation on Regulator’s own initiative",
+              "path": "part-20/division-2/163.md"
+            },
+            {
+              "id": "164",
+              "title": "Variation on request",
+              "path": "part-20/division-2/164.md"
+            },
+            {
+              "id": "165",
+              "title": "Taxation objection",
+              "path": "part-20/division-2/165.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Administrative penalties",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "166",
+              "title": "Administrative penalties in relation to self managed superannuation funds",
+              "path": "part-20/division-3/166.md"
+            },
+            {
+              "id": "167",
+              "title": "Administrative penalty and civil penalty",
+              "path": "part-20/division-3/167.md"
+            },
+            {
+              "id": "168",
+              "title": "Penalty must not be reimbursed from fund",
+              "path": "part-20/division-3/168.md"
+            },
+            {
+              "id": "169",
+              "title": "",
+              "path": "part-20/division-3/169.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "21",
+      "title": "Civil and criminal consequences of contravening civil penalty provisions",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "192",
+              "title": "Object of Part",
+              "path": "part-21/division-1/192.md"
+            },
+            {
+              "id": "193",
+              "title": "Civil penalty provisions",
+              "path": "part-21/division-1/193.md"
+            },
+            {
+              "id": "194",
+              "title": "Person involved in contravening a provision taken to have contravened the provision",
+              "path": "part-21/division-1/194.md"
+            },
+            {
+              "id": "195",
+              "title": "When a court is taken to find a person guilty of an offence",
+              "path": "part-21/division-1/195.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Civil penalty orders",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "196",
+              "title": "Court may make civil penalty orders",
+              "path": "part-21/division-2/196.md"
+            },
+            {
+              "id": "197",
+              "title": "Who may apply for civil penalty order",
+              "path": "part-21/division-2/197.md"
+            },
+            {
+              "id": "198",
+              "title": "Time limit for application",
+              "path": "part-21/division-2/198.md"
+            },
+            {
+              "id": "199",
+              "title": "Application for civil penalty order is a civil proceeding",
+              "path": "part-21/division-2/199.md"
+            },
+            {
+              "id": "200",
+              "title": "Enforcement of order to pay monetary penalty",
+              "path": "part-21/division-2/200.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Criminal proceedings",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "201A",
+              "title": "Criminal jurisdiction of the Federal Court of Australia in relation to certain indictable offences",
+              "path": "part-21/division-3/201a.md"
+            },
+            {
+              "id": "202",
+              "title": "When contravention of civil penalty provisions is an offence",
+              "path": "part-21/division-3/202.md"
+            },
+            {
+              "id": "203",
+              "title": "Application for civil penalty order precludes later criminal proceedings",
+              "path": "part-21/division-3/203.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Effect of criminal proceedings on application for civil penalty order",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "204",
+              "title": "When Division applies",
+              "path": "part-21/division-4/204.md"
+            },
+            {
+              "id": "205",
+              "title": "Effect during criminal proceedings",
+              "path": "part-21/division-4/205.md"
+            },
+            {
+              "id": "206",
+              "title": "Final outcome precluding applications for civil penalty order",
+              "path": "part-21/division-4/206.md"
+            },
+            {
+              "id": "207",
+              "title": "Final outcome not precluding application for civil penalty order",
+              "path": "part-21/division-4/207.md"
+            },
+            {
+              "id": "208",
+              "title": "After unsuccessful committal proceeding, court may preclude application for civil penalty order",
+              "path": "part-21/division-4/208.md"
+            },
+            {
+              "id": "209",
+              "title": "Application for civil penalty order based on alternative verdict at jury trial",
+              "path": "part-21/division-4/209.md"
+            },
+            {
+              "id": "210",
+              "title": "",
+              "path": "part-21/division-4/210.md"
+            },
+            {
+              "id": "211",
+              "title": "Application for civil penalty order based on alternative finding by appeal court",
+              "path": "part-21/division-4/211.md"
+            },
+            {
+              "id": "212",
+              "title": "After setting aside declaration, court may preclude application for civil penalty order",
+              "path": "part-21/division-4/212.md"
+            },
+            {
+              "id": "213",
+              "title": "On unsuccessful appeal against declaration, Court may make civil penalty orders",
+              "path": "part-21/division-4/213.md"
+            },
+            {
+              "id": "214",
+              "title": "Appeals under this Division",
+              "path": "part-21/division-4/214.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Compensation for loss suffered by superannuation entity",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "215",
+              "title": "On application for civil penalty order, Court may order compensation",
+              "path": "part-21/division-5/215.md"
+            },
+            {
+              "id": "216",
+              "title": "Criminal court may order compensation",
+              "path": "part-21/division-5/216.md"
+            },
+            {
+              "id": "217",
+              "title": "Enforcement of order under section 215 or 216",
+              "path": "part-21/division-5/217.md"
+            },
+            {
+              "id": "218",
+              "title": "Recovery of profits, and compensation for loss, resulting from contravention",
+              "path": "part-21/division-5/218.md"
+            },
+            {
+              "id": "219",
+              "title": "Effect of sections 215, 216 and 218",
+              "path": "part-21/division-5/219.md"
+            },
+            {
+              "id": "220",
+              "title": "Certificates evidencing contravention",
+              "path": "part-21/division-5/220.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Miscellaneous",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "221",
+              "title": "Relief from liability for contravention of civil penalty provision",
+              "path": "part-21/division-6/221.md"
+            },
+            {
+              "id": "222",
+              "title": "Part does not limit power to award punitive damages",
+              "path": "part-21/division-6/222.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "22",
+      "title": "Infringement notices",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Overview",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "223",
+              "title": "Simplified outline",
+              "path": "part-22/division-1/223.md"
+            },
+            {
+              "id": "223A",
+              "title": "Provisions subject to an infringement notice",
+              "path": "part-22/division-1/223a.md"
+            },
+            {
+              "id": "223B",
+              "title": "Infringement officer",
+              "path": "part-22/division-1/223b.md"
+            },
+            {
+              "id": "223C",
+              "title": "Chair of APRA may determine infringement officers",
+              "path": "part-22/division-1/223c.md"
+            },
+            {
+              "id": "223D",
+              "title": "Relevant chief executive",
+              "path": "part-22/division-1/223d.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Infringement notices",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "224",
+              "title": "When an infringement notice may be given",
+              "path": "part-22/division-2/224.md"
+            },
+            {
+              "id": "224A",
+              "title": "Matters to be included in an infringement notice",
+              "path": "part-22/division-2/224a.md"
+            },
+            {
+              "id": "224B",
+              "title": "Extension of time to pay amount",
+              "path": "part-22/division-2/224b.md"
+            },
+            {
+              "id": "224C",
+              "title": "Withdrawal of an infringement notice",
+              "path": "part-22/division-2/224c.md"
+            },
+            {
+              "id": "224D",
+              "title": "Effect of payment of amount",
+              "path": "part-22/division-2/224d.md"
+            },
+            {
+              "id": "224E",
+              "title": "Effect of this Part",
+              "path": "part-22/division-2/224e.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "23",
+      "title": "Financial assistance to certain funds",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "227",
+              "title": "Object of Part",
+              "path": "part-23/division-1/227.md"
+            },
+            {
+              "id": "228",
+              "title": "Interpretation",
+              "path": "part-23/division-1/228.md"
+            },
+            {
+              "id": "229",
+              "title": "Application for assistance",
+              "path": "part-23/division-1/229.md"
+            },
+            {
+              "id": "230",
+              "title": "Minister may request additional information",
+              "path": "part-23/division-1/230.md"
+            },
+            {
+              "id": "230A",
+              "title": "APRA to advise Minister in relation to application for assistance",
+              "path": "part-23/division-1/230a.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Determination of applications for financial assistance",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "231",
+              "title": "Minister may grant financial assistance",
+              "path": "part-23/division-2/231.md"
+            },
+            {
+              "id": "232",
+              "title": "Maximum amount of financial assistance",
+              "path": "part-23/division-2/232.md"
+            },
+            {
+              "id": "233",
+              "title": "Financial assistance to be subject to conditions",
+              "path": "part-23/division-2/233.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Repayment of financial assistance",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "238",
+              "title": "Financial assistance to be repaid in certain circumstances",
+              "path": "part-23/division-3/238.md"
+            },
+            {
+              "id": "239",
+              "title": "Minister may remit liability",
+              "path": "part-23/division-3/239.md"
+            },
+            {
+              "id": "240",
+              "title": "Repayable grant to have priority over other debts",
+              "path": "part-23/division-3/240.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "24",
+      "title": "Eligible rollover funds",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "241",
+              "title": "Object of this Part",
+              "path": "part-24/division-1/241.md"
+            },
+            {
+              "id": "242",
+              "title": "Interpretation",
+              "path": "part-24/division-1/242.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Authority to operate an eligible rollover fund",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Applying for authority",
+              "sections": [
+                {
+                  "id": "242A",
+                  "title": "Application for authority to operate an eligible rollover fund",
+                  "path": "part-24/division-2/242a.md"
+                },
+                {
+                  "id": "242B",
+                  "title": "Election to transfer amounts held in eligible rollover fund if authorisation cancelled",
+                  "path": "part-24/division-2/242b.md"
+                },
+                {
+                  "id": "242C",
+                  "title": "Election not to charge members of eligible rollover fund for payment of conflicted remuneration",
+                  "path": "part-24/division-2/242c.md"
+                },
+                {
+                  "id": "242D",
+                  "title": "APRA may request further information",
+                  "path": "part-24/division-2/242d.md"
+                },
+                {
+                  "id": "242E",
+                  "title": "Period for deciding applications for authority",
+                  "path": "part-24/division-2/242e.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Authority",
+              "sections": [
+                {
+                  "id": "242F",
+                  "title": "Authority to operate an eligible rollover fund",
+                  "path": "part-24/division-2/242f.md"
+                },
+                {
+                  "id": "242G",
+                  "title": "Notice of authority",
+                  "path": "part-24/division-2/242g.md"
+                },
+                {
+                  "id": "242H",
+                  "title": "APRA to give notice of refusal of authority",
+                  "path": "part-24/division-2/242h.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "Cancelling authority",
+              "sections": [
+                {
+                  "id": "242J",
+                  "title": "Cancelling authority to operate eligible rollover fund",
+                  "path": "part-24/division-2/242j.md"
+                }
+              ]
+            },
+            {
+              "id": "D",
+              "title": "Trustee obligations relating to eligible rollover funds",
+              "sections": [
+                {
+                  "id": "242K",
+                  "title": "Additional obligations of a trustee in relation to an eligible rollover fund",
+                  "path": "part-24/division-2/242k.md"
+                },
+                {
+                  "id": "242L",
+                  "title": "Additional obligations of a director of a corporate trustee in relation to an eligible rollover fund",
+                  "path": "part-24/division-2/242l.md"
+                },
+                {
+                  "id": "242M",
+                  "title": "Contravention of section 242K or 242L",
+                  "path": "part-24/division-2/242m.md"
+                }
+              ]
+            },
+            {
+              "id": "E",
+              "title": "Miscellaneous",
+              "sections": [
+                {
+                  "id": "242P",
+                  "title": "Operating a fund as an eligible rollover fund when not authorised to do so",
+                  "path": "part-24/division-2/242p.md"
+                },
+                {
+                  "id": "242Q",
+                  "title": "Prudential standards dealing with amounts held in eligible rollover funds",
+                  "path": "part-24/division-2/242q.md"
+                },
+                {
+                  "id": "242R",
+                  "title": "No liability for giving effect to a section 242B election",
+                  "path": "part-24/division-2/242r.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "3",
+          "title": "Facility to pay benefits to eligible rollover funds",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "243",
+              "title": "Payment of benefits to eligible rollover fund",
+              "path": "part-24/division-3/243.md"
+            },
+            {
+              "id": "244",
+              "title": "Operating standards for transferor funds— information and records",
+              "path": "part-24/division-3/244.md"
+            },
+            {
+              "id": "248",
+              "title": "Claims for benefits",
+              "path": "part-24/division-3/248.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "24A",
+      "title": "Transitional provisions relating to pre-1 July 1995 automatic rollovers of benefits between funds",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "249",
+          "title": "Object of Part",
+          "path": "part-24a/division-unknown/249.md"
+        },
+        {
+          "id": "250",
+          "title": "Definitions",
+          "path": "part-24a/division-unknown/250.md"
+        },
+        {
+          "id": "251",
+          "title": "Rights of beneficiary to rolled-over benefits",
+          "path": "part-24a/division-unknown/251.md"
+        },
+        {
+          "id": "252",
+          "title": "Claims to rolled-over benefits",
+          "path": "part-24a/division-unknown/252.md"
+        }
+      ]
+    },
+    {
+      "id": "24B",
+      "title": "Provisions relating to the administration by APRA and the Commissioner of Taxation of superannuation funds with no more than 6 members",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Monitoring of superannuation funds with no more than 6 members",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "252A",
+              "title": "APRA or Commissioner of Taxation may request certain information",
+              "path": "part-24b/division-1/252a.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Transitional and savings provisions relating to the regulation of self managed superannuation funds by the Commissioner of Taxation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "252D",
+              "title": "Definition",
+              "path": "part-24b/division-3/252d.md"
+            },
+            {
+              "id": "252E",
+              "title": "Instruments made or issued by APRA or by the Commissioner of Taxation",
+              "path": "part-24b/division-3/252e.md"
+            },
+            {
+              "id": "252F",
+              "title": "Obligations owed by or to APRA or the Commissioner of Taxation",
+              "path": "part-24b/division-3/252f.md"
+            },
+            {
+              "id": "252G",
+              "title": "Outstanding annual returns and amounts",
+              "path": "part-24b/division-3/252g.md"
+            },
+            {
+              "id": "252H",
+              "title": "Regulations",
+              "path": "part-24b/division-3/252h.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "25",
+      "title": "Monitoring and investigation",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "253",
+              "title": "Objects of Part",
+              "path": "part-25/division-1/253.md"
+            },
+            {
+              "id": "253A",
+              "title": "Notices may be given to former relevant persons",
+              "path": "part-25/division-1/253a.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Monitoring",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "254",
+              "title": "Information to be given on establishment of superannuation entity",
+              "path": "part-25/division-2/254.md"
+            },
+            {
+              "id": "254A",
+              "title": "Information to be given to Regulator",
+              "path": "part-25/division-2/254a.md"
+            },
+            {
+              "id": "255",
+              "title": "Regulator may require production of books",
+              "path": "part-25/division-2/255.md"
+            },
+            {
+              "id": "256",
+              "title": "Access to premises",
+              "path": "part-25/division-2/256.md"
+            },
+            {
+              "id": "256A",
+              "title": "Alternative constitutional basis",
+              "path": "part-25/division-2/256a.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "APRA may require trustee of superannuation entity to appoint an individual, or a committee, to investigate the financial position of the entity",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "257",
+              "title": "Investigation of financial position of superannuation entity",
+              "path": "part-25/division-3/257.md"
+            },
+            {
+              "id": "258",
+              "title": "Qualifications of investigator or investigators",
+              "path": "part-25/division-3/258.md"
+            },
+            {
+              "id": "259",
+              "title": "APRA may veto appointment of investigator or investigators",
+              "path": "part-25/division-3/259.md"
+            },
+            {
+              "id": "260",
+              "title": "Deadline for receipt of report",
+              "path": "part-25/division-3/260.md"
+            },
+            {
+              "id": "261",
+              "title": "Contents of report etc.",
+              "path": "part-25/division-3/261.md"
+            },
+            {
+              "id": "262",
+              "title": "Trustee must comply with requirements",
+              "path": "part-25/division-3/262.md"
+            }
+          ]
+        },
+        {
+          "id": "3A",
+          "title": "Regulator may accept and enforce undertakings",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "262A",
+              "title": "Acceptance and enforcement of undertakings",
+              "path": "part-25/division-3a/262a.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Investigations by Regulator",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "263",
+              "title": "Investigations of superannuation entities, approved SMSF auditors and the conduct of certain audits",
+              "path": "part-25/division-4/263.md"
+            },
+            {
+              "id": "264",
+              "title": "Power of Regulator to obtain information or freeze assets",
+              "path": "part-25/division-4/264.md"
+            },
+            {
+              "id": "265",
+              "title": "Inspectors",
+              "path": "part-25/division-4/265.md"
+            },
+            {
+              "id": "266",
+              "title": "Delegation by inspector",
+              "path": "part-25/division-4/266.md"
+            },
+            {
+              "id": "267",
+              "title": "Regulator may exercise powers of inspector",
+              "path": "part-25/division-4/267.md"
+            },
+            {
+              "id": "268",
+              "title": "Inspector may enter premises for purposes of an investigation",
+              "path": "part-25/division-4/268.md"
+            },
+            {
+              "id": "269",
+              "title": "Inspector may require production of books",
+              "path": "part-25/division-4/269.md"
+            },
+            {
+              "id": "271",
+              "title": "Application for warrant to seize books not produced",
+              "path": "part-25/division-4/271.md"
+            },
+            {
+              "id": "272",
+              "title": "Grant of warrant",
+              "path": "part-25/division-4/272.md"
+            },
+            {
+              "id": "273",
+              "title": "Powers if books produced or seized",
+              "path": "part-25/division-4/273.md"
+            },
+            {
+              "id": "274",
+              "title": "Powers if books not produced",
+              "path": "part-25/division-4/274.md"
+            },
+            {
+              "id": "275",
+              "title": "Power to require person to identify property of superannuation entity",
+              "path": "part-25/division-4/275.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Examinations",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "276",
+              "title": "Application of Division",
+              "path": "part-25/division-5/276.md"
+            },
+            {
+              "id": "277",
+              "title": "Requirements made of an examinee",
+              "path": "part-25/division-5/277.md"
+            },
+            {
+              "id": "278",
+              "title": "Examination to be in private",
+              "path": "part-25/division-5/278.md"
+            },
+            {
+              "id": "279",
+              "title": "Examinee’s lawyer may attend",
+              "path": "part-25/division-5/279.md"
+            },
+            {
+              "id": "280",
+              "title": "Record of examination",
+              "path": "part-25/division-5/280.md"
+            },
+            {
+              "id": "281",
+              "title": "Giving copies of record to other persons",
+              "path": "part-25/division-5/281.md"
+            },
+            {
+              "id": "282",
+              "title": "Copies given subject to conditions",
+              "path": "part-25/division-5/282.md"
+            },
+            {
+              "id": "283",
+              "title": "Record to accompany report",
+              "path": "part-25/division-5/283.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Reports",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "284",
+              "title": "Report of inspector",
+              "path": "part-25/division-6/284.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Offences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "285",
+              "title": "Compliance with requirements made under this Act",
+              "path": "part-25/division-7/285.md"
+            },
+            {
+              "id": "286",
+              "title": "Concealing books relevant to investigation",
+              "path": "part-25/division-7/286.md"
+            },
+            {
+              "id": "287",
+              "title": "Self-incrimination",
+              "path": "part-25/division-7/287.md"
+            },
+            {
+              "id": "288",
+              "title": "Legal professional privilege",
+              "path": "part-25/division-7/288.md"
+            },
+            {
+              "id": "289",
+              "title": "Powers of Court where non-compliance with this Act",
+              "path": "part-25/division-7/289.md"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "Evidentiary use of certain material",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "290",
+              "title": "Statements made at an examination: proceedings against examinee",
+              "path": "part-25/division-8/290.md"
+            },
+            {
+              "id": "291",
+              "title": "Statements made at an examination: other proceedings",
+              "path": "part-25/division-8/291.md"
+            },
+            {
+              "id": "292",
+              "title": "Weight of evidence admitted under section 291",
+              "path": "part-25/division-8/292.md"
+            },
+            {
+              "id": "293",
+              "title": "Objection to admission of statements made at examination",
+              "path": "part-25/division-8/293.md"
+            },
+            {
+              "id": "294",
+              "title": "Copies of, or extracts from, certain books",
+              "path": "part-25/division-8/294.md"
+            },
+            {
+              "id": "295",
+              "title": "Report under Division 6",
+              "path": "part-25/division-8/295.md"
+            },
+            {
+              "id": "296",
+              "title": "Exceptions to admissibility of report",
+              "path": "part-25/division-8/296.md"
+            },
+            {
+              "id": "297",
+              "title": "Material otherwise admissible",
+              "path": "part-25/division-8/297.md"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Miscellaneous",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "298",
+              "title": "Regulator may cause civil proceeding to be begun",
+              "path": "part-25/division-9/298.md"
+            },
+            {
+              "id": "298A",
+              "title": "Authorisation of members of staff",
+              "path": "part-25/division-9/298a.md"
+            },
+            {
+              "id": "299",
+              "title": "Person complying with requirement not to incur liability to another person",
+              "path": "part-25/division-9/299.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "25A",
+      "title": "Tax file numbers",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Quotation of employee’s tax file number",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "299A",
+              "title": "Employee may quote to employer",
+              "path": "part-25a/division-1/299a.md"
+            },
+            {
+              "id": "299B",
+              "title": "Employer may inform trustee of tax file number",
+              "path": "part-25a/division-1/299b.md"
+            },
+            {
+              "id": "299C",
+              "title": "Employer must inform trustee of tax file number",
+              "path": "part-25a/division-1/299c.md"
+            },
+            {
+              "id": "299CA",
+              "title": "Use of tax file number to validate information",
+              "path": "part-25a/division-1/299ca.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Quotation, use and transfer of beneficiary’s tax file number",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "299E",
+              "title": "Trustee may request beneficiary’s or applicant’s tax file number",
+              "path": "part-25a/division-2/299e.md"
+            },
+            {
+              "id": "299F",
+              "title": "Trustee must request person who is beneficiary at commencement to quote tax file number",
+              "path": "part-25a/division-2/299f.md"
+            },
+            {
+              "id": "299G",
+              "title": "Trustee must request person becoming beneficiary after commencement to quote tax file number",
+              "path": "part-25a/division-2/299g.md"
+            },
+            {
+              "id": "299H",
+              "title": "Use of tax file number for certain purposes— beneficiaries of eligible superannuation entities",
+              "path": "part-25a/division-2/299h.md"
+            },
+            {
+              "id": "299J",
+              "title": "",
+              "path": "part-25a/division-2/299j.md"
+            },
+            {
+              "id": "299K",
+              "title": "",
+              "path": "part-25a/division-2/299k.md"
+            },
+            {
+              "id": "299LA",
+              "title": "Use of tax file number to locate amounts or for consolidation",
+              "path": "part-25a/division-2/299la.md"
+            },
+            {
+              "id": "299LB",
+              "title": "Use of tax file number to validate information",
+              "path": "part-25a/division-2/299lb.md"
+            },
+            {
+              "id": "299M",
+              "title": "",
+              "path": "part-25a/division-2/299m.md"
+            },
+            {
+              "id": "299NA",
+              "title": "Portability forms",
+              "path": "part-25a/division-2/299na.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Method of quotation of tax file numbers, including deemed quotation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "299P",
+              "title": "Method of quoting tax file number",
+              "path": "part-25a/division-3/299p.md"
+            },
+            {
+              "id": "299Q",
+              "title": "Employee taken to have quoted to trustee where trustee informed by employer",
+              "path": "part-25a/division-3/299q.md"
+            },
+            {
+              "id": "299R",
+              "title": "Beneficiary or applicant taken to have quoted to RSA provider or trustee",
+              "path": "part-25a/division-3/299r.md"
+            },
+            {
+              "id": "299S",
+              "title": "",
+              "path": "part-25a/division-3/299s.md"
+            },
+            {
+              "id": "299SA",
+              "title": "Beneficiary taken to have quoted where Commissioner gives notice",
+              "path": "part-25a/division-3/299sa.md"
+            },
+            {
+              "id": "299T",
+              "title": "Beneficiary taken to have quoted if he or she quoted for other purposes",
+              "path": "part-25a/division-3/299t.md"
+            }
+          ]
+        },
+        {
+          "id": "3A",
+          "title": "Commissioner of Taxation may issue notices about tax file numbers",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "299TA",
+              "title": "Effect of mistaken quotation of tax file number",
+              "path": "part-25a/division-3a/299ta.md"
+            },
+            {
+              "id": "299TB",
+              "title": "Effect of invalid quotation of tax file number",
+              "path": "part-25a/division-3a/299tb.md"
+            },
+            {
+              "id": "299TC",
+              "title": "Commissioner of Taxation may inform trustee of tax file number",
+              "path": "part-25a/division-3a/299tc.md"
+            },
+            {
+              "id": "299TD",
+              "title": "Validation notice—beneficiaries of eligible superannuation entities",
+              "path": "part-25a/division-3a/299td.md"
+            },
+            {
+              "id": "299TE",
+              "title": "Validation notice—employees",
+              "path": "part-25a/division-3a/299te.md"
+            },
+            {
+              "id": "299TF",
+              "title": "Commissioner of Taxation may provide electronic interface",
+              "path": "part-25a/division-3a/299tf.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Provision of tax file numbers in forms etc.",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "299U",
+              "title": "Forms etc. may require tax file number",
+              "path": "part-25a/division-4/299u.md"
+            },
+            {
+              "id": "299V",
+              "title": "Failure to quote tax file number",
+              "path": "part-25a/division-4/299v.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "General",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "299W",
+              "title": "Definitions",
+              "path": "part-25a/division-5/299w.md"
+            },
+            {
+              "id": "299X",
+              "title": "State insurance",
+              "path": "part-25a/division-5/299x.md"
+            },
+            {
+              "id": "299Z",
+              "title": "Transitional provisions",
+              "path": "part-25a/division-5/299z.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "26",
+      "title": "Offences relating to statements, records etc.",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "300",
+          "title": "Object of Part",
+          "path": "part-26/division-unknown/300.md"
+        },
+        {
+          "id": "301",
+          "title": "Interpretation",
+          "path": "part-26/division-unknown/301.md"
+        },
+        {
+          "id": "303",
+          "title": "Incorrectly keeping records etc.",
+          "path": "part-26/division-unknown/303.md"
+        },
+        {
+          "id": "306",
+          "title": "Incorrectly keeping or making records etc.",
+          "path": "part-26/division-unknown/306.md"
+        },
+        {
+          "id": "307",
+          "title": "Incorrectly keeping records with intention of deceiving or misleading etc.",
+          "path": "part-26/division-unknown/307.md"
+        },
+        {
+          "id": "308",
+          "title": "Falsifying or concealing identity with intention of deceiving or misleading etc.",
+          "path": "part-26/division-unknown/308.md"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Powers of Court",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "309",
+          "title": "Object of Part",
+          "path": "part-27/division-unknown/309.md"
+        },
+        {
+          "id": "310",
+          "title": "Power to grant relief",
+          "path": "part-27/division-unknown/310.md"
+        },
+        {
+          "id": "311",
+          "title": "Power of Court to give directions with respect to meetings ordered by the Court",
+          "path": "part-27/division-unknown/311.md"
+        },
+        {
+          "id": "312",
+          "title": "Irregularities",
+          "path": "part-27/division-unknown/312.md"
+        },
+        {
+          "id": "313",
+          "title": "Power of Court to prohibit payment or transfer of money or property",
+          "path": "part-27/division-unknown/313.md"
+        },
+        {
+          "id": "314",
+          "title": "",
+          "path": "part-27/division-unknown/314.md"
+        },
+        {
+          "id": "315",
+          "title": "Injunctions",
+          "path": "part-27/division-unknown/315.md"
+        },
+        {
+          "id": "316",
+          "title": "Effect of sections 313, 314 and 315",
+          "path": "part-27/division-unknown/316.md"
+        },
+        {
+          "id": "317",
+          "title": "Power of Court to punish for contempt of court",
+          "path": "part-27/division-unknown/317.md"
+        },
+        {
+          "id": "318",
+          "title": "Court may resolve transitional difficulties",
+          "path": "part-27/division-unknown/318.md"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Proceedings",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "319",
+          "title": "Object of Part",
+          "path": "part-28/division-unknown/319.md"
+        },
+        {
+          "id": "320",
+          "title": "Power of Regulator to intervene in proceedings",
+          "path": "part-28/division-unknown/320.md"
+        },
+        {
+          "id": "321",
+          "title": "Civil proceedings not to be stayed",
+          "path": "part-28/division-unknown/321.md"
+        },
+        {
+          "id": "322",
+          "title": "Standard of proof",
+          "path": "part-28/division-unknown/322.md"
+        },
+        {
+          "id": "323",
+          "title": "Relief from civil liability for contravention of certain provisions",
+          "path": "part-28/division-unknown/323.md"
+        },
+        {
+          "id": "324",
+          "title": "Evidence of contravention",
+          "path": "part-28/division-unknown/324.md"
+        },
+        {
+          "id": "324A",
+          "title": "Time for instituting criminal proceedings",
+          "path": "part-28/division-unknown/324a.md"
+        },
+        {
+          "id": "324B",
+          "title": "Instituting criminal proceedings",
+          "path": "part-28/division-unknown/324b.md"
+        },
+        {
+          "id": "325",
+          "title": "Vesting of property",
+          "path": "part-28/division-unknown/325.md"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Exemptions and modifications",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "326",
+          "title": "Object of Part",
+          "path": "part-29/division-unknown/326.md"
+        },
+        {
+          "id": "327",
+          "title": "Interpretation",
+          "path": "part-29/division-unknown/327.md"
+        },
+        {
+          "id": "328",
+          "title": "Regulator’s powers of exemption—modifiable provisions",
+          "path": "part-29/division-unknown/328.md"
+        },
+        {
+          "id": "330",
+          "title": "Regulator’s powers of exemption—general issues",
+          "path": "part-29/division-unknown/330.md"
+        },
+        {
+          "id": "331",
+          "title": "Enforcement of conditions to which exemption is subject",
+          "path": "part-29/division-unknown/331.md"
+        },
+        {
+          "id": "332",
+          "title": "Regulator’s powers of modification—modifiable provisions",
+          "path": "part-29/division-unknown/332.md"
+        },
+        {
+          "id": "334",
+          "title": "Regulator’s powers of modification—general issues",
+          "path": "part-29/division-unknown/334.md"
+        },
+        {
+          "id": "335",
+          "title": "Variation and revocation of exemptions and modifications",
+          "path": "part-29/division-unknown/335.md"
+        },
+        {
+          "id": "336",
+          "title": "Notice of exemptions and modifications",
+          "path": "part-29/division-unknown/336.md"
+        }
+      ]
+    },
+    {
+      "id": "29A",
+      "title": "Protections in relation to information",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "336F",
+          "title": "Self-incrimination",
+          "path": "part-29a/division-unknown/336f.md"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Miscellaneous",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "337",
+          "title": "Object of Part",
+          "path": "part-30/division-unknown/337.md"
+        },
+        {
+          "id": "337A",
+          "title": "Trustee may give effect to award made under arbitration agreement",
+          "path": "part-30/division-unknown/337a.md"
+        },
+        {
+          "id": "338",
+          "title": "Conduct by directors, servants and agents",
+          "path": "part-30/division-unknown/338.md"
+        },
+        {
+          "id": "338A",
+          "title": "Liability of trustees required to ensure thing occurs",
+          "path": "part-30/division-unknown/338a.md"
+        },
+        {
+          "id": "339",
+          "title": "Conviction does not relieve defendant from civil liability",
+          "path": "part-30/division-unknown/339.md"
+        },
+        {
+          "id": "341",
+          "title": "Civil immunity where defendant was complying with this Act",
+          "path": "part-30/division-unknown/341.md"
+        },
+        {
+          "id": "342",
+          "title": "Pre-1 July 88 funding credits and debits",
+          "path": "part-30/division-unknown/342.md"
+        },
+        {
+          "id": "343",
+          "title": "Rules against perpetuities not to apply to superannuation entity",
+          "path": "part-30/division-unknown/343.md"
+        },
+        {
+          "id": "344",
+          "title": "Review of certain decisions",
+          "path": "part-30/division-unknown/344.md"
+        },
+        {
+          "id": "345",
+          "title": "Statements to accompany notification of decisions",
+          "path": "part-30/division-unknown/345.md"
+        },
+        {
+          "id": "347",
+          "title": "How information may be given to the Commissioner of Taxation",
+          "path": "part-30/division-unknown/347.md"
+        },
+        {
+          "id": "347A",
+          "title": "The Regulator may collect statistical information",
+          "path": "part-30/division-unknown/347a.md"
+        },
+        {
+          "id": "348",
+          "title": "The Regulator may publish statistical information",
+          "path": "part-30/division-unknown/348.md"
+        },
+        {
+          "id": "348A",
+          "title": "Quarterly reports about superannuation",
+          "path": "part-30/division-unknown/348a.md"
+        },
+        {
+          "id": "349",
+          "title": "This Act and the regulations to be subject to certain superannuation orders",
+          "path": "part-30/division-unknown/349.md"
+        },
+        {
+          "id": "349A",
+          "title": "Payment out of a fund in accordance with the Bankruptcy Act 1966",
+          "path": "part-30/division-unknown/349a.md"
+        },
+        {
+          "id": "349B",
+          "title": "Acquisition of property",
+          "path": "part-30/division-unknown/349b.md"
+        },
+        {
+          "id": "350",
+          "title": "Concurrent operation of State/Territory laws",
+          "path": "part-30/division-unknown/350.md"
+        },
+        {
+          "id": "353",
+          "title": "Regulations",
+          "path": "part-30/division-unknown/353.md"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Additional transitional provisions—tax file numbers",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "381",
+          "title": "Object of Part",
+          "path": "part-32/division-unknown/381.md"
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,8 @@ const ACT_SHORT: Record<string, string> = {
   'itaa-1936': 'ITAA36',
   'gst-1999': 'GST99',
   'taa-1953': 'TAA53',
+  'fbt-1986': 'FBTAA 1986',
+  'sis-1993': 'SIS 1993',
   'master-tax-guide': 'CCH MTG',
   'master-tax-examples': 'CCH Example',
   'master-gst-guide': 'CCH GST Guide',

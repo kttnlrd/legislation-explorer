@@ -1,0 +1,481 @@
+{
+ "id": "itaa-1936-s44-dividends",
+ "title": "Dividends — s 44 ITAA 1936",
+ "act": "itaa-1936",
+ "part": "III",
+ "division": "2",
+ "subdivision": "D",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Facet map: is a company payment assessable under s 44? Spine: s 6(1) 'dividend' definition → paid out of profits (s 44(1A)/(1B) deeming) → demerger dividend exception (s 44(2)-(6)) → residency split (s 44(1)(a) resident/worldwide, (b) non-resident/Australian-source + WHT, (c) non-resident through Australian PE) → displacement by other provisions (s 23AI, s 23AK, s 128D, s 768-5, Div 802). FACETS: non-share dividends (s 974-115), returns of capital vs dividends (TR 2012/5), conduit foreign income (Div 802), dividend WHT (s 128B — franked exemption s 128B(3)(ga), treaty rates), franking/imputation (Div 207), other deemed dividends (s 47, s 47A, Div 7A). Subsection coverage: s 44(1)(a)-(c), (1A), (1B), (2)-(7) mapped; s 6(1) 'dividend' mapped to the first decision. Rulings: TR 2003/8, PS LA 2008/10, TD 1995/50, TR 2012/5, PCG 2018/8.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A company pays you an amount as a shareholder — is it assessable under s 44?",
+   "body": "Single question with facets. Spine: is it a dividend (s 6(1)) → paid out of profits → demerger → residency → other provisions. Facets carry the niche definitional and deeming rules.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [
+    "what-is-a-dividend",
+    "overview-taxation-of-dividend-recipients"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "dividend",
+    "shareholder",
+    "company"
+   ]
+  },
+  {
+   "id": "dividend",
+   "type": "decision",
+   "label": "Is the amount a dividend within the s 6(1) definition?",
+   "body": "s 6(1) 'dividend' includes: (a) distributions out of profits; (b) amounts credited as paid-up share capital (bonus shares from profits); (c) liquidator distributions; (d) share capital account amounts on cancellation/liquidation. Excluded: genuine returns of capital not out of profits.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": "Definitions"
+    }
+   ],
+   "commentary": [
+    "what-is-a-dividend"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "not-dividend",
+   "type": "outcome",
+   "label": "Not a dividend — s 44 does not apply",
+   "body": "Outside the s 6(1) definition (genuine return of capital, non-shareholder payment). Consider CGT and Div 7A for private company payments.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "profits",
+   "type": "decision",
+   "label": "Was the dividend paid out of profits?",
+   "body": "s 44(1)(a)(i) requires dividends paid out of profits. s 44(1A): a dividend paid out of an amount other than profits is taken to be paid out of profits. s 44(1B): debits against the share capital account, or repayments of paid-up capital, are deemed paid out of profits — subject to the s 6(1) share capital account exclusion and CGT return-of-capital rules.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [
+    "when-is-a-dividend-paid"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "demerger",
+   "type": "decision",
+   "label": "Is it a demerger dividend (s 44(2)-(6))?",
+   "body": "Demerger dividends (Subdiv 125-B ITAA 1997) are treated as not paid out of profits (s 44(3)) and are neither assessable nor exempt (s 44(4)) — unless the head entity elects out (s 44(2)) or the 50% business-assets test (s 44(5)-(6)) is not met.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [
+    "demerger-dividends"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "demerger-exempt",
+   "type": "outcome",
+   "label": "Demerger dividend — not assessable (s 44(4))",
+   "body": "Not assessable or exempt where the s 44(5) 50% business-assets test is met. Cost base adjusted under Subdiv 125-B ITAA 1997.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "resident",
+   "type": "decision",
+   "label": "Are you a resident or non-resident shareholder?",
+   "body": "s 44(1)(a) resident: dividends from ANY-source profits + all non-share dividends. s 44(1)(b) non-resident: only Australian-source profits (and non-share dividends from Australian sources). s 44(1)(c) non-resident with an Australian PE of a resident company: dividends attributable to the PE from foreign-source profits.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "resident-assessable",
+   "type": "action",
+   "label": "Assessable to resident — worldwide profits (s 44(1)(a))",
+   "body": "Dividends from any source + all non-share dividends. Franking credits attach under Div 207 ITAA 1997.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [
+    {
+     "id": "TR_2003_8",
+     "title": "amount to be included as an assessable dividend"
+    },
+    {
+     "id": "PS_LA_2008_10",
+     "title": "amounts included as an assessable dividend — meaning of profits derived"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "nonresident",
+   "type": "action",
+   "label": "Non-resident — Australian-source profits assessable + WHT",
+   "body": "s 44(1)(b): dividends paid out of Australian-source profits are assessable. Dividend WHT applies under s 128B TAA 1953 (30%, treaty-reduced) unless the dividend is franked (s 128B(3)(ga) — franked dividends to non-residents are exempt from WHT; the franking credit is not refundable to non-residents).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [
+    {
+     "id": "TD_1995_50",
+     "title": "dividend withholding tax"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "pe",
+   "type": "decision",
+   "label": "Non-resident with an Australian PE of a resident company (s 44(1)(c))?",
+   "body": "Dividends attributable to the PE are assessable to the extent paid out of profits derived from sources OUTSIDE Australia (the mirror of s 44(1)(b)). PE meaning follows the DTA (s 44(7)(a)) or s 6(1) (s 44(7)(b)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "pe-assessable",
+   "type": "outcome",
+   "label": "Assessable to the extent attributable to the PE (s 44(1)(c))",
+   "body": "Foreign-source dividends attributable to the Australian PE of a resident company are assessable.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "other",
+   "type": "decision",
+   "label": "Does another provision expressly deal with the dividend?",
+   "body": "s 44(1) yields to provisions that expressly include/exclude dividends: s 23AI (foreign company dividends), s 23AK, s 128D TAA 1953 (WHT-exempt), s 768-5 ITAA 1997 (NANE participation exemption), Div 802 conduit foreign income.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "768-5",
+     "title": "Non-assessable non-exempt income"
+    }
+   ],
+   "commentary": [
+    "conduit-foreign-income",
+    "other-deemed-dividends"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "final",
+   "type": "end",
+   "label": "Dividend included in assessable income (s 44)",
+   "body": "Included under s 44, subject to franking gross-up (Div 207 ITAA 1997) and any specific exclusion.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-nonshare",
+   "type": "outcome",
+   "label": "FACET — Non-share dividends (s 974-115 ITAA 1997)",
+   "body": "Where to look: s 974-115 ITAA 1997 (non-share dividends — returns on non-share equity interests); s 44(1)(a)(ii)/(b)(ii). Non-share dividends are assessable regardless of the profits test. The distinction matters for hybrid instruments (convertible notes, non-share equity interests).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "974-115",
+     "title": "Non-share dividends"
+    }
+   ],
+   "commentary": [
+    "what-is-a-dividend"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-return-capital",
+   "type": "outcome",
+   "label": "FACET — Returns of capital vs dividends",
+   "body": "Where to look: s 6(1) 'dividend' exclusion for returns of capital not out of profits; CGT consequences (return of capital reduces cost base; excess is a capital gain — CGT event C2/G1); TR 2012/5 (s 254T Corporations Act — when a company is taken to have paid a dividend). The s 44(1B) deeming catches debits to the share capital account that are in substance distributions of profits.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": "Definitions"
+    }
+   ],
+   "commentary": [],
+   "rulings": [
+    {
+     "id": "TR_2012_5",
+     "title": "section 254T of the Corporations Act and the assessment and franking of dividends"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-conduit",
+   "type": "outcome",
+   "label": "FACET — Conduit foreign income (Div 802 ITAA 1997)",
+   "body": "Where to look: Div 802 ITAA 1997. An amount declared conduit foreign income is not included in assessable income under s 44(1)(b) or (c) (s 44 note). This lets Australian companies flow foreign-source profits to non-resident shareholders without Australian dividend tax.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "802-15",
+     "title": "Conduit foreign income"
+    }
+   ],
+   "commentary": [
+    "conduit-foreign-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-wht",
+   "type": "outcome",
+   "label": "FACET — Dividend withholding tax (s 128B TAA 1953)",
+   "body": "Where to look: s 128B TAA 1953; TD 1995/50. Rate 30% (s 128B(1)); treaty-reduced to 15% (portfolio) or 5% (related company with ≥10% holding). Franked dividends to non-residents: exempt from WHT (s 128B(3)(ga)) and the franking credit is not refundable. s 128D: amounts subject to WHT are not otherwise assessable.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "128B",
+     "title": "Dividend withholding tax"
+    }
+   ],
+   "commentary": [],
+   "rulings": [
+    {
+     "id": "TD_1995_50",
+     "title": "dividend withholding tax"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-imputation",
+   "type": "outcome",
+   "label": "FACET — Franking and imputation (Div 207 ITAA 1997)",
+   "body": "Where to look: Div 207 ITAA 1997; TR 2012/5; PCG 2018/8 (incorrect franking). Franked distributions are grossed up (s 207-20) and the franking credit offsets tax (s 207-20(2)); excess credits are refundable to most taxpayers. Benchmark rule and franking deficit tax apply to the company (Div 203/205 ITAA 1997). Loss companies and non-residents have special rules.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "207-20",
+     "title": "Gross-up and tax offset for franked distributions"
+    }
+   ],
+   "commentary": [
+    "franked-dividends-received-by-loss-companies"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2018_8",
+     "title": "determination of tax rate — incorrect franking"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-deemed",
+   "type": "outcome",
+   "label": "FACET — Other deemed dividends (s 47, s 47A, Div 7A)",
+   "body": "Where to look: s 47 ITAA 1936 (liquidator distributions), s 47A ITAA 1936 (CFC distribution benefits — see the separate map), Div 7A ITAA 1936 (private company payments/loans treated as dividends); CCH 'other-deemed-dividends'. Each deeming provision feeds into s 44 assessability.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47",
+     "title": "Dividends paid out of profits"
+    }
+   ],
+   "commentary": [
+    "other-deemed-dividends",
+    "division-7a-dividends-limited-to-distributable-surplus"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dividend",
+   "label": "Company payment"
+  },
+  {
+   "from": "dividend",
+   "to": "not-dividend",
+   "label": "No — outside definition"
+  },
+  {
+   "from": "dividend",
+   "to": "profits",
+   "label": "Yes — it is a dividend"
+  },
+  {
+   "from": "profits",
+   "to": "demerger",
+   "label": "Paid out of profits"
+  },
+  {
+   "from": "demerger",
+   "to": "demerger-exempt",
+   "label": "Yes — demerger dividend"
+  },
+  {
+   "from": "demerger",
+   "to": "resident",
+   "label": "Not a demerger dividend"
+  },
+  {
+   "from": "profits",
+   "to": "resident",
+   "label": "Ordinary dividend"
+  },
+  {
+   "from": "resident",
+   "to": "resident-assessable",
+   "label": "Yes — resident"
+  },
+  {
+   "from": "resident",
+   "to": "nonresident",
+   "label": "No — non-resident"
+  },
+  {
+   "from": "nonresident",
+   "to": "pe",
+   "label": "Carrying on business through Australian PE"
+  },
+  {
+   "from": "pe",
+   "to": "pe-assessable",
+   "label": "Yes — attributable to PE"
+  },
+  {
+   "from": "resident-assessable",
+   "to": "other",
+   "label": "Before final inclusion"
+  },
+  {
+   "from": "nonresident",
+   "to": "other",
+   "label": "Before final inclusion"
+  },
+  {
+   "from": "pe-assessable",
+   "to": "other",
+   "label": "Before final inclusion"
+  },
+  {
+   "from": "other",
+   "to": "final",
+   "label": "No specific provision displaces s 44"
+  },
+  {
+   "from": "dividend",
+   "to": "facet-nonshare",
+   "label": "Facet: non-share dividends"
+  },
+  {
+   "from": "dividend",
+   "to": "facet-return-capital",
+   "label": "Facet: returns of capital"
+  },
+  {
+   "from": "nonresident",
+   "to": "facet-conduit",
+   "label": "Facet: conduit foreign income"
+  },
+  {
+   "from": "nonresident",
+   "to": "facet-wht",
+   "label": "Facet: dividend WHT"
+  },
+  {
+   "from": "resident-assessable",
+   "to": "facet-imputation",
+   "label": "Facet: franking"
+  },
+  {
+   "from": "dividend",
+   "to": "facet-deemed",
+   "label": "Facet: deemed dividends"
+  }
+ ],
+ "short": "Dividends",
+ "refs": "s 44 · s 6(1) 'dividend'",
+ "sort": 6
+}

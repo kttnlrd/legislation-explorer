@@ -22,9 +22,10 @@ interface SearchPanelProps {
   onNavigate: (act: string, section: string) => void
   isMobile: boolean
   onResultsChange?: (count: number) => void
+  onAtoSearch?: () => void
 }
 
-export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChange }: SearchPanelProps) {
+export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChange, onAtoSearch }: SearchPanelProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<FlatResult[]>([])
   const [unfilteredResults, setUnfilteredResults] = useState<FlatResult[]>([])
@@ -34,6 +35,9 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [selectedActs, setSelectedActs] = useState<Set<string>>(new Set())
   const [currentPage, setCurrentPage] = useState(0)
   const [typeFilter, setTypeFilter] = useState<string>('')
+  const [operator, setOperator] = useState<'AND' | 'OR'>('AND')
+  const [dateFrom, setDateFrom] = useState('')
+  const [dateTo, setDateTo] = useState('')
   const inputRef = useRef<HTMLInputElement>(null)
   const [suggestions, setSuggestions] = useState<{ act: string; section: string; title: string; type: string }[]>([])
   const [showSuggestions, setShowSuggestions] = useState(false)
@@ -58,6 +62,17 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   useEffect(() => {
     onResultsChange?.(results.length)
   }, [results.length, onResultsChange])
+
+  // Restore query from URL on direct load / back-nav (e.g. /search?q=...)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search)
+    const q = params.get('q')
+    if (q) {
+      setQuery(q)
+      doSearch(q)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   // Debounced suggest — fetch autocomplete suggestions as user types
   useEffect(() => {
@@ -96,9 +111,15 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
 
     setLoading(true)
     try {
+      // Keep the query in the URL so direct loads / back-nav restore it
+      window.history.replaceState(null, '', '/search?q=' + encodeURIComponent(term))
       const activeFilter = filterOverride !== undefined ? filterOverride : typeFilter
       if (sortMode === 'bestmatch') {
-        const data = await api.searchHybrid(term, activeFilter || undefined, 200)
+        const data = await api.searchHybrid(term, activeFilter || undefined, 200, {
+          operator,
+          dateFrom: dateFrom || undefined,
+          dateTo: dateTo || undefined,
+        })
         const allResults: FlatResult[] = (data.results || data || []).map((r: any) => ({
           act: r.act || '',
           act_name: r.act_name || '',
@@ -259,6 +280,23 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
         >
           Search
         </button>
+        {onAtoSearch && (
+          <button
+            onClick={onAtoSearch}
+            title="Search the ATO Legal Database (live)"
+            style={{
+              padding: isMobile ? '10px 12px' : '8px 12px', borderRadius: 6,
+              background: COLORS.surface, color: COLORS.textMuted,
+              border: `1px solid ${COLORS.border}`,
+              fontSize: 13, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
+              whiteSpace: 'nowrap',
+            }}
+          >
+            ATO
+          </button>
+        )}
         <button
           onClick={() => setFilterOpen(!filterOpen)}
           title="Filters"
@@ -325,6 +363,56 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
           display: 'flex', flexDirection: 'column', gap: 8,
           boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
         }}>
+          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Match:</div>
+          <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
+            {(['AND', 'OR'] as const).map(op => (
+              <label
+                key={op}
+                style={{
+                  fontSize: 11, color: COLORS.text, cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', gap: 4,
+                  padding: '3px 6px', borderRadius: 4,
+                  background: operator === op ? COLORS.accent + '22' : 'transparent',
+                  fontFamily: "'Montserrat', sans-serif",
+                }}
+              >
+                <input
+                  type="radio"
+                  name="operator"
+                  checked={operator === op}
+                  onChange={() => setOperator(op)}
+                  style={{ margin: 0 }}
+                />
+                {op === 'AND' ? 'All terms (AND)' : 'Any term (OR)'}
+              </label>
+            ))}
+          </div>
+          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Date between:</div>
+          <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', alignItems: 'center' }}>
+            <input
+              type="date"
+              value={dateFrom}
+              onChange={e => setDateFrom(e.target.value)}
+              style={{
+                flex: 1, minWidth: 120, padding: '5px 6px', borderRadius: 4,
+                background: COLORS.bg, color: COLORS.text,
+                border: `1px solid ${COLORS.border}`,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif",
+              }}
+            />
+            <span style={{ fontSize: 11, color: COLORS.textMuted }}>to</span>
+            <input
+              type="date"
+              value={dateTo}
+              onChange={e => setDateTo(e.target.value)}
+              style={{
+                flex: 1, minWidth: 120, padding: '5px 6px', borderRadius: 4,
+                background: COLORS.bg, color: COLORS.text,
+                border: `1px solid ${COLORS.border}`,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif",
+              }}
+            />
+          </div>
           <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sort:</div>
           <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
             {(['bestmatch', 'bysection', 'byact'] as const).map(mode => (

@@ -36,6 +36,7 @@ def list_acts():
             })
     acts.append({"id": "rulings", "name": "ATO Rulings", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "tax-cases", "name": "Tax Cases", "compilation_no": None, "compilation_date": None})
+    acts.append({"id": "private-rulings", "name": "Private Rulings", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "regulatory-guides", "name": "ASIC Regulatory Guides", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "insolvency-keays", "name": "Keays Insolvency", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "treaties", "name": "Tax Treaties", "compilation_no": None, "compilation_date": None})
@@ -67,12 +68,59 @@ def _build_insolvency_tree():
     return {"act": "Keays Insolvency Textbook", "parts": parts}
 
 
+def _build_private_rulings_tree() -> dict:
+    """Years → rulings as a Tree for the sidebar.
+
+    Divisions are years (with counts); sections are empty — the per-year
+    ruling list loads on demand via /api/private-rulings?year=. 57,608
+    sections inline would make the tree ~15MB.
+    """
+    from .private_rulings import _load_index
+
+    idx = _load_index()
+    by_year: dict[int, int] = {}
+    undated = 0
+    for meta in idx.values():
+        y = meta.get("year")
+        if y:
+            by_year[y] = by_year.get(y, 0) + 1
+        else:
+            undated += 1
+    divisions = [
+        {
+            "id": str(y),
+            "title": f"{y} ({c})",
+            "subdivisions": [],
+            "sections": [],
+        }
+        for y, c in sorted(by_year.items(), reverse=True)
+    ]
+    if undated:
+        divisions.append({
+            "id": "undated",
+            "title": f"Undated ({undated})",
+            "subdivisions": [],
+            "sections": [],
+        })
+    return {
+        "act": "Private Rulings",
+        "parts": [{
+            "id": "private-rulings",
+            "title": "Private Rulings",
+            "divisions": divisions,
+            "sections": [],
+        }],
+    }
+
+
 @router.get("/api/tree/{act}")
 def get_tree(act: str):
     if act == "rulings":
         return list_rulings()
     if act == "tax-cases":
         return list_tax_cases_tree()
+    if act == "private-rulings":
+        return _build_private_rulings_tree()
     if act == "regulatory-guides":
         return list_regulatory_guides()
     if act == "insolvency-keays":
@@ -87,6 +135,10 @@ def get_section(act: str, section: str):
 
     if act == "tax-cases":
         return get_tax_case_by_citation(section)
+
+    if act == "private-rulings":
+        from .private_rulings import private_ruling_detail
+        return private_ruling_detail(section)
 
     if act == "regulatory-guides":
         return get_regulatory_guide(int(section))

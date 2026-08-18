@@ -32,7 +32,17 @@
     "general-interest-charge"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    },
+    {
+     "id": "PS_LA_2005_9",
+     "title": "Consolidated groups putting their affairs in order following enactment of legislation or release of public rul"
+    }
+   ]
   },
   {
    "id": "act-gic-amount",
@@ -65,7 +75,21 @@
     "general-interest-charge"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2002_757",
+     "title": "Deductibility of General Interest Charge imposed on Running Balance Account debt - when…"
+    },
+    {
+     "id": "AID_2004_508",
+     "title": "Simplified Tax System (STS): accounting method - timing of deductions for the general…"
+    },
+    {
+     "id": "MT_2011_1",
+     "title": ""
+    }
+   ]
   },
   {
    "id": "dec-seek-remission",
@@ -83,7 +107,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "act-apply",
@@ -101,7 +131,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "dec-s8aag3",
@@ -119,7 +155,21 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "AID_2001_220",
+     "title": "Voluntary disclosure: remission of General Interest Charge"
+    },
+    {
+     "id": "AID_2001_244",
+     "title": "Voluntary disclosure: remission of General Interest Charge"
+    },
+    {
+     "id": "AID_2001_246",
+     "title": "Remission of General Interest Charge"
+    }
+   ]
   },
   {
    "id": "dec-s8aag4",
@@ -137,7 +187,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "dec-s8aag5",
@@ -155,7 +211,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "dec-psla-factors",
@@ -173,7 +235,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "outcome-full",
@@ -191,7 +259,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "outcome-partial",
@@ -209,7 +283,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "outcome-refusal",
@@ -227,7 +307,13 @@
     "remission-of-gic"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   },
   {
    "id": "act-review",
@@ -239,7 +325,8 @@
     "review-of-penalty-remission-decisions"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": []
   },
   {
    "id": "end",
@@ -251,7 +338,13 @@
     "general-interest-charge"
    ],
    "cases": [],
-   "definitions": []
+   "definitions": [],
+   "rulings": [
+    {
+     "id": "PS_LA_2011_26",
+     "title": "Administration of penalties and interest charges in relation to the notional liabilities of the States"
+    }
+   ]
   }
  ],
  "edges": [
@@ -345,5 +438,6 @@
    "to": "end",
    "label": ""
   }
- ]
+ ],
+ "sort": 35
 }

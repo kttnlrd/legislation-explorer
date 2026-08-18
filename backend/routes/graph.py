@@ -358,6 +358,10 @@ def graph_data(
         if not citation:
             return JSONResponse({"error": "citation required for type=case"}, status_code=400)
         result = _resolve_case(citation, depth)
+    elif type == "private-ruling":
+        if not citation:
+            return JSONResponse({"error": "citation required for type=private-ruling"}, status_code=400)
+        result = _resolve_from_graph(f"private_ruling:EV/{citation}", depth)
     else:
         if type is None:
             return JSONResponse({"error": "type or ref required"}, status_code=400)
@@ -365,3 +369,114 @@ def graph_data(
 
     result["meta"] = {"type": type, "depth": depth, "node_count": len(result["nodes"]), "edge_count": len(result["edges"])}
     return result
+
+
+# Edge type → panel display name (SmartLinkPanel groups).
+_EDGE_DISPLAY = {
+    "applies": "Applies To",  # ruling/case node → sections
+    "applies_private": "Private Rulings",
+    "interpreted_by": "Rulings",
+    "considered_in": "Cases",
+    "explained_in": "Commentary",
+    "cites": "Citations",
+    "consistent_with": "Consistent With",
+    "defines": "Definitions",
+}
+
+
+def _related_item_url(node_type: str, key: str) -> str | None:
+    """Frontend navigation URL for a graph neighbour (null = not navigable)."""
+    if node_type == "section":
+        _, act, sec = key.split(":", 2)
+        return f"/{act}/{sec}"
+    if node_type == "public_ruling":
+        return f"/rulings/{key.split(':', 1)[1]}"
+    if node_type == "private_ruling":
+        return f"/private-rulings/{key.rsplit('/', 1)[-1]}"
+    if node_type == "case":
+        return f"/tax-cases/{key.split(':', 1)[1]}"
+    return None  # commentary / definition have no standalone view yet
+
+
+@router.get("/api/graph/related")
+def graph_related(
+    key: str = Query(...),
+    limit: int = Query(default=5, ge=1, le=100),
+    edge_types: str | None = Query(default=None, description="Comma-separated filter, e.g. 'applies,interpreted_by'"),
+):
+    """Graph-driven related lists for the frontend SmartLinkPanel.
+
+    For a graph node, returns per-edge-type groups with the total edge-row
+    count and the top-N neighbours ranked by edge-row count (spec §6.1
+    semantics — provenance-duplicated rows count separately). Each item
+    carries key, label, node_type and a frontend navigation URL when one
+    exists.
+
+    Query params:
+      key:        canonical graph key, e.g. "section:itaa-1997:8-1"
+      limit:      items per group (1-100, default 5)
+      edge_types: optional comma-separated filter of edge types
+
+    Returns {key, label, groups: [{edge_type, display, total, items}]}.
+    Unknown keys return 404.
+    """
+    conn = sqlite3.connect(f"file:{GRAPH_DB}?mode=ro", uri=True, timeout=10)
+    try:
+        center = conn.execute(
+            "SELECT id, label FROM nodes WHERE key=? OR lower(key)=?",
+            (key, key.lower()),
+        ).fetchone()
+        if center is None:
+            return JSONResponse({"error": f"unknown graph key: {key}"}, status_code=404)
+        cid, clabel = center
+
+        filter_types = None
+        if edge_types:
+            filter_types = [et.strip() for et in edge_types.split(",") if et.strip()]
+
+        sql = """
+            SELECT e.edge_type, n.key AS nkey, n.label AS nlabel, n.node_type AS ntype,
+                   COUNT(*) AS row_cnt
+            FROM graph_edges e
+            JOIN nodes n ON n.id = CASE WHEN e.source_id = ? THEN e.target_id ELSE e.source_id END
+            WHERE (e.source_id = ? OR e.target_id = ?)
+        """
+        params: list = [cid, cid, cid]
+        if filter_types:
+            sql += f" AND e.edge_type IN ({','.join('?' * len(filter_types))})"
+            params += filter_types
+        sql += " GROUP BY e.edge_type, n.id ORDER BY e.edge_type, row_cnt DESC"
+        rows = conn.execute(sql, params).fetchall()
+
+        # Merge edge types into panel groups. `applies` carries both public
+        # and private rulings; the public ones are parallel edges to the same
+        # pairs `interpreted_by` already covers (verified: identical
+        # source/target pairs carry both types), so they're skipped to avoid
+        # double-counting. Private ones form "Private Rulings".
+        def _group_key(et: str, ntype: str) -> str | None:
+            if et == "applies" and ntype == "public_ruling":
+                return None  # parallel edge — already in interpreted_by
+            if et == "applies" and ntype == "private_ruling":
+                return "applies_private"
+            return et
+
+        groups: dict[str, dict] = {}
+        for et, nkey, nlabel, ntype, row_cnt in rows:
+            gk = _group_key(et, ntype)
+            if gk is None:
+                continue
+            display = _EDGE_DISPLAY.get(gk, _EDGE_DISPLAY.get(et, et))
+            g = groups.setdefault(gk, {"edge_type": gk, "display": display,
+                                       "total": 0, "items": []})
+            g["total"] += row_cnt
+            if len(g["items"]) < limit:
+                g["items"].append({
+                    "key": nkey,
+                    "label": nlabel if ntype != "private_ruling" else f"EV/{nkey.rsplit('/', 1)[-1]}",
+                    "node_type": ntype,
+                    "url": _related_item_url(ntype, nkey),
+                })
+
+        return {"key": key, "label": clabel, "groups": list(groups.values())}
+    finally:
+        conn.close()

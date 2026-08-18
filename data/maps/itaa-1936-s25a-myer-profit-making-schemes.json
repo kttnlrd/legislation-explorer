@@ -1,0 +1,501 @@
+{
+ "id": "itaa-1936-s25a-myer-profit-making-schemes",
+ "title": "Income v capital — profit-making schemes (Myer, s 25A ITAA 1936, s 15-15 ITAA 1997)",
+ "act": "itaa-1936",
+ "part": "III",
+ "division": "2",
+ "subdivision": "A",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Facet map: is a profit on sale income or capital? Spine: date/regime (s 25A(1A) pre-20/9/1985 only; s 25A(1B) pre-1997-98 only — else s 15-15/Myer/CGT) → profit-making purpose at acquisition → Myer three conditions (purpose, commercial dealing, not mere realisation — Myer Emporium (1987) 163 CLR 199) → mere realisation boundary (Scottish Australian Mining (1950), Whitfords Beach (1982)) → income (s 6-5 or s 15-15) or capital (CGT) → legacy s 25A deeming cascade (ss 25A(2)-(10)) with the s 25A(3) Commissioner discretion. FACETS: Myer conditions detail, mere realisation doctrine, s 15-15 statutory limb, the s 25A(2)-(10) deeming cascade, s 25A(3) discretion, timing/derivation. Subsection coverage: s 25A(1), (1A), (1B), (2)-(10) all mapped; s 15-15(1)-(3) mapped. Rulings: TR 92/3, TR 1995/33.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "You sell property and realise a profit — income or capital?",
+   "body": "The single question with the most facets in Australian tax. Spine: date/regime → profit-making purpose → Myer scheme → mere realisation boundary → statutory/legacy limbs. Facets carry the case-law signposts and deeming machinery.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "15-15",
+     "title": "Profit-making undertaking or plan"
+    }
+   ],
+   "commentary": [
+    "income-versus-capital-receipts",
+    "isolated-transactions-myer-principle"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1992_3",
+     "title": "Transactions with a profit-making purpose"
+    }
+   ],
+   "cases": [],
+   "definitions": [
+    "profit",
+    "property"
+   ]
+  },
+  {
+   "id": "date",
+   "type": "decision",
+   "label": "When was the property acquired, and in which year did the profit arise?",
+   "body": "s 25A(1A): NOT for property acquired on/after 20 September 1985. s 25A(1B): NOT for profits arising 1997-98+ from a profit-making undertaking/scheme (s 15-15 ITAA 1997 replaces it). Post-CGT, post-1997: the analysis is ordinary income (Myer) / s 15-15 / CGT.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "15-15",
+     "title": "Profit-making undertaking or plan"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "modern",
+   "type": "action",
+   "label": "Apply the modern framework: Myer (s 6-5) + s 15-15 + CGT",
+   "body": "For post-20/9/1985 property with 1997-98+ profits: s 6-5 ordinary income (Myer principle), s 15-15 statutory income (profit-making undertakings/plans), CGT Part 3-1 for capital gains.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "15-15",
+     "title": "Profit-making undertaking or plan"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "legacy",
+   "type": "action",
+   "label": "Apply s 25A directly (pre-1985 property or pre-1997-98 profit)",
+   "body": "s 25A(1): profit from (a) sale of property acquired for profit-making by sale, or (b) a profit-making undertaking or scheme. Deeming rules in ss 25A(2)-(10) extend this.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "purpose",
+   "type": "decision",
+   "label": "Was the property acquired for the purpose of profit-making by sale?",
+   "body": "The gateway for s 25A(1)(a) and s 15-15. Purpose must exist at acquisition and be the dominant/prevailing purpose, evidenced objectively. TR 1995/33 discusses subjective purpose.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    }
+   ],
+   "commentary": [],
+   "rulings": [
+    {
+     "id": "TR_1995_33",
+     "title": "relevance of subjective purpose, motive or intention"
+    }
+   ],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "myer",
+   "type": "decision",
+   "label": "Did you carry on a profit-making undertaking or scheme (Myer Emporium)?",
+   "body": "Myer Emporium Ltd v FCT (1987) 163 CLR 199: profit on an isolated transaction is ordinary income where (1) purpose of profit-making at entry, (2) the transaction is a commercial dealing, (3) the profit is not a mere realisation of a capital asset. Operates through s 6-5.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "isolated-transactions-myer-principle"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1992_3",
+     "title": "Transactions with a profit-making purpose"
+    }
+   ],
+   "cases": [
+    {
+     "citation": "1987_HCA_18",
+     "note": "Myer Emporium Ltd v FCT (1987) 163 CLR 199"
+    }
+   ],
+   "definitions": []
+  },
+  {
+   "id": "scheme",
+   "type": "decision",
+   "label": "Was there an undertaking or scheme (a commercial operation), not a mere realisation?",
+   "body": "Mere realisation of a capital asset is NOT income (Scottish Australian Mining (1950); FCT v Whitfords Beach (1982)). An organised commercial operation with profit purpose IS income. The line: extent of activity — subdivision, development, marketing, organised selling.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "15-15",
+     "title": "Profit-making undertaking or plan"
+    }
+   ],
+   "commentary": [
+    "isolated-transactions-myer-principle",
+    "income-versus-capital-receipts"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "realisation",
+   "type": "outcome",
+   "label": "Mere realisation — capital, not income",
+   "body": "Capital gain under CGT (Part 3-1) for post-CGT assets; not assessable for pre-CGT assets. Scottish Australian Mining (1950), Whitfords Beach (1982).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "income",
+   "type": "end",
+   "label": "Assessable as ordinary income (Myer) or statutory income (s 15-15)",
+   "body": "Profit from a profit-making scheme is assessable: s 6-5 ordinary income (Myer) or s 15-15 statutory income. s 15-15(3): included in the year derived.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "15-15",
+     "title": "Profit-making undertaking or plan"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "deeming",
+   "type": "decision",
+   "label": "Do the s 25A(2)-(10) deeming rules apply (shares/interests in entities holding profit-making property)?",
+   "body": "s 25A(2): selling shares in a private company, partnership interest, or private trust interest is deemed a sale of property acquired for profit-making by sale IF the entity held profit-making property (or through interposed entities). s 25A(3): Commissioner discretion NOT to apply. ss 25A(4)-(8): bonus shares, rights, transfers, mergers. ss 25A(9)-(10): Commissioner determines the profit.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "deemed",
+   "type": "action",
+   "label": "Deemed profit-making purpose — profit assessable under s 25A",
+   "body": "Property deemed acquired for profit-making by sale; profit (Commissioner-determined under s 25A(9)) included under s 25A(1).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "no-deeming",
+   "type": "outcome",
+   "label": "No deeming — capital (CGT) or not assessable",
+   "body": "Post-CGT asset: capital gain subject to CGT (50% discount for individuals/trusts where applicable). Pre-CGT asset: not assessable.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "final",
+   "type": "end",
+   "label": "Analysis complete",
+   "body": "Profit is: (1) ordinary income (Myer, s 6-5); (2) statutory income (s 15-15); (3) assessable under s 25A (legacy); or (4) capital (CGT) / not assessable. Signposts: purpose at acquisition, commercial operation vs mere realisation, deeming provisions. TR 92/3 is the ATO's key guidance.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-myer-conditions",
+   "type": "outcome",
+   "label": "FACET — The Myer three conditions and their application",
+   "body": "Where to look: Myer Emporium Ltd v FCT (1987) 163 CLR 199; TR 92/3; CCH 'isolated-transactions-myer-principle'. The three conditions: (1) purpose of profit-making at the time of entering the transaction (not merely at sale); (2) the transaction is a business operation or commercial transaction; (3) the profit is not a mere realisation of a capital asset. The principle applies to losses as well as profits (a Myer loss is deductible under s 8-1 if the transaction was a commercial dealing entered into for profit).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-5",
+     "title": "Income according to ordinary concepts (ordinary income)"
+    }
+   ],
+   "commentary": [
+    "isolated-transactions-myer-principle"
+   ],
+   "rulings": [
+    {
+     "id": "TR_1992_3",
+     "title": "Transactions with a profit-making purpose"
+    }
+   ],
+   "cases": [
+    {
+     "citation": "1987_HCA_18",
+     "note": "Myer Emporium Ltd v FCT (1987) 163 CLR 199"
+    }
+   ],
+   "definitions": []
+  },
+  {
+   "id": "facet-realisation",
+   "type": "outcome",
+   "label": "FACET — The mere realisation doctrine and its limits",
+   "body": "Where to look: Scottish Australian Mining Co Ltd v FCT (1950) 81 CLR 188 (subdividing and selling a mining property remained realisation); FCT v Whitfords Beach Pty Ltd (1982) 150 CLR 355 (company formed to develop land — business, not mere realisation); Californian Copper Syndicate v Harris (1904) (classic statement). The doctrine: profits from mere realisation, even with effort to enhance saleability, are capital unless the taxpayer is carrying on a business of selling or entered a profit-making scheme.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    }
+   ],
+   "commentary": [
+    "isolated-transactions-myer-principle"
+   ],
+   "rulings": [],
+   "cases": [
+    {
+     "citation": "1950_HCA_20",
+     "note": "Scottish Australian Mining Co Ltd v FCT (1950) 81 CLR 188"
+    },
+    {
+     "citation": "1982_HCA_8",
+     "note": "FCT v Whitfords Beach Pty Ltd (1982) 150 CLR 355"
+    }
+   ],
+   "definitions": []
+  },
+  {
+   "id": "facet-2515",
+   "type": "outcome",
+   "label": "FACET — s 15-15 ITAA 1997 (the statutory limb)",
+   "body": "Where to look: s 15-15 (profit-making undertaking or plan — statutory income); s 15-15(2) (timing — profit derived when the undertaking/plan is carried out, subject to s 15-15(3)); s 15-15(3) (the profit is included in the year it is derived). s 25A(1B) diverts post-1997-98 profits to s 15-15.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "15-15",
+     "title": "Profit-making undertaking or plan"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-deeming-cascade",
+   "type": "outcome",
+   "label": "FACET — The s 25A(2)-(10) deeming cascade in detail",
+   "body": "Where to look: s 25A(2) (private company shares / partnership interests / private trust interests deemed profit-making where the entity holds profit-making property — sub-para (b)(i) direct, (b)(ii) through interposed entities); s 25A(3) (Commissioner's discretion having regard to assets, control, other sales); s 25A(4) (bonus shares and rights); s 25A(5) (prescribed transfers); s 25A(6)-(8) (merged interests, underlying property, transferred property); s 25A(9)-(10) (Commissioner determines the profit amount, with the pre-1985 adjustment).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-commissioner",
+   "type": "outcome",
+   "label": "FACET — The s 25A(3) Commissioner discretion",
+   "body": "Where to look: s 25A(3) — the Commissioner may decide s 25A(2) should NOT apply, considering: (a) the extent to which the entity's assets consisted of the profit-making property immediately before sale; (b) the nature and extent of the taxpayer's control of the entity; (c) circumstances of other sales of interests in the entity; (d) such other matters as the Commissioner considers relevant. A protective discretion — the taxpayer can request it not be applied.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "25A",
+     "title": "Assessable income to include certain profits"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-timing",
+   "type": "outcome",
+   "label": "FACET — Timing and year of derivation",
+   "body": "Where to look: s 15-15(2)-(3) (profit derived when the undertaking/plan is carried out, in the year derived); s 25A(9) (Commissioner determines the profit and implicitly the year). CGT timing: CGT event A1 at disposal (contract date, s 104-10(3)). The income/capital character must be determined as at acquisition.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "15-15",
+     "title": "Profit-making undertaking or plan"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "date",
+   "label": "Profit on sale"
+  },
+  {
+   "from": "date",
+   "to": "modern",
+   "label": "Post-CGT, post-1997"
+  },
+  {
+   "from": "date",
+   "to": "legacy",
+   "label": "Pre-CGT property or pre-1997-98 profit"
+  },
+  {
+   "from": "modern",
+   "to": "purpose",
+   "label": "Check profit-making purpose"
+  },
+  {
+   "from": "legacy",
+   "to": "purpose",
+   "label": "Check profit-making purpose"
+  },
+  {
+   "from": "purpose",
+   "to": "myer",
+   "label": "Profit-making purpose exists"
+  },
+  {
+   "from": "myer",
+   "to": "scheme",
+   "label": "Profit purpose + commercial dealing"
+  },
+  {
+   "from": "scheme",
+   "to": "realisation",
+   "label": "No — mere realisation"
+  },
+  {
+   "from": "scheme",
+   "to": "income",
+   "label": "Yes — profit-making undertaking/scheme"
+  },
+  {
+   "from": "legacy",
+   "to": "deeming",
+   "label": "s 25A legacy applies"
+  },
+  {
+   "from": "purpose",
+   "to": "deeming",
+   "label": "Also check deeming rules"
+  },
+  {
+   "from": "deeming",
+   "to": "deemed",
+   "label": "Yes — deeming applies"
+  },
+  {
+   "from": "deeming",
+   "to": "no-deeming",
+   "label": "No — deeming does not apply"
+  },
+  {
+   "from": "income",
+   "to": "final",
+   "label": "Assessable as income"
+  },
+  {
+   "from": "deemed",
+   "to": "final",
+   "label": "Assessable under s 25A"
+  },
+  {
+   "from": "realisation",
+   "to": "final",
+   "label": "Capital — CGT"
+  },
+  {
+   "from": "no-deeming",
+   "to": "final",
+   "label": "Capital or not assessable"
+  },
+  {
+   "from": "myer",
+   "to": "facet-myer-conditions",
+   "label": "Facet: Myer conditions"
+  },
+  {
+   "from": "scheme",
+   "to": "facet-realisation",
+   "label": "Facet: mere realisation"
+  },
+  {
+   "from": "modern",
+   "to": "facet-2515",
+   "label": "Facet: s 15-15"
+  },
+  {
+   "from": "deeming",
+   "to": "facet-deeming-cascade",
+   "label": "Facet: deeming cascade"
+  },
+  {
+   "from": "deeming",
+   "to": "facet-commissioner",
+   "label": "Facet: s 25A(3) discretion"
+  },
+  {
+   "from": "income",
+   "to": "facet-timing",
+   "label": "Facet: timing"
+  }
+ ],
+ "short": "Profit-making schemes (Myer)",
+ "refs": "s 25A · s 15-15 · Myer",
+ "sort": 5
+}

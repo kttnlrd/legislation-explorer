@@ -1,0 +1,913 @@
+{
+ "id": "itaa-1997-div-83a-employee-share-schemes",
+ "title": "Division 83A ITAA 1997 — Employee share schemes",
+ "act": "itaa-1997",
+ "part": "2-40",
+ "division": "83A",
+ "subdivision": "",
+ "compilation_no": 263,
+ "compilation_date": "2026-04-01",
+ "summary": "Division 83A taxes discounts on shares, rights and stapled securities acquired under an employee share scheme. The default rule in Subdivision 83A-B includes the discount in assessable income in the acquisition year (s 83A-25), with possible reductions under the start-up concession (s 83A-33) or the general $1,000 reduction subject to the $180,000 income test (ss 83A-35, 83A-45). Employers may deduct the s 83A-35 reduction (s 83A-205), with timing deferred until acquisition where pre-funding is provided (s 83A-210). Alternatively, where there is a real risk of forfeiture or the other s 83A-105 conditions are met, Subdivision 83A-C defers taxation to the ESS deferred taxing point for shares (s 83A-115) or rights (s 83A-120), with assessable income equal to market value less cost base (s 83A-110) and a market-value reset after the deferral point (s 83A-125). Ancillary rules address associates, forfeiture reversals, market-value regulations, trusts, similar relationships, ceasing employment, stapled securities and indeterminate rights.",
+ "short": "Employee share schemes",
+ "refs": "Div 83A",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "An ESS interest may be acquired under an employee share scheme",
+   "body": "Division 83A includes discounts on ESS interests in assessable income: s 83A-1. An ESS interest is a beneficial interest in a share or right to acquire a share: s 83A-10(1). An employee share scheme provides ESS interests to employees or associates (including past/prospective employees) of the company or its subsidiaries in relation to employment: s 83A-10(2). Extensions: similar relationships (s 83A-325), trusts (s 83A-320), stapled securities (s 83A-335), indeterminate rights (s 83A-340).",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-10",
+     "title": "ESS s 83A-10"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-320",
+     "title": "ESS s 83A-320"
+    }
+   ]
+  },
+  {
+   "id": "dec_associate",
+   "type": "decision",
+   "label": "Is the ESS interest acquired by an associate?",
+   "body": "Section 83A-305 treats an associate's acquisition of an ESS interest in relation to the individual's employment as the individual's own acquisition for Division 83A purposes. The question is whether an associate, other than an employee share trust, acquired the interest.",
+   "rulings": [
+    {
+     "id": "TD_2016_17",
+     "title": "provided the Commissioner is not prevented from doing so by a time limit imposed by the…"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-305",
+     "title": "ESS s 83A-305"
+    }
+   ]
+  },
+  {
+   "id": "action_associate",
+   "type": "action",
+   "label": "Associate acquisition treated as employee acquisition",
+   "body": "If an associate (other than an employee share trust) acquires an ESS interest in relation to the individual's employment, including past or prospective employment, treat the acquisition as the individual's acquisition for the purposes of Division 83A: s 83A-305(1).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-305",
+     "title": "ESS s 83A-305"
+    }
+   ]
+  },
+  {
+   "id": "action_characterise",
+   "type": "action",
+   "label": "Identify the scheme, company and ESS interest type",
+   "body": "Identify the scheme, company and interest type. An ESS interest is a beneficial interest in a share or right to acquire a share: s 83A-10(1). An employee share scheme provides ESS interests to employees or associates of the company or its subsidiaries in relation to employment: s 83A-10(2). Trust interests corresponding to shares are covered: s 83A-320. Stapled securities with a share component are treated as shares: s 83A-335. Indeterminate rights are treated as rights: s 83A-340.",
+   "rulings": [
+    {
+     "id": "TR_2018_7",
+     "title": "what this Ruling is about 1 Definitions 4 Previous ruling 6 Ruling 7"
+    },
+    {
+     "id": "TD_2014_21",
+     "title": "TD 2014/21 [WITHDRAWN]"
+    },
+    {
+     "id": "TD_2017_26",
+     "title": "when a dividend equivalent payment is assessable to an employee as remuneration Please…"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-10",
+     "title": "ESS s 83A-10"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-340",
+     "title": "ESS s 83A-340"
+    }
+   ]
+  },
+  {
+   "id": "action_market_value",
+   "type": "action",
+   "label": "Check for substituted market value under regulations",
+   "body": "s 83A-315: wherever Division 83A (other than s 83A-20) uses market value, use the amount prescribed by the regulations if one is specified — including in working out the discount and deferred inclusion amounts (s 83A-315(1),(2)). For unlisted rights, regs 83A-315.01–.09: the individual may choose market value or the calculation-percentage method — Table 1 (calculation percentage 50% to <110%) and Table 2 (110% or more) keyed to the exercise period, with the value nil if the calculation percentage is below 50% (reg 83A-315.07). If the exercise price is nil or cannot be determined, the right's value equals the share's market value (reg 83A-315.03). The value of a beneficial interest is the value of the share or right itself (reg 83A-315.04). Rights must be exercised within 15 years for the choice in reg 83A-315.01 to apply.",
+   "rulings": [
+    {
+     "id": "AID_2012_68",
+     "title": "Employee Share Scheme: unlisted options to acquire shares in a company not acquired at a…"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-315",
+     "title": "ESS s 83A-315"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-20",
+     "title": "ESS s 83A-20"
+    }
+   ]
+  },
+  {
+   "id": "dec_discount",
+   "type": "decision",
+   "label": "Is the ESS interest acquired at a discount?",
+   "body": "Subdivision 83A-B applies only if the ESS interest is acquired under an employee share scheme at a discount: s 83A-20(1). Compare the market value, as adjusted under s 83A-315, with the cost of acquisition. No discount means no Division 83A inclusion.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-315",
+     "title": "ESS s 83A-315"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-20",
+     "title": "ESS s 83A-20"
+    }
+   ]
+  },
+  {
+   "id": "outcome_no_discount",
+   "type": "end",
+   "label": "No Division 83A discount assessed",
+   "body": "No discount arises under Division 83A. The ESS interest is not assessed under s 83A-25 on acquisition. Its subsequent disposal or exercise is outside Division 83A and may be dealt with under other provisions, including CGT.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    }
+   ]
+  },
+  {
+   "id": "dec_deferral",
+   "type": "decision",
+   "label": "Can Subdivision 83A-C defer the discount?",
+   "body": "Deferral under s 83A-105 requires: Subdivision 83A-B would otherwise apply; after applying s 83A-315 there is still a discount; s 83A-33 start-up does not reduce the amount; s 83A-45(1),(2),(3),(6) apply; for shares, broad availability (s 83A-105(2)) and a real risk of forfeiture/loss (s 83A-105(3) or (4)); for rights, s 83A-105(3) or (6).",
+   "rulings": [
+    {
+     "id": "TD_2022_4",
+     "title": "Income tax: when are you genuinely restricted from immediately disposing of an interest…"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-33",
+     "title": "ESS s 83A-33"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-45",
+     "title": "ESS s 83A-45"
+    }
+   ]
+  },
+  {
+   "id": "action_immediate_include",
+   "type": "action",
+   "label": "Include the discount in the acquisition year",
+   "body": "Include the discount in assessable income for the acquisition year under s 83A-25(1). Foreign-source apportionment applies: the amount is non-Australian source to the extent it relates to employment outside Australia: s 83A-25(2). For other provisions, the ESS interest and underlying share or right are generally taken acquired at market value, not discounted cost: s 83A-30(1), except for start-up rights: s 83A-30(2).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-30",
+     "title": "ESS s 83A-30"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    }
+   ]
+  },
+  {
+   "id": "dec_forfeiture_immediate",
+   "type": "decision",
+   "label": "Has the ESS interest been forfeited or lost?",
+   "body": "Section 83A-310 can reverse the Division if the individual forfeited the share, or forfeited/lost the right without disposal/exercise, and the forfeiture was not a protected choice or condition falling within s 83A-310(1)(c). Choices to cease particular employment or let a right lapse are not disqualifying: s 83A-310(2).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-310",
+     "title": "ESS s 83A-310"
+    }
+   ]
+  },
+  {
+   "id": "outcome_forfeiture_immediate",
+   "type": "end",
+   "label": "Immediate inclusion reversed on forfeiture",
+   "body": "Division 83A is taken never to have applied to the forfeited ESS interest. The amount included under s 83A-25(1) is reversed, subject to the exceptions in s 83A-310(1)(c).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-310",
+     "title": "ESS s 83A-310"
+    }
+   ]
+  },
+  {
+   "id": "dec_startup",
+   "type": "decision",
+   "label": "Does the s 83A-33 start-up reduction apply?",
+   "body": "The start-up concession (s 83A-33(1)) reduces the s 83A-25 amount to nil where ALL of the following apply: (2) no equity interests in the company, any subsidiary, any holding company or any subsidiary of a holding company are listed on an approved stock exchange (at the end of the most recent income year before acquisition); (3) the company and each of those other companies were incorporated less than 10 years before the end of that income year; (4) the company's aggregated turnover for that year does not exceed $50 million; (6) when you acquire the interest, your employer is an Australian resident company. For (2) and (4), disregard eligible venture capital investments by a VCLP, ESVCLP or AFOF and investments by a deductible-gift-recipient exempt entity (s 83A-33(7)). The s 83A-45 further conditions and, for shares, the s 83A-105(2) broad-availability test must also be satisfied (s 83A-33(1)(b),(c)).",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-33",
+     "title": "ESS s 83A-33"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-45",
+     "title": "ESS s 83A-45"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    }
+   ]
+  },
+  {
+   "id": "action_startup",
+   "type": "action",
+   "label": "Apply start-up reduction to nil",
+   "body": "Reduce the total amount included under s 83A-25(1) for the income year by the total for all ESS interests meeting s 83A-33(2)-(6) and s 83A-45. This typically reduces the start-up share or right discount to nil. For eligible rights, the market-value acquisition rule in s 83A-30(1) is disapplied: s 83A-30(2).",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-33",
+     "title": "ESS s 83A-33"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-45",
+     "title": "ESS s 83A-45"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    }
+   ]
+  },
+  {
+   "id": "outcome_startup_end",
+   "type": "end",
+   "label": "Start-up concession applied",
+   "body": "Start-up concession applied: the eligible ESS discount is reduced to nil in the acquisition year. No employer deduction arises under s 83A-205 because the reduction is under s 83A-33, not s 83A-35.",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-33",
+     "title": "ESS s 83A-33"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-205",
+     "title": "ESS s 83A-205"
+    }
+   ]
+  },
+  {
+   "id": "dec_other_reduction",
+   "type": "decision",
+   "label": "Does the s 83A-35 reduction apply instead?",
+   "body": "The s 83A-35 reduction requires s 83A-35(6),(7) and the s 83A-45 further conditions, including: employed by the company or subsidiary (s 83A-45(1)); all available ESS interests relate to ordinary shares (s 83A-45(2)); not a share trading/investment company (s 83A-45(3)); and the remaining s 83A-45 conditions.",
+   "rulings": [
+    {
+     "id": "AID_2003_1067",
+     "title": "Employee share scheme: ordinary share requirement for 'qualifying shares'"
+    },
+    {
+     "id": "AID_2003_1068",
+     "title": "Employee share scheme: ordinary share requirement for 'qualifying rights'"
+    },
+    {
+     "id": "AID_2010_62",
+     "title": "Employee share scheme: whether interests in a corporate limited partnership are ordinary…"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-45",
+     "title": "ESS s 83A-45"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-35",
+     "title": "ESS s 83A-35"
+    }
+   ]
+  },
+  {
+   "id": "action_other_reduction",
+   "type": "action",
+   "label": "Apply capped s 83A-35 reduction",
+   "body": "Reduce the total included under s 83A-25(1) by the qualifying ESS interests amount: s 83A-35(1). Cap the reduction at $1,000 and apply the income test: taxable income plus reportable fringe benefits total, reportable super contributions and total net investment loss must not exceed $180,000: s 83A-35(2). The scheme must be non-discriminatory: s 83A-35(6).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-35",
+     "title": "ESS s 83A-35"
+    }
+   ]
+  },
+  {
+   "id": "outcome_full_discount",
+   "type": "end",
+   "label": "Full discount assessed",
+   "body": "No reduction applies. The full discount is included in assessable income under s 83A-25(1) in the acquisition year. No employer deduction is available under s 83A-205 because there is no s 83A-35 reduction.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-35",
+     "title": "ESS s 83A-35"
+    }
+   ]
+  },
+  {
+   "id": "action_employer_deduction",
+   "type": "action",
+   "label": "Employer deduction under s 83A-205",
+   "body": "The employer or a holding company can deduct an amount for ESS interests provided if s 83A-35 reduces the individual's amount under s 83A-25(1): s 83A-205(1). The deduction equals the reduction; disregard the income test in s 83A-35(2)(b): s 83A-205(2),(3). Apportion between multiple entities on a reasonable basis: s 83A-205(4).",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-205",
+     "title": "ESS s 83A-205"
+    }
+   ]
+  },
+  {
+   "id": "action_employer_timing",
+   "type": "action",
+   "label": "Deduction deferred to acquisition time",
+   "body": "Timing of general deductions: if money or other property is provided under an arrangement to enable an individual to acquire an ESS interest before the acquisition time, the provider is taken to provide the money or property at the acquisition time: s 83A-210. This defers the deduction to the actual acquisition year.",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-210",
+     "title": "ESS s 83A-210"
+    }
+   ]
+  },
+  {
+   "id": "outcome_employer_end",
+   "type": "end",
+   "label": "Immediate inclusion and employer deduction complete",
+   "body": "Immediate inclusion with s 83A-35 reduction complete. The employee includes the reduced discount under s 83A-25(1), and the employer or holding company deducts an equal amount under s 83A-205 at the acquisition time.",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-25",
+     "title": "ESS s 83A-25"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-35",
+     "title": "ESS s 83A-35"
+    }
+   ]
+  },
+  {
+   "id": "action_deferred_regime",
+   "type": "action",
+   "label": "Apply Subdivision 83A-C deferred taxation",
+   "body": "Because s 83A-105 is satisfied, Subdivision 83A-C applies and Subdivision 83A-B does not. The discount is not included on acquisition. Instead, in the income year of the ESS deferred taxing point, include market value of the interest at that point less cost base: s 83A-110(1). Amounts relating to employment outside Australia are non-Australian source: s 83A-110(2).",
+   "rulings": [
+    {
+     "id": "AID_2010_61",
+     "title": "Employee share scheme: real risk of forfeiture - minimum term of employment and good…"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-105",
+     "title": "ESS s 83A-105"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-110",
+     "title": "ESS s 83A-110"
+    }
+   ]
+  },
+  {
+   "id": "action_ceasing_employment",
+   "type": "action",
+   "label": "Check ceasing employment rule",
+   "body": "Ceasing employment is defined broadly: you are treated as ceasing employment when no longer employed by the employer, a holding company of the employer, an employer subsidiary, or a subsidiary of the holding company: s 83A-330. This can affect forfeiture conditions and continued employment requirements.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-330",
+     "title": "ESS s 83A-330"
+    }
+   ]
+  },
+  {
+   "id": "dec_takeover",
+   "type": "decision",
+   "label": "Has a takeover or restructure replaced the ESS interests?",
+   "body": "Section 83A-130 applies if an arrangement results in the old company becoming a 100% subsidiary, or ESS interests are replaced by interests in other companies because of a change in ownership or demerger, and just before the takeover or restructure the individual held old ESS interests: s 83A-130(1).",
+   "rulings": [
+    {
+     "id": "TD_2019_13",
+     "title": "the company, or - a subsidiary of the company &bull; other activities that are merely…"
+    },
+    {
+     "id": "TD_2020_6",
+     "title": "Income tax: what is a 'restructuring' for the purposes of subsection 125-70(1) of the"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-130",
+     "title": "ESS s 83A-130"
+    }
+   ]
+  },
+  {
+   "id": "action_takeover",
+   "type": "action",
+   "label": "Apply takeover/restructure continuation rules",
+   "body": "Treat new ESS interests as continuations of old interests to the extent the old interests stop being held and the new interests can reasonably be regarded as matching old interests: s 83A-130(2). Employment by the new company, subsidiary, or holding company is treated as continued employment: s 83A-130(6). Old interests not matched are treated as disposed: s 83A-130(5). Section 83A-45(4) applies: s 83A-130(3).",
+   "rulings": [
+    {
+     "id": "AID_2008_59",
+     "title": "Employee share scheme: replacement rights received on company takeover"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-45",
+     "title": "ESS s 83A-45"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-130",
+     "title": "ESS s 83A-130"
+    }
+   ]
+  },
+  {
+   "id": "dec_interest_type",
+   "type": "decision",
+   "label": "Is the deferred interest a share or a right?",
+   "body": "For a beneficial interest in a share (including a stapled security treated as a share: s 83A-335) apply s 83A-115. For a beneficial interest in a right to acquire a share (including an indeterminate right treated as a right: s 83A-340) apply s 83A-120.",
+   "rulings": [
+    {
+     "id": "AID_2007_66",
+     "title": "Employee Share Scheme: rights to acquire shares subject to shareholder approval"
+    },
+    {
+     "id": "AID_2010_142",
+     "title": "Employee share scheme: indeterminate rights not fringe benefits"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-340",
+     "title": "ESS s 83A-340"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-115",
+     "title": "ESS s 83A-115"
+    }
+   ]
+  },
+  {
+   "id": "action_dtp_share",
+   "type": "action",
+   "label": "Determine ESS deferred taxing point for shares",
+   "body": "For shares, the ESS deferred taxing point is the earliest of the time when there is no real risk of forfeiture and no scheme disposal restriction, the end of the 15-year period since acquisition, or a disposal within 30 days after that earliest time: s 83A-115(2),(3),(4).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-115",
+     "title": "ESS s 83A-115"
+    }
+   ]
+  },
+  {
+   "id": "action_dtp_right",
+   "type": "action",
+   "label": "Determine ESS deferred taxing point for rights",
+   "body": "For rights, the ESS deferred taxing point is the earliest of: no risk of forfeiting or losing the right and no disposal restriction (s 83A-120(4)); end of the 15-year period (s 83A-120(6)); and after exercise, no risk of forfeiting or losing the share and no disposal restriction on the share (s 83A-120(7)). A disposal or share disposal within 30 days of that time is the taxing point: s 83A-120(3).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-120",
+     "title": "ESS s 83A-120"
+    }
+   ]
+  },
+  {
+   "id": "action_deferred_assess",
+   "type": "action",
+   "label": "Include deferred gain at the ESS deferred taxing point",
+   "body": "At the ESS deferred taxing point, include market value of the ESS interest reduced by cost base: s 83A-110(1). Apportion non-Australian source to the extent the amount relates to employment outside Australia: s 83A-110(2). This is statutory income for the year of the deferred taxing point.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-110",
+     "title": "ESS s 83A-110"
+    }
+   ]
+  },
+  {
+   "id": "dec_forfeiture_deferred",
+   "type": "decision",
+   "label": "Has the deferred ESS interest been forfeited or lost?",
+   "body": "Section 83A-310 may reverse the Division if the individual forfeited or lost the ESS interest after an amount was included at the deferred taxing point, unless the forfeiture or loss results from a protected choice other than ceasing employment or allowing a right to lapse, or is a protective condition: s 83A-310(1),(2).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-310",
+     "title": "ESS s 83A-310"
+    }
+   ]
+  },
+  {
+   "id": "outcome_forfeiture_deferred",
+   "type": "end",
+   "label": "Deferred inclusion reversed on forfeiture",
+   "body": "Division 83A is taken never to have applied to the forfeited deferred interest. The s 83A-110 amount is reversed, subject to the protected choice or condition exceptions in s 83A-310(1)(c).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-310",
+     "title": "ESS s 83A-310"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-110",
+     "title": "ESS s 83A-110"
+    }
+   ]
+  },
+  {
+   "id": "action_post_dtp",
+   "type": "action",
+   "label": "Apply post-deferred-taxing-point acquisition rule",
+   "body": "After the ESS deferred taxing point, for all provisions outside Division 83A, the ESS interest and the underlying share or right are taken acquired immediately after the deferred taxing point for market value, unless the deferred taxing point is disposal: s 83A-125. This resets the cost base, with CGT consequences under Subdivision 130-D.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-125",
+     "title": "ESS s 83A-125"
+    }
+   ]
+  },
+  {
+   "id": "outcome_deferred_end",
+   "type": "end",
+   "label": "Deferred taxation complete",
+   "body": "Deferred taxation complete. The discount was not included on acquisition; the market-value-less-cost-base amount under s 83A-110(1) was included at the deferred taxing point; and the interest now has the s 83A-125 acquisition treatment.",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-125",
+     "title": "ESS s 83A-125"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-110",
+     "title": "ESS s 83A-110"
+    }
+   ]
+  },
+  {
+   "id": "action_83a45",
+   "type": "action",
+   "label": "Check the s 83A-45 further conditions",
+   "body": "s 83A-45 further conditions: (1) when you acquire the interest you are employed by the company or a subsidiary; (2) all ESS interests available under the scheme relate to ordinary shares; (3) integrity rule — the company's predominant business must not be the acquisition, sale or holding of shares, securities or other investments (unless you are employed by it); (4) minimum holding period — the scheme must be operated so that no acquirer can dispose of the interest or the underlying share during the minimum holding period (3 years, or earlier by Commissioner allowance or on ceasing employment — s 83A-45(5)); (6) immediately after acquisition, you and your associates hold no more than 10% of the shares or voting power in the company. For shares, the s 83A-105(2) broad-availability test (75% of eligible permanent employees entitled to acquire) is also required: s 83A-33(1)(c).",
+   "rulings": [],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-33",
+     "title": "ESS s 83A-33"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "83A-45",
+     "title": "ESS s 83A-45"
+    }
+   ]
+  },
+  {
+   "id": "action_startup_market_value",
+   "type": "action",
+   "label": "s 83A-33(5) market value conditions — LI 2025/19 safe harbours",
+   "body": "s 83A-33(5): for shares, the discount must be no more than 15% of the share's market value; for rights, the exercise price must be at least the market value of an ordinary share. For unlisted shares, LI 2025/19 (replacing ESS 2015/1) provides two safe-harbour methods. Method One (comprehensive): the CFO or a qualified independent valuer determines market value from commercial and financial factors — assets, market comparables, control premiums, lack-of-marketability discounts, key person risk, projected future cash flows — endorsed by board resolution. Method Two (net tangible assets): the company must not have raised more than $10 million in the past 12 months, be not more than 7 years old or a small business entity, and have prepared or intend to prepare a financial report — value = (net tangible assets, adjusted for preference share obligations) ÷ number of relevant shares on issue. An alternative method is protected if it produces a value not less than an eligible approved method.",
+   "rulings": [
+    {
+     "id": "TD_2022_8",
+     "title": "Income tax: deductibility of expenses incurred in establishing and administering an employee share scheme"
+    }
+   ],
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "83A-33",
+     "title": "ESS s 83A-33"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec_associate",
+   "label": "Employee or associate acquires an ESS interest"
+  },
+  {
+   "from": "dec_associate",
+   "to": "action_associate",
+   "label": "Yes — associate acquired the interest"
+  },
+  {
+   "from": "dec_associate",
+   "to": "action_characterise",
+   "label": "No — employee acquired the interest"
+  },
+  {
+   "from": "action_associate",
+   "to": "action_characterise",
+   "label": "Associate acquisition treated as employee acquisition"
+  },
+  {
+   "from": "action_characterise",
+   "to": "action_market_value",
+   "label": "ESS interest and scheme identified"
+  },
+  {
+   "from": "action_market_value",
+   "to": "dec_discount",
+   "label": "Market value determined under s 83A-315"
+  },
+  {
+   "from": "dec_discount",
+   "to": "dec_deferral",
+   "label": "Yes — acquired at a discount"
+  },
+  {
+   "from": "dec_discount",
+   "to": "outcome_no_discount",
+   "label": "No — market value acquisition"
+  },
+  {
+   "from": "dec_deferral",
+   "to": "action_deferred_regime",
+   "label": "Yes — deferred taxing point available"
+  },
+  {
+   "from": "dec_deferral",
+   "to": "action_immediate_include",
+   "label": "No — immediate inclusion applies"
+  },
+  {
+   "from": "action_immediate_include",
+   "to": "dec_forfeiture_immediate",
+   "label": "Discount included under s 83A-25(1)"
+  },
+  {
+   "from": "dec_forfeiture_immediate",
+   "to": "outcome_forfeiture_immediate",
+   "label": "Yes — forfeiture or loss"
+  },
+  {
+   "from": "dec_forfeiture_immediate",
+   "to": "dec_startup",
+   "label": "No — no forfeiture"
+  },
+  {
+   "from": "dec_startup",
+   "to": "dec_other_reduction",
+   "label": "No — check s 83A-35 reduction"
+  },
+  {
+   "from": "action_startup",
+   "to": "outcome_startup_end",
+   "label": "Assessable amount reduced to nil"
+  },
+  {
+   "from": "dec_other_reduction",
+   "to": "action_other_reduction",
+   "label": "Yes — s 83A-35 reduction available"
+  },
+  {
+   "from": "dec_other_reduction",
+   "to": "outcome_full_discount",
+   "label": "No — no reduction applies"
+  },
+  {
+   "from": "action_other_reduction",
+   "to": "action_employer_deduction",
+   "label": "Reduction applied under s 83A-35"
+  },
+  {
+   "from": "action_employer_deduction",
+   "to": "action_employer_timing",
+   "label": "Deduction available under s 83A-205"
+  },
+  {
+   "from": "action_employer_timing",
+   "to": "outcome_employer_end",
+   "label": "Timing determined under s 83A-210"
+  },
+  {
+   "from": "action_deferred_regime",
+   "to": "action_ceasing_employment",
+   "label": "Subdivision 83A-C applies"
+  },
+  {
+   "from": "action_ceasing_employment",
+   "to": "dec_takeover",
+   "label": "Ceasing employment checked"
+  },
+  {
+   "from": "dec_takeover",
+   "to": "action_takeover",
+   "label": "Yes — takeover or restructure"
+  },
+  {
+   "from": "dec_takeover",
+   "to": "dec_interest_type",
+   "label": "No — no takeover or restructure"
+  },
+  {
+   "from": "action_takeover",
+   "to": "dec_interest_type",
+   "label": "Continuation rules applied"
+  },
+  {
+   "from": "dec_interest_type",
+   "to": "action_dtp_share",
+   "label": "Share or stapled security"
+  },
+  {
+   "from": "dec_interest_type",
+   "to": "action_dtp_right",
+   "label": "Right to acquire share"
+  },
+  {
+   "from": "action_dtp_share",
+   "to": "action_deferred_assess",
+   "label": "Deferred taxing point for share determined"
+  },
+  {
+   "from": "action_dtp_right",
+   "to": "action_deferred_assess",
+   "label": "Deferred taxing point for right determined"
+  },
+  {
+   "from": "action_deferred_assess",
+   "to": "dec_forfeiture_deferred",
+   "label": "Amount included at deferred taxing point"
+  },
+  {
+   "from": "dec_forfeiture_deferred",
+   "to": "outcome_forfeiture_deferred",
+   "label": "Yes — forfeiture or loss"
+  },
+  {
+   "from": "dec_forfeiture_deferred",
+   "to": "action_post_dtp",
+   "label": "No — continue post-DTP treatment"
+  },
+  {
+   "from": "action_post_dtp",
+   "to": "outcome_deferred_end",
+   "label": "Post-DTP acquisition treatment applied"
+  },
+  {
+   "from": "dec_startup",
+   "to": "action_83a45",
+   "label": "Yes — check the s 83A-45 further conditions and broad availability"
+  },
+  {
+   "from": "dec_startup",
+   "to": "dec_other_reduction",
+   "label": "No — check the s 83A-35 reduction instead"
+  },
+  {
+   "from": "action_83a45",
+   "to": "action_startup_market_value",
+   "label": "Conditions met — check the s 83A-33(5) market value conditions"
+  },
+  {
+   "from": "action_83a45",
+   "to": "dec_other_reduction",
+   "label": "A further condition fails — s 83A-35 may still apply"
+  },
+  {
+   "from": "action_startup_market_value",
+   "to": "action_startup",
+   "label": "Discount ≤15% / exercise price ≥ market value — reduce to nil (s 83A-33(1))"
+  },
+  {
+   "from": "action_startup_market_value",
+   "to": "dec_other_reduction",
+   "label": "Market value conditions not met — s 83A-35 may still apply"
+  }
+ ],
+ "sort": 17
+}

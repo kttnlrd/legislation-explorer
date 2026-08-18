@@ -1,0 +1,85 @@
+# Employee Share Schemes Workflow — v0.1 (draft)
+# Decision map for ESS (Div 83A ITAA 1997): when an ESS interest is
+# acquired, taxing points, discounts, deferred taxing, start-ups.
+# Anchors verified against local itaa-1997 corpus (division-83A).
+
+id: ess
+name: Employee Share Schemes
+area: income-tax
+version: 0.1
+entry: [ess_interest]
+
+nodes:
+
+  ess_interest:
+    question: "Is there an ESS interest? (s 83A-10 — a beneficial interest in a share or right acquired under an employee share scheme, at a discount)"
+    fetch: ["itaa-1997:83A-10"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "no ESS interest (ordinary market purchase, not under an ESS)"
+        then: stop_no_ess
+      - if: "ESS interest acquired under a scheme"
+        then: scheme_type
+
+  stop_no_ess:
+    question: "Not an ESS interest — Div 83A does not apply; ordinary income/capital rules apply."
+    terminal: true
+
+  scheme_type:
+    question: "What type of scheme? — taxed-upfront (discount included in assessable income at acquisition) or deferred-taxing (tax at a later taxing point)?"
+    fetch: ["itaa-1997:83A-105", "itaa-1997:83A-110", "itaa-1997:83A-115"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "taxed-upfront scheme (s 83A-110) — discount taxed at acquisition"
+        then: discount_amount
+      - if: "deferred-taxing scheme (s 83A-115/83A-120) — tax at the deferred taxing point"
+        then: deferred_taxing_point
+
+  discount_amount:
+    question: "What is the discount? (s 83A-110 — market value of the interest minus what the employee paid; includes the $1,000 tax-free concession for certain employees: s 83A-45)"
+    fetch: ["itaa-1997:83A-110", "itaa-1997:83A-45"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "discount $1,000 or less (eligible employee, no other ESS interests)"
+        then: stop_1000
+      - if: "discount above $1,000"
+        then: stop_done
+
+  deferred_taxing_point:
+    question: "When is the deferred taxing point? (s 83A-115 for shares, s 83A-120 for rights — generally the earliest of: ESS interest ceases to be subject to forfeiture, 15 years after acquisition, or employment ceases)"
+    fetch: ["itaa-1997:83A-115", "itaa-1997:83A-120"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "deferred taxing point reached"
+        then: deferred_amount
+      - if: "still subject to forfeiture and within 15 years"
+        then: stop_not_yet
+
+  deferred_amount:
+    question: "What is assessable at the deferred taxing point? (s 83A-110 for deferred schemes — market value at the taxing point minus cost base, with reductions for amounts already taxed; no $1,000 concession at this point)"
+    fetch: ["itaa-1997:83A-110"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "cessation of employment event — check special rules"
+        then: stop_done
+      - if: "standard deferred taxing point"
+        then: stop_done
+
+  stop_1000:
+    question: "$1,000 concession applies (s 83A-45) — the discount up to $1,000 is tax-free."
+    terminal: true
+
+  stop_not_yet:
+    question: "Deferred taxing point not yet reached — no amount assessable now; monitor for the taxing point (forfeiture release, 15 years, cessation)."
+    terminal: true
+
+  stop_done:
+    question: "ESS analysis complete — present the amount assessable (and CGT cost base adjustments, s 83A-125) with authorities."
+    terminal: true
+
+rules:
+  - "ESS interests are taxed on the discount (s 83A-110) or at the deferred taxing point (s 83A-115/83A-120) — the discount is the taxable amount, not the full value."
+  - "The $1,000 concession (s 83A-45) only applies to taxed-upfront schemes for eligible employees."
+  - "Deferred taxing point: earliest of forfeiture release, 15 years, or cessation of employment (s 83A-115/120)."
+  - "The cost base of the shares is adjusted to avoid double taxation (s 83A-125)."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."

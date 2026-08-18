@@ -230,11 +230,30 @@ class TestListIssues:
 
 class TestCreateIssue:
 
+    @pytest.fixture(autouse=True)
+    def _no_live_db_writes(self, monkeypatch):
+        """Keep auth-contract tests from writing real tickets to the live DB.
+
+        Previously every test-suite run inserted "Test issue" / "Auth test issue"
+        rows into cadena_knowledge.issues, polluting the bug queue (CDN-0105–0113
+        etc). These tests verify auth + response shape only, so stub the route's
+        DB helpers: no INSERT ever reaches the database.
+        """
+        import backend.routes.issues as issues_route
+
+        def fake_dict(columns, query):
+            if "MAX(id)" in query:
+                return [{"next_id": 900000}]
+            return []
+
+        monkeypatch.setattr(issues_route, "_sql_write", lambda sql: True)
+        monkeypatch.setattr(issues_route, "_sql_dict", fake_dict)
+
     def test_public_without_auth(self, token_disabled):
         """Create issue publicly when no bearer token is configured."""
         response = client.post(
             "/api/issues",
-            params={"category": "bug", "tool": "test-tool", "note": "Test issue"},
+            json={"category": "bug", "tool": "test-tool", "note": "Test issue"},
         )
         # Returns 200 with ticket info — DB may not be available in test,
         # but the route code handles failures gracefully.
@@ -247,7 +266,7 @@ class TestCreateIssue:
         """Returns 401 when BEARER_TOKEN is set but no Authorization header."""
         response = client.post(
             "/api/issues",
-            params={"category": "bug", "note": "Test"},
+            json={"category": "bug", "note": "Test"},
         )
         assert response.status_code == 401
 
@@ -255,7 +274,7 @@ class TestCreateIssue:
         """Returns 200 with valid bearer token."""
         response = client.post(
             "/api/issues",
-            params={"category": "bug", "tool": "test-tool", "note": "Auth test issue"},
+            json={"category": "bug", "tool": "test-tool", "note": "Auth test issue"},
             headers={"Authorization": "Bearer testtoken123"},
         )
         assert response.status_code == 200
@@ -804,6 +823,23 @@ class TestAuthHeaderEdgeCases:
 
 class TestAuthConsistency:
 
+    @pytest.fixture(autouse=True)
+    def _no_live_db_writes(self, monkeypatch):
+        """Keep auth-contract tests from writing real tickets to the live DB.
+
+        This class POSTs /api/issues as part of endpoint sweep — stub the
+        route's DB helpers so no INSERT reaches cadena_knowledge.issues.
+        """
+        import backend.routes.issues as issues_route
+
+        def fake_dict(columns, query):
+            if "MAX(id)" in query:
+                return [{"next_id": 900000}]
+            return []
+
+        monkeypatch.setattr(issues_route, "_sql_write", lambda sql: True)
+        monkeypatch.setattr(issues_route, "_sql_dict", fake_dict)
+
     def test_all_public_read_endpoints_with_auth(self, token_enabled):
         """Verify all PublicRead endpoints work with valid bearer token."""
         headers = {"Authorization": "Bearer testtoken123"}
@@ -868,7 +904,7 @@ class TestAuthConsistency:
         endpoints = [
             ("GET", "/api/comments/itaa-1997/6-5"),
             ("GET", "/api/issues"),
-            ("POST", "/api/issues", {"category": "bug"}),
+            ("POST", "/api/issues", {"category": "bug", "note": "Consistency test"}),
         ]
         for ep in endpoints:
             method = ep[0]
@@ -877,5 +913,5 @@ class TestAuthConsistency:
             if method == "GET":
                 response = client.get(path)
             else:
-                response = client.post(path, params=params if isinstance(params, dict) else {})
+                response = client.post(path, json=params if isinstance(params, dict) else {})
             assert response.status_code == 200, f"{method} {path} returned {response.status_code} (expected 200)"

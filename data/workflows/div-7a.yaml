@@ -1,0 +1,174 @@
+# Div 7A Workflow — v0.2 (draft)
+# Decision map for ITAA 1936 Div 7A: private company payments, loans and
+# debt forgiveness treated as dividends (ss 109B-109ZE).
+# Full statutory structure — 49 sections in corpus, all anchors verified.
+# Note: the genuine-loan exception is s 109N (interest rate + max term),
+# NOT s 109J (which is pecuniary obligations).
+
+id: div-7a
+name: Div 7A — Private Company Distributions
+area: income-tax
+version: 0.2
+entry: [company_type]
+
+nodes:
+
+  company_type:
+    question: "Is the payer a private company? (Div 7A applies to private companies — see s 109C definitions; special rules for non-share dividends s 109BA, closely-held corporate limited partnerships s 109BB, non-resident companies s 109BC)"
+    fetch: ["itaa-1936:109c", "itaa-1936:109ba", "itaa-1936:109bb", "itaa-1936:109bc"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "not a private company (public company, government, non-resident not covered)"
+        then: stop_no_div7a
+      - if: "private company (or closely-held limited partnership / non-share dividend)"
+        then: transaction_type
+
+  transaction_type:
+    question: "What is the transaction? (s 109D loans, s 109F forgiven debts, s 109C payments, s 109XA UPEs — payment includes provision of an asset, s 109CA)"
+    fetch: ["itaa-1936:109d", "itaa-1936:109f", "itaa-1936:109ca"]
+    traverse: ["interpreted_by", "applied_in"]
+    branches:
+      - if: "loan to a shareholder or associate"
+        then: recipient
+      - if: "payment (incl. provision of asset) to shareholder or associate"
+        then: payment
+      - if: "debt forgiveness"
+        then: debt_forgiveness
+      - if: "unpaid present entitlement (UPE) owed by a trust to the company"
+        then: upe
+      - if: "transaction via one or more interposed entities"
+        then: interposed
+
+  recipient:
+    question: "Who is the recipient? (s 109C — shareholder, or an associate of a shareholder; includes non-share dividends s 109BA)"
+    fetch: ["itaa-1936:109c"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "shareholder"
+        then: loan
+      - if: "associate of a shareholder"
+        then: loan
+      - if: "neither shareholder nor associate"
+        then: stop_no_div7a
+
+  loan:
+    question: "Is there a loan? (s 109D — any transaction in the nature of a loan, advances, payments on behalf; includes deemed loans; some payments relating to loans are not taken into account, s 109R)"
+    fetch: ["itaa-1936:109d", "itaa-1936:109r"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "no loan in substance"
+        then: stop_no_div7a
+      - if: "loan exists"
+        then: loan_exceptions
+
+  loan_exceptions:
+    question: "Does any loan exception apply? (s 109M ordinary course arm's length, s 109N genuine loan criteria, s 109NA liquidator's distributions, s 109NB employee share scheme loans, s 109P/109Q amalgamated loans)"
+    fetch: ["itaa-1936:109m", "itaa-1936:109n", "itaa-1936:109na", "itaa-1936:109nb", "itaa-1936:109p"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "ordinary course of business on arm's length terms (s 109M)"
+        then: stop_no_div7a
+      - if: "genuine loan — written agreement, minimum interest rate (benchmark), maximum term (s 109N)"
+        then: stop_no_div7a
+      - if: "liquidator's distribution/loan (s 109NA)"
+        then: stop_no_div7a
+      - if: "loan to purchase shares under an employee share scheme (s 109NB)"
+        then: stop_no_div7a
+      - if: "amalgamated loan (s 109P) — not a dividend in year made, but minimum yearly repayment required (s 109E)"
+        then: amalgamated_loan
+      - if: "no exception"
+        then: deemed_dividend
+
+  amalgamated_loan:
+    question: "Amalgamated loan (s 109P): minimum yearly repayment required in later years (s 109E) — if not met, the shortfall is a deemed dividend. Commissioner may extend (s 109RD) or disregard (s 109Q)."
+    fetch: ["itaa-1936:109p", "itaa-1936:109e", "itaa-1936:109q", "itaa-1936:109rd"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "minimum yearly repayment made"
+        then: stop_no_div7a
+      - if: "minimum repayment not made — shortfall is a dividend"
+        then: deemed_dividend
+      - if: "Commissioner discretion (s 109Q/109RD) exercised"
+        then: stop_no_div7a
+
+  payment:
+    question: "Is the payment excluded? (s 109J payments discharging a pecuniary obligation of the company, s 109K inter-company payments, s 109L certain payments not treated as dividends)"
+    fetch: ["itaa-1936:109j", "itaa-1936:109k", "itaa-1936:109l"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "payment discharging a genuine pecuniary obligation (s 109J)"
+        then: stop_no_div7a
+      - if: "inter-company payment (s 109K)"
+        then: stop_no_div7a
+      - if: "payment covered by s 109L (e.g. dividends, amounts otherwise assessable)"
+        then: stop_no_div7a
+      - if: "no exclusion — payment is a deemed dividend"
+        then: deemed_dividend
+
+  debt_forgiveness:
+    question: "Does the debt forgiveness give rise to a dividend? (s 109F) — or is it excluded by s 109G (e.g. commercial debt forgiveness rules, forgiven amounts otherwise assessable)?"
+    fetch: ["itaa-1936:109f", "itaa-1936:109g"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "forgiven debt to shareholder/associate — s 109F dividend"
+        then: deemed_dividend
+      - if: "s 109G exclusion (commercial debt forgiveness, otherwise assessable)"
+        then: stop_no_div7a
+
+  upe:
+    question: "Unpaid present entitlement (UPE) owed by a trust to a private company: is it treated as a loan back to the trust? (s 109XA — payments/loans/debt forgiveness by a trustee in favour of a shareholder with a UPE; amounts included in assessable income s 109XB; modifications s 109XC; forgiveness of loan debt interplay s 109XD)"
+    fetch: ["itaa-1936:109xa", "itaa-1936:109xb", "itaa-1936:109xc", "itaa-1936:109xd"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "UPE left outstanding — treated as a loan, benchmark interest + 7-year term required"
+        then: loan
+      - if: "UPE structured as genuine loan (written agreement, benchmark rate, term)"
+        then: stop_no_div7a
+      - if: "UPE paid out properly"
+        then: stop_no_div7a
+
+  interposed:
+    question: "Transaction through interposed entities: does Div 7A look through? (s 109T payments/loans through interposed entities, s 109U/109UA guarantees, s 109V/109W amount and loan treatment, s 109X operation of Subdivision D, s 109XF/109XG/109XH loans through interposed entities, s 109XI trust entitlements through interposed trusts)"
+    fetch: ["itaa-1936:109t", "itaa-1936:109u", "itaa-1936:109ua", "itaa-1936:109v", "itaa-1936:109w", "itaa-1936:109x", "itaa-1936:109xf", "itaa-1936:109xg", "itaa-1936:109xh", "itaa-1936:109xi"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "payment/loan to target entity through interposed entities — look-through applies"
+        then: loan
+      - if: "guarantee arrangement (s 109U/109UA)"
+        then: loan
+      - if: "no look-through — ordinary dealing"
+        then: stop_no_div7a
+
+  deemed_dividend:
+    question: "Deemed dividend under Div 7A. Check characteristics: (s 109Z unfrankable, s 109ZA no withholding tax, s 109ZB not a fringe benefit, s 109Y proportional reduction to distributable surplus, s 109ZC/109ZCA treatment of reduced dividends; s 109RA demerger dividends, s 109RB Commissioner may disregard or allow franking, s 109RC family law franking)"
+    fetch: ["itaa-1936:109z", "itaa-1936:109y", "itaa-1936:109za", "itaa-1936:109zb", "itaa-1936:109zc", "itaa-1936:109zca", "itaa-1936:109ra", "itaa-1936:109rb", "itaa-1936:109rc"]
+    traverse: ["interpreted_by", "applied_in", "considered_in"]
+    branches:
+      - if: "demerger dividend (s 109RA) — not treated as dividend"
+        then: stop_no_div7a
+      - if: "Commissioner may disregard or allow franking (s 109RB), or family law obligation (s 109RC)"
+        then: stop_discretion
+      - if: "standard deemed dividend"
+        then: stop_done
+
+  stop_discretion:
+    question: "Commissioner discretion available (s 109RB disregard/franking, s 109RC family law franking) — document the application."
+    terminal: true
+
+  stop_no_div7a:
+    question: "Div 7A does not apply (exception or genuine commercial dealing) — no deemed dividend."
+    terminal: true
+
+  stop_done:
+    question: "Div 7A applies — deemed dividend assessable to the shareholder/associate; unfrankable (s 109Z); check distributable surplus cap (s 109Y)."
+    terminal: true
+
+rules:
+  - "Div 7A deems private company payments, loans and forgiven debts to shareholders/associates to be dividends (s 109D/109F)."
+  - "The genuine-loan exception is s 109N: written agreement, minimum (benchmark) interest rate, maximum term — NOT s 109J (which covers pecuniary obligations)."
+  - "Loan repaid by the lodgement day of the income year avoids Div 7A entirely (s 109J(2) style timing — check current law)."
+  - "Amalgamated loans (s 109P/109E) are deferred, not exempt — minimum yearly repayments must be tracked."
+  - "UPEs (s 109XA-109XC) are the current hot spot — unpaid trust entitlements owed to companies must be structured as benchmark loans."
+  - "Look-through rules (s 109T-109W) catch distributions via interposed entities and guarantees."
+  - "Deemed dividends are unfrankable (s 109Z) and capped by distributable surplus (s 109Y)."
+  - "Authorities must cite section numbers plus ruling/case references from the graph — never invented."
