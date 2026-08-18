@@ -17,6 +17,7 @@ from backend.services.search_service import (
 )
 from backend.services import vector_search_service, reranker
 from backend.services.graph_neighborhood import neighborhoods as graph_neighborhoods
+from backend.services.graph_alias import lookup as alias_lookup
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
@@ -143,17 +144,45 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50, dep
 
     # Graph neighbourhood enrichment (spec §6.1): counts + top-3 per edge type.
     # depth is accepted now; depth=2 aggregation lands with serialization (Phase 2).
+    aliases: list[dict] = []
     try:
         graph_keys = [f"section:{r['act']}:{r['section']}" for r in page if r.get("act") and r.get("section")]
-        neigh = graph_neighborhoods(graph_keys) if graph_keys else {}
+
+        # Entity-alias resolution: the raw query and each result's citation/title/name
+        # can map to a canonical graph key the FTS text match missed (e.g. a search
+        # for "FBTAA section 49" or "Glenn v Federal Commissioner of Land Tax").
+        alias_hits: dict[str, str] = {}
+
+        def _probe(ref) -> None:
+            if not ref:
+                return
+            key = alias_lookup(ref)
+            if key and key not in alias_hits:
+                alias_hits[key] = ref
+
+        _probe(q)
+        for r in page:
+            for field in ("citation", "title", "name"):
+                _probe(r.get(field))
+
+        result_keys = set(graph_keys)
+        extra_keys = [k for k in alias_hits if k not in result_keys]
+        neigh = graph_neighborhoods(graph_keys + extra_keys) if (graph_keys or extra_keys) else {}
         for r in page:
             g = neigh.get(f"section:{r['act']}:{r['section']}")
             if g:
                 r["graph"] = g
+        for k in extra_keys:
+            g = neigh.get(k)
+            if g:
+                aliases.append({"ref": alias_hits[k], "key": k, "graph": g})
     except Exception:
         logger.exception("[graph] neighbourhood enrichment failed — returning search without graph field")
 
-    return {"results": page, "total": total, "offset": offset, "limit": limit, "engine": engine}
+    resp = {"results": page, "total": total, "offset": offset, "limit": limit, "engine": engine}
+    if aliases:
+        resp["aliases"] = aliases
+    return resp
 
 
 @router.get("/api/unified-search")

@@ -18,6 +18,7 @@ from fastapi import APIRouter, Query
 from fastapi.responses import JSONResponse
 
 from backend.config import BASE
+from backend.services.graph_alias import lookup as alias_lookup
 
 logger = logging.getLogger(__name__)
 
@@ -307,12 +308,21 @@ def graph_path(
         conn.close()
 
 
+def _key_type(key: str) -> str:
+    """Map a canonical graph key to the /api/graph/data `type` vocabulary."""
+    prefix = key.split(":", 1)[0]
+    if prefix == "public_ruling":
+        return "ruling"
+    return prefix
+
+
 @router.get("/api/graph/data")
 def graph_data(
-    type: str = Query(alias="type"),
+    type: str | None = Query(default=None, alias="type"),
     act: str | None = Query(default=None),
     section: str | None = Query(default=None),
     citation: str | None = Query(default=None),
+    ref: str | None = Query(default=None),
     depth: int = Query(default=1, ge=1, le=3),
 ):
     """Return nodes and edges for a force-directed graph centered on an item.
@@ -322,8 +332,19 @@ def graph_data(
       act:       act key (required for type=section), e.g. "itaa-1997"
       section:   section id (required for type=section), e.g. "8-1"
       citation:  citation (required for type=ruling or case), e.g. "TR 2025/1"
+      ref:       raw ref resolved via the entity-alias map (alternative to
+                 type+params), e.g. "FBTAA section 49"
       depth:     expansion depth (1-3, default 1). Higher = more neighbours.
     """
+    if ref:
+        key = alias_lookup(ref)
+        if key is None:
+            return JSONResponse({"error": f"could not resolve ref: {ref}"}, status_code=404)
+        result = _resolve_from_graph(key, depth)
+        result["meta"] = {"type": _key_type(key), "depth": depth,
+                          "node_count": len(result["nodes"]), "edge_count": len(result["edges"])}
+        return result
+
     if type == "section":
         if not act or not section:
             return JSONResponse({"error": "act and section required for type=section"}, status_code=400)
@@ -337,6 +358,8 @@ def graph_data(
             return JSONResponse({"error": "citation required for type=case"}, status_code=400)
         result = _resolve_case(citation, depth)
     else:
+        if type is None:
+            return JSONResponse({"error": "type or ref required"}, status_code=400)
         return JSONResponse({"error": f"Unknown type: {type}"}, status_code=400)
 
     result["meta"] = {"type": type, "depth": depth, "node_count": len(result["nodes"]), "edge_count": len(result["edges"])}
