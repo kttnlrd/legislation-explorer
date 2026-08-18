@@ -169,15 +169,10 @@ check("case_legislation_refs", "legislation_refs" in data or "error" not in str(
 _, resp = mcp("tools/call", {"name":"get_rulings_for_section","arguments":{"act":"itaa-1997","section":"8-1"}}, sid)
 check("get_rulings_for_section returns error", "error" in str(resp).lower() or resp.get("result",{}).get("isError"))
 
-# report_issue
-_, resp = mcp("tools/call", {"name": "report_issue", "arguments": {
-    "category": "tool_error",
-    "tool": "test_prod_v270",
-    "params": {"note": "automated test pass"},
-    "note": "automated test pass",
-}}, sid)
+# report_issue — verify tool responds to validation without writing a live ticket
+_, resp = mcp("tools/call", {"name": "report_issue", "arguments": {"category": "suggestion"}}, sid)
 data = json.loads(resp["result"]["content"][0]["text"])
-check("report_issue", "error" not in str(data).lower() or "already" in str(data))
+check("report_issue rejects empty payload (no ticket written)", data.get("status") == "rejected")
 
 print(f"\n═══ Results ═══")
 print(f"  ✅ {results['pass']} passed")
