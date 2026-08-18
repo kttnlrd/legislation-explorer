@@ -398,9 +398,8 @@ def run_domain(name: str, sample_size: int, seed: int, verbose: bool, baseline: 
         "cosmetic_files": cosm_files,
         "cosmetic_rate": round(cosm_rate, 4),
         "by_check": dict(by_check),
-        "defects": (crit + cosm) if verbose else crit[:20],
+        "defects": crit + cosm,
         "defect_count_total": len(defects),
-        "defects_truncated": len(crit) > 20 and not verbose,
         "new_critical_vs_baseline": len(new_crit),
     }
     return report
@@ -417,7 +416,8 @@ def main() -> int:
                     help="max acceptable critical file defect rate (default 0.05)")
     ap.add_argument("--baseline", type=str, default=None,
                     help="JSON report from a previous run; gate fails on NEW critical defects vs it")
-    ap.add_argument("--verbose", action="store_true")
+    ap.add_argument("--verbose", action="store_true",
+                    help="(deprecated — all defects are always reported)")
     ap.add_argument("--json-out", type=str, default=None)
     args = ap.parse_args()
 
@@ -454,9 +454,11 @@ def main() -> int:
         if rep["by_check"]:
             for k, v in sorted(rep["by_check"].items(), key=lambda x: -x[1]):
                 print(f"    {k}: {v}")
-        for dd in rep["defects"][:8]:
-            sev = dd.get("severity", "?")
-            print(f"    - [{sev}] {dd.get('rel', dd.get('path',''))}: {dd['check']} @{dd['line']} {dd['detail'][:60]}")
+        if rep["defects"]:
+            print(f"    defects ({len(rep['defects'])}):")
+            for dd in rep["defects"]:
+                sev = dd.get("severity", "?")
+                print(f"      - [{sev}] {dd.get('rel', dd.get('path',''))}: {dd['check']} @{dd['line']} {dd['detail'][:100]}")
 
     # aggregate
     tot_pop = sum(r["population"] for r in all_reports)
