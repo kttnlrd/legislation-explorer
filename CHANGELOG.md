@@ -14,6 +14,8 @@
 - Cases: 7,359 titles backfilled from `case_name`; error-stubs treated as honest records.
 - Private rulings: already clean (57,608 JSONs, 0 critical).
 - 0.0% critical error rate across 97,183 records; baseline diff mode (`--baseline`) added.
+- Verifier sampling randomised per run (fresh seed unless pinned with `--seed`) — successive runs exercise different files; fixed seed-42 had been masking defects.
+- `trailing_junk` check made span-aware: skips legit headings/list items/inline lead-ins; flags only genuine dangling tails (corpus scan: 0 real cases). Ruling summary titles >500 chars truncated (10 TD files). Case summary titles backfilled from AustLII headings (11 ARTA files).
 
 **New features**
 - `PATCH /api/issues/{id}` — update issue status (open/known/fixed) and note; sets `fixed` timestamp on transition to fixed. Previously no update path existed (405).

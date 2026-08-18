@@ -3,7 +3,9 @@
 verify_data_integrity.py — Standardised data integrity gate for Legislation Explorer.
 
 Assesses the accuracy and cleanliness of the data corpus using statistical
-random sampling with a fixed seed (deterministic, repeatable).
+random sampling. The sample seed is randomised on every run (unless pinned
+with --seed for reproducibility), so successive runs cover different files
+and the whole corpus gets exercised over time.
 
 Domains (--domain):
   sections       Legislation section .md files (per act)
@@ -43,6 +45,7 @@ import math
 import os
 import random
 import re
+import secrets
 import sqlite3
 import sys
 from collections import Counter, defaultdict
@@ -174,17 +177,37 @@ def check_section(item: dict, graph_conn) -> list[dict]:
             if not body.strip():
                 issues.append({"check": "structure", "severity": "critical", "line": 1, "detail": "empty body"})
 
-    # artifacts (skip trailing_junk on heading/title lines — legit section titles)
+    # artifacts: scan_artifacts for non-trailing_junk checks; trailing_junk is
+    # span-aware below so we can tell legit headings from genuine dangling tails.
     for a in scan_artifacts(text, str(p)):
-        if a["check"] == "trailing_junk":
-            ln = text.splitlines()[a["line"] - 1] if a["line"] - 1 < len(text.splitlines()) else ""
-            stripped = ln.lstrip()
-            if stripped.startswith("# ") or stripped.startswith("#"):
-                continue  # legit H1 section title
-            # legit repeated title line right after the H1 (e.g. "39GC Meaning of ...")
-            if a["line"] == 2:
-                continue
-        issues.append(a)
+        if a["check"] != "trailing_junk":
+            issues.append(a)
+
+    lines = text.splitlines()
+    for m in TRAILING_JUNK_RE.finditer(text):
+        line_no = text.count("\n", 0, m.start()) + 1
+        if line_no - 1 >= len(lines):
+            continue
+        stripped = lines[line_no - 1].lstrip()
+        if stripped.startswith("#"):
+            continue  # legit H1/H2 section title
+        if line_no == 2:
+            continue  # legit repeated title line right after the H1
+        if stripped.startswith("- ") or stripped.startswith("* "):
+            continue  # legit TOC-dump list items
+        line_end = text.find("\n", m.end())
+        if line_end == -1:
+            line_end = len(text)
+        if text[m.end():line_end].strip():
+            continue  # inline lead-in with body on the same line (e.g. "Meaning of employee The term …")
+        rest = re.sub(
+            r"^\s*(?:---|\*.*\*|Last updated.*)$", "",
+            "\n".join(lines[line_no:]), flags=re.M,
+        ).strip()
+        if rest:
+            continue  # standalone heading introducing following content (e.g. s 738G(3) "Meaning of related party")
+        issues.append({"check": "trailing_junk", "severity": "critical",
+                       "line": line_no, "detail": re.sub(r"\s+", " ", m.group(0))[:80]})
 
     # stray tail: last non-empty line a lone short lowercase word
     lines = [l.strip() for l in text.splitlines() if l.strip()]
@@ -385,7 +408,8 @@ def main() -> int:
     ap.add_argument("--domain", choices=list(DOMAINS) + ["all"], default="all")
     ap.add_argument("--sample-size", type=int, default=0,
                     help="0=auto (Cochran 95/5), or fixed N per domain")
-    ap.add_argument("--seed", type=int, default=42)
+    ap.add_argument("--seed", type=int, default=None,
+                    help="RNG seed for sampling; omit for a fresh random seed each run")
     ap.add_argument("--threshold", type=float, default=0.05,
                     help="max acceptable critical file defect rate (default 0.05)")
     ap.add_argument("--baseline", type=str, default=None,
@@ -405,14 +429,16 @@ def main() -> int:
     domains = list(DOMAINS) if args.domain == "all" else [args.domain]
     all_reports = []
     fail = False
+    # Randomise the sample every run unless the caller pins --seed.
+    seed = args.seed if args.seed is not None else secrets.randbelow(2**31)
     print("=" * 70)
     print("DATA INTEGRITY VERIFICATION")
-    print(f"seed={args.seed}  sample={'auto (Cochran 95/5)' if args.sample_size == 0 else args.sample_size}  "
+    print(f"seed={seed}  sample={'auto (Cochran 95/5)' if args.sample_size == 0 else args.sample_size}  "
           f"threshold={args.threshold}  baseline={'yes' if baseline else 'no'}")
     print("=" * 70)
 
     for d in domains:
-        rep = run_domain(d, args.sample_size, args.seed, args.verbose, baseline)
+        rep = run_domain(d, args.sample_size, seed, args.verbose, baseline)
         all_reports.append(rep)
         new_vs_base = rep.get("new_critical_vs_baseline", 0)
         status = "FAIL" if rep["critical_rate"] > args.threshold else "PASS"
@@ -441,7 +467,7 @@ def main() -> int:
     print(f"RESULT: {'FAIL' if fail else 'PASS'}")
 
     if args.json_out:
-        out = {"seed": args.seed, "threshold": args.threshold,
+        out = {"seed": seed, "threshold": args.threshold,
                "baseline": args.baseline,
                "domains": all_reports,
                "total": {"population": tot_pop, "sampled": tot_sam,
