@@ -22,14 +22,13 @@ interface SearchPanelProps {
   onNavigate: (act: string, section: string) => void
   isMobile: boolean
   onResultsChange?: (count: number) => void
-  onAtoSearch?: () => void
 }
 
-export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChange, onAtoSearch }: SearchPanelProps) {
+export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChange }: SearchPanelProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<FlatResult[]>([])
   const [unfilteredResults, setUnfilteredResults] = useState<FlatResult[]>([])
-  const [filterOpen, setFilterOpen] = useState(false)
+  const [filterOpen, setFilterOpen] = useState(true)
   const [sortMode, setSortMode] = useState<'bestmatch' | 'bysection' | 'byact'>('bestmatch')
   const [loading, setLoading] = useState(false)
   const [selectedActs, setSelectedActs] = useState<Set<string>>(new Set())
@@ -272,23 +271,6 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
         >
           Search
         </button>
-        {onAtoSearch && (
-          <button
-            onClick={onAtoSearch}
-            title="Search the ATO Legal Database (live)"
-            style={{
-              padding: isMobile ? '10px 12px' : '8px 12px', borderRadius: 6,
-              background: COLORS.surface, color: COLORS.textMuted,
-              border: `1px solid ${COLORS.border}`,
-              fontSize: 13, cursor: 'pointer',
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-              fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-              whiteSpace: 'nowrap',
-            }}
-          >
-            ATO
-          </button>
-        )}
         <button
           onClick={() => setFilterOpen(!filterOpen)}
           title="Filters"
@@ -345,15 +327,14 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
         </div>
       )}
 
-      {/* Filters panel — absolutely positioned dropdown */}
+      {/* Filters panel — always visible, collapsible via the Filters button */}
       {filterOpen && (
         <div style={{
-          position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 300,
-          marginTop: 2, background: COLORS.bg, borderRadius: 6,
+          position: 'relative',
+          background: COLORS.bg, borderRadius: 6,
           border: `1px solid ${COLORS.border}`,
           padding: 10,
           display: 'flex', flexDirection: 'column', gap: 8,
-          boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
         }}>
           <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Match:</div>
           <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
@@ -518,14 +499,15 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
           }}>
             {pageResults.map((r, i) => {
               const badgeBg = r.type === 'case' ? '#8B5CF6' :
-                r.type === 'ruling' ? '#F59E0B' :
+                r.type === 'ruling' || r.type === 'private_ruling' ? '#F59E0B' :
                 r.type === 'commentary' ? '#10B981' :
                 COLORS.accent
               const badgeLabel = r.type === 'case' ? 'Case' :
                 r.type === 'ruling' ? 'Ruling' :
+                r.type === 'private_ruling' ? 'PR' :
                 r.type === 'commentary' ? 'Comm' :
                 'Sec'
-              const isRuling = r.type === 'ruling' || r.act === 'rulings'
+              const isRuling = r.type === 'ruling' || r.type === 'private_ruling' || r.act === 'rulings'
               const isCchGuide = r.act.startsWith('master-')
               const isCase = r.type === 'case'
               const sectionDisplay = isCase

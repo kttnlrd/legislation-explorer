@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import re
 import logging
 import math
@@ -59,6 +60,63 @@ def _graph_degrees() -> dict[str, int]:
 MAX_SUGGEST = 12
 
 SECTION_NUMBER_RE = re.compile(r'^[0-9]+(-[0-9]+)?$')
+
+# --- Private rulings search ------------------------------------------------
+_PRIVATE_RULINGS_INDEX: dict | None = None
+_PRIVATE_RULINGS_INDEX_MTIME: float = 0.0
+_PRIVATE_RULINGS_PATH = DATA_DIR / "private_rulings_index.json"
+
+
+def _load_private_rulings_index() -> dict:
+    global _PRIVATE_RULINGS_INDEX, _PRIVATE_RULINGS_INDEX_MTIME
+    try:
+        mtime = _PRIVATE_RULINGS_PATH.stat().st_mtime
+        if _PRIVATE_RULINGS_INDEX is None or mtime != _PRIVATE_RULINGS_INDEX_MTIME:
+            _PRIVATE_RULINGS_INDEX = json.loads(_PRIVATE_RULINGS_PATH.read_text())
+            _PRIVATE_RULINGS_INDEX_MTIME = mtime
+    except Exception:
+        logger.exception("Failed to load private rulings index")
+        _PRIVATE_RULINGS_INDEX = _PRIVATE_RULINGS_INDEX or {}
+    return _PRIVATE_RULINGS_INDEX
+
+
+def search_private_rulings(q: str, limit: int = 50, operator: str = "AND") -> list[dict]:
+    """Match private rulings by authnum (bare number), year, or name keywords."""
+    idx = _load_private_rulings_index()
+    if not idx:
+        return []
+    ql = q.strip().lower()
+    if not ql:
+        return []
+    terms = [t for t in ql.split()]
+    is_number = ql.isdigit()
+    out: list[dict] = []
+    for authnum, meta in idx.items():
+        if len(out) >= limit:
+            break
+        name = (meta.get("name") or "").lower()
+        year = str(meta.get("year") or "")
+        if is_number:
+            # Bare number: authnum substring (13-digit EV ids) or exact year
+            hit = (len(ql) >= 4 and ql in authnum) or ql == year
+        else:
+            if operator == "OR":
+                hit = any(t in authnum or t in name for t in terms)
+            else:
+                hit = all(t in authnum or t in name for t in terms)
+        if not hit:
+            continue
+        out.append({
+            "act": "private-rulings",
+            "section": authnum,
+            "title": meta.get("name") or authnum,
+            "year": meta.get("year"),
+            "date": meta.get("date_of_advice"),
+            "snippet": f"Private ruling {authnum}" + (f" — {meta.get('name')}" if meta.get("name") else ""),
+            "source_type": "private_ruling",
+            "type": "private_ruling",
+        })
+    return out
 
 # Normalize old-format citations (e.g. "2015_FCAFC_168" → "[2015] FCAFC 168")
 CITATION_NORMALIZE_RE = re.compile(r'^(\d{4})_([A-Z]+)_(\d+)$')
@@ -137,6 +195,15 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50, dep
                         for sec in sub.get("sections", []):
                             if q_lower in sec["id"].lower() or q_lower in sec.get("title", "").lower():
                                 all_results.append({"act": a, "section": sec["id"], "title": sec.get("title", "")})
+
+    # Private rulings by authnum / year / name — searchable by bare number
+    if act is None or act == "private-rulings":
+        try:
+            for pr in search_private_rulings(q, limit=50):
+                if not any(r.get("act") == "private-rulings" and r.get("section") == pr["section"] for r in all_results):
+                    all_results.append(pr)
+        except Exception:
+            logger.exception("Private ruling search failed")
 
     total = len(all_results)
     page = all_results[offset:offset + limit]
@@ -355,6 +422,14 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         ruling_results = []
 
     try:
+        private_results = search_private_rulings(q, limit=50, operator=operator)
+    except Exception:
+        logger.exception("Private ruling search failed")
+        private_results = []
+    if type_filter and not (type_filter & {"ruling", "private_ruling"}):
+        private_results = []
+
+    try:
         vector_results = vector_search_service.search(q, limit=50)
     except Exception:
         logger.exception("Vector search failed")
@@ -449,6 +524,11 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
         merged.setdefault(key, {**r, "embedding_id": None, "source_type": "ruling"})
 
+    for rank, r in enumerate(private_results):
+        key = (r["act"], r["section"])
+        scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
+        merged.setdefault(key, {**r, "embedding_id": None})
+
     # Citation-style queries ("118-110", "s 6(1)") — exact/prefix hits on the
     # section id, folded in as just another RRF list.
     if not type_filter or "section" in type_filter:
@@ -480,6 +560,12 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
             item = merged[key]
             st = item.get("source_type")
             if st == "ruling":
+                y = item.get("year")
+                return f"{y}-01-01" if y else None
+            if st == "private_ruling":
+                d = item.get("date")
+                if d:
+                    return str(d)[:10]
                 y = item.get("year")
                 return f"{y}-01-01" if y else None
             if st == "case":

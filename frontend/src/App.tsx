@@ -6,7 +6,6 @@ import { api } from './api'
 import { Tree, PinItem, COLORS } from './components/common/types'
 import { TreeNode, findExpandedIds } from './components/TreeNode'
 import MCPModal from './components/MCPModal'
-import AtoSearchModal from './components/AtoSearchModal'
 import KeyboardShortcuts from './components/KeyboardShortcuts'
 import PinnedTabs from './components/PinnedTabs'
 import SmartLinkPanel from './components/SmartLinkPanel'
@@ -123,7 +122,6 @@ export default function App() {
   const [rulingsForSectionData, setRulingsForSectionData] = useState<any>(null)
 
   const [mcpOpen, setMcpOpen] = useState(false)
-  const [atoOpen, setAtoOpen] = useState(false)
   const [searchPage, setSearchPage] = useState(false)
   const [showShortcuts, setShowShortcuts] = useState(false)
   const [pickerOpen, setPickerOpen] = useState(false)
@@ -913,6 +911,12 @@ export default function App() {
               onNavigate={(targetAct, section) => {
                 if (targetAct === 'tax-cases') {
                   onNavigateCase(section)
+                } else if (targetAct === 'private-rulings') {
+                  setAct(targetAct)
+                  setSearchPage(false)
+                  setActivePrivateRuling(section)
+                  setActiveSection('')
+                  setActiveRuling(null)
                 } else {
                   setAct(targetAct)
                   setSearchPage(false)
@@ -927,7 +931,6 @@ export default function App() {
               }}
               isMobile={isMobile}
               onResultsChange={setSearchResultsCount}
-              onAtoSearch={() => setAtoOpen(true)}
             />
           </div>
         ) : activeMap ? (
@@ -1081,7 +1084,6 @@ export default function App() {
       </div>
 
       <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
-      <AtoSearchModal open={atoOpen} onClose={() => setAtoOpen(false)} />
       {settingsOpen && <SettingsPanel onClose={() => setSettingsOpen(false)} />}
       <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
 
